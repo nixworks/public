@@ -15,7 +15,7 @@ After three weeks of political squabbling over key posts Lebanon&#39;s Prime Min
 ### [ Former Bosnian Croat soldier Miroslav Bralo pleads guilty for war crimes in the UN war crimes tribunal in the Hague ](/news/2005/07/19/former-bosnian-croat-soldier-miroslav-bralo-pleads-guilty-for-war-crimes-in-the-un-war-crimes-tribunal-in-the-hague.md)
 _Context: Miroslav Bralo, war crime_
 
-##### United Kingdom
+##### UK
 ### [ UK court sentences Afghan warlord Faryadi Sarwar Zardad for 20 years in jail for war crimes ](/news/2005/07/19/uk-court-sentences-afghan-warlord-faryadi-sarwar-zardad-for-20-years-in-jail-for-war-crimes.md)
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
@@ -25,7 +25,7 @@ _Context: Thai Journalist's Association, Thailand, censorship, mass media, phone
 
 ##### Indian Prime Minister
 ### [ Prime Minister Manmohan Singh of India addresses joint session of US Congress in his historic visit to the US. ](/news/2005/07/19/prime-minister-manmohan-singh-of-india-addresses-joint-session-of-us-congress-in-his-historic-visit-to-the-us.md)
-_Context: India, Indian Prime Minister, Manmohan Singh, U.S., US Congress_
+_Context: India, Indian Prime Minister, Manmohan Singh, US Congress, United States_
 
 ##### Canadian Senate
 ### [ The Canadian Senate passes Bill C-38 to legalize same-sex marriage in Canada. The bill will become law when it receives Royal Assent from Governor General Adrienne Clarkson, scheduled for tomorrow. ](/news/2005/07/19/the-canadian-senate-passes-bill-c-38-to-legalize-same-sex-marriage-in-canada-the-bill-will-become-law-when-it-receives-royal-assent-from-g.md)

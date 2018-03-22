@@ -7,7 +7,7 @@ Formats: [HTML](2015/08/1/index.html)  [JSON](2015/08/1/index.json)  [XML](2015/
 ### [A landslide in India's Manipur state near the border with Myanmar buries a village and kills at least twenty people. ](/news/2015/08/1/a-landslide-in-india-s-manipur-state-near-the-border-with-myanmar-buries-a-village-and-kills-at-least-twenty-people.md)
 _Context: India, Manipur_
 
-##### Myanmar's president's office
+##### Myanmar President
 ### [The President of Myanmar Thein Sein declares a state of emergency in four regions, Chin State, Magwe Region, Sagaing Region and Rakhine State, after floods kill at least 27 people. ](/news/2015/08/1/the-president-of-myanmar-thein-sein-declares-a-state-of-emergency-in-four-regions-chin-state-magwe-region-sagaing-region-and-rakhine-stat.md)
 As torrential rain continues, dozens die in eastern India and neighbouring Myanmar, where disaster zones have been declared.
 

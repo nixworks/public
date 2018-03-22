@@ -51,7 +51,7 @@ President Poroshenko says Ukrainian forces have restored control over Maryinka, 
 ### [The Taliban launches a major offensive in the Yamgan District of Badakhshan Province with hundreds of militants involved. ](/news/2015/06/6/the-taliban-launches-a-major-offensive-in-the-yamgan-district-of-badakhshan-province-with-hundreds-of-militants-involved.md)
 _Context: Badakhshan, Taliban, War in Afghanistan (2015-present), Yamgan District_
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [Saudi Arabia shoots down a Scud missile fired by Houthi rebels in Yemen according to Saudi State media. ](/news/2015/06/6/saudi-arabia-shoots-down-a-scud-missile-fired-by-houthi-rebels-in-yemen-according-to-saudi-state-media.md)
 Four&#x20;Saudi&#x20;soldiers&#x20;and&#x20;dozens&#x20;of&#x20;Yemeni&#x20;rebels&#x20;were&#x20;killed&#x20;during&#x20;a&#x20;fresh&#x20;rebel&#x20;offensive&#x20;near&#x20;the&#x20;border&#x20;on&#x20;Saturday&#x20;as&#x20;Saudi&#x20;Arabia&#x20;said&#x20;it&#x20;shot&#x20;down&#x20;a&#x20;Scud&...
 

@@ -15,7 +15,7 @@ _Context: Belgium, Bruges, Frank Van Den Bleeken, euthanise_
 ### [The Cypriot-registered cargo ship Cemfjord sinks off the northern coast of Scotland leaving eight onboard missing. ](/news/2015/01/3/the-cypriot-registered-cargo-ship-cemfjord-sinks-off-the-northern-coast-of-scotland-leaving-eight-onboard-missing.md)
 The search for the eight missing crew of the cargo ship Cemfjord in the Pentland Firth is suspended by coastguards.
 
-##### Norway
+##### Norwegian
 ### [Bulk Jupiter, a Norwegian-owned cargo ship, sinks off the coast of Vietnam, with eighteen dead and one survivor. ](/news/2015/01/3/bulk-jupiter-a-norwegian-owned-cargo-ship-sinks-off-the-coast-of-vietnam-with-eighteen-dead-and-one-survivor.md)
 A Norwegian cargo ship with 19 crew members sank off the coast of Vietnam, with only one man known to have survived.
 

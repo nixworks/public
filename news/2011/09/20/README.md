@@ -19,9 +19,9 @@ A group of Italian scientists went on trial yesterday accused of manslaughter fo
 ### [The United States military officially ends its policy known as "don't ask, don't tell" and allows homosexual personnel to publicly declare their sexual orientation without being dismissed. ](/news/2011/09/20/the-united-states-military-officially-ends-its-policy-known-as-don-t-ask-don-t-tell-and-allows-homosexual-personnel-to-publicly-declare-t.md)
 At 12:01 a.m. Tuesday, 1st Lt. Josh Seefried, who founded an undercover group of 4,000 gay, lesbian, bisexual and transgender active-duty service members, dropped his pseudonym.
 
-##### Norway
+##### Norwegian
 ### [A Norwegian judge orders Anders Behring Breivik, the perpetrator of the 2011 Norway attacks, to be kept in solitary confinement for four more weeks. ](/news/2011/09/20/a-norwegian-judge-orders-anders-behring-breivik-the-perpetrator-of-the-2011-norway-attacks-to-be-kept-in-solitary-confinement-for-four-mor.md)
-_Context: 2011 Norway attacks, Anders Behring Breivik, Norway, solitary confinement_
+_Context: 2011 Norway attacks, Anders Behring Breivik, Norwegian, solitary confinement_
 
 ##### African Union
 ### [The African Union officially recognises the National Transitional Council as Libya's legitimate leadership. ](/news/2011/09/20/the-african-union-officially-recognises-the-national-transitional-council-as-libya-s-legitimate-leadership.md)

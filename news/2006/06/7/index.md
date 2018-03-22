@@ -17,7 +17,7 @@ _Context: United States Senate, cloture, constitutional amendment, same-sex marr
 
 ##### Meteorite
 ### [ A meteorite impact event occurs in northern Troms County, Norway. Locals compare the resultant explosion to the nuclear explosion at Hiroshima. The impact location was apparently desolate, and no structural damage or casualties are reported. ](/news/2006/06/7/a-meteorite-impact-event-occurs-in-northern-troms-county-norway-locals-compare-the-resultant-explosion-to-the-nuclear-explosion-at-hirosh.md)
-_Context: Norway, Troms, dropped, impact, meteorite_
+_Context: Norwegian, Troms, dropped, impact, meteorite_
 
 ## [Previous Day...](/news/2006/06/6/index.md)
 

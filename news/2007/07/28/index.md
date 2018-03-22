@@ -37,7 +37,7 @@ _Context: Andres Penate, Colombia, FARC_
 
 ##### Pakistan
 ### [ Pakistan raises concerns about a draft bill adopted by the United States Congress that ties United States foreign aid to progress in the fight against Al Qaeda and the Taliban. ](/news/2007/07/28/pakistan-raises-concerns-about-a-draft-bill-adopted-by-the-united-states-congress-that-ties-united-states-foreign-aid-to-progress-in-the-fi.md)
-_Context: Al Qaeda, Congress, Pakistan, Taliban, U.S., foreign aid_
+_Context: Al Qaeda, Congress, Pakistan, Taliban, United States, foreign aid_
 
 ## [Previous Day...](/news/2007/07/27/index.md)
 

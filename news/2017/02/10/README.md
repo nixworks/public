@@ -13,7 +13,7 @@ Price, who served in Congress since 2005, has been a major proponent of dismantl
 
 ##### Peru
 ### [A judge in Peru issues an arrest warrant for former President Alejandro Toledo for allegedly receiving US$20 million in bribes from Odebrecht, a Brazilian construction company, in exchange for a contract deal to build a transoceanic highway between Brazil and the Peruvian coast. Toledo denies any wrongdoing. ](/news/2017/02/10/a-judge-in-peru-issues-an-arrest-warrant-for-former-president-alejandro-toledo-for-allegedly-receiving-us-20-million-in-bribes-from-odebrech.md)
-_Context: $, Alejandro Toledo, Brazil, Odebrecht, Peru, President, bribes_
+_Context: Alejandro Toledo, Brazil, Odebrecht, Peru, Peruvian President, US$, bribes_
 
 ##### U.S. immigration suspension legal challenges
 ### [Aboard Air Force One, President Trump tells reporters he is considering issuing a revised policy banning citizens of certain countries traveling to the United States. ](/news/2017/02/10/aboard-air-force-one-president-trump-tells-reporters-he-is-considering-issuing-a-revised-policy-banning-citizens-of-certain-countries-trave.md)

@@ -25,15 +25,15 @@ _Context: Geneva II_
 
 ##### North Korea
 ### [Talks between North Korea and the United States occur, with North and South Korea scheduled to start high-level talks tomorrow. ](/news/2014/02/11/talks-between-north-korea-and-the-united-states-occur-with-north-and-south-korea-scheduled-to-start-high-level-talks-tomorrow.md)
-_Context: North Korea, U.S._
+_Context: North Korea, United States_
 
 ##### Cyprus dispute
 ### [Under pressure to extract natural gas reserves, talks occur over the Cyprus dispute. ](/news/2014/02/11/under-pressure-to-extract-natural-gas-reserves-talks-occur-over-the-cyprus-dispute.md)
 _Context: Cyprus dispute_
 
-##### China
+##### Chinese
 ### [The first governmental meetings occur between the People's Republic of China (China) and the Republic of China (Taiwan) after a 65-year hiatus. ](/news/2014/02/11/the-first-governmental-meetings-occur-between-the-people-s-republic-of-china-china-and-the-republic-of-china-taiwan-after-a-65-year-hiat.md)
-_Context: China, Taiwan_
+_Context: Chinese, Taiwan_
 
 ##### Military transport plane has crashed
 ### [A military transport plane has crashed in a mountainous area of Oum El Bouaghi Province in eastern Algeria, killing 77 people. ](/news/2014/02/11/a-military-transport-plane-has-crashed-in-a-mountainous-area-of-oum-el-bouaghi-province-in-eastern-algeria-killing-77-people.md)

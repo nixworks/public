@@ -31,7 +31,7 @@ Six teenagers from a Burundi robotics team have been reported missing after an i
 ### [Citing improved airport security, U.S. officials lift the ban on electronics on certain flights to some Middle Eastern countries. ](/news/2017/07/20/citing-improved-airport-security-u-s-officials-lift-the-ban-on-electronics-on-certain-flights-to-some-middle-eastern-countries.md)
 _Context: 2017 electronics ban_
 
-##### U.S.
+##### United States
 ### [A hearing in the U.S. Senate is held about alleged human rights violations in the Philippines's war against illegal drugs. ](/news/2017/07/20/a-hearing-in-the-u-s-senate-is-held-about-alleged-human-rights-violations-in-the-philippines-s-war-against-illegal-drugs.md)
 The hearing is scheduled Thursday 10 pm (Manila time). Watch it live on Rappler.
 

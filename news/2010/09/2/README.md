@@ -15,7 +15,7 @@ The company says proposed legislation could disrupt its efforts to set aside $20
 ### [Independent Member of the Australian House of Representatives Andrew Wilkie announces that he will support the Gillard Labor Government on supply and confidence. ](/news/2010/09/2/independent-member-of-the-australian-house-of-representatives-andrew-wilkie-announces-that-he-will-support-the-gillard-labor-government-on-s.md)
 _Context: Andrew Wilkie, Australian House of Representatives, Australian Labor Party, Julia Gillard_
 
-##### United Kingdom
+##### UK
 ### [Figures show that at least 2,000 British police officers had 3 or more complaints made against them in 2009-10. ](/news/2010/09/2/figures-show-that-at-least-2-000-british-police-officers-had-3-or-more-complaints-made-against-them-in-2009-10.md)
 At least 2,000 police officers were subject to three or more complaints by members of the public in the last year, figures obtained by the BBC show.
 
@@ -53,7 +53,7 @@ A Pakistani diplomat calls for a probe into allegations that rich landowners div
 
 ##### Mexican Army
 ### [The Mexican Army claims to have killed 25 drug cartel gunmen in a clash in Tamaulipas state near the United States border. ](/news/2010/09/2/the-mexican-army-claims-to-have-killed-25-drug-cartel-gunmen-in-a-clash-in-tamaulipas-state-near-the-united-states-border.md)
-_Context: Mexican Army, Tamaulipas, U.S., drug cartel_
+_Context: Mexican Army, Tamaulipas, United States, drug cartel_
 
 ##### Palestinian
 ### [Palestinians stone an Israeli car travelling through the West Bank resulting in a 12-year-old being injured. ](/news/2010/09/2/palestinians-stone-an-israeli-car-travelling-through-the-west-bank-resulting-in-a-12-year-old-being-injured.md)

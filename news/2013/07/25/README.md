@@ -3,9 +3,9 @@ Formats: [HTML](2013/07/25/index.html)  [JSON](2013/07/25/index.json)  [XML](201
 
 ## [2013-07-25](/news/2013/07/25/index.md)
 
-##### United Kingdom
+##### UK
 ### [British scientists discover the mechanism which causes human allergy to cats, and state that a general cure for the condition could become available within five years. ](/news/2013/07/25/british-scientists-discover-the-mechanism-which-causes-human-allergy-to-cats-and-state-that-a-general-cure-for-the-condition-could-become-a.md)
-_Context: United Kingdom, allergy to cats_
+_Context: UK, allergy to cats_
 
 ##### Recent parliamentary election
 ### [Voters in Togo go to the polls for a parliamentary election, which was delayed from October 2012 due to mass protests. ](/news/2013/07/25/voters-in-togo-go-to-the-polls-for-a-parliamentary-election-which-was-delayed-from-october-2012-due-to-mass-protests.md)
@@ -27,7 +27,7 @@ Gunmen assassinate Tunisian opposition leader Mohamed Brahmi, sparking protests 
 ### [Mariano Rajoy, the Prime Minister of Spain, declares three days of national mourning for the 78 people killed in the derailment, Spain's worst train accident since 1944. ](/news/2013/07/25/mariano-rajoy-the-prime-minister-of-spain-declares-three-days-of-national-mourning-for-the-78-people-killed-in-the-derailment-spain-s-wor.md)
 Spanish Prime Minister Mariano Rajoy has declared three days of official mourning after 80 people died in a train crash.
 
-##### China
+##### Chinese
 ### [China begins a major effort to boost its economic growth with business tax breaks and export liberalization, amid an increasing industrial slowdown. ](/news/2013/07/25/china-begins-a-major-effort-to-boost-its-economic-growth-with-business-tax-breaks-and-export-liberalization-amid-an-increasing-industrial-s.md)
 China unveils a series of moves aimed at boosting growth, indicating that policymakers are concerned about the slowdown in its economy.
 

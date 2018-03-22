@@ -23,7 +23,7 @@ _Context: Russia-Syria relations_
 ### [Seven Israeli chess players are denied travel visas to the Rapid and Blitz Chess Championships in Saudi Arabia as the two countries have no diplomatic relations. Players from Qatar and Iran are given last-minute visas, while Ukrainian champion Anna Muzychuk refuses to participate because she does not want to wear an abaya. ](/news/2017/12/26/seven-israeli-chess-players-are-denied-travel-visas-to-the-rapid-and-blitz-chess-championships-in-saudi-arabia-as-the-two-countries-have-no.md)
 Saudi Arabia denied visas to Israeli players, and a Ukrainian world champion is boycotting the event.
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [According to emergency services and the Houthi-owned Al Masirah, Saudi Arabian coalition air strikes kill 15 people and wound 60 at al-Shahra souq, a popular market in Taiz Governorate. ](/news/2017/12/26/according-to-emergency-services-and-the-houthi-owned-al-masirah-saudi-arabian-coalition-air-strikes-kill-15-people-and-wound-60-at-al-shahr.md)
 At least 20 people killed and dozens more wounded in a series of Saudi-led raids on a market in Taiz province. 
 

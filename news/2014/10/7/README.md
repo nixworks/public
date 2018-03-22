@@ -25,7 +25,7 @@ Typhoon Vongfong in the Western Pacific rapidly strengthened overnight into the 
 
 ##### Earthquake
 ### [A magnitude 6.0 earthquake hits China's Yunnan province with at least one death reported. ](/news/2014/10/7/a-magnitude-6-0-earthquake-hits-china-s-yunnan-province-with-at-least-one-death-reported.md)
-_Context: China, Yunnan province, earthquake_
+_Context: Chinese, Yunnan province, earthquake_
 
 ##### ISIL
 ### [A hospital in the northern Iraqi city of Tal Afar says that 29 suspected ISIL fighters were killed in airstrikes last night. ](/news/2014/10/7/a-hospital-in-the-northern-iraqi-city-of-tal-afar-says-that-29-suspected-isil-fighters-were-killed-in-airstrikes-last-night.md)

@@ -15,9 +15,9 @@ _Context: China Securities Journal, U.S. dollar, yuan_
 ### [ The death toll in the Amagasaki rail crash in Japan totals 106. Rescue efforts are over and police begin the crash investigation. ](/news/2005/04/29/the-death-toll-in-the-amagasaki-rail-crash-in-japan-totals-106-rescue-efforts-are-over-and-police-begin-the-crash-investigation.md)
 _Context: Amagasaki rail crash, Japan_
 
-##### U.S.
+##### United States
 ### [ U.S. Congressman Rob Portman was confirmed by the United States Senate to be United States Trade Representative. ](/news/2005/04/29/u-s-congressman-rob-portman-was-confirmed-by-the-united-states-senate-to-be-united-states-trade-representative.md)
-_Context: Rob Portman, U.S., United States Senate, United States Trade Representative_
+_Context: Rob Portman, United States, United States Senate, United States Trade Representative_
 
 ##### Discovery
 ### [ The next launch of the Space Shuttle "Discovery", STS-114, is delayed until at least July 13. This is to be the first Space Shuttle launch since the "Columbia" disaster in February 2003. ](/news/2005/04/29/the-next-launch-of-the-space-shuttle-discovery-sts-114-is-delayed-until-at-least-july-13-this-is-to-be-the-first-space-shuttle-launch.md)

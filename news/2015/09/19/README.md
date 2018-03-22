@@ -39,7 +39,7 @@ _Context: Sabado Gigante, Univision's, variety show_
 ### [Pope Francis departs from Rome to begin his Apostolic Visit to Cuba. Francis will then visit the US. In the US, he will address a joint session of Congress (the first by an incumbent Pope), meet with President Obama, canonize Junipero Serra, tour a prison and the World Trade Center site, hold Masses in New York, Washington, and Philadelphia, and preside over the World Meeting of Families in Philadelphia. ](/news/2015/09/19/pope-francis-departs-from-rome-to-begin-his-apostolic-visit-to-cuba-francis-will-then-visit-the-us-in-the-us-he-will-address-a-joint-sess.md)
 Francis, the first Latin American pope, has drawn from his life in Argentina to try to create a humbler papacy, albeit one with lofty ambitions. His push for change has stirred hope and anxiety.
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [A Saudi-led military coalition bombards government buildings and residential neighborhoods in the Yemeni capital, Sana'a, killing about 30 people, including civilians. Rescuers continue searching for other possible victims buried under the rubble. ](/news/2015/09/19/a-saudi-led-military-coalition-bombards-government-buildings-and-residential-neighborhoods-in-the-yemeni-capital-sana-a-killing-about-30-p.md)
 SANAA, Yemen – Airstrikes carried out by a Saudi-led coalition against Yemen’s Shiite rebels and their allies have killed 29 people, including civilians, in the capital Sanaa, security and medical officials in the city said Saturday.
 

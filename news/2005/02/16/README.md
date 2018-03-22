@@ -21,7 +21,7 @@ _Context: Iran, Mohammad Reza Aref, Mohammed Naji al-Otari, Syria_
 
 ##### Nigeria
 ### [ In Nigeria, an Islamic court sentences cross-dressing Abubakar Hamza to six months in prison and a fine equivalent to $38 for "immoral behaviour". He had lived for seven years as a woman to sell aphrodisiacs. ](/news/2005/02/16/in-nigeria-an-islamic-court-sentences-cross-dressing-abubakar-hamza-to-six-months-in-prison-and-a-fine-equivalent-to-38-for-immoral-beha.md)
-_Context: $, Abubakar Hamza, Nigeria, aphrodisiac, cross-dressing, moral, sharia law_
+_Context: Abubakar Hamza, Nigeria, US$, aphrodisiac, cross-dressing, moral, sharia law_
 
 ##### Fox hunting
 ### [ In the United Kingdom, the pro-fox hunting lobby Countryside Alliance loses an appeal. The Court of Appeals does not accept their claim that the Parliament Act 1949, used to introduce the Hunting Act 2004, is invalid. ](/news/2005/02/16/in-the-united-kingdom-the-pro-fox-hunting-lobby-countryside-alliance-loses-an-appeal-the-court-of-appeals-does-not-accept-their-claim-tha.md)

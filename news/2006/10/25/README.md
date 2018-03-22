@@ -21,7 +21,7 @@ _Context: Lee Jong-Seok, Roh Moo-Hyun, South Korea, South Korean President, Yoon
 
 ##### General
 ### [ General George W. Casey Jr., the top United States commander in Iraq, has said it will take 12 to 18 months before Iraqi security forces are ready to take over in the country. ](/news/2006/10/25/general-george-w-casey-jr-the-top-united-states-commander-in-iraq-has-said-it-will-take-12-to-18-months-before-iraqi-security-forces-ar.md)
-_Context: General, George W. Casey Jr., Iraq, U.S._
+_Context: General, George W. Casey Jr., Iraq, United States_
 
 ##### Niger
 ### [ The government of Niger announces that due to "difficult relations with indigenous rural populations," the country's 150,000 Mahamid Arab refugee population who have lived in Niger since having fled Chad two decades earlier, will be deported back to Chad. ](/news/2006/10/25/the-government-of-niger-announces-that-due-to-difficult-relations-with-indigenous-rural-populations-the-country-s-150-000-mahamid-arab-r.md)
@@ -43,9 +43,9 @@ _Context: United States Federal Reserve, inflation, interest rate_
 ### [ Argentine prosecutors formally charge the Iranian government and the Lebanese militia Hezbollah over the 1994 bombing of a Jewish centre which killed 85 people. ](/news/2006/10/25/argentine-prosecutors-formally-charge-the-iranian-government-and-the-lebanese-militia-hezbollah-over-the-1994-bombing-of-a-jewish-centre-wh.md)
 _Context: 1994 bombing, Argentina, Hezbollah, Iran, Jew, Lebanese, militia_
 
-##### United Kingdom
+##### UK
 ### [ Surgeons in the United Kingdom are given permission by a National Health Service ethics committee to prepare to perform the world's first full face transplant at London's Royal Free Hospital. ](/news/2006/10/25/surgeons-in-the-united-kingdom-are-given-permission-by-a-national-health-service-ethics-committee-to-prepare-to-perform-the-world-s-first-f.md)
-_Context: London, National Health Service, Royal Free Hospital, United Kingdom, face transplant_
+_Context: London, National Health Service, Royal Free Hospital, UK, face transplant_
 
 ##### CITIC Group of Beijing
 ### [ The CITIC Group of Beijing buys the Nations Energy Company, the state-owned petroleum company of Kazakhstan, for USD $1.91 billion. ](/news/2006/10/25/the-citic-group-of-beijing-buys-the-nations-energy-company-the-state-owned-petroleum-company-of-kazakhstan-for-usd-1-91-billion.md)

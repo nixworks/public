@@ -27,7 +27,7 @@ The State Department cited fears of attacks by extremist groups in ordering fami
 ### [Rain and flooding in Egypt kills at least 18 people. ](/news/2016/10/29/rain-and-flooding-in-egypt-kills-at-least-18-people.md)
 At least 18 people were killed over three days of heavy rains and flooding in parts of Egypt, the health ministry said on Saturday. The toll included nine people killed in South Sinai province of eastern Egypt since Thursday, the ministry said...
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [Two prisons in Al Hudaydah, Yemen, are bombed by Saudi Arabian jets, leaving at least 60 dead. ](/news/2016/10/29/two-prisons-in-al-hudaydah-yemen-are-bombed-by-saudi-arabian-jets-leaving-at-least-60-dead.md)
 An air raid by an Arab coalition killed 60 people in Yemen, including inmates of a prison near the city of Hodeidah, medical sources said.
 

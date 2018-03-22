@@ -9,13 +9,13 @@ _Context: Florida, R.J. Reynolds Tobacco Company, punitive damages_
 
 ##### Russia
 ### [Russia bans 13 Americans including Congressman Jim Moran, Rear Adm. Richard Butler and Lynndie England in response to the United States banning Russians for human rights abuses. ](/news/2014/07/19/russia-bans-13-americans-including-congressman-jim-moran-rear-adm-richard-butler-and-lynndie-england-in-response-to-the-united-states-bann.md)
-_Context: American, Congress, Jim Moran, Lynndie England, Russia, U.S._
+_Context: American, Congress, Jim Moran, Lynndie England, Russia, United States_
 
 ##### 2014 Pacific typhoon season
 ### [Typhoon Rammasun has killed at least 14 people in southern China since it arrived late on Friday. ](/news/2014/07/19/typhoon-rammasun-has-killed-at-least-14-people-in-southern-china-since-it-arrived-late-on-friday.md)
 A super typhoon has killed atleast fourteen people in China since making landfall on Fridayafternoon, state media said on Saturday, after hitting parts ofthe Philippines and leaving 77 dead.
 
-##### China
+##### Chinese
 ### [At least 38 people are dead after a bus collides with a van carrying flammable liquids in China's Hunan province. ](/news/2014/07/19/at-least-38-people-are-dead-after-a-bus-collides-with-a-van-carrying-flammable-liquids-in-china-s-hunan-province.md)
 Forty-three people reportedly killed when a van hit a bus on a highway in central China, triggering a fire and explosion.
 

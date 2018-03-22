@@ -45,7 +45,7 @@ _Context: Russia, Surgut, a passenger plane explodes_
 
 ##### Bonaire
 ### [Bonaire, Saba and Sint Eustatius adopt the United States dollar as the sole legal currency, reducing the use of the Netherlands Antillean guilder to Curaao and Sint Maarten. ](/news/2011/01/1/bonaire-saba-and-sint-eustatius-adopt-the-united-states-dollar-as-the-sole-legal-currency-reducing-the-use-of-the-netherlands-antillean-gu.md)
-_Context: $, Bonaire, Curaao, Netherlands Antillean guilder, Saba, Sint Eustatius, Sint Maarten_
+_Context: Bonaire, Curaao, Netherlands Antillean guilder, Saba, Sint Eustatius, Sint Maarten, US$_
 
 ##### New Year's Day church bombing
 ### [A bomb explodes outside a Coptic church in Alexandria, Egypt, killing at least 21 people and wounding 97 more; street disturbances between Christians and Muslims ensue. ](/news/2011/01/1/a-bomb-explodes-outside-a-coptic-church-in-alexandria-egypt-killing-at-least-21-people-and-wounding-97-more-street-disturbances-between-c.md)

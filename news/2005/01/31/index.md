@@ -41,7 +41,7 @@ Michael Jackson spoke out Sunday against leaks in his child-molestation case, re
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: U.S. guards shoot dead four Iraqi prisoners following an alleged riot at the Camp Bucca prison in southern Iraq. ](/news/2005/01/31/conflict-in-iraq-u-s-guards-shoot-dead-four-iraqi-prisoners-following-an-alleged-riot-at-the-camp-bucca-prison-in-southern-iraq.md)
-_Context: Camp Bucca, Conflict in Iraq, Iraq, U.S._
+_Context: Camp Bucca, Conflict in Iraq, Iraq, United States_
 
 ##### Arab-Israeli conflict
 ### [ Arab-Israeli conflict: A ten-year-old Palestinian girl dies after being shot in the head as she played in her school playground in Rafah. The source of the gunfire is disputed. Hamas launches mortar shells in retaliation, damaging a house in an Israeli settlement. ](/news/2005/01/31/arabaisraeli-conflict-a-ten-year-old-palestinian-girl-dies-after-being-shot-in-the-head-as-she-played-in-her-school-playground-in-rafah.md)

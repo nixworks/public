@@ -15,9 +15,9 @@ _Context: Japan, Okinawa, earthquake_
 ### [ Paul Calvert announces his resignation as President of the Australian Senate and as a Senator for Tasmania effective from next week. ](/news/2007/08/7/paul-calvert-announces-his-resignation-as-president-of-the-australian-senate-and-as-a-senator-for-tasmania-effective-from-next-week.md)
 _Context: Paul Calvert, President of the Australian Senate, Senator, Tasmania_
 
-##### China
+##### Chinese
 ### [ Chinese police arrest six protesters calling for a free Tibet by unfurling banners on the Great Wall of China. ](/news/2007/08/7/chinese-police-arrest-six-protesters-calling-for-a-free-tibet-by-unfurling-banners-on-the-great-wall-of-china.md)
-_Context: China, Great Wall of China, Tibet_
+_Context: Chinese, Great Wall of China, Tibet_
 
 ##### Bangladesh
 ### [ Bangladesh security officials arrest 24 suspected militants at Zia International Airport en route to Kabul, Afghanistan. ](/news/2007/08/7/bangladesh-security-officials-arrest-24-suspected-militants-at-zia-international-airport-en-route-to-kabul-afghanistan.md)
@@ -39,7 +39,7 @@ _Context: ''Fortune'' magazine, Bill Gates, Carlos Slim, Mexico, Microsoft_
 ### [ Youths in East Timor attack Australian Army forces and United Nations personnel following the announcement that Xanana Gusmo would be the next Prime Minister. ](/news/2007/08/7/youths-in-east-timor-attack-australian-army-forces-and-united-nations-personnel-following-the-announcement-that-xanana-gusmao-would-be-the.md)
 Breaking News from Perth and Western Australia | Perth Now
 
-##### United Kingdom
+##### UK
 ### [ The United Kingdom asks United States Secretary of State Condoleezza Rice to release five residents of the UK from the Guantanamo Bay detention camp. ](/news/2007/08/7/the-united-kingdom-asks-united-states-secretary-of-state-condoleezza-rice-to-release-five-residents-of-the-uk-from-the-guantanamo-bay-deten.md)
 Foreign secretary asks that five men, who previously lived in the U.K. but are not British nationals, be released from terror detention facility in Cuba.
 
@@ -53,7 +53,7 @@ _Context:  Georgian, Georgian-Russian relations, Russia, Two Russian aircraft al
 
 ##### Juan Carlos Ramirez-Abadia
 ### [ Juan Carlos Ramirez-Abadia, Colombian cocaine trafficker boss of the Norte del Valle Cartel is apprehended in Brazil and faces extradition to the United States. The US Government had offered a reward of US$5 million dollars. ](/news/2007/08/7/juan-carlos-ramirez-abadia-colombian-cocaine-trafficker-boss-of-the-norte-del-valle-cartel-is-apprehended-in-brazil-and-faces-extradition.md)
-_Context: Brazil, Colombian, Juan Carlos Ramirez-Abadia, Norte del Valle Cartel, U.S., cocaine_
+_Context: Brazil, Colombian, Juan Carlos Ramirez-Abadia, Norte del Valle Cartel, United States, cocaine_
 
 ##### Israel
 ### [ Israel evicts Jewish settlers from Hebron. A dozen religious members of the Israeli Army refuse to participate and are sentenced for up to a month in a military jail. ](/news/2007/08/7/israel-evicts-jewish-settlers-from-hebron-a-dozen-religious-members-of-the-israeli-army-refuse-to-participate-and-are-sentenced-for-up-to.md)

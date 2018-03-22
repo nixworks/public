@@ -3,7 +3,7 @@ Formats: [HTML](2013/05/3/index.html)  [JSON](2013/05/3/index.json)  [XML](2013/
 
 ## [2013-05-3](/news/2013/05/3/index.md)
 
-##### China
+##### Chinese
 ### [An international team of scientists announce the discovery in China of a new meat-eating Theropod dinosaur, "Aorun zhaoi", dating from 161 million years ago. It is the oldest Coelurosaur known to date. ](/news/2013/05/3/an-international-team-of-scientists-announce-the-discovery-in-china-of-a-new-meat-eating-theropod-dinosaur-aorun-zhaoi-dating-from-161-m.md)
 A new species of meat-eating dinosaurs have been discovered in China.
 
@@ -15,7 +15,7 @@ Internet search engine Google changes the tagline on the front page of its Pales
 ### [Results of the elections show gains for Labour and UKIP and losses for the Liberal Democrats and the Conservative Party.](/news/2013/05/3/results-of-the-elections-show-gains-for-labour-and-ukip-and-losses-for-the-liberal-democrats-and-the-conservative-party.md)
 UKIP leader Nigel Farage hails gains in council elections across England - while David Cameron pledges to &quot;work hard to win back voters&quot;.
 
-##### China
+##### Chinese
 ### [Police in China arrest more than 900 people as they shutdown a million dollar crime ring that was selling rat meat as mutton. ](/news/2013/05/3/police-in-china-arrest-more-than-900-people-as-they-shutdown-a-million-dollar-crime-ring-that-was-selling-rat-meat-as-mutton.md)
 Chinese police have broken a crime ring that passed off more than $1 million in rat and small mammal meat as mutton, authorities said, in a food safety crackdown that coincides with a bird flu outbreak and other environmental pressures.
 
@@ -27,7 +27,7 @@ _Context: Arizona Cardinals, Daryl Washington, NFL, Phoenix, Arizona_
 ### [Chaudhry Zulfiqar Ali, a prosecutor with Pakistan's Federal Investigation Agency leading the prosecution of former President Pervez Musharraf over alleged involvement in the assassination of Benazir Bhutto, is shot dead on the way to court in Islamabad. ](/news/2013/05/3/chaudhry-zulfiqar-ali-a-prosecutor-with-pakistan-s-federal-investigation-agency-leading-the-prosecution-of-former-president-pervez-musharra.md)
 _Context: Benazir Bhutto, Federal Investigation Agency, Islamabad, Pakistan, Pervez Musharraf, president_
 
-##### United Kingdom
+##### UK
 ### [British Brian Shivers is acquitted of any involvement in the 2009 Massereene Barracks shooting. Mr. Shivers, who has cystic fibrosis, has his life sentence overturned, having been jailed since January 2012 in what his solicitor describes as a miscarriage of justice. ](/news/2013/05/3/british-brian-shivers-is-acquitted-of-any-involvement-in-the-2009-massereene-barracks-shooting-mr-shivers-who-has-cystic-fibrosis-has-hi.md)
 There has been mixed reaction over the Brian Shivers not guilty verdict.
 

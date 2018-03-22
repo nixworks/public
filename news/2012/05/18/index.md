@@ -9,7 +9,7 @@ _Context: CDA, Sybrand van Haersma Buma, general election in the Netherlands, li
 
 ##### Group of Eight
 ### [The Group of Eight meets in the United States at Camp David with the Greek debt crisis and associated Eurozone problems on the agenda. ](/news/2012/05/18/the-group-of-eight-meets-in-the-united-states-at-camp-david-with-the-greek-debt-crisis-and-associated-eurozone-problems-on-the-agenda.md)
-_Context: Camp David, Eurozone, Greek debt crisis, Group of Eight, U.S._
+_Context: Camp David, Eurozone, Greek debt crisis, Group of Eight, United States_
 
 ##### Dow Jones Industrial Average
 ### [The Dow Jones Industrial Average, NASDAQ, and S&P 500 close at their lowest levels of 2012. ](/news/2012/05/18/the-dow-jones-industrial-average-nasdaq-and-s-p-500-close-at-their-lowest-levels-of-2012.md)

@@ -27,7 +27,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### International Committee of the Red Cross
 ### [ The International Committee of the Red Cross criticizes the United States for denying access to detainees in violation of the Geneva Convention. The US admits holding detainees secretly but claims they do not fall under that convention. ](/news/2006/05/13/the-international-committee-of-the-red-cross-criticizes-the-united-states-for-denying-access-to-detainees-in-violation-of-the-geneva-conven.md)
-_Context: Geneva Convention, International Committee of the Red Cross, U.S._
+_Context: Geneva Convention, International Committee of the Red Cross, United States_
 
 ##### CIA
 ### [ CIA officials try to get the case of Khalid El-Masri, who says he was abducted and tortured, dismissed as it "could undermine U.S. relations with foreign countries". ](/news/2006/05/13/cia-officials-try-to-get-the-case-of-khalid-el-masri-who-says-he-was-abducted-and-tortured-dismissed-as-it-could-undermine-u-s-relation.md)

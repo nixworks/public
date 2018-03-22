@@ -33,7 +33,7 @@ The United Nations World Food Programme (WFP) is stepping up assistance to Ecuad
 
 ##### Belarus-United States relations
 ### [The top U.S. diplomat in Belarus Scott Rauland and Belarusian Foreign Minister Uladzimer Makey said that their countries are ready to discuss the possible return of their ambassadors. Makey told reporters in Minsk that "there is readiness from both sides for a full normalization of our relations." Belarus recalled its ambassador from Washington in 2008 after the United States imposed sanctions against Belarusian oil giant Belneftekhim following tensions between Minsk and the West. ](/news/2016/04/25/the-top-u-s-diplomat-in-belarus-scott-rauland-and-belarusian-foreign-minister-uladzimer-makey-said-that-their-countries-are-ready-to-discus.md)
-_Context: Belarus, Belarus-United States relations, Minsk, Scott Rauland, U.S._
+_Context: Belarus, Belarus-United States relations, Minsk, Scott Rauland, United States_
 
 ##### China
 ### [The People's Republic of China urges North Korea to abide by a United Nations Security Council resolution that bans the North from conducting ballistic missile tests, two days after Pyongyang claimed it conducted a test from a submarine. ](/news/2016/04/25/the-people-s-republic-of-china-urges-north-korea-to-abide-by-a-united-nations-security-council-resolution-that-bans-the-north-from-conductin.md)
@@ -67,7 +67,7 @@ Tribune Publishing Co is reviewing an unsolicited and possibly unwelcome $815 mi
 ### [Saudi Arabia's Council of Ministers announces a broad-based economic reform plan, known as Vision 2030, which will help the oil-reliant state to diversify its economy over the next 14 years. ](/news/2016/04/25/saudi-arabia-s-council-of-ministers-announces-a-broad-based-economic-reform-plan-known-as-vision-2030-which-will-help-the-oil-reliant-stat.md)
 Vision 2030 envisages forming public investment fund, boosting affordable housing and giving expats long-term residence.
 
-##### United Kingdom
+##### UK
 ### [British department store chain British Home Stores (BHS) collapses into administration after a last-minute rescue deal fails. The collapse of the retailer, which employs 11,000 people, is the biggest failure on the UK's high street since the collapse of Woolworths Group in 2008. ](/news/2016/04/25/british-department-store-chain-british-home-stores-bhs-collapses-into-administration-after-a-last-minute-rescue-deal-fails-the-collapse-o.md)
 Administrators Duff &amp; Phelps will keep stores open as they try to find a buyer for the department store chain
 

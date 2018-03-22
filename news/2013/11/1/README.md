@@ -25,7 +25,7 @@ A gunman with an assault rifle opened fire in a crowded terminal at Los Angeles 
 
 ##### Flash flood
 ### [Flash floods and heavy rains sweep across central Texas, United States, killing 2 people. ](/news/2013/11/1/flash-floods-and-heavy-rains-sweep-across-central-texas-united-states-killing-2-people.md)
-_Context: Flash flood, Texas, U.S._
+_Context: Flash flood, Texas, United States_
 
 ##### Fannie Mae
 ### [Fannie Mae files a lawsuit for $800 million against nine different banks, including Citigroup and Bank of America, for manipulating the Libor benchmark interest rate. ](/news/2013/11/1/fannie-mae-files-a-lawsuit-for-800-million-against-nine-different-banks-including-citigroup-and-bank-of-america-for-manipulating-the-libo.md)

@@ -27,7 +27,7 @@ _Context: Atlanta, Defense of Marriage Act, King & Spalding, Paul Clement_
 
 ##### Bangladesh
 ### [A court in Bangladesh clears Nobel laureate Muhammad Yunus of misappropriating Norwegian aid money at a micro-finance bank he founded. ](/news/2011/04/25/a-court-in-bangladesh-clears-nobel-laureate-muhammad-yunus-of-misappropriating-norwegian-aid-money-at-a-micro-finance-bank-he-founded.md)
-_Context: Bangladesh, Muhammad Yunus, Nobel Prize, Norway_
+_Context: Bangladesh, Muhammad Yunus, Nobel Prize, Norwegian_
 
 ##### Kazakhstan
 ### [A Kazakh UNESCO official attempts to hijack a plane and divert it to Tripoli, Libya. ](/news/2011/04/25/a-kazakh-unesco-official-attempts-to-hijack-a-plane-and-divert-it-to-tripoli-libya.md)

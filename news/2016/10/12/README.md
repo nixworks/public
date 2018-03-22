@@ -15,9 +15,9 @@ Facebook campaign group Concentrix Mums believe around 100 claimants have been s
 ### [John Stumpf resigns as CEO and chairman of Wells Fargo amid a scandal over its sales practices. ](/news/2016/10/12/john-stumpf-resigns-as-ceo-and-chairman-of-wells-fargo-amid-a-scandal-over-its-sales-practices.md)
 _Context: John Stumpf, Wells Fargo_
 
-##### U.S.
+##### United States
 ### [American popstar Janet Jackson announces that she is pregnant with her first child at the age of 50. ](/news/2016/10/12/american-popstar-janet-jackson-announces-that-she-is-pregnant-with-her-first-child-at-the-age-of-50.md)
-_Context: Janet Jackson, U.S._
+_Context: Janet Jackson, United States_
 
 ##### Rohingya insurgency in Western Myanmar
 ### [The four-day death toll from fighting in Rakhine State stands at 39, including 13 army and police personnel. ](/news/2016/10/12/the-four-day-death-toll-from-fighting-in-rakhine-state-stands-at-39-including-13-army-and-police-personnel.md)

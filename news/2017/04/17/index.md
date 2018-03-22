@@ -21,7 +21,7 @@ _Context: Congress's, Horacio Cartes, Paraguay, Paraguayan President, Pope Franc
 
 ##### Brazilian federal judge
 ### [A Brazilian federal judge orders Petrobras to suspend the sale to Norway's Statoil of its stake in an offshore prospect, in response to the National Federation of Oil Workers petition there should have been an open bidding process for this transaction. ](/news/2017/04/17/a-brazilian-federal-judge-orders-petrobras-to-suspend-the-sale-to-norway-s-statoil-of-its-stake-in-an-offshore-prospect-in-response-to-the.md)
-_Context: Brazilian federal judge, Norway, Petrobras, Statoil_
+_Context: Brazilian federal judge, Norwegian, Petrobras, Statoil_
 
 ##### Shooting of Robert Godwin
 ### [The search for the suspect in the killing of an elderly man in Cleveland, whose murder was posted to Facebook, expands beyond Ohio, with the FBI urging residents in Indiana, Michigan, New York, and Pennsylvania to be on alert for the suspect. ](/news/2017/04/17/the-search-for-the-suspect-in-the-killing-of-an-elderly-man-in-cleveland-whose-murder-was-posted-to-facebook-expands-beyond-ohio-with-the.md)
@@ -33,7 +33,7 @@ _Context: DPRK, Han Song-ryol, Mike Pence, North Korea, United States Vice Presi
 
 ##### China-Nepal relations
 ### [In a move likely to cause concern in India, China and Nepal commenced last Sunday the first ever combined military exercises, focusing on counter-terror operations. ](/news/2017/04/17/in-a-move-likely-to-cause-concern-in-india-china-and-nepal-commenced-last-sunday-the-first-ever-combined-military-exercises-focusing-on-co.md)
-_Context: China, China-Nepal relations, India, Nepal_
+_Context: China-Nepal relations, Chinese, India, Nepal_
 
 ##### BP
 ### [A BP Alaskan North Slope oil well near Deadhorse Airport, that was leaking oil and natural gas since it was discovered on Friday, is successfully plugged, according to private and government reports. ](/news/2017/04/17/a-bp-alaskan-north-slope-oil-well-near-deadhorse-airport-that-was-leaking-oil-and-natural-gas-since-it-was-discovered-on-friday-is-success.md)
@@ -63,7 +63,7 @@ _Context: China, Guizhou_
 ### [The death toll from flooding in the Philippine province of Cebu rises to nine with ten missing. ](/news/2017/04/17/the-death-toll-from-flooding-in-the-philippine-province-of-cebu-rises-to-nine-with-ten-missing.md)
 The death toll from the flash floods in the province of Cebu has risen to nine, a report on News TV Live on Monday said. Current top breaking Philippine headlines regarding the nation, world, metro manila, regions and exclusive special investigative reports.
 
-##### U.S.
+##### United States
 ### [American pipeline operator Williams Partners has agreed to sell an olefins plant in Louisiana to Canadian chemical company Nova Chemicals for $2.1 billion. ](/news/2017/04/17/american-pipeline-operator-williams-partners-has-agreed-to-sell-an-olefins-plant-in-louisiana-to-canadian-chemical-company-nova-chemicals-fo.md)
 (Adds HNA Airport Holding and Dynasty Financial Partners; Updates Ant Financial, Wal-Mart, Williams Partners and EagleClaw Midstream Ventures)
 

@@ -25,7 +25,7 @@ _Context: Abu Sayyaf, Basilan island, Philippines_
 
 ##### Heat wave
 ### [ A week-long heat wave in the southeast and midwest of the United States has caused the deaths of 49 with 12 deaths in Memphis, Tennessee. ](/news/2007/08/19/a-week-long-heat-wave-in-the-southeast-and-midwest-of-the-united-states-has-caused-the-deaths-of-49-with-12-deaths-in-memphis-tennessee.md)
-_Context: Memphis, Tennessee, U.S., heat wave_
+_Context: Memphis, Tennessee, United States, heat wave_
 
 ##### Minnesota Governor
 ### [ The Governor of Minnesota Tim Pawlenty declares a state of emergency in six Minnesota counties as a result of flooding with six deaths reported. ](/news/2007/08/19/the-governor-of-minnesota-tim-pawlenty-declares-a-state-of-emergency-in-six-minnesota-counties-as-a-result-of-flooding-with-six-deaths-repo.md)
@@ -33,7 +33,7 @@ _Context: Minnesota, Minnesota Governor, Ongoing flooding, Tim Pawlenty_
 
 ##### Flood
 ### [ Rescue workers start pumping water from a flooded coal mine in Xintai, Shandong where 172 Chinese miners are trapped. ](/news/2007/08/19/rescue-workers-start-pumping-water-from-a-flooded-coal-mine-in-xintai-shandong-where-172-chinese-miners-are-trapped.md)
-_Context: China, Shandong, Xintai, coal mine, flood_
+_Context: Chinese, Shandong, Xintai, coal mine, flood_
 
 ##### Indonesia
 ### [ Indonesia raises the lava alert for Mount Karangetang on the resort island of Siau as authorities move to evacuate those most at risk. ](/news/2007/08/19/indonesia-raises-the-lava-alert-for-mount-karangetang-on-the-resort-island-of-siau-as-authorities-move-to-evacuate-those-most-at-risk.md)

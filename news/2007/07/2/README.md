@@ -27,9 +27,9 @@ _Context: Brahim Deby, Chad, France, Idriss Deby, Paris_
 ### [ Garda Siochana find over 1.5 tonnes of cocaine worth over EUR105 million off the coast of West Cork after a small ship sinks - the largest cocaine seizure in the history of Ireland. The naval diving squad are continuing the search, as experts believe more of the drug is still in the sea. ](/news/2007/07/2/garda-saocha-na-find-over-1-5-tonnes-of-cocaine-worth-over-a-105-million-off-the-coast-of-west-cork-after-a-small-ship-sinks-the-larges.md)
 Customs officials have recovered 61 bales of cocaine in west Cork in the largest seizure of the drug in the history of the State.
 
-##### U.S.
+##### United States
 ### [ The United States accuses Iran of using Hezbollah to train Shia militants in Iraq. The Iranian Defence Minister had earlier called the US the "biggest sponsor of terrorism" in the world. ](/news/2007/07/2/the-united-states-accuses-iran-of-using-hezbollah-to-train-shia-militants-in-iraq-the-iranian-defence-minister-had-earlier-called-the-us-t.md)
-_Context: Hezbollah, Iran, Iraq, Shia, U.S._
+_Context: Hezbollah, Iran, Iraq, Shia, United States_
 
 ##### U.S. President
 ### [ U.S. President George W. Bush holds talks with the President of Russia Vladimir Putin in Kennebunkport, Maine discussing missile defense and Iran. ](/news/2007/07/2/u-s-president-george-w-bush-holds-talks-with-the-president-of-russia-vladimir-putin-in-kennebunkport-maine-discussing-missile-defense-an.md)

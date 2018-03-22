@@ -49,7 +49,7 @@ _Context: Communist, Communist insurgency in the Philippines, New People's Army_
 
 ##### Yemeni Civil War (2015)
 ### [Armed tribesmen kill 18 Houthi fighters in an ambush in Yemen's Ibb Governorate. ](/news/2015/06/2/armed-tribesmen-kill-18-houthi-fighters-in-an-ambush-in-yemen-s-ibb-governorate.md)
-_Context: Houthi, Ibb Governorate, Yemen, Yemeni Civil War (2015)_
+_Context: Houthis, Ibb Governorate, Yemen, Yemeni Civil War (2015)_
 
 ## [Previous Day...](/news/2015/06/1/index.md)
 

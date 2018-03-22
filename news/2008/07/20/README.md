@@ -25,7 +25,7 @@ _Context: Bogot, Colombia, FARC, Independence Day, Ingrid Betancourt, Leticia, L
 
 ##### The Dark Knight
 ### [ "The Dark Knight" sets a new record for box office receipts for an opening weekend in the United States with US$158.4 million earned between Friday and Sunday. ](/news/2008/07/20/the-dark-knight-sets-a-new-record-for-box-office-receipts-for-an-opening-weekend-in-the-united-states-with-us-158-4-million-earned-betwee.md)
-_Context: $, The Dark Knight, U.S._
+_Context: The Dark Knight, US$, United States_
 
 ##### Golf
 ### [ Golfer Pdraig Harrington of Ireland wins his second successive Open Championship (British Open). ](/news/2008/07/20/golfer-padraig-harrington-of-ireland-wins-his-second-successive-open-championship-british-open.md)

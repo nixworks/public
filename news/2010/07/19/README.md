@@ -67,9 +67,9 @@ A former Army commanding officer is accused of lying to a public inquiry into th
 ### [A two-year "Top Secret America" investigation by "The Washington Post" concludes that United States intelligence gathering has grown so much since the September 11 attacks that neither its true cost, size nor effectiveness in keeping the country safe is actually known. ](/news/2010/07/19/a-two-year-top-secret-america-investigation-by-the-washington-post-concludes-that-united-states-intelligence-gathering-has-grown-so-much.md)
 US intelligence gathering has grown so much since 9/11 no-one knows its true cost, nor size, the Washington Post newspaper says.
 
-##### U.S.
+##### United States
 ### [The United States issues a warning to US citizens visiting or living in Uganda about the risk of terrorism as an African Union summit on maternal and child health summit starts. ](/news/2010/07/19/the-united-states-issues-a-warning-to-us-citizens-visiting-or-living-in-uganda-about-the-risk-of-terrorism-as-an-african-union-summit-on-mat.md)
-_Context: African Union, U.S., Uganda, terrorism_
+_Context: African Union, Uganda, United States, terrorism_
 
 ##### Kabul
 ### [Scores of checkpoints appear overnight as 70 countries prepare to attend a conference in Kabul on the future of Afghanistan. ](/news/2010/07/19/scores-of-checkpoints-appear-overnight-as-70-countries-prepare-to-attend-a-conference-in-kabul-on-the-future-of-afghanistan.md)
@@ -91,13 +91,13 @@ China launches an operation to clean up an oil spill in the Yellow Sea after two
 ### [Two trains collide in the Birbhum district of West Bengal, India with at least 50 people feared dead. ](/news/2010/07/19/two-trains-collide-in-the-birbhum-district-of-west-bengal-india-with-at-least-50-people-feared-dead.md)
 Death came at express speed to the sleepy station of Sainthia early Monday when the Uttar Banga Express crashed into the Ranchi-bound Vananchal Express, which was about to pull out of the platform.
 
-##### U.S.
+##### United States
 ### [China surpasses the United States to become world's biggest energy consumer, consuming about 4% more than the U.S. ](/news/2010/07/19/china-surpasses-the-united-states-to-become-world-s-biggest-energy-consumer-consuming-about-4-more-than-the-u-s.md)
-_Context: U.S._
+_Context: United States_
 
-##### United Kingdom
+##### UK
 ### [The United Kingdom's oldest person, a Gateshead great-great grandmother, dies at the age of 111. She would have been 112 next month. ](/news/2010/07/19/the-united-kingdom-s-oldest-person-a-gateshead-great-great-grandmother-dies-at-the-age-of-111-she-would-have-been-112-next-month.md)
-_Context: Gateshead, United Kingdom_
+_Context: Gateshead, UK_
 
 ##### Fromelles Military Cemetery
 ### [The Fromelles Military Cemetery is opened in Fromelles in northern France containing the graves of 250 Australian and British soldiers who died in the Battle of Fromelles in World War I and had previously been buried in a mass grave. ](/news/2010/07/19/the-fromelles-military-cemetery-is-opened-in-fromelles-in-northern-france-containing-the-graves-of-250-australian-and-british-soldiers-who-d.md)

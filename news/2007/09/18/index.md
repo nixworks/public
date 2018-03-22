@@ -9,11 +9,11 @@ _Context: Las Vegas, Nevada, O.J. Simpson, felony_
 
 ##### Philippines
 ### [ The son of Philippine House Speaker Jose De Venecia, Jr., Jose "Joey" De Venecia III, disclosed in a Senate inquiry that First Gentleman Mike Arroyo is the "mystery man" behind the controversial $ 329-million broadband contract with ZTE Corp. in China. ](/news/2007/09/18/the-son-of-philippine-house-speaker-jose-de-venecia-jr-jose-joey-de-venecia-iii-disclosed-in-a-senate-inquiry-that-first-gentleman-mi.md)
-_Context: China, First Gentleman, Jose De Venecia, Jr., Mike Arroyo, Philippines, ZTE, broadband, senators_
+_Context: Chinese, First Gentleman, Jose De Venecia, Jr., Mike Arroyo, Philippines, ZTE, broadband, senators_
 
 ##### 2007 Pacific typhoon season
 ### [ 2007 Pacific typhoon season: Hundreds of thousands of people are evacuated from Shanghai, China as Typhoon Wipha approaches. ](/news/2007/09/18/2007-pacific-typhoon-season-hundreds-of-thousands-of-people-are-evacuated-from-shanghai-china-as-typhoon-wipha-approaches.md)
-_Context: 2007 Pacific typhoon season, China, Shanghai_
+_Context: 2007 Pacific typhoon season, Chinese, Shanghai_
 
 ##### Australia
 ### [ Australia, the second largest wheat exporter in the world, cuts its forecast production by 30 per cent due to an ongoing drought. ](/news/2007/09/18/australia-the-second-largest-wheat-exporter-in-the-world-cuts-its-forecast-production-by-30-per-cent-due-to-an-ongoing-drought.md)
@@ -41,7 +41,7 @@ _Context: United States Federal Reserve, interest rates, stock market_
 
 ##### Nuclear program
 ### [ Nuclear program of Iran: The United States is drafting a United Nations Security Council resolution calling for sanctions against Iran prior to discussions amongst the five permanent members. ](/news/2007/09/18/nuclear-program-of-iran-the-united-states-is-drafting-a-united-nations-security-council-resolution-calling-for-sanctions-against-iran-prio.md)
-_Context: Iran, U.S., United Nations Security Council, economic sanctions, nuclear program_
+_Context: Iran, United Nations Security Council, United States, economic sanctions, nuclear program_
 
 ##### Meteorite impact in Peru
 ### [ A supposed meteorite impact in Peru leads to hundreds of nearby villagers falling ill from still unknown causes. ](/news/2007/09/18/a-supposed-meteorite-impact-in-peru-leads-to-hundreds-of-nearby-villagers-falling-ill-from-still-unknown-causes.md)

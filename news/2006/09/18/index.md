@@ -41,7 +41,7 @@ _Context: Canada, Kandahar, NATO_
 
 ##### England
 ### [ New laws come into force across England, Wales and Scotland making the use of child seats in cars compulsory for all children under the age of 12 who are less than 4ft 5in (135cm) tall. ](/news/2006/09/18/new-laws-come-into-force-across-england-wales-and-scotland-making-the-use-of-child-seats-in-cars-compulsory-for-all-children-under-the-age.md)
-_Context: England, Scotland, Wales, child seats_
+_Context: England, Scottish, Wales, child seats_
 
 ## [Previous Day...](/news/2006/09/17/index.md)
 

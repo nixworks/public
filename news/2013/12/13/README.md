@@ -3,7 +3,7 @@ Formats: [HTML](2013/12/13/index.html)  [JSON](2013/12/13/index.json)  [XML](201
 
 ## [2013-12-13](/news/2013/12/13/index.md)
 
-##### China
+##### Chinese
 ### [China's mission begins the descent phase to the moon that will likely make it one of only three countries to reach it. The landing is estimated to occur at 8:40 a.m. EST, December 14. ](/news/2013/12/13/china-s-mission-begins-the-descent-phase-to-the-moon-that-will-likely-make-it-one-of-only-three-countries-to-reach-it-the-landing-is-estima.md)
 All systems appear to be “GO” for the world’s first attempt to soft land a space probe on the Moon in nearly four decades. China’s maiden moon landing prob
 
@@ -31,13 +31,13 @@ _Context: Android, Electronic Frontier Foundation, Google, software_
 ### [Prince Harry and his "Walking with the Wounded" team reach the South Pole after three weeks trekking in the Antarctic. ](/news/2013/12/13/prince-harry-and-his-walking-with-the-wounded-team-reach-the-south-pole-after-three-weeks-trekking-in-the-antarctic.md)
 Prince Harry and his fellow adventurers in the Walking With The Wounded expedition arrive at the South Pole, organisers say.
 
-##### U.S.
+##### United States
 ### [Warships of the United States and China confront each other in international waters within the South China Sea. ](/news/2013/12/13/warships-of-the-united-states-and-china-confront-each-other-in-international-waters-within-the-south-china-sea.md)
-_Context: China, South China Sea, U.S., international waters_
+_Context: Chinese, South China Sea, United States, international waters_
 
 ##### Gunman critically wounds a student in a shooting
 ### [A gunman critically wounds a student in a shooting at Arapahoe High School, Centennial, Colorado, United States. ](/news/2013/12/13/a-gunman-critically-wounds-a-student-in-a-shooting-at-arapahoe-high-school-centennial-colorado-united-states.md)
-_Context: Arapahoe High School, Centennial, Colorado, U.S., gunman critically wounds a student in a shooting_
+_Context: Arapahoe High School, Centennial, Colorado, United States, gunman critically wounds a student in a shooting_
 
 ##### 2013 Wichita bomb plot
 ### [In the 2013 Wichita bomb plot authorities arrest a man for plotting to attack Wichita Mid-Continent Airport with an fake car bomb provided by undercover law enforcement. ](/news/2013/12/13/in-the-2013-wichita-bomb-plot-authorities-arrest-a-man-for-plotting-to-attack-wichita-mid-continent-airport-with-an-fake-car-bomb-provided-b.md)

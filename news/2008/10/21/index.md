@@ -13,7 +13,7 @@ _Context: 2008-09 Border-Gavaskar cricket test series, Australia, India, Mohali_
 
 ##### Global financial crisis of September-October 2008
 ### [ Global financial crisis of September-October 2008: Iceland's Kaupthing Bank fails to pay interest to its 50-billion-yen (US$493 million) bondholders in Japan. ](/news/2008/10/21/global-financial-crisis-of-septemberaoctober-2008-iceland-s-kaupthing-bank-fails-to-pay-interest-to-its-50-billion-yen-us-493-million.md)
-_Context: $, Global financial crisis of September-October 2008, Iceland, Japan, Kaupthing Bank, yen_
+_Context: Global financial crisis of September-October 2008, Iceland, Japan, Kaupthing Bank, US$, yen_
 
 ## [Previous Day...](/news/2008/10/20/index.md)
 

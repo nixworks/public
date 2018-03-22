@@ -71,9 +71,9 @@ _Context: Bandeira do Sul, Brazil, Brazilian Carnival_
 ### [The United States Government grants its first deepwater drilling license since the Deepwater Horizon oil spill to Noble Energy. ](/news/2011/02/28/the-united-states-government-grants-its-first-deepwater-drilling-license-since-the-deepwater-horizon-oil-spill-to-noble-energy.md)
 _Context: Deepwater Horizon oil spill, Noble Energy, United States Government, deepwater drilling_
 
-##### United Kingdom
+##### UK
 ### [The United Kingdom's largest bank HSBC doubles its profits to $19bn (GBP11.8bn) in 2010. ](/news/2011/02/28/the-united-kingdom-s-largest-bank-hsbc-doubles-its-profits-to-19bn-gbp11-8bn-in-2010.md)
-_Context: HSBC, United Kingdom_
+_Context: HSBC, UK_
 
 ##### Crude oil
 ### [Crude oil prices rise to their highest levels in two years as stock market indexes fall in Europe and the United States due to continued uncertainty in the Middle East. ](/news/2011/02/28/crude-oil-prices-rise-to-their-highest-levels-in-two-years-as-stock-market-indexes-fall-in-europe-and-the-united-states-due-to-continued-unc.md)
@@ -89,7 +89,7 @@ A ban on product placement is lifted, allowing advertisers to pay for their good
 
 ##### Frank Buckles
 ### [Frank Buckles, the last surviving veteran of World War I in the United States, passes away in Charles Town, West Virginia, aged 110. ](/news/2011/02/28/frank-buckles-the-last-surviving-veteran-of-world-war-i-in-the-united-states-passes-away-in-charles-town-west-virginia-aged-110.md)
-_Context: Charles Town, West Virginia, First World War, Frank Buckles, U.S., last surviving veteran_
+_Context: Charles Town, West Virginia, First World War, Frank Buckles, United States, last surviving veteran_
 
 ##### Yangon
 ### [A bomb explodes in Yangon, Burma, injuring eight people. ](/news/2011/02/28/a-bomb-explodes-in-yangon-burma-injuring-eight-people.md)

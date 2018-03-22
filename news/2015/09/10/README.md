@@ -43,7 +43,7 @@ Denmark has resumed rail services to Germany, after closing the train line and a
 ### [In Japan, tens of thousands are forced to evacuate due to flooding and landslides caused by Tropical Storm Etau. So far, one person is reported as missing. ](/news/2015/09/10/in-japan-tens-of-thousands-are-forced-to-evacuate-due-to-flooding-and-landslides-caused-by-tropical-storm-etau-so-far-one-person-is-repor.md)
 Authorities in central Japan have ordered tens of thousands to flee their homes after rain flooded rivers and triggered landslides.
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [Air strikes target Houthi political leaders and military bases in Sana'a, Yemen. ](/news/2015/09/10/air-strikes-target-houthi-political-leaders-and-military-bases-in-sana-a-yemen.md)
 Residents say raids were fiercest in last five months, as homes of Houthi political leaders and military bases targeted.
 

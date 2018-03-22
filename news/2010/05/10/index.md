@@ -11,7 +11,7 @@ _Context: Kansas, Midwest City, Oklahoma, Oklahoma City, tornadoes_
 ### [Severe rainstorms have killed at least 70 people since a powerful tornado hit Chongqing municipality in south-western China in Dianjiang and Liangping counties. Inclement weather in the next two days will affect Guangdong, Fujian, Hunan, Jiangxi, Zhejiang, Guizhou and Yunnan provinces. ](/news/2010/05/10/severe-rainstorms-have-killed-at-least-70-people-since-a-powerful-tornado-hit-chongqing-municipality-in-south-western-china-in-dianjiang-and.md)
 _Context: Chongqing, Dianjiang, Fujian, Guangdong, Guizhou, Hunan, Jiangxi, Liangping, Yunnan, Zhejiang, south-western China, tornado_
 
-##### U.S.
+##### United States
 ### [A senior U.S. official, Kurt M. Campbell, meets with Burmese opposition leader Aung San Suu Kyi. ](/news/2010/05/10/a-senior-u-s-official-kurt-m-campbell-meets-with-burmese-opposition-leader-aung-san-suu-kyi.md)
 A senior U.S. diplomat met with Daw Aung San Suu Kyi, three days after her party disbanded in defiance of election laws established by the ruling military junta.
 

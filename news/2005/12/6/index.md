@@ -7,9 +7,9 @@ Formats: [HTML](2005/12/6/index.html)  [JSON](2005/12/6/index.json)  [XML](2005/
 ### [ South Africa's axed deputy president Jacob Zuma, who lost his job in post-apartheid South Africa's most sensational corruption scandal, has been charged with rape. ](/news/2005/12/6/south-africa-s-axed-deputy-president-jacob-zuma-who-lost-his-job-in-post-apartheid-south-africa-s-most-sensational-corruption-scandal-has.md)
 _Context: Deputy President, Jacob Zuma, South Africa, rape_
 
-##### China
+##### Chinese
 ### [ At least 123 miners are missing following an explosion at a coal mine in China's Hebei province, the official Xinhua news agency says. ](/news/2005/12/6/at-least-123-miners-are-missing-following-an-explosion-at-a-coal-mine-in-china-s-hebei-province-the-official-xinhua-news-agency-says.md)
-_Context: China, Hebei, province_
+_Context: Chinese, Hebei, province_
 
 ##### Deposed
 ### [ Deposed Iraq president Saddam Hussein has refused to attend his trial for crimes against humanity, throwing the sometimes chaotic Iraqi proceedings into further confusion. ](/news/2005/12/6/deposed-iraq-president-saddam-hussein-has-refused-to-attend-his-trial-for-crimes-against-humanity-throwing-the-sometimes-chaotic-iraqi-pro.md)
@@ -29,7 +29,7 @@ _Context: Borneo, World Wildlife Fund, civet, lemur, mammal, mongoose, new speci
 
 ##### David Cameron
 ### [ David Cameron wins the leadership election for the United Kingdom Conservative Party. ](/news/2005/12/6/david-cameron-wins-the-leadership-election-for-the-united-kingdom-conservative-party.md)
-_Context: Conservative Party, David Cameron, United Kingdom, leadership election_
+_Context: Conservative Party, David Cameron, UK, leadership election_
 
 ##### Iran
 ### [ An Iranian C-130 Hercules airplane crashes into a ten-story building in a civilian area of the Iranian capital Tehran, killing all 94 people aboard and 34 residents of the building - a total of 128+ people. ](/news/2005/12/6/an-iranian-c-130-hercules-airplane-crashes-into-a-ten-story-building-in-a-civilian-area-of-the-iranian-capital-tehran-killing-all-94-peopl.md)

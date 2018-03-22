@@ -23,9 +23,9 @@ International pressure grew on North Korea to call off a planned rocket launch, 
 ### [A Daallo Airlines operated commercial plane, bound for Djibouti, makes an emergency landing at Aden Adde International Airport in Mogadishu, following an unexplained explosion that left a gaping hole in its fuselage. ](/news/2016/02/3/a-daallo-airlines-operated-commercial-plane-bound-for-djibouti-makes-an-emergency-landing-at-aden-adde-international-airport-in-mogadishu.md)
 An investigation is launched in Somalia after a plane made an emergency landing with a gaping hole in its fuselage in the capital, Mogadishu.
 
-##### China
+##### Chinese
 ### [China's state owned ChemChina offers to buy Swiss pesticide and seed manufacturer Syngenta for $43 billion. ](/news/2016/02/3/china-s-state-owned-chemchina-offers-to-buy-swiss-pesticide-and-seed-manufacturer-syngenta-for-43-billion.md)
-_Context: ChemChina, China, Swiss, Syngenta, pesticide_
+_Context: ChemChina, Chinese, Swiss, Syngenta, pesticide_
 
 ##### Syrian Civil War
 ### [The Syrian Army and its allies break a three-year rebel siege of two Shi'ite towns in northwest Syria, Nubl and Al-Zahraa. ](/news/2016/02/3/the-syrian-army-and-its-allies-break-a-three-year-rebel-siege-of-two-shiaite-towns-in-northwest-syria-nubl-and-al-zahraa.md)

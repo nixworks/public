@@ -31,7 +31,7 @@ _Context: Haiti's presidential election, Port-au-Prince_
 ### [23 students and a teacher are released after being taken hostage for five hours by an armed 15-year-old student, who then shot and injured himself, at Marinette High School in the town of Marinette, Wisconsin, United States. ](/news/2010/11/29/23-students-and-a-teacher-are-released-after-being-taken-hostage-for-five-hours-by-an-armed-15-year-old-student-who-then-shot-and-injured-h.md)
 A student armed with a handgun holds 23 other students and a teacher hostage for several hours at a school in Wisconsin before shooting himself.
 
-##### U.S.
+##### United States
 ### [A United States court sentences a Somali to 30 years in jail for piracy after an unsuccessful attack on a United States Navy flotilla. ](/news/2010/11/29/a-united-states-court-sentences-a-somali-to-30-years-in-jail-for-piracy-after-an-unsuccessful-attack-on-a-united-states-navy-flotilla.md)
 A US court sentences a Somali man to 30 years in jail for attacking a US warship off the coast of Somalia in April.
 

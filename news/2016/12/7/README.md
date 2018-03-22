@@ -39,7 +39,7 @@ The Dow industrials, S&amp;P 500 and small-cap focused Russell 2000 on Wednesday
 ### [Union leader Chuck Jones criticizes Donald Trump's announcement of kept jobs saying that the numbers mentioned are lower. Jones says that 550 workers would actually lose their livelihoods, while other workers were never scheduled to leave. ](/news/2016/12/7/union-leader-chuck-jones-criticizes-donald-trump-s-announcement-of-kept-jobs-saying-that-the-numbers-mentioned-are-lower-jones-says-that-55.md)
 _Context: Carrier Air Conditioner move to Mexico_
 
-##### U.S.
+##### United States
 ### [President-elect of the United States Donald Trump is named Time Person of the Year. ](/news/2016/12/7/president-elect-of-the-united-states-donald-trump-is-named-time-person-of-the-year.md)
 From the editors of TIME
 

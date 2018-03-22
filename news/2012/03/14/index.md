@@ -43,13 +43,13 @@ _Context: Bangladesh, a ferry_
 ### [Tropical Cyclone Lua heads towards Western Australia's Pilbara region. ](/news/2012/03/14/tropical-cyclone-lua-heads-towards-western-australia-s-pilbara-region.md)
 _Context: Pilbara, Severe Tropical Cyclone Lua, Western Australia_
 
-##### United Kingdom
+##### UK
 ### [Unemployment in the United Kingdom reaches 2.67 million, the most people since 1995. ](/news/2012/03/14/unemployment-in-the-united-kingdom-reaches-2-67-million-the-most-people-since-1995.md)
-_Context: United Kingdom_
+_Context: UK_
 
-##### United Kingdom
+##### UK
 ### [The United Kingdom towns of Chelmsford, Perth and St Asaph are awarded city status to mark the Diamond Jubilee of Elizabeth II. ](/news/2012/03/14/the-united-kingdom-towns-of-chelmsford-perth-and-st-asaph-are-awarded-city-status-to-mark-the-diamond-jubilee-of-elizabeth-ii.md)
-_Context: Chelmsford, Perth, St Asaph, United Kingdom, city status, diamond jubilee_
+_Context: Chelmsford, Perth, St Asaph, UK, city status, diamond jubilee_
 
 ##### Peruvian
 ### [More than 10,000 Peruvian illegal gold miners clash with police in an attempt to gain control over the regional capital Puerto Maldonado. ](/news/2012/03/14/more-than-10-000-peruvian-illegal-gold-miners-clash-with-police-in-an-attempt-to-gain-control-over-the-regional-capital-puerto-maldonado.md)

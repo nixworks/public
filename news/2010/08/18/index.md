@@ -47,9 +47,9 @@ A Colombia court rules a 2009 deal allowing US troops access to army bases is un
 ### [A court in Israel court jails a man who broke into the Turkish embassy in Tel Aviv and asked for asylum; his lawyer says the man was once an Israeli informer whose life is now under threat. ](/news/2010/08/18/a-court-in-israel-court-jails-a-man-who-broke-into-the-turkish-embassy-in-tel-aviv-and-asked-for-asylum-his-lawyer-says-the-man-was-once-an.md)
 _Context: Israel, Tel Aviv, Turkish_
 
-##### U.S.
+##### United States
 ### [The United States offers its support for a proposed international commission intent on examining alleged war crimes by the military junta of Burma. ](/news/2010/08/18/the-united-states-offers-its-support-for-a-proposed-international-commission-intent-on-examining-alleged-war-crimes-by-the-military-junta-of.md)
-_Context: Burma, U.S., war crime_
+_Context: Burma, United States, war crime_
 
 ##### Russia
 ### [Russia, Afghanistan, Tajikistan and Pakistan agree to step up the fight against terrorism and narcotics in a summit in the Russian Black Sea resort of Sochi. ](/news/2010/08/18/russia-afghanistan-tajikistan-and-pakistan-agree-to-step-up-the-fight-against-terrorism-and-narcotics-in-a-summit-in-the-russian-black-sea.md)
@@ -87,9 +87,9 @@ At least 67 people were missing after mudslides hit a remote southwest Chinese t
 ### [A North Korean fighter plane crashes in China near the border, killing the pilot and possibly a second pilot bailing out. Pictures posted by local residents show a Soviet plane design which were used in the Korean War. It is suggested to have been a defection attempt. ](/news/2010/08/18/a-north-korean-fighter-plane-crashes-in-china-near-the-border-killing-the-pilot-and-possibly-a-second-pilot-bailing-out-pictures-posted-by.md)
 A North Korean aircraft, which may be a fighter jet carrying a suspected defector, has crashed in China, according to reports.
 
-##### U.S.
+##### United States
 ### [Scientists dispute the claim by the United States that all the oil has gone from the Gulf of Mexico. ](/news/2010/08/18/scientists-dispute-the-claim-by-the-united-states-that-all-the-oil-has-gone-from-the-gulf-of-mexico.md)
-_Context: Gulf of Mexico, U.S._
+_Context: Gulf of Mexico, United States_
 
 ##### Saudi Arabia
 ### [Saudi Arabia overtakes the United States as the main donor to the stricken country. ](/news/2010/08/18/saudi-arabia-overtakes-the-united-states-as-the-main-donor-to-the-stricken-country.md)
@@ -97,11 +97,11 @@ Only 40 per cent of funds needed for immediate flood relief have been received, 
 
 ##### Japan
 ### [Japanese carmaker Mazda recalls 215,000 vehicles in the United States and 11,000 vehicles in China due to power steering flaws. ](/news/2010/08/18/japanese-carmaker-mazda-recalls-215-000-vehicles-in-the-united-states-and-11-000-vehicles-in-china-due-to-power-steering-flaws.md)
-_Context: Chinese, Japan, Mazda, U.S., power steering_
+_Context: Chinese, Japan, Mazda, United States, power steering_
 
-##### U.S.
+##### United States
 ### [United States car maker General Motors files for an Initial Public Offering. ](/news/2010/08/18/united-states-car-maker-general-motors-files-for-an-initial-public-offering.md)
-_Context: General Motors, IPO, U.S._
+_Context: General Motors, IPO, United States_
 
 ##### Foxconn
 ### [Foxconn holds employee rallies in a bid to stem the recent huge increase in suicides by its employees. ](/news/2010/08/18/foxconn-holds-employee-rallies-in-a-bid-to-stem-the-recent-huge-increase-in-suicides-by-its-employees.md)
@@ -127,23 +127,23 @@ _Context: Dallas, Texas, Erykah Badu, Soul, disorderly conduct, music video_
 ### [The American Ballet Theatre is given permission by its country's President, Barack Obama, to perform in Cuba; it would be the first time in 50 years. American tourists are still banned by their government from travelling to Cuba. ](/news/2010/08/18/the-american-ballet-theatre-is-given-permission-by-its-country-s-president-barack-obama-to-perform-in-cuba-it-would-be-the-first-time-in.md)
 The American Ballet Theatre company is to perform in Cuba later this year for the first time in 50 years.
 
-##### U.S.
+##### United States
 ### [The United States deploys troops along its border with Mexico by the order of President Barack Obama. ](/news/2010/08/18/the-united-states-deploys-troops-along-its-border-with-mexico-by-the-order-of-president-barack-obama.md)
-_Context: Barack Obama, Mexico, U.S., U.S. President_
+_Context: Barack Obama, Mexico, U.S. President, United States_
 
 ##### India
 ### [3 Indian peacekeepers serving in a United Nations peacekeeping operation in the Democratic Republic of the Congo are killed by rebels in an apparent ambush. ](/news/2010/08/18/3-indian-peacekeepers-serving-in-a-united-nations-peacekeeping-operation-in-the-democratic-republic-of-the-congo-are-killed-by-rebels-in-an.md)
 Rebels kill three Indian peacekeepers in a night-time ambush at a base in the eastern region of the Democratic Republic of Congo.
 
-##### U.S.
+##### United States
 ### [The United States ends combat operations in Iraq as its last combat brigade departs for Kuwait. ](/news/2010/08/18/the-united-states-ends-combat-operations-in-iraq-as-its-last-combat-brigade-departs-for-kuwait.md)
 The last full U.S. combat brigade crossed the border into Kuwait on Thursday morning, bringing to a close the active combat phase of the 7½-year war.
 
 ##### Julian Assange
 ### [Julian Assange of Wikileaks says the United States has approached the website to try to negotiate the release of a further 15,000 Afghanistan war documents which the military desires to keep secret; the United States denies this. ](/news/2010/08/18/julian-assange-of-wikileaks-says-the-united-states-has-approached-the-website-to-try-to-negotiate-the-release-of-a-further-15-000-afghanista.md)
-_Context: Julian Assange, U.S., Wikileaks_
+_Context: Julian Assange, United States, Wikileaks_
 
-##### U.S.
+##### United States
 ### [18 countries, including the United States, deploy naval troops in joint exercises which they say are an attempt to defend the Panama Canal against terrorism. ](/news/2010/08/18/18-countries-including-the-united-states-deploy-naval-troops-in-joint-exercises-which-they-say-are-an-attempt-to-defend-the-panama-canal-a.md)
 More than 2,000 civilian and military personnel from 18 countries began a 12-day exercise in Panama City Tuesday to train in a joint, multinational effort to defend the Panama Canal.
 

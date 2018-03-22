@@ -13,7 +13,7 @@ SEOUL (AFP/REUTERS) - South Korea recorded its sixth death and biggest single-da
 
 ##### Sinking of ''Dong Fang Zhi Xing''
 ### [The death toll from last week's sinking on China's Yangtze River rises to 434 with eight people missing and 14 survivors. ](/news/2015/06/8/the-death-toll-from-last-week-s-sinking-on-china-s-yangtze-river-rises-to-434-with-eight-people-missing-and-14-survivors.md)
-_Context: China, Sinking of ''Dong Fang Zhi Xing'', Yangtze River_
+_Context: Chinese, Sinking of ''Dong Fang Zhi Xing'', Yangtze River_
 
 ##### 2015 Sabah earthquake
 ### [The number of people found dead on Mount Kinabalu rises to 16 with two Singaporean climbers still missing. ](/news/2015/06/8/the-number-of-people-found-dead-on-mount-kinabalu-rises-to-16-with-two-singaporean-climbers-still-missing.md)

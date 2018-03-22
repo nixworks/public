@@ -15,7 +15,7 @@ Vladimir Putin has signed an order to have Russia withdrawn from the Internation
 ### [As many as 412 people have died in the last 23 days due to smog in Tehran, according to Iran's Health Ministry. All schools in the city have also been ordered to close as part of emergency measures. ](/news/2016/11/16/as-many-as-412-people-have-died-in-the-last-23-days-due-to-smog-in-tehran-according-to-iran-s-health-ministry-all-schools-in-the-city-have.md)
 _Context: Health Ministry, Iran, Tehran, smog_
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [The Saudi-led military coalition and the Houthis (Ansar Allah) arrive at a ceasefire agreement effective as of 17 November 2016, as a result of talks led by US Secretary of State John Kerry with the region's leaders.](/news/2016/11/16/the-saudi-led-military-coalition-and-the-houthis-ansar-allah-arrive-at-a-ceasefire-agreement-effective-as-of-17-november-2016-as-a-result.md)
 Kerry is seeking to end the fighting between the Houthis, allied to Iran, and the Saudi-backed government of the Yemeni president before Obama’s term ends
 

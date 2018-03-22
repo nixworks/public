@@ -17,11 +17,11 @@ _Context: Carlos Beltran Leyva, Culiacan, Sinaloa, Mexico_
 
 ##### Supreme Court of Peru
 ### [The Supreme Court of Peru upholds a 25 year prison sentence for former President Alberto Fujimori, convicted of mass human rights violations. ](/news/2010/01/3/the-supreme-court-of-peru-upholds-a-25-year-prison-sentence-for-former-president-alberto-fujimori-convicted-of-mass-human-rights-violations.md)
-_Context: Alberto Fujimori, President, Supreme Court of Peru, human rights_
+_Context: Alberto Fujimori, Peruvian President, Supreme Court of Peru, human rights_
 
-##### U.S.
+##### United States
 ### [The United States and United Kingdom close their embassies in Yemen, citing threats from Al-Qaeda. ](/news/2010/01/3/the-united-states-and-united-kingdom-close-their-embassies-in-yemen-citing-threats-from-al-qaeda.md)
-_Context: U.S., United Kingdom, Yemen, al-Qaeda_
+_Context: UK, United States, Yemen, al-Qaeda_
 
 ##### Diesel fuel
 ### [Hundreds of people attempt to control a large diesel leak into a major tributary of the Yellow River, the Wei River, in Shaanxi, China. ](/news/2010/01/3/hundreds-of-people-attempt-to-control-a-large-diesel-leak-into-a-major-tributary-of-the-yellow-river-the-wei-river-in-shaanxi-china.md)

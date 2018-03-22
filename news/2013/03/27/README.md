@@ -19,7 +19,7 @@ _Context: Cameroon, Lobeke, Nki, Sudan, Wildlife, elephant, poachers_
 ### [Oscar Pistorius's brother appears in court charged with murder over the death of motorcyclist's in a road accident in 2008. ](/news/2013/03/27/oscar-pistorius-s-brother-appears-in-court-charged-with-murder-over-the-death-of-motorcyclist-s-in-a-road-accident-in-2008.md)
 _Context: Oscar Pistorius_
 
-##### China
+##### Chinese
 ### [China sentences 20 men of the ethnic Uighur group to jail terms of up to life imprisonment on charges of terrorism and inciting secession in Xinjiang. ](/news/2013/03/27/china-sentences-20-men-of-the-ethnic-uighur-group-to-jail-terms-of-up-to-life-imprisonment-on-charges-of-terrorism-and-inciting-secession-in.md)
 China sentences 20 men to up to life in jail on terrorism and inciting secession charges in the troubled Xinjiang region, state media says.
 

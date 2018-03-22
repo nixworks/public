@@ -25,7 +25,7 @@ In one of the largest health care fraud settlements in U.S. history, Johnson & J
 
 ##### Ardal
 ### [A man fatally stabs three people on a bus en route between Ardal and Tyin in Norway. ](/news/2013/11/4/a-man-fatally-stabs-three-people-on-a-bus-en-route-between-ardal-and-tyin-in-norway.md)
-_Context: Ardal, Norway, Tyin_
+_Context: Ardal, Norwegian, Tyin_
 
 ##### German magazine ''Focus''
 ### [German magazine "Focus" reports the 2012 discovery of Nazi plundered art worth EUR1 billion in Munich, including lost works by Picasso and Matisse. ](/news/2013/11/4/german-magazine-focus-reports-the-2012-discovery-of-nazi-plundered-art-worth-a-1-billion-in-munich-including-lost-works-by-picasso-and-m.md)

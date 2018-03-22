@@ -29,7 +29,7 @@ Miss. governor estimates 80 could be dead in one county alone; two levees break 
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: According to U.S. and Iraqi government officials, US Air strikes near the border with Syria have left 56 civilians and over seven insurgents dead. ](/news/2005/08/30/conflict-in-iraq-according-to-u-s-and-iraqi-government-officials-us-air-strikes-near-the-border-with-syria-have-left-56-civilians-and-ov.md)
-_Context: Air strike, Conflict in Iraq, Iraq, Iraqi insurgency, Syria, U.S., civilian_
+_Context: Air strike, Conflict in Iraq, Iraq, Iraqi insurgency, Syria, United States, civilian_
 
 ## [Previous Day...](/news/2005/08/29/index.md)
 

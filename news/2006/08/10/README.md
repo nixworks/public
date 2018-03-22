@@ -9,7 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Marietta, Ohio
 ### [ In Marietta, Ohio, United States two men were arrested on money laundering in support of terrorism. They were found with lists of travelers on airplanes and information on airport security checkpoints. ](/news/2006/08/10/in-marietta-ohio-united-states-two-men-were-arrested-on-money-laundering-in-support-of-terrorism-they-were-found-with-lists-of-travelers.md)
-_Context: Marietta, Ohio, U.S., terrorism_
+_Context: Marietta, Ohio, United States, terrorism_
 
 ##### Hugo Chvez
 ### [ Hugo Chvez states that Fidel Castro is in a "great battle for life" but expresses optimism about his recovery. ](/news/2006/08/10/hugo-chavez-states-that-fidel-castro-is-in-a-great-battle-for-life-but-expresses-optimism-about-his-recovery.md)
@@ -17,7 +17,7 @@ _Context: Fidel Castro, Hugo Chvez_
 
 ##### 2006 transatlantic aircraft plot
 ### [ A terrorist plot to blow up planes in mid-flight from the UK to the US has been disrupted, Scotland Yard has said. ](/news/2006/08/10/a-terrorist-plot-to-blow-up-planes-in-mid-flight-from-the-uk-to-the-us-has-been-disrupted-scotland-yard-has-said.md)
-_Context: 2006 transatlantic aircraft plot, Scotland Yard, U.S., United Kingdom_
+_Context: 2006 transatlantic aircraft plot, Scotland Yard, UK, United States_
 
 ## [Previous Day...](/news/2006/08/9/index.md)
 

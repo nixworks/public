@@ -41,7 +41,7 @@ Landslides and floods kill at least 76 following three days of rains.
 
 ##### Bank of China
 ### [Bank of China becomes the first Chinese bank to open a branch in Taiwan. ](/news/2012/06/27/bank-of-china-becomes-the-first-chinese-bank-to-open-a-branch-in-taiwan.md)
-_Context: Bank of China, China, Taiwan_
+_Context: Bank of China, Chinese, Taiwan_
 
 ##### Barclays Bank plc
 ### [Barclays Bank plc is fined GBP290m after trying to manipulate interbank interest rates. Chief Executive Bob Diamond also forgoes his bonus. ](/news/2012/06/27/barclays-bank-plc-is-fined-agbp290m-after-trying-to-manipulate-interbank-interest-rates-chief-executive-bob-diamond-also-forgoes-his-bonus.md)
@@ -51,7 +51,7 @@ Barclays Bank pays £290m in penalties and boss Bob Diamond gives up his bonus a
 ### [The Glastonbury Festival and promoters Festival Republic "go their separate ways" after working together since 2001. ](/news/2012/06/27/the-glastonbury-festival-and-promoters-festival-republic-go-their-separate-ways-after-working-together-since-2001.md)
 The Glastonbury festival and promoters Festival Republic to &quot;go their separate ways&quot; after working together since 2001, it is announced.
 
-##### U.S.
+##### United States
 ### [A United States drone attack kills five in Pakistan. ](/news/2012/06/27/a-united-states-drone-attack-kills-five-in-pakistan.md)
 Missiles target compound in South Waziristan allegedly being used by warlord Hafiz Gul Bahadur.
 

@@ -25,7 +25,7 @@ Police say Randy Stair was scheduled to work a shift at Weis Market in Pennsylva
 
 ##### Ukraine-United States relations
 ### [An explosive device is hurled at the United States embassy in Kiev. ](/news/2017/06/8/an-explosive-device-is-hurled-at-the-united-states-embassy-in-kiev.md)
-_Context: Kiev, U.S., Ukraine-United States relations, embassy_
+_Context: Kiev, Ukraine-United States relations, United States, embassy_
 
 ##### Hezbollah
 ### [U.S. authorities charge two operatives, Samer El Debek, 37, of Dearborn, Michigan, and Ali Kourani, 32, of the Bronx, New York, belonging to the Lebanese Shiite militant group Hezbollah with terrorism offenses, accused of plotting to target American and Israeli targets in New York and Panama. ](/news/2017/06/8/u-s-authorities-charge-two-operatives-samer-el-debek-37-of-dearborn-michigan-and-ali-kourani-32-of-the-bronx-new-york-belonging-to.md)
@@ -53,7 +53,7 @@ China, Thailand, Indonesia and the Philippines say they will act to stop plastic
 
 ##### Freedom of the press in the United States
 ### [Montana congressman Greg Gianforte apologizes to journalist Ben Jacobs for the alleged body slam incident that occurred on May 24, and donates US$50,000 to the Committee to Protect Journalists. ](/news/2017/06/8/montana-congressman-greg-gianforte-apologizes-to-journalist-ben-jacobs-for-the-alleged-body-slam-incident-that-occurred-on-may-24-and-donat.md)
-_Context: $, Ben Jacobs, Committee to Protect Journalists, Freedom of the press in the United States, Greg Gianforte, Montana, body slam_
+_Context: Ben Jacobs, Committee to Protect Journalists, Freedom of the press in the United States, Greg Gianforte, Montana, US$, body slam_
 
 ##### American-led intervention in Syria
 ### [In its third strike near the town of Al-Tanf in recent weeks, the United States bombs Syrian government and allied troops, striking two out of three technical vehicles about 24 miles from the U.S. Coalition's At-Tanf base in Southern Syria. ](/news/2017/06/8/in-its-third-strike-near-the-town-of-al-tanf-in-recent-weeks-the-united-states-bombs-syrian-government-and-allied-troops-striking-two-out.md)

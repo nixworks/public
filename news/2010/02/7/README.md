@@ -11,7 +11,7 @@ Country cracks down on Web sites used to disseminate messages against regime.
 ### [Iranian President Mahmoud Ahmadinejad orders his country's atomic agency to begin enriching uranium to a higher level. ](/news/2010/02/7/iranian-president-mahmoud-ahmadinejad-orders-his-country-s-atomic-agency-to-begin-enriching-uranium-to-a-higher-level.md)
 _Context: Iran, Mahmoud Ahmadinejad, uranium_
 
-##### United Kingdom
+##### UK
 ### [Britain is to tighten the rules on immigrants entering the country on a student visa in a clampdown on a system which some security experts say has been exploited by Islamist militants. ](/news/2010/02/7/britain-is-to-tighten-the-rules-on-immigrants-entering-the-country-on-a-student-visa-in-a-clampdown-on-a-system-which-some-security-experts.md)
 Britain is to tighten the rules on immigrants entering Britain on a student visa, the government said Sunday in a clampdown on a system which some security experts say has been exploited by Islamist militants.
 

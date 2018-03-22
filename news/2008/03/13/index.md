@@ -15,7 +15,7 @@ _Context: Belgium, Brussels, European Union, climate change, energy security_
 ### [ Melbourne, Adelaide and Hobart experience some of their warmest weather of record for this season as result of an Australian autumn heatwave. ](/news/2008/03/13/melbourne-adelaide-and-hobart-experience-some-of-their-warmest-weather-of-record-for-this-season-as-result-of-an-australian-autumn-heatwav.md)
 _Context: Adelaide, Hobart, Melbourne_
 
-##### $
+##### US$
 ### [ The U.S. dollar, after repeatedly testing 100 yen in Asian dealings and early European action, breaks through to touch 99.75, its lowest level since November 1995. ](/news/2008/03/13/the-u-s-dollar-after-repeatedly-testing-100-yen-in-asian-dealings-and-early-european-action-breaks-through-to-touch-99-75-its-lowest-le.md)
 The dollar extended losses late on Thursday, hitting fresh record lows against the euro, in selling driven by technical factors.
 
@@ -29,7 +29,7 @@ _Context: Boris Tadic, May 11, President of Serbia, Serbia, parliament, parliame
 
 ##### Gold prices
 ### [ The price of gold reaches $1000 per troy ounce for the first time. ](/news/2008/03/13/the-price-of-gold-reaches-1000-per-troy-ounce-for-the-first-time.md)
-_Context: $, Gold prices, gold, troy ounce_
+_Context: Gold prices, US$, gold, troy ounce_
 
 ##### Mar Paulos Faraj Rahho
 ### [ The body of Mar Paulos Faraj Rahho, the Chaldean Catholic archbishop of Mosul who was kidnapped in Iraq on February 29, is found in a shallow grave close to the city. ](/news/2008/03/13/the-body-of-mar-paulos-faraj-rahho-the-chaldean-catholic-archbishop-of-mosul-who-was-kidnapped-in-iraq-on-february-29-is-found-in-a-shall.md)

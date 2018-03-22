@@ -19,7 +19,7 @@ The German, French and Spanish leaders visit the site in the French Alps where a
 ### [American companies Kraft Foods and H.J. Heinz announce merger plans to create a combined company, The Kraft Heinz Company, which will be led by the present CEO of Heinz, Bernardo Hees. ](/news/2015/03/25/american-companies-kraft-foods-and-h-j-heinz-announce-merger-plans-to-create-a-combined-company-the-kraft-heinz-company-which-will-be-led.md)
 _Context: Bernardo Hees, H.J. Heinz, Kraft Foods, Kraft Heinz Company_
 
-##### United Kingdom
+##### UK
 ### [British singer and songwriter Zayn Malik leaves popular boyband One Direction. ](/news/2015/03/25/british-singer-and-songwriter-zayn-malik-leaves-popular-boyband-one-direction.md)
 Zayn Malik has spoken of his decision to leave One Direction after being signed off with stress for the first time, saying that while it is “crazy and wild and a bit mad”, he’s “never felt more in control” of his own life.
 

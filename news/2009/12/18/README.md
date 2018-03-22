@@ -63,9 +63,9 @@ _Context: Catholic Church, Emmanuel Milingo, Holy See, Zambia_
 ### [ Russian television news channels air repeated coverage of a UFO, shaped like a pyramid and similar to an Imperial Cruiser from "Star Wars". ](/news/2009/12/18/russian-television-news-channels-air-repeated-coverage-of-a-ufo-shaped-like-a-pyramid-and-similar-to-an-imperial-cruiser-from-star-wars.md)
 A giant pyramid which appears to be a UFO hovering over the Kremlin has caused frenzied speculation in Russia that it is an alien spacecraft.
 
-##### Catalonia
+##### Catalan
 ### [ The Catalan Parliament votes to ban bull fighting in the Spanish region. ](/news/2009/12/18/the-catalan-parliament-votes-to-ban-bull-fighting-in-the-spanish-region.md)
-_Context: Catalan Parliament, Catalonia, Spanish, bull fighting_
+_Context: Catalan, Catalan Parliament, Spanish, bull fighting_
 
 ##### Copenhagen
 ### [ Thirty world leaders present in Copenhagen for the United Nations Conference on Climate Change agree on a draft accord. ](/news/2009/12/18/thirty-world-leaders-present-in-copenhagen-for-the-united-nations-conference-on-climate-change-agree-on-a-draft-accord.md)

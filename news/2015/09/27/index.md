@@ -39,7 +39,7 @@ _Context: Afghan police, ISIL, Nangarhar Province, Pakistan, War in Afghanistan 
 ### [Clashes between Christians and Muslims in the capital Bangui leave at least 21 people dead and over 100 injured. ](/news/2015/09/27/clashes-between-christians-and-muslims-in-the-capital-bangui-leave-at-least-21-people-dead-and-over-100-injured.md)
 Another 100 people thought to have been injured and thousands displaced in capital Bangui in worst violence this year after Muslim motorcycle taxi driver found murdered
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [Air-strikes by Saudi helicopter gunships on the Yemeni village of Bani Zela in Yemen's Red Sea border area with Saudi Arabia kill at least 25 people. ](/news/2015/09/27/air-strikes-by-saudi-helicopter-gunships-on-the-yemeni-village-of-bani-zela-in-yemen-s-red-sea-border-area-with-saudi-arabia-kill-at-least-2.md)
 News - Your daily dose of information: European and International latest breaking news, economic news, business news and more. Stay up to date with Euronews.
 

@@ -49,7 +49,7 @@ Turkey has already paid a deposit to Russia for the purchase of the S-400 anti-b
 
 ##### Russian interference in the 2016 United States elections
 ### [The United States Department of Justice has requested Moscow-based Russian media channel RT America to register as a foreign lobbying firm in the United States. ](/news/2017/09/12/the-united-states-department-of-justice-has-requested-moscow-based-russian-media-channel-rt-america-to-register-as-a-foreign-lobbying-firm-i.md)
-_Context: Department of Justice, Moscow, RT America, Russia, Russian interference in the 2016 United States elections, U.S., foreign lobbying firm_
+_Context: Department of Justice, Moscow, RT America, Russia, Russian interference in the 2016 United States elections, United States, foreign lobbying firm_
 
 ##### 2016 U.S. election
 ### [Hillary Clinton releases the book "What Happened", a memoir about her most recent presidential campaign. Clinton has implied that she may not run again in 2020. ](/news/2017/09/12/hillary-clinton-releases-the-book-what-happened-a-memoir-about-her-most-recent-presidential-campaign-clinton-has-implied-that-she-may-no.md)

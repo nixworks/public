@@ -5,7 +5,7 @@ Formats: [HTML](2009/12/14/index.html)  [JSON](2009/12/14/index.json)  [XML](200
 
 ##### TeliaSonera
 ### [ TeliaSonera opens the world's first 4G LTE cellular network for public in Oslo, Norway, and Stockholm, Sweden. ](/news/2009/12/14/teliasonera-opens-the-world-s-first-4g-lte-cellular-network-for-public-in-oslo-norway-and-stockholm-sweden.md)
-_Context: 4G, LTE, Norway, Oslo, Stockholm, Sweden, TeliaSonera, cellular network_
+_Context: 4G, LTE, Norwegian, Oslo, Stockholm, Sweden, TeliaSonera, cellular network_
 
 ##### Austria
 ### [ Austrian bank Hypo Alpe-Adria-Bank International is nationalised to avert a bank collapse. ](/news/2009/12/14/austrian-bank-hypo-alpe-adria-bank-international-is-nationalised-to-avert-a-bank-collapse.md)
@@ -53,7 +53,7 @@ _Context: Antonio Maria Costa, UN Office on Drugs and Crime, drug traffickers_
 
 ##### Group of 77
 ### [ The Group of 77 (including China, India, UAE, Qatar, and Saudi Arabia) suspends participation in treaty negotiations at the Copenhagen Climate Change Conference, citing the unwillingness of developed nations to live up to the Kyoto Protocol and what they view as a lack of open negotiations. ](/news/2009/12/14/the-group-of-77-including-china-india-uae-qatar-and-saudi-arabia-suspends-participation-in-treaty-negotiations-at-the-copenhagen-clim.md)
-_Context: China, Conference on Climate Change, Copenhagen, Group of 77, India, Kyoto Protocol, Qatar, Saudi Arabia, UAE_
+_Context: Chinese, Conference on Climate Change, Copenhagen, Group of 77, India, Kyoto Protocol, Qatar, Saudi Arabia, UAE_
 
 ## [Previous Day...](/news/2009/12/13/index.md)
 

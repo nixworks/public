@@ -11,7 +11,7 @@ _Context: Curtis Cooper, University of Central Missouri, prime number_
 ### [The University of Dsseldorf strips German Minister of Education and Research Annette Schavan of a doctorate and degree following allegations of plagiarism. ](/news/2013/02/5/the-university-of-dusseldorf-strips-german-minister-of-education-and-research-annette-schavan-of-a-doctorate-and-degree-following-allegation.md)
 A German university votes to strip Education Minister Annette Schavan of her doctorate after an investigation into plagiarism allegations.
 
-##### United Kingdom
+##### UK
 ### [The United Kingdom's House of Commons votes overwhelmingly in favour of government legislation to introduce same-sex marriages. ](/news/2013/02/5/the-united-kingdom-s-house-of-commons-votes-overwhelmingly-in-favour-of-government-legislation-to-introduce-same-sex-marriages.md)
 MPs approve same-sex marriage in England and Wales in a key Commons vote, although more Conservative MPs voted against the bill than for it.
 
@@ -25,7 +25,7 @@ Parents, sons 5 and 12, were found dead at apartment in Johns Creek, Ga.
 
 ##### Forestville
 ### [Three people are shot to death in a house near Forestville, Sonoma County, California, United States. ](/news/2013/02/5/three-people-are-shot-to-death-in-a-house-near-forestville-sonoma-county-california-united-states.md)
-_Context: California, Forestville, Sonoma, U.S._
+_Context: California, Forestville, Sonoma, United States_
 
 ##### 2012 Delhi gang rape case
 ### [The trial of five men accused in the 2012 Delhi gang rape case begins today, while President of India Pranab Mukherjee approves the death penalty for rapists. ](/news/2013/02/5/the-trial-of-five-men-accused-in-the-2012-delhi-gang-rape-case-begins-today-while-president-of-india-pranab-mukherjee-approves-the-death-pe.md)

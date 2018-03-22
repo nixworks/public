@@ -37,7 +37,7 @@ At least 17 people are killed and hundreds injured, state media report, as huge 
 
 ##### 2015 Chinese stock market crash
 ### [The People's Republic of China devalues the yuan (Renminbi) by 1.62 percent after devaluing by 1.92 percent yesterday. This comes in the wake of a 30% drop of Chinese stocks last month. ](/news/2015/08/12/the-people-s-republic-of-china-devalues-the-yuan-renminbi-by-1-62-percent-after-devaluing-by-1-92-percent-yesterday-this-comes-in-the-wak.md)
-_Context: 2015 Chinese stock market crash, China, yuan_
+_Context: 2015 Chinese stock market crash, Chinese, yuan_
 
 ##### Pearson PLC
 ### [Pearson PLC agrees to sell its share in the Economist Group to Exor controlled by the Agnelli family for GBP469m. ](/news/2015/08/12/pearson-plc-agrees-to-sell-its-share-in-the-economist-group-to-exor-controlled-by-the-agnelli-family-for-gbp469m.md)

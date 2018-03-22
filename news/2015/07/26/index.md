@@ -25,7 +25,7 @@ _Context: Atlanta, Bobbi Kristina Brown, Roswell, Georgia, Whitney Houston, medi
 
 ##### Nike, Inc.
 ### [Nike agrees to pay a combined $2.4 million to consumers of Nike+ FuelBand over false advertising. ](/news/2015/07/26/nike-agrees-to-pay-a-combined-2-4-million-to-consumers-of-nike-fuelband-over-false-advertising.md)
-_Context: $, Nike+ FuelBand, Nike, Inc._
+_Context: Nike+ FuelBand, Nike, Inc., US$_
 
 ##### Verizon
 ### [Verizon employees in nine states (Connecticut, Delaware, Maryland, Massachusetts, New Jersey, New York, Pennsylvania, Rhode Island, Virginia) and Washington, D.C. vote to go on strike on August 1 if disputes between the union and the company result in no new contracts. ](/news/2015/07/26/verizon-employees-in-nine-states-connecticut-delaware-maryland-massachusetts-new-jersey-new-york-pennsylvania-rhode-island-virginia.md)

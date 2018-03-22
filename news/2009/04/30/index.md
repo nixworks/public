@@ -27,9 +27,9 @@ _Context: Azerbaijan, Baku, State Oil Academy, killed_
 ### [ Eight National Army soldiers are killed during combat with the Revolutionary Armed Forces in Colombia. ](/news/2009/04/30/eight-national-army-soldiers-are-killed-during-combat-with-the-revolutionary-armed-forces-in-colombia.md)
 _Context: Colombia, Colombian Army, Revolutionary Armed Forces of Colombia, internal conflict, soldier_
 
-##### United Kingdom
+##### UK
 ### [ The United Kingdom ends combat operations in the Iraq War. ](/news/2009/04/30/the-united-kingdom-ends-combat-operations-in-the-iraq-war.md)
-_Context: Iraq, Iraq War, United Kingdom, military operation_
+_Context: Iraq, Iraq War, UK, military operation_
 
 ##### India
 ### [ The third round of India's general election takes place. ](/news/2009/04/30/the-third-round-of-india-s-general-election-takes-place.md)
@@ -41,7 +41,7 @@ _Context: Apeldoorn, Dutch, Queen's Day, attacked, parade_
 
 ##### Chrysler
 ### [ Chrysler declares bankruptcy under Chapter 11 of the United States Code. ](/news/2009/04/30/chrysler-declares-bankruptcy-under-chapter-11-of-the-united-states-code.md)
-_Context: Chrysler, U.S., bankruptcy, chapter 11 bankruptcy, federal offenses, sustain_
+_Context: Chrysler, United States, bankruptcy, chapter 11 bankruptcy, federal offenses, sustain_
 
 ##### Mexican President
 ### [ President Felipe Calderon partially closes Mexico's economy for five days. ](/news/2009/04/30/president-felipe-caldera3n-partially-closes-mexico-s-economy-for-five-days.md)

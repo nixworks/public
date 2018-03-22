@@ -9,7 +9,7 @@ In a ruling with potentially far-reaching implications for the patenting of huma
 
 ##### Hutaree
 ### [Nine members of the Hutaree militia are arrested in the United States on allegations of a plot to kill policemen then to attack the funerals, in preparation for a war against all levels of American government. ](/news/2010/03/29/nine-members-of-the-hutaree-militia-are-arrested-in-the-united-states-on-allegations-of-a-plot-to-kill-policemen-then-to-attack-the-funerals.md)
-_Context: Hutaree, U.S., militia_
+_Context: Hutaree, United States, militia_
 
 ##### Architecture
 ### [In architecture, Kazuyo Sejima and Ryue Nishizawa, cofounders of the firm SANAA, win the 2010 Pritzker Prize. ](/news/2010/03/29/in-architecture-kazuyo-sejima-and-ryue-nishizawa-cofounders-of-the-firm-sanaa-win-the-2010-pritzker-prize.md)

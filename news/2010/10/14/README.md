@@ -15,7 +15,7 @@ Scientists working for the UN say that they have eradicated a virus which can be
 ### [The World Health Organisation warns about an outbreak of Cutaneous leishmaniasis in Afghanistan. ](/news/2010/10/14/the-world-health-organisation-warns-about-an-outbreak-of-cutaneous-leishmaniasis-in-afghanistan.md)
 Hundreds of thousands of Afghans have been infected by a disfiguring tropical skin disease, cutaneous leishmaniasis, officials say.
 
-##### President
+##### Peruvian President
 ### [The President of Peru Alan Garcia denies claims that he slapped a man who called him corrupt when he visited a Lima hospital last weekend. ](/news/2010/10/14/the-president-of-peru-alan-garcia-denies-claims-that-he-slapped-a-man-who-called-him-corrupt-when-he-visited-a-lima-hospital-last-weekend.md)
 Peruvian President Alan Garcia denies slapping a man who called him corrupt during a visit to a hospital.
 
@@ -91,7 +91,7 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 ### [The number of mortgage foreclosures in the United States in September 2010 exceeds 100,000 for the first time. ](/news/2010/10/14/the-number-of-mortgage-foreclosures-in-the-united-states-in-september-2010-exceeds-100-000-for-the-first-time.md)
 The number of homes taken over by banks topped 100,000 for the first time in September, though foreclosures are expected to slow in coming months as lenders work through questionable paperwork, real estate data company RealtyTrac said on Thursday.
 
-##### U.S.
+##### United States
 ### [The shortlist for the United States National Book Award is announced. ](/news/2010/10/14/the-shortlist-for-the-united-states-national-book-award-is-announced.md)
 Acclaimed Australian author Peter Carey might have missed out the Booker Prize, but he has been shortlisted for America&#039;s National Book Awards.
 

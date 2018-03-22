@@ -49,7 +49,7 @@ _Context: Afghanistan, UK Border Agency_
 
 ##### Governor of Illinois
 ### [The trial of former Governor of Illinois Rod Blagojevich on corruption charges begins today in the United States. ](/news/2010/06/8/the-trial-of-former-governor-of-illinois-rod-blagojevich-on-corruption-charges-begins-today-in-the-united-states.md)
-_Context: Governor of Illinois, Rod Blagojevich, U.S., corruption_
+_Context: Governor of Illinois, Rod Blagojevich, United States, corruption_
 
 ##### Jrme Kerviel
 ### [The trial of alleged "rogue trader" Jrme Kerviel of Socit Gnrale begins in Paris. ](/news/2010/06/8/the-trial-of-alleged-rogue-trader-jerome-kerviel-of-societe-generale-begins-in-paris.md)
@@ -75,7 +75,7 @@ _Context: Gaza Strip, International Federation of Red Cross and Red Crescent Soc
 ### [Libya orders the United Nations refugee agency, UNHCR, to leave the country for unknown reasons. ](/news/2010/06/8/libya-orders-the-united-nations-refugee-agency-unhcr-to-leave-the-country-for-unknown-reasons.md)
 UNHCR says it was told to cease operations without explanation.
 
-##### U.S.
+##### United States
 ### [The United States threatens Iran with its toughest nuclear sanctions yet, despite the nuclear fuel-swap arrangement Iran made with Brazil and Turkey in May. ](/news/2010/06/8/the-united-states-threatens-iran-with-its-toughest-nuclear-sanctions-yet-despite-the-nuclear-fuel-swap-arrangement-iran-made-with-brazil-an.md)
 Iran faces its toughest sanctions over its nuclear policy, the US says, as the UN prepares to vote on the issue.
 

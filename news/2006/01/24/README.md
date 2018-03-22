@@ -21,7 +21,7 @@ _Context: Ahvaz, Iran, Lebanese, Mahmoud Ahmadinejad, Nezam Molla-Hoveyzeh, Pres
 
 ##### The Walt Disney Company
 ### [ Two mergers are announced in the American entertainment industry: Disney and Pixar Animation Studios will merge in a US $7.4 billion deal. ](/news/2006/01/24/two-mergers-are-announced-in-the-american-entertainment-industry-disney-and-pixar-animation-studios-will-merge-in-a-us-7-4-billion-deal.md)
-_Context: $, Pixar Animation Studios, The Walt Disney Company_
+_Context: Pixar Animation Studios, The Walt Disney Company, US$_
 
 ##### Miyeegombyn Enkhbold
 ### [ Miyeegombyn Enkhbold is chosen as the new Prime Minister of Mongolia by the State Great Khural. ](/news/2006/01/24/miyeegombyn-enkhbold-is-chosen-as-the-new-prime-minister-of-mongolia-by-the-state-great-khural.md)

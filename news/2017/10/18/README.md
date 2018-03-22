@@ -9,7 +9,7 @@ Ukrainian riot police clash with Maidan-style protesters at camp in Kiev, tear g
 
 ##### 19th National Congress of the Communist Party of China
 ### [ China's leader and Party General Secretary Xi Jinping addresses more than 2,000 delegates in Beijing. The congress is expected to finish next week. ](/news/2017/10/18/china-s-leader-and-party-general-secretary-xi-jinping-addresses-more-than-2-000-delegates-in-beijing-the-congress-is-expected-to-finish-ne.md)
-_Context: 19th National Congress of the Communist Party of China, Beijing, China, Communist Party of China, General Secretary of the Communist Party of China, Xi Jinping, paramount leader_
+_Context: 19th National Congress of the Communist Party of China, Beijing, Chinese, Communist Party of China, General Secretary of the Communist Party of China, Xi Jinping, paramount leader_
 
 ##### Law in Quebec
 ### [The Quebec National Assembly passes legislation banning individuals who cover their faces to receive or give public services, including riding public buses. ](/news/2017/10/18/the-quebec-national-assembly-passes-legislation-banning-individuals-who-cover-their-faces-to-receive-or-give-public-services-including-ridi.md)
@@ -17,7 +17,7 @@ Law requires individuals to uncover their faces when receiving public services, 
 
 ##### Crime in Maryland
 ### [A workplace shooting in Edgewood, United States, kills three and critically injures two. The suspect, Radee Labeeb Prince, flees to neighboring Delaware, where he allegedly shoots a man in Wilmington hours later, before his capture in Newark. ](/news/2017/10/18/a-workplace-shooting-in-edgewood-united-states-kills-three-and-critically-injures-two-the-suspect-radee-labeeb-prince-flees-to-neighbor.md)
-_Context: Crime in Maryland, Delaware, Edgewood, Newark, U.S., Wilmington_
+_Context: Crime in Maryland, Delaware, Edgewood, Newark, United States, Wilmington_
 
 ##### Lincoln in the Bardo
 ### [A 2017 experimental novel, "Lincoln in the Bardo" by American writer George Saunders, wins the 2017 Man Booker Prize. ](/news/2017/10/18/a-2017-experimental-novel-lincoln-in-the-bardo-by-american-writer-george-saunders-wins-the-2017-man-booker-prize.md)

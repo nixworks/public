@@ -39,7 +39,7 @@ A Virginia State trooper who was shot when a suspect opened fire at a Greyhound 
 ### [A Malaysian court dismisses Malaysia Airlines's bid to throw out a lawsuit filed by relatives of three people who went missing on Flight 370. The company argued that the disappearance of MH370 on March 8, 2014, occurred before the company came into existence as Malaysia Airlines Berhad (MAB) on September 1, 2015, and therefore has no liability to relatives. The court ruled MAB's liability would be determined in a trial. ](/news/2016/03/31/a-malaysian-court-dismisses-malaysia-airlines-s-bid-to-throw-out-a-lawsuit-filed-by-relatives-of-three-people-who-went-missing-on-flight-370.md)
 A court in Malaysia has rejected a bid by Malaysia Airlines to throw out a lawsuit filed by the relatives of three people who went missing on Flight 370.
 
-##### U.S.
+##### United States
 ### [A U.S. official announces that The Pentagon plans to transfer about a dozen inmates from the Guantanamo Bay detention camp to at least two countries that have agreed to take them, in the latest move in Barack Obama's final push to close the facility. The official declined to name the countries ready to take them in. ](/news/2016/03/31/a-u-s-official-announces-that-the-pentagon-plans-to-transfer-about-a-dozen-inmates-from-the-guantanamo-bay-detention-camp-to-at-least-two-c.md)
 Transfers from the US military prison in Cuba are expected to begin in the next few days, in latest move in Obama’s final push to close the facility
 

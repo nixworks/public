@@ -11,7 +11,7 @@ _Context: Maldives, Maumoon Abdul Gayoom, democratic, first democratic election_
 ### [ The RTS and MICEX stock exchanges halt trading until Friday after opening for just more than half an hour as prices plummeted in tune with the overall situation in the world's stock markets and falling oil prices. ](/news/2008/10/8/the-rts-and-micex-stock-exchanges-halt-trading-until-friday-after-opening-for-just-more-than-half-an-hour-as-prices-plummeted-in-tune-with.md)
 _Context: MICEX, RTS_
 
-##### United Kingdom
+##### UK
 ### [ Britain's Chancellor of the Exchequer Alistair Darling releases details of a rescue package aimed at restoring confidence in British Banks. As part of the deal the British Government will provide GBP50bn of investment, provide a further GBP200bn in short term loans and guarantee up to GBP250bn of intra-bank loans ](/news/2008/10/8/britain-s-chancellor-of-the-exchequer-alistair-darling-releases-details-of-a-rescue-package-aimed-at-restoring-confidence-in-british-banks.md)
 Emergency interest rate cuts Wednesday by the Federal Reserve and five other central banks left in doubt whether government efforts to cure the financial crisis would show results fast enough to...
 
@@ -23,9 +23,9 @@ _Context: Mount Everest, Nepal, Yeti Airlines Flight 103_
 ### [ The 2008 Nobel Prize in Chemistry is awarded Osamu Shimomura, Martin Chalfie, and Roger Y. Tsien for the discovery and development of the green fluorescent protein (GFP).](/news/2008/10/8/the-2008-nobel-prize-in-chemistry-is-awarded-osamu-shimomura-martin-chalfie-and-roger-y-tsien-for-the-discovery-and-development-of-the-g.md)
 _Context: 2008, Martin Chalfie, Nobel Prize in Chemistry, Osamu Shimomura, Roger Y. Tsien, green fluorescent protein (GFP)_
 
-##### U.S.
+##### United States
 ### [ The United States embassy in Beirut seeks assistance in finding two US journalists missing in Lebanon. ](/news/2008/10/8/the-united-states-embassy-in-beirut-seeks-assistance-in-finding-two-us-journalists-missing-in-lebanon.md)
-_Context: Beirut, Lebanese, U.S., embassy, journalist_
+_Context: Beirut, Lebanese, United States, embassy, journalist_
 
 ##### Mosiuoa Lekota
 ### [ Former South African Defence Minister Mosiuoa Lekota says that it is "inevitable" that South Africa's ruling African National Congress (ANC) will split. ](/news/2008/10/8/former-south-african-defence-minister-mosiuoa-lekota-says-that-it-is-inevitable-that-south-africa-s-ruling-african-national-congress-anc.md)

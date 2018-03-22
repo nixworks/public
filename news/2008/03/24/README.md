@@ -25,7 +25,7 @@ _Context: Dutch, Eindhoven, European Swimming Championships, Federica Pellegrini
 
 ##### FBI
 ### [ The Federal Bureau of Investigation identifies the bodies of two United States citizens working as contractors in Iraq kidnapped more than a year ago. ](/news/2008/03/24/the-federal-bureau-of-investigation-identifies-the-bodies-of-two-united-states-citizens-working-as-contractors-in-iraq-kidnapped-more-than.md)
-_Context: FBI, Iraq, U.S., kidnap_
+_Context: FBI, Iraq, United States, kidnap_
 
 ##### Department of Justice
 ### [ The United States Department of Justice approves the merger of Sirius Satellite Radio and XM Satellite Radio. ](/news/2008/03/24/the-united-states-department-of-justice-approves-the-merger-of-sirius-satellite-radio-and-xm-satellite-radio.md)
@@ -37,7 +37,7 @@ _Context: Bhutan, Bhutan Peace and Prosperity Party, Lyonpo Jigme Thinley, Prime
 
 ##### Largest mass shooting in US history
 ### [ Relatives of victims of the Virginia Tech massacre report that the Government of Virginia will offer victims compensation of $100,000 to forestall law suits. ](/news/2008/03/24/relatives-of-victims-of-the-virginia-tech-massacre-report-that-the-government-of-virginia-will-offer-victims-compensation-of-100-000-to-fo.md)
-_Context: $, Virginia, largest mass shooting in US history_
+_Context: US$, Virginia, largest mass shooting in US history_
 
 ##### Serbia
 ### [ Serbia formally proposes partitioning Kosovo along ethnic lines, asking the United Nations to ensure that Belgrade can control key institutions and functions in areas of the newly independent country where Serbs form a majority. ](/news/2008/03/24/serbia-formally-proposes-partitioning-kosovo-along-ethnic-lines-asking-the-united-nations-to-ensure-that-belgrade-can-control-key-institut.md)

@@ -33,7 +33,7 @@ _Context: Buner District, Pakistan, Taliban, Tehrik-i-Taliban Pakistan, War in N
 
 ##### General Motors
 ### [ General Motors will temporarily close 13 factories in the United States and Mexico. ](/news/2009/04/23/general-motors-will-temporarily-close-13-factories-in-the-united-states-and-mexico.md)
-_Context: General Motors, Mexico, U.S., factories_
+_Context: General Motors, Mexico, United States, factories_
 
 ## [Previous Day...](/news/2009/04/22/index.md)
 

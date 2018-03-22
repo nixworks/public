@@ -27,7 +27,7 @@ A judiciary spokesman gave no other details beyond the terse statement of a ruli
 ### [South Africa plans to leave the International Criminal Court (ICC) as the government faces criticism for, earlier this year, ignoring a court order to arrest Sudan's president. ](/news/2015/10/11/south-africa-plans-to-leave-the-international-criminal-court-icc-as-the-government-faces-criticism-for-earlier-this-year-ignoring-a-cour.md)
 _Context: International Criminal Court, South Africa, Sudan_
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [An Arab coalition airstrike on a prison in Yemen's central Al Bayda Governorate, reportedly kills 20 prisoners. The prison which held more than 100 prisoners was controlled by the Houthis. ](/news/2015/10/11/an-arab-coalition-airstrike-on-a-prison-in-yemen-s-central-al-bayda-governorate-reportedly-kills-20-prisoners-the-prison-which-held-more-t.md)
 Sanaa, Oct 12 (IANS) At least 20 prisoners were killed when warplanes of the Saudi-led coalition bombed a prison in Yemen&#x27;s al-Bayda province on Sunday, medical sources and witnesses said. The prison which held more than 100 prisoners was controlled by the Shia Houthi group, the sources said, a...
 

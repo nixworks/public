@@ -23,17 +23,17 @@ _Context: ATR 42, FedEx, Lubbock Preston Smith International Airport, Texas, cra
 ### [ Iran will have enough enriched uranium to make a single nuclear weapon later this year, the International Institute for Strategic Studies predicts. ](/news/2009/01/27/iran-will-have-enough-enriched-uranium-to-make-a-single-nuclear-weapon-later-this-year-the-international-institute-for-strategic-studies-p.md)
 _Context: International Institute for Strategic Studies, Iran, nuclear weapon, uranium, uranium enrichment_
 
-##### United Kingdom
+##### UK
 ### [ United Kingdom Secretary of State for Business, Enterprise and Regulatory Reform Peter Mandelson unveils a GBP2.3-billion bailout for the British motor industry. ](/news/2009/01/27/united-kingdom-secretary-of-state-for-business-enterprise-and-regulatory-reform-peter-mandelson-unveils-a-agbp2-3-billion-bailout-for-the.md)
-_Context: British motor industry, GBP, Peter Mandelson, Secretary of State for Business, Enterprise and Regulatory Reform, United Kingdom, bailout_
+_Context: British motor industry, GBP, Peter Mandelson, Secretary of State for Business, Enterprise and Regulatory Reform, UK, bailout_
 
-##### United Kingdom
+##### UK
 ### [ The United Kingdom Information Tribunal orders Her Majesty's Government to release the minutes of Cabinet discussions regarding the 2003 invasion of Iraq. ](/news/2009/01/27/the-united-kingdom-information-tribunal-orders-her-majesty-s-government-to-release-the-minutes-of-cabinet-discussions-regarding-the-2003-in.md)
-_Context: 2003, 2003 invasion of Iraq, His Majesty's Government, Information Tribunal, Iraq, United Kingdom, government, minutes_
+_Context: 2003, 2003 invasion of Iraq, His Majesty's Government, Information Tribunal, Iraq, UK, government, minutes_
 
 ##### Florida
 ### [ Florida hedge fund manager Arthur Nadel is arrested by the United States Federal Bureau of Investigation and charged with fraud. ](/news/2009/01/27/florida-hedge-fund-manager-arthur-nadel-is-arrested-by-the-united-states-federal-bureau-of-investigation-and-charged-with-fraud.md)
-_Context: Arthur Nadel, FBI, Florida, U.S., fraud, hedge fund_
+_Context: Arthur Nadel, FBI, Florida, United States, fraud, hedge fund_
 
 ##### Seven people die
 ### [ Seven people die in a murder-suicide in Wilmington, California. ](/news/2009/01/27/seven-people-die-in-a-murder-suicide-in-wilmington-california.md)

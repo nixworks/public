@@ -29,7 +29,7 @@ _Context: Carlo Azeglio Ciampi, George W. Bush, John Howard, Lawrence Gonzi, Pop
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: A group of at least 40 Iraqi insurgents attacks Baghdad's Abu Ghraib prison, using car bombs, grenades, and small arms. At least 20 American soldiers and 12 Iraqi prisoners are injured, but the US Army says it has put down the assault. ](/news/2005/04/3/conflict-in-iraq-a-group-of-at-least-40-iraqi-insurgents-attacks-baghdad-s-abu-ghraib-prison-using-car-bombs-grenades-and-small-arms-a.md)
-_Context: Abu Ghraib, Baghdad, Conflict in Iraq, Iraq, Iraqi insurgency, U.S., US Army_
+_Context: Abu Ghraib, Baghdad, Conflict in Iraq, Iraq, Iraqi insurgency, US Army, United States_
 
 ## [Previous Day...](/news/2005/04/2/index.md)
 

@@ -21,7 +21,7 @@ _Context: Internet_
 
 ##### Somali civil war
 ### [A top level Somali al-Shabab militant with a $3m US bounty, Zakariya Ahmed Ismail Hersi, surrenders to police. ](/news/2014/12/27/a-top-level-somali-al-shabab-militant-with-a-3m-us-bounty-zakariya-ahmed-ismail-hersi-surrenders-to-police.md)
-_Context: $, Al-Shabaab, Somali civil war, Somalia, Zakariya Ahmed Ismail Hersi_
+_Context: Al-Shabaab, Somali civil war, Somalia, US$, Zakariya Ahmed Ismail Hersi_
 
 ## [Previous Day...](/news/2014/12/26/index.md)
 

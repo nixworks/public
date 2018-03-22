@@ -35,7 +35,7 @@ Several helicopters hovered over Rosehill Cemetery on Chicago&apos;s North Side 
 ### [Benjamin Netanyahu says in an interview that he will not destroy any more Israeli settlements during his second term. ](/news/2013/01/18/benjamin-netanyahu-says-in-an-interview-that-he-will-not-destroy-any-more-israeli-settlements-during-his-second-term.md)
 Israel will not dismantle any West Bank settlements during his next term of office, Israeli Prime Minister Benjamin Netanyahu said in interviews published on Friday, four days ahead of elections he is
 
-##### U.S.
+##### United States
 ### [The United States will officially recognize Somalia's new government and officially open diplomatic relations with Somalia for the first time since the Battle of Mogadishu. ](/news/2013/01/18/the-united-states-will-officially-recognize-somalia-s-new-government-and-officially-open-diplomatic-relations-with-somalia-for-the-first-tim.md)
 The United States has officially recognised the government of Somalia for the first time in more than 20 years.
 

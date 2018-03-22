@@ -3,9 +3,9 @@ Formats: [HTML](2009/11/13/index.html)  [JSON](2009/11/13/index.json)  [XML](200
 
 ## [2009-11-13](/news/2009/11/13/index.md)
 
-##### U.S.
+##### United States
 ### [ The United States opens its first marijuana cafe. ](/news/2009/11/13/the-united-states-opens-its-first-marijuana-cafe.md)
-_Context: U.S., marijuana_
+_Context: United States, marijuana_
 
 ##### Buenos Aires
 ### [ A court in Buenos Aires declares Argentinean law restricting marriage to a man and a woman unconstitutional, allowing a same-sex couple to marry; the city government announces it will not appeal. ](/news/2009/11/13/a-court-in-buenos-aires-declares-argentinean-law-restricting-marriage-to-a-man-and-a-woman-unconstitutional-allowing-a-same-sex-couple-to.md)
@@ -71,9 +71,9 @@ _Context: Jacob Zuma, President, South Africa_
 ### [ NASA claims to have discovered water after the LCROSS satellite crashes near the South Pole of the Moon. ](/news/2009/11/13/nasa-claims-to-have-discovered-water-after-the-lcross-satellite-crashes-near-the-south-pole-of-the-moon.md)
 The discovery, which came out of a mission a month ago, confirmed scientists’ suspicions and could help explorers.
 
-##### U.S.
+##### United States
 ### [ American politician William J. Jefferson, former Democratic Party Congressman from the U.S. state of Louisiana, is sentenced to 13 years in prison for corruption. ](/news/2009/11/13/american-politician-william-j-jefferson-former-democratic-party-congressman-from-the-u-s-state-of-louisiana-is-sentenced-to-13-years-in.md)
-_Context: Congress, Democrat, Louisiana, U.S., U.S. state, William J. Jefferson_
+_Context: Congress, Democrat, Louisiana, U.S. state, United States, William J. Jefferson_
 
 ##### Microsoft
 ### [ Microsoft admits that the Windows 7 USB-DVD download tool contains code that is covered by the GNU General Public License and offers to make it available under the terms of that license. ](/news/2009/11/13/microsoft-admits-that-the-windows-7-usb-dvd-download-tool-contains-code-that-is-covered-by-the-gnu-general-public-license-and-offers-to-mak.md)

@@ -41,7 +41,7 @@ _Context: Hurricane Dean, Mexico, oil rig_
 
 ##### Flood
 ### [ Flood warnings are in place in 10 US states from Ohio to Texas with at least 25 people believed to have died in the past week. ](/news/2007/08/24/flood-warnings-are-in-place-in-10-us-states-from-ohio-to-texas-with-at-least-25-people-believed-to-have-died-in-the-past-week.md)
-_Context: Flood, Ohio, Texas, U.S., U.S. state_
+_Context: Flood, Ohio, Texas, U.S. state, United States_
 
 ##### Russia
 ### [ Russia sells Venezuela 98 Ilyushin Il-114 aircraft. ](/news/2007/08/24/russia-sells-venezuela-98-ilyushin-il-114-aircraft.md)
@@ -65,7 +65,7 @@ _Context: Cuba, Fidel Castro, Sweden, University of Miami_
 
 ##### United States District Court
 ### [ United States District Court judge William Hoeveler rules against former Panamanian leader Manuel Noriega returning to Panama after he completes his sentence in a United States prison stating that there was no reason why he shouldn't be extradited to France to face a prison term there. ](/news/2007/08/24/united-states-district-court-judge-william-hoeveler-rules-against-former-panamanian-leader-manuel-noriega-returning-to-panama-after-he-comp.md)
-_Context: France, Manuel Noriega, Panama, U.S., United States District Court, William Hoeveler, judge, prison_
+_Context: France, Manuel Noriega, Panama, United States, United States District Court, William Hoeveler, judge, prison_
 
 #####  Georgian
 ### [ The Georgian government announces that its forces have fired on a Russian aircraft that was claimed to have violated Georgian airspace, possibly shooting it down. ](/news/2007/08/24/the-georgian-government-announces-that-its-forces-have-fired-on-a-russian-aircraft-that-was-claimed-to-have-violated-georgian-airspace-pos.md)

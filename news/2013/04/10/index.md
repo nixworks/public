@@ -13,7 +13,7 @@ The Senate voted 87 to 11 Wednesday to confirm Sally Jewell, chief executive of 
 
 ##### Parliament
 ### [The Parliament of the United Kingdom gather for a special session to debate the legacy of former Prime Minister Margaret Thatcher. ](/news/2013/04/10/the-parliament-of-the-united-kingdom-gather-for-a-special-session-to-debate-the-legacy-of-former-prime-minister-margaret-thatcher.md)
-_Context: Margaret Thatcher, Parliament, Prime Minister, United Kingdom, legacy, special session_
+_Context: Margaret Thatcher, Parliament, Prime Minister, UK, legacy, special session_
 
 ##### May 5
 ### [A May 5 date is set for the 2013 Malaysian general election. ](/news/2013/04/10/a-may-5-date-is-set-for-the-2013-malaysian-general-election.md)
@@ -29,15 +29,15 @@ There was no immediate claim of responsibility for the attack, but the Pakistani
 
 ##### Firefighter
 ### [A man who took four firefighters hostage in Suwanee, Georgia, United States, is killed in a gun battle with police. ](/news/2013/04/10/a-man-who-took-four-firefighters-hostage-in-suwanee-georgia-united-states-is-killed-in-a-gun-battle-with-police.md)
-_Context: Georgia, Police, Suwanee, U.S., firefighter, hostage_
+_Context: Georgia, Police, Suwanee, United States, firefighter, hostage_
 
 ##### Liu Zhijun
 ### [Liu Zhijun, the leader of the construction of the Chinese bullet train system and Minister of Railways, is arrested on corruption charges for allegedly taking bribes and abusing his power as Minister of Railways. ](/news/2013/04/10/liu-zhijun-the-leader-of-the-construction-of-the-chinese-bullet-train-system-and-minister-of-railways-is-arrested-on-corruption-charges-fo.md)
 China charges once-powerful former Railways Minister Liu Zhijun with corruption and abuse of power, state media reports.
 
-##### U.S.
+##### United States
 ### [The United States, Canada, and Jordan boycott a meeting of the UN General Assembly organized by a former Serbian foreign minister, Vuk Jeremic. ](/news/2013/04/10/the-united-states-canada-and-jordan-boycott-a-meeting-of-the-un-general-assembly-organized-by-a-former-serbian-foreign-minister-vuk-jerem.md)
-_Context: Canada, Jordan, Serbia, Serbia's Foreign Minister, U.S., UN General Assembly, Vuk Jeremic, boycott_
+_Context: Canada, Jordan, Serbia, Serbia's Foreign Minister, UN General Assembly, United States, Vuk Jeremic, boycott_
 
 ##### Arabian camel
 ### [An Arabian camel gifted to President of France Francois Hollande for liberating Mali is killed and stewed by a family in Timbuktu, in whose care Hollande had left it. ](/news/2013/04/10/an-arabian-camel-gifted-to-president-of-france-franassois-hollande-for-liberating-mali-is-killed-and-stewed-by-a-family-in-timbuktu-in-whose.md)
@@ -45,7 +45,7 @@ With his pledge to create a morally irreproachable republic in tatters over a mi
 
 ##### Japan
 ### [Japan and Taiwan sign an agreement over fishing rights around the Senkaku Islands. China voices "extreme concerns" over the deal. ](/news/2013/04/10/japan-and-taiwan-sign-an-agreement-over-fishing-rights-around-the-senkaku-islands-china-voices-extreme-concerns-over-the-deal.md)
-_Context: China, Japan, Senkaku Islands, Taiwan, fishing_
+_Context: Chinese, Japan, Senkaku Islands, Taiwan, fishing_
 
 ##### North Korea
 ### [North Korea shuts down tourism from China as nuclear tensions mount, but business travel is allowed to continue. ](/news/2013/04/10/north-korea-shuts-down-tourism-from-china-as-nuclear-tensions-mount-but-business-travel-is-allowed-to-continue.md)

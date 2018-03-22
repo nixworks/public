@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/03/28/norway-and-south-korea-recognize-kosovo-as-an-i
 
 ### [2008-03-28](/news/2008/03/28/index.md)
 
-##### Norway
+##### Norwegian
 #  Norway and South Korea recognize Kosovo as an independent state. 
 
 

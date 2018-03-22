@@ -3,9 +3,9 @@ Formats: [HTML](2006/03/26/index.html)  [JSON](2006/03/26/index.json)  [XML](200
 
 ## [2006-03-26](/news/2006/03/26/index.md)
 
-##### Scotland
+##### Scottish
 ### [ Scotland becomes the first part of the United Kingdom to introduce a full smoking ban in enclosed public places and workplaces. ](/news/2006/03/26/scotland-becomes-the-first-part-of-the-united-kingdom-to-introduce-a-full-smoking-ban-in-enclosed-public-places-and-workplaces.md)
-_Context: Scotland, smoking ban_
+_Context: Scottish, smoking ban_
 
 ##### Ukraine
 ### [ Voters in Ukraine go to the polls to elect a new Verkhovna Rada (parliament). ](/news/2006/03/26/voters-in-ukraine-go-to-the-polls-to-elect-a-new-verkhovna-rada-parliament.md)

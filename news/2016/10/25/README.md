@@ -5,7 +5,7 @@ Formats: [HTML](2016/10/25/index.html)  [JSON](2016/10/25/index.json)  [XML](201
 
 ##### Charles R. Breyer
 ### [U.S. District Judge Charles R. Breyer in San Francisco approves German automaker Volkswagen $14.7 billion settlement with federal and California regulators and the owners of the 475,000 polluting diesel vehicles over diesel emissions cheating scandal. Volkswagen still faces billions of dollars more in fines and litigation. ](/news/2016/10/25/u-s-district-judge-charles-r-breyer-in-san-francisco-approves-german-automaker-volkswagen-14-7-billion-settlement-with-federal-and-califo.md)
-_Context: $, California, Charles R. Breyer, German, San Francisco, Volkswagen_
+_Context: California, Charles R. Breyer, German, San Francisco, US$, Volkswagen_
 
 ##### Ontario Provincial Police
 ### [Ontario Provincial Police charge a former Canadian nurse, Elizabeth Tracy Mae Wettlaufer, in Woodstock, Ontario, with killing eight elderly patients between August 2007 and August 2014 at two Caressant Care Nursing and Retirement Homes facilities. ](/news/2016/10/25/ontario-provincial-police-charge-a-former-canadian-nurse-elizabeth-tracy-mae-wettlaufer-in-woodstock-ontario-with-killing-eight-elderly.md)
@@ -23,7 +23,7 @@ POLICE have confirmed the devastating theme park accident that killed four peopl
 ### [A fire breaks out in the ICU ward and Maternity ward of Hospital Sultanah Aminah, Johor, Malaysia, killing six patients and injured two others. All of the patients killed were dependent on ventilators in the ICU ward. ](/news/2016/10/25/a-fire-breaks-out-in-the-icu-ward-and-maternity-ward-of-hospital-sultanah-aminah-johor-malaysia-killing-six-patients-and-injured-two-othe.md)
 Six patients - four women and two men - were killed in a fire at the Intensive Care Unit (ICU) of the Sultanah Aminah Hospital in Johor Bahru. 
 
-##### China
+##### Chinese
 ### [Illegally stored explosives cause an explosion in a house in northwestern China that kills at least 14 people and injures 147 others in the town of Xinmin in Shaanxi province. ](/news/2016/10/25/illegally-stored-explosives-cause-an-explosion-in-a-house-in-northwestern-china-that-kills-at-least-14-people-and-injures-147-others-in-the.md)
 A powerful blast at a prefabricated house in northwestern China on Monday killed at least 14 people and injured 147, state news agency Xinhua said.
 

@@ -81,11 +81,11 @@ _Context: Brazil, Iran, Sakineh Mohammadi Ashtiani, asylum_
 
 ##### Zimbabwe
 ### [Zimbabwe requests apologies from American, German and European Union envoys who walked out of the burial ceremony for President Robert Mugabe's sister; they refuse to apologise. ](/news/2010/08/3/zimbabwe-requests-apologies-from-american-german-and-european-union-envoys-who-walked-out-of-the-burial-ceremony-for-president-robert-mugab.md)
-_Context: European Union, German, President of Zimbabwe, Robert Mugabe, U.S., Zimbabwe, burial ceremony_
+_Context: European Union, German, President of Zimbabwe, Robert Mugabe, United States, Zimbabwe, burial ceremony_
 
 ##### President
 ### [President of Pakistan Asif Ali Zardari arrives in the United Kingdom upon a five-day visit as the two countries disagree over David Cameron's remarks on "the export of terror". ](/news/2010/08/3/president-of-pakistan-asif-ali-zardari-arrives-in-the-united-kingdom-upon-a-five-day-visit-as-the-two-countries-disagree-over-david-cameron.md)
-_Context: Asif Ali Zardari, David Cameron, United Kingdom, president_
+_Context: Asif Ali Zardari, David Cameron, UK, president_
 
 ##### Pacific Islands Forum Leaders Summit
 ### [The 41st annual Pacific Islands Forum Leaders Summit opens in Port Vila, Vanuatu. ](/news/2010/08/3/the-41st-annual-pacific-islands-forum-leaders-summit-opens-in-port-vila-vanuatu.md)

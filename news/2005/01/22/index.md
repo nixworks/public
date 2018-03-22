@@ -13,7 +13,7 @@ _Context: Abu Ghraib prison, Center for Constitutional Rights, Donald Rumsfeld, 
 
 ##### Tsunami relief concert
 ### [ The Tsunami relief concert is held at the Millennium Stadium, Cardiff, in aid of the victims of the 2004 Indian Ocean earthquake, raising over GBP1.25 million (EUR1.8 million or $2.4 million), making it the biggest charity concert in the United Kingdom since Live Aid in 1985. ](/news/2005/01/22/the-tsunami-relief-concert-is-held-at-the-millennium-stadium-cardiff-in-aid-of-the-victims-of-the-2004-indian-ocean-earthquake-raising-o.md)
-_Context: 2004 Indian Ocean earthquake, Cardiff, Live Aid, Millennium Stadium, Tsunami relief concert, United Kingdom_
+_Context: 2004 Indian Ocean earthquake, Cardiff, Live Aid, Millennium Stadium, Tsunami relief concert, UK_
 
 ## [Previous Day...](/news/2005/01/21/index.md)
 

@@ -9,7 +9,7 @@ _Context: Iran, Sattar Beheshti_
 
 ##### Tibet
 ### [A Tibetan teenager dies after self-immolating in Gansu, China, in the seventh such incident this week and 70th since 2009. ](/news/2012/11/11/a-tibetan-teenager-dies-after-self-immolating-in-gansu-china-in-the-seventh-such-incident-this-week-and-70th-since-2009.md)
-_Context: China, Gansu, Tibet, self-immolation, sets himself_
+_Context: Chinese, Gansu, Tibet, self-immolation, sets himself_
 
 ##### Paraguay
 ### [Authorities in Paraguay arrest a Bolivian drug lord and seize nearly 1700kg of cocaine near the border with Brazil. ](/news/2012/11/11/authorities-in-paraguay-arrest-a-bolivian-drug-lord-and-seize-nearly-1700kg-of-cocaine-near-the-border-with-brazil.md)

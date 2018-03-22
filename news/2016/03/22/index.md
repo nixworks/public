@@ -47,7 +47,7 @@ _Context: 2016 Brussels bombings, Batman v Superman: Dawn of Justice, Belgium, L
 ### [German tax authorities are investigating Citigroup over its use of a "dividend stripping" strategy, which allowed both the buyer and seller of a stock to claim the tax credits. ](/news/2016/03/22/german-tax-authorities-are-investigating-citigroup-over-its-use-of-a-dividend-stripping-strategy-which-allowed-both-the-buyer-and-seller.md)
 (The story was refiled to correct this March 22, 2016 story to read audited, not investigated, in the headline and paragraph 1)
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [Airstrikes near the Yemeni port city of Al Mukalla, Hadhramaut Governorate, reportedly kill at least 30 Al-Qaeda militants. ](/news/2016/03/22/airstrikes-near-the-yemeni-port-city-of-al-mukalla-hadhramaut-governorate-reportedly-kill-at-least-30-al-qaeda-militants.md)
 Saudi-led airstrikes targeting al Qaeda in eastern Yemen killed and wounded dozens on Tuesday, a provincial governor and medics said.
 

@@ -33,7 +33,7 @@ _Context: Iran, United Nations, atomic weapon_
 
 ##### Iran
 ### [Iranian officials say that two Iranian Navy warships will be travelling very close to the United States' maritime border in the Atlantic Ocean. ](/news/2014/02/9/iranian-officials-say-that-two-iranian-navy-warships-will-be-travelling-very-close-to-the-united-states-maritime-border-in-the-atlantic-oce.md)
-_Context: Atlantic Ocean, Iran, Iranian Naval, U.S._
+_Context: Atlantic Ocean, Iran, Iranian Naval, United States_
 
 ##### I-275
 ### [A car crash on I-275 in the Tampa Bay Area of Florida kills 5 people. ](/news/2014/02/9/a-car-crash-on-i-275-in-the-tampa-bay-area-of-florida-kills-5-people.md)

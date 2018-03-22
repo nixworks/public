@@ -19,7 +19,7 @@ _Context: Filippa Reinfeldt, Fredrik Reinfeldt, Stockholm county council, Sweden
 ### [Libyan leader Mustafa Abdul Jalil says he will "defend national unity" after Cyrenaica, the eastern region of the country, declared it would become semi-autonomous. ](/news/2012/03/7/libyan-leader-mustafa-abdul-jalil-says-he-will-defend-national-unity-after-cyrenaica-the-eastern-region-of-the-country-declared-it-would.md)
 Mustafa Abdel Jalil accuses Arab countries of funding effort to carve out eastern state and threatens force against it.
 
-##### China
+##### Chinese
 ### [China describes Tibetan monks that have self-immolated as "criminals" and accuses the Dalai Lama of supporting the acts. ](/news/2012/03/7/china-describes-tibetan-monks-that-have-self-immolated-as-criminals-and-accuses-the-dalai-lama-of-supporting-the-acts.md)
 : Chinese officials on Wednesday blamed the exiled religious leader the Dalai Lama for orchestrating the more than 25 self-immolations by Tibetans in recent months, and hit out at the monks and nuns i
 

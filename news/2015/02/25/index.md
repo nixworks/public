@@ -11,9 +11,9 @@ Kara (Togo) (AFP) - Togo&#x27;s ruling party on Wednesday announced that Preside
 ### [The Argentine National Congress approves installation of a Chinese satellite tracking station in Patagonia. ](/news/2015/02/25/the-argentine-national-congress-approves-installation-of-a-chinese-satellite-tracking-station-in-patagonia.md)
 _Context: National Congress, Patagonia_
 
-##### U.S.
+##### United States
 ### [A United States district court judge orders documents turned over to hedge fund NML Capital with regard to the flow of funds in a February 9 issuance of Argentina dollar denominated sovereign bonds. ](/news/2015/02/25/a-united-states-district-court-judge-orders-documents-turned-over-to-hedge-fund-nml-capital-with-regard-to-the-flow-of-funds-in-a-february-9.md)
-_Context: Argentina, NML Capital, U.S., U.S. District Judge, hedge fund, judge, sovereign bonds_
+_Context: Argentina, NML Capital, U.S. District Judge, United States, hedge fund, judge, sovereign bonds_
 
 ##### Austrian Parliament
 ### [The Austrian Parliament passes a bill, partly aimed at tackling Islamist radicalism, that gives Muslims more legal security but bans foreign funding for mosques and imams. ](/news/2015/02/25/the-austrian-parliament-passes-a-bill-partly-aimed-at-tackling-islamist-radicalism-that-gives-muslims-more-legal-security-but-bans-foreign.md)

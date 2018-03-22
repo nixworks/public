@@ -103,9 +103,9 @@ _Context: Afghanistan, Baghlan province, Taliban_
 ### [At least three people are killed in an explosion in Baghdad, Iraq. ](/news/2010/10/27/at-least-three-people-are-killed-in-an-explosion-in-baghdad-iraq.md)
 _Context: Baghdad, Iraq_
 
-##### U.S.
+##### United States
 ### [A United States drone attack kills three in Pakistan. ](/news/2010/10/27/a-united-states-drone-attack-kills-three-in-pakistan.md)
-_Context: Pakistan, U.S._
+_Context: Pakistan, United States_
 
 ##### Al-Shabaab
 ### [Clashes between pro-government forces and al-Shabaab militants in southern Somalia kill 17 people. ](/news/2010/10/27/clashes-between-pro-government-forces-and-al-shabaab-militants-in-southern-somalia-kill-17-people.md)

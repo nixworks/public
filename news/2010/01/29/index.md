@@ -13,7 +13,7 @@ _Context: Communist Party, Pham Thanh Nghien, Vietnam, propaganda_
 
 ##### Tony Blair
 ### [Tony Blair appears at the Iraq Inquiry and is questioned in public for the first time about his decision to take the United Kingdom to war against Iraq. ](/news/2010/01/29/tony-blair-appears-at-the-iraq-inquiry-and-is-questioned-in-public-for-the-first-time-about-his-decision-to-take-the-united-kingdom-to-war-a.md)
-_Context: Iraq, Iraq Inquiry, Iraq War, Tony Blair, United Kingdom_
+_Context: Iraq, Iraq Inquiry, Iraq War, Tony Blair, UK_
 
 ##### Somalia
 ### [Several people are killed in heavy fighting in the Somalian capital Mogadishu. ](/news/2010/01/29/several-people-are-killed-in-heavy-fighting-in-the-somalian-capital-mogadishu.md)
@@ -47,7 +47,7 @@ _Context: Bolivia, Peru, states of emergency_
 ### [Haiti acknowledges the immediate international assistance it received from Cuba, the Dominican Republic and Venezuela following the recent earthquake and confirms the death toll has reached 150,000. ](/news/2010/01/29/haiti-acknowledges-the-immediate-international-assistance-it-received-from-cuba-the-dominican-republic-and-venezuela-following-the-recent-e.md)
 _Context: 2010 Haiti earthquake, Cuba, Dominican Republic, Haiti, Venezuela_
 
-##### U.S.
+##### United States
 ### [The United States approves a US$6 billion arms sales package to Taiwan. ](/news/2010/01/29/the-united-states-approves-a-us-6-billion-arms-sales-package-to-taiwan.md)
 That move has enraged China and may complicate President Obama’s effort to enlist that country’s cooperation in curbing Iran’s nuclear aspirations.
 

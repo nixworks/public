@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/1/a-united-states-drone-attack-kills-six-people-in
 
 ### [2010-11-1](/news/2010/11/1/index.md)
 
-##### U.S.
+##### United States
 # A United States drone attack kills six people in northwest Pakistan. 
 
 
@@ -16,8 +16,8 @@ Formats: [HTML](/news/2010/11/1/a-united-states-drone-attack-kills-six-people-in
 
 ### Related:
 
-1. [Fourteen people are killed in United States drone attacks in North Waziristan, Pakistan. ](/news/2010/11/7/fourteen-people-are-killed-in-united-states-drone-attacks-in-north-waziristan-pakistan.md) _Context: Pakistan, U.S., drone aircraft, drone attack_
-2. [A United States drone attack kills ten people in the North Waziristan region of Pakistan. ](/news/2012/05/24/a-united-states-drone-attack-kills-ten-people-in-the-north-waziristan-region-of-pakistan.md) _Context: Pakistan, U.S., drone attack_
-3. [A United States drone attack kills five militants in the Pakistani town of Spalga in north Waziristan. ](/news/2012/02/16/a-united-states-drone-attack-kills-five-militants-in-the-pakistani-town-of-spalga-in-north-waziristan.md) _Context: Pakistan, U.S., drone attack_
+1. [Fourteen people are killed in United States drone attacks in North Waziristan, Pakistan. ](/news/2010/11/7/fourteen-people-are-killed-in-united-states-drone-attacks-in-north-waziristan-pakistan.md) _Context: Pakistan, United States, drone aircraft, drone attack_
+2. [A United States drone attack kills ten people in the North Waziristan region of Pakistan. ](/news/2012/05/24/a-united-states-drone-attack-kills-ten-people-in-the-north-waziristan-region-of-pakistan.md) _Context: Pakistan, United States, drone attack_
+3. [A United States drone attack kills five militants in the Pakistani town of Spalga in north Waziristan. ](/news/2012/02/16/a-united-states-drone-attack-kills-five-militants-in-the-pakistani-town-of-spalga-in-north-waziristan.md) _Context: Pakistan, United States, drone attack_
 4. [Thirteen militants are killed in a drone attack in North Waziristan, Pakistan. ](/news/2010/11/4/thirteen-militants-are-killed-in-a-drone-attack-in-north-waziristan-pakistan.md) _Context: Pakistan, drone aircraft, drone attack_
-5. [At least 12 people die in Pakistan's North Waziristan province as United States drone attacks continue for a second day. ](/news/2010/09/15/at-least-12-people-die-in-pakistan-s-north-waziristan-province-as-united-states-drone-attacks-continue-for-a-second-day.md) _Context: Pakistan, U.S., drone attack_
+5. [At least 12 people die in Pakistan's North Waziristan province as United States drone attacks continue for a second day. ](/news/2010/09/15/at-least-12-people-die-in-pakistan-s-north-waziristan-province-as-united-states-drone-attacks-continue-for-a-second-day.md) _Context: Pakistan, United States, drone attack_

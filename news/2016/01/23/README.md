@@ -29,7 +29,7 @@ Jordanian troops on Saturday killed 12 infiltrators in a foiled attempt to cross
 
 ##### Syrian Civil War
 ### [Airstrikes on Islamic State of Iraq and the Levant-controlled areas in Syria's eastern Deir ez-Zor Governorate, leaves at least 47 civilians dead, according to the Syrian Observatory for Human Rights. ](/news/2016/01/23/airstrikes-on-islamic-state-of-iraq-and-the-levant-controlled-areas-in-syria-s-eastern-deir-ez-zor-governorate-leaves-at-least-47-civilians.md)
-_Context: Deir ez-Zor, Deir ez-Zor offensive (January 2016), ISIL, Syria, Syrian Civil War, Syrian Observatory for Human Rights_
+_Context: Deir ez-Zor Governorate, Deir ez-Zor offensive (January 2016), ISIL, Syria, Syrian Civil War, Syrian Observatory for Human Rights_
 
 ## [Previous Day...](/news/2016/01/22/index.md)
 

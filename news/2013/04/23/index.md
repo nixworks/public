@@ -15,15 +15,15 @@ The AFP says the self-proclaimed leader of international hacking group LulzSec h
 ### [2013 ricin letters: All charges against a suspect of sending letters containing ricin to US President Barack Obama are dropped due to lack of evidence. ](/news/2013/04/23/2013-ricin-letters-all-charges-against-a-suspect-of-sending-letters-containing-ricin-to-us-president-barack-obama-are-dropped-due-to-lack-o.md)
 _Context: 2013 ricin letters, Barack Obama, US President, ricin_
 
-##### Myanmar's president's office
+##### Myanmar President
 ### [President of Myanmar Thein Sein grants amnesty to 93 prisoners. Some prisoners are reported as prisoners of conscience and political prisoners. ](/news/2013/04/23/president-of-myanmar-thein-sein-grants-amnesty-to-93-prisoners-some-prisoners-are-reported-as-prisoners-of-conscience-and-political-prisone.md)
-_Context: Myanmar, Myanmar's president's office, Thein Sein, political prisoners, prisoner of conscience_
+_Context: Myanmar, Myanmar President, Thein Sein, political prisoners, prisoner of conscience_
 
-##### United Kingdom
+##### UK
 ### [British businessman James McCormick is convicted at the Old Bailey on three counts of fraud after selling fake bomb detectors based on a device for finding golf balls to countries including Iraq and Georgia. ](/news/2013/04/23/british-businessman-james-mccormick-is-convicted-at-the-old-bailey-on-three-counts-of-fraud-after-selling-fake-bomb-detectors-based-on-a-dev.md)
 A millionaire businessman who sold fake bomb detectors to countries including Iraq and Georgia, knowing they did not work, is convicted of fraud.
 
-##### U.S.
+##### United States
 ### [The United States stock market undergoes a flash crash (similar to 2010) of 1 percent when the Twitter feed from the Associated Press news agency is hacked and erroneously states that several explosions have injured President Barack Obama. ](/news/2013/04/23/the-united-states-stock-market-undergoes-a-flash-crash-similar-to-2010-of-1-percent-when-the-twitter-feed-from-the-associated-press-news-a.md)
 A news agency tweet, that turned out to be fake about explosions at the White House injuring President Obama, sent markets on a round trip roller coaster ride.
 

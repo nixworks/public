@@ -45,11 +45,11 @@ Dublin-based drugmaker Mallinckrodt Plc strengthened its presence in U.S. hospit
 
 ##### New York
 ### [A New York state appellate court in Manhattan rules to approve in its entirety the 2011 settlement by Bank of America with 22 institutional investors including BlackRock Inc, MetLife Inc, and Allianz SE's Pacific Investment Management Co to resolve claims over $174 billion of mortgage securities issued by the former Countrywide Financial Corp. in a $8.5 billion settlement. ](/news/2015/03/5/a-new-york-state-appellate-court-in-manhattan-rules-to-approve-in-its-entirety-the-2011-settlement-by-bank-of-america-with-22-institutional.md)
-_Context: $, Allianz, Bank of America, BlackRock, Countrywide Financial Corp., Manhattan, MetLife, New York, state appellate court_
+_Context: Allianz, Bank of America, BlackRock, Countrywide Financial Corp., Manhattan, MetLife, New York, US$, state appellate court_
 
 ##### AbbVie
 ### [American pharmaceutical company AbbVie Inc buys leukemia drugmaker Pharmacyclics Inc for $21 billion. ](/news/2015/03/5/american-pharmaceutical-company-abbvie-inc-buys-leukemia-drugmaker-pharmacyclics-inc-for-21-billion.md)
-_Context: $, AbbVie, leukemia_
+_Context: AbbVie, US$, leukemia_
 
 ##### Edward Cardinal Egan
 ### [His Eminence, Edward Cardinal Egan, the immediate past Archbishop-Emeritus of New York, dies in New York City at the age of 82. ](/news/2015/03/5/his-eminence-edward-cardinal-egan-the-immediate-past-archbishop-emeritus-of-new-york-dies-in-new-york-city-at-the-age-of-82.md)

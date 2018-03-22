@@ -51,9 +51,9 @@ Libyan militia leader and alleged human smuggler reportedly killed by Italian sp
 ### [At least four Armenian soldiers are killed following an Azeri attack near the disputed Nagorno-Karabakh region. Yesterday, Azerbaijan shelled several ethnic Armenian villages, leaving three civilians dead. ](/news/2015/09/26/at-least-four-armenian-soldiers-are-killed-following-an-azeri-attack-near-the-disputed-nagorno-karabakh-region-yesterday-azerbaijan-shelle.md)
 _Context: Armenia, Azerbaijan, Nagorno-Karabakh conflict, Nagorno-Karabakh region_
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [Two Saudi border guards, including a district commander, are killed following clashes with Yemeni forces near the border with Yemen. ](/news/2015/09/26/two-saudi-border-guards-including-a-district-commander-are-killed-following-clashes-with-yemeni-forces-near-the-border-with-yemen.md)
-_Context: Saudi Arabia, Saudi-led intervention in Yemen, Yemen, border guards_
+_Context: Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen, border guards_
 
 ## [Previous Day...](/news/2015/09/25/index.md)
 

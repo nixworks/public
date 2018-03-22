@@ -7,7 +7,7 @@ Formats: [HTML](2015/10/26/index.html)  [JSON](2015/10/26/index.json)  [XML](201
 ### [A new study by scientists finds that areas around the Persian Gulf could become uninhabitable to humans in less than 100 years due to rising temperatures. ](/news/2015/10/26/a-new-study-by-scientists-finds-that-areas-around-the-persian-gulf-could-become-uninhabitable-to-humans-in-less-than-100-years-due-to-rising.md)
 Global warming could make areas of the Persian Gulf uninhabitable to humans in less than 10 years, a study has claimed
 
-##### United Kingdom
+##### UK
 ### [In the United Kingdom, the unelected House of Lords, Parliament's upper house, delays by three years reductions in tax credits paid to working people that would have cost affected families an average of GBP1,300 ($2,000) a year. This is the first major setback for George Osborne, Chancellor of the Exchequer, since the general election. Osborne said the government will "lessen" the impact of tax credit cuts for those affected, while vowing to press on with changes designed to save billions from welfare. ](/news/2015/10/26/in-the-united-kingdom-the-unelected-house-of-lords-parliamentas-upper-house-delays-by-three-years-reductions-in-tax-credits-paid-to-wor.md)
 U.K. Chancellor of the Exchequer George Osborne suffered his first major setback since the general election after the unelected House of Lords voted to block his cuts to payments for low-wage families, provoking a constitutional dispute and forcing him to suggest he may soften the measures next mont...
 
@@ -35,7 +35,7 @@ Police in Indonesia say they have arrested an alleged Indian underworld don who 
 ### [The U.S. Navy plans to send guided missile destroyer USS Lassen within 12 nautical miles of artificial islands built by China in the South China Sea. This first freedom of navigation challenge to China's territorial claims in one of the world's busiest sea lanes may occur as soon as tomorrow, according to a U.S. defense official. ](/news/2015/10/26/the-u-s-navy-plans-to-send-guided-missile-destroyer-uss-lassen-within-12-nautical-miles-of-artificial-islands-built-by-china-in-the-south-c.md)
 The United States on Monday sent a guided-missile destroyer to challenge 12-nautical-mile territorial limits that China claims around artificial islands it built in the South China Sea.
 
-##### U.S.
+##### United States
 ### [The United States is reportedly blocking a $400 million plan by South Korea to sell KAI T-50 Golden Eagle trainer jets, co-developed in 2006 with Lockheed Martin, to Uzbekistan, according to "The Korea Times". The aircraft uses Lockheed Martin technologies -- including avionics -- and as such requires permission under the U.S. Arms Export Control Act for its sale to other countries. ](/news/2015/10/26/the-united-states-is-reportedly-blocking-a-400-million-plan-by-south-korea-to-sell-kai-t-50-golden-eagle-trainer-jets-co-developed-in-2006.md)
 U.S. says no to sale of U.S.-South Korean developed trainer jet to Uzbekistan.
 

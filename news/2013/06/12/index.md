@@ -71,7 +71,7 @@ Japan&#039;s Jiroemon Kimura, recognised by Guinness World Records as the oldest
 ### [The government of Greece shuts down the public radio and television broadcaster ERT, calling it a "haven of waste". ](/news/2013/06/12/the-government-of-greece-shuts-down-the-public-radio-and-television-broadcaster-ert-calling-it-a-haven-of-waste.md)
 _Context: ERT, Greece_
 
-##### Scotland
+##### Scottish
 ### [Gunmen kidnap a Scottish man working for a British energy company in the Indonesian province of Aceh. ](/news/2013/06/12/gunmen-kidnap-a-scottish-man-working-for-a-british-energy-company-in-the-indonesian-province-of-aceh.md)
 Gunmen have kidnapped a British man working for an energy company in the restive Indonesian province of Aceh, officials said today.
 

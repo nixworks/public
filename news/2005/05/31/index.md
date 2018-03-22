@@ -31,9 +31,9 @@ _Context: China, Ching Cheong, Singapore_
 ### [ In France, the Prime Minister Jean-Pierre Raffarin resigns following the country's rejection of the Treaty establishing a Constitution for Europe. In an expected move, President Jacques Chirac appoints Interior Minister Dominique de Villepin to succeed him. ](/news/2005/05/31/in-france-the-prime-minister-jean-pierre-raffarin-resigns-following-the-country-s-rejection-of-the-treaty-establishing-a-constitution-for.md)
 _Context: Dominique de Villepin, European constitution, France, French President, Jacques Chirac, Jean-Pierre Raffarin, Prime Minister, minister of the interior_
 
-##### China
+##### Chinese
 ### [ China and Japan have opened two days of closed-door negotiations in Beijing aimed at resolving a long-running dispute over natural gas drilling rights in a disputed area of the East China Sea ](/news/2005/05/31/china-and-japan-have-opened-two-days-of-closed-door-negotiations-in-beijing-aimed-at-resolving-a-long-running-dispute-over-natural-gas-dril.md)
-_Context: Beijing, China, East China Sea, Japan_
+_Context: Beijing, Chinese, East China Sea, Japan_
 
 ##### Police
 ### [ Police in Israel say they have uncovered an Industrial espionage plot involving 15 Israeli firms. Trojan horse computer viruses are believed to have been used to hack into rivals' systems and 20 people have so far been arrested. ](/news/2005/05/31/police-in-israel-say-they-have-uncovered-an-industrial-espionage-plot-involving-15-israeli-firms-trojan-horse-computer-viruses-are-believe.md)

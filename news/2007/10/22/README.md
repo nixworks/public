@@ -15,9 +15,9 @@ _Context: Anuradhapura, Sri Lanka, Tamil Tiger, air force_
 ### [ The 2007 Kyrgyzstani constitutional referendum is approved by about 75% of voters. President of Kyrgyzstan Kurmanbek Bakiyev dissolves the parliament and announces a snap legislative election will take place in December 2007, which he will contest with his newly founded party Ak Zhol. ](/news/2007/10/22/the-2007-kyrgyzstani-constitutional-referendum-is-approved-by-about-75-of-voters-president-of-kyrgyzstan-kurmanbek-bakiyev-dissolves-the.md)
 _Context: Ak Zhol, December 2007, Kurmanbek Bakiyev, Kyrgyzstan, constitutional changes in a referendum, parliament, president, snap legislative election_
 
-##### $
+##### US$
 ### [ The United States dollar reaches a new record low against the euro, which is traded at $1.4348. ](/news/2007/10/22/the-united-states-dollar-reaches-a-new-record-low-against-the-euro-which-is-traded-at-1-4348.md)
-_Context: $, euro_
+_Context: US$, euro_
 
 ##### Fakaofo
 ### [ Voters in Fakaofo go to the polls for the Tokelauan self-determination referendum. ](/news/2007/10/22/voters-in-fakaofo-go-to-the-polls-for-the-tokelauan-self-determination-referendum.md)
@@ -45,7 +45,7 @@ _Context: Al-Jazeera, Al-Qaeda in Iraq, Osama bin Laden, Sunni, audiotape_
 
 ##### U.S. President
 ### [ The President of the United States George W. Bush asks the United States Congress for $189.3 billion to fund the wars in Iraq and Afghanistan. ](/news/2007/10/22/the-president-of-the-united-states-george-w-bush-asks-the-united-states-congress-for-189-3-billion-to-fund-the-wars-in-iraq-and-afghanist.md)
-_Context: $, Afghanistan, Congress, George W. Bush, Iraq, U.S. President_
+_Context: Afghanistan, Congress, George W. Bush, Iraq, U.S. President, US$_
 
 ##### Kurdistan Workers Party
 ### [ The Kurdistan Workers Party declares a unilateral ceasefire following an attack on Turkish forces. ](/news/2007/10/22/the-kurdistan-workers-party-declares-a-unilateral-ceasefire-following-an-attack-on-turkish-forces.md)

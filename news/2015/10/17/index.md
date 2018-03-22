@@ -39,9 +39,9 @@ _Context: 2015 Pacific typhoon season, Luzon, Philippines_
 ### [US Airways final flight, Flight 1939 - named for the airline's founding year, landed at Philadelphia International Airport at 5:54 a.m. Saturday. Future flights will fly under the American Airlines banner, completing the merger announced in 2013. ](/news/2015/10/17/us-airways-final-flight-flight-1939-a-named-for-the-airline-s-founding-year-landed-at-philadelphia-international-airport-at-5-54-a-m-sa.md)
 The final US Airways flight is heading from San Francisco to Philadelphia, making the last leg of its roundtrip journey.
 
-##### U.S.
+##### United States
 ### [The United States cancels two potential Arctic lease sales off Alaska's northern coast, and announces Shell and Statoil current leases will not be extended because of "current market conditions and low industry interest." ](/news/2015/10/17/the-united-states-cancels-two-potential-arctic-lease-sales-off-alaska-s-northern-coast-and-announces-shell-and-statoil-current-leases-will.md)
-_Context: Alaska, Arctic, Royal Dutch Shell, Statoil, U.S._
+_Context: Alaska, Arctic, Royal Dutch Shell, Statoil, United States_
 
 ##### Nayantara Sahgal
 ### [Nayantara Sahgal, is one of the latest authors in India who will return that nation's highest award from the National Academy of Letters in protest against what Salman Rushdie has characterized as "thuggish violence" creeping into Indian life under the Hindu nationalist government of Prime Minister Narendra Modi. ](/news/2015/10/17/nayantara-sahgal-is-one-of-the-latest-authors-in-india-who-will-return-that-nationas-highest-award-from-the-national-academy-of-letters-i.md)
@@ -59,7 +59,7 @@ Four Palestinians were killed by Israelis, and one critically wounded, after att
 ### [Fugitive drug kingpin Joaquin "El Chapo" Guzman suffered injuries to his leg and face as he escaped Mexican authorities who were closing in on him in the mountains in Sinaloa in northwestern Mexico. ](/news/2015/10/17/fugitive-drug-kingpin-joaquan-el-chapo-guzma-n-suffered-injuries-to-his-leg-and-face-as-he-escaped-mexican-authorities-who-were-closing-i.md)
 According to NBC News, fugitive drug lord Joaquin &#8220;El Chapo&#8221; Guzman is now suffering from injuries to his leg and face as he continues to elude Mexican authorities. The Mexican governme…
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [A Saudi-led coalition airstrike targeting Houthis in the southern Taiz Governorate mistakenly hits a Hadi-loyalist position, killing at least 20 fighters. ](/news/2015/10/17/a-saudi-led-coalition-airstrike-targeting-houthis-in-the-southern-taiz-governorate-mistakenly-hits-a-hadi-loyalist-position-killing-at-leas.md)
 The Saudi-led air coalition targeting Shia Houthi rebels in Yemen mistakenly hits a pro-government position, killing at least 20 troops, reports say.
 

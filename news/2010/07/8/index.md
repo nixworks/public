@@ -23,7 +23,7 @@ One of the largest ever finds of Roman coins in Britain has been made by a man u
 ### [Scientists discover antibodies that may eventually lead to the development of a vaccine against AIDS. ](/news/2010/07/8/scientists-discover-antibodies-that-may-eventually-lead-to-the-development-of-a-vaccine-against-aids.md)
 Researchers have discovered antibodies that can protect against a wide range of AIDS viruses and said they may be able to use them to design a vaccine against the fatal and incurable virus.
 
-##### United Kingdom
+##### UK
 ### [British researchers publish the results of an 11-year study, challenging the traditional notion that childhood obesity is a result of inadequate exercise, arguing instead that obesity leads to inadequate exercise. ](/news/2010/07/8/british-researchers-publish-the-results-of-an-11-year-study-challenging-the-traditional-notion-that-childhood-obesity-is-a-result-of-inadeq.md)
 The idea lack of exercise makes children put on weight is challenged by research which says it is the other way round.
 
@@ -75,9 +75,9 @@ _Context: Brazil, Bruno Fernandes de Souza, association football_
 ### [US federal judge Joseph Louis Tauro, in two separate cases, rules that a federal ban against gay marriage is unconstitutional, as it interferes with a state's right to define marriage. ](/news/2010/07/8/us-federal-judge-joseph-louis-tauro-in-two-separate-cases-rules-that-a-federal-ban-against-gay-marriage-is-unconstitutional-as-it-interfe.md)
 A U.S. judge in Boston has ruled that a federal gay marriage ban is unconstitutional because it interferes with the right of a state to define marriage.
 
-##### U.S.
+##### United States
 ### [United States Republican Party Chairman Michael Steele again resist calls for him to step down after he asserted that the War in Afghanistan was a "war of Obama's choosing". ](/news/2010/07/8/united-states-republican-party-chairman-michael-steele-again-resist-calls-for-him-to-step-down-after-he-asserted-that-the-war-in-afghanistan.md)
-_Context: Michael Steele, Republican, U.S., War in Afghanistan (2001-present)_
+_Context: Michael Steele, Republican, United States, War in Afghanistan (2001-present)_
 
 ##### David Lloyd Johnston
 ### [David Lloyd Johnston, president of the University of Waterloo, is announced as Canada's next Governor General. He will succeed Michaelle Jean in September. ](/news/2010/07/8/david-lloyd-johnston-president-of-the-university-of-waterloo-is-announced-as-canada-s-next-governor-general-he-will-succeed-michaa-lle-je.md)

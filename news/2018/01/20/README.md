@@ -5,7 +5,7 @@ Formats: [HTML](2018/01/20/index.html)  [JSON](2018/01/20/index.json)  [XML](201
 
 ##### Odebrecht case in Guatemala
 ### [Former presidential candidate Manuel Baldizon is captured in the United States accused of receiving bribes from Odebrecht. ](/news/2018/01/20/former-presidential-candidate-manuel-baldiza3n-is-captured-in-the-united-states-accused-of-receiving-bribes-from-odebrecht.md)
-_Context: Manuel Baldizon, Odebrecht case in Guatemala, U.S._
+_Context: Manuel Baldizon, Odebrecht case in Guatemala, United States_
 
 ##### 2018 Women's March
 ### [Hundreds of thousands protest in D.C., with thousands of protesters turning out in Los Angeles, Chicago, Philadelphia, and other cities throughout the United States and the world in cities such as Rome, Italy internationally, in support of women's rights. ](/news/2018/01/20/hundreds-of-thousands-protest-in-d-c-with-thousands-of-protesters-turning-out-in-los-angeles-chicago-philadelphia-and-other-cities-thro.md)
@@ -15,7 +15,7 @@ Thousands of protesters gathered at rallies on Saturday across the country and a
 ### [ Tens of thousands of demonstrators protest in Bucharest and major cities against perceived corruption and changes to the judiciary. Romanians in diaspora stage protests in dozens of cities worldwide in solidarity with the anti-corruption movement in the country. ](/news/2018/01/20/tens-of-thousands-of-demonstrators-protest-in-bucharest-and-major-cities-against-perceived-corruption-and-changes-to-the-judiciary-romania.md)
  BUCHAREST, Romania (AP) — Tens of thousands of Romanians on Saturday protested against legislation passed by Parliament which critics say will make it harder to prosecute crime an
 
-##### China
+##### Chinese
 ### [China claims its sovereignty was violated when a United States Navy ship sailed close to the Scarborough Shoal near the Philippines. ](/news/2018/01/20/china-claims-its-sovereignty-was-violated-when-a-united-states-navy-ship-sailed-close-to-the-scarborough-shoal-near-the-philippines.md)
 China has accused the United States of sending a warship without permission into what it said was its territorial waters in the disputed South China Sea, a
 

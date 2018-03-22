@@ -61,7 +61,7 @@ General Electric Co made a big push in solar power, saying it will invest $600 m
 
 ##### A$
 ### [The Australian dollar reaches a 28-year high against the United States dollar due to strong employment figures for March. ](/news/2011/04/7/the-australian-dollar-reaches-a-28-year-high-against-the-united-states-dollar-due-to-strong-employment-figures-for-march.md)
-_Context: $, A$_
+_Context: A$, US$_
 
 ##### Eurozone
 ### [Eurozone interest rates are raised to 1.25 per cent from the record low of 1 per cent by the European Central Bank (ECB) amid concerns this could cause problems for countries such as Portugal and the Republic of Ireland. ](/news/2011/04/7/eurozone-interest-rates-are-raised-to-1-25-per-cent-from-the-record-low-of-1-per-cent-by-the-european-central-bank-ecb-amid-concerns-this.md)

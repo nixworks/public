@@ -15,9 +15,9 @@ _Context: Montara oil spill, Timor Sea_
 ### [ Fiji expels envoys from Australia and New Zealand over alleged interference in the country's judiciary. ](/news/2009/11/3/fiji-expels-envoys-from-australia-and-new-zealand-over-alleged-interference-in-the-country-s-judiciary.md)
 _Context: Australia, Fiji, New Zealand, country's judiciary_
 
-##### U.S.
+##### United States
 ### [ Two senior United States officials arrive in Burma for talks with the military junta and National League for Democracy leader Aung San Suu Kyi. ](/news/2009/11/3/two-senior-united-states-officials-arrive-in-burma-for-talks-with-the-military-junta-and-national-league-for-democracy-leader-aung-san-suu.md)
-_Context: Aung San Suu Kyi, Burma, National League for Democracy, State Peace and Development Council, U.S._
+_Context: Aung San Suu Kyi, Burma, National League for Democracy, State Peace and Development Council, United States_
 
 ##### Dubai
 ### [ Dubai announces it is to appoint female muftis for the first time in 2010. ](/news/2009/11/3/dubai-announces-it-is-to-appoint-female-muftis-for-the-first-time-in-2010.md)
@@ -49,7 +49,7 @@ _Context: Constitutional Court, Czech Republic, Lisbon Treaty, Vaclav Klaus, dep
 
 ##### United States elections, 2009
 ### [ Voters go to the polls in elections in the United States for Governors of Virginia and New Jersey, special elections for two Congressional districts, and several municipal elections. ](/news/2009/11/3/voters-go-to-the-polls-in-elections-in-the-united-states-for-governors-of-virginia-and-new-jersey-special-elections-for-two-congressional.md)
-_Context: New Jersey, U.S., United States elections, 2009, Virginia, two Congressional districts_
+_Context: New Jersey, United States, United States elections, 2009, Virginia, two Congressional districts_
 
 ##### Decriminalized prostitution
 ### [ After 29 years of decriminalized prostitution in the U.S. state of Rhode Island, Governor Donald Carcieri signs a bill into law outlawing prostitution. ](/news/2009/11/3/after-29-years-of-decriminalized-prostitution-in-the-u-s-state-of-rhode-island-governor-donald-carcieri-signs-a-bill-into-law-outlawing-p.md)

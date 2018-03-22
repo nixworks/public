@@ -3,7 +3,7 @@ Formats: [HTML](2007/09/19/index.html)  [JSON](2007/09/19/index.json)  [XML](200
 
 ## [2007-09-19](/news/2007/09/19/index.md)
 
-##### China
+##### Chinese
 ### [ Typhoon Wipha (Goring) makes landfall in eastern China before weakening to a Category 2 typhoon as it heads inland. ](/news/2007/09/19/typhoon-wipha-goring-makes-landfall-in-eastern-china-before-weakening-to-a-category-2-typhoon-as-it-heads-inland.md)
 Typhoon Wipha lost strength after crossing the eastern coast of China on Wednesday but downpours have still taken a heavy toll in two provinces.
 
@@ -41,7 +41,7 @@ _Context: Recep Tayyip Erdogan, Turkish, Turkish Prime Minister, constitution, h
 
 ##### Nevada
 ### [ Nevada authorities call off the search for missing US adventurer Steve Fossett two weeks after he goes missing. ](/news/2007/09/19/nevada-authorities-call-off-the-search-for-missing-us-adventurer-steve-fossett-two-weeks-after-he-goes-missing.md)
-_Context: Nevada, Steve Fossett, U.S._
+_Context: Nevada, Steve Fossett, United States_
 
 ##### Flood
 ### [ Six hundred thousand people are made homeless by floods in Africa with at least 270 deaths with more rain expected. ](/news/2007/09/19/six-hundred-thousand-people-are-made-homeless-by-floods-in-africa-with-at-least-270-deaths-with-more-rain-expected.md)
@@ -61,7 +61,7 @@ The discovery of four fossil skeletons of human ancestors in Georgia, a former S
 
 ##### United States Senate
 ### [ The United States Senate fails to pass a bill providing more home leave to United States troops in Iraq with the necessary 60 percent margin with 56 for and 44 against. ](/news/2007/09/19/the-united-states-senate-fails-to-pass-a-bill-providing-more-home-leave-to-united-states-troops-in-iraq-with-the-necessary-60-percent-margi.md)
-_Context: Iraq, U.S., United States Senate_
+_Context: Iraq, United States, United States Senate_
 
 ##### 2007 Pacific hurricane season
 ### [ 2007 Pacific hurricane season: Hurricane Ivo forms off the coast of Baja California. ](/news/2007/09/19/2007-pacific-hurricane-season-hurricane-ivo-forms-off-the-coast-of-baja-california.md)

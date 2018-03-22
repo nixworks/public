@@ -27,7 +27,7 @@ _Context: North Korea, Westerners, ballistic missile_
 ### [Facebook buys photo sharing application Instagram for $1 billion. ](/news/2012/04/9/facebook-buys-photo-sharing-application-instagram-for-1-billion.md)
 $1 billion for the photo-sharing service appears to be the most ever paid for an app.
 
-##### China
+##### Chinese
 ### [China establishes a rare earth association in order to streamline the sector's development. ](/news/2012/04/9/china-establishes-a-rare-earth-association-in-order-to-streamline-the-sector-s-development.md)
 China sets up a rare earth association in a bid to streamline the sector as it continues to face criticism over its policies.
 

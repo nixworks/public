@@ -39,9 +39,9 @@ _Context: China, Go Daddy, government_
 ### [Scientists identify the Denisova hominin - a previously unknown type of ancient human through DNA analysis from a finger found in a cave in Siberia, Russia. ](/news/2010/03/24/scientists-identify-the-denisova-hominin-a-previously-unknown-type-of-ancient-human-through-dna-analysis-from-a-finger-found-in-a-cave-in.md)
 _Context: DNA, Denisova hominin, Russia, Siberia, human_
 
-##### Norway
+##### Norwegian
 ### [An out-of-control train derailment in Norway kills three people and seriously injures several others. ](/news/2010/03/24/an-out-of-control-train-derailment-in-norway-kills-three-people-and-seriously-injures-several-others.md)
-_Context: Norway_
+_Context: Norwegian_
 
 ##### Sharia law
 ### [A Sharia court in Kaduna bans the Civil Rights Congress of Nigeria from debating punishment amputations via Twitter. ](/news/2010/03/24/a-sharia-court-in-kaduna-bans-the-civil-rights-congress-of-nigeria-from-debating-punishment-amputations-via-twitter.md)

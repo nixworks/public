@@ -23,9 +23,9 @@ Angela Merkel&#039;s conservative party suffers a crushing defeat in a crucial s
 ### [Paul Watson, the founder of the Sea Shepherd Conservation Society, is arrested in Germany for allegedly violating Guatemalan territorial waters in 2002. ](/news/2012/05/13/paul-watson-the-founder-of-the-sea-shepherd-conservation-society-is-arrested-in-germany-for-allegedly-violating-guatemalan-territorial-wat.md)
 _Context: German, Guatemala, Paul Watson, Sea Shepherd Conservation Society, allegedly violating_
 
-##### China
+##### Chinese
 ### [Torrential rainfall and flooding in China's Hunan Province destroys a bridge and 3,500 homes, leading to the evacuation of 28,000 people in Pingjiang County. ](/news/2012/05/13/torrential-rainfall-and-flooding-in-china-s-hunan-province-destroys-a-bridge-and-3-500-homes-leading-to-the-evacuation-of-28-000-people-in.md)
-_Context: China, Hunan Province, Pingjiang County_
+_Context: Chinese, Hunan Province, Pingjiang County_
 
 ##### Ugandan soldier
 ### [The Ugandan army captures Caesar Achellam, a senior commander of the militant Lord's Resistance Army, in the Central African Republic. ](/news/2012/05/13/the-ugandan-army-captures-caesar-achellam-a-senior-commander-of-the-militant-lord-s-resistance-army-in-the-central-african-republic.md)

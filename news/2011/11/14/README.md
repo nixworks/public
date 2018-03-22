@@ -25,7 +25,7 @@ The Leveson inquiry, launched after the phone-hacking scandal, hears details sug
 
 ##### Anders Behring Breivik
 ### [Anders Breivik goes on trial for terrorism in Norway. ](/news/2011/11/14/anders-breivik-goes-on-trial-for-terrorism-in-norway.md)
-_Context: Anders Behring Breivik, Norway_
+_Context: Anders Behring Breivik, Norwegian_
 
 ##### French-born
 ### [Three French aid workers with Triangle Generation Humanitaire kidnapped in Yemen in May are freed. ](/news/2011/11/14/three-french-aid-workers-with-triangle-generation-humanitaire-kidnapped-in-yemen-in-may-are-freed.md)
@@ -39,9 +39,9 @@ _Context: Interpol, Libya, Muammar Gaddafi, National Transitional Council, Niger
 ### [The death toll from the 2011 Thailand floods rises to 562. ](/news/2011/11/14/the-death-toll-from-the-2011-thailand-floods-rises-to-562.md)
 _Context: floods_
 
-##### United Kingdom
+##### UK
 ### [British television soap "Coronation Street" becomes the first prime time television show in the UK to use product placement after signing a deal with the Nationwide Building Society. A Nationwide cash machine is seen on screen in an episode. ](/news/2011/11/14/british-television-soap-coronation-street-becomes-the-first-prime-time-television-show-in-the-uk-to-use-product-placement-after-signing-a.md)
-_Context: ATM, Coronation Street, Nationwide Building Society, United Kingdom, product placement_
+_Context: ATM, Coronation Street, Nationwide Building Society, UK, product placement_
 
 ## [Previous Day...](/news/2011/11/13/index.md)
 

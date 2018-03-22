@@ -77,7 +77,7 @@ _Context: Japan, Japanese Prime Minister, Naoto Kan_
 
 ##### Univision's
 ### [Univision airs video footage of the U.S. agent who fatally shot a Mexican boy on Monday. ](/news/2010/06/11/univision-airs-video-footage-of-the-u-s-agent-who-fatally-shot-a-mexican-boy-on-monday.md)
-_Context: Mexico, U.S., Univision's_
+_Context: Mexico, United States, Univision's_
 
 ##### Osh
 ### [Riots erupt in the southern city of Osh killing at least 45, and injuring over a hundred others. The violence comes just over two months after violent riots in Bishkek toppled Kurmanbek Bakiyev's government, and only days ahead of a critical constitutional referendum. ](/news/2010/06/11/riots-erupt-in-the-southern-city-of-osh-killing-at-least-45-and-injuring-over-a-hundred-others-the-violence-comes-just-over-two-months-aft.md)

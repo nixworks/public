@@ -35,9 +35,9 @@ Italian political leaders have united to condemn a European court ruling that cr
 ### [ The President of Sierra Leone Ernest Bai Koroma sacks two senior ministers on charges of corruption. ](/news/2009/11/4/the-president-of-sierra-leone-ernest-bai-koroma-sacks-two-senior-ministers-on-charges-of-corruption.md)
 _Context: Ernest Bai Koroma, President of Sierra Leone, Sierra Leone_
 
-##### U.S.
+##### United States
 ### [ United States officials meet Aung San Suu Kyi and the Burmese Prime Minister Thein Sein in rare talks. ](/news/2009/11/4/united-states-officials-meet-aung-san-suu-kyi-and-the-burmese-prime-minister-thein-sein-in-rare-talks.md)
-_Context: Aung San Suu Kyi, Burma, Prime Minister, Thein Sein, U.S._
+_Context: Aung San Suu Kyi, Burma, Prime Minister, Thein Sein, United States_
 
 ##### Italy
 ### [ An Italian court convicts 22 CIA agents and 2 Italian agents over the kidnap of Muslim cleric Hassan Mustafa Osama Nasr in Milan in 2003, in the first court case challenging the CIA's "extraordinary rendition" programme. ](/news/2009/11/4/an-italian-court-convicts-22-cia-agents-and-2-italian-agents-over-the-kidnap-of-muslim-cleric-hassan-mustafa-osama-nasr-in-milan-in-2003-i.md)
@@ -63,9 +63,9 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 ### [ The Israeli navy intercepts the Francop, a ship alleging to have Iranian weapons bound for Hezbollah in Lebanon. ](/news/2009/11/4/the-israeli-navy-intercepts-the-francop-a-ship-alleging-to-have-iranian-weapons-bound-for-hezbollah-in-lebanon.md)
 The Israeli navy yesterday seized a ship carrying what defence officials said was five hundred tons of Iranian-supplied weapons bound for Hizbollah guerrillas in Lebanon, including - New Zealand Herald
 
-##### Houthi
+##### Houthis
 ### [ Rebel Houthis in Yemen cross the border into Saudi Arabia, killing a Saudi security officer and injuring 11 others. ](/news/2009/11/4/rebel-houthis-in-yemen-cross-the-border-into-saudi-arabia-killing-a-saudi-security-officer-and-injuring-11-others.md)
-_Context: Houthi, Saudi Arabia, Shia insurgency in Yemen, Yemen_
+_Context: Houthis, Saudi Arabia, Shia insurgency in Yemen, Yemen_
 
 ##### New York Yankees
 ### [ The New York Yankees defeat the Philadelphia Phillies 7-3 in Game 6 to win the 2009 World Series. ](/news/2009/11/4/the-new-york-yankees-defeat-the-philadelphia-phillies-7-3-in-game-6-to-win-the-2009-world-series.md)

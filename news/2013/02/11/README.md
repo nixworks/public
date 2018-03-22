@@ -17,7 +17,7 @@ _Context: Monaco, National Council, parliamentary elections_
 
 ##### Mass shooting
 ### [A mass shooting takes place at a courthouse in New Castle County, Delaware, United States, where a gunman shot and killed two women and injures two police officers. He is later found dead at the scene. ](/news/2013/02/11/a-mass-shooting-takes-place-at-a-courthouse-in-new-castle-county-delaware-united-states-where-a-gunman-shot-and-killed-two-women-and-inju.md)
-_Context: Delaware, New Castle County, U.S., courthouse, mass shooting_
+_Context: Delaware, New Castle County, United States, courthouse, mass shooting_
 
 ##### Coal mine
 ### [18 miners are killed in explosion at the Vorkutinskaya coal mine in Russia's Komi Region. ](/news/2013/02/11/18-miners-are-killed-in-explosion-at-the-vorkutinskaya-coal-mine-in-russia-s-komi-region.md)

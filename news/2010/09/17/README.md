@@ -25,7 +25,7 @@ Iranian security forces surround the office of opposition leader Mir Hossein Mou
 
 ##### Los Alamos National Laboratory
 ### [A former scientist at the Los Alamos National Laboratory and his wife are indicted on charges of trying to provide information about the United States nuclear program to Venezuela. ](/news/2010/09/17/a-former-scientist-at-the-los-alamos-national-laboratory-and-his-wife-are-indicted-on-charges-of-trying-to-provide-information-about-the-uni.md)
-_Context: Los Alamos National Laboratory, U.S., Venezuela_
+_Context: Los Alamos National Laboratory, United States, Venezuela_
 
 ##### Police
 ### [The Somali Police Force raid an address in Mogadishu and confiscate weapons. ](/news/2010/09/17/the-somali-police-force-raid-an-address-in-mogadishu-and-confiscate-weapons.md)
@@ -47,7 +47,7 @@ _Context: Indonesian Air Force, Sukhoi, fighter aircraft_
 ### [Poland arrests exiled Chechen rebel leader Akhmed Zakayev. ](/news/2010/09/17/poland-arrests-exiled-chechen-rebel-leader-akhmed-zakayev.md)
 _Context: Akhmed Zakayev, Chechen, Poland_
 
-##### U.S.
+##### United States
 ### [The United States charges 2 married former nuclear contractors with trying to give away the country's nuclear secrets to Venezuela. ](/news/2010/09/17/the-united-states-charges-2-married-former-nuclear-contractors-with-trying-to-give-away-the-country-s-nuclear-secrets-to-venezuela.md)
 A husband and wife team of former nuclear contractors are charged in the US with attempting to leak nuclear secrets to Venezuela.
 
@@ -87,7 +87,7 @@ The United Nations launches a $2bn appeal for Pakistan flood victims, its bigges
 ### [United Airlines shareholders meeting in Elk Grove, Illinois in Cook County, approve a deal to merge with Continental Airlines to create the world's biggest airline. ](/news/2010/09/17/united-airlines-shareholders-meeting-in-elk-grove-illinois-in-cook-county-approve-a-deal-to-merge-with-continental-airlines-to-create-the.md)
 _Context: Continental Airlines, Elk Grove, Illinois, United, shareholder_
 
-##### U.S.
+##### United States
 ### [US entertainer Paris Hilton agrees to a plea bargain with prosecutors in Las Vegas, Nevada, to avoid a jail sentence. ](/news/2010/09/17/us-entertainer-paris-hilton-agrees-to-a-plea-bargain-with-prosecutors-in-las-vegas-nevada-to-avoid-a-jail-sentence.md)
 Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, celeb videos, photos, movies, TV, music news and pop culture on&nbsp;ABCNews.com.
 

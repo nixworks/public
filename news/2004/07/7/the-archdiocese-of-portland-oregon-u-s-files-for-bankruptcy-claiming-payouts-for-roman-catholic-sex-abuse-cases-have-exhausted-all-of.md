@@ -15,7 +15,7 @@ Formats: [HTML](/news/2004/07/7/the-archdiocese-of-portland-oregon-u-s-files-for
 
 ### Related:
 
-1. [India's fifth-largest wireless provider Aircel declares bankruptcy. ](/news/2018/03/20/india-s-fifth-largest-wireless-provider-aircel-declares-bankruptcy.md) _Context: bankruptcy_
+1. [Aircel, India's fifth-largest wireless provider, declares bankruptcy. ](/news/2018/03/20/aircel-india-s-fifth-largest-wireless-provider-declares-bankruptcy.md) _Context: bankruptcy_
 2. [The United Kingdom's Monarch Airlines goes into financial bankruptcy administration, suspending all flights, cancelling 300 thousand bookings, and leaving tens of thousands of passengers stranded. ](/news/2017/10/1/the-united-kingdom-s-monarch-airlines-goes-into-financial-bankruptcy-administration-suspending-all-flights-cancelling-300-thousand-booking.md) _Context: bankruptcy_
 3. [Toys "R" Us files for Chapter 11 bankruptcy protection in the United States, and also files for bankruptcy in Canada, as it attempts to restructure its debts. ](/news/2017/09/18/toys-r-us-files-for-chapter-11-bankruptcy-protection-in-the-united-states-and-also-files-for-bankruptcy-in-canada-as-it-attempts-to-rest.md) _Context: bankruptcy_
 4. [Two men are stabbed to death in a train in Portland, Oregon, after they attempt to intervene while a man shouts racial slurs at two teenage girls, one of them wearing a hijab. ](/news/2017/05/26/two-men-are-stabbed-to-death-in-a-train-in-portland-oregon-after-they-attempt-to-intervene-while-a-man-shouts-racial-slurs-at-two-teenage.md) _Context: Portland, Oregon_

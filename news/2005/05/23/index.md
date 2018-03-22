@@ -15,9 +15,9 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 ### [ 11,000 journalists and other employees of the BBC go on a 24-hour strike to protest over approximately 4,000 planned job cuts. TV and Radio news output has been the worst affected, with few new stories materialising and only a skeleton service being offered. ](/news/2005/05/23/11-000-journalists-and-other-employees-of-the-bbc-go-on-a-24-hour-strike-to-protest-over-approximately-4-000-planned-job-cuts-tv-and-radio.md)
 _Context: BBC, strike_
 
-##### Norway
+##### Norwegian
 ### [ Health officials in Norway fear a Legionnaires' Disease epidemic after the death of four people during the last five days and the hospitalisation of many others in southeastern county of stfold, particularly in the Fredrikstad-Sarpsborg urban area. At least 24 people are known to be infected, with many of them in critical condition. Legionnaires' Disease killed seven people in the southwestern city of Stavanger in 2001, in an outbreak that was later traced to a hotel air conditioning system. ](/news/2005/05/23/health-officials-in-norway-fear-a-legionnaires-disease-epidemic-after-the-death-of-four-people-during-the-last-five-days-and-the-hospitali.md)
-_Context: Fredrikstad, Legionellosis, Norway, Sarpsborg, Stavanger, air conditioning, epidemic, stfold_
+_Context: Fredrikstad, Legionellosis, Norwegian, Sarpsborg, Stavanger, air conditioning, epidemic, stfold_
 
 ##### Palestinian Election Commission
 ### [ The Palestinian Election Commission delays the Palestinian Legislative Council elections, citing that there was not enough time to prepare. Critics of the ruling Fatah party had predicted the delay, and believed it was a way to prevent Hamas, the main opposition party, from gaining power. ](/news/2005/05/23/the-palestinian-election-commission-delays-the-palestinian-legislative-council-elections-citing-that-there-was-not-enough-time-to-prepare.md)

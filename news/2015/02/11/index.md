@@ -21,11 +21,11 @@ _Context: Belarus, France, German, Minsk, Russia, Ukraine, War in Donbass_
 
 ##### General Secretary of the Communist Party of China
 ### [General Secretary of the Central Committee of the Communist Party of China Xi Jinping will make his first state visit to the United States next September. ](/news/2015/02/11/general-secretary-of-the-central-committee-of-the-communist-party-of-china-xi-jinping-will-make-his-first-state-visit-to-the-united-states-n.md)
-_Context: Central Committee of the Communist Party of China, Communist Party of China, General Secretary of the Communist Party of China, U.S., Xi Jinping_
+_Context: Central Committee of the Communist Party of China, Communist Party of China, General Secretary of the Communist Party of China, United States, Xi Jinping_
 
 ##### Yemeni Crisis (2011-present)
 ### [The United States, United Kingdom, and France close their Yemeni embassies and evacuate their staff due to terrorist activities and continued unrest. ](/news/2015/02/11/the-united-states-united-kingdom-and-france-close-their-yemeni-embassies-and-evacuate-their-staff-due-to-terrorist-activities-and-continue.md)
-_Context: France, U.S., United Kingdom, Yemen, Yemeni Crisis (2011-present)_
+_Context: France, UK, United States, Yemen, Yemeni Crisis (2011-present)_
 
 ##### ''Costa Concordia'' disaster
 ### [A court in the city of Grosseto convicts the former captain of the "Costa Concordia", Francesco Schettino, of manslaughter for his part in the ship's January 2012 sinking, and sentences him to 16 years in jail. ](/news/2015/02/11/a-court-in-the-city-of-grosseto-convicts-the-former-captain-of-the-costa-concordia-francesco-schettino-of-manslaughter-for-his-part-in-t.md)

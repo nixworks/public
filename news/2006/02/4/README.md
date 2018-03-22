@@ -5,7 +5,7 @@ Formats: [HTML](2006/02/4/index.html)  [JSON](2006/02/4/index.json)  [XML](2006/
 
 ##### Denmark
 ### [ The Danish, and as a consequence of sharing the same building, the Chilean and Swedish embassies in Damascus, are firebombed by protestors denouncing the publication of what they consider sacrilegious cartoons depicting the Prophet Muhammad. The Norwegian embassy is also burned. ](/news/2006/02/4/the-danish-and-as-a-consequence-of-sharing-the-same-building-the-chilean-and-swedish-embassies-in-damascus-are-firebombed-by-protestors.md)
-_Context: Chile, Damascus, Denmark, Jyllands-Posten Muhammad cartoons controversy, Norway, Sweden_
+_Context: Chile, Damascus, Denmark, Jyllands-Posten Muhammad cartoons controversy, Norwegian, Sweden_
 
 ##### A stampede
 ### [ A stampede at a sports stadium in Pasig City, Metro Manila, Philippines, kills 73 and injures more than 320, mostly women. Tens of thousands of people had gathered to watch the anniversary presentation of the popular ABS-CBN early afternoon TV gameshow, "Wowowee". ](/news/2006/02/4/a-stampede-at-a-sports-stadium-in-pasig-city-metro-manila-philippines-kills-73-and-injures-more-than-320-mostly-women-tens-of-thousand.md)

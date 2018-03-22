@@ -23,15 +23,15 @@ Former Armenian presidential candidate Raffi Hovannisian began a hunger strike o
 ### [Voters in Greenland go to the polls for a parliamentary election. ](/news/2013/03/12/voters-in-greenland-go-to-the-polls-for-a-parliamentary-election.md)
 Voters go to the polls in Greenland on Tuesday, in an election dominated by the question of how the territory should exploit its mineral riches.
 
-##### U.S.
+##### United States
 ### [Authorities believe that a U.S. man suspected of killing his grandparents on March 8 in Renton, Washington, is barricaded in a hotel in Lincoln City, Oregon. ](/news/2013/03/12/authorities-believe-that-a-u-s-man-suspected-of-killing-his-grandparents-on-march-8-in-renton-washington-is-barricaded-in-a-hotel-in-linc.md)
-_Context: Lincoln City, March 8, Oregon, Renton, Washington, U.S., Washington_
+_Context: Lincoln City, March 8, Oregon, Renton, Washington, United States, Washington_
 
 ##### New York City
 ### [Former New York City police officer Gilberto Valle is found guilty of plotting to kidnap, kill, and eat women. ](/news/2013/03/12/former-new-york-city-police-officer-gilberto-valle-is-found-guilty-of-plotting-to-kidnap-kill-and-eat-women.md)
 New York City police officer Gilberto Valle is convicted of plotting to murder his wife, and cook and eat other women.
 
-##### U.S.
+##### United States
 ### [A U.S. judge entered a plea of not guilty on the behalf of alleged Aurora theater gunman James Holmes, after his lawyers said they were not ready to enter a plea. ](/news/2013/03/12/a-u-s-judge-entered-a-plea-of-not-guilty-on-the-behalf-of-alleged-aurora-theater-gunman-james-holmes-after-his-lawyers-said-they-were-not.md)
 A US judge has entered a plea of not guilty on behalf of alleged Aurora theatre gunman James Holmes, after his lawyers said they were not ready to enter a plea.
 
@@ -89,7 +89,7 @@ The Better Business Bureau chapter that predominantly served the Los Angeles are
 
 ##### England
 ### [English singer and lyricist Morrissey is diagnosed with severe pneumonia and hospitalised in San Francisco on his U.S. tour. ](/news/2013/03/12/english-singer-and-lyricist-morrissey-is-diagnosed-with-severe-pneumonia-and-hospitalised-in-san-francisco-on-his-u-s-tour.md)
-_Context: England, Morrissey, San Francisco, U.S., pneumonia_
+_Context: England, Morrissey, San Francisco, United States, pneumonia_
 
 ##### Palestinian
 ### [A Palestinian protestor is killed by Israeli forces after hurling stones and incendiary bottles in the West Bank. ](/news/2013/03/12/a-palestinian-protestor-is-killed-by-israeli-forces-after-hurling-stones-and-incendiary-bottles-in-the-west-bank.md)

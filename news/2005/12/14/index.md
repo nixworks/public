@@ -21,7 +21,7 @@ _Context: Hindu, India, Muslim, life imprisonment, riots_
 
 ##### President
 ### [ The President of Brazil, Luiz Inacio Lula da Silva announces that Brazil will clear its International Monetary Fund debt of $15.5bn two years early. ](/news/2005/12/14/the-president-of-brazil-luiz-inacio-lula-da-silva-announces-that-brazil-will-clear-its-international-monetary-fund-debt-of-15-5bn-two-yea.md)
-_Context: $, International Monetary Fund, Luiz Inacio Lula da Silva, president_
+_Context: International Monetary Fund, Luiz Inacio Lula da Silva, US$, president_
 
 ##### Pakistan
 ### [ Doctors in Pakistan marvel at the survival of Naqsha Bibi, rescued last Saturday, 63 days after she was buried in the 8 October 2005 Kashmir earthquake. ](/news/2005/12/14/doctors-in-pakistan-marvel-at-the-survival-of-naqsha-bibi-rescued-last-saturday-63-days-after-she-was-buried-in-the-8-october-2005-kashmi.md)

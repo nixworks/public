@@ -5,15 +5,15 @@ Formats: [HTML](2009/06/3/index.html)  [JSON](2009/06/3/index.json)  [XML](2009/
 
 ##### Al-Qaeda
 ### [ The al-Qaeda Organization in the Islamic Maghreb executes British hostage Edwin Dwyer in the Sahara. ](/news/2009/06/3/the-al-qaeda-organization-in-the-islamic-maghreb-executes-british-hostage-edwin-dwyer-in-the-sahara.md)
-_Context: Al Qaeda in the Islamic Maghreb, Insurgency in the Maghreb (2002-present), Islam, Maghreb, Sahara, United Kingdom, al-Qaeda, hostage_
+_Context: Al Qaeda in the Islamic Maghreb, Insurgency in the Maghreb (2002-present), Islam, Maghreb, Sahara, UK, al-Qaeda, hostage_
 
 ##### U.S. state
 ### [ The U.S. state of New Hampshire legalizes same-sex marriage. ](/news/2009/06/3/the-u-s-state-of-new-hampshire-legalizes-same-sex-marriage.md)
 _Context: New Hampshire, U.S. state, legalizes, same-sex marriage_
 
-##### U.S.
+##### United States
 ### [ American author Marilynne Robinson wins the Orange Prize for Fiction for her novel "Home". ](/news/2009/06/3/american-author-marilynne-robinson-wins-the-orange-prize-for-fiction-for-her-novel-home.md)
-_Context: Home, Marilynne Robinson, Orange Prize for Fiction, U.S., author, novel_
+_Context: Home, Marilynne Robinson, Orange Prize for Fiction, United States, author, novel_
 
 ##### Madagascar
 ### [ Former Malagasy President Marc Ravalomanana is sentenced "in absentia" to incarceration until 2013 for misconduct. ](/news/2009/06/3/former-malagasy-president-marc-ravalomanana-is-sentenced-in-absentia-to-incarceration-until-2013-for-misconduct.md)
@@ -37,7 +37,7 @@ _Context: Challenger Deep, Mariana Trench, Nereus, South Pacific Ocean, remotely
 
 ##### Labour Party
 ### [ Labour Party Members of the United Kingdom's Parliament circulate an e-mail that requests Prime Minister Gordon Brown's resignation. ](/news/2009/06/3/labour-party-members-of-the-united-kingdom-s-parliament-circulate-an-e-mail-that-requests-prime-minister-gordon-brown-s-resignation.md)
-_Context: Gordon Brown, Labour Party, MP, Parliament, Prime Minister, United Kingdom, e-mail_
+_Context: Gordon Brown, Labour Party, MP, Parliament, Prime Minister, UK, e-mail_
 
 ##### Organization of American States
 ### [ The Organization of American States revokes its 47-year suspension of Cuba. ](/news/2009/06/3/the-organization-of-american-states-revokes-its-47-year-suspension-of-cuba.md)

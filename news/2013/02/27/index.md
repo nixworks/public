@@ -21,7 +21,7 @@ The U.S. Senate, late Wednesday, confirmed Jack Lew as the nation’s next Treas
 
 ##### Chuck Hagel
 ### [Chuck Hagel is sworn in as United States Secretary of Defense, replacing Leon Panetta. ](/news/2013/02/27/chuck-hagel-is-sworn-in-as-united-states-secretary-of-defense-replacing-leon-panetta.md)
-_Context: Chuck Hagel, Leon Panetta, U.S., United States Secretary of Defense_
+_Context: Chuck Hagel, Leon Panetta, United States, United States Secretary of Defense_
 
 ##### Stephane Hessel
 ### [Stephane Hessel, influential French diplomat, writer, thinker and inspiration for multiple political movements, dies at age 95. ](/news/2013/02/27/sta-c-phane-hessel-influential-french-diplomat-writer-thinker-and-inspiration-for-multiple-political-movements-dies-at-age-95.md)

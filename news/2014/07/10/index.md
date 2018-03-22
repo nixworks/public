@@ -15,9 +15,9 @@ _Context: Myanmar, Yangon_
 ### [Germany expels the Berlin station chief of the United States Central Intelligence Agency following a series of spy scandals. ](/news/2014/07/10/germany-expels-the-berlin-station-chief-of-the-united-states-central-intelligence-agency-following-a-series-of-spy-scandals.md)
 Germany&#039;s decision to expel the US CIA station chief in Berlin has met with a cool response from Washington, saying any comment would risk US interests.
 
-##### United Kingdom
+##### UK
 ### [Civil servants in the United Kingdom go on strike over salary freezes and public sector cuts. ](/news/2014/07/10/civil-servants-in-the-united-kingdom-go-on-strike-over-salary-freezes-and-public-sector-cuts.md)
-_Context: United Kingdom_
+_Context: UK_
 
 ##### Gaza-Israel conflict
 ### [A BBC investigation determines that photographs circulating on social media sites allegedly covering the airstrikes on Gaza include photographs taken from conflicts in Iraq and Syria and are up to five years old. ](/news/2014/07/10/a-bbc-investigation-determines-that-photographs-circulating-on-social-media-sites-allegedly-covering-the-airstrikes-on-gaza-include-photogra.md)

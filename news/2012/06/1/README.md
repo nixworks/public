@@ -47,7 +47,7 @@ Even after the Stuxnet computer worm became public, President Obama accelerated 
 
 ##### Syrian uprising (2011-present)
 ### [Syrian uprising: The United Nations Human Rights Council votes to condemn the massacre carried out by Syrian forces in the town of Houla on May 25, despite Russia, China and Cuba voting against the resolution. ](/news/2012/06/1/syrian-uprising-the-united-nations-human-rights-council-votes-to-condemn-the-massacre-carried-out-by-syrian-forces-in-the-town-of-houla-on.md)
-_Context: China, Cuba, Houla, Human Rights Council, Russia, Syrian uprising (2011-present), massacre_
+_Context: Chinese, Cuba, Houla, Human Rights Council, Russia, Syrian uprising (2011-present), massacre_
 
 ## [Previous Day...](/news/2012/05/31/index.md)
 

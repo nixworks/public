@@ -109,7 +109,7 @@ _Context: Mogadishu_
 
 ##### Dandong
 ### [China announces that 3 residents of Dandong city in Liaoning province were shot dead and one injured in a China-North Korea border incident last week. ](/news/2010/06/9/china-announces-that-3-residents-of-dandong-city-in-liaoning-province-were-shot-dead-and-one-injured-in-a-china-north-korea-border-incident.md)
-_Context: China, Dandong, Liaoning province, North Korea_
+_Context: Chinese, Dandong, Liaoning province, North Korea_
 
 ##### Australia
 ### [The bodies of two Australian soldiers killed in a bomb blast in Afghanistan begin their journey home. ](/news/2010/06/9/the-bodies-of-two-australian-soldiers-killed-in-a-bomb-blast-in-afghanistan-begin-their-journey-home.md)

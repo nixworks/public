@@ -17,7 +17,7 @@ _Context: Asia, BSE Sensex, CAC 40, DAX, Europe, FTSE 100 Index, Hang Seng Index
 
 ##### Contractors
 ### [ Contractors for the Big Dig project pay $400 million to settle a lawsuit from the Massachusetts government over a fatal tunnel collapse and associated flaws. ](/news/2008/01/23/contractors-for-the-big-dig-project-pay-400-million-to-settle-a-lawsuit-from-the-massachusetts-government-over-a-fatal-tunnel-collapse-and.md)
-_Context: $, Big Dig, Contractors, Massachusetts, associated flaws, fatal tunnel collapse, lawsuit_
+_Context: Big Dig, Contractors, Massachusetts, US$, associated flaws, fatal tunnel collapse, lawsuit_
 
 ##### Scaled Composites
 ### [ Scaled Composites "SpaceShipTwo", being built for Virgin Galactic to become the world's first commercial spacecraft, is unveiled, and will begin test flights in mid-2008. ](/news/2008/01/23/scaled-composites-spaceshiptwo-being-built-for-virgin-galactic-to-become-the-world-s-first-commercial-spacecraft-is-unveiled-and-will.md)

@@ -25,7 +25,7 @@ _Context: ARENA, Farabundo Marti National Liberation Front, Salvadoran president
 
 ##### Microsoft
 ### [ Microsoft is to be fined a record EUR497 million ($613 million) by the European Commission as punishment for abusing its Windows monopoly, according to reports ahead of a key meeting by EU Commissioners on Wednesday. ](/news/2004/03/22/microsoft-is-to-be-fined-a-record-a-497-million-613-million-by-the-european-commission-as-punishment-for-abusing-its-windows-monopoly.md)
-_Context: $, EUR, European Commission, Microsoft, Microsoft Windows_
+_Context: EUR, European Commission, Microsoft, Microsoft Windows, US$_
 
 ##### 2004 presidential election
 ### [ ROC presidential election, 2004: Chen Shui-bian's Democratic Progressive Party submits a bill to the Legislative Yuan to allow an immediate recount, per Lien Chan's demand, but the majority Pan-Blue Coalition dismisses it as unnecessary saying the President could just issue an executive order instead. ](/news/2004/03/22/roc-presidential-election-2004-chen-shui-bian-s-democratic-progressive-party-submits-a-bill-to-the-legislative-yuan-to-allow-an-immediate.md)

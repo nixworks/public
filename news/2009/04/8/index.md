@@ -3,9 +3,9 @@ Formats: [HTML](2009/04/8/index.html)  [JSON](2009/04/8/index.json)  [XML](2009/
 
 ## [2009-04-8](/news/2009/04/8/index.md)
 
-##### United Kingdom
+##### UK
 ### [ The United Kingdom Independent Police Complaints Commission announces an inquest into Ian Tomlinson's death. ](/news/2009/04/8/the-united-kingdom-independent-police-complaints-commission-announces-an-inquest-into-ian-tomlinson-s-death.md)
-_Context: Independent Police Complaints Commission, United Kingdom, death of Ian Tomlinson, inquest_
+_Context: Independent Police Complaints Commission, UK, death of Ian Tomlinson, inquest_
 
 ##### Organisation for Economic Co-operation and Development
 ### [ The Organisation for Economic Co-operation and Development removes Costa Rica, Malaysia, and the Philippines from its blacklist of non-cooperative tax havens. ](/news/2009/04/8/the-organisation-for-economic-co-operation-and-development-removes-costa-rica-malaysia-and-the-philippines-from-its-blacklist-of-non-coop.md)
@@ -21,7 +21,7 @@ _Context: ''Maersk Alabama'', Denmark, Indian Ocean, MV, Somali pirates, Somalia
 
 ##### Temecula
 ### [ One person is killed and four are injured in a shooting in Temecula, California, United States. ](/news/2009/04/8/one-person-is-killed-and-four-are-injured-in-a-shooting-in-temecula-california-united-states.md)
-_Context: California, Temecula, U.S._
+_Context: California, Temecula, United States_
 
 ##### Venezuela
 ### [ Venezuelan President Hugo Chavez and Chinese President Hu Jintao meet in Beijing. ](/news/2009/04/8/venezuelan-president-hugo-cha-vez-and-chinese-president-hu-jintao-meet-in-beijing.md)

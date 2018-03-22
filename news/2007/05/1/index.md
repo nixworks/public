@@ -21,11 +21,11 @@ _Context: May Day, Nigeria, President, Umaru Yar'Adua, civil society, labour uni
 
 ##### Deutsche Brse
 ### [ Deutsche Brse AG, operator of the Frankfurt Stock Exchange, agrees to buy International Securities Exchange the second biggest United States options market for $2.8 billion creating the largest transatlantic derivatives market. ](/news/2007/05/1/deutsche-borse-ag-operator-of-the-frankfurt-stock-exchange-agrees-to-buy-international-securities-exchange-the-second-biggest-united-stat.md)
-_Context: Deutsche Brse, Frankfurt Stock Exchange, International Securities Exchange, U.S., derivatives, market, stock options_
+_Context: Deutsche Brse, Frankfurt Stock Exchange, International Securities Exchange, United States, derivatives, market, stock options_
 
 ##### Police
 ### [ Police arrest 30 alleged animal rights extremists in raids in the United Kingdom, Belgium and the Netherlands. ](/news/2007/05/1/police-arrest-30-alleged-animal-rights-extremists-in-raids-in-the-united-kingdom-belgium-and-the-netherlands.md)
-_Context: Belgium, Police, United Kingdom, animal rights, the Netherlands_
+_Context: Belgium, Police, UK, animal rights, the Netherlands_
 
 ##### Apartment
 ### [ At least three people die after an explosion in an apartment building in Palencia, Spain. ](/news/2007/05/1/at-least-three-people-die-after-an-explosion-in-an-apartment-building-in-palencia-spain.md)
@@ -37,7 +37,7 @@ _Context: Constitutional Court of Turkey, July elections, MP_
 
 ##### Rupert Murdoch
 ### [ Rupert Murdoch, the CEO of News Corporation, announces a $5 billion offer to take over Dow Jones, the publisher of the "Wall Street Journal". ](/news/2007/05/1/rupert-murdoch-the-ceo-of-news-corporation-announces-a-5-billion-offer-to-take-over-dow-jones-the-publisher-of-the-wall-street-journal.md)
-_Context: $, CEO, Dow Jones, News Corporation, Rupert Murdoch, Wall Street Journal_
+_Context: CEO, Dow Jones, News Corporation, Rupert Murdoch, US$, Wall Street Journal_
 
 ##### Mission Accomplished
 ### [ On the fourth anniversary of his "Mission Accomplished" speech, President George W. Bush, citing the provisions setting a deadline for the withdrawal of U.S. troops, vetoes an Iraq War funding measure that also improves resting, training and equipping standards for combat troops before their deployment, and sets binding benchmarks for the Iraqi government. ](/news/2007/05/1/on-the-fourth-anniversary-of-his-mission-accomplished-speech-president-george-w-bush-citing-the-provisions-setting-a-deadline-for-the.md)

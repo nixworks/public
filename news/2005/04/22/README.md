@@ -15,9 +15,9 @@ _Context: ECOWAS, Franois Boko, Togo, Togolese presidential election, civil war,
 ### [ Canadian prime minister Paul Martin promises in a televised address to call for an early general election once the Gomery inquiry into the current corruption scandal is over. ](/news/2005/04/22/canadian-prime-minister-paul-martin-promises-in-a-televised-address-to-call-for-an-early-general-election-once-the-gomery-inquiry-into-the.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
-##### United Kingdom
+##### UK
 ### [ In the UK, the National Portrait Gallery states that the so-called "Flower portrait" of William Shakespeare is a 19th-century forgery. ](/news/2005/04/22/in-the-uk-the-national-portrait-gallery-states-that-the-so-called-flower-portrait-of-william-shakespeare-is-a-19th-century-forgery.md)
-_Context: Flower portrait, National Portrait Gallery, United Kingdom, William Shakespeare, forgery_
+_Context: Flower portrait, National Portrait Gallery, UK, William Shakespeare, forgery_
 
 ##### Asia
 ### [ In an attempt to ease recent tensions between the two Asian economic powerhouses in the Japanese history textbooks controversy, Japanese prime minister Junichiro Koizumi publicly expressed his "deep remorse" for actions of Japanese troops in China during World War II for the first time in a decade. He intends to meet PRC president Hu Jintao at the Asia-Africa Conference in Jakarta. However, 81 Diet members visit Yasukuni Shrine the same day, causing more controversy inside and outside Japan about the true attitude of Tokyo on this subject. ](/news/2005/04/22/in-an-attempt-to-ease-recent-tensions-between-the-two-asian-economic-powerhouses-in-the-japanese-history-textbooks-controversy-japanese-pr.md)

@@ -15,7 +15,7 @@ _Context: Sri Lanka, presidential election_
 ### [Petelo Vikena, King of the Kingdom of Alo in Wallis and Futuna, abdicates after reports of vandalism and arson against royal property. ](/news/2010/01/26/petelo-vikena-king-of-the-kingdom-of-alo-in-wallis-and-futuna-abdicates-after-reports-of-vandalism-and-arson-against-royal-property.md)
 _Context: King, Kingdom of Alo, Petelo Vikena, Wallis and Futuna, arson, vandalism_
 
-##### U.S.
+##### United States
 ### [The United States approves an arms sale to Taiwan, amid opposition from China. ](/news/2010/01/26/the-united-states-approves-an-arms-sale-to-taiwan-amid-opposition-from-china.md)
 White House reportedly backs arms deal in move likely to strain ties with Beijing.
 

@@ -33,7 +33,7 @@ Police in India say they have killed at least 24 Maoist rebels in the eastern st
 
 ##### Yemeni Civil War (2015-present)
 ### [Saudi Arabian-led air raids on the Yemeni capital Sana'a resume after a truce ends. ](/news/2016/10/23/saudi-arabian-led-air-raids-on-the-yemeni-capital-sana-a-resume-after-a-truce-ends.md)
-_Context: Sana'a, Saudi-led intervention in Yemen, Yemen, Yemeni Civil War (2015-present)_
+_Context: Sana'a, Saudi Arabian-led intervention in Yemen, Yemen, Yemeni Civil War (2015-present)_
 
 ## [Previous Day...](/news/2016/10/22/index.md)
 

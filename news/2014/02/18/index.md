@@ -27,9 +27,9 @@ Craig Thomson’s public fall has been like few others in Australia and it conti
 ### [The Supreme Court of the Philippines declares the libel provisions in the Cybercrime Prevention Act of 2012 as legal. ](/news/2014/02/18/the-supreme-court-of-the-philippines-declares-the-libel-provisions-in-the-cybercrime-prevention-act-of-2012-as-legal.md)
 _Context: Cybercrime Prevention Act of 2012, Supreme Court of the Philippines, libel_
 
-##### $
+##### US$
 ### [A US$1 million vase made by Chinese dissident Ai Wei Wei is destroyed in Miami by a local vandal protesting the lack of exhibits promoting local art. ](/news/2014/02/18/a-us-1-million-vase-made-by-chinese-dissident-ai-wei-wei-is-destroyed-in-miami-by-a-local-vandal-protesting-the-lack-of-exhibits-promoting-l.md)
-_Context: $, Ai Wei Wei, Miami_
+_Context: Ai Wei Wei, Miami, US$_
 
 ##### Kiev
 ### [Violent clashes between police forces and opposition demonstrators reignite in Kiev, Ukraine. The death toll rises to 14, six of them policemen who were shot dead during the confrontation. ](/news/2014/02/18/violent-clashes-between-police-forces-and-opposition-demonstrators-reignite-in-kiev-ukraine-the-death-toll-rises-to-14-six-of-them-police.md)

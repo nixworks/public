@@ -11,7 +11,7 @@ Countries meeting in Rwanda have agreed a &quot;monumental&quot; deal to phase o
 ### [Judge Vivien Rose of London's High Court, finds in favor of Goldman Sachs, that the bank is not liable for the failure of highly speculative trades made by the sovereign wealth fund of Libya. ](/news/2016/10/15/judge-vivien-rose-of-london-s-high-court-finds-in-favor-of-goldman-sachs-that-the-bank-is-not-liable-for-the-failure-of-highly-speculative.md)
 _Context: Goldman Sachs, High Court, Libya, Vivien Rose, highly speculative trades, sovereign wealth fund_
 
-##### China
+##### Chinese
 ### [Police in China detain 75 people in connection with a service that determined the female gender of unborn babies for the purpose of abortion. Authorities say that at least 300 people were involved in the illegal service in the eastern Chinese province of Zhejiang. Expectant parents wanting male children smuggled fetal blood samples to Hong Kong for gender testing. China ended its one-child policy last year. ](/news/2016/10/15/police-in-china-detain-75-people-in-connection-with-a-service-that-determined-the-female-gender-of-unborn-babies-for-the-purpose-of-abortion.md)
 Police in China detain 75 people in connection with a widespread network that illegally determined the gender of unborn babies.
 
@@ -67,7 +67,7 @@ At least one missile was fired at the destroyer, but the ship deployed counterme
 ### [Turkish-backed rebels advance on the symbolic ISIL-controlled town of Dabiq, in northern Syria. ISIL believes Dabiq is the location where an apocalyptic battle will take place shortly before the end of the world. ](/news/2016/10/15/turkish-backed-rebels-advance-on-the-symbolic-isil-controlled-town-of-dabiq-in-northern-syria-isil-believes-dabiq-is-the-location-where-an.md)
 Turkish-backed rebels in Syria are advancing on the symbolically important IS stronghold of Dabiq, as US and Russian envoys discuss efforts to achieve a truce.
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [Saudi Arabia accepts the finding of the Joint Incidents Assessment Team, a setup of coalition states to investigate complaints against coalitions conduct in Decisive Storm, that the October 8 coalition's bombardment at a funeral ceremony in Sana'a, in which over 140 people were killed and more than 600 injured, was based on wrong information. ](/news/2016/10/15/saudi-arabia-accepts-the-finding-of-the-joint-incidents-assessment-team-a-setup-of-coalition-states-to-investigate-complaints-against-coali.md)
 JEDDAH: A joint investigation team on Saturday found that the Saudi-led Coalition bombed a funeral ceremony in Sanaa last week based on wrong information that the hall was packed with Houthi leaders. Some 140 people were killed in the bombing and more than 600 were wounded in the air strike on Oct.
 

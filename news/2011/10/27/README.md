@@ -3,7 +3,7 @@ Formats: [HTML](2011/10/27/index.html)  [JSON](2011/10/27/index.json)  [XML](201
 
 ## [2011-10-27](/news/2011/10/27/index.md)
 
-##### United Kingdom
+##### UK
 ### [Researchers in the United Kingdom use a pioneering gene therapy technique to treat sufferers of ocular defects such as retinal choroideremia. ](/news/2011/10/27/researchers-in-the-united-kingdom-use-a-pioneering-gene-therapy-technique-to-treat-sufferers-of-ocular-defects-such-as-retinal-choroideremia.md)
 Researchers in Oxford have treated a man with an advanced gene therapy technique to prevent him from losing his sight.
 

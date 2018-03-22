@@ -59,7 +59,7 @@ _Context: Baghdad, Iraqi army-police, Mortar_
 ### [India arrests a woman working at its embassy in the Pakistani capital of Islamabad on charges of espionage. ](/news/2010/04/27/india-arrests-a-woman-working-at-its-embassy-in-the-pakistani-capital-of-islamabad-on-charges-of-espionage.md)
 Madhuri Gupta, a second secretary in the Indian High Commission in Islamabad, has been arrested for passing on Indian state secrets to Pakistan for two years. 
 
-##### Norway
+##### Norwegian
 ### [Norway and Russia settle a 40-year-old conflict over their maritime border in the Barents Sea, announced during President Medvedev's state visit in Norway. ](/news/2010/04/27/norway-and-russia-settle-a-40-year-old-conflict-over-their-maritime-border-in-the-barents-sea-announced-during-president-medvedev-s-state-v.md)
 * Deal to divide Arctic region seen rich with oil and gas * Final deal due later in 2010, ending 4 decades of talks * Norway seeks to map
 

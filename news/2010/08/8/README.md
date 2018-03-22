@@ -41,7 +41,7 @@ _Context: Felipe Calderon, Mexican President_
 
 ##### Mordechai Vanunu
 ### [Mordechai Vanunu, who spoke about Israel's nuclear ambitions to "The Sunday Times" in 1986 and was referred to as a "prisoner of conscience" by Amnesty International after Israel imprisoned him for that action, is released from prison again after serving three months for meeting foreigners, including his Norwegian girlfriend, in 2007. He requests that he be allowed to leave Israel. ](/news/2010/08/8/mordechai-vanunu-who-spoke-about-israel-s-nuclear-ambitions-to-the-sunday-times-in-1986-and-was-referred-to-as-a-prisoner-of-conscience.md)
-_Context: Amnesty International, Israel, Mordechai Vanunu, Norway, The Sunday Times, prisoner of conscience_
+_Context: Amnesty International, Israel, Mordechai Vanunu, Norwegian, The Sunday Times, prisoner of conscience_
 
 ##### Afghan President
 ### [President of Afghanistan Hamid Karzai's senior adviser says the government has commenced talks with some Taliban leaders. ](/news/2010/08/8/president-of-afghanistan-hamid-karzai-s-senior-adviser-says-the-government-has-commenced-talks-with-some-taliban-leaders.md)
@@ -119,7 +119,7 @@ _Context: Anatolian Agency, Mardin Province, Syria, Turkish, Turkish Army_
 ### [Prime Minister of Israel Benjamin Netanyahu orders his attorney-general to find out who leaked embarrassing details about a feud among some of his generals, one of whom is trying to smear his rivals. ](/news/2010/08/8/prime-minister-of-israel-benjamin-netanyahu-orders-his-attorney-general-to-find-out-who-leaked-embarrassing-details-about-a-feud-among-some.md)
 _Context: Benjamin Netanyahu, Prime Minister, smear_
 
-##### U.S.
+##### United States
 ### [United States Representative Ron Klein calls for an investigation into American military aid to Lebanon to determine whether the Lebanese soldiers involved used American-supplied military equipment or received American-funded training. ](/news/2010/08/8/united-states-representative-ron-klein-calls-for-an-investigation-into-american-military-aid-to-lebanon-to-determine-whether-the-lebanese-so.md)
 Florida congressman Ron Klein calls for US to stop military support.
 

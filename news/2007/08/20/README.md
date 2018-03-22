@@ -3,9 +3,9 @@ Formats: [HTML](2007/08/20/index.html)  [JSON](2007/08/20/index.json)  [XML](200
 
 ## [2007-08-20](/news/2007/08/20/index.md)
 
-##### U.S.
+##### United States
 ### [ A summit between US president George W. Bush, Canadian prime minister Stephen Harper, Mexican president Felipe Caldern, and about 30 CEOs from the three countries begins in the resort town of Montebello, Quebec, near Ottawa. The talks will deal with the Security and Prosperity Partnership of North America. Protesters representing a variety of issues hold demonstrations regarding the exclusion of civil society from the talks and the secrecy of the process; police respond with tear gas. ](/news/2007/08/20/a-summit-between-us-president-george-w-bush-canadian-prime-minister-stephen-harper-mexican-president-felipe-calderon-and-about-30-ceos.md)
-_Context: Canada, Felipe Caldern, George W. Bush, Mexico, Montebello, Quebec, Ottawa, Protest, Security and Prosperity Partnership of North America, Stephen Harper, U.S., tear gas_
+_Context: Canada, Felipe Caldern, George W. Bush, Mexico, Montebello, Quebec, Ottawa, Protest, Security and Prosperity Partnership of North America, Stephen Harper, United States, tear gas_
 
 ##### Eye
 ### [ The eye of Hurricane Dean rapidly moves westward, passing just south of Jamaica, bringing strong hurricane-force winds and storm surges to bear down on the island nation, though the strongest wind is believed to have been offshore. ](/news/2007/08/20/the-eye-of-hurricane-dean-rapidly-moves-westward-passing-just-south-of-jamaica-bringing-strong-hurricane-force-winds-and-storm-surges-to.md)
@@ -23,9 +23,9 @@ _Context: Al Muthanna Governorate, Iraq, Mohammed Ali al-Hasani, Samawa, Shia_
 ### [ An earthquake of 5.2 magnitude hits northern Tanzania 85 kilometres north of Arusha. ](/news/2007/08/20/an-earthquake-of-5-2-magnitude-hits-northern-tanzania-85-kilometres-north-of-arusha.md)
 _Context: Arusha, Tanzania_
 
-##### United Kingdom
+##### UK
 ### [ British police have released CCTV footage of a motorcyclist shortly before his murder on the M40 motorway near Leamington Spa, Warwickshire. ](/news/2007/08/20/british-police-have-released-cctv-footage-of-a-motorcyclist-shortly-before-his-murder-on-the-m40-motorway-near-leamington-spa-warwickshire.md)
-_Context: CCTV, Leamington Spa, M40 motorway, United Kingdom, Warwickshire_
+_Context: CCTV, Leamington Spa, M40 motorway, UK, Warwickshire_
 
 ##### Atlanta Falcons
 ### [ Atlanta Falcons quarterback Michael Vick agrees to a plea deal to charges of conspiracy to travel in interstate commerce in aid of unlawful activities and conspiracy to sponsor a dog in an animal fighting venture in Richmond, Virginia, USA. ](/news/2007/08/20/atlanta-falcons-quarterback-michael-vick-agrees-to-a-plea-deal-to-charges-of-conspiracy-to-travel-in-interstate-commerce-in-aid-of-unlawful.md)

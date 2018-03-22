@@ -29,7 +29,7 @@ _Context: Alberta, Alberta Electric System Operator, Canada_
 
 ##### Oil
 ### [Oil and gas companies in Norway lock out workers as a result of an ongoing industrial dispute over pensions. ](/news/2012/07/9/oil-and-gas-companies-in-norway-lock-out-workers-as-a-result-of-an-ongoing-industrial-dispute-over-pensions.md)
-_Context: Norway, Oil, gas, industrial dispute, lock out_
+_Context: Norwegian, Oil, gas, industrial dispute, lock out_
 
 ##### Internet
 ### [Thousands of computer users around the world lose Internet access as a result of the expiration of a Federal Bureau of Investigation temporary fix to the Internet Doomsday virus. ](/news/2012/07/9/thousands-of-computer-users-around-the-world-lose-internet-access-as-a-result-of-the-expiration-of-a-federal-bureau-of-investigation-tempora.md)

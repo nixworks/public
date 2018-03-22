@@ -5,7 +5,7 @@ Formats: [HTML](2009/02/2/index.html)  [JSON](2009/02/2/index.json)  [XML](2009/
 
 ##### Wildcat strikes
 ### [ Wildcat strikes spread across the United Kingdom. ](/news/2009/02/2/wildcat-strikes-spread-across-the-united-kingdom.md)
-_Context: United Kingdom, Wildcat strikes, spread_
+_Context: UK, Wildcat strikes, spread_
 
 ##### Israel
 ### [ The Israel Defense Forces bomb the Gaza Strip in response to Palestinian rocket and mortar fire. ](/news/2009/02/2/the-israel-defense-forces-bomb-the-gaza-strip-in-response-to-palestinian-rocket-and-mortar-fire.md)
@@ -35,13 +35,13 @@ _Context: China, Premier, University of Cambridge, Wen Jiabao, human rights, thr
 ### [ Muammar al-Gaddafi is elected Chairman of the African Union. ](/news/2009/02/2/muammar-al-gaddafi-is-elected-chairman-of-the-african-union.md)
 _Context: African Union, Chairman, Muammar al-Gaddafi_
 
-##### U.S.
+##### United States
 ### [ U.S. department store Macy's announces it will cut 7,000 jobs. ](/news/2009/02/2/u-s-department-store-macy-s-announces-it-will-cut-7-000-jobs.md)
-_Context: Macy's, U.S., cut, department store_
+_Context: Macy's, United States, cut, department store_
 
-##### U.S.
+##### United States
 ### [ The United States Senate confirms Eric Holder as Attorney General. ](/news/2009/02/2/the-united-states-senate-confirms-eric-holder-as-attorney-general.md)
-_Context: Eric Holder, U.S., U.S. Attorney General, United States Senate_
+_Context: Eric Holder, U.S. Attorney General, United States, United States Senate_
 
 ## [Previous Day...](/news/2009/02/1/index.md)
 

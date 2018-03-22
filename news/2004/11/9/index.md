@@ -25,11 +25,11 @@ _Context: Association of International Educators_
 
 ##### Euro
 ### [ The euro reaches a new record high against the United States dollar, valued at more than $1.30. Concerns over the U.S. trade deficit, the $427 billion budget deficit and $166 billion current account deficit are thought to be behind the dollar's recent losses. ](/news/2004/11/9/the-euro-reaches-a-new-record-high-against-the-united-states-dollar-valued-at-more-than-1-30-concerns-over-the-u-s-trade-deficit-the.md)
-_Context: $, budget deficit, euro, trade deficit_
+_Context: US$, budget deficit, euro, trade deficit_
 
 ##### First Minister
 ### [ The First Minister of Scotland, Jack McConnell, announces to the Scottish Parliament that the Executive intends to introduce a law to prohibit smoking in all public enclosed spaces in Scotland. Both of the ruling coalition parties, as well as the main opposition party, the SNP, are in favour and the move is likely to come into effect in spring 2006. ](/news/2004/11/9/the-first-minister-of-scotland-jack-mcconnell-announces-to-the-scottish-parliament-that-the-executive-intends-to-introduce-a-law-to-prohi.md)
-_Context: First Minister, Jack McConnell, Scotland, Scottish National Party, Scottish Parliament, banning_
+_Context: First Minister, Jack McConnell, Scottish, Scottish National Party, Scottish Parliament, banning_
 
 ##### Iraq
 ### [ Three relatives of Iraqi Prime Minister Iyad Allawi have been kidnapped. The kidnappers have demanded that the siege on Fallujah be lifted, or the hostages will be killed. ](/news/2004/11/9/three-relatives-of-iraqi-prime-minister-iyad-allawi-have-been-kidnapped-the-kidnappers-have-demanded-that-the-siege-on-fallujah-be-lifted.md)

@@ -21,7 +21,7 @@ Mohammad Khatami, the former Iranian president, has attacked the &quot;show tria
 
 ##### Oil spill
 ### [ A large oil spill occurs in Langesund, Norway, after a Chinese ship, the "Full City", drifted aground. ](/news/2009/08/2/a-large-oil-spill-occurs-in-langesund-norway-after-a-chinese-ship-the-full-city-drifted-aground.md)
-_Context: Langesund, Norway, oil spill_
+_Context: Langesund, Norwegian, oil spill_
 
 ##### British Columbia
 ### [ Around 2700 people are evacuated as 530 forest fires burn in British Columbia, Canada. ](/news/2009/08/2/around-2700-people-are-evacuated-as-530-forest-fires-burn-in-british-columbia-canada.md)

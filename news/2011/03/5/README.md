@@ -19,7 +19,7 @@ Saudi Arabia bans all protests and marches in the country and warns police will 
 ### [Two government ministers in Oman are replaced amid ongoing demonstrations in the country. ](/news/2011/03/5/two-government-ministers-in-oman-are-replaced-amid-ongoing-demonstrations-in-the-country.md)
 _Context: Oman, anti-government protests_
 
-##### U.S.
+##### United States
 ### [United States aid worker Alan Gross has been found guilty of crimes against the state of Cuba supposedly for setting up illegal Internet connections. ](/news/2011/03/5/united-states-aid-worker-alan-gross-has-been-found-guilty-of-crimes-against-the-state-of-cuba-supposedly-for-setting-up-illegal-internet-con.md)
 The trial of US aid worker Alan Gross for crimes against the state in Cuba ends, with the verdict yet to be formally announced.
 

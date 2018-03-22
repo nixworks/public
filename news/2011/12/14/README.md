@@ -23,9 +23,9 @@ _Context: 2011 Lige attack, Police_
 ### [Taiwan is to reduce the length of compulsory military service from one year to four months. ](/news/2011/12/14/taiwan-is-to-reduce-the-length-of-compulsory-military-service-from-one-year-to-four-months.md)
 _Context: Taiwan, conscription_
 
-##### U.S.
+##### United States
 ### [The governments of the United States, Australia, New Zealand and the Netherlands protest the start of Japan's whaling season off the coast of Antarctica. ](/news/2011/12/14/the-governments-of-the-united-states-australia-new-zealand-and-the-netherlands-protest-the-start-of-japan-s-whaling-season-off-the-coast-o.md)
-_Context: Antarctica, Australia, Dutch, Japan, New Zealand, U.S., whaling_
+_Context: Antarctica, Australia, Dutch, Japan, New Zealand, United States, whaling_
 
 ##### Alcohol
 ### [Toxic illegal alcohol kills 166 people in West Bengal, India. ](/news/2011/12/14/toxic-illegal-alcohol-kills-166-people-in-west-bengal-india.md)
@@ -35,7 +35,7 @@ South 24 Parganas officials fear death toll could rise further
 ### [A state of emergency is declared in the Nelson region of New Zealand due to heavy floods. ](/news/2011/12/14/a-state-of-emergency-is-declared-in-the-nelson-region-of-new-zealand-due-to-heavy-floods.md)
 A state of emergency has been declared in the Nelson region due to heavy flooding. - New Zealand Herald
 
-##### United Kingdom
+##### UK
 ### [United Kingdom unemployment rises to 2.64m. ](/news/2011/12/14/united-kingdom-unemployment-rises-to-2-64m.md)
 UK unemployment rose by 128,000 in the three months to October to 2.64 million, as youth unemployment hits a new record high.
 

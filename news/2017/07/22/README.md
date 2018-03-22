@@ -31,7 +31,7 @@ Kislyak emerged as a central figure in investigations into possible collusion be
 ### [Aftershocks cause panic in the Greek island of Kos after a deadly earthquake that injured hundreds. ](/news/2017/07/22/aftershocks-cause-panic-in-the-greek-island-of-kos-after-a-deadly-earthquake-that-injured-hundreds.md)
 Two strong aftershocks have struck the Greek island of Kos within minutes of each other, sending startled residents and tourists scurrying away from homes and restaurants. A tremor measuring a preliminary 4.4 magnitude struck at 8.09pm local time (6.09on BST), sending restaurant customers scurrying ...
 
-##### United Kingdom
+##### UK
 ### [A United Kingdom court blocks a GBP14 billion class action lawsuit against MasterCard. ](/news/2017/07/22/a-united-kingdom-court-blocks-a-agbp14-billion-class-action-lawsuit-against-mastercard.md)
 Fledgling competition tribunal refuses to allow claim relating to 16 years of alleged overcharging to proceed
 

@@ -53,9 +53,9 @@ Several senior US lawmakers allege that intelligence leaker Edward Snowden may h
 
 ##### Iran
 ### [Certain sanctions against Iran are lifted by the European Union and the United States through a nuclear deal. ](/news/2014/01/20/certain-sanctions-against-iran-are-lifted-by-the-european-union-and-the-united-states-through-a-nuclear-deal.md)
-_Context: European Union, Iran, U.S._
+_Context: European Union, Iran, United States_
 
-##### U.S.
+##### United States
 ### [The United States rejects the invitation of Iran by the United Nations in peace talks involving Syria. ](/news/2014/01/20/the-united-states-rejects-the-invitation-of-iran-by-the-united-nations-in-peace-talks-involving-syria.md)
 Under pressure from the United States, Ban Ki-moon, the United Nations secretary general, rescinded Iran’s invitation to the meeting a day after he offered it.
 
@@ -71,9 +71,9 @@ Heavy rains are forecast this week, potentially worsening floods which have kill
 ### [A 6.2 magnitude earthquake occurs on the lower North Island of New Zealand near the capital Wellington. ](/news/2014/01/20/a-6-2-magnitude-earthquake-occurs-on-the-lower-north-island-of-new-zealand-near-the-capital-wellington.md)
 Do you have any photos or video? Contact the Herald here . - New Zealand Herald
 
-##### China
+##### Chinese
 ### [China's 2013 economy figures show the slowest rate of growth since 1999. However, the 7.8% growth figure was higher than the predicted number of 7.5%. ](/news/2014/01/20/china-s-2013-economy-figures-show-the-slowest-rate-of-growth-since-1999-however-the-7-8-growth-figure-was-higher-than-the-predicted-numbe.md)
-_Context: China_
+_Context: Chinese_
 
 ##### Davos
 ### [World leaders are meeting in Davos, Switzerland, for the World Economic Forum. ](/news/2014/01/20/world-leaders-are-meeting-in-davos-switzerland-for-the-world-economic-forum.md)
@@ -91,7 +91,7 @@ Credit card details from almost half of all South Koreans have been stolen and s
 ### [Two car bombs hit a rebel-held post on the Syrian border with Turkey, killing at least 16 people amidst continuing fighting between Turkey-supported rebels and Saudi-supported rebels. ](/news/2014/01/20/two-car-bombs-hit-a-rebel-held-post-on-the-syrian-border-with-turkey-killing-at-least-16-people-amidst-continuing-fighting-between-turkey-s.md)
 Two car bombs hit a rebel-held post on the Syrian border with Turkey on Monday, killing at least 16 people and closing the frontier, opposition activists and fighters said.
 
-##### United Kingdom
+##### UK
 ### [The United Kingdom rejects its involvement in combat drone attacks by the United States in Pakistan. ](/news/2014/01/20/the-united-kingdom-rejects-its-involvement-in-combat-drone-attacks-by-the-united-states-in-pakistan.md)
 Judges reject a legal challenge against the UK government by the son of a man killed in Pakistan by a US drone.
 

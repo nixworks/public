@@ -13,7 +13,7 @@ _Context: Israel, Lebanese_
 
 ##### 2008 Chinese winter storms
 ### [ As snowstorms continue to worsen in China, Premier Wen Jiabao offers an apology to the public while visiting Changsha train station in Hunan as millions are stranded in train stations waiting to go home during Chinese New Year. ](/news/2008/01/30/as-snowstorms-continue-to-worsen-in-china-premier-wen-jiabao-offers-an-apology-to-the-public-while-visiting-changsha-train-station-in-huna.md)
-_Context: 2008 Chinese winter storms, Changsha, China, Chinese New Year, Hunan, Wen Jiabao, stranded in train stations_
+_Context: 2008 Chinese winter storms, Changsha, Chinese, Chinese New Year, Hunan, Wen Jiabao, stranded in train stations_
 
 ##### North Carolina
 ### [ Former North Carolina Senator John Edwards withdraws his candidacy. ](/news/2008/01/30/former-north-carolina-senator-john-edwards-withdraws-his-candidacy.md)
@@ -23,7 +23,7 @@ Rudolph W. Giuliani endorsed Senator John McCain for the Republican nomination. 
 ### [ The Government of Australia announces that it will apologize to the "stolen generation" of indigenous Australians in the Parliament of Australia on February 13. ](/news/2008/01/30/the-government-of-australia-announces-that-it-will-apologize-to-the-stolen-generation-of-indigenous-australians-in-the-parliament-of-aust.md)
 _Context: Australia, February 13, Parliament of Australia, indigenous Australians, stolen generation_
 
-##### U.S.
+##### United States
 ### [ The United States Federal Reserve cuts the federal funds rate by half a point to 3 per cent, the second cut in this key interest rate in eight days as it acts to head off a recession. ](/news/2008/01/30/the-united-states-federal-reserve-cuts-the-federal-funds-rate-by-half-a-point-to-3-per-cent-the-second-cut-in-this-key-interest-rate-in-ei.md)
 In lowering its benchmark rate by a half-point to 3 percent, the Fed said that it was worried mainly about an economic slowdown, not rising inflation. 
 

@@ -29,7 +29,7 @@ _Context: Ban Ki-Moon, United Nations, United Nations Secretary-General, climate
 
 ##### President
 ### [ The President of Iran Mahmoud Ahmadinejad speaks at Columbia University stating that Americans should look into "who was truly involved" in the September 11, 2001 attacks, defending his right to denial of the Holocaust, and denying the existence of gay Iranians. ](/news/2007/09/24/the-president-of-iran-mahmoud-ahmadinejad-speaks-at-columbia-university-stating-that-americans-should-look-into-who-was-truly-involved-in.md)
-_Context: Columbia University, Holocaust, Mahmoud Ahmadinejad, President, September 11, 2001 attacks, U.S., gay Iran_
+_Context: Columbia University, Holocaust, Mahmoud Ahmadinejad, President, September 11, 2001 attacks, United States, gay Iran_
 
 ##### Menachem Mazuz
 ### [ Menachem Mazuz, the Attorney General of Israel, orders a criminal investigation into the purchase of a house by the Prime Minister of Israel Ehud Olmert. ](/news/2007/09/24/menachem-mazuz-the-attorney-general-of-israel-orders-a-criminal-investigation-into-the-purchase-of-a-house-by-the-prime-minister-of-israe.md)

@@ -15,7 +15,7 @@ It ploughed into a subway entrance, leaving at least four people dead, Russian m
 ### [At least 19 people are killed and 25 others injured in a jeepney-bus collision in La Union, Philippines. ](/news/2017/12/25/at-least-19-people-are-killed-and-25-others-injured-in-a-jeepney-bus-collision-in-la-union-philippines.md)
 _Context: La Union, jeepney_
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [More than 70 civilians are believed to have been killed in two-days of airstrikes by the Royal Saudi Air Force targeting Houthi forces. ](/news/2017/12/25/more-than-70-civilians-are-believed-to-have-been-killed-in-two-days-of-airstrikes-by-the-royal-saudi-air-force-targeting-houthi-forces.md)
 Local media say three children and two women among 71 victims of blitz targeting Houthi rebels across the country.
 

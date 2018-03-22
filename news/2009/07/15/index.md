@@ -37,7 +37,7 @@ _Context: Algeria, China, Uyghur_
 
 ##### China
 ### [ China's foreign exchange reserves have reached a record of US$ 2.13 trillion, which is more than twice the size of Japan's&mdash;the second-biggest holder. ](/news/2009/07/15/china-s-foreign-exchange-reserves-have-reached-a-record-of-us-2-13-trillion-which-is-more-than-twice-the-size-of-japan-s-mdash-the-second.md)
-_Context: $, China, Japan, foreign exchange reserves_
+_Context: China, Japan, US$, foreign exchange reserves_
 
 ##### Magnitude
 ### [ A 7.6-magnitude earthquake strikes off South Island, New Zealand, generating brief fears of a small tsunami. ](/news/2009/07/15/a-7-6-magnitude-earthquake-strikes-off-south-island-new-zealand-generating-brief-fears-of-a-small-tsunami.md)

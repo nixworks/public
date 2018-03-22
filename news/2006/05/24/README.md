@@ -5,7 +5,7 @@ Formats: [HTML](2006/05/24/index.html)  [JSON](2006/05/24/index.json)  [XML](200
 
 ##### Mexican President
 ### [ President of Mexico Vicente Fox begins a tour of the United States in Salt Lake City by criticizing a proposed border wall. This comes amid the U.S. Senate passing a sweeping immigration bill. ](/news/2006/05/24/president-of-mexico-vicente-fox-begins-a-tour-of-the-united-states-in-salt-lake-city-by-criticizing-a-proposed-border-wall-this-comes-amid.md)
-_Context: Mexican President, Salt Lake City, U.S., Vicente Fox, illegal worker_
+_Context: Mexican President, Salt Lake City, United States, Vicente Fox, illegal worker_
 
 ##### Atatrk International Airport
 ### [ A large fire breaks out at the cargo terminal of Atatrk International Airport in Istanbul, Turkey, forcing the suspension of air traffic. ](/news/2006/05/24/a-large-fire-breaks-out-at-the-cargo-terminal-of-ataturk-international-airport-in-istanbul-turkey-forcing-the-suspension-of-air-traffic.md)
@@ -31,9 +31,9 @@ Get up to the minute breaking political news and in-depth analysis on ABCNews.co
 ### [ The World Health Organization is investigating several bird flu deaths for a possible person-to-person transmission chain. ](/news/2006/05/24/the-world-health-organization-is-investigating-several-bird-flu-deaths-for-a-possible-person-to-person-transmission-chain.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-##### United Kingdom
+##### UK
 ### [ The United Kingdom government announces plans to overhaul the pension system ](/news/2006/05/24/the-united-kingdom-government-announces-plans-to-overhaul-the-pension-system.md)
-_Context: Labour Party, United Kingdom, pension_
+_Context: Labour Party, UK, pension_
 
 ## [Previous Day...](/news/2006/05/23/index.md)
 

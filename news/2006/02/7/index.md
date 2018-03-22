@@ -15,9 +15,9 @@ _Context: Abu Hamza al-Masri, Old Bailey, incitement to racial hatred_
 ### [ Japan urges North Korea to return to six-party talks on its nuclear program and halt missile development, but a Japanese official said Pyongyang insists that Washington drop sanctions first. ](/news/2006/02/7/japan-urges-north-korea-to-return-to-six-party-talks-on-its-nuclear-program-and-halt-missile-development-but-a-japanese-official-said-pyon.md)
 _Context: North Korea, missile, six-party talks_
 
-##### Scotland
+##### Scottish
 ### [ Scotland is to follow England into implementing the controversial UK National DNA Database of those arrested, but acquitted or released without charges. ](/news/2006/02/7/scotland-is-to-follow-england-into-implementing-the-controversial-uk-national-dna-database-of-those-arrested-but-acquitted-or-released-wit.md)
-_Context: Scotland, UK National DNA Database_
+_Context: Scottish, UK National DNA Database_
 
 ##### Mounir El Motassadeq
 ### [ Mounir El Motassadeq, a member of the Hamburg cell led by Mohamed Atta, is ordered an early release by the Federal Constitutional Court of Germany. The Berlin court rules there is an absence of proof in the government's case that Motassadeq was informed about the 9-11 terrorist plot. ](/news/2006/02/7/mounir-el-motassadeq-a-member-of-the-hamburg-cell-led-by-mohamed-atta-is-ordered-an-early-release-by-the-federal-constitutional-court-of.md)

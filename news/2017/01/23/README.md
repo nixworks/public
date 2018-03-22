@@ -17,7 +17,7 @@ Stolen artworks, cultural items and archaeological items recovered in a European
 
 ##### 2016-2017 Gambian constitutional crisis
 ### [According to an advisor to Gambian President Adama Barrow, more than 500 million dalasi, equivalent to US$11.3 million, are reported missing from state coffers after former President Yahya Jammeh left the country in exile. ](/news/2017/01/23/according-to-an-advisor-to-gambian-president-adama-barrow-more-than-500-million-dalasi-equivalent-to-us-11-3-million-are-reported-missing.md)
-_Context: $, 2016-2017 Gambian constitutional crisis, Adama Barrow, President, Yahya Jammeh, dalasi_
+_Context: 2016-2017 Gambian constitutional crisis, Adama Barrow, President, US$, Yahya Jammeh, dalasi_
 
 ##### John D. Bates
 ### [John D. Bates, United States federal judge for the United States District Court for the District of Columbia, blocks a proposed merger by health insurance companies Aetna and Humana. ](/news/2017/01/23/john-d-bates-united-states-federal-judge-for-the-united-states-district-court-for-the-district-of-columbia-blocks-a-proposed-merger-by-he.md)

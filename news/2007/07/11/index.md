@@ -5,7 +5,7 @@ Formats: [HTML](2007/07/11/index.html)  [JSON](2007/07/11/index.json)  [XML](200
 
 ##### Chile
 ### [ A Chilean court rejects the extradition of former Peruvian President Alberto Fujimori. ](/news/2007/07/11/a-chilean-court-rejects-the-extradition-of-former-peruvian-president-alberto-fujimori.md)
-_Context: Alberto Fujimori, Chile, Peru, President, extradition_
+_Context: Alberto Fujimori, Chile, Peru, Peruvian President, extradition_
 
 ##### China
 ### [ The People's Republic of China bans diethylene glycol as an ingredient in toothpaste. ](/news/2007/07/11/the-people-s-republic-of-china-bans-diethylene-glycol-as-an-ingredient-in-toothpaste.md)

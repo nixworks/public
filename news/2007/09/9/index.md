@@ -9,7 +9,7 @@ The APEC summit in Sydney is drawing to a conclusion, with leaders working on th
 
 ##### Tropical Storm Gabrielle
 ### [ Tropical Storm Gabrielle makes landfall near the Cape Lookout National Seashore in North Carolina, United States, and hooks over Cape Hatteras before returning to the Atlantic as a tropical depression, bringing much-needed rain to coastal North Carolina as well as some beach erosion. ](/news/2007/09/9/tropical-storm-gabrielle-makes-landfall-near-the-cape-lookout-national-seashore-in-north-carolina-united-states-and-hooks-over-cape-hatte.md)
-_Context: Cape Hatteras, Cape Lookout National Seashore, North Carolina, Tropical Storm Gabrielle, U.S., beach erosion_
+_Context: Cape Hatteras, Cape Lookout National Seashore, North Carolina, Tropical Storm Gabrielle, United States, beach erosion_
 
 ##### Pakistan
 ### [ Pakistan's airports are placed on the highest alert due to concerns over an imminent terrorist threat. ](/news/2007/09/9/pakistan-s-airports-are-placed-on-the-highest-alert-due-to-concerns-over-an-imminent-terrorist-threat.md)

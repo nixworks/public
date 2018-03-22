@@ -5,7 +5,7 @@ Formats: [HTML](2005/12/15/index.html)  [JSON](2005/12/15/index.json)  [XML](200
 
 ##### Bradley John Murdoch
 ### [ Bradley John Murdoch, convicted murderer of British backpacker Peter Falconio, is sentenced to a non-parole period of 28 years in prison in Australia. ](/news/2005/12/15/bradley-john-murdoch-convicted-murderer-of-british-backpacker-peter-falconio-is-sentenced-to-a-non-parole-period-of-28-years-in-prison-in.md)
-_Context: Australia, Bradley John Murdoch, Peter Falconio, United Kingdom, backpacker, convicted, murderer, prison_
+_Context: Australia, Bradley John Murdoch, Peter Falconio, UK, backpacker, convicted, murderer, prison_
 
 ##### Marwan Barghouti
 ### [ Marwan Barghouti launches a new party called al-Mustaqbal ("The Future"), splitting from the Fatah movement in the Palestinian National Authority. ](/news/2005/12/15/marwan-barghouti-launches-a-new-party-called-al-mustaqbal-the-future-splitting-from-the-fatah-movement-in-the-palestinian-national-aut.md)

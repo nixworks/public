@@ -7,7 +7,7 @@ Formats: [HTML](2007/07/23/index.html)  [JSON](2007/07/23/index.json)  [XML](200
 ### [ Comedian Drew Carey will replace Bob Barker as host of "The Price Is Right". ](/news/2007/07/23/comedian-drew-carey-will-replace-bob-barker-as-host-of-the-price-is-right.md)
 _Context: Bob Barker, Drew Carey, The Price Is Right_
 
-##### China
+##### Chinese
 ### [ Storms continue in China with floods and landslides with 150 deaths occurring last week in the country due to storms. ](/news/2007/07/23/storms-continue-in-china-with-floods-and-landslides-with-150-deaths-occurring-last-week-in-the-country-due-to-storms.md)
 Storms are expected to batter large swathes of China again on Monday after floods, landslides and lightning killed more than 150 people last week alone, state media said.
 
@@ -39,13 +39,13 @@ _Context: 2008, Charleston, South Carolina, Democrat, YouTube_
 ### [ A wave of car bombings kills at least 17 people in Baghdad. ](/news/2007/07/23/a-wave-of-car-bombings-kills-at-least-17-people-in-baghdad.md)
 The United States accused Iran in talks on Tuesday of increasing support for militias involved in bloodshed in Iraq but, in a rare sign of cooperation, agreed with Tehran to set up a panel to improve security.
 
-##### U.S.
+##### United States
 ### [ The United States arrests Zhenli Ye Gon, a Mexican citizen accused of making large amounts of crystal meth in a laboratory. ](/news/2007/07/23/the-united-states-arrests-zhenli-ye-gon-a-mexican-citizen-accused-of-making-large-amounts-of-crystal-meth-in-a-laboratory.md)
 The United States arrested on Monday a Mexican laboratory owner accused of helping make huge quantities of crystal meth, four months after police found $206 million cash in his Mexico City mansion.
 
-##### United Kingdom
+##### UK
 ### [ The British MP George Galloway is thrown out of the House of Commons chamber and then suspended for 18 days after an inquiry into his Mariam Appeal campaign. ](/news/2007/07/23/the-british-mp-george-galloway-is-thrown-out-of-the-house-of-commons-chamber-and-then-suspended-for-18-days-after-an-inquiry-into-his-maria.md)
-_Context: British House of Commons, George Galloway, Mariam Appeal, United Kingdom_
+_Context: British House of Commons, George Galloway, Mariam Appeal, UK_
 
 ## [Previous Day...](/news/2007/07/22/index.md)
 

@@ -17,7 +17,7 @@ _Context: Madison Police Department_
 
 ##### Shahjalal International Airport
 ### [Customs officers at the Shahjalal International Airport catch Son Young Nam, a North Korean diplomat trying to smuggle an estimated $1.4 million worth of gold into Bangladesh. Bangladesh authorities release him but will still seek to press charges. ](/news/2015/03/6/customs-officers-at-the-shahjalal-international-airport-catch-son-young-nam-a-north-korean-diplomat-trying-to-smuggle-an-estimated-1-4-mil.md)
-_Context: $, Bangladesh, North Korea, Shahjalal International Airport_
+_Context: Bangladesh, North Korea, Shahjalal International Airport, US$_
 
 ##### CIA
 ### [Central Intelligence Agency (CIA) Director John O. Brennan announces plans for a major restructuring and reorganization, including a focus on digital espionage (through the creation of the CIA Directorate of Digital Innovation). The plan will end some longstanding divisions, and create ten new centers that team analysts with operators, fostering collaboration and focus on a range of new security issues and threats, and replacing geographic division offices with hybrid mission centers modeled on the CIA Counterterrorism Center. ](/news/2015/03/6/central-intelligence-agency-cia-director-john-o-brennan-announces-plans-for-a-major-restructuring-and-reorganization-including-a-focus-o.md)
@@ -51,13 +51,13 @@ The step is a reminder of the soaring valuations among consumer-driven technolog
 ### [The U.S. Justice Department charges two Vietnamese citizens (Quoc Nguyen and Giang Hoang Vu) and a Canadian (David-Manuel Santos Da Silva) with running a massive cyberfraud ring that stole one billion email addresses, then sent spam offering knockoff software products of Adobe Systems Inc with the hacking having occurred between February 2009 and June 2012. The victim breaches include a massive 2011 attack on email marketing firm Epsilon, a unit of Alliance Data Systems Corp. Although the other two are in custody, Nguyen remains at large. The charge against Da Silva is conspiracy to commit money laundering. ](/news/2015/03/6/the-u-s-justice-department-charges-two-vietnamese-citizens-quoc-nguyen-and-giang-hoang-vu-and-a-canadian-david-manuel-santos-da-silva-w.md)
 Two Vietnamese citizens and a Canadian have been charged with running a massive cyberfraud ring that stole 1 billion email addresses, then sent spam offering knockoff software products, the U.S. Department of Justice said on Friday.
 
-##### United Kingdom
+##### UK
 ### [The United Kingdom's National Crime Agency arrests a man as a suspected hacker in western England in connection with a June 15, 2014 cyber attack on the messaging service used by employees at the U.S. Department of Defense. ](/news/2015/03/6/the-united-kingdom-s-national-crime-agency-arrests-a-man-as-a-suspected-hacker-in-western-england-in-connection-with-a-june-15-2014-cyber-a.md)
 British police arrested a 23-year-old man suspected of hacking into a U.S. Department of Defense internal communication system.
 
-##### China
+##### Chinese
 ### [At least two knife-wielding attackers injure nine people at a train station in southern China; the police fatally shoot one of the suspects. ](/news/2015/03/6/at-least-two-knife-wielding-attackers-injure-nine-people-at-a-train-station-in-southern-china-the-police-fatally-shoot-one-of-the-suspects.md)
-_Context: China_
+_Context: Chinese_
 
 ## [Previous Day...](/news/2015/03/5/index.md)
 

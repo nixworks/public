@@ -27,7 +27,7 @@ The Zika virus is likely to spread across nearly all of the Americas, the World 
 ### [A MiG-31 fighter jet crashes in the Krasnoyarsk Krai region in Siberia, Russia. The pilots were able to eject safely, according to the Russian Defence Ministry. ](/news/2016/01/25/a-mig-31-fighter-jet-crashes-in-the-krasnoyarsk-krai-region-in-siberia-russia-the-pilots-were-able-to-eject-safely-according-to-the-russi.md)
 A Russian MiG-31 fighter jet has crashed in the Krasnoyarsk region in Siberia, according to the Russian Defense Ministry. The pilots were able to eject safely and no casualties have been reported.
 
-##### United Kingdom
+##### UK
 ### [British explorer Henry Worsley dies at the age of 55 while attempting to be the first person to cross Antarctica unaided. ](/news/2016/01/25/british-explorer-henry-worsley-dies-at-the-age-of-55-while-attempting-to-be-the-first-person-to-cross-antarctica-unaided.md)
 Explorer Henry Worsley dies during a solo attempt to cross Antarctica and complete the unfinished journey of his hero Sir Ernest Shackleton.
 
@@ -37,7 +37,7 @@ _Context: Eastern U.S., January 2016 United States blizzard_
 
 ##### January 2016 East Asia cold wave
 ### [At least eighty-five people are killed in Taiwan and tens of thousands stranded in airports as an unprecedented cold snap hits several Asian countries including China and South Korea. ](/news/2016/01/25/at-least-eighty-five-people-are-killed-in-taiwan-and-tens-of-thousands-stranded-in-airports-as-an-unprecedented-cold-snap-hits-several-asian.md)
-_Context: Asia, China, January 2016 East Asia cold wave, South Korea, Taiwan_
+_Context: Asia, Chinese, January 2016 East Asia cold wave, South Korea, Taiwan_
 
 ##### Parks system
 ### [Officials from the New York State parks system have proposed to temporarily "shut off" the American portion of Niagara Falls (also known as "American Falls") within three years. The shut off will allow the replacement of two 115-year-old pedestrian stone bridges that are unsafe for the public. ](/news/2016/01/25/officials-from-the-new-york-state-parks-system-have-proposed-to-temporarily-shut-off-the-american-portion-of-niagara-falls-also-known-as.md)

@@ -11,7 +11,7 @@ _Context: Russian, Vladimir Yevtushenkov, money laundering_
 ### [Lawmakers from Ukraine ratify a landmark agreement with the European Union in tandem with a meeting of the European Parliament. ](/news/2014/09/16/lawmakers-from-ukraine-ratify-a-landmark-agreement-with-the-european-union-in-tandem-with-a-meeting-of-the-european-parliament.md)
 Ukrainian MPs and the European Parliament are set to ratify a key EU association pact criticised by Russia.
 
-##### U.S.
+##### United States
 ### [The United States will send thousands of troops to West Africa to build Ebola virus clinics and train health workers. ](/news/2014/09/16/the-united-states-will-send-thousands-of-troops-to-west-africa-to-build-ebola-virus-clinics-and-train-health-workers.md)
 The United States will send thousands of troops to respond to the Ebola outbreak in West Africa by building clinics and training hundreds of healthcare workers, US President Barack Obama announced on
 

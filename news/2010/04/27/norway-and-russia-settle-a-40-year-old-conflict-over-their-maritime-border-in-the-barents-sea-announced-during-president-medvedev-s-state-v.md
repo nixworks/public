@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/27/norway-and-russia-settle-a-40-year-old-conflict
 
 ### [2010-04-27](/news/2010/04/27/index.md)
 
-##### Norway
+##### Norwegian
 # Norway and Russia settle a 40-year-old conflict over their maritime border in the Barents Sea, announced during President Medvedev's state visit in Norway. 
 
 * Deal to divide Arctic region seen rich with oil and gas * Final deal due later in 2010, ending 4 decades of talks * Norway seeks to map

@@ -3,9 +3,9 @@ Formats: [HTML](2009/01/30/index.html)  [JSON](2009/01/30/index.json)  [XML](200
 
 ## [2009-01-30](/news/2009/01/30/index.md)
 
-##### Norway
+##### Norwegian
 ### [ Norway announces it will raise the German submarine "U-864" from the North Sea. ](/news/2009/01/30/norway-announces-it-will-raise-the-german-submarine-u-864-from-the-north-sea.md)
-_Context: Nazi, North Sea, Norway, U-864, submarine_
+_Context: Nazi, North Sea, Norwegian, U-864, submarine_
 
 ##### Nakumatt
 ### [ Thirteen people are killed and 47 people are missing after a Nakumatt supermarket burns in Nairobi, Kenya. ](/news/2009/01/30/thirteen-people-are-killed-and-47-people-are-missing-after-a-nakumatt-supermarket-burns-in-nairobi-kenya.md)
@@ -13,7 +13,7 @@ _Context: Kenya, Nairobi, Nakumatt, burns_
 
 ##### Strike
 ### [ More than one thousand workers strike at four different United Kingdom oil refineries. ](/news/2009/01/30/more-than-one-thousand-workers-strike-at-four-different-united-kingdom-oil-refineries.md)
-_Context: United Kingdom, refinery, strike_
+_Context: UK, refinery, strike_
 
 ##### Heat wave
 ### [ A heat wave affects southeastern Australia, with both Adelaide and Melbourne experiencing temperatures above 45 C. ](/news/2009/01/30/a-heat-wave-affects-southeastern-australia-with-both-adelaide-and-melbourne-experiencing-temperatures-above-45-c.md)
@@ -29,11 +29,11 @@ _Context: Al-Shabaab, Baidoa, Somalia, Transitional Federal Government_
 
 ##### Michael S. Steele
 ### [ Michael S. Steele becomes the U.S. Republican National Committee's first African-American chairman. ](/news/2009/01/30/michael-s-steele-becomes-the-u-s-republican-national-committee-s-first-african-american-chairman.md)
-_Context: African-American, Michael S. Steele, Republican National Committee, U.S., chairman, first_
+_Context: African-American, Michael S. Steele, Republican National Committee, United States, chairman, first_
 
-##### U.S.
+##### United States
 ### [ The U.S. State Department will not renew security contractor Blackwater Worldwide's license when it expires in May 2009. ](/news/2009/01/30/the-u-s-state-department-will-not-renew-security-contractor-blackwater-worldwide-s-license-when-it-expires-in-may-2009.md)
-_Context: Blackwater Worldwide, State Department, U.S., civilian contractor_
+_Context: Blackwater Worldwide, State Department, United States, civilian contractor_
 
 ##### Piper PA-34 Seneca
 ### [ Six people are killed when a Piper PA-34 Seneca crashes near Huntington, West Virginia, United States. ](/news/2009/01/30/six-people-are-killed-when-a-piper-pa-34-seneca-crashes-near-huntington-west-virginia-united-states.md)

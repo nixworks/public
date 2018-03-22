@@ -37,7 +37,7 @@ _Context: Ban Ki-moon, Cypriot, Cyprus dispute, United Nations, United Nations S
 
 ##### Secretary of State
 ### [US Secretary of State Hillary Clinton presses China to back Iran sanctions for its nuclear program. ](/news/2010/02/1/us-secretary-of-state-hillary-clinton-presses-china-to-back-iran-sanctions-for-its-nuclear-program.md)
-_Context: China, Hillary Clinton, Iran, Secretary of State, nuclear program_
+_Context: Chinese, Hillary Clinton, Iran, Secretary of State, nuclear program_
 
 ##### Barack Obama
 ### [US President Barack Obama will propose a $3.8 trillion budget for fiscal 2011 that foresees the deficit hitting a record $1.6 trillion in the current fiscal year but falling to about $700 billion by 2013. ](/news/2010/02/1/us-president-barack-obama-will-propose-a-3-8-trillion-budget-for-fiscal-2011-that-foresees-the-deficit-hitting-a-record-1-6-trillion-in-th.md)

@@ -17,19 +17,19 @@ Taliban insurgents have kidnapped 23 Korean Christians from a bus in Afghanistan
 
 ##### Government
 ### [ The Government of Ethiopia pardons and frees opposition leaders who had been sentenced to life imprisonment for their roles in riots following 2005 elections. Prime Minister Meles Zenawi denies that the release was forced by the United States. ](/news/2007/07/20/the-government-of-ethiopia-pardons-and-frees-opposition-leaders-who-had-been-sentenced-to-life-imprisonment-for-their-roles-in-riots-follow.md)
-_Context: 2005 elections, Meles Zenawi, Prime Minister, U.S., government, life imprisonment_
+_Context: 2005 elections, Meles Zenawi, Prime Minister, United States, government, life imprisonment_
 
 ##### United States District Judge
 ### [ United States District Judge James Jones levies a fine of $634.5 million on Purdue Pharma and three executives for misleading the public about OxyContin. ](/news/2007/07/20/united-states-district-judge-james-jones-levies-a-fine-of-634-5-million-on-purdue-pharma-and-three-executives-for-misleading-the-public-ab.md)
-_Context: $, OxyContin, Purdue Pharma, United States District Judge_
+_Context: OxyContin, Purdue Pharma, US$, United States District Judge_
 
 ##### Bolivia
 ### [ Hundreds of thousands of Bolivians protest proposals to shift the capital from La Paz to Sucre. ](/news/2007/07/20/hundreds-of-thousands-of-bolivians-protest-proposals-to-shift-the-capital-from-la-paz-to-sucre.md)
 _Context: Bolivia, La Paz, Sucre_
 
-##### China
+##### Chinese
 ### [ China shuts down a chemical plant associated with deaths in Panama from tainted medicine and two petfood plants associated with the deaths of pets in the United States. ](/news/2007/07/20/china-shuts-down-a-chemical-plant-associated-with-deaths-in-panama-from-tainted-medicine-and-two-petfood-plants-associated-with-the-deaths.md)
-_Context: China, Panama, U.S._
+_Context: Chinese, Panama, United States_
 
 ##### UK
 ### [ The UK Crown Prosecution Service ends its inquiry into the "Cash for honours" claims with a finding that the evidence is not sufficient to warrant charges being laid. ](/news/2007/07/20/the-uk-crown-prosecution-service-ends-its-inquiry-into-the-cash-for-honours-claims-with-a-finding-that-the-evidence-is-not-sufficient-to.md)

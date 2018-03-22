@@ -9,7 +9,7 @@ _Context: Sri Lanka Navy, Sri Lankan Civil War, Tamil Tiger, boat_
 
 ##### Beef
 ### [ Beef from the United States goes on sale in Japan as a ban imposed due to mad cow disease in the U.S. is lifted. ](/news/2007/03/29/beef-from-the-united-states-goes-on-sale-in-japan-as-a-ban-imposed-due-to-mad-cow-disease-in-the-u-s-is-lifted.md)
-_Context: Beef, Japan, U.S., mad cow disease_
+_Context: Beef, Japan, United States, mad cow disease_
 
 ##### Insurgency in Somalia
 ### [ Insurgency in Somalia: Helicopters bomb an insurgent stronghold in Mogadishu hours after six people die in a gun battle. ](/news/2007/03/29/insurgency-in-somalia-helicopters-bomb-an-insurgent-stronghold-in-mogadishu-hours-after-six-people-die-in-a-gun-battle.md)
@@ -21,7 +21,7 @@ _Context: Abdullah, Saudi Arabia, U.S. presence in Iraq, occupied_
 
 ##### Tornado
 ### [ Powerful tornadoes hit several U.S. states, killing a couple in Oklahoma, a woman in Colorado and a man in Texas. ](/news/2007/03/29/powerful-tornadoes-hit-several-u-s-states-killing-a-couple-in-oklahoma-a-woman-in-colorado-and-a-man-in-texas.md)
-_Context: Colorado, Oklahoma, Texas, U.S., tornado_
+_Context: Colorado, Oklahoma, Texas, United States, tornado_
 
 ##### United States Secretary of Defense
 ### [ U.S. Defense Secretary Robert Gates supports closing the Guantanamo Bay detention camp and moving dangerous inmates elsewhere. ](/news/2007/03/29/u-s-defense-secretary-robert-gates-supports-closing-the-guantanamo-bay-detention-camp-and-moving-dangerous-inmates-elsewhere.md)

@@ -21,7 +21,7 @@ _Context: Australia, Gunns, Malcolm Turnbull, Tamar Valley Pulp Mill_
 
 ##### North Korea
 ### [ North Korea and South Korea agree to seek talks with the People's Republic of China and the United States to reach a permanent peace agreement to formally end the Korean War. ](/news/2007/10/4/north-korea-and-south-korea-agree-to-seek-talks-with-the-people-s-republic-of-china-and-the-united-states-to-reach-a-permanent-peace-agreem.md)
-_Context: China, Korean War, North Korea, South Korea, U.S._
+_Context: China, Korean War, North Korea, South Korea, United States_
 
 ##### Antonov An-26
 ### [ An Africa One Antonov An-26 cargo plane crashes into a residential area in Kinshasa, DR Congo. ](/news/2007/10/4/an-africa-one-antonov-an-26-cargo-plane-crashes-into-a-residential-area-in-kinshasa-dr-congo.md)
@@ -41,15 +41,15 @@ _Context: Augusto Pinochet, Chile, Santiago, embezzlement_
 
 ##### Recording industry
 ### [ The recording industry wins a key victory with a court in the U.S. state of Minnesota finding that a woman was liable for damages of $220,000 for sharing copyrighted music online through Kazaa. ](/news/2007/10/4/the-recording-industry-wins-a-key-victory-with-a-court-in-the-u-s-state-of-minnesota-finding-that-a-woman-was-liable-for-damages-of-220-0.md)
-_Context: $, Kazaa, Minnesota, copyright, damages, recording industry_
+_Context: Kazaa, Minnesota, US$, copyright, damages, recording industry_
 
 ##### Prime Minister of Canada
 ### [ The Prime Minister of Canada Stephen Harper chooses Mark Carney to succeed David Dodge as governor of the Bank of Canada. ](/news/2007/10/4/the-prime-minister-of-canada-stephen-harper-chooses-mark-carney-to-succeed-david-dodge-as-governor-of-the-bank-of-canada.md)
 _Context: Bank of Canada, David Dodge, Mark Carney, Prime Minister of Canada, Stephen Harper_
 
-##### U.S.
+##### United States
 ### [ United States Republican Party Senator Pete Domenici of New Mexico announces that he will retire at the end of his current term due to a degenerative brain disease. ](/news/2007/10/4/united-states-republican-party-senator-pete-domenici-of-new-mexico-announces-that-he-will-retire-at-the-end-of-his-current-term-due-to-a-de.md)
-_Context: New Mexico, Pete Domenici, Republican, U.S., United States Senate_
+_Context: New Mexico, Pete Domenici, Republican, United States, United States Senate_
 
 ## [Previous Day...](/news/2007/10/3/index.md)
 

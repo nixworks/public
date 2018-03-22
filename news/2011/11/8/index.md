@@ -3,7 +3,7 @@ Formats: [HTML](2011/11/8/index.html)  [JSON](2011/11/8/index.json)  [XML](2011/
 
 ## [2011-11-8](/news/2011/11/8/index.md)
 
-##### Scotland
+##### Scottish
 ### [A Scottish-designed bionic leg exoskeleton, designed to allow handicapped people to walk, is approved for sale in the United Kingdom. ](/news/2011/11/8/a-scottish-designed-bionic-leg-exoskeleton-designed-to-allow-handicapped-people-to-walk-is-approved-for-sale-in-the-united-kingdom.md)
 Robotic legs developed by two Scottish engineers to help people with spinal injuries or mobility problems walk go on sale.
 

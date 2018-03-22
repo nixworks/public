@@ -21,7 +21,7 @@ _Context: Chad, Constitutional Council of Chad, Idriss Dby, presidential electio
 
 ##### European Court of Justice
 ### [ The European Court of Justice rules illegal an EU-US agreement to pass airline passenger data to the US authorities, as it does not ensure privacy protection for European passengers. ](/news/2006/05/30/the-european-court-of-justice-rules-illegal-an-eu-us-agreement-to-pass-airline-passenger-data-to-the-us-authorities-as-it-does-not-ensure.md)
-_Context: European Court of Justice, European Union, U.S._
+_Context: European Court of Justice, European Union, United States_
 
 ##### United Nations
 ### [ Seven United Nations peacekeepers are taken hostage by the Nationalist and Integrationist Front militia of Ituri Province, Democratic Republic of the Congo. ](/news/2006/05/30/seven-united-nations-peacekeepers-are-taken-hostage-by-the-nationalist-and-integrationist-front-militia-of-ituri-province-democratic-repub.md)
@@ -29,11 +29,11 @@ _Context: DR Congo, Ituri Province, Nationalist and Integrationist Front, United
 
 ##### Engelhard
 ### [ The board of the Engelhard Corporation agreed to a takeover by BASF. BASF will become the world's largest manufacturer of catalytic converters. BASF will pay USD 5.0 billion for Engelhard, which translates to $39 per share. ](/news/2006/05/30/the-board-of-the-engelhard-corporation-agreed-to-a-takeover-by-basf-basf-will-become-the-world-s-largest-manufacturer-of-catalytic-convert.md)
-_Context: $, BASF, Engelhard, catalytic converter_
+_Context: BASF, Engelhard, US$, catalytic converter_
 
-##### United Kingdom
+##### UK
 ### [ British mobile phone operator Vodafone posts the largest annual loss in British corporate history &ndash; GBP21.8 billion &ndash; as it writes down the value of company purchases made mainly in Germany in the years up to 2000. ](/news/2006/05/30/british-mobile-phone-operator-vodafone-posts-the-largest-annual-loss-in-british-corporate-history-ndash-gbp21-8-billion-ndash-as-it-wri.md)
-_Context: GBP, German, United Kingdom, Vodafone Group Plc, mobile phone_
+_Context: GBP, German, UK, Vodafone Group Plc, mobile phone_
 
 ##### Three Links
 ### [ A motion to vote on a bill opening the Three Links between mainland China and Taiwan is defeated for the third time in the Legislative Yuan of the Republic of China when a Democratic Progressive Party lawmaker tries to eat the written cloture motion. The opposition Pan-Blue Coalition controls the legislature and would have likely passed the bill. ](/news/2006/05/30/a-motion-to-vote-on-a-bill-opening-the-three-links-between-mainland-china-and-taiwan-is-defeated-for-the-third-time-in-the-legislative-yuan.md)

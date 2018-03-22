@@ -23,9 +23,9 @@ Vietnamese lawmakers have approved a law allowing broad foreign ownership of pro
 ### [A heavy storm in the eastern United States causes poor road conditions, and delays and cancellations of airline flights ahead of the Thanksgiving holidays with up to 30 million people affected. ](/news/2014/11/26/a-heavy-storm-in-the-eastern-united-states-causes-poor-road-conditions-and-delays-and-cancellations-of-airline-flights-ahead-of-the-thanksg.md)
 _Context: Thanksgiving, eastern United States_
 
-##### China
+##### Chinese
 ### [A fire in a coal mine in China's Liaoning province kills 24 miners and injures another 52. ](/news/2014/11/26/a-fire-in-a-coal-mine-in-china-s-liaoning-province-kills-24-miners-and-injures-another-52.md)
-_Context: China, Liaoning province_
+_Context: Chinese, Liaoning province_
 
 ##### 2014 pro-Russian unrest in Ukraine
 ### [At least three people die in a new round of fighting between the Armed Forces of Ukraine and pro-Russian separatists. ](/news/2014/11/26/at-least-three-people-die-in-a-new-round-of-fighting-between-the-armed-forces-of-ukraine-and-pro-russian-separatists.md)

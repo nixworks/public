@@ -7,9 +7,9 @@ Formats: [HTML](2007/09/16/index.html)  [JSON](2007/09/16/index.json)  [XML](200
 ### [ Greek voters go to the polls for the Greek legislative election, 2007. The ruling New Democracy Party wins the election, with 98% of the votes counted, gaining 41.9% of the vote and 152 seats over 38.1% and 102 seats for the socialist PASOK party. The Communist Party wins 8.1% and 22 seats, over 5% and 14 seats for Radical Left Coalition and 3.7% and 10 seats for Popular Orthodox Rally (LAOS), a Far-Right party. ](/news/2007/09/16/greek-voters-go-to-the-polls-for-the-greek-legislative-election-2007-the-ruling-new-democracy-party-wins-the-election-with-98-of-the-vo.md)
 _Context: Greece, Sunday's general elections_
 
-##### China
+##### Chinese
 ### [ Chinese authorities recall tainted leukemia drugs blamed for leg pains and other problems. ](/news/2007/09/16/chinese-authorities-recall-tainted-leukemia-drugs-blamed-for-leg-pains-and-other-problems.md)
-_Context: China, leukemia_
+_Context: Chinese, leukemia_
 
 ##### Iraq
 ### [ The Iraqi parliamentary bloc controlled by militia leader Moqtada al-Sadr announces that it will abandon the party led by Prime Minister Nouri al-Maliki. ](/news/2007/09/16/the-iraqi-parliamentary-bloc-controlled-by-militia-leader-moqtada-al-sadr-announces-that-it-will-abandon-the-party-led-by-prime-minister-no.md)
@@ -37,7 +37,7 @@ _Context: Afak, Iraq_
 
 ##### Foot and mouth disease
 ### [ A third case of foot and mouth disease is identified but not confirmed by United Kingdom government vets on a farm near Chertsey, Surrey. ](/news/2007/09/16/a-third-case-of-foot-and-mouth-disease-is-identified-but-not-confirmed-by-united-kingdom-government-vets-on-a-farm-near-chertsey-surrey.md)
-_Context: Chertsey, Surrey, United Kingdom, foot and mouth disease_
+_Context: Chertsey, Surrey, UK, foot and mouth disease_
 
 ##### O.J. Simpson
 ### [ O.J. Simpson is charged with six felonies in relation to an alleged armed robbery of sports memorabilia from a Las Vegas hotel room. ](/news/2007/09/16/o-j-simpson-is-charged-with-six-felonies-in-relation-to-an-alleged-armed-robbery-of-sports-memorabilia-from-a-las-vegas-hotel-room.md)

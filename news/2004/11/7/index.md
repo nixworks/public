@@ -43,9 +43,9 @@ _Context: Revolutionary Armed Forces of Colombia, guerrillas, lvaro Uribe_
 ### [ China confirms that two Hong Kong officials have been convicted and jailed for spying for the United Kingdom. ](/news/2004/11/7/china-confirms-that-two-hong-kong-officials-have-been-convicted-and-jailed-for-spying-for-the-united-kingdom.md)
 _Context: Hong Kong, spy_
 
-##### $
+##### US$
 ### [ The United States dollar falls to a record low of $1.2985 against the euro. ](/news/2004/11/7/the-united-states-dollar-falls-to-a-record-low-of-1-2985-against-the-euro.md)
-_Context: $, euro_
+_Context: US$, euro_
 
 ##### Pitcairn Island
 ### [ The Pitcairn Island governing council selects the first female mayor in its 214-year history after the former mayor, Steve Christian, was convicted of rape. ](/news/2004/11/7/the-pitcairn-island-governing-council-selects-the-first-female-mayor-in-its-214-year-history-after-the-former-mayor-steve-christian-was-c.md)

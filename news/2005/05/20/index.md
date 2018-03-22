@@ -29,7 +29,7 @@ _Context: Ebola, Etoumbi, Republic of the Congo_
 
 ##### Star Wars Episode III: Revenge of the Sith
 ### [ "Star Wars Episode III: Revenge of the Sith" reaches a record high at the box offices on opening day with $50 million on 9,400 screens at 3,661 theaters worldwide, edging out "Spider-Man 2"'s top opening day record of $40.4 million and "Shrek 2's" top single day record of $44.8 million. ](/news/2005/05/20/star-wars-episode-iii-revenge-of-the-sith-reaches-a-record-high-at-the-box-offices-on-opening-day-with-50-million-on-9-400-screens-at-3.md)
-_Context: $, Shrek 2, Spider-Man 2, Star Wars Episode III: Revenge of the Sith_
+_Context: Shrek 2, Spider-Man 2, Star Wars Episode III: Revenge of the Sith, US$_
 
 ## [Previous Day...](/news/2005/05/19/index.md)
 

@@ -41,7 +41,7 @@ _Context: Abdullah Gul, Turkish, Turkish President_
 
 ##### Pakistan
 ### [ Pakistan celebrates the 60th anniversary of its independence from the United Kingdom. ](/news/2007/08/14/pakistan-celebrates-the-60th-anniversary-of-its-independence-from-the-united-kingdom.md)
-_Context: Pakistan, United Kingdom, anniversary, independence_
+_Context: Pakistan, UK, anniversary, independence_
 
 ##### Palestinians
 ### [ Four Palestinians are killed by Israel Defense Forces in the Gaza Strip. Palestinians claim two of them were civilians. ](/news/2007/08/14/four-palestinians-are-killed-by-israel-defense-forces-in-the-gaza-strip-palestinians-claim-two-of-them-were-civilians.md)
@@ -77,7 +77,7 @@ At least 175 people were killed when three suicide bombers driving fuel tankers 
 
 ##### E. coli
 ### [ A woman dies and two people are seriously ill from "E. coli" in the Paisley area of Scotland. The Morrisons supermarket chain withdraws cold sliced meats from two of its stores in Paisley. ](/news/2007/08/14/a-woman-dies-and-two-people-are-seriously-ill-from-e-coli-in-the-paisley-area-of-scotland-the-morrisons-supermarket-chain-withdraws-col.md)
-_Context: E. coli, Morrisons, Paisley, Scotland, supermarket_
+_Context: E. coli, Morrisons, Paisley, Scottish, supermarket_
 
 ##### Belgium
 ### [ Two Belgians kidnapped in Iran have been released. ](/news/2007/08/14/two-belgians-kidnapped-in-iran-have-been-released.md)
@@ -129,11 +129,11 @@ _Context: Italy, Lampedusa, coast guard, illegal immigrant_
 
 ##### Fire
 ### [ A fire breaks out at the Shanghai World Financial Center in China. ](/news/2007/08/14/a-fire-breaks-out-at-the-shanghai-world-financial-center-in-china.md)
-_Context: China, Shanghai World Financial Center, fire_
+_Context: Chinese, Shanghai World Financial Center, fire_
 
 ##### Bridge
 ### [ A bridge under construction completely collapses in Fenghuang County, Hunan Province, China, killing at least 47 people. 21 workers are injured, 13 are still missing.](/news/2007/08/14/a-bridge-under-construction-completely-collapses-in-fenghuang-county-hunan-province-china-killing-at-least-47-people-21-workers-are-inj.md)
-_Context: China, Fenghuang, Hunan, bridge_
+_Context: Chinese, Fenghuang, Hunan, bridge_
 
 ## [Previous Day...](/news/2007/08/13/index.md)
 

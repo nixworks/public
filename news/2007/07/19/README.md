@@ -29,7 +29,7 @@ _Context: Honiara, Regional Assistance Mission to the Solomon Islands, Solomon I
 
 ##### Russia
 ### [ Russia expels four British diplomats in the ongoing row over the extradition of Andrei Lugovoi for the suspected murder of Russian spy Alexander Litvinenko. ](/news/2007/07/19/russia-expels-four-british-diplomats-in-the-ongoing-row-over-the-extradition-of-andrei-lugovoi-for-the-suspected-murder-of-russian-spy-alex.md)
-_Context: Andrei Lugovoi, Russia, United Kingdom, murder of Russian spy Alexander Litvinenko_
+_Context: Andrei Lugovoi, Russia, UK, murder of Russian spy Alexander Litvinenko_
 
 ##### Dismisses
 ### [ A U.S. federal judge dismisses a case brought by Valerie Plame against members of the Bush Administration in connection with the Plame affair. ](/news/2007/07/19/a-u-s-federal-judge-dismisses-a-case-brought-by-valerie-plame-against-members-of-the-bush-administration-in-connection-with-the-plame-affa.md)
@@ -41,7 +41,7 @@ _Context: Mortar, Somalia_
 
 ##### Viking
 ### [ The largest Viking treasure discovery in the United Kingdom since the nineteenth century made near Harrogate in northern England is announced. ](/news/2007/07/19/the-largest-viking-treasure-discovery-in-the-united-kingdom-since-the-nineteenth-century-made-near-harrogate-in-northern-england-is-announc.md)
-_Context: England, Harrogate, United Kingdom, Viking_
+_Context: England, Harrogate, UK, Viking_
 
 ##### Dow Jones Industrial Average
 ### [ The Dow Jones Industrial Average closes above 14,000 points for the first time in history, partly as a result of a good earnings report from IBM. ](/news/2007/07/19/the-dow-jones-industrial-average-closes-above-14-000-points-for-the-first-time-in-history-partly-as-a-result-of-a-good-earnings-report-fro.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2005/07/9/index.html)  [JSON](2005/07/9/index.json)  [XML](2005/
 
 ##### 31st G8 summit
 ### [ World leaders at the 31st G8 summit in Gleneagles, Scotland pledge 50 billion USD in aid to fight poverty in Africa ](/news/2005/07/9/world-leaders-at-the-31st-g8-summit-in-gleneagles-scotland-pledge-50-billion-usd-in-aid-to-fight-poverty-in-africa.md)
-_Context: $, 31st G8 summit, Gleneagles, assistance, poverty_
+_Context: 31st G8 summit, Gleneagles, US$, assistance, poverty_
 
 ##### Serbia
 ### [ In Serbia a documentary film "The Truth" (Istina) made of footage filmed during the Yugoslav wars, and showing numerous war crimes committed against Serbs is introduced in the Sava Center in Belgrade, sparking public outrage. ](/news/2005/07/9/in-serbia-a-documentary-film-the-truth-istina-made-of-footage-filmed-during-the-yugoslav-wars-and-showing-numerous-war-crimes-committe.md)

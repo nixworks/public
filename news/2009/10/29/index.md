@@ -9,7 +9,7 @@ Elton John (62) has pulled out of his Dublin concert tomorrow night after suffer
 
 ##### Synagogue
 ### [ A gunman opens fire at the Adat Yeshurun Valley Sephardic synagogue in North Hollywood, Los Angeles, United States, and wounds two people. ](/news/2009/10/29/a-gunman-opens-fire-at-the-adat-yeshurun-valley-sephardic-synagogue-in-north-hollywood-los-angeles-united-states-and-wounds-two-people.md)
-_Context: Los Angeles, North Hollywood, U.S., synagogue_
+_Context: Los Angeles, North Hollywood, United States, synagogue_
 
 ##### Rwanda
 ### [ Rwandan man Dsir Munyaneza is given a life sentence in Canada for his role in the Rwandan genocide under the Crimes Against Humanity and War Crimes Act. ](/news/2009/10/29/rwandan-man-desire-munyaneza-is-given-a-life-sentence-in-canada-for-his-role-in-the-rwandan-genocide-under-the-crimes-against-humanity-and.md)
@@ -43,7 +43,7 @@ _Context: Denmark, Lars Loekke Rasmussen, Prime Minister of Denmark, United Nati
 ### [ Kenya is to carry out its first census on its gay population to combat HIV-AIDS, even though homosexuality is banned in the country. ](/news/2009/10/29/kenya-is-to-carry-out-its-first-census-on-its-gay-population-to-combat-hiv-aids-even-though-homosexuality-is-banned-in-the-country.md)
 _Context: AIDS, HIV, Kenya, homosexuality, organising a gay wedding_
 
-##### U.S.
+##### United States
 ### [ The United States unofficially exits recession in the third quarter, growing at 3.5%. ](/news/2009/10/29/the-united-states-unofficially-exits-recession-in-the-third-quarter-growing-at-3-5.md)
 Consumer spending leads recovery, but treasury secretary admits many face hardship.
 

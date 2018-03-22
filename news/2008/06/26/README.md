@@ -3,9 +3,9 @@ Formats: [HTML](2008/06/26/index.html)  [JSON](2008/06/26/index.json)  [XML](200
 
 ## [2008-06-26](/news/2008/06/26/index.md)
 
-##### China
+##### Chinese
 ### [ A bus and a truck collide in China's Henan Province, leaving five dead and eight injured. ](/news/2008/06/26/a-bus-and-a-truck-collide-in-china-s-henan-province-leaving-five-dead-and-eight-injured.md)
-_Context: China, Henan Province_
+_Context: Chinese, Henan Province_
 
 ##### Supreme Court of the United States
 ### [ In a 5-4 decision, the Supreme Court of the United States holds in "District of Columbia v. Heller" that the Second Amendment to the United States Constitution protects an individual right to own a firearm and keep it on their property, ruling a District of Columbia gun control law unconstitutional and putting many other similar measures in jeopardy. ](/news/2008/06/26/in-a-5a4-decision-the-supreme-court-of-the-united-states-holds-in-district-of-columbia-v-heller-that-the-second-amendment-to-the-unit.md)
@@ -25,7 +25,7 @@ _Context: Austria, EU treaties, SPO_
 
 ##### North Korea
 ### [ North Korea releases details of its nuclear program and the United States removes it from its list of state sponsors of terrorism. ](/news/2008/06/26/north-korea-releases-details-of-its-nuclear-program-and-the-united-states-removes-it-from-its-list-of-state-sponsors-of-terrorism.md)
-_Context: North Korea, U.S., begins, terrorism_
+_Context: North Korea, United States, begins, terrorism_
 
 ##### Taliban
 ### [ A former Taliban fighter claims that members of the Pakistan military secretly supported the insurgency in Afghanistan by providing training and material support. ](/news/2008/06/26/a-former-taliban-fighter-claims-that-members-of-the-pakistan-military-secretly-supported-the-insurgency-in-afghanistan-by-providing-trainin.md)

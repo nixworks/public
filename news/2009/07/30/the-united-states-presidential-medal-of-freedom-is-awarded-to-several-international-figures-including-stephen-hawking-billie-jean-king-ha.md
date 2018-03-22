@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/30/the-united-states-presidential-medal-of-freedom
 
 ### [2009-07-30](/news/2009/07/30/index.md)
 
-##### U.S.
+##### United States
 #  The United States Presidential Medal of Freedom is awarded to several international figures including Stephen Hawking, Billie Jean King, Harvey Milk, Sidney Poitier, Mary Robinson, Desmond Tutu and Muhammad Yunus. 
 
 
@@ -18,8 +18,8 @@ Formats: [HTML](/news/2009/07/30/the-united-states-presidential-medal-of-freedom
 
 ### Related:
 
-1. [ The United States White House defends its decision to award its Presidential Medal of Freedom to former President of Ireland Mary Robinson. ](/news/2009/08/5/the-united-states-white-house-defends-its-decision-to-award-its-presidential-medal-of-freedom-to-former-president-of-ireland-mary-robinson.md) _Context: Mary Robinson, Presidential Medal of Freedom with Distinction, U.S._
-2. [LGBT sportspeople, such as tennis player Billie Jean King and ice hockey player Caitlin Cahow, are to represent the United States in Sochi as a protest against the treatment of LGBT people in Russia. ](/news/2013/12/18/lgbt-sportspeople-such-as-tennis-player-billie-jean-king-and-ice-hockey-player-caitlin-cahow-are-to-represent-the-united-states-in-sochi-a.md) _Context: Billie Jean King, U.S._
-3. [Toys "R" Us considers closing all its stores in the United States. ](/news/2018/03/8/toys-r-us-considers-closing-all-its-stores-in-the-united-states.md) _Context: U.S._
-4. [Former United States Department of Justice attorney Jeffrey Wertkin is sentenced to 21/2 years in prison for what prosecutors called the DoJ's "most serious" example of public corruption, which involved stealing more than 40 whistleblower fraud cases in 2016 with intentions to sell the secret information to companies under federal investigation. ](/news/2018/03/7/former-united-states-department-of-justice-attorney-jeffrey-wertkin-is-sentenced-to-2a1-2-years-in-prison-for-what-prosecutors-called-the-doj.md) _Context: U.S._
-5. [A second winter storm occurs in the East Coast of the United States, only a few days after another storm. ](/news/2018/03/7/a-second-winter-storm-occurs-in-the-east-coast-of-the-united-states-only-a-few-days-after-another-storm.md) _Context: U.S._
+1. [ The United States White House defends its decision to award its Presidential Medal of Freedom to former President of Ireland Mary Robinson. ](/news/2009/08/5/the-united-states-white-house-defends-its-decision-to-award-its-presidential-medal-of-freedom-to-former-president-of-ireland-mary-robinson.md) _Context: Mary Robinson, Presidential Medal of Freedom with Distinction, United States_
+2. [LGBT sportspeople, such as tennis player Billie Jean King and ice hockey player Caitlin Cahow, are to represent the United States in Sochi as a protest against the treatment of LGBT people in Russia. ](/news/2013/12/18/lgbt-sportspeople-such-as-tennis-player-billie-jean-king-and-ice-hockey-player-caitlin-cahow-are-to-represent-the-united-states-in-sochi-a.md) _Context: Billie Jean King, United States_
+3. [Toys "R" Us considers closing all its stores in the United States. ](/news/2018/03/8/toys-r-us-considers-closing-all-its-stores-in-the-united-states.md) _Context: United States_
+4. [Former United States Department of Justice attorney Jeffrey Wertkin is sentenced to 21/2 years in prison for what prosecutors called the DoJ's "most serious" example of public corruption, which involved stealing more than 40 whistleblower fraud cases in 2016 with intentions to sell the secret information to companies under federal investigation. ](/news/2018/03/7/former-united-states-department-of-justice-attorney-jeffrey-wertkin-is-sentenced-to-2a1-2-years-in-prison-for-what-prosecutors-called-the-doj.md) _Context: United States_
+5. [A second winter storm occurs in the East Coast of the United States, only a few days after another storm. ](/news/2018/03/7/a-second-winter-storm-occurs-in-the-east-coast-of-the-united-states-only-a-few-days-after-another-storm.md) _Context: United States_

@@ -29,7 +29,7 @@ _Context:  Ejrcito Popular Revolucionario, Mexican state, Petroleos Mexicanos, T
 
 ##### Supreme Court of Indonesia
 ### [ The Supreme Court of Indonesia orders "TIME" magazine to pay US$106 million in damages to former President of Indonesia Suharto. The magazine had reported in 1999 that the former President and his family had accumulated $73 billion dollars fraudulently during his time in office. The case had previously been rejected by two lower courts. ](/news/2007/09/10/the-supreme-court-of-indonesia-orders-time-magazine-to-pay-us-106-million-in-damages-to-former-president-of-indonesia-suharto-the-magazi.md)
-_Context: $, President of Indonesia, Suharto, Supreme Court of Indonesia, Time_
+_Context: President of Indonesia, Suharto, Supreme Court of Indonesia, Time, US$_
 
 ## [Previous Day...](/news/2007/09/9/index.md)
 

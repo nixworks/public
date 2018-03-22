@@ -17,7 +17,7 @@ A 5.1-magnitude earthquake detected near North Korea’s nuclear test site appea
 
 ##### TransCanada
 ### [TransCanada, the firm that unsuccessfully applied for cross-border permission to build the Keystone XL pipeline, files a lawsuit against the United States alleging that the refusal of permission violated the North American Free Trade Agreement. ](/news/2016/01/6/transcanada-the-firm-that-unsuccessfully-applied-for-cross-border-permission-to-build-the-keystone-xl-pipeline-files-a-lawsuit-against-the.md)
-_Context: Keystone XL, NAFTA, TransCanada, U.S._
+_Context: Keystone XL, NAFTA, TransCanada, United States_
 
 ##### Star Wars: The Force Awakens
 ### ["Star Wars: The Force Awakens" becomes the highest-grossing film ever in the United States and Canada, overtaking "Avatar". ](/news/2016/01/6/star-wars-the-force-awakens-becomes-the-highest-grossing-film-ever-in-the-united-states-and-canada-overtaking-avatar.md)

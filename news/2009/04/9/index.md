@@ -7,9 +7,9 @@ Formats: [HTML](2009/04/9/index.html)  [JSON](2009/04/9/index.json)  [XML](2009/
 ### [ Bishop Harold Miller of the Church of Ireland advises a boycott of television on Good Friday. ](/news/2009/04/9/bishop-harold-miller-of-the-church-of-ireland-advises-a-boycott-of-television-on-good-friday.md)
 _Context: Bishop, Church of Ireland, Good Friday, Harold Miller, boycott, television_
 
-##### U.S.
+##### United States
 ### [ The U.S. Central Intelligence Agency allegedly decommissions its black sites worldwide. ](/news/2009/04/9/the-u-s-central-intelligence-agency-allegedly-decommissions-its-black-sites-worldwide.md)
-_Context: CIA, U.S., black site_
+_Context: CIA, United States, black site_
 
 ##### Demonstration
 ### [ Demonstrators assemble in Tbilisi, Georgia, to demand the resignation of President Mikheil Saakashvili. ](/news/2009/04/9/demonstrators-assemble-in-tbilisi-georgia-to-demand-the-resignation-of-president-mikheil-saakashvili.md)
@@ -21,7 +21,7 @@ _Context: 2010 FIFA World Cup, Belfast, Northern Ireland, foreign national, qual
 
 ##### Harry Potter
 ### [ "Harry Potter" author J. K. Rowling resigns as patron of Scotland's Multiple Sclerosis Society. ](/news/2009/04/9/harry-potter-author-j-k-rowling-resigns-as-patron-of-scotland-s-multiple-sclerosis-society.md)
-_Context: Harry Potter, J. K. Rowling, Multiple Sclerosis Society, Scotland, author, patron_
+_Context: Harry Potter, J. K. Rowling, Multiple Sclerosis Society, Scottish, author, patron_
 
 ##### Kim Jong-il
 ### [ Kim Jong-il appears publicly for the first time since August 2008 for reelection as North Korea's Great Leader. ](/news/2009/04/9/kim-jong-il-appears-publicly-for-the-first-time-since-august-2008-for-reelection-as-north-korea-s-great-leader.md)

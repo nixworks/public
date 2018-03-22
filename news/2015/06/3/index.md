@@ -31,7 +31,7 @@ Fighting broke out Wednesday between rebels and Ukrainian soldiers on the outski
 ### [ The Grozny Chechnya office of the Committee Against Torture NGO is attacked by masked men who came out of a crowd of protesters. They broke down the door and trashed the office. National Leader Ramzan Kadyrov speculated the attack could have been carried out by relatives of Dzhambulat Dadayev upset that the NGO which investigates torture did not lead protests of the shooting of Dadayev by law enforcement officers from another region. ](/news/2015/06/3/the-grozny-chechnya-office-of-the-committee-against-torture-ngo-is-attacked-by-masked-men-who-came-out-of-a-crowd-of-protesters-they-broke.md)
 _Context: Ramzan Kadyrov_
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [The Saudi Arabia led coalition launches airstrikes on military bases near the Yemeni capital Sanaa. ](/news/2015/06/3/the-saudi-arabia-led-coalition-launches-airstrikes-on-military-bases-near-the-yemeni-capital-sanaa.md)
 Saudi-led air strikes killed a group of around 20 Houthi fighters outside the southern Yemeni port city of Aden on Wednesday and also shook the capital Sanaa in the north, militiamen opposed to the Houthis said.
 

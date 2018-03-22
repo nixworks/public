@@ -13,7 +13,7 @@ _Context: CIA, George W. Bush, Porter J. Goss_
 
 ##### Libya
 ### [ Libya agrees to pay USD 35 million to some victims of the 1986 Berlin discotheque bombing. ](/news/2004/08/10/libya-agrees-to-pay-usd-35-million-to-some-victims-of-the-1986-berlin-discotheque-bombing.md)
-_Context: $, 1986 Berlin discotheque bombing, Libya_
+_Context: 1986 Berlin discotheque bombing, Libya, US$_
 
 ##### Morocco
 ### [ The U.S. deals a major blow to German prosecutors at the re-trial of Moroccan Mounir al-Motassadek, one of the only 9-11 suspects to face justice to date, by refusing to allow an alleged al-Qaeda member to testify via videolink, citing security concerns and the need to protect secret information. ](/news/2004/08/10/the-u-s-deals-a-major-blow-to-german-prosecutors-at-the-re-trial-of-moroccan-mounir-al-motassadek-one-of-the-only-9-11-suspects-to-face-j.md)

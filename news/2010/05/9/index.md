@@ -15,9 +15,9 @@ _Context: Somali pirates, Somalia_
 ### [A Chinese man is freed from prison after 10 years after the man he had been convicted of killing is found alive. ](/news/2010/05/9/a-chinese-man-is-freed-from-prison-after-10-years-after-the-man-he-had-been-convicted-of-killing-is-found-alive.md)
 A Chinese man who spent nearly 10 years in jail for murder has been cleared after the supposed victim reappeared alive and well.
 
-##### U.S.
+##### United States
 ### [U.S. missiles kill five people in North Waziristan, Pakistan. ](/news/2010/05/9/u-s-missiles-kill-five-people-in-north-waziristan-pakistan.md)
-_Context: North Waziristan, Pakistan, U.S._
+_Context: North Waziristan, Pakistan, United States_
 
 ##### Mezhdurechensk
 ### [A mine explosion in Mezhdurechensk (Kemerovo Oblast), Russia, kills at least 12 people and injures 24 others with 64 unaccounted for. ](/news/2010/05/9/a-mine-explosion-in-mezhdurechensk-kemerovo-oblast-russia-kills-at-least-12-people-and-injures-24-others-with-64-unaccounted-for.md)

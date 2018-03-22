@@ -31,7 +31,7 @@ _Context: Finland, Vihti, Yle, police officer_
 ### [Thomas Mair from the town of Birstall, West Yorkshire, is charged with the murder of British MP Jo Cox. ](/news/2016/06/18/thomas-mair-from-the-town-of-birstall-west-yorkshire-is-charged-with-the-murder-of-british-mp-jo-cox.md)
 Thomas Mair gives his name as &quot;Death to traitors, freedom for Britain&quot; as he appears in court charged with the murder of Labour MP Jo Cox.
 
-##### U.S.
+##### United States
 ### [Six people are killed and 10 injured when a van crashes in the U.S. state of Virginia. ](/news/2016/06/18/six-people-are-killed-and-10-injured-when-a-van-crashes-in-the-u-s-state-of-virginia.md)
 Six people were killed in Virginia and 10 others hospitalized when the van in which they were riding hit another car and flipped over several times on a highway on Saturday, police said.
 

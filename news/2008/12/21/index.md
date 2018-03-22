@@ -17,7 +17,7 @@ _Context: 2008 Russian financial crisis, Internal Troops, Russia, Vladivostok, i
 
 ##### Canada
 ### [ Canada announces a US$3.3 billion bailout for its troubled automotive industry. ](/news/2008/12/21/canada-announces-a-us-3-3-billion-bailout-for-its-troubled-automotive-industry.md)
-_Context: $, Canada, bailout, troubled automotive industry_
+_Context: Canada, US$, bailout, troubled automotive industry_
 
 ##### Iran
 ### [ Iranian police raid and close Nobel Peace Prize laureate Shirin Ebadi's Children's Rights Support Association prior to a planned celebration of Human Rights Day. ](/news/2008/12/21/iranian-police-raid-and-close-nobel-peace-prize-laureate-shirin-ebadi-s-children-s-rights-support-association-prior-to-a-planned-celebratio.md)

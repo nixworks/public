@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/24/two-catalonian-aid-workers-kidnapped-in-maurita
 
 ### [2010-08-24](/news/2010/08/24/index.md)
 
-##### Catalonia
+##### Catalan
 # Two Catalonian aid workers kidnapped in Mauritania by Al-Qaeda Organization in the Islamic Maghreb return home. 
 
 * Back in Barcelona, pair say they were treated well * EU to draft U.N. resolution on aid worker safety * Al Qaeda welcomes Spain cooperation, c
@@ -21,4 +21,4 @@ Formats: [HTML](/news/2010/08/24/two-catalonian-aid-workers-kidnapped-in-maurita
 2. [Mauritania extradites a man to Mali convicted for kidnapping three Spanish aid workers believed to be held by the Al-Qaeda Organization in the Islamic Maghreb. ](/news/2010/08/18/mauritania-extradites-a-man-to-mali-convicted-for-kidnapping-three-spanish-aid-workers-believed-to-be-held-by-the-al-qaeda-organization-in-t.md) _Context: Al Qaeda in the Islamic Maghreb, Mauritanian_
 3. [The Al-Qaeda Organization in the Islamic Maghreb announces it has killed a French hostage in Mali after a failed rescue attempt by French and Mauritanian troops. ](/news/2010/07/25/the-al-qaeda-organization-in-the-islamic-maghreb-announces-it-has-killed-a-french-hostage-in-mali-after-a-failed-rescue-attempt-by-french-an.md) _Context: Al Qaeda in the Islamic Maghreb, Mauritanian_
 4. [Mauritania recalls its ambassador from Mali after the latter released four members of Al-Qaeda in the Islamic Maghreb. ](/news/2010/02/23/mauritania-recalls-its-ambassador-from-mali-after-the-latter-released-four-members-of-al-qaeda-in-the-islamic-maghreb.md) _Context: Al Qaeda in the Islamic Maghreb, Mauritanian_
-5. [15,000 demonstrators gather in Barcelona, Spain, to support the mock region of Tabarnia--a hypothetical area that includes the least independentist areas of Catalonia--as a way to oppose Catalan independence and the declaration of independence on October 27. ](/news/2018/03/4/15-000-demonstrators-gather-in-barcelona-spain-to-support-the-mock-region-of-tabarniaaa-hypothetical-area-that-includes-the-least-indepe.md) _Context: Catalonia_
+5. [15,000 demonstrators gather in Barcelona, Spain, to support the mock region of Tabarnia--a hypothetical area that includes the least independentist areas of Catalonia--as a way to oppose Catalan independence and the declaration of independence on October 27. ](/news/2018/03/4/15-000-demonstrators-gather-in-barcelona-spain-to-support-the-mock-region-of-tabarniaaa-hypothetical-area-that-includes-the-least-indepe.md) _Context: Catalan_

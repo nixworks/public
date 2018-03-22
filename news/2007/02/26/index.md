@@ -3,9 +3,9 @@ Formats: [HTML](2007/02/26/index.html)  [JSON](2007/02/26/index.json)  [XML](200
 
 ## [2007-02-26](/news/2007/02/26/index.md)
 
-##### United Kingdom
+##### UK
 ### [ United Kingdom Secretary of State for Defence Des Browne announces the deployment of an additional 1,400 troops to Afghanistan. ](/news/2007/02/26/united-kingdom-secretary-of-state-for-defence-des-browne-announces-the-deployment-of-an-additional-1-400-troops-to-afghanistan.md)
-_Context: Afghanistan, British military personnel, Des Browne, Secretary of State for Defence, United Kingdom_
+_Context: Afghanistan, British military personnel, Des Browne, Secretary of State for Defence, UK_
 
 ##### U.S. Vice President
 ### [ Vice President of the United States Dick Cheney makes surprise visits to Pakistan and Afghanistan to encourage President of Pakistan Pervez Musharraf and President of Afghanistan Hamid Karzai to increase border security between the two countries and to take further action against the Taliban and al-Qaeda. ](/news/2007/02/26/vice-president-of-the-united-states-dick-cheney-makes-surprise-visits-to-pakistan-and-afghanistan-to-encourage-president-of-pakistan-pervez.md)

@@ -15,9 +15,9 @@ Iceland&#39;s president has said he will not sign a bill to compensate the Briti
 ### [Andal Ampatuan Jr., charged with 41 counts of murder in the Maguindanao massacre in November, pleads not guilty at the beginning of his trial in the Philippines. ](/news/2010/01/5/andal-ampatuan-jr-charged-with-41-counts-of-murder-in-the-maguindanao-massacre-in-november-pleads-not-guilty-at-the-beginning-of-his-tria.md)
 _Context: Andal Ampatuan Jr., Maguindanao massacre, Philippines_
 
-##### U.S.
+##### United States
 ### [The United States reopens its embassy in Yemen after strikes on al-Qaeda. ](/news/2010/01/5/the-united-states-reopens-its-embassy-in-yemen-after-strikes-on-al-qaeda.md)
-_Context: U.S., Yemen_
+_Context: United States, Yemen_
 
 ##### State Department
 ### [The US State Department announces that they are revamping how foreign delegations are handled, in response to a Secret Service report that a third man had crashed the state dinner for the Prime Minister of India. ](/news/2010/01/5/the-us-state-department-announces-that-they-are-revamping-how-foreign-delegations-are-handled-in-response-to-a-secret-service-report-that-a.md)
@@ -35,9 +35,9 @@ A quantity of explosive found in Dublin this morning was brought into the countr
 ### [A Learjet cargo plane on approach to Chicago Executive Airport crashes into the Des Plaines River in Wheeling, Illinois. ](/news/2010/01/5/a-learjet-cargo-plane-on-approach-to-chicago-executive-airport-crashes-into-the-des-plaines-river-in-wheeling-illinois.md)
 _Context: Chicago Executive Airport, Des Plaines River, Learjet, Wheeling, Illinois_
 
-##### United Kingdom
+##### UK
 ### [The United Kingdom is once again deluged by heavy snowfall as the country endures its worst cold snap since 1979. ](/news/2010/01/5/the-united-kingdom-is-once-again-deluged-by-heavy-snowfall-as-the-country-endures-its-worst-cold-snap-since-1979.md)
-_Context: United Kingdom, heavy snowfall_
+_Context: UK, heavy snowfall_
 
 ##### Brazil
 ### [At least seven people are killed and 20 missing after a bridge collapse in the Brazilian state of Rio Grande do Sul. ](/news/2010/01/5/at-least-seven-people-are-killed-and-20-missing-after-a-bridge-collapse-in-the-brazilian-state-of-rio-grande-do-sul.md)

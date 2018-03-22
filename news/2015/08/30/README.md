@@ -47,7 +47,7 @@ _Context: Aramco, Khobar, Saudi Arabia_
 ### [The Syrian Observatory for Human Rights claims that ISIL has blown up the ancient Temple of Bel in Palmyra. ](/news/2015/08/30/the-syrian-observatory-for-human-rights-claims-that-isil-has-blown-up-the-ancient-temple-of-bel-in-palmyra.md)
 _Context: Islamic State in Iraq and the Levant, Palmyra, Syrian Observatory for Human Rights, Temple of Bel_
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [An air strike from a Saudi-led coalition kills 36 civilians working in a bottling plant in the northern Hajjah Governorate. ](/news/2015/08/30/an-air-strike-from-a-saudi-led-coalition-kills-36-civilians-working-in-a-bottling-plant-in-the-northern-hajjah-governorate.md)
 An air strike by warplanes from a Saudi-led coalition, which said it targeted a bomb-making factory, killed 36 civilians working at a bottling plant in the northern Yemeni province of Hajjah on Sunday, residents said.
 

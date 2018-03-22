@@ -9,7 +9,7 @@ _Context: Congress, Democrat, FBI, Louisiana, William J. Jefferson, bribes_
 
 ##### Prime Minister
 ### [ Prime Minister Tony Blair declares that British troops should be out of Iraq within four years. ](/news/2006/05/22/prime-minister-tony-blair-declares-that-british-troops-should-be-out-of-iraq-within-four-years.md)
-_Context: Prime Minister, Tony Blair, U.S. presence in Iraq, United Kingdom_
+_Context: Prime Minister, Tony Blair, U.S. presence in Iraq, UK_
 
 ## [Previous Day...](/news/2006/05/21/index.md)
 

@@ -3,9 +3,9 @@ Formats: [HTML](2014/08/29/index.html)  [JSON](2014/08/29/index.json)  [XML](201
 
 ## [2014-08-29](/news/2014/08/29/index.md)
 
-##### United Kingdom
+##### UK
 ### [The United Kingdom raises its terror threat level from "substantial" to "severe" in response to conflicts in Iraq and Syria. ](/news/2014/08/29/the-united-kingdom-raises-its-terror-threat-level-from-substantial-to-severe-in-response-to-conflicts-in-iraq-and-syria.md)
-_Context: Iraq, Syria, United Kingdom, terror threat level_
+_Context: Iraq, Syria, UK, terror threat level_
 
 ##### 2014 West Africa Ebola virus outbreak
 ### [The first case of Ebola virus is reported in Senegal. ](/news/2014/08/29/the-first-case-of-ebola-virus-is-reported-in-senegal.md)

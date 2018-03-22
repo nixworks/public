@@ -15,7 +15,7 @@ Spain&#x27;s King Felipe VI has issued a decree stripping his sister Princess Cr
 ### [A court in the American city of Cleveland, Ohio, finds probable cause that Cleveland Police Department officer Timothy Loehmann should face murder charges in relation to the shooting of Tamar Rice. ](/news/2015/06/11/a-court-in-the-american-city-of-cleveland-ohio-finds-probable-cause-that-cleveland-police-department-officer-timothy-loehmann-should-face.md)
 The opinion was released Thursday after a group of local clergy and activists filed affidavits asking the municipal court to find probable cause to arrest Timothy Loehmann and Frank Garmback on aggravated murder and other charges.
 
-##### China
+##### Chinese
 ### [China's former security chief Zhou Yongkang is given a life sentence for bribery, leaking state secrets and abuse of power. ](/news/2015/06/11/china-s-former-security-chief-zhou-yongkang-is-given-a-life-sentence-for-bribery-leaking-state-secrets-and-abuse-of-power.md)
 China&#039;s former domestic security chief is sentenced to life in jail after being found guilty of bribery and corruption.
 
@@ -27,9 +27,9 @@ Internet security company Kaspersky says software was used to infiltrate venues 
 ### [Federal Interior Ministry of Pakistan has sealed the offices of the NGO Save the Children in Pakistan and issued order for its foreign staff to leave the country within 15 days on account of the NGO's anti-Pakistan activities. ](/news/2015/06/11/federal-interior-ministry-of-pakistan-has-sealed-the-offices-of-the-ngo-save-the-children-in-pakistan-and-issued-order-for-its-foreign-staff.md)
 Save the children says it was served a notice, denies it has expatriate staff working in Pakistan
 
-##### U.S.
+##### United States
 ### [Health officials in the United States are advising doctors to be on the lookout for MERS following an outbreak in South Korea. ](/news/2015/06/11/health-officials-in-the-united-states-are-advising-doctors-to-be-on-the-lookout-for-mers-following-an-outbreak-in-south-korea.md)
-_Context: Middle East respiratory syndrome, South Korea, U.S._
+_Context: Middle East respiratory syndrome, South Korea, United States_
 
 ##### Landslide
 ### [At least 41 people have been killed, 8 injured, and scores are missing in landslides in Nepal's Taplejung District caused by heavy rain. ](/news/2015/06/11/at-least-41-people-have-been-killed-8-injured-and-scores-are-missing-in-landslides-in-nepal-s-taplejung-district-caused-by-heavy-rain.md)

@@ -3,7 +3,7 @@ Formats: [HTML](2011/12/26/index.html)  [JSON](2011/12/26/index.json)  [XML](201
 
 ## [2011-12-26](/news/2011/12/26/index.md)
 
-##### China
+##### Chinese
 ### [The government of China sentences activist Chen Xi to ten years imprisonment for "inciting subversion". ](/news/2011/12/26/the-government-of-china-sentences-activist-chen-xi-to-ten-years-imprisonment-for-inciting-subversion.md)
 A Chinese activist, Chen Xi, has been sentenced to 10 years in jail for subversion, as authorities continue to crack down on critics of the country&#039;s one-party government.
 
@@ -17,7 +17,7 @@ _Context: Scandinavians_
 
 ##### Brazil
 ### [Brazil surpasses the United Kingdom to become the world's sixth-largest economy. ](/news/2011/12/26/brazil-surpasses-the-united-kingdom-to-become-the-world-s-sixth-largest-economy.md)
-_Context: Brazil, United Kingdom, sixth-largest economy_
+_Context: Brazil, UK, sixth-largest economy_
 
 ##### 2011 Syrian uprising
 ### [2011 Syrian uprising: Renewed violence takes place in the city of Homs as Arab League observers arrive in Syria to monitor the country's ongoing uprising. ](/news/2011/12/26/2011-syrian-uprising-renewed-violence-takes-place-in-the-city-of-homs-as-arab-league-observers-arrive-in-syria-to-monitor-the-country-s-ong.md)

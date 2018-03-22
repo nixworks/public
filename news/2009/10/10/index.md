@@ -15,9 +15,9 @@ More than 200 modifications
 ### [ More than 40 people are arrested after clashes between anti-Islamic and anti-racist demonstrations in Manchester, England. ](/news/2009/10/10/more-than-40-people-are-arrested-after-clashes-between-anti-islamic-and-anti-racist-demonstrations-in-manchester-england.md)
 _Context: England, Islam, Manchester, racial bias_
 
-##### U.S.
+##### United States
 ### [ United States President Barack Obama announces he will end the "Don't ask, don't tell" policy against homosexuals serving in the U.S. military. ](/news/2009/10/10/united-states-president-barack-obama-announces-he-will-end-the-don-t-ask-don-t-tell-policy-against-homosexuals-serving-in-the-u-s-milit.md)
-_Context: Barack Obama, Don't ask, don't tell, U.S., U.S. President, United States armed forces, gay_
+_Context: Barack Obama, Don't ask, don't tell, U.S. President, United States, United States armed forces, gay_
 
 ##### Guinea
 ### [ Unions in Guinea call for a two day strike in protest at the deaths of opposition supporters at a rally last month. ](/news/2009/10/10/unions-in-guinea-call-for-a-two-day-strike-in-protest-at-the-deaths-of-opposition-supporters-at-a-rally-last-month.md)
@@ -27,7 +27,7 @@ _Context: Guinea, massacre of opposition protesters_
 ### [ Three people are sentenced to death for being involved in forbidden groups after being arrested during protests against Iran's disputed presidential election earlier this year. ](/news/2009/10/10/three-people-are-sentenced-to-death-for-being-involved-in-forbidden-groups-after-being-arrested-during-protests-against-iran-s-disputed-pre.md)
 Three people arrested during protests over disputed presidential poll are sentenced.
 
-##### United Kingdom
+##### UK
 ### [ Over 300 British MPs will be asked to repay or explain expenses after controversy earlier this year. ](/news/2009/10/10/over-300-british-mps-will-be-asked-to-repay-or-explain-expenses-after-controversy-earlier-this-year.md)
 At least 325 MPs will be ordered this week to repay money or provide further details of their parliamentary allowances by the head of an official inquiry into the Commons expenses scandal.
 

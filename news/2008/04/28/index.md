@@ -5,11 +5,11 @@ Formats: [HTML](2008/04/28/index.html)  [JSON](2008/04/28/index.json)  [XML](200
 
 ##### Passenger trains collide
 ### [ Two passenger trains collide in Zibo in Shandong province in eastern China resulting in the deaths of at least 71 people. ](/news/2008/04/28/two-passenger-trains-collide-in-zibo-in-shandong-province-in-eastern-china-resulting-in-the-deaths-of-at-least-71-people.md)
-_Context: China, Shandong, Zibo, passenger trains collide_
+_Context: Chinese, Shandong, Zibo, passenger trains collide_
 
 ##### Mars Canada Inc.
 ### [ Mars, Incorporated announces that it is buying the Wm. Wrigley Jr. Company, the world's largest chewing gum manufacturer, in a deal worth $23 billion. The deal is being partly financed by Warren Buffett's Berkshire Hathaway company. ](/news/2008/04/28/mars-incorporated-announces-that-it-is-buying-the-wm-wrigley-jr-company-the-world-s-largest-chewing-gum-manufacturer-in-a-deal-worth.md)
-_Context: $, Berkshire Hathaway Inc., Mars Canada Inc., Warren Buffett, Wm. Wrigley Jr. Company, chewing gum_
+_Context: Berkshire Hathaway Inc., Mars Canada Inc., US$, Warren Buffett, Wm. Wrigley Jr. Company, chewing gum_
 
 ##### Supreme Court of the United States
 ### [ The Supreme Court of the United States issues a decision upholding an Indiana law requiring voters to provide photo identification. ](/news/2008/04/28/the-supreme-court-of-the-united-states-issues-a-decision-upholding-an-indiana-law-requiring-voters-to-provide-photo-identification.md)

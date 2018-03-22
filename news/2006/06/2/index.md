@@ -13,7 +13,7 @@ _Context: Female genital cutting, childbirth, complications, infant mortality_
 
 ##### China
 ### [ China, France, Germany, Russia, the United Kingdom and the United States propose a set of incentives and possible sanctions in an effort to encourage Iran to suspend or abandon its plans of nuclear development. ](/news/2006/06/2/china-france-germany-russia-the-united-kingdom-and-the-united-states-propose-a-set-of-incentives-and-possible-sanctions-in-an-effort-to.md)
-_Context: China, France, German, Iran, Iran and weapons of mass destruction, Russia, U.S., United Kingdom, sanctions_
+_Context: China, France, German, Iran, Iran and weapons of mass destruction, Russia, UK, United States, sanctions_
 
 ##### Robert F. Kennedy, Jr.
 ### [ Robert F. Kennedy, Jr., writing in "Rolling Stone" magazine, accuses George W. Bush and his Republican Party of widespread voting fraud during the 2004 Presidential Election. ](/news/2006/06/2/robert-f-kennedy-jr-writing-in-rolling-stone-magazine-accuses-george-w-bush-and-his-republican-party-of-widespread-voting-fraud-dur.md)

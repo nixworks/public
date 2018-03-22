@@ -13,7 +13,7 @@ Spanish police ringing parliament in Madrid fire rubber bullets at protesters ta
 
 ##### Enough Project
 ### [Activists from the Enough Project reveal through "The Guardian" newspaper that Omar al-Bashir's Sudan and Joseph Kabila's DR Congo together received 2.4 million pound sterling (around USD 4 million) in British military aid, in the last five years alone. ](/news/2012/09/25/activists-from-the-enough-project-reveal-through-the-guardian-newspaper-that-omar-al-bashir-s-sudan-and-joseph-kabila-s-dr-congo-together.md)
-_Context: $, DR Congo, Enough Project, Joseph Kabila, Omar al-Bashir, Sudan, The Guardian, United Kingdom, military aid, pound sterling_
+_Context: DR Congo, Enough Project, Joseph Kabila, Omar al-Bashir, Sudan, The Guardian, UK, US$, military aid, pound sterling_
 
 ##### Tsuyoshi Kikukawa
 ### [Tsuyoshi Kikukawa, the former President of Japan's Olympus Corporation, pleads guilty to fraud for his role in the Olympus scandal. ](/news/2012/09/25/tsuyoshi-kikukawa-the-former-president-of-japan-s-olympus-corporation-pleads-guilty-to-fraud-for-his-role-in-the-olympus-scandal.md)
@@ -35,9 +35,9 @@ _Context: Japan Coast Guard, Senkaku Islands, Taiwan_
 ### [A 6.2-magnitude earthquake hits near the Baja California peninsula with no immediate reports of injuries or damage. ](/news/2012/09/25/a-6-2-magnitude-earthquake-hits-near-the-baja-california-peninsula-with-no-immediate-reports-of-injuries-or-damage.md)
 _Context: Baja California peninsula, magnitude_
 
-##### U.S.
+##### United States
 ### [American singer Andy Williams dies at the age of 84 at his home in Branson, Missouri. ](/news/2012/09/25/american-singer-andy-williams-dies-at-the-age-of-84-at-his-home-in-branson-missouri.md)
-_Context: Andy Williams, Branson, Missouri, U.S._
+_Context: Andy Williams, Branson, Missouri, United States_
 
 ##### China
 ### [The People's Republic of China's People's Liberation Army Navy's first aircraft carrier, the "Liaoning", commences service. ](/news/2012/09/25/the-people-s-republic-of-china-s-people-s-liberation-army-navy-s-first-aircraft-carrier-the-liaoning-commences-service.md)

@@ -17,7 +17,7 @@ Read the latest national and world news on Newsday. All the top stores, latest v
 
 ##### Typhoon Bilis
 ### [ It is reported that Tropical Storm Bilis killed at least 115 people when it hit southeastern China on Friday. ](/news/2006/07/16/it-is-reported-that-tropical-storm-bilis-killed-at-least-115-people-when-it-hit-southeastern-china-on-friday.md)
-_Context: China, Typhoon Bilis_
+_Context: Chinese, Typhoon Bilis_
 
 ## [Previous Day...](/news/2006/07/15/index.md)
 

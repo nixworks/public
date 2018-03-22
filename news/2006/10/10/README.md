@@ -21,7 +21,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Atlantic Airways Flight 670
 ### [ A chartered Atlantic Airways Flight 670 skids off the runway at Stord Airport in Norway, killing four people. ](/news/2006/10/10/a-chartered-atlantic-airways-flight-670-skids-off-the-runway-at-stord-airport-in-norway-killing-four-people.md)
-_Context: Atlantic Airways Flight 670, Norway, Stord Airport_
+_Context: Atlantic Airways Flight 670, Norwegian, Stord Airport_
 
 ##### Iran
 ### [ Iran's Supreme Leader Ayatollah Ali Khamenei states that the country would pursue its right to develop nuclear technology and will not suspend uranium enrichment as the West demands, declaring: "Our policy is clear, progress with clear logic and insisting on the nation's right without any retreat." ](/news/2006/10/10/iran-s-supreme-leader-ayatollah-ali-khamenei-states-that-the-country-would-pursue-its-right-to-develop-nuclear-technology-and-will-not-susp.md)

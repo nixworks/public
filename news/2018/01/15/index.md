@@ -63,9 +63,9 @@ MORE than 70 people are said to be injured after a floor of the Indonesian stock
 ### [A 910 ct "D colour Type II A" diamond is dug up in the Letseng diamond mine, Lesotho. ](/news/2018/01/15/a-910-ct-d-colour-type-ii-a-diamond-is-dug-up-in-the-letseng-diamond-mine-lesotho.md)
 A 910 carat (ct) diamond recovered at GEM Diamonds&#8217; Letšeng mine in Lesotho could fetch more than $40m and help support the firm&#8217;s under-pressure balance sheet. Shares in GEM gained 13% in early morning trade on the London Stock Exchange. On a 12-month basis, however, the company has lo...
 
-##### United Kingdom
+##### UK
 ### [After talks between the company, its lenders, and the United Kingdom's government fail to reach a deal, British multinational facilities management and construction services company Carillion fails and is liquidated, threatening thousands of jobs. Carillion is currently involved in projects such as the high-speed rail in the United Kingdom, including the High Speed 2 rail line. ](/news/2018/01/15/after-talks-between-the-company-its-lenders-and-the-united-kingdom-s-government-fail-to-reach-a-deal-british-multinational-facilities-man.md)
-_Context: Carillion, High Speed 2, United Kingdom, facilities management, high-speed rail in the United Kingdom, liquidated, multinational_
+_Context: Carillion, High Speed 2, UK, facilities management, high-speed rail in the United Kingdom, liquidated, multinational_
 
 ##### #MeToo
 ### [American actress Eliza Dushku says she was sexually assaulted by a stuntman when she was 12 years old. ](/news/2018/01/15/american-actress-eliza-dushku-says-she-was-sexually-assaulted-by-a-stuntman-when-she-was-12-years-old.md)
@@ -77,7 +77,7 @@ The ex-policeman is accused of leading an armed rebellion involving a helicopter
 
 ##### Syrian Civil War
 ### [Turkey threatens to "strangle" the United States-backed Syrian Border Security Force "before it's even born", while Syria vows to crush it and expel American military personnel from the country. Russia called the plans "a plot to dismember Syria". ](/news/2018/01/15/turkey-threatens-to-strangle-the-united-states-backed-syrian-border-security-force-before-it-s-even-born-while-syria-vows-to-crush-it-a.md)
-_Context: Russia, Syria, Syrian Border Security Force, Syrian Civil War, Turkish, U.S._
+_Context: Russia, Syria, Syrian Border Security Force, Syrian Civil War, Turkish, United States_
 
 ##### India-Pakistan military confrontation (2016-present)
 ### [Four Pakistani soldiers are killed in shelling by the Indian Army across the disputed Kashmir frontier. ](/news/2018/01/15/four-pakistani-soldiers-are-killed-in-shelling-by-the-indian-army-across-the-disputed-kashmir-frontier.md)

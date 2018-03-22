@@ -19,9 +19,9 @@ _Context: South Korea_
 ### [Indonesia's Mount Sinabung eruption resumes spewing gas leading to the evacuation of 3,000 nearby residents. ](/news/2015/06/10/indonesia-s-mount-sinabung-eruption-resumes-spewing-gas-leading-to-the-evacuation-of-3-000-nearby-residents.md)
 _Context: Indonesia, Mount Sinabung_
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [At least 43 people have been killed in fighting in Yemen. ](/news/2015/06/10/at-least-43-people-have-been-killed-in-fighting-in-yemen.md)
-_Context: Saudi-led intervention in Yemen, Yemen_
+_Context: Saudi Arabian-led intervention in Yemen, Yemen_
 
 ##### U.S. President
 ### [President Barack Obama authorizes up to 450 additional troops in Iraq to train Sunni forces. ](/news/2015/06/10/president-barack-obama-authorizes-up-to-450-additional-troops-in-iraq-to-train-sunni-forces.md)

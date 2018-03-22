@@ -13,7 +13,7 @@ The verdict ended a mystery that has long haunted the New Jersey community where
 
 ##### Cross-Strait relations
 ### [China stages joint war games featuring mock beach landing, helicopter assaults and tank battles along its east coast, just days before the inauguration of Taiwanese president Tsai Ing-Wen. ](/news/2016/05/18/china-stages-joint-war-games-featuring-mock-beach-landing-helicopter-assaults-and-tank-battles-along-its-east-coast-just-days-before-the-i.md)
-_Context: China, Cross-Strait relations, Taiwan, Tsai Ing-Wen, drill_
+_Context: Chinese, Cross-Strait relations, Taiwan, Tsai Ing-Wen, drill_
 
 ##### U.S. Air Force
 ### [A United States Air Force B-52 Stratofortress crashes at Andersen Air Force Base on Guam. All seven aircrew members escaped. No injuries have been reported. ](/news/2016/05/18/a-united-states-air-force-b-52-stratofortress-crashes-at-andersen-air-force-base-on-guam-all-seven-aircrew-members-escaped-no-injuries-hav.md)

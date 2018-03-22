@@ -15,7 +15,7 @@ A teacher in New York is arrested on charges of flying and crashing a drone into
 ### [Two British VICE News journalists, Jake Hanrahan and Philip Pendlebury, arrested on 28 August in Diyarbakir Province in southeastern Turkey on terror charges, are released while their colleague, translator Mohammed Ismael Rasool, remains in custody. ](/news/2015/09/4/two-british-vice-news-journalists-jake-hanrahan-and-philip-pendlebury-arrested-on-28-august-in-diyarbakir-province-in-southeastern-turkey.md)
 _Context: British, Diyarbakir Province, VICE News, southeast Turkey_
 
-##### United Kingdom
+##### UK
 ### [Forty one people are injured when a British tourist bus and four trucks are involved in a collision between Sempach and Sursee in Switzerland. ](/news/2015/09/4/forty-one-people-are-injured-when-a-british-tourist-bus-and-four-trucks-are-involved-in-a-collision-between-sempach-and-sursee-in-switzerlan.md)
 Forty-one people have been injured in central Switzerland when a British tourist bus and four trucks were involved in a collision.
 
@@ -55,7 +55,7 @@ Russian president talks of desire for &#034;international coalition&#034; to fig
 ### [ Clashes in and around Tajikistan's capital Dushanbe kill at least 17 people. Government representatives blame the attacks against security forces on former Deputy Defense Minister Aduhalim Nazarzoda, who fought against government forces in the Tajikistan Civil War. ](/news/2015/09/4/clashes-in-and-around-tajikistan-s-capital-dushanbe-kill-at-least-17-people-government-representatives-blame-the-attacks-against-security.md)
 _Context: Dushanbe, Tajikistan, Tajikistan Civil War_
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [An explosion at an arms depot in Yemen kills 45 Emirati soldiers who were part of the Saudi led coalition. ](/news/2015/09/4/an-explosion-at-an-arms-depot-in-yemen-kills-45-emirati-soldiers-who-were-part-of-the-saudi-led-coalition.md)
 UAE warplanes carried out air strikes on Yemeni rebels Saturday as Emiratis mourned 45 of their soldiers, who were among dozens killed in the deadliest day yet for the Saudi-led coalition. Media in Riyadh said 10 Saudi soldiers died in Friday&#x27;s missile attack in the battleground eastern oil pro...
 

@@ -21,7 +21,7 @@ _Context: ABC News, Baghdad_
 
 ##### Black Swan Project
 ### [ Black Swan Project: Deep sea explorers retrieve 17 tons of colonial era silver and gold coins with an estimated value of US$500 million. ](/news/2007/05/18/black-swan-project-deep-sea-explorers-retrieve-17-tons-of-colonial-era-silver-and-gold-coins-with-an-estimated-value-of-us-500-million.md)
-_Context: $, Black Swan Project, coin, colonial era, gold, silver, tons_
+_Context: Black Swan Project, US$, coin, colonial era, gold, silver, tons_
 
 ##### Bomb
 ### [ A bomb in a market place in Juliaca in southern Peru kills 6 people and injures about 50. ](/news/2007/05/18/a-bomb-in-a-market-place-in-juliaca-in-southern-peru-kills-6-people-and-injures-about-50.md)

@@ -37,7 +37,7 @@ _Context: Afghanistan, Gora Prai airstrike, Pakistan, Robert Gates, United State
 
 ##### Salmonella
 ### [ The Salmonella outbreak in the United States caused by tainted tomatoes continues to worsen with 228 victims in 23 states. ](/news/2008/06/12/the-salmonella-outbreak-in-the-united-states-caused-by-tainted-tomatoes-continues-to-worsen-with-228-victims-in-23-states.md)
-_Context: Salmonella, U.S., tomato_
+_Context: Salmonella, United States, tomato_
 
 ##### David Davis
 ### [ David Davis, the Conservative Shadow Home Secretary resigns as the Member of Parliament for Haltemprice and Howden in order to contest the Haltemprice and Howden by-election, 2008 on civil liberties issues. ](/news/2008/06/12/david-davis-the-conservative-shadow-home-secretary-resigns-as-the-member-of-parliament-for-haltemprice-and-howden-in-order-to-contest-the.md)

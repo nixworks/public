@@ -19,7 +19,7 @@ Interior ministry says some of those arrested were linked to ISIL and were plann
 ### [The Obama administration orders the transfer of six prisoners from Guantanamo Bay detention camp to Uruguay, the largest single group of detainees to be released in five years and the first to be resettled in South America. ](/news/2014/12/7/the-obama-administration-orders-the-transfer-of-six-prisoners-from-guantanamo-bay-detention-camp-to-uruguay-the-largest-single-group-of-det.md)
 The transfer announced by the Defense Department was the largest single group of inmates to leave the prison in Cuba since 2009.
 
-##### China
+##### Chinese
 ### [China condemns the Philippines over the latter's "pressure" over the South China Sea despite the disadvantage of the Armed Forces of the Philippines against China's People's Liberation Army. ](/news/2014/12/7/china-condemns-the-philippines-over-the-latter-s-pressure-over-the-south-china-sea-despite-the-disadvantage-of-the-armed-forces-of-the-phi.md)
 BEIJING (Reuters) - China denounced the Philippines on Sunday for putting it under political pressure with an international arbitration case over disputed waters, and refused again to participate a week ahead of a deadline to respond in the case.. Read more at straitstimes.com.
 

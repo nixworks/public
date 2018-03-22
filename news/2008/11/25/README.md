@@ -21,7 +21,7 @@ _Context: Russia, Saint Petersburg, Saint Petersburg Metro, car bombing_
 
 ##### Armenia
 ### [ Armenia retains their championship title by beating China 2.5-1.5 in the 11th and final round at the 38th Chess Olympiad in Dresden, Germany. ](/news/2008/11/25/armenia-retains-their-championship-title-by-beating-china-2-5-1-5-in-the-11th-and-final-round-at-the-38th-chess-olympiad-in-dresden-german.md)
-_Context: 38th Chess Olympiad, Armenia, China, Dresden, German_
+_Context: 38th Chess Olympiad, Armenia, Chinese, Dresden, German_
 
 ##### U.S. Federal Reserve
 ### [ The U.S. Federal Reserve announces a new US$800 billion "stimulus" package in which it will buy debt and mortgage-backed securities and make loans to holders of consumer debt ](/news/2008/11/25/the-u-s-federal-reserve-announces-a-new-us-800-billion-stimulus-package-in-which-it-will-buy-debt-and-mortgage-backed-securities-and-mak.md)

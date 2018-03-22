@@ -29,7 +29,7 @@ Former Virginia Gov. Bob McDonnell was sentenced Tuesday to two years in federal
 
 ##### Lord's Resistance Army
 ### [A man claiming to be the Lord's Resistance Army top commander Ugandan Dominic Ongwen turns himself in to United States forces in the Central African Republic. ](/news/2015/01/6/a-man-claiming-to-be-the-lord-s-resistance-army-top-commander-ugandan-dominic-ongwen-turns-himself-in-to-united-states-forces-in-the-central.md)
-_Context: Central African Republic, Dominic Ongwen, Lord's Resistance Army, U.S., Ugandan_
+_Context: Central African Republic, Dominic Ongwen, Lord's Resistance Army, Ugandan, United States_
 
 ##### California
 ### [Various California state district attorneys fine Safeway a total of $10 million for the illegal dumping of electronics and pharmaceuticals into landfills. ](/news/2015/01/6/various-california-state-district-attorneys-fine-safeway-a-total-of-10-million-for-the-illegal-dumping-of-electronics-and-pharmaceuticals-i.md)
@@ -61,7 +61,7 @@ At least 12 Ukrainian servicemen were killed and more than 20 injured in eastern
 
 ##### Crude oil
 ### [The price of crude oil drops to $48 per barrel, the lowest since April of 2009. ](/news/2015/01/6/the-price-of-crude-oil-drops-to-48-per-barrel-the-lowest-since-april-of-2009.md)
-_Context: $, crude oil_
+_Context: US$, crude oil_
 
 ##### Coach, Inc.
 ### [American luxury fashion company Coach, Inc. agrees to purchase shoe brand Stuart Weitzman for $574 million. ](/news/2015/01/6/american-luxury-fashion-company-coach-inc-agrees-to-purchase-shoe-brand-stuart-weitzman-for-574-million.md)

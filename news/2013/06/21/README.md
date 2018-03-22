@@ -29,7 +29,7 @@ Riga Castle has been badly damaged by fire. The historical building, which is lo
 
 ##### People's Bank of China
 ### [The People's Bank of China intervenes to alleviate a cash crunch as it continues to act to reduce over-leveraging in the People's Republic of China. ](/news/2013/06/21/the-people-s-bank-of-china-intervenes-to-alleviate-a-cash-crunch-as-it-continues-to-act-to-reduce-over-leveraging-in-the-people-s-republic-o.md)
-_Context: China, People's Bank of China, cash crunch_
+_Context: Chinese, People's Bank of China, cash crunch_
 
 ##### Law firm
 ### [A gunman opens fire at a law firm and a Walmart in Greenville, North Carolina, U.S., injuring four people. The gunman is later shot by the police and brought into custody after being wounded. ](/news/2013/06/21/a-gunman-opens-fire-at-a-law-firm-and-a-walmart-in-greenville-north-carolina-u-s-injuring-four-people-the-gunman-is-later-shot-by-the-p.md)

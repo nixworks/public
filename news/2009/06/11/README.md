@@ -31,7 +31,7 @@ _Context: Islam, Lahore, Pakistan, Sarfraz Naeemi, Taliban, suicide bomb_
 ### [ The United Nations Security Council unanimously votes to impose further sanctions on North Korea, following recent nuclear and missile tests. ](/news/2009/06/11/the-united-nations-security-council-unanimously-votes-to-impose-further-sanctions-on-north-korea-following-recent-nuclear-and-missile-test.md)
 _Context: 2009, North Korea, United Nations Security Council, sanctions, sanctions_
 
-##### U.S.
+##### United States
 ### [ U.S. television stations complete their switch from analog to digital television. ](/news/2009/06/11/u-s-television-stations-complete-their-switch-from-analog-to-digital-television.md)
 The big DTV moment is here - like New Year&#8217;s Eve, labor pains or the millennium. After months of hand-holding public service announcements, intense how-to workshops, television specials and confusion over discount coupons, Americans will finally get their DTV.
 
@@ -53,7 +53,7 @@ _Context: Ferrero SpA, hazelnut_
 
 ##### Brazil
 ### [ For the first time ever, Brazil offers US$10 billion in financing to the International Monetary Fund to help improve the availability of credit in developing countries. ](/news/2009/06/11/for-the-first-time-ever-brazil-offers-us-10-billion-in-financing-to-the-international-monetary-fund-to-help-improve-the-availability-of-cr.md)
-_Context: $, Brazil, International Monetary Fund_
+_Context: Brazil, International Monetary Fund, US$_
 
 ##### Xu Zongheng
 ### [ Xu Zongheng, the mayor of Shenzhen, southern China, is dismissed for "disciplinary offences" after being questioned on corruption allegations. ](/news/2009/06/11/xu-zongheng-the-mayor-of-shenzhen-southern-china-is-dismissed-for-disciplinary-offences-after-being-questioned-on-corruption-allegatio.md)
@@ -75,9 +75,9 @@ French President Nicolas Sarkozy has said he would be prepared to travel to Irel
 ### [ Campaigning in Iran's presidential election ends after three weeks of mass rallies and political rhetoric. ](/news/2009/06/11/campaigning-in-iran-s-presidential-election-ends-after-three-weeks-of-mass-rallies-and-political-rhetoric.md)
 _Context: Iran, re-election_
 
-##### China
+##### Chinese
 ### [ Four Chinese Uighurs from the Guantanamo Bay detention camp are resettled in Bermuda. ](/news/2009/06/11/four-chinese-uighurs-from-the-guantanamo-bay-detention-camp-are-resettled-in-bermuda.md)
-_Context: Bermuda, China, Guantanamo Bay detention camp, Uyghur_
+_Context: Bermuda, Chinese, Guantanamo Bay detention camp, Uyghur_
 
 ##### RTE
 ### [ RTE, Ireland's public service broadcaster, denies it is facing bankruptcy. ](/news/2009/06/11/rta-ireland-s-public-service-broadcaster-denies-it-is-facing-bankruptcy.md)
@@ -101,7 +101,7 @@ _Context: Commission to Inquire into Child Abuse, Dail Eireann, Fine Gael, Gover
 
 ##### Sweden
 ### [ Swedish sports car maker Koenigsegg is to buy Saab Automobile from General Motors with support from Norwegian investors.](/news/2009/06/11/swedish-sports-car-maker-koenigsegg-is-to-buy-saab-automobile-from-general-motors-with-support-from-norwegian-investors.md)
-_Context: General Motors, Koenigsegg, Norway, Saab Automobile, Sweden_
+_Context: General Motors, Koenigsegg, Norwegian, Saab Automobile, Sweden_
 
 ##### Bosnian
 ### [ A Bosnian television station shows what it says is recent video footage of genocide suspect and Bosnian war commander General Ratko Mladic in Serbia. ](/news/2009/06/11/a-bosnian-television-station-shows-what-it-says-is-recent-video-footage-of-genocide-suspect-and-bosnian-war-commander-general-ratko-mladia.md)

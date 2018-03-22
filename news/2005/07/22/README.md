@@ -25,7 +25,7 @@ _Context: (Wikinews), London, mosque_
 
 ##### Dam
 ### [ At least 15 people are killed when a dam collapses in south-west China. ](/news/2005/07/22/at-least-15-people-are-killed-when-a-dam-collapses-in-south-west-china.md)
-_Context: China, dam_
+_Context: Chinese, dam_
 
 ##### Yemen
 ### [ At least 36 people are dead after two days of violent fuel riots in Yemen. ](/news/2005/07/22/at-least-36-people-are-dead-after-two-days-of-violent-fuel-riots-in-yemen.md)

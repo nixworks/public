@@ -5,7 +5,7 @@ Formats: [HTML](2010/10/11/index.html)  [JSON](2010/10/11/index.json)  [XML](201
 
 ##### Surgeon
 ### [Surgeons at the Shepherd Center in Atlanta, Georgia inject a spinal cord injury patient with embryonic stem cells in an experiment approved by United States Food and Drug Administration. ](/news/2010/10/11/surgeons-at-the-shepherd-center-in-atlanta-georgia-inject-a-spinal-cord-injury-patient-with-embryonic-stem-cells-in-an-experiment-approved.md)
-_Context: Atlanta, Food and Drug Administration, Georgia, Shepherd Center, Surgeon, U.S., embryonic stem cell, spinal cord_
+_Context: Atlanta, Food and Drug Administration, Georgia, Shepherd Center, Surgeon, United States, embryonic stem cell, spinal cord_
 
 ##### Government of Bolivia
 ### [The government of Bolivia annuls a new coca production law which cut the number of leaves growers could sell following widespread protests. ](/news/2010/10/11/the-government-of-bolivia-annuls-a-new-coca-production-law-which-cut-the-number-of-leaves-growers-could-sell-following-widespread-protests.md)
@@ -31,9 +31,9 @@ _Context: Leadership Academy for Girls, Meyerton, Oprah Winfrey, South Africa, s
 ### [Benigno Aquino III, the President of the Philippines, elects only for administrative, and no criminal charges to be laid in relation to the botched Manila hostage crisis in August. ](/news/2010/10/11/benigno-aquino-iii-the-president-of-the-philippines-elects-only-for-administrative-and-no-criminal-charges-to-be-laid-in-relation-to-the.md)
 _Context: Manila hostage crisis, Philippine President, his predecessor_
 
-##### United Kingdom
+##### UK
 ### [British judge Heather Hallett opens the inquests into the 7 July 2005 London bombings. ](/news/2010/10/11/british-judge-heather-hallett-opens-the-inquests-into-the-7-july-2005-london-bombings.md)
-_Context: 7 July, Heather Hallett, United Kingdom, inquest_
+_Context: 7 July, Heather Hallett, UK, inquest_
 
 ##### Greek Police
 ### [Greek Police officer Epaminondas Korkoneas is convicted of the culpable homicide of teenager Alexandros Grigoropoulos which sparked the 2008 Greek riots. ](/news/2010/10/11/greek-police-officer-epaminondas-korkoneas-is-convicted-of-the-culpable-homicide-of-teenager-alexandros-grigoropoulos-which-sparked-the-2008.md)
@@ -43,9 +43,9 @@ A Greek policeman is sentenced to life in jail for murdering a schoolboy in 2008
 ### [The United Arab Emirates closes its airspace to Canada's Defence Minister Peter MacKay over a growing dispute over aviation rights.](/news/2010/10/11/the-united-arab-emirates-closes-its-airspace-to-canada-s-defence-minister-peter-mackay-over-a-growing-dispute-over-aviation-rights.md)
 _Context: Canada, Defence Minister, Peter MacKay, United Arab Emirates, dispute over aviation rights_
 
-##### China
+##### Chinese
 ### [China cancels a meeting with Norwegian Minister of Fisheries and Coastal Affairs Lisbeth Berg-Hansen after the Nobel Peace Prize is awarded to him. ](/news/2010/10/11/china-cancels-a-meeting-with-norwegian-minister-of-fisheries-and-coastal-affairs-lisbeth-berg-hansen-after-the-nobel-peace-prize-is-awarded.md)
-_Context: China, Lisbeth Berg-Hansen, Minister of Fisheries and Coastal Affairs, Nobel Peace Prize, Norway_
+_Context: Chinese, Lisbeth Berg-Hansen, Minister of Fisheries and Coastal Affairs, Nobel Peace Prize, Norwegian_
 
 ##### Israel
 ### [Israeli Prime Minister Benjamin Netanyahu says that he will extend the settlement freeze if the Palestinian leadership recognizes Israel as a Jewish state. The Palestinians quickly reject the offer. ](/news/2010/10/11/israeli-prime-minister-benjamin-netanyahu-says-that-he-will-extend-the-settlement-freeze-if-the-palestinian-leadership-recognizes-israel-as.md)
@@ -75,7 +75,7 @@ Two Americans and a British-Cypriot economist won the 2010 Nobel economics prize
 ### [Australian opera singer Dame Joan Sutherland dies in Switzerland after a lengthy illness. ](/news/2010/10/11/australian-opera-singer-dame-joan-sutherland-dies-in-switzerland-after-a-lengthy-illness.md)
 SHE was a transcendental performer who had a magic quality that held audiences captive right around the world. Her influence extended well beyond the opera world and reached into popular culture.
 
-##### United Kingdom
+##### UK
 ### [British pop singer George Michael is released from a Suffolk prison after serving 4 weeks for driving while under the influence of cannabis. ](/news/2010/10/11/british-pop-singer-george-michael-is-released-from-a-suffolk-prison-after-serving-4-weeks-for-driving-while-under-the-influence-of-cannabis.md)
 Pop star George Michael says he &quot;just wants to start again&quot; as he is released from prison in Suffolk after serving a sentence for drug driving.
 

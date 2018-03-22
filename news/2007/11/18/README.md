@@ -37,7 +37,7 @@ _Context: 2007 Writers Guild of America strike, Screenwriter, movie studio, nego
 
 ##### Venezuela
 ### [ Venezuelan President Hugo Chvez opens the 2007 OPEC meeting in Saudi Arabia, warning the United States against attacking Iran. ](/news/2007/11/18/venezuelan-president-hugo-chavez-opens-the-2007-opec-meeting-in-saudi-arabia-warning-the-united-states-against-attacking-iran.md)
-_Context: Hugo Chvez, Iran, OPEC, President, Saudi Arabia, U.S., Venezuela_
+_Context: Hugo Chvez, Iran, OPEC, President, Saudi Arabia, United States, Venezuela_
 
 ##### Hong Kong
 ### [ Hong Kong voters go to the polls in District Council elections, with pro-Beijing parties expected to recover. ](/news/2007/11/18/hong-kong-voters-go-to-the-polls-in-district-council-elections-with-pro-beijing-parties-expected-to-recover.md)

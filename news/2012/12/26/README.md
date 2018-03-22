@@ -3,9 +3,9 @@ Formats: [HTML](2012/12/26/index.html)  [JSON](2012/12/26/index.json)  [XML](201
 
 ## [2012-12-26](/news/2012/12/26/index.md)
 
-##### China
+##### Chinese
 ### [China officially opens the world's longest high-speed rail route, which links Beijing and Guangzhou. ](/news/2012/12/26/china-officially-opens-the-world-s-longest-high-speed-rail-route-which-links-beijing-and-guangzhou.md)
-_Context: Beijing, China, Guangzhou, bullet train system, high-speed rail, route, world's longest_
+_Context: Beijing, Chinese, Guangzhou, bullet train system, high-speed rail, route, world's longest_
 
 ##### Hawaii
 ### [Hawaii's Democratic Governor Neil Abercrombie appoints Lieutenant Governor Brian Schatz (a former state legislator and nonprofit group executive) to fill the term of the recently-deceased longtime Democratic U.S. Senator Daniel Inouye until 2014, when a special election will be called to fill the slot until 2016. His was one of three names known to have been submitted by the state party's central committee, along with an unnamed person and U.S. Democrat Colleen Hanabusa, whom Inouye had stated as his preferred successor hours before his death. ](/news/2012/12/26/hawaii-s-democratic-governor-neil-abercrombie-appoints-lieutenant-governor-brian-schatz-a-former-state-legislator-and-nonprofit-group-execu.md)
@@ -35,9 +35,9 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [A moderate severe weather outbreak pounds several southern U.S. states on Christmas Day, including Texas, Alabama, Mississippi and Louisiana. More than 30 tornadoes are reported as the storms leave at least six people dead. The system is expected to move northeast and affect the East Coast with high winds and heavy snowfall. ](/news/2012/12/26/a-moderate-severe-weather-outbreak-pounds-several-southern-u-s-states-on-christmas-day-including-texas-alabama-mississippi-and-louisiana.md)
 Severe Christmas day weather tore across the deep south of the U.S., spinning off at least 34 possible tornadoes and killing at least three people in its path, while extreme weather is forecast throughout today for parts of the East Coast.
 
-##### China
+##### Chinese
 ### [CBB International, a financial analytics concern, releases a survey of executives indicating that China's retail sector is growing, leading a broader upswing in that nation's economy. ](/news/2012/12/26/cbb-international-a-financial-analytics-concern-releases-a-survey-of-executives-indicating-that-china-s-retail-sector-is-growing-leading.md)
-_Context: China, retail_
+_Context: Chinese, retail_
 
 ##### Gerry Anderson
 ### [Gerry Anderson, pioneer of "supermarionation" and creator of classic television series such as "Thunderbirds" and "Stingray", dies aged 83. ](/news/2012/12/26/gerry-anderson-pioneer-of-supermarionation-and-creator-of-classic-television-series-such-as-thunderbirds-and-stingray-dies-aged-83.md)

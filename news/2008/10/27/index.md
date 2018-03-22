@@ -19,9 +19,9 @@ _Context: BBC, Pakistan, South Waziristan_
 ### [ Line m2 of the Lausanne Metro starts revenue service, making Lausanne, Switzerland, the smallest city in the world to have a metro system. ](/news/2008/10/27/line-m2-of-the-lausanne-metro-starts-revenue-service-making-lausanne-switzerland-the-smallest-city-in-the-world-to-have-a-metro-system.md)
 _Context: Lausanne, Lausanne Metro, Swiss_
 
-##### $
+##### US$
 ### [ Nine major US banks will receive a $US123 billion capital injection from the federal government, says a Treasury Department official. ](/news/2008/10/27/nine-major-us-banks-will-receive-a-us123-billion-capital-injection-from-the-federal-government-says-a-treasury-department-official.md)
-_Context: $, United States Treasury Department, United States government_
+_Context: US$, United States Treasury Department, United States government_
 
 ##### Tutsi
 ### [ Tutsi rebels under Laurent Nkunda are reportedly advancing on the city of Goma in the Democratic Republic of the Congo. ](/news/2008/10/27/tutsi-rebels-under-laurent-nkunda-are-reportedly-advancing-on-the-city-of-goma-in-the-democratic-republic-of-the-congo.md)
@@ -33,7 +33,7 @@ _Context: Washington Metro, Washington, D.C._
 
 ##### Alaska
 ### [ Alaskan Senator Ted Stevens is found guilty on all seven counts of lying on United States Senate financial documents. ](/news/2008/10/27/alaskan-senator-ted-stevens-is-found-guilty-on-all-seven-counts-of-lying-on-united-states-senate-financial-documents.md)
-_Context: Alaska, Ted Stevens, U.S., United States Senate_
+_Context: Alaska, Ted Stevens, United States, United States Senate_
 
 ## [Previous Day...](/news/2008/10/26/index.md)
 

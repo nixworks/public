@@ -31,7 +31,7 @@ _Context: Khazanah Nasional, Malaysia, Malaysia Airlines_
 ### [Ukraine's government picks 172 individuals and 65 companies that will face sanctions for "support and financing of terrorism" or responsible for crimes on country's territory during the pro-Russian unrest. ](/news/2014/08/8/ukraineas-government-picks-172-individuals-and-65-companies-that-will-face-sanctions-for-support-and-financing-of-terrorism-or-responsib.md)
 _Context: 2014 pro-Russian unrest in Ukraine, Ukraine_
 
-##### U.S.
+##### United States
 ### [U.S. F-A-18 fighters bomb ISIS artillery units and a military convoy. ](/news/2014/08/8/u-s-f-a-18-fighters-bomb-isis-artillery-units-and-a-military-convoy.md)
 Tens of thousands of Yazidis have taken refuge on a mountain in Sinjar province after Islamic State fighters overran their town and other areas, pushing out Kurdish paramilitary forces. 
 

@@ -15,9 +15,9 @@ WILLEMSTAD - Gilmar Pisas was just sworn in as Prime Minister of Curaçao. The p
 ### [The replacement plan for the Patient Protection and Affordable Care Act (aka Obamacare) is withdrawn after Republican leaders fail to gain enough support. The failure of the Trump administration to repeal the act means it will remain law in the United States.](/news/2017/03/24/the-replacement-plan-for-the-patient-protection-and-affordable-care-act-aka-obamacare-is-withdrawn-after-republican-leaders-fail-to-gain-e.md)
 _Context: 2017 Patient Protection and Affordable Care Act replacement proposals, Obamacare_
 
-##### U.S.
+##### United States
 ### [United States President Donald Trump approves the controversial Keystone XL pipeline. ](/news/2017/03/24/united-states-president-donald-trump-approves-the-controversial-keystone-xl-pipeline.md)
-_Context: Donald Trump, Keystone XL, U.S._
+_Context: Donald Trump, Keystone XL, United States_
 
 ##### Warlord
 ### [Imprisoned former Congolese warlord Germain Katanga is ordered by the International Criminal Court to pay reparations to some of his victims in the first such ruling by the court. ](/news/2017/03/24/imprisoned-former-congolese-warlord-germain-katanga-is-ordered-by-the-international-criminal-court-to-pay-reparations-to-some-of-his-victims.md)

@@ -13,7 +13,7 @@ _Context: Tamil Nadu, Thirumatpur, minibus, southern India, train_
 
 ##### Wal-Mart
 ### [ Wal-Mart retakes the #1 position on the 2007 Fortune 500 list with US$351.1 billion in revenue for F-Y 2006, beating previous #1 ExxonMobil by $3.9 billion. ](/news/2007/04/16/wal-mart-retakes-the-1-position-on-the-2007-fortune-500-list-with-us-351-1-billion-in-revenue-for-f-y-2006-beating-previous-1-exxonmobil.md)
-_Context: $, 2006, 2007, ExxonMobil Corporation, Fortune 500, Wal-Mart, fiscal year_
+_Context: 2006, 2007, ExxonMobil Corporation, Fortune 500, US$, Wal-Mart, fiscal year_
 
 ##### Republic of Macedonia
 ### [ Former Macedonian Interior Minister Ljube Boskovski and his ex-bodyguard Johan Tarculovski face trials for war crimes at the International Criminal Tribunal for the Former Yugoslavia at The Hague. ](/news/2007/04/16/former-macedonian-interior-minister-ljube-boskovski-and-his-ex-bodyguard-johan-tarculovski-face-trials-for-war-crimes-at-the-international.md)
@@ -23,9 +23,9 @@ _Context: International Criminal Tribunal for the Former Yugoslavia, Johan Tarcu
 ### [ Kalyk Imankulov, the former Chairman of the Kyrgyz National Security Service, joins the United Front For A Worthy Future For Kyrgyzstan political alliance. The alliance is staging its sixth day of protests as it calls for the resignation of President Kurmanbek Bakiyev. ](/news/2007/04/16/kalyk-imankulov-the-former-chairman-of-the-kyrgyz-national-security-service-joins-the-united-front-for-a-worthy-future-for-kyrgyzstan-pol.md)
 Kyrgyzstan entered its sixth day of anti-government protests on April 16, after a tense weekend that included several violent encounters. With the estimated turnout lower than opposition organizers ha
 
-##### U.S.
+##### United States
 ### [ The United States, Japan and India carry out a joint naval exercise in the Pacific Ocean in an attempt to increase strategic cooperation. ](/news/2007/04/16/the-united-states-japan-and-india-carry-out-a-joint-naval-exercise-in-the-pacific-ocean-in-an-attempt-to-increase-strategic-cooperation.md)
-_Context: India, Japan, South Pacific Ocean, U.S., navy_
+_Context: India, Japan, South Pacific Ocean, United States, navy_
 
 ##### Prosperous Armenia
 ### [ The offices of the Prosperous Armenia political party in Yerevan are bombed. No one is killed and no one has claimed responsibility. ](/news/2007/04/16/the-offices-of-the-prosperous-armenia-political-party-in-yerevan-are-bombed-no-one-is-killed-and-no-one-has-claimed-responsibility.md)
@@ -41,7 +41,7 @@ _Context: African Union, Darfur, Sudan, United Nations_
 
 ##### Coal
 ### [ At least 33 coal miners are trapped in a mine in Baofeng county, Henan province, China. ](/news/2007/04/16/at-least-33-coal-miners-are-trapped-in-a-mine-in-baofeng-county-henan-province-china.md)
-_Context: Baofeng, China, Henan, coal, miner_
+_Context: Baofeng, Chinese, Henan, coal, miner_
 
 ##### Ekmeleddin Ihsanoglu
 ### [ Ekmeleddin Ihsanoglu, the Secretary-General of the Organisation of the Islamic Conference, calls for an end of fighting between the Philippines government and the Moro National Liberation Front, which has killed at least 12 people over the past few days. ](/news/2007/04/16/ekmeleddin-adeghsanoalu-the-secretary-general-of-the-organisation-of-the-islamic-conference-calls-for-an-end-of-fighting-between-the-phili.md)

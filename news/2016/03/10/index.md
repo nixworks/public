@@ -7,7 +7,7 @@ Formats: [HTML](2016/03/10/index.html)  [JSON](2016/03/10/index.json)  [XML](201
 ### [The Irish Dail Eireann (parliament) fails to elect a new taoiseach (Prime Minister) with incumbent Enda Kenny carrying on as a caretaker. ](/news/2016/03/10/the-irish-da-il-aireann-parliament-fails-to-elect-a-new-taoiseach-prime-minister-with-incumbent-enda-kenny-carrying-on-as-a-caretaker.md)
 The 32nd Irish parliament (Dáil) fails to appoint a new taoiseach (prime minister) after meeting for the first time on Thursday.
 
-##### Myanmar's president's office
+##### Myanmar President
 ### [Three candidates are put forward to become President of Myanmar: Htin Kyaw and Sai Nyunt Lwin from the National League for Democracy and Khin Aung Myint from the military. ](/news/2016/03/10/three-candidates-are-put-forward-to-become-president-of-myanmar-htin-kyaw-and-sai-nyunt-lwin-from-the-national-league-for-democracy-and-khi.md)
 A trusted aide of Aung San Suu Kyi looks certain to be become Myanmar&#039;s next president.
 

@@ -67,7 +67,7 @@ _Context: 1390, Nowruz_
 ### [Musician Wyclef Jean is shot in the hand near Port-au-Prince. Mr Jean supports Michel Martelly in the unfolding Haitian election. ](/news/2011/03/20/musician-wyclef-jean-is-shot-in-the-hand-near-port-au-prince-mr-jean-supports-michel-martelly-in-the-unfolding-haitian-election.md)
 Haiti-born hip-hop star Wyclef Jean is released from hospital after being treated for a gunshot wound to his hand, his spokesman says.
 
-##### U.S.
+##### United States
 ### [A protest against the alleged "appalling" treatment by the United States of Bradley Manning occurs in London, with supporters from Wales, where Manning attended school, attending. ](/news/2011/03/20/a-protest-against-the-alleged-appalling-treatment-by-the-united-states-of-bradley-manning-occurs-in-london-with-supporters-from-wales-wh.md)
 Campaigners from Wales travel to London to protest over the alleged treatment of a US army private accused of leaking confidential papers.
 

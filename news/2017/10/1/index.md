@@ -19,9 +19,9 @@ _Context: Las Vegas, NFL, Nevada, Nicole Brown Simpson, O. J. Simpson, O. J. Sim
 ### [Vanuatu begins evacuating 11,000 islanders from the island of Ambae because of the erupting volcano Manaro Voui which pollutes the water. ](/news/2017/10/1/vanuatu-begins-evacuating-11-000-islanders-from-the-island-of-ambae-because-of-the-erupting-volcano-manaro-voui-which-pollutes-the-water.md)
 Vanuatu has launched a Dunkirk-style evacuation on the northern island of Ambae as a flotilla of boats rescues islanders from an erupting volcano.
 
-##### United Kingdom
+##### UK
 ### [The United Kingdom's Monarch Airlines goes into financial bankruptcy administration, suspending all flights, cancelling 300 thousand bookings, and leaving tens of thousands of passengers stranded. ](/news/2017/10/1/the-united-kingdom-s-monarch-airlines-goes-into-financial-bankruptcy-administration-suspending-all-flights-cancelling-300-thousand-booking.md)
-_Context: Monarch Airlines, United Kingdom, bankruptcy_
+_Context: Monarch Airlines, UK, bankruptcy_
 
 ##### 2017 Las Vegas shooting
 ### [A gunman opens fire in Paradise, Nevada, at the Mandalay Bay Resort and Casino from the upper floors down upon a Jason Aldean outdoor concert, with at least 59 people dead and 527 others injured. Authorities believe the lone gunman is dead. ](/news/2017/10/1/a-gunman-opens-fire-in-paradise-nevada-at-the-mandalay-bay-resort-and-casino-from-the-upper-floors-down-upon-a-jason-aldean-outdoor-concer.md)
@@ -41,7 +41,7 @@ _Context: France, ISIL, Marseille, Marseille stabbing, Saint Charles_
 
 ##### Yemeni Crisis (2011-present)
 ### [Houthi forces claim to have shot down a U.S. MQ-9 Reaper drone over the Yemeni capital Sana'a. Footage released by Saba News Agency appears to show crowds gathering around the wreckage of an aircraft. ](/news/2017/10/1/houthi-forces-claim-to-have-shot-down-a-u-s-mq-9-reaper-drone-over-the-yemeni-capital-sana-a-footage-released-by-saba-news-agency-appears.md)
-_Context: Houthi, MQ-9 Reaper, Saba News Agency, Sana'a, U.S., Yemen, Yemeni Crisis (2011-present)_
+_Context: Houthis, MQ-9 Reaper, Saba News Agency, Sana'a, United States, Yemen, Yemeni Crisis (2011-present)_
 
 ## [Previous Day...](/news/2017/09/30/index.md)
 

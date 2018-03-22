@@ -21,7 +21,7 @@ _Context: Afghan, Badakhshan, ISAF, Taliban_
 
 ##### Drones launch
 ### [A drone attack conducted by the United States kills two suspected militants outside their hideout in South Waziristan in northwestern Pakistan. ](/news/2012/06/2/a-drone-attack-conducted-by-the-united-states-kills-two-suspected-militants-outside-their-hideout-in-south-waziristan-in-northwestern-pakist.md)
-_Context: Pakistan, South Waziristan, U.S., drones launch_
+_Context: Pakistan, South Waziristan, United States, drones launch_
 
 ##### Bashar al-Assad
 ### [Clashes between supporters and opponents of Syrian president Bashar al-Assad kill at least 12 and injure more than 40 people in the Lebanese port city of Tripoli. ](/news/2012/06/2/clashes-between-supporters-and-opponents-of-syrian-president-bashar-al-assad-kill-at-least-12-and-injure-more-than-40-people-in-the-lebanese.md)

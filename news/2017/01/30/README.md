@@ -25,7 +25,7 @@ The Philippine police are to suspend their controversial war on drugs until &ldq
 
 ##### Iraq-United States relations
 ### [The Iraqi Parliament votes in favour of a reciprocal travel ban on U.S. citizens if U.S. President Donald Trump's executive order barring citizens of Iraq and six other Muslim-majority countries is not reversed. The Iraqi travel ban will not be implemented while tens of thousands of U.S. soldiers and contractors are involved in the fight against ISIL. ](/news/2017/01/30/the-iraqi-parliament-votes-in-favour-of-a-reciprocal-travel-ban-on-u-s-citizens-if-u-s-president-donald-trump-s-executive-order-barring-ci.md)
-_Context: Executive Order 13769, ISIL, Iraq, Iraq-United States relations, Parliament of Iraq, U.S._
+_Context: Executive Order 13769, ISIL, Iraq, Iraq-United States relations, Parliament of Iraq, United States_
 
 ##### United Kingdom-United States relations
 ### [A petition, launched Sunday to cancel U.S. President Donald Trump's state visit to the United Kingdom later this year, tops 1 million signatures, passing the threshold for British Parliament debate. A British government spokesman says the state visit is going ahead as planned. ](/news/2017/01/30/a-petition-launched-sunday-to-cancel-u-s-president-donald-trump-s-state-visit-to-the-united-kingdom-later-this-year-tops-1-million-signat.md)
@@ -61,7 +61,7 @@ _Context: Chechnya, Insurgency in the North Caucasus, Russian police, Shali_
 
 ##### Russian military intervention
 ### [ The Russian Defence Ministry says six Russian bombers hit ISIL positions in Syria's Deir ez-Zor Governorate. ](/news/2017/01/30/the-russian-defence-ministry-says-six-russian-bombers-hit-isil-positions-in-syria-s-deir-ez-zor-governorate.md)
-_Context: Deir ez-Zor, ISIL, Ministry of Defence, Russian military intervention, Syria_
+_Context: Deir ez-Zor Governorate, ISIL, Ministry of Defence, Russian military intervention, Syria_
 
 ##### War in Donbass
 ### [The Ukrainian military says seven soldiers have been killed by pro-Russian separatists since Sunday. The separatists report over 5 days of artillery attacks on them by the Ukrainian side. ](/news/2017/01/30/the-ukrainian-military-says-seven-soldiers-have-been-killed-by-pro-russian-separatists-since-sunday-the-separatists-report-over-5-days-of-a.md)

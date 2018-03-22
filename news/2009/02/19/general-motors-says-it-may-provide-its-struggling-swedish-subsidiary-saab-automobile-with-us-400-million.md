@@ -18,6 +18,6 @@ Formats: [HTML](/news/2009/02/19/general-motors-says-it-may-provide-its-struggli
 
 1. [ Swedish sports car maker Koenigsegg is to buy Saab Automobile from General Motors with support from Norwegian investors.](/news/2009/06/11/swedish-sports-car-maker-koenigsegg-is-to-buy-saab-automobile-from-general-motors-with-support-from-norwegian-investors.md) _Context: General Motors, Saab Automobile, Sweden_
 2. [ Swedish Minister of Enterprise and Energy Maud Olofsson criticizes General Motors for "abandoning" the struggling automaker Saab Automobile. ](/news/2009/02/18/swedish-minister-of-enterprise-and-energy-maud-olofsson-criticizes-general-motors-for-abandoning-the-struggling-automaker-saab-automobile.md) _Context: General Motors, Saab Automobile, Sweden_
-3. [ General Motors receives a second loan installment of US$5.4 billion. ](/news/2009/01/22/general-motors-receives-a-second-loan-installment-of-us-5-4-billion.md) _Context: $, General Motors, struggling_
+3. [ General Motors receives a second loan installment of US$5.4 billion. ](/news/2009/01/22/general-motors-receives-a-second-loan-installment-of-us-5-4-billion.md) _Context: General Motors, US$, struggling_
 4. [ General Motors agrees Saab sale to Koenigsegg ](/news/2009/06/16/general-motors-agrees-saab-sale-to-koenigsegg.md) _Context: General Motors, Saab Automobile_
-5. [ General Motors reports a US$6 billion loss for the first fiscal quarter of 2009. ](/news/2009/05/7/general-motors-reports-a-us-6-billion-loss-for-the-first-fiscal-quarter-of-2009.md) _Context: $, General Motors_
+5. [ General Motors reports a US$6 billion loss for the first fiscal quarter of 2009. ](/news/2009/05/7/general-motors-reports-a-us-6-billion-loss-for-the-first-fiscal-quarter-of-2009.md) _Context: General Motors, US$_

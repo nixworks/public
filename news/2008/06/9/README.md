@@ -21,7 +21,7 @@ _Context: Spanish, diesel, strike, truck drivers_
 
 ##### McDonald's restaurants
 ### [ McDonald's stops serving sliced tomatoes in its hamburgers in the United States following a Salmonella Saintpaul outbreak linked to raw tomatoes. ](/news/2008/06/9/mcdonald-s-stops-serving-sliced-tomatoes-in-its-hamburgers-in-the-united-states-following-a-salmonella-saintpaul-outbreak-linked-to-raw-tom.md)
-_Context: McDonald's restaurants, Salmonellosis, U.S., hamburger, tomato_
+_Context: McDonald's restaurants, Salmonellosis, United States, hamburger, tomato_
 
 ##### Indonesia
 ### [ Indonesia makes the practice of the Ahmadiyya form of Islam in Indonesia a crime punishable by five years in prison. ](/news/2008/06/9/indonesia-makes-the-practice-of-the-ahmadiyya-form-of-islam-in-indonesia-a-crime-punishable-by-five-years-in-prison.md)
@@ -47,7 +47,7 @@ _Context: 3G, Apple, Inc., GPS, iPhone, iPhone 3G_
 ### [ Ali Al-Naimi, the Saudi Arabian oil minister calls for a meeting of oil producing and consuming nations to discuss record oil prices. ](/news/2008/06/9/ali-al-naimi-the-saudi-arabian-oil-minister-calls-for-a-meeting-of-oil-producing-and-consuming-nations-to-discuss-record-oil-prices.md)
 Find the latest business news on Wall Street, jobs and the economy, the housing market, personal finance and money investments and much more on ABC News
 
-##### United Kingdom
+##### UK
 ### [ A further three British Conservative MEPs (Robert Atkins, Sajjad Karim, and John Purvis) are facing allegations of financial abuse, following the resignation of two fellow members from European Parliament positions last week. ](/news/2008/06/9/a-further-three-british-conservative-meps-robert-atkins-sajjad-karim-and-john-purvis-are-facing-allegations-of-financial-abuse-followi.md)
 More than half of David Cameron&#039;s European MPs have refused to comply with rules requiring them to reveal how they spend their expenses.
 

@@ -3,9 +3,9 @@ Formats: [HTML](2005/03/16/index.html)  [JSON](2005/03/16/index.json)  [XML](200
 
 ## [2005-03-16](/news/2005/03/16/index.md)
 
-##### China
+##### Chinese
 ### [ In China, smth, the biggest BBS in Chinese campus, announced that IP outside the Tsinghua University would be blocked off. ](/news/2005/03/16/in-china-smth-the-biggest-bbs-in-chinese-campus-announced-that-ip-outside-the-tsinghua-university-would-be-blocked-off.md)
-_Context: China, Tsinghua University, smth_
+_Context: Chinese, Tsinghua University, smth_
 
 ##### Japan
 ### [ In Japan, Hitachi unveils two examples of its wheeled robot Emiew. ](/news/2005/03/16/in-japan-hitachi-unveils-two-examples-of-its-wheeled-robot-emiew.md)

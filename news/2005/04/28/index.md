@@ -41,7 +41,7 @@ _Context: Amagasaki rail crash, Japan, death toll_
 
 ##### Edvard Munch
 ### [ The Edvard Munch paintings "The Scream" and "Madonna", which were stolen from the Munch Museum in Oslo on August 22 2004, may have been burned, says the Norwegian newspaper Dagbladet. The Oslo police do not confirm the rumour. ](/news/2005/04/28/the-edvard-munch-paintings-the-scream-and-madonna-which-were-stolen-from-the-munch-museum-in-oslo-on-august-22-2004-may-have-been-bur.md)
-_Context: ''Madonna'', 2004, August 22, Edvard Munch, Munch Museum, Norway, Oslo, The Scream, newspaper, painting_
+_Context: ''Madonna'', 2004, August 22, Edvard Munch, Munch Museum, Norwegian, Oslo, The Scream, newspaper, painting_
 
 ##### Prime Minister
 ### [ British Prime Minister Tony Blair publishes the advice of Lord Goldsmith, the Attorney General, on the legality of the 2003 invasion of Iraq. ](/news/2005/04/28/british-prime-minister-tony-blair-publishes-the-advice-of-lord-goldsmith-the-attorney-general-on-the-legality-of-the-2003-invasion-of-ira.md)

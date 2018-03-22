@@ -17,7 +17,7 @@ _Context: Morgan Tsvangirai, Movement for Democratic Change, police, run-off pre
 
 ##### International Olympic Committee
 ### [ The International Olympic Committee releases a shortlist of 2016 Summer Olympics bids consisting of Chicago, United States; Tokyo, Japan; Madrid, Spain; and Rio de Janeiro, Brazil. ](/news/2008/06/4/the-international-olympic-committee-releases-a-shortlist-of-2016-summer-olympics-bids-consisting-of-chicago-united-states-tokyo-japan-m.md)
-_Context: 2016 Summer Olympics bids, Brazil, Chicago, International Olympic Committee, Japan, Madrid, Rio de Janeiro, Spanish, Tokyo, U.S._
+_Context: 2016 Summer Olympics bids, Brazil, Chicago, International Olympic Committee, Japan, Madrid, Rio de Janeiro, Spanish, Tokyo, United States_
 
 ##### Obelisk of Axum
 ### [ Reassembly of the Obelisk of Axum begins in Axum, after the monument was returned to Ethiopia from Italy in 2005. ](/news/2008/06/4/reassembly-of-the-obelisk-of-axum-begins-in-axum-after-the-monument-was-returned-to-ethiopia-from-italy-in-2005.md)

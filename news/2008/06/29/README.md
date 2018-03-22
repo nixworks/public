@@ -27,9 +27,9 @@ _Context: Hezbollah, Israel, forming a government_
 ### [ At least six people die and 39 are laid by bomb blasts in Assam, India, with the United Liberation Front of Asom believed to be responsible. ](/news/2008/06/29/at-least-six-people-die-and-39-are-laid-by-bomb-blasts-in-assam-india-with-the-united-liberation-front-of-asom-believed-to-be-responsible.md)
 _Context: Assam, India, United Liberation Front of Asom, bomb_
 
-##### China
+##### Chinese
 ### [ China will commence a new range of talks with representatives of the Dalai Lama in early July. ](/news/2008/06/29/china-will-commence-a-new-range-of-talks-with-representatives-of-the-dalai-lama-in-early-july.md)
-_Context: China, Dalai Lama_
+_Context: Chinese, Dalai Lama_
 
 ##### Spain
 ### [ Spain wins the UEFA Euro 2008 championship defeating Germany 1-0 in the final through a goal by Fernando Torres. ](/news/2008/06/29/spain-wins-the-uefa-euro-2008-championship-defeating-germany-1-0-in-the-final-through-a-goal-by-fernando-torres.md)
@@ -41,11 +41,11 @@ _Context: Flagstaff, Arizona_
 
 ##### Katie Hoff
 ### [ Katie Hoff and Michael Phelps set world records for the 400-meter individual medley at the United States Olympics swimming trials in Omaha, Nebraska. ](/news/2008/06/29/katie-hoff-and-michael-phelps-set-world-records-for-the-400-meter-individual-medley-at-the-united-states-olympics-swimming-trials-in-omaha.md)
-_Context: Katie Hoff, Michael Phelps, Olympics, Omaha, Nebraska, U.S., individual medley, swimming_
+_Context: Katie Hoff, Michael Phelps, Olympics, Omaha, Nebraska, United States, individual medley, swimming_
 
 ##### North Korea
 ### [ A ship arrives in North Korea carrying food aid from the United States as part of a deal between North Korea, the US and the United Nations. ](/news/2008/06/29/a-ship-arrives-in-north-korea-carrying-food-aid-from-the-united-states-as-part-of-a-deal-between-north-korea-the-us-and-the-united-nations.md)
-_Context: North Korea, U.S., United Nations, food aid_
+_Context: North Korea, United Nations, United States, food aid_
 
 ## [Previous Day...](/news/2008/06/28/index.md)
 

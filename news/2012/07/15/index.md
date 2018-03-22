@@ -41,7 +41,7 @@ One person died and 10 were wounded as heavy storms swept through the north-west
 
 ##### Hand, foot and mouth disease
 ### [Hand, foot and mouth disease kills 149 people in Hunan, China. ](/news/2012/07/15/hand-foot-and-mouth-disease-kills-149-people-in-hunan-china.md)
-_Context: China, Hand, foot and mouth disease, Hunan_
+_Context: Chinese, Hand, foot and mouth disease, Hunan_
 
 ##### Nepal
 ### [A bus crash kills at least 39 pilgrims in the southern Nepali town of Parasi. ](/news/2012/07/15/a-bus-crash-kills-at-least-39-pilgrims-in-the-southern-nepali-town-of-parasi.md)

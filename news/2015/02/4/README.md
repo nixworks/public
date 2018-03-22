@@ -13,7 +13,7 @@ Anti-Aquino sentiment gathers momentum in the wake of a bungled police raid that
 
 ##### Manhattan
 ### [A Manhattan federal court convicts Ross Ulbricht, aka "Dread Pirate Roberts", the owner of the Silk Road Deep Web illicit products website, on seven charges including trafficking and money laundering in the United States. ](/news/2015/02/4/a-manhattan-federal-court-convicts-ross-ulbricht-aka-dread-pirate-roberts-the-owner-of-the-silk-road-deep-web-illicit-products-website.md)
-_Context: Deep Web, Manhattan, Silk Road, U.S., money laundering, narcotics_
+_Context: Deep Web, Manhattan, Silk Road, United States, money laundering, narcotics_
 
 ##### 100 km/h winds
 ### [100 km-h winds spark a scrub fire near the Christchurch suburb of Hornby in New Zealand destroying two homes with several others damaged. ](/news/2015/02/4/100-km-h-winds-spark-a-scrub-fire-near-the-christchurch-suburb-of-hornby-in-new-zealand-destroying-two-homes-with-several-others-damaged.md)
@@ -25,7 +25,7 @@ A TransAsia Airways Corp. turboprop plane crashed into a river near Taipei momen
 
 ##### Mao Xiaofeng
 ### [Under investigation for corruption, Mao Xiaofeng resigns as the President of Minsheng Banking Corporation. China's Communist Party anti-graft agency links him and disgraced Chinese official Ling Jihua. ](/news/2015/02/4/under-investigation-for-corruption-mao-xiaofeng-resigns-as-the-president-of-minsheng-banking-corporation-china-s-communist-party-anti-graf.md)
-_Context: China, Ling Jihua, Mao Xiaofeng, Minsheng Banking Corporation_
+_Context: Chinese, Ling Jihua, Mao Xiaofeng, Minsheng Banking Corporation_
 
 ##### Anthem
 ### [Anthem Inc. discloses that criminal hackers have broken into its servers and potentially stolen over 80 million records that contain personally identifiable information from its servers. According to Anthem, the data breach extends into multiple brands Anthem uses to market its healthcare plans, including, Anthem Blue Cross, Anthem Blue Cross and Blue Shield, Blue Cross and Blue Shield of Georgia, Empire Blue Cross and Blue Shield, Amerigroup, Caremore, Unicare, Healthlink, and DeCare. Anthem says the medical information and financial data was not compromised. ](/news/2015/02/4/anthem-inc-discloses-that-criminal-hackers-have-broken-into-its-servers-and-potentially-stolen-over-80-million-records-that-contain-persona.md)

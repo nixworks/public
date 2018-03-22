@@ -3,7 +3,7 @@ Formats: [HTML](2015/12/10/index.html)  [JSON](2015/12/10/index.json)  [XML](201
 
 ## [2015-12-10](/news/2015/12/10/index.md)
 
-##### U.S.
+##### United States
 ### [In the United States, Suffolk County police ask the FBI for more help in their investigation of a possible serial killer who preyed on prostitutes and left their bodies strewn along a Long Island beach in New York. Ten bodies were found along an isolated stretch of the South Shore's Gilgo Beach between December 2010 and April 2011. ](/news/2015/12/10/in-the-united-states-suffolk-county-police-ask-the-fbi-for-more-help-in-their-investigation-of-a-possible-serial-killer-who-preyed-on-prost.md)
 Police in New York have asked the FBI for help investigating a possible serial killer who preyed on prostitutes and left their bodies strewn along a Long Island beach, nearly five years after the first remains were discovered, officials said on Thursday.
 
@@ -31,7 +31,7 @@ The number of Americans living in middle-income households fell from 61 percent 
 ### [The Hollywood Foreign Press Association announces the 73rd Golden Globe Awards nominees for the best films and television productions of 2015. The winners will be announced on January 10, 2016. ](/news/2015/12/10/the-hollywood-foreign-press-association-announces-the-73rd-golden-globe-awards-nominees-for-the-best-films-and-television-productions-of-201.md)
 The Hollywood Foreign Press Assn. has announced its nominees for the 2016 Golden Globe Awards.
 
-##### U.S.
+##### United States
 ### [A United States Treasury official says ISIL has made over $500 million selling oil to Syrian President Bashar Assad's government, and has also sold oil to Turkey. ](/news/2015/12/10/a-united-states-treasury-official-says-isil-has-made-over-500-million-selling-oil-to-syrian-president-bashar-assadas-government-and-has.md)
 Adam Szubin, a senior U.S. Treasury official, said Thursday that ISIS also looted between $500 million and $1 billion from bank vaults captured in Iraq and Syria.
 

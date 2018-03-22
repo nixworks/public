@@ -5,7 +5,7 @@ Formats: [HTML](2006/09/24/index.html)  [JSON](2006/09/24/index.json)  [XML](200
 
 ##### Europe
 ### [ Europe retains golf's Ryder Cup to score a third consecutive win, beating the United States by a score of 18.5 to 9.5. ](/news/2006/09/24/europe-retains-golf-s-ryder-cup-to-score-a-third-consecutive-win-beating-the-united-states-by-a-score-of-18-5-to-9-5.md)
-_Context: Europe, Ryder Cup, U.S., golfer_
+_Context: Europe, Ryder Cup, United States, golfer_
 
 ##### Basque
 ### [ Members of Basque separatist movement ETA vow not to surrender their weapons while still seeking independence from Spain, despite the organisation having called a ceasefire six months ago. ](/news/2006/09/24/members-of-basque-separatist-movement-eta-vow-not-to-surrender-their-weapons-while-still-seeking-independence-from-spain-despite-the-organ.md)

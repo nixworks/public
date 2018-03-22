@@ -41,7 +41,7 @@ The ICC has terminated the case against Kenya&#39;s deputy president over insuff
 
 ##### Mexico-United States relations
 ### [Due to concerns about an increasingly anti-Mexican climate across the border, Mexico unexpectedly changes two of its top officials responsible for U.S. relations. Foreign Minister Claudia Ruiz Massieu told local media, "We have been warning that our citizens have begun to feel a more hostile climate. This (anti-Mexican) rhetoric has made it clear that we have to act in a different way so that this tendency being generated doesn't damage the bilateral relationship." ](/news/2016/04/5/due-to-concerns-about-an-increasingly-anti-mexican-climate-across-the-border-mexico-unexpectedly-changes-two-of-its-top-officials-responsib.md)
-_Context: Claudia Ruiz Massieu, Foreign Minister, Mexico, Mexico-United States relations, U.S., anti-Mexican climate_
+_Context: Claudia Ruiz Massieu, Foreign Minister, Mexico, Mexico-United States relations, United States, anti-Mexican climate_
 
 ##### Panama Papers
 ### [France places Panama back on its list of countries that do not cooperate in catching tax evaders. "France has decided to put Panama back on the list of uncooperative countries, with all the consequences that will have for those who have transactions" with the Central American state, Finance Minister Michel Sapin, told Parliament on Tuesday. ](/news/2016/04/5/france-places-panama-back-on-its-list-of-countries-that-do-not-cooperate-in-catching-tax-evaders-france-has-decided-to-put-panama-back-on.md)

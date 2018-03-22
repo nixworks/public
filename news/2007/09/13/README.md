@@ -29,7 +29,7 @@ _Context: ABC News, Alan Greenspan, Alexis Debat, Barack Obama, Rue 89, The Nati
 
 ##### 2007 Formula One Season
 ### [ 2007 Formula One Season: The Fdration Internationale de l'Automobile (FIA) fines the McLaren Formula One team $US100 million and removes all its points in the Constructors' Championship. ](/news/2007/09/13/2007-formula-one-season-the-federation-internationale-de-l-automobile-fia-fines-the-mclaren-formula-one-team-us100-million-and-removes.md)
-_Context: $, 2007 Formula One Season, Constructors' Championship, Fdration Internationale de l'Automobile, Formula One, McLaren_
+_Context: 2007 Formula One Season, Constructors' Championship, Fdration Internationale de l'Automobile, Formula One, McLaren, US$_
 
 ##### Pakistani troops
 ### [ At least fifteen Pakistani Army soldiers die in a bombing at their mess at the Terbella Ghazi base north of Islamabad. ](/news/2007/09/13/at-least-fifteen-pakistani-army-soldiers-die-in-a-bombing-at-their-mess-at-the-terbella-ghazi-base-north-of-islamabad.md)
@@ -37,7 +37,7 @@ _Context: Islamabad, Pakistani troops, Terbella Ghazi_
 
 ##### United Nations General Assembly
 ### [ After deliberating for 22 years, the United Nations General Assembly adopts the non-binding Declaration on the Rights of Indigenous Peoples; 143 countries vote in favour, while 11 abstain and Australia, Canada, New Zealand and the United States vote against. ](/news/2007/09/13/after-deliberating-for-22-years-the-united-nations-general-assembly-adopts-the-non-binding-declaration-on-the-rights-of-indigenous-peoples.md)
-_Context: Australia, Canada, Declaration on the Rights of Indigenous Peoples, New Zealand, U.S., United Nations General Assembly_
+_Context: Australia, Canada, Declaration on the Rights of Indigenous Peoples, New Zealand, United Nations General Assembly, United States_
 
 ##### Ethiopia
 ### [ Ethiopia will deploy 5,000 troops as part of a joint United Nations - African Union mission in the Darfur region of Sudan. ](/news/2007/09/13/ethiopia-will-deploy-5-000-troops-as-part-of-a-joint-united-nations-african-union-mission-in-the-darfur-region-of-sudan.md)
@@ -49,7 +49,7 @@ _Context: 2007, Atlantic Ocean, Caribbean_
 
 ##### Google
 ### [ Google sponsors a US$30 million spaceflight contest to land a robotic lander on the moon and beam back a gigabyte of images and videos to earth. ](/news/2007/09/13/google-sponsors-a-us-30-million-spaceflight-contest-to-land-a-robotic-lander-on-the-moon-and-beam-back-a-gigabyte-of-images-and-videos-to-e.md)
-_Context: $, Google, earth, gigabyte, moon, spaceflight_
+_Context: Google, US$, earth, gigabyte, moon, spaceflight_
 
 ##### Miami
 ### [ Miami police shot dead in an exchange of fire a man suspected of the murder of one police officer and the shooting of another three officers hours earlier. ](/news/2007/09/13/miami-police-shot-dead-in-an-exchange-of-fire-a-man-suspected-of-the-murder-of-one-police-officer-and-the-shooting-of-another-three-officer.md)

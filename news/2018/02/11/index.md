@@ -15,7 +15,7 @@ Iranian president issues call for unity in speech to mark 39th anniversary of Is
 ### [Primo ! Priorite Monaco, a new political party, wins 21 of the 24 seats in the National Council. ](/news/2018/02/11/primo-priorita-c-monaco-a-new-political-party-wins-21-of-the-24-seats-in-the-national-council.md)
 The results are in following the vote by 5097 Monegasques for the 24 seats in the National Council. That is a participation by 70.35% (74.4% in 2013) of those allowed to vote...
 
-##### United Kingdom
+##### UK
 ### [United Kingdom Secretary of State for International Development Penny Mordaunt tells BBC One that Oxfam's failure to pass on information regarding sexual misconduct allegations of its workers in Haiti and Chad shows an "absolute" absence and failure of moral leadership. ](/news/2018/02/11/united-kingdom-secretary-of-state-for-international-development-penny-mordaunt-tells-bbc-one-that-oxfam-s-failure-to-pass-on-information-reg.md)
 The charity is warned it must account for its actions or risk losing its government funding.
 

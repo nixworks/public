@@ -5,7 +5,7 @@ Formats: [HTML](2008/08/1/index.html)  [JSON](2008/08/1/index.json)  [XML](2008/
 
 ##### Total solar eclipse
 ### [ A total solar eclipse is visible from northern Canada (Nunavut), Greenland, central Russia, eastern Kazakhstan, western Mongolia and China. ](/news/2008/08/1/a-total-solar-eclipse-is-visible-from-northern-canada-nunavut-greenland-central-russia-eastern-kazakhstan-western-mongolia-and-china.md)
-_Context: Canada, China, Greenland, Kazakhstan, Mongolia, Nunavut, Russia, total solar eclipse_
+_Context: Canada, Chinese, Greenland, Kazakhstan, Mongolia, Nunavut, Russia, total solar eclipse_
 
 ##### South Asian Association for Regional Cooperation
 ### [ The South Asian Association for Regional Cooperation holds a summit meeting in Colombo, Sri Lanka, with terrorism high on the agenda. ](/news/2008/08/1/the-south-asian-association-for-regional-cooperation-holds-a-summit-meeting-in-colombo-sri-lanka-with-terrorism-high-on-the-agenda.md)
@@ -37,11 +37,11 @@ _Context: H Ty, Hanoi, Vietnam, province_
 
 ##### Unemployment
 ### [ Unemployment in the United States rises to 5.7 per cent, its highest rate in more than four years. ](/news/2008/08/1/unemployment-in-the-united-states-rises-to-5-7-per-cent-its-highest-rate-in-more-than-four-years.md)
-_Context: U.S., Unemployment_
+_Context: Unemployment, United States_
 
 ##### IAEA
 ### [ The International Atomic Energy Agency unanimously approves a safeguards agreement with India, a precondition of the nuclear deal with the United States. ](/news/2008/08/1/the-international-atomic-energy-agency-unanimously-approves-a-safeguards-agreement-with-india-a-precondition-of-the-nuclear-deal-with-the.md)
-_Context: IAEA, India, U.S._
+_Context: IAEA, India, United States_
 
 ## [Previous Day...](/news/2008/07/31/index.md)
 

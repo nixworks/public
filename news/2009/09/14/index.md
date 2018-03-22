@@ -3,9 +3,9 @@ Formats: [HTML](2009/09/14/index.html)  [JSON](2009/09/14/index.json)  [XML](200
 
 ## [2009-09-14](/news/2009/09/14/index.md)
 
-##### U.S.
+##### United States
 ### [ American actor Patrick Swayze dies at age 57, after suffering from pancreatic cancer for more than 1 year. ](/news/2009/09/14/american-actor-patrick-swayze-dies-at-age-57-after-suffering-from-pancreatic-cancer-for-more-than-1-year.md)
-_Context: Patrick Swayze, U.S., pancreatic cancer_
+_Context: Patrick Swayze, United States, pancreatic cancer_
 
 ##### Tennis
 ### [ In tennis, Juan Martn del Potro defeats Roger Federer and Kim Clijsters defeats Caroline Wozniacki at the U.S. Open. ](/news/2009/09/14/in-tennis-juan-martin-del-potro-defeats-roger-federer-and-kim-clijsters-defeats-caroline-wozniacki-at-the-u-s-open.md)
@@ -17,7 +17,7 @@ The bomb squad has neutralized a suspicious package found in a vehicle near Mark
 
 ##### China
 ### [ China lodges a complaint with the World Trade Organization over the United States' decision to impose import duties on Chinese-made tires. ](/news/2009/09/14/china-lodges-a-complaint-with-the-world-trade-organization-over-the-united-states-decision-to-impose-import-duties-on-chinese-made-tires.md)
-_Context: China, U.S., World Trade Organization, tire_
+_Context: China, United States, World Trade Organization, tire_
 
 ##### Uganda
 ### [ Dozens of people in Uganda are charged over riots in the capital Kampala over the visit of the King of Buganda, Ronald Muwenda Mutebi II. ](/news/2009/09/14/dozens-of-people-in-uganda-are-charged-over-riots-in-the-capital-kampala-over-the-visit-of-the-king-of-buganda-ronald-muwenda-mutebi-ii.md)
@@ -39,9 +39,9 @@ _Context: Al-Shabaab, Islam, Somalia, U.S. special forces launch an attack_
 ### [ France's political "trial of the century" into the Clearstream affair&mdash;former Prime Minister Dominique de Villepin versus President Nicolas Sarkozy&mdash;opens at the Palais de Justice. ](/news/2009/09/14/france-s-political-trial-of-the-century-into-the-clearstream-affair-mdash-former-prime-minister-dominique-de-villepin-versus-president-ni.md)
 FRANCE&#039;S political &#039;&#039;trial of the century&#039;&#039;, a case of intrigue and skulduggery that sets a former prime minister, Dominique de Villepin, against the President, Nicolas Sarkozy - and details the sexual peccadilloes of a stellar array of politicians - will open at the Palais ...
 
-##### Norway
+##### Norwegian
 ### [ Norwegians go to the polls for the Norwegian parliamentary election. ](/news/2009/09/14/norwegians-go-to-the-polls-for-the-norwegian-parliamentary-election.md)
-_Context: Norway, parliamentary election_
+_Context: Norwegian, parliamentary election_
 
 ## [Previous Day...](/news/2009/09/13/index.md)
 

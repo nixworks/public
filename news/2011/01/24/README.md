@@ -91,9 +91,9 @@ Eastman Kodak Co. was handed a setback by a U.S. trade agency in the camera comp
 ### [Hamas bans the sale of two books that it says "contradict" Islam after receiving complaints from locals. ](/news/2011/01/24/hamas-bans-the-sale-of-two-books-that-it-says-contradict-islam-after-receiving-complaints-from-locals.md)
 _Context: Hamas_
 
-##### China
+##### Chinese
 ### [Twenty people are injured in China's Sichuan province following clashes with police over a proposed chemical plant, protesters and officials say. In a separate protest, riot police dispersed a group of parents who lost their children in the devastating 2008 earthquake after they tried to meet with the mayor of Deyang city to discuss compensation claims. ](/news/2011/01/24/twenty-people-are-injured-in-china-s-sichuan-province-following-clashes-with-police-over-a-proposed-chemical-plant-protesters-and-officials.md)
-_Context: 2008 earthquake, China, Deyang, Sichuan province, police_
+_Context: 2008 earthquake, Chinese, Deyang, Sichuan province, police_
 
 ##### Series of bombings
 ### [A series of bombings in Baghdad and Karbala kill at least 33 people less than a week after similar attacks claimed the lives of 133 others. ](/news/2011/01/24/a-series-of-bombings-in-baghdad-and-karbala-kill-at-least-33-people-less-than-a-week-after-similar-attacks-claimed-the-lives-of-133-others.md)

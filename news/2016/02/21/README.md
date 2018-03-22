@@ -13,7 +13,7 @@ With more than 80% of votes counted, President Evo Morales of Bolivia is losing 
 
 ##### Macedonian parliamentary election, 2016
 ### [The European Union and the United States advise interim Macedonian Prime Minister Emil Dimitriev to postpone elections scheduled for April 24, 2016. ](/news/2016/02/21/the-european-union-and-the-united-states-advise-interim-macedonian-prime-minister-emil-dimitriev-to-postpone-elections-scheduled-for-april-2.md)
-_Context: Emil Dimitriev, European Union, Macedonian parliamentary election, 2016, Prime Minister of Macedonia, Republic of Macedonia, U.S._
+_Context: Emil Dimitriev, European Union, Macedonian parliamentary election, 2016, Prime Minister of Macedonia, Republic of Macedonia, United States_
 
 ##### Ashraf Rifi
 ### [Ashraf Rifi resigns as the Minister for Justice for Lebanon in protest at Hezbollah domination of the government which he claims is harming relations with Arab nations. ](/news/2016/02/21/ashraf-rifi-resigns-as-the-minister-for-justice-for-lebanon-in-protest-at-hezbollah-domination-of-the-government-which-he-claims-is-harming.md)

@@ -55,9 +55,9 @@ Deutsche Lufthansa AG pilots will resume striking Tuesday, almost six months aft
 ### [New Zealand temporarily bans the sale or lending of the book "Into the River" by Ted Dawe, pending a review which could see the book restricted long-term. This is the first time in 22 years that a book has been restricted to this extent in New Zealand. ](/news/2015/09/8/new-zealand-temporarily-bans-the-sale-or-lending-of-the-book-into-the-river-by-ted-dawe-pending-a-review-which-could-see-the-book-restric.md)
 Ted Dawe’s Into the River is banned from shops, schools and distribution across the country with fines of up to $10,000 for those ignoring it
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [The UN announces that it has grave concerns for around 96,000 children in Al Hudaydah, Yemen, who are starving due to the nearby fighting. ](/news/2015/09/8/the-un-announces-that-it-has-grave-concerns-for-around-96-000-children-in-al-hudaydah-yemen-who-are-starving-due-to-the-nearby-fighting.md)
-_Context: Al Hudaydah, Saudi-led intervention in Yemen, Yemen, starvation_
+_Context: Al Hudaydah, Saudi Arabian-led intervention in Yemen, Yemen, starvation_
 
 ##### Syrian Civil War
 ### [U.K. Prime Minister David Cameron confirms that two ISIS militants, UK citizens, Reyaad Khan and Ruhul Amin, were killed in Syria when a British drone attack hit their car on August 21, 2015. Both Khan and Amin had appeared in an ISIS recruitment video last year. They are alleged to have been plotting a terrorist attack on the UK. ](/news/2015/09/8/u-k-prime-minister-david-cameron-confirms-that-two-isis-militants-uk-citizens-reyaad-khan-and-ruhul-amin-were-killed-in-syria-when-a-bri.md)

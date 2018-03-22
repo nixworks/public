@@ -15,9 +15,9 @@ _Context: Malaysia, Najib Razak, Negeri Sembilan, Parliament of Malaysia, Prime 
 ### [Nicolas Maduro, acting President of Venezuela, officially begins his campaign to succeed Hugo Chavez in the late leader's hometown ahead of the April 14 election. ](/news/2013/04/3/nicola-s-maduro-acting-president-of-venezuela-officially-begins-his-campaign-to-succeed-hugo-cha-vez-in-the-late-leader-s-hometown-ahead-o.md)
 _Context: Hugo Chavez, Nicolas Maduro, President, Venezuela, last month's presidential election_
 
-##### U.S.
+##### United States
 ### [Thirty-five American teachers from Atlanta are indicted on fraud charges for allegedly facilitating cheating on standardized tests dating back to 2001. ](/news/2013/04/3/thirty-five-american-teachers-from-atlanta-are-indicted-on-fraud-charges-for-allegedly-facilitating-cheating-on-standardized-tests-dating-ba.md)
-_Context: Atlanta, U.S., fraud, mass cheating scandal, standardized test_
+_Context: Atlanta, United States, fraud, mass cheating scandal, standardized test_
 
 ##### Motorcyclist
 ### [Four sisters are burned by motorcyclists throwing acid in India's Uttar Pradesh province. ](/news/2013/04/3/four-sisters-are-burned-by-motorcyclists-throwing-acid-in-india-s-uttar-pradesh-province.md)
@@ -51,7 +51,7 @@ _Context: Mount Hagen, Papua New Guinea, bus, tribesmen_
 ### [Construction work near Berlin's main train station reveals a 100-kilogram Soviet bomb from World War II. It was successfully removed several hours after it was found. ](/news/2013/04/3/construction-work-near-berlin-s-main-train-station-reveals-a-100-kilogram-soviet-bomb-from-world-war-ii-it-was-successfully-removed-several.md)
 _Context: Berlin, Soviet, World War II_
 
-##### China
+##### Chinese
 ### [A third man dies in China from the H7N9 strain of bird flu. ](/news/2013/04/3/a-third-man-dies-in-china-from-the-h7n9-strain-of-bird-flu.md)
 A third man dies in China after catching a strain of bird flu not previously known in humans
 
@@ -65,7 +65,7 @@ _Context: Disney, LucasArts_
 
 ##### Subaru
 ### [Subaru recalls around 200,000 vehicles in the United States to fix a defect which could lead to corrosion of the brake lines. ](/news/2013/04/3/subaru-recalls-around-200-000-vehicles-in-the-united-states-to-fix-a-defect-which-could-lead-to-corrosion-of-the-brake-lines.md)
-_Context: Subaru, U.S., corrosion_
+_Context: Subaru, United States, corrosion_
 
 ##### U.S.
 ### [U.S. commercial TV network NBC announces the departure of Jay Leno from the "The Tonight Show" in spring 2014. Leno is to be replaced by Jimmy Fallon, host of "Late Night with Jimmy Fallon". ](/news/2013/04/3/u-s-commercial-tv-network-nbc-announces-the-departure-of-jay-leno-from-the-the-tonight-show-in-spring-2014-leno-is-to-be-replaced-by-jim.md)

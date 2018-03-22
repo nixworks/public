@@ -21,7 +21,7 @@ The BPO firm says the video was outsourced to another agency
 
 ##### German
 ### [German pharmaceutical company Merck KGaA agrees to buy American chemical company Sigma-Aldrich for US$17 billion. ](/news/2014/09/22/german-pharmaceutical-company-merck-kgaa-agrees-to-buy-american-chemical-company-sigma-aldrich-for-us-17-billion.md)
-_Context: $, German, Merck KGaA, Sigma-Aldrich_
+_Context: German, Merck KGaA, Sigma-Aldrich, US$_
 
 ##### German
 ### [German conglomerate Siemens AG announces plans to acquire American oilfield equipment maker Dresser-Rand Group Inc for US$7.6 billion. ](/news/2014/09/22/german-conglomerate-siemens-ag-announces-plans-to-acquire-american-oilfield-equipment-maker-dresser-rand-group-inc-for-us-7-6-billion.md)

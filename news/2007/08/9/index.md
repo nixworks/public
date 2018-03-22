@@ -41,15 +41,15 @@ _Context: January 19, Republican, South Carolina, primary election_
 
 ##### Dow Jones Industrial Average
 ### [ The Dow Jones Industrial Average falls by nearly 400 points due to credit worries. Canadian and European stocks also fall. The European Central Bank, United States Federal Reserve and Bank of Canada all inject money into their credit markets to ease concerns. ](/news/2007/08/9/the-dow-jones-industrial-average-falls-by-nearly-400-points-due-to-credit-worries-canadian-and-european-stocks-also-fall-the-european-cen.md)
-_Context: Bank of Canada, Canada, Dow Jones Industrial Average, Europe, European Central Bank, Federal Reserve, U.S._
+_Context: Bank of Canada, Canada, Dow Jones Industrial Average, Europe, European Central Bank, Federal Reserve, United States_
 
 ##### Marine
 ### [ Charges against two United States Marines accused of involvement in the killing of Iraqis in 2005 are dropped. ](/news/2007/08/9/charges-against-two-united-states-marines-accused-of-involvement-in-the-killing-of-iraqis-in-2005-are-dropped.md)
 _Context: Iraq, Marine_
 
-##### China
+##### Chinese
 ### [ China temporarily bans exports from two toy manufacturers whose products were banned or recalled in the United States and other countries. ](/news/2007/08/9/china-temporarily-bans-exports-from-two-toy-manufacturers-whose-products-were-banned-or-recalled-in-the-united-states-and-other-countries.md)
-_Context: China, U.S., export, toy_
+_Context: Chinese, United States, export, toy_
 
 ##### Stephen Harper
 ### [ Stephen Harper, the Prime Minister of Canada tours the Arctic regions of Canada to assert wider claims of sovereignty over the region following a recent claim by Russia to the North Pole. ](/news/2007/08/9/stephen-harper-the-prime-minister-of-canada-tours-the-arctic-regions-of-canada-to-assert-wider-claims-of-sovereignty-over-the-region-follo.md)

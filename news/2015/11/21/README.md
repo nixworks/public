@@ -37,7 +37,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Coal mine
 ### [A fire in a coal mine in China's northeast Heilongjiang province results in 21 deaths and one person missing. ](/news/2015/11/21/a-fire-in-a-coal-mine-in-china-s-northeast-heilongjiang-province-results-in-21-deaths-and-one-person-missing.md)
-_Context: China, Heilongjiang, coal mine_
+_Context: Chinese, Heilongjiang, coal mine_
 
 ##### Helicopter crash
 ### [Seven people, including the pilot, are killed in a helicopter crash on Fox Glacier in New Zealand. ](/news/2015/11/21/seven-people-including-the-pilot-are-killed-in-a-helicopter-crash-on-fox-glacier-in-new-zealand.md)
@@ -49,7 +49,7 @@ _Context: Egypt, Muslim, al-Azhar_
 
 ##### Miss World 2015
 ### [Miss World Canada Anastasia Lin says that she is prevented from competing in China by the Chinese authorities after she spoke up against human rights abuses in the country. ](/news/2015/11/21/miss-world-canada-anastasia-lin-says-that-she-is-prevented-from-competing-in-china-by-the-chinese-authorities-after-she-spoke-up-against-hum.md)
-_Context: Anastasia Lin, China, Human rights in China, Miss World 2015, Miss World Canada_
+_Context: Anastasia Lin, Chinese, Human rights in China, Miss World 2015, Miss World Canada_
 
 ##### British
 ### [British singer Adele's album "25" is released. ](/news/2015/11/21/british-singer-adele-s-album-25-is-released.md)

@@ -15,7 +15,7 @@ _Context: Tax Cuts and Jobs Act of 2017, United States Senate, tax reform_
 ### [The Trump administrations withdraws the United States from the Global Compact on Migration of the United Nations. ](/news/2017/12/2/the-trump-administrations-withdraws-the-united-states-from-the-global-compact-on-migration-of-the-united-nations.md)
 _Context: United Nations, United States and the United Nations_
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [The former president of Yemen Ali Abdullah Saleh suggests that he is open to talking to the Saudi-led coalition that his forces have been fighting for years. ](/news/2017/12/2/the-former-president-of-yemen-ali-abdullah-saleh-suggests-that-he-is-open-to-talking-to-the-saudi-led-coalition-that-his-forces-have-been-fi.md)
 Ali Abdullah Saleh says he may &quot;turn the page&quot; if coalition forces lift a blockade and stop attacks.
 

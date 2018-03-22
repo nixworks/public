@@ -23,6 +23,10 @@ _Context: 2017-18 Spanish constitutional crisis, Catalan, Jordi Sanchez i Picany
 ### [Myanmar President Htin Kyaw resigns due to ill health. Vice-President Myint Swe, a former general, will become acting president until a new president is chosen. ](/news/2018/03/21/myanmar-president-htin-kyaw-resigns-due-to-ill-health-vice-president-myint-swe-a-former-general-will-become-acting-president-until-a-new.md)
 _Context: Htin Kyaw, Myanmar President, Myint Swe, Politics of Myanmar_
 
+##### James Ibori
+### [James Ibori, a former governor of Delta State, Nigeria, launches a bid to overturn his guilty pleas on corruption charges in the UK alleging police corruption. ](/news/2018/03/21/james-ibori-a-former-governor-of-delta-state-nigeria-launches-a-bid-to-overturn-his-guilty-pleas-on-corruption-charges-in-the-uk-alleging.md)
+James Ibori, a Nigerian politician who spent years in UK jails after pleading guilty to laundering a stolen fortune in Britain, launched an appeal against his conviction on Wednesday, alleging corrupt
+
 ##### Dapchi schoolgirls kidnapping
 ### [Boko Haram releases most of the 110 Nigerian schoolgirls it had kidnapped in February 2018, and warns against sending them back to school. ](/news/2018/03/21/boko-haram-releases-most-of-the-110-nigerian-schoolgirls-it-had-kidnapped-in-february-2018-and-warns-against-sending-them-back-to-school.md)
 Six girls are still unaccounted for

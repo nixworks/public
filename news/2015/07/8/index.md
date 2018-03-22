@@ -57,7 +57,7 @@ At least 22 people have died in clashes between Arabs and Berbers around the Alg
 
 ##### Yemeni Crisis (2011-present)
 ### [The Yemeni government in exile announces that it has reached a truce with the Houthi rebels. ](/news/2015/07/8/the-yemeni-government-in-exile-announces-that-it-has-reached-a-truce-with-the-houthi-rebels.md)
-_Context: Houthi, Yemen, Yemeni Crisis (2011-present), truce_
+_Context: Houthis, Yemen, Yemeni Crisis (2011-present), truce_
 
 ##### Boko Haram insurgency
 ### [Suspected militants from the Nigerian Islamist group Boko Haram killed 26 people in attacks on two villages on Lake Chad, Chad. ](/news/2015/07/8/suspected-militants-from-the-nigerian-islamist-group-boko-haram-killed-26-people-in-attacks-on-two-villages-on-lake-chad-chad.md)

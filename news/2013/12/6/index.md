@@ -23,9 +23,9 @@ Royal Marine Sergeant Alexander Blackman has been sentenced to life in prison by
 ### [A record level of smog is reported in Shanghai causing officials to issue the highest level health warning and delaying of hundreds of flights.](/news/2013/12/6/a-record-level-of-smog-is-reported-in-shanghai-causing-officials-to-issue-the-highest-level-health-warning-and-delaying-of-hundreds-of-fligh.md)
 _Context: Shanghai_
 
-##### U.S.
+##### United States
 ### [Record snowfall occurs over the United States killing at least eleven and leaving hundreds of thousands without power. ](/news/2013/12/6/record-snowfall-occurs-over-the-united-states-killing-at-least-eleven-and-leaving-hundreds-of-thousands-without-power.md)
-_Context: U.S._
+_Context: United States_
 
 ##### Red Cross
 ### [The Red Cross claims that at least 300 people have died in two days of fighting in Bangui, the capital of the Central African Republic. ](/news/2013/12/6/the-red-cross-claims-that-at-least-300-people-have-died-in-two-days-of-fighting-in-bangui-the-capital-of-the-central-african-republic.md)

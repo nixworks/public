@@ -9,7 +9,7 @@ Finns are tipped to oust apro-European and pro-NATO prime minister in elections 
 
 ##### Elections in Northern Cyprus
 ### [Voters in Northern Cyprus go to the polls for an election for a new President to represent them in peace talks with the southern Republic of Cyprus. ](/news/2015/04/19/voters-in-northern-cyprus-go-to-the-polls-for-an-election-for-a-new-president-to-represent-them-in-peace-talks-with-the-southern-republic-of.md)
-_Context: Elections in Northern Cyprus, Republic of Cyprus, northern, president_
+_Context: Elections in Northern Cyprus, Northern Cyprus, Republic of Cyprus, president_
 
 ##### Maltese Navy
 ### [The Maltese Navy and Italian Coast Guard are mounting a rescue operation for a boat that capsized between Libya and Italy with up to 700 people aboard. ](/news/2015/04/19/the-maltese-navy-and-italian-coast-guard-are-mounting-a-rescue-operation-for-a-boat-that-capsized-between-libya-and-italy-with-up-to-700-peo.md)

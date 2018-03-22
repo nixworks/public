@@ -27,13 +27,13 @@ The US actor struggled to find work after starring as the Caped Crusader in the 
 ### [A suicide bomber at a market in Musayyib kills 31 and wounds 35. ISIL claims responsibility. ](/news/2017/06/9/a-suicide-bomber-at-a-market-in-musayyib-kills-31-and-wounds-35-isil-claims-responsibility.md)
 A woman suicide bomber killed at least 31 people and wounded 35 in a crowded market in the town of Musayab, 80 km (50 miles) south of Baghdad, on Friday, security sources said.
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [Human rights activists accuse forces led by Saudi Arabia and the UAE of kidnapping and torturing people during the Yemeni conflict. ](/news/2017/06/9/human-rights-activists-accuse-forces-led-by-saudi-arabia-and-the-uae-of-kidnapping-and-torturing-people-during-the-yemeni-conflict.md)
 Fighters backed by UAE accused of kidnapping and torturing hundreds of men, according to independent investigation.
 
 ##### War in North-West Pakistan
 ### [Chinese authorities report "grave concern" over reports that two kidnapped Chinese teachers in Quetta, Pakistan, were killed by members of the Islamic State of Iraq and the Levant. ](/news/2017/06/9/chinese-authorities-report-grave-concern-over-reports-that-two-kidnapped-chinese-teachers-in-quetta-pakistan-were-killed-by-members-of-t.md)
-_Context: China, ISIL, Pakistan, Quetta, War in North-West Pakistan_
+_Context: Chinese, ISIL, Pakistan, Quetta, War in North-West Pakistan_
 
 ##### Tehran attacks
 ### [Thousands of people along with officials attend funerals held for victims of the attacks. ](/news/2017/06/9/thousands-of-people-along-with-officials-attend-funerals-held-for-victims-of-the-attacks.md)

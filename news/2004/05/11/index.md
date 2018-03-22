@@ -5,7 +5,7 @@ Formats: [HTML](2004/05/11/index.html)  [JSON](2004/05/11/index.json)  [XML](200
 
 ##### Thailand
 ### [ Thai Prime Minister Thaksin Shinawatra buys a 30% stake in Liverpool Football Club for approximately GBP60&nbsp;million (~ USD100 million). It is unclear whether most of the money originates from the Thai government or is the prime minister's own money. It is hoped that the purchase will assist with the development of football in Thailand. ](/news/2004/05/11/thai-prime-minister-thaksin-shinawatra-buys-a-30-stake-in-liverpool-football-club-for-approximately-gbp60-nbsp-million-usd100-million.md)
-_Context: $, Liverpool, Thailand, Thaksin Shinawatra, footballer_
+_Context: Liverpool, Thailand, Thaksin Shinawatra, US$, footballer_
 
 ##### Civilian
 ### [ Hundreds of civilians march to the Muslim shrines in Najaf, calling upon Moqtada al-Sadr to remove his Mahdi Army from the city. ](/news/2004/05/11/hundreds-of-civilians-march-to-the-muslim-shrines-in-najaf-calling-upon-moqtada-al-sadr-to-remove-his-mahdi-army-from-the-city.md)
@@ -17,7 +17,7 @@ _Context: Gaza Strip, Hamas, Hamas, Israel, Israeli-Palestinian conflict, armore
 
 ##### Glasgow
 ### [ Nine factory workers in Glasgow, Scotland, are killed in a midday explosion at the Stockline Plastics factory. ](/news/2004/05/11/nine-factory-workers-in-glasgow-scotland-are-killed-in-a-midday-explosion-at-the-stockline-plastics-factory.md)
-_Context: Glasgow, Scotland, explosion at the Stockline Plastics factory_
+_Context: Glasgow, Scottish, explosion at the Stockline Plastics factory_
 
 ## [Previous Day...](/news/2004/05/10/index.md)
 

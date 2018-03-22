@@ -9,7 +9,7 @@ _Context: 2002 Bali bombings, Islam_
 
 ##### 2007 Pacific typhoon season
 ### [ 2007 Pacific typhoon season: Southeast China and Taiwan prepare for typhoon Sepat. ](/news/2007/08/17/2007-pacific-typhoon-season-southeast-china-and-taiwan-prepare-for-typhoon-sepat.md)
-_Context: 2007 Pacific typhoon season, China, Taiwan, Typhoon Sepat_
+_Context: 2007 Pacific typhoon season, Chinese, Taiwan, Typhoon Sepat_
 
 ##### Parliament of Australia
 ### [ The Parliament of Australia passes the "Northern Territory Indigenous Bill" making changes to the Australian welfare system and land rights. ](/news/2007/08/17/the-parliament-of-australia-passes-the-northern-territory-indigenous-bill-making-changes-to-the-australian-welfare-system-and-land-rights.md)
@@ -29,11 +29,11 @@ _Context: IAEA, North Korea, United States Government_
 
 ##### 2007 Peru earthquake
 ### [ The death toll from the 2007 Peru earthquake rises to 510 with another 1,500 people being injured. Aid reaches affected areas with President Alan Garca appealing for calm after reports of looting. ](/news/2007/08/17/the-death-toll-from-the-2007-peru-earthquake-rises-to-510-with-another-1-500-people-being-injured-aid-reaches-affected-areas-with-presiden.md)
-_Context: 2007 Peru earthquake, Alan Garca, President, looting_
+_Context: 2007 Peru earthquake, Alan Garca, Peruvian President, looting_
 
-##### U.S.
+##### United States
 ### [ Stock prices in the United States and Europe rally after the Federal Reserve cuts its discount lending rate to restore confidence in the banking sector after the subprime mortgage crisis. ](/news/2007/08/17/stock-prices-in-the-united-states-and-europe-rally-after-the-federal-reserve-cuts-its-discount-lending-rate-to-restore-confidence-in-the-ba.md)
-_Context: Europe, Federal Reserve, U.S., subprime mortgage crisis_
+_Context: Europe, Federal Reserve, United States, subprime mortgage crisis_
 
 ##### Hurricane
 ### [ Hurricane Dean intensifies into a Category 4 hurricane after hitting the Lesser Antilles. ](/news/2007/08/17/hurricane-dean-intensifies-into-a-category-4-hurricane-after-hitting-the-lesser-antilles.md)
@@ -59,9 +59,9 @@ Rescuers are trying to reach 172 miners trapped in a flooded coal mine in east C
 ### [ A Nile boat sinks off the northern Egyptian town of Beni Suef with dozens feared missing. ](/news/2007/08/17/a-nile-boat-sinks-off-the-northern-egyptian-town-of-beni-suef-with-dozens-feared-missing.md)
 A Nile boat has sunk off the south Egyptian town of Beni Suef and police sources say they believe dozens of people could be missing.
 
-##### China
+##### Chinese
 ### [ Russia, China and four Central Asian members of the Shanghai Cooperation Organisation conduct war games in the southern Ural Mountains area of Russia with Vladimir Putin, the President of Russia, proposing that they be held regularly. ](/news/2007/08/17/russia-china-and-four-central-asian-members-of-the-shanghai-cooperation-organisation-conduct-war-games-in-the-southern-ural-mountains-area.md)
-_Context: Central Asia, China, President of Russia, Russia, Shanghai Cooperation Organisation, Ural Mountains, Vladimir Putin, war games_
+_Context: Central Asia, Chinese, President of Russia, Russia, Shanghai Cooperation Organisation, Ural Mountains, Vladimir Putin, war games_
 
 ##### Texas
 ### [ Texas oil executive David B. Chalmers, Jr pleads guilty to wire fraud connected with the United Nations oil-for-food program associated with the United Nations. ](/news/2007/08/17/texas-oil-executive-david-b-chalmers-jr-pleads-guilty-to-wire-fraud-connected-with-the-united-nations-oil-for-food-program-associated-wit.md)

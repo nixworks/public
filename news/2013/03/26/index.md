@@ -3,7 +3,7 @@ Formats: [HTML](2013/03/26/index.html)  [JSON](2013/03/26/index.json)  [XML](201
 
 ## [2013-03-26](/news/2013/03/26/index.md)
 
-##### United Kingdom
+##### UK
 ### [Former British Foreign Secretary David Miliband confirms he is to resign as an MP and move to the United States to become head of the International Rescue Committee in New York. ](/news/2013/03/26/former-british-foreign-secretary-david-miliband-confirms-he-is-to-resign-as-an-mp-and-move-to-the-united-states-to-become-head-of-the-intern.md)
 Former Labour Foreign Secretary David Miliband is to leave Parliament to move to New York to work for a charity, a close friend confirms to the BBC.
 
@@ -37,7 +37,7 @@ China defends the action of one of its patrol boats which is accused of opening 
 
 ##### North Korea
 ### [North Korea issues a new threat to strike targets on the United States mainland, Hawaii and Guam, as well as South Korea, days after a new US-South Korea military pact. ](/news/2013/03/26/north-korea-issues-a-new-threat-to-strike-targets-on-the-united-states-mainland-hawaii-and-guam-as-well-as-south-korea-days-after-a-new-u.md)
-_Context: Guam, Hawaii, North Korea, South Korea, U.S., US-South Korea, continental United States, military pact_
+_Context: Guam, Hawaii, North Korea, South Korea, US-South Korea, United States, continental United States, military pact_
 
 ##### Arab League
 ### [The Arab League summit begins in Qatar, Doha, with the Syria conflict and possible talks between the Afghanistan government and the Taliban among the key issues. ](/news/2013/03/26/the-arab-league-summit-begins-in-qatar-doha-with-the-syria-conflict-and-possible-talks-between-the-afghanistan-government-and-the-taliban.md)

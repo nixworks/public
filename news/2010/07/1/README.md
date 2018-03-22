@@ -27,9 +27,9 @@ The Finnish parliament approves constructing two nuclear power stations in a bid
 ### [Pierre Nkurunziza, the incumbent President of Burundi and sole candidate in the presidential election, is re-elected with more than 91% of the votes. ](/news/2010/07/1/pierre-nkurunziza-the-incumbent-president-of-burundi-and-sole-candidate-in-the-presidential-election-is-re-elected-with-more-than-91-of-t.md)
 _Context: Burundi, Pierre Nkurunziza, President, presidential election_
 
-##### United Kingdom
+##### UK
 ### [The United Kingdom's Forced Marriage Unit (FMU) reports there has been a surge in cases of gay and bisexual men in some communities being forced to marry by their families. ](/news/2010/07/1/the-united-kingdom-s-forced-marriage-unit-fmu-reports-there-has-been-a-surge-in-cases-of-gay-and-bisexual-men-in-some-communities-being-fo.md)
-_Context: United Kingdom_
+_Context: UK_
 
 ##### 
 ### [The United States Government actively seizes the domains of 7 U.S. based ](/news/2010/07/1/the-united-states-government-actively-seizes-the-domains-of-7-u-s-based.md)
@@ -61,9 +61,9 @@ BP&#39;s massive oil spill became the largest ever in the Gulf of Mexico on Thur
 ### [Hurricane Alex, the first hurricane of the 2010 Atlantic hurricane season, makes landfall in northeastern Mexico as a Category&nbsp;2 hurricane on the Saffir-Simpson Hurricane Scale with winds of 105&nbsp;mph (165&nbsp;km-h), and causes tornadoes that force people into shelters in southern Texas. ](/news/2010/07/1/hurricane-alex-the-first-hurricane-of-the-2010-atlantic-hurricane-season-makes-landfall-in-northeastern-mexico-as-a-category-nbsp-2-hurric.md)
 Storm makes landfall as heavy seas hamper oil clean-up efforts in Gulf of Mexico.
 
-##### China
+##### Chinese
 ### [China's Xinhua launches a global 24-hour English TV news channel. ](/news/2010/07/1/china-s-xinhua-launches-a-global-24-hour-english-tv-news-channel.md)
-_Context: 24-hour English TV news channel, China, China, Xinhua_
+_Context: 24-hour English TV news channel, China, Chinese, Xinhua_
 
 ##### Ottawa
 ### [People take to the streets in Ottawa to celebrate Canada's 143rd birthday. ](/news/2010/07/1/people-take-to-the-streets-in-ottawa-to-celebrate-canada-s-143rd-birthday.md)

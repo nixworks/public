@@ -9,7 +9,7 @@ Work and Pensions Secretary Iain Duncan Smith&#039;s department has made a forma
 
 ##### WikiLeaks
 ### [In the stand-off between Britain and Ecuador over Julian Assange, WikiLeaks founder Julian Assange gives a speech critical of the United States' policy against Wikileaks, "dragging us all in a dark, repressive world in which journalists live under fear of prosecution", from the balcony of Ecuador's London embassy. ](/news/2012/08/19/in-the-stand-off-between-britain-and-ecuador-over-julian-assange-wikileaks-founder-julian-assange-gives-a-speech-critical-of-the-united-sta.md)
-_Context: Ecuador, Julian Assange, London, U.S., WikiLeaks_
+_Context: Ecuador, Julian Assange, London, United States, WikiLeaks_
 
 ##### Senkaku Islands
 ### [At least 10 Japanese nationalist activists land on the Japan-controlled Senkaku Islands, amid a dispute between China and Japan. ](/news/2012/08/19/at-least-10-japanese-nationalist-activists-land-on-the-japan-controlled-senkaku-islands-amid-a-dispute-between-china-and-japan.md)

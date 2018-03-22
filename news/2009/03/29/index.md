@@ -9,7 +9,7 @@ _Context: 2010 FIFA World Cup, Abidjan, Cte d'Ivoire, qualifying match, stampede
 
 ##### Home Secretary
 ### [ Home Secretary Jacqui Smith will recompense the United Kingdom's government for her husband's purchase of pornographic films through her expense account. ](/news/2009/03/29/home-secretary-jacqui-smith-will-recompense-the-united-kingdom-s-government-for-her-husband-s-purchase-of-pornographic-films-through-her-ex.md)
-_Context: His Majesty's Government, Home Secretary, Jacqui Smith, United Kingdom, expense account, pornographic film_
+_Context: His Majesty's Government, Home Secretary, Jacqui Smith, UK, expense account, pornographic film_
 
 ##### Oxford Boat Club
 ### [ Oxford Boat Club defeats Cambridge Boat Club to win the 155th University Boat Race in London, England. ](/news/2009/03/29/oxford-boat-club-defeats-cambridge-boat-club-to-win-the-155th-university-boat-race-in-london-england.md)
@@ -17,7 +17,7 @@ _Context: 156th University Boat Race, Cambridge Boat Club, England, London, Oxfo
 
 ##### Kills
 ### [ A gunman kills at least eight people and injures three others at a nursing home in Carthage, North Carolina, United States. ](/news/2009/03/29/a-gunman-kills-at-least-eight-people-and-injures-three-others-at-a-nursing-home-in-carthage-north-carolina-united-states.md)
-_Context: Carthage, North Carolina, U.S., kills, nursing home_
+_Context: Carthage, North Carolina, United States, kills, nursing home_
 
 ##### Jenson Button
 ### [ Jenson Button of Brawn GP wins Formula One's 2009 Australian Grand Prix. ](/news/2009/03/29/jenson-button-of-brawn-gp-wins-formula-one-s-2009-australian-grand-prix.md)

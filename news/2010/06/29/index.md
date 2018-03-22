@@ -43,7 +43,7 @@ Sudan announces it is closing its border with Libya to protect travellers from a
 ### [Thousands of workers take part in a 24 hour strike in Greece in protest against government austerity measures. ](/news/2010/06/29/thousands-of-workers-take-part-in-a-24-hour-strike-in-greece-in-protest-against-government-austerity-measures.md)
 Public transport and services shut down as workers protest government spending cuts.
 
-##### United Kingdom
+##### UK
 ### [The United Kingdom's Iraq Inquiry resumes after a break for the general election, with Douglas Brand as the first witness. ](/news/2010/06/29/the-united-kingdom-s-iraq-inquiry-resumes-after-a-break-for-the-general-election-with-douglas-brand-as-the-first-witness.md)
 Former French leader Jacques Chirac believed the Iraq war was a &quot;dangerous venture&quot;, the Iraq inquiry is told as hearings restart.
 
@@ -59,7 +59,7 @@ _Context: Hyderabad_
 ### [A report by Human Rights Watch calls on Britain, France and Germany to stop using intelligence obtained through illegal torture in third-party countries, saying that it contradicts the European Union's anti-torture guidelines and is self-defeating in the "fight against terrorism". ](/news/2010/06/29/a-report-by-human-rights-watch-calls-on-britain-france-and-germany-to-stop-using-intelligence-obtained-through-illegal-torture-in-third-par.md)
 UK, France and Germany urged not to use information gained by torture in other countries.
 
-##### China
+##### Chinese
 ### [China and Taiwan sign a trade deal in the southern mainland city of Chongqing. ](/news/2010/06/29/china-and-taiwan-sign-a-trade-deal-in-the-southern-mainland-city-of-chongqing.md)
 China can maintain its grip on Tibet &quot;forever&quot;, a senior official said on Tuesday, but conceded that a heavy security presence was still needed to ensure order in Lhasa two years after deadly riots.
 
@@ -67,7 +67,7 @@ China can maintain its grip on Tibet &quot;forever&quot;, a senior official said
 ### [Prime Minister of Kenya Raila Odinga undergoes brain surgery in Nairobi. ](/news/2010/06/29/prime-minister-of-kenya-raila-odinga-undergoes-brain-surgery-in-nairobi.md)
 Rescue workers say there is little chance of finding more survivors after a gold mine collapsed in Ghana, trapping dozens.
 
-##### U.S.
+##### United States
 ### [The Supreme Court rules that Nigerian families can sue drug company Pfizer for using a deadly antibiotic on their children. ](/news/2010/06/29/the-supreme-court-rules-that-nigerian-families-can-sue-drug-company-pfizer-for-using-a-deadly-antibiotic-on-their-children.md)
 The US Supreme Court gives Nigerian families the green light to sue Pfizer over the use of a new antibiotic on their children.
 

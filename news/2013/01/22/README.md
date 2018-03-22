@@ -19,7 +19,7 @@ Israeli Prime Minister Benjamin Netanyahu vows to form &quot;as broad a governme
 ### [At least three people are injured after a gunman opens fire at the campus of Lone Star College-North Harris in Houston, Texas. ](/news/2013/01/22/at-least-three-people-are-injured-after-a-gunman-opens-fire-at-the-campus-of-lone-star-collegeanorth-harris-in-houston-texas.md)
 _Context: Houston, Lone Star College-North Harris, Texas_
 
-##### United Kingdom
+##### UK
 ### [A British woman, Lindsay Sandiford is sentenced to death by a court in Indonesia following a conviction for drug trafficking. ](/news/2013/01/22/a-british-woman-lindsay-sandiford-is-sentenced-to-death-by-a-court-in-indonesia-following-a-conviction-for-drug-trafficking.md)
 British grandmother Lindsay Sandiford is sentenced to death by firing squad in Bali for trafficking cocaine.
 
@@ -41,7 +41,7 @@ The United States hascirculated a draft resolution to the U.N. Security Council 
 
 ##### James Bond
 ### [The James Bond film "Skyfall" opens in China with censored scenes, prompting criticism from fans. ](/news/2013/01/22/the-james-bond-film-skyfall-opens-in-china-with-censored-scenes-prompting-criticism-from-fans.md)
-_Context: Censorship in China, China, James Bond, Skyfall_
+_Context: Censorship in China, Chinese, James Bond, Skyfall_
 
 ##### Colombia
 ### [In Colombia, FARC rebels dynamite two southern oil pipelines and planted a bomb on the top coal exporter's northern railway after the end of a rebel ceasefire. ](/news/2013/01/22/in-colombia-farc-rebels-dynamite-two-southern-oil-pipelines-and-planted-a-bomb-on-the-top-coal-exporter-s-northern-railway-after-the-end-of.md)

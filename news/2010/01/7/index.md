@@ -13,7 +13,7 @@ _Context: Burma, North Korea, Russia_
 
 ##### Shooting eight people
 ### [An ABB employee commits suicide after shooting eight people, three fatally, at the ABB Power building in St. Louis, Missouri in the United States. ](/news/2010/01/7/an-abb-employee-commits-suicide-after-shooting-eight-people-three-fatally-at-the-abb-power-building-in-st-louis-missouri-in-the-united-s.md)
-_Context: ABB Power, Missouri, St. Louis, U.S., shooting eight people_
+_Context: ABB Power, Missouri, St. Louis, United States, shooting eight people_
 
 ##### United Nations special human rights envoy
 ### [United Nations Special Rapporteur Philip Alston says three independent experts have confirmed that mobile phone video footage showing extra-judicial killings by the Sri Lankan military is authentic. ](/news/2010/01/7/united-nations-special-rapporteur-philip-alston-says-three-independent-experts-have-confirmed-that-mobile-phone-video-footage-showing-extra.md)
@@ -37,11 +37,11 @@ Australia joined New Zealand on Thursday in investigating a clash between an ant
 
 ##### Europe
 ### [Extreme weather in Europe kills nine people in Germany, traps a Eurostar train in the Channel Tunnel, disrupts flights at international airports in Amsterdam, Dublin, Knock and Paris, shuts hundreds of schools in Ireland and disrupts Norway's bus service in Oslo. ](/news/2010/01/7/extreme-weather-in-europe-kills-nine-people-in-germany-traps-a-eurostar-train-in-the-channel-tunnel-disrupts-flights-at-international-airp.md)
-_Context: Amsterdam, Channel Tunnel, Dublin, Europe, Eurostar, German, Irish, Knock, Norway, Oslo, Paris_
+_Context: Amsterdam, Channel Tunnel, Dublin, Europe, Eurostar, German, Irish, Knock, Norwegian, Oslo, Paris_
 
-##### U.S.
+##### United States
 ### [The United States approves arms sales to Taiwan, amid opposition from China. ](/news/2010/01/7/the-united-states-approves-arms-sales-to-taiwan-amid-opposition-from-china.md)
-_Context: China, Taiwan, U.S._
+_Context: China, Taiwan, United States_
 
 ##### BBC
 ### [The BBC's "Spotlight" programme reveals that Iris Robinson, former UK MP and wife of the First Minister of Northern Ireland, helped a 19 year old male who she was having a relationship with receive funding for a business project. ](/news/2010/01/7/the-bbc-s-spotlight-programme-reveals-that-iris-robinson-former-uk-mp-and-wife-of-the-first-minister-of-northern-ireland-helped-a-19-yea.md)

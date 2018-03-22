@@ -37,7 +37,7 @@ _Context: GEO Television, Pakistan, Swat, Pakistan, War in North-West Pakistan_
 
 ##### Lawyer
 ### [ Lawyers representing the entertainment industry defend their compensation claims of US$13 million against The Pirate Bay. ](/news/2009/02/18/lawyers-representing-the-entertainment-industry-defend-their-compensation-claims-of-us-13-million-against-the-pirate-bay.md)
-_Context: $, Lawyer, The Pirate Bay, claims, compensate, entertainment industry, trial_
+_Context: Lawyer, The Pirate Bay, US$, claims, compensate, entertainment industry, trial_
 
 ##### Iran
 ### [ Iran announces it has built an unmanned aerial vehicle capable of traveling 620&nbsp;miles (1,000&nbsp;kilometers). ](/news/2009/02/18/iran-announces-it-has-built-an-unmanned-aerial-vehicle-capable-of-traveling-620-nbsp-miles-1-000-nbsp-kilometers.md)
@@ -57,7 +57,7 @@ _Context: Eurocopter Super Puma, North Sea, ditches_
 
 ##### Swiss
 ### [ Switzerland's UBS AG will pay the United States federal government US$780 million in fines and restitution after admitting to helping American clients avoid taxes. ](/news/2009/02/18/switzerland-s-ubs-ag-will-pay-the-united-states-federal-government-us-780-million-in-fines-and-restitution-after-admitting-to-helping-ameri.md)
-_Context: $, Swiss, U.S., U.S. government, UBS AG, avoid taxes, fine, restitution_
+_Context: Swiss, U.S. government, UBS AG, US$, United States, avoid taxes, fine, restitution_
 
 ##### Columbian mammoth
 ### [ A Columbian mammoth is discovered in the La Brea Tar Pits in Los Angeles, California. ](/news/2009/02/18/a-columbian-mammoth-is-discovered-in-the-la-brea-tar-pits-in-los-angeles-california.md)

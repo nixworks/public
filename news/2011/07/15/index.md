@@ -85,7 +85,7 @@ _Context: Recep Tayyip Erdogan_
 
 ##### Drones launch
 ### [International campaigners against the drone attacks, carried out by the United States in Pakistan, launch their attempt to have former CIA legal chief John A. Rizzo arrested and charged with the murders of hundreds of people after his admission in "Newsweek" that he approved attacks each month since 2004. ](/news/2011/07/15/international-campaigners-against-the-drone-attacks-carried-out-by-the-united-states-in-pakistan-launch-their-attempt-to-have-former-cia-l.md)
-_Context: John A. Rizzo, Newsweek, Pakistan, U.S., drones launch_
+_Context: John A. Rizzo, Newsweek, Pakistan, United States, drones launch_
 
 ##### India
 ### [Indian troops report three deaths in Maidanpora, Kupwara, Kashmir. ](/news/2011/07/15/indian-troops-report-three-deaths-in-maidanpora-kupwara-kashmir.md)

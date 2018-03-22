@@ -19,9 +19,9 @@ _Context: Morocco, parliamentary elections_
 ### [ The BBC reports that investigations into a recent outbreak of foot and mouth disease has identified five breaches of biosecurity at the Pirbright site of the Institute for Animal Health. ](/news/2007/09/7/the-bbc-reports-that-investigations-into-a-recent-outbreak-of-foot-and-mouth-disease-has-identified-five-breaches-of-biosecurity-at-the-pir.md)
 _Context: BBC, Institute for Animal Health, Pirbright, biosecurity, foot and mouth disease_
 
-##### U.S.
+##### United States
 ### [ The United States is investigating a video which it has obtained, to see if the claims that the man on it is Osama bin Laden are genuine. If they are found to be, it will have been the first time he has been seen since October 2004. ](/news/2007/09/7/the-united-states-is-investigating-a-video-which-it-has-obtained-to-see-if-the-claims-that-the-man-on-it-is-osama-bin-laden-are-genuine-i.md)
-_Context: Osama bin Laden, U.S., video_
+_Context: Osama bin Laden, United States, video_
 
 ##### Madeleine McCann's disappearance
 ### [ Disappearance of Madeleine McCann: Portuguese police believe that Kate McCann and Gerry McCann may be involved in their daughters possible death with both parents being named as suspects. ](/news/2007/09/7/disappearance-of-madeleine-mccann-portuguese-police-believe-that-kate-mccann-and-gerry-mccann-may-be-involved-in-their-daughters-possible.md)
@@ -37,7 +37,7 @@ _Context: Amrozi bin Nurhasyim, Bali bomber, Indonesia_
 
 ##### Stock Markets
 ### [ Global Stock Markets fall sharply amid recession fears after the release of a report that shows a surprise decline of the US workforce in August, for the first time in four years. ](/news/2007/09/7/global-stock-markets-fall-sharply-amid-recession-fears-after-the-release-of-a-report-that-shows-a-surprise-decline-of-the-us-workforce-in-a.md)
-_Context: Stock Markets, U.S., recession, workforce_
+_Context: Stock Markets, United States, recession, workforce_
 
 ##### Poland
 ### [ The Polish Sejm votes to dissolve itself, causing early parliamentary elections in October 2007. ](/news/2007/09/7/the-polish-sejm-votes-to-dissolve-itself-causing-early-parliamentary-elections-in-october-2007.md)
@@ -49,11 +49,11 @@ The number of people killed when Hurricane Felix tore into the border area betwe
 
 ##### Roman Catholic Diocese of San Diego
 ### [ The Roman Catholic Diocese of San Diego agrees to pay $198.1 million to settle 144 claims of sexual abuse by clergy. ](/news/2007/09/7/the-roman-catholic-diocese-of-san-diego-agrees-to-pay-198-1-million-to-settle-144-claims-of-sexual-abuse-by-clergy.md)
-_Context: $, Roman Catholic Diocese of San Diego, sexual abuse_
+_Context: Roman Catholic Diocese of San Diego, US$, sexual abuse_
 
 ##### U.S. District Court in Washington, D.C.
 ### [ United States District Court judge Royce Lamberth orders Iran to pay $2.6 billion to victims and families in the 1983 Hezbollah bombing of a United States Marine Corps barracks in Lebanon that claimed 241 American lives. ](/news/2007/09/7/united-states-district-court-judge-royce-lamberth-orders-iran-to-pay-2-6-billion-to-victims-and-families-in-the-1983-hezbollah-bombing-of.md)
-_Context: $, Hezbollah, Iran, Lebanese, Marine, Royce Lamberth, U.S. District Court in Washington, D.C., bomb_
+_Context: Hezbollah, Iran, Lebanese, Marine, Royce Lamberth, U.S. District Court in Washington, D.C., US$, bomb_
 
 ##### Robert Mugabe
 ### [ Robert Mugabe, the President of Zimbabwe, accused Levy Mwanawasa, the President of Zambia and Chairman of the Southern African Development Community, of selling out his country to the Western world and plotting with foreign intelligence agencies during an SADC conference in August. President Mwanawasa later apologized to Mugabe, saying Mugabe had misunderstood an earlier comment. ](/news/2007/09/7/robert-mugabe-the-president-of-zimbabwe-accused-levy-mwanawasa-the-president-of-zambia-and-chairman-of-the-southern-african-development.md)

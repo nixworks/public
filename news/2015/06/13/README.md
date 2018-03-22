@@ -23,7 +23,7 @@ Egypt has opened its borders with the Gaza Strip for the first time in months.
 ### [Iran asks Austria to secure the talks over its nuclear program following reports of cybersecurity breaches. ](/news/2015/06/13/iran-asks-austria-to-secure-the-talks-over-its-nuclear-program-following-reports-of-cybersecurity-breaches.md)
 Iran has asked Austria&#39;s government to take immediate measures to protect the cyber security of nuclear talks, media reported Saturday after reports emerged of suspected espionage at negotiation venues.
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [Scheduled talks of 14th June, 2015 between Yemen's Houthi rebels and the exiled government which are brokered by the UN have been postponed with a new schedule set for Monday 15 June, 2015. ](/news/2015/06/13/scheduled-talks-of-14th-june-2015-between-yemen-s-houthi-rebels-and-the-exiled-government-which-are-brokered-by-the-un-have-been-postponed.md)
 Peace talks between Yemen&#39;s warring parties have been postponed to Monday from Sunday as one delegation is arriving late in Geneva, a United Nations statement said.
 

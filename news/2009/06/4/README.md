@@ -13,7 +13,7 @@ _Context: China, Hong Kong, Tiananmen Square, Tiananmen Square protests of 1989_
 
 ##### Linguistic analysis
 ### [ Linguistic analysis confirms that American astronaut Neil Armstrong did not say the article "a" in the phrase "one small step for a man" when he walked on the Moon on July 20, 1969. ](/news/2009/06/4/linguistic-analysis-confirms-that-american-astronaut-neil-armstrong-did-not-say-the-article-a-in-the-phrase-one-small-step-for-a-man-wh.md)
-_Context: Linguistic analysis, Moon, Neil Armstrong, U.S., article, astronaut, phrase, walked_
+_Context: Linguistic analysis, Moon, Neil Armstrong, United States, article, astronaut, phrase, walked_
 
 ##### Australia
 ### [ Australian Minister for Defense Joel Fitzgibbon resigns. ](/news/2009/06/4/australian-minister-for-defense-joel-fitzgibbon-resigns.md)
@@ -25,7 +25,7 @@ An inquiry has begun into the security breach which forced the postponement of t
 
 ##### European Union
 ### [ The European Union's parliamentary election commences in the Netherlands and United Kingdom. ](/news/2009/06/4/the-european-union-s-parliamentary-election-commences-in-the-netherlands-and-united-kingdom.md)
-_Context: Dutch, European Parliament, European Union, United Kingdom, election_
+_Context: Dutch, European Parliament, European Union, UK, election_
 
 ##### U.S. President
 ### [ The President of the United States, Barack Obama, addresses the Muslim world in Cairo, Egypt. ](/news/2009/06/4/the-president-of-the-united-states-barack-obama-addresses-the-muslim-world-in-cairo-egypt.md)

@@ -43,7 +43,7 @@ _Context: Ica, Peru, earthquake_
 ### [South Korea manufacturer Samsung supersedes Apple to become the largest maker of smartphones in the world. ](/news/2011/10/28/south-korea-manufacturer-samsung-supersedes-apple-to-become-the-largest-maker-of-smartphones-in-the-world.md)
 _Context: Apple Inc., Samsung, South Korea, smartphones_
 
-##### U.S.
+##### United States
 ### [The United States commemorates the 125th anniversary of the dedication of the Statue of Liberty in New York City. ](/news/2011/10/28/the-united-states-commemorates-the-125th-anniversary-of-the-dedication-of-the-statue-of-liberty-in-new-york-city.md)
 The Christian Science Monitor is an international news organization that delivers thoughtful, global coverage via its website, weekly magazine, daily news briefing, and email newsletters.
 

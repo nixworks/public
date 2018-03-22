@@ -11,9 +11,9 @@ _Context: Albania, Bucharest, Croatia, NATO, its summit_
 ### [ The Iraqi military says a suicide bomber has attacked a checkpoint near Mosul, killing 7 people and wounding 12. ](/news/2008/04/3/the-iraqi-military-says-a-suicide-bomber-has-attacked-a-checkpoint-near-mosul-killing-7-people-and-wounding-12.md)
 _Context: Iraq, Mosul_
 
-##### Northern
+##### Northern Cyprus
 ### [ Greek and Turkish Cypriots open a crossing at Ledra Street, a main shopping street in Cyprus' divided capital Nicosia that has come to symbolize the island's ethnic partition. ](/news/2008/04/3/greek-and-turkish-cypriots-open-a-crossing-at-ledra-street-a-main-shopping-street-in-cyprus-divided-capital-nicosia-that-has-come-to-symb.md)
-_Context: Cypriot, Ledra Street, Nicosia, northern_
+_Context: Cypriot, Ledra Street, Nicosia, Northern Cyprus_
 
 ##### Serbia
 ### [ Serbian Minister on Kosovo Slobodan Samardzic submits to UNMIK a plan suggesting Kosovo's division into cantons along ethnic lines. ](/news/2008/04/3/serbian-minister-on-kosovo-slobodan-samarda3-4ia-submits-to-unmik-a-plan-suggesting-kosovo-s-division-into-cantons-along-ethnic-lines.md)

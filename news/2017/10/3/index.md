@@ -25,11 +25,11 @@ A general strike in Catalonia on Tuesday will likely bring much of the wealthy S
 
 ##### Cuba-United States relations
 ### [The Trump administration, through the Department of State and Secretary of State Rex Tillerson, expels 15 Cuban diplomats, after pulling half of its own embassy staff from Havana on Sept. 29, due to the alleged failure of Cuba to take appropriate steps to protect American personnel against the mysterious health attacks. ](/news/2017/10/3/the-trump-administration-through-the-department-of-state-and-secretary-of-state-rex-tillerson-expels-15-cuban-diplomats-after-pulling-hal.md)
-_Context: Cuba, Cuba-United States relations, Havana, Presidency of Donald Trump, Rex Tillerson, Secretary of State, State Department, U.S., mysterious health attacks_
+_Context: Cuba, Cuba-United States relations, Havana, Presidency of Donald Trump, Rex Tillerson, Secretary of State, State Department, United States, mysterious health attacks_
 
 ##### Iran-United States relations
 ### [U.S. District Court for the District of Columbia Judge Ellen S. Huvelle awards Amir Mirza Hekmati, a U.S. Marine who was imprisoned in Iran as a falsely accused CIA spy, a default judgment of $63 million for his ordeal. ](/news/2017/10/3/u-s-district-court-for-the-district-of-columbia-judge-ellen-s-huvelle-awards-amir-mirza-hekmati-a-u-s-marine-who-was-imprisoned-in-iran.md)
-_Context: $, Amir Mirza Hekmati, CIA, Ellen S. Huvelle, Iran, Iran-United States relations, Marine, U.S. District Court in Washington, D.C., default judgment, falsely accused, spy_
+_Context: Amir Mirza Hekmati, CIA, Ellen S. Huvelle, Iran, Iran-United States relations, Marine, U.S. District Court in Washington, D.C., US$, default judgment, falsely accused, spy_
 
 ##### Hurricane Maria
 ### [Puerto Rico Governor Ricardo Rossello's office reports that the number of deaths related to Hurricane Maria has risen to 34. ](/news/2017/10/3/puerto-rico-governor-ricardo-rossella3-s-office-reports-that-the-number-of-deaths-related-to-hurricane-maria-has-risen-to-34.md)

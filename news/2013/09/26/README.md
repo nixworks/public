@@ -11,7 +11,7 @@ A UN-backed special court in The Hague rejects an appeal against war crimes conv
 ### [South Korean prosecutors charge Unified Progressive Party MP Lee Seok-ki with plotting an armed revolt in support of North Korea. ](/news/2013/09/26/south-korean-prosecutors-charge-unified-progressive-party-mp-lee-seok-ki-with-plotting-an-armed-revolt-in-support-of-north-korea.md)
 _Context: North Korea, South Korea, Unified Progressive Party_
 
-##### U.S.
+##### United States
 ### [The United States and Russia agree on a draft United Nations Security Council resolution aiming to rid Syria of its chemical weapons. ](/news/2013/09/26/the-united-states-and-russia-agree-on-a-draft-united-nations-security-council-resolution-aiming-to-rid-syria-of-its-chemical-weapons.md)
 UNITED NATIONS (Reuters) - The United States and Russia reached an agreement on Thursday on a draft U.N. Security Council resolution aimed at ridding Syria of its chemical weapons arsenal. Following is the text of this draft resolution. The Security Council, PP1. Recalling the Statements of its Pres...
 

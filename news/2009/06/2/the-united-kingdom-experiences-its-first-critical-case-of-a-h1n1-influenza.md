@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/2/the-united-kingdom-experiences-its-first-critica
 
 ### [2009-06-2](/news/2009/06/2/index.md)
 
-##### United Kingdom
+##### UK
 #  The United Kingdom experiences its first critical case of A(H1N1) influenza. 
 
 

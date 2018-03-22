@@ -33,11 +33,11 @@ _Context: 2011 Egyptian revolution, Egypt, Hosni Mubarak, President, conspiracy,
 
 ##### Russia
 ### [Russia bans 18 American diplomats from entering the country, in retaliation for similar restrictions placed on 18 Russian officials by the Magnitsky Act. ](/news/2013/04/13/russia-bans-18-american-diplomats-from-entering-the-country-in-retaliation-for-similar-restrictions-placed-on-18-russian-officials-by-the-m.md)
-_Context: Magnitsky Act, Russia, U.S., diplomat_
+_Context: Magnitsky Act, Russia, United States, diplomat_
 
-##### China
+##### Chinese
 ### [China and the United States agree to collaborate on resolving cybersecurity issues between the two countries. ](/news/2013/04/13/china-and-the-united-states-agree-to-collaborate-on-resolving-cybersecurity-issues-between-the-two-countries.md)
-_Context: China, U.S., cybersecurity_
+_Context: Chinese, United States, cybersecurity_
 
 ##### Iranian Army
 ### [The Iranian Army announces the successful completion of three rocket tests. ](/news/2013/04/13/the-iranian-army-announces-the-successful-completion-of-three-rocket-tests.md)
@@ -49,7 +49,7 @@ South Korean police on Saturday stopped a planned launch of anti-North Korea lea
 
 ##### Girl
 ### [A seven-year-old girl is confirmed as the first person in Beijing, China, to catch the Influenza A virus subtype H7N9 bird flu. ](/news/2013/04/13/a-seven-year-old-girl-is-confirmed-as-the-first-person-in-beijing-china-to-catch-the-influenza-a-virus-subtype-h7n9-bird-flu.md)
-_Context: Beijing, China, H7N9 avian flu virus, bird flu, girl_
+_Context: Beijing, Chinese, H7N9 avian flu virus, bird flu, girl_
 
 ##### Toncontin International Airport
 ### [The main airport in Tegucigalpa, Honduras, is shutdown due to smoke from a forest fire. ](/news/2013/04/13/the-main-airport-in-tegucigalpa-honduras-is-shutdown-due-to-smoke-from-a-forest-fire.md)

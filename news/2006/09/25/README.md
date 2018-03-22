@@ -29,7 +29,7 @@ _Context: Comair Flight 5191, co-pilot_
 
 ##### Insurgents
 ### [ Iraq insurgency: British forces are reported to have killed senior Al-Qaeda operative Omar al-Faruq during a gunfight in Basra, Iraq. ](/news/2006/09/25/iraq-insurgency-british-forces-are-reported-to-have-killed-senior-al-qaeda-operative-omar-al-faruq-during-a-gunfight-in-basra-iraq.md)
-_Context: Basra, British military personnel, Iraq, Omar al-Faruq, United Kingdom, al-Qaeda, insurgents_
+_Context: Basra, British military personnel, Iraq, Omar al-Faruq, UK, al-Qaeda, insurgents_
 
 ##### Condoleezza Rice
 ### [ Condoleezza Rice, the United States Secretary of State, and Barry Lowenkron, the assistant secretary of state for human rights, meet with Kasymzhomart Tokayev, the foreign minister of Kazakhstan. They discussed the War in Afghanistan and Iraq and the Nazarbayev administration's desire to head the Organization for Security and Cooperation in Europe in 2009, which the United States Government opposes. ](/news/2006/09/25/condoleezza-rice-the-united-states-secretary-of-state-and-barry-lowenkron-the-assistant-secretary-of-state-for-human-rights-meet-with-k.md)
@@ -37,7 +37,7 @@ _Context: Condoleezza Rice, Kasymzhomart Tokayev, Kazakhstan, Nursultan Nazarbay
 
 ##### Iranian President
 ### [ Iranian President Mahmoud Ahmadinejad says that rabbis are more critical of Zionism and the "Zionist regime" than he has been. He expresses hope that "God willing, with the force of God behind it, we shall soon experience a world without the United States and Zionism." ](/news/2006/09/25/iranian-president-mahmoud-ahmadinejad-says-that-rabbis-are-more-critical-of-zionism-and-the-zionist-regime-than-he-has-been-he-expresses.md)
-_Context: Iranian President, Mahmoud Ahmadinejad, U.S., Zionist, government_
+_Context: Iranian President, Mahmoud Ahmadinejad, United States, Zionist, government_
 
 ##### Cluster bomb
 ### [ Up to a million cluster bomblets discharged by Israel in its conflict with Hezbollah remain unexploded in southern Lebanon, the UN has said. ](/news/2006/09/25/up-to-a-million-cluster-bomblets-discharged-by-israel-in-its-conflict-with-hezbollah-remain-unexploded-in-southern-lebanon-the-un-has-said.md)

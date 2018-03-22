@@ -19,7 +19,7 @@ NORTH BATTLEFORD&nbsp;— The Saskatchewan city of North Battleford shut down it
 ### [An Indian Air Force AN32 carrying 29 people on board has gone missing over the Bay of Bengal while en route to Port Blair in the Andaman and Nicobar Islands. The Indian Navy has launched a search and rescue operation. ](/news/2016/07/22/an-indian-air-force-an32-carrying-29-people-on-board-has-gone-missing-over-the-bay-of-bengal-while-en-route-to-port-blair-in-the-andaman-and.md)
 Ships, aircraft and a submarine hunt for an Indian air force plane which has gone missing with more than 20 people on board.
 
-##### China
+##### Chinese
 ### [China begins demolishing buildings and evicting residents at Larung Gar in Tibet, one of the largest religious institutes in the world. Officials put forward overpopulation and security as the leading reasons for the planned action. ](/news/2016/07/22/china-begins-demolishing-buildings-and-evicting-residents-at-larung-gar-in-tibet-one-of-the-largest-religious-institutes-in-the-world-offi.md)
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 

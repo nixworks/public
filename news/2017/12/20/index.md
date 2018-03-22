@@ -5,7 +5,7 @@ Formats: [HTML](2017/12/20/index.html)  [JSON](2017/12/20/index.json)  [XML](201
 
 ##### National Institutes of Health
 ### [The National Institutes of Health lifts a three-year ban on scientists experimenting with lethal viruses in the United States, saying the potential benefits of disease preparedness outweigh the risks. ](/news/2017/12/20/the-national-institutes-of-health-lifts-a-three-year-ban-on-scientists-experimenting-with-lethal-viruses-in-the-united-states-saying-the-po.md)
-_Context: National Institutes of Health, U.S., viruses_
+_Context: National Institutes of Health, United States, viruses_
 
 ##### Presidency of Donald Trump
 ### [U.S. President Donald Trump commutes the prison sentence of Sholom Rubashkin, who in 2009 was sentenced to 27 years in prison for bank fraud and money laundering. ](/news/2017/12/20/u-s-president-donald-trump-commutes-the-prison-sentence-of-sholom-rubashkin-who-in-2009-was-sentenced-to-27-years-in-prison-for-bank-fraud.md)
@@ -17,7 +17,7 @@ Detention of mother follows arrest of Ahed Tamimi, 16, by Israeli soldiers in We
 
 ##### Tax Cuts and Jobs Act of 2017
 ### [The United States Senate and House of Representatives pass the Tax Cuts and Jobs Act of 2017, which sends it to United States President Donald Trump for signing. This comes after a previous and different version of this legislation was passed by the House yesterday. The law removes the individual insurance mandate from Obamacare. ](/news/2017/12/20/the-united-states-senate-and-house-of-representatives-pass-the-tax-cuts-and-jobs-act-of-2017-which-sends-it-to-united-states-president-dona.md)
-_Context: Donald Trump, Obamacare, Tax Cuts and Jobs Act of 2017, U.S., U.S. President, United States House of Representatives, United States Senate_
+_Context: Donald Trump, Obamacare, Tax Cuts and Jobs Act of 2017, U.S. President, United States, United States House of Representatives, United States Senate_
 
 ##### Cannabis in New Zealand
 ### [Terminally ill patients in New Zealand are now able to take medicinal cannabis. ](/news/2017/12/20/terminally-ill-patients-in-new-zealand-are-now-able-to-take-medicinal-cannabis.md)

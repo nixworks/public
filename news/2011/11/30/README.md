@@ -19,7 +19,7 @@ _Context: Iran, Ministry of Foreign Affairs_
 ### [It is announced that Laurent Gbagbo, the former President of Cte d'Ivoire, has been transferred to the International Criminal Court in The Hague, Netherlands, to face trial for crimes against humanity. ](/news/2011/11/30/it-is-announced-that-laurent-gbagbo-the-former-president-of-cote-d-ivoire-has-been-transferred-to-the-international-criminal-court-in-the.md)
 _Context: Cte d'Ivoire, Dutch, International Criminal Court, Laurent Gbagbo, President, The Hague, crimes against humanity_
 
-##### United Kingdom
+##### UK
 ### [Up to two million public sector workers in the United Kingdom commence a 24-hour strike over pension reforms, affecting schools, hospitals, airports, ports and government offices nationwide. ](/news/2011/11/30/up-to-two-million-public-sector-workers-in-the-united-kingdom-commence-a-24-hour-strike-over-pension-reforms-affecting-schools-hospitals.md)
 Tens of thousands attended rallies around the UK as a public sector strike over pensions disrupted schools, hospitals and other services.
 

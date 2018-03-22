@@ -19,7 +19,7 @@ _Context: David S. Rohde, Taliban, The New York Times_
 ### [ An anti-racism rally is held in Belfast following the removal of 100 Romanian people from their homes. ](/news/2009/06/20/an-anti-racism-rally-is-held-in-belfast-following-the-removal-of-100-romanian-people-from-their-homes.md)
 Two teenagers have been charged in connection with racist attacks on Romanian families in Belfast.
 
-##### United Kingdom
+##### UK
 ### [ The bodies of two British hostages in Iraq are discovered. ](/news/2009/06/20/the-bodies-of-two-british-hostages-in-iraq-are-discovered.md)
 Two British hostages held in Iraq since 2007 are feared dead after two bodies were discovered in Baghdad, the Foreign Office has disclosed.
 
@@ -31,7 +31,7 @@ _Context: Acropolis Museum, Athens, Greece_
 ### [ A New Zealand jury convicts Nai Yin Xue, who sparked an international hunt in 2007, of murdering his wife. ](/news/2009/06/20/a-new-zealand-jury-convicts-nai-yin-xue-who-sparked-an-international-hunt-in-2007-of-murdering-his-wife.md)
 _Context: Nai Yin Xue, New Zealand, convicts_
 
-##### U.S.
+##### United States
 ### [ The United States admits its forces failed to follow their own rules in an Afghan airstrike that may have led up to 140 civilian deaths. ](/news/2009/06/20/the-united-states-admits-its-forces-failed-to-follow-their-own-rules-in-an-afghan-airstrike-that-may-have-led-up-to-140-civilian-deaths.md)
 The US will order all its troops in Afghanistan to undergo new training after concluding that pilots violated orders in air strikes last month.
 

@@ -19,7 +19,7 @@ _Context: Guinea, Moussa Dadis Camara, President of Guinea, military coup_
 ### [ Kenya's fifth national census takes place. ](/news/2009/08/24/kenya-s-fifth-national-census-takes-place.md)
 President Mwai Kibaki Monday evening kicked off the 2009 Kenya Population and Housing Census.
 
-##### Scotland
+##### Scottish
 ### [ Scottish Justice Secretary Kenny MacAskill defends his decision to release the man convicted of the Lockerbie bombing, Abdelbaset al-Megrahi. ](/news/2009/08/24/scottish-justice-secretary-kenny-macaskill-defends-his-decision-to-release-the-man-convicted-of-the-lockerbie-bombing-abdelbaset-al-megrah.md)
 Scottish justice minister says Libya had agreed to give convict low-key reception.
 

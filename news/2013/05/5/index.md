@@ -21,7 +21,7 @@ _Context: Barisan Nasional, Malaysia, general election_
 
 ##### Drive-by shooting
 ### [Six people are wounded during a drive-by shooting outside a McDonald's restaurant in East Palo Alto, California, United States. ](/news/2013/05/5/six-people-are-wounded-during-a-drive-by-shooting-outside-a-mcdonald-s-restaurant-in-east-palo-alto-california-united-states.md)
-_Context: California, East Palo Alto, McDonald's restaurants, U.S., drive-by shooting_
+_Context: California, East Palo Alto, McDonald's restaurants, United States, drive-by shooting_
 
 ##### Bangladesh
 ### [The death toll in Bangladesh rises to 622. ](/news/2013/05/5/the-death-toll-in-bangladesh-rises-to-622.md)
@@ -33,7 +33,7 @@ _Context: Madrid, Spanish, air show_
 
 ##### Limousine
 ### [A limousine catches fire on the San Mateo Bridge in Hayward, California, United States killing five women and injuring four trapped inside. ](/news/2013/05/5/a-limousine-catches-fire-on-the-san-mateo-bridge-in-hayward-california-united-states-killing-five-women-and-injuring-four-trapped-inside.md)
-_Context: California, Hayward, San Mateo Bridge, U.S., limousine_
+_Context: California, Hayward, San Mateo Bridge, United States, limousine_
 
 ##### Adamawa State
 ### [10 people are killed in an attack on a church and a local market in Njilan, Adamawa State, Nigeria. ](/news/2013/05/5/10-people-are-killed-in-an-attack-on-a-church-and-a-local-market-in-njilan-adamawa-state-nigeria.md)

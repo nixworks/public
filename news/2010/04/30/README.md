@@ -19,13 +19,13 @@ All of 110 pounds, security guard Chen Xiu might not pack much heft, but he says
 ### [Iran threatens to "cut off Israel's feet" if Israel attacks Syria. ](/news/2010/04/30/iran-threatens-to-cut-off-israel-s-feet-if-israel-attacks-syria.md)
 Ahmadinejad set to speak at UN nuke conference on May 3.
 
-##### U.S.
+##### United States
 ### [The United States announces it will begin mediating indirect peace talks between Israel and Palestine. ](/news/2010/04/30/the-united-states-announces-it-will-begin-mediating-indirect-peace-talks-between-israel-and-palestine.md)
 Israeli and Palestinian negotiators will not be in the same room, many experts agree that the chances of a breakthrough are small, and some say the exercise is just a warm-up.
 
-##### China
+##### Chinese
 ### [China and South Korea discuss the potential security threat presented by North Korean aggression. ](/news/2010/04/30/china-and-south-korea-discuss-the-potential-security-threat-presented-by-north-korean-aggression.md)
-_Context: China, North Korea, South Korea_
+_Context: Chinese, North Korea, South Korea_
 
 ##### Nigeria
 ### [The Nigerian House of Representatives announces the creation of ten new states, five in the north and five in the south, by 2011. ](/news/2010/04/30/the-nigerian-house-of-representatives-announces-the-creation-of-ten-new-states-five-in-the-north-and-five-in-the-south-by-2011.md)

@@ -5,9 +5,9 @@ Formats: [HTML](2009/03/24/index.html)  [JSON](2009/03/24/index.json)  [XML](200
 
 ##### Immaculata University
 ### [ Immaculata University discovers the mass grave of 57 Irish immigrants in East Whiteland Township, Pennsylvania, United States. ](/news/2009/03/24/immaculata-university-discovers-the-mass-grave-of-57-irish-immigrants-in-east-whiteland-township-pennsylvania-united-states.md)
-_Context: East Whiteland Township, Immaculata University, Irish, Pennsylvania, U.S., mass grave, migrants_
+_Context: East Whiteland Township, Immaculata University, Irish, Pennsylvania, United States, mass grave, migrants_
 
-##### U.S.
+##### United States
 ### [ The United States' federal government announces a plan to increase security along its border with Mexico. ](/news/2009/03/24/the-united-states-federal-government-announces-a-plan-to-increase-security-along-its-border-with-mexico.md)
 Mexicans desperate for an end to drug gang murders, abductions and extortion saw a glimmer of hope on Tuesday as the United States vowed to tighten security on the increasingly violent border.
 
@@ -23,9 +23,9 @@ A Tunisian pilot who paused to pray instead of taking emergency measures before 
 ### [ Sixteen militants and eight Indian Army soldiers are killed in Jammu and Kashmir's Kupwara District. ](/news/2009/03/24/sixteen-militants-and-eight-indian-army-soldiers-are-killed-in-jammu-and-kashmir-s-kupwara-district.md)
 _Context: India, Indian Army, Insurgency in Jammu and Kashmir, Jammu and Kashmir, Kupwara District, militant, soldier_
 
-##### United Kingdom
+##### UK
 ### [ The United Kingdom's Retail Prices Index reaches zero percent for the first time since 1960. ](/news/2009/03/24/the-united-kingdom-s-retail-prices-index-reaches-zero-percent-for-the-first-time-since-1960.md)
-_Context: Retail Prices Index, United Kingdom_
+_Context: Retail Prices Index, UK_
 
 ##### South Africa
 ### [ South Africa denies Dalai Lama Tenzin Gyatso a visa to attend a peace conference in Johannesburg. ](/news/2009/03/24/south-africa-denies-dalai-lama-tenzin-gyatso-a-visa-to-attend-a-peace-conference-in-johannesburg.md)

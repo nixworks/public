@@ -17,7 +17,7 @@ A bus veers off a highway and plunges into a lake in central Venezuela, killing 
 
 ##### Japan
 ### [Japan allocates 820 billion yen ($6.8 billion) for creating a nearly 400-kilometer (250-mile) chain of cement seawalls, at places nearly five stories high, against future tsunami disasters such as the one that struck the country's northeastern coast four years ago. ](/news/2015/03/22/japan-allocates-820-billion-yen-6-8-billion-for-creating-a-nearly-400-kilometer-250-mile-chain-of-cement-seawalls-at-places-nearly-fiv.md)
-_Context: $, 2011 Tohoku earthquake and tsunami, Japan, allocates, seawall, tsunami_
+_Context: 2011 Tohoku earthquake and tsunami, Japan, US$, allocates, seawall, tsunami_
 
 ##### 2014-15 Australian region cyclone season
 ### [Cyclone Nathan makes landfall near Nhulunbuy in the Northern Territory as a high end Category 2 cyclone. ](/news/2015/03/22/cyclone-nathan-makes-landfall-near-nhulunbuy-in-the-northern-territory-as-a-high-end-category-2-cyclone.md)

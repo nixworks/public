@@ -67,9 +67,9 @@ _Context: France, Oleron_
 ### [The business-software giant Oracle files a lawsuit in the U.S. District Court in San Francisco alleging that Micron Technology, a manufacturer of memory chips, colluded with other manufacturers to fix prices. ](/news/2010/09/28/the-business-software-giant-oracle-files-a-lawsuit-in-the-u-s-district-court-in-san-francisco-alleging-that-micron-technology-a-manufactur.md)
 Oracle Corp ORCL.O hassued Micron Technology Inc (MU.O) for fixing prices of computermemory chips, in a continuance of litigation it inherited fromSun Microsystems.
 
-##### U.S.
+##### United States
 ### [US movie director Arthur Penn best known as the director of "Bonnie and Clyde" dies of congestive heart failure in New York City. ](/news/2010/09/28/us-movie-director-arthur-penn-best-known-as-the-director-of-bonnie-and-clyde-dies-of-congestive-heart-failure-in-new-york-city.md)
-_Context: Arthur Penn, Bonnie and Clyde, New York City, U.S., congestive heart failure, movie director_
+_Context: Arthur Penn, Bonnie and Clyde, New York City, United States, congestive heart failure, movie director_
 
 ##### Iraq
 ### [A U.S. service member is in custody in connection with the shooting deaths of two other service members and the injury of a third in Iraq. They were assigned to 3rd Infantry Division, Fort Stewart, Georgia. ](/news/2010/09/28/a-u-s-service-member-is-in-custody-in-connection-with-the-shooting-deaths-of-two-other-service-members-and-the-injury-of-a-third-in-iraq-t.md)

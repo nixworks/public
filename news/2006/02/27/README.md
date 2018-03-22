@@ -25,7 +25,7 @@ _Context: Afghanistan, United Nations, World Food Programme_
 
 ##### Securitas depot robbery
 ### [ Securitas depot robbery: British police announce that the total amount of cash stolen in last Wednesday's Securitas depot robbery was GBP GBP53 million (USD $92.6 million, EUR77.8 million). Five more people have been arrested in the last 24 hours and 10 properties searched in the ongoing investigation. ](/news/2006/02/27/securitas-depot-robbery-british-police-announce-that-the-total-amount-of-cash-stolen-in-last-wednesday-s-securitas-depot-robbery-was-gbp-a.md)
-_Context: $, EUR, GBP, Securitas depot robbery_
+_Context: EUR, GBP, Securitas depot robbery, US$_
 
 ##### International Court of Justice
 ### [ International Court of Justice (ICJ) begins hearing a landmark genocide case, Bosnia and Herzegovina vs. Serbia and Montenegro. Bosnia filed a claim alleging violations of the UN Convention on the Prevention and Punishment of Genocide against the former Yugoslavia during the 1992-1995 Bosnian war. Bosnian genocide case at the ICJ is a first ever genocide court case against a state in the 60 year history of ICJ. ](/news/2006/02/27/international-court-of-justice-icj-begins-hearing-a-landmark-genocide-case-bosnia-and-herzegovina-vs-serbia-and-montenegro-bosnia-file.md)

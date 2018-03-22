@@ -3,7 +3,7 @@ Formats: [HTML](2013/07/12/index.html)  [JSON](2013/07/12/index.json)  [XML](201
 
 ## [2013-07-12](/news/2013/07/12/index.md)
 
-##### U.S.
+##### United States
 ### [U.S. Homeland Security Secretary Janet Napolitano announces her resignation to become the President of the University of California. ](/news/2013/07/12/u-s-homeland-security-secretary-janet-napolitano-announces-her-resignation-to-become-the-president-of-the-university-of-california.md)
 Janet Napolitano , the U.S. secretary of Homeland Security and former governor of Arizona, is being named as the next president of the University of California system, in an unusual choice that brings a national-level politician to a position usually held by an academic, The Times has learned. Her a...
 
@@ -31,9 +31,9 @@ _Context: Indonesia, North Sumatra_
 ### [Malala Yousafzai of Pakistan visits the UN headquarters in New York City to celebrate her 16th birthday with the UN address. ](/news/2013/07/12/malala-yousafzai-of-pakistan-visits-the-un-headquarters-in-new-york-city-to-celebrate-her-16th-birthday-with-the-un-address.md)
 UNITED NATIONS (AP) — Malala Yousafzai celebrated her 16th birthday on the world stage at the United Nations, defiantly telling Taliban extremists who tried to end her campaign for girls&#x27; education in Pakistan with a bullet that the attack gave her new courage and demanding that world leaders...
 
-##### U.S.
+##### United States
 ### [The US calls on the Egyptian Army to free deposed president Mohamed Morsi. ](/news/2013/07/12/the-us-calls-on-the-egyptian-army-to-free-deposed-president-mohamed-morsi.md)
-_Context: 2013 coup d'etat, Egypt, Egyptian Army, Mohamed Morsi, President, U.S._
+_Context: 2013 coup d'etat, Egypt, Egyptian Army, Mohamed Morsi, President, United States_
 
 ##### Ethiopian Airlines
 ### [An empty Ethiopian Airlines Boeing 787 Dreamliner catches fire eight hours after landing at London Heathrow Airport, closing runways for an hour. Another Boeing 787 Dreamliner (Thomson Airways-owned) was forced to return to Britain's Manchester Airport after an unspecified mechanical problem. ](/news/2013/07/12/an-empty-ethiopian-airlines-boeing-787-dreamliner-catches-fire-eight-hours-after-landing-at-london-heathrow-airport-closing-runways-for-an.md)

@@ -21,7 +21,7 @@ Frontpage | New Straits Times : Authoritative source for Malaysia latest news on
 
 ##### Kazutsugi Nami
 ### [ Businessman Kazutsugi Nami is arrested by Japanese police over a US$1.4-billion investment scam. ](/news/2009/02/5/businessman-kazutsugi-nami-is-arrested-by-japanese-police-over-a-us-1-4-billion-investment-scam.md)
-_Context: $, Japan, Japanese police, Kazutsugi Nami, investment scam_
+_Context: Japan, Japanese police, Kazutsugi Nami, US$, investment scam_
 
 ##### Irish
 ### [ Heavy snowfall closes Ireland's Dublin Airport and disrupts flights for several hours. ](/news/2009/02/5/heavy-snowfall-closes-ireland-s-dublin-airport-and-disrupts-flights-for-several-hours.md)
@@ -37,7 +37,7 @@ _Context: Bank of England, base rate, interest_
 
 ##### Somalia
 ### [ Somali pirates release Ukraine's MV "Faina" following a US$3.2-million ransom payment. ](/news/2009/02/5/somali-pirates-release-ukraine-s-mv-faina-following-a-us-3-2-million-ransom-payment.md)
-_Context: $, Faina, MV, Somali pirates, Somalia, Ukraine, ransom_
+_Context: Faina, MV, Somali pirates, Somalia, US$, Ukraine, ransom_
 
 ##### China
 ### [ China declares a national emergency due to severe droughts throughout the country. ](/news/2009/02/5/china-declares-a-national-emergency-due-to-severe-droughts-throughout-the-country.md)

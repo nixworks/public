@@ -19,9 +19,9 @@ Spanish Prime Minister Mariano Rajoy announces sweeping budget cuts and tax rise
 ### [The Republican-controlled United States House of Representatives votes for the thirty-third time to repeal the Patient Protection and Affordable Care Act, commonly known as Obamacare; the measure is not likely to pass the Democratic-controlled United States Senate. ](/news/2012/07/11/the-republican-controlled-united-states-house-of-representatives-votes-for-the-thirty-third-time-to-repeal-the-patient-protection-and-afford.md)
 The repeal will go nowhere in the Senate; sets up talking points for election season
 
-##### China
+##### Chinese
 ### [Chinese authorities order internet video providers to prescreen all videos before making them available. ](/news/2012/07/11/chinese-authorities-order-internet-video-providers-to-prescreen-all-videos-before-making-them-available.md)
-_Context: China_
+_Context: Chinese_
 
 ##### Russia
 ### [Russia's lower parliament approves a bill creating a list of blacklisted websites, amid fears of censorship. ](/news/2012/07/11/russia-s-lower-parliament-approves-a-bill-creating-a-list-of-blacklisted-websites-amid-fears-of-censorship.md)
@@ -49,7 +49,7 @@ China and Southeast Asian nations argue over wording of code of conduct meant to
 
 ##### Japan
 ### [Japan lodges a formal protest with China after the presence of the latter's patrol boats near the disputed Senkaku Islands. ](/news/2012/07/11/japan-lodges-a-formal-protest-with-china-after-the-presence-of-the-latter-s-patrol-boats-near-the-disputed-senkaku-islands.md)
-_Context: China, Japan, Senkaku Islands, Senkaku Islands dispute_
+_Context: Chinese, Japan, Senkaku Islands, Senkaku Islands dispute_
 
 ##### Bolivia
 ### [Bolivia revokes a mining concession to Canada's South American Silver Corporation after violent protests by Quechua people. ](/news/2012/07/11/bolivia-revokes-a-mining-concession-to-canada-s-south-american-silver-corporation-after-violent-protests-by-quechua-people.md)

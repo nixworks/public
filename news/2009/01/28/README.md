@@ -11,9 +11,9 @@ _Context: FlyLAL, Lithuania, bankruptcy, flag carrier_
 ### [ Boeing announces it will cut 10,000 jobs. ](/news/2009/01/28/boeing-announces-it-will-cut-10-000-jobs.md)
 _Context: Boeing Company, cut_
 
-##### U.S.
+##### United States
 ### [ The U.S. National Transportation Safety Board prepares its final report on the 2007 collision between two news helicopters in Phoenix, Arizona. ](/news/2009/01/28/the-u-s-national-transportation-safety-board-prepares-its-final-report-on-the-2007-collision-between-two-news-helicopters-in-phoenix-ariz.md)
-_Context: 2007, Arizona, NTSB, Phoenix, Arizona, U.S., collision, helicopter_
+_Context: 2007, Arizona, NTSB, Phoenix, Arizona, United States, collision, helicopter_
 
 ##### Army
 ### [ The Army kills at least 300 and wounds at least 300 Tamil people in Mullaitivu District. ](/news/2009/01/28/the-army-kills-at-least-300-and-wounds-at-least-300-tamil-people-in-mullaitivu-district.md)

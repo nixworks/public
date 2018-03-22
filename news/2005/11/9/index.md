@@ -19,9 +19,9 @@ _Context: Baikonur Cosmodrome, Kazakhstan, Venus, Venus Express_
 ### [ The British government loses a key House of Commons vote on detaining terrorism suspects for 90-days without charge, in the report stage of the Terrorism Act 2006. This is Tony Blair's first ever commons defeat and has been described a serious blow to his authority. Opposition Leader Michael Howard calls on Blair to resign. ](/news/2005/11/9/the-british-government-loses-a-key-house-of-commons-vote-on-detaining-terrorism-suspects-for-90-days-without-charge-in-the-report-stage-of.md)
 _Context: British government, Leader, Michael Howard, Terrorism Act, Tony Blair, terrorism, the House of Commons_
 
-##### U.S.
+##### United States
 ### [ In the United States, the visit of Iraqi Deputy Premier Ahmed Chalabi to the Department of State and Department of the Treasury arouses controversy. ](/news/2005/11/9/in-the-united-states-the-visit-of-iraqi-deputy-premier-ahmed-chalabi-to-the-department-of-state-and-department-of-the-treasury-arouses-con.md)
-_Context: Ahmed Chalabi, U.S._
+_Context: Ahmed Chalabi, United States_
 
 ##### Archaeologists
 ### [ Archaeologists report that two lines of a Phoenician or Hebrew alphabet on a stone dating to the 10th century BCE were discovered in July in Tel Zayit tell in Israel. The discovery suggests that literacy existed in ancient Israel earlier than had been thought.](/news/2005/11/9/archaeologists-report-that-two-lines-of-a-phoenician-or-hebrew-alphabet-on-a-stone-dating-to-the-10th-century-bce-were-discovered-in-july-i.md)

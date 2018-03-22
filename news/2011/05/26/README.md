@@ -11,7 +11,7 @@ Acting with minutes to spare, President Obama approved a four-year extension of 
 ### [The United States House of Representatives votes overwhelmingly against funding the involvement of ground troops in Libya. ](/news/2011/05/26/the-united-states-house-of-representatives-votes-overwhelmingly-against-funding-the-involvement-of-ground-troops-in-libya.md)
 _Context: Libya, United States House of Representatives_
 
-##### United Kingdom
+##### UK
 ### [In Britain, the former leader of Essex County Council and Conservative peer Lord Hanningfield is found guilty of six counts of false accounting relating to his expenses. ](/news/2011/05/26/in-britain-the-former-leader-of-essex-county-council-and-conservative-peer-lord-hanningfield-is-found-guilty-of-six-counts-of-false-account.md)
 Former Essex Council leader and former Tory peer Lord Hanningfield is found guilty of six counts of false accounting relating to his expenses.
 
@@ -27,7 +27,7 @@ A Rwandan genocide suspect, Bernard Munyagishari, is arrested in eastern DR of C
 ### [Leaders of the Group of Eight countries meet in Deauville, France, for the 37th G8 summit. ](/news/2011/05/26/leaders-of-the-group-of-eight-countries-meet-in-deauville-france-for-the-37th-g8-summit.md)
 _Context: 37th G8 summit, Deauville, France, Group of Eight_
 
-##### U.S.
+##### United States
 ### [The United States announces the removal of a number of troops from Pakistan, following a request from the Pakistani government. ](/news/2011/05/26/the-united-states-announces-the-removal-of-a-number-of-troops-from-pakistan-following-a-request-from-the-pakistani-government.md)
 The US military says it is withdrawing some of the more than 200 troops it has in Pakistan, after a request from the government in Islamabad.
 

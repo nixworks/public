@@ -15,7 +15,7 @@ _Context: Edward Snowden, Moscow, NSA, Russia, Sheremetyevo International Airpor
 ### [At least three prisoners die in a prison riot in Abidjan, Ivory Coast. ](/news/2013/07/24/at-least-three-prisoners-die-in-a-prison-riot-in-abidjan-ivory-coast.md)
 _Context: Abidjan, Ivory Coast, prison riot_
 
-##### United Kingdom
+##### UK
 ### [A British judge rules that Shrien Dewani will be extradited to South Africa to stand trial for the 2010 murder of Anni Dewani. ](/news/2013/07/24/a-british-judge-rules-that-shrien-dewani-will-be-extradited-to-south-africa-to-stand-trial-for-the-2010-murder-of-anni-dewani.md)
 Shrien Dewani&#039;s suicide risk is not immediate and he is well enough to be sent to South Africa, a court decides.
 
@@ -29,7 +29,7 @@ At least four people are dead after a boat carrying Australia-bound asylum-seeke
 
 ##### Wells Fargo
 ### [Wells Fargo of the United States becomes the world's largest bank by market capitalisation, replacing the Industrial and Commercial Bank of China amid an economic slowdown in China. ](/news/2013/07/24/wells-fargo-of-the-united-states-becomes-the-world-s-largest-bank-by-market-capitalisation-replacing-the-industrial-and-commercial-bank-of.md)
-_Context: China, Industrial and Commercial Bank of China, U.S., Wells Fargo, market capitalisation_
+_Context: Chinese, Industrial and Commercial Bank of China, United States, Wells Fargo, market capitalisation_
 
 ##### Inter-Services Intelligence
 ### [Four people are killed and at least 40 wounded in a bomb and gun attack on an Inter-Services Intelligence compound in Sukkur, Pakistan. ](/news/2013/07/24/four-people-are-killed-and-at-least-40-wounded-in-a-bomb-and-gun-attack-on-an-inter-services-intelligence-compound-in-sukkur-pakistan.md)

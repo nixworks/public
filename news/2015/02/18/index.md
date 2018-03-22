@@ -25,7 +25,7 @@ _Context: Florida, Vanilla Ice, burglary, grand theft_
 
 ##### Swede
 ### [Swede Alex Yucel pleads guilty in the United States to distributing Blackshades software that was used to hack into 500,000 computers worldwide. ](/news/2015/02/18/swede-alex-yucel-pleads-guilty-in-the-united-states-to-distributing-blackshades-software-that-was-used-to-hack-into-500-000-computers-worldw.md)
-_Context: Blackshades, Swede, U.S., hackers, software_
+_Context: Blackshades, Swede, United States, hackers, software_
 
 ##### Australian
 ### [Australian David Hicks wins an appeal in the U.S. Court of Military Commission Review against his conviction for providing material support to terrorism in 2007 in a U.S. Navy court in Guantanamo Bay. ](/news/2015/02/18/australian-david-hicks-wins-an-appeal-in-the-u-s-court-of-military-commission-review-against-his-conviction-for-providing-material-support.md)

@@ -33,7 +33,7 @@ Israel on Wednesday revealed plans to build new homes on West Bank land it has a
 
 ##### South Korea
 ### [South Korea states that it will hold more military exercises with the United States following the conclusion of a naval exercise in the Yellow Sea, despite threats from North Korea. ](/news/2010/12/1/south-korea-states-that-it-will-hold-more-military-exercises-with-the-united-states-following-the-conclusion-of-a-naval-exercise-in-the-yell.md)
-_Context: North Korea, South Korea, U.S., Yellow Sea_
+_Context: North Korea, South Korea, United States, Yellow Sea_
 
 ##### Kazakhstan
 ### [Kazakhstan hosts its first OSCE summit in a decade. ](/news/2010/12/1/kazakhstan-hosts-its-first-osce-summit-in-a-decade.md)

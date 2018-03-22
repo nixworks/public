@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/5/italian-police-seize-assets-worth-around-1-38-bi
 
 ### [2011-05-5](/news/2011/05/5/index.md)
 
-##### $
+##### US$
 # Italian police seize assets worth around $1.38 billion from the Polverino mafia clan in the Naples region, and arrest 39 alleged clan members, including two who were local elections candidates from Prime Minister Silvio Berlusconi's People of Freedom party. 
 
 
@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/05/5/italian-police-seize-assets-worth-around-1-38-bi
 
 ### Related:
 
-1. [An Italian court orders former Prime Minister Silvio Berlusconi to stand trial on April 4 on charges of allegedly bribing witnesses with EUR10 million (US$11 million) in order to silence them over accusations he paid for sex with young women. ](/news/2017/01/28/an-italian-court-orders-former-prime-minister-silvio-berlusconi-to-stand-trial-on-april-4-on-charges-of-allegedly-bribing-witnesses-with-a.md) _Context: $, Prime Minister of Italy, Silvio Berlusconi_
+1. [An Italian court orders former Prime Minister Silvio Berlusconi to stand trial on April 4 on charges of allegedly bribing witnesses with EUR10 million (US$11 million) in order to silence them over accusations he paid for sex with young women. ](/news/2017/01/28/an-italian-court-orders-former-prime-minister-silvio-berlusconi-to-stand-trial-on-april-4-on-charges-of-allegedly-bribing-witnesses-with-a.md) _Context: Prime Minister of Italy, Silvio Berlusconi, US$_
 2. [Voters in Italian cities including Milan and Naples go to the polls for the second round of local government elections with candidates supported by Prime Minister Silvio Berlusconi losing in both cities. ](/news/2011/05/30/voters-in-italian-cities-including-milan-and-naples-go-to-the-polls-for-the-second-round-of-local-government-elections-with-candidates-suppo.md) _Context: Naples, Prime Minister of Italy, Silvio Berlusconi_
 3. [Antonio Tajani, the current President of the European Parliament, accepts the offer of Silvio Berlusconi to stand as a candidate for Prime Minister of Italy for Forza Italia. ](/news/2018/03/2/antonio-tajani-the-current-president-of-the-european-parliament-accepts-the-offer-of-silvio-berlusconi-to-stand-as-a-candidate-for-prime-m.md) _Context: Prime Minister of Italy, Silvio Berlusconi_
 4. [Former Prime Minister of Italy Silvio Berlusconi is sentenced to 1 year of community service for his conviction of tax fraud. ](/news/2014/04/15/former-prime-minister-of-italy-silvio-berlusconi-is-sentenced-to-1-year-of-community-service-for-his-conviction-of-tax-fraud.md) _Context: Prime Minister of Italy, Silvio Berlusconi_

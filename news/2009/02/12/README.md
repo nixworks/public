@@ -13,7 +13,7 @@ Microsoft is offering a $250,000 reward for information leading to the convictio
 
 ##### Dutch
 ### [ Dutch Member of Parliament and Islam critic Geert Wilders is denied entry into the United Kingdom. ](/news/2009/02/12/dutch-member-of-parliament-and-islam-critic-geert-wilders-is-denied-entry-into-the-united-kingdom.md)
-_Context: Dutch, Geert Wilders, Islam, MP, Parliament, United Kingdom, anti-Islamic_
+_Context: Dutch, Geert Wilders, Islam, MP, Parliament, UK, anti-Islamic_
 
 ##### India
 ### [ Indian businessman Moninder Singh Pandher and his servant, Surender Koli, are convicted of murder. ](/news/2009/02/12/indian-businessman-moninder-singh-pandher-and-his-servant-surender-koli-are-convicted-of-murder.md)
@@ -45,7 +45,7 @@ Union pledges to fight to reverse the decision.
 
 ##### Ford's Theatre
 ### [ Ford's Theatre in Washington, D.C. reopens for the bicentennial of assassinated U.S. President Abraham Lincoln's birth. ](/news/2009/02/12/ford-s-theatre-in-washington-d-c-reopens-for-the-bicentennial-of-assassinated-u-s-president-abraham-lincoln-s-birth.md)
-_Context: Abraham Lincoln, Ford's Theatre, U.S., U.S. President, Washington, D.C., assassinated, bicentennial_
+_Context: Abraham Lincoln, Ford's Theatre, U.S. President, United States, Washington, D.C., assassinated, bicentennial_
 
 ##### Hamas
 ### [ Hamas agrees to an 18-month truce in its conflict with Israel, which has not yet responded. ](/news/2009/02/12/hamas-agrees-to-an-18-month-truce-in-its-conflict-with-israel-which-has-not-yet-responded.md)
@@ -57,15 +57,15 @@ _Context: 1981, Iraq, Israel, Parliament of Iraq, nuclear reactors, reparations_
 
 ##### Republican
 ### [ Republican Senator Judd Gregg of New Hampshire withdraws his nomination as U.S. Secretary of Commerce. ](/news/2009/02/12/republican-senator-judd-gregg-of-new-hampshire-withdraws-his-nomination-as-u-s-secretary-of-commerce.md)
-_Context: Judd Gregg, New Hampshire, Republican, U.S., United States Secretary of Commerce, United States Senate_
+_Context: Judd Gregg, New Hampshire, Republican, United States, United States Secretary of Commerce, United States Senate_
 
 ##### Pope
 ### [ Pope Benedict XVI condemns any denial of the Holocaust as "intolerable and altogether unacceptable". ](/news/2009/02/12/pope-benedict-xvi-condemns-any-denial-of-the-holocaust-as-intolerable-and-altogether-unacceptable.md)
 The remarks to a Jewish group were among the pope’s strongest since a bishop’s comments set off outrage.
 
-##### U.S.
+##### United States
 ### [ The United States National Transportation Safety Board concludes that Canada geese caused US Airways Flight 1549 to ditch into New York City's Hudson River. ](/news/2009/02/12/the-united-states-national-transportation-safety-board-concludes-that-canada-geese-caused-us-airways-flight-1549-to-ditch-into-new-york-cit.md)
-_Context: Canada geese, Hudson River, NTSB, New York City, U.S., US Airways, US Airways Flight 1549, ditches_
+_Context: Canada geese, Hudson River, NTSB, New York City, US Airways, US Airways Flight 1549, United States, ditches_
 
 ##### Colgan Air
 ### [ Colgan Air Flight 3407 crashes in Clarence Center, New York, killing 50 people. ](/news/2009/02/12/colgan-air-flight-3407-crashes-in-clarence-center-new-york-killing-50-people.md)

@@ -17,7 +17,7 @@ _Context: Shanxi Province_
 
 ##### Ukraine
 ### [Ukraine and China are interested in cooperation in cargo transportation sphere. Konstyantyn Hryshchenko says this at the joint news conference with Foreign Minister of China Yang Jiechi. ](/news/2010/05/19/ukraine-and-china-are-interested-in-cooperation-in-cargo-transportation-sphere-konstyantyn-hryshchenko-says-this-at-the-joint-news-conferen.md)
-_Context: China, Foreign Minister of China, Konstyantyn Hryshchenko, Ukraine, Yang_
+_Context: Chinese, Foreign Minister of China, Konstyantyn Hryshchenko, Ukraine, Yang_
 
 ##### Pakistan Telecommunication Authority
 ### [Pakistan Telecommunication Authority acting on orders from Lahore High court blocks access to Facebook in the country until May 31 due to a Facebook group encouraging drawings of the Prophet Mohammed on May 20, labeled as Everybody Draw Mohammed Day. ](/news/2010/05/19/pakistan-telecommunication-authority-acting-on-orders-from-lahore-high-court-blocks-access-to-facebook-in-the-country-until-may-31-due-to-a.md)

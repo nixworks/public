@@ -21,7 +21,7 @@ _Context: 2012 Pakistan garment factory fires, Bangkok, Karachi_
 
 ##### China-United States relations
 ### [The People's Republic of China lodges a complaint with the United States after President-elect of the United States Donald Trump speaks with President of Taiwan Tsai Ing-wen. The PRC and the United States view Taiwan as a breakaway province. ](/news/2016/12/3/the-people-s-republic-of-china-lodges-a-complaint-with-the-united-states-after-president-elect-of-the-united-states-donald-trump-speaks-with.md)
-_Context: China, China-United States relations, Donald Trump, One-China policy, President, President-elect, Taiwan, Tsai Ing-wen, U.S._
+_Context: China, China-United States relations, Donald Trump, One-China policy, President, President-elect, Taiwan, Tsai Ing-wen, United States_
 
 ##### Rohingya insurgency in Western Myanmar
 ### [The Government of Malaysia claims that violence against Myanmar's Muslim Rohingya minority is "ethnic cleansing" ahead of a march in Kuala Lumpur led by Prime Minister Najib Razak. ](/news/2016/12/3/the-government-of-malaysia-claims-that-violence-against-myanmar-s-muslim-rohingya-minority-is-ethnic-cleansing-ahead-of-a-march-in-kuala-l.md)
@@ -39,7 +39,7 @@ Cambridge police spokesman Jeremy Warnick says there have been some injuries rep
 ### [Recovery efforts continue in the US city of Oakland, California, after a fire at a music party in a converted warehouse kills at least nine people with dozens missing. ](/news/2016/12/3/recovery-efforts-continue-in-the-us-city-of-oakland-california-after-a-fire-at-a-music-party-in-a-converted-warehouse-kills-at-least-nine.md)
 The fire broke out at a building known as the Ghost Ship which was being used as an artists&#x27; collective and where a party was being held in Oakland.
 
-##### China
+##### Chinese
 ### [ At least 17 are killed in a coal mine explosion in China. ](/news/2016/12/3/at-least-17-are-killed-in-a-coal-mine-explosion-in-china.md)
 Chinese state media say a coal mine explosion in a northern region has trapped 36 people, killing 17 of them.
 

@@ -12,3 +12,7 @@ Formats: [HTML](/news/2004/05/13/yang-jianli-a-chinese-dissident-with-u-s-reside
 ### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/3709733.stm)
+
+### Related:
+
+1. [Chinese diplomat Chen Cheng repeatedly interrupts and objects to exiled dissident Yang Jianli's testimony to the United Nations Human Rights Council. ](/news/2018/03/20/chinese-diplomat-chen-cheng-repeatedly-interrupts-and-objects-to-exiled-dissident-yang-jianli-s-testimony-to-the-united-nations-human-rights.md) _Context: Yang Jianli_

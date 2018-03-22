@@ -61,7 +61,7 @@ The chilled Tropika that Salama al-Kishawi proudly serves guests in his office t
 
 ##### Israel
 ### [Israel allegedly confiscates seven oxygen machines en route to hospitals in the West Bank and Gaza as they "came under the category of possible use for non-medical purposes". The Palestinian Ministry of Health asks for the Norwegian Development Agency that donated them to assist in calling for their return. ](/news/2010/06/26/israel-allegedly-confiscates-seven-oxygen-machines-en-route-to-hospitals-in-the-west-bank-and-gaza-as-they-came-under-the-category-of-possi.md)
-_Context: Gaza Strip, Israel, Norway, West Bank_
+_Context: Gaza Strip, Israel, Norwegian, West Bank_
 
 ##### Somaliland
 ### [Voters in Somaliland take part in a presidential election. ](/news/2010/06/26/voters-in-somaliland-take-part-in-a-presidential-election.md)

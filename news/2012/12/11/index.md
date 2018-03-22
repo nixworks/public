@@ -43,7 +43,7 @@ An Illinois judge sentenced Jack McCullough, 73, to serve the rest of his “nat
 ### [Australia's 2Day FM says it will donate advertising profits to a fund for the family of King Edward VII's Hospital nurse Jacintha Saldanha. ](/news/2012/12/11/australia-s-2day-fm-says-it-will-donate-advertising-profits-to-a-fund-for-the-family-of-king-edward-vii-s-hospital-nurse-jacintha-saldanha.md)
 The Australian radio station whose DJs made a hoax call to a nurse who was later found dead is to donate at least £320,000 to a fund set up for her family.
 
-##### United Kingdom
+##### UK
 ### [British-based bank HSBC will pay U.S. authorities $1.9 billion in a settlement over money laundering for drug cartels and countries under sanctions, the largest ever such penalty. ](/news/2012/12/11/british-based-bank-hsbc-will-pay-u-s-authorities-1-9-billion-in-a-settlement-over-money-laundering-for-drug-cartels-and-countries-under-sa.md)
 HSBC is to pay US authorities record penalties of $1.9bn (£1.2bn) after failing to prevent money passing to &quot;drug kingpins and rogue nations&quot;.
 
@@ -51,7 +51,7 @@ HSBC is to pay US authorities record penalties of $1.9bn (£1.2bn) after failing
 ### [The UK government sets out proposals to legalise gay marriages in England and Wales. The Church of England and Church in Wales will be banned from conducting wedding ceremonies for same-sex couples, but other religious organisations will be allowed to conduct gay weddings if they wish. ](/news/2012/12/11/the-uk-government-sets-out-proposals-to-legalise-gay-marriages-in-england-and-wales-the-church-of-england-and-church-in-wales-will-be-banne.md)
 The Church of England and Church in Wales will be banned in law from offering same-sex marriages, the government announces.
 
-##### U.S.
+##### United States
 ### [Schools in the United States plan to drop literature classics such as "To Kill a Mockingbird" and "The Catcher in the Rye" from their curriculum; children there will instead learn from "informational texts" such as "Recommended Levels of Insulation" by the US Environmental Protection Agency and the "Invasive Plant Inventory" by California's Invasive Plant Council in order to be better prepared for workplace reading material. ](/news/2012/12/11/schools-in-the-united-states-plan-to-drop-literature-classics-such-as-to-kill-a-mockingbird-and-the-catcher-in-the-rye-from-their-curric.md)
 Schools in America are to drop classic books such as Harper Lee&#039;s To Kill a Mockingbird and JD Salinger&#039;s Catcher in the Rye from their curriculum in favour of &#039;informational texts&#039;.
 

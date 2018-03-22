@@ -33,7 +33,7 @@ Sindh becomes first province to pass law in response to criticism over protectio
 
 ##### Supreme Court of Norway
 ### [The Supreme Court of Norway rejects NSA whistleblower Edward Snowden's extradition lawsuit against the Norwegian government. ](/news/2016/11/25/the-supreme-court-of-norway-rejects-nsa-whistleblower-edward-snowden-s-extradition-lawsuit-against-the-norwegian-government.md)
-_Context: Edward Snowden, National Security Agency, Norway, Supreme Court of Norway_
+_Context: Edward Snowden, National Security Agency, Norwegian, Supreme Court of Norway_
 
 ##### United States-Yemen relations
 ### [WikiLeaks releases 500 internal documents and emails allegedly from the American Embassy in Sana'a, Yemen. ](/news/2016/11/25/wikileaks-releases-500-internal-documents-and-emails-allegedly-from-the-american-embassy-in-sana-a-yemen.md)

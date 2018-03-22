@@ -33,7 +33,7 @@ Italians are left shocked by two cases in as many days in which men set themselv
 
 ##### Brazil
 ### [The leaders of Brazil, Russia, India, China and South Africa meet in New Delhi, India, for the 2012 BRICS summit. ](/news/2012/03/29/the-leaders-of-brazil-russia-india-china-and-south-africa-meet-in-new-delhi-india-for-the-2012-brics-summit.md)
-_Context: 2012 BRICS summit, Brazil, China, India, New Delhi, Russia, South Africa_
+_Context: 2012 BRICS summit, Brazil, Chinese, India, New Delhi, Russia, South Africa_
 
 ##### San Pedro Sula
 ### [At least 13 people are killed at the San Pedro Sula prison in Honduras. ](/news/2012/03/29/at-least-13-people-are-killed-at-the-san-pedro-sula-prison-in-honduras.md)
@@ -45,7 +45,7 @@ Research In Motion posted a net loss and its first slump in BlackBerry shipments
 
 ##### Petrol stations
 ### [Queues form at petrol stations across the United Kingdom after government ministers urged motorists to top up their fuel tanks ahead of a possible strike by fuel tanker drivers. ](/news/2012/03/29/queues-form-at-petrol-stations-across-the-united-kingdom-after-government-ministers-urged-motorists-to-top-up-their-fuel-tanks-ahead-of-a-po.md)
-_Context: 10 Downing Street, United Kingdom, petrol stations_
+_Context: 10 Downing Street, UK, petrol stations_
 
 ##### Spanish
 ### [Workers in Spain commence a general strike over government austerity measures. ](/news/2012/03/29/workers-in-spain-commence-a-general-strike-over-government-austerity-measures.md)

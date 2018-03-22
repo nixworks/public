@@ -16,4 +16,5 @@ The death toll from the Shoreham air crash where a vintage jet plummeted into tr
 
 ### Related:
 
-1. [The Air Accidents Investigation Branch determines that a pilot error was the cause of the crash. ](/news/2017/03/3/the-air-accidents-investigation-branch-determines-that-a-pilot-error-was-the-cause-of-the-crash.md) _Context: 2015 Shoreham Airshow crash_
+1. [The Crown Prosecution Service charges pilot Andrew Hill with 11 counts of manslaughter by gross negligence and one count of endangering an aircraft over an accident at Shoreham Airshow in England. ](/news/2018/03/21/the-crown-prosecution-service-charges-pilot-andrew-hill-with-11-counts-of-manslaughter-by-gross-negligence-and-one-count-of-endangering-an-a.md) _Context: 2015 Shoreham Airshow crash_
+2. [The Air Accidents Investigation Branch determines that a pilot error was the cause of the crash. ](/news/2017/03/3/the-air-accidents-investigation-branch-determines-that-a-pilot-error-was-the-cause-of-the-crash.md) _Context: 2015 Shoreham Airshow crash_

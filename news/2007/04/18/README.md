@@ -7,9 +7,9 @@ Formats: [HTML](2007/04/18/index.html)  [JSON](2007/04/18/index.json)  [XML](200
 ### [ UEFA chooses Poland and Ukraine as joint hosts for the 2012 UEFA European Football Championship. ](/news/2007/04/18/uefa-chooses-poland-and-ukraine-as-joint-hosts-for-the-2012-uefa-european-football-championship.md)
 _Context: 2012 UEFA European Football Championship, Poland, UEFA, Ukraine_
 
-##### China
+##### Chinese
 ### [ Thirty-two steel workers are killed and two more injured in China after a ladle full of liquid steel failed, engulfing an adjacent room full of workers. ](/news/2007/04/18/thirty-two-steel-workers-are-killed-and-two-more-injured-in-china-after-a-ladle-full-of-liquid-steel-failed-engulfing-an-adjacent-room-ful.md)
-_Context: China, ladle_
+_Context: Chinese, ladle_
 
 ##### China
 ### [ The People's Republic of China begins a new service of high-speed trains capable of reaching speeds of 200km-h (124 mph). ](/news/2007/04/18/the-people-s-republic-of-china-begins-a-new-service-of-high-speed-trains-capable-of-reaching-speeds-of-200km-h-124-mph.md)
@@ -21,7 +21,7 @@ The mayor of the Japanese city of Nagasaki died early on Wednesday after being g
 
 ##### Australia
 ### [ Australia and the United States agree to exchange hundreds of asylum seekers kept in offshore detention camps in Nauru and Guantanamo Bay. ](/news/2007/04/18/australia-and-the-united-states-agree-to-exchange-hundreds-of-asylum-seekers-kept-in-offshore-detention-camps-in-nauru-and-guantanamo-bay.md)
-_Context: Australia, Guantanamo Bay detention camp, Nauru, U.S., asylum seeker_
+_Context: Australia, Guantanamo Bay detention camp, Nauru, United States, asylum seeker_
 
 ##### Turkish
 ### [ Three workers at a publishing house in Turkey that prints Bibles are murdered in ongoing sectarian violence. ](/news/2007/04/18/three-workers-at-a-publishing-house-in-turkey-that-prints-bibles-are-murdered-in-ongoing-sectarian-violence.md)
@@ -37,7 +37,7 @@ _Context: Baghdad, series of bombings_
 
 ##### Virginia Tech
 ### [ Virginia Tech police respond to what turned out to be an unfounded threat near Norris Hall, where 31 people died Monday in the United States's deadliest ever shooting spree. ](/news/2007/04/18/virginia-tech-police-respond-to-what-turned-out-to-be-an-unfounded-threat-near-norris-hall-where-31-people-died-monday-in-the-united-state.md)
-_Context: U.S., Virginia Tech, shooting spree_
+_Context: United States, Virginia Tech, shooting spree_
 
 ##### Supreme Court of the United States
 ### [ The Supreme Court of the United States rules 5-4 in favor of upholding the Partial-Birth Abortion Ban Act in the case of "Gonzales v. Carhart". ](/news/2007/04/18/the-supreme-court-of-the-united-states-rules-5-4-in-favor-of-upholding-the-partial-birth-abortion-ban-act-in-the-case-of-gonzales-v-carha.md)

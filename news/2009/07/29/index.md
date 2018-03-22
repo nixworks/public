@@ -5,7 +5,7 @@ Formats: [HTML](2009/07/29/index.html)  [JSON](2009/07/29/index.json)  [XML](200
 
 ##### Kazakhstan
 ### [ A rocket is launched from Kazakhstan carrying two British-built satellites designed to help monitor natural disasters. ](/news/2009/07/29/a-rocket-is-launched-from-kazakhstan-carrying-two-british-built-satellites-designed-to-help-monitor-natural-disasters.md)
-_Context: Kazakhstan, United Kingdom, natural disaster_
+_Context: Kazakhstan, UK, natural disaster_
 
 ##### Cuba
 ### [ Cuba and Russia sign a deal which allows Russia to begin oil exploration in the Gulf of Mexico. ](/news/2009/07/29/cuba-and-russia-sign-a-deal-which-allows-russia-to-begin-oil-exploration-in-the-gulf-of-mexico.md)

@@ -25,7 +25,7 @@ _Context: Patterns of Global Terrorism, State Department, terrorism_
 
 ##### Mathematics
 ### [ Mathematics professor Louis de Branges de Bourcia claims a proof of the Riemann hypothesis, a long-standing and fundamental mathematical problem for a solution of which the Clay Mathematics Institute has offered a USD $1 million prize. ](/news/2004/06/10/mathematics-professor-louis-de-branges-de-bourcia-claims-a-proof-of-the-riemann-hypothesis-a-long-standing-and-fundamental-mathematical-pr.md)
-_Context: $, Clay Mathematics Institute, Louis de Branges de Bourcia, Mathematics, Riemann hypothesis_
+_Context: Clay Mathematics Institute, Louis de Branges de Bourcia, Mathematics, Riemann hypothesis, US$_
 
 ##### European Parliament election
 ### [ Voting begins in the four-day-long European Parliament election; the United Kingdom and the Netherlands vote today. The Dutch authorities, in breach of an EU-wide reporting embargo, release their results in the early evening. ](/news/2004/06/10/voting-begins-in-the-four-day-long-european-parliament-election-the-united-kingdom-and-the-netherlands-vote-today-the-dutch-authorities.md)

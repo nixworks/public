@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/3/the-royal-saudi-air-force-bombs-houthi-positions
 
 ### [2017-12-3](/news/2017/12/3/index.md)
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 # The Royal Saudi Air Force bombs Houthi positions in southern Sana'a in support of Ali Abdullah Saleh-headed General People's Congress. 
 
 Aircraft from the Saudi-led coalition bombed Houthi positions in Sanaa overnight on Sunday, residents and local media said, aiming to shore up supporters of former Yemeni president Ali Abdullah Saleh as they battle the Iran-aligned Houthi group.
@@ -22,8 +22,8 @@ Aircraft from the Saudi-led coalition bombed Houthi positions in Sanaa overnight
 
 ### Related:
 
-1. [Former Yemeni President Ali Abdullah Saleh is killed by Houthi forces in a roadside attack outside Sana'a after an earlier attack on his house. ](/news/2017/12/4/former-yemeni-president-ali-abdullah-saleh-is-killed-by-houthi-forces-in-a-roadside-attack-outside-sana-a-after-an-earlier-attack-on-his-hou.md) _Context: Ali Abdullah Saleh, Houthi, Sana'a_
-2. [An air raid on a funeral in a village north of Sana'a kills at least eight women and children. The Houthis blames the Saudi-led coalition for the attack. ](/news/2017/02/16/an-air-raid-on-a-funeral-in-a-village-north-of-sana-a-kills-at-least-eight-women-and-children-the-houthis-blames-the-saudi-led-coalition-fo.md) _Context: Houthi, Sana'a, Saudi-led intervention in Yemen_
-3. [Air strikes target Houthi political leaders and military bases in Sana'a, Yemen. ](/news/2015/09/10/air-strikes-target-houthi-political-leaders-and-military-bases-in-sana-a-yemen.md) _Context: Houthi, Sana'a, Saudi-led intervention in Yemen_
-4. [Airstrikes on Sanaa kill eight, according to Houthi officials. ](/news/2015/07/2/airstrikes-on-sanaa-kill-eight-according-to-houthi-officials.md) _Context: Houthi, Sana'a, Saudi-led intervention in Yemen_
-5. [Shiite Houthi rebels seize a Yemeni military base south of the capital, Sana'a, where U.S. military advisers once trained Yemeni counterterrorism forces to fight Al-Qaeda in the south of the country. Forces loyal to former President Ali Abdullah Saleh had manned the captured base. ](/news/2015/01/29/shiite-houthi-rebels-seize-a-yemeni-military-base-south-of-the-capital-sana-a-where-u-s-military-advisers-once-trained-yemeni-counterterr.md) _Context: Ali Abdullah Saleh, Houthi, Sana'a_
+1. [Houthis claim to have shot down a Royal Saudi Air Force F-15 jet over Sa'da province, Yemen. ](/news/2018/03/21/houthis-claim-to-have-shot-down-a-royal-saudi-air-force-f-15-jet-over-sa-da-province-yemen.md) _Context: Houthis, Royal Saudi Air Force, Saudi Arabian-led intervention in Yemen_
+2. [Former Yemeni President Ali Abdullah Saleh is killed by Houthi forces in a roadside attack outside Sana'a after an earlier attack on his house. ](/news/2017/12/4/former-yemeni-president-ali-abdullah-saleh-is-killed-by-houthi-forces-in-a-roadside-attack-outside-sana-a-after-an-earlier-attack-on-his-hou.md) _Context: Ali Abdullah Saleh, Houthis, Sana'a_
+3. [An air raid on a funeral in a village north of Sana'a kills at least eight women and children. The Houthis blames the Saudi-led coalition for the attack. ](/news/2017/02/16/an-air-raid-on-a-funeral-in-a-village-north-of-sana-a-kills-at-least-eight-women-and-children-the-houthis-blames-the-saudi-led-coalition-fo.md) _Context: Houthis, Sana'a, Saudi Arabian-led intervention in Yemen_
+4. [Air strikes target Houthi political leaders and military bases in Sana'a, Yemen. ](/news/2015/09/10/air-strikes-target-houthi-political-leaders-and-military-bases-in-sana-a-yemen.md) _Context: Houthis, Sana'a, Saudi Arabian-led intervention in Yemen_
+5. [Airstrikes on Sanaa kill eight, according to Houthi officials. ](/news/2015/07/2/airstrikes-on-sanaa-kill-eight-according-to-houthi-officials.md) _Context: Houthis, Sana'a, Saudi Arabian-led intervention in Yemen_

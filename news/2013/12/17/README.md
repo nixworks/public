@@ -25,7 +25,7 @@ Americans officials want to rotate more military forces through the country, con
 
 ##### The Center for Public Integrity
 ### [A report by the American nonprofit investigative news organization The Center for Public Integrity details that the U. S. Federal Election Commission was hacked by China during the October 2013 federal government shutdown. ](/news/2013/12/17/a-report-by-the-american-nonprofit-investigative-news-organization-the-center-for-public-integrity-details-that-the-u-s-federal-election-c.md)
-_Context:  October 2013 federal government shutdown, China, Federal Election Commission, The Center for Public Integrity_
+_Context:  October 2013 federal government shutdown, Chinese, Federal Election Commission, The Center for Public Integrity_
 
 ##### Edward Snowden
 ### [Edward Snowden offers Brazil information over the NSA spying of its citizens. ](/news/2013/12/17/edward-snowden-offers-brazil-information-over-the-nsa-spying-of-its-citizens.md)

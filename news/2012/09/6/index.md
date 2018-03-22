@@ -19,7 +19,7 @@ Time reports Pentagon radically cuts back number of troops, equipment slated to 
 
 ##### Sri Lanka
 ### [After Sri Lanka, Liang Guanglie leaves India for Laos. It has been the first visit to India of a Chinese Minister of Defence in eight years. ](/news/2012/09/6/after-sri-lanka-liang-guanglie-leaves-india-for-laos-it-has-been-the-first-visit-to-india-of-a-chinese-minister-of-defence-in-eight-years.md)
-_Context: China, Chinese Defense Ministry, India, Laos, Liang Guanglie, Sri Lanka_
+_Context: Chinese, Chinese Defense Ministry, India, Laos, Liang Guanglie, Sri Lanka_
 
 ##### Human Rights Watch
 ### [Human Rights Watch says it has evidence of more cases of waterboarding involving United States operatives. ](/news/2012/09/6/human-rights-watch-says-it-has-evidence-of-more-cases-of-waterboarding-involving-united-states-operatives.md)
@@ -27,7 +27,7 @@ A human rights organization says it has collected evidence of two previously unr
 
 ##### Annecy murders
 ### [A toddler is found alive, hours after a shooting leaves four dead and another child heavily injured in a wood in Chevaline, Haute-Savoie near Lake Annecy, France. A car with a British licence plate is involved. British tourists, the male Iraqi-passport-holding driver and two women in the car, and a local inhabitant on a cycle, who was on paternity leave, are among the deaths. ](/news/2012/09/6/a-toddler-is-found-alive-hours-after-a-shooting-leaves-four-dead-and-another-child-heavily-injured-in-a-wood-in-chevaline-haute-savoie-nea.md)
-_Context: Annecy murders, Chevaline, Haute-Savoie, France, Iraq, Lake Annecy, United Kingdom_
+_Context: Annecy murders, Chevaline, Haute-Savoie, France, Iraq, Lake Annecy, UK_
 
 ##### 61 people
 ### [61 people, illegal immigrants traveling below deck, die after a fishing boat capsizes fifty meters off the Izmir Province coast of Turkey, near the Greek Aegean islands. ](/news/2012/09/6/61-people-illegal-immigrants-traveling-below-deck-die-after-a-fishing-boat-capsizes-fifty-meters-off-the-izmir-province-coast-of-turkey-n.md)
@@ -35,7 +35,7 @@ A boat carrying migrants capsizes off the coast of western Turkey killing at lea
 
 ##### Revolutionary Armed Forces of Colombia
 ### [The FARC want an armistice at the start of the peace talks starting October 8th in Oslo, Norway. The government doesn't want a truce. ](/news/2012/09/6/the-farc-want-an-armistice-at-the-start-of-the-peace-talks-starting-october-8th-in-oslo-norway-the-government-doesn-t-want-a-truce.md)
-_Context: Norway, Oslo, Revolutionary Armed Forces of Colombia, armistice, truce_
+_Context: Norwegian, Oslo, Revolutionary Armed Forces of Colombia, armistice, truce_
 
 ##### Vladimir Putin
 ### [Vladimir Putin urges the Western and Arab world to review their position. He asks to end the violence first, then sit around the table and only then move on to "these practical steps about the internal organisation of the country itself". ](/news/2012/09/6/vladimir-putin-urges-the-western-and-arab-world-to-review-their-position-he-asks-to-end-the-violence-first-then-sit-around-the-table-and-o.md)

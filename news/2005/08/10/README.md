@@ -9,7 +9,7 @@ _Context: British Airways, Gate Gourmet, Heathrow Airport, London_
 
 ##### Space Adventures
 ### [ A private company, Space Adventures, announces plans to create a tourism program to send people around the Moon. A 5 1-2 day lunar flight could happen in 2008 or 2009, and cost about 100 million USD. ](/news/2005/08/10/a-private-company-space-adventures-announces-plans-to-create-a-tourism-program-to-send-people-around-the-moon-a-5-1-2-day-lunar-flight-c.md)
-_Context: $, Space Adventures_
+_Context: Space Adventures, US$_
 
 ##### Yahoo Inc.
 ### [ Yahoo Inc. is negotiating to pay approx. US$1 billion, plus the transfer of its own China operations, in return for a 35% equity stake in Alibaba.com, China's second-largest e-commerce concern. ](/news/2005/08/10/yahoo-inc-is-negotiating-to-pay-approx-us-1-billion-plus-the-transfer-of-its-own-china-operations-in-return-for-a-35-equity-stake-in-a.md)

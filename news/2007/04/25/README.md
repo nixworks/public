@@ -19,13 +19,13 @@ _Context: Bangkok, Buddhist, Buddhists, Thailand, constitution, monk, official r
 ### [ Japanese police raid the offices of a pro-North Korean group in relation to the alleged kidnapping of two children in the 1970s. ](/news/2007/04/25/japanese-police-raid-the-offices-of-a-pro-north-korean-group-in-relation-to-the-alleged-kidnapping-of-two-children-in-the-1970s.md)
 _Context: Japanese police, kidnapping, pro-North Korean group_
 
-##### China
+##### Chinese
 ### [ China detains four United States citizens who were protesting for Tibetan independence and against the Beijing Olympics at the Mount Everest base camp. ](/news/2007/04/25/china-detains-four-united-states-citizens-who-were-protesting-for-tibetan-independence-and-against-the-beijing-olympics-at-the-mount-everes.md)
-_Context: 2008 Summer Olympics, China, Mount Everest, Tibetan independence, U.S., base camp_
+_Context: 2008 Summer Olympics, Chinese, Mount Everest, Tibetan independence, United States, base camp_
 
 ##### France
 ### [ The French centrist and pro-European Union leader of the Union for French Democracy Franois Bayrou announces the foundation of the Democratic Party in the run-up to the 2007 legislative election after his strong showing in the presidential election. ](/news/2007/04/25/the-french-centrist-and-pro-european-union-leader-of-the-union-for-french-democracy-francois-bayrou-announces-the-foundation-of-the-democra.md)
-_Context: 2007 French presidential election, Democratic Party, European Union, France, Franois Bayrou, Union for French Democracy, centrist, go to the polls_
+_Context: 2007 presidential election, Democratic Party, European Union, France, Franois Bayrou, Union for French Democracy, centrist, go to the polls_
 
 ##### Assistant Secretary of State for European and Eurasian Affairs
 ### [ U.S. Deputy Assistant Secretary of State for European and Eurasian Affairs David Kramer, speaking on behalf of the U.S. government, offers to normalize relations with Belarus if it releases imprisoned politicians. ](/news/2007/04/25/u-s-deputy-assistant-secretary-of-state-for-european-and-eurasian-affairs-david-kramer-speaking-on-behalf-of-the-u-s-government-offers.md)
@@ -41,7 +41,7 @@ _Context: Boris Yeltsin, Moscow, Novodevichy Cemetery, President of Russia, fune
 
 ##### United States House of Representatives
 ### [ The United States House of Representatives passes legislation that would order United States forces to start withdrawing from Iraq by October 1. ](/news/2007/04/25/the-united-states-house-of-representatives-passes-legislation-that-would-order-united-states-forces-to-start-withdrawing-from-iraq-by-octob.md)
-_Context: Iraq, October 1, U.S., United States House of Representatives, legislation_
+_Context: Iraq, October 1, United States, United States House of Representatives, legislation_
 
 ##### Ukraine
 ### [ Ukrainian President Viktor Yushchenko signs a decree delaying the 2007 parliamentary election from May 27 to June 24. ](/news/2007/04/25/ukrainian-president-viktor-yushchenko-signs-a-decree-delaying-the-2007-parliamentary-election-from-may-27-to-june-24.md)

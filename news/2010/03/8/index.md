@@ -11,7 +11,7 @@ _Context: ''City of Adelaide''/HMS ''Carrick'', Australia, Scottish Maritime Mus
 ### [Tibet Governor Padma Choling announces to the National People's Congress that China will decide Tenzin Gyatso's reincarnation as Dalai Lama. ](/news/2010/03/8/tibet-governor-padma-choling-announces-to-the-national-people-s-congress-that-china-will-decide-tenzin-gyatso-s-reincarnation-as-dalai-lama.md)
 The Chinese government says that it will have the final say, rather than the Dalai Lama, on who succeeds him as Tibet&#039;s spiritual leader.
 
-##### Scotland
+##### Scottish
 ### [New research based on a previous study indicates climate may be responsible for Scotland having more and Africa having fewer people with red hair. ](/news/2010/03/8/new-research-based-on-a-previous-study-indicates-climate-may-be-responsible-for-scotland-having-more-and-africa-having-fewer-people-with-red.md)
 Scotland&rsquo;s notoriously bad weather appears to be behind why more of the country&rsquo;s population appeared to be blessed with ginger hair, new research has claimed.
 

@@ -7,7 +7,7 @@ Formats: [HTML](2008/10/14/index.html)  [JSON](2008/10/14/index.json)  [XML](200
 ### [ Yehude Simon swears in as the new prime minister of Peru after the resignation of Jorge Del Castillo following the oil kickback scandal in Peru.](/news/2008/10/14/yehude-simon-swears-in-as-the-new-prime-minister-of-peru-after-the-resignation-of-jorge-del-castillo-following-the-oil-kickback-scandal-in.md)
 _Context: Jorge Del Castillo, Peru, Yehude Simon, oil kickback scandal_
 
-##### U.S.
+##### United States
 ### [ United States President George W. Bush announces new measures to attack the current economic crisis including plans for the U.S. government to buy stakes in major banks. ](/news/2008/10/14/united-states-president-george-w-bush-announces-new-measures-to-attack-the-current-economic-crisis-including-plans-for-the-u-s-government.md)
 US President George W Bush has unveiled new steps to tackle the global financial crisis, including plans to buy stakes in US banks.
 

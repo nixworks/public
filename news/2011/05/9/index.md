@@ -37,7 +37,7 @@ Mensch faces maximum sentence of 90 days in jail and $300 fine
 
 ##### Louis Bacon
 ### [American billionaire Louis Bacon wins a judgement in the United Kingdom against Wikipedia, the "Denver Post" and WordPress about disclosure of identities of people who published allegedly defamatory comments although the judgement does not apply in the United States. ](/news/2011/05/9/american-billionaire-louis-bacon-wins-a-judgement-in-the-united-kingdom-against-wikipedia-the-denver-post-and-wordpress-about-disclosure.md)
-_Context: Denver Post, Louis Bacon, U.S., United Kingdom, Wikipedia, WordPress_
+_Context: Denver Post, Louis Bacon, UK, United States, Wikipedia, WordPress_
 
 ##### Governor
 ### [The Governor of Arizona Jan Brewer asks the United States Supreme Court to overturn a ruling putting parts of its 2010 Immigration Law on hold. ](/news/2011/05/9/the-governor-of-arizona-jan-brewer-asks-the-united-states-supreme-court-to-overturn-a-ruling-putting-parts-of-its-2010-immigration-law-on-ho.md)
@@ -61,7 +61,7 @@ Pakistan&#039;s prime minister will on Monday warn the United States it will def
 
 ##### Mainichi Shimbun
 ### [The "Mainichi Shimbun" reports that Japan and the United States are planning to build a spent nuclear fuel storage facility in Mongolia. ](/news/2011/05/9/the-mainichi-shimbun-reports-that-japan-and-the-united-states-are-planning-to-build-a-spent-nuclear-fuel-storage-facility-in-mongolia.md)
-_Context: Japan, Mainichi Shimbun, Mongolia, U.S., nuclear fuel_
+_Context: Japan, Mainichi Shimbun, Mongolia, United States, nuclear fuel_
 
 ##### States of emergency
 ### [A province-wide state of emergency is declared for Manitoba in the wake of hundred-year floods on the Assiniboine River and Red River of the North near Brandon. ](/news/2011/05/9/a-province-wide-state-of-emergency-is-declared-for-manitoba-in-the-wake-of-hundred-year-floods-on-the-assiniboine-river-and-red-river-of-the.md)
@@ -91,17 +91,17 @@ _Context: 2010-2011 Ivorian crisis, Ivory Coast, cocoa_
 ### [Qantas flights face disruptions as 1600 aircraft maintenance engineers announce plans to go on strike. ](/news/2011/05/9/qantas-flights-face-disruptions-as-1600-aircraft-maintenance-engineers-announce-plans-to-go-on-strike.md)
 Qantas passengers face likely disruptions to flights after the airline&#039;s 1600 licensed aircraft engineers announced today that they intended to begin strike action later this week.
 
-##### U.S.
+##### United States
 ### [Values in the United States housing market decline by 1.1% for March and 3% in the March quarter, the heaviest fall since late 2008, with values falling for 57 months in a row since the United States housing bubble burst in 2007. ](/news/2011/05/9/values-in-the-united-states-housing-market-decline-by-1-1-for-march-and-3-in-the-march-quarter-the-heaviest-fall-since-late-2008-with-va.md)
-_Context: U.S., United States housing bubble_
+_Context: United States, United States housing bubble_
 
 ##### Chubu Electric Power
 ### [Chubu Electric Power considers a call by the Prime Minister of Japan Naoto Kan to close down the Hamaoka Nuclear Power Plant due to its vulnerability to a large earthquake. ](/news/2011/05/9/chubu-electric-power-considers-a-call-by-the-prime-minister-of-japan-naoto-kan-to-close-down-the-hamaoka-nuclear-power-plant-due-to-its-vuln.md)
 Japanese power firm Chubu Electric on Monday agreed to shut a nuclear plant until it can be better defended against the type of massive tsunami that in March triggered the worst atomic crisis in 25 years.
 
-##### China
+##### Chinese
 ### [China's yuan reaches a record level against the United States dollar. ](/news/2011/05/9/china-s-yuan-reaches-a-record-level-against-the-united-states-dollar.md)
-_Context: $, China, yuan_
+_Context: Chinese, US$, yuan_
 
 ##### Civil war
 ### [2011 Libyan civil war: Five explosions rock Tripoli in Libya following the heaviest NATO bombing offensive in a week. ](/news/2011/05/9/2011-libyan-civil-war-five-explosions-rock-tripoli-in-libya-following-the-heaviest-nato-bombing-offensive-in-a-week.md)

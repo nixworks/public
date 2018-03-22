@@ -7,7 +7,7 @@ Formats: [HTML](2012/05/12/index.html)  [JSON](2012/05/12/index.json)  [XML](201
 ### [The discovery of a missing piece of the Mayan calendar appears to render the 2012 phenomenon obsolete, by proving that the Maya did not believe 2012 to be the end of the world. ](/news/2012/05/12/the-discovery-of-a-missing-piece-of-the-mayan-calendar-appears-to-render-the-2012-phenomenon-obsolete-by-proving-that-the-maya-did-not-beli.md)
 &#xD;&#xA;The world is not going to end on December 21. No, not even according to the Mayan calendar. And especially&#xD;&#xA; not according to the awesome newly uncovered Mayan calendar -- the &#xD;&#xA;oldest known Mayan cale
 
-##### U.S.
+##### United States
 ### [In the United States, prospective Republican presidential candidate Mitt Romney condemns same-sex marriage as illegitimate. At the evangelical Christian Liberty University in Lynchburg, Virginia, he describes marriage as exclusively "a relationship between one man and one woman." ](/news/2012/05/12/in-the-united-states-prospective-republican-presidential-candidate-mitt-romney-condemns-same-sex-marriage-as-illegitimate-at-the-evangelic.md)
 Presumptive US Republican presidential nominee Mitt Romney restates his opposition to same-sex marriage, days after President Obama backed it.
 
@@ -27,7 +27,7 @@ _Context: Israel, Mahmoud Ahmadinejad, President, mosquito, nuclear program_
 ### [Two Palestinians held in Israeli prisons are reportedly close to death, having refused to eat for 74 days. A further 1,600 prisoners have been on hunger strike since 17 April. Leaders of the strikers wait for a response from the Israeli Prison Service to calls for negotiation on issues such as the allowing of family visits for prisoners from Gaza and the ending of the use of extended solitary confinement. ](/news/2012/05/12/two-palestinians-held-in-israeli-prisons-are-reportedly-close-to-death-having-refused-to-eat-for-74-days-a-further-1-600-prisoners-have-be.md)
 A pair of Palestinian prisoners being held without charge enter day 74 without food as physicians believe their lives are in &#034;immediate danger&#034;.
 
-##### China
+##### Chinese
 ### [China denies that its military has been placed on a war footing amid an ongoing dispute with the Philippines over territorial claims in the South China Sea. ](/news/2012/05/12/china-denies-that-its-military-has-been-placed-on-a-war-footing-amid-an-ongoing-dispute-with-the-philippines-over-territorial-claims-in-the.md)
 China denies reports its military forces are preparing for war amid tensions over a disputed territory in the South China Sea.
 

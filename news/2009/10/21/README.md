@@ -47,9 +47,9 @@ A Boeing 707-330C cargo plane, registered ST-AKW, was destroyed in an accident 1
 ### [ Several people are arrested over a bomb attack in southeastern Iran that killed 42 people, including members of the Revolutionary Guards. ](/news/2009/10/21/several-people-are-arrested-over-a-bomb-attack-in-southeastern-iran-that-killed-42-people-including-members-of-the-revolutionary-guards.md)
 _Context: Iran, Iranian Revolutionary guards, bomb attack_
 
-##### U.S.
+##### United States
 ### [ The United States is to send a rare mission to Burma for talks with the military government. ](/news/2009/10/21/the-united-states-is-to-send-a-rare-mission-to-burma-for-talks-with-the-military-government.md)
-_Context: Burma, State Peace and Development Council, U.S._
+_Context: Burma, State Peace and Development Council, United States_
 
 ##### Lima
 ### [ Hundreds of protestors gather in Lima, Peru, as a bill proposing the legalisation of some form of abortion is approved. ](/news/2009/10/21/hundreds-of-protestors-gather-in-lima-peru-as-a-bill-proposing-the-legalisation-of-some-form-of-abortion-is-approved.md)

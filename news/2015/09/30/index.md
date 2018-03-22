@@ -9,7 +9,7 @@ A man wanted on suspicion of kidnapping and torturing two women in Oregon is arr
 
 ##### Governor
 ### [Oklahoma Governor Mary Fallin issues a 37-day stay of Richard Glossip's execution that was scheduled for today to allow the American state time to address questions about chemicals and protocol. Pope Francis, who spent last week in the U.S., asked Archbishop Carlo Maria Vigano, the Apostolic Nuncio to the United States, to intercede with the governor and request she commute Glossip's sentence. ](/news/2015/09/30/oklahoma-governor-mary-fallin-issues-a-37-day-stay-of-richard-glossip-s-execution-that-was-scheduled-for-today-to-allow-the-american-state-t.md)
-_Context: Archbishop Carlo Maria Vigano, Mary Fallin, Pope Francis, Richard Glossip's, U.S., governor, stay, to the U.S._
+_Context: Archbishop Carlo Maria Vigano, Mary Fallin, Pope Francis, Richard Glossip's, United States, governor, stay, to the U.S._
 
 ##### Georgia
 ### [The American state of Georgia executes Kelly Gissendaner for her role in the murder of her husband despite several appeals and a plea for clemency by Pope Francis. ](/news/2015/09/30/the-american-state-of-georgia-executes-kelly-gissendaner-for-her-role-in-the-murder-of-her-husband-despite-several-appeals-and-a-plea-for-cl.md)
@@ -39,7 +39,7 @@ Volkswagen AG Chief Executive Officer Matthias Mueller will brief the leadership
 ### [The Dalai Lama, following his routine check-up at Minnesota's Mayo Clinic, cancels his U.S. speaking engagements in October after doctors advised him to rest. The 80-year-old Tibetan Buddhist leader is scheduled to return home to Dharamsala, India, Saturday. ](/news/2015/09/30/the-dalai-lama-following-his-routine-check-up-at-minnesota-s-mayo-clinic-cancels-his-u-s-speaking-engagements-in-october-after-doctors-ad.md)
 The 80-year-old Tibetan leader cancelled his planned October US appearances after doctors advised him to take rest.
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [An Iranian fishing boat loaded with weapons, including rockets and anti-tank shells, is intercepted and seized in the Arabian Sea, 150 miles southeast of the Omani Port of Salalah, by Arab coalition forces. Saudi Arabia has previously accused Iran of supplying weapons to Houthi militants in Yemen. ](/news/2015/09/30/an-iranian-fishing-boat-loaded-with-weapons-including-rockets-and-anti-tank-shells-is-intercepted-and-seized-in-the-arabian-sea-150-miles.md)
 The Saudi-led coalition battling Houthi rebels in Yemen says it has seized an Iranian fishing boat loaded with weapons for them in the Arabian Sea.
 

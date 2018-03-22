@@ -37,7 +37,7 @@ _Context: Chelsea F.C., Didier Drogba, FA Cup Final 2007, Manchester United, Wem
 
 ##### Sniper
 ### [ Three people are killed and two wounded in a sniper attack in Moscow, Idaho, United States. ](/news/2007/05/19/three-people-are-killed-and-two-wounded-in-a-sniper-attack-in-moscow-idaho-united-states.md)
-_Context: Moscow, Idaho, U.S., sniper_
+_Context: Moscow, Idaho, United States, sniper_
 
 ## [Previous Day...](/news/2007/05/18/index.md)
 

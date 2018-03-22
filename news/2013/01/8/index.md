@@ -3,9 +3,9 @@ Formats: [HTML](2013/01/8/index.html)  [JSON](2013/01/8/index.json)  [XML](2013/
 
 ## [2013-01-8](/news/2013/01/8/index.md)
 
-##### U.S.
+##### United States
 ### [The United States records its hottest year on record in 2012. ](/news/2013/01/8/the-united-states-records-its-hottest-year-on-record-in-2012.md)
-_Context: U.S._
+_Context: United States_
 
 ##### Bob Brown
 ### [Bob Brown, former leader of the Australian Greens, becomes the President of the Sea Shepherd Conservation Society leading the campaign against Japanese whaling in the Southern Ocean. ](/news/2013/01/8/bob-brown-former-leader-of-the-australian-greens-becomes-the-president-of-the-sea-shepherd-conservation-society-leading-the-campaign-again.md)

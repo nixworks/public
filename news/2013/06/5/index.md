@@ -71,7 +71,7 @@ Samsung Electronics scored a victory over rival Apple Inc intheir long-running d
 
 ##### A$
 ### [The Australian dollar hits a 20-month low against the United States dollar. ](/news/2013/06/5/the-australian-dollar-hits-a-20-month-low-against-the-united-states-dollar.md)
-_Context: $, A$_
+_Context: A$, US$_
 
 ##### Michael Jackson
 ### [Paris Jackson, Michael Jackson's daughter, tries to commit suicide by cutting her wrists and overdosing on pills. ](/news/2013/06/5/paris-jackson-michael-jackson-s-daughter-tries-to-commit-suicide-by-cutting-her-wrists-and-overdosing-on-pills.md)

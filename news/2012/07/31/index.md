@@ -43,9 +43,9 @@ _Context: American, Gore Vidal, pneumonia_
 ### [At least 21 people are killed in two car bomb blasts in Baghdad, Iraq. ](/news/2012/07/31/at-least-21-people-are-killed-in-two-car-bomb-blasts-in-baghdad-iraq.md)
 At least 19 people are killed as two car bombs explode within minutes of each other in the centre of the Iraqi capital, Baghdad, officials say.
 
-##### Norway
+##### Norwegian
 ### [Police in Norway evacuate the area surrounding the U.S. embassy in the capital Oslo after a suspicious package was discovered. It is later confirmed as a false alarm. ](/news/2012/07/31/police-in-norway-evacuate-the-area-surrounding-the-u-s-embassy-in-the-capital-oslo-after-a-suspicious-package-was-discovered-it-is-later-c.md)
-_Context: Norway, Oslo, U.S. embassy_
+_Context: Norwegian, Oslo, U.S. embassy_
 
 ##### Government forces
 ### [The Syrian military continues to pound Aleppo with artillery. Opposition forces claim that they have driven the Syrian army out of the city. ](/news/2012/07/31/the-syrian-military-continues-to-pound-aleppo-with-artillery-opposition-forces-claim-that-they-have-driven-the-syrian-army-out-of-the-city.md)

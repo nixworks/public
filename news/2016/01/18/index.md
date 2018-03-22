@@ -39,7 +39,7 @@ The Eagles founder and guitarist Glenn Frey has died at the age of 67, the band 
 ### [A rocket fired from ISIL-controlled territory in Syria's Aleppo Governorate, kills at least one person and injures another in the Turkish city of Kilis, close to the Syria-Turkey border. The Turkish military responded with artillery fire on ISIL positions. ](/news/2016/01/18/a-rocket-fired-from-isil-controlled-territory-in-syria-s-aleppo-governorate-kills-at-least-one-person-and-injures-another-in-the-turkish-ci.md)
 _Context: Aleppo Governorate, ISIL, Kilis, Spillover of the Syrian Civil War, Syria, Syria-Turkey border, Turkish, Turkish troops_
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [A Saudi-led coalition airstrike on a police building in Yemen's capital, Sana'a, kills at least 26 people and injures 15 others. ](/news/2016/01/18/a-saudi-led-coalition-airstrike-on-a-police-building-in-yemen-s-capital-sana-a-kills-at-least-26-people-and-injures-15-others.md)
 An airstrike launched by the Saudi-led coalition in Yemen killed at least 26 people and injured around 15 others after hitting a police building in Sanaa overnight, according to security sources. Some 30 people are believed to be trapped underneath rubble.
 

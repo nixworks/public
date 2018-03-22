@@ -29,7 +29,7 @@ _Context: Andrew Cuomo, Bank of America, CEO, Kenneth Lewis, Merrill Lynch, New 
 
 ##### Gold
 ### [ Gold futures reclaim the US$1,000-an-ounce mark. ](/news/2009/02/20/gold-futures-reclaim-the-us-1-000-an-ounce-mark.md)
-_Context: $, Gold, futures_
+_Context: Gold, US$, futures_
 
 ##### Latvia
 ### [ Latvian Prime Minister Ivars Godmanis and his government resign. ](/news/2009/02/20/latvian-prime-minister-ivars-godmanis-and-his-government-resign.md)
@@ -39,9 +39,9 @@ _Context: Ivars Godmanis, Latvia, Prime Minister, government_
 ### [ Israel seizes 425 acres of Palestinian Authority state land in the West Bank for a Jewish settlement. ](/news/2009/02/20/israel-seizes-425-acres-of-palestinian-authority-state-land-in-the-west-bank-for-a-jewish-settlement.md)
 _Context: Israel, Israeli settlement, Palestinian Authority, West Bank_
 
-##### U.S.
+##### United States
 ### [ The United States will return Benyam Mohammed to the United Kingdom after four years of imprisonment at Guantanamo Bay Naval Base's detention camp. ](/news/2009/02/20/the-united-states-will-return-benyam-mohammed-to-the-united-kingdom-after-four-years-of-imprisonment-at-guantanamo-bay-naval-base-s-detenti.md)
-_Context: Benyam Mohammed, Guantanamo Bay detention camp, U.S., United Kingdom, military base at Guantanamo Bay_
+_Context: Benyam Mohammed, Guantanamo Bay detention camp, UK, United States, military base at Guantanamo Bay_
 
 ##### LTTE
 ### [ The Tamil Tigers aerially attack Colombo, Sri Lanka, killing two people and injuring at least 40 others. ](/news/2009/02/20/the-tamil-tigers-aerially-attack-colombo-sri-lanka-killing-two-people-and-injuring-at-least-40-others.md)

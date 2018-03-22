@@ -23,7 +23,7 @@ Calls said to be made for anti-government rallies apparently inspired by events 
 
 1. [2011 Iranian protests:Anti-regime protests are due to occur in Iran. ](/news/2011/02/14/2011-iranian-protests-panti-regime-protests-are-due-to-occur-in-iran.md) _2018-02-06 13:49:21 (First version)_
 2. [2011 Iranian protests:: Anti-regime protests are due to occur in Iran. ](/news/2011/02/14/2011-iranian-protests-anti-regime-protests-are-due-to-occur-in-iran.md) _2018-02-06 13:49:21 (Update)_
-3. [Anti-regime protests occur in Bahrain. ](/news/2011/02/14/anti-regime-protests-occur-in-bahrain.md) _2018-03-20 03:40:28 (Update)_
+3. [Anti-regime protests occur in Bahrain. ](/news/2011/02/14/anti-regime-protests-occur-in-bahrain.md) _2018-03-21 03:40:48 (Update)_
 3. [Anti-regime protests are due to occur in Iran. ](/news/2011/02/14/anti-regime-protests-are-due-to-occur-in-iran.md) _(Current version)_
 
 ### Related:

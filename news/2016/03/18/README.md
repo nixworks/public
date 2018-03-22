@@ -29,7 +29,7 @@ _Context: 2016 Trump campaign, Donald Trump, Eric Trump, FBI, Joint Terrorism Ta
 
 ##### Censorship in China
 ### [Jia Jia, a columnist for China's Tencent media company is reported missing after not being heard from since Tuesday, when he was on his way to Hong Kong. He was last heard from when he tried to warn a friend about publishing an anonymous letter calling for President Xi Jinping's resignation. ](/news/2016/03/18/jia-jia-a-columnist-for-china-s-tencent-media-company-is-reported-missing-after-not-being-heard-from-since-tuesday-when-he-was-on-his-way.md)
-_Context: Censorship in China, China, Hong Kong, Tencent, Xi Jinping, president_
+_Context: Censorship in China, Chinese, Hong Kong, Tencent, Xi Jinping, president_
 
 ##### 2016 Brussels police raids
 ### [Salah Abdeslam, the alleged suspect and primary perpetrator of the November 2015 Paris attacks is shot and arrested by Belgian authorities in a Brussels raid. ](/news/2016/03/18/salah-abdeslam-the-alleged-suspect-and-primary-perpetrator-of-the-november-2015-paris-attacks-is-shot-and-arrested-by-belgian-authorities-i.md)

@@ -21,7 +21,7 @@ The county clerk from Kentucky who was jailed after refusing to issue marriage l
 
 ##### Professor
 ### [Shannon Lamb, a professor at Delta State University who was suspected of two murders in the U.S. state of Mississippi--the woman he was living with in Gautier and a fellow professor at the Delta State campus in Cleveland--dies from a self-inflicted gunshot wound while being pursued by police. ](/news/2015/09/14/shannon-lamb-a-professor-at-delta-state-university-who-was-suspected-of-two-murders-in-the-u-s-state-of-mississippiathe-woman-he-was-liv.md)
-_Context: Cleveland, Delta State University, Gautier, Mississippi, U.S., professor_
+_Context: Cleveland, Delta State University, Gautier, Mississippi, United States, professor_
 
 ##### Colombia
 ### [Colombia accuses Venezuela of violating its airspace for the second time in two days. ](/news/2015/09/14/colombia-accuses-venezuela-of-violating-its-airspace-for-the-second-time-in-two-days.md)
@@ -63,7 +63,7 @@ _Context: Russia, Russia's role in the Syrian Civil War, Russian Armed Forces, S
 ### [Taliban insurgents storm a prison in the central Afghan province of Ghazni killing at least four prison officers and freeing about 350 prisoners. The deputy provincial governor of the Ghazni province says the attackers were well-organised and wearing military uniforms. ](/news/2015/09/14/taliban-insurgents-storm-a-prison-in-the-central-afghan-province-of-ghazni-killing-at-least-four-prison-officers-and-freeing-about-350-priso.md)
 Taliban militants storm a jail in Ghazni, central Afghanistan, killing at least four police officers and freeing more than 350 prisoners.
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [Five Saudi troops are killed following clashes with Houthi militants in the southern Najran region near the border with Yemen. ](/news/2015/09/14/five-saudi-troops-are-killed-following-clashes-with-houthi-militants-in-the-southern-najran-region-near-the-border-with-yemen.md)
 Five Saudi soldiers have died on the border with Yemen, the Saudi-led coalition said late on Sunday as forces inside Yemen began a major offensive against rebels. A coalition statement did not say how the army soldier and four Border Guard troops died in the kingdom&#x27;s southern Najran region. Th...
 

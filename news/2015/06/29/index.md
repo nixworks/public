@@ -27,7 +27,7 @@ Gov. Jerry Brown must now decide whether to sign into law a bill that would requ
 ### [The Supreme Court of the United States upholds the use of capital punishment by lethal injection involving midazolam. ](/news/2015/06/29/the-supreme-court-of-the-united-states-upholds-the-use-of-capital-punishment-by-lethal-injection-involving-midazolam.md)
 _Context: Supreme Court of the United States, capital punishment, lethal injection, midazolam_
 
-##### U.S.
+##### United States
 ### [The United States Office of Personnel Management closes down its system for employee background checks following the theft of millions of records in a computer hacking incident suspected to be conducted by Chinese hackers. ](/news/2015/06/29/the-united-states-office-of-personnel-management-closes-down-its-system-for-employee-background-checks-following-the-theft-of-millions-of-re.md)
 US Office of Personnel Management shuts down system for background checks in wake of hack - @ABC
 

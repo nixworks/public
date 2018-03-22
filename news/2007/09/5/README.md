@@ -41,7 +41,7 @@ _Context: Gaza Strip, Israel_
 
 ##### War in Afghanistan (2001-present)
 ### [ War in Afghanistan: Afghan and U.S led coalition forces kill 20 insurgents while two Afghan policeman die in a bomb attack. ](/news/2007/09/5/war-in-afghanistan-afghan-and-u-s-led-coalition-forces-kill-20-insurgents-while-two-afghan-policeman-die-in-a-bomb-attack.md)
-_Context: Afghanistan, U.S., War in Afghanistan (2001-present)_
+_Context: Afghanistan, United States, War in Afghanistan (2001-present)_
 
 ##### Terrorism
 ### [ Three suspects arrested on terrorism charges yesterday appear before the Federal Court of Justice of Germany in Karlsruhe. ](/news/2007/09/5/three-suspects-arrested-on-terrorism-charges-yesterday-appear-before-the-federal-court-of-justice-of-germany-in-karlsruhe.md)
@@ -61,7 +61,7 @@ The event unfolded like the judicial equivalent of a bride left at the altar.The
 
 ##### Human Fertilisation and Embryology Authority
 ### [ The Human Fertilisation and Embryology Authority in the United Kingdom allows the creation of human-animal hybrid embryos for research purposes in principle. ](/news/2007/09/5/the-human-fertilisation-and-embryology-authority-in-the-united-kingdom-allows-the-creation-of-human-animal-hybrid-embryos-for-research-purp.md)
-_Context: Human Fertilisation and Embryology Authority, United Kingdom, animal, embryo, human, hybrid_
+_Context: Human Fertilisation and Embryology Authority, UK, animal, embryo, human, hybrid_
 
 ##### World Bank
 ### [ The World Bank launches its Lighting Africa initiative, aiming to provide modern lighting by renewable or mechanical means to 250 million people in sub-Saharan Africa who lack access to electricity. ](/news/2007/09/5/the-world-bank-launches-its-lighting-africa-initiative-aiming-to-provide-modern-lighting-by-renewable-or-mechanical-means-to-250-million-p.md)
@@ -77,7 +77,7 @@ Sen. Larry Craig has all but dropped any notion of trying to complete his term, 
 
 ##### William Hoeveler
 ### [ Judge William Hoeveler places a stay on ex-Panamanian leader Manuel Noriega's extradition from the United States to France so that his defence can present a new appeal. ](/news/2007/09/5/judge-william-hoeveler-places-a-stay-on-ex-panamanian-leader-manuel-noriega-s-extradition-from-the-united-states-to-france-so-that-his-defe.md)
-_Context: France, Manuel Noriega, Panama, U.S., William Hoeveler, extradition_
+_Context: France, Manuel Noriega, Panama, United States, William Hoeveler, extradition_
 
 ##### Fred Thompson
 ### [ Fred Thompson, a former U.S. Senator and actor, announces that he is a candidate for the Republican nomination in the 2008 presidential election. ](/news/2007/09/5/fred-thompson-a-former-u-s-senator-and-actor-announces-that-he-is-a-candidate-for-the-republican-nomination-in-the-2008-presidential-ele.md)

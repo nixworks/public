@@ -7,13 +7,13 @@ Formats: [HTML](2010/11/25/index.html)  [JSON](2010/11/25/index.json)  [XML](201
 ### [A World Health Organization study estimates that 600,000 deaths a year are attributable to second hand smoking. ](/news/2010/11/25/a-world-health-organization-study-estimates-that-600-000-deaths-a-year-are-attributable-to-second-hand-smoking.md)
 Around one in a hundred deaths worldwide is due to passive smoking, which kills an estimated 600,000 people a year, World Health Organization (WHO) researchers said on Friday.
 
-##### United Kingdom
+##### UK
 ### [The United Kingdom experiences its earliest widespread snowfall for 17 years, with large parts of Scotland and north east England particularly affected. ](/news/2010/11/25/the-united-kingdom-experiences-its-earliest-widespread-snowfall-for-17-years-with-large-parts-of-scotland-and-north-east-england-particular.md)
 The Met Office issues warnings of heavy snow and icy roads as the earliest widespread wintry conditions for 17 years grip much of the UK.
 
 ##### United States Government
 ### [The United States Government sets aside an area in Alaska twice the size of the United Kingdom as a "critical habitat" for polar bears. ](/news/2010/11/25/the-united-states-government-sets-aside-an-area-in-alaska-twice-the-size-of-the-united-kingdom-as-a-critical-habitat-for-polar-bears.md)
-_Context: Alaska, United Kingdom, United States Government, polar bear_
+_Context: Alaska, UK, United States Government, polar bear_
 
 ##### Tonga
 ### [Tongans go to the polls in the first general election in the nation's history in which the majority of parliament will be popularly elected. ](/news/2010/11/25/tongans-go-to-the-polls-in-the-first-general-election-in-the-nation-s-history-in-which-the-majority-of-parliament-will-be-popularly-elected.md)

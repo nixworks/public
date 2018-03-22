@@ -21,7 +21,7 @@ Dozens&#x20;of&#x20;Syrians&#x20;staged&#x20;a&#x20;rare&#x20;protest&#x20;in&#x
 
 ##### 2015 Pacific typhoon season
 ### [The death toll in China from Typhoon Soudelor rises to at least 22 people with more missing and millions without power. ](/news/2015/08/9/the-death-toll-in-china-from-typhoon-soudelor-rises-to-at-least-22-people-with-more-missing-and-millions-without-power.md)
-_Context: 2015 Pacific typhoon season, China, Typhoon Soudelor_
+_Context: 2015 Pacific typhoon season, Chinese, Typhoon Soudelor_
 
 ##### Atomic bomb
 ### [Japan commemorates the 70th anniversary of the atomic bomb dropped over the Japanese city of Nagasaki during World War II. ](/news/2015/08/9/japan-commemorates-the-70th-anniversary-of-the-atomic-bomb-dropped-over-the-japanese-city-of-nagasaki-during-world-war-ii.md)

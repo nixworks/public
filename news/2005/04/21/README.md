@@ -7,7 +7,7 @@ Formats: [HTML](2005/04/21/index.html)  [JSON](2005/04/21/index.json)  [XML](200
 ### [ The parliament of Spain gives initial approval to legalized same-sex marriages and adoption by homosexual couples. ](/news/2005/04/21/the-parliament-of-spain-gives-initial-approval-to-legalized-same-sex-marriages-and-adoption-by-homosexual-couples.md)
 _Context: Spanish, same-sex marriage_
 
-##### U.S.
+##### United States
 ### [ Five American Muslims sue the Department of Homeland Security for racial profiling after they were detained for hours on the Canadian border while returning from a religious conference. ](/news/2005/04/21/five-american-muslims-sue-the-department-of-homeland-security-for-racial-profiling-after-they-were-detained-for-hours-on-the-canadian-borde.md)
 Follow all the latest news on Long Island with Newsday. Read top local stories, watch video, and see pictures from all around Nassau and Suffolk counties.
 
@@ -37,9 +37,9 @@ _Context: Gaza Strip, IED, Israel, cargo terminals, jeep_
 
 ##### American Israel Public Affairs Committee
 ### [ The American Israel Public Affairs Committee (AIPAC) fires two members suspected of passing on U.S. secrets to Israel. ](/news/2005/04/21/the-american-israel-public-affairs-committee-aipac-fires-two-members-suspected-of-passing-on-u-s-secrets-to-israel.md)
-_Context: American Israel Public Affairs Committee, Israel, U.S._
+_Context: American Israel Public Affairs Committee, Israel, United States_
 
-##### U.S.
+##### United States
 ### [ American, French and Israeli naval forces rescue three Syrian and Egyptian sailors from a North Korean ship that sank in international waters off the coast of Nahariya. ](/news/2005/04/21/american-french-and-israeli-naval-forces-rescue-three-syrian-and-egyptian-sailors-from-a-north-korean-ship-that-sank-in-international-wate.md)
 Sinking ship summons Israeli, American, French forces; three rescued, four still missing
 

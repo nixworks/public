@@ -33,7 +33,7 @@ The Harvard-educated first deputy counsel to New York Gov. Andrew Cuomo was shot
 
 ##### United Kingdom House of Commons
 ### [The United Kingdom House of Commons passes a bill to conduct a planned referendum on the United Kingdom's continued membership in the European Union. ](/news/2015/09/7/the-united-kingdom-house-of-commons-passes-a-bill-to-conduct-a-planned-referendum-on-the-united-kingdom-s-continued-membership-in-the-europe.md)
-_Context: European Union, United Kingdom, United Kingdom House of Commons_
+_Context: European Union, UK, United Kingdom House of Commons_
 
 ##### European refugee crisis
 ### [The President of France Francois Hollande agrees to take 24,000 refugees out of the estimated 100,000 per month expected to arrive. ](/news/2015/09/7/the-president-of-france-franassois-hollande-agrees-to-take-24-000-refugees-out-of-the-estimated-100-000-per-month-expected-to-arrive.md)

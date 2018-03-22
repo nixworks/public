@@ -13,7 +13,7 @@ PROTESTERS at the G20 burned Australian flags today in a demonstration over indi
 
 ##### Influenza A virus subtype H5N1
 ### [Authorities in the Netherlands ban the sale of poultry and eggs following the discovery of the bird flu virus at a chicken farm. Authorities in the United Kingdom have also confirmed that the virus has been discovered at a Yorkshire duck farm with the birds being culled. ](/news/2014/11/16/authorities-in-the-netherlands-ban-the-sale-of-poultry-and-eggs-following-the-discovery-of-the-bird-flu-virus-at-a-chicken-farm-authorities.md)
-_Context: Dutch, Influenza A virus subtype H5N1, United Kingdom, Yorkshire, eggs, poultry_
+_Context: Dutch, Influenza A virus subtype H5N1, UK, Yorkshire, eggs, poultry_
 
 ##### Swiss
 ### [At least four people are killed in mudslides in southern Switzerland and northern Italy after days of heavy rain. ](/news/2014/11/16/at-least-four-people-are-killed-in-mudslides-in-southern-switzerland-and-northern-italy-after-days-of-heavy-rain.md)
@@ -25,7 +25,7 @@ THE US National Weather Service has warned planes to avoid airspace near an erup
 
 ##### Shandong
 ### [A fire at a food processing plant kills at least 18 workers in Shandong, China. ](/news/2014/11/16/a-fire-at-a-food-processing-plant-kills-at-least-18-workers-in-shandong-china.md)
-_Context: China, Shandong_
+_Context: Chinese, Shandong_
 
 ##### Russia
 ### [The Russian Presidential Library announces plans to establish a Russian version of Wikipedia stating that it would provide more "detailed and accurate" information about the country. ](/news/2014/11/16/the-russian-presidential-library-announces-plans-to-establish-a-russian-version-of-wikipedia-stating-that-it-would-provide-more-detailed-an.md)

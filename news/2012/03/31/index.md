@@ -27,13 +27,13 @@ _Context: Iran, Turkish_
 ### [In the Republic of Ireland government figures indicate less than half of the country's households have paid the household charge by today's deadline as thousands of people march on the governing Fine Gael party's annual conference at the Convention Centre Dublin. ](/news/2012/03/31/in-the-republic-of-ireland-government-figures-indicate-less-than-half-of-the-country-s-households-have-paid-the-household-charge-by-today-s.md)
 Thousands gathered outside the National Convention Centre, where Fine Gael&#8217;s Ard-Fheis is taking place this weekend.
 
-##### U.S.
+##### United States
 ### [The United States' two acting unions, the Screen Actors Guild and American Federation of Television and Radio Artists, agree to merge forming the SAG-AFTRA. ](/news/2012/03/31/the-united-states-two-acting-unions-the-screen-actors-guild-and-american-federation-of-television-and-radio-artists-agree-to-merge-formin.md)
-_Context: American Federation of Television and Radio Artists, SAG-AFTRA, Screen Actors Guild, U.S._
+_Context: American Federation of Television and Radio Artists, SAG-AFTRA, Screen Actors Guild, United States_
 
 ##### Spire
 ### [The spire of the Shard London Bridge is put in place making the completion of the United Kingdom's and European Union's tallest building a step closer. ](/news/2012/03/31/the-spire-of-the-shard-london-bridge-is-put-in-place-making-the-completion-of-the-united-kingdom-s-and-european-union-s-tallest-building-a-s.md)
-_Context: European Union, Shard London Bridge, United Kingdom, spire_
+_Context: European Union, Shard London Bridge, UK, spire_
 
 ##### Al-Qaeda
 ### [Around 30 people are killed in clashes between the army and suspected Al-Qaeda militants in southern Yemen. ](/news/2012/03/31/around-30-people-are-killed-in-clashes-between-the-army-and-suspected-al-qaeda-militants-in-southern-yemen.md)

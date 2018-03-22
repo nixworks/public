@@ -23,9 +23,9 @@ _Context: Central Military Commission, Vice President, Xi Jinping_
 ### [Burma bans all foreign media and international observers from the upcoming general election in November. ](/news/2010/10/18/burma-bans-all-foreign-media-and-international-observers-from-the-upcoming-general-election-in-november.md)
 Election observers and foreign journalists will not be allowed into Burma for its first polls in two decades, officials say.
 
-##### China
+##### Chinese
 ### [China releases the Tibetan writer, Kalsang Tsultrim, who was arrested in China earlier this year for what China termed a "political error". ](/news/2010/10/18/china-releases-the-tibetan-writer-kalsang-tsultrim-who-was-arrested-in-china-earlier-this-year-for-what-china-termed-a-political-error.md)
-_Context: China, Tibet_
+_Context: Chinese, Tibet_
 
 ##### Ajmal Kasab
 ### [The appeal of Ajmal Kasab against the death sentence imposed by an Indian court for his role in the 2008 Mumbai attacks begins in Mumbai. ](/news/2010/10/18/the-appeal-of-ajmal-kasab-against-the-death-sentence-imposed-by-an-indian-court-for-his-role-in-the-2008-mumbai-attacks-begins-in-mumbai.md)
@@ -69,7 +69,7 @@ _Context: Lord's Resistance Army, Southern Sudan, Southern Sudanese Independence
 
 ##### Rwanda
 ### [Rwandan opposition parties appeal to the United States and the UN Security Council to intervene on behalf of the opposition FDU party leader, Victoire Ingabire Umuhoza, arrested last week, and other political prisoners. ](/news/2010/10/18/rwandan-opposition-parties-appeal-to-the-united-states-and-the-un-security-council-to-intervene-on-behalf-of-the-opposition-fdu-party-leader.md)
-_Context: Rwanda, U.S., UN Security Council, Victoire Ingabire_
+_Context: Rwanda, UN Security Council, United States, Victoire Ingabire_
 
 ##### U.S. government
 ### [The U.S. government has concluded that Chinese companies are bypassing UN sanctions on Iran and helping Iran to improve its missile technology and develop nuclear weapons, and has asked China to stop such activity. ](/news/2010/10/18/the-u-s-government-has-concluded-that-chinese-companies-are-bypassing-un-sanctions-on-iran-and-helping-iran-to-improve-its-missile-technolo.md)

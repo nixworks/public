@@ -35,7 +35,7 @@ Delta Air Lines (DAL.N) faces a &quot;time-consuming process&quot; to restore no
 ### [The Islamic State of Iraq and the Levant threatens to attack the Miss Universe 2016 pageant if it were to be held in the Philippines. ](/news/2016/08/9/the-islamic-state-of-iraq-and-the-levant-threatens-to-attack-the-miss-universe-2016-pageant-if-it-were-to-be-held-in-the-philippines.md)
 Islamic State jihadis in the Philippines are plotting to attack the Miss Universe contest that will be held in their country in 2017, according to a secret jihadi social media channel accessed by The Foreign Desk.
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [At least 14 people are killed after Saudi-led coalition airstrikes hit a food factory in Yemen's capital Sana'a. The airstrikes come just days after the suspension of inconclusive peace talks in Kuwait. ](/news/2016/08/9/at-least-14-people-are-killed-after-saudi-led-coalition-airstrikes-hit-a-food-factory-in-yemen-s-capital-sana-a-the-airstrikes-come-just-da.md)
 Bombing of potato factory in the capital Sana’a comes just days after the collapse of UN-brokered peace talks
 

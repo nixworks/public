@@ -23,9 +23,9 @@ _Context: Mohamed Morsi, President, decree_
 ### [Ontario Superior Court of Justice rules that Toronto mayor Rob Ford breached Ontario's conflict of interest law and orders him to remove from office. ](/news/2012/11/26/ontario-superior-court-of-justice-rules-that-toronto-mayor-rob-ford-breached-ontarioas-conflict-of-interest-law-and-orders-him-to-remove-f.md)
 _Context: Ontario, Ontario Superior Court of Justice, Rob Ford, Toronto, mayor_
 
-##### Norway
+##### Norwegian
 ### [Norway's public broadcaster NRK publishes for the first time video footage of Anders Behring Breivik parking his van bomb that killed eight people in Oslo on 22 July 2011. ](/news/2012/11/26/norway-s-public-broadcaster-nrk-publishes-for-the-first-time-video-footage-of-anders-behring-breivik-parking-his-van-bomb-that-killed-eight.md)
-_Context: 2011 Norway attacks, Anders Behring Breivik, NRK, Norway, Oslo, bomb, van_
+_Context: 2011 Norway attacks, Anders Behring Breivik, NRK, Norwegian, Oslo, bomb, van_
 
 ##### Scorpion
 ### [A scorpion stings a passenger on a flight from Costa Rica to Spain, which forced the sealing of the Iberia airlines Airbus A340 at Madrid's Barajas International Airport. ](/news/2012/11/26/a-scorpion-stings-a-passenger-on-a-flight-from-costa-rica-to-spain-which-forced-the-sealing-of-the-iberia-airlines-airbus-a340-at-madrid-s.md)

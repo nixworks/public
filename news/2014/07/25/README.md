@@ -13,7 +13,7 @@ A shipment of military hardware bound for Ukraine has been impounded in Helsinki
 
 ##### McDonald's restaurants
 ### [McDonald's restaurants stop selling Chicken McNuggets and some other chicken products in Hong Kong, China and Japan from Shanghai Husi Foods that allegedly sold out-of-date items to fast food restaurants. ](/news/2014/07/25/mcdonald-s-restaurants-stop-selling-chicken-mcnuggets-and-some-other-chicken-products-in-hong-kong-china-and-japan-from-shanghai-husi-foods.md)
-_Context: Chicken McNuggets, China, Hong Kong, Japan, McDonald's restaurants, fast food_
+_Context: Chicken McNuggets, Chinese, Hong Kong, Japan, McDonald's restaurants, fast food_
 
 ##### Liberia
 ### [A Liberian official visiting Lagos dies of the Ebola virus becoming the first reported death in Nigeria. ](/news/2014/07/25/a-liberian-official-visiting-lagos-dies-of-the-ebola-virus-becoming-the-first-reported-death-in-nigeria.md)

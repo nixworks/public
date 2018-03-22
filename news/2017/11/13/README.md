@@ -3,7 +3,7 @@ Formats: [HTML](2017/11/13/index.html)  [JSON](2017/11/13/index.json)  [XML](201
 
 ## [2017-11-13](/news/2017/11/13/index.md)
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [Thousands of Yemenis protest a blockade on Yemen led by a Saudi Arabian coalition. ](/news/2017/11/13/thousands-of-yemenis-protest-a-blockade-on-yemen-led-by-a-saudi-arabian-coalition.md)
 Young&#x20;and&#x20;old,&#x20;desk&#x20;clerks&#x20;and&#x20;activists,&#x20;Yemenis&#x20;from&#x20;all&#x20;walks&#x20;of&#x20;life&#x20;took&#x20;to&#x20;the&#x20;streets&#x20;Monday&#x20;to&#x20;protest&#x20;a&#x20;Saudi-led&#x20;blockade&#x20;that&#x20;has&#x20;left&#x20;thousands&#x20;strugglin...
 
@@ -25,7 +25,7 @@ Months after the former guerrilla group formed a political party, the European U
 
 ##### Military of the European Union
 ### [Twenty-three European Union countries sign a defence integration pact known as the Permanent Structured Cooperation. NATO members Denmark, Portugal and the United Kingdom (withdrawal from EU underway), and non-NATO members Malta and Ireland, opt out. ](/news/2017/11/13/twenty-three-european-union-countries-sign-a-defence-integration-pact-known-as-the-permanent-structured-cooperation-nato-members-denmark-p.md)
-_Context: Brexit negotiations, Denmark, European Union, Ireland, Malta, Military of the European Union, NATO, Permanent Structured Cooperation, Portugal, United Kingdom, defence_
+_Context: Brexit negotiations, Denmark, European Union, Ireland, Malta, Military of the European Union, NATO, Permanent Structured Cooperation, Portugal, UK, defence_
 
 ##### 2017 Iran-Iraq earthquake
 ### [The death toll from the earthquake in Iraq and Iran exceeds 400 with over 7,000 injured. The death toll is expected to rise further in coming days. ](/news/2017/11/13/the-death-toll-from-the-earthquake-in-iraq-and-iran-exceeds-400-with-over-7-000-injured-the-death-toll-is-expected-to-rise-further-in-comin.md)

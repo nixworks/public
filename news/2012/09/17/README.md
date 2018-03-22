@@ -11,9 +11,9 @@ International three-man crew onboard a Russian-made Soyuz capsule has touched do
 ### [The UK Government announces a shake-up of secondary education qualifications, which will see GCSEs in core subjects in England replaced by a qualification called the English Baccalaureate. ](/news/2012/09/17/the-uk-government-announces-a-shake-up-of-secondary-education-qualifications-which-will-see-gcses-in-core-subjects-in-england-replaced-by-a.md)
 A shake-up of school qualifications will mean GCSE exams in England are going to be replaced in core subjects by a qualification called the English Baccalaureate Certificate.
 
-##### China
+##### Chinese
 ### [Protests continue at a Chinese co-owned copper mine in the Sagaing Region of Burma over alleged land grabbing and environmental concerns. ](/news/2012/09/17/protests-continue-at-a-chinese-co-owned-copper-mine-in-the-sagaing-region-of-burma-over-alleged-land-grabbing-and-environmental-concerns.md)
-_Context: Burma, China, Sagaing Region, copper_
+_Context: Burma, Chinese, Sagaing Region, copper_
 
 ##### Alan Shatter
 ### [Ireland's justice minister Alan Shatter is involved in an eviction row with a tenant of one of his Florida properties, part of his vast U.S. property portfolio. ](/news/2012/09/17/ireland-s-justice-minister-alan-shatter-is-involved-in-an-eviction-row-with-a-tenant-of-one-of-his-florida-properties-part-of-his-vast-u-s.md)
@@ -45,11 +45,11 @@ A French cyclist who was shot dead alongside a British family in a massacre in t
 
 ##### Nobel Laureate
 ### [Nobel Laureate Aung San Suu Kyi begins a 17-day tour of the United States in a bid to help ease economic sanctions on Myanmar. ](/news/2012/09/17/nobel-laureate-aung-san-suu-kyi-begins-a-17-day-tour-of-the-united-states-in-a-bid-to-help-ease-economic-sanctions-on-myanmar.md)
-_Context: Aung San Suu Kyi, Myanmar, Nobel Laureate, U.S._
+_Context: Aung San Suu Kyi, Myanmar, Nobel Laureate, United States_
 
-##### U.S.
+##### United States
 ### [United States and Japanese government officials agree to put a second missile defence system in Japan. ](/news/2012/09/17/united-states-and-japanese-government-officials-agree-to-put-a-second-missile-defence-system-in-japan.md)
-_Context: Japan, U.S._
+_Context: Japan, United States_
 
 ##### Wikileaks
 ### [Swedish forensic scientists find no conclusive evidence of Wikileaks founder Julian Assange's DNA in a torn condom submitted by one of his alleged rape victims. The condom had been a key piece of evidence in Sweden's case against Assange. ](/news/2012/09/17/swedish-forensic-scientists-find-no-conclusive-evidence-of-wikileaks-founder-julian-assange-s-dna-in-a-torn-condom-submitted-by-one-of-his-a.md)
@@ -67,7 +67,7 @@ Read the latest World and International news headlines from Sky News Australia. 
 ### [ArcelorMittal announces the likely loss of two thousand cold process jobs in Lige, Belgium, after the failure of talks with unions. Unions say the steel maker wants to force an agreement before even starting talks. Wallonia wants to see the long-term plan. ](/news/2012/09/17/arcelormittal-announces-the-likely-loss-of-two-thousand-cold-process-jobs-in-liege-belgium-after-the-failure-of-talks-with-unions-unions.md)
 _Context: ArcelorMittal, Belgium, Lige, Wallonia, cold process, force an agreement before even starting talks, steel maker, unionize_
 
-##### U.S.
+##### United States
 ### [The United States and the People's Republic of China exchange WTO trade complaints: the US complaining of China's support for automotive exports, and China complaining of new U.S. duties on several of their products. ](/news/2012/09/17/the-united-states-and-the-people-s-republic-of-china-exchange-wto-trade-complaints-the-us-complaining-of-china-s-support-for-automotive-exp.md)
 President Barack Obama on Monday said the United States was challenging Chinese auto and auto-parts subsidies that threatened American jobs as he campaigned in Ohio, an auto manufacturing state that could be decisive in the November presidential election.
 
@@ -91,7 +91,7 @@ British author Sir Salman Rushdie says he does not think his 1988 novel The Sata
 ### [Ugandan police release theatre producer David Cecil on bail after charging him in connection with the staging of "The River and the Mountain", a play which references homosexuality. His court date is 18 October, with a two year jail sentence possible. ](/news/2012/09/17/ugandan-police-release-theatre-producer-david-cecil-on-bail-after-charging-him-in-connection-with-the-staging-of-the-river-and-the-mountain.md)
 _Context: David Cecil, Uganda, homosexuality_
 
-##### U.S.
+##### United States
 ### [The United States ambassador to the United Nations says there was no plot in the U.S. Consulate attack in Benghazi. ](/news/2012/09/17/the-united-states-ambassador-to-the-united-nations-says-there-was-no-plot-in-the-u-s-consulate-attack-in-benghazi.md)
 The protest in Libya that killed U.S. Ambassador Chris Stevens and three other Americans last week appears to have begun spontaneously and was &quot;hijacked&quot; by 
 

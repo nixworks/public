@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/03/19/one-briton-killed-and-12-people-wounded-by-a-ca
 
 ### [2005-03-19](/news/2005/03/19/index.md)
 
-##### United Kingdom
+##### UK
 #  One Briton killed and 12 people wounded by a car bomb in Doha, Qatar. 
 
 

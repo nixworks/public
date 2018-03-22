@@ -35,7 +35,7 @@ _Context: Chinese spring festival, Guangzhou South Railway Station_
 ### [The Court of Arbitration for Sport (CAS) rejects the appeal for the inclusion of the Togo national football team in the draw for the 2012 Africa Cup of Nations which resulted from their ban due to the Togo national football team attack prior to the 2010 tournament in Angola. It also says that a new draw will be required if they rule in favor of Togo in upcoming proceedings. ](/news/2010/02/18/the-court-of-arbitration-for-sport-cas-rejects-the-appeal-for-the-inclusion-of-the-togo-national-football-team-in-the-draw-for-the-2012-af.md)
 All the latest Football News, Results &amp; Fixtures, brought to you as it happens, including sports analysis and results from Ireland and around the world.
 
-##### United Kingdom
+##### UK
 ### [The British and Irish governments call in their Israeli ambassadors over the use of fake passports by the alleged killers of a Hamas commander Mahmoud al-Mabhouh. ](/news/2010/02/18/the-british-and-irish-governments-call-in-their-israeli-ambassadors-over-the-use-of-fake-passports-by-the-alleged-killers-of-a-hamas-command.md)
 The Department of Foreign Affairs has said two further fake Irish passports were used by suspects in the killing of a Hamas official in Dubai.
 
@@ -47,7 +47,7 @@ A complaint that a newspaper article about the death of Stephen Gately was inacc
 ### [Irish Minister for Defence Willie O'Dea resigns after a controversy surrounding his remarks on a rival politician's relationship with brothels but denies claims by opposition party Fine Gael that he has committed perjury. Taoiseach Brian Cowen assigns himself temporary responsibility for the Department of Defence. ](/news/2010/02/18/irish-minister-for-defence-willie-o-dea-resigns-after-a-controversy-surrounding-his-remarks-on-a-rival-politician-s-relationship-with-brothe.md)
 Minister for Defence Willie O&#39;Dea has resigned, saying his continuing in office would distract from the important and vital work of the Govt
 
-##### U.S.
+##### United States
 ### [United States President Barack Obama meets with the Dalai Lama amid opposition from China. ](/news/2010/02/18/united-states-president-barack-obama-meets-with-the-dalai-lama-amid-opposition-from-china.md)
 Obama holds talks with exiled Tibetan spiritual leader despite Chinese opposition.
 

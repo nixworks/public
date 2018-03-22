@@ -39,7 +39,7 @@ In a case that may have national implications, the Richmond-based 4th U.S. Circu
 ### [Lutz Bachmann, the leader of the German far-right and anti-Islam Pegida movement, goes on trial in Dresden on charges of hate speech. ](/news/2016/04/19/lutz-bachmann-the-leader-of-the-german-far-right-and-anti-islam-pegida-movement-goes-on-trial-in-dresden-on-charges-of-hate-speech.md)
 _Context: Dresden, German, Lutz Bachmann, Pegida_
 
-##### China
+##### Chinese
 ### [Authorities in China sentence Huang Yu, a computer technician from Sichuan who worked for a government department which handled state secrets, to death for leaking more than 150,000 classified documents to an unidentified foreign power. The documents in question covered secrets ranging from the ruling Communist Party to military and financial issues. ](/news/2016/04/19/authorities-in-china-sentence-huang-yu-a-computer-technician-from-sichuan-who-worked-for-a-government-department-which-handled-state-secret.md)
 Huang Yu convicted of leaking state secrets to unidentified foreign power, state television said on Tuesday
 

@@ -17,11 +17,11 @@ _Context: Shanghai, police_
 
 ##### Starbucks
 ### [ Starbucks announces that it will close 600 underperforming coffee shops in the United States. ](/news/2008/07/1/starbucks-announces-that-it-will-close-600-underperforming-coffee-shops-in-the-united-states.md)
-_Context: Starbucks, U.S., coffee shop_
+_Context: Starbucks, United States, coffee shop_
 
 ##### Pharmaceutical companies
 ### [ A jury orders pharmaceutical companies GlaxoSmithKline and Novartis to pay $114 million in compensation to the Government of Alabama for overcharging for Medicaid prescription drugs. ](/news/2008/07/1/a-jury-orders-pharmaceutical-companies-glaxosmithkline-and-novartis-to-pay-114-million-in-compensation-to-the-government-of-alabama-for-ov.md)
-_Context: $, GlaxoSmithKline, Government of Alabama, Medicaid, Novartis, pharmaceutical companies_
+_Context: GlaxoSmithKline, Government of Alabama, Medicaid, Novartis, US$, pharmaceutical companies_
 
 ##### Natalie Coughlin
 ### [ Natalie Coughlin and Aaron Peirsol break world records for the 100 metres backstroke at the United States Olympic trials. ](/news/2008/07/1/natalie-coughlin-and-aaron-peirsol-break-world-records-for-the-100-metres-backstroke-at-the-united-states-olympic-trials.md)

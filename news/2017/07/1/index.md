@@ -37,7 +37,7 @@ Those taking part in the rally had to show identity cards to prove they were cit
 
 ##### Bhutan-China relations
 ### [Amid growing tensions between China and India and Bhutan, China releases a map detailing pieces of land claimed by Bhutan and India as belonging to China. China claims, via the map, that territory up until Gipmochi belongs to China and claims it's supported by the 1890 Convention of Calcutta. ](/news/2017/07/1/amid-growing-tensions-between-china-and-india-and-bhutan-china-releases-a-map-detailing-pieces-of-land-claimed-by-bhutan-and-india-as-belon.md)
-_Context: Bhutan, Bhutan-China relations, China, China-India relations, Convention of Calcutta, Doklam tri-junction, Gipmochi, India_
+_Context: Bhutan, Bhutan-China relations, China-India relations, Chinese, Convention of Calcutta, Doklam tri-junction, Gipmochi, India_
 
 ##### Marawi crisis
 ### [More than 400,000 people displaced by the conflict are affected by disease outbreaks and psychological trauma. ](/news/2017/07/1/more-than-400-000-people-displaced-by-the-conflict-are-affected-by-disease-outbreaks-and-psychological-trauma.md)

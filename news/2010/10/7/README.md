@@ -11,9 +11,9 @@ Anti-apartheid figurehead Archbishop Desmond Tutu is retiring from public life, 
 ### [Mark Rutte of the People's Party for Freedom and Democracy is asked by Queen Beatrix of the Netherlands to become Prime Minister of the Netherlands leading a coalition government. ](/news/2010/10/7/mark-rutte-of-the-people-s-party-for-freedom-and-democracy-is-asked-by-queen-beatrix-of-the-netherlands-to-become-prime-minister-of-the-neth.md)
 _Context: Beatrix, Dutch, Mark Rutte, Prime Minister, VVD_
 
-##### United Kingdom
+##### UK
 ### [The United Kingdom Labour Party announces its Shadow Cabinet to be led by Ed Miliband. ](/news/2010/10/7/the-united-kingdom-labour-party-announces-its-shadow-cabinet-to-be-led-by-ed-miliband.md)
-_Context: Ed Miliband, Labour Party, Shadow Cabinet, United Kingdom_
+_Context: Ed Miliband, Labour Party, Shadow Cabinet, UK_
 
 ##### Zimbabwe
 ### [Zimbabwean Prime Minister Morgan Tsvangirai charges his President Robert Mugabe with violating the constitution and unilateral decision-making. Mugabe and his party fail to respond in public. ](/news/2010/10/7/zimbabwean-prime-minister-morgan-tsvangirai-charges-his-president-robert-mugabe-with-violating-the-constitution-and-unilateral-decision-maki.md)
@@ -39,7 +39,7 @@ More than 1,000 teachers have been sacked in Kenya for sexually abusing girls ov
 ### [Israel buys 20 F-35I variant radar-evading fighter jets from the United States, Israel's first batch of advanced fighter jets which arm the country with the most sophisticated combat aircraft in the Middle East. Officials at The Pentagon acknowledge the sale. ](/news/2010/10/7/israel-buys-20-f-35i-variant-radar-evading-fighter-jets-from-the-united-states-israel-s-first-batch-of-advanced-fighter-jets-which-arm-the.md)
 Agreement signed for deal worth &#036;2.75 billion including Israeli industries in production process, simulators, spare parts, will maintain Israel&#39;s qualitative military advantage in region
 
-##### U.S.
+##### United States
 ### [The United States apologizes to Pakistan for a helicopter strike on a Pakistan Army border post that killed 3 soldiers. ](/news/2010/10/7/the-united-states-apologizes-to-pakistan-for-a-helicopter-strike-on-a-pakistan-army-border-post-that-killed-3-soldiers.md)
 As the White House tried to mollify Pakistan over an airstrike, officials said there were larger tensions.
 
@@ -71,15 +71,15 @@ Woman killed, 25 injured in accident in Uttarakhand - The incident took place wh
 ### [Nine, mostly children, die, after an overloaded river ferry capsizes in the Irrawaddy River delta, in Myanmar. ](/news/2010/10/7/nine-mostly-children-die-after-an-overloaded-river-ferry-capsizes-in-the-irrawaddy-river-delta-in-myanmar.md)
 _Context: Irrawaddy River, Myanmar, delta_
 
-##### $
+##### US$
 ### [The United States dollar reaches a 15-year low against the Japanese yen and depreciates against a range of other currencies due to concerns about further quantitative easing by the United States Federal Reserve. ](/news/2010/10/7/the-united-states-dollar-reaches-a-15-year-low-against-the-japanese-yen-and-depreciates-against-a-range-of-other-currencies-due-to-concerns.md)
-_Context: $, Japan, United States Federal Reserve, currency, quantitative easing, yen_
+_Context: Japan, US$, United States Federal Reserve, currency, quantitative easing, yen_
 
 ##### Austerity measures
 ### [Austerity measures of pay cuts and pension freeze supported by the European Union and International Monetary Fund (IMF) cause civil servants to stage a 24-hour strike in Greece. ](/news/2010/10/7/austerity-measures-of-pay-cuts-and-pension-freeze-supported-by-the-european-union-and-international-monetary-fund-imf-cause-civil-servants.md)
 Civil servants stage 24-hour strike in protest against pay cuts and pension freeze, disrupting normal life.
 
-##### U.S.
+##### United States
 ### [United States film studio Metro Goldwyn Mayer begins plans to file for Chapter 11 bankruptcy in a bid to rid itself of $4 billion in debts. ](/news/2010/10/7/united-states-film-studio-metro-goldwyn-mayer-begins-plans-to-file-for-chapter-11-bankruptcy-in-a-bid-to-rid-itself-of-4-billion-in-debts.md)
 Hollywood film studio Metro Goldwyn Mayer begins plans to file for bankruptcy protection to try to rid itself of $4bn of debts.
 

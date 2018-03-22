@@ -13,7 +13,7 @@ _Context: General Counsel, Giovanni Prezioso, U.S. Securities and Exchange Commi
 
 ##### Death toll
 ### [ Death toll in northeast China coal mine blast reaches 150. ](/news/2005/11/30/death-toll-in-northeast-china-coal-mine-blast-reaches-150.md)
-_Context: China, Death toll, coal mine_
+_Context: Chinese, Death toll, coal mine_
 
 ##### France
 ### [ Surgeons in France carry out the first human face transplant. ](/news/2005/11/30/surgeons-in-france-carry-out-the-first-human-face-transplant.md)

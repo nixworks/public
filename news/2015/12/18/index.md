@@ -65,7 +65,7 @@ US Navy says its B-52 plane had no intention of flying so close to the Chinese-c
 
 ##### Yemeni Civil War (2015)
 ### [Two ballistic missiles are fired from Yemen at Saudi Arabia, one of which is intercepted by the kingdom's air defences, while the other missile lands near the city of Najran, according to a coalition statement on Saudi state media. No casualties have been reported. ](/news/2015/12/18/two-ballistic-missiles-are-fired-from-yemen-at-saudi-arabia-one-of-which-is-intercepted-by-the-kingdom-s-air-defences-while-the-other-miss.md)
-_Context: Najran, Saudi Arabia, Saudi state media, Saudi-led intervention in Yemen, Yemen, Yemeni Civil War (2015)_
+_Context: Najran, Saudi Arabia, Saudi Arabian-led intervention in Yemen, Saudi state media, Yemen, Yemeni Civil War (2015)_
 
 ## [Previous Day...](/news/2015/12/17/index.md)
 

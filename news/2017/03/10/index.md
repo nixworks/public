@@ -29,7 +29,7 @@ _Context: Buyukcekmece, Istanbul_
 
 ##### Yemeni Civil War (2015-present)
 ### [A Saudi-led coalition airstrike on a market in Al Hudaydah Governorate, Yemen, kills at least 20 civilians and six Houthi militants. ](/news/2017/03/10/a-saudi-led-coalition-airstrike-on-a-market-in-al-hudaydah-governorate-yemen-kills-at-least-20-civilians-and-six-houthi-militants.md)
-_Context: Al Hudaydah Governorate, Houthi, Saudi-led intervention in Yemen, Yemen, Yemeni Civil War (2015-present)_
+_Context: Al Hudaydah Governorate, Houthis, Saudi Arabian-led intervention in Yemen, Yemen, Yemeni Civil War (2015-present)_
 
 ## [Previous Day...](/news/2017/03/9/index.md)
 

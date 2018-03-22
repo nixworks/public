@@ -9,7 +9,7 @@ _Context: Acinetobacter baumannii, Afghanistan, Iraq, Kuwait, U.S. Military_
 
 ##### Congressman
 ### [ The U.S. U.S. Congress raises the national debt ceiling by USD 800 billion to a total of USD 8.18 trillion. This makes the new borrowing cap 30% higher than the debt Bush inherited, and 70% of the size of the U.S. economy. ](/news/2004/11/19/the-u-s-u-s-congress-raises-the-national-debt-ceiling-by-usd-800-billion-to-a-total-of-usd-8-18-trillion-this-makes-the-new-borrowing-ca.md)
-_Context: $, Congressman, national debt_
+_Context: Congressman, US$, national debt_
 
 ##### Yukos
 ### [ Russia announces it will sell off the main production unit of Yukos, the energy company seized last year for supposedly failing to pay taxes. ](/news/2004/11/19/russia-announces-it-will-sell-off-the-main-production-unit-of-yukos-the-energy-company-seized-last-year-for-supposedly-failing-to-pay-taxe.md)

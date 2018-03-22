@@ -5,7 +5,7 @@ Formats: [HTML](2008/11/18/index.html)  [JSON](2008/11/18/index.json)  [XML](200
 
 ##### Central Europe
 ### [ Central European stocks drop to a three-week low on expectations of slowing economic growth. Poland forecasts economic growth to drop to 2.3% in 2009 from 5.4% in 2008 and the Warsaw Stock Exchange's WIG 20 index falls 3.5% in two hours. Bulgaria's Sofia Stock Exchange is at a five-year low. Both Bulgaria and Romania may need International Monetary Fund loans to repay US$100 billion of external debt. ](/news/2008/11/18/central-european-stocks-drop-to-a-three-week-low-on-expectations-of-slowing-economic-growth-poland-forecasts-economic-growth-to-drop-to-2.md)
-_Context: $, Bulgaria, Central Europe, International Monetary Fund, Poland, Romania, Sofia Stock Exchange, WIG 20, Warsaw Stock Exchange_
+_Context: Bulgaria, Central Europe, International Monetary Fund, Poland, Romania, Sofia Stock Exchange, US$, WIG 20, Warsaw Stock Exchange_
 
 ##### Japan
 ### [ Takehiko Yamaguchi, a former Japanese Vice Minister for Health, and his wife are found stabbed to death in Saitama, a suburb of Tokyo. ](/news/2008/11/18/takehiko-yamaguchi-a-former-japanese-vice-minister-for-health-and-his-wife-are-found-stabbed-to-death-in-saitama-a-suburb-of-tokyo.md)

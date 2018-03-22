@@ -51,7 +51,7 @@ _Context: Egypt, Eiffel Tower, Empire State Building, New York City, Paris, Pyra
 ### [Actress Maureen O'Hara dies in her sleep at her Boise, Idaho, home. "She passed peacefully surrounded by her loving family as they celebrated her life listening to music from her favorite movie, " The Quiet Man"," said her family's statement. ](/news/2015/10/24/actress-maureen-o-hara-dies-in-her-sleep-at-her-boise-idaho-home-she-passed-peacefully-surrounded-by-her-loving-family-as-they-celebrate.md)
 Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, celeb videos, photos, movies, TV, music news and pop culture on&nbsp;ABCNews.com.
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [At least 40 people, including several fishermen, are reportedly killed following Saudi-led coalition airstrikes on two islands off Yemen's Red Sea coast. Local fisherman reported coalition aircraft and warships struck the Aqban and Kadman islands targeting Houthi forces but also destroyed several boats killing local fishermen. ](/news/2015/10/24/at-least-40-people-including-several-fishermen-are-reportedly-killed-following-saudi-led-coalition-airstrikes-on-two-islands-off-yemen-s-r.md)
 At least 40 people were killed, including several fishermen, when Saudi-led coalition strikes hit two Yemeni islands on the Red Sea overnight, several locals said on Saturday.
 

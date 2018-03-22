@@ -23,7 +23,7 @@ Resignations an attempt to regain credibility in the cabinet but it is unclear i
 ### [The "Daily Nation" publishes a picture of a police officer apparently shooting a male at point-blank range on a main road in Nairobi; Amnesty condemns the incident and three police officers are suspended. ](/news/2011/01/20/the-daily-nation-publishes-a-picture-of-a-police-officer-apparently-shooting-a-male-at-point-blank-range-on-a-main-road-in-nairobi-amnest.md)
 Kenyan authorities suspend three policemen after a newspaper published a picture of an officer apparently shooting a man dead.
 
-##### U.S.
+##### United States
 ### [Agents of the United States charge 127 alleged mafia members in the northeast of the country. ](/news/2011/01/20/agents-of-the-united-states-charge-127-alleged-mafia-members-in-the-northeast-of-the-country.md)
 US federal agents charge 127 suspected mobsters in the New York region in the largest single-day FBI mafia crackdown in US history.
 
@@ -45,7 +45,7 @@ _Context: Barack Obama, Congress, Guantanamo Bay, U.S. President, United States 
 
 ##### Hong Kong
 ### [Customs officials in Hong Kong seize a haul of cocaine worth US$33.4m bound for China, originating from Bolivia. ](/news/2011/01/20/customs-officials-in-hong-kong-seize-a-haul-of-cocaine-worth-us-33-4m-bound-for-china-originating-from-bolivia.md)
-_Context: $, Bolivia, China, Hong Kong, cocaine_
+_Context: Bolivia, China, Hong Kong, US$, cocaine_
 
 ##### Spy satellite
 ### [The largest rocket ever launched from the west coast of the U.S. is launched carrying a secret payload; speculated to be a spy satellite.](/news/2011/01/20/the-largest-rocket-ever-launched-from-the-west-coast-of-the-u-s-is-launched-carrying-a-secret-payload-speculated-to-be-a-spy-satellite.md)

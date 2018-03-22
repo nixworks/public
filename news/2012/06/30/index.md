@@ -21,7 +21,7 @@ MEXICO CITY (Reuters) - Mexico has extradited a drug gang leader to face charges
 
 ##### Strong storms
 ### [The death toll from storms in the Mid-Atlantic states of the United States reaches 13, with millions out of power and states of emergencies declared in the states of Ohio, West Virginia, Virginia and Maryland as well as the District of Columbia. ](/news/2012/06/30/the-death-toll-from-storms-in-the-mid-atlantic-states-of-the-united-states-reaches-13-with-millions-out-of-power-and-states-of-emergencies.md)
-_Context: District of Columbia, Maryland, Mid-Atlantic, Ohio, U.S., Virginia, West Virginia, states of emergency, strong storms_
+_Context: District of Columbia, Maryland, Mid-Atlantic, Ohio, United States, Virginia, West Virginia, states of emergency, strong storms_
 
 ##### Xinjiang
 ### [A strong earthquake hits the Xinjiang region of western China with rescuers dispatched to search for casualties. ](/news/2012/06/30/a-strong-earthquake-hits-the-xinjiang-region-of-western-china-with-rescuers-dispatched-to-search-for-casualties.md)

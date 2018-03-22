@@ -25,7 +25,7 @@ A limited cabinet reshuffle will see six ministers replaced in Egypt, state news
 
 ##### Kindergarten
 ### [Two kindergarteners are poisoned to death by the owner of a rival school in northern China. ](/news/2013/05/2/two-kindergarteners-are-poisoned-to-death-by-the-owner-of-a-rival-school-in-northern-china.md)
-_Context: China, kindergarten_
+_Context: Chinese, kindergarten_
 
 ##### U.S.
 ### [The U.S. state of Rhode Island becomes the tenth state to legalize same-sex marriage. ](/news/2013/05/2/the-u-s-state-of-rhode-island-becomes-the-tenth-state-to-legalize-same-sex-marriage.md)
@@ -35,7 +35,7 @@ _Context: Rhode Island, Same-sex marriage in the United States, U.S._
 ### [Convicted Indian spy Sarabjit Singh dies after being attacked by fellow inmates in a Pakistani prison. He is flown home to India where the government of Punjab has declared him a martyr. ](/news/2013/05/2/convicted-indian-spy-sarabjit-singh-dies-after-being-attacked-by-fellow-inmates-in-a-pakistani-prison-he-is-flown-home-to-india-where-the-g.md)
 A special aircraft carrying the body of Sarabjit Singh, the Indian prisoner who died at a Lahore hospital today, landed in Amritsar shortly after 7:30 pm tonight. The lack of basic paperwork had delayed the plane&#039;s take-off from Lahore airport by over two hours. India is extremely upset about t...
 
-##### United Kingdom
+##### UK
 ### [British businessman James McCormick, who sold ADE 651 fake bomb detector to Iraq and other countries, is jailed for ten years at the Old Bailey. ](/news/2013/05/2/british-businessman-james-mccormick-who-sold-ade-651-fake-bomb-detector-to-iraq-and-other-countries-is-jailed-for-ten-years-at-the-old-bai.md)
 British fraudster James McCormick is jailed for 10 years for selling fake bomb detectors to security forces around the world.
 
@@ -53,15 +53,15 @@ _Context: Maryland, capital punishment_
 
 ##### Bush Intercontinental Airport
 ### [A man fires two shots into the ceiling of Bush Intercontinental Airport in Houston, Texas, United States with a rifle before killing himself. ](/news/2013/05/2/a-man-fires-two-shots-into-the-ceiling-of-bush-intercontinental-airport-in-houston-texas-united-states-with-a-rifle-before-killing-himself.md)
-_Context: Bush Intercontinental Airport, Houston, Texas, U.S._
+_Context: Bush Intercontinental Airport, Houston, Texas, United States_
 
 ##### North Korea
 ### [North Korea sentences American Kenneth Bae to 15 years of prison labor for "hostile acts" against the regime. The United States calls for amnesty. ](/news/2013/05/2/north-korea-sentences-american-kenneth-bae-to-15-years-of-prison-labor-for-hostile-acts-against-the-regime-the-united-states-calls-for-am.md)
 The US calls on North Korea to grant amnesty to US citizen Kenneth Bae, sentenced to 15 years of hard labour for alleged anti-government crimes.
 
-##### U.S.
+##### United States
 ### [The central northern United States experiences record snow fall. ](/news/2013/05/2/the-central-northern-united-states-experiences-record-snow-fall.md)
-_Context: U.S._
+_Context: United States_
 
 ##### Rhinoceros
 ### [The last known rhinoceroses in Mozambique are revealed to have been killed by poachers. ](/news/2013/05/2/the-last-known-rhinoceroses-in-mozambique-are-revealed-to-have-been-killed-by-poachers.md)

@@ -33,11 +33,11 @@ _Context: Barbara Walters, Edward Brooke_
 
 ##### U.S. President
 ### [ The President of the United States George W. Bush calls on the United States Congress to approve a $US700 million food aid package to help relieve the 2007-2008 world food price crisis. ](/news/2008/05/1/the-president-of-the-united-states-george-w-bush-calls-on-the-united-states-congress-to-approve-a-us700-million-food-aid-package-to-help.md)
-_Context: $, 2007-2008 world food price crisis, Congress, George W. Bush, U.S. President, food aid_
+_Context: 2007-2008 world food price crisis, Congress, George W. Bush, U.S. President, US$, food aid_
 
-##### U.S.
+##### United States
 ### [ The United States Federal Reserve System auctions off $24.12 billion in Treasury securities to help relieve the subprime mortgage crisis. ](/news/2008/05/1/the-united-states-federal-reserve-system-auctions-off-24-12-billion-in-treasury-securities-to-help-relieve-the-subprime-mortgage-crisis.md)
-_Context: $, Federal Reserve System, Treasury securities, U.S., auction, subprime mortgage crisis_
+_Context: Federal Reserve System, Treasury securities, US$, United States, auction, subprime mortgage crisis_
 
 ##### U.S. President
 ### [ The President of the United States George W. Bush authorises tougher sanctions on Myanmar including a freeze on assets held by Myanmar state owned companies held in the United States. ](/news/2008/05/1/the-president-of-the-united-states-george-w-bush-authorises-tougher-sanctions-on-myanmar-including-a-freeze-on-assets-held-by-myanmar-stat.md)

@@ -29,13 +29,13 @@ _Context: International Steering Group for Kosovo, Kosovo_
 
 ##### Japanese government
 ### [The Japanese government announces it will soon buy the disputed Senkaku Islands claimed by China (as Diaoyu Islands) and Taiwan (as Tiaoyutai Islands). Chinese leaders respond angrily. ](/news/2012/09/10/the-japanese-government-announces-it-will-soon-buy-the-disputed-senkaku-islands-claimed-by-china-as-diaoyu-islands-and-taiwan-as-tiaoyuta.md)
-_Context: China, Japanese government, Senkaku Islands, Senkaku Islands dispute, Taiwan, government_
+_Context: Chinese, Japanese government, Senkaku Islands, Senkaku Islands dispute, Taiwan, government_
 
 ##### Yukiya Amano
 ### [Yukiya Amano, the head of the International Atomic Energy Agency (IAEA), urges Iran to grant IAEA inspectors immediate access to its contentious suspected nuclear facility in Parchin. ](/news/2012/09/10/yukiya-amano-the-head-of-the-international-atomic-energy-agency-iaea-urges-iran-to-grant-iaea-inspectors-immediate-access-to-its-content.md)
 _Context: IAEA, IAEA inspectors, Iran, Parchin, Yukiya Amano, contentious, nuclear program_
 
-##### U.S.
+##### United States
 ### [A new United States national strategy to prevent suicides is to be released by the Surgeon General, the Secretary of Health and Human Services and the Army Secretary. It will include, among others, the use of social medium Facebook as a tactic. ](/news/2012/09/10/a-new-united-states-national-strategy-to-prevent-suicides-is-to-be-released-by-the-surgeon-general-the-secretary-of-health-and-human-servic.md)
 WASHINGTON (Reuters) - A new nationwide strategy to prevent suicides, especially among U.S. military veterans and younger Americans, is tapping into Facebook, mobile apps and other technologies as...
 

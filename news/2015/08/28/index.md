@@ -33,7 +33,7 @@ _Context: Swaziland, Umhlanga_
 
 ##### Paper mill
 ### [Exposure to toxic chemicals at a paper mill in central China kills seven people are and injures two others. ](/news/2015/08/28/exposure-to-toxic-chemicals-at-a-paper-mill-in-central-china-kills-seven-people-are-and-injures-two-others.md)
-_Context: China, paper mill_
+_Context: Chinese, paper mill_
 
 ##### 2015 Pacific hurricane season
 ### [Hawaii Governor David Ige signs an emergency proclamation in anticipation of the arrival of Hurricane Ignacio on Monday. Ignacio is expected to strengthen to Category 2 this weekend. The state is still recovering from precipitation from Tropical Storm Kilo which skirted the islands earlier this week. In addition, Hurricane Jimena, which is expected to intensify to near category 5 strength on Saturday, is trailing Ignacio and also heading toward Hawaii. ](/news/2015/08/28/hawaii-governor-david-ige-signs-an-emergency-proclamation-in-anticipation-of-the-arrival-of-hurricane-ignacio-on-monday-ignacio-is-expected.md)

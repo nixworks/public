@@ -5,7 +5,7 @@ Formats: [HTML](2007/03/19/index.html)  [JSON](2007/03/19/index.json)  [XML](200
 
 ##### Six-party talks
 ### [ Six-party talks resume to discuss progress in implementing last month's agreement, with North Korea and the United States having resolved an issue about North Korean funds frozen in a Macau bank. ](/news/2007/03/19/six-party-talks-resume-to-discuss-progress-in-implementing-last-month-s-agreement-with-north-korea-and-the-united-states-having-resolved-a.md)
-_Context: Macau, North Korea, Six-party talks, U.S._
+_Context: Macau, North Korea, Six-party talks, United States_
 
 ##### Suicide bomber
 ### [ A suicide bomber attacks a Western convoy in Kabul, causing casualties. ](/news/2007/03/19/a-suicide-bomber-attacks-a-western-convoy-in-kabul-causing-casualties.md)
@@ -33,7 +33,7 @@ A high school senior&#8217;s 14-foot banner proclaiming &#8220;Bong Hits 4 Jesus
 
 ##### Waleed bin Attash
 ### [ Waleed bin Attash, a suspected al Qaeda operative, confesses plotting the USS "Cole" bombing as well as the bombing of two United States embassies in Africa. ](/news/2007/03/19/waleed-bin-attash-a-suspected-al-qaeda-operative-confesses-plotting-the-uss-cole-bombing-as-well-as-the-bombing-of-two-united-states-em.md)
-_Context: Africa, U.S., USS ''Cole'' bombing, Waleed bin Attash, al Qaeda_
+_Context: Africa, USS ''Cole'' bombing, United States, Waleed bin Attash, al Qaeda_
 
 ##### Iraq
 ### [ The government of Iraq seeks custody of former Vice President Taha Yassin Ramadan so he can be hanged at dawn tomorrow after having been recently sentenced to death for his role in killing 148 Shiites in 1982. ](/news/2007/03/19/the-government-of-iraq-seeks-custody-of-former-vice-president-taha-yassin-ramadan-so-he-can-be-hanged-at-dawn-tomorrow-after-having-been-re.md)

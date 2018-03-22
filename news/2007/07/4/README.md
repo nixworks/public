@@ -35,9 +35,9 @@ _Context: 700 students surrender, Islamabad, Pakistan, mosque_
 ### [ The 9th summit of the Assembly of the African Union, which lasted for 3 days, ends in Accra, Ghana. ](/news/2007/07/4/the-9th-summit-of-the-assembly-of-the-african-union-which-lasted-for-3-days-ends-in-accra-ghana.md)
 _Context: Accra, Assembly of the African Union, Ghana_
 
-##### United Kingdom
+##### UK
 ### [ The terror threat level in the United Kingdom is reduced from critical to severe. ](/news/2007/07/4/the-terror-threat-level-in-the-united-kingdom-is-reduced-from-critical-to-severe.md)
-_Context: United Kingdom_
+_Context: UK_
 
 #####  Georgian
 ### [ A power blackout hits eastern Georgia, leaving 2.5m people without electricity and briefly stranding a thousand on the Tbilisi Metro. ](/news/2007/07/4/a-power-blackout-hits-eastern-georgia-leaving-2-5m-people-without-electricity-and-briefly-stranding-a-thousand-on-the-tbilisi-metro.md)

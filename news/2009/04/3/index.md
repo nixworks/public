@@ -3,9 +3,9 @@ Formats: [HTML](2009/04/3/index.html)  [JSON](2009/04/3/index.json)  [XML](2009/
 
 ## [2009-04-3](/news/2009/04/3/index.md)
 
-##### Scotland
+##### Scottish
 ### [ Scottish footballers Barry Ferguson and Allan McGregor receive lifetime bans from the Scottish Football Association and are transfer-listed by Rangers Football Club. ](/news/2009/04/3/scottish-footballers-barry-ferguson-and-allan-mcgregor-receive-lifetime-bans-from-the-scottish-football-association-and-are-transfer-listed.md)
-_Context: Allan McGregor, Barry Ferguson, Rangers F.C., Scotland, Scottish Football Association, ban, football, transfer-listed_
+_Context: Allan McGregor, Barry Ferguson, Rangers F.C., Scottish, Scottish Football Association, ban, football, transfer-listed_
 
 ##### Shooting
 ### [ Fourteen people die and 26 are injured during a shooting at the American Civic Association in Binghamton, New York. ](/news/2009/04/3/fourteen-people-die-and-26-are-injured-during-a-shooting-at-the-american-civic-association-in-binghamton-new-york.md)
@@ -31,7 +31,7 @@ _Context: France, French police, NATO, Strasbourg, protest, summit_
 ### [ Former Malaysian Deputy Prime Minister Najib Tun Razak is inaugurated as Prime Minister. ](/news/2009/04/3/former-malaysian-deputy-prime-minister-najib-tun-razak-is-inaugurated-as-prime-minister.md)
 _Context: Deputy Prime Minister, Malaysia, Najib Tun Razak, Prime Minister, inaugurated_
 
-##### U.S.
+##### United States
 ### [ The United States economy lost 663,000 jobs in March, raising the unemployment rate to 8.5%. ](/news/2009/04/3/the-united-states-economy-lost-663-000-jobs-in-march-raising-the-unemployment-rate-to-8-5.md)
 The U.S. unemployment rate reached 8.5 percent, its highest level in a quarter-century, in a sign of the severity of the downturn.
 

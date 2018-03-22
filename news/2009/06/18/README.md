@@ -5,7 +5,7 @@ Formats: [HTML](2009/06/18/index.html)  [JSON](2009/06/18/index.json)  [XML](200
 
 ##### South Africa
 ### [ South Africa receives its first case of swine flu via the United States. ](/news/2009/06/18/south-africa-receives-its-first-case-of-swine-flu-via-the-united-states.md)
-_Context: South Africa, U.S., first case, swine flu_
+_Context: South Africa, United States, first case, swine flu_
 
 ##### Jon Bon Jovi
 ### [ Jon Bon Jovi and Richie Sambora of rock band Bon Jovi are inducted into the Songwriters Hall of Fame at a ceremony in New York. ](/news/2009/06/18/jon-bon-jovi-and-richie-sambora-of-rock-band-bon-jovi-are-inducted-into-the-songwriters-hall-of-fame-at-a-ceremony-in-new-york.md)
@@ -33,11 +33,11 @@ A judge in Belfast has ruled that journalist Suzanne Breen does not have to hand
 
 ##### United Kingdom Parliamentary expenses scandal
 ### [ The expense claims of British Members of Parliament are published online. ](/news/2009/06/18/the-expense-claims-of-british-members-of-parliament-are-published-online.md)
-_Context: MP, United Kingdom, United Kingdom Parliamentary expenses scandal_
+_Context: MP, UK, United Kingdom Parliamentary expenses scandal_
 
 ##### Chancellor
 ### [ Chancellor Alistair Darling states there is "growing evidence" that government measures have stabilised the British banking system and economy. ](/news/2009/06/18/chancellor-alistair-darling-states-there-is-growing-evidence-that-government-measures-have-stabilised-the-british-banking-system-and-econ.md)
-_Context: Alistair Darling, Chancellor, United Kingdom_
+_Context: Alistair Darling, Chancellor, UK_
 
 ##### Romanians
 ### [ Another attack occurs on Romanians in Belfast, on this occasion against a family in the east of the city. ](/news/2009/06/18/another-attack-occurs-on-romanians-in-belfast-on-this-occasion-against-a-family-in-the-east-of-the-city.md)
@@ -57,7 +57,7 @@ _Context: altering_
 
 ##### Continental Airlines
 ### [ Continental Flight 61, a Boeing 777 containing 247 passengers flying from Brussels, Belgium, to Newark, New Jersey, United States, lands safely at Newark Liberty International Airport, after the 61-year-old pilot died mid-flight. ](/news/2009/06/18/continental-flight-61-a-boeing-777-containing-247-passengers-flying-from-brussels-belgium-to-newark-new-jersey-united-states-lands-sa.md)
-_Context: Belgium, Boeing 777, Brussels, Continental Airlines, Newark Liberty International Airport, Newark, New Jersey's, U.S., pilot_
+_Context: Belgium, Boeing 777, Brussels, Continental Airlines, Newark Liberty International Airport, Newark, New Jersey's, United States, pilot_
 
 ##### Atlas V
 ### [ An Atlas V rocket launches the LRO and LCROSS spacecraft to explore the Moon.](/news/2009/06/18/an-atlas-v-rocket-launches-the-lro-and-lcross-spacecraft-to-explore-the-moon.md)

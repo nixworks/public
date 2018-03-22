@@ -31,7 +31,7 @@ Divers found the remains of missing sailors in a search of the Navy destroyer Jo
 ### [The U.S. Air Force awards Raytheon and Lockheed contracts to work on the new Long Range Standoff weapon, the replacement for the AGM-86B air-launched nuclear cruise missile. ](/news/2017/08/23/the-u-s-air-force-awards-raytheon-and-lockheed-contracts-to-work-on-the-new-long-range-standoff-weapon-the-replacement-for-the-agm-86b-air.md)
 The U.S. Air Force has awarded Lockheed Martin Corp and Raytheon Co separate $900 million contracts to continue work on a replacement for the AGM-86B air-launched nuclear cruise missile, the Pentagon said on Wednesday.
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [At least 35 people are killed in an air strike that hit a hotel near a Houthi-run checkpoint north of the Yemeni capital Sanaa. ](/news/2017/08/23/at-least-35-people-are-killed-in-an-air-strike-that-hit-a-hotel-near-a-houthi-run-checkpoint-north-of-the-yemeni-capital-sanaa.md)
 At least 35 people were killed in air strikes that hit a small hotel near a Houthi-run checkpoint north of the Yemeni capital Sanaa on Wednesday, a local medic and Houthi&#039;s television station.
 

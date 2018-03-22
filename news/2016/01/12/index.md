@@ -21,7 +21,7 @@ It would block North Korea&#039;s access to hard currency following a claimed nu
 
 ##### Iran-United States relations
 ### [Iran seizes the crew of two small United States Navy boats near Farsi Island, in the Persian Gulf, after they had allegedly entered Iranian waters. Pentagon spokesman, Peter Cook, told Associated Press that Iran has assured the United States that the crew and vessels will be returned promptly. ](/news/2016/01/12/iran-seizes-the-crew-of-two-small-united-states-navy-boats-near-farsi-island-in-the-persian-gulf-after-they-had-allegedly-entered-iranian.md)
-_Context: Associated Press, Farsi Island, Iran, Iran-United States relations, Persian Gulf, Peter Cook, U.S., U.S. Navy_
+_Context: Associated Press, Farsi Island, Iran, Iran-United States relations, Persian Gulf, Peter Cook, U.S. Navy, United States_
 
 ##### Joint Comprehensive Plan of Action
 ### [In accordance with a major point of a nuclear agreement reached with several world powers, Iran removed a plutonium core and filled with concrete the Arak nuclear reactor, setting the stage for the removal of sanctions against Iran. ](/news/2016/01/12/in-accordance-with-a-major-point-of-a-nuclear-agreement-reached-with-several-world-powers-iran-removed-a-plutonium-core-and-filled-with-con.md)
@@ -49,7 +49,7 @@ Live updates as junior doctors go on a 24-hour strike in England in a dispute wi
 
 ##### Bronze Age
 ### [A Bronze Age village is discovered in Cambridgeshire, United Kingdom. ](/news/2016/01/12/a-bronze-age-village-is-discovered-in-cambridgeshire-united-kingdom.md)
-_Context: Bronze Age, Cambridgeshire, United Kingdom_
+_Context: Bronze Age, Cambridgeshire, UK_
 
 ##### Boko Haram insurgency
 ### [Boko Haram militants shoot and kill 7 people and burn down 10 houses in Madagali, Adamawa. ](/news/2016/01/12/boko-haram-militants-shoot-and-kill-7-people-and-burn-down-10-houses-in-madagali-adamawa.md)

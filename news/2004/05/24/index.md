@@ -29,7 +29,7 @@ _Context: Internet piracy, Recording Industry Association of America, US copyrig
 
 ##### Saudi Arabian
 ### [ Saudi Arabian Oil Minister Ali Naimi declares that USD $30-34 per barrel is a 'fair and reasonable price', denies any differences within the Organization of Petroleum Exporting Countries (OPEC), and vouchsafes to increase crude oil supply by 2 million barrels per day (4 m 3 -s) if the market demands it. Previous reports of a deal between U.S. President George W. Bush and Saudi Arabia are not discussed. ](/news/2004/05/24/saudi-arabian-oil-minister-ali-naimi-declares-that-usd-30a34-per-barrel-is-a-fair-and-reasonable-price-denies-any-differences-within.md)
-_Context: $, George W. Bush, Organization of Petroleum Exporting Countries, Saudi Arabian_
+_Context: George W. Bush, Organization of Petroleum Exporting Countries, Saudi Arabian, US$_
 
 ##### Momart
 ### [ A fire consumes the Momart building in London, destroying works owned by several museums and collectors. ](/news/2004/05/24/a-fire-consumes-the-momart-building-in-london-destroying-works-owned-by-several-museums-and-collectors.md)

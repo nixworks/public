@@ -21,7 +21,7 @@ _Context: China, Mainland Affairs Council, Taiwan, Wang Yu-chi_
 
 ##### Apple, Inc.
 ### [Apple, Inc. becomes the first company in the world to close with a market capitalization over $700 billion. ](/news/2015/02/10/apple-inc-becomes-the-first-company-in-the-world-to-close-with-a-market-capitalization-over-700-billion.md)
-_Context: $, Apple, Inc., market capitalization_
+_Context: Apple, Inc., US$, market capitalization_
 
 ##### European Broadcasting Union
 ### [The European Broadcasting Union announces that Australia will participate in the Eurovision Song Contest for the first time in Vienna 2015; it will be the first country ever outside of the European Broadcasting Area, as well as the first associated member of the EBU, to participate ](/news/2015/02/10/the-european-broadcasting-union-announces-that-australia-will-participate-in-the-eurovision-song-contest-for-the-first-time-in-vienna-2015.md)
@@ -37,7 +37,7 @@ _Context: 2003 invasion of Iraq, Brian Williams, NBC Nightly News, helicopter_
 
 ##### ISIL
 ### [The United States confirms the death of ISIL hostage Kayla Mueller. ](/news/2015/02/10/the-united-states-confirms-the-death-of-isil-hostage-kayla-mueller.md)
-_Context: ISIL, Kayla Mueller, U.S._
+_Context: ISIL, Kayla Mueller, United States_
 
 ##### Obama Administration
 ### [The Obama Administration announces the creation of the Cyber Threat Intelligence Integration Center, a new United States federal government agency that will be a fusion center between existing agencies and the private sector for real-time use against cyber attacks. ](/news/2015/02/10/the-obama-administration-announces-the-creation-of-the-cyber-threat-intelligence-integration-center-a-new-united-states-federal-government.md)

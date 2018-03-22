@@ -17,7 +17,7 @@ Police in China have sent two activists to labor camps and charged a veteran dis
 
 ##### Lee Bradley Brown
 ### [Lee Bradley Brown, 39, a British tourist is allegedly beaten to death in the Bur Dubai police station in Dubai after being arrested for swearing. ](/news/2011/04/13/lee-bradley-brown-39-a-british-tourist-is-allegedly-beaten-to-death-in-the-bur-dubai-police-station-in-dubai-after-being-arrested-for-swea.md)
-_Context: Bur Dubai, Dubai, Lee Bradley Brown, United Kingdom_
+_Context: Bur Dubai, Dubai, Lee Bradley Brown, UK_
 
 ##### Baseball
 ### [US baseball star Barry Bonds is convicted of obstruction of justice charges with a hung jury on other charges. ](/news/2011/04/13/us-baseball-star-barry-bonds-is-convicted-of-obstruction-of-justice-charges-with-a-hung-jury-on-other-charges.md)
@@ -39,9 +39,9 @@ Former president to face charges while Ouattara pledges to ask ICC to probe alle
 ### [The government in the West Bank is largely ready to govern a Palestinian state, a United Nations report claims. ](/news/2011/04/13/the-government-in-the-west-bank-is-largely-ready-to-govern-a-palestinian-state-a-united-nations-report-claims.md)
 The Palestinian government in the West Bank is now largely ready to govern a state, a United Nations report says.
 
-##### U.S.
+##### United States
 ### [The United States requests the release of one of its citizens detained in North Korea. ](/news/2011/04/13/the-united-states-requests-the-release-of-one-of-its-citizens-detained-in-north-korea.md)
-_Context: North Korea, U.S._
+_Context: North Korea, United States_
 
 ##### Japan
 ### [Japan's Sendai Airport partially reopens for the first time since the 2011 Tohoku earthquake and tsunami. ](/news/2011/04/13/japan-s-sendai-airport-partially-reopens-for-the-first-time-since-the-2011-tahoku-earthquake-and-tsunami.md)

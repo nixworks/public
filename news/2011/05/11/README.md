@@ -41,7 +41,7 @@ _Context: Alik Alik, Federated States of Micronesia, Manny Mori, President, Vice
 
 ##### Edinburgh
 ### [John Clark Wilson is arrested in Edinburgh, Scotland, during a high-profile Hearts v Celtic tie in the SPL; the 26-year-old Hearts fan invaded the pitch and attempted to attack Celtic manager Neil Lennon. He is charged with breach of the peace and assault. ](/news/2011/05/11/john-clark-wilson-is-arrested-in-edinburgh-scotland-during-a-high-profile-hearts-v-celtic-tie-in-the-spl-the-26-year-old-hearts-fan-invad.md)
-_Context: Celtic, Edinburgh, Hearts, Neil Lennon, SPL, Scotland_
+_Context: Celtic, Edinburgh, Hearts, Neil Lennon, SPL, Scottish_
 
 ##### New York City
 ### [Two people are arrested in New York City for allegedly planning a terrorist attack. ](/news/2011/05/11/two-people-are-arrested-in-new-york-city-for-allegedly-planning-a-terrorist-attack.md)
@@ -59,9 +59,9 @@ _Context: Phillip A. Hamilton, Virginia House of Delegates_
 ### [The Supreme Court of India dismisses a government petition for seven people convicted for their role in the Bhopal disaster in 1984 to receive tougher sentences. ](/news/2011/05/11/the-supreme-court-of-india-dismisses-a-government-petition-for-seven-people-convicted-for-their-role-in-the-bhopal-disaster-in-1984-to-recei.md)
 _Context: Bhopal disaster, Government of India, Supreme Court of India_
 
-##### U.S.
+##### United States
 ### [The trial of United States citizens Josh Fattal and Shane Bauer in Tehran, Iran, on espionage charges is again delayed. ](/news/2011/05/11/the-trial-of-united-states-citizens-josh-fattal-and-shane-bauer-in-tehran-iran-on-espionage-charges-is-again-delayed.md)
-_Context: Iran, Josh Fattal and Shane Bauer, Tehran, U.S., espionage_
+_Context: Iran, Josh Fattal and Shane Bauer, Tehran, United States, espionage_
 
 ##### Rape
 ### [An international study reports that, on average, 48 women and girls are raped in the Democratic Republic of the Congo every hour. ](/news/2011/05/11/an-international-study-reports-that-on-average-48-women-and-girls-are-raped-in-the-democratic-republic-of-the-congo-every-hour.md)

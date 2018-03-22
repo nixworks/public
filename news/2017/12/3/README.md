@@ -31,7 +31,7 @@ _Context: South Korea, Yeongheung Island_
 ### [Venezuelan President Nicolas Maduro announces the creation of the petro cryptocurrency in a bid to ease the country's ongoing socioeconomic crisis. ](/news/2017/12/3/venezuelan-president-nicola-s-maduro-announces-the-creation-of-the-petro-cryptocurrency-in-a-bid-to-ease-the-country-s-ongoing-socioeconomic.md)
 _Context: Crisis in Venezuela (2012-present), Nicolas Maduro, Venezuela, cryptocurrency, petro_
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [The Royal Saudi Air Force bombs Houthi positions in southern Sana'a in support of Ali Abdullah Saleh-headed General People's Congress. ](/news/2017/12/3/the-royal-saudi-air-force-bombs-houthi-positions-in-southern-sana-a-in-support-of-ali-abdullah-saleh-headed-general-people-s-congress.md)
 Aircraft from the Saudi-led coalition bombed Houthi positions in Sanaa overnight on Sunday, residents and local media said, aiming to shore up supporters of former Yemeni president Ali Abdullah Saleh as they battle the Iran-aligned Houthi group.
 

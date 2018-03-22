@@ -7,7 +7,7 @@ Formats: [HTML](2007/07/10/index.html)  [JSON](2007/07/10/index.json)  [XML](200
 ### [ A Tamil man from Sydney is charged with multiple terrorism charges over alleged links with the Tamil Tigers. ](/news/2007/07/10/a-tamil-man-from-sydney-is-charged-with-multiple-terrorism-charges-over-alleged-links-with-the-tamil-tigers.md)
 _Context: Sri Lankan Tamil, Sydney, Tamil Tigers, terrorism_
 
-##### China
+##### Chinese
 ### [ China executes the former head of the State Food and Drug Association Zheng Xiaoyu for corruption. ](/news/2007/07/10/china-executes-the-former-head-of-the-state-food-and-drug-association-zheng-xiaoyu-for-corruption.md)
 China executed the former head of its State Food and Drug Administration on Tuesday, the official Xinhua News Agency reported.
 
@@ -17,11 +17,11 @@ _Context: Prime Minister, Thailand, Thaksin Shinawatra_
 
 ##### Captive Nations Week
 ### [ In observance of Captive Nations Week, there was a brief ceremony and laying of a wreath today at the Victims of Communism Memorial, Massachusetts and New Jersey Avenues, NW, Washington, D.C.. On 10 July, George W. Bush issued a Proclamation, designating July 15 through 21 as Captive Nations Week and called upon the American people to reaffirm the country's "commitment to all those seeking liberty, justice and self-determination." This year marks the 49th observance of Captive Nations Week. ](/news/2007/07/10/in-observance-of-captive-nations-week-there-was-a-brief-ceremony-and-laying-of-a-wreath-today-at-the-victims-of-communism-memorial-massac.md)
-_Context: 10 July, Captive Nations Week, Communist, George W. Bush, Massachusetts, Proclamation, U.S., Washington, D.C., self-determination_
+_Context: 10 July, Captive Nations Week, Communist, George W. Bush, Massachusetts, Proclamation, United States, Washington, D.C., self-determination_
 
 ##### Simn Trinidad
 ### [ Simn Trinidad, a high-ranking member of the Revolutionary Armed Forces of Colombia, is found guilty of conspiracy to hold three Americans hostage by a U.S. court. ](/news/2007/07/10/simon-trinidad-a-high-ranking-member-of-the-revolutionary-armed-forces-of-colombia-is-found-guilty-of-conspiracy-to-hold-three-americans.md)
-_Context: Revolutionary Armed Forces of Colombia, Simn Trinidad, U.S._
+_Context: Revolutionary Armed Forces of Colombia, Simn Trinidad, United States_
 
 ##### Julian Moti
 ### [ Julian Moti is appointed as the Attorney-General of the Solomon Islands despite being wanted in Australia on child sex charges. ](/news/2007/07/10/julian-moti-is-appointed-as-the-attorney-general-of-the-solomon-islands-despite-being-wanted-in-australia-on-child-sex-charges.md)
@@ -69,7 +69,7 @@ _Context: Mexico, Mexico's Secretary of the Interior, People's Revolutionary Arm
 
 ##### President
 ### [ President Luiz Incio Lula da Silva announces plans to build a nuclear-powered submarine to patrol the waters off Brazil's coast at a cost of US$500 million. ](/news/2007/07/10/president-luiz-inacio-lula-da-silva-announces-plans-to-build-a-nuclear-powered-submarine-to-patrol-the-waters-off-brazil-s-coast-at-a-cost.md)
-_Context: $, Brazil, Luiz Incio Lula da Silva, nuclear submarine, president_
+_Context: Brazil, Luiz Incio Lula da Silva, US$, nuclear submarine, president_
 
 ## [Previous Day...](/news/2007/07/9/index.md)
 

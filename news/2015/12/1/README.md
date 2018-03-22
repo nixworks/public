@@ -23,7 +23,7 @@ The court convicted U.S. Marine Joseph Scott Pemberton of the lesser charge of h
 ### [The U.S. Health and Human Services Department's Office of Refugee Resettlement notifies all 50 states that if they deny services to any group of refugees, states may risk losing resettlement funding altogether. More than half of the nation's governors have said they will not accept Syrian refugees in their states. ](/news/2015/12/1/the-u-s-health-and-human-services-departmentas-office-of-refugee-resettlement-notifies-all-50-states-that-if-they-deny-services-to-any-gr.md)
 States risk losing all resettlement funding if they try to pick and choose who to let in.
 
-##### U.S.
+##### United States
 ### [The United States Centers for Disease Control announces the number of people newly diagnosed with diabetes declined in 2014 for the fifth consecutive year. Experts do not know whether efforts to prevent diabetes are finally started to work, or if the disease has simply peaked in the population. ](/news/2015/12/1/the-united-states-centers-for-disease-control-announces-the-number-of-people-newly-diagnosed-with-diabetes-declined-in-2014-for-the-fifth-co.md)
 The number of people being diagnosed with diabetes has been on the decline since 2009, after soaring for decades. Doctors say people may be changing their eating and exercise habits for the better.
 
@@ -59,7 +59,7 @@ Five hurt in explosion in industrial and residential area during evening rush ho
 ### [U. N. attack helicopters launch strikes against positions of Allied Democratic Forces. This comes a day after a series of clashes between rebels and soldiers in a town in eastern Congo killed at least 30 people. ](/news/2015/12/1/u-n-attack-helicopters-launch-strikes-against-positions-of-allied-democratic-forces-this-comes-a-day-after-a-series-of-clashes-between-re.md)
 Kinshasa (AFP) - Fierce fighting between UN peacekeepers and Ugandan rebels raged in the restive east of the Democratic Republic of Congo on Tuesday, a day after a deadly attack by the rebel group.
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [A major push by Yemen-based Houthi forces into the kingdom's southern Najran Region kills dozens of Houthi fighters. The Houthi-run Saba News Agency says that Houthi fighters have seized three Saudi military outposts near the city of Najran, destroying several armored vehicles, including two U.S.-made M1 Abrams tanks and three Bradley vehicles. ](/news/2015/12/1/a-major-push-by-yemen-based-houthi-forces-into-the-kingdom-s-southern-najran-region-kills-dozens-of-houthi-fighters-the-houthi-run-saba-new.md)
 Dozens of Yemeni Houthi fighters were killed during an assault on the border with Saudi Arabia, residents and Saudi state television said on Tuesday, in what they described as a major push to try to capture territory inside the kingdom.
 

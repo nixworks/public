@@ -43,7 +43,7 @@ _Context: Indonesia, Russian passenger jet that crashed, Sukhoi Superjet 100_
 ### [An Air India industrial dispute escalates, with over 20 flights cancelled. ](/news/2012/05/10/an-air-india-industrial-dispute-escalates-with-over-20-flights-cancelled.md)
 _Context: Air India, industrial dispute_
 
-##### United Kingdom
+##### UK
 ### [As many as 400,000 public sector workers in the United Kingdom resolve to stage a 24-hour mass strike in protest against planned pension cuts. ](/news/2012/05/10/as-many-as-400-000-public-sector-workers-in-the-united-kingdom-resolve-to-stage-a-24-hour-mass-strike-in-protest-against-planned-pension-cut.md)
 Public sector workers are taking part in a 24-hour UK-wide strike over pensions, but the government insists it has made them a &quot;generous offer&quot;.
 

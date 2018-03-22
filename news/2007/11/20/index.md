@@ -3,9 +3,9 @@ Formats: [HTML](2007/11/20/index.html)  [JSON](2007/11/20/index.json)  [XML](200
 
 ## [2007-11-20](/news/2007/11/20/index.md)
 
-##### United Kingdom
+##### UK
 ### [ The UK's HM Revenue and Customs admits that it has lost two computer discs which contained data, including bank details and National Insurance numbers, about every family with a child under 16 in the country. ](/news/2007/11/20/the-uk-s-hm-revenue-and-customs-admits-that-it-has-lost-two-computer-discs-which-contained-data-including-bank-details-and-national-insura.md)
-_Context: 2007 UK child benefit data scandal, HM Revenue and Customs, National Insurance, United Kingdom_
+_Context: 2007 UK child benefit data scandal, HM Revenue and Customs, National Insurance, UK_
 
 ##### United Nations
 ### [ The United Nations reduces its estimate of how many people are infected with HIV in 2007 from nearly 40 million to 33 million. ](/news/2007/11/20/the-united-nations-reduces-its-estimate-of-how-many-people-are-infected-with-hiv-in-2007-from-nearly-40-million-to-33-million.md)
@@ -13,7 +13,7 @@ _Context: HIV, United Nations_
 
 ##### Manouchehr Mottaki
 ### [ Manouchehr Mottaki, the Iranian Minister of Foreign Affairs, announces Iran has agreed to a new round of talks about Iraq with the United States. ](/news/2007/11/20/manouchehr-mottaki-the-iranian-minister-of-foreign-affairs-announces-iran-has-agreed-to-a-new-round-of-talks-about-iraq-with-the-united-s.md)
-_Context: Iran, Iraq, Manouchehr Mottaki, Minister of Foreign Affairs, U.S._
+_Context: Iran, Iraq, Manouchehr Mottaki, Minister of Foreign Affairs, United States_
 
 ##### Twelve days earlier
 ### [ The death toll from the 2007 Zasyadko mine disaster rises to at least 90. ](/news/2007/11/20/the-death-toll-from-the-2007-zasyadko-mine-disaster-rises-to-at-least-90.md)

@@ -7,7 +7,7 @@ Formats: [HTML](2012/04/28/index.html)  [JSON](2012/04/28/index.json)  [XML](201
 ### [Malaysian police use tear gas and water cannon to disperse thousands of protesters gathered in Kuala Lumpur calling for free and fair elections. ](/news/2012/04/28/malaysian-police-use-tear-gas-and-water-cannon-to-disperse-thousands-of-protesters-gathered-in-kuala-lumpur-calling-for-free-and-fair-electi.md)
 At least 25,000 activists took to the streets on Saturday to call for free and fair elections, and were met by police who fired tear gas at some demonstrators who broke through barriers.
 
-##### China
+##### Chinese
 ### [Blind Chinese human rights activist Chen Guangcheng &ndash; who fled from house arrest &ndash; reportedly takes refuge in the U.S. embassy in Beijing. ](/news/2012/04/28/blind-chinese-human-rights-activist-chen-guangcheng-ndash-who-fled-from-house-arrest-ndash-reportedly-takes-refuge-in-the-u-s-embassy-i.md)
 Supporters of blind legal advocate Chen Guangcheng believe he is in the US embassy after escape from home imprisonment.
 

@@ -7,7 +7,7 @@ Formats: [HTML](2009/10/15/index.html)  [JSON](2009/10/15/index.json)  [XML](200
 ### [ A worldwide media circus surrounds an incident in which a six-year-old boy is alleged to be flying in a homemade hot-air balloon; the boy was later found safe at home. ](/news/2009/10/15/a-worldwide-media-circus-surrounds-an-incident-in-which-a-six-year-old-boy-is-alleged-to-be-flying-in-a-homemade-hot-air-balloon-the-boy-w.md)
 _Context: balloon boy hoax, media circus_
 
-##### Norway
+##### Norwegian
 ### [ Norwegian pop trio a-ha announce they are to split after 25 years together. ](/news/2009/10/15/norwegian-pop-trio-a-ha-announce-they-are-to-split-after-25-years-together.md)
 A-Ha, the Norwegian pop music trio, are to split following a farewell tour next year, it has been announced.
 
@@ -43,9 +43,9 @@ _Context: 2008-2009 Gaza War, Gaza Strip, Israel, Palestinians, UN_
 ### [ North Korea accuses South Korea of intruding into its territorial waters, further raising tensions on the Korean Peninsula. ](/news/2009/10/15/north-korea-accuses-south-korea-of-intruding-into-its-territorial-waters-further-raising-tensions-on-the-korean-peninsula.md)
 _Context: Korean Peninsula, North Korea, South Korea, territorial waters_
 
-##### Norway
+##### Norwegian
 ### [ Three of the five members of the Norwegian Nobel Committee initially argued against awarding U.S. President Barack Obama the 2009 Nobel Peace Prize. ](/news/2009/10/15/three-of-the-five-members-of-the-norwegian-nobel-committee-initially-argued-against-awarding-u-s-president-barack-obama-the-2009-nobel-pea.md)
-_Context: 2009 Nobel Peace Prize, Barack Obama, Norway_
+_Context: 2009 Nobel Peace Prize, Barack Obama, Norwegian_
 
 ##### Burma
 ### [ Burma and Bangladesh send warships to a disputed area in the Bay of Bengal 50 nmi west of St. Martin's Island. ](/news/2009/10/15/burma-and-bangladesh-send-warships-to-a-disputed-area-in-the-bay-of-bengal-50-nmi-west-of-st-martin-s-island.md)

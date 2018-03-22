@@ -13,7 +13,7 @@ _Context: Anbal Acevedo Vil, Puerto Rico_
 
 ##### 2004 Indian Ocean earthquake
 ### [ Global tsunami aid donations exceed USD 2 billion (EUR 1.5 billion). ](/news/2005/01/2/global-tsunami-aid-donations-exceed-usd-2-billion-eur-1-5-billion.md)
-_Context: $, 2004 Indian Ocean earthquake, EUR_
+_Context: 2004 Indian Ocean earthquake, EUR, US$_
 
 ## [Previous Day...](/news/2005/01/1/index.md)
 

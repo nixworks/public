@@ -11,7 +11,7 @@ _Context: London, UK Athletics, Usain Bolt_
 ### [Controversial French footballer Thierry Henry moves to a team in the United States. ](/news/2010/07/14/controversial-french-footballer-thierry-henry-moves-to-a-team-in-the-united-states.md)
 Red Bull New York signed French forward Thierry Henry to a multi-year contract as its second designated player, the Major League Soccer club announced on Wednesday.
 
-##### United Kingdom
+##### UK
 ### [The United Kingdom announces its refusal to issue visas to a lacrosse team representing the Iroquois Confederacy, whose departure has been delayed since Friday, after the United States Department of State earlier in the day cleared the team's departure with tribal passports. The UK stated that it will only recognise passports from the United States or Canada. ](/news/2010/07/14/the-united-kingdom-announces-its-refusal-to-issue-visas-to-a-lacrosse-team-representing-the-iroquois-confederacy-whose-departure-has-been-d.md)
 The Iroquois national lacrosse team received permission on Wednesday from the State Department to travel on tribal passports, but England refused to grant visas.
 
@@ -135,9 +135,9 @@ A former senator from the Pakistani province of Balochistan is shot dead in the 
 ### [India's Home Secretary G. K. Pillai states Pakistan's intelligence agency Inter-Services Intelligence (ISI) co-ordinated the 2008 Mumbai attacks. ](/news/2010/07/14/india-s-home-secretary-g-k-pillai-states-pakistan-s-intelligence-agency-inter-services-intelligence-isi-co-ordinated-the-2008-mumbai-att.md)
 _Context: 2008 Mumbai attacks, G. K. Pillai, India, Inter-Services Intelligence, Pakistan_
 
-##### U.S.
+##### United States
 ### [The United States discusses the arrest of Bradley Manning, accused of providing secret information about US military corruption to Wikileaks. ](/news/2010/07/14/the-united-states-discusses-the-arrest-of-bradley-manning-accused-of-providing-secret-information-about-us-military-corruption-to-wikileaks.md)
-_Context: U.S., Wikileaks, arrest of Bradley Manning_
+_Context: United States, Wikileaks, arrest of Bradley Manning_
 
 ##### Chlorine
 ### [More than 60 people are hospitalised after a suspected chlorine gas leak in Mumbai. ](/news/2010/07/14/more-than-60-people-are-hospitalised-after-a-suspected-chlorine-gas-leak-in-mumbai.md)

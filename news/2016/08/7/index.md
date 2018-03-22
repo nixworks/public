@@ -9,7 +9,7 @@ A clear majority of Thai referendum voters back a draft constitution written by 
 
 ##### Iran
 ### [Iran confirms it has executed nuclear scientist Shahram Amiri by hanging for treason. Iranian judiciary spokesman Gholam-Hossein Mohseni-Eje'i says Amiri was charged with spying for enemies of the Islamic Republic of Iran and that U.S. officials had been unaware that Iran was monitoring Amiri's efforts for the West. His body was returned to his family with rope marks around his neck. ](/news/2016/08/7/iran-confirms-it-has-executed-nuclear-scientist-shahram-amiri-by-hanging-for-treason-iranian-judiciary-spokesman-gholam-hossein-mohseni-eje.md)
-_Context: Gholam-Hossein Mohseni-Eje'i, Iran, Shahram Amiri, U.S., nuclear program_
+_Context: Gholam-Hossein Mohseni-Eje'i, Iran, Shahram Amiri, United States, nuclear program_
 
 ##### Oscar Pistorius
 ### [Oscar Pistorius is admitted to a Pretoria hospital after sustaining injuries to his wrists. Blades are subsequently found in a search of his cell. ](/news/2016/08/7/oscar-pistorius-is-admitted-to-a-pretoria-hospital-after-sustaining-injuries-to-his-wrists-blades-are-subsequently-found-in-a-search-of-his.md)

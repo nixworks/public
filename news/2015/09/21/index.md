@@ -59,7 +59,7 @@ _Context: Basilica Santuario Nacional de Nuestra Senora de la Caridad del Cobre,
 ### [Gunmen abduct a Norwegian resort manager, two Canadians, and a Filipino from a resort in the southern Philippines. ](/news/2015/09/21/gunmen-abduct-a-norwegian-resort-manager-two-canadians-and-a-filipino-from-a-resort-in-the-southern-philippines.md)
 _Context: Canadian, Filipino, Moro conflict, Norwegian, Philippines_
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [A Saudi-led military coalition bombardment in the Yemeni capital, Sana'a, kills at least 50 people. ](/news/2015/09/21/a-saudi-led-military-coalition-bombardment-in-the-yemeni-capital-sana-a-kills-at-least-50-people.md)
 Air strikes by a Saudi-led coalition killed 50 people in Yemen when they hit a Houthi-held security compound in the north and a house in Sanaa, medical sources and officials said, in an escalating campaign that has claimed increasing civilian lives.
 

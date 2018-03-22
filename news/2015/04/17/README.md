@@ -11,7 +11,7 @@ Until this year, scientists hadn&#39;t seen the Bouvier&#39;s red colobus monkey
 ### [Francis Eugene Cardinal George, who served as Archbishop Emeritus of Chicago and as President of the United States Conference of Catholic Bishops (USCCB), dies after a multi-year battle with bladder and kidney cancer at age 78. ](/news/2015/04/17/francis-eugene-cardinal-george-who-served-as-archbishop-emeritus-of-chicago-and-as-president-of-the-united-states-conference-of-catholic-bi.md)
 News of Cardinal George&apos;s death on Friday brought reaction from fellow religious leaders, political leaders and others.
 
-##### China
+##### Chinese
 ### [Satellite images show that the China is rapidly building a runway on the Spratly Islands in the disputed South China Sea. ](/news/2015/04/17/satellite-images-show-that-the-china-is-rapidly-building-a-runway-on-the-spratly-islands-in-the-disputed-south-china-sea.md)
 Satellite images show China is making progress on building an airstrip on a reef in disputed territory in the South China Sea, a report says.
 

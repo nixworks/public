@@ -73,7 +73,7 @@ Four policemen face prosecution for actual bodily harm on a terror suspect in Lo
 
 ##### Mohammad-Reza Rahimi
 ### [Mohammad-Reza Rahimi, the Vice-President of Iran describes inhabitants of the United Kingdom as "not human" and "a bunch of idiots run by a mafia". He also describes Australians as "a bunch of cattlemen" and says that Koreans "need to be slapped". ](/news/2010/08/12/mohammad-reza-rahimi-the-vice-president-of-iran-describes-inhabitants-of-the-united-kingdom-as-not-human-and-a-bunch-of-idiots-run-by-a.md)
-_Context: Australia, Iran, Mohammad-Reza Rahimi, South Korea, United Kingdom, Vice President of Iran, cattlemen, mafia_
+_Context: Australia, Iran, Mohammad-Reza Rahimi, South Korea, UK, Vice President of Iran, cattlemen, mafia_
 
 ##### Tamil
 ### [A ship carrying Tamil asylum seekers who are travelling from Sri lanka nears Canada. ](/news/2010/08/12/a-ship-carrying-tamil-asylum-seekers-who-are-travelling-from-sri-lanka-nears-canada.md)

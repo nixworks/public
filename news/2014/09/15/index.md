@@ -29,7 +29,7 @@ _Context: Microsoft, Minecraft, Mojang, Swede_
 
 ##### Cognizant
 ### [Information technology company Cognizant agrees to buy health care information company TriZetto Corporation for US$2.7 billion. ](/news/2014/09/15/information-technology-company-cognizant-agrees-to-buy-health-care-information-company-trizetto-corporation-for-us-2-7-billion.md)
-_Context: $, Cognizant_
+_Context: Cognizant, US$_
 
 ##### Donetsk
 ### [Heavy shelling on the city of Donetsk, Ukraine, leaves 6 people dead and 15 wounded. ](/news/2014/09/15/heavy-shelling-on-the-city-of-donetsk-ukraine-leaves-6-people-dead-and-15-wounded.md)

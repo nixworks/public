@@ -5,7 +5,7 @@ Formats: [HTML](2008/06/28/index.html)  [JSON](2008/06/28/index.json)  [XML](200
 
 ##### Philippines
 ### [ Filipino boxer Manny Pacquiao beats the American David Daz to win the WBC world lightweight title. Pacquiao becomes the first Asian boxer to win four titles in four different weight divisions. ](/news/2008/06/28/filipino-boxer-manny-pacquiao-beats-the-american-david-diaz-to-win-the-wbc-world-lightweight-title-pacquiao-becomes-the-first-asian-boxer.md)
-_Context: David Daz, Manny Pacquiao, Philippines, U.S., WBC_
+_Context: David Daz, Manny Pacquiao, Philippines, United States, WBC_
 
 ##### Pakistan
 ### [ Pakistan commences a military operation against Taliban militants in the Khyber Agency near Peshawar. ](/news/2008/06/28/pakistan-commences-a-military-operation-against-taliban-militants-in-the-khyber-agency-near-peshawar.md)
@@ -25,7 +25,7 @@ _Context: Community Assembly of Kosovo and Metohija, Kosovo, Serbian population_
 
 ##### South Korea
 ### [ Police in South Korea use water cannons to disperse thousands of people protesting in Seoul about the resumption of beef imports from the United States. ](/news/2008/06/28/police-in-south-korea-use-water-cannons-to-disperse-thousands-of-people-protesting-in-seoul-about-the-resumption-of-beef-imports-from-the-u.md)
-_Context: Seoul, South Korea, U.S., beef imports, water cannon_
+_Context: Seoul, South Korea, United States, beef imports, water cannon_
 
 ##### Paris
 ### [ Thousands of people rally in Paris in support of the European Union removing the People's Mujahedin of Iran from its list of terrorist organisations. ](/news/2008/06/28/thousands-of-people-rally-in-paris-in-support-of-the-european-union-removing-the-people-s-mujahedin-of-iran-from-its-list-of-terrorist-orga.md)
@@ -33,7 +33,7 @@ _Context: European Union, Paris, People's Mujahedin of Iran, terrorist organisat
 
 ##### Guizhou
 ### [ Thousands of people riot in Guizhou province in southern China following the death of a girl and a perceived government coverup. ](/news/2008/06/28/thousands-of-people-riot-in-guizhou-province-in-southern-china-following-the-death-of-a-girl-and-a-perceived-government-coverup.md)
-_Context: China, Guizhou_
+_Context: Chinese, Guizhou_
 
 ##### Los Angeles Dodgers
 ### [ The Los Angeles Dodgers become only the fifth team in modern major league baseball history to win a game in which they didn't get a hit, defeating the Anaheim Angels 1-0. ](/news/2008/06/28/the-los-angeles-dodgers-become-only-the-fifth-team-in-modern-major-league-baseball-history-to-win-a-game-in-which-they-didn-t-get-a-hit-de.md)

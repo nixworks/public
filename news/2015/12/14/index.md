@@ -61,7 +61,7 @@ Contrary to the initial findings of the Egyptian probe into the plane crash, Rus
 
 ##### Yemeni Civil War (2015)
 ### [Two senior army commanders from Saudi Arabia and the United Arab Emirates are killed, including the head of the Saudi Special forces in Yemen, Colonel Abdullah al-Sahyan, along with dozens of Saudi, Emirati, Sudanese and Yemeni coalition troops in a OTR-21 Tochka missile attack by Houthi forces on their base near the city of Taiz in southwestern Yemen. ](/news/2015/12/14/two-senior-army-commanders-from-saudi-arabia-and-the-united-arab-emirates-are-killed-including-the-head-of-the-saudi-special-forces-in-yeme.md)
-_Context: Houthi, OTR-21 Tochka, Saudi, Saudi Arabia, Saudi-led intervention in Yemen, Sudanese military, Taiz, United Arab Emirates, Yemen, Yemeni, Yemeni Civil War (2015), forces_
+_Context: Houthis, OTR-21 Tochka, Saudi, Saudi Arabia, Saudi Arabian-led intervention in Yemen, Sudanese military, Taiz, United Arab Emirates, Yemen, Yemeni, Yemeni Civil War (2015), forces_
 
 ## [Previous Day...](/news/2015/12/13/index.md)
 

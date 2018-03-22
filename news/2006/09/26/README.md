@@ -31,9 +31,9 @@ _Context: George W. Bush administration, Islamic world, Islamist, War in Iraq, c
 ### [ In the United States, a jury rules in favor of the pharmaceutical corporation Merck & Co. Inc. in a court case related to the painkiller Vioxx. The jury rejects claims that Vioxx caused the plaintiff's heart attack. ](/news/2006/09/26/in-the-united-states-a-jury-rules-in-favor-of-the-pharmaceutical-corporation-merck-co-inc-in-a-court-case-related-to-the-painkiller-vi.md)
 _Context: Merck & Co. Inc., Vioxx, heart attack, jury, plaintiff_
 
-##### United Kingdom
+##### UK
 ### [ UK Prime Minister Tony Blair makes his final speech at a Labour Party Conference. ](/news/2006/09/26/uk-prime-minister-tony-blair-makes-his-final-speech-at-a-labour-party-conference.md)
-_Context: Labour Party, Prime Minister, Tony Blair, United Kingdom_
+_Context: Labour Party, Prime Minister, Tony Blair, UK_
 
 ##### Dhaka
 ### [ Riots break in Dhaka, Bangladesh, due to frequent power outages. Hundreds are injured in confrontations with riot police .](/news/2006/09/26/riots-break-in-dhaka-bangladesh-due-to-frequent-power-outages-hundreds-are-injured-in-confrontations-with-riot-police.md)

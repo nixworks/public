@@ -23,9 +23,9 @@ _Context: Human rights in Iraq, Iraq, Marine, electric shock, mock execution_
 ### [ Sprint Corporation announces a US$35 billion deal to acquire Nextel Communications. With about $40 billion in combined yearly revenue the resulting company (called Sprint Nextel) will be the third largest wireless telephone service provider in the U.S.. ](/news/2004/12/15/sprint-corporation-announces-a-us-35-billion-deal-to-acquire-nextel-communications-with-about-40-billion-in-combined-yearly-revenue-the-r.md)
 Nextel Communications Inc. and Sprint Corp. &#160;have agreed to merge in a deal that would create the nation&#8217;s third largest wireless telephone provider
 
-##### $
+##### US$
 ### [ A US$85 million test of the U.S. National Missile Defense system by the Missile Defense Agency is aborted when an unknown anomaly is detected before the launch of an interceptor missile in the Marshall Islands, 16 minutes after the launch of the target from Kodiak Island, Alaska. It is the first test since a previous failed test in 2002. As in 2002, the Bush administration abandons plans to activate the system by the end of the year, and projects its activation in early 2005. ](/news/2004/12/15/a-us-85-million-test-of-the-u-s-national-missile-defense-system-by-the-missile-defense-agency-is-aborted-when-an-unknown-anomaly-is-detect.md)
-_Context: $, George W. Bush, Kodiak Island, Marshall Islands, Missile Defense Agency, National Missile Defense, missile_
+_Context: George W. Bush, Kodiak Island, Marshall Islands, Missile Defense Agency, National Missile Defense, US$, missile_
 
 ##### Albanians
 ### [ An armed group of young ethnic Albanians, allegedly former NLA guerrilla members, seal off the village of Kondovo, Macedonia, a suburb of the capital Skopje, citing poor conditions and repression by state authorities. The fledgling multi-ethnic governing coalition plays down the incident stating it is a local problem stemming from the slow implementation of the peace agreement after the 2001 civil war, while some opposition parties call for "strong action". ](/news/2004/12/15/an-armed-group-of-young-ethnic-albanians-allegedly-former-nla-guerrilla-members-seal-off-the-village-of-kondovo-macedonia-a-suburb-of-t.md)

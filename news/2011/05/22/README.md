@@ -81,9 +81,9 @@ Two directors who made headlines at the Cannes Film Festival for their conduct o
 ### [The Taliban warn that Kazakhstan's decision to send troops to Afghanistan will have "severe consequences". ](/news/2011/05/22/the-taliban-warn-that-kazakhstan-s-decision-to-send-troops-to-afghanistan-will-have-severe-consequences.md)
 _Context: Afghanistan, Kazakhstan, Taliban_
 
-##### United Kingdom
+##### UK
 ### [The UK's military operation in Iraq will officially end at midnight, after the Royal Navy completes its training of Iraqi sailors. ](/news/2011/05/22/the-uk-s-military-operation-in-iraq-will-officially-end-at-midnight-after-the-royal-navy-completes-its-training-of-iraqi-sailors.md)
-_Context: Iraq, Royal Navy, United Kingdom, military operation_
+_Context: Iraq, Royal Navy, UK, military operation_
 
 ##### Pakistan Air Force
 ### [Three explosions rock a Pakistan Air Force base in the southern city of Karachi. ](/news/2011/05/22/three-explosions-rock-a-pakistan-air-force-base-in-the-southern-city-of-karachi.md)

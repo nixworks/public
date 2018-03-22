@@ -41,7 +41,7 @@ _Context: Albert II, Prince of Monaco, Charlene, Princess of Monaco, Palace of M
 
 ##### International Whaling Commission
 ### [The International Whaling Commission does not reach agreement on curbing whaling by Japan, Norway and Iceland in a meeting in Agadir, Morocco. ](/news/2010/06/23/the-international-whaling-commission-does-not-reach-agreement-on-curbing-whaling-by-japan-norway-and-iceland-in-a-meeting-in-agadir-morocc.md)
-_Context: Agadir, Iceland, International Whaling Commission, Japan, Morocco, Norway, whaling_
+_Context: Agadir, Iceland, International Whaling Commission, Japan, Morocco, Norwegian, whaling_
 
 ##### Chennai International Airport
 ### [1 person is killed when a crane crashes at Chennai International Airport, Chennai, India. ](/news/2010/06/23/1-person-is-killed-when-a-crane-crashes-at-chennai-international-airport-chennai-india.md)

@@ -67,7 +67,7 @@ The company behind the &quot;Girls Gone Wild&quot; video series featuring scanti
 ### [India enacts new rules designed to make it more difficult for foreign investors to use the country as a tax dodge. ](/news/2013/02/28/india-enacts-new-rules-designed-to-make-it-more-difficult-for-foreign-investors-to-use-the-country-as-a-tax-dodge.md)
 India dumped a proposal to tighten rules for overseas investors seeking to benefit from double taxation treaties after money managers said the change was too onerous and foreign funds sold the most shares in a year.
 
-##### U.S.
+##### United States
 ### [Revised data indicates that the United States economy grew 0.1% in the fourth quarter of 2012. ](/news/2013/02/28/revised-data-indicates-that-the-united-states-economy-grew-0-1-in-the-fourth-quarter-of-2012.md)
 Gross domestic product grew at a 0.1 percent annual rate, below the average but above the original estimate of a contraction.
 
@@ -83,7 +83,7 @@ Bombings target predominantly Shia Muslim areas in and around Baghdad against a 
 ### [At least 35 people are killed across Bangladesh in violent demonstrations sparked when Islamic political leader Delwar Hossain Sayeedi was sentenced to death for war crimes. ](/news/2013/02/28/at-least-35-people-are-killed-across-bangladesh-in-violent-demonstrations-sparked-when-islamic-political-leader-delwar-hossain-sayeedi-was-s.md)
 Delawar Hossain Sayedee, a top leader of a fundamentalist Islamic political party, was convicted of committing crimes against humanity.
 
-##### U.S.
+##### United States
 ### [The United States announces that it will provide $60 million of food and medical aid, but not weapons, to rebel fighters. ](/news/2013/02/28/the-united-states-announces-that-it-will-provide-60-million-of-food-and-medical-aid-but-not-weapons-to-rebel-fighters.md)
 Secretary of State John Kerry says the US will provide &quot;non-lethal&quot; support to Syrian rebels for the first time, as well as extra aid to the opposition.
 

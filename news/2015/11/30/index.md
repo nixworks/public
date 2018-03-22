@@ -49,7 +49,7 @@ _Context: 2015 United Nations Climate Change Conference, Paris, greenhouse gas_
 
 ##### South Korea
 ### [South Korea's parliament approves a free trade pact with China after opposition lawmakers, concerned that deal that would hurt agriculture and fisheries, secured a $1.4 billion relief package for farmers. ](/news/2015/11/30/south-korea-s-parliament-approves-a-free-trade-pact-with-china-after-opposition-lawmakers-concerned-that-deal-that-would-hurt-agriculture-a.md)
-_Context: China, South Korea, agriculture, fisheries, free trade, parliamentary review_
+_Context: Chinese, South Korea, agriculture, fisheries, free trade, parliamentary review_
 
 ##### Martyrs' Day (United Arab Emirates)
 ### [Martyrs' Day (United Arab Emirates) is being observed in United Arab Emirates as Commemoration Day this year on November 30, 2015, recognising the sacrifices and dedication of Emirati martyrs who have given their life in the UAE and abroad in the field of civil, military and humanitarian service. ](/news/2015/11/30/martyrs-day-united-arab-emirates-is-being-observed-in-united-arab-emirates-as-commemoration-day-this-year-on-november-30-2015-recognisi.md)
@@ -59,7 +59,7 @@ _Context: Emirati martyrs, Martyrs' Day (United Arab Emirates), United Arab Emir
 ### [A UNICEF report finds AIDS is now the leading cause of death for African teenagers and the second most common killer for adolescents across the globe. While the Asia Pacific region has seen a 31 percent drop in new HIV infections, and 28 percent decline in AIDS-related deaths, the estimated number of adolescents dying of AIDS in the region has more than doubled since 2005. Tomorrow is World Aids Day. ](/news/2015/11/30/a-unicef-report-finds-aids-is-now-the-leading-cause-of-death-for-african-teenagers-and-the-second-most-common-killer-for-adolescents-across.md)
 By Alisa TangBANGKOK (Thomson Reuters Foundation) - The estimated number of adolescents dying of AIDS in the Asia Pacific region has more than double
 
-##### China
+##### Chinese
 ### [The capitals of the world's two most populous nations, China and India, are blanketed in hazardous, choking smog. Beijing, on the second-highest pollution alert, is closing highways, halting or suspending construction while warning residents to stay indoors. The U.S. New Delhi embassy's monitoring station recorded an air quality index of 372, putting air pollution levels into "hazardous" territory. No action by the New Delhi government. ](/news/2015/11/30/the-capitals-of-the-worldas-two-most-populous-nations-china-and-india-are-blanketed-in-hazardous-choking-smog-beijing-on-the-second-h.md)
 The capitals of the world&rsquo;s two most populous nations, China and India, were blanketed in hazardous, choking smog on Monday as climate change talks began in Paris, where...
 
@@ -67,7 +67,7 @@ The capitals of the world&rsquo;s two most populous nations, China and India, we
 ### [One person dies and at least 31 are injured when students and staff at Strathmore University in Nairobi, Kenya, frantically try to escape after hearing nearby gunshots during an "approved safety and security simulation drill." The Strathmore campus did not hear, before or during the test, that this was a drill. Tensions have been high at Kenyan schools since April when 139 were killed during a terrorist attack at Garissa University College. Many Kenyan universities have held security drills; six were hospitalized at the latest at Kenyatta University. ](/news/2015/11/30/one-person-dies-and-at-least-31-are-injured-when-students-and-staff-at-strathmore-university-in-nairobi-kenya-frantically-try-to-escape-af.md)
 A woman has died and at least 31 others have been hospitalised after panic spread during a security exercise at Strathmore University in the Kenyan capital Nairobi.
 
-##### U.S.
+##### United States
 ### [The United States Federal Reserve Board approves a rule prohibiting the government from extending emergency loans to "too big to fail" companies, a practice deemed essential during the global financial crisis of 2008 and 2009. ](/news/2015/11/30/the-united-states-federal-reserve-board-approves-a-rule-prohibiting-the-government-from-extending-emergency-loans-to-too-big-to-fail-compa.md)
 The Federal Reserve Board approved a rule prohibiting the government from extending emergency loans to &quot;too big to fail&quot; companies.
 
@@ -79,13 +79,13 @@ _Context: China, International Monetary Fund, benchmark currency basket, yuan_
 ### [Canadian BlackBerry Limited announces plans to shut down operations in Pakistan at year's end because it cannot comply with the Pakistani government's monitoring orders which would result in a massive invasion of user privacy. ](/news/2015/11/30/canadian-blackberry-limited-announces-plans-to-shut-down-operations-in-pakistan-at-year-s-end-because-it-cannot-comply-with-the-pakistani-go.md)
 _Context: BlackBerry Limited, Canada, Pakistan, government, user privacy_
 
-##### U.S.
+##### United States
 ### [Responding to reports, the American Tribune Publishing Co. states it is not in talks to sell the company. ](/news/2015/11/30/responding-to-reports-the-american-tribune-publishing-co-states-it-is-not-in-talks-to-sell-the-company.md)
 Tribune Publishing — owner of the Chicago Tribune, Los Angeles Times and other daily papers — denies Rupert Murdoch-fueled rumor that a sale is imminent.
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [Clashes with Yemeni forces in the kingdom's southern Jizan Region near the border with Yemen leave at least three Saudi border guards killed. ](/news/2015/11/30/clashes-with-yemeni-forces-in-the-kingdom-s-southern-jizan-region-near-the-border-with-yemen-leave-at-least-three-saudi-border-guards-killed.md)
-_Context: Jizan Region, Saudi Arabia, Saudi-led intervention in Yemen, Yemen, border guards_
+_Context: Jizan Region, Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen, border guards_
 
 ##### Syrian Civil War
 ### [The Syrian Observatory for Human Rights reports that at least 50 United States military instructors have deployed to northern Syria from Turkey and Iraq to train Kurdish forces ahead of an assault on ISIL's de facto capital Al-Raqqah. ](/news/2015/11/30/the-syrian-observatory-for-human-rights-reports-that-at-least-50-united-states-military-instructors-have-deployed-to-northern-syria-from-tur.md)

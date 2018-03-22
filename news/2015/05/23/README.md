@@ -19,13 +19,13 @@ The Senate is set to return for a rare Sunday session on May 31.
 ### [Peru declares a 60 day state of emergency in the Tambo Valley following violent protests against a mine project which has seen four deaths. ](/news/2015/05/23/peru-declares-a-60-day-state-of-emergency-in-the-tambo-valley-following-violent-protests-against-a-mine-project-which-has-seen-four-deaths.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-##### Myanmar's president's office
+##### Myanmar President
 ### [The President of Myanmar, Thein Sein, signs the Population Control Health Care Bill requiring some parents to space each child three years apart. ](/news/2015/05/23/the-president-of-myanmar-thein-sein-signs-the-population-control-health-care-bill-requiring-some-parents-to-space-each-child-three-years-a.md)
-_Context: Myanmar's president's office, Thein Sein_
+_Context: Myanmar President, Thein Sein_
 
 ##### Nigeria
 ### [Nigerian drug agents arrest senator-elect Buruji Kashamu for extradition to the United States for his alleged involvement in a drug deal 20 years ago that is claimed to be the basis for the television show "Orange is the New Black". ](/news/2015/05/23/nigerian-drug-agents-arrest-senator-elect-buruji-kashamu-for-extradition-to-the-united-states-for-his-alleged-involvement-in-a-drug-deal-20.md)
-_Context: Nigeria, Orange is the New Black, U.S._
+_Context: Nigeria, Orange is the New Black, United States_
 
 ##### Cleveland Police Department
 ### [Cleveland Police Department officer Michael Brelo is acquitted of manslaughter in relation to the 2012 deaths of Timothy Russell and Malissa Williams following a a police chase. There are multiple arrests in protests afterwards ](/news/2015/05/23/cleveland-police-department-officer-michael-brelo-is-acquitted-of-manslaughter-in-relation-to-the-2012-deaths-of-timothy-russell-and-malissa.md)
@@ -43,13 +43,13 @@ _Context: Oklahoma, Oklahoma City, Texas, flood_
 ### [An Indian heat wave claims over 200 lives with the states of Andhra Pradesh and Telangana worst affected. ](/news/2015/05/23/an-indian-heat-wave-claims-over-200-lives-with-the-states-of-andhra-pradesh-and-telangana-worst-affected.md)
 Down south in A.P., among those who succumbed to the killer heat were 40 persons in Prakasam district and 12 in Visakhapatnam. In Telangana, 28 persons died.
 
-##### China
+##### Chinese
 ### [The death toll from China's latest round of flooding rises to at least 48. ](/news/2015/05/23/the-death-toll-from-china-s-latest-round-of-flooding-rises-to-at-least-48.md)
-_Context: China_
+_Context: Chinese_
 
-##### Scotland
+##### Scottish
 ### [A memorial service is held in the Scottish capital Edinburgh for the Quintinshill rail disaster which occurred 100 years ago and claimed over 200 lives. ](/news/2015/05/23/a-memorial-service-is-held-in-the-scottish-capital-edinburgh-for-the-quintinshill-rail-disaster-which-occurred-100-years-ago-and-claimed-ove.md)
-_Context: Edinburgh, Quintinshill rail disaster, Scotland_
+_Context: Edinburgh, Quintinshill rail disaster, Scottish_
 
 ##### Eurovision Song Contest 2015
 ### [The final of the Eurovision Song Contest 2015 is held in Vienna, Austria with MCNYns Zelmerlow of Sweden winning for the song Heroes. ](/news/2015/05/23/the-final-of-the-eurovision-song-contest-2015-is-held-in-vienna-austria-with-macnyns-zelmerlapw-of-sweden-winning-for-the-song-heroes.md)

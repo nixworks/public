@@ -43,9 +43,9 @@ _Context: Azeri, journalist_
 ### [Ugandan ethics minister Simon Lokodo signs a government statement saying that it does not discriminate against homosexuals and that they are free to meet. ](/news/2012/06/22/ugandan-ethics-minister-simon-lokodo-signs-a-government-statement-saying-that-it-does-not-discriminate-against-homosexuals-and-that-they-are.md)
 _Context: Simon Lokodo, Uganda, gay_
 
-##### China
+##### Chinese
 ### [China criticizes Vietnam for passing a law that claims sovereignty of the Spratly Islands. ](/news/2012/06/22/china-criticizes-vietnam-for-passing-a-law-that-claims-sovereignty-of-the-spratly-islands.md)
-_Context: China, Spratly Islands, Vietnam_
+_Context: Chinese, Spratly Islands, Vietnam_
 
 ##### WikiLeaks
 ### [WikiLeaks editor-in-chief Julian Assange gives an interview on Australian radio as his attempt to gain political asylum in Ecuador continues. ](/news/2012/06/22/wikileaks-editor-in-chief-julian-assange-gives-an-interview-on-australian-radio-as-his-attempt-to-gain-political-asylum-in-ecuador-continues.md)

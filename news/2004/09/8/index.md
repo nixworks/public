@@ -21,7 +21,7 @@ _Context: Israel, Palestinian, U.N._
 
 ##### Russian President
 ### [ Conflict in Russia (Chechnya): Russian President Vladimir Putin's government offers 300 million rubles (USD 10 million) for information leading to the arrest of Chechen rebel leaders Shamil Basayev and Aslan Maskhadov. Maskhadov was the last democratically elected leader of Chechnya. ](/news/2004/09/8/conflict-in-russia-chechnya-russian-president-vladimir-putin-s-government-offers-300-million-rubles-usd-10-million-for-information-lea.md)
-_Context: $, Aslan Maskhadov, Chechnya, Russian President, Russian ruble, Shamil Basayev, Vladimir Putin, democratic_
+_Context: Aslan Maskhadov, Chechnya, Russian President, Russian ruble, Shamil Basayev, US$, Vladimir Putin, democratic_
 
 ## [Previous Day...](/news/2004/09/7/index.md)
 

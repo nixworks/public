@@ -13,7 +13,7 @@ _Context: Australia, Singapore, Van Tuong Nguyen, drug trafficking, executed by 
 
 ##### Kenneth Boyd
 ### [ Kenneth Boyd becomes the 1000th person to be executed in the United States since the re-introduction of capital punishment in 1976. ](/news/2005/12/2/kenneth-boyd-becomes-the-1000th-person-to-be-executed-in-the-united-states-since-the-re-introduction-of-capital-punishment-in-1976.md)
-_Context: Kenneth Boyd, U.S., capital punishment, death penalty_
+_Context: Kenneth Boyd, United States, capital punishment, death penalty_
 
 ##### Hurricane Epsilon
 ### [ Hurricane Epsilon strengthens from a tropical storm to become the record breaking fourteenth hurricane of the 2005 Atlantic hurricane season. ](/news/2005/12/2/hurricane-epsilon-strengthens-from-a-tropical-storm-to-become-the-record-breaking-fourteenth-hurricane-of-the-2005-atlantic-hurricane-seaso.md)

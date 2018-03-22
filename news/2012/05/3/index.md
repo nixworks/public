@@ -7,23 +7,23 @@ Formats: [HTML](2012/05/3/index.html)  [JSON](2012/05/3/index.json)  [XML](2012/
 ### [Haiti's Chamber of Deputies appoints Laurent Lamothe as the new Prime Minister ending a two month standoff with President Michel Martelly. ](/news/2012/05/3/haiti-s-chamber-of-deputies-appoints-laurent-lamothe-as-the-new-prime-minister-ending-a-two-month-standoff-with-president-michel-martelly.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-##### United Kingdom
+##### UK
 ### [Voters in the United Kingdom go to the polls for local elections with the opposition Labour Party expected to do well. ](/news/2012/05/3/voters-in-the-united-kingdom-go-to-the-polls-for-local-elections-with-the-opposition-labour-party-expected-to-do-well.md)
-_Context: Labour Party, United Kingdom, local elections_
+_Context: Labour Party, UK, local elections_
 
 ##### Bahrain
 ### [Bahrain's King Hamad bin Isa Al Khalifa grants new powers to parliament. ](/news/2012/05/3/bahrain-s-king-hamad-bin-isa-al-khalifa-grants-new-powers-to-parliament.md)
 Monarch gives extra powers to parliament despite criticism from opposition which says new measures are only symbolic.
 
-##### China
+##### Chinese
 ### [China, France, Russia, the United Kingdom and United States urge Iran to co-operate with the International Atomic Energy Agency. ](/news/2012/05/3/china-france-russia-the-united-kingdom-and-united-states-urge-iran-to-co-operate-with-the-international-atomic-energy-agency.md)
-_Context: China, France, IAEA, Iran, Russia, U.S., United Kingdom_
+_Context: Chinese, France, IAEA, Iran, Russia, UK, United States_
 
 ##### Malian coup d'tat
 ### [2012 Malian coup d'tat: The Economic Community of West African States pledges to send troops to Mali if the country agrees. ](/news/2012/05/3/2012-malian-coup-d-etat-the-economic-community-of-west-african-states-pledges-to-send-troops-to-mali-if-the-country-agrees.md)
 _Context: ECOWAS, Mali, Malian coup d'tat_
 
-##### China
+##### Chinese
 ### [Chinese dissident Chen Guangcheng telephones the U.S. Congress for help in his attempts to leave China with his family. ](/news/2012/05/3/chinese-dissident-chen-guangcheng-telephones-the-u-s-congress-for-help-in-his-attempts-to-leave-china-with-his-family.md)
 Chinese dissident Chen Guangcheng telephones a US Congressional hearing to plead for help in his attempts to leave China with his family.
 

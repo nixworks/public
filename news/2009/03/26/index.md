@@ -17,7 +17,7 @@ _Context: Greece, Isle of Man, Seychelles, Somali pirates, Somalia, ship_
 
 ##### Tornado
 ### [ Two tornadoes injure 24 people and damage 108 homes in Mississippi, United States. ](/news/2009/03/26/two-tornadoes-injure-24-people-and-damage-108-homes-in-mississippi-united-states.md)
-_Context: Mississippi, U.S., tornado_
+_Context: Mississippi, United States, tornado_
 
 ##### Taliban
 ### [ A Taliban suicide attack kills at least 11 people and injures 20 others in Jandola, Pakistan. ](/news/2009/03/26/a-taliban-suicide-attack-kills-at-least-11-people-and-injures-20-others-in-jandola-pakistan.md)
@@ -51,9 +51,9 @@ _Context: Andorra, Co-Prince, France, French President, Nicolas Sarkozy, bank_
 ### [ Franco-Russian mathematician Mikhail Gromov receives the 2009 Abel Prize. ](/news/2009/03/26/franco-russian-mathematician-mikhail-gromov-receives-the-2009-abel-prize.md)
 _Context: Abel Prize, France, Mikhail Gromov, Russia, mathematician_
 
-##### U.S.
+##### United States
 ### [ United States President Barack Obama announces a new military strategy for the War in North-West Pakistan and the War in Afghanistan. ](/news/2009/03/26/united-states-president-barack-obama-announces-a-new-military-strategy-for-the-war-in-north-west-pakistan-and-the-war-in-afghanistan.md)
-_Context: Afghanistan, Barack Obama, Northwestern Pakistan, Pakistan, U.S., U.S. President, War in Afghanistan (2001-present), War in North-West Pakistan, military strategy_
+_Context: Afghanistan, Barack Obama, Northwestern Pakistan, Pakistan, U.S. President, United States, War in Afghanistan (2001-present), War in North-West Pakistan, military strategy_
 
 ## [Previous Day...](/news/2009/03/25/index.md)
 

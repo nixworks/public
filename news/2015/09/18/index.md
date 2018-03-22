@@ -35,7 +35,7 @@ _Context: Japanese Prime Minister, Shinzo Abe, government, legislation, military
 ### [United States authorities announce mandatory Ebola screening will end for travelers from Liberia to five U.S. airports, effective September 21, 2015. Screening of travelers from Sierra Leone and Guinea will continue. ](/news/2015/09/18/united-states-authorities-announce-mandatory-ebola-screening-will-end-for-travelers-from-liberia-to-five-u-s-airports-effective-september.md)
 _Context: Ebola, Ebola virus cases in the United States, Ebola virus epidemic in West Africa, Guinea, Liberia, Sierra Leone, United States authorities_
 
-##### United Kingdom
+##### UK
 ### [A national alert is issued in the United Kingdom about a strain of gonorrhea that is highly drug resistant after 15 cases are reported in northern England. ](/news/2015/09/18/a-national-alert-is-issued-in-the-united-kingdom-about-a-strain-of-gonorrhea-that-is-highly-drug-resistant-after-15-cases-are-reported-in-no.md)
 A national alert has been issued after an outbreak of highly drug-resistant gonorrhoea in Britain where authorities are extremely worried about its spread.
 
@@ -51,7 +51,7 @@ The Environmental Protection Agency says nearly 500,000 Volkswagen and Audi dies
 ### [European communications company Altice announces plans to buy US cable television company Cablevision for $17.7 billion. ](/news/2015/09/18/european-communications-company-altice-announces-plans-to-buy-us-cable-television-company-cablevision-for-17-7-billion.md)
 European telecom giant Altice is buying the largest cable provider in New York City&amp;#039;s metropolitan area, agreeing to pay $17.7 billion to acquire
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [Shells fired by Yemeni forces across the border from Yemen kill at least three people and wound 28 others in the Jizan region. ](/news/2015/09/18/shells-fired-by-yemeni-forces-across-the-border-from-yemen-kill-at-least-three-people-and-wound-28-others-in-the-jizan-region.md)
 Shelling from across the border in Yemen killed three people in Saudi Arabia Friday and wounded 28, the civil defense agency said.
 

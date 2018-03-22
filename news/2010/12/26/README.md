@@ -71,7 +71,7 @@ Israel will boycott a meeting at the United Nations to mark the 10th anniversary
 ### [China and South Korea are to hold defence talks following tension on the Korean Peninsula. ](/news/2010/12/26/china-and-south-korea-are-to-hold-defence-talks-following-tension-on-the-korean-peninsula.md)
 South Korean and Chinese defence ministers are to meet in Beijing in February amid rising tension on the Korean peninsula, officials in Seoul say.
 
-##### U.S.
+##### United States
 ### [The eastern United States is struck by more snow, with South Carolina receiving its first ever snow on Christmas Day. ](/news/2010/12/26/the-eastern-united-states-is-struck-by-more-snow-with-south-carolina-receiving-its-first-ever-snow-on-christmas-day.md)
 Large parts of the US eastern seaboard are buried under a blanket of snow as an intensifying storm sweeps north, causing massive travel disruption.
 

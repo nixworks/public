@@ -5,7 +5,7 @@ Formats: [HTML](2009/07/2/index.html)  [JSON](2009/07/2/index.json)  [XML](2009/
 
 ##### Royal Air Force
 ### [ A Royal Air Force plane crashes in a rural area of Argyll, United Kingdom. ](/news/2009/07/2/a-royal-air-force-plane-crashes-in-a-rural-area-of-argyll-united-kingdom.md)
-_Context: Argyll, Royal Air Force, United Kingdom_
+_Context: Argyll, Royal Air Force, UK_
 
 ##### Vaccine
 ### [ The first vaccine for H1N1 swine flu virus strain has been made by Novartis in Marburg, Germany. ](/news/2009/07/2/the-first-vaccine-for-h1n1-swine-flu-virus-strain-has-been-made-by-novartis-in-marburg-germany.md)

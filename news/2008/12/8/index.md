@@ -33,7 +33,7 @@ _Context: AIDS, Moscow, Vasily Aleksanyan, Yukos, bail, lymphoma, ruble, tubercu
 
 ##### Standard & Poor's
 ### [ Standard & Poor's becomes the first credit rating agency to downgrade Russia since 1999, while data showed that the Central Bank spent US$30 billion in currency market interventions in November 2008. ](/news/2008/12/8/standard-poor-s-becomes-the-first-credit-rating-agency-to-downgrade-russia-since-1999-while-data-showed-that-the-central-bank-spent-us-3.md)
-_Context: $, Russia, Russian Central Bank, Standard & Poor's, credit rating agency_
+_Context: Russia, Russian Central Bank, Standard & Poor's, US$, credit rating agency_
 
 ## [Previous Day...](/news/2008/12/7/index.md)
 

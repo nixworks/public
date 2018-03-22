@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/05/1/immigrant-workers-and-their-supporters-across-th
 
 ### [2006-05-1](/news/2006/05/1/index.md)
 
-##### U.S.
+##### United States
 #  Immigrant workers and their supporters across the United States stay home from work or school and abstain from commerce during the 2006 Immigration Policy Boycott in the United States, also called the "Great American Boycott" or "Day Without Immigrants", a protest against the enforcement of immigration law. Demonstrations are planned nationwide. In Latin America, a one-day boycott of American products called the "Nothing Gringo Boycott" is planned in conjunction with U.S. events. 
 
 
@@ -17,8 +17,8 @@ Formats: [HTML](/news/2006/05/1/immigrant-workers-and-their-supporters-across-th
 
 ### Related:
 
-1. [ An American demonstrator from the International Solidarity Movement is critically wounded by Israel's Defense Forces at the West Bank barrier. ](/news/2009/03/13/an-american-demonstrator-from-the-international-solidarity-movement-is-critically-wounded-by-israel-s-defense-forces-at-the-west-bank-barri.md) _Context: U.S., demonstration_
+1. [ An American demonstrator from the International Solidarity Movement is critically wounded by Israel's Defense Forces at the West Bank barrier. ](/news/2009/03/13/an-american-demonstrator-from-the-international-solidarity-movement-is-critically-wounded-by-israel-s-defense-forces-at-the-west-bank-barri.md) _Context: United States, demonstration_
 2. [ U.S. President George W. Bush departs on a tour of Latin America that will take him to Brazil, Uruguay, Colombia, Guatemala and Mexico. Upon arrival in SGBPo Paulo he is greeted with protest demonstrations. ](/news/2007/03/8/u-s-president-george-w-bush-departs-on-a-tour-of-latin-america-that-will-take-him-to-brazil-uruguay-colombia-guatemala-and-mexico-upo.md) _Context: Latin America, demonstration_
-3. [Toys "R" Us considers closing all its stores in the United States. ](/news/2018/03/8/toys-r-us-considers-closing-all-its-stores-in-the-united-states.md) _Context: U.S._
-4. [Former United States Department of Justice attorney Jeffrey Wertkin is sentenced to 21/2 years in prison for what prosecutors called the DoJ's "most serious" example of public corruption, which involved stealing more than 40 whistleblower fraud cases in 2016 with intentions to sell the secret information to companies under federal investigation. ](/news/2018/03/7/former-united-states-department-of-justice-attorney-jeffrey-wertkin-is-sentenced-to-2a1-2-years-in-prison-for-what-prosecutors-called-the-doj.md) _Context: U.S._
-5. [A second winter storm occurs in the East Coast of the United States, only a few days after another storm. ](/news/2018/03/7/a-second-winter-storm-occurs-in-the-east-coast-of-the-united-states-only-a-few-days-after-another-storm.md) _Context: U.S._
+3. [Toys "R" Us considers closing all its stores in the United States. ](/news/2018/03/8/toys-r-us-considers-closing-all-its-stores-in-the-united-states.md) _Context: United States_
+4. [Former United States Department of Justice attorney Jeffrey Wertkin is sentenced to 21/2 years in prison for what prosecutors called the DoJ's "most serious" example of public corruption, which involved stealing more than 40 whistleblower fraud cases in 2016 with intentions to sell the secret information to companies under federal investigation. ](/news/2018/03/7/former-united-states-department-of-justice-attorney-jeffrey-wertkin-is-sentenced-to-2a1-2-years-in-prison-for-what-prosecutors-called-the-doj.md) _Context: United States_
+5. [A second winter storm occurs in the East Coast of the United States, only a few days after another storm. ](/news/2018/03/7/a-second-winter-storm-occurs-in-the-east-coast-of-the-united-states-only-a-few-days-after-another-storm.md) _Context: United States_

@@ -27,9 +27,9 @@ _Context: Embarcadero, Mexican, San Francisco, California, Shooting of Kathryn S
 ### [The United States Department of Justice begins an investigation into whether US airlines entered into collusion to illegally keep ticket prices high. ](/news/2015/07/1/the-united-states-department-of-justice-begins-an-investigation-into-whether-us-airlines-entered-into-collusion-to-illegally-keep-ticket-pri.md)
 The Justice Department investigates if US airlines are colluding to keep ticket prices high.
 
-##### U.S.
+##### United States
 ### [The United States and Cuba officially announce that embassies will be reopened in each other's countries for the first time since 1961. ](/news/2015/07/1/the-united-states-and-cuba-officially-announce-that-embassies-will-be-reopened-in-each-other-s-countries-for-the-first-time-since-1961.md)
-_Context: Cuba, Cuba-United States relations, U.S., embassy_
+_Context: Cuba, Cuba-United States relations, United States, embassy_
 
 ##### Russia
 ### [The Russian gas company Gazprom suspends shipments of gas to Ukraine following a payment dispute. ](/news/2015/07/1/the-russian-gas-company-gazprom-suspends-shipments-of-gas-to-ukraine-following-a-payment-dispute.md)
@@ -61,7 +61,7 @@ At least 60 Egyptian soldiers were on Wednesday killed as heavily-armed IS milit
 
 ##### Yemeni Civil War (2015)
 ### [Shells fired by Houthi forces have killed at least 18 people near the southern port city of Aden, meanwhile United Nations officials have warned that a deadly dengue fever outbreak is rapidly gaining pace in the war-torn country. ](/news/2015/07/1/shells-fired-by-houthi-forces-have-killed-at-least-18-people-near-the-southern-port-city-of-aden-meanwhile-united-nations-officials-have-wa.md)
-_Context: Aden, Houthi, United Nations, Yemeni Civil War (2015), dengue_
+_Context: Aden, Houthis, United Nations, Yemeni Civil War (2015), dengue_
 
 ## [Previous Day...](/news/2015/06/30/index.md)
 

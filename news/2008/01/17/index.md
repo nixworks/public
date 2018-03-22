@@ -25,7 +25,7 @@ _Context: Lithuania, Russia_
 
 ##### NYSE Euronext
 ### [ NYSE Euronext, the holding company for the New York Stock Exchange, agrees to buy the American Stock Exchange for $260 million in stock. ](/news/2008/01/17/nyse-euronext-the-holding-company-for-the-new-york-stock-exchange-agrees-to-buy-the-american-stock-exchange-for-260-million-in-stock.md)
-_Context: $, American Stock Exchange, NYSE Euronext, New York Stock Exchange, holding company, stock_
+_Context: American Stock Exchange, NYSE Euronext, New York Stock Exchange, US$, holding company, stock_
 
 ## [Previous Day...](/news/2008/01/16/index.md)
 

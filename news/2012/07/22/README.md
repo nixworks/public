@@ -27,9 +27,9 @@ _Context: Hakkari Province_
 ### [A moderately strong earthquake with a magnitude of 5.0 hits Kahramanmaras, Turkey. ](/news/2012/07/22/a-moderately-strong-earthquake-with-a-magnitude-of-5-0-hits-kahramanmaraa-turkey.md)
 _Context: Kahramanmaras, Turkish_
 
-##### China
+##### Chinese
 ### [At least 37 people are killed in torrential rains in the Chinese capital Beijing. ](/news/2012/07/22/at-least-37-people-are-killed-in-torrential-rains-in-the-chinese-capital-beijing.md)
-_Context: Beijing, China_
+_Context: Beijing, Chinese_
 
 ##### Najaf
 ### [Car bombs kill 20 people and wound 80 in Mahmudiye, Madaen and Najaf in Iraq. ](/news/2012/07/22/car-bombs-kill-20-people-and-wound-80-in-mahmudiye-madaen-and-najaf-in-iraq.md)

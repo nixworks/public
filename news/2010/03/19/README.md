@@ -23,9 +23,9 @@ _Context: Large Hadron Collider_
 ### [FIFA dismisses the bid of Indonesia for the 2022 FIFA World Cup after the country failed to provide "guarantees". ](/news/2010/03/19/fifa-dismisses-the-bid-of-indonesia-for-the-2022-fifa-world-cup-after-the-country-failed-to-provide-guarantees.md)
 Indonesia is out of the race to host the 2022 World Cup, FIFA says.
 
-##### U.S.
+##### United States
 ### [A judge in the United States rejects a $657.5 million deal for 10,000 people involved in the aftermath of 9-11. ](/news/2010/03/19/a-judge-in-the-united-states-rejects-a-657-5-million-deal-for-10-000-people-involved-in-the-aftermath-of-9-11.md)
-_Context: September 11 attacks, U.S._
+_Context: September 11 attacks, United States_
 
 ##### President
 ### [President of Egypt Hosni Mubarak names Sheikh Ahmed Mohammed Ahmed al-Tayeb as head of Al-Azhar University. ](/news/2010/03/19/president-of-egypt-hosni-mubarak-names-sheikh-ahmed-mohammed-ahmed-al-tayeb-as-head-of-al-azhar-university.md)
@@ -61,7 +61,7 @@ Pope Benedict XVI has today signed off on a pastoral letter to the Irish faithfu
 
 ##### President
 ### [President of Yemen Ali Abdullah Saleh declares an end to his country's six-year war against the Houthis. ](/news/2010/03/19/president-of-yemen-ali-abdullah-saleh-declares-an-end-to-his-country-s-six-year-war-against-the-houthis.md)
-_Context: Ali Abdullah Saleh, Houthi, President_
+_Context: Ali Abdullah Saleh, Houthis, President_
 
 ##### Sudan
 ### [At least 13 people die during clashes in Sudan. ](/news/2010/03/19/at-least-13-people-die-during-clashes-in-sudan.md)

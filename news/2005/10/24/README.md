@@ -25,7 +25,7 @@ _Context: Israel, Israeli-Palestinian Conflict, Palestinian, Tulkarm, West Bank_
 
 ##### Russia
 ### [ Escalating a 'minor diplomatic crisis' between Russia and Norway, two Russian fishing trawlers are taken into custody by the Norwegian Coast Guard after allegedly having done illegal reloading of their vessels near Bear Island (Norway). ](/news/2005/10/24/escalating-a-minor-diplomatic-crisis-between-russia-and-norway-two-russian-fishing-trawlers-are-taken-into-custody-by-the-norwegian-coas.md)
-_Context: Bear Island (Norway), Norway, Norwegian Coast Guard, Russia, fishing trawler_
+_Context: Bear Island (Norway), Norwegian, Norwegian Coast Guard, Russia, fishing trawler_
 
 ##### Terrafrica partnership
 ### [ The Terrafrica partnership, a US$4 billion, 12-year campaign supported by the African Union, World Bank, United Nations, European Commission, and regional African governments, and aimed at fighting current, and preventing future desertification in Africa, begins. ](/news/2005/10/24/the-terrafrica-partnership-a-us-4-billion-12-year-campaign-supported-by-the-african-union-world-bank-united-nations-european-commissio.md)

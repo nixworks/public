@@ -17,7 +17,7 @@ Beijing, Feb 3 (IANS) Five road accidents in two days have claimed the lives of 
 
 ##### Gansu
 ### [A bus catches fire after falling into a ravine in Gansu province, China, killing 18 people and injuring 34 others. ](/news/2013/02/2/a-bus-catches-fire-after-falling-into-a-ravine-in-gansu-province-china-killing-18-people-and-injuring-34-others.md)
-_Context: China, Gansu_
+_Context: Chinese, Gansu_
 
 ##### Japanese Prime Minister
 ### [Prime Minister of Japan Shinzo Abe vows to defend the Senkaku Islands "at all costs" in a speech aimed at the Japan Self-Defense Forces. ](/news/2013/02/2/prime-minister-of-japan-shinza-abe-vows-to-defend-the-senkaku-islands-at-all-costs-in-a-speech-aimed-at-the-japan-self-defense-forces.md)

@@ -7,7 +7,7 @@ Formats: [HTML](2015/10/21/index.html)  [JSON](2015/10/21/index.json)  [XML](201
 ### [Vice President Joe Biden says that he will not be seeking the Democratic Party nomination. ](/news/2015/10/21/vice-president-joe-biden-says-that-he-will-not-be-seeking-the-democratic-party-nomination.md)
 More from Trail Guide Dec. 11 Ben Carson joins Donald Trump as a threat to leave Republicans behind Dec. 10 Donald Trump backs out of his Israel trip Dec. 9 Some U.S. mayors want Donald Trump to stay out of their cities Dec. 8 Hillary Clinton looks to tie GOP candidates to Trump&apos;s rhetoric abou...
 
-##### United Kingdom
+##### UK
 ### [A British lawyer and his wife are found dead by their gardener at their home on the Caribbean island of Tobago. The Trinidad and Tobago Police Service believe the couple were murdered during a suspected robbery. ](/news/2015/10/21/a-british-lawyer-and-his-wife-are-found-dead-by-their-gardener-at-their-home-on-the-caribbean-island-of-tobago-the-trinidad-and-tobago-poli.md)
 A British man has been murdered alongside his wife during a suspected robbery at their home on a Caribbean island. Richard Wheeler, 73, and his wife Grace were found dead by their gardener in the village of Carnbee in Tobago. A spokesperson for the Trinidad and Tobago Police Service said Mrs Wheeler...
 
@@ -19,7 +19,7 @@ The CIA condemns Wikileaks over publication of documents from a private email ac
 ### [St. Louis' police chief announces officers are stepping up patrols following fires at six predominantly African-American churches in the past two weeks. No one has been injured in any of the fires. The reward for information leading to an arrest is now $4,000; the St. Louis Police Officers' Association will match the $2,000 reward being offered by the St. Louis Regional Crime Stoppers and the ATF. The American Civil Liberties Union of Missouri and the Anti-Defamation League suggest the fires may be arson sparked by racist motivations. ](/news/2015/10/21/st-louis-police-chief-announces-officers-are-stepping-up-patrols-following-fires-at-six-predominantly-african-american-churches-in-the-pas.md)
 Fires have been set at the front doors of six churches in St. Louis and Jennings since Oct. 8.
 
-##### China
+##### Chinese
 ### [Two Chinese consulate staff are killed and a consul general injured after a gunman opened fire on a restaurant in the city of Cebu, the "second city" of the Philippines. Various reports named the gunman as Chinese national Li Qingliang. ](/news/2015/10/21/two-chinese-consulate-staff-are-killed-and-a-consul-general-injured-after-a-gunman-opened-fire-on-a-restaurant-in-the-city-of-cebu-the-sec.md)
 Chinese diplomat injured and two consulate staff shot at an upmarket Philippine restaurant
 
@@ -33,7 +33,7 @@ The Vatican denied an Italian newspaper report on Wednesday that Pope Francis ha
 
 ##### Supreme Leader
 ### [Iran's Supreme Leader Ayatollah Ali Khamenei approves the nuclear deal between Tehran and world powers, and orders it to be implemented subject to certain conditions. The letter states the United States and European Union should clearly announce the elimination of sanctions against Iran. The imposition of sanctions at any level and under any pretext from any of the negotiating countries would violate the JCPOA. ](/news/2015/10/21/iran-s-supreme-leader-ayatollah-ali-khamenei-approves-the-nuclear-deal-between-tehran-and-world-powers-and-orders-it-to-be-implemented-subj.md)
-_Context: Ali Khamenei, European Union, Iranian government, Joint Comprehensive Plan of Action, Supreme Leader, U.S., sanctions against Iran_
+_Context: Ali Khamenei, European Union, Iranian government, Joint Comprehensive Plan of Action, Supreme Leader, United States, sanctions against Iran_
 
 ##### Syrian Civil War
 ### [The President of Syria Bashar al-Assad visits Moscow for talks with the President of Russia Vladimir Putin in an unannounced visit. ](/news/2015/10/21/the-president-of-syria-bashar-al-assad-visits-moscow-for-talks-with-the-president-of-russia-vladimir-putin-in-an-unannounced-visit.md)
@@ -41,9 +41,9 @@ _Context: Bashar al-Assad, Moscow, President, President of Russia, Syrian Civil 
 
 ##### American Academy of Pediatrics
 ### [The American Academy of Pediatrics calls for pregnant women to abstain completely from alcohol during the entire three trimesters of the pregnancy, saying no amount of any type of alcohol should be considered safe since the risks, to the baby in particular (such as fetal alcohol syndrome, among many others), are too great. This puts the U.S. alongside other Western developed countries- except Italy and the United Kingdom, which still allow occasional small amounts- in urging complete abstinence. The American College of Obstetricians and Gynecologists and the Centers for Disease Control and Prevention (CDC), the two other U.S. agencies that comment most about this issue, already recommend total alcohol abstinence. ](/news/2015/10/21/the-american-academy-of-pediatrics-calls-for-pregnant-women-to-abstain-completely-from-alcohol-during-the-entire-three-trimesters-of-the-pre.md)
-_Context: American Academy of Pediatrics, American College of Obstetricians and Gynecologists, Centers for Disease Control and Prevention, Italy, United Kingdom, fetal alcohol syndrome_
+_Context: American Academy of Pediatrics, American College of Obstetricians and Gynecologists, Centers for Disease Control and Prevention, Italy, UK, fetal alcohol syndrome_
 
-##### U.S.
+##### United States
 ### [A U.S. F-18 fighter jet crashes into farmland near RAF Lakenheath in Suffolk county, England, killing the pilot. ](/news/2015/10/21/a-u-s-f-18-fighter-jet-crashes-into-farmland-near-raf-lakenheath-in-suffolk-county-england-killing-the-pilot.md)
 A partly opened parachute F-18 fighter crashes on to farmland, some seven miles from Suffolk&#039;s RAF Lakenheath.
 
@@ -57,7 +57,7 @@ Twenty people were shot dead by suspected Boko Haram gunmen Wednesday on a road 
 
 ##### Yemeni Civil War (2015)
 ### [Rockets fired by Houthi forces reportedly kill 14 people in city of Taiz, southwestern Yemen. ](/news/2015/10/21/rockets-fired-by-houthi-forces-reportedly-kill-14-people-in-city-of-taiz-southwestern-yemen.md)
-_Context: Houthi, Taiz, Yemen, Yemeni Civil War (2015)_
+_Context: Houthis, Taiz, Yemen, Yemeni Civil War (2015)_
 
 ##### Syrian Civil War
 ### [ISIL orders males aged 14 and older in Raqqa, its de facto Syrian capital, to register with the police, an action seen as the first step toward forced conscriptions in this region. ](/news/2015/10/21/isil-orders-males-aged-14-and-older-in-raqqa-its-de-facto-syrian-capital-to-register-with-the-police-an-action-seen-as-the-first-step-tow.md)

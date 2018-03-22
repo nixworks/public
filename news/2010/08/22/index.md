@@ -3,7 +3,7 @@ Formats: [HTML](2010/08/22/index.html)  [JSON](2010/08/22/index.json)  [XML](201
 
 ## [2010-08-22](/news/2010/08/22/index.md)
 
-##### U.S.
+##### United States
 ### [United States authorities give the green light to human trials of an Ebola drug said to have worked during tests on monkeys. ](/news/2010/08/22/united-states-authorities-give-the-green-light-to-human-trials-of-an-ebola-drug-said-to-have-worked-during-tests-on-monkeys.md)
 A treatment for the Ebola virus could be nearer after US authorities approve human trials of a drug proven to be effective in monkeys.
 
@@ -19,7 +19,7 @@ Opponents of a planned Islamic community center two blocks from Ground Zero in N
 ### [4 mutilated and decapitated corpses are located by police hanging by their ankles from a bridge outside Cuernavaca, Morelos. ](/news/2010/08/22/4-mutilated-and-decapitated-corpses-are-located-by-police-hanging-by-their-ankles-from-a-bridge-outside-cuernavaca-morelos.md)
 Police in Mexico find four mutilated bodies hung from a bridge in the central city of Cuernavaca, killed by a drug gang as a warning to a rival group.
 
-##### U.S.
+##### United States
 ### [After a federal investigation by the United States, 47 foreign-born gang members are arrested in New England, including members of the "True Somali Bloods", "True Sudanese Bloods" and the "Asian Boyz". Over half are arrested in the U.S. state of Maine. ](/news/2010/08/22/after-a-federal-investigation-by-the-united-states-47-foreign-born-gang-members-are-arrested-in-new-england-including-members-of-the-true.md)
 The arrests were among 47 – 28 of them known gang members -- by federal authorities in four states.
 
@@ -41,7 +41,7 @@ _Context: Iran, drone aircraft_
 
 ##### Bolivia
 ### [A Bolivian-flagged all-female international aid ship bound for Gaza is delayed as Cyprus bans it from passing, with Israel's Ehud Barak calling on France and the United States to prevent it from sailing because, he says, it is "a needless provocation". ](/news/2010/08/22/a-bolivian-flagged-all-female-international-aid-ship-bound-for-gaza-is-delayed-as-cyprus-bans-it-from-passing-with-israel-s-ehud-barak-call.md)
-_Context: Bolivia, Cypriot, Ehud Barak, France, Gaza Strip, Israel, U.S._
+_Context: Bolivia, Cypriot, Ehud Barak, France, Gaza Strip, Israel, United States_
 
 ##### Chile
 ### [All 33 Chilean miners trapped deep underground are located alive after 17 days, though they have not yet been removed from the mine and remain trapped. ](/news/2010/08/22/all-33-chilean-miners-trapped-deep-underground-are-located-alive-after-17-days-though-they-have-not-yet-been-removed-from-the-mine-and-rema.md)
@@ -77,7 +77,7 @@ _Context: Brazil, InterContinental, Rio de Janeiro, So Conrado_
 
 ##### Philippines
 ### [The Philippines and the United States hold a joint exercise of their forces. ](/news/2010/08/22/the-philippines-and-the-united-states-hold-a-joint-exercise-of-their-forces.md)
-_Context: Philippines, U.S._
+_Context: Philippines, United States_
 
 ##### Venezuela
 ### [A Venezuelan soldier opens fire at an army base in the capital Caracas, killing two officers and injuring six others. ](/news/2010/08/22/a-venezuelan-soldier-opens-fire-at-an-army-base-in-the-capital-caracas-killing-two-officers-and-injuring-six-others.md)

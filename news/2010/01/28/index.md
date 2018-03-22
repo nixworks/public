@@ -33,7 +33,7 @@ State media says unnamed American man detained after trespassing on border with 
 
 ##### International Monetary Fund
 ### [The International Monetary Fund loans US$114 million to Haiti following the recent earthquake devastation, with the full amount due to be transferred by the end of the week. ](/news/2010/01/28/the-international-monetary-fund-loans-us-114-million-to-haiti-following-the-recent-earthquake-devastation-with-the-full-amount-due-to-be-tr.md)
-_Context: $, 2010 Haiti earthquake, Haiti, International Monetary Fund_
+_Context: 2010 Haiti earthquake, Haiti, International Monetary Fund, US$_
 
 ##### J. D. Salinger
 ### [J. D. Salinger, author of the novel "The Catcher in the Rye", dies at the age of 91. ](/news/2010/01/28/j-d-salinger-author-of-the-novel-the-catcher-in-the-rye-dies-at-the-age-of-91.md)

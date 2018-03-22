@@ -37,7 +37,7 @@ The California Supreme Court voted 6 to 1 on Wednesday to review legal challenge
 
 ##### International Monetary Fund
 ### [ The International Monetary Fund approves a US$2.1 billion rescue package for Iceland following its financial crisis. ](/news/2008/11/19/the-international-monetary-fund-approves-a-us-2-1-billion-rescue-package-for-iceland-following-its-financial-crisis.md)
-_Context: $, 2008 economic meltdown, Iceland, International Monetary Fund_
+_Context: 2008 economic meltdown, Iceland, International Monetary Fund, US$_
 
 ## [Previous Day...](/news/2008/11/18/index.md)
 

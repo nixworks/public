@@ -9,7 +9,7 @@ Formats: [HTML](2008/06/6/index.html)  [JSON](2008/06/6/index.json)  [XML](2008/
 
 ##### Crude oil
 ### [ The price of a barrel of crude oil rises a single-day record of nearly US$11, settling at a new record of US$138.54. ](/news/2008/06/6/the-price-of-a-barrel-of-crude-oil-rises-a-single-day-record-of-nearly-us-11-settling-at-a-new-record-of-us-138-54.md)
-_Context: $, crude oil_
+_Context: US$, crude oil_
 
 ##### Colombo
 ### [ A rush-hour explosion targeting a bus in Colombo, Sri Lanka kills at least 21 people and injures 80. ](/news/2008/06/6/a-rush-hour-explosion-targeting-a-bus-in-colombo-sri-lanka-kills-at-least-21-people-and-injures-80.md)

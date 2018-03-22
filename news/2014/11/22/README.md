@@ -9,7 +9,7 @@ _Context: Bahrain, Pearl Revolution, election_
 
 ##### Kangding
 ### [A 5.9 magnitude earthquake occurs near the town of Kangding in China's Sichuan province resulting at least two deaths and 54 injuries. ](/news/2014/11/22/a-5-9-magnitude-earthquake-occurs-near-the-town-of-kangding-in-china-s-sichuan-province-resulting-at-least-two-deaths-and-54-injuries.md)
-_Context: China, Kangding, Sichuan_
+_Context: Chinese, Kangding, Sichuan_
 
 ##### Nagano Prefecture
 ### [A 6.8 magnitude earthquake occurs in Nagano Prefecture in Japan resulting in at least 30 people being injured as several homes collapse. ](/news/2014/11/22/a-6-8-magnitude-earthquake-occurs-in-nagano-prefecture-in-japan-resulting-in-at-least-30-people-being-injured-as-several-homes-collapse.md)

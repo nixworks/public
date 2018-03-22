@@ -19,7 +19,7 @@ North Korea&#039;s state media has confirmed the communist state has conducted a
 ### [ Tsakhiagiin Elbegdorj of the Democratic Party is elected as President of Mongolia. ](/news/2009/05/25/tsakhiagiin-elbegdorj-of-the-democratic-party-is-elected-as-president-of-mongolia.md)
 _Context: Democratic Party, Mongolia, President of Mongolia, Tsakhiagiin Elbegdorj, elected_
 
-##### United Kingdom
+##### UK
 ### [ Nine United Kingdom Cabinet ministers have been implicated in Parliament's expenses scandal. ](/news/2009/05/25/nine-united-kingdom-cabinet-ministers-have-been-implicated-in-parliament-s-expenses-scandal.md)
 Britain&#39;s Chancellor of the Exchequer is among nine cabinet members who allegedly used taxpayers&#39; money to pay for personal accountancy advice.
 

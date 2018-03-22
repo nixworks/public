@@ -9,7 +9,7 @@ _Context: 10th century, Akdamar Island, Armenia, Turkish_
 
 ##### Cult
 ### [Concerns are held about a cult-like group of Salvadoran migrants to the United States in Palmdale, California, who have gone missing after leaving a note that they were going to meet Jesus. They are later found alive in a park. ](/news/2010/09/19/concerns-are-held-about-a-cult-like-group-of-salvadoran-migrants-to-the-united-states-in-palmdale-california-who-have-gone-missing-after-l.md)
-_Context: California, El Salvador, Jesus, Palmdale, U.S., cult_
+_Context: California, El Salvador, Jesus, Palmdale, United States, cult_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI beatifies Cardinal John Henry Newman in an outdoor mass in Birmingham, England, on the final day of his visit to the UK. ](/news/2010/09/19/pope-benedict-xvi-beatifies-cardinal-john-henry-newman-in-an-outdoor-mass-in-birmingham-england-on-the-final-day-of-his-visit-to-the-uk.md)
@@ -47,9 +47,9 @@ Four people are killed and one seriously injured in a shooting at a German hospi
 ### [Inderjit Singh Reyat, the only man convicted of the bombings of Air India Flight 182 and Narita International Airport in 1985, is found guilty of perjury. ](/news/2010/09/19/inderjit-singh-reyat-the-only-man-convicted-of-the-bombings-of-air-india-flight-182-and-narita-international-airport-in-1985-is-found-guil.md)
 _Context: Air India Flight 182, Narita International Airport, perjury_
 
-##### United Kingdom
+##### UK
 ### [A British man of Somali origin, destined for Uganda, is arrested in Schiphol airport in Amsterdam on suspicion of being a terrorist. ](/news/2010/09/19/a-british-man-of-somali-origin-destined-for-uganda-is-arrested-in-schiphol-airport-in-amsterdam-on-suspicion-of-being-a-terrorist.md)
-_Context: Amsterdam, Amsterdam Airport Schiphol, Somalia, Uganda, United Kingdom, terrorism_
+_Context: Amsterdam, Amsterdam Airport Schiphol, Somalia, UK, Uganda, terrorism_
 
 ##### Humanitarian aid
 ### [A humanitarian aid convoy for the Viva Palestina charity starts in London, England, headed for the Gaza Strip. ](/news/2010/09/19/a-humanitarian-aid-convoy-for-the-viva-palestina-charity-starts-in-london-england-headed-for-the-gaza-strip.md)
@@ -109,7 +109,7 @@ _Context: 2 car bomb, Baghdad, Iraq_
 
 ##### United States soldier
 ### [The United States Army charges 5 US soldiers with murdering 3 Afghan civilians earlier this year. ](/news/2010/09/19/the-united-states-army-charges-5-us-soldiers-with-murdering-3-afghan-civilians-earlier-this-year.md)
-_Context: Afghanistan, U.S., United States soldier_
+_Context: Afghanistan, United States, United States soldier_
 
 ##### Gaza Strip
 ### [A new convoy of vehicles departs the UK with humanitarian aid for Gaza, more than three months after 9 people were killed in the Gaza flotilla raid. ](/news/2010/09/19/a-new-convoy-of-vehicles-departs-the-uk-with-humanitarian-aid-for-gaza-more-than-three-months-after-9-people-were-killed-in-the-gaza-flotil.md)

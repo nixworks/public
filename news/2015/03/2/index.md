@@ -13,7 +13,7 @@ North Korea fired two short-range missiles off its east coast on Monday, a South
 
 ##### Hewlett-Packard
 ### [Hewlett-Packard announces that it will buy Aruba Networks, a California-based manufacturer of wi-fi equipment, for approximately $2.7 billion in combined cash and equity. ](/news/2015/03/2/hewlett-packard-announces-that-it-will-buy-aruba-networks-a-california-based-manufacturer-of-wi-fi-equipment-for-approximately-2-7-billio.md)
-_Context: $, Aruba Networks, Hewlett-Packard, wi-fi_
+_Context: Aruba Networks, Hewlett-Packard, US$, wi-fi_
 
 ##### Second Libyan Civil War (2014-present)
 ### [Libya's Council of Deputies agrees to resume peace talks. ](/news/2015/03/2/libya-s-council-of-deputies-agrees-to-resume-peace-talks.md)

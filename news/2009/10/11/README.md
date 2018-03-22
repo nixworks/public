@@ -37,7 +37,7 @@ _Context: Moscow, Russia_
 
 ##### Arturo "Zambo" Cavero
 ### [ Thousands of people attend the state funeral of Arturo "Zambo" Cavero in Lima, Peru. President Alan Garcia posthumously awards him the Order of the Sun. ](/news/2009/10/11/thousands-of-people-attend-the-state-funeral-of-arturo-zambo-cavero-in-lima-peru-president-alan-garcaa-posthumously-awards-him-the-ord.md)
-_Context: Alan Garcia, Arturo "Zambo" Cavero, Lima, Order of the Sun, Peru, President_
+_Context: Alan Garcia, Arturo "Zambo" Cavero, Lima, Order of the Sun, Peru, Peruvian President_
 
 ##### Luis Armando Pena Soltren
 ### [ Luis Armando Pena Soltren, a suspect wanted for the 1968 hijacking of Pan Am Flight 281, is captured after more than 40 years. ](/news/2009/10/11/luis-armando-pena-soltren-a-suspect-wanted-for-the-1968-hijacking-of-pan-am-flight-281-is-captured-after-more-than-40-years.md)

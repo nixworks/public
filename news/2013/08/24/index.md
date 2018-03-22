@@ -27,9 +27,9 @@ Bacteria in the cronut burgers sold by a Canadian National Exhibition food vendo
 ### [4 people are confirmed killed in Friday's Super Puma L2 crash near Sumburgh Airport in the Shetland Islands. Operation of the helicopter model is globally suspended. ](/news/2013/08/24/4-people-are-confirmed-killed-in-friday-s-super-puma-l2-crash-near-sumburgh-airport-in-the-shetland-islands-operation-of-the-helicopter-mod.md)
 _Context: Shetland Islands, Sumburgh Airport, Super Puma L2_
 
-##### U.S.
+##### United States
 ### [The United States commemorates the fiftieth anniversary of Martin Luther King, Jr.'s I Have a Dream speech. ](/news/2013/08/24/the-united-states-commemorates-the-fiftieth-anniversary-of-martin-luther-king-jr-s-i-have-a-dream-speech.md)
-_Context: I Have a Dream, Martin Luther King, Jr., U.S._
+_Context: I Have a Dream, Martin Luther King, Jr., United States_
 
 ##### Mdecins Sans Frontires
 ### [Mdecins Sans Frontires report treating 3,600 cases of "neurotoxic symptoms", with 355 fatalities. ](/news/2013/08/24/medecins-sans-frontieres-report-treating-3-600-cases-of-neurotoxic-symptoms-with-355-fatalities.md)

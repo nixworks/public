@@ -13,7 +13,7 @@ _Context: Sienna, Toyota_
 
 ##### Weyhill
 ### [An investigation is launched after a plane crashes into a field and bursts into flames in Weyhill, Andover, Hampshire, United Kingdom, killing at least two people. ](/news/2010/04/17/an-investigation-is-launched-after-a-plane-crashes-into-a-field-and-bursts-into-flames-in-weyhill-andover-hampshire-united-kingdom-killi.md)
-_Context: Andover, Hampshire, United Kingdom, Weyhill_
+_Context: Andover, Hampshire, UK, Weyhill_
 
 ##### Adelaide
 ### [An earthquake strikes Adelaide, the capital of South Australia, and is felt 50 kilometres away. ](/news/2010/04/17/an-earthquake-strikes-adelaide-the-capital-of-south-australia-and-is-felt-50-kilometres-away.md)

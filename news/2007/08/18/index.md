@@ -37,7 +37,7 @@ _Context: Maldives, a constitutional referendum, parliamentary system, president
 
 ##### 2007 Peru earthquake
 ### [ Survivors of the 2007 Peru earthquake flee the worst hit areas as looting intensifies. The President of Peru Alan Garca sends another 1,000 troops to the area. ](/news/2007/08/18/survivors-of-the-2007-peru-earthquake-flee-the-worst-hit-areas-as-looting-intensifies-the-president-of-peru-alan-garcia-sends-another-1-00.md)
-_Context: 2007 Peru earthquake, Alan Garca, President, looting_
+_Context: 2007 Peru earthquake, Alan Garca, Peruvian President, looting_
 
 ##### Fire
 ### [ One person is dead, four people are missing, after a fire at the Penhallow Hotel in Newquay, Cornwall. ](/news/2007/08/18/one-person-is-dead-four-people-are-missing-after-a-fire-at-the-penhallow-hotel-in-newquay-cornwall.md)
@@ -65,7 +65,7 @@ _Context: Deutsche Bank Building, Ground Zero, New York City, firefighter_
 
 ##### Bridge
 ### [ The death toll of a bridge collapse in Fenghuang, China rises to 64. ](/news/2007/08/18/the-death-toll-of-a-bridge-collapse-in-fenghuang-china-rises-to-64.md)
-_Context: China, Fenghuang, bridge_
+_Context: Chinese, Fenghuang, bridge_
 
 ##### Crandall Canyon mine
 ### [ Rescuers say that a fourth hole in the Crandall Canyon mine near Huntington, Utah shows no sign of six trapped miners. ](/news/2007/08/18/rescuers-say-that-a-fourth-hole-in-the-crandall-canyon-mine-near-huntington-utah-shows-no-sign-of-six-trapped-miners.md)

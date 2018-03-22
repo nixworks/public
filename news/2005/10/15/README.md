@@ -21,7 +21,7 @@ _Context: Christian, Crown Princess Mary of Denmark_
 
 ##### Jean Ziegler
 ### [ Jean Ziegler, a Human rights investigator and senior United Nations official, has accuses the United States and occupying forces of "using hunger and deprivation of water as a weapon of war against the civilian population" in Iraq. ](/news/2005/10/15/jean-ziegler-a-human-rights-investigator-and-senior-united-nations-official-has-accuses-the-united-states-and-occupying-forces-of-using.md)
-_Context: Human rights, Iraq, Jean Ziegler, U.S., United Nations_
+_Context: Human rights, Iraq, Jean Ziegler, United Nations, United States_
 
 ## [Previous Day...](/news/2005/10/14/index.md)
 

@@ -33,7 +33,7 @@ Confucius peace prize chairman defends decision to give award to leader accused 
 
 ##### Kuwait
 ### [Kuwait and France sealed a deal whereby the Gulf nation will upgrade its defense capabilities with $2.8 billion worth of military equipment. Defense experts cite the ongoing conflict in Iraqi Civil War, the June 2015 terror attack claimed by ISIS in Kuwait City, and a reluctance by the U.S. to supply Kuwait as reasons for the deal. ](/news/2015/10/23/kuwait-and-france-sealed-a-deal-whereby-the-gulf-nation-will-upgrade-its-defense-capabilities-with-2-8-billion-worth-of-military-equipment.md)
-_Context: France, Gulf Arab states, ISIS, Iraqi Civil War (2014-present), June 2015 terror attack, Kuwait, Kuwait City, U.S._
+_Context: France, Gulf Arab states, ISIS, Iraqi Civil War (2014-present), June 2015 terror attack, Kuwait, Kuwait City, United States_
 
 ##### 2015 Puisseguin road crash
 ### [At least 43 people die after a bus collides with a truck near the French town of Puisseguin. ](/news/2015/10/23/at-least-43-people-die-after-a-bus-collides-with-a-truck-near-the-french-town-of-puisseguin.md)

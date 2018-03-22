@@ -17,7 +17,7 @@ Iceland issues a red alert to the aviation industry for the Bardarbunga volcano,
 
 ##### Goldman Sachs
 ### [Goldman Sachs agrees to buy back $3.15 billion in low quality mortgage bonds that it dumped on Fannie Mae and Freddie Mac preceding the financial crisis of 2007-08. ](/news/2014/08/23/goldman-sachs-agrees-to-buy-back-3-15-billion-in-low-quality-mortgage-bonds-that-it-dumped-on-fannie-mae-and-freddie-mac-preceding-the-fina.md)
-_Context: $, Fannie Mae, Freddie Mac, Goldman Sachs, financial crisis of 2007-08_
+_Context: Fannie Mae, Freddie Mac, Goldman Sachs, US$, financial crisis of 2007-08_
 
 ##### Islamist insurgency in Nigeria
 ### [Thirty-five Nigerian police officers are missing following an attack on a training school in Borno state. ](/news/2014/08/23/thirty-five-nigerian-police-officers-are-missing-following-an-attack-on-a-training-school-in-borno-state.md)

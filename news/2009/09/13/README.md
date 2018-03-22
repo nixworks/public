@@ -29,7 +29,7 @@ _Context: Kazakhstan, Taldykorgan, drug abuse, fire_
 
 ##### Saudi Arabia
 ### [ Saudi Arabia's veteran foreign minister Prince Saud al-Faisal undergoes successful spine surgery in the United States. ](/news/2009/09/13/saudi-arabia-s-veteran-foreign-minister-prince-saud-al-faisal-undergoes-successful-spine-surgery-in-the-united-states.md)
-_Context: Prince Saud al-Faisal, Saudi Arabia, U.S._
+_Context: Prince Saud al-Faisal, Saudi Arabia, United States_
 
 ##### Chancellor of Germany
 ### [ German Chancellor Angela Merkel appears with her main rival, Frank-Walter Steinmeier, in a TV debate, two weeks ahead of an election. ](/news/2009/09/13/german-chancellor-angela-merkel-appears-with-her-main-rival-frank-walter-steinmeier-in-a-tv-debate-two-weeks-ahead-of-an-election.md)

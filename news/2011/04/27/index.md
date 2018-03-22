@@ -81,7 +81,7 @@ Ibrahim Coulibaly, an Ivory Coast militia leader who has been behind several cou
 
 ##### BP
 ### [BP discovers a German naval mine from World War II near pipelines in the North Sea near Peterhead, Scotland with removal of the bomb likely to lead to the temporary closure of 16 oil fields and a consequent rise in the price of oil. ](/news/2011/04/27/bp-discovers-a-german-naval-mine-from-world-war-ii-near-pipelines-in-the-north-sea-near-peterhead-scotland-with-removal-of-the-bomb-likely.md)
-_Context: BP, German, North Sea, Peterhead, Scotland, World War II, naval mine_
+_Context: BP, German, North Sea, Peterhead, Scottish, World War II, naval mine_
 
 ##### Thailand
 ### [Troops from Thailand and Cambodia exchange gunfire for the sixth straight day as the death toll from the conflict during the period reaches fourteen. ](/news/2011/04/27/troops-from-thailand-and-cambodia-exchange-gunfire-for-the-sixth-straight-day-as-the-death-toll-from-the-conflict-during-the-period-reaches.md)

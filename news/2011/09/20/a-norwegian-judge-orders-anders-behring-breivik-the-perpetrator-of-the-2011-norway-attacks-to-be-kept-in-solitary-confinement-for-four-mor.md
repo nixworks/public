@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/20/a-norwegian-judge-orders-anders-behring-breivik
 
 ### [2011-09-20](/news/2011/09/20/index.md)
 
-##### Norway
+##### Norwegian
 # A Norwegian judge orders Anders Behring Breivik, the perpetrator of the 2011 Norway attacks, to be kept in solitary confinement for four more weeks. 
 
 
@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/09/20/a-norwegian-judge-orders-anders-behring-breivik
 
 ### Related:
 
-1. [Norway's public broadcaster NRK publishes for the first time video footage of Anders Behring Breivik parking his van bomb that killed eight people in Oslo on 22 July 2011. ](/news/2012/11/26/norway-s-public-broadcaster-nrk-publishes-for-the-first-time-video-footage-of-anders-behring-breivik-parking-his-van-bomb-that-killed-eight.md) _Context: 2011 Norway attacks, Anders Behring Breivik, Norway_
+1. [Norway's public broadcaster NRK publishes for the first time video footage of Anders Behring Breivik parking his van bomb that killed eight people in Oslo on 22 July 2011. ](/news/2012/11/26/norway-s-public-broadcaster-nrk-publishes-for-the-first-time-video-footage-of-anders-behring-breivik-parking-his-van-bomb-that-killed-eight.md) _Context: 2011 Norway attacks, Anders Behring Breivik, Norwegian_
 2. [Anders Behring Breivik, a convicted mass murderer in the 2011 Norway attacks, wins a human rights case against the government of Norway. ](/news/2016/04/20/anders-behring-breivik-a-convicted-mass-murderer-in-the-2011-norway-attacks-wins-a-human-rights-case-against-the-government-of-norway.md) _Context: 2011 Norway attacks, Anders Behring Breivik_
 3. [A court in Oslo, Norway, deems Anders Behring Breivik sane and sentences him to 21 years' imprisonment for intentionally killing 77 people in two terror attacks in July 2011. ](/news/2012/08/24/a-court-in-oslo-norway-deems-anders-behring-breivik-sane-and-sentences-him-to-21-years-imprisonment-for-intentionally-killing-77-people-i.md) _Context: 2011 Norway attacks, Anders Behring Breivik_
 4. [A man sets himself on fire outside the Oslo courthouse where mass murderer Anders Behring Breivik is on trial for the 2011 Norway attacks. ](/news/2012/05/15/a-man-sets-himself-on-fire-outside-the-oslo-courthouse-where-mass-murderer-anders-behring-breivik-is-on-trial-for-the-2011-norway-attacks.md) _Context: 2011 Norway attacks, Anders Behring Breivik_

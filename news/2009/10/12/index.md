@@ -45,7 +45,7 @@ The top UN official in Afghanistan today acknowledged &quot;widespread fraud&quo
 
 ##### Edgar Allan Poe
 ### [ Edgar Allan Poe receives a funeral in Baltimore, USA, 160 years after his death and 200 after his birth. ](/news/2009/10/12/edgar-allan-poe-receives-a-funeral-in-baltimore-usa-160-years-after-his-death-and-200-after-his-birth.md)
-_Context: Baltimore, Edgar Allan Poe, U.S., his death_
+_Context: Baltimore, Edgar Allan Poe, United States, his death_
 
 ##### Elinor Ostrom
 ### [ Elinor Ostrom and Oliver Williamson win the Nobel Prize for Economics. ](/news/2009/10/12/elinor-ostrom-and-oliver-williamson-win-the-nobel-prize-for-economics.md)

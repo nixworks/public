@@ -25,7 +25,7 @@ _Context: 2008-2009 Gaza War, Israel, Palestinian, United Nations, war crime_
 
 ##### President of Russia
 ### [ Russian President Dmitry Medvedev accuses the United States of "blocking" Russia's accession to the World Trade Organization. ](/news/2009/09/15/russian-president-dmitry-medvedev-accuses-the-united-states-of-blocking-russia-s-accession-to-the-world-trade-organization.md)
-_Context: Dmitry Medvedev, President of Russia, Russia, U.S., World Trade Organization_
+_Context: Dmitry Medvedev, President of Russia, Russia, United States, World Trade Organization_
 
 ##### Federal Reserve
 ### [ Federal Reserve Chairman Ben S. Bernanke says the worst U.S. recession since the 1930s has likely ended, while warning that growth may not be strong enough to quickly reduce the unemployment rate. ](/news/2009/09/15/federal-reserve-chairman-ben-s-bernanke-says-the-worst-u-s-recession-since-the-1930s-has-likely-ended-while-warning-that-growth-may-not.md)
@@ -37,7 +37,7 @@ At least 38 people have been killed in flash floods in a remote region of Indone
 
 ##### Red-Green Coalition
 ### [ The Red-Green Coalition of Prime Minister Jens Stoltenberg is elected for another term in the Norwegian parliamentary election. ](/news/2009/09/15/the-red-green-coalition-of-prime-minister-jens-stoltenberg-is-elected-for-another-term-in-the-norwegian-parliamentary-election.md)
-_Context: Jens Stoltenberg, Norway, Prime Minister of Norway, Red-Green Coalition, parliamentary election_
+_Context: Jens Stoltenberg, Norwegian, Prime Minister of Norway, Red-Green Coalition, parliamentary election_
 
 ## [Previous Day...](/news/2009/09/14/index.md)
 

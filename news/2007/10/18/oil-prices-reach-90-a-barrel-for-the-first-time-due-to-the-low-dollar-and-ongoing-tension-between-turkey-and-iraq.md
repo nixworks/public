@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/10/18/oil-prices-reach-90-a-barrel-for-the-first-time
 
 ### [2007-10-18](/news/2007/10/18/index.md)
 
-##### $
+##### US$
 #  Oil prices reach $90 a barrel for the first time due to the low dollar and ongoing tension between Turkey and Iraq. 
 
 

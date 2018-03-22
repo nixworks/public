@@ -15,7 +15,7 @@ Benin President Boni Yayi sacked his entire government on Friday &quot;to breath
 ### [A 31-year-old Florida man kills his wife and posts a picture of her corpse with a confession onto Facebook. The picture is removed and the man is arrested. ](/news/2013/08/9/a-31-year-old-florida-man-kills-his-wife-and-posts-a-picture-of-her-corpse-with-a-confession-onto-facebook-the-picture-is-removed-and-the-m.md)
 _Context: Facebook, Florida_
 
-##### China
+##### Chinese
 ### [Liu Tienan, the deputy head of China's National Development and Reform Commission, is expelled from the Communist Party for corruption. ](/news/2013/08/9/liu-tienan-the-deputy-head-of-china-s-national-development-and-reform-commission-is-expelled-from-the-communist-party-for-corruption.md)
 Liu Tienan, a former top economic official in China, is expelled from the Communist Party and removed from public office, state media report.
 
@@ -51,9 +51,9 @@ Turkey advises its nationals to leave Lebanon after two Turkish pilots were seiz
 ### [Gunmen open fire at a Sunni mosque in the city of Quetta killing at least eight people and injuring 24. ](/news/2013/08/9/gunmen-open-fire-at-a-sunni-mosque-in-the-city-of-quetta-killing-at-least-eight-people-and-injuring-24.md)
 At least 10 people killed on Eid, day after suicide bomber killed 37 and amid US security alert.
 
-##### U.S.
+##### United States
 ### [The United States withdraws diplomats from its consulate in the Pakistani city of Lahore due to terrorist threats. ](/news/2013/08/9/the-united-states-withdraws-diplomats-from-its-consulate-in-the-pakistani-city-of-lahore-due-to-terrorist-threats.md)
-_Context: Lahore, Pakistan, U.S._
+_Context: Lahore, Pakistan, United States_
 
 ##### Al Qaeda
 ### [An American drone strike kills five suspected Al Qaeda terrorists in eastern Yemen. ](/news/2013/08/9/an-american-drone-strike-kills-five-suspected-al-qaeda-terrorists-in-eastern-yemen.md)

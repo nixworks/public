@@ -41,7 +41,7 @@ _Context: Bacolod, Philippines_
 
 ##### Royal Bank of Scotland
 ### [ The Royal Bank of Scotland announces cuts of 3,700 staff in the United Kingdom. ](/news/2009/11/2/the-royal-bank-of-scotland-announces-cuts-of-3-700-staff-in-the-united-kingdom.md)
-_Context: Royal Bank of Scotland, United Kingdom_
+_Context: Royal Bank of Scotland, UK_
 
 ##### Venezuela
 ### [ Large parts of Venezuela begin rationing water after unseasonably dry weather. ](/news/2009/11/2/large-parts-of-venezuela-begin-rationing-water-after-unseasonably-dry-weather.md)

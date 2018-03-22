@@ -33,7 +33,7 @@ _Context: 2009 Pacific Mini Games, Cook Islands, Rarotonga_
 
 ##### President Hu Jintao
 ### [ Chinese President Hu Jintao tells a U.N. summit on climate change that China will reduce greenhouse gas emissions and increase reliance on clean energy sources in coming years. ](/news/2009/09/22/chinese-president-hu-jintao-tells-a-u-n-summit-on-climate-change-that-china-will-reduce-greenhouse-gas-emissions-and-increase-reliance-on.md)
-_Context: China, President Hu Jintao, U.N., climate change, greenhouse gas emissions_
+_Context: Chinese, President Hu Jintao, U.N., climate change, greenhouse gas emissions_
 
 ##### Murder
 ### [ Official government figures indicate the murder rate in South Africa has fallen, though robberies and sexual offences are on the increase. ](/news/2009/09/22/official-government-figures-indicate-the-murder-rate-in-south-africa-has-fallen-though-robberies-and-sexual-offences-are-on-the-increase.md)
@@ -47,9 +47,9 @@ _Context: Bayo Ohu, Lagos, Nigeria, The Guardian_
 ### [ The New Zealand dollar soars to a 13-month high against both the U.S. dollar and euro. ](/news/2009/09/22/the-new-zealand-dollar-soars-to-a-13-month-high-against-both-the-u-s-dollar-and-euro.md)
 Basking in good economic news, the New Zealand dollar reached multi-month highs against major currencies overnight as the greenback weakened further. - New Zealand Herald
 
-##### U.S.
+##### United States
 ### [ For the first time in at least ten years, all United States embassies and consulates in South Africa are closed following an unspecified "security threat". ](/news/2009/09/22/for-the-first-time-in-at-least-ten-years-all-united-states-embassies-and-consulates-in-south-africa-are-closed-following-an-unspecified-s.md)
-_Context: South Africa, U.S._
+_Context: South Africa, United States_
 
 ##### Attorney General for England and Wales
 ### [ Attorney General for England and Wales Patricia Scotland, Baroness Scotland of Asthal, is fined GBP5,000 after being found to have employed a housekeeper who was not legally allowed to work in the UK. ](/news/2009/09/22/attorney-general-for-england-and-wales-patricia-scotland-baroness-scotland-of-asthal-is-fined-gbp5-000-after-being-found-to-have-employed.md)

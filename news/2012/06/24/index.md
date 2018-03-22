@@ -7,7 +7,7 @@ Formats: [HTML](2012/06/24/index.html)  [JSON](2012/06/24/index.json)  [XML](201
 ### [Lonesome George, the last known Pinta Island Tortoise, is found dead in the Galapagos Islands. ](/news/2012/06/24/lonesome-george-the-last-known-pinta-island-tortoise-is-found-dead-in-the-galapagos-islands.md)
 Lonesome George, a giant tortoise which became an icon for conservation on the Galapagos islands, has died, making its subspecies extinct.
 
-##### China
+##### Chinese
 ### [China successfully carries out its first manual docking of a spacecraft between the Shenzhou 9 capsule and Tiangong-1 station. ](/news/2012/06/24/china-successfully-carries-out-its-first-manual-docking-of-a-spacecraft-between-the-shenzhou-9-capsule-and-tiangong-1-station.md)
 China successfully carries out its first ever manual docking of a spacecraft, the Shenzhou-9, with another space module.
 
@@ -23,7 +23,7 @@ _Context: Mohamed Morsi, Muslim Brotherhood, presidential election_
 ### [Imprisoned U.S. serviceman Bradley Manning's civilian lawyer argues the U.S. government is deliberately attempting to prevent his client from receiving a fair trial. ](/news/2012/06/24/imprisoned-u-s-serviceman-bradley-manning-s-civilian-lawyer-argues-the-u-s-government-is-deliberately-attempting-to-prevent-his-client-fro.md)
 _Context: Bradley Manning_
 
-##### U.S.
+##### United States
 ### [The United States admits that it infected Iranian computers with Spyware. ](/news/2012/06/24/the-united-states-admits-that-it-infected-iranian-computers-with-spyware.md)
 The massive piece of malware was designed to secretly map Iran&rsquo;s computer networks and monitor the computers of Iranian officials, according to officials.
 

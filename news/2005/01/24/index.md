@@ -15,9 +15,9 @@ _Context: Crisis Management Initiative, Finland, GAM, Helsinki, Indonesia, cease
 ### [ North Korea has cut its food rations to half the amount that the United Nations World Food Program recommends. U.N. officials say the cut appears temporary and is not unprecedented in a country where fluctuations in public food distribution are regular. ](/news/2005/01/24/north-korea-has-cut-its-food-rations-to-half-the-amount-that-the-united-nations-world-food-program-recommends-u-n-officials-say-the-cut-a.md)
 _Context: North Korea, United Nations World Food Program_
 
-##### United Kingdom
+##### UK
 ### [ In the United Kingdom, Alan Roy Williams, a doctor who gave evidence against Sally Clark who was wrongfully convicted of the murder of her two sons, is charged with serious professional misconduct. ](/news/2005/01/24/in-the-united-kingdom-alan-roy-williams-a-doctor-who-gave-evidence-against-sally-clark-who-was-wrongfully-convicted-of-the-murder-of-her.md)
-_Context: Alan Roy Williams, Sally Clark, United Kingdom, murder_
+_Context: Alan Roy Williams, Sally Clark, UK, murder_
 
 ##### India
 ### [ In India, priest Sri Jayendra Saraswathi, his deputy Vijayendra Saraswathi and various other people have been charged for murder. Saraswathi has been released on bail after two months in prison and denies involvement. ](/news/2005/01/24/in-india-priest-sri-jayendra-saraswathi-his-deputy-vijayendra-saraswathi-and-various-other-people-have-been-charged-for-murder-saraswath.md)
@@ -49,7 +49,7 @@ _Context: Moscow, Prime Minister of Ukraine, Ukrainian President, Viktor Yushche
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: A suicide car bomb is detonated near interim Prime Minister Iyad Allawi's Iraqi National Accord party office. Officials say Allawi was not in the area at the time and that seven policemen and three civilians were wounded. U.S. military officials confirm the death of one soldier in Mosul and state four of Iraq's 18 provinces, a quarter of the total population and predominantly Sunni, will be unsafe to vote in Sunday's elections. ](/news/2005/01/24/conflict-in-iraq-a-suicide-car-bomb-is-detonated-near-interim-prime-minister-iyad-allawi-s-iraqi-national-accord-party-office-officials-s.md)
-_Context: Conflict in Iraq, Iraq, Iraqi National Accord, Iyad Allawi, Mosul, Sunni, U.S., car bomb, legislative election_
+_Context: Conflict in Iraq, Iraq, Iraqi National Accord, Iyad Allawi, Mosul, Sunni, United States, car bomb, legislative election_
 
 ## [Previous Day...](/news/2005/01/23/index.md)
 

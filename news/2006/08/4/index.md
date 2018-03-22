@@ -5,7 +5,7 @@ Formats: [HTML](2006/08/4/index.html)  [JSON](2006/08/4/index.json)  [XML](2006/
 
 ##### Arizona
 ### [ Arizona police in the United States announce the arrests of two men who are accused of 35 attacks and murders. ](/news/2006/08/4/arizona-police-in-the-united-states-announce-the-arrests-of-two-men-who-are-accused-of-35-attacks-and-murders.md)
-_Context: Arizona, U.S._
+_Context: Arizona, United States_
 
 ##### Somalia
 ### [ Somalia's transitional government is on the verge of collapse after 38 ministers and assistant ministers quit in the past nine days in protest against the governments failure to make a deal with the Supreme Islamic Courts Council. ](/news/2006/08/4/somalia-s-transitional-government-is-on-the-verge-of-collapse-after-38-ministers-and-assistant-ministers-quit-in-the-past-nine-days-in-prot.md)

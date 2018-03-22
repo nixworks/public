@@ -43,9 +43,9 @@ _Context: Indigenous, Northern Territory, Rock climbing in Australia, Uluru, Ulu
 ### [Two fuel tankers are bombed in the Afghan town of Charikar, killing at least 15 people and injuring at least 27. ](/news/2017/11/1/two-fuel-tankers-are-bombed-in-the-afghan-town-of-charikar-killing-at-least-15-people-and-injuring-at-least-27.md)
 At least 15 people were killed and 27 wounded when fuel tankers exploded in the town of Charikar, northwest of the Afghan capital Kabul on Wednesday, destroying a nearby bus, residents and officials said.
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [A Saudi-led coalition airstrike on a market in Sahar District in Yemen's northern Saada Governorate, which is under Houthi control, kills at least 26 people, according to medics and local officials. ](/news/2017/11/1/a-saudi-led-coalition-airstrike-on-a-market-in-sahar-district-in-yemen-s-northern-saada-governorate-which-is-under-houthi-control-kills-at.md)
-_Context: Houthi, Saada Governorate, Sahar District, Saudi Arabia, Saudi-led intervention in Yemen, Yemen_
+_Context: Houthis, Sa'da province, Sahar District, Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen_
 
 ## [Previous Day...](/news/2017/10/31/index.md)
 

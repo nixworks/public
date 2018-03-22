@@ -9,7 +9,7 @@ _Context: 2017-18 United States political sexual scandals, Jeff Kruse, Oregon St
 
 ##### Mexican Drug War
 ### [Mexican authorities arrest American-born Jose Maria Guizar Valencia, the alleged leader of the Zetas drug cartel, as he was entering a hotel in Mexico City's upscale neighborhood of Roma. ](/news/2018/02/8/mexican-authorities-arrest-american-born-jose-maria-guizar-valencia-the-alleged-leader-of-the-zetas-drug-cartel-as-he-was-entering-a-hotel.md)
-_Context: Mexican Drug War, Mexico City, Roma, U.S., Zetas, drug cartel_
+_Context: Mexican Drug War, Mexico City, Roma, United States, Zetas, drug cartel_
 
 ##### Crime in Toronto
 ### [The remains of six people found on a property in East York are linked to alleged serial killer Bruce McArthur. This brings the total body count to eleven. ](/news/2018/02/8/the-remains-of-six-people-found-on-a-property-in-east-york-are-linked-to-alleged-serial-killer-bruce-mcarthur-this-brings-the-total-body-co.md)

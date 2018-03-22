@@ -31,9 +31,9 @@ _Context: 2006 Kodori crisis, Emzar Kvitsiani_
 ### [ In Rome, the President of the Venice Biennale Davide Croff and the Director of the 63rd Venice Film Festival Marco Mller have presented the line-up of the festival, which runs August 30 - September 9. ](/news/2006/07/27/in-rome-the-president-of-the-venice-biennale-davide-croff-and-the-director-of-the-63rd-venice-film-festival-marco-muller-have-presented-th.md)
 _Context: Rome, Italy, Venice Biennale, Venice Film Festival_
 
-##### China
+##### Chinese
 ### [ More than 80 people dead and missing in China as a result of Typhoon Kaemi. ](/news/2006/07/27/more-than-80-people-dead-and-missing-in-china-as-a-result-of-typhoon-kaemi.md)
-_Context: China, Typhoon Kaemi_
+_Context: Chinese, Typhoon Kaemi_
 
 ##### DR Congo
 ### [ The three main militia groups in the troubled DR Congo eastern province of Ituri have agreed to lay down arms and begin integrating into the Congolese army.](/news/2006/07/27/the-three-main-militia-groups-in-the-troubled-dr-congo-eastern-province-of-ituri-have-agreed-to-lay-down-arms-and-begin-integrating-into-th.md)

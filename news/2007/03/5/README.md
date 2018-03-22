@@ -23,9 +23,9 @@ _Context: Baghdad, car bomb_
 ### [ Ramush Haradinaj, the former Prime Minister of Kosovo, goes on trial at the International Criminal Tribunal for the Former Yugoslavia at The Hague for war crimes allegedly committed while he was a regional leader of the Kosovo Liberation Army. ](/news/2007/03/5/ramush-haradinaj-the-former-prime-minister-of-kosovo-goes-on-trial-at-the-international-criminal-tribunal-for-the-former-yugoslavia-at-th.md)
 _Context: International Criminal Tribunal for the Former Yugoslavia, Kosovo Liberation Army, Prime Minister, Ramush Haradinaj, The Hague, war crimes_
 
-##### U.S.
+##### United States
 ### [ The United States and North Korea commence talks in New York City to establish diplomatic relations following the abandonment of the North Korean nuclear weapons program. ](/news/2007/03/5/the-united-states-and-north-korea-commence-talks-in-new-york-city-to-establish-diplomatic-relations-following-the-abandonment-of-the-north.md)
-_Context: New York City, North Korea, North Korean nuclear weapons program, U.S., diplomatic relations_
+_Context: New York City, North Korea, North Korean nuclear weapons program, United States, diplomatic relations_
 
 ## [Previous Day...](/news/2007/03/4/index.md)
 

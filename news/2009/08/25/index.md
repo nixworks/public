@@ -21,7 +21,7 @@ _Context:  debt_
 
 ##### Shanxi province
 ### [ A gas explosion at a coal mine in Shanxi, China, kills at least 14 people. ](/news/2009/08/25/a-gas-explosion-at-a-coal-mine-in-shanxi-china-kills-at-least-14-people.md)
-_Context: China, Shanxi province_
+_Context: Chinese, Shanxi province_
 
 ##### Afghanistan
 ### [ A bomb in Afghanistan kills four American soldiers, making 2009 the deadliest year for foreign troops since the 2001 invasion. ](/news/2009/08/25/a-bomb-in-afghanistan-kills-four-american-soldiers-making-2009-the-deadliest-year-for-foreign-troops-since-the-2001-invasion.md)

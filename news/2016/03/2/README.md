@@ -51,7 +51,7 @@ Jordan says a raid in the city of Irbid that left seven suspected jihadist milit
 ### [Two Palestinian teenagers, from the nearby village of Qaryout, got into a Jewish settlement and stabbed an Israeli settler at his home in the Eli settlement near Nablus in the occupied West Bank. They were stopped and killed by the army. The injured settler was taken to a hospital. ](/news/2016/03/2/two-palestinian-teenagers-from-the-nearby-village-of-qaryout-got-into-a-jewish-settlement-and-stabbed-an-israeli-settler-at-his-home-in-th.md)
 Israeli soldiers shot dead two Palestinian teens who had attacked an Israeli settler at his home in the occupied West Bank on Wednesday, the military said, as a wave of heightened violence entered its sixth month.
 
-##### China
+##### Chinese
 ### [One Chinese national is killed and three others injured in a possible militant attack on a Chinese-invested company in Laos, the official Xinhua News Agency reports. ](/news/2016/03/2/one-chinese-national-is-killed-and-three-others-injured-in-a-possible-militant-attack-on-a-chinese-invested-company-in-laos-the-official-xi.md)
 One Chinese national was killed and three wounded in a &quot;militant&quot; attack in Laos, state media said on Wednesday, in what was at least the second confirmed attack in the country involving Chinese workers this year.
 

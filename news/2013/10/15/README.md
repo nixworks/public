@@ -5,7 +5,7 @@ Formats: [HTML](2013/10/15/index.html)  [JSON](2013/10/15/index.json)  [XML](201
 
 ##### 2013 Beijing Capital International Airport bombing
 ### [The perpetrator of the 2013 Beijing Capital International Airport bombing Ji Zhongxing is sentenced to 6 years imprisonment by a Chinese court. ](/news/2013/10/15/the-perpetrator-of-the-2013-beijing-capital-international-airport-bombing-ji-zhongxing-is-sentenced-to-6-years-imprisonment-by-a-chinese-cou.md)
-_Context: 2013 Beijing Capital International Airport bombing, China_
+_Context: 2013 Beijing Capital International Airport bombing, Chinese_
 
 ##### President of Liberia
 ### [The former Liberian President Charles Taylor arrives in the United Kingdom to serve the remainder of a 50-year sentence after becoming the first head of state to be convicted of war crimes since World War II. ](/news/2013/10/15/the-former-liberian-president-charles-taylor-arrives-in-the-united-kingdom-to-serve-the-remainder-of-a-50-year-sentence-after-becoming-the-f.md)
@@ -29,7 +29,7 @@ Glenn Greenwald, who has made headlines around the world with his reporting on U
 
 ##### Fitch Ratings
 ### [International credit rating group Fitch Ratings places the United States under a "Rating watch negative" in response to the looming financial crisis. ](/news/2013/10/15/international-credit-rating-group-fitch-ratings-places-the-united-states-under-a-rating-watch-negative-in-response-to-the-looming-financia.md)
-_Context: Fitch Ratings, U.S._
+_Context: Fitch Ratings, United States_
 
 ##### New Zealand
 ### [New Zealand author Eleanor Catton wins the 2013 Man Booker Prize for her work "The Luminaries". ](/news/2013/10/15/new-zealand-author-eleanor-catton-wins-the-2013-man-booker-prize-for-her-work-the-luminaries.md)

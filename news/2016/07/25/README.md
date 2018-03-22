@@ -33,7 +33,7 @@ _Context: Verizon Communications, Yahoo!_
 
 ##### Conflict in Najran
 ### [Saudi Arabia's Interior Ministry says five border guards have been killed following clashes with Houthi militants on the border with Yemen. ](/news/2016/07/25/saudi-arabia-s-interior-ministry-says-five-border-guards-have-been-killed-following-clashes-with-houthi-militants-on-the-border-with-yemen.md)
-_Context: Conflict in Najran, Houthi, Interior Ministry, Saudi Arabia, Yemen, border guards_
+_Context: Conflict in Najran, Houthis, Interior Ministry, Saudi Arabia, Yemen, border guards_
 
 ##### Iraqi Civil War (2014-present)
 ### [A suicide car bomb kills at least 21 people and wounds more than 32 at the entrance to Al Khalis, northeast of Baghdad. Most died inside their vehicles while waiting to enter the town. ](/news/2016/07/25/a-suicide-car-bomb-kills-at-least-21-people-and-wounds-more-than-32-at-the-entrance-to-al-khalis-northeast-of-baghdad-most-died-inside-the.md)

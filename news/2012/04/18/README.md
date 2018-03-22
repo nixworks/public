@@ -7,7 +7,7 @@ Formats: [HTML](2012/04/18/index.html)  [JSON](2012/04/18/index.json)  [XML](201
 ### [In a rare move for courts in the United Kingdom, television cameras are allowed into the High Court in Edinburgh to film the sentencing of David Gilroy for the murder of Suzanne Pilley. ](/news/2012/04/18/in-a-rare-move-for-courts-in-the-united-kingdom-television-cameras-are-allowed-into-the-high-court-in-edinburgh-to-film-the-sentencing-of-d.md)
 _Context: murder of Suzanne Pilley, the High Court in Edinburgh_
 
-##### China
+##### Chinese
 ### [China pledges an investigation into the death of British businessman Neil Haywood, and the alleged role of former politician Bo Xilai and his wife. ](/news/2012/04/18/china-pledges-an-investigation-into-the-death-of-british-businessman-neil-haywood-and-the-alleged-role-of-former-politician-bo-xilai-and-hi.md)
 China promises a &quot;thorough&quot; investigation into a top politician linked to the death of a UK businessman, after PM David Cameron holds talks with envoy.
 
@@ -31,9 +31,9 @@ Cuba hails a Latin American &quot;rebellion&quot; against US dominance at the Su
 ### [In the U.S., the Commodity Futures Trading Commission and the Securities and Exchange Commission finalize joint rules that will limit which firms must register with either or both of those agencies as "swap dealers." ](/news/2012/04/18/in-the-u-s-the-commodity-futures-trading-commission-and-the-securities-and-exchange-commission-finalize-joint-rules-that-will-limit-which.md)
 U.S. regulators limited the number of market players that will be slapped with a pricey &quot;swap dealer&quot; tag, heeding warnings by swap users about getting too tough but dismaying advocates of greater oversight.
 
-##### U.S.
+##### United States
 ### [American television personality and producer Dick Clark dies of a heart attack at the age of 82. ](/news/2012/04/18/american-television-personality-and-producer-dick-clark-dies-of-a-heart-attack-at-the-age-of-82.md)
-_Context: Dick Clark, U.S._
+_Context: Dick Clark, United States_
 
 ##### Casoria Contemporary Art Museum
 ### [The Casoria Contemporary Art Museum in Naples begins burning its artworks due to government budget cuts affecting cultural institutions. ](/news/2012/04/18/the-casoria-contemporary-art-museum-in-naples-begins-burning-its-artworks-due-to-government-budget-cuts-affecting-cultural-institutions.md)

@@ -11,9 +11,9 @@ _Context: Google, Google Maps, North Korea, satellite images, search engine_
 ### [UK government plans to redraw constituency boundaries before the next general election are defeated in the House of Commons by 334 to 292. ](/news/2013/01/29/uk-government-plans-to-redraw-constituency-boundaries-before-the-next-general-election-are-defeated-in-the-house-of-commons-by-334-to-292.md)
 Government plans to redraw constituency boundaries before 2015, which split Tories and Lib Dems, are defeated in the House of Commons.
 
-##### U.S.
+##### United States
 ### [The United States Senate confirms John Kerry to become United States Secretary of State by a vote of 94-3. Kerry succeeds outgoing Secretary Hillary Clinton on February 1. ](/news/2013/01/29/the-united-states-senate-confirms-john-kerry-to-become-united-states-secretary-of-state-by-a-vote-of-94a3-kerry-succeeds-outgoing-secreta.md)
-_Context: Hillary Clinton, John Kerry, Secretary of State, U.S., United States Senate_
+_Context: Hillary Clinton, John Kerry, Secretary of State, United States, United States Senate_
 
 ##### Ukraine
 ### [A Ukrainian court sentences a former police chief Olexiy Pukach to life imprisonment for murdering journalist Georgiy Gongadze in 2000. ](/news/2013/01/29/a-ukrainian-court-sentences-a-former-police-chief-olexiy-pukach-to-life-imprisonment-for-murdering-journalist-georgiy-gongadze-in-2000.md)
@@ -31,7 +31,7 @@ _Context: Bank of Italy, Economy Minister, Italy, Monte dei Paschi, Vittorio Gri
 ### [At least 65 corpses are discovered in the Queiq River near Aleppo. All of them appear to have been executed with gunshots. ](/news/2013/01/29/at-least-65-corpses-are-discovered-in-the-queiq-river-near-aleppo-all-of-them-appear-to-have-been-executed-with-gunshots.md)
 The bodies of at least 71 young men, all apparently summarily executed, have been found in the northern Syrian city of Aleppo, rebels and activists say.
 
-##### United Kingdom
+##### UK
 ### [The UK announces it will deploy 330 military personnel to Mali and other West African countries in support of French forces operating in the area. ](/news/2013/01/29/the-uk-announces-it-will-deploy-330-military-personnel-to-mali-and-other-west-african-countries-in-support-of-french-forces-operating-in-the.md)
 The UK is to deploy about 330 military personnel to Mali and West Africa to support French forces there, Downing Street says.
 

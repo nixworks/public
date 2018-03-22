@@ -65,7 +65,7 @@ The US Senate has voted to extend the power of intelligence agents to eavesdrop 
 
 ##### Congress
 ### [ The United States Congress allocates $250 million to rebuild the I-35W Mississippi River bridge in Minneapolis, Minnesota. ](/news/2007/08/3/the-united-states-congress-allocates-250-million-to-rebuild-the-i-35w-mississippi-river-bridge-in-minneapolis-minnesota.md)
-_Context: $, Congress, I-35W Mississippi River bridge, Minneapolis_
+_Context: Congress, I-35W Mississippi River bridge, Minneapolis, US$_
 
 ##### U.S. President
 ### [ US President George W. Bush signs a bill to implement recommendations of the 9-11 Commission. ](/news/2007/08/3/us-president-george-w-bush-signs-a-bill-to-implement-recommendations-of-the-9-11-commission.md)

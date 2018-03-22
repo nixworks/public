@@ -23,9 +23,9 @@ _Context: Military of Guinea, Moussa Dadis Camara_
 ### [ The European Commission denies accusations that it broke Ireland's laws against using taxpayers' money on referendum spending after an EU office in Dublin paid EUR150,000 to insert a guide to the Treaty of Lisbon into all Sunday newspapers as the country's second referendum approaches. ](/news/2009/09/29/the-european-commission-denies-accusations-that-it-broke-ireland-s-laws-against-using-taxpayers-money-on-referendum-spending-after-an-eu-o.md)
  FUNDING FROM EUROPE: THE EUROPEAN Commission has rejected suggestions from No campaigners that it broke Irish rules on referendum&hellip;
 
-##### President
+##### Peruvian President
 ### [ Former President of Peru Alberto Fujimori pleads guilty to charges of bribery and spying on his old rivals during his presidency. ](/news/2009/09/29/former-president-of-peru-alberto-fujimori-pleads-guilty-to-charges-of-bribery-and-spying-on-his-old-rivals-during-his-presidency.md)
-_Context: Alberto Fujimori, President, bribes, spying_
+_Context: Alberto Fujimori, Peruvian President, bribes, spying_
 
 ##### Malaysia
 ### [ A court in Malaysia upholds a whipping punishment for Kartika Sari Dewi Shukarno who was convicted of drinking beer. ](/news/2009/09/29/a-court-in-malaysia-upholds-a-whipping-punishment-for-kartika-sari-dewi-shukarno-who-was-convicted-of-drinking-beer.md)

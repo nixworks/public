@@ -17,7 +17,7 @@ South Sudanese President Salva Kiir reappointed rebel leader Riek Machar as his 
 
 ##### Stuart Robert
 ### [Stuart Robert representing the Liberal Party, Australia's Minister for Veterans' Affairs and for Human Services, resigns for breaching ministerial standards during his 2014 business trip to China while Assistant Minister for Defence. ](/news/2016/02/12/stuart-robert-representing-the-liberal-party-australia-s-minister-for-veterans-affairs-and-for-human-services-resigns-for-breaching-minis.md)
-_Context: Assistant Minister for Defence, China, Human Services, Liberals, Minister for Veterans' Affairs, Stuart Robert_
+_Context: Assistant Minister for Defence, Chinese, Human Services, Liberals, Minister for Veterans' Affairs, Stuart Robert_
 
 ##### Cairo
 ### [In Cairo, thousands of doctors protest against police impunity following the assault, allegedly by Egyptian police officers, of two doctors in a hospital last week. Protests here are rare since enactment of a law limiting demonstrations to those with prior police approval. Another protest is planned across all hospitals for February 20. ](/news/2016/02/12/in-cairo-thousands-of-doctors-protest-against-police-impunity-following-the-assault-allegedly-by-egyptian-police-officers-of-two-doctors.md)
@@ -53,7 +53,7 @@ _Context: 2016 Taiwan earthquake, Tainan_
 
 ##### Evgeny Lebedev
 ### [Evgeny Lebedev, the owner of the British national newspaper, "The Independent", announces that as of March 2016, the 29-year-old paper will only publish online with print editions coming to an end. ](/news/2016/02/12/evgeny-lebedev-the-owner-of-the-british-national-newspaper-the-independent-announces-that-as-of-march-2016-the-29-year-old-paper-will.md)
-_Context: Evgeny Lebedev, The Independent, United Kingdom, newspaper_
+_Context: Evgeny Lebedev, The Independent, UK, newspaper_
 
 ##### Yemeni Civil War (2015-present)
 ### [At least five policemen are killed in an attack on a police station in Aden. ](/news/2016/02/12/at-least-five-policemen-are-killed-in-an-attack-on-a-police-station-in-aden.md)

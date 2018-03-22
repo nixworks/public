@@ -13,7 +13,7 @@ _Context: Republican, United States Senate, earmarking_
 
 ##### U.S. President
 ### [The President of the United States Barack Obama presents a Medal of Honor, the highest United States military decoration to Staff Sgt Salvatore Giunta at the White House. ](/news/2010/11/16/the-president-of-the-united-states-barack-obama-presents-a-medal-of-honor-the-highest-united-states-military-decoration-to-staff-sgt-salvat.md)
-_Context: Barack Obama, Medal of Honor, Salvatore Giunta, U.S., U.S. President, White House_
+_Context: Barack Obama, Medal of Honor, Salvatore Giunta, U.S. President, United States, White House_
 
 ##### United States House Committee on Standards of Official Conduct
 ### [The United States House Committee on Standards of Official Conduct finds Charlie Rangel guilty of multiple violations of House of Representatives rules. ](/news/2010/11/16/the-united-states-house-committee-on-standards-of-official-conduct-finds-charlie-rangel-guilty-of-multiple-violations-of-house-of-representa.md)
@@ -31,9 +31,9 @@ _Context: European Union, Herman Van Rompuy_
 ### [The UK Government is to pay millions of pounds in compensation to around a dozen British citizens who were held in detention overseas, including the camp at Guantanamo Bay, and who say British security services colluded in their torture. ](/news/2010/11/16/the-uk-government-is-to-pay-millions-of-pounds-in-compensation-to-around-a-dozen-british-citizens-who-were-held-in-detention-overseas-inclu.md)
 About a dozen men, who accused UK security forces of colluding in their torture overseas, are to get millions of pounds in compensation.
 
-##### United Kingdom
+##### UK
 ### [British author Alan Shadrake is jailed for six weeks in Singapore for contempt of court. ](/news/2010/11/16/british-author-alan-shadrake-is-jailed-for-six-weeks-in-singapore-for-contempt-of-court.md)
-_Context: Alan Shadrake, Singapore, United Kingdom, contempt of court_
+_Context: Alan Shadrake, Singapore, UK, contempt of court_
 
 ##### Thailand
 ### [Thailand extradites suspected Russian arms dealer Viktor Bout to the United States to face terrorism charges. ](/news/2010/11/16/thailand-extradites-suspected-russian-arms-dealer-viktor-bout-to-the-united-states-to-face-terrorism-charges.md)
@@ -87,9 +87,9 @@ Prince William is to marry long-term girlfriend Kate Middleton next year after t
 ### [Iran started a 5-day air defense drill, claimed by its government to be the biggest drill of its kind ever. The drills are held near its nuclear facilities. ](/news/2010/11/16/iran-started-a-5-day-air-defense-drill-claimed-by-its-government-to-be-the-biggest-drill-of-its-kind-ever-the-drills-are-held-near-its-nuc.md)
 Iran began what it said was its biggest ever air defense drill on Tuesday to test its ability to deter air strikes, which the United States and Israel have not ruled out to prevent it from developing nuclear weapons.
 
-##### U.S.
+##### United States
 ### [A suspected US missile attack on insurgents in the village of Bangi Dar in the North Waziristan region of Pakistan kills at least 15. ](/news/2010/11/16/a-suspected-us-missile-attack-on-insurgents-in-the-village-of-bangi-dar-in-the-north-waziristan-region-of-pakistan-kills-at-least-15.md)
-_Context: North Waziristan, Pakistan, U.S._
+_Context: North Waziristan, Pakistan, United States_
 
 ##### Battambang province
 ### [An anti-tank mine explodes under a truck in Battambang province of Cambodia, killing all 14 people aboard. ](/news/2010/11/16/an-anti-tank-mine-explodes-under-a-truck-in-battambang-province-of-cambodia-killing-all-14-people-aboard.md)

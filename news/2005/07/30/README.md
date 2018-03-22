@@ -9,7 +9,7 @@ _Context:  Georgian, military base_
 
 ##### Uzbekistan
 ### [ Uzbekistan has reportedly given the United States six months to move out of a key base used for operations in Afghanistan.](/news/2005/07/30/uzbekistan-has-reportedly-given-the-united-states-six-months-to-move-out-of-a-key-base-used-for-operations-in-afghanistan.md)
-_Context: Afghanistan, U.S., Uzbekistan_
+_Context: Afghanistan, United States, Uzbekistan_
 
 ##### Lawyer
 ### [ Lawyers for the former President of Iraq, Saddam Hussein, claim he was attacked by an unidentified man after questioning by the Iraqi special tribunal on Thursday; however the United States denies the event. ](/news/2005/07/30/lawyers-for-the-former-president-of-iraq-saddam-hussein-claim-he-was-attacked-by-an-unidentified-man-after-questioning-by-the-iraqi-speci.md)

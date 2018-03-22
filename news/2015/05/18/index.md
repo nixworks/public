@@ -59,7 +59,7 @@ _Context: Anbar Governorate, ISIS, Iraq, Islamic State in Iraq and the Levant, R
 ### [Simultaneous explosions occur at local offices of the pro-Kurdish People's Democratic Party headquarters in the southern Turkish cities of Adana and Mersin. ](/news/2015/05/18/simultaneous-explosions-occur-at-local-offices-of-the-pro-kurdish-people-s-democratic-party-headquarters-in-the-southern-turkish-cities-of-a.md)
 Casualties have been reported after several explosions hit 2 leftwing pro-Kurdish party HQs in Turkey.
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [The Saudi Arabia-led airstrikes against the Houthi rebels resume after a five-day ceasefire. ](/news/2015/05/18/the-saudi-arabia-led-airstrikes-against-the-houthi-rebels-resume-after-a-five-day-ceasefire.md)
 A Saudi-led coalition resumes air strikes against Houthi rebels in Yemen after a five-day humanitarian ceasefire expires.
 

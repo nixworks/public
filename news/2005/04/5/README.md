@@ -19,9 +19,9 @@ _Context: India, Mumbai, Russian Circus on Ice, circus_
 ### [ Rwandan official Aloys Mutabingwa, a representative at the International Criminal Tribunal for Rwanda, says that 100 Rwandans connected to the Rwandan genocide are "comfortably living in France". ](/news/2005/04/5/rwandan-official-aloys-mutabingwa-a-representative-at-the-international-criminal-tribunal-for-rwanda-says-that-100-rwandans-connected-to.md)
 _Context: 1994 genocide, Aloys Mutabingwa, France, International Criminal Tribunal for Rwanda, Rwanda_
 
-##### U.S.
+##### United States
 ### [ American newscaster Peter Jennings states that he has lung cancer and will begin chemotherapy. ](/news/2005/04/5/american-newscaster-peter-jennings-states-that-he-has-lung-cancer-and-will-begin-chemotherapy.md)
-_Context: Peter Jennings, U.S., chemotherapy, lung cancer_
+_Context: Peter Jennings, United States, chemotherapy, lung cancer_
 
 ##### Italy
 ### [ Preliminary results of the Italian regional elections show heavy losses for the parties in Silvio Berlusconi's centre-right coalition. ](/news/2005/04/5/preliminary-results-of-the-italian-regional-elections-show-heavy-losses-for-the-parties-in-silvio-berlusconi-s-centre-right-coalition.md)
@@ -33,7 +33,7 @@ _Context: Guatemala, Rigoberta Mench, racial discrimination_
 
 ##### Tony Blair
 ### [ Tony Blair calls the General Election in the United Kingdom for May 5, 2005, on the same day as the local elections. ](/news/2005/04/5/tony-blair-calls-the-general-election-in-the-united-kingdom-for-may-5-2005-on-the-same-day-as-the-local-elections.md)
-_Context: 2005 general election, Tony Blair, United Kingdom_
+_Context: 2005 general election, Tony Blair, UK_
 
 ##### South Korea
 ### [ The government of South Korea complains to the Japanese government about a revised set of official Japanese history schoolbooks. The complaint alleges the textbooks whitewash Japan's "imperialist" past, and question Korean sovereignty of the disputed Liancourt Rocks. ](/news/2005/04/5/the-government-of-south-korea-complains-to-the-japanese-government-about-a-revised-set-of-official-japanese-history-schoolbooks-the-compla.md)

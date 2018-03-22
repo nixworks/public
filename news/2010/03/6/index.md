@@ -3,9 +3,9 @@ Formats: [HTML](2010/03/6/index.html)  [JSON](2010/03/6/index.json)  [XML](2010/
 
 ## [2010-03-6](/news/2010/03/6/index.md)
 
-##### U.S.
+##### United States
 ### [US Defense Secretary Robert Gates reviews allegations of misconduct in Afghanistan by the private military company formerly known as Blackwater, Xe Services LLC. ](/news/2010/03/6/us-defense-secretary-robert-gates-reviews-allegations-of-misconduct-in-afghanistan-by-the-private-military-company-formerly-known-as-blackwa.md)
-_Context: Afghanistan, Blackwater Worldwide, Robert Gates, U.S., United States Secretary of Defense, private military company_
+_Context: Afghanistan, Blackwater Worldwide, Robert Gates, United States, United States Secretary of Defense, private military company_
 
 ##### Iceland
 ### [Iceland holds a referendum about compensating the United Kingdom and the Netherlands after the collapse of the Icesave bank, with a 95% "no" vote recorded. ](/news/2010/03/6/iceland-holds-a-referendum-about-compensating-the-united-kingdom-and-the-netherlands-after-the-collapse-of-the-icesave-bank-with-a-95-no.md)
@@ -45,7 +45,7 @@ _Context: Brussels_
 
 ##### Washington, D.C.
 ### [Washington, D.C. is to become the first American city to hand out free female condoms in the battle against HIV-AIDS. ](/news/2010/03/6/washington-d-c-is-to-become-the-first-american-city-to-hand-out-free-female-condoms-in-the-battle-against-hiv-aids.md)
-_Context: AIDS, HIV, U.S., Washington, D.C., female condom_
+_Context: AIDS, HIV, United States, Washington, D.C., female condom_
 
 ##### Michel Martin
 ### [Michel Martin briefs his fellow EU Foreign Ministers on his visit to Gaza at a meeting in Crdoba, Spain. ](/news/2010/03/6/micheal-martin-briefs-his-fellow-eu-foreign-ministers-on-his-visit-to-gaza-at-a-meeting-in-cordoba-spain.md)

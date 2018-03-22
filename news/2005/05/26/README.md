@@ -41,23 +41,23 @@ _Context: Brazil, So Paulo, flash flood_
 
 ##### Thailand
 ### [ In Thailand, police officer Somchai Visetsingha is sentenced to a life in prison for murder of two British backpackers in 2004. ](/news/2005/05/26/in-thailand-police-officer-somchai-visetsingha-is-sentenced-to-a-life-in-prison-for-murder-of-two-british-backpackers-in-2004.md)
-_Context: 2004, Somchai Visetsingha, Thailand, United Kingdom, backpackers_
+_Context: 2004, Somchai Visetsingha, Thailand, UK, backpackers_
 
-##### United Kingdom
+##### UK
 ### [ British Foreign Minister Jack Straw announces that Iran has renewed its promise to refrain from developing nuclear weapons, and talks on its atomic program will continue following a meeting between Iranian nuclear officials and European Union ministers in Geneva. ](/news/2005/05/26/british-foreign-minister-jack-straw-announces-that-iran-has-renewed-its-promise-to-refrain-from-developing-nuclear-weapons-and-talks-on-it.md)
-_Context: European Union, Foreign Secretary, Geneva, Iran, Jack Straw, United Kingdom, atom, nuclear weapon_
+_Context: European Union, Foreign Secretary, Geneva, Iran, Jack Straw, UK, atom, nuclear weapon_
 
-##### United Kingdom
+##### UK
 ### [ British Liberal Democrat leader Charles Kennedy calls for a reform of the UK voting system after Labour took the majority of the seats in the UK election with just 35% of the votes. ](/news/2005/05/26/british-liberal-democrat-leader-charles-kennedy-calls-for-a-reform-of-the-uk-voting-system-after-labour-took-the-majority-of-the-seats-in-t.md)
-_Context: Charles Kennedy, Labour Party, Liberal Democrats, United Kingdom_
+_Context: Charles Kennedy, Labour Party, Liberal Democrats, UK_
 
-##### United Kingdom
+##### UK
 ### [ The British Association of University Teachers decides to cancel the boycott on Israeli Universities of Haifa and Bar-Ilan. The decision comes in a special meeting after both external and internal debate over the original decision.](/news/2005/05/26/the-british-association-of-university-teachers-decides-to-cancel-the-boycott-on-israeli-universities-of-haifa-and-bar-ilan-the-decision-co.md)
-_Context: Association of University Teachers, Bar-Ilan, Haifa, Israel, United Kingdom, boycott, universities_
+_Context: Association of University Teachers, Bar-Ilan, Haifa, Israel, UK, boycott, universities_
 
-##### U.S.
+##### United States
 ### [ U.S. President George W. Bush has promised the President of the Palestinian Authority, Abu Mazen, $50 million in aid and reiterated that Israel was to stop all settlement activity on the West Bank. ](/news/2005/05/26/u-s-president-george-w-bush-has-promised-the-president-of-the-palestinian-authority-abu-mazen-50-million-in-aid-and-reiterated-that-is.md)
-_Context: Abu Mazen, George W. Bush, Israel, President of the Palestinian Authority, U.S., U.S. President, West Bank_
+_Context: Abu Mazen, George W. Bush, Israel, President of the Palestinian Authority, U.S. President, United States, West Bank_
 
 ##### South Africa
 ### [ The South African Geographical Names Council unanimously approves a recommendation to change the name of the country's executive capital Pretoria to Tshwane. ](/news/2005/05/26/the-south-african-geographical-names-council-unanimously-approves-a-recommendation-to-change-the-name-of-the-country-s-executive-capital-pr.md)
@@ -65,7 +65,7 @@ _Context: Geographical Names Council, Pretoria, South Africa, Tshwane, capital, 
 
 ##### Congress
 ### [ A coalition of citizen groups will ask United States Congress to file a formal "Resolution of Inquiry", the first necessary legal step to determine whether U.S. President George W. Bush has committed impeachable offenses. The request, written by Boston constitutional attorney John C. Bonifaz, cites the Downing Street memo and issues surrounding the planning and execution of the Iraq war. ](/news/2005/05/26/a-coalition-of-citizen-groups-will-ask-united-states-congress-to-file-a-formal-resolution-of-inquiry-the-first-necessary-legal-step-to-d.md)
-_Context: 2003 invasion of Iraq, Congress, Downing Street memo, George W. Bush, John C. Bonifaz, U.S., U.S. President, impeach_
+_Context: 2003 invasion of Iraq, Congress, Downing Street memo, George W. Bush, John C. Bonifaz, U.S. President, United States, impeach_
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: Two US Soldiers are killed as a helicopter is shot down near Baquba, North of Baghdad. ](/news/2005/05/26/conflict-in-iraq-two-us-soldiers-are-killed-as-a-helicopter-is-shot-down-near-baquba-north-of-baghdad.md)

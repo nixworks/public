@@ -5,7 +5,7 @@ Formats: [HTML](2006/06/25/index.html)  [JSON](2006/06/25/index.json)  [XML](200
 
 ##### World's third richest man
 ### [ The world's third richest man, Warren Buffett, pledges to donate approximately $37 billion USD in shares to the Bill & Melinda Gates Foundation, effectively making it the largest charitable organization in history. ](/news/2006/06/25/the-world-s-third-richest-man-warren-buffett-pledges-to-donate-approximately-37-billion-usd-in-shares-to-the-bill-melinda-gates-founda.md)
-_Context: $, Bill & Melinda Gates Foundation, Warren Buffett, world's third richest man_
+_Context: Bill & Melinda Gates Foundation, US$, Warren Buffett, world's third richest man_
 
 ##### Referendum
 ### [ Italians vote in a referendum on whether to approve the modification of 53 articles in the constitution. Approval would give more power to the prime minister and to the regions, making Italy a federal state. ](/news/2006/06/25/italians-vote-in-a-referendum-on-whether-to-approve-the-modification-of-53-articles-in-the-constitution-approval-would-give-more-power-to.md)

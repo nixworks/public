@@ -3,7 +3,7 @@ Formats: [HTML](2017/06/30/index.html)  [JSON](2017/06/30/index.json)  [XML](201
 
 ## [2017-06-30](/news/2017/06/30/index.md)
 
-##### U.S.
+##### United States
 ### [U.S. President Donald Trump signs an executive order re-establishing the National Space Council, which was disbanded in 1993. ](/news/2017/06/30/u-s-president-donald-trump-signs-an-executive-order-re-establishing-the-national-space-council-which-was-disbanded-in-1993.md)
 Vice President Pence will head the council, but a NASA administrator has yet to be appointed.
 

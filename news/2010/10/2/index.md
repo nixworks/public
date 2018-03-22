@@ -45,7 +45,7 @@ _Context: Sweden, terrorist_
 
 ##### Palestinian Authority
 ### [Palestinian President Mahmoud Abbas tells that peace negotiations will not continue until Israel makes a new settlement freeze on the West Bank, ending the current Israel-Palestine peace negotiations after just one month, though maintaining contacts with the United States. ](/news/2010/10/2/palestinian-president-mahmoud-abbas-tells-that-peace-negotiations-will-not-continue-until-israel-makes-a-new-settlement-freeze-on-the-west-b.md)
-_Context: Israel, Mahmoud Abbas, Palestinian Authority, Palestinian Authority President, U.S., West Bank, peace talks_
+_Context: Israel, Mahmoud Abbas, Palestinian Authority, Palestinian Authority President, United States, West Bank, peace talks_
 
 ##### Oxygen
 ### [American female television station Oxygen gives the go-ahead to a new reality show set to star American celebrity and heiress Paris Hilton; the show is to follow Hilton in the course of her daily life. ](/news/2010/10/2/american-female-television-station-oxygen-gives-the-go-ahead-to-a-new-reality-show-set-to-star-american-celebrity-and-heiress-paris-hilton.md)
@@ -57,7 +57,7 @@ Environmental group 10:10 axe their campaign movie starring Gillian Anderson and
 
 ##### 60th edition
 ### [The 60th Miss World 2010 pageant begins as the last delegates from 120 nations worldwide arrive in China. ](/news/2010/10/2/the-60th-miss-world-2010-pageant-begins-as-the-last-delegates-from-120-nations-worldwide-arrive-in-china.md)
-_Context: 60th edition, China_
+_Context: 60th edition, Chinese_
 
 ##### MAXXI - National Museum of the 21st Century Arts
 ### [The MAXXI - National Museum of the 21st Century Arts in Rome wins the Stirling Prize, a British architectural award given by the Royal Institute of British Architects (RIBA). ](/news/2010/10/2/the-maxxi-a-national-museum-of-the-21st-century-arts-in-rome-wins-the-stirling-prize-a-british-architectural-award-given-by-the-royal-ins.md)

@@ -23,9 +23,9 @@ Former&#x20;South&#x20;African&#x20;President&#x20;Thabo&#x20;Mbeki&#x20;is&#x20
 ### [Hundreds of people march in Hong Kong to demand the release of Chinese dissident Liu Xiaobo ahead of the Nobel Prize ceremony on Friday. ](/news/2010/12/5/hundreds-of-people-march-in-hong-kong-to-demand-the-release-of-chinese-dissident-liu-xiaobo-ahead-of-the-nobel-prize-ceremony-on-friday.md)
 Hong Kong, Dec 5 (DPA) Hundreds of protesters marched to Beijings de facto embassy in Hong Kong Sunday calling for the release of jailed dissident and...
 
-##### U.S.
+##### United States
 ### [Newly released cables show the United States lobbied Spanish Prime Minister Jose Luis Rodriguez Zapatero, causing Rolls-Royce to lose an important contract. ](/news/2010/12/5/newly-released-cables-show-the-united-states-lobbied-spanish-prime-minister-josa-c-luis-rodraguez-zapatero-causing-rolls-royce-to-lose-an-i.md)
-_Context: Jose Luis Rodriguez Zapatero, Rolls-Royce, U.S._
+_Context: Jose Luis Rodriguez Zapatero, Rolls-Royce, United States_
 
 ##### Palestinian
 ### [Brazil recognizes the State of Palestine based on borders at the time of Israel's 1967 conquest of the West Bank. ](/news/2010/12/5/brazil-recognizes-the-state-of-palestine-based-on-borders-at-the-time-of-israel-s-1967-conquest-of-the-west-bank.md)

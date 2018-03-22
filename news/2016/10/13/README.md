@@ -47,7 +47,7 @@ The Obama administration, in its latest bid to prevent American companies from m
 ### [UNESCO declares the Western Wall an "Islamic site" and refrains from mentioning its connection to Jewish culture. Over half the voting countries chose to abstain. ](/news/2016/10/13/unesco-declares-the-western-wall-an-islamic-site-and-refrains-from-mentioning-its-connection-to-jewish-culture-over-half-the-voting-count.md)
 The historic UNESCO vote claims Temple Mount and the Western Wall are solely Muslim holy sites.
 
-##### U.S.
+##### United States
 ### [American singer-songwriter Bob Dylan wins the Nobel Prize in Literature. ](/news/2016/10/13/american-singer-songwriter-bob-dylan-wins-the-nobel-prize-in-literature.md)
 The prolific musician is the first American to win the prize for lifetime literary achievement in 23 years. While Dylan long enjoyed favor as an outside shot for the award, few expected him to win.
 

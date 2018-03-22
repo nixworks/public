@@ -9,7 +9,7 @@ A man with &quot;political and religious motives&quot; killed a soldier just out
 
 ##### Movement for the Emancipation of the Niger Delta
 ### [ The Movement for the Emancipation of the Niger Delta refuses to release British hostage Matthew Maguire. ](/news/2009/06/1/the-movement-for-the-emancipation-of-the-niger-delta-refuses-to-release-british-hostage-matthew-maguire.md)
-_Context: Movement for the Emancipation of the Niger Delta, Niger Delta, United Kingdom, hostage_
+_Context: Movement for the Emancipation of the Niger Delta, Niger Delta, UK, hostage_
 
 ##### Taliban
 ### [ The Taliban kidnaps approximately 400 people in North-West Frontier Province, Pakistan. ](/news/2009/06/1/the-taliban-kidnaps-approximately-400-people-in-north-west-frontier-province-pakistan.md)
@@ -19,7 +19,7 @@ Pakistani authorities negotiated on Tuesday for the release of about 200 student
 ### [ General Motors files for bankruptcy under Chapter 11 of the U.S. Bankruptcy Code. ](/news/2009/06/1/general-motors-files-for-bankruptcy-under-chapter-11-of-the-u-s-bankruptcy-code.md)
 _Context: Bankruptcy in the United States, General Motors, bankruptcy, chapter 11 bankruptcy, sells_
 
-##### U.S.
+##### United States
 ### [ The United States Congressional Research Service reports that China is aiding the development of Pakistan's program of nuclear weaponry. ](/news/2009/06/1/the-united-states-congressional-research-service-reports-that-china-is-aiding-the-development-of-pakistan-s-program-of-nuclear-weaponry.md)
 China is providing assistance to Pakistan in developing its plutonium-based nuclear weapons programme, a Congressional report has told US lawmakers.
 

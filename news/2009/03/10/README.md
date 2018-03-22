@@ -37,11 +37,11 @@ _Context:  Georgian, Eurovision Song Contest, Stephane & 3G, We Don't Wanna Put 
 
 ##### Shooting spree
 ### [ At least ten people are killed during a shooting spree in Geneva County, Alabama, United States. ](/news/2009/03/10/at-least-ten-people-are-killed-during-a-shooting-spree-in-geneva-county-alabama-united-states.md)
-_Context: Alabama, Geneva County, U.S., shooting spree_
+_Context: Alabama, Geneva County, United States, shooting spree_
 
-##### U.S.
+##### United States
 ### [ The United States Senate passes a US$410-billion omnibus spending bill. ](/news/2009/03/10/the-united-states-senate-passes-a-us-410-billion-omnibus-spending-bill.md)
-_Context: $, U.S., United States Senate, omnibus spending bill_
+_Context: US$, United States, United States Senate, omnibus spending bill_
 
 ## [Previous Day...](/news/2009/03/9/index.md)
 

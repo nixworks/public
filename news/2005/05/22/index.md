@@ -27,9 +27,9 @@ _Context: Chancellor, Christian Democratic Union, FDP, Gerhard Schrder, German, 
 ### [ Israel arrests a 15-year-old Palestinian at a Hawara checkpoint, near Nablus, wearing a suicide bomb belt. ](/news/2005/05/22/israel-arrests-a-15-year-old-palestinian-at-a-hawara-checkpoint-near-nablus-wearing-a-suicide-bomb-belt.md)
 _Context: Hawara, Israel, Nablus, Palestinian, suicide bomber_
 
-##### United Kingdom
+##### UK
 ### [ The British government declines a request from the families of soldiers killed in Iraq for an investigation into the legality of the war. ](/news/2005/05/22/the-british-government-declines-a-request-from-the-families-of-soldiers-killed-in-iraq-for-an-investigation-into-the-legality-of-the-war.md)
-_Context: 2003 invasion of Iraq, Iraq, United Kingdom_
+_Context: 2003 invasion of Iraq, Iraq, UK_
 
 ##### Laura Bush
 ### [ Laura Bush, the First Lady of the United States, was heckled by both Israeli and Palestinian protesters as she visited the Wailing Wall and the outside of the Dome of the Rock. ](/news/2005/05/22/laura-bush-the-first-lady-of-the-united-states-was-heckled-by-both-israeli-and-palestinian-protesters-as-she-visited-the-wailing-wall-and.md)
@@ -37,11 +37,11 @@ _Context: Dome of the Rock, First Lady, Israel, Laura Bush, Palestinian, Wailing
 
 ##### Ariel Sharon
 ### [ Ariel Sharon, the Prime Minister of Israel, was heckled and booed at a meeting to promote the planned Israeli withdrawal from the Gaza Strip by several U.S. Jews. ](/news/2005/05/22/ariel-sharon-the-prime-minister-of-israel-was-heckled-and-booed-at-a-meeting-to-promote-the-planned-israeli-withdrawal-from-the-gaza-stri.md)
-_Context: Ariel Sharon, Gaza Strip, Israel, Jew, Prime Minister, U.S._
+_Context: Ariel Sharon, Gaza Strip, Israel, Jew, Prime Minister, United States_
 
 ##### Shenzhen
 ### [ In Shenzhen, China, what is believed to be the largest urban demolition blast in China uses 1,500 lb (680&nbsp;kg) of explosives to simultaneously topple 16 tower blocks. Because of misplaced charges, one tower does not topple, but is reduced from 14 stories to 12, and will have to be demolished manually. ](/news/2005/05/22/in-shenzhen-china-what-is-believed-to-be-the-largest-urban-demolition-blast-in-china-uses-1-500-lb-680-nbsp-kg-of-explosives-to-simulta.md)
-_Context: China, Shenzhen_
+_Context: Chinese, Shenzhen_
 
 ## [Previous Day...](/news/2005/05/21/index.md)
 

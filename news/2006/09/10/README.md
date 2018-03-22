@@ -25,7 +25,7 @@ _Context: Auckland, King, New Zealand, Taufa'ahau Tupou IV, Tonga_
 
 ##### Al-Qaeda
 ### [ A lengthy statement from al-Qaeda's second in command, Ayman al-Zawahiri, on the eve of the fifth anniversary of the September 11, 2001 attacks calls on Muslims to step up their resistance against the United States. ](/news/2006/09/10/a-lengthy-statement-from-al-qaeda-s-second-in-command-ayman-al-zawahiri-on-the-eve-of-the-fifth-anniversary-of-the-september-11-2001-att.md)
-_Context: Ayman al-Zawahiri, Muslim, September 11, 2001 attacks, U.S., al-Qaeda_
+_Context: Ayman al-Zawahiri, Muslim, September 11, 2001 attacks, United States, al-Qaeda_
 
 ## [Previous Day...](/news/2006/09/9/index.md)
 

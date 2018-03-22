@@ -35,9 +35,9 @@ _Context: Catholic faithful, Europe, European migrant crisis, Pope Francis, Vati
 ### [A Spain car rally race crash leaves six dead after a car veers off a straight section into spectators. ](/news/2015/09/6/a-spain-car-rally-race-crash-leaves-six-dead-after-a-car-veers-off-a-straight-section-into-spectators.md)
 Six people, including a pregnant woman, are killed after a car veers off the road during a car rally in north-western Spain.
 
-##### China
+##### Chinese
 ### [The death toll from the September 1 chemical factory blast in China rises to 13. ](/news/2015/09/6/the-death-toll-from-the-september-1-chemical-factory-blast-in-china-rises-to-13.md)
-_Context: China_
+_Context: Chinese_
 
 ##### South Korea
 ### [At least 10 people die and 8 are missing from a South Korean fishing charter that capsized Saturday night off the country's southern coast. Coast Guard officers said three people survived by clinging to the wreckage for 10 hours. ](/news/2015/09/6/at-least-10-people-die-and-8-are-missing-from-a-south-korean-fishing-charter-that-capsized-saturday-night-off-the-country-s-southern-coast.md)

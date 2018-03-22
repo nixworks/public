@@ -17,7 +17,7 @@ _Context: Hamas, Mahmoud Abbas, outlaw, president of the Palestinian National Au
 
 ##### Canadian
 ### [ A Canadian pilot and five British passengers die in a plane crash in Malawi. ](/news/2007/06/17/a-canadian-pilot-and-five-british-passengers-die-in-a-plane-crash-in-malawi.md)
-_Context: Canadian, Malawi, United Kingdom, plane crash_
+_Context: Canadian, Malawi, UK, plane crash_
 
 ##### Audi
 ### [ Audi wins their seventh 24 Hours of Le Mans in eight years, including their second straight win with a diesel R10 prototype. ](/news/2007/06/17/audi-wins-their-seventh-24-hours-of-le-mans-in-eight-years-including-their-second-straight-win-with-a-diesel-r10-prototype.md)

@@ -31,7 +31,7 @@ _Context: Iraq, Saddam Hussein_
 ### [ Ousted Honduran President Manuel Zelaya is to meet with United States Secretary of State Hillary Clinton. ](/news/2009/07/7/ousted-honduran-president-manuel-zelaya-is-to-meet-with-united-states-secretary-of-state-hillary-clinton.md)
 Ousted Honduran President Manuel Zelaya on Tuesday accepted a U.S.-backed effort by Costa Rican President Oscar Arias to mediate an end to the political crisis in Honduras and said talks with his rivals would begin on Thursday.
 
-##### U.S.
+##### United States
 ### [ 12 people die in a U.S. missile strike on a training camp run by Baitullah Mehsud in South Waziristan, Pakistan. ](/news/2009/07/7/12-people-die-in-a-u-s-missile-strike-on-a-training-camp-run-by-baitullah-mehsud-in-south-waziristan-pakistan.md)
 Training camp reportedly run by Taliban leader Baitullah Mehsud targeted, killing 16 people.
 

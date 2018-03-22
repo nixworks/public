@@ -7,7 +7,7 @@ Formats: [HTML](2014/07/22/index.html)  [JSON](2014/07/22/index.json)  [XML](201
 ### [Joko Widodo is officially elected as the new president of Indonesia ](/news/2014/07/22/joko-widodo-is-officially-elected-as-the-new-president-of-indonesia.md)
 Joko &quot;Jokowi&quot; Widodo, is officially Indonesia&#039;s seventh president after the General Elections Commission (KPU) concluded its vote recapitulation on Tuesday evening, confirming that the governor of Jakarta and furniture businessman had garnered 53
 
-##### U.S.
+##### United States
 ### [Panels of the United States Fourth and D.C. ("Halbig v. Burwell") Circuit Courts make contradictory rulings as to whether people who enroll in federal exchanges under the Affordable Care Act (Obamacare) can receive subsidies. ](/news/2014/07/22/panels-of-the-united-states-fourth-and-d-c-halbig-v-burwell-circuit-courts-make-contradictory-rulings-as-to-whether-people-who-enroll.md)
 Millions of Americans are ineligible for law&rsquo;s tax subsidies, Appeals Court panel rules.
 
@@ -29,7 +29,7 @@ _Context: Moscow Metro_
 
 ##### Taiwan
 ### [Typhoon Matmo (Henry) is expected to make landfall over Taiwan en route to eastern China later in the week. ](/news/2014/07/22/typhoon-matmo-henry-is-expected-to-make-landfall-over-taiwan-en-route-to-eastern-china-later-in-the-week.md)
-_Context: China, Taiwan_
+_Context: Chinese, Taiwan_
 
 ##### Suicide bombing
 ### [A suicide bombing in Baghdad kills at least 21 people. ](/news/2014/07/22/a-suicide-bombing-in-baghdad-kills-at-least-21-people.md)

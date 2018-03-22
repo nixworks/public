@@ -43,9 +43,9 @@ Read the latest World and International news headlines from Sky News Australia. 
 ### [Some, but not all, of Chicago's taxi drivers go on strike during the morning rush hour to protest a new set of city regulations that took effect. ](/news/2012/07/2/some-but-not-all-of-chicago-s-taxi-drivers-go-on-strike-during-the-morning-rush-hour-to-protest-a-new-set-of-city-regulations-that-took-ef.md)
 _Context: Chicago, rush hour, taxi_
 
-##### United Kingdom
+##### UK
 ### [The British government announces a parliamentary investigation into the Barclays Libor scandal, with reports hoped to be filed by the end of the year. ](/news/2012/07/2/the-british-government-announces-a-parliamentary-investigation-into-the-barclays-libor-scandal-with-reports-hoped-to-be-filed-by-the-end-of.md)
-_Context: Barclays, Libor, United Kingdom_
+_Context: Barclays, Libor, UK_
 
 ##### IPO
 ### [Despite early frustration and strife about their IPO, Facebook decides to remain on the Nasdaq. ](/news/2012/07/2/despite-early-frustration-and-strife-about-their-ipo-facebook-decides-to-remain-on-the-nasdaq.md)
@@ -65,7 +65,7 @@ _Context: Dutch, Finland_
 
 ##### Kenya
 ### [Officials in Kenya say that two Iranian Islamic Revolutionary Guards arrested with explosives planned to attack Israeli, American, British and Saudi Arabian targets inside Kenya. ](/news/2012/07/2/officials-in-kenya-say-that-two-iranian-islamic-revolutionary-guards-arrested-with-explosives-planned-to-attack-israeli-american-british-a.md)
-_Context: Iran, Islamic Revolutionary Guards, Israeli, Kenya, Saudi Arabian, U.S., United Kingdom_
+_Context: Iran, Islamic Revolutionary Guards, Israeli, Kenya, Saudi Arabian, UK, United States_
 
 ##### Ja'ar
 ### [Children in Ja'ar, Yemen, accidentally set off a shell, killing one and wounding seven others. ](/news/2012/07/2/children-in-jae-ar-yemen-accidentally-set-off-a-shell-killing-one-and-wounding-seven-others.md)

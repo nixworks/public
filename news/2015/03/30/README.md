@@ -37,7 +37,7 @@ Health insurer UnitedHealth Group Inc (UNH.N) agreed to buy Catamaran Corp CTRX.
 
 ##### Puerto Rico
 ### [Creditors offer Puerto Rico's highly leveraged power authority $2 billion in new financing, including $1.2 billion for a new natural gas operation, in exchange for assurances that it will repay its debt. ](/news/2015/03/30/creditors-offer-puerto-rico-s-highly-leveraged-power-authority-2-billion-in-new-financing-including-1-2-billion-for-a-new-natural-gas-ope.md)
-_Context: $, Puerto Rico_
+_Context: Puerto Rico, US$_
 
 ##### Yemeni Crisis (2011-present)
 ### [The People's Republic of China evacuates its citizens from Yemen due to concerns over declining security. ](/news/2015/03/30/the-people-s-republic-of-china-evacuates-its-citizens-from-yemen-due-to-concerns-over-declining-security.md)

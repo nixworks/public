@@ -23,7 +23,7 @@ A UK unmanned solar-powered plane called Zephyr has flown continuously for seven
 ### [Ten endangered species previously known only by their Latin titles are named. ](/news/2010/07/17/ten-endangered-species-previously-known-only-by-their-latin-titles-are-named.md)
 _Context: Latin_
 
-##### U.S.
+##### United States
 ### [The United States government run National Oceanic and Atmospheric Administration (NOAA) claims 2010 could be the warmest year on record since 1880. ](/news/2010/07/17/the-united-states-government-run-national-oceanic-and-atmospheric-administration-noaa-claims-2010-could-be-the-warmest-year-on-record-sinc.md)
 Heatwaves could make this year the warmest since 1880 and seriously damage crops.
 
@@ -61,7 +61,7 @@ German Foreign Minister Guido Westerwelle criticized on Saturday a reported Isra
 
 ##### Coal mine
 ### [Twenty-eight coal miners die after a fire in their mine near Hancheng City in China's Shaanxi Province. ](/news/2010/07/17/twenty-eight-coal-miners-die-after-a-fire-in-their-mine-near-hancheng-city-in-china-s-shaanxi-province.md)
-_Context: China, Hancheng City, Shaanxi Province, coal mine_
+_Context: Chinese, Hancheng City, Shaanxi Province, coal mine_
 
 ##### Greece
 ### [Greece experiences its first forest fires of the summer season. ](/news/2010/07/17/greece-experiences-its-first-forest-fires-of-the-summer-season.md)

@@ -107,7 +107,7 @@ _Context: Dagestan, North Caucasus_
 
 ##### Mexico
 ### [International media are giving the impression that all of Mexico is awash with drug violence while ignoring other matters concerning the country, according to Mexico's ambassador to the United States at the American think tank Council on Foreign Relations. ](/news/2010/11/11/international-media-are-giving-the-impression-that-all-of-mexico-is-awash-with-drug-violence-while-ignoring-other-matters-concerning-the-cou.md)
-_Context: Council on Foreign Relations, Mexico, U.S._
+_Context: Council on Foreign Relations, Mexico, United States_
 
 ##### Pakistan Taliban car bomb
 ### [At least 18 people are killed and 100 are injured by a Pakistan Taliban car bomb at Karachi's Criminal Investigation Department, a rare attack on government security forces there. The building collapsed, trapping people beneath the rubble. ](/news/2010/11/11/at-least-18-people-are-killed-and-100-are-injured-by-a-pakistan-taliban-car-bomb-at-karachi-s-criminal-investigation-department-a-rare-atta.md)

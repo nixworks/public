@@ -3,7 +3,7 @@ Formats: [HTML](2006/11/9/index.html)  [JSON](2006/11/9/index.json)  [XML](2006/
 
 ## [2006-11-9](/news/2006/11/9/index.md)
 
-##### United Kingdom
+##### UK
 ### [ Hundreds of young British Muslims are being radicalised, groomed and set on a path to mass murder, according to the head of MI5 (Security Service), Dame Eliza Manningham-Buller. ](/news/2006/11/9/hundreds-of-young-british-muslims-are-being-radicalised-groomed-and-set-on-a-path-to-mass-murder-according-to-the-head-of-mi5-security-s.md)
 News and opinion from The Times &amp; The Sunday Times
 
@@ -45,7 +45,7 @@ _Context: Thailand_
 
 ##### Ken Mehlman
 ### [ Ken Mehlman is to step down as chairman of the National Committee of the United States Republican Party. ](/news/2006/11/9/ken-mehlman-is-to-step-down-as-chairman-of-the-national-committee-of-the-united-states-republican-party.md)
-_Context: Ken Mehlman, Republican, Republican National Committee, U.S._
+_Context: Ken Mehlman, Republican, Republican National Committee, United States_
 
 ## [Previous Day...](/news/2006/11/8/index.md)
 

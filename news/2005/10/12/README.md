@@ -21,7 +21,7 @@ _Context: Conflict in Iraq, Iraq, Iraqi insurgency, Talafar, suicide bomb_
 
 ##### Chancellor
 ### [ German Chancellor Gerhard Schroder informs that he won't play a role in the Merkel grand coalition cabinet. He criticizes the United States for its response to Hurricane Katrina and "Anglo-Saxon economic policies," while stressing the importance of Franco-Germanic ties. ](/news/2005/10/12/german-chancellor-gerhard-schrapder-informs-that-he-won-t-play-a-role-in-the-merkel-grand-coalition-cabinet-he-criticizes-the-united-state.md)
-_Context: Anglo-Saxon, Chancellor, Gerhard Schroder, Hurricane Katrina, U.S., grand coalition_
+_Context: Anglo-Saxon, Chancellor, Gerhard Schroder, Hurricane Katrina, United States, grand coalition_
 
 ##### CNN
 ### [ CNN reports that the Louisiana attorney general is investigating the possibility that mercy killings of critically ill patients by staff medical professionals at Memorial Medical Center in New Orleans, Louisiana occurred during Hurricane Katrina. ](/news/2005/10/12/cnn-reports-that-the-louisiana-attorney-general-is-investigating-the-possibility-that-mercy-killings-of-critically-ill-patients-by-staff-me.md)

@@ -13,11 +13,11 @@ _Context: Afghan National Army, Afghanistan, International Security Assistance F
 
 ##### Shooting at a church
 ### [ Four people are injured and two are killed after a shooting at a church in Colorado Springs, Colorado, United States. ](/news/2007/12/9/four-people-are-injured-and-two-are-killed-after-a-shooting-at-a-church-in-colorado-springs-colorado-united-states.md)
-_Context: Colorado, Colorado Springs, Colorado, U.S., shooting at a church_
+_Context: Colorado, Colorado Springs, Colorado, United States, shooting at a church_
 
 ##### Shooting at a youth training center
 ### [ Two people are killed and two are injured in a shooting at a youth training center in Arvada Colorado, United States. ](/news/2007/12/9/two-people-are-killed-and-two-are-injured-in-a-shooting-at-a-youth-training-center-in-arvada-colorado-united-states.md)
-_Context: Arvada, Colorado, U.S., shooting at a youth training center_
+_Context: Arvada, Colorado, United States, shooting at a youth training center_
 
 ## [Previous Day...](/news/2007/12/8/index.md)
 

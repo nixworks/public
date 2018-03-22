@@ -3,9 +3,9 @@ Formats: [HTML](2004/06/25/index.html)  [JSON](2004/06/25/index.json)  [XML](200
 
 ## [2004-06-25](/news/2004/06/25/index.md)
 
-##### Norway
+##### Norwegian
 ### [ The government of Norway, the third-largest petroleum-exporting nation, ends a week-long oil workers' strike by imposing wage and pension terms on the contending sides. ](/news/2004/06/25/the-government-of-norway-the-third-largest-petroleum-exporting-nation-ends-a-week-long-oil-workers-strike-by-imposing-wage-and-pension-t.md)
-_Context: Norway, pension, petroleum, strike, wage_
+_Context: Norwegian, pension, petroleum, strike, wage_
 
 ##### Guitar
 ### [ A treasured guitar owned by Eric Clapton fetches a record USD $959,500 at a charity auction. ](/news/2004/06/25/a-treasured-guitar-owned-by-eric-clapton-fetches-a-record-usd-959-500-at-a-charity-auction.md)

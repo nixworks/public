@@ -7,9 +7,9 @@ Formats: [HTML](2006/08/31/index.html)  [JSON](2006/08/31/index.json)  [XML](200
 ### [ A magnitude 4.8 earthquake affected Japan just south of Tokyo. Shinkansen service was suspended for 15 minutes but no damage was reported. ](/news/2006/08/31/a-magnitude-4-8-earthquake-affected-japan-just-south-of-tokyo-shinkansen-service-was-suspended-for-15-minutes-but-no-damage-was-reported.md)
 _Context: Japan, Shinkansen, Tokyo_
 
-##### Norway
+##### Norwegian
 ### [ Norwegian police announce they have recovered the Edvard Munch paintings "The Scream" and "Madonna", stolen in 2004. ](/news/2006/08/31/norwegian-police-announce-they-have-recovered-the-edvard-munch-paintings-the-scream-and-madonna-stolen-in-2004.md)
-_Context: ''Madonna'', Edvard Munch, Norway, The Scream_
+_Context: ''Madonna'', Edvard Munch, Norwegian, The Scream_
 
 ##### Mahmoud Ahmadinejad
 ### [ Mahmoud Ahmadinejad, the President of Iran, stated that Iran had the right to use nuclear technology on the day that a United Nations Security Council deadline expires. President Ahmadinejad said: "They should know that the Iranian nation will not yield to pressure and will not let its rights be trampled on." ](/news/2006/08/31/mahmoud-ahmadinejad-the-president-of-iran-stated-that-iran-had-the-right-to-use-nuclear-technology-on-the-day-that-a-united-nations-secur.md)
@@ -19,13 +19,13 @@ _Context: Iran, Mahmoud Ahmadinejad, President, United Nations Security Council_
 ### [ Syria welcomes Venezuelan President Hugo Chvez, who said yesterday that the two countries will "build a new world" free of U.S. domination and vowed to one day "dig the grave of U.S. imperialism." State Department spokesman Tom Casey retorts that Chvez should remind Damascus about its international obligations to prevent Hezbollah from receiving weapons. ](/news/2006/08/31/syria-welcomes-venezuelan-president-hugo-chavez-who-said-yesterday-that-the-two-countries-will-build-a-new-world-free-of-u-s-domination.md)
 _Context: Hezbollah, Hugo Chvez, Syria, Tom Casey, Venezuela_
 
-##### United Kingdom
+##### UK
 ### [ The future of UK model manufacturer Airfix, founded in 1939, is in doubt after the financial collapse of parent company Humbrol. Company administrators declare they wish to sell the Airfix brand. ](/news/2006/08/31/the-future-of-uk-model-manufacturer-airfix-founded-in-1939-is-in-doubt-after-the-financial-collapse-of-parent-company-humbrol-company-ad.md)
-_Context: 1939, Airfix, Humbrol, United Kingdom, administrators_
+_Context: 1939, Airfix, Humbrol, UK, administrators_
 
 ##### Israel
 ### [ Israeli police, at the request of the British Embassy in Tel Aviv, captured a man who broke in to the Embassy and demanded asylum, threatening to kill himself if his demands were not met. ](/news/2006/08/31/israeli-police-at-the-request-of-the-british-embassy-in-tel-aviv-captured-a-man-who-broke-in-to-the-embassy-and-demanded-asylum-threaten.md)
-_Context: Embassy, Israel, Tel Aviv, United Kingdom_
+_Context: Embassy, Israel, Tel Aviv, UK_
 
 ##### Warren Jeffs
 ### [ Warren Jeffs waives his extradition hearing, and will be extradited to Washington County, Utah, where he will first face charges as an accomplice to bigamy and rape in arranging polygamous marriages between older men and underage girls. He also faces similar charges in Arizona, and federal charges in connection with his flight from justice. ](/news/2006/08/31/warren-jeffs-waives-his-extradition-hearing-and-will-be-extradited-to-washington-county-utah-where-he-will-first-face-charges-as-an-acco.md)

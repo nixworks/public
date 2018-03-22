@@ -19,9 +19,9 @@ A prolonged dry season has left the Amazon region facing its worst dry spell for
 ### [Olive Lembe di Sita, the First Lady of the Democratic Republic of the Congo, leads a march of thousands of women against sexual violence in the town of Bukavu in the east of the country where hundreds of women have been raped. ](/news/2010/10/17/olive-lembe-di-sita-the-first-lady-of-the-democratic-republic-of-the-congo-leads-a-march-of-thousands-of-women-against-sexual-violence-in.md)
 _Context: Bukavu, DR Congo, First Lady, Olive Lembe di Sita, sexual violence_
 
-##### United Kingdom
+##### UK
 ### [The U.K. government urges councils to stop giving charity tax breaks to Scientology, an organization described as a cult by a high court judge. ](/news/2010/10/17/the-u-k-government-urges-councils-to-stop-giving-charity-tax-breaks-to-scientology-an-organization-described-as-a-cult-by-a-high-court-jud.md)
-_Context: Scientology, United Kingdom, cult_
+_Context: Scientology, UK, cult_
 
 ##### Rome, Italy
 ### [Tens of thousands of people rally in Rome against a weakening of labour rights being carried out by the country's government; rumours spread by politicians of clashes caused by "anarchist infiltration" prove unfounded. ](/news/2010/10/17/tens-of-thousands-of-people-rally-in-rome-against-a-weakening-of-labour-rights-being-carried-out-by-the-country-s-government-rumours-spread.md)
@@ -85,7 +85,7 @@ Authorities in the Philippines are preparing for the onslaught of Typhoon Megi, 
 
 ##### Hilton Hotels
 ### [Workers in Hilton Hotels in the US cities of Chicago, San Francisco, and Honolulu continue a strike over what they claim are efforts to "lock workers into cheap recession contracts." ](/news/2010/10/17/workers-in-hilton-hotels-in-the-us-cities-of-chicago-san-francisco-and-honolulu-continue-a-strike-over-what-they-claim-are-efforts-to-loc.md)
-_Context: Chicago, Hilton Hotels, Honolulu, San Francisco, U.S., strike_
+_Context: Chicago, Hilton Hotels, Honolulu, San Francisco, United States, strike_
 
 ##### General Motors
 ### [GM workers protest a drop in wages, from $58,000-year to $30,000-year, at a new car plant in Michigan that was funded by a $50 billion government bailout and is receiving $770 million in tax incentives. ](/news/2010/10/17/gm-workers-protest-a-drop-in-wages-from-58-000-year-to-30-000-year-at-a-new-car-plant-in-michigan-that-was-funded-by-a-50-billion-gover.md)

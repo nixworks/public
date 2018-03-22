@@ -21,7 +21,7 @@ The detention of a third US man comes amid heightened tension on the peninsula.
 
 ##### War in Donbass
 ### [ A U.S. member of the OSCE monitoring mission is killed and two others injured after their vehicle drives over a land mine near Luhansk. ](/news/2017/04/23/a-u-s-member-of-the-osce-monitoring-mission-is-killed-and-two-others-injured-after-their-vehicle-drives-over-a-land-mine-near-luhansk.md)
-_Context: Luhansk, OSCE, U.S., War in Donbass, land mine_
+_Context: Luhansk, OSCE, United States, War in Donbass, land mine_
 
 ## [Previous Day...](/news/2017/04/22/index.md)
 

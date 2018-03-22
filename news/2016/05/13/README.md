@@ -11,7 +11,7 @@ Nicolas Maduro says ‘Washington is activating measures at the request of Venez
 ### [ Vice President of Brazil, Michel Temer, assumes the presidential powers and duties as Acting President of Brazil. ](/news/2016/05/13/vice-president-of-brazil-michel-temer-assumes-the-presidential-powers-and-duties-as-acting-president-of-brazil.md)
 Brazil&#x27;s Senate voted to impeach President Dilma Rousseff early Thursday amid the worst economic crisis there since the 1930s.
 
-##### U.S.
+##### United States
 ### [The United States Education and Justice Departments advise U.S. public school districts across the country to allow transgender students to use the bathrooms that match their gender identity, rather than their gender at birth. The new guidance comes as Justice and North Carolina battle in federal court over the state's new so-called bathroom bill. ](/news/2016/05/13/the-united-states-education-and-justice-departments-advise-u-s-public-school-districts-across-the-country-to-allow-transgender-students-to.md)
 WASHINGTON (AP) — Public schools must permit transgender students to use bathrooms and locker rooms consistent with their chosen gender identity, according to an Obama administration directive issued amid a court fight…
 

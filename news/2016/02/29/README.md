@@ -31,7 +31,7 @@ Police have fired tear gas and stun grenades after a few hundred migrants angry 
 ### [One person has died and hundreds of people have been evacuated after heavy rain in the Indonesian capital Jakarta. ](/news/2016/02/29/one-person-has-died-and-hundreds-of-people-have-been-evacuated-after-heavy-rain-in-the-indonesian-capital-jakarta.md)
 Annual: Motorists and motorcyclists drive through the flood at the Taman Ratu housing complex in West Jakarta on Sunday
 
-##### China
+##### Chinese
 ### [China says it expects to lay off 1.8 million state workers in the coal and steel sectors, or about 15 percent of the industries' workforce, as part of efforts to reduce industrial overcapacity. ](/news/2016/02/29/china-says-it-expects-to-lay-off-1-8-million-state-workers-in-the-coal-and-steel-sectors-or-about-15-percent-of-the-industries-workforce.md)
 China said on Monday it expects to lay off 1.8 million workers in the coal and steel industries, or about 15 percent of the workforce, as part of efforts to reduce industrial overcapacity, but no timeframe was given.
 

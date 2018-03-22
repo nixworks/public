@@ -17,7 +17,7 @@ _Context: Athens, Cabinet of Greece, Macedonia naming dispute, Republic of Maced
 
 ##### Politics of Yemen
 ### [2011 Nobel Peace Prize co-winner Tawakkol Karman is ordered suspended from the Islah party's ranks after she likened the Saudi-led intervention in Yemen to "reckless adventurism" and "ugly occupation". ](/news/2018/02/4/2011-nobel-peace-prize-co-winner-tawakkol-karman-is-ordered-suspended-from-the-islah-party-s-ranks-after-she-likened-the-saudi-led-intervent.md)
-_Context: Islah, Nobel Peace Prize, Politics of Yemen, Saudi-led intervention in Yemen, Tawakkol Karman_
+_Context: Islah, Nobel Peace Prize, Politics of Yemen, Saudi Arabian-led intervention in Yemen, Tawakkol Karman_
 
 ##### Ecuadorian referendum and popular consultation, 2018
 ### [Ecuador is set to hold a referendum consisting of seven questions for voters to approve or reject. ](/news/2018/02/4/ecuador-is-set-to-hold-a-referendum-consisting-of-seven-questions-for-voters-to-approve-or-reject.md)

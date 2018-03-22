@@ -35,9 +35,9 @@ _Context: Israel, legislative election_
 ### [ Swiss financial services company UBS AG lost 19.7 billion francs for fiscal year 2008 and will cut 15,000 jobs throughout 2009. ](/news/2009/02/10/swiss-financial-services-company-ubs-ag-lost-19-7-billion-francs-for-fiscal-year-2008-and-will-cut-15-000-jobs-throughout-2009.md)
 _Context: UBS AG, cut, financial services, fiscal year, francs_
 
-##### $
+##### US$
 ### [ Russia will request postponement of repayment of US$400 billion in private-sector debt to foreign banks. ](/news/2009/02/10/russia-will-request-postponement-of-repayment-of-us-400-billion-in-private-sector-debt-to-foreign-banks.md)
-_Context: $, debt, private-sector_
+_Context: US$, debt, private-sector_
 
 ##### Karl-Theodor zu Guttenberg
 ### [ Karl-Theodor zu Guttenberg is named Germany's Federal Minister of Economics and Technology. ](/news/2009/02/10/karl-theodor-zu-guttenberg-is-named-germany-s-federal-minister-of-economics-and-technology.md)

@@ -23,7 +23,7 @@ The 21-year-old white man suspected of shooting dead nine people at a black chur
 ### [Vietnam accuses China of attacking Vietnamese fishermen in three separate incidents in the South China Sea. ](/news/2015/06/17/vietnam-accuses-china-of-attacking-vietnamese-fishermen-in-three-separate-incidents-in-the-south-china-sea.md)
 _Context: South China Sea, Vietnam_
 
-##### China
+##### Chinese
 ### [The People's Republic of China and Australia sign a free trade agreement in Canberra as Andrew Robb, Australia's Minister for Trade and Investment, warns that the United States Congress only has weeks to approve the Trans-Pacific Partnership. ](/news/2015/06/17/the-people-s-republic-of-china-and-australia-sign-a-free-trade-agreement-in-canberra-as-andrew-robb-australia-s-minister-for-trade-and-inve.md)
 “#BREAKING China, Australia sign free trade agreement in Canberra”
 
@@ -31,7 +31,7 @@ _Context: South China Sea, Vietnam_
 ### [North Korea runs a campaign to fight water drought, which according to United Nations is the worst within the past 100 years. ](/news/2015/06/17/north-korea-runs-a-campaign-to-fight-water-drought-which-according-to-united-nations-is-the-worst-within-the-past-100-years.md)
 North Korea has been hit by whatit describes as its worst drought in a century, which couldworsen chronic food shortages in a country where the UnitedNations says almost a third of children under five are stuntedbecause of poor nutrition.
 
-##### U.S.
+##### United States
 ### [In the United States, the California Labor Commission ruled that a San Francisco Uber driver is a company employee, not a contractor. Uber is appealing this ruling, that would increase the company's costs and liabilities, to the state's court system. A hearing for a class certification of a similar lawsuit against Uber is scheduled for August 2015. ](/news/2015/06/17/in-the-united-states-the-california-labor-commission-ruled-that-a-san-francisco-uber-driver-is-a-company-employee-not-a-contractor-uber-i.md)
 An Uber driver in San Francisco will be paid more than $4,000 in expenses.
 

@@ -9,7 +9,7 @@ The 2011 Japanese tsunami set the stage for something unprecedented. For the fir
 
 ##### Secession
 ### [The President of Catalonia vows to continue on with the vote despite objections from Spain. ](/news/2017/09/28/the-president-of-catalonia-vows-to-continue-on-with-the-vote-despite-objections-from-spain.md)
-_Context: Catalonia, President of the Generalitat of Catalonia, Spanish, secession_
+_Context: Catalan, President of the Generalitat of Catalonia, Spanish, secession_
 
 ##### Japanese general election, 2017
 ### [Prime Minister Shinzo Abe dissolves the lower house of parliament prior to the October 22 election. ](/news/2017/09/28/prime-minister-shinza-abe-dissolves-the-lower-house-of-parliament-prior-to-the-october-22-election.md)

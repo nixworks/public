@@ -9,7 +9,7 @@ Ruslan Fedotenko scored twice, including the critical first goal, as the resilie
 
 ##### San Francisco
 ### [ A civil trial begins in San Francisco, California, in the U.S. Justice Department's effort to prevent the purchase of PeopleSoft by Oracle Corporation. Antitrust authorities contend that the proposed acquisition of PeopleSoft, for USD $7.7 billion, would effectively monopolize the market for enterprise software. ](/news/2004/06/7/a-civil-trial-begins-in-san-francisco-california-in-the-u-s-justice-department-s-effort-to-prevent-the-purchase-of-peoplesoft-by-oracle.md)
-_Context: $, Antitrust, California, Oracle Corporation, PeopleSoft, San Francisco_
+_Context: Antitrust, California, Oracle Corporation, PeopleSoft, San Francisco, US$_
 
 ##### NAFTA
 ### [ North American Free Trade Agreement: The United States Supreme Court opens US roads to trucks from Mexico, enforcing a key component of the NAFTA agreement over the protests of some environmentalists and Teamsters. ](/news/2004/06/7/north-american-free-trade-agreement-the-united-states-supreme-court-opens-us-roads-to-trucks-from-mexico-enforcing-a-key-component-of-the.md)

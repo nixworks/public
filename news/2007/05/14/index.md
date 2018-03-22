@@ -25,7 +25,7 @@ _Context: Paul Wolfowitz, Shaha Ali Riza, World Bank Group_
 
 ##### Confirmed
 ### [ Nominations open for the leadership of the United Kingdom Labour Party with Chancellor of the Exchequer Gordon Brown as the favourite. ](/news/2007/05/14/nominations-open-for-the-leadership-of-the-united-kingdom-labour-party-with-chancellor-of-the-exchequer-gordon-brown-as-the-favourite.md)
-_Context: Chancellor of the Exchequer, Gordon Brown, Labour Party, United Kingdom, confirmed_
+_Context: Chancellor of the Exchequer, Gordon Brown, Labour Party, UK, confirmed_
 
 ##### President
 ### [ The President of the Republic of China Chen Shui-bian names Chang Chun-hsiung of the Democratic Progressive Party as the new Premier of the Republic of China. ](/news/2007/05/14/the-president-of-the-republic-of-china-chen-shui-bian-names-chang-chun-hsiung-of-the-democratic-progressive-party-as-the-new-premier-of-the.md)
@@ -49,7 +49,7 @@ _Context: Military of the United States, MySpace, YouTube, video clips_
 
 ##### U.S. President
 ### [ President George W. Bush orders United States government agencies to take regulatory steps to reduce automobile emissions. ](/news/2007/05/14/president-george-w-bush-orders-united-states-government-agencies-to-take-regulatory-steps-to-reduce-automobile-emissions.md)
-_Context: Auto, George W. Bush, U.S., U.S. President_
+_Context: Auto, George W. Bush, U.S. President, United States_
 
 ##### Palestinian
 ### [ Top Palestinian Security Official, Hani Kawasmeh, quits in protest on Monday as Sunday's ceasefire is broken, with fighting across Gaza between Hamas and Fatah killing 8 and wounding 40. Fighting began as both sides set up security checkpoints and kidnapped rivals as bargaining chips. ](/news/2007/05/14/top-palestinian-security-official-hani-kawasmeh-quits-in-protest-on-monday-as-sunday-s-ceasefire-is-broken-with-fighting-across-gaza-bet.md)

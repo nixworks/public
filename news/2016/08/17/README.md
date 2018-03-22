@@ -21,7 +21,7 @@ A Malaysian oil tanker that was believed to have been hijacked was actually comm
 
 ##### Defects
 ### [North Korea's deputy ambassador to the United Kingdom, Thae Yong-ho, defects with his family to South Korea. ](/news/2016/08/17/north-korea-s-deputy-ambassador-to-the-united-kingdom-thae-yong-ho-defects-with-his-family-to-south-korea.md)
-_Context: North Korea, South Korea, Thae Yong-ho, United Kingdom, defects_
+_Context: North Korea, South Korea, Thae Yong-ho, UK, defects_
 
 ##### Papua New Guinea
 ### [The governments of Papua New Guinea and Australia confirm that the Manus Regional Processing Centre will close following a ruling by the Supreme Court of Papua New Guinea. ](/news/2016/08/17/the-governments-of-papua-new-guinea-and-australia-confirm-that-the-manus-regional-processing-centre-will-close-following-a-ruling-by-the-sup.md)

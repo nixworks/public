@@ -7,9 +7,9 @@ Formats: [HTML](2004/06/1/index.html)  [JSON](2004/06/1/index.json)  [XML](2004/
 ### [ Jennifer Hawkins, a twenty-year-old Australian, wins the Miss Universe contest, held in Quito, Ecuador. ](/news/2004/06/1/jennifer-hawkins-a-twenty-year-old-australian-wins-the-miss-universe-contest-held-in-quito-ecuador.md)
 _Context: Ecuador, Jennifer Hawkins, Miss Universe, Quito_
 
-##### Norway
+##### Norwegian
 ### [ Norway becomes the world's second nation after Ireland to ban smoking in all bars and restaurants. ](/news/2004/06/1/norway-becomes-the-world-s-second-nation-after-ireland-to-ban-smoking-in-all-bars-and-restaurants.md)
-_Context: Ireland, Norway, ban, tobacco smoking_
+_Context: Ireland, Norwegian, ban, tobacco smoking_
 
 ##### Zimbabwe
 ### [ The Zimbabwe government proposes new terms for all Internet service providers that will force them to block content or report "malicious messages" to the authorities. ](/news/2004/06/1/the-zimbabwe-government-proposes-new-terms-for-all-internet-service-providers-that-will-force-them-to-block-content-or-report-malicious-me.md)

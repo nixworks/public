@@ -5,7 +5,7 @@ Formats: [HTML](2010/07/18/index.html)  [JSON](2010/07/18/index.json)  [XML](201
 
 ##### Golf
 ### [Golfer Louis Oosthuizen of South Africa wins the 139th Open Championship, played at the Old Course at St Andrews, Scotland. ](/news/2010/07/18/golfer-louis-oosthuizen-of-south-africa-wins-the-139th-open-championship-played-at-the-old-course-at-st-andrews-scotland.md)
-_Context: 139th, Golf, Louis Oosthuizen, Old Course at St Andrews, Open Championship, Scotland, South Africa_
+_Context: 139th, Golf, Louis Oosthuizen, Old Course at St Andrews, Open Championship, Scottish, South Africa_
 
 ##### Rhino
 ### [Rhinoceros experts worry after the last female in the Krugersdorp game reserve near Johannesburg is attacked by helicopter, shot with tranquiliser guns, and has her horn hacked off by poachers, slowly bleeding to death. ](/news/2010/07/18/rhinoceros-experts-worry-after-the-last-female-in-the-krugersdorp-game-reserve-near-johannesburg-is-attacked-by-helicopter-shot-with-tranqu.md)
@@ -31,7 +31,7 @@ _Context: European Union, Facebook_
 ### [Women rights groups in Pakistan say the life of a woman convicted of adultery is now in grave danger; she faces death by stoning as her man has abandoned her to the courts. ](/news/2010/07/18/women-rights-groups-in-pakistan-say-the-life-of-a-woman-convicted-of-adultery-is-now-in-grave-danger-she-faces-death-by-stoning-as-her-man.md)
 _Context: Pakistan, adultery, death by stoning_
 
-##### U.S.
+##### United States
 ### [A decade-long manhunt orchestrated by the United States Federal Bureau of Investigation ends with the capture of Jose Figueroa Agosto in San Juan, Puerto Rico. ](/news/2010/07/18/a-decade-long-manhunt-orchestrated-by-the-united-states-federal-bureau-of-investigation-ends-with-the-capture-of-josa-c-figueroa-agosto-in-sa.md)
 An alleged drug kingpin, known as the Pablo Escobar of the Caribbean, has been arrested after a decade-long chase marked by his narrow escapes and taunts.
 
@@ -55,9 +55,9 @@ _Context: Ajami, Israel, Jaffa_
 ### [European Union foreign policy chief Catherine Ashton says that Israel must go beyond easing its blockade of Gaza and throw open its long-closed border. ](/news/2010/07/18/european-union-foreign-policy-chief-catherine-ashton-says-that-israel-must-go-beyond-easing-its-blockade-of-gaza-and-throw-open-its-long-clo.md)
 Israel must go beyond easing its blockade of Gaza and throw open its border, EU foreign policy chief Catherine Ashton has said.
 
-##### United Kingdom
+##### UK
 ### [The United Kingdom plans to reduce or eliminate international aid to countries such as the "powerhouses" of Russia and China, as well as South American and eastern European countries. The government plans aid increases to some poorer nations including a 40% increase to Afghanistan. ](/news/2010/07/18/the-united-kingdom-plans-to-reduce-or-eliminate-international-aid-to-countries-such-as-the-powerhouses-of-russia-and-china-as-well-as-sou.md)
-_Context: China, Russia, South America, United Kingdom, eastern Europe, international aid_
+_Context: Chinese, Russia, South America, UK, eastern Europe, international aid_
 
 ##### Prime Minister
 ### [A 2001 film, depicting Prime Minister of Israel Benjamin Netanyahu discussing methods of undermining the Oslo Accords and saying the United States is "easy" to manipulate, is aired on Israel's Channel 10. ](/news/2010/07/18/a-2001-film-depicting-prime-minister-of-israel-benjamin-netanyahu-discussing-methods-of-undermining-the-oslo-accords-and-saying-the-united.md)
@@ -65,7 +65,7 @@ Israeli PM seen discussing ways to undermine Oslo Accords in 2001 videotape.
 
 ##### Chris Patten, Baron Patten of Barnes
 ### [EU commissioner Chris Patten, Baron Patten of Barnes, speaking during his first visit to Gaza since 2002, calls the Israeli blockade of Gaza an "immoral failure", expresses shock at the "huge new settlements" in the West Bank, and states the United States dominance of the Quartet on the Middle East - US, EU, UN and Russia - is wrong. ](/news/2010/07/18/eu-commissioner-chris-patten-baron-patten-of-barnes-speaking-during-his-first-visit-to-gaza-since-2002-calls-the-israeli-blockade-of-gaza.md)
-_Context: Chris Patten, Baron Patten of Barnes, Gaza Strip, Israel, U.S., West Bank, diplomatic Quartet_
+_Context: Chris Patten, Baron Patten of Barnes, Gaza Strip, Israel, United States, West Bank, diplomatic Quartet_
 
 ##### Colombia
 ### [Colombia takes Venezuela to the Organisation of American States over claims that the latter tolerates training camps for left-wing guerrillas, particularly FARC and ELN within its borders. ](/news/2010/07/18/colombia-takes-venezuela-to-the-organisation-of-american-states-over-claims-that-the-latter-tolerates-training-camps-for-left-wing-guerrilla.md)
@@ -73,11 +73,11 @@ Colombia calls a meeting of regional grouping the OAS to accuse Venezuela of har
 
 ##### Arab League
 ### [The Arab League, speaking in Cairo, states written guarantees are required if Palestine is to enter into direct negotiations with Israel as Egyptian, Israeli, Palestinian and American representatives meet to talk. ](/news/2010/07/18/the-arab-league-speaking-in-cairo-states-written-guarantees-are-required-if-palestine-is-to-enter-into-direct-negotiations-with-israel-as.md)
-_Context: Arab League, Cairo, Egypt, Israel, Palestinian, U.S._
+_Context: Arab League, Cairo, Egypt, Israel, Palestinian, United States_
 
 ##### Iran
 ### [Iranian scientist Shahram Amiri, who says he was abducted by the United States Central Intelligence Agency, says the United States wanted him to confess to being a spy as part of a plan to force the release of three Americans spies caught by Iran. ](/news/2010/07/18/iranian-scientist-shahram-amiri-who-says-he-was-abducted-by-the-united-states-central-intelligence-agency-says-the-united-states-wanted-hi.md)
-_Context: CIA, Iran, Shahram Amiri, U.S._
+_Context: CIA, Iran, Shahram Amiri, United States_
 
 ##### Earthquakes
 ### [A series of two earthquakes, the second quake measuring magnitude 7.3, hit New Britain in Papua New Guinea. A tsunami warning is issued but later retracted. ](/news/2010/07/18/a-series-of-two-earthquakes-the-second-quake-measuring-magnitude-7-3-hit-new-britain-in-papua-new-guinea-a-tsunami-warning-is-issued-but.md)
@@ -89,7 +89,7 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 
 ##### Bus
 ### [A bus falls off a cliff in the Garze Tibetan Autonomous Prefecture in southwestern China resulting in the death of 23 people. ](/news/2010/07/18/a-bus-falls-off-a-cliff-in-the-garzaa-tibetan-autonomous-prefecture-in-southwestern-china-resulting-in-the-death-of-23-people.md)
-_Context: China, Tibetan Autonomous Prefecture of Garze, bus, cliff_
+_Context: Chinese, Tibetan Autonomous Prefecture of Garze, bus, cliff_
 
 ##### Puke
 ### [At least 14 people are killed and at least 12 others sustain wounds after a bus plummets off a cliff in Puke, Albania; a national day of mourning is declared. ](/news/2010/07/18/at-least-14-people-are-killed-and-at-least-12-others-sustain-wounds-after-a-bus-plummets-off-a-cliff-in-puka-albania-a-national-day-of-mo.md)

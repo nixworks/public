@@ -13,7 +13,7 @@ _Context: Israel, Taysir Hayb, Tom Hurndall_
 
 ##### Omar Bakri Mohammed
 ### [ Omar Bakri Mohammed is banned from returning to the United Kingdom. ](/news/2005/08/12/omar-bakri-mohammed-is-banned-from-returning-to-the-united-kingdom.md)
-_Context: Omar Bakri Mohammed, United Kingdom_
+_Context: Omar Bakri Mohammed, UK_
 
 ##### Salva Kiir
 ### [ Salva Kiir, the new vice-president of Sudan, is opposed to independence for the country's south. ](/news/2005/08/12/salva-kiir-the-new-vice-president-of-sudan-is-opposed-to-independence-for-the-country-s-south.md)

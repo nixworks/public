@@ -35,7 +35,7 @@ _Context: Hungary, Nepszabadsag_
 ### [Raids by security forces on Jamaat-ul-Mujahideen Bangladesh in Gazipur leave 11 militants dead. ](/news/2016/10/8/raids-by-security-forces-on-jamaat-ul-mujahideen-bangladesh-in-gazipur-leave-11-militants-dead.md)
 Bangladeshi security officials have killed 11 suspected militants of the banned Jamaat-ul-Mujahideen Bangladesh (JMB) in three separate raids as the country reinforced its...
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [Saudi-led coalition jets launch airstrikes on civilians at the funeral of the father of the Houthi government's Interior Minister in Sana'a, killing at least 140 people, and injuring over 500 more. One of the dead is the mayor of Sana'a, Abdul-Qader Hilal. ](/news/2016/10/8/saudi-led-coalition-jets-launch-airstrikes-on-civilians-at-the-funeral-of-the-father-of-the-houthi-government-s-interior-minister-in-sana-a.md)
  An air strike has killed at least 140 people and wounded more than 500 after it hit a funeral hall packed with mourners in Sanaa, Yemen&#039;s capital. The death toll is one of the largest in any single incident since a Saudi-led alliance began military operations to try to restore President Abed R...
 

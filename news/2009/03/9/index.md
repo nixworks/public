@@ -45,15 +45,15 @@ _Context: North Korea, satellite_
 
 ##### Argentina
 ### [ Argentina and Chile reject the United Kingdom's claims on Antarctic territory. ](/news/2009/03/9/argentina-and-chile-reject-the-united-kingdom-s-claims-on-antarctic-territory.md)
-_Context: Antarctica, Argentina, Chile, United Kingdom, disputed region, territory_
+_Context: Antarctica, Argentina, Chile, UK, disputed region, territory_
 
-##### U.S.
+##### United States
 ### [ U.S. President Barack Obama lifts George W. Bush's restrictions on embryonic stem cell research. ](/news/2009/03/9/u-s-president-barack-obama-lifts-george-w-bush-s-restrictions-on-embryonic-stem-cell-research.md)
-_Context: Barack Obama, George W. Bush, U.S., U.S. President, embryonic stem cell research, restrictions_
+_Context: Barack Obama, George W. Bush, U.S. President, United States, embryonic stem cell research, restrictions_
 
-##### U.S.
+##### United States
 ### [ The United States government claims five Chinese ships "harass[ed]" the USNS "Impeccable" in the South China Sea. ](/news/2009/03/9/the-united-states-government-claims-five-chinese-ships-harass-ed-the-usns-impeccable-in-the-south-china-sea.md)
-_Context: ''Impeccable'', China, South China Sea, U.S., U.S. government, USNS_
+_Context: ''Impeccable'', China, South China Sea, U.S. government, USNS, United States_
 
 ##### Police Service of Northern Ireland
 ### [ A Police Service officer is killed in Craigavon, County Armagh, Northern Ireland. ](/news/2009/03/9/a-police-service-officer-is-killed-in-craigavon-county-armagh-northern-ireland.md)
@@ -63,7 +63,7 @@ _Context: County Armagh, Craigavon, Northern Ireland, Police Service of Northern
 ### [ Palau officially recognizes Kosovo. ](/news/2009/03/9/palau-officially-recognizes-kosovo.md)
 _Context: Kosovo, Kosovo, Palau_
 
-##### United Kingdom
+##### UK
 ### [ A government in the United Kingdom is criticised by churches, politicians and Rowan Atkinson for its proposal to outlaw homophobic hatred. ](/news/2009/03/9/a-government-in-the-united-kingdom-is-criticised-by-churches-politicians-and-rowan-atkinson-for-its-proposal-to-outlaw-homophobic-hatred.md)
 Popular television characters could disappear from our screens if the Government succeeds in passing making homophobia a crime, the comedian Rowan Atkinson has warned.
 

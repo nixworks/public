@@ -5,7 +5,7 @@ Formats: [HTML](2015/04/26/index.html)  [JSON](2015/04/26/index.json)  [XML](201
 
 ##### Northern Cyprus presidential election, 2015
 ### [Voters in Northern Cyprus go to the polls in the run-off election to elect leftist Mustafa Akinci as president. ](/news/2015/04/26/voters-in-northern-cyprus-go-to-the-polls-in-the-run-off-election-to-elect-leftist-mustafa-aka-nca-as-president.md)
-_Context: Mustafa Akinci, Northern Cyprus presidential election, 2015, northern, president_
+_Context: Mustafa Akinci, Northern Cyprus, Northern Cyprus presidential election, 2015, president_
 
 ##### Kazakhstani presidential election, 2015
 ### [Voters in Kazakhstan go to the polls for a presidential election with incumbent President Nursultan Nazarbayev winning with 97.7 percent of the vote. He has been ruling the country since 1984 in one form or another. ](/news/2015/04/26/voters-in-kazakhstan-go-to-the-polls-for-a-presidential-election-with-incumbent-president-nursultan-nazarbayev-winning-with-97-7-percent-of.md)

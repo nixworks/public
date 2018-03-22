@@ -7,9 +7,9 @@ Formats: [HTML](2009/07/13/index.html)  [JSON](2009/07/13/index.json)  [XML](200
 ### [ Former Prime Minister of Lebanon Amin al-Hafez dies at age 83. ](/news/2009/07/13/former-prime-minister-of-lebanon-amin-al-hafez-dies-at-age-83.md)
 _Context: Amin al-Hafez, Prime Minister of Lebanon_
 
-##### U.S.
+##### United States
 ### [ U.S. Senate confirmation hearings for United States Supreme Court nominee Sonia Sotomayor begin. ](/news/2009/07/13/u-s-senate-confirmation-hearings-for-united-states-supreme-court-nominee-sonia-sotomayor-begin.md)
-_Context: Sonia Sotomayor, Supreme Court of the United States, U.S., United States Senate_
+_Context: Sonia Sotomayor, Supreme Court of the United States, United States, United States Senate_
 
 ##### Kabul
 ### [ An explosion in Kabul, Afghanistan, kills a police chief and injures four others. The Taliban are the suspected culprits of the attack. ](/news/2009/07/13/an-explosion-in-kabul-afghanistan-kills-a-police-chief-and-injures-four-others-the-taliban-are-the-suspected-culprits-of-the-attack.md)
@@ -31,9 +31,9 @@ By Emma Amaize LAGOSÂ -Â MOVEMENT for the Emancipation of the Niger-Delta (MEN
 ### [ Urumqi police shoot dead two armed suspects and injure another, all being from the Uyghur ethnic group. ](/news/2009/07/13/ara1-4mqi-police-shoot-dead-two-armed-suspects-and-injure-another-all-being-from-the-uyghur-ethnic-group.md)
 _Context: Urumqi, Uyghur_
 
-##### United Kingdom
+##### UK
 ### [ The United Kingdom halts some arms sales to Israel following the Gaza conflict. ](/news/2009/07/13/the-united-kingdom-halts-some-arms-sales-to-israel-following-the-gaza-conflict.md)
-_Context: 2008-2009 Gaza War, Israel, United Kingdom_
+_Context: 2008-2009 Gaza War, Israel, UK_
 
 ##### Greece
 ### [ Greek police use bulldozers to completely clear a sprawling migrant camp that had been in place in the port town of Patras for over a decade. ](/news/2009/07/13/greek-police-use-bulldozers-to-completely-clear-a-sprawling-migrant-camp-that-had-been-in-place-in-the-port-town-of-patras-for-over-a-decad.md)

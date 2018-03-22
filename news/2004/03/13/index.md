@@ -9,7 +9,7 @@ _Context: Fresno, California_
 
 ##### DARPA Grand Challenge
 ### [ Fifteen teams that qualified for the DARPA Grand Challenge start on a 150-200 mile robotic race to Las Vegas, Nevada, for a $1 million prize. All of the teams break down within seven miles of the start line; none collect the prize. ](/news/2004/03/13/fifteen-teams-that-qualified-for-the-darpa-grand-challenge-start-on-a-150a200-mile-robotic-race-to-las-vegas-nevada-for-a-1-million-pr.md)
-_Context: $, DARPA Grand Challenge, Las Vegas, Nevada_
+_Context: DARPA Grand Challenge, Las Vegas, Nevada, US$_
 
 ##### Taliban
 ### [ U.S. forces launch new offensive aimed at the Taliban and al-Qaeda and the capture of Osama bin Laden and Mullah Omar in Afghanistan. ](/news/2004/03/13/u-s-forces-launch-new-offensive-aimed-at-the-taliban-and-al-qaeda-and-the-capture-of-osama-bin-laden-and-mullah-omar-in-afghanistan.md)

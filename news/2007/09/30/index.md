@@ -25,7 +25,7 @@ Viswanathan Anand of India, the world’s top-ranked player, dominated the 14-ro
 
 ##### State Peace and Development Council
 ### [ A central member of the military junta in Myanmar is reportedly interested in seeking political asylum in Norway. The colonel is said to have defected recently, and he is now hiding in the jungle among the Karen people. ](/news/2007/09/30/a-central-member-of-the-military-junta-in-myanmar-is-reportedly-interested-in-seeking-political-asylum-in-norway-the-colonel-is-said-to-ha.md)
-_Context: Karen, Myanmar, Norway, State Peace and Development Council_
+_Context: Karen, Myanmar, Norwegian, State Peace and Development Council_
 
 ##### Topps Meat Company
 ### [ The Topps Meat Company recalls 21700000 lb of frozen beef patties because of potential contamination with "E. coli". Twenty-five cases of illness due to "E. coli" have been reported in the Northeastern United States. ](/news/2007/09/30/the-topps-meat-company-recalls-21700000-lb-of-frozen-beef-patties-because-of-potential-contamination-with-e-coli-twenty-five-cases-of-i.md)

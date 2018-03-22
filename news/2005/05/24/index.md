@@ -33,7 +33,7 @@ _Context: Israel, Palestinian, West Bank, pipe bomb_
 
 ##### Mathematicians
 ### [ Mathematician Peter Lax receives the Abel Prize, worth nearly one million USD, from Norway's Crown Prince Haakon in a ceremony in Oslo. The prize is awarded for his work on "the theory and application of partial differential equations.](/news/2005/05/24/mathematician-peter-lax-receives-the-abel-prize-worth-nearly-one-million-usd-from-norway-s-crown-prince-haakon-in-a-ceremony-in-oslo-the.md)
-_Context: Abel Prize, Crown Prince Haakon, Mathematicians, Norway, Oslo, Peter Lax, USD, partial differential equations_
+_Context: Abel Prize, Crown Prince Haakon, Mathematicians, Norwegian, Oslo, Peter Lax, USD, partial differential equations_
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: At least five Iraqis and seven US Soldiers have been killed following a spate of bombings in Iraq. ](/news/2005/05/24/conflict-in-iraq-at-least-five-iraqis-and-seven-us-soldiers-have-been-killed-following-a-spate-of-bombings-in-iraq.md)

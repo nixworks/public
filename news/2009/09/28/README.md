@@ -49,7 +49,7 @@ _Context: Jestina Mukoko, Robert Mugabe, Zimbabwe_
 
 ##### Little Cumbrae
 ### [ Little Cumbrae, Scotland is converted into an ashram. ](/news/2009/09/28/little-cumbrae-scotland-is-converted-into-an-ashram.md)
-_Context: Little Cumbrae, Scotland, ashram_
+_Context: Little Cumbrae, Scottish, ashram_
 
 ##### Australia
 ### [ Australia's 12 Apostles natural landmarks continue to crumble. ](/news/2009/09/28/australia-s-12-apostles-natural-landmarks-continue-to-crumble.md)
@@ -73,7 +73,7 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 
 ##### Roman Polanski
 ### [ Roman Polanski officially challenges his proposed extradition from Switzerland to the United States to face child sexual abuse charges stemming from a 1977 incident. ](/news/2009/09/28/roman-polanski-officially-challenges-his-proposed-extradition-from-switzerland-to-the-united-states-to-face-child-sexual-abuse-charges-stem.md)
-_Context: Roman Polanski, Swiss, U.S., extradition, sexually assaulted_
+_Context: Roman Polanski, Swiss, United States, extradition, sexually assaulted_
 
 ##### Typhoon Ketsana
 ### [ The death toll in the worst flooding in the Philippines for forty years reaches 140 as the capital Manila is "overwhelmed". ](/news/2009/09/28/the-death-toll-in-the-worst-flooding-in-the-philippines-for-forty-years-reaches-140-as-the-capital-manila-is-overwhelmed.md)

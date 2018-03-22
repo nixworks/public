@@ -37,7 +37,7 @@ _Context: Sony, Sony Online Entertainment, hacker_
 
 ##### A$
 ### [The Australian dollar reaches $1.10 in United States dollars, its highest level since the Australian dollar was floated in 1983. ](/news/2011/05/2/the-australian-dollar-reaches-1-10-in-united-states-dollars-its-highest-level-since-the-australian-dollar-was-floated-in-1983.md)
-_Context: $, A$_
+_Context: A$, US$_
 
 ##### Stocks
 ### [Asian stocks and U.S. stock index futures rise on initial reports that Osama bin Laden was dead. ](/news/2011/05/2/asian-stocks-and-u-s-stock-index-futures-rise-on-initial-reports-that-osama-bin-laden-was-dead.md)

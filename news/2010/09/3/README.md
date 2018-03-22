@@ -9,7 +9,7 @@ _Context: cerebral cortex, mushroom bodies_
 
 ##### Royal Mail
 ### [The Royal Mail in the United Kingdom launches the first intelligent postage stamp, the first to work with image recognition technology. ](/news/2010/09/3/the-royal-mail-in-the-united-kingdom-launches-the-first-intelligent-postage-stamp-the-first-to-work-with-image-recognition-technology.md)
-_Context: Royal Mail, United Kingdom, image recognition, postage stamp_
+_Context: Royal Mail, UK, image recognition, postage stamp_
 
 ##### Australia
 ### [Militant Australian Islamic preacher Feiz Mohammad calls for Dutch politician Geert Wilders to be "beheaded" for denigrating Islam. ](/news/2010/09/3/militant-australian-islamic-preacher-feiz-mohammad-calls-for-dutch-politician-geert-wilders-to-be-beheaded-for-denigrating-islam.md)
@@ -29,7 +29,7 @@ _Context: Manila hostage crisis, Philippine President, his predecessor_
 
 ##### Miami International Airport
 ### [Miami International Airport in the US state of Florida is evacuated after a suspicious package is found. A passenger is taken into custody. ](/news/2010/09/3/miami-international-airport-in-the-us-state-of-florida-is-evacuated-after-a-suspicious-package-is-found-a-passenger-is-taken-into-custody.md)
-_Context: Florida, Miami International Airport, U.S._
+_Context: Florida, Miami International Airport, United States_
 
 ##### United Nations Food and Agriculture Organization
 ### [The United Nations Food and Agriculture Organization calls a special meeting for 24 September to discuss rising food prices. ](/news/2010/09/3/the-united-nations-food-and-agriculture-organization-calls-a-special-meeting-for-24-september-to-discuss-rising-food-prices.md)
@@ -57,7 +57,7 @@ At least four people have died and hundreds of homes have been destroyed in a ne
 
 ##### New England
 ### [States in the New England region of the United States prepare for a possible impact from Hurricane Earl which has weakened to a tropical storm. ](/news/2010/09/3/states-in-the-new-england-region-of-the-united-states-prepare-for-a-possible-impact-from-hurricane-earl-which-has-weakened-to-a-tropical-sto.md)
-_Context: Hurricane Earl, New England, U.S., tropical storm_
+_Context: Hurricane Earl, New England, United States, tropical storm_
 
 ##### Mount Sinabung
 ### [Mount Sinabung in North Sumatra, Indonesia, erupts again. ](/news/2010/09/3/mount-sinabung-in-north-sumatra-indonesia-erupts-again.md)

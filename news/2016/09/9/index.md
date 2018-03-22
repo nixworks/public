@@ -43,7 +43,7 @@ _Context: Nigeria, famine_
 ### [The alert level for the Mayon Volcano in the Philippines is increased after more than a hundred earthquakes were detected in its vicinity. ](/news/2016/09/9/the-alert-level-for-the-mayon-volcano-in-the-philippines-is-increased-after-more-than-a-hundred-earthquakes-were-detected-in-its-vicinity.md)
 _Context: Mayon Volcano, Philippines_
 
-##### United Kingdom
+##### UK
 ### [One or more unnamed authors at the European Commission, in their internal discussion, regards the United Kingdom as having lost direction in its Brexit policy and planning and thinks the UK will eventually 'plead' for a deal. ](/news/2016/09/9/one-or-more-unnamed-authors-at-the-european-commission-in-their-internal-discussion-regards-the-united-kingdom-as-having-lost-direction-in.md)
 Britain has become &ldquo;completely lost&rdquo; post Brexit and can eventually be expected to &ldquo;plead&rdquo; for a deal when it realises the weakness of its position at the negotiating table, senior European Commission officials now believe.
 
@@ -59,9 +59,9 @@ A Volkswagen engineer from Southern California pleaded guilty to charges he help
 ### [General Motors recalls 4.3 million vehicles after a defect in the software for the airbag led to one fatality. ](/news/2016/09/9/general-motors-recalls-4-3-million-vehicles-after-a-defect-in-the-software-for-the-airbag-led-to-one-fatality.md)
 _Context: General Motors, airbag_
 
-##### Norway
+##### Norwegian
 ### [The Norwegian newspaper "Aftenposten" accuses Facebook of censorship because of the website's decision to remove the iconic Vietnam War-era photo "napalm girl" as child pornography. ](/news/2016/09/9/the-norwegian-newspaper-aftenposten-accuses-facebook-of-censorship-because-of-the-website-s-decision-to-remove-the-iconic-vietnam-waraer.md)
-_Context: Aftenposten, Facebook, Norway, Vietnam War, child pornography, napalm girl_
+_Context: Aftenposten, Facebook, Norwegian, Vietnam War, child pornography, napalm girl_
 
 ##### Iraqi civil war
 ### [Twin suicide bombings at the Nakheel Mall in eastern Baghdad kill 12 people and injure more than 40 others. ISIL claims responsibility. ](/news/2016/09/9/twin-suicide-bombings-at-the-nakheel-mall-in-eastern-baghdad-kill-12-people-and-injure-more-than-40-others-isil-claims-responsibility.md)

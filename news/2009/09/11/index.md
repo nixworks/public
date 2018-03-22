@@ -9,7 +9,7 @@ Spain&rsquo;s biggest oil company Repsol-YPF announced on Friday the discovery o
 
 ##### NASA
 ### [ NASA's Space Shuttle "Discovery" lands at the Edwards Air Force Base in California, USA. ](/news/2009/09/11/nasa-s-space-shuttle-discovery-lands-at-the-edwards-air-force-base-in-california-usa.md)
-_Context: California, Discovery, Edwards Air Force Base, NASA, U.S._
+_Context: California, Discovery, Edwards Air Force Base, NASA, United States_
 
 ##### Sharon Commins and her Ugandan colleague Hilda Kawuki
 ### [ Sharon Commins, an aid worker kidnapped with a Ugandan colleague in Sudan, makes contact with her family in Ireland for the first time in several weeks. ](/news/2009/09/11/sharon-commins-an-aid-worker-kidnapped-with-a-ugandan-colleague-in-sudan-makes-contact-with-her-family-in-ireland-for-the-first-time-in-s.md)
@@ -21,7 +21,7 @@ The world&#39;s oldest person has died at the age of 115 in Los Angeles.
 
 ##### Kenya
 ### [ A Kenyan magistrate sentences Jon Cardon Wagner, an American who founded the popular chain of coffee shops, Nairobi Java House, to 15 years of imprisonment for the statutory rape of three teenage Kenyan girls. ](/news/2009/09/11/a-kenyan-magistrate-sentences-jon-cardon-wagner-an-american-who-founded-the-popular-chain-of-coffee-shops-nairobi-java-house-to-15-years.md)
-_Context: Jon Cardon Wagner, Kenya, Nairobi Java House, U.S._
+_Context: Jon Cardon Wagner, Kenya, Nairobi Java House, United States_
 
 ##### Prime minister
 ### [ Prime minister Jadranka Kosor of Croatia and PM Borut Pahor of Slovenia agree on an immediate end to Slovenia's blockade of Croatia's EU accession and further negotiation of the Gulf of Piran border dispute between two countries. ](/news/2009/09/11/prime-minister-jadranka-kosor-of-croatia-and-pm-borut-pahor-of-slovenia-agree-on-an-immediate-end-to-slovenia-s-blockade-of-croatia-s-eu-ac.md)
@@ -33,7 +33,7 @@ _Context: Moldova, Moldovan President, Vladimir Voronin_
 
 ##### Zimbabwe
 ### [ Zimbabwe's President Robert Mugabe condemns "bloody whites" for meddling in his country's affairs, specifically perceived British and American interference. ](/news/2009/09/11/zimbabwe-s-president-robert-mugabe-condemns-bloody-whites-for-meddling-in-his-country-s-affairs-specifically-perceived-british-and-ameri.md)
-_Context: President of Zimbabwe, Robert Mugabe, U.S., United Kingdom, Zimbabwe_
+_Context: President of Zimbabwe, Robert Mugabe, UK, United States, Zimbabwe_
 
 ##### Taiwanese President
 ### [ Former Taiwanese President Chen Shui-bian and his wife, Wu Shu-chen, are both sentenced to life in prison after being found guilty of corruption. ](/news/2009/09/11/former-taiwanese-president-chen-shui-bian-and-his-wife-wu-shu-chen-are-both-sentenced-to-life-in-prison-after-being-found-guilty-of-corru.md)

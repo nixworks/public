@@ -5,7 +5,7 @@ Formats: [HTML](2005/10/18/index.html)  [JSON](2005/10/18/index.json)  [XML](200
 
 ##### Spinnaker Tower
 ### [ Spinnaker Tower in Portsmouth is formally opened. Five years overdue and massively over budget, the tower offers the highest public vantage point in the UK. Project manager David Greenhalgh becomes trapped in the tower's external glass lift for over an hour at the opening. ](/news/2005/10/18/spinnaker-tower-in-portsmouth-is-formally-opened-five-years-overdue-and-massively-over-budget-the-tower-offers-the-highest-public-vantage.md)
-_Context: Portsmouth, Spinnaker Tower, United Kingdom_
+_Context: Portsmouth, Spinnaker Tower, UK_
 
 ##### William Evan Allan
 ### [ William Evan Allan, the last surviving Australian First World War veteran, dies aged 106. ](/news/2005/10/18/william-evan-allan-the-last-surviving-australian-first-world-war-veteran-dies-aged-106.md)

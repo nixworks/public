@@ -13,15 +13,15 @@ Tata group-owned Jaguar Land Rover (JLR) is planning to raise up to &pound;1 bil
 
 ##### Kills
 ### [ A gunman kills two people and commits suicide near Oslo, Norway. ](/news/2009/05/11/a-gunman-kills-two-people-and-commits-suicide-near-oslo-norway.md)
-_Context: Norway, Oslo, kills, suicide_
+_Context: Norwegian, Oslo, kills, suicide_
 
-##### U.S.
+##### United States
 ### [ A United States Army soldier kills five comrades at Camp Liberty in Baghdad, Iraq. ](/news/2009/05/11/a-united-states-army-soldier-kills-five-comrades-at-camp-liberty-in-baghdad-iraq.md)
-_Context: Baghdad, Camp Liberty, Iraq, U.S., United States soldier, comrade, kills, soldier_
+_Context: Baghdad, Camp Liberty, Iraq, United States, United States soldier, comrade, kills, soldier_
 
 ##### Iran
 ### [ An Iranian appellate court releases imprisoned American journalist Roxana Saberi. ](/news/2009/05/11/an-iranian-appellate-court-releases-imprisoned-american-journalist-roxana-saberi.md)
-_Context: Iran, Roxana Saberi, U.S., appellate court, jail, journalist_
+_Context: Iran, Roxana Saberi, United States, appellate court, jail, journalist_
 
 ##### China
 ### [ The People's Republic of China confirms its first case of (A)H1N1 influenza. ](/news/2009/05/11/the-people-s-republic-of-china-confirms-its-first-case-of-a-h1n1-influenza.md)

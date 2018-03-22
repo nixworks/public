@@ -13,7 +13,7 @@ _Context: Palau, commercial shark fishing, shark_
 
 ##### Birmingham
 ### [ Hundreds of people queue in Birmingham, United Kingdom, to see part of the Staffordshire hoard. ](/news/2009/09/25/hundreds-of-people-queue-in-birmingham-united-kingdom-to-see-part-of-the-staffordshire-hoard.md)
-_Context: Birmingham, Staffordshire hoard, United Kingdom_
+_Context: Birmingham, Staffordshire hoard, UK_
 
 ##### Santo Andr
 ### [ At least two people are killed and fifteen injured in a blast at a fireworks shop in Santo Andr, Greater So Paulo, Brazil. ](/news/2009/09/25/at-least-two-people-are-killed-and-fifteen-injured-in-a-blast-at-a-fireworks-shop-in-santo-andre-greater-sao-paulo-brazil.md)
@@ -45,7 +45,7 @@ Poland on Friday approved a law making chemical castration mandatory for pedophi
 
 ##### Spanish
 ### [ Photographs of Spanish Prime Minister Jos Luis Rodrguez Zapatero and his family are published in the United States and subsequently published on the front pages of newspapers in his home country. A controversy occurs as many Spaniards have never before seen the children of the intensely private Prime Minister. ](/news/2009/09/25/photographs-of-spanish-prime-minister-jose-luis-rodriguez-zapatero-and-his-family-are-published-in-the-united-states-and-subsequently-publi.md)
-_Context: Jos Luis Rodrguez Zapatero, Prime Minister, Spanish, U.S._
+_Context: Jos Luis Rodrguez Zapatero, Prime Minister, Spanish, United States_
 
 ## [Previous Day...](/news/2009/09/24/index.md)
 

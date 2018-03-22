@@ -5,11 +5,11 @@ Formats: [HTML](2005/05/19/index.html)  [JSON](2005/05/19/index.json)  [XML](200
 
 ##### Star Wars Episode III: Revenge of the Sith
 ### [ "Star Wars Episode III: Revenge of the Sith", at the time purported to be the final "Star Wars" film, is released in the United States. Just hours after its release, the workprint DVD of the film was "leaked" to file sharing networks. ](/news/2005/05/19/star-wars-episode-iii-revenge-of-the-sith-at-the-time-purported-to-be-the-final-star-wars-film-is-released-in-the-united-states-jus.md)
-_Context: DVD, Star Wars Episode III: Revenge of the Sith, U.S., file sharing, workprint_
+_Context: DVD, Star Wars Episode III: Revenge of the Sith, United States, file sharing, workprint_
 
-##### United Kingdom
+##### UK
 ### [ British scientists at University of Newcastle announce that they have cloned human embryos for stem cells. Also, a team of South Korean scientists at Seoul National University state they have cloned the first embryonic cells customized to individual patients. ](/news/2005/05/19/british-scientists-at-university-of-newcastle-announce-that-they-have-cloned-human-embryos-for-stem-cells-also-a-team-of-south-korean-sci.md)
-_Context: Seoul National University, South Korea, United Kingdom, University of Newcastle, cloning, embryo, stem cell_
+_Context: Seoul National University, South Korea, UK, University of Newcastle, cloning, embryo, stem cell_
 
 ##### Niger
 ### [ In Niger, 2,000 people march in the capital Niamey and demand the release of anti-slavery campaigners Ilguilas Weila and Alassane Biga. ](/news/2005/05/19/in-niger-2-000-people-march-in-the-capital-niamey-and-demand-the-release-of-anti-slavery-campaigners-ilguilas-weila-and-alassane-biga.md)
@@ -33,7 +33,7 @@ _Context: Amazon rainforest, Brazil_
 
 ##### Unrest
 ### [ Unrest in Uzbekistan: Various governments, including that of the United States, demand further investigation into the events. Uzbek government troops report that they have retaken the town of Qorasuv. President Islom Karimov rejects calls for international inquiry. Oppositions group fear that state will begin active oppression against them ](/news/2005/05/19/unrest-in-uzbekistan-various-governments-including-that-of-the-united-states-demand-further-investigation-into-the-events-uzbek-governm.md)
-_Context: Karimov administration, Qorasuv, U.S., Uzbekistan, unrest_
+_Context: Karimov administration, Qorasuv, United States, Uzbekistan, unrest_
 
 ##### 2005 Pacific hurricane season
 ### [ 2005 Pacific hurricane season: Tropical Storm Adrian reaches hurricane strength, and is about 12 hours away from making landfall over or near El Salvador. ](/news/2005/05/19/2005-pacific-hurricane-season-tropical-storm-adrian-reaches-hurricane-strength-and-is-about-12-hours-away-from-making-landfall-over-or-ne.md)

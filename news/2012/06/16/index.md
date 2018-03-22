@@ -7,7 +7,7 @@ Formats: [HTML](2012/06/16/index.html)  [JSON](2012/06/16/index.json)  [XML](201
 ### [The United States Air Force's robotic Boeing X-37B spaceplane returns to Earth after a classified 469-day orbital mission. ](/news/2012/06/16/the-united-states-air-force-s-robotic-boeing-x-37b-spaceplane-returns-to-earth-after-a-classified-469-day-orbital-mission.md)
 The U.S. Air Force&#039;s secretive X-37B space plane landed after completing its hush-hush second mission, which officials have deemed a &quot;spectacular success.&quot;
 
-##### China
+##### Chinese
 ### [China successfully launches its Shenzhou 9 spacecraft, carrying three astronauts &ndash; including the first female Chinese astronaut, Liu Yang &ndash; to the Tiangong-1 orbital module. ](/news/2012/06/16/china-successfully-launches-its-shenzhou-9-spacecraft-carrying-three-astronauts-ndash-including-the-first-female-chinese-astronaut-liu-y.md)
 China sends its first woman into space as 33-year-old fighter pilot Liu Yang is one of three astronauts travelling to the orbiting Tiangong space lab.
 
@@ -19,7 +19,7 @@ Prince Nayef bin Abdulaziz Al Saud, next in line to the throne, has died abroad 
 ### [Voters in Egypt go to the polls for the second round of a presidential election, with ex-Prime Minister Ahmed Shafiq and Mohamed Morsi of the Muslim Brotherhood competing for the presidency. ](/news/2012/06/16/voters-in-egypt-go-to-the-polls-for-the-second-round-of-a-presidential-election-with-ex-prime-minister-ahmed-shafiq-and-mohamed-morsi-of-th.md)
 High turnout reported in some governorates as Egyptians turn out to cast ballots amid deep political uncertainty.
 
-##### U.S.
+##### United States
 ### [One of the United States's most wanted fugitives, Air Force deserter David A. Hemler, has reportedly been living and working in Stockholm, Sweden, for the past 28 years. ](/news/2012/06/16/one-of-the-united-states-s-most-wanted-fugitives-air-force-deserter-david-a-hemler-has-reportedly-been-living-and-working-in-stockholm-s.md)
 In October 1984, a 21-year-old American Airman deserted and hitch-hiked from an Air Force base in Augsburg, Germany to Stockholm.
 

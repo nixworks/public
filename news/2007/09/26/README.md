@@ -29,7 +29,7 @@ _Context: Madeleine McCann, Morocco_
 
 ##### United States Secretary of Defense
 ### [ The United States Secretary of Defense Robert Gates asks for $190 billion to cover the cost of the war in Iraq and war in Afghanistan during 2008. ](/news/2007/09/26/the-united-states-secretary-of-defense-robert-gates-asks-for-190-billion-to-cover-the-cost-of-the-war-in-iraq-and-war-in-afghanistan-durin.md)
-_Context: $, Robert Gates, United States Secretary of Defense, War in Afghanistan (2001-present), war in Iraq_
+_Context: Robert Gates, US$, United States Secretary of Defense, War in Afghanistan (2001-present), war in Iraq_
 
 ##### Superior Courts of California
 ### [ Superior Courts of California judge Larry Fidler declares the trial of record producer Phil Spector as a mistrial due to the inability of the jury to reach a verdict. ](/news/2007/09/26/superior-courts-of-california-judge-larry-fidler-declares-the-trial-of-record-producer-phil-spector-as-a-mistrial-due-to-the-inability-of-t.md)

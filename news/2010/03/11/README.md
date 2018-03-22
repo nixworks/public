@@ -69,7 +69,7 @@ _Context: American Civil Liberties Union, Mississippi, leavers' dinner, same-sex
 
 ##### Roman Catholic Archdiocese of Denver
 ### [Two children are prevented by the Roman Catholic Archdiocese of Denver from enrolling in a Catholic school in Boulder, Colorado, United States because their parents are lesbians. ](/news/2010/03/11/two-children-are-prevented-by-the-roman-catholic-archdiocese-of-denver-from-enrolling-in-a-catholic-school-in-boulder-colorado-united-stat.md)
-_Context: Boulder, Roman Catholic Archdiocese of Denver, Roman Catholic Church, U.S., lesbian_
+_Context: Boulder, Roman Catholic Archdiocese of Denver, Roman Catholic Church, United States, lesbian_
 
 ## [Previous Day...](/news/2010/03/10/index.md)
 

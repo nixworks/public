@@ -55,7 +55,7 @@ _Context: National Semiconductor, Texas Instruments, analog chip_
 ### [Wayne Swan, the Treasurer of Australia, advises that he is inclined to reject a proposed merger of the Australian Stock Exchange and the Singapore Stock Exchange. ](/news/2011/04/5/wayne-swan-the-treasurer-of-australia-advises-that-he-is-inclined-to-reject-a-proposed-merger-of-the-australian-stock-exchange-and-the-sin.md)
 _Context: Australian Stock Exchange, Singapore Stock Exchange, Treasurer of Australia, Wayne Swan_
 
-##### U.S.
+##### United States
 ### [The United States Federal Trade Commission considers taking antitrust action against Google. ](/news/2011/04/5/the-united-states-federal-trade-commission-considers-taking-antitrust-action-against-google.md)
 The U.S. Federal Trade Commission is considering a broad antitrust investigation into Google Inc.’s dominance of the Internet-search industry, two people familiar with the matter said.
 

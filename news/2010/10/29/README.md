@@ -11,11 +11,11 @@ _Context: Aung San Suu Kyi, Burma, house arrest_
 ### [Nstor Kirchner is buried amid a mass outpouring of grief in Argentina. ](/news/2010/10/29/nestor-kirchner-is-buried-amid-a-mass-outpouring-of-grief-in-argentina.md)
 Thousands of Argentines filed past a flag-draped coffin to pay their respects to former president Nestor Kirchner last night, then lined the capital&#039;s rain-slicked streets for a glimpse of his hearse as it passed by.
 
-##### U.S.
+##### United States
 ### [An American judge has ruled that a six-year-old may be sued for negligence after crashing into an elderly woman while riding a bicycle at age four.](/news/2010/10/29/an-american-judge-has-ruled-that-a-six-year-old-may-be-sued-for-negligence-after-crashing-into-an-elderly-woman-while-riding-a-bicycle-at-ag.md)
 A girl aged four can be sued for crashing a bicycle into an elderly pedestrian and causing injuries that led to her death, a judge in New York rules.
 
-##### United Kingdom
+##### UK
 ### [A British man is sentenced to 18 weeks in prison for posting malicious and abusive messages on Facebook memorial sites, including the page for deceased reality TV star Jade Goody. ](/news/2010/10/29/a-british-man-is-sentenced-to-18-weeks-in-prison-for-posting-malicious-and-abusive-messages-on-facebook-memorial-sites-including-the-page-f.md)
 An &quot;internet troll&quot; who posted obscene and offensive messages on Facebook sites dedicated to the memories of dead people is jailed.
 
@@ -87,7 +87,7 @@ American rock band The Kings of Leon have been confirmed as the headline act for
 ### [The Parliament of New Zealand successfully amends New Zealand labour laws, as a part of a deal with Warner Bros. to keep the production of "The Hobbit" film project in the country. ](/news/2010/10/29/the-parliament-of-new-zealand-successfully-amends-new-zealand-labour-laws-as-a-part-of-a-deal-with-warner-bros-to-keep-the-production-of.md)
 _Context: ''The Hobbit'' film project, Warner Bros., parliament_
 
-##### United Kingdom
+##### UK
 ### [Law enforcement authorities in the UK and the US are on high alert after suspicious packages are found on flights arriving from Yemen. A similar package is discovered in Dubai. ](/news/2010/10/29/law-enforcement-authorities-in-the-uk-and-the-us-are-on-high-alert-after-suspicious-packages-are-found-on-flights-arriving-from-yemen-a-sim.md)
 A &quot;suspicious object&quot; found to contain explosives at East Midlands Airport was on a plane flying from Yemen to Chicago.
 

@@ -9,7 +9,7 @@ The near-Earth asteroid 2000 EM26 is set to fly past Earth on Monday (Feb. 17), 
 
 ##### First Minister
 ### [Scottish First Minister Alex Salmond says that blocking a post-independence Scotland from a currency union could damage businesses in the rest of the United Kingdom. ](/news/2014/02/17/scottish-first-minister-alex-salmond-says-that-blocking-a-post-independence-scotland-from-a-currency-union-could-damage-businesses-in-the-re.md)
-_Context: Alex Salmond, First Minister, Scotland, Scottish independence, United Kingdom_
+_Context: Alex Salmond, First Minister, Scottish, Scottish independence, UK_
 
 ##### Mayor of Florence
 ### [Mayor of Florence, Matteo Renzi, is given a mandate by Italian President Giorgio Napolitano to form a new government as Italy's prime minister-designate. ](/news/2014/02/17/mayor-of-florence-matteo-renzi-is-given-a-mandate-by-italian-president-giorgio-napolitano-to-form-a-new-government-as-italyas-prime-mini.md)
@@ -43,7 +43,7 @@ _Context: Argentina, Pope Francis_
 ### [Nepalese police find the wreckage of a missing Nepal Airlines plane in the mountainous West with all 18 passengers and crew dead. ](/news/2014/02/17/nepalese-police-find-the-wreckage-of-a-missing-nepal-airlines-plane-in-the-mountainous-west-with-all-18-passengers-and-crew-dead.md)
 _Context: Nepal Airlines, Nepalese police_
 
-##### United Kingdom
+##### UK
 ### [Floods in the United Kingdom continue to worsen as the Met Office issues severe rain weather warnings for southwest England. ](/news/2014/02/17/floods-in-the-united-kingdom-continue-to-worsen-as-the-met-office-issues-severe-rain-weather-warnings-for-southwest-england.md)
 The government urges the insurance industry to deal with flood-related claims as quickly as possible, as more rain hits ground already saturated with water.
 

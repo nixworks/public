@@ -21,11 +21,11 @@ _Context: Grasberg mine, Indonesia, Papua, tribal warfare_
 
 ##### BBC
 ### [ The BBC announces 1,800 job cuts as part of restructuring to fill a GBP2 billion (US$4 bn) shortfall caused by lower than expected funding by the British government. ](/news/2007/10/18/the-bbc-announces-1-800-job-cuts-as-part-of-restructuring-to-fill-a-gbp2-billion-us-4-bn-shortfall-caused-by-lower-than-expected-funding.md)
-_Context: $, BBC, GBP, United Kingdom_
+_Context: BBC, GBP, UK, US$_
 
-##### $
+##### US$
 ### [ Oil prices reach $90 a barrel for the first time due to the low dollar and ongoing tension between Turkey and Iraq. ](/news/2007/10/18/oil-prices-reach-90-a-barrel-for-the-first-time-due-to-the-low-dollar-and-ongoing-tension-between-turkey-and-iraq.md)
-_Context: $, Iraq, Turkish_
+_Context: Iraq, Turkish, US$_
 
 ## [Previous Day...](/news/2007/10/17/index.md)
 

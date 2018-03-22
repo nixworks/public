@@ -17,7 +17,7 @@ Voters overwhelmingly oppose a proposal to scrap the annual Swiss Broadcasting C
 
 ##### 2017-18 Spanish constitutional crisis
 ### [15,000 demonstrators gather in Barcelona, Spain, to support the mock region of Tabarnia--a hypothetical area that includes the least independentist areas of Catalonia--as a way to oppose Catalan independence and the declaration of independence on October 27. ](/news/2018/03/4/15-000-demonstrators-gather-in-barcelona-spain-to-support-the-mock-region-of-tabarniaaa-hypothetical-area-that-includes-the-least-indepe.md)
-_Context: 2017-18 Spanish constitutional crisis, Barcelona, Catalan independence, Catalonia, Spanish, Spanish unionism, Tabarnia, declaration of independence on October 27_
+_Context: 2017-18 Spanish constitutional crisis, Barcelona, Catalan, Catalan independence, Spanish, Spanish unionism, Tabarnia, declaration of independence on October 27_
 
 ##### SPD party member vote on the 2018 coalition agreement of Germany
 ### [SPD party members approve with 66% in favour to allow to form a coalition with Angela Merkel's CDU-CSU, ending a five-month political deadlock after the federal elections. ](/news/2018/03/4/spd-party-members-approve-with-66-in-favour-to-allow-to-form-a-coalition-with-angela-merkel-s-cdu-csu-ending-a-five-month-political-deadlo.md)

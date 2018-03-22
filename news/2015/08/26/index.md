@@ -21,7 +21,7 @@ Some 50 migrants were found dead inthe hold of a boat off the coast of Libya on 
 
 ##### Oshkosh L-ATV
 ### [The U.S. Army awards the $6.7 billion contract for the Joint Light Tactical Vehicle, the replacement for the Humvee, to the Wisconsin-based company Oshkosh Corporation. ](/news/2015/08/26/the-u-s-army-awards-the-6-7-billion-contract-for-the-joint-light-tactical-vehicle-the-replacement-for-the-humvee-to-the-wisconsin-based.md)
-_Context: $, Joint Light Tactical Vehicle, Oshkosh Corporation, Oshkosh L-ATV, U.S. Army, Wisconsin, military Humvee_
+_Context: Joint Light Tactical Vehicle, Oshkosh Corporation, Oshkosh L-ATV, U.S. Army, US$, Wisconsin, military Humvee_
 
 ##### Mei Xiang's
 ### [The smallest of mother Mei Xiang's two giant panda cubs born on Saturday at the Smithsonian National Zoological Park in Washington, D.C. dies. ](/news/2015/08/26/the-smallest-of-mother-mei-xiang-s-two-giant-panda-cubs-born-on-saturday-at-the-smithsonian-national-zoological-park-in-washington-d-c-die.md)

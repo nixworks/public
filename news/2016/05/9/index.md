@@ -41,7 +41,7 @@ A U.S. airstrike on Friday killed four Islamic State fighters in western Iraq, i
 
 ##### Yemeni Civil War (2015-present)
 ### [ Airstrikes by the Saudi-led coalition kill at least 10 in Yemen. ](/news/2016/05/9/airstrikes-by-the-saudi-led-coalition-kill-at-least-10-in-yemen.md)
-_Context: Saudi-led intervention in Yemen, Yemen, Yemeni Civil War (2015-present)_
+_Context: Saudi Arabian-led intervention in Yemen, Yemen, Yemeni Civil War (2015-present)_
 
 ##### War in Somalia (2009-present)
 ### [ A suicide car bomb targeting Mogadishu's traffic police headquarters kills at least four. Al-Shabaab claims responsibility. ](/news/2016/05/9/a-suicide-car-bomb-targeting-mogadishu-s-traffic-police-headquarters-kills-at-least-four-al-shabaab-claims-responsibility.md)

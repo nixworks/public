@@ -3,7 +3,7 @@ Formats: [HTML](2015/01/18/index.html)  [JSON](2015/01/18/index.json)  [XML](201
 
 ## [2015-01-18](/news/2015/01/18/index.md)
 
-##### China
+##### Chinese
 ### [Chinese police shoot dead two ethnic Uighurs in Pingxiang, Guangxi while they attempt to cross into Vietnam after members of their group resisted arrest with knives. The public security ministry accuses a separatist group of orchestrating hundreds of cases of human smuggling. ](/news/2015/01/18/chinese-police-shoot-dead-two-ethnic-uighurs-in-pingxiang-guangxi-while-they-attempt-to-cross-into-vietnam-after-members-of-their-group-res.md)
 The shooting in the Guangxi region occurred when a van carrying five Uighurs refused to stop and members of the group resisted arrest with knives, the state news media reported.
 

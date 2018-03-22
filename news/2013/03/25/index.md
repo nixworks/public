@@ -35,15 +35,15 @@ _Context: Afghan President, Hamid Karzai, John Kerry, Secretary of State, strain
 ### [The European Union suspends sanctions against 81 officials and eight firms in Zimbabwe, but those against President Robert Mugabe and his top aides remain in place. ](/news/2013/03/25/the-european-union-suspends-sanctions-against-81-officials-and-eight-firms-in-zimbabwe-but-those-against-president-robert-mugabe-and-his-to.md)
 The European Union suspends sanctions against 81 officials and eight firms in Zimbabwe following what it called a &quot;successful&quot; constitutional referendum.
 
-##### China
+##### Chinese
 ### [China's President Xi Jinping vows to intensify ties with Africa, as he addresses leaders in Dar es Salaam, Tanzania, on his first trip to the continent. ](/news/2013/03/25/china-s-president-xi-jinping-vows-to-intensify-ties-with-africa-as-he-addresses-leaders-in-dar-es-salaam-tanzania-on-his-first-trip-to-th.md)
-_Context: Africa, China, Dar es Salaam, Tanzania, Xi Jinping, president_
+_Context: Africa, Chinese, Dar es Salaam, Tanzania, Xi Jinping, president_
 
 ##### South Korea
 ### [South Korea signs a new military plan with the United States to counter a possible incursion or a limited attack from North Korea. ](/news/2013/03/25/south-korea-signs-a-new-military-plan-with-the-united-states-to-counter-a-possible-incursion-or-a-limited-attack-from-north-korea.md)
 South Korea and the United States sign a plan providing for a joint response in the event of &quot;provocations&quot; from North Korea.
 
-##### U.S.
+##### United States
 ### [The United States agrees to hand over Bagram Jail, its main detention facility in Afghanistan, to the country's government. ](/news/2013/03/25/the-united-states-agrees-to-hand-over-bagram-jail-its-main-detention-facility-in-afghanistan-to-the-country-s-government.md)
 Transfer ends one of several bitter standoffs straining bilateral ties as US secretary of state meets Karzai in Kabul.
 
@@ -55,7 +55,7 @@ Around 1,000 dead ducks have been pulled from a river in Sichuan, Chinese media 
 ### [Six sleeping workers are killed by a fire in a car seat factory outside Bangalore, India. ](/news/2013/03/25/six-sleeping-workers-are-killed-by-a-fire-in-a-car-seat-factory-outside-bangalore-india.md)
 A deadly fire in a factory on the outskirts of the southern Indian city of Bangalore kills six people who were asleep inside the building.
 
-##### Scotland
+##### Scottish
 ### [Thousands of homes in Scotland and Northern Ireland are without electricity and many roads are closed after snowfall and strong winds hit over the weekend. ](/news/2013/03/25/thousands-of-homes-in-scotland-and-northern-ireland-are-without-electricity-and-many-roads-are-closed-after-snowfall-and-strong-winds-hit-ov.md)
 Thousands of homes are still without power and many roads are impassable after severe weather affected much of the UK during the weekend.
 

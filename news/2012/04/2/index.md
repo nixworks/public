@@ -21,7 +21,7 @@ A 43-year-old former student is arrested after seven people are shot dead at a p
 
 ##### Osama bin Laden
 ### [The three widows and two daughters of Osama bin Laden are convicted of illegally living in Pakistan and sentenced to 45 days in jail and fined $114 each. ](/news/2012/04/2/the-three-widows-and-two-daughters-of-osama-bin-laden-are-convicted-of-illegally-living-in-pakistan-and-sentenced-to-45-days-in-jail-and-fin.md)
-_Context: $, Osama bin Laden, Pakistan_
+_Context: Osama bin Laden, Pakistan, US$_
 
 ##### Falklands War
 ### [On the 30th anniversary of the Falklands War between the United Kingdom and Argentina, Argentina threatens action against United States and United Kingdom banks, while UK Prime Minister David Cameron calls Argentina's 1982 invasion "a profound wrong". ](/news/2012/04/2/on-the-30th-anniversary-of-the-falklands-war-between-the-united-kingdom-and-argentina-argentina-threatens-action-against-united-states-and.md)

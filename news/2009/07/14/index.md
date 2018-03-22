@@ -25,7 +25,7 @@ _Context: Lithuanian parliament, President, minors, propaganda_
 
 ##### Immigration
 ### [ Talks on immigration between the United States and Cuba, suspended since 2003, will resume. ](/news/2009/07/14/talks-on-immigration-between-the-united-states-and-cuba-suspended-since-2003-will-resume.md)
-_Context: Cuba, U.S., immigration_
+_Context: Cuba, United States, immigration_
 
 ##### Series of riots
 ### [ 240 people are arrested in a series of riots in France on the eve of the Bastille Day celebrations. ](/news/2009/07/14/240-people-are-arrested-in-a-series-of-riots-in-france-on-the-eve-of-the-bastille-day-celebrations.md)

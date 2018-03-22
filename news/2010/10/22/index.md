@@ -19,7 +19,7 @@ MANILA, Philippines (UPDATE 5) - An ex-convict went on a stabbing spree inside a
 ### [Judges in the trial of Dutch MP Geert Wilders are ordered to step down by an independent appeals panel, with the legal process now having to begin again. ](/news/2010/10/22/judges-in-the-trial-of-dutch-mp-geert-wilders-are-ordered-to-step-down-by-an-independent-appeals-panel-with-the-legal-process-now-having-to.md)
 Judges in the hate speech trial of Dutch anti-Islam MP Geert Wilders are ordered to step down by an appeals panel.
 
-##### United Kingdom
+##### UK
 ### [Files on the death of British biological weapons inspector David Kelly, which had previously been kept secret by the British government for 7 years, are released, stating that his wounds were typical of "self-inflicted injury". ](/news/2010/10/22/files-on-the-death-of-british-biological-weapons-inspector-david-kelly-which-had-previously-been-kept-secret-by-the-british-government-for.md)
 Wounds to the body of weapons inspector David Kelly were &#039;&#039;typical of self-inflicted injury&#039;&#039;, according to previously secret medical documents released today.
 

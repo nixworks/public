@@ -15,9 +15,9 @@ _Context: Burial of Ferdinand Marcos, Human Rights Day, Libingan ng mga Bayani, 
 ### [Gambian security forces are deployed on the streets of the capital Banjul, following President Yahya Jammeh's rejection of last week's presidential election result. ](/news/2016/12/10/gambian-security-forces-are-deployed-on-the-streets-of-the-capital-banjul-following-president-yahya-jammeh-s-rejection-of-last-week-s-presi.md)
 Yahya Jammeh had conceded result to Adama Barrow but now claims ‘fresh and transparent elections’ are needed
 
-##### China
+##### Chinese
 ### [China opposes any new sanctions against North Korea during a meeting in the United Nations Security Council. ](/news/2016/12/10/china-opposes-any-new-sanctions-against-north-korea-during-a-meeting-in-the-united-nations-security-council.md)
-_Context: China, North Korea, United Nations Security Council_
+_Context: Chinese, North Korea, United Nations Security Council_
 
 ##### Uyo church collapse
 ### [At least 60 are killed in a collapse of a church in Uyo, Nigeria. ](/news/2016/12/10/at-least-60-are-killed-in-a-collapse-of-a-church-in-uyo-nigeria.md)

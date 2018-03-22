@@ -41,7 +41,7 @@ _Context: Monkey selfie copyright dispute, PETA, monkey selfie copyright dispute
 
 ##### Syrian Civil War
 ### [Russia sends 175 demining combat engineers to defuse mines in Deir ez-Zor Governorate. ](/news/2017/09/11/russia-sends-175-demining-combat-engineers-to-defuse-mines-in-deir-ez-zor-governorate.md)
-_Context: Deir ez-Zor, Russia, Siege of Deir ez-Zor (2014-17), Syrian Civil War, combat engineers, demining_
+_Context: Deir ez-Zor Governorate, Russia, Siege of Deir ez-Zor (2014-17), Syrian Civil War, combat engineers, demining_
 
 ##### Sinai insurgency
 ### [ Militants ambush a police convoy in Egypt's Sinai Peninsula killing 18 police and wounding seven others. ](/news/2017/09/11/militants-ambush-a-police-convoy-in-egypt-s-sinai-peninsula-killing-18-police-and-wounding-seven-others.md)

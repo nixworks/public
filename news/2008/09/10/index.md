@@ -21,7 +21,7 @@ _Context: European Commission, Eurozone, German, Spanish, U.K._
 
 ##### U.S.
 ### [ U.S.-based financial services company Lehman Brothers announces a third-quarter loss of $4.9 billion and plans to sell assets. ](/news/2008/09/10/u-s-based-financial-services-company-lehman-brothers-announces-a-third-quarter-loss-of-4-9-billion-and-plans-to-sell-assets.md)
-_Context: $, Lehman Brothers, U.S._
+_Context: Lehman Brothers, U.S., US$_
 
 ##### OPEC
 ### [ OPEC announces it will cut oil production by 500,000 barrels a day; prices rise accordingly. ](/news/2008/09/10/opec-announces-it-will-cut-oil-production-by-500-000-barrels-a-day-prices-rise-accordingly.md)
@@ -29,7 +29,7 @@ _Context: OPEC_
 
 ##### President of Bolivia
 ### [ President of Bolivia Evo Morales expels the United States ambassador, Philip Goldberg, for allegedly encouraging anti-government protests. ](/news/2008/09/10/president-of-bolivia-evo-morales-expels-the-united-states-ambassador-philip-goldberg-for-allegedly-encouraging-anti-government-protests.md)
-_Context: Evo Morales, Philip Goldberg, President of Bolivia, U.S., ambassador_
+_Context: Evo Morales, Philip Goldberg, President of Bolivia, United States, ambassador_
 
 ##### 2008
 ### [ United States presidential election, 2008: Former Republican candidate Ron Paul endorses third-party candidates Chuck Baldwin, Bob Barr, Cynthia McKinney and Ralph Nader, calling the two-party system a "charade.](/news/2008/09/10/united-states-presidential-election-2008-former-republican-candidate-ron-paul-endorses-third-party-candidates-chuck-baldwin-bob-barr-cy.md)

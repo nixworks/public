@@ -47,7 +47,7 @@ _Context: Google_
 ### [The EU agree to impose tougher sanctions against member countries that violate the Stability and Growth Pact. ](/news/2010/07/12/the-eu-agree-to-impose-tougher-sanctions-against-member-countries-that-violate-the-stability-and-growth-pact.md)
 _Context: European Union, Stability and Growth Pact_
 
-##### United Kingdom
+##### UK
 ### [The United Kingdom Secretary of State for Health Andrew Lansley outlines a radical proposal to reform the country's National Health Service, including the privatisation of hospitals. ](/news/2010/07/12/the-united-kingdom-secretary-of-state-for-health-andrew-lansley-outlines-a-radical-proposal-to-reform-the-country-s-national-health-service.md)
 The NHS in England is to undergo one of the biggest restructuring in its history, the government announces.
 
@@ -55,7 +55,7 @@ The NHS in England is to undergo one of the biggest restructuring in its history
 ### [French President Nicolas Sarkozy goes on national TV to dismiss allegations that he received illegal campaign donations from Liliane Bettencourt. ](/news/2010/07/12/french-president-nicolas-sarkozy-goes-on-national-tv-to-dismiss-allegations-that-he-received-illegal-campaign-donations-from-liliane-bettenc.md)
 In&#x20;a&#x20;live&#x20;TV&#x20;interview,&#x20;French&#x20;President&#x20;Nicolas&#x20;Sarkozy&#x20;has&#x20;defended&#x20;embattled&#x20;Labour&#x20;Minister&#x20;Eric&#x20;Woerth,&#x20;who&#x20;is&#x20;at&#x20;the&#x20;centre&#x20;of&#x20;corruption&#x20;allegations&#x20;involving&#x20;France&#x...
 
-##### U.S.
+##### United States
 ### [The United States is pleased after Russia suggests Iran could build a nuclear weapon in future, an unusual admission from Moscow. ](/news/2010/07/12/the-united-states-is-pleased-after-russia-suggests-iran-could-build-a-nuclear-weapon-in-future-an-unusual-admission-from-moscow.md)
 Russian President Dmitry Medvedev said on Monday Iran was gaining the ability to build a nuclear bomb, remarks welcomed in Washington as a sign of growing international unity behind a tough line toward Tehran.
 
@@ -63,7 +63,7 @@ Russian President Dmitry Medvedev said on Monday Iran was gaining the ability to
 ### [An Israeli military probe into the naval raid on the Gaza-bound flotilla praises the naval commandos who killed eight Turks and one Turkish-American but criticises poor Israeli intelligence that did not have a sufficient backup plan for its troops in the event that the Flotilla's passengers reacted violently to the raid. ](/news/2010/07/12/an-israeli-military-probe-into-the-naval-raid-on-the-gaza-bound-flotilla-praises-the-naval-commandos-who-killed-eight-turks-and-one-turkish.md)
 The killing of nine Turks in a raid on a Gaza-bound flotilla last month followed intelligence and planning &quot;mistakes&quot;, according to an Israel Defence Force (IDF)-commissioned report.
 
-##### United Kingdom
+##### UK
 ### [The UK Ministry of Defence unveils "Taranis", its new long-range unmanned plane intended to damage enemy territory. Tests are due to begin in 2011. ](/news/2010/07/12/the-uk-ministry-of-defence-unveils-taranis-its-new-long-range-unmanned-plane-intended-to-damage-enemy-territory-tests-are-due-to-begin-i.md)
 The Ministry of Defence unveils its new prototype stealthy unmanned combat air vehicle as the first step towards pilotless strike aircraft.
 

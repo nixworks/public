@@ -5,7 +5,7 @@ Formats: [HTML](2011/03/2/index.html)  [JSON](2011/03/2/index.json)  [XML](2011/
 
 ##### Eastern Cougar
 ### [The Eastern Cougar is declared extinct in the United States. ](/news/2011/03/2/the-eastern-cougar-is-declared-extinct-in-the-united-states.md)
-_Context: Eastern Cougar, U.S._
+_Context: Eastern Cougar, United States_
 
 ##### Elections in the Netherlands
 ### [Elections in the Netherlands: Dutch provincial elections of 2011. The People's Party for Freedom and Democracy (VVD) obtain the highest number of votes cast, The Labour Party (PvdA) obtain the second highest number of votes. ](/news/2011/03/2/elections-in-the-netherlands-dutch-provincial-elections-of-2011-the-people-s-party-for-freedom-and-democracy-vvd-obtain-the-highest-numb.md)
@@ -35,9 +35,9 @@ _Context: Cypriot, Nicosia, Turkish, Turkish government_
 ### [Fox News suspends contributors Newt Gingrich and Rick Santorum until they decide on a 2012 US presidential election candidacy. ](/news/2011/03/2/fox-news-suspends-contributors-newt-gingrich-and-rick-santorum-until-they-decide-on-a-2012-us-presidential-election-candidacy.md)
 They&#39;re off the payroll until they decide about 2012.
 
-##### United Kingdom
+##### UK
 ### [The United Kingdom announces plans to axe 11,000 jobs in the British Armed Forces. ](/news/2011/03/2/the-united-kingdom-announces-plans-to-axe-11-000-jobs-in-the-british-armed-forces.md)
-_Context: British military personnel, United Kingdom_
+_Context: British military personnel, UK_
 
 ##### German
 ### [German Chancellor Angela Merkel names Thomas de Maizire as new defence minister and Hans-Peter Friedrich as the new interior minister, following resignations earlier this week. ](/news/2011/03/2/german-chancellor-angela-merkel-names-thomas-de-maiziere-as-new-defence-minister-and-hans-peter-friedrich-as-the-new-interior-minister-foll.md)
@@ -81,7 +81,7 @@ _Context: Apple Inc, iPad 2, tablet computer_
 
 ##### MetLife
 ### [MetLife, the largest life insurance company in the United States, claims that shares held by the American International Group (AIG) have been sold for $6.35 billion to help pay back the United States government for the bailout. ](/news/2011/03/2/metlife-the-largest-life-insurance-company-in-the-united-states-claims-that-shares-held-by-the-american-international-group-aig-have-bee.md)
-_Context: AIG, MetLife, U.S., life insurance_
+_Context: AIG, MetLife, United States, life insurance_
 
 ##### Rupert Murdoch
 ### [Rupert Murdoch's News Corporation agrees to sell Sky News in order to be in a position to buy BSkyB without a Competition Commission inquiry. ](/news/2011/03/2/rupert-murdoch-s-news-corporation-agrees-to-sell-sky-news-in-order-to-be-in-a-position-to-buy-bskyb-without-a-competition-commission-inquiry.md)

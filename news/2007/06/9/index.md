@@ -13,7 +13,7 @@ _Context: George W. Bush, Kosovo, Russia, Serbia, U.S. President, UN_
 
 ##### Russia
 ### [ Russia warns the United States to halt its missile defense system in central Europe in order to continue further talks. ](/news/2007/06/9/russia-warns-the-united-states-to-halt-its-missile-defense-system-in-central-europe-in-order-to-continue-further-talks.md)
-_Context: Europe, Russia, U.S._
+_Context: Europe, Russia, United States_
 
 ##### Central Intelligence Organization
 ### [ The Central Intelligence Organization arrests almost 400 soldiers in Harare, Zimbabwe for allegedly plotting to overthrow President Robert Mugabe. Air Vice Marshal Elson Moyo, Major General Engelbert Rugeje, and Colonel Ben Ncube are allegedly the ringleaders. ](/news/2007/06/9/the-central-intelligence-organization-arrests-almost-400-soldiers-in-harare-zimbabwe-for-allegedly-plotting-to-overthrow-president-robert.md)

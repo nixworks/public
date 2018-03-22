@@ -9,9 +9,9 @@ Formats: [HTML](2005/12/8/index.html)  [JSON](2005/12/8/index.json)  [XML](2005/
 ### [ Lawyers for convicted murderer and Crips co-founder Stanley "Tookie" Williams meet with Governor of California Arnold Schwarzenegger in a final plea for clemency. ](/news/2005/12/8/lawyers-for-convicted-murderer-and-crips-co-founder-stanley-tookie-williams-meet-with-governor-of-california-arnold-schwarzenegger-in-a-f.md)
 _Context: Arnold Schwarzenegger, Crips, Governor of California, Stanley Williams, clemency_
 
-##### United Kingdom
+##### UK
 ### [ UK Law Lords rule in "A v. Secretary of State for the Home Department" that evidence which may have been obtained by torture cannot be used against suspects in terrorism cases. ](/news/2005/12/8/uk-law-lords-rule-in-a-v-secretary-of-state-for-the-home-department-that-evidence-which-may-have-been-obtained-by-torture-cannot-be-used.md)
-_Context: A v. Secretary of State for the Home Department, Appellate Committee of the House of Lords, United Kingdom, terrorism, torture_
+_Context: A v. Secretary of State for the Home Department, Appellate Committee of the House of Lords, UK, terrorism, torture_
 
 ##### International Federation of Red Cross and Red Crescent Societies
 ### [ The International Red Cross and Red Crescent Movement adopt a Red Crystal design, allowing Israel to join as a fully participating member. ](/news/2005/12/8/the-international-red-cross-and-red-crescent-movement-adopt-a-red-crystal-design-allowing-israel-to-join-as-a-fully-participating-member.md)

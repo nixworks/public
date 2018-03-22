@@ -29,7 +29,7 @@ _Context: European migration crisis, Libya_
 
 ##### Economy of China
 ### [China's credit rating has been downgraded by Standard & Poor's (S&P) because of worries over the rapid build up of debt in the country. ](/news/2017/09/21/china-s-credit-rating-has-been-downgraded-by-standard-poor-s-s-p-because-of-worries-over-the-rapid-build-up-of-debt-in-the-country.md)
-_Context: China, Economy of China, Standard & Poor's_
+_Context: Chinese, Economy of China, Standard & Poor's_
 
 ##### Economy of the United States
 ### [Google strikes a $1.1bn (GBP822m) deal with Taiwan's HTC to expand its smartphone business. ](/news/2017/09/21/google-strikes-a-1-1bn-agbp822m-deal-with-taiwan-s-htc-to-expand-its-smartphone-business.md)

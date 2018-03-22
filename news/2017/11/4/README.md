@@ -39,7 +39,7 @@ The Department of Homeland Security is expected to make an announcement next Mon
 ### [Typhoon Damrey kills at least 19 people in Vietnam, a week before the country is set to host APEC Vietnam 2017. ](/news/2017/11/4/typhoon-damrey-kills-at-least-19-people-in-vietnam-a-week-before-the-country-is-set-to-host-apec-vietnam-2017.md)
 _Context: 2017 Pacific typhoon season, APEC Vietnam 2017, Typhoon Damrey, Vietnam_
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [Houthi rebels in Yemen fire a ballistic missile at King Khalid International Airport in Riyadh, Saudi Arabia. The missile was shot down, according to Saudi officials, with no resulting injuries or damage.](/news/2017/11/4/houthi-rebels-in-yemen-fire-a-ballistic-missile-at-king-khalid-international-airport-in-riyadh-saudi-arabia-the-missile-was-shot-down-acc.md)
 Amid regional tensions, Yemen’s Iran-aligned Houthi rebels reached Riyadh with a ballistic missile for the first time.
 

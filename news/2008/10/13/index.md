@@ -3,15 +3,15 @@ Formats: [HTML](2008/10/13/index.html)  [JSON](2008/10/13/index.json)  [XML](200
 
 ## [2008-10-13](/news/2008/10/13/index.md)
 
-##### U.S.
+##### United States
 ### [ United States economist Paul Krugman wins the 2008 Nobel Prize in Economics for "analysis of trade patterns and location of economic activity".](/news/2008/10/13/united-states-economist-paul-krugman-wins-the-2008-nobel-prize-in-economics-for-analysis-of-trade-patterns-and-location-of-economic-activi.md)
-_Context: 2008, Nobel Prize in Economics, Paul Krugman, U.S., economist_
+_Context: 2008, Nobel Prize in Economics, Paul Krugman, United States, economist_
 
 ##### European Union
 ### [ The European Union temporarily lifts travel bans on Belarusian President Alexander Lukashenko and other top officials for six months to encourage democratic reforms in that country. ](/news/2008/10/13/the-european-union-temporarily-lifts-travel-bans-on-belarusian-president-alexander-lukashenko-and-other-top-officials-for-six-months-to-enc.md)
 _Context: Alexander Lukashenko, Belarus, Belarussian President, European Union_
 
-##### United Kingdom
+##### UK
 ### [ The United Kingdom House of Lords rejects the Counter-Terrorism Bill 2008 by 309 votes to 118. ](/news/2008/10/13/the-united-kingdom-house-of-lords-rejects-the-counter-terrorism-bill-2008-by-309-votes-to-118.md)
 The House of Lords firmly rejected a government proposal to tighten anti-terrorism laws on Monday, saying it would not support suspects being held for up to six weeks without charge.
 

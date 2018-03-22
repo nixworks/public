@@ -17,9 +17,9 @@ _Context: Chinese, European Union, Vietnam_
 
 ##### FBI
 ### [ The Federal Bureau of Investigation and the Food and Drug Administration searches two spinach packaging companies in the Salinas Valley in California for evidence related to a recent outbreak of "E. coli" in the United States and Canada that made 200 people sick. ](/news/2006/10/4/the-federal-bureau-of-investigation-and-the-food-and-drug-administration-searches-two-spinach-packaging-companies-in-the-salinas-valley-in.md)
-_Context: ''E. coli'', California, Canada, FBI, Food and Drug Administration, Salinas Valley, U.S., outbreak, spinach_
+_Context: ''E. coli'', California, Canada, FBI, Food and Drug Administration, Salinas Valley, United States, outbreak, spinach_
 
-##### U.S.
+##### United States
 ### [ A United States Appeals Court in Cincinnati, Ohio rules that the U.S. government can continue to use its warrantless domestic wiretap program pending the Justice Department's appeal of a federal judge's ruling outlawing the program. ](/news/2006/10/4/a-united-states-appeals-court-in-cincinnati-ohio-rules-that-the-u-s-government-can-continue-to-use-its-warrantless-domestic-wiretap-progr.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 

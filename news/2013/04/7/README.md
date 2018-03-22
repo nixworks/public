@@ -19,7 +19,7 @@ _Context: AFC Cup, Lebanese, Singapore, corruption, football, free sex, match fi
 ### [Egyptian Christians and Muslims clash after a funeral for a Christian who was killed in earlier clashes. ](/news/2013/04/7/egyptian-christians-and-muslims-clash-after-a-funeral-for-a-christian-who-was-killed-in-earlier-clashes.md)
 Egyptian police fired tear gas outside Cairo&#39;s Coptic cathedral on Sunday after clashes following funeral prayers for four Christians killed in sectarian clashes.
 
-##### U.S.
+##### United States
 ### [United States Secretary of State John Kerry arrives in Turkey, where he is to have talks addressing relations with Israel and the conflict in Syria. ](/news/2013/04/7/united-states-secretary-of-state-john-kerry-arrives-in-turkey-where-he-is-to-have-talks-addressing-relations-with-israel-and-the-conflict-i.md)
 US Secretary of State John Kerry discusses Iran and ties with Israel on a visit to Turkey, before talks in the West Bank on Middle East peace.
 
@@ -27,11 +27,11 @@ US Secretary of State John Kerry discusses Iran and ties with Israel on a visit 
 ### [Hundreds of delegates meet in Doha, Qatar, to raise funds to rebuild the Sudanese region of Darfur, that has been racked by conflict. ](/news/2013/04/7/hundreds-of-delegates-meet-in-doha-qatar-to-raise-funds-to-rebuild-the-sudanese-region-of-darfur-that-has-been-racked-by-conflict.md)
 _Context: Darfur, Doha, Qatar, Sudan, conflict_
 
-##### China
+##### Chinese
 ### [China says it will open disputed Paracel Islands in the South China Sea to tourism before the May Day holiday, a move to which Vietnam is strongly opposed, as the United States expresses concern. ](/news/2013/04/7/china-says-it-will-open-disputed-paracel-islands-in-the-south-china-sea-to-tourism-before-the-may-day-holiday-a-move-to-which-vietnam-is-st.md)
 China is to open disputed South China Sea islands up to tourism this month, state media reported Sunday, a move likely to inflame a long-running territorial row with its neighbours.
 
-##### U.S.
+##### United States
 ### [The United States decides to delay a long-planned intercontinental ballistic missile test scheduled for next week at the Vandenberg Air Force Base in California, following tensions with North Korea. ](/news/2013/04/7/the-united-states-decides-to-delay-a-long-planned-intercontinental-ballistic-missile-test-scheduled-for-next-week-at-the-vandenberg-air-forc.md)
 Pentagon puts off intercontinental missile launch apparently to avoid stoking tensions with North Korea.
 

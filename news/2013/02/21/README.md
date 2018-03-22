@@ -29,7 +29,7 @@ _Context: Bhandara district, India_
 
 ##### Shooting
 ### [A car crash and shooting occurs at the Las Vegas Strip in Paradise, Nevada, United States. Three people are dead, and six others are wounded. ](/news/2013/02/21/a-car-crash-and-shooting-occurs-at-the-las-vegas-strip-in-paradise-nevada-united-states-three-people-are-dead-and-six-others-are-wounded.md)
-_Context: Las Vegas Strip, Nevada, Paradise, Nevada, U.S., shooting_
+_Context: Las Vegas Strip, Nevada, Paradise, Nevada, United States, shooting_
 
 ##### Snowstorm
 ### [A major snowstorm occurs in the Midwestern United States leading to two deaths so far. ](/news/2013/02/21/a-major-snowstorm-occurs-in-the-midwestern-united-states-leading-to-two-deaths-so-far.md)
@@ -45,7 +45,7 @@ PayPal launched a European version of its PayPal Here mobile payments service fo
 
 ##### Michael Edwards
 ### [Michael Edwards becomes the first British writer elected at the Academie francaise. ](/news/2013/02/21/michael-edwards-becomes-the-first-british-writer-elected-at-the-acada-c-mie-franassaise.md)
-_Context: Academie francaise, Michael Edwards, United Kingdom, writer_
+_Context: Academie francaise, Michael Edwards, UK, writer_
 
 ##### India
 ### [At least 20 people are dead and 54 injured following several bombings in the Indian city of Hyderabad. ](/news/2013/02/21/at-least-20-people-are-dead-and-54-injured-following-several-bombings-in-the-indian-city-of-hyderabad.md)

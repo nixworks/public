@@ -9,7 +9,7 @@ Safety investigator&#039;s report finds electronic error led to dangerous plunge
 
 ##### North Korea
 ### [ North Korea threatens the safety of South Korean civilian aircraft flying near its territory, on the eve of annual military exercises involving the United States and the South. ](/news/2009/03/6/north-korea-threatens-the-safety-of-south-korean-civilian-aircraft-flying-near-its-territory-on-the-eve-of-annual-military-exercises-invol.md)
-_Context: North Korea, South Korea, U.S., military exercise_
+_Context: North Korea, South Korea, United States, military exercise_
 
 ##### Sweden
 ### [ A Swedish pediatrician at Karolinska University Hospital is remanded on suspicion of manslaughter for injecting a lethal overdose of morphine and sodium thiopental into an infant. ](/news/2009/03/6/a-swedish-pediatrician-at-karolinska-university-hospital-is-remanded-on-suspicion-of-manslaughter-for-injecting-a-lethal-overdose-of-morphi.md)
@@ -21,7 +21,7 @@ _Context: Lotta Lotass, Seat 1, Sten Rudholm, Sweden, Swedish Academy_
 
 ##### Protest
 ### [ A protestor from Plane Stupid throws custard at United Kingdom Secretary of State for Business, Enterprise and Regulatory Reform Peter Mandelson during a low-carbon summit in London. ](/news/2009/03/6/a-protestor-from-plane-stupid-throws-custard-at-united-kingdom-secretary-of-state-for-business-enterprise-and-regulatory-reform-peter-mand.md)
-_Context: London, Peter Mandelson, Plane Stupid, Secretary of State for Business, Enterprise and Regulatory Reform, United Kingdom, custard, low-carbon, protest, summit_
+_Context: London, Peter Mandelson, Plane Stupid, Secretary of State for Business, Enterprise and Regulatory Reform, UK, custard, low-carbon, protest, summit_
 
 ##### Zimbabwe
 ### [ Zimbabwean Prime Minister Morgan Tsvangirai is injured and his wife, Susan, killed in a car accident south of Harare. ](/news/2009/03/6/zimbabwean-prime-minister-morgan-tsvangirai-is-injured-and-his-wife-susan-killed-in-a-car-accident-south-of-harare.md)

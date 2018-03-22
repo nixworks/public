@@ -29,7 +29,7 @@ _Context: EUR, European Union_
 
 ##### Woolworths Group PLC
 ### [ Woolworths Group PLC agrees to put its chain of 815 stores in the United Kingdom and DVD distribution businesses into administration with 30,000 jobs at risk. ](/news/2008/11/26/woolworths-group-plc-agrees-to-put-its-chain-of-815-stores-in-the-united-kingdom-and-dvd-distribution-businesses-into-administration-with-3.md)
-_Context: DVD, United Kingdom, Woolworths Group PLC_
+_Context: DVD, UK, Woolworths Group PLC_
 
 ##### Czech Republic
 ### [ The Czech constitutional court unanimously ruled that the disputed parts of the Lisbon Treaty are in line with the Czech Constitution.](/news/2008/11/26/the-czech-constitutional-court-unanimously-ruled-that-the-disputed-parts-of-the-lisbon-treaty-are-in-line-with-the-czech-constitution.md)

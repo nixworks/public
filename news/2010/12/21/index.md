@@ -13,7 +13,7 @@ _Context: lunar eclipse_
 
 ##### 2010 Census
 ### [The United States Census Bureau releases the first data from the 2010 Census, revealing the United States to have a population of 308,745,538 on April 1, 2010. ](/news/2010/12/21/the-united-states-census-bureau-releases-the-first-data-from-the-2010-census-revealing-the-united-states-to-have-a-population-of-308-745-53.md)
-_Context: 2010 Census, U.S., US Census Bureau headquarters_
+_Context: 2010 Census, US Census Bureau headquarters, United States_
 
 ##### Siale'ataonga Tu'ivakano
 ### [Siale'ataonga Tu'ivakano is elected as the Prime Minister of Tonga. ](/news/2010/12/21/siale-ataonga-tu-ivakano-is-elected-as-the-prime-minister-of-tonga.md)
@@ -27,7 +27,7 @@ _Context: Milo Dukanovic, Montenegrin, Prime Minister_
 ### [Tuvalu Prime Minister Maatia Toafa is ousted in a vote of no confidence, necessitating nominations for a new Prime Minister. ](/news/2010/12/21/tuvalu-prime-minister-maatia-toafa-is-ousted-in-a-vote-of-no-confidence-necessitating-nominations-for-a-new-prime-minister.md)
 _Context: Maatia Toafa, Prime Minister of Tuvalu, Tuvalu, vote of no confidence_
 
-##### United Kingdom
+##### UK
 ### [In the United Kingdom Stephen Griffiths (Aka "The Crossbow Cannibal") is sentenced to life imprisonment for the murders of three women in Bradford, West Yorkshire. ](/news/2010/12/21/in-the-united-kingdom-stephen-griffiths-aka-the-crossbow-cannibal-is-sentenced-to-life-imprisonment-for-the-murders-of-three-women-in-br.md)
 A university student, who referred to himself in court as the &quot;Crossbow Cannibal&quot;, is jailed for life for the &quot;wicked and monstrous&quot; murders of three women in Bradford.
 

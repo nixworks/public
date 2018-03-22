@@ -21,7 +21,7 @@ _Context: Argentina, Argentine legislative elections_
 
 ##### Iran
 ### [ Iranian authorities arrest eight employees at the British embassy in Tehran. ](/news/2009/06/28/iranian-authorities-arrest-eight-employees-at-the-british-embassy-in-tehran.md)
-_Context: Iran, Tehran, United Kingdom_
+_Context: Iran, Tehran, UK_
 
 ##### Albania
 ### [ Voters in Albania go to the polls in a parliamentary election. ](/news/2009/06/28/voters-in-albania-go-to-the-polls-in-a-parliamentary-election.md)
@@ -35,9 +35,9 @@ _Context: Guinea-Bissau, Joo Bernardo Vieira, acting president, presidential ele
 ### [ President Manuel Zelaya is removed from office by the army ahead of a disputed constitutional referendum and sent to Costa Rica. ](/news/2009/06/28/president-manuel-zelaya-is-removed-from-office-by-the-army-ahead-of-a-disputed-constitutional-referendum-and-sent-to-costa-rica.md)
 _Context: Costa Rica, Manuel Zelaya, President, constitutional referendum, removed from office_
 
-##### United Kingdom
+##### UK
 ### [ The United Kingdom reports its second death from swine flu. ](/news/2009/06/28/the-united-kingdom-reports-its-second-death-from-swine-flu.md)
-_Context: United Kingdom, swine flu_
+_Context: UK, swine flu_
 
 ## [Previous Day...](/news/2009/06/27/index.md)
 

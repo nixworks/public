@@ -27,9 +27,9 @@ _Context: 4th quarter of 2007 and the second quarter of 2009, Economy of Japan, 
 ### [ Three civilians die during combat between Islamist insurgents and the African Union Mission in Mogadishu, Somalia. ](/news/2009/05/20/three-civilians-die-during-combat-between-islamist-insurgents-and-the-african-union-mission-in-mogadishu-somalia.md)
 _Context: AMISOM, African Union, Islamists, Mogadishu, Somalia, civilian, declares, insurgents_
 
-##### Scotland
+##### Scottish
 ### [ Scottish First Minister Alex Salmond activates Whitelee Wind Farm, Europe's largest onshore wind farm. ](/news/2009/05/20/scottish-first-minister-alex-salmond-activates-whitelee-wind-farm-europe-s-largest-onshore-wind-farm.md)
-_Context: Alex Salmond, Europe, First Minister, Scotland, Whitelee Wind Farm, wind farm_
+_Context: Alex Salmond, Europe, First Minister, Scottish, Whitelee Wind Farm, wind farm_
 
 ##### International Security Assistance Force
 ### [ The International Security Assistance Force reports that the Taliban are using white phosphorus in the Afghanistan War. ](/news/2009/05/20/the-international-security-assistance-force-reports-that-the-taliban-are-using-white-phosphorus-in-the-afghanistan-war.md)
@@ -51,9 +51,9 @@ _Context: Iran, Sajjil, medium-range missile, nuclear program, surface-to-surfac
 ### [ South East Queensland, Australia, is declared a natural disaster zone, following flooding. ](/news/2009/05/20/south-east-queensland-australia-is-declared-a-natural-disaster-zone-following-flooding.md)
 Flood-hit south-east Queensland has been declared a natural disaster zone after the death of a man on the Gold Coast this afternoon.
 
-##### United Kingdom
+##### UK
 ### [ The United Kingdom's House of Lords suspends Thomas Taylor and Peter Truscott until November for misconduct. ](/news/2009/05/20/the-united-kingdom-s-house-of-lords-suspends-thomas-taylor-and-peter-truscott-until-november-for-misconduct.md)
-_Context: House of Lords, Peter Truscott, Thomas Taylor, United Kingdom, misconduct, suspends_
+_Context: House of Lords, Peter Truscott, Thomas Taylor, UK, misconduct, suspends_
 
 ## [Previous Day...](/news/2009/05/19/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2007/08/5/index.html)  [JSON](2007/08/5/index.json)  [XML](2007/
 
 ##### Tunnel
 ### [ Thirty-four rail workers building a tunnel in Hubei province China are trapped 200 metres underground following a landslide. ](/news/2007/08/5/thirty-four-rail-workers-building-a-tunnel-in-hubei-province-china-are-trapped-200-metres-underground-following-a-landslide.md)
-_Context: China, Hubei, landslide, tunnel_
+_Context: Chinese, Hubei, landslide, tunnel_
 
 ##### Mortar
 ### [ Mortar bombs strike a petrol station in eastern Baghdad killing at least nine people and injuring 11. ](/news/2007/08/5/mortar-bombs-strike-a-petrol-station-in-eastern-baghdad-killing-at-least-nine-people-and-injuring-11.md)

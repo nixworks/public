@@ -31,7 +31,7 @@ Guinea has released the son of former president Lansana Conte, held for the past
 ### [Pakistan's foreign minister criticises the behaviour of the Indian foreign minister during their first talks in two years. ](/news/2010/07/16/pakistan-s-foreign-minister-criticises-the-behaviour-of-the-indian-foreign-minister-during-their-first-talks-in-two-years.md)
 _Context: Pakistan_
 
-##### United Kingdom
+##### UK
 ### [The United Kingdom and United States decide last year's release from a Scottish prison of Libyan Abdelbaset al-Megrahi was "a mistake". ](/news/2010/07/16/the-united-kingdom-and-united-states-decide-last-year-s-release-from-a-scottish-prison-of-libyan-abdelbaset-al-megrahi-was-a-mistake.md)
 Release of Lockerbie convict last year should not have happened, Clinton says.
 
@@ -91,7 +91,7 @@ The Bangladeshi government orders mosques and libraries across the country to re
 ### [The death toll from the suicide bombings in Zahedan, Iran, rises to 27. ](/news/2010/07/16/the-death-toll-from-the-suicide-bombings-in-zahedan-iran-rises-to-27.md)
 _Context: Zahedan, recent bombings_
 
-##### U.S.
+##### United States
 ### [The United States places U.S.-born Muslim cleric Anwar al-Awlaki on its "terror blacklist". ](/news/2010/07/16/the-united-states-places-u-s-born-muslim-cleric-anwar-al-awlaki-on-its-terror-blacklist.md)
 Washington puts US-born Muslim cleric Anwar al-Awlaki on a terror blacklist for allegedly planning attacks on the US.
 

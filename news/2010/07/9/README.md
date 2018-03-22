@@ -7,7 +7,7 @@ Formats: [HTML](2010/07/9/index.html)  [JSON](2010/07/9/index.json)  [XML](2010/
 ### [19-year-old French sprinter Christophe Lemaitre sets a national record of 9.98 seconds and becomes the first genetic European to run 100 metres in less than 10 seconds. ](/news/2010/07/9/19-year-old-french-sprinter-christophe-lemaitre-sets-a-national-record-of-9-98-seconds-and-becomes-the-first-genetic-european-to-run-100-met.md)
 A&#x20;19-year-old&#x20;French&#x20;sprinter,&#x20;Christophe&#x20;Lemaitre,&#x20;has&#x20;become&#x20;the&#x20;first&#x20;European&#x20;who&#x20;is&#x20;not&#x20;of&#x20;African&#x20;descent&#x20;to&#x20;run&#x20;100&#x20;metres&#x20;in&#x20;less&#x20;than&#x20;10&#x20;seconds,&#x20;covering&#x20;t...
 
-##### U.S.
+##### United States
 ### [American researchers discover that some fruits and vegetables grown today have less nutritional value than those grown in the 1950s. ](/news/2010/07/9/american-researchers-discover-that-some-fruits-and-vegetables-grown-today-have-less-nutritional-value-than-those-grown-in-the-1950s.md)
 While we&#39;ve been dutifully eating our fruits and vegetables all these years, a strange thing has been happening to our produce. It&#39;s losing its nutrients. 
 
@@ -89,7 +89,7 @@ Two&#x20;weeks&#x20;after&#x20;the&#x20;sacking&#x20;of&#x20;Stanley&#x20;McChry
 
 ##### Israel
 ### [Israel criticises Britain's ambassador to Lebanon for eulogising Mohammad Hussein Fadlallah, who recently died. ](/news/2010/07/9/israel-criticises-britain-s-ambassador-to-lebanon-for-eulogising-mohammad-hussein-fadlallah-who-recently-died.md)
-_Context: Israel, Lebanese, Mohammad Hussein Fadlallah, United Kingdom_
+_Context: Israel, Lebanese, Mohammad Hussein Fadlallah, UK_
 
 ##### United Nations Interim Force in Lebanon
 ### [The head of the United Nations Interim Force in Lebanon in southern Lebanon appeals for calm after attacks by villagers. ](/news/2010/07/9/the-head-of-the-united-nations-interim-force-in-lebanon-in-southern-lebanon-appeals-for-calm-after-attacks-by-villagers.md)

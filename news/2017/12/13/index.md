@@ -35,9 +35,9 @@ Councillors vote overwhelmingly to remove award from Myanmar leader, whose handl
 ### [Militant Palestinians fire rockets towards Israel from the Gaza Strip. The Israel Defense Forces say that the Iron Dome system intercepted two missiles, while one rocket fell in a flat open area and nobody was hurt. ](/news/2017/12/13/militant-palestinians-fire-rockets-towards-israel-from-the-gaza-strip-the-israel-defense-forces-say-that-the-iron-dome-system-intercepted-t.md)
 _Context: Gaza Strip, Iron Dome, Israel, Israeli Army, Israeli-Palestinian conflict, Palestinian_
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [At least 30 people are reported to have been killed in Saudi-led coalition air strikes on a rebel military police camp in Yemen's capital, Sanaa. ](/news/2017/12/13/at-least-30-people-are-reported-to-have-been-killed-in-saudi-led-coalition-air-strikes-on-a-rebel-military-police-camp-in-yemen-s-capital-s.md)
-_Context: Sanaa, Saudi-led intervention in Yemen, Yemen_
+_Context: Sanaa, Saudi Arabian-led intervention in Yemen, Yemen_
 
 ## [Previous Day...](/news/2017/12/12/index.md)
 

@@ -21,7 +21,7 @@ _Context: Connecticut, Hollis Center, Maine, New York, Portland, cellular phone_
 
 ##### Law of Brazil
 ### [The Brazilian jurisprudence system upholds the convictions of two United States pilots for their roles in the 2006 Gol Transportes Aereos Flight 1907 disaster. ](/news/2012/10/16/the-brazilian-jurisprudence-system-upholds-the-convictions-of-two-united-states-pilots-for-their-roles-in-the-2006-gol-transportes-aa-c-reos-f.md)
-_Context: Gol Transportes Aereos Flight 1907, Law of Brazil, U.S._
+_Context: Gol Transportes Aereos Flight 1907, Law of Brazil, United States_
 
 ##### Spanish
 ### [The captain of the Prestige oil tanker goes on trial in Spain. ](/news/2012/10/16/the-captain-of-the-prestige-oil-tanker-goes-on-trial-in-spain.md)
@@ -31,9 +31,9 @@ _Context: Spanish_
 ### [The British computer hacker Gary McKinnon wins his ten-year legal battle to avoid extradition to the United States after Home Secretary Theresa May tells the House of Commons she has blocked the order. ](/news/2012/10/16/the-british-computer-hacker-gary-mckinnon-wins-his-ten-year-legal-battle-to-avoid-extradition-to-the-united-states-after-home-secretary-ther.md)
 The mother of British computer hacker Gary McKinnon says she is &quot;overwhelmed&quot; after the UK blocked his extradition to the US, ending a 10-year ordeal.
 
-##### United Kingdom
+##### UK
 ### [The United Kingdom announces its intention to close its consulate in Basra, Iraq. ](/news/2012/10/16/the-united-kingdom-announces-its-intention-to-close-its-consulate-in-basra-iraq.md)
-_Context: Basra, Iraq, United Kingdom, its consulate_
+_Context: Basra, Iraq, UK, its consulate_
 
 ##### BBC
 ### [The BBC appoints the heads of two separate inquiries into the sexual abuse scandal that has engulfed Jimmy Savile. Former High Court judge Dame Janet Smith will review the culture and practices of the BBC during the time Savile worked there, while Nick Pollard, a former Sky News executive will look at why a "Newsnight" investigation into Savile's activities was dropped shortly before transmission. ](/news/2012/10/16/the-bbc-appoints-the-heads-of-two-separate-inquiries-into-the-sexual-abuse-scandal-that-has-engulfed-jimmy-savile-former-high-court-judge-d.md)

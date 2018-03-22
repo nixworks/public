@@ -61,7 +61,7 @@ Sky News Australia has the top stories in news online from Australia and the res
 
 ##### Russia
 ### [Documents discovered in a Russian archive suggest that Adolf Hitler ordered Rudolf Hess to go to the United Kingdom to negotiate with Winston Churchill over a World War II peace deal in 1941. ](/news/2011/05/30/documents-discovered-in-a-russian-archive-suggest-that-adolf-hitler-ordered-rudolf-hess-to-go-to-the-united-kingdom-to-negotiate-with-winsto.md)
-_Context: Adolf Hitler, Rudolf Hess, Russia, United Kingdom, Winston Churchill, World War II_
+_Context: Adolf Hitler, Rudolf Hess, Russia, UK, Winston Churchill, World War II_
 
 ##### Nigeria
 ### [An explosion at an army barrack in northern Nigeria kills 12 people. ](/news/2011/05/30/an-explosion-at-an-army-barrack-in-northern-nigeria-kills-12-people.md)

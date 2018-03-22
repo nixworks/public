@@ -19,7 +19,7 @@ Gambian President Yahya Jemmeh orders that execution of prisoners on death row b
 
 ##### Japan
 ### [Anti-Japanese protests spread in China over the disputed Senkaku Islands. ](/news/2012/09/15/anti-japanese-protests-spread-in-china-over-the-disputed-senkaku-islands.md)
-_Context: China, Japan, Senkaku Islands_
+_Context: Chinese, Japan, Senkaku Islands_
 
 ##### Fukushima Daiichi nuclear disaster
 ### [In the wake of the Fukushima nuclear disaster, Japan declares that it will phase out dependence on nuclear energy by the 2030s. ](/news/2012/09/15/in-the-wake-of-the-fukushima-nuclear-disaster-japan-declares-that-it-will-phase-out-dependence-on-nuclear-energy-by-the-2030s.md)

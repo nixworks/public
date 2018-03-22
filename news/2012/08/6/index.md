@@ -21,7 +21,7 @@ Members of the US Sikh community express their shock after six worshippers are s
 
 ##### Sri Lanka
 ### [Sri Lanka arrests 37 Chinese fisherman for illegally fishing in Sri Lankan waters. ](/news/2012/08/6/sri-lanka-arrests-37-chinese-fisherman-for-illegally-fishing-in-sri-lankan-waters.md)
-_Context: China, Sri Lanka_
+_Context: Chinese, Sri Lanka_
 
 ##### Chevron Richmond Refinery
 ### [A fire at the Chevron Richmond Refinery in Richmond, California spreads thick black smoke over Contra Costa County, prompting warnings from officials to shelter in place. ](/news/2012/08/6/a-fire-at-the-chevron-richmond-refinery-in-richmond-california-spreads-thick-black-smoke-over-contra-costa-county-prompting-warnings-from.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2013/08/28/index.html)  [JSON](2013/08/28/index.json)  [XML](201
 
 ##### Iran
 ### [Iran pursues the 1953 Iranian coup d'tat case, which was orchestrated by US and Britain, in the international courts at The Hague. CIA officially admitted role in the coup on 20 August 2013. ](/news/2013/08/28/iran-pursues-the-1953-iranian-coup-d-etat-case-which-was-orchestrated-by-us-and-britain-in-the-international-courts-at-the-hague-cia-offi.md)
-_Context: 1953 Iranian coup d'tat, Iran, The Hague, US, United Kingdom_
+_Context: 1953 Iranian coup d'tat, Iran, The Hague, UK, US_
 
 ##### Nidal Malik Hasan
 ### [Former U.S. Army Major and psychiatrist Nidal Malik Hasan is sentenced to death for the November 5, 2009, Fort Hood massacre that killed 13 and wounded 32 others. He will be granted an automatic appeal; the Army general (convening authority) who will review the case can grant him life without parole; any eventual military execution would need presidential approval. ](/news/2013/08/28/former-u-s-army-major-and-psychiatrist-nidal-malik-hasan-is-sentenced-to-death-for-the-november-5-2009-fort-hood-massacre-that-killed-13.md)

@@ -25,7 +25,7 @@ _Context: Basuki Tjahaja Purnama, Islam, ethnic Chinese Christian, gubernatorial
 
 ##### Saudi Arabia-United States relations
 ### [The United States is to limit military support to Saudi Arabia's military intervention in Yemen amid concerns over rising civilian casualties. ](/news/2016/12/13/the-united-states-is-to-limit-military-support-to-saudi-arabia-s-military-intervention-in-yemen-amid-concerns-over-rising-civilian-casualtie.md)
-_Context: Saudi Arabia, Saudi Arabia-United States relations, Saudi-led intervention in Yemen, U.S., Yemen, Yemeni Civil War (2015-present)_
+_Context: Saudi Arabia, Saudi Arabia-United States relations, Saudi Arabian-led intervention in Yemen, United States, Yemen, Yemeni Civil War (2015-present)_
 
 ##### Google
 ### [Google and Cuba forge a deal about better access to the Internet for the island. ](/news/2016/12/13/google-and-cuba-forge-a-deal-about-better-access-to-the-internet-for-the-island.md)

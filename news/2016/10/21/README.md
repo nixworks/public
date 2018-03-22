@@ -49,7 +49,7 @@ AT&T Inc (T.N) reached a deal to buy media company Time Warner Inc (TWX.N) for m
 
 ##### British American Tobacco
 ### [British American Tobacco offers to buy out U.S. cigarette maker Reynolds American Inc in a $47 billion takeover that would create the world's biggest listed tobacco company. ](/news/2016/10/21/british-american-tobacco-offers-to-buy-out-u-s-cigarette-maker-reynolds-american-inc-in-a-47-billion-takeover-that-would-create-the-world.md)
-_Context: $, British American Tobacco, Reynolds American Inc, cigarette, tobacco_
+_Context: British American Tobacco, Reynolds American Inc, US$, cigarette, tobacco_
 
 ##### Per Wastberg
 ### [Per Wastberg, a member of the Swedish Academy, says that songwriter and artist Bob Dylan has not yet indicated whether he intends to accept the 2016 Nobel Prize in Literature. ](/news/2016/10/21/per-wa-stberg-a-member-of-the-swedish-academy-says-that-songwriter-and-artist-bob-dylan-has-not-yet-indicated-whether-he-intends-to-accept.md)

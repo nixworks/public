@@ -23,7 +23,7 @@ _Context: German, Lufthansa_
 ### [Queen Elizabeth II becomes Britain's longest-reigning monarch (63 years and seven months), surpassing the record set by Queen Victoria, her great-great-grandmother. ](/news/2015/09/9/queen-elizabeth-ii-becomes-britain-s-longest-reigning-monarch-63-years-and-seven-months-surpassing-the-record-set-by-queen-victoria-her.md)
 Elizabeth, aged 89, surpasses the 63 years her great-great-grandmother Queen Victoria spent on the throne.
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [Egypt deploys around 800 troops to Yemen to join the Saudi-led war effort against the Houthis. ](/news/2015/09/9/egypt-deploys-around-800-troops-to-yemen-to-join-the-saudi-led-war-effort-against-the-houthis.md)
 As many as 800 Egyptian soldiers arrived in Yemen late on Tuesday, Egyptian security sources said, swelling the ranks of a Gulf Arab military contingent which aims to rout the Iran-allied Houthi group after a five-month civil war.
 

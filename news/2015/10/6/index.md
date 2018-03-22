@@ -29,7 +29,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ##### Typhoon Mujigae (2015)
 ### [Sixteen campers are missing in south China's Guangxi Zhuang Autonomous Region following a flash flood in a camping reserve. ](/news/2015/10/6/sixteen-campers-are-missing-in-south-china-s-guangxi-zhuang-autonomous-region-following-a-flash-flood-in-a-camping-reserve.md)
-_Context: China, Guangxi Zhuang Autonomous Region, Typhoon Mujigae (2015), flash flood_
+_Context: Chinese, Guangxi Zhuang Autonomous Region, Typhoon Mujigae (2015), flash flood_
 
 ##### European Court of Justice
 ### [The European Court of Justice decides an international agreement, generally known as a Safe Harbor rule, used by thousands of companies for moving people's digital data between the European Union and the United States is invalid, effective immediately. The decision throws into doubt how global technology giants like Facebook, Amazon and Google can collect, manage, and analyze online information from their millions of users in the 28-member bloc. Decisions by this court, the highest legal authority in the EU, cannot be appealed. ](/news/2015/10/6/the-european-court-of-justice-decides-an-international-agreement-generally-known-as-a-safe-harbor-rule-used-by-thousands-of-companies-for.md)
@@ -49,7 +49,7 @@ Russian jets hit Islamic State targets in the Syrian city of Palmyra and the nor
 
 ##### Yemeni Civil War (2015)
 ### [A hotel where Vice President of Yemen and Prime Minister Khaled Bahah was staying in Aden which was also being used as a de facto military base by Arab coalition forces is hit by multiple explosions killing at least 15 coalition soldiers. Although the Houthis were first suspected and accused of being behind the attack, the Islamic State of Iraq and the Levant has since claimed responsibility, marking the first attack on Arab coalition forces in Yemen by the extremist group. ](/news/2015/10/6/a-hotel-where-vice-president-of-yemen-and-prime-minister-khaled-bahah-was-staying-in-aden-which-was-also-being-used-as-a-de-facto-military-b.md)
-_Context: Aden, Houthi, ISIL, Khaled Bahah, Prime Minister, Saudi-led intervention in Yemen, Vice President of Yemen, Yemen, Yemeni Civil War (2015)_
+_Context: Aden, Houthis, ISIL, Khaled Bahah, Prime Minister, Saudi Arabian-led intervention in Yemen, Vice President of Yemen, Yemen, Yemeni Civil War (2015)_
 
 ## [Previous Day...](/news/2015/10/5/index.md)
 

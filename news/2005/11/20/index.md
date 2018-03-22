@@ -21,7 +21,7 @@ _Context: Ariel Sharon, Benjamin Netanyahu, Israeli Labor Party, Israeli army ra
 
 ##### Iraqi insurgency
 ### [ At least forty people died following a series of insurgent and American led attacks. ](/news/2005/11/20/at-least-forty-people-died-following-a-series-of-insurgent-and-american-led-attacks.md)
-_Context: Iraqi insurgency, U.S._
+_Context: Iraqi insurgency, United States_
 
 ## [Previous Day...](/news/2005/11/19/index.md)
 

@@ -13,7 +13,7 @@ _Context: Barack Obama, Hillary Clinton, Secretary of State, U.S. President, Uni
 
 ##### Raymond Davis
 ### [Raymond Davis, an official with the United States embassy in Pakistan, is acquitted of charges of two counts of murder and released from jail after compensation is paid to the victims' families, the result of intense diplomatic talks between the United States and Pakistan.](/news/2011/03/16/raymond-davis-an-official-with-the-united-states-embassy-in-pakistan-is-acquitted-of-charges-of-two-counts-of-murder-and-released-from-jai.md)
-_Context: Pakistan, Raymond Davis, U.S._
+_Context: Pakistan, Raymond Davis, United States_
 
 ##### Cambodia
 ### [Police in Cambodia ask prosecutors to charge recruitment firm T&P with illegally detaining its staff. ](/news/2011/03/16/police-in-cambodia-ask-prosecutors-to-charge-recruitment-firm-t-p-with-illegally-detaining-its-staff.md)
@@ -29,7 +29,7 @@ Operators of a quake-crippled nuclear plant in Japan said they would try again o
 
 ##### Yen
 ### [The Japanese yen reaches a postwar high against the United States dollar on the basis that Japanese insurers will redeem overseas assets to pay for the cost of the Tohoku earthquake and tsunami. ](/news/2011/03/16/the-japanese-yen-reaches-a-postwar-high-against-the-united-states-dollar-on-the-basis-that-japanese-insurers-will-redeem-overseas-assets-to.md)
-_Context: $, yen_
+_Context: US$, yen_
 
 ##### Japan
 ### [Japan's Nikkei 225 improves by six per cent as concerns over the 2011 Tohoku earthquake and tsunami on the economy are reduced. ](/news/2011/03/16/japan-s-nikkei-225-improves-by-six-per-cent-as-concerns-over-the-2011-tahoku-earthquake-and-tsunami-on-the-economy-are-reduced.md)

@@ -19,7 +19,7 @@ _Context: Maori King, New Zealand, Te Atairangikaahu, Tuheitia Paki_
 ### [ A bomb goes off in a Moscow market, killing 10 and wounding about 40. Authorities are not ruling out terrorism. It appears to have been intentional. ](/news/2006/08/21/a-bomb-goes-off-in-a-moscow-market-killing-10-and-wounding-about-40-authorities-are-not-ruling-out-terrorism-it-appears-to-have-been-int.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-##### U.S.
+##### United States
 ### [ U.S. university Virginia Tech closed campus and canceled classes today, the first day of classes, during the search for a man who was suspected of murdering a hospital security guard and a police officer. The suspect, William Morva, is in custody. ](/news/2006/08/21/u-s-university-virginia-tech-closed-campus-and-canceled-classes-today-the-first-day-of-classes-during-the-search-for-a-man-who-was-suspe.md)
 WTOP brings you the latest news, traffic, and weather information for the Washington, D.C. region. Catch up on the issues and topics important to you today.
 
@@ -29,7 +29,7 @@ _Context: Channel Tunnel, France, UK_
 
 ##### 2006 transatlantic aircraft plot
 ### [ Eleven suspects are charged over the 2006 transatlantic aircraft plot in the United Kingdom as police find bomb-making equipment and martyrdom videos during their inquiries. ](/news/2006/08/21/eleven-suspects-are-charged-over-the-2006-transatlantic-aircraft-plot-in-the-united-kingdom-as-police-find-bomb-making-equipment-and-martyr.md)
-_Context: 2006 transatlantic aircraft plot, United Kingdom, martyrdom video_
+_Context: 2006 transatlantic aircraft plot, UK, martyrdom video_
 
 ##### Kyrgyzstan
 ### [ The government of Kyrgyzstan warns that the Islamic Movement of Uzbekistan, a terrorist group affiliated with al Qaeda, and other militant Islamic groups, are preparing to attack southern cities like Osh. ](/news/2006/08/21/the-government-of-kyrgyzstan-warns-that-the-islamic-movement-of-uzbekistan-a-terrorist-group-affiliated-with-al-qaeda-and-other-militant.md)

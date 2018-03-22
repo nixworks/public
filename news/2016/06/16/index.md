@@ -5,7 +5,7 @@ Formats: [HTML](2016/06/16/index.html)  [JSON](2016/06/16/index.json)  [XML](201
 
 ##### Philadelphia
 ### [The Philadelphia, Pennsylvania, City Council approves a 1.5-cent-per-ounce tax on sugar-sweetened and diet beverages, effective January 1, 2017. This is the first so-called sugary drinks tax in a major U.S. city. ](/news/2016/06/16/the-philadelphia-pennsylvania-city-council-approves-a-1-5-cent-per-ounce-tax-on-sugar-sweetened-and-diet-beverages-effective-january-1-2.md)
-_Context: City Council, Pennsylvania, Philadelphia, U.S., sugar-sweetened and diet beverages, sugary drinks tax_
+_Context: City Council, Pennsylvania, Philadelphia, United States, sugar-sweetened and diet beverages, sugary drinks tax_
 
 ##### Senator Murphy gun control filibuster
 ### [ Connecticut Senator Chris Murphy ends a nearly 15-hour filibuster after Republican Party leaders reportedly agree to allow votes on two proposed gun control measures. ](/news/2016/06/16/connecticut-senator-chris-murphy-ends-a-nearly-15-hour-filibuster-after-republican-party-leaders-reportedly-agree-to-allow-votes-on-two-pro.md)
@@ -43,7 +43,7 @@ Switzerland&amp;#39;s Parliament votes to officially withdraw long-dormant appli
 ### [France deports twenty Russian football fans including Alexander Shprygin, the leader of the All-Russia Supporters Union, following violence at the England-Russia match in Marseille. ](/news/2016/06/16/france-deports-twenty-russian-football-fans-including-alexander-shprygin-the-leader-of-the-all-russia-supporters-union-following-violence.md)
 _Context: England, France, Marseille, Russia, Russian, Violence at UEFA Euro 2016_
 
-##### China
+##### Chinese
 ### [China cancels an invitation to a Taiwanese children's choir after it performed the island's national anthem at last month's inauguration of President Tsai Ing-wen; the Puzangalan Choir consisting of children from the Paiwan aboriginal tribe had been due to take part in a choral festival in Guangdong province in July. ](/news/2016/06/16/china-cancels-an-invitation-to-a-taiwanese-children-s-choir-after-it-performed-the-island-s-national-anthem-at-last-month-s-inauguration-of.md)
 Organizers of an event in Guangdong Province canceled the invitation to the Puzangalan Choir after a performance at the presidential inauguration in Taiwan in May.
 

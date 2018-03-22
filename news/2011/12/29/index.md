@@ -43,7 +43,7 @@ _Context: Caracas, Pan American Highway, Venezuela_
 ### [At least 15 people are killed and dozens injured in an explosion in the Burmese city of Rangoon. ](/news/2011/12/29/at-least-15-people-are-killed-and-dozens-injured-in-an-explosion-in-the-burmese-city-of-rangoon.md)
 At least 17 people are killed and more than 90 injured by a large explosion at warehouses in the Burmese city of Rangoon.
 
-##### U.S.
+##### United States
 ### [The United States sells 84 F-15 fighter jets to Saudi Arabia.](/news/2011/12/29/the-united-states-sells-84-f-15-fighter-jets-to-saudi-arabia.md)
 The United States has signed a $29.4 billion deal to sell 84 new F-15 fighter jets to Saudi Arabia in a long-expected move that the Obama administration said on Thursday would boost Gulf security amid mounting tension with Iran.
 
@@ -59,9 +59,9 @@ _Context: 2011 Egyptian revolution, non-governmental organisations_
 ### [Turkish warplanes launch airstrikes aimed at Kurdish militants, accidentally killing 35 smugglers that were suspected as guerillas. ](/news/2011/12/29/turkish-warplanes-launch-airstrikes-aimed-at-kurdish-militants-accidentally-killing-35-smugglers-that-were-suspected-as-guerillas.md)
 _Context: Kurdish, Turkish_
 
-##### China
+##### Chinese
 ### [Seven kidnappers are killed and two hostages rescued in a police raid in China's Xinjiang Province, according to state media. One police officer was also reportedly killed. ](/news/2011/12/29/seven-kidnappers-are-killed-and-two-hostages-rescued-in-a-police-raid-in-china-s-xinjiang-province-according-to-state-media-one-police-off.md)
-_Context: China, Xinjiang Province_
+_Context: Chinese, Xinjiang Province_
 
 ##### 2011 Syrian uprising
 ### [2011 Syrian uprising: At least 10 people are killed in clashes in the city of Homs as Arab League monitors continue their inspection of Syria's conflict zones. ](/news/2011/12/29/2011-syrian-uprising-at-least-10-people-are-killed-in-clashes-in-the-city-of-homs-as-arab-league-monitors-continue-their-inspection-of-syri.md)

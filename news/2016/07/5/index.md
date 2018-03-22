@@ -5,7 +5,7 @@ Formats: [HTML](2016/07/5/index.html)  [JSON](2016/07/5/index.json)  [XML](2016/
 
 ##### Computer security
 ### [Cybersecurity software maker Check Point reports "HummingBad" malware has infected at least 10 million Android devices, mostly in China and India. Check Point says a team of developers based in Beijing is behind "HummingBad" which gives hackers administrative-level access to infected devices. Apple devices have been hit by similar malware. ](/news/2016/07/5/cybersecurity-software-maker-check-point-reports-hummingbad-malware-has-infected-at-least-10-million-android-devices-mostly-in-china-and.md)
-_Context: Android, Apple Inc., Beijing, Check Point, China, Computer security, HummingBad, India, malware_
+_Context: Android, Apple Inc., Beijing, Check Point, Chinese, Computer security, HummingBad, India, malware_
 
 ##### NASA
 ### [NASA's "Juno" spacecraft reaches Jupiter and enters into its orbit after a five-year flight. ](/news/2016/07/5/nasa-s-juno-spacecraft-reaches-jupiter-and-enters-into-its-orbit-after-a-five-year-flight.md)
@@ -41,7 +41,7 @@ Seven people were killed and eight injured when a helicopter carrying Turkish mi
 
 ##### Against
 ### [The Central Bank of Russia announces it will start buying the Chinese yuan in an attempt to diversify its foreign-currency reserves away from the Euro and the U.S. dollar and to become less vulnerable to Western sanctions. ](/news/2016/07/5/the-central-bank-of-russia-announces-it-will-start-buying-the-chinese-yuan-in-an-attempt-to-diversify-its-foreign-currency-reserves-away-fro.md)
-_Context: $, EUR, Russian Central Bank, against, yuan_
+_Context: EUR, Russian Central Bank, US$, against, yuan_
 
 ##### ISIL involvement
 ### [A suicide bomb explosion in Kurdish-controlled Al-Hasakah in northeastern Syria kills at least 16 people, including three children and two women. ISIL claims responsibility. ](/news/2016/07/5/a-suicide-bomb-explosion-in-kurdish-controlled-al-hasakah-in-northeastern-syria-kills-at-least-16-people-including-three-children-and-two-w.md)

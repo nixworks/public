@@ -17,7 +17,7 @@ Israeli forces seized a Palestinian minister and other officials on Thursday in 
 
 ##### United States House of Representatives
 ### [ The United States House of Representatives approves a $US100 billion bill to fund the US war effort in Iraq and Afghanistan without a timetable for the withdrawal of troops from Iraq. ](/news/2007/05/24/the-united-states-house-of-representatives-approves-a-us100-billion-bill-to-fund-the-us-war-effort-in-iraq-and-afghanistan-without-a-timet.md)
-_Context: $, Afghanistan, Iraq, United States House of Representatives_
+_Context: Afghanistan, Iraq, US$, United States House of Representatives_
 
 ## [Previous Day...](/news/2007/05/23/index.md)
 

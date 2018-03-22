@@ -37,7 +37,7 @@ Singapore’s long-governing People’s Action Party (PAP) won an absolute parli
 
 ##### Yomiuri
 ### [The "Yomiuri" reports that Japan and the United States have given up on plans to relocate Marine Corps Air Station Futenma from Okinawa by 2014. ](/news/2011/05/7/the-yomiuri-reports-that-japan-and-the-united-states-have-given-up-on-plans-to-relocate-marine-corps-air-station-futenma-from-okinawa-by-2.md)
-_Context: Japan, Marine Corps Air Station Futenma, Okinawa, U.S., Yomiuri_
+_Context: Japan, Marine Corps Air Station Futenma, Okinawa, United States, Yomiuri_
 
 ##### Russia
 ### [Three Russian human rights activists monitoring trials of opposition activists in Belarus are expelled. ](/news/2011/05/7/three-russian-human-rights-activists-monitoring-trials-of-opposition-activists-in-belarus-are-expelled.md)
@@ -67,7 +67,7 @@ Tunisia&#x27;s&#x20;government&#x20;declared&#x20;an&#x20;overnight&#x20;curfew&
 ### [At least five people are killed and 54 injured in sectarian clashes in the Imbaba area of Cairo. ](/news/2011/05/7/at-least-five-people-are-killed-and-54-injured-in-sectarian-clashes-in-the-imbaba-area-of-cairo.md)
 _Context: Cairo, Imbaba_
 
-##### U.S.
+##### United States
 ### [The United States releases videos of Osama bin Laden captured in last Sunday's raid. ](/news/2011/05/7/the-united-states-releases-videos-of-osama-bin-laden-captured-in-last-sunday-s-raid.md)
 Video footage recorded at Osama bin Laden&#39;s compound in Abbottabad, Pakistan, shows the al-Qaida founder watching himself on TV, The Associated Press reported. 
 

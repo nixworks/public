@@ -5,7 +5,7 @@ Formats: [HTML](2017/03/5/index.html)  [JSON](2017/03/5/index.json)  [XML](2017/
 
 ##### South Korea
 ### [South Korea announces it will be raising its US$217,000 cash reward for classified information from North Korea by defectors to $860,000. ](/news/2017/03/5/south-korea-announces-it-will-be-raising-its-us-217-000-cash-reward-for-classified-information-from-north-korea-by-defectors-to-860-000.md)
-_Context: $, North Korea, South Korea, defects_
+_Context: North Korea, South Korea, US$, defects_
 
 ##### Cannabis in Israel
 ### [Israel changes its law regarding marijuana use. Instead of facing criminal charges, first-time offenders who smoke marijuana in public places will only receive a fine. ](/news/2017/03/5/israel-changes-its-law-regarding-marijuana-use-instead-of-facing-criminal-charges-first-time-offenders-who-smoke-marijuana-in-public-place.md)

@@ -19,9 +19,9 @@ _Context: Australia, Cricket Australia, Pakistan, Pakistan Cricket Board_
 ### [ Admiral William Fallon resigns as Commander of the U.S. Central Command due to reports in "Esquire Magazine" of disagreement with President George W. Bush over the administration's policy with Iran. ](/news/2008/03/11/admiral-william-fallon-resigns-as-commander-of-the-u-s-central-command-due-to-reports-in-esquire-magazine-of-disagreement-with-president.md)
 The top U.S. commander for the Iraq and Afghanistan wars said on Tuesday he would quit after a magazine reported he was pushing President George W. Bush to avoid war with Iran.
 
-##### U.S.
+##### United States
 ### [ The United States House of Representatives fails to override President Bush's veto of a bill outlawing waterboarding and other interrogation techniques. ](/news/2008/03/11/the-united-states-house-of-representatives-fails-to-override-president-bush-s-veto-of-a-bill-outlawing-waterboarding-and-other-interrogatio.md)
-_Context: George W. Bush, U.S., U.S. President, United States House of Representatives, interrogation, veto, veto override, waterboarding_
+_Context: George W. Bush, U.S. President, United States, United States House of Representatives, interrogation, veto, veto override, waterboarding_
 
 ##### 2008
 ### [ United States presidential election, 2008: Illinois Senator Barack Obama wins the Mississippi Democratic primary. ](/news/2008/03/11/united-states-presidential-election-2008-illinois-senator-barack-obama-wins-the-mississippi-democratic-primary.md)

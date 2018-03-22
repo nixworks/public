@@ -21,7 +21,7 @@ _Context: France, Gabon, crashes, helicopter, military_
 
 ##### Taiwan
 ### [ The Republic of China (Taiwan) distributes shopping vouchers to all its 22.7 million citizens as part of a US$2.53-billion plan to stimulate the economy. ](/news/2009/01/18/the-republic-of-china-taiwan-distributes-shopping-vouchers-to-all-its-22-7-million-citizens-as-part-of-a-us-2-53-billion-plan-to-stimulat.md)
-_Context: $, Taiwan, Taiwan, economy, shopping, voucher_
+_Context: Taiwan, Taiwan, US$, economy, shopping, voucher_
 
 ##### Born Again in Christ Church
 ### [ The roof of the Born Again in Christ Church in SGBPo Paulo, Brazil, collapses, killing nine worshippers and injuring more than one hundred others. ](/news/2009/01/18/the-roof-of-the-born-again-in-christ-church-in-sagbpo-paulo-brazil-collapses-killing-nine-worshippers-and-injuring-more-than-one-hundred.md)

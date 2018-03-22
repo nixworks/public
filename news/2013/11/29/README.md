@@ -29,7 +29,7 @@ The Federal Opposition slams the decision to reject the sale of GrainCorp to US 
 ### [Three previously unpublished short stories by J. D. Salinger are leaked online against the late author's wishes. ](/news/2013/11/29/three-previously-unpublished-short-stories-by-j-d-salinger-are-leaked-online-against-the-late-author-s-wishes.md)
 _Context: J. D. Salinger_
 
-##### China
+##### Chinese
 ### [China deploys fighter jets to the Chinese Air Defense Identification Zone, as tensions escalate further over the disputed islands in the East China Sea. ](/news/2013/11/29/china-deploys-fighter-jets-to-the-chinese-air-defense-identification-zone-as-tensions-escalate-further-over-the-disputed-islands-in-the-eas.md)
 Vice President Joe Biden will press Chinese leaders on their intentions in creating a new air-defense zone, as Defense Secretary Chuck Hagel assured Japan of U.S. support and continued military operations in the region.
 

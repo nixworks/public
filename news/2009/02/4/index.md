@@ -41,7 +41,7 @@ _Context: Afghanistan, British Army, Official Secrets Act, casualties, civilian,
 
 ##### High Court
 ### [ The High Court of Justice alleges British resident Benyam Mohammed was tortured and that the US threatened to withdraw intelligence help from the United Kingdom if details were released. ](/news/2009/02/4/the-high-court-of-justice-alleges-british-resident-benyam-mohammed-was-tortured-and-that-the-us-threatened-to-withdraw-intelligence-help-fr.md)
-_Context: Benyam Mohammed, High Court, United Kingdom_
+_Context: Benyam Mohammed, High Court, UK_
 
 ##### Suicide bomber
 ### [ Samira Ahmed Jassim, who allegedly recruited more than 80 suicide bombers, is arrested in Iraq. ](/news/2009/02/4/samira-ahmed-jassim-who-allegedly-recruited-more-than-80-suicide-bombers-is-arrested-in-iraq.md)

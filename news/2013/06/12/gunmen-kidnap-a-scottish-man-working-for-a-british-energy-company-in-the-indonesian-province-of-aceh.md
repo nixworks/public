@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/12/gunmen-kidnap-a-scottish-man-working-for-a-brit
 
 ### [2013-06-12](/news/2013/06/12/index.md)
 
-##### Scotland
+##### Scottish
 # Gunmen kidnap a Scottish man working for a British energy company in the Indonesian province of Aceh. 
 
 Gunmen have kidnapped a British man working for an energy company in the restive Indonesian province of Aceh, officials said today.

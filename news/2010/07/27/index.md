@@ -53,7 +53,7 @@ BP Plc appointed U.S.-born Robert Dudley as chief executive officer and pledged 
 
 ##### Photographic negatives
 ### [Experts verify that photographic negatives bought at a garage sale are early works of the American photographer Ansel Adams. ](/news/2010/07/27/experts-verify-that-photographic-negatives-bought-at-a-garage-sale-are-early-works-of-the-american-photographer-ansel-adams.md)
-_Context: Ansel Adams, U.S., garage sale, photographer, photographic negatives_
+_Context: Ansel Adams, United States, garage sale, photographer, photographic negatives_
 
 ##### Classified information
 ### [The Afghan War Diary claim that Pakistan's Inter-Service Intelligence (ISI) orchestrated the suicide attack on the Indian embassy in Kabul in 2008, which left 40 dead. ](/news/2010/07/27/the-afghan-war-diary-claim-that-pakistan-s-inter-service-intelligence-isi-orchestrated-the-suicide-attack-on-the-indian-embassy-in-kabul-i.md)

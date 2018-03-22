@@ -5,7 +5,7 @@ Formats: [HTML](2008/05/29/index.html)  [JSON](2008/05/29/index.json)  [XML](200
 
 ##### Flash flood
 ### [ Torrential rain causes flash flooding across half of Somerset, United Kingdom. ](/news/2008/05/29/torrential-rain-causes-flash-flooding-across-half-of-somerset-united-kingdom.md)
-_Context: Somerset, United Kingdom, flash flood_
+_Context: Somerset, UK, flash flood_
 
 ##### Iraq
 ### [ Iraq delivers a report on security, reconstruction, and economic progress at the U.N. conference on Iraq in Stockholm. Iraq seeks debt forgiveness and foreign investment to aid with reconstruction. ](/news/2008/05/29/iraq-delivers-a-report-on-security-reconstruction-and-economic-progress-at-the-u-n-conference-on-iraq-in-stockholm-iraq-seeks-debt-forg.md)
@@ -29,7 +29,7 @@ _Context: Iraq, suicide bombing_
 
 ##### U.S. Commerce Department
 ### [ The United States Department of Commerce revises its estimate of economic growth in the United States to 0.9% for the first quarter of 2008. ](/news/2008/05/29/the-united-states-department-of-commerce-revises-its-estimate-of-economic-growth-in-the-united-states-to-0-9-for-the-first-quarter-of-2008.md)
-_Context: U.S., U.S. Commerce Department, economic growth, quarter_
+_Context: U.S. Commerce Department, United States, economic growth, quarter_
 
 ##### Track and field
 ### [ Track and field coach Trevor Graham is convicted of lying to investigators of links to a steroids dealer in the Bay Area Laboratory Co-operative investigation. ](/news/2008/05/29/track-and-field-coach-trevor-graham-is-convicted-of-lying-to-investigators-of-links-to-a-steroids-dealer-in-the-bay-area-laboratory-co-oper.md)
@@ -37,7 +37,7 @@ _Context: Bay Area Laboratory Co-operative, Track and field, Trevor Graham, ster
 
 ##### World Bank
 ### [ The World Bank announces a US$1.2 billion package to fight the global food crisis including $200 million in grants for those most at risk in Third World countries. ](/news/2008/05/29/the-world-bank-announces-a-us-1-2-billion-package-to-fight-the-global-food-crisis-including-200-million-in-grants-for-those-most-at-risk-i.md)
-_Context: $, Global food price crisis, Third World, World Bank, grant_
+_Context: Global food price crisis, Third World, US$, World Bank, grant_
 
 ##### Strong earthquake
 ### [ A strong earthquake measuring 6.1 on the Richter scale strikes Iceland near the town of Selfoss. ](/news/2008/05/29/a-strong-earthquake-measuring-6-1-on-the-richter-scale-strikes-iceland-near-the-town-of-selfoss.md)
@@ -65,7 +65,7 @@ _Context: Aurora, Nebraska, Dave Heineman, Governor, Kearney, Nebraska, Tornadoe
 
 ##### Deadly earthquake
 ### [ 2008 Sichuan earthquake: China begins inspecting the ruins of thousands of schools that collapsed in the Sichuan earthquake, searching for clues about why they crumbled. ](/news/2008/05/29/2008-sichuan-earthquake-china-begins-inspecting-the-ruins-of-thousands-of-schools-that-collapsed-in-the-sichuan-earthquake-searching-for.md)
-_Context: 2008 earthquake, China, deadly earthquake_
+_Context: 2008 earthquake, Chinese, deadly earthquake_
 
 ## [Previous Day...](/news/2008/05/28/index.md)
 

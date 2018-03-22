@@ -55,7 +55,7 @@ The U.S. Federal Reserve kept interest rates unchanged on Thursday in a bow to w
 ### [The Syrian Observatory for Human Rights claims that the government has used barrel bombs resulting in the deaths of 21 people in the rebel held town of Bosra in the Daraa Governorate. ](/news/2015/09/17/the-syrian-observatory-for-human-rights-claims-that-the-government-has-used-barrel-bombs-resulting-in-the-deaths-of-21-people-in-the-rebel-h.md)
 _Context: Bosra, Daraa Governorate, Syrian Civil War, Syrian Observatory for Human Rights, Syrian government, barrel bomb_
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [Houthi militants parade captured Saudi soldiers on pro-Houthi Al Masirah TV. ](/news/2015/09/17/houthi-militants-parade-captured-saudi-soldiers-on-pro-houthi-al-masirah-tv.md)
 Shiite Huthi rebels in Yemen claim to have captured several troops from Saudi Arabia, which is leading a coalition against the insurgents, parading one of the soldiers on television. The Iran-backed rebels&#x27; Al-Masirah television late on Wednesday showed footage of a man dressed in military fati...
 

@@ -11,7 +11,7 @@ _Context: American Jobs Act, United States Senate_
 ### [Amid major riots and a general strike, the Hellenic Parliament approves a highly controversial package of austerity measures aimed at resolving Greece's ongoing debt crisis. The austerity measures include higher taxes and cuts to public sector wages. ](/news/2011/10/20/amid-major-riots-and-a-general-strike-the-hellenic-parliament-approves-a-highly-controversial-package-of-austerity-measures-aimed-at-resolv.md)
 The Greek parliament passes a package of austerity measures despite two days of violent protests, in which one man has died.
 
-##### United Kingdom
+##### UK
 ### [Britain's three main political parties order their MPs to vote against a Parliamentary motion calling for a referendum on the UK's membership of the European Union, due to be debated on Monday. ](/news/2011/10/20/britain-s-three-main-political-parties-order-their-mps-to-vote-against-a-parliamentary-motion-calling-for-a-referendum-on-the-uk-s-membershi.md)
 Members of the three largest UK parties are being told to vote against a motion calling for a referendum to be held on UK membership of the European Union.
 

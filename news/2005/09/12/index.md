@@ -43,7 +43,7 @@ Foreign minister says PA failed first test, as Palestinian mobs raid evacuated G
 ### [ Michael D. Brown resigns as the head of the Federal Emergency Management Agency of the United States (FEMA) following several days of criticism concerning his handling of the disaster following Hurricane Katrina, and allegations that his official biography is misleading and contains unsubstantiated claims. ](/news/2005/09/12/michael-d-brown-resigns-as-the-head-of-the-federal-emergency-management-agency-of-the-united-states-fema-following-several-days-of-criti.md)
 President Bush has tapped a federal official with three decades of firefighting experience and a background in emergency management to be the new face of his administration&#8217;s response to Hurricane Katrina and other natural disasters.
 
-##### Norway
+##### Norwegian
 ### [ In Norway, the Red-Green Coalition led by Jens Stoltenberg wins the 2005 election to the Storting (Legislature). ](/news/2005/09/12/in-norway-the-red-green-coalition-led-by-jens-stoltenberg-wins-the-2005-election-to-the-storting-legislature.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 

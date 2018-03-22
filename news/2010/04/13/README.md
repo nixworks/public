@@ -19,7 +19,7 @@ A mentally ill man went on a stabbing rampage outside a primary school in southe
 
 ##### Australia
 ### [The Australian authorities say a Chinese bulk carrier which ran aground off Queensland has caused widespread damage to the famed Great Barrier Reef. The cleanup is likely to be the biggest operation ever undertaken there. ](/news/2010/04/13/the-australian-authorities-say-a-chinese-bulk-carrier-which-ran-aground-off-queensland-has-caused-widespread-damage-to-the-famed-great-barri.md)
-_Context: Australia, China, Great Barrier Reef, Queensland_
+_Context: Australia, Chinese, Great Barrier Reef, Queensland_
 
 ##### Japan
 ### [Japanese car maker Toyota faces further safety concerns after Consumer Reports issues a recommendation not to buy the Lexus GX 460 four-wheel drive because of fears that the car could roll over. ](/news/2010/04/13/japanese-car-maker-toyota-faces-further-safety-concerns-after-consumer-reports-issues-a-recommendation-not-to-buy-the-lexus-gx-460-four-whee.md)
@@ -35,7 +35,7 @@ _Context: Boeing 737-300, Indonesia, Manokwari, Rendani Airport, overruns the ru
 
 ##### Conservative Party
 ### [Conservative leader David Cameron launches his party's election manifesto, which he says is a "plan to change Britain for the better". He said the "optimistic" plan would bring a "new kind of government" with less state and more "people power". ](/news/2010/04/13/conservative-leader-david-cameron-launches-his-party-s-election-manifesto-which-he-says-is-a-plan-to-change-britain-for-the-better-he-sa.md)
-_Context: 2010 general election, Conservative Party, David Cameron, United Kingdom_
+_Context: 2010 general election, Conservative Party, David Cameron, UK_
 
 ##### Pakistan
 ### [At least 73 civilians were killed when an army jet bombed a remote village in Pakistan's tribal region of Khyber, a local official has told the BBC. ](/news/2010/04/13/at-least-73-civilians-were-killed-when-an-army-jet-bombed-a-remote-village-in-pakistan-s-tribal-region-of-khyber-a-local-official-has-told.md)
@@ -79,11 +79,11 @@ _Context: New Dehli, cobalt-60, radiation sickness_
 
 ##### Qinghai
 ### [A magnitude 6.9 earthquake strikes southeastern Qinghai, China, near the Yangtze River. There were no immediate reports of casualties. ](/news/2010/04/13/a-magnitude-6-9-earthquake-strikes-southeastern-qinghai-china-near-the-yangtze-river-there-were-no-immediate-reports-of-casualties.md)
-_Context: China, Qinghai, Yangtze River_
+_Context: Chinese, Qinghai, Yangtze River_
 
 ##### U.S. President
 ### [President of the United States Barack Obama opening the biggest international meeting hosted by the US since 1945, greets leaders from nearly 50 countries. World leaders at the summit hear dire warnings of the danger of nuclear material falling into the wrong hands. ](/news/2010/04/13/president-of-the-united-states-barack-obama-opening-the-biggest-international-meeting-hosted-by-the-us-since-1945-greets-leaders-from-nearl.md)
-_Context: Barack Obama, U.S., U.S. President_
+_Context: Barack Obama, U.S. President, United States_
 
 ## [Previous Day...](/news/2010/04/12/index.md)
 

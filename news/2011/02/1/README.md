@@ -31,9 +31,9 @@ _Context: Palestinian, Suriname, officially recognises_
 ### [North and South Korea agree to hold working-level military talks on 8 February, their first since the attack on Yeonpyeong Island in November last year. ](/news/2011/02/1/north-and-south-korea-agree-to-hold-working-level-military-talks-on-8-february-their-first-since-the-attack-on-yeonpyeong-island-in-novembe.md)
 _Context: North Korea, South Korea, Yeonpyeong Island, attack_
 
-##### U.S.
+##### United States
 ### [The United States urges Iran to halt executions after the hanging of a Dutch-Iranian woman, Zahra Bahrami, accused of being drug smuggler; the U.S. State Department expresses concern that Iran "continues to deny its citizens their human rights" and that cases, trials, and sentences continue to proceed "without transparency and the due process rights enshrined in Iran's own constitution." ](/news/2011/02/1/the-united-states-urges-iran-to-halt-executions-after-the-hanging-of-a-dutch-iranian-woman-zahra-bahrami-accused-of-being-drug-smuggler-t.md)
-_Context: Capital punishment in Iran, Iranian human rights, U.S., Zahra Bahrami, constitution_
+_Context: Capital punishment in Iran, Iranian human rights, United States, Zahra Bahrami, constitution_
 
 ##### Shanghai Cooperation Organization
 ### [Shanghai Cooperation Organization to mark 10th anniversary in Astana, Kazakhstan. ](/news/2011/02/1/shanghai-cooperation-organization-to-mark-10th-anniversary-in-astana-kazakhstan.md)

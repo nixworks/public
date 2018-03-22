@@ -29,7 +29,7 @@ Newark Liberty International Airport in New Jersey reopened late on Tuesday afte
 
 ##### Indian Air Force
 ### [An Indian Air Force Sukhoi Su-30 goes missing near the border with China and is presumed to have crashed along with its two pilots. ](/news/2017/05/23/an-indian-air-force-sukhoi-su-30-goes-missing-near-the-border-with-china-and-is-presumed-to-have-crashed-along-with-its-two-pilots.md)
-_Context: China, Indian Air Force, Sukhoi Su-30_
+_Context: Chinese, Indian Air Force, Sukhoi Su-30_
 
 ##### Apple Inc.
 ### [Apple Inc. and Nokia agree to increase their partnership after settling a patent dispute. ](/news/2017/05/23/apple-inc-and-nokia-agree-to-increase-their-partnership-after-settling-a-patent-dispute.md)

@@ -11,9 +11,9 @@ The lightest exoplanet yet discovered &#8212; only about twice the mass of Earth
 ### [ Twenty-four people are killed during combat between the Mungiki criminal organization and citizens of Karatina in Kenya. ](/news/2009/04/21/twenty-four-people-are-killed-during-combat-between-the-mungiki-criminal-organization-and-citizens-of-karatina-in-kenya.md)
 _Context: Karatina, Kenya, Mungiki, citizen, killed, mafia_
 
-##### United Kingdom
+##### UK
 ### [ The United Kingdom's Retail Prices Index records negative inflation for the first time since 1960. ](/news/2009/04/21/the-united-kingdom-s-retail-prices-index-records-negative-inflation-for-the-first-time-since-1960.md)
-_Context: Retail Prices Index, United Kingdom, inflation_
+_Context: Retail Prices Index, UK, inflation_
 
 ##### The Wall Street Journal
 ### [ "The Wall Street Journal" reports that cyber-spies have hacked the U.S. Joint Strike Fighter Program. ](/news/2009/04/21/the-wall-street-journal-reports-that-cyber-spies-have-hacked-the-u-s-joint-strike-fighter-program.md)
@@ -25,7 +25,7 @@ _Context: France, Paris, UNESCO, World Digital Library_
 
 ##### Maritime forces
 ### [ Twelve navies from the Americas begin annual UNITAS Gold exercises near Florida, United States. ](/news/2009/04/21/twelve-navies-from-the-americas-begin-annual-unitas-gold-exercises-near-florida-united-states.md)
-_Context: Americas, Florida, U.S., UNITAS Gold, drill, maritime forces_
+_Context: Americas, Florida, UNITAS Gold, United States, drill, maritime forces_
 
 ##### Yahoo!
 ### [ Yahoo! will cut between 600 and 700 jobs. ](/news/2009/04/21/yahoo-will-cut-between-600-and-700-jobs.md)

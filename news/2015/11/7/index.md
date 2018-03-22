@@ -5,7 +5,7 @@ Formats: [HTML](2015/11/7/index.html)  [JSON](2015/11/7/index.json)  [XML](2015/
 
 ##### Myanmar general election, 2015
 ### [Myanmar president Thein Sein says his government and the military, which gave up power only five years ago, will respect the results of Sunday's historic elections that are expected to be won by opposition leader Aung San Suu Kyi's NLD party. ](/news/2015/11/7/myanmar-president-thein-sein-says-his-government-and-the-military-which-gave-up-power-only-five-years-ago-will-respect-the-results-of-sund.md)
-_Context: Aung San Suu Kyi, Myanmar general election, 2015, Myanmar's president's office, National League for Democracy, Thein Sein, security forces_
+_Context: Aung San Suu Kyi, Myanmar President, Myanmar general election, 2015, National League for Democracy, Thein Sein, security forces_
 
 ##### Portuguese legislative election, 2015
 ### [ Three leftist parties announce their ability to form a government, making it likely that Pedro Passos Coelho will no longer be Prime Minister. ](/news/2015/11/7/three-leftist-parties-announce-their-ability-to-form-a-government-making-it-likely-that-pedro-passos-coelho-will-no-longer-be-prime-minist.md)

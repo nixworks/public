@@ -9,7 +9,7 @@ _Context: Commonwealth Bank Series, cricketer_
 
 ##### American
 ### [ United States Assistant Secretary of State for European and Eurasian Affairs Dan Fried estimates that Kosovo will need about $2 billion in foreign aid to become economically viable, and says that the United States will participate in a major donors' conference on Kosovo in June. ](/news/2008/03/4/united-states-assistant-secretary-of-state-for-european-and-eurasian-affairs-dan-fried-estimates-that-kosovo-will-need-about-2-billion-in.md)
-_Context: $, American, Assistant Secretary of State for European and Eurasian Affairs, Dan Fried, Kosovo_
+_Context: American, Assistant Secretary of State for European and Eurasian Affairs, Dan Fried, Kosovo, US$_
 
 ##### Pakistan
 ### [ At least four people are killed and 14 injured in a suicide bombing at a naval college in the Pakistani city of Lahore. ](/news/2008/03/4/at-least-four-people-are-killed-and-14-injured-in-a-suicide-bombing-at-a-naval-college-in-the-pakistani-city-of-lahore.md)

@@ -23,7 +23,7 @@ _Context: Government of India, India, Kashmir, Srinagar, becomes, locks down, pr
 ### [ The United States suffers its first death. ](/news/2009/04/29/the-united-states-suffers-its-first-death.md)
 _Context: United States_
 
-##### U.S.
+##### United States
 ### [ The United States economy contracts by 6.1% in the first fiscal quarter of 2009. ](/news/2009/04/29/the-united-states-economy-contracts-by-6-1-in-the-first-fiscal-quarter-of-2009.md)
 The government reported gross domestic product shrank at a 6.1 percent yearly rate, but the numbers suggested that the worst of the recession may be easing.
 

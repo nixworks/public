@@ -41,7 +41,7 @@ _Context: Goldman Sachs, blows the whistle_
 
 ##### Kindle
 ### [A Kindle user from Norway has her account wiped and all her paid-for books deleted by the American multinational electronic commerce company Amazon.com. ](/news/2012/10/22/a-kindle-user-from-norway-has-her-account-wiped-and-all-her-paid-for-books-deleted-by-the-american-multinational-electronic-commerce-company.md)
-_Context: Amazon.com, Kindle, Norway_
+_Context: Amazon.com, Kindle, Norwegian_
 
 ##### South Africa
 ### [Police authorities in South Africa admit the shooting of 34 miners by police "may have been disproportionate" to the danger faced by those in charge. ](/news/2012/10/22/police-authorities-in-south-africa-admit-the-shooting-of-34-miners-by-police-may-have-been-disproportionate-to-the-danger-faced-by-those-i.md)

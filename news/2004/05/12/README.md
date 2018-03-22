@@ -13,7 +13,7 @@ _Context: Campeche, Mexican military helicopter, UFO, UNAM, infrared_
 
 ##### Department of Energy
 ### [ The United States Department of Energy announces plans to build the world's fastest supercomputer, capable of a sustained performance of 50 trillion calculations per second (compared to 36.5 trillion for Japan's Earth Simulator and less than 8 trillion for the US's ASCI White). The computer, to be federally funded to the tune of USD 50 million, will be built at the Oak Ridge National Laboratory. ](/news/2004/05/12/the-united-states-department-of-energy-announces-plans-to-build-the-world-s-fastest-supercomputer-capable-of-a-sustained-performance-of-50.md)
-_Context: $, ASCI White, Department of Energy, Earth Simulator, Oak Ridge National Laboratory, calculations per second, supercomputer, trillion_
+_Context: ASCI White, Department of Energy, Earth Simulator, Oak Ridge National Laboratory, US$, calculations per second, supercomputer, trillion_
 
 ## [Previous Day...](/news/2004/05/11/index.md)
 

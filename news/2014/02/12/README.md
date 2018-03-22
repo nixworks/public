@@ -11,9 +11,9 @@ _Context: Venezuela_
 ### [The BBC is told that the UK's three main political parties, the Conservatives, Labour and the Liberal Democrats, will declare that whoever forms the government after the next general election will not agree to a currency union with an independent Scotland. ](/news/2014/02/12/the-bbc-is-told-that-the-uk-s-three-main-political-parties-the-conservatives-labour-and-the-liberal-democrats-will-declare-that-whoever-f.md)
 The three main Westminster parties are to declare that whoever forms the next UK government will not enter a currency union with an independent Scotland.
 
-##### $
+##### US$
 ### [The Philippines recovers US $29 million from Ferdinand Marcos' bank accounts in Switzerland and Singapore. ](/news/2014/02/12/the-philippines-recovers-us-29-million-from-ferdinand-marcos-bank-accounts-in-switzerland-and-singapore.md)
-_Context: $, Ferdinand Marcos, Singapore, Swiss_
+_Context: Ferdinand Marcos, Singapore, Swiss, US$_
 
 ##### Garbage
 ### [Garbage from Canada is discovered to be being dumped in the Philippines. ](/news/2014/02/12/garbage-from-canada-is-discovered-to-be-being-dumped-in-the-philippines.md)

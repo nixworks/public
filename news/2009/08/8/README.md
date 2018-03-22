@@ -9,7 +9,7 @@ _Context: France, Mauritanian, Nouakchott, detonates a bomb, suicide bomber_
 
 ##### Collide
 ### [ A small plane and a tour helicopter collide over the Hudson River in the United States. ](/news/2009/08/8/a-small-plane-and-a-tour-helicopter-collide-over-the-hudson-river-in-the-united-states.md)
-_Context: Hudson River, U.S., collide_
+_Context: Hudson River, United States, collide_
 
 ##### Local elections
 ### [ Local government elections take place in northern Sri Lanka, the first elections since the end of the civil war. ](/news/2009/08/8/local-government-elections-take-place-in-northern-sri-lanka-the-first-elections-since-the-end-of-the-civil-war.md)

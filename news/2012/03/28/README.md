@@ -3,9 +3,9 @@ Formats: [HTML](2012/03/28/index.html)  [JSON](2012/03/28/index.json)  [XML](201
 
 ## [2012-03-28](/news/2012/03/28/index.md)
 
-##### China
+##### Chinese
 ### [Detained Chinese rights lawyer Gao Zhisheng is allowed a visit from family, for the first time in two years. ](/news/2012/03/28/detained-chinese-rights-lawyer-gao-zhisheng-is-allowed-a-visit-from-family-for-the-first-time-in-two-years.md)
-_Context: China, Gao Zhisheng_
+_Context: Chinese, Gao Zhisheng_
 
 ##### Annastacia Palaszczuk
 ### [Annastacia Palaszczuk becomes the Opposition Leader of the Queensland Australian Labor Party, following the party's landslide defeat in last Saturday's election. ](/news/2012/03/28/annastacia-palaszczuk-becomes-the-opposition-leader-of-the-queensland-australian-labor-party-following-the-party-s-landslide-defeat-in-last.md)
@@ -15,9 +15,9 @@ Second generation Labor MP and new party leader Annastacia Palaszczuk has set he
 ### [2012 Malian coup d'etat: Coup leaders in Mali unveil a new constitution. ](/news/2012/03/28/2012-malian-coup-d-a-c-tat-coup-leaders-in-mali-unveil-a-new-constitution.md)
 African delegation set to arrive to press for restoration of democracy, as thousands march in support of mutineers.
 
-##### U.S.
+##### United States
 ### [The United States suspends planned food aid to North Korea, after the latter plans to launch a rocket next month. ](/news/2012/03/28/the-united-states-suspends-planned-food-aid-to-north-korea-after-the-latter-plans-to-launch-a-rocket-next-month.md)
-_Context: North Korea, U.S._
+_Context: North Korea, United States_
 
 ##### Mega Millions
 ### [The Mega Millions jackpot in the United States hits a record $500 million dollars, a world record in lottery history. ](/news/2012/03/28/the-mega-millions-jackpot-in-the-united-states-hits-a-record-500-million-dollars-a-world-record-in-lottery-history.md)

@@ -19,17 +19,17 @@ _Context: India, Telecommunications Minister, anti-corruption_
 ### [ A Syrian arms dealer is jailed for 30 years for conspiring to sell weapons to Colombia's Revolutionary Armed Forces. ](/news/2009/02/25/a-syrian-arms-dealer-is-jailed-for-30-years-for-conspiring-to-sell-weapons-to-colombia-s-revolutionary-armed-forces.md)
 _Context: Colombia, Revolutionary Armed Forces of Colombia, Syria, conspiracy, defense contractor, weapon_
 
-##### U.S.
+##### United States
 ### [ The U.S. arrests 750 people in a national crackdown on Mexican drug cartels. ](/news/2009/02/25/the-u-s-arrests-750-people-in-a-national-crackdown-on-mexican-drug-cartels.md)
-_Context: Mexico, U.S., drug cartel_
+_Context: Mexico, United States, drug cartel_
 
 ##### Islamists
 ### [ Islamist terrorist group Al-Shabaab seizes Hudur, Somalia. ](/news/2009/02/25/islamist-terrorist-group-al-shabaab-seizes-hudur-somalia.md)
 _Context: Al-Shabaab, Islamists, Somali Civil War, Somalia, terrorist_
 
-##### U.S.
+##### United States
 ### [ The U.S. State Department criticizes China's human rights record. ](/news/2009/02/25/the-u-s-state-department-criticizes-china-s-human-rights-record.md)
-_Context: China, Chinese human rights, State Department, U.S._
+_Context: China, Chinese human rights, State Department, United States_
 
 ##### Japan
 ### [ Japan's exports plunged 45.7% in January 2009. ](/news/2009/02/25/japan-s-exports-plunged-45-7-in-january-2009.md)
@@ -77,11 +77,11 @@ _Context: Beijing, China, Tiananmen Square, sets herself alight_
 
 ##### Improvised explosive device
 ### [ An improvised explosive device kills three British Army soldiers in the Gerishk District of Afghanistan's Helmand Province. ](/news/2009/02/25/an-improvised-explosive-device-kills-three-british-army-soldiers-in-the-gerishk-district-of-afghanistan-s-helmand-province.md)
-_Context: Afghanistan, British Army, Gerishk District, Helmand Province, United Kingdom, improvised explosive device_
+_Context: Afghanistan, British Army, Gerishk District, Helmand Province, UK, improvised explosive device_
 
-##### U.S.
+##### United States
 ### [ United States President Barack Obama nominates former Washington Governor Gary Locke to serve as the next Secretary of Commerce. ](/news/2009/02/25/united-states-president-barack-obama-nominates-former-washington-governor-gary-locke-to-serve-as-the-next-secretary-of-commerce.md)
-_Context: Barack Obama, Gary Locke, Governor, U.S., U.S. President, United States Secretary of Commerce, Washington_
+_Context: Barack Obama, Gary Locke, Governor, U.S. President, United States, United States Secretary of Commerce, Washington_
 
 ##### United Nations
 ### [ The United Nations' Office for the Coordination of Humanitarian Affairs estimates that 15,000 refugees have fled from southern Darfur to the Zam Zam refugee camp in the north. ](/news/2009/02/25/the-united-nations-office-for-the-coordination-of-humanitarian-affairs-estimates-that-15-000-refugees-have-fled-from-southern-darfur-to-th.md)

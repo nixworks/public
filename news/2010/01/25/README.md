@@ -33,9 +33,9 @@ _Context: Perth, Qantas_
 ### [Ethiopian Airlines Flight 409, with 85 passengers on board, crashes into the Mediterranean Sea after taking off from Beirut Airport, Lebanon. ](/news/2010/01/25/ethiopian-airlines-flight-409-with-85-passengers-on-board-crashes-into-the-mediterranean-sea-after-taking-off-from-beirut-airport-lebanon.md)
 Aircraft carrying 90 people plunges into Mediterranean Sea.
 
-##### U.S.
+##### United States
 ### [The United States will reportedly "reconsider" Algeria's placement on its terror watch list, which requires Algerian citizens to undergo extra security screening. ](/news/2010/01/25/the-united-states-will-reportedly-reconsider-algeria-s-placement-on-its-terror-watch-list-which-requires-algerian-citizens-to-undergo-ext.md)
-_Context: Algeria, U.S._
+_Context: Algeria, United States_
 
 ##### Burma
 ### [Burma's Home Minister General Maung Oo says Aung San Suu Kyi will be released by November this year. ](/news/2010/01/25/burma-s-home-minister-general-maung-oo-says-aung-san-suu-kyi-will-be-released-by-november-this-year.md)
@@ -69,7 +69,7 @@ _Context: 2010 general election, Saint Kitts and Nevis_
 ### [Representatives of the Dalai Lama head to Beijing for the first discussions with Chinese authorities in 15 months. ](/news/2010/01/25/representatives-of-the-dalai-lama-head-to-beijing-for-the-first-discussions-with-chinese-authorities-in-15-months.md)
 _Context: 14th Dalai Lama, Beijing, China_
 
-##### Houthi
+##### Houthis
 ### [Houthi fighters in northern Yemen offer to leave Saudi Arabia after three months of fighting on the border. ](/news/2010/01/25/houthi-fighters-in-northern-yemen-offer-to-leave-saudi-arabia-after-three-months-of-fighting-on-the-border.md)
 Houthi fighters offer a ceasefire after three months of fighting along the border.
 

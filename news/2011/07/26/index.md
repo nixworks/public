@@ -37,7 +37,7 @@ _Context: Omar Toure, Senegal_
 
 ##### North Korea
 ### [Senior North Korean diplomat Kim Kye Gwan heads to the United States for discussions on reopening the six party talks on his country's nuclear weapons program. ](/news/2011/07/26/senior-north-korean-diplomat-kim-kye-gwan-heads-to-the-united-states-for-discussions-on-reopening-the-six-party-talks-on-his-country-s-nucle.md)
-_Context: Kim Kye Gwan, North Korea, North Korea's nuclear program, U.S., six party talks_
+_Context: Kim Kye Gwan, North Korea, North Korea's nuclear program, United States, six party talks_
 
 ##### Morocco
 ### [A Moroccan military transport plane crashes into a mountain in the south of the country killing 78 of 81 on board. ](/news/2011/07/26/a-moroccan-military-transport-plane-crashes-into-a-mountain-in-the-south-of-the-country-killing-78-of-81-on-board.md)
@@ -55,9 +55,9 @@ _Context: News of the World, Trinity Mirror, phone hacking affair_
 ### [The Reserve Bank of India increases interest rates to 8% in an effort to contain inflation which is currently at 9.44%. ](/news/2011/07/26/the-reserve-bank-of-india-increases-interest-rates-to-8-in-an-effort-to-contain-inflation-which-is-currently-at-9-44.md)
 _Context: Reserve Bank of India, inflation, interest rates_
 
-##### Norway
+##### Norwegian
 ### [Police in Norway begin naming the victims of the 2011 Norway attacks. ](/news/2011/07/26/police-in-norway-begin-naming-the-victims-of-the-2011-norway-attacks.md)
-_Context: 2011 Norway attacks, Norway_
+_Context: 2011 Norway attacks, Norwegian_
 
 ## [Previous Day...](/news/2011/07/25/index.md)
 

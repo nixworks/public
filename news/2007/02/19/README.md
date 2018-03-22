@@ -25,7 +25,7 @@ _Context: East Timor, Indonesia, referendum, truth commission_
 
 ##### Letterbomb
 ### [ A man is arrested over a series of letterbomb attacks that occurred in Britain during the past few weeks. ](/news/2007/02/19/a-man-is-arrested-over-a-series-of-letterbomb-attacks-that-occurred-in-britain-during-the-past-few-weeks.md)
-_Context: United Kingdom, letterbomb_
+_Context: UK, letterbomb_
 
 ##### Colombia
 ### [ Also in Colombia the Nevado del Huila, the country's highest volcano, has showed increasing seismic activity including a cloud of ash. A high state of alert is in place for 4 departments. ](/news/2007/02/19/also-in-colombia-the-nevado-del-huila-the-country-s-highest-volcano-has-showed-increasing-seismic-activity-including-a-cloud-of-ash-a-hi.md)

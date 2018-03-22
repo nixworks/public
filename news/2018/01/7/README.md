@@ -5,7 +5,7 @@ Formats: [HTML](2018/01/7/index.html)  [JSON](2018/01/7/index.json)  [XML](2018/
 
 ##### Weinstein effect
 ### [Trond Giske announces his permanent resignation as deputy leader of Norway's Labour Party after several sexual assault accusations. He also gives up his position in the Norwegian parliament's finance committee. ](/news/2018/01/7/trond-giske-announces-his-permanent-resignation-as-deputy-leader-of-norway-s-labour-party-after-several-sexual-assault-accusations-he-also.md)
-_Context: Labour Party, Norway, Norwegian parliament, Trond Giske, Weinstein effect, finance committee_
+_Context: Labour Party, Norwegian, Norwegian parliament, Trond Giske, Weinstein effect, finance committee_
 
 ##### Politics of Yemen
 ### [Sadeq Ameen Abu Rass, not Saleh's son Ahmed, is named as the successor to late Ali Abdullah Saleh as leader of the General People's Congress party. ](/news/2018/01/7/sadeq-ameen-abu-rass-not-saleh-s-son-ahmed-is-named-as-the-successor-to-late-ali-abdullah-saleh-as-leader-of-the-general-peopleas-congre.md)

@@ -21,7 +21,7 @@ French court clears former International Monetary Fund chief of ‘aggravated pi
 
 ##### Associated Press
 ### [The Associated Press reports that hackers linked to the People's Republic of China appear to have gained access to sensitive background material about people seeking security clearances from the United States government. ](/news/2015/06/12/the-associated-press-reports-that-hackers-linked-to-the-people-s-republic-of-china-appear-to-have-gained-access-to-sensitive-background-mate.md)
-_Context: Associated Press, China, United States government, hacker_
+_Context: Associated Press, Chinese, United States government, hacker_
 
 ##### Russian
 ### [Two Russian citizens are arrested for entering a Latvian military base as the Baltic nation was participating in US-led military exercises. ](/news/2015/06/12/two-russian-citizens-are-arrested-for-entering-a-latvian-military-base-as-the-baltic-nation-was-participating-in-us-led-military-exercises.md)
@@ -67,9 +67,9 @@ In light of the UN report to be submitted next week, IDF advocate general opens 
 ### [An armed group storms the Tunisian embassy in Libya taking ten hostages. ](/news/2015/06/12/an-armed-group-storms-the-tunisian-embassy-in-libya-taking-ten-hostages.md)
 _Context: Libya, Libyan Civil War (2014-present), Tunisia_
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [The Saudi-led coalition bombs the World Heritage Listed old quarter of Sana'a destroying three houses and killing five people. ](/news/2015/06/12/the-saudi-led-coalition-bombs-the-world-heritage-listed-old-quarter-of-sana-a-destroying-three-houses-and-killing-five-people.md)
-_Context: Sana'a, Saudi-led intervention in Yemen, World Heritage List_
+_Context: Sana'a, Saudi Arabian-led intervention in Yemen, World Heritage List_
 
 ##### Boko Haram insurgency
 ### [Boko Haram militants raid five different villages around Maiduguri, Nigeria killing 37 people. ](/news/2015/06/12/boko-haram-militants-raid-five-different-villages-around-maiduguri-nigeria-killing-37-people.md)

@@ -67,9 +67,9 @@ _Context: Bermeo, Somali pirates, Spanish_
 ### [ Saudi forces bomb a Houthi rebel stronghold in northern Yemen for a third day. ](/news/2009/11/7/saudi-forces-bomb-a-houthi-rebel-stronghold-in-northern-yemen-for-a-third-day.md)
 _Context: Houthi, Saudi Arabia, Yemen, due to fighting_
 
-##### United Kingdom
+##### UK
 ### [ A British tourist is shot dead by a masked gunman in the U.S. state of Texas. ](/news/2009/11/7/a-british-tourist-is-shot-dead-by-a-masked-gunman-in-the-u-s-state-of-texas.md)
-_Context: Texas, United Kingdom_
+_Context: Texas, UK_
 
 ## [Previous Day...](/news/2009/11/6/index.md)
 

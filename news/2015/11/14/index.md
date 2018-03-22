@@ -3,9 +3,9 @@ Formats: [HTML](2015/11/14/index.html)  [JSON](2015/11/14/index.json)  [XML](201
 
 ## [2015-11-14](/news/2015/11/14/index.md)
 
-##### U.S.
+##### United States
 ### [A team of scientists from the United States and Europe are predicting that declining snowpacks on mountain ranges could lead to Northern Hemisphere water shortages by the year 2060. ](/news/2015/11/14/a-team-of-scientists-from-the-united-states-and-europe-are-predicting-that-declining-snowpacks-on-mountain-ranges-could-lead-to-northern-hem.md)
-_Context: Europe, Northern Hemisphere, U.S., mountain range, snowpack, water shortages_
+_Context: Europe, Northern Hemisphere, United States, mountain range, snowpack, water shortages_
 
 ##### South Korea
 ### [Police in South Korea fire tear gas and water cannons at anti-government protesters in Seoul. Around 70,000 people took part in the protests, the largest in Seoul since the 2008 US beef protest in South Korea. ](/news/2015/11/14/police-in-south-korea-fire-tear-gas-and-water-cannons-at-anti-government-protesters-in-seoul-around-70-000-people-took-part-in-the-protests.md)
@@ -17,7 +17,7 @@ The judge reversed an order issued this week that the 9-month-old girl be remove
 
 ##### China-Indonesia relations
 ### [ Indonesia announces that it is planning to take China to court over the Natuna Islands. ](/news/2015/11/14/indonesia-announces-that-it-is-planning-to-take-china-to-court-over-the-natuna-islands.md)
-_Context: China, China-Indonesia relations, Indonesia, Natuna, tensions in the region_
+_Context: China-Indonesia relations, Chinese, Indonesia, Natuna, tensions in the region_
 
 ##### Light aircraft
 ### [Four people are killed after a light aircraft crashes near the village of Churchstanton in Somerset. ](/news/2015/11/14/four-people-are-killed-after-a-light-aircraft-crashes-near-the-village-of-churchstanton-in-somerset.md)

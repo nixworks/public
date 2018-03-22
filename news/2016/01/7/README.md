@@ -39,7 +39,7 @@ Paris police shoot dead a man carrying a meat cleaver exactly a year after the C
 ### [Tribal chair Charlotte Rodrique of the local Burns Paiute Tribe has joined in asking the occupiers to leave saying "The protesters have no claim to this land". Rodrique further cites a treaty, never ratified by the United States Congress, giving ownership of the land to the tribe. ](/news/2016/01/7/tribal-chair-charlotte-rodrique-of-the-local-burns-paiute-tribe-has-joined-in-asking-the-occupiers-to-leave-saying-the-protesters-have-no-c.md)
 _Context: Burns Paiute Tribe, Congress, Militia occupation of the Malheur National Wildlife Refuge_
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [Iran says last night, Saudi warplanes bombed its embassy in the Yemeni capital, Sana'a, wounding several of its guards. The Associated Press reports there is no visible damage to the building. A Saudi-alliance spokesman promises to investigate the accusations. ](/news/2016/01/7/iran-says-last-night-saudi-warplanes-bombed-its-embassy-in-the-yemeni-capital-sana-a-wounding-several-of-its-guards-the-associated-press.md)
 Iran has accused Saudi Arabia of using warplanes to attack the Iranian embassy in the Yemeni capital Sana&#039;a. Some guards were reportedly wounded in the attack, according to state news channel IRIB. 
 

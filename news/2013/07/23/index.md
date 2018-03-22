@@ -19,9 +19,9 @@ _Context: New York, nuclear power plant_
 ### [The Simon Wiesenthal Center begins a public campaign in Germany to bring to justice the last surviving Nazi war criminals from the Second World War. ](/news/2013/07/23/the-simon-wiesenthal-center-begins-a-public-campaign-in-germany-to-bring-to-justice-the-last-surviving-nazi-war-criminals-from-the-second-wo.md)
 A poster campaign is launched in Germany aimed at tracking down the last surviving Nazi war criminals not yet brought to justice.
 
-##### China
+##### Chinese
 ### [China announces a five-year ban on the construction of new government buildings, as part of a major effort to curtail state corruption and overspending. ](/news/2013/07/23/china-announces-a-five-year-ban-on-the-construction-of-new-government-buildings-as-part-of-a-major-effort-to-curtail-state-corruption-and-o.md)
-_Context: China_
+_Context: Chinese_
 
 ##### British
 ### [Eighteen Britons are arrested on the Greek island of Crete, following the murder of a male tourist and a violent confrontation between tourists and local police. ](/news/2013/07/23/eighteen-britons-are-arrested-on-the-greek-island-of-crete-following-the-murder-of-a-male-tourist-and-a-violent-confrontation-between-touri.md)

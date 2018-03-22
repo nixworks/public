@@ -21,7 +21,7 @@ Disruption to the computer networks of broadcasters and banks in South Korea app
 
 ##### Venezuela
 ### [Venezuela cuts off an informal channel of communication with the United States because of comments by a US State Department official about next month's presidential election. ](/news/2013/03/20/venezuela-cuts-off-an-informal-channel-of-communication-with-the-united-states-because-of-comments-by-a-us-state-department-official-about-n.md)
-_Context: U.S., US State Department, United States-Venezuela relations, Venezuela, communication, informal channel, last month's presidential election_
+_Context: US State Department, United States, United States-Venezuela relations, Venezuela, communication, informal channel, last month's presidential election_
 
 ##### U.S. President
 ### [President of the United States Barack Obama begins a four-day visit to the Middle East, visiting Palestine and Israel. ](/news/2013/03/20/president-of-the-united-states-barack-obama-begins-a-four-day-visit-to-the-middle-east-visiting-palestine-and-israel.md)
@@ -39,7 +39,7 @@ Cypriot leaders are set to decide on a new bailout plan as the US central bank p
 ### [The last surviving member of the 1953 British Mount Everest Expedition George Lowe dies at the age of 89 after a long illness. ](/news/2013/03/20/the-last-surviving-member-of-the-1953-british-mount-everest-expedition-george-lowe-dies-at-the-age-of-89-after-a-long-illness.md)
 _Context: 1953 British Mount Everest Expedition, George Lowe_
 
-##### United Kingdom
+##### UK
 ### [British horror writer James Herbert dies at the age of 69 in Sussex, England. ](/news/2013/03/20/british-horror-writer-james-herbert-dies-at-the-age-of-69-in-sussex-england.md)
 Best-selling author James Herbert who wrote the horror classic The Rats, dies aged 69.
 

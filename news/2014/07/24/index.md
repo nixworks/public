@@ -27,9 +27,9 @@ The European Court of Human Rights ruled that by allowing the transfer of two te
 ### [Three American citizens have been detained in Iran this week including "Washington Post" correspondent Jason Rezaian. Rezaian's Iranian wife Yeganeh Salehi has also been detained. ](/news/2014/07/24/three-american-citizens-have-been-detained-in-iran-this-week-including-washington-post-correspondent-jason-rezaian-rezaian-s-iranian-wife.md)
 Tehran bureau chief Jason Rezaian and three others believed detained;
 
-##### U.S.
+##### United States
 ### [The United States Federal Aviation Administration lifts its ban on aircraft travelling to and from Israel imposed due to concerns about Hamas rockets. ](/news/2014/07/24/the-united-states-federal-aviation-administration-lifts-its-ban-on-aircraft-travelling-to-and-from-israel-imposed-due-to-concerns-about-hama.md)
-_Context: Federal Aviation Administration, Hamas, Israel, U.S._
+_Context: Federal Aviation Administration, Hamas, Israel, United States_
 
 ##### Medak district
 ### [Eighteen people including 16 schoolchildren die after a train collides with a bus in the Medak district of the Indian state of Telangana. ](/news/2014/07/24/eighteen-people-including-16-schoolchildren-die-after-a-train-collides-with-a-bus-in-the-medak-district-of-the-indian-state-of-telangana.md)

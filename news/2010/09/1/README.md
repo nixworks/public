@@ -11,7 +11,7 @@ More than 150 Israeli academics say they will no longer lecture or work in Jewis
 ### [Christopher Myers, a special adviser to UK Foreign Secretary William Hague, resigns due to "untrue and malicious" allegations amid questions surrounding Hague's marriage. ](/news/2010/09/1/christopher-myers-a-special-adviser-to-uk-foreign-secretary-william-hague-resigns-due-to-untrue-and-malicious-allegations-amid-questions.md)
 The Foreign Secretary, William Hague, was forced to issue an extraordinary public statement yesterday denying that he was gay, after his special adviser and long-term friend resigned over &quot;untrue and malicious&quot; rumours about the relationship between the two men.
 
-##### United Kingdom
+##### UK
 ### [Members of the United Kingdom Labour Party start voting in the leadership election with the candidates being Diane Abbott, David Miliband, Ed Miliband, Ed Balls and Andy Burnham. ](/news/2010/09/1/members-of-the-united-kingdom-labour-party-start-voting-in-the-leadership-election-with-the-candidates-being-diane-abbott-david-miliband-e.md)
 Labour Party members begin voting on which one of five candidates will replace Gordon Brown as leader, with the result announced later this month.
 
@@ -43,7 +43,7 @@ A new law comes into force in Greece banning smoking in enclosed public spaces a
 ### [President of the United States Barack Obama meets with a range of Middle East leaders in pursuit of peace between Israel and Palestine, including Prime Minister of Israel Benjamin Netanyahu, President of the Palestinian Authority Mahmoud Abbas, King of Jordan Abdullah II and President of Egypt Hosni Mubarak. ](/news/2010/09/1/president-of-the-united-states-barack-obama-meets-with-a-range-of-middle-east-leaders-in-pursuit-of-peace-between-israel-and-palestine-incl.md)
 _Context: Abdullah II of Jordan, Barack Obama, Benjamin Netanyahu, Hosni Mubarak, Israel, Jordanian King, Mahmoud Abbas, Middle East, Palestinian, President, President of the Palestinian Authority, Prime Minister, U.S. President_
 
-##### U.S.
+##### United States
 ### [The United States adds Tehrik-i-Taliban Pakistan to its list of what it considers "foreign terrorist organizations"; rewards are announced for the capture of its leaders. ](/news/2010/09/1/the-united-states-adds-tehrik-i-taliban-pakistan-to-its-list-of-what-it-considers-foreign-terrorist-organizations-rewards-are-announced-f.md)
 The United States on Wednesday added the Pakistani Taliban to its list of foreign terrorist organizations and set rewards of up to $5 million for information leading to the capture of two of its leaders.
 
@@ -91,13 +91,13 @@ Apple launches a music-based social network called Ping as part of its latest up
 ### [Archaeologists discover 200 year old bottles of beer in a shipwreck south of the autonomous Aland Islands in the Baltic Sea believed to be the world's oldest. ](/news/2010/09/1/archaeologists-discover-200-year-old-bottles-of-beer-in-a-shipwreck-south-of-the-autonomous-aland-islands-in-the-baltic-sea-believed-to-be-t.md)
 _Context: Aland Islands, Archaeologist, Baltic Sea, beer, shipwreck_
 
-##### U.S.
+##### United States
 ### [United States rapper T.I. and his wife singer Tameka Cottle are arrested on Sunset Boulevard in Los Angeles for illegal drug possession. ](/news/2010/09/1/united-states-rapper-t-i-and-his-wife-singer-tameka-cottle-are-arrested-on-sunset-boulevard-in-los-angeles-for-illegal-drug-possession.md)
-_Context: Los Angeles, California, Sunset Boulevard, T.I., Tameka Cottle, U.S., rapper_
+_Context: Los Angeles, California, Sunset Boulevard, T.I., Tameka Cottle, United States, rapper_
 
 ##### Prime Minister
 ### [Former British Prime Minister Tony Blair's autobiography "A Journey" goes on sale in the United Kingdom and becomes a bestseller. ](/news/2010/09/1/former-british-prime-minister-tony-blair-s-autobiography-a-journey-goes-on-sale-in-the-united-kingdom-and-becomes-a-bestseller.md)
-_Context: A Journey, Prime Minister, Tony Blair, United Kingdom, autobiography, bestseller_
+_Context: A Journey, Prime Minister, Tony Blair, UK, autobiography, bestseller_
 
 ##### Hungary
 ### [Hungarian actress Zsa Zsa Gabor is rehospitalised in the United States after becoming unconscious. ](/news/2010/09/1/hungarian-actress-zsa-zsa-gabor-is-rehospitalised-in-the-united-states-after-becoming-unconscious.md)

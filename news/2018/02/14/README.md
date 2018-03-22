@@ -39,7 +39,7 @@ One of the three Gupta brothers linked to embattled President Zuma is reportedly
 ### [A shooting at a high school in Parkland, Florida, leaves 17 people dead (14 of whom were teenagers), and 15 others wounded. The suspect is apprehended and identified as 19-year-old former student Nikolas Crus. This is the deadliest high school shooting in U.S. history. ](/news/2018/02/14/a-shooting-at-a-high-school-in-parkland-florida-leaves-17-people-dead-14-of-whom-were-teenagers-and-15-others-wounded-the-suspect-is-a.md)
 _Context: Florida, Parkland, Florida, School shootings in the United States, Stoneman Douglas High School shooting, U.S. history, high school, school shooting_
 
-##### U.S.
+##### United States
 ### [A car crash at the headquarters of the United States National Security Agency at Fort Meade, Maryland, injures three people. Police officers shoot at the driver, who they say was attempting to attack the building. ](/news/2018/02/14/a-car-crash-at-the-headquarters-of-the-united-states-national-security-agency-at-fort-meade-maryland-injures-three-people-police-officers.md)
 NSA said situation is &quot;under control&quot;
 

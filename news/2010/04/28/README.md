@@ -7,13 +7,13 @@ Formats: [HTML](2010/04/28/index.html)  [JSON](2010/04/28/index.json)  [XML](201
 ### [UK Prime Minister Gordon Brown is described as "mortified" after an open-mic incident during general election campaigning recorded him describing a Rochdale voter as a "bigoted woman". ](/news/2010/04/28/uk-prime-minister-gordon-brown-is-described-as-mortified-after-an-open-mic-incident-during-general-election-campaigning-recorded-him-descr.md)
 _Context: 2010 general election, Gordon Brown, Rochdale, UK Prime Minister, open-mic incident_
 
-##### China
+##### Chinese
 ### [Team China is stripped of a 2000 Olympics bronze medal in women's gymnastics after it is revealed that one member of the team was underage. ](/news/2010/04/28/team-china-is-stripped-of-a-2000-olympics-bronze-medal-in-women-s-gymnastics-after-it-is-revealed-that-one-member-of-the-team-was-underage.md)
 The U.S. will be awarded the bronze medal after a female gymnast was found to be under-age at the 2000 Games.
 
-##### U.S.
+##### United States
 ### [United States Secretary of the Interior Ken Salazar approves Cape Wind, the nation's first off-shore wind farm. ](/news/2010/04/28/united-states-secretary-of-the-interior-ken-salazar-approves-cape-wind-the-nation-s-first-off-shore-wind-farm.md)
-_Context: Cape Wind, Ken Salazar, Secretary of the Interior, U.S., wind farm_
+_Context: Cape Wind, Ken Salazar, Secretary of the Interior, United States, wind farm_
 
 ##### Kenya Airways
 ### [A report blames pilot error for the 2007 crash of Kenya Airways Flight 507 in Cameroon. ](/news/2010/04/28/a-report-blames-pilot-error-for-the-2007-crash-of-kenya-airways-flight-507-in-cameroon.md)
@@ -25,7 +25,7 @@ A Palestinian demonstrator was shot dead and at least four other men died in a t
 
 ##### President
 ### [President of Iran Mahmoud Ahmadinejad has applied for a visa to visit the United States next week for the Non-Proliferation Treaty review conference, and State Department spokesman Philip Crowley has said they will likely be approved, although "a face-to-face meeting between a US diplomat and an Iranian diplomat is highly unlikely" ](/news/2010/04/28/president-of-iran-mahmoud-ahmadinejad-has-applied-for-a-visa-to-visit-the-united-states-next-week-for-the-non-proliferation-treaty-review-co.md)
-_Context: Mahmoud Ahmadinejad, Philip Crowley, President, U.S., visa-free travel_
+_Context: Mahmoud Ahmadinejad, Philip Crowley, President, United States, visa-free travel_
 
 ##### Russia
 ### [Russia posts once classified documents relating to the Katyn massacre online. ](/news/2010/04/28/russia-posts-once-classified-documents-relating-to-the-katyn-massacre-online.md)

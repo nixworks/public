@@ -13,7 +13,7 @@ _Context: Jerusalem, Palestinian_
 
 ##### North Korea
 ### [ U.S. officials say that North Korea is planning to test the Taepodong-2 intercontinental ballistic missile that may be able to reach the United States. ](/news/2006/06/12/u-s-officials-say-that-north-korea-is-planning-to-test-the-taepodong-2-intercontinental-ballistic-missile-that-may-be-able-to-reach-the-un.md)
-_Context: North Korea, Taepodong-2, U.S., intercontinental ballistic missile_
+_Context: North Korea, Taepodong-2, United States, intercontinental ballistic missile_
 
 ##### Albania
 ### [ Albania signs a Stabilisation and Association Agreement, a first step toward joining the European Union. ](/news/2006/06/12/albania-signs-a-stabilisation-and-association-agreement-a-first-step-toward-joining-the-european-union.md)
@@ -21,7 +21,7 @@ _Context: Albania, Association Agreement, European Union, European Union candida
 
 ##### Tropical Storm Alberto
 ### [ Tropical Storm Alberto threatens to hit the Northwest coast of Florida, United States. Hurricane warnings are issued and Gov. Jeb Bush declares a state of emergency. Mandatory evacuations are ordered for low-lying areas. ](/news/2006/06/12/tropical-storm-alberto-threatens-to-hit-the-northwest-coast-of-florida-united-states-hurricane-warnings-are-issued-and-gov-jeb-bush-decl.md)
-_Context: Florida, Jeb Bush, Tropical Storm Alberto, U.S._
+_Context: Florida, Jeb Bush, Tropical Storm Alberto, United States_
 
 ##### Fatah
 ### [ Fatah activists reportedly attack the Palestinian parliament building, setting fire to the fourth floor and riddling the building with gunfire. ](/news/2006/06/12/fatah-activists-reportedly-attack-the-palestinian-parliament-building-setting-fire-to-the-fourth-floor-and-riddling-the-building-with-gunf.md)

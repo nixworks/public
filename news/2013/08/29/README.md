@@ -17,7 +17,7 @@ Police in India say they have arrested Yasin Bhatkal, the alleged leader of the 
 
 ##### Vienna
 ### [Scientists at Vienna's Institute of Molecular Biotechnology and Edinburgh University's Human Genetics Unit in Edinburgh, Scotland, clone a human mini-brain (a cerebral organoid), using stem cells; the first time brain tissue development has been replicated in three dimensions - which could help with schizophrenia and autism neurological research. ](/news/2013/08/29/scientists-at-vienna-s-institute-of-molecular-biotechnology-and-edinburgh-university-s-human-genetics-unit-in-edinburgh-scotland-clone-a-h.md)
-_Context: Edinburgh, Edinburgh University, Scotland, Vienna_
+_Context: Edinburgh, Edinburgh University, Scottish, Vienna_
 
 ##### 
 ### [8.6 million Americans take prescription sleeping pills to catch some sleep, according to the first federal health study to focus on actual use. ](/news/2013/08/29/8-6-million-americans-take-prescription-sleeping-pills-to-catch-some-sleep-according-to-the-first-federal-health-study-to-focus-on-actual-u.md)

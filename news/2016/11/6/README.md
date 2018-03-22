@@ -9,7 +9,7 @@ An FBI investigation finds no evidence of criminality in the latest batch of Hil
 
 ##### Hong Kong
 ### [In Hong Kong, police clash with protesters after more than 10,000 locals march against the Chinese government interpretation of the Basic Law in the Legislative Council oath-taking controversy. ](/news/2016/11/6/in-hong-kong-police-clash-with-protesters-after-more-than-10-000-locals-march-against-the-chinese-government-interpretation-of-the-basic-la.md)
-_Context: Basic Law, China, Hong Kong, oath-taking controversy_
+_Context: Basic Law, Chinese, Hong Kong, oath-taking controversy_
 
 ##### Nicaraguan general election, 2016
 ### [Voters in Nicaragua go to the polls for a general election with polls suggesting that the President of Nicaragua Daniel Ortega will be elected for a third successive term. Ortega's wife Rosario Murillo is running to be the Vice President of Nicaragua.](/news/2016/11/6/voters-in-nicaragua-go-to-the-polls-for-a-general-election-with-polls-suggesting-that-the-president-of-nicaragua-daniel-ortega-will-be-elect.md)

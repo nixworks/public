@@ -47,9 +47,9 @@ _Context: Bujumbura, Burundian Army_
 ### [A suicide attack by the PKK kills two Turkish Army soldiers and injures 24 others in the Turkish town of Dogubeyazit in Agri Province near the Iran border. ](/news/2015/08/2/a-suicide-attack-by-the-pkk-kills-two-turkish-army-soldiers-and-injures-24-others-in-the-turkish-town-of-doaubeyaza-t-in-aara-province-ne.md)
 Two Turkish soldiers are killed and dozens are wounded in a suicide attack near the border with Iran blamed on Kurdish PKK militants.
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [A projectile fired from Yemen into the city of Najran kills a Saudi Arabian citizen. ](/news/2015/08/2/a-projectile-fired-from-yemen-into-the-city-of-najran-kills-a-saudi-arabian-citizen.md)
-_Context: Najran, Saudi Arabia, Saudi-led intervention in Yemen, Yemen_
+_Context: Najran, Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen_
 
 ## [Previous Day...](/news/2015/08/1/index.md)
 

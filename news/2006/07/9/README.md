@@ -33,7 +33,7 @@ _Context: Extra Time, French, Italy, Zinedine Zidane, defending champion, dismis
 
 ##### Son of Beast
 ### [ 25 people are injured on the Son of Beast wooden roller coaster near Cincinnati, Ohio, United States, as it came to a rapid stop. Several rescue units were sent to the scene. ](/news/2006/07/9/25-people-are-injured-on-the-son-of-beast-wooden-roller-coaster-near-cincinnati-ohio-united-states-as-it-came-to-a-rapid-stop-several-r.md)
-_Context: Cincinnati, Ohio, Son of Beast, U.S., roller coaster_
+_Context: Cincinnati, Ohio, Son of Beast, United States, roller coaster_
 
 ## [Previous Day...](/news/2006/07/8/index.md)
 

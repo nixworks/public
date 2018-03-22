@@ -7,17 +7,17 @@ Formats: [HTML](2009/08/14/index.html)  [JSON](2009/08/14/index.json)  [XML](200
 ### [ A University of Glasgow study suggests Asians may view faces differently from others. ](/news/2009/08/14/a-university-of-glasgow-study-suggests-asians-may-view-faces-differently-from-others.md)
 _Context: Asia, University of Glasgow_
 
-##### U.S.
+##### United States
 ### [ United States senator Jim Webb arrives in Burma for talks with General Than Shwe. ](/news/2009/08/14/united-states-senator-jim-webb-arrives-in-burma-for-talks-with-general-than-shwe.md)
-_Context: Burma, Jim Webb, Than Shwe, U.S._
+_Context: Burma, Jim Webb, Than Shwe, United States_
 
 ##### Gaza Strip
 ### [ At least 13 people are killed and at least 85 are injured in a fierce gun battle in Gaza. ](/news/2009/08/14/at-least-13-people-are-killed-and-at-least-85-are-injured-in-a-fierce-gun-battle-in-gaza.md)
 _Context: Gaza Strip_
 
-##### United Kingdom
+##### UK
 ### [ The United Kingdom imposes direct rule on the Turks and Caicos Islands after an inquiry found evidence of government corruption. ](/news/2009/08/14/the-united-kingdom-imposes-direct-rule-on-the-turks-and-caicos-islands-after-an-inquiry-found-evidence-of-government-corruption.md)
-_Context: Turks and Caicos Islands, United Kingdom, direct rule, government_
+_Context: Turks and Caicos Islands, UK, direct rule, government_
 
 ##### Lockerbie bombing
 ### [ Lawyers for the Lockerbie bomber, Abdelbaset al-Megrahi, say he is abandoning his second appeal against his conviction for the December 1988 attack as Scottish officials consider his request to be sent home to Libya. ](/news/2009/08/14/lawyers-for-the-lockerbie-bomber-abdelbaset-al-megrahi-say-he-is-abandoning-his-second-appeal-against-his-conviction-for-the-december-198.md)

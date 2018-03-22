@@ -17,7 +17,7 @@ _Context: CFTC, Mary Schapiro, U.S. Securities and Exchange Commission_
 
 ##### Henry Allingham
 ### [ Henry Allingham, 113, one of the UK's last two World War I veterans, becomes the world's oldest man following the death of Tomoji Tanabe. ](/news/2009/06/19/henry-allingham-113-one-of-the-uk-s-last-two-world-war-i-veterans-becomes-the-world-s-oldest-man-following-the-death-of-tomoji-tanabe.md)
-_Context: First World War, Henry Allingham, Tomoji Tanabe, United Kingdom_
+_Context: First World War, Henry Allingham, Tomoji Tanabe, UK_
 
 ##### Movement for the Emancipation of the Niger Delta
 ### [ The Movement for the Emancipation of the Niger Delta claims to have blown up another oil pipeline in the Niger Delta region of southern Nigeria. ](/news/2009/06/19/the-movement-for-the-emancipation-of-the-niger-delta-claims-to-have-blown-up-another-oil-pipeline-in-the-niger-delta-region-of-southern-nig.md)
@@ -47,7 +47,7 @@ _Context: Allen Stanford, Stanford Financial Group_
 ### [ Ireland's Taoiseach Brian Cowen secures binding concessions in EU talks on the Lisbon Treaty. ](/news/2009/06/19/ireland-s-taoiseach-brian-cowen-secures-binding-concessions-in-eu-talks-on-the-lisbon-treaty.md)
 _Context: Brian Cowen, European Union, Irish, Taoiseach, Treaty of Lisbon_
 
-##### U.S.
+##### United States
 ### [ The U.S. begins deploying missile interceptors and radar to defend Hawaii from a North Korean long-range rocket. ](/news/2009/06/19/the-u-s-begins-deploying-missile-interceptors-and-radar-to-defend-hawaii-from-a-north-korean-long-range-rocket.md)
 The Pentagon said that it planned to &#8220;vigorously enforce&#8221; sanctions on North Korea&#8217;s nuclear program.
 
@@ -57,7 +57,7 @@ _Context: Foroyaa, Halifa Sallah, The Gambia_
 
 ##### Scotland Yard
 ### [ Scotland Yard investigates the expenses of five Labour MPs in Britain. ](/news/2009/06/19/scotland-yard-investigates-the-expenses-of-five-labour-mps-in-britain.md)
-_Context: Scotland Yard, United Kingdom_
+_Context: Scotland Yard, UK_
 
 ##### Swine flu
 ### [ Swine flu is confirmed in Ethiopia and Slovenia. ](/news/2009/06/19/swine-flu-is-confirmed-in-ethiopia-and-slovenia.md)

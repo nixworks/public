@@ -57,7 +57,7 @@ All 22 people aboard a commuter plane were killed when it crashed in southern Ar
 
 ##### Eurasian Economic Community
 ### [The Eurasian Economic Community, led by Russia, offers Belarus a $3 billion bailout package. ](/news/2011/05/19/the-eurasian-economic-community-led-by-russia-offers-belarus-a-3-billion-bailout-package.md)
-_Context: $, Belarus, Eurasian Economic Community, Russia_
+_Context: Belarus, Eurasian Economic Community, Russia, US$_
 
 ##### John Malone
 ### [John Malone's Liberty Media makes a USD $1 billion bid for bookseller Barnes & Noble. ](/news/2011/05/19/john-malone-s-liberty-media-makes-a-usd-1-billion-bid-for-bookseller-barnes-noble.md)
@@ -101,7 +101,7 @@ _Context: Libya, Muammar Gaddafi, state media_
 
 ##### Syria
 ### [Syria condemns the decision by the United States to impose sanctions on President Bashar al-Assad in response to ongoing anti-government protests. ](/news/2011/05/19/syria-condemns-the-decision-by-the-united-states-to-impose-sanctions-on-president-bashar-al-assad-in-response-to-ongoing-anti-government-pro.md)
-_Context: Bashar al-Assad, President, Syria, U.S., protestors_
+_Context: Bashar al-Assad, President, Syria, United States, protestors_
 
 ## [Previous Day...](/news/2011/05/18/index.md)
 

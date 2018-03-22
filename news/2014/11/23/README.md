@@ -19,7 +19,7 @@ The Philippines marks the fifth anniversary of its worst political massacre, as 
 ### [Volcano eruption on Fogo island, Cape Verde is among the strongest ever recorded on the island and is forcing the evacuation of the ChGBP das Caldeiras village. ](/news/2014/11/23/volcano-eruption-on-fogo-island-cape-verde-is-among-the-strongest-ever-recorded-on-the-island-and-is-forcing-the-evacuation-of-the-chagbp-d.md)
 _Context: Cape Verde, ChGBP das Caldeiras, Fogo island, Volcano eruption_
 
-##### China
+##### Chinese
 ### [The death toll from yesterday's earthquake in China's Sichuan province rises to four with 54 injured. ](/news/2014/11/23/the-death-toll-from-yesterday-s-earthquake-in-china-s-sichuan-province-rises-to-four-with-54-injured.md)
 A strong earthquake that hit a sparsely populated, mountainous area of western China killed at least five people and injured 54 others, officials said Sunday. The injured included schoolchildren in a stampede.
 

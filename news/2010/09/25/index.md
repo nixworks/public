@@ -11,7 +11,7 @@ _Context: Uganda Wildlife Authority_
 ### [The Soyuz TMA-18 capsule carrying three members of the International Space Station lands safely in Kazakhstan. ](/news/2010/09/25/the-soyuz-tma-18-capsule-carrying-three-members-of-the-international-space-station-lands-safely-in-kazakhstan.md)
 _Context: International Space Station, Kazakhstan, Soyuz TMA-18_
 
-##### United Kingdom
+##### UK
 ### [In the United Kingdom, the Labour Party elects Ed Miliband over his older brother David in the tightest leadership election in history, with Ed coming out on top in only the 4th round of voting. ](/news/2010/09/25/in-the-united-kingdom-the-labour-party-elects-ed-miliband-over-his-older-brother-david-in-the-tightest-leadership-election-in-history-with.md)
 Ed Miliband beats his brother David by a wafer thin margin to be elected leader of the Labour Party.
 
@@ -27,9 +27,9 @@ The Obama administration on Saturday urged a federal judge to reject a challenge
 ### [Pakistan International Airlines Flight 782 departing from Toronto, Canada, for Karachi, Pakistan, carrying 273 passengers lands at Arlanda Airport in Stockholm, Sweden, due to a bomb threat. A man is taken into custody by the Swedish National Task Force and then released. ](/news/2010/09/25/pakistan-international-airlines-flight-782-departing-from-toronto-canada-for-karachi-pakistan-carrying-273-passengers-lands-at-arlanda-a.md)
 _Context: Arlanda Airport, Canada, Karachi, National Task Force, Pakistan, Pakistan International Airlines, Stockholm, Sweden, Toronto, bomb threat_
 
-##### U.S.
+##### United States
 ### [A U.S. federal court judge denies convicted murderer and rapist Albert Green's request for a stay of execution, clearing the way for California's first execution in five years. ](/news/2010/09/25/a-u-s-federal-court-judge-denies-convicted-murderer-and-rapist-albert-green-s-request-for-a-stay-of-execution-clearing-the-way-for-califor.md)
-_Context: California, U.S., federal court_
+_Context: California, United States, federal court_
 
 ##### China
 ### [The People's Republic of China demands an apology from Japan after a recently detained fishing boat captain returns. Japan's Foreign Ministry rejects the call. ](/news/2010/09/25/the-people-s-republic-of-china-demands-an-apology-from-japan-after-a-recently-detained-fishing-boat-captain-returns-japan-s-foreign-ministr.md)

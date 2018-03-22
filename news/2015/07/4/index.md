@@ -55,7 +55,7 @@ _Context: Egyptian Army, ISIL, Sinai Peninsula, Sinai insurgency_
 ### [ At least ten civilians are killed when three separate car bombs explode simultaneously in the eastern coastal city of Derna. ](/news/2015/07/4/at-least-ten-civilians-are-killed-when-three-separate-car-bombs-explode-simultaneously-in-the-eastern-coastal-city-of-derna.md)
 _Context: Derna, Second Libyan Civil War_
 
-##### Saudi-led intervention in Yemen
+##### Saudi Arabian-led intervention in Yemen
 ### [ Yemen's Houthi rebels shell the Saudi Arabian cities of Jizan and Najran with claims of several Saudi soldiers being killed. ](/news/2015/07/4/yemen-s-houthi-rebels-shell-the-saudi-arabian-cities-of-jizan-and-najran-with-claims-of-several-saudi-soldiers-being-killed.md)
 Yemen&#39;s dominant Houthi group and its army allies said on Saturday it had shelled various areas in Saudi Arabia&#39;s Jizan and Najran, killing and wounding several soldiers.
 

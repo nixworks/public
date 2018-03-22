@@ -3,9 +3,9 @@ Formats: [HTML](2012/06/29/index.html)  [JSON](2012/06/29/index.json)  [XML](201
 
 ## [2012-06-29](/news/2012/06/29/index.md)
 
-##### China
+##### Chinese
 ### [The Chinese Shenzhou 9 space capsule lands safely with all three astronauts aboard. ](/news/2012/06/29/the-chinese-shenzhou-9-space-capsule-lands-safely-with-all-three-astronauts-aboard.md)
-_Context: China, Shenzhou 9_
+_Context: Chinese, Shenzhou 9_
 
 ##### Japan
 ### [Over 15000 Japanese protest against nuclear power. ](/news/2012/06/29/over-15000-japanese-protest-against-nuclear-power.md)

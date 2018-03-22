@@ -17,7 +17,7 @@ Disgraced Barnsley Central MP resigns days before he is due to be sentenced for 
 
 ##### George Osborne
 ### [George Osborne, the United Kingdom Chancellor of the Exchequer, announces that the tax on bank profits will become permanent. ](/news/2011/02/8/george-osborne-the-united-kingdom-chancellor-of-the-exchequer-announces-that-the-tax-on-bank-profits-will-become-permanent.md)
-_Context: Chancellor of the Exchequer, George Osborne, United Kingdom, tax_
+_Context: Chancellor of the Exchequer, George Osborne, UK, tax_
 
 ##### Philippines
 ### [Former Philippines Cabinet Secretary Angelo Reyes dies following an apparent suicide attempt possibly prompted by a scandal over alleged military corruption. ](/news/2011/02/8/former-philippines-cabinet-secretary-angelo-reyes-dies-following-an-apparent-suicide-attempt-possibly-prompted-by-a-scandal-over-alleged-mil.md)
@@ -57,7 +57,7 @@ _Context: North Korea, Panmunjeom, South Korea_
 
 ##### Snow storm
 ### [A snow storm hits the Mountain West and Great Plains areas of the United States. ](/news/2011/02/8/a-snow-storm-hits-the-mountain-west-and-great-plains-areas-of-the-united-states.md)
-_Context: Great Plains, Mountain West, U.S., snow storm_
+_Context: Great Plains, Mountain West, United States, snow storm_
 
 ##### Indonesia
 ### [An Indonesian ferry carrying 226 passengers from Tanjung Priok to Bangka Belitung catches fire. ](/news/2011/02/8/an-indonesian-ferry-carrying-226-passengers-from-tanjung-priok-to-bangka-belitung-catches-fire.md)
@@ -69,11 +69,11 @@ _Context: Changsha, Drought, Hunan province, Xiangjiang River, central China_
 
 ##### London Stock Exchange
 ### [The London Stock Exchange in the United Kingdom is in advanced talks to merge with the TMX Group that operates Canada's two stock exchanges in Montreal and Toronto. ](/news/2011/02/8/the-london-stock-exchange-in-the-united-kingdom-is-in-advanced-talks-to-merge-with-the-tmx-group-that-operates-canada-s-two-stock-exchanges.md)
-_Context: Canada, London Stock Exchange, Montreal, TMX Group, Toronto, United Kingdom, stock exchanges_
+_Context: Canada, London Stock Exchange, Montreal, TMX Group, Toronto, UK, stock exchanges_
 
 ##### Ultimate Electronics
 ### [Ultimate Electronics, a United States electronics retail chain, has applied to a bankruptcy court for permission to close all of its 46 stores. ](/news/2011/02/8/ultimate-electronics-a-united-states-electronics-retail-chain-has-applied-to-a-bankruptcy-court-for-permission-to-close-all-of-its-46-stor.md)
-_Context: U.S., Ultimate Electronics, bankruptcy court_
+_Context: Ultimate Electronics, United States, bankruptcy court_
 
 ##### Volkswagen
 ### [Volkswagen agrees on a new contract with the union IG Metall, including a 3.2 percent increase in base pay for its employees. ](/news/2011/02/8/volkswagen-agrees-on-a-new-contract-with-the-union-ig-metall-including-a-3-2-percent-increase-in-base-pay-for-its-employees.md)

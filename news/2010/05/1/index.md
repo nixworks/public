@@ -9,7 +9,7 @@ _Context: Boston_
 
 ##### Taipei
 ### [A Taipei-Shanghai flight makes an emergency landing in Hangzhou after an American passenger makes an inappropriate reference to a bomb. ](/news/2010/05/1/a-taipei-shanghai-flight-makes-an-emergency-landing-in-hangzhou-after-an-american-passenger-makes-an-inappropriate-reference-to-a-bomb.md)
-_Context: Hangzhou, Shanghai, Taipei, U.S._
+_Context: Hangzhou, Shanghai, Taipei, United States_
 
 ##### The Washington Post
 ### [Two retired generals tell "The Washington Post" that, with more than 25 per cent of young Americans being "too fat to fight", obesity is threatening the future of the United States military. ](/news/2010/05/1/two-retired-generals-tell-the-washington-post-that-with-more-than-25-per-cent-of-young-americans-being-too-fat-to-fight-obesity-is-thr.md)
@@ -49,7 +49,7 @@ Nationwide shutdown announced after prime minister refused calls to step down.
 
 ##### Johnson & Johnson
 ### [Johnson & Johnson announces the recall of 43 over-the-counter medicines intended for infants and children, affecting the United States and nine other markets. ](/news/2010/05/1/johnson-johnson-announces-the-recall-of-43-over-the-counter-medicines-intended-for-infants-and-children-affecting-the-united-states-and-n.md)
-_Context: Johnson & Johnson, U.S._
+_Context: Johnson & Johnson, United States_
 
 ##### Swat Valley
 ### [At least two civilians are killed and ten more are wounded by a suicide attack on a market in Swat Valley. ](/news/2010/05/1/at-least-two-civilians-are-killed-and-ten-more-are-wounded-by-a-suicide-attack-on-a-market-in-swat-valley.md)

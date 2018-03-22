@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/12/31/25-year-old-scottish-human-rights-worker-kate-b
 
 ### [2005-12-31](/news/2005/12/31/index.md)
 
-##### Scotland
+##### Scottish
 #  25-year-old Scottish human rights worker Kate Burton and her parents are freed unharmed in the Gaza Strip by the Palestinian gunmen who kidnapped them two days earlier. 
 
 
@@ -15,8 +15,8 @@ Formats: [HTML](/news/2005/12/31/25-year-old-scottish-human-rights-worker-kate-b
 
 ### Related:
 
-1. [ A Scottish human rights worker, Kate Burton, and her parents have been kidnapped in Gaza. Palestinian authorities have stepped up work to find them. ](/news/2005/12/29/a-scottish-human-rights-worker-kate-burton-and-her-parents-have-been-kidnapped-in-gaza-palestinian-authorities-have-stepped-up-work-to-f.md) _Context: Kate Burton, Palestinian, Scotland, human rights_
+1. [ A Scottish human rights worker, Kate Burton, and her parents have been kidnapped in Gaza. Palestinian authorities have stepped up work to find them. ](/news/2005/12/29/a-scottish-human-rights-worker-kate-burton-and-her-parents-have-been-kidnapped-in-gaza-palestinian-authorities-have-stepped-up-work-to-f.md) _Context: Kate Burton, Palestinian, Scottish, human rights_
 2. [ HaMoked Center for the Defense of the Individual and B'Tselem, Israeli human rights organizations, accuse the Israeli Defense Ministry of abusing Palestinian detainees in 73 cases. The Justice Ministry said the report was "fraught with mistakes, groundless claims and inaccuracies." ](/news/2007/05/6/hamoked-center-for-the-defense-of-the-individual-and-b-tselem-israeli-human-rights-organizations-accuse-the-israeli-defense-ministry-of-a.md) _Context: Palestinian, human rights_
 3. [ The Israeli army has been accused of using Palestinian civilians as human shields in an operation in northern Gaza. According to the Israeli human rights group, B'tselem, six civilians including two minors were subjected to the illegal tactic during an incursion into the town of Beit Hanoun last week. ](/news/2006/07/25/the-israeli-army-has-been-accused-of-using-palestinian-civilians-as-human-shields-in-an-operation-in-northern-gaza-according-to-the-israel.md) _Context: Palestinian, human rights_
-4. [The Met Office issues its highest level warning, a red alert for parts of Scotland due to heavy snow. It is the first time a red alert has ever been issued in Scotland, and only the second time anywhere in the United Kingdom. ](/news/2018/02/28/the-met-office-issues-its-highest-level-warning-a-red-alert-for-parts-of-scotland-due-to-heavy-snow-it-is-the-first-time-a-red-alert-has-e.md) _Context: Scotland_
-5. [Mount Hope, in a disputed region of Antarctica, is found to be the highest mountain in territory claimed by the United Kingdom. Ben Nevis in Scotland is the highest mountain in the United Kingdom. ](/news/2017/12/11/mount-hope-in-a-disputed-region-of-antarctica-is-found-to-be-the-highest-mountain-in-territory-claimed-by-the-united-kingdom-ben-nevis-in.md) _Context: Scotland_
+4. [The United Nations issues a report calling for an end to the nation's state of emergency, claiming it has been used to violate human rights. Turkey responds, calling the report "biased" and "unacceptable". ](/news/2018/03/20/the-united-nations-issues-a-report-calling-for-an-end-to-the-nation-s-state-of-emergency-claiming-it-has-been-used-to-violate-human-rights.md) _Context: human rights_
+5. [The Court of Session allows an appeal by a cross-party group of Scottish politicians seeking court permission for a referral to the European Court of Justice. The group wish for a ruling that the UK can abandon Brexit without permission from the European Union's other member states. A lower court will examine the claim. ](/news/2018/03/20/the-court-of-session-allows-an-appeal-by-a-cross-party-group-of-scottish-politicians-seeking-court-permission-for-a-referral-to-the-european.md) _Context: Scottish_

@@ -31,9 +31,9 @@ _Context: Al Qaida's, Algeria, Algiers, recent bomb attacks_
 ### [ An explosion in the cafeteria of the National Assembly of Iraq kills eight people, including MP Mohammed Awad, and wounds many others. ](/news/2007/04/12/an-explosion-in-the-cafeteria-of-the-national-assembly-of-iraq-kills-eight-people-including-mp-mohammed-awad-and-wounds-many-others.md)
 A homicide truck bomb exploded on a major bridge in Baghdad early Thursday, killing at least ten people and sending cars toppling into the Tigris River below, police and witnesses said.
 
-##### U.S.
+##### United States
 ### [ U.S. talk radio personality Don Imus is fired by CBS Radio after making racially offensive comments about the Rutgers University women's basketball team. His simulcasted television show "Imus in the Morning" on MSNBC is also cancelled. ](/news/2007/04/12/u-s-talk-radio-personality-don-imus-is-fired-by-cbs-radio-after-making-racially-offensive-comments-about-the-rutgers-university-women-s-ba.md)
-_Context: CBS Radio, Don Imus, Imus in the Morning, MSNBC, Rutgers University, U.S., fired, personality, simulcast, talk radio, television, women's basketball team_
+_Context: CBS Radio, Don Imus, Imus in the Morning, MSNBC, Rutgers University, United States, fired, personality, simulcast, talk radio, television, women's basketball team_
 
 ##### Paul Wolfowitz
 ### [ Paul Wolfowitz, the President of the World Bank, apologizes for his role in a pay scandal involving his girlfriend. ](/news/2007/04/12/paul-wolfowitz-the-president-of-the-world-bank-apologizes-for-his-role-in-a-pay-scandal-involving-his-girlfriend.md)

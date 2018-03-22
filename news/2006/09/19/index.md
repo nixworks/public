@@ -5,7 +5,7 @@ Formats: [HTML](2006/09/19/index.html)  [JSON](2006/09/19/index.json)  [XML](200
 
 ##### Corporal
 ### [ A corporal in the Duke of Lancaster's Regiment becomes the first British soldier to confess to committing a war crime in Iraq, after admitting inhumane treatment of civilians, at a court martial. ](/news/2006/09/19/a-corporal-in-the-duke-of-lancaster-s-regiment-becomes-the-first-british-soldier-to-confess-to-committing-a-war-crime-in-iraq-after-admitt.md)
-_Context: Duke of Lancaster's Regiment, Iraq, United Kingdom, corporal, court martial, war crime_
+_Context: Duke of Lancaster's Regiment, Iraq, UK, corporal, court martial, war crime_
 
 ##### Controversial speech
 ### [ Pope Benedict XVI Islam controversy: In Ankara, protesters demand that the Justice Ministry arrest the Pope upon his arrival in Turkey, should he go ahead with his planned visit there in November. ](/news/2006/09/19/pope-benedict-xvi-islam-controversy-in-ankara-protesters-demand-that-the-justice-ministry-arrest-the-pope-upon-his-arrival-in-turkey-sho.md)

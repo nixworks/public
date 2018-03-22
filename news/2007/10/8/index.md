@@ -5,7 +5,7 @@ Formats: [HTML](2007/10/8/index.html)  [JSON](2007/10/8/index.json)  [XML](2007/
 
 ##### 2007 Burmese anti-government protests
 ### [ 2007 Burmese anti-government protests: Burma's junta announces that Buddhist monasteries have accepted US$8000 as well as food and medicine from its soldiers to signify the armed forces have not left the faith. ](/news/2007/10/8/2007-burmese-anti-government-protests-burma-s-junta-announces-that-buddhist-monasteries-have-accepted-us-8000-as-well-as-food-and-medicine.md)
-_Context: $, 2007 Burmese anti-government protests, Buddhist monk, Burma, junta_
+_Context: 2007 Burmese anti-government protests, Buddhist monk, Burma, US$, junta_
 
 ##### Escort
 ### [ A helicopter escorting the helicopter of President Pervez Musharraf crashes in Pakistan-administered Kashmir, killing four security officials and injuring his spokesman.date=December 2007 Forty five Pakistani soldiers and 130 pro-Taliban militants have died in two days of fierce fighting in North Waziristan, the Pakistani army says. ](/news/2007/10/8/a-helicopter-escorting-the-helicopter-of-president-pervez-musharraf-crashes-in-pakistan-administered-kashmir-killing-four-security-officia.md)

@@ -7,9 +7,9 @@ Formats: [HTML](2007/08/29/index.html)  [JSON](2007/08/29/index.json)  [XML](200
 ### [ Three people are killed - including a father and son - in a "targeted incident" involving firearms at a house in Bishop's Stortford. Two others are injured, but a 3 year-old girl is unharmed. Police are hunting "two Asian men" in connection with the attack. ](/news/2007/08/29/three-people-are-killed-including-a-father-and-son-in-a-targeted-incident-involving-firearms-at-a-house-in-bishop-s-stortford-two-ot.md)
 _Context: Bishop's Stortford_
 
-##### U.S.
+##### United States
 ### [ The United States releases seven Iranians hours after detaining them in a Baghdad hotel. ](/news/2007/08/29/the-united-states-releases-seven-iranians-hours-after-detaining-them-in-a-baghdad-hotel.md)
-_Context: Baghdad, Iran, U.S._
+_Context: Baghdad, Iran, United States_
 
 ##### Prison guards
 ### [ Prison officers in the United Kingdom call a surprise 24-hour strike. ](/news/2007/08/29/prison-officers-in-the-united-kingdom-call-a-surprise-24-hour-strike.md)

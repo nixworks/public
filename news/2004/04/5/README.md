@@ -31,9 +31,9 @@ _Context: AIDS, African-American, bisexuality_
 ### [ Economists from Harvard and UNC - Chapel Hill determine that peer-to-peer file sharing and music downloads "have an effect on sales which is statistically indistinguishable from zero, despite rather precise estimates." ](/news/2004/04/5/economists-from-harvard-and-unc-chapel-hill-determine-that-peer-to-peer-file-sharing-and-music-downloads-have-an-effect-on-sales-which-i.md)
 _Context: Economist, Harvard University, University of North Carolina at Chapel Hill, peer-to-peer_
 
-##### Norway
+##### Norwegian
 ### [ For the first time in six years, a Norwegian policeman is killed in the line of duty. ](/news/2004/04/5/for-the-first-time-in-six-years-a-norwegian-policeman-is-killed-in-the-line-of-duty.md)
-_Context: Norway_
+_Context: Norwegian_
 
 ##### Mordechai Vanunu
 ### [ Mordechai Vanunu seeks to renounce his Israeli citizenship to avoid confinement to the nation after his release from jail. ](/news/2004/04/5/mordechai-vanunu-seeks-to-renounce-his-israeli-citizenship-to-avoid-confinement-to-the-nation-after-his-release-from-jail.md)

@@ -17,7 +17,7 @@ _Context: Al Gore, Intergovernmental Panel on Climate Change, Nobel Peace Prize,
 
 ##### President of Russia
 ### [ The President of Russia Vladimir Putin threatens to renounce the Cold War-era INF Treaty while calling on the United States to abandon a proposed European missile shield in talks with the United States Secretary of State Condoleezza Rice and Secretary of Defence Robert Gates. ](/news/2007/10/12/the-president-of-russia-vladimir-putin-threatens-to-renounce-the-cold-war-era-inf-treaty-while-calling-on-the-united-states-to-abandon-a-pr.md)
-_Context: Cold War, Condoleezza Rice, Europe, INF Treaty, President of Russia, Robert Gates, Secretary of State, U.S., United States Secretary of Defence, Vladimir Putin, missile interceptor_
+_Context: Cold War, Condoleezza Rice, Europe, INF Treaty, President of Russia, Robert Gates, Secretary of State, United States, United States Secretary of Defence, Vladimir Putin, missile interceptor_
 
 ##### Prime Minister of Canada
 ### [ The Prime Minister of Canada Stephen Harper appoints a five-member advisory committee on Afghanistan to be chaired by John Manley of the opposition Liberal Party of Canada. ](/news/2007/10/12/the-prime-minister-of-canada-stephen-harper-appoints-a-five-member-advisory-committee-on-afghanistan-to-be-chaired-by-john-manley-of-the-op.md)

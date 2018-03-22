@@ -5,7 +5,7 @@ Formats: [HTML](2008/01/24/index.html)  [JSON](2008/01/24/index.json)  [XML](200
 
 ##### Jerome Kerviel
 ### [ Jerome Kerviel is blamed for worsening the January 2008 stock market downturn by allegedly losing EUR4.9 billion ($7 billion) for French bank Societe Generale. ](/news/2008/01/24/ja-c-ra-me-kerviel-is-blamed-for-worsening-the-january-2008-stock-market-downturn-by-allegedly-losing-a-4-9-billion-7-billion-for-french.md)
-_Context: $, EUR, French, January 2008 stock market downturn, Jerome Kerviel, Societe Generale, bank_
+_Context: EUR, French, January 2008 stock market downturn, Jerome Kerviel, Societe Generale, US$, bank_
 
 ##### Brazil
 ### [ The Brazilian government passes legislation aimed at curbing Amazon deforestation. ](/news/2008/01/24/the-brazilian-government-passes-legislation-aimed-at-curbing-amazon-deforestation.md)

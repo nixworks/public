@@ -33,7 +33,7 @@ _Context: Persian Gulf, aircraft carrier_
 
 ##### Rial
 ### [The value of the Iranian rial hits a record low, following the announcement by the United States of further economic sanctions against Iran. ](/news/2012/01/3/the-value-of-the-iranian-rial-hits-a-record-low-following-the-announcement-by-the-united-states-of-further-economic-sanctions-against-iran.md)
-_Context: U.S., economic sanctions, rial_
+_Context: United States, economic sanctions, rial_
 
 ##### Israel
 ### [Negotiators from Israel and the Palestinian Authority meet in the Jordanian capital, Amman, for the first time in 16 months. ](/news/2012/01/3/negotiators-from-israel-and-the-palestinian-authority-meet-in-the-jordanian-capital-amman-for-the-first-time-in-16-months.md)

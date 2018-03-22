@@ -5,7 +5,7 @@ Formats: [HTML](2011/02/5/index.html)  [JSON](2011/02/5/index.json)  [XML](2011/
 
 ##### Cleveland Cavaliers
 ### [The Cleveland Cavaliers set a new record for consecutive losses in a single National Basketball Association season in the United States. ](/news/2011/02/5/the-cleveland-cavaliers-set-a-new-record-for-consecutive-losses-in-a-single-national-basketball-association-season-in-the-united-states.md)
-_Context: Cleveland Cavaliers, NBA, U.S._
+_Context: Cleveland Cavaliers, NBA, United States_
 
 ##### Belgrade
 ### [The largest anti-government demonstration in years occurs in Belgrade, with thousands of disenchanted Serbs travelling to the parliament building from across the country to call for early elections there. An opposition party leader at the event compares it to the uprisings in Tunisia and Egypt. ](/news/2011/02/5/the-largest-anti-government-demonstration-in-years-occurs-in-belgrade-with-thousands-of-disenchanted-serbs-travelling-to-the-parliament-bui.md)
@@ -25,7 +25,7 @@ David Cameron criticises &quot;state multiculturalism&quot; in his first speech 
 
 ##### Firefighter
 ### [Six firefighters die and two are injured fighting a fire in China's Zhejiang Province. ](/news/2011/02/5/six-firefighters-die-and-two-are-injured-fighting-a-fire-in-china-s-zhejiang-province.md)
-_Context: China, Zhejiang Province, firefighter_
+_Context: Chinese, Zhejiang Province, firefighter_
 
 ##### Uricani Coal Mine
 ### [An explosion at the Uricani Coal Mine in southwestern Romania kills five people. ](/news/2011/02/5/an-explosion-at-the-uricani-coal-mine-in-southwestern-romania-kills-five-people.md)

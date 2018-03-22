@@ -17,7 +17,7 @@ _Context: Gulf of Aden, International Maritime Bureau, Somali pirates, Somalia, 
 
 ##### Retail sales
 ### [ Retail sales in the United States decline by 1.2% in September 2008, a third successive month in decline and the sharpest decline in three years, further evidence that the United States economy is in a recession. ](/news/2008/10/15/retail-sales-in-the-united-states-decline-by-1-2-in-september-2008-a-third-successive-month-in-decline-and-the-sharpest-decline-in-three.md)
-_Context: Retail sales, September 2008, U.S., United States economy, recession_
+_Context: Retail sales, September 2008, United States, United States economy, recession_
 
 ##### Philadelphia Phillies
 ### [ The Philadelphia Phillies defeat the Los Angeles Dodgers 5-1 in the fifth game of the 2008 National League Championship Series winning the series 4-1 and advancing to the 2008 World Series. ](/news/2008/10/15/the-philadelphia-phillies-defeat-the-los-angeles-dodgers-5-1-in-the-fifth-game-of-the-2008-national-league-championship-series-winning-the.md)

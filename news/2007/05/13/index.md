@@ -25,7 +25,7 @@ _Context: Islamist, Izmir, July elections, Turkish, fifth mass rally, ruling par
 
 ##### Cargo ship
 ### [ Two cargo ships collide in heavy fog near Dalian, China. 16 sailors are missing. ](/news/2007/05/13/two-cargo-ships-collide-in-heavy-fog-near-dalian-china-16-sailors-are-missing.md)
-_Context: China, Dalian, cargo ship_
+_Context: Chinese, Dalian, cargo ship_
 
 ##### Team Canada
 ### [ Team Canada wins the 2007 IIHF World Hockey Championship after a 4-2 win over Finland in the gold medal game in Moscow, Russia. ](/news/2007/05/13/team-canada-wins-the-2007-iihf-world-hockey-championship-after-a-4-2-win-over-finland-in-the-gold-medal-game-in-moscow-russia.md)

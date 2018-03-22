@@ -19,7 +19,7 @@ _Context: Canary Islands', Gran Canaria, Jose Luis Rodriguez Zapatero, Prime Min
 ### [ The US House of Representatives passes a resolution to lift travel restrictions on Taiwan's president and other high-level officials visiting the United States. ](/news/2007/08/1/the-us-house-of-representatives-passes-a-resolution-to-lift-travel-restrictions-on-taiwan-s-president-and-other-high-level-officials-visiti.md)
 The House of Representatives passed a resolution Monday that recommends the lifting of restrictions on Taiwan’s president and other high-level officials visiting the United States.
 
-##### China
+##### Chinese
 ### [ Sixty-nine Chinese coal miners are rescued from the Zhijian Mine in Henan province. ](/news/2007/08/1/sixty-nine-chinese-coal-miners-are-rescued-from-the-zhijian-mine-in-henan-province.md)
 Authorities in China say rescuers have pulled out 69 coal miners alive, ending a terrifying three-day ordeal in which the trapped men survived on milk and pumped-in oxygen.
 
@@ -27,9 +27,9 @@ Authorities in China say rescuers have pulled out 69 coal miners alive, ending a
 ### [ Sudan pledges support for UNAMID, a joint United Nations and African Union peacekeeping force in Darfur. ](/news/2007/08/1/sudan-pledges-support-for-unamid-a-joint-united-nations-and-african-union-peacekeeping-force-in-darfur.md)
 _Context: African  Union, Darfur, Sudan, UNAMID, United Nations, peacekeeping_
 
-##### United Kingdom
+##### UK
 ### [ The United Kingdom Office of Fair Trading levies a fine of GBP121.5 million on British Airways for price collusion over long distance passenger fuel surcharges. British Airways and Korean Air later plead guilty to conspiracies to fix the price of passenger and cargo fees in the United States with fines of $300 million each being levied. ](/news/2007/08/1/the-united-kingdom-office-of-fair-trading-levies-a-fine-of-agbp121-5-million-on-british-airways-for-price-collusion-over-long-distance-pass.md)
-_Context: $, British Airways, GBP, Korean Air, Office of Fair Trading, U.S., United Kingdom_
+_Context: British Airways, GBP, Korean Air, Office of Fair Trading, UK, US$, United States_
 
 ##### Gazprom
 ### [ Russia's gas exports monopoly Gazprom will almost halve supplies to Belarus from August 3 after failing to reach a deal with Minsk over a $456 million energy debt. ](/news/2007/08/1/russiaas-gas-exports-monopoly-gazprom-will-almost-halve-supplies-to-belarus-from-august-3-after-failing-to-reach-a-deal-with-minsk-over-a.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2005/04/7/index.html)  [JSON](2005/04/7/index.json)  [XML](2005/
 
 ##### Dutch
 ### [ Police in the Netherlands arrest a gang that has smuggled Chinese asylum seekers and sold them for cheap labor. ](/news/2005/04/7/police-in-the-netherlands-arrest-a-gang-that-has-smuggled-chinese-asylum-seekers-and-sold-them-for-cheap-labor.md)
-_Context: China, Dutch, asylum, cheap labor, human trafficking_
+_Context: Chinese, Dutch, asylum, cheap labor, human trafficking_
 
 ##### Malaysia
 ### [ The prime ministers of Malaysia and Australia announce that they intend begin talks of free trade agreement ](/news/2005/04/7/the-prime-ministers-of-malaysia-and-australia-announce-that-they-intend-begin-talks-of-free-trade-agreement.md)

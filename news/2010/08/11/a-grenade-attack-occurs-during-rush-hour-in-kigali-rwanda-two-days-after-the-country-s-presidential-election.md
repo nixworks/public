@@ -16,8 +16,8 @@ Several people are wounded in a grenade attack in the Rwandan capital two days a
 
 ### Related:
 
-1. [A new archive of the genocide in Rwanda is unveiled in the capital Kigali. ](/news/2010/12/10/a-new-archive-of-the-genocide-in-rwanda-is-unveiled-in-the-capital-kigali.md) _Context: Kigali, Rwanda_
-2. [Voters in Rwanda go to the polls for the presidential election. ](/news/2010/08/9/voters-in-rwanda-go-to-the-polls-for-the-presidential-election.md) _Context: Rwanda, presidential election_
-3. [Rwanda prepares for a presidential election, its second since the 1994 Rwandan Genocide. ](/news/2010/08/8/rwanda-prepares-for-a-presidential-election-its-second-since-the-1994-rwandan-genocide.md) _Context: Rwanda, presidential election_
-4. [Three people are arrested following a grenade attack in the Rwandan capital Kigali which injured several people. ](/news/2010/08/12/three-people-are-arrested-following-a-grenade-attack-in-the-rwandan-capital-kigali-which-injured-several-people.md) _Context: Kigali, Rwanda_
-5. [Rwanda's incumbent President Paul Kagame wins the country's presidential election with 95% of the vote. ](/news/2010/08/11/rwanda-s-incumbent-president-paul-kagame-wins-the-country-s-presidential-election-with-95-of-the-vote.md) _Context: Rwanda, presidential election_
+1. [The leaders of 44 African Union states sign an agreement in Kigali, Rwanda, to create the African Continental Free Trade Area (CFTA). ](/news/2018/03/21/the-leaders-of-44-african-union-states-sign-an-agreement-in-kigali-rwanda-to-create-the-african-continental-free-trade-area-cfta.md) _Context: Kigali, Rwanda_
+2. [A new archive of the genocide in Rwanda is unveiled in the capital Kigali. ](/news/2010/12/10/a-new-archive-of-the-genocide-in-rwanda-is-unveiled-in-the-capital-kigali.md) _Context: Kigali, Rwanda_
+3. [Voters in Rwanda go to the polls for the presidential election. ](/news/2010/08/9/voters-in-rwanda-go-to-the-polls-for-the-presidential-election.md) _Context: Rwanda, presidential election_
+4. [Rwanda prepares for a presidential election, its second since the 1994 Rwandan Genocide. ](/news/2010/08/8/rwanda-prepares-for-a-presidential-election-its-second-since-the-1994-rwandan-genocide.md) _Context: Rwanda, presidential election_
+5. [Three people are arrested following a grenade attack in the Rwandan capital Kigali which injured several people. ](/news/2010/08/12/three-people-are-arrested-following-a-grenade-attack-in-the-rwandan-capital-kigali-which-injured-several-people.md) _Context: Kigali, Rwanda_

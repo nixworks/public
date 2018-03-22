@@ -7,9 +7,9 @@ Formats: [HTML](2006/11/29/index.html)  [JSON](2006/11/29/index.json)  [XML](200
 ### [ The Liberal Party of Canada opens its leadership convention, expected to be the most contentious in decades, with a keynote speech by Howard Dean. ](/news/2006/11/29/the-liberal-party-of-canada-opens-its-leadership-convention-expected-to-be-the-most-contentious-in-decades-with-a-keynote-speech-by-howar.md)
 _Context: Howard Dean, Liberal Party's, leadership convention_
 
-##### United Kingdom
+##### UK
 ### [ In the United Kingdom, the "News of the World" newspaper's royal editor Clive Goodman pleads guilty to conspiring to intercept the voicemail messages of Princes William and Harry. ](/news/2006/11/29/in-the-united-kingdom-the-news-of-the-world-newspaper-s-royal-editor-clive-goodman-pleads-guilty-to-conspiring-to-intercept-the-voicemai.md)
-_Context: British Royal Family, Duke of Cambridge, News of the World, Prince Harry, United Kingdom_
+_Context: British Royal Family, Duke of Cambridge, News of the World, Prince Harry, UK_
 
 ##### Prime Minister
 ### [ The Prime Minister of Fiji Laisenia Qarase meets with Fijian military commander Commodore Frank Bainimarama in emergency talks in Wellington, New Zealand aimed at averting a coup. ](/news/2006/11/29/the-prime-minister-of-fiji-laisenia-qarase-meets-with-fijian-military-commander-commodore-frank-bainimarama-in-emergency-talks-in-wellingto.md)
@@ -17,7 +17,7 @@ _Context: Fiji, Laisenia Qarase, New Zealand, Prime Minister, Voreqe Bainimarama
 
 ##### United Nations Security Council
 ### [ The United Nations Security Council unanimously passes a resolution that extends the mandate of the United States-led multinational force in Iraq until December 31, 2007. The new resolution requires a review of the mandate to begin by June 15, 2007, or sooner if the government of Iraq requests it. The government of Iraq can also revoke the mandate before its end if it chooses to do so. ](/news/2006/11/29/the-united-nations-security-council-unanimously-passes-a-resolution-that-extends-the-mandate-of-the-united-states-led-multinational-force-i.md)
-_Context: Iraq, U.S., U.S.-led troops, United Nations Security Council_
+_Context: Iraq, U.S.-led troops, United Nations Security Council, United States_
 
 ##### Soldiers
 ### [ An Australian Army Black Hawk helicopter is lost at sea off the coast of Fiji where it had been operating from HMAS "Kanimbla" (L-51) preparing to evacuate Australian civilians in the event of a coup. The Fijian military is holding an exercise in the capital Suva claiming there are fears of a "foreign intervention". ](/news/2006/11/29/an-australian-army-black-hawk-helicopter-is-lost-at-sea-off-the-coast-of-fiji-where-it-had-been-operating-from-hmas-kanimbla-l-51-prepa.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/12/a-u-s-judge-entered-a-plea-of-not-guilty-on-the
 
 ### [2013-03-12](/news/2013/03/12/index.md)
 
-##### U.S.
+##### United States
 # A U.S. judge entered a plea of not guilty on the behalf of alleged Aurora theater gunman James Holmes, after his lawyers said they were not ready to enter a plea. 
 
 A US judge has entered a plea of not guilty on behalf of alleged Aurora theatre gunman James Holmes, after his lawyers said they were not ready to enter a plea.
@@ -25,4 +25,4 @@ A US judge has entered a plea of not guilty on behalf of alleged Aurora theatre 
 2. [Paperwork filled on behalf of Aurora shooting suspect James Holmes states that he plans to plead not guilty by reason of insanity. ](/news/2013/05/7/paperwork-filled-on-behalf-of-aurora-shooting-suspect-james-holmes-states-that-he-plans-to-plead-not-guilty-by-reason-of-insanity.md) _Context: 2012 Aurora shooting, James Holmes_
 3. [Arapahoe County District Attorney George Brauchler decides, after speaking with survivors and relatives of the deceased, to pursue the death penalty against James Holmes, the perpetrator of the 2012 Aurora shooting; the case is given to a new judge. ](/news/2013/04/1/arapahoe-county-district-attorney-george-brauchler-decides-after-speaking-with-survivors-and-relatives-of-the-deceased-to-pursue-the-death.md) _Context: 2012 Aurora shooting, James Holmes_
 4. [James Holmes, the suspect of the 2012 Aurora shooting, makes his first court appearance. ](/news/2012/07/23/james-holmes-the-suspect-of-the-2012-aurora-shooting-makes-his-first-court-appearance.md) _Context: 2012 Aurora shooting, James Holmes_
-5. [Toys "R" Us considers closing all its stores in the United States. ](/news/2018/03/8/toys-r-us-considers-closing-all-its-stores-in-the-united-states.md) _Context: U.S._
+5. [Toys "R" Us considers closing all its stores in the United States. ](/news/2018/03/8/toys-r-us-considers-closing-all-its-stores-in-the-united-states.md) _Context: United States_

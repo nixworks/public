@@ -21,7 +21,7 @@ _Context: Cape Town, South Africa, train crash_
 
 ##### Colliery explosion
 ### [ A colliery explosion in Shanxi province in northern China kills at least 24 miners. ](/news/2006/11/13/a-colliery-explosion-in-shanxi-province-in-northern-china-kills-at-least-24-miners.md)
-_Context: China, Shanxi province, colliery explosion_
+_Context: Chinese, Shanxi province, colliery explosion_
 
 ##### South Korea
 ### [ South Korea says it won't participate in the Proliferation Security Initiative that aims to intercept North Korean ships suspected of carrying supplies for North Korea's nuclear and missile programs. ](/news/2006/11/13/south-korea-says-it-won-t-participate-in-the-proliferation-security-initiative-that-aims-to-intercept-north-korean-ships-suspected-of-carry.md)

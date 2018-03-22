@@ -17,7 +17,7 @@ _Context: Death Penalty Information Center, executed in the United States_
 
 ##### Death of Jennifer Laude
 ### [The United States refuses to extradite a United States Marine to the Philippines where he is charged with murder. ](/news/2014/12/18/the-united-states-refuses-to-extradite-a-united-states-marine-to-the-philippines-where-he-is-charged-with-murder.md)
-_Context: Death of Jennifer Laude, Philippines, U.S., U.S. Marine, murder_
+_Context: Death of Jennifer Laude, Philippines, U.S. Marine, United States, murder_
 
 ##### International sanctions during the 2014 pro-Russian unrest in Ukraine
 ### [The European Union imposes sanctions on Russia-occupied Crimea by banning investments and tourism in the region and halting oil explorations. ](/news/2014/12/18/the-european-union-imposes-sanctions-on-russia-occupied-crimea-by-banning-investments-and-tourism-in-the-region-and-halting-oil-explorations.md)
@@ -33,7 +33,7 @@ _Context: Gap Inc., JD.com_
 
 ##### Brent Crude
 ### [The price of Brent Crude oil rises to $61+ per barrel as companies cut upstream investments. ](/news/2014/12/18/the-price-of-brent-crude-oil-rises-to-61-per-barrel-as-companies-cut-upstream-investments.md)
-_Context: $, Brent Crude_
+_Context: Brent Crude, US$_
 
 ##### Gumsuri kidnapping
 ### [News emerges, after survivors reach the city of Maiduguri, that suspected Boko Haram militants stormed the remote village of Gumsuri in north-eastern Nigeria on December 14, killing at least 33 people and kidnapping about 200. ](/news/2014/12/18/news-emerges-after-survivors-reach-the-city-of-maiduguri-that-suspected-boko-haram-militants-stormed-the-remote-village-of-gumsuri-in-nort.md)

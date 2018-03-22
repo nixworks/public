@@ -5,7 +5,7 @@ Formats: [HTML](2006/06/9/index.html)  [JSON](2006/06/9/index.json)  [XML](2006/
 
 ##### World War II
 ### [ The suspected WWII 'bomb' under Broadmead in Bristol, United Kingdom turns out to be a piece of reinforced concrete. ](/news/2006/06/9/the-suspected-wwii-bomb-under-broadmead-in-bristol-united-kingdom-turns-out-to-be-a-piece-of-reinforced-concrete.md)
-_Context: Bristol, Broadmead, United Kingdom, World War II_
+_Context: Bristol, Broadmead, UK, World War II_
 
 ##### Defending champion
 ### [ The 2006 FIFA World Cup begins at the FIFA World Cup Stadium Munich. ](/news/2006/06/9/the-2006-fifa-world-cup-begins-at-the-fifa-world-cup-stadium-munich.md)

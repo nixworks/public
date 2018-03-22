@@ -3,7 +3,7 @@ Formats: [HTML](2016/10/4/index.html)  [JSON](2016/10/4/index.json)  [XML](2016/
 
 ## [2016-10-4](/news/2016/10/4/index.md)
 
-##### United Kingdom
+##### UK
 ### [British scientists, David Thouless, Duncan Haldane, and John M. Kosterlitz, are awarded the 2016 Nobel Prize in Physics "for theoretical discoveries of topological phase transitions and topological phases of matter". ](/news/2016/10/4/british-scientists-david-thouless-duncan-haldane-and-john-m-kosterlitz-are-awarded-the-2016-nobel-prize-in-physics-for-theoretical-dis.md)
 The 2016 Nobel Prize in Physics has been awarded to three British-born scientists for discoveries about strange forms of matter.
 

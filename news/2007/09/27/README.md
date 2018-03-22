@@ -19,9 +19,9 @@ _Context: 2007 Pakistani presidential election, Pakistan, Pervez Musharraf, pres
 ### [ Four employees of the International Red Cross, including two foreigners, are abducted in Afghanistan's Wardak province. ](/news/2007/09/27/four-employees-of-the-international-red-cross-including-two-foreigners-are-abducted-in-afghanistan-s-wardak-province.md)
 _Context: Afghanistan, International Red Cross, Wardak province_
 
-##### $
+##### US$
 ### [ Donor countries promise $9.7 billion to The Global Fund to Fight AIDS, Tuberculosis and Malaria. ](/news/2007/09/27/donor-countries-promise-9-7-billion-to-the-global-fund-to-fight-aids-tuberculosis-and-malaria.md)
-_Context: $, The Global Fund to Fight AIDS, Tuberculosis and Malaria_
+_Context: The Global Fund to Fight AIDS, Tuberculosis and Malaria, US$_
 
 ##### U.S. state
 ### [ The Third Circuit Court of Appeal in the U.S. state of Louisiana rules that Mychal Bell should not have been tried as an adult in the Jena Six case, and he is released on a $45,000 bail bond. ](/news/2007/09/27/the-third-circuit-court-of-appeal-in-the-u-s-state-of-louisiana-rules-that-mychal-bell-should-not-have-been-tried-as-an-adult-in-the-jena.md)

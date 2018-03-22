@@ -5,7 +5,7 @@ Formats: [HTML](2007/06/30/index.html)  [JSON](2007/06/30/index.json)  [XML](200
 
 ##### Hong Kong
 ### [ Hong Kong celebrates the tenth anniversary of the handover from the United Kingdom to the People's Republic of China. ](/news/2007/06/30/hong-kong-celebrates-the-tenth-anniversary-of-the-handover-from-the-united-kingdom-to-the-people-s-republic-of-china.md)
-_Context: China, Hong Kong, United Kingdom, the handover_
+_Context: China, Hong Kong, UK, the handover_
 
 ##### East Timor
 ### [ East Timorese voters go to the polls to elect a new Parliament of East Timor. ](/news/2007/06/30/east-timorese-voters-go-to-the-polls-to-elect-a-new-parliament-of-east-timor.md)
@@ -15,9 +15,9 @@ _Context: East Timor, Parliament, go to the polls_
 ### [ Voters in Papua New Guinea go to the polls to elect a new Parliament of Papua New Guinea. ](/news/2007/06/30/voters-in-papua-new-guinea-go-to-the-polls-to-elect-a-new-parliament-of-papua-new-guinea.md)
 Almost four million Papua New Guineans have begun voting this morning in a national poll.
 
-##### U.S.
+##### United States
 ### [ United States troops kill 26 militants in an attack on Sadr City in Baghdad. ](/news/2007/06/30/united-states-troops-kill-26-militants-in-an-attack-on-sadr-city-in-baghdad.md)
-_Context: Baghdad, Sadr City, U.S._
+_Context: Baghdad, Sadr City, United States_
 
 ##### Archbishop
 ### [ Archbishop Pius Ncube, head of the Catholic church in Zimbabwe, calls on the British government to invade Zimbabwe and overthrow President Robert Mugabe. ](/news/2007/06/30/archbishop-pius-ncube-head-of-the-catholic-church-in-zimbabwe-calls-on-the-british-government-to-invade-zimbabwe-and-overthrow-president.md)

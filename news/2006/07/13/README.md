@@ -11,7 +11,7 @@ Formats: [HTML](2006/07/13/index.html)  [JSON](2006/07/13/index.json)  [XML](200
 ### [ A man claiming to represent Al-Qaeda in India claims that they have set up a network in Kashmir and appeals to Indian Muslims to take up jihad. ](/news/2006/07/13/a-man-claiming-to-represent-al-qaeda-in-india-claims-that-they-have-set-up-a-network-in-kashmir-and-appeals-to-indian-muslims-to-take-up-ji.md)
 _Context: India, Kashmir, al-Qaeda, jihad_
 
-##### U.S.
+##### United States
 ### [ The United States is considering establishing an independent command for South Korean troops. South Korea has command of its forces during peacetime, but currently the United States would take control if there were a war. ](/news/2006/07/13/the-united-states-is-considering-establishing-an-independent-command-for-south-korean-troops-south-korea-has-command-of-its-forces-during.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
@@ -31,9 +31,9 @@ _Context: Merck & Co., Vioxx_
 ### [ North Korean diplomats quickly leave a meeting with South Korea and a U.S. diplomat, and leave the region after a week of diplomacy. ](/news/2006/07/13/north-korean-diplomats-quickly-leave-a-meeting-with-south-korea-and-a-u-s-diplomat-and-leave-the-region-after-a-week-of-diplomacy.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-##### U.S.
+##### United States
 ### [ The United States vetoes a United Nations resolution condemning Israel's military operations in the Gaza Strip. ](/news/2006/07/13/the-united-states-vetoes-a-united-nations-resolution-condemning-israel-s-military-operations-in-the-gaza-strip.md)
-_Context: Gaza Strip, Operation Summer Rains, U.N., U.S._
+_Context: Gaza Strip, Operation Summer Rains, U.N., United States_
 
 ##### Harrier
 ### [ A Harrier Jumpjet en route to the Air Tattoo at RAF Fairford crashes onto a road near Tackley in Oxfordshire. The pilot, who managed to eject before impact, was praised for his skill ensuring no loss of life occurred; the aircraft went down in a relatively populated area. ](/news/2006/07/13/a-harrier-jumpjet-en-route-to-the-air-tattoo-at-raf-fairford-crashes-onto-a-road-near-tackley-in-oxfordshire-the-pilot-who-managed-to-eje.md)

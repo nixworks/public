@@ -25,7 +25,7 @@ Iranian state radio has reported a South Korean-flagged cargo ship with 23 peopl
 
 ##### Roman Catholic Archdiocese of Los Angeles
 ### [ The Roman Catholic Archdiocese of Los Angeles settles sexual abuse claims against its clergy at a cost of $ 600 million. ](/news/2007/07/14/the-roman-catholic-archdiocese-of-los-angeles-settles-sexual-abuse-claims-against-its-clergy-at-a-cost-of-600-million.md)
-_Context: $, Roman Catholic Archdiocese of Los Angeles, clergy, sexual abuse_
+_Context: Roman Catholic Archdiocese of Los Angeles, US$, clergy, sexual abuse_
 
 ##### Tamil Tigers
 ### [ Ten Sri Lankan soldiers die in fighting the Tamil Tigers in the Vavuniya district of northern Sri Lanka. ](/news/2007/07/14/ten-sri-lankan-soldiers-die-in-fighting-the-tamil-tigers-in-the-vavuniya-district-of-northern-sri-lanka.md)

@@ -3,9 +3,9 @@ Formats: [HTML](2011/12/28/index.html)  [JSON](2011/12/28/index.json)  [XML](201
 
 ## [2011-12-28](/news/2011/12/28/index.md)
 
-##### China
+##### Chinese
 ### [China's Compass satellite navigation system, a rival to the American Global Positioning System (GPS), becomes operational, offering navigation services on the Chinese mainland. The system is expected to become available worldwide by 2020. ](/news/2011/12/28/china-s-compass-satellite-navigation-system-a-rival-to-the-american-global-positioning-system-gps-becomes-operational-offering-navigati.md)
-_Context: China, Chinese mainland, Compass satellite navigation system, Global Positioning System_
+_Context: Chinese, Chinese mainland, Compass satellite navigation system, Global Positioning System_
 
 ##### Republican candidates
 ### [Leading Republican Party presidential candidates, including Mitt Romney and Rick Perry, criticize rival candidate Ron Paul for his view that the United States should not act against Iran's suspected nuclear weapons program. ](/news/2011/12/28/leading-republican-party-presidential-candidates-including-mitt-romney-and-rick-perry-criticize-rival-candidate-ron-paul-for-his-view-that.md)
@@ -31,7 +31,7 @@ The trial of the former Egyptian President, Hosni Mubarak, resumes in Cairo afte
 ### [An Egyptian court bans forced virginity tests on female detainees in military prisons. ](/news/2011/12/28/an-egyptian-court-bans-forced-virginity-tests-on-female-detainees-in-military-prisons.md)
 Court order abolishes mandatory examinations of female detainees in military prisons.
 
-##### China
+##### Chinese
 ### [In China, 54 government officials and the Ministry of Railways are punished over a fatal high-speed rail crash in July. ](/news/2011/12/28/in-china-54-government-officials-and-the-ministry-of-railways-are-punished-over-a-fatal-high-speed-rail-crash-in-july.md)
 China pledged to fix design flaws blamed for a high-speed rail crash last July and punish the officials responsible, as the government released the results of an investigation that sought to allay criticism of how the accident was handled.
 

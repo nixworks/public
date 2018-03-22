@@ -9,7 +9,7 @@ _Context: California Senate, California State Assembly, Hispanic, United Farm Wo
 
 ##### Tibet Autonomous Region
 ### [ As part of celebrations for the 40th Anniversary for the founding of the Tibet Autonomous Region in the People's Republic of China, 20,000 people gather at the Potala Palace Square for a cultural performance. CPC Politburo's Jia Qinglin attended. ](/news/2005/09/1/as-part-of-celebrations-for-the-40th-anniversary-for-the-founding-of-the-tibet-autonomous-region-in-the-people-s-republic-of-china-20-000.md)
-_Context: China, Communist Party of China, Jia Qinglin, Politburo Standing Committee, Potala Palace, Tibet Autonomous Region_
+_Context: Chinese, Communist Party of China, Jia Qinglin, Politburo Standing Committee, Potala Palace, Tibet Autonomous Region_
 
 ##### Common Chimpanzee
 ### [ The Common Chimpanzee genome sequence has been released, revealing genetic differences between chimps and humans including differences in a region of the genome thought to be involved in speech acquisition. ](/news/2005/09/1/the-common-chimpanzee-genome-sequence-has-been-released-revealing-genetic-differences-between-chimps-and-humans-including-differences-in-a.md)
@@ -23,9 +23,9 @@ News and opinion from The Times &amp; The Sunday Times
 ### [ Russia marks the first anniversary of the Beslan tragedy in which militants seized nearly 1,200 hostages, killing 331, more than half of them children. ](/news/2005/09/1/russia-marks-the-first-anniversary-of-the-beslan-tragedy-in-which-militants-seized-nearly-1-200-hostages-killing-331-more-than-half-of-th.md)
 _Context: Beslan, Beslan children killed a year ago_
 
-##### China
+##### Chinese
 ### [ On the eve of People's Republic of China President Hu Jintao's first visit to North America next week, a PRC foreign ministry spokesman warned against any government providing Taiwan (ROC) with missile defense systems. Hu Jintao arrives in Washington, D.C. on Monday, then visits Canada and Mexico before visiting the United Nations General Assembly. ](/news/2005/09/1/on-the-eve-of-people-s-republic-of-china-president-hu-jintao-s-first-visit-to-north-america-next-week-a-prc-foreign-ministry-spokesman-war.md)
-_Context: Canada, China, Hu Jintao, Mexico, Taiwan, United Nations General Assembly, Washington, D.C., president_
+_Context: Canada, Chinese, Hu Jintao, Mexico, Taiwan, United Nations General Assembly, Washington, D.C., president_
 
 ##### Typhoon Talim
 ### [ Typhoon Talim passes over Taiwan, killing at least one person and injuring 24. ](/news/2005/09/1/typhoon-talim-passes-over-taiwan-killing-at-least-one-person-and-injuring-24.md)

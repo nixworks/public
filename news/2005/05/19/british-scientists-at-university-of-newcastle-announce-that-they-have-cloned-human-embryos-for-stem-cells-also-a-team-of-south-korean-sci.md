@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/05/19/british-scientists-at-university-of-newcastle-a
 
 ### [2005-05-19](/news/2005/05/19/index.md)
 
-##### United Kingdom
+##### UK
 #  British scientists at University of Newcastle announce that they have cloned human embryos for stem cells. Also, a team of South Korean scientists at Seoul National University state they have cloned the first embryonic cells customized to individual patients. 
 
 

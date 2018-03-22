@@ -23,13 +23,13 @@ _Context: Battle of Basra (2008), Iraqi security forces, Shiite_
 ### [ The first foreign journalists allowed in Tibet since the outbreak of the unrest arrive in Lhasa. ](/news/2008/03/26/the-first-foreign-journalists-allowed-in-tibet-since-the-outbreak-of-the-unrest-arrive-in-lhasa.md)
 President Bush has told Chinese President Hu Jintao that a mistake was made in the shipment of nuclear missile fuses to Taiwan.
 
-##### U.S.
+##### United States
 ### [ The United States embassy in Cairo confirms that the crew of a United States Navy-contracted ship killed an Egyptian when it opened fire on a small boat near the Suez Canal. ](/news/2008/03/26/the-united-states-embassy-in-cairo-confirms-that-the-crew-of-a-united-states-navy-contracted-ship-killed-an-egyptian-when-it-opened-fire-on.md)
-_Context: Cairo, Egypt, Suez Canal, U.S., U.S. Navy_
+_Context: Cairo, Egypt, Suez Canal, U.S. Navy, United States_
 
 ##### Ford Motor Company
 ### [ Ford Motor Company announces it will sell its British luxury-car brands Jaguar and Land Rover to India's Tata Motors for $2.3 billion. ](/news/2008/03/26/ford-motor-company-announces-it-will-sell-its-british-luxury-car-brands-jaguar-and-land-rover-to-india-s-tata-motors-for-2-3-billion.md)
-_Context: Ford Motor Company, India, Jaguar, Land Rover, Tata Motors, USD, United Kingdom, luxury sedan_
+_Context: Ford Motor Company, India, Jaguar, Land Rover, Tata Motors, UK, USD, luxury sedan_
 
 ##### Space Shuttle
 ### [ The Space Shuttle "Endeavour" lands at Cape Canaveral, Florida in a rare nighttime landing ending a 16-day mission to the International Space Station. ](/news/2008/03/26/the-space-shuttle-endeavour-lands-at-cape-canaveral-florida-in-a-rare-nighttime-landing-ending-a-16-day-mission-to-the-international-spa.md)

@@ -11,9 +11,9 @@ _Context: ISS_
 ### [The Willacy County Correctional Center in Willacy County, Texas is emptied of thousands of inmates the day after a riot makes it uninhabitable. ](/news/2015/02/21/the-willacy-county-correctional-center-in-willacy-county-texas-is-emptied-of-thousands-of-inmates-the-day-after-a-riot-makes-it-uninhabitab.md)
 Up to 2,800 other prisoners will be moved to other facilities, as talks continue with several hundred inmates who took control of part of a prison.
 
-##### President
+##### Peruvian President
 ### [The President of Peru Ollanta Humala recalls the ambassador to Chile over spying allegations. ](/news/2015/02/21/the-president-of-peru-ollanta-humala-recalls-the-ambassador-to-chile-over-spying-allegations.md)
-_Context: Chile, Ollanta Humala, President_
+_Context: Chile, Ollanta Humala, Peruvian President_
 
 ##### War in Donbass
 ### [The United States and United Kingdom discuss imposing additional sanctions on Russia over the breach of the ceasefire. ](/news/2015/02/21/the-united-states-and-united-kingdom-discuss-imposing-additional-sanctions-on-russia-over-the-breach-of-the-ceasefire.md)
@@ -33,7 +33,7 @@ _Context: Brazil, General Motors_
 
 ##### United Steelworkers
 ### [ The United Steelworkers union notifies the owner of the largest refinery in the United States that its members are on strike. The notification to Motiva constitutes a major escalation of ongoing labor-management confrontation in that industry. ](/news/2015/02/21/the-united-steelworkers-union-notifies-the-owner-of-the-largest-refinery-in-the-united-states-that-its-members-are-on-strike-the-notificat.md)
-_Context: Motiva, U.S., United Steelworkers, refinery_
+_Context: Motiva, United States, United Steelworkers, refinery_
 
 ##### Islamic State in Iraq and the Levant
 ### [The Turkish media reports that the Turkish Army has sent troops into Syria to evacuate troops and artefacts from the Tomb of Suleyman Shah in the Aleppo Governorate which has been under threat from Islamic State for several months. One soldier has reportedly been killed. ](/news/2015/02/21/the-turkish-media-reports-that-the-turkish-army-has-sent-troops-into-syria-to-evacuate-troops-and-artefacts-from-the-tomb-of-suleyman-shah-i.md)

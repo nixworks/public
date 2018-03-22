@@ -19,7 +19,7 @@ Two space station astronauts popped in a new pump during a rare Christmas Eve sp
 ### [Heavy winds and rain disrupt transportation and cut power in parts of France and the United Kingdom, bringing the death toll of the last two days of storms to 6. ](/news/2013/12/24/heavy-winds-and-rain-disrupt-transportation-and-cut-power-in-parts-of-france-and-the-united-kingdom-bringing-the-death-toll-of-the-last-two.md)
 Hurricane-force winds andtorrential rain disrupted transport networks and cut powersupplies in Britain and France on Tuesday, one of the busiesttravel days of the year just before Christmas, pushing the deathtoll to at least six people.
 
-##### United Kingdom
+##### UK
 ### [The United Kingdom pledges US$1 billion for the Philippines to help with the reconstruction due to the destruction of Typhoon Haiyan. ](/news/2013/12/24/the-united-kingdom-pledges-us-1-billion-for-the-philippines-to-help-with-the-reconstruction-due-to-the-destruction-of-typhoon-haiyan.md)
 The United Kingdom yesterday pledged an additional P1.091 billion, increasing its total contribution to over P5.4 billion to start the long-term recovery and restoration of livelihood and buildings destroyed by Super Typhoon Yolanda (Haiyan). 
 

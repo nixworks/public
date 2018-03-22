@@ -35,7 +35,7 @@ A Dutch tourist has confessed to killing a British fitness instructor on a Kashm
 ### [Egypt President Mohamed Morsi condemns sectarian violence and orders a probe after one person is killed in clashes at the Cairo headquarters of the Coptic Christian pope. ](/news/2013/04/8/egypt-president-mohamed-morsi-condemns-sectarian-violence-and-orders-a-probe-after-one-person-is-killed-in-clashes-at-the-cairo-headquarters.md)
 President Morsi orders probe after at least two people killed in clashes at Cairo headquarters of Coptic Christian pope.
 
-##### U.S.
+##### United States
 ### [United States Secretary of State John Kerry meets Palestinian Authority President Mahmoud Abbas in Ramallah and urges him to restart peace talks, before holding talks with the Israeli Prime Minister Benjamin Netanyahu. ](/news/2013/04/8/united-states-secretary-of-state-john-kerry-meets-palestinian-authority-president-mahmoud-abbas-in-ramallah-and-urges-him-to-restart-peace-t.md)
 US secretary of state meets Palestinian Authority president in Ramallah and is due to hold talks with Israeli PM.
 
@@ -53,11 +53,11 @@ _Context: Caribou Coffee, Chicago_
 
 ##### Australia
 ### [Australian Prime Minister Julia Gillard, on a trip to Shanghai, China, announces that the Australian dollar is set to trade directly with the Chinese yuan, becoming the third currency to do so. ](/news/2013/04/8/australian-prime-minister-julia-gillard-on-a-trip-to-shanghai-china-announces-that-the-australian-dollar-is-set-to-trade-directly-with-th.md)
-_Context: A$, Australia, Australia-China relations, China, Julia Gillard, Prime Minister, Shanghai, currency, yuan_
+_Context: A$, Australia, Australia-China relations, Chinese, Julia Gillard, Prime Minister, Shanghai, currency, yuan_
 
-##### China
+##### Chinese
 ### [Chinese President Xi Jinping opens the Boao Forum for Asia in Boao, Hainan, by calling on entrepreneurs to form a united voice and vision for the common development of Asia. ](/news/2013/04/8/chinese-president-xi-jinping-opens-the-boao-forum-for-asia-in-boao-hainan-by-calling-on-entrepreneurs-to-form-a-united-voice-and-vision-fo.md)
-_Context: Asia, Boao, Boao Forum for Asia, China, Hainan, Xi Jinping, entrepreneur, president_
+_Context: Asia, Boao, Boao Forum for Asia, Chinese, Hainan, Xi Jinping, entrepreneur, president_
 
 ##### Spanish
 ### [Spanish actress and singer Sara Montiel dies in her Madrid residence at the age of 85. ](/news/2013/04/8/spanish-actress-and-singer-sara-montiel-dies-in-her-madrid-residence-at-the-age-of-85.md)

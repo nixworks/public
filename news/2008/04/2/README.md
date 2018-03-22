@@ -35,7 +35,7 @@ _Context: Kosovo, Lipljan, Serbia, Serbian_
 
 ##### United States House of Representatives
 ### [ The United States House of Representatives votes to provide $50 billion over five years to fight AIDS, tuberculosis and malaria in Africa and other third world areas. ](/news/2008/04/2/the-united-states-house-of-representatives-votes-to-provide-50-billion-over-five-years-to-fight-aids-tuberculosis-and-malaria-in-africa-a.md)
-_Context: $, AIDS, Africa, United States House of Representatives, malaria, tuberculosis_
+_Context: AIDS, Africa, US$, United States House of Representatives, malaria, tuberculosis_
 
 ##### Human
 ### [ A cross human-cow embryo survives a third straight day after being fertilized at Newcastle University, England. A director for embryonic stem cell laboratories at the Australian Stem Cell Centre said that the "99 per cent human" embryo could improve research within the field of human diseases. The Catholic Church in England however said that the creation was "monstrous" and says that the later destruction of it is unethical. ](/news/2008/04/2/a-cross-human-cow-embryo-survives-a-third-straight-day-after-being-fertilized-at-newcastle-university-england-a-director-for-embryonic-st.md)

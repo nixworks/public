@@ -15,7 +15,7 @@ Would Ice Age man understand us? It depends on the words we use. Digging through
 ### [A new study by the University of California, Davis suggests that all Europeans are related to small group of ancestors dating back only 1,000 years. ](/news/2013/05/7/a-new-study-by-the-university-of-california-davis-suggests-that-all-europeans-are-related-to-small-group-of-ancestors-dating-back-only-1-00.md)
 Researchers claim people from all corners of the European continent share a common genetic footprint that dates back just a mere thousand years ago.
 
-##### United Kingdom
+##### UK
 ### [The United Kingdom's Queen Elizabeth II announces she will miss a Commonwealth meeting for the first time in 40 years. Prince Charles will attend on her behalf. ](/news/2013/05/7/the-united-kingdom-s-queen-elizabeth-ii-announces-she-will-miss-a-commonwealth-meeting-for-the-first-time-in-40-years-prince-charles-will-a.md)
 LONDON &ndash; Ending four decades of perfect attendance, Queen Elizabeth II will skip the biennial meeting of Commonwealth leaders later this year as part of a rethink by palace officials of...
 
@@ -79,9 +79,9 @@ A gas tanker explodes on a highway in the Mexico City suburb of Ecatepec, killin
 ### [Mayon Volcano erupts in the Philippines killing four mountain climbers and requiring four other climbers trapped near the summit to be rescued. ](/news/2013/05/7/mayon-volcano-erupts-in-the-philippines-killing-four-mountain-climbers-and-requiring-four-other-climbers-trapped-near-the-summit-to-be-rescu.md)
 Volcano in Philippines erupts into life, killing four climbers and trapping others near the crater.
 
-##### China
+##### Chinese
 ### [China's April import and export figures beat expectations, potentially easing concerns that its economy is lagging. ](/news/2013/05/7/china-s-april-import-and-export-figures-beat-expectations-potentially-easing-concerns-that-its-economy-is-lagging.md)
-_Context: China, export, import_
+_Context: Chinese, export, import_
 
 ##### Dow Jones Industrial Average
 ### [The Dow Jones Industrial Average closes above the 15,000 mark for the first time, setting a record. The S&P 500, up 0.5%, sets a record high as well. ](/news/2013/05/7/the-dow-jones-industrial-average-closes-above-the-15-000-mark-for-the-first-time-setting-a-record-the-s-p-500-up-0-5-sets-a-record-high.md)
@@ -97,7 +97,7 @@ _Context: Microsoft, Windows 8, operating system_
 
 ##### Bank of China
 ### [The Bank of China halts business with a North Korean bank accused by the United States of financing Pyongyang's missile and nuclear programs. ](/news/2013/05/7/the-bank-of-china-halts-business-with-a-north-korean-bank-accused-by-the-united-states-of-financing-pyongyang-s-missile-and-nuclear-programs.md)
-_Context: Bank of China, North Korea, North Korea's nuclear program, U.S._
+_Context: Bank of China, North Korea, North Korea's nuclear program, United States_
 
 ##### Americans
 ### [American As I Lay Dying frontman and lead vocalist Tim Lambesis is arrested on charges of attempting to hire a hitman. ](/news/2013/05/7/american-as-i-lay-dying-frontman-and-lead-vocalist-tim-lambesis-is-arrested-on-charges-of-attempting-to-hire-a-hitman.md)

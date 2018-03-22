@@ -31,7 +31,7 @@ Pirates holding a Danish freighter off the Somali coast are demanding a $US1.5 m
 ### [ The United Nations suspends a Moroccan peacekeeping contingent in the Cte d'Ivoire following allegations of widespread sexual abuse. ](/news/2007/07/21/the-united-nations-suspends-a-moroccan-peacekeeping-contingent-in-the-cote-d-ivoire-following-allegations-of-widespread-sexual-abuse.md)
 _Context: Cte d'Ivoire, Morocco, United Nations, peacekeeping_
 
-##### U.S.
+##### United States
 ### [ United States forces attack an insurgent position in Hussainiya a Shiite suburb north of Baghdad, inflicting casualties. ](/news/2007/07/21/united-states-forces-attack-an-insurgent-position-in-hussainiya-a-shiite-suburb-north-of-baghdad-inflicting-casualties.md)
 The deaths occurred during an American attack on a Shiite area on the outskirts of northern Baghdad late Friday and early Saturday. 
 
@@ -41,7 +41,7 @@ _Context: Mars Exploration Rover, Martian dust storm, NASA_
 
 ##### Flood
 ### [ The death toll of recent floods in China rises to 40. ](/news/2007/07/21/the-death-toll-of-recent-floods-in-china-rises-to-40.md)
-_Context: China, flood_
+_Context: Chinese, flood_
 
 ##### UK
 ### [ In the UK, the Royal Air Force has one of its busiest weekends in peacetime rescuing hundreds of people from flooding after days of heavy rain lead to widespread flooding. ](/news/2007/07/21/in-the-uk-the-royal-air-force-has-one-of-its-busiest-weekends-in-peacetime-rescuing-hundreds-of-people-from-flooding-after-days-of-heavy-r.md)

@@ -63,9 +63,9 @@ _Context: Ceann Comhairle, Irish, John O'Donoghue, Samus Kirk_
 ### [ Czech President Vclav Klaus tells his supporters he will never sign the Treaty of Lisbon. ](/news/2009/10/13/czech-president-vaclav-klaus-tells-his-supporters-he-will-never-sign-the-treaty-of-lisbon.md)
 _Context: Czech Republic, President, Treaty of Lisbon, Vclav Klaus_
 
-##### Norway
+##### Norwegian
 ### [ Members of the Norwegian Nobel Peace Prize jury speak out in defense of selecting U.S. President Barack Obama for the award. ](/news/2009/10/13/members-of-the-norwegian-nobel-peace-prize-jury-speak-out-in-defense-of-selecting-u-s-president-barack-obama-for-the-award.md)
-_Context: Barack Obama, Nobel Peace Prize, Norway_
+_Context: Barack Obama, Nobel Peace Prize, Norwegian_
 
 ##### Stockholm
 ### [ The planned 200 million US$ rebuilding and expansion of Stockholm's central library, built by architect Gunnar Asplund, is cancelled. ](/news/2009/10/13/the-planned-200-million-us-rebuilding-and-expansion-of-stockholm-s-central-library-built-by-architect-gunnar-asplund-is-cancelled.md)

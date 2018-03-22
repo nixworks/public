@@ -17,7 +17,7 @@ The UK returns to recession, after a sharp fall in construction leads to the eco
 
 ##### South Korea
 ### [South Korean retailers cease selling beef from the United States after a case of mad cow disease is reported. ](/news/2012/04/25/south-korean-retailers-cease-selling-beef-from-the-united-states-after-a-case-of-mad-cow-disease-is-reported.md)
-_Context: South Korea, U.S., mad cow disease_
+_Context: South Korea, United States, mad cow disease_
 
 ##### South Sudan
 ### [South Sudan releases Sudanese prisoners of war as border clashes between the two states seem to abate. ](/news/2012/04/25/south-sudan-releases-sudanese-prisoners-of-war-as-border-clashes-between-the-two-states-seem-to-abate.md)

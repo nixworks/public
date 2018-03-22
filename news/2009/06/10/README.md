@@ -25,7 +25,7 @@ _Context: Burma, Internal conflict in Burma, Karen, Karen state, Myanmar Army, R
 
 ##### Palau
 ### [ Palau agrees to accept up to 17 Chinese Uighurs from Guantanamo Bay detention camp. ](/news/2009/06/10/palau-agrees-to-accept-up-to-17-chinese-uighurs-from-guantanamo-bay-detention-camp.md)
-_Context: China, Guantanamo Bay detention camp, Palau, Uyghur_
+_Context: Chinese, Guantanamo Bay detention camp, Palau, Uyghur_
 
 ##### United Nations Security Council
 ### [ The United Nations Security Council, along with Japan and South Korea, agrees a draft resolution following North Korea's recent nuclear and missile tests. ](/news/2009/06/10/the-united-nations-security-council-along-with-japan-and-south-korea-agrees-a-draft-resolution-following-north-korea-s-recent-nuclear-and.md)
@@ -37,7 +37,7 @@ _Context: Russia, Shchuchye, Kurgan Oblast, nerve agent_
 
 ##### Strike
 ### [ A two-day strike by the United Kingdom National Union of Rail, Maritime and Transport Workers disrupts train services in London. ](/news/2009/06/10/a-two-day-strike-by-the-united-kingdom-national-union-of-rail-maritime-and-transport-workers-disrupts-train-services-in-london.md)
-_Context: London, National Union of Rail, Maritime and Transport Workers, United Kingdom, strike_
+_Context: London, National Union of Rail, Maritime and Transport Workers, UK, strike_
 
 ##### Demonstration
 ### [ Massive demonstrations are held in various places in the Philippines against the passage of the Constituent Assembly to amend the Constitution. ](/news/2009/06/10/massive-demonstrations-are-held-in-various-places-in-the-philippines-against-the-passage-of-the-constituent-assembly-to-amend-the-constitut.md)

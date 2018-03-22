@@ -19,9 +19,9 @@ _Context: Communist Party of China, Ji Jianye, Nanjing, Supreme People's Procura
 ### [The European Union removes Hamas from its list of terrorist organizations. ](/news/2014/12/17/the-european-union-removes-hamas-from-its-list-of-terrorist-organizations.md)
 The EU General Court has ordered that the Palestinian militant group Hamas be removed from the bloc’s terror blacklist. The move comes over four years after Hamas appealed its terror designation before the EU.
 
-##### U.S.
+##### United States
 ### [The United States and Cuba re-establish diplomatic relations after severing them 55 years ago. An American embassy will open in Havana and talks to lift the embargo will begin. ](/news/2014/12/17/the-united-states-and-cuba-re-establish-diplomatic-relations-after-severing-them-55-years-ago-an-american-embassy-will-open-in-havana-and-t.md)
-_Context: Cuba, Cuba-United States relations, Havana, U.S., United States embargo against Cuba, embassy in Havana_
+_Context: Cuba, Cuba-United States relations, Havana, United States, United States embargo against Cuba, embassy in Havana_
 
 ##### Repsol
 ### [Spanish energy company Repsol acquires Canadian energy producer Talisman Energy for $13 billion including debt. ](/news/2014/12/17/spanish-energy-company-repsol-acquires-canadian-energy-producer-talisman-energy-for-13-billion-including-debt.md)
