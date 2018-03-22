@@ -23,6 +23,10 @@ _Context: 2017-18 Spanish constitutional crisis, Catalan, Jordi Sanchez i Picany
 ### [Myanmar President Htin Kyaw resigns due to ill health. Vice-President Myint Swe, a former general, will become acting president until a new president is chosen. ](/news/2018/03/21/myanmar-president-htin-kyaw-resigns-due-to-ill-health-vice-president-myint-swe-a-former-general-will-become-acting-president-until-a-new.md)
 _Context: Htin Kyaw, Myanmar President, Myint Swe, Politics of Myanmar_
 
+##### Crime in the United Kingdom
+### [James Ibori, a former governor of Delta State, Nigeria, launches a bid to overturn his guilty pleas on corruption charges in the UK alleging police corruption. ](/news/2018/03/21/james-ibori-a-former-governor-of-delta-state-nigeria-launches-a-bid-to-overturn-his-guilty-pleas-on-corruption-charges-in-the-uk-alleging.md)
+James Ibori, a Nigerian politician who spent years in UK jails after pleading guilty to laundering a stolen fortune in Britain, launched an appeal against his conviction on Wednesday, alleging corrupt
+
 ##### Dapchi schoolgirls kidnapping
 ### [Boko Haram releases most of the 110 Nigerian schoolgirls it had kidnapped in February 2018, and warns against sending them back to school. ](/news/2018/03/21/boko-haram-releases-most-of-the-110-nigerian-schoolgirls-it-had-kidnapped-in-february-2018-and-warns-against-sending-them-back-to-school.md)
 Six girls are still unaccounted for
@@ -36,7 +40,7 @@ _Context: Austin police officers, Austin serial bombings_
 The Public Order and Safety (Special Powers) Act aims to reduce the risk of security operations being compromised by unauthorised communications.
 
 ##### Poisoning of Sergei and Yulia Skripal
-### [Russia holds a briefing on the case for all foreign diplomats in Moscow, where it accuses the United Kingdom of withholding evidence. ](/news/2018/03/21/russia-holds-a-briefing-on-the-case-for-all-foreign-diplomats-in-moscow-where-it-accuses-the-united-kingdom-of-withholding-evidence.md)
+### [Russia holds a briefing on the case for all foreign diplomats in Moscow, where it accuses the United Kingdom of "withholding evidence." ](/news/2018/03/21/russia-holds-a-briefing-on-the-case-for-all-foreign-diplomats-in-moscow-where-it-accuses-the-united-kingdom-of-withholding-evidence.md)
 British diplomat attending Moscow briefing to foreign ambassadors condemns its ‘disinformation’
 
 ##### Economy of the African Union
@@ -50,10 +54,6 @@ _Context: Austria, Austria-Israel relations, Israel, Karin Kneissl, Nazism_
 ##### Israel-Syria relations
 ### [Israel admits for the first time that it carried out an airstrike on a suspected nuclear reactor in Deir ez-Zor Governorate, Syria, on 6 September 2007. The strike allegedly killed ten North Korean workers. ](/news/2018/03/21/israel-admits-for-the-first-time-that-it-carried-out-an-airstrike-on-a-suspected-nuclear-reactor-in-deir-ez-zor-governorate-syria-on-6-sep.md)
 Israel for the first time admitted that it bombed a suspected Syrian nuclear reactor in 2007 and said on Wednesday the strike should be a warning to Iran that it would not be allowed to develop nuclear weapons.
-
-##### Ballymun
-### [A fire breaks out at a hotel in Ballymun, Ireland, near Dublin Airport. No casualties were reported, and the cause is unknown. ](/news/2018/03/21/a-fire-breaks-out-at-a-hotel-in-ballymun-ireland-near-dublin-airport-no-casualties-were-reported-and-the-cause-is-unknown.md)
-Several units of the Dublin Fire Brigade are dealing with a serious fire at a hotel in Ballymun.
 
 ##### 2015 Shoreham Airshow crash
 ### [The Crown Prosecution Service charges pilot Andrew Hill with 11 counts of manslaughter by gross negligence and one count of endangering an aircraft over an accident at Shoreham Airshow in England. ](/news/2018/03/21/the-crown-prosecution-service-charges-pilot-andrew-hill-with-11-counts-of-manslaughter-by-gross-negligence-and-one-count-of-endangering-an-a.md)

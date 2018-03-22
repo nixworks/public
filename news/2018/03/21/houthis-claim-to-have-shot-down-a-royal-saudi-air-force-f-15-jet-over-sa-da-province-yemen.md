@@ -11,7 +11,7 @@ Formats: [HTML](/news/2018/03/21/houthis-claim-to-have-shot-down-a-royal-saudi-a
 
 ### Sources:
 
-1. [Sputnik](https://sputniknews.com/middleeast/201803211062773665-houthi-rebels-saudi-arabia-jet/)
+1. [Sputnik News](https://sputniknews.com/middleeast/201803211062773665-houthi-rebels-saudi-arabia-jet/)
 1. [Cover Image](https://cdn1.img.sputniknews.com/images/105469/91/1054699122.jpg)
 
 ### Changes:
