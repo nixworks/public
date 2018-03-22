@@ -31,6 +31,10 @@ _Context: Nadiya Savchenko, Ukrainian, Ukrainian crisis_
 ### [Afghan immigrant Hussein Khavari is convicted of rape and murder in a case that provoked widespread discussion of refugee immigration to Germany. ](/news/2018/03/22/afghan-immigrant-hussein-khavari-is-convicted-of-rape-and-murder-in-a-case-that-provoked-widespread-discussion-of-refugee-immigration-to-ger.md)
 The rape and murder of a medical student in 2016 fuelled tensions over the mass influx of migrants.
 
+##### China-United States relations
+### [U.S. President Donald Trump imposes tariffs on US$60 billion of Chinese goods, while also limiting China's ability to invest in the U.S. technology industry. ](/news/2018/03/22/u-s-president-donald-trump-imposes-tariffs-on-us-60-billion-of-chinese-goods-while-also-limiting-chinaas-ability-to-invest-in-the-u-s-t.md)
+White House prepares target list of trade actions punishing Beijing for forcing companies to surrender trade secrets as price of doing business in China.
+
 ##### History of autonomous cars
 ### [Police release onboard video from an autonomous Uber car that fatally struck a pedestrian crossing the road in Tempe, Arizona. ](/news/2018/03/22/police-release-onboard-video-from-an-autonomous-uber-car-that-fatally-struck-a-pedestrian-crossing-the-road-in-tempe-arizona.md)
 Police release footage of the moments leading up to a crash involving a self-driving car in Arizona.
@@ -40,8 +44,12 @@ Police release footage of the moments leading up to a crash involving a self-dri
 Six people have been killed in an explosion at a chemical plant in the Czech Republic.
 
 ##### Economic policy of Donald Trump
-### [US Trade Representative Robert Lighthizer tells a Senate panel that President Trump has decided to "pause" tariffs on steel and aluminium imports from the European Union, Argentina, Australia, Brazil, Canada, Mexico, and South Korea. ](/news/2018/03/22/us-trade-representative-robert-lighthizer-tells-a-senate-panel-that-president-trump-has-decided-to-pause-tariffs-on-steel-and-aluminium-im.md)
+### [U.S. Trade Representative Robert Lighthizer tells a Senate panel that President Donald Trump has decided to "pause" tariffs on steel and aluminium imports from the European Union, Argentina, Australia, Brazil, Canada, Mexico, and South Korea. ](/news/2018/03/22/u-s-trade-representative-robert-lighthizer-tells-a-senate-panel-that-president-donald-trump-has-decided-to-pause-tariffs-on-steel-and-alu.md)
 The US trade representative says the import duties have been &quot;paused&quot; while further talks take place.
+
+##### Atlanta
+### [The city government of Atlanta, Georgia, United States, experiences an outage on some official websites, suspected to be caused by a cyberattack. ](/news/2018/03/22/the-city-government-of-atlanta-georgia-united-states-experiences-an-outage-on-some-official-websites-suspected-to-be-caused-by-a-cyberat.md)
+The City of Atlanta has tweeted that they are currently experiencing outages on some of their customer applications. 
 
 ##### Somali Civil War (2009-present)
 ### [A car bomb blast in Mogadishu, near the Weheliye hotel in the Somali capital, kills at least 14 people and injures 10 others. Al-Shabab claims responsibility for the blast. ](/news/2018/03/22/a-car-bomb-blast-in-mogadishu-near-the-weheliye-hotel-in-the-somali-capital-kills-at-least-14-people-and-injures-10-others-al-shabab-clai.md)
