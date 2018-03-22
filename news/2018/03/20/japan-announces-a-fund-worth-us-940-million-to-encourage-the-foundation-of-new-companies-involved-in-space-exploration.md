@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/20/japan-announces-a-fund-worth-us-940-million-to-
 
 ### [2018-03-20](/news/2018/03/20/index.md)
 
-##### Japan
+##### Japan's space development
 # Japan announces a fund worth US$940 million to encourage the foundation of new companies involved in space exploration. 
 
 The Japanese government is offering $940 million to fund space start-ups, the government announced Tuesday in Tokyo.
@@ -15,8 +15,8 @@ The Japanese government is offering $940 million to fund space start-ups, the go
 
 ### Related:
 
-1. [Two connected stabbings occurred in Vienna, Austria: three people were seriously injured outside a Japanese restaurant, and one man in a later stabbing. The perpetrator was arrested. ](/news/2018/03/7/two-connected-stabbings-occurred-in-vienna-austria-three-people-were-seriously-injured-outside-a-japanese-restaurant-and-one-man-in-a-lat.md) _Context: Japan_
-2. [Japan, China, and South Korea agree in principle to hold a trilateral summit in May. ](/news/2018/03/20/japan-china-and-south-korea-agree-in-principle-to-hold-a-trilateral-summit-in-may.md) _Context: Japan_
-3. [A study commissioned by the UK government concludes marine plastic debris may treble within ten years, and predicts the "ocean economy" will double to US$3 trillion (GBP2 trillion) by 2030. ](/news/2018/03/20/a-study-commissioned-by-the-uk-government-concludes-marine-plastic-debris-may-treble-within-ten-years-and-predicts-the-ocean-economy-will.md) _Context: US$_
-4. [Anonymous Japanese government sources say that Japan is considering a summit meeting between Japanese Prime Minister Shinzo Abe and North Korean leader Kim Jong-Un. ](/news/2018/03/13/anonymous-japanese-government-sources-say-that-japan-is-considering-a-summit-meeting-between-japanese-prime-minister-shinza-abe-and-north-k.md) _Context: Japan_
-5. [A court in Thailand awards a Japanese man paternity rights over 13 of his children from Thai surrogate mothers. ](/news/2018/02/20/a-court-in-thailand-awards-a-japanese-man-paternity-rights-over-13-of-his-children-from-thai-surrogate-mothers.md) _Context: Japan_
+1. [Japan allocates 820 billion yen ($6.8 billion) for creating a nearly 400-kilometer (250-mile) chain of cement seawalls, at places nearly five stories high, against future tsunami disasters such as the one that struck the country's northeastern coast four years ago. ](/news/2015/03/22/japan-allocates-820-billion-yen-6-8-billion-for-creating-a-nearly-400-kilometer-250-mile-chain-of-cement-seawalls-at-places-nearly-fiv.md) _Context: Japan, US$_
+2. [The United States dollar reaches a 15-year low against the Japanese yen and depreciates against a range of other currencies due to concerns about further quantitative easing by the United States Federal Reserve. ](/news/2010/10/7/the-united-states-dollar-reaches-a-15-year-low-against-the-japanese-yen-and-depreciates-against-a-range-of-other-currencies-due-to-concerns.md) _Context: Japan, US$_
+3. [ China's foreign exchange reserves have reached a record of US$ 2.13 trillion, which is more than twice the size of Japan's&mdash;the second-biggest holder. ](/news/2009/07/15/china-s-foreign-exchange-reserves-have-reached-a-record-of-us-2-13-trillion-which-is-more-than-twice-the-size-of-japan-s-mdash-the-second.md) _Context: Japan, US$_
+4. [ Japan announces a US$150-billion economic stimulus package. ](/news/2009/04/10/japan-announces-a-us-150-billion-economic-stimulus-package.md) _Context: Japan, US$_
+5. [ Businessman Kazutsugi Nami is arrested by Japanese police over a US$1.4-billion investment scam. ](/news/2009/02/5/businessman-kazutsugi-nami-is-arrested-by-japanese-police-over-a-us-1-4-billion-investment-scam.md) _Context: Japan, US$_

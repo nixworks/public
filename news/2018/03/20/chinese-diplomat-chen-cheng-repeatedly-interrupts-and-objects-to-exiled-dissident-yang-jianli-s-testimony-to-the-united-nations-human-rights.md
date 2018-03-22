@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/20/chinese-diplomat-chen-cheng-repeatedly-interrup
 
 ### [2018-03-20](/news/2018/03/20/index.md)
 
-##### Chinese
+##### Human rights in China
 # Chinese diplomat Chen Cheng repeatedly interrupts and objects to exiled dissident Yang Jianli's testimony to the United Nations Human Rights Council. 
 
 Yang Jianli, a dissident in exile in the US, was disrupted seconds into his remarks by Chen Cheng of China’s diplomatic mission
@@ -16,8 +16,8 @@ Yang Jianli, a dissident in exile in the US, was disrupted seconds into his rema
 
 ### Related:
 
-1. [China, Russia, Cuba, Saudi Arabia, Vietnam, and Algeria are elected to the United Nations Human Rights Council. ](/news/2013/11/13/china-russia-cuba-saudi-arabia-vietnam-and-algeria-are-elected-to-the-united-nations-human-rights-council.md) _Context: Chinese, United Nations_
-2. [China condemns a United Nations report that says Chinese bullets were used in attacks on international peacekeeping forces in the Darfur region of Sudan. ](/news/2010/10/21/china-condemns-a-united-nations-report-that-says-chinese-bullets-were-used-in-attacks-on-international-peacekeeping-forces-in-the-darfur-reg.md) _Context: Chinese, United Nations_
-3. [ Liberia drops diplomatic relations with the Taiwan and re-establishes ties with China. This move was seen largely as a result of China's lobbying in the United Nations, which is planning to deploy a peacekeeping force to Liberia. Taiwanese Foreign Minister Eugene Chien offers to resign as a result.](/news/2003/10/12/liberia-drops-diplomatic-relations-with-the-taiwan-and-re-establishes-ties-with-china-this-move-was-seen-largely-as-a-result-of-china-s-lo.md) _Context: Chinese, United Nations_
-4. [The USS "Carl Vinson" enters Vietnam's Da Nang Port, becoming the first U.S. aircraft carrier to visit a Vietnamese port since the Vietnam War in 1975. The visit comes amid tensions in the region with China. ](/news/2018/03/5/the-uss-carl-vinson-enters-vietnam-s-da-nang-port-becoming-the-first-u-s-aircraft-carrier-to-visit-a-vietnamese-port-since-the-vietnam-w.md) _Context: Chinese_
-5. [A senior Chinese diplomat says that China does not want a trade war with the United States after U.S. President Donald Trump announced a plan to put tariffs on steel and aluminium imports. ](/news/2018/03/4/a-senior-chinese-diplomat-says-that-china-does-not-want-a-trade-war-with-the-united-states-after-u-s-president-donald-trump-announced-a-pla.md) _Context: Chinese_
+1. [Prominent Chinese dissident and Nobel Peace Prize winner Liu Xiaobo dies. ](/news/2017/07/13/prominent-chinese-dissident-and-nobel-peace-prize-winner-liu-xiaobo-dies.md) _Context: Chinese, Human rights in China_
+2. [Nobel Peace Laureate Liu Xiaobo, who has been incarcerated in China for organizing the pro-democracy manifesto "Charter 08," is suffering from late-stage liver cancer which is worsening. The Chinese hospital treating him and foreign doctors, who examined Liu the weekend, disagree on future treatment. Germany, the United States, UK, and other countries have appealed that Liu be allowed to go to the hospital of his choice. ](/news/2017/07/12/nobel-peace-laureate-liu-xiaobo-who-has-been-incarcerated-in-china-for-organizing-the-pro-democracy-manifesto-charter-08-is-suffering-fr.md) _Context: Chinese, Human rights in China_
+3. [Chinese political activist and Nobel Peace Prize laureate Liu Xiaobo is released from prison on medical parole after being diagnosed with terminal liver cancer. ](/news/2017/06/26/chinese-political-activist-and-nobel-peace-prize-laureate-liu-xiaobo-is-released-from-prison-on-medical-parole-after-being-diagnosed-with-te.md) _Context: Chinese, Human rights in China_
+4. [Miss World Canada Anastasia Lin says that she is prevented from competing in China by the Chinese authorities after she spoke up against human rights abuses in the country. ](/news/2015/11/21/miss-world-canada-anastasia-lin-says-that-she-is-prevented-from-competing-in-china-by-the-chinese-authorities-after-she-spoke-up-against-hum.md) _Context: Chinese, Human rights in China_
+5. [China, Russia, Cuba, Saudi Arabia, Vietnam, and Algeria are elected to the United Nations Human Rights Council. ](/news/2013/11/13/china-russia-cuba-saudi-arabia-vietnam-and-algeria-are-elected-to-the-united-nations-human-rights-council.md) _Context: Chinese, United Nations_

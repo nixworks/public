@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/20/indian-external-affairs-minister-sushma-swaraj-
 
 ### [2018-03-20](/news/2018/03/20/index.md)
 
-##### India
+##### Military activity of ISIL
 # Indian external affairs minister Sushma Swaraj tells Parliament DNA testing on remains in a mass grave in Iraq confirms 39 Indian nationals believed to have been kidnapped by ISIL have been killed. 
 
 Indian government says DNA analysis of remains prove that workers Isis kidnapped are dead

@@ -4,7 +4,7 @@ Formats: [HTML](2018/03/21/index.html)  [JSON](2018/03/21/index.json)  [XML](201
 ## [2018-03-21](/news/2018/03/21/index.md)
 
 ##### Discoveries of exoplanets
-### [Fifteen new alien worlds are discovered. Three exoplanets, larger than Earth, are also discovered around the dwarf star K2-155. Furthermore, a 3D climate simulation was created to find out if K2-155d has water. ](/news/2018/03/21/fifteen-new-alien-worlds-are-discovered-three-exoplanets-larger-than-earth-are-also-discovered-around-the-dwarf-star-k2-155-furthermore.md)
+### [Fifteen new exoplanets are discovered. Three of them, larger than Earth, are also discovered around the dwarf star K2-155. Furthermore, a 3D climate simulation was created to find out if K2-155d has water. ](/news/2018/03/21/fifteen-new-exoplanets-are-discovered-three-of-them-larger-than-earth-are-also-discovered-around-the-dwarf-star-k2-155-furthermore-a-3d.md)
 Recently, the researchers have discovered 15 new planets in the Universe. They are found around some cool stars called ‘red dwarfs’. What’s even more amazing is the fact that one of these exoplanet…
 
 ##### Antiguan general election, 2018
@@ -51,15 +51,19 @@ _Context: Austria, Austria-Israel relations, Israel, Karin Kneissl, Nazism_
 ### [Israel admits for the first time that it carried out an airstrike on a suspected nuclear reactor in Deir ez-Zor Governorate, Syria, on 6 September 2007. The strike allegedly killed ten North Korean workers. ](/news/2018/03/21/israel-admits-for-the-first-time-that-it-carried-out-an-airstrike-on-a-suspected-nuclear-reactor-in-deir-ez-zor-governorate-syria-on-6-sep.md)
 Israel for the first time admitted that it bombed a suspected Syrian nuclear reactor in 2007 and said on Wednesday the strike should be a warning to Iran that it would not be allowed to develop nuclear weapons.
 
+##### Ballymun
+### [A fire breaks out at a hotel in Ballymun, Ireland, near Dublin Airport. No casualties were reported, and the cause is unknown. ](/news/2018/03/21/a-fire-breaks-out-at-a-hotel-in-ballymun-ireland-near-dublin-airport-no-casualties-were-reported-and-the-cause-is-unknown.md)
+Several units of the Dublin Fire Brigade are dealing with a serious fire at a hotel in Ballymun.
+
 ##### 2015 Shoreham Airshow crash
 ### [The Crown Prosecution Service charges pilot Andrew Hill with 11 counts of manslaughter by gross negligence and one count of endangering an aircraft over an accident at Shoreham Airshow in England. ](/news/2018/03/21/the-crown-prosecution-service-charges-pilot-andrew-hill-with-11-counts-of-manslaughter-by-gross-negligence-and-one-count-of-endangering-an-a.md)
 The pilot of an aircraft which crashed and killed 11 people has been charged with 11 counts of manslaughter by gross negligence.
 
-##### Eurocopter 120
+##### Accidents and incidents involving helicopters
 ### [A Eurocopter 120 helicopter carrying five people crashes into the sea near Hardy Reef off the Whitsunday Islands, Queensland, Australia. Two people are killed. ](/news/2018/03/21/a-eurocopter-120-helicopter-carrying-five-people-crashes-into-the-sea-near-hardy-reef-off-the-whitsunday-islands-queensland-australia-two.md)
 Eurocopter 120 was carrying five people when it went down near Hardy Reef in north Queensland
 
-##### Syria
+##### Syrian Civil War
 ### [The Syrian government and rebel forces reach an agreement to allow 7,500 people to evacuate from rebel-held Harasta, Eastern Ghouta. ](/news/2018/03/21/the-syrian-government-and-rebel-forces-reach-an-agreement-to-allow-7-500-people-to-evacuate-from-rebel-held-harasta-eastern-ghouta.md)
 Syrian state TV and Ahrar al-Sham rebel group say 7,500 people will evacuate Ghouta town of Harasta on Thursday.
 

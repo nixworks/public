@@ -3,11 +3,11 @@ Formats: [HTML](2018/03/20/index.html)  [JSON](2018/03/20/index.json)  [XML](201
 
 ## [2018-03-20](/news/2018/03/20/index.md)
 
-##### UK
+##### Marine debris
 ### [A study commissioned by the UK government concludes marine plastic debris may treble within ten years, and predicts the "ocean economy" will double to US$3 trillion (GBP2 trillion) by 2030. ](/news/2018/03/20/a-study-commissioned-by-the-uk-government-concludes-marine-plastic-debris-may-treble-within-ten-years-and-predicts-the-ocean-economy-will.md)
 But there are opportunities to cash in on the &quot;ocean economy&quot;, a major report for the UK government says.
 
-##### Japan
+##### Japan's space development
 ### [Japan announces a fund worth US$940 million to encourage the foundation of new companies involved in space exploration. ](/news/2018/03/20/japan-announces-a-fund-worth-us-940-million-to-encourage-the-foundation-of-new-companies-involved-in-space-exploration.md)
 The Japanese government is offering $940 million to fund space start-ups, the government announced Tuesday in Tokyo.
 
@@ -23,11 +23,11 @@ _Context: Extinction threshold, Northern white rhinoceros, Sudan_
 ### [Analysis of ancient ice cores extracted from Greenland dates an eruption on Eldgja volcano in Iceland. Iceland's largest eruption in the last 2,000 years was described in ancient poem Voluspa. ](/news/2018/03/20/analysis-of-ancient-ice-cores-extracted-from-greenland-dates-an-eruption-on-eldgja-volcano-in-iceland-iceland-s-largest-eruption-in-the-la.md)
 _Context: Eldgja, Greenland, Iceland, Norse mythology, Voluspa_
 
-##### Slovakia
+##### Politics of Slovakia
 ### [Protests continue in Slovakia after last week's collapse of the government, which included the resignation of Prime Minister Robert Fico. ](/news/2018/03/20/protests-continue-in-slovakia-after-last-week-s-collapse-of-the-government-which-included-the-resignation-of-prime-minister-robert-fico.md)
 An investigative journalist and his fiancée were killed, sparking a political upheaval. But that failed to quell the largest protests in the Central European country since the 1989 Velvet Revolution.
 
-##### Norwegian
+##### Politics of Norway
 ### [Norwegian justice minister Sylvi Listhaug resigns amid controversy over remarks on human rights and national security. ](/news/2018/03/20/norwegian-justice-minister-sylvi-listhaug-resigns-amid-controversy-over-remarks-on-human-rights-and-national-security.md)
 Sylvi Listhaug, who was poised to lose confidence vote over terrorism comment, complains of ‘witch-hunt’
 
@@ -71,7 +71,7 @@ Major victory for cross-party group as appeal judges say case raises point ‘of
 ### [Turkish President Recep Tayyip Erdogan asserts his nation will secure Northern Cyprus' access to natural hydrocarbon resources off the Cypriot coast. The comments come amid disputes as to sovereign rights and access to offshore resources on the island. ](/news/2018/03/20/turkish-president-recep-tayyip-erdoaan-asserts-his-nation-will-secure-northern-cyprus-access-to-natural-hydrocarbon-resources-off-the-cypr.md)
 Amid recent escalation in the Eastern Mediterranean that stemmed from unilateral moves by Greek Cyprus concerning hydrocarbon resources, Ankara continuously reiterates its position to protect its and Turkish Cyprus’s rights
 
-##### Chinese
+##### Human rights in China
 ### [Chinese diplomat Chen Cheng repeatedly interrupts and objects to exiled dissident Yang Jianli's testimony to the United Nations Human Rights Council. ](/news/2018/03/20/chinese-diplomat-chen-cheng-repeatedly-interrupts-and-objects-to-exiled-dissident-yang-jianli-s-testimony-to-the-united-nations-human-rights.md)
 Yang Jianli, a dissident in exile in the US, was disrupted seconds into his remarks by Chen Cheng of China’s diplomatic mission
 
@@ -119,7 +119,7 @@ _Context: Aircel, Economy of India, India, bankruptcy, wireless provider_
 ### [After a series of allegations of sexual misconduct against co-founder Harvey Weinstein, The Weinstein Company files for chapter 11 bankruptcy. The company also states that it will release all employees from a non-disclosure agreement which could prevent them from coming forward regarding the alleged misconduct of Weinstein. ](/news/2018/03/20/after-a-series-of-allegations-of-sexual-misconduct-against-co-founder-harvey-weinstein-the-weinstein-company-files-for-chapter-11-bankruptc.md)
 The studio co-founded by disgraced movie mogul Harvey Weinstein has been crippled by the sexual harassment and assault allegations that were first made against him late last year. 
 
-##### India
+##### Military activity of ISIL
 ### [Indian external affairs minister Sushma Swaraj tells Parliament DNA testing on remains in a mass grave in Iraq confirms 39 Indian nationals believed to have been kidnapped by ISIL have been killed. ](/news/2018/03/20/indian-external-affairs-minister-sushma-swaraj-tells-parliament-dna-testing-on-remains-in-a-mass-grave-in-iraq-confirms-39-indian-nationals.md)
 Indian government says DNA analysis of remains prove that workers Isis kidnapped are dead
 

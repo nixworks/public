@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/20/norwegian-justice-minister-sylvi-listhaug-resig
 
 ### [2018-03-20](/news/2018/03/20/index.md)
 
-##### Norwegian
+##### Politics of Norway
 # Norwegian justice minister Sylvi Listhaug resigns amid controversy over remarks on human rights and national security. 
 
 Sylvi Listhaug, who was poised to lose confidence vote over terrorism comment, complains of ‘witch-hunt’
