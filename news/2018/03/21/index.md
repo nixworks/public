@@ -71,6 +71,10 @@ _Context: Austria, Austria-Israel relations, Israel, Karin Kneissl, Nazism_
 ### [Israel admits for the first time that it carried out an airstrike on a suspected nuclear reactor in Deir ez-Zor Governorate, Syria, on 6 September 2007. The strike allegedly killed ten North Korean workers. ](/news/2018/03/21/israel-admits-for-the-first-time-that-it-carried-out-an-airstrike-on-a-suspected-nuclear-reactor-in-deir-ez-zor-governorate-syria-on-6-sep.md)
 Israel for the first time admitted that it bombed a suspected Syrian nuclear reactor in 2007 and said on Wednesday the strike should be a warning to Iran that it would not be allowed to develop nuclear weapons.
 
+##### History of autonomous cars
+### [Police release onboard video from an autonomous Uber car that fatally struck a pedestrian crossing the road in Tempe, Arizona. ](/news/2018/03/21/police-release-onboard-video-from-an-autonomous-uber-car-that-fatally-struck-a-pedestrian-crossing-the-road-in-tempe-arizona.md)
+Police release footage of the moments leading up to a crash involving a self-driving car in Arizona.
+
 ##### 2015 Shoreham Airshow crash
 ### [The Crown Prosecution Service charges pilot Andrew Hill with 11 counts of manslaughter by gross negligence and one count of endangering an aircraft over an accident at Shoreham Airshow in England. ](/news/2018/03/21/the-crown-prosecution-service-charges-pilot-andrew-hill-with-11-counts-of-manslaughter-by-gross-negligence-and-one-count-of-endangering-an-a.md)
 The pilot of an aircraft which crashed and killed 11 people has been charged with 11 counts of manslaughter by gross negligence.

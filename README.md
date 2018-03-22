@@ -23,6 +23,14 @@ President Erdoğan says he will not let natural reserves be exploited by Greek C
 ### [People in 150 places across France take to the streets peacefully in a general strike to protest President Macron's economic reforms. Railways, airways, schools and power generation are affected. ](/news/2018/03/22/people-in-150-places-across-france-take-to-the-streets-peacefully-in-a-general-strike-to-protest-president-macron-s-economic-reforms-railwa.md)
 _Context: France, President Macron's economic reforms, Protests against Emmanuel Macron, general strike_
 
+##### Malta
+### [Malta imposes a freeze on Pilatus Bank. The bank's Iranian chairman Ali Sadr Hashemi Nejad was arrested and charged in the United States earlier this week, accused of breaching U.S. sanctions against Iran. ](/news/2018/03/22/malta-imposes-a-freeze-on-pilatus-bank-the-bank-s-iranian-chairman-ali-sadr-hashemi-nejad-was-arrested-and-charged-in-the-united-states-ear.md)
+_Context: Ali Sadr Hashemi Nejad, Iran, Malta, Pilatus Bank_
+
+##### Peru
+### [A Peruvian court confirms it will consider a request to impose a travel ban on President Pedro Pablo Kuczynski if his resignation is confirmed by lawmakers, who are considering whether to accept it. Some politicians have vowed to resist the resignation in favour of instead impeaching Kuczynski. ](/news/2018/03/22/a-peruvian-court-confirms-it-will-consider-a-request-to-impose-a-travel-ban-on-president-pedro-pablo-kuczynski-if-his-resignation-is-confirm.md)
+_Context: Pedro Pablo Kuczynski, Peru_
+
 ##### Cow vigilante violence in India since 2014
 ### [An Indian court convicts eleven Hindus of murdering a Muslim man they discovered transporting a cow, sentencing them to life. It is the first successful prosecution of cow vigilantism violence in India. ](/news/2018/03/22/an-indian-court-convicts-eleven-hindus-of-murdering-a-muslim-man-they-discovered-transporting-a-cow-sentencing-them-to-life-it-is-the-firs.md)
 _Context: Cow vigilante violence in India since 2014, Hindus, India, Muslim_
@@ -43,13 +51,13 @@ _Context: Nadiya Savchenko, Ukrainian, Ukrainian crisis_
 ### [Afghan immigrant Hussein Khavari is convicted of rape and murder in a case that provoked widespread discussion of refugee immigration to Germany. ](/news/2018/03/22/afghan-immigrant-hussein-khavari-is-convicted-of-rape-and-murder-in-a-case-that-provoked-widespread-discussion-of-refugee-immigration-to-ger.md)
 The rape and murder of a medical student in 2016 fuelled tensions over the mass influx of migrants.
 
+##### Qatar
+### [Qatar's Interior Ministry releases a list of individuals and entities it says are linked to terrorism. Bahrain, Saudi Arabia, the United Arab Emirates, and Egypt, who had demanded the list amid tensions with Qatar, welcome its release but criticise the time taken to prepare it. ](/news/2018/03/22/qatar-s-interior-ministry-releases-a-list-of-individuals-and-entities-it-says-are-linked-to-terrorism-bahrain-saudi-arabia-the-united-ara.md)
+Saudi Arabia the UAE Bahrain and Egypt have long complained of Qatar s support for terror
+
 ##### China-United States relations
 ### [U.S. President Donald Trump imposes tariffs on US$60 billion of Chinese goods, while also limiting China's ability to invest in the U.S. technology industry. ](/news/2018/03/22/u-s-president-donald-trump-imposes-tariffs-on-us-60-billion-of-chinese-goods-while-also-limiting-chinaas-ability-to-invest-in-the-u-s-t.md)
 White House prepares target list of trade actions punishing Beijing for forcing companies to surrender trade secrets as price of doing business in China.
-
-##### History of autonomous cars
-### [Police release onboard video from an autonomous Uber car that fatally struck a pedestrian crossing the road in Tempe, Arizona. ](/news/2018/03/22/police-release-onboard-video-from-an-autonomous-uber-car-that-fatally-struck-a-pedestrian-crossing-the-road-in-tempe-arizona.md)
-Police release footage of the moments leading up to a crash involving a self-driving car in Arizona.
 
 ##### 2018 Unipetrol explosion
 ### [Six people are dead after an explosion at a Unipetrol plant in Kralupy nad Vltavou, Czech Republic. ](/news/2018/03/22/six-people-are-dead-after-an-explosion-at-a-unipetrol-plant-in-kralupy-nad-vltavou-czech-republic.md)
@@ -58,6 +66,10 @@ Six people have been killed in an explosion at a chemical plant in the Czech Rep
 ##### Economic policy of Donald Trump
 ### [U.S. Trade Representative Robert Lighthizer tells a Senate panel that President Donald Trump has decided to "pause" tariffs on steel and aluminium imports from the European Union, Argentina, Australia, Brazil, Canada, Mexico, and South Korea. ](/news/2018/03/22/u-s-trade-representative-robert-lighthizer-tells-a-senate-panel-that-president-donald-trump-has-decided-to-pause-tariffs-on-steel-and-alu.md)
 The US trade representative says the import duties have been &quot;paused&quot; while further talks take place.
+
+##### Harasta
+### [Evacuations of 7,500 people from defeated rebel-held town Harasta, Easter Ghouta begin. Rebels agreed with Syria and Russia for the displaced people to be exiled in Idlib. ](/news/2018/03/22/evacuations-of-7-500-people-from-defeated-rebel-held-town-harasta-easter-ghouta-begin-rebels-agreed-with-syria-and-russia-for-the-displace.md)
+Thousands of fighters to be deported after deal with Russian and Syrian officials
 
 ##### Atlanta
 ### [The city government of Atlanta, Georgia, United States, experiences an outage on some official websites, suspected to be caused by a cyberattack. ](/news/2018/03/22/the-city-government-of-atlanta-georgia-united-states-experiences-an-outage-on-some-official-websites-suspected-to-be-caused-by-a-cyberat.md)
@@ -142,6 +154,10 @@ _Context: Austria, Austria-Israel relations, Israel, Karin Kneissl, Nazism_
 ##### Israel-Syria relations
 ### [Israel admits for the first time that it carried out an airstrike on a suspected nuclear reactor in Deir ez-Zor Governorate, Syria, on 6 September 2007. The strike allegedly killed ten North Korean workers. ](/news/2018/03/21/israel-admits-for-the-first-time-that-it-carried-out-an-airstrike-on-a-suspected-nuclear-reactor-in-deir-ez-zor-governorate-syria-on-6-sep.md)
 Israel for the first time admitted that it bombed a suspected Syrian nuclear reactor in 2007 and said on Wednesday the strike should be a warning to Iran that it would not be allowed to develop nuclear weapons.
+
+##### History of autonomous cars
+### [Police release onboard video from an autonomous Uber car that fatally struck a pedestrian crossing the road in Tempe, Arizona. ](/news/2018/03/21/police-release-onboard-video-from-an-autonomous-uber-car-that-fatally-struck-a-pedestrian-crossing-the-road-in-tempe-arizona.md)
+Police release footage of the moments leading up to a crash involving a self-driving car in Arizona.
 
 ##### 2015 Shoreham Airshow crash
 ### [The Crown Prosecution Service charges pilot Andrew Hill with 11 counts of manslaughter by gross negligence and one count of endangering an aircraft over an accident at Shoreham Airshow in England. ](/news/2018/03/21/the-crown-prosecution-service-charges-pilot-andrew-hill-with-11-counts-of-manslaughter-by-gross-negligence-and-one-count-of-endangering-an-a.md)

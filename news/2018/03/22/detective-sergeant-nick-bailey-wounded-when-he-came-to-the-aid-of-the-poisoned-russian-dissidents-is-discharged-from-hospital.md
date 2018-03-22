@@ -14,7 +14,8 @@ Det Sgt Nick Bailey said life would &quot;probably never be the same&quot; after
 1. [BBC](http://www.bbc.co.uk/news/uk-43506232)
 2. [BBC](http://www.bbc.co.uk/news/uk-politics-43489457)
 3. [The Independent](https://www.independent.co.uk/news/uk/crime/nikolai-glushkov-inquest-live-updates-russia-businessman-murder-london-home-death-sergei-skripal-a8268226.html)
-3. [Cover Image](https://ichef.bbci.co.uk/news/1024/branded_news/DEFB/production/_100338075_policewiltshire.jpg)
+4. [The Independent](https://www.independent.co.uk/news/uk/home-news/sergei-skripal-yulia-nerve-agent-brain-damage-health-hospital-salisbury-a8269056.html)
+4. [Cover Image](https://ichef.bbci.co.uk/news/1024/branded_news/DEFB/production/_100338075_policewiltshire.jpg)
 
 ### Related:
 
