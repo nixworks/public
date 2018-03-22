@@ -1,11 +1,27 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/03/21/index.md)
+## [News](/news/2018/03/22/index.md)
+
+##### Unipetrol
+### [Six people are dead after an explosion at a Unipetrol plant in the Czech Republic. ](/news/2018/03/22/six-people-are-dead-after-an-explosion-at-a-unipetrol-plant-in-the-czech-republic.md)
+Six people have been killed in an explosion at a chemical plant in the Czech Republic.
+
+##### Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2018/03/21/index.md)
 
 ##### Discoveries of exoplanets
 ### [Fifteen new exoplanets are discovered. Three of them, larger than Earth, are also discovered around the dwarf star K2-155. Furthermore, a 3D climate simulation was created to find out if K2-155d has water. ](/news/2018/03/21/fifteen-new-exoplanets-are-discovered-three-of-them-larger-than-earth-are-also-discovered-around-the-dwarf-star-k2-155-furthermore-a-3d.md)
 Recently, the researchers have discovered 15 new planets in the Universe. They are found around some cool stars called ‘red dwarfs’. What’s even more amazing is the fact that one of these exoplanet…
+
+##### Kosovo
+### [In Kosovo, opposition lawmakers set off tear gas to prevent the ratification of a border treaty with neighboring Montenegro. ](/news/2018/03/21/in-kosovo-opposition-lawmakers-set-off-tear-gas-to-prevent-the-ratification-of-a-border-treaty-with-neighboring-montenegro.md)
+_Context: Kosovo, Montenegro_
 
 ##### Antiguan general election, 2018
 ### [Voters in Antigua and Barbuda go to the polls, with Barbudan residents having to travel to Antigua in order to participate. ](/news/2018/03/21/voters-in-antigua-and-barbuda-go-to-the-polls-with-barbudan-residents-having-to-travel-to-antigua-in-order-to-participate.md)
@@ -71,13 +87,9 @@ Syrian state TV and Ahrar al-Sham rebel group say 7,500 people will evacuate Gho
 ### [Houthis claim to have shot down a Royal Saudi Air Force F-15 jet over Sa'da province, Yemen. ](/news/2018/03/21/houthis-claim-to-have-shot-down-a-royal-saudi-air-force-f-15-jet-over-sa-da-province-yemen.md)
 _Context: F-15, Houthis, Royal Saudi Air Force, Sa'da province, Saudi Arabian-led intervention in Yemen, Yemen_
 
-##### Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2018/03/20/index.md)
+## [Day Before Yesterday](/news/2018/03/20/index.md)
 
 ##### Marine debris
 ### [A study commissioned by the UK government concludes marine plastic debris may treble within ten years, and predicts the "ocean economy" will double to US$3 trillion (GBP2 trillion) by 2030. ](/news/2018/03/20/a-study-commissioned-by-the-uk-government-concludes-marine-plastic-debris-may-treble-within-ten-years-and-predicts-the-ocean-economy-will.md)
@@ -205,43 +217,7 @@ At least 35 people were killed on Tuesday when a rocket hit a busy market place 
 
 ---
 
-## [Day Before Yesterday](/news/2018/03/19/index.md)
-
-##### Federal drug policy of the United States
-### [U.S. President Donald Trump unveils his plan to combat the United States's opioid epidemic which includes harsher penalties for drug traffickers, including the death penalty. ](/news/2018/03/19/u-s-president-donald-trump-unveils-his-plan-to-combat-the-united-states-s-opioid-epidemic-which-includes-harsher-penalties-for-drug-traffic.md)
-_Context: Donald Trump, Federal drug policy of the United States, U.S. President, death penalty, drug traffickers, opioid epidemic_
-
-##### Crime in Turkey
-### [Turkish police discover 1.4 kg of radioactive-labelled material in a car in Ankara. Initially claimed to be californium by the smugglers, the material is later identified as a type of polystyrene sulfonate. ](/news/2018/03/19/turkish-police-discover-1-4-kg-of-radioactive-labelled-material-in-a-car-in-ankara-initially-claimed-to-be-californium-by-the-smugglers-th.md)
-More than 1kg of the element Californium is found in an anti-smuggling raid in Ankara, police say.
-
-##### Turpin case
-### [The seven adults of the "Turpin children" are reported to have been released from the Corona Regional Medical Center in California and placed into an undisclosed residential home to lead normal lives. ](/news/2018/03/19/the-seven-adults-of-the-turpin-children-are-reported-to-have-been-released-from-the-corona-regional-medical-center-in-california-and-place.md)
-The &quot;siblings want to be known as survivors, not victims,&quot; their lawyer said.
-
-##### Austin serial bombings
-### [In Austin, Texas, a fourth bomb detonates, injuring two men. The Austin Police Department believes it is connected to the other parcel bombings, but do not believe it to be connected to the bomb threat leveled at the SXSW festival. ](/news/2018/03/19/in-austin-texas-a-fourth-bomb-detonates-injuring-two-men-the-austin-police-department-believes-it-is-connected-to-the-other-parcel-bombi.md)
-Austin police say the explosion, following deadly parcel bombings, may have been tripwire-activated.
-
-##### History of autonomous cars
-### [A woman in Tempe, Arizona, dies after being hit by a self-driving car operated by Uber, in what appears to be the first death of a pedestrian struck by an autonomous vehicle on public roads. In response to the fatal accident, Uber suspends self-driving car tests in all U.S. cities as well as Toronto. ](/news/2018/03/19/a-woman-in-tempe-arizona-dies-after-being-hit-by-a-self-driving-car-operated-by-uber-in-what-appears-to-be-the-first-death-of-a-pedestria.md)
-Tempe police said car was in autonomous mode at the time of the crash and that the vehicle hit a woman who later died at a hospital
-
-##### Economy of the United States
-### [After struggling with debt from a leveraged buyout, Claire's files for chapter 11 bankruptcy in the United States. The company has issued a statement that it expects its stores to remain operational while it restructures its debt. ](/news/2018/03/19/after-struggling-with-debt-from-a-leveraged-buyout-claire-s-files-for-chapter-11-bankruptcy-in-the-united-states-the-company-has-issued-a.md)
-The hub for ear piercings at malls across America is the latest retailer to succumb to its massive pile of debt.
-
-##### United Nations
-### [The United Nations reports that from January 2017 to January 2018 a total of 47 people were killed in protests against Congolese President Joseph Kabila. ](/news/2018/03/19/the-united-nations-reports-that-from-january-2017-to-january-2018-a-total-of-47-people-were-killed-in-protests-against-congolese-president-j.md)
-A government crackdown on demonstrations against President Joseph Kabila in Democratic Republic of Congo has led to the killing of 47 people in just over a year, a UN report seen by AFP said Monday. &quot;Between 1 January 2017 and 31 January 2018, at least 47 people, including women and children, w...
-
-##### Turkish military operation in Afrin
-### [The Turkish-backed Free Syrian Army rebels loot the Syrian city of Afrin. ](/news/2018/03/19/the-turkish-backed-free-syrian-army-rebels-loot-the-syrian-city-of-afrin.md)
-Rebel fighters reportedly raid homes and shops after seizing the Syrian city from Kurdish forces.
-
----
-
-## [Previous Day...](/news/2018/03/18/index.md)
+## [Previous Day...](/news/2018/03/19/index.md)
 
 ---
 

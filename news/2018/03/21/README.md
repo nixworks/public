@@ -7,6 +7,10 @@ Formats: [HTML](2018/03/21/index.html)  [JSON](2018/03/21/index.json)  [XML](201
 ### [Fifteen new exoplanets are discovered. Three of them, larger than Earth, are also discovered around the dwarf star K2-155. Furthermore, a 3D climate simulation was created to find out if K2-155d has water. ](/news/2018/03/21/fifteen-new-exoplanets-are-discovered-three-of-them-larger-than-earth-are-also-discovered-around-the-dwarf-star-k2-155-furthermore-a-3d.md)
 Recently, the researchers have discovered 15 new planets in the Universe. They are found around some cool stars called ‘red dwarfs’. What’s even more amazing is the fact that one of these exoplanet…
 
+##### Kosovo
+### [In Kosovo, opposition lawmakers set off tear gas to prevent the ratification of a border treaty with neighboring Montenegro. ](/news/2018/03/21/in-kosovo-opposition-lawmakers-set-off-tear-gas-to-prevent-the-ratification-of-a-border-treaty-with-neighboring-montenegro.md)
+_Context: Kosovo, Montenegro_
+
 ##### Antiguan general election, 2018
 ### [Voters in Antigua and Barbuda go to the polls, with Barbudan residents having to travel to Antigua in order to participate. ](/news/2018/03/21/voters-in-antigua-and-barbuda-go-to-the-polls-with-barbudan-residents-having-to-travel-to-antigua-in-order-to-participate.md)
 Barbudans have for the first time in their history been forced to travel by fishing boat, ferry and charter plane to neighbouring Antigua to vote in their elections &ndash; a move many on the hurricane-ravaged island see as a ploy to discourage them from voting.
