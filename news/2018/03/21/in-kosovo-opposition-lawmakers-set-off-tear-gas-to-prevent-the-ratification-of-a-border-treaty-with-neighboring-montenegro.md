@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/21/in-kosovo-opposition-lawmakers-set-off-tear-gas
 
 ### [2018-03-21](/news/2018/03/21/index.md)
 
-##### Kosovo
+##### Politics of Kosovo
 # In Kosovo, opposition lawmakers set off tear gas to prevent the ratification of a border treaty with neighboring Montenegro. 
 
 

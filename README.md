@@ -4,7 +4,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ## [News](/news/2018/03/22/index.md)
 
 ##### Unipetrol
-### [Six people are dead after an explosion at a Unipetrol plant in the Czech Republic. ](/news/2018/03/22/six-people-are-dead-after-an-explosion-at-a-unipetrol-plant-in-the-czech-republic.md)
+### [Six people are dead after an explosion at a Unipetrol plant in Kralupy nad Vltavou, Czech Republic. ](/news/2018/03/22/six-people-are-dead-after-an-explosion-at-a-unipetrol-plant-in-kralupy-nad-vltavou-czech-republic.md)
 Six people have been killed in an explosion at a chemical plant in the Czech Republic.
 
 ##### Opinion
@@ -19,9 +19,9 @@ Most of the daily information we see on the mainstream media today is the news e
 ### [Fifteen new exoplanets are discovered. Three of them, larger than Earth, are also discovered around the dwarf star K2-155. Furthermore, a 3D climate simulation was created to find out if K2-155d has water. ](/news/2018/03/21/fifteen-new-exoplanets-are-discovered-three-of-them-larger-than-earth-are-also-discovered-around-the-dwarf-star-k2-155-furthermore-a-3d.md)
 Recently, the researchers have discovered 15 new planets in the Universe. They are found around some cool stars called ‘red dwarfs’. What’s even more amazing is the fact that one of these exoplanet…
 
-##### Kosovo
+##### Politics of Kosovo
 ### [In Kosovo, opposition lawmakers set off tear gas to prevent the ratification of a border treaty with neighboring Montenegro. ](/news/2018/03/21/in-kosovo-opposition-lawmakers-set-off-tear-gas-to-prevent-the-ratification-of-a-border-treaty-with-neighboring-montenegro.md)
-_Context: Kosovo, Montenegro_
+_Context: Kosovo, Montenegro, Politics of Kosovo_
 
 ##### Antiguan general election, 2018
 ### [Voters in Antigua and Barbuda go to the polls, with Barbudan residents having to travel to Antigua in order to participate. ](/news/2018/03/21/voters-in-antigua-and-barbuda-go-to-the-polls-with-barbudan-residents-having-to-travel-to-antigua-in-order-to-participate.md)
