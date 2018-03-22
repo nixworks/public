@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/21/three-people-two-american-one-russian-launch-su
 
 ### [2018-03-21](/news/2018/03/21/index.md)
 
-##### American
+##### 2018 in spaceflight
 # Three people (two American, one Russian) launch successfully from the Baikonur Cosmodrome aboard Soyuz MS-08 to the International Space Station as part of Expedition 55. 
 
 Three crew members, including NASA astronauts Drew Feustel and Ricky Arnold, are on their way to the International Space Station after launching from the Baikonur Cosmodrome in Kazakhstan at 1:44 p.m. EDT Wednesday (11:44 p.m. Baikonur time).

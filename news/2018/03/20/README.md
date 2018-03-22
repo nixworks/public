@@ -47,7 +47,7 @@ Turkey acted illegally by detaining two prominent journalists who were arrested 
 ### [Minneapolis Police formally charge Mohamed Noor with third-degree murder and second-degree manslaughter for the shooting death of Justine Damond. ](/news/2018/03/20/minneapolis-police-formally-charge-mohamed-noor-with-third-degree-murder-and-second-degree-manslaughter-for-the-shooting-death-of-justine-da.md)
 _Context: Minneapolis Police, Shooting of Justine Damond_
 
-##### Crime in France
+##### Alleged Libyan influence in the 2007 French elections
 ### [Former French President Nicolas Sarkozy is held for up to 48 hours and questioned by police in Nanterre over allegations that he illegally accepted EUR50 million from Libyan leader Muammar Gaddafi to finance his bid in the 2007 presidential election. ](/news/2018/03/20/former-french-president-nicolas-sarkozy-is-held-for-up-to-48-hours-and-questioned-by-police-in-nanterre-over-allegations-that-he-illegally-a.md)
 French officials have been investigating claims that former President Nicolas Sarkozy took 50 million euros from the Libyan regime to fund his successful 2007 presidential bid.
 
