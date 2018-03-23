@@ -3,7 +3,15 @@ Formats: [HTML](2018/03/23/index.html)  [JSON](2018/03/23/index.json)  [XML](201
 
 ## [2018-03-23](/news/2018/03/23/index.md)
 
-##### London
+##### Poisoning of Sergei and Yulia Skripal
+### [ The European Union agrees with the United Kingdom's assessment of the incident, stating that there "there is no plausible alternative explanation" to Russian involvement. ](/news/2018/03/23/the-european-union-agrees-with-the-united-kingdom-s-assessment-of-the-incident-stating-that-there-there-is-no-plausible-alternative-expla.md)
+At a summit in Brussels, EU leaders said &quot;there is no plausible alternative explanation&quot; for the poisoning of Sergei Skripal and his daughter earlier this month in southern England.
+
+##### Trbes
+### [Two people are killed and others were wounded as a gunman takes hostages in Trbes, France. ](/news/2018/03/23/two-people-are-killed-and-others-were-wounded-as-a-gunman-takes-hostages-in-trebes-france.md)
+The gunman in a supermarket is reported to have claimed allegiance to the Islamic State group.
+
+##### 2017 Parsons Green bombing
 ### [A sentencing hearing begins in London for convicted terrorist Ahmed Hassan Mohammed Ali on one count of attempted murder and one of causing an explosion with intent to endanger life. ](/news/2018/03/23/a-sentencing-hearing-begins-in-london-for-convicted-terrorist-ahmed-hassan-mohammed-ali-on-one-count-of-attempted-murder-and-one-of-causing.md)
 Ahmed Hassan Mohammed Ali was found guilty of attempted murder and using the chemical compound TATP to cause an explosion likely to endanger life
 

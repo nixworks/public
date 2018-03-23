@@ -97,7 +97,7 @@ Denuclearization is not on the agenda of a meeting in Finland between delegation
 
 ##### Saratov Airlines Flight 703
 ### [Russia's Ministry of Transport suspends all flights by Saratov Airlines after conducting checks on the company's Antonov An-148 aircraft. ](/news/2018/03/20/russia-s-ministry-of-transport-suspends-all-flights-by-saratov-airlines-after-conducting-checks-on-the-company-s-antonov-an-148-aircraft.md)
-_Context: Antonov An-148, Russia, Saratov Airlines, Saratov Airlines Flight 703_
+_Context: Antonov An-148, Russian, Saratov Airlines, Saratov Airlines Flight 703_
 
 ##### Occidental Mindoro
 ### [A bus falls off a bridge in Occidental Mindoro, Philippines, killing at least 19 people and injuring 21 others. ](/news/2018/03/20/a-bus-falls-off-a-bridge-in-occidental-mindoro-philippines-killing-at-least-19-people-and-injuring-21-others.md)
