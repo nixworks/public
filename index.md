@@ -8,8 +8,12 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 Smith went against party policy by calling for a referendum over the final Brexit deal
 
 ##### Peru
-### [The Peruvian Congress votes 105-12 to accept President Pedro Pablo Kuczynski's resignation. Vice President Martin Vizcarra is set to take over the role. ](/news/2018/03/23/the-peruvian-congress-votes-105a12-to-accept-president-pedro-pablo-kuczynski-s-resignation-vice-president-martan-vizcarra-is-set-to-take.md)
-_Context: Congress, Martin Vizcarra, Pedro Pablo Kuczynski, Peru, President_
+### [Peruvian Vice President Martin Vizcarra is sworn in to replace Kuczyski. ](/news/2018/03/23/peruvian-vice-president-martan-vizcarra-is-sworn-in-to-replace-kuczyski.md)
+Vizcarra, former regional governor, vows to tackle corruption ‘head on’ after congress accepts resignation of scandal-hit Kuczynski
+
+##### Peru
+### [The Peruvian Congress votes 105-12 to accept President Pedro Pablo Kuczynski's resignation. ](/news/2018/03/23/the-peruvian-congress-votes-105a12-to-accept-president-pedro-pablo-kuczynski-s-resignation.md)
+_Context: Congress, Pedro Pablo Kuczynski, Peru, President_
 
 ##### Abortion in Poland
 ### [Thousands protest across Poland against the government's proposed restrictions on abortion. ](/news/2018/03/23/thousands-protest-across-poland-against-the-government-s-proposed-restrictions-on-abortion.md)
@@ -27,17 +31,13 @@ Eight people died when the minibus they were travelling in was involved in a cra
 ### [One of the victims of the shooting at Great Mills High School in Maryland dies from her injuries. ](/news/2018/03/23/one-of-the-victims-of-the-shooting-at-great-mills-high-school-in-maryland-dies-from-her-injuries.md)
 _Context: Great Mills High School, Maryland, School shootings in the United States_
 
-##### Censorship in the United Kingdom
-### [The House of Commons of the UK Parliament discusses implications for freedom of speech arising from a case where a man was convicted of hate crimes for posting a video of a pug responding to Nazi slogans. The case has drawn criticism from campaigners and prominent comedians. ](/news/2018/03/23/the-house-of-commons-of-the-uk-parliament-discusses-implications-for-freedom-of-speech-arising-from-a-case-where-a-man-was-convicted-of-hate.md)
-_Context: Censorship in the United Kingdom, House of Commons, Nazi, Parliament, UK, freedom of speech_
-
 ##### Crime in South Korea
 ### [Former President of South Korea Lee Myung-bak is detained on charges of taking bribes when he was in office. ](/news/2018/03/23/former-president-of-south-korea-lee-myung-bak-is-detained-on-charges-of-taking-bribes-when-he-was-in-office.md)
 _Context: Crime in South Korea, Former President, Lee Myung-bak, South Korea_
 
 ##### Iran-United States relations
 ### [The United States charges and sanctions nine Iranians and the Iranian company Mabna Institute for hacking and attempting to hack hundreds of universities. ](/news/2018/03/23/the-united-states-charges-and-sanctions-nine-iranians-and-the-iranian-company-mabna-institute-for-hacking-and-attempting-to-hack-hundreds-of.md)
-_Context: Cyberwarfare in Iran, Iran-United States relations, Mabna Institute_
+_Context: Cyberwarfare in Iran, Iran-United States relations_
 
 ##### Poisoning of Sergei and Yulia Skripal
 ### [The European Union agrees with the United Kingdom's assessment of the incident, stating that "there is no plausible alternative explanation" to Russian involvement. ](/news/2018/03/23/the-european-union-agrees-with-the-united-kingdom-s-assessment-of-the-incident-stating-that-there-is-no-plausible-alternative-explanation.md)
@@ -115,6 +115,10 @@ President Erdoğan says he will not let natural reserves be exploited by Greek C
 ### [People in 150 places across France take to the streets peacefully in a general strike to protest President Macron's economic reforms. Railways, airways, schools and power generation are affected. ](/news/2018/03/22/people-in-150-places-across-france-take-to-the-streets-peacefully-in-a-general-strike-to-protest-president-macron-s-economic-reforms-railwa.md)
 _Context: France, President Macron's economic reforms, Protests against Emmanuel Macron, general strike_
 
+##### Atlanta
+### [The city government of Atlanta, Georgia, United States, experiences an outage on some official websites, caused by a ransomware cyberattack. ](/news/2018/03/22/the-city-government-of-atlanta-georgia-united-states-experiences-an-outage-on-some-official-websites-caused-by-a-ransomware-cyberattack.md)
+The City of Atlanta has tweeted that they are currently experiencing outages on some of their customer applications. 
+
 ##### Kenya
 ### [The Kenyan Court of Appeals rules forced anal examines on suspected homosexuals are illegal. ](/news/2018/03/22/the-kenyan-court-of-appeals-rules-forced-anal-examines-on-suspected-homosexuals-are-illegal.md)
 Rights groups have hailed the ruling as a &quot;tremendous step&quot; for gay rights in the conservative country. Kenya has been listed by LGBTQ rights groups as a country that sponsors homophobia through its laws and policies.
@@ -182,10 +186,6 @@ This week, Congress passed the Stop Enabling Sex Trafficking Act, which critics 
 ##### Syrian Civil War
 ### [Evacuations of 7,500 people from rebel-held Harasta, Eastern Ghouta begin. Rebels agree with the Syrian government and Russia for the displaced people to be exiled in Idlib Governorate. ](/news/2018/03/22/evacuations-of-7-500-people-from-rebel-held-harasta-eastern-ghouta-begin-rebels-agree-with-the-syrian-government-and-russia-for-the-displa.md)
 Thousands of fighters to be deported after deal with Russian and Syrian officials
-
-##### Atlanta
-### [The city government of Atlanta, Georgia, United States, experiences an outage on some official websites, caused by a ransomware cyberattack. ](/news/2018/03/22/the-city-government-of-atlanta-georgia-united-states-experiences-an-outage-on-some-official-websites-caused-by-a-ransomware-cyberattack.md)
-The City of Atlanta has tweeted that they are currently experiencing outages on some of their customer applications. 
 
 ##### Somali Civil War (2009-present)
 ### [A car bomb blast in Mogadishu, near the Weheliye hotel in the Somali capital, kills at least 14 people and injures 10 others. Al-Shabab claims responsibility for the blast. ](/news/2018/03/22/a-car-bomb-blast-in-mogadishu-near-the-weheliye-hotel-in-the-somali-capital-kills-at-least-14-people-and-injures-10-others-al-shabab-clai.md)

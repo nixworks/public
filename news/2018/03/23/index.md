@@ -8,8 +8,12 @@ Formats: [HTML](2018/03/23/index.html)  [JSON](2018/03/23/index.json)  [XML](201
 Smith went against party policy by calling for a referendum over the final Brexit deal
 
 ##### Peru
-### [The Peruvian Congress votes 105-12 to accept President Pedro Pablo Kuczynski's resignation. Vice President Martin Vizcarra is set to take over the role. ](/news/2018/03/23/the-peruvian-congress-votes-105a12-to-accept-president-pedro-pablo-kuczynski-s-resignation-vice-president-martan-vizcarra-is-set-to-take.md)
-_Context: Congress, Martin Vizcarra, Pedro Pablo Kuczynski, Peru, President_
+### [Peruvian Vice President Martin Vizcarra is sworn in to replace Kuczyski. ](/news/2018/03/23/peruvian-vice-president-martan-vizcarra-is-sworn-in-to-replace-kuczyski.md)
+Vizcarra, former regional governor, vows to tackle corruption ‘head on’ after congress accepts resignation of scandal-hit Kuczynski
+
+##### Peru
+### [The Peruvian Congress votes 105-12 to accept President Pedro Pablo Kuczynski's resignation. ](/news/2018/03/23/the-peruvian-congress-votes-105a12-to-accept-president-pedro-pablo-kuczynski-s-resignation.md)
+_Context: Congress, Pedro Pablo Kuczynski, Peru, President_
 
 ##### Abortion in Poland
 ### [Thousands protest across Poland against the government's proposed restrictions on abortion. ](/news/2018/03/23/thousands-protest-across-poland-against-the-government-s-proposed-restrictions-on-abortion.md)
@@ -27,17 +31,13 @@ Eight people died when the minibus they were travelling in was involved in a cra
 ### [One of the victims of the shooting at Great Mills High School in Maryland dies from her injuries. ](/news/2018/03/23/one-of-the-victims-of-the-shooting-at-great-mills-high-school-in-maryland-dies-from-her-injuries.md)
 _Context: Great Mills High School, Maryland, School shootings in the United States_
 
-##### Censorship in the United Kingdom
-### [The House of Commons of the UK Parliament discusses implications for freedom of speech arising from a case where a man was convicted of hate crimes for posting a video of a pug responding to Nazi slogans. The case has drawn criticism from campaigners and prominent comedians. ](/news/2018/03/23/the-house-of-commons-of-the-uk-parliament-discusses-implications-for-freedom-of-speech-arising-from-a-case-where-a-man-was-convicted-of-hate.md)
-_Context: Censorship in the United Kingdom, House of Commons, Nazi, Parliament, UK, freedom of speech_
-
 ##### Crime in South Korea
 ### [Former President of South Korea Lee Myung-bak is detained on charges of taking bribes when he was in office. ](/news/2018/03/23/former-president-of-south-korea-lee-myung-bak-is-detained-on-charges-of-taking-bribes-when-he-was-in-office.md)
 _Context: Crime in South Korea, Former President, Lee Myung-bak, South Korea_
 
 ##### Iran-United States relations
 ### [The United States charges and sanctions nine Iranians and the Iranian company Mabna Institute for hacking and attempting to hack hundreds of universities. ](/news/2018/03/23/the-united-states-charges-and-sanctions-nine-iranians-and-the-iranian-company-mabna-institute-for-hacking-and-attempting-to-hack-hundreds-of.md)
-_Context: Cyberwarfare in Iran, Iran-United States relations, Mabna Institute_
+_Context: Cyberwarfare in Iran, Iran-United States relations_
 
 ##### Poisoning of Sergei and Yulia Skripal
 ### [The European Union agrees with the United Kingdom's assessment of the incident, stating that "there is no plausible alternative explanation" to Russian involvement. ](/news/2018/03/23/the-european-union-agrees-with-the-united-kingdom-s-assessment-of-the-incident-stating-that-there-is-no-plausible-alternative-explanation.md)

@@ -43,6 +43,10 @@ President Erdoğan says he will not let natural reserves be exploited by Greek C
 ### [People in 150 places across France take to the streets peacefully in a general strike to protest President Macron's economic reforms. Railways, airways, schools and power generation are affected. ](/news/2018/03/22/people-in-150-places-across-france-take-to-the-streets-peacefully-in-a-general-strike-to-protest-president-macron-s-economic-reforms-railwa.md)
 _Context: France, President Macron's economic reforms, Protests against Emmanuel Macron, general strike_
 
+##### Atlanta
+### [The city government of Atlanta, Georgia, United States, experiences an outage on some official websites, caused by a ransomware cyberattack. ](/news/2018/03/22/the-city-government-of-atlanta-georgia-united-states-experiences-an-outage-on-some-official-websites-caused-by-a-ransomware-cyberattack.md)
+The City of Atlanta has tweeted that they are currently experiencing outages on some of their customer applications. 
+
 ##### Kenya
 ### [The Kenyan Court of Appeals rules forced anal examines on suspected homosexuals are illegal. ](/news/2018/03/22/the-kenyan-court-of-appeals-rules-forced-anal-examines-on-suspected-homosexuals-are-illegal.md)
 Rights groups have hailed the ruling as a &quot;tremendous step&quot; for gay rights in the conservative country. Kenya has been listed by LGBTQ rights groups as a country that sponsors homophobia through its laws and policies.
@@ -110,10 +114,6 @@ This week, Congress passed the Stop Enabling Sex Trafficking Act, which critics 
 ##### Syrian Civil War
 ### [Evacuations of 7,500 people from rebel-held Harasta, Eastern Ghouta begin. Rebels agree with the Syrian government and Russia for the displaced people to be exiled in Idlib Governorate. ](/news/2018/03/22/evacuations-of-7-500-people-from-rebel-held-harasta-eastern-ghouta-begin-rebels-agree-with-the-syrian-government-and-russia-for-the-displa.md)
 Thousands of fighters to be deported after deal with Russian and Syrian officials
-
-##### Atlanta
-### [The city government of Atlanta, Georgia, United States, experiences an outage on some official websites, caused by a ransomware cyberattack. ](/news/2018/03/22/the-city-government-of-atlanta-georgia-united-states-experiences-an-outage-on-some-official-websites-caused-by-a-ransomware-cyberattack.md)
-The City of Atlanta has tweeted that they are currently experiencing outages on some of their customer applications. 
 
 ##### Somali Civil War (2009-present)
 ### [A car bomb blast in Mogadishu, near the Weheliye hotel in the Somali capital, kills at least 14 people and injures 10 others. Al-Shabab claims responsibility for the blast. ](/news/2018/03/22/a-car-bomb-blast-in-mogadishu-near-the-weheliye-hotel-in-the-somali-capital-kills-at-least-14-people-and-injures-10-others-al-shabab-clai.md)

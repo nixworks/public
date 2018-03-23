@@ -12,7 +12,7 @@ But there are opportunities to cash in on the &quot;ocean economy&quot;, a major
 The Japanese government is offering $940 million to fund space start-ups, the government announced Tuesday in Tokyo.
 
 ##### ESA missions
-### [The European Space Agency announces a mission to study the atmospheres of exoplanets. Known as ARIEL, it is expected to launch in 2028. ](/news/2018/03/20/the-european-space-agency-announces-a-mission-to-study-the-atmospheres-of-exoplanets-known-as-ariel-it-is-expected-to-launch-in-2028.md)
+### [The European Space Agency announces a mission to study the atmospheres of exoplanets. Selected as Cosmic Vision medium class M4 mission, ARIEL is expected to launch in 2028. ](/news/2018/03/20/the-european-space-agency-announces-a-mission-to-study-the-atmospheres-of-exoplanets-selected-as-cosmic-vision-medium-class-m4-mission-ari.md)
 A telescope to study planets beyond our Solar System is selected by the European Space Agency.
 
 ##### Extinction threshold
