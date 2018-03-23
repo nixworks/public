@@ -24,7 +24,7 @@ _Context: 2017-18 Spanish constitutional crisis, President of the Generalitat_
 John Dowd is reported to have concluded that Mr Trump was increasingly ignoring his advice.
 
 ##### Poisoning of Sergei and Yulia Skripal
-### [Detective Sergeant Nick Bailey, wounded when he came to the aid of the poisoned Russian dissidents, is discharged from hospital. ](/news/2018/03/22/detective-sergeant-nick-bailey-wounded-when-he-came-to-the-aid-of-the-poisoned-russian-dissidents-is-discharged-from-hospital.md)
+### [Detective Sergeant Nick Bailey, wounded when he came to the aid of the poisoned Russian dissidents, is discharged from a hospital. ](/news/2018/03/22/detective-sergeant-nick-bailey-wounded-when-he-came-to-the-aid-of-the-poisoned-russian-dissidents-is-discharged-from-a-hospital.md)
 Det Sgt Nick Bailey said life would &quot;probably never be the same&quot; after being exposed to a nerve agent.
 
 ##### Cyprus dispute
@@ -80,7 +80,7 @@ Saudi Arabia the UAE Bahrain and Egypt have long complained of Qatar s support f
 White House prepares target list of trade actions punishing Beijing for forcing companies to surrender trade secrets as price of doing business in China.
 
 ##### Earthquakes in California
-### [Two magnitude 4.6 earthquakes strike south of Eureka, California. No immediate damage is reported. ](/news/2018/03/22/two-magnitude-4-6-earthquakes-strike-south-of-eureka-california-no-immediate-damage-is-reported.md)
+### [A magnitude 4.6 earthquake and 4.7 earthquake strike south of Eureka, California. No immediate damage is reported. ](/news/2018/03/22/a-magnitude-4-6-earthquake-and-4-7-earthquake-strike-south-of-eureka-california-no-immediate-damage-is-reported.md)
 A magnitude 4.7 earthquake hit 13.6 miles northwest of Petrolia at 8:09 p.m. on Thursday, according to the United States Geological Survey. It hit at a depth of 13 miles. This was the second earthquake to hit the area in less than 12 hours. At around 9:24 
 
 ##### 2018 Unipetrol explosion
