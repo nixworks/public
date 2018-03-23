@@ -3,6 +3,10 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/03/23/index.md)
 
+##### Abortion in Poland
+### [Thousands protest across Poland against the government's proposed restrictions on abortion. ](/news/2018/03/23/thousands-protest-across-poland-against-the-government-s-proposed-restrictions-on-abortion.md)
+Thousands join demonstrations against government’s new effort to restrict access
+
 ##### Peru
 ### [The Peruvian Congress votes 105-12 to accept President Pedro Pablo Kuczynski's resignation. Vice President Martin Vizcarra is set to take over the role. ](/news/2018/03/23/the-peruvian-congress-votes-105a12-to-accept-president-pedro-pablo-kuczynski-s-resignation-vice-president-martan-vizcarra-is-set-to-take.md)
 _Context: Congress, Martin Vizcarra, Pedro Pablo Kuczynski, Peru, President_
@@ -14,6 +18,10 @@ Catalan separatist politician Marta Rovira ignores court summons, says in letter
 ##### Poisoning of Sergei and Yulia Skripal
 ### [The European Union agrees with the United Kingdom's assessment of the incident, stating that "there is no plausible alternative explanation" to Russian involvement. ](/news/2018/03/23/the-european-union-agrees-with-the-united-kingdom-s-assessment-of-the-incident-stating-that-there-is-no-plausible-alternative-explanation.md)
 At a summit in Brussels, EU leaders said &quot;there is no plausible alternative explanation&quot; for the poisoning of Sergei Skripal and his daughter earlier this month in southern England.
+
+##### School shootings in the United States
+### [One of the victims of the shooting at Great Mills High School in Maryland earlier this week dies from her injuries. ](/news/2018/03/23/one-of-the-victims-of-the-shooting-at-great-mills-high-school-in-maryland-earlier-this-week-dies-from-her-injuries.md)
+_Context: Great Mills High School, Maryland, School shootings in the United States_
 
 ##### M1
 ### [Two lorry drivers receive prison terms, one of 14 years, for killing eight people when their vehicles collided with a bus on the M1 in Buckinghamshire, England in 2017. ](/news/2018/03/23/two-lorry-drivers-receive-prison-terms-one-of-14-years-for-killing-eight-people-when-their-vehicles-collided-with-a-bus-on-the-m1-in-bucki.md)
@@ -27,9 +35,17 @@ _Context: Censorship in the United Kingdom, House of Commons, Nazi, Parliament, 
 ### [Former President of South Korea Lee Myung-bak is detained on charges of taking bribes when he was in office. ](/news/2018/03/23/former-president-of-south-korea-lee-myung-bak-is-detained-on-charges-of-taking-bribes-when-he-was-in-office.md)
 _Context: Crime in South Korea, Former President, Lee Myung-bak, South Korea_
 
+##### Poland in the European Union
+### [Polish Foreign Minister Jacek Czaputowicz asks the European Commission to halt its use of Article 7 of the Treaty on European Union against the nation in exchange for modifications to controversial proposed judicial reforms. ](/news/2018/03/23/polish-foreign-minister-jacek-czaputowicz-asks-the-european-commission-to-halt-its-use-of-article-7-of-the-treaty-on-european-union-against.md)
+Poland wants Brussels to withdraw its Article 7 procedure against Warsaw, the Polish foreign minister has said after his country moved to modify disputed legal changes that have triggered a row with the EU.
+
 ##### Ho Chi Minh City
 ### [A fire at a condominium complex in Ho Chi Minh City, Vietnam, kills at least 13 people and injures another 27, with most people dying of suffocation or jumping from high floors. ](/news/2018/03/23/a-fire-at-a-condominium-complex-in-ho-chi-minh-city-vietnam-kills-at-least-13-people-and-injures-another-27-with-most-people-dying-of-suf.md)
 Residents startled awake by loud noise and smoke signaled for help with lit mobile phones and crawled onto cranes from their balconies to escape a fire Friday at a large condominium complex in southern Vietnam&rsquo;s Ho Chi Minh City. At least 13 people were killed and 28 injured, with police sayin...
+
+##### Lashkar Gah
+### [A car bomb is driven into a crowd outside the Ghazi Muhammad Ayub Khan Stadium in Lashkar Gah, Helmund before detonating. At least 13 people are killed. ](/news/2018/03/23/a-car-bomb-is-driven-into-a-crowd-outside-the-ghazi-muhammad-ayub-khan-stadium-in-lashkar-gah-helmund-before-detonating-at-least-13-people.md)
+Officials say at least 13 people have been killed in the explosion at Helmand sports stadium.
 
 ##### Trebes hostage crisis
 ### [Three people are killed and 16 wounded when an extremist takes hostages in Trebes, France. The suspect is killed by police. ](/news/2018/03/23/three-people-are-killed-and-16-wounded-when-an-extremist-takes-hostages-in-tra-bes-france-the-suspect-is-killed-by-police.md)
@@ -54,6 +70,10 @@ Scientists investigate an unusual, small, mummified skeleton from Chile to estab
 ##### Antiguan general election, 2018
 ### [Antigua and Barbuda's ruling Antigua and Barbuda Labour Party wins a second term in a landslide vote. ](/news/2018/03/22/antigua-and-barbuda-s-ruling-antigua-and-barbuda-labour-party-wins-a-second-term-in-a-landslide-vote.md)
 _Context: Antigua and Barbuda, Antigua and Barbuda Labour Party, Antiguan general election, 2018_
+
+##### Stoneman Douglas High School shooting
+### [ Several Parkland survivors, including Emma Gonzalez, David Hogg and Cameron Kasky appear on a Time cover.](/news/2018/03/22/several-parkland-survivors-including-emma-gonzalez-david-hogg-and-cameron-kasky-appear-on-a-time-cover.md)
+Students who survived last month&#039;s shooting at a high school in Parkland, Fla., are featured on the cover of Time magazine&#039;s latest issue.
 
 ##### Presidency of Donald Trump
 ### [U.S. President Donald Trump announces former United States Ambassador to the United Nations John R. Bolton will become his National Security Advisor, succeeeding the outgoing H. R. McMaster. ](/news/2018/03/22/u-s-president-donald-trump-announces-former-united-states-ambassador-to-the-united-nations-john-r-bolton-will-become-his-national-security.md)
@@ -138,6 +158,10 @@ Six people have been killed in an explosion at a chemical plant in the Czech Rep
 ##### Economic policy of Donald Trump
 ### [U.S. Trade Representative Robert Lighthizer tells a Senate panel that President Donald Trump has decided to "pause" tariffs on steel and aluminium imports from the European Union, Argentina, Australia, Brazil, Canada, Mexico, and South Korea. ](/news/2018/03/22/u-s-trade-representative-robert-lighthizer-tells-a-senate-panel-that-president-donald-trump-has-decided-to-pause-tariffs-on-steel-and-alu.md)
 The US trade representative says the import duties have been &quot;paused&quot; while further talks take place.
+
+##### Stop Enabling Sex Traffickers Act
+### [Craigslist deactivates its personals section in response to the U.S. Senate's passage of the bill. ](/news/2018/03/22/craigslist-deactivates-its-personals-section-in-response-to-the-u-s-senate-s-passage-of-the-bill.md)
+This week, Congress passed the Stop Enabling Sex Trafficking Act, which critics say puts sex workers in harm’s way and could even threaten freedom of speech online.
 
 ##### Syrian Civil War
 ### [Evacuations of 7,500 people from rebel-held Harasta, Eastern Ghouta begin. Rebels agree with the Syrian government and Russia for the displaced people to be exiled in Idlib Governorate. ](/news/2018/03/22/evacuations-of-7-500-people-from-rebel-held-harasta-eastern-ghouta-begin-rebels-agree-with-the-syrian-government-and-russia-for-the-displa.md)
