@@ -55,7 +55,7 @@ Residents startled awake by loud noise and smoke signaled for help with lit mobi
 ### [Malian Prime Minister Soumeylou Boubeye Maiga visits seperatist rebel stronghold Kidal. ](/news/2018/03/23/malian-prime-minister-soumeylou-boubeye-maiga-visits-seperatist-rebel-stronghold-kidal.md)
 _Context: Kidal, Mali, Northern Mali conflict, Soumeylou Boubeye Maiga_
 
-##### Lashkar Gah
+##### War in Afghanistan (2001-present)
 ### [A car bomb is driven into a crowd outside the Ghazi Muhammad Ayub Khan Stadium in Lashkar Gah, Helmund before detonating. At least 13 people are killed. ](/news/2018/03/23/a-car-bomb-is-driven-into-a-crowd-outside-the-ghazi-muhammad-ayub-khan-stadium-in-lashkar-gah-helmund-before-detonating-at-least-13-people.md)
 Officials say at least 13 people have been killed in the explosion at Helmand sports stadium.
 

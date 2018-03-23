@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/23/a-car-bomb-is-driven-into-a-crowd-outside-the-g
 
 ### [2018-03-23](/news/2018/03/23/index.md)
 
-##### Lashkar Gah
+##### War in Afghanistan (2001-present)
 # A car bomb is driven into a crowd outside the Ghazi Muhammad Ayub Khan Stadium in Lashkar Gah, Helmund before detonating. At least 13 people are killed. 
 
 Officials say at least 13 people have been killed in the explosion at Helmand sports stadium.
@@ -16,8 +16,8 @@ Officials say at least 13 people have been killed in the explosion at Helmand sp
 
 ### Related:
 
-1. [Afghan officials say yesterday's U.S. airstrikes killed up to eight Afghan policemen in Lashkar Gah, Uruzgan. ](/news/2016/09/19/afghan-officials-say-yesterday-s-u-s-airstrikes-killed-up-to-eight-afghan-policemen-in-lashkar-gah-uruzgan.md) _Context: Lashkar Gah_
-2. [A U.S. service member becomes the first U.S. military combat casualty in Afghanistan since January 2016 when he is killed by an improvised explosive device (IED) while on patrol near the city of Lashkar Gah in Afghanistan's southern Helmand Province. Another American service member and six Afghan soldiers were also injured in the blast. ](/news/2016/08/23/a-u-s-service-member-becomes-the-first-u-s-military-combat-casualty-in-afghanistan-since-january-2016-when-he-is-killed-by-an-improvised-e.md) _Context: Lashkar Gah_
-3. [Afghanistan: A bomb kills three NATO soldiers in east Afghanistan. An explosion in a cemetery in Lashkar Gah, the capital of Helmand province, in Afghanistan kills two people. A NATO soldier is killed by an Afghan police officer. Three New Zealand soldiers are killed in Bamiyan, central Afghanistan when the convoy in which they were traveling was hit by an improvised explosive device. ](/news/2012/08/19/afghanistan-a-bomb-kills-three-nato-soldiers-in-east-afghanistan-an-explosion-in-a-cemetery-in-lashkar-gah-the-capital-of-helmand-provinc.md) _Context: Lashkar Gah_
-4. [A suicide bomber kills at least two people in the city of Lashkar Gah in Afghanistan's Helmand Province. ](/news/2011/09/27/a-suicide-bomber-kills-at-least-two-people-in-the-city-of-lashkar-gah-in-afghanistan-s-helmand-province.md) _Context: Lashkar Gah_
-5. [The President of Afghanistan Hamid Karzai names the seven areas of Afghanistan that will pass into Afghan control from July: Kabul, Panjshir Province, Bamiyan Province, Herat, Mazar-e-Sharif, Mihtarlam and Lashkar Gah. ](/news/2011/03/22/the-president-of-afghanistan-hamid-karzai-names-the-seven-areas-of-afghanistan-that-will-pass-into-afghan-control-from-july-kabul-panjshir.md) _Context: Lashkar Gah_
+1. [A suicide car bomber kills one person and injures fourteen others near the Australian embassy in Kabul, Afghanistan. ](/news/2018/03/2/a-suicide-car-bomber-kills-one-person-and-injures-fourteen-others-near-the-australian-embassy-in-kabul-afghanistan.md) _Context: War in Afghanistan (2001-present)_
+2. [Afghan President Ashraf Ghani offers to recognize the Taliban as a legitimate political formation as part of a proposed process aimed at ending more than 16 years of war. ](/news/2018/02/28/afghan-president-ashraf-ghani-offers-to-recognize-the-taliban-as-a-legitimate-political-formation-as-part-of-a-proposed-process-aimed-at-end.md) _Context: War in Afghanistan (2001-present)_
+3. [A series of militant attacks in Afghanistan kill more than 20 people. ](/news/2018/02/24/a-series-of-militant-attacks-in-afghanistan-kill-more-than-20-people.md) _Context: War in Afghanistan (2001-present)_
+4. [A BBC study finds that, October 2017 lc=y, the Taliban presently maintains control of or has some territorial presence in 70% of Afghanistan, with full control of 14 districts (totaling 4% of the country) and demonstrating an open physical militant presence in 263 others (encompassing the remaining 66% of the group's occupied territory). ](/news/2018/01/31/a-bbc-study-finds-that-october-2017-lc-y-the-taliban-presently-maintains-control-of-or-has-some-territorial-presence-in-70-of-afghanistan.md) _Context: War in Afghanistan (2001-present)_
+5. [Attackers detonate explosives before storming the offices of the Save the Children charity in the eastern Afghan city of Jalalabad. ](/news/2018/01/24/attackers-detonate-explosives-before-storming-the-offices-of-the-save-the-children-charity-in-the-eastern-afghan-city-of-jalalabad.md) _Context: War in Afghanistan (2001-present)_
