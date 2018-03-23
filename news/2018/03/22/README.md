@@ -64,7 +64,7 @@ France&rsquo;s ex-president Nicolas Sarkozy has dismissed accusations the Libyan
 _Context: Nadiya Savchenko, Ukrainian, Ukrainian crisis_
 
 ##### Murder of Maria Ladenburger
-### [Afghan immigrant Hussein Khavari is convicted of rape and murder in a case that provoked widespread discussion of refugee immigration to Germany. ](/news/2018/03/22/afghan-immigrant-hussein-khavari-is-convicted-of-rape-and-murder-in-a-case-that-provoked-widespread-discussion-of-refugee-immigration-to-ger.md)
+### [Iranian immigrant Hussein Khavari is convicted of rape and murder in a case that provoked widespread discussion of refugee immigration to Germany. ](/news/2018/03/22/iranian-immigrant-hussein-khavari-is-convicted-of-rape-and-murder-in-a-case-that-provoked-widespread-discussion-of-refugee-immigration-to-ge.md)
 The rape and murder of a medical student in 2016 fuelled tensions over the mass influx of migrants.
 
 ##### Russia-Sudan relations

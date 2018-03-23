@@ -11,8 +11,9 @@ At a summit in Brussels, EU leaders said &quot;there is no plausible alternative
 
 ### Sources:
 
-1. [NPR](https://www.npr.org/sections/thetwo-way/2018/03/23/596341516/eu-joins-u-k-in-saying-russia-very-likely-responsible-for-nerve-agent-attack)
-1. [Cover Image](https://media.npr.org/assets/img/2018/03/23/gettyimages-936607994_wide-bdd3bdc5dfe0e9750085238d174795fbe0d760e6.jpg?s=1400)
+1. [BBC](http://www.bbc.co.uk/news/uk-politics-43489457)
+2. [NPR](https://www.npr.org/sections/thetwo-way/2018/03/23/596341516/eu-joins-u-k-in-saying-russia-very-likely-responsible-for-nerve-agent-attack)
+2. [Cover Image](https://media.npr.org/assets/img/2018/03/23/gettyimages-936607994_wide-bdd3bdc5dfe0e9750085238d174795fbe0d760e6.jpg?s=1400)
 
 ### Changes:
 
