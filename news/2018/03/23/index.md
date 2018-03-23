@@ -4,15 +4,15 @@ Formats: [HTML](2018/03/23/index.html)  [JSON](2018/03/23/index.json)  [XML](201
 ## [2018-03-23](/news/2018/03/23/index.md)
 
 ##### Peru
-### [The Peruvian congress votes 105-12 to accept President Pedro Pablo Kuczynski's resignation. Vice President Martin Vizcarra is set to take over the role. ](/news/2018/03/23/the-peruvian-congress-votes-105a12-to-accept-president-pedro-pablo-kuczynski-s-resignation-vice-president-martan-vizcarra-is-set-to-take.md)
-_Context: Martin Vizcarra, Pedro Pablo Kuczynski, Peru_
+### [The Peruvian Congress votes 105-12 to accept President Pedro Pablo Kuczynski's resignation. Vice President Martin Vizcarra is set to take over the role. ](/news/2018/03/23/the-peruvian-congress-votes-105a12-to-accept-president-pedro-pablo-kuczynski-s-resignation-vice-president-martan-vizcarra-is-set-to-take.md)
+_Context: Congress, Martin Vizcarra, Pedro Pablo Kuczynski, Peru, President_
 
 ##### 2017-18 Spanish constitutional crisis
-### [Thirteen high-ranking independentists declare in front of the judge of the Supreme Court, except Marta Rovira who "self-exile" in Switzerland. ](/news/2018/03/23/thirteen-high-ranking-independentists-declare-in-front-of-the-judge-of-the-supreme-court-except-marta-rovira-who-self-exile-in-switzerlan.md)
-_Context: 2017-18 Spanish constitutional crisis, Marta Rovira, Supreme Court_
+### [Thirteen high-ranking independentists declare in front of the judge of the Spanish Supreme Court, except Marta Rovira who is "self-exiled" in Switzerland. ](/news/2018/03/23/thirteen-high-ranking-independentists-declare-in-front-of-the-judge-of-the-spanish-supreme-court-except-marta-rovira-who-is-self-exiled-i.md)
+Catalan separatist politician Marta Rovira ignores court summons, says in letter she has chose &lsquo;path to exile&rsquo;
 
 ##### Poisoning of Sergei and Yulia Skripal
-### [ The European Union agrees with the United Kingdom's assessment of the incident, stating that "there is no plausible alternative explanation" to Russian involvement. ](/news/2018/03/23/the-european-union-agrees-with-the-united-kingdom-s-assessment-of-the-incident-stating-that-there-is-no-plausible-alternative-explanation.md)
+### [The European Union agrees with the United Kingdom's assessment of the incident, stating that "there is no plausible alternative explanation" to Russian involvement. ](/news/2018/03/23/the-european-union-agrees-with-the-united-kingdom-s-assessment-of-the-incident-stating-that-there-is-no-plausible-alternative-explanation.md)
 At a summit in Brussels, EU leaders said &quot;there is no plausible alternative explanation&quot; for the poisoning of Sergei Skripal and his daughter earlier this month in southern England.
 
 ##### M1
@@ -21,7 +21,7 @@ Eight people died when the minibus they were travelling in was involved in a cra
 
 ##### Censorship in the United Kingdom
 ### [The House of Commons of the UK Parliament discusses implications for freedom of speech arising from a case where a man was convicted of hate crimes for posting a video of a pug responding to Nazi slogans. The case has drawn criticism from campaigners and prominent comedians. ](/news/2018/03/23/the-house-of-commons-of-the-uk-parliament-discusses-implications-for-freedom-of-speech-arising-from-a-case-where-a-man-was-convicted-of-hate.md)
-_Context: Censorship in the United Kingdom, House of Commons, Nazi, UK, freedom of speech_
+_Context: Censorship in the United Kingdom, House of Commons, Nazi, Parliament, United Kingdom, freedom of speech_
 
 ##### Crime in South Korea
 ### [Former President of South Korea Lee Myung-bak is detained on charges of taking bribes when he was in office. ](/news/2018/03/23/former-president-of-south-korea-lee-myung-bak-is-detained-on-charges-of-taking-bribes-when-he-was-in-office.md)
@@ -32,7 +32,7 @@ _Context: Crime in South Korea, Former President, Lee Myung-bak, South Korea_
 Residents startled awake by loud noise and smoke signaled for help with lit mobile phones and crawled onto cranes from their balconies to escape a fire Friday at a large condominium complex in southern Vietnam&rsquo;s Ho Chi Minh City. At least 13 people were killed and 28 injured, with police sayin...
 
 ##### Trebes hostage crisis
-### [Four people are killed and 17 wounded when an extremist takes hostages in Trebes, France. ](/news/2018/03/23/four-people-are-killed-and-17-wounded-when-an-extremist-takes-hostages-in-tra-bes-france.md)
+### [Three people are killed and 16 wounded when an extremist takes hostages in Trebes, France. The suspect is killed by police. ](/news/2018/03/23/three-people-are-killed-and-16-wounded-when-an-extremist-takes-hostages-in-tra-bes-france-the-suspect-is-killed-by-police.md)
 The gunman in a supermarket is reported to have claimed allegiance to the Islamic State group.
 
 ##### 2017 Parsons Green bombing
