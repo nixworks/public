@@ -13,7 +13,7 @@ _Context: Civil unrest in Kenya (2007-2008), Kenya_
 
 ##### War in Pakistan (2004-present)
 ### [ War in Pakistan (2004-present): Another Pakistani security outpost near the border with Afghanistan is abandoned by government troops due to threats from pro-Taliban fighters. ](/news/2008/01/17/war-in-pakistan-2004apresent-another-pakistani-security-outpost-near-the-border-with-afghanistan-is-abandoned-by-government-troops-due.md)
-_Context: Afghanistan, Pakistan, Taliban, War in Pakistan (2004-present)_
+_Context: Afghan, Pakistan, Taliban, War in Pakistan (2004-present)_
 
 ##### Crash landing at London Heathrow
 ### [ Crash landing at London Heathrow: A British Airways Boeing 777 flying from Beijing, China to London, England lands on the grass short of the south runway and continues onto the runway, stopping on the white stripes, injuring 13 people, but resulting in no fatalities. The chaos results in the cancellation of 200 flights. ](/news/2008/01/17/crash-landing-at-london-heathrow-a-british-airways-boeing-777-flying-from-beijing-china-to-london-england-lands-on-the-grass-short-of-th.md)

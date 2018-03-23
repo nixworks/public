@@ -73,7 +73,7 @@ A 6.2-magnitude earthquake struck off the coast of the Philippines this morning 
 
 ##### Evangelos Florakis Navy Base explosion
 ### [Evangelos Florakis Navy Base explosion: Thousands of people march on the Presidential Palace in Nicosia, Cyprus; police fire tear gas at the demonstrators who tie a banner to the palace gates stating "Christofias [their ruler] is a murderer and must go to jail". ](/news/2011/07/12/evangelos-florakis-navy-base-explosion-thousands-of-people-march-on-the-presidential-palace-in-nicosia-cyprus-police-fire-tear-gas-at-the.md)
-_Context: Christofias, Cypriot, Evangelos Florakis Navy Base explosion, Nicosia, Presidential Palace, tear gas_
+_Context: Christofias, Cyprus, Evangelos Florakis Navy Base explosion, Nicosia, Presidential Palace, tear gas_
 
 ##### Japan
 ### [Japanese officials announce their intention to send the country's whaling fleet back to Antarctica later in the year; the Sea Shepherd Conservation Society (SSCS) is also to return. ](/news/2011/07/12/japanese-officials-announce-their-intention-to-send-the-country-s-whaling-fleet-back-to-antarctica-later-in-the-year-the-sea-shepherd-conse.md)
@@ -95,7 +95,7 @@ _Context: California, Gilligan's Island, Los Angeles, California, Sherwood Schwa
 ### [A British ticket scoops the largest ever lottery prize in Europe, the GBP161,653,000 EuroMillions jackpot, by securing all five numbers and both Lucky Stars. ](/news/2011/07/12/a-british-ticket-scoops-the-largest-ever-lottery-prize-in-europe-the-agbp161-653-000-euromillions-jackpot-by-securing-all-five-numbers-and.md)
 _Context: EuroMillions_
 
-##### French President
+##### President of France
 ### [President of France Nicolas Sarkozy visits Afghanistan to meet with the President of Afghanistan Hamid Karzai and commander of the International Security Assistance Force David Petraeus before visiting French troops stationed in Surobi. ](/news/2011/07/12/president-of-france-nicolas-sarkozy-visits-afghanistan-to-meet-with-the-president-of-afghanistan-hamid-karzai-and-commander-of-the-internati.md)
 Controversial Afghan politician Ahmad Wali Karzai, half-brother of President Hamid Karzai and a top power broker in the south, is shot dead in Kandahar.
 

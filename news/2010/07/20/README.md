@@ -45,7 +45,7 @@ _Context: November's presidential poll, Supreme Court_
 
 ##### Prime Minister
 ### [Prime Minister of the United Kingdom David Cameron meets with US President Barack Obama to discuss the Gulf of Mexico oil spill, Afghanistan and the global economy. ](/news/2010/07/20/prime-minister-of-the-united-kingdom-david-cameron-meets-with-us-president-barack-obama-to-discuss-the-gulf-of-mexico-oil-spill-afghanistan.md)
-_Context: Afghanistan, Barack Obama, David Cameron, Deepwater Horizon oil spill, Prime Minister, U.S. President_
+_Context: Afghan, Barack Obama, David Cameron, Deepwater Horizon oil spill, Prime Minister, U.S. President_
 
 ##### ASEAN
 ### [ASEAN requests that Myanmar hold free elections. ](/news/2010/07/20/asean-requests-that-myanmar-hold-free-elections.md)
@@ -95,7 +95,7 @@ _Context: ASEAN, East Asia Summit, Hanoi, Myanmar, Russia, United States, Vietna
 ### [The leadership of Secretary-General of the United Nations Ban Ki-moon is attacked. ](/news/2010/07/20/the-leadership-of-secretary-general-of-the-united-nations-ban-ki-moon-is-attacked.md)
 _Context: Ban Ki-moon, United Nations Secretary-General_
 
-##### Turkish
+##### Turkey
 ### [Turkish foreign minister Ahmet Davutoglu and exiled Hamas leader Khaled Mashal meet for talks in Syria. ](/news/2010/07/20/turkish-foreign-minister-ahmet-davutoalu-and-exiled-hamas-leader-khaled-mashal-meet-for-talks-in-syria.md)
 Turkish Foreign Minister Ahmet Davutoglu has met with Hamas supremo Khaled Meshaal in Damascus, Anatolia news agency reported.
 
@@ -107,9 +107,9 @@ North Korea has executed by firing squad a former Cabinet official who was in ch
 ### [Former North Korean spy Kim Hyon Hui is allowed into Japan via Haneda Airport on a government-chartered jet, after the country waives its own immigration rules. ](/news/2010/07/20/former-north-korean-spy-kim-hyon-hui-is-allowed-into-japan-via-haneda-airport-on-a-government-chartered-jet-after-the-country-waives-its-ow.md)
 A former North Korean spy who blew up a plane killing 115 people is in Japan to meet families of people abducted to North Korea.
 
-##### Afghanistan
+##### Afghan
 ### [An international conference on the future of Afghanistan opens in Kabul co-chaired by the President of Afghanistan Hamid Karzai and the Secretary-General of the United Nations Ban Ki-moon. The conference endorses a goal for Afghan forces to lead security operations across the country by 2014. Afghan President Hamid Karzai suggests raising the size of the Afghan National Army to 170,000 troops and the Afghan National Police to 134,000 officers by 2011. ](/news/2010/07/20/an-international-conference-on-the-future-of-afghanistan-opens-in-kabul-co-chaired-by-the-president-of-afghanistan-hamid-karzai-and-the-secr.md)
-_Context: Afghan National Army, Afghan President, Afghanistan, Ban Ki-moon, Hamid Karzai, Kabul, United Nations Secretary-General, police_
+_Context: Afghan, Afghan National Army, Afghan President, Ban Ki-moon, Hamid Karzai, Kabul, United Nations Secretary-General, police_
 
 ##### United States
 ### [The United States announces it is to deploy troops along the US-Mexico border in August in what it sees as an effort to improve its security. ](/news/2010/07/20/the-united-states-announces-it-is-to-deploy-troops-along-the-us-mexico-border-in-august-in-what-it-sees-as-an-effort-to-improve-its-security.md)
@@ -155,7 +155,7 @@ _Context: Forward Poetry Prize_
 ### [Author Alan Shadrake is released on bail after being arrested while promoting his book on the death penalty in Singapore; a trial is forthcoming on 30 July. ](/news/2010/07/20/author-alan-shadrake-is-released-on-bail-after-being-arrested-while-promoting-his-book-on-the-death-penalty-in-singapore-a-trial-is-forthco.md)
 Writer of book on death penalty out on bail ahead of trial for alleged defamation.
 
-##### Turkish
+##### Turkey
 ### [Turkey says six of its soldiers were killed and fifteen wounded in an attack by Kurdish rebels near the Iraqi border. Turkey also says that one rebel was killed during the attack, and that others were being pursued by the military. ](/news/2010/07/20/turkey-says-six-of-its-soldiers-were-killed-and-fifteen-wounded-in-an-attack-by-kurdish-rebels-near-the-iraqi-border-turkey-also-says-that.md)
 Six Turkish soldiers are killed in an attack by Kurdish rebels near the border with Iraq, Turkish reports say.
 
@@ -165,7 +165,7 @@ _Context: Rwanda, Uganda, United Nations, attacks_
 
 ##### William Hague
 ### [William Hague, the United Kingdom Foreign Secretary, says that British soldiers should be out of Afghanistan by 2014. ](/news/2010/07/20/william-hague-the-united-kingdom-foreign-secretary-says-that-british-soldiers-should-be-out-of-afghanistan-by-2014.md)
-_Context: Afghanistan, British Army, Foreign Secretary, UK, William Hague_
+_Context: Afghan, British Army, Foreign Secretary, UK, William Hague_
 
 ##### Thailand
 ### [Thailand's government lifts a state of emergency in 3 provinces; it remains in 16 others, including Bangkok. ](/news/2010/07/20/thailand-s-government-lifts-a-state-of-emergency-in-3-provinces-it-remains-in-16-others-including-bangkok.md)

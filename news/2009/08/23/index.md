@@ -31,9 +31,9 @@ _Context: Australia, offshore oil platform, oil spill_
 ### [ Yemeni troops claim to have killed more than 100 Shia rebels in the past two weeks, including two leaders, but the rebels deny their leaders, Mohsen Saleh Gawd and Salah Jorman, are dead and no independent confirmation is made available. ](/news/2009/08/23/yemeni-troops-claim-to-have-killed-more-than-100-shia-rebels-in-the-past-two-weeks-including-two-leaders-but-the-rebels-deny-their-leader.md)
 _Context: Mohsen Saleh Gawd, Salah Jorman, Shia, Yemen_
 
-##### Afghanistan
+##### Afghan
 ### [ Afghan President Hamid Karzai's main rival Abdullah Abdullah alleges fraud in the presidential election. ](/news/2009/08/23/afghan-president-hamid-karzai-s-main-rival-abdullah-abdullah-alleges-fraud-in-the-presidential-election.md)
-_Context: Abdullah Abdullah, Afghan President, Afghanistan, Hamid Karzai, presidential election_
+_Context: Abdullah Abdullah, Afghan, Afghan President, Hamid Karzai, presidential election_
 
 ##### Fidel Castro
 ### [ A new picture of Fidel Castro is published in the "Juventud Rebelde" state-run newspaper, apparently showing Cuba's ailing former leader in much better health. ](/news/2009/08/23/a-new-picture-of-fidel-castro-is-published-in-the-juventud-rebelde-state-run-newspaper-apparently-showing-cuba-s-ailing-former-leader-in.md)

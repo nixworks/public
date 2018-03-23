@@ -3,7 +3,7 @@ Formats: [HTML](2014/01/11/index.html)  [JSON](2014/01/11/index.json)  [XML](201
 
 ## [2014-01-11](/news/2014/01/11/index.md)
 
-##### French President
+##### President of France
 ### [French President Francois Hollande is under pressure after photos of him and actress Julie Gayet appear in a magazine. ](/news/2014/01/11/french-president-franassois-hollande-is-under-pressure-after-photos-of-him-and-actress-julie-gayet-appear-in-a-magazine.md)
 French President Francois Hollande is under pressure to clarify his personal situation, after a magazine report about an alleged secret affair.
 

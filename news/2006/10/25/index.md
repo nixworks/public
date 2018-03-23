@@ -29,7 +29,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Islamic Courts Union
 ### [ The Islamic Courts Union in Somalia has begun recruiting thousands of people in response to alleged military action by neighboring Ethiopia, amid fears of all-out war across the country. ](/news/2006/10/25/the-islamic-courts-union-in-somalia-has-begun-recruiting-thousands-of-people-in-response-to-alleged-military-action-by-neighboring-ethiopia.md)
-_Context: Ethiopia, Islamic Courts Union, Somalia, alleged military action_
+_Context: Ethiopia, Islamic Courts Union, Somali, alleged military action_
 
 ##### Conflict in the Niger Delta
 ### [ Conflict in the Niger Delta: Villagers in Nigeria storm and seize three Royal Dutch Shell oil platforms in the Niger Delta, forcing oil production to be shut down at each one. ](/news/2006/10/25/conflict-in-the-niger-delta-villagers-in-nigeria-storm-and-seize-three-royal-dutch-shell-oil-platforms-in-the-niger-delta-forcing-oil-pro.md)

@@ -37,7 +37,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Segolene Royal
 ### [ Segolene Royal wins the Socialist Party's nomination to run for President of France in next year's election; she becomes France's first-ever female presidential candidate representing a major party. ](/news/2006/11/16/sa-c-gola-ne-royal-wins-the-socialist-party-s-nomination-to-run-for-president-of-france-in-next-year-s-election-she-becomes-france-s-first-e.md)
-_Context: 2007 presidential election, French President, PS, Segolene Royal_
+_Context: 2007 presidential election, PS, President of France, Segolene Royal_
 
 ##### Tonga
 ### [ Rioters smash windows, overturn cars and loot and burn buildings in Tonga's capital Nuku'alofa following a pro-democracy rally. ](/news/2006/11/16/rioters-smash-windows-overturn-cars-and-loot-and-burn-buildings-in-tonga-s-capital-nuku-alofa-following-a-pro-democracy-rally.md)

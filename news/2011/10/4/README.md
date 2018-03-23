@@ -53,7 +53,7 @@ EU regulators are set toformally object to the proposed merger of Deutsche Boers
 
 ##### Car bombing
 ### [At least 130 people are killed in a car bombing in the Somali capital Mogadishu. ](/news/2011/10/4/at-least-130-people-are-killed-in-a-car-bombing-in-the-somali-capital-mogadishu.md)
-_Context: Mogadishu, Somalia, car bombing_
+_Context: Mogadishu, Somali, car bombing_
 
 ##### Shiite
 ### [Gunmen kill 12 Shiite Muslims near the Pakistani city of Quetta in an apparent sectarian killing. ](/news/2011/10/4/gunmen-kill-12-shiite-muslims-near-the-pakistani-city-of-quetta-in-an-apparent-sectarian-killing.md)

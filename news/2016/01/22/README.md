@@ -11,7 +11,7 @@ _Context: Sichuan, Wei Hong, World Health Organization, Yin Li_
 ### [A former La Loche Community School student shot and killed two brothers at home, and two females, one a teacher, at the school in La Loche, Saskatchewan, Canada, while injuring others. A suspect has been arrested. ](/news/2016/01/22/a-former-la-loche-community-school-student-shot-and-killed-two-brothers-at-home-and-two-females-one-a-teacher-at-the-school-in-la-loche.md)
 A small community in northern Saskatchewan is reeling after shootings at two locations left four people dead. Several others were wounded in the violence in La Loche, which has a population of about 3,000 people.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [The United States government implements new restrictions to its visa waiver program which now requires, with limited exceptions, European, Japanese and Australian travelers to the United States who either have been visitors in the last five years to or are dual-citizens of Iran, Iraq, Syria and Sudan to obtain a travel visa. The new visa policies were mandated by legislation which was passed, in the aftermath of November 2015 Paris attacks, by Congress on the grounds of national security. ](/news/2016/01/22/the-united-states-government-implements-new-restrictions-to-its-visa-waiver-program-which-now-requires-with-limited-exceptions-european-j.md)
 Travelers who hold dual citizenship from Iran, Iraq, Sudan or Syria, or have visited one of those countries in the last five years, may no longer participate in the visa-waiver program.
 

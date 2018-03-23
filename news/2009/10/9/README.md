@@ -5,7 +5,7 @@ Formats: [HTML](2009/10/9/index.html)  [JSON](2009/10/9/index.json)  [XML](2009/
 
 ##### Amputee
 ### [ Public amputations on three men accused of robbery occur in Somalia. ](/news/2009/10/9/public-amputations-on-three-men-accused-of-robbery-occur-in-somalia.md)
-_Context: Somalia, amputee_
+_Context: Somali, amputee_
 
 ##### Arizona
 ### [ Two people die after being overcome by sweat and about 19 others are hospitalised at a spiritual retreat in Arizona, USA. ](/news/2009/10/9/two-people-die-after-being-overcome-by-sweat-and-about-19-others-are-hospitalised-at-a-spiritual-retreat-in-arizona-usa.md)

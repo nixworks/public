@@ -5,7 +5,7 @@ Formats: [HTML](2013/02/13/index.html)  [JSON](2013/02/13/index.json)  [XML](201
 
 ##### U.S.
 ### [The U.S. administration's nominee to become next Treasury Secretary, Jack Lew, testifies before the financial committee of the United States Senate at the start of his confirmation hearing. ](/news/2013/02/13/the-u-s-administration-s-nominee-to-become-next-treasury-secretary-jack-lew-testifies-before-the-financial-committee-of-the-united-states.md)
-_Context: Jack Lew, Treasury Secretary, U.S., United States Senate_
+_Context: Jack Lew, Senate, Treasury Secretary, U.S._
 
 ##### Israel
 ### [Israel confirms that in 2010 it secretly imprisoned an Australian-Israeli man, known as Prisoner X, and that he committed suicide in custody. ](/news/2013/02/13/israel-confirms-that-in-2010-it-secretly-imprisoned-an-australianaisraeli-man-known-as-prisoner-x-and-that-he-committed-suicide-in-custo.md)
@@ -37,7 +37,7 @@ _Context: Boudhanath, Chinese, Nepal, Tibet, Tibetan Buddhist, protest, sets her
 
 ##### Antonov An-24
 ### [South Airlines Flight 8971: An Antonov An-24 aircraft carrying 44 passengers and 8 crew members crash lands near the Eastern Ukrainian city of Donetsk, killing 4 people on board and injuring 8 others. ](/news/2013/02/13/south-airlines-flight-8971-an-antonov-an-24-aircraft-carrying-44-passengers-and-8-crew-members-crash-lands-near-the-eastern-ukrainian-city.md)
-_Context: Antonov An-24, Donetsk, Eastern Ukraine, Ukraine, crash lands_
+_Context: Antonov An-24, Donetsk, Eastern Ukraine, Ukrainian, crash lands_
 
 ##### Apple Inc.
 ### [Apple Inc. is denied their request to sell their phones under the name "iPhone" in Brazil after regulators voted in favor of IGB Electronica who won the rights to use the name in 2008. ](/news/2013/02/13/apple-inc-is-denied-their-request-to-sell-their-phones-under-the-name-iphone-in-brazil-after-regulators-voted-in-favor-of-igb-electronica.md)

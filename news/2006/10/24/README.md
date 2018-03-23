@@ -33,7 +33,7 @@ _Context: Dow Jones Industrial Average_
 
 ##### Ethiopian Prime Minister
 ### [ Ethiopian Prime Minister Meles Zenawi accuses the Government of Eritrea of jeopardizing regional stability by engaging in a proxy war through its assistance to the Islamic Courts Union in Somalia. Zenawi warns the Ethiopian Parliament that "Jihadists are amassing their forces near our borders.](/news/2006/10/24/ethiopian-prime-minister-meles-zenawi-accuses-the-government-of-eritrea-of-jeopardizing-regional-stability-by-engaging-in-a-proxy-war-throu.md)
-_Context: Ethiopian Prime Minister, Government of Eritrea, Islamic Courts Union, Jihad, Meles Zenawi, Somalia, proxy war_
+_Context: Ethiopian Prime Minister, Government of Eritrea, Islamic Courts Union, Jihad, Meles Zenawi, Somali, proxy war_
 
 ## [Previous Day...](/news/2006/10/23/index.md)
 

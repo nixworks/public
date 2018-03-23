@@ -11,7 +11,7 @@ A British offshoot of the Black Lives Matter movement blocked the road to London
 ### [A Swedish court orders the owner of the luxury cruise ship Ocean Gala that was due to house 1,800 asylum seekers before the Swedish Migration Agency pulled the plug to immediately leave its port. The local County administration says it intends to forcefully execute the ruling of the court if the vessel has not left the port by Monday morning. ](/news/2016/08/5/a-swedish-court-orders-the-owner-of-the-luxury-cruise-ship-ocean-gala-that-was-due-to-house-1-800-asylum-seekers-before-the-swedish-migratio.md)
 The owner of a luxury cruise ship due to house asylum seekers in Sweden before the migration board pulled the plug has been told the craft must leave its port by a court.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Ventimiglian police commander Giorgio Marenco says the more than 100 migrants who crashed the Italian border town's police barriers and entered France remain, under French police surveillance, outside the French Riviera town of Menton. ](/news/2016/08/5/ventimiglian-police-commander-giorgio-marenco-says-the-more-than-100-migrants-who-crashed-the-italian-border-town-s-police-barriers-and-ente.md)
 More than 100 migrants broke through police barriers at the Italian border town of Ventimiglia and made their way into France on Friday, the local Italian police chief said.
 

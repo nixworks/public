@@ -19,7 +19,7 @@ The former Seoul bureau chief of the Japanese daily Sankei Shimbun was found inn
 ### [ United States federal prosecutors in New York City arrest Martin Shkreli on securities fraud charges for allegedly plundering for personal gain Retrophin, a biopharmaceutical company he ran as CEO from 2012 to 2014. ](/news/2015/12/17/united-states-federal-prosecutors-in-new-york-city-arrest-martin-shkreli-on-securities-fraud-charges-for-allegedly-plundering-for-personal.md)
 A boyish-looking entrepreneur who became the new face of corporate greed when he jacked up the price of a lifesaving drug fiftyfold was led away in handcuffs by the FBI on unrelated fraud charges Thursday in a scene that left more than a few Americans positively gleeful.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [ Riots break out in the western Dutch town of Geldermalsen over plans to establish a centre for asylum seekers in the town. Local police say they made several arrests. Including this year's arrivals, the Dutch government said in November it expected to receive 58,000 asylum seekers by the end of 2016. ](/news/2015/12/17/riots-break-out-in-the-western-dutch-town-of-geldermalsen-over-plans-to-establish-a-centre-for-asylum-seekers-in-the-town-local-police-say.md)
 A meeting in a Dutch down discussing plans to build a centre to house asylum seekers is abandoned after protesters riot.
 
@@ -29,7 +29,7 @@ The U.N. General Assembly on Thursday formally endorsed a resolution by a majori
 
 ##### World Trade Organization
 ### [ The World Trade Organization approves Afghanistan's membership at its 10th ministerial conference in Nairobi, Kenya. Afghanistan becomes the 164th WTO member and is the 36th least developed country (LDC) in the global trade body. ](/news/2015/12/17/the-world-trade-organization-approves-afghanistan-s-membership-at-its-10th-ministerial-conference-in-nairobi-kenya-afghanistan-becomes-th.md)
-_Context: Afghanistan, Kenya, Nairobi, World Trade Organization, least developed country_
+_Context: Afghan, Kenya, Nairobi, World Trade Organization, least developed country_
 
 ##### United Nations Security Council
 ### [ The United Nations Security Council unanimously adopts a resolution aimed at disrupting revenue the Islamic State gets from oil sales, ransom payments, and other criminal activities. ](/news/2015/12/17/the-united-nations-security-council-unanimously-adopts-a-resolution-aimed-at-disrupting-revenue-the-islamic-state-gets-from-oil-sales-rans.md)

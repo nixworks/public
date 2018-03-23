@@ -31,9 +31,9 @@ Storms in southern and central China have left at least 26 people dead and 10 mi
 ### [Drugmaker Pfizer says it will not proceed with its attempted $119 billion bid for AstraZeneca. ](/news/2014/05/26/drugmaker-pfizer-says-it-will-not-proceed-with-its-attempted-119-billion-bid-for-astrazeneca.md)
 _Context: AstraZeneca, Pfizer_
 
-##### Islam
+##### Muslim
 ### [Islamist terror group Boko Haram kills at least 33 security personnel during attacks in Nigeria's northeastern Yobe State. ](/news/2014/05/26/islamist-terror-group-boko-haram-kills-at-least-33-security-personnel-during-attacks-in-nigeria-s-northeastern-yobe-state.md)
-_Context: Boko Haram, Islam, Nigeria, Yobe State_
+_Context: Boko Haram, Muslim, Nigeria, Yobe State_
 
 ##### 276 girls kidnapped from northern Nigeria
 ### [Air Marshal Alex Barde, the Nigeria head of defense, tells protesters in Abuja that the military knows where the 300 girls kidnapped by Boko Haram are but are reluctant to rescue them due to the fear of having them killed. ](/news/2014/05/26/air-marshal-alex-barde-the-nigeria-head-of-defense-tells-protesters-in-abuja-that-the-military-knows-where-the-300-girls-kidnapped-by-boko.md)

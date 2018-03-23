@@ -71,9 +71,9 @@ _Context: Iran, Islamic Revolutionary Guards, Israeli, Kenya, Saudi Arabian, UK,
 ### [Children in Ja'ar, Yemen, accidentally set off a shell, killing one and wounding seven others. ](/news/2012/07/2/children-in-jae-ar-yemen-accidentally-set-off-a-shell-killing-one-and-wounding-seven-others.md)
 _Context: Ja'ar, Yemen_
 
-##### Somalia
+##### Somali
 ### [Four foreign aid workers held hostage inside Somalia are rescued by Somali forces after they were kidnapped from a Kenyan refugee camp on June 29. ](/news/2012/07/2/four-foreign-aid-workers-held-hostage-inside-somalia-are-rescued-by-somali-forces-after-they-were-kidnapped-from-a-kenyan-refugee-camp-on-ju.md)
-_Context: Kenya, Somalia_
+_Context: Kenya, Somali_
 
 ## [Previous Day...](/news/2012/07/1/index.md)
 

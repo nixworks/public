@@ -35,7 +35,7 @@ A Fox Lake police officer was shot Tuesday morning, and a massive manhunt with d
 ### [Eurostar services between Paris and London are delayed by hundreds of migrants trying to board the trains at Calais. ](/news/2015/09/1/eurostar-services-between-paris-and-london-are-delayed-by-hundreds-of-migrants-trying-to-board-the-trains-at-calais.md)
 Hundreds of passengerswere stranded for hours on five Eurostar high-speed trains afterreports that migrants were blocking the tracks leading to thetunnel under the English Channel and were attempting to climbaboard.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Authorities in Hungary close the Budapest Keleti railway station to prevent hundreds of migrants from boarding trains to other European capitals. ](/news/2015/09/1/authorities-in-hungary-close-the-budapest-keleti-railway-station-to-prevent-hundreds-of-migrants-from-boarding-trains-to-other-european-capi.md)
 Hungary has closed Budapest&amp;#39;s main railway station today as hundreds of migrants queued up to board trains to other EU countries. 
 

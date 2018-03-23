@@ -3,7 +3,7 @@ Formats: [HTML](2015/09/23/index.html)  [JSON](2015/09/23/index.json)  [XML](201
 
 ## [2015-09-23](/news/2015/09/23/index.md)
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Slovakia mounts a legal challenge to mandatory quotas decided in a European Union ministerial summit yesterday. ](/news/2015/09/23/slovakia-mounts-a-legal-challenge-to-mandatory-quotas-decided-in-a-european-union-ministerial-summit-yesterday.md)
 Splits within the EU on the relocation of migrants are further exposed as leaders gather for an emergency meeting in Brussels.
 

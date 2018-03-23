@@ -39,7 +39,7 @@ _Context: Chinese, Dongguan, thunderstorm_
 ### [A magnitude 6.4 earthquake strikes near Kumamoto, Japan, collapsing several buildings killing at least four people and injuring 400. However, no tsunami warning was issued and local nuclear power plants reported no problems. ](/news/2016/04/14/a-magnitude-6-4-earthquake-strikes-near-kumamoto-japan-collapsing-several-buildings-killing-at-least-four-people-and-injuring-400-however.md)
  A strong earthquake hit southwestern Japan on Thursday, bringing down some buildings, killing at least nine people and injuring hundreds, local media said, but
 
-##### Ukraine
+##### Ukrainian
 ### [Authorities in Ukraine recover four Dutch Golden Age paintings stolen from a museum in the Netherlands a decade ago. ](/news/2016/04/14/authorities-in-ukraine-recover-four-dutch-golden-age-paintings-stolen-from-a-museum-in-the-netherlands-a-decade-ago.md)
 KIEV, Ukraine (AP) — Ukrainian officials have announced the recovery of four paintings from a trove of Dutch Golden Age art that was stolen from a Dutch museum more than a decade ago. At a Thursday briefing showing the four...
 
@@ -49,7 +49,7 @@ In separate incident, two 12-year-old Palestinian kids arrested with knives in J
 
 ##### War in Afghanistan (2015-present)
 ### [Taliban militants kill eight people, including a police commander, in an ambush in northern Afghanistan. ](/news/2016/04/14/taliban-militants-kill-eight-people-including-a-police-commander-in-an-ambush-in-northern-afghanistan.md)
-_Context: Afghanistan, Taliban, War in Afghanistan (2015-present), police_
+_Context: Afghan, Taliban, War in Afghanistan (2015-present), police_
 
 ## [Previous Day...](/news/2016/04/13/index.md)
 

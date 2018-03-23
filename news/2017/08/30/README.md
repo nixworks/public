@@ -11,9 +11,9 @@ Breakthrough Listen detected more radio pulses from the famous repeating source 
 ### [A shooting at a motel in Sacramento County, California, leaves a Sacramento County Sheriff's Department deputy dead and two California Highway Patrol officers injured. The suspect is later arrested. ](/news/2017/08/30/a-shooting-at-a-motel-in-sacramento-county-california-leaves-a-sacramento-county-sheriff-s-department-deputy-dead-and-two-california-highw.md)
 Deputy Robert French, a 21-year veteran of the Sacramento County Sheriff&#x27;s Department, died from a gunshot wound to his side, Sheriff Scott Jones said.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [The Government of Hungary has decided to extend the state of emergency declared last year because of the increased migration to and through the country. Government spokesman Zoltan Kovacs stated that strict border controls were still needed because the "threat of terrorism in Europe has increased". ](/news/2017/08/30/the-government-of-hungary-has-decided-to-extend-the-state-of-emergency-declared-last-year-because-of-the-increased-migration-to-and-through.md)
-_Context: European migrant crisis, Government of Hungary, Zoltan Kovacs, states of emergency_
+_Context: Government of Hungary, Zoltan Kovacs, refugee immigration to Germany, states of emergency_
 
 ##### Childhood leukemia
 ### [The Food and Drug Administration has approved the first treatment that genetically engineers patients' own blood cells to destroy acute lymphoblastic leukemia. The approval makes Novartis the proprietor of the first gene therapy to hit the U.S. market. ](/news/2017/08/30/the-food-and-drug-administration-has-approved-the-first-treatment-that-genetically-engineers-patients-own-blood-cells-to-destroy-acute-lymp.md)

@@ -65,7 +65,7 @@ Toyota Motor Corp (7203.T) has recalled 3.37 million cars worldwide over possibl
 
 ##### War in Somalia
 ### [Kenyan army forces kill five suspected Al-Shabaab militants, four during a clash at a military camp in Lamu County, and another in Malindi. ](/news/2016/06/29/kenyan-army-forces-kill-five-suspected-al-shabaab-militants-four-during-a-clash-at-a-military-camp-in-lamu-county-and-another-in-malindi.md)
-_Context: Al-Shabaab, Kenyan army forces, Lamu County, Malindi, War in Somalia_
+_Context: Al-Shabab, Kenyan army forces, Lamu County, Malindi, War in Somalia_
 
 ##### Syrian Civil War
 ### [At least 10 people are killed and nine others are wounded following a car bomb attack in Tell Abyad, near the Syria-Turkey border, according to the Syrian Observatory for Human Rights. ](/news/2016/06/29/at-least-10-people-are-killed-and-nine-others-are-wounded-following-a-car-bomb-attack-in-tell-abyad-near-the-syriaaturkey-border-accordi.md)

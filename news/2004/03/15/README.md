@@ -33,7 +33,7 @@ _Context: Hardy Myers, Multnomah County, Oregon, Same-sex marriage in the United
 
 ##### Pavlo Lazarenko
 ### [ Pavlo Lazarenko, former prime minister of Ukraine, stands trial in a U.S. federal court in San Francisco for money laundering. ](/news/2004/03/15/pavlo-lazarenko-former-prime-minister-of-ukraine-stands-trial-in-a-u-s-federal-court-in-san-francisco-for-money-laundering.md)
-_Context: Pavlo Lazarenko, San Francisco, Ukraine, money laundering_
+_Context: Pavlo Lazarenko, San Francisco, Ukrainian, money laundering_
 
 ##### Baptist church
 ### [ Four U.S. Baptist missionaries working on a water purification project are killed in a drive-by shooting in the northern Iraqi city of Mosul. ](/news/2004/03/15/four-u-s-baptist-missionaries-working-on-a-water-purification-project-are-killed-in-a-drive-by-shooting-in-the-northern-iraqi-city-of-mosu.md)

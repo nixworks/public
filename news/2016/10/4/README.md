@@ -55,9 +55,9 @@ UK scientists believe urine could be used for a quick and simple way to test for
 ### [A series of explosions in an apartment building in Harbin, China, kills at least three people and injures dozens more. ](/news/2016/10/4/a-series-of-explosions-in-an-apartment-building-in-harbin-china-kills-at-least-three-people-and-injures-dozens-more.md)
 A series of explosions rocked a high-rise building in the northeastern Chinese city of Harbin on Tuesday, killing three people.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Authorities find at least 28 migrants dead off the coast of Libya in a day of frantic rescues. ](/news/2016/10/4/authorities-find-at-least-28-migrants-dead-off-the-coast-of-libya-in-a-day-of-frantic-rescues.md)
-_Context: European migrant crisis, Libya_
+_Context: Libya, refugee immigration to Germany_
 
 ##### 2016 Atlantic hurricane season
 ### [Weather forecasters track Hurricane Matthew as it makes landfall in Haiti and issue hurricane warnings for Cuba and the Bahamas. ](/news/2016/10/4/weather-forecasters-track-hurricane-matthew-as-it-makes-landfall-in-haiti-and-issue-hurricane-warnings-for-cuba-and-the-bahamas.md)
@@ -73,7 +73,7 @@ The FTSE 100 share index comes close to an all-time high after rising above 7,00
 
 ##### War in Somalia (2009-present)
 ### [A security operation by the Somali Army in Lower Shabelle region kills 14 al-Shabaab fighters. ](/news/2016/10/4/a-security-operation-by-the-somali-army-in-lower-shabelle-region-kills-14-al-shabaab-fighters.md)
-_Context: Al-Shabaab, Lower Shabelle, Somali military, War in Somalia (2009-present)_
+_Context: Al-Shabab, Lower Shabelle, Somali military, War in Somalia (2009-present)_
 
 ##### Sectarianism in Pakistan
 ### [An apparent sectarian attack by two motorcyclists who open fire on a bus traveling to Hazara Town, Quetta, Pakistan, kills four women from Pakistan's Shia Hazara and injures two other people. ](/news/2016/10/4/an-apparent-sectarian-attack-by-two-motorcyclists-who-open-fire-on-a-bus-traveling-to-hazara-town-quetta-pakistan-kills-four-women-from-p.md)

@@ -15,11 +15,11 @@ Polls suggest the embattled Syriza leader might just squeak home in Sunday’s s
 ### [Apple's iOS App Store suffers its first major cyber attack. ](/news/2015/09/20/apple-s-ios-app-store-suffers-its-first-major-cyber-attack.md)
 Apple Inc APPL.O said on Sunday it is cleaning up its iOS App Store to remove malicious iPhone and iPad programs identified in the first large-scale attack on the popular mobile software outlet.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [U.S. Secretary of State John Kerry says that the United States will accept 85,000 refugees from the world in 2016, up from this year's 70,000 refugees, and will increase to 100,000 refugees in 2017. ](/news/2015/09/20/u-s-secretary-of-state-john-kerry-says-that-the-united-states-will-accept-85-000-refugees-from-the-world-in-2016-up-from-this-year-s-70-00.md)
 As Hungary eases its border restrictions, waves of refugees rush towards Western Europe; 13 migrants killed in ferry crash in Turkey
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Some 26 migrants are feared missing after a dinghy carrying them sinks off the coast of the Greek island of Lesbos. The Greek Coast Guard rescued 20 people who were spotted in the water by Frontex, EU's border agency. ](/news/2015/09/20/some-26-migrants-are-feared-missing-after-a-dinghy-carrying-them-sinks-off-the-coast-of-the-greek-island-of-lesbos-the-greek-coast-guard-re.md)
 The Italian coastguard has said nearly 4,700 migrants were rescued from boats in the Mediterranean yesterday, releasing video of the rescue operations at sea.
 

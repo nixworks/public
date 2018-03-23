@@ -37,7 +37,7 @@ _Context: DR Congo, Gregoire Ndahimana, Rwanda, genocide_
 
 ##### Pakistan
 ### [ Gunmen shoot dead five Pakistani Muslim preachers outside a mosque in Galkayo, Somalia. ](/news/2009/08/12/gunmen-shoot-dead-five-pakistani-muslim-preachers-outside-a-mosque-in-galkayo-somalia.md)
-_Context: Galkayo, Islam, Pakistan, Somalia_
+_Context: Galkayo, Muslim, Pakistan, Somali_
 
 ##### Wreckage
 ### [ The wreckage of an Airlines PNG De Havilland Twin Otter 300 plane carrying 11 passengers and 2 crew is found near Isurava, Papua New Guinea; there are no signs of survivors. ](/news/2009/08/12/the-wreckage-of-an-airlines-png-de-havilland-twin-otter-300-plane-carrying-11-passengers-and-2-crew-is-found-near-isurava-papua-new-guinea.md)

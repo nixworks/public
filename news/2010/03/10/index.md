@@ -31,9 +31,9 @@ _Context: 2002 Bali bombings, Australia, Dulmatin, Jakarta, Pamulang, Susilo Bam
 ### [Australia and Indonesia sign an agreement to combat people smuggling. ](/news/2010/03/10/australia-and-indonesia-sign-an-agreement-to-combat-people-smuggling.md)
 _Context: Australia, Indonesia, people smuggling_
 
-##### Cypriot
+##### Cyprus
 ### [Three men are detained in relation to the theft of the corpse of former Cypriot President Tassos Papadopoulos. ](/news/2010/03/10/three-men-are-detained-in-relation-to-the-theft-of-the-corpse-of-former-cypriot-president-tassos-papadopoulos.md)
-_Context: Cypriot, Tassos Papadopoulos_
+_Context: Cyprus, Tassos Papadopoulos_
 
 ##### Burma
 ### [Burma's newly announced second law relating to the 2010 general election bars anyone with a criminal conviction from participating in a political party, effectively barring Aung San Suu Kyi. ](/news/2010/03/10/burma-s-newly-announced-second-law-relating-to-the-2010-general-election-bars-anyone-with-a-criminal-conviction-from-participating-in-a-poli.md)

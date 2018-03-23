@@ -109,7 +109,7 @@ _Context: Libya, NATO, Tripoli, civil war_
 
 ##### Ali Gomaa
 ### [Ali Gomaa, the Islamic Grand Mufti of Egypt, warns of the potential of civil war because of "outlaws who want to defy the authority of the state". ](/news/2011/05/9/ali-gomaa-the-islamic-grand-mufti-of-egypt-warns-of-the-potential-of-civil-war-because-of-outlaws-who-want-to-defy-the-authority-of-the-s.md)
-_Context: Ali Gomaa, Egypt, Grand Mufti, Islam_
+_Context: Ali Gomaa, Egypt, Grand Mufti, Muslim_
 
 ##### Russia
 ### [Russian President Dmitry Medvedev presides over the Victory Day Parade on Moscow's Red Square. ](/news/2011/05/9/russian-president-dmitry-medvedev-presides-over-the-victory-day-parade-on-moscow-s-red-square.md)

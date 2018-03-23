@@ -23,9 +23,9 @@ One of Britain&#39;s biggest mobile phone companies has admitted to a major cybe
 ### [Japanese Prime Minister Shinzo Abe becomes the first foreign head of government to meet President-elect of the United States Donald Trump since his election as President on November 8. ](/news/2016/11/17/japanese-prime-minister-shinza-abe-becomes-the-first-foreign-head-of-government-to-meet-president-elect-of-the-united-states-donald-trump-s.md)
 _Context: 2016 U.S. election, Donald Trump, Japan-United States relations, Japanese Prime Minister, President-elect, Shinzo Abe_
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Around 100 people are feared to have drowned in the Mediterranean Sea off the coast of Libya. So far this week, 18 people are confirmed dead and 340 missing attempting to migrate to Europe. ](/news/2016/11/17/around-100-people-are-feared-to-have-drowned-in-the-mediterranean-sea-off-the-coast-of-libya-so-far-this-week-18-people-are-confirmed-dead.md)
-_Context: Europe, European migrant crisis, Libya, Mediterranean Sea_
+_Context: Europe, Libya, Mediterranean Sea, refugee immigration to Germany_
 
 ##### Caphiridzange explosion
 ### [At least 73 people have been killed and hundreds injured in a fuel tanker explosion in the town of Caphiridzange in Mozambique's Tete Province. ](/news/2016/11/17/at-least-73-people-have-been-killed-and-hundreds-injured-in-a-fuel-tanker-explosion-in-the-town-of-caphiridzange-in-mozambique-s-tete-provin.md)

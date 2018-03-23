@@ -11,9 +11,9 @@ _Context: Aung San Suu Kyi, Myanmar general election, 2015, National League for 
 ### [Reuters reports Japanese Prime Minister Shinzo Abe and Philippine President Benigno Aquino are set to agree on a deal paving the way for Tokyo to directly supply Manila with used military equipment. An announcement is expected this week during the Asia-Pacific Economic Cooperation (APEC) summit in Manila. ](/news/2015/11/15/reuters-reports-japanese-prime-minister-shinza-abe-and-philippine-president-benigno-aquino-are-set-to-agree-on-a-deal-paving-the-way-for-to.md)
 The Japanese and Philippine leaders will agree this week on a deal paving the way for Tokyo to supply Manila with used military equipment, possibly including aircraft that could be deployed to patrol the disputed South China Sea, sources said.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Swedish police increase checks of asylum facilities in the country's southwest amid reports refugees are leaving to avoid being registered by immigration officials. ](/news/2015/11/15/swedish-police-increase-checks-of-asylum-facilities-in-the-country-s-southwest-amid-reports-refugees-are-leaving-to-avoid-being-registered-b.md)
-_Context: European migrant crisis, Sweden, asylum facilities, immigration officials, refugee_
+_Context: Sweden, asylum facilities, immigration officials, refugee, refugee immigration to Germany_
 
 ##### November 2015 Paris attacks
 ### [The top of Dubai's Burj Khalifa, the world's tallest skyscraper, is lit up in the blue, white and red of the French flag, in tribute to France and those killed in the attacks in Paris. Other landmark buildings in the United Arab Emirates, including the sail-shaped Burj Al Arab building, also paid tribute. ](/news/2015/11/15/the-top-of-dubai-s-burj-khalifa-the-world-s-tallest-skyscraper-is-lit-up-in-the-blue-white-and-red-of-the-french-flag-in-tribute-to-fran.md)

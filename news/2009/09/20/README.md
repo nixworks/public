@@ -7,7 +7,7 @@ Formats: [HTML](2009/09/20/index.html)  [JSON](2009/09/20/index.json)  [XML](200
 ### [ The bust of a Sumerian king is among eight stolen antiques recovered in an undercover operation by Iraqi police. ](/news/2009/09/20/the-bust-of-a-sumerian-king-is-among-eight-stolen-antiques-recovered-in-an-undercover-operation-by-iraqi-police.md)
 _Context: Iraq, Sumer_
 
-##### Somalia
+##### Somali
 ### [ Somalia's al-Shabaab insurgents warn schools not to use textbooks provided by United Nations agencies and other donors they accuse of being un-Islamic. ](/news/2009/09/20/somalia-s-al-shabaab-insurgents-warn-schools-not-to-use-textbooks-provided-by-united-nations-agencies-and-other-donors-they-accuse-of-being.md)
 Somalia&#039;s hardline al Shabaab insurgents have warned schools not to use textbooks provided by UN agencies and other donors they accuse of being un-Islamic.
 

@@ -3,7 +3,7 @@ Formats: [HTML](2012/01/29/index.html)  [JSON](2012/01/29/index.json)  [XML](201
 
 ## [2012-01-29](/news/2012/01/29/index.md)
 
-##### French President
+##### President of France
 ### [The President of France Nicolas Sarkozy outlines an economic reform package increasing taxes and proposing a new tax on financial transactions. ](/news/2012/01/29/the-president-of-france-nicolas-sarkozy-outlines-an-economic-reform-package-increasing-taxes-and-proposing-a-new-tax-on-financial-transactio.md)
 French&#x20;President&#x20;Nicolas&#x20;Sarkozy&#x20;unveiled&#x20;economic&#x20;reforms&#x20;aimed&#x20;at&#x20;reviving&#x20;France&#x2019;s&#x20;ailing&#x20;economy&#x20;during&#x20;a&#x20;televised&#x20;interview&#x20;on&#x20;Sunday,&#x20;but&#x20;did&#x20;not&#x20;confirm&#x20;his&#x20;intentio...
 

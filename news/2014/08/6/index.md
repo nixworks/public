@@ -13,7 +13,7 @@ Neil Dalton and Aidan Brunger were warned about the dangers of drinking in local
 
 ##### Karamay
 ### [Officials in Karamay in Xinjiang, western China, places a temporary ban on Islamic headscarves, clothing and those with beards from using public transport, following violence in the region. ](/news/2014/08/6/officials-in-karamay-in-xinjiang-western-china-places-a-temporary-ban-on-islamic-headscarves-clothing-and-those-with-beards-from-using-pu.md)
-_Context: Chinese, Islam, Karamay, Xinjiang_
+_Context: Chinese, Karamay, Muslim, Xinjiang_
 
 ##### 2014 West Africa Ebola outbreak
 ### [The World Health Organisation reports that 932 have died from the latest outbreak of the Ebola virus with a man reportedly dying of the disease in Jeddah, Saudi Arabia after a business trip to Sierra Leone. ](/news/2014/08/6/the-world-health-organisation-reports-that-932-have-died-from-the-latest-outbreak-of-the-ebola-virus-with-a-man-reportedly-dying-of-the-dise.md)

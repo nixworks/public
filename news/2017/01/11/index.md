@@ -9,7 +9,7 @@ From this week, Norway will start switching off its national FM network, forcing
 
 ##### Special Inspector General for Afghanistan Reconstruction
 ### [The Special Inspector General for Afghanistan Reconstruction releases a report on Afghanistan, saying that the Afghan Armed Forces are not capable of securing the country and have lost more territory to the Taliban, the most since the United States invasion of Afghanistan in 2001. ](/news/2017/01/11/the-special-inspector-general-for-afghanistan-reconstruction-releases-a-report-on-afghanistan-saying-that-the-afghan-armed-forces-are-not-c.md)
-_Context: Afghanistan, Special Inspector General for Afghanistan Reconstruction, Taliban, United States invasion of Afghanistan, military personnel_
+_Context: Afghan, Special Inspector General for Afghanistan Reconstruction, Taliban, United States invasion of Afghanistan, military personnel_
 
 ##### President-elect
 ### [ President-elect of the United States Donald Trump holds his first post-election press conference in New York City. ](/news/2017/01/11/president-elect-of-the-united-states-donald-trump-holds-his-first-post-election-press-conference-in-new-york-city.md)

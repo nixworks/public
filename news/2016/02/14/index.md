@@ -11,7 +11,7 @@ Port-au-Prince (AFP) - Haitian lawmakers early Sunday elected Jocelerme Privert 
 ### [Voters in the Central African Republic go to the polls for the second round of voting in the presidential election, a runoff between former prime ministers Anicet-Georges Dologuele (1999-2001) and Faustin-Archange Touadera (2008-13). ](/news/2016/02/14/voters-in-the-central-african-republic-go-to-the-polls-for-the-second-round-of-voting-in-the-presidential-election-a-runoff-between-former.md)
 People in the violence-hit Central African Republic vote in the second round of presidential elections.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Slovenia announces that it will be clamping down on the number of migrants that it will allow to enter the country. ](/news/2016/02/14/slovenia-announces-that-it-will-be-clamping-down-on-the-number-of-migrants-that-it-will-allow-to-enter-the-country.md)
 Slovenia said Sunday it would clamp down on the number of migrants allowed to enter the country, ahead of tougher measures set to be announced by neighbouring Austria later this week to slow down the influx. The two EU member states, which also belong to the passport-free Schengen zone, have become
 

@@ -7,9 +7,9 @@ Formats: [HTML](2015/02/15/index.html)  [JSON](2015/02/15/index.json)  [XML](201
 ### [Voters in the German city state of Hamburg go to the polls with the governing Social Democratic Party of Germany led by Olaf Scholz retaining power. ](/news/2015/02/15/voters-in-the-german-city-state-of-hamburg-go-to-the-polls-with-the-governing-social-democratic-party-of-germany-led-by-olaf-scholz-retainin.md)
 Angela Merkel’s conservative Christian Democratic Union (CDU) suffered a rather unexpected defeat in regional elections in Hamburg. The election results were the worst for the Christian Democrats since World War II. Merkel’s Christian Democrats received only 16 percent of the vote in the city-st...
 
-##### Turkish
+##### Turkey
 ### [A Turkish court remands seventeen police officers into custody for allegedly being part of an illegal wiretapping program targeting politicians, bureaucrats, and businessmen. ](/news/2015/02/15/a-turkish-court-remands-seventeen-police-officers-into-custody-for-allegedly-being-part-of-an-illegal-wiretapping-program-targeting-politici.md)
-_Context: Turkish, wiretapped_
+_Context: Turkey, wiretapped_
 
 ##### India
 ### [A house under construction collapses in the Indian city of Mughalsarai in the state of Uttar Pradesh killing twelve people and injuring two. ](/news/2015/02/15/a-house-under-construction-collapses-in-the-indian-city-of-mughalsarai-in-the-state-of-uttar-pradesh-killing-twelve-people-and-injuring-two.md)

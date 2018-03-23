@@ -95,9 +95,9 @@ _Context: National Film Awards, New Delhi, Pratibha Patel_
 ### [2 Iranian films, 'Michael' and 'When the Light Shines', win top prizes at Italy's "13th International Religions Today Film Festival" at its closing ceremony. ](/news/2010/10/22/2-iranian-films-amichaela-and-awhen-the-light-shinesa-win-top-prizes-at-italy-s-a13th-international-religions-today-film-festiva.md)
 _Context: International Religions Today Film Festival, Iran, Italy_
 
-##### Islam
+##### Muslim
 ### [Fighting between pro-government forces and Islamist insurgents in Beled-Hawa district of Somalia near the Kenyan border has killed 12 people. ](/news/2010/10/22/fighting-between-pro-government-forces-and-islamist-insurgents-in-beled-hawa-district-of-somalia-near-the-kenyan-border-has-killed-12-people.md)
-_Context: Beled-Hawa, Islam, Kenya, Somalia_
+_Context: Beled-Hawa, Kenya, Muslim, Somali_
 
 ##### Mosque
 ### [At least two people are killed following a blast near a mosque in Peshawar, Pakistan. ](/news/2010/10/22/at-least-two-people-are-killed-following-a-blast-near-a-mosque-in-peshawar-pakistan.md)
@@ -113,7 +113,7 @@ Indonesia admits that the men seen torturing Papuan villagers in a video uploade
 
 ##### Kirovohrad
 ### [Three bombs explode in front of government offices in Kirovohrad, Ukraine, ahead of a visit by President Viktor Yanukovych. ](/news/2010/10/22/three-bombs-explode-in-front-of-government-offices-in-kirovohrad-ukraine-ahead-of-a-visit-by-president-viktor-yanukovych.md)
-_Context: Kirovohrad, Ukraine, Viktor Yanukovych_
+_Context: Kirovohrad, Ukrainian, Viktor Yanukovych_
 
 ##### Wikileaks
 ### [Wikileaks releases Iraq War Logs, secret American military records which reveal new information, including that U.S. commanders allowed torture and execution to occur without investigation and that hundreds of civilians have been killed at U.S. military checkpoints during the War on Iraq. Hillary Clinton and other U.S. officials condemn the disclosures. ](/news/2010/10/22/wikileaks-releases-iraq-war-logs-secret-american-military-records-which-reveal-new-information-including-that-u-s-commanders-allowed-tort.md)

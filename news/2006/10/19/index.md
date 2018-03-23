@@ -9,7 +9,7 @@ _Context: 2006, Kim Jong-il, Tang Jiaxuan_
 
 ##### Ethiopia
 ### [ Ethiopia's prime minister Meles Zenawi tells the parliament that he had sent military trainers to help Somalia's struggling government, but had not deployed a fighting force. ](/news/2006/10/19/ethiopia-s-prime-minister-meles-zenawi-tells-the-parliament-that-he-had-sent-military-trainers-to-help-somalia-s-struggling-government-but.md)
-_Context: Ethiopia, Meles Zenawi, Somalia, prime minister_
+_Context: Ethiopia, Meles Zenawi, Somali, prime minister_
 
 ##### Nissan Motors
 ### [ Nissan Motor Co. begins recalling over 130,000 vehicles globally including 80,000 in North America because of an ignition key defect. ](/news/2006/10/19/nissan-motor-co-begins-recalling-over-130-000-vehicles-globally-including-80-000-in-north-america-because-of-an-ignition-key-defect.md)
@@ -25,7 +25,7 @@ _Context: Eliot Spitzer, New York City, New York Stock Exchange, Richard Grasso_
 
 ##### Jendayi Frazer
 ### [ Jendayi Frazer, U.S. Assistant Secretary of State for African Affairs, accuses Eritrea of arming the Islamic Courts Union in Somalia and of attacking Ethiopia. ](/news/2006/10/19/jendayi-frazer-u-s-assistant-secretary-of-state-for-african-affairs-accuses-eritrea-of-arming-the-islamic-courts-union-in-somalia-and-of.md)
-_Context: Assistant Secretary of State for African Affairs, Eritrea, Ethiopia, Islamic Courts Union, Jendayi Frazer, Somalia_
+_Context: Assistant Secretary of State for African Affairs, Eritrea, Ethiopia, Islamic Courts Union, Jendayi Frazer, Somali_
 
 ##### Dow Jones Industrial Average
 ### [ The Dow Jones Industrial Average index closes at a record high just above 12,000 points in today's trading, as investors welcome the latest batch of corporate earnings. ](/news/2006/10/19/the-dow-jones-industrial-average-index-closes-at-a-record-high-just-above-12-000-points-in-today-s-trading-as-investors-welcome-the-latest.md)

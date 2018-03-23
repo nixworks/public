@@ -31,7 +31,7 @@ _Context: Mexico City, Villahermosa, crashes_
 ### [A suicide truck bomber detonates at a police station in Kirkuk Governorate, Iraq killing eight policemen. ](/news/2014/04/13/a-suicide-truck-bomber-detonates-at-a-police-station-in-kirkuk-governorate-iraq-killing-eight-policemen.md)
 _Context: Iraq, Kirkuk Governorate_
 
-##### Ukraine
+##### Ukrainian
 ### [Ukraine launches a "full-scale anti-terrorist operation" against pro-Russian protesters who have captured police and security forces buildings in the town of Slaviansk. ](/news/2014/04/13/ukraine-launches-a-full-scale-anti-terrorist-operation-against-pro-russian-protesters-who-have-captured-police-and-security-forces-buildin.md)
 Ukraine has given pro-Russian separatists a Monday morning deadline to disarm or face a &quot;full-scale anti-terrorist operation&quot; by its armed forces, raising the risk of a military confrontation with Moscow.
 

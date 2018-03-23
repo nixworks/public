@@ -11,7 +11,7 @@ U.S. President Barack Obama pledged Sunday to finish restoring the Gulf Coast ar
 ### [Racism in Australia is shown to be subsiding as the country elects its first indigenous parliamentarian, Ken Wyatt. ](/news/2010/08/29/racism-in-australia-is-shown-to-be-subsiding-as-the-country-elects-its-first-indigenous-parliamentarian-ken-wyatt.md)
 An aboriginal man has won a narrow victory in Australia&#039;s election to become the first indigenous MP in the country&#039;s history.
 
-##### Afghanistan
+##### Afghan
 ### [Afghanistan's former deputy attorney-general Fazel Ahmed Faqiryar is sacked over his refusal to obstruct corruption investigations into senior government officials; Faqiryar is critical of President Hamid Karzai. ](/news/2010/08/29/afghanistan-s-former-deputy-attorney-general-fazel-ahmed-faqiryar-is-sacked-over-his-refusal-to-obstruct-corruption-investigations-into-seni.md)
 Official says Hamid Karzai tried to block him from probing high-level corruption cases.
 
@@ -55,7 +55,7 @@ _Context: 62nd Primetime Emmy Awards, Emmy Awards, Mad Men_
 ### [The Catholic Church admits that during a meeting in April Godfried Danneels, the retired Catholic leader in Belgium, advised a person who had experienced abuse to remain silent until his abuser Roger Vangheluwe, the Bishop of Brugge, retired. ](/news/2010/08/29/the-catholic-church-admits-that-during-a-meeting-in-april-godfried-danneels-the-retired-catholic-leader-in-belgium-advised-a-person-who-ha.md)
 _Context: Belgium, Bishop of Brugge, Catholic Church, Godfried Danneels, Roger Vangheluwe_
 
-##### Afghanistan
+##### Afghan
 ### [7 American soldiers are killed in fighting in Afghanistan over the weekend. ](/news/2010/08/29/7-american-soldiers-are-killed-in-fighting-in-afghanistan-over-the-weekend.md)
 Seven U.S. troops have died in weekend attacks in Afghanistan&#39;s embattled southern and eastern regions, while officials found the bodies Sunday of five kidnapped campaign aides working for a female candidate in the western province of Herat.
 

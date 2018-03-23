@@ -33,11 +33,11 @@ _Context: Burma, Yangon_
 
 ##### Egypt
 ### [ Egypt's top Islamic authority, Grand Mufti Ali Gomaa, defends women's rights to wear trousers in public following the high-profile court case in neighbouring Sudan where women, including Lubna al-Hussein, were flogged for dressing in the garments. ](/news/2009/09/17/egypt-s-top-islamic-authority-grand-mufti-ali-gomaa-defends-women-s-rights-to-wear-trousers-in-public-following-the-high-profile-court-ca.md)
-_Context: Ali Gomaa, Egypt, Grand Mufti, Islam, Lubna al-Hussein, Sudan, lashes_
+_Context: Ali Gomaa, Egypt, Grand Mufti, Lubna al-Hussein, Muslim, Sudan, lashes_
 
 ##### Car bomb
 ### [ A large car bomb attack in the centre of Kabul, Afghanistan, kills six Italian ISAF soldiers. ](/news/2009/09/17/a-large-car-bomb-attack-in-the-centre-of-kabul-afghanistan-kills-six-italian-isaf-soldiers.md)
-_Context: Afghanistan, ISAF, Italy, Kabul, car bomb_
+_Context: Afghan, ISAF, Italy, Kabul, car bomb_
 
 ##### Ethiopia
 ### [ Ethiopia's Prime Minister Meles Zenawi denounces an International Crisis Group (ICG) report that warns his country could descend into ethnic violence ahead of its first national election since a 2005 poll triggered deadly street clashes. ](/news/2009/09/17/ethiopia-s-prime-minister-meles-zenawi-denounces-an-international-crisis-group-icg-report-that-warns-his-country-could-descend-into-ethni.md)
@@ -57,15 +57,15 @@ _Context: Shia insurgency in Yemen, Yemen_
 
 ##### African Union
 ### [ Two large explosions hit the main base of African Union peacekeepers in Mogadishu, Somalia. ](/news/2009/09/17/two-large-explosions-hit-the-main-base-of-african-union-peacekeepers-in-mogadishu-somalia.md)
-_Context: African Union, Mogadishu, Somalia_
+_Context: African Union, Mogadishu, Somali_
 
 ##### Prime Minister of the Czech Republic
 ### [ The Prime Minister of the Czech Republic, Jan Fischer, says that President Barack Obama told him that the United States is abandoning plans for a missile shield based in Poland and the Czech Republic. ](/news/2009/09/17/the-prime-minister-of-the-czech-republic-jan-fischer-says-that-president-barack-obama-told-him-that-the-united-states-is-abandoning-plans.md)
 _Context: Barack Obama, Czech Republic, Jan Fischer, Poland, Prime Minister of the Czech Republic, U.S. President, United States, missile shield_
 
-##### French President
+##### President of France
 ### [ The President of France Nicolas Sarkozy says European Union leaders agree to impose a cap on banker pay. ](/news/2009/09/17/the-president-of-france-nicolas-sarkozy-says-european-union-leaders-agree-to-impose-a-cap-on-banker-pay.md)
-_Context: European Union, French President, Nicolas Sarkozy, banking_
+_Context: European Union, Nicolas Sarkozy, President of France, banking_
 
 ##### Soldiers
 ### [ At least 87 refugees are killed after an army air raid on a camp for displaced people in 'Amran Governorate, northern Yemen. ](/news/2009/09/17/at-least-87-refugees-are-killed-after-an-army-air-raid-on-a-camp-for-displaced-people-in-amran-governorate-northern-yemen.md)

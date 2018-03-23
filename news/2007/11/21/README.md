@@ -39,9 +39,9 @@ _Context: Oro Province, Papua New Guinea, cyclone Guba, flooding_
 ### [ Researchers in Kyoto, San Francisco, and Wisconsin publish evidence of turning human skin cells into stem cells by the retroviral insertion of genes. ](/news/2007/11/21/researchers-in-kyoto-san-francisco-and-wisconsin-publish-evidence-of-turning-human-skin-cells-into-stem-cells-by-the-retroviral-insertion.md)
 Turning human skin cells into what appear to be embryonic stem cells without having to make or destroy an embryo could quell an ethical debate.
 
-##### French President
+##### President of France
 ### [ Former President of France Jacques Chirac is probed by a judge for alleged embezzlement of public funds when he was Mayor of Paris. ](/news/2007/11/21/former-president-of-france-jacques-chirac-is-probed-by-a-judge-for-alleged-embezzlement-of-public-funds-when-he-was-mayor-of-paris.md)
-_Context: French President, Jacques Chirac, Mayor of Paris, embezzlement, public funds_
+_Context: Jacques Chirac, Mayor of Paris, President of France, embezzlement, public funds_
 
 ##### White House
 ### [ Former White House Press Secretary Scott McClellan claims that United States President George W. Bush was involved in the Plame affair. ](/news/2007/11/21/former-white-house-press-secretary-scott-mcclellan-claims-that-united-states-president-george-w-bush-was-involved-in-the-plame-affair.md)

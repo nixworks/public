@@ -17,7 +17,7 @@ Find the latest business news on Wall Street, jobs and the economy, the housing 
 
 ##### Denmark
 ### [Police in Denmark shoot a 28-year-old male Somali after he breaks into the Viby J home of Kurt Westergaard, the cartoonist at the centre of the Jyllands-Posten Muhammad cartoons controversy in 2005, and threatens his family with an axe. ](/news/2010/01/2/police-in-denmark-shoot-a-28-year-old-male-somali-after-he-breaks-into-the-viby-j-home-of-kurt-westergaard-the-cartoonist-at-the-centre-of.md)
-_Context: Denmark, Jyllands-Posten Muhammad cartoons controversy, Kurt Westergaard, Somalia, Viby J_
+_Context: Denmark, Jyllands-Posten Muhammad cartoons controversy, Kurt Westergaard, Somali, Viby J_
 
 ##### Antarctic
 ### [An Antarctic expedition finds remains of the first aeroplane brought to the continent, a single-propeller Vickers plane of explorer Douglas Mawson. ](/news/2010/01/2/an-antarctic-expedition-finds-remains-of-the-first-aeroplane-brought-to-the-continent-a-single-propeller-vickers-plane-of-explorer-douglas.md)

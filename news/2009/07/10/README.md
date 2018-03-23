@@ -33,7 +33,7 @@ _Context: Aung San Suu Kyi, National League for Democracy_
 
 ##### Riots
 ### [ Turkey's Prime Minister Erdogan strengthens his rhetoric: "These incidents in China are as if they are genocide. We ask the Chinese government not to remain a spectator to these incidents." ](/news/2009/07/10/turkey-s-prime-minister-erdogan-strengthens-his-rhetoric-these-incidents-in-china-are-as-if-they-are-genocide-we-ask-the-chinese-governm.md)
-_Context:  Erdogan, Turkish, genocide, riots_
+_Context:  Erdogan, Turkey, genocide, riots_
 
 ## [Previous Day...](/news/2009/07/9/index.md)
 

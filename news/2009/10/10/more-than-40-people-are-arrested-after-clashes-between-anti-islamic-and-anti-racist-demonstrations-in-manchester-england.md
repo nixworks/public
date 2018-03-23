@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/10/more-than-40-people-are-arrested-after-clashes-
 
 ### [2009-10-10](/news/2009/10/10/index.md)
 
-##### Islam
+##### Muslim
 #  More than 40 people are arrested after clashes between anti-Islamic and anti-racist demonstrations in Manchester, England. 
 
 

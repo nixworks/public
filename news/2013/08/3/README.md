@@ -25,7 +25,7 @@ _Context: Iraq_
 
 ##### Suicide bombing
 ### [Nine children die in a suicide bombing near the Indian consulate in the Afghan city of Jalalabad. ](/news/2013/08/3/nine-children-die-in-a-suicide-bombing-near-the-indian-consulate-in-the-afghan-city-of-jalalabad.md)
-_Context: Afghanistan, India, Jalalabad, suicide bombing_
+_Context: Afghan, India, Jalalabad, suicide bombing_
 
 ## [Previous Day...](/news/2013/08/2/index.md)
 

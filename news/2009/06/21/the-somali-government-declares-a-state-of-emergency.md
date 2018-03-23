@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/21/the-somali-government-declares-a-state-of-emerg
 
 ### [2009-06-21](/news/2009/06/21/index.md)
 
-##### Somalia
+##### Somali
 #  The Somali government declares a state of emergency. 
 
 
@@ -16,8 +16,8 @@ Formats: [HTML](/news/2009/06/21/the-somali-government-declares-a-state-of-emerg
 
 ### Related:
 
-1. [ Radio Shabelle director Moqtar Mohamed Hirabe is killed in Mogadishu, Somalia. ](/news/2009/06/7/radio-shabelle-director-moqtar-mohamed-hirabe-is-killed-in-mogadishu-somalia.md) _Context: Somalia, declares_
-2. [ At least 36 people die during combat between the Transitional Federal Government and Islamist militants in Webho, Somalia. ](/news/2009/06/6/at-least-36-people-die-during-combat-between-the-transitional-federal-government-and-islamist-militants-in-webho-somalia.md) _Context: Somalia, declares_
-3. [ Somali President Sharif Ahmed requests international aid in combating Islamic militants. ](/news/2009/05/25/somali-president-sharif-ahmed-requests-international-aid-in-combating-islamic-militants.md) _Context: Somalia, declares_
-4. [ Three civilians die during combat between Islamist insurgents and the African Union Mission in Mogadishu, Somalia. ](/news/2009/05/20/three-civilians-die-during-combat-between-islamist-insurgents-and-the-african-union-mission-in-mogadishu-somalia.md) _Context: Somalia, declares_
-5. [ Ethiopia's National Defense Force reenters Somalia. ](/news/2009/05/19/ethiopia-s-national-defense-force-reenters-somalia.md) _Context: Somalia, declares_
+1. [ Radio Shabelle director Moqtar Mohamed Hirabe is killed in Mogadishu, Somalia. ](/news/2009/06/7/radio-shabelle-director-moqtar-mohamed-hirabe-is-killed-in-mogadishu-somalia.md) _Context: Somali, declares_
+2. [ At least 36 people die during combat between the Transitional Federal Government and Islamist militants in Webho, Somalia. ](/news/2009/06/6/at-least-36-people-die-during-combat-between-the-transitional-federal-government-and-islamist-militants-in-webho-somalia.md) _Context: Somali, declares_
+3. [ Somali President Sharif Ahmed requests international aid in combating Islamic militants. ](/news/2009/05/25/somali-president-sharif-ahmed-requests-international-aid-in-combating-islamic-militants.md) _Context: Somali, declares_
+4. [ Three civilians die during combat between Islamist insurgents and the African Union Mission in Mogadishu, Somalia. ](/news/2009/05/20/three-civilians-die-during-combat-between-islamist-insurgents-and-the-african-union-mission-in-mogadishu-somalia.md) _Context: Somali, declares_
+5. [ Ethiopia's National Defense Force reenters Somalia. ](/news/2009/05/19/ethiopia-s-national-defense-force-reenters-somalia.md) _Context: Somali, declares_

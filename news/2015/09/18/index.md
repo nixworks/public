@@ -23,7 +23,7 @@ _Context: Colombia, Sukhoi Su-30MKK, Venezuela, Venezuelan Air Force, illicit dr
 ### [The United States departments of Commerce and Treasury announce removal of a series of restrictions on Americans traveling to and doing business with Cuba effective September 21, 2015. The U.S. economic embargo, itself, remains in place until Congress acts. ](/news/2015/09/18/the-united-states-departments-of-commerce-and-treasury-announce-removal-of-a-series-of-restrictions-on-americans-traveling-to-and-doing-busi.md)
 The United States announced new rules on Friday to further ease trade, travel and investment restrictions with Cuba, but Cuban President Raul Castro told President Barack Obama that Washington should go even further and lift its economic embargo on the Communist-ruled island.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Croatia closes seven out of eight border crossings with Serbia. Zoran Milanovic, the Prime Minister, says that his country "will move migrants on". ](/news/2015/09/18/croatia-closes-seven-out-of-eight-border-crossings-with-serbia-zoran-milanovia-the-prime-minister-says-that-his-country-will-move-migra.md)
 Croatia closes seven of its eight border crossings with Serbia as thousands of desperate migrants seek alternative routes to Germany and other EU states.
 

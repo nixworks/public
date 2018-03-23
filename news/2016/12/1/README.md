@@ -45,7 +45,7 @@ Israeli buses remove Arabic-language announcements in southern city of Beersheba
 
 ##### Ukrainian crisis
 ### [Ukraine starts a missile test near Crimea, annexed by Russia in 2014, while Russia puts its air-defense and naval forces in the region on high alert. ](/news/2016/12/1/ukraine-starts-a-missile-test-near-crimea-annexed-by-russia-in-2014-while-russia-puts-its-air-defense-and-naval-forces-in-the-region-on-hi.md)
-_Context: Crimea, Russia, Ukraine, Ukrainian crisis, its intervention in Ukraine_
+_Context: Crimea, Russia, Ukrainian, Ukrainian crisis, its intervention in Ukraine_
 
 ##### LaMia Flight 2933
 ### [Bolivia's aviation authority suspends the operating license of LaMia. Investigation into the crash in Colombia, which killed 71 people, continues. ](/news/2016/12/1/bolivia-s-aviation-authority-suspends-the-operating-license-of-lamia-investigation-into-the-crash-in-colombia-which-killed-71-people-cont.md)

@@ -39,7 +39,7 @@ State television in Ivory Coast goes off air outside the main city, Abidjan, ami
 ### [France is to build two warships for Russia in a new deal. ](/news/2010/12/24/france-is-to-build-two-warships-for-russia-in-a-new-deal.md)
 _Context: France, Russia_
 
-##### Afghanistan
+##### Afghan
 ### [A tripartite summit of Afghanistan, Pakistan and Turkey is held in Istanbul, aimed at boosting trust between Afghanistan and Pakistan. ](/news/2010/12/24/a-tripartite-summit-of-afghanistan-pakistan-and-turkey-is-held-in-istanbul-aimed-at-boosting-trust-between-afghanistan-and-pakistan.md)
 Three countries to hold joint military exercises in April, agree to cooperate on anti-narcotics operations.
 
@@ -47,7 +47,7 @@ Three countries to hold joint military exercises in April, agree to cooperate on
 ### [Russia's lower house gives preliminary approval the New START treaty signed with the United States; full approval will be decided upon next month. ](/news/2010/12/24/russia-s-lower-house-gives-preliminary-approval-the-new-start-treaty-signed-with-the-united-states-full-approval-will-be-decided-upon-next.md)
 Russia&#x27;s&#x20;lower&#x20;house&#x20;gave&#x20;preliminary&#x20;approval&#x20;to&#x20;a&#x20;landmark&#x20;US-Russian&#x20;nuclear&#x20;arms&#x20;reduction&#x20;pact&#x20;Friday.&#x20;There&#x20;were&#x20;hopes&#x20;the&#x20;Duma&#x20;would&#x20;give&#x20;its&#x20;full&#x20;approval,&#x20;but&#x...
 
-##### Turkish
+##### Turkey
 ### [Turkey welcomes a decision by the US House of Representatives not to vote on the Armenian Genocide Resolution during the final session of the 111th Congress. ](/news/2010/12/24/turkey-welcomes-a-decision-by-the-us-house-of-representatives-not-to-vote-on-the-armenian-genocide-resolution-during-the-final-session-of-th.md)
 Turkish Foreign Minister Ahmet Davutoglu Thursday evening hailed a decision by the US House leadership to forgo a vote of the Armenian Genocide Resolution (H.Res.252) for the final session of the 111th Congress.
 
@@ -85,7 +85,7 @@ _Context: BBC Radio 4, Christmas, Pope Benedict XVI, Thought for the Day, UK_
 
 ##### Iranian Revolutionary Guard
 ### [A member of the Iranian Revolutionary Guard captured in southern Afghanistan is accused of cross-border weapons smuggling by the NATO-led International Security Assistance Force. ](/news/2010/12/24/a-member-of-the-iranian-revolutionary-guard-captured-in-southern-afghanistan-is-accused-of-cross-border-weapons-smuggling-by-the-nato-led-in.md)
-_Context: Afghanistan, International Security Assistance Force, Iranian Revolutionary Guard, NATO_
+_Context: Afghan, International Security Assistance Force, Iranian Revolutionary Guard, NATO_
 
 ##### Hizbul Islam
 ### [The Hizbul Islam group in Somalia join forces with al-Shabaab. ](/news/2010/12/24/the-hizbul-islam-group-in-somalia-join-forces-with-al-shabaab.md)

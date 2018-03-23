@@ -21,7 +21,7 @@ _Context: Caracas, Hugo Chvez, Luiz Incio Lula da Silva, President, president_
 
 ##### African Union
 ### [ The African Union (AU) sends a team to Somalia to assess the security situation in the capital, Mogadishu. President of the exiled Somalian government, Abdullahi Yusuf, has requested an AU peacekeeping force to allow his cabinet to move back. The trip was delayed on Friday. There is some opposition to deployment of AU peacekeepers and thousands of Somalis have demonstrated in the capital, Mogadishu, against the plans. ](/news/2005/02/14/the-african-union-au-sends-a-team-to-somalia-to-assess-the-security-situation-in-the-capital-mogadishu-president-of-the-exiled-somalian.md)
-_Context: Abdullahi Yusuf, African Union, Mogadishu, Politics of Somalia, President, Somalia, exile_
+_Context: Abdullahi Yusuf, African Union, Mogadishu, Politics of Somalia, President, Somali, exile_
 
 ##### Democratic Republic of Congo
 ### [ In the Democratic Republic of Congo, six Moroccan UN peacekeepers are arrested for alleged sexual abuse of young girls. ](/news/2005/02/14/in-the-democratic-republic-of-congo-six-moroccan-un-peacekeepers-are-arrested-for-alleged-sexual-abuse-of-young-girls.md)

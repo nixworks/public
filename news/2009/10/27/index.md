@@ -17,7 +17,7 @@ _Context: Aceh, Indonesia_
 
 ##### Burundi
 ### [ Burundi and Uganda tighten security after threats by the militant Somali Al-Shabaab, a group with links to Al-Qaeda, to attack their capitals. ](/news/2009/10/27/burundi-and-uganda-tighten-security-after-threats-by-the-militant-somali-al-shabaab-a-group-with-links-to-al-qaeda-to-attack-their-capita.md)
-_Context: Al-Shabaab, Burundi, Somalia, Uganda, al-Qaeda_
+_Context: Al-Shabaab, Burundi, Somali, Uganda, al-Qaeda_
 
 ##### North Korea
 ### [ North Korea says a South Korean man has defected to the North across the Korean Demilitarized Zone. ](/news/2009/10/27/north-korea-says-a-south-korean-man-has-defected-to-the-north-across-the-korean-demilitarized-zone.md)
@@ -33,7 +33,7 @@ _Context: Honduras, Robert Micheletti_
 
 ##### France
 ### [ The son of ex-French President Franois Mitterrand, Jean-Christophe Mitterrand and an ex-government minister, Charles Pasqua, are convicted for their roles in illegal arms sales to Angola. ](/news/2009/10/27/the-son-of-ex-french-president-francois-mitterrand-jean-christophe-mitterrand-and-an-ex-government-minister-charles-pasqua-are-convicted.md)
-_Context: Charles Pasqua, France, Franois Mitterrand, French President, Jean-Christophe Mitterrand, illegal arms sales to Angola_
+_Context: Charles Pasqua, France, Franois Mitterrand, Jean-Christophe Mitterrand, President of France, illegal arms sales to Angola_
 
 ##### China
 ### [ China confirms it has executed 2 Tibetans over unrest last year. ](/news/2009/10/27/china-confirms-it-has-executed-2-tibetans-over-unrest-last-year.md)

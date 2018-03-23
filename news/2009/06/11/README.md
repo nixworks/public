@@ -13,7 +13,7 @@ _Context: Aung San Suu Kyi, General Secretary, National League for Democracy, tr
 
 ##### Mombasa
 ### [ Mombasa's courts are overwhelmed with Somali pirate trials; some cases could be transferred to Nairobi. ](/news/2009/06/11/mombasa-s-courts-are-overwhelmed-with-somali-pirate-trials-some-cases-could-be-transferred-to-nairobi.md)
-_Context: Mombasa, Nairobi, Somali pirates, Somalia_
+_Context: Mombasa, Nairobi, Somali, Somali pirates_
 
 ##### City of Film
 ### [ The world's first City of Film is announced by UNESCO, with Bradford beating competition from Los Angeles, Cannes and Venice. ](/news/2009/06/11/the-world-s-first-city-of-film-is-announced-by-unesco-with-bradford-beating-competition-from-los-angeles-cannes-and-venice.md)
@@ -25,7 +25,7 @@ _Context: Bermuda, Chinese, David Miliband, Foreign Secretary, Guantanamo Bay, W
 
 ##### Pakistan
 ### [ Prominent Pakistani anti-Taliban cleric Sarfraz Naeemi is killed in a suspected suicide bomb attack at his Islamic religious school in Lahore. ](/news/2009/06/11/prominent-pakistani-anti-taliban-cleric-sarfraz-naeemi-is-killed-in-a-suspected-suicide-bomb-attack-at-his-islamic-religious-school-in-laho.md)
-_Context: Islam, Lahore, Pakistan, Sarfraz Naeemi, Taliban, suicide bomb_
+_Context: Lahore, Muslim, Pakistan, Sarfraz Naeemi, Taliban, suicide bomb_
 
 ##### United Nations Security Council
 ### [ The United Nations Security Council unanimously votes to impose further sanctions on North Korea, following recent nuclear and missile tests. ](/news/2009/06/11/the-united-nations-security-council-unanimously-votes-to-impose-further-sanctions-on-north-korea-following-recent-nuclear-and-missile-test.md)
@@ -67,7 +67,7 @@ _Context: Amos Oz, Arabic, David Grossman, Egypt, Farouk Hosni, Israel_
 ### [ Kumari Selja, India's tourism minister, calls off a visit to Australia following attacks on Indian students in the country. ](/news/2009/06/11/kumari-selja-india-s-tourism-minister-calls-off-a-visit-to-australia-following-attacks-on-indian-students-in-the-country.md)
 _Context: Australia, India, Kumari Selja, attacks on Indian students_
 
-##### French President
+##### President of France
 ### [ The President of France, Nicolas Sarkozy, says he will travel to Ireland to assist the passing of the forthcoming Treaty of Lisbon referendum at a joint news conference with the Chancellor of Germany, Angela Merkel, in Paris. ](/news/2009/06/11/the-president-of-france-nicolas-sarkozy-says-he-will-travel-to-ireland-to-assist-the-passing-of-the-forthcoming-treaty-of-lisbon-referend.md)
 French President Nicolas Sarkozy has said he would be prepared to travel to Ireland to help gather support for the Lisbon Treaty.
 

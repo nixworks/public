@@ -21,7 +21,7 @@ _Context: 2007 Mideast peace conference, Israel, Palestinian, Palestinian Author
 
 ##### Suicide bomber
 ### [ A suicide bomber kills seven people in the Nimruz Province of Afghanistan, including the son of governor Ghulam Dastageer. ](/news/2007/11/19/a-suicide-bomber-kills-seven-people-in-the-nimruz-province-of-afghanistan-including-the-son-of-governor-ghulam-dastageer.md)
-_Context: Afghanistan, Ghulam Dastageer, Nimruz Province, governor, suicide bomber_
+_Context: Afghan, Ghulam Dastageer, Nimruz Province, governor, suicide bomber_
 
 ##### Khieu Samphan
 ### [ Khieu Samphan, the former Khmer Rouge head of state, is charged with war crimes and crimes against humanity by a Cambodian tribunal. ](/news/2007/11/19/khieu-samphan-the-former-khmer-rouge-head-of-state-is-charged-with-war-crimes-and-crimes-against-humanity-by-a-cambodian-tribunal.md)

@@ -21,7 +21,7 @@ Forty-three people reportedly killed when a van hit a bus on a highway in centra
 
 ##### Poland
 ### [Buses from Poland and Ukraine crash outside the German city of Dresden resulting in at least nine deaths and 40 people injured. ](/news/2014/07/19/buses-from-poland-and-ukraine-crash-outside-the-german-city-of-dresden-resulting-in-at-least-nine-deaths-and-40-people-injured.md)
-_Context: Dresden, German, Poland, Ukraine_
+_Context: Dresden, German, Poland, Ukrainian_
 
 ##### Post-coup unrest in Egypt (2013-14)
 ### [Gunmen in Egypt's western desert province of New Valley Governorate attack a military checkpoint, killing at least 21 soldiers. Egypt reportedly declares a state of emergency on its border with Sudan. ](/news/2014/07/19/gunmen-in-egypt-s-western-desert-province-of-new-valley-governorate-attack-a-military-checkpoint-killing-at-least-21-soldiers-egypt-report.md)

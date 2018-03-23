@@ -11,7 +11,7 @@ Cheap but toxic synthetic drugs blamed for 2,300 emergency room visits in the la
 ### [The U.S. Court of Appeals for the Sixth Circuit denies Kim Davis' request to have same-sex marriage licenses delayed, but does not toss out her appeal entirely. ](/news/2015/09/16/the-u-s-court-of-appeals-for-the-sixth-circuit-denies-kim-davis-request-to-have-same-sex-marriage-licenses-delayed-but-does-not-toss-out.md)
 _Context: Federal appeals court, Kim Davis, Same-sex marriage in the United States_
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Dozens of migrants reach the border of Serbia and Croatia which has become the new route for migrants denied entry to Hungary. ](/news/2015/09/16/dozens-of-migrants-reach-the-border-of-serbia-and-croatia-which-has-become-the-new-route-for-migrants-denied-entry-to-hungary.md)
 The first group of migrants reaches Croatia after Hungary closes the main entry into the European border-free zone.
 

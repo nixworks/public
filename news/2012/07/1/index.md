@@ -31,7 +31,7 @@ Hundreds of protesters gather as Japan restarts the first nuclear reactor since 
 ### [Barclays chairman Marcus Agius is to resign following the Libor interest rate scandal. ](/news/2012/07/1/barclays-chairman-marcus-agius-is-to-resign-following-the-libor-interest-rate-scandal.md)
 Marcus Agius is to resign on Monday as the chairman of Barclays following the Libor inter-bank lending rate scandal.
 
-##### Afghanistan
+##### Afghan
 ### [At least five people are killed and 11 injured after a bomb strikes a bus near the Afghan city of Ghazni. ](/news/2012/07/1/at-least-five-people-are-killed-and-11-injured-after-a-bomb-strikes-a-bus-near-the-afghan-city-of-ghazni.md)
 A man in an Afghan police uniform has killed three NATO personnel in the war-torn country&#39;s troubled south, the coalition said.
 

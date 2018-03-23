@@ -67,7 +67,7 @@ Queensland still on edge as rivers surge to new heights and flow into low-lying 
 ### [A 7.1-magnitude earthquake streaks southern Chile, having its epicenter 96 km northwest of Temuco, not far from the location of the 2010 Chile earthquake. ](/news/2011/01/2/a-7-1-magnitude-earthquake-streaks-southern-chile-having-its-epicenter-96-km-northwest-of-temuco-not-far-from-the-location-of-the-2010-chi.md)
 A 7.1-magnitude earthquake has struck central Chile, sending tens of thousands of people near coastal communities for higher ground over concerns it would generate a tsunami.
 
-##### Afghanistan
+##### Afghan
 ### [Officials in Afghanistan said that the price of opium has doubled due to a blight. There are fears the higher prices will draw more farmers into that business. ](/news/2011/01/2/officials-in-afghanistan-said-that-the-price-of-opium-has-doubled-due-to-a-blight-there-are-fears-the-higher-prices-will-draw-more-farmers.md)
 Opium prices have almost doubled after a blight halved production in 2010, Afghan officials said on Sunday, raising fears more farmers would turn to the illicit crop in the absence of profitable alternatives.
 

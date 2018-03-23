@@ -35,7 +35,7 @@ Salmaan Taseer&#039;s son was abducted from the Gulberg area of Lahore in August
 ### [A Saudi-led coalition spokesman announces they have exchanged prisoners with their Houthi opponents and "welcome a pause in the combat on the border." Saudi Foreign Minister Adel al-Jubeir said the lull was important to deliver aid and medical supplies to people in northern regions of Yemen. Yesterday, a Houthi delegation was in Saudi Arabia for talks to end the war. Al-Jubeir and his Yemeni counterpart noted formal negotiations to end the fighting can only take place under the auspices of the United Nations. ](/news/2016/03/9/a-saudi-led-coalition-spokesman-announces-they-have-exchanged-prisoners-with-their-houthi-opponents-and-welcome-a-pause-in-the-combat-on-th.md)
 A Saudi-led coalition fighting in Yemen said on Wednesday it had exchanged prisoners with its Houthi opponents and also welcomed a pause in combat on the border, prompting hopes of a push to end the year-long war that has killed some 6,000 people.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Macedonia says it will no longer let any migrants through its southern border with Greece, effectively blocking the Balkan route for migrants. The decision came after Slovenia barred access to migrants transiting the country. There are around 13,000 migrants now stranded at the Macedonia-Greece border. ](/news/2016/03/9/macedonia-says-it-will-no-longer-let-any-migrants-through-its-southern-border-with-greece-effectively-blocking-the-balkan-route-for-migrant.md)
 Macedonia says it will no longer let any migrants cross its border with Greece, leaving some 13,000 stranded in a sprawling camp.
 
@@ -73,7 +73,7 @@ US troops accompanied Somali forces in a helicopter raid against Shebab insurgen
 
 ##### War in Afghanistan (2015-present)
 ### [Taliban militants attack government offices in the southern Helmand Province of Afghanistan, with at least 10 killed, including seven of the attackers. ](/news/2016/03/9/taliban-militants-attack-government-offices-in-the-southern-helmand-province-of-afghanistan-with-at-least-10-killed-including-seven-of-the.md)
-_Context: Afghanistan, Helmand Province, Taliban, War in Afghanistan (2015-present)_
+_Context: Afghan, Helmand Province, Taliban, War in Afghanistan (2015-present)_
 
 ## [Previous Day...](/news/2016/03/8/index.md)
 

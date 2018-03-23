@@ -31,9 +31,9 @@ _Context: 2007 Israel-Gaza conflict, Gaza Strip, Hamas, Israel_
 ### [ Gordon Brown is confirmed as the next leader of the British Labour Party, taking effect on 24 June. Brown will succeed Tony Blair as Prime Minister of the United Kingdom when he kisses the hand of Queen Elizabeth II on 27 June. ](/news/2007/05/17/gordon-brown-is-confirmed-as-the-next-leader-of-the-british-labour-party-taking-effect-on-24-june-brown-will-succeed-tony-blair-as-prime.md)
 _Context: 24 June, 27 June, Elizabeth II, Gordon Brown, Labour Party, Prime Minister, Tony Blair, confirmed, kisses the hand_
 
-##### United States Senate
+##### Senate
 ### [ United States Senate Democratic Party officials seek a vote of no confidence on Attorney-General Alberto Gonzales. ](/news/2007/05/17/united-states-senate-democratic-party-officials-seek-a-vote-of-no-confidence-on-attorney-general-alberto-gonzales.md)
-_Context: Alberto Gonzales, Attorney-General of the United States, Democrat, United States Senate, vote of no confidence_
+_Context: Alberto Gonzales, Attorney-General of the United States, Democrat, Senate, vote of no confidence_
 
 ##### Paul Wolfowitz
 ### [ Paul Wolfowitz announces his resignation effective June 30 as president of the World Bank Group after protracted discussions over alleged ethics violations. ](/news/2007/05/17/paul-wolfowitz-announces-his-resignation-effective-june-30-as-president-of-the-world-bank-group-after-protracted-discussions-over-alleged-e.md)

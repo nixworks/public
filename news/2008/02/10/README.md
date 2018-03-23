@@ -25,7 +25,7 @@ _Context: Balad, David Petraeus, German, Iraq, Robert Gates, Ryan Crocker, Secre
 
 ##### Illinois
 ### [ Illinois Senator Barack Obama wins the Maine caucus. ](/news/2008/02/10/illinois-senator-barack-obama-wins-the-maine-caucus.md)
-_Context: Barack Obama, Illinois, Maine, United States Senate, caucus_
+_Context: Barack Obama, Illinois, Maine, Senate, caucus_
 
 ##### Namdaemun
 ### [ The wooden portion of Namdaemun Gate in Seoul, South Korea is destroyed in a suspicious fire. ](/news/2008/02/10/the-wooden-portion-of-namdaemun-gate-in-seoul-south-korea-is-destroyed-in-a-suspicious-fire.md)

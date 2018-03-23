@@ -61,7 +61,7 @@ Jordanian army says car failed to stop at gate of airbase in al-Jafr, leading to
 
 ##### Kurdish-Turkish conflict
 ### [ A car bomb kills at least eight people and injures up to 100 in Diyarbakir, Turkey. ](/news/2016/11/4/a-car-bomb-kills-at-least-eight-people-and-injures-up-to-100-in-diyarbaka-r-turkey.md)
-_Context: Diyarbakir, Kurdish-Turkish conflict, Turkish_
+_Context: Diyarbakir, Kurdish-Turkish conflict, Turkey_
 
 ## [Previous Day...](/news/2016/11/3/index.md)
 

@@ -15,9 +15,9 @@ He won the state in 2008 by nearly 18 percentage points and pumped billions of t
 ### [Turkish hackers gain access to the websites of several companies, including Vodafone, the "Daily Telegraph" and UPS, redirecting visitors to a site set up by the group. ](/news/2011/09/5/turkish-hackers-gain-access-to-the-websites-of-several-companies-including-vodafone-the-daily-telegraph-and-ups-redirecting-visitors-to.md)
 Turkish hackers managed to re-direct visitors away from high-profile sites, including Vodafone and the Daily Telegraph.
 
-##### French President
+##### President of France
 ### [The trial of former French President Jacques Chirac on embezzlement charges begins in Paris. ](/news/2011/09/5/the-trial-of-former-french-president-jacques-chirac-on-embezzlement-charges-begins-in-paris.md)
-_Context: French President, Jacques Chirac, embezzlement_
+_Context: Jacques Chirac, President of France, embezzlement_
 
 ##### North Korea
 ### [South Korea announces that it will start sending emergency aid to North Korea next week after devastating floods. ](/news/2011/09/5/south-korea-announces-that-it-will-start-sending-emergency-aid-to-north-korea-next-week-after-devastating-floods.md)
@@ -55,9 +55,9 @@ _Context: Libya, Sky News, civil war_
 ### [One person is killed and two injured by Iranian artillery shelling near the Iraqi border town of Siydah Khan, near Arbil. ](/news/2011/09/5/one-person-is-killed-and-two-injured-by-iranian-artillery-shelling-near-the-iraqi-border-town-of-siydah-khan-near-arbil.md)
 _Context: Arbil, Iran, Iraq_
 
-##### Turkish
+##### Turkey
 ### [Turkish air force strikes kill four members of the PKK in Northern Iraq. ](/news/2011/09/5/turkish-air-force-strikes-kill-four-members-of-the-pkk-in-northern-iraq.md)
-_Context: Kurdistan Region, PKK, Turkish, Turkish Air Force_
+_Context: Kurdistan Region, PKK, Turkey, Turkish Air Force_
 
 ## [Previous Day...](/news/2011/09/4/index.md)
 

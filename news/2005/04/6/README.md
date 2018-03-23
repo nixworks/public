@@ -51,9 +51,9 @@ _Context: Leonardo da Vinci, Louvre, Mona Lisa, Paris_
 ### [ The College of Cardinals sets April 18 as the date for a conclave for a papal election to select a successor to Pope John Paul II. ](/news/2005/04/6/the-college-of-cardinals-sets-april-18-as-the-date-for-a-conclave-for-a-papal-election-to-select-a-successor-to-pope-john-paul-ii.md)
 _Context: April 18, College of Cardinals, Papal conclave, 2005, Pope John Paul II, papal election_
 
-##### Afghanistan
+##### Afghan
 ### [ At least 16 people are killed in Afghanistan when a U.S. military Chinook helicopter crashes in the south-eastern province of Ghazni. ](/news/2005/04/6/at-least-16-people-are-killed-in-afghanistan-when-a-u-s-military-chinook-helicopter-crashes-in-the-south-eastern-province-of-ghazni.md)
-_Context: Afghanistan, CH-47 Chinook, Ghazni Province, Military of the United States, helicopter, provincial_
+_Context: Afghan, CH-47 Chinook, Ghazni Province, Military of the United States, helicopter, provincial_
 
 ##### Movement for Democratic Change
 ### [ The Movement for Democratic Change, the opposition party in Zimbabwe, presents 'proof of fraud' in the recent parliamentary elections that kept Robert Mugabe and the ruling Zimbabwe African National Union - Patriotic Front in office. ](/news/2005/04/6/the-movement-for-democratic-change-the-opposition-party-in-zimbabwe-presents-proof-of-fraud-in-the-recent-parliamentary-elections-that.md)

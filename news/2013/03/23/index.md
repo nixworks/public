@@ -49,7 +49,7 @@ _Context: Boris Berezovsky, England, Exile, Russia, Surrey, business oligarch_
 
 ##### Collapse
 ### [2012-2013 Cypriot financial crisis: The Cyprus Parliament approves three bills that aim to raise enough money to qualify the country for a broader bailout package and stave off financial collapse. ](/news/2013/03/23/2012a2013-cypriot-financial-crisis-the-cyprus-parliament-approves-three-bills-that-aim-to-raise-enough-money-to-qualify-the-country-for-a.md)
-_Context: Cypriot, Cyprus Parliament, bailout package, collapse_
+_Context: Cyprus, Cyprus Parliament, bailout package, collapse_
 
 ##### United Nations
 ### [All non-essential United Nations staff are removed from Central African Republic, as Seleka rebels move to within 75km of the capital, Bangui. ](/news/2013/03/23/all-non-essential-united-nations-staff-are-removed-from-central-african-republic-as-seleka-rebels-move-to-within-75km-of-the-capital-bangu.md)

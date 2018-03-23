@@ -15,13 +15,13 @@ _Context: Chief Minister, Malaysia, Mohammad Nizar Jamaluddin, Perak_
 ### [ The USS "Port Royal" runs aground off Hawaii. ](/news/2009/02/6/the-uss-port-royal-runs-aground-off-hawaii.md)
 Ticonderoga-class guided missile cruiser the USS Port Royal has run aground off Hawaii. The ship hit sand approximately half mile off one of Honolulu
 
-##### Somalia
+##### Somali
 ### [ Somali pirates will release the MV "Blue Star" and her crew of 28 Egyptians upon receiving a ransom. ](/news/2009/02/6/somali-pirates-will-release-the-mv-blue-star-and-her-crew-of-28-egyptians-upon-receiving-a-ransom.md)
-_Context: Egypt, MV, Somali pirates, Somalia, ransom_
+_Context: Egypt, MV, Somali, Somali pirates, ransom_
 
 ##### Russia
 ### [ Russia's government will allow the U.S. Armed Forces to ship nonlethal equipment to Afghanistan through Russian territory. ](/news/2009/02/6/russia-s-government-will-allow-the-u-s-armed-forces-to-ship-nonlethal-equipment-to-afghanistan-through-russian-territory.md)
-_Context: Afghanistan, Russia, Russian government, United States, United States military personnel, nonlethal equipment_
+_Context: Afghan, Russia, Russian government, United States, United States military personnel, nonlethal equipment_
 
 ##### Sri Lanka
 ### [ Sri Lanka's government refuses to negotiate with the Tamil Tigers at what it calls a "crucial and final stage" of the ongoing civil war. ](/news/2009/02/6/sri-lanka-s-government-refuses-to-negotiate-with-the-tamil-tigers-at-what-it-calls-a-crucial-and-final-stage-of-the-ongoing-civil-war.md)

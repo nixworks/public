@@ -13,7 +13,7 @@ _Context: Italy, Libya, Muammar Gaddafi, Omar Mukhtar, Rome, Italy_
 
 ##### Donetsk
 ### [ Nine miners die and four are still missing after an accident at a coal mine in Donetsk, Ukraine. ](/news/2009/06/10/nine-miners-die-and-four-are-still-missing-after-an-accident-at-a-coal-mine-in-donetsk-ukraine.md)
-_Context: Donetsk, Ukraine_
+_Context: Donetsk, Ukrainian_
 
 ##### Rose Francine Rogomb
 ### [ Rose Francine Rogomb is sworn in as acting head of state in Gabon, following the death of Omar Bongo Ondimba. ](/news/2009/06/10/rose-francine-rogombe-is-sworn-in-as-acting-head-of-state-in-gabon-following-the-death-of-omar-bongo-ondimba.md)

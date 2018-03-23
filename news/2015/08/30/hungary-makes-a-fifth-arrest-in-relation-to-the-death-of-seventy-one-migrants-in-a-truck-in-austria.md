@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/08/30/hungary-makes-a-fifth-arrest-in-relation-to-the
 
 ### [2015-08-30](/news/2015/08/30/index.md)
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 # Hungary makes a fifth arrest in relation to the death of seventy-one migrants in a truck in Austria. 
 
 
@@ -20,8 +20,8 @@ Formats: [HTML](/news/2015/08/30/hungary-makes-a-fifth-arrest-in-relation-to-the
 
 ### Related:
 
-1. [Following Austria's and Germany's decision to waive their asylum system rules, approximately 6,500 migrants - mostly from Syria, Iraq, and Afghanistan - arrive in Vienna. They traveled from Hungary by bus, train or on foot. The migrants were given the opportunity to register in Austria or move on to Germany. ](/news/2015/09/5/following-austria-s-and-germany-s-decision-to-waive-their-asylum-system-rules-approximately-6-500-migrants-a-mostly-from-syria-iraq-and.md) _Context: Austria, European migrant crisis, Hungary_
-2. [The body count from a van found on an Austrian highway carrying migrants yesterday rises to at least 71. Three people are arrested in Hungary in relation to their deaths. ](/news/2015/08/28/the-body-count-from-a-van-found-on-an-austrian-highway-carrying-migrants-yesterday-rises-to-at-least-71-three-people-are-arrested-in-hungar.md) _Context: Austria, European migrant crisis, Hungary_
-3. [The European Commission orders Poland, the Czech Republic and Hungary to court over their refusal to incorporate more refugees. This is the third step in a process that may lead to fines and loss of the countries' voting rights in the European Union. ](/news/2017/12/7/the-european-commission-orders-poland-the-czech-republic-and-hungary-to-court-over-their-refusal-to-incorporate-more-refugees-this-is-the.md) _Context: European migrant crisis, Hungary_
-4. [The European Court of Justice dismisses complaints by Slovakia and Hungary about EU migration policy, upholding Brussels' right to force member states to take in asylum seekers. ](/news/2017/09/6/the-european-court-of-justice-dismisses-complaints-by-slovakia-and-hungary-about-eu-migration-policy-upholding-brusselsa-right-to-force-m.md) _Context: European migrant crisis, Hungary_
-5. [The National Assembly of Hungary approves the automatic detention of all asylum seekers who enter the country. ](/news/2017/03/7/the-national-assembly-of-hungary-approves-the-automatic-detention-of-all-asylum-seekers-who-enter-the-country.md) _Context: European migrant crisis, Hungary_
+1. [Following Austria's and Germany's decision to waive their asylum system rules, approximately 6,500 migrants - mostly from Syria, Iraq, and Afghanistan - arrive in Vienna. They traveled from Hungary by bus, train or on foot. The migrants were given the opportunity to register in Austria or move on to Germany. ](/news/2015/09/5/following-austria-s-and-germany-s-decision-to-waive-their-asylum-system-rules-approximately-6-500-migrants-a-mostly-from-syria-iraq-and.md) _Context: Austria, Hungary, refugee immigration to Germany_
+2. [The body count from a van found on an Austrian highway carrying migrants yesterday rises to at least 71. Three people are arrested in Hungary in relation to their deaths. ](/news/2015/08/28/the-body-count-from-a-van-found-on-an-austrian-highway-carrying-migrants-yesterday-rises-to-at-least-71-three-people-are-arrested-in-hungar.md) _Context: Austria, Hungary, refugee immigration to Germany_
+3. [The European Commission orders Poland, the Czech Republic and Hungary to court over their refusal to incorporate more refugees. This is the third step in a process that may lead to fines and loss of the countries' voting rights in the European Union. ](/news/2017/12/7/the-european-commission-orders-poland-the-czech-republic-and-hungary-to-court-over-their-refusal-to-incorporate-more-refugees-this-is-the.md) _Context: Hungary, refugee immigration to Germany_
+4. [The European Court of Justice dismisses complaints by Slovakia and Hungary about EU migration policy, upholding Brussels' right to force member states to take in asylum seekers. ](/news/2017/09/6/the-european-court-of-justice-dismisses-complaints-by-slovakia-and-hungary-about-eu-migration-policy-upholding-brusselsa-right-to-force-m.md) _Context: Hungary, refugee immigration to Germany_
+5. [The National Assembly of Hungary approves the automatic detention of all asylum seekers who enter the country. ](/news/2017/03/7/the-national-assembly-of-hungary-approves-the-automatic-detention-of-all-asylum-seekers-who-enter-the-country.md) _Context: Hungary, refugee immigration to Germany_

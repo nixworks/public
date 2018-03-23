@@ -77,7 +77,7 @@ Genzyme and Sanofi-Aventis have reached a so called &ldquo;agreement in principl
 
 ##### Mogadishu
 ### [At least 17 people are killed and scores more injured in a shootout between opposing government security forces in Mogadishu, Somalia. ](/news/2011/01/31/at-least-17-people-are-killed-and-scores-more-injured-in-a-shootout-between-opposing-government-security-forces-in-mogadishu-somalia.md)
-_Context: Mogadishu, Somalia_
+_Context: Mogadishu, Somali_
 
 ##### Bangladesh
 ### [Police in Bangladesh fire tear gas at 20,000 demonstrators protesting against government plans to build an airport south of the capital Dhaka. A policeman is killed in the incident. ](/news/2011/01/31/police-in-bangladesh-fire-tear-gas-at-20-000-demonstrators-protesting-against-government-plans-to-build-an-airport-south-of-the-capital-dhak.md)

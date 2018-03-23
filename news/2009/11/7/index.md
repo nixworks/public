@@ -53,7 +53,7 @@ _Context: Madagascar, political crisis, unity_
 
 ##### NATO
 ### [ A NATO airstrike kills 7 members of the Afghan security force in the western province of Badghis. ](/news/2009/11/7/a-nato-airstrike-kills-7-members-of-the-afghan-security-force-in-the-western-province-of-badghis.md)
-_Context: Afghanistan, Badghis Province, NATO_
+_Context: Afghan, Badghis Province, NATO_
 
 ##### Andorra
 ### [ At least two workers are killed after a bridge under construction collapses in Andorra. ](/news/2009/11/7/at-least-two-workers-are-killed-after-a-bridge-under-construction-collapses-in-andorra.md)

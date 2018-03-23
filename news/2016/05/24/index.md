@@ -27,7 +27,7 @@ French finance officials raid the Paris offices of US internet giant Google as p
 ### [A court in the U.S. state of Pennsylvania finds that there is enough evidence to hold entertainer Bill Cosby on felony indecent assault charges in relation to the case of "Andrea Constand v. William H. Cosby, Jr.". ](/news/2016/05/24/a-court-in-the-u-s-state-of-pennsylvania-finds-that-there-is-enough-evidence-to-hold-entertainer-bill-cosby-on-felony-indecent-assault-char.md)
 _Context: Andrea Constand v. William H. Cosby, Jr., Bill Cosby, Pennsylvania, United States_
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Greek authorities begin operations to clear the Idomeni refugee camp on the border with Macedonia. ](/news/2016/05/24/greek-authorities-begin-operations-to-clear-the-idomeni-refugee-camp-on-the-border-with-macedonia.md)
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 

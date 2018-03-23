@@ -3,9 +3,9 @@ Formats: [HTML](2009/03/21/index.html)  [JSON](2009/03/21/index.json)  [XML](200
 
 ## [2009-03-21](/news/2009/03/21/index.md)
 
-##### Somalia
+##### Somali
 ### [ Somali pirates hijack the Indian cargo ship "Al Rafiquei". ](/news/2009/03/21/somali-pirates-hijack-the-indian-cargo-ship-al-rafiquei.md)
-_Context: India, Somali pirates, Somalia, cargo ship_
+_Context: India, Somali, Somali pirates, cargo ship_
 
 ##### Protest
 ### [ One hundred thousand people protest against the Sicilian Mafia and Camorra in Naples, Italy. ](/news/2009/03/21/one-hundred-thousand-people-protest-against-the-sicilian-mafia-and-camorra-in-naples-italy.md)

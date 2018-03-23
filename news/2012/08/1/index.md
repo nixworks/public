@@ -15,9 +15,9 @@ _Context: India, Pune_
 ### [Prosecutors formally charge three Mexican Army generals, including active General Roberto Dawe Gonzalez and retired General Toms ngeles Dauahare, and a lieutenant-colonel for their alleged links to a drug trafficking organization known as the Beltrn-Leyva Cartel. ](/news/2012/08/1/prosecutors-formally-charge-three-mexican-army-generals-including-active-general-roberto-dawe-gonzalez-and-retired-general-tomas-angeles-da.md)
 _Context: Beltrn-Leyva Cartel, Mexican Army, Roberto Dawe Gonzalez, Toms ngeles Dauahare_
 
-##### Somalia
+##### Somali
 ### [Somali security forces kill two suicide bombers trying to infiltrate a meeting of 825 Somali elders discussing the country's new constitution in Mogadishu. ](/news/2012/08/1/somali-security-forces-kill-two-suicide-bombers-trying-to-infiltrate-a-meeting-of-825-somali-elders-discussing-the-country-s-new-constitutio.md)
-_Context: Mogadishu, Somalia_
+_Context: Mogadishu, Somali_
 
 ##### Tal Law
 ### [The Tal Law, which granted a sweeping exemption from military service to a majority of the Israeli ultra-Orthodox population in Israel, expires. As a result Defense Minister Ehud Barak orders the Israeli Defense Forces to prepare for a universal draft of ultra-Orthodox Jewish males in 30 days. ](/news/2012/08/1/the-tal-law-which-granted-a-sweeping-exemption-from-military-service-to-a-majority-of-the-israeli-ultra-orthodox-population-in-israel-expi.md)

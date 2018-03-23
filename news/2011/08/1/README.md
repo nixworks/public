@@ -3,9 +3,9 @@ Formats: [HTML](2011/08/1/index.html)  [JSON](2011/08/1/index.json)  [XML](2011/
 
 ## [2011-08-1](/news/2011/08/1/index.md)
 
-##### United States Senate
+##### Senate
 ### [The United States Senate fails to pass a bill ending the partial shutdown of the Federal Aviation Administration. ](/news/2011/08/1/the-united-states-senate-fails-to-pass-a-bill-ending-the-partial-shutdown-of-the-federal-aviation-administration.md)
-_Context: Federal Aviation Administration, United States Senate_
+_Context: Federal Aviation Administration, Senate_
 
 ##### United States House of Representatives
 ### [The United States House of Representatives passes legislation to raise the debt ceiling and avert the 2011 U.S. debt ceiling crisis. ](/news/2011/08/1/the-united-states-house-of-representatives-passes-legislation-to-raise-the-debt-ceiling-and-avert-the-2011-u-s-debt-ceiling-crisis.md)

@@ -21,7 +21,7 @@ Haiti&rsquo;s elections officials Sunday thanked voters for a relatively calm el
 
 ##### Louisiana gubernatorial election, 2015
 ### [Republican U.S. Senator David Vitter and Democratic state Representative John Bel Edwards top two Republican candidates for spots in the November 21 runoff election. Edwards wins 40 percent and Vitter 23 percent of the primary vote, according to unofficial returns. ](/news/2015/10/25/republican-u-s-senator-david-vitter-and-democratic-state-representative-john-bel-edwards-top-two-republican-candidates-for-spots-in-the-nov.md)
-_Context: Congressional primaries, David Vitter, Democrat, John Bel Edwards, Louisiana gubernatorial election, 2015, Republican, United States Senate, second round, state Representative_
+_Context: Congressional primaries, David Vitter, Democrat, John Bel Edwards, Louisiana gubernatorial election, 2015, Republican, Senate, second round, state Representative_
 
 ##### Guatemalan general election, 2015
 ### [Voters in Guatemala go to the polls for the second round of voting in a presidential election with former TV comedian Jimmy Morales winning a landslide victory. ](/news/2015/10/25/voters-in-guatemala-go-to-the-polls-for-the-second-round-of-voting-in-a-presidential-election-with-former-tv-comedian-jimmy-morales-winning.md)
@@ -43,7 +43,7 @@ A toddler was among four people killed when an allegedly inebriated woman drove 
 ### [United States military and intelligence sources cite concerns about Russian activities near undersea cables that suggest plans to intercept or cut communication over these vital links. ](/news/2015/10/25/united-states-military-and-intelligence-sources-cite-concerns-about-russian-activities-near-undersea-cables-that-suggest-plans-to-intercept.md)
 Russian submarines are aggressively operating near the undersea cables that carry almost all global Internet communications, raising concerns in the U.S.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Eleven European and Balkan leaders meet about the migrant crisis at an emergency summit in Brussels, Belgium; Turkey did not attend. The Prime Minister of Slovenia says the EU will 'start falling apart' within weeks if the migrant crisis continues unchecked. Huge divisions remain among EU states over how to deal with the influx of hundreds of thousands of migrants. ](/news/2015/10/25/eleven-european-and-balkan-leaders-meet-about-the-migrant-crisis-at-an-emergency-summit-in-brussels-belgium-turkey-did-not-attend-the-pri.md)
 European leaders held an emergency summit Sunday to find ways of easing the plight of those caught up in the continent&apos;s greatest immigration crisis in decades.
 
@@ -51,7 +51,7 @@ European leaders held an emergency summit Sunday to find ways of easing the plig
 ### [At least five people are dead, one missing, and 21 rescued, from a tour boat carrying 27 people that sinks west of Vargas Island, off the coast of Tofino on Vancouver Island, British Columbia, Canada. The RCMP is responsible for the missing person now that the search has been called off. ](/news/2015/10/25/at-least-five-people-are-dead-one-missing-and-21-rescued-from-a-tour-boat-carrying-27-people-that-sinks-west-of-vargas-island-off-the-co.md)
 A massive search-and-rescue effort was launched after the vessel made a mayday call.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [The bodies of 40 migrants wash ashore on the Libyan coast with another 30 people missing. ](/news/2015/10/25/the-bodies-of-40-migrants-wash-ashore-on-the-libyan-coast-with-another-30-people-missing.md)
 The bodies of 40 migrants have been found washed ashore in Libya, with a search underway for another 30 believed to have been on the boat that sank.
 

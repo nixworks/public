@@ -7,7 +7,7 @@ Formats: [HTML](2007/11/26/index.html)  [JSON](2007/11/26/index.json)  [XML](200
 ### [ Newsweek Magazine will come out with a new edition, about the top ranked schools in the United States. ](/news/2007/11/26/newsweek-magazine-will-come-out-with-a-new-edition-about-the-top-ranked-schools-in-the-united-states.md)
 ##### China
 ### [ The People's Republic of China signs a deal to buy 160 Airbus aircraft in a deal worth $US17 billion during a visit by the President of France Nicolas Sarkozy. ](/news/2007/11/26/the-people-s-republic-of-china-signs-a-deal-to-buy-160-airbus-aircraft-in-a-deal-worth-us17-billion-during-a-visit-by-the-president-of-fra.md)
-_Context: Airbus, China, French President, Nicolas Sarkozy, US$_
+_Context: Airbus, China, Nicolas Sarkozy, President of France, US$_
 
 ##### Draft constitution
 ### [ At least three people die in clashes over a new draft constitution in Sucre, Bolivia. ](/news/2007/11/26/at-least-three-people-die-in-clashes-over-a-new-draft-constitution-in-sucre-bolivia.md)

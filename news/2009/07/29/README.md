@@ -17,7 +17,7 @@ _Context: International Monetary Fund_
 
 ##### France
 ### [ French President Nicolas Sarkozy claims he is fine after his fainting fit. ](/news/2009/07/29/french-president-nicolas-sarkozy-claims-he-is-fine-after-his-fainting-fit.md)
-_Context: France, French President, Nicolas Sarkozy, fainting, fit_
+_Context: France, Nicolas Sarkozy, President of France, fainting, fit_
 
 ##### Sudan
 ### [ The trial of Sudanese journalist and United Nations worker Lubna Ahmed Hussein, who faces 40 lashes for wearing trousers, is adjourned. ](/news/2009/07/29/the-trial-of-sudanese-journalist-and-united-nations-worker-lubna-ahmed-hussein-who-faces-40-lashes-for-wearing-trousers-is-adjourned.md)

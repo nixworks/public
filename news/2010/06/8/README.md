@@ -45,7 +45,7 @@ Legislation which requires some rapists and paedophiles to undergo chemical cast
 
 ##### UK Border Agency
 ### [Refugee agencies criticise the UK Border Agency's decision to deport Afghan children. ](/news/2010/06/8/refugee-agencies-criticise-the-uk-border-agency-s-decision-to-deport-afghan-children.md)
-_Context: Afghanistan, UK Border Agency_
+_Context: Afghan, UK Border Agency_
 
 ##### Governor of Illinois
 ### [The trial of former Governor of Illinois Rod Blagojevich on corruption charges begins today in the United States. ](/news/2010/06/8/the-trial-of-former-governor-of-illinois-rod-blagojevich-on-corruption-charges-begins-today-in-the-united-states.md)
@@ -69,7 +69,7 @@ China says it has filed a formal complaint with North Korea about the killing of
 
 ##### International Federation of Red Cross and Red Crescent Societies
 ### [The Red Crescent Society, for the first time since December 2008 and in a joint venture between Iran and Turkey, prepares to send two aid boats of donations and relief workers to Gaza. ](/news/2010/06/8/the-red-crescent-society-for-the-first-time-since-december-2008-and-in-a-joint-venture-between-iran-and-turkey-prepares-to-send-two-aid-bo.md)
-_Context: Gaza Strip, International Federation of Red Cross and Red Crescent Societies, Iran, Turkish_
+_Context: Gaza Strip, International Federation of Red Cross and Red Crescent Societies, Iran, Turkey_
 
 ##### Libya
 ### [Libya orders the United Nations refugee agency, UNHCR, to leave the country for unknown reasons. ](/news/2010/06/8/libya-orders-the-united-nations-refugee-agency-unhcr-to-leave-the-country-for-unknown-reasons.md)
@@ -79,9 +79,9 @@ UNHCR says it was told to cease operations without explanation.
 ### [The United States threatens Iran with its toughest nuclear sanctions yet, despite the nuclear fuel-swap arrangement Iran made with Brazil and Turkey in May. ](/news/2010/06/8/the-united-states-threatens-iran-with-its-toughest-nuclear-sanctions-yet-despite-the-nuclear-fuel-swap-arrangement-iran-made-with-brazil-an.md)
 Iran faces its toughest sanctions over its nuclear policy, the US says, as the UN prepares to vote on the issue.
 
-##### Afghanistan
+##### Afghan
 ### [21 nations, including the Presidents of Afghanistan, Russia and Syria, attending the Conference on Interaction and Confidence-Building Measures in Asia summit in Istanbul condemn Israel's deadly raid on the Gaza-bound aid flotilla, while Israel, the 22nd participant with a lower-level diplomat, disagrees. ](/news/2010/06/8/21-nations-including-the-presidents-of-afghanistan-russia-and-syria-attending-the-conference-on-interaction-and-confidence-building-measu.md)
-_Context: Afghanistan, Conference on Interaction and Confidence-Building Measures in Asia, Gaza Strip, Gaza flotilla raid, Israel, Istanbul, Russia, Syria_
+_Context: Afghan, Conference on Interaction and Confidence-Building Measures in Asia, Gaza Strip, Gaza flotilla raid, Israel, Istanbul, Russia, Syria_
 
 ##### European Union
 ### [The EU proposes that Romani issues should be integrated into housing, education and culture polices at EU and national level. ](/news/2010/06/8/the-eu-proposes-that-romani-issues-should-be-integrated-into-housing-education-and-culture-polices-at-eu-and-national-level.md)

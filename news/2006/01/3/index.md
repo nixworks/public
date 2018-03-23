@@ -37,7 +37,7 @@ _Context: Bo Xilai, Hong Kong, Jiang Weiping, Liaoning, State Secrets Law, corru
 
 ##### Restarts
 ### [ Russia-Ukraine gas dispute: The Russian and Ukrainian natural gas companies agree to end their dispute and resume gas supply to Ukraine under a complex price scheme in which OAO Gazprom will sell gas to the Rosukrenergo trading company (owned by Gazprom Bank and Raiffeisen Bank) for US$230 (E195) per 1,000 cubic meters as of Jan. 1, and Ukraine will buy gas from the company for US$95 (E80). ](/news/2006/01/3/russia-ukraine-gas-dispute-the-russian-and-ukrainian-natural-gas-companies-agree-to-end-their-dispute-and-resume-gas-supply-to-ukraine-und.md)
-_Context: Gazprom, Ukraine, restarts_
+_Context: Gazprom, Ukrainian, restarts_
 
 ##### Sago Mine disaster
 ### [ Sago Mine disaster: In West Virginia, US, family members now say only one trapped miner has been brought out alive from the collapsed coal mine. All 12 others are dead. Earlier news reports, at approximately 10:30 p.m. EST, indicated that 12 miners were found alive. Rescue crews found one body late Tuesday after 13 miners were trapped following an explosion on Monday. ](/news/2006/01/3/sago-mine-disaster-in-west-virginia-us-family-members-now-say-only-one-trapped-miner-has-been-brought-out-alive-from-the-collapsed-coal.md)

@@ -19,9 +19,9 @@ _Context: Leila de Lima, Philippines, Vitaliano Aguirre II, drug crackdown_
 ### [Princess Cristina of Spain is acquitted of fraud but her husband is convicted. ](/news/2017/02/17/princess-cristina-of-spain-is-acquitted-of-fraud-but-her-husband-is-convicted.md)
 _Context: Cristina, Spanish, fraud_
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Nearly five hundred African migrants swarm the border of Spain from Morocco. ](/news/2017/02/17/nearly-five-hundred-african-migrants-swarm-the-border-of-spain-from-morocco.md)
-_Context: Africa, European migrant crisis, Morocco, Spanish_
+_Context: Africa, Morocco, Spanish, refugee immigration to Germany_
 
 ##### Pennsylvania
 ### [Authorities in the state of Pennsylvania discover the Seoul virus, a member of the Hantavirus family, in a contained scientific breeding-facility for rats. ](/news/2017/02/17/authorities-in-the-state-of-pennsylvania-discover-the-seoul-virus-a-member-of-the-hantavirus-family-in-a-contained-scientific-breeding-fac.md)

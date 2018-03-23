@@ -29,7 +29,7 @@ Officials in Brazil say a prison riot in which at least five inmates were killed
 
 ##### President of Russia
 ### [The President of Russia Vladimir Putin meets with the President of Ukraine Petro Poroshenko in Minsk, Belarus, as disputes in eastern Ukraine continue. ](/news/2014/08/26/the-president-of-russia-vladimir-putin-meets-with-the-president-of-ukraine-petro-poroshenko-in-minsk-belarus-as-disputes-in-eastern-ukrain.md)
-_Context: Belarus, Minsk, Petro Poroshenko, President of Russia, Ukraine, Ukrainian President, Vladimir Putin_
+_Context: Belarus, Minsk, Petro Poroshenko, President of Russia, Ukrainian, Ukrainian President, Vladimir Putin_
 
 ##### Fast food
 ### [Fast food giant Burger King agrees to acquire Canadian coffee giant Tim Hortons for $11.4 billion and move its headquarters to Canada. ](/news/2014/08/26/fast-food-giant-burger-king-agrees-to-acquire-canadian-coffee-giant-tim-hortons-for-11-4-billion-and-move-its-headquarters-to-canada.md)
@@ -53,7 +53,7 @@ Four others injured; sides agree to open Gaza crossings for aid and building sup
 
 ##### Russia
 ### [Russia says that the 10 armed Russian paratroopers captured during the night in the village of Dzerkalne, Donetsk Oblast, roughly 20 kilometers from the Russian border, only entered Ukraine by "mistake". ](/news/2014/08/26/russia-says-that-the-10-armed-russian-paratroopers-captured-during-the-night-in-the-village-of-dzerkalne-donetsk-oblast-roughly-20-kilomet.md)
-_Context: Donetsk Oblast, Dzerkalne, Russia, Ukraine_
+_Context: Donetsk Oblast, Dzerkalne, Russia, Ukrainian_
 
 ## [Previous Day...](/news/2014/08/25/index.md)
 

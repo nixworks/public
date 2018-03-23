@@ -85,7 +85,7 @@ _Context: Comoros Islands, Tanzania_
 
 ##### United Nations
 ### [The United Nations says child soldiers continue to be recruited to fight and engage in piracy in Somalia. ](/news/2010/11/4/the-united-nations-says-child-soldiers-continue-to-be-recruited-to-fight-and-engage-in-piracy-in-somalia.md)
-_Context: Somali pirates, Somalia, United Nations, child soldiers_
+_Context: Somali, Somali pirates, United Nations, child soldiers_
 
 ##### Ethnic groups
 ### [Six armed ethnic groups in Burma join forces, fearing they will be attacked by the military government after the general election on Sunday. ](/news/2010/11/4/six-armed-ethnic-groups-in-burma-join-forces-fearing-they-will-be-attacked-by-the-military-government-after-the-general-election-on-sunday.md)

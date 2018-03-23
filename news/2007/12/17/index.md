@@ -23,9 +23,9 @@ _Context: Bushehr, Iran, Russia, nuclear fuel, nuclear reactor_
 ### [ President of Russia Vladimir Putin agrees to become Prime Minister after his term as president ends. ](/news/2007/12/17/president-of-russia-vladimir-putin-agrees-to-become-prime-minister-after-his-term-as-president-ends.md)
 _Context: President of Russia, Prime Minister of Russia, Russia, Vladimir Putin_
 
-##### Islam
+##### Muslim
 ### [ Zarkasih, the leader of the Islamic militant organisation Jemaah Islamiyah, goes on trial in Indonesia on terrorism charges. ](/news/2007/12/17/zarkasih-the-leader-of-the-islamic-militant-organisation-jemaah-islamiyah-goes-on-trial-in-indonesia-on-terrorism-charges.md)
-_Context: Indonesia, Islam, Islamic terrorism, Jemaah Islamiyah_
+_Context: Indonesia, Islamic terrorism, Jemaah Islamiyah, Muslim_
 
 ##### Brazil
 ### [ The leaders of Brazil, Bolivia, and Chile agree to build a highway by 2009 that will link the Atlantic (in Santos, Brazil) and the Pacific (in Iquique, Chile) coasts of South America. ](/news/2007/12/17/the-leaders-of-brazil-bolivia-and-chile-agree-to-build-a-highway-by-2009-that-will-link-the-atlantic-in-santos-brazil-and-the-pacific.md)

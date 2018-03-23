@@ -13,7 +13,7 @@ _Context: Army, Cambodia, Thailand, exchange gunfire_
 
 ##### International Maritime Bureau
 ### [ The International Maritime Bureau claims that pirates have hijacked a bulk carrier with 21 crew members in the Gulf of Aden near Somalia. ](/news/2008/10/15/the-international-maritime-bureau-claims-that-pirates-have-hijacked-a-bulk-carrier-with-21-crew-members-in-the-gulf-of-aden-near-somalia.md)
-_Context: Gulf of Aden, International Maritime Bureau, Somali pirates, Somalia, bulk carrier, pirate_
+_Context: Gulf of Aden, International Maritime Bureau, Somali, Somali pirates, bulk carrier, pirate_
 
 ##### Retail sales
 ### [ Retail sales in the United States decline by 1.2% in September 2008, a third successive month in decline and the sharpest decline in three years, further evidence that the United States economy is in a recession. ](/news/2008/10/15/retail-sales-in-the-united-states-decline-by-1-2-in-september-2008-a-third-successive-month-in-decline-and-the-sharpest-decline-in-three.md)

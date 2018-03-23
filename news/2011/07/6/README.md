@@ -59,9 +59,9 @@ _Context: Bell UH-1Y Venom, Marine Corps Base Camp Pendleton, San Diego, Califor
 ### [7 people are killed during heavy floods in Sichuan Province in the People's Republic of China. ](/news/2011/07/6/7-people-are-killed-during-heavy-floods-in-sichuan-province-in-the-people-s-republic-of-china.md)
 _Context: China, Sichuan Province, heavy flood_
 
-##### Afghanistan
+##### Afghan
 ### [Authorities report that a cargo plane has crashed in eastern Afghanistan with casualties feared. ](/news/2011/07/6/authorities-report-that-a-cargo-plane-has-crashed-in-eastern-afghanistan-with-casualties-feared.md)
-_Context: Afghanistan_
+_Context: Afghan_
 
 ##### Japan
 ### [Japan's Jiji Press reports that the country will conduct stress tests for all nuclear reactors in the country. ](/news/2011/07/6/japan-s-jiji-press-reports-that-the-country-will-conduct-stress-tests-for-all-nuclear-reactors-in-the-country.md)

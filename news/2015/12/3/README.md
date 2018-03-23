@@ -37,7 +37,7 @@ It is unusual for the BND spy agency to publicly release such a blunt assessment
 
 ##### Free travel
 ### [EU ministers discuss suspending the Schengen passport-free travel zone for two years, on the basis that the migrant crisis has exposed "serious deficiencies" at the Greek border that endanger the overall area. ](/news/2015/12/3/eu-ministers-discuss-suspending-the-schengen-passport-free-travel-zone-for-two-years-on-the-basis-that-the-migrant-crisis-has-exposed-ase.md)
-_Context: European migrant crisis, Greece, free travel_
+_Context: Greece, free travel, refugee immigration to Germany_
 
 ##### Samsung
 ### [Samsung concedes to surrender $548 million to Apple Inc. over previously court-held ruling in patent dispute over copying the look of the iPhone. ](/news/2015/12/3/samsung-concedes-to-surrender-548-million-to-apple-inc-over-previously-court-held-ruling-in-patent-dispute-over-copying-the-look-of-the-ip.md)

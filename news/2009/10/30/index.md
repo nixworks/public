@@ -25,7 +25,7 @@ _Context: Honduras, Manuel Zelaya, President, Roberto Micheletti, political cris
 
 ##### France
 ### [ Former French President Jacques Chirac is ordered to stand trial on corruption charges. ](/news/2009/10/30/former-french-president-jacques-chirac-is-ordered-to-stand-trial-on-corruption-charges.md)
-_Context: France, French President, Jacques Chirac, corruption_
+_Context: France, Jacques Chirac, President of France, corruption_
 
 ##### Indigenous Brazilians
 ### [ Native tribesmen in the Amazon Rainforest discover a downed Brazilian military transport plane, finding nine survivors. ](/news/2009/10/30/native-tribesmen-in-the-amazon-rainforest-discover-a-downed-brazilian-military-transport-plane-finding-nine-survivors.md)

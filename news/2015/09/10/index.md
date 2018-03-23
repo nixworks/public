@@ -35,7 +35,7 @@ Five questions and answers regarding the adoption of the agreement, when it take
 ### [The United States expresses concern about alleged escalations of Russian military activities in Syria. ](/news/2015/09/10/the-united-states-expresses-concern-about-alleged-escalations-of-russian-military-activities-in-syria.md)
 Images reportedly shows Russia pressing ahead with a military buildup in Syria, but Moscow says it is only bringing aid.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Denmark reopens rail services to Germany after closing rail lines and a motorway in order to stem the flow of migrants on their way to Sweden. ](/news/2015/09/10/denmark-reopens-rail-services-to-germany-after-closing-rail-lines-and-a-motorway-in-order-to-stem-the-flow-of-migrants-on-their-way-to-swede.md)
 Denmark has resumed rail services to Germany, after closing the train line and a motorway yesterday in a bid to stem the flow of refugees heading north to Sweden. The motorway, a vital traffic artery for people and goods between the two countries, was closed when some 300 refugees, including childre...
 

@@ -23,9 +23,9 @@ _Context: Deputy Prime Minister of the Netherlands, Els Borst_
 ### [The People's Republic of China charges Zhao Liping, former Police Chief for Inner Mongolia with murder, bribery and possession of fire arms and explosives. ](/news/2016/02/4/the-people-s-republic-of-china-charges-zhao-liping-former-police-chief-for-inner-mongolia-with-murder-bribery-and-possession-of-fire-arms.md)
 _Context: Chinese, Inner Mongolia, Zhao Liping_
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [The President of Finland, Sauli Niinisto, in an address to the Finnish parliament (Eduskunta), says the current flow of migrants into Europe threatens the continent's Western values and that the UN's Convention relating to the Status of Refugees is outdated, saying "All estimates predict that the flow of people will increase this year. This is challenging the ability of Western democracies to help and also challenging the very structures underlying the idea of Europe". ](/news/2016/02/4/the-president-of-finland-sauli-niinistap-in-an-address-to-the-finnish-parliament-eduskunta-says-the-current-flow-of-migrants-into-europ.md)
-_Context: Convention relating to the Status of Refugees, Europe, European migrant crisis, Parliament of Finland, President, Sauli Niinisto, United Nations, Westerners_
+_Context: Convention relating to the Status of Refugees, Europe, Parliament of Finland, President, Sauli Niinisto, United Nations, Westerners, refugee immigration to Germany_
 
 ##### Trans-Pacific Partnership
 ### [ Twelve nations, including the United States, sign the deal at SkyCity Auckland in Auckland, New Zealand. ](/news/2016/02/4/twelve-nations-including-the-united-states-sign-the-deal-at-skycity-auckland-in-auckland-new-zealand.md)

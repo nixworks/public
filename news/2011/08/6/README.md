@@ -25,7 +25,7 @@ _Context: Crown Prince Nayef, Jeddah, Saudi Arabia_
 
 ##### Islamist
 ### [The Islamist al-Shabaab rebels in Somalia pull out of the capital Mogadishu. ](/news/2011/08/6/the-islamist-al-shabaab-rebels-in-somalia-pull-out-of-the-capital-mogadishu.md)
-_Context: Al-Shabaab, Islamist, Mogadishu, Somalia_
+_Context: Al-Shabab, Islamist, Mogadishu, Somali_
 
 ##### 2011 Syrian uprising
 ### [2011 Syrian uprising: The Gulf Co-operation Council urges an end to the "bloodshed" in Syria, and calls for reforms. ](/news/2011/08/6/2011-syrian-uprising-the-gulf-co-operation-council-urges-an-end-to-the-bloodshed-in-syria-and-calls-for-reforms.md)

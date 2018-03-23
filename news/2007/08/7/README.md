@@ -65,7 +65,7 @@ _Context: Iraq, Jordan, government school, refugee_
 
 ##### Taliban
 ### [ The Taliban attacks Firebase Anaconda in Uruzgan province but is repulsed by a joint force of Afghan fighters and United States Army forces with 20 militants killed. ](/news/2007/08/7/the-taliban-attacks-firebase-anaconda-in-uruzgan-province-but-is-repulsed-by-a-joint-force-of-afghan-fighters-and-united-states-army-forces.md)
-_Context: Afghanistan, Firebase Anaconda, Taliban, United States soldier, Uruzgan province_
+_Context: Afghan, Firebase Anaconda, Taliban, United States soldier, Uruzgan province_
 
 ##### Astronomer
 ### [ Astronomers of the Trans-Atlantic Exoplanet Survey announce the discovery of TrES-4, the largest known planet in the universe, circling the star GSC 02620-00648 in the Hercules Constellation. ](/news/2007/08/7/astronomers-of-the-trans-atlantic-exoplanet-survey-announce-the-discovery-of-tres-4-the-largest-known-planet-in-the-universe-circling-the.md)

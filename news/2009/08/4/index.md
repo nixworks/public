@@ -5,7 +5,7 @@ Formats: [HTML](2009/08/4/index.html)  [JSON](2009/08/4/index.json)  [XML](2009/
 
 ##### Nigeria
 ### [ Nigerian airport officials release an Ukrainian aircraft and its crew arrested in June with an arms cargo bound for Equatorial Guinea. ](/news/2009/08/4/nigerian-airport-officials-release-an-ukrainian-aircraft-and-its-crew-arrested-in-june-with-an-arms-cargo-bound-for-equatorial-guinea.md)
-_Context: Equatorial Guinea, Nigeria, Ukraine_
+_Context: Equatorial Guinea, Nigeria, Ukrainian_
 
 ##### Kenya
 ### [ Kenyan President Mwai Kibaki commutes the sentences of more than 4,000 death row inmates to life imprisonment. ](/news/2009/08/4/kenyan-president-mwai-kibaki-commutes-the-sentences-of-more-than-4-000-death-row-inmates-to-life-imprisonment.md)

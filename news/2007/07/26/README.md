@@ -13,7 +13,7 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 
 ##### War in Afghanistan (2001-present)
 ### [ War in Afghanistan: United States-led troops kill more than 50 insurgents in the Helmand province of Afghanistan. ](/news/2007/07/26/war-in-afghanistan-united-states-led-troops-kill-more-than-50-insurgents-in-the-helmand-province-of-afghanistan.md)
-_Context: Afghanistan, Helmand province, United States, War in Afghanistan (2001-present)_
+_Context: Afghan, Helmand province, United States, War in Afghanistan (2001-present)_
 
 ##### Earthquake
 ### [ A magnitude 7 earthquake in the Maluku Sea off the coast of Indonesia triggers a tsunami warning for North Maluku in Indonesia which is later cancelled. ](/news/2007/07/26/a-magnitude-7-earthquake-in-the-maluku-sea-off-the-coast-of-indonesia-triggers-a-tsunami-warning-for-north-maluku-in-indonesia-which-is-lat.md)
@@ -59,7 +59,7 @@ Two people were killed and four others seriously injured on Thursday in an explo
 ### [ The United States Food and Drug Administration suspends a gene therapy study and reviews 28 others after the death of a patient. ](/news/2007/07/26/the-united-states-food-and-drug-administration-suspends-a-gene-therapy-study-and-reviews-28-others-after-the-death-of-a-patient.md)
 _Context: Food and Drug Administration, United States, gene therapy_
 
-##### United States Senate
+##### Senate
 ### [ The United States Senate passes a package of measures recommended by the 9-11 Commission. ](/news/2007/07/26/the-united-states-senate-passes-a-package-of-measures-recommended-by-the-9-11-commission.md)
 Congress moves one step closer to fulfilling its first pledge of the 2006 election, passing homeland security provisions that include cargo screening and radiation monitoring equipment.
 

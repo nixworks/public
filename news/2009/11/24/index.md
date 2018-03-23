@@ -15,17 +15,17 @@ _Context: 2009 gubernatorial election and runoff, Benigno Fitial, Covenant Party
 ### [ Philippine President Gloria Macapagal Arroyo declares a state of emergency in the entire Maguindanao province in southern Philippines following the bloodiest election-related massacre in Philippine history which left at least 40 people dead, including a local politician and about a dozen journalists. ](/news/2009/11/24/philippine-president-gloria-macapagal-arroyo-declares-a-state-of-emergency-in-the-entire-maguindanao-province-in-southern-philippines-follo.md)
 24 more bodies recovered in deadly poll-related incidentThe death toll from the savage political massacre in Maguindanao rose to 46 on Tuesday, as President Arroyo placed the area under an indefinite state of emergency.
 
-##### Hindu
+##### Hindus
 ### [ In a tribute to Hindu goddess Gadhimai, approximately 20,000 buffalo and 300,000 birds, sheep and goats are ritually slaughtered in a festival in Bariyapur, Nepal. ](/news/2009/11/24/in-a-tribute-to-hindu-goddess-gadhimai-approximately-20-000-buffalo-and-300-000-birds-sheep-and-goats-are-ritually-slaughtered-in-a-festi.md)
-_Context: Bariyapur, Gadhimai, Hindu, Nepal, festival, goddess, ritually slaughtered_
+_Context: Bariyapur, Gadhimai, Hindus, Nepal, festival, goddess, ritually slaughtered_
 
 ##### China
 ### [ China executes two people for their role in the tainted milk poisoning scandal. ](/news/2009/11/24/china-executes-two-people-for-their-role-in-the-tainted-milk-poisoning-scandal.md)
 State media says two executed over tainted milk that sickened thousands in 2008.
 
-##### Ukraine
+##### Ukrainian
 ### [ Pirates kill a Ukrainian sailor after an oil tanker is attacked off the coast of Benin. ](/news/2009/11/24/pirates-kill-a-ukrainian-sailor-after-an-oil-tanker-is-attacked-off-the-coast-of-benin.md)
-_Context: Benin, Ukraine_
+_Context: Benin, Ukrainian_
 
 ##### Inquiry opens
 ### [ An inquiry opens in the United Kingdom over the country's involvement in the Iraq War. ](/news/2009/11/24/an-inquiry-opens-in-the-united-kingdom-over-the-country-s-involvement-in-the-iraq-war.md)

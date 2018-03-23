@@ -5,7 +5,7 @@ Formats: [HTML](2014/11/29/index.html)  [JSON](2014/11/29/index.json)  [XML](201
 
 ##### UMP
 ### [The Union for a Popular Movement reelects former French President Nicolas Sarkozy, as the party leader. ](/news/2014/11/29/the-union-for-a-popular-movement-reelects-former-french-president-nicolas-sarkozy-as-the-party-leader.md)
-_Context: French President, Nicolas Sarkozy, UMP_
+_Context: Nicolas Sarkozy, President of France, UMP_
 
 ##### Australia
 ### [Voters go to the polls in the Australian state of Victoria for a state election. The election sees Labor, led by Daniel Andrews, defeat Denis Napthine's Liberal-National Coalition, the first time a one-term government has lost power in the state since 1955. ](/news/2014/11/29/voters-go-to-the-polls-in-the-australian-state-of-victoria-for-a-state-election-the-election-sees-labor-led-by-daniel-andrews-defeat-deni.md)

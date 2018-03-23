@@ -33,7 +33,7 @@ _Context: 2016 Yerevan hostage crisis, Armenia, National Security Service, Yerev
 
 ##### War in Somalia (2009-present)
 ### [An Al-Shabaab attack on the Central Investigations Department kills at least nine people. ](/news/2016/07/31/an-al-shabaab-attack-on-the-central-investigations-department-kills-at-least-nine-people.md)
-_Context: Al-Shabaab, War in Somalia (2009-present)_
+_Context: Al-Shabab, War in Somalia (2009-present)_
 
 ##### Iraqi Civil War (2014-present)
 ### [Islamic State militants attack two gas facilities northwest of Kirkuk in northern Iraq, killing at least five people and wounding six policemen. Three assailants detonated their explosive vests and a fourth was killed in clash with security forces. ](/news/2016/07/31/islamic-state-militants-attack-two-gas-facilities-northwest-of-kirkuk-in-northern-iraq-killing-at-least-five-people-and-wounding-six-police.md)

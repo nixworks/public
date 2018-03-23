@@ -13,7 +13,7 @@ _Context: United States_
 
 ##### Afghan President
 ### [ President of Afghanistan Hamid Karzai opens a new terminal at Kabul International Airport. ](/news/2008/11/7/president-of-afghanistan-hamid-karzai-opens-a-new-terminal-at-kabul-international-airport.md)
-_Context: Afghan President, Afghanistan, Hamid Karzai, Kabul International Airport_
+_Context: Afghan, Afghan President, Hamid Karzai, Kabul International Airport_
 
 ##### Malaysia
 ### [ Malaysian blogger Raja Petra Kamarudin is released from detention under the Internal Security Act after a court ruled that his detention was illegal. ](/news/2008/11/7/malaysian-blogger-raja-petra-kamarudin-is-released-from-detention-under-the-internal-security-act-after-a-court-ruled-that-his-detention-wa.md)

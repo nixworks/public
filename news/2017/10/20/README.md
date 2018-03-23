@@ -17,7 +17,7 @@ Police in Malawi said they arrested 140 suspected members of vigilante mobs that
 
 ##### Insurgency in Egypt (2013-present)
 ### [Sixteen members of the Egyptian Police have died in a clash with Islamic militants from the Hasm Movement. More than fifteen militants have been killed. ](/news/2017/10/20/sixteen-members-of-the-egyptian-police-have-died-in-a-clash-with-islamic-militants-from-the-hasm-movement-more-than-fifteen-militants-have.md)
-_Context: Egyptian Police, Hasm Movement, Insurgency in Egypt (2013-present), Islam_
+_Context: Egyptian Police, Hasm Movement, Insurgency in Egypt (2013-present), Muslim_
 
 ##### War in Afghanistan (2001-present)
 ### [Two suicide bomber attacks, one on a Shia mosque in Kabul and one on a Sunni mosque in Ghor Province, kill approximately 60 people. Approximately 180 people have been killed in bombing attacks this week. ](/news/2017/10/20/two-suicide-bomber-attacks-one-on-a-shia-mosque-in-kabul-and-one-on-a-sunni-mosque-in-ghor-province-kill-approximately-60-people-approxim.md)

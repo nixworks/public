@@ -29,7 +29,7 @@ _Context: 2011-2012 Yemeni uprising, Ali Abdullah Saleh, President, Yemen_
 
 ##### Assassination of Hrant Dink
 ### [Marking five years since the assassination of Hrant Dink, Turks protest.](/news/2012/01/20/marking-five-years-since-the-assassination-of-hrant-dink-turks-protest.md)
-_Context: Turkish, assassination of Hrant Dink_
+_Context: Turkey, assassination of Hrant Dink_
 
 ##### China
 ### [China warns Iran against developing nuclear weapons. ](/news/2012/01/20/china-warns-iran-against-developing-nuclear-weapons.md)
@@ -61,7 +61,7 @@ KANO (AFP) &#8211; A suicide blast and a series of other strong explosions rocke
 
 ##### AMISOM
 ### [AMISOM troops raid Islamist hideouts in the Somali capital Mogadishu. ](/news/2012/01/20/amisom-troops-raid-islamist-hideouts-in-the-somali-capital-mogadishu.md)
-_Context: AMISOM, Islamist, Mogadishu, Somalia_
+_Context: AMISOM, Islamist, Mogadishu, Somali_
 
 ##### 2011-2012 Syrian uprising
 ### [2011-2012 Syrian uprising: At least 10 people are killed in violence after Friday prayers. ](/news/2012/01/20/2011a2012-syrian-uprising-at-least-10-people-are-killed-in-violence-after-friday-prayers.md)

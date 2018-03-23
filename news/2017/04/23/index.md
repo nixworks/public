@@ -7,7 +7,7 @@ Formats: [HTML](2017/04/23/index.html)  [JSON](2017/04/23/index.json)  [XML](201
 ### [Voters in France go to the polls to elect a new president; Marine Le Pen and Emmanuel Macron qualify for the second round. ](/news/2017/04/23/voters-in-france-go-to-the-polls-to-elect-a-new-president-marine-le-pen-and-emmanuel-macron-qualify-for-the-second-round.md)
 Europe has had a number of important elections over the past year, but for the EU none is as significant – or as potentially grave – as France&#039;s upcoming presidential election.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [An Italian prosecutor says there are "telephone calls" between people smugglers in Libya and some non-governmental organizations. Frontex, the European Border and Coast Guard Agency, says the practices amount to a "taxi service". One NGO says "more would die" if they were not there. ](/news/2017/04/23/an-italian-prosecutor-says-there-are-telephone-calls-between-people-smugglers-in-libya-and-some-non-governmental-organizations-frontex-t.md)
 The chief prosecutor of Catania has repeated his claims that NGOs were working with smugglers to help migrants from Libya into Europe. His statements are in line with Italian populist leaders. 
 

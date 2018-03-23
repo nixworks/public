@@ -5,7 +5,7 @@ Formats: [HTML](2009/01/20/index.html)  [JSON](2009/01/20/index.json)  [XML](200
 
 ##### Russia
 ### [ Russia resumes transmitting natural gas to Europe via Ukraine. ](/news/2009/01/20/russia-resumes-transmitting-natural-gas-to-europe-via-ukraine.md)
-_Context: Europe, Russia, Russia-Ukraine gas disputes, Ukraine, natural gas_
+_Context: Europe, Russia, Russia-Ukraine gas disputes, Ukrainian, natural gas_
 
 ##### Barack Obama
 ### [ Barack Obama is inaugurated as the 44th and first African-American President of the United States. ](/news/2009/01/20/barack-obama-is-inaugurated-as-the-44th-and-first-african-american-president-of-the-united-states.md)

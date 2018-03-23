@@ -39,9 +39,9 @@ _Context: Ali Bongo Ondimba, Gabon_
 ### [More than 60 fishermen are rescued after being abducted by pirates in the Bay of Bengal. ](/news/2012/08/17/more-than-60-fishermen-are-rescued-after-being-abducted-by-pirates-in-the-bay-of-bengal.md)
 _Context: Bay of Bengal, pirate_
 
-##### Turkish
+##### Turkey
 ### [Turkey urges its citizens not to travel to Lebanon after the kidnapping of two Turkish nationals. ](/news/2012/08/17/turkey-urges-its-citizens-not-to-travel-to-lebanon-after-the-kidnapping-of-two-turkish-nationals.md)
-_Context: Lebanese, Turkish_
+_Context: Lebanese, Turkey_
 
 ##### War in Afghanistan
 ### [Afghanistan: ISAF announces two U.S. soldiers are killed by an Afghan policeman. The shooter is also killed. ](/news/2012/08/17/afghanistan-isaf-announces-two-u-s-soldiers-are-killed-by-an-afghan-policeman-the-shooter-is-also-killed.md)

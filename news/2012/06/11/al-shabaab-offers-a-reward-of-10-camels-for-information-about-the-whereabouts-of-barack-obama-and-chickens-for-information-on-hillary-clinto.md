@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/11/al-shabaab-offers-a-reward-of-10-camels-for-inf
 
 ### [2012-06-11](/news/2012/06/11/index.md)
 
-##### Al-Shabaab
+##### Al-Shabab
 # Al-Shabaab offers a reward of 10 camels for information about the whereabouts of Barack Obama and chickens for information on Hillary Clinton in response to the U.S. announcement of rewards of $3-7 million for various militant commanders. 
 
 The US threatens sanctions on Somalis who block a UN-supervised roadmap for peace, after a rare visit to Somalia by a top US envoy.

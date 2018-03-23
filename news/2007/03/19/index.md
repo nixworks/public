@@ -25,7 +25,7 @@ Ministerial Committee for Symbols and Ceremonies decides that last summer&#39;s 
 
 ##### Daniele Mastrogiacomo
 ### [ Daniele Mastrogiacomo, an Italian journalist working for "la Repubblica", is set free by the Taliban. He had been kidnapped in the Afghan province of Helmand on March 6. ](/news/2007/03/19/daniele-mastrogiacomo-an-italian-journalist-working-for-la-repubblica-is-set-free-by-the-taliban-he-had-been-kidnapped-in-the-afghan-p.md)
-_Context: Afghanistan, Daniele Mastrogiacomo, Helmand Province, Italy, March 6, Taliban, journalist, kidnapped, la Repubblica, provincial_
+_Context: Afghan, Daniele Mastrogiacomo, Helmand Province, Italy, March 6, Taliban, journalist, kidnapped, la Repubblica, provincial_
 
 ##### Supreme Court of the United States
 ### [ The Supreme Court of the United States hears "Morse v. Frederick", in which an Alaskan high school student argues free speech rights in connection with his displaying a banner reading "Bong Hits 4 Jesus" in front of a Juneau high school. ](/news/2007/03/19/the-supreme-court-of-the-united-states-hears-morse-v-frederick-in-which-an-alaskan-high-school-student-argues-free-speech-rights-in-con.md)

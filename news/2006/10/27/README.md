@@ -33,7 +33,7 @@ _Context: John Allen Muhammad, Lee Boyd Malvo, Tucson, Washington D.C._
 
 ##### Muslim
 ### [ Thousands of young Muslim men demonstrate in the Somali capital of Mogadishu in support of a call for a holy war against Ethiopia. ](/news/2006/10/27/thousands-of-young-muslim-men-demonstrate-in-the-somali-capital-of-mogadishu-in-support-of-a-call-for-a-holy-war-against-ethiopia.md)
-_Context: Ethiopia, Mogadishu, Muslim, Somalia, holy war_
+_Context: Ethiopia, Mogadishu, Muslim, Somali, holy war_
 
 ##### President of Chile
 ### [ A judge orders the arrest of former President of Chile Augusto Pinochet for torture, murder and kidnapping (Villa Grimaldi case) in the early years of his regime, from 1973 to 1990. ](/news/2006/10/27/a-judge-orders-the-arrest-of-former-president-of-chile-augusto-pinochet-for-torture-murder-and-kidnapping-villa-grimaldi-case-in-the-ear.md)

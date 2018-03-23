@@ -21,7 +21,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Two years of helping
 ### [ War in Somalia: Eight people are killed in a mortar attack in Somalia's capital Mogadishu. ](/news/2007/02/2/war-in-somalia-eight-people-are-killed-in-a-mortar-attack-in-somalia-s-capital-mogadishu.md)
-_Context: Mogadishu, Mortar, Somalia, two years of helping_
+_Context: Mogadishu, Mortar, Somali, two years of helping_
 
 ##### China
 ### [ Chinese President Hu Jintao signs a series of economic deals with Sudan, which China has protected from UN sanctions. ](/news/2007/02/2/chinese-president-hu-jintao-signs-a-series-of-economic-deals-with-sudan-which-china-has-protected-from-un-sanctions.md)

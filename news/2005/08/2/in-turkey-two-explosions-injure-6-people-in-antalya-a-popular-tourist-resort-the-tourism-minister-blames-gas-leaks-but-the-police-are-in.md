@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/08/2/in-turkey-two-explosions-injure-6-people-in-anta
 
 ### [2005-08-2](/news/2005/08/2/index.md)
 
-##### Turkish
+##### Turkey
 #  In Turkey, two explosions injure 6 people in Antalya, a popular tourist resort. The tourism minister blames gas leaks but the police are investigating. 
 
 
@@ -16,8 +16,8 @@ Formats: [HTML](/news/2005/08/2/in-turkey-two-explosions-injure-6-people-in-anta
 
 ### Related:
 
-1. [United States President Barack Obama, in Antalya, Turkey, says America will continue to accept refugees from Syria and elsewhere, though, "Only after subjecting them to rigorous screening and security checks." Responding to calls to admit Christians but not Muslims into the country, he said, "We don't have religious tests to our compassion." ](/news/2015/11/16/united-states-president-barack-obama-in-antalya-turkey-says-america-will-continue-to-accept-refugees-from-syria-and-elsewhere-though-o.md) _Context: Antalya, Turkish_
-2. [ An Atlas Jet plane en route from Nicosia in Cyprus to Istanbul in Turkey is hijacked. Some passengers were freed while the plane refueled in Antalya in southern Turkey. All 142 people escape unhurt while the hijackers surrender. ](/news/2007/08/18/an-atlas-jet-plane-en-route-from-nicosia-in-cyprus-to-istanbul-in-turkey-is-hijacked-some-passengers-were-freed-while-the-plane-refueled-i.md) _Context: Antalya, Turkish_
-3. [ Three bombs explode in the Turkish coastal town of Marmaris following an explosion in Istanbul shortly after midnight local time (2100 UTC Sunday). At least 22 people have been injured in the explosions. A further explosion occurred hours later in nearby Antalya, killing at least three people. ](/news/2006/08/28/three-bombs-explode-in-the-turkish-coastal-town-of-marmaris-following-an-explosion-in-istanbul-shortly-after-midnight-local-time-2100-utc.md) _Context: Antalya, Turkish_
-4. [According to the Syrian Observatory for Human Rights, at least 36 pro-Syrian government troops were killed in a Turkish airstrike in Afrin, Syria. ](/news/2018/03/3/according-to-the-syrian-observatory-for-human-rights-at-least-36-pro-syrian-government-troops-were-killed-in-a-turkish-airstrike-in-afrin.md) _Context: Turkish_
-5. [The Turkish-backed Free Syrian Army rebels loot the Syrian city of Afrin. ](/news/2018/03/19/the-turkish-backed-free-syrian-army-rebels-loot-the-syrian-city-of-afrin.md) _Context: Turkish_
+1. [United States President Barack Obama, in Antalya, Turkey, says America will continue to accept refugees from Syria and elsewhere, though, "Only after subjecting them to rigorous screening and security checks." Responding to calls to admit Christians but not Muslims into the country, he said, "We don't have religious tests to our compassion." ](/news/2015/11/16/united-states-president-barack-obama-in-antalya-turkey-says-america-will-continue-to-accept-refugees-from-syria-and-elsewhere-though-o.md) _Context: Antalya, Turkey_
+2. [ An Atlas Jet plane en route from Nicosia in Cyprus to Istanbul in Turkey is hijacked. Some passengers were freed while the plane refueled in Antalya in southern Turkey. All 142 people escape unhurt while the hijackers surrender. ](/news/2007/08/18/an-atlas-jet-plane-en-route-from-nicosia-in-cyprus-to-istanbul-in-turkey-is-hijacked-some-passengers-were-freed-while-the-plane-refueled-i.md) _Context: Antalya, Turkey_
+3. [ Three bombs explode in the Turkish coastal town of Marmaris following an explosion in Istanbul shortly after midnight local time (2100 UTC Sunday). At least 22 people have been injured in the explosions. A further explosion occurred hours later in nearby Antalya, killing at least three people. ](/news/2006/08/28/three-bombs-explode-in-the-turkish-coastal-town-of-marmaris-following-an-explosion-in-istanbul-shortly-after-midnight-local-time-2100-utc.md) _Context: Antalya, Turkey_
+4. [According to the Syrian Observatory for Human Rights, at least 36 pro-Syrian government troops were killed in a Turkish airstrike in Afrin, Syria. ](/news/2018/03/3/according-to-the-syrian-observatory-for-human-rights-at-least-36-pro-syrian-government-troops-were-killed-in-a-turkish-airstrike-in-afrin.md) _Context: Turkey_
+5. [Turkey announces it is to send a drilling boat to disputed waters claimed by both Cyprus and Northern Cyprus. ](/news/2018/03/22/turkey-announces-it-is-to-send-a-drilling-boat-to-disputed-waters-claimed-by-both-cyprus-and-northern-cyprus.md) _Context: Turkey_

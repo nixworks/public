@@ -33,7 +33,7 @@ Many women and children killed during distribution of flour in Pakistani city.
 
 ##### U.S. special forces launch an attack
 ### [ U.S. special forces launch an attack on Islamist militants from Al-Shabab in Somalia. ](/news/2009/09/14/u-s-special-forces-launch-an-attack-on-islamist-militants-from-al-shabab-in-somalia.md)
-_Context: Al-Shabaab, Islam, Somalia, U.S. special forces launch an attack_
+_Context: Al-Shabaab, Muslim, Somali, U.S. special forces launch an attack_
 
 ##### France
 ### [ France's political "trial of the century" into the Clearstream affair&mdash;former Prime Minister Dominique de Villepin versus President Nicolas Sarkozy&mdash;opens at the Palais de Justice. ](/news/2009/09/14/france-s-political-trial-of-the-century-into-the-clearstream-affair-mdash-former-prime-minister-dominique-de-villepin-versus-president-ni.md)

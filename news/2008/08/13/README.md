@@ -9,7 +9,7 @@ _Context: Lahore, Pakistan_
 
 ##### Fokker F27-500
 ### [ A Fokker F27-500 cargo aircraft operated by Fly540 Logistics Ltd. crashes in Somalia. Three people died. ](/news/2008/08/13/a-fokker-f27-500-cargo-aircraft-operated-by-fly540-logistics-ltd-crashes-in-somalia-three-people-died.md)
-_Context: Fly540 Logistics Ltd., Fokker F27-500, Somalia_
+_Context: Fly540 Logistics Ltd., Fokker F27-500, Somali_
 
 ##### President of Russia
 ### [ The Russian President Dmitry Medvedev announces a national day of mourning in Russia in connection with the Battle of Tskhinvali and the death of a large number of Russian citizens there. Georgian Orthodox Church Patriarch Ilia II announced the national day of mourning for soldiers and civilians who died during the 2008 South Ossetia war. ](/news/2008/08/13/the-russian-president-dmitry-medvedev-announces-a-national-day-of-mourning-in-russia-in-connection-with-the-battle-of-tskhinvali-and-the-de.md)

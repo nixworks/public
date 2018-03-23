@@ -39,7 +39,7 @@ UPDATED: Police are questioning Moder Mothama Magid, a 22-year-old Iraqi man arr
 ### [North Korea and South Korea agree to hold talks next week. ](/news/2015/11/20/north-korea-and-south-korea-agree-to-hold-talks-next-week.md)
 _Context: North Korea, North Korea-South Korea relations, South Korea_
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Macedonia, Serbia, Croatia, and Slovenia shut their borders to so-called economic migrants, those not coming from war-torn countries such as Syria, Afghanistan, or Iraq, leaving thousands stranded at Balkan border crossings. Around 500 migrants from Iran, Morocco, and Algeria gather on the border between Greece and Macedonia to protest the closure. ](/news/2015/11/20/macedonia-serbia-croatia-and-slovenia-shut-their-borders-to-so-called-economic-migrants-those-not-coming-from-war-torn-countries-such-as.md)
 EU ministers hold emergency talks today on tightening border checks after the killing of the ringleader of the Paris attacks in an apartment in the French capital raised troubling questions about the bloc&#039;s security.
 

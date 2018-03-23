@@ -33,7 +33,7 @@ _Context: 2011 Yemeni uprising, Ali Abdullah Saleh, President, Yemen_
 
 ##### Fazul Abdullah Mohammed
 ### [Fazul Abdullah Mohammed, mastermind of the 1998 United States embassy bombings in Kenya and Tanzania, is killed in Somalia. ](/news/2011/06/11/fazul-abdullah-mohammed-mastermind-of-the-1998-united-states-embassy-bombings-in-kenya-and-tanzania-is-killed-in-somalia.md)
-_Context: 1998 United States embassy bombings, Fazul Abdullah Mohammed, Kenya, Somalia, Tanzania_
+_Context: 1998 United States embassy bombings, Fazul Abdullah Mohammed, Kenya, Somali, Tanzania_
 
 ##### 2011 Bahraini protests
 ### [2011 Bahraini protests: More than 10,000 people join an opposition rally for the first time in months calling for reform. ](/news/2011/06/11/2011-bahraini-protests-more-than-10-000-people-join-an-opposition-rally-for-the-first-time-in-months-calling-for-reform.md)

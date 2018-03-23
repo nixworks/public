@@ -27,9 +27,9 @@ Seven crew members are arrested on suspicion of endangering lives at sea after t
 ### [A minibus collides with a truck in the northern Philippine province of Ilocos Norte, killing at least 10 people. ](/news/2012/10/2/a-minibus-collides-with-a-truck-in-the-northern-philippine-province-of-ilocos-norte-killing-at-least-10-people.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-##### Afghanistan
+##### Afghan
 ### [A bomb blast in southern Afghanistan kills a United States Army service member. ](/news/2012/10/2/a-bomb-blast-in-southern-afghanistan-kills-a-united-states-army-service-member.md)
-_Context: Afghanistan, United States soldier_
+_Context: Afghan, United States soldier_
 
 ##### People's Majlis
 ### [A member of the People's Majlis, the parliament of the Maldives, is found stabbed to death near his home. ](/news/2012/10/2/a-member-of-the-peopleas-majlis-the-parliament-of-the-maldives-is-found-stabbed-to-death-near-his-home.md)

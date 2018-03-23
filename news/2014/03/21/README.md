@@ -15,17 +15,17 @@ Two children died and another 30 were sickened in a mass poisoning at a kinderga
 ### [American judge Bernard A. Friedman of the United States District Court for the Eastern District of Michigan overturns Michigan's ban on same-sex marriages. ](/news/2014/03/21/american-judge-bernard-a-friedman-of-the-united-states-district-court-for-the-eastern-district-of-michigan-overturns-michigan-s-ban-on-same.md)
 _Context: Bernard A. Friedman, Michigan, U.S. District Judge for the Eastern District of Michigan_
 
-##### Ukraine
+##### Ukrainian
 ### [Ukraine signs an association accord with the European Union in defiance of Russia. ](/news/2014/03/21/ukraine-signs-an-association-accord-with-the-european-union-in-defiance-of-russia.md)
-_Context: European Union, Russia, Ukraine_
+_Context: European Union, Russia, Ukrainian_
 
 ##### Russia
 ### [The Russian Federation Council, the upper house of the Federal Assembly, approves the annexation of Crimea. ](/news/2014/03/21/the-russian-federation-council-the-upper-house-of-the-federal-assembly-approves-the-annexation-of-crimea.md)
 MOSCOW (AP) — The upper house of the Russian parliament has approved Moscow&#x27;s annexation of Crimea.
 
-##### Turkish
+##### Turkey
 ### [Turkey restricts access to Twitter hours after the Prime Minister Recep Tayyip Erdogan threatens to "root out" the social network where politically sensitive documents had been published. ](/news/2014/03/21/turkey-restricts-access-to-twitter-hours-after-the-prime-minister-recep-tayyip-erdoaan-threatens-to-root-out-the-social-network-where-pol.md)
-_Context: Recep Tayyip Erdogan, Turkish, Turkish Prime Minister, Twitter_
+_Context: Recep Tayyip Erdogan, Turkey, Turkish Prime Minister, Twitter_
 
 ##### Tripoli, Lebanon
 ### [Clashes erupt in Tripoli, Lebanon, between Syrian regime supporters and detractors, leaving 3 dead. ](/news/2014/03/21/clashes-erupt-in-tripoli-lebanon-between-syrian-regime-supporters-and-detractors-leaving-3-dead.md)

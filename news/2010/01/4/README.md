@@ -25,7 +25,7 @@ _Context: Newark Liberty International Airport, United States_
 
 ##### Malaysia
 ### [52 unmarried couples in Malaysia face charges of sexual misconduct and possible imprisonment after being caught alone in hotel rooms by the country's Islamic morality police. ](/news/2010/01/4/52-unmarried-couples-in-malaysia-face-charges-of-sexual-misconduct-and-possible-imprisonment-after-being-caught-alone-in-hotel-rooms-by-the.md)
-_Context: Islam, Malaysia_
+_Context: Malaysia, Muslim_
 
 ##### Government of Serbia
 ### [The Government of Serbia sues Croatia for genocide before the International Court of Justice with historical account of the Holocaust. ](/news/2010/01/4/the-government-of-serbia-sues-croatia-for-genocide-before-the-international-court-of-justice-with-historical-account-of-the-holocaust.md)

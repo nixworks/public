@@ -37,7 +37,7 @@ A major faction of the Pakistani Taliban announce their split from the organisat
 
 ##### Ramzan Kadyrov
 ### [Ramzan Kadyrov, Head of the Chechen Republic, insists he has not sent troops to Ukraine to fight alongside pro-Russia separatists. ](/news/2014/05/28/ramzan-kadyrov-head-of-the-chechen-republic-insists-he-has-not-sent-troops-to-ukraine-to-fight-alongside-pro-russia-separatists.md)
-_Context: Chechen Republic leader, Ramzan Kadyrov, Ukraine_
+_Context: Chechen Republic leader, Ramzan Kadyrov, Ukrainian_
 
 ##### Tunisia
 ### [Gunmen attack the home of Tunisia's top security official Lotfi Ben Jeddou resulting in the death of 4 police officers. ](/news/2014/05/28/gunmen-attack-the-home-of-tunisia-s-top-security-official-lotfi-ben-jeddou-resulting-in-the-death-of-4-police-officers.md)

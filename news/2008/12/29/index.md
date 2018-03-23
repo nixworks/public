@@ -17,7 +17,7 @@ _Context: Bangladesh, wins_
 
 ##### President
 ### [ President of Somalia Abdullahi Yusuf Ahmed resigns. Parliamentary Speaker Adan Mohamed Nuur Madobe will take over for 30 days, in which time the legislature will select a new head of state. ](/news/2008/12/29/president-of-somalia-abdullahi-yusuf-ahmed-resigns-parliamentary-speaker-adan-mohamed-nuur-madobe-will-take-over-for-30-days-in-which-tim.md)
-_Context: Abdullahi Yusuf Ahmed, Adan Mohamed Nuur Madobe, MPs, President, Somalia, Speaker, head of state_
+_Context: Abdullahi Yusuf Ahmed, Adan Mohamed Nuur Madobe, MPs, President, Somali, Speaker, head of state_
 
 ## [Previous Day...](/news/2008/12/28/index.md)
 

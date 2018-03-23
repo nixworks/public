@@ -15,7 +15,7 @@ A 24-year-old reporter and 27-year-old photographer from a local news station WD
 ### [The People's Republic of China sacks its workplace safety chief Yang Dongliang for alleged corruption following an investigation triggered by the Tianjin explosions. ](/news/2015/08/26/the-people-s-republic-of-china-sacks-its-workplace-safety-chief-yang-dongliang-for-alleged-corruption-following-an-investigation-triggered-b.md)
 China has sacked the head of its work safety regulator for suspected corruption, state news agency Xinhua said on Wednesday, following blasts that killed more than 100 people in the port city of Tianjin this month.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [A Swedish rescue crew finds 51 dead migrants in the hold of a boat off the coast of Libya during a rescue operation in the Mediterranean Sea that has saved 439 other people. In addition, three women are found dead in another migrant boat and another corpse is found during ten rescue operations on Wednesday that have saved around 3,000 people, according to the Italian coast guard. ](/news/2015/08/26/a-swedish-rescue-crew-finds-51-dead-migrants-in-the-hold-of-a-boat-off-the-coast-of-libya-during-a-rescue-operation-in-the-mediterranean-sea.md)
 Some 50 migrants were found dead inthe hold of a boat off the coast of Libya on Wednesday during arescue operation which saved 430 other people, the Italian coastguard said.
 

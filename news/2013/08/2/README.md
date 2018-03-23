@@ -13,7 +13,7 @@ _Context: Ibrahim Boubacar Keita, Soumala Ciss, run-off election, the election_
 
 ##### Samantha Power
 ### [Samantha Power is sworn in as the new United States Ambassador to the United Nations by Vice President Joe Biden. ](/news/2013/08/2/samantha-power-is-sworn-in-as-the-new-united-states-ambassador-to-the-united-nations-by-vice-president-joe-biden.md)
-_Context: Ambassador to the United Nations, Joe Biden, Samantha Power_
+_Context: Joe Biden, Samantha Power, United States Ambassador to the United Nations_
 
 ##### Zimbabwe
 ### [The Zimbabwe Electoral Commission says that Robert Mugabe's ZANU-PF party has won 142 seats of 210 seats in the general election. ](/news/2013/08/2/the-zimbabwe-electoral-commission-says-that-robert-mugabe-s-zanu-pf-party-has-won-142-seats-of-210-seats-in-the-general-election.md)

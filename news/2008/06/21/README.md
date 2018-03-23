@@ -33,7 +33,7 @@ _Context: Central African Republic, amnesty_
 
 ##### UN Refugee Agency
 ### [ An employee for the United Nations High Commissioner for Refugees in Somalia is kidnapped. ](/news/2008/06/21/an-employee-for-the-united-nations-high-commissioner-for-refugees-in-somalia-is-kidnapped.md)
-_Context: Somalia, UN Refugee Agency, kidnap_
+_Context: Somali, UN Refugee Agency, kidnap_
 
 ##### Pakistan
 ### [ Militants in Pakistan fire mortars on a NATO base and Afghan army base. ](/news/2008/06/21/militants-in-pakistan-fire-mortars-on-a-nato-base-and-afghan-army-base.md)

@@ -29,7 +29,7 @@ _Context: Bingu wa Mutharika, Malawi, President, reelected_
 
 ##### Transitional Federal Government
 ### [ At least 36 people are killed as the Transitional Federal Government and Islamist militants battle in Mogadishu, Somalia. ](/news/2009/05/22/at-least-36-people-are-killed-as-the-transitional-federal-government-and-islamist-militants-battle-in-mogadishu-somalia.md)
-_Context: Islamists, Mogadishu, Somalia, Transitional Federal Government, militant, violence_
+_Context: Islamists, Mogadishu, Somali, Transitional Federal Government, militant, violence_
 
 ##### Magnitude
 ### [ A 5.7-magnitude earthquake strikes Chiautla de Tapia, Puebla, Mexico. ](/news/2009/05/22/a-5-7-magnitude-earthquake-strikes-chiautla-de-tapia-puebla-mexico.md)

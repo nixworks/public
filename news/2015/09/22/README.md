@@ -19,7 +19,7 @@ In February, Anwar was sentenced to a five-year jail term after a sodomy convict
 ### [Two Cabinet ministers from the Peoples' Democratic Party (HDP) in Turkey's interim government resign over the increased violence in Kurdish areas of the country. Their exit leaves no opposition figures in the government. ](/news/2015/09/22/two-cabinet-ministers-from-the-peoplesa-democratic-party-hdp-in-turkeyas-interim-government-resign-over-the-increased-violence-in-kurd.md)
 Turkey moved swiftly on Tuesday to replace two ministers from a pro-Kurdish party who quit its interim government amid rising tensions after a ceasefire with Kurdish militants collapsed in July.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [European Union ministers meet in Brussels and reach agreement on a plan to distribute asylum seekers. ](/news/2015/09/22/european-union-ministers-meet-in-brussels-and-reach-agreement-on-a-plan-to-distribute-asylum-seekers.md)
 Gathering for their second such session in eight days, the ministers haggled over a proposal to resettle an additional 120,000 people across the European Union.
 

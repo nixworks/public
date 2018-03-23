@@ -91,9 +91,9 @@ _Context: Asif Ali Zardari, David Cameron, UK, president_
 ### [The 41st annual Pacific Islands Forum Leaders Summit opens in Port Vila, Vanuatu. ](/news/2010/08/3/the-41st-annual-pacific-islands-forum-leaders-summit-opens-in-port-vila-vanuatu.md)
 _Context: Pacific Islands Forum Leaders Summit, Port Vila, Vanuatu_
 
-##### Turkish
+##### Turkey
 ### [Turkey's Foreign Ministry summons Israel's ambassador after the Israeli Defence Minister Ehud Barak accuses the new head of Turkish intelligence of being a "friend of Iran". ](/news/2010/08/3/turkey-s-foreign-ministry-summons-israel-s-ambassador-after-the-israeli-defence-minister-ehud-barak-accuses-the-new-head-of-turkish-intellig.md)
-_Context: Defense Minister, Ehud Barak, Iran, Israel, Turkish, ambassador, foreign ministry_
+_Context: Defense Minister, Ehud Barak, Iran, Israel, Turkey, ambassador, foreign ministry_
 
 ##### Hassan Nasrallah
 ### [Sheikh Hassan Nasrallah suggests Israel carried out the 2005 assassination of ex-Lebanese PM Rafic Hariri, and promises he will show proof at a press conference next week. ](/news/2010/08/3/sheikh-hassan-nasrallah-suggests-israel-carried-out-the-2005-assassination-of-ex-lebanese-pm-rafic-hariri-and-promises-he-will-show-proof-a.md)
@@ -145,7 +145,7 @@ Nine&#x20;people&#x20;were&#x20;killed&#x20;in&#x20;the&#x20;US&#x20;state&#x20;
 
 ##### Taliban
 ### [A battle erupts as the Taliban attacks the Kandahar Air Field, the main NATO base in southern Afghanistan. The battle lasts an hour, after which the Taliban flee. ](/news/2010/08/3/a-battle-erupts-as-the-taliban-attacks-the-kandahar-air-field-the-main-nato-base-in-southern-afghanistan-the-battle-lasts-an-hour-after-w.md)
-_Context: Afghanistan, Kandahar Air Field, NATO, Taliban_
+_Context: Afghan, Kandahar Air Field, NATO, Taliban_
 
 ##### Baghdad
 ### [At least 5 police officers are shot dead at a checkpoint in Baghdad, Iraq. ](/news/2010/08/3/at-least-5-police-officers-are-shot-dead-at-a-checkpoint-in-baghdad-iraq.md)

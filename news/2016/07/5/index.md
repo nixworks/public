@@ -23,7 +23,7 @@ _Context: Haider al-Abadi, Iraqi Interior Minister, Iraqi Prime Minister, July 2
 ### [The FBI recommends, with numerous reservations about her actions, no charges be filed against Hillary Clinton over her emails. ](/news/2016/07/5/the-fbi-recommends-with-numerous-reservations-about-her-actions-no-charges-be-filed-against-hillary-clinton-over-her-emails.md)
 The FBI tells Hillary Clinton she will not face criminal charges over her use of private email, hours before her first campaign appearance with President Obama.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Hungarian Prime Minister Viktor Orban announces that the country will hold a referendum on October 2 where voters will get to choose whether or not to accept European Union-imposed quotas on the distribution of migrants. ](/news/2016/07/5/hungarian-prime-minister-viktor-orba-n-announces-that-the-country-will-hold-a-referendum-on-october-2-where-voters-will-get-to-choose-whethe.md)
 Hungary will hold a referendum on 2 October on whether to accept mandatory EU quotas for relocating migrants, President Janos Ader says.
 

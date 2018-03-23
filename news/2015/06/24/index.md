@@ -31,7 +31,7 @@ The Senate today gave final approval to the trade promotion authority bill by a 
 ### [Israel revokes permits for 500 Palestinians from the Gaza Strip to enter Jerusalem for Friday prayers following a rocket attack on southern Israel. ](/news/2015/06/24/israel-revokes-permits-for-500-palestinians-from-the-gaza-strip-to-enter-jerusalem-for-friday-prayers-following-a-rocket-attack-on-southern.md)
 _Context: Friday prayers, Gaza Strip, Israel, Jerusalem, Palestinian_
 
-##### French President
+##### President of France
 ### [The President of France Francois Hollande warns that France "will not tolerate" acts that threaten its security following claims by Wikileaks that the United States spied on him and his two predecessors Nicolas Sarkozy and Jacques Chirac between 2006 and 2012. ](/news/2015/06/24/the-president-of-france-franassois-hollande-warns-that-france-will-not-tolerate-acts-that-threaten-its-security-following-claims-by-wikilea.md)
 President Obama tells his French counterpart, Francois Hollande, that the US is no longer spying on France after the latest Wikileaks revelations.
 

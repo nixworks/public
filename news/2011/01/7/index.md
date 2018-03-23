@@ -73,7 +73,7 @@ At least 20 killed in violence that erupts after news spreads of Muslims killed 
 
 ##### Suicide bombing
 ### [A suicide bomber kills 17 people and wounds at least 20 others in a public bathhouse in Kandahar province, Afghanistan; the Taliban claims responsibility for the attack. ](/news/2011/01/7/a-suicide-bomber-kills-17-people-and-wounds-at-least-20-others-in-a-public-bathhouse-in-kandahar-province-afghanistan-the-taliban-claims-r.md)
-_Context: Afghanistan, Kandahar province, Taliban, suicide bombing_
+_Context: Afghan, Kandahar province, Taliban, suicide bombing_
 
 ## [Previous Day...](/news/2011/01/6/index.md)
 

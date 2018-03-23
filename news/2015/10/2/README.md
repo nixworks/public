@@ -37,7 +37,7 @@ Air France is reportedly cutting 2,900 jobs after talks with pilot unions were u
 
 ##### War in Donbass
 ### [OSCE observers who are monitoring a ceasefire in eastern Ukraine between the Ukrainian military and pro-Russian rebels, reported the presence of a new Russian weapons system in rebel-held territory this week, the 'TOS-1 Buratino' is a thermobaric multiple rocket launcher system which can destroy several city blocks in one strike and cause indiscriminate damage. Only Russia produces the system and it was not exported to Ukraine before the conflict broke out. ](/news/2015/10/2/osce-observers-who-are-monitoring-a-ceasefire-in-eastern-ukraine-between-the-ukrainian-military-and-pro-russian-rebels-reported-the-presenc.md)
-_Context: 2014-15 Russian military intervention in Ukraine, Minsk Protocol, OSCE, Russia, TOS-1 Buratino, Ukraine, Ukrainian military, War in Donbass, thermobaric_
+_Context: 2014-15 Russian military intervention in Ukraine, Minsk Protocol, OSCE, Russia, TOS-1 Buratino, Ukrainian, Ukrainian military, War in Donbass, thermobaric_
 
 ##### Turkey-PKK conflict
 ### [At least 17 PKK militants are reportedly killed following a Turkish military operation in the Kurdish-majority city of Silvan. ](/news/2015/10/2/at-least-17-pkk-militants-are-reportedly-killed-following-a-turkish-military-operation-in-the-kurdish-majority-city-of-silvan.md)

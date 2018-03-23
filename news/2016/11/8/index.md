@@ -3,9 +3,9 @@ Formats: [HTML](2016/11/8/index.html)  [JSON](2016/11/8/index.json)  [XML](2016/
 
 ## [2016-11-8](/news/2016/11/8/index.md)
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [The National Assembly rejects Hungarian Prime Minister Viktor Orban's bill to block the settlement of refugees in Hungary. The far-right Jobbik party abstained from the vote, arguing the immigration ban should apply to all foreigners, and not just refugees. ](/news/2016/11/8/the-national-assembly-rejects-hungarian-prime-minister-viktor-orba-n-s-bill-to-block-the-settlement-of-refugees-in-hungary-the-far-right-jo.md)
-_Context: European migrant crisis, Hungarian Prime Minister, Hungary, Jobbik, National Assembly, Viktor Orban_
+_Context: Hungarian Prime Minister, Hungary, Jobbik, National Assembly, Viktor Orban, refugee immigration to Germany_
 
 ##### 2016 South Korean political scandal
 ### [South Korean prosecutors raid the offices of Samsung Electronics as part of a ongoing probe into President Park Geun-hye's controversial association with Choi Soon-sil. Yonhap News Agency reports prosecutors are investigating whether Samsung improperly provided financial assistance to Choi's daughter, Chung Yoo-ra. ](/news/2016/11/8/south-korean-prosecutors-raid-the-offices-of-samsung-electronics-as-part-of-a-ongoing-probe-into-president-park-geun-hye-s-controversial-ass.md)

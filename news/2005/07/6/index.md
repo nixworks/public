@@ -7,9 +7,9 @@ Formats: [HTML](2005/07/6/index.html)  [JSON](2005/07/6/index.json)  [XML](2005/
 ### [ In India 1000 demonstrators protesting attack in Ayodhya clash with riot police in New Delhi. No group has claimed responsibility for the attack. There are small protests in other cities as well but police state that disturbances are minor compared to clashes in previous years. Congress president Sonia Gandhi warns that opposition should not "politicize" the incident ](/news/2005/07/6/in-india-1000-demonstrators-protesting-attack-in-ayodhya-clash-with-riot-police-in-new-delhi-no-group-has-claimed-responsibility-for-the-a.md)
 _Context: Ayodhya, Sonia Gandhi, riot police_
 
-##### Somalia
+##### Somali
 ### [ In Somalia, interim president Abdullah Yusuf states that he's going to march towards Mogadishu from Jowhar, collecting support and militia as he goes ](/news/2005/07/6/in-somalia-interim-president-abdullah-yusuf-states-that-he-s-going-to-march-towards-mogadishu-from-jowhar-collecting-support-and-militia.md)
-_Context: Abdullah Yusuf, Jowhar, Mogadishu, Somalia, militia_
+_Context: Abdullah Yusuf, Jowhar, Mogadishu, Somali, militia_
 
 ##### Niger
 ### [ In Niger, thousands of people flee to Nigeria to escape crop failure and famine. Government says it cannot afford any food aid ](/news/2005/07/6/in-niger-thousands-of-people-flee-to-nigeria-to-escape-crop-failure-and-famine-government-says-it-cannot-afford-any-food-aid.md)

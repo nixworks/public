@@ -37,7 +37,7 @@ An albino is elected as an MP for the first time in Tanzania, telling the BBC it
 
 ##### Yemen
 ### [Yemen charges militant Islamic cleric Anwar al-Awlaki with incitement to kill foreigners. ](/news/2010/11/2/yemen-charges-militant-islamic-cleric-anwar-al-awlaki-with-incitement-to-kill-foreigners.md)
-_Context: Anwar al-Awlaki, Islam, Yemen_
+_Context: Anwar al-Awlaki, Muslim, Yemen_
 
 ##### Zambia
 ### [A court in Zambia grants bail to two Chinese managers accused of attempted murder for shooting and injuring 11 coal miners during a protest over pay and working conditions. ](/news/2010/11/2/a-court-in-zambia-grants-bail-to-two-chinese-managers-accused-of-attempted-murder-for-shooting-and-injuring-11-coal-miners-during-a-protest.md)
@@ -45,7 +45,7 @@ _Context: China, Zambia, bail_
 
 ##### Prime Minister
 ### [UK Prime Minister David Cameron and the French President Nicolas Sarkozy meet in London and sign a treaty allowing joint development and testing of nuclear warheads, and outline plans for a joint army expeditionary force. ](/news/2010/11/2/uk-prime-minister-david-cameron-and-the-french-president-nicolas-sarkozy-meet-in-london-and-sign-a-treaty-allowing-joint-development-and-tes.md)
-_Context: David Cameron, French President, London, Nicolas Sarkozy, Prime Minister, army, expeditionary force, nuclear warhead_
+_Context: David Cameron, London, Nicolas Sarkozy, President of France, Prime Minister, army, expeditionary force, nuclear warhead_
 
 ##### Japan
 ### [Japan temporarily recalls its ambassador to Russia amid a dispute over a visit by President Dmitry Medvedev to the Kuril Islands. ](/news/2010/11/2/japan-temporarily-recalls-its-ambassador-to-russia-amid-a-dispute-over-a-visit-by-president-dmitry-medvedev-to-the-kuril-islands.md)

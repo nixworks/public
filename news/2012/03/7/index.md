@@ -37,7 +37,7 @@ _Context: Australia, Murray-Darling Basin, Yenda, New South Wales_
 
 ##### Series of avalanches
 ### [The death toll from a series of avalanches in Afghanistan's Badakhshan province rises to 50. ](/news/2012/03/7/the-death-toll-from-a-series-of-avalanches-in-afghanistan-s-badakhshan-province-rises-to-50.md)
-_Context: Afghanistan, Badakhshan province, series of avalanches_
+_Context: Afghan, Badakhshan province, series of avalanches_
 
 ##### Valerie Amos
 ### [Valerie Amos, the United Nations Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, visits the Baba Amr district in the Syrian city of Homs. ](/news/2012/03/7/valerie-amos-the-united-nations-under-secretary-general-for-humanitarian-affairs-and-emergency-relief-coordinator-visits-the-baba-amr-dist.md)
@@ -45,7 +45,7 @@ _Context: Homs, Syria, Under-Secretary-General for Humanitarian Affairs and Emer
 
 ##### British Army
 ### [Six British Army soldiers are missing presumed killed in Afghanistan. ](/news/2012/03/7/six-british-army-soldiers-are-missing-presumed-killed-in-afghanistan.md)
-_Context: Afghanistan, British Army_
+_Context: Afghan, British Army_
 
 ##### Insurgency in the North Caucasus
 ### [Insurgency in the North Caucasus: Five policemen are killed in a female suicide bombing by the widow of a killed Islamic militant in Dagestan, Russia. ](/news/2012/03/7/insurgency-in-the-north-caucasus-five-policemen-are-killed-in-a-female-suicide-bombing-by-the-widow-of-a-killed-islamic-militant-in-dagesta.md)

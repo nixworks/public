@@ -9,7 +9,7 @@ More than 90 percent turnout reported in vote in which 26-year ruler Islam Karim
 
 ##### France
 ### [Voters in France go to the polls for local government elections with initial polling suggesting favorable results for former President Nicolas Sarkozy's UMP. ](/news/2015/03/29/voters-in-france-go-to-the-polls-for-local-government-elections-with-initial-polling-suggesting-favorable-results-for-former-president-nicol.md)
-_Context: France, French President, Nicolas Sarkozy, UMP, local government elections_
+_Context: France, Nicolas Sarkozy, President of France, UMP, local government elections_
 
 ##### Nigerian general election, 2015
 ### [Nigeria extends voting in its general election for a second day due to delays and malfunctioning equipment. So far, Boko Haram attacks have killed 43 people. ](/news/2015/03/29/nigeria-extends-voting-in-its-general-election-for-a-second-day-due-to-delays-and-malfunctioning-equipment-so-far-boko-haram-attacks-have.md)

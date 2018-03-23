@@ -15,7 +15,7 @@ _Context: Kosovo, Serbia, United States_
 ### [ The Northern Rock bank is formally nationalized by the British government. ](/news/2008/02/22/the-northern-rock-bank-is-formally-nationalized-by-the-british-government.md)
 _Context: His Majesty's Government, Northern Rock, nationalization_
 
-##### Turkish
+##### Turkey
 ### [ Turkey sends between three thousand and ten thousand troops into northern Iraq. ](/news/2008/02/22/turkey-sends-between-three-thousand-and-ten-thousand-troops-into-northern-iraq.md)
 Thousands of Turkish troops have crossed into northern Iraq to hunt Kurdish rebels, television and a military source said on Friday, escalating a conflict that could undermine stability in the region.
 

@@ -23,7 +23,7 @@ _Context: Arab, Cologne, German, New Year's Eve sexual assaults in Germany, Nort
 ### [The President of the United States Barack Obama announces executive orders to expand background checks for firearms and toughen regulation of firearms. ](/news/2016/01/4/the-president-of-the-united-states-barack-obama-announces-executive-orders-to-expand-background-checks-for-firearms-and-toughen-regulation-o.md)
 President Obama’s executive actions on guns will stop short of the kind of large-scale changes that he unsuccessfully sought from Congress three years ago.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [In efforts to control an influx of migrants, Denmark introduces ten days of identity checks on its southern border with Germany, while Sweden introduces similar measures on the Oresund Bridge between itself and Denmark. All three countries are subject to the Schengen Agreement on the free movement of people. ](/news/2016/01/4/in-efforts-to-control-an-influx-of-migrants-denmark-introduces-ten-days-of-identity-checks-on-its-southern-border-with-germany-while-swede.md)
 Denmark tightens its border controls with Germany, just hours after Sweden imposed similar measures to reduce the flow of migrants from Denmark.
 

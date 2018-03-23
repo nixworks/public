@@ -27,7 +27,7 @@ A North Korean patrol boat crossed into South Korean waters early on Monday and 
 ### [Billy Kenoi, the mayor of Hawaii's Big Island, declares a state of emergency to deal with the growing outbreak of dengue fever, which is spread by infected mosquitoes. ](/news/2016/02/8/billy-kenoi-the-mayor-of-hawaii-s-big-island-declares-a-state-of-emergency-to-deal-with-the-growing-outbreak-of-dengue-fever-which-is-spr.md)
 _Context: Billy Kenoi, Hawaii, dengue, infected mosquitoes, island of Hawaii, states of emergency_
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [At least 27 migrants die in a shipwreck in the Aegean Sea when a boat capsizes in the Turkish bay of Edremit, near the Greek island of Lesbos. ](/news/2016/02/8/at-least-27-migrants-die-in-a-shipwreck-in-the-aegean-sea-when-a-boat-capsizes-in-the-turkish-bay-of-edremit-near-the-greek-island-of-lesbo.md)
 A migrant boat capsizes off Turkey, killing at least 27 people who were trying to reach the Greek island of Lesbos, Turkish media say.
 

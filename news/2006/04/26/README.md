@@ -15,9 +15,9 @@ _Context: 2006 Dahab bombings, Egypt_
 ### [ Snyder Rini resigns as Prime Minister of the Solomon Islands immediately before facing a motion of no confidence in Parliament, prompting celebrations in the streets of Honiara. ](/news/2006/04/26/snyder-rini-resigns-as-prime-minister-of-the-solomon-islands-immediately-before-facing-a-motion-of-no-confidence-in-parliament-prompting-c.md)
 _Context: Honiara, Prime Minister, Snyder Rini, motion of no confidence_
 
-##### Ukraine
+##### Ukrainian
 ### [ Ukraine marks the 20th anniversary of the Chernobyl nuclear power station explosion. ](/news/2006/04/26/ukraine-marks-the-20th-anniversary-of-the-chernobyl-nuclear-power-station-explosion.md)
-_Context: Chernobyl disaster, Ukraine_
+_Context: Chernobyl disaster, Ukrainian_
 
 ##### Tony Snow
 ### [ Tony Snow is named White House Press Secretary.](/news/2006/04/26/tony-snow-is-named-white-house-press-secretary.md)

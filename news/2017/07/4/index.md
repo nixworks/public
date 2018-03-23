@@ -31,9 +31,9 @@ _Context: Bhutan-China relations, China-India relations, Chinese, Convention of 
 ### [North Korea test-launches what is presumed to be its first intercontinental ballistic missile 933 kilometers into the Sea of Japan within Japan's Exclusive Economic Zone. An American expert theorizes the ICBM, which reached an altitude of 2,802 km, could potentially reach the U.S. state of Alaska. ](/news/2017/07/4/north-korea-test-launches-what-is-presumed-to-be-its-first-intercontinental-ballistic-missile-933-kilometers-into-the-sea-of-japan-within-ja.md)
 Donald Trump says it is hard to believe South Korea and Japan will put up with this much longer after North Korean launches its latest missile.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Approximately fifty migrants are feared drowned off the coast of Morocco. Three men were rescued near Alboran Island near the coast of Spain. ](/news/2017/07/4/approximately-fifty-migrants-are-feared-drowned-off-the-coast-of-morocco-three-men-were-rescued-near-alboran-island-near-the-coast-of-spain.md)
-_Context: Alboran Island, European migrant crisis, Morocco, Spanish_
+_Context: Alboran Island, Morocco, Spanish, refugee immigration to Germany_
 
 ##### Dhaka
 ### [A garment factory boiler explosion in Dhaka, Bangladesh, kills 10 people and injures dozens. ](/news/2017/07/4/a-garment-factory-boiler-explosion-in-dhaka-bangladesh-kills-10-people-and-injures-dozens.md)

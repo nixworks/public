@@ -9,7 +9,7 @@ _Context: UK, recession_
 
 ##### China
 ### [ The 30-man crew of Chinese cargo ship "Zhenhua 4" receives US$10,000 each after repelling Somali pirates in the Gulf of Aden. ](/news/2009/01/23/the-30-man-crew-of-chinese-cargo-ship-zhenhua-4-receives-us-10-000-each-after-repelling-somali-pirates-in-the-gulf-of-aden.md)
-_Context: China, Gulf of Aden, Somali pirates, Somalia, US$, cargo ship_
+_Context: China, Gulf of Aden, Somali, Somali pirates, US$, cargo ship_
 
 ##### Stabbed
 ### [ Two children and one adult are stabbed to death in an attack on a creche in Belgium. ](/news/2009/01/23/two-children-and-one-adult-are-stabbed-to-death-in-an-attack-on-a-cra-che-in-belgium.md)
@@ -33,7 +33,7 @@ Japan launched a satellite onFriday to monitor greenhouse gases around the world
 
 ##### New York
 ### [ New York Governor David Paterson appoints Kirsten Gillibrand to Hillary Clinton's vacated United States Senate seat. ](/news/2009/01/23/new-york-governor-david-paterson-appoints-kirsten-gillibrand-to-hillary-clinton-s-vacated-united-states-senate-seat.md)
-_Context: David Paterson, Hillary Clinton, Kirsten Gillibrand, New York, New York Governor, United States, United States Senate_
+_Context: David Paterson, Hillary Clinton, Kirsten Gillibrand, New York, New York Governor, Senate, United States_
 
 ##### Internet
 ### [ The number of unique Internet users reached one billion in December 2008. ](/news/2009/01/23/the-number-of-unique-internet-users-reached-one-billion-in-december-2008.md)

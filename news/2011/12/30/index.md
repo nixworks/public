@@ -55,9 +55,9 @@ An attack blamed on the Islamist Boko Haram group hits the Nigerian city of Maid
 ### [The Opposition Free Syrian Army claims to have suspended attacks on military targets pending a meeting with Arab League monitors. ](/news/2011/12/30/the-opposition-free-syrian-army-claims-to-have-suspended-attacks-on-military-targets-pending-a-meeting-with-arab-league-monitors.md)
 Syrian troops fire on tens of thousands of protesters as they hold rallies in front of visiting Arab League monitors, killing 35, activists say.
 
-##### Al-Shabaab
+##### Al-Shabab
 ### [Five fighters from the militant group al-Shabab and one Kenyan Army soldier die in a clash. ](/news/2011/12/30/five-fighters-from-the-militant-group-al-shabab-and-one-kenyan-army-soldier-die-in-a-clash.md)
-_Context: Al-Shabaab, Kenyan Army_
+_Context: Al-Shabab, Kenyan Army_
 
 ## [Previous Day...](/news/2011/12/29/index.md)
 

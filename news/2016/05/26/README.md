@@ -47,7 +47,7 @@ An article by a senior scholar for the People’s Liberation Army said that Tsai
 ### [Researchers at the United States Department of Defense report, in the journal "Antimicrobial Agents and Chemotherapy", the discovery in the United States of a strain of "E. coli" that includes the new gene MCR-1, which is resistant to colistin, a last-resort antibiotic. ](/news/2016/05/26/researchers-at-the-united-states-department-of-defense-report-in-the-journal-antimicrobial-agents-and-chemotherapy-the-discovery-in-the.md)
 For the first time, researchers have found a person in the United States carrying bacteria resistant to antibiotics of last resort. CDC chief says this could mean &quot;the end of the road&quot; for antibiotics.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [At least 20 people drown in the southern Mediterranean Sea when a repurposed fishing boat sinks 35 nautical miles north of Zuwara, Libya. ](/news/2016/05/26/at-least-20-people-drown-in-the-southern-mediterranean-sea-when-a-repurposed-fishing-boat-sinks-35-nautical-miles-north-of-zuwara-libya.md)
 Repurposed fishing boat thought to have had Syrians on board sinks off coast of Libya
 

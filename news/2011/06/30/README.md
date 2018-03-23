@@ -51,9 +51,9 @@ Lebanese media says UN-backed court has charged four Hezbollah members for 2005 
 ### [Carson Yeung, the Hong Kong businessman who owns English Football League Championship side Birmingham City F.C., is formally charged with money laundering and released on bail. ](/news/2011/06/30/carson-yeung-the-hong-kong-businessman-who-owns-english-football-league-championship-side-birmingham-city-f-c-is-formally-charged-with-mo.md)
 Hairdresser turned tycoon and Birmingham City club owner Carson Yeung was released on HK$7 million (558,000 pounds) bail after being charged with money laundering by a Hong Kong court on Thursday.
 
-##### French President
+##### President of France
 ### [A man who attempts to knock down President of France Nicolas Sarkozy in Brax is arrested by officers. ](/news/2011/06/30/a-man-who-attempts-to-knock-down-president-of-france-nicolas-sarkozy-in-brax-is-arrested-by-officers.md)
-_Context: French President, Nicolas Sarkozy_
+_Context: Nicolas Sarkozy, President of France_
 
 ##### Taiwan
 ### [Taiwanese media reports that former President Lee Teng-hui has been indicted on charges of embezzlement from a state diplomatic fund. ](/news/2011/06/30/taiwanese-media-reports-that-former-president-lee-teng-hui-has-been-indicted-on-charges-of-embezzlement-from-a-state-diplomatic-fund.md)

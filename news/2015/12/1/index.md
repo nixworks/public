@@ -19,7 +19,7 @@ _Context: Chicago, Garry McCarthy, Illinois, Laquan McDonald, Rahm Emanuel_
 ### [A Philippine Olongapo City Regional Trial Court convicts U.S. Marine Joseph Scott Pemberton of homicide over the death of a transgender Filipina woman. ](/news/2015/12/1/a-philippine-olongapo-city-regional-trial-court-convicts-u-s-marine-joseph-scott-pemberton-of-homicide-over-the-death-of-a-transgender-fili.md)
 The court convicted U.S. Marine Joseph Scott Pemberton of the lesser charge of homicide with a sentence of up to 12 years in prison for killing Jennifer Laude. BuzzFeed News’s Meredith Talusan is repo
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [The U.S. Health and Human Services Department's Office of Refugee Resettlement notifies all 50 states that if they deny services to any group of refugees, states may risk losing resettlement funding altogether. More than half of the nation's governors have said they will not accept Syrian refugees in their states. ](/news/2015/12/1/the-u-s-health-and-human-services-departmentas-office-of-refugee-resettlement-notifies-all-50-states-that-if-they-deny-services-to-any-gr.md)
 States risk losing all resettlement funding if they try to pick and choose who to let in.
 
@@ -37,7 +37,7 @@ Illinois officials admit they were caught off-guard by the wave of Legionnaires&
 
 ##### World Health Organization
 ### [The World Health Organization urges Ukraine's health ministry to declare a state of emergency due to a polio outbreak, a move meant to prompt more action from the government in Kiev. Half of Ukraine's children have not been vaccinated against polio, according to Dorit Nitzan, head of the WHO's office in Ukraine. ](/news/2015/12/1/the-world-health-organization-urges-ukraine-s-health-ministry-to-declare-a-state-of-emergency-due-to-a-polio-outbreak-a-move-meant-to-promp.md)
-_Context: Kiev, Ukraine, World Health Organization, health ministry, polio outbreak, states of emergency, vaccinated against polio_
+_Context: Kiev, Ukrainian, World Health Organization, health ministry, polio outbreak, states of emergency, vaccinated against polio_
 
 ##### Indonesia AirAsia Flight 8501
 ### [Indonesia releases a report into the crash of AirAsia Flight 8501 by the National Transportation Safety Committee. The report finds that crew error was responsible for the crash that claimed 162 lives. ](/news/2015/12/1/indonesia-releases-a-report-into-the-crash-of-airasia-flight-8501-by-the-national-transportation-safety-committee-the-report-finds-that-cre.md)

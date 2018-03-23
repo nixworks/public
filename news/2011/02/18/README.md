@@ -35,9 +35,9 @@ _Context: Caledonian Union, New Caledonia, New Caledonian flags, Philippe Gomes,
 ### [A McCann family spokesman insists reports that Madeleine McCann was taken to the United States after being snatched during a family holiday in Portugal must be treated with caution. ](/news/2011/02/18/a-mccann-family-spokesman-insists-reports-that-madeleine-mccann-was-taken-to-the-united-states-after-being-snatched-during-a-family-holiday.md)
 _Context: Madeleine McCann, Portugal, United States_
 
-##### Turkish
+##### Turkey
 ### [A Turkish court jails three journalists associated with a dissident website pending trials on being part of the Ergenekon organisation allegedly plotting to overthrow the Government of Turkey. ](/news/2011/02/18/a-turkish-court-jails-three-journalists-associated-with-a-dissident-website-pending-trials-on-being-part-of-the-ergenekon-organisation-alleg.md)
-_Context: Ergenekon, Turkish, Turkish government, dissident_
+_Context: Ergenekon, Turkey, Turkish government, dissident_
 
 ##### China
 ### [A Chinese court upholds an eight year sentence for "stealing state secrets" for Chinese American geologist Xue Feng. ](/news/2011/02/18/a-chinese-court-upholds-an-eight-year-sentence-for-stealing-state-secrets-for-chinese-american-geologist-xue-feng.md)
@@ -109,7 +109,7 @@ _Context: CIA, George Washington University, Hillary Clinton, Ray McGovern, Vete
 
 ##### Kunar Province
 ### [At least 37 people are killed and others are wounded in a U.S.-led airstrike in Kunar Province, Afghanistan. ](/news/2011/02/18/at-least-37-people-are-killed-and-others-are-wounded-in-a-u-s-led-airstrike-in-kunar-province-afghanistan.md)
-_Context: Afghanistan, Kunar Province_
+_Context: Afghan, Kunar Province_
 
 ##### Panama
 ### [Police and indigenous protesters clash in Panama during a protest against changes to the country's mining law. ](/news/2011/02/18/police-and-indigenous-protesters-clash-in-panama-during-a-protest-against-changes-to-the-country-s-mining-law.md)

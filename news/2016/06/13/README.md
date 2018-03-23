@@ -31,7 +31,7 @@ _Context: Estonia, Jens Stoltenberg, Latvia, Lithuania, Poland, Secretary Genera
 ### [Eleven Turkish-German members of Germany's Parliament, the Bundestag, who voted in support of declaring the Ottoman Turks slaughter of Armenians in 1915 a genocide, are under police protection. The legislators have faced heavy criticism from Turkish officials, as well as from Turkish Germans. ](/news/2016/06/13/eleven-turkish-german-members-of-germany-s-parliament-the-bundestag-who-voted-in-support-of-declaring-the-ottoman-turks-slaughter-of-armen.md)
 Eleven German MPs of Turkish origin are under police protection after declaring the Turkish slaughter of Armenians a century ago a genocide.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Police in northern Greece move more than 400 Syrians and Iraqis by bus from a makeshift camp near the Macedonian border to a shelter near the northern city of Thessaloniki. More than 50,000 migrants remain stranded in Greece following European border closures, and the European Union's agreement with Turkey. ](/news/2016/06/13/police-in-northern-greece-move-more-than-400-syrians-and-iraqis-by-bus-from-a-makeshift-camp-near-the-macedonian-border-to-a-shelter-near-th.md)
 THESSALONIKI, Greece (AP) — Police detained 34 volunteers in northern Greece Monday while clearing makeshift migrant camps along the border with Macedonia. Scores of riot police were deployed as 1,065 Syrians and 58 Iraqis…
 

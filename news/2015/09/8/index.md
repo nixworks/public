@@ -23,9 +23,9 @@ _Context: Baltimore, Death of Freddie Gray_
 ### [During protests over a lack of mining jobs in South Africa's Limpopo province, demonstrators destroy 21 buses, a police station, and a municipal office as well as blocking roads from Lephalale to Marapong. ](/news/2015/09/8/during-protests-over-a-lack-of-mining-jobs-in-south-africa-s-limpopo-province-demonstrators-destroy-21-buses-a-police-station-and-a-munic.md)
 Protesters in Limpopo blockaded roads from Lephalale to Marapong township during the protests.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Sigmar Gabriel, the Vice Chancellor of Germany, says that Germany "can take 500,000 asylum seekers a year" while calling on other nations to take their fair share. ](/news/2015/09/8/sigmar-gabriel-the-vice-chancellor-of-germany-says-that-germany-can-take-500-000-asylum-seekers-a-year-while-calling-on-other-nations-to.md)
-_Context: European migrant crisis, Sigmar Gabriel, Vice Chancellor of Germany_
+_Context: Sigmar Gabriel, Vice Chancellor of Germany, refugee immigration to Germany_
 
 ##### North Korea
 ### [North and South Korea are to hold reunions for families divided by the Korean War from October 20 to October 26. ](/news/2015/09/8/north-and-south-korea-are-to-hold-reunions-for-families-divided-by-the-korean-war-from-october-20-to-october-26.md)

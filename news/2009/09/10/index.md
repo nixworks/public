@@ -23,7 +23,7 @@ Greek militant group Revolutionary Struggle have threatened to attack the &#39;g
 ### [ British consul John Terry is murdered in Jamaica. ](/news/2009/09/10/british-consul-john-terry-is-murdered-in-jamaica.md)
 _Context: Jamaica, UK_
 
-##### Afghanistan
+##### Afghan
 ### [ Afghan journalists express anger over the killing of local reporter Sultan Munadi during a rescue operation that saved his colleague Stephen Farrell. ](/news/2009/09/10/afghan-journalists-express-anger-over-the-killing-of-local-reporter-sultan-munadi-during-a-rescue-operation-that-saved-his-colleague-stephe.md)
 Afghan journalists have expressed anger over the killing of a local reporter during the rescue operation that saved his British-Irish colleague.
 

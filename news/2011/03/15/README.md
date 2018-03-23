@@ -59,9 +59,9 @@ _Context: Deutsche Boerse, NYSE Euronext, Nasdaq OMX Group_
 ### [The Israeli Navy intercepts the cargo ship "Victoria" which was carrying a long list of advanced weapons that were smuggled from Iran and were allegedly bound for the militant organizations operating in the Gaza Strip. ](/news/2011/03/15/the-israeli-navy-intercepts-the-cargo-ship-victoria-which-was-carrying-a-long-list-of-advanced-weapons-that-were-smuggled-from-iran-and-we.md)
 Iran, Syria change usual smuggling route due to close surveillance by Israel, US
 
-##### Islam
+##### Muslim
 ### [A small bomb explodes in the offices of a moderate Islamic group in the Indonesian capital Jakarta, injuring four people. ](/news/2011/03/15/a-small-bomb-explodes-in-the-offices-of-a-moderate-islamic-group-in-the-indonesian-capital-jakarta-injuring-four-people.md)
-_Context: Indonesia, Islam, Jakarta_
+_Context: Indonesia, Jakarta, Muslim_
 
 ##### 2010-2011 Ivorian crisis
 ### [2010-2011 Ivorian crisis: Gunmen shoot four people dead at a roadblock run by supporters of disputed Cote d'Ivoire President Laurent Gbagbo. ](/news/2011/03/15/2010a2011-ivorian-crisis-gunmen-shoot-four-people-dead-at-a-roadblock-run-by-supporters-of-disputed-ca-te-d-ivoire-president-laurent-gbag.md)

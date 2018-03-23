@@ -37,7 +37,7 @@ The Eagles founder and guitarist Glenn Frey has died at the age of 67, the band 
 
 ##### Spillover of the Syrian Civil War
 ### [A rocket fired from ISIL-controlled territory in Syria's Aleppo Governorate, kills at least one person and injures another in the Turkish city of Kilis, close to the Syria-Turkey border. The Turkish military responded with artillery fire on ISIL positions. ](/news/2016/01/18/a-rocket-fired-from-isil-controlled-territory-in-syria-s-aleppo-governorate-kills-at-least-one-person-and-injures-another-in-the-turkish-ci.md)
-_Context: Aleppo Governorate, ISIL, Kilis, Spillover of the Syrian Civil War, Syria, Syria-Turkey border, Turkish, Turkish troops_
+_Context: Aleppo Governorate, ISIL, Kilis, Spillover of the Syrian Civil War, Syria, Syria-Turkey border, Turkey, Turkish troops_
 
 ##### Saudi Arabian-led intervention in Yemen
 ### [A Saudi-led coalition airstrike on a police building in Yemen's capital, Sana'a, kills at least 26 people and injures 15 others. ](/news/2016/01/18/a-saudi-led-coalition-airstrike-on-a-police-building-in-yemen-s-capital-sana-a-kills-at-least-26-people-and-injures-15-others.md)

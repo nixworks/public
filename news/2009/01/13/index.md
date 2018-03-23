@@ -17,7 +17,7 @@ _Context: Angela Merkel, Chancellor, EUR, German_
 
 ##### United States
 ### [ The United States Senate Foreign Relations Committee begins confirmation hearings for Hillary Clinton's nomination as Secretary of State. ](/news/2009/01/13/the-united-states-senate-foreign-relations-committee-begins-confirmation-hearings-for-hillary-clinton-s-nomination-as-secretary-of-state.md)
-_Context: Foreign Relations Committee, Hillary Clinton, Secretary of State, United States, United States Senate, confirmation hearings, nomination_
+_Context: Foreign Relations Committee, Hillary Clinton, Secretary of State, Senate, United States, confirmation hearings, nomination_
 
 ##### Israel
 ### [ Israeli Defense Forces advance on Gaza City and engage in urban warfare with Hamas militants. ](/news/2009/01/13/israeli-defense-forces-advance-on-gaza-city-and-engage-in-urban-warfare-with-hamas-militants.md)

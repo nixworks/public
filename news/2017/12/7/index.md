@@ -39,9 +39,9 @@ _Context: Australia, Parliament of Australia, Same-sex marriage in Australia, sa
 ### [Fifteen countries ask the World Trade Organization a mandate to negotiate binding rules on e-commerce, days after India turned down negotiations. ](/news/2017/12/7/fifteen-countries-ask-the-world-trade-organization-a-mandate-to-negotiate-binding-rules-on-e-commerce-days-after-india-turned-down-negotiat.md)
 &quot;These countries are short-circuiting the norms to make a working party first,&quot; said Biswajit Dhar, professor-Centre for Economic Studies and Planning at Jawaharlal Nehru University.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [The European Commission orders Poland, the Czech Republic and Hungary to court over their refusal to incorporate more refugees. This is the third step in a process that may lead to fines and loss of the countries' voting rights in the European Union. ](/news/2017/12/7/the-european-commission-orders-poland-the-czech-republic-and-hungary-to-court-over-their-refusal-to-incorporate-more-refugees-this-is-the.md)
-_Context: Czech Republic, European Commission, European Court of Justice, European migrant crisis, Hungary, Poland, Treaty on European Union, voting right_
+_Context: Czech Republic, European Commission, European Court of Justice, Hungary, Poland, Treaty on European Union, refugee immigration to Germany, voting right_
 
 ##### Greek-Turkish relations
 ### [The President of Turkey embarks on a two-day state visit of Greece. Recep Tayyip Erdogan's demarche is a first in 65 years. ](/news/2017/12/7/the-president-of-turkey-embarks-on-a-two-day-state-visit-of-greece-recep-tayyip-erdoaan-s-da-c-marche-is-a-first-in-65-years.md)

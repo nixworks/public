@@ -53,7 +53,7 @@ The United States has tentatively approved flights on eight U.S. airlines to Hav
 
 ##### Ukraine-United States relations
 ### [U.S. Secretary of State John Kerry arrives in Kiev, Ukraine, where he is expected to discuss ways of ending the conflict in the east of the country. The visit, along with his visit to Georgia yesterday, comes ahead of the NATO summit in Warsaw that will take place tomorrow. ](/news/2016/07/7/u-s-secretary-of-state-john-kerry-arrives-in-kiev-ukraine-where-he-is-expected-to-discuss-ways-of-ending-the-conflict-in-the-east-of-the.md)
-_Context:  Georgian, 2016 Warsaw summit, John Kerry, Kiev, Secretary of State, Ukraine, Ukraine-United States relations, War in Donbass_
+_Context:  Georgian, 2016 Warsaw summit, John Kerry, Kiev, Secretary of State, Ukraine-United States relations, Ukrainian, War in Donbass_
 
 ##### Songshan Station
 ### [A section of a Taiwanese commuter train car explodes near Songshan Station, injuring at least 21 people, some of them seriously. ](/news/2016/07/7/a-section-of-a-taiwanese-commuter-train-car-explodes-near-songshan-station-injuring-at-least-21-people-some-of-them-seriously.md)

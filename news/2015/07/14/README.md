@@ -41,7 +41,7 @@ _Context: NIOC, Persian Gulf_
 
 ##### Human stampede
 ### [At least 27 people are killed in a stampede at the Godavari Maha Pushkaram Hindu festival in the Indian state of Andhra Pradesh. ](/news/2015/07/14/at-least-27-people-are-killed-in-a-stampede-at-the-godavari-maha-pushkaram-hindu-festival-in-the-indian-state-of-andhra-pradesh.md)
-_Context: Andhra Pradesh, Godavari Maha Pushkaram, Hindu, Human stampede_
+_Context: Andhra Pradesh, Godavari Maha Pushkaram, Hindus, Human stampede_
 
 ## [Previous Day...](/news/2015/07/13/index.md)
 

@@ -27,9 +27,9 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 ### [ More than a million people are affected in one of the worst droughts to affect Syria in decades. ](/news/2009/10/7/more-than-a-million-people-are-affected-in-one-of-the-worst-droughts-to-affect-syria-in-decades.md)
 _Context: Syria, drought_
 
-##### Somalia
+##### Somali
 ### [ Somali pirates attack the French Navy replenishment tanker "Somme" (A631) in error, believing it to be a cargo ship. ](/news/2009/10/7/somali-pirates-attack-the-french-navy-replenishment-tanker-somme-a631-in-error-believing-it-to-be-a-cargo-ship.md)
-_Context: France, French naval, Somali pirates, Somalia_
+_Context: France, French naval, Somali, Somali pirates_
 
 ##### Burma
 ### [ Burmese National League for Democracy leader Aung San Suu Kyi meets for a second time with the ruling junta after her offer to lobby for nations to lift sanctions on the country. ](/news/2009/10/7/burmese-national-league-for-democracy-leader-aung-san-suu-kyi-meets-for-a-second-time-with-the-ruling-junta-after-her-offer-to-lobby-for-na.md)
@@ -47,9 +47,9 @@ _Context: Guinea, Moussa Dadis Camara, junta_
 ### [ Typhoon Melor, forecast to be the strongest typhoon to make landfall in Japan for a decade, approaches the country. ](/news/2009/10/7/typhoon-melor-forecast-to-be-the-strongest-typhoon-to-make-landfall-in-japan-for-a-decade-approaches-the-country.md)
 _Context: Japan, Typhoon Melor, typhoon_
 
-##### Somalia
+##### Somali
 ### [ The Somali junior Defence Minister Youssuf Mohamed Siad, mistakenly detained in Uganda yesterday, is released. ](/news/2009/10/7/the-somali-junior-defence-minister-youssuf-mohamed-siad-mistakenly-detained-in-uganda-yesterday-is-released.md)
-_Context: Somalia, Uganda_
+_Context: Somali, Uganda_
 
 ##### New ring
 ### [ The discovery of a new ring around Saturn is announced. ](/news/2009/10/7/the-discovery-of-a-new-ring-around-saturn-is-announced.md)

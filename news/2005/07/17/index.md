@@ -7,9 +7,9 @@ Formats: [HTML](2005/07/17/index.html)  [JSON](2005/07/17/index.json)  [XML](200
 ### [ In India, the government has dismissed a claim of Sunni Waqf Board that it should own the Taj Mahal. ](/news/2005/07/17/in-india-the-government-has-dismissed-a-claim-of-sunni-waqf-board-that-it-should-own-the-taj-mahal.md)
 _Context: Sunni Waqf Board, Taj Mahal_
 
-##### Turkish
+##### Turkey
 ### [ In Turkey, Kurdistan Workers' Party has denied that it had anything to do with a minibus bombing in Kusadasi that killed five people. Turkish authorities have blamed the Party. ](/news/2005/07/17/in-turkey-kurdistan-workers-party-has-denied-that-it-had-anything-to-do-with-a-minibus-bombing-in-kuaadasa-that-killed-five-people-tur.md)
-_Context: PKK, Turkish, minibus bombing in Kusadasi_
+_Context: PKK, Turkey, minibus bombing in Kusadasi_
 
 ##### Indonesia
 ### [ Representatives of Indonesian government and the Free Aceh Movement reach a tentative peace settlement in negoations in Helsinki, Finland. They intend to sign a formal truce in August 15. ](/news/2005/07/17/representatives-of-indonesian-government-and-the-free-aceh-movement-reach-a-tentative-peace-settlement-in-negoations-in-helsinki-finland.md)
@@ -49,7 +49,7 @@ _Context: Baghdad, Conflict in Iraq_
 
 ##### Military
 ### [ According to the Military of Pakistan, 17 people have died, including a Pakistani soldier, following clashes on the border with Afghanistan. ](/news/2005/07/17/according-to-the-military-of-pakistan-17-people-have-died-including-a-pakistani-soldier-following-clashes-on-the-border-with-afghanistan.md)
-_Context: Afghanistan, Pakistan, military_
+_Context: Afghan, Pakistan, military_
 
 ##### Firemen
 ### [ Fourteen Spanish Firefighters have died while attempting to battle a forest fire in the central province of Guadalajara. ](/news/2005/07/17/fourteen-spanish-firefighters-have-died-while-attempting-to-battle-a-forest-fire-in-the-central-province-of-guadalajara.md)

@@ -19,7 +19,7 @@ EU and UN demand army release detained president and prime minister as warning s
 ### [Along with 15 other international envoys, Cuban diplomat Jose Ramon Cabanas Rodriguez presents his credentials to U.S. President Barack Obama, becoming the island's first ambassador to the United States since 1961. The Obama Administration has yet to name an ambassador to Cuba. ](/news/2015/09/17/along-with-15-other-international-envoys-cuban-diplomat-jose-ramon-cabaa-as-rodriguez-presents-his-credentials-to-u-s-president-barack-oba.md)
 Diplomat Jose Ramon Cabañas Rodriguez handed President Barack Obama his credentials as Cuba’s ambassador to the United States at an official ceremony that took place on Thursday at the Oval Office. 
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Seven thousand migrants arrive in Croatia with the President of Croatia Kolinda Grabar-Kitarovic placing the army on standby. ](/news/2015/09/17/seven-thousand-migrants-arrive-in-croatia-with-the-president-of-croatia-kolinda-grabar-kitarovia-placing-the-army-on-standby.md)
 Croatia lost control of its border with Serbia on Thursday, unable to deny the sheer force of will of thousands of asylum seekers pressing west and north into Europe, and unable to cope with their needs or numbers.
 

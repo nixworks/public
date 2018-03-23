@@ -57,7 +57,7 @@ _Context: Chile, Peru, spy_
 
 ##### Ogaden National Liberation Front
 ### [ The Ogaden National Liberation Front, a separatist Somali rebel group in the southeast of Ethiopia, says it has begun a new offensive. ](/news/2009/11/14/the-ogaden-national-liberation-front-a-separatist-somali-rebel-group-in-the-southeast-of-ethiopia-says-it-has-begun-a-new-offensive.md)
-_Context: Ethiopia, Ogaden National Liberation Front, Somalia_
+_Context: Ethiopia, Ogaden National Liberation Front, Somali_
 
 ##### Evangelist
 ### [ U.S. evangelist Tony Alamo is sentenced to 175 years in prison for taking underage girls across several states for sexual intercourse. ](/news/2009/11/14/u-s-evangelist-tony-alamo-is-sentenced-to-175-years-in-prison-for-taking-underage-girls-across-several-states-for-sexual-intercourse.md)

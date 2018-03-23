@@ -45,7 +45,7 @@ Calling the destructive cyberattack on Sony Pictures &quot;a game changer,&quot;
 
 ##### War in Donbass
 ### [Fighting kills fifteen people and leaves 60 injured as missiles hit Ukraine's military headquarters in the city of Kramatorsk. ](/news/2015/02/10/fighting-kills-fifteen-people-and-leaves-60-injured-as-missiles-hit-ukraine-s-military-headquarters-in-the-city-of-kramatorsk.md)
-_Context: Kramatorsk, Ukraine, War in Donbass_
+_Context: Kramatorsk, Ukrainian, War in Donbass_
 
 ## [Previous Day...](/news/2015/02/9/index.md)
 

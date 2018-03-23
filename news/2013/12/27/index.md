@@ -27,11 +27,11 @@ _Context: Phetchabun Province, Thailand_
 ### [Three people are killed in clashes between police and Muslim Brotherhood supporters across Egypt. ](/news/2013/12/27/three-people-are-killed-in-clashes-between-police-and-muslim-brotherhood-supporters-across-egypt.md)
 Three people are killed in fresh clashes between Muslim Brotherhood supporters and police across Egypt.
 
-##### Afghanistan
+##### Afghan
 ### [A suicide bomber attacks a foreign military convoy on the eastern outskirts of the Afghan capital, Kabul, killing at least three foreign soldiers, police and the NATO-led International Security Assistance Force. ](/news/2013/12/27/a-suicide-bomber-attacks-a-foreign-military-convoy-on-the-eastern-outskirts-of-the-afghan-capital-kabul-killing-at-least-three-foreign-sol.md)
 A suspected suicide bomber attacked a military convoy on the eastern outskirts of Kabul on Friday, killing at least three foreign soldiers, police and the NATO-led International Security Assistance Force (ISAF) said.
 
-##### Somalia
+##### Somali
 ### [Five soldiers and a military officer are killed in an explosion in the Somali capital Mogadishu. ](/news/2013/12/27/five-soldiers-and-a-military-officer-are-killed-in-an-explosion-in-the-somali-capital-mogadishu.md)
 At least 11 people, including six soldiers, are killed by a remote-controlled bomb in a restaurant in the Somali capital Mogadishu, witnesses say.
 

@@ -9,7 +9,7 @@ Israeli troops, some smiling and dancing, began to withdraw from Gaza Sunday aft
 
 ##### Suicide attack
 ### [ A suicide attack kills two Afghans and one United States Army soldier and wounds 30 other people in Kabul, Afghanistan. ](/news/2009/01/17/a-suicide-attack-kills-two-afghans-and-one-united-states-army-soldier-and-wounds-30-other-people-in-kabul-afghanistan.md)
-_Context: Afghan-based, Afghanistan, Kabul, United States, United States soldier, War in Afghanistan (2001-present), soldier, suicide attack_
+_Context: Afghan, Afghan-based, Kabul, United States, United States soldier, War in Afghanistan (2001-present), soldier, suicide attack_
 
 ##### PAS
 ### [ The Pan-Malaysian Islamic Party defeats Barisan Nasional in Malaysia's Kuala Terengganu by-election. ](/news/2009/01/17/the-pan-malaysian-islamic-party-defeats-barisan-nasional-in-malaysia-s-kuala-terengganu-by-election.md)

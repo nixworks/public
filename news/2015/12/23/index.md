@@ -43,7 +43,7 @@ _Context: Middle East respiratory syndrome, Saudi Arabia, South Korea, South Kor
 ### [At least six people die and dozens injured as major storms, packed with tornadoes, move through the American South and Midwest. Three people died when a tornado hit northern Mississippi, one was killed in Arkansas and two more in Tennessee. Officials continue searching into the night for the missing. ](/news/2015/12/23/at-least-six-people-die-and-dozens-injured-as-major-storms-packed-with-tornadoes-move-through-the-american-south-and-midwest-three-people.md)
 Days of severe weather have left deaths, injuries and damage in the South. Here are the latest impacts.
 
-##### Somalia
+##### Somali
 ### [The governments of Somalia, Tajikistan and Brunei ban celebrations of Christmas, with punishments ranging up to a five-year jail term. Each country has a majority-Muslim population. ](/news/2015/12/23/the-governments-of-somalia-tajikistan-and-brunei-ban-celebrations-of-christmas-with-punishments-ranging-up-to-a-five-year-jail-term-each.md)
 Somalian government declared holiday is ‘only for Christians’ and festivities could prompt attacks from al-Shabaab, as other countries issue strict warnings
 

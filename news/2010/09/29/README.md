@@ -35,7 +35,7 @@ _Context: Hossein Derakhshan, Iran, propaganda_
 ### [Ten prisoners die in a fight between rival gangs at a prison in Aragua, Venezuela. ](/news/2010/09/29/ten-prisoners-die-in-a-fight-between-rival-gangs-at-a-prison-in-aragua-venezuela.md)
 At least 10 Venezuelan prisoners die as rival criminal gangs use guns and grenades in a battle for control of a jail.
 
-##### Turkish
+##### Turkey
 ### [Turkey's ambassador refuses visas to Australian and New Zealand archaeologists to conduct a survey of Gallipoli Campaign battlesites over concerns about a statue built by Sydney's Assyrian community commemorating the Assyrian Genocide in World War I. ](/news/2010/09/29/turkey-s-ambassador-refuses-visas-to-australian-and-new-zealand-archaeologists-to-conduct-a-survey-of-gallipoli-campaign-battlesites-over-co.md)
 The Federal Government says it is hoping to resolve a dispute that is threatening a planned survey of Gallilopi battlefields in Turkey.
 

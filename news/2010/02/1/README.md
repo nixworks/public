@@ -33,7 +33,7 @@ Nigerian rebel group denies involvement in attack on Shell pipeline in Niger Del
 
 ##### United Nations
 ### [United Nations Secretary-General Ban Ki-moon arrives in Cyprus to begin talks aimed at reuniting the country. ](/news/2010/02/1/united-nations-secretary-general-ban-ki-moon-arrives-in-cyprus-to-begin-talks-aimed-at-reuniting-the-country.md)
-_Context: Ban Ki-moon, Cypriot, Cyprus dispute, United Nations, United Nations Secretary-General_
+_Context: Ban Ki-moon, Cyprus, Cyprus dispute, United Nations, United Nations Secretary-General_
 
 ##### Secretary of State
 ### [US Secretary of State Hillary Clinton presses China to back Iran sanctions for its nuclear program. ](/news/2010/02/1/us-secretary-of-state-hillary-clinton-presses-china-to-back-iran-sanctions-for-its-nuclear-program.md)

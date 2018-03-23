@@ -5,7 +5,7 @@ Formats: [HTML](2007/12/18/index.html)  [JSON](2007/12/18/index.json)  [XML](200
 
 ##### Orange Revolution
 ### [ The Orange Revolution advocate Yulia Tymoshenko wins parliament's backing to return as prime minister of Ukraine. ](/news/2007/12/18/the-orange-revolution-advocate-yulia-tymoshenko-wins-parliament-s-backing-to-return-as-prime-minister-of-ukraine.md)
-_Context: Orange Revolution, Ukraine, Yulia Tymoshenko, parliament_
+_Context: Orange Revolution, Ukrainian, Yulia Tymoshenko, parliament_
 
 ##### U.S. federal court
 ### [ United States District Judge Henry Kennedy orders a hearing on whether the Bush administration violated a court order by destroying CIA interrogation videos of two Al-Qaeda suspects. ](/news/2007/12/18/united-states-district-judge-henry-kennedy-orders-a-hearing-on-whether-the-bush-administration-violated-a-court-order-by-destroying-cia-int.md)

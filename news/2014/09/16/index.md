@@ -7,7 +7,7 @@ Formats: [HTML](2014/09/16/index.html)  [JSON](2014/09/16/index.json)  [XML](201
 ### [Russian billionaire Vladimir Yevtushenkov is placed under house arrest for alleged money laundering. ](/news/2014/09/16/russian-billionaire-vladimir-yevtushenkov-is-placed-under-house-arrest-for-alleged-money-laundering.md)
 _Context: Russian, Vladimir Yevtushenkov, money laundering_
 
-##### Ukraine
+##### Ukrainian
 ### [Lawmakers from Ukraine ratify a landmark agreement with the European Union in tandem with a meeting of the European Parliament. ](/news/2014/09/16/lawmakers-from-ukraine-ratify-a-landmark-agreement-with-the-european-union-in-tandem-with-a-meeting-of-the-european-parliament.md)
 Ukrainian MPs and the European Parliament are set to ratify a key EU association pact criticised by Russia.
 
@@ -35,7 +35,7 @@ Jihadists shot down a Syrian warplane conducting strikes on the Islamic State st
 ### [Six Egyptian police officers are killed and three wounded following a roadside bombing in the Sinai peninsula. ](/news/2014/09/16/six-egyptian-police-officers-are-killed-and-three-wounded-following-a-roadside-bombing-in-the-sinai-peninsula.md)
 Six Egyptian policemen have been killed by a roadside bomb in the Sinai peninsula, the interior ministry says.
 
-##### Afghanistan
+##### Afghan
 ### [A large bomb explodes in Afghan capital Kabul resulting in at least three deaths of international troops and five injuries. ](/news/2014/09/16/a-large-bomb-explodes-in-afghan-capital-kabul-resulting-in-at-least-three-deaths-of-international-troops-and-five-injuries.md)
 A Taliban suicide car bomber attacks a foreign military convoy in the Afghan capital, Kabul, killing three Nato personnel and injuring at least 16 civilians.
 

@@ -25,7 +25,7 @@ France&#039;s capital replaces fireworks with a video as Brussels cancels festiv
 
 ##### Iraqi Civil War (2014-present)
 ### [Iraq's Foreign Minister, Ibrahim al-Jaafari, renewed demands that Turkey fully withdraw its troops from northern Iraq, asserting that Turkey must respect Iraq's sovereignty or face potential military action. Last month the Turkish army mounted a big offensive invasion into Iraq's Kurdish territory including tanks and artillery without permission or even negotiation with the Iraqi government. ](/news/2015/12/30/iraq-s-foreign-minister-ibrahim-al-jaafari-renewed-demands-that-turkey-fully-withdraw-its-troops-from-northern-iraq-asserting-that-turkey.md)
-_Context: Foreign Minister, Ibrahim al-Jaafari, Iraq, Iraq-Turkey relations, Iraqi Civil War (2014-present), Turkish_
+_Context: Foreign Minister, Ibrahim al-Jaafari, Iraq, Iraq-Turkey relations, Iraqi Civil War (2014-present), Turkey_
 
 ##### 2015-16 UK and Ireland windstorm season
 ### [Storm Frank hits the United Kingdom and Ireland, contributing to the 2015 Great Britain and Ireland floods following previous heavy rainfall. ](/news/2015/12/30/storm-frank-hits-the-united-kingdom-and-ireland-contributing-to-the-2015-great-britain-and-ireland-floods-following-previous-heavy-rainfall.md)

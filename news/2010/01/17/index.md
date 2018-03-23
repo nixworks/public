@@ -19,9 +19,9 @@ The revelations about Peter Robinson&#39;s wife Iris have indirectly led to a po
 ### [Sebastian Pinera is elected President of Chile in the second round of the presidential election. ](/news/2010/01/17/sebastia-n-pia-era-is-elected-president-of-chile-in-the-second-round-of-the-presidential-election.md)
 _Context: Chile, President of Chile, Sebastian Pinera, election_
 
-##### Ukraine
+##### Ukrainian
 ### [Ukrainian voters go to the polls to elect a new president. ](/news/2010/01/17/ukrainian-voters-go-to-the-polls-to-elect-a-new-president.md)
-_Context: Ukraine, Ukrainian President, Ukrainian presidential election_
+_Context: Ukrainian, Ukrainian President, Ukrainian presidential election_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI makes a controversial visit to the Great Synagogue of Rome. ](/news/2010/01/17/pope-benedict-xvi-makes-a-controversial-visit-to-the-great-synagogue-of-rome.md)

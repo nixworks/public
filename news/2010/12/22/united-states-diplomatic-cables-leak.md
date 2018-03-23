@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/22/united-states-diplomatic-cables-leak.html)  [JS
 
 ### [2010-12-22](/news/2010/12/22/index.md)
 
-##### United States diplomatic cables leak
+##### 250,000 documents
 # United States diplomatic cables leak: 
 
 The British government has trained a paramilitary force accused of hundreds of killings in Bangladesh, according to leaked U.S. embassy cables. 

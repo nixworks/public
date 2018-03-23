@@ -13,7 +13,7 @@ _Context: Foreign Minister, Japanese Prime Minister, Naoto Kan, Seiji Maehara, f
 
 ##### Police
 ### [Afghan police set up extra security checkpoints across Afghanistan to prepare for Taliban attacks on voting in the parliamentary election on Saturday. ](/news/2010/09/17/afghan-police-set-up-extra-security-checkpoints-across-afghanistan-to-prepare-for-taliban-attacks-on-voting-in-the-parliamentary-election-on.md)
-_Context: Afghanistan, Taliban, parliamentary election, police, security checkpoint_
+_Context: Afghan, Taliban, parliamentary election, police, security checkpoint_
 
 ##### Russia
 ### [Opposition parties in Russia announce plans to field a joint candidate ahead of presidential elections in 2012. ](/news/2010/09/17/opposition-parties-in-russia-announce-plans-to-field-a-joint-candidate-ahead-of-presidential-elections-in-2012.md)

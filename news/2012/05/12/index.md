@@ -41,7 +41,7 @@ Police clear protesters from central Madrid, after nationwide protests by the &q
 
 ##### NATO
 ### [Four NATO soldiers die in separate incidents in southern Afghanistan &ndash; two in a gun attack by insurgents, one in a roadside bombing, and one of non-combat injuries. ](/news/2012/05/12/four-nato-soldiers-die-in-separate-incidents-in-southern-afghanistan-ndash-two-in-a-gun-attack-by-insurgents-one-in-a-roadside-bombing-a.md)
-_Context: Afghanistan, NATO_
+_Context: Afghan, NATO_
 
 ##### Nigeria
 ### [Nigerian police claim to have captured a senior commander of the radical Islamist militant group Boko Haram. ](/news/2012/05/12/nigerian-police-claim-to-have-captured-a-senior-commander-of-the-radical-islamist-militant-group-boko-haram.md)

@@ -19,11 +19,11 @@ _Context: African Footballer of the Year, Chelsea F.C., Didier Drogba, Ivory Coa
 ### [Sahil Saeed is "found" in Pakistan. ](/news/2010/03/11/sahil-saeed-is-found-in-pakistan.md)
 Sahil Saeed, the five-year-old boy kidnapped in Pakistan, has been found, according to the country&rsquo;s top diplomat.
 
-##### Turkish
+##### Turkey
 ### [Turkey recalls its ambassador to Sweden and cancels the Turkey - Sweden summit planned for March 17 after the Riksdag votes in favour of calling the Armenian Genocide a genocide. ](/news/2010/03/11/turkey-recalls-its-ambassador-to-sweden-and-cancels-the-turkey-sweden-summit-planned-for-march-17-after-the-riksdag-votes-in-favour-of-cal.md)
 Turkey has recalled its ambassador from Sweden after its parliament voted to brand the WW1 killing of Armenians by Ottoman forces as genocide.
 
-##### Afghanistan
+##### Afghan
 ### [Afghanistan: Five civilians, including four children, die in an explosion, while two construction contractors, including one from South Africa, are shot dead. ](/news/2010/03/11/afghanistan-five-civilians-including-four-children-die-in-an-explosion-while-two-construction-contractors-including-one-from-south-afri.md)
 Five Afghan civilians, four of them children, were killed in an explosion Thursday, and gunmen shot dead a South African construction contractor and his Afghan colleague in a separate attack, officials said.
 
@@ -39,9 +39,9 @@ Ejup Ganic, wanted by Serbia for alleged war crimes, is granted bail by British 
 ### [The Gambia arrests people, including former fisheries minister Antouman Saho, without telling them why. ](/news/2010/03/11/the-gambia-arrests-people-including-former-fisheries-minister-antouman-saho-without-telling-them-why.md)
 _Context: Antouman Saho, The Gambia_
 
-##### Somalia
+##### Somali
 ### [More than 20 civilians die during the second day of conflict between Somali government troops and opposition forces in Mogadishu. ](/news/2010/03/11/more-than-20-civilians-die-during-the-second-day-of-conflict-between-somali-government-troops-and-opposition-forces-in-mogadishu.md)
-_Context: Mogadishu, Somalia_
+_Context: Mogadishu, Somali_
 
 ##### Abuja
 ### [Hundreds of angry women dressed in black march though the streets of Abuja and Jos following the recent massacre in Nigeria. ](/news/2010/03/11/hundreds-of-angry-women-dressed-in-black-march-though-the-streets-of-abuja-and-jos-following-the-recent-massacre-in-nigeria.md)

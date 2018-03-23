@@ -25,7 +25,7 @@ _Context: Shibam, Yemen, bomb_
 
 ##### Bomb
 ### [ Bombs kill 12 people in Nangarhar Province, Kabul, and Kandahar, Afghanistan. ](/news/2009/03/15/bombs-kill-12-people-in-nangarhar-province-kabul-and-kandahar-afghanistan.md)
-_Context: Afghanistan, Bomb, Kabul, Kandahar, Nangarhar Province_
+_Context: Afghan, Bomb, Kabul, Kandahar, Nangarhar Province_
 
 ##### Zenit St. Petersburg
 ### [ More than 500 Zenit St. Petersburg fans are arrested in Moscow after a riot during a Russian Premier League match with Spartak Moscow. ](/news/2009/03/15/more-than-500-zenit-st-petersburg-fans-are-arrested-in-moscow-after-a-riot-during-a-russian-premier-league-match-with-spartak-moscow.md)

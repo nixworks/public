@@ -41,7 +41,7 @@ _Context: Gaza Strip, Israel_
 
 ##### War in Afghanistan (2001-present)
 ### [ War in Afghanistan: Afghan and U.S led coalition forces kill 20 insurgents while two Afghan policeman die in a bomb attack. ](/news/2007/09/5/war-in-afghanistan-afghan-and-u-s-led-coalition-forces-kill-20-insurgents-while-two-afghan-policeman-die-in-a-bomb-attack.md)
-_Context: Afghanistan, United States, War in Afghanistan (2001-present)_
+_Context: Afghan, United States, War in Afghanistan (2001-present)_
 
 ##### Terrorism
 ### [ Three suspects arrested on terrorism charges yesterday appear before the Federal Court of Justice of Germany in Karlsruhe. ](/news/2007/09/5/three-suspects-arrested-on-terrorism-charges-yesterday-appear-before-the-federal-court-of-justice-of-germany-in-karlsruhe.md)
@@ -71,7 +71,7 @@ _Context: Lighting Africa, World Bank, electricity, sub-Saharan Africa_
 ### [ Reynaldo Francis, the Governor of Nicaragua's North Atlantic Autonomous Region, estimates that the death toll from Hurricane Felix has risen to at least 21. Since his statement, the death toll has risen to 38, with 80 people missing. ](/news/2007/09/5/reynaldo-francis-the-governor-of-nicaragua-s-north-atlantic-autonomous-region-estimates-that-the-death-toll-from-hurricane-felix-has-rise.md)
 Hurricane Felix killed at least 38 people on Nicaragua&#039;s Caribbean coast and more than 80 people were missing after the storm destroyed thousands of flimsy homes, the Government said.
 
-##### United States Senate
+##### Senate
 ### [ Lawyers for U.S. Senator Larry Craig (R-ID) ask the Senate Select Committee on Ethics to reject a complaint following a guilty plea to disorderly conduct charges in Minneapolis. The Ethics Committee rejects his plea. ](/news/2007/09/5/lawyers-for-u-s-senator-larry-craig-r-id-ask-the-senate-select-committee-on-ethics-to-reject-a-complaint-following-a-guilty-plea-to-diso.md)
 Sen. Larry Craig has all but dropped any notion of trying to complete his term, and is focused on helping Idaho send a new senator to Washington within a few weeks, his top spokesman said Thursday
 
@@ -81,7 +81,7 @@ _Context: France, Manuel Noriega, Panama, United States, William Hoeveler, extra
 
 ##### Fred Thompson
 ### [ Fred Thompson, a former U.S. Senator and actor, announces that he is a candidate for the Republican nomination in the 2008 presidential election. ](/news/2007/09/5/fred-thompson-a-former-u-s-senator-and-actor-announces-that-he-is-a-candidate-for-the-republican-nomination-in-the-2008-presidential-ele.md)
-_Context: 2008, Fred Thompson, Republican, United States Senate_
+_Context: 2008, Fred Thompson, Republican, Senate_
 
 ##### Prime Minister
 ### [ The Prime Minister of the United Kingdom Gordon Brown launches the International Health Partnership consisting of the World Health Organisation, the World Bank, the Bill and Melinda Gates Foundation as well as the governments of the United Kingdom, Canada, France, Germany, Italy, the Netherlands, Norway and Portugal. ](/news/2007/09/5/the-prime-minister-of-the-united-kingdom-gordon-brown-launches-the-international-health-partnership-consisting-of-the-world-health-organisa.md)
@@ -99,9 +99,9 @@ _Context: 2007 general election, Encuentro por Guatemala Party, Rigoberta Menchu
 ### [ A Congressional committee has voted to remove the President of the Senate of Brazil Renan Calheiros as a result of a corruption scandal. ](/news/2007/09/5/a-congressional-committee-has-voted-to-remove-the-president-of-the-senate-of-brazil-renan-calheiros-as-a-result-of-a-corruption-scandal.md)
 _Context: Brazilian Senate, Congress, Renan Calheiros_
 
-##### Somalia
+##### Somali
 ### [ A battle between Somali police and insurgents in Mogadishu results in six casualties. ](/news/2007/09/5/a-battle-between-somali-police-and-insurgents-in-mogadishu-results-in-six-casualties.md)
-_Context: Mogadishu, Somalia_
+_Context: Mogadishu, Somali_
 
 ## [Previous Day...](/news/2007/09/4/index.md)
 

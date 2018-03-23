@@ -73,7 +73,7 @@ _Context: Mali, land mine_
 
 ##### Rocket
 ### [ Militants fire rockets on a United States military aircraft containing three US Senators (Richard Shelby, Mel Martinez and James Inhofe) as well as Rep. Bud Cramer as it leaves Baghdad for Amman in Jordan. ](/news/2007/08/30/militants-fire-rockets-on-a-united-states-military-aircraft-containing-three-us-senators-richard-shelby-mel-martinez-and-james-inhofe-as.md)
-_Context: Amman, Baghdad, Bud Cramer, James Inhofe, Jordan, Mel Martinez, Richard Shelby, United States, United States House of Representatives, United States Senate, rocket_
+_Context: Amman, Baghdad, Bud Cramer, James Inhofe, Jordan, Mel Martinez, Richard Shelby, Senate, United States, United States House of Representatives, rocket_
 
 ## [Previous Day...](/news/2007/08/29/index.md)
 

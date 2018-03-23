@@ -17,7 +17,7 @@ _Context: Lee Hsien Loong, Lee Kuan Yew, People's Action Party, Prime Minister o
 
 ##### Memorial Day
 ### [ Memorial Day: President Bush honors the United States' war dead of past conflicts, and says that "two terror regimes are gone forever" in Iraq and Afghanistan as US deaths there climb to 1,000. ](/news/2004/05/31/memorial-day-president-bush-honors-the-united-states-war-dead-of-past-conflicts-and-says-that-two-terror-regimes-are-gone-forever-in-i.md)
-_Context: Afghanistan, George W. Bush, Iraq, Memorial Day_
+_Context: Afghan, George W. Bush, Iraq, Memorial Day_
 
 ## [Previous Day...](/news/2004/05/30/index.md)
 

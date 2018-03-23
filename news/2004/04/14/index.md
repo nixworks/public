@@ -5,7 +5,7 @@ Formats: [HTML](2004/04/14/index.html)  [JSON](2004/04/14/index.json)  [XML](200
 
 ##### Panjshir Province
 ### [ Panjshir, the only part of Afghanistan that was never conquered by the Taliban, and the last defence position of Ahmed Shah Massoud, is named the 34th province of Afghanistan. ](/news/2004/04/14/panjshir-the-only-part-of-afghanistan-that-was-never-conquered-by-the-taliban-and-the-last-defence-position-of-ahmed-shah-massoud-is-nam.md)
-_Context: Afghanistan, Ahmed Shah Massoud, Panjshir Province, Taliban_
+_Context: Afghan, Ahmed Shah Massoud, Panjshir Province, Taliban_
 
 ##### Family Court
 ### [ The Australian Family Court allows a thirteen-year-old child, born female, to start preliminary hormone treatment: the child identifies as being male and has been suffering from gender dysphoria. ](/news/2004/04/14/the-australian-family-court-allows-a-thirteen-year-old-child-born-female-to-start-preliminary-hormone-treatment-the-child-identifies-as.md)

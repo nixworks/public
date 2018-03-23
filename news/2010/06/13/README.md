@@ -47,7 +47,7 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 ### [Two people are killed and six others are wounded during four explosions close to the entrance of the Iraqi central bank building in downtown Baghdad. ](/news/2010/06/13/two-people-are-killed-and-six-others-are-wounded-during-four-explosions-close-to-the-entrance-of-the-iraqi-central-bank-building-in-downtown.md)
 _Context: Baghdad, Iraq_
 
-##### Somalia
+##### Somali
 ### [Fighting between government troops and police in Somalia leaves at least 13 people dead and 14 injured in the capital Mogadishu. ](/news/2010/06/13/fighting-between-government-troops-and-police-in-somalia-leaves-at-least-13-people-dead-and-14-injured-in-the-capital-mogadishu.md)
 Fighting between government troops and police leaves 13 dead and 14 injured in capital.
 
@@ -101,7 +101,7 @@ _Context: International Whaling Commission, Japan, The Sunday Times, whaling_
 
 ##### Dai Kundi
 ### [10 police were killed in an attack on Sunday on an outpost in Dai Kundi province in central Afghanistan. ](/news/2010/06/13/10-police-were-killed-in-an-attack-on-sunday-on-an-outpost-in-dai-kundi-province-in-central-afghanistan.md)
-_Context: Afghanistan, Dai Kundi_
+_Context: Afghan, Dai Kundi_
 
 ##### Egyptian security forces
 ### [Egyptian security forces beat protesters at a demonstration against human rights abuses in Egypt and an incident of police brutality that resulted in the death of a young man a week ago. ](/news/2010/06/13/egyptian-security-forces-beat-protesters-at-a-demonstration-against-human-rights-abuses-in-egypt-and-an-incident-of-police-brutality-that-re.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2010/09/19/index.html)  [JSON](2010/09/19/index.json)  [XML](201
 
 ##### Armenia
 ### [Approximately 2,000 Armenians worship at the 10th century Church of the Holy Cross on Akdamar Island in Turkey for the first time since 1915. ](/news/2010/09/19/approximately-2-000-armenians-worship-at-the-10th-century-church-of-the-holy-cross-on-akdamar-island-in-turkey-for-the-first-time-since-1915.md)
-_Context: 10th century, Akdamar Island, Armenia, Turkish_
+_Context: 10th century, Akdamar Island, Armenia, Turkey_
 
 ##### Cult
 ### [Concerns are held about a cult-like group of Salvadoran migrants to the United States in Palmdale, California, who have gone missing after leaving a note that they were going to meet Jesus. They are later found alive in a park. ](/news/2010/09/19/concerns-are-held-about-a-cult-like-group-of-salvadoran-migrants-to-the-united-states-in-palmdale-california-who-have-gone-missing-after-l.md)
@@ -49,7 +49,7 @@ _Context: Air India Flight 182, Narita International Airport, perjury_
 
 ##### UK
 ### [A British man of Somali origin, destined for Uganda, is arrested in Schiphol airport in Amsterdam on suspicion of being a terrorist. ](/news/2010/09/19/a-british-man-of-somali-origin-destined-for-uganda-is-arrested-in-schiphol-airport-in-amsterdam-on-suspicion-of-being-a-terrorist.md)
-_Context: Amsterdam, Amsterdam Airport Schiphol, Somalia, UK, Uganda, terrorism_
+_Context: Amsterdam, Amsterdam Airport Schiphol, Somali, UK, Uganda, terrorism_
 
 ##### Humanitarian aid
 ### [A humanitarian aid convoy for the Viva Palestina charity starts in London, England, headed for the Gaza Strip. ](/news/2010/09/19/a-humanitarian-aid-convoy-for-the-viva-palestina-charity-starts-in-london-england-headed-for-the-gaza-strip.md)
@@ -91,7 +91,7 @@ _Context: Agri, Otlubayir_
 ### [2 Taiwanese tourists are shot while in a bus outside the Jama Masjid mosque in Delhi, India. ](/news/2010/09/19/2-taiwanese-tourists-are-shot-while-in-a-bus-outside-the-jama-masjid-mosque-in-delhi-india.md)
 Two Taiwanese tourists are injured after gunmen open fire in Delhi, weeks before the Indian capital hosts the Commonwealth Games.
 
-##### Al-Shabaab
+##### Al-Shabab
 ### [Islamist al-Shabaab insurgents in Somalia seize control of 2 independent radio stations in the capital Mogadishu. ](/news/2010/09/19/islamist-al-shabaab-insurgents-in-somalia-seize-control-of-2-independent-radio-stations-in-the-capital-mogadishu.md)
 Islamist insurgents seize control of two radio stations in the Somali capital Mogadishu.
 
@@ -109,7 +109,7 @@ _Context: 2 car bomb, Baghdad, Iraq_
 
 ##### United States soldier
 ### [The United States Army charges 5 US soldiers with murdering 3 Afghan civilians earlier this year. ](/news/2010/09/19/the-united-states-army-charges-5-us-soldiers-with-murdering-3-afghan-civilians-earlier-this-year.md)
-_Context: Afghanistan, United States, United States soldier_
+_Context: Afghan, United States, United States soldier_
 
 ##### Gaza Strip
 ### [A new convoy of vehicles departs the UK with humanitarian aid for Gaza, more than three months after 9 people were killed in the Gaza flotilla raid. ](/news/2010/09/19/a-new-convoy-of-vehicles-departs-the-uk-with-humanitarian-aid-for-gaza-more-than-three-months-after-9-people-were-killed-in-the-gaza-flotil.md)

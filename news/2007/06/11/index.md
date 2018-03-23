@@ -9,7 +9,7 @@ _Context: Hunter River, Maitland, New South Wales, Newcastle, flood_
 
 ##### Majeedah Bolkiah
 ### [ Majeedah Bolkiah&mdash;daughter of Hassanal Bolkiah, Sultan of Brunei&mdash;marries Khairul Khalil, an official in the office of the Prime Minister in a lavish Islamic wedding ceremony. ](/news/2007/06/11/majeedah-bolkiah-mdash-daughter-of-hassanal-bolkiah-sultan-of-brunei-mdash-marries-khairul-khalil-an-official-in-the-office-of-the-prime.md)
-_Context: Brunei, Hassanal Bolkiah, Islam, Khairul Khalil, Majeedah Bolkiah, Prime Minister, Sultan, wedding_
+_Context: Brunei, Hassanal Bolkiah, Khairul Khalil, Majeedah Bolkiah, Muslim, Prime Minister, Sultan, wedding_
 
 ##### Flooding
 ### [ Flooding in the southern Chinese provinces of Guangdong, Guangxi, Guizhou, Hunan, Fujian, and Jiangxi damage agricultural land and crops, kill 66 people, and force 600,000 people from their homes. ](/news/2007/06/11/flooding-in-the-southern-chinese-provinces-of-guangdong-guangxi-guizhou-hunan-fujian-and-jiangxi-damage-agricultural-land-and-crops-k.md)

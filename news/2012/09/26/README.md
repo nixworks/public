@@ -11,7 +11,7 @@ _Context: Liberal Democratic Party, Shinzo Abe_
 ### [Ireland's Minister of State for Primary Care Risn Shortall resigns due to a dispute with Minister for Health James Reilly. She also resigns from the Labour Party. ](/news/2012/09/26/ireland-s-minister-of-state-for-primary-care-roisin-shortall-resigns-due-to-a-dispute-with-minister-for-health-james-reilly-she-also-resign.md)
 Roisin Shortall has resigned as junior minister for health, over what she described as a &quot;lack of support for the reforms in the Programme for Government and the values which underpin it&quot;.
 
-##### Turkish
+##### Turkey
 ### [A court ruling allows Turkey to ban access to the film "Innocence of Muslims". ](/news/2012/09/26/a-court-ruling-allows-turkey-to-ban-access-to-the-film-innocence-of-muslims.md)
  A court ruling allowing Turkey to ban access to the anti-Islam film “Innocence... 
 

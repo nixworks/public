@@ -25,23 +25,23 @@ Ukrainians have called Vladimir Putin many bad names, among them a Nazi, a dicta
 
 ##### Russia
 ### [Russia's state-owned gas giant Gazprom says that Ukraine must pay up front for its gas after the country failed to settle its debt. ](/news/2014/06/16/russia-s-state-owned-gas-giant-gazprom-says-that-ukraine-must-pay-up-front-for-its-gas-after-the-country-failed-to-settle-its-debt.md)
-_Context: Gazprom, Russia, Ukraine_
+_Context: Gazprom, Russia, Ukrainian_
 
 ##### Pilger, NE
 ### [June 16-18 Tornado Outbreak begins. Twin EF4 tornadoes devastate northeast Nebraska. A town particularly hit hard being Pilger, NE where a young girl is killed. At night several other tornadoes touch down and one of them, an EF3, tears through the southwest portions of Madison, Wisconsin. ](/news/2014/06/16/june-16-18-tornado-outbreak-begins-twin-ef4-tornadoes-devastate-northeast-nebraska-a-town-particularly-hit-hard-being-pilger-ne-where-a-y.md)
 June 16, 17 and 18 will be remembered for their tornadoes in the years to come. The month may still have more activity to send us as well.
 
-##### Al-Shabaab
+##### Al-Shabab
 ### [The Al-Shabaab militant group launches a second attack near the Kenyan town of Mpeketoni killing another ten people. ](/news/2014/06/16/the-al-shabaab-militant-group-launches-a-second-attack-near-the-kenyan-town-of-mpeketoni-killing-another-ten-people.md)
-_Context: Al-Shabaab, Kenya, Mpeketoni_
+_Context: Al-Shabab, Kenya, Mpeketoni_
 
 ##### Violent riots
 ### [Violent riots between Muslims and Buddhists rage in the town of Welipitiya, Sri Lanka, leaving 3 dead, 78 injured, and multiple mosques and shops burned or vandalized. ](/news/2014/06/16/violent-riots-between-muslims-and-buddhists-rage-in-the-town-of-welipitiya-sri-lanka-leaving-3-dead-78-injured-and-multiple-mosques-and.md)
 _Context: Buddhists, Muslims, Sri Lanka, Violent riots, Welipitiya, mosques_
 
-##### Ukraine
+##### Ukrainian
 ### [Ukraine's president Petro Poroshenko says he will put forward a detailed peace plan that will include a ceasefire in the conflict. ](/news/2014/06/16/ukraine-s-president-petro-poroshenko-says-he-will-put-forward-a-detailed-peace-plan-that-will-include-a-ceasefire-in-the-conflict.md)
-_Context: Petro Poroshenko, Ukraine_
+_Context: Petro Poroshenko, Ukrainian_
 
 ##### Barrel bomb
 ### [A barrel bomb is dropped from a helicopter in Aleppo, Syria, killing at least 25 people. ](/news/2014/06/16/a-barrel-bomb-is-dropped-from-a-helicopter-in-aleppo-syria-killing-at-least-25-people.md)

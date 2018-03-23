@@ -39,9 +39,9 @@ The sale gives Google access to DoubleClick’s software and its relationships w
 ### [ A NASA Review Board finds that the Mars Global Surveyor stopped working in November 2006 due to computer programming errors. ](/news/2007/04/13/a-nasa-review-board-finds-that-the-mars-global-surveyor-stopped-working-in-november-2006-due-to-computer-programming-errors.md)
 An errant command placed in the wrong location of the Mars Global Surveyor’s computer memory implanted a fatal defect in the spacecraft.
 
-##### United States Senate
+##### Senate
 ### [ The United States Senate holds hearings on the 2007 pet food recalls. ](/news/2007/04/13/the-united-states-senate-holds-hearings-on-the-2007-pet-food-recalls.md)
-_Context: 2007 pet food recalls, United States Senate_
+_Context: 2007 pet food recalls, Senate_
 
 ##### Singapore
 ### [ The Singapore Police Coast Guard suffers its first fatality in decades when two police officers and an illegal migrant are killed after their Interceptor Craft collides with a speedboat ferrying six illegal immigrants during a high-speed pursuit. ](/news/2007/04/13/the-singapore-police-coast-guard-suffers-its-first-fatality-in-decades-when-two-police-officers-and-an-illegal-migrant-are-killed-after-the.md)

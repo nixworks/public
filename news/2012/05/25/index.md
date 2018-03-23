@@ -19,7 +19,7 @@ _Context: Chief Justice, Parliament of Papua New Guinea, Peter O'Neill, Port Mor
 ### [As the Leveson Inquiry releases emails exchanged between UK Secretary of State for Culture, Media and Sport Jeremy Hunt and News Corporation lobbyist Fred Michel, Prime Minister David Cameron says he does not regret his decision to let Hunt rule on News Corp's bid for BSkyB. ](/news/2012/05/25/as-the-leveson-inquiry-releases-emails-exchanged-between-uk-secretary-of-state-for-culture-media-and-sport-jeremy-hunt-and-news-corporation.md)
 _Context: BSkyB, David Cameron, Fred Michel, Jeremy Hunt, Leveson Inquiry, News Corporation, Prime Minister, Secretary of State for Culture, Media and Sport_
 
-##### French President
+##### President of France
 ### [The President of France, Franois Hollande, makes a surprise visit to Afghanistan to visit French troops. ](/news/2012/05/25/the-president-of-france-francois-hollande-makes-a-surprise-visit-to-afghanistan-to-visit-french-troops.md)
 French&#x20;President&#x20;Fran&#x00E7;ois&#x20;Hollande&#x20;made&#x20;a&#x20;surprise&#x20;visit&#x20;to&#x20;Afghanistan&#x20;on&#x20;Friday&#x20;to&#x20;meet&#x20;with&#x20;French&#x20;troops&#x20;and&#x20;Afghan&#x20;President&#x20;Hamid&#x20;Karzai.&#x20;Hollande&#x20;defended&#x20;his&#x20;de...
 

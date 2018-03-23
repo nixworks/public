@@ -33,7 +33,7 @@ The important northern city was seized by an Al Qaeda offshoot after Iraqi troop
 
 ##### Kenya
 ### [Gunmen in Kenya's port city of Mombasa kill Mohamed Idris, chairman of the Council of Imams and Preachers of Kenya, who opposed the radical preachings of Somalia's Al-Qaeda-linked Al-Shabaab insurgents. ](/news/2014/06/10/gunmen-in-kenya-s-port-city-of-mombasa-kill-mohamed-idris-chairman-of-the-council-of-imams-and-preachers-of-kenya-who-opposed-the-radical.md)
-_Context: Al-Shabaab, Kenya, Mombasa, Somalia, al-Qaeda_
+_Context: Al-Shabab, Kenya, Mombasa, Somali, al-Qaeda_
 
 ##### Jinnah International Airport
 ### [Gunmen attack a training facility near the Jinnah International Airport. ](/news/2014/06/10/gunmen-attack-a-training-facility-near-the-jinnah-international-airport.md)

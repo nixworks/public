@@ -15,7 +15,7 @@ _Context: Cu Huy Ha Vu, Vietnam_
 ### [In an address to the Washington-based Brookings Institution, George Robertson, a former Secretary General of NATO, says that Scottish independence would be "cataclysmic in geo-political terms". ](/news/2014/04/7/in-an-address-to-the-washington-based-brookings-institution-george-robertson-a-former-secretary-general-of-nato-says-that-scottish-indepe.md)
 Former secretary general of Nato, Lord Robertson, says Scottish independence would be cataclysmic for the West in an era of international turmoil.
 
-##### Ukraine
+##### Ukrainian
 ### [The political council of Ukraine's Party of Regions expels presidential hopefuls Serhiy Tihipko, Yuriy Boyko and Oleg Tsarov, leaving Mykhailo Dobkin as the only candidate representing the party. ](/news/2014/04/7/the-political-council-of-ukraine-s-party-of-regions-expels-presidential-hopefuls-serhiy-tihipko-yuriy-boyko-and-oleg-tsarov-leaving-mykhai.md)
 The political council of the Party of Regions has expelled Sergiy Tigipko, Oleh Tsariov and Yuriy Boiko from the party, the secretary of the presidium of the party&#39;s political council, MP Borys Kolesnikov, told reporters in Kyiv on Monday.
 
@@ -35,7 +35,7 @@ President Michael D Higgins has arrived in London ahead of his State visit to th
 ### [The Finance Minister of France, Michel Sapin, says that his country is committed to both budget cuts and growth, and willing to make "tough brave" decisions. ](/news/2014/04/7/the-finance-minister-of-france-michel-sapin-says-that-his-country-is-committed-to-both-budget-cuts-and-growth-and-willing-to-make-tough.md)
 _Context: Finance Minister, France, Michel Sapin_
 
-##### Ukraine
+##### Ukrainian
 ### [Pro-Russian activists occupying a government building in the eastern Ukrainian city of Donetsk have proclaimed the creation of a sovereign Donetsk People's Republic independent of the capital Kiev. ](/news/2014/04/7/pro-russian-activists-occupying-a-government-building-in-the-eastern-ukrainian-city-of-donetsk-have-proclaimed-the-creation-of-a-sovereign-d.md)
 Russian soldier shoots dead naval officer in Crimea, defence ministry says 
 

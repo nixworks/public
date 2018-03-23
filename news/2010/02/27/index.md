@@ -15,7 +15,7 @@ _Context: Ignalina Nuclear Power Plant, Visaginas_
 ### [3 people die and over 20 are injured after a suicide bomber targets a police station with his van in Karak, Pakistan. ](/news/2010/02/27/3-people-die-and-over-20-are-injured-after-a-suicide-bomber-targets-a-police-station-with-his-van-in-karak-pakistan.md)
 Three people are dead and more than 20 injured after a suicide bomber rammed a van packed with explosives into a police station in northwest Pakistan.
 
-##### Islam
+##### Muslim
 ### [10 people die and at least 20 are injured after Islamic militant group Abu Sayyaf attacks a village in Maluso, Basilan early in the morning. ](/news/2010/02/27/10-people-die-and-at-least-20-are-injured-after-islamic-militant-group-abu-sayyaf-attacks-a-village-in-maluso-basilan-early-in-the-morning.md)
 Al Qaeda-linked Muslim militants have attacked a town in the southern Philippines on Saturday, killing 10 people.
 

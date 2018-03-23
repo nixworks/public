@@ -33,7 +33,7 @@ At least 13 people have been killed and 34 others wounded when police fought a b
 
 ##### War in Donbass
 ### [A rocket attack by pro-Russian separatists in eastern Ukraine kills 10 civilians and injures 12 others in the village of Nyzhnya Krynka near Donetsk. ](/news/2014/09/17/a-rocket-attack-by-pro-russian-separatists-in-eastern-ukraine-kills-10-civilians-and-injures-12-others-in-the-village-of-nyzhnya-krynka-near.md)
-_Context: Donetsk, Ukraine, War in Donbass_
+_Context: Donetsk, Ukrainian, War in Donbass_
 
 ##### Syrian government
 ### [Nearly 50 people have been killed in two days of Syrian government airstrikes on the town of Talbiseh in Homs Governorate. ](/news/2014/09/17/nearly-50-people-have-been-killed-in-two-days-of-syrian-government-airstrikes-on-the-town-of-talbiseh-in-homs-governorate.md)

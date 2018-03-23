@@ -33,7 +33,7 @@ _Context: Bali, Indonesia, Lion Air, Ngurah Rai International Airport, crashed, 
 
 ##### Canada
 ### [Canadian and Somali security forces probe for evidence that Mahad Ali Dhore, a former York University student, was part of the Mogadishu suicide bombings. ](/news/2013/04/15/canadian-and-somali-security-forces-probe-for-evidence-that-mahad-ali-dhore-a-former-york-university-student-was-part-of-the-mogadishu-sui.md)
-_Context: Canada, Mogadishu, Somalia, York University, security forces, suicide bombings_
+_Context: Canada, Mogadishu, Somali, York University, security forces, suicide bombings_
 
 ##### Bombings
 ### [At least 33 people are killed and more than 160 others are wounded during a wave of bombings in Kirkuk, Baqubah, Tikrit, Fallujah, Nassiriyah, Mussayab and Baghdad. ](/news/2013/04/15/at-least-33-people-are-killed-and-more-than-160-others-are-wounded-during-a-wave-of-bombings-in-kirkuk-baqubah-tikrit-fallujah-nassiriya.md)

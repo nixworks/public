@@ -3,7 +3,7 @@ Formats: [HTML](2016/02/12/index.html)  [JSON](2016/02/12/index.json)  [XML](201
 
 ## [2016-02-12](/news/2016/02/12/index.md)
 
-##### United States Senate
+##### Senate
 ### [The U.S. Senate confirms the nominations of the ambassadors to Norway and Sweden, and of two State Department officials once Senator Ted Cruz lifted his months-long hold on the nominations because of his objection to the Iran nuclear deal (JCPOA). ](/news/2016/02/12/the-u-s-senate-confirms-the-nominations-of-the-ambassadors-to-norway-and-sweden-and-of-two-state-department-officials-once-senator-ted-cru.md)
 The Senate on Friday confirmed a handful of ambassadors and State Department officials, including the American ambassadors to Sweden and Norway.
 

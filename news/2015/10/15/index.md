@@ -21,7 +21,7 @@ _Context: Australia, Sydney_
 
 ##### The Intercept
 ### [A cache of classified intelligence documents published from The Intercept, released by an anonymous whistleblower, highlight details surrounding post-September 11 attacks United States drone strikes in Afghanistan, Somalia, and Yemen, alleging that the United States conducts these strikes under extremely unreliable information and faulty pretenses. ](/news/2015/10/15/a-cache-of-classified-intelligence-documents-published-from-the-intercept-released-by-an-anonymous-whistleblower-highlight-details-surroun.md)
-_Context: Afghanistan, September 11 attacks, Somalia, The Intercept, United States, Yemen, whistleblower_
+_Context: Afghan, September 11 attacks, Somali, The Intercept, United States, Yemen, whistleblower_
 
 ##### 2015 Parramatta shooting
 ### [Rahan Alou and Talal Alameddine are charged with assisting Farhad Jabar to kill New South Wales Police Force accountant Curtis Cheng in Parramatta, Australia on 2 October 2015. ](/news/2015/10/15/rahan-alou-and-talal-alameddine-are-charged-with-assisting-farhad-jabar-to-kill-new-south-wales-police-force-accountant-curtis-cheng-in-parr.md)
@@ -55,7 +55,7 @@ The episode was not the only case of mistaken identity reported this week in con
 ### [A twin bombing near a mosque kills at least 26 people in the northeast Nigerian city of Maiduguri. ](/news/2015/10/15/a-twin-bombing-near-a-mosque-kills-at-least-26-people-in-the-northeast-nigerian-city-of-maiduguri.md)
 _Context: Boko Haram insurgency, Maiduguri, Nigeria_
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [At least one person is reportedly killed after Bulgarian border guards open fire on a group of illegal migrants after they attempted to cross the border from Turkey. The incident happened near the southeastern town of Sredets. ](/news/2015/10/15/at-least-one-person-is-reportedly-killed-after-bulgarian-border-guards-open-fire-on-a-group-of-illegal-migrants-after-they-attempted-to-cros.md)
 An Afghan migrant has been shot dead after an incident near the southeastern Bulgarian border town of Sredets. 
 

@@ -31,9 +31,9 @@ _Context: Green Dam Youth Escort_
 ### [The Philippines' first typhoon of the year moves toward the country's eastern coast, with 33 of the country's 81 provinces and the capital Manila being placed under storm alert. ](/news/2010/07/13/the-philippines-first-typhoon-of-the-year-moves-toward-the-country-s-eastern-coast-with-33-of-the-country-s-81-provinces-and-the-capital-m.md)
 _Context: Manila, Philippines_
 
-##### United States Senate
+##### Senate
 ### [The United States Senate announces it will vote on financial reform legislations on 15 July. ](/news/2010/07/13/the-united-states-senate-announces-it-will-vote-on-financial-reform-legislations-on-15-july.md)
-_Context: United States Senate, financial reform_
+_Context: Senate, financial reform_
 
 ##### Barack Obama
 ### [President of the United States Barack Obama nominates Jacob Lew to replace Peter Orszag as the chief of the Office of Management and Budget. ](/news/2010/07/13/president-of-the-united-states-barack-obama-nominates-jacob-lew-to-replace-peter-orszag-as-the-chief-of-the-office-of-management-and-budget.md)
@@ -155,9 +155,9 @@ _Context: Puri, Ratha-Yatra, human stampede_
 ### [There is a row in the United States about privacy fears connected to an exchange in ownership of a gay teenagers' database. ](/news/2010/07/13/there-is-a-row-in-the-united-states-about-privacy-fears-connected-to-an-exchange-in-ownership-of-a-gay-teenagers-database.md)
 A row erupts in the US over the ownership of a gay teenage database of one million people after its publishers went bankrupt.
 
-##### Afghanistan
+##### Afghan
 ### [An Afghan soldier attacks British soldiers as a base near Lashkar Gah, killing three (one a Nepalese citizen) and wounding four more, before defecting to the Taliban. ](/news/2010/07/13/an-afghan-soldier-attacks-british-soldiers-as-a-base-near-lashkar-gah-killing-three-one-a-nepalese-citizen-and-wounding-four-more-before.md)
-_Context: Afghanistan, Lashkar Gah, Nepal, Taliban, defecting_
+_Context: Afghan, Lashkar Gah, Nepal, Taliban, defecting_
 
 ##### Uganda
 ### [Ugandan authorities arrest a number of people in connection with the July 2010 Kampala attacks which left at least 74 people dead. ](/news/2010/07/13/ugandan-authorities-arrest-a-number-of-people-in-connection-with-the-july-2010-kampala-attacks-which-left-at-least-74-people-dead.md)

@@ -9,7 +9,7 @@ _Context: Jose Luis Rodriguez Zapatero, Prime Minister_
 
 ##### United States House of Representatives
 ### [The United States House of Representatives votes to increase the debt ceiling but the Senate rejects it. ](/news/2011/07/29/the-united-states-house-of-representatives-votes-to-increase-the-debt-ceiling-but-the-senate-rejects-it.md)
-_Context:  debt, United States House of Representatives, United States Senate_
+_Context:  debt, Senate, United States House of Representatives_
 
 ##### Court of Appeals
 ### [A U.S. Court of Appeals holds that isolated DNA is "markedly different" in its chemical structure from the DNA within chromosomes, and thus is not simply a product of nature but of human ingenuity. According, the court upholds two patents held by Myriad Genetics against challenge. ](/news/2011/07/29/a-u-s-court-of-appeals-holds-that-isolated-dna-is-markedly-different-in-its-chemical-structure-from-the-dna-within-chromosomes-and-thus.md)
@@ -31,7 +31,7 @@ Glenn Mulcaire, the private investigator at the centre of phone-hacking claims, 
 ### [Ajmal Kasab, the last surviving gunman from the 2008 Mumbai terrorist attacks, launches an appeal against his death sentence in India. ](/news/2011/07/29/ajmal-kasab-the-last-surviving-gunman-from-the-2008-mumbai-terrorist-attacks-launches-an-appeal-against-his-death-sentence-in-india.md)
 _Context: 2008 Mumbai terrorist attacks, Ajmal Kasab, India_
 
-##### Turkish
+##### Turkey
 ### [The Chief of the armed forces along with the heads of the army, navy and air force all resign in Turkey. ](/news/2011/07/29/the-chief-of-the-armed-forces-along-with-the-heads-of-the-army-navy-and-air-force-all-resign-in-turkey.md)
 The chief of the Turkish armed forces, Isik Kosaner, resigns along with the heads of the army, navy and air force.
 
@@ -45,7 +45,7 @@ The African Union (AU) has admitted South Sudan as its 54th member, marking anot
 
 ##### Coal mine
 ### [At least twenty coal miners are killed and seventeen are missing following two accidents in the Ukraine. ](/news/2011/07/29/at-least-twenty-coal-miners-are-killed-and-seventeen-are-missing-following-two-accidents-in-the-ukraine.md)
-_Context: Ukraine, coal mine, two accidents_
+_Context: Ukrainian, coal mine, two accidents_
 
 ##### Prime Minister
 ### [The Prime Minister of South Korea, Kim Hwang-sik, calls for an overhaul of disaster management following the death of 59 people in floods and landslides caused by heavy rain in recent days. ](/news/2011/07/29/the-prime-minister-of-south-korea-kim-hwang-sik-calls-for-an-overhaul-of-disaster-management-following-the-death-of-59-people-in-floods-an.md)

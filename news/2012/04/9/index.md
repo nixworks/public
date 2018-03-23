@@ -41,7 +41,7 @@ _Context: Daniel Bahr, Die Welt, Gottingen, Gunter Grass, Nobel Prize in Literat
 
 ##### Baidoa
 ### [At least 11 people are killed and over 30 others are seriously injured by a bombing in Baidoa, Somalia. ](/news/2012/04/9/at-least-11-people-are-killed-and-over-30-others-are-seriously-injured-by-a-bombing-in-baidoa-somalia.md)
-_Context: Baidoa, Somalia_
+_Context: Baidoa, Somali_
 
 ##### 2011-2012 Syrian uprising
 ### [2011-2012 Syrian uprising:Turkey claims that the Syrian Army has opened fire on a refugee camp on Turkish soil injuring three people. ](/news/2012/04/9/2011a2012-syrian-uprising-turkey-claims-that-the-syrian-army-has-opened-fire-on-a-refugee-camp-on-turkish-soil-injuring-three-people.md)

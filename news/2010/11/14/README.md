@@ -89,11 +89,11 @@ _Context: Peru, Yines_
 ### [Former British soldier turned singer-songwriter James Blunt claims that he stopped what he believed would be World War III by disobeying a direct order for his troops to attack Russian soldiers given by American General Wesley Clark while he was in Kosovo with NATO in 1999. ](/news/2010/11/14/former-british-soldier-turned-singer-songwriter-james-blunt-claims-that-he-stopped-what-he-believed-would-be-world-war-iii-by-disobeying-a-d.md)
 Kosovo, June 1999. Serbia has withdrawn from the campaign. Hundreds of thousands of refugees wait over the border to return to their homes. A column of 30,000 Nato troops is advancing towards Pristina airfield – a crucial strategic position.
 
-##### Afghanistan
+##### Afghan
 ### [Abdul Khaliq Farahi, the Afghan consul general in Pakistan, is released by gunmen after two years in captivity. ](/news/2010/11/14/abdul-khaliq-farahi-the-afghan-consul-general-in-pakistan-is-released-by-gunmen-after-two-years-in-captivity.md)
-_Context: Afghanistan, Pakistan, consul general_
+_Context: Afghan, Pakistan, consul general_
 
-##### Somalia
+##### Somali
 ### [Somali pirates free British couple Paul and Rachel Chandler after a year in captivity. ](/news/2010/11/14/somali-pirates-free-british-couple-paul-and-rachel-chandler-after-a-year-in-captivity.md)
 Paul and Rachel Chandler fly to Kenya after huge ransom is reportedly paid to end their year-long ordeal.
 
@@ -111,7 +111,7 @@ _Context: Buinaksk, Caucasus, Dagestan, Russia_
 
 ##### Behsod district
 ### [One person dies when a bomb in a pushcart explodes in Behsod district of Nangarhar province, east of Kabul, Afghanistan. ](/news/2010/11/14/one-person-dies-when-a-bomb-in-a-pushcart-explodes-in-behsod-district-of-nangarhar-province-east-of-kabul-afghanistan.md)
-_Context: Afghanistan, Behsod district, Kabul, Nangarhar province_
+_Context: Afghan, Behsod district, Kabul, Nangarhar province_
 
 ## [Previous Day...](/news/2010/11/13/index.md)
 

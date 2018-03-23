@@ -11,7 +11,7 @@ The FBI opened an investigation into allegations of money laundering related to 
 ### [Egypt's new Cabinet is sworn in before President Abdel Fattah el-Sisi, a week after the previous administration resigned following a corruption scandal, and a month before parliamentary elections. The 33-member body has 16 new ministers, including two women. Sherif Ismail, petroleum minister in the last cabinet, is the new prime minister. ](/news/2015/09/19/egypt-s-new-cabinet-is-sworn-in-before-president-abdel-fattah-el-sisi-a-week-after-the-previous-administration-resigned-following-a-corrupt.md)
 Egypt&#039;s new Cabinet was sworn in before President Abdel Fattah al-Sisi at the Presidential Palace Saturday morning. Headed by former petroleum minister Sherif Ismail, the new Cabinet saw 16 replacements and includes 33 portfolios, down from 36 in the previous line-up. The ministries of health a...
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Hungarian security forces confiscate a Croatian train carrying 1000 migrants and disarm 40 Croatian police officers accompanying the migrants. Hungarian authorities repatriate the officers. ](/news/2015/09/19/hungarian-security-forces-confiscate-a-croatian-train-carrying-1000-migrants-and-disarm-40-croatian-police-officers-accompanying-the-migrant.md)
 Hungary accuses Croatia of &quot;human smuggling&quot; as its neighbour refuses to stop sending people back across the border.
 
@@ -23,7 +23,7 @@ _Context: Diet, Japan, Japanese Self-Defense Forces, lower chamber_
 ### [Authorities in the Dominican Republic issue an alert as the number of deaths (57 this year) and cases of dengue fever continue to rise. ](/news/2015/09/19/authorities-in-the-dominican-republic-issue-an-alert-as-the-number-of-deaths-57-this-year-and-cases-of-dengue-fever-continue-to-rise.md)
 The Delhi government has ordered deferring all planned surgeries to facilitate addition of 1,000 beds to dengue wards in all state-run hospitals by Sunday
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Italy rescues thousands of refugees in the Mediterranean Sea off the coast of Libya. ](/news/2015/09/19/italy-rescues-thousands-of-refugees-in-the-mediterranean-sea-off-the-coast-of-libya.md)
 Italian coastguard, navy, as well as humanitarian agency Doctors Without Borders were involved in the rescue operations.
 

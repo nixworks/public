@@ -17,7 +17,7 @@ Scientists using the Hubble Space Telescope caught sight of Supernova UDS10Wil&#
 
 ##### Banda Aceh
 ### [Thousands of demonstrators rally in Banda Aceh, the capital of Indonesia's Aceh province, in support of local leaders' bid to adopt a separatist flag as the staunchly Islamic province's official emblem. ](/news/2013/04/4/thousands-of-demonstrators-rally-in-banda-aceh-the-capital-of-indonesia-s-aceh-province-in-support-of-local-leaders-bid-to-adopt-a-separa.md)
-_Context: Aceh, Banda Aceh, Indonesia, Islam, emblem, separatist_
+_Context: Aceh, Banda Aceh, Indonesia, Muslim, emblem, separatist_
 
 ##### Jackson
 ### [In Jackson, Mississippi, Jeremy Powell, 23, a suspect in the stabbing death of a 20-year-old male, and Eric Smith, a Jackson Police Department homicide detective, who had been conducting the police interview with Powell, are found dead in a 3rd floor room of the department, according to Jackson Police Chief Rebecca Coleman. ](/news/2013/04/4/in-jackson-mississippi-jeremy-powell-23-a-suspect-in-the-stabbing-death-of-a-20-year-old-male-and-eric-smith-a-jackson-police-departme.md)

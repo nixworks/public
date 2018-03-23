@@ -11,9 +11,9 @@ _Context: James Mattis, Sexual orientation and gender identity in the United Sta
 ### [The Landtag of the Free State of Saxony has lifted the immunity of Frauke Petry, Party Chair in the Alternative for Germany party, opening the way for prosecutors to pursue possible perjury charges against her concerning statements made to a committee of the Saxony parliament about how the party's campaign for the 2014 election was financed. ](/news/2017/08/29/the-landtag-of-the-free-state-of-saxony-has-lifted-the-immunity-of-frauke-petry-party-chair-in-the-alternative-for-germany-party-opening-t.md)
 A regional parliament has lifted the immunity of the best known politician in the anti-immigration Alternative for Germany (AfD) party, opening the way for prosecutors to pursue possible perjury charges against her.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [The Libyan Navy rescues nearly 500 migrants in three operations in the seas west of the capital Tripoli. ](/news/2017/08/29/the-libyan-navy-rescues-nearly-500-migrants-in-three-operations-in-the-seas-west-of-the-capital-tripoli.md)
-_Context: European migrant crisis, Libyan Navy, Tripoli_
+_Context: Libyan Navy, Tripoli, refugee immigration to Germany_
 
 ##### 2017 clashes at the Turkish Ambassador's Residence in Washington, D.C.
 ### [A grand jury in Washington, D.C. has issued indictments for 19 people, including 15 identified as Turkish security officials, for attacking protesters in May 2017. ](/news/2017/08/29/a-grand-jury-in-washington-d-c-has-issued-indictments-for-19-people-including-15-identified-as-turkish-security-officials-for-attacking.md)

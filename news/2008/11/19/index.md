@@ -21,7 +21,7 @@ Australian and New Zealand researchers have used ancient DNA to identify a previ
 
 ##### India
 ### [ The Indian Navy frigate INS "Tabar" destroys a pirate ship and forces the abandonment of another pirate vessel off the coast of Somalia. ](/news/2008/11/19/the-indian-navy-frigate-ins-tabar-destroys-a-pirate-ship-and-forces-the-abandonment-of-another-pirate-vessel-off-the-coast-of-somalia.md)
-_Context: INS ''Tabar'', India, Indian Navy, Somalia, frigate_
+_Context: INS ''Tabar'', India, Indian Navy, Somali, frigate_
 
 ##### Amnesty International
 ### [ Amnesty International's report on the 2008 South Ossetia war highlights Georgia's role as aggressor and notes evidence of "notoriously inaccurate" Georgian artillery fire resulting in "scores" of civilian deaths in South Ossetia, of aimed artillery fire at Russian peacekeepers base, and of Russian failure to provide defense to civilians during the conflict. ](/news/2008/11/19/amnesty-international-s-report-on-the-2008-south-ossetia-war-highlights-georgia-s-role-as-aggressor-and-notes-evidence-of-notoriously-inac.md)

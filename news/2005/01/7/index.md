@@ -11,9 +11,9 @@ _Context: 1964, American Civil Rights Movement, Edgar Ray Killen, Mississippi Bu
 ### [ Chilean officials search the offices of Augusto Pinochet and investigate his U.S. bank accounts. ](/news/2005/01/7/chilean-officials-search-the-offices-of-augusto-pinochet-and-investigate-his-u-s-bank-accounts.md)
 _Context: Augusto Pinochet, Chile_
 
-##### Ukraine
+##### Ukrainian
 ### [ The Ukrainian Supreme Court rejects Viktor Yanukovych's appeal against the electoral commission's decision that he lost the presidential election. ](/news/2005/01/7/the-ukrainian-supreme-court-rejects-viktor-yanukovych-s-appeal-against-the-electoral-commission-s-decision-that-he-lost-the-presidential-el.md)
-_Context: Ukraine, Viktor Yanukovych_
+_Context: Ukrainian, Viktor Yanukovych_
 
 ##### Infant formula
 ### [ The People's Republic of China jails five people for eight years for selling fake infant formula, which has caused the deaths of at least 13 infants and illness in 189. ](/news/2005/01/7/the-people-s-republic-of-china-jails-five-people-for-eight-years-for-selling-fake-infant-formula-which-has-caused-the-deaths-of-at-least-1.md)

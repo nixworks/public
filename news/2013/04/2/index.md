@@ -23,7 +23,7 @@ _Context: Omar al-Bashir, President of Sudan, Sudan, political prisoners_
 ### [Opposition activists from the Bangladesh Nationalist Party and its allies detonate small homemade bombs and set fire to several vehicles in the latest anti-government protest to hit Dhaka, Bangladesh. ](/news/2013/04/2/opposition-activists-from-the-bangladesh-nationalist-party-and-its-allies-detonate-small-homemade-bombs-and-set-fire-to-several-vehicles-in.md)
 Opposition activists have detonated small homemade bombs and set fire to several vehicles in capital Dhaka.
 
-##### Cypriot
+##### Cyprus
 ### [Cyprus Finance Minister Michael Sarris resigns after completing talks on a controversial bailout deal and will be replaced by current Labour Minister Charis Georgiades. ](/news/2013/04/2/cyprus-finance-minister-michael-sarris-resigns-after-completing-talks-on-a-controversial-bailout-deal-and-will-be-replaced-by-current-labour.md)
 Cypriot Finance Minister Michalis Sarris resigns after completing talks on a controversial bailout deal.
 

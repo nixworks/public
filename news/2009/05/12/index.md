@@ -9,7 +9,7 @@ _Context: Human Rights Council, United Nations, United States_
 
 ##### Declares
 ### [ Combat between the government and the Islamic Courts Union kills at least 123 people in Mogadishu, Somalia. ](/news/2009/05/12/combat-between-the-government-and-the-islamic-courts-union-kills-at-least-123-people-in-mogadishu-somalia.md)
-_Context: Islamic Courts Union, Mogadishu, Somalia, Transitional Federal Government, declares_
+_Context: Islamic Courts Union, Mogadishu, Somali, Transitional Federal Government, declares_
 
 ##### Nazi
 ### [ Suspected Nazi death-camp officer John Demjanjuk arrives in Munich, Germany, to begin his trial. ](/news/2009/05/12/suspected-nazi-death-camp-officer-john-demjanjuk-arrives-in-munich-germany-to-begin-his-trial.md)

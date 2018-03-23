@@ -13,7 +13,7 @@ _Context: Washington D.C._
 
 ##### War in Afghanistan (2001-present)
 ### [ Conflict in Afghanistan: 5 US soldiers die when a Chinook helicopter crashes in Zabul, southern Afghanistan. ](/news/2005/09/25/conflict-in-afghanistan-5-us-soldiers-die-when-a-chinook-helicopter-crashes-in-zabul-southern-afghanistan.md)
-_Context: Afghanistan, CH-47 Chinook, US soldiers, War in Afghanistan (2001-present), Zabul_
+_Context: Afghan, CH-47 Chinook, US soldiers, War in Afghanistan (2001-present), Zabul_
 
 ##### Shia
 ### [ At least four Shia Muslims, believed to be members of the Mahdi Army are killed by US soldiers in a gunfight following a U.S. raid into Sadr City, eastern Baghdad. ](/news/2005/09/25/at-least-four-shia-muslims-believed-to-be-members-of-the-mahdi-army-are-killed-by-us-soldiers-in-a-gunfight-following-a-u-s-raid-into-sad.md)
@@ -25,7 +25,7 @@ _Context: 2011, European Union, Swiss, referendum_
 
 ##### Polish parliamentary election, 2005
 ### [ Polish parliamentary election, 2005: As predicted by polls, support for Prime Minister Marek Belka's post-communist Alliance of the Democratic Left drops sharply to about 11%, while center-right opposition parties Law and Justice and Civic Platform will obtain about 28% and 26%, respectively. ](/news/2005/09/25/polish-parliamentary-election-2005-as-predicted-by-polls-support-for-prime-minister-marek-belka-s-post-communist-alliance-of-the-democra.md)
-_Context: Alliance of the Democratic Left, Civic Platform, PiS, Polish parliamentary election, 2005_
+_Context: Alliance of the Democratic Left, Civic Platform, Law and Justice, Polish parliamentary election, 2005_
 
 ##### Renault
 ### [ Renault driver Fernando Alonso becomes the youngest ever Formula One champion when finishing 3rd behind McLaren rivals Juan Pablo Montoya and Kimi Raikkonen in the 2005 Brazilian Grand Prix ](/news/2005/09/25/renault-driver-fernando-alonso-becomes-the-youngest-ever-formula-one-champion-when-finishing-3rd-behind-mclaren-rivals-juan-pablo-montoya-a.md)

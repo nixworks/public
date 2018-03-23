@@ -35,7 +35,7 @@ _Context: Christiana Figueres, climate change_
 ### [European Union leaders unanimously agree on reforms aimed at keeping the United Kingdom in the 28-nation bloc before the country's scheduled June 23, 2016, referendum on continuing EU membership. ](/news/2016/02/19/european-union-leaders-unanimously-agree-on-reforms-aimed-at-keeping-the-united-kingdom-in-the-28-nation-bloc-before-the-country-s-scheduled.md)
 David Cameron hailed a landmark deal on Friday he said gave Britain &quot;special status&quot; in the European Union and pledged to campaign heart and soul to stay in the EU at a deeply uncertain referendum expected in June.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Serbia closes its southern border with Macedonia to migrants from countries not affected by war as part of measures to prevent illegal immigration. ](/news/2016/02/19/serbia-closes-its-southern-border-with-macedonia-to-migrants-from-countries-not-affected-by-war-as-part-of-measures-to-prevent-illegal-immig.md)
 Serbia has closed its border with Macedonia to unregistered refugees, imposing stricter border controls for the purpose of preventing illegal migration, local state TV reported citing officials.
 

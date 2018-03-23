@@ -25,7 +25,7 @@ Barack Obama rejected John McCain’s call to halt the campaign for president du
 
 ##### Islamist
 ### [ At least 17 civilians are killed in battles between Islamist militants and African Union peacekeepers in the Somali capital Mogadishu. ](/news/2008/09/24/at-least-17-civilians-are-killed-in-battles-between-islamist-militants-and-african-union-peacekeepers-in-the-somali-capital-mogadishu.md)
-_Context: African Union, Islamist, Mogadishu, Somalia, militant_
+_Context: African Union, Islamist, Mogadishu, Somali, militant_
 
 ## [Previous Day...](/news/2008/09/23/index.md)
 

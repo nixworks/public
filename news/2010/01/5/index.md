@@ -53,7 +53,7 @@ _Context: Berkshire Hathaway Inc., Cadbury, Kraft Foods, Warren Buffett_
 
 ##### World Food Programme
 ### [The World Food Programme suspends its operations in southern Somalia due to rising instability in the region. ](/news/2010/01/5/the-world-food-programme-suspends-its-operations-in-southern-somalia-due-to-rising-instability-in-the-region.md)
-_Context: Somalia, World Food Programme_
+_Context: Somali, World Food Programme_
 
 ##### Facebook
 ### [Facebook blocks a social network suicide website. ](/news/2010/01/5/facebook-blocks-a-social-network-suicide-website.md)
@@ -61,7 +61,7 @@ _Context: Facebook, social network_
 
 ##### Suicide bomber
 ### [The suicide bomber from Jordan, Humam Khalil Abu-Mulal al-Balawi, who killed seven CIA agents in Afghanistan, is reported to be an al-Qaeda triple agent. ](/news/2010/01/5/the-suicide-bomber-from-jordan-humam-khalil-abu-mulal-al-balawi-who-killed-seven-cia-agents-in-afghanistan-is-reported-to-be-an-al-qaeda.md)
-_Context: Afghanistan, CIA, Humam Khalil Abu-Mulal al-Balawi, Jordan, al-Qaeda, killed, suicide bomber_
+_Context: Afghan, CIA, Humam Khalil Abu-Mulal al-Balawi, Jordan, al-Qaeda, killed, suicide bomber_
 
 ##### Yemen
 ### [The Yemeni government launches campaigns in three provinces to battle Al-Qaeda fighters. ](/news/2010/01/5/the-yemeni-government-launches-campaigns-in-three-provinces-to-battle-al-qaeda-fighters.md)

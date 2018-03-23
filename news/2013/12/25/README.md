@@ -29,7 +29,7 @@ Two bombs near a Catholic church and a market in Baghdad kill at least 35 people
 
 ##### Tetiana Chornovol
 ### [Tetiana Chornovol, an Ukrainian civic activist and journalist, is dragged from her car and beaten by a group of men. Authorities say that this is the latest attack on government opponents. ](/news/2013/12/25/tetiana-chornovol-an-ukrainian-civic-activist-and-journalist-is-dragged-from-her-car-and-beaten-by-a-group-of-men-authorities-say-that-th.md)
-_Context: Tetiana Chornovol, Ukraine_
+_Context: Tetiana Chornovol, Ukrainian_
 
 ## [Previous Day...](/news/2013/12/24/index.md)
 

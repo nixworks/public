@@ -3,9 +3,9 @@ Formats: [HTML](2005/03/31/index.html)  [JSON](2005/03/31/index.json)  [XML](200
 
 ## [2005-03-31](/news/2005/03/31/index.md)
 
-##### Ukraine
+##### Ukrainian
 ### [ In Ukraine, security service states that the death of former interior minister Yuri Kravchenko was probably suicide ](/news/2005/03/31/in-ukraine-security-service-states-that-the-death-of-former-interior-minister-yuri-kravchenko-was-probably-suicide.md)
-_Context: Ukraine, Yuri Kravchenko_
+_Context: Ukrainian, Yuri Kravchenko_
 
 ##### Pakistan
 ### [ In Pakistan, Pakistan Oppressed Nations Movement organizes partial strikes in various cities to protest over Punjabi influence in the country ](/news/2005/03/31/in-pakistan-pakistan-oppressed-nations-movement-organizes-partial-strikes-in-various-cities-to-protest-over-punjabi-influence-in-the-count.md)

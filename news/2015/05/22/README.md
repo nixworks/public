@@ -7,7 +7,7 @@ Formats: [HTML](2015/05/22/index.html)  [JSON](2015/05/22/index.json)  [XML](201
 ### ["Science" publishes a series of papers on biodiversity in the deep sea, including tens of thousands of single-celled organisms most of which had not been previously identified. ](/news/2015/05/22/science-publishes-a-series-of-papers-on-biodiversity-in-the-deep-sea-including-tens-of-thousands-of-single-celled-organisms-most-of-which.md)
 _Context: Science, biodiversity, single-celled organism_
 
-##### United States Senate
+##### Senate
 ### [The United States Senate passes legislation to allow President Barack Obama to fast track trade negotiations with other countries. ](/news/2015/05/22/the-united-states-senate-passes-legislation-to-allow-president-barack-obama-to-fast-track-trade-negotiations-with-other-countries.md)
 Get up to the minute breaking political news and in-depth analysis on ABCNews.com.
 

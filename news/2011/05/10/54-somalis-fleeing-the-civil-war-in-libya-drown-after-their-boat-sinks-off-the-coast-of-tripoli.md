@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/10/54-somalis-fleeing-the-civil-war-in-libya-drown
 
 ### [2011-05-10](/news/2011/05/10/index.md)
 
-##### Somalia
+##### Somali
 # 54 Somalis fleeing the civil war in Libya drown after their boat sinks off the coast of Tripoli. 
 
 Fifty-four Somalis fleeing the Libyan war are believed dead after an crowded boat capsized off Tripoli, the Somali ambassador said Tuesday.

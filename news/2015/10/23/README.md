@@ -19,7 +19,7 @@ The withdrawal of Lincoln Chafee caps a winnowing week for the Democratic conten
 ### [Nineteen-year old Cameron Selmon died during last night's shooting on the Tennessee State University campus when a fight erupted during a dice game, in which a player pulled out a gun and started firing. One of the three injured 18-year-old female students remains hospitalized. The suspect fled the scene on foot and is still at large. The school is closed today but will re-open with Monday classes. ](/news/2015/10/23/nineteen-year-old-cameron-selmon-died-during-last-night-s-shooting-on-the-tennessee-state-university-campus-when-a-fight-erupted-during-a-di.md)
 Mayor Megan Barry pledged to repair the damage violence had done on TSU’s campus and the surrounding neighborhood.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Police in Bamberg, Germany arrested three people said to be involved in a far-right extremist terror plot to attack refugee shelters, shelter staff and public officials supportive of refugees. ](/news/2015/10/23/police-in-bamberg-germany-arrested-three-people-said-to-be-involved-in-a-far-right-extremist-terror-plot-to-attack-refugee-shelters-shelte.md)
 The discovery comes as a leaked police report suggests far-Right nationalists could attackc refugees as well as political leaders supportive of them
 

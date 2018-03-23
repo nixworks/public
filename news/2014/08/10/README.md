@@ -3,7 +3,7 @@ Formats: [HTML](2014/08/10/index.html)  [JSON](2014/08/10/index.json)  [XML](201
 
 ## [2014-08-10](/news/2014/08/10/index.md)
 
-##### Turkish
+##### Turkey
 ### [Voters in Turkey go to the polls for the first round of voting in a presidential election with current Prime Minister Recep Tayyip Erdogan poised for a first round victory. ](/news/2014/08/10/voters-in-turkey-go-to-the-polls-for-the-first-round-of-voting-in-a-presidential-election-with-current-prime-minister-recep-tayyip-erdoaan.md)
 Prime Minister Recep Tayyip Erdogan was set to be Turkey&#039;s next president after local media credited the veteran prime minister with more than half the vote with nearly all the ballots counted.
 

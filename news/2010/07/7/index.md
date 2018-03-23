@@ -33,7 +33,7 @@ When Pete Bethune&#039;s family in Auckland heard the New Zealand environmental 
 
 ##### France
 ### [French prosecutors launch an investigation into alleged illegal campaign funding for French President Nicolas Sarkozy. ](/news/2010/07/7/french-prosecutors-launch-an-investigation-into-alleged-illegal-campaign-funding-for-french-president-nicolas-sarkozy.md)
-_Context: France, French President, Nicolas Sarkozy_
+_Context: France, Nicolas Sarkozy, President of France_
 
 ##### Human Rights Watch
 ### [Human Rights Watch calls on Iran to stop the execution of Sakineh Mohammadi Ashtiani, a woman convicted of adultery. She denies the charges. ](/news/2010/07/7/human-rights-watch-calls-on-iran-to-stop-the-execution-of-sakineh-mohammadi-ashtiani-a-woman-convicted-of-adultery-she-denies-the-charges.md)
@@ -93,7 +93,7 @@ _Context: Brazil, Bruno Fernandes de Souza_
 
 ##### UK
 ### [The United Kingdom is to hand over responsibility for Afghanistan's Sangin area to the United States. ](/news/2010/07/7/the-united-kingdom-is-to-hand-over-responsibility-for-afghanistan-s-sangin-area-to-the-united-states.md)
-_Context: Afghanistan, Sangin, UK, United States_
+_Context: Afghan, Sangin, UK, United States_
 
 ##### Norwegian
 ### [A Norwegian asylum centre burns to the ground during protests at conditions at the facility. ](/news/2010/07/7/a-norwegian-asylum-centre-burns-to-the-ground-during-protests-at-conditions-at-the-facility.md)

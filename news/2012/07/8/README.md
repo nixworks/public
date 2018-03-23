@@ -17,7 +17,7 @@ _Context: Fishers, Indiana, Greater Indianapolis, Greenfield, Indiana, child neg
 
 ##### Taliban
 ### [Taliban gunmen shoot a woman accused of adultery to death while men watching the execution cheer, in a village near Kabul, Afghanistan. ](/news/2012/07/8/taliban-gunmen-shoot-a-woman-accused-of-adultery-to-death-while-men-watching-the-execution-cheer-in-a-village-near-kabul-afghanistan.md)
-_Context: Afghanistan, Kabul, Taliban, woman accused of adultery_
+_Context: Afghan, Kabul, Taliban, woman accused of adultery_
 
 ##### Anti-China
 ### [Anti-China protests take place in Vietnam amid tensions over the disputed Spratly Islands part of the South China Sea dispute. ](/news/2012/07/8/anti-china-protests-take-place-in-vietnam-amid-tensions-over-the-disputed-spratly-islands-part-of-the-south-china-sea-dispute.md)
@@ -41,7 +41,7 @@ Six NATO soldiers were killed by a roadside bomb in eastern Afghanistan on Sunda
 
 ##### Car bomb
 ### [Roadside car bombs kill 14 civilians travelling in two vehicles in Afghanistan's Kandahar Province. ](/news/2012/07/8/roadside-car-bombs-kill-14-civilians-travelling-in-two-vehicles-in-afghanistan-s-kandahar-province.md)
-_Context: Afghanistan, Kandahar Province, car bomb_
+_Context: Afghan, Kandahar Province, car bomb_
 
 ##### M23
 ### [Rebels from the March 23 Movement seize three more towns in eastern Democratic Republic of the Congo. ](/news/2012/07/8/rebels-from-the-march-23-movement-seize-three-more-towns-in-eastern-democratic-republic-of-the-congo.md)

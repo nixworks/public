@@ -75,7 +75,7 @@ Video footage recorded at Osama bin Laden&#39;s compound in Abbottabad, Pakistan
 ### [Al Qaeda in the Islamic Maghreb denies responsibility for a bomb attack on a Marrakesh cafe that killed 16 people on April 28. ](/news/2011/05/7/al-qaeda-in-the-islamic-maghreb-denies-responsibility-for-a-bomb-attack-on-a-marrakesh-cafe-that-killed-16-people-on-april-28.md)
 Al Qaeda in the Islamic Maghreb (AQIM) denied Saturday it was involved in a bomb attack on a cafe in Marrakesh last week that killed 17 people including eight French nationals.
 
-##### Afghanistan
+##### Afghan
 ### [Gunmen attack the compound of the Governor of Afghanistan's Kandahar Province and other facilities in the city of Kandahar with two dead and 29 injured. ](/news/2011/05/7/gunmen-attack-the-compound-of-the-governor-of-afghanistan-s-kandahar-province-and-other-facilities-in-the-city-of-kandahar-with-two-dead-and.md)
 The&#x20;Taliban&#x20;claimed&#x20;responsibility&#x20;for&#x20;a&#x20;wave&#x20;of&#x20;coordinated&#x20;attacks&#x20;targeting&#x20;government&#x20;buildings&#x20;in&#x20;the&#x20;key&#x20;Afghan&#x20;city&#x20;of&#x20;Kandahar&#x20;on&#x20;Saturday,&#x20;which&#x20;has&#x20;left&#x20;at&#x20;leas...
 

@@ -39,7 +39,7 @@ The US exempts seven countries, including India and South Korea, from economic s
 ### [The U.S. withdraws a team of negotiators from Pakistan, with The Pentagon announcing: "The decision was reached to bring the team home for a short period of time". ](/news/2012/06/11/the-u-s-withdraws-a-team-of-negotiators-from-pakistan-with-the-pentagon-announcing-the-decision-was-reached-to-bring-the-team-home-for-a.md)
 The US temporarily pulls out of talks with Pakistan over re-opening vital supply routes to the Nato-led forces in Afghanistan.
 
-##### Al-Shabaab
+##### Al-Shabab
 ### [Al-Shabaab offers a reward of 10 camels for information about the whereabouts of Barack Obama and chickens for information on Hillary Clinton in response to the U.S. announcement of rewards of $3-7 million for various militant commanders. ](/news/2012/06/11/al-shabaab-offers-a-reward-of-10-camels-for-information-about-the-whereabouts-of-barack-obama-and-chickens-for-information-on-hillary-clinto.md)
 The US threatens sanctions on Somalis who block a UN-supervised roadmap for peace, after a rare visit to Somalia by a top US envoy.
 

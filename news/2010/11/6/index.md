@@ -33,7 +33,7 @@ F1 champion Jenson Button praises the actions of his police driver after armed m
 
 ##### Yemen
 ### [A judge in Yemen orders the capture of militant Islamic cleric Anwar al-Awlaki to face charges of "forming an armed gang". ](/news/2010/11/6/a-judge-in-yemen-orders-the-capture-of-militant-islamic-cleric-anwar-al-awlaki-to-face-charges-of-forming-an-armed-gang.md)
-_Context: Anwar al-Awlaki, Islam, Yemen_
+_Context: Anwar al-Awlaki, Muslim, Yemen_
 
 ##### Northern Ireland
 ### [Three Northern Ireland police officers are injured after a bomb is thrown at them while investigating a robbery in West Belfast. ](/news/2010/11/6/three-northern-ireland-police-officers-are-injured-after-a-bomb-is-thrown-at-them-while-investigating-a-robbery-in-west-belfast.md)

@@ -37,7 +37,7 @@ _Context: DR Congo, Tshuapa River_
 
 ##### Famine
 ### [2011 Horn of Africa famine: African Union peacekeepers launch a major offensive against Al-Shabaab militants in Mogadishu, Somalia, in order to reduce threats to relief efforts. ](/news/2011/07/28/2011-horn-of-africa-famine-african-union-peacekeepers-launch-a-major-offensive-against-al-shabaab-militants-in-mogadishu-somalia-in-order.md)
-_Context: African Union, Al-Shabaab, Mogadishu, famine_
+_Context: African Union, Al-Shabab, Mogadishu, famine_
 
 ##### Bogra District
 ### [At least 17 people are killed and 30 injured after a truck collides with a bus in the Bogra District of Bangladesh. ](/news/2011/07/28/at-least-17-people-are-killed-and-30-injured-after-a-truck-collides-with-a-bus-in-the-bogra-district-of-bangladesh.md)

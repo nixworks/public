@@ -9,7 +9,7 @@ Kevin Faulconer’s victory will make San Diego the largest city run by a Republ
 
 ##### Republican
 ### [The Republican Party-controlled U.S. House of Representatives votes to raise the government's borrowing limit for the next year, without attaching conditions, and sends the measure to the Senate for approval. ](/news/2014/02/11/the-republican-party-controlled-u-s-house-of-representatives-votes-to-raise-the-government-s-borrowing-limit-for-the-next-year-without-att.md)
-_Context: Republican, U.S. House of Representatives, U.S. debt limit, United States Senate_
+_Context: Republican, Senate, U.S. House of Representatives, U.S. debt limit_
 
 ##### Arleigh Burke-class
 ### [The Arleigh Burke-class missile destroyer USS Donald Cook of the U.S. Navy arrives at a Spanish base in Rota to begin deployment with the U.S. 6th Fleet. ](/news/2014/02/11/the-arleigh-burke-class-missile-destroyer-uss-donald-cook-of-the-u-s-navy-arrives-at-a-spanish-base-in-rota-to-begin-deployment-with-the-u.md)

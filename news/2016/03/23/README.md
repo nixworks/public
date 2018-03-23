@@ -23,7 +23,7 @@ For the fourth time in five years, the justices consider a requirement of the Af
 ### [Passengers are evacuated from the south domestic terminal at Hartsfield-Jackson Atlanta International Airport in the U.S. state of Georgia after a suspicious package is found. The package is declared safe by a bomb squad. ](/news/2016/03/23/passengers-are-evacuated-from-the-south-domestic-terminal-at-hartsfieldajackson-atlanta-international-airport-in-the-u-s-state-of-georgia.md)
 Atlanta police say passengers who were evacuated from a terminal at Atlanta&#39;s airport are now being allowed back in after a bomb squad investigated and cleared a suspicious package.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Medecins Sans Frontieres (Doctors Without Borders) and the UN refugee agency, UNHCR, announce they are withdrawing from the so-called hotspots on the Greek islands because of the new EU-Turkey deal. UNHCR's Melissa Fleming says, "Under the new provisions, these sites (hotspots) have now become detention facilities." MSF's Marie Elisabeth Ingres says, "We will not allow our assistance to be instrumentalized (sic) for a mass expulsion operation, and we refuse to be part of a system that has no regard for the humanitarian or protection needs of asylum seekers and migrants." ](/news/2016/03/23/ma-c-decins-sans-frontia-res-doctors-without-borders-and-the-un-refugee-agency-unhcr-announce-they-are-withdrawing-from-the-so-called-hots.md)
 &quot;We refuse to be part of a system that has no regard for humanitarian or protection needs.&quot;
 

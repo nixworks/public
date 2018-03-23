@@ -3,9 +3,9 @@ Formats: [HTML](2014/10/14/index.html)  [JSON](2014/10/14/index.json)  [XML](201
 
 ## [2014-10-14](/news/2014/10/14/index.md)
 
-##### President of the Generalitat of Catalonia
+##### President of the Generalitat
 ### [The President of the Generalitat of Catalonia, Artur Mas i Gavarro, drops plans for a referendum on independence on November 9 from Spain following opposition from the Constitutional Court of Spain. ](/news/2014/10/14/the-president-of-the-generalitat-of-catalonia-artur-mas-i-gavarra3-drops-plans-for-a-referendum-on-independence-on-november-9-from-spain-f.md)
-_Context: Artur Mas i Gavarro, Constitutional Court, President of the Generalitat of Catalonia, Spanish_
+_Context: Artur Mas i Gavarro, Constitutional Court, President of the Generalitat, Spanish_
 
 ##### Schizophrenia
 ### [A woman suffering from schizophrenia stabbed three students and a police negotiator at a secondary school in Zdar nad Sazavou, Czech Republic. A 16-year-old boy died due to his injuries. ](/news/2014/10/14/a-woman-suffering-from-schizophrenia-stabbed-three-students-and-a-police-negotiator-at-a-secondary-school-in-a1-2aa-r-nad-sa-zavou-czech-rep.md)

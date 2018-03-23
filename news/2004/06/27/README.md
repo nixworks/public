@@ -13,11 +13,11 @@ _Context: Gaza Strip, Israel, Palestinians_
 
 ##### Iraqi insurgent
 ### [ Iraqi insurgents kidnap three Turkish citizens and threaten to decapitate them. ](/news/2004/06/27/iraqi-insurgents-kidnap-three-turkish-citizens-and-threaten-to-decapitate-them.md)
-_Context: Iraqi insurgent, Turkish, beheaded_
+_Context: Iraqi insurgent, Turkey, beheaded_
 
 ##### Taliban
 ### [ The Taliban kill 16 Afghans after stopping a bus and forcing the sixteen to alight, possibly to get the victims' voter registration cards for elections scheduled in September of this year. ](/news/2004/06/27/the-taliban-kill-16-afghans-after-stopping-a-bus-and-forcing-the-sixteen-to-alight-possibly-to-get-the-victims-voter-registration-cards-f.md)
-_Context: Afghanistan, Taliban, voter_
+_Context: Afghan, Taliban, voter_
 
 ##### 2004 Lithuanian presidential election
 ### [ In the 2004 Lithuanian presidential election, Valdas Adamkus wins in the run-off against Kazimiera Prunskiene, with 52.1% to 47.8% of votes ](/news/2004/06/27/in-the-2004-lithuanian-presidential-election-valdas-adamkus-wins-in-the-run-off-against-kazimiera-prunskiene-with-52-1-to-47-8-of-votes.md)

@@ -15,9 +15,9 @@ Cambodian military commanders have reportedly agreed to release 13 Thai troops c
 ### [ A bridge under construction for the Delhi Mass Rapid Transit System in East Delhi collapses, killing 1 and leaving at least 9 injured. ](/news/2008/10/19/a-bridge-under-construction-for-the-delhi-mass-rapid-transit-system-in-east-delhi-collapses-killing-1-and-leaving-at-least-9-injured.md)
 _Context: Delhi Mass Rapid Transit System, East Delhi_
 
-##### Afghanistan
+##### Afghan
 ### [ Afghan officials claim that the Taliban has executed as many as 30 of 50 people captured on a bus in Kandahar Province. ](/news/2008/10/19/afghan-officials-claim-that-the-taliban-has-executed-as-many-as-30-of-50-people-captured-on-a-bus-in-kandahar-province.md)
-_Context: Afghanistan, Kandahar Province, Taliban_
+_Context: Afghan, Kandahar Province, Taliban_
 
 ## [Previous Day...](/news/2008/10/18/index.md)
 

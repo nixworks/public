@@ -107,9 +107,9 @@ North Korean troops have fired two shots across the border into South Korean ter
 ### [Russian and American forces conduct their first joint anti-narcotics operation in Afghanistan. ](/news/2010/10/29/russian-and-american-forces-conduct-their-first-joint-anti-narcotics-operation-in-afghanistan.md)
 Russian and U.S. special forces have carried out their first joint anti-narcotics operation in Afghanistan that marked the first time Russian security personnel set foot in that country in more than 2
 
-##### Al-Shabaab
+##### Al-Shabab
 ### [Al-Shabaab militants take control of a town on the border between Somalia, Ethiopia and Kenya from pro-government forces, following fighting that displaced 60,000 people. ](/news/2010/10/29/al-shabaab-militants-take-control-of-a-town-on-the-border-between-somalia-ethiopia-and-kenya-from-pro-government-forces-following-fighting.md)
-_Context: Al-Shabaab, Ethiopia, Kenya, Somalia_
+_Context: Al-Shabab, Ethiopia, Kenya, Somali_
 
 ##### Nigeria
 ### [Saboteurs attack an oil pipeline in Nigeria's Niger Delta, shutting in 4,000 barrels a day of crude oil production. ](/news/2010/10/29/saboteurs-attack-an-oil-pipeline-in-nigeria-s-niger-delta-shutting-in-4-000-barrels-a-day-of-crude-oil-production.md)

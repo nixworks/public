@@ -17,7 +17,7 @@ _Context: Fiji, Fiji crisis of 2005-2006, Voreqe Bainimarama_
 
 ##### NATO
 ### [ One NATO soldier and 57 insurgents are killed in fighting in southern Afghanistan. ](/news/2006/11/26/one-nato-soldier-and-57-insurgents-are-killed-in-fighting-in-southern-afghanistan.md)
-_Context: Afghanistan, NATO_
+_Context: Afghan, NATO_
 
 ##### Ceasefire
 ### [ A ceasefire commences between Israeli and Palestinian fighters in the Gaza Strip. It followed negotiations between the Palestinian President Mahmoud Abbas and Israeli Prime Minister Ehud Olmert. ](/news/2006/11/26/a-ceasefire-commences-between-israeli-and-palestinian-fighters-in-the-gaza-strip-it-followed-negotiations-between-the-palestinian-presiden.md)
@@ -37,7 +37,7 @@ _Context: Abeche, Chad_
 
 ##### Somali Civil War
 ### [ Somali Civil War: The Islamic Courts Union that controls much of southern Somalia has dispatched thousands of troops to within 15km of the border with Ethiopia. ](/news/2006/11/26/somali-civil-war-the-islamic-courts-union-that-controls-much-of-southern-somalia-has-dispatched-thousands-of-troops-to-within-15km-of-the.md)
-_Context: Ethiopia, Islamic Courts Union, Somali Civil War, Somalia_
+_Context: Ethiopia, Islamic Courts Union, Somali, Somali Civil War_
 
 ## [Previous Day...](/news/2006/11/25/index.md)
 

@@ -11,7 +11,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [Malcolm Turnbull is sworn in as the Prime Minister of Australia following his election to the leadership of the Liberal Party of Australia. ](/news/2015/09/15/malcolm-turnbull-is-sworn-in-as-the-prime-minister-of-australia-following-his-election-to-the-leadership-of-the-liberal-party-of-australia.md)
 Malcolm Turnbull is officially sworn in as Australia&#039;s 29th Prime Minister after ousting Tony Abbott in a late-night coup.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Hungary declares a state of emergency in two of its southeastern counties as tougher laws come into effect aimed at preventing asylum-seekers and other migrants from entering the country. ](/news/2015/09/15/hungary-declares-a-state-of-emergency-in-two-of-its-southeastern-counties-as-tougher-laws-come-into-effect-aimed-at-preventing-asylum-seeker.md)
 Hungary declares a state of emergency in two southern counties as tough new laws to stop migrants entering illegally come into force.
 

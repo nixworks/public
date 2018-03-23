@@ -63,9 +63,9 @@ Hundreds of small investors throw bricks and march in the streets of the Banglad
 ### [Stars appeared at the red carpet closing ceremony of the 7th Dubai International Film Festival. ](/news/2010/12/19/stars-appeared-at-the-red-carpet-closing-ceremony-of-the-7th-dubai-international-film-festival.md)
 _Context: Dubai International Film Festival_
 
-##### Somalia
+##### Somali
 ### [Two rebel groups in Somalia&ndash;al-Shabaab and the Islamic Party&ndash;announce plans to merge to try to topple the UN-backed Transitional Federal Government. ](/news/2010/12/19/two-rebel-groups-in-somalia-ndash-al-shabaab-and-the-islamic-party-ndash-announce-plans-to-merge-to-try-to-topple-the-un-backed-transitional.md)
-_Context: Al-Shabaab, Somalia, Transitional Federal Government, United Nations_
+_Context: Al-Shabab, Somali, Transitional Federal Government, United Nations_
 
 ##### Sri Lanka
 ### [Sri Lanka lifts a ban on a United Nations war crimes panel visiting the country. ](/news/2010/12/19/sri-lanka-lifts-a-ban-on-a-united-nations-war-crimes-panel-visiting-the-country.md)

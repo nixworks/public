@@ -85,7 +85,7 @@ _Context: Northwestern Pakistan, Taliban_
 
 ##### European Commission
 ### [The European Commission recognizes Oleksandr Turchynov as Ukraine's legitimate interim president. ](/news/2014/02/24/the-european-commission-recognizes-oleksandr-turchynov-as-ukraineas-legitimate-interim-president.md)
-_Context: European Commission, Oleksandr Turchynov, Ukraine_
+_Context: European Commission, Oleksandr Turchynov, Ukrainian_
 
 ## [Previous Day...](/news/2014/02/23/index.md)
 

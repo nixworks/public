@@ -61,7 +61,7 @@ _Context: Federal Minister of Justice, German, Holy See, Sabine Leutheusser-Schn
 
 ##### French naval
 ### [The French Navy, supported by European Union aircraft and vessels, seizes 35 suspected pirates in 4 mother ships and 6 little boats off the coast of Somalia in the EU's most successful mission. ](/news/2010/03/8/the-french-navy-supported-by-european-union-aircraft-and-vessels-seizes-35-suspected-pirates-in-4-mother-ships-and-6-little-boats-off-the.md)
-_Context: European Union, French naval, Somalia_
+_Context: European Union, French naval, Somali_
 
 ##### Interpol
 ### [Interpol issues "red notices" for 16 more individuals in connection with the assassination of Mahmoud al-Mabhouh, bringing to 27 the number of people wanted for the assassination. ](/news/2010/03/8/interpol-issues-red-notices-for-16-more-individuals-in-connection-with-the-assassination-of-mahmoud-al-mabhouh-bringing-to-27-the-number.md)
@@ -73,7 +73,7 @@ _Context: France, Iran, Simin Behbahani, Tehran International Airport_
 
 ##### Strong earthquake
 ### [A strong earthquake in Turkey kills dozens. ](/news/2010/03/8/a-strong-earthquake-in-turkey-kills-dozens.md)
-_Context: Turkish, strong earthquake_
+_Context: Turkey, strong earthquake_
 
 ##### New York
 ### [New York politician Eric Massa resigns after admitting to sexual harassment. ](/news/2010/03/8/new-york-politician-eric-massa-resigns-after-admitting-to-sexual-harassment.md)

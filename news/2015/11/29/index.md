@@ -23,7 +23,7 @@ Hundreds of refugees fought each other on Sunday in a mass brawl at a Berlin she
 ### [Conservative MP Philip Davies calls for a crackdown after it was announced up to 100 prisoners serving life sentences in British prisons will be let out of jail at Christmas for a five-day break with their families. Last year a total of 1,347 prison inmates, including 93 lifers, were given leave. The scheme has been defended by Justice Minister MP Andrew Selous but has caused outrage among justice campaigners. ](/news/2015/11/29/conservative-mp-philip-davies-calls-for-a-crackdown-after-it-was-announced-up-to-100-prisoners-serving-life-sentences-in-british-prisons-wil.md)
 UP to 100 prisoners serving life sentences will be let out of jail at Christmas for a five-day break with their families. 
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Turkey agrees with leaders of the European Union to help stem the flow of migrants to Europe in return for cash and visas, and renewal of talks on joining the EU. A key element is 3 billion euros ($3.2 billion) in EU aid for the 2.2 million Syrians now in Turkey. ](/news/2015/11/29/turkey-agrees-with-leaders-of-the-european-union-to-help-stem-the-flow-of-migrants-to-europe-in-return-for-cash-and-visas-and-renewal-of-ta.md)
 Turkey promised to help stem the flow of migrants to Europe in return for cash, visas and renewed talks on joining the EU in a deal struck on Sunday that the Turkish prime minister called a &quot;new beginning&quot; for the uneasy neighbors.
 
@@ -37,7 +37,7 @@ Francis tells people he is ‘pilgrim of peace’ and schedules trip to PK5, kno
 
 ##### 2015 downing
 ### [Turkish Prime Minister Ahmet Davutoglu says the body of the pilot from the Sukhoi Su-24 jet downed this past Tuesday will be handed over to Russia. The body is being treated in accordance with the Orthodox tradition. Russia's military attache is going to Hatay in southern Turkey as part of the procedures to recover the remains. Turkish officials refused to comment on how they came to be in possession of the body. ](/news/2015/11/29/turkish-prime-minister-ahmet-davutoalu-says-the-body-of-the-pilot-from-the-sukhoi-su-24-jet-downed-this-past-tuesday-will-be-handed-over-to.md)
-_Context: 2015 downing, Ahmet Davutoglu, Hatay Province, Russia, Russian, Sukhoi Su-24, Turkish, Turkish Prime Minister_
+_Context: 2015 downing, Ahmet Davutoglu, Hatay Province, Russia, Russian, Sukhoi Su-24, Turkey, Turkish Prime Minister_
 
 ##### South Africa
 ### [A fire in the South African city of Cape Town leaves two people dead and four thousand people homeless. ](/news/2015/11/29/a-fire-in-the-south-african-city-of-cape-town-leaves-two-people-dead-and-four-thousand-people-homeless.md)

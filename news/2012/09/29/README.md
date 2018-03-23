@@ -25,7 +25,7 @@ A vast and well-preserved labyrinth of storehouses, schools and courtyards in Al
 
 ##### Somali Civil War
 ### [Somali Civil War: Al-Shabaab militants withdraw from the Somali port city of Kismayo after Somali and African Union forces launched a coordinated assault on Kismayo on Friday. ](/news/2012/09/29/somali-civil-war-al-shabaab-militants-withdraw-from-the-somali-port-city-of-kismayo-after-somali-and-african-union-forces-launched-a-coordi.md)
-_Context: AMISOM, Al-Shabaab, Battle of Kismayo, Kismayo, Somali Civil War, Somalia, Somalia army soldiers_
+_Context: AMISOM, Al-Shabaab, Battle of Kismayo, Kismayo, Somali, Somali Civil War, Somalia army soldiers_
 
 ## [Previous Day...](/news/2012/09/28/index.md)
 

@@ -9,7 +9,7 @@ Get the latest science news and technology news, read tech reviews and more at A
 
 ##### Republican
 ### [U.S. Republican Party Senators adopt a ban on earmarking, or setting aside money in bills for specific purposes specified by legislators. ](/news/2010/11/16/u-s-republican-party-senators-adopt-a-ban-on-earmarking-or-setting-aside-money-in-bills-for-specific-purposes-specified-by-legislators.md)
-_Context: Republican, United States Senate, earmarking_
+_Context: Republican, Senate, earmarking_
 
 ##### U.S. President
 ### [The President of the United States Barack Obama presents a Medal of Honor, the highest United States military decoration to Staff Sgt Salvatore Giunta at the White House. ](/news/2010/11/16/the-president-of-the-united-states-barack-obama-presents-a-medal-of-honor-the-highest-united-states-military-decoration-to-staff-sgt-salvat.md)

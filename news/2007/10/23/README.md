@@ -11,9 +11,9 @@ _Context: DynCorp International, Iraq, State Department, US$, United States Gove
 ### [ Nike agrees to buy United Kingdom sportswear firm Umbro for GBP285 million. ](/news/2007/10/23/nike-agrees-to-buy-united-kingdom-sportswear-firm-umbro-for-agbp285-million.md)
 _Context: GBP, Nike, Inc., UK, Umbro, sportswear_
 
-##### Somalia
+##### Somali
 ### [ The government of Somalia frees Idris Osman, the head of the World Food Programme in Somalia, after six days in detention. ](/news/2007/10/23/the-government-of-somalia-frees-idris-osman-the-head-of-the-world-food-programme-in-somalia-after-six-days-in-detention.md)
-_Context: Idris Osman, Somalia, World Food Programme_
+_Context: Idris Osman, Somali, World Food Programme_
 
 ##### U.S. President
 ### [ President George W. Bush declares that an "emergency exists" in areas of California and authorises the Federal Emergency Management Agency (FEMA) to coordinate relief. ](/news/2007/10/23/president-george-w-bush-declares-that-an-emergency-exists-in-areas-of-california-and-authorises-the-federal-emergency-management-agency.md)

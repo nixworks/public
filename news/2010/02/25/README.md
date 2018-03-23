@@ -29,7 +29,7 @@ _Context: Bangladesh, Gazipur_
 
 ##### Viktor Yanukovych
 ### [Viktor Yanukovych is sworn in as the as 4th President of Ukraine. ](/news/2010/02/25/viktor-yanukovych-is-sworn-in-as-the-as-4th-president-of-ukraine.md)
-_Context: Ukraine, Ukrainian President, Viktor Yanukovych_
+_Context: Ukrainian, Ukrainian President, Viktor Yanukovych_
 
 ##### Brazil
 ### [Brazilian President Luiz Inacio Lula da Silva tours Haiti to monitor the destruction caused by the recent earthquake and meets President Rene Preval. ](/news/2010/02/25/brazilian-president-luiz-ina-cio-lula-da-silva-tours-haiti-to-monitor-the-destruction-caused-by-the-recent-earthquake-and-meets-president-re.md)
@@ -47,9 +47,9 @@ _Context: Australia, Dubai, Hamas, Israel, Mahmoud al-Mabhouh_
 ### [South Africa announces it has intercepted a ship carrying North Korean arms destined for central Africa, travelling by way of China, in violation of Security Council Resolution 1874. ](/news/2010/02/25/south-africa-announces-it-has-intercepted-a-ship-carrying-north-korean-arms-destined-for-central-africa-travelling-by-way-of-china-in-viol.md)
 _Context: China, North Korea, South Africa, sanctions_
 
-##### Turkish
+##### Turkey
 ### [Turkey's prime minister and president hold talks with the head of the country's armed forces over an investigation into an alleged military coup. ](/news/2010/02/25/turkey-s-prime-minister-and-president-hold-talks-with-the-head-of-the-country-s-armed-forces-over-an-investigation-into-an-alleged-military.md)
-_Context: Turkish, military coup_
+_Context: Turkey, military coup_
 
 ##### Sri Lanka
 ### [Defeated Sri Lanka presidential candidate General Sarath Fonseka is charged with additional counts in addition to treason in the aftermath of his failed election bid. ](/news/2010/02/25/defeated-sri-lanka-presidential-candidate-general-sarath-fonseka-is-charged-with-additional-counts-in-addition-to-treason-in-the-aftermath-o.md)

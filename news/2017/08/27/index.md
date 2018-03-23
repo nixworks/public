@@ -45,7 +45,7 @@ As many as 13 people, including both Afghan army soldiers and civilians, were ki
 
 ##### Rohingya insurgency in Western Myanmar
 ### [Dozens of Rohingya Muslims fleeing renewed violence in Rakhine State are detained by Bangladeshi and Burmese authorities after they attempt to cross the border from Myanmar to Bangladesh. Many were en route to Kutupalong Refugee Camp, a refugee camp in Ukhia, Bangladesh, mostly inhabited by Rohingya refugees. ](/news/2017/08/27/dozens-of-rohingya-muslims-fleeing-renewed-violence-in-rakhine-state-are-detained-by-bangladeshi-and-burmese-authorities-after-they-attempt.md)
-_Context: 2016-17 Northern Rakhine State clashes, 2016-17 Rohingya persecution in Myanmar, Bangladesh, Islam, Kutupalong Refugee Camp, Myanmar, Rakhine State, Rohingya, Rohingya insurgency in Western Myanmar, Ukhia_
+_Context: 2016-17 Northern Rakhine State clashes, 2016-17 Rohingya persecution in Myanmar, Bangladesh, Kutupalong Refugee Camp, Muslim, Myanmar, Rakhine State, Rohingya, Rohingya insurgency in Western Myanmar, Ukhia_
 
 ## [Previous Day...](/news/2017/08/26/index.md)
 

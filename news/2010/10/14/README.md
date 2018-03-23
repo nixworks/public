@@ -31,7 +31,7 @@ Burmese pro-democracy leader Aung San Suu Kyi will boycott the country&#039;s ge
 ### [18-year-old Anton Abele becomes Sweden's youngest ever MP; he is a member of the ruling Moderate Party. ](/news/2010/10/14/18-year-old-anton-abele-becomes-sweden-s-youngest-ever-mp-he-is-a-member-of-the-ruling-moderate-party.md)
 _Context: Anton Abele, Moderate Party, Sweden_
 
-##### Somalia
+##### Somali
 ### [Somali President Sharif Ahmed appoints Mohamed Abdullahi Mohamed as Prime Minister of the Transitional Federal Government. ](/news/2010/10/14/somali-president-sharif-ahmed-appoints-mohamed-abdullahi-mohamed-as-prime-minister-of-the-transitional-federal-government.md)
 Sharif Ahmed names Mohamed Abdullahi Mohamed as new prime minister of the transitional government.
 
@@ -63,17 +63,17 @@ _Context: Lan Lijun, Sino-Canadian relations, Stephen Harper_
 ### [The Prime Minister of Japan Naoto Kan calls on China to release Nobel Peace Prize winner Liu Xiaobo. ](/news/2010/10/14/the-prime-minister-of-japan-naoto-kan-calls-on-china-to-release-nobel-peace-prize-winner-liu-xiaobo.md)
 _Context: China, Japanese Prime Minister, Liu Xiaobo, Naoto Kan, Nobel Peace Prize_
 
-##### Afghanistan
+##### Afghan
 ### [At least seven Afghan border guards are detained by Iran after crossing their mutual border. ](/news/2010/10/14/at-least-seven-afghan-border-guards-are-detained-by-iran-after-crossing-their-mutual-border.md)
-_Context: Afghanistan, Iran_
+_Context: Afghan, Iran_
 
-##### Turkish
+##### Turkey
 ### [Turkish lawyers file a complaint against Israel over the Gaza flotilla raid in the International Criminal Court. ](/news/2010/10/14/turkish-lawyers-file-a-complaint-against-israel-over-the-gaza-flotilla-raid-in-the-international-criminal-court.md)
 Complaint filed with International Criminal Court accuses Israel of war crimes including torture, inhuman treatment during IDF raid on Gaza-bound flotilla last May. ICC&#39;s jurisdiction unclear 
 
-##### Cypriot
+##### Cyprus
 ### [A new border gate opens on the divided island of Cyprus, providing a seventh crossing point between the Turkish-controlled TRNC and the southern part of the country. ](/news/2010/10/14/a-new-border-gate-opens-on-the-divided-island-of-cyprus-providing-a-seventh-crossing-point-between-the-turkish-controlled-trnc-and-the-sout.md)
-_Context: Cypriot, TRNC_
+_Context: Cyprus, TRNC_
 
 ##### Benjamin Netanyahu
 ### [Israeli Prime Minister Benjamin Netanyahu says that Lebanon is becoming a "satellite" of Iran after it hosts a controversial visit by Iranian President Mahmoud Ahmadinejad, who again "predicts" Israel's destruction at a Hezbollah rally in southern Lebanon. ](/news/2010/10/14/israeli-prime-minister-benjamin-netanyahu-says-that-lebanon-is-becoming-a-satellite-of-iran-after-it-hosts-a-controversial-visit-by-irania.md)
@@ -83,7 +83,7 @@ _Context: Benjamin Netanyahu, Hezbollah, Iran, Iranian President, Lebanese, Mahm
 ### [American actor and UN peace messenger, George Clooney, calls for the freezing of assets held by Sudan's President Omar al-Bashir, who is wanted by the International Criminal Court for war crimes in Darfur, as a good way of putting pressure on the Sudanese government ](/news/2010/10/14/american-actor-and-un-peace-messenger-george-clooney-calls-for-the-freezing-of-assets-held-by-sudan-s-president-omar-al-bashir-who-is-wan.md)
 _Context: George Clooney, Omar al-Bashir, UN peace messenger, conflict_
 
-##### Turkish
+##### Turkey
 ### [Floods kill an elderly man in Turkey's Bursa. ](/news/2010/10/14/floods-kill-an-elderly-man-in-turkey-s-bursa.md)
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews
 
@@ -101,7 +101,7 @@ _Context: Ayad Allawi, Baghdad, Iraq, Iraqi National Movement_
 
 ##### ISAF
 ### [Eight ISAF NATO soldiers are killed in multiple attacks in Afghanistan, including four in roadside bombings. ](/news/2010/10/14/eight-isaf-nato-soldiers-are-killed-in-multiple-attacks-in-afghanistan-including-four-in-roadside-bombings.md)
-_Context: Afghanistan, IED, ISAF, NATO_
+_Context: Afghan, IED, ISAF, NATO_
 
 ## [Previous Day...](/news/2010/10/13/index.md)
 

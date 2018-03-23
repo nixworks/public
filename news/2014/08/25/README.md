@@ -13,7 +13,7 @@ _Context: Petro Poroshenko, Ukrainian President, parliament_
 
 ##### French Prime Minister
 ### [The Prime Minister of France Manuel Valls presents President Francois Hollande with the resignation of the cabinet, with a new cabinet to be appointed tomorrow. ](/news/2014/08/25/the-prime-minister-of-france-manuel-valls-presents-president-franassois-hollande-with-the-resignation-of-the-cabinet-with-a-new-cabinet-to-b.md)
-_Context: Francois Hollande, French President, French Prime Minister, Manuel Valls_
+_Context: Francois Hollande, French Prime Minister, Manuel Valls, President of France_
 
 ##### Sergey Lavrov
 ### [Russian Foreign Minister Sergey Lavrov says that Russia now formally recognizes Petro Poroshenko as the legitimate President of Ukraine in the hope that Poroshenko will "live up to Russia's trust." ](/news/2014/08/25/russian-foreign-minister-sergey-lavrov-says-that-russia-now-formally-recognizes-petro-poroshenko-as-the-legitimate-president-of-ukraine-in-t.md)
@@ -35,7 +35,7 @@ The attack against Shiites underscored the challenge to keep peace as Haider al-
 ### [Boko Haram declares an Islamic state in areas of Nigeria under its control. ](/news/2014/08/25/boko-haram-declares-an-islamic-state-in-areas-of-nigeria-under-its-control.md)
 Militant group Boko Haram says it has set up an Islamic state in towns and villages it has seized in Nigeria, but the army rejects the claim as &quot;empty&quot;.
 
-##### Ukraine
+##### Ukrainian
 ### [Ukrainian forces say they managed to stop a larger part of a convoy of around 50 armoured vehicles, which entered Ukraine from the border with Russia near Novoazovsk. ](/news/2014/08/25/ukrainian-forces-say-they-managed-to-stop-a-larger-part-of-a-convoy-of-around-50-armoured-vehicles-which-entered-ukraine-from-the-border-wi.md)
 The Ukrainian military said on Monday a group of Russian forces, in the guise of separatist rebels, had crossed into south-east Ukraine with ten tanks and two armoured infantry vehicles, aiming to open a new front in the separatist war.
 

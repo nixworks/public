@@ -5,7 +5,7 @@ Formats: [HTML](2017/08/1/index.html)  [JSON](2017/08/1/index.json)  [XML](2017/
 
 ##### Political appointments by Donald Trump
 ### [The United States Senate, in a 92-5 vote, confirms Christopher A. Wray as Director of the Federal Bureau of Investigation. ](/news/2017/08/1/the-united-states-senate-in-a-92a5-vote-confirms-christopher-a-wray-as-director-of-the-federal-bureau-of-investigation.md)
-_Context: Christopher A. Wray, Director of the Federal Bureau of Investigation, Political appointments by Donald Trump, United States Senate_
+_Context: Christopher A. Wray, Director of the Federal Bureau of Investigation, Political appointments by Donald Trump, Senate_
 
 ##### Crisis in Venezuela
 ### [Venezuelan opposition leaders Leopoldo Lopez and Mayor of Caracas Antonio Ledezma are seized at their homes overnight by the Bolivarian Intelligence Service (SEBIN) and taken to Ramo Verde Prison. They had been arrested previously by the Venezuelan government, but were under house arrest at the time of being seized. ](/news/2017/08/1/venezuelan-opposition-leaders-leopoldo-la3pez-and-mayor-of-caracas-antonio-ledezma-are-seized-at-their-homes-overnight-by-the-bolivarian-int.md)

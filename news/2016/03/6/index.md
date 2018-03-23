@@ -31,7 +31,7 @@ Billionaire Iranian businessman Babak Zanjani, accused by the West of sanctions-
 ### [North Korea threatens a pre-emptive nuclear strike against South Korea and the United States in response to the two nations' annual joint military exercise which Pyongyang considers is a pretext for an invasion. ](/news/2016/03/6/north-korea-threatens-a-pre-emptive-nuclear-strike-against-south-korea-and-the-united-states-in-response-to-the-two-nations-annual-joint-mi.md)
 North Korea threatened a pre-emptive nuclear strike against South Korea and the U.S., including the American homeland, over the two nations&#8217; joint military exercises.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [At least 25 migrants, including 10 children, drown after their wooden boat capsizes in the Aegean Sea near the seaside town of Didim, Turkey. The Turkish Coast Guard was able to rescue 15 people. ](/news/2016/03/6/at-least-25-migrants-including-10-children-drown-after-their-wooden-boat-capsizes-in-the-aegean-sea-near-the-seaside-town-of-didim-turkey.md)
 At least 25 people drowned Sunday after a boat carrying migrants capsized off the Turkish coast. Ten of the dead were children. 
 

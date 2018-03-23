@@ -35,9 +35,9 @@ _Context: Parliament of Iraq, provincial elections_
 ### [ Former Major League Baseball pitcher Roger Clemens testifies to the United States House Committee on Oversight and Government Reform regarding performance enhancing drugs. ](/news/2008/02/13/former-major-league-baseball-pitcher-roger-clemens-testifies-to-the-united-states-house-committee-on-oversight-and-government-reform-regard.md)
 _Context: House Oversight Committee, Major League Baseball, Roger Clemens, performance-enhancing drugs, pitcher_
 
-##### United States Senate
+##### Senate
 ### [ The United States Senate passes legislation to ban the Central Intelligence Agency from using certain interrogation methods including waterboarding. ](/news/2008/02/13/the-united-states-senate-passes-legislation-to-ban-the-central-intelligence-agency-from-using-certain-interrogation-methods-including-water.md)
-_Context: CIA, United States Senate, waterboarding_
+_Context: CIA, Senate, waterboarding_
 
 ## [Previous Day...](/news/2008/02/12/index.md)
 

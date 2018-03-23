@@ -53,7 +53,7 @@ A man was decapitated in a terrorist attack at a gas factory near Lyon, eastern 
 
 ##### Somali Civil War
 ### [Al Shabaab militants attack an African Union base in the Leego district of Somalia and kills more than 70 African Union soldiers and seizes control of their military base. ](/news/2015/06/26/al-shabaab-militants-attack-an-african-union-base-in-the-leego-district-of-somalia-and-kills-more-than-70-african-union-soldiers-and-seizes.md)
-_Context: African Union, Al-Shabaab, Leego, Somali Civil War, Somalia, attack_
+_Context: African Union, Al-Shabab, Leego, Somali, Somali Civil War, attack_
 
 ## [Previous Day...](/news/2015/06/25/index.md)
 

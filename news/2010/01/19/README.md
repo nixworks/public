@@ -45,7 +45,7 @@ _Context: Christian, Jos, Muslim, Nigeria, events earlier this year_
 
 ##### United Nations
 ### [A United Nations survey reveals Afghans have paid about US$2.5 (or GBP1.5) billion in bribes in the last year. ](/news/2010/01/19/a-united-nations-survey-reveals-afghans-have-paid-about-us-2-5-or-gbp1-5-billion-in-bribes-in-the-last-year.md)
-_Context: Afghanistan, GBP, US$, United Nations, bribes_
+_Context: Afghan, GBP, US$, United Nations, bribes_
 
 ##### United States
 ### [The United States Supreme Court refuses to hear an appeal from the QSI Holdings decision on the 6th Circuit Court of Appeals, limiting bankruptcy trustee avoidance actions against certain owners of ](/news/2010/01/19/the-united-states-supreme-court-refuses-to-hear-an-appeal-from-the-qsi-holdings-decision-on-the-6th-circuit-court-of-appeals-limiting-bankr.md)
@@ -57,7 +57,7 @@ _Context: Black Panther Party, Mumia Abu-Jamal, Philadelphia, United States, Uni
 
 ##### Massachusetts
 ### [Massachusetts voters elect Republican Scott Brown to fill the vacant United States Senate seat previously held by Ted Kennedy. ](/news/2010/01/19/massachusetts-voters-elect-republican-scott-brown-to-fill-the-vacant-united-states-senate-seat-previously-held-by-ted-kennedy.md)
-_Context: Massachusetts, Republican, Scott Brown, Ted Kennedy, United States Senate, elect_
+_Context: Massachusetts, Republican, Scott Brown, Senate, Ted Kennedy, elect_
 
 ##### Iran
 ### [Iran rejects a deal offered by the International Atomic Energy Agency to exchange low-enriched uranium for nuclear fuel. ](/news/2010/01/19/iran-rejects-a-deal-offered-by-the-international-atomic-energy-agency-to-exchange-low-enriched-uranium-for-nuclear-fuel.md)

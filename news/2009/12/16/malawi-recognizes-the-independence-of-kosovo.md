@@ -20,4 +20,4 @@ Formats: [HTML](/news/2009/12/16/malawi-recognizes-the-independence-of-kosovo.ht
 2. [Serbia states its intention to never recognize Kosovo's independence after International Court of Justice's yesterday ruling. ](/news/2010/07/23/serbia-states-its-intention-to-never-recognize-kosovo-s-independence-after-international-court-of-justice-s-yesterday-ruling.md) _Context: Kosovo, Kosovo_
 3. [ Bahrain recognizes Kosovo. ](/news/2009/05/19/bahrain-recognizes-kosovo.md) _Context: Kosovo, Kosovo_
 4. [ Palau officially recognizes Kosovo. ](/news/2009/03/9/palau-officially-recognizes-kosovo.md) _Context: Kosovo, Kosovo_
-5. [Police in Malawi arrest 140 people after nine people were lynched for suspected vampirism. ](/news/2017/10/20/police-in-malawi-arrest-140-people-after-nine-people-were-lynched-for-suspected-vampirism.md) _Context: Malawi_
+5. [In Kosovo, opposition lawmakers set off tear gas to prevent the ratification of a border treaty with neighboring Montenegro. ](/news/2018/03/21/in-kosovo-opposition-lawmakers-set-off-tear-gas-to-prevent-the-ratification-of-a-border-treaty-with-neighboring-montenegro.md) _Context: Kosovo_

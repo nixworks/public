@@ -67,7 +67,7 @@ Four people were arrested during minor scuffles between gardaí and anti-war pro
 ### [2 Azeri soldiers are killed in fighting near Nagorno-Karabakh, the second incident of clashes within a week. ](/news/2010/09/4/2-azeri-soldiers-are-killed-in-fighting-near-nagorno-karabakh-the-second-incident-of-clashes-within-a-week.md)
 _Context: Azerbaijan, Nagorno-Karabakh region_
 
-##### Afghanistan
+##### Afghan
 ### [2 attacks kill at least 10 people and wound at least 28 others in Afghanistan. ](/news/2010/09/4/2-attacks-kill-at-least-10-people-and-wound-at-least-28-others-in-afghanistan.md)
 Two separate bombings in Kandahar and Kunduz kill at least 10 people, including four police officers.
 

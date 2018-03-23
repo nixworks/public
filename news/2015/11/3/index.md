@@ -15,7 +15,7 @@ Republican Matt Bevin, a businessman and Tea Party favorite, beat Democrat Jack 
 ### [Pakistani journalist Zaman Mehsud is shot dead by two motorcycle-riding gunmen in Pakistan's Khyber Pakhtunkhwa province, near the country's northwestern tribal region. According to a 2014 report, at least 56 journalists have been killed in Pakistan since 1992. ](/news/2015/11/3/pakistani-journalist-zaman-mehsud-is-shot-dead-by-two-motorcycle-riding-gunmen-in-pakistan-s-khyber-pakhtunkhwa-province-near-the-country-s.md)
 _Context: Federally Administered Tribal Areas, Northwestern Pakistan, Pakistan, gunmen, journalist, motorcycle-riding_
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [ German Chancellor Angela Merkel announces a plan to register and distribute incoming refugees evenly throughout the European Union. Refugees would be stopped at EU borders, have their application processed, and then, if accepted, sent to one of the Union's 28 member states. ](/news/2015/11/3/german-chancellor-angela-merkel-announces-a-plan-to-register-and-distribute-incoming-refugees-evenly-throughout-the-european-union-refugee.md)
 German Chancellor Angela Merkel announced a plan to register and distribute incoming refugees evenly throughout the European Union.
 

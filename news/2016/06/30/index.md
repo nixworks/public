@@ -35,7 +35,7 @@ _Context: United Nations, gay and bisexual men_
 ### [Armenia's parliament, by a 102-8 vote, ratifies an agreement to create an Armenia-Russia joint Air Defense system. ](/news/2016/06/30/armenia-s-parliament-by-a-102-8-vote-ratifies-an-agreement-to-create-an-armenia-russia-joint-air-defense-system.md)
 102 lawmakers voted in favor of the agreement, while 8 voted against.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [At least 10 people drown off the coast of Libya when their dinghy sinks. The Italian Navy managed to rescue over 100 more people. ](/news/2016/06/30/at-least-10-people-drown-off-the-coast-of-libya-when-their-dinghy-sinks-the-italian-navy-managed-to-rescue-over-100-more-people.md)
 At least 10 people drown when their inflatable boat capsizes, as Italy raises to the surface a boat that sank with the loss of 700 lives.
 
@@ -49,7 +49,7 @@ A Palestinian fatally stabbed a 13-year-old Israeli girl in her bedroom in a set
 
 ##### 2016 Istanbul airport attack
 ### [A Turkish official reports the three suspected Islamic State suicide bombers who killed 44 people and wounded 238 others were Russian, Uzbek, and Kyrgyz nationals. ](/news/2016/06/30/a-turkish-official-reports-the-three-suspected-islamic-state-suicide-bombers-who-killed-44-people-and-wounded-238-others-were-russian-uzbek.md)
-_Context: 2016 Istanbul airport attack, ISIL, Kyrgyzstan, Russia, Turkish, Uzbekistan_
+_Context: 2016 Istanbul airport attack, ISIL, Kyrgyzstan, Russia, Turkey, Uzbekistan_
 
 ##### Iraqi Civil War (2014-present)
 ### [According to reports, at least 250 ISIL militants were killed during fighting in the city of Fallujah while fighting Iraqi Army forces with assistance from U.S. airstrikes. ](/news/2016/06/30/according-to-reports-at-least-250-isil-militants-were-killed-during-fighting-in-the-city-of-fallujah-while-fighting-iraqi-army-forces-with.md)

@@ -29,7 +29,7 @@ _Context: Cash for Peerages, Prime Minister, Tony Blair, UK, close aide_
 
 ##### War in Somalia
 ### [ War in Somalia: Somalia's presidential palace is hit by two mortar shells. It's unknown if Somali President Abdullahi Yusuf was inside during the attack. ](/news/2007/01/19/war-in-somalia-somalia-s-presidential-palace-is-hit-by-two-mortar-shells-it-s-unknown-if-somali-president-abdullahi-yusuf-was-inside-duri.md)
-_Context: Abdullahi Yusuf, Somalia, War in Somalia_
+_Context: Abdullahi Yusuf, Somali, War in Somalia_
 
 ##### Government of Kyrgyzstan
 ### [ The Government of Kyrgyzstan arrests the leader of the Hizb ut-Tahrir branch in Kyrgyzstan. HuT is a designated terrorist organization and is considered to have ties to Al Qaeda, though it maintains it is a political party. ](/news/2007/01/19/the-government-of-kyrgyzstan-arrests-the-leader-of-the-hizb-ut-tahrir-branch-in-kyrgyzstan-hut-is-a-designated-terrorist-organization-and.md)

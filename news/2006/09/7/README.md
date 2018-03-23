@@ -19,9 +19,9 @@ _Context: DoD Directive 2310, unlawful combatant_
 ### ["'Belgian False Flag Terror arrests:"' Police in Belgium make arrests at army barracks and soldiers' homes as part of an investigation into suspected far-right terrorists (Bloed-Bodem-Eer en Trouw) operating inside the military. The soldiers were reportedly planning attacks aimed at destabilizing the country. ](/news/2006/09/7/belgian-false-flag-terror-arrests-police-in-belgium-make-arrests-at-army-barracks-and-soldiers-homes-as-part-of-an-investigation-into.md)
 _Context: Belgian False Flag Terror arrests, Belgium, destabilizing the country, far-right, terrorists_
 
-##### Ukraine
+##### Ukrainian
 ### [Ukrainian archaeologists claim they have found underground pyramids near Luhansk that predate the pyramids at Giza. BBC news's Helen Fawkes calls the complex the "Ukrainian Stonehenge." ](/news/2006/09/7/ukrainian-archaeologists-claim-they-have-found-underground-pyramids-near-luhansk-that-predate-the-pyramids-at-giza-bbc-news-s-helen-fawkes.md)
-_Context: Giza, Luhansk, Stonehenge, Ukraine, underground pyramids_
+_Context: Giza, Luhansk, Stonehenge, Ukrainian, underground pyramids_
 
 ##### Ralph "Bucky" Phillips
 ### [Ralph "Bucky" Phillips is the most recent addition to the FBI Ten Most Wanted Fugitives list following his jail break and suspected shooting of New York State troopers. ](/news/2006/09/7/ralph-bucky-phillips-is-the-most-recent-addition-to-the-fbi-ten-most-wanted-fugitives-list-following-his-jail-break-and-suspected-shooting.md)

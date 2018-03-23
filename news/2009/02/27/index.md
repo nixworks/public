@@ -41,7 +41,7 @@ Fox 32 Chicago News, breaking news, local headlines, weather, sports traffic and
 
 ##### China
 ### [ China's Navy and Denmark's Navy thwart Somali pirate attacks on Italian and Chinese merchant vessels in the Gulf of Aden. ](/news/2009/02/27/china-s-navy-and-denmark-s-navy-thwart-somali-pirate-attacks-on-italian-and-chinese-merchant-vessels-in-the-gulf-of-aden.md)
-_Context: China, Denmark, Gulf of Aden, Italy, Navy, People's Liberation Army Navy, Somali pirates, Somalia, merchant vessel_
+_Context: China, Denmark, Gulf of Aden, Italy, Navy, People's Liberation Army Navy, Somali, Somali pirates, merchant vessel_
 
 ## [Previous Day...](/news/2009/02/26/index.md)
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/22/peruvian-vice-president-martan-vizcarra-returns
 
 ### [2018-03-22](/news/2018/03/22/index.md)
 
-##### Peru
+##### Politics of Peru
 # Peruvian Vice President Martin Vizcarra returns from Canada, where he is his nation's ambassador, in preparation to take over the Presidency. 
 
 

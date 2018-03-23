@@ -9,7 +9,7 @@ _Context: Mexican President, Salt Lake City, United States, Vicente Fox, illegal
 
 ##### Atatrk International Airport
 ### [ A large fire breaks out at the cargo terminal of Atatrk International Airport in Istanbul, Turkey, forcing the suspension of air traffic. ](/news/2006/05/24/a-large-fire-breaks-out-at-the-cargo-terminal-of-ataturk-international-airport-in-istanbul-turkey-forcing-the-suspension-of-air-traffic.md)
-_Context: Atatrk International Airport, Istanbul, Turkish_
+_Context: Atatrk International Airport, Istanbul, Turkey_
 
 ##### East Timorese army
 ### [ Disgruntled former soldiers and government troops clash in East Timor, leading to at least two deaths in Dili. Australians evacuate as violence escalates. ](/news/2006/05/24/disgruntled-former-soldiers-and-government-troops-clash-in-east-timor-leading-to-at-least-two-deaths-in-dili-australians-evacuate-as-viol.md)

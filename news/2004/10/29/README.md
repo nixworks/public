@@ -35,9 +35,9 @@ _Context: King of Cambodia, Norodom Sihamoni_
 ### [ In Rome, heads of state and government from the countries of the European Union sign the treaty establishing a constitution for Europe. The treaty is still subject to ratification by the member nations. ](/news/2004/10/29/in-rome-heads-of-state-and-government-from-the-countries-of-the-european-union-sign-the-treaty-establishing-a-constitution-for-europe-the.md)
 _Context: European Union, Rome, Italy, treaty establishing a constitution for Europe_
 
-##### Somalia
+##### Somali
 ### [ Fighting broke out for the second time in a month in Somalia between troops from the autonomous Somaliland and Puntland macro-regions. So far, fighting in the disputed region has left over a hundred dead.](/news/2004/10/29/fighting-broke-out-for-the-second-time-in-a-month-in-somalia-between-troops-from-the-autonomous-somaliland-and-puntland-macro-regions-so-f.md)
-_Context: Puntland, Somalia, Somaliland_
+_Context: Puntland, Somali, Somaliland_
 
 ##### Vaughn Meader
 ### [ Vaughn Meader, whose "The First Family" comedy-album spoof of John F. Kennedy was the fastest-selling American album of all time and won the 1963 Grammy Award for best album of the year, dies in Auburn, Maine. ](/news/2004/10/29/vaughn-meader-whose-the-first-family-comedy-album-spoof-of-john-f-kennedy-was-the-fastest-selling-american-album-of-all-time-and-won-th.md)

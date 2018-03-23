@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/22/qatar-s-interior-ministry-releases-a-list-of-in
 
 ### [2018-03-22](/news/2018/03/22/index.md)
 
-##### Qatar
+##### 2017-18 Qatar diplomatic crisis
 # Qatar's Interior Ministry releases a list of individuals and entities it says are linked to terrorism. Bahrain, Saudi Arabia, the United Arab Emirates, and Egypt, who had demanded the list amid tensions with Qatar, welcome its release but criticise the time taken to prepare it. 
 
 Saudi Arabia the UAE Bahrain and Egypt have long complained of Qatar s support for terror

@@ -13,7 +13,7 @@ _Context: Hamas_
 
 ##### Al-Qaeda
 ### [ Fighting breaks out between Pakistani and al-Qaeda fighters near the Pakistan-Afghanistan border. ](/news/2004/04/18/fighting-breaks-out-between-pakistani-and-al-qaeda-fighters-near-the-pakistan-afghanistan-border.md)
-_Context: Afghanistan, Pakistan, al-Qaeda_
+_Context: Afghan, Pakistan, al-Qaeda_
 
 ##### Kosovo
 ### [ In Kosovo, a Jordanian UN police officer opens fire upon a convoy of UN police officers killing two female Americans and injuring eleven others. The attack reportedly stemmed from an argument between American and Jordanian UN police over Iraq policies. ](/news/2004/04/18/in-kosovo-a-jordanian-un-police-officer-opens-fire-upon-a-convoy-of-un-police-officers-killing-two-female-americans-and-injuring-eleven-ot.md)
@@ -25,7 +25,7 @@ _Context: Iraq, Jos Luis Rodrguez Zapatero, Prime Minister_
 
 ##### Omar Bakri Muhammad
 ### [ Sheikh Omar Bakri Muhammad says the "life of an unbeliever has no value, it has no sanctity" and states that several Islamic militant groups are planning a terrorist attack on London, making such an attack inevitable. ](/news/2004/04/18/sheikh-omar-bakri-muhammad-says-the-life-of-an-unbeliever-has-no-value-it-has-no-sanctity-and-states-that-several-islamic-militant-group.md)
-_Context: Islam, Omar Bakri Muhammad, militant, terrorist_
+_Context: Muslim, Omar Bakri Muhammad, militant, terrorist_
 
 ##### Iran
 ### [ The Iranian Vice Speaker of Parliament, Behzad Nabavi, resigns over "violation of public rights". ](/news/2004/04/18/the-iranian-vice-speaker-of-parliament-behzad-nabavi-resigns-over-violation-of-public-rights.md)

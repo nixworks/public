@@ -53,7 +53,7 @@ _Context: Dutch, German, Heinrich Boere, Nazi_
 
 ##### United Nations
 ### [ 12 people &ndash; including six United Nations staff &ndash; are killed after Taliban militants assault an international guesthouse in the Afghan capital Kabul. ](/news/2009/10/28/12-people-ndash-including-six-united-nations-staff-ndash-are-killed-after-taliban-militants-assault-an-international-guesthouse-in-the.md)
-_Context: Afghanistan, Kabul, Taliban, United Nations, assault an international guesthouse_
+_Context: Afghan, Kabul, Taliban, United Nations, assault an international guesthouse_
 
 ##### Blast
 ### [ A blast in Meena Bazar, Peshawar, Pakistan, kills at least 95 people while 110 are injured. ](/news/2009/10/28/a-blast-in-meena-bazar-peshawar-pakistan-kills-at-least-95-people-while-110-are-injured.md)

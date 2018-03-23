@@ -29,7 +29,7 @@ _Context: Harare, Morgan Tsvangirai, Prime Minister, Zimbabwe, car accident, wif
 
 ##### European Union
 ### [ The European Union will transfer to Kenya suspected Somali pirates captured during Operation Atalanta. ](/news/2009/03/6/the-european-union-will-transfer-to-kenya-suspected-somali-pirates-captured-during-operation-atalanta.md)
-_Context: European Union, Kenya, Somali pirates, Somalia, captures_
+_Context: European Union, Kenya, Somali, Somali pirates, captures_
 
 ## [Previous Day...](/news/2009/03/5/index.md)
 

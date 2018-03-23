@@ -83,9 +83,9 @@ Officials say 500 people could be onboard boat from Sri Lanka.
 ### [Poland extradites Israeli citizen and suspected spy Uri Brodsky to Germany to face charges of being involved in the murder of Mahmoud al-Mabhouh in Dubai. ](/news/2010/08/12/poland-extradites-israeli-citizen-and-suspected-spy-uri-brodsky-to-germany-to-face-charges-of-being-involved-in-the-murder-of-mahmoud-al-mab.md)
 Poland extradites to Germany a suspected Israeli agent wanted in connection with the killing in Dubai of a Hamas commander, officials say.
 
-##### Turkish
+##### Turkey
 ### [Turkey sets up a commission of Turkish officials and bureaucrats to investigate May's Gaza flotilla raid. ](/news/2010/08/12/turkey-sets-up-a-commission-of-turkish-officials-and-bureaucrats-to-investigate-may-s-gaza-flotilla-raid.md)
-_Context: Gaza flotilla raid, Turkish_
+_Context: Gaza flotilla raid, Turkey_
 
 ##### South Kivu
 ### [At least 58 people are killed after a lorry plunges into South Kivu's Lake Tanganyika. ](/news/2010/08/12/at-least-58-people-are-killed-after-a-lorry-plunges-into-south-kivu-s-lake-tanganyika.md)
@@ -177,7 +177,7 @@ _Context: Human Rights Watch, Lord's Resistance Army, Uganda, central Africa_
 
 ##### International Assistance Mission
 ### [The International Assistance Mission says it now believes that the Taliban was responsible for the 2010 Badakhshan massacre of its medical team in Afghanistan. ](/news/2010/08/12/the-international-assistance-mission-says-it-now-believes-that-the-taliban-was-responsible-for-the-2010-badakhshan-massacre-of-its-medical-t.md)
-_Context: 2010 Badakhshan massacre, Afghanistan, International Assistance Mission, Taliban_
+_Context: 2010 Badakhshan massacre, Afghan, International Assistance Mission, Taliban_
 
 ## [Previous Day...](/news/2010/08/11/index.md)
 

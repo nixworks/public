@@ -5,7 +5,7 @@ Formats: [HTML](2008/01/31/index.html)  [JSON](2008/01/31/index.json)  [XML](200
 
 ##### 2008
 ### [ United States presidential election, 2008: Democratic Senators Hillary Clinton and Barack Obama hold the first two-person debate. ](/news/2008/01/31/united-states-presidential-election-2008-democratic-senators-hillary-clinton-and-barack-obama-hold-the-first-two-person-debate.md)
-_Context: 2008, Barack Obama, Democrat, Hillary Clinton, United States Senate_
+_Context: 2008, Barack Obama, Democrat, Hillary Clinton, Senate_
 
 ##### French Polynesia
 ### [ All government ministers in French Polynesia resign en masse in solidarity with one of their colleagues, who was fined for corruption. ](/news/2008/01/31/all-government-ministers-in-french-polynesia-resign-en-masse-in-solidarity-with-one-of-their-colleagues-who-was-fined-for-corruption.md)
@@ -21,7 +21,7 @@ _Context: Africa, Asia, FLAG, Internet, SEA-ME-WE 4_
 
 ##### Suicide bomber
 ### [ A suicide bomber at a mosque in Lashkar Gah, Afghanistan kills the deputy governor of Helmand Province, Pir Mohammad, and five others. ](/news/2008/01/31/a-suicide-bomber-at-a-mosque-in-lashkar-gah-afghanistan-kills-the-deputy-governor-of-helmand-province-pir-mohammad-and-five-others.md)
-_Context: Afghanistan, Helmand Province, Lashkar Gah, mosque, suicide bomber_
+_Context: Afghan, Helmand Province, Lashkar Gah, mosque, suicide bomber_
 
 ## [Previous Day...](/news/2008/01/30/index.md)
 

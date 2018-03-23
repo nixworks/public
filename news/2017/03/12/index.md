@@ -3,7 +3,7 @@ Formats: [HTML](2017/03/12/index.html)  [JSON](2017/03/12/index.json)  [XML](201
 
 ## [2017-03-12](/news/2017/03/12/index.md)
 
-##### President of the Generalitat of Catalonia
+##### President of the Generalitat
 ### [Former President of the Generalitat of Catalonia, Artur Mas, is banned from holding public office for two years after organising an unofficial, unconstitutional independence referendum in 2014. ](/news/2017/03/12/former-president-of-the-generalitat-of-catalonia-artur-mas-is-banned-from-holding-public-office-for-two-years-after-organising-an-unoffici.md)
 Two-year ban comes with €36,500 fine for disobeying Spanish constitutional court over 2014 independence referendum
 

@@ -53,7 +53,7 @@ At least 12 people died and 15 were seriously injured on Wednesday after an expl
 
 ##### Bomb
 ### [A bomb on a civilian bus in Nimruz Province in southwest Afghanistan results in at least 25 deaths. ](/news/2010/07/28/a-bomb-on-a-civilian-bus-in-nimruz-province-in-southwest-afghanistan-results-in-at-least-25-deaths.md)
-_Context: Afghanistan, Nimruz Province, bomb, bus_
+_Context: Afghan, Nimruz Province, bomb, bus_
 
 ## [Previous Day...](/news/2010/07/27/index.md)
 

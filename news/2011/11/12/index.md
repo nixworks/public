@@ -37,7 +37,7 @@ _Context: Iran, Iranian Revolutionary guards, Iranian state media, Mossad, Tehra
 
 ##### Laghman province
 ### [Nine civilians are killed by a bomb explosion on a bus in Laghman province in eastern Afghanistan in a suspected Taliban attack. ](/news/2011/11/12/nine-civilians-are-killed-by-a-bomb-explosion-on-a-bus-in-laghman-province-in-eastern-afghanistan-in-a-suspected-taliban-attack.md)
-_Context: Afghanistan, Laghman province, Taliban_
+_Context: Afghan, Laghman province, Taliban_
 
 ##### Arab League
 ### [The Arab League votes to suspend Syria over its violent suppression of the Syrian uprising, pledging new sanctions and urging member states to withdraw ambassadors from Damascus. ](/news/2011/11/12/the-arab-league-votes-to-suspend-syria-over-its-violent-suppression-of-the-syrian-uprising-pledging-new-sanctions-and-urging-member-states.md)

@@ -51,7 +51,7 @@ In a reversal of the usual roles played by rich and poor countries, China will b
 ### [Iranian first vice president Mohammad-Reza Rahimi meets with Japanese ambassador to Iran Kinichi Kumano, with Rahimi expressing sympathy in relation to the recent earthquake and tsunami and asking for stronger ties between the countries. ](/news/2011/04/26/iranian-first-vice-president-mohammad-reza-rahimi-meets-with-japanese-ambassador-to-iran-kinichi-kumano-with-rahimi-expressing-sympathy-in.md)
 _Context: 2011 Tohoku earthquake and tsunami, Mohammad-Reza Rahimi_
 
-##### French President
+##### President of France
 ### [President of France Nicolas Sarkozy and Prime Minister of Italy Silvio Berlusconi meet to discuss what to do about migrants from North Africa who want to join relatives, with reports that the Schengen Agreement is to be amended so the two can deal with the issue. ](/news/2011/04/26/president-of-france-nicolas-sarkozy-and-prime-minister-of-italy-silvio-berlusconi-meet-to-discuss-what-to-do-about-migrants-from-north-afric.md)
 Sarkozy and Berlusconi call on EU to change the Schengen treaty following row over mass immigration from north Africa.
 
@@ -71,9 +71,9 @@ _Context: Black River, Missouri, Poplar Bluff_
 ### [President of Colombia Juan Manuel Santos calls for national unity after floods kill 91 people. ](/news/2011/04/26/president-of-colombia-juan-manuel-santos-calls-for-national-unity-after-floods-kill-91-people.md)
 _Context: Colombian President, Juan Manuel Santos_
 
-##### Ukraine
+##### Ukrainian
 ### [Ukraine commemorates the 25th anniversary of the Chernobyl disaster. ](/news/2011/04/26/ukraine-commemorates-the-25th-anniversary-of-the-chernobyl-disaster.md)
-_Context: Chernobyl disaster, Ukraine_
+_Context: Chernobyl disaster, Ukrainian_
 
 ##### Greece
 ### [Greece's budget deficit for 2010 is 10.5% of gross domestic product, significantly higher than expected. ](/news/2011/04/26/greece-s-budget-deficit-for-2010-is-10-5-of-gross-domestic-product-significantly-higher-than-expected.md)

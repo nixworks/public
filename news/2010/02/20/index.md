@@ -33,7 +33,7 @@ At least 32 killed in floods and mudslides triggered by torrential rain in Madei
 
 ##### Venezuela
 ### [Russian allies, including Venezuela and Turkey, file a dozen requests for Mi-28N Night Hunter attack helicopters from Russia. ](/news/2010/02/20/russian-allies-including-venezuela-and-turkey-file-a-dozen-requests-for-mi-28n-night-hunter-attack-helicopters-from-russia.md)
-_Context: Mi-28, Russia, Turkish, Venezuela_
+_Context: Mi-28, Russia, Turkey, Venezuela_
 
 ##### Justice and Equality Movement
 ### [The Justice and Equality Movement rebel group in Sudan's Darfur region signs a framework ceasefire agreement with the Sudanese government in N'Djamena. ](/news/2010/02/20/the-justice-and-equality-movement-rebel-group-in-sudan-s-darfur-region-signs-a-framework-ceasefire-agreement-with-the-sudanese-government-in.md)

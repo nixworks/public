@@ -5,7 +5,7 @@ Formats: [HTML](2011/10/20/index.html)  [JSON](2011/10/20/index.json)  [XML](201
 
 ##### American Jobs Act
 ### [The American Jobs Act fails to garner the necessary sixty votes in the United States Senate to proceed. ](/news/2011/10/20/the-american-jobs-act-fails-to-garner-the-necessary-sixty-votes-in-the-united-states-senate-to-proceed.md)
-_Context: American Jobs Act, United States Senate_
+_Context: American Jobs Act, Senate_
 
 ##### General strike
 ### [Amid major riots and a general strike, the Hellenic Parliament approves a highly controversial package of austerity measures aimed at resolving Greece's ongoing debt crisis. The austerity measures include higher taxes and cuts to public sector wages. ](/news/2011/10/20/amid-major-riots-and-a-general-strike-the-hellenic-parliament-approves-a-highly-controversial-package-of-austerity-measures-aimed-at-resolv.md)
@@ -47,7 +47,7 @@ _Context: GDP, escalating economic crisis, eurozone, government of Germany_
 ### [Basque separatist terrorist organisation ETA declares an end to its 43-year campaign of political violence, which has killed over 800 people since 1968. ](/news/2011/10/20/basque-separatist-terrorist-organisation-eta-declares-an-end-to-its-43-year-campaign-of-political-violence-which-has-killed-over-800-people.md)
 The Basque separatist group Eta announces to the BBC a &quot;definitive cessation of its armed activities&quot;, a move hailed by the PM as &quot;a victory for democracy&quot;.
 
-##### Turkish
+##### Turkey
 ### [In the wake of recent terrorist attacks in southern Turkey, up to 10,000 soldiers of the Turkish Army advance into northern Iraq, pursuing Kurdish separatist PKK militants. ](/news/2011/10/20/in-the-wake-of-recent-terrorist-attacks-in-southern-turkey-up-to-10-000-soldiers-of-the-turkish-army-advance-into-northern-iraq-pursuing-k.md)
 Some 10,000 Turkish soldiers are taking part in a military offensive in northern Iraq and south-east Turkey, following a deadly attack by Kurdish rebels.
 

@@ -7,7 +7,7 @@ Formats: [HTML](2011/08/2/index.html)  [JSON](2011/08/2/index.json)  [XML](2011/
 ### [French and Ugandan scientists discover a 20-million-year-old skull of a tree-climbing ape in the Karamoja region of Uganda. ](/news/2011/08/2/french-and-ugandan-scientists-discover-a-20-million-year-old-skull-of-a-tree-climbing-ape-in-the-karamoja-region-of-uganda.md)
 _Context: France, Karamoja, Uganda_
 
-##### United States Senate
+##### Senate
 ### [The United States Senate passes legislation to raise the debt ceiling in order to avert the 2011 US debt ceiling crisis and President Barack Obama signs it into law. ](/news/2011/08/2/the-united-states-senate-passes-legislation-to-raise-the-debt-ceiling-in-order-to-avert-the-2011-us-debt-ceiling-crisis-and-president-barack.md)
 The US Senate will vote Tuesday on a massive austerity bill that averts a disastrous debt default, two senior Democratic aides said on Monday.
 

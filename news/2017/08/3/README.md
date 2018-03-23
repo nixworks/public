@@ -45,7 +45,7 @@ The bags are currently being sanitized, the airline said.
 
 ##### War in Afghanistan (2015-present)
 ### [ A suicide bomber attacks a convoy in Afghanistan's Kabul province, killing a Georgian soldier and three civilians and wounding 13 others, including six Resolute Support personnel. ](/news/2017/08/3/a-suicide-bomber-attacks-a-convoy-in-afghanistan-s-kabul-province-killing-a-georgian-soldier-and-three-civilians-and-wounding-13-others-i.md)
-_Context:  Georgian, Afghanistan, Kabul province, Resolute Support, War in Afghanistan (2015-present), suicide bomber_
+_Context:  Georgian, Afghan, Kabul province, Resolute Support, War in Afghanistan (2015-present), suicide bomber_
 
 ## [Previous Day...](/news/2017/08/2/index.md)
 

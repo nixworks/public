@@ -25,7 +25,7 @@ _Context: Amnesty International, George W. Bush, Human rights, John Kerry, natio
 
 ##### Militant
 ### [ Three militants with alleged links to al-Qaeda are killed by Pakistani forces near the border with Afghanistan. ](/news/2004/10/27/three-militants-with-alleged-links-to-al-qaeda-are-killed-by-pakistani-forces-near-the-border-with-afghanistan.md)
-_Context: Afghanistan, Pakistan, al-Qaeda, militant_
+_Context: Afghan, Pakistan, al-Qaeda, militant_
 
 ##### Police
 ### [ Three Russian policemen are charged with negligence over the Beslan school hostage crisis; more than 350 people, about half of whom were children, died in that event. ](/news/2004/10/27/three-russian-policemen-are-charged-with-negligence-over-the-beslan-school-hostage-crisis-more-than-350-people-about-half-of-whom-were-ch.md)

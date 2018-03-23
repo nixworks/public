@@ -19,11 +19,11 @@ Ugandan President Yoweri Museveni said his country would halt security and milit
 ### [Tropical Storm Bonnie makes landfall on the East Coast of the United States, affecting mainly the city of Charleston, South Carolina. ](/news/2016/05/29/tropical-storm-bonnie-makes-landfall-on-the-east-coast-of-the-united-states-affecting-mainly-the-city-of-charleston-south-carolina.md)
 Despite no longer being a tropical storm or depression, Bonnie will induce daily showers and thunderstorms across the Carolinas into the middle of the week.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [The United Nations fears that approximately 700 migrants have drowned in three Mediterranean Sea shipwrecks over the past few days. ](/news/2016/05/29/the-united-nations-fears-that-approximately-700-migrants-have-drowned-in-three-mediterranean-sea-shipwrecks-over-the-past-few-days.md)
-_Context: European migrant crisis, Mediterranean Sea, United Nations_
+_Context: Mediterranean Sea, United Nations, refugee immigration to Germany_
 
-##### Ukraine
+##### Ukrainian
 ### [A fire at a home for elderly people near the Ukrainian capital Kiev kills at least 16 people. ](/news/2016/05/29/a-fire-at-a-home-for-elderly-people-near-the-ukrainian-capital-kiev-kills-at-least-16-people.md)
 Seventeen people are killed as a fire tears through a building housing elderly people in a village near the Ukrainian capital Kiev.
 

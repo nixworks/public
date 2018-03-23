@@ -11,7 +11,7 @@ India called a quarter of its 815 million voters to polls on Thursday, the bigge
 ### [A suspected meteorite explosion has been recorded over Murmansk, Russia. ](/news/2014/04/19/a-suspected-meteorite-explosion-has-been-recorded-over-murmansk-russia.md)
 _Context: Murmansk, Russia, meteorite_
 
-##### Ukraine
+##### Ukrainian
 ### [Ukraine suspends operations against pro-Russian militants in the east of the country over Easter. ](/news/2014/04/19/ukraine-suspends-operations-against-pro-russian-militants-in-the-east-of-the-country-over-easter.md)
 Ukraine suspends operations against pro-Russian militants occupying government offices in the east over Easter, but the stand-off remains.
 

@@ -11,9 +11,9 @@ _Context: Andes Mountains, Peru, lizards_
 ### [Former Pakistani President Pervez Musharraf is granted protective bail in several cases, paving the way for his return to Pakistan from self-imposed exile. ](/news/2013/03/22/former-pakistani-president-pervez-musharraf-is-granted-protective-bail-in-several-cases-paving-the-way-for-his-return-to-pakistan-from-self.md)
 Former Pakistani President Pervez Musharraf has been granted protective bail in several cases, paving the way for his return, his lawyers say.
 
-##### French President
+##### President of France
 ### [Former President of France Nicolas Sarkozy is being investigated over claims of illegal donations received from the country's richest woman, Liliane Bettencourt of L'Oreal. ](/news/2013/03/22/former-president-of-france-nicolas-sarkozy-is-being-investigated-over-claims-of-illegal-donations-received-from-the-country-s-richest-woman.md)
-_Context: France, French President, L'Oreal, Liliane Bettencourt, Nicolas Sarkozy, richest woman_
+_Context: France, L'Oreal, Liliane Bettencourt, Nicolas Sarkozy, President of France, richest woman_
 
 ##### Australian Labor Party
 ### [Several Ministers and Australian Labor Party figures resign or are sacked following a leadership spill including Simon Crean, Martin Ferguson, Chris Bowen, Kim Carr, Richard Marles, Ed Husic and Joel Fitzgibbon. ](/news/2013/03/22/several-ministers-and-australian-labor-party-figures-resign-or-are-sacked-following-a-leadership-spill-including-simon-crean-martin-ferguso.md)

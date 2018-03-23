@@ -29,9 +29,9 @@ A summit of Park Geun-hye and Prime Minister Shinzo Abe of Japan would be welcom
 
 ##### Russia
 ### [Russia and other ex-Soviet states meeting in Kazakhstan agree to set up a joint task force to tackle instability on their borders, most notably from Afghanistan. ](/news/2015/10/16/russia-and-other-ex-soviet-states-meeting-in-kazakhstan-agree-to-set-up-a-joint-task-force-to-tackle-instability-on-their-borders-most-nota.md)
-_Context: Afghanistan, Kazakhstan, Russia_
+_Context: Afghan, Kazakhstan, Russia_
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [The European Union and Turkey reach an agreement for Turkey to stem the flow of migrants into Europe in return for a GBP3bn aid package, easier visa conditions and re-energised talks to join the bloc. ](/news/2015/10/16/the-european-union-and-turkey-reach-an-agreement-for-turkey-to-stem-the-flow-of-migrants-into-europe-in-return-for-a-agbp3bn-aid-package-ea.md)
 The European Union has agreed an &quot;action plan&quot; with Turkey to help stem the flow of migrants into Europe. EU leaders offered a £3bn aid package, the prospect of easier visas and re-energised talks on joining the bloc if they comply. At a summit in Brussels, it was also agreed that border ...
 
@@ -53,7 +53,7 @@ Appeals court brushes off Authors Guild, says snippet searches are just fine
 
 ##### Spillover of the Syrian Civil War
 ### [Turkey says it has shot down a drone near the Syrian border after it failed to leave Turkish airspace. ](/news/2015/10/16/turkey-says-it-has-shot-down-a-drone-near-the-syrian-border-after-it-failed-to-leave-turkish-airspace.md)
-_Context: Spillover of the Syrian Civil War, Syrian border, Turkish, drone_
+_Context: Spillover of the Syrian Civil War, Syrian border, Turkey, drone_
 
 ##### The battle for Aleppo
 ### [Syrian Army forces supported by Russian planes attack insurgents south of the city of Aleppo. ](/news/2015/10/16/syrian-army-forces-supported-by-russian-planes-attack-insurgents-south-of-the-city-of-aleppo.md)

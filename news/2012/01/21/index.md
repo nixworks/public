@@ -25,7 +25,7 @@ _Context: Costa Concordia, Italy, cruise ship, sunk_
 
 ##### A series of co-ordinated bombing attacks
 ### [The death toll of a series of co-ordinated bombing attacks in Kano, Nigeria, rises to more than 140. The attacks, which targeted police stations across the city, are attributed to Islamist group Boko Haram. ](/news/2012/01/21/the-death-toll-of-a-series-of-co-ordinated-bombing-attacks-in-kano-nigeria-rises-to-more-than-140-the-attacks-which-targeted-police-stat.md)
-_Context: Boko Haram, Islam, Kano, Nigeria, a series of co-ordinated bombing attacks_
+_Context: Boko Haram, Kano, Muslim, Nigeria, a series of co-ordinated bombing attacks_
 
 ## [Previous Day...](/news/2012/01/20/index.md)
 

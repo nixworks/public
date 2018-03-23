@@ -9,7 +9,7 @@ _Context: Pakistan, Waziristan_
 
 ##### Bird flu
 ### [ A fifteenth case of H5N1 is reported in Turkey. However, the Turkish government declares that the virus is "under control". ](/news/2006/01/10/a-fifteenth-case-of-h5n1-is-reported-in-turkey-however-the-turkish-government-declares-that-the-virus-is-under-control.md)
-_Context: Turkish, Turkish government, bird flu_
+_Context: Turkey, Turkish government, bird flu_
 
 ##### Prime Minister
 ### [ British Prime Minister Tony Blair sets out his Respect agenda. ](/news/2006/01/10/british-prime-minister-tony-blair-sets-out-his-respect-agenda.md)
@@ -19,9 +19,9 @@ _Context: Prime Minister, Respect agenda, Tony Blair_
 ### [ Iran's standoff from the UN and the west deepens as the UN seals on the Natanz nuclear processing plant are broken. ](/news/2006/01/10/iran-s-standoff-from-the-un-and-the-west-deepens-as-the-un-seals-on-the-natanz-nuclear-processing-plant-are-broken.md)
 _Context: Iran, Natanz, United Nations_
 
-##### Ukraine
+##### Ukrainian
 ### [ Ukraine's parliament dismisses the Cabinet over its gas deal with Russia. ](/news/2006/01/10/ukraine-s-parliament-dismisses-the-cabinet-over-its-gas-deal-with-russia.md)
-_Context: Ukraine, forming a government, parliament, restarts_
+_Context: Ukrainian, forming a government, parliament, restarts_
 
 ##### Whaling
 ### [ Japanese whalers and anti-whaling environmental groups continue to clash in Antarctic waters near Australia, as calls for the Australian Government to intervene intensify. ](/news/2006/01/10/japanese-whalers-and-anti-whaling-environmental-groups-continue-to-clash-in-antarctic-waters-near-australia-as-calls-for-the-australian-go.md)

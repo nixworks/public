@@ -11,7 +11,7 @@ _Context: Dean Farrar Street, London, Structural failure, storey_
 ### [ Palestinian factional violence: Hamas officials report that a rocket-propelled grenade has been fired at the house of Prime Minister Ismail Haniyeh, causing damage but no injuries. ](/news/2007/06/12/palestinian-factional-violence-hamas-officials-report-that-a-rocket-propelled-grenade-has-been-fired-at-the-house-of-prime-minister-ismail.md)
 _Context: Hamas, Ismail Haniyeh, Prime Minister, clashes, grenade_
 
-##### Afghanistan
+##### Afghan
 ### [ Afghan officials claim that seven members of the Afghan police were killed by Coalition air forces in a friendly fire incident. ](/news/2007/06/12/afghan-officials-claim-that-seven-members-of-the-afghan-police-were-killed-by-coalition-air-forces-in-a-friendly-fire-incident.md)
 U.S.-led forces killed seven Afghan policemen, an official said on Tuesday, and three people were shot dead at a NATO checkpoint, raising concern about mistaken fire incidents in Afghanistan.
 
@@ -33,7 +33,7 @@ _Context: Bob Woolmer, Jamaica, Pakistani cricket team, murder investigation_
 
 ##### PKK
 ### [ The PKK declares that it will stop attacks on Turkey but will defend itself if attacked. ](/news/2007/06/12/the-pkk-declares-that-it-will-stop-attacks-on-turkey-but-will-defend-itself-if-attacked.md)
-_Context: PKK, Turkish_
+_Context: PKK, Turkey_
 
 ##### Ehud Barak
 ### [ Ehud Barak, former Prime Minister of Israel, declares victory in a vote for the leadership of the Israeli Labor Party, with 51.5% of the vote compared to 47.5% for former security chief Ami Ayalon. ](/news/2007/06/12/ehud-barak-former-prime-minister-of-israel-declares-victory-in-a-vote-for-the-leadership-of-the-israeli-labor-party-with-51-5-of-the-vo.md)

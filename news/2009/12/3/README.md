@@ -11,9 +11,9 @@ Kristina Keneally will become the first female Premier of NSW after Nathan Rees 
 ### [ Three Iranian pilgrims are killed after their bus exploded at a petrol station in the Syrian capital Damascus. ](/news/2009/12/3/three-iranian-pilgrims-are-killed-after-their-bus-exploded-at-a-petrol-station-in-the-syrian-capital-damascus.md)
 _Context: Damascus, Iran, Syria_
 
-##### Somalia
+##### Somali
 ### [ Three Somali cabinet ministers are amongst dozens killed in a bomb blast at a university graduation ceremony at a hotel in Mogadishu. ](/news/2009/12/3/three-somali-cabinet-ministers-are-amongst-dozens-killed-in-a-bomb-blast-at-a-university-graduation-ceremony-at-a-hotel-in-mogadishu.md)
-_Context: Mogadishu, Somalia, bomb blast, university_
+_Context: Mogadishu, Somali, bomb blast, university_
 
 ##### India
 ### [ Indian activists mark the 25th anniversary of the industrial disaster that took place in Bhopal which led to 3,787 deaths. ](/news/2009/12/3/indian-activists-mark-the-25th-anniversary-of-the-industrial-disaster-that-took-place-in-bhopal-which-led-to-3-787-deaths.md)

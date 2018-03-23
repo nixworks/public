@@ -11,9 +11,9 @@ _Context: Alpha Conde, Guinea, Guinean presidential election, 2015, President of
 ### [Egyptians residing abroad begin casting votes in the country's first parliamentary election since the 2013 military overthrow of President Mohamed Morsi. Embassies and consulates in 139 countries will be open for two days of voting. ](/news/2015/10/17/egyptians-residing-abroad-begin-casting-votes-in-the-country-s-first-parliamentary-election-since-the-2013-military-overthrow-of-president-m.md)
 Voters express the hope that Egypt will some day become a land of opportunity like the UAE
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [The first migrants reach Slovenia after the border between Hungary and Croatia is closed. ](/news/2015/10/17/the-first-migrants-reach-slovenia-after-the-border-between-hungary-and-croatia-is-closed.md)
-_Context: Croatia, European migrant crisis, Hungary, Slovenia_
+_Context: Croatia, Hungary, Slovenia, refugee immigration to Germany_
 
 ##### Fort Myers, Florida
 ### [A shooting just before midnight at the ninth annual Fort Myers, Florida, Zombicon kills one person and injures four others, none with life threatening injuries, and causes pandemomium on the city's downtown streets. Police ask attendees to share smartphone video from the incident. ](/news/2015/10/17/a-shooting-just-before-midnight-at-the-ninth-annual-fort-myers-florida-zombicon-kills-one-person-and-injures-four-others-none-with-life-t.md)
@@ -65,7 +65,7 @@ The Saudi-led air coalition targeting Shia Houthi rebels in Yemen mistakenly hit
 
 ##### 2015 PKK rebellion
 ### [Three Turkish troops, including a lieutenant colonel, are killed following clashes with PKK insurgents around Daglica vlliage, in the southeastern Hakkari Province. At least 17 PKK insurgents were also reportedly killed in the fighting. ](/news/2015/10/17/three-turkish-troops-including-a-lieutenant-colonel-are-killed-following-clashes-with-pkk-insurgents-around-daala-ca-vlliage-in-the-sout.md)
-_Context: 2015 PKK rebellion, Daglica, Hakkari Province, PKK, Turkish_
+_Context: 2015 PKK rebellion, Daglica, Hakkari Province, PKK, Turkey_
 
 ##### Terrorism in Saudi Arabia
 ### [A gunman from the Islamic State opens fire on a Shiite meeting hall in Saudi Arabia, killing five people. ](/news/2015/10/17/a-gunman-from-the-islamic-state-opens-fire-on-a-shiite-meeting-hall-in-saudi-arabia-killing-five-people.md)

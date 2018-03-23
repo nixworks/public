@@ -65,7 +65,7 @@ _Context: Ben Gurion Airport, Histadrut, Israel, labour unions, strike_
 
 ##### Islamist
 ### [The Islamist group Al-Shabab claims responsibility for a car bombing in the Somalian capital Mogadishu which claims at least ten people and injures at least 20. ](/news/2012/02/8/the-islamist-group-al-shabab-claims-responsibility-for-a-car-bombing-in-the-somalian-capital-mogadishu-which-claims-at-least-ten-people-and.md)
-_Context: Al-Shabaab, Islamist, Mogadishu, Somalia_
+_Context: Al-Shabab, Islamist, Mogadishu, Somali_
 
 ##### Government of Syria
 ### [The Syrian government launches an offensive in Homs, with tanks reported in neighbourhoods and dozens of people reported as dying over the past few hours. ](/news/2012/02/8/the-syrian-government-launches-an-offensive-in-homs-with-tanks-reported-in-neighbourhoods-and-dozens-of-people-reported-as-dying-over-the-p.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2016/01/11/index.html)  [JSON](2016/01/11/index.json)  [XML](201
 
 ##### New Year's Eve sexual assaults in Germany
 ### [Thousands of protesters in Leipzig demonstrate against a record refugee influx they blame for mass sexual violence at New Year's Eve events in Cologne and other German cities. Many chanted 'We are the people', 'Resistance!' and 'Deport them!'. The rally was organized by a local chapter of PEGIDA (Patriotic Europeans Against the Islamisation of the Occident). Six Pakistani men and one Syrian man were also attacked by so-called vigilantes in Cologne, following calls on social media for "revenge" in the wake of the New Year's Eve assaults. ](/news/2016/01/11/thousands-of-protesters-in-leipzig-demonstrate-against-a-record-refugee-influx-they-blame-for-mass-sexual-violence-at-new-year-s-eve-events.md)
-_Context: Cologne, European migrant crisis, Leipzig, New Year's Eve sexual assaults in Germany, Pakistan, Pegida, Syria, social media_
+_Context: Cologne, Leipzig, New Year's Eve sexual assaults in Germany, Pakistan, Pegida, Syria, refugee immigration to Germany, social media_
 
 ##### 2015-16 Great Britain and Ireland floods
 ### [Philip Dilley, chairman of the UK's Environment Agency resigns after receiving heavy criticism for not returning from a family holiday in Barbados during the recent heavy floods in Northern England and Scotland. ](/news/2016/01/11/philip-dilley-chairman-of-the-uk-s-environment-agency-resigns-after-receiving-heavy-criticism-for-not-returning-from-a-family-holiday-in-ba.md)

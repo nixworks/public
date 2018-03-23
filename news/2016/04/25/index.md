@@ -19,7 +19,7 @@ CARACAS, Venezuela (AP) — Venezuela&#039;s supreme court has struck down an at
 ### [The U.S. city of Cleveland, Ohio, agrees to pay $6 million to settle a wrongful death civil rights lawsuit brought by the family of Tamir Rice. Rice was a 12-year-old boy who was walking outside a recreation center holding an air pellet gun when he was shot and killed by a Cleveland Police officer on November 22, 2014. Prosecutor Tim McGinty reported in December 2015 that an Ohio grand jury decided not to indict the police officers. ](/news/2016/04/25/the-u-s-city-of-cleveland-ohio-agrees-to-pay-6-million-to-settle-a-wrongful-death-civil-rights-lawsuit-brought-by-the-family-of-tamir-ri.md)
 _Context: Cleveland, Cleveland Police, Ohio, Shooting of Tamir Rice, air pellet gun, civil rights, grand jury, lawsuit, wrongful death_
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Turkey says it has deported more than 3,300 foreigners suspected of links to jihadi groups, and barred another 41,000 foreigners from entering the country. ](/news/2016/04/25/turkey-says-it-has-deported-more-than-3-300-foreigners-suspected-of-links-to-jihadi-groups-and-barred-another-41-000-foreigners-from-enteri.md)
 ANKARA, Turkey (AP) — Turkey has deported more than 3,300 foreigners suspected of links to jihadi groups, particularly Islamic State militants, and another 41,000 foreigners have been barred from entering the country as…
 

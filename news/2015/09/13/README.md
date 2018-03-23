@@ -11,7 +11,7 @@ _Context: 3-D printing, Salamanca, Spain, sternum, titanium_
 ### [Russian cosmonaut Gennady Padalka's return from the ISS on Saturday sets a new record for time in space, breaking the one fellow countryman Sergei Krikalev set in 2005. Padalka totaled 879 days in space (2.41 years) over five flights. ](/news/2015/09/13/russian-cosmonaut-gennady-padalka-s-return-from-the-iss-on-saturday-sets-a-new-record-for-time-in-space-breaking-the-one-fellow-countryman.md)
 Gennady Padalka, who spent several months aboard the International Space Station, has now spent more time in space than any human, clocking more than 2.4 years in space on five missions since 1998.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Germany reintroduces emergency controls on its border with Austria. ](/news/2015/09/13/germany-reintroduces-emergency-controls-on-its-border-with-austria.md)
 Berlin called the crisis of refugees and migrants a threat to its national security.
 
@@ -33,9 +33,9 @@ The fast-moving Valley Fire that started burning in Lake County yesterday has ex
 ### [Thirty-four refugees, including four babies and 11 children, drown in the Aegean Sea when their wooden boat sinks off the Greek island of Farmakonissi, close to Turkey's coast. ](/news/2015/09/13/thirty-four-refugees-including-four-babies-and-11-children-drown-in-the-aegean-sea-when-their-wooden-boat-sinks-off-the-greek-island-of-fa.md)
 Thirty-four refugees, almost half of them babies and children, drowned when their boat sank off a Greek island on Sunday, almost certainly the largest death toll in those waters since the migrant crisis began, the coastguard said.
 
-##### Islam
+##### Muslim
 ### [An Islamic school in the Nigerian town of Bukuru collapses with at least four students killed and 40 injured. ](/news/2015/09/13/an-islamic-school-in-the-nigerian-town-of-bukuru-collapses-with-at-least-four-students-killed-and-40-injured.md)
-_Context: Bukuru, Islam, Nigeria_
+_Context: Bukuru, Muslim, Nigeria_
 
 ##### Pakistan
 ### [An explosion in the Pakistan city of Multan kills at least eleven people and injures 79. ](/news/2015/09/13/an-explosion-in-the-pakistan-city-of-multan-kills-at-least-eleven-people-and-injures-79.md)

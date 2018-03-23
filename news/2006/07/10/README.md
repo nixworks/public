@@ -27,7 +27,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### [ A chlorine gas leak at a Chinese chemical plant has hospitalized 164 people. It occurred at the Xing'erte Chemical Products Co. ](/news/2006/07/10/a-chlorine-gas-leak-at-a-chinese-chemical-plant-has-hospitalized-164-people-it-occurred-at-the-xing-erte-chemical-products-co.md)
 A chlorine gas leak at a Chinese chemical plant sends 164 people to the hospital, a government news agency reports.
 
-##### Somalia
+##### Somali
 ### [ Fighting erupts in Somalia, with fighting between Somalian fighters aligned with defeated warlords and Islamic militants killing 60 people and wounding 100. ](/news/2006/07/10/fighting-erupts-in-somalia-with-fighting-between-somalian-fighters-aligned-with-defeated-warlords-and-islamic-militants-killing-60-people.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 

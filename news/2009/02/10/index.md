@@ -19,9 +19,9 @@ Mexico will start a national register of mobile phone users that will include fi
 ### [ The United Kingdom imposes new visa requirements on nationals from Bolivia, Lesotho, South Africa, Swaziland, and Venezuela. ](/news/2009/02/10/the-united-kingdom-imposes-new-visa-requirements-on-nationals-from-bolivia-lesotho-south-africa-swaziland-and-venezuela.md)
 _Context: Bolivia, Lesotho, Swaziland, Venezuela, national, visa-free travel_
 
-##### United States Senate
+##### Senate
 ### [ The United States Senate approves the American Recovery and Reinvestment Act of 2009. ](/news/2009/02/10/the-united-states-senate-approves-the-american-recovery-and-reinvestment-act-of-2009.md)
-_Context: American Recovery and Reinvestment Act, United States Senate_
+_Context: American Recovery and Reinvestment Act, Senate_
 
 ##### Zimbabwe
 ### [ Zimbabwe's dollar depreciates and its cholera epidemic has killed more than 3,000 people. ](/news/2009/02/10/zimbabwe-s-dollar-depreciates-and-its-cholera-epidemic-has-killed-more-than-3-000-people.md)

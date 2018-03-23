@@ -15,9 +15,9 @@ _Context: China, Shanghai_
 ### [ Media reports the death toll from Cyclone Nargis in Myanmar to have passed 10,000. ](/news/2008/05/5/media-reports-the-death-toll-from-cyclone-nargis-in-myanmar-to-have-passed-10-000.md)
 _Context: Cyclone Nargis, Myanmar_
 
-##### Somalia
+##### Somali
 ### [ Somalian troops open fire killing at least two people during food riots in Mogadishu. ](/news/2008/05/5/somalian-troops-open-fire-killing-at-least-two-people-during-food-riots-in-mogadishu.md)
-_Context: Mogadishu, Somalia_
+_Context: Mogadishu, Somali_
 
 ##### Crude oil
 ### [ Crude oil futures contracts reach US$120 a barrel on the New York Mercantile Exchange for the first time. ](/news/2008/05/5/crude-oil-futures-contracts-reach-us-120-a-barrel-on-the-new-york-mercantile-exchange-for-the-first-time.md)

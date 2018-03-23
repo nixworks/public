@@ -59,7 +59,7 @@ A deadly fire in a factory on the outskirts of the southern Indian city of Banga
 ### [Thousands of homes in Scotland and Northern Ireland are without electricity and many roads are closed after snowfall and strong winds hit over the weekend. ](/news/2013/03/25/thousands-of-homes-in-scotland-and-northern-ireland-are-without-electricity-and-many-roads-are-closed-after-snowfall-and-strong-winds-hit-ov.md)
 Thousands of homes are still without power and many roads are impassable after severe weather affected much of the UK during the weekend.
 
-##### Cypriot
+##### Cyprus
 ### [Cyprus reportedly reaches an outline bank bailout deal with international lenders including the European Union, the European Central Bank and the International Monetary Fund. ](/news/2013/03/25/cyprus-reportedly-reaches-an-outline-bank-bailout-deal-with-international-lenders-including-the-european-union-the-european-central-bank-an.md)
 Cyprus reached an outline deal with international lenders for a 10 billion euro ($13 billion) bailout that would shut down its second largest bank and inflict heavy losses on uninsured depositors, an EU spokesman said early on Monday.
 

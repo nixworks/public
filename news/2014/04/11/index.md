@@ -29,7 +29,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### 2014 Crimean crisis
 ### [Montenegro, Norway, Iceland and Albania join the list of countries supporting sanctions including asset freezings and travel bans directed at Russian individuals. ](/news/2014/04/11/montenegro-norway-iceland-and-albania-join-the-list-of-countries-supporting-sanctions-including-asset-freezings-and-travel-bans-directed-a.md)
-_Context: 2014 Crimean crisis, Albania, Iceland, Montenegrin, Norwegian, supporting sanctions_
+_Context: 2014 Crimean crisis, Albania, Iceland, Montenegro, Norwegian, supporting sanctions_
 
 ##### United Nations
 ### [The United Nations votes to send 12,000 peacekeepers to the Central African Republic to help protect citizens as Christians and Muslims continue to fight in the country. ](/news/2014/04/11/the-united-nations-votes-to-send-12-000-peacekeepers-to-the-central-african-republic-to-help-protect-citizens-as-christians-and-muslims-cont.md)

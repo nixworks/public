@@ -21,7 +21,7 @@ _Context: ASEAN Summit, December 10, Philippines, Severe Tropical Storm Utor_
 
 ##### Fight Ethiopian forces
 ### [ Ethiopian involvement in the Somali Civil War: The Somali and Ethiopian militaries engage the Islamic Court Union inside Somalia. ](/news/2006/12/8/ethiopian-involvement-in-the-somali-civil-war-the-somali-and-ethiopian-militaries-engage-the-islamic-court-union-inside-somalia.md)
-_Context: Islamic Court Union, Somalia, fight Ethiopian forces_
+_Context: Islamic Court Union, Somali, fight Ethiopian forces_
 
 ##### Bushfire
 ### [ Bushfires in the Australian state of Victoria threaten at least six townships in the Gippsland region with extreme weather conditions over the weekend expected to increase the danger. The Victorian Department of Education closes 24 schools due to threat of fire. ](/news/2006/12/8/bushfires-in-the-australian-state-of-victoria-threaten-at-least-six-townships-in-the-gippsland-region-with-extreme-weather-conditions-over.md)

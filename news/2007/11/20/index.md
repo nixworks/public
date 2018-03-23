@@ -53,7 +53,7 @@ _Context: 2007 Mideast peace conference, Ehud Olmert, Israel, Mahmoud Abbas, Pal
 
 ##### France
 ### [ French President Nicolas Sarkozy vows to continue his economic reforms. ](/news/2007/11/20/french-president-nicolas-sarkozy-vows-to-continue-his-economic-reforms.md)
-_Context: France, French President, Nicolas Sarkozy, economic, reform_
+_Context: France, Nicolas Sarkozy, President of France, economic, reform_
 
 ## [Previous Day...](/news/2007/11/19/index.md)
 

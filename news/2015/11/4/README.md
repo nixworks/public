@@ -31,7 +31,7 @@ San Diego police on Wednesday took into custody a gunman who had fired at office
 ### [Police, at the University of California, Merced campus, shoot and kill a male student who went on a terrorist stabbing rampage that wounded four people. The University closed its campus, except for housing, and cancelled classes for Wednesday and Thursday. The school reported all of the wounded are expected to recover. ](/news/2015/11/4/police-at-the-university-of-california-merced-campus-shoot-and-kill-a-male-student-who-went-on-a-terrorist-stabbing-rampage-that-wounded.md)
 Wednesday morning four people were wounded in a stabbing attack by a student at UC Merced, located in the San Joaquin Valley.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [European Union president Donald Tusk and Swedish Prime Minister Stefan Lofven, in a joint news conference, announce Sweden will ask to transfer some migrants to other European countries under an EU relocation plan. Sweden has taken the highest number of asylum-seekers per capita in the 28-member bloc. ](/news/2015/11/4/european-union-president-donald-tusk-and-swedish-prime-minister-stefan-lapfva-c-n-in-a-joint-news-conference-announce-sweden-will-ask-to-tra.md)
 UPDATED: As the Nordic nation continues to take in record numbers of refugees, Sweden is sending a formal request to the European Commission asking for some of the arriving asylum seekers to be distributed to other EU countries.
 

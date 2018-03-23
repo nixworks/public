@@ -3,7 +3,7 @@ Formats: [HTML](2017/03/7/index.html)  [JSON](2017/03/7/index.json)  [XML](2017/
 
 ## [2017-03-7](/news/2017/03/7/index.md)
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [The National Assembly of Hungary approves the automatic detention of all asylum seekers who enter the country. ](/news/2017/03/7/the-national-assembly-of-hungary-approves-the-automatic-detention-of-all-asylum-seekers-who-enter-the-country.md)
 Rights groups raise concerns as Hungary approves the automatic detention of asylum seekers.
 

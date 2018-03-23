@@ -9,7 +9,7 @@ Global warming is likely to have a &quot;severe, pervasive and irreversible&quot
 
 ##### French municipal elections, 2014
 ### [French government and Socialist Party admit major defeat following the The President of France Franois Hollande appoints Manuel Valls, previously Minister of the Interior, as the new Prime Minister. He replaces Jean-Marc Ayrault. ](/news/2014/03/31/french-government-and-socialist-party-admit-major-defeat-following-the-the-president-of-france-francois-hollande-appoints-manuel-valls-prev.md)
-_Context: Franois Hollande, French President, French Prime Minister, French municipal elections, 2014, Jean-Marc Ayrault, Manuel Valls, Minister of the Interior, PS_
+_Context: Franois Hollande, French Prime Minister, French municipal elections, 2014, Jean-Marc Ayrault, Manuel Valls, Minister of the Interior, PS, President of France_
 
 ##### Pakistan
 ### [A Pakistani court charges former President Pervez Musharraf with high treason in relation to the imposition of the emergency rule in 2007. ](/news/2014/03/31/a-pakistani-court-charges-former-president-pervez-musharraf-with-high-treason-in-relation-to-the-imposition-of-the-emergency-rule-in-2007.md)

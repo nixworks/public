@@ -73,9 +73,9 @@ _Context: Canada Day, Ottawa_
 ### [Millions of people in Senegal mourn the death of Grand Marabout of the Mourides, Serigne Mouhamadou Lamine Bara Mbacke. ](/news/2010/07/1/millions-of-people-in-senegal-mourn-the-death-of-grand-marabout-of-the-mourides-serigne-mouhamadou-lamine-bara-mbacka-c.md)
 Hundreds of thousands of Senegalese are expected at ceremonies to mourn the leader of the Mouride Islamic sect.
 
-##### Somalia
+##### Somali
 ### [Somali President Sharif Ahmed joins Somali troops on the front line during battles on the 50 th anniversary of the country's independence. ](/news/2010/07/1/somali-president-sharif-ahmed-joins-somali-troops-on-the-front-line-during-battles-on-the-50-th-anniversary-of-the-country-s-independence.md)
-_Context: President, Sharif Ahmed, Somalia_
+_Context: President, Sharif Ahmed, Somali_
 
 ##### Yesterday's bombings of Data Darbar in Lahore
 ### [At least 42 people are killed and at least 175 are injured in three suicide bomb explosions at the Data Darbar Sufi shrine in Lahore. ](/news/2010/07/1/at-least-42-people-are-killed-and-at-least-175-are-injured-in-three-suicide-bomb-explosions-at-the-data-darbar-sufi-shrine-in-lahore.md)

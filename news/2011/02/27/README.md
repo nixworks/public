@@ -81,7 +81,7 @@ BIRMINGHAM,AL (WBRC) - The Birmingham - Shuttlesworth International Airport has 
 
 ##### Al-Qaeda
 ### [At least 115 people are killed in a government offensive against Al-Qaeda linked militants in Somalia. ](/news/2011/02/27/at-least-115-people-are-killed-in-a-government-offensive-against-al-qaeda-linked-militants-in-somalia.md)
-_Context: Somalia, al-Qaeda_
+_Context: Somali, al-Qaeda_
 
 ##### Abidjan
 ### [State television is taken off air in the city of Abidjan, Ivory Coast, during clashes between forces loyal to incumbent President Laurent Gbagbo and rival groups. ](/news/2011/02/27/state-television-is-taken-off-air-in-the-city-of-abidjan-ivory-coast-during-clashes-between-forces-loyal-to-incumbent-president-laurent-gb.md)

@@ -51,11 +51,11 @@ Eurozone finance ministers agree to release a further 12bn euros of emergency ai
 ### [Albert II, Prince of Monaco marries Charlene Wittstock, the Olympic swimmer, again, this time in a religious ceremony attended by 3,500 guests, including royalty and celebrities. ](/news/2011/07/2/albert-ii-prince-of-monaco-marries-charlene-wittstock-the-olympic-swimmer-again-this-time-in-a-religious-ceremony-attended-by-3-500-gues.md)
 The principality of Monaco celebrates the religious wedding of Prince Albert II to South African Olympic swimmer Charlene Wittstock.
 
-##### Afghanistan
+##### Afghan
 ### [11 members of one family are killed by a roadside bomb in southern Afghanistan while traveling to Pakistan. ](/news/2011/07/2/11-members-of-one-family-are-killed-by-a-roadside-bomb-in-southern-afghanistan-while-traveling-to-pakistan.md)
 Members of family travelling through Ghazni reportedly killed, a day after a similar attack in Nimroz left 13 dead.
 
-##### Somalia
+##### Somali
 ### [Somali and African Union forces make gains against al-Shabaab rebels in Mogadishu. ](/news/2011/07/2/somali-and-african-union-forces-make-gains-against-al-shabaab-rebels-in-mogadishu.md)
 Change in mandate allows peacekeepers to engage al-Shabab, as they try to turn the situation around.
 

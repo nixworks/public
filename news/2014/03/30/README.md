@@ -15,7 +15,7 @@ _Context: Presidential Office, legislative chamber, trade deal_
 ### [Electoral authorities in Egypt set the first round of the presidential election for 26-27 May. ](/news/2014/03/30/electoral-authorities-in-egypt-set-the-first-round-of-the-presidential-election-for-26a27-may.md)
 _Context: Egyptian presidential election, 2014_
 
-##### Turkish
+##### Turkey
 ### [Voters in Turkey go to the polls for municipal elections with Prime Minister Recep Tayyip Erdogan's Justice and Development Party claiming victory. ](/news/2014/03/30/voters-in-turkey-go-to-the-polls-for-municipal-elections-with-prime-minister-recep-tayyip-erdoaan-s-justice-and-development-party-claiming.md)
 With 45 percent of the votes counted, the governing party leads with 44 percent of the vote.
 

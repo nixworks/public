@@ -45,7 +45,7 @@ Indian government ministers who are re-examining the 1984 Bhopal gas disaster ho
 
 ##### Polish presidential election, 2010
 ### [The Polish presidential election is being held earlier, following the death of Polish President Lech Kaczynski in a plane crash on 10 April 2010 near Smolensk. The two front-runners are Bronislaw Komorowski from the ruling center-right Civic Platform (Platforma Obywatelska) party and Jaroslaw Kaczynski from the right-wing Law and Justice (Prawo i Sprawiedliwosc) party. ](/news/2010/06/18/the-polish-presidential-election-is-being-held-earlier-following-the-death-of-polish-president-lech-kaczyaski-in-a-plane-crash-on-10-april.md)
-_Context: 2010 Polish Air Force Tu-154 crash, Bronislaw Komorowski, Civic Platform, Jaroslaw Kaczynski, Lech Kaczynski, PiS, Polish presidential election, 2010, Smolensk, the death_
+_Context: 2010 Polish Air Force Tu-154 crash, Bronislaw Komorowski, Civic Platform, Jaroslaw Kaczynski, Law and Justice, Lech Kaczynski, Polish presidential election, 2010, Smolensk, the death_
 
 ##### The Gambia
 ### [Two former military chiefs in The Gambia are charged over an alleged plot to remove President Yahya Jammeh from office in 2006; critics say the government is manipulating coup allegations for its own gain. ](/news/2010/06/18/two-former-military-chiefs-in-the-gambia-are-charged-over-an-alleged-plot-to-remove-president-yahya-jammeh-from-office-in-2006-critics-say.md)

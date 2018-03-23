@@ -17,7 +17,7 @@ _Context: Arabian Sea, Iran, U.S. Navy, pirate_
 
 ##### Two days of attacks
 ### [At least 37 people are killed in two days of attacks in northeastern Nigeria, after radical Islamic group Boko Haram issues an ultimatum for all Christians to leave the north. ](/news/2012/01/7/at-least-37-people-are-killed-in-two-days-of-attacks-in-northeastern-nigeria-after-radical-islamic-group-boko-haram-issues-an-ultimatum-for.md)
-_Context: Boko Haram, Christian, Islam, Nigeria, two days of attacks_
+_Context: Boko Haram, Christian, Muslim, Nigeria, two days of attacks_
 
 ## [Previous Day...](/news/2012/01/6/index.md)
 

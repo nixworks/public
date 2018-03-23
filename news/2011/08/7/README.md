@@ -19,9 +19,9 @@ _Context: Malaysia_
 ### [Australian French Resistance leader Nancy Wake dies in London at the age of 98. ](/news/2011/08/7/australian-french-resistance-leader-nancy-wake-dies-in-london-at-the-age-of-98.md)
 _Context: Australian, French Resistance, London, Nancy Wake_
 
-##### Somalia
+##### Somali
 ### [Fighting erupts in the Somali capital Mogadishu a day after al Shabaab rebels had reportedly left the city. ](/news/2011/08/7/fighting-erupts-in-the-somali-capital-mogadishu-a-day-after-al-shabaab-rebels-had-reportedly-left-the-city.md)
-_Context: Al-Shabaab, Mogadishu, Somalia_
+_Context: Al-Shabab, Mogadishu, Somali_
 
 ##### 2011 Bahraini uprising
 ### [2011 Bahraini uprising: Two opposition MPs are released from prison. ](/news/2011/08/7/2011-bahraini-uprising-two-opposition-mps-are-released-from-prison.md)

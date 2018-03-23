@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/21/former-united-states-ambassador-to-the-united-n
 
 ### [2007-03-21](/news/2007/03/21/index.md)
 
-##### Ambassador to the United Nations
+##### United States Ambassador to the United Nations
 #  Former United States Ambassador to the United Nations and the broker of the Dayton Peace Accords Richard Holbrooke warns that if the United Nations votes against independence for Kosovo in April the region may erupt into violence. 
 
 

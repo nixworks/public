@@ -41,7 +41,7 @@ The United States has officially recognised the government of Somalia for the fi
 
 ##### Bus
 ### [At least 4 people are killed and 16 injured when a bus and a truck collided in Lviv Oblast, Ukraine. ](/news/2013/01/18/at-least-4-people-are-killed-and-16-injured-when-a-bus-and-a-truck-collided-in-lviv-oblast-ukraine.md)
-_Context: Lviv Oblast, Ukraine, bus, truck_
+_Context: Lviv Oblast, Ukrainian, bus, truck_
 
 ##### Snowfall
 ### [Heavy snowfall causes extensive disruption in the United Kingdom. ](/news/2013/01/18/heavy-snowfall-causes-extensive-disruption-in-the-united-kingdom.md)

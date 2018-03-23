@@ -31,13 +31,13 @@ _Context: Association Mutual Aid and Solidarity AF447, Axa, Brazil, Marcelle Val
 ### [At least 6 people, including three security personnel, die and more than 16 others are wounded after a suicide bomber tries to enter a government building, is stopped by police and detonates himself in Swat, Pakistan. ](/news/2010/03/13/at-least-6-people-including-three-security-personnel-die-and-more-than-16-others-are-wounded-after-a-suicide-bomber-tries-to-enter-a-gover.md)
 A Taliban suicide bomber targeting security forces killed at least 11 people on Saturday, Pakistani police said, part of a renewed push against the state after one of the biggest security crackdowns in years.
 
-##### Afghanistan
+##### Afghan
 ### [A remotely operated bomb killed 6 people traveling in southern Afghanistan in Tirin Kot, the capital of Afghanistan's Uruzgan province. ](/news/2010/03/13/a-remotely-operated-bomb-killed-6-people-traveling-in-southern-afghanistan-in-tirin-kot-the-capital-of-afghanistan-s-uruzgan-province.md)
 Canadian Soldiers And Afghan Interpreter Die In Roadside Bombing In Kandahar
 
 ##### Battle of Mogadishu (2010)
 ### [Fighting in Somalia's capital Mogadishu has killed 60 people since March 10. ](/news/2010/03/13/fighting-in-somalia-s-capital-mogadishu-has-killed-60-people-since-march-10.md)
-_Context: Battle of Mogadishu (2010), Mogadishu, Somalia_
+_Context: Battle of Mogadishu (2010), Mogadishu, Somali_
 
 ##### New Zealand
 ### [New Zealander Peter Bethune, a member of the Sea Shepherd Conservation Society who captained the "Ady Gil" when it crashed with the MV "Shonan Maru 2" and sank, encounters coastguards, police and protesters as he arrives on the Japanese mainland. ](/news/2010/03/13/new-zealander-peter-bethune-a-member-of-the-sea-shepherd-conservation-society-who-captained-the-ady-gil-when-it-crashed-with-the-mv-shon.md)

@@ -27,9 +27,9 @@ _Context: Shabwa province, Yemen, al-Qaeda_
 ### [ An Israeli man is shot dead by Palestinian gunmen in the northern West Bank. ](/news/2009/12/24/an-israeli-man-is-shot-dead-by-palestinian-gunmen-in-the-northern-west-bank.md)
 _Context: Israel, Palestinian terrorist, West Bank_
 
-##### United States Senate
+##### Senate
 ### [ The United States Senate passes a health-care bill expected to extend insurance coverage to 30 million additional Americans, in a party-line vote, 60-39. ](/news/2009/12/24/the-united-states-senate-passes-a-health-care-bill-expected-to-extend-insurance-coverage-to-30-million-additional-americans-in-a-party-lin.md)
-_Context: United States Senate, health care reform_
+_Context: Senate, health care reform_
 
 ##### Archbishop of York
 ### [ The Archbishop of York, John Sentamu speaks out against a bill being debated in Uganda that would outlaw homosexuality. ](/news/2009/12/24/the-archbishop-of-york-john-sentamu-speaks-out-against-a-bill-being-debated-in-uganda-that-would-outlaw-homosexuality.md)
@@ -49,15 +49,15 @@ Explosions across Iraq ahead of Shia ceremonies of Ashoura and Christmas.
 
 ##### Suicide attack
 ### [ A suicide bomb attack kills at least eight people in Kandahar, Afghanistan. ](/news/2009/12/24/a-suicide-bomb-attack-kills-at-least-eight-people-in-kandahar-afghanistan.md)
-_Context: Afghanistan, Kandahar, suicide attack_
+_Context: Afghan, Kandahar, suicide attack_
 
 ##### Philippines
 ### [ At least three bodies have been recovered and 23 are missing after a collision between a ferry and a fishing boat in the Philippines. ](/news/2009/12/24/at-least-three-bodies-have-been-recovered-and-23-are-missing-after-a-collision-between-a-ferry-and-a-fishing-boat-in-the-philippines.md)
 Three bodies were recovered from Manila Bay in the Philippines on Thursday as rescuers continued to look for another 24 people missing after a ferry and a fishing boat collided.
 
-##### Turkish
+##### Turkey
 ### [ Turkish police arrest over 43 campaigners and members of the banned Kurdish Communities Union in raids. ](/news/2009/12/24/turkish-police-arrest-over-43-campaigners-and-members-of-the-banned-kurdish-communities-union-in-raids.md)
-_Context: Kurdish Communities Union, Turkish_
+_Context: Kurdish Communities Union, Turkey_
 
 ##### Vietnam
 ### [ Vietnamese authorities charge human rights lawyer Le Cong Dinh with attempts to "overthrow the state". ](/news/2009/12/24/vietnamese-authorities-charge-human-rights-lawyer-le-cong-dinh-with-attempts-to-overthrow-the-state.md)

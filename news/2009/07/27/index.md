@@ -9,7 +9,7 @@ _Context: Albania, Prime Minister, Sali Berisha_
 
 ##### UK
 ### [ A British-led military offensive, Operation Panther's Claw, succeeds in clearing the Taliban from parts of southern Helmand Province in Afghanistan. ](/news/2009/07/27/a-british-led-military-offensive-operation-panther-s-claw-succeeds-in-clearing-the-taliban-from-parts-of-southern-helmand-province-in-afg.md)
-_Context: Afghanistan, Helmand Province, Operation Panther's Claw, Taliban, UK_
+_Context: Afghan, Helmand Province, Operation Panther's Claw, Taliban, UK_
 
 ##### Bokode
 ### [ Researchers outline bokodes, a proposed replacement for the black and white stripes of the traditional barcode. ](/news/2009/07/27/researchers-outline-bokodes-a-proposed-replacement-for-the-black-and-white-stripes-of-the-traditional-barcode.md)
@@ -33,7 +33,7 @@ French President Nicolas Sarkozy has left hospital after tests confirmed that hi
 
 ##### Patriarch Kirill
 ### [ Patriarch Kirill of the Russian Orthodox Church begins a visit to Ukraine. ](/news/2009/07/27/patriarch-kirill-of-the-russian-orthodox-church-begins-a-visit-to-ukraine.md)
-_Context: Patriarch Kirill, Russian, Ukraine_
+_Context: Patriarch Kirill, Russian, Ukrainian_
 
 ##### Eastern Cape
 ### [ A rural community in the Eastern Cape in South Africa lays claim to the entire town of Mthatha in one of the biggest land restitution cases since the end of apartheid. ](/news/2009/07/27/a-rural-community-in-the-eastern-cape-in-south-africa-lays-claim-to-the-entire-town-of-mthatha-in-one-of-the-biggest-land-restitution-cases.md)

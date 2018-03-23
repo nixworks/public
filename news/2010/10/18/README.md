@@ -41,7 +41,7 @@ Somali Islamist group al-Shabab orders mobile phone companies to stop their popu
 
 ##### PKK
 ### [More than 150 people, including 12 mayors and some politicians, go on trial for alleged links to the Kurdistan Workers' Party (PKK) in Turkey. ](/news/2010/10/18/more-than-150-people-including-12-mayors-and-some-politicians-go-on-trial-for-alleged-links-to-the-kurdistan-workers-party-pkk-in-turke.md)
-_Context: PKK, Turkish_
+_Context: PKK, Turkey_
 
 ##### Philippines
 ### [Five migrant Filipino workers are arrested in Saudi Arabia for filing a labor complaint against their employer according to a Philippine migrant workers' rights group. ](/news/2010/10/18/five-migrant-filipino-workers-are-arrested-in-saudi-arabia-for-filing-a-labor-complaint-against-their-employer-according-to-a-philippine-mig.md)

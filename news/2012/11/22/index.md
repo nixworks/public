@@ -15,7 +15,7 @@ A South Pacific island shown on marine charts and world maps as well as on Googl
 ### [The United Kingdom's Lord Chancellor Chris Grayling tells the House of Commons that a European Court of Human Rights ruling on prisoner votes can be defied. ](/news/2012/11/22/the-united-kingdom-s-lord-chancellor-chris-grayling-tells-the-house-of-commons-that-a-european-court-of-human-rights-ruling-on-prisoner-vote.md)
 The government unveils plans which could allow some prisoners to vote - but tells MPs they can vote to defy a European ruling and keep the current ban.
 
-##### Afghanistan
+##### Afghan
 ### [Afghanistan is set to remove a block placed on YouTube more than two months ago over a controversial anti-Islamic video "Innocence of Muslims". ](/news/2012/11/22/afghanistan-is-set-to-remove-a-block-placed-on-youtube-more-than-two-months-ago-over-a-controversial-anti-islamic-video-innocence-of-muslim.md)
 KABUL (PAN) Afghanistan is set to lift a block placed on Youtube more than two months ago over a controversial anti-I 
 

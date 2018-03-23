@@ -15,9 +15,9 @@ _Context: China, Guangzhou, United States_
 ### [ Ugandan opposition leader Kizza Besigye, the main challenger to President Yoweri Museveni in the first multi-party elections since 1986, is arrested by the police. This has sparked off riots. He is accused of having links to the rebel groups People's Redemption Army and Lord's Resistance Army. ](/news/2005/11/14/ugandan-opposition-leader-kizza-besigye-the-main-challenger-to-president-yoweri-museveni-in-the-first-multi-party-elections-since-1986-is.md)
 _Context: 1986, Kizza Besigye, Lord's Resistance Army, People's Redemption Army, President, Uganda, Yoweri Museveni_
 
-##### Somalia
+##### Somali
 ### [ Somalia: 8 men were sentenced to death today for the murder of British Aid workers Richard and Enid Eyeington in Somaliland in October 2003. ](/news/2005/11/14/somalia-8-men-were-sentenced-to-death-today-for-the-murder-of-british-aid-workers-richard-and-enid-eyeington-in-somaliland-in-october-2003.md)
-_Context: Somalia, Somaliland_
+_Context: Somali, Somaliland_
 
 ##### Petrol
 ### [ Petrol shortages in Uzbekistan continue to worsen. Critics attribute the shortages to the Uzbek government's monopoly of the petrol industry. ](/news/2005/11/14/petrol-shortages-in-uzbekistan-continue-to-worsen-critics-attribute-the-shortages-to-the-uzbek-government-s-monopoly-of-the-petrol-industr.md)

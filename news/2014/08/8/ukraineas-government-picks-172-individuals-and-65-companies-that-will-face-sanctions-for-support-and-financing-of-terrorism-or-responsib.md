@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/08/8/ukraineas-government-picks-172-individuals-and-6
 
 ### [2014-08-8](/news/2014/08/8/index.md)
 
-##### Ukraine
+##### Ukrainian
 # Ukraine's government picks 172 individuals and 65 companies that will face sanctions for "support and financing of terrorism" or responsible for crimes on country's territory during the pro-Russian unrest. 
 
 
@@ -20,8 +20,8 @@ Formats: [HTML](/news/2014/08/8/ukraineas-government-picks-172-individuals-and-6
 
 ### Related:
 
-1. [Dutch-led investigators say Malaysia Airlines flight MH17 was downed over eastern Ukraine in 2014 by a Buk missile that had come from Russia. ](/news/2016/09/28/dutch-led-investigators-say-malaysia-airlines-flight-mh17-was-downed-over-eastern-ukraine-in-2014-by-a-buk-missile-that-had-come-from-russia.md) _Context: 2014 pro-Russian unrest in Ukraine, Ukraine_
-2. [Kazakhstan renews its military cooperation with Ukraine, to which it promises vital supplies of coal, following a visit to Kiev by the Kazakh leader, Nursultan Nazarbayev. ](/news/2014/12/22/kazakhstan-renews-its-military-cooperation-with-ukraine-to-which-it-promises-vital-supplies-of-coal-following-a-visit-to-kiev-by-the-kazak.md) _Context: 2014 pro-Russian unrest in Ukraine, Ukraine_
-3. [Amid the crisis in Ukraine, President of the United States Barack Obama announces the European Reassurance Initiative--a $1bn plan to fund the increase of the United States military presence in Europe and step up defense capabilities of Ukraine, Moldova, and Georgia. ](/news/2014/06/3/amid-the-crisis-in-ukraine-president-of-the-united-states-barack-obama-announces-the-european-reassurance-initiativeaa-1bn-plan-to-fund.md) _Context: 2014 pro-Russian unrest in Ukraine, Ukraine_
-4. [Mikheil Saakashvili, leader of the opposition Movement of New Forces party, who was deported from Ukraine to Poland, relocates to the Netherlands. ](/news/2018/02/14/mikheil-saakashvili-leader-of-the-opposition-movement-of-new-forces-party-who-was-deported-from-ukraine-to-poland-relocates-to-the-nether.md) _Context: Ukraine_
-5. [Mikheil Saakashvili, leader of the opposition Movement of New Forces party, who has been stripped of his Ukrainian citizenship by Ukrainian president Petro Poroshenko on 26 July 2017, is detained by the Ministry of Internal Affairs in Kiev and deported from Ukraine to Poland. ](/news/2018/02/12/mikheil-saakashvili-leader-of-the-opposition-movement-of-new-forces-party-who-has-been-stripped-of-his-ukrainian-citizenship-by-ukrainian.md) _Context: Ukraine_
+1. [Dutch-led investigators say Malaysia Airlines flight MH17 was downed over eastern Ukraine in 2014 by a Buk missile that had come from Russia. ](/news/2016/09/28/dutch-led-investigators-say-malaysia-airlines-flight-mh17-was-downed-over-eastern-ukraine-in-2014-by-a-buk-missile-that-had-come-from-russia.md) _Context: 2014 pro-Russian unrest in Ukraine, Ukrainian_
+2. [Kazakhstan renews its military cooperation with Ukraine, to which it promises vital supplies of coal, following a visit to Kiev by the Kazakh leader, Nursultan Nazarbayev. ](/news/2014/12/22/kazakhstan-renews-its-military-cooperation-with-ukraine-to-which-it-promises-vital-supplies-of-coal-following-a-visit-to-kiev-by-the-kazak.md) _Context: 2014 pro-Russian unrest in Ukraine, Ukrainian_
+3. [Amid the crisis in Ukraine, President of the United States Barack Obama announces the European Reassurance Initiative--a $1bn plan to fund the increase of the United States military presence in Europe and step up defense capabilities of Ukraine, Moldova, and Georgia. ](/news/2014/06/3/amid-the-crisis-in-ukraine-president-of-the-united-states-barack-obama-announces-the-european-reassurance-initiativeaa-1bn-plan-to-fund.md) _Context: 2014 pro-Russian unrest in Ukraine, Ukrainian_
+4. [Ukrainian MP Nadiya Savchenko is arrested in Parliament over an alleged plot to attack Parliament and overthrow the government. ](/news/2018/03/22/ukrainian-mp-nadiya-savchenko-is-arrested-in-parliament-over-an-alleged-plot-to-attack-parliament-and-overthrow-the-government.md) _Context: Ukrainian_
+5. [Mikheil Saakashvili, leader of the opposition Movement of New Forces party, who was deported from Ukraine to Poland, relocates to the Netherlands. ](/news/2018/02/14/mikheil-saakashvili-leader-of-the-opposition-movement-of-new-forces-party-who-was-deported-from-ukraine-to-poland-relocates-to-the-nether.md) _Context: Ukrainian_

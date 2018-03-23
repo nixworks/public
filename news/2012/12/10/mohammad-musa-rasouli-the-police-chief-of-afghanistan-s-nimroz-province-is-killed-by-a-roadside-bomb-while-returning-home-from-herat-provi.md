@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/10/mohammad-musa-rasouli-the-police-chief-of-afgha
 
 ### [2012-12-10](/news/2012/12/10/index.md)
 
-##### Afghanistan
+##### Afghan
 # Mohammad Musa Rasouli, the police chief of Afghanistan's Nimroz Province, is killed by a roadside bomb while returning home from Herat Province. 
 
 Afghan police say a roadside bombing has killed the police chief of a southern province.
@@ -23,8 +23,8 @@ Afghan police say a roadside bombing has killed the police chief of a southern p
 
 ### Related:
 
-1. [Dozens of militants are killed in fighting between rival Taliban factions in Afghanistan's western Herat Province. ](/news/2016/03/10/dozens-of-militants-are-killed-in-fighting-between-rival-taliban-factions-in-afghanistan-s-western-herat-province.md) _Context: Afghanistan, Herat Province_
-2. [Gunmen attack the Indian consulate in Afghanistan's Herat Province. ](/news/2014/05/23/gunmen-attack-the-indian-consulate-in-afghanistan-s-herat-province.md) _Context: Afghanistan, Herat Province_
-3. [A suicide bomber attacks a government office building in Afghanistan's Herat Province with 15 people killed and 22 wounded. ](/news/2012/04/10/a-suicide-bomber-attacks-a-government-office-building-in-afghanistan-s-herat-province-with-15-people-killed-and-22-wounded.md) _Context: Afghanistan, Herat Province_
-4. [ The International Security Assistance Force kills 13 people in Guzara, Herat, Afghanistan. ](/news/2009/02/21/the-international-security-assistance-force-kills-13-people-in-guzara-herat-afghanistan.md) _Context: Afghanistan, Herat Province_
-5. [A suicide car bomber kills one person and injures fourteen others near the Australian embassy in Kabul, Afghanistan. ](/news/2018/03/2/a-suicide-car-bomber-kills-one-person-and-injures-fourteen-others-near-the-australian-embassy-in-kabul-afghanistan.md) _Context: Afghanistan_
+1. [Dozens of militants are killed in fighting between rival Taliban factions in Afghanistan's western Herat Province. ](/news/2016/03/10/dozens-of-militants-are-killed-in-fighting-between-rival-taliban-factions-in-afghanistan-s-western-herat-province.md) _Context: Afghan, Herat Province_
+2. [Gunmen attack the Indian consulate in Afghanistan's Herat Province. ](/news/2014/05/23/gunmen-attack-the-indian-consulate-in-afghanistan-s-herat-province.md) _Context: Afghan, Herat Province_
+3. [A suicide bomber attacks a government office building in Afghanistan's Herat Province with 15 people killed and 22 wounded. ](/news/2012/04/10/a-suicide-bomber-attacks-a-government-office-building-in-afghanistan-s-herat-province-with-15-people-killed-and-22-wounded.md) _Context: Afghan, Herat Province_
+4. [ The International Security Assistance Force kills 13 people in Guzara, Herat, Afghanistan. ](/news/2009/02/21/the-international-security-assistance-force-kills-13-people-in-guzara-herat-afghanistan.md) _Context: Afghan, Herat Province_
+5. [Afghan immigrant Hussein Khavari is convicted of rape and murder in a case that provoked widespread discussion of refugee immigration to Germany. ](/news/2018/03/22/afghan-immigrant-hussein-khavari-is-convicted-of-rape-and-murder-in-a-case-that-provoked-widespread-discussion-of-refugee-immigration-to-ger.md) _Context: Afghan_

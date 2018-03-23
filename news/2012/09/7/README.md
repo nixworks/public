@@ -37,7 +37,7 @@ Canada has suspended diplomatic relations with Iran and is expelling Iranian dip
 
 ##### Secretary of State
 ### [U.S. Secretary of State Clinton notifies Congress of her intent to include the Haqqani network on the government's terror list. An attache at the Embassy of Pakistan in Washington dismisses the decision as an "internal matter" of the United States and reaffirms Pakistan's commitment to "combating extremism and terrorism." Haqqani senior commanders say the decision will not help in bringing peace to Afghanistan. ](/news/2012/09/7/u-s-secretary-of-state-clinton-notifies-congress-of-her-intent-to-include-the-haqqani-network-on-the-government-s-terror-list-an-attacha-c.md)
-_Context: Afghanistan, Congress, Haqqani network, Hillary Clinton, Secretary of State, War in Afghanistan (2001-present), terror list_
+_Context: Afghan, Congress, Haqqani network, Hillary Clinton, Secretary of State, War in Afghanistan (2001-present), terror list_
 
 ##### A series of earthquakes
 ### [A series of earthquakes hits south-west China, leaving at least 64 people dead and 715 injured. ](/news/2012/09/7/a-series-of-earthquakes-hits-south-west-china-leaving-at-least-64-people-dead-and-715-injured.md)
@@ -61,7 +61,7 @@ _Context: Chile_
 
 ##### Al-Shabaab
 ### [Iranian sources citing Ash-Shabaab say a U.S. drone attack killed eight people in Kismayo, south Somalia. ](/news/2012/09/7/iranian-sources-citing-ash-shabaab-say-a-u-s-drone-attack-killed-eight-people-in-kismayo-south-somalia.md)
-_Context: Al-Shabaab, Kismayo, Somalia, United States, drone attack, killed_
+_Context: Al-Shabaab, Kismayo, Somali, United States, drone attack, killed_
 
 ##### Friday mass prayer
 ### [A bomb kills five policemen after Friday prayer outside Rukniyeh mosque in Rukn Eddeen, central Damascus. ](/news/2012/09/7/a-bomb-kills-five-policemen-after-friday-prayer-outside-rukniyeh-mosque-in-rukn-eddeen-central-damascus.md)

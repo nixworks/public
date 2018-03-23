@@ -15,9 +15,9 @@ Court refuses to hear lawsuit against new election laws that bar oppositiion lea
 ### [Virgin Galactic's SpaceShipTwo is shown on its maiden flight from the Mojave Air and Spaceport in Mojave, California, United States. ](/news/2010/03/23/virgin-galactic-s-spaceshiptwo-is-shown-on-its-maiden-flight-from-the-mojave-air-and-spaceport-in-mojave-california-united-states.md)
 _Context: Mojave Air and Spaceport, Mojave, California, SpaceShipTwo, Virgin Galactic's_
 
-##### Turkish
+##### Turkey
 ### [A Turkish ship is hijacked by Somali pirates more than 1,000 miles away from the coast of Somalia and closer to India. ](/news/2010/03/23/a-turkish-ship-is-hijacked-by-somali-pirates-more-than-1-000-miles-away-from-the-coast-of-somalia-and-closer-to-india.md)
-_Context: India, Somali pirates, Somalia, Turkish_
+_Context: India, Somali, Somali pirates, Turkey_
 
 ##### China
 ### [China says Google is "totally wrong" to stop censoring its search results. ](/news/2010/03/23/china-says-google-is-totally-wrong-to-stop-censoring-its-search-results.md)
@@ -41,7 +41,7 @@ A German court has sentenced an 88-year-old former SS member to life in prison f
 
 ##### Libya
 ### [Libya releases 214 Islamist inmates in what is described as "a historic event". ](/news/2010/03/23/libya-releases-214-islamist-inmates-in-what-is-described-as-a-historic-event.md)
-_Context: Islam, Libya_
+_Context: Libya, Muslim_
 
 ##### Sudan
 ### [Sudan's President Omar al-Bashir threatens to expel international observers for the first general elections in the country in 21 years, after they called for a delay to deal with "logistical" problems. ](/news/2010/03/23/sudan-s-president-omar-al-bashir-threatens-to-expel-international-observers-for-the-first-general-elections-in-the-country-in-21-years-afte.md)

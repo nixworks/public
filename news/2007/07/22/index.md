@@ -7,9 +7,9 @@ Formats: [HTML](2007/07/22/index.html)  [JSON](2007/07/22/index.json)  [XML](200
 ### [ 2007 FIFA U-20 World Cup Final: Argentina defeated the Czech Republic 2-1 to win its sixth World Cup title. ](/news/2007/07/22/2007-fifa-u-20-world-cup-final-argentina-defeated-the-czech-republic-2-1-to-win-its-sixth-world-cup-title.md)
 _Context: 2007 FIFA U-20 World Cup, Argentina, Czech Republic_
 
-##### Turkish
+##### Turkey
 ### [ Turkish voters go to the polls for general elections. The ruling AKP led by the Prime Minister of Turkey Tayyip Erdogan wins a resounding victory. ](/news/2007/07/22/turkish-voters-go-to-the-polls-for-general-elections-the-ruling-akp-led-by-the-prime-minister-of-turkey-tayyip-erdogan-wins-a-resounding-v.md)
-_Context: Tayyip Erdogan, Turkish, Turkish Prime Minister, general elections, ruling party_
+_Context: Tayyip Erdogan, Turkey, Turkish Prime Minister, general elections, ruling party_
 
 ##### Flood
 ### [ More than 100 people die in floods and landslides in China. ](/news/2007/07/22/more-than-100-people-die-in-floods-and-landslides-in-china.md)

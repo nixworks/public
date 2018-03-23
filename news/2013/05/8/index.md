@@ -55,9 +55,9 @@ Prof Stephen Hawking has pulled out of a high-profile Israeli conference, in sup
 ### [Amid protests for free education by tens of thousands of people in major cities across Chile, police clash with protesters. ](/news/2013/05/8/amid-protests-for-free-education-by-tens-of-thousands-of-people-in-major-cities-across-chile-police-clash-with-protesters.md)
 Tens of thousands of students in Chile resume their protests for free education as riot police say they have been attacked with petrol bombs.
 
-##### Somalia
+##### Somali
 ### [Nineteen people are killed in the Somali capital, Mogadishu, in suicide bombings and firefights between Al-Shabaab militants and government forces. ](/news/2013/05/8/nineteen-people-are-killed-in-the-somali-capital-mogadishu-in-suicide-bombings-and-firefights-between-al-shabaab-militants-and-government.md)
-_Context: Al-Shabaab, Mogadishu, Somali military, Somalia_
+_Context: Al-Shabab, Mogadishu, Somali, Somali military_
 
 ##### Suicide bombing
 ### [A suicide car bombing hits a police station in the Bannu District of northwest Pakistan, killing at least two people and injuring twenty. ](/news/2013/05/8/a-suicide-car-bombing-hits-a-police-station-in-the-bannu-district-of-northwest-pakistan-killing-at-least-two-people-and-injuring-twenty.md)

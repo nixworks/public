@@ -31,7 +31,7 @@ _Context: Dravida Munnetra Kazhagam, India, Lok Sabha, M Karunanidhi, Tamil Nadu
 ### [ Morgan Tsvangirai of Zimbabwe's Movement for Democratic Change states that power-sharing talks with President Robert Mugabe have failed to reach an agreement. ](/news/2008/10/17/morgan-tsvangirai-of-zimbabwe-s-movement-for-democratic-change-states-that-power-sharing-talks-with-president-robert-mugabe-have-failed-to.md)
 _Context: Morgan Tsvangirai, Movement for Democratic Change, President, Robert Mugabe, Zimbabwe, power-sharing talks_
 
-##### Turkish
+##### Turkey
 ### [ Turkey, Austria, Japan, Mexico and Uganda are elected by the United Nations General Assembly to the Security Council. Iran and Iceland fail in their bids. ](/news/2008/10/17/turkey-austria-japan-mexico-and-uganda-are-elected-by-the-united-nations-general-assembly-to-the-security-council-iran-and-iceland-fail.md)
 Turkey, Austria and Japan won nonpermanent seats on the United Nations Security Council, defeating Iceland and Iran in elections in the General Assembly.
 
@@ -43,9 +43,9 @@ _Context: 2008 Summer Olympics, China_
 ### [ U.S. Congressman Vito Fossella is convicted of drunken driving. ](/news/2008/10/17/u-s-congressman-vito-fossella-is-convicted-of-drunken-driving.md)
 Fox 5 NY, New York News, Breaking News, weather, sports, traffic, entertainment
 
-##### French President
+##### President of France
 ### [ The President of France Nicolas Sarkozy withdraws tacit support for the Quebec sovereignty movement shown by some of his predecessors in a visit to Quebec City. ](/news/2008/10/17/the-president-of-france-nicolas-sarkozy-withdraws-tacit-support-for-the-quebec-sovereignty-movement-shown-by-some-of-his-predecessors-in-a.md)
-_Context: French President, Nicolas Sarkozy, Quebec City, Quebec sovereignty movement_
+_Context: Nicolas Sarkozy, President of France, Quebec City, Quebec sovereignty movement_
 
 ## [Previous Day...](/news/2008/10/16/index.md)
 

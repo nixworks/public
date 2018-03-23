@@ -31,9 +31,9 @@ There were no reports of injuries or damage to local structures. Several cars we
 ### [The four missing Fort Hood soldiers from the overturned Light Medium Tactical Vehicle are found dead, bringing the death toll from the accident to nine. ](/news/2016/06/3/the-four-missing-fort-hood-soldiers-from-the-overturned-light-medium-tactical-vehicle-are-found-dead-bringing-the-death-toll-from-the-accid.md)
 The Army continued Friday to search for four missing soldiers from Fort Hood a day after an accident that killed five others at the Texas military base.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Bodies of 117 people, including 75 women, 36 men and six children, are recovered from a beach near Zuwarah, Libya, possibly from yesterday's capsize in the Mediterranean Sea. ](/news/2016/06/3/bodies-of-117-people-including-75-women-36-men-and-six-children-are-recovered-from-a-beach-near-zuwarah-libya-possibly-from-yesterday-s.md)
-_Context: European migrant crisis, Libya, Mediterranean Sea, Zuwarah_
+_Context: Libya, Mediterranean Sea, Zuwarah, refugee immigration to Germany_
 
 ##### 2016 European floods
 ### [The flood waters for the Seine River are expected to peak at six metres above its normal level. Flooding in France and Germany has so far claimed at least 11 lives. ](/news/2016/06/3/the-flood-waters-for-the-seine-river-are-expected-to-peak-at-six-metres-above-its-normal-level-flooding-in-france-and-germany-has-so-far-cl.md)

@@ -73,7 +73,7 @@ PHILIPPINES-ISLAMIC STATE/ (URGENT):Islamic state claims Philippines attack that
 
 ##### War in Donbass
 ### [The Ukrainian Army says eight of its soldiers were wounded in fighting against Russian-backed separatists in the east of the country during the previous 24 hours. A military spokesman said there had been 29 shelling incidents around Mariupol. ](/news/2016/04/13/the-ukrainian-army-says-eight-of-its-soldiers-were-wounded-in-fighting-against-russian-backed-separatists-in-the-east-of-the-country-during.md)
-_Context: Donetsk People's Republic, Mariupol, Russia, Ukraine, Ukrainian Army, War in Donbass_
+_Context: Donetsk People's Republic, Mariupol, Russia, Ukrainian, Ukrainian Army, War in Donbass_
 
 ## [Previous Day...](/news/2016/04/12/index.md)
 

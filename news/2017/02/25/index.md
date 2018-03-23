@@ -25,7 +25,7 @@ One man has died from his injuries and two others were injured after being struc
 
 ##### France-United States relations
 ### [French President Francois Hollande reproaches U.S. President Donald Trump for his disparaging comments about Paris at Friday's Conservative Political Action Conference, noting that allies should have more respect and support for each other. ](/news/2017/02/25/french-president-franassois-hollande-reproaches-u-s-president-donald-trump-for-his-disparaging-comments-about-paris-at-friday-s-conservative.md)
-_Context: Conservative Political Action Conference, Donald Trump, France-United States relations, Francois Hollande, French President_
+_Context: Conservative Political Action Conference, Donald Trump, France-United States relations, Francois Hollande, President of France_
 
 ##### Nagorno-Karabakh conflict
 ### [Clashes erupt between Nagorno-Karabakh separatists and Azerbaijani forces in the disputed Nagorno-Karabakh region. The Azerbaijan Ministry of Defense confirmed casualties on its side while the separatist forces claim to have no causalities. Both sides blame each other for the flareup in fighting. ](/news/2017/02/25/clashes-erupt-between-nagorno-karabakh-separatists-and-azerbaijani-forces-in-the-disputed-nagorno-karabakh-region-the-azerbaijan-ministry-o.md)

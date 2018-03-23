@@ -41,7 +41,7 @@ _Context: Argentine President, Argentine general election, 2007, Cristina Kirchn
 
 ##### USS ''Arleigh Burke''
 ### [ The USS "Arleigh Burke" enters Somali waters in pursuit of a Japanese ship carrying benzene that was hijacked by pirates. ](/news/2007/10/29/the-uss-arleigh-burke-enters-somali-waters-in-pursuit-of-a-japanese-ship-carrying-benzene-that-was-hijacked-by-pirates.md)
-_Context: Japan, Somalia, USS ''Arleigh Burke'', benzene, pirates_
+_Context: Japan, Somali, USS ''Arleigh Burke'', benzene, pirates_
 
 ##### HIV
 ### [ The strain of HIV most common in the United States, Europe, Japan, Australia and much of South America is traced back to Haiti in 1969. ](/news/2007/10/29/the-strain-of-hiv-most-common-in-the-united-states-europe-japan-australia-and-much-of-south-america-is-traced-back-to-haiti-in-1969.md)

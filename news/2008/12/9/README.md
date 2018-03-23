@@ -25,7 +25,7 @@ _Context: 2008 Irish pork crisis, Irish_
 
 ##### Democrat
 ### [ Democratic Illinois Governor Rod Blagojevich is arrested by Federal Bureau of Investigation agents at his Chicago home, amidst allegations of corruption and pay-to-play regarding the replacement for United States President-elect Barack Obama in the Senate. ](/news/2008/12/9/democratic-illinois-governor-rod-blagojevich-is-arrested-by-federal-bureau-of-investigation-agents-at-his-chicago-home-amidst-allegations.md)
-_Context: Barack Obama, Chicago, Democrat, FBI, Governor of Illinois, Illinois, President-elect, Rod Blagojevich, U.S. President, United States, United States Senate, anti-corruption, pay-to-play, seat_
+_Context: Barack Obama, Chicago, Democrat, FBI, Governor of Illinois, Illinois, President-elect, Rod Blagojevich, Senate, U.S. President, United States, anti-corruption, pay-to-play, seat_
 
 ## [Previous Day...](/news/2008/12/8/index.md)
 

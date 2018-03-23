@@ -35,9 +35,9 @@ Indonesian authorities search for scores of inmates who escaped from an overcrow
 ### [The Indian Supreme Court upholds the death sentences imposed on four men convicted in the 2012 gang rape and murder of a 23-year-old woman on board a bus in South Delhi. ](/news/2017/05/5/the-indian-supreme-court-upholds-the-death-sentences-imposed-on-four-men-convicted-in-the-2012-gang-rape-and-murder-of-a-23-year-old-woman-o.md)
 The Supreme Court on Friday upheld death sentences against four men who fatally gang raped a woman on board a bus in 2012, a crime that sparked widespread protests and drew international attention to violence against women.
 
-##### United States Senate
+##### Senate
 ### [United States senators Ben Cardin (D-MD) and Marco Rubio (R-FL) file a bill restricting arms sales to the Philippine National Police over its drug war. ](/news/2017/05/5/united-states-senators-ben-cardin-d-md-and-marco-rubio-r-fl-file-a-bill-restricting-arms-sales-to-the-philippine-national-police-over-it.md)
-_Context: Ben Cardin, Democrat, Florida, Marco Rubio, Maryland, Philippine National Police, Republican, United States Senate, arms sales, drug crackdown_
+_Context: Ben Cardin, Democrat, Florida, Marco Rubio, Maryland, Philippine National Police, Republican, Senate, arms sales, drug crackdown_
 
 ##### Police
 ### [Afghan border police and the Pakistani military clash at a border crossing near Chaman, killing at least 13 people and wounding over 80 others. Both sides blame each other for the flareup in fighting. ](/news/2017/05/5/afghan-border-police-and-the-pakistani-military-clash-at-a-border-crossing-near-chaman-killing-at-least-13-people-and-wounding-over-80-othe.md)

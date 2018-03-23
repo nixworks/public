@@ -29,7 +29,7 @@ _Context: Government of Kazakhstan, Kyrgyzstan, USD_
 
 ##### Albania
 ### [ Albania, Bulgaria, Bosnia and Herzegovina, Croatia, Moldova, Montenegro, Romania, Serbia, Republic of Macedonia, and Kosovo sign the Central European Free Trade Agreement extending the free trade zone to southeastern Europe. ](/news/2006/12/20/albania-bulgaria-bosnia-and-herzegovina-croatia-moldova-montenegro-romania-serbia-republic-of-macedonia-and-kosovo-sign-the-centra.md)
-_Context: Albania, Bosnia and Herzegovina, Bulgaria, Central European Free Trade Agreement, Croatia, Kosovo, Moldova, Montenegrin, Republic of Macedonia, Romania, Serbia, free trade zone_
+_Context: Albania, Bosnia and Herzegovina, Bulgaria, Central European Free Trade Agreement, Croatia, Kosovo, Moldova, Montenegro, Republic of Macedonia, Romania, Serbia, free trade zone_
 
 ##### Home Office
 ### [ The Home Office department of the United Kingdom Government announces plan to require foreign nationals living in Britain to have biometric ID cards. ](/news/2006/12/20/the-home-office-department-of-the-united-kingdom-government-announces-plan-to-require-foreign-nationals-living-in-britain-to-have-biometric.md)

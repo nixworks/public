@@ -9,7 +9,7 @@ The Sydney Morning Herald 404 Page
 
 ##### United States
 ### [ The US-led Coalition claims to have killed scores of Taliban forces in Afghanistan. ](/news/2007/04/30/the-us-led-coalition-claims-to-have-killed-scores-of-taliban-forces-in-afghanistan.md)
-_Context: Afghanistan, Taliban, United States_
+_Context: Afghan, Taliban, United States_
 
 ##### Intergovernmental Panel on Climate Change
 ### [ A meeting of the Intergovernmental Panel on Climate Change starts in Bangkok to discuss approaches to climate change. ](/news/2007/04/30/a-meeting-of-the-intergovernmental-panel-on-climate-change-starts-in-bangkok-to-discuss-approaches-to-climate-change.md)

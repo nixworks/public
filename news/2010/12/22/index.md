@@ -7,9 +7,9 @@ Formats: [HTML](2010/12/22/index.html)  [JSON](2010/12/22/index.json)  [XML](201
 ### [Two eight-year-olds publish a significant peer-reviewed study in the Biology Letters journal of the Royal Society, examining the spatial memory of bumblebees. ](/news/2010/12/22/two-eight-year-olds-publish-a-significant-peer-reviewed-study-in-the-biology-letters-journal-of-the-royal-society-examining-the-spatial-mem.md)
 _Context: Biology Letters, Royal Society, bumblebee, peer-reviewed, spatial memory_
 
-##### Montenegrin
+##### Montenegro
 ### [Montenegrin Prime Minister Milo Dukanovic resigns, citing a need for new leadership, and his intentions to turn to business. ](/news/2010/12/22/montenegrin-prime-minister-milo-aukanovia-resigns-citing-a-need-for-new-leadership-and-his-intentions-to-turn-to-business.md)
-_Context: Milo Dukanovic, Montenegrin, Prime Minister_
+_Context: Milo Dukanovic, Montenegro, Prime Minister_
 
 ##### Zac Goldsmith
 ### [British millionaire Tory MP Zac Goldsmith is not to be reported to police over his election spending allegations but some other concerns are expressed by the Electoral Commission. ](/news/2010/12/22/british-millionaire-tory-mp-zac-goldsmith-is-not-to-be-reported-to-police-over-his-election-spending-allegations-but-some-other-concerns-are.md)
@@ -49,7 +49,7 @@ _Context: Bhikkhu, Buddhist, China, Drepung monastery, Tibet_
 
 ##### 
 ### [The Russian government is "forced to take an adequate corresponding measure" following Britain's expulsion of one of its diplomats. ](/news/2010/12/22/the-russian-government-is-forced-to-take-an-adequate-corresponding-measure-following-britain-s-expulsion-of-one-of-its-diplomats.md)
-##### United States diplomatic cables leak
+##### 250,000 documents
 ### [United States diplomatic cables leak: ](/news/2010/12/22/united-states-diplomatic-cables-leak.md)
 The British government has trained a paramilitary force accused of hundreds of killings in Bangladesh, according to leaked U.S. embassy cables. 
 
@@ -57,13 +57,13 @@ The British government has trained a paramilitary force accused of hundreds of k
 ### [The United Nations votes in favour of restoring a reference to sexual orientation in a resolution banning the unjustified killing of minority groups. ](/news/2010/12/22/the-united-nations-votes-in-favour-of-restoring-a-reference-to-sexual-orientation-in-a-resolution-banning-the-unjustified-killing-of-minorit.md)
 The UN votes to restore a reference to sexual orientation in a resolution against the unjustified killing of minority groups, after heavy US pressure.
 
-##### United States Senate
+##### Senate
 ### [The United States Senate votes to ratify the New START Treaty with the Russia, which halves the number of deployed strategic nuclear missile launchers maintained by each nation. ](/news/2010/12/22/the-united-states-senate-votes-to-ratify-the-new-start-treaty-with-the-russia-which-halves-the-number-of-deployed-strategic-nuclear-missile.md)
-_Context: New START Treaty, Russia, United States Senate, nuclear missile_
+_Context: New START Treaty, Russia, Senate, nuclear missile_
 
 ##### United States House of Representatives
 ### [The United States House of Representatives decides not to take up a resolution declaring the mass killings of Armenians early last century a genocide, helping the administration to avoid a diplomatic clash with Turkey. ](/news/2010/12/22/the-united-states-house-of-representatives-decides-not-to-take-up-a-resolution-declaring-the-mass-killings-of-armenians-early-last-century-a.md)
-_Context: Armenian, Turkish, United States House of Representatives, genocide of Armenians_
+_Context: Armenian, Turkey, United States House of Representatives, genocide of Armenians_
 
 ##### 
 ### [Ongoing flooding in California kills at least three people. ](/news/2010/12/22/ongoing-flooding-in-california-kills-at-least-three-people.md)

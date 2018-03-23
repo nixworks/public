@@ -41,7 +41,7 @@ A decision was expected Monday on whether to prosecute Samsung chief Lee Jae-yon
 
 ##### War in Donbass
 ### [Ukraine sues Russia at the International Court of Justice, accusing the latter of being engaged in acts of "terrorism" and "discrimination" in eastern Ukraine and Crimea. ](/news/2017/01/16/ukraine-sues-russia-at-the-international-court-of-justice-accusing-the-latter-of-being-engaged-in-acts-of-terrorism-and-discrimination.md)
-_Context: Crimea, International Court of Justice, Russia, Russia-Ukraine relations, Ukraine, War in Donbass, eastern Ukraine_
+_Context: Crimea, International Court of Justice, Russia, Russia-Ukraine relations, Ukrainian, War in Donbass, eastern Ukraine_
 
 ##### 2017 Visayas and Mindanao floods
 ### [Cagayan de Oro experienced a series of flash floods caused by heavy rainfall brought by a low-pressure area in the Moro Gulf. ](/news/2017/01/16/cagayan-de-oro-experienced-a-series-of-flash-floods-caused-by-heavy-rainfall-brought-by-a-low-pressure-area-in-the-moro-gulf.md)

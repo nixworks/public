@@ -3,7 +3,7 @@ Formats: [HTML](2015/10/9/index.html)  [JSON](2015/10/9/index.json)  [XML](2015/
 
 ## [2015-10-9](/news/2015/10/9/index.md)
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [The southern German state of Bavaria threatens to take the Federal German government to court if it fails to take immediate steps to limit the flow of migrants to Germany. Over 200,000 migrants are estimated to have entered Germany since the beginning of September, the vast majority over the Austrian border into Bavaria. ](/news/2015/10/9/the-southern-german-state-of-bavaria-threatens-to-take-the-federal-german-government-to-court-if-it-fails-to-take-immediate-steps-to-limit-t.md)
 The state of Bavaria threatened on Friday to take the German government to court if it fails to take immediate steps to limit the flow of asylum seekers to Germany.
 

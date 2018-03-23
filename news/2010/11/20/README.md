@@ -11,13 +11,13 @@ _Context: Governor of the Central Bank of Iran, Mahmoud Bahmani_
 ### [Pope Benedict XVI is scheduled to elevate 24 new cardinals at a ceremony. ](/news/2010/11/20/pope-benedict-xvi-is-scheduled-to-elevate-24-new-cardinals-at-a-ceremony.md)
 The Vatican says it is preparing guidelines on how to prevent clerical sex abuse, as the Pope holds a rare meeting with about 150 cardinals from around the world.
 
-##### United States Senate
+##### Senate
 ### [The United States Senate settles with a payment of $4.6 billion to black farmers and at least 300,000 Native Americans who objected to government discrimination and cheating in "Cobell v. Salazar". ](/news/2010/11/20/the-united-states-senate-settles-with-a-payment-of-4-6-billion-to-black-farmers-and-at-least-300-000-native-americans-who-objected-to-gover.md)
 The US Senate approves a $4.6bn (£2.9bn) payment to Native Americans and black farmers who complained of government discrimination.
 
 ##### NATO
 ### [NATO nations agree to start handing over Afghanistan's security to the Afghanistan military and give local forces total control by 2014. ](/news/2010/11/20/nato-nations-agree-to-start-handing-over-afghanistan-s-security-to-the-afghanistan-military-and-give-local-forces-total-control-by-2014.md)
-_Context: Afghan military, Afghanistan, NATO_
+_Context: Afghan, Afghan military, NATO_
 
 ##### Secretary General of the United Nations
 ### [United Nations Secretary-General Ban Ki-moon is welcoming Iran's invitation for a visit next year by the United Nations' human rights chief, Navi Pillay ](/news/2010/11/20/united-nations-secretary-general-ban-ki-moon-is-welcoming-iran-s-invitation-for-a-visit-next-year-by-the-united-nations-human-rights-chief.md)
@@ -29,7 +29,7 @@ _Context: China, Pope Benedict XVI, state-backed church_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI urges Pakistani authorities to release Aasia Bibi, a Christian woman facing a death sentence on a charge of blasphemy against Islam. ](/news/2010/11/20/pope-benedict-xvi-urges-pakistani-authorities-to-release-aasia-bibi-a-christian-woman-facing-a-death-sentence-on-a-charge-of-blasphemy-agai.md)
-_Context: Aasia Bibi, Christian, Islam, Pakistan, Pope Benedict XVI, blasphemy_
+_Context: Aasia Bibi, Christian, Muslim, Pakistan, Pope Benedict XVI, blasphemy_
 
 ##### Indian Air Force
 ### [All 12 people aboard an Indian Air Force Mil Mi-17 transport helicopter are found dead following a crash in Arunachal Pradesh near the Chinese border. ](/news/2010/11/20/all-12-people-aboard-an-indian-air-force-mil-mi-17-transport-helicopter-are-found-dead-following-a-crash-in-arunachal-pradesh-near-the-chine.md)

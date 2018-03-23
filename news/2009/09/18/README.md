@@ -13,7 +13,7 @@ _Context: Michel Bagaragaza, Rwanda_
 
 ##### African Union
 ### [ The African Union says a twin bombing that killed 17 peacekeepers on its base in Mogadishu, Somalia, was conducted in UN marked cars. ](/news/2009/09/18/the-african-union-says-a-twin-bombing-that-killed-17-peacekeepers-on-its-base-in-mogadishu-somalia-was-conducted-in-un-marked-cars.md)
-_Context: African Union, Mogadishu, Somalia, United Nations, twin bombing_
+_Context: African Union, Mogadishu, Somali, United Nations, twin bombing_
 
 ##### Raptorex kriegsteini
 ### [ The "Raptorex kriegsteini", a smaller version of the "Tyrannosaurus rex", is discovered in northeastern China. ](/news/2009/09/18/the-raptorex-kriegsteini-a-smaller-version-of-the-tyrannosaurus-rex-is-discovered-in-northeastern-china.md)

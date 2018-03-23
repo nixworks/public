@@ -7,13 +7,13 @@ Formats: [HTML](2009/01/14/index.html)  [JSON](2009/01/14/index.json)  [XML](200
 ### [ U.S. Federal Judge Richard J. Leon orders the release of 21-year-old Guantanamo Bay detainee Muhammad Hamid Al Qarani, who was imprisoned in 2002. ](/news/2009/01/14/u-s-federal-judge-richard-j-leon-orders-the-release-of-21-year-old-guanta-namo-bay-detainee-muhammad-hamid-al-qarani-who-was-imprisoned.md)
 _Context: Federal District Judge, Guantanamo Bay detention camp, Muhammad Hamid Al Qarani, Richard Leon, United States, detainees_
 
-##### Somalia
+##### Somali
 ### [ Somali pirates release two ships off the coast of East Africa. ](/news/2009/01/14/somali-pirates-release-two-ships-off-the-coast-of-east-africa.md)
-_Context: East Africa, Somali pirates, Somalia, seize_
+_Context: East Africa, Somali, Somali pirates, seize_
 
-##### Ukraine
+##### Ukrainian
 ### [ Ukraine says it cannot resume natural-gas transit because Russia's Gazprom has provided insufficient supplies. ](/news/2009/01/14/ukraine-says-it-cannot-resume-natural-gas-transit-because-russia-s-gazprom-has-provided-insufficient-supplies.md)
-_Context: Gazprom, Russia, Russia-Ukraine gas disputes, Ukraine, gas_
+_Context: Gazprom, Russia, Russia-Ukraine gas disputes, Ukrainian, gas_
 
 ##### Osama bin Laden
 ### [ In an audio message, Osama bin Laden urges Muslims to launch a holy war on Israel. (](/news/2009/01/14/in-an-audio-message-osama-bin-laden-urges-muslims-to-launch-a-holy-war-on-israel.md)

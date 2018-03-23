@@ -4,7 +4,7 @@ Formats: [HTML](/news/2001/09/11/september-11-attacks-planes-are-hijacked-by-al-
 ### [2001-09-11](/news/2001/09/11/index.md)
 
 ##### September 11 attacks
-#  September 11 attacks: Planes are hijacked by al-Qaeda members and flown into the World Trade Center in New York City, The Pentagon, and a field in Pennsylvania, killing 2,996 people.
+#  September 11 attacks: Planes are hijacked by al-Qaeda members and flown into the World Trade Center in New York City, The Pentagon, and a field in Pennsylvania, killing 2,996 people (including 19 terrorists).
 
 
 

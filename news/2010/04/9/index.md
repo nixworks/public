@@ -17,7 +17,7 @@ _Context: John Paul Stevens, Justice, Supreme Court of the United States_
 
 ##### Air Force
 ### [U.S. helicopter - Air Force CV-22 Osprey - crashes in southern Afghanistan, killing three U.S. service members and one civilian employee. Zabiullah Mujahid says Taliban fighters shot down the chopper. ](/news/2010/04/9/u-s-helicopter-air-force-cv-22-osprey-crashes-in-southern-afghanistan-killing-three-u-s-service-members-and-one-civilian-employee-za.md)
-_Context: Afghanistan, Air Force, CV-22 Osprey, Taliban, Zabiullah Mujahid_
+_Context: Afghan, Air Force, CV-22 Osprey, Taliban, Zabiullah Mujahid_
 
 ##### Metro
 ### [Shanghai Metro Line 2 opens service to Pudong International Airport. ](/news/2010/04/9/shanghai-metro-line-2-opens-service-to-pudong-international-airport.md)

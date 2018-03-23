@@ -25,7 +25,7 @@ _Context: Fujian, Jinjiang, Taiwan, Typhoon Bilis, Typhoon Kaemi, Zhejiang_
 
 ##### Interstate Abortion Bill
 ### [ The Interstate Abortion Bill is passed by the United States Senate. The bill would make it illegal for non-parents to take a minor to another state to obtain an abortion without parental consent. ](/news/2006/07/25/the-interstate-abortion-bill-is-passed-by-the-united-states-senate-the-bill-would-make-it-illegal-for-non-parents-to-take-a-minor-to-anoth.md)
-_Context: Interstate Abortion Bill, United States Senate, abortion, minors_
+_Context: Interstate Abortion Bill, Senate, abortion, minors_
 
 ## [Previous Day...](/news/2006/07/24/index.md)
 

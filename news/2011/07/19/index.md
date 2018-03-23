@@ -17,7 +17,7 @@ _Context: Archbishop, Cardinal, Charles J. Chaput, Denver, Colorado, Justin Riga
 
 ##### United States House of Representatives
 ### [The United States House of Representatives votes to approve the "Cut, Cap and Balance Act" by 234-190 but it is unlikely to pass the United States Senate. ](/news/2011/07/19/the-united-states-house-of-representatives-votes-to-approve-the-cut-cap-and-balance-act-by-234-190-but-it-is-unlikely-to-pass-the-united.md)
-_Context: United States House of Representatives, United States Senate_
+_Context: Senate, United States House of Representatives_
 
 ##### U.S. President
 ### [The President of the United States, Barack Obama, endorses in principle a bipartisan proposal developed in the United States Senate to cut debt. ](/news/2011/07/19/the-president-of-the-united-states-barack-obama-endorses-in-principle-a-bipartisan-proposal-developed-in-the-united-states-senate-to-cut-d.md)
@@ -73,7 +73,7 @@ _Context: Ashdod, France, Gaza Strip, Greece, Israeli Navy, blockade_
 
 ##### Pakistan
 ### [Eight Pakistani employees of the United States based American Refugee Committee are kidnapped in southwest Pakistan near the border with Afghanistan. ](/news/2011/07/19/eight-pakistani-employees-of-the-united-states-based-american-refugee-committee-are-kidnapped-in-southwest-pakistan-near-the-border-with-afg.md)
-_Context: Afghanistan, American Refugee Committee, Pakistan, United States_
+_Context: Afghan, American Refugee Committee, Pakistan, United States_
 
 ##### United Nations
 ### [A leaked United Nations report suggests war crimes may have been committed in South Kordofan in Sudan during a recent conflict. ](/news/2011/07/19/a-leaked-united-nations-report-suggests-war-crimes-may-have-been-committed-in-south-kordofan-in-sudan-during-a-recent-conflict.md)

@@ -13,7 +13,7 @@ _Context: David Mills, Milan, Silvio Berlusconi, Tessa Jowell, bribes_
 
 ##### Prison riot
 ### [ A prison riot involving close to 1,300 prisoners at Afghanistan's Pul-e-Charkhi prison ended after four days. ](/news/2006/03/2/a-prison-riot-involving-close-to-1-300-prisoners-at-afghanistan-s-pul-e-charkhi-prison-ended-after-four-days.md)
-_Context: Afghanistan, Pul-e-Charkhi prison, prison riot_
+_Context: Afghan, Pul-e-Charkhi prison, prison riot_
 
 ##### U.S. President
 ### [ Just two days before U.S. President George W. Bush is scheduled to visit Pakistan, a car bomb exploded in the Marriott Hotel Karachi parking lot adjacent to a United States consulate in Karachi, killing at least four people including a US diplomat and his driver and injuring at least fifty others. ](/news/2006/03/2/just-two-days-before-u-s-president-george-w-bush-is-scheduled-to-visit-pakistan-a-car-bomb-exploded-in-the-marriott-hotel-karachi-parkin.md)
@@ -59,7 +59,7 @@ Get the latest science news and technology news, read tech reviews and more at A
 ### [ President George W. Bush, on his first visit to India, issues a joint statement with Indian Prime Minister on their growing strategic partnership, emphasising their agreement on civil nuclear cooperation. An estimated crowd of 100,000 people protest against Bush in Delhi. ](/news/2006/03/2/president-george-w-bush-on-his-first-visit-to-india-issues-a-joint-statement-with-indian-prime-minister-on-their-growing-strategic-partn.md)
 _Context: Delhi, George W. Bush, civil nuclear cooperation_
 
-##### United States Senate
+##### Senate
 ### [ The United States Senate voted 89-10 to renew the USA PATRIOT Act after two extensions. In its vote next week, the United States House of Representatives will likely also vote to renew the Act, analysts say. ](/news/2006/03/2/the-united-states-senate-voted-89a10-to-renew-the-usa-patriot-act-after-two-extensions-in-its-vote-next-week-the-united-states-house-of.md)
 With the Senate voting Thursday to renew the USA Patriot Act on Thursday, the measure moves to the House, which is expected to pass the legislation next week. 
 

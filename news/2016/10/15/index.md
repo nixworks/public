@@ -27,7 +27,7 @@ India and Russia signed billions of dollars of defense and energy deals on Satur
 ### [The United States Defense Department reports its Strategic Command systems detected a failed North Korean ballistic missile launch near the city of Kusong in North Pyongan Province. ](/news/2016/10/15/the-united-states-defense-department-reports-its-strategic-command-systems-detected-a-failed-north-korean-ballistic-missile-launch-near-the.md)
 _Context: Kusong, North Korea, North Korea's nuclear program, North Pyongan Province, Strategic Command systems, U.S. military, ballistic missile_
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Syrian child refugees previously settled in the Calais jungle legally immigrate into England. ](/news/2016/10/15/syrian-child-refugees-previously-settled-in-the-calais-jungle-legally-immigrate-into-england.md)
 Aid agencies work with UK and France as operation steps up due to imminent demolition of Calais refugee camp
 

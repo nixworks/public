@@ -13,7 +13,7 @@ _Context: Iranian Navy, Persian Gulf, Romania, attacks and seizes_
 
 ##### Pulkovo Airlines Flight 612
 ### [ Pulkovo Airlines Flight 612, a Tupolev Tu-154 plane carrying 160 passengers and 10 crew from Anapa in southern Russia to Saint Petersburg, crashes in eastern Ukraine. ](/news/2006/08/22/pulkovo-airlines-flight-612-a-tupolev-tu-154-plane-carrying-160-passengers-and-10-crew-from-anapa-in-southern-russia-to-saint-petersburg.md)
-_Context: Anapa, Pulkovo Airlines Flight 612, Russia, Saint Petersburg, Tupolev Tu-154, Ukraine_
+_Context: Anapa, Pulkovo Airlines Flight 612, Russia, Saint Petersburg, Tupolev Tu-154, Ukrainian_
 
 ##### Nunatsiavut
 ### [ Nominations have been called for the first Nunatsiavut Assembly General Election. The election will be held on October 3, 2006. ](/news/2006/08/22/nominations-have-been-called-for-the-first-nunatsiavut-assembly-general-election-the-election-will-be-held-on-october-3-2006.md)

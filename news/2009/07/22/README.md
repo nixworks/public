@@ -3,9 +3,9 @@ Formats: [HTML](2009/07/22/index.html)  [JSON](2009/07/22/index.json)  [XML](200
 
 ## [2009-07-22](/news/2009/07/22/index.md)
 
-##### Ukraine
+##### Ukrainian
 ### [ Ukrainian former Interior Ministry official Oleksiy Pukach confesses to murdering journalist Georgiy R. Gongadze and implicates other high-ranking officials.](/news/2009/07/22/ukrainian-former-interior-ministry-official-oleksiy-pukach-confesses-to-murdering-journalist-georgiy-r-gongadze-and-implicates-other-high.md)
-_Context: Georgiy R. Gongadze, Ministry of Internal Affairs, Oleksiy Pukach, Ukraine_
+_Context: Georgiy R. Gongadze, Ministry of Internal Affairs, Oleksiy Pukach, Ukrainian_
 
 ##### United States
 ### [ U.S. Secretary of State Hillary Clinton warns that it could arm its allies in the Gulf and extend a "defense umbrella" over the region, if Iran goes nuclear. ](/news/2009/07/22/u-s-secretary-of-state-hillary-clinton-warns-that-it-could-arm-its-allies-in-the-gulf-and-extend-a-defense-umbrella-over-the-region-if.md)

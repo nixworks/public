@@ -37,7 +37,7 @@ _Context: European Commission, European Parliament, Jacques Barrot, Jos Manuel B
 
 ##### Ukrainian presidential election controversy
 ### [ 2004 Ukrainian presidential election: Ukraine's electoral commission declares Prime Minister Viktor Yanukovych the winner. Opposition leader Viktor Yushchenko calls for supporters to protest "the total falsification of the vote". Observers from the Organization for Security and Co-operation in Europe (OSCE) say the run-off vote "did not meet international standards", and the senior U.S. election observer, Senator Richard Lugar, notes a "concerted and forceful program of election day fraud". ](/news/2004/11/22/2004-ukrainian-presidential-election-ukraine-s-electoral-commission-declares-prime-minister-viktor-yanukovych-the-winner-opposition-leade.md)
-_Context: OSCE, Prime Minister of Ukraine, Richard Lugar, Ukraine, Ukrainian presidential election controversy, United States Senate, Viktor Yanukovych, Viktor Yushchenko_
+_Context: OSCE, Prime Minister of Ukraine, Richard Lugar, Senate, Ukrainian, Ukrainian presidential election controversy, Viktor Yanukovych, Viktor Yushchenko_
 
 ## [Previous Day...](/news/2004/11/21/index.md)
 

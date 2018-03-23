@@ -5,7 +5,7 @@ Formats: [HTML](2007/11/28/index.html)  [JSON](2007/11/28/index.json)  [XML](200
 
 ##### Sudan
 ### [ Authorities in Sudan charge a British school teacher at Unity High School in Khartoum with the crime of insulting Islam for letting students name a teddy bear Muhammad. ](/news/2007/11/28/authorities-in-sudan-charge-a-british-school-teacher-at-unity-high-school-in-khartoum-with-the-crime-of-insulting-islam-for-letting-student.md)
-_Context: Islam, Khartoum, Muhammad, Sudan, Unity High School, teddy bear_
+_Context: Khartoum, Muhammad, Muslim, Sudan, Unity High School, teddy bear_
 
 ##### China
 ### [ The Chinese Type 051B destroyer "Shenzhen" visits Tokyo in the first visit of a Chinese warship to Japan since World War II. ](/news/2007/11/28/the-chinese-type-051b-destroyer-shenzhen-visits-tokyo-in-the-first-visit-of-a-chinese-warship-to-japan-since-world-war-ii.md)

@@ -47,9 +47,9 @@ An actor who featured in the Harry Potter films is jailed for two years for taki
 ### ["John Carter" records one of the biggest losses in cinema history, forcing Disney to take a $200 million writedown. ](/news/2012/03/20/john-carter-records-one-of-the-biggest-losses-in-cinema-history-forcing-disney-to-take-a-200-million-writedown.md)
 Walt Disney expects to lose $200m (£126m) on its movie John Carter, making it one of the biggest flops in cinema history.
 
-##### Somalia
+##### Somali
 ### [Militants attack Somalia's presidential palace in Mogadishu for the second night running. ](/news/2012/03/20/militants-attack-somalia-s-presidential-palace-in-mogadishu-for-the-second-night-running.md)
-_Context: Mogadishu, Somalia, presidential palace_
+_Context: Mogadishu, Somali, presidential palace_
 
 ##### Wave of terror attacks
 ### [At least 50 are killed and more than 240 injured in a wave of terror attacks across 10 cities in Iraq. ](/news/2012/03/20/at-least-50-are-killed-and-more-than-240-injured-in-a-wave-of-terror-attacks-across-10-cities-in-iraq.md)

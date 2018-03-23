@@ -29,7 +29,7 @@ Stocks finished higher on Wednesday, rebounding from a sharp two-day selloff, af
 
 ##### War in Somalia (2009-present)
 ### [Somalia's police and intelligence chiefs were sacked after Al-Shabaab's attack on the Presidential palace yesterday. ](/news/2014/07/9/somalia-s-police-and-intelligence-chiefs-were-sacked-after-al-shabaab-s-attack-on-the-presidential-palace-yesterday.md)
-_Context: Al-Shabaab, President, Somalia, War in Somalia (2009-present)_
+_Context: Al-Shabab, President, Somali, War in Somalia (2009-present)_
 
 ##### Iraqi insurgency (post-U.S. withdrawal)
 ### [Iraqi security forces find the bodies of 53 men shot recently in Hamza south of Baghdad. ](/news/2014/07/9/iraqi-security-forces-find-the-bodies-of-53-men-shot-recently-in-hamza-south-of-baghdad.md)

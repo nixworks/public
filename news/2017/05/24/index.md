@@ -43,9 +43,9 @@ _Context: Big Sur, California State Route 1, Gorda_
 ### [Four climbers are found dead on Mount Everest, bringing this season's death toll to 10. ](/news/2017/05/24/four-climbers-are-found-dead-on-mount-everest-bringing-this-season-s-death-toll-to-10.md)
 The four were discovered by a rescue team sent to retrieve the body of another dead climber.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [The Italian Coast Guard reports that at least 20 migrants are killed when their 500-passenger boat capsizes in the Mediterranean Sea off Libya's coast. About 1,700 people have been rescued in 15 operations since Tuesday. ](/news/2017/05/24/the-italian-coast-guard-reports-that-at-least-20-migrants-are-killed-when-their-500-passenger-boat-capsizes-in-the-mediterranean-sea-off-lib.md)
-_Context: European migrant crisis, Italian Coast Guard, Libya, Mediterranean Sea_
+_Context: Italian Coast Guard, Libya, Mediterranean Sea, refugee immigration to Germany_
 
 ##### Economy of the People's Republic of China
 ### [Moody's Investors Service downgrades the credit rating of the People's Republic of China from AA3 to A1. ](/news/2017/05/24/moody-s-investors-service-downgrades-the-credit-rating-of-the-people-s-republic-of-china-from-aa3-to-a1.md)

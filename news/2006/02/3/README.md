@@ -5,7 +5,7 @@ Formats: [HTML](2006/02/3/index.html)  [JSON](2006/02/3/index.json)  [XML](2006/
 
 ##### D66
 ### [ Dutch D66 party chairman Boris Dittrich resigns because the Dutch Government voted 'Yes' to Dutch participation in a NATO-led ISAF operation in Afghanistan. ](/news/2006/02/3/dutch-d66-party-chairman-boris-dittrich-resigns-because-the-dutch-government-voted-yes-to-dutch-participation-in-a-nato-led-isaf-operatio.md)
-_Context: Afghanistan, Boris Dittrich, D66, International Security Assistance Force, NATO_
+_Context: Afghan, Boris Dittrich, D66, International Security Assistance Force, NATO_
 
 ##### United States Secretary of Defense
 ### [ The United States Secretary of Defense Donald Rumsfeld likens Venezuela's President Hugo Chavez to Adolf Hitler. In retaliation, Venezuelan Vice President Jose Vicente Rangel refers to the US as the Third Reich. ](/news/2006/02/3/the-united-states-secretary-of-defense-donald-rumsfeld-likens-venezuela-s-president-hugo-cha-vez-to-adolf-hitler-in-retaliation-venezuela.md)

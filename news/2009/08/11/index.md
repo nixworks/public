@@ -5,7 +5,7 @@ Formats: [HTML](2009/08/11/index.html)  [JSON](2009/08/11/index.json)  [XML](200
 
 ##### Kenya
 ### [ Two Kenyans, two French, a Bulgarian and a Belgian held captive since November 2008 are freed by their Somali kidnappers. ](/news/2009/08/11/two-kenyans-two-french-a-bulgarian-and-a-belgian-held-captive-since-november-2008-are-freed-by-their-somali-kidnappers.md)
-_Context: Belgium, Bulgaria, France, Kenya, Somalia_
+_Context: Belgium, Bulgaria, France, Kenya, Somali_
 
 ##### Nepenthes attenboroughii
 ### [ "Nepenthes attenboroughii", a new species of giant carnivorous plant, is discovered in the highlands of the central Philippines. ](/news/2009/08/11/nepenthes-attenboroughii-a-new-species-of-giant-carnivorous-plant-is-discovered-in-the-highlands-of-the-central-philippines.md)
@@ -29,7 +29,7 @@ A man has been rescued after his light aircraft ditched into the sea off Co Wexf
 
 ##### President of Russia
 ### [ Russian President Dmitry Medvedev delays sending a new ambassador to Ukraine after criticising its "anti-Russian" stance. ](/news/2009/08/11/russian-president-dmitry-medvedev-delays-sending-a-new-ambassador-to-ukraine-after-criticising-its-anti-russian-stance.md)
-_Context: Dmitry Medvedev, President of Russia, Ukraine_
+_Context: Dmitry Medvedev, President of Russia, Ukrainian_
 
 ##### NASA
 ### [ The NASA Spitzer Space Telescope finds evidence of a high-speed collision between two burgeoning planets orbiting a young star. ](/news/2009/08/11/the-nasa-spitzer-space-telescope-finds-evidence-of-a-high-speed-collision-between-two-burgeoning-planets-orbiting-a-young-star.md)

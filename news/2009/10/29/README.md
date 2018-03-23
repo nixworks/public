@@ -29,7 +29,7 @@ _Context: India, North Korea, South Korea_
 
 ##### Thailand
 ### [ A Thai cargo ship is hijacked in the Gulf of Aden off the coast of Somalia. ](/news/2009/10/29/a-thai-cargo-ship-is-hijacked-in-the-gulf-of-aden-off-the-coast-of-somalia.md)
-_Context: Gulf of Aden, Somali pirates, Somalia, Thailand_
+_Context: Gulf of Aden, Somali, Somali pirates, Thailand_
 
 ##### IOC depot fire
 ### [ 12 are killed by an IOC depot fire in Jaipur, Army is called. ](/news/2009/10/29/12-are-killed-by-an-ioc-depot-fire-in-jaipur-army-is-called.md)

@@ -31,9 +31,9 @@ _Context: 2006 referendum in Transnistria, Moldova, Russia_
 ### [ A chemical spill is reported on the International Space Station and a fire is feared, although this latter report proves to be unfounded. ](/news/2006/09/18/a-chemical-spill-is-reported-on-the-international-space-station-and-a-fire-is-feared-although-this-latter-report-proves-to-be-unfounded.md)
 _Context: International Space Station_
 
-##### Somalia
+##### Somali
 ### [ Somali President Abdullahi Yusuf survives an assassination attempt when two bombs explode near the parliament building, killing 11 people. ](/news/2006/09/18/somali-president-abdullahi-yusuf-survives-an-assassination-attempt-when-two-bombs-explode-near-the-parliament-building-killing-11-people.md)
-_Context: Abdullahi Yusuf, Somalia, assassination_
+_Context: Abdullahi Yusuf, Somali, assassination_
 
 ##### NATO
 ### [ A suicide bomber has killed at least four Canadians in an attack on a NATO patrol in the southern Afghan province of Kandahar, Canada's military says. ](/news/2006/09/18/a-suicide-bomber-has-killed-at-least-four-canadians-in-an-attack-on-a-nato-patrol-in-the-southern-afghan-province-of-kandahar-canada-s-mil.md)

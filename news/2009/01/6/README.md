@@ -17,7 +17,7 @@ _Context: Gaza, Israel, United Nations, artillery, fire_
 
 ##### Russia
 ### [ Russia's Gazprom alleges that Ukraine has blocked three key gas pipelines to Europe, making natural gas delivery there impossible. ](/news/2009/01/6/russia-s-gazprom-alleges-that-ukraine-has-blocked-three-key-gas-pipelines-to-europe-making-natural-gas-delivery-there-impossible.md)
-_Context: Europe, Gazprom, Russia, Russia-Ukraine gas disputes, Ukraine, line, natural gas_
+_Context: Europe, Gazprom, Russia, Russia-Ukraine gas disputes, Ukrainian, line, natural gas_
 
 ##### United States
 ### [ United States President-elect Barack Obama offers CNN medical correspondent and neurosurgeon Sanjay Gupta the position of Surgeon General. ](/news/2009/01/6/united-states-president-elect-barack-obama-offers-cnn-medical-correspondent-and-neurosurgeon-sanjay-gupta-the-position-of-surgeon-general.md)

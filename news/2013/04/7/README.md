@@ -3,7 +3,7 @@ Formats: [HTML](2013/04/7/index.html)  [JSON](2013/04/7/index.json)  [XML](2013/
 
 ## [2013-04-7](/news/2013/04/7/index.md)
 
-##### Montenegrin
+##### Montenegro
 ### [Voters in Montenegro go to the polls for a presidential election with both candidates declaring themselves winner. ](/news/2013/04/7/voters-in-montenegro-go-to-the-polls-for-a-presidential-election-with-both-candidates-declaring-themselves-winner.md)
 Incumbent Vujanovic holds lead in opinion polls going into election day, as statehood issue dominates voter concerns.
 

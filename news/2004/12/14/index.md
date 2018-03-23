@@ -17,7 +17,7 @@ _Context: Baghdad, Green Zone, Iraq_
 
 ##### POWs
 ### [ The US admits that more prisoners have died in American custody in Afghanistan than it has previously acknowledged. ](/news/2004/12/14/the-us-admits-that-more-prisoners-have-died-in-american-custody-in-afghanistan-than-it-has-previously-acknowledged.md)
-_Context: Afghanistan, POWs_
+_Context: Afghan, POWs_
 
 ##### Train
 ### [ Two trains collide in the northern Indian state of Punjab, killing at least 37 people. One of the trains was carrying Hindu pilgrims returning from Vaishno Devi. ](/news/2004/12/14/two-trains-collide-in-the-northern-indian-state-of-punjab-killing-at-least-37-people-one-of-the-trains-was-carrying-hindu-pilgrims-return.md)

@@ -15,7 +15,7 @@ Thousands of Poles take part in marches in Warsaw and other cities to protest ab
 ### [Former New York City mayor Michael Bloomberg is seriously considering a possible independent presidential run if Donald Trump or Texas Senator Ted Cruz face Vermont Senator Bernie Sanders in the general election. ](/news/2016/01/23/former-new-york-city-mayor-michael-bloomberg-is-seriously-considering-a-possible-independent-presidential-run-if-donald-trump-or-texas-senat.md)
 Michael R. Bloomberg, the billionaire former mayor of New York City, is once again weighing a third-party bid for the presidency, frustrated by what he sees as a race gone haywire, associates said.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Around 200 migrants storm the French port of Calais, near the Channel Tunnel to Britain, after a demonstration in support of migrants living in the nearby Calais jungle camp, with approximately 50 of them boarding the P&O Ferries operated "MS "Spirit of Britain" cross-border ferry. The port was closed following the incident. ](/news/2016/01/23/around-200-migrants-storm-the-french-port-of-calais-near-the-channel-tunnel-to-britain-after-a-demonstration-in-support-of-migrants-living.md)
 Around 200 refugees managed to break into the port of Calais in northern France on Saturday after a demonstration of support for migrants living in a slum nearby ended, enabling some of them to board the front deck of a British ferry, an official said.
 

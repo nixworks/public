@@ -9,15 +9,15 @@ _Context: National Assembly, Niger, Nigerien President, Tandja Mamadou, parliame
 
 ##### Sweden
 ### [ The Swedish Navy arrests seven Somali pirates during the attempted hijacking of a Greek ship. ](/news/2009/05/26/the-swedish-navy-arrests-seven-somali-pirates-during-the-attempted-hijacking-of-a-greek-ship.md)
-_Context: Greece, Navy, Somali pirates, Somalia, Sweden, ship_
+_Context: Greece, Navy, Somali, Somali pirates, Sweden, ship_
 
 ##### Suicide attack
 ### [ A suicide attack kills six people in Kapisa Province, Afghanistan. ](/news/2009/05/26/a-suicide-attack-kills-six-people-in-kapisa-province-afghanistan.md)
-_Context: Afghanistan, Kapisa Province, suicide attack_
+_Context: Afghan, Kapisa Province, suicide attack_
 
 ##### France
 ### [ French President Nicolas Sarkozy will open a military base in Abu Dhabi, United Arab Emirates. ](/news/2009/05/26/french-president-nicolas-sarkozy-will-open-a-military-base-in-abu-dhabi-united-arab-emirates.md)
-_Context: Abu Dhabi, France, French President, Nicolas Sarkozy, United Arab Emirates, military base_
+_Context: Abu Dhabi, France, Nicolas Sarkozy, President of France, United Arab Emirates, military base_
 
 ##### People smugglers
 ### [ An air raid on a people-smuggling convoy in Sudan in January killed 119 people. ](/news/2009/05/26/an-air-raid-on-a-people-smuggling-convoy-in-sudan-in-january-killed-119-people.md)

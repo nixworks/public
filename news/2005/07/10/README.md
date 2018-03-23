@@ -3,7 +3,7 @@ Formats: [HTML](2005/07/10/index.html)  [JSON](2005/07/10/index.json)  [XML](200
 
 ## [2005-07-10](/news/2005/07/10/index.md)
 
-##### Turkish
+##### Turkey
 ### [ In Turkey, bomb in Cesme injures 22. Group called the Kurdish Liberation Hawks takes responsibility ](/news/2005/07/10/in-turkey-bomb-in-cesme-injures-22-group-called-the-kurdish-liberation-hawks-takes-responsibility.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
@@ -27,9 +27,9 @@ _Context: Iraq_
 ### [ Hurricane Dennis makes landfall in the United States, slamming into the Florida Panhandle with 120 mph winds. ](/news/2005/07/10/hurricane-dennis-makes-landfall-in-the-united-states-slamming-into-the-florida-panhandle-with-120-mph-winds.md)
 _Context: Dennis, Panhandle_
 
-##### Afghanistan
+##### Afghan
 ### [ Ten Afghan soldiers are decapitated by Taliban insurgents in Afghanistan. ](/news/2005/07/10/ten-afghan-soldiers-are-decapitated-by-taliban-insurgents-in-afghanistan.md)
-_Context: Afghanistan_
+_Context: Afghan_
 
 ## [Previous Day...](/news/2005/07/9/index.md)
 

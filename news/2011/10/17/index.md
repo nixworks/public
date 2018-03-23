@@ -27,7 +27,7 @@ International negotiators urge the militant Basque separatist group Eta to lay d
 ### [Apple Inc. releases its sales report for the iPhone 4S smartphone, which has reportedly sold over 4 million units worldwide in under four days, breaking company sales records. ](/news/2011/10/17/apple-inc-releases-its-sales-report-for-the-iphone-4s-smartphone-which-has-reportedly-sold-over-4-million-units-worldwide-in-under-four-da.md)
 Apple today said that it had sold more than 4 million iPhone 4S smartphones since the device reached retail last Friday.
 
-##### Somalia
+##### Somali
 ### [Somali militant group Al-Shabab threatens a counterattack against Kenya in response to the entry of Kenyan Army forces into Somalia. ](/news/2011/10/17/somali-militant-group-al-shabab-threatens-a-counterattack-against-kenya-in-response-to-the-entry-of-kenyan-army-forces-into-somalia.md)
 Warning comes after hundreds of Kenyan troops crossed into Somalia to pursue al-Shabab fighters.
 

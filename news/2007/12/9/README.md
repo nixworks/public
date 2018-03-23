@@ -9,7 +9,7 @@ _Context: Downtown Eastside, Robert Pickton, Vancouver, murder_
 
 ##### Taliban
 ### [ Taliban fighters in Afghanistan have pulled back to take up new positions defending the town of Musa Qala during a battle with the Afghan National Army and the International Security Assistance Force. ](/news/2007/12/9/taliban-fighters-in-afghanistan-have-pulled-back-to-take-up-new-positions-defending-the-town-of-musa-qala-during-a-battle-with-the-afghan-n.md)
-_Context: Afghan National Army, Afghanistan, International Security Assistance Force, Musa Qala, Taliban, battle_
+_Context: Afghan, Afghan National Army, International Security Assistance Force, Musa Qala, Taliban, battle_
 
 ##### Shooting at a church
 ### [ Four people are injured and two are killed after a shooting at a church in Colorado Springs, Colorado, United States. ](/news/2007/12/9/four-people-are-injured-and-two-are-killed-after-a-shooting-at-a-church-in-colorado-springs-colorado-united-states.md)

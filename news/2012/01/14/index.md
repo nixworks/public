@@ -17,7 +17,7 @@ _Context: Costa Concordia, Tuscany_
 
 ##### Transformer
 ### [A power transformer malfunction in Bursa, Turkey, leaves millions without electricity, including the metropolis of Istanbul. ](/news/2012/01/14/a-power-transformer-malfunction-in-bursa-turkey-leaves-millions-without-electricity-including-the-metropolis-of-istanbul.md)
-_Context: Bursa, Istanbul, Turkish, transformer_
+_Context: Bursa, Istanbul, Turkey, transformer_
 
 ##### Clashes
 ### [Violent protests occur in Bucharest, Romania, as two-day-old demonstrations continue against President Traian Basescu's economic austerity measures. Clashes are reported in numerous Romanian cities between protesters and law enforcement officers. ](/news/2012/01/14/violent-protests-occur-in-bucharest-romania-as-two-day-old-demonstrations-continue-against-president-traian-basescu-s-economic-austerity.md)

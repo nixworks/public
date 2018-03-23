@@ -57,7 +57,7 @@ Diplomats investigate claims by Nigerian militant group Ansaru that it has kille
 
 ##### Suicide bombings
 ### [At least 19 people are killed by two suicide bombings in the Afghan capital, Kabul, and in Khost Province, as Chuck Hagel, the United States Secretary of Defense, visits the city. ](/news/2013/03/9/at-least-19-people-are-killed-by-two-suicide-bombings-in-the-afghan-capital-kabul-and-in-khost-province-as-chuck-hagel-the-united-states.md)
-_Context: Afghanistan, Chuck Hagel, Kabul, Khost, United States Secretary of Defense, suicide bombings_
+_Context: Afghan, Chuck Hagel, Kabul, Khost, United States Secretary of Defense, suicide bombings_
 
 ##### United Nations
 ### [Rebels free 21 United Nations peacekeepers who were held captive for four days. ](/news/2013/03/9/rebels-free-21-united-nations-peacekeepers-who-were-held-captive-for-four-days.md)

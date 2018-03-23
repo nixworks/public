@@ -9,7 +9,7 @@ _Context: Bangkok, yellow shirt_
 
 ##### Human Rights Watch
 ### [ Human Rights Watch says Somalia is "most ignored tragedy" and the international community has "completely failed Somali civilians" regarding destruction of Mogadishu. ](/news/2008/10/6/human-rights-watch-says-somalia-is-most-ignored-tragedy-and-the-international-community-has-completely-failed-somali-civilians-regardin.md)
-_Context: Human Rights Watch, Mogadishu, Somalia_
+_Context: Human Rights Watch, Mogadishu, Somali_
 
 ##### Russia
 ### [ U.S. to rely on Russia for manned space flights between 2010 and 2015. ](/news/2008/10/6/u-s-to-rely-on-russia-for-manned-space-flights-between-2010-and-2015.md)

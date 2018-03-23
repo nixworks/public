@@ -15,7 +15,7 @@ The Etendeka round-eared sengi or Macroscelides micus, is the smallest of 19 ele
 ### [Amidst staunch opposition from UK Prime Minister David Cameron's ministry, the European Council nominates Jean-Claude Juncker, former Prime Minister of Luxembourg, to be President of the European Commission. ](/news/2014/06/27/amidst-staunch-opposition-from-uk-prime-minister-david-cameron-s-ministry-the-european-council-nominates-jean-claude-juncker-former-prime.md)
 All is not lost for the Prime Minister, who has shown that he can make a virtue of necessity
 
-##### Ukraine
+##### Ukrainian
 ### [The European Union signs pacts with Ukraine, Georgia and Moldova in a move strongly opposed by Russia. ](/news/2014/06/27/the-european-union-signs-pacts-with-ukraine-georgia-and-moldova-in-a-move-strongly-opposed-by-russia.md)
 Ukraine, Georgia and Moldova sign partnership agreements with the European Union, a move Russia says will have serious consequences.
 

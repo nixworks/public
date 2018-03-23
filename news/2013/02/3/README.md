@@ -5,7 +5,7 @@ Formats: [HTML](2013/02/3/index.html)  [JSON](2013/02/3/index.json)  [XML](2013/
 
 ##### Israel
 ### [In response to Israeli air strikes on Syria, Prime Minister of Turkey Recep Tayyip Erdogan says Israel's government is waging "state terrorism". ](/news/2013/02/3/in-response-to-israeli-air-strikes-on-syria-prime-minister-of-turkey-recep-tayyip-erdoaan-says-israel-s-government-is-waging-state-terror.md)
-_Context: Israel, Recep Tayyip Erdogan, Syria, Turkish, Turkish Prime Minister_
+_Context: Israel, Recep Tayyip Erdogan, Syria, Turkey, Turkish Prime Minister_
 
 ##### Iran
 ### [Iran indicates the possibility it will attend talks on its nuclear program in Kazakhstan if it believes intentions behind them are "authentic". ](/news/2013/02/3/iran-indicates-the-possibility-it-will-attend-talks-on-its-nuclear-program-in-kazakhstan-if-it-believes-intentions-behind-them-are-authenti.md)

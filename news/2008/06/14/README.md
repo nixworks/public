@@ -13,7 +13,7 @@ _Context: 2008 Iwate earthquake, Honshu Island, Iwate Prefecture, Japan, Miyagi 
 
 ##### Farah Province
 ### [ A roadside bomb in Farah Province of Afghanistan kills 4 United States troops. ](/news/2008/06/14/a-roadside-bomb-in-farah-province-of-afghanistan-kills-4-united-states-troops.md)
-_Context: Afghanistan, Farah Province, Military of the United States_
+_Context: Afghan, Farah Province, Military of the United States_
 
 ##### Campsfield House
 ### [ A fire breaks out at Campsfield House, a privately run Immigration detention Centre near Oxford in the United Kingdom. ](/news/2008/06/14/a-fire-breaks-out-at-campsfield-house-a-privately-run-immigration-detention-centre-near-oxford-in-the-united-kingdom.md)
@@ -21,7 +21,7 @@ _Context: Campsfield House, Oxford, detention facilities_
 
 ##### U.S. President
 ### [ The President of the United States George W. Bush and the President of France Nicolas Sarkozy warn Syria to break with Iran and state that they will not allow Iran to obtain nuclear weapons. ](/news/2008/06/14/the-president-of-the-united-states-george-w-bush-and-the-president-of-france-nicolas-sarkozy-warn-syria-to-break-with-iran-and-state-that.md)
-_Context: French President, George W. Bush, Iran, Iran and weapons of mass destruction, Nicolas Sarkozy, Syria, U.S. President_
+_Context: George W. Bush, Iran, Iran and weapons of mass destruction, Nicolas Sarkozy, President of France, Syria, U.S. President_
 
 ##### Discovery
 ### [ The Space Shuttle Discovery lands having successfully completed mission STS-124. ](/news/2008/06/14/the-space-shuttle-discovery-lands-having-successfully-completed-mission-sts-124.md)

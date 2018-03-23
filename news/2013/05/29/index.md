@@ -53,7 +53,7 @@ _Context: Dario Fo, Franca Rame, Jacopo Fo, Milan, Nobel Prize in Literature_
 
 ##### International Federation of Red Cross and Red Crescent Societies
 ### [Insurgents storm a Red Cross guest house in Jalalabad, Afghanistan. ](/news/2013/05/29/insurgents-storm-a-red-cross-guest-house-in-jalalabad-afghanistan.md)
-_Context: Afghanistan, International Federation of Red Cross and Red Crescent Societies, Jalalabad_
+_Context: Afghan, International Federation of Red Cross and Red Crescent Societies, Jalalabad_
 
 ##### Drones launch
 ### [Drone attacks in Pakistan: Pakistani intelligence officials claim that a US drone attack has killed 5 alleged foreign militants, including Tehrik-i-Taliban Pakistan commander Wali-ur-Rehman, in the North Waziristan town of Miran Shah. ](/news/2013/05/29/drone-attacks-in-pakistan-pakistani-intelligence-officials-claim-that-a-us-drone-attack-has-killed-5-alleged-foreign-militants-including-t.md)

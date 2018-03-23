@@ -19,9 +19,9 @@ _Context: Accenture, Procter & Gamble, Tiger Woods, endorsement deals, golfer, m
 ### [ India successfully test fires its nuclear-capable "Dhanush" missile off the Orissa coast. ](/news/2009/12/13/india-successfully-test-fires-its-nuclear-capable-dhanush-missile-off-the-orissa-coast.md)
 _Context: "Dhanush" missile, India, Orissa State_
 
-##### Turkish
+##### Turkey
 ### [ Violence erupts in Turkey after the Constitutional Court of Turkey bans the Democratic Society Party over its alleged terrorist links. ](/news/2009/12/13/violence-erupts-in-turkey-after-the-constitutional-court-of-turkey-bans-the-democratic-society-party-over-its-alleged-terrorist-links.md)
-_Context: Constitutional Court of Turkey, Democratic Society Party, Turkish_
+_Context: Constitutional Court of Turkey, Democratic Society Party, Turkey_
 
 ##### Sarejevo
 ### [ The Sarejevo-Belgrade rail link resumes between Bosnia and Herzegovina and Serbia after 18 years. ](/news/2009/12/13/the-sarejevo-belgrade-rail-link-resumes-between-bosnia-and-herzegovina-and-serbia-after-18-years.md)
@@ -31,9 +31,9 @@ _Context: Belgrade, Bosnia and Herzegovina, Sarejevo, Serbia_
 ### [ Chinese President Hu Jintao opens the Kazakhstan-China oil pipeline connecting central Asia to China. ](/news/2009/12/13/chinese-president-hu-jintao-opens-the-kazakhstanachina-oil-pipeline-connecting-central-asia-to-china.md)
 _Context: China, Hu Jintao, Kazakhstan-China oil pipeline_
 
-##### Islam
+##### Muslim
 ### [ Over 100 suspected Islamic militants break into a prison in the Philippine city of Isabela, freeing at least 31 inmates and killing two, including a prison guard. ](/news/2009/12/13/over-100-suspected-islamic-militants-break-into-a-prison-in-the-philippine-city-of-isabela-freeing-at-least-31-inmates-and-killing-two-in.md)
-_Context: Isabela City, Islam, Philippines_
+_Context: Isabela City, Muslim, Philippines_
 
 ##### Chile
 ### [ Voters in Chile go to the polls in presidential and parliamentary elections. ](/news/2009/12/13/voters-in-chile-go-to-the-polls-in-presidential-and-parliamentary-elections.md)
@@ -49,7 +49,7 @@ News and opinion from The Times &amp; The Sunday Times
 
 ##### Prime Minister
 ### [ British Prime Minister Gordon Brown makes an unannounced visit to Afghanistan to support British forces deployed as part of the International Security Assistance Force and to hold talks with Afghan President Hamid Karzai. ](/news/2009/12/13/british-prime-minister-gordon-brown-makes-an-unannounced-visit-to-afghanistan-to-support-british-forces-deployed-as-part-of-the-internation.md)
-_Context: Afghan President, Afghanistan, British military personnel, Gordon Brown, Hamid Karzai, International Security Assistance Force, Prime Minister_
+_Context: Afghan, Afghan President, British military personnel, Gordon Brown, Hamid Karzai, International Security Assistance Force, Prime Minister_
 
 ##### Prime Minister
 ### [ Former British Prime Minister Tony Blair states in an interview that he would have gone to war in Iraq even if he had known that it had no weapons of mass destruction. ](/news/2009/12/13/former-british-prime-minister-tony-blair-states-in-an-interview-that-he-would-have-gone-to-war-in-iraq-even-if-he-had-known-that-it-had-no.md)

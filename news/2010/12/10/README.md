@@ -39,7 +39,7 @@ London, Dec 10 (DPA) WikiLeaks founder Julian Assange, who is being held in extr
 ### [For the first time since World War II, German troops are stationed in France. ](/news/2010/12/10/for-the-first-time-since-world-war-ii-german-troops-are-stationed-in-france.md)
 _Context: France, German, World War II_
 
-##### United States diplomatic cables leak
+##### 250,000 documents
 ### [United States diplomatic cables leak: ](/news/2010/12/10/united-states-diplomatic-cables-leak.md)
 The British government has trained a paramilitary force accused of hundreds of killings in Bangladesh, according to leaked U.S. embassy cables. 
 

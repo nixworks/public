@@ -37,7 +37,7 @@ _Context: European Union, Europol, Middle East, Parliament, Rob Wainwright, jiha
 
 ##### Military intervention in Ukraine
 ### [A passenger bus comes under heavy fire near a check point in eastern Ukraine leading to at least ten civilians killed and many others injured. ](/news/2015/01/13/a-passenger-bus-comes-under-heavy-fire-near-a-check-point-in-eastern-ukraine-leading-to-at-least-ten-civilians-killed-and-many-others-injure.md)
-_Context: Ukraine, military intervention in Ukraine_
+_Context: Ukrainian, military intervention in Ukraine_
 
 ##### ''Charlie Hebdo'' shooting
 ### [France announces plans to deploy 10,000 troops to protect sensitive sites across the country beginning tonight. ](/news/2015/01/13/france-announces-plans-to-deploy-10-000-troops-to-protect-sensitive-sites-across-the-country-beginning-tonight.md)

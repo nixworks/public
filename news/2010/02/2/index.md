@@ -5,7 +5,7 @@ Formats: [HTML](2010/02/2/index.html)  [JSON](2010/02/2/index.json)  [XML](2010/
 
 ##### Paul Volcker
 ### [Paul Volcker testifies before the Banking Committee of the United States Senate about the so-called "Volcker rule," an administration proposal to separate banks from hedge funds and have them close down their risk-taking prop desks. ](/news/2010/02/2/paul-volcker-testifies-before-the-banking-committee-of-the-united-states-senate-about-the-so-called-volcker-rule-an-administration-propos.md)
-_Context: Paul Volcker, United States Senate, United States Senate Committee on Banking, Housing, and Urban Affairs, hedge funds, prop desks_
+_Context: Paul Volcker, Senate, United States Senate Committee on Banking, Housing, and Urban Affairs, hedge funds, prop desks_
 
 ##### 82nd Academy Awards
 ### [Nominations for the 82nd Academy Awards are announced. "Avatar" and "The Hurt Locker" lead the way with nine nominations each, and are both among ten nominees for Best Picture, the first time more than five films have been up for consideration since 1943. ](/news/2010/02/2/nominations-for-the-82nd-academy-awards-are-announced-avatar-and-the-hurt-locker-lead-the-way-with-nine-nominations-each-and-are-both.md)
@@ -33,7 +33,7 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 
 ##### Russia
 ### [Russia and Ukraine accuse each other of espionage, while the latter detains one Russian and expels four others. ](/news/2010/02/2/russia-and-ukraine-accuse-each-other-of-espionage-while-the-latter-detains-one-russian-and-expels-four-others.md)
-_Context: Russia, Ukraine, espionage_
+_Context: Russia, Ukrainian, espionage_
 
 ## [Previous Day...](/news/2010/02/1/index.md)
 

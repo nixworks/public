@@ -13,7 +13,7 @@ Labour suspends MP Naz Shah over a Facebook post suggesting Israel should be mov
 
 ##### 2016 U.S. election
 ### [Texas Senator Ted Cruz names former Republican presidential candidate Carly Fiorina as his vice-presidential running mate. ](/news/2016/04/27/texas-senator-ted-cruz-names-former-republican-presidential-candidate-carly-fiorina-as-his-vice-presidential-running-mate.md)
-_Context: 2016 U.S. election, Carly Fiorina, Republican, Ted Cruz, Ted Cruz presidential campaign, 2016, Texas, United States Senate, presidential candidate_
+_Context: 2016 U.S. election, Carly Fiorina, Republican, Senate, Ted Cruz, Ted Cruz presidential campaign, 2016, Texas, presidential candidate_
 
 ##### North Korea
 ### [The government of North Korea announces its ruling Workers' Party of Korea will hold a party congress on May 6, the first in nearly 40 years. ](/news/2016/04/27/the-government-of-north-korea-announces-its-ruling-workers-party-of-korea-will-hold-a-party-congress-on-may-6-the-first-in-nearly-40-years.md)
@@ -59,7 +59,7 @@ _Context: MINURSO, Morocco, United Nations Security Council_
 ### [The Taliban's Qatar office confirms its leaders are in Pakistan to talk about Afghan refugees and the release of prisoners. The representative did not say if the delegation will discuss the peace process. ](/news/2016/04/27/the-taliban-s-qatar-office-confirms-its-leaders-are-in-pakistan-to-talk-about-afghan-refugees-and-the-release-of-prisoners-the-representati.md)
 Share this on WhatsApp
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [The government of Austria passes a new law that restricts the right of asylum in the country and allows claimants to be rejected directly at the border, a move criticized by rights groups. Officials say they are also considering building a fence at the main border crossing with Italy at the Brenner Pass. ](/news/2016/04/27/the-government-of-austria-passes-a-new-law-that-restricts-the-right-of-asylum-in-the-country-and-allows-claimants-to-be-rejected-directly-at.md)
 The Austrian parliament passes a controversial new law restricting asylum rights and allowing most claimants to be rejected directly at the border.
 

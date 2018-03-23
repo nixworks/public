@@ -43,7 +43,7 @@ _Context: Amman, Jordan, Middle East, Pope Francis_
 
 ##### Earthquake
 ### [A magnitude 6.4 earthquake occurs in the Aegean Sea between Greece and Turkey with reports of serious damage on the Turkish island of Gokceada and the cities of Edirne and Canakkale. ](/news/2014/05/24/a-magnitude-6-4-earthquake-occurs-in-the-aegean-sea-between-greece-and-turkey-with-reports-of-serious-damage-on-the-turkish-island-of-gapkass.md)
-_Context: Aegean Sea, Canakkale, Edirne, Gokceada, Greece, Turkish, earthquake_
+_Context: Aegean Sea, Canakkale, Edirne, Gokceada, Greece, Turkey, earthquake_
 
 ##### Winter Sleep
 ### [Turkish film "Winter Sleep" directed by Nuri Bilge Ceylan wins the Palme d'Or at the 2014 Cannes Film Festival. ](/news/2014/05/24/turkish-film-winter-sleep-directed-by-nuri-bilge-ceylan-wins-the-palme-d-or-at-the-2014-cannes-film-festival.md)
@@ -53,7 +53,7 @@ _Context: 2014 Cannes Film Festival, Nuri Bilge Ceylan, Palme d'Or, Winter Sleep
 ### [Boko Haram militants rampage through three villages in northern Nigeria killing 28 people. ](/news/2014/05/24/boko-haram-militants-rampage-through-three-villages-in-northern-nigeria-killing-28-people.md)
 Suspected Islamist Boko Haram gunmen rampaged through three villages in northern Nigeria, killing 28 people and burning houses to the ground in a pattern of violence that has become almost a daily occurrence, according to police and witnesses.
 
-##### Al-Shabaab
+##### Al-Shabab
 ### [An al-Shabaab-led assault at the Parliament of Somalia in Mogadishu leaves at least 10 dead, including police and militants. ](/news/2014/05/24/an-al-shabaab-led-assault-at-the-parliament-of-somalia-in-mogadishu-leaves-at-least-10-dead-including-police-and-militants.md)
 At least 10 people are reported killed as al-Shabab militants attack parliament in the Somali capital Mogadishu.
 

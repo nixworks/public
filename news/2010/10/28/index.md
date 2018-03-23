@@ -63,9 +63,9 @@ Nissan recalls 2.1 million vehicles worldwide because of an ignition problem, in
 ### [Chinese industrial profits rose 53.5 percent year on year in the first nine months of 2010, the National Bureau of Statistics (NBS) said. ](/news/2010/10/28/chinese-industrial-profits-rose-53-5-percent-year-on-year-in-the-first-nine-months-of-2010-the-national-bureau-of-statistics-nbs-said.md)
 _Context: Chinese industrial, NBS_
 
-##### Somalia
+##### Somali
 ### [Somali group Al-Shabaab publicly executes two teenage girls, claiming they were spies. ](/news/2010/10/28/somali-group-al-shabaab-publicly-executes-two-teenage-girls-claiming-they-were-spies.md)
-_Context: Al-Shabaab, Somalia_
+_Context: Al-Shabab, Somali_
 
 ##### War in Afghanistan
 ### [France announces it is likely to withdraw some of its troops from Afghanistan in 2011. ](/news/2010/10/28/france-announces-it-is-likely-to-withdraw-some-of-its-troops-from-afghanistan-in-2011.md)

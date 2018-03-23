@@ -23,7 +23,7 @@ British woman who is a member of the No Borders activist group, which French off
 ### [Pakistani authorities hang Mumtaz Qadri for his role in the murder of reformist Punjab governor Salmaan Taseer in 2011. ](/news/2016/02/29/pakistani-authorities-hang-mumtaz-qadri-for-his-role-in-the-murder-of-reformist-punjab-governor-salmaan-taseer-in-2011.md)
 _Context: Mumtaz Qadri, Pakistan, Punjab Province, Salmaan Taseer_
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Macedonian police use tear gas after hundreds of migrants frustrated with long delays broke a gate on the border with Greece and temporarily cross the border. ](/news/2016/02/29/macedonian-police-use-tear-gas-after-hundreds-of-migrants-frustrated-with-long-delays-broke-a-gate-on-the-border-with-greece-and-temporarily.md)
 Police have fired tear gas and stun grenades after a few hundred migrants angry at long delays in entering Macedonia broke a gate on the border with Greece.
 

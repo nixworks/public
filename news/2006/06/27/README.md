@@ -33,7 +33,7 @@ _Context: Axl Rose, Guns N' Roses, Popular music, Stockholm, Sweden_
 
 ##### United States
 ### [ The most recent attempt in the United States to adopt a flag desecration amendment fails in the Senate by one vote. ](/news/2006/06/27/the-most-recent-attempt-in-the-united-states-to-adopt-a-flag-desecration-amendment-fails-in-the-senate-by-one-vote.md)
-_Context: United States, United States Senate, flag desecration amendment_
+_Context: Senate, United States, flag desecration amendment_
 
 ##### Armenia
 ### [ Armenian President Robert Kocharyan and Azerbaijani President Ilham Aliyev agree to allow the residents of Nagorno-Karabakh to decide the region's future status through a popular vote. ](/news/2006/06/27/armenian-president-robert-kocharyan-and-azerbaijani-president-ilham-aliyev-agree-to-allow-the-residents-of-nagorno-karabakh-to-decide-the-r.md)

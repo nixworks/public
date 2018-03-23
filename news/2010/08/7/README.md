@@ -31,9 +31,9 @@ A man accused of beating his wife tells a New Zealand court they were performing
 ### [An appeals court in Iran upholds a five year jail sentence against the owner of Mehdi Karroubi's opposition website. ](/news/2010/08/7/an-appeals-court-in-iran-upholds-a-five-year-jail-sentence-against-the-owner-of-mehdi-karroubi-s-opposition-website.md)
 _Context: Iran, Mehdi Karroubi_
 
-##### Turkish
+##### Turkey
 ### [A Turkish court annuls an arrest warrant issued against 102 military officers over an alleged coup plot in 2003. ](/news/2010/08/7/a-turkish-court-annuls-an-arrest-warrant-issued-against-102-military-officers-over-an-alleged-coup-plot-in-2003.md)
-_Context: Turkish, coup d'tat_
+_Context: Turkey, coup d'tat_
 
 ##### Colombian President
 ### [President of Colombia Juan Manuel Santos, in his inauguration speech, vows to improve relations with Ecuador and Venezuela. ](/news/2010/08/7/president-of-colombia-juan-manuel-santos-in-his-inauguration-speech-vows-to-improve-relations-with-ecuador-and-venezuela.md)

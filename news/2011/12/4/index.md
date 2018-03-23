@@ -25,7 +25,7 @@ _Context:  previous elections, Positive Slovenia, Slovenia_
 
 ##### Transparency International
 ### [Transparency International releases the 2011 Corruption Perceptions Index, declaring North Korea and Somalia the most corrupt nations in the world, and New Zealand the least corrupt. ](/news/2011/12/4/transparency-international-releases-the-2011-corruption-perceptions-index-declaring-north-korea-and-somalia-the-most-corrupt-nations-in-the.md)
-_Context: Corruption Perceptions Index, New Zealand, North Korea, Somalia, Transparency International_
+_Context: Corruption Perceptions Index, New Zealand, North Korea, Somali, Transparency International_
 
 ##### Australia
 ### [Australia approves exports of uranium to India. ](/news/2011/12/4/australia-approves-exports-of-uranium-to-india.md)

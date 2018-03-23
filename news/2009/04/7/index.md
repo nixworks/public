@@ -37,7 +37,7 @@ _Context: Alberto Fujimori, Peru, President, convicted, human rights, jail_
 
 ##### United States
 ### [ United States District Judge Emmet G. Sullivan overturns the conviction of former Alaska Senator Ted Stevens. ](/news/2009/04/7/united-states-district-judge-emmet-g-sullivan-overturns-the-conviction-of-former-alaska-senator-ted-stevens.md)
-_Context: Alaska, Emmet Sullivan, Ted Stevens, U.S. District Court in Washington, D.C., United States, United States Senate, conviction_
+_Context: Alaska, Emmet Sullivan, Senate, Ted Stevens, U.S. District Court in Washington, D.C., United States, conviction_
 
 ##### Israel
 ### [ The Israel Police kill a Palestinian terrorist in East Jerusalem as he rams them with his tractor. ](/news/2009/04/7/the-israel-police-kill-a-palestinian-terrorist-in-east-jerusalem-as-he-rams-them-with-his-tractor.md)

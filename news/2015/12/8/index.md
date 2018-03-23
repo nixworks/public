@@ -23,7 +23,7 @@ Oscar Pistorius granted bail on the provision he surrenders his passport and wea
 ### [Cross Border Xpress, a privately owned and operated airport terminal located in the Otay Mesa suburb of San Diego, California, United States, will open tomorrow with a connecting walkway to Tijuana International Airport in Tijuana, Baja California, Mexico. This facility, the final step of a project first proposed in the early 1990s, will be just the second cross-border airport in the world. U.S. Customs will operate a checkpoint on the bridge for those entering the country. ](/news/2015/12/8/cross-border-xpress-a-privately-owned-and-operated-airport-terminal-located-in-the-otay-mesa-suburb-of-san-diego-california-united-states.md)
 A purple pedestrian bridge between two terminals that link Tijuana International Airport and San Diego over the U.S.-Mexico border opened to passengers Wednesday morning.
 
-##### Ambassador to the United Nations
+##### United States Ambassador to the United Nations
 ### [U.S. Ambassador to the United Nations Samantha Power says the United States is investigating reports that Iran launched a medium-range ballistic missile in November, and if confirmed, will bring the issue to the U.N. Security Council and seek appropriate action. ](/news/2015/12/8/u-s-ambassador-to-the-united-nations-samantha-power-says-the-united-states-is-investigating-reports-that-iran-launched-a-medium-range-balli.md)
 The United States is reviewing and seeking to confirm reports that Iran launched a ballistic missile last month in violation of U.N. Security Council resolutions, U.S. Ambassador to the United Nations Samantha Power said on Tuesday.
 

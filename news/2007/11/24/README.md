@@ -9,7 +9,7 @@ _Context: Prime Minister, Rawalpindi, Shaukat Aziz, car bombing, suicide bomber_
 
 ##### Suicide bomber
 ### [ At least six people, most of them children, are killed by a suicide bomber in Paghman, Afghanistan. ](/news/2007/11/24/at-least-six-people-most-of-them-children-are-killed-by-a-suicide-bomber-in-paghman-afghanistan.md)
-_Context: Afghanistan, Paghman, suicide bomber_
+_Context: Afghan, Paghman, suicide bomber_
 
 ##### Pope Benedict XVI
 ### [ Pope Benedict XVI creates 23 new cardinals in a ceremony in St. Peter's Basilica in the Vatican City. ](/news/2007/11/24/pope-benedict-xvi-creates-23-new-cardinals-in-a-ceremony-in-st-peter-s-basilica-in-the-vatican-city.md)

@@ -23,7 +23,7 @@ _Context: Eugene Starostin, Gert van der Heijden, Mbius strip, developable surfa
 ### [ Shimon Peres is sworn in as the President of Israel. ](/news/2007/07/15/shimon-peres-is-sworn-in-as-the-president-of-israel.md)
 _Context: President, Shimon Peres_
 
-##### Somalia
+##### Somali
 ### [ A Somali peace conference in Mogadishu gets off to a bad start as it is disrupted by mortar shells. ](/news/2007/07/15/a-somali-peace-conference-in-mogadishu-gets-off-to-a-bad-start-as-it-is-disrupted-by-mortar-shells.md)
 Somalia&#039;s much-delayed peace conference has gotten off to a rocky start with seven mortar shells exploding near the Mogadishu venue.
 

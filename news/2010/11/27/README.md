@@ -35,7 +35,7 @@ PAKISTANI Muslims have threatened anarchy if the Government pardons a Christian 
 ### [At least three people die in protests in the Ivory Coast over a curfew imposed ahead of the second round of the Ivorian presidential election. ](/news/2010/11/27/at-least-three-people-die-in-protests-in-the-ivory-coast-over-a-curfew-imposed-ahead-of-the-second-round-of-the-ivorian-presidential-electio.md)
 At least three people have been killed in violence in Ivory Coast, hours before a presidential run-off election, officials say.
 
-##### Somalia
+##### Somali
 ### [Somali-born teenager Mohamed Osman Mohamud is arrested in Portland, Oregon, for allegedly plotting a bombing attack on a Christmas tree lighting ceremony. ](/news/2010/11/27/somali-born-teenager-mohamed-osman-mohamud-is-arrested-in-portland-oregon-for-allegedly-plotting-a-bombing-attack-on-a-christmas-tree-ligh.md)
 A Somali-born US teenager is arrested in the state of Oregon after allegedly plotting to bomb a Christmas tree lighting ceremony.
 

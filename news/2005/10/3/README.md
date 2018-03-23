@@ -7,9 +7,9 @@ Formats: [HTML](2005/10/3/index.html)  [JSON](2005/10/3/index.json)  [XML](2005/
 ### [ In Canada, the Canadian Broadcasting Corporation and the Canadian Media Guild announce a preliminary agreement to end the current lockout of CMG members in most of the country which seriously impaired corporation's programming since August 17. ](/news/2005/10/3/in-canada-the-canadian-broadcasting-corporation-and-the-canadian-media-guild-announce-a-preliminary-agreement-to-end-the-current-lockout-o.md)
 _Context: August 17, CBC, Canada, Canadian Media Guild, locks out_
 
-##### Turkish
+##### Turkey
 ### [ Turkey and Croatia begin talks about joining the European Union following over a day of debate over an Austrian proposal that Turkey should be offered an associate status short of full membership. ](/news/2005/10/3/turkey-and-croatia-begin-talks-about-joining-the-european-union-following-over-a-day-of-debate-over-an-austrian-proposal-that-turkey-should.md)
-_Context: Austria, Croatia, Turkish, joining the European Union_
+_Context: Austria, Croatia, Turkey, joining the European Union_
 
 ##### NTL
 ### [ NTL, the largest British cable television company, telco and ISP, announces its multi-billion pound purchase of Telewest, the second largest cable company, creating one of the largest companies in the British media industry. ](/news/2005/10/3/ntl-the-largest-british-cable-television-company-telco-and-isp-announces-its-multi-billion-pound-purchase-of-telewest-the-second-larges.md)
@@ -25,7 +25,7 @@ _Context: Africa, Europe, clock, solar eclipse, south, west_
 
 ##### War in Afghanistan (2001-present)
 ### [ Conflict in Afghanistan: Afghan troops kill 31 suspects following clashes in Paktika, in eastern Afghanistan. ](/news/2005/10/3/conflict-in-afghanistan-afghan-troops-kill-31-suspects-following-clashes-in-paktika-in-eastern-afghanistan.md)
-_Context: Afghanistan, Paktika, War in Afghanistan (2001-present)_
+_Context: Afghan, Paktika, War in Afghanistan (2001-present)_
 
 ##### United States
 ### [ On the first day of the U.S. Supreme Court's fall term, President George W. Bush nominates White House Counsel Harriet Miers to fill the seat currently held by Sandra Day O'Connor. The nominee has no judicial experience. ](/news/2005/10/3/on-the-first-day-of-the-u-s-supreme-court-s-fall-term-president-george-w-bush-nominates-white-house-counsel-harriet-miers-to-fill-the-se.md)

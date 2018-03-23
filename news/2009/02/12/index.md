@@ -13,7 +13,7 @@ Microsoft is offering a $250,000 reward for information leading to the convictio
 
 ##### Dutch
 ### [ Dutch Member of Parliament and Islam critic Geert Wilders is denied entry into the United Kingdom. ](/news/2009/02/12/dutch-member-of-parliament-and-islam-critic-geert-wilders-is-denied-entry-into-the-united-kingdom.md)
-_Context: Dutch, Geert Wilders, Islam, MP, Parliament, UK, anti-Islamic_
+_Context: Dutch, Geert Wilders, MP, Muslim, Parliament, UK, anti-Islamic_
 
 ##### India
 ### [ Indian businessman Moninder Singh Pandher and his servant, Surender Koli, are convicted of murder. ](/news/2009/02/12/indian-businessman-moninder-singh-pandher-and-his-servant-surender-koli-are-convicted-of-murder.md)
@@ -33,7 +33,7 @@ _Context: Army, Hugo Chavez, Venezuela, Venezuelan President, Venezuelan governm
 
 ##### Taliban
 ### [ Taliban militants kill 26 people in attacks on three government buildings in Kabul, Afghanistan. ](/news/2009/02/12/taliban-militants-kill-26-people-in-attacks-on-three-government-buildings-in-kabul-afghanistan.md)
-_Context: Afghanistan, Kabul, Politics of Afghanistan, Taliban, militant_
+_Context: Afghan, Kabul, Politics of Afghanistan, Taliban, militant_
 
 ##### Self-immolation
 ### [ A man is arrested after threatening self-immolation outside the Government Buildings in Dublin, Ireland. ](/news/2009/02/12/a-man-is-arrested-after-threatening-self-immolation-outside-the-government-buildings-in-dublin-ireland.md)
@@ -57,7 +57,7 @@ _Context: 1981, Iraq, Israel, Parliament of Iraq, nuclear reactors, reparations_
 
 ##### Republican
 ### [ Republican Senator Judd Gregg of New Hampshire withdraws his nomination as U.S. Secretary of Commerce. ](/news/2009/02/12/republican-senator-judd-gregg-of-new-hampshire-withdraws-his-nomination-as-u-s-secretary-of-commerce.md)
-_Context: Judd Gregg, New Hampshire, Republican, United States, United States Secretary of Commerce, United States Senate_
+_Context: Judd Gregg, New Hampshire, Republican, Senate, United States, United States Secretary of Commerce_
 
 ##### Pope
 ### [ Pope Benedict XVI condemns any denial of the Holocaust as "intolerable and altogether unacceptable". ](/news/2009/02/12/pope-benedict-xvi-condemns-any-denial-of-the-holocaust-as-intolerable-and-altogether-unacceptable.md)

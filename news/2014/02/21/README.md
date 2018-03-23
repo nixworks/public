@@ -35,7 +35,7 @@ _Context: CNN, Nicolas Maduro, Venezuela_
 ### [22-year-old Venezuelan beauty queen Genesis Carmona is shot in the head and killed while participating in a student protest against Nicolas Maduro's socialist government. ](/news/2014/02/21/22-year-old-venezuelan-beauty-queen-ga-c-nesis-carmona-is-shot-in-the-head-and-killed-while-participating-in-a-student-protest-against-nicola.md)
 _Context: Genesis Carmona, Nicolas Maduro_
 
-##### Ukraine
+##### Ukrainian
 ### [The Ukrainian government and opposition agree to form a unity government and to hold early elections. ](/news/2014/02/21/the-ukrainian-government-and-opposition-agree-to-form-a-unity-government-and-to-hold-early-elections.md)
 Agreement reached to form a unity government and hold early elections, but questions remain as to whether it will be accepted by all within the disparate protest movement. All the developments as they happened.
 

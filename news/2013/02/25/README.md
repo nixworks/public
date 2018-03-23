@@ -41,7 +41,7 @@ _Context: Russia, banning, enacts, school, smoking, subways_
 
 ##### NATO
 ### [NATO says it has found no evidence to back the Afghan claim of misconduct by United States forces. ](/news/2013/02/25/nato-says-it-has-found-no-evidence-to-back-the-afghan-claim-of-misconduct-by-united-states-forces.md)
-_Context: Afghanistan, NATO, United States_
+_Context: Afghan, NATO, United States_
 
 ##### United States
 ### [Former United States Surgeon General C. Everett Koop dies at the age of 96. ](/news/2013/02/25/former-united-states-surgeon-general-c-everett-koop-dies-at-the-age-of-96.md)

@@ -27,7 +27,7 @@ _Context: Assassination of Benazir Bhutto, Benazir Bhutto, Pakistan, Pervez Mush
 ### [Three male youths are implicated in the murder of Australian baseball player Chris Lane in Duncan, Oklahoma. ](/news/2013/08/20/three-male-youths-are-implicated-in-the-murder-of-australian-baseball-player-chris-lane-in-duncan-oklahoma.md)
 _Context: Duncan, Oklahoma, murder_
 
-##### Turkish
+##### Turkey
 ### [Turkey's Prime Minister Recep Tayyip Erdogan accuses American and Israeli influence of being the ouster of Egypt's President Mohammed Morsi; which are denied by both. ](/news/2013/08/20/turkeyas-prime-minister-recep-tayyip-erdoaan-accuses-american-and-israeli-influence-of-being-the-ouster-of-egyptas-president-mohammed-m.md)
 Citing a 2011 statement by a French intellectual, Erdogan claimed he could prove the Jewish state plotted the coup in Cairo
 

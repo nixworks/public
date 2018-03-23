@@ -45,7 +45,7 @@ A long-term guard and former inmates of Kerobokan speak of their loss, one year 
 
 ##### Lithuania-United States relations
 ### [The United States Air Force lands two of its most advanced fighter jets in Lithuania for the first time in a show of support for the Baltic states which have become worried about Russia's actions in Ukraine. ](/news/2016/04/29/the-united-states-air-force-lands-two-of-its-most-advanced-fighter-jets-in-lithuania-for-the-first-time-in-a-show-of-support-for-the-baltic.md)
-_Context: Baltics, Lithuania, Lithuania-United States relations, Russia, U.S. Air Force, Ukraine, most advanced fighter jets_
+_Context: Baltics, Lithuania, Lithuania-United States relations, Russia, U.S. Air Force, Ukrainian, most advanced fighter jets_
 
 ##### Zika virus outbreak (2015-present)
 ### [ The Centers for Disease Control and Prevention reports the first Zika virus related death in the United States, an elderly man in Puerto Rico. ](/news/2016/04/29/the-centers-for-disease-control-and-prevention-reports-the-first-zika-virus-related-death-in-the-united-states-an-elderly-man-in-puerto-ri.md)

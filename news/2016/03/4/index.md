@@ -31,7 +31,7 @@ The Turkish government seizes control of the Zaman newspaper linked to an exiled
 ### [Brazilian police raid the home of ex-President Luiz Inacio Lula da Silva in relation to the Petrobras scandal. Lula is brought in for questioning. ](/news/2016/03/4/brazilian-police-raid-the-home-of-ex-president-luiz-ina-cio-lula-da-silva-in-relation-to-the-petrobras-scandal-lula-is-brought-in-for-quest.md)
 Former Brazilian President Luiz Inacio Lula da Silva is questioned by police as part of a huge fraud inquiry into the state oil company Petrobras.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [The European Commission proposes an end-of-year target date for lifting internal border checks and restoring the 26-nation, passport-free Schengen Area. ](/news/2016/03/4/the-european-commission-proposes-an-end-of-year-target-date-for-lifting-internal-border-checks-and-restoring-the-26-nation-passport-free-sc.md)
 European Union officials voiced guarded optimism on Friday that Turkey was starting to cooperate to stem the flow of migrants to Europe, as Brussels outlined a timetable for restoring open borders across the continent by the end of the year.
 

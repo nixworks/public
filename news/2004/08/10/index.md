@@ -21,7 +21,7 @@ _Context: Morocco, Mounir al-Motassadek, September 11, 2001 attacks, al-Qaeda, v
 
 ##### Bomb
 ### [ Bombs explode at two small hotels and a gas plant in the Turkish city of Istanbul, killing two people and injuring at least nine. ](/news/2004/08/10/bombs-explode-at-two-small-hotels-and-a-gas-plant-in-the-turkish-city-of-istanbul-killing-two-people-and-injuring-at-least-nine.md)
-_Context: Bomb, Istanbul, Turkish_
+_Context: Bomb, Istanbul, Turkey_
 
 ##### South Korea
 ### [ The South Korean government announces that the country's capital is to be moved from Seoul to a new site at Gongju in South Chungcheong province. ](/news/2004/08/10/the-south-korean-government-announces-that-the-country-s-capital-is-to-be-moved-from-seoul-to-a-new-site-at-gongju-in-south-chungcheong-pro.md)

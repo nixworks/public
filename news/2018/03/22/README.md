@@ -3,17 +3,17 @@ Formats: [HTML](2018/03/22/index.html)  [JSON](2018/03/22/index.json)  [XML](201
 
 ## [2018-03-22](/news/2018/03/22/index.md)
 
-##### DNA
+##### Human genetics
 ### [DNA tests confirm Ata, an unusual six-inch-long mummy found in Chile in 2003, to be the remains of a newborn human with genetic mutations. ](/news/2018/03/22/dna-tests-confirm-ata-an-unusual-six-inch-long-mummy-found-in-chile-in-2003-to-be-the-remains-of-a-newborn-human-with-genetic-mutations.md)
 Scientists investigate an unusual, small, mummified skeleton from Chile to establish its medical history.
 
 ##### Presidency of Donald Trump
-### [U.S. President Donald Trump announces former United States Ambassador to the United Nations John R. Bolton will become his National Security Advisor, replacing the outgoing H. R. McMaster. ](/news/2018/03/22/u-s-president-donald-trump-announces-former-united-states-ambassador-to-the-united-nations-john-r-bolton-will-become-his-national-security.md)
+### [U.S. President Donald Trump announces former United States Ambassador to the United Nations John R. Bolton will become his National Security Advisor, succeeeding the outgoing H. R. McMaster. ](/news/2018/03/22/u-s-president-donald-trump-announces-former-united-states-ambassador-to-the-united-nations-john-r-bolton-will-become-his-national-security.md)
 _Context: Donald Trump, H. R. McMaster, John R. Bolton, National Security Advisor, Presidency of Donald Trump, U.S. President, United States Ambassador to the United Nations_
 
-##### Peru
+##### Politics of Peru
 ### [Peruvian Vice President Martin Vizcarra returns from Canada, where he is his nation's ambassador, in preparation to take over the Presidency. ](/news/2018/03/22/peruvian-vice-president-martan-vizcarra-returns-from-canada-where-he-is-his-nation-s-ambassador-in-preparation-to-take-over-the-presidenc.md)
-_Context: Canada, Martin Vizcarra, Peru_
+_Context: Canada, Martin Vizcarra, Peru, Politics of Peru_
 
 ##### 2017-18 Spanish constitutional crisis
 ### [Jordi Turull fails in the first vote to become President of the Generalitat. The next session will be held on Saturday, March 24. ](/news/2018/03/22/jordi-turull-fails-in-the-first-vote-to-become-president-of-the-generalitat-the-next-session-will-be-held-on-saturday-march-24.md)
@@ -71,7 +71,7 @@ Russian President Vladimir Putin accepted an invitation from his Sudanese counte
 ### [Poland's ruling Law and Justice proposes changes to planned judicial reforms in response to European Union criticisms the plans threaten judicial independence. The European Commission is threatening Poland with sanctions over the reforms. ](/news/2018/03/22/poland-s-ruling-law-and-justice-proposes-changes-to-planned-judicial-reforms-in-response-to-european-union-criticisms-the-plans-threaten-jud.md)
 The opposition dismissed the changes as &quot;a lie&quot; and warned the EU against accepting the &quot;cosmetic changes.&quot; The ruling Law and Justice (PiS) party had resisted any concessions for months before Thursday&#39;s announcement.
 
-##### Qatar
+##### 2017-18 Qatar diplomatic crisis
 ### [Qatar's Interior Ministry releases a list of individuals and entities it says are linked to terrorism. Bahrain, Saudi Arabia, the United Arab Emirates, and Egypt, who had demanded the list amid tensions with Qatar, welcome its release but criticise the time taken to prepare it. ](/news/2018/03/22/qatar-s-interior-ministry-releases-a-list-of-individuals-and-entities-it-says-are-linked-to-terrorism-bahrain-saudi-arabia-the-united-ara.md)
 Saudi Arabia the UAE Bahrain and Egypt have long complained of Qatar s support for terror
 
@@ -92,7 +92,7 @@ The US trade representative says the import duties have been &quot;paused&quot; 
 Thousands of fighters to be deported after deal with Russian and Syrian officials
 
 ##### Atlanta
-### [The city government of Atlanta, Georgia, United States, experiences an outage on some official websites, suspected to be caused by a cyberattack. ](/news/2018/03/22/the-city-government-of-atlanta-georgia-united-states-experiences-an-outage-on-some-official-websites-suspected-to-be-caused-by-a-cyberat.md)
+### [The city government of Atlanta, Georgia, United States, experiences an outage on some official websites, caused by a ransomware cyberattack. ](/news/2018/03/22/the-city-government-of-atlanta-georgia-united-states-experiences-an-outage-on-some-official-websites-caused-by-a-ransomware-cyberattack.md)
 The City of Atlanta has tweeted that they are currently experiencing outages on some of their customer applications. 
 
 ##### Somali Civil War (2009-present)

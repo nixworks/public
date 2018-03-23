@@ -13,7 +13,7 @@ _Context: Condoleezza Rice, Mahmoud Abbas, Palestinian President, Secretary of S
 
 ##### UMP
 ### [ The Union for a Popular Movement nominates Nicolas Sarkozy as its candidate to become the next President of France in the 2007 French presidential election. ](/news/2007/01/14/the-union-for-a-popular-movement-nominates-nicolas-sarkozy-as-its-candidate-to-become-the-next-president-of-france-in-the-2007-french-presi.md)
-_Context: 2007 presidential election, French President, Nicolas Sarkozy, UMP_
+_Context: 2007 presidential election, Nicolas Sarkozy, President of France, UMP_
 
 ##### Red Crystal
 ### [ The Red Crystal is recognized as an official symbol of the International Red Cross and Red Crescent Movement. ](/news/2007/01/14/the-red-crystal-is-recognized-as-an-official-symbol-of-the-international-red-cross-and-red-crescent-movement.md)

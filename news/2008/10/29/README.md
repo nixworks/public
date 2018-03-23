@@ -13,7 +13,7 @@ _Context: Pakistan, Ziarat, it was struck_
 
 ##### Suicide bombers attack targets
 ### [ Suicide bombers attack targets in Somalia: Hargeisa, the capital of the self-proclaimed republic of Somaliland, and Bosaso, a city in the autonomous state of Puntland. ](/news/2008/10/29/suicide-bombers-attack-targets-in-somalia-hargeisa-the-capital-of-the-self-proclaimed-republic-of-somaliland-and-bosaso-a-city-in-the-a.md)
-_Context: Bosaso, Hargeisa, Puntland, Somalia, Somaliland, Suicide bombers attack targets_
+_Context: Bosaso, Hargeisa, Puntland, Somali, Somaliland, Suicide bombers attack targets_
 
 ##### Denmark
 ### [ Danish-based low-cost carrier Sterling Airlines files for bankruptcy and stops all passenger flights after its cash-strapped Icelandic investors were unable keep the company afloat.](/news/2008/10/29/danish-based-low-cost-carrier-sterling-airlines-files-for-bankruptcy-and-stops-all-passenger-flights-after-its-cash-strapped-icelandic-inve.md)

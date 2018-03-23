@@ -49,7 +49,7 @@ At least three people were killed and over 200 injured as radical Islamists of H
 
 ##### Qatar
 ### [Eight people are dead after a suicide bomber rams an explosive-laden car into a convoy carrying Qatari officials through the center of Somalia's capital Mogadishu. Al-Shabaab claims responsibility for the attack. ](/news/2013/05/5/eight-people-are-dead-after-a-suicide-bomber-rams-an-explosive-laden-car-into-a-convoy-carrying-qatari-officials-through-the-center-of-somal.md)
-_Context: Al-Shabaab, Mogadishu, Qatar, Somalia_
+_Context: Al-Shabab, Mogadishu, Qatar, Somali_
 
 ##### New People's Army
 ### [New People's Army attack a mining site at Sipalay, Negros Occidental and burn equipment. A firefight ensues leaving five soldiers dead and two wounded. ](/news/2013/05/5/new-people-s-army-attack-a-mining-site-at-sipalay-negros-occidental-and-burn-equipment-a-firefight-ensues-leaving-five-soldiers-dead-and-t.md)

@@ -17,7 +17,7 @@ Sweden has recalled its ambassador to Sri Lanka after Colombo barred Swedish For
 
 ##### United States
 ### [ United States Senator Arlen Specter of Pennsylvania switches from the Republican to the Democratic Party. ](/news/2009/04/28/united-states-senator-arlen-specter-of-pennsylvania-switches-from-the-republican-to-the-democratic-party.md)
-_Context: Arlen Specter, Democrat, Pennsylvania, Republican, United States, United States Senate_
+_Context: Arlen Specter, Democrat, Pennsylvania, Republican, Senate, United States_
 
 ##### Genetically modified organism
 ### [ The first transgenic, fluorescent dogs are cloned in South Korea. ](/news/2009/04/28/the-first-transgenic-fluorescent-dogs-are-cloned-in-south-korea.md)

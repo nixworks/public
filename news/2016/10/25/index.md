@@ -49,7 +49,7 @@ Gunmen shot dead two Saudi security officers in the eastern city of Dammam on Tu
 
 ##### War in Somalia (2009-present)
 ### [A militant from Al-Shabaab shoots dead an intelligence officer in Mogadishu. ](/news/2016/10/25/a-militant-from-al-shabaab-shoots-dead-an-intelligence-officer-in-mogadishu.md)
-_Context: Al-Shabaab, Mogadishu, War in Somalia (2009-present)_
+_Context: Al-Shabab, Mogadishu, War in Somalia (2009-present)_
 
 ##### 2016 Quetta police training college attack
 ### [Gunmen attack a Pakistani police training academy in the southwestern city of Quetta, leaving at least 59 people dead and 117 others injured. ISIL - Khorasan Province claims responsibility for the attack. ](/news/2016/10/25/gunmen-attack-a-pakistani-police-training-academy-in-the-southwestern-city-of-quetta-leaving-at-least-59-people-dead-and-117-others-injured.md)

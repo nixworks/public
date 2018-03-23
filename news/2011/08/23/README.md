@@ -47,11 +47,11 @@ _Context: Gaza Strip, Palestinian, drone aircraft_
 ### [The United Nations Human Rights Council orders an investigation into alleged human rights violations by the Government of Syria in the 2011 Syrian uprising. ](/news/2011/08/23/the-united-nations-human-rights-council-orders-an-investigation-into-alleged-human-rights-violations-by-the-government-of-syria-in-the-2011.md)
 The UN Human Rights Council orders an international inquiry to look into alleged violations by the Syrian regime during its crackdown on anti-regime protests.
 
-##### Islam
+##### Muslim
 ### [Suspected Islamic insurgents kill two Thai Army soldiers and wound 14 other people in southern Thailand. ](/news/2011/08/23/suspected-islamic-insurgents-kill-two-thai-army-soldiers-and-wound-14-other-people-in-southern-thailand.md)
-_Context: Islam, Thai Army, Thailand_
+_Context: Muslim, Thai Army, Thailand_
 
-##### Turkish
+##### Turkey
 ### [Turkey claims to have killed 100 Kurdistan Workers' Party terrorists in bombing raids on positions in northern Iraq since last Wednesday.](/news/2011/08/23/turkey-claims-to-have-killed-100-kurdistan-workers-party-terrorists-in-bombing-raids-on-positions-in-northern-iraq-since-last-wednesday.md)
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews
 

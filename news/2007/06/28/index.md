@@ -45,7 +45,7 @@ _Context: Abdelbaset al-Megrahi, Libya, Lockerbie bombing, Scottish Criminal Cas
 
 ##### Illegal worker
 ### [ A bill to legalize millions of illegal immigrants living in the United States is defeated in the United States Senate. ](/news/2007/06/28/a-bill-to-legalize-millions-of-illegal-immigrants-living-in-the-united-states-is-defeated-in-the-united-states-senate.md)
-_Context: United States, United States Senate, illegal worker_
+_Context: Senate, United States, illegal worker_
 
 ##### Greece
 ### [ Record high temperatures in Greece lead to nine deaths through heat stroke; outbreaks of wildfires, killing two people; and extensive power cuts. ](/news/2007/06/28/record-high-temperatures-in-greece-lead-to-nine-deaths-through-heat-stroke-outbreaks-of-wildfires-killing-two-people-and-extensive-power.md)

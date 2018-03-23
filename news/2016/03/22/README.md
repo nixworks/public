@@ -25,7 +25,7 @@ A federal judge has postponed a hearing set for Tuesday that would have been the
 
 ##### Russia
 ### [A court in southern Russia finds Ukrainian pilot Nadiya Savchenko guilty of being complicit in the killing of two Russian journalists, killing civilians and illegal border crossing and is sentenced to 22 years in prison and a fine of 30,000 rubles. Savchenko denies all the charges and the Ukrainian government said that they would continue to press for her release. ](/news/2016/03/22/a-court-in-southern-russia-finds-ukrainian-pilot-nadiya-savchenko-guilty-of-being-complicit-in-the-killing-of-two-russian-journalists-killi.md)
-_Context: Nadiya Savchenko, Russia, Russian ruble, Ukraine_
+_Context: Nadiya Savchenko, Russia, Russian ruble, Ukrainian_
 
 ##### Syrian peace process
 ### [ U.S. Secretary of State John Kerry leaves for Moscow for talks on Syria and Ukraine with Russian President Vladimir Putin and Foreign Minister Sergey Lavrov on Wednesday. Kerry is also expected to discuss the case of Ukrainian pilot Nadiya Savchenko, who today was sentenced to 22 years in prison in the city of Donetsk. ](/news/2016/03/22/u-s-secretary-of-state-john-kerry-leaves-for-moscow-for-talks-on-syria-and-ukraine-with-russian-president-vladimir-putin-and-foreign-minis.md)

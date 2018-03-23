@@ -55,7 +55,7 @@ The European Central Bank cuts interest rates back to their historic low of 1%, 
 ### [An investigation by the Associated Press and German media uncovers a secret prison suspected of having been operated by the Central Intelligence Agency in Bucharest, Romania. ](/news/2011/12/8/an-investigation-by-the-associated-press-and-german-media-uncovers-a-secret-prison-suspected-of-having-been-operated-by-the-central-intellig.md)
 The CIA operated a secret prison in the Romanian capital Bucharest where terrorism suspects were interrogated, a German media investigation claims.
 
-##### Somalia
+##### Somali
 ### [Fighting breaks out in the Somali capital Mogadishu between militants and government troops. ](/news/2011/12/8/fighting-breaks-out-in-the-somali-capital-mogadishu-between-militants-and-government-troops.md)
 Fighting broke out in portions of the Somali capital Thursday between militants and government troops, with reports of casualties, residents said.
 

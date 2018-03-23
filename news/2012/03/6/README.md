@@ -81,7 +81,7 @@ _Context: Australia, Murrumbidgee River, Wagga Wagga, New South Wales, levee_
 
 ##### Turkish Airlines
 ### [Turkish Airlines begins a service to Somalia, the first regular service to the capital Mogadishu except regional East African flights to operate in twenty years. ](/news/2012/03/6/turkish-airlines-begins-a-service-to-somalia-the-first-regular-service-to-the-capital-mogadishu-except-regional-east-african-flights-to-ope.md)
-_Context: East Africa, Mogadishu, Somalia, Turkish Airlines_
+_Context: East Africa, Mogadishu, Somali, Turkish Airlines_
 
 ##### Lehman Brothers
 ### [Lehman Brothers emerges from bankruptcy protection. ](/news/2012/03/6/lehman-brothers-emerges-from-bankruptcy-protection.md)

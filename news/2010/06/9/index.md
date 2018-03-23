@@ -27,7 +27,7 @@ Scientists shed light on Jewish heritage with an in-depth genetic study from com
 ### [The 2010 Millennium Technology Prize is awarded to Swiss solar innovator Michael Gratzel. ](/news/2010/06/9/the-2010-millennium-technology-prize-is-awarded-to-swiss-solar-innovator-michael-gra-tzel.md)
 The inventor of a low-cost solar cell that could create electricity generating windows has won the Millennium Technology Prize.
 
-##### Somalia
+##### Somali
 ### [Somali Defense Minister and warlord Yusuf Mohammed Siad, who was leading a fight against Islamic insurgents in the country, resigns from government. ](/news/2010/06/9/somali-defense-minister-and-warlord-yusuf-mohammed-siad-who-was-leading-a-fight-against-islamic-insurgents-in-the-country-resigns-from-gov.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
@@ -75,9 +75,9 @@ _Context: Georgia, Melbert Ford, death penalty, death row, lethal injection_
 ### [France closes its military bases in Senegal and removes 900 of its 1,200 troops based there. ](/news/2010/06/9/france-closes-its-military-bases-in-senegal-and-removes-900-of-its-1-200-troops-based-there.md)
 France is closing its military bases in Senegal - 50 years after the independence of its former West Africa colony.
 
-##### French President
+##### President of France
 ### [President Nicolas Sarkozy defends his plans to sell up to four French warships to Russia, despite concerns raised by his Georgian counterpart Mikheil Saakashvili during talks taking place a few days before a visit to Paris of Russian Prime Minister Vladimir Putin. ](/news/2010/06/9/president-nicolas-sarkozy-defends-his-plans-to-sell-up-to-four-french-warships-to-russia-despite-concerns-raised-by-his-georgian-counterpar.md)
-_Context:  Georgian, French President, French warships, Mikheil Saakashvili, Nicolas Sarkozy, Paris, Prime Minister of Russia, Russia, Vladimir Putin_
+_Context:  Georgian, French warships, Mikheil Saakashvili, Nicolas Sarkozy, Paris, President of France, Prime Minister of Russia, Russia, Vladimir Putin_
 
 ##### U.S. President
 ### [President of the United States Barack Obama meets President of the Palestinian National Authority Mahmoud Abbas at the White House in Washington, D.C., United States and promises Palestinians $400 million in US assistance for the West Bank and Gaza. ](/news/2010/06/9/president-of-the-united-states-barack-obama-meets-president-of-the-palestinian-national-authority-mahmoud-abbas-at-the-white-house-in-washin.md)

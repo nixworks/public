@@ -19,4 +19,4 @@ Formats: [HTML](/news/2012/10/3/papua-new-guinea-recognizes-the-independence-of-
 2. [ Malawi recognizes the independence of Kosovo ](/news/2009/12/16/malawi-recognizes-the-independence-of-kosovo.md) _Context: Kosovo, Kosovo_
 3. [ Bahrain recognizes Kosovo. ](/news/2009/05/19/bahrain-recognizes-kosovo.md) _Context: Kosovo, Kosovo_
 4. [ Palau officially recognizes Kosovo. ](/news/2009/03/9/palau-officially-recognizes-kosovo.md) _Context: Kosovo, Kosovo_
-5. [A magnitude 7.5 earthquake occurs at the western Southern Highlands Province in Papua New Guinea, killing at least 31 people and injuring more than 300 others. ](/news/2018/02/25/a-magnitude-7-5-earthquake-occurs-at-the-western-southern-highlands-province-in-papua-new-guinea-killing-at-least-31-people-and-injuring-mo.md) _Context: Papua New Guinea_
+5. [In Kosovo, opposition lawmakers set off tear gas to prevent the ratification of a border treaty with neighboring Montenegro. ](/news/2018/03/21/in-kosovo-opposition-lawmakers-set-off-tear-gas-to-prevent-the-ratification-of-a-border-treaty-with-neighboring-montenegro.md) _Context: Kosovo_

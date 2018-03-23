@@ -23,7 +23,7 @@ Police in Bangkok charge a man in connection with the bomb attack that killed 20
 ### [An Egyptian court sentences Al Jazeera journalists Peter Greste, Mohamed Fahmy, and Baher Mohamed each to three years jail for "aiding a terrorist organization" and falsifying news. Greste, who earlier was deported to Australia, was tried in absentia. Mohamed, an Egyptian, was sentenced to an additional six months for possession of a spent bullet casing; Fahmy is a Canadian national. ](/news/2015/08/29/an-egyptian-court-sentences-al-jazeera-journalists-peter-greste-mohamed-fahmy-and-baher-mohamed-each-to-three-years-jail-for-aiding-a-ter.md)
 Peter Greste and his Al Jazeera colleagues Mohammed Fahmy and Baher Mohamed are sentenced to at least three years&#039; jail at a retrial in a Cairo court.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [The Secretary-General of the United Nations Ban Ki-moon calls for a "collective political response" to the crisis as the death toll from the latest boat to sink in the Mediterranean Sea rises to 171. ](/news/2015/08/29/the-secretary-general-of-the-united-nations-ban-ki-moon-calls-for-a-collective-political-response-to-the-crisis-as-the-death-toll-from-the.md)
 The UN says &quot;much more is required&quot; to prevent fatalities among migrants fleeing to Europe, after hundreds are reported dead in recent days.
 
@@ -53,7 +53,7 @@ _Context: Iraq, Iraq War (2014-present)_
 
 ##### Islamic State in Iraq and the Levant
 ### [Turkey launches its first air strikes against ISIL in Syria. ](/news/2015/08/29/turkey-launches-its-first-air-strikes-against-isil-in-syria.md)
-_Context: Islamic State in Iraq and the Levant, Syria, Turkish_
+_Context: Islamic State in Iraq and the Levant, Syria, Turkey_
 
 ##### South Sudanese Civil War
 ### [A ceasefire starts between the forces of President Salva Kiir and rebel forces with claims of breaches already being made. ](/news/2015/08/29/a-ceasefire-starts-between-the-forces-of-president-salva-kiir-and-rebel-forces-with-claims-of-breaches-already-being-made.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/01/3/the-cypriot-registered-cargo-ship-cemfjord-sinks
 
 ### [2015-01-3](/news/2015/01/3/index.md)
 
-##### Cypriot
+##### Cyprus
 # The Cypriot-registered cargo ship Cemfjord sinks off the northern coast of Scotland leaving eight onboard missing. 
 
 The search for the eight missing crew of the cargo ship Cemfjord in the Pentland Firth is suspended by coastguards.
@@ -22,8 +22,8 @@ The search for the eight missing crew of the cargo ship Cemfjord in the Pentland
 
 ### Related:
 
-1. [The Court of Session allows an appeal by a cross-party group of Scottish politicians seeking court permission for a referral to the European Court of Justice. The group wish for a ruling that the UK can abandon Brexit without permission from the European Union's other member states. A lower court will examine the claim. ](/news/2018/03/20/the-court-of-session-allows-an-appeal-by-a-cross-party-group-of-scottish-politicians-seeking-court-permission-for-a-referral-to-the-european.md) _Context: Scottish_
-2. [Cyprus is set to elect a new President in a second round of voting. Candidates include incumbent Nicos Anastasiades and AKEL candidate, Stavros Malas. ](/news/2018/02/4/cyprus-is-set-to-elect-a-new-president-in-a-second-round-of-voting-candidates-include-incumbent-nicos-anastasiades-and-akel-candidate-stav.md) _Context: Cypriot_
-3. [The Met Office issues its highest level warning, a red alert for parts of Scotland due to heavy snow. It is the first time a red alert has ever been issued in Scotland, and only the second time anywhere in the United Kingdom. ](/news/2018/02/28/the-met-office-issues-its-highest-level-warning-a-red-alert-for-parts-of-scotland-due-to-heavy-snow-it-is-the-first-time-a-red-alert-has-e.md) _Context: Scottish_
-4. [The European Union urges calm and restraint after Turkish Navy warships obstruct a Cypriot offshore drilling vessel in the Eastern Mediterranean, which was approaching an area to explore for natural gas. ](/news/2018/02/12/the-european-union-urges-calm-and-restraint-after-turkish-navy-warships-obstruct-a-cypriot-offshore-drilling-vessel-in-the-eastern-mediterra.md) _Context: Cypriot_
-5. [Mount Hope, in a disputed region of Antarctica, is found to be the highest mountain in territory claimed by the United Kingdom. Ben Nevis in Scotland is the highest mountain in the United Kingdom. ](/news/2017/12/11/mount-hope-in-a-disputed-region-of-antarctica-is-found-to-be-the-highest-mountain-in-territory-claimed-by-the-united-kingdom-ben-nevis-in.md) _Context: Scottish_
+1. [Turkey announces it is to send a drilling boat to disputed waters claimed by both Cyprus and Northern Cyprus. ](/news/2018/03/22/turkey-announces-it-is-to-send-a-drilling-boat-to-disputed-waters-claimed-by-both-cyprus-and-northern-cyprus.md) _Context: Cyprus_
+2. [The Court of Session allows an appeal by a cross-party group of Scottish politicians seeking court permission for a referral to the European Court of Justice. The group wish for a ruling that the UK can abandon Brexit without permission from the European Union's other member states. A lower court will examine the claim. ](/news/2018/03/20/the-court-of-session-allows-an-appeal-by-a-cross-party-group-of-scottish-politicians-seeking-court-permission-for-a-referral-to-the-european.md) _Context: Scottish_
+3. [Cyprus is set to elect a new President in a second round of voting. Candidates include incumbent Nicos Anastasiades and AKEL candidate, Stavros Malas. ](/news/2018/02/4/cyprus-is-set-to-elect-a-new-president-in-a-second-round-of-voting-candidates-include-incumbent-nicos-anastasiades-and-akel-candidate-stav.md) _Context: Cyprus_
+4. [The Met Office issues its highest level warning, a red alert for parts of Scotland due to heavy snow. It is the first time a red alert has ever been issued in Scotland, and only the second time anywhere in the United Kingdom. ](/news/2018/02/28/the-met-office-issues-its-highest-level-warning-a-red-alert-for-parts-of-scotland-due-to-heavy-snow-it-is-the-first-time-a-red-alert-has-e.md) _Context: Scottish_
+5. [The European Union urges calm and restraint after Turkish Navy warships obstruct a Cypriot offshore drilling vessel in the Eastern Mediterranean, which was approaching an area to explore for natural gas. ](/news/2018/02/12/the-european-union-urges-calm-and-restraint-after-turkish-navy-warships-obstruct-a-cypriot-offshore-drilling-vessel-in-the-eastern-mediterra.md) _Context: Cyprus_

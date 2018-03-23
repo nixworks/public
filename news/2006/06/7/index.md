@@ -13,7 +13,7 @@ _Context: Abdual-Halim Khaddam, Israel, Kurd, Mohammad Ghanem, Syria, Syrian gov
 
 ##### Constitutional amendment
 ### [ A constitutional amendment to ban same-sex marriage is killed when it fails to gain the three-fifths majority required for cloture in the United States Senate. 49 Senators voted for the motion, and 48 voted against. This also fell far short of the two-thirds majority that would have been required for passage. ](/news/2006/06/7/a-constitutional-amendment-to-ban-same-sex-marriage-is-killed-when-it-fails-to-gain-the-three-fifths-majority-required-for-cloture-in-the-u.md)
-_Context: United States Senate, cloture, constitutional amendment, same-sex marriage_
+_Context: Senate, cloture, constitutional amendment, same-sex marriage_
 
 ##### Meteorite
 ### [ A meteorite impact event occurs in northern Troms County, Norway. Locals compare the resultant explosion to the nuclear explosion at Hiroshima. The impact location was apparently desolate, and no structural damage or casualties are reported. ](/news/2006/06/7/a-meteorite-impact-event-occurs-in-northern-troms-county-norway-locals-compare-the-resultant-explosion-to-the-nuclear-explosion-at-hirosh.md)

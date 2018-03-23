@@ -49,7 +49,7 @@ _Context: Allen Stanford, Chairman, Stanford Financial Group, U.S. Securities an
 
 ##### United States
 ### [ United States President Barack Obama authorizes the deployment of 12,000 more soldiers into the Afghanistan War. ](/news/2009/02/17/united-states-president-barack-obama-authorizes-the-deployment-of-12-000-more-soldiers-into-the-afghanistan-war.md)
-_Context: Afghanistan, Barack Obama, U.S. President, United States, United States military personnel, War in Afghanistan (2001-present), deployment_
+_Context: Afghan, Barack Obama, U.S. President, United States, United States military personnel, War in Afghanistan (2001-present), deployment_
 
 ## [Previous Day...](/news/2009/02/16/index.md)
 

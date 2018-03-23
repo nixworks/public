@@ -9,7 +9,7 @@ Air Force X-37B space plane glided to an autonomous landing at the Kennedy Space
 
 ##### Last month's presidential election
 ### [Voters in France return to the polls for a run-off, to elect either Emmanuel Macron or Marine Le Pen as the new President of France.](/news/2017/05/7/voters-in-france-return-to-the-polls-for-a-run-off-to-elect-either-emmanuel-macron-or-marine-le-pen-as-the-new-president-of-france.md)
-_Context: Emmanuel Macron, France, French President, Marine Le Pen, last month's presidential election, second round_
+_Context: Emmanuel Macron, France, Marine Le Pen, President of France, last month's presidential election, second round_
 
 ##### France
 ### [France bans the breeding of killer whales and dolphins in captivity and orders aquariums and water parks to expand their pools within three years following a campaign by animal rights groups. ](/news/2017/05/7/france-bans-the-breeding-of-killer-whales-and-dolphins-in-captivity-and-orders-aquariums-and-water-parks-to-expand-their-pools-within-three.md)

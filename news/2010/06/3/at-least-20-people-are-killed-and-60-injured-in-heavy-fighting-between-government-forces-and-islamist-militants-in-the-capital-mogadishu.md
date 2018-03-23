@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/3/at-least-20-people-are-killed-and-60-injured-in-
 
 ### [2010-06-3](/news/2010/06/3/index.md)
 
-##### Islam
+##### Muslim
 # At least 20 people are killed and 60 injured in heavy fighting between government forces and Islamist militants in the capital Mogadishu. 
 
 Heavy fighting between government forces and Islamist militants in Mogadishu kills at least 28 leaves scores wounded.
@@ -27,8 +27,8 @@ Heavy fighting between government forces and Islamist militants in Mogadishu kil
 
 ### Related:
 
-1. [ Islamic insurgents attack a government checkpoint in Somalia's capital, Mogadishu, sparking a gunbattle that kills at least five people on the first day of Ramadan. ](/news/2009/08/22/islamic-insurgents-attack-a-government-checkpoint-in-somalia-s-capital-mogadishu-sparking-a-gunbattle-that-kills-at-least-five-people-on.md) _Context: Islam, Mogadishu_
-2. [ 20 people are killed and 40 injured after clashes between pro-government and Islamist forces in Mogadishu, Somalia. ](/news/2009/08/21/20-people-are-killed-and-40-injured-after-clashes-between-pro-government-and-islamist-forces-in-mogadishu-somalia.md) _Context: Islam, Mogadishu_
-3. [Two car bombings near the presidential palace in Mogadishu, Somalia, kill at least 38 people. Al-Shabaab claim responsibility for the attacks. ](/news/2018/02/24/two-car-bombings-near-the-presidential-palace-in-mogadishu-somalia-kill-at-least-38-people-al-shabaab-claim-responsibility-for-the-attack.md) _Context: Mogadishu_
-4. [After two days of questioning, influential Islamic academician and Oxford professor Tariq Ramadan is charged with the alleged rape of two women and jailed in Paris. ](/news/2018/02/2/after-two-days-of-questioning-influential-islamic-academician-and-oxford-professor-tariq-ramadan-is-charged-with-the-alleged-rape-of-two-wo.md) _Context: Islam_
-5. [President Mohamed Abdullahi Mohamed fires Taabit Abdi Mohamed as mayor of Mogadishu and replaces him with his information minister, Abdirahman Omar Osman. ](/news/2018/01/21/president-mohamed-abdullahi-mohamed-fires-taabit-abdi-mohamed-as-mayor-of-mogadishu-and-replaces-him-with-his-information-minister-abdirahm.md) _Context: Mogadishu_
+1. [ Islamic insurgents attack a government checkpoint in Somalia's capital, Mogadishu, sparking a gunbattle that kills at least five people on the first day of Ramadan. ](/news/2009/08/22/islamic-insurgents-attack-a-government-checkpoint-in-somalia-s-capital-mogadishu-sparking-a-gunbattle-that-kills-at-least-five-people-on.md) _Context: Mogadishu, Muslim_
+2. [ 20 people are killed and 40 injured after clashes between pro-government and Islamist forces in Mogadishu, Somalia. ](/news/2009/08/21/20-people-are-killed-and-40-injured-after-clashes-between-pro-government-and-islamist-forces-in-mogadishu-somalia.md) _Context: Mogadishu, Muslim_
+3. [An Indian court convicts eleven Hindus of murdering a Muslim man they discovered transporting a cow, sentencing them to life. It is the first successful prosecution of cow vigilantism violence in India. ](/news/2018/03/22/an-indian-court-convicts-eleven-hindus-of-murdering-a-muslim-man-they-discovered-transporting-a-cow-sentencing-them-to-life-it-is-the-firs.md) _Context: Muslim_
+4. [A car bomb blast in Mogadishu, near the Weheliye hotel in the Somali capital, kills at least 14 people and injures 10 others. Al-Shabab claims responsibility for the blast. ](/news/2018/03/22/a-car-bomb-blast-in-mogadishu-near-the-weheliye-hotel-in-the-somali-capital-kills-at-least-14-people-and-injures-10-others-al-shabab-clai.md) _Context: Mogadishu_
+5. [Two car bombings near the presidential palace in Mogadishu, Somalia, kill at least 38 people. Al-Shabaab claim responsibility for the attacks. ](/news/2018/02/24/two-car-bombings-near-the-presidential-palace-in-mogadishu-somalia-kill-at-least-38-people-al-shabaab-claim-responsibility-for-the-attack.md) _Context: Mogadishu_

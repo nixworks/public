@@ -15,9 +15,9 @@ _Context: Luis Echeverra, Mexico, Prosecutor, dirty war, genocide_
 ### [ Following Canadian Prime Minister Paul Martin's cabinet shuffle two days earlier, Leader of the Opposition Stephen Harper announces a reshuffled Conservative Shadow Cabinet. ](/news/2004/07/22/following-canadian-prime-minister-paul-martin-s-cabinet-shuffle-two-days-earlier-leader-of-the-opposition-stephen-harper-announces-a-reshu.md)
 _Context: Conservative Party's, Leader of the Opposition, Paul Martin, Prime Minister of Canada, Shadow Cabinet, Stephen Harper, reshuffle_
 
-##### Turkish
+##### Turkey
 ### [ In Turkey a passenger train travelling between Istanbul and Ankara derails at about 18:45 local time (16:45 UTC) near Pamukova in Sakarya Province. Initial fatality reports from the government suggested that 139 people were killed; this was reduced to approximately 30, without explanation, a few hours later, and the actual number is unclear. ](/news/2004/07/22/in-turkey-a-passenger-train-travelling-between-istanbul-and-ankara-derails-at-about-18-45-local-time-16-45-utc-near-pamukova-in-sakarya-p.md)
-_Context: Ankara, Istanbul, Pamukova, Sakarya Province, Turkish_
+_Context: Ankara, Istanbul, Pamukova, Sakarya Province, Turkey_
 
 ##### E. coli
 ### [ In Canada, one person is reported to have died and five others hospitalized due to an E. coli contamination ](/news/2004/07/22/in-canada-one-person-is-reported-to-have-died-and-five-others-hospitalized-due-to-an-e-coli-contamination.md)
@@ -31,9 +31,9 @@ _Context: Iraq, Kenya_
 ### [ The United Nations raises its threat warning level for the Gaza Strip to "Phase Four" (the maximum is five) and plans to evacuate non-essential foreign staff from the Gaza Strip. ](/news/2004/07/22/the-united-nations-raises-its-threat-warning-level-for-the-gaza-strip-to-phase-four-the-maximum-is-five-and-plans-to-evacuate-non-essen.md)
 _Context: Gaza Strip, United Nations_
 
-##### Afghanistan
+##### Afghan
 ### [ United States and Afghan forces kill 10 suspected Islamic militants and arrest five others. ](/news/2004/07/22/united-states-and-afghan-forces-kill-10-suspected-islamic-militants-and-arrest-five-others.md)
-_Context: Afghanistan_
+_Context: Afghan_
 
 ##### 9/11 Commission
 ### [ The 9-11 Commission releases a transcript of the hijackers' conversation in the final moments of United Airlines Flight 93, which details how the hijackers forced the plane into the ground in Pennsylvania. ](/news/2004/07/22/the-9-11-commission-releases-a-transcript-of-the-hijackers-conversation-in-the-final-moments-of-united-airlines-flight-93-which-details-h.md)

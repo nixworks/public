@@ -3,9 +3,9 @@ Formats: [HTML](2005/09/3/index.html)  [JSON](2005/09/3/index.json)  [XML](2005/
 
 ## [2005-09-3](/news/2005/09/3/index.md)
 
-##### French President
+##### President of France
 ### [ French President Jacques Chirac, 72, will be hospitalised for a week after suffering a "minor vascular incident" which is affecting his vision. ](/news/2005/09/3/french-president-jacques-chirac-72-will-be-hospitalised-for-a-week-after-suffering-a-minor-vascular-incident-which-is-affecting-his-vis.md)
-_Context: French President, Jacques Chirac_
+_Context: Jacques Chirac, President of France_
 
 ##### Unilateral
 ### [ A unilateral three-month ceasefire is declared by Nepal's Maoist rebels as negotiations begin with an alliance of political parties. Their leader, Pushpa Kamal Dahal, said they would "not launch any offensive" during the truce. ](/news/2005/09/3/a-unilateral-three-month-ceasefire-is-declared-by-nepal-s-maoist-rebels-as-negotiations-begin-with-an-alliance-of-political-parties-their.md)

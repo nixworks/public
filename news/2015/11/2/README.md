@@ -69,7 +69,7 @@ _Context: Netanya, Palestinian terrorist, Rishon Letzion_
 
 ##### War in Somalia (2009-present)
 ### [At least 15 Somalia army soldiers are killed in an Al-Shabaab ambush near the town of Wanlaweyn in the Lower Shebelle region. ](/news/2015/11/2/at-least-15-somalia-army-soldiers-are-killed-in-an-al-shabaab-ambush-near-the-town-of-wanlaweyn-in-the-lower-shebelle-region.md)
-_Context: Al-Shabaab, Lower Shebelle, Somalia army soldiers, Wanlaweyn, War in Somalia (2009-present)_
+_Context: Al-Shabab, Lower Shebelle, Somalia army soldiers, Wanlaweyn, War in Somalia (2009-present)_
 
 ##### 2015 Nepal fuel crisis
 ### [Nepali police shoot dead an Indian citizen at a border checkpoint as they attempt to clear protesters whose blockade has crippled Nepal's fuel supplies and badly damaged relations between the neighboring countries. ](/news/2015/11/2/nepali-police-shoot-dead-an-indian-citizen-at-a-border-checkpoint-as-they-attempt-to-clear-protesters-whose-blockade-has-crippled-nepal-s-fu.md)

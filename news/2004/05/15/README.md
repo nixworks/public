@@ -15,9 +15,9 @@ _Context: Preakness, Smarty Jones_
 ### [ FIFA announces that the 2010 Football World Cup will be held in South Africa. ](/news/2004/05/15/fifa-announces-that-the-2010-football-world-cup-will-be-held-in-south-africa.md)
 _Context: 2010 FIFA World Cup, FIFA_
 
-##### Ukraine
+##### Ukrainian
 ### [ Ukraine wins the 49th annual Eurovision Song Contest. ](/news/2004/05/15/ukraine-wins-the-49th-annual-eurovision-song-contest.md)
-_Context: 49th, Eurovision Song Contest, Ukraine_
+_Context: 49th, Eurovision Song Contest, Ukrainian_
 
 ##### Artillery
 ### [ A 145&nbsp;mm artillery shell is used as an improvised bomb on a road against US troops in Iraq. The shell explodes and two soldiers receive mild exposure to a nerve agent. ](/news/2004/05/15/a-145-nbsp-mm-artillery-shell-is-used-as-an-improvised-bomb-on-a-road-against-us-troops-in-iraq-the-shell-explodes-and-two-soldiers-receiv.md)

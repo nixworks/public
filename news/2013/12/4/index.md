@@ -49,7 +49,7 @@ Violence rocked Pakistan&#039;s biggest city today as 13 people were killed in t
 
 ##### United States
 ### [The United States stops shipping supplies to Afghanistan through Pakistan due to protests over drone attacks. ](/news/2013/12/4/the-united-states-stops-shipping-supplies-to-afghanistan-through-pakistan-due-to-protests-over-drone-attacks.md)
-_Context: Afghanistan, Pakistan, United States, drones launch_
+_Context: Afghan, Pakistan, United States, drones launch_
 
 ##### Mali's coup
 ### [A mass grave is discovered near Bamako holding the remains of 21 loyalist soldiers said to have gone missing last year during Mali's coup. ](/news/2013/12/4/a-mass-grave-is-discovered-near-bamako-holding-the-remains-of-21-loyalist-soldiers-said-to-have-gone-missing-last-year-during-mali-s-coup.md)

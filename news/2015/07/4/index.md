@@ -61,7 +61,7 @@ Yemen&#39;s dominant Houthi group and its army allies said on Saturday it had sh
 
 ##### War in Donbass
 ### [ A rally of war veterans in Kiev calls for Ukraine to abandon the Minsk II ceasefire agreement and to declare war on pro-Russian separatists in the Donbass region. Despite two ceasefire agreements since September, combat operations, including the use of heavy artillery and ballistic missiles, never stopped. ](/news/2015/07/4/a-rally-of-war-veterans-in-kiev-calls-for-ukraine-to-abandon-the-minsk-ii-ceasefire-agreement-and-to-declare-war-on-pro-russian-separatists.md)
-_Context: Kiev, Minsk II, Russia, Ukraine, War in Donbass_
+_Context: Kiev, Minsk II, Russia, Ukrainian, War in Donbass_
 
 ## [Previous Day...](/news/2015/07/3/index.md)
 

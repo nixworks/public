@@ -43,7 +43,7 @@ Gov. David Ige signed an emergency proclamation on Friday in anticipation of the
 ### [Dominican Prime Minister Roosevelt Skerrit reports that Tropical Storm Erika has left at least 12 dead and more than 20 missing. Erika deposited almost 12 inches of rain in less than 10 hours and caused extensive damage across the island as floods wiped out roads, swamped villages, and started mudslides. ](/news/2015/08/28/dominican-prime-minister-roosevelt-skerrit-reports-that-tropical-storm-erika-has-left-at-least-12-dead-and-more-than-20-missing-erika-depos.md)
 TAMPAMeteorologists may have remained divided Friday evening on the fate of Tropical Storm Erika, but bay area leaders prepared for the worst following a month of historic flooding.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [The body count from a van found on an Austrian highway carrying migrants yesterday rises to at least 71. Three people are arrested in Hungary in relation to their deaths. ](/news/2015/08/28/the-body-count-from-a-van-found-on-an-austrian-highway-carrying-migrants-yesterday-rises-to-at-least-71-three-people-are-arrested-in-hungar.md)
 The body of a &quot;one to two-year-old girl&quot; has been discovered in the back of an abandoned lorry in Austria. 
 

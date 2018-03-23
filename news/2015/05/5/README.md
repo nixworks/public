@@ -49,7 +49,7 @@ Jakarta angry over the recent execution of two Indonesian women found guilty of 
 
 ##### Curtis Culwell Center attack
 ### [Curtis Culwell Center attack: ISIS claims responsibility for the attack on an exhibition of drawings of the Prophet Muhammad in the American city of Garland, Texas. One of the suspects was previously interrogated and surveilled by the FBI having visited Somalia, and both suspects praised ISIS in social media. ](/news/2015/05/5/curtis-culwell-center-attack-isis-claims-responsibility-for-the-attack-on-an-exhibition-of-drawings-of-the-prophet-muhammad-in-the-american.md)
-_Context: Curtis Culwell Center attack, Garland, Texas, ISIS, Islamic State in Iraq and the Levant, Muhammad, Somalia_
+_Context: Curtis Culwell Center attack, Garland, Texas, ISIS, Islamic State in Iraq and the Levant, Muhammad, Somali_
 
 ## [Previous Day...](/news/2015/05/4/index.md)
 

@@ -15,7 +15,7 @@ _Context: North Korea, North Korea's nuclear program, United Nations Security Co
 ### [The Gulf Cooperation Council formally designates Lebanon's Hezbollah militia a terrorist organization. The GCC member states are Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates. ](/news/2016/03/2/the-gulf-cooperation-council-formally-designates-lebanon-s-hezbollah-militia-a-terrorist-organization-the-gcc-member-states-are-bahrain-ku.md)
 The move deepens tensions between Saudi Arabia and its chief regional rival.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [The European Union launches a new aid program worth an initial 700 million euros (US$760 million) to address the growing refugee crisis in Greece. EU Humanitarian Aid Commissioner Christos Stylianides says the so-called Emergency Assistance Instrument will be used to help migrants trapped in Greece and, if needed, in other countries on the migration route front lines. Approval by a majority of EU members is required. The next EU meeting is scheduled for Monday. ](/news/2016/03/2/the-european-union-launches-a-new-aid-program-worth-an-initial-700-million-euros-us-760-million-to-address-the-growing-refugee-crisis-in-g.md)
 The $760 million plan would be the first emergency humanitarian program to alleviate suffering inside the 28-country bloc’s borders.
 

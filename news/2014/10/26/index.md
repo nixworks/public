@@ -5,7 +5,7 @@ Formats: [HTML](2014/10/26/index.html)  [JSON](2014/10/26/index.json)  [XML](201
 
 ##### Recent elections
 ### [Voters in Ukraine go to the polls with supporters of President Petro Poroshenko expected to do well. ](/news/2014/10/26/voters-in-ukraine-go-to-the-polls-with-supporters-of-president-petro-poroshenko-expected-to-do-well.md)
-_Context: Petro Poroshenko, Ukraine, Ukrainian President, recent elections_
+_Context: Petro Poroshenko, Ukrainian, Ukrainian President, recent elections_
 
 ##### Uruguayan general election, 2014
 ### [Voters in Uruguay go to the polls for a general election with the presidential election expected to go to a second round. ](/news/2014/10/26/voters-in-uruguay-go-to-the-polls-for-a-general-election-with-the-presidential-election-expected-to-go-to-a-second-round.md)
@@ -37,7 +37,7 @@ The last UK base and a key US base in Afghanistan are handed over to Afghan secu
 
 ##### War in North-West Pakistan
 ### [Pakistan's military claims to have killed 18 militants in air strikes near the Afghanistan border. ](/news/2014/10/26/pakistan-s-military-claims-to-have-killed-18-militants-in-air-strikes-near-the-afghanistan-border.md)
-_Context: Afghanistan, Pakistan, War in North-West Pakistan_
+_Context: Afghan, Pakistan, War in North-West Pakistan_
 
 ## [Previous Day...](/news/2014/10/25/index.md)
 

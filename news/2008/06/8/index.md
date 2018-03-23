@@ -11,7 +11,7 @@ _Context: 2008 French Open, Rafael Nadal, men's singles title_
 ### [ At least 7 people are killed and 10 injured in a stabbing spree in Tokyo, Japan, coinciding on the 7th anniversary of the Osaka school massacre. ](/news/2008/06/8/at-least-7-people-are-killed-and-10-injured-in-a-stabbing-spree-in-tokyo-japan-coinciding-on-the-7th-anniversary-of-the-osaka-school-mass.md)
 At least seven people have been killed in a stabbing frenzy in a crowded part of Tokyo.
 
-##### Ukraine
+##### Ukrainian
 ### [ At least 37 miners go missing after an explosion in an Ukrainian coal mine causes it to collapse. ](/news/2008/06/8/at-least-37-miners-go-missing-after-an-explosion-in-an-ukrainian-coal-mine-causes-it-to-collapse.md)
 At least 37 miners are missing after an underground gas explosion at a colliery in Ukraine&#39;s Donbass coalfield.
 

@@ -15,9 +15,9 @@ _Context: African Union, Darfur, Tanzania, United Nations_
 ### [ The Supreme Court of Pakistan frees Javed Hashmi, the leader of the Alliance for the Restoration of Democracy and Pakistan Muslim League faction leader, who was jailed in 2003 for writing a letter critical of the President of Pakistan Pervez Musharraf. ](/news/2007/08/3/the-supreme-court-of-pakistan-frees-javed-hashmi-the-leader-of-the-alliance-for-the-restoration-of-democracy-and-pakistan-muslim-league-fa.md)
 _Context: Javed Hashmi, Pakistan Muslim League, Pervez Musharraf, Supreme Court, president_
 
-##### Turkish
+##### Turkey
 ### [ Turkey's two largest cities, Ankara and Istanbul, struggle with water shortages with Ankara rationing water to two days on, two days off as a result of having 5% left in their reservoirs. ](/news/2007/08/3/turkey-s-two-largest-cities-ankara-and-istanbul-struggle-with-water-shortages-with-ankara-rationing-water-to-two-days-on-two-days-off-as.md)
-_Context: Ankara, Istanbul, Turkish, rationing water, reservoirs_
+_Context: Ankara, Istanbul, Turkey, rationing water, reservoirs_
 
 ##### 2007 South Asian floods
 ### [ 2007 South Asian floods: Monsoon floods make millions homeless in India, Nepal and Bangladesh with a death toll of 145 in India and 65 in Bangladesh. ](/news/2007/08/3/2007-south-asian-floods-monsoon-floods-make-millions-homeless-in-india-nepal-and-bangladesh-with-a-death-toll-of-145-in-india-and-65-in-b.md)
@@ -59,7 +59,7 @@ The Canadian Government is giving up its quest to suppress a controversial judic
 ### [ Raids at the Your Black Muslim Bakery in Oakland, California allegedly produces evidence that links the bakery to the murder of Chauncey Bailey, editor of "The Oakland Post", and two other people. ](/news/2007/08/3/raids-at-the-your-black-muslim-bakery-in-oakland-california-allegedly-produces-evidence-that-links-the-bakery-to-the-murder-of-chauncey-ba.md)
 _Context: Chauncey Bailey, Oakland, California, The Oakland Post, Your Black Muslim Bakery, murder_
 
-##### United States Senate
+##### Senate
 ### [ The United States Senate votes to extend the powers of intelligence agents to eavesdrop on suspected terrorists in a victory for President of the United States George W. Bush. ](/news/2007/08/3/the-united-states-senate-votes-to-extend-the-powers-of-intelligence-agents-to-eavesdrop-on-suspected-terrorists-in-a-victory-for-president.md)
 The US Senate has voted to extend the power of intelligence agents to eavesdrop on terrorism suspects, in a victory for the White House after a tense showdown with congressional Democrats.
 

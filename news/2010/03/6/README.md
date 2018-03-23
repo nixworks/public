@@ -5,7 +5,7 @@ Formats: [HTML](2010/03/6/index.html)  [JSON](2010/03/6/index.json)  [XML](2010/
 
 ##### United States
 ### [US Defense Secretary Robert Gates reviews allegations of misconduct in Afghanistan by the private military company formerly known as Blackwater, Xe Services LLC. ](/news/2010/03/6/us-defense-secretary-robert-gates-reviews-allegations-of-misconduct-in-afghanistan-by-the-private-military-company-formerly-known-as-blackwa.md)
-_Context: Afghanistan, Blackwater Worldwide, Robert Gates, United States, United States Secretary of Defense, private military company_
+_Context: Afghan, Blackwater Worldwide, Robert Gates, United States, United States Secretary of Defense, private military company_
 
 ##### Iceland
 ### [Iceland holds a referendum about compensating the United Kingdom and the Netherlands after the collapse of the Icesave bank, with a 95% "no" vote recorded. ](/news/2010/03/6/iceland-holds-a-referendum-about-compensating-the-united-kingdom-and-the-netherlands-after-the-collapse-of-the-icesave-bank-with-a-95-no.md)

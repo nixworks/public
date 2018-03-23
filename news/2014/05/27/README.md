@@ -9,7 +9,7 @@ _Context: England, Republic of the Congo, mire_
 
 ##### CIA
 ### [The White House accidentally reveals the name of the CIA's top intelligence official in Afghanistan to approximately 6,000 journalists during U.S. President Barack Obama's visit to Bagram Airfield. ](/news/2014/05/27/the-white-house-accidentally-reveals-the-name-of-the-cia-s-top-intelligence-official-in-afghanistan-to-approximately-6-000-journalists-durin.md)
-_Context: Afghanistan, Bagram Airfield, Barack Obama, CIA, U.S. President_
+_Context: Afghan, Bagram Airfield, Barack Obama, CIA, U.S. President_
 
 ##### Government of Egypt
 ### [The Government of Egypt declares the final day of voting in the election to be a public holiday to encourage turnout. ](/news/2014/05/27/the-government-of-egypt-declares-the-final-day-of-voting-in-the-election-to-be-a-public-holiday-to-encourage-turnout.md)

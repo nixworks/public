@@ -77,7 +77,7 @@ A raging wildfire near the Los Alamos National Laboratory in New Mexico has prom
 
 ##### Urfa
 ### [1 person is killed and 17 others are injured in a gas station explosion in Urfa, Turkey. ](/news/2011/06/27/1-person-is-killed-and-17-others-are-injured-in-a-gas-station-explosion-in-urfa-turkey.md)
-_Context: Turkish, Urfa_
+_Context: Turkey, Urfa_
 
 ##### Tropical Storm Meari
 ### [Tropical Storm Meari leaves at least nine people dead and three missing as it strikes the west coast of South Korea, with heavy rains and strong winds causing flooding and the suspension of sea traffic around the Korean Peninsula.](/news/2011/06/27/tropical-storm-meari-leaves-at-least-nine-people-dead-and-three-missing-as-it-strikes-the-west-coast-of-south-korea-with-heavy-rains-and-st.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/11/11/the-us-senate-backs-legislation-imposing-sancti
 
 ### [2003-11-11](/news/2003/11/11/index.md)
 
-##### United States Senate
+##### Senate
 #  The US Senate backs legislation imposing sanctions on Syria; the bill allows the president to adjust sanctions as a function of Syria's co-operativeness.
 
 
@@ -11,8 +11,8 @@ Formats: [HTML](/news/2003/11/11/the-us-senate-backs-legislation-imposing-sancti
 
 ### Related:
 
-1. [The U.S. House of Representatives, defying a veto-threat by President Barack Obama, overwhelmingly passes legislation to suspend the Obama administration's program to admit 10,000 Syrian and Iraqi refugees into the country. The bill will now face a vote in the U.S. Senate. ](/news/2015/11/19/the-u-s-house-of-representatives-defying-a-veto-threat-by-president-barack-obama-overwhelmingly-passes-legislation-to-suspend-the-obama-a.md) _Context: Syria, United States Senate_
+1. [The U.S. House of Representatives, defying a veto-threat by President Barack Obama, overwhelmingly passes legislation to suspend the Obama administration's program to admit 10,000 Syrian and Iraqi refugees into the country. The bill will now face a vote in the U.S. Senate. ](/news/2015/11/19/the-u-s-house-of-representatives-defying-a-veto-threat-by-president-barack-obama-overwhelmingly-passes-legislation-to-suspend-the-obama-a.md) _Context: Senate, Syria_
 2. [The Turkish-backed Free Syrian Army seizes control of Jindires in Syria's Afrin District from the Kurdish YPG. The town is extensively destroyed by Turkish airstrikes, according to the Syrian Observatory for Human Rights. ](/news/2018/03/8/the-turkish-backed-free-syrian-army-seizes-control-of-jindires-in-syria-s-afrin-district-from-the-kurdish-ypg-the-town-is-extensively-destr.md) _Context: Syria_
 3. [A Russian Antonov An-26 transport plane crashes during an attempted landing at Khmeimim Air Base in Latakia, Syria, killing all 39 people onboard. ](/news/2018/03/6/a-russian-antonov-an-26-transport-plane-crashes-during-an-attempted-landing-at-khmeimim-air-base-in-latakia-syria-killing-all-39-people-on.md) _Context: Syria_
 4. [According to the Syrian Observatory for Human Rights, at least 36 pro-Syrian government troops were killed in a Turkish airstrike in Afrin, Syria. ](/news/2018/03/3/according-to-the-syrian-observatory-for-human-rights-at-least-36-pro-syrian-government-troops-were-killed-in-a-turkish-airstrike-in-afrin.md) _Context: Syria_
-5. [The Syrian government and rebel forces reach an agreement to allow 7,500 people to evacuate from rebel-held Harasta, Eastern Ghouta. ](/news/2018/03/21/the-syrian-government-and-rebel-forces-reach-an-agreement-to-allow-7-500-people-to-evacuate-from-rebel-held-harasta-eastern-ghouta.md) _Context: Syria_
+5. [U.S. Trade Representative Robert Lighthizer tells a Senate panel that President Donald Trump has decided to "pause" tariffs on steel and aluminium imports from the European Union, Argentina, Australia, Brazil, Canada, Mexico, and South Korea. ](/news/2018/03/22/u-s-trade-representative-robert-lighthizer-tells-a-senate-panel-that-president-donald-trump-has-decided-to-pause-tariffs-on-steel-and-alu.md) _Context: Senate_

@@ -11,9 +11,9 @@ _Context: Hellenic Parliament, elect a new Greek president_
 ### [Russia and Pakistan sign their first energy deal for the Karachi&ndash;Lahore gas pipeline worth US$1.7 billion. ](/news/2014/12/23/russia-and-pakistan-sign-their-first-energy-deal-for-the-karachi-ndash-lahore-gas-pipeline-worth-us-1-7-billion.md)
 Islamabad: For the first time, Pakistan and Russia have signed an energy deal worth USD 1.7 billion to lay a gas pipeline from Karachi to Lahore, a move that may lead to further improvement in their ties.
 
-##### Ukraine
+##### Ukrainian
 ### [The Parliament of Ukraine removes the country's legislative block on forming military alliances, allowing the government to push forward with plans to accede to NATO. ](/news/2014/12/23/the-parliament-of-ukraine-removes-the-countryas-legislative-block-on-forming-military-alliances-allowing-the-government-to-push-forward-w.md)
-_Context: NATO, Ukraine_
+_Context: NATO, Ukrainian_
 
 ##### Food and Drug Administration
 ### [The FDA says that in regards to the 31-year-old policy against gay men making blood donations it will recommend lifting the lifetime ban early next year, replacing it with a policy barring donations from men who have had sex with another man in the previous 12 months. ](/news/2014/12/23/the-fda-says-that-in-regards-to-the-31-year-old-policy-against-gay-men-making-blood-donations-it-will-recommend-lifting-the-lifetime-ban-ear.md)

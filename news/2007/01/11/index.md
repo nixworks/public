@@ -13,7 +13,7 @@ _Context: Canada, Canadian coin, U.S. Defense Department, U.S. military, radio t
 
 ##### Operation Mountain Fury
 ### [ In the ongoing Operation Mountain Fury, NATO forces kill as many as 150 Taliban militants in Afghanistan's Paktika province. ](/news/2007/01/11/in-the-ongoing-operation-mountain-fury-nato-forces-kill-as-many-as-150-taliban-militants-in-afghanistan-s-paktika-province.md)
-_Context: Afghanistan, NATO, Operation Mountain Fury, Paktika province, Taliban_
+_Context: Afghan, NATO, Operation Mountain Fury, Paktika province, Taliban_
 
 ##### Two years of helping
 ### [ War in Somalia: A top U.S. official says that he believes the airstrike in Somalia on the previous day failed to kill the al-Qaeda suspects they targeted. ](/news/2007/01/11/war-in-somalia-a-top-u-s-official-says-that-he-believes-the-airstrike-in-somalia-on-the-previous-day-failed-to-kill-the-al-qaeda-suspects.md)

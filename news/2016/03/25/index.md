@@ -29,7 +29,7 @@ The town of Callaway, Minnesota, has been evacuated after a train crash involvin
 
 ##### War in Donbass
 ### [The body of Ukrainian lawyer Yurij Grabovsky, who defended two ex-Russian soldiers charged in Eastern Ukraine with terrorism and waging an aggressive war against the country, is found on the grounds of a former farming collective in Zhashkiv, Ukraine. Grabovsky went missing from Kiev on March 9. Information from one of two men being held in this case led police to the remains. ](/news/2016/03/25/the-body-of-ukrainian-lawyer-yurij-grabovsky-who-defended-two-ex-russian-soldiers-charged-in-eastern-ukraine-with-terrorism-and-waging-an-a.md)
-_Context: Eastern Ukraine, Kiev, Russia, Ukraine, War in Donbass, Zhashkiv_
+_Context: Eastern Ukraine, Kiev, Russia, Ukrainian, War in Donbass, Zhashkiv_
 
 ##### Yemeni Civil War (2015-present)
 ### [At least 22 people are killed following three suicide bombings in the Yemeni port city of Aden. The Islamic State of Iraq and the Levant claims responsibility for the bombings. ](/news/2016/03/25/at-least-22-people-are-killed-following-three-suicide-bombings-in-the-yemeni-port-city-of-aden-the-islamic-state-of-iraq-and-the-levant-cla.md)

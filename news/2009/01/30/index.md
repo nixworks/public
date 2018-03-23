@@ -23,9 +23,9 @@ _Context: Adelaide, Australia, Melbourne, heat wave_
 ### [ United Nations Secretary-General Ban Ki-moon announces an investigation into Israel's attack on the U.N.'s Gaza Strip headquarters. ](/news/2009/01/30/united-nations-secretary-general-ban-ki-moon-announces-an-investigation-into-israel-s-attack-on-the-u-n-s-gaza-strip-headquarters.md)
 Pressure mounts on Israel to answer accusations of war crimes in Gaza Strip.
 
-##### Somalia
+##### Somali
 ### [ Somalia's Transitional Federal Government collapses after Al-Shabaab captures Baidoa. ](/news/2009/01/30/somalia-s-transitional-federal-government-collapses-after-al-shabaab-captures-baidoa.md)
-_Context: Al-Shabaab, Baidoa, Somalia, Transitional Federal Government_
+_Context: Al-Shabaab, Baidoa, Somali, Transitional Federal Government_
 
 ##### Michael S. Steele
 ### [ Michael S. Steele becomes the U.S. Republican National Committee's first African-American chairman. ](/news/2009/01/30/michael-s-steele-becomes-the-u-s-republican-national-committee-s-first-african-american-chairman.md)

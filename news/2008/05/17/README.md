@@ -13,7 +13,7 @@ Forty-six seriously injured people needed to be evacuated immediately in Beichua
 
 ##### Islamic Courts Union
 ### [ Islamic Courts Union rebels claim to have captured the town of Jilib in Somalia. ](/news/2008/05/17/islamic-courts-union-rebels-claim-to-have-captured-the-town-of-jilib-in-somalia.md)
-_Context: Islamic Courts Union, Jilib, Somalia_
+_Context: Islamic Courts Union, Jilib, Somali_
 
 ##### Assassination
 ### [ An assassination threat delays the return of Morgan Tsvangarai to Zimbabwe to contest a runoff election to decide the presidential election. ](/news/2008/05/17/an-assassination-threat-delays-the-return-of-morgan-tsvangarai-to-zimbabwe-to-contest-a-runoff-election-to-decide-the-presidential-election.md)

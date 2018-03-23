@@ -41,7 +41,7 @@ _Context: ASEAN, Bali, Indonesia, Kim Sung-hwan, North Korea, Pak Ui-chun, South
 
 ##### Famine
 ### [Unicef states that a child dies from malnutrition every six minutes (250 a day) in Somalia. ](/news/2011/07/23/unicef-states-that-a-child-dies-from-malnutrition-every-six-minutes-250-a-day-in-somalia.md)
-_Context: Somalia, Unicef, famine_
+_Context: Somali, Unicef, famine_
 
 ##### CRH
 ### [Two CRH bullet trains collide in near Wenzhou, Zhejiang province, China, killing at least 35. ](/news/2011/07/23/two-crh-bullet-trains-collide-in-near-wenzhou-zhejiang-province-china-killing-at-least-35.md)

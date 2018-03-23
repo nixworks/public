@@ -3,7 +3,7 @@ Formats: [HTML](2006/10/21/index.html)  [JSON](2006/10/21/index.json)  [XML](200
 
 ## [2006-10-21](/news/2006/10/21/index.md)
 
-##### Somalia
+##### Somali
 ### [ Fighting has broken out between Somalian troops and a local militia in alliance with the country's new Islamic movement. ](/news/2006/10/21/fighting-has-broken-out-between-somalian-troops-and-a-local-militia-in-alliance-with-the-country-s-new-islamic-movement.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 

@@ -3,9 +3,9 @@ Formats: [HTML](2008/07/16/index.html)  [JSON](2008/07/16/index.json)  [XML](200
 
 ## [2008-07-16](/news/2008/07/16/index.md)
 
-##### Afghanistan
+##### Afghan
 ### [ Afghan authorities confirm that 52 civilians were killed by an American airstrike at a wedding on Sunday. ](/news/2008/07/16/afghan-authorities-confirm-that-52-civilians-were-killed-by-an-american-airstrike-at-a-wedding-on-sunday.md)
-_Context: Afghanistan, United States, airstrike_
+_Context: Afghan, United States, airstrike_
 
 ##### Malaysia
 ### [ Malaysian opposition leader Anwar Ibrahim is arrested over allegations he sodomised a male aide. ](/news/2008/07/16/malaysian-opposition-leader-anwar-ibrahim-is-arrested-over-allegations-he-sodomised-a-male-aide.md)
@@ -31,9 +31,9 @@ Scuffles broke out between policemen and striking transport workers who at about
 ### [ Ben Bernanke, the Chairman of the Federal Reserve, assures the United States House of Representatives Financial Services Committee that giant mortgage companies Fannie Mae and Freddie Mac are in "no danger of failing." ](/news/2008/07/16/ben-bernanke-the-chairman-of-the-federal-reserve-assures-the-united-states-house-of-representatives-financial-services-committee-that-gia.md)
 _Context: Ben Bernanke, Fannie Mae, Federal Reserve, Financial Services Committee, Freddie Mac, United States House of Representatives_
 
-##### United States Senate
+##### Senate
 ### [ The United States Senate agrees to triple funding for the President's Emergency Plan for AIDS Relief to $48 billion. ](/news/2008/07/16/the-united-states-senate-agrees-to-triple-funding-for-the-president-s-emergency-plan-for-aids-relief-to-48-billion.md)
-_Context: President's Emergency Plan for AIDS Relief, United States Senate_
+_Context: President's Emergency Plan for AIDS Relief, Senate_
 
 ##### Yukos
 ### [ Former Yukos chief Mikhail Khodorkovsky applies for parole in a bid to challenge Russian President Dmitry Medvedev to follow through on promises to build an independent judiciary, his lawyers said. ](/news/2008/07/16/former-yukos-chief-mikhail-khodorkovsky-applies-for-parole-in-a-bid-to-challenge-russian-president-dmitry-medvedev-to-follow-through-on-pro.md)

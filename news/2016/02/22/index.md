@@ -43,7 +43,7 @@ The US and Russia announce that a planned partial cessation of hostilities in Sy
 ### [Iran holds talks with Russia over buying an upgraded version of the S-300 surface-to-air missile defense system. ](/news/2016/02/22/iran-holds-talks-with-russia-over-buying-an-upgraded-version-of-the-s-300-surface-to-air-missile-defense-system.md)
 Iran negotiated with Russia at the weekend over buying an upgraded version of the S-300 surface-to-air missile defense system, which it requires to meet its military needs, a foreign ministry spokesman in Tehran was quoted as saying.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [German Interior Minister Thomas de Maiziere strongly criticizes Austria's decision to put a daily cap on the number of refugees the country can accept. Austria has set a limit of dealing with 80 asylum applications a day, while letting thousands of others transit to Germany. Maiziere said this sends "the wrong signal" and is "unacceptable". ](/news/2016/02/22/german-interior-minister-thomas-de-maizia-re-strongly-criticizes-austria-s-decision-to-put-a-daily-cap-on-the-number-of-refugees-the-country.md)
 Austria&#x27;s decision to only accept 80 asylum seekers a day while letting thousands of others transit through sends &quot;the wrong signal&quot; and is &quot;unacceptable&quot;, German Interior Minister Thomas de Maiziere said Sunday. Berlin fears many of these migrants are heading straight for G...
 

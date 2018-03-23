@@ -37,7 +37,7 @@ Battle of Öland. Claus Møinichen, 1686.Wikimedia Commons.Swedish divers have d
 
 ##### Kenya
 ### [The presidents of Kenya, Somalia and Uganda meet in Nairobi to discuss coordinated military operations against the al-Qaeda-linked Somali terrorist group Al-Shabaab. ](/news/2011/11/17/the-presidents-of-kenya-somalia-and-uganda-meet-in-nairobi-to-discuss-coordinated-military-operations-against-the-al-qaeda-linked-somali-te.md)
-_Context: Al-Shabaab, Kenya, Nairobi, Operation Linda Nchi, Somalia, Uganda, al-Qaeda_
+_Context: Al-Shabab, Kenya, Nairobi, Operation Linda Nchi, Somali, Uganda, al-Qaeda_
 
 ##### 2011 Syrian uprising
 ### [2011 Syrian uprising: Explosions and gunfire are reported in the Syrian capital Damascus. ](/news/2011/11/17/2011-syrian-uprising-explosions-and-gunfire-are-reported-in-the-syrian-capital-damascus.md)

@@ -19,9 +19,9 @@ UNITED NATIONS (Reuters) - The United States and Russia reached an agreement on 
 ### [Authorities in the U.S. arrest Paul Konigsberg, an accountant, charging him with complicity in the Ponzi scheme of former New York financier Bernard Madoff, a scheme that unraveled in 2008. ](/news/2013/09/26/authorities-in-the-u-s-arrest-paul-konigsberg-an-accountant-charging-him-with-complicity-in-the-ponzi-scheme-of-former-new-york-financier.md)
 A former accountant for Bernard Madoff has been indicted on charges he helped the convicted swindler defraud thousands of customers in the Ponzi scheme masterminded by Madoff, nearly five years after the fraud was uncovered.
 
-##### Al-Shabaab
+##### Al-Shabab
 ### [Al-Shabaab militants attack two Kenyan towns near the Somali border. ](/news/2013/09/26/al-shabaab-militants-attack-two-kenyan-towns-near-the-somali-border.md)
-_Context: Al-Shabaab, Kenya, Somalia_
+_Context: Al-Shabab, Kenya, Somali_
 
 ##### Interpol
 ### [Interpol issues a "red notice" arrest warrant for Briton Samantha Lewthwaite at Kenya's request. ](/news/2013/09/26/interpol-issues-a-red-notice-arrest-warrant-for-briton-samantha-lewthwaite-at-kenya-s-request.md)

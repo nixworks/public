@@ -53,7 +53,7 @@ Two days of clashes in southeastern Libya between a local armed faction and Suda
 
 ##### War in Somalia
 ### [al Shabaab militants claim to have captured the port of Merca (Marka) after African Union and Somali Armed Forces withdraw. ](/news/2016/02/5/al-shabaab-militants-claim-to-have-captured-the-port-of-merca-marka-after-african-union-and-somali-armed-forces-withdraw.md)
-_Context: African Union, Al-Shabaab, Merca, Somali military, War in Somalia_
+_Context: African Union, Al-Shabab, Merca, Somali military, War in Somalia_
 
 ##### Northern Mali conflict
 ### [The United Nations mission in Mali confirms that the Malian armed forces had retaken a UN Police base in Timbuktu from unknown assailants that attacked it earlier in the day. ](/news/2016/02/5/the-united-nations-mission-in-mali-confirms-that-the-malian-armed-forces-had-retaken-a-un-police-base-in-timbuktu-from-unknown-assailants-th.md)

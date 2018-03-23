@@ -25,7 +25,7 @@ _Context: Saudi Arabia, Westerners, Yanbu_
 
 ##### European Union candidacy
 ### [ EU enlargement: Ten new member states (Cyprus, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia and Slovenia) join the European Union, increasing the EU's population by 75 million people to a total of roughly 455 million. ](/news/2004/05/1/eu-enlargement-ten-new-member-states-cyprus-the-czech-republic-estonia-hungary-latvia-lithuania-malta-poland-slovakia-and-sloveni.md)
-_Context: Cypriot, Czech Republic, Estonia, European Union, European Union candidacy, Latvia, Lithuania, Malta, Slovakia, Slovenia_
+_Context: Cyprus, Czech Republic, Estonia, European Union, European Union candidacy, Latvia, Lithuania, Malta, Slovakia, Slovenia_
 
 ## [Previous Day...](/news/2004/04/30/index.md)
 

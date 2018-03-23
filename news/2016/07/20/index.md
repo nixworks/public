@@ -15,7 +15,7 @@ A Texas law requiring voters to show a government-issued form of photo identific
 ### [Three high-ranking officers of the Investigative Committee of Russia in Moscow are detained for accepting bribes from a crime lord. ](/news/2016/07/20/three-high-ranking-officers-of-the-investigative-committee-of-russia-in-moscow-are-detained-for-accepting-bribes-from-a-crime-lord.md)
 A Moscow court has issued arrest warrants for three high-ranking Investigative Committee officials who are suspected of corruption. The officials were detained in connection with a bribery case, in which they allegedly patronized a criminal lord. 
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [A Medecins Sans Frontieres (Doctors Without Borders) ship rescues 209 people, including 50 children, from two dinghies in distress in the Mediterranean Sea but finds 22 dead bodies, 21 women and a child, lying in a pool of fuel in the bottom of one of the boats. The dinghies were 17 miles east of Tripoli, Libya. Cause of death is unknown, though an MSF official says it could be that fumes from mixed fuel and water rendered the people unconscious. The MSF ship is expected to arrive in the Sicilian port of Trapani on Friday.](/news/2016/07/20/a-ma-c-decins-sans-frontia-res-doctors-without-borders-ship-rescues-209-people-including-50-children-from-two-dinghies-in-distress-in-the.md)
 The bodies of 21 women and one man were found on a rubber dinghy adrift near the Libyan coast on Wednesday, just hours after they had set sail for Italy, humanitarian group Medecins Sans Frontieres (MSF) said.
 

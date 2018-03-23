@@ -35,11 +35,11 @@ Kerry, who will also meet with the Palestinian leader, is waging an uphill battl
 ### [Russian Defence Minister Sergei Shoigu announces Russia plans to build a new military base on the Kuril Islands, a group of Pacific islands it seized from Japan at the end of World War II. ](/news/2015/10/22/russian-defence-minister-sergei-shoigu-announces-russia-plans-to-build-a-new-military-base-on-the-kuril-islands-a-group-of-pacific-islands.md)
 Russia plans to build a military base on the...
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Authorities in Slovenia say around 2,000 migrants from a refugee camp at the Croatian border are traveling in four trains toward Austria, three to the overloaded crossing at Sentilj and the other to Jesenice. ](/news/2015/10/22/authorities-in-slovenia-say-around-2-000-migrants-from-a-refugee-camp-at-the-croatian-border-are-traveling-in-four-trains-toward-austria-th.md)
 Miloš Zeman dismisses accusations of Islamophobia amid UN condemnation of country’s detention policy and strip-searching of refugees
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Human Rights Watch says unidentified armed men have been disabling boats carrying migrants and asylum seekers in the Aegean Sea traveling from Turkey toward the Greek islands. Witnesses have described eight incidents this month in which masked assailants intercepted and disabled the boats by damaging engines or fuel systems, and in the case of inflatable boats, attempting to puncture hulls. ](/news/2015/10/22/human-rights-watch-says-unidentified-armed-men-have-been-disabling-boats-carrying-migrants-and-asylum-seekers-in-the-aegean-sea-traveling-fr.md)
 Armed men have boarded and attempted to disable boats carrying asylum seekers from Turkey to Greece, advocacy group Human Rights Watch said.
 
@@ -61,7 +61,7 @@ _Context: Arish, Egypt, Egyptian military, North Sinai Governorate, Rafah, Sheik
 
 ##### War in Afghanistan (2015-present)
 ### [Taliban insurgents assassinate Mohammad Daud Sultanzoy, a district administrator in Afghanistan's eastern Ghazni province. ](/news/2015/10/22/taliban-insurgents-assassinate-mohammad-daud-sultanzoy-a-district-administrator-in-afghanistan-s-eastern-ghazni-province.md)
-_Context: Afghanistan, Ghazni Province, Mohammad Daud Sultanzoy, Taliban, War in Afghanistan (2015-present)_
+_Context: Afghan, Ghazni Province, Mohammad Daud Sultanzoy, Taliban, War in Afghanistan (2015-present)_
 
 ##### ISIL
 ### [A joint early-morning raid conducted by Iraqi and US forces on an IS-run prison in Hawija, Kirkuk Province has freed 70 hostages. One U.S. Delta Force soldier was reported killed - the first American combat death since the start of the US-led intervention against IS. ](/news/2015/10/22/a-joint-early-morning-raid-conducted-by-iraqi-and-us-forces-on-an-is-run-prison-in-hawija-kirkuk-province-has-freed-70-hostages-one-u-s-d.md)

@@ -67,7 +67,7 @@ An engine on a passenger jet bound for Caracas, Venezuela, burst into flames whi
 ### [A series of blasts at an ammunition depot in Svatove, Luhansk region of eastern Ukraine leaves four dead and eight injured. ](/news/2015/10/29/a-series-of-blasts-at-an-ammunition-depot-in-svatove-luhansk-region-of-eastern-ukraine-leaves-four-dead-and-eight-injured.md)
 The bodies of two soldiers who died as the result of a fire at an ammunition depot near the town of Svatove (Luhansk region) have been recovered, the press service of Luhansk regional state administration has reported.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [An extensive search is underway in the northeastern Aegean Sea off the Greek island of Lesbos for at least 34 people missing from a boat that sank yesterday. Some 242 people were rescued but eight died, five children, two men and a woman. ](/news/2015/10/29/an-extensive-search-is-underway-in-the-northeastern-aegean-sea-off-the-greek-island-of-lesbos-for-at-least-34-people-missing-from-a-boat-tha.md)
 An extensive search was underway off a Greek island on Thursday for at least 34 people missing after their boat sank in one of the largest maritime disasters since a massive refugee influx began this year.
 

@@ -7,9 +7,9 @@ Formats: [HTML](2012/05/1/index.html)  [JSON](2012/05/1/index.json)  [XML](2012/
 ### [Former opposition leader and foreign minister Tzipi Livni quits the Israeli parliament. ](/news/2012/05/1/former-opposition-leader-and-foreign-minister-tzipi-livni-quits-the-israeli-parliament.md)
 _Context: Israel, Tzipi Livni_
 
-##### Turkish
+##### Turkey
 ### [A parliamentary committee begins work on Turkey's first fully civilian constitution. ](/news/2012/05/1/a-parliamentary-committee-begins-work-on-turkey-s-first-fully-civilian-constitution.md)
-_Context: Turkish, constitution_
+_Context: Turkey, constitution_
 
 ##### Tomas Borge
 ### [Tomas Borge, the last surviving founding member of Nicaragua's socialist political party Sandinista National Liberation Front, dies. ](/news/2012/05/1/toma-s-borge-the-last-surviving-founding-member-of-nicaragua-s-socialist-political-party-sandinista-national-liberation-front-dies.md)
@@ -37,7 +37,7 @@ Ukraine is facing growing isolation as five presidents and the EU Commission can
 
 ##### Obama administration
 ### [U.S. President Barack Obama visits Afghanistan on an unannounced visit coinciding with the first anniversary of Osama Bin Laden's assassination by the U.S. Special Forces in Pakistan, signing an agreement with Afghan President Hamid Karzai outlining a continuing U.S. role in Afghanistan after 2014. ](/news/2012/05/1/u-s-president-barack-obama-visits-afghanistan-on-an-unannounced-visit-coinciding-with-the-first-anniversary-of-osama-bin-laden-s-assassinat.md)
-_Context: Afghanistan, Hamid Karzai, Obama administration, Osama Bin Laden, Pakistan, father's killing_
+_Context: Afghan, Hamid Karzai, Obama administration, Osama Bin Laden, Pakistan, father's killing_
 
 ##### Japan
 ### [April car sales in Japan rise by 92% year-over-year, a gain partially realized due to low sales in the wake of last year's earthquake and tsunami. ](/news/2012/05/1/april-car-sales-in-japan-rise-by-92-year-over-year-a-gain-partially-realized-due-to-low-sales-in-the-wake-of-last-year-s-earthquake-and-ts.md)
@@ -65,7 +65,7 @@ Current military leaders say they retain hold of key locations in Bamako after a
 
 ##### Dhusamareb
 ### [An attack by a suicide bomber in a cafe attached to a hotel in Dhusamareb, Somalia, causes an indeterminate number of fatalities, including according to witnesses two MPs, Yusuf Mire Seerar and Abdiweli Sheik Mohamud. ](/news/2012/05/1/an-attack-by-a-suicide-bomber-in-a-cafa-c-attached-to-a-hotel-in-dhusamareb-somalia-causes-an-indeterminate-number-of-fatalities-including.md)
-_Context: Dhusamareb, Somalia_
+_Context: Dhusamareb, Somali_
 
 ##### 2011-2012 Bahraini uprising
 ### [2011-2012 Bahraini uprising: Police break up protests in the capital Manama. ](/news/2012/05/1/2011a2012-bahraini-uprising-police-break-up-protests-in-the-capital-manama.md)

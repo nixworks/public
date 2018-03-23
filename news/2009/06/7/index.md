@@ -9,7 +9,7 @@ _Context: 63rd, Best Musical, Best Play, Billy Elliot the Musical, God of Carnag
 
 ##### Declares
 ### [ Radio Shabelle director Moqtar Mohamed Hirabe is killed in Mogadishu, Somalia. ](/news/2009/06/7/radio-shabelle-director-moqtar-mohamed-hirabe-is-killed-in-mogadishu-somalia.md)
-_Context: Mogadishu, Somalia, declares_
+_Context: Mogadishu, Somali, declares_
 
 ##### Dalai Lama
 ### [ Dalai Lama Tenzin Gyatso is granted honorary citizenship in Paris, France. ](/news/2009/06/7/dalai-lama-tenzin-gyatso-is-granted-honorary-citizenship-in-paris-france.md)

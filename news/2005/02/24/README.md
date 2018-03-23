@@ -11,9 +11,9 @@ _Context: Herv Gaymard_
 ### [ In Kyrgyzstan, thousands of people protest in support of opposition politicians who were barred from elections ](/news/2005/02/24/in-kyrgyzstan-thousands-of-people-protest-in-support-of-opposition-politicians-who-were-barred-from-elections.md)
 _Context: Kyrgyzstan, Opposition_
 
-##### Turkish
+##### Turkey
 ### [ The parliament of Turkey grants amnesty to 677,000 people who have been expelled from university in recent years ](/news/2005/02/24/the-parliament-of-turkey-grants-amnesty-to-677-000-people-who-have-been-expelled-from-university-in-recent-years.md)
-_Context: Turkish, university_
+_Context: Turkey, university_
 
 ##### European Union
 ### [ New EU laws declare lottery scams illegal ](/news/2005/02/24/new-eu-laws-declare-lottery-scams-illegal.md)
@@ -67,9 +67,9 @@ _Context: Chen Shui-bian, James Soong, People First Party, Taiwan, Taiwan Strait
 ### [ The Anglican Churches of North America &ndash; the Episcopal Church in the United States and the Anglican Church of Canada &ndash; are asked to voluntarily withdraw their members from the Anglican Consultative Council until after the next Lambeth Conference in 2008. This is viewed as an ultimatum to the churches to bring their policies into line with the worldwide Anglican Communion, following the ordination of the first gay bishop in New Hampshire and the blessing of same-sex unions by the Canadian church, and presages a schism if they do not comply. ](/news/2005/02/24/the-anglican-churches-of-north-america-ndash-the-episcopal-church-in-the-united-states-and-the-anglican-church-of-canada-ndash-are-aske.md)
 _Context: Anglican Church, Anglican Church of Canada, Anglican Consultative Council, Gene Robinson, Lambeth Conference, New Hampshire, United States Episcopal Church, schism_
 
-##### Somalia
+##### Somali
 ### [ In Somalia, thousands greet Abdullahi Yusuf Ahmed and Mohammed Ali Ghedi, leaders of the exiled Somalian government, when they begin a week-long tour in the country. They led a delegation that studies a possibility to finally relocate the government from Kenya to Somalia ](/news/2005/02/24/in-somalia-thousands-greet-abdullahi-yusuf-ahmed-and-mohammed-ali-ghedi-leaders-of-the-exiled-somalian-government-when-they-begin-a-week.md)
-_Context: Abdullahi Yusuf Ahmed, Kenya, Mohammed Ali Ghedi, Somalia, government in exile_
+_Context: Abdullahi Yusuf Ahmed, Kenya, Mohammed Ali Ghedi, Somali, government in exile_
 
 ## [Previous Day...](/news/2005/02/23/index.md)
 

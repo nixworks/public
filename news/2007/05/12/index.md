@@ -21,7 +21,7 @@ _Context: Altaf Hussain, Karachi, Muttahida Qaumi Movement, Pakistan_
 
 ##### Izmir
 ### [ A bomb placed on a bicycle was detonated in a bazaar in Izmir, Turkey wounding fifteen people just a day before the scheduled "republic protest" in the city. One of the wounded was in a critical condition and later died in the hospital while most of the others were lightly wounded and were released from the hospital the same day. ](/news/2007/05/12/a-bomb-placed-on-a-bicycle-was-detonated-in-a-bazaar-in-adegzmir-turkey-wounding-fifteen-people-just-a-day-before-the-scheduled-republic-pr.md)
-_Context: Izmir, Turkish, fifth mass rally_
+_Context: Izmir, Turkey, fifth mass rally_
 
 ##### Guinea
 ### [ Guinean soldiers riot in the capital Conakry after the President of Guinea Lansana Conte fails to attend a meeting to discuss grievances over their pay and conditions. ](/news/2007/05/12/guinean-soldiers-riot-in-the-capital-conakry-after-the-president-of-guinea-lansana-conta-c-fails-to-attend-a-meeting-to-discuss-grievances-o.md)

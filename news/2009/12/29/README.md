@@ -5,7 +5,7 @@ Formats: [HTML](2009/12/29/index.html)  [JSON](2009/12/29/index.json)  [XML](200
 
 ##### Italy
 ### [ Two Italians are injured and one American is killed in a shooting incident in Badghis Province, Afghanistan. ](/news/2009/12/29/two-italians-are-injured-and-one-american-is-killed-in-a-shooting-incident-in-badghis-province-afghanistan.md)
-_Context: Afghanistan, Badghis Province, Italy, United States_
+_Context: Afghan, Badghis Province, Italy, United States_
 
 ##### United States
 ### [ An American Christian activist is reportedly arrested after crossing into North Korea from China, according to North Korean media. ](/news/2009/12/29/an-american-christian-activist-is-reportedly-arrested-after-crossing-into-north-korea-from-china-according-to-north-korean-media.md)
@@ -39,9 +39,9 @@ The sister of Nobel laureate Shirin Ebadi has been detained by Iranian intellige
 ### [ Bangladesh says it will repatriate 9,000 Rohingya refugees staying at camps in the country back to Burma. ](/news/2009/12/29/bangladesh-says-it-will-repatriate-9-000-rohingya-refugees-staying-at-camps-in-the-country-back-to-burma.md)
 _Context: Bangladesh, Burma, Rohingya_
 
-##### Turkish
+##### Turkey
 ### [ A Turkish court sentences a Kurdish man to life in prison for a minibus bombing in 2005 that killed five people. ](/news/2009/12/29/a-turkish-court-sentences-a-kurdish-man-to-life-in-prison-for-a-minibus-bombing-in-2005-that-killed-five-people.md)
-_Context: Kurdish, Turkish, minibus bombing in 2005_
+_Context: Kurdish, Turkey, minibus bombing in 2005_
 
 ##### Sudanese parliament
 ### [ The Sudanese parliament approves legislation for a referendum on the independence of South Sudan. ](/news/2009/12/29/the-sudanese-parliament-approves-legislation-for-a-referendum-on-the-independence-of-south-sudan.md)

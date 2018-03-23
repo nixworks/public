@@ -45,7 +45,7 @@ _Context: Boko Haram, Islamist, Nigeria, State Security Service_
 
 ##### Pakistan Air Force
 ### [Pakistan Air Force jets bomb militant positions in the Orakzai and Kurram Agency areas near the border with Afghanistan with claims that 31 alleged insurgents were killed. ](/news/2012/02/1/pakistan-air-force-jets-bomb-militant-positions-in-the-orakzai-and-kurram-agency-areas-near-the-border-with-afghanistan-with-claims-that-31.md)
-_Context: Afghanistan, Kurram Valley, Orakzai Tribal Area, Pakistan Air Force_
+_Context: Afghan, Kurram Valley, Orakzai Tribal Area, Pakistan Air Force_
 
 ##### Xinhua
 ### [The Xinhua news agency reports that 25 Chinese workers held captive in the Sinai region of Egypt have been released. ](/news/2012/02/1/the-xinhua-news-agency-reports-that-25-chinese-workers-held-captive-in-the-sinai-region-of-egypt-have-been-released.md)
@@ -53,7 +53,7 @@ _Context: Chinese, Egypt, Sinai, Xinhua_
 
 ##### Times
 ### [The London "Times" reports that a secret NATO report claims that the Taliban, backed by Pakistan, is set to regain control over Afghanistan after international forces withdraw from the country. ](/news/2012/02/1/the-london-times-reports-that-a-secret-nato-report-claims-that-the-taliban-backed-by-pakistan-is-set-to-regain-control-over-afghanistan.md)
-_Context: Afghanistan, NATO, Pakistan, Taliban, Times_
+_Context: Afghan, NATO, Pakistan, Taliban, Times_
 
 ## [Previous Day...](/news/2012/01/31/index.md)
 

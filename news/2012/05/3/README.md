@@ -45,7 +45,7 @@ Veteran Bengali film personality Soumitra Chatterjee was conferred the prestigio
 
 ##### Galkayo
 ### [Farhan Jeemis Abdulle, a Somali journalist and well-known local reporter for Radio Daljir is shot and killed by an unidentified gunman in Galkayo while walking to his home district of Garsor. Puntland authorities arrived on scene to investigate the killing but no arrests have been made. Abdulle is the fifth journalist to be murdered in Somalia this year, and the second in Galkayo. ](/news/2012/05/3/farhan-jeemis-abdulle-a-somali-journalist-and-well-known-local-reporter-for-radio-daljir-is-shot-and-killed-by-an-unidentified-gunman-in-ga.md)
-_Context: Galkayo, Puntland, Somalia_
+_Context: Galkayo, Puntland, Somali_
 
 ##### Aleppo University
 ### [Activists say four students are killed in an attack on anti-government demonstrations at Aleppo University, Syria. ](/news/2012/05/3/activists-say-four-students-are-killed-in-an-attack-on-anti-government-demonstrations-at-aleppo-university-syria.md)

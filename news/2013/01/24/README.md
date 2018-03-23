@@ -25,7 +25,7 @@ _Context: Bolivia, Brazil, highway_
 
 ##### Government of Ukraine
 ### [The government of Ukraine signs a major $10 billion shale gas deal with Royal Dutch Shell to reduce its dependency on Russian gas imports. ](/news/2013/01/24/the-government-of-ukraine-signs-a-major-10-billion-shale-gas-deal-with-royal-dutch-shell-to-reduce-its-dependency-on-russian-gas-imports.md)
-_Context: Government of Ukraine, Royal Dutch Shell, Russia, Ukraine, gas imports, shale gas_
+_Context: Government of Ukraine, Royal Dutch Shell, Russia, Ukrainian, gas imports, shale gas_
 
 ##### Foreign and Commonwealth Office
 ### [The Foreign and Commonwealth Office urges British nationals to leave the Libyan city of Benghazi immediately due to a "specific and imminent" threat to Westerners. ](/news/2013/01/24/the-foreign-and-commonwealth-office-urges-british-nationals-to-leave-the-libyan-city-of-benghazi-immediately-due-to-a-specific-and-imminent.md)

@@ -39,7 +39,7 @@ A clean-up operation got under way today after torrential rains hit the Dublin r
 ### [Floodwaters continue to rise on the outskirts of the Thai capital Bangkok, with floodwaters having reached Don Mueang International Airport, leading to the cancellation of many flights. ](/news/2011/10/25/floodwaters-continue-to-rise-on-the-outskirts-of-the-thai-capital-bangkok-with-floodwaters-having-reached-don-mueang-international-airport.md)
 _Context: Bangkok, Don Mueang International Airport, Thailand, floods_
 
-##### Turkish
+##### Turkey
 ### [The death toll of eastern Turkey's recent earthquake reaches 366, as emergency services continue to search the rubble of Van for survivors. ](/news/2011/10/25/the-death-toll-of-eastern-turkey-s-recent-earthquake-reaches-366-as-emergency-services-continue-to-search-the-rubble-of-van-for-survivors.md)
 Defense Ministry to send plane carrying 7 mobile homes to quake-devastated province, more aid to follow.
 

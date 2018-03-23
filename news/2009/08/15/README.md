@@ -21,7 +21,7 @@ Nineteen people died and at least another 20 were hurt in a prison fight on Frid
 
 ##### Suicide bomb
 ### [ A suicide bomb attack occurs outside the NATO headquarters in Kabul, Afghanistan, killing at least seven and injuring 100. ](/news/2009/08/15/a-suicide-bomb-attack-occurs-outside-the-nato-headquarters-in-kabul-afghanistan-killing-at-least-seven-and-injuring-100.md)
-_Context: Afghanistan, Kabul, NATO, suicide bomb_
+_Context: Afghan, Kabul, NATO, suicide bomb_
 
 ##### MV ''Arctic Sea''
 ### [ A ransom demand is made for the missing ship. ](/news/2009/08/15/a-ransom-demand-is-made-for-the-missing-ship.md)
@@ -45,7 +45,7 @@ _Context: Hong Kong_
 
 ##### Hamas
 ### [ Hamas police claim to have killed Abdel-Latif Moussa, head of the Islamic group Jund Ansar Allah in a shootout. ](/news/2009/08/15/hamas-police-claim-to-have-killed-abdel-latif-moussa-head-of-the-islamic-group-jund-ansar-allah-in-a-shootout.md)
-_Context: Abdel-Latif Moussa, Hamas, Islam, Jund Ansar Allah, shootout_
+_Context: Abdel-Latif Moussa, Hamas, Jund Ansar Allah, Muslim, shootout_
 
 ## [Previous Day...](/news/2009/08/14/index.md)
 

@@ -29,7 +29,7 @@ _Context: HIV, Kazakhstan, Yerbolat Dosayev_
 
 ##### East Africa
 ### [ Widespread flooding is reported in East Africa especially Kenya, Somalia and Ethiopia, with at least five reported dead in Mogadishu where the Shabelle and Juba rivers have burst their banks and more than 70,000 people reported displaced in total. ](/news/2006/11/15/widespread-flooding-is-reported-in-east-africa-especially-kenya-somalia-and-ethiopia-with-at-least-five-reported-dead-in-mogadishu-where.md)
-_Context: East Africa, Ethiopia, Kenya, Somalia_
+_Context: East Africa, Ethiopia, Kenya, Somali_
 
 ##### Mitch McConnell
 ### [ Senator Mitch McConnell becomes the leader of the Republicans in the United States Senate. ](/news/2006/11/15/senator-mitch-mcconnell-becomes-the-leader-of-the-republicans-in-the-united-states-senate.md)

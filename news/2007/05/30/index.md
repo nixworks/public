@@ -17,7 +17,7 @@ _Context: Lebanese, Prime Minister of Lebanon, Rafik Hariri, Special Tribunal fo
 
 ##### CH-47 Chinook
 ### [ A CH-47 Chinook helicopter on a NATO mission in Helmand Province, southern Afghanistan, is shot down killing all seven service personnel (5 American, 1 Canadian and 1 British) aboard. Taliban fighters claim responsibility for the attack. ](/news/2007/05/30/a-ch-47-chinook-helicopter-on-a-nato-mission-in-helmand-province-southern-afghanistan-is-shot-down-killing-all-seven-service-personnel-5.md)
-_Context: Afghanistan, CH-47 Chinook, Canadian, Helmand Province, International Security Assistance Force, NATO, Taliban, UK, US_
+_Context: Afghan, CH-47 Chinook, Canadian, Helmand Province, International Security Assistance Force, NATO, Taliban, UK, US_
 
 ## [Previous Day...](/news/2007/05/29/index.md)
 

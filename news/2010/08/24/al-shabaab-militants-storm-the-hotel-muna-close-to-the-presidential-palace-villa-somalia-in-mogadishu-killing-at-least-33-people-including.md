@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/24/al-shabaab-militants-storm-the-hotel-muna-close
 
 ### [2010-08-24](/news/2010/08/24/index.md)
 
-##### Al-Shabaab
+##### Al-Shabab
 # Al-Shabaab militants storm the Hotel Muna, close to the Presidential palace Villa Somalia in Mogadishu, killing at least 33 people including several MPs. 
 
 
@@ -25,8 +25,8 @@ Formats: [HTML](/news/2010/08/24/al-shabaab-militants-storm-the-hotel-muna-close
 
 ### Related:
 
-1. [Two car bombings near the presidential palace in Mogadishu, Somalia, kill at least 38 people. Al-Shabaab claim responsibility for the attacks. ](/news/2018/02/24/two-car-bombings-near-the-presidential-palace-in-mogadishu-somalia-kill-at-least-38-people-al-shabaab-claim-responsibility-for-the-attack.md) _Context: Al-Shabaab, presidential palace_
+1. [Two car bombings near the presidential palace in Mogadishu, Somalia, kill at least 38 people. Al-Shabaab claim responsibility for the attacks. ](/news/2018/02/24/two-car-bombings-near-the-presidential-palace-in-mogadishu-somalia-kill-at-least-38-people-al-shabaab-claim-responsibility-for-the-attack.md) _Context: Al-Shabab, presidential palace_
 2. [ President of Somalia Abdullahi Yusuf Ahmed resigns. Parliamentary Speaker Adan Mohamed Nuur Madobe will take over for 30 days, in which time the legislature will select a new head of state. ](/news/2008/12/29/president-of-somalia-abdullahi-yusuf-ahmed-resigns-parliamentary-speaker-adan-mohamed-nuur-madobe-will-take-over-for-30-days-in-which-tim.md) _Context: MPs, President_
-3. [Two car bombs kill at least 25 people, mostly police officers, near the national theater area in Mogadishu, Somalia, two weeks after a similar attack killed hundreds. Islamist group Al-Shabaab claims responsibility. ](/news/2017/10/28/two-car-bombs-kill-at-least-25-people-mostly-police-officers-near-the-national-theater-area-in-mogadishu-somalia-two-weeks-after-a-simil.md) _Context: Al-Shabaab_
-4. [Somalis march to demonstrate their anger at the presence of al-Shabaab, the group believed to be responsible for a recent bombing attack. ](/news/2017/10/16/somalis-march-to-demonstrate-their-anger-at-the-presence-of-al-shabaab-the-group-believed-to-be-responsible-for-a-recent-bombing-attack.md) _Context: Al-Shabaab_
-5. [Al-Shabaab militants attack a military base outside the Somalian capital Mogadishu, with 15 soldiers reported dead. ](/news/2017/09/29/al-shabaab-militants-attack-a-military-base-outside-the-somalian-capital-mogadishu-with-15-soldiers-reported-dead.md) _Context: Al-Shabaab_
+3. [A car bomb blast in Mogadishu, near the Weheliye hotel in the Somali capital, kills at least 14 people and injures 10 others. Al-Shabab claims responsibility for the blast. ](/news/2018/03/22/a-car-bomb-blast-in-mogadishu-near-the-weheliye-hotel-in-the-somali-capital-kills-at-least-14-people-and-injures-10-others-al-shabab-clai.md) _Context: Al-Shabab_
+4. [Two car bombs kill at least 25 people, mostly police officers, near the national theater area in Mogadishu, Somalia, two weeks after a similar attack killed hundreds. Islamist group Al-Shabaab claims responsibility. ](/news/2017/10/28/two-car-bombs-kill-at-least-25-people-mostly-police-officers-near-the-national-theater-area-in-mogadishu-somalia-two-weeks-after-a-simil.md) _Context: Al-Shabab_
+5. [Somalis march to demonstrate their anger at the presence of al-Shabaab, the group believed to be responsible for a recent bombing attack. ](/news/2017/10/16/somalis-march-to-demonstrate-their-anger-at-the-presence-of-al-shabaab-the-group-believed-to-be-responsible-for-a-recent-bombing-attack.md) _Context: Al-Shabab_

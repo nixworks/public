@@ -41,7 +41,7 @@ _Context: Japan, Tokushima Prefecture, Typhoon Ma-on, tropical storm_
 
 ##### Famine
 ### [2011 Horn of Africa famine: The United Nations declares a famine in southern Somalia. ](/news/2011/07/20/2011-horn-of-africa-famine-the-united-nations-declares-a-famine-in-southern-somalia.md)
-_Context: Somalia, United Nations, famine, famine_
+_Context: Somali, United Nations, famine, famine_
 
 ##### British
 ### [British artist Lucian Freud dies at his home in London following a brief illness. ](/news/2011/07/20/british-artist-lucian-freud-dies-at-his-home-in-london-following-a-brief-illness.md)

@@ -33,11 +33,11 @@ _Context: Barack Obama, Congress, Efforts to impeach Barack Obama, Oklahoma Legi
 
 ##### War in Afghanistan (2015-present)
 ### [NATO foreign ministers, meeting at NATO headquarters in Brussels, Belgium, agree to extend the alliance's Resolute Support Mission, that trains, advises and assists Afghanistan's military beyond 2016. ](/news/2016/05/20/nato-foreign-ministers-meeting-at-nato-headquarters-in-brussels-belgium-agree-to-extend-the-alliance-s-resolute-support-mission-that-tra.md)
-_Context: Afghanistan, Belgium, Brussels, NATO, NATO headquarters, Resolute Support, War in Afghanistan (2015-present), military personnel_
+_Context: Afghan, Belgium, Brussels, NATO, NATO headquarters, Resolute Support, War in Afghanistan (2015-present), military personnel_
 
 ##### Accession of Montenegro to NATO
 ### [The Kremlin condemns NATO's membership invitation to Montenegro, warning the step risks fueling geopolitical tensions in Europe. ](/news/2016/05/20/the-kremlin-condemns-nato-s-membership-invitation-to-montenegro-warning-the-step-risks-fueling-geopolitical-tensions-in-europe.md)
-_Context: Accession of Montenegro to NATO, Montenegrin, NATO, Russian government_
+_Context: Accession of Montenegro to NATO, Montenegro, NATO, Russian government_
 
 ##### Zika virus outbreak (2015 - present)
 ### [ The Centers for Disease Control and Prevention reports at that least 270 pregnant women in the United States are infected with the Zika virus. ](/news/2016/05/20/the-centers-for-disease-control-and-prevention-reports-at-that-least-270-pregnant-women-in-the-united-states-are-infected-with-the-zika-vir.md)

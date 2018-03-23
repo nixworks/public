@@ -43,9 +43,9 @@ Irish airports remained open today, but there is disruption in some parts of sou
 ### [Mudslides and floods have killed 16, and more than 40 are missing in some districts of the southern Khatlon region in Tajikistan. ](/news/2010/05/8/mudslides-and-floods-have-killed-16-and-more-than-40-are-missing-in-some-districts-of-the-southern-khatlon-region-in-tajikistan.md)
 _Context: Khatlon, Tajikistan_
 
-##### United States Senate
+##### Senate
 ### [U.S. Senator Bob Bennett, Republican from Utah, is ousted from his party's primary ballot at the state's Republican convention, meaning he will not have a chance for a fourth term. ](/news/2010/05/8/u-s-senator-bob-bennett-republican-from-utah-is-ousted-from-his-party-s-primary-ballot-at-the-state-s-republican-convention-meaning-he-w.md)
-_Context: Bob Bennett, Republican, United States Senate, Utah, primary election_
+_Context: Bob Bennett, Republican, Senate, Utah, primary election_
 
 ##### 2010 general election
 ### [Eligible voters in the United Kingdom general election, 2010 who are living in New Zealand are the latest to be disenfranchised as anger grows over the disfranchisement of citizens living in the UK who were queuing to vote as polls closed. ](/news/2010/05/8/eligible-voters-in-the-united-kingdom-general-election-2010-who-are-living-in-new-zealand-are-the-latest-to-be-disenfranchised-as-anger-gro.md)

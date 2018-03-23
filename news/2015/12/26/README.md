@@ -13,7 +13,7 @@ China is &#039;expelling&#039; a French journalist for writing article critical 
 
 ##### December 2015 Hindu Kush earthquake
 ### [Officials report at least four people died and more than 100 were injured, most in Pakistan, after Friday night's 6.3 magnitude earthquake in northeast Afghanistan. Casualty numbers may change since rescue teams have not reached all affected areas. ](/news/2015/12/26/officials-report-at-least-four-people-died-and-more-than-100-were-injured-most-in-pakistan-after-friday-night-s-6-3-magnitude-earthquake-i.md)
-_Context: Afghanistan, December 2015 Hindu Kush earthquake, Pakistan, magnitude_
+_Context: Afghan, December 2015 Hindu Kush earthquake, Pakistan, magnitude_
 
 ##### Tornadoes of 2015
 ### [The death toll in the spring-like, tornado-laden storms that began Wednesday in the American South has risen to 18 with additional tornadoes hitting north-central Alabama Friday and one outside of Dallas, Texas, today. ](/news/2015/12/26/the-death-toll-in-the-spring-like-tornado-laden-storms-that-began-wednesday-in-the-american-south-has-risen-to-18-with-additional-tornadoes.md)

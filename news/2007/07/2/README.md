@@ -5,7 +5,7 @@ Formats: [HTML](2007/07/2/index.html)  [JSON](2007/07/2/index.json)  [XML](2007/
 
 ##### Trial
 ### [ The trial over the murder of Turkish-Armenian journalist Hrant Dink opens in Istanbul, Turkey. ](/news/2007/07/2/the-trial-over-the-murder-of-turkish-armenian-journalist-hrant-dink-opens-in-istanbul-turkey.md)
-_Context: Armenia, Hrant Dink, Istanbul, Turkish, Turkish, journalist, trial_
+_Context: Armenia, Hrant Dink, Istanbul, Turkey, Turkish, journalist, trial_
 
 ##### Detective
 ### [ British detectives continue the hunt for suspects in the 2007 Glasgow International Airport attack and the 2007 London car bombs plot. Two doctors are among the seven people currently in custody in the UK in connection with the attacks with another person held in Brisbane, Queensland. ](/news/2007/07/2/british-detectives-continue-the-hunt-for-suspects-in-the-2007-glasgow-international-airport-attack-and-the-2007-london-car-bombs-plot-two.md)
@@ -13,7 +13,7 @@ _Context: 2007 attack, Brisbane, detective, planned car bomb attacks_
 
 ##### Lieutenant-Colonel
 ### [ Lieutenant-Colonel Thomas K. Mooney, the military attache at the United States Embassy is found dead in western Cyprus. ](/news/2007/07/2/lieutenant-colonel-thomas-k-mooney-the-military-attacha-c-at-the-united-states-embassy-is-found-dead-in-western-cyprus.md)
-_Context: Cypriot, Lieutenant-Colonel, Thomas K. Mooney, United States Embassy, military attache_
+_Context: Cyprus, Lieutenant-Colonel, Thomas K. Mooney, United States Embassy, military attache_
 
 ##### U.S. President
 ### [ U.S. President George W. Bush commutes Scooter Libby's prison sentence with a Grant of Executive Clemency for his role in the Plame Affair. ](/news/2007/07/2/u-s-president-george-w-bush-commutes-scooter-libby-s-prison-sentence-with-a-grant-of-executive-clemency-for-his-role-in-the-plame-affair.md)

@@ -21,7 +21,7 @@ _Context: Brazil, Greater So Paulo, Santo Andr_
 
 ##### French Prime Minister
 ### [ Lawyers for the former Prime Minister of France, Dominique de Villepin, say they will sue President Nicolas Sarkozy for having called him "guilty" of the "Clearstream" affair and violating the principle of presumption of innocence. ](/news/2009/09/25/lawyers-for-the-former-prime-minister-of-france-dominique-de-villepin-say-they-will-sue-president-nicolas-sarkozy-for-having-called-him.md)
-_Context: Clearstream, Dominique de Villepin, French President, French Prime Minister, Nicolas Sarkozy, presumption of innocence_
+_Context: Clearstream, Dominique de Villepin, French Prime Minister, Nicolas Sarkozy, President of France, presumption of innocence_
 
 ##### Iran
 ### [ Iran reveals to the United Nations nuclear watchdog the existence of a second uranium enrichment plant, facing accusations of secret building projects from Gordon Brown, Barack Obama and Nicolas Sarkozy. ](/news/2009/09/25/iran-reveals-to-the-united-nations-nuclear-watchdog-the-existence-of-a-second-uranium-enrichment-plant-facing-accusations-of-secret-buildi.md)

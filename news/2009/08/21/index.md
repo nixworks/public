@@ -25,7 +25,7 @@ At least five holidaymakers were crushed to death when part of a cliff collapsed
 
 ##### Clashes
 ### [ 20 people are killed and 40 injured after clashes between pro-government and Islamist forces in Mogadishu, Somalia. ](/news/2009/08/21/20-people-are-killed-and-40-injured-after-clashes-between-pro-government-and-islamist-forces-in-mogadishu-somalia.md)
-_Context: Islam, Mogadishu, Somalia, clashes_
+_Context: Mogadishu, Muslim, Somali, clashes_
 
 ##### North Korea
 ### [ A North Korean delegation arrives in South Korea to mourn the death of former South Korean President Kim Dae-jung. ](/news/2009/08/21/a-north-korean-delegation-arrives-in-south-korea-to-mourn-the-death-of-former-south-korean-president-kim-dae-jung.md)
@@ -37,7 +37,7 @@ _Context: Chechnya, Grozny, bicycles, suicide bombing_
 
 ##### Combat drone
 ### [ A missile fired from a U.S. unmanned plane destroyed a suspected militant hide-out in northwest Pakistan on Friday, killing at least 12 people in a stronghold of a jihadi leader blamed for attacks in Afghanistan. ](/news/2009/08/21/a-missile-fired-from-a-u-s-unmanned-plane-destroyed-a-suspected-militant-hide-out-in-northwest-pakistan-on-friday-killing-at-least-12-peo.md)
-_Context: Afghanistan, Pakistan, combat drone_
+_Context: Afghan, Pakistan, combat drone_
 
 ##### William Calley
 ### [ William Calley, the former US army officer found guilty of organizing mass killings in the Vietnamese community of My Lai during the Vietnam War makes a public apology.](/news/2009/08/21/william-calley-the-former-us-army-officer-found-guilty-of-organizing-mass-killings-in-the-vietnamese-community-of-my-lai-during-the-vietna.md)

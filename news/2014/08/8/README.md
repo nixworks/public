@@ -27,9 +27,9 @@ The World Health Organization on Friday declared the Ebola outbreak in West Afri
 ### [Malaysia's state investment company Khazanah Nasional announces plans to delist Malaysia Airlines and make it fully state-owned while the business is overhauled. ](/news/2014/08/8/malaysia-s-state-investment-company-khazanah-nasional-announces-plans-to-delist-malaysia-airlines-and-make-it-fully-state-owned-while-the-bu.md)
 _Context: Khazanah Nasional, Malaysia, Malaysia Airlines_
 
-##### Ukraine
+##### Ukrainian
 ### [Ukraine's government picks 172 individuals and 65 companies that will face sanctions for "support and financing of terrorism" or responsible for crimes on country's territory during the pro-Russian unrest. ](/news/2014/08/8/ukraineas-government-picks-172-individuals-and-65-companies-that-will-face-sanctions-for-support-and-financing-of-terrorism-or-responsib.md)
-_Context: 2014 pro-Russian unrest in Ukraine, Ukraine_
+_Context: 2014 pro-Russian unrest in Ukraine, Ukrainian_
 
 ##### United States
 ### [U.S. F-A-18 fighters bomb ISIS artillery units and a military convoy. ](/news/2014/08/8/u-s-f-a-18-fighters-bomb-isis-artillery-units-and-a-military-convoy.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/9/turkey-sets-up-a-us-100-million-fund-to-support-
 
 ### [2011-06-9](/news/2011/06/9/index.md)
 
-##### Turkish
+##### Turkey
 # Turkey sets up a US$100 million fund to support the Libyan rebel National Transitional Council. 
 
 
@@ -23,8 +23,8 @@ Formats: [HTML](/news/2011/06/9/turkey-sets-up-a-us-100-million-fund-to-support-
 
 ### Related:
 
-1. [A Turkish-owned ship is attacked with tank fire off the coast of Tobruk in Libya, resulting in the loss of a crew member and several others being injured. ](/news/2015/05/11/a-turkish-owned-ship-is-attacked-with-tank-fire-off-the-coast-of-tobruk-in-libya-resulting-in-the-loss-of-a-crew-member-and-several-others.md) _Context: Libya, Turkish_
-2. [According to the Syrian Observatory for Human Rights, at least 36 pro-Syrian government troops were killed in a Turkish airstrike in Afrin, Syria. ](/news/2018/03/3/according-to-the-syrian-observatory-for-human-rights-at-least-36-pro-syrian-government-troops-were-killed-in-a-turkish-airstrike-in-afrin.md) _Context: Turkish_
-3. [The Turkish-backed Free Syrian Army rebels loot the Syrian city of Afrin. ](/news/2018/03/19/the-turkish-backed-free-syrian-army-rebels-loot-the-syrian-city-of-afrin.md) _Context: Turkish_
-4. [Turkey arrests 17 leaders of the left-wing Peoples' Democratic Party for opposition to the ongoing Afrin offensive. ](/news/2018/02/9/turkey-arrests-17-leaders-of-the-left-wing-peoples-democratic-party-for-opposition-to-the-ongoing-afrin-offensive.md) _Context: Turkish_
-5. [Turkey detains nearly 600 people for social media posts and protests opposing the Afrin offensive in Syria. ](/news/2018/02/6/turkey-detains-nearly-600-people-for-social-media-posts-and-protests-opposing-the-afrin-offensive-in-syria.md) _Context: Turkish_
+1. [A Turkish-owned ship is attacked with tank fire off the coast of Tobruk in Libya, resulting in the loss of a crew member and several others being injured. ](/news/2015/05/11/a-turkish-owned-ship-is-attacked-with-tank-fire-off-the-coast-of-tobruk-in-libya-resulting-in-the-loss-of-a-crew-member-and-several-others.md) _Context: Libya, Turkey_
+2. [According to the Syrian Observatory for Human Rights, at least 36 pro-Syrian government troops were killed in a Turkish airstrike in Afrin, Syria. ](/news/2018/03/3/according-to-the-syrian-observatory-for-human-rights-at-least-36-pro-syrian-government-troops-were-killed-in-a-turkish-airstrike-in-afrin.md) _Context: Turkey_
+3. [Turkey announces it is to send a drilling boat to disputed waters claimed by both Cyprus and Northern Cyprus. ](/news/2018/03/22/turkey-announces-it-is-to-send-a-drilling-boat-to-disputed-waters-claimed-by-both-cyprus-and-northern-cyprus.md) _Context: Turkey_
+4. [In a statement to French investigating magistrates, ex-President Nicolas Sarkozy refutes corruption charges relating to alleged receipt of funding from the then President of Libya, Muammar Gaddafi, in 2007. ](/news/2018/03/22/in-a-statement-to-french-investigating-magistrates-ex-president-nicolas-sarkozy-refutes-corruption-charges-relating-to-alleged-receipt-of-f.md) _Context: Libya_
+5. [Former President of France Nicolas Sarkozy is preliminarily charged with illegal funding of his 2007 presidential campaign, passive corruption and receiving money from Libyan embezzlement. ](/news/2018/03/21/former-president-of-france-nicolas-sarkozy-is-preliminarily-charged-with-illegal-funding-of-his-2007-presidential-campaign-passive-corrupti.md) _Context: Libya_

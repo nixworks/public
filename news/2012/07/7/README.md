@@ -43,7 +43,7 @@ A 22-year-old woman is arrested in east London in connection with a counter-terr
 ### [Cuban leader Raul Castro makes his first visit to Beijing since succeeding Fidel Castro in 2008; trade deals are signed between China and Cuba. ](/news/2012/07/7/cuban-leader-raaol-castro-makes-his-first-visit-to-beijing-since-succeeding-fidel-castro-in-2008-trade-deals-are-signed-between-china-and-c.md)
 _Context: Beijing, Fidel Castro, Raul Castro_
 
-##### Afghanistan
+##### Afghan
 ### [The United States declares Afghanistan one of its major non-NATO allies, a designation that permits it to buy advanced U.S. weaponry. ](/news/2012/07/7/the-united-states-declares-afghanistan-one-of-its-major-non-nato-allies-a-designation-that-permits-it-to-buy-advanced-u-s-weaponry.md)
 Classification, allowing Kabul to buy advanced US weaponry, announced as Afghan donors gather for conference in Japan.
 
@@ -55,9 +55,9 @@ A severe flood warning remains in place for part of south-west England, followin
 ### [Up to 13 million in West Africa are at risk in a food crisis caused by a prolonged drought. ](/news/2012/07/7/up-to-13-million-in-west-africa-are-at-risk-in-a-food-crisis-caused-by-a-prolonged-drought.md)
 Cereal production has fallen by as much as 62 per cent in some countries. 
 
-##### Ukraine
+##### Ukrainian
 ### [A bus crash in northeastern Ukraine kills at least 14 Russian pilgrims. ](/news/2012/07/7/a-bus-crash-in-northeastern-ukraine-kills-at-least-14-russian-pilgrims.md)
-_Context: Russia, Ukraine_
+_Context: Russia, Ukrainian_
 
 ##### Floods
 ### [More than 140 people are killed after torrential rains leading to heavy floods sweep through parts of the south Russian Krasnodar region. ](/news/2012/07/7/more-than-140-people-are-killed-after-torrential-rains-leading-to-heavy-floods-sweep-through-parts-of-the-south-russian-krasnodar-region.md)

@@ -29,7 +29,7 @@ _Context: Israeli cabinet, Yisrael Beitenu_
 
 ##### Chenagai airstrike
 ### [ Chenagai airstrike: Pakistani helicopter gunships fired missiles and destroyed an al-Qaeda-linked training facility and killed 80 suspected terrorists in a northwestern tribal area near the Afghan border, in a madrassa near the town of Khar. ](/news/2006/10/30/chenagai-airstrike-pakistani-helicopter-gunships-fired-missiles-and-destroyed-an-al-qaeda-linked-training-facility-and-killed-80-suspected.md)
-_Context: Afghanistan, Chenagai airstrike, Khar, Pakistan, al-Qaeda, helicopter, madrassa, terrorism_
+_Context: Afghan, Chenagai airstrike, Khar, Pakistan, al-Qaeda, helicopter, madrassa, terrorism_
 
 ##### Bulgaria
 ### [ President of Bulgaria Georgi Parvanov is reelected after a run-off election with Volen Siderov in the presidential elections. ](/news/2006/10/30/president-of-bulgaria-georgi-parvanov-is-reelected-after-a-run-off-election-with-volen-siderov-in-the-presidential-elections.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2009/01/15/index.html)  [JSON](2009/01/15/index.json)  [XML](200
 
 ##### Corruption
 ### [ Despite the corruption scandal surrounding Illinois Governor Rod Blagojevich, the United States Senate confirms Roland Burris as a member. ](/news/2009/01/15/despite-the-corruption-scandal-surrounding-illinois-governor-rod-blagojevich-the-united-states-senate-confirms-roland-burris-as-a-member.md)
-_Context: Governor of Illinois, Illinois, Rod Blagojevich, Roland Burris, United States Senate, corruption_
+_Context: Governor of Illinois, Illinois, Rod Blagojevich, Roland Burris, Senate, corruption_
 
 ##### Hawaii
 ### [ Hawaii becomes the first U.S. state and the second media market after Wilmington, North Carolina, to convert to digital television. ](/news/2009/01/15/hawaii-becomes-the-first-u-s-state-and-the-second-media-market-after-wilmington-north-carolina-to-convert-to-digital-television.md)

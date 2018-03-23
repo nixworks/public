@@ -45,7 +45,7 @@ _Context: Denis Johnson, Legacy of Ashes: The History of the CIA, National Book 
 
 ##### France
 ### [ French transport and energy workers' strike against President Nicolas Sarkozy's pension reform broadens, disrupting especially rail services. ](/news/2007/11/14/french-transport-and-energy-workers-strike-against-president-nicolas-sarkozy-s-pension-reform-broadens-disrupting-especially-rail-service.md)
-_Context: France, French President, Nicolas Sarkozy, energy, pension reform, rail service, strike, transport_
+_Context: France, Nicolas Sarkozy, President of France, energy, pension reform, rail service, strike, transport_
 
 ## [Previous Day...](/news/2007/11/13/index.md)
 

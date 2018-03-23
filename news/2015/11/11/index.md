@@ -27,7 +27,7 @@ _Context: Catalan, Constitutional Court, Spanish government, secession_
 ### [ Beijing Deputy Communist Party Secretary Lu Xiwen and Shanghai vice mayor Ai Baojun are placed under investigation by the top anti-graft body of the Communist Party of China, the Central Commission for Discipline Inspection. ](/news/2015/11/11/beijing-deputy-communist-party-secretary-la1-4-xiwen-and-shanghai-vice-mayor-ai-baojun-are-placed-under-investigation-by-the-top-anti-graft-b.md)
 The Chinese authorities did not detail the charges, saying only that the officials were being investigated for &#8220;serious breaches of discipline.&#8221;
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Slovenia's army begins erecting a razor wire fence along parts of its southern border with Croatia in order to stop a tide of illegal migrants entering the country. Around 180,000 people, mainly from Syria and Afghanistan have streamed into Slovenia since mid-October after trekking northwards along a Balkan corridor from Greece, most of them bound ultimately for Germany. ](/news/2015/11/11/slovenia-s-army-begins-erecting-a-razor-wire-fence-along-parts-of-its-southern-border-with-croatia-in-order-to-stop-a-tide-of-illegal-migran.md)
 Slovenia began erecting a razor wire fence along parts of its border with Croatia on Wednesday, saying it wanted better control over a tide of migrants flowing through the tiny country en route to other areas of Europe.
 

@@ -37,9 +37,9 @@ _Context: Australia, Christmas Island Immigration Reception and Processing Centr
 
 ##### Syrian Civil War
 ### [Human Rights Watch releases a report finding, because of a language barrier, integration issues, and financial difficulties, more than 400,000 Syrian refugee children in Turkey are not able to attend school despite the Turkish government allowing them access to the Turkish schooling system. ](/news/2015/11/9/human-rights-watch-releases-a-report-finding-because-of-a-language-barrier-integration-issues-and-financial-difficulties-more-than-400-0.md)
-_Context: Human Rights Watch, Politics of Turkey, Syria, Syrian Civil War, Turkish, Turkish schooling system_
+_Context: Human Rights Watch, Politics of Turkey, Syria, Syrian Civil War, Turkey, Turkish schooling system_
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Slovenia tightens controls over its Schengen border with Croatia due to concerns of an influx of migrants. ](/news/2015/11/9/slovenia-tightens-controls-over-its-schengen-border-with-croatia-due-to-concerns-of-an-influx-of-migrants.md)
 Slovenian government said Monday it would take urgent measures to strengthen control of its Schengen border with Croatia, fearing an expected new wave of migrants would be scarcely manageable. &quot;The government has prepared additional urgent measures to manage the migrants&#x27; flow, including t...
 

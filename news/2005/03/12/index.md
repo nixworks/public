@@ -7,9 +7,9 @@ Formats: [HTML](2005/03/12/index.html)  [JSON](2005/03/12/index.json)  [XML](200
 ### [ Local council elections in Malta are to take place. Results initially appear to favour the Malta Labour Party. ](/news/2005/03/12/local-council-elections-in-malta-are-to-take-place-results-initially-appear-to-favour-the-malta-labour-party.md)
 _Context: Malta, Malta Labour Party_
 
-##### Ukraine
+##### Ukrainian
 ### [ Ukraine begins to pull its troops out of Iraq. ](/news/2005/03/12/ukraine-begins-to-pull-its-troops-out-of-iraq.md)
-_Context: Iraq, Ukraine_
+_Context: Iraq, Ukrainian_
 
 ##### China's State Council
 ### [ The State Council of the People's Republic of China approves the resignation of Hong Kong's Chief Executive Tung Chee-Hwa, who then becomes a vice-chairman of the Political Consultative Conference, an advisory body. ](/news/2005/03/12/the-state-council-of-the-people-s-republic-of-china-approves-the-resignation-of-hong-kong-s-chief-executive-tung-chee-hwa-who-then-becomes.md)

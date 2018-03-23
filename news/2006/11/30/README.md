@@ -17,7 +17,7 @@ _Context: Hezbollah, Lebanese_
 
 ##### Nicolas Sarkozy
 ### [ Nicolas Sarkozy, the French Interior Minister, announces plans to run as a candidate for the French Presidency in elections in April 2007. ](/news/2006/11/30/nicolas-sarkozy-the-french-interior-minister-announces-plans-to-run-as-a-candidate-for-the-french-presidency-in-elections-in-april-2007.md)
-_Context: 2007 presidential election, French President, Nicolas Sarkozy, minister of the interior_
+_Context: 2007 presidential election, Nicolas Sarkozy, President of France, minister of the interior_
 
 ##### Clashes
 ### [ At least 300 people were killed in clashes between Sudan's army and former rebels in the south earlier this week, aid workers say. ](/news/2006/11/30/at-least-300-people-were-killed-in-clashes-between-sudan-s-army-and-former-rebels-in-the-south-earlier-this-week-aid-workers-say.md)

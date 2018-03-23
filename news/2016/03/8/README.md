@@ -43,7 +43,7 @@ There are deep divisions in Israeli society over political values and religion&#
 ### [South Korea imposes direct sanctions against North Korea that blacklists dozens of Northern companies and people for the first time, and bans ships that have visited North Korean ports in the previous 180 days from its waters. ](/news/2016/03/8/south-korea-imposes-direct-sanctions-against-north-korea-that-blacklists-dozens-of-northern-companies-and-people-for-the-first-time-and-ban.md)
 The miniaturization claim comes as the South imposed a ne wave of sanctions.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [The European Union and Turkey agree on broad principles for a plan to ease the migration crisis which includes returning thousands of migrants to Turkey. For this, the EU will swiftly ease visa requirements for Turks and speed up Ankara's EU accession talks. A final agreement is to be ready for next week's two-day EU summit in Brussels, Belgium. ](/news/2016/03/8/the-european-union-and-turkey-agree-on-broad-principles-for-a-plan-to-ease-the-migration-crisis-which-includes-returning-thousands-of-migran.md)
 The EU and Turkey agree principles of a deal on the migrant crisis that includes a radical one-in, one-out plan for Syrians fleeing the conflict.
 

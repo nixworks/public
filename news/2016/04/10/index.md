@@ -11,7 +11,7 @@ The increase in tiger numbers is primarily seen in India, Russia, Nepal and Bhut
 ### [British Prime Minister David Cameron releases his tax records in an effort to remove discussion about his personal wealth from the current political discourse. His initial reluctance to admit he had benefited from his late father's offshore Panama Papers holdings still seems to be affecting the upcoming European Union referendum. Unfortunately for the PM, the main Sunday newspapers in the U.K. tell of a gift of 200,000 pounds ($282,500) from his mother in 2011, suggesting it may have been a way of avoiding inheritance tax. ](/news/2016/04/10/british-prime-minister-david-cameron-releases-his-tax-records-in-an-effort-to-remove-discussion-about-his-personal-wealth-from-the-current-p.md)
 _Context: David Cameron, European Union membership referendum, Panama Papers, Prime Minister, inheritance tax_
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Macedonian police fire tear gas at refugees as they attempted to break through a fence at the Greece-Macedonia border near Idomeni, sparking clashes that injured 200 people. ](/news/2016/04/10/macedonian-police-fire-tear-gas-at-refugees-as-they-attempted-to-break-through-a-fence-at-the-greece-macedonia-border-near-idomeni-sparking.md)
 Hundreds injured as Macedonian police fire tear gas and rubber bullets at refugees trying to cross over from Greece.
 
@@ -61,7 +61,7 @@ _Context: Burj Khalifa, Dubai, United Arab Emirates, tallest structure in the wo
 
 ##### War in Afghanistan (2015-present)
 ### [The Taliban, in a statement claiming responsibility for yesterday's rocket attacks into Kabul, Afghanistan, says the intended target was U.S. Secretary of State John Kerry, who was in the capital to help defuse a crisis within the unity government. Kerry had departed less than an hour earlier. No casualties have been reported. ](/news/2016/04/10/the-taliban-in-a-statement-claiming-responsibility-for-yesterday-s-rocket-attacks-into-kabul-afghanistan-says-the-intended-target-was-u-s.md)
-_Context: Afghanistan, John Kerry, Kabul, Secretary of State, Taliban, War in Afghanistan (2015-present), unity government_
+_Context: Afghan, John Kerry, Kabul, Secretary of State, Taliban, War in Afghanistan (2015-present), unity government_
 
 ## [Previous Day...](/news/2016/04/9/index.md)
 

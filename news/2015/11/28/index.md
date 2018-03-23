@@ -19,7 +19,7 @@ The 57-year-old man with a bushy white beard who is suspected of killing three p
 ### [The Commonwealth Heads of Government meeting in Malta calls for an ambitious and legally binding outcome at the 2015 United Nations Climate Change Conference. ](/news/2015/11/28/the-commonwealth-heads-of-government-meeting-in-malta-calls-for-an-ambitious-and-legally-binding-outcome-at-the-2015-united-nations-climate.md)
 The Commonwealth on Saturday pledged itself towards an &quot;ambitious&quot;, legally-binding outcome from the world climate change summit, saying it was &quot;deeply concerned&quot; about the disproportionate threat to its most vulnerable members. Leaders from the 53-country family, which represent...
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Macedonia's Army begins erecting a metal fence on its southern border with Greece. Around 250 migrants later clash with Macedonian police on the border. ](/news/2015/11/28/macedonia-s-army-begins-erecting-a-metal-fence-on-its-southern-border-with-greece-around-250-migrants-later-clash-with-macedonian-police-on.md)
 Soldiers in Macedonia began erecting a metal fence on Saturday on the country&#039;s southern border with Greece. 
 

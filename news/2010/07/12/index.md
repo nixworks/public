@@ -51,7 +51,7 @@ _Context: European Union, Stability and Growth Pact_
 ### [The United Kingdom Secretary of State for Health Andrew Lansley outlines a radical proposal to reform the country's National Health Service, including the privatisation of hospitals. ](/news/2010/07/12/the-united-kingdom-secretary-of-state-for-health-andrew-lansley-outlines-a-radical-proposal-to-reform-the-country-s-national-health-service.md)
 The NHS in England is to undergo one of the biggest restructuring in its history, the government announces.
 
-##### French President
+##### President of France
 ### [French President Nicolas Sarkozy goes on national TV to dismiss allegations that he received illegal campaign donations from Liliane Bettencourt. ](/news/2010/07/12/french-president-nicolas-sarkozy-goes-on-national-tv-to-dismiss-allegations-that-he-received-illegal-campaign-donations-from-liliane-bettenc.md)
 In&#x20;a&#x20;live&#x20;TV&#x20;interview,&#x20;French&#x20;President&#x20;Nicolas&#x20;Sarkozy&#x20;has&#x20;defended&#x20;embattled&#x20;Labour&#x20;Minister&#x20;Eric&#x20;Woerth,&#x20;who&#x20;is&#x20;at&#x20;the&#x20;centre&#x20;of&#x20;corruption&#x20;allegations&#x20;involving&#x20;France&#x...
 
@@ -79,7 +79,7 @@ Eight people are injured after a tornado hits a German island in the North Sea, 
 ### [A gunman opens fire at a fiber optics plant in Albuquerque, New Mexico, killing two and wounding four before committing suicide. ](/news/2010/07/12/a-gunman-opens-fire-at-a-fiber-optics-plant-in-albuquerque-new-mexico-killing-two-and-wounding-four-before-committing-suicide.md)
 _Context: Albuquerque, New Mexico, New Mexico, fiber optics, opens fire, suicide_
 
-##### Afghanistan
+##### Afghan
 ### [Afghan rights group Afghanistan Rights Monitor (ARM) releases its report stating that 2010 has been the most violent in the landlocked country since the United States led an invasion in 2001, though notes a reduction in airstrikes - a policy favoured by former General Stanley A. McChrystal - has led to less civilian deaths via this method in 2010. ](/news/2010/07/12/afghan-rights-group-afghanistan-rights-monitor-arm-releases-its-report-stating-that-2010-has-been-the-most-violent-in-the-landlocked-count.md)
 Afghan rights group says current year has been the most violent since US-led invasion.
 

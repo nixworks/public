@@ -73,7 +73,7 @@ Militants kill at least four people and injure 29 in an attack on a court and pr
 
 ##### Car bombing
 ### [A car bombing in the center of the Somali capital, Mogadishu, kills at least 10 people and injures 20 others. ](/news/2013/03/18/a-car-bombing-in-the-center-of-the-somali-capital-mogadishu-kills-at-least-10-people-and-injures-20-others.md)
-_Context: Mogadishu, Somalia, car bombing_
+_Context: Mogadishu, Somali, car bombing_
 
 ##### Syrian Air Force
 ### [Fighter jets from the Syrian Air Force fire rockets into northern Lebanon with no casualties reported. ](/news/2013/03/18/fighter-jets-from-the-syrian-air-force-fire-rockets-into-northern-lebanon-with-no-casualties-reported.md)

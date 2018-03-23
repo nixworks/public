@@ -35,7 +35,7 @@ A bus with an unlicensed driver spun out of control near New Orleans on Sunday, 
 ### [Officials report the death toll is at least 290 people with at least 10 others still missing. ](/news/2016/08/28/officials-report-the-death-toll-is-at-least-290-people-with-at-least-10-others-still-missing.md)
 Rescuers believe they have found more bodies buried deep in the rubble of the ruined town of Amatrice, five days after a devastating earthquake struck central Italy, killing at least 290 people.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [The Spanish-based Proactiva Open Arms NGO rescues more than 700 migrants in the Mediterranean Sea about 17 miles north of Sabratha, Libya. The rescued, who are from Nigeria, are transferred to the Italian Coast Guard. ](/news/2016/08/28/the-spanish-based-proactiva-open-arms-ngo-rescues-more-than-700-migrants-in-the-mediterranean-sea-about-17-miles-north-of-sabratha-libya-t.md)
 More than seven hundred migrants were rescued Sunday morning by members of an NGO before transferring them to the Italian Coast Guard.
 

@@ -3,7 +3,7 @@ Formats: [HTML](2014/11/18/index.html)  [JSON](2014/11/18/index.json)  [XML](201
 
 ## [2014-11-18](/news/2014/11/18/index.md)
 
-##### United States Senate
+##### Senate
 ### [The United States Senate narrowly defeats legislation on the Keystone XL Pipeline, intended to allow oil from the oil sands of Canada to flow to the Gulf Coast of Texas. ](/news/2014/11/18/the-united-states-senate-narrowly-defeats-legislation-on-the-keystone-xl-pipeline-intended-to-allow-oil-from-the-oil-sands-of-canada-to-flo.md)
 Senator Mary L. Landrieu, Democrat of Louisiana, had hoped to get the legislation through in advance of her uphill runoff election fight back home.
 

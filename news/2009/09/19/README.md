@@ -73,7 +73,7 @@ _Context: Colorado, Denver, FBI, United States_
 
 ##### Africa
 ### [ A six-nation east African regional bloc consisting of Djibouti, Ethiopia, Kenya, Somalia, Sudan and Uganda urges global sanctions on Eritrea for backing Islamist rebels in neighbouring war-torn Somalia. ](/news/2009/09/19/a-six-nation-east-african-regional-bloc-consisting-of-djibouti-ethiopia-kenya-somalia-sudan-and-uganda-urges-global-sanctions-on-eritre.md)
-_Context: Africa, Djibouti, Eritrea, Ethiopia, Islam, Kenya, Somalia, Sudan, Uganda_
+_Context: Africa, Djibouti, Eritrea, Ethiopia, Kenya, Muslim, Somali, Sudan, Uganda_
 
 ## [Previous Day...](/news/2009/09/18/index.md)
 

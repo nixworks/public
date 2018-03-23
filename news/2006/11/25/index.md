@@ -17,7 +17,7 @@ _Context: Bahrain, parliamentary elections_
 
 ##### Belarusian President
 ### [ Belarusian President Alexander Lukashenko calls for a "union" of foreign and energy policies between Belarus and Ukraine. At the same time, he says his government falsified the results of the last presidential election by reducing the size of his own majority. ](/news/2006/11/25/belarusian-president-alexander-lukashenko-calls-for-a-union-of-foreign-and-energy-policies-between-belarus-and-ukraine-at-the-same-time.md)
-_Context: Alexander Lukashenko, Belarus, Belarusian President, Ukraine_
+_Context: Alexander Lukashenko, Belarus, Belarusian President, Ukrainian_
 
 ##### Augusto Pinochet
 ### [ General Augusto Pinochet issues a statement accepting "political" responsibility for everything that happened in Chile during his rule. ](/news/2006/11/25/general-augusto-pinochet-issues-a-statement-accepting-political-responsibility-for-everything-that-happened-in-chile-during-his-rule.md)

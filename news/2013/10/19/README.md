@@ -19,7 +19,7 @@ _Context: Buenos Aires, Once railway station, train crash_
 ### [Tunisian security forces have killed 10 people (claimed by authorities to be Islamist militants) near the border with Algeria in a three-day operation against gunmen who attacked police patrols in the remote northern region. ](/news/2013/10/19/tunisian-security-forces-have-killed-10-people-claimed-by-authorities-to-be-islamist-militants-near-the-border-with-algeria-in-a-three-day.md)
 Tunisian security forces have killed 10 Islamist militants near the border with Algeria during a three-day operation against gunmen who attacked police patrols in the remote northern region, the government said on Saturday.
 
-##### Somalia
+##### Somali
 ### [16 people are killed and 30 wounded by a suicide bomber in an attack in a crowded restaurant in the central Somali town of Beledweyne. ](/news/2013/10/19/16-people-are-killed-and-30-wounded-by-a-suicide-bomber-in-an-attack-in-a-crowded-restaurant-in-the-central-somali-town-of-beledweyne.md)
 A suicide bomber killed at least 16 people on Saturday in an attack on a cafe in a Somali town close to the Ethiopian border frequented by local and foreign soldiers fighting al Qaeda-linked rebels.
 

@@ -81,7 +81,7 @@ _Context: Maldives, baton, tear gas_
 
 ##### Taliban
 ### [The Taliban stages offensives in two provinces of Afghanistan, killing six people. ](/news/2011/05/1/the-taliban-stages-offensives-in-two-provinces-of-afghanistan-killing-six-people.md)
-_Context: Afghanistan, Taliban_
+_Context: Afghan, Taliban_
 
 ##### Ali Abdullah Saleh
 ### [Ali Abdullah Saleh refuses to sign a Gulf Arab states-brokered agreement intended to resolve the situation, and the deal has collapsed. The opposition in Yemen promises to escalate the protests. ](/news/2011/05/1/ali-abdullah-saleh-refuses-to-sign-a-gulf-arab-states-brokered-agreement-intended-to-resolve-the-situation-and-the-deal-has-collapsed-the.md)

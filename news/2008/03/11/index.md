@@ -25,7 +25,7 @@ _Context: George W. Bush, U.S. President, United States, United States House of 
 
 ##### 2008
 ### [ United States presidential election, 2008: Illinois Senator Barack Obama wins the Mississippi Democratic primary. ](/news/2008/03/11/united-states-presidential-election-2008-illinois-senator-barack-obama-wins-the-mississippi-democratic-primary.md)
-_Context: 2008, Barack Obama, Democratic primary, Illinois, Mississippi, United States Senate_
+_Context: 2008, Barack Obama, Democratic primary, Illinois, Mississippi, Senate_
 
 ## [Previous Day...](/news/2008/03/10/index.md)
 

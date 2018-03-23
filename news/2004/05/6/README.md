@@ -19,7 +19,7 @@ _Context: Hamas, Israel, Mohammad Taha_
 ### [ Over U.S. and Israeli objections, the UN General Assembly votes 140-6, with 11 abstentions, to adopt a resolution that affirms the Palestinians' right of sovereignty over the territories seized by Israel during the 1967 Six-Day War. ](/news/2004/05/6/over-u-s-and-israeli-objections-the-un-general-assembly-votes-140a6-with-11-abstentions-to-adopt-a-resolution-that-affirms-the-palest.md)
 _Context: Israel, Palestine, Palestinians, UN General Assembly, pre-1967 borders_
 
-##### United States Senate
+##### Senate
 ### [ The United States Senate votes (95-3) to approve John Negroponte as the head of the new U.S. embassy in Iraq despite concerns over his role in allegedly supporting widespread campaigns of terror and human rights abuses as ambassador of Honduras in the 1980s. ](/news/2004/05/6/the-united-states-senate-votes-95a3-to-approve-john-negroponte-as-the-head-of-the-new-u-s-embassy-in-iraq-despite-concerns-over-his-ro.md)
 The Senate on Thursday easily confirmed John D. Negroponte as the first U.S. ambassador to postwar Iraq, with senators stressing that his job had become &quot;exponentially&quot; more difficult because of the...
 

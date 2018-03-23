@@ -21,7 +21,7 @@ _Context: 2015 Atlantic hurricane season, Caribbean, Dominica, Tropical Storm Er
 
 ##### 
 ### [A sinkhole in China swallows five people. ](/news/2015/08/27/a-sinkhole-in-china-swallows-five-people.md)
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Two boats carrying migrants capsize off of the coast of Zuwarah, Libya, with hundreds feared dead. ](/news/2015/08/27/two-boats-carrying-migrants-capsize-off-of-the-coast-of-zuwarah-libya-with-hundreds-feared-dead.md)
 Hundreds of people are feared dead after two boats carrying up to 500 migrants capsize off the Libyan coast near the city of Zuwara.
 

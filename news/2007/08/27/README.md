@@ -39,9 +39,9 @@ President Bush today praised Attorney General Alberto R. Gonzales, whose tenure 
 ### [ Indonesia's karate team boycotts an Asian championship in Malaysia to protest at the beating of one of its official referees by the local police. ](/news/2007/08/27/indonesia-s-karate-team-boycotts-an-asian-championship-in-malaysia-to-protest-at-the-beating-of-one-of-its-official-referees-by-the-local-p.md)
 _Context: Indonesia, Malaysia, karate_
 
-##### United States Senate
+##### Senate
 ### [ U.S. Senator Larry Craig (R-Idaho) is revealed to have pleaded guilty on August 8 to a charge of disorderly conduct at the Minneapolis-St. Paul International Airport. ](/news/2007/08/27/u-s-senator-larry-craig-r-idaho-is-revealed-to-have-pleaded-guilty-on-august-8-to-a-charge-of-disorderly-conduct-at-the-minneapolis-st.md)
-_Context: Idaho, Larry Craig, Minneapolis-St. Paul International Airport, Republican, United States Senate_
+_Context: Idaho, Larry Craig, Minneapolis-St. Paul International Airport, Republican, Senate_
 
 ##### Montreal Metro
 ### [ The Montreal Metro Green Line and most of Downtown that were closed off on Friday reopens. Emergency reparation are made on a nearby building whose concrete side panels were in danger of falling off. The Bay considers suing the city, alleging that construction work is the source of the cracks. ](/news/2007/08/27/the-montreal-metro-green-line-and-most-of-downtown-that-were-closed-off-on-friday-reopens-emergency-reparation-are-made-on-a-nearby-buildi.md)

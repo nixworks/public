@@ -57,7 +57,7 @@ _Context: Agip, Conflict in the Niger Delta, Niger Delta Avengers, Nigeria, Roya
 
 ##### Spillover of the Syrian Civil War
 ### [Turkey claims that its artillery fire together with U.S. air strikes killed more than 104 ISIL militants after rockets fired from northern Syria killed several people in the Turkish town of Kilis. ](/news/2016/05/28/turkey-claims-that-its-artillery-fire-together-with-u-s-air-strikes-killed-more-than-104-isil-militants-after-rockets-fired-from-northern-s.md)
-_Context: Islamic State in Iraq and the Levant, Kilis, Spillover of the Syrian Civil War, Syria, Turkish_
+_Context: Islamic State in Iraq and the Levant, Kilis, Spillover of the Syrian Civil War, Syria, Turkey_
 
 ## [Previous Day...](/news/2016/05/27/index.md)
 

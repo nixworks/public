@@ -35,7 +35,7 @@ _Context: Guinea, November's presidential poll_
 ### [Peruvian President Alan Garcia names Jose Chang as Prime Minister, replacing Javier Velasquez as part of a cabinet reshuffle. ](/news/2010/09/14/peruvian-president-alan-garcaa-names-josa-c-chang-as-prime-minister-replacing-javier-vela-squez-as-part-of-a-cabinet-reshuffle.md)
 Peruvian President Alan Garcia names Jose Chang as his new prime minister as part of a cabinet reshuffle.
 
-##### Ukraine
+##### Ukrainian
 ### [Ukrainian prosecutors say that former Interior Minister Yuriy Kravchenko ordered the murder of journalist Georgiy Gongadze in 2000. ](/news/2010/09/14/ukrainian-prosecutors-say-that-former-interior-minister-yuriy-kravchenko-ordered-the-murder-of-journalist-georgiy-gongadze-in-2000.md)
 Former Ukrainian Interior Minister Yuri Kravchenko ordered the murder of Georgiy Gongadze, a reporter whose headless body was found in 2000, prosecutors said as they closed the investigation into Kravchenko’s involvement.
 

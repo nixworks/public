@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/3/the-united-states-senate-passes-a-motion-support
 
 ### [2011-02-3](/news/2011/02/3/index.md)
 
-##### United States Senate
+##### Senate
 # The United States Senate passes a motion supporting democracy in Egypt and calling on President Hosni Mubarak to begin transferring power. 
 
 

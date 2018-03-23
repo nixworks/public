@@ -7,9 +7,9 @@ Formats: [HTML](2011/07/5/index.html)  [JSON](2011/07/5/index.json)  [XML](2011/
 ### [Casey Anthony is acquitted of murder in relation to the death of her daughter Caylee, but guilty on four counts of misdemeanor providing false information to a law enforcement officer. ](/news/2011/07/5/casey-anthony-is-acquitted-of-murder-in-relation-to-the-death-of-her-daughter-caylee-but-guilty-on-four-counts-of-misdemeanor-providing-fal.md)
 Jurors in Orlando today found Casey Anthony not guilty of murder in the death of her 2-year-old daughter, Caylee.
 
-##### Somalia
+##### Somali
 ### [A Somali man, Ahmed Abdulkadir Warsame, is charged in the US city of New York with assisting the terrorist groups Al Shaabab and Al Qaeda in the Arabian Peninsula. ](/news/2011/07/5/a-somali-man-ahmed-abdulkadir-warsame-is-charged-in-the-us-city-of-new-york-with-assisting-the-terrorist-groups-al-shaabab-and-al-qaeda-in.md)
-_Context: Al Qaeda in the Arabian Peninsula, Al-Shabaab, New York, Somalia_
+_Context: Al Qaeda in the Arabian Peninsula, Al-Shabab, New York, Somali_
 
 ##### Supreme Court of England and Wales
 ### [The Supreme Court of England and Wales dismisses an attempt by police to suspend a legal ruling limiting the powers of police bail. ](/news/2011/07/5/the-supreme-court-of-england-and-wales-dismisses-an-attempt-by-police-to-suspend-a-legal-ruling-limiting-the-powers-of-police-bail.md)

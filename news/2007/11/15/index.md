@@ -81,7 +81,7 @@ _Context: Deutsche Bahn, German, passenger, strike, train driver_
 
 ##### Public-sector strikes
 ### [ Strikes in France: French transport workers' strike against President Nicolas Sarkozy's pension reform enters its second day, but energy workers and CFDT members return to work. ](/news/2007/11/15/strikes-in-france-french-transport-workers-strike-against-president-nicolas-sarkozy-s-pension-reform-enters-its-second-day-but-energy-wo.md)
-_Context: CFDT, France, French President, Nicolas Sarkozy, energy, pension reform, public-sector strikes, strike, transport_
+_Context: CFDT, France, Nicolas Sarkozy, President of France, energy, pension reform, public-sector strikes, strike, transport_
 
 ## [Previous Day...](/news/2007/11/14/index.md)
 

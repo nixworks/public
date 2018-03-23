@@ -23,7 +23,7 @@ Afghan Taliban rebels killed the second of two German hostages on Saturday after
 ### [ Pratibha Patil wins the 13th presidential election in India to become the first female President of India. ](/news/2007/07/21/pratibha-patil-wins-the-13th-presidential-election-in-india-to-become-the-first-female-president-of-india.md)
 _Context: 13th presidential election in India, Pratibha Patil, President of India_
 
-##### Somalia
+##### Somali
 ### [ Somali pirates demand $1.5 million in ransom for the release of a Danish freighter and its crew. ](/news/2007/07/21/somali-pirates-demand-1-5-million-in-ransom-for-the-release-of-a-danish-freighter-and-its-crew.md)
 Pirates holding a Danish freighter off the Somali coast are demanding a $US1.5 million ($1.7 million) ransom for the release of the ship and its crew, according to a Kenyan maritime official.
 

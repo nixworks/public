@@ -9,7 +9,7 @@ _Context: World Car Free Day_
 
 ##### German
 ### [ Security is tightened across Germany after the emergence of al-Qaeda videos threatening attacks if troops are not withdrawn from Afghanistan. ](/news/2009/09/22/security-is-tightened-across-germany-after-the-emergence-of-al-qaeda-videos-threatening-attacks-if-troops-are-not-withdrawn-from-afghanista.md)
-_Context: Afghanistan, German, al-Qaeda_
+_Context: Afghan, German, al-Qaeda_
 
 ##### Bhutan
 ### [ Rescue teams scour eastern Bhutan after at least 11 people are killed by an earthquake which struck the region. ](/news/2009/09/22/rescue-teams-scour-eastern-bhutan-after-at-least-11-people-are-killed-by-an-earthquake-which-struck-the-region.md)

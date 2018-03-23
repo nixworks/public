@@ -21,7 +21,7 @@ _Context: 2008, 2013, Cliff Richard, His Majesty's Government, The Beatles, copy
 
 ##### Somali Civil War
 ### [ Somali Civil War: The Islamic Courts Union that controls much of southern Somalia has revealed they would attack Ethiopian forces in Galkayo in Mudug province, central Somalia. ](/news/2006/11/27/somali-civil-war-the-islamic-courts-union-that-controls-much-of-southern-somalia-has-revealed-they-would-attack-ethiopian-forces-in-galkay.md)
-_Context: Galkayo, Islamic Courts Union, Mudug province, Somali Civil War, Somalia, its troops have invaded_
+_Context: Galkayo, Islamic Courts Union, Mudug province, Somali, Somali Civil War, its troops have invaded_
 
 ##### F-16
 ### [ A U.S. F-16 fighter aircraft has gone down near the city of Fallujah in western Iraq. The United States Air Force said the plane's pilot was missing and an investigation into the cause of the incident has been launched. ](/news/2006/11/27/a-u-s-f-16-fighter-aircraft-has-gone-down-near-the-city-of-fallujah-in-western-iraq-the-united-states-air-force-said-the-plane-s-pilot-wa.md)

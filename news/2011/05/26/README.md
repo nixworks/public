@@ -69,7 +69,7 @@ Salva Kiir calls on Khartoum to withdraw its troops from the oil-rich region to 
 
 ##### Turkish police
 ### [The General Directorate of Security reports an explosion in Istanbul, Turkey, most likely caused by a bomb, with a number of people injured. ](/news/2011/05/26/the-general-directorate-of-security-reports-an-explosion-in-istanbul-turkey-most-likely-caused-by-a-bomb-with-a-number-of-people-injured.md)
-_Context: Istanbul, Turkish, Turkish police_
+_Context: Istanbul, Turkey, Turkish police_
 
 ##### Yemen
 ### [Large explosions are reported in the Yemeni capital of Sana'a in the midst of ongoing protests against President Ali Abdullah Saleh; opposition forces claim that the violence threatens to escalate into a civil war. ](/news/2011/05/26/large-explosions-are-reported-in-the-yemeni-capital-of-sana-a-in-the-midst-of-ongoing-protests-against-president-ali-abdullah-saleh-opposit.md)

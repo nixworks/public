@@ -15,9 +15,9 @@ _Context: Parliament, Prime Minister, Yingluck Shinawatra_
 ### [Philippine President Benigno Aquino III meets with rebel Moro Islamic Liberation Front leader Al Haj Murad Ibrahim in Tokyo. ](/news/2011/08/5/philippine-president-benigno-aquino-iii-meets-with-rebel-moro-islamic-liberation-front-leader-al-haj-murad-ibrahim-in-tokyo.md)
 _Context: Moro Islamic Liberation Front, Philippine, Philippine President, Tokyo, his predecessor_
 
-##### Ukraine
+##### Ukrainian
 ### [Former Prime Minister of Ukraine, and leader of the most numerous opposition party Yulia Tymoshenko is arrested in Kiev. ](/news/2011/08/5/former-prime-minister-of-ukraine-and-leader-of-the-most-numerous-opposition-party-yulia-tymoshenko-is-arrested-in-kiev.md)
-_Context: Kiev, Ukraine, Yulia Tymoshenko, opposition party_
+_Context: Kiev, Ukrainian, Yulia Tymoshenko, opposition party_
 
 ##### UNICEF
 ### [UNICEF calls on Australia not to send 18 asylum seekers who are allegedly unaccompanied minors to Malaysia as part of a people swap. ](/news/2011/08/5/unicef-calls-on-australia-not-to-send-18-asylum-seekers-who-are-allegedly-unaccompanied-minors-to-malaysia-as-part-of-a-people-swap.md)
@@ -51,7 +51,7 @@ _Context: China, Meng Jianzhu, Ministry of Public Security of the People's Repub
 ### [2011 Libyan civil war: Rebels claim that a NATO airstrike has killed Muammar Gaddafi's youngest son Khamis but this is later denied. ](/news/2011/08/5/2011-libyan-civil-war-rebels-claim-that-a-nato-airstrike-has-killed-muammar-gaddafi-s-youngest-son-khamis-but-this-is-later-denied.md)
 Rebel spokesman says Libyan army commander Khamis Gaddafi killed in NATO airstrike on Zlitan, a claim government denies.
 
-##### Turkish
+##### Turkey
 ### [Turkey confirms it has seized an Iranian arms shipment to Syria. ](/news/2011/08/5/turkey-confirms-it-has-seized-an-iranian-arms-shipment-to-syria.md)
 Tens of thousands protest across Syria days after the bloody crackdown on the city of Hama where the opposition had taken control.
 

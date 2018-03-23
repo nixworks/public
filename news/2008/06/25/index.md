@@ -45,7 +45,7 @@ _Context: Foreign Secretary, Order of the Bath, President of Zimbabwe, Robert Mu
 
 ##### European Union
 ### [ EU's representative in Kosovo Pieter Feith says he expects Montenegro will recognize Kosovo's unilateral independence "as soon as possible", as it would "contribute to regional stability". ](/news/2008/06/25/eu-s-representative-in-kosovo-pieter-feith-says-he-expects-montenegro-will-recognize-kosovo-s-unilateral-independence-as-soon-as-possible.md)
-_Context: European Union, Kosovo, Montenegrin, Pieter Feith_
+_Context: European Union, Kosovo, Montenegro, Pieter Feith_
 
 ## [Previous Day...](/news/2008/06/24/index.md)
 

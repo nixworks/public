@@ -7,9 +7,9 @@ Formats: [HTML](2009/02/22/index.html)  [JSON](2009/02/22/index.json)  [XML](200
 ### [ The European Council meets in Berlin, Germany, to discuss the current economic crisis. ](/news/2009/02/22/the-european-council-meets-in-berlin-germany-to-discuss-the-current-economic-crisis.md)
 _Context: Berlin, European Council, German, current financial crisis_
 
-##### Somalia
+##### Somali
 ### [ Somali pirates hijack Greece's MV "Saldanha" in the Gulf of Aden. ](/news/2009/02/22/somali-pirates-hijack-greece-s-mv-saldanha-in-the-gulf-of-aden.md)
-_Context: Greece, Gulf of Aden, MV, Somali pirates, Somalia_
+_Context: Greece, Gulf of Aden, MV, Somali, Somali pirates_
 
 ##### Outbreak
 ### [ An outbreak of hepatitis B in Gujarat, India, kills at least 38 people. ](/news/2009/02/22/an-outbreak-of-hepatitis-b-in-gujarat-india-kills-at-least-38-people.md)
@@ -41,7 +41,7 @@ _Context: Athens, Greece, Korydallos Prison, Vassilis Paleokostas, convicted, es
 
 ##### Al-Shabaab
 ### [ An Al-Shabaab suicide attack kills at least 11 and injures 15 more Burundian peacekeepers on an African Union military base in Mogadishu, Somalia. ](/news/2009/02/22/an-al-shabaab-suicide-attack-kills-at-least-11-and-injures-15-more-burundian-peacekeepers-on-an-african-union-military-base-in-mogadishu-s.md)
-_Context: African Union, Al-Shabaab, Burundi, Mogadishu, Somalia, military base, peacekeepers, suicide attack_
+_Context: African Union, Al-Shabaab, Burundi, Mogadishu, Somali, military base, peacekeepers, suicide attack_
 
 ##### Bomb
 ### [ A bomb kills one person and injures 20 others in the Khan el-Khalili souq of Cairo, Egypt. ](/news/2009/02/22/a-bomb-kills-one-person-and-injures-20-others-in-the-khan-el-khalili-souq-of-cairo-egypt.md)

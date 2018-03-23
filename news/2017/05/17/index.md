@@ -7,7 +7,7 @@ Formats: [HTML](2017/05/17/index.html)  [JSON](2017/05/17/index.json)  [XML](201
 ### [ Deputy Attorney General Rod Rosenstein appoints former FBI Director Robert Mueller as special counsel to oversee the FBI's investigation of Russia's efforts to influence the 2016 election. ](/news/2017/05/17/deputy-attorney-general-rod-rosenstein-appoints-former-fbi-director-robert-mueller-as-special-counsel-to-oversee-the-fbias-investigation.md)
 Mueller will oversee the investigation into efforts to influence the election.
 
-##### French President
+##### President of France
 ### [President of France Emmanuel Macron nominates the full Edouard Philippe government. Jean-Yves Le Drian becomes foreign minister, Sylvie Goulard defence minister, Bruno Le Maire minister of economy, and Gerard Collomb minister of the interior. ](/news/2017/05/17/president-of-france-emmanuel-macron-nominates-the-full-adouard-philippe-government-jean-yves-le-drian-becomes-foreign-minister-sylvie-gou.md)
 French President Emmanuel Macron has named a mix of prominent and unknown figures from the left and the right to make up the government tasked with pushing through his plans to reduce labour protections, tighten European unity and boost military spending. The most senior Cabinet job — the post of ...
 
@@ -25,7 +25,7 @@ One jet came within 150ft (45m) of the US plane and flew upside over it, officia
 
 ##### Ukraine-European Union relations
 ### [Representatives of the European Parliament and European Council sign a document formally granting Ukrainians visa-free travel to the European Union. The visa-free regime is due to enter into force on June 11. ](/news/2017/05/17/representatives-of-the-european-parliament-and-european-council-sign-a-document-formally-granting-ukrainians-visa-free-travel-to-the-europea.md)
-_Context: European Council, European Parliament, European Union, Ukraine, Ukraine-European Union relations_
+_Context: European Council, European Parliament, European Union, Ukraine-European Union relations, Ukrainian_
 
 ##### War in Afghanistan
 ### [Four militants attack a state television building in Jalalabad, killing at least six people. The militants are also killed after engaging with Afghan police. ISIL claimed responsibility for the attack. ](/news/2017/05/17/four-militants-attack-a-state-television-building-in-jalalabad-killing-at-least-six-people-the-militants-are-also-killed-after-engaging-wi.md)

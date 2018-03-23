@@ -11,9 +11,9 @@ _Context: Charles Ble Goude, Cote d'Ivoire, Young Patriots_
 ### [ A whale, identified as a 5 metre (17') long Northern Bottlenose whale, is observed in the River Thames in Central London passing upstream of the Houses of Parliament. The "River Thames whale" is believed to have passed through the Thames Barrier about 1515 UTC on Thursday afternoon. Attempts are being made to guide it back to the Thames estuary, where a second whale has been sighted off Southend on Sea. ](/news/2006/01/20/a-whale-identified-as-a-5-metre-17-long-northern-bottlenose-whale-is-observed-in-the-river-thames-in-central-london-passing-upstream-o.md)
 _Context: Bottlenose whale, London, Parliament, River Thames, River Thames whale, Southend on Sea, Thames Barrier, whale_
 
-##### Turkish
+##### Turkey
 ### [ Turkish police are reported to have taken into custody, Mehmet Ali Agca, the man who shot Pope John Paul&nbsp;II in 1981 after an appeals court ordered his return to prison to serve more time for killing a journalist. ](/news/2006/01/20/turkish-police-are-reported-to-have-taken-into-custody-mehmet-ali-aaca-the-man-who-shot-pope-john-paul-nbsp-ii-in-1981-after-an-appeals.md)
-_Context: Mehmet Ali Agca, Pope John Paul&nbsp;II, Turkish_
+_Context: Mehmet Ali Agca, Pope John Paul&nbsp;II, Turkey_
 
 ##### Haneda Airport
 ### [ Japan has halted the import of U.S. beef after an animal spine was found in a beef shipment at Tokyo International Airport. A ban has now been reinstated. ](/news/2006/01/20/japan-has-halted-the-import-of-u-s-beef-after-an-animal-spine-was-found-in-a-beef-shipment-at-tokyo-international-airport-a-ban-has-now-b.md)
@@ -39,7 +39,7 @@ _Context: December 2005, Iraq, National Assembly of Iraq, Shiite, United Iraqi A
 ### [ Embroiled in a nuclear standoff with the West, Iran says it is moving funds out of Europe to shield them from possible U.N. sanctions. ](/news/2006/01/20/embroiled-in-a-nuclear-standoff-with-the-west-iran-says-it-is-moving-funds-out-of-europe-to-shield-them-from-possible-u-n-sanctions.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-##### Afghanistan
+##### Afghan
 ### [ Canadian soldiers in Afghanistan have defused a huge car bomb found not far from their base near Kandahar. The discovery comes just days after a suicide bomber killed Canadian diplomat Glyn Berry and seriously wounded three soldiers travelling with him. ](/news/2006/01/20/canadian-soldiers-in-afghanistan-have-defused-a-huge-car-bomb-found-not-far-from-their-base-near-kandahar-the-discovery-comes-just-days-af.md)
 Canadian soldiers in Afghanistan have defused a huge car bomb found not far from their base near Kandahar.
 

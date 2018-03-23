@@ -39,9 +39,9 @@ _Context: Gageodo, Ministry of Public Safety and Security, South Korea_
 ### [Cyclone Pam causes severe damage in the South Pacific nation of Vanuatu with unconfirmed reports of over 40 deaths. ](/news/2015/03/13/cyclone-pam-causes-severe-damage-in-the-south-pacific-nation-of-vanuatu-with-unconfirmed-reports-of-over-40-deaths.md)
 At least eight people are dead in Vanuatu, a senior aid official says, after one of the strongest tropical cyclones to have hit the South Pacific leaves a trail of destruction.
 
-##### Cypriot
+##### Cyprus
 ### [Politicians in Cyprus demand the resignation of the governor of the central bank there, Chrystalla Georghadji, raising concerns about a conflict of interest. ](/news/2015/03/13/politicians-in-cyprus-demand-the-resignation-of-the-governor-of-the-central-bank-there-chrystalla-georghadji-raising-concerns-about-a-conf.md)
-_Context: Chrystalla Georghadji, Cypriot_
+_Context: Chrystalla Georghadji, Cyprus_
 
 ##### Egypt Economic Development Conference
 ### [Among the over 2,000 delegates from 112 different countries, U.S. Secretary of State, John Kerry, delivers a speech during the investment summit held in the Egyptian resort town of Sharm el-Sheikh. ](/news/2015/03/13/among-the-over-2-000-delegates-from-112-different-countries-u-s-secretary-of-state-john-kerry-delivers-a-speech-during-the-investment-su.md)

@@ -97,7 +97,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Afghan President
 ### [The President of Afghanistan Hamid Karzai names the seven areas of Afghanistan that will pass into Afghan control from July: Kabul, Panjshir Province, Bamiyan Province, Herat, Mazar-e-Sharif, Mihtarlam and Lashkar Gah. ](/news/2011/03/22/the-president-of-afghanistan-hamid-karzai-names-the-seven-areas-of-afghanistan-that-will-pass-into-afghan-control-from-july-kabul-panjshir.md)
-_Context: Afghan President, Afghanistan, Bamiyan Province, Hamid Karzai, Herat, Kabul, Lashkar Gah, Mazar-e-Sharif, Mihtarlam, Panjshir Province_
+_Context: Afghan, Afghan President, Bamiyan Province, Hamid Karzai, Herat, Kabul, Lashkar Gah, Mazar-e-Sharif, Mihtarlam, Panjshir Province_
 
 ##### U.S. Air Force
 ### [Two US airmen safely eject prior to their F-15E crashing near Benghazi, Libya, due to mechanical failure. ](/news/2011/03/22/two-us-airmen-safely-eject-prior-to-their-f-15e-crashing-near-benghazi-libya-due-to-mechanical-failure.md)

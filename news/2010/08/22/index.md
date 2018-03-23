@@ -41,7 +41,7 @@ _Context: Iran, drone aircraft_
 
 ##### Bolivia
 ### [A Bolivian-flagged all-female international aid ship bound for Gaza is delayed as Cyprus bans it from passing, with Israel's Ehud Barak calling on France and the United States to prevent it from sailing because, he says, it is "a needless provocation". ](/news/2010/08/22/a-bolivian-flagged-all-female-international-aid-ship-bound-for-gaza-is-delayed-as-cyprus-bans-it-from-passing-with-israel-s-ehud-barak-call.md)
-_Context: Bolivia, Cypriot, Ehud Barak, France, Gaza Strip, Israel, United States_
+_Context: Bolivia, Cyprus, Ehud Barak, France, Gaza Strip, Israel, United States_
 
 ##### Chile
 ### [All 33 Chilean miners trapped deep underground are located alive after 17 days, though they have not yet been removed from the mine and remain trapped. ](/news/2010/08/22/all-33-chilean-miners-trapped-deep-underground-are-located-alive-after-17-days-though-they-have-not-yet-been-removed-from-the-mine-and-rema.md)
@@ -55,7 +55,7 @@ About 150,000 people leave their homes in Sindh as flood defences are threatened
 ### [5,000 people are evacuated in North Korea after the Yalu River on the border with China floods; 94,000 in China are also evacuated. ](/news/2010/08/22/5-000-people-are-evacuated-in-north-korea-after-the-yalu-river-on-the-border-with-china-floods-94-000-in-china-are-also-evacuated.md)
 China and North Korea evacuate thousands of people from their homes after heavy rains flood villages on both sides of the border.
 
-##### Islam
+##### Muslim
 ### [Hundreds of people rally in relation to an Islamic cultural centre proposed for New York City, United States; opponents to the building blare Bruce Springsteen's "Born in the U.S.A." over loudspeakers. ](/news/2010/08/22/hundreds-of-people-rally-in-relation-to-an-islamic-cultural-centre-proposed-for-new-york-city-united-states-opponents-to-the-building-blar.md)
 Pro and anti-rallies staged in New York over the proposed Islamic centre.
 

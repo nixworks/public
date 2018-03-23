@@ -29,7 +29,7 @@ The sentence, which also included a year&rsquo;s probation and a demotion in ran
 
 ##### Austria
 ### [An Austrian court grants a United States request to extradite Ukrainian businessman Dmytro Firtash. U.S. officials accuse Firtash of being involved in a scandal where he allegedly paid US$18.5 million in bribes for a permit to mine titanium in India, something Firtash denies. ](/news/2017/02/21/an-austrian-court-grants-a-united-states-request-to-extradite-ukrainian-businessman-dmytro-firtash-u-s-officials-accuse-firtash-of-being-i.md)
-_Context: Austria, Dmytro Firtash, India, US$, Ukraine, United States, bribes, titanium_
+_Context: Austria, Dmytro Firtash, India, US$, Ukrainian, United States, bribes, titanium_
 
 ##### 2017 Rinkeby riots
 ### [After Swedish police arrest a suspect on drug-related charges, rioting occurs in Rinkeby, a suburb of the Swedish capital Stockholm. ](/news/2017/02/21/after-swedish-police-arrest-a-suspect-on-drug-related-charges-rioting-occurs-in-rinkeby-a-suburb-of-the-swedish-capital-stockholm.md)

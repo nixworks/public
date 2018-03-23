@@ -9,7 +9,7 @@ _Context: Beijing, Chinese, Guangzhou, bullet train system, high-speed rail, rou
 
 ##### Hawaii
 ### [Hawaii's Democratic Governor Neil Abercrombie appoints Lieutenant Governor Brian Schatz (a former state legislator and nonprofit group executive) to fill the term of the recently-deceased longtime Democratic U.S. Senator Daniel Inouye until 2014, when a special election will be called to fill the slot until 2016. His was one of three names known to have been submitted by the state party's central committee, along with an unnamed person and U.S. Democrat Colleen Hanabusa, whom Inouye had stated as his preferred successor hours before his death. ](/news/2012/12/26/hawaii-s-democratic-governor-neil-abercrombie-appoints-lieutenant-governor-brian-schatz-a-former-state-legislator-and-nonprofit-group-execu.md)
-_Context: Brian Schatz, Colleen Hanabusa, Daniel Inouye, Democrat, Governor, Hawaii, Lieutenant Governor, Neil Abercrombie, U.S., United States Senate_
+_Context: Brian Schatz, Colleen Hanabusa, Daniel Inouye, Democrat, Governor, Hawaii, Lieutenant Governor, Neil Abercrombie, Senate, U.S._
 
 ##### U.S. President
 ### [Former U.S. President, 88-year-old George H. W. Bush, still receiving visitors, remains hospitalized (since 23 November) at The Methodist Hospital in Houston, Texas, where he resides during the winter, with a receding bronchitis-like cough but with a now-rising and long-lasting fever, and has been put in intensive care on a liquids-only diet for unspecified reasons. ](/news/2012/12/26/former-u-s-president-88-year-old-george-h-w-bush-still-receiving-visitors-remains-hospitalized-since-23-november-at-the-methodist-ho.md)
@@ -49,7 +49,7 @@ _Context: Dennis O'Driscoll, Irish_
 
 ##### Afghans
 ### [A suicide bomber kills himself and three Afghans (a guard and two civilians) outside the perimeter of Forward Operating Base Chapman in Khost, Afghanistan, the scene of an earlier attack in December 2009. ](/news/2012/12/26/a-suicide-bomber-kills-himself-and-three-afghans-a-guard-and-two-civilians-outside-the-perimeter-of-forward-operating-base-chapman-in-khos.md)
-_Context: Afghanistan, Afghans, Forward Operating Base Chapman, Khost_
+_Context: Afghan, Afghans, Forward Operating Base Chapman, Khost_
 
 ## [Previous Day...](/news/2012/12/25/index.md)
 

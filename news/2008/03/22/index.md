@@ -3,9 +3,9 @@ Formats: [HTML](2008/03/22/index.html)  [JSON](2008/03/22/index.json)  [XML](200
 
 ## [2008-03-22](/news/2008/03/22/index.md)
 
-##### Ukraine
+##### Ukrainian
 ### [ A Ukrainian tug and a China-registered bulk carrier have collided east of the Brothers Island on the Urmston Channel in Hong Kong at night; the tug has sunk, 7 crew members on board were rescued, but the remaining 18 crew members were missing. ](/news/2008/03/22/a-ukrainian-tug-and-a-china-registered-bulk-carrier-have-collided-east-of-the-brothers-island-on-the-urmston-channel-in-hong-kong-at-night.md)
-_Context: Hong Kong, Ukraine, Urmston Channel, the Brothers_
+_Context: Hong Kong, Ukrainian, Urmston Channel, the Brothers_
 
 ##### Magdi Allam
 ### [ Magdi Allam, the most prominent Muslim in Italy, converts to Catholicism and is baptized by Pope Benedict XVI. ](/news/2008/03/22/magdi-allam-the-most-prominent-muslim-in-italy-converts-to-catholicism-and-is-baptized-by-pope-benedict-xvi.md)

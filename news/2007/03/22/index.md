@@ -15,9 +15,9 @@ _Context:  cortex, emotion, human brain, logic, moral, ventromedial prefrontal_
 ### [ Amnesty International calls on governments not to co-operate with U.S. military in trials of detainees at Guantanamo Bay. ](/news/2007/03/22/amnesty-international-calls-on-governments-not-to-co-operate-with-u-s-military-in-trials-of-detainees-at-guanta-namo-bay.md)
 _Context: Amnesty International, Guantanamo Bay, U.S. military_
 
-##### Ambassador to the United Nations
+##### United States Ambassador to the United Nations
 ### [ Former U.S. Ambassador to the United Nations John R. Bolton claims the United States deliberately resisted calls for an immediate ceasefire during the 2006 Israel-Lebanon conflict. ](/news/2007/03/22/former-u-s-ambassador-to-the-united-nations-john-r-bolton-claims-the-united-states-deliberately-resisted-calls-for-an-immediate-ceasefire.md)
-_Context: Ambassador to the United Nations, John R. Bolton, United States, ceasefire, war_
+_Context: John R. Bolton, United States, United States Ambassador to the United Nations, ceasefire, war_
 
 ##### United Nations
 ### [ United Nations Secretary-General Ban Ki-Moon is left shocked, but uninjured at a press conference with Iraqi Prime Minister Nouri Maliki in Baghdad as a nearby bomb explodes. ](/news/2007/03/22/united-nations-secretary-general-ban-ki-moon-is-left-shocked-but-uninjured-at-a-press-conference-with-iraqi-prime-minister-nouri-maliki-in.md)

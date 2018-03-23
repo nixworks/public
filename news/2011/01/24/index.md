@@ -65,7 +65,7 @@ Lima government does not recognize 1967 borders; Israel fears European countries
 
 ##### United Nations
 ### [The United Nations calls for the international community to increase support to Somalia as the country approaches the twentieth anniversary since the start of its civil war. ](/news/2011/01/24/the-united-nations-calls-for-the-international-community-to-increase-support-to-somalia-as-the-country-approaches-the-twentieth-anniversary.md)
-_Context: Somali Civil War, Somalia, United Nations, international community_
+_Context: Somali, Somali Civil War, United Nations, international community_
 
 ##### Freezing rain
 ### [Heavy snow and freezing rain fall in Southwestern China, causing roof collapses and damages to crops. ](/news/2011/01/24/heavy-snow-and-freezing-rain-fall-in-southwestern-china-causing-roof-collapses-and-damages-to-crops.md)

@@ -17,7 +17,7 @@ _Context: Government of Hong Kong, Hong Kong, Occupy Central with Love and Peace
 
 ##### KGB
 ### [The local KGB in Minsk arrests about 100 Ukrainian and 30 Belarusian soccer fans at a qualifying match between Ukraine and Belarus for the 2016 European Championship after they a sang the song, Putin-Huilo! (which roughly translates as "Putin is a dickhead!"). ](/news/2014/10/10/the-local-kgb-in-minsk-arrests-about-100-ukrainian-and-30-belarusian-soccer-fans-at-a-qualifying-match-between-ukraine-and-belarus-for-the-2.md)
-_Context: 2016 European Championship, Belarus, KGB, Minsk, Ukraine, Vladimir Putin_
+_Context: 2016 European Championship, Belarus, KGB, Minsk, Ukrainian, Vladimir Putin_
 
 ##### Pakistan
 ### [Pakistani child education activist Malala Yousafzai and Indian children's rights advocate Kailash Satyarthi share the 2014 Nobel Peace Prize. ](/news/2014/10/10/pakistani-child-education-activist-malala-yousafzai-and-indian-children-s-rights-advocate-kailash-satyarthi-share-the-2014-nobel-peace-prize.md)

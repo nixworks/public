@@ -37,11 +37,11 @@ _Context: George Athor, South Sudan_
 
 ##### Russia
 ### [Russia and Turkey sign a $20 billion deal permitting Moscow to build and own a controlling stake in Ankara's first nuclear power plant. ](/news/2010/05/12/russia-and-turkey-sign-a-20-billion-deal-permitting-moscow-to-build-and-own-a-controlling-stake-in-ankara-s-first-nuclear-power-plant.md)
-_Context: Ankara, Moscow, Russia, Turkish_
+_Context: Ankara, Moscow, Russia, Turkey_
 
 ##### International Committee of the Red Cross
 ### [The International Committee of the Red Cross confirms reports of a second, secret US prison at Bagram Air Base in Afghanistan after new allegations of torture. ](/news/2010/05/12/the-international-committee-of-the-red-cross-confirms-reports-of-a-second-secret-us-prison-at-bagram-air-base-in-afghanistan-after-new-alle.md)
-_Context: Afghanistan, Bagram Air Base, International Committee of the Red Cross_
+_Context: Afghan, Bagram Air Base, International Committee of the Red Cross_
 
 ##### Morocco
 ### [Airports in Morocco, Spain and Portugal reopen after days of Icelandic volcanic disruption. ](/news/2010/05/12/airports-in-morocco-spain-and-portugal-reopen-after-days-of-icelandic-volcanic-disruption.md)

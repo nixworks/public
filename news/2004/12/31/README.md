@@ -23,9 +23,9 @@ _Context: 2004 Indian Ocean earthquake, Indonesia, Malaysia_
 ### [ Taipei 101, the world's tallest skyscraper, is officially opened by Taiwanese President Chen Shui-bian. ](/news/2004/12/31/taipei-101-the-world-s-tallest-skyscraper-is-officially-opened-by-taiwanese-president-chen-shui-bian.md)
 _Context: Chen Shui-bian, President, Taipei 101, Taiwan_
 
-##### Ukraine
+##### Ukrainian
 ### [ Ukraine's Viktor Yanukovych resigns from his post as Prime Minister. ](/news/2004/12/31/ukraine-s-viktor-yanukovych-resigns-from-his-post-as-prime-minister.md)
-_Context: Ukraine, Viktor Yanukovych_
+_Context: Ukrainian, Viktor Yanukovych_
 
 ##### Colombia
 ### [ Colombia extradites FARC leader Simon Trinidad to the United States to face conspiracy, kidnapping, and drug trafficking charges. ](/news/2004/12/31/colombia-extradites-farc-leader-sima3n-trinidad-to-the-united-states-to-face-conspiracy-kidnapping-and-drug-trafficking-charges.md)

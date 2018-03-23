@@ -27,7 +27,7 @@ Charges for those allegedly involved in failed July military coup range from mur
 ### [Twelve people are injured, four critically, after an SUV hits the Gulf Shores High School Band during the Gulf Shores, Alabama, Mardi Gras parade. The vehicle, in the parade behind the band, accelerated when the 73-year-old driver's foot slipped off the brake pedal onto the gas. ](/news/2017/02/28/twelve-people-are-injured-four-critically-after-an-suv-hits-the-gulf-shores-high-school-band-during-the-gulf-shores-alabama-mardi-gras-p.md)
 A vehicle struck members of a high school marching band during the Mardi Gras parade in Gulf Shores, Alabama. Four teenagers were critically injured, and the parade has been canceled.
 
-##### French President
+##### President of France
 ### [A police sniper accidentally fires his weapon while changing position and injures two people during a speech by French President Francois Hollande in Villognon. ](/news/2017/02/28/a-police-sniper-accidentally-fires-his-weapon-while-changing-position-and-injures-two-people-during-a-speech-by-french-president-franassois-h.md)
 The shot was fired as a police sniper shifted position on a roof about 100m from Mr Hollande.
 

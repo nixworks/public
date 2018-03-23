@@ -13,7 +13,7 @@ _Context: Reserve Bank of Australia, interest rates_
 
 ##### Membership Action Plan
 ### [ NATO member countries decide not to offer MAP to Georgia and Ukraine, the war in South Ossetia and the Ukrainian government collapse being the main reasons.](/news/2008/12/2/nato-member-countries-decide-not-to-offer-map-to-georgia-and-ukraine-the-war-in-south-ossetia-and-the-ukrainian-government-collapse-being.md)
-_Context:  Georgian, Membership Action Plan, South Ossetia, Ukraine, the Ukrainian government collapse, the war_
+_Context:  Georgian, Membership Action Plan, South Ossetia, Ukrainian, the Ukrainian government collapse, the war_
 
 ##### 2008 cholera outbreak
 ### [ The 2008 Zimbabwean cholera outbreak has claimed 425 lives and affected 10,000 people since August 2008. ](/news/2008/12/2/the-2008-zimbabwean-cholera-outbreak-has-claimed-425-lives-and-affected-10-000-people-since-august-2008.md)

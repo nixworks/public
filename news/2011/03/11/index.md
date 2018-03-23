@@ -17,7 +17,7 @@ _Context: UNASUR Constitutive Treaty, Union of South American Nations, into forc
 
 ##### Blackwater Worldwide
 ### [Two ex-Blackwater consultants are found guilty in the United States of the involuntary manslaughter of a civilian in the Afghan capital Kabul. ](/news/2011/03/11/two-ex-blackwater-consultants-are-found-guilty-in-the-united-states-of-the-involuntary-manslaughter-of-a-civilian-in-the-afghan-capital-kabu.md)
-_Context: Afghanistan, Blackwater Worldwide, Kabul, United States, manslaughter by gross negligence_
+_Context: Afghan, Blackwater Worldwide, Kabul, United States, manslaughter by gross negligence_
 
 ##### United States magistrate judge
 ### [A U.S. federal magistrate rules that prosecutors can demand Twitter account information in relation to Wikileaks. ](/news/2011/03/11/a-u-s-federal-magistrate-rules-that-prosecutors-can-demand-twitter-account-information-in-relation-to-wikileaks.md)

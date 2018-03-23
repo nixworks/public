@@ -25,7 +25,7 @@ A strong earthquake that hit a sparsely populated, mountainous area of western C
 
 ##### War in Somalia (2009-present)
 ### [Kenyan security forces cross into Somalia and kill 100 members of Al-Shabaab in response to the terrorist group hijacking a bus and killing 28 people. ](/news/2014/11/23/kenyan-security-forces-cross-into-somalia-and-kill-100-members-of-al-shabaab-in-response-to-the-terrorist-group-hijacking-a-bus-and-killing.md)
-_Context: Kenyan army forces, Somalia, War in Somalia (2009-present), al-Shabab_
+_Context: Kenyan army forces, Somali, War in Somalia (2009-present), al-Shabab_
 
 ##### Boko Haram
 ### [Boko Haram militants kill 48 fish traders near the border with Chad. ](/news/2014/11/23/boko-haram-militants-kill-48-fish-traders-near-the-border-with-chad.md)

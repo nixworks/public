@@ -41,7 +41,7 @@ _Context: 5 January, East Turkestan Islamic Movement, Pamir Plateau, a raid_
 
 ##### Russia
 ### [ Russian oil supplies to Poland, Germany, and Ukraine are cut as the Russia-Belarus energy dispute escalates. ](/news/2007/01/8/russian-oil-supplies-to-poland-germany-and-ukraine-are-cut-as-the-russia-belarus-energy-dispute-escalates.md)
-_Context: Belarus, German, Poland, Russia, Ukraine, energy dispute_
+_Context: Belarus, German, Poland, Russia, Ukrainian, energy dispute_
 
 ##### Manhattan
 ### [ An unknown odor persists in Manhattan, New York and Jersey City, New Jersey throughout much of the day, resulting in the evacuation of several high-rise buildings and the temporary shutdown of PATH train service under the Hudson River. ](/news/2007/01/8/an-unknown-odor-persists-in-manhattan-new-york-and-jersey-city-new-jersey-throughout-much-of-the-day-resulting-in-the-evacuation-of-seve.md)

@@ -7,7 +7,7 @@ Formats: [HTML](2015/09/5/index.html)  [JSON](2015/09/5/index.json)  [XML](2015/
 ### [Former vice president Annette Lu of Taiwan files charges of treason against former vice president Lien Chan, accusing him of breaching national security when he attended the 2015 China Victory Day Parade. ](/news/2015/09/5/former-vice-president-annette-lu-of-taiwan-files-charges-of-treason-against-former-vice-president-lien-chan-accusing-him-of-breaching-natio.md)
 Former vice president Annette Lu (呂秀蓮) and a lawmaker yesterday filed separate charges of treason against former vice president Lien Chan (連戰), accusing him of breaching national security by attending a Chinese military parade marking the end of World War II in Beijing on Thursday.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Following Austria's and Germany's decision to waive their asylum system rules, approximately 6,500 migrants - mostly from Syria, Iraq, and Afghanistan - arrive in Vienna. They traveled from Hungary by bus, train or on foot. The migrants were given the opportunity to register in Austria or move on to Germany. ](/news/2015/09/5/following-austria-s-and-germany-s-decision-to-waive-their-asylum-system-rules-approximately-6-500-migrants-a-mostly-from-syria-iraq-and.md)
 The refugees had crossed from Hungary into Austria earlier Saturday as more migrants followed from Budapest.
 

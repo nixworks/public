@@ -9,7 +9,7 @@ _Context: Dario Cologna, Norwegian, Swiss, cross-country skiers, men's 15km free
 
 ##### NATO
 ### [A joint NATO and Afghan military operation is succeeding in pushing Taliban fighters from their strongholds in Helmand province. ](/news/2010/02/15/a-joint-nato-and-afghan-military-operation-is-succeeding-in-pushing-taliban-fighters-from-their-strongholds-in-helmand-province.md)
-_Context: Afghanistan, Helmand, NATO, Taliban_
+_Context: Afghan, Helmand, NATO, Taliban_
 
 ##### Cyclone Rene
 ### [Cyclone Rene hammers Tonga with gusts of 160 kilometres an hour, isolating Tongans for several days. Widespread damage is reported in the capital, Nuku`alofa, and contact is lost with the northern island of Vava`u. ](/news/2010/02/15/cyclone-rene-hammers-tonga-with-gusts-of-160-kilometres-an-hour-isolating-tongans-for-several-days-widespread-damage-is-reported-in-the-ca.md)
@@ -39,9 +39,9 @@ _Context: Kenya, Mwai Kibaki, Raila Odinga_
 ### [A Naxalite attack on an army camp in West Bengal kills 24 Indian soldiers, with many more reported missing. ](/news/2010/02/15/a-naxalite-attack-on-an-army-camp-in-west-bengal-kills-24-indian-soldiers-with-many-more-reported-missing.md)
 _Context: India, Naxalite, attack on an army camp_
 
-##### Somalia
+##### Somali
 ### [Somalia's state minister for defence Yusuf Mohammed Siad survives an attempt on his life from a suicide bomber in Mogadishu. ](/news/2010/02/15/somalia-s-state-minister-for-defence-yusuf-mohammed-siad-survives-an-attempt-on-his-life-from-a-suicide-bomber-in-mogadishu.md)
-_Context: Mogadishu, Somalia, Yusuf Mohammed Siad_
+_Context: Mogadishu, Somali, Yusuf Mohammed Siad_
 
 ##### Aitutaki
 ### [Aid flights arrive on the island of Aitutaki, Cook Islands, where 90% of structures were damaged or destroyed by Cyclone Pat last week. ](/news/2010/02/15/aid-flights-arrive-on-the-island-of-aitutaki-cook-islands-where-90-of-structures-were-damaged-or-destroyed-by-cyclone-pat-last-week.md)

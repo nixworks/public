@@ -57,7 +57,7 @@ _Context: Guadalajara, Jalisco, Mexican state, Mexico, Nayarit, Phoenix, Arizona
 
 ##### Washington Post
 ### [ The "Washington Post" reports that the NATO-led Coalition Force in Afghanistan intercepted a shipment of Iranian arms intended for the Taliban. ](/news/2007/09/15/the-washington-post-reports-that-the-nato-led-coalition-force-in-afghanistan-intercepted-a-shipment-of-iranian-arms-intended-for-the-tali.md)
-_Context: Afghanistan, Iran, NATO, Taliban, Washington Post_
+_Context: Afghan, Iran, NATO, Taliban, Washington Post_
 
 ##### Wildfire
 ### [ Wildfires force the evacuation of thousands of residents of San Bernardino and San Diego Counties in the U.S. state of California. ](/news/2007/09/15/wildfires-force-the-evacuation-of-thousands-of-residents-of-san-bernardino-and-san-diego-counties-in-the-u-s-state-of-california.md)

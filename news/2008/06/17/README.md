@@ -31,9 +31,9 @@ _Context: UNHCR, refugee_
 ### [ A military judge dismisses charges against a United States Marine Corps colonel of failing to investigate the Haditha killings. ](/news/2008/06/17/a-military-judge-dismisses-charges-against-a-united-states-marine-corps-colonel-of-failing-to-investigate-the-haditha-killings.md)
 _Context: Haditha killings, Marine, military judge_
 
-##### French President
+##### President of France
 ### [ President Nicolas Sarkozy announces that France intends to return to the military structure of NATO for the first time since Charles de Gaulle led it out of the organisation in 1966. ](/news/2008/06/17/president-nicolas-sarkozy-announces-that-france-intends-to-return-to-the-military-structure-of-nato-for-the-first-time-since-charles-de-gau.md)
-_Context: 1966, Charles de Gaulle, France, French President, NATO, Nicolas Sarkozy_
+_Context: 1966, Charles de Gaulle, France, NATO, Nicolas Sarkozy, President of France_
 
 ##### Boston Celtics
 ### [ The Boston Celtics defeat the Los Angeles Lakers to win the 2008 NBA Finals. ](/news/2008/06/17/the-boston-celtics-defeat-the-los-angeles-lakers-to-win-the-2008-nba-finals.md)

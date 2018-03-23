@@ -57,7 +57,7 @@ _Context: Domodedovo International Airport bombing, Ingushetia, Russia_
 
 ##### Car bomb
 ### [A car bomb attack on a construction company in Afghanistan's Paktika Province kills at least 13 people and injures another fifty. ](/news/2011/03/28/a-car-bomb-attack-on-a-construction-company-in-afghanistan-s-paktika-province-kills-at-least-13-people-and-injures-another-fifty.md)
-_Context: Afghanistan, Paktika Province, car bomb_
+_Context: Afghan, Paktika Province, car bomb_
 
 ##### Alassane Ouattara
 ### [Rebel forces loyal to presidential claimant Alassane Ouattara seize the town of Duekoue in western Cote d'Ivoire from government forces. ](/news/2011/03/28/rebel-forces-loyal-to-presidential-claimant-alassane-ouattara-seize-the-town-of-dua-c-koua-c-in-western-ca-te-d-ivoire-from-government-forces.md)

@@ -17,7 +17,7 @@ A family of three young Muslims has been shot dead in their home in a quiet neig
 
 ##### War in Donbass
 ### [Leaders from Germany, France, Russia and Ukraine meet in the Belarusian capital Minsk for peace talks. ](/news/2015/02/11/leaders-from-germany-france-russia-and-ukraine-meet-in-the-belarusian-capital-minsk-for-peace-talks.md)
-_Context: Belarus, France, German, Minsk, Russia, Ukraine, War in Donbass_
+_Context: Belarus, France, German, Minsk, Russia, Ukrainian, War in Donbass_
 
 ##### General Secretary of the Communist Party of China
 ### [General Secretary of the Central Committee of the Communist Party of China Xi Jinping will make his first state visit to the United States next September. ](/news/2015/02/11/general-secretary-of-the-central-committee-of-the-communist-party-of-china-xi-jinping-will-make-his-first-state-visit-to-the-united-states-n.md)
@@ -35,9 +35,9 @@ Costa Concordia captain Francesco Schettino is jailed for 16 years for the mansl
 ### [A 106-car pileup occurs on Yeongjong Bridge in Incheon, South Korea, leaving two men dead and more than 65 people injured. ](/news/2015/02/11/a-106-car-pileup-occurs-on-yeongjong-bridge-in-incheon-south-korea-leaving-two-men-dead-and-more-than-65-people-injured.md)
 A pile-up involving 100 cars on a bridge leading to Incheon airport in South Korea leaves at least two people dead.
 
-##### Cypriot
+##### Cyprus
 ### [The Greek Coast Guard rescues all 22 crewmen from a Cyprus-flagged vessel "Good Faith" that ran aground on the Greek island of Andros during a storm in the Aegean Sea. ](/news/2015/02/11/the-greek-coast-guard-rescues-all-22-crewmen-from-a-cyprus-flagged-vessel-good-faith-that-ran-aground-on-the-greek-island-of-andros-during.md)
-_Context: Aegean Sea, Andros, Cypriot, Greek_
+_Context: Aegean Sea, Andros, Cyprus, Greek_
 
 ##### Rite Aid
 ### [Rite Aid, one of the largest chains of pharmacies in the United States, announces that it is purchasing EnvisionRx, a pharmacy benefits manager, from TPG Capital, for $2 billion. ](/news/2015/02/11/rite-aid-one-of-the-largest-chains-of-pharmacies-in-the-united-states-announces-that-it-is-purchasing-envisionrx-a-pharmacy-benefits-mana.md)

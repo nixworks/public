@@ -21,7 +21,7 @@ _Context: 2005, Blaise Compaor, Burkina Faso presidential elections_
 
 ##### Hakkri
 ### [ 1 person is killed, and 15 are injured in Hakkri, Hakkari Province, Turkey during fighting between Turkish police and Kurdish PKK rebels. ](/news/2005/11/16/1-person-is-killed-and-15-are-injured-in-hakkari-hakkari-province-turkey-during-fighting-between-turkish-police-and-kurdish-pkk-rebels.md)
-_Context: Hakkari Province, Hakkri, Kurdish, PKK, Turkish_
+_Context: Hakkari Province, Hakkri, Kurdish, PKK, Turkey_
 
 ## [Previous Day...](/news/2005/11/15/index.md)
 

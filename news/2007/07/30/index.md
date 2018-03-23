@@ -31,9 +31,9 @@ An Afghan governor pleaded Monday with the Taliban to extend a deadline for the 
 ### [ A 15th village in the Czech Republic rejects by referendum the US plan to place anti-ballistic missiles at a nearby military base. The vote was 97% against the plan, however, the vote is non-binding on the national government. ](/news/2007/07/30/a-15th-village-in-the-czech-republic-rejects-by-referendum-the-us-plan-to-place-anti-ballistic-missiles-at-a-nearby-military-base-the-vote.md)
 _Context: Czech Republic, US, ballistic missile_
 
-##### Islam
+##### Muslim
 ### [ Islamic militants occupy a shrine in a tribal area of Pakistan and name it after the Lal Masjid in Islamabad recently stormed by the Pakistan army. ](/news/2007/07/30/islamic-militants-occupy-a-shrine-in-a-tribal-area-of-pakistan-and-name-it-after-the-lal-masjid-in-islamabad-recently-stormed-by-the-pakist.md)
-_Context: Islam, Islamabad, Lal Masjid, Pakistan, shrine, tribal area_
+_Context: Islamabad, Lal Masjid, Muslim, Pakistan, shrine, tribal area_
 
 ##### U.S. President
 ### [ The President of the United States George W. Bush and the Prime Minister of the United Kingdom Gordon Brown pledge to continue close relations in their first meeting. ](/news/2007/07/30/the-president-of-the-united-states-george-w-bush-and-the-prime-minister-of-the-united-kingdom-gordon-brown-pledge-to-continue-close-relati.md)
@@ -61,7 +61,7 @@ U.S. Secretary of State Condoleezza Rice and Defense Secretary Robert Gates head
 
 ##### FBI
 ### [ Agents from the Federal Bureau of Investigation and Internal Revenue Service search the house of Senator Ted Stevens in Girdwood, Alaska. ](/news/2007/07/30/agents-from-the-federal-bureau-of-investigation-and-internal-revenue-service-search-the-house-of-senator-ted-stevens-in-girdwood-alaska.md)
-_Context: FBI, Girdwood, Alaska, Internal Revenue Service, Ted Stevens, United States Senate_
+_Context: FBI, Girdwood, Alaska, Internal Revenue Service, Senate, Ted Stevens_
 
 ##### Juan Manuel Santos
 ### [ Juan Manuel Santos, the Defense Minister of Colombia, claims that the military has been infiltrated by FARC and drug gangs. ](/news/2007/07/30/juan-manuel-santos-the-defense-minister-of-colombia-claims-that-the-military-has-been-infiltrated-by-farc-and-drug-gangs.md)

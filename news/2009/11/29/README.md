@@ -13,7 +13,7 @@ Latest environmental news, features and updates. Pictures, video and more.
 
 ##### United States
 ### [ A United States Senate report states that Osama bin Laden was "within grasp" of the United States Army in Tora Bora in December 2001. ](/news/2009/11/29/a-united-states-senate-report-states-that-osama-bin-laden-was-within-grasp-of-the-united-states-army-in-tora-bora-in-december-2001.md)
-_Context: Osama bin Laden, Tora Bora, United States, United States Senate, United States soldier, within grasp_
+_Context: Osama bin Laden, Senate, Tora Bora, United States, United States soldier, within grasp_
 
 ##### Equatorial Guinea
 ### [ Voters in Equatorial Guinea take part in a presidential election. ](/news/2009/11/29/voters-in-equatorial-guinea-take-part-in-a-presidential-election.md)
@@ -81,7 +81,7 @@ _Context: Commonwealth of Nations, Fiji, Government of Fiji, democratic, urges_
 
 ##### Somali pirates
 ### [ Somali pirates capture the Greek owned oil tanker "Maran Centaurus" 1,300 kilometres off the coast of Somalia. ](/news/2009/11/29/somali-pirates-capture-the-greek-owned-oil-tanker-maran-centaurus-1-300-kilometres-off-the-coast-of-somalia.md)
-_Context: Greece, Somali pirates, Somalia, oil tanker_
+_Context: Greece, Somali, Somali pirates, oil tanker_
 
 ##### Nepal
 ### [ Nepal announces it will hold a cabinet meeting on Mount Everest to highlight the effect of global warming on glaciers. ](/news/2009/11/29/nepal-announces-it-will-hold-a-cabinet-meeting-on-mount-everest-to-highlight-the-effect-of-global-warming-on-glaciers.md)

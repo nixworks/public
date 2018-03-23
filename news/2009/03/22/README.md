@@ -3,7 +3,7 @@ Formats: [HTML](2009/03/22/index.html)  [JSON](2009/03/22/index.json)  [XML](200
 
 ## [2009-03-22](/news/2009/03/22/index.md)
 
-##### Somalia
+##### Somali
 ### [ Somali pirates release the Indian cargo ship "Al Rafiquei" one day after hijacking it. ](/news/2009/03/22/somali-pirates-release-the-indian-cargo-ship-al-rafiquei-one-day-after-hijacking-it.md)
 All the 16 Indian sailors on board a hijacked vessel off Somalian coast have been released and are safe, the directorate general of shipping said.
 

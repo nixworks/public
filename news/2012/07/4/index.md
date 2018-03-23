@@ -23,7 +23,7 @@ _Context: Anti-Counterfeiting Trade Agreement, European Parliament_
 ### [The Chinese city of Shifang cancels the planned development of a copper plant after thousands of people demonstrated. ](/news/2012/07/4/the-chinese-city-of-shifang-cancels-the-planned-development-of-a-copper-plant-after-thousands-of-people-demonstrated.md)
 _Context: Shifang, copper_
 
-##### Ukraine
+##### Ukrainian
 ### [Hundreds of protesters clash with police in the Ukrainian capital Kiev and the parliament speaker offers to resign over moves to boost the status of the Russian language in the country. ](/news/2012/07/4/hundreds-of-protesters-clash-with-police-in-the-ukrainian-capital-kiev-and-the-parliament-speaker-offers-to-resign-over-moves-to-boost-the-s.md)
 Hundreds clash with police in central Kiev and parliament speaker offers to resign amid row over language decision.
 
@@ -73,7 +73,7 @@ A man shot dead four people including his partner before killing himself in a si
 
 ##### Bashar al Assad
 ### [Syrian President Bashar al Assad accuses neighboring Turkey of supporting "terrorists" and contributing to the bloodshed in Syria. ](/news/2012/07/4/syrian-president-bashar-al-assad-accuses-neighboring-turkey-of-supporting-terrorists-and-contributing-to-the-bloodshed-in-syria.md)
-_Context: Bashar al Assad, Syria, Turkish_
+_Context: Bashar al Assad, Syria, Turkey_
 
 ## [Previous Day...](/news/2012/07/3/index.md)
 

@@ -31,7 +31,7 @@ Pope Francis called on Wednesday for ethnic and religious reconciliation at the 
 ### [A one-year old baby girl with an apparently incurable illness, who was kissed by Pope Francis during his visit to Philadelphia in September, gets MRI results showing her brain tumor has shrunk significantly. Some friends and family call it the "Miracle on Market Street." ](/news/2015/11/25/a-one-year-old-baby-girl-with-an-apparently-incurable-illness-who-was-kissed-by-pope-francis-during-his-visit-to-philadelphia-in-september.md)
 Joey Masciantonio vividly remembers the moment his baby daughter Gianna met Pope Francis because it almost never happened.
 
-##### Ukraine
+##### Ukrainian
 ### [Ukraine bans all Russian planes from using its airspace. ](/news/2015/11/25/ukraine-bans-all-russian-planes-from-using-its-airspace.md)
 Ukraine bans all Russian planes from using its airspace as Russian state-controlled energy giant Gazprom stops delivering gas to its neighbour.
 
@@ -57,7 +57,7 @@ Former first lady known for her love of shoes also had collection of jewellery t
 
 ##### War in Afghanistan (2015-present)
 ### [Several American personnel are suspended after an official report finds that human error was to blame for an airstrike on a Doctors without Borders hospital in the Afghan city of Kunduz in October that killed 30 people. No criminal charges were filed. ](/news/2015/11/25/several-american-personnel-are-suspended-after-an-official-report-finds-that-human-error-was-to-blame-for-an-airstrike-on-a-doctors-without.md)
-_Context: Afghanistan, American, Doctors without Borders, Kunduz, Kunduz hospital airstrike, War in Afghanistan (2015-present)_
+_Context: Afghan, American, Doctors without Borders, Kunduz, Kunduz hospital airstrike, War in Afghanistan (2015-present)_
 
 ##### November 2015 Paris attacks
 ### [The French Senate votes 325-0 to extend the fight against the Islamic State of Iraq and the Levant. ](/news/2015/11/25/the-french-senate-votes-325-0-to-extend-the-fight-against-the-islamic-state-of-iraq-and-the-levant.md)

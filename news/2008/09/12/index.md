@@ -17,7 +17,7 @@ _Context: Helen Clark, New Zealand Prime Minister, November 8, election_
 
 ##### United States
 ### [ The United States-led coalition claims to kill at least 10 militants in fighting in Afghanistan. ](/news/2008/09/12/the-united-states-led-coalition-claims-to-kill-at-least-10-militants-in-fighting-in-afghanistan.md)
-_Context: Afghanistan, United States_
+_Context: Afghan, United States_
 
 ##### Malaysia
 ### [ The Malaysian government arrests the editor and prominent blogger activist Raja Petra Kamarudin of the Malaysia Today website, a journalist from Sin Chew Jit Poh and opposition politician Teresa Kok under the Internal Security Act. ](/news/2008/09/12/the-malaysian-government-arrests-the-editor-and-prominent-blogger-activist-raja-petra-kamarudin-of-the-malaysia-today-website-a-journalist.md)

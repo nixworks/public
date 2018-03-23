@@ -59,9 +59,9 @@ Explosions rip through Homs and Damascus suburb as world leaders attempt to get 
 ### [Germany is considering sending troops to Tunisia to help train the Tunisian Army in the fight against Islamist militants, particularly ISIL who control territory in neighboring Libya. ](/news/2016/02/21/germany-is-considering-sending-troops-to-tunisia-to-help-train-the-tunisian-army-in-the-fight-against-islamist-militants-particularly-isil.md)
 _Context: German, ISIL, Insurgency in the Maghreb (2002-present), Islamists, Libya, Tunisia, army_
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Greece claims that Macedonia has closed its borders to migrants from Afghanistan. ](/news/2016/02/21/greece-claims-that-macedonia-has-closed-its-borders-to-migrants-from-afghanistan.md)
-_Context: Afghanistan, European migrant crisis, Greece, Republic of Macedonia_
+_Context: Afghan, Greece, Republic of Macedonia, refugee immigration to Germany_
 
 ##### 2015-16 South Pacific cyclone season
 ### [At least five people are reported dead and entire villages have been flattened after Cyclone Winston hits Fiji. ](/news/2016/02/21/at-least-five-people-are-reported-dead-and-entire-villages-have-been-flattened-after-cyclone-winston-hits-fiji.md)

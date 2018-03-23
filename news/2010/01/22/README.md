@@ -23,9 +23,9 @@ _Context: Colombo, Sri Lanka, presidential election_
 ### [A security alert is issued at all of India's airports after intelligence reports of a plot to hijack an Indian plane. ](/news/2010/01/22/a-security-alert-is-issued-at-all-of-india-s-airports-after-intelligence-reports-of-a-plot-to-hijack-an-indian-plane.md)
 Authorities raise alert level after intelligence reports of plot to hijack plane.
 
-##### Turkish
+##### Turkey
 ### [Turkish police arrest 120 suspects in a major anti-terrorism operation against Al-Qaeda. ](/news/2010/01/22/turkish-police-arrest-120-suspects-in-a-major-anti-terrorism-operation-against-al-qaeda.md)
-_Context: Turkish, Turkish police, al-Qaeda, anti-terrorism_
+_Context: Turkey, Turkish police, al-Qaeda, anti-terrorism_
 
 ##### Supreme Court
 ### [The Supreme Court of Nigeria gives the government 14 days to decide whether ailing President Umaru Yar'Adua is fit to rule the country. ](/news/2010/01/22/the-supreme-court-of-nigeria-gives-the-government-14-days-to-decide-whether-ailing-president-umaru-yar-adua-is-fit-to-rule-the-country.md)

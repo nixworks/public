@@ -29,7 +29,7 @@ _Context: European Central Bank, Eurozone, inflation, interest rates_
 
 ##### United States military
 ### [ The Pentagon extends the tour of duty of the 24th Marine Expeditionary Unit in Afghanistan. ](/news/2008/07/3/the-pentagon-extends-the-tour-of-duty-of-the-24th-marine-expeditionary-unit-in-afghanistan.md)
-_Context: 24th Marine Expeditionary Unit, Afghanistan, United States military, tour of duty_
+_Context: 24th Marine Expeditionary Unit, Afghan, United States military, tour of duty_
 
 ## [Previous Day...](/news/2008/07/2/index.md)
 

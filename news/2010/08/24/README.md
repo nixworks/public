@@ -49,15 +49,15 @@ Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, c
 
 ##### Lance-corporal
 ### [A lance-corporal in the Australian Army is killed in fighting with the Taliban in Afghanistan's Oruzgan province. ](/news/2010/08/24/a-lance-corporal-in-the-australian-army-is-killed-in-fighting-with-the-taliban-in-afghanistan-s-oruzgan-province.md)
-_Context: Afghanistan, Oruzgan province, Taliban, lance-corporal, soldiers_
+_Context: Afghan, Oruzgan province, Taliban, lance-corporal, soldiers_
 
 ##### Rwanda
 ### [Foreign human rights groups accuse Rwandan and Congolese rebels of gang-raping nearly 200 women and some baby boys over four days within miles of a U.N. peacekeepers' base in the village of Bunangiri, North Kivu province, Democratic Republic of the Congo. ](/news/2010/08/24/foreign-human-rights-groups-accuse-rwandan-and-congolese-rebels-of-gang-raping-nearly-200-women-and-some-baby-boys-over-four-days-within-mil.md)
 Aid groups say up to 200 women were raped in four days near a UN peacekeeping base.
 
-##### Al-Shabaab
+##### Al-Shabab
 ### [Al-Shabaab militants storm the Hotel Muna, close to the Presidential palace Villa Somalia in Mogadishu, killing at least 33 people including several MPs. ](/news/2010/08/24/al-shabaab-militants-storm-the-hotel-muna-close-to-the-presidential-palace-villa-somalia-in-mogadishu-killing-at-least-33-people-including.md)
-_Context: Al-Shabaab, MPs, President, presidential palace, storm the Hotel Muna_
+_Context: Al-Shabab, MPs, President, presidential palace, storm the Hotel Muna_
 
 ##### Catalan
 ### [Two Catalonian aid workers kidnapped in Mauritania by Al-Qaeda Organization in the Islamic Maghreb return home. ](/news/2010/08/24/two-catalonian-aid-workers-kidnapped-in-mauritania-by-al-qaeda-organization-in-the-islamic-maghreb-return-home.md)

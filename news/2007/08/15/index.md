@@ -57,7 +57,7 @@ _Context: 2007 presidential election, Kenya, ODM-Kenya_
 
 ##### Ali Mohammed Ghedi
 ### [ Ali Mohammed Ghedi, the interim Prime Minister of Somalia, says he plans to create a Green Zone in Mogadishu and criticizes the United Nations for giving "so much emphasis on Darfur and not to Somalia". ](/news/2007/08/15/ali-mohammed-ghedi-the-interim-prime-minister-of-somalia-says-he-plans-to-create-a-green-zone-in-mogadishu-and-criticizes-the-united-nati.md)
-_Context: Ali Mohammed Ghedi, Darfur, Green Zone, Mogadishu, Prime Minister of Somalia, Somalia, United Nations_
+_Context: Ali Mohammed Ghedi, Darfur, Green Zone, Mogadishu, Prime Minister of Somalia, Somali, United Nations_
 
 ##### Cristina Fernandez de Kirchner
 ### [ Cristina Fernandez de Kirchner, Argentinian presidential candidate, presents Julio Cobos as her running mate. ](/news/2007/08/15/cristina-ferna-ndez-de-kirchner-argentinian-presidential-candidate-presents-julio-cobos-as-her-running-mate.md)

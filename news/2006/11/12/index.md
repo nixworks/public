@@ -17,7 +17,7 @@ _Context: 2003 Protocol on Explosive Remnants of War, cluster bomb_
 
 ##### Somali Civil War
 ### [ Somali Civil War (2006-present): Heavy fighting broke out in central Somalia, officials said, a day after the transitional government rejected a peace initiative with the country's Islamic movement. ](/news/2006/11/12/somali-civil-war-2006-present-heavy-fighting-broke-out-in-central-somalia-officials-said-a-day-after-the-transitional-government-rejec.md)
-_Context: Somali Civil War, Somalia_
+_Context: Somali, Somali Civil War_
 
 ##### The nation's nuclear program
 ### [ Iranian nuclear program: Israel threatens to launch air strikes on Iran's nuclear facilities "as a last resort", and the Iranian foreign ministry responds that it would "retaliate with a crushing blow" should Israel act. ](/news/2006/11/12/iranian-nuclear-program-israel-threatens-to-launch-air-strikes-on-iran-s-nuclear-facilities-as-a-last-resort-and-the-iranian-foreign-mi.md)

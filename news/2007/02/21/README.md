@@ -5,7 +5,7 @@ Formats: [HTML](2007/02/21/index.html)  [JSON](2007/02/21/index.json)  [XML](200
 
 ##### Apartment building
 ### [ At least five people die as an apartment building collapses in Istanbul, Turkey. ](/news/2007/02/21/at-least-five-people-die-as-an-apartment-building-collapses-in-istanbul-turkey.md)
-_Context: Istanbul, Turkish, apartment building_
+_Context: Istanbul, Turkey, apartment building_
 
 ##### U.K.
 ### [ British Prime Minister Tony Blair announces that 1,500 British troops will leave Iraq within weeks with another 1,500 by the end of the year. ](/news/2007/02/21/british-prime-minister-tony-blair-announces-that-1-500-british-troops-will-leave-iraq-within-weeks-with-another-1-500-by-the-end-of-the-yea.md)

@@ -35,7 +35,7 @@ _Context: Bitcoin, Japan, Mark Karpeles, Mt. Gox, embezzlement_
 ### [Defense lawyers say the United States continues to block the release of 116 pages of the lawyers' notes detailing the torture that Guantanimo Bay prisoner Abu Zubaydah says he experienced in CIA custody. Zubaydah has yet to be charged with any crime despite being held since 2002. ](/news/2015/09/11/defense-lawyers-say-the-united-states-continues-to-block-the-release-of-116-pages-of-the-lawyers-notes-detailing-the-torture-that-guantanim.md)
 Notes detailing torture of Guantanamo Bay detainee Abu Zubaydah while in CIA custody, remain classified.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Foreign ministers from Czech Republic, Hungary, Poland and Slovakia meet with officials from the European Union and Germany to discuss differences over migrant quotas. ](/news/2015/09/11/foreign-ministers-from-czech-republic-hungary-poland-and-slovakia-meet-with-officials-from-the-european-union-and-germany-to-discuss-diffe.md)
 Footage emerges of migrants being thrown bags of food at a Hungarian camp near the border with Serbia, amid criticism over their treatment.
 

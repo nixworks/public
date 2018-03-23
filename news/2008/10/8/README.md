@@ -31,7 +31,7 @@ _Context: Beirut, Lebanese, United States, embassy, journalist_
 ### [ Former South African Defence Minister Mosiuoa Lekota says that it is "inevitable" that South Africa's ruling African National Congress (ANC) will split. ](/news/2008/10/8/former-south-african-defence-minister-mosiuoa-lekota-says-that-it-is-inevitable-that-south-africa-s-ruling-african-national-congress-anc.md)
 _Context: African National Congress, Mosiuoa Lekota, South Africa_
 
-##### Ukraine
+##### Ukrainian
 ### [ Ukrainian President Viktor Yushchenko dissolves Parliament and calls an early election. ](/news/2008/10/8/ukrainian-president-viktor-yushchenko-dissolves-parliament-and-calls-an-early-election.md)
 Ukrainian President Viktor Yushchenko on Wednesday abandoned the search for a coalition to take over from the current &quot;orange&quot; government, dissolved parliament and called an early election to the assembly.
 

@@ -15,9 +15,9 @@ July 2 (Bloomberg) -- Hundreds of police cleared protesters
 ### [Luxembourg's Viviane Reding, Finland's Olli Rehn, Italy's Antonio Tajani and Poland's Janusz Lewandowski step down as EU commissioners in order to take office as newly elected members of the European Parliament. ](/news/2014/07/2/luxembourg-s-viviane-reding-finland-s-olli-rehn-italy-s-antonio-tajani-and-poland-s-janusz-lewandowski-step-down-as-eu-commissioners-in-or.md)
 Four out of the seven commissioners who were elected to the EU parliament have quit their jobs in order to become MEPs.
 
-##### French President
+##### President of France
 ### [Former President of France Nicolas Sarkozy is charged with corruption and influence peddling. ](/news/2014/07/2/former-president-of-france-nicolas-sarkozy-is-charged-with-corruption-and-influence-peddling.md)
-_Context: French President, Nicolas Sarkozy_
+_Context: Nicolas Sarkozy, President of France_
 
 ##### Chemical weapons
 ### [A Danish ship carrying hundreds of tons of Syrian chemical weapons arrives in the Italian port of Gioia Tauro prior to a rendezvous with an American ship that will destroy the weapons at sea. ](/news/2014/07/2/a-danish-ship-carrying-hundreds-of-tons-of-syrian-chemical-weapons-arrives-in-the-italian-port-of-gioia-tauro-prior-to-a-rendezvous-with-an.md)

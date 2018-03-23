@@ -3,9 +3,9 @@ Formats: [HTML](2010/01/14/index.html)  [JSON](2010/01/14/index.json)  [XML](201
 
 ## [2010-01-14](/news/2010/01/14/index.md)
 
-##### Afghanistan
+##### Afghan
 ### [A suicide bombing at a market in Afghanistan's Oruzgan Province kills 20 people. ](/news/2010/01/14/a-suicide-bombing-at-a-market-in-afghanistan-s-ora-zgan-province-kills-20-people.md)
-_Context: Afghanistan, Oruzgan Province_
+_Context: Afghan, Oruzgan Province_
 
 ##### Taoiseach
 ### [Taoiseach Brian Cowen meets Prime Minister Gordon Brown in London for talks on the devolution process in Northern Ireland. ](/news/2010/01/14/taoiseach-brian-cowen-meets-prime-minister-gordon-brown-in-london-for-talks-on-the-devolution-process-in-northern-ireland.md)

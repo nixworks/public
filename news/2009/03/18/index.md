@@ -3,9 +3,9 @@ Formats: [HTML](2009/03/18/index.html)  [JSON](2009/03/18/index.json)  [XML](200
 
 ## [2009-03-18](/news/2009/03/18/index.md)
 
-##### Somalia
+##### Somali
 ### [ Somali pirates hijack an Iranian fishing vessel in the Gulf of Aden. ](/news/2009/03/18/somali-pirates-hijack-an-iranian-fishing-vessel-in-the-gulf-of-aden.md)
-_Context: Gulf of Aden, Iran, Somali pirates, Somalia, fishing vessel_
+_Context: Gulf of Aden, Iran, Somali, Somali pirates, fishing vessel_
 
 ##### Federal Reserve System
 ### [ Federal Reserve System Chairman Ben Bernanke caps United States Treasury Department yields. ](/news/2009/03/18/federal-reserve-system-chairman-ben-bernanke-caps-united-states-treasury-department-yields.md)

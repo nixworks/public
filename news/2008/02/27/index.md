@@ -17,7 +17,7 @@ _Context: Richter scale, earthquake_
 
 ##### Bomb
 ### [ A roadside bomb in Afghanistan results in the death of two NATO soldiers. ](/news/2008/02/27/a-roadside-bomb-in-afghanistan-results-in-the-death-of-two-nato-soldiers.md)
-_Context: Afghanistan, NATO, bomb_
+_Context: Afghan, NATO, bomb_
 
 ##### Colombia
 ### [ Colombian FARC rebels release four former members of Congress, held hostage since 2001 and 2002, in a deal brokered by Venezuelan president Hugo Chavez. ](/news/2008/02/27/colombian-farc-rebels-release-four-former-members-of-congress-held-hostage-since-2001-and-2002-in-a-deal-brokered-by-venezuelan-president.md)

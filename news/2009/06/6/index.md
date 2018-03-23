@@ -33,7 +33,7 @@ _Context: Air France, Atlantic Ocean, crash of Air France Flight 447_
 
 ##### Declares
 ### [ At least 36 people die during combat between the Transitional Federal Government and Islamist militants in Webho, Somalia. ](/news/2009/06/6/at-least-36-people-die-during-combat-between-the-transitional-federal-government-and-islamist-militants-in-webho-somalia.md)
-_Context: Islamists, Somalia, Transitional Federal Government, declares, militant_
+_Context: Islamists, Somali, Transitional Federal Government, declares, militant_
 
 ##### Deadly clashes
 ### [ Fifty-two people die during combat between Peru's Army and indigenous peoples in the Amazon Rainforest. ](/news/2009/06/6/fifty-two-people-die-during-combat-between-peru-s-army-and-indigenous-peoples-in-the-amazon-rainforest.md)
@@ -57,7 +57,7 @@ _Context: Conservative Party, Labour Party, Liberal Democrats, UK, county counci
 
 ##### European Union
 ### [ The European Union's parliamentary election continues in Cyprus, Italy, Latvia, Malta, Slovakia, the Czech Republic, and France's overseas departments and territories. ](/news/2009/06/6/the-european-union-s-parliamentary-election-continues-in-cyprus-italy-latvia-malta-slovakia-the-czech-republic-and-france-s-overseas.md)
-_Context: Cypriot, Czech Republic, European Parliament, European Union, France, Italy, Latvia, Malta, Overseas departments and territories of France, Slovakia, election_
+_Context: Cyprus, Czech Republic, European Parliament, European Union, France, Italy, Latvia, Malta, Overseas departments and territories of France, Slovakia, election_
 
 ## [Previous Day...](/news/2009/06/5/index.md)
 

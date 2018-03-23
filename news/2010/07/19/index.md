@@ -73,7 +73,7 @@ _Context: African Union, Uganda, United States, terrorism_
 
 ##### Kabul
 ### [Scores of checkpoints appear overnight as 70 countries prepare to attend a conference in Kabul on the future of Afghanistan. ](/news/2010/07/19/scores-of-checkpoints-appear-overnight-as-70-countries-prepare-to-attend-a-conference-in-kabul-on-the-future-of-afghanistan.md)
-_Context: Afghanistan, Kabul_
+_Context: Afghan, Kabul_
 
 ##### President
 ### [President of Iran Mahmoud Ahmadinejad asks that the United States stop using what he describes as "cowboy logic" if it wants to engage in dialogue with Iran over its nuclear programme, adding that he would support negotiations. ](/news/2010/07/19/president-of-iran-mahmoud-ahmadinejad-asks-that-the-united-states-stop-using-what-he-describes-as-cowboy-logic-if-it-wants-to-engage-in-di.md)
@@ -123,9 +123,9 @@ Safe deposit boxes believed to contain manuscripts and drawings by the late auth
 ### [75-year-old author Alan Shadrake is arrested in Singapore while promoting his book about the use of the death penalty. He is charged with criminal defamation and faces two years imprisonment. ](/news/2010/07/19/75-year-old-author-alan-shadrake-is-arrested-in-singapore-while-promoting-his-book-about-the-use-of-the-death-penalty-he-is-charged-with-cr.md)
 The British author of a book that seeks to expose &quot;disturbing truths&quot; about Singapore&#039;s use of the death penalty has been arrested on charges of criminal defamation.
 
-##### Somalia
+##### Somali
 ### [Several people are killed in a clash between Somali fighters and government forces in the capital Mogadishu. ](/news/2010/07/19/several-people-are-killed-in-a-clash-between-somali-fighters-and-government-forces-in-the-capital-mogadishu.md)
-_Context: Mogadishu, Somalia_
+_Context: Mogadishu, Somali_
 
 ##### Amnesty International
 ### [Amnesty International releases its "Agents of Fear" report, accusing Khartoum's National Intelligence and Security Service (NISS) of torturing and abusing political dissidents, including journalists, human rights activists and students, in an attempt to silence them. ](/news/2010/07/19/amnesty-international-releases-its-agents-of-fear-report-accusing-khartoum-s-national-intelligence-and-security-service-niss-of-torturi.md)

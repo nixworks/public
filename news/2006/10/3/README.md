@@ -5,7 +5,7 @@ Formats: [HTML](2006/10/3/index.html)  [JSON](2006/10/3/index.json)  [XML](2006/
 
 ##### Turkish Airlines Flight 1476
 ### [ Turkish Airlines Flight 1476, a Turkish Airlines plane carrying 113 people from Tirana, Albania to Istanbul, Turkey, was hijacked, but lands at Italy's Brindisi Airport. The hijackers surrendered and were arrested by Italian police. ](/news/2006/10/3/turkish-airlines-flight-1476-a-turkish-airlines-plane-carrying-113-people-from-tirana-albania-to-istanbul-turkey-was-hijacked-but-land.md)
-_Context: Albania, Brindisi Airport, Istanbul, Tirana, Turkish, Turkish Airlines, Turkish Airlines Flight 1476, aircraft piracy_
+_Context: Albania, Brindisi Airport, Istanbul, Tirana, Turkey, Turkish Airlines, Turkish Airlines Flight 1476, aircraft piracy_
 
 ##### Prime Minister
 ### [ Deposed Prime Minister of Thailand Thaksin Shinawatra has resigned as head of his Thai Rak Thai party due to "changing circumstances". ](/news/2006/10/3/deposed-prime-minister-of-thailand-thaksin-shinawatra-has-resigned-as-head-of-his-thai-rak-thai-party-due-to-changing-circumstances.md)

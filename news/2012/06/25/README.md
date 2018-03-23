@@ -51,7 +51,7 @@ Deposed president rallies allies at home and abroad to force congress to reverse
 ### [UK Labour MP Tom Watson adds his voice to the growing opposition to the extradition of Richard O'Dwyer, calling it an example of a younger generation being "hung out to dry by lawmakers". ](/news/2012/06/25/uk-labour-mp-tom-watson-adds-his-voice-to-the-growing-opposition-to-the-extradition-of-richard-o-dwyer-calling-it-an-example-of-a-younger-g.md)
 _Context: Labour Party, Richard O'Dwyer, Tom Watson_
 
-##### Cypriot
+##### Cyprus
 ### [Cyprus says that it plans to ask its European partners for a loan of about 1.8 billion euros by the end of this week; this would make Cyprus the fifth European country to seek help. ](/news/2012/06/25/cyprus-says-that-it-plans-to-ask-its-european-partners-for-a-loan-of-about-1-8-billion-euros-by-the-end-of-this-week-this-would-make-cyprus.md)
 The fifth eurozone nation to seek help says it wants to limit exposure of its financial institutions to Greece crisis.
 
@@ -75,7 +75,7 @@ Two federal police officers suspected of working for drug traffickers opened fir
 ### [At least 40 people are injured due to a fire attack by protesters on a religious shrine in India. ](/news/2012/06/25/at-least-40-people-are-injured-due-to-a-fire-attack-by-protesters-on-a-religious-shrine-in-india.md)
 _Context: India_
 
-##### Turkish
+##### Turkey
 ### [At least 33 army officers, including a general, defect to Turkey. ](/news/2012/06/25/at-least-33-army-officers-including-a-general-defect-to-turkey.md)
 Several high-ranking Syrian military figures reportedly defect to Turkey, amid heightened tensions over the downing of a Turkish warplane.
 

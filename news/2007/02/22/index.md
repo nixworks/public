@@ -29,7 +29,7 @@ _Context: Central American Parliament, El Salvador, Guatemala_
 
 ##### Abdel Kareem Soliman
 ### [ Abdel Kareem Soliman is convicted of insulting Islam and Egyptian President Hosni Mubarak on his weblog and is sentenced to four years in prison. ](/news/2007/02/22/abdel-kareem-soliman-is-convicted-of-insulting-islam-and-egyptian-president-hosni-mubarak-on-his-weblog-and-is-sentenced-to-four-years-in-p.md)
-_Context: Abdel Kareem Soliman, Egypt, Hosni Mubarak, Islam, President, prison, weblog_
+_Context: Abdel Kareem Soliman, Egypt, Hosni Mubarak, Muslim, President, prison, weblog_
 
 ##### Italy
 ### [ Leaders of Italy's centre-left coalition have agreed to support Romano Prodi and a 12-point program meaning that he can resume serving as Prime Minister of Italy. ](/news/2007/02/22/leaders-of-italy-s-centre-left-coalition-have-agreed-to-support-romano-prodi-and-a-12-point-program-meaning-that-he-can-resume-serving-as-p.md)

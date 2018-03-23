@@ -13,7 +13,7 @@ President Bush embarks Monday on his last venture as president to the Far East, 
 
 ##### Rwanda
 ### [ Rwanda formally accuses senior French officials, including former Prime Minister Dominique de Villepin and late President Franois Mitterrand, of involvement in the 1994 Rwandan Genocide and calls for them to be put on trial. ](/news/2008/08/5/rwanda-formally-accuses-senior-french-officials-including-former-prime-minister-dominique-de-villepin-and-late-president-francois-mitterra.md)
-_Context: Dominique de Villepin, France, Franois Mitterrand, French President, Prime Minister, Rwanda, Rwandan Genocide_
+_Context: Dominique de Villepin, France, Franois Mitterrand, President of France, Prime Minister, Rwanda, Rwandan Genocide_
 
 ## [Previous Day...](/news/2008/08/4/index.md)
 

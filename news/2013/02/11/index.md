@@ -29,7 +29,7 @@ _Context: Guinea, Guinean military, Liberia_
 
 ##### Cilvegozu
 ### [An explosion in a vehicle at the Cilvegozu border gate kills 14 civilians (eleven Syrians and three Turks), and injures more than 25 others in Reyhanli district of Hatay Province, Turkey. The gate is on the Turkish-Syrian border. ](/news/2013/02/11/an-explosion-in-a-vehicle-at-the-cilvegapza1-4-border-gate-kills-14-civilians-eleven-syrians-and-three-turks-and-injures-more-than-25-other.md)
-_Context: Cilvegozu, Hatay Province, Reyhanli, Syria, Turkish_
+_Context: Cilvegozu, Hatay Province, Reyhanli, Syria, Turkey_
 
 ##### Gao
 ### [Insurgents launch an attack on the strategic city of Gao, capturing a police station and sparking a day-long firefight that included Malian troops, as well as French attack helicopters. ](/news/2013/02/11/insurgents-launch-an-attack-on-the-strategic-city-of-gao-capturing-a-police-station-and-sparking-a-day-long-firefight-that-included-malian.md)

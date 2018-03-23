@@ -49,7 +49,7 @@ Awaiting final approval from Pope Francis; possible canonization date is Dec. 8,
 
 ##### Pakistan
 ### [At least seven people are killed in Pakistan after an American drone strike targets a militant compound near the border with Afghanistan. ](/news/2013/07/2/at-least-seven-people-are-killed-in-pakistan-after-an-american-drone-strike-targets-a-militant-compound-near-the-border-with-afghanistan.md)
-_Context: Afghanistan, Pakistan, drones launch_
+_Context: Afghan, Pakistan, drones launch_
 
 ##### Shi'ite
 ### [A wave of market bomb attacks mostly targeting Shi'ite Muslims kills 46 people ](/news/2013/07/2/a-wave-of-market-bomb-attacks-mostly-targeting-shi-ite-muslims-kills-46-people.md)

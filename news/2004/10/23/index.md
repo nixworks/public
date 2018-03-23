@@ -17,7 +17,7 @@ _Context: U.S. Navy, USS ''Virginia'', Virginia class, lead ship_
 
 ##### Abdullahi Yusuf Ahmed
 ### [ Abdullahi Yusuf Ahmed, Somalia's new president, requests 20,000 African Union troops to help secure the country. ](/news/2004/10/23/abdullahi-yusuf-ahmed-somalia-s-new-president-requests-20-000-african-union-troops-to-help-secure-the-country.md)
-_Context: Abdullahi Yusuf Ahmed, African Union, President, Somalia_
+_Context: Abdullahi Yusuf Ahmed, African Union, President, Somali_
 
 ##### Tensions
 ### [ Political Crisis in French Polynesia continues with the fall of the government of Oscar Temaru and doubts cast on the legitimacy of the re-election of Gaston Flosse as President of French Polynesia. ](/news/2004/10/23/political-crisis-in-french-polynesia-continues-with-the-fall-of-the-government-of-oscar-temaru-and-doubts-cast-on-the-legitimacy-of-the-re.md)

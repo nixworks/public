@@ -3,7 +3,7 @@ Formats: [HTML](2015/06/2/index.html)  [JSON](2015/06/2/index.json)  [XML](2015/
 
 ## [2015-06-2](/news/2015/06/2/index.md)
 
-##### United States Senate
+##### Senate
 ### [The United States Senate passes the USA Freedom Act, which will transfer the responsibility of Americans' bulk telephone metadata collection from the National Security Agency to telephone companies. ](/news/2015/06/2/the-united-states-senate-passes-the-usa-freedom-act-which-will-transfer-the-responsibility-of-americans-bulk-telephone-metadata-collection.md)
 Bulk collection of Americans’ phone records to end as US Senate passes USA Freedom Act
 

@@ -9,7 +9,7 @@ A Russian Air Force chief said Saturday that the country could base some strateg
 
 ##### Japanese Navy
 ### [ Maritime Self-Defense Force destroyers "Sazanami" and "Samidare" depart Japan to combat piracy in Somalia. ](/news/2009/03/14/maritime-self-defense-force-destroyers-sazanami-and-samidare-depart-japan-to-combat-piracy-in-somalia.md)
-_Context: Japan, Japanese Navy, Samidare, Sazanami, Somalia, destroyer, pirates_
+_Context: Japan, Japanese Navy, Samidare, Sazanami, Somali, destroyer, pirates_
 
 ##### Vietnam
 ### [ A Vietnamese cargo ship sinks in the South China Sea, killing three people. ](/news/2009/03/14/a-vietnamese-cargo-ship-sinks-in-the-south-china-sea-killing-three-people.md)

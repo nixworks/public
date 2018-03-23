@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/09/20/u-s-secretary-of-state-john-kerry-says-that-the
 
 ### [2015-09-20](/news/2015/09/20/index.md)
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 # U.S. Secretary of State John Kerry says that the United States will accept 85,000 refugees from the world in 2016, up from this year's 70,000 refugees, and will increase to 100,000 refugees in 2017. 
 
 As Hungary eases its border restrictions, waves of refugees rush towards Western Europe; 13 migrants killed in ferry crash in Turkey

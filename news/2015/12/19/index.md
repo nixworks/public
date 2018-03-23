@@ -7,9 +7,9 @@ Formats: [HTML](2015/12/19/index.html)  [JSON](2015/12/19/index.json)  [XML](201
 ### [Rwandans vote overwhelmingly to lift constitutional restrictions that will allow President Paul Kagame to run for more terms in office. The National Electoral Commission reports more than 98 percent of voters approved the referendum. Final official results will be released Monday. ](/news/2015/12/19/rwandans-vote-overwhelmingly-to-lift-constitutional-restrictions-that-will-allow-president-paul-kagame-to-run-for-more-terms-in-office-the.md)
 Rwandans vote overwhelmingly to allow President Paul Kagame to extend his term in office, according to initial referendum results.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Germany's refugee crisis coordinator Peter Altmaier says, in an interview with German magazine "Focus", that he and Austrian special minister Josef Ostermayer are working on a proposal for a common European asylum law. He added other countries such as France and The Netherlands would be approached soon. ](/news/2015/12/19/germany-s-refugee-crisis-coordinator-peter-altmaier-says-in-an-interview-with-german-magazine-focus-that-he-and-austrian-special-ministe.md)
-_Context: Austria, Dutch, European migrant crisis, France, German magazine ''Focus'', Germany's refugee crisis coordinator, Peter Altmaier, special minister Josef Ostermayer_
+_Context: Austria, Dutch, France, German magazine ''Focus'', Germany's refugee crisis coordinator, Peter Altmaier, refugee immigration to Germany, special minister Josef Ostermayer_
 
 ##### Joint Comprehensive Plan of Action
 ### [Iran nuclear chief Ali Akbar Salehi says nine tons of Iran's enriched uranium will be exported to Russia in the next few days, as the country moves to implement the nuclear deal and secure relief from international sanctions. ](/news/2015/12/19/iran-nuclear-chief-ali-akbar-salehi-says-nine-tons-of-iran-s-enriched-uranium-will-be-exported-to-russia-in-the-next-few-days-as-the-countr.md)

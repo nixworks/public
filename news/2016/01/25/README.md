@@ -15,7 +15,7 @@ A grand jury cleared Planned Parenthood of allegations of misconduct, instead in
 ### [The United States Supreme Court ruled in "Montgomery v. Louisiana" (2016) that its prohibition of mandatory life sentences for juveniles convicted of murder (under "Miller v. Alabama" (2012)), had to be applied retroactively, potentially affecting 1300 to 2300 cases nationally.](/news/2016/01/25/the-united-states-supreme-court-ruled-in-montgomery-v-louisiana-2016-that-its-prohibition-of-mandatory-life-sentences-for-juveniles-con.md)
 The Supreme Court clarified a 2012 ruling and created the possibility of release for some older inmates serving life sentences for killings committed when they were young.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Greece faces suspension or expulsion from the European Union's Schengen Area if it can not prevent waves of migrants from crossing over the country into Macedonia. ](/news/2016/01/25/greece-faces-suspension-or-expulsion-from-the-european-union-s-schengen-area-if-it-can-not-prevent-waves-of-migrants-from-crossing-over-the.md)
 Plan emerges to seal Greek border with Macedonia as EU leaders meet in Amsterdam for crisis talks to &#039;save&#039; Schengen area
 

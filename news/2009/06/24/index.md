@@ -13,7 +13,7 @@ _Context: Baghdad, bombing_
 
 ##### Bagram Air Base
 ### [ Former detainees allege abuses at Bagram Air Base in Afghanistan. ](/news/2009/06/24/former-detainees-allege-abuses-at-bagram-air-base-in-afghanistan.md)
-_Context: Afghanistan, Bagram Air Base_
+_Context: Afghan, Bagram Air Base_
 
 ##### Chechnya
 ### [ A bomb kills two people and injures six others in Chechnya, Russia. ](/news/2009/06/24/a-bomb-kills-two-people-and-injures-six-others-in-chechnya-russia.md)

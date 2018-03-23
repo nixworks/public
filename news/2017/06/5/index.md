@@ -29,7 +29,7 @@ A U.S. intelligence contractor has been charged with leaking to a news organizat
 
 ##### Montenegro-NATO relations
 ### [Montenegro officially joins NATO as its 29th member at a ceremony in Washington, D.C. ](/news/2017/06/5/montenegro-officially-joins-nato-as-its-29th-member-at-a-ceremony-in-washington-d-c.md)
-_Context: Montenegrin, Montenegro-NATO relations, NATO, Washington, D.C._
+_Context: Montenegro, Montenegro-NATO relations, NATO, Washington, D.C._
 
 ##### 2017 Qatar diplomatic crisis
 ### [Bahrain, Egypt, Libya, the Maldives, Saudi Arabia, the United Arab Emirates, and the internationally recognized government of Yemen sever diplomatic ties with Qatar, ordering Qatari citizens in those countries to be expelled as well as cutting all land, air and sea connections. "National security," "media incitement" and Qatar's support of Iran are variously cited. ](/news/2017/06/5/bahrain-egypt-libya-the-maldives-saudi-arabia-the-united-arab-emirates-and-the-internationally-recognized-government-of-yemen-sever-di.md)

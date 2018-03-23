@@ -103,7 +103,7 @@ Argentina becomes the first Latin American country to legalise gay marriage afte
 ### [Previously secret papers released as a result of civil proceedings brought by six former Guantanamo Bay inmates against MI5 and MI6, the Home Office, the Foreign Office, and the Attorney General's Office reveal the British government was involved in the abduction and torture of its own citizens following the September 11 attacks. ](/news/2010/07/14/previously-secret-papers-released-as-a-result-of-civil-proceedings-brought-by-six-former-guanta-namo-bay-inmates-against-mi5-and-mi6-the-ho.md)
 _Context: Guantanamo Bay, MI5, MI6, September 11 attacks_
 
-##### Turkish
+##### Turkey
 ### [A group of more than 30 journalists from such countries as Turkey, Spain, Germany, Lebanon, Egypt, the United Kingdom and the United States announces it is to take legal action against Israel for equipment lost and money stolen due to the Gaza flotilla raid. ](/news/2010/07/14/a-group-of-more-than-30-journalists-from-such-countries-as-turkey-spain-germany-lebanon-egypt-the-united-kingdom-and-the-united-states.md)
 Group of more than 30 reporters to demand compensation from Israeli government.
 

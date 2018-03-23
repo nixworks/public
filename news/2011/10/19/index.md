@@ -39,7 +39,7 @@ Google has unveiled its latest flagship phone, the Galaxy Nexus, and its latest 
 ### [The members of the Irish boy band Westlife announce that they are to split. ](/news/2011/10/19/the-members-of-the-irish-boy-band-westlife-announce-that-they-are-to-split.md)
 Chart-topping act Westlife are to split &#039;&#039;amicably&#039;&#039; after 14 years and 26 top ten hits, they announced tonight.
 
-##### Turkish
+##### Turkey
 ### [Turkey launches a military operation against Kurdish militants in northern Iraq, in response to attacks by the Kurdistan Workers Party that killed at least 24 Turkish soldiers in southeastern Turkey. ](/news/2011/10/19/turkey-launches-a-military-operation-against-kurdish-militants-in-northern-iraq-in-response-to-attacks-by-the-kurdistan-workers-party-that.md)
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews
 

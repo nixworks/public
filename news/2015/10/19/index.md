@@ -51,7 +51,7 @@ _Context: Leonid Tibilov, Russia, South Ossetia_
 ### [Elements from the maritime forces of India, Japan, and the United States engage in joint military exercises in the Bay of Bengal. ](/news/2015/10/19/elements-from-the-maritime-forces-of-india-japan-and-the-united-states-engage-in-joint-military-exercises-in-the-bay-of-bengal.md)
 aval warships, aircraft carriers and submarines from the U.S.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Croatia reopens its border with Serbia allowing thousands of refugees to cross. ](/news/2015/10/19/croatia-reopens-its-border-with-serbia-allowing-thousands-of-refugees-to-cross.md)
 Move comes as Turkey says it should not be expected to become a &lsquo;concentration camp&rsquo; 
 
@@ -75,13 +75,13 @@ Heavy rain and floods are affecting dozens of villages, after Typhoon Koppu swep
 ### [Shareholders from both companies overwhelmingly approve Aetna's acquisition of Humana for $37 billion. ](/news/2015/10/19/shareholders-from-both-companies-overwhelmingly-approve-aetna-s-acquisition-of-humana-for-37-billion.md)
 _Context: Aetna, Humana_
 
-##### Economy of China
+##### Chinese goods
 ### [China's economy expanded 6.9% in third quarter over last year's growth, just slightly better than forecast. ](/news/2015/10/19/chinaas-economy-expanded-6-9-in-third-quarter-over-last-yearas-growth-just-slightly-better-than-forecast.md)
 The weak result compares with 7 percent growth in the previous two quarters, but was slightly better than the 6.8 percent economists had forecast.
 
 ##### Kunduz hospital airstrike
 ### [Afghanistan's acting defense minister has stated that the Medecins Sans Frontieres hospital in Kunduz bombed on 3 October by U.S. forces was being used as a safe haven by insurgents. MSF has repeatedly denied the allegation, stating "Every staff member in Kunduz working for MSF has repeatedly reported to us that there were no armed people in the hospital at the time of the bombing". ](/news/2015/10/19/afghanistanas-acting-defense-minister-has-stated-that-the-ma-c-decins-sans-frontia-res-hospital-in-kunduz-bombed-on-3-october-by-u-s-forces.md)
-_Context: Afghanistan, Kunduz, Kunduz hospital airstrike, Medecins Sans Frontieres_
+_Context: Afghan, Kunduz, Kunduz hospital airstrike, Medecins Sans Frontieres_
 
 ##### Israeli-Palestinian conflict (2015)
 ### [19-year-old soldier Omri Levy was killed and nearly a dozen injured in a shooting and stabbing attack in the central bus station in the southern city of Beersheba carried out by an Israeli Bedouin Arab, 21-year old Mohind al-Okbi, who was killed after a gun battle. ](/news/2015/10/19/19-year-old-soldier-omri-levy-was-killed-and-nearly-a-dozen-injured-in-a-shooting-and-stabbing-attack-in-the-central-bus-station-in-the-sout.md)

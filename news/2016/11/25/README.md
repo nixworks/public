@@ -49,9 +49,9 @@ Little more than two weeks after Italian scientists warned that climate change h
 
 ##### War in Afghanistan (2015-present)
 ### [At least 20 people have died of extreme cold weather in the Darzab District of Afghanistan's Jozjan Province. All of the victims were displaced as a result of the ongoing civil conflict. ](/news/2016/11/25/at-least-20-people-have-died-of-extreme-cold-weather-in-the-darzab-district-of-afghanistan-s-jozjan-province-all-of-the-victims-were-displa.md)
-_Context: Afghanistan, Darzab District, Jozjan Province, War in Afghanistan (2015-present)_
+_Context: Afghan, Darzab District, Jozjan Province, War in Afghanistan (2015-present)_
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Two people are killed and two others injured after a fire breaks out in a migrant camp on the Greek island of Lesbos. The cause is currently under investigation, although some believe the fire was deliberately started in protest of poor living conditions, after a 66-year-old woman and a six-year-old child were killed in a gas explosion. ](/news/2016/11/25/two-people-are-killed-and-two-others-injured-after-a-fire-breaks-out-in-a-migrant-camp-on-the-greek-island-of-lesbos-the-cause-is-currently.md)
 Angry migrants set fire to a camp on the Greek island of Lesbos on Thursday after a woman and a six-year-old child died following a gas cylinder explosion, local police said.
 

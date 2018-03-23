@@ -57,7 +57,7 @@ _Context: Australia, Australian Customs and Border Protection Service_
 
 ##### Suicide bomber
 ### [A suicide bomber kills at least two people in the city of Lashkar Gah in Afghanistan's Helmand Province. ](/news/2011/09/27/a-suicide-bomber-kills-at-least-two-people-in-the-city-of-lashkar-gah-in-afghanistan-s-helmand-province.md)
-_Context: Afghanistan, Helmand Province, Lashkar Gah, suicide bomber_
+_Context: Afghan, Helmand Province, Lashkar Gah, suicide bomber_
 
 ##### Abu Sayyaf
 ### [Abu Sayyaf gunmen attack pro-government militia in the township of Sumisip on Basilan Island in the Philippines, with six people reported killed and five wounded. ](/news/2011/09/27/abu-sayyaf-gunmen-attack-pro-government-militia-in-the-township-of-sumisip-on-basilan-island-in-the-philippines-with-six-people-reported-ki.md)

@@ -21,7 +21,7 @@ Italians voted yesterday overwhelmingly to elect Matteo Renzi as the new head of
 
 ##### Saeed Karimian
 ### [Saeed Karimian, the founder and director of GEM TV, a Persian language network based in Dubai, is shot dead in Istanbul, Turkey, along with his Kuwaiti business partner. Karimian had previously been tried in absentia by a Tehran court and sentenced to six years in prison for spreading propaganda against Iran. ](/news/2017/04/30/saeed-karimian-the-founder-and-director-of-gem-tv-a-persian-language-network-based-in-dubai-is-shot-dead-in-istanbul-turkey-along-with.md)
-_Context: Dubai, GEM TV, Iran, Istanbul, Persian language, Saeed Karimian, Turkish_
+_Context: Dubai, GEM TV, Iran, Istanbul, Persian language, Saeed Karimian, Turkey_
 
 ##### Tornado outbreak and floods of April 28-30, 2017
 ### [The death tolls from tornadoes and floods in the midwestern and southern United States rises to ten with two people missing. ](/news/2017/04/30/the-death-tolls-from-tornadoes-and-floods-in-the-midwestern-and-southern-united-states-rises-to-ten-with-two-people-missing.md)

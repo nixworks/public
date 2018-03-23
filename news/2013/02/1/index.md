@@ -3,7 +3,7 @@ Formats: [HTML](2013/02/1/index.html)  [JSON](2013/02/1/index.json)  [XML](2013/
 
 ## [2013-02-1](/news/2013/02/1/index.md)
 
-##### Ukraine
+##### Ukrainian
 ### [A Ukrainian-Russian carrier rocket Zenit-3SL carrying a telecommunications satellite Intelsat 27 fails 40 seconds after the lift-off and plunges into the Pacific Ocean shortly during Sea Launch. ](/news/2013/02/1/a-ukrainianarussian-carrier-rocket-zenit-3sl-carrying-a-telecommunications-satellite-intelsat-27-fails-40-seconds-after-the-lift-off-and-p.md)
 A Ukrainian-Russian Zenit rocket carrying a US-made telecommunications satellite falls into the Pacific Ocean shortly after its launch.
 

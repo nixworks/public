@@ -3,9 +3,9 @@ Formats: [HTML](2005/07/11/index.html)  [JSON](2005/07/11/index.json)  [XML](200
 
 ## [2005-07-11](/news/2005/07/11/index.md)
 
-##### Somalia
+##### Somali
 ### [ In Somalia, gunmen kill prominent peace activist Abdulkadir Yahya Ali ](/news/2005/07/11/in-somalia-gunmen-kill-prominent-peace-activist-abdulkadir-yahya-ali.md)
-_Context: Abdulkadir Yahya Ali, Somalia_
+_Context: Abdulkadir Yahya Ali, Somali_
 
 ##### Brazil
 ### [ Brazilian police detains opposition congressman and bishop JoGBPo Batista Ramos da Silva of the Liberal Front Party and six others who had been transporting $2.6 million in cash in seven suitcases ](/news/2005/07/11/brazilian-police-detains-opposition-congressman-and-bishop-joagbpo-batista-ramos-da-silva-of-the-liberal-front-party-and-six-others-who-had.md)
@@ -53,7 +53,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### U.S. Navy SEAL
 ### [ The body of a U.S. Navy SEAL has been found and recovered in Afghanistan, a senior defense official said Sunday. ](/news/2005/07/11/the-body-of-a-u-s-navy-seal-has-been-found-and-recovered-in-afghanistan-a-senior-defense-official-said-sunday.md)
-_Context: Afghanistan, U.S. Navy SEAL_
+_Context: Afghan, U.S. Navy SEAL_
 
 ##### Maccabiah Games
 ### [ The 17th Maccabiah Games are officially begun with a ceremony in Israel. More than 7000 Jewish athletes will compete on various sporting events. ](/news/2005/07/11/the-17th-maccabiah-games-are-officially-begun-with-a-ceremony-in-israel-more-than-7000-jewish-athletes-will-compete-on-various-sporting-ev.md)

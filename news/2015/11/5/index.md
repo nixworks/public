@@ -27,7 +27,7 @@ Anger over being kicked out of a UC Merced study group drove an 18-year-old comp
 ### [NetCracker and Computer Sciences Corporation agree to pay fines amounting to over $12 million, settling a Justice Department investigation into the firms' sub-contracting of computer coding work to Russian sources. The programs were subsequently installed on secure U.S. government computer networks. ](/news/2015/11/5/netcracker-and-computer-sciences-corporation-agree-to-pay-fines-amounting-to-over-12-million-settling-a-justice-department-investigation-i.md)
 By Patrick Malone, Center for Public IntegrityThe Pentagon was tipped off in 2011 by a longtime Army contractor that Russian computer programmers were helping to write computer software for sensitive U
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Greek police say they came under fire on the country's northeastern border with Turkey during the arrest of two suspected migrant smugglers who had just ferried 22 people across the Evros river that runs along the Greek-Turkish border. ](/news/2015/11/5/greek-police-say-they-came-under-fire-on-the-countryas-northeastern-border-with-turkey-during-the-arrest-of-two-suspected-migrant-smuggler.md)
 (AP) — The latest as tens of thousands of people flood into Europe in search of a new life. All times local.Greek police say they came under fire on the country&#8217;s northeastern border with Turkey during the arrest of two suspected migrant-smugglers who had just ferried 22 people across the Ev...
 

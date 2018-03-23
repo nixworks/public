@@ -5,7 +5,7 @@ Formats: [HTML](2008/12/17/index.html)  [JSON](2008/12/17/index.json)  [XML](200
 
 ##### United Nations
 ### [ The United Nations passes a resolution authorizing foreign countries to conduct military raids on land or by sea in pursuit of Somali pirates. ](/news/2008/12/17/the-united-nations-passes-a-resolution-authorizing-foreign-countries-to-conduct-military-raids-on-land-or-by-sea-in-pursuit-of-somali-pirat.md)
-_Context: Somali pirates, Somalia, United Nations_
+_Context: Somali, Somali pirates, United Nations_
 
 ##### State Department
 ### [ A U.S. State Department panel recommends that Blackwater Worldwide should be dropped as the main private security contractor for American diplomats in Iraq. ](/news/2008/12/17/a-u-s-state-department-panel-recommends-that-blackwater-worldwide-should-be-dropped-as-the-main-private-security-contractor-for-american-d.md)

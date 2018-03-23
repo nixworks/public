@@ -43,9 +43,9 @@ _Context: Boris Yeltsin, Moscow, Novodevichy Cemetery, President of Russia, fune
 ### [ The United States House of Representatives passes legislation that would order United States forces to start withdrawing from Iraq by October 1. ](/news/2007/04/25/the-united-states-house-of-representatives-passes-legislation-that-would-order-united-states-forces-to-start-withdrawing-from-iraq-by-octob.md)
 _Context: Iraq, October 1, United States, United States House of Representatives, legislation_
 
-##### Ukraine
+##### Ukrainian
 ### [ Ukrainian President Viktor Yushchenko signs a decree delaying the 2007 parliamentary election from May 27 to June 24. ](/news/2007/04/25/ukrainian-president-viktor-yushchenko-signs-a-decree-delaying-the-2007-parliamentary-election-from-may-27-to-june-24.md)
-_Context: June 24, May 27, Ukraine, Ukrainian President, Ukrainian parliamentary election, 2007, Viktor Yushchenko_
+_Context: June 24, May 27, Ukrainian, Ukrainian President, Ukrainian parliamentary election, 2007, Viktor Yushchenko_
 
 ## [Previous Day...](/news/2007/04/24/index.md)
 

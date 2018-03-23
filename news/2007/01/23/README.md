@@ -35,9 +35,9 @@ _Context: 2007 Guinean uprising, Conakry_
 ### [ Israel's Ministry of Justice says it plans to charge Israeli President Moshe Katsav with rape and abuse of power. ](/news/2007/01/23/israel-s-ministry-of-justice-says-it-plans-to-charge-israeli-president-moshe-katsav-with-rape-and-abuse-of-power.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-##### Ukraine
+##### Ukrainian
 ### [ Volodymyr Yelchenko, Ukraine's ambassador to Austria, is fired after he makes an unauthorized offer of a visa to Ukraine for exiled Turkmen opposition leader Hudayberdi Ozarow. Ozarow and opposition leader Nurmuhammet Hanamow allegedly visited Kiev last week and met with Ukrainian Transportation Minister Mykola Rudkovskiy, but this has been denied by several officials. ](/news/2007/01/23/volodymyr-yelchenko-ukraine-s-ambassador-to-austria-is-fired-after-he-makes-an-unauthorized-offer-of-a-visa-to-ukraine-for-exiled-turkmen.md)
-_Context: Austria, Hudayberdi Ozarow, Kiev, Mykola Rudkovskiy, Nurmuhammet Hanamow, Turkmenistan, Ukraine_
+_Context: Austria, Hudayberdi Ozarow, Kiev, Mykola Rudkovskiy, Nurmuhammet Hanamow, Turkmenistan, Ukrainian_
 
 ##### United Nations Mission in Nepal
 ### [ The United Nations Mission in Nepal is established through United Nations Security Council Resolution 1740 to monitor disarmament of the Communist Party of Nepal (Maoist) and preparations for the Nepalese Constituent Assembly election, 2007. ](/news/2007/01/23/the-united-nations-mission-in-nepal-is-established-through-united-nations-security-council-resolution-1740-to-monitor-disarmament-of-the-co.md)

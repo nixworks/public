@@ -25,7 +25,7 @@ _Context: NATO, War in Afghanistan (2015-present)_
 
 ##### Terrorism in Kenya
 ### [ Al-Shabaab militants kill 14 in northern Kenya. ](/news/2015/07/7/al-shabaab-militants-kill-14-in-northern-kenya.md)
-_Context: Al-Shabaab, Kenya, Terrorism in Kenya, War in Somalia (2009-present)_
+_Context: Al-Shabab, Kenya, Terrorism in Kenya, War in Somalia (2009-present)_
 
 ##### Saudi-led military intervention in Yemen (2015-present)
 ### [ Air strikes and combat kill 200 in Yemen, highest daily toll so far. ](/news/2015/07/7/air-strikes-and-combat-kill-200-in-yemen-highest-daily-toll-so-far.md)

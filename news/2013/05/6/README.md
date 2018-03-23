@@ -3,9 +3,9 @@ Formats: [HTML](2013/05/6/index.html)  [JSON](2013/05/6/index.json)  [XML](2013/
 
 ## [2013-05-6](/news/2013/05/6/index.md)
 
-##### United States Senate
+##### Senate
 ### [The US Senate passes a bill allowing states to tax internet sales. ](/news/2013/05/6/the-us-senate-passes-a-bill-allowing-states-to-tax-internet-sales.md)
-_Context: United States Senate_
+_Context: Senate_
 
 ##### Prime Minister of Italy
 ### [Seven-time Prime Minister of Italy Giulio Andreotti dies in Rome at the age of 94 years. ](/news/2013/05/6/seven-time-prime-minister-of-italy-giulio-andreotti-dies-in-rome-at-the-age-of-94-years.md)

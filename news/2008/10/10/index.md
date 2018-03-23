@@ -53,7 +53,7 @@ _Context: Alaska, Governor, Sarah Palin, Walter Monegan, legislative_
 
 ##### Yemen
 ### [ Dozens of bodies that washed ashore in Yemen are believed to be from the 130 migrants from Somalia thrown overboard by smugglers; prompting calls for action against human trafficking in the Gulf of Aden. ](/news/2008/10/10/dozens-of-bodies-that-washed-ashore-in-yemen-are-believed-to-be-from-the-130-migrants-from-somalia-thrown-overboard-by-smugglers-prompting.md)
-_Context: Gulf of Aden, Somalia, Yemen_
+_Context: Gulf of Aden, Somali, Yemen_
 
 ##### 
 ### [ 27 people were killed by a suicide car bomb in Pakistan near the Afghanistan border during a tribal meeting planning the eviction of the Taliban from the area. ](/news/2008/10/10/27-people-were-killed-by-a-suicide-car-bomb-in-pakistan-near-the-afghanistan-border-during-a-tribal-meeting-planning-the-eviction-of-the-ta.md)
@@ -67,7 +67,7 @@ _Context: Peru_
 
 ##### Faina
 ### [ Pirate spokesman threatens to blow up MV Faina, which has been held off the coast of Somalia since September 25, if $20 million is not paid by October 13. ](/news/2008/10/10/pirate-spokesman-threatens-to-blow-up-mv-faina-which-has-been-held-off-the-coast-of-somalia-since-september-25-if-20-million-is-not-paid.md)
-_Context: Faina, Somalia_
+_Context: Faina, Somali_
 
 ## [Previous Day...](/news/2008/10/9/index.md)
 

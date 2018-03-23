@@ -53,7 +53,7 @@ Israel reveals plans to build nearly 1,300 housing units for Jewish settlers in 
 
 ##### Obama administration
 ### [The Obama administration bans cargo shipments from Somalia in the wake of the Yemen bomb attacks. ](/news/2010/11/8/the-obama-administration-bans-cargo-shipments-from-somalia-in-the-wake-of-the-yemen-bomb-attacks.md)
-_Context: Obama administration, Somalia, Yemen bomb attacks_
+_Context: Obama administration, Somali, Yemen bomb attacks_
 
 ##### U.S. President
 ### [President of the United States Barack Obama backs a permanent seat for India on the UN Security Council. ](/news/2010/11/8/president-of-the-united-states-barack-obama-backs-a-permanent-seat-for-india-on-the-un-security-council.md)

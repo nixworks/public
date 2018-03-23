@@ -5,7 +5,7 @@ Formats: [HTML](2007/12/2/index.html)  [JSON](2007/12/2/index.json)  [XML](2007/
 
 ##### Zasyadko coal mine
 ### [ Four people are killed at the Zasyadko coal mine in eastern Ukraine where 101 people were killed twelve days earlier in the country's worst mining accident. ](/news/2007/12/2/four-people-are-killed-at-the-zasyadko-coal-mine-in-eastern-ukraine-where-101-people-were-killed-twelve-days-earlier-in-the-country-s-worst.md)
-_Context: Ukraine, Zasyadko coal mine, twelve days earlier_
+_Context: Ukrainian, Zasyadko coal mine, twelve days earlier_
 
 ##### Brazil
 ### [ Brazil starts free-to-air digital television transmissions in So Paulo, but broadcasting companies must transmit signals in both analogue and digital formats until June 2016. ](/news/2007/12/2/brazil-starts-free-to-air-digital-television-transmissions-in-sao-paulo-but-broadcasting-companies-must-transmit-signals-in-both-analogue.md)

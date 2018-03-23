@@ -9,7 +9,7 @@ The Government has unveiled its final legislative package before the General Ele
 
 ##### President pro tempore of the United States Senate
 ### [ Senator and President "pro tempore" of the United States Senate Robert C. Byrd of West Virginia becomes the longest serving member in the history of the United States Congress. ](/news/2009/11/18/senator-and-president-pro-tempore-of-the-united-states-senate-robert-c-byrd-of-west-virginia-becomes-the-longest-serving-member-in-the-h.md)
-_Context: Congress, President pro tempore of the United States Senate, Robert C. Byrd, United States Senate, West Virginia, longest serving member_
+_Context: Congress, President pro tempore of the United States Senate, Robert C. Byrd, Senate, West Virginia, longest serving member_
 
 ##### Taiwan
 ### [ Taiwanese universities announce they will admit mainland Chinese students for the first time next year. ](/news/2009/11/18/taiwanese-universities-announce-they-will-admit-mainland-chinese-students-for-the-first-time-next-year.md)
@@ -21,7 +21,7 @@ _Context: Tay Ninh Province, Vietnam War_
 
 ##### Corruption Perceptions Index
 ### [ According to the 2009 Corruption Perceptions Index, Somalia is the most corrupt of 180 countries surveyed, and New Zealand is the least corrupt. ](/news/2009/11/18/according-to-the-2009-corruption-perceptions-index-somalia-is-the-most-corrupt-of-180-countries-surveyed-and-new-zealand-is-the-least-cor.md)
-_Context: Corruption Perceptions Index, Somalia_
+_Context: Corruption Perceptions Index, Somali_
 
 ##### Prime Minister
 ### [ Prime Minister of Australia Kevin Rudd announces that he will consider a probe of the Church of Scientology in Australia after an attack on the organization by independent parliamentarian Nick Xenophon. ](/news/2009/11/18/prime-minister-of-australia-kevin-rudd-announces-that-he-will-consider-a-probe-of-the-church-of-scientology-in-australia-after-an-attack-on.md)

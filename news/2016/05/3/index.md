@@ -11,7 +11,7 @@ INDIANAPOLIS — In a stunning triumph for a political outsider, Donald Trump al
 ### [A meeting is held in London on the issue of West Papuan independence. Independence leader Benny Wenda joined various humanitarians, parliamentarians and lawyers in urging the United Nations to secure a vote on the future status of the region, which is occupied by Indonesia. ](/news/2016/05/3/a-meeting-is-held-in-london-on-the-issue-of-west-papuan-independence-independence-leader-benny-wenda-joined-various-humanitarians-parliame.md)
 Exclusive: Independence leader Benny Wenda joins parliamentarians, lawyers and humanitarians demanding UN supports referendum on territory’s fate
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [The government of Hungary announces it will hold a referendum regarding future European Union quotas for resettling refugees. The vote is expected to be held either in September or October of this year where a turnout of over 50 percent will render it to be valid. ](/news/2016/05/3/the-government-of-hungary-announces-it-will-hold-a-referendum-regarding-future-european-union-quotas-for-resettling-refugees-the-vote-is-ex.md)
 Prime minister&#39;s office says referendum will be held later this year on quotas for resettlement of refugees.
 

@@ -25,7 +25,7 @@ _Context: Joseph Kony, Lord's Resistance Army, Norbert Mao, Uganda, Vincent Otti
 
 ##### Mogadishu
 ### [ At least 40 people die in Mogadishu in heavy fighting between Ethiopian forces and Somalian Islamist insurgents. ](/news/2007/11/9/at-least-40-people-die-in-mogadishu-in-heavy-fighting-between-ethiopian-forces-and-somalian-islamist-insurgents.md)
-_Context: Ethiopia, Islamist, Mogadishu, Somalia_
+_Context: Ethiopia, Islamist, Mogadishu, Somali_
 
 ##### Governor of California
 ### [ The Governor of California Arnold Schwarzenegger declares a state of emergency to clean up an oil spill in San Francisco Bay caused by a container ship hitting the San Francisco Bay Bridge on Wednesday. ](/news/2007/11/9/the-governor-of-california-arnold-schwarzenegger-declares-a-state-of-emergency-to-clean-up-an-oil-spill-in-san-francisco-bay-caused-by-a-co.md)

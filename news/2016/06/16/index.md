@@ -19,7 +19,7 @@ MOMBASA, Kenya (AP) — A Kenyan court on Thursday upheld the use of anal examin
 ### [A Ugandan soldier kills at least seven people in a shooting spree at a military police barracks in the capital, Kampala. The soldier, Sgt Isaac Obua, was then shot dead himself. He is reported to have been drunk. ](/news/2016/06/16/a-ugandan-soldier-kills-at-least-seven-people-in-a-shooting-spree-at-a-military-police-barracks-in-the-capital-kampala-the-soldier-sgt-is.md)
 A Ugandan soldier kills seven people, including three children, in a shooting spree at a military police barracks in the capital, Kampala.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Nigerien authorities discover the bodies of 34 migrants, mostly children, left behind in the Sahara desert by people smugglers who were taking them to Algeria and then to Europe. ](/news/2016/06/16/nigerien-authorities-discover-the-bodies-of-34-migrants-mostly-children-left-behind-in-the-sahara-desert-by-people-smugglers-who-were-taki.md)
 Five men, nine women and 20 children abandoned by people smugglers die while trying to reach Algeria
 

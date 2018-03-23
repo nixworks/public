@@ -43,7 +43,7 @@ The Boy Scouts of America must reverse its longstanding policy of excluding gay 
 ### [Video interviews show that two Russians captured in Ukraine have publicly admitted to being soldiers in the GRU Russian special forces. The Donetsk People's Republic (separatists) authorities claim these men were official policemen in the self-proclaimed republic, publicized their ID badges, and claimed they retired from the Russian military last year. ](/news/2015/05/21/video-interviews-show-that-two-russians-captured-in-ukraine-have-publicly-admitted-to-being-soldiers-in-the-gru-russian-special-forces-the.md)
 European mediators in the Ukrainian crisis said Thursday that two men captured by Kiev&#x27;s troops had confessed to being members of the Russian armed forces sent in to back up pro-Moscow separatist fighters. The revelation by the Organization for Security and Co-operation in Europe (OSCE) provide...
 
-##### Al-Shabaab
+##### Al-Shabab
 ### [Al-Shabaab militants briefly take over a mosque in Kenya's Garissa County. ](/news/2015/05/21/al-shabaab-militants-briefly-take-over-a-mosque-in-kenya-s-garissa-county.md)
 Islamist militants al-Shabab briefly take over a mosque in northern Kenya, preaching for two hours, before disappearing into a nearby forest, locals say.
 

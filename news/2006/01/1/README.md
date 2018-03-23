@@ -5,7 +5,7 @@ Formats: [HTML](2006/01/1/index.html)  [JSON](2006/01/1/index.json)  [XML](2006/
 
 ##### Restarts
 ### [ Russian natural gas supplier Gazprom cuts gas supplies to Ukraine, following Ukraine's rejection of a 460% price increase. President Vladimir Putin had offered a three-month price freeze if Ukraine would agree to pay the higher price thereafter, but this was rejected. Ukraine pays US$50 per 1000 cubic metres, Russia claims the market rate is $230. ](/news/2006/01/1/russian-natural-gas-supplier-gazprom-cuts-gas-supplies-to-ukraine-following-ukraine-s-rejection-of-a-460-price-increase-president-vladim.md)
-_Context: Gazprom, Ukraine, Vladimir Putin, natural gas, restarts_
+_Context: Gazprom, Ukrainian, Vladimir Putin, natural gas, restarts_
 
 ##### Iranian President
 ### [ Iranian President Mahmoud Ahmadinejad accuses European nations of trying to complete the Holocaust by creating a "Jewish camp" Israel in the Middle East. "Don't you think that continuation of genocide by expelling Jews from Europe was one of their aims in creating a regime of occupiers of Al-Quds (Jerusalem) Isn't that an important question?" He went on to say that Europe should cede some of their territory for a Jewish state, and that anti-Semitism has a long history in Europe, while Jews have lived peacefully among Muslims for centuries. ](/news/2006/01/1/iranian-president-mahmoud-ahmadinejad-accuses-european-nations-of-trying-to-complete-the-holocaust-by-creating-a-jewish-camp-israel-in-th.md)

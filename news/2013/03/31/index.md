@@ -63,7 +63,7 @@ _Context: Chinese_
 ### [The Nigerian Army kills 14 suspected Boko Haram members in a raid on a building, with the death of one soldier and the capture of a potential suicide bomber in a car full of explosives in the northern city of Kano. ](/news/2013/03/31/the-nigerian-army-kills-14-suspected-boko-haram-members-in-a-raid-on-a-building-with-the-death-of-one-soldier-and-the-capture-of-a-potentia.md)
 Nigerian troops say they have killed 14 suspected members of the Islamist group Boko Haram, in a raid on a building in the northern city of Kano.
 
-##### Islam
+##### Muslim
 ### [Rebel Islamist fighters attempt to infiltrate Timbuktu, but are repelled by French and Malian forces. ](/news/2013/03/31/rebel-islamist-fighters-attempt-to-infiltrate-timbuktu-but-are-repelled-by-french-and-malian-forces.md)
 The attackers appeared to number perhaps 10 or 15, said the French military spokesman, Col. Thierry Burkhard. “A half-dozen” were confirmed killed, he said.
 

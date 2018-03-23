@@ -31,7 +31,7 @@ _Context: Moldova_
 ### [ Lithuania launches an inquiry into allegations that it hosted a secret CIA prison for al-Qaeda suspects. ](/news/2009/08/26/lithuania-launches-an-inquiry-into-allegations-that-it-hosted-a-secret-cia-prison-for-al-qaeda-suspects.md)
 _Context: CIA, Lithuania, al-Qaeda_
 
-##### United States Senate
+##### Senate
 ### [ U.S. Senator Ted Kennedy of Massachusetts, the last surviving Kennedy brother, dies at age 77, after battling brain cancer. ](/news/2009/08/26/u-s-senator-ted-kennedy-of-massachusetts-the-last-surviving-kennedy-brother-dies-at-age-77-after-battling-brain-cancer.md)
 Senator Kennedy, a man who knew acclaim and tragedy in near-equal measure, will be remembered as one of the most effective lawmakers in the history of the Senate.
 

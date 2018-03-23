@@ -21,7 +21,7 @@ _Context: 2013 murder, Aaron Hernandez, American football, Fall River, Massachus
 
 ##### Police
 ### [British police arrest six people on suspicion of terrorism after Turkish authorities stop a group crossing the Syrian border. ](/news/2015/04/15/british-police-arrest-six-people-on-suspicion-of-terrorism-after-turkish-authorities-stop-a-group-crossing-the-syrian-border.md)
-_Context: Syria, Turkish, police, terrorism_
+_Context: Syria, Turkey, police, terrorism_
 
 ##### Jamal Benomar
 ### [Jamal Benomar resigns as the United Nations peace envoy to Yemen after losing support from the Gulf nations. ](/news/2015/04/15/jamal-benomar-resigns-as-the-united-nations-peace-envoy-to-yemen-after-losing-support-from-the-gulf-nations.md)

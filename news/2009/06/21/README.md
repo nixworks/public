@@ -35,9 +35,9 @@ _Context: France_
 ### [ Self-rule is introduced in Greenland following a 2008 referendum. ](/news/2009/06/21/self-rule-is-introduced-in-greenland-following-a-2008-referendum.md)
 _Context: 2008 referendum, Greenland, Self-rule_
 
-##### Somalia
+##### Somali
 ### [ The Somali government declares a state of emergency. ](/news/2009/06/21/the-somali-government-declares-a-state-of-emergency.md)
-_Context: Somalia, declares, states of emergency_
+_Context: Somali, declares, states of emergency_
 
 ##### Treaty of Lisbon
 ### [ A new pro-Treaty of Lisbon group led by Pat Cox is launched in Ireland. ](/news/2009/06/21/a-new-pro-treaty-of-lisbon-group-led-by-pat-cox-is-launched-in-ireland.md)

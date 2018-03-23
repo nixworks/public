@@ -13,7 +13,7 @@ _Context: Assam, Nagaland, National Democratic Front of Bodoland_
 
 ##### 2004 U.S. presidential candidate
 ### [ U.S. presidential election, 2004: Fox News apologizes for an incident on Friday, October 1, in which it posted a story containing false quotes attributed to presidential candidate Senator John Kerry. Fox says the reporter who wrote the story, Carl Cameron, had written the article "in jest" and had not intended for it to be posted. ](/news/2004/10/2/u-s-presidential-election-2004-fox-news-apologizes-for-an-incident-on-friday-october-1-in-which-it-posted-a-story-containing-false-quo.md)
-_Context: 2004 U.S. presidential candidate, Carl Cameron, Fox News, John Kerry, U.S. President, United States Senate, journalist_
+_Context: 2004 U.S. presidential candidate, Carl Cameron, Fox News, John Kerry, Senate, U.S. President, journalist_
 
 ## [Previous Day...](/news/2004/10/1/index.md)
 

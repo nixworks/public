@@ -59,7 +59,7 @@ _Context: China, Sichuan, deadly earthquake_
 ### [Tropical Storm Bebeng kills at least 20 people in the Philippines. ](/news/2011/05/10/tropical-storm-bebeng-kills-at-least-20-people-in-the-philippines.md)
 _Context: Philippines, Tropical Storm Bebeng_
 
-##### Somalia
+##### Somali
 ### [54 Somalis fleeing the civil war in Libya drown after their boat sinks off the coast of Tripoli. ](/news/2011/05/10/54-somalis-fleeing-the-civil-war-in-libya-drown-after-their-boat-sinks-off-the-coast-of-tripoli.md)
 Fifty-four Somalis fleeing the Libyan war are believed dead after an crowded boat capsized off Tripoli, the Somali ambassador said Tuesday.
 

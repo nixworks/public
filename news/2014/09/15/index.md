@@ -33,7 +33,7 @@ _Context: Cognizant, US$_
 
 ##### Donetsk
 ### [Heavy shelling on the city of Donetsk, Ukraine, leaves 6 people dead and 15 wounded. ](/news/2014/09/15/heavy-shelling-on-the-city-of-donetsk-ukraine-leaves-6-people-dead-and-15-wounded.md)
-_Context: Donetsk, Ukraine_
+_Context: Donetsk, Ukrainian_
 
 ## [Previous Day...](/news/2014/09/14/index.md)
 

@@ -67,9 +67,9 @@ A Turkish leftist group says it carried out a suicide bombing outside a police s
 ### [Taliban bombard Bagram Air Base. They kill three people and destroy a helicopter, wounding three personnel on board. ](/news/2012/09/11/taliban-bombard-bagram-air-base-they-kill-three-people-and-destroy-a-helicopter-wounding-three-personnel-on-board.md)
 Afghan insurgents bombarded a U.S. base and destroyed a NATO helicopter, killing three Afghan intelligence employees.
 
-##### Somalia
+##### Somali
 ### [In Somalia, more than fifty Al-Shabaab fighters are killed as African Union Kenyan peacekeepers, and the Somali National Army, continue their march towards the port city of Kismayo. ](/news/2012/09/11/in-somalia-more-than-fifty-al-shabaab-fighters-are-killed-as-african-union-kenyan-peacekeepers-and-the-somali-national-army-continue-thei.md)
-_Context: AMISOM, African Union, Al-Shabaab, Kenyan army forces, Kismayo, Somali National Army, Somalia_
+_Context: AMISOM, African Union, Al-Shabab, Kenyan army forces, Kismayo, Somali, Somali National Army_
 
 ##### Yemen
 ### [A car bomb targeting Yemen's defence minister, Mohammed Nasser Ahmed, kills at least twelve people, including seven bodyguards of the minister and five civilians in Sana. ](/news/2012/09/11/a-car-bomb-targeting-yemen-s-defence-minister-mohammed-nasser-ahmed-kills-at-least-twelve-people-including-seven-bodyguards-of-the-minist.md)

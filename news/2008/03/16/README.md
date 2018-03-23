@@ -17,7 +17,7 @@ _Context: 2008, Iraq, John McCain, Republican candidate, Senator, United States_
 
 ##### France
 ### [ French voters go to the polls in the second round of the 2008 municipal elections, with President Nicolas Sarkozy's party Union for a Popular Movement likely to lose. ](/news/2008/03/16/french-voters-go-to-the-polls-in-the-second-round-of-the-2008-municipal-elections-with-president-nicolas-sarkozy-s-party-union-for-a-popul.md)
-_Context: 2008 municipal elections, France, French President, Nicolas Sarkozy, UMP_
+_Context: 2008 municipal elections, France, Nicolas Sarkozy, President of France, UMP_
 
 ##### Harvard Medical School
 ### [ Scientists from Harvard Medical School announce a breakthrough technique that could stop cancer cells' growth by inhibiting the enzyme pyruvate kinase. ](/news/2008/03/16/scientists-from-harvard-medical-school-announce-a-breakthrough-technique-that-could-stop-cancer-cells-growth-by-inhibiting-the-enzyme-pyru.md)

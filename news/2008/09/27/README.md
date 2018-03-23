@@ -31,9 +31,9 @@ _Context: China, Shenzhou 7, Zhai Zhigang, astronaut, extra-vehicular activity_
 ### [ The People's Council of Turkmenistan, implementing changes approved in the Constitution, passes a vote to abolish itself and allow opposition parties. ](/news/2008/09/27/the-people-s-council-of-turkmenistan-implementing-changes-approved-in-the-constitution-passes-a-vote-to-abolish-itself-and-allow-oppositi.md)
 _Context: Constitution, People's Council, Turkmenistan_
 
-##### United States Senate
+##### Senate
 ### [ The United States Senate passes a large spending bill including $25 billion in taxpayer subsidised loans for automakers and the end of offshore drilling bans. ](/news/2008/09/27/the-united-states-senate-passes-a-large-spending-bill-including-25-billion-in-taxpayer-subsidised-loans-for-automakers-and-the-end-of-offs.md)
-_Context: United States Senate, automaker, offshore_
+_Context: Senate, automaker, offshore_
 
 ##### 2008 Atlantic hurricane season
 ### [ 2008 Atlantic hurricane season: Tropical Storm Kyle strengthens into Hurricane Kyle with predictions that it will make landfall in the New England region of the United States or Canada's Maritime Provinces on Sunday. ](/news/2008/09/27/2008-atlantic-hurricane-season-tropical-storm-kyle-strengthens-into-hurricane-kyle-with-predictions-that-it-will-make-landfall-in-the-new.md)

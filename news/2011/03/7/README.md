@@ -27,9 +27,9 @@ Japan’s foreign minister of barely six months, Seiji Maehara, may have earned 
 ### [A new cabinet of Egypt is sworn in by the Chairman of the Supreme Council of the Armed Forces Mohamed Hussein Tantawi. ](/news/2011/03/7/a-new-cabinet-of-egypt-is-sworn-in-by-the-chairman-of-the-supreme-council-of-the-armed-forces-mohamed-hussein-tantawi.md)
 _Context: Egypt, Mohamed Hussein Tantawi, governing body_
 
-##### French President
+##### President of France
 ### [Former President of France Jacques Chirac faces charges that related to alleged use of Paris city government resources to benefit his Rally for the Republic party while serving as Mayor of Paris. ](/news/2011/03/7/former-president-of-france-jacques-chirac-faces-charges-that-related-to-alleged-use-of-paris-city-government-resources-to-benefit-his-rally.md)
-_Context: French President, Jacques Chirac, Mayor of Paris, Paris, Rally for the Republic_
+_Context: Jacques Chirac, Mayor of Paris, Paris, President of France, Rally for the Republic_
 
 ##### Tunisia
 ### [Tunisia dissolves the country's secret police, accused of human rights abuses. ](/news/2011/03/7/tunisia-dissolves-the-country-s-secret-police-accused-of-human-rights-abuses.md)

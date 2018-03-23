@@ -15,7 +15,7 @@ In 1660, New France had six male settlers for every female settler. The Filles d
 ### [ Loyalist paramilitary organisations in Northern Ireland begin to decommission their weapons. ](/news/2009/06/18/loyalist-paramilitary-organisations-in-northern-ireland-begin-to-decommission-their-weapons.md)
 The Taoiseach has welcomed reports that loyalist paramilitary organisations have begun to decommission their weapons.
 
-##### Islam
+##### Muslim
 ### [ Islamic militants allied to Al-Qaeda launch an attack on a convoy escorting Chinese workers in Mansoura, Algeria, killing 24 policemen. ](/news/2009/06/18/islamic-militants-allied-to-al-qaeda-launch-an-attack-on-a-convoy-escorting-chinese-workers-in-mansoura-algeria-killing-24-policemen.md)
 Insurgents killed 24 Algerian paramilitary police in an ambush on their convoy late today, a local newspaper reported today.
 
@@ -25,7 +25,7 @@ Mali’s army on Tuesday attacked an al-Qaeda base near the Algerian border, kil
 
 ##### Beledweyne
 ### [ A suicide bomber detonated an explosives-laden vehicle at the Medina Hotel in Beledweyne, Somalia, killing 10 people. Among the dead is Omar Hashi Aden, Somalia's Security Minister. ](/news/2009/06/18/a-suicide-bomber-detonated-an-explosives-laden-vehicle-at-the-medina-hotel-in-beledweyne-somalia-killing-10-people-among-the-dead-is-oma.md)
-_Context: Beledweyne, Omar Hashi Aden, Somalia_
+_Context: Beledweyne, Omar Hashi Aden, Somali_
 
 ##### High Court
 ### [ The High Court rules that Suzanne Breen, an editor of the "Sunday Tribune", need not hand over her notes on the Real IRA to police as it would endanger her life. ](/news/2009/06/18/the-high-court-rules-that-suzanne-breen-an-editor-of-the-sunday-tribune-need-not-hand-over-her-notes-on-the-real-ira-to-police-as-it-wo.md)

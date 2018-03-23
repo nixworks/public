@@ -3,9 +3,9 @@ Formats: [HTML](2007/08/17/index.html)  [JSON](2007/08/17/index.json)  [XML](200
 
 ## [2007-08-17](/news/2007/08/17/index.md)
 
-##### Islam
+##### Muslim
 ### [ Six Islamic militants involved in planning the 2002 Bali bombings have their sentences reduced by five months due to good behaviour. ](/news/2007/08/17/six-islamic-militants-involved-in-planning-the-2002-bali-bombings-have-their-sentences-reduced-by-five-months-due-to-good-behaviour.md)
-_Context: 2002 Bali bombings, Islam_
+_Context: 2002 Bali bombings, Muslim_
 
 ##### 2007 Pacific typhoon season
 ### [ 2007 Pacific typhoon season: Southeast China and Taiwan prepare for typhoon Sepat. ](/news/2007/08/17/2007-pacific-typhoon-season-southeast-china-and-taiwan-prepare-for-typhoon-sepat.md)
@@ -77,7 +77,7 @@ _Context: France, Lebanese, United Nations, United Nations Security Council_
 
 ##### Taliban
 ### [ A dozen Taliban die in an attempted ambush of a joint patrol of Afghan police and Coalition troops in Helmand province. ](/news/2007/08/17/a-dozen-taliban-die-in-an-attempted-ambush-of-a-joint-patrol-of-afghan-police-and-coalition-troops-in-helmand-province.md)
-_Context: Afghanistan, Helmand Province, Taliban, ambush_
+_Context: Afghan, Helmand Province, Taliban, ambush_
 
 ##### Iran
 ### [ Six members of the Iranian security forces are killed in a helicopter crash near the town of Piranshahr close to the Iraqi border. ](/news/2007/08/17/six-members-of-the-iranian-security-forces-are-killed-in-a-helicopter-crash-near-the-town-of-piranshahr-close-to-the-iraqi-border.md)

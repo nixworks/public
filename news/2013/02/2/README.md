@@ -27,9 +27,9 @@ _Context: Japan, Japanese Prime Minister, Senkaku Islands, Shinzo Abe, military_
 ### [The protesters clashes with police outside the presidential palace in Cairo, Egypt, after a week of violence in which more than 60 people were killed. ](/news/2013/02/2/the-protesters-clashes-with-police-outside-the-presidential-palace-in-cairo-egypt-after-a-week-of-violence-in-which-more-than-60-people-we.md)
 At least one protester was shot dead and dozens wounded on Friday when riot police clashed with demonstrators demanding the overthrow of Egyptian President Mohamed Mursi.
 
-##### Turkish
+##### Turkey
 ### [The Turkish radical leftist group Revolutionary People's Liberation Party-Front claims responsibility for the bombing in Ankara. ](/news/2013/02/2/the-turkish-radical-leftist-group-revolutionary-people-s-liberation-partyafront-claims-responsibility-for-the-bombing-in-ankara.md)
-_Context: Ankara, Revolutionary People's Liberation Army-Front (DHKP-C), Turkish, bombing_
+_Context: Ankara, Revolutionary People's Liberation Army-Front (DHKP-C), Turkey, bombing_
 
 ##### Pakistani troops
 ### [Militants attack a Pakistani Army base in the Lakki Marwat District in Pakistan killing at least 23 and injuring at least 8. ](/news/2013/02/2/militants-attack-a-pakistani-army-base-in-the-lakki-marwat-district-in-pakistan-killing-at-least-23-and-injuring-at-least-8.md)

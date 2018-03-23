@@ -9,7 +9,7 @@ A Russian Soyuz spacecraft with three crew on board successfully docked at the I
 
 ##### Senate Majority Leader
 ### [U.S. Senate Minority Leader Harry Reid (D-Nevada) announces he will not seek re-election to the United States Senate and intends to retire at the end of his term in January 2017. ](/news/2015/03/27/u-s-senate-minority-leader-harry-reid-d-nevada-announces-he-will-not-seek-re-election-to-the-united-states-senate-and-intends-to-retire-a.md)
-_Context: Democrat, Harry Reid, Nevada, Senate Majority Leader, United States Senate_
+_Context: Democrat, Harry Reid, Nevada, Senate, Senate Majority Leader_
 
 ##### Amanda Knox
 ### [Italy's highest court acquits American Amanda Knox and Italian Raffaele Sollecito of the murder of Briton Meredith Kercher. ](/news/2015/03/27/italy-s-highest-court-acquits-american-amanda-knox-and-italian-raffaele-sollecito-of-the-murder-of-briton-meredith-kercher.md)
@@ -29,11 +29,11 @@ _Context: Amsterdam, Amsterdam Airport Schiphol, Dutch, power outage_
 
 ##### Stampede
 ### [A stampede at a Hindu festival in Langalbandh, Bangladesh, kills at least ten people with dozens more injured. ](/news/2015/03/27/a-stampede-at-a-hindu-festival-in-langalbandh-bangladesh-kills-at-least-ten-people-with-dozens-more-injured.md)
-_Context: Bangladesh, Hindu, Langalbandh, stampede_
+_Context: Bangladesh, Hindus, Langalbandh, stampede_
 
 ##### War in Somalia
 ### [Militants believed to be from al-Shabab attack and temporarily occupy a Mogadishu hotel leaving at least nine people dead. ](/news/2015/03/27/militants-believed-to-be-from-al-shabab-attack-and-temporarily-occupy-a-mogadishu-hotel-leaving-at-least-nine-people-dead.md)
-_Context: Al-Shabaab, Mogadishu, War in Somalia, the March 27 hotel siege_
+_Context: Al-Shabab, Mogadishu, War in Somalia, the March 27 hotel siege_
 
 ##### Attacks
 ### [A Middle Eastern coalition led by the Saudi Arabian army and Egyptian navy attacks positions in Yemen for the second successive day, resulting in at least ten deaths in Saada Governorate. Saudi Arabia declares that it will enforce a "no-fly zone". ](/news/2015/03/27/a-middle-eastern-coalition-led-by-the-saudi-arabian-army-and-egyptian-navy-attacks-positions-in-yemen-for-the-second-successive-day-resulti.md)

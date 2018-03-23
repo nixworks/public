@@ -15,7 +15,7 @@ _Context: Diego Fernandez de Cevallos, Mexico_
 ### [President of Belarus Alexander Lukashenko claims victory in the presidential election with 79% of the vote. Hundreds of people who protested the vote are arrested. ](/news/2010/12/20/president-of-belarus-alexander-lukashenko-claims-victory-in-the-presidential-election-with-79-of-the-vote-hundreds-of-people-who-protested.md)
 Police in Belarus beat and arrest scores of protesters and several presidential candidates, drawing international condemnation.
 
-##### Ukraine
+##### Ukrainian
 ### [Ukrainian opposition leader Yulia Tymoshenko is charged with misusing state funds while serving as Prime Minister. ](/news/2010/12/20/ukrainian-opposition-leader-yulia-tymoshenko-is-charged-with-misusing-state-funds-while-serving-as-prime-minister.md)
 Ukrainian opposition leader Yulia Tymoshenko has been charged with misusing state funds while serving as prime minister, her spokeswoman says.
 
@@ -89,7 +89,7 @@ Pope Benedict calls for the Catholic Church to reflect on mistakes that allowed 
 
 ##### Taliban
 ### [13 Afghan soldiers were killed in two separate suicide attacks launched by Taliban in the capital city of Afghanistan. ](/news/2010/12/20/13-afghan-soldiers-were-killed-in-two-separate-suicide-attacks-launched-by-taliban-in-the-capital-city-of-afghanistan.md)
-_Context: Afghanistan, Kabul, Taliban_
+_Context: Afghan, Kabul, Taliban_
 
 ##### Republic of Korea Marine Corps
 ### [The Republic of Korea Marine Corps holds live-fire drill exercises on Yeonpyeong Island. North Korea says it will not retaliate. ](/news/2010/12/20/the-republic-of-korea-marine-corps-holds-live-fire-drill-exercises-on-yeonpyeong-island-north-korea-says-it-will-not-retaliate.md)
@@ -99,9 +99,9 @@ South Korea holds live-firing exercises on an island close to the border with No
 ### [A bomb exploded at a downtown bus station in Kenya's capital as passengers boarded a bus, killing at least one person and wounding up to 39 others, police said. Suspicions centered on a Somali militant group. ](/news/2010/12/20/a-bomb-exploded-at-a-downtown-bus-station-in-kenya-s-capital-as-passengers-boarded-a-bus-killing-at-least-one-person-and-wounding-up-to-39.md)
 _Context: Kenya, Nairobi, Somali_
 
-##### Somalia
+##### Somali
 ### [7 people are killed in a roadside bomb and shooting incident in the Somali capital Mogadishu. ](/news/2010/12/20/7-people-are-killed-in-a-roadside-bomb-and-shooting-incident-in-the-somali-capital-mogadishu.md)
-_Context: Mogadishu, Somalia_
+_Context: Mogadishu, Somali_
 
 ## [Previous Day...](/news/2010/12/19/index.md)
 

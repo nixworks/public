@@ -13,7 +13,7 @@ _Context: Jaber Al-Ahmad Al-Jaber Al-Sabah, Kuwait, Sheikh Saad Al-Abdullah Al-S
 
 ##### Diplomat
 ### [ Canadian diplomat Glyn Berry is killed and two Canadian soldiers critically injured by a bomb blast in Afghanistan. He is the first Canadian diplomat to be killed on duty. ](/news/2006/01/15/canadian-diplomat-glyn-berry-is-killed-and-two-canadian-soldiers-critically-injured-by-a-bomb-blast-in-afghanistan-he-is-the-first-canadia.md)
-_Context: Afghanistan, Glyn Berry, diplomat_
+_Context: Afghan, Glyn Berry, diplomat_
 
 ##### Clemenceau
 ### [ The French warship Clemenceau's transit through the Suez Canal is approved by Egyptian authorities. This decision is heavily criticized by Greenpeace and other environmental groups. ](/news/2006/01/15/the-french-warship-clemenceau-s-transit-through-the-suez-canal-is-approved-by-egyptian-authorities-this-decision-is-heavily-criticized-by.md)
@@ -43,9 +43,9 @@ _Context: Ariel Sharon, Prime Minister, his recovery, stroke, tracheotomy_
 ### [ Kim Jong-il, the leader of North Korea, is alleged to have made a journey to China as part of a fact-finding mission in the region. ](/news/2006/01/15/kim-jong-il-the-leader-of-north-korea-is-alleged-to-have-made-a-journey-to-china-as-part-of-a-fact-finding-mission-in-the-region.md)
 _Context: Kim Jong-il, North Korea_
 
-##### Ukraine
+##### Ukrainian
 ### [ Russia and Ukraine are set to enter more diplomatic troubled waters over the alleged occupation of a lighthouse in the Black Sea. ](/news/2006/01/15/russia-and-ukraine-are-set-to-enter-more-diplomatic-troubled-waters-over-the-alleged-occupation-of-a-lighthouse-in-the-black-sea.md)
-_Context: Black Sea, Ukraine, lighthouse_
+_Context: Black Sea, Ukrainian, lighthouse_
 
 ##### Mwai Kibaki
 ### [ President Mwai Kibaki of Kenya has declared the ongoing drought a national disaster and has appealed for US$150 million to feed the hungry. 2.5 million people have been left close to starvation due to the lack of rains over the last three years and corrupt officials who steal food aid. ](/news/2006/01/15/president-mwai-kibaki-of-kenya-has-declared-the-ongoing-drought-a-national-disaster-and-has-appealed-for-us-150-million-to-feed-the-hungry.md)

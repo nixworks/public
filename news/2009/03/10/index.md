@@ -41,7 +41,7 @@ _Context: Alabama, Geneva County, United States, shooting spree_
 
 ##### United States
 ### [ The United States Senate passes a US$410-billion omnibus spending bill. ](/news/2009/03/10/the-united-states-senate-passes-a-us-410-billion-omnibus-spending-bill.md)
-_Context: US$, United States, United States Senate, omnibus spending bill_
+_Context: Senate, US$, United States, omnibus spending bill_
 
 ## [Previous Day...](/news/2009/03/9/index.md)
 

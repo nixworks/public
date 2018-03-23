@@ -5,7 +5,7 @@ Formats: [HTML](2013/04/17/index.html)  [JSON](2013/04/17/index.json)  [XML](201
 
 ##### Gun politics in the United States
 ### [A proposal to tighten gun control in the United States fails in a Senate vote. ](/news/2013/04/17/a-proposal-to-tighten-gun-control-in-the-united-states-fails-in-a-senate-vote.md)
-_Context: Gun politics in the United States, United States, United States Senate_
+_Context: Gun politics in the United States, Senate, United States_
 
 ##### Parliament
 ### [Parliament of New Zealand legalizes same-sex marriage in New Zealand. ](/news/2013/04/17/parliament-of-new-zealand-legalizes-same-sex-marriage-in-new-zealand.md)
@@ -49,7 +49,7 @@ Rescuers searched on Thursday for survivors in the rubble of homes destroyed by 
 
 ##### U.S. President
 ### [Further suspicious letters are found addressed to President Barack Obama and to members of the United States Senate. ](/news/2013/04/17/further-suspicious-letters-are-found-addressed-to-president-barack-obama-and-to-members-of-the-united-states-senate.md)
-_Context: Barack Obama, U.S. President, United States Senate_
+_Context: Barack Obama, Senate, U.S. President_
 
 ##### FBI
 ### [The U.S. FBI recovers forensic evidence suggesting the two explosive devices which exploded near the finish line of the 2013 Boston Marathon were pressure cooker bombs, placed inside heavy black nylon bags containing shrapnel. ](/news/2013/04/17/the-u-s-fbi-recovers-forensic-evidence-suggesting-the-two-explosive-devices-which-exploded-near-the-finish-line-of-the-2013-boston-marathon.md)

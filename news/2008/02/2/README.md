@@ -5,7 +5,7 @@ Formats: [HTML](2008/02/2/index.html)  [JSON](2008/02/2/index.json)  [XML](2008/
 
 ##### France
 ### [ French President Nicolas Sarkozy marries singer and former supermodel Carla Bruni at the Elysee Palace. ](/news/2008/02/2/french-president-nicolas-sarkozy-marries-singer-and-former-supermodel-carla-bruni-at-the-alysa-c-e-palace.md)
-_Context: Carla Bruni, Elysee Palace, France, French President, Nicolas Sarkozy, supermodel_
+_Context: Carla Bruni, Elysee Palace, France, Nicolas Sarkozy, President of France, supermodel_
 
 ##### Battle of N'Djamena
 ### [ Battle of N'Djamena: Chadian rebels enter the capital N'Djamena and head for the presidential palace. ](/news/2008/02/2/battle-of-n-djamena-chadian-rebels-enter-the-capital-n-djamena-and-head-for-the-presidential-palace.md)

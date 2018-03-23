@@ -3,7 +3,7 @@ Formats: [HTML](2018/01/2/index.html)  [JSON](2018/01/2/index.json)  [XML](2018/
 
 ## [2018-01-2](/news/2018/01/2/index.md)
 
-##### United States Senate
+##### Senate
 ### [U.S. Senator Orrin Hatch announces that he will retire in January 2019. ](/news/2018/01/2/u-s-senator-orrin-hatch-announces-that-he-will-retire-in-january-2019.md)
 Washington • After 40 years in the Senate, Utah’s Orrin Hatch said Tuesday he plans to retire at the end of the year and not seek re-election, ending breathless speculation on whether the powerful senator would try for an eighth term.
 

@@ -13,7 +13,7 @@ _Context: Andrew Mwenda, John Garang, Sudan, Uganda, sedition_
 
 ##### Helios Airways
 ### [ Helios Airways Flight 522 en route from Larnaca, Cyprus via Athens, Greece to Prague, Czech Republic crashes near Athens, with at least 121 onboard. Observations from Greek fighter aircraft indicate a decompression problem. ](/news/2005/08/14/helios-airways-flight-522-en-route-from-larnaca-cyprus-via-athens-greece-to-prague-czech-republic-crashes-near-athens-with-at-least-121.md)
-_Context: Athens, Cypriot, Czech Republic, Flight 522, Helios Airways, Larnaca, Prague_
+_Context: Athens, Cyprus, Czech Republic, Flight 522, Helios Airways, Larnaca, Prague_
 
 ##### Coalition forces
 ### [ U.S. forces in Iraq raid a warehouse in Mosul. They uncover a suspected chemical weapons factory. ](/news/2005/08/14/u-s-forces-in-iraq-raid-a-warehouse-in-mosul-they-uncover-a-suspected-chemical-weapons-factory.md)

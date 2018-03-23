@@ -27,9 +27,9 @@ South Korea confirmed a case of foot-and-mouth disease at a dairy farm, the agri
 ### [Queen Elizabeth II marks her 65th anniversary as sovereign, making her the only British monarch to commemorate a Sapphire Jubilee. ](/news/2017/02/6/queen-elizabeth-ii-marks-her-65th-anniversary-as-sovereign-making-her-the-only-british-monarch-to-commemorate-a-sapphire-jubilee.md)
 _Context: Elizabeth II, Sapphire Jubilee_
 
-##### Afghanistan
+##### Afghan
 ### [An Afghan diplomat is shot dead at the Afghan consulate in Karachi, Pakistan. ](/news/2017/02/6/an-afghan-diplomat-is-shot-dead-at-the-afghan-consulate-in-karachi-pakistan.md)
-_Context: Afghanistan, Karachi, Pakistan_
+_Context: Afghan, Karachi, Pakistan_
 
 ##### Sinai insurgency
 ### [An Egyptian Army raid in central Sinai kills at least 14 ISIL militants. ](/news/2017/02/6/an-egyptian-army-raid-in-central-sinai-kills-at-least-14-isil-militants.md)

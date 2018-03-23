@@ -13,7 +13,7 @@ PM Hun Sen, who has ruled for decades, now faces no serious challenge ahead of e
 
 ##### Crime in the United States
 ### [A mistrial is declared in the 10-week corruption trial of U.S. Senator Bob Menendez (D-NJ) who was accused of accepting private flights, campaign contributions, etc., from Florida ophthalmologist Salomon Melgen in exchange for official favors. A juror told the media the panel was split 10-2 in favor of acquittal. ](/news/2017/11/16/a-mistrial-is-declared-in-the-10-week-corruption-trial-of-u-s-senator-bob-menendez-d-nj-who-was-accused-of-accepting-private-flights-cam.md)
-_Context: Bob Menendez, Crime in the United States, Florida, United States Senate, ophthalmologist_
+_Context: Bob Menendez, Crime in the United States, Florida, Senate, ophthalmologist_
 
 ##### Economy of Venezuela
 ### [Venezuela defaults on sovereign debt and bonds issued by state oil firm PDVSA (Petroleos de Venezuela, S.A.). ](/news/2017/11/16/venezuela-defaults-on-sovereign-debt-and-bonds-issued-by-state-oil-firm-pdvsa-petra3leos-de-venezuela-s-a.md)

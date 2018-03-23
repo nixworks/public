@@ -43,7 +43,7 @@ _Context: Carrier Strike Group 3_
 ### [ Five people are killed in a military plane crash in Sudan. ](/news/2016/04/30/five-people-are-killed-in-a-military-plane-crash-in-sudan.md)
 A Sudanese military plane crashed in the central city of El-Obeid on Saturday, killing five people, the army said.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [According to survivors, at least 70 migrants are missing after their dinghy sank off the coast of Libya. 26 people were rescued by the Italian coast guard. ](/news/2016/04/30/according-to-survivors-at-least-70-migrants-are-missing-after-their-dinghy-sank-off-the-coast-of-libya-26-people-were-rescued-by-the-itali.md)
 Eighty-four migrants are missing after their inflatable dinghy sank off the Libyan coast, the International Organization for Migration says.
 

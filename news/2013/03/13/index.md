@@ -57,7 +57,7 @@ _Context: Nigeria_
 
 ##### Kurdish
 ### [Kurdish rebels release eight Turkish citizens that had been held captive for two years. ](/news/2013/03/13/kurdish-rebels-release-eight-turkish-citizens-that-had-been-held-captive-for-two-years.md)
-_Context: Kurdish, Turkish_
+_Context: Kurdish, Turkey_
 
 ##### European Union
 ### [Ahmad Shihadeh, a member of the European Union's delegation in Syria, is killed in a rocket attack in a Damascus suburb. ](/news/2013/03/13/ahmad-shihadeh-a-member-of-the-european-union-s-delegation-in-syria-is-killed-in-a-rocket-attack-in-a-damascus-suburb.md)
@@ -65,7 +65,7 @@ _Context: Damascus, European Union, Syria_
 
 ##### Kunduz province
 ### [A suicide bomber kills 10 spectators, including the district police chief, during a local gaming event in Kunduz province of northern Afghanistan. ](/news/2013/03/13/a-suicide-bomber-kills-10-spectators-including-the-district-police-chief-during-a-local-gaming-event-in-kunduz-province-of-northern-afghan.md)
-_Context: Afghanistan, Kunduz province_
+_Context: Afghan, Kunduz province_
 
 ##### Bemina
 ### [Five Indian paramilitary soldiers are killed and three civilians injured by two militants near a school in Bemina area of Srinagar in Indian-administered Kashmir, later two militants being killed by CRPF. ](/news/2013/03/13/five-indian-paramilitary-soldiers-are-killed-and-three-civilians-injured-by-two-militants-near-a-school-in-bemina-area-of-srinagar-in-indian.md)

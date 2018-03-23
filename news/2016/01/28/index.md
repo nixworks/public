@@ -19,9 +19,9 @@ Ivory Coast ex-President Laurent Gbagbo denies charges of crimes against humanit
 ### [Georgia welcomes the ICC's investigation into alleged war crimes committed during the 2008 South Ossetia war, which will be the first inquiry by the ICC into possible abuses by Moscow and-or Georgia. ](/news/2016/01/28/georgia-welcomes-the-icc-s-investigation-into-alleged-war-crimes-committed-during-the-2008-south-ossetia-war-which-will-be-the-first-inquir.md)
 _Context:  Georgian, 2008 South Ossetia war, International Criminal Court, Russo-Georgian War_
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Swedish Interior Minister Anders Ygeman tells financial newspaper "Dagens Industri" that Sweden is disallowing about 45 percent of asylum applications which means around 60,000-80,000 asylum-seekers could be deported in coming years. ](/news/2016/01/28/swedish-interior-minister-anders-ygeman-tells-financial-newspaper-dagens-industri-that-sweden-is-disallowing-about-45-percent-of-asylum-ap.md)
-_Context: Anders Ygeman, Dagens Industri, European migrant crisis, Interior Minister, Sweden, asylum applications, refugees_
+_Context: Anders Ygeman, Dagens Industri, Interior Minister, Sweden, asylum applications, refugee immigration to Germany, refugees_
 
 ##### Tensions in the region
 ### [The President of Taiwan Ma Ying-jeou visits Taiping Island, Taiwan's largest island in the South China Sea, despite the United States warning it could provoke diplomatic tensions with the People's Republic of China and other nations in the area. ](/news/2016/01/28/the-president-of-taiwan-ma-ying-jeou-visits-taiping-island-taiwan-s-largest-island-in-the-south-china-sea-despite-the-united-states-warnin.md)
@@ -31,7 +31,7 @@ _Context: China, Ma Ying-jeou, President of Taiwan, South China Sea, Taiping Isl
 ### [The World Health Organization forms an emergency committee to tackle the spread of the Zika virus in the Americas. ](/news/2016/01/28/the-world-health-organization-forms-an-emergency-committee-to-tackle-the-spread-of-the-zika-virus-in-the-americas.md)
 The World Health Organization announced Thursday that it has convened an emergency committee to try to find ways to identify, treat and stop the transmission of Zika virus, which officials said is &quot;spreading explosively&quot; across the Americas.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [A boat carrying Iraqi Kurd migrants sinks off the Greek island of Samos in the Aegean Sea off Turkey's Anatolian coast, killing at least 24 people, including several children, with 11 others missing. ](/news/2016/01/28/a-boat-carrying-iraqi-kurd-migrants-sinks-off-the-greek-island-of-samos-in-the-aegean-sea-off-turkey-s-anatolian-coast-killing-at-least-24.md)
 More than 3,700 migrants died while trying to enter Europe via the Mediterranean last year, and the latest accident was a reminder that the flow has not stopped.
 

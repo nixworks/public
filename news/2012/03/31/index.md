@@ -19,9 +19,9 @@ _Context: Beijing, Chinese police_
 ### [Floods in Fiji cause at least two deaths and the evacuation of thousands of residents. ](/news/2012/03/31/floods-in-fiji-cause-at-least-two-deaths-and-the-evacuation-of-thousands-of-residents.md)
 FOREIGN Minister Bob Carr has confirmed Qantas will increase capacity to ensure Australians stranded in flood-stricken Fiji can get home.
 
-##### Turkish
+##### Turkey
 ### [Turkey reduces its purchases of Iranian oil by 20%. ](/news/2012/03/31/turkey-reduces-its-purchases-of-iranian-oil-by-20.md)
-_Context: Iran, Turkish_
+_Context: Iran, Turkey_
 
 ##### Irish
 ### [In the Republic of Ireland government figures indicate less than half of the country's households have paid the household charge by today's deadline as thousands of people march on the governing Fine Gael party's annual conference at the Convention Centre Dublin. ](/news/2012/03/31/in-the-republic-of-ireland-government-figures-indicate-less-than-half-of-the-country-s-households-have-paid-the-household-charge-by-today-s.md)

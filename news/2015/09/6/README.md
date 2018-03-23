@@ -27,9 +27,9 @@ Charlotte-Mecklenburg police are stepping up patrols around the city after a spi
 ### [In Tampa, Florida, former University of South Florida football player Elkino Watson is killed and Desmon Watson, another former player, is injured after an early morning stabbing after an argument broke out outside a nightclub in Ybor City. ](/news/2015/09/6/in-tampa-florida-former-university-of-south-florida-football-player-elkino-watson-is-killed-and-desmon-watson-another-former-player-is-i.md)
 Former USF football player was killed and football player was wounded in an early morning stabbing outside Club Orpheum in Ybor City.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Pope Francis asks Catholic faithful in Europe to host refugee families fleeing death from war and hunger, and announces the Vatican's two churches will welcome two families of refugees. ](/news/2015/09/6/pope-francis-asks-catholic-faithful-in-europe-to-host-refugee-families-fleeing-death-from-war-and-hunger-and-announces-the-vatican-s-two-ch.md)
-_Context: Catholic faithful, Europe, European migrant crisis, Pope Francis, Vatican City_
+_Context: Catholic faithful, Europe, Pope Francis, Vatican City, refugee immigration to Germany_
 
 ##### Spanish
 ### [A Spain car rally race crash leaves six dead after a car veers off a straight section into spectators. ](/news/2015/09/6/a-spain-car-rally-race-crash-leaves-six-dead-after-a-car-veers-off-a-straight-section-into-spectators.md)

@@ -15,7 +15,7 @@ _Context: International Space Station, Soyuz TMA-17_
 ### [ Authorities in Uzbekistan fell trees, some of which are more than a century old, in the capital Tashkent, in a controversy which has drawn protests. ](/news/2009/12/23/authorities-in-uzbekistan-fell-trees-some-of-which-are-more-than-a-century-old-in-the-capital-tashkent-in-a-controversy-which-has-drawn.md)
 _Context: Tashkent, Uzbekistan_
 
-##### Afghanistan
+##### Afghan
 ### [ Afghan senator Mohammed Yunos Shirnagha and his son-driver are fatally shot by police in Puli Khumri, Baghlan Province. ](/news/2009/12/23/afghan-senator-mohammed-yunos-shirnagha-and-his-son-driver-are-fatally-shot-by-police-in-puli-khumri-baghlan-province.md)
 The senator’s car failed to stop despite repeated warnings from police, according to a statement by the Ministry of Interior.
 

@@ -11,7 +11,7 @@ Schools, hospitals and public transport would be covered by ban, but Dutch prime
 ### [The counting of votes for yesterday's referendum occurs with the Republic of Ireland becoming the first country to adopt same sex marriage by referendum. ](/news/2015/05/23/the-counting-of-votes-for-yesterday-s-referendum-occurs-with-the-republic-of-ireland-becoming-the-first-country-to-adopt-same-sex-marriage-b.md)
 With all of the results in, Ireland has voted a historic yes in its gay marriage referendum
 
-##### United States Senate
+##### Senate
 ### [The United States Senate adjourns without agreeing either to reform the National Security Agency or extend the Patriot Act which is due to expire at the end of this month. ](/news/2015/05/23/the-united-states-senate-adjourns-without-agreeing-either-to-reform-the-national-security-agency-or-extend-the-patriot-act-which-is-due-to-e.md)
 The Senate is set to return for a rare Sunday session on May 31.
 

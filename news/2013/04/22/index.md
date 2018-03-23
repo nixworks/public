@@ -39,7 +39,7 @@ _Context: Comedy Central, Futurama_
 ### [The Nigerian Red Cross claims that 185 people have been killed in Borno State in the north of country over the past few days as a result of fighting between militants and government state forces. The local military claim the numbers are inflated. ](/news/2013/04/22/the-nigerian-red-cross-claims-that-185-people-have-been-killed-in-borno-state-in-the-north-of-country-over-the-past-few-days-as-a-result-of.md)
 _Context: Borno, Nigeria, Red Cross_
 
-##### Afghanistan
+##### Afghan
 ### [11 people are kidnapped in Afghanistan after the helicopter they were in was forced to land. The Taliban takes responsibility for the abductions. ](/news/2013/04/22/11-people-are-kidnapped-in-afghanistan-after-the-helicopter-they-were-in-was-forced-to-land-the-taliban-takes-responsibility-for-the-abduct.md)
 KABUL, Afghanistan--Eleven people, including eight Turkish nationals, were captured after their helicopter was forced to make an emergency landing in eastern Afghanistan in an area largely...
 

@@ -29,7 +29,7 @@ Senate Republicans stepped up their efforts Wednesday to compel the 14 Senate De
 
 ##### Turkish
 ### [Thousands of Turkish Cypriots protest against Government of Turkey inspired spending cuts in Nicosia. ](/news/2011/03/2/thousands-of-turkish-cypriots-protest-against-government-of-turkey-inspired-spending-cuts-in-nicosia.md)
-_Context: Cypriot, Nicosia, Turkish, Turkish government_
+_Context: Cyprus, Nicosia, Turkish, Turkish government_
 
 ##### Fox News
 ### [Fox News suspends contributors Newt Gingrich and Rick Santorum until they decide on a 2012 US presidential election candidacy. ](/news/2011/03/2/fox-news-suspends-contributors-newt-gingrich-and-rick-santorum-until-they-decide-on-a-2012-us-presidential-election-candidacy.md)

@@ -45,7 +45,7 @@ _Context: India, Pune, first death from the disease_
 
 ##### Iran
 ### [ Iran bans all pilgrimages to Saudi Arabia during the Islamic holy month of Ramadan in an attempt to contain the spread of swine flu. ](/news/2009/08/6/iran-bans-all-pilgrimages-to-saudi-arabia-during-the-islamic-holy-month-of-ramadan-in-an-attempt-to-contain-the-spread-of-swine-flu.md)
-_Context: Iran, Islam, Ramadan, Saudi Arabia, attempt to contain the spread, swine flu_
+_Context: Iran, Muslim, Ramadan, Saudi Arabia, attempt to contain the spread, swine flu_
 
 ##### Japan
 ### [ Japan's first jury trial for more than 60 years ends with a man in his 70s being sentenced to 15 years in prison for murder. ](/news/2009/08/6/japan-s-first-jury-trial-for-more-than-60-years-ends-with-a-man-in-his-70s-being-sentenced-to-15-years-in-prison-for-murder.md)

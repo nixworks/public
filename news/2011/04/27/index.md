@@ -43,9 +43,9 @@ _Context: Alishan, Alishan Forest Railway, Taiwan_
 ### [Emperor of Japan Akihito and Empress Michiko visit areas worst-affected by the 2011 Tohoku earthquake and tsunami. ](/news/2011/04/27/emperor-of-japan-akihito-and-empress-michiko-visit-areas-worst-affected-by-the-2011-tahoku-earthquake-and-tsunami.md)
 _Context: 2011 Tohoku earthquake and tsunami, Akihito, Emperor, Empress Michiko_
 
-##### French President
+##### President of France
 ### [President of France Nicolas Sarkozy endorses Mario Draghi to become next President of the European Central Bank, to succeed Jean-Claude Trichet. ](/news/2011/04/27/president-of-france-nicolas-sarkozy-endorses-mario-draghi-to-become-next-president-of-the-european-central-bank-to-succeed-jean-claude-tric.md)
-_Context: European Central Bank, France, French President, Jean-Claude Trichet, Mario Draghi, Nicolas Sarkozy, Vice-President_
+_Context: European Central Bank, France, Jean-Claude Trichet, Mario Draghi, Nicolas Sarkozy, President of France, Vice-President_
 
 ##### Johnson & Johnson
 ### [US company Johnson & Johnson agrees to buy Synthes for $21.3 billion in cash and stock. ](/news/2011/04/27/us-company-johnson-johnson-agrees-to-buy-synthes-for-21-3-billion-in-cash-and-stock.md)

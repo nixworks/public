@@ -109,7 +109,7 @@ _Context: Taliban_
 
 ##### Takhar province
 ### [20 Taliban militants, including two rebel commanders, are killed in fighting with security forces in northeastern Takhar province, Afghanistan. ](/news/2010/10/7/20-taliban-militants-including-two-rebel-commanders-are-killed-in-fighting-with-security-forces-in-northeastern-takhar-province-afghanist.md)
-_Context: Afghanistan, Takhar province_
+_Context: Afghan, Takhar province_
 
 ##### Iran
 ### [Gunmen kill 4 police officers in Iranian Kurdish area. ](/news/2010/10/7/gunmen-kill-4-police-officers-in-iranian-kurdish-area.md)

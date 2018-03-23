@@ -27,9 +27,9 @@ _Context: Tashkent, Uzbekistan_
 ### [ New Jersey physicist Greg Olsen pays $20 million to conduct environmental research for eight days aboard the International Space Station. ](/news/2004/03/30/new-jersey-physicist-greg-olsen-pays-20-million-to-conduct-environmental-research-for-eight-days-aboard-the-international-space-station.md)
 Things to do in Miami
 
-##### French President
+##### President of France
 ### [ French President Jacques Chirac retains his prime minister, Jean-Pierre Raffarin, but asks Raffarin to reform the country's government. ](/news/2004/03/30/french-president-jacques-chirac-retains-his-prime-minister-jean-pierre-raffarin-but-asks-raffarin-to-reform-the-country-s-government.md)
-_Context: French President, French Prime Minister, Jacques Chirac, Jean-Pierre Raffarin_
+_Context: French Prime Minister, Jacques Chirac, Jean-Pierre Raffarin, President of France_
 
 ##### Suicide bomber
 ### [ A suicide bomber sets off a small explosion inside the Bolivian Congress. The bomber - a miner, protesting unpaid pensions&nbsp;- and the chief congressional security guard are killed; several bystanders are wounded. ](/news/2004/03/30/a-suicide-bomber-sets-off-a-small-explosion-inside-the-bolivian-congress-the-bomber-a-a-miner-protesting-unpaid-pensions-nbsp-a-and-t.md)

@@ -17,7 +17,7 @@ _Context: Colombo, Sri Lanka_
 
 ##### America's Climate Security Act of 2007
 ### [ The America's Climate Security Act of 2007, a greenhouse gas emissions reduction bill, stalls in the U.S. Senate after a 48-36 vote fails to invoke cloture on a Republican filibuster. Presidential candidates John McCain and Barack Obama were among six senators absent from the vote who expressed support for the bill. ](/news/2008/06/6/the-america-s-climate-security-act-of-2007-a-greenhouse-gas-emissions-reduction-bill-stalls-in-the-u-s-senate-after-a-48-36-vote-fails-t.md)
-_Context: 2008, America's Climate Security Act of 2007, Barack Obama, John McCain, Republican, United States Senate, cloture, filibuster_
+_Context: 2008, America's Climate Security Act of 2007, Barack Obama, John McCain, Republican, Senate, cloture, filibuster_
 
 ##### Opposition party
 ### [ The Yulia Tymoshenko Bloc-Our Ukraine Bloc coalition loses its majority in Ukraine's Verkhovna Rada after two deputies quit. ](/news/2008/06/6/the-yulia-tymoshenko-bloc-our-ukraine-bloc-coalition-loses-its-majority-in-ukraine-s-verkhovna-rada-after-two-deputies-quit.md)

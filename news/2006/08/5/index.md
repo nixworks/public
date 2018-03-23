@@ -5,7 +5,7 @@ Formats: [HTML](2006/08/5/index.html)  [JSON](2006/08/5/index.json)  [XML](2006/
 
 ##### Southeastern Anatolia Project
 ### [ Southeastern Anatolia Project: Construction of the Ilisu Dam, which upon completion would cause the flooding of the ancient city of Hasankeyf in Turkey, starts. ](/news/2006/08/5/southeastern-anatolia-project-construction-of-the-ila-su-dam-which-upon-completion-would-cause-the-flooding-of-the-ancient-city-of-hasank.md)
-_Context: Hasankeyf, Ilisu Dam, Southeastern Anatolia Project, Turkish_
+_Context: Hasankeyf, Ilisu Dam, Southeastern Anatolia Project, Turkey_
 
 ##### Cyclist
 ### [ Cyclist Floyd Landis, winner of the 2006 Tour de France, returns a positive B sample for excess testosterone. ](/news/2006/08/5/cyclist-floyd-landis-winner-of-the-2006-tour-de-france-returns-a-positive-b-sample-for-excess-testosterone.md)

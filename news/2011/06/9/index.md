@@ -59,11 +59,11 @@ _Context: Citigroup, Financial Times, hackers_
 ### [2011 Yemeni uprising: President Ali Abdullah Saleh undergoes surgery in Saudi Arabia for injuries sustained in a bomb blast. ](/news/2011/06/9/2011-yemeni-uprising-president-ali-abdullah-saleh-undergoes-surgery-in-saudi-arabia-for-injuries-sustained-in-a-bomb-blast.md)
 Yemeni President Ali Abdullah Saleh has undergone &quot;successful&quot; surgery in Riyadh, Saudi Arabia, where he is being treated for bomb blast wounds, officials said.
 
-##### Turkish
+##### Turkey
 ### [Turkey sets up a US$100 million fund to support the Libyan rebel National Transitional Council. ](/news/2011/06/9/turkey-sets-up-a-us-100-million-fund-to-support-the-libyan-rebel-national-transitional-council.md)
-_Context: Libya, National Transitional  Council, Turkish_
+_Context: Libya, National Transitional  Council, Turkey_
 
-##### Afghanistan
+##### Afghan
 ### [At least nine people die in Afghanistan after a gunman attacks a wedding party in the Dur Baba District of Nangarhar Province. ](/news/2011/06/9/at-least-nine-people-die-in-afghanistan-after-a-gunman-attacks-a-wedding-party-in-the-dur-baba-district-of-nangarhar-province.md)
 Nine people are killed and nine wounded as unidentified gunmen attack a wedding party in eastern Afghanistan, officials say.
 
@@ -73,7 +73,7 @@ US newspaper says the move is aimed at preventing suspected fighters from consol
 
 ##### Government of Somalia
 ### [The Government of Somalia claims to have killed a Canadian member of the al-Shabab terrorist organization. ](/news/2011/06/9/the-government-of-somalia-claims-to-have-killed-a-canadian-member-of-the-al-shabab-terrorist-organization.md)
-_Context: Al-Shabaab, Canadian, Government of Somalia, terrorism_
+_Context: Al-Shabab, Canadian, Government of Somalia, terrorism_
 
 ##### United Nations Security Council
 ### [The United Nations Security Council considers a resolution condemning the crackdown on Syrian protesters by security forces. ](/news/2011/06/9/the-united-nations-security-council-considers-a-resolution-condemning-the-crackdown-on-syrian-protesters-by-security-forces.md)

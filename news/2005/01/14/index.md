@@ -11,9 +11,9 @@ _Context: Johor Strait, Malaysia, Singapore_
 ### [ Venezuela recalls its ambassador to Colombia because of the disagreement over capture of FARC member Rodrigo Granda ](/news/2005/01/14/venezuela-recalls-its-ambassador-to-colombia-because-of-the-disagreement-over-capture-of-farc-member-rodrigo-granda.md)
 _Context: Colombia, FARC, Rodrigo Granda, Venezuela, ambassador_
 
-##### Somalia
+##### Somali
 ### [ Somalian transitional parliament in Kenya has approved the second suggested cabinet of prime minister Ali Mohammed Ghedi. They rejected his earlier suggested cabinet four weeks ago ](/news/2005/01/14/somalian-transitional-parliament-in-kenya-has-approved-the-second-suggested-cabinet-of-prime-minister-ali-mohammed-ghedi-they-rejected-his.md)
-_Context: Ali Mohammed Ghedi, Kenya, Somalia_
+_Context: Ali Mohammed Ghedi, Kenya, Somali_
 
 ##### Argentina
 ### [ An Argentine ex-naval officer Adolfo Scilingo goes to trial in Spain accused of killing political prisoners during Argentina's "Dirty War". He was declared fit for trial despite a hunger strike. ](/news/2005/01/14/an-argentine-ex-naval-officer-adolfo-scilingo-goes-to-trial-in-spain-accused-of-killing-political-prisoners-during-argentina-s-dirty-war.md)

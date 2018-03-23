@@ -29,7 +29,7 @@ _Context: Bangladesh, Burma, Rohingya, fighting between Buddhists and Muslims_
 
 ##### 2012 Northern Mali conflict
 ### [2012 Northern Mali conflict: West African nations agree to send a 3,300-strong force to northern Mali to regain area controlled by Islamist insurgent groups. ](/news/2012/11/11/2012-northern-mali-conflict-west-african-nations-agree-to-send-a-3-300-strong-force-to-northern-mali-to-regain-area-controlled-by-islamist.md)
-_Context: 2012 Northern Mali conflict, Islam, Mali, West Africa_
+_Context: 2012 Northern Mali conflict, Mali, Muslim, West Africa_
 
 ##### Syria
 ### [Syrian opposition groups sign a deal in Qatar to form a coalition against president Bashar al-Assad. ](/news/2012/11/11/syrian-opposition-groups-sign-a-deal-in-qatar-to-form-a-coalition-against-president-bashar-al-assad.md)

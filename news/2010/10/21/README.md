@@ -81,7 +81,7 @@ _Context: Biochemist, Life Ascending: The Ten Great Inventions of Evolution, Nic
 
 ##### Taliban
 ### [Suspected Taliban militants kill an International Security Assistance Force (ISAF) soldier and five Afghan policeman in attacks in Afghanistan. ](/news/2010/10/21/suspected-taliban-militants-kill-an-international-security-assistance-force-isaf-soldier-and-five-afghan-policeman-in-attacks-in-afghanist.md)
-_Context: Afghanistan, International Security Assistance Force, Taliban, police_
+_Context: Afghan, International Security Assistance Force, Taliban, police_
 
 ##### Bomb
 ### [A bomb attack on a bus on the southern Philippine island of Mindanao kills at least seven people. ](/news/2010/10/21/a-bomb-attack-on-a-bus-on-the-southern-philippine-island-of-mindanao-kills-at-least-seven-people.md)

@@ -19,7 +19,7 @@ _Context: Chinese, Tianjin, UNFCCC, Xie Zhenhua, pro- and anti_
 ### [Ethiopian opposition leader Birtukan Mideksa of the Unity for Democracy and Justice is released from prison after two years of incarceration. ](/news/2010/10/6/ethiopian-opposition-leader-birtukan-mideksa-of-the-unity-for-democracy-and-justice-is-released-from-prison-after-two-years-of-incarceration.md)
 Ethiopian opposition leader Birtukan Mideksa was freed from prison today after the government granted her request to be pardoned from a life sentence she began serving almost two years ago.
 
-##### Turkish
+##### Turkey
 ### [Two Turkish soldiers are shot dead by a third soldier in the southwestern province of Mugla. ](/news/2010/10/6/two-turkish-soldiers-are-shot-dead-by-a-third-soldier-in-the-southwestern-province-of-muala.md)
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews
 

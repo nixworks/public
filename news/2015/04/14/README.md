@@ -41,7 +41,7 @@ EU regulators decided Tuesday that they would file charges against Google stemmi
 
 ##### War in Somalia
 ### [al-Shabab gunmen enter the Higher Education Ministry building in Mogadishu after a large explosion is reported. ](/news/2015/04/14/al-shabab-gunmen-enter-the-higher-education-ministry-building-in-mogadishu-after-a-large-explosion-is-reported.md)
-_Context: Al-Shabaab, Mogadishu, War in Somalia_
+_Context: Al-Shabab, Mogadishu, War in Somalia_
 
 ##### Iraqi insurgency
 ### [At least seven people are dead after a car bomb blast south of Baghdad. ](/news/2015/04/14/at-least-seven-people-are-dead-after-a-car-bomb-blast-south-of-baghdad.md)

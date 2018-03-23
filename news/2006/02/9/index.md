@@ -23,7 +23,7 @@ _Context: Nigeria, bird flu_
 ### [ A suicide bombing occurs during a Shiite Muslim procession in Hangu, Pakistan, resulting in riots during the Muslim branch's most important holiday, Ashura. At least 27 people were killed and dozens injured in the result violence. ](/news/2006/02/9/a-suicide-bombing-occurs-during-a-shiite-muslim-procession-in-hangu-pakistan-resulting-in-riots-during-the-muslim-branch-s-most-important.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-##### Turkish
+##### Turkey
 ### [ In Turkey, Istanbul's police chief said a bomb blast at an Internet cafe in the city had wounded 14 people. ](/news/2006/02/9/in-turkey-istanbul-s-police-chief-said-a-bomb-blast-at-an-internet-cafe-in-the-city-had-wounded-14-people.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 

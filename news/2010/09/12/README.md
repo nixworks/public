@@ -11,7 +11,7 @@ A sea of angry taxpayers marched on the Capitol on Saturday afternoon. That much
 ### [Nstor Kirchner, former President of Argentina and current Secretary-General of the Union of South American Nations (UNASUR), has surgery on a blocked coronary artery. ](/news/2010/09/12/nestor-kirchner-former-president-of-argentina-and-current-secretary-general-of-the-union-of-south-american-nations-unasur-has-surgery-on.md)
 The former president of Argentina, Nestor Kirchner, has surgery to clear a blocked coronary artery.
 
-##### Turkish
+##### Turkey
 ### [Voters in Turkey go to the polls for a referendum to amend the constitution. ](/news/2010/09/12/voters-in-turkey-go-to-the-polls-for-a-referendum-to-amend-the-constitution.md)
 With 99 per cent of votes counted, provisional results show referendum passing with 58 per cent support.
 

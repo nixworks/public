@@ -5,7 +5,7 @@ Formats: [HTML](2005/10/5/index.html)  [JSON](2005/10/5/index.json)  [XML](2005/
 
 ##### Veto
 ### [ Braving the threat of a veto from United States President George W. Bush, U.S. Senate Republicans joined Democrats, voting ](/news/2005/10/5/braving-the-threat-of-a-veto-from-united-states-president-george-w-bush-u-s-senate-republicans-joined-democrats-voting.md)
-_Context: Democrat, George W. Bush, Republican, United States, United States Senate, veto_
+_Context: Democrat, George W. Bush, Republican, Senate, United States, veto_
 
 ##### Stan
 ### [ Hurricane Stan strikes Mexico and Central America, at least 66 people have died, most of them in landslides in El Salvador. ](/news/2005/10/5/hurricane-stan-strikes-mexico-and-central-america-at-least-66-people-have-died-most-of-them-in-landslides-in-el-salvador.md)

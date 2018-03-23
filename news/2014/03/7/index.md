@@ -37,7 +37,7 @@ _Context: Amenhotep III, Ancient Egypt, Iset, Tutankhamun_
 
 ##### Russia
 ### [Armed men &ndash; thought to be Russian &ndash; attempt to seize a Ukrainian military base in Sevastopol, withdrawing soon afterwards. ](/news/2014/03/7/armed-men-ndash-thought-to-be-russian-ndash-attempt-to-seize-a-ukrainian-military-base-in-sevastopol-withdrawing-soon-afterwards.md)
-_Context: Russia, Sevastopol, Ukraine_
+_Context: Russia, Sevastopol, Ukrainian_
 
 ## [Previous Day...](/news/2014/03/6/index.md)
 

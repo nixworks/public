@@ -7,7 +7,7 @@ Formats: [HTML](2016/02/24/index.html)  [JSON](2016/02/24/index.json)  [XML](201
 ### [South Korea's opposition holds a parliamentary filibuster, the first in the National Assembly since 1969, to block the current anti-terrorism bill that would expand National Intelligence Service powers. The opposition plans to continue until March 11, when the session is scheduled to end. ](/news/2016/02/24/south-korea-s-opposition-holds-a-parliamentary-filibuster-the-first-in-the-national-assembly-since-1969-to-block-the-current-anti-terroris.md)
 Wearing a white sweater and a blue blazer, her eyes framed by round spectacles, Eun Soo-mi looked more like a librarian than a political saboteur as she approached the podium in South Korea’s parliament at 2:30 a.m. on Wednesday.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Hungary is to hold a referendum on whether to accept mandatory EU quotas for relocating migrants. ](/news/2016/02/24/hungary-is-to-hold-a-referendum-on-whether-to-accept-mandatory-eu-quotas-for-relocating-migrants.md)
 Hungary will hold a referendum on whether to accept mandatory EU quotas for relocating migrants, Prime Minister Viktor Orban announces.
 

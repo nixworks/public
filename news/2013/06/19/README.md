@@ -39,7 +39,7 @@ James Gandolfini, the actor who most famously portrayed Tony Soprano on the seri
 ### [Armed bandits and robbers riding motorbikes kill 48 people in Nigeria's Zamfara State. ](/news/2013/06/19/armed-bandits-and-robbers-riding-motorbikes-kill-48-people-in-nigeria-s-zamfara-state.md)
 _Context: Nigeria, Zamfara State_
 
-##### Al-Shabaab
+##### Al-Shabab
 ### [An al-Shabaab-led assault on the UNDP base in Mogadishu leaves 22 dead, including militants, security personnel, and civilians. ](/news/2013/06/19/an-al-shabaab-led-assault-on-the-undp-base-in-mogadishu-leaves-22-dead-including-militants-security-personnel-and-civilians.md)
 Islamist militants carried out a deadly assault on the main U.N. compound in the Somali capital on Wednesday, dealing a blow to fragile security gains that have allowed a slow return of foreign aid workers and diplomats.
 

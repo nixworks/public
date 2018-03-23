@@ -59,7 +59,7 @@ French strikers impose new fuel blockades, hours after security forces clear pro
 ### [United Kingdom boyband JLS and hip-hop MC Tinie Tempah dominate the Music of Black Origin Awards in Liverpool. ](/news/2010/10/20/united-kingdom-boyband-jls-and-hip-hop-mc-tinie-tempah-dominate-the-music-of-black-origin-awards-in-liverpool.md)
 _Context: JLS, Liverpool, MC, Music of Black Origin Awards, Tinie Tempah, UK, boyband, hip-hop_
 
-##### Somalia
+##### Somali
 ### [Somali gunmen release a British security consultant for Save the Children after six days in captivity. ](/news/2010/10/20/somali-gunmen-release-a-british-security-consultant-for-save-the-children-after-six-days-in-captivity.md)
 A British security consultant kidnapped six days ago by gunmen in Somalia has described his release as &quot;marvellous&quot;, Save the Children says.
 

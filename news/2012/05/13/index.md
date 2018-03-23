@@ -37,7 +37,7 @@ Army opens new offensive against al-Qaeda in the Arab Peninsula, while at least 
 
 ##### Arsala Rahmani
 ### [Arsala Rahmani, a key peace negotiator for the Afghan government, is shot dead by assassins in Kabul, Afghanistan. ](/news/2012/05/13/arsala-rahmani-a-key-peace-negotiator-for-the-afghan-government-is-shot-dead-by-assassins-in-kabul-afghanistan.md)
-_Context: Afghanistan, Arsala Rahmani, Kabul_
+_Context: Afghan, Arsala Rahmani, Kabul_
 
 ##### Lebanese
 ### [Several people are killed in clashes in the Lebanese city of Tripoli between supporters and opponents of the Syrian president Bashar al-Assad, in a violent spillover from the Syrian civil war. ](/news/2012/05/13/several-people-are-killed-in-clashes-in-the-lebanese-city-of-tripoli-between-supporters-and-opponents-of-the-syrian-president-bashar-al-assa.md)

@@ -35,9 +35,9 @@ Israeli PM Benjamin Netanyahu and US President Barack Obama hold White House tal
 ### [Republican Governor of the U.S. state of Hawaii Linda Lingle vetoes a bill allowing same-sex civil unions. ](/news/2010/07/6/republican-governor-of-the-u-s-state-of-hawaii-linda-lingle-vetoes-a-bill-allowing-same-sex-civil-unions.md)
 _Context: Governor, Hawaii, Linda Lingle, Republican, same-sex civil union, veto_
 
-##### French President
+##### President of France
 ### [President of France Nicolas Sarkozy denies allegations of alleged illegal payments from France's richest woman, L'Oreal heiress Liliane Bettencourt. ](/news/2010/07/6/president-of-france-nicolas-sarkozy-denies-allegations-of-alleged-illegal-payments-from-france-s-richest-woman-l-ora-c-al-heiress-liliane-bet.md)
-_Context: French President, L'Oreal, Liliane Bettencourt, Nicolas Sarkozy_
+_Context: L'Oreal, Liliane Bettencourt, Nicolas Sarkozy, President of France_
 
 ##### U.S. government
 ### [The Federal government of the United States files a lawsuit against the U.S. state of Arizona in its bid to overturn its controversial immigration law. ](/news/2010/07/6/the-federal-government-of-the-united-states-files-a-lawsuit-against-the-u-s-state-of-arizona-in-its-bid-to-overturn-its-controversial-immig.md)

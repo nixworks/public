@@ -11,9 +11,9 @@ _Context: Grand Canyon, sediment_
 ### [ The Electoral Commission of the Iraq interim government schedules parliamentary elections for January 30, 2005. ](/news/2004/11/21/the-electoral-commission-of-the-iraq-interim-government-schedules-parliamentary-elections-for-january-30-2005.md)
 _Context: Iraq interim government, Iraqi transitional parliamentary election_
 
-##### Ukraine
+##### Ukrainian
 ### [ Ukraine holds the second vote in a run-off presidential election today. Voters will decide between Moscow-oriented Prime Minister Viktor Yanukovych and western-leaning reformer Viktor Yushchenko. Observers have expressed concern over possible Russian interference, election abuses, and bias in reporting by the state media. With 74% of vote counted, Yanukovych leads Yushchenko 49-48%. Yushchenko has alleged that massive election fraud has taken place. ](/news/2004/11/21/ukraine-holds-the-second-vote-in-a-run-off-presidential-election-today-voters-will-decide-between-moscow-oriented-prime-minister-viktor-ya.md)
-_Context: Ukraine, Ukrainian presidential election controversy, Viktor Yanukovych, Viktor Yushchenko, bias, media, second round_
+_Context: Ukrainian, Ukrainian presidential election controversy, Viktor Yanukovych, Viktor Yushchenko, bias, media, second round_
 
 ##### Secretary of State
 ### [ U.S. Secretary of State Colin Powell arrives in Israel for talks with leaders of both sides of the conflict with an aim to restarting the stalled peace process. ](/news/2004/11/21/u-s-secretary-of-state-colin-powell-arrives-in-israel-for-talks-with-leaders-of-both-sides-of-the-conflict-with-an-aim-to-restarting-the-s.md)

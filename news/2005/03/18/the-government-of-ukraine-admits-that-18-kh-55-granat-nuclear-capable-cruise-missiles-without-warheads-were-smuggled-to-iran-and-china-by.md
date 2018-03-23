@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/03/18/the-government-of-ukraine-admits-that-18-kh-55-
 
 ### [2005-03-18](/news/2005/03/18/index.md)
 
-##### Ukraine
+##### Ukrainian
 #  The government of Ukraine admits that 18 Kh-55 Granat nuclear-capable cruise missiles (without warheads) were smuggled to Iran and China by arms dealers. 
 
 

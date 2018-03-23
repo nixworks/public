@@ -9,7 +9,7 @@ Dallas Braden threw the 19th perfect game in major league history, leading the O
 
 ##### Somali pirates
 ### [Somali pirates seize MS "Marida Marguerite", a German-owned tanker, off the coast of Somalia. ](/news/2010/05/9/somali-pirates-seize-ms-marida-marguerite-a-german-owned-tanker-off-the-coast-of-somalia.md)
-_Context: Somali pirates, Somalia_
+_Context: Somali, Somali pirates_
 
 ##### 
 ### [A Chinese man is freed from prison after 10 years after the man he had been convicted of killing is found alive. ](/news/2010/05/9/a-chinese-man-is-freed-from-prison-after-10-years-after-the-man-he-had-been-convicted-of-killing-is-found-alive.md)

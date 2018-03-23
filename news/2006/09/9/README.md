@@ -13,7 +13,7 @@ _Context: Jaffna, LTTE, Sri Lanka, Sri Lankan Army, Tamil Tiger_
 
 ##### NATO
 ### [ NATO-led forces in Afghanistan say they have killed 40 more Taliban rebels in the ongoing offensive in the south. ](/news/2006/09/9/nato-led-forces-in-afghanistan-say-they-have-killed-40-more-taliban-rebels-in-the-ongoing-offensive-in-the-south.md)
-_Context: Afghanistan, NATO_
+_Context: Afghan, NATO_
 
 ##### Israel
 ### [ A 4.4 magnitude earthquake affects Israel and the West Bank. No injuries are reported. ](/news/2006/09/9/a-4-4-magnitude-earthquake-affects-israel-and-the-west-bank-no-injuries-are-reported.md)

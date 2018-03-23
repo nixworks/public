@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/22/u-s-president-donald-trump-announces-former-uni
 ### [2018-03-22](/news/2018/03/22/index.md)
 
 ##### Presidency of Donald Trump
-# U.S. President Donald Trump announces former United States Ambassador to the United Nations John R. Bolton will become his National Security Advisor, replacing the outgoing H. R. McMaster. 
+# U.S. President Donald Trump announces former United States Ambassador to the United Nations John R. Bolton will become his National Security Advisor, succeeeding the outgoing H. R. McMaster. 
 
 
 

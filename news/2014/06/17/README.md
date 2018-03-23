@@ -31,9 +31,9 @@ Alleged ringleader in 2012 attack captured in operation in Libya involving Speci
 ### [275 United States Military personnel are deployed to Iraq to provide extra protection for the American embassy in Baghdad. ](/news/2014/06/17/275-united-states-military-personnel-are-deployed-to-iraq-to-provide-extra-protection-for-the-american-embassy-in-baghdad.md)
 _Context: Iraq, U.S. embassy in Baghdad, United States military personnel_
 
-##### Al-Shabaab
+##### Al-Shabab
 ### [Al-Shabaab militants attack Poromoko village in Kenya, killing 15 people and burning multiple houses down. ](/news/2014/06/17/al-shabaab-militants-attack-poromoko-village-in-kenya-killing-15-people-and-burning-multiple-houses-down.md)
-_Context: Al-Shabaab, Kenya_
+_Context: Al-Shabab, Kenya_
 
 ##### South Thailand insurgency
 ### [Emergency rule in the southern Thai provinces of Pattani, Yala and Narithiwat is extended for another three months. ](/news/2014/06/17/emergency-rule-in-the-southern-thai-provinces-of-pattani-yala-and-narithiwat-is-extended-for-another-three-months.md)

@@ -7,7 +7,7 @@ Formats: [HTML](2012/02/19/index.html)  [JSON](2012/02/19/index.json)  [XML](201
 ### [The Premier of the Australian state of Queensland visits the Governor Penelope Wensley to have writs issued for a state election on March 24. ](/news/2012/02/19/the-premier-of-the-australian-state-of-queensland-visits-the-governor-penelope-wensley-to-have-writs-issued-for-a-state-election-on-march-24.md)
 Premier Anna Bligh has urged Queenslanders to hold their nerve and stick with Labor, firing the official election campaign starter gun as another poll showed challenger Campbell Newman’s message of change was strongly resonating.
 
-##### French President
+##### President of France
 ### [President of France Nicolas Sarkozy has the first big rally of his re-election campaign in Marseille. ](/news/2012/02/19/president-of-france-nicolas-sarkozy-has-the-first-big-rally-of-his-re-election-campaign-in-marseille.md)
 French President Nicolas Sarkozy defends his economic record at the first big rally of his re-election campaign as opinion polls suggest he is trailing.
 

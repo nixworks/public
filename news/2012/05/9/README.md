@@ -7,9 +7,9 @@ Formats: [HTML](2012/05/9/index.html)  [JSON](2012/05/9/index.json)  [XML](2012/
 ### [United States President Barack Obama officially states that he supports the right for same-sex partners to marry. ](/news/2012/05/9/united-states-president-barack-obama-officially-states-that-he-supports-the-right-for-same-sex-partners-to-marry.md)
 _Context: Barack Obama, Same-sex marriage in the United States, U.S. President_
 
-##### Ukraine
+##### Ukrainian
 ### [Jailed Ukrainian opposition leader Yulia Tymoshenko is moved to a hospital after a political compromise, and ends her hunger strike. ](/news/2012/05/9/jailed-ukrainian-opposition-leader-yulia-tymoshenko-is-moved-to-a-hospital-after-a-political-compromise-and-ends-her-hunger-strike.md)
-_Context: Ukraine, Yulia Tymoshenko_
+_Context: Ukrainian, Yulia Tymoshenko_
 
 ##### Honduras
 ### [A Honduras radio journalist is kidnapped days after another journalist is killed. ](/news/2012/05/9/a-honduras-radio-journalist-is-kidnapped-days-after-another-journalist-is-killed.md)

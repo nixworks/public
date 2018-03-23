@@ -67,7 +67,7 @@ _Context: Coronation Street, Cumbria shootings, ITV_
 ### [The Chinese newspaper "Southern Metropolitan Daily" publishes a cartoon referring to the Tiananmen Square protests of 1989; the image is later removed. ](/news/2010/06/3/the-chinese-newspaper-southern-metropolitan-daily-publishes-a-cartoon-referring-to-the-tiananmen-square-protests-of-1989-the-image-is-lat.md)
 _Context: China, Tiananmen Square protests of 1989_
 
-##### Islam
+##### Muslim
 ### [At least 20 people are killed and 60 injured in heavy fighting between government forces and Islamist militants in the capital Mogadishu. ](/news/2010/06/3/at-least-20-people-are-killed-and-60-injured-in-heavy-fighting-between-government-forces-and-islamist-militants-in-the-capital-mogadishu.md)
 Heavy fighting between government forces and Islamist militants in Mogadishu kills at least 28 leaves scores wounded.
 

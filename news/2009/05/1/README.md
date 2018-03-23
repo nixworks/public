@@ -5,7 +5,7 @@ Formats: [HTML](2009/05/1/index.html)  [JSON](2009/05/1/index.json)  [XML](2009/
 
 ##### Portugal
 ### [ The Portuguese frigate "Corte-Real" confiscates explosives from Somali pirates during an attempted hijacking. ](/news/2009/05/1/the-portuguese-frigate-corte-real-confiscates-explosives-from-somali-pirates-during-an-attempted-hijacking.md)
-_Context: Corte-Real, Portugal, Somali pirates, Somalia, explosives, frigate, pirate_
+_Context: Corte-Real, Portugal, Somali, Somali pirates, explosives, frigate, pirate_
 
 ##### Justice
 ### [ Associate Justice David Souter announces he will retire from the United States Supreme Court in June. ](/news/2009/05/1/associate-justice-david-souter-announces-he-will-retire-from-the-united-states-supreme-court-in-june.md)
@@ -29,7 +29,7 @@ _Context: Pakistan, Pakistan Army, Taliban, War in North-West Pakistan, militant
 
 ##### Police
 ### [ Police and protesters battle during May Day demonstrations in Germany, Greece, and Turkey. ](/news/2009/05/1/police-and-protesters-battle-during-may-day-demonstrations-in-germany-greece-and-turkey.md)
-_Context: German, Greece, May Day, Police, Turkish, battle, demonstration, protest_
+_Context: German, Greece, May Day, Police, Turkey, battle, demonstration, protest_
 
 ## [Previous Day...](/news/2009/04/30/index.md)
 

@@ -23,9 +23,9 @@ _Context: 21 July 2005 London bombings, conspiracy_
 ### [ Lal Masjid siege: An attempt to negotiate a peaceful end to the seven-day standoff at Islamabad's Red Mosque ends without any progress. ](/news/2007/07/9/lal-masjid-siege-an-attempt-to-negotiate-a-peaceful-end-to-the-seven-day-standoff-at-islamabad-s-red-mosque-ends-without-any-progress.md)
 _Context: Islamabad, Lal Masjid siege, Red Mosque_
 
-##### United States Senate
+##### Senate
 ### [ United States Senator David Vitter of Louisiana apologises after his name is found on a list associated with an escort agency operated by the so-called D.C. Madam. ](/news/2007/07/9/united-states-senator-david-vitter-of-louisiana-apologises-after-his-name-is-found-on-a-list-associated-with-an-escort-agency-operated-by-t.md)
-_Context: D.C. Madam, David Vitter, Louisiana, United States Senate, escort agency_
+_Context: D.C. Madam, David Vitter, Louisiana, Senate, escort agency_
 
 ##### Andrzej Lepper
 ### [ Andrzej Lepper is sacked as the Deputy Prime Minister of Poland over allegations of corruption involving his Samoobrona party with the prospect of an early election. ](/news/2007/07/9/andrzej-lepper-is-sacked-as-the-deputy-prime-minister-of-poland-over-allegations-of-corruption-involving-his-samoobrona-party-with-the-pros.md)

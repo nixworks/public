@@ -37,7 +37,7 @@ _Context: Battle of Benghazi (2014-2017), Benghazi, Libyan Civil War (2014-prese
 
 ##### War in Afghanistan (2001-present)
 ### [A suicide bombing at a Shi'ite cultural center and news agency in Kabul, Afghanistan, kills 41 people and injures 84 others. ISIL-affiliated Amaq News Agency says this group is responsible. ](/news/2017/12/28/a-suicide-bombing-at-a-shiaite-cultural-center-and-news-agency-in-kabul-afghanistan-kills-41-people-and-injures-84-others-isil-affiliat.md)
-_Context: Afghanistan, Amaq News Agency, December 2017 Kabul suicide bombing, ISIL, Kabul, War in Afghanistan (2001-present)_
+_Context: Afghan, Amaq News Agency, December 2017 Kabul suicide bombing, ISIL, Kabul, War in Afghanistan (2001-present)_
 
 ## [Previous Day...](/news/2017/12/27/index.md)
 

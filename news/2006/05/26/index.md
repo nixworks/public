@@ -5,7 +5,7 @@ Formats: [HTML](2006/05/26/index.html)  [JSON](2006/05/26/index.json)  [XML](200
 
 ##### United States Capitol
 ### [ The United States Capitol building complex in Washington, D.C. is locked down after reports of what sounded like gunfire reached US Capitol police. The United States Senate was in session as a report of at least one person seeing a gunman in the Rayburn House Office Building gym was issued. Police say that the sound was likely that of a pneumatic hammer and that the 'gunman' may have been a plainclothes police officer. ](/news/2006/05/26/the-united-states-capitol-building-complex-in-washington-d-c-is-locked-down-after-reports-of-what-sounded-like-gunfire-reached-us-capitol.md)
-_Context: Rayburn House Office Building, United States Capitol, United States Senate, Washington, D.C., locked down_
+_Context: Rayburn House Office Building, Senate, United States Capitol, Washington, D.C., locked down_
 
 ##### Mahmoud al-Majzoub
 ### [ Mahmoud al-Majzoub, a leader of the Palestinian Islamic Jihad, is killed in a car-bombing along with his brother, Nidal. ](/news/2006/05/26/mahmoud-al-majzoub-a-leader-of-the-palestinian-islamic-jihad-is-killed-in-a-car-bombing-along-with-his-brother-nidal.md)

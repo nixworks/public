@@ -5,7 +5,7 @@ Formats: [HTML](2006/09/14/index.html)  [JSON](2006/09/14/index.json)  [XML](200
 
 ##### African Union
 ### [ The African Union has endorsed an IGAD peacekeeping operation in Somalia, to be known as IGASOM. ](/news/2006/09/14/the-african-union-has-endorsed-an-igad-peacekeeping-operation-in-somalia-to-be-known-as-igasom.md)
-_Context: African Union, IGAD, IGASOM, Somalia, peacekeeping_
+_Context: African Union, IGAD, IGASOM, Somali, peacekeeping_
 
 ##### Mahon Airport
 ### [ A partial roof collapse occurred in part of the Mahon Airport terminal building in Menorca, Spain while undergoing renovations-construction work. The collapse may have been caused by a build-up of heavy rain water. The debris temporarily trapped 20 and injured three workers ](/news/2006/09/14/a-partial-roof-collapse-occurred-in-part-of-the-mahon-airport-terminal-building-in-menorca-spain-while-undergoing-renovations-construction.md)

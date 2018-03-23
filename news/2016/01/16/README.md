@@ -11,7 +11,7 @@ _Context: Argentinian, Milagro Sala_
 ### [Tsai Ing-wen of the Democratic Progressive Party (DPP) is elected the first female President of Taiwan. Eric Chu, the ruling Kuomintang (Chinese Nationalist Party) candidate concedes defeat and announced his resignation as party leader. Ms. Tsai vowed to preserve the status quo in relations with China. The DPP supports independence for the island. ](/news/2016/01/16/tsai-ing-wen-of-the-democratic-progressive-party-dpp-is-elected-the-first-female-president-of-taiwan-eric-chu-the-ruling-kuomintang-chi.md)
 Democratic Progressive party candidate Tsai Ing-wen looks certain to win presidency and reassess what had been a cosier relationship with China
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Austria is to deploy its army on its borders with Germany and Slovenia in the wake of surging numbers of migrants entering the Central European country. ](/news/2016/01/16/austria-is-to-deploy-its-army-on-its-borders-with-germany-and-slovenia-in-the-wake-of-surging-numbers-of-migrants-entering-the-central-europ.md)
 The Austrian Defense Ministry announced in new regulations on Saturday that it would be deploying troops to stop refugees who want to transit through Germany, and not apply for asylum there.
 

@@ -19,7 +19,7 @@ _Context: 2008 Mumbai attacks, Mumbai, Pakistan_
 ### [ Five people are killed at a rally demanding secession in Shabwa, southern Yemen. ](/news/2009/11/25/five-people-are-killed-at-a-rally-demanding-secession-in-shabwa-southern-yemen.md)
 _Context: Shabwa province, Yemen, secession_
 
-##### Somalia
+##### Somali
 ### [ Two journalists kidnapped more than a year ago in Somalia, an Australian and a Canadian, are released. ](/news/2009/11/25/two-journalists-kidnapped-more-than-a-year-ago-in-somalia-an-australian-and-a-canadian-are-released.md)
 Australian journalist Nigel Brennan and a Canadian colleague freed after 15 months in captivity in Somalia.
 

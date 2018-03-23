@@ -25,7 +25,7 @@ A number of Romanians who fled Belfast in the wake of racist attacks have return
 
 ##### FC Schalke 04
 ### [ An anthem sung by FC Schalke 04's fans draws Islamic protests because of its reference to the Prophet Muhammad. ](/news/2009/08/5/an-anthem-sung-by-fc-schalke-04-s-fans-draws-islamic-protests-because-of-its-reference-to-the-prophet-muhammad.md)
-_Context: FC Schalke 04, Islam, Muhammad, Prophet_
+_Context: FC Schalke 04, Muhammad, Muslim, Prophet_
 
 ##### Austria
 ### [ Austrian police probe the shooting of two adolescents who allegedly broke into a supermarket and died by police. ](/news/2009/08/5/austrian-police-probe-the-shooting-of-two-adolescents-who-allegedly-broke-into-a-supermarket-and-died-by-police.md)

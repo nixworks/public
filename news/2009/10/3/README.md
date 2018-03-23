@@ -41,7 +41,7 @@ A powerful typhoon slammed into the northeastern Philippines on Saturday, killin
 
 ##### Tony Blair
 ### [ Tony Blair's former chief-of-staff, Jonathan Powell, has been touring European capital cities, including Brussels, Paris and Prague, in an undercover move to make him the first President of the European Council. Blair is supported by French President Nicolas Sarkozy and German Chancellor Angela Merkel. ](/news/2009/10/3/tony-blair-s-former-chief-of-staff-jonathan-powell-has-been-touring-european-capital-cities-including-brussels-paris-and-prague-in-an.md)
-_Context: Angela Merkel, Brussels, Chancellor of Germany, Europe, France, French President, German, Jonathan Powell, Nicolas Sarkozy, Paris, Prague, President of the European Council, Tony Blair_
+_Context: Angela Merkel, Brussels, Chancellor of Germany, Europe, France, German, Jonathan Powell, Nicolas Sarkozy, Paris, Prague, President of France, President of the European Council, Tony Blair_
 
 ##### German
 ### [ The 19th anniversary of the reunification of Germany is marked by a special four-day puppet show in Berlin. ](/news/2009/10/3/the-19th-anniversary-of-the-reunification-of-germany-is-marked-by-a-special-four-day-puppet-show-in-berlin.md)

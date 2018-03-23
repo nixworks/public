@@ -17,7 +17,7 @@ _Context: Austria, Freedom Party of Austria, John Gudenus, Nazism_
 
 ##### Cherif Bassiouni
 ### [ Cherif Bassiouni, former United Nations human rights envoy to Afghanistan, says he lost his job due to US pressure. ](/news/2005/04/27/cherif-bassiouni-former-united-nations-human-rights-envoy-to-afghanistan-says-he-lost-his-job-due-to-us-pressure.md)
-_Context: Afghanistan, American, Cherif Bassiouni, United Nations, human rights_
+_Context: Afghan, American, Cherif Bassiouni, United Nations, human rights_
 
 ##### India
 ### [ In India, Gautam Goswami, director of flood relief in Bihar, is accused of misdirecting funds. He denies any wrongdoing. ](/news/2005/04/27/in-india-gautam-goswami-director-of-flood-relief-in-bihar-is-accused-of-misdirecting-funds-he-denies-any-wrongdoing.md)

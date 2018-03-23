@@ -13,9 +13,9 @@ _Context: Charles G. Taylor, Liberia, Nigeria, President, Sierra Leone, extradit
 
 ##### Total solar eclipse
 ### [ A total solar eclipse may be observed from 08:36 GMT (09:36 BST) to 11:48 GMT (12:48 BST) in Eastern Brazil, West and North Africa, Turkey, Central Asia and Mongolia. ](/news/2006/03/29/a-total-solar-eclipse-may-be-observed-from-08-36-gmt-09-36-bst-to-11-48-gmt-12-48-bst-in-eastern-brazil-west-and-north-africa-turkey.md)
-_Context: Brazil, Central Asia, Mongolia, North Africa, Turkish, West Africa, total solar eclipse_
+_Context: Brazil, Central Asia, Mongolia, North Africa, Turkey, West Africa, total solar eclipse_
 
-##### Afghanistan
+##### Afghan
 ### [ Afghan Christian convert Abdul Rahman takes political asylum in Italy. Many Islamic clerics and members of Afghanistan's parliament protest his release. ](/news/2006/03/29/afghan-christian-convert-abdul-rahman-takes-political-asylum-in-italy-many-islamic-clerics-and-members-of-afghanistan-s-parliament-protest.md)
 An Afghan Christian convert who had faced the death penalty for abandoning Islam has arrived in Italy where he has been granted asylum, Italian Premier Silvio Berlusconi said Wednesday. 
 

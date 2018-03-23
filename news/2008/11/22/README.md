@@ -21,7 +21,7 @@ _Context: 2008 Rugby League World Cup, Australia, New Zealand, national rugby le
 
 ##### Saudi Arabia
 ### [ Saudi Arabia's Royal Navy joins NATO's mission in combating piracy in Somalia. ](/news/2008/11/22/saudi-arabia-s-royal-navy-joins-nato-s-mission-in-combating-piracy-in-somalia.md)
-_Context: NATO, Royal Navy, Saudi Arabia, Somalia, pirates_
+_Context: NATO, Royal Navy, Saudi Arabia, Somali, pirates_
 
 ##### Kurdish
 ### [ The Kurdistan Workers Party claims responsibility for bombing an oil pipeline between Iraq and Turkey. ](/news/2008/11/22/the-kurdistan-workers-party-claims-responsibility-for-bombing-an-oil-pipeline-between-iraq-and-turkey.md)

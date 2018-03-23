@@ -53,7 +53,7 @@ _Context: Christian, Christian, Lahore, Pakistan_
 
 ##### Afghan President
 ### [President of Afghanistan Hamid Karzai alleges that the U.S. armed forces are collaborating in some way with the Afghan Taliban in an effort to ensure that some troops remain after the scheduled 2014 pullout. ](/news/2013/03/10/president-of-afghanistan-hamid-karzai-alleges-that-the-u-s-armed-forces-are-collaborating-in-some-way-with-the-afghan-taliban-in-an-effort.md)
-_Context: Afghan President, Afghan Taliban, Afghanistan, Hamid Karzai, U.S. withdrawal, United States, United States military personnel_
+_Context: Afghan, Afghan President, Afghan Taliban, Hamid Karzai, U.S. withdrawal, United States, United States military personnel_
 
 ## [Previous Day...](/news/2013/03/9/index.md)
 

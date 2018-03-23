@@ -27,9 +27,9 @@ _Context: Dutch, fine, spam_
 ### [ In Spain, parliament of the Basque regions favors increasing autonomy and eventual negotiated independence ](/news/2004/12/30/in-spain-parliament-of-the-basque-regions-favors-increasing-autonomy-and-eventual-negotiated-independence.md)
 _Context: Basque, autonomy, independence_
 
-##### Ukraine
+##### Ukrainian
 ### [ The Ukrainian Central Election Commission rejects complaints of prime minister Viktor Yanukovych, who lost the presidential election. ](/news/2004/12/30/the-ukrainian-central-election-commission-rejects-complaints-of-prime-minister-viktor-yanukovych-who-lost-the-presidential-election.md)
-_Context: Ukraine, Viktor Yanukovych_
+_Context: Ukrainian, Viktor Yanukovych_
 
 ##### Sudan
 ### [ In Sudan, the government and the rebel group SPLA have agreed to sign a ceasefire in Naiwasha on the road to a peace deal. The treaty would end the civil war that began in 1983. ](/news/2004/12/30/in-sudan-the-government-and-the-rebel-group-spla-have-agreed-to-sign-a-ceasefire-in-naiwasha-on-the-road-to-a-peace-deal-the-treaty-would.md)

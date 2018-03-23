@@ -9,7 +9,7 @@ The Regolith Advanced Surface Systems Operations Robot — RASSOR, for short —
 
 ##### Main belt asteroid
 ### [A main belt asteroid discovered at Ukraine's Andrushivka Astronomical Observatory in August 2008 is named 274301 Wikipedia after the Wikipedia encyclopedia. ](/news/2013/01/31/a-main-belt-asteroid-discovered-at-ukraine-s-andrushivka-astronomical-observatory-in-august-2008-is-named-274301-wikipedia-after-the-wikiped.md)
-_Context: 274301 Wikipedia, Andrushivka Astronomical Observatory, Ukraine, Wikipedia, main belt asteroid_
+_Context: 274301 Wikipedia, Andrushivka Astronomical Observatory, Ukrainian, Wikipedia, main belt asteroid_
 
 ##### Serbia
 ### [Serbia's Prime Minister Ivica Dacic, who was flashed by a model without underwear masquerading as a television interviewer, launches an investigation into how he became the target of the prank. ](/news/2013/01/31/serbia-s-prime-minister-ivica-daaia-who-was-flashed-by-a-model-without-underwear-masquerading-as-a-television-interviewer-launches-an-in.md)

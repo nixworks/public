@@ -29,7 +29,7 @@ _Context: Mexico City_
 
 ##### Suicide
 ### [ An Israeli security officer shoots himself as French President Nicolas Sarkozy is about to board his plane after a 3-day trip to Israel and the West Bank. ](/news/2008/06/24/an-israeli-security-officer-shoots-himself-as-french-president-nicolas-sarkozy-is-about-to-board-his-plane-after-a-3-day-trip-to-israel-and.md)
-_Context: French President, Israel, Nicolas Sarkozy, West Bank, suicide_
+_Context: Israel, Nicolas Sarkozy, President of France, West Bank, suicide_
 
 ##### Bomb
 ### [ A bomb at an office building in Baghdad kills eight people and injures 10. The U.S. military blames the attack on rogue members of Shia Muslim militias. The attack is believed to be a suicide bombing, but the U.S. military is investigating allegations that a bomb was planted in the building. ](/news/2008/06/24/a-bomb-at-an-office-building-in-baghdad-kills-eight-people-and-injures-10-the-u-s-military-blames-the-attack-on-rogue-members-of-shia-mus.md)

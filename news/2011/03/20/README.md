@@ -39,7 +39,7 @@ Police are concerned for the safety of a 22-year-old woman who went missing afte
 ### [U.S. president Barack Obama visits a favela and delivers a speech in Rio de Janeiro as part of his five-day Latin American journey. ](/news/2011/03/20/u-s-president-barack-obama-visits-a-favela-and-delivers-a-speech-in-rio-de-janeiro-as-part-of-his-five-day-latin-american-journey.md)
 _Context: Barack Obama, Rio de Janeiro, U.S. President, favela_
 
-##### Ukraine
+##### Ukrainian
 ### [After a gag order is lifted and Sunday publication is permitted, Israel's security service admits it has arrested Gazan engineer Dirar Abu Sisi who disappeared in Ukraine almost two weeks ago and whose wife thought he had been abducted by Mossad. ](/news/2011/03/20/after-a-gag-order-is-lifted-and-sunday-publication-is-permitted-israel-s-security-service-admits-it-has-arrested-gazan-engineer-dirar-abu-s.md)
 State says 42-year old Palestinian engineer abducted in Ukraine being interrogated in prison
 
@@ -73,7 +73,7 @@ Campaigners from Wales travel to London to protest over the alleged treatment of
 
 ##### Transitional Federal Government
 ### [12 people are killed in clashes between Transitional Federal Government troops and al-Shabaab rebels in southern Somalia. ](/news/2011/03/20/12-people-are-killed-in-clashes-between-transitional-federal-government-troops-and-al-shabaab-rebels-in-southern-somalia.md)
-_Context: Al-Shabaab, Somalia, Transitional Federal Government_
+_Context: Al-Shabab, Somali, Transitional Federal Government_
 
 ##### Palestinian militants
 ### [Palestinian militants fire a Grad-type rocket from Gaza into southern Ashkelon, Israel; two residents are taken to a clinic for medical treatment. ](/news/2011/03/20/palestinian-militants-fire-a-grad-type-rocket-from-gaza-into-southern-ashkelon-israel-two-residents-are-taken-to-a-clinic-for-medical-trea.md)

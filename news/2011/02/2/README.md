@@ -15,7 +15,7 @@ _Context: South Korea, foot and mouth_
 ### [Part of New Zealand's Pink and White Terraces, a natural wonder apparently destroyed in an eruption 125 years ago, has been rediscovered by scientists. ](/news/2011/02/2/part-of-new-zealand-s-pink-and-white-terraces-a-natural-wonder-apparently-destroyed-in-an-eruption-125-years-ago-has-been-rediscovered-by.md)
 Scientists using underwater robots have discovered remnants of the Pink Terraces on the floor of Lake Rotomahana, near Rotorua. - New Zealand Herald
 
-##### United States Senate
+##### Senate
 ### [The United States Senate votes down a repeal of healthcare reforms 47-51. ](/news/2011/02/2/the-united-states-senate-votes-down-a-repeal-of-healthcare-reforms-47-51.md)
 The Senate on Wednesday rejected Mitch McConnell&#039;s effort to repeal of President Obama’s healthcare law in a party-line vote.
 

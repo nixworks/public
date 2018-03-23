@@ -45,9 +45,9 @@ _Context: Joran van der Sloot, Peru_
 ### [Veteran American journalist Helen Thomas announces she is retiring, after apologizing for making remarks saying Jews should leave Israel and return to Europe are widely condemned in the United States. ](/news/2010/06/7/veteran-american-journalist-helen-thomas-announces-she-is-retiring-after-apologizing-for-making-remarks-saying-jews-should-leave-israel-and.md)
 (Video) CNN says veteran White House correspondent quits after calling on Israelis to &#39;get the hell out of Palestine. Comment &#39;offensive and reprehensible,&#39; Press Secretary Robert Gibbs says
 
-##### Cypriot
+##### Cyprus
 ### [The Cyprus-based Free Gaza Movement packs up and leaves Cyprus for London after the Cypriot government's decision to interfere with and disrupt last week's international aid flotilla. ](/news/2010/06/7/the-cyprus-based-free-gaza-movement-packs-up-and-leaves-cyprus-for-london-after-the-cypriot-government-s-decision-to-interfere-with-and-disr.md)
-_Context: Cypriot, Free Gaza Movement, London_
+_Context: Cyprus, Free Gaza Movement, London_
 
 ##### Migrant worker
 ### [The number of migrant workers who died or were injured at South Korea's workplaces has risen over the last three years to reach nearly 14,500. ](/news/2010/06/7/the-number-of-migrant-workers-who-died-or-were-injured-at-south-korea-s-workplaces-has-risen-over-the-last-three-years-to-reach-nearly-14-50.md)

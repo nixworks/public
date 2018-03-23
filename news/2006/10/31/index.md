@@ -17,7 +17,7 @@ _Context: Chenagai airstrike, Pakistan, United States, al-Qaeda, madrassah_
 
 ##### Taliban insurgency
 ### [ Taliban insurgency: Suspected militants attack a convoy of NATO troops in Afghanistan's eastern province of Nuristan killing three soldiers. ](/news/2006/10/31/taliban-insurgency-suspected-militants-attack-a-convoy-of-nato-troops-in-afghanistan-s-eastern-province-of-nuristan-killing-three-soldiers.md)
-_Context: Afghanistan, NATO, Nuristan, Taliban insurgency_
+_Context: Afghan, NATO, Nuristan, Taliban insurgency_
 
 ##### China
 ### [ China announces the resumption of the stalled six-party talks to find a peaceful resolution to concerns about North Korean nuclear weapons program. ](/news/2006/10/31/china-announces-the-resumption-of-the-stalled-six-party-talks-to-find-a-peaceful-resolution-to-concerns-about-north-korean-nuclear-weapons.md)

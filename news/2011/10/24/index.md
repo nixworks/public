@@ -23,7 +23,7 @@ _Context: Islamist, Jasmine Revolution of 2011, Progressive Democratic Party, Re
 ### [Torrential rain causes flooding in parts of the United Kingdom, with Cornwall, West Devon, Pembrokeshire and Northern Ireland most affected. ](/news/2011/10/24/torrential-rain-causes-flooding-in-parts-of-the-united-kingdom-with-cornwall-west-devon-pembrokeshire-and-northern-ireland-most-affected.md)
 Parts of south-west England, Northern Ireland and Wales begin to clear up after flooding on Monday, while north-east Scotland is warned to prepare for heavy rain.
 
-##### Turkish
+##### Turkey
 ### [The death toll from Turkey's recent earthquake reaches 279, and is expected to increase further as rescue teams search the rubble of the city of Van for survivors. Meanwhile, thousands made homeless by the quake are forced to endure freezing overnight temperatures in the open. ](/news/2011/10/24/the-death-toll-from-turkey-s-recent-earthquake-reaches-279-and-is-expected-to-increase-further-as-rescue-teams-search-the-rubble-of-the-cit.md)
 The death toll from a powerful earthquake in south-eastern Turkey rises above 200, with more than 1,000 people injured, officials say.
 

@@ -13,7 +13,7 @@ _Context: Army, Batticaloa, Sri Lanka, Sri Lankan Civil War, Tamil Tigers_
 
 ##### Insurgency in Somalia
 ### [ Islamist insurgency in Somalia (2007-present): At least seven people die in heavy fighting in Mogadishu as Somalian and Ethiopian troops enter an insurgent stronghold. ](/news/2007/03/21/islamist-insurgency-in-somalia-2007apresent-at-least-seven-people-die-in-heavy-fighting-in-mogadishu-as-somalian-and-ethiopian-troops.md)
-_Context: Ethiopia, Insurgency in Somalia, Mogadishu, Somalia, heavy fighting, troops_
+_Context: Ethiopia, Insurgency in Somalia, Mogadishu, Somali, heavy fighting, troops_
 
 ##### Strike
 ### [ A labour strike in Israel led by union Histadrut shuts down all government offices and transportation. ](/news/2007/03/21/a-labour-strike-in-israel-led-by-union-histadrut-shuts-down-all-government-offices-and-transportation.md)
@@ -31,9 +31,9 @@ _Context: Condoleezza Rice, George W. Bush, Hamas, Palestinian Authority, Secret
 ### [ An Israeli Special committee decides the recent conflict between Israel and Hezbullah is to be named the Second Lebanon War. ](/news/2007/03/21/an-israeli-special-committee-decides-the-recent-conflict-between-israel-and-hezbullah-is-to-be-named-the-second-lebanon-war.md)
 Special committee decides conflict between Israel, Hizbullah to be named Second Lebanon War. Government expected to officially approve name in next weekly meeting
 
-##### Ambassador to the United Nations
+##### United States Ambassador to the United Nations
 ### [ Former United States Ambassador to the United Nations and the broker of the Dayton Peace Accords Richard Holbrooke warns that if the United Nations votes against independence for Kosovo in April the region may erupt into violence. ](/news/2007/03/21/former-united-states-ambassador-to-the-united-nations-and-the-broker-of-the-dayton-peace-accords-richard-holbrooke-warns-that-if-the-united.md)
-_Context: Ambassador to the United Nations, Dayton Peace Accords, Kosovo, Richard Holbrooke, United Nations_
+_Context: Dayton Peace Accords, Kosovo, Richard Holbrooke, United Nations, United States Ambassador to the United Nations_
 
 ##### Gordon Brown
 ### [ Gordon Brown, Chancellor of the Exchequer in the United Kingdom, delivers the 2007 budget. The main rates of corporation tax and income tax will both be reduced by 2% from April 2008, but other taxes are increased. ](/news/2007/03/21/gordon-brown-chancellor-of-the-exchequer-in-the-united-kingdom-delivers-the-2007-budget-the-main-rates-of-corporation-tax-and-income-tax.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2008/02/5/index.html)  [JSON](2008/02/5/index.json)  [XML](2008/
 
 ##### WTO
 ### [ WTO approves Ukraine to become a new member. ](/news/2008/02/5/wto-approves-ukraine-to-become-a-new-member.md)
-_Context: Ukraine, WTO_
+_Context: Ukrainian, WTO_
 
 ##### Major tornado outbreak
 ### [ A major tornado outbreak across the Southern United States leaves 57 people dead, and causes some polling places to be closed early. The hardest hit areas are in Alabama, Kentucky, Tennessee, Mississippi, and Arkansas including the Memphis area, northern Middle Tennessee and Jackson, Tennessee. ](/news/2008/02/5/a-major-tornado-outbreak-across-the-southern-united-states-leaves-57-people-dead-and-causes-some-polling-places-to-be-closed-early-the-ha.md)

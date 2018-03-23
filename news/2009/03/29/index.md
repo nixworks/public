@@ -29,7 +29,7 @@ _Context: France, Mayotte, overseas department, referendum_
 
 ##### Coalition for a European Montenegro
 ### [ The Coalition for a European Montenegro wins 48 of 81 seats in Montenegro's Parliament. ](/news/2009/03/29/the-coalition-for-a-european-montenegro-wins-48-of-81-seats-in-montenegro-s-parliament.md)
-_Context: Coalition for a European Montenegro, Montenegrin, Parliament of Montenegro, wins_
+_Context: Coalition for a European Montenegro, Montenegro, Parliament of Montenegro, wins_
 
 ##### PSA Peugeot Citron
 ### [ PSA Peugeot Citron's Board of Directors dismisses CEO Christian Streiff. ](/news/2009/03/29/psa-peugeot-citroen-s-board-of-directors-dismisses-ceo-christian-streiff.md)

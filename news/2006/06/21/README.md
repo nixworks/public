@@ -7,9 +7,9 @@ Formats: [HTML](2006/06/21/index.html)  [JSON](2006/06/21/index.json)  [XML](200
 ### [ Katharine Jefferts Schori, the Episcopal bishop of Nevada, and the new leader of the Episcopal Church in the United States of America has said that homosexuality is not a sin. ](/news/2006/06/21/katharine-jefferts-schori-the-episcopal-bishop-of-nevada-and-the-new-leader-of-the-episcopal-church-in-the-united-states-of-america-has-s.md)
 _Context: Katharine Jefferts Schori, Nevada, United States Episcopal Church, homosexuality, sin_
 
-##### Ukraine
+##### Ukrainian
 ### [ Ukraine's formerly estranged Orange Revolution allies reach an agreement to restore Yulia Tymoshenko as Prime Minister of Ukraine after three months of uncertainty. ](/news/2006/06/21/ukraine-s-formerly-estranged-orange-revolution-allies-reach-an-agreement-to-restore-yulia-tymoshenko-as-prime-minister-of-ukraine-after-thr.md)
-_Context: Orange Revolution, Prime Minister of Ukraine, Ukraine, Yulia Tymoshenko_
+_Context: Orange Revolution, Prime Minister of Ukraine, Ukrainian, Yulia Tymoshenko_
 
 ##### Saddam Hussein
 ### [ Saddam Hussein's principal defense lawyer, Khamis al-Obeidi, is assassinated in Baghdad. ](/news/2006/06/21/saddam-hussein-s-principal-defense-lawyer-khamis-al-obeidi-is-assassinated-in-baghdad.md)

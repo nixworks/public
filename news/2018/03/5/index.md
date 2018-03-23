@@ -25,7 +25,7 @@ Mr Joyce told his new leader Simon Bridges this morning, Newshub understands.
 
 ##### 2017-18 Spanish constitutional crisis
 ### [The Speaker of the Catalan Parliament, Roger Torrent, proposes Jordi Sanchez i Picanyol as a candidate for President of the Generalitat of Catalonia, but he has been preventively jailed since 16 October 2017, accused of sedition. This happens after Carles Puigdemont resigns as a possible candidate, who, if elected, would have been a symbolic president with a symbolic government in Brussels. The candidacy of Sanchez also reportedly lacks one seat for a majority. ](/news/2018/03/5/the-speaker-of-the-catalan-parliament-roger-torrent-proposes-jordi-sa-nchez-i-picanyol-as-a-candidate-for-president-of-the-generalitat-of.md)
-_Context: 2017-18 Spanish constitutional crisis, Brussels, Carles Puigdemont, Catalan Parliament, Jordi Sanchez i Picanyol, President of the Generalitat of Catalonia, Roger Torrent_
+_Context: 2017-18 Spanish constitutional crisis, Brussels, Carles Puigdemont, Catalan Parliament, Jordi Sanchez i Picanyol, President of the Generalitat, Roger Torrent_
 
 ##### Italian general election, 2018
 ### [Italy faces a period of political instability after the results of the general election are almost complete. The populist Five Star Movement (M5S) is projected to be the largest party in the Italian Parliament with 32% of the vote. The party has long stated its hostility towards forming a coalition government. ](/news/2018/03/5/italy-faces-a-period-of-political-instability-after-the-results-of-the-general-election-are-almost-complete-the-populist-five-star-movement.md)

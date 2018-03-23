@@ -21,7 +21,7 @@ The Federal Government follows through on its threat to block US R &#039;n&#039;
 
 ##### European migration crisis
 ### [A boat carrying Syrian migrants sinks in the Aegean Sea between Turkey and Greece with seventeen people on board. ](/news/2015/09/27/a-boat-carrying-syrian-migrants-sinks-in-the-aegean-sea-between-turkey-and-greece-with-seventeen-people-on-board.md)
-_Context: Aegean Sea, European migration crisis, Greece, Syrian, Turkish_
+_Context: Aegean Sea, European migration crisis, Greece, Syrian, Turkey_
 
 ##### Libyan Civil War (2014-present)
 ### [Ten people are dead in Benghazi as a result of fighting between Islamic State in Iraq and the Levant and Libyan government forces over the weekend. ](/news/2015/09/27/ten-people-are-dead-in-benghazi-as-a-result-of-fighting-between-islamic-state-in-iraq-and-the-levant-and-libyan-government-forces-over-the-w.md)

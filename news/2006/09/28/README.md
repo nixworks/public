@@ -17,7 +17,7 @@ _Context: Alexander III of Russia, Maria Fyodorovna, Peter and Paul Cathedral, R
 
 ##### Abu Hamza al-Muhajir
 ### [ Abu Hamza al-Muhajir, the new leader of al-Qaida in Iraq, urges Muslims to make the month of Ramadan a "month of holy war" in an audiotape posted on an Islamic web site. ](/news/2006/09/28/abu-hamza-al-muhajir-the-new-leader-of-al-qaida-in-iraq-urges-muslims-to-make-the-month-of-ramadan-a-month-of-holy-war-in-an-audiotape.md)
-_Context: Abu Hamza al-Muhajir, Islam, Muslim, Ramadan, al-Qaida in Iraq, jihad_
+_Context: Abu Hamza al-Muhajir, Muslim, Muslim, Ramadan, al-Qaida in Iraq, jihad_
 
 ##### Russia
 ### [ Russia recalls its ambassador from Georgia over the detention there of several Russian army officers on spying charges and ordered a partial evacuation of Russian diplomatic staff from that country. ](/news/2006/09/28/russia-recalls-its-ambassador-from-georgia-over-the-detention-there-of-several-russian-army-officers-on-spying-charges-and-ordered-a-partia.md)

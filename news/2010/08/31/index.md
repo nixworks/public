@@ -73,7 +73,7 @@ _Context: Bangkok, Thailand_
 
 ##### Bomb
 ### [A roadside bomb kills 4 United States troops in eastern Afghanistan. ](/news/2010/08/31/a-roadside-bomb-kills-4-united-states-troops-in-eastern-afghanistan.md)
-_Context: Afghanistan, United States, United States armed forces, bomb_
+_Context: Afghan, United States, United States armed forces, bomb_
 
 ##### Israel
 ### [4 Israelis are shot to death in an attack in the West Bank next to Kiryat Arba. ](/news/2010/08/31/4-israelis-are-shot-to-death-in-an-attack-in-the-west-bank-next-to-kiryat-arba.md)
@@ -83,7 +83,7 @@ Murderous terror attack on eve of peace talks: Four Israelis killed in West Bank
 ### [8 people are killed in a petrol bomb attack at a bar in Cancn, Mexico. ](/news/2010/08/31/8-people-are-killed-in-a-petrol-bomb-attack-at-a-bar-in-cancun-mexico.md)
 Six women and two men have been killed in an attack on a bar in the Mexican resort city of Cancun, officials say.
 
-##### Somalia
+##### Somali
 ### [A roadside bomb and mortar attack in the Somali capital Mogadishu kill at least 14 people and injure several others. ](/news/2010/08/31/a-roadside-bomb-and-mortar-attack-in-the-somali-capital-mogadishu-kill-at-least-14-people-and-injure-several-others.md)
 Roadside bomb blast and mortar attack in capital Mogadishu, kills at least 14 people and injures several more.
 

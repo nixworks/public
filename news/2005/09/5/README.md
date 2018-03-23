@@ -29,7 +29,7 @@ _Context: Alps, Austria, Otztal, Solden, cable car_
 
 ##### Hurricane Katrina
 ### [ Hurricane Katrina: Senator and former First Lady Hillary Clinton calls for a "9-11 Style Inquiry" into the U.S. federal government's response to the Hurricane. ](/news/2005/09/5/hurricane-katrina-senator-and-former-first-lady-hillary-clinton-calls-for-a-9-11-style-inquiry-into-the-u-s-federal-government-s-respon.md)
-_Context: First Lady, Hillary Clinton, Hurricane Katrina, United States Senate, United States government_
+_Context: First Lady, Hillary Clinton, Hurricane Katrina, Senate, United States government_
 
 ##### Typhoon Nabi
 ### [ Typhoon Nabi (Category 3) reaches the Japanese coasts. It will make landfall today, and is expected to take 3 days to cross the island of Kyushu. ](/news/2005/09/5/typhoon-nabi-category-3-reaches-the-japanese-coasts-it-will-make-landfall-today-and-is-expected-to-take-3-days-to-cross-the-island-of-k.md)

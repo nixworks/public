@@ -55,7 +55,7 @@ _Context: Chinese, India, Japan_
 ### [The People's Republic of China begins its first census in ten years. ](/news/2010/11/1/the-people-s-republic-of-china-begins-its-first-census-in-ten-years.md)
 China begins its first national census in 10 years as it tries to document its 1.3 billion-strong population.
 
-##### Turkish
+##### Turkey
 ### [A Turkish film wins the Best Documentary award at the Thanet International Film Festival in the United Kingdom. ](/news/2010/11/1/a-turkish-film-wins-the-best-documentary-award-at-the-thanet-international-film-festival-in-the-united-kingdom.md)
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews
 
@@ -77,7 +77,7 @@ BAGHDAD - An al Qaeda attack that killed 52 hostages and police in a Catholic ch
 
 ##### PKK
 ### [The rebel Kurdistan Workers' Party (PKK) in Turkey announces it will extend a truce until elections next year. ](/news/2010/11/1/the-rebel-kurdistan-workers-party-pkk-in-turkey-announces-it-will-extend-a-truce-until-elections-next-year.md)
-_Context: PKK, Turkish_
+_Context: PKK, Turkey_
 
 ##### Gyles Mackrell
 ### [Photographs, diaries and footage of Gyles Mackrell's rescue of refugees from the Japanese invasion of Burma in World War II are made available. ](/news/2010/11/1/photographs-diaries-and-footage-of-gyles-mackrell-s-rescue-of-refugees-from-the-japanese-invasion-of-burma-in-world-war-ii-are-made-availab.md)
@@ -85,11 +85,11 @@ Photographs, diaries and remarkable amateur film charting the epic rescue of ref
 
 ##### Mogadishu
 ### [At least 12 people are killed in fighting in Mogadishu, Somalia, between pro-government forces, African Union troops and the Islamist militant al-Shabaab group. ](/news/2010/11/1/at-least-12-people-are-killed-in-fighting-in-mogadishu-somalia-between-pro-government-forces-african-union-troops-and-the-islamist-milita.md)
-_Context: African Union, Al-Shabaab, Islamist, Mogadishu, Somalia_
+_Context: African Union, Al-Shabab, Islamist, Mogadishu, Somali_
 
-##### Afghanistan
+##### Afghan
 ### [Two Afghan women charity workers are shot dead. They were travelling between Lashkar Gah and Garmser, a volatile area in the Helmand River valley, when they were attacked. ](/news/2010/11/1/two-afghan-women-charity-workers-are-shot-dead-they-were-travelling-between-lashkar-gah-and-garmser-a-volatile-area-in-the-helmand-river-v.md)
-_Context: Afghanistan, Garmser, Helmand River, Lashkar Gah_
+_Context: Afghan, Garmser, Helmand River, Lashkar Gah_
 
 ## [Previous Day...](/news/2010/10/31/index.md)
 

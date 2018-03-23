@@ -13,7 +13,7 @@ The group searching for HMAS Sydney has found the wreckage of the World War II A
 
 ##### Suicide bomber
 ### [ A suicide bomber attacks a NATO convoy in Gereshk in Helmand province of Afghanistan, killing three Afghan civilians. ](/news/2008/03/17/a-suicide-bomber-attacks-a-nato-convoy-in-gereshk-in-helmand-province-of-afghanistan-killing-three-afghan-civilians.md)
-_Context: Afghanistan, Gereshk, Helmand, NATO, suicide bomber_
+_Context: Afghan, Gereshk, Helmand, NATO, suicide bomber_
 
 ##### Uganda
 ### [ Ugandan Lord's Resistance Army leader Joseph Kony enters the Central African Republic, thus violating a ceasefire. ](/news/2008/03/17/ugandan-lord-s-resistance-army-leader-joseph-kony-enters-the-central-african-republic-thus-violating-a-ceasefire.md)
@@ -29,7 +29,7 @@ _Context: Angela Merkel, Chancellor, German, Israel_
 
 ##### France
 ### [ French President Nicolas Sarkozy's Union for a Popular Movement party loses the 2008 municipal elections. ](/news/2008/03/17/french-president-nicolas-sarkozy-s-union-for-a-popular-movement-party-loses-the-2008-municipal-elections.md)
-_Context: 2008 municipal elections, France, French President, Nicolas Sarkozy, UMP_
+_Context: 2008 municipal elections, France, Nicolas Sarkozy, President of France, UMP_
 
 ##### David Paterson
 ### [ David Paterson is sworn in as the new Governor of New York after the Eliot Spitzer prostitution scandal. ](/news/2008/03/17/david-paterson-is-sworn-in-as-the-new-governor-of-new-york-after-the-eliot-spitzer-prostitution-scandal.md)

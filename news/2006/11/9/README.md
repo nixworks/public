@@ -33,7 +33,7 @@ _Context: BP, Texas, oil refinery_
 
 ##### Montana
 ### [ Montana Senator Conrad Burns concedes his U.S. Senate race to Jon Tester. ](/news/2006/11/9/montana-senator-conrad-burns-concedes-his-u-s-senate-race-to-jon-tester.md)
-_Context: Conrad Burns, Jon Tester, Montana, U.S. Senate, United States Senate_
+_Context: Conrad Burns, Jon Tester, Montana, Senate, U.S. Senate_
 
 ##### Kyrgyz President
 ### [ Kyrgyz President Kurmanbek Bakiyev formally signs the new Constitution of Kyrgyzstan. The Constitution drastically weakens the power of the executive branch in favor of the legislative. Bakiyev and Prime Minister Felix Kulov are expected to maintain their positions until 2010. ](/news/2006/11/9/kyrgyz-president-kurmanbek-bakiyev-formally-signs-the-new-constitution-of-kyrgyzstan-the-constitution-drastically-weakens-the-power-of-the.md)

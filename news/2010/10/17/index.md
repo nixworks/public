@@ -29,7 +29,7 @@ _Context: Rome, Italy_
 
 ##### Iran
 ### [Iranian police have arrested seven Afghan border guards who had illegally crossed the border, border police chief Hossein Zolfaqari announced. ](/news/2010/10/17/iranian-police-have-arrested-seven-afghan-border-guards-who-had-illegally-crossed-the-border-border-police-chief-hossein-zolfaqari-announce.md)
-_Context: Afghanistan, Hossein Zolfaqari, Iran_
+_Context: Afghan, Hossein Zolfaqari, Iran_
 
 ##### Iraqi Prime Minister
 ### [Former Iraqi Prime Minister Ayad Allawi accuses Iran of working to destabilize the Middle East, claiming that the region is falling victim to terrorist groups backed financially by Iran. ](/news/2010/10/17/former-iraqi-prime-minister-ayad-allawi-accuses-iran-of-working-to-destabilize-the-middle-east-claiming-that-the-region-is-falling-victim-t.md)
@@ -43,9 +43,9 @@ _Context: Rwanda, United Democratic Forces, Victoire Ingabire_
 ### [At least twelve people die when gunmen try to rob jewellery shops in Baghdad, Iraq and get into a gunfight with security, police and military. ](/news/2010/10/17/at-least-twelve-people-die-when-gunmen-try-to-rob-jewellery-shops-in-baghdad-iraq-and-get-into-a-gunfight-with-security-police-and-militar.md)
 At least 12 people died when gunmen swooped on a row of goldsmiths&#039; shops in a brazen robbery in the Iraqi capital and ended up in a gunfight with security forces, police and military sources said.
 
-##### Somalia
+##### Somali
 ### [Somali pirates hijack a South Korean owned Kenyan registered fishing boat with 43 crew aboard. ](/news/2010/10/17/somali-pirates-hijack-a-south-korean-owned-kenyan-registered-fishing-boat-with-43-crew-aboard.md)
-_Context: Kenya, Somali pirates, Somalia, South Korea, fishing boat_
+_Context: Kenya, Somali, Somali pirates, South Korea, fishing boat_
 
 ##### El Salvador
 ### [It was reported that Ingmar Guandique, an illegal immigrant from El Salvador, was to go on trial Monday for Chandra Levy's 2001 killing. ](/news/2010/10/17/it-was-reported-that-ingmar-guandique-an-illegal-immigrant-from-el-salvador-was-to-go-on-trial-monday-for-chandra-levy-s-2001-killing.md)

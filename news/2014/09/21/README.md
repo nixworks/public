@@ -7,7 +7,7 @@ Formats: [HTML](2014/09/21/index.html)  [JSON](2014/09/21/index.json)  [XML](201
 ### [Pope Francis celebrates Mass in Albania. ](/news/2014/09/21/pope-francis-celebrates-mass-in-albania.md)
 Tens of thousands of people attend a Mass by Pope Francis, as the pontiff hits out at extremists &quot;perverting&quot; religion to justify violence.
 
-##### Afghanistan
+##### Afghan
 ### [Afghanistan's rival presidential candidates, Ashraf Ghani and Abdullah Abdullah, sign a power-sharing deal that establishes a unity government with Ghani as President and Abdullah as Chief Executive. ](/news/2014/09/21/afghanistanas-rival-presidential-candidates-ashraf-ghani-and-abdullah-abdullah-sign-a-power-sharing-deal-that-establishes-a-unity-govern.md)
 Afghanistan’s rival presidential candidates have signed a power-sharing deal that establishes a unity government. Ashraf Ghani – a former finance
 

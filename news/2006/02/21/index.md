@@ -17,7 +17,7 @@ _Context: Enron, Greenwich NatWest, High Court, Royal Bank of Scotland_
 
 ##### Alliance for the Restoration of Peace and Counter-Terrorism
 ### [ 33 people are killed and dozens are wounded amidst fighting between the Alliance for the Restoration of Peace and Counter-Terrorism and Islamic Court in Daynille, Mogadishu, Somalia. ](/news/2006/02/21/33-people-are-killed-and-dozens-are-wounded-amidst-fighting-between-the-alliance-for-the-restoration-of-peace-and-counter-terrorism-and-isl.md)
-_Context: Alliance for the Restoration of Peace and Counter-Terrorism, Daynille, Mogadishu, Somalia_
+_Context: Alliance for the Restoration of Peace and Counter-Terrorism, Daynille, Mogadishu, Somali_
 
 ## [Previous Day...](/news/2006/02/20/index.md)
 

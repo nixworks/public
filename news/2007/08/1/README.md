@@ -69,7 +69,7 @@ Follow the StarTribune for the news, photos and videos from the Twin Cities and 
 
 ##### U.S. President
 ### [ The President of the United States George W. Bush orders senior adviser Karl Rove not to testify before a United States Senate committee on the Dismissal of U.S. attorneys controversy. ](/news/2007/08/1/the-president-of-the-united-states-george-w-bush-orders-senior-adviser-karl-rove-not-to-testify-before-a-united-states-senate-committee-on.md)
-_Context: George W. Bush, Karl Rove, U.S. President, United States Senate, firings_
+_Context: George W. Bush, Karl Rove, Senate, U.S. President, firings_
 
 ##### New Zealand
 ### [ New Zealand launches its first commercially available biofuel, which consists of 90 percent petrol and 10 percent bioethanol made from cows' milk. ](/news/2007/08/1/new-zealand-launches-its-first-commercially-available-biofuel-which-consists-of-90-percent-petrol-and-10-percent-bioethanol-made-from-cows.md)

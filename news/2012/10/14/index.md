@@ -7,7 +7,7 @@ Formats: [HTML](2012/10/14/index.html)  [JSON](2012/10/14/index.json)  [XML](201
 ### [Felix Baumgartner breaks the world human ascent by balloon record before space diving out of the "Red Bull Stratos" helium-filled balloon over Roswell, New Mexico. ](/news/2012/10/14/felix-baumgartner-breaks-the-world-human-ascent-by-balloon-record-before-space-diving-out-of-the-red-bull-stratos-helium-filled-balloon-ov.md)
 _Context: Felix Baumgartner, Red Bull Stratos, Roswell, New Mexico, space diving_
 
-##### United States Senate
+##### Senate
 ### [Former United States Senator Arlen Specter, who was vital in several United States Supreme Court nominations, dies at the age of 82, due to complications of non-Hodgkin's lymphoma. ](/news/2012/10/14/former-united-states-senator-arlen-specter-who-was-vital-in-several-united-states-supreme-court-nominations-dies-at-the-age-of-82-due-to.md)
 For most of his 30 years as Pennsylvania&#x27;s longest-serving U.S. senator and prominent moderate in Congress, Arlen Specter was a Republican, though often at odds with the GOP leadership.
 

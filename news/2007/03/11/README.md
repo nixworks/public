@@ -19,9 +19,9 @@ _Context: Ariane 5, French Guiana, Kourou, Skynet 5, satellite_
 ### [ Voters in Russia go to the polls in elections in 14 regions including Saint Petersburg. The elections have been widely criticised by the Opposition. ](/news/2007/03/11/voters-in-russia-go-to-the-polls-in-elections-in-14-regions-including-saint-petersburg-the-elections-have-been-widely-criticised-by-the-op.md)
 _Context: Russia, Saint Petersburg_
 
-##### French President
+##### President of France
 ### [ The President of France Jacques Chirac announces that he will not be seeking a third term. ](/news/2007/03/11/the-president-of-france-jacques-chirac-announces-that-he-will-not-be-seeking-a-third-term.md)
-_Context: French President, Jacques Chirac_
+_Context: Jacques Chirac, President of France_
 
 ##### Zimbabwe
 ### [ Leading opponents of Zimbabwe's President Robert Mugabe, including Morgan Tsvangirai, leader of the Movement for Democratic Change, and four other members of parliament and party activists, are arrested for defying a ban on protest rallies in Harare. Riot police shoot one activist dead. ](/news/2007/03/11/leading-opponents-of-zimbabwe-s-president-robert-mugabe-including-morgan-tsvangirai-leader-of-the-movement-for-democratic-change-and-fou.md)

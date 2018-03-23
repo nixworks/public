@@ -49,7 +49,7 @@ _Context: Bangkok, Iran, Malaysia, Thailand, bombings, extradition_
 
 ##### General
 ### [US General John R. Allen, the head of the International Security Assistance Force in Afghanistan commissions an inquiry into allegations that Qurans were burnt at an American Air Force base as Afghans protest. ](/news/2012/02/21/us-general-john-r-allen-the-head-of-the-international-security-assistance-force-in-afghanistan-commissions-an-inquiry-into-allegations-tha.md)
-_Context: Afghanistan, General, International Security Assistance Force, John R. Allen, Quran, U.S. Air Force_
+_Context: Afghan, General, International Security Assistance Force, John R. Allen, Quran, U.S. Air Force_
 
 ##### Bombardment
 ### [The bombardment of Homs in Syria continues for an 18th successive day, killing over 100 people. ](/news/2012/02/21/the-bombardment-of-homs-in-syria-continues-for-an-18th-successive-day-killing-over-100-people.md)

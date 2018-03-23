@@ -23,7 +23,7 @@ CARACAS, Venezuela (AP) — Venezuela&#039;s electoral council on Tuesday took s
 ### [Following heavy pressure from world powers, Yemen's warring factions agree on an agenda for U.N.-backed peace negotiations to continue. ](/news/2016/04/26/following-heavy-pressure-from-world-powers-yemen-s-warring-factions-agree-on-an-agenda-for-u-n-backed-peace-negotiations-to-continue.md)
 _Context: United Nations, Yemen, Yemeni Civil War_
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Clashes break out between migrants and riot police at the Moria camp on the Greek island of Lesbos after a policeman reportedly hit a minor. The violence occurred as a Greek migration minister was visiting the center. Several refugees-migrants are reported injured. ](/news/2016/04/26/clashes-break-out-between-migrants-and-riot-police-at-the-ma2ria-camp-on-the-greek-island-of-lesbos-after-a-policeman-reportedly-hit-a-minor.md)
 Clashes break out between migrants and riot police at a detention centre on the Greek island of Lesbos, police say.
 
@@ -83,9 +83,9 @@ Japanese car maker Mitsubishi Motors Corp (7211.T) said on Tuesday it used fuel 
 ### [The Prime Minister of Australia Malcolm Turnbull announces that French company DCNS has been awarded a $50 billion contract to build a new fleet of submarines for the Royal Australian Navy with the subs to be built in Adelaide. ](/news/2016/04/26/the-prime-minister-of-australia-malcolm-turnbull-announces-that-french-company-dcns-has-been-awarded-a-50-billion-contract-to-build-a-new-f.md)
 French company wins the contract to build Australia&#039;s next fleet of submarines, with Prime Minister Malcolm Turnbull promising thousands of jobs.
 
-##### Ukraine
+##### Ukrainian
 ### [Ukraine commemorates the 30th anniversary of the Chernobyl disaster. ](/news/2016/04/26/ukraine-commemorates-the-30th-anniversary-of-the-chernobyl-disaster.md)
-_Context: Chernobyl disaster, Ukraine_
+_Context: Chernobyl disaster, Ukrainian_
 
 ##### Attacks on secularists in Bangladesh
 ### [Ansar-al Islam, the Bangladeshi branch of al-Qaeda in the Indian Subcontinent, claims responsibility for yesterday's murder of USAID employee and LGBT activist Xulhaz Mannan and his friend, actor Tanay Majumder. ](/news/2016/04/26/ansar-al-islam-the-bangladeshi-branch-of-al-qaeda-in-the-indian-subcontinent-claims-responsibility-for-yesterday-s-murder-of-usaid-employe.md)

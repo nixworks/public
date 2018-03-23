@@ -27,7 +27,7 @@ _Context: Cleveland, Delta State University, Gautier, Mississippi, United States
 ### [Colombia accuses Venezuela of violating its airspace for the second time in two days. ](/news/2015/09/14/colombia-accuses-venezuela-of-violating-its-airspace-for-the-second-time-in-two-days.md)
 _Context: Colombia, Venezuela, airspace_
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Germany reopens train services from Austria after reintroducing border controls. ](/news/2015/09/14/germany-reopens-train-services-from-austria-after-reintroducing-border-controls.md)
 Rail services have resumed between Austria and Germany after all trains were stopped overnight. Berlin has reintroduced border controls to stem the tide of thousands of refugees streaming across its frontier.
 

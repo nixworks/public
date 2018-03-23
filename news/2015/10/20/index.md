@@ -11,7 +11,7 @@ Scientists at the University of Central Florida suggest a common UV-filtering co
 ### [Research from University of California, Los Angeles scientists indicates that life on earth may have started 4.1 billion years ago - 300 million years earlier than previously thought. ](/news/2015/10/20/research-from-university-of-california-los-angeles-scientists-indicates-that-life-on-earth-may-have-started-4-1-billion-years-ago-a-300-m.md)
 &quot;Life on Earth may have started almost instantaneously. With the right ingredients, life seems to form very quickly,&quot; added Harrison.
 
-##### United States Senate
+##### Senate
 ### [Former Virginia Senator Jim Webb announces his withdrawal from the race for the Democratic presidential nomination during a press conference at the National Press Club. He added that he would consider his other options in the coming weeks. Webb's campaign said he is weighing an independent bid. ](/news/2015/10/20/former-virginia-senator-jim-webb-announces-his-withdrawal-from-the-race-for-the-democratic-presidential-nomination-during-a-press-conference.md)
 Former Virginia Sen. Jim Webb plans to announce on Tuesday that he will drop out of the Democratic presidential race in favor of a potential independent presidential run.
 
@@ -35,9 +35,9 @@ Terms attempting to avoid conflict in Syrian airspace comes days after closest a
 ### [Saudi Arabia receives US State Department approval for the purchase of four Multi-Mission Combat Ships for $11.25 billion. ](/news/2015/10/20/saudi-arabia-receives-us-state-department-approval-for-the-purchase-of-four-multi-mission-combat-ships-for-11-25-billion.md)
 Saudi Arabia has received U.S. State Department approval for the $11.25 billion purchase of four Multi-Mission Combat Ships from the United States.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [European Union members agree to provide 291 border guards to Greece and Italy to help identify and register migrants. ](/news/2015/10/20/european-union-members-agree-to-provide-291-border-guards-to-greece-and-italy-to-help-identify-and-register-migrants.md)
-_Context: European Union, European migrant crisis, Greece, Italy, border guard_
+_Context: European Union, Greece, Italy, border guard, refugee immigration to Germany_
 
 ##### Brazil
 ### [Brazil pulls out of an electoral mission to observe crucial legislative elections in Venezuela over what it says are a lack of guarantees by the government of Venezuela and its veto of the choice to head the delegation. ](/news/2015/10/20/brazil-pulls-out-of-an-electoral-mission-to-observe-crucial-legislative-elections-in-venezuela-over-what-it-says-are-a-lack-of-guarantees-by.md)

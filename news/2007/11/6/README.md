@@ -25,7 +25,7 @@ _Context: Belgium, forms a temporary coalition government, general election_
 
 ##### Suicide bombing
 ### [ At least 35 people are killed and dozens more wounded in a suicide bombing in northern Afghanistan, officials say. ](/news/2007/11/6/at-least-35-people-are-killed-and-dozens-more-wounded-in-a-suicide-bombing-in-northern-afghanistan-officials-say.md)
-_Context: Afghanistan, suicide bombing_
+_Context: Afghan, suicide bombing_
 
 ##### Queen Elizabeth
 ### [ Queen Elizabeth II formally opens High Speed 1 and London's St Pancras station, the new home for Eurostar trains linking London with Paris and Brussels as of November 14, replacing the Eurostar terminus at Waterloo station. ](/news/2007/11/6/queen-elizabeth-ii-formally-opens-high-speed-1-and-london-s-st-pancras-station-the-new-home-for-eurostar-trains-linking-london-with-paris.md)

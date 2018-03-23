@@ -81,7 +81,7 @@ A dummy bomb that sparked an international terror alert was made by an 80-year-o
 
 ##### United States armed forces
 ### [The U.S. military is sending M1 Abrams tanks to Afghanistan for the first time in the nine-year war in Afghanistan. ](/news/2010/11/19/the-u-s-military-is-sending-m1-abrams-tanks-to-afghanistan-for-the-first-time-in-the-nine-year-war-in-afghanistan.md)
-_Context: Afghanistan, M1 Abrams tanks, United States armed forces, War in Afghanistan (2001-present)_
+_Context: Afghan, M1 Abrams tanks, United States armed forces, War in Afghanistan (2001-present)_
 
 ##### Palestinian rocket attacks on Israel
 ### [Responding to Palestinians firing phosphorus shells and mortars into Israel, the Israel Air Force bombs at least two targets in the Gaza Strip and will file a complaint with the UN. The Salah al-Din Brigades claim responsibility, saying the rockets were responding to the killing of two members of the al-Qaida affiliated Army of Islam in Gaza. ](/news/2010/11/19/responding-to-palestinians-firing-phosphorus-shells-and-mortars-into-israel-the-israel-air-force-bombs-at-least-two-targets-in-the-gaza-str.md)
@@ -95,9 +95,9 @@ Islamabad, Nov 19 (IANS) At least three suspected militants were killed in a US 
 ### [A police officer dies in hospital after a suspected militant attack in Russia's North Caucasus republic of Dagestan. ](/news/2010/11/19/a-police-officer-dies-in-hospital-after-a-suspected-militant-attack-in-russiaas-north-caucasus-republic-of-dagestan.md)
 _Context: Dagestan, North Caucasus, Russia_
 
-##### Al-Shabaab
+##### Al-Shabab
 ### [Eleven people are killed in clashes between the rival al-Shabaab and Ahlu Sunna Waljama'a groups in central Somalia. ](/news/2010/11/19/eleven-people-are-killed-in-clashes-between-the-rival-al-shabaab-and-ahlu-sunna-waljama-a-groups-in-central-somalia.md)
-_Context: Ahlu Sunna Waljama'a, Al-Shabaab, Somalia_
+_Context: Ahlu Sunna Waljama'a, Al-Shabab, Somali_
 
 ## [Previous Day...](/news/2010/11/18/index.md)
 

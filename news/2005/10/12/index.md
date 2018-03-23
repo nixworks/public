@@ -27,9 +27,9 @@ _Context: Anglo-Saxon, Chancellor, Gerhard Schroder, Hurricane Katrina, United S
 ### [ CNN reports that the Louisiana attorney general is investigating the possibility that mercy killings of critically ill patients by staff medical professionals at Memorial Medical Center in New Orleans, Louisiana occurred during Hurricane Katrina. ](/news/2005/10/12/cnn-reports-that-the-louisiana-attorney-general-is-investigating-the-possibility-that-mercy-killings-of-critically-ill-patients-by-staff-me.md)
 _Context: CNN, Hurricane Katrina, Louisiana, Memorial Medical Center, New Orleans, Louisiana, attorney general, euthanasia_
 
-##### Somalia
+##### Somali
 ### [ Six armed Somali pirates hijack the MV Miltzow, a freighter that is carrying United Nations food aid. After its cargo of 850 tonnes of food aid was offloaded in the port of Merka, the ship was forced to sail down the coast to Barawa before being released two days later. ](/news/2005/10/12/six-armed-somali-pirates-hijack-the-mv-miltzow-a-freighter-that-is-carrying-united-nations-food-aid-after-its-cargo-of-850-tonnes-of-food.md)
-_Context: Barawa, MV Miltzow, Merka, Somalia, United Nations, freighter, hijack, pirate_
+_Context: Barawa, MV Miltzow, Merka, Somali, United Nations, freighter, hijack, pirate_
 
 ## [Previous Day...](/news/2005/10/11/index.md)
 

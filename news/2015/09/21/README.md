@@ -31,7 +31,7 @@ Eight people were killed — including a 14-year-old boy — and at least 45 oth
 ### [In Auckland, New Zealand, an extradition hearing for Kim Dotcom, former owner of a file sharing website, for alleged copyright infringement, racketeering, and money laundering begins, seeking to bring him to the U.S. ](/news/2015/09/21/in-auckland-new-zealand-an-extradition-hearing-for-kim-dotcom-former-owner-of-a-file-sharing-website-for-alleged-copyright-infringement.md)
 The long-awaited extradition hearing for internet entrepreneur Kim Dotcom by US authorities opens in Auckland, New Zealand.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Hungary's parliament passes a law allowing the Hungarian military to help handle the migrant crisis at its borders with Serbia and Croatia, including the right to use non-lethal force such as rubber bullets, pyrotechnical devices, tear gas grenades or net guns. ](/news/2015/09/21/hungary-s-parliament-passes-a-law-allowing-the-hungarian-military-to-help-handle-the-migrant-crisis-at-its-borders-with-serbia-and-croatia.md)
 The latest donation brings total U.S. aid over four years to $4.5 billion, more than any other country.
 
@@ -69,7 +69,7 @@ At least 17 people were killed in and around the Iraqi capital on Monday in four
 
 ##### War in Somalia (2009-present)
 ### [A car bomb in Somalia kills at least six people at the gates of the presidential palace in Mogadishu. ](/news/2015/09/21/a-car-bomb-in-somalia-kills-at-least-six-people-at-the-gates-of-the-presidential-palace-in-mogadishu.md)
-_Context: Mogadishu, President, Somalia, War in Somalia (2009-present), car bomb_
+_Context: Mogadishu, President, Somali, War in Somalia (2009-present), car bomb_
 
 ##### Syrian Civil War
 ### [Government forces target al-Shaar neighborhood in eastern Aleppo city with surface-to-surface missiles, hitting a crowded public market, killing more than 30 civilians and dozens wounded. ](/news/2015/09/21/government-forces-target-al-shaar-neighborhood-in-eastern-aleppo-city-with-surface-to-surface-missiles-hitting-a-crowded-public-market-kil.md)

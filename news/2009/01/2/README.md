@@ -13,7 +13,7 @@ _Context: Luis Fortuno, Puerto Rico, Puerto Rico Governor_
 
 ##### Ethiopia
 ### [ Ethiopia withdraws its military forces from Somalia after two years of helping the Transitional Federal Government combat insurgents. ](/news/2009/01/2/ethiopia-withdraws-its-military-forces-from-somalia-after-two-years-of-helping-the-transitional-federal-government-combat-insurgents.md)
-_Context: Ethiopia, Ethiopian Army, Somalia, Transitional Federal Government, insurgents, two years of helping_
+_Context: Ethiopia, Ethiopian Army, Somali, Transitional Federal Government, insurgents, two years of helping_
 
 ##### 2008 SLA Northern offensive
 ### [ 2008 SLA Northern offensive: The Sri Lankan Army captures the Tamil Tigers' "de facto" capital of Kilinochchi. ](/news/2009/01/2/2008-sla-northern-offensive-the-sri-lankan-army-captures-the-tamil-tigers-de-facto-capital-of-kilinochchi.md)

@@ -23,7 +23,7 @@ David Cameron says Culture Secretary Maria Miller has &quot;excellent answers&qu
 ### [The Bangladeshi Opposition calls a general strike over restoration of a caretaker administration with reports of explosions and clashes between police and protesters in the capital Dhaka. ](/news/2012/12/13/the-bangladeshi-opposition-calls-a-general-strike-over-restoration-of-a-caretaker-administration-with-reports-of-explosions-and-clashes-betw.md)
 _Context: Bangladesh, Dhaka, general strike_
 
-##### Ambassador to the United Nations
+##### United States Ambassador to the United Nations
 ### [U.S. Ambassador to the United Nations Susan Rice withdraws her name from consideration to be nominated U.S. Secretary of State, following increasing opposition to her nomination by Republican members of the Senate. ](/news/2012/12/13/u-s-ambassador-to-the-united-nations-susan-rice-withdraws-her-name-from-consideration-to-be-nominated-u-s-secretary-of-state-following-in.md)
 Susan Rice has withdrawn her name for consideration to be nominated for secretary of state.
 

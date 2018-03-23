@@ -3,7 +3,7 @@ Formats: [HTML](2009/05/7/index.html)  [JSON](2009/05/7/index.json)  [XML](2009/
 
 ## [2009-05-7](/news/2009/05/7/index.md)
 
-##### Somalia
+##### Somali
 ### [ Somali pirates hijack the Netherlands' MV "Marathon" and attack the U.S. Navy cargo ship "Lewis and Clark". ](/news/2009/05/7/somali-pirates-hijack-the-netherlands-mv-marathon-and-attack-the-u-s-navy-cargo-ship-lewis-and-clark.md)
 Pirates seized a Dutch cargo vessel on Thursday, a regional maritime group said, in the latest hijack by gangs proliferating off Somalia despite the presence of patrolling foreign warships.
 
@@ -17,7 +17,7 @@ _Context: Bank of England, GBP, interest rate, quantitative easing_
 
 ##### Casino
 ### [ A fire at a casino kills ten people and injures ten others in Dnipropetrovsk, Ukraine. ](/news/2009/05/7/a-fire-at-a-casino-kills-ten-people-and-injures-ten-others-in-dnipropetrovsk-ukraine.md)
-_Context: Dnipropetrovsk, Ukraine, casino_
+_Context: Dnipropetrovsk, Ukrainian, casino_
 
 ##### European Central Bank
 ### [ The Central Bank reduces the Eurozone's interest rate to 1% and implements EUR60 billion of quantitative easing. ](/news/2009/05/7/the-central-bank-reduces-the-eurozone-s-interest-rate-to-1-and-implements-a-60-billion-of-quantitative-easing.md)

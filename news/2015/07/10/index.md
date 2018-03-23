@@ -61,7 +61,7 @@ In early morning raids Friday in Istanbul and Sanliurfa Province, which borders 
 
 ##### War in Somalia (2009-present)
 ### [ Al Shabaab militants have stormed two hotels in Somalia's capital Mogadishu killing at least 10 civilians. ](/news/2015/07/10/al-shabaab-militants-have-stormed-two-hotels-in-somalia-s-capital-mogadishu-killing-at-least-10-civilians.md)
-_Context: Al-Shabaab, Mogadishu, Somalia, War in Somalia (2009-present)_
+_Context: Al-Shabab, Mogadishu, Somali, War in Somalia (2009-present)_
 
 ## [Previous Day...](/news/2015/07/9/index.md)
 

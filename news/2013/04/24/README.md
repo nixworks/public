@@ -33,7 +33,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Jalalabad
 ### [A 5.7 magnitude earthquake strikes 25 kilometers from Jalalabad, Afghanistan, leaving 33 people dead and another 115 injured. Heavy damage of buildings are reported across Nangarhar Province. ](/news/2013/04/24/a-5-7-magnitude-earthquake-strikes-25-kilometers-from-jalalabad-afghanistan-leaving-33-people-dead-and-another-115-injured-heavy-damage-o.md)
-_Context: Afghanistan, Jalalabad, Nangarhar Province_
+_Context: Afghan, Jalalabad, Nangarhar Province_
 
 ## [Previous Day...](/news/2013/04/23/index.md)
 

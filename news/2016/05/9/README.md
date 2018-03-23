@@ -45,7 +45,7 @@ _Context: Saudi Arabian-led intervention in Yemen, Yemen, Yemeni Civil War (2015
 
 ##### War in Somalia (2009-present)
 ### [ A suicide car bomb targeting Mogadishu's traffic police headquarters kills at least four. Al-Shabaab claims responsibility. ](/news/2016/05/9/a-suicide-car-bomb-targeting-mogadishu-s-traffic-police-headquarters-kills-at-least-four-al-shabaab-claims-responsibility.md)
-_Context: Al-Shabaab, Mogadishu, War in Somalia (2009-present)_
+_Context: Al-Shabab, Mogadishu, War in Somalia (2009-present)_
 
 ## [Previous Day...](/news/2016/05/8/index.md)
 

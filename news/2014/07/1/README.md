@@ -19,7 +19,7 @@ _Context: Martin Schulz, President of the European Parliament, SPD_
 ### [A Ku Klux Klan flag is erected in the east of Belfast, Northern Ireland, sparking outrage amid a recent surge in racist attacks in the city. ](/news/2014/07/1/a-ku-klux-klan-flag-is-erected-in-the-east-of-belfast-northern-ireland-sparking-outrage-amid-a-recent-surge-in-racist-attacks-in-the-city.md)
 MP Naomi Long condemns those who put up the flag off Island Street, accusing them of exacerbating racist tensions in the area
 
-##### French President
+##### President of France
 ### [Former President of France Nicolas Sarkozy is held for questioning over alleged corruption. ](/news/2014/07/1/former-president-of-france-nicolas-sarkozy-is-held-for-questioning-over-alleged-corruption.md)
 Nicolas Sarkozy is detained for questioning over alleged influence peddling - unprecedented for a former French president - and his lawyer is charged.
 

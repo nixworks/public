@@ -11,9 +11,9 @@ _Context: Fatah, Gaza Strip, Hamas, Ismail Haniyeh, Israeli Army, Mahmoud Abbas,
 ### [ At least 21 people die in western China in landslides caused by heavy rain. ](/news/2007/05/26/at-least-21-people-die-in-western-china-in-landslides-caused-by-heavy-rain.md)
 _Context: Chinese, landslide_
 
-##### Ukraine
+##### Ukrainian
 ### [ Several thousand Ukrainian Interior Ministry troops head for Kiev in defiance of orders to support President Viktor Yushchenko. ](/news/2007/05/26/several-thousand-ukrainian-interior-ministry-troops-head-for-kiev-in-defiance-of-orders-to-support-president-viktor-yushchenko.md)
-_Context: Kiev, Ukraine, Ukrainian President, Viktor Yushchenko_
+_Context: Kiev, Ukrainian, Ukrainian President, Viktor Yushchenko_
 
 ##### German
 ### [ Germany celebrates the 175th anniversary of the Hambacher Fest. ](/news/2007/05/26/germany-celebrates-the-175th-anniversary-of-the-hambacher-fest.md)

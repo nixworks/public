@@ -37,7 +37,7 @@ _Context: Japan, Okinawa, Typhoon Neoguri_
 
 ##### War in Somalia (2009-present)
 ### [Al-Shabaab Islamic militants storm the presidential palace in Mogadishu with heavy gunfire as government troops try to repel them. ](/news/2014/07/8/al-shabaab-islamic-militants-storm-the-presidential-palace-in-mogadishu-with-heavy-gunfire-as-government-troops-try-to-repel-them.md)
-_Context: Al-Shabaab, Mogadishu, President, War in Somalia (2009-present)_
+_Context: Al-Shabab, Mogadishu, President, War in Somalia (2009-present)_
 
 ##### Taliban insurgency
 ### [The Taliban claims responsibility for an attack in central Afghanistan that claims the lives of 10 civilians, four Czech members of the International Security Assistance Force and two Afghan police officers. ](/news/2014/07/8/the-taliban-claims-responsibility-for-an-attack-in-central-afghanistan-that-claims-the-lives-of-10-civilians-four-czech-members-of-the-inte.md)

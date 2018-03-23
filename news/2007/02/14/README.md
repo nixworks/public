@@ -17,7 +17,7 @@ _Context: Iran, Islamic Revolutionary Guards Corps, Zahedan, car bomb_
 
 ##### Chinese
 ### [ The foreign ministers of China, India and Russia meet in New Delhi, India to discuss greater cooperation between the three Asian countries on issues including terrorism, drug trafficking and Afghanistan. ](/news/2007/02/14/the-foreign-ministers-of-china-india-and-russia-meet-in-new-delhi-india-to-discuss-greater-cooperation-between-the-three-asian-countries.md)
-_Context: Afghanistan, Asia, Chinese, India, New Delhi, India, Russia, drug trafficking, terrorism_
+_Context: Afghan, Asia, Chinese, India, New Delhi, India, Russia, drug trafficking, terrorism_
 
 ##### Gurbanguly Berdimuhamedow
 ### [ Gurbanguly Berdimuhamedow is sworn in as President of Turkmenistan. ](/news/2007/02/14/gurbanguly-berdimuhamedow-is-sworn-in-as-president-of-turkmenistan.md)
@@ -49,7 +49,7 @@ _Context: Arun Sarin, CEO, India, US$, Vodafone Group Plc_
 
 ##### United States Senate election, 2008
 ### [ United States Senate election, 2008: Author and comedian Al Franken announces his candidacy for Senator of Minnesota. ](/news/2007/02/14/united-states-senate-election-2008-author-and-comedian-al-franken-announces-his-candidacy-for-senator-of-minnesota.md)
-_Context: Al Franken, Minnesota, United States Senate, United States Senate election, 2008, comedian_
+_Context: Al Franken, Minnesota, Senate, United States Senate election, 2008, comedian_
 
 ##### Parliament of Serbia
 ### [ The Parliament of Serbia rejects a United Nations plan for the independence of Kosovo. ](/news/2007/02/14/the-parliament-of-serbia-rejects-a-united-nations-plan-for-the-independence-of-kosovo.md)
@@ -61,7 +61,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### United States
 ### [ The United States redeploys the 173rd Airborne Brigade to Afghanistan to prepare for an anticipated spring offensive by the Taliban. ](/news/2007/02/14/the-united-states-redeploys-the-173rd-airborne-brigade-to-afghanistan-to-prepare-for-an-anticipated-spring-offensive-by-the-taliban.md)
-_Context: 173rd Airborne Brigade, Afghanistan, Taliban, United States, redeploys_
+_Context: 173rd Airborne Brigade, Afghan, Taliban, United States, redeploys_
 
 ## [Previous Day...](/news/2007/02/13/index.md)
 

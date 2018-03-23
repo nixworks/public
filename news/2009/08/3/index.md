@@ -19,7 +19,7 @@ _Context: Australia, Kyle Sandilands, P!nk, rape_
 ### [ "The Washington Post" newspaper in the United States reports that officials are considering a plan to move Guantnamo Bay detainees to a prison camp. ](/news/2009/08/3/the-washington-post-newspaper-in-the-united-states-reports-that-officials-are-considering-a-plan-to-move-guantanamo-bay-detainees-to-a-pr.md)
 Officials are reportedly considering a plan to move Guantanamo detainees to a special US prison camp.
 
-##### Somalia
+##### Somali
 ### [ Somali pirates release a Malaysian tugboat with 11 Indonesian crew after being held for more than seven months. ](/news/2009/08/3/somali-pirates-release-a-malaysian-tugboat-with-11-indonesian-crew-after-being-held-for-more-than-seven-months.md)
 Somali pirates freed a German ship seized in April on Monday after receiving a ransom and a Malaysian-owned tug boat has also been released after being held for more than seven months.
 

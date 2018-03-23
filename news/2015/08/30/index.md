@@ -27,9 +27,9 @@ Bars and restaurants in Beirut closed Saturday in solidarity with anti-governmen
 ### [An open truck smashes into the back of a van near Mbabane, Swaziland killing 65 girls and young women traveling to an annual dance festival. ](/news/2015/08/30/an-open-truck-smashes-into-the-back-of-a-van-near-mbabane-swaziland-killing-65-girls-and-young-women-traveling-to-an-annual-dance-festival.md)
 The death toll from a massive truck crash in Swaziland on Friday, which claimed the lives of girls and young women traveling to an annual dance festival, where one was to be picked as the king’s newest bride, has risen to 65, Swaziland Solidarity Network reported.
 
-##### European migrant crisis
+##### Refugee immigration to Germany
 ### [Hungary makes a fifth arrest in relation to the death of seventy-one migrants in a truck in Austria. ](/news/2015/08/30/hungary-makes-a-fifth-arrest-in-relation-to-the-death-of-seventy-one-migrants-in-a-truck-in-austria.md)
-_Context: Austria, European migrant crisis, Hungary_
+_Context: Austria, Hungary, refugee immigration to Germany_
 
 ##### 2015 Pacific hurricane season
 ### [ Hurricane Ignacio, which has weakened to a Category 3 (115 mph) storm, is expected to side-step Hawaii this week though will still generate high surf, rain and powerful winds. The Big Island and Maui remain on a tropical storm watch. Ignacio may re-strengthen to a hurricane when he clears Oahu on Wednesday. ](/news/2015/08/30/hurricane-ignacio-which-has-weakened-to-a-category-3-115-mph-storm-is-expected-to-side-step-hawaii-this-week-though-will-still-generate.md)

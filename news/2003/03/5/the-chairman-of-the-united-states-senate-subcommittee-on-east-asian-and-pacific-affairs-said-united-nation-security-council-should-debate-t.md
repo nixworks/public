@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/03/5/the-chairman-of-the-united-states-senate-subcomm
 
 ### [2003-03-5](/news/2003/03/5/index.md)
 
-##### United States Senate
+##### Senate
 #  The chairman of the United States Senate subcommittee on East Asian and Pacific affairs said United Nation Security Council should debate the issue about abduction of Japanese citizens by North Korea as a question of human rights.
 
 

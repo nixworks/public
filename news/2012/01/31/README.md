@@ -39,9 +39,9 @@ _Context: Alaska Volcano Observatory, Cleveland Volcano, lava dome_
 ### [Italian divers end their search for victims in the Costa Concordia disaster in the underwater section of the wreck. ](/news/2012/01/31/italian-divers-end-their-search-for-victims-in-the-costa-concordia-disaster-in-the-underwater-section-of-the-wreck.md)
 Italian divers have abandoned their search for bodies inside the wrecked cruise ship Costa Concordia after conditions underwater deteriorated.
 
-##### Turkish
+##### Turkey
 ### [A search continues off Turkey's Black Sea coast for eight missing crew members of the Cambodia-flagged freighter the Vera. ](/news/2012/01/31/a-search-continues-off-turkey-s-black-sea-coast-for-eight-missing-crew-members-of-the-cambodia-flagged-freighter-the-vera.md)
-_Context: Black Sea, Cambodia, Turkish, freighter_
+_Context: Black Sea, Cambodia, Turkey, freighter_
 
 ##### Royal Bank of Scotland
 ### [Former Royal Bank of Scotland CEO Fred Goodwin loses his knighthood from Queen Elizabeth II as a result of the near collapse of the bank in 2008. ](/news/2012/01/31/former-royal-bank-of-scotland-ceo-fred-goodwin-loses-his-knighthood-from-queen-elizabeth-ii-as-a-result-of-the-near-collapse-of-the-bank-in.md)
@@ -51,7 +51,7 @@ _Context: Fred Goodwin, Queen Elizabeth II, Royal Bank of Scotland, knighthood_
 ### [Six aid workers are kidnapped in Yemen's Al Mahwit Governorate. ](/news/2012/01/31/six-aid-workers-are-kidnapped-in-yemen-s-al-mahwit-governorate.md)
 _Context: Al Mahwit Governorate, Yemen_
 
-##### Afghanistan
+##### Afghan
 ### [An Afghan woman was killed by her husband and mother-in-law 3 months after giving birth to her third daughter after not producing a son. ](/news/2012/01/31/an-afghan-woman-was-killed-by-her-husband-and-mother-in-law-3-months-after-giving-birth-to-her-third-daughter-after-not-producing-a-son.md)
 The Kunduz Province authorities say that a woman, 22, was strangled by her husband and mother-in-law three months after she gave birth to a third girl.
 

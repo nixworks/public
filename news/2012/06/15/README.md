@@ -19,9 +19,9 @@ _Context: Congress of Colombia_
 ### [U.S. president Barack Obama announces that the U.S. will stop deporting some illegal immigrants. ](/news/2012/06/15/u-s-president-barack-obama-announces-that-the-u-s-will-stop-deporting-some-illegal-immigrants.md)
 President Obama outlined a new immigration policy under which young illegal immigrants who came to the country as children can obtain work permits and will not face deportation.
 
-##### Ukraine
+##### Ukrainian
 ### [Ukrainian prime minister Mykola Azarov is accused by the opposition of violating the law by drinking an alcoholic beverage in a government building. ](/news/2012/06/15/ukrainian-prime-minister-mykola-azarov-is-accused-by-the-opposition-of-violating-the-law-by-drinking-an-alcoholic-beverage-in-a-government-b.md)
-_Context: Mykola Azarov, Ukraine_
+_Context: Mykola Azarov, Ukrainian_
 
 ##### University of Alberta
 ### [Three employees of an armoured car company are reported dead and one injured in a shooting at the University of Alberta in Edmonton, Canada. ](/news/2012/06/15/three-employees-of-an-armoured-car-company-are-reported-dead-and-one-injured-in-a-shooting-at-the-university-of-alberta-in-edmonton-canada.md)

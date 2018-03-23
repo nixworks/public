@@ -13,7 +13,7 @@ _Context: United States, consumer price index, deflation_
 
 ##### France
 ### [ The French Navy captures 11 Somali pirates in the Gulf of Aden. ](/news/2009/04/15/the-french-navy-captures-11-somali-pirates-in-the-gulf-of-aden.md)
-_Context: France, French naval, Gulf of Aden, Somali pirates, Somalia_
+_Context: France, French naval, Gulf of Aden, Somali, Somali pirates_
 
 ##### Pitcairn Islands
 ### [ The Pitcairn Islands abolish alcohol prohibition. ](/news/2009/04/15/the-pitcairn-islands-abolish-alcohol-prohibition.md)

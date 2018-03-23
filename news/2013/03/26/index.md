@@ -41,7 +41,7 @@ _Context: Guam, Hawaii, North Korea, South Korea, US-South Korea, United States,
 
 ##### Arab League
 ### [The Arab League summit begins in Qatar, Doha, with the Syria conflict and possible talks between the Afghanistan government and the Taliban among the key issues. ](/news/2013/03/26/the-arab-league-summit-begins-in-qatar-doha-with-the-syria-conflict-and-possible-talks-between-the-afghanistan-government-and-the-taliban.md)
-_Context: Afghanistan, Arab League, Doha, Politics of Afghanistan, Qatar, Syrian civil war, Taliban, summit_
+_Context: Afghan, Arab League, Doha, Politics of Afghanistan, Qatar, Syrian civil war, Taliban, summit_
 
 ##### Italy
 ### [Italy's Court of Cassation overturns the acquittals of Amanda Knox and Raffaele Sollecito in the murder of Meredith Kercher and orders a retrial. However, Knox, who returned home immediately upon release, is not expected to be there as the U.S. tends not to extradite its citizens to face legal action. ](/news/2013/03/26/italy-s-court-of-cassation-overturns-the-acquittals-of-amanda-knox-and-raffaele-sollecito-in-the-murder-of-meredith-kercher-and-orders-a-ret.md)
@@ -61,7 +61,7 @@ Leaders from the five Brics nations - Brazil, Russia, India, China and South Afr
 
 ##### Collapse
 ### [2012-2013 Cypriot financial crisis: Cyprus's Ministry of Finance says banks will remain shut until Thursday to give regulators time to guard against a run on deposits, and that big depositors in Cypriot banks can lose up to 40% of their funds, while depositors with less than 100,000 euros in their accounts will not be affected by bailout plans. ](/news/2013/03/26/2012a2013-cypriot-financial-crisis-cyprus-s-ministry-of-finance-says-banks-will-remain-shut-until-thursday-to-give-regulators-time-to-gua.md)
-_Context: Cypriot, bailout, collapse, deposits, regulators, run_
+_Context: Cyprus, bailout, collapse, deposits, regulators, run_
 
 ##### Tuz Khormato
 ### [A roadside bombing kills the head of a local town council and a member of a provincial council in Tuz Khormato, Saladin Province, Iraq. ](/news/2013/03/26/a-roadside-bombing-kills-the-head-of-a-local-town-council-and-a-member-of-a-provincial-council-in-tuz-khormato-saladin-province-iraq.md)

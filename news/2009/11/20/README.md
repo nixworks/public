@@ -23,9 +23,9 @@ _Context: Northern Mariana Islands, Saipan, shooting_
 ### [ Colombia accuses Venezuelan troops of blowing up two border bridges between the two countries. ](/news/2009/11/20/colombia-accuses-venezuelan-troops-of-blowing-up-two-border-bridges-between-the-two-countries.md)
 Bogota accuses Caracas of blowing up pedestrian bridges between two countries.
 
-##### Somalia
+##### Somali
 ### [ Somalia announces it is to ratify the United Nations Convention on the Rights of the Child, leaving the United States the only country not to ratify it. ](/news/2009/11/20/somalia-announces-it-is-to-ratify-the-united-nations-convention-on-the-rights-of-the-child-leaving-the-united-states-the-only-country-not.md)
-_Context: Convention on the Rights of the Child, Somalia, United Nations, United States_
+_Context: Convention on the Rights of the Child, Somali, United Nations, United States_
 
 ##### Irish Defence Forces
 ### [ The Irish Defence Forces are deployed to assist civil authorities after widespread flooding hits the west and south of Ireland after the heaviest rainfall in over thirty years falls in one night. The worst affected areas are Cork and Galway, where there is widespread disruption to public transport and services and several major roads are closed. Lectures at University College Cork are cancelled as the university is submerged. ](/news/2009/11/20/the-irish-defence-forces-are-deployed-to-assist-civil-authorities-after-widespread-flooding-hits-the-west-and-south-of-ireland-after-the-he.md)
@@ -57,7 +57,7 @@ _Context: DR Congo, Republic of the Congo_
 
 ##### United States
 ### [ The United States Senate clears Senator Roland Burris of legal wrongdoing in relation to his appointment to the Senate. ](/news/2009/11/20/the-united-states-senate-clears-senator-roland-burris-of-legal-wrongdoing-in-relation-to-his-appointment-to-the-senate.md)
-_Context: Roland Burris, United States, United States Senate_
+_Context: Roland Burris, Senate, United States_
 
 ##### Motion of no confidence
 ### [ Three political parties file a motion of no confidence against French Polynesian President Oscar Temaru. ](/news/2009/11/20/three-political-parties-file-a-motion-of-no-confidence-against-french-polynesian-president-oscar-temaru.md)

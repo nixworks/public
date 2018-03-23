@@ -53,9 +53,9 @@ The threat of terrorism in the US is in some ways &quot;at its most heightened s
 ### [South Korea agrees in principle to resume discussions with North Korea on humanitarian issues including reuniting families separated by the Korean War. ](/news/2011/02/9/south-korea-agrees-in-principle-to-resume-discussions-with-north-korea-on-humanitarian-issues-including-reuniting-families-separated-by-the.md)
 Military talks aimed at easing tensions between North and South Korea have broken down, officials in Seoul say.
 
-##### French President
+##### President of France
 ### [President of France Nicolas Sarkozy calls for an end to government ministers holidaying abroad after it emerges they went to countries such as Egypt and Tunisia while anti-regime protests were underway. The controversy has led to calls for resignations. ](/news/2011/02/9/president-of-france-nicolas-sarkozy-calls-for-an-end-to-government-ministers-holidaying-abroad-after-it-emerges-they-went-to-countries-such.md)
-_Context: Egypt, French President, Nicolas Sarkozy, Tunisia, anti-regime protests were underway_
+_Context: Egypt, Nicolas Sarkozy, President of France, Tunisia, anti-regime protests were underway_
 
 ##### Allentown, Pennsylvania
 ### [An explosion occurs in Allentown, Pennsylvania, United States, resulting in two people being missing. ](/news/2011/02/9/an-explosion-occurs-in-allentown-pennsylvania-united-states-resulting-in-two-people-being-missing.md)

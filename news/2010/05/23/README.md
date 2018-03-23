@@ -67,7 +67,7 @@ Japanese Prime Minister Yukio Hatoyama apologises for not keeping his promise to
 ### [Rescue teams hunt for the data recorders from Air India Express Flight 812. ](/news/2010/05/23/rescue-teams-hunt-for-the-data-recorders-from-air-india-express-flight-812.md)
 Investigators in southern India find the cockpit voice recorder in the wreckage of the Air India Express jet.
 
-##### Somalia
+##### Somali
 ### [Somalia's presidential palace is targeted by Al-Shabab militants in a mortar attack. ](/news/2010/05/23/somalia-s-presidential-palace-is-targeted-by-al-shabab-militants-in-a-mortar-attack.md)
 Fighting between Islamist al Shabaab rebels and Somali troops in the capital Mogadishu has killed at least 20 people and wounded 30 this weekend, a human rights group and medical officers said Sunday.
 

@@ -55,7 +55,7 @@ Four Canadian soldiers and Calgary Herald reporter Michelle Lang were killed in 
 
 ##### United States
 ### [ Seven American CIA agents are killed by a suicide bomb attack in a US military base in Khost Province, Afghanistan. Two of the seven killed are contractors for Blackwater Worldwide. The CIA considers contractors to be officers. ](/news/2009/12/30/seven-american-cia-agents-are-killed-by-a-suicide-bomb-attack-in-a-us-military-base-in-khost-province-afghanistan-two-of-the-seven-killed.md)
-_Context: Afghanistan, Blackwater Worldwide, CIA, Khost, United States, suicide bomb_
+_Context: Afghan, Blackwater Worldwide, CIA, Khost, United States, suicide bomb_
 
 ## [Previous Day...](/news/2009/12/29/index.md)
 

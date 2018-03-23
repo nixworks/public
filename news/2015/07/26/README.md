@@ -7,7 +7,7 @@ Formats: [HTML](2015/07/26/index.html)  [JSON](2015/07/26/index.json)  [XML](201
 ### [John Sewel, Baron Sewel steps down from his position as Chairman of Committees in the House of Lords following a drug scandal. ](/news/2015/07/26/john-sewel-baron-sewel-steps-down-from-his-position-as-chairman-of-committees-in-the-house-of-lords-following-a-drug-scandal.md)
 Lord Sewel is facing a police inquiry after quitting as House of Lords deputy speaker over a video allegedly showing him taking drugs with prostitutes.
 
-##### Afghanistan
+##### Afghan
 ### [At least 20 people are killed as gunmen open fire at a wedding celebration in Afghanistan's Baghlan province. ](/news/2015/07/26/at-least-20-people-are-killed-as-gunmen-open-fire-at-a-wedding-celebration-in-afghanistan-s-baghlan-province.md)
 At least 20 people killed by gunmen who opened fire at wedding guests in northern Baghlan province.
 
@@ -39,9 +39,9 @@ Deutsche Börse said it is buying over-the-counter trading platform 360T for $79
 ### [A bomb detonates on a bus carrying Egyptian military conscripts in Arish, injuring 18. ](/news/2015/07/26/a-bomb-detonates-on-a-bus-carrying-egyptian-military-conscripts-in-arish-injuring-18.md)
 _Context: Arish, Egypt_
 
-##### Somalia
+##### Somali
 ### [A suicide bomber detonates a vehicle loaded with explosives at a hotel in the Somali capital of Mogadishu, killing 15 people. ](/news/2015/07/26/a-suicide-bomber-detonates-a-vehicle-loaded-with-explosives-at-a-hotel-in-the-somali-capital-of-mogadishu-killing-15-people.md)
-_Context: Mogadishu, Somalia_
+_Context: Mogadishu, Somali_
 
 ##### Boko Haram insurgency in Cameroon
 ### [A 13-year-old female suicide bomber attacks in the Cameroonian town of Maroua, killing 20 people and injuring another 70. ](/news/2015/07/26/a-13-year-old-female-suicide-bomber-attacks-in-the-cameroonian-town-of-maroua-killing-20-people-and-injuring-another-70.md)

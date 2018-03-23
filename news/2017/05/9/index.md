@@ -25,7 +25,7 @@ Shock sentence comes after hardline Islamist groups called for Christian officia
 
 ##### Syria-United States relations
 ### [Despite opposition from Turkey, President Donald Trump authorizes an arms deal with the Syrian Kurds to assist the Syrian Democratic Forces in their fight against Islamic State of Iraq and the Levant (ISIL). ](/news/2017/05/9/despite-opposition-from-turkey-president-donald-trump-authorizes-an-arms-deal-with-the-syrian-kurds-to-assist-the-syrian-democratic-forces.md)
-_Context: Donald Trump, ISIL, Syria-United States relations, Syrian Democratic Forces, Syrian Kurds, Turkey-United States relations, Turkish_
+_Context: Donald Trump, ISIL, Syria-United States relations, Syrian Democratic Forces, Syrian Kurds, Turkey, Turkey-United States relations_
 
 ## [Previous Day...](/news/2017/05/8/index.md)
 

@@ -35,9 +35,9 @@ _Context: Gholamhossein Nozari, Kazem Vaziri-Hamaneh, Mahmoud Ahmadinejad, NIOC,
 ### [ Nouri al-Maliki, the Prime Minister of Iraq, calls for emergency talks with Iraq's political leaders to try to save his national unity government. ](/news/2007/08/12/nouri-al-maliki-the-prime-minister-of-iraq-calls-for-emergency-talks-with-iraq-s-political-leaders-to-try-to-save-his-national-unity-gove.md)
 Iraqi Prime Minister Nouri al-Maliki has called for the senior leaders from Iraq&#039;s bitterly divided communities to hold crisis talks aimed at saving his beleaguered national unity government.
 
-##### Turkish
+##### Turkey
 ### [ People claiming to be from Turkey attack the United Nations website forcing some sections to be taken offline. ](/news/2007/08/12/people-claiming-to-be-from-turkey-attack-the-united-nations-website-forcing-some-sections-to-be-taken-offline.md)
-_Context: Turkish, United Nations_
+_Context: Turkey, United Nations_
 
 ##### South Africa
 ### [ South Africa refuses to set up a refugee camp for the influx of people fleeing Zimbabwe. ](/news/2007/08/12/south-africa-refuses-to-set-up-a-refugee-camp-for-the-influx-of-people-fleeing-zimbabwe.md)
@@ -73,7 +73,7 @@ _Context: Chile, Peru_
 
 ##### Taliban
 ### [ A clash between Taliban militants and Afghan security forces in Kandahar province results in nine militants dead with five police dying in a bomb. ](/news/2007/08/12/a-clash-between-taliban-militants-and-afghan-security-forces-in-kandahar-province-results-in-nine-militants-dead-with-five-police-dying-in.md)
-_Context: Afghanistan, Kandahar, Taliban, bomb_
+_Context: Afghan, Kandahar, Taliban, bomb_
 
 ##### United Nations
 ### [ African Union nations pledge up to 12,000 troops for the joint United Nations-African Union mission to Darfur. ](/news/2007/08/12/african-union-nations-pledge-up-to-12-000-troops-for-the-joint-united-nations-african-union-mission-to-darfur.md)

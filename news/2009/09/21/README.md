@@ -23,9 +23,9 @@ _Context: Adidas, Puma_
 ### [ In swimming, Lisa Cummins becomes the first Irish person and the 20th person ever to complete a two way crossing of the English Channel. ](/news/2009/09/21/in-swimming-lisa-cummins-becomes-the-first-irish-person-and-the-20th-person-ever-to-complete-a-two-way-crossing-of-the-english-channel.md)
 A Cork woman arrived back in her native city today after becoming the first Irish person to swim the English Channel over and&hellip;
 
-##### French President
+##### President of France
 ### [ A judicial official says a 51-year-old man has confessed to sending threatening letters containing bullets to President of France Nicolas Sarkozy and other prominent figures. ](/news/2009/09/21/a-judicial-official-says-a-51-year-old-man-has-confessed-to-sending-threatening-letters-containing-bullets-to-president-of-france-nicolas-s.md)
-_Context: French President, Nicolas Sarkozy_
+_Context: Nicolas Sarkozy, President of France_
 
 ##### Lou Nuer
 ### [ Lou Nuer militiamen kill more than 100 civilians and security force members in an attack in Sudan's Duk Padiet in Jonglei, the latest in a series of ethnic clashes. ](/news/2009/09/21/lou-nuer-militiamen-kill-more-than-100-civilians-and-security-force-members-in-an-attack-in-sudan-s-duk-padiet-in-jonglei-the-latest-in-a.md)
@@ -49,7 +49,7 @@ _Context: Boris Yeltsin, President of Russia, Russia, Russian government_
 
 ##### Italy
 ### [ Italy holds a state funeral for six soldiers killed in Afghanistan last week. ](/news/2009/09/21/italy-holds-a-state-funeral-for-six-soldiers-killed-in-afghanistan-last-week.md)
-_Context: Afghanistan, Italy, state funeral_
+_Context: Afghan, Italy, state funeral_
 
 ##### South Africa
 ### [ South African President Jacob Zuma admits disagreements do exist between the ANC and the trade union federation (COSATU)&mdash;one of its main political partners. ](/news/2009/09/21/south-african-president-jacob-zuma-admits-disagreements-do-exist-between-the-anc-and-the-trade-union-federation-cosatu-mdash-one-of-its-m.md)

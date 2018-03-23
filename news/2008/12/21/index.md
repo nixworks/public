@@ -33,7 +33,7 @@ _Context: Boris Johnson, London, Mayor of London, Routemaster, double-decker bus
 
 ##### China
 ### [ China's People's Liberation Army Navy deploys three warships (two destroyers and one replenishment oiler) to the Gulf of Aden to join the Combined Task Force 150 in fighting Somali piracy. ](/news/2008/12/21/china-s-people-s-liberation-army-navy-deploys-three-warships-two-destroyers-and-one-replenishment-oiler-to-the-gulf-of-aden-to-join-the-c.md)
-_Context: China, Combined Task Force 150, Gulf of Aden, People's Liberation Army Navy, Somalia, destroyer, pirates, replenishment oiler, warships_
+_Context: China, Combined Task Force 150, Gulf of Aden, People's Liberation Army Navy, Somali, destroyer, pirates, replenishment oiler, warships_
 
 ## [Previous Day...](/news/2008/12/20/index.md)
 

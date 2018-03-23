@@ -19,9 +19,9 @@ _Context: House of Councillors, House of Councillors (Japan's upper house), Japa
 ### [At least 19 people have been shot in the US city of Chicago since Wednesday with four people killed and 15 injured. ](/news/2013/07/4/at-least-19-people-have-been-shot-in-the-us-city-of-chicago-since-wednesday-with-four-people-killed-and-15-injured.md)
 Seven men were killed and at least 42 other people were wounded in shootings throughout Chicago so far this holiday weekend. A 5-year-old boy was among the wounded -- shot early Friday alongside two men at...
 
-##### French President
+##### President of France
 ### [Former President of France, Nicolas Sarkozy, announces his resignation from the Constitutional Council of France following a finding that he exceeded spending limits in his 2012 Presidential election campaign. ](/news/2013/07/4/former-president-of-france-nicolas-sarkozy-announces-his-resignation-from-the-constitutional-council-of-france-following-a-finding-that-he.md)
-_Context: 2012 presidential election, Constitutional Council of France, French President, Nicolas Sarkozy_
+_Context: 2012 presidential election, Constitutional Council of France, Nicolas Sarkozy, President of France_
 
 ##### Egypt
 ### [Egypt arrests Mohammed Badie, the Supreme Leader of the Muslim Brotherhood, for "inciting the killing of protesters". ](/news/2013/07/4/egypt-arrests-mohammed-badie-the-supreme-leader-of-the-muslim-brotherhood-for-inciting-the-killing-of-protesters.md)

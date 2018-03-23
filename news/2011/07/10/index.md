@@ -25,7 +25,7 @@ _Context: India, Kalka Mail, Uttar Pradesh, derailed_
 
 ##### Beloye
 ### [A fire in a retirement home in the village of Beloye in the western Ukraine kills 16 people. ](/news/2011/07/10/a-fire-in-a-retirement-home-in-the-village-of-beloye-in-the-western-ukraine-kills-16-people.md)
-_Context: Beloye, Ukraine_
+_Context: Beloye, Ukrainian_
 
 ##### Earthquake
 ### [A strong earthquake of 7.1 magnitude occurs off the coast of Honshu in Japan sparking a tsunami warning. ](/news/2011/07/10/a-strong-earthquake-of-7-1-magnitude-occurs-off-the-coast-of-honshu-in-japan-sparking-a-tsunami-warning.md)
@@ -37,7 +37,7 @@ Rupert Murdoch&#039;s takeover of BSkyB appeared to be dead in the water last ni
 
 ##### NATO
 ### [Three NATO service members are killed in separate attacks in Afghanistan. ](/news/2011/07/10/three-nato-service-members-are-killed-in-separate-attacks-in-afghanistan.md)
-_Context: Afghanistan, NATO_
+_Context: Afghan, NATO_
 
 ##### Bangladeshi police
 ### [Bangladeshi police fire tear gas at Islamist activists trying to enforce a general strike in the town of Keraniganj with dozens hurt in the riots. ](/news/2011/07/10/bangladeshi-police-fire-tear-gas-at-islamist-activists-trying-to-enforce-a-general-strike-in-the-town-of-keraniganj-with-dozens-hurt-in-the.md)
