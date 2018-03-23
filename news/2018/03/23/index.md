@@ -3,6 +3,14 @@ Formats: [HTML](2018/03/23/index.html)  [JSON](2018/03/23/index.json)  [XML](201
 
 ## [2018-03-23](/news/2018/03/23/index.md)
 
+##### Peru
+### [The Peruvian congress votes 105-12 to accept President Pedro Pablo Kuczynski's resignation. Vice President Martin Vizcarra is set to take over the role. ](/news/2018/03/23/the-peruvian-congress-votes-105a12-to-accept-president-pedro-pablo-kuczynski-s-resignation-vice-president-martan-vizcarra-is-set-to-take.md)
+_Context: Martin Vizcarra, Pedro Pablo Kuczynski, Peru_
+
+##### 2017-18 Spanish constitutional crisis
+### [Thirteen high-ranking independentists declare in front of the judge of the Supreme Court, except Marta Rovira who "self-exile" in Switzerland. ](/news/2018/03/23/thirteen-high-ranking-independentists-declare-in-front-of-the-judge-of-the-supreme-court-except-marta-rovira-who-self-exile-in-switzerlan.md)
+_Context: 2017-18 Spanish constitutional crisis, Marta Rovira, Supreme Court_
+
 ##### Poisoning of Sergei and Yulia Skripal
 ### [ The European Union agrees with the United Kingdom's assessment of the incident, stating that "there is no plausible alternative explanation" to Russian involvement. ](/news/2018/03/23/the-european-union-agrees-with-the-united-kingdom-s-assessment-of-the-incident-stating-that-there-is-no-plausible-alternative-explanation.md)
 At a summit in Brussels, EU leaders said &quot;there is no plausible alternative explanation&quot; for the poisoning of Sergei Skripal and his daughter earlier this month in southern England.
@@ -23,8 +31,8 @@ _Context: Crime in South Korea, Former President, Lee Myung-bak, South Korea_
 ### [A fire at a condominium complex in Ho Chi Minh City, Vietnam, kills at least 13 people and injures another 27, with most people dying of suffocation or jumping from high floors. ](/news/2018/03/23/a-fire-at-a-condominium-complex-in-ho-chi-minh-city-vietnam-kills-at-least-13-people-and-injures-another-27-with-most-people-dying-of-suf.md)
 Residents startled awake by loud noise and smoke signaled for help with lit mobile phones and crawled onto cranes from their balconies to escape a fire Friday at a large condominium complex in southern Vietnam&rsquo;s Ho Chi Minh City. At least 13 people were killed and 28 injured, with police sayin...
 
-##### Trbes hostage crisis
-### [Four people are killed and 17 wounded when an extremist takes hostages in Trbes, France. ](/news/2018/03/23/four-people-are-killed-and-17-wounded-when-an-extremist-takes-hostages-in-trebes-france.md)
+##### Trebes hostage crisis
+### [Four people are killed and 17 wounded when an extremist takes hostages in Trebes, France. ](/news/2018/03/23/four-people-are-killed-and-17-wounded-when-an-extremist-takes-hostages-in-tra-bes-france.md)
 The gunman in a supermarket is reported to have claimed allegiance to the Islamic State group.
 
 ##### 2017 Parsons Green bombing
