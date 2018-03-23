@@ -3,37 +3,45 @@ Formats: [HTML](2018/03/23/index.html)  [JSON](2018/03/23/index.json)  [XML](201
 
 ## [2018-03-23](/news/2018/03/23/index.md)
 
-##### Abortion in Poland
-### [Thousands protest across Poland against the government's proposed restrictions on abortion. ](/news/2018/03/23/thousands-protest-across-poland-against-the-government-s-proposed-restrictions-on-abortion.md)
-Thousands join demonstrations against government’s new effort to restrict access
+##### Politics of the United Kingdom
+### [Labour Party leader Jeremy Corbyn sacks Shadow Secretary of State for Northern Ireland Owen Smith after he called for a second referendum on European Union membership. He is replaced by Rochdale MP Tony Lloyd. ](/news/2018/03/23/labour-party-leader-jeremy-corbyn-sacks-shadow-secretary-of-state-for-northern-ireland-owen-smith-after-he-called-for-a-second-referendum-on.md)
+Smith went against party policy by calling for a referendum over the final Brexit deal
 
 ##### Peru
 ### [The Peruvian Congress votes 105-12 to accept President Pedro Pablo Kuczynski's resignation. Vice President Martin Vizcarra is set to take over the role. ](/news/2018/03/23/the-peruvian-congress-votes-105a12-to-accept-president-pedro-pablo-kuczynski-s-resignation-vice-president-martan-vizcarra-is-set-to-take.md)
 _Context: Congress, Martin Vizcarra, Pedro Pablo Kuczynski, Peru, President_
 
+##### Abortion in Poland
+### [Thousands protest across Poland against the government's proposed restrictions on abortion. ](/news/2018/03/23/thousands-protest-across-poland-against-the-government-s-proposed-restrictions-on-abortion.md)
+Thousands join demonstrations against government’s new effort to restrict access
+
 ##### 2017-18 Spanish constitutional crisis
 ### [Thirteen high-ranking independentists declare in front of the judge of the Spanish Supreme Court, except Marta Rovira who is "self-exiled" in Switzerland. ](/news/2018/03/23/thirteen-high-ranking-independentists-declare-in-front-of-the-judge-of-the-spanish-supreme-court-except-marta-rovira-who-is-self-exiled-i.md)
 Catalan separatist politician Marta Rovira ignores court summons, says in letter she has chose &lsquo;path to exile&rsquo;
-
-##### Poisoning of Sergei and Yulia Skripal
-### [The European Union agrees with the United Kingdom's assessment of the incident, stating that "there is no plausible alternative explanation" to Russian involvement. ](/news/2018/03/23/the-european-union-agrees-with-the-united-kingdom-s-assessment-of-the-incident-stating-that-there-is-no-plausible-alternative-explanation.md)
-At a summit in Brussels, EU leaders said &quot;there is no plausible alternative explanation&quot; for the poisoning of Sergei Skripal and his daughter earlier this month in southern England.
-
-##### School shootings in the United States
-### [One of the victims of the shooting at Great Mills High School in Maryland earlier this week dies from her injuries. ](/news/2018/03/23/one-of-the-victims-of-the-shooting-at-great-mills-high-school-in-maryland-earlier-this-week-dies-from-her-injuries.md)
-_Context: Great Mills High School, Maryland, School shootings in the United States_
 
 ##### M1
 ### [Two lorry drivers receive prison terms, one of 14 years, for killing eight people when their vehicles collided with a bus on the M1 in Buckinghamshire, England in 2017. ](/news/2018/03/23/two-lorry-drivers-receive-prison-terms-one-of-14-years-for-killing-eight-people-when-their-vehicles-collided-with-a-bus-on-the-m1-in-bucki.md)
 Eight people died when the minibus they were travelling in was involved in a crash with two lorries.
 
+##### School shootings in the United States
+### [One of the victims of the shooting at Great Mills High School in Maryland dies from her injuries. ](/news/2018/03/23/one-of-the-victims-of-the-shooting-at-great-mills-high-school-in-maryland-dies-from-her-injuries.md)
+_Context: Great Mills High School, Maryland, School shootings in the United States_
+
 ##### Censorship in the United Kingdom
 ### [The House of Commons of the UK Parliament discusses implications for freedom of speech arising from a case where a man was convicted of hate crimes for posting a video of a pug responding to Nazi slogans. The case has drawn criticism from campaigners and prominent comedians. ](/news/2018/03/23/the-house-of-commons-of-the-uk-parliament-discusses-implications-for-freedom-of-speech-arising-from-a-case-where-a-man-was-convicted-of-hate.md)
-_Context: Censorship in the United Kingdom, House of Commons, Nazi, Parliament, United Kingdom, freedom of speech_
+_Context: Censorship in the United Kingdom, House of Commons, Nazi, Parliament, UK, freedom of speech_
 
 ##### Crime in South Korea
 ### [Former President of South Korea Lee Myung-bak is detained on charges of taking bribes when he was in office. ](/news/2018/03/23/former-president-of-south-korea-lee-myung-bak-is-detained-on-charges-of-taking-bribes-when-he-was-in-office.md)
 _Context: Crime in South Korea, Former President, Lee Myung-bak, South Korea_
+
+##### Iran-United States relations
+### [The United States charges and sanctions nine Iranians and the Iranian company Mabna Institute for hacking and attempting to hack hundreds of universities. ](/news/2018/03/23/the-united-states-charges-and-sanctions-nine-iranians-and-the-iranian-company-mabna-institute-for-hacking-and-attempting-to-hack-hundreds-of.md)
+_Context: Cyberwarfare in Iran, Iran-United States relations, Mabna Institute_
+
+##### Poisoning of Sergei and Yulia Skripal
+### [The European Union agrees with the United Kingdom's assessment of the incident, stating that "there is no plausible alternative explanation" to Russian involvement. ](/news/2018/03/23/the-european-union-agrees-with-the-united-kingdom-s-assessment-of-the-incident-stating-that-there-is-no-plausible-alternative-explanation.md)
+At a summit in Brussels, EU leaders said &quot;there is no plausible alternative explanation&quot; for the poisoning of Sergei Skripal and his daughter earlier this month in southern England.
 
 ##### Poland in the European Union
 ### [Polish Foreign Minister Jacek Czaputowicz asks the European Commission to halt its use of Article 7 of the Treaty on European Union against the nation in exchange for modifications to controversial proposed judicial reforms. ](/news/2018/03/23/polish-foreign-minister-jacek-czaputowicz-asks-the-european-commission-to-halt-its-use-of-article-7-of-the-treaty-on-european-union-against.md)
@@ -42,6 +50,10 @@ Poland wants Brussels to withdraw its Article 7 procedure against Warsaw, the Po
 ##### Ho Chi Minh City
 ### [A fire at a condominium complex in Ho Chi Minh City, Vietnam, kills at least 13 people and injures another 27, with most people dying of suffocation or jumping from high floors. ](/news/2018/03/23/a-fire-at-a-condominium-complex-in-ho-chi-minh-city-vietnam-kills-at-least-13-people-and-injures-another-27-with-most-people-dying-of-suf.md)
 Residents startled awake by loud noise and smoke signaled for help with lit mobile phones and crawled onto cranes from their balconies to escape a fire Friday at a large condominium complex in southern Vietnam&rsquo;s Ho Chi Minh City. At least 13 people were killed and 28 injured, with police sayin...
+
+##### Northern Mali conflict
+### [Malian Prime Minister Soumeylou Boubeye Maiga visits seperatist rebel stronghold Kidal. ](/news/2018/03/23/malian-prime-minister-soumeylou-boubeye-maiga-visits-seperatist-rebel-stronghold-kidal.md)
+_Context: Kidal, Mali, Northern Mali conflict, Soumeylou Boubeye Maiga_
 
 ##### Lashkar Gah
 ### [A car bomb is driven into a crowd outside the Ghazi Muhammad Ayub Khan Stadium in Lashkar Gah, Helmund before detonating. At least 13 people are killed. ](/news/2018/03/23/a-car-bomb-is-driven-into-a-crowd-outside-the-ghazi-muhammad-ayub-khan-stadium-in-lashkar-gah-helmund-before-detonating-at-least-13-people.md)
