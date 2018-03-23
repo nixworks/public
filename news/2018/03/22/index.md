@@ -8,8 +8,8 @@ Formats: [HTML](2018/03/22/index.html)  [JSON](2018/03/22/index.json)  [XML](201
 Scientists investigate an unusual, small, mummified skeleton from Chile to establish its medical history.
 
 ##### Antiguan general election, 2018
-### [Antigua and Barbuda's ruling Antigua Barbuda Labour Party wins a second term in a landslide vote. ](/news/2018/03/22/antigua-and-barbuda-s-ruling-antigua-barbuda-labour-party-wins-a-second-term-in-a-landslide-vote.md)
-_Context: Antigua Barbuda Labour Party, Antigua and Barbuda, Antiguan general election, 2018_
+### [Antigua and Barbuda's ruling Antigua and Barbuda Labour Party wins a second term in a landslide vote. ](/news/2018/03/22/antigua-and-barbuda-s-ruling-antigua-and-barbuda-labour-party-wins-a-second-term-in-a-landslide-vote.md)
+_Context: Antigua and Barbuda, Antigua and Barbuda Labour Party, Antiguan general election, 2018_
 
 ##### Presidency of Donald Trump
 ### [U.S. President Donald Trump announces former United States Ambassador to the United Nations John R. Bolton will become his National Security Advisor, succeeeding the outgoing H. R. McMaster. ](/news/2018/03/22/u-s-president-donald-trump-announces-former-united-states-ambassador-to-the-united-nations-john-r-bolton-will-become-his-national-security.md)

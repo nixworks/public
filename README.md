@@ -7,6 +7,10 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [ The European Union agrees with the United Kingdom's assessment of the incident, stating that "there is no plausible alternative explanation" to Russian involvement. ](/news/2018/03/23/the-european-union-agrees-with-the-united-kingdom-s-assessment-of-the-incident-stating-that-there-is-no-plausible-alternative-explanation.md)
 At a summit in Brussels, EU leaders said &quot;there is no plausible alternative explanation&quot; for the poisoning of Sergei Skripal and his daughter earlier this month in southern England.
 
+##### M1
+### [Two lorry drivers receive prison terms, one of 14 years, for killing eight people when their vehicles collided with a bus on the M1 in Buckinghamshire, England in 2017. ](/news/2018/03/23/two-lorry-drivers-receive-prison-terms-one-of-14-years-for-killing-eight-people-when-their-vehicles-collided-with-a-bus-on-the-m1-in-bucki.md)
+Eight people died when the minibus they were travelling in was involved in a crash with two lorries.
+
 ##### Censorship in the United Kingdom
 ### [The House of Commons of the UK Parliament discusses implications for freedom of speech arising from a case where a man was convicted of hate crimes for posting a video of a pug responding to Nazi slogans. The case has drawn criticism from campaigners and prominent comedians. ](/news/2018/03/23/the-house-of-commons-of-the-uk-parliament-discusses-implications-for-freedom-of-speech-arising-from-a-case-where-a-man-was-convicted-of-hate.md)
 _Context: Censorship in the United Kingdom, House of Commons, Nazi, UK, freedom of speech_
@@ -19,8 +23,8 @@ _Context: Crime in South Korea, Former President, Lee Myung-bak, South Korea_
 ### [A fire at a condominium complex in Ho Chi Minh City, Vietnam, kills at least 13 people and injures another 27, with most people dying of suffocation or jumping from high floors. ](/news/2018/03/23/a-fire-at-a-condominium-complex-in-ho-chi-minh-city-vietnam-kills-at-least-13-people-and-injures-another-27-with-most-people-dying-of-suf.md)
 Residents startled awake by loud noise and smoke signaled for help with lit mobile phones and crawled onto cranes from their balconies to escape a fire Friday at a large condominium complex in southern Vietnam&rsquo;s Ho Chi Minh City. At least 13 people were killed and 28 injured, with police sayin...
 
-##### Islamic terrorism in Europe (2014-present)
-### [Four people are killed and 17 wounded when an Islamist takes hostages in Trebes, France. ](/news/2018/03/23/four-people-are-killed-and-17-wounded-when-an-islamist-takes-hostages-in-tra-bes-france.md)
+##### Trbes hostage crisis
+### [Four people are killed and 17 wounded when an extremist takes hostages in Trbes, France. ](/news/2018/03/23/four-people-are-killed-and-17-wounded-when-an-extremist-takes-hostages-in-trebes-france.md)
 The gunman in a supermarket is reported to have claimed allegiance to the Islamic State group.
 
 ##### 2017 Parsons Green bombing
@@ -40,8 +44,8 @@ Most of the daily information we see on the mainstream media today is the news e
 Scientists investigate an unusual, small, mummified skeleton from Chile to establish its medical history.
 
 ##### Antiguan general election, 2018
-### [Antigua and Barbuda's ruling Antigua Barbuda Labour Party wins a second term in a landslide vote. ](/news/2018/03/22/antigua-and-barbuda-s-ruling-antigua-barbuda-labour-party-wins-a-second-term-in-a-landslide-vote.md)
-_Context: Antigua Barbuda Labour Party, Antigua and Barbuda, Antiguan general election, 2018_
+### [Antigua and Barbuda's ruling Antigua and Barbuda Labour Party wins a second term in a landslide vote. ](/news/2018/03/22/antigua-and-barbuda-s-ruling-antigua-and-barbuda-labour-party-wins-a-second-term-in-a-landslide-vote.md)
+_Context: Antigua and Barbuda, Antigua and Barbuda Labour Party, Antiguan general election, 2018_
 
 ##### Presidency of Donald Trump
 ### [U.S. President Donald Trump announces former United States Ambassador to the United Nations John R. Bolton will become his National Security Advisor, succeeeding the outgoing H. R. McMaster. ](/news/2018/03/22/u-s-president-donald-trump-announces-former-united-states-ambassador-to-the-united-nations-john-r-bolton-will-become-his-national-security.md)
