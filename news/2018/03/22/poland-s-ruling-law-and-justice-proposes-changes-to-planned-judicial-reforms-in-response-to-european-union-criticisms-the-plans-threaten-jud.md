@@ -13,7 +13,7 @@ The opposition dismissed the changes as &quot;a lie&quot; and warned the EU agai
 
 1. [Deutsche Welle](http://www.dw.com/en/poland-agrees-to-minor-changes-to-planned-judicial-reforms-in-response-to-eu-criticisms/a-43092508)
 2. [The Times of Israel](https://www.timesofisrael.com/poland-puts-berlins-wwii-bill-at-440-billion-euros/)
-3. [U.S. News](https://www.usnews.com/news/world/articles/2018-03-22/poland-says-us-missile-shield-site-delayed-until-2020)
+3. [U.S. News and World Report](https://www.usnews.com/news/world/articles/2018-03-22/poland-says-us-missile-shield-site-delayed-until-2020)
 3. [Cover Image](http://www.dw.com/image/41869569_304.jpg)
 
 ### Related:

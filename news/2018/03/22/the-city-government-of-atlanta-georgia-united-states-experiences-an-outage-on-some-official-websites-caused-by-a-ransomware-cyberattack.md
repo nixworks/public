@@ -11,7 +11,7 @@ The City of Atlanta has tweeted that they are currently experiencing outages on 
 
 ### Sources:
 
-1. [Fox 5](http://www.fox5atlanta.com/news/city-of-atlanta-experiencing-a-cyber-attack)
+1. [WAGA-TV](http://www.fox5atlanta.com/news/city-of-atlanta-experiencing-a-cyber-attack)
 2. [WRBL](http://www.wrbl.com/news/georgia/city-of-atlanta-computer-systems-facing-outages-related-to-cyberattack/1069876906)
 2. [Cover Image](https://media.wrbl.com/nxs-wrbltv-media-us-east-1/photo/2018/03/22/atlanta%20cyberattack_1521742745685.JPG_38032217_ver1.0_640_360.jpg)
 

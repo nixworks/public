@@ -44,7 +44,7 @@ Two security officers killed in gunbattle during arrest. Suspect also wounded in
 _Context: Pedro Pablo Kuczynski, Peru_
 
 ##### Cow vigilante violence in India since 2014
-### [An Indian court convicts eleven Hindus of murdering a Muslim man they discovered transporting a cow, sentencing them to life. It is the first successful prosecution of cow vigilantism violence in India. ](/news/2018/03/22/an-indian-court-convicts-eleven-hindus-of-murdering-a-muslim-man-they-discovered-transporting-a-cow-sentencing-them-to-life-it-is-the-firs.md)
+### [An Indian court convicts eleven Hindus of murdering a Muslim man they discovered transporting beef, sentencing them to life. It is the first successful prosecution of cow vigilantism violence in India. ](/news/2018/03/22/an-indian-court-convicts-eleven-hindus-of-murdering-a-muslim-man-they-discovered-transporting-beef-sentencing-them-to-life-it-is-the-first.md)
 _Context: Cow vigilante violence in India since 2014, Hindus, India, Muslim_
 
 ##### Brazil
@@ -78,6 +78,10 @@ Saudi Arabia the UAE Bahrain and Egypt have long complained of Qatar s support f
 ##### China-United States relations
 ### [U.S. President Donald Trump imposes tariffs on US$60 billion of Chinese goods, while also limiting China's ability to invest in the U.S. technology industry. ](/news/2018/03/22/u-s-president-donald-trump-imposes-tariffs-on-us-60-billion-of-chinese-goods-while-also-limiting-chinaas-ability-to-invest-in-the-u-s-t.md)
 White House prepares target list of trade actions punishing Beijing for forcing companies to surrender trade secrets as price of doing business in China.
+
+##### Earthquakes in California
+### [Two magnitude 4.6 earthquakes strike south of Eureka, California. No immediate damage is reported. ](/news/2018/03/22/two-magnitude-4-6-earthquakes-strike-south-of-eureka-california-no-immediate-damage-is-reported.md)
+A magnitude 4.7 earthquake hit 13.6 miles northwest of Petrolia at 8:09 p.m. on Thursday, according to the United States Geological Survey. It hit at a depth of 13 miles. This was the second earthquake to hit the area in less than 12 hours. At around 9:24 
 
 ##### 2018 Unipetrol explosion
 ### [Six people are dead after an explosion at a Unipetrol plant in Kralupy nad Vltavou, Czech Republic. ](/news/2018/03/22/six-people-are-dead-after-an-explosion-at-a-unipetrol-plant-in-kralupy-nad-vltavou-czech-republic.md)

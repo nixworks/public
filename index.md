@@ -5,7 +5,11 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ##### Crime in South Korea
 ### [Former President of South Korea Lee Myung-bak is detained on charges of taking bribes when he was in office. ](/news/2018/03/23/former-president-of-south-korea-lee-myung-bak-is-detained-on-charges-of-taking-bribes-when-he-was-in-office.md)
-_Context: Crime in South Korea, Former President of South Korea, Lee Myung-bak_
+_Context: Crime in South Korea, Former President, Lee Myung-bak, South Korea_
+
+##### Ho Chi Minh City
+### [A fire at a condominium complex in Ho Chi Minh City, Vietnam, kills at least 13 people and injures another 27, with most people dying of suffocation or jumping from high floors. ](/news/2018/03/23/a-fire-at-a-condominium-complex-in-ho-chi-minh-city-vietnam-kills-at-least-13-people-and-injures-another-27-with-most-people-dying-of-suf.md)
+Residents startled awake by loud noise and smoke signaled for help with lit mobile phones and crawled onto cranes from their balconies to escape a fire Friday at a large condominium complex in southern Vietnam&rsquo;s Ho Chi Minh City. At least 13 people were killed and 28 injured, with police sayin...
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -15,17 +19,17 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2018/03/22/index.md)
 
-##### DNA
+##### Human genetics
 ### [DNA tests confirm Ata, an unusual six-inch-long mummy found in Chile in 2003, to be the remains of a newborn human with genetic mutations. ](/news/2018/03/22/dna-tests-confirm-ata-an-unusual-six-inch-long-mummy-found-in-chile-in-2003-to-be-the-remains-of-a-newborn-human-with-genetic-mutations.md)
 Scientists investigate an unusual, small, mummified skeleton from Chile to establish its medical history.
 
 ##### Presidency of Donald Trump
-### [U.S. President Donald Trump announces former United States Ambassador to the United Nations John R. Bolton will become his National Security Advisor, replacing the outgoing H. R. McMaster. ](/news/2018/03/22/u-s-president-donald-trump-announces-former-united-states-ambassador-to-the-united-nations-john-r-bolton-will-become-his-national-security.md)
+### [U.S. President Donald Trump announces former United States Ambassador to the United Nations John R. Bolton will become his National Security Advisor, succeeeding the outgoing H. R. McMaster. ](/news/2018/03/22/u-s-president-donald-trump-announces-former-united-states-ambassador-to-the-united-nations-john-r-bolton-will-become-his-national-security.md)
 _Context: Donald Trump, H. R. McMaster, John R. Bolton, National Security Advisor, Presidency of Donald Trump, U.S. President, United States Ambassador to the United Nations_
 
-##### Peru
+##### Politics of Peru
 ### [Peruvian Vice President Martin Vizcarra returns from Canada, where he is his nation's ambassador, in preparation to take over the Presidency. ](/news/2018/03/22/peruvian-vice-president-martan-vizcarra-returns-from-canada-where-he-is-his-nation-s-ambassador-in-preparation-to-take-over-the-presidenc.md)
-_Context: Canada, Martin Vizcarra, Peru_
+_Context: Canada, Martin Vizcarra, Peru, Politics of Peru_
 
 ##### 2017-18 Spanish constitutional crisis
 ### [Jordi Turull fails in the first vote to become President of the Generalitat. The next session will be held on Saturday, March 24. ](/news/2018/03/22/jordi-turull-fails-in-the-first-vote-to-become-president-of-the-generalitat-the-next-session-will-be-held-on-saturday-march-24.md)
@@ -56,7 +60,7 @@ Two security officers killed in gunbattle during arrest. Suspect also wounded in
 _Context: Pedro Pablo Kuczynski, Peru_
 
 ##### Cow vigilante violence in India since 2014
-### [An Indian court convicts eleven Hindus of murdering a Muslim man they discovered transporting a cow, sentencing them to life. It is the first successful prosecution of cow vigilantism violence in India. ](/news/2018/03/22/an-indian-court-convicts-eleven-hindus-of-murdering-a-muslim-man-they-discovered-transporting-a-cow-sentencing-them-to-life-it-is-the-firs.md)
+### [An Indian court convicts eleven Hindus of murdering a Muslim man they discovered transporting beef, sentencing them to life. It is the first successful prosecution of cow vigilantism violence in India. ](/news/2018/03/22/an-indian-court-convicts-eleven-hindus-of-murdering-a-muslim-man-they-discovered-transporting-beef-sentencing-them-to-life-it-is-the-first.md)
 _Context: Cow vigilante violence in India since 2014, Hindus, India, Muslim_
 
 ##### Brazil
@@ -83,13 +87,17 @@ Russian President Vladimir Putin accepted an invitation from his Sudanese counte
 ### [Poland's ruling Law and Justice proposes changes to planned judicial reforms in response to European Union criticisms the plans threaten judicial independence. The European Commission is threatening Poland with sanctions over the reforms. ](/news/2018/03/22/poland-s-ruling-law-and-justice-proposes-changes-to-planned-judicial-reforms-in-response-to-european-union-criticisms-the-plans-threaten-jud.md)
 The opposition dismissed the changes as &quot;a lie&quot; and warned the EU against accepting the &quot;cosmetic changes.&quot; The ruling Law and Justice (PiS) party had resisted any concessions for months before Thursday&#39;s announcement.
 
-##### Qatar
+##### 2017-18 Qatar diplomatic crisis
 ### [Qatar's Interior Ministry releases a list of individuals and entities it says are linked to terrorism. Bahrain, Saudi Arabia, the United Arab Emirates, and Egypt, who had demanded the list amid tensions with Qatar, welcome its release but criticise the time taken to prepare it. ](/news/2018/03/22/qatar-s-interior-ministry-releases-a-list-of-individuals-and-entities-it-says-are-linked-to-terrorism-bahrain-saudi-arabia-the-united-ara.md)
 Saudi Arabia the UAE Bahrain and Egypt have long complained of Qatar s support for terror
 
 ##### China-United States relations
 ### [U.S. President Donald Trump imposes tariffs on US$60 billion of Chinese goods, while also limiting China's ability to invest in the U.S. technology industry. ](/news/2018/03/22/u-s-president-donald-trump-imposes-tariffs-on-us-60-billion-of-chinese-goods-while-also-limiting-chinaas-ability-to-invest-in-the-u-s-t.md)
 White House prepares target list of trade actions punishing Beijing for forcing companies to surrender trade secrets as price of doing business in China.
+
+##### Earthquakes in California
+### [Two magnitude 4.6 earthquakes strike south of Eureka, California. No immediate damage is reported. ](/news/2018/03/22/two-magnitude-4-6-earthquakes-strike-south-of-eureka-california-no-immediate-damage-is-reported.md)
+A magnitude 4.7 earthquake hit 13.6 miles northwest of Petrolia at 8:09 p.m. on Thursday, according to the United States Geological Survey. It hit at a depth of 13 miles. This was the second earthquake to hit the area in less than 12 hours. At around 9:24 
 
 ##### 2018 Unipetrol explosion
 ### [Six people are dead after an explosion at a Unipetrol plant in Kralupy nad Vltavou, Czech Republic. ](/news/2018/03/22/six-people-are-dead-after-an-explosion-at-a-unipetrol-plant-in-kralupy-nad-vltavou-czech-republic.md)
@@ -104,7 +112,7 @@ The US trade representative says the import duties have been &quot;paused&quot; 
 Thousands of fighters to be deported after deal with Russian and Syrian officials
 
 ##### Atlanta
-### [The city government of Atlanta, Georgia, United States, experiences an outage on some official websites, suspected to be caused by a cyberattack. ](/news/2018/03/22/the-city-government-of-atlanta-georgia-united-states-experiences-an-outage-on-some-official-websites-suspected-to-be-caused-by-a-cyberat.md)
+### [The city government of Atlanta, Georgia, United States, experiences an outage on some official websites, caused by a ransomware cyberattack. ](/news/2018/03/22/the-city-government-of-atlanta-georgia-united-states-experiences-an-outage-on-some-official-websites-caused-by-a-ransomware-cyberattack.md)
 The City of Atlanta has tweeted that they are currently experiencing outages on some of their customer applications. 
 
 ##### Somali Civil War (2009-present)
@@ -167,7 +175,7 @@ _Context: Austin police officers, Austin serial bombings_
 ### [The Singaporean Parliament approves the Public Order and Safety (Special Powers) Act, which makes it a crime to take pictures and relay information during terror attacks. ](/news/2018/03/21/the-singaporean-parliament-approves-the-public-order-and-safety-special-powers-act-which-makes-it-a-crime-to-take-pictures-and-relay-info.md)
 The Public Order and Safety (Special Powers) Act aims to reduce the risk of security operations being compromised by unauthorised communications.
 
-##### Poland
+##### Poland in the European Union
 ### [Polish Foreign Minister Jacek Czaputowicz accuses the European Union of "double standards" and of suffering "a deficit of democracy". Poland and the European Commission are engaged in disputes over migrant quotas and proposed reform of Poland's judiciary. ](/news/2018/03/21/polish-foreign-minister-jacek-czaputowicz-accuses-the-european-union-of-double-standards-and-of-suffering-a-deficit-of-democracy-poland.md)
 There is a &#39;deficit of democracy in the European Union&#39;, the foreign minister said.
 

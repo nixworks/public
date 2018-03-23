@@ -11,8 +11,9 @@ Thousands of fighters to be deported after deal with Russian and Syrian official
 
 ### Sources:
 
-1. [The Guardian](https://www.theguardian.com/world/2018/mar/22/syrian-rebels-and-families-begin-exile-from-besieged-ghouta)
-1. [Cover Image](https://i.guim.co.uk/img/media/fa51caa8b1bfcdf6de58355b95dea641c439e286/0_232_5367_3219/master/5367.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxOC8wMS8zMS9mYWNlYm9va19kZWZhdWx0LnBuZw&amp;s=3975028d65f84a00292ea6762fc2b466)
+1. [NPR](https://www.npr.org/sections/thetwo-way/2018/03/22/596279536/syrian-airstrike-hits-marketplace-near-turkish-border-killing-more-than-two-doze)
+2. [The Guardian](https://www.theguardian.com/world/2018/mar/22/syrian-rebels-and-families-begin-exile-from-besieged-ghouta)
+2. [Cover Image](https://i.guim.co.uk/img/media/fa51caa8b1bfcdf6de58355b95dea641c439e286/0_232_5367_3219/master/5367.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxOC8wMS8zMS9mYWNlYm9va19kZWZhdWx0LnBuZw&amp;s=3975028d65f84a00292ea6762fc2b466)
 
 ### Changes:
 
