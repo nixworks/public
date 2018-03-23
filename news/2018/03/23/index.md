@@ -3,6 +3,10 @@ Formats: [HTML](2018/03/23/index.html)  [JSON](2018/03/23/index.json)  [XML](201
 
 ## [2018-03-23](/news/2018/03/23/index.md)
 
+##### London
+### [A sentencing hearing begins in London for convicted terrorist Ahmed Hassan Mohammed Ali on one count of attempted murder and one of causing an explosion with intent to endanger life. ](/news/2018/03/23/a-sentencing-hearing-begins-in-london-for-convicted-terrorist-ahmed-hassan-mohammed-ali-on-one-count-of-attempted-murder-and-one-of-causing.md)
+Ahmed Hassan Mohammed Ali was found guilty of attempted murder and using the chemical compound TATP to cause an explosion likely to endanger life
+
 ##### Crime in South Korea
 ### [Former President of South Korea Lee Myung-bak is detained on charges of taking bribes when he was in office. ](/news/2018/03/23/former-president-of-south-korea-lee-myung-bak-is-detained-on-charges-of-taking-bribes-when-he-was-in-office.md)
 _Context: Crime in South Korea, Former President, Lee Myung-bak, South Korea_

@@ -7,6 +7,10 @@ Formats: [HTML](2018/03/22/index.html)  [JSON](2018/03/22/index.json)  [XML](201
 ### [DNA tests confirm Ata, an unusual six-inch-long mummy found in Chile in 2003, to be the remains of a newborn human with genetic mutations. ](/news/2018/03/22/dna-tests-confirm-ata-an-unusual-six-inch-long-mummy-found-in-chile-in-2003-to-be-the-remains-of-a-newborn-human-with-genetic-mutations.md)
 Scientists investigate an unusual, small, mummified skeleton from Chile to establish its medical history.
 
+##### Antiguan general election, 2018
+### [Antigua and Barbuda's ruling Antigua Barbuda Labour Party wins a second term in a landslide vote. ](/news/2018/03/22/antigua-and-barbuda-s-ruling-antigua-barbuda-labour-party-wins-a-second-term-in-a-landslide-vote.md)
+_Context: Antigua Barbuda Labour Party, Antigua and Barbuda, Antiguan general election, 2018_
+
 ##### Presidency of Donald Trump
 ### [U.S. President Donald Trump announces former United States Ambassador to the United Nations John R. Bolton will become his National Security Advisor, succeeeding the outgoing H. R. McMaster. ](/news/2018/03/22/u-s-president-donald-trump-announces-former-united-states-ambassador-to-the-united-nations-john-r-bolton-will-become-his-national-security.md)
 _Context: Donald Trump, H. R. McMaster, John R. Bolton, National Security Advisor, Presidency of Donald Trump, U.S. President, United States Ambassador to the United Nations_
@@ -24,7 +28,7 @@ _Context: 2017-18 Spanish constitutional crisis, President of the Generalitat_
 John Dowd is reported to have concluded that Mr Trump was increasingly ignoring his advice.
 
 ##### Poisoning of Sergei and Yulia Skripal
-### [Detective Sergeant Nick Bailey, wounded when he came to the aid of the poisoned Russian dissidents, is discharged from a hospital. ](/news/2018/03/22/detective-sergeant-nick-bailey-wounded-when-he-came-to-the-aid-of-the-poisoned-russian-dissidents-is-discharged-from-a-hospital.md)
+### [Detective Sergeant Nick Bailey, wounded when he came to the aid of the poisoned Russian dissidents, is discharged from hospital. ](/news/2018/03/22/detective-sergeant-nick-bailey-wounded-when-he-came-to-the-aid-of-the-poisoned-russian-dissidents-is-discharged-from-hospital.md)
 Det Sgt Nick Bailey said life would &quot;probably never be the same&quot; after being exposed to a nerve agent.
 
 ##### Cyprus dispute
@@ -84,7 +88,7 @@ White House prepares target list of trade actions punishing Beijing for forcing 
 A magnitude 4.7 earthquake hit 13.6 miles northwest of Petrolia at 8:09 p.m. on Thursday, according to the United States Geological Survey. It hit at a depth of 13 miles. This was the second earthquake to hit the area in less than 12 hours. At around 9:24 
 
 ##### 2018 Unipetrol explosion
-### [Six people are dead after an explosion at a Unipetrol plant in Kralupy nad Vltavou, Czech Republic. ](/news/2018/03/22/six-people-are-dead-after-an-explosion-at-a-unipetrol-plant-in-kralupy-nad-vltavou-czech-republic.md)
+### [Six people are killed after an explosion at a Unipetrol plant in Kralupy nad Vltavou, Czech Republic. ](/news/2018/03/22/six-people-are-killed-after-an-explosion-at-a-unipetrol-plant-in-kralupy-nad-vltavou-czech-republic.md)
 Six people have been killed in an explosion at a chemical plant in the Czech Republic.
 
 ##### Economic policy of Donald Trump

@@ -17,6 +17,11 @@ Det Sgt Nick Bailey said life would &quot;probably never be the same&quot; after
 4. [The Independent](https://www.independent.co.uk/news/uk/home-news/sergei-skripal-yulia-nerve-agent-brain-damage-health-hospital-salisbury-a8269056.html)
 4. [Cover Image](https://ichef.bbci.co.uk/news/1024/branded_news/DEFB/production/_100338075_policewiltshire.jpg)
 
+### Changes:
+
+1. [Detective Sergeant Nick Bailey, wounded when he came to the aid of the poisoned Russian dissidents, is discharged from a hospital. ](/news/2018/03/22/detective-sergeant-nick-bailey-wounded-when-he-came-to-the-aid-of-the-poisoned-russian-dissidents-is-discharged-from-a-hospital.md) _2018-03-23 12:30:10 (First version)_
+1. [Detective Sergeant Nick Bailey, wounded when he came to the aid of the poisoned Russian dissidents, is discharged from hospital. ](/news/2018/03/22/detective-sergeant-nick-bailey-wounded-when-he-came-to-the-aid-of-the-poisoned-russian-dissidents-is-discharged-from-hospital.md) _(Current version)_
+
 ### Related:
 
 1. [Former Secret Intelligence Service (MI6) spy Sergei Skripal and his daughter are taken to a hospital in critical condition after being exposed to an unknown substance in Wiltshire, United Kingdom. Skripal was granted refugee status in the UK following a "spy swap" deal between the UK and Russia in 2010. ](/news/2018/03/5/former-secret-intelligence-service-mi6-spy-sergei-skripal-and-his-daughter-are-taken-to-a-hospital-in-critical-condition-after-being-expos.md) _Context: Poisoning of Sergei and Yulia Skripal, Russia_
