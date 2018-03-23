@@ -23,6 +23,10 @@ _Context: Extinction threshold, Northern white rhinoceros, Sudan_
 ### [Analysis of ancient ice cores extracted from Greenland dates an eruption on Eldgja volcano in Iceland. Iceland's largest eruption in the last 2,000 years was described in ancient poem Voluspa. ](/news/2018/03/20/analysis-of-ancient-ice-cores-extracted-from-greenland-dates-an-eruption-on-eldgja-volcano-in-iceland-iceland-s-largest-eruption-in-the-la.md)
 _Context: Eldgja, Greenland, Iceland, Norse mythology, Voluspa_
 
+##### Zambia
+### [Zambian Minister Bowman Lusambo is suspended by Parliament over an assault on a fellow lawmaker in October 2017. ](/news/2018/03/20/zambian-minister-bowman-lusambo-is-suspended-by-parliament-over-an-assault-on-a-fellow-lawmaker-in-october-2017.md)
+Zambia&rsquo;s parliament suspended a cabinet minister on Tuesday from its proceedings for one month for slapping a fellow lawmaker within parliament grounds.
+
 ##### Politics of Slovakia
 ### [Protests continue in Slovakia after last week's collapse of the government, which included the resignation of Prime Minister Robert Fico. ](/news/2018/03/20/protests-continue-in-slovakia-after-last-week-s-collapse-of-the-government-which-included-the-resignation-of-prime-minister-robert-fico.md)
 An investigative journalist and his fiancée were killed, sparking a political upheaval. But that failed to quell the largest protests in the Central European country since the 1989 Velvet Revolution.

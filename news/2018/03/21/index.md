@@ -56,7 +56,7 @@ _Context: Austin police officers, Austin serial bombings_
 The Public Order and Safety (Special Powers) Act aims to reduce the risk of security operations being compromised by unauthorised communications.
 
 ##### Poland
-### [Polish Foreign Minister Jacek Czaputowicz accuses the [{European Union]] of "double standards" and of suffering "a deficit of democracy". Poland and the European Commission are engaged in disputes over migrant quotas and proposed reform of Poland's judiciary. ](/news/2018/03/21/polish-foreign-minister-jacek-czaputowicz-accuses-the-european-union-of-double-standards-and-of-suffering-a-deficit-of-democracy-po.md)
+### [Polish Foreign Minister Jacek Czaputowicz accuses the European Union of "double standards" and of suffering "a deficit of democracy". Poland and the European Commission are engaged in disputes over migrant quotas and proposed reform of Poland's judiciary. ](/news/2018/03/21/polish-foreign-minister-jacek-czaputowicz-accuses-the-european-union-of-double-standards-and-of-suffering-a-deficit-of-democracy-poland.md)
 There is a &#39;deficit of democracy in the European Union&#39;, the foreign minister said.
 
 ##### Poisoning of Sergei and Yulia Skripal

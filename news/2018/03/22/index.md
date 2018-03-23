@@ -35,6 +35,10 @@ President Erdoğan says he will not let natural reserves be exploited by Greek C
 ### [People in 150 places across France take to the streets peacefully in a general strike to protest President Macron's economic reforms. Railways, airways, schools and power generation are affected. ](/news/2018/03/22/people-in-150-places-across-france-take-to-the-streets-peacefully-in-a-general-strike-to-protest-president-macron-s-economic-reforms-railwa.md)
 _Context: France, President Macron's economic reforms, Protests against Emmanuel Macron, general strike_
 
+##### Palestinian Authority
+### [Two men accused of an attempt to assassinate Palestinian Authority Prime Minister Rami Hamdallah die in a shootout with security forces. Two Hamas security personnel also die. ](/news/2018/03/22/two-men-accused-of-an-attempt-to-assassinate-palestinian-authority-prime-minister-rami-hamdallah-die-in-a-shootout-with-security-forces-two.md)
+Two security officers killed in gunbattle during arrest. Suspect also wounded in clash.
+
 ##### Peru
 ### [A Peruvian court confirms it will consider a request to impose a travel ban on President Pedro Pablo Kuczynski if his resignation is confirmed by lawmakers, who are considering whether to accept it. Some politicians have vowed to resist the resignation in favour of instead impeaching Kuczynski. ](/news/2018/03/22/a-peruvian-court-confirms-it-will-consider-a-request-to-impose-a-travel-ban-on-president-pedro-pablo-kuczynski-if-his-resignation-is-confirm.md)
 _Context: Pedro Pablo Kuczynski, Peru_
@@ -58,6 +62,10 @@ _Context: Nadiya Savchenko, Ukrainian, Ukrainian crisis_
 ##### Murder of Maria Ladenburger
 ### [Afghan immigrant Hussein Khavari is convicted of rape and murder in a case that provoked widespread discussion of refugee immigration to Germany. ](/news/2018/03/22/afghan-immigrant-hussein-khavari-is-convicted-of-rape-and-murder-in-a-case-that-provoked-widespread-discussion-of-refugee-immigration-to-ger.md)
 The rape and murder of a medical student in 2016 fuelled tensions over the mass influx of migrants.
+
+##### Russia-Sudan relations
+### [Russian President Vladimir Putin accepts an invitation to visit Sudan from Sudanese President Omar al-Bashir. ](/news/2018/03/22/russian-president-vladimir-putin-accepts-an-invitation-to-visit-sudan-from-sudanese-president-omar-al-bashir.md)
+Russian President Vladimir Putin accepted an invitation from his Sudanese counterpart Omar al-Bashir to visit the North African country, Sudan&rsquo;s state news agency said on Thursday.
 
 ##### Foreign relations of Poland
 ### [Poland's ruling Law and Justice proposes changes to planned judicial reforms in response to European Union criticisms the plans threaten judicial independence. The European Commission is threatening Poland with sanctions over the reforms. ](/news/2018/03/22/poland-s-ruling-law-and-justice-proposes-changes-to-planned-judicial-reforms-in-response-to-european-union-criticisms-the-plans-threaten-jud.md)
