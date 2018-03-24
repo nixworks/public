@@ -13,7 +13,7 @@ _Context: Anthony Weiner, New York, Twitter, United States House of Representati
 
 ##### Ollanta Humala
 ### [Ollanta Humala is elected President of Peru in the Peruvian general election, defeating opposition leader Keiko Fujimori. ](/news/2011/06/6/ollanta-humala-is-elected-president-of-peru-in-the-peruvian-general-election-defeating-opposition-leader-keiko-fujimori.md)
-_Context: Keiko Fujimori, Ollanta Humala, Peruvian President, Peruvian general election_
+_Context: Keiko Fujimori, Ollanta Humala, Peruvian general election, President_
 
 ##### France
 ### [France announces that it will stop teaching indigenous languages in schools in all of its Overseas departments and territories of France. ](/news/2011/06/6/france-announces-that-it-will-stop-teaching-indigenous-languages-in-schools-in-all-of-its-overseas-departments-and-territories-of-france.md)

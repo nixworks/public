@@ -29,7 +29,7 @@ _Context: Italy, Prime Minister of Italy, Silvio Berlusconi, top court_
 
 ##### France
 ### [Police in France, Belgium and Switzerland arrest more than two dozen people in connection with the Brussels Airport diamond heist. ](/news/2013/05/8/police-in-france-belgium-and-switzerland-arrest-more-than-two-dozen-people-in-connection-with-the-brussels-airport-diamond-heist.md)
-_Context: Belgium, Brussels Airport diamond heist, France, Swiss_
+_Context: Belgium, Brussels Airport diamond heist, France, Switzerland_
 
 ##### World Trade Organization
 ### [The World Trade Organization advised that Roberto Azevedo of Brazil will be the next Director-General effective September 1, 2013. The formal announcement will be made following a special meeting of the General Council on Tuesday, May 14, 2013. ](/news/2013/05/8/the-world-trade-organization-advised-that-roberto-azevaado-of-brazil-will-be-the-next-director-general-effective-september-1-2013-the-form.md)

@@ -39,17 +39,17 @@ _Context: George Rekers, London, Madrid, Rentboy.com, United States, homosexuali
 ### [Ajmal Kasab, the only surviving member of a group responsible for the 2008 Mumbai attacks, is sentenced to death. ](/news/2010/05/6/ajmal-kasab-the-only-surviving-member-of-a-group-responsible-for-the-2008-mumbai-attacks-is-sentenced-to-death.md)
 Pak terrorist Ajmal Amir Kasab has been awarded the death sentence by special judge Tahaliyani. Kasab was in tears as the sentence was announced. The judge said there was no chance of Kasab reforming.
 
-##### UK
+##### United Kingdom
 ### [Voters in the United Kingdom head to the polls to elect Members of Parliament. ](/news/2010/05/6/voters-in-the-united-kingdom-head-to-the-polls-to-elect-members-of-parliament.md)
-_Context: 2010 general election, Members of Parliament, UK_
+_Context: 2010 general election, Members of Parliament, United Kingdom_
 
 ##### Robert Mugabe
 ### [Robert Mugabe, Morgan Tsvangirai and Arthur Mutambara, in a rare display of solidarity, call for an end to international sanctions on Zimbabwe and instead request investment. ](/news/2010/05/6/robert-mugabe-morgan-tsvangirai-and-arthur-mutambara-in-a-rare-display-of-solidarity-call-for-an-end-to-international-sanctions-on-zimbab.md)
 _Context: Arthur Mutambara, Morgan Tsvangirai, Robert Mugabe, Zimbabwe_
 
-##### Afghan
+##### Afghanistan
 ### [Hundreds of people in Afghanistan demonstrate against alleged mistreatment and executions of Afghan refugees in Iran. ](/news/2010/05/6/hundreds-of-people-in-afghanistan-demonstrate-against-alleged-mistreatment-and-executions-of-afghan-refugees-in-iran.md)
-_Context: Afghan, Iran_
+_Context: Afghanistan, Iran_
 
 ##### Irish Aviation Authority
 ### [The Irish Aviation Authority announces new flight restrictions at several airports, including Shannon Airport and Ireland West Airport Knock, from midnight because of the (Iceland) volcano. ](/news/2010/05/6/the-irish-aviation-authority-announces-new-flight-restrictions-at-several-airports-including-shannon-airport-and-ireland-west-airport-knock.md)

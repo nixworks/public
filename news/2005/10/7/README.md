@@ -5,7 +5,7 @@ Formats: [HTML](2005/10/7/index.html)  [JSON](2005/10/7/index.json)  [XML](2005/
 
 ##### BBC
 ### [ According to the BBC, the industrial solvent gamma-butyrolactone (GBL) is being used in the UK as a club drug, with lethal results. ](/news/2005/10/7/according-to-the-bbc-the-industrial-solvent-gamma-butyrolactone-gbl-is-being-used-in-the-uk-as-a-club-drug-with-lethal-results.md)
-_Context: BBC, UK, club drug, gamma-butyrolactone, solvent_
+_Context: BBC, United Kingdom, club drug, gamma-butyrolactone, solvent_
 
 ##### Hamas
 ### [ Three Hamas members are kidnapped from their homes in the West Bank. A group, supportive of the Palestinian National Authority, calling itself the "Omar Ben al-Khatib Warriors" claims responsibility for the kidnappings of the three, and one is later freed. ](/news/2005/10/7/three-hamas-members-are-kidnapped-from-their-homes-in-the-west-bank-a-group-supportive-of-the-palestinian-national-authority-calling-its.md)
@@ -25,7 +25,7 @@ _Context: Ahmadiyya, Mandi Bahauddin, Mosque, Pakistan, Punjab, Salah_
 
 ##### War in Afghanistan (2001-present)
 ### [ Conflict in Afghanistan: U.S. Troops kill four Afghan police, after mistaking them for militants in the Girishk district of the Helmand Province. ](/news/2005/10/7/conflict-in-afghanistan-u-s-troops-kill-four-afghan-police-after-mistaking-them-for-militants-in-the-girishk-district-of-the-helmand-pro.md)
-_Context: Afghan, Helmand Province, United States soldier, War in Afghanistan (2001-present)_
+_Context: Afghanistan, Helmand Province, United States soldier, War in Afghanistan (2001-present)_
 
 ## [Previous Day...](/news/2005/10/6/index.md)
 

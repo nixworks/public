@@ -9,7 +9,7 @@ Republican President-elect Donald Trump says an impending recount of votes in Wi
 
 ##### Swiss referendums, 2016
 ### [In a referendum, Switzerland rejects a proposal to abolish commercial nuclear power by 2029. ](/news/2016/11/27/in-a-referendum-switzerland-rejects-a-proposal-to-abolish-commercial-nuclear-power-by-2029.md)
-_Context: Swiss, Swiss referendums, 2016, nuclear power_
+_Context: Swiss referendums, 2016, Switzerland, nuclear power_
 
 ##### The Republicans (France) presidential primary, 2016
 ### [A second-round runoff takes place in France between Francois Fillon and Alain Juppe to decide who will be the Republican presidential candidate in next year's presidential election. ](/news/2016/11/27/a-second-round-runoff-takes-place-in-france-between-franassois-fillon-and-alain-juppa-c-to-decide-who-will-be-the-republican-presidential-cand.md)

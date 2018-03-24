@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/03/26/british-rock-band-the-rolling-stones-performs-i
 
 ### [2016-03-26](/news/2016/03/26/index.md)
 
-##### UK
+##### United Kingdom
 # British rock band The Rolling Stones performs in Havana, Cuba, playing an open-air free concert in the country, in what has been called a "historic moment." Western music used to be banned in Cuba as being "ideologically divergent." 
 
 Veteran rockers become first western band to play in an open-air concert in Havana after visit by Barack Obama this week opened up country again

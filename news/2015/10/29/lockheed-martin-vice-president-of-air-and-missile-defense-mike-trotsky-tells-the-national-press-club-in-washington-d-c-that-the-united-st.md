@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/10/29/lockheed-martin-vice-president-of-air-and-missi
 
 ### [2015-10-29](/news/2015/10/29/index.md)
 
-##### Lockheed
+##### Lockheed Martin
 # Lockheed Martin vice president of air and missile defense Mike Trotsky tells the National Press Club in Washington, D.C., that the United States and South Korea are holding both formal and informal discussions on THAAD (Terminal High Altitude Area Defense System) deployment. South Korea's Defense Ministry and the U.S. Department of Defense deny the report. 
 
 

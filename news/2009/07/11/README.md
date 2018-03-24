@@ -3,7 +3,7 @@ Formats: [HTML](2009/07/11/index.html)  [JSON](2009/07/11/index.json)  [XML](200
 
 ## [2009-07-11](/news/2009/07/11/index.md)
 
-##### UK
+##### United Kingdom
 ### [ The UK announces that 8 British soldiers are killed in Afghanistan, the country's worst death toll in a 24-hour period. ](/news/2009/07/11/the-uk-announces-that-8-british-soldiers-are-killed-in-afghanistan-the-country-s-worst-death-toll-in-a-24-hour-period.md)
 Latest fatalities in Helmand push British death toll in the country past that in Iraq.
 
@@ -19,9 +19,9 @@ Ceremony held to mark anniversary of worst massacre in Europe since World War II
 ### [ The death toll from the recent riots in rmqi rises to 184. ](/news/2009/07/11/the-death-toll-from-the-recent-riots-in-urumqi-rises-to-184.md)
 _Context: riots, rmqi_
 
-##### Peruvian President
+##### President
 ### [ The President of Peru Alan Garca names Javier Velsquez as the Prime Minister of Peru. ](/news/2009/07/11/the-president-of-peru-alan-garcia-names-javier-velasquez-as-the-prime-minister-of-peru.md)
-_Context: Alan Garca, Javier Velsquez, Peruvian President, Prime Minister_
+_Context: Alan Garca, Javier Velsquez, President, Prime Minister_
 
 ## [Previous Day...](/news/2009/07/10/index.md)
 

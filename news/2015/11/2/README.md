@@ -27,7 +27,7 @@ A senior Defense official told NBC News Monday that an American infrared satelli
 ### [At least one person is killed after Cyclone Chapala hits Yemen's Socotra island in the Indian Ocean with flooding reported in Hadibu, the provincial capital. The severe cyclone is expected to cause considerable damage when it makes landfall on Yemeni mainland. ](/news/2015/11/2/at-least-one-person-is-killed-after-cyclone-chapala-hits-yemen-s-socotra-island-in-the-indian-ocean-with-flooding-reported-in-hadibu-the-pr.md)
 A rare tropical cyclone makes landfall in Yemen, flooding the al-Qaeda controlled city of Mukalla, after battering the island of Socotra.
 
-##### UK
+##### United Kingdom
 ### [ Planes have been left stranded at airports throughout the United Kingdom as the "Great Fog" descends. Heathrow Airport said around 45 flights had been cancelled there while London City Airport was closed for several hours. Other affected airports include Manchester, Leeds Bradford, Glasgow, Belfast, Southampton and Cardiff. ](/news/2015/11/2/planes-have-been-left-stranded-at-airports-throughout-the-united-kingdom-as-the-great-fog-descends-heathrow-airport-said-around-45-fligh.md)
 Scores of flights are cancelled and many more delayed by a second day of dense fog across much of the UK.
 
@@ -53,7 +53,7 @@ The two companies have more than 2.9 billion cards issued on its combined networ
 
 ##### Chinese
 ### [China's government-owned Comac launches the Comac C919 as part of its efforts to challenge Boeing and Airbus. ](/news/2015/11/2/china-s-government-owned-comac-launches-the-comac-c919-as-part-of-its-efforts-to-challenge-boeing-and-airbus.md)
-_Context: Airbus, Boeing Company, Chinese, Comac, Comac C919_
+_Context: Airbus, Boeing, Chinese, Comac, Comac C919_
 
 ##### United States
 ### [In the United States, the hacking group Anonymous starts releasing names and information about alleged members of the Ku Klux Klan (KKK), a white-supremacist terrorist group originally founded after the Civil War by former Confederate soldiers. Prominent individuals listed deny the allegations. The group says they also infiltrated KKK-affiliated websites, and warned of more action culminating on November 24, the anniversary of the Ferguson, Missouri grand jury's decision not to indict. ](/news/2015/11/2/in-the-united-states-the-hacking-group-anonymous-starts-releasing-names-and-information-about-alleged-members-of-the-ku-klux-klan-kkk-a.md)

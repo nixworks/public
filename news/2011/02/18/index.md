@@ -109,7 +109,7 @@ _Context: CIA, George Washington University, Hillary Clinton, Ray McGovern, Vete
 
 ##### Kunar Province
 ### [At least 37 people are killed and others are wounded in a U.S.-led airstrike in Kunar Province, Afghanistan. ](/news/2011/02/18/at-least-37-people-are-killed-and-others-are-wounded-in-a-u-s-led-airstrike-in-kunar-province-afghanistan.md)
-_Context: Afghan, Kunar Province_
+_Context: Afghanistan, Kunar Province_
 
 ##### Panama
 ### [Police and indigenous protesters clash in Panama during a protest against changes to the country's mining law. ](/news/2011/02/18/police-and-indigenous-protesters-clash-in-panama-during-a-protest-against-changes-to-the-country-s-mining-law.md)

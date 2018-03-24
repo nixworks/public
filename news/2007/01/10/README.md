@@ -33,7 +33,7 @@ _Context: Kerman, UFO_
 
 ##### Squirrel
 ### [ Two Squirrel helicopters collide at RAF Ternhill in Shropshire, UK, killing one and injuring two others. ](/news/2007/01/10/two-squirrel-helicopters-collide-at-raf-ternhill-in-shropshire-uk-killing-one-and-injuring-two-others.md)
-_Context: RAF Ternhill, Shropshire, Squirrel, UK_
+_Context: RAF Ternhill, Shropshire, Squirrel, United Kingdom_
 
 ##### Two years of helping
 ### [ War in Somalia: Somali official says that a senior al-Qaeda suspect responsible for bombing U.S. embassies in East Africa eight years ago is possibly killed in a U.S. airstrike in the Battle of Ras Kamboni. ](/news/2007/01/10/war-in-somalia-somali-official-says-that-a-senior-al-qaeda-suspect-responsible-for-bombing-u-s-embassies-in-east-africa-eight-years-ago-i.md)

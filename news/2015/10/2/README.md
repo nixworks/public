@@ -5,7 +5,7 @@ Formats: [HTML](2015/10/2/index.html)  [JSON](2015/10/2/index.json)  [XML](2015/
 
 ##### 2015 FIFA corruption case
 ### [Longtime FIFA corporate sponsors -- Coca-Cola Co., McDonald's, Visa Inc., and Budweiser owner Anheuser-Busch InBev -- demand FIFA President Sepp Blatter step down immediately following last week's announcement of his criminal investigation by the Swiss attorney general. Blatter refused. ](/news/2015/10/2/longtime-fifa-corporate-sponsors-coca-cola-co-mcdonald-s-visa-inc-and-budweiser-owner-anheuser-busch-inbev-demand-fifa-president.md)
-_Context: 2015 FIFA corruption case, Anheuser-Busch InBev, Budweiser, FIFA, FIFA President, McDonald's restaurants, Sepp Blatter, Swiss, The Coca-Cola Company, Visa Inc., attorney general_
+_Context: 2015 FIFA corruption case, Anheuser-Busch InBev, Budweiser, FIFA, FIFA President, McDonald's restaurants, Sepp Blatter, Switzerland, The Coca-Cola Company, Visa Inc., attorney general_
 
 ##### Hackers
 ### [Hackers steal the personal information of about 15 million T-Mobile US customers and applicants. The breach is at a unit of the credit agency Experian. ](/news/2015/10/2/hackers-steal-the-personal-information-of-about-15-million-t-mobile-us-customers-and-applicants-the-breach-is-at-a-unit-of-the-credit-agenc.md)

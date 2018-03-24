@@ -3,9 +3,9 @@ Formats: [HTML](2005/05/17/index.html)  [JSON](2005/05/17/index.json)  [XML](200
 
 ## [2005-05-17](/news/2005/05/17/index.md)
 
-##### UK
+##### United Kingdom
 ### [ British Prime Minister Tony Blair's government unveils a controversial proposal for national identity cards and other counter-terrorism measures besides a bill on immigration. ](/news/2005/05/17/british-prime-minister-tony-blair-s-government-unveils-a-controversial-proposal-for-national-identity-cards-and-other-counter-terrorism-mea.md)
-_Context: Prime Minister, Tony Blair, UK, immigration, national identity card_
+_Context: Prime Minister, Tony Blair, United Kingdom, immigration, national identity card_
 
 ##### Kenya
 ### [ A Kenyan court drops the murder charge of Thomas Cholmondeley for insufficient evidence. ](/news/2005/05/17/a-kenyan-court-drops-the-murder-charge-of-thomas-cholmondeley-for-insufficient-evidence.md)
@@ -21,7 +21,7 @@ _Context: Beslan children killed a year ago, Nur-Pashi Kulayev, Russia_
 
 ##### Paris
 ### [ A court in Paris sentences four men to 2-7 years in prison for complicity in the murder of Afghan resistance leader Ahmed Shah Masood in 2001. ](/news/2005/05/17/a-court-in-paris-sentences-four-men-to-2-7-years-in-prison-for-complicity-in-the-murder-of-afghan-resistance-leader-ahmed-shah-masood-in-20.md)
-_Context: Afghan, Ahmed Shah Masood, Paris_
+_Context: Afghanistan, Ahmed Shah Masood, Paris_
 
 ##### International Criminal Court
 ### [ Judges at the International Criminal Court at The Hague send a case of Radovan Stankovic back to new war crimes court in Bosnia. Stankovic is accused of rape of Bosnian Muslim women in Foca in 1992. ](/news/2005/05/17/judges-at-the-international-criminal-court-at-the-hague-send-a-case-of-radovan-stankovia-back-to-new-war-crimes-court-in-bosnia-stankovia.md)

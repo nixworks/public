@@ -7,7 +7,7 @@ Formats: [HTML](2010/08/1/index.html)  [JSON](2010/08/1/index.json)  [XML](2010/
 ### [Scientists announce the discovery of the world's first active undersea river, in the Black Sea. ](/news/2010/08/1/scientists-announce-the-discovery-of-the-world-s-first-active-undersea-river-in-the-black-sea.md)
 Latest environmental news, features and updates. Pictures, video and more. 
 
-##### UK
+##### United Kingdom
 ### [United Kingdom - Sarah's Law, a scheme which allows parents to check if someone with access to their children is a sex offender, will be extended to cover the whole of England and Wales by Spring 2011 after proving successful in four pilot areas. ](/news/2010/08/1/united-kingdom-sarah-s-law-a-scheme-which-allows-parents-to-check-if-someone-with-access-to-their-children-is-a-sex-offender-will-be-ext.md)
 Police dismiss fears that a scheme that allows parents to check if someone is a sex offender could lead to vigilante attacks, as the pilot is expanded.
 

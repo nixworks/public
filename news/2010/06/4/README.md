@@ -11,7 +11,7 @@ _Context: Falcon 9, SpaceX_
 ### [North Korea unveils a "super drink" to multiply brain cells and stop skin ageing which it says attracted attention from China and Germany at a trade fair in Pyongyang. ](/news/2010/06/4/north-korea-unveils-a-super-drink-to-multiply-brain-cells-and-stop-skin-ageing-which-it-says-attracted-attention-from-china-and-germany-at.md)
 North Korea announces the development of a &quot;super drink&quot; that, it says, can multiply brain cells and stop skin ageing.
 
-##### UK
+##### United Kingdom
 ### [The Government of the United Kingdom releases hitherto undisclosed public spending details from the past two years ](/news/2010/06/4/the-government-of-the-united-kingdom-releases-hitherto-undisclosed-public-spending-details-from-the-past-two-years.md)
 Information about government spending has been published as part of a drive to open up official data to the public.
 
@@ -41,7 +41,7 @@ A&#x20;French&#x20;court&#x20;fined&#x20;Interior&#x20;Minister&#x20;Brice&#x20;
 
 ##### Joint Base Lewis-McChord
 ### [A Joint Base Lewis-McChord United States Army soldier is charged with three counts of premeditated murder in connection with the deaths of three Afghan civilians. ](/news/2010/06/4/a-joint-base-lewis-mcchord-united-states-army-soldier-is-charged-with-three-counts-of-premeditated-murder-in-connection-with-the-deaths-of-t.md)
-_Context: Afghan, Joint Base Lewis-McChord, United States soldier, murder_
+_Context: Afghanistan, Joint Base Lewis-McChord, United States soldier, murder_
 
 ##### Joran van der Sloot
 ### [Joran van der Sloot, a suspect in the disappearance of Natalee Holloway in Aruba, is extradited from Chile to Peru to face charges in the killing of a Peruvian woman. ](/news/2010/06/4/joran-van-der-sloot-a-suspect-in-the-disappearance-of-natalee-holloway-in-aruba-is-extradited-from-chile-to-peru-to-face-charges-in-the-ki.md)

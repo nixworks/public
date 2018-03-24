@@ -45,7 +45,7 @@ Two U.S. journalists held by North Korea for illegal entry admitted they crossed
 
 ##### Taliban
 ### [ A Taliban blast kills Afghan deputy chief of intelligence Abdullah Laghmani. The blast shakes the city of Mihtarlam, 60 miles (100 kilometers) east of Kabul in Laghman Province; it kills several government officials and wounds several civilians. ](/news/2009/09/2/a-taliban-blast-kills-afghan-deputy-chief-of-intelligence-abdullah-laghmani-the-blast-shakes-the-city-of-mihtarlam-60-miles-100-kilomete.md)
-_Context: Afghan, Kabul, Laghman Province, Mihtarlam, Taliban_
+_Context: Afghanistan, Kabul, Laghman Province, Mihtarlam, Taliban_
 
 ##### Iraq
 ### [ An Iraqi court sentences four security force personnel to death by hanging for their parts in a bank robbery which left eight security guards dead. ](/news/2009/09/2/an-iraqi-court-sentences-four-security-force-personnel-to-death-by-hanging-for-their-parts-in-a-bank-robbery-which-left-eight-security-guar.md)
@@ -67,7 +67,7 @@ _Context: Gmail, Google_
 ### [ A 7.3 magnitude earthquake occurs on at 14:55 local time on the Indonesian island of Java, killing at least 32 people. ](/news/2009/09/2/a-7-3-magnitude-earthquake-occurs-on-at-14-55-local-time-on-the-indonesian-island-of-java-killing-at-least-32-people.md)
 The death toll from a powerful earthquake in Indonesia, which killed at least 42 people and forced thousands to flee buildings, is likely to rise, government agencies said early on Thursday morning.
 
-##### UK
+##### United Kingdom
 ### [ British energy company BP says it has drilled one of the deepest wells ever in the oil and gas industry as it made a "giant" discovery in the Gulf of Mexico. ](/news/2009/09/2/british-energy-company-bp-says-it-has-drilled-one-of-the-deepest-wells-ever-in-the-oil-and-gas-industry-as-it-made-a-giant-discovery-in-t.md)
 BP says it has drilled to one of the lowest depths ever in the oil and gas industry as it touts a “giant” discovery.
 

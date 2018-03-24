@@ -29,7 +29,7 @@ A federal judge in Michigan halted on Monday the deportation of more than 1,400 
 
 ##### Crime in Switzerland
 ### [At least five people are injured, two seriously, after a man attacks people with a chainsaw in Schaffhausen, Switzerland. A manhunt is underway for the suspect.](/news/2017/07/24/at-least-five-people-are-injured-two-seriously-after-a-man-attacks-people-with-a-chainsaw-in-schaffhausen-switzerland-a-manhunt-is-under.md)
-_Context: Crime in Switzerland, Schaffhausen, Swiss_
+_Context: Crime in Switzerland, Schaffhausen, Switzerland_
 
 ##### Philippines-United States relations
 ### [History of the Philippines (1898-1946), During the annual State of the Nation Address through the Congress of the Philippines, President of the Philippines Rodrigo Duterte has outright demanded that the United States return the controversial Balangiga bells, taken during one of the campaigns of the Philippine-American War as spoils of war. Previous attempts to recover the bells have all failed so far. ](/news/2017/07/24/history-of-the-philippines-1898a1946-during-the-annual-state-of-the-nation-address-through-the-congress-of-the-philippines-president-o.md)

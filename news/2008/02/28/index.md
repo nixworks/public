@@ -15,7 +15,7 @@ _Context: Prime Minister, Thailand, Thaksin Shinawatra_
 
 ##### Militant
 ### [ At least ten militants are killed in a rocket attack on a house in the Pakistani village of Kalosha in South Waziristan near the Afghanistan border. ](/news/2008/02/28/at-least-ten-militants-are-killed-in-a-rocket-attack-on-a-house-in-the-pakistani-village-of-kalosha-in-south-waziristan-near-the-afghanista.md)
-_Context: Afghan, Kalosha, Pakistan, South Waziristan, militant, rocket_
+_Context: Afghanistan, Kalosha, Pakistan, South Waziristan, militant, rocket_
 
 ##### Explosion
 ### [ A large explosion hits a shopping mall in Waukegan, Illinois. ](/news/2008/02/28/a-large-explosion-hits-a-shopping-mall-in-waukegan-illinois.md)

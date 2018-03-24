@@ -19,7 +19,7 @@ _Context: Bon Jovi, Jon Bon Jovi, New Jersey_
 ### [Two Russian men, Andrei Yerofeyev and Yuri Samodurov, are convicted of inciting hatred for setting up a Forbidden Art exhibition at the Sakharov Museum. ](/news/2010/07/12/two-russian-men-andrei-yerofeyev-and-yuri-samodurov-are-convicted-of-inciting-hatred-for-setting-up-a-forbidden-art-exhibition-at-the-sakh.md)
 Two men who organised a controversial art exhibition in Moscow are found guilty of inciting hatred and fined.
 
-##### Swiss
+##### Switzerland
 ### [Switzerland rejects a request from the United States to extradite Franco-Polish film director Roman Polanski to face sentencing on charges of unlawful sex with a minor in 1977. ](/news/2010/07/12/switzerland-rejects-a-request-from-the-united-states-to-extradite-francoapolish-film-director-roman-polanski-to-face-sentencing-on-charges.md)
 Roman Polanski is free after the Swiss government rejected a US extradition request on a charge that the film director had sexual intercourse in 1977 with a 13-year-old girl.
 
@@ -47,7 +47,7 @@ _Context: Google_
 ### [The EU agree to impose tougher sanctions against member countries that violate the Stability and Growth Pact. ](/news/2010/07/12/the-eu-agree-to-impose-tougher-sanctions-against-member-countries-that-violate-the-stability-and-growth-pact.md)
 _Context: European Union, Stability and Growth Pact_
 
-##### UK
+##### United Kingdom
 ### [The United Kingdom Secretary of State for Health Andrew Lansley outlines a radical proposal to reform the country's National Health Service, including the privatisation of hospitals. ](/news/2010/07/12/the-united-kingdom-secretary-of-state-for-health-andrew-lansley-outlines-a-radical-proposal-to-reform-the-country-s-national-health-service.md)
 The NHS in England is to undergo one of the biggest restructuring in its history, the government announces.
 
@@ -63,7 +63,7 @@ Russian President Dmitry Medvedev said on Monday Iran was gaining the ability to
 ### [An Israeli military probe into the naval raid on the Gaza-bound flotilla praises the naval commandos who killed eight Turks and one Turkish-American but criticises poor Israeli intelligence that did not have a sufficient backup plan for its troops in the event that the Flotilla's passengers reacted violently to the raid. ](/news/2010/07/12/an-israeli-military-probe-into-the-naval-raid-on-the-gaza-bound-flotilla-praises-the-naval-commandos-who-killed-eight-turks-and-one-turkish.md)
 The killing of nine Turks in a raid on a Gaza-bound flotilla last month followed intelligence and planning &quot;mistakes&quot;, according to an Israel Defence Force (IDF)-commissioned report.
 
-##### UK
+##### United Kingdom
 ### [The UK Ministry of Defence unveils "Taranis", its new long-range unmanned plane intended to damage enemy territory. Tests are due to begin in 2011. ](/news/2010/07/12/the-uk-ministry-of-defence-unveils-taranis-its-new-long-range-unmanned-plane-intended-to-damage-enemy-territory-tests-are-due-to-begin-i.md)
 The Ministry of Defence unveils its new prototype stealthy unmanned combat air vehicle as the first step towards pilotless strike aircraft.
 
@@ -79,7 +79,7 @@ Eight people are injured after a tornado hits a German island in the North Sea, 
 ### [A gunman opens fire at a fiber optics plant in Albuquerque, New Mexico, killing two and wounding four before committing suicide. ](/news/2010/07/12/a-gunman-opens-fire-at-a-fiber-optics-plant-in-albuquerque-new-mexico-killing-two-and-wounding-four-before-committing-suicide.md)
 _Context: Albuquerque, New Mexico, New Mexico, fiber optics, opens fire, suicide_
 
-##### Afghan
+##### Afghanistan
 ### [Afghan rights group Afghanistan Rights Monitor (ARM) releases its report stating that 2010 has been the most violent in the landlocked country since the United States led an invasion in 2001, though notes a reduction in airstrikes - a policy favoured by former General Stanley A. McChrystal - has led to less civilian deaths via this method in 2010. ](/news/2010/07/12/afghan-rights-group-afghanistan-rights-monitor-arm-releases-its-report-stating-that-2010-has-been-the-most-violent-in-the-landlocked-count.md)
 Afghan rights group says current year has been the most violent since US-led invasion.
 

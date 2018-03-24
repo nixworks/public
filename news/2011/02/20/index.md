@@ -65,7 +65,7 @@ Vallipuram Parvathi, the mother of slain LTTE leader Velupillai Prabakaran, pass
 
 ##### Sapping
 ### [Sapper Jamie Larkham of the 1st Combat Engineer Regiment (Australia) and an Afghan interpreter die in overnight fighting. ](/news/2011/02/20/sapper-jamie-larkham-of-the-1st-combat-engineer-regiment-australia-and-an-afghan-interpreter-die-in-overnight-fighting.md)
-_Context: 1st Combat Engineer Regiment (Australia), Afghan, Jamie Larkham, sapping_
+_Context: 1st Combat Engineer Regiment (Australia), Afghanistan, Jamie Larkham, sapping_
 
 ##### Pakistan Army
 ### [The Pakistan Army kills up to 15 insurgents in operations in the Mohmand Agency near the Afghan border. ](/news/2011/02/20/the-pakistan-army-kills-up-to-15-insurgents-in-operations-in-the-mohmand-agency-near-the-afghan-border.md)

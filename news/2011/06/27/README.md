@@ -19,7 +19,7 @@ _Context: Texas, abortion_
 ### [More than 30 activists are held in detention in Malaysia ahead of a mass rally in Kuala Lumpur asking for an end to fraud. The government declares the rally "illegal". ](/news/2011/06/27/more-than-30-activists-are-held-in-detention-in-malaysia-ahead-of-a-mass-rally-in-kuala-lumpur-asking-for-an-end-to-fraud-the-government-de.md)
 More than 30 Malaysian activists remain in detention after police arrests at the weekend ahead of a planned mass rally calling for electoral reform.
 
-##### UK
+##### United Kingdom
 ### [Up to 750,000 teachers and civil servants in the United Kingdom are set to strike on Thursday after talks aimed at averting the action failed to broker an agreement. ](/news/2011/06/27/up-to-750-000-teachers-and-civil-servants-in-the-united-kingdom-are-set-to-strike-on-thursday-after-talks-aimed-at-averting-the-action-faile.md)
 Leader of the TUC Brendan Barber says unions will continue talks with ministers over plans for public sector pensions, but the two sides are still at odds.
 

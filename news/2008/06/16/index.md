@@ -25,7 +25,7 @@ _Context: European Security and Defence Policy, France_
 
 ##### European Union
 ### [ The European Union agrees to tougher sanctions against Iran for its alleged nuclear weapons program with the United Kingdom freezing assets of Iran's largest bank Bank Melli. ](/news/2008/06/16/the-european-union-agrees-to-tougher-sanctions-against-iran-for-its-alleged-nuclear-weapons-program-with-the-united-kingdom-freezing-assets.md)
-_Context: Bank Melli, European Union, Iran, Iran and weapons of mass destruction, UK, sanctions_
+_Context: Bank Melli, European Union, Iran, Iran and weapons of mass destruction, United Kingdom, sanctions_
 
 ##### Tiger Woods
 ### [ Tiger Woods defeats Rocco Mediate in a playoff to win the 2008 U.S. Open Golf Championship. ](/news/2008/06/16/tiger-woods-defeats-rocco-mediate-in-a-playoff-to-win-the-2008-u-s-open-golf-championship.md)

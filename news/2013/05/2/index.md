@@ -35,7 +35,7 @@ _Context: Rhode Island, Same-sex marriage in the United States, U.S._
 ### [Convicted Indian spy Sarabjit Singh dies after being attacked by fellow inmates in a Pakistani prison. He is flown home to India where the government of Punjab has declared him a martyr. ](/news/2013/05/2/convicted-indian-spy-sarabjit-singh-dies-after-being-attacked-by-fellow-inmates-in-a-pakistani-prison-he-is-flown-home-to-india-where-the-g.md)
 A special aircraft carrying the body of Sarabjit Singh, the Indian prisoner who died at a Lahore hospital today, landed in Amritsar shortly after 7:30 pm tonight. The lack of basic paperwork had delayed the plane&#039;s take-off from Lahore airport by over two hours. India is extremely upset about t...
 
-##### UK
+##### United Kingdom
 ### [British businessman James McCormick, who sold ADE 651 fake bomb detector to Iraq and other countries, is jailed for ten years at the Old Bailey. ](/news/2013/05/2/british-businessman-james-mccormick-who-sold-ade-651-fake-bomb-detector-to-iraq-and-other-countries-is-jailed-for-ten-years-at-the-old-bai.md)
 British fraudster James McCormick is jailed for 10 years for selling fake bomb detectors to security forces around the world.
 

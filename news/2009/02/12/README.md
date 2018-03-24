@@ -13,7 +13,7 @@ Microsoft is offering a $250,000 reward for information leading to the convictio
 
 ##### Dutch
 ### [ Dutch Member of Parliament and Islam critic Geert Wilders is denied entry into the United Kingdom. ](/news/2009/02/12/dutch-member-of-parliament-and-islam-critic-geert-wilders-is-denied-entry-into-the-united-kingdom.md)
-_Context: Dutch, Geert Wilders, MP, Muslim, Parliament, UK, anti-Islamic_
+_Context: Dutch, Geert Wilders, MP, Muslim, Parliament, United Kingdom, anti-Islamic_
 
 ##### India
 ### [ Indian businessman Moninder Singh Pandher and his servant, Surender Koli, are convicted of murder. ](/news/2009/02/12/indian-businessman-moninder-singh-pandher-and-his-servant-surender-koli-are-convicted-of-murder.md)
@@ -33,7 +33,7 @@ _Context: Army, Hugo Chavez, Venezuela, Venezuelan President, Venezuelan governm
 
 ##### Taliban
 ### [ Taliban militants kill 26 people in attacks on three government buildings in Kabul, Afghanistan. ](/news/2009/02/12/taliban-militants-kill-26-people-in-attacks-on-three-government-buildings-in-kabul-afghanistan.md)
-_Context: Afghan, Kabul, Politics of Afghanistan, Taliban, militant_
+_Context: Afghanistan, Kabul, Politics of Afghanistan, Taliban, militant_
 
 ##### Self-immolation
 ### [ A man is arrested after threatening self-immolation outside the Government Buildings in Dublin, Ireland. ](/news/2009/02/12/a-man-is-arrested-after-threatening-self-immolation-outside-the-government-buildings-in-dublin-ireland.md)

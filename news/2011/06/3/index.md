@@ -71,7 +71,7 @@ Seventeen people were killed and 50 others wounded in a blast from a container f
 ### [Somali government forces and African Union troops expel al Qaeda-linked militants from their last outpost in the western part of Mogadishu, opening up a main road in the city. ](/news/2011/06/3/somali-government-forces-and-african-union-troops-expel-al-qaeda-linked-militants-from-their-last-outpost-in-the-western-part-of-mogadishu.md)
 Somali government forces and African Union troops pushed al Qaeda-linked militants out of its last outpost in the western part of Mogadishu, opening the main artery to the famed Bakaara Market, the African Union Mission to Somalia said Friday.
 
-##### Afghan
+##### Afghanistan
 ### [More than 200 Afghan militants cross over into Pakistan and attack a security checkpoint in northwest Pakistan, sparking a clash in which 28 Pakistani security forces and six civilians die, along with 45 Afghans. ](/news/2011/06/3/more-than-200-afghan-militants-cross-over-into-pakistan-and-attack-a-security-checkpoint-in-northwest-pakistan-sparking-a-clash-in-which-28.md)
 More than 200 Afghan militants crossed over and attacked a security checkpoint in northwest Pakistan, sparking a firefight that left dozens dead, authorities said Thursday.
 

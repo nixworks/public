@@ -89,7 +89,7 @@ Two&#x20;weeks&#x20;after&#x20;the&#x20;sacking&#x20;of&#x20;Stanley&#x20;McChry
 
 ##### Israel
 ### [Israel criticises Britain's ambassador to Lebanon for eulogising Mohammad Hussein Fadlallah, who recently died. ](/news/2010/07/9/israel-criticises-britain-s-ambassador-to-lebanon-for-eulogising-mohammad-hussein-fadlallah-who-recently-died.md)
-_Context: Israel, Lebanese, Mohammad Hussein Fadlallah, UK_
+_Context: Israel, Lebanese, Mohammad Hussein Fadlallah, United Kingdom_
 
 ##### United Nations Interim Force in Lebanon
 ### [The head of the United Nations Interim Force in Lebanon in southern Lebanon appeals for calm after attacks by villagers. ](/news/2010/07/9/the-head-of-the-united-nations-interim-force-in-lebanon-in-southern-lebanon-appeals-for-calm-after-attacks-by-villagers.md)
@@ -101,7 +101,7 @@ An independent autopsy into the death of a human rights activist in DR Congo is 
 
 ##### Suicide bomb
 ### [A suicide bomb in Pakistan's tribal areas near the Afghanistan border kills at least 50. ](/news/2010/07/9/a-suicide-bomb-in-pakistan-s-tribal-areas-near-the-afghanistan-border-kills-at-least-50.md)
-_Context: Afghan, Federally Administered Tribal Areas, Pakistan, suicide bomb_
+_Context: Afghanistan, Federally Administered Tribal Areas, Pakistan, suicide bomb_
 
 ## [Previous Day...](/news/2010/07/8/index.md)
 

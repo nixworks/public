@@ -27,7 +27,7 @@ _Context: Nigeria_
 ### [ Disney reaches a deal to acquire Marvel Entertainment for US$4 billion, with Marvel shareholders being issued $30 and about 0.745 Disney shares for each share of Marvel they own. ](/news/2009/08/31/disney-reaches-a-deal-to-acquire-marvel-entertainment-for-us-4-billion-with-marvel-shareholders-being-issued-30-and-about-0-745-disney-sh.md)
 _Context: Disney, Marvel Entertainment, US$_
 
-##### UK
+##### United Kingdom
 ### [ Britain will face widespread power cuts and rationing of energy in 2019 for the first time since the 1970s, according to Her Majesty's Government. ](/news/2009/08/31/britain-will-face-widespread-power-cuts-and-rationing-of-energy-in-2019-for-the-first-time-since-the-1970s-according-to-her-majesty-s-gove.md)
 Britain is facing the prospect of widespread power cuts for the first time since the 1970s, government projections show.
 

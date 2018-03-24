@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/20/a-bus-falls-off-a-bridge-in-occidental-mindoro-
 
 ### [2018-03-20](/news/2018/03/20/index.md)
 
-##### Occidental Mindoro
+##### 2018 disasters in the Philippines
 # A bus falls off a bridge in Occidental Mindoro, Philippines, killing at least 19 people and injuring 21 others. 
 
 (3rd UPDATE) Public transport regulators say they may suspend the franchise of the operator of the bus involved in the incident

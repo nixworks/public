@@ -31,7 +31,7 @@ Six teenagers and the father of one of them are found guilty of kicking a volunt
 ### [The U.S. Supreme Court strikes down a law of the state of Arizona requiring that voters in federal elections show proof of citizenship, upholding the National Voter Registration Act of 1993. ](/news/2013/06/17/the-u-s-supreme-court-strikes-down-a-law-of-the-state-of-arizona-requiring-that-voters-in-federal-elections-show-proof-of-citizenship-upho.md)
 The U.S. Supreme Court on Monday struck down an Arizona law that required people registering to vote in federal elections to show proof of citizenship, a victory for activists who said it had discouraged Native Americans and Latinos from voting.
 
-##### UK
+##### United Kingdom
 ### [Talks between the foreign ministers of Britain and Ecuador end with no breakthrough over WikiLeaks founder Julian Assange, who remains in the country's London embassy. ](/news/2013/06/17/talks-between-the-foreign-ministers-of-britain-and-ecuador-end-with-no-breakthrough-over-wikileaks-founder-julian-assange-who-remains-in-th.md)
 Talks between the foreign ministers of Britain and Ecuador have ended with no breakthrough over Wikileaks founder Julian Assange, who remains in the South American country&#39;s London embassy.
 

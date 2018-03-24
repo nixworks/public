@@ -61,7 +61,7 @@ _Context: German, ISIL, Insurgency in the Maghreb (2002-present), Islamists, Lib
 
 ##### Refugee immigration to Germany
 ### [Greece claims that Macedonia has closed its borders to migrants from Afghanistan. ](/news/2016/02/21/greece-claims-that-macedonia-has-closed-its-borders-to-migrants-from-afghanistan.md)
-_Context: Afghan, Greece, Republic of Macedonia, refugee immigration to Germany_
+_Context: Afghanistan, Greece, Republic of Macedonia, refugee immigration to Germany_
 
 ##### 2015-16 South Pacific cyclone season
 ### [At least five people are reported dead and entire villages have been flattened after Cyclone Winston hits Fiji. ](/news/2016/02/21/at-least-five-people-are-reported-dead-and-entire-villages-have-been-flattened-after-cyclone-winston-hits-fiji.md)

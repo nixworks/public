@@ -31,9 +31,9 @@ _Context: Busch Stadium, Missouri, St. Louis_
 ### [2012 Dnipropetrovsk explosions: Ukrainian president Viktor Yanukovich promises an investigation into the incident that injured 30 people. ](/news/2012/04/28/2012-dnipropetrovsk-explosions-ukrainian-president-viktor-yanukovich-promises-an-investigation-into-the-incident-that-injured-30-people.md)
 _Context: 2012 Dnipropetrovsk explosions, Ukrainian, Viktor Yanukovich_
 
-##### Afghan
+##### Afghanistan
 ### [Two bodyguards and two insurgents are killed in an attack on the Governor of Afghanistan's Kandahar Province. ](/news/2012/04/28/two-bodyguards-and-two-insurgents-are-killed-in-an-attack-on-the-governor-of-afghanistan-s-kandahar-province.md)
-_Context: Afghan, Kandahar Province_
+_Context: Afghanistan, Kandahar Province_
 
 ##### Syria
 ### [Syrian activists claim that the Syrian Armed Forces killed ten people in the village of Bakha north of Damascus. ](/news/2012/04/28/syrian-activists-claim-that-the-syrian-armed-forces-killed-ten-people-in-the-village-of-bakha-north-of-damascus.md)

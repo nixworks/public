@@ -43,9 +43,9 @@ AN AGREED all-party motion of censure against former minister Michael Lowry will
 ### [Philippine authorities are to seek long jail terms for six Chinese poachers as part of a crackdown on foreigners stealing marine wildlife. ](/news/2011/03/31/philippine-authorities-are-to-seek-long-jail-terms-for-six-chinese-poachers-as-part-of-a-crackdown-on-foreigners-stealing-marine-wildlife.md)
 _Context: China, Philippine_
 
-##### Afghan
+##### Afghanistan
 ### [43 Afghan migrants on their way to Australia are detained by Indonesian authorities. ](/news/2011/03/31/43-afghan-migrants-on-their-way-to-australia-are-detained-by-indonesian-authorities.md)
-_Context: Afghan, Australia, Indonesia_
+_Context: Afghanistan, Australia, Indonesia_
 
 ##### Muammar Gaddafi
 ### [The Gaddafi government in Libya asks former Nicaraguan foreign minister Miguel d'Escoto Brockmann to represent it in the United Nations. ](/news/2011/03/31/the-gaddafi-government-in-libya-asks-former-nicaraguan-foreign-minister-miguel-d-escoto-brockmann-to-represent-it-in-the-united-nations.md)

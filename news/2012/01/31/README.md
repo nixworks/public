@@ -51,7 +51,7 @@ _Context: Fred Goodwin, Queen Elizabeth II, Royal Bank of Scotland, knighthood_
 ### [Six aid workers are kidnapped in Yemen's Al Mahwit Governorate. ](/news/2012/01/31/six-aid-workers-are-kidnapped-in-yemen-s-al-mahwit-governorate.md)
 _Context: Al Mahwit Governorate, Yemen_
 
-##### Afghan
+##### Afghanistan
 ### [An Afghan woman was killed by her husband and mother-in-law 3 months after giving birth to her third daughter after not producing a son. ](/news/2012/01/31/an-afghan-woman-was-killed-by-her-husband-and-mother-in-law-3-months-after-giving-birth-to-her-third-daughter-after-not-producing-a-son.md)
 The Kunduz Province authorities say that a woman, 22, was strangled by her husband and mother-in-law three months after she gave birth to a third girl.
 

@@ -15,7 +15,7 @@ The company says proposed legislation could disrupt its efforts to set aside $20
 ### [Independent Member of the Australian House of Representatives Andrew Wilkie announces that he will support the Gillard Labor Government on supply and confidence. ](/news/2010/09/2/independent-member-of-the-australian-house-of-representatives-andrew-wilkie-announces-that-he-will-support-the-gillard-labor-government-on-s.md)
 _Context: Andrew Wilkie, Australian House of Representatives, Australian Labor Party, Julia Gillard_
 
-##### UK
+##### United Kingdom
 ### [Figures show that at least 2,000 British police officers had 3 or more complaints made against them in 2009-10. ](/news/2010/09/2/figures-show-that-at-least-2-000-british-police-officers-had-3-or-more-complaints-made-against-them-in-2009-10.md)
 At least 2,000 police officers were subject to three or more complaints by members of the public in the last year, figures obtained by the BBC show.
 

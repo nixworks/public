@@ -15,11 +15,11 @@ Voters in Georgia go to the polls in presidential elections that will end nearly
 ### [A 37-year-old woman and four children are stabbed to death in Brooklyn, New York City, New York. A man is arrested in connection with the murders. ](/news/2013/10/27/a-37-year-old-woman-and-four-children-are-stabbed-to-death-in-brooklyn-new-york-city-new-york-a-man-is-arrested-in-connection-with-the-mu.md)
 _Context: Brooklyn, New York, New York City_
 
-##### UK
+##### United Kingdom
 ### [The United Kingdom braces itself for the St Jude storm, the worst since 1987, which is due to make landfall tonight. ](/news/2013/10/27/the-united-kingdom-braces-itself-for-the-st-jude-storm-the-worst-since-1987-which-is-due-to-make-landfall-tonight.md)
 Commuters are being warned of travel disruption on Monday as a storm bringing severe gale-force winds and rain starts to move across England and Wales.
 
-##### Afghan
+##### Afghanistan
 ### [A roadside bomb in eastern Afghanistan kills 18 people. ](/news/2013/10/27/a-roadside-bomb-in-eastern-afghanistan-kills-18-people.md)
 A roadside bomb in eastern Afghanistan killed 18 people, including at least five women, who were travelling to a wedding party by minibus, a local government official said on Sunday.
 

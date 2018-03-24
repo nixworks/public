@@ -45,7 +45,7 @@ _Context: Hunan, Xiangtan County_
 
 ##### Europe
 ### [Extreme weather across Europe leads to dozens of deaths, including at least 122 in Poland and at least 7 as a result of an avalanche in Switzerland. ](/news/2010/01/6/extreme-weather-across-europe-leads-to-dozens-of-deaths-including-at-least-122-in-poland-and-at-least-7-as-a-result-of-an-avalanche-in-swit.md)
-_Context: Europe, Poland, Swiss_
+_Context: Europe, Poland, Switzerland_
 
 ##### Tourism
 ### [China's tourism revenue hits USD 185 billion in 2009. ](/news/2010/01/6/china-s-tourism-revenue-hits-usd-185-billion-in-2009.md)

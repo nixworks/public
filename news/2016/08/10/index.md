@@ -15,7 +15,7 @@ A law in Belize criminalizing same-sex intimacy was ruled unconstitutional on We
 ### [A fire caused by an electrical fault at the Al-Yarmouk Teaching Hospital in Baghdad kills 11 babies. ](/news/2016/08/10/a-fire-caused-by-an-electrical-fault-at-the-al-yarmouk-teaching-hospital-in-baghdad-kills-11-babies.md)
 The maternity hospital was hit by a blaze early on Wednesday, causing tragedy for dozens of parents.
 
-##### Boeing Company
+##### Boeing
 ### [Boeing's CFO Greg Smith announces that Boeing won't raise production of its 787 Dreamliner to fourteen per month as previously expected, but will keep it at 12 while continuing to monitor demand. ](/news/2016/08/10/boeing-s-cfo-greg-smith-announces-that-boeing-won-t-raise-production-of-its-787-dreamliner-to-fourteen-per-month-as-previously-expected-but.md)
 Boeing Co (BA.N) said on Wednesday it will not increase 787 output and could further cut 777 output unless sales of both jets improve, its clearest indication yet that its production of large jetliners may have peaked for now.
 

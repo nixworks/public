@@ -23,9 +23,9 @@ _Context: Las Vegas, Nevada, Ricin_
 ### [ Turkey has announced a complete withdrawal and end to operations in northern Iraq. ](/news/2008/02/29/turkey-has-announced-a-complete-withdrawal-and-end-to-operations-in-northern-iraq.md)
 _Context: 2008 Turkish incursion into northern Iraq, Iraq, Turkey_
 
-##### UK
+##### United Kingdom
 ### [ The British Ministry of Defence announces that Prince Harry will have to return home from his deployment in Afghanistan as recent publicity made it too dangerous for him to stay there. ](/news/2008/02/29/the-british-ministry-of-defence-announces-that-prince-harry-will-have-to-return-home-from-his-deployment-in-afghanistan-as-recent-publicity.md)
-_Context: Afghan, International Security Assistance Force, Ministry of Defence, Prince Harry, UK_
+_Context: Afghanistan, International Security Assistance Force, Ministry of Defence, Prince Harry, United Kingdom_
 
 ##### United States Department of Agriculture
 ### [ The U.S. Department of Agriculture stands down two employees as part of its investigation of the biggest meat recall in United States history. ](/news/2008/02/29/the-u-s-department-of-agriculture-stands-down-two-employees-as-part-of-its-investigation-of-the-biggest-meat-recall-in-united-states-histo.md)
@@ -37,7 +37,7 @@ _Context: Fort Wayne, Indiana, News-Sentinel, White House_
 
 ##### Northrop Grumman
 ### [ Northrop Grumman and EADS win a US$35 billion U.S. Air Force contract to build a new refueling plane, the KC-45, shutting out Boeing. ](/news/2008/02/29/northrop-grumman-and-eads-win-a-us-35-billion-u-s-air-force-contract-to-build-a-new-refueling-plane-the-kc-45-shutting-out-boeing.md)
-_Context: Boeing Company, EADS, KC-45, Northrop Grumman, U.S. Air Force, US$, aerial refueling tankers_
+_Context: Boeing, EADS, KC-45, Northrop Grumman, U.S. Air Force, US$, aerial refueling tankers_
 
 ## [Previous Day...](/news/2008/02/28/index.md)
 

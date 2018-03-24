@@ -17,7 +17,7 @@ _Context: Joran van der Sloot, United States_
 
 ##### Caribbean
 ### [Fourteen Caribbean nations file a lawsuit against the United Kingdom, France, and the Netherlands for damages caused during the Atlantic slave trade. ](/news/2014/03/11/fourteen-caribbean-nations-file-a-lawsuit-against-the-united-kingdom-france-and-the-netherlands-for-damages-caused-during-the-atlantic-sla.md)
-_Context: Atlantic slave trade, Caribbean, Dutch, France, UK_
+_Context: Atlantic slave trade, Caribbean, Dutch, France, United Kingdom_
 
 ##### 
 ### [The search of one of Congress's stand-alone computers is referred to the Justice Department for investigation. ](/news/2014/03/11/the-search-of-one-of-congress-s-stand-alone-computers-is-referred-to-the-justice-department-for-investigation.md)
@@ -55,7 +55,7 @@ _Context: Chhattisgarh, India, Maoist_
 
 ##### Kabul
 ### [Gunmen in Kabul, Afghanistan kill Swedish Radio foreign correspondent Nils Horner. ](/news/2014/03/11/gunmen-in-kabul-afghanistan-kill-swedish-radio-foreign-correspondent-nils-horner.md)
-_Context: Afghan, Kabul, Nils Horner, Swedish Radio_
+_Context: Afghanistan, Kabul, Nils Horner, Swedish Radio_
 
 ## [Previous Day...](/news/2014/03/10/index.md)
 

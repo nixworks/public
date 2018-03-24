@@ -9,7 +9,7 @@ CAIRO -- Leftist politician Hamdeen Sabahi has become the first candidate to ann
 
 ##### Minister of State for Immigration
 ### [The British Minister of State for Immigration Mark Harper resigns after it is discovered that a cleaner that he employed was not legally allowed to work in the United Kingdom. ](/news/2014/02/8/the-british-minister-of-state-for-immigration-mark-harper-resigns-after-it-is-discovered-that-a-cleaner-that-he-employed-was-not-legally-all.md)
-_Context: Mark Harper, Minister of State for Immigration, UK_
+_Context: Mark Harper, Minister of State for Immigration, United Kingdom_
 
 ##### Cristina de Borbon
 ### [Princess Cristina de Borbon of Spain addresses allegations of money laundering and tax evasion at Palma de Mallorca courthouse. ](/news/2014/02/8/princess-cristina-de-borba3n-of-spain-addresses-allegations-of-money-laundering-and-tax-evasion-at-palma-de-mallorca-courthouse.md)

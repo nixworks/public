@@ -15,7 +15,7 @@ _Context: Edward Snowden, Moscow, NSA, Russia, Sheremetyevo International Airpor
 ### [At least three prisoners die in a prison riot in Abidjan, Ivory Coast. ](/news/2013/07/24/at-least-three-prisoners-die-in-a-prison-riot-in-abidjan-ivory-coast.md)
 _Context: Abidjan, Ivory Coast, prison riot_
 
-##### UK
+##### United Kingdom
 ### [A British judge rules that Shrien Dewani will be extradited to South Africa to stand trial for the 2010 murder of Anni Dewani. ](/news/2013/07/24/a-british-judge-rules-that-shrien-dewani-will-be-extradited-to-south-africa-to-stand-trial-for-the-2010-murder-of-anni-dewani.md)
 Shrien Dewani&#039;s suicide risk is not immediate and he is well enough to be sent to South Africa, a court decides.
 

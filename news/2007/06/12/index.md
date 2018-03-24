@@ -11,7 +11,7 @@ _Context: Dean Farrar Street, London, Structural failure, storey_
 ### [ Palestinian factional violence: Hamas officials report that a rocket-propelled grenade has been fired at the house of Prime Minister Ismail Haniyeh, causing damage but no injuries. ](/news/2007/06/12/palestinian-factional-violence-hamas-officials-report-that-a-rocket-propelled-grenade-has-been-fired-at-the-house-of-prime-minister-ismail.md)
 _Context: Hamas, Ismail Haniyeh, Prime Minister, clashes, grenade_
 
-##### Afghan
+##### Afghanistan
 ### [ Afghan officials claim that seven members of the Afghan police were killed by Coalition air forces in a friendly fire incident. ](/news/2007/06/12/afghan-officials-claim-that-seven-members-of-the-afghan-police-were-killed-by-coalition-air-forces-in-a-friendly-fire-incident.md)
 U.S.-led forces killed seven Afghan policemen, an official said on Tuesday, and three people were shot dead at a NATO checkpoint, raising concern about mistaken fire incidents in Afghanistan.
 

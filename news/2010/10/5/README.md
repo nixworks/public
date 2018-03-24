@@ -131,9 +131,9 @@ _Context: Meghalaya, ULFA, West Garo Hills_
 ### [At least 3 people are killed and 9 others receive wounds during a bomb explosion at an apartment complex in the suburbs of Bangkok. ](/news/2010/10/5/at-least-3-people-are-killed-and-9-others-receive-wounds-during-a-bomb-explosion-at-an-apartment-complex-in-the-suburbs-of-bangkok.md)
 A bomb explosion at an apartment building on the outskirts of the Thai capital of Bangkok has killed at least three people.
 
-##### Afghan
+##### Afghanistan
 ### [Afghan militant attacks kill 4 civilians, wound 6 in southwestern Farah province's Rusht Rod district. ](/news/2010/10/5/afghan-militant-attacks-kill-4-civilians-wound-6-in-southwestern-farah-province-s-rusht-rod-district.md)
-_Context: Afghan, Farah province, Rusht Rod_
+_Context: Afghanistan, Farah province, Rusht Rod_
 
 ## [Previous Day...](/news/2010/10/4/index.md)
 

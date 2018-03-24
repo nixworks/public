@@ -31,7 +31,7 @@ _Context: Human Rights Watch, West Africa_
 ### [ Same-sex marriage in Canada: The Canadian government's Bill C-38 survives a vote on a wrecking amendment which would have defined marriage as a union between a man and a woman, introduced by the Conservative Party of Canada. ](/news/2005/04/12/same-sex-marriage-in-canada-the-canadian-government-s-bill-c-38-survives-a-vote-on-a-wrecking-amendment-which-would-have-defined-marriage.md)
 _Context: Bill C-38, Conservative Party's, Same-sex marriage in Canada, wrecking amendment_
 
-##### UK
+##### United Kingdom
 ### [ Three British men are indicted by a United States court in a 2004 alleged plot to destroy financial institutions in the USA, including such notable landmarks as the New York Stock Exchange in New York City, the Prudential building in New Jersey, and the World Bank and the International Monetary Fund in Washington, D.C.. The U.S. claims that one is a senior Al-Qaeda member. ](/news/2005/04/12/three-british-men-are-indicted-by-a-united-states-court-in-a-2004-alleged-plot-to-destroy-financial-institutions-in-the-usa-including-such.md)
 Get the latest breaking news across the U.S. on ABCNews.com
 

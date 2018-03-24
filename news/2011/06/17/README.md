@@ -9,7 +9,7 @@ King Mohammed VI proposes constitutional changes that will whittle down his powe
 
 ##### Danny Alexander
 ### [Danny Alexander, the Chief Secretary to the Treasury of the United Kingdom, announces that the retirement age for British civil servants will be increased to 66, with the exception of the police, armed forces and fire service. ](/news/2011/06/17/danny-alexander-the-chief-secretary-to-the-treasury-of-the-united-kingdom-announces-that-the-retirement-age-for-british-civil-servants-wil.md)
-_Context: Chief Secretary to the Treasury, Danny Alexander, UK, civil servant, retirement_
+_Context: Chief Secretary to the Treasury, Danny Alexander, United Kingdom, civil servant, retirement_
 
 ##### Japanese government
 ### [The Government of Japan says it will double sales tax over four years to fund rising social security costs. ](/news/2011/06/17/the-government-of-japan-says-it-will-double-sales-tax-over-four-years-to-fund-rising-social-security-costs.md)

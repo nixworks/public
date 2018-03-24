@@ -3,9 +3,9 @@ Formats: [HTML](2007/12/5/index.html)  [JSON](2007/12/5/index.json)  [XML](2007/
 
 ## [2007-12-5](/news/2007/12/5/index.md)
 
-##### Afghan
+##### Afghanistan
 ### [ A suicide bomber rams a car into a minibus containing Afghan soldiers on a highway south of Kabul. Thirteen, including six Afghan soldiers, are killed in the incident. ](/news/2007/12/5/a-suicide-bomber-rams-a-car-into-a-minibus-containing-afghan-soldiers-on-a-highway-south-of-kabul-thirteen-including-six-afghan-soldiers.md)
-_Context: Afghan, Kabul_
+_Context: Afghanistan, Kabul_
 
 ##### Opens fire at a mall
 ### [ A man opens fire at a mall in Omaha, Nebraska, in the United States, killing eight before committing suicide. ](/news/2007/12/5/a-man-opens-fire-at-a-mall-in-omaha-nebraska-in-the-united-states-killing-eight-before-committing-suicide.md)
@@ -19,9 +19,9 @@ The killings served as a vicious reminder that the months-long decline in daily 
 ### [ Latvian Prime Minister Aigars Kalvitis resigns. ](/news/2007/12/5/latvian-prime-minister-aigars-kalva-tis-resigns.md)
 _Context: Aigars Kalvitis, Latvia, Prime Minister_
 
-##### UK
+##### United Kingdom
 ### [ Two British citizens are arrested in Lithuania after trying to ship 14 kg (31 pounds) of khat out of Vilnius. ](/news/2007/12/5/two-british-citizens-are-arrested-in-lithuania-after-trying-to-ship-14-kg-31-pounds-of-khat-out-of-vilnius.md)
-_Context: Lithuania, UK, Vilnius, khat_
+_Context: Lithuania, United Kingdom, Vilnius, khat_
 
 ##### National Television
 ### [ Swedish National Television reveals systematic food safety irregularities at ICA, the leading grocery store chain in Sweden. ](/news/2007/12/5/swedish-national-television-reveals-systematic-food-safety-irregularities-at-ica-the-leading-grocery-store-chain-in-sweden.md)

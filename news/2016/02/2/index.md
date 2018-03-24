@@ -21,7 +21,7 @@ _Context: Punxsutawney Phil, tradition_
 
 ##### War in Afghanistan (2015-present)
 ### [U.S. airstrikes in eastern Afghanistan hit an ISIS radio station and kill 29 militants. ](/news/2016/02/2/u-s-airstrikes-in-eastern-afghanistan-hit-an-isis-radio-station-and-kill-29-militants.md)
-_Context: Afghan, ISIS, Military intervention against ISIL, U.S., War in Afghanistan (2015-present)_
+_Context: Afghanistan, ISIS, Military intervention against ISIL, U.S., War in Afghanistan (2015-present)_
 
 ## [Previous Day...](/news/2016/02/1/index.md)
 

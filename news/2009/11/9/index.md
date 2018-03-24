@@ -17,7 +17,7 @@ The private train North Korean leader Kim Jong-il uses on his trips either withi
 
 ##### Downing Street
 ### [ Downing Street defends Prime Minister Gordon Brown's habits after the mother of a soldier killed in Afghanistan labels a misspelled letter she received from him as a "hastily scrawled insult". ](/news/2009/11/9/downing-street-defends-prime-minister-gordon-brown-s-habits-after-the-mother-of-a-soldier-killed-in-afghanistan-labels-a-misspelled-letter.md)
-_Context: Afghan, Downing Street, Gordon Brown, Prime Minister_
+_Context: Afghanistan, Downing Street, Gordon Brown, Prime Minister_
 
 ##### Tawang
 ### [ Tens of thousands of people gather in Tawang, Arunachal Pradesh to hear an address by the visiting Dalai Lama. ](/news/2009/11/9/tens-of-thousands-of-people-gather-in-tawang-arunachal-pradesh-to-hear-an-address-by-the-visiting-dalai-lama.md)

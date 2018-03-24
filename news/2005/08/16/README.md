@@ -13,7 +13,7 @@ _Context: Colombia, Venezuela, West Caribbean Airways Flight 708_
 
 ##### Puma helicopters
 ### [ Two Puma helicopters crash near the city of Herat, in western Afghanistan, killing Spanish troops. ](/news/2005/08/16/two-puma-helicopters-crash-near-the-city-of-herat-in-western-afghanistan-killing-spanish-troops.md)
-_Context: Afghan, Herat, Puma helicopters, Spanish_
+_Context: Afghanistan, Herat, Puma helicopters, Spanish_
 
 ##### ITN
 ### [ ITN news announces it has uncovered classified documents which seem to imply that Jean Charles de Menezes, the man shot dead by British Police on July 22, 2005, was not wearing a heavy coat, did not jump the ticket barrier, was not given a warning, and did not at any time flee from police. ](/news/2005/08/16/itn-news-announces-it-has-uncovered-classified-documents-which-seem-to-imply-that-jean-charles-de-menezes-the-man-shot-dead-by-british-pol.md)

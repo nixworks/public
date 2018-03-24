@@ -43,7 +43,7 @@ Russia wants the Syrian government and opposition to agree on launching a consti
 ### [Myanmar tops the 2015 Charities Aid Foundation's World Giving Index which measures each country's charitable behavior. Individuals indicate whether they have donated money, volunteered, or helped a stranger in the past month. The United States, which tied with Myanmar last year, is second, followed by New Zealand, Canada, Australia, the United Kingdom, the Netherlands, Sri Lanka, Ireland, and Malaysia. ](/news/2015/11/10/myanmar-tops-the-2015-charities-aid-foundation-s-world-giving-index-which-measures-each-country-s-charitable-behavior-individuals-indicate.md)
 Myanmar is the most generous country in the world, according to the charity CAF America.
 
-##### UK
+##### United Kingdom
 ### [British Prime Minister David Cameron sets out his four-point EU re-negotiation agenda, including a demand to end Britain's obligations to EU's "ever closer union". ](/news/2015/11/10/british-prime-minister-david-cameron-sets-out-his-four-point-eu-re-negotiation-agenda-including-a-demand-to-end-britain-s-obligations-to-eu.md)
 Prime minister to set out reforms to European council president, with commitment to four-year ban on EU migrants claiming in-work and child benefits likely to cause upset
 

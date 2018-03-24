@@ -37,7 +37,7 @@ Iran’s Defense Minister Ahmad Vahidi said Iran was ready to offer military aid
 
 ##### The New York Times
 ### ["The New York Times" claims that Mohammed Zia Salehi, an official of Afghanistan's Karzai administration accused of graft is on the United States Central Intelligence Agency payroll. ](/news/2010/08/26/the-new-york-times-claims-that-mohammed-zia-salehi-an-official-of-afghanistan-s-karzai-administration-accused-of-graft-is-on-the-united-s.md)
-_Context:  graft, Afghan, CIA, Karzai administration, Mohammed Zia Salehi, The New York Times, United States_
+_Context:  graft, Afghanistan, CIA, Karzai administration, Mohammed Zia Salehi, The New York Times, United States_
 
 ##### Israel
 ### [Israel asks Germany to arrest Klaas Carel Faber, a Nazi war criminal who killed 20 Jews at Westerbork concentration camp. ](/news/2010/08/26/israel-asks-germany-to-arrest-klaas-carel-faber-a-nazi-war-criminal-who-killed-20-jews-at-westerbork-concentration-camp.md)

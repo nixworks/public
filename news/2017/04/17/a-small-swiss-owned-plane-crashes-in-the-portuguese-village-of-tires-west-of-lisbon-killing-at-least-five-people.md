@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/04/17/a-small-swiss-owned-plane-crashes-in-the-portug
 
 ### [2017-04-17](/news/2017/04/17/index.md)
 
-##### Swiss
+##### Switzerland
 # A small Swiss-owned plane crashes in the Portuguese village of Tires, west of Lisbon, killing at least five people. 
 
 A small plane crashes near a Lidl supermarket in Tires just west of Lisbon, killing five people.

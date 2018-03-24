@@ -61,7 +61,7 @@ _Context: Burj Khalifa, Dubai, United Arab Emirates, tallest structure in the wo
 
 ##### War in Afghanistan (2015-present)
 ### [The Taliban, in a statement claiming responsibility for yesterday's rocket attacks into Kabul, Afghanistan, says the intended target was U.S. Secretary of State John Kerry, who was in the capital to help defuse a crisis within the unity government. Kerry had departed less than an hour earlier. No casualties have been reported. ](/news/2016/04/10/the-taliban-in-a-statement-claiming-responsibility-for-yesterday-s-rocket-attacks-into-kabul-afghanistan-says-the-intended-target-was-u-s.md)
-_Context: Afghan, John Kerry, Kabul, Secretary of State, Taliban, War in Afghanistan (2015-present), unity government_
+_Context: Afghanistan, John Kerry, Kabul, Secretary of State, Taliban, War in Afghanistan (2015-present), unity government_
 
 ## [Previous Day...](/news/2016/04/9/index.md)
 

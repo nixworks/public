@@ -67,7 +67,7 @@ Tribune Publishing Co is reviewing an unsolicited and possibly unwelcome $815 mi
 ### [Saudi Arabia's Council of Ministers announces a broad-based economic reform plan, known as Vision 2030, which will help the oil-reliant state to diversify its economy over the next 14 years. ](/news/2016/04/25/saudi-arabia-s-council-of-ministers-announces-a-broad-based-economic-reform-plan-known-as-vision-2030-which-will-help-the-oil-reliant-stat.md)
 Vision 2030 envisages forming public investment fund, boosting affordable housing and giving expats long-term residence.
 
-##### UK
+##### United Kingdom
 ### [British department store chain British Home Stores (BHS) collapses into administration after a last-minute rescue deal fails. The collapse of the retailer, which employs 11,000 people, is the biggest failure on the UK's high street since the collapse of Woolworths Group in 2008. ](/news/2016/04/25/british-department-store-chain-british-home-stores-bhs-collapses-into-administration-after-a-last-minute-rescue-deal-fails-the-collapse-o.md)
 Administrators Duff &amp; Phelps will keep stores open as they try to find a buyer for the department store chain
 

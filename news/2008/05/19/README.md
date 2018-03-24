@@ -33,7 +33,7 @@ The Supreme Court gave prosecutors a powerful tool Monday to attack the spread o
 
 ##### Edward Leigh
 ### [ Edward Leigh's attempt to outlaw the creation of human-animal hybrid embryos in the United Kingdom is defeated by 336 votes to 176 in the British House of Commons. ](/news/2008/05/19/edward-leigh-s-attempt-to-outlaw-the-creation-of-human-animal-hybrid-embryos-in-the-united-kingdom-is-defeated-by-336-votes-to-176-in-the-b.md)
-_Context: British House of Commons, Edward Leigh, UK, animal, embryo, human, hybrid_
+_Context: British House of Commons, Edward Leigh, United Kingdom, animal, embryo, human, hybrid_
 
 ##### Sunni
 ### [ Suspected Sunni insurgents attack a minibus carrying police recruits near the border of Iraq and Syria killing 11 people. ](/news/2008/05/19/suspected-sunni-insurgents-attack-a-minibus-carrying-police-recruits-near-the-border-of-iraq-and-syria-killing-11-people.md)

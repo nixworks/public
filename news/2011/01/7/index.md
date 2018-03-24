@@ -37,7 +37,7 @@ Officials at Foreign Ministry fear &#39;domino effect&#39; in South America; &#3
 
 ##### Laurent Gbagbo
 ### [Laurent Gbagbo expels the ambassadors for Canada and the United Kingdom from Cote d'Ivoire. Both nations reject the decision, recognizing Alassane Ouattara as the rightful President. ](/news/2011/01/7/laurent-gbagbo-expels-the-ambassadors-for-canada-and-the-united-kingdom-from-ca-te-d-ivoire-both-nations-reject-the-decision-recognizing-a.md)
-_Context: Alassane Ouattara, Canada, Cote d'Ivoire, Laurent Gbagbo, UK_
+_Context: Alassane Ouattara, Canada, Cote d'Ivoire, Laurent Gbagbo, United Kingdom_
 
 ##### Ghana
 ### [Ghana says a threat of force by the Economic Community of West African States to remove Ivorian President Laurent Gbagbo would "not bring about peace" in the country. ](/news/2011/01/7/ghana-says-a-threat-of-force-by-the-economic-community-of-west-african-states-to-remove-ivorian-president-laurent-gbagbo-would-not-bring-ab.md)
@@ -73,7 +73,7 @@ At least 20 killed in violence that erupts after news spreads of Muslims killed 
 
 ##### Suicide bombing
 ### [A suicide bomber kills 17 people and wounds at least 20 others in a public bathhouse in Kandahar province, Afghanistan; the Taliban claims responsibility for the attack. ](/news/2011/01/7/a-suicide-bomber-kills-17-people-and-wounds-at-least-20-others-in-a-public-bathhouse-in-kandahar-province-afghanistan-the-taliban-claims-r.md)
-_Context: Afghan, Kandahar province, Taliban, suicide bombing_
+_Context: Afghanistan, Kandahar province, Taliban, suicide bombing_
 
 ## [Previous Day...](/news/2011/01/6/index.md)
 

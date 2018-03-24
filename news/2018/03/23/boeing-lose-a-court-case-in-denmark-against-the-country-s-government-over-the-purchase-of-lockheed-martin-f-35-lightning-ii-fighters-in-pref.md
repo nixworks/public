@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/23/boeing-lose-a-court-case-in-denmark-against-the
 
 ### [2018-03-23](/news/2018/03/23/index.md)
 
-##### Boeing
+##### Economy of Denmark
 # Boeing lose a court case in Denmark against the country's government over the purchase of Lockheed Martin F-35 Lightning II fighters in preference over Boeing F-A 18 Super Hornets. 
 
 

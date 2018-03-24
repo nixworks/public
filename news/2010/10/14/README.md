@@ -15,7 +15,7 @@ Scientists working for the UN say that they have eradicated a virus which can be
 ### [The World Health Organisation warns about an outbreak of Cutaneous leishmaniasis in Afghanistan. ](/news/2010/10/14/the-world-health-organisation-warns-about-an-outbreak-of-cutaneous-leishmaniasis-in-afghanistan.md)
 Hundreds of thousands of Afghans have been infected by a disfiguring tropical skin disease, cutaneous leishmaniasis, officials say.
 
-##### Peruvian President
+##### President
 ### [The President of Peru Alan Garcia denies claims that he slapped a man who called him corrupt when he visited a Lima hospital last weekend. ](/news/2010/10/14/the-president-of-peru-alan-garcia-denies-claims-that-he-slapped-a-man-who-called-him-corrupt-when-he-visited-a-lima-hospital-last-weekend.md)
 Peruvian President Alan Garcia denies slapping a man who called him corrupt during a visit to a hospital.
 
@@ -63,9 +63,9 @@ _Context: Lan Lijun, Sino-Canadian relations, Stephen Harper_
 ### [The Prime Minister of Japan Naoto Kan calls on China to release Nobel Peace Prize winner Liu Xiaobo. ](/news/2010/10/14/the-prime-minister-of-japan-naoto-kan-calls-on-china-to-release-nobel-peace-prize-winner-liu-xiaobo.md)
 _Context: China, Japanese Prime Minister, Liu Xiaobo, Naoto Kan, Nobel Peace Prize_
 
-##### Afghan
+##### Afghanistan
 ### [At least seven Afghan border guards are detained by Iran after crossing their mutual border. ](/news/2010/10/14/at-least-seven-afghan-border-guards-are-detained-by-iran-after-crossing-their-mutual-border.md)
-_Context: Afghan, Iran_
+_Context: Afghanistan, Iran_
 
 ##### Turkey
 ### [Turkish lawyers file a complaint against Israel over the Gaza flotilla raid in the International Criminal Court. ](/news/2010/10/14/turkish-lawyers-file-a-complaint-against-israel-over-the-gaza-flotilla-raid-in-the-international-criminal-court.md)
@@ -101,7 +101,7 @@ _Context: Ayad Allawi, Baghdad, Iraq, Iraqi National Movement_
 
 ##### ISAF
 ### [Eight ISAF NATO soldiers are killed in multiple attacks in Afghanistan, including four in roadside bombings. ](/news/2010/10/14/eight-isaf-nato-soldiers-are-killed-in-multiple-attacks-in-afghanistan-including-four-in-roadside-bombings.md)
-_Context: Afghan, IED, ISAF, NATO_
+_Context: Afghanistan, IED, ISAF, NATO_
 
 ## [Previous Day...](/news/2010/10/13/index.md)
 

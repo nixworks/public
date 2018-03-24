@@ -51,7 +51,7 @@ At least 19 people are killed when a bus collides with a lorry in central Thaila
 ### [Tens of thousands of Roman Catholics greet Pope Francis in Rio de Janeiro, Brazil, during his first foreign trip as pontiff. ](/news/2013/07/23/tens-of-thousands-of-roman-catholics-greet-pope-francis-in-rio-de-janeiro-brazil-during-his-first-foreign-trip-as-pontiff.md)
 Crowds greet Pope Francis in Rio on his first foreign trip as head of the Catholic Church, but Brazilian police also clash with anti-government protesters.
 
-##### Afghan
+##### Afghanistan
 ### [A bomb kills eight people in Afghanistan's Wardak Province, including three United States Army soldiers, four Afghan National Army soldiers and an Afghan interpreter. ](/news/2013/07/23/a-bomb-kills-eight-people-in-afghanistan-s-wardak-province-including-three-united-states-army-soldiers-four-afghan-national-army-soldiers.md)
 An insurgent riding a donkey detonated a bomb in one of the most hotly contested districts in the country, officials said.
 

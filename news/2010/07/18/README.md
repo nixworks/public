@@ -55,9 +55,9 @@ _Context: Ajami, Israel, Jaffa_
 ### [European Union foreign policy chief Catherine Ashton says that Israel must go beyond easing its blockade of Gaza and throw open its long-closed border. ](/news/2010/07/18/european-union-foreign-policy-chief-catherine-ashton-says-that-israel-must-go-beyond-easing-its-blockade-of-gaza-and-throw-open-its-long-clo.md)
 Israel must go beyond easing its blockade of Gaza and throw open its border, EU foreign policy chief Catherine Ashton has said.
 
-##### UK
+##### United Kingdom
 ### [The United Kingdom plans to reduce or eliminate international aid to countries such as the "powerhouses" of Russia and China, as well as South American and eastern European countries. The government plans aid increases to some poorer nations including a 40% increase to Afghanistan. ](/news/2010/07/18/the-united-kingdom-plans-to-reduce-or-eliminate-international-aid-to-countries-such-as-the-powerhouses-of-russia-and-china-as-well-as-sou.md)
-_Context: Chinese, Russia, South America, UK, eastern Europe, international aid_
+_Context: Chinese, Russia, South America, United Kingdom, eastern Europe, international aid_
 
 ##### Prime Minister
 ### [A 2001 film, depicting Prime Minister of Israel Benjamin Netanyahu discussing methods of undermining the Oslo Accords and saying the United States is "easy" to manipulate, is aired on Israel's Channel 10. ](/news/2010/07/18/a-2001-film-depicting-prime-minister-of-israel-benjamin-netanyahu-discussing-methods-of-undermining-the-oslo-accords-and-saying-the-united.md)

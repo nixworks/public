@@ -9,7 +9,7 @@ _Context: Cte d'Ivoire, Jesse Jackson, Michael Jackson_
 
 ##### Bombing
 ### [ Seven people are killed in a bombing targeting a NATO convoy in Kabul, days before the presidential elections in Afghanistan. ](/news/2009/08/18/seven-people-are-killed-in-a-bombing-targeting-a-nato-convoy-in-kabul-days-before-the-presidential-elections-in-afghanistan.md)
-_Context: Afghan, Kabul, NATO, bombing, presidential election_
+_Context: Afghanistan, Kabul, NATO, bombing, presidential election_
 
 ##### Kim Dae-jung
 ### [ Former South Korean President and 2000 Nobel Peace Prize recipient Kim Dae-jung dies of multiple organ dysfunction syndrome. ](/news/2009/08/18/former-south-korean-president-and-2000-nobel-peace-prize-recipient-kim-dae-jung-dies-of-multiple-organ-dysfunction-syndrome.md)

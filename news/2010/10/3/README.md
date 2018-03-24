@@ -103,11 +103,11 @@ _Context: Defence Housing Authority, NATO, Rawalpindi_
 
 ##### Paktika Province
 ### [A roadside bomb strikes a civilian car in Paktika Province, in eastern Afghanistan, leaving seven civilians dead. ](/news/2010/10/3/a-roadside-bomb-strikes-a-civilian-car-in-paktika-province-in-eastern-afghanistan-leaving-seven-civilians-dead.md)
-_Context: Afghan, Paktika Province_
+_Context: Afghanistan, Paktika Province_
 
 ##### Taliban
 ### [Security forces eliminated 25 Taliban militants in their former stronghold Nad Ali district of southern Helmand Province of Afghanistan. ](/news/2010/10/3/security-forces-eliminated-25-taliban-militants-in-their-former-stronghold-nad-ali-district-of-southern-helmand-province-of-afghanistan.md)
-_Context: Afghan, Helmand Province, Nad Ali, Taliban_
+_Context: Afghanistan, Helmand Province, Nad Ali, Taliban_
 
 ## [Previous Day...](/news/2010/10/2/index.md)
 

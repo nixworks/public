@@ -29,7 +29,7 @@ _Context: Kevin Kiley, Lieutenant General, Surgeon General of the United States 
 
 ##### Nigel Griffiths
 ### [ Nigel Griffiths resigns as the Deputy Leader of the British House of Commons over the proposed expansion of the Trident missile system. ](/news/2007/03/12/nigel-griffiths-resigns-as-the-deputy-leader-of-the-british-house-of-commons-over-the-proposed-expansion-of-the-trident-missile-system.md)
-_Context: British House of Commons, Leader of the House of Commons, Nigel Griffiths, Trident nuclear missile system, UK_
+_Context: British House of Commons, Leader of the House of Commons, Nigel Griffiths, Trident nuclear missile system, United Kingdom_
 
 ##### Zimbabwe
 ### [ The High Court of Zimbabwe rules that detained opposition leader Morgan Tsvangirai of the Movement for Democratic Change must either be brought into court on Tuesday or released. ](/news/2007/03/12/the-high-court-of-zimbabwe-rules-that-detained-opposition-leader-morgan-tsvangirai-of-the-movement-for-democratic-change-must-either-be-bro.md)

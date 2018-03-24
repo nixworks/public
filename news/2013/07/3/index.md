@@ -13,7 +13,7 @@ _Context: Albert II of Belgium, Prince Philippe, Duke of Brabant, abdicate_
 
 ##### Ecuador
 ### [Ecuador announces the discovery of a bugging device used to listen in on its embassy in the United Kingdom. Ecuador's foreign minister Ricardo Patio declares it as "another instance of a loss of ethics at the international level in relations between governments". ](/news/2013/07/3/ecuador-announces-the-discovery-of-a-bugging-device-used-to-listen-in-on-its-embassy-in-the-united-kingdom-ecuador-s-foreign-minister-ricar.md)
-_Context: Ecuador, Ricardo Patio, UK_
+_Context: Ecuador, Ricardo Patio, United Kingdom_
 
 ##### Bolivia
 ### [The presidential jet of Bolivia is denied access to European airspace and forced to land in Vienna amid concerns that Edward Snowden is on board. ](/news/2013/07/3/the-presidential-jet-of-bolivia-is-denied-access-to-european-airspace-and-forced-to-land-in-vienna-amid-concerns-that-edward-snowden-is-on-b.md)

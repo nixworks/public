@@ -17,7 +17,7 @@ _Context: Croatia, Serbia, refugee immigration to Germany_
 
 ##### 2015 FIFA corruption case
 ### [The Office of the Attorney General of Switzerland opens criminal proceedings against the President of FIFA Sepp Blatter. ](/news/2015/09/25/the-office-of-the-attorney-general-of-switzerland-opens-criminal-proceedings-against-the-president-of-fifa-sepp-blatter.md)
-_Context: 2015 FIFA corruption case, President of FIFA, Sepp Blatter, Swiss_
+_Context: 2015 FIFA corruption case, President of FIFA, Sepp Blatter, Switzerland_
 
 ##### BBC
 ### [The BBC reports that Nigeria will be removed from the list of countries where polio is endemic. ](/news/2015/09/25/the-bbc-reports-that-nigeria-will-be-removed-from-the-list-of-countries-where-polio-is-endemic.md)

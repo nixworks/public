@@ -13,7 +13,7 @@ _Context: Jalalabad, Pakistan, United States military personnel, suicide bomb_
 
 ##### Memorial service
 ### [ A memorial service is held at St Mary's Church in Dover, United Kingdom, to mark the 20th anniversary of the Zeebrugge ferry disaster. ](/news/2007/03/4/a-memorial-service-is-held-at-st-mary-s-church-in-dover-united-kingdom-to-mark-the-20th-anniversary-of-the-zeebrugge-ferry-disaster.md)
-_Context: Dover, St Mary, UK, Zeebrugge ferry disaster, church, memorial service_
+_Context: Dover, St Mary, United Kingdom, Zeebrugge ferry disaster, church, memorial service_
 
 ##### China
 ### [ China raises its defense budget by 17.8 percent, while cutting the budget deficit to 1.1 percent of GDP. ](/news/2007/03/4/china-raises-its-defense-budget-by-17-8-percent-while-cutting-the-budget-deficit-to-1-1-percent-of-gdp.md)

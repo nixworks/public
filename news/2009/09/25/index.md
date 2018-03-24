@@ -13,7 +13,7 @@ _Context: Palau, commercial shark fishing, shark_
 
 ##### Birmingham
 ### [ Hundreds of people queue in Birmingham, United Kingdom, to see part of the Staffordshire hoard. ](/news/2009/09/25/hundreds-of-people-queue-in-birmingham-united-kingdom-to-see-part-of-the-staffordshire-hoard.md)
-_Context: Birmingham, Staffordshire hoard, UK_
+_Context: Birmingham, Staffordshire hoard, United Kingdom_
 
 ##### Santo Andr
 ### [ At least two people are killed and fifteen injured in a blast at a fireworks shop in Santo Andr, Greater So Paulo, Brazil. ](/news/2009/09/25/at-least-two-people-are-killed-and-fifteen-injured-in-a-blast-at-a-fireworks-shop-in-santo-andre-greater-sao-paulo-brazil.md)

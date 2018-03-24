@@ -9,7 +9,7 @@ _Context: Izmir, Turkey, magnitude_
 
 ##### Portsmouth
 ### [ A ceremony is held in Portsmouth, UK, to commemorate the 200th anniversary of the Battle of Trafalgar; other events include the Queen Elizabeth II lighting one of many nationwide beacons. ](/news/2005/10/21/a-ceremony-is-held-in-portsmouth-uk-to-commemorate-the-200th-anniversary-of-the-battle-of-trafalgar-other-events-include-the-queen-eliza.md)
-_Context: Battle of Trafalgar, Portsmouth, Queen Elizabeth, UK, beacon_
+_Context: Battle of Trafalgar, Portsmouth, Queen Elizabeth, United Kingdom, beacon_
 
 ##### United Nations
 ### [ A United Nations investigation headed by Detlev Mehlis has found that high-ranking members of the Syrian and Lebanese governments were involved in the assassination of former Lebanese Prime Minister Rafik Hariri. ](/news/2005/10/21/a-united-nations-investigation-headed-by-detlev-mehlis-has-found-that-high-ranking-members-of-the-syrian-and-lebanese-governments-were-invo.md)
@@ -17,7 +17,7 @@ _Context: Detlev Mehlis, Lebanese, Prime Minister, Rafik Hariri, Syria, United N
 
 ##### Portsmouth
 ### [ In Portsmouth, UK, the parents of a brain-damaged baby won a partial victory in their legal battle to have her resuscitated by doctors if she falls seriously ill. ](/news/2005/10/21/in-portsmouth-uk-the-parents-of-a-brain-damaged-baby-won-a-partial-victory-in-their-legal-battle-to-have-her-resuscitated-by-doctors-if-s.md)
-_Context: Portsmouth, UK_
+_Context: Portsmouth, United Kingdom_
 
 ##### Awad Hamed al-Bandar
 ### [ Saadoun Sughaiyer al-Janabi, the defense lawyer of Awad Hamed al-Bandar in the Al-Dujail trial, is found dead of gunshot wounds near a Baghdad mosque, after having been kidnapped on Thursday evening by unknown assailants. ](/news/2005/10/21/saadoun-sughaiyer-al-janabi-the-defense-lawyer-of-awad-hamed-al-bandar-in-the-al-dujail-trial-is-found-dead-of-gunshot-wounds-near-a-bagh.md)

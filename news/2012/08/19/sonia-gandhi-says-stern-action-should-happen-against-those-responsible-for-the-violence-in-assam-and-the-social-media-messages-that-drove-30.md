@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/08/19/sonia-gandhi-says-stern-action-should-happen-ag
 
 ### Related:
 
-1. [An Indian court convicts eleven Hindus of murdering a Muslim man they discovered transporting a cow, sentencing them to life. It is the first successful prosecution of cow vigilantism violence in India. ](/news/2018/03/22/an-indian-court-convicts-eleven-hindus-of-murdering-a-muslim-man-they-discovered-transporting-a-cow-sentencing-them-to-life-it-is-the-firs.md) _Context: India_
+1. [An Indian court convicts eleven Hindus of murdering a Muslim man they discovered transporting beef, sentencing them to life. It is the first successful prosecution of cow vigilantism violence in India. ](/news/2018/03/22/an-indian-court-convicts-eleven-hindus-of-murdering-a-muslim-man-they-discovered-transporting-beef-sentencing-them-to-life-it-is-the-first.md) _Context: India_
 2. [Indian external affairs minister Sushma Swaraj tells Parliament DNA testing on remains in a mass grave in Iraq confirms 39 Indian nationals believed to have been kidnapped by ISIL have been killed. ](/news/2018/03/20/indian-external-affairs-minister-sushma-swaraj-tells-parliament-dna-testing-on-remains-in-a-mass-grave-in-iraq-confirms-39-indian-nationals.md) _Context: India_
 3. [Aircel, India's fifth-largest wireless provider, declares bankruptcy. ](/news/2018/03/20/aircel-india-s-fifth-largest-wireless-provider-declares-bankruptcy.md) _Context: India_
 4. [Turkey detains nearly 600 people for social media posts and protests opposing the Afrin offensive in Syria. ](/news/2018/02/6/turkey-detains-nearly-600-people-for-social-media-posts-and-protests-opposing-the-afrin-offensive-in-syria.md) _Context: social media_

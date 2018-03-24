@@ -25,7 +25,7 @@ _Context: China, Korean Peninsula, Park Geun-hye, South Korean President, Xi Jin
 
 ##### European Union
 ### [European leaders agree to back a deal on the European Union's long-term budget after a deal is done on a rebate for the United Kingdom. ](/news/2013/06/27/european-leaders-agree-to-back-a-deal-on-the-european-union-s-long-term-budget-after-a-deal-is-done-on-a-rebate-for-the-united-kingdom.md)
-_Context: European Union, UK_
+_Context: European Union, United Kingdom_
 
 ## [Previous Day...](/news/2013/06/26/index.md)
 

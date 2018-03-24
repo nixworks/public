@@ -87,9 +87,9 @@ Photographs, diaries and remarkable amateur film charting the epic rescue of ref
 ### [At least 12 people are killed in fighting in Mogadishu, Somalia, between pro-government forces, African Union troops and the Islamist militant al-Shabaab group. ](/news/2010/11/1/at-least-12-people-are-killed-in-fighting-in-mogadishu-somalia-between-pro-government-forces-african-union-troops-and-the-islamist-milita.md)
 _Context: African Union, Al-Shabab, Islamist, Mogadishu, Somali_
 
-##### Afghan
+##### Afghanistan
 ### [Two Afghan women charity workers are shot dead. They were travelling between Lashkar Gah and Garmser, a volatile area in the Helmand River valley, when they were attacked. ](/news/2010/11/1/two-afghan-women-charity-workers-are-shot-dead-they-were-travelling-between-lashkar-gah-and-garmser-a-volatile-area-in-the-helmand-river-v.md)
-_Context: Afghan, Garmser, Helmand River, Lashkar Gah_
+_Context: Afghanistan, Garmser, Helmand River, Lashkar Gah_
 
 ## [Previous Day...](/news/2010/10/31/index.md)
 

@@ -11,9 +11,9 @@ SAN JOSE, Calif. -- Fabricio Werdum turned the MMA world on its ear with his stu
 ### [Former Vice President of the United States Dick Cheney, who has a long history of heart problems, is hospitalized. ](/news/2010/06/26/former-vice-president-of-the-united-states-dick-cheney-who-has-a-long-history-of-heart-problems-is-hospitalized.md)
 Former US vice president Dick Cheney, who has a long history of heart problems, has been hospitalised.
 
-##### Afghan
+##### Afghanistan
 ### [Four American service personnel are killed in Afghanistan. ](/news/2010/06/26/four-american-service-personnel-are-killed-in-afghanistan.md)
-_Context: Afghan_
+_Context: Afghanistan_
 
 ##### Agrigento
 ### [Alleged Agrigento mafia boss Giuseppe Falsone is arrested in Marseille in the south of France after spending 10 years on the run. ](/news/2010/06/26/alleged-agrigento-mafia-boss-giuseppe-falsone-is-arrested-in-marseille-in-the-south-of-france-after-spending-10-years-on-the-run.md)

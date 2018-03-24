@@ -51,9 +51,9 @@ _Context: Chinese, James Fondren, Tai Shen Kuo, U.S. Air Force, United States, c
 ### [A U.S. Justice Department task force recommends 47 Guantanamo Bay detainees should be held indefinitely without charge. ](/news/2010/01/22/a-u-s-justice-department-task-force-recommends-47-guantanamo-bay-detainees-should-be-held-indefinitely-without-charge.md)
 _Context: Guantanamo Bay detention camp, United States, United States Justice Department, detainees, detention camps, task force_
 
-##### UK
+##### United Kingdom
 ### [U.K. Home Secretary Alan Johnson announces the Joint Terrorism Analysis Centre has raised the terrorist threat level from "substantial" to "severe". ](/news/2010/01/22/u-k-home-secretary-alan-johnson-announces-the-joint-terrorism-analysis-centre-has-raised-the-terrorist-threat-level-from-substantial-to.md)
-_Context: Alan Johnson, Home Secretary, Joint Terrorism Analysis Centre, UK, terror threat level_
+_Context: Alan Johnson, Home Secretary, Joint Terrorism Analysis Centre, United Kingdom, terror threat level_
 
 ##### China
 ### [China rejects criticism by the United States of its internet controls, saying it could harm relations between the two countries. ](/news/2010/01/22/china-rejects-criticism-by-the-united-states-of-its-internet-controls-saying-it-could-harm-relations-between-the-two-countries.md)

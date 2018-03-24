@@ -49,7 +49,7 @@ _Context: African Union, Airstrike, Darfur, killed in fighting_
 
 ##### Royal Society
 ### [ President of the Royal Society warns of oil companies' funding of lobbies in the UK to cast skepticism over the debate on climate change. ](/news/2005/01/27/president-of-the-royal-society-warns-of-oil-companies-funding-of-lobbies-in-the-uk-to-cast-skepticism-over-the-debate-on-climate-change.md)
-_Context: Royal Society, UK, climate change, lobbies, oil companies_
+_Context: Royal Society, United Kingdom, climate change, lobbies, oil companies_
 
 ## [Previous Day...](/news/2005/01/26/index.md)
 

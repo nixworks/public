@@ -37,7 +37,7 @@ Nuclear power plant has reached critical mass, will be powered up within weeks, 
 
 ##### UK royal state visit to Ireland
 ### [UK royal state visit to Ireland: Queen Elizabeth II of the United Kingdom visits Croke Park in Dublin, where British troops killed 20 people in the Bloody Sunday massacre of 1920. ](/news/2011/05/18/uk-royal-state-visit-to-ireland-queen-elizabeth-ii-of-the-united-kingdom-visits-croke-park-in-dublin-where-british-troops-killed-20-people.md)
-_Context: Bloody Sunday massacre of 1920, Croke Park, Dublin, Queen Elizabeth II, UK, UK royal state visit to Ireland_
+_Context: Bloody Sunday massacre of 1920, Croke Park, Dublin, Queen Elizabeth II, UK royal state visit to Ireland, United Kingdom_
 
 ##### Dmitry Medvedev
 ### [Dmitry Medvedev, the President of Russia, warns of a potential new Cold War if the United States does not listen to Russia's concerns about its proposed missile defense system. ](/news/2011/05/18/dmitry-medvedev-the-president-of-russia-warns-of-a-potential-new-cold-war-if-the-united-states-does-not-listen-to-russia-s-concerns-about.md)
@@ -79,7 +79,7 @@ Sudan has carried out another air strike on a village in the troubled western re
 ### [The United States announces plans to impose sanctions on the President of Syria, Bashar al-Assad, and six members of his government, for alleged human rights breaches during the 2011 Syrian uprising. ](/news/2011/05/18/the-united-states-announces-plans-to-impose-sanctions-on-the-president-of-syria-bashar-al-assad-and-six-members-of-his-government-for-all.md)
 _Context: 2011 Syrian uprising, Bashar al-Assad, President, United States, human rights_
 
-##### Afghan
+##### Afghanistan
 ### [At least twelve people are killed and 80 injured during a protest in the Afghan city of Taloqan against the killing of four civilians in a NATO raid. ](/news/2011/05/18/at-least-twelve-people-are-killed-and-80-injured-during-a-protest-in-the-afghan-city-of-taloqan-against-the-killing-of-four-civilians-in-a-n.md)
 At least 12 people are shot dead and 80 wounded by security forces in northern Afghanistan during a protest against a Nato-led raid.
 

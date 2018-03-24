@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/23/one-person-is-killed-and-42-injured-after-a-swi
 
 ### [2010-07-23](/news/2010/07/23/index.md)
 
-##### Swiss
+##### Switzerland
 # One person is killed and 42 injured after a Swiss tourist train derails in the Alps. 
 
 
@@ -17,8 +17,8 @@ Formats: [HTML](/news/2010/07/23/one-person-is-killed-and-42-injured-after-a-swi
 
 ### Related:
 
-1. [The Gotthard Base Tunnel in the Swiss Alps becomes the world's longest railway tunnel, as final breakthrough occurs on the east bore. ](/news/2010/10/15/the-gotthard-base-tunnel-in-the-swiss-alps-becomes-the-world-s-longest-railway-tunnel-as-final-breakthrough-occurs-on-the-east-bore.md) _Context: Alps, Swiss_
-2. [ Switzerland opens the world's longest rail tunnel on land, the 34-kilometre Ltschberg tunnel under the Alps. ](/news/2007/06/15/switzerland-opens-the-world-s-longest-rail-tunnel-on-land-the-34-kilometre-lotschberg-tunnel-under-the-alps.md) _Context: Alps, Swiss_
-3. [ Swiss engineers blast through the Lotschberg Tunnel through the Alps from Germany to Italy. The tunnel will be ready for traffic in two years. ](/news/2005/04/28/swiss-engineers-blast-through-the-laptschberg-tunnel-through-the-alps-from-germany-to-italy-the-tunnel-will-be-ready-for-traffic-in-two-ye.md) _Context: Alps, Swiss_
-4. [Swiss voters reject a proposal to scrap the television licence fee that provides the majority of funding for the Swiss Broadcasting Corporation. Swiss voters also approve the right of the federal government to levy VAT and direct federal tax until 2025. ](/news/2018/03/4/swiss-voters-reject-a-proposal-to-scrap-the-television-licence-fee-that-provides-the-majority-of-funding-for-the-swiss-broadcasting-corporat.md) _Context: Swiss_
-5. [Winter storm Eleanor moves from the British Isles to continental Europe with one dead in France as well as injuries and material losses in Germany, Netherlands and Switzerland. ](/news/2018/01/3/winter-storm-eleanor-moves-from-the-british-isles-to-continental-europe-with-one-dead-in-france-as-well-as-injuries-and-material-losses-in-g.md) _Context: Swiss_
+1. [The Gotthard Base Tunnel in the Swiss Alps becomes the world's longest railway tunnel, as final breakthrough occurs on the east bore. ](/news/2010/10/15/the-gotthard-base-tunnel-in-the-swiss-alps-becomes-the-world-s-longest-railway-tunnel-as-final-breakthrough-occurs-on-the-east-bore.md) _Context: Alps, Switzerland_
+2. [ Switzerland opens the world's longest rail tunnel on land, the 34-kilometre Ltschberg tunnel under the Alps. ](/news/2007/06/15/switzerland-opens-the-world-s-longest-rail-tunnel-on-land-the-34-kilometre-lotschberg-tunnel-under-the-alps.md) _Context: Alps, Switzerland_
+3. [ Swiss engineers blast through the Lotschberg Tunnel through the Alps from Germany to Italy. The tunnel will be ready for traffic in two years. ](/news/2005/04/28/swiss-engineers-blast-through-the-laptschberg-tunnel-through-the-alps-from-germany-to-italy-the-tunnel-will-be-ready-for-traffic-in-two-ye.md) _Context: Alps, Switzerland_
+4. [Swiss voters reject a proposal to scrap the television licence fee that provides the majority of funding for the Swiss Broadcasting Corporation. Swiss voters also approve the right of the federal government to levy VAT and direct federal tax until 2025. ](/news/2018/03/4/swiss-voters-reject-a-proposal-to-scrap-the-television-licence-fee-that-provides-the-majority-of-funding-for-the-swiss-broadcasting-corporat.md) _Context: Switzerland_
+5. [Thirteen high-ranking independentists declare in front of the judge of the Spanish Supreme Court, except Marta Rovira who is "self-exiled" in Switzerland. ](/news/2018/03/23/thirteen-high-ranking-independentists-declare-in-front-of-the-judge-of-the-spanish-supreme-court-except-marta-rovira-who-is-self-exiled-i.md) _Context: Switzerland_

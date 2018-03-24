@@ -15,7 +15,7 @@ _Context: Cuba, Hugo Chvez, President, cancer surgery_
 ### [Michigan's state government passes right to work legislation, making Michigan the 24th state and the most highly unionized state in the US to have such laws. Thousands of union employees protest outside the Michigan State Capitol in Lansing. ](/news/2012/12/11/michigan-s-state-government-passes-right-to-work-legislation-making-michigan-the-24th-state-and-the-most-highly-unionized-state-in-the-us-t.md)
 _Context: Lansing, Michigan, Michigan State Capitol, right to work_
 
-##### Prime Minister of Mali
+##### Prime Minister
 ### [The Prime Minister of Mali Cheick Modibo Diarra resigns himself and his government on television after his arrest hours earlier by leaders of the recent Malian coup d'tat. ](/news/2012/12/11/the-prime-minister-of-mali-cheick-modibo-diarra-resigns-himself-and-his-government-on-television-after-his-arrest-hours-earlier-by-leaders-o.md)
 Mali&#039;s prime minister Cheick Modibo Diarra has resigned hours after he was arrested by soldiers as he prepared to leave the country for France.
 
@@ -43,7 +43,7 @@ An Illinois judge sentenced Jack McCullough, 73, to serve the rest of his “nat
 ### [Australia's 2Day FM says it will donate advertising profits to a fund for the family of King Edward VII's Hospital nurse Jacintha Saldanha. ](/news/2012/12/11/australia-s-2day-fm-says-it-will-donate-advertising-profits-to-a-fund-for-the-family-of-king-edward-vii-s-hospital-nurse-jacintha-saldanha.md)
 The Australian radio station whose DJs made a hoax call to a nurse who was later found dead is to donate at least £320,000 to a fund set up for her family.
 
-##### UK
+##### United Kingdom
 ### [British-based bank HSBC will pay U.S. authorities $1.9 billion in a settlement over money laundering for drug cartels and countries under sanctions, the largest ever such penalty. ](/news/2012/12/11/british-based-bank-hsbc-will-pay-u-s-authorities-1-9-billion-in-a-settlement-over-money-laundering-for-drug-cartels-and-countries-under-sa.md)
 HSBC is to pay US authorities record penalties of $1.9bn (£1.2bn) after failing to prevent money passing to &quot;drug kingpins and rogue nations&quot;.
 

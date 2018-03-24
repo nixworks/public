@@ -23,9 +23,9 @@ _Context: Anna Hazare, India_
 ### [In New York, representatives of Morocco and Western Sahara conclude UN-backed talks on resolving the conflict between the two countries without reaching an agreement that was satisfactory to both parties. ](/news/2011/06/8/in-new-york-representatives-of-morocco-and-western-sahara-conclude-un-backed-talks-on-resolving-the-conflict-between-the-two-countries-with.md)
 _Context: Morocco, New York City, UN, Western Sahara, conflict between the two countries_
 
-##### UK
+##### United Kingdom
 ### [The United Kingdom and France prepare a draft United Nations Security Council resolution on the 2011 Syrian uprising. ](/news/2011/06/8/the-united-kingdom-and-france-prepare-a-draft-united-nations-security-council-resolution-on-the-2011-syrian-uprising.md)
-_Context: 2011 Syrian uprising, France, UK, United Nations Security Council, United Nations Security Council resolution_
+_Context: 2011 Syrian uprising, France, United Kingdom, United Nations Security Council, United Nations Security Council resolution_
 
 ##### Australia
 ### [Australia announces a ban of live cattle exports to Indonesia of up to six months following recent reports of cruel treatment in Indonesian abattoirs. ](/news/2011/06/8/australia-announces-a-ban-of-live-cattle-exports-to-indonesia-of-up-to-six-months-following-recent-reports-of-cruel-treatment-in-indonesian.md)

@@ -43,9 +43,9 @@ _Context: United States Federal Reserve, inflation, interest rate_
 ### [ Argentine prosecutors formally charge the Iranian government and the Lebanese militia Hezbollah over the 1994 bombing of a Jewish centre which killed 85 people. ](/news/2006/10/25/argentine-prosecutors-formally-charge-the-iranian-government-and-the-lebanese-militia-hezbollah-over-the-1994-bombing-of-a-jewish-centre-wh.md)
 _Context: 1994 bombing, Argentina, Hezbollah, Iran, Jew, Lebanese, militia_
 
-##### UK
+##### United Kingdom
 ### [ Surgeons in the United Kingdom are given permission by a National Health Service ethics committee to prepare to perform the world's first full face transplant at London's Royal Free Hospital. ](/news/2006/10/25/surgeons-in-the-united-kingdom-are-given-permission-by-a-national-health-service-ethics-committee-to-prepare-to-perform-the-world-s-first-f.md)
-_Context: London, National Health Service, Royal Free Hospital, UK, face transplant_
+_Context: London, National Health Service, Royal Free Hospital, United Kingdom, face transplant_
 
 ##### CITIC Group of Beijing
 ### [ The CITIC Group of Beijing buys the Nations Energy Company, the state-owned petroleum company of Kazakhstan, for USD $1.91 billion. ](/news/2006/10/25/the-citic-group-of-beijing-buys-the-nations-energy-company-the-state-owned-petroleum-company-of-kazakhstan-for-usd-1-91-billion.md)

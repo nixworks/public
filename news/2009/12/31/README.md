@@ -37,11 +37,11 @@ _Context: Croatia, Government of Serbia, International Court of Justice, genocid
 
 ##### Althing
 ### [ The Althing (Icelandic parliament) approves the payment of EUR3.8 billion to the United Kingdom and the Netherlands as deposit insurance for the collapsed Icesave savings scheme. ](/news/2009/12/31/the-althing-icelandic-parliament-approves-the-payment-of-a-3-8-billion-to-the-united-kingdom-and-the-netherlands-as-deposit-insurance-fo.md)
-_Context: Althing, Dutch, Iceland, Icesave, UK, deposit insurance_
+_Context: Althing, Dutch, Iceland, Icesave, United Kingdom, deposit insurance_
 
 ##### France
 ### [ Two French journalists and their translator are kidnapped in Kapisa Province, Afghanistan. ](/news/2009/12/31/two-french-journalists-and-their-translator-are-kidnapped-in-kapisa-province-afghanistan.md)
-_Context: Afghan, France, Kapisa Province_
+_Context: Afghanistan, France, Kapisa Province_
 
 ##### Senegal
 ### [ Senegalese President Abdoulaye Wade issues an apology to "humiliated" Christians for comparing an "idolatrous" statue to Jesus Christ. ](/news/2009/12/31/senegalese-president-abdoulaye-wade-issues-an-apology-to-humiliated-christians-for-comparing-an-idolatrous-statue-to-jesus-christ.md)

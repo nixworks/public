@@ -35,9 +35,9 @@ The Hollywood Foreign Press Assn. has announced its nominees for the 2016 Golden
 ### [A United States Treasury official says ISIL has made over $500 million selling oil to Syrian President Bashar Assad's government, and has also sold oil to Turkey. ](/news/2015/12/10/a-united-states-treasury-official-says-isil-has-made-over-500-million-selling-oil-to-syrian-president-bashar-assadas-government-and-has.md)
 Adam Szubin, a senior U.S. Treasury official, said Thursday that ISIS also looted between $500 million and $1 billion from bank vaults captured in Iraq and Syria.
 
-##### Swiss
+##### Switzerland
 ### [Swiss officials say police, based on a CIA tip, are hunting for at least four Islamic State-associated suspects believed to be plotting an attack in Geneva. ](/news/2015/12/10/swiss-officials-say-police-based-on-a-cia-tip-are-hunting-for-at-least-four-islamic-state-associated-suspects-believed-to-be-plotting-an-a.md)
-_Context: CIA, ISIL, Swiss, Swiss authorities_
+_Context: CIA, ISIL, Swiss authorities, Switzerland_
 
 ##### Yemeni Civil War (2015)
 ### [Pro-Hadi government forces backed by Arab coalition air and naval forces, seize control of the Hanish Islands off the coast of Yemen, near the strategic Bab-el-Mandeb strait from troops loyal to former president Ali Abdullah Saleh. The islands have been subject to heavy shelling by coalition forces for weeks according to local fishermen. ](/news/2015/12/10/pro-hadi-government-forces-backed-by-arab-coalition-air-and-naval-forces-seize-control-of-the-hanish-islands-off-the-coast-of-yemen-near-t.md)

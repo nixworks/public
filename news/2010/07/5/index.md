@@ -3,7 +3,7 @@ Formats: [HTML](2010/07/5/index.html)  [JSON](2010/07/5/index.json)  [XML](2010/
 
 ## [2010-07-5](/news/2010/07/5/index.md)
 
-##### UK
+##### United Kingdom
 ### [United Kingdom - Deputy Prime Minister Nick Clegg announces that a referendum on introducing the alternative vote system for national elections will be held on 5 May 2011. ](/news/2010/07/5/united-kingdom-deputy-prime-minister-nick-clegg-announces-that-a-referendum-on-introducing-the-alternative-vote-system-for-national-electi.md)
 The deputy prime minister confirms plans for fewer MPs, a voting referendum and fixed-term parliaments.
 
@@ -73,7 +73,7 @@ Bharat bandh on Monday partially disrupted economic activities with commodity ma
 
 ##### Police
 ### [Afghan Police and international forces kill 64 people in a three-day drug bust operation in Helmand province, Afghanistan, and destroy 16,641 kilograms (36,687 pounds) of narcotics. ](/news/2010/07/5/afghan-police-and-international-forces-kill-64-people-in-a-three-day-drug-bust-operation-in-helmand-province-afghanistan-and-destroy-16-64.md)
-_Context: Afghan, Helmand, International Security Assistance Force, narcotic, police_
+_Context: Afghanistan, Helmand, International Security Assistance Force, narcotic, police_
 
 ##### Iran
 ### [Iran accuses Germany, United Arab Emirates and United Kingdom of refusing to provide fuel to its passenger planes. ](/news/2010/07/5/iran-accuses-germany-united-arab-emirates-and-united-kingdom-of-refusing-to-provide-fuel-to-its-passenger-planes.md)

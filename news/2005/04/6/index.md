@@ -27,9 +27,9 @@ _Context: Brazil, Landless Workers' Movement_
 ### [ Monaco's Prince Rainier III dies at age 81. ](/news/2005/04/6/monaco-s-prince-rainier-iii-dies-at-age-81.md)
 _Context: Monaco, Prince Rainier_
 
-##### UK
+##### United Kingdom
 ### [ Murdered British banker Alistair Wilson is buried in Nairn. The murderer is still at large. ](/news/2005/04/6/murdered-british-banker-alistair-wilson-is-buried-in-nairn-the-murderer-is-still-at-large.md)
-_Context: Alistair Wilson, Nairn, UK_
+_Context: Alistair Wilson, Nairn, United Kingdom_
 
 ##### United Nations
 ### [ The United Nations is looking at the allegations that some UN staff added false details to a UN document about the conflict of Rwanda and Democratic Republic of Congo. William Church, former UN employee and US intelligence analyst, says that some UN staff added false information about Rwandan military incursions to Congo last year. ](/news/2005/04/6/the-united-nations-is-looking-at-the-allegations-that-some-un-staff-added-false-details-to-a-un-document-about-the-conflict-of-rwanda-and-d.md)
@@ -51,9 +51,9 @@ _Context: Leonardo da Vinci, Louvre, Mona Lisa, Paris_
 ### [ The College of Cardinals sets April 18 as the date for a conclave for a papal election to select a successor to Pope John Paul II. ](/news/2005/04/6/the-college-of-cardinals-sets-april-18-as-the-date-for-a-conclave-for-a-papal-election-to-select-a-successor-to-pope-john-paul-ii.md)
 _Context: April 18, College of Cardinals, Papal conclave, 2005, Pope John Paul II, papal election_
 
-##### Afghan
+##### Afghanistan
 ### [ At least 16 people are killed in Afghanistan when a U.S. military Chinook helicopter crashes in the south-eastern province of Ghazni. ](/news/2005/04/6/at-least-16-people-are-killed-in-afghanistan-when-a-u-s-military-chinook-helicopter-crashes-in-the-south-eastern-province-of-ghazni.md)
-_Context: Afghan, CH-47 Chinook, Ghazni Province, Military of the United States, helicopter, provincial_
+_Context: Afghanistan, CH-47 Chinook, Ghazni Province, Military of the United States, helicopter, provincial_
 
 ##### Movement for Democratic Change
 ### [ The Movement for Democratic Change, the opposition party in Zimbabwe, presents 'proof of fraud' in the recent parliamentary elections that kept Robert Mugabe and the ruling Zimbabwe African National Union - Patriotic Front in office. ](/news/2005/04/6/the-movement-for-democratic-change-the-opposition-party-in-zimbabwe-presents-proof-of-fraud-in-the-recent-parliamentary-elections-that.md)

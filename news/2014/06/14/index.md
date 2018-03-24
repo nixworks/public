@@ -5,13 +5,13 @@ Formats: [HTML](2014/06/14/index.html)  [JSON](2014/06/14/index.json)  [XML](201
 
 ##### Afghan presidential election, 2014
 ### [Voters in Afghanistan go to the polls for the second round of voting with the Taliban threatening polling booths. Dozens of people are killed across the country. ](/news/2014/06/14/voters-in-afghanistan-go-to-the-polls-for-the-second-round-of-voting-with-the-taliban-threatening-polling-booths-dozens-of-people-are-kille.md)
-_Context: Afghan, Afghan presidential election, 2014, Taliban_
+_Context: Afghan presidential election, 2014, Afghanistan, Taliban_
 
 ##### Alexander Stubb
 ### [Alexander Stubb is elected new leader of the National Coalition Party and thus the new prime minister of Finland, the first Swedish-speaking Finn to hold the post since 1959. ](/news/2014/06/14/alexander-stubb-is-elected-new-leader-of-the-national-coalition-party-and-thus-the-new-prime-minister-of-finland-the-first-swedish-speaking.md)
 _Context: 1959, Alexander Stubb, National Coalition Party, Swedish-speaking Finn, prime minister of Finland_
 
-##### UK
+##### United Kingdom
 ### [The United Kingdom celebrates the Queen's Official Birthday with the Trooping of the Colour and the Birthday Honours. ](/news/2014/06/14/the-united-kingdom-celebrates-the-queen-s-official-birthday-with-the-trooping-of-the-colour-and-the-birthday-honours.md)
 More than 1,000 soldiers have paraded in front of the Queen as she celebrated her official birthday at the annual Trooping the Colour ceremony.
 

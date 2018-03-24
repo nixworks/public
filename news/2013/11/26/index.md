@@ -27,7 +27,7 @@ _Context: Downing Street, P.C., Plebgate_
 ### [Chinese police detain nine people for alleged negligence in relation to the November 22 Sinopec oil pipeline explosions in the eastern port city of Qingdao which killed at least 55 people. ](/news/2013/11/26/chinese-police-detain-nine-people-for-alleged-negligence-in-relation-to-the-november-22-sinopec-oil-pipeline-explosions-in-the-eastern-port.md)
 Chinese police have detained nine people in connection with oil pipeline explosions last week that killed 55 people in the eastern port city of Qingdao, state media reported on Tuesday.
 
-##### UK
+##### United Kingdom
 ### [Britain makes a protest to the Spanish authorities over the opening of a diplomatic bag at the border with Gibraltar on Friday 22 November 2013. ](/news/2013/11/26/britain-makes-a-protest-to-the-spanish-authorities-over-the-opening-of-a-diplomatic-bag-at-the-border-with-gibraltar-on-friday-22-november-2.md)
 Britain has protested to the Spanish authorities after police opened a diplomatic bag at the border with Gibraltar, calling it &quot;a serious infringement&quot; of the Vienna Convention on Diplomatic Relations.
 

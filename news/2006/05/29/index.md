@@ -13,7 +13,7 @@ News and opinion from The Times &amp; The Sunday Times
 
 ##### Kabul
 ### [ In Kabul, Afghanistan, thousands demonstrate against the United States after several civilians were killed in a car accident in which 3 US humvees collided with a traffic jam. ](/news/2006/05/29/in-kabul-afghanistan-thousands-demonstrate-against-the-united-states-after-several-civilians-were-killed-in-a-car-accident-in-which-3-us.md)
-_Context: Afghan, Kabul, United States_
+_Context: Afghanistan, Kabul, United States_
 
 ##### Italian municipal elections
 ### [ In the Italian municipal elections, centre-left incumbent mayors Walter Veltroni, Sergio Chiamparino and Rosa Russo Iervolino lead in Rome, Turin and Naples, respectively. In the regional election of Sicily, incumbent president Salvatore Cuffaro of the House of Freedoms leads over Rita Borsellino. ](/news/2006/05/29/in-the-italian-municipal-elections-centre-left-incumbent-mayors-walter-veltroni-sergio-chiamparino-and-rosa-russo-iervolino-lead-in-rome.md)

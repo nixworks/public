@@ -21,7 +21,7 @@ The war crimes court at The Hague found Congolese warlord Thomas Lubanga Dyilo g
 
 ##### U.S. President
 ### [The President of the United States Barack Obama and the Prime Minister of the United Kingdom David Cameron meet at the White House in Washington D.C. to discuss Afghanistan, Syria, the global economy and Iran. ](/news/2012/03/14/the-president-of-the-united-states-barack-obama-and-the-prime-minister-of-the-united-kingdom-david-cameron-meet-at-the-white-house-in-washin.md)
-_Context: Afghan, Barack Obama, David Cameron, Iran, Prime Minister, Syria, U.S. President, Washington D.C., White House_
+_Context: Afghanistan, Barack Obama, David Cameron, Iran, Prime Minister, Syria, U.S. President, Washington D.C., White House_
 
 ##### Azerbaijan
 ### [Authorities in Azerbaijan arrest 22 people for allegedly spying for Iran's Revolutionary Guards. ](/news/2012/03/14/authorities-in-azerbaijan-arrest-22-people-for-allegedly-spying-for-iran-s-revolutionary-guards.md)
@@ -43,13 +43,13 @@ _Context: Bangladesh, a ferry_
 ### [Tropical Cyclone Lua heads towards Western Australia's Pilbara region. ](/news/2012/03/14/tropical-cyclone-lua-heads-towards-western-australia-s-pilbara-region.md)
 _Context: Pilbara, Severe Tropical Cyclone Lua, Western Australia_
 
-##### UK
+##### United Kingdom
 ### [Unemployment in the United Kingdom reaches 2.67 million, the most people since 1995. ](/news/2012/03/14/unemployment-in-the-united-kingdom-reaches-2-67-million-the-most-people-since-1995.md)
-_Context: UK_
+_Context: United Kingdom_
 
-##### UK
+##### United Kingdom
 ### [The United Kingdom towns of Chelmsford, Perth and St Asaph are awarded city status to mark the Diamond Jubilee of Elizabeth II. ](/news/2012/03/14/the-united-kingdom-towns-of-chelmsford-perth-and-st-asaph-are-awarded-city-status-to-mark-the-diamond-jubilee-of-elizabeth-ii.md)
-_Context: Chelmsford, Perth, St Asaph, UK, city status, diamond jubilee_
+_Context: Chelmsford, Perth, St Asaph, United Kingdom, city status, diamond jubilee_
 
 ##### Peruvian
 ### [More than 10,000 Peruvian illegal gold miners clash with police in an attempt to gain control over the regional capital Puerto Maldonado. ](/news/2012/03/14/more-than-10-000-peruvian-illegal-gold-miners-clash-with-police-in-an-attempt-to-gain-control-over-the-regional-capital-puerto-maldonado.md)

@@ -15,7 +15,7 @@ _Context: Dubai, United Arab Emirates, oilfield_
 ### [Yahoo! sells HotJobs to Monster.com for US$225million. ](/news/2010/02/4/yahoo-sells-hotjobs-to-monster-com-for-us-225million.md)
 _Context: HotJobs, Monster.com, Yahoo!_
 
-##### Swiss
+##### Switzerland
 ### [Switzerland agrees to accept two Chinese Muslim Uyghurs from the Guantanamo Bay detention camp. ](/news/2010/02/4/switzerland-agrees-to-accept-two-chinese-muslim-uyghurs-from-the-guantanamo-bay-detention-camp.md)
 The cabinet says it will admit two Guantanamo prisoners on humanitarian grounds. The Uighurs from the Chinese province of Xinjiang ...
 

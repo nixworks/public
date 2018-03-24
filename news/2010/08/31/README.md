@@ -73,7 +73,7 @@ _Context: Bangkok, Thailand_
 
 ##### Bomb
 ### [A roadside bomb kills 4 United States troops in eastern Afghanistan. ](/news/2010/08/31/a-roadside-bomb-kills-4-united-states-troops-in-eastern-afghanistan.md)
-_Context: Afghan, United States, United States armed forces, bomb_
+_Context: Afghanistan, United States, United States armed forces, bomb_
 
 ##### Israel
 ### [4 Israelis are shot to death in an attack in the West Bank next to Kiryat Arba. ](/news/2010/08/31/4-israelis-are-shot-to-death-in-an-attack-in-the-west-bank-next-to-kiryat-arba.md)

@@ -41,7 +41,7 @@ _Context: Gaza Strip, Israel_
 
 ##### War in Afghanistan (2001-present)
 ### [ War in Afghanistan: Afghan and U.S led coalition forces kill 20 insurgents while two Afghan policeman die in a bomb attack. ](/news/2007/09/5/war-in-afghanistan-afghan-and-u-s-led-coalition-forces-kill-20-insurgents-while-two-afghan-policeman-die-in-a-bomb-attack.md)
-_Context: Afghan, United States, War in Afghanistan (2001-present)_
+_Context: Afghanistan, United States, War in Afghanistan (2001-present)_
 
 ##### Terrorism
 ### [ Three suspects arrested on terrorism charges yesterday appear before the Federal Court of Justice of Germany in Karlsruhe. ](/news/2007/09/5/three-suspects-arrested-on-terrorism-charges-yesterday-appear-before-the-federal-court-of-justice-of-germany-in-karlsruhe.md)
@@ -61,7 +61,7 @@ The event unfolded like the judicial equivalent of a bride left at the altar.The
 
 ##### Human Fertilisation and Embryology Authority
 ### [ The Human Fertilisation and Embryology Authority in the United Kingdom allows the creation of human-animal hybrid embryos for research purposes in principle. ](/news/2007/09/5/the-human-fertilisation-and-embryology-authority-in-the-united-kingdom-allows-the-creation-of-human-animal-hybrid-embryos-for-research-purp.md)
-_Context: Human Fertilisation and Embryology Authority, UK, animal, embryo, human, hybrid_
+_Context: Human Fertilisation and Embryology Authority, United Kingdom, animal, embryo, human, hybrid_
 
 ##### World Bank
 ### [ The World Bank launches its Lighting Africa initiative, aiming to provide modern lighting by renewable or mechanical means to 250 million people in sub-Saharan Africa who lack access to electricity. ](/news/2007/09/5/the-world-bank-launches-its-lighting-africa-initiative-aiming-to-provide-modern-lighting-by-renewable-or-mechanical-means-to-250-million-p.md)

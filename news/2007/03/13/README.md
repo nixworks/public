@@ -31,7 +31,7 @@ _Context: Alexander Veshnyakov, Central Election Commission, United Russia, Vlad
 
 ##### Brian David Anderson
 ### [ Spanish police arrest Brian David Anderson, a Canadian citizen, in Madrid, on behalf of the U.S. government, for allegedly engaging in fraud and funding a terrorist camp in Afghanistan. ](/news/2007/03/13/spanish-police-arrest-brian-david-anderson-a-canadian-citizen-in-madrid-on-behalf-of-the-u-s-government-for-allegedly-engaging-in-frau.md)
-_Context: Afghan, Brian David Anderson, Madrid_
+_Context: Afghanistan, Brian David Anderson, Madrid_
 
 ##### Morgan Tsvangirai
 ### [ Morgan Tsvangirai, the leader of the Movement for Democratic Change in Zimbabwe, appears in court limping and with a head wound after having been arrested on Sunday. Tsvangarai is later taken from court to a hospital under police guard. ](/news/2007/03/13/morgan-tsvangirai-the-leader-of-the-movement-for-democratic-change-in-zimbabwe-appears-in-court-limping-and-with-a-head-wound-after-havin.md)

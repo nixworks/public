@@ -17,7 +17,7 @@ _Context: England, National Health Service, major changes_
 
 ##### Social welfare
 ### [Major changes to welfare payments in the United Kingdom introduced by the Welfare Reform Act 2012 begin to go into effect. ](/news/2013/04/1/major-changes-to-welfare-payments-in-the-united-kingdom-introduced-by-the-welfare-reform-act-2012-begin-to-go-into-effect.md)
-_Context: UK, Welfare Reform Act 2012, social welfare_
+_Context: United Kingdom, Welfare Reform Act 2012, social welfare_
 
 ##### Pirate
 ### [Pirates drown 16 fishermen in southern Bangladesh in order to steal their boats. ](/news/2013/04/1/pirates-drown-16-fishermen-in-southern-bangladesh-in-order-to-steal-their-boats.md)

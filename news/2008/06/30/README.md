@@ -17,7 +17,7 @@ _Context: Ilyushin, Ilyushin Il-76, Khartoum International Airport, Russia_
 
 ##### Peru
 ### [ Peru's largest federation of mining unions commences strike action in order to pressure the Congress of Peru to pass legislation to improve labor benefits. ](/news/2008/06/30/peru-s-largest-federation-of-mining-unions-commences-strike-action-in-order-to-pressure-the-congress-of-peru-to-pass-legislation-to-improve.md)
-_Context: Congress of Peru, Peru, labour unions, mine, strike_
+_Context: Peru, Peruvian Congress, labour unions, mine, strike_
 
 ##### African Union
 ### [ The African Union meets at Sharm el-Sheikh in Egypt with Robert Mugabe recently reelected as President of Zimbabwe representing Zimbabwe. ](/news/2008/06/30/the-african-union-meets-at-sharm-el-sheikh-in-egypt-with-robert-mugabe-recently-reelected-as-president-of-zimbabwe-representing-zimbabwe.md)

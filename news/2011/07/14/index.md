@@ -97,7 +97,7 @@ _Context: Abyan Governorate, Yemen_
 
 ##### Suicide bombing
 ### [A suicide bombing at a mosque in Kandahar, Afghanistan, kills four people and injures 11 including the head of the provincial religious council while they were praying for Ahmed Wali Karzai. ](/news/2011/07/14/a-suicide-bombing-at-a-mosque-in-kandahar-afghanistan-kills-four-people-and-injures-11-including-the-head-of-the-provincial-religious-coun.md)
-_Context: Afghan, Ahmed Wali Karzai, Kandahar, suicide bombing_
+_Context: Afghanistan, Ahmed Wali Karzai, Kandahar, suicide bombing_
 
 ##### 2011 Syrian uprising
 ### [2011 Syrian uprising: Several deaths are reported as a security crackdown continues against anti-government protests in Syria. ](/news/2011/07/14/2011-syrian-uprising-several-deaths-are-reported-as-a-security-crackdown-continues-against-anti-government-protests-in-syria.md)

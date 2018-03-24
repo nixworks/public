@@ -3,9 +3,9 @@ Formats: [HTML](2006/08/29/index.html)  [JSON](2006/08/29/index.json)  [XML](200
 
 ## [2006-08-29](/news/2006/08/29/index.md)
 
-##### UK
+##### United Kingdom
 ### [ British rail company South West Trains begin a series of one-day strikes over claims that unqualified company managers were allowed to drive trains.](/news/2006/08/29/british-rail-company-south-west-trains-begin-a-series-of-one-day-strikes-over-claims-that-unqualified-company-managers-were-allowed-to-driv.md)
-_Context: South West Trains, UK_
+_Context: South West Trains, United Kingdom_
 
 ##### Shiite
 ### [ Conflict between Shiite militia and the Iraqi military in southern city of Diwaniyah leaves at least 19 dead. ](/news/2006/08/29/conflict-between-shiite-militia-and-the-iraqi-military-in-southern-city-of-diwaniyah-leaves-at-least-19-dead.md)

@@ -25,7 +25,7 @@ Three Kurdish activists - among them a co-founder of the militant PKK group - ar
 
 ##### 2013 Neuhausen am Rheinfall train collision
 ### [2013 Neuhausen am Rheinfall train collision: Two trains collide and derail in Neuhausen am Rheinfall, Switzerland, injuring 17 people. ](/news/2013/01/10/2013-neuhausen-am-rheinfall-train-collision-two-trains-collide-and-derail-in-neuhausen-am-rheinfall-switzerland-injuring-17-people.md)
-_Context: 2013 Neuhausen am Rheinfall train collision, Neuhausen am Rheinfall, Swiss_
+_Context: 2013 Neuhausen am Rheinfall train collision, Neuhausen am Rheinfall, Switzerland_
 
 ##### Konna
 ### [Islamists capture the town of Konna, previously held by the Malian army. ](/news/2013/01/10/islamists-capture-the-town-of-konna-previously-held-by-the-malian-army.md)

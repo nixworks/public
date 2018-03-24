@@ -27,9 +27,9 @@ The Finnish parliament approves constructing two nuclear power stations in a bid
 ### [Pierre Nkurunziza, the incumbent President of Burundi and sole candidate in the presidential election, is re-elected with more than 91% of the votes. ](/news/2010/07/1/pierre-nkurunziza-the-incumbent-president-of-burundi-and-sole-candidate-in-the-presidential-election-is-re-elected-with-more-than-91-of-t.md)
 _Context: Burundi, Pierre Nkurunziza, President, presidential election_
 
-##### UK
+##### United Kingdom
 ### [The United Kingdom's Forced Marriage Unit (FMU) reports there has been a surge in cases of gay and bisexual men in some communities being forced to marry by their families. ](/news/2010/07/1/the-united-kingdom-s-forced-marriage-unit-fmu-reports-there-has-been-a-surge-in-cases-of-gay-and-bisexual-men-in-some-communities-being-fo.md)
-_Context: UK_
+_Context: United Kingdom_
 
 ##### 
 ### [The United States Government actively seizes the domains of 7 U.S. based ](/news/2010/07/1/the-united-states-government-actively-seizes-the-domains-of-7-u-s-based.md)

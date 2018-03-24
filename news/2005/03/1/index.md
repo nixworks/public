@@ -29,7 +29,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Greenpeace India's
 ### [ Greenpeace in Switzerland accuses three chemical firms based in Basel of failing to clean up toxic waste ](/news/2005/03/1/greenpeace-in-switzerland-accuses-three-chemical-firms-based-in-basel-of-failing-to-clean-up-toxic-waste.md)
-_Context: Basel, Greenpeace India's, Swiss, toxic waste_
+_Context: Basel, Greenpeace India's, Switzerland, toxic waste_
 
 ##### David Crane
 ### [ David Crane, the chief prosecutor of Sierra Leone's war crimes tribunal, will step down in July after three years ](/news/2005/03/1/david-crane-the-chief-prosecutor-of-sierra-leone-s-war-crimes-tribunal-will-step-down-in-july-after-three-years.md)
@@ -71,7 +71,7 @@ _Context: Burundi, civil war, constitution, referendum_
 ### [ In Bangladesh, 15 suspected radical leaders of Islamic groups are charged with sedition ](/news/2005/03/1/in-bangladesh-15-suspected-radical-leaders-of-islamic-groups-are-charged-with-sedition.md)
 _Context: Bangladesh, sedition_
 
-##### Afghan
+##### Afghanistan
 ### [ In Afghanistan, president Hamid Karzai appoints Abdul Rashid Dostum as his chief-of-staff. Dostum has been accused of involvement in human rights abuses. ](/news/2005/03/1/in-afghanistan-president-hamid-karzai-appoints-abdul-rashid-dostum-as-his-chief-of-staff-dostum-has-been-accused-of-involvement-in-human.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 

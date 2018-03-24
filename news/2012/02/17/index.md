@@ -11,7 +11,7 @@ _Context: Bashar Assad's, Government of Syria, Senator_
 ### [Christian Wulff, the President of Germany, resigns over a corruption scandal. ](/news/2012/02/17/christian-wulff-the-president-of-germany-resigns-over-a-corruption-scandal.md)
 German President Christian Wulff announces his resignation, after prosecutors called for his immunity to be lifted over corruption allegations.
 
-##### UK
+##### United Kingdom
 ### [The United Kingdom and France sign a deal to improve cooperation on nuclear energy. ](/news/2012/02/17/the-united-kingdom-and-france-sign-a-deal-to-improve-cooperation-on-nuclear-energy.md)
 The UK signs a deal with France to strengthen co-operation on civil nuclear energy as a Franco-British summit is held in Paris.
 

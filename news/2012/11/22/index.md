@@ -11,11 +11,11 @@ First look at Kuiper Belt object also reveals no shroud of gases
 ### [Sandy Island, a South Pacific island, shown on marine charts and world maps as well as on Google Earth, does not exist, Australian scientists say. ](/news/2012/11/22/sandy-island-a-south-pacific-island-shown-on-marine-charts-and-world-maps-as-well-as-on-google-earth-does-not-exist-australian-scientist.md)
 A South Pacific island shown on marine charts and world maps as well as on Google Maps and on Google Earth, is proven not to exist, Australian scientists say.
 
-##### UK
+##### United Kingdom
 ### [The United Kingdom's Lord Chancellor Chris Grayling tells the House of Commons that a European Court of Human Rights ruling on prisoner votes can be defied. ](/news/2012/11/22/the-united-kingdom-s-lord-chancellor-chris-grayling-tells-the-house-of-commons-that-a-european-court-of-human-rights-ruling-on-prisoner-vote.md)
 The government unveils plans which could allow some prisoners to vote - but tells MPs they can vote to defy a European ruling and keep the current ban.
 
-##### Afghan
+##### Afghanistan
 ### [Afghanistan is set to remove a block placed on YouTube more than two months ago over a controversial anti-Islamic video "Innocence of Muslims". ](/news/2012/11/22/afghanistan-is-set-to-remove-a-block-placed-on-youtube-more-than-two-months-ago-over-a-controversial-anti-islamic-video-innocence-of-muslim.md)
 KABUL (PAN) Afghanistan is set to lift a block placed on Youtube more than two months ago over a controversial anti-I 
 
@@ -47,7 +47,7 @@ _Context: Busan, South Korea, subway train_
 ### [The European Commission gives its backing to commodities giant Glencore's $31 billion (GBP19.5 billion) bid to take over mining company Xstrata. ](/news/2012/11/22/the-european-commission-gives-its-backing-to-commodities-giant-glencore-s-31-billion-agbp19-5-billion-bid-to-take-over-mining-company-xst.md)
 _Context: European Commission, Glencore, Xstrata, mining company_
 
-##### UK
+##### United Kingdom
 ### [Russia lifts a 16-year ban on the import of British beef and lamb. British farmers had been stopped from exporting to Russia following the 1996 BSE outbreak in the UK, despite the lifting of a worldwide ban in 2006. ](/news/2012/11/22/russia-lifts-a-16-year-ban-on-the-import-of-british-beef-and-lamb-british-farmers-had-been-stopped-from-exporting-to-russia-following-the-1.md)
 A 16-year-old Russian ban on importing British beef and lamb is to be lifted.
 

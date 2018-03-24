@@ -45,7 +45,7 @@ Canadians in provinces that use daylight saving time during the summer months wi
 
 ##### Nigeria
 ### [Nigerian militants belonging to Ansar al-Muslimeen claim responsibility to kidnapping and killing Italian, Greek, and British construction workers in Northern Nigeria. ](/news/2013/03/10/nigerian-militants-belonging-to-ansar-al-muslimeen-claim-responsibility-to-kidnapping-and-killing-italian-greek-and-british-construction-w.md)
-_Context: Ansaru, Greece, Italy, Nigeria, Northern Nigeria, UK_
+_Context: Ansaru, Greece, Italy, Nigeria, Northern Nigeria, United Kingdom_
 
 ##### Christian
 ### [Hundreds of Christian protestors clash with police across Pakistan after the burning of Christian houses in Lahore. ](/news/2013/03/10/hundreds-of-christian-protestors-clash-with-police-across-pakistan-after-the-burning-of-christian-houses-in-lahore.md)
@@ -53,7 +53,7 @@ _Context: Christian, Christian, Lahore, Pakistan_
 
 ##### Afghan President
 ### [President of Afghanistan Hamid Karzai alleges that the U.S. armed forces are collaborating in some way with the Afghan Taliban in an effort to ensure that some troops remain after the scheduled 2014 pullout. ](/news/2013/03/10/president-of-afghanistan-hamid-karzai-alleges-that-the-u-s-armed-forces-are-collaborating-in-some-way-with-the-afghan-taliban-in-an-effort.md)
-_Context: Afghan, Afghan President, Afghan Taliban, Hamid Karzai, U.S. withdrawal, United States, United States military personnel_
+_Context: Afghan President, Afghan Taliban, Afghanistan, Hamid Karzai, U.S. withdrawal, United States, United States military personnel_
 
 ## [Previous Day...](/news/2013/03/9/index.md)
 

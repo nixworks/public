@@ -21,7 +21,7 @@ _Context: Africa, Asia, FLAG, Internet, SEA-ME-WE 4_
 
 ##### Suicide bomber
 ### [ A suicide bomber at a mosque in Lashkar Gah, Afghanistan kills the deputy governor of Helmand Province, Pir Mohammad, and five others. ](/news/2008/01/31/a-suicide-bomber-at-a-mosque-in-lashkar-gah-afghanistan-kills-the-deputy-governor-of-helmand-province-pir-mohammad-and-five-others.md)
-_Context: Afghan, Helmand Province, Lashkar Gah, mosque, suicide bomber_
+_Context: Afghanistan, Helmand Province, Lashkar Gah, mosque, suicide bomber_
 
 ## [Previous Day...](/news/2008/01/30/index.md)
 

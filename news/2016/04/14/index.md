@@ -49,7 +49,7 @@ In separate incident, two 12-year-old Palestinian kids arrested with knives in J
 
 ##### War in Afghanistan (2015-present)
 ### [Taliban militants kill eight people, including a police commander, in an ambush in northern Afghanistan. ](/news/2016/04/14/taliban-militants-kill-eight-people-including-a-police-commander-in-an-ambush-in-northern-afghanistan.md)
-_Context: Afghan, Taliban, War in Afghanistan (2015-present), police_
+_Context: Afghanistan, Taliban, War in Afghanistan (2015-present), police_
 
 ## [Previous Day...](/news/2016/04/13/index.md)
 

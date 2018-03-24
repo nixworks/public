@@ -29,7 +29,7 @@ A summit of Park Geun-hye and Prime Minister Shinzo Abe of Japan would be welcom
 
 ##### Russia
 ### [Russia and other ex-Soviet states meeting in Kazakhstan agree to set up a joint task force to tackle instability on their borders, most notably from Afghanistan. ](/news/2015/10/16/russia-and-other-ex-soviet-states-meeting-in-kazakhstan-agree-to-set-up-a-joint-task-force-to-tackle-instability-on-their-borders-most-nota.md)
-_Context: Afghan, Kazakhstan, Russia_
+_Context: Afghanistan, Kazakhstan, Russia_
 
 ##### Refugee immigration to Germany
 ### [The European Union and Turkey reach an agreement for Turkey to stem the flow of migrants into Europe in return for a GBP3bn aid package, easier visa conditions and re-energised talks to join the bloc. ](/news/2015/10/16/the-european-union-and-turkey-reach-an-agreement-for-turkey-to-stem-the-flow-of-migrants-into-europe-in-return-for-a-agbp3bn-aid-package-ea.md)

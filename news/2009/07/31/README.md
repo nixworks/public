@@ -23,7 +23,7 @@ _Context: Newcastle upon Tyne, plagiarising, sperm_
 ### [ Filmmaker Benicio del Toro is presented with the International Tomas Gutierrez Alea Prize by the Cuban government in Havana. ](/news/2009/07/31/filmmaker-benicio-del-toro-is-presented-with-the-international-toma-s-gutia-c-rrez-alea-prize-by-the-cuban-government-in-havana.md)
 _Context: Benicio del Toro, Cuba, Cuba - United States relations, Havana, International Tomas Gutierrez Alea Prize, government_
 
-##### UK
+##### United Kingdom
 ### [ Briton Gary McKinnon, accused of carrying out the biggest ever U.S. military hacking operation, loses his court appeal to have his case heard in Britain, and faces extradition to the United States. ](/news/2009/07/31/briton-gary-mckinnon-accused-of-carrying-out-the-biggest-ever-u-s-military-hacking-operation-loses-his-court-appeal-to-have-his-case-hea.md)
 The British High Court has ruled against a last-ditch bid by Gary McKinnon to avoid extradition to the US where he faces trial for hacking into military networks.
 

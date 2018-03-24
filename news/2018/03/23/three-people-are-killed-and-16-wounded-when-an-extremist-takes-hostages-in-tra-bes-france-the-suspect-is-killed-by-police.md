@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/23/three-people-are-killed-and-16-wounded-when-an-
 
 ### [2018-03-23](/news/2018/03/23/index.md)
 
-##### Trebes hostage crisis
+##### Carcassonne and Trebes attack
 # Three people are killed and 16 wounded when an extremist takes hostages in Trebes, France. The suspect is killed by police. 
 
 The gunman in a supermarket is reported to have claimed allegiance to the Islamic State group.

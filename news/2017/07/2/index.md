@@ -27,7 +27,7 @@ Russian officials say at least 14 people have been killed after a bus caught fir
 ### [The Central Bank of Syria announces a new 2,000 Syrian lira (pound) bank note that will feature a portrait of President Bashar al-Assad, the President's first appearance on Syrian currency during his 17-years in office. ](/news/2017/07/2/the-central-bank-of-syria-announces-a-new-2-000-syrian-lira-pound-bank-note-that-will-feature-a-portrait-of-president-bashar-al-assad-the.md)
 _Context: Bashar al-Assad, Central Bank of Syria, People on banknotes, President, Syrian lira (pound)_
 
-##### UK
+##### United Kingdom
 ### [The United Kingdom announces it is withdrawing from the 1964 London Fisheries Convention, which allows several European countries to fish within 6 to 12 nautical miles of each other's coastlines. ](/news/2017/07/2/the-united-kingdom-announces-it-is-withdrawing-from-the-1964-london-fisheries-convention-which-allows-several-european-countries-to-fish-wi.md)
 Ministers say ending the arrangement will help the UK take back control of access to its waters.
 

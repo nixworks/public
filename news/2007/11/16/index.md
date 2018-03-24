@@ -9,7 +9,7 @@ _Context: John Kerry, Swift Boat challenge, T. Boone Pickens_
 
 ##### Russia
 ### [ Former Russian frogman Eduard Koltsov claims he killed British diver Lionel Crabb while he was spying on a Soviet warship in 1956. ](/news/2007/11/16/former-russian-frogman-eduard-koltsov-claims-he-killed-british-diver-lionel-crabb-while-he-was-spying-on-a-soviet-warship-in-1956.md)
-_Context: Eduard Koltsov, Lionel Crabb, Russia, Soviet, UK, diver, espionage, frogman, warship_
+_Context: Eduard Koltsov, Lionel Crabb, Russia, Soviet, United Kingdom, diver, espionage, frogman, warship_
 
 ##### Cyclone Sidr
 ### [ The death toll from Cyclone Sidr increases to 242 as the storm weakens and passes through the Bangladeshi capital Dhaka. ](/news/2007/11/16/the-death-toll-from-cyclone-sidr-increases-to-242-as-the-storm-weakens-and-passes-through-the-bangladeshi-capital-dhaka.md)

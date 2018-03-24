@@ -9,7 +9,7 @@ _Context: Chinese, Jiamusi, Yang Chunlin_
 
 ##### Suicide bombing
 ### [ A suicide bombing targeting a Canadian military convoy kills at least 37 Afghan civilians and injures three Canadian soldiers in Spin Boldak, Afghanistan. ](/news/2008/02/18/a-suicide-bombing-targeting-a-canadian-military-convoy-kills-at-least-37-afghan-civilians-and-injures-three-canadian-soldiers-in-spin-bolda.md)
-_Context: Afghan, Canada, Canadian Armed Forces, Spin Boldak, suicide bombing_
+_Context: Afghanistan, Canada, Canadian Armed Forces, Spin Boldak, suicide bombing_
 
 ##### Cluster bombs
 ### [ An international conference aiming to ban the use of cluster bombs opens in Wellington, New Zealand. ](/news/2008/02/18/an-international-conference-aiming-to-ban-the-use-of-cluster-bombs-opens-in-wellington-new-zealand.md)

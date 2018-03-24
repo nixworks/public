@@ -25,7 +25,7 @@ _Context: IAEA, Iran, United Nations, nuclear programme_
 
 ##### Kuwait
 ### [ The Kuwaiti newspaper "A-Siasa" reports that Palestinian and international terrorist organizations have decided at a recent Beirut conference to launch a wave of terror attacks against Israeli and Jewish interests worldwide. According to the report, there will also be similar attacks against coalition troops in Iraq and Afghanistan. The conference, which took place at the start of February, was also said to have been attended by senior members of the Syrian, Lebanese and Iranian intelligence services who presented a list of Israeli intelligence officials to be assassinated. Organizations in attendance included: Al-Qaeda, Ansar al-Islam, Hezbollah, Hamas, Islamic Jihad. ](/news/2004/02/19/the-kuwaiti-newspaper-a-siasa-reports-that-palestinian-and-international-terrorist-organizations-have-decided-at-a-recent-beirut-conferen.md)
-_Context: Afghan, Ansar al-Islam, Beirut, Hamas, Hamas, Hezbollah, Iran, Iraq, Israel, Kuwait, Lebanese, Palestinian, Syria, al-Qaeda, assassinate, terrorism_
+_Context: Afghanistan, Ansar al-Islam, Beirut, Hamas, Hamas, Hezbollah, Iran, Iraq, Israel, Kuwait, Lebanese, Palestinian, Syria, al-Qaeda, assassinate, terrorism_
 
 ##### Shargh
 ### [ Reformist newspapers "Shargh" and "Yas-e-no" are shut down by the Iranian judiciary, only one day before the parliament elections.](/news/2004/02/19/reformist-newspapers-shargh-and-yas-e-no-are-shut-down-by-the-iranian-judiciary-only-one-day-before-the-parliament-elections.md)

@@ -27,9 +27,9 @@ _Context: 2003 invasion of Iraq, Congressman, George W. Bush, War in Afghanistan
 ### [ Bill Gates donates $750 million through the Bill & Melinda Gates Foundation to the Global Alliance for Vaccines and Immunisation, to provide vaccines to children in poor countries. This is one of the largest philanthropic donations ever made by a living donor. ](/news/2005/01/25/bill-gates-donates-750-million-through-the-bill-melinda-gates-foundation-to-the-global-alliance-for-vaccines-and-immunisation-to-provid.md)
 _Context: Bill & Melinda Gates Foundation, Bill Gates, million_
 
-##### UK
+##### United Kingdom
 ### [ After being incarcerated without trial for almost three years, the four remaining British detainees at Guantanamo Bay, Moazzam Begg, Feroz Abbasi, Martin Mubanga and Richard Belmar, are released and flown back to the United Kingdom, where they are immediately arrested by British police. ](/news/2005/01/25/after-being-incarcerated-without-trial-for-almost-three-years-the-four-remaining-british-detainees-at-guantanamo-bay-moazzam-begg-feroz.md)
-_Context: Feroz Abbasi, Martin Mubanga, Moazzam Begg, Richard Belmar, UK_
+_Context: Feroz Abbasi, Martin Mubanga, Moazzam Begg, Richard Belmar, United Kingdom_
 
 ##### 77<sup>th</sup> Academy Awards
 ### [ The nominees for the 77 th Academy Awards are announced, with "The Aviator" and "Finding Neverland" leading with 11 and 7 nominations respectively. ](/news/2005/01/25/the-nominees-for-the-77-th-academy-awards-are-announced-with-the-aviator-and-finding-neverland-leading-with-11-and-7-nominations-respe.md)

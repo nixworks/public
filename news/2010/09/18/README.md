@@ -23,7 +23,7 @@ _Context: Pope Benedict XVI, Roman Catholic Church, sexual abuse_
 ### [Voters in Slovakia go to the polls to vote on a referendum to reduce the size of the National Council of the Slovak Republic and cut political perks amongst other things. ](/news/2010/09/18/voters-in-slovakia-go-to-the-polls-to-vote-on-a-referendum-to-reduce-the-size-of-the-national-council-of-the-slovak-republic-and-cut-politic.md)
 _Context: National Council of the Slovak Republic, Slovakia, a referendum_
 
-##### Afghan
+##### Afghanistan
 ### [Voters in Afghanistan go to the polls braving threats from the Taliban with voter turnout calculated at 40 per cent. ](/news/2010/09/18/voters-in-afghanistan-go-to-the-polls-braving-threats-from-the-taliban-with-voter-turnout-calculated-at-40-per-cent.md)
 Afghan officials hail a parliamentary vote as a success despite low turnout, attacks that killed 14 people and widespread fraud.
 
@@ -59,9 +59,9 @@ _Context:  United States treasury debt, Chinese_
 ### [Chileans celebrate the 200th anniversary of Chilean Independence Day as do the 33 miners trapped underground in the 2010 Copiap mining accident. ](/news/2010/09/18/chileans-celebrate-the-200th-anniversary-of-chilean-independence-day-as-do-the-33-miners-trapped-underground-in-the-2010-copiapo-mining-acci.md)
 _Context: 200th anniversary, 2010 Copiap mining accident, Chile, Chilean Independence Day_
 
-##### UK
+##### United Kingdom
 ### [British pop star George Michael is transferred from Pentonville Prison to Highpoint Prison in Suffolk, England, to serve out the remaining weeks of his sentence for driving under the influence of cannabis. ](/news/2010/09/18/british-pop-star-george-michael-is-transferred-from-pentonville-prison-to-highpoint-prison-in-suffolk-england-to-serve-out-the-remaining-w.md)
-_Context: England, George Michael, Highpoint Prison, Pentonville Prison, Suffolk, UK, cannabis, driving under the influence_
+_Context: England, George Michael, Highpoint Prison, Pentonville Prison, Suffolk, United Kingdom, cannabis, driving under the influence_
 
 ##### Mauritanian
 ### [A dozen people are reported dead during clashes between Mauritanian troops and al-Qaeda militants in Mali's Sahara. ](/news/2010/09/18/a-dozen-people-are-reported-dead-during-clashes-between-mauritanian-troops-and-al-qaeda-militants-in-mali-s-sahara.md)

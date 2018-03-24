@@ -67,13 +67,13 @@ _Context: Brazil, the recent floods and landslides in Rio de Janeiro state_
 ### [A 7.2 magnitude earthquake hits Pakistan with an epicentre 50 kilometres west of the town of Dalbandin. ](/news/2011/01/19/a-7-2-magnitude-earthquake-hits-pakistan-with-an-epicentre-50-kilometres-west-of-the-town-of-dalbandin.md)
 A powerful earthquake hit southwest Pakistan on Wednesday, geologists said, but there were no immediate reports of casualties.
 
-##### Boeing Company
+##### Boeing
 ### [China and the United States sign a $45 billion export deal, including 200 Boeing airplanes. ](/news/2011/01/19/china-and-the-united-states-sign-a-45-billion-export-deal-including-200-boeing-airplanes.md)
 China and the US sign a trade deal that includes the $19bn purchase of 200 Boeing aircraft according to a US official.
 
 ##### Suicide bomber
 ### [A suicide bomber kills at least 13 civilians in Afghanistan's Paktika Province. ](/news/2011/01/19/a-suicide-bomber-kills-at-least-13-civilians-in-afghanistan-s-paktika-province.md)
-_Context: Afghan, Paktika Province, suicide bomber_
+_Context: Afghanistan, Paktika Province, suicide bomber_
 
 ##### Suicide bomber
 ### [A suicide bomber driving an ambulance kills at least 12 people and injures another 50 in Iraq's Diyala Governorate. ](/news/2011/01/19/a-suicide-bomber-driving-an-ambulance-kills-at-least-12-people-and-injures-another-50-in-iraq-s-diyala-governorate.md)

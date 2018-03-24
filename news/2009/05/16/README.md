@@ -15,9 +15,9 @@ Thousands of German workers marched through Berlin today to demand the governmen
 ### [ An acid attack injures 30 people in Hong Kong, People's Republic of China. ](/news/2009/05/16/an-acid-attack-injures-30-people-in-hong-kong-people-s-republic-of-china.md)
 _Context: China, Hong Kong, acid, acid attack, acid attack_
 
-##### UK
+##### United Kingdom
 ### [ The United Kingdom's Royal Air Force ends its involvement in Iraq. ](/news/2009/05/16/the-united-kingdom-s-royal-air-force-ends-its-involvement-in-iraq.md)
-_Context: Iraq, Royal Air Force, UK_
+_Context: Iraq, Royal Air Force, United Kingdom_
 
 ##### President of Sri Lanka
 ### [ President Mahinda Rajapaksa says that Sri Lanka has "militarily defeated the Tamil Tigers". ](/news/2009/05/16/president-mahinda-rajapaksa-says-that-sri-lanka-has-militarily-defeated-the-tamil-tigers.md)

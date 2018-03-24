@@ -41,7 +41,7 @@ _Context: Harley-Davidson, Menomonee Falls, Wisconsin_
 
 ##### Basel Committee on Banking Supervision
 ### [The Basel Committee on Banking Supervision based in Basel, Switzerland, increases capital requirements for banks around the world to be introduced on 1 January 2015. ](/news/2010/09/13/the-basel-committee-on-banking-supervision-based-in-basel-switzerland-increases-capital-requirements-for-banks-around-the-world-to-be-intr.md)
-_Context: Basel, Basel Committee on Banking Supervision, Swiss, bank_
+_Context: Basel, Basel Committee on Banking Supervision, Switzerland, bank_
 
 ##### Cuba
 ### [Cuba announces plans to cut up to half a million public sector jobs to revive the island's economy, in the biggest private sector shift since the 1959 revolution. ](/news/2010/09/13/cuba-announces-plans-to-cut-up-to-half-a-million-public-sector-jobs-to-revive-the-island-s-economy-in-the-biggest-private-sector-shift-sinc.md)

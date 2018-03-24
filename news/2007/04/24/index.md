@@ -53,7 +53,7 @@ _Context: Eagle Pass, Texas, Piedras Negras, Coahuila, U.S.-Mexico border, storm
 
 ##### Kevin Tillman
 ### [ Kevin Tillman, brother of former American football player Pat Tillman, who was killed by friendly fire in Afghanistan, accuses the U.S. military of manipulating his death during testimony to the U.S. Congress. ](/news/2007/04/24/kevin-tillman-brother-of-former-american-football-player-pat-tillman-who-was-killed-by-friendly-fire-in-afghanistan-accuses-the-u-s-mil.md)
-_Context: Afghan, American football, Kevin Tillman, Pat Tillman, U.S. Congress, U.S. military, friendly fire, testimony_
+_Context: Afghanistan, American football, Kevin Tillman, Pat Tillman, U.S. Congress, U.S. military, friendly fire, testimony_
 
 ## [Previous Day...](/news/2007/04/23/index.md)
 

@@ -53,7 +53,7 @@ _Context: Health Ministry, Nicaragua, leptospirosis_
 
 ##### Gotthard Base Tunnel
 ### [The Gotthard Base Tunnel in the Swiss Alps becomes the world's longest railway tunnel, as final breakthrough occurs on the east bore. ](/news/2010/10/15/the-gotthard-base-tunnel-in-the-swiss-alps-becomes-the-world-s-longest-railway-tunnel-as-final-breakthrough-occurs-on-the-east-bore.md)
-_Context: Alps, Gotthard Base Tunnel, Swiss, railway tunnel_
+_Context: Alps, Gotthard Base Tunnel, Switzerland, railway tunnel_
 
 ##### Reckitt Benckiser
 ### [United Kingdom consumer goods company Reckitt Benckiser agrees to pay a fine of GBP10.2 million for abusing its market position for Gaviscon in the United Kingdom. ](/news/2010/10/15/united-kingdom-consumer-goods-company-reckitt-benckiser-agrees-to-pay-a-fine-of-agbp10-2-million-for-abusing-its-market-position-for-gavisco.md)
@@ -81,11 +81,11 @@ _Context: England, G4S, Jimmy Mubenga_
 
 ##### United States soldier
 ### [A United States Army soldier from 5th Stryker Brigade Combat Team is to face a court martial on murder and other charges related to the deaths of civilians in Afghanistan. ](/news/2010/10/15/a-united-states-army-soldier-from-5th-stryker-brigade-combat-team-is-to-face-a-court-martial-on-murder-and-other-charges-related-to-the-deat.md)
-_Context: 5th Stryker Brigade Combat Team, Afghan, United States soldier, court martial_
+_Context: 5th Stryker Brigade Combat Team, Afghanistan, United States soldier, court martial_
 
-##### UK
+##### United Kingdom
 ### [Gunmen abduct British and local Save the Children aid workers from a compound in western Somalia. ](/news/2010/10/15/gunmen-abduct-british-and-local-save-the-children-aid-workers-from-a-compound-in-western-somalia.md)
-_Context: Save the Children, Somali, UK_
+_Context: Save the Children, Somali, United Kingdom_
 
 ##### United Nations
 ### [United Nations envoy Margot Wallstrom says Congolese government troops may have committed rape and murder in the Democratic Republic of the Congo weeks after similar attacks by rebels. ](/news/2010/10/15/united-nations-envoy-margot-wallstrapm-says-congolese-government-troops-may-have-committed-rape-and-murder-in-the-democratic-republic-of-the.md)

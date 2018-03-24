@@ -3,9 +3,9 @@ Formats: [HTML](2011/12/4/index.html)  [JSON](2011/12/4/index.json)  [XML](2011/
 
 ## [2011-12-4](/news/2011/12/4/index.md)
 
-##### Peruvian President
+##### President
 ### [The President of Peru Ollanta Humala declares a state of emergency in the Cajamarca region to stop anti-mining protests. ](/news/2011/12/4/the-president-of-peru-ollanta-humala-declares-a-state-of-emergency-in-the-cajamarca-region-to-stop-anti-mining-protests.md)
-_Context: Cajamarca, Ollanta Humala, Peruvian President, states of emergency_
+_Context: Cajamarca, Ollanta Humala, President, states of emergency_
 
 ##### Islamists
 ### [Islamist parties win the first stage of the Egyptian parliamentary election, with the Muslim Brotherhood-aligned Freedom and Justice Party first at 37% of the vote, and the more hardline Salafi Al Nour Party in second place with 24% of the vote. ](/news/2011/12/4/islamist-parties-win-the-first-stage-of-the-egyptian-parliamentary-election-with-the-muslim-brotherhood-aligned-freedom-and-justice-party-f.md)

@@ -85,7 +85,7 @@ _Context: Alabama, CIA, United States, hacker group Anonymous_
 
 ##### United States Secretary of Defense
 ### [The United States Secretary of Defense Leon Panetta tells the Marine Corps to re-investigate and take appropriate action against snipers who posed with a logo resembling that of the Nazi Schutzstaffel in Afghanistan. ](/news/2012/02/10/the-united-states-secretary-of-defense-leon-panetta-tells-the-marine-corps-to-re-investigate-and-take-appropriate-action-against-snipers-who.md)
-_Context: Afghan, Leon Panetta, Marine, Nazi, Schutzstaffel, United States Secretary of Defense, sniper_
+_Context: Afghanistan, Leon Panetta, Marine, Nazi, Schutzstaffel, United States Secretary of Defense, sniper_
 
 ##### Somaliland
 ### [Secessionists battle with forces from Somaliland near the border with Puntland in northern Somalia. ](/news/2012/02/10/secessionists-battle-with-forces-from-somaliland-near-the-border-with-puntland-in-northern-somalia.md)

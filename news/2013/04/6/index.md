@@ -19,9 +19,9 @@ Hundreds of thousands of marchers call for law that would include death penalty 
 ### [Former South African president Nelson Mandela is discharged after spending nine days in hospital. ](/news/2013/04/6/former-south-african-president-nelson-mandela-is-discharged-after-spending-nine-days-in-hospital.md)
 Former president Nelson Mandela has been discharged after spending nine days in hospital for treatment for pneumonia, the presidency says. 
 
-##### UK
+##### United Kingdom
 ### [A 24-year-old British tourist is found dead in a houseboat in Jammu and Kashmir, India. ](/news/2013/04/6/a-24-year-old-british-tourist-is-found-dead-in-a-houseboat-in-jammu-and-kashmir-india.md)
-_Context: India, Jammu and Kashmir, UK, houseboat_
+_Context: India, Jammu and Kashmir, United Kingdom, houseboat_
 
 ##### Muslims
 ### [Five people are killed in clashes between Muslims and Christians on the outskirts of Cairo, Egypt. ](/news/2013/04/6/five-people-are-killed-in-clashes-between-muslims-and-christians-on-the-outskirts-of-cairo-egypt.md)
@@ -45,7 +45,7 @@ A Mali government spokesman says clashes between national soldiers and armed pol
 
 ##### Qalat
 ### [A bombing in Qalat, capital of the southern Zabul Province, kills three U.S. soldiers and two U.S. civilians, along with an Afghan doctor. An American civilian dies in another attack in the east of the country. ](/news/2013/04/6/a-bombing-in-qalat-capital-of-the-southern-zabul-province-kills-three-u-s-soldiers-and-two-u-s-civilians-along-with-an-afghan-doctor-a.md)
-_Context: Afghan, Qalat, U.S., Zabul Province_
+_Context: Afghanistan, Qalat, U.S., Zabul Province_
 
 ##### Machete
 ### [11 people are killed in a gun and machete attack in a village of Midlu in Northern Nigeria. ](/news/2013/04/6/11-people-are-killed-in-a-gun-and-machete-attack-in-a-village-of-midlu-in-northern-nigeria.md)

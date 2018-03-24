@@ -23,7 +23,7 @@ _Context: Hakainde Hichilema, Zambia, treason_
 ### [Democratic candidates face off with Republican candidates in a primary for a U.S. House seat vacated by Tom Price, now Health and Human Services Secretary, in a suburb of Atlanta, Georgia. ](/news/2017/04/18/democratic-candidates-face-off-with-republican-candidates-in-a-primary-for-a-u-s-house-seat-vacated-by-tom-price-now-health-and-human-serv.md)
  Democrat Jon Ossoff is making a final push to try to win Tuesday&#039;s special election to represent a suburban Atlanta district, though he&#039;s tempering expectations in case he falls short of the majority of the vote he needs to avoid a runoff. &quot;I think I can win, but whether I do is up t...
 
-##### UK
+##### United Kingdom
 ### [British Prime Minister Theresa May proposes that a snap election for the House of Commons will be held on the 8th of June. A two-thirds majority of the House of Commons is needed to approve this, eventually tomorrow. The Labour and Liberal Democrats party leaders have expressed their support. ](/news/2017/04/18/british-prime-minister-theresa-may-proposes-that-a-snap-election-for-the-house-of-commons-will-be-held-on-the-8th-of-june-a-two-thirds-majo.md)
 UK PM Theresa May announces plan to call snap general election on 8 June
 
@@ -65,7 +65,7 @@ A POLICE helicopter carrying 12 people has crashed killing everyone on board.
 
 ##### United States
 ### [American consumer goods company Post Holdings agrees to acquire British cereal maker Weetabix Limited from China's Bright Food for $1.8 billion. ](/news/2017/04/18/american-consumer-goods-company-post-holdings-agrees-to-acquire-british-cereal-maker-weetabix-limited-from-china-s-bright-food-for-1-8-bill.md)
-_Context: Bright Food, Chinese, Post Holdings, UK, United States, Weetabix Limited, consumer goods_
+_Context: Bright Food, Chinese, Post Holdings, United Kingdom, United States, Weetabix Limited, consumer goods_
 
 ##### Egypt
 ### [The Egyptian Ministry of Antiquities announces the discovery of eight mummies, 10 colorful sarcophagi, and numerous figurines in a 3,500-year-old tomb near the Valley of the Kings in Luxor. ](/news/2017/04/18/the-egyptian-ministry-of-antiquities-announces-the-discovery-of-eight-mummies-10-colorful-sarcophagi-and-numerous-figurines-in-a-3-500-yea.md)

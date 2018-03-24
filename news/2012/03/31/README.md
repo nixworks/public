@@ -33,7 +33,7 @@ _Context: American Federation of Television and Radio Artists, SAG-AFTRA, Screen
 
 ##### Spire
 ### [The spire of the Shard London Bridge is put in place making the completion of the United Kingdom's and European Union's tallest building a step closer. ](/news/2012/03/31/the-spire-of-the-shard-london-bridge-is-put-in-place-making-the-completion-of-the-united-kingdom-s-and-european-union-s-tallest-building-a-s.md)
-_Context: European Union, Shard London Bridge, UK, spire_
+_Context: European Union, Shard London Bridge, United Kingdom, spire_
 
 ##### Al-Qaeda
 ### [Around 30 people are killed in clashes between the army and suspected Al-Qaeda militants in southern Yemen. ](/news/2012/03/31/around-30-people-are-killed-in-clashes-between-the-army-and-suspected-al-qaeda-militants-in-southern-yemen.md)

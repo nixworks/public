@@ -29,7 +29,7 @@ _Context: Malaya Vishera, Novgorod, Russia, bomb, prosecutor, terrorism_
 
 ##### President
 ### [ The President of Iran Mahmoud Ahmadinejad visits Afghanistan on the first leg of a Central Asian tour before visiting the Shanghai Cooperation Organisation meeting in Bishkek. ](/news/2007/08/14/the-president-of-iran-mahmoud-ahmadinejad-visits-afghanistan-on-the-first-leg-of-a-central-asian-tour-before-visiting-the-shanghai-cooperat.md)
-_Context: Afghan, Bishkek, Central Asia, Mahmoud Ahmadinejad , President, Shanghai Cooperation Organisation_
+_Context: Afghanistan, Bishkek, Central Asia, Mahmoud Ahmadinejad , President, Shanghai Cooperation Organisation_
 
 ##### Thailand
 ### [ The Supreme Court of Thailand approves the issuing of arrest warrants for the former Prime Minister of Thailand Thaksin Shinawatra and his wife on corruption charges. ](/news/2007/08/14/the-supreme-court-of-thailand-approves-the-issuing-of-arrest-warrants-for-the-former-prime-minister-of-thailand-thaksin-shinawatra-and-his.md)
@@ -41,7 +41,7 @@ _Context: Abdullah Gul, Turkey, Turkish President_
 
 ##### Pakistan
 ### [ Pakistan celebrates the 60th anniversary of its independence from the United Kingdom. ](/news/2007/08/14/pakistan-celebrates-the-60th-anniversary-of-its-independence-from-the-united-kingdom.md)
-_Context: Pakistan, UK, anniversary, independence_
+_Context: Pakistan, United Kingdom, anniversary, independence_
 
 ##### Palestinians
 ### [ Four Palestinians are killed by Israel Defense Forces in the Gaza Strip. Palestinians claim two of them were civilians. ](/news/2007/08/14/four-palestinians-are-killed-by-israel-defense-forces-in-the-gaza-strip-palestinians-claim-two-of-them-were-civilians.md)
@@ -117,7 +117,7 @@ _Context: Central Bank of Nigeria, Nigeria, convertible, naira, redenomination_
 
 ##### Poland
 ### [ A Polish soldier is killed by Taliban near Gardez, Afghanistan. It is the first Polish casualty in the War in Afghanistan. ](/news/2007/08/14/a-polish-soldier-is-killed-by-taliban-near-gardez-afghanistan-it-is-the-first-polish-casualty-in-the-war-in-afghanistan.md)
-_Context: Afghan, Gardez, Poland, Taliban, War in Afghanistan (2001-present), casualty_
+_Context: Afghanistan, Gardez, Poland, Taliban, War in Afghanistan (2001-present), casualty_
 
 ##### Russia
 ### [ A Russian far right group calling itself "National Socialism-White Power" publishes a video on the Internet showing the execution of two men, one from Tajikistan and the other one from Dagestan. Russian authorities investigate the video. ](/news/2007/08/14/a-russian-far-right-group-calling-itself-national-socialism-white-power-publishes-a-video-on-the-internet-showing-the-execution-of-two-me.md)

@@ -23,7 +23,7 @@ The New Orleans police said they were seeking three men in the shooting, which l
 ### [Former Canadian navy intelligence officer Jeffrey Delisle is jailed for 20 years after pleading guilty to selling classified NATO information to Russia. ](/news/2013/02/9/former-canadian-navy-intelligence-officer-jeffrey-delisle-is-jailed-for-20-years-after-pleading-guilty-to-selling-classified-nato-informatio.md)
 A Canadian navy intelligence officer is sentenced to 20 years in prison after pleading guilty to selling classified Nato information to Russia.
 
-##### UK
+##### United Kingdom
 ### [UK Secretary of State for Environment, Food and Rural Affairs Owen Paterson holds a summit with British retailers and the Food Standards Agency to ask how "beef" products containing horse meat were sold in supermarkets. ](/news/2013/02/9/uk-secretary-of-state-for-environment-food-and-rural-affairs-owen-paterson-holds-a-summit-with-british-retailers-and-the-food-standards-age.md)
 Retailers will now carry out &quot;more and tougher testing&quot; of beef products in the wake of widespread horsemeat contamination, the environment secretary says.
 

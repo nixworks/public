@@ -27,9 +27,9 @@ _Context: George W. Bush, July, National Intelligence Council, The New York Time
 ### [ Indonesia sentences Islamic militant "Ismail", also known as Ricky Putranto, to 12 years in prison for his role in the bombing of a Marriott hotel in Jakarta last year. ](/news/2004/09/16/indonesia-sentences-islamic-militant-ismail-also-known-as-ricky-putranto-to-12-years-in-prison-for-his-role-in-the-bombing-of-a-marriot.md)
 _Context: 2003 Marriott Hotel bombing, Indonesia, Jakarta, Ricky Putranto_
 
-##### Afghan
+##### Afghanistan
 ### [ Afghan President Hamid Karzai survives an assassination attempt when a rocket misses his helicopter, bound for the city of Gardez, by some 300 yards (275 m). The helicopter returned to Kabul. ](/news/2004/09/16/afghan-president-hamid-karzai-survives-an-assassination-attempt-when-a-rocket-misses-his-helicopter-bound-for-the-city-of-gardez-by-some.md)
-_Context: Afghan, Gardez, Hamid Karzai, Kabul_
+_Context: Afghanistan, Gardez, Hamid Karzai, Kabul_
 
 ##### Manitoba
 ### [ Manitoba becomes the fourth province, and the fifth jurisdiction, in Canada to legalize same-sex marriage. ](/news/2004/09/16/manitoba-becomes-the-fourth-province-and-the-fifth-jurisdiction-in-canada-to-legalize-same-sex-marriage.md)

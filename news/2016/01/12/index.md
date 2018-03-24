@@ -49,7 +49,7 @@ Live updates as junior doctors go on a 24-hour strike in England in a dispute wi
 
 ##### Bronze Age
 ### [A Bronze Age village is discovered in Cambridgeshire, United Kingdom. ](/news/2016/01/12/a-bronze-age-village-is-discovered-in-cambridgeshire-united-kingdom.md)
-_Context: Bronze Age, Cambridgeshire, UK_
+_Context: Bronze Age, Cambridgeshire, United Kingdom_
 
 ##### Boko Haram insurgency
 ### [Boko Haram militants shoot and kill 7 people and burn down 10 houses in Madagali, Adamawa. ](/news/2016/01/12/boko-haram-militants-shoot-and-kill-7-people-and-burn-down-10-houses-in-madagali-adamawa.md)

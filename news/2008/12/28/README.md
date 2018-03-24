@@ -25,7 +25,7 @@ _Context: Department of Civil Defence, Sri Lanka, Wattala_
 
 ##### Suicide bombing
 ### [ A suicide bomber kills at least 16 people, 14 of them children, and injures 58 in Afghanistan's Khost Province. ](/news/2008/12/28/a-suicide-bomber-kills-at-least-16-people-14-of-them-children-and-injures-58-in-afghanistan-s-khost-province.md)
-_Context: Afghan, Khost, suicide bombing_
+_Context: Afghanistan, Khost, suicide bombing_
 
 ##### 2008 Garamba offensive
 ### [ 2008 Garamba offensive: Uganda's People's Defence Force accuses the Lord's Resistance Army of hacking to death 45 people in a church in the Democratic Republic of the Congo. ](/news/2008/12/28/2008-garamba-offensive-uganda-s-people-s-defence-force-accuses-the-lord-s-resistance-army-of-hacking-to-death-45-people-in-a-church-in-the.md)
@@ -33,7 +33,7 @@ _Context: 2008 Garamba offensive, DR Congo, Lord's Resistance Army, Uganda, Ugan
 
 ##### United States
 ### [The United States vetoes a United Nations Security Council resolution aimed at stopping Israeli airstrikes against Gaza. UN Secretary-General Ban Ki-moon and the United Kingdom, European Union, Russia, France, and China all call for a ceasefire. ](/news/2008/12/28/the-united-states-vetoes-a-united-nations-security-council-resolution-aimed-at-stopping-israeli-airstrikes-against-gaza-un-secretary-genera.md)
-_Context: Ban Ki-moon, China, European Union, France, Russia, UK, United Nations, United Nations Secretary-General, United Nations Security Council, United Nations Security Council resolution, United States, ceasefire, vetoes_
+_Context: Ban Ki-moon, China, European Union, France, Russia, United Kingdom, United Nations, United Nations Secretary-General, United Nations Security Council, United Nations Security Council resolution, United States, ceasefire, vetoes_
 
 ##### Israel
 ### [The Israel Defense Forces continue airstrikes against Hamas in the Gaza Strip as the number of Palestinian casualties approaches 300. ](/news/2008/12/28/the-israel-defense-forces-continue-airstrikes-against-hamas-in-the-gaza-strip-as-the-number-of-palestinian-casualties-approaches-300.md)

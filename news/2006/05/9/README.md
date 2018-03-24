@@ -23,9 +23,9 @@ _Context: Electronic Entertainment Expo, Los Angeles, trade show, video game_
 ### [ The Mogadishu Islamic Courts and the Alliance for the Restoration of Peace and Counter-Terrorism declare a cease-fire after 57 people are killed, and 103 are wounded, mostly civilians, in the Somalian capital of Mogadishu. ](/news/2006/05/9/the-mogadishu-islamic-courts-and-the-alliance-for-the-restoration-of-peace-and-counter-terrorism-declare-a-cease-fire-after-57-people-are-k.md)
 _Context: Alliance for the Restoration of Peace and Counter-Terrorism, Mogadishu, Mogadishu Islamic Courts, Somali_
 
-##### UK
+##### United Kingdom
 ### [ The United Kingdom's new Minister for Local Government, Ruth Kelly, who is a Roman Catholic and a member of Opus Dei, refuses to state whether or not she believes that homosexuality is a sin. ](/news/2006/05/9/the-united-kingdom-s-new-minister-for-local-government-ruth-kelly-who-is-a-roman-catholic-and-a-member-of-opus-dei-refuses-to-state-whet.md)
-_Context: Opus Dei, Roman Catholic, Ruth Kelly, UK, homosexuality_
+_Context: Opus Dei, Roman Catholic, Ruth Kelly, United Kingdom, homosexuality_
 
 ## [Previous Day...](/news/2006/05/8/index.md)
 

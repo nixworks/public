@@ -125,7 +125,7 @@ Israel has widened access to a revered Jewish site in the heart of the Jerusalem
 
 ##### Taliban
 ### [The Taliban abandons its opposition to female education in Afghanistan due to a "cultural change". ](/news/2011/01/14/the-taliban-abandons-its-opposition-to-female-education-in-afghanistan-due-to-a-cultural-change.md)
-_Context: Afghan, Taliban_
+_Context: Afghanistan, Taliban_
 
 ##### 2010-2011 Ivorian crisis
 ### [The death toll due to the political crisis in the Ivory Coast reaches 247 since the November 28th election.](/news/2011/01/14/the-death-toll-due-to-the-political-crisis-in-the-ivory-coast-reaches-247-since-the-november-28th-election.md)

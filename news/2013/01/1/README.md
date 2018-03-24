@@ -27,7 +27,7 @@ _Context: Celebratory gunfire, New Year, Philippines, firecracker_
 ### [Two people are killed and three wounded in a shooting in Sacramento during the New Year's Eve celebrations. ](/news/2013/01/1/two-people-are-killed-and-three-wounded-in-a-shooting-in-sacramento-during-the-new-year-s-eve-celebrations.md)
 _Context: New Year's Eve, Sacramento, California_
 
-##### UK
+##### United Kingdom
 ### [United Kingdom assumes presidency of G8 group. Next G8 summit is to be held on the shores of Lough Erne in Northern Ireland in June 2013. ](/news/2013/01/1/united-kingdom-assumes-presidency-of-g8-group-next-g8-summit-is-to-be-held-on-the-shores-of-lough-erne-in-northern-ireland-in-june-2013.md)
 The UK has begun its year-long presidency of the G8 group of nations, which will include hosting a summit in Northern Ireland.
 

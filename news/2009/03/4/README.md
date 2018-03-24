@@ -7,9 +7,9 @@ Formats: [HTML](2009/03/4/index.html)  [JSON](2009/03/4/index.json)  [XML](2009/
 ### [ The Netherlands' Safety Board finds that Turkish Airlines Flight 1951 crash-landed near Amsterdam's Schiphol Airport because of a faulty altimeter. ](/news/2009/03/4/the-netherlands-safety-board-finds-that-turkish-airlines-flight-1951-crash-landed-near-amsterdam-s-schiphol-airport-because-of-a-faulty-al.md)
 _Context: Amsterdam, Amsterdam Airport Schiphol, Dutch, Dutch Safety Board, Flight 1951, Turkish Airlines, altimeter, crash-landed_
 
-##### UK
+##### United Kingdom
 ### [ British-Norwegian cruise line Fred Olsen's cruise ship "Balmoral" escapes a Somali pirate attack in the Gulf of Aden. ](/news/2009/03/4/british-norwegian-cruise-line-fred-olsen-s-cruise-ship-balmoral-escapes-a-somali-pirate-attack-in-the-gulf-of-aden.md)
-_Context: Balmoral, Fred Olsen, Gulf of Aden, Norwegian, Somali, Somali pirates, UK, cruise line, cruise ship_
+_Context: Balmoral, Fred Olsen, Gulf of Aden, Norwegian, Somali, Somali pirates, United Kingdom, cruise line, cruise ship_
 
 ##### Ukrainian
 ### [ Ukraine's Security Service raids Naftogas's headquarters in Kiev. ](/news/2009/03/4/ukraine-s-security-service-raids-naftogas-s-headquarters-in-kiev.md)
@@ -45,7 +45,7 @@ _Context: France, Nicolas Sarkozy, President of France, death threat, politician
 
 ##### Gordon Brown
 ### [ Gordon Brown becomes the United Kingdom's fifth Prime Minister to address a joint session of the U.S. Congress. ](/news/2009/03/4/gordon-brown-becomes-the-united-kingdom-s-fifth-prime-minister-to-address-a-joint-session-of-the-u-s-congress.md)
-_Context: Congress, Gordon Brown, Prime Minister, UK, United States, joint session of Congress_
+_Context: Congress, Gordon Brown, Prime Minister, United Kingdom, United States, joint session of Congress_
 
 ##### Riot
 ### [ A riot at a prison near Ciudad Jurez, Mexico, kills at least 20 inmates and injures seven others. ](/news/2009/03/4/a-riot-at-a-prison-near-ciudad-juarez-mexico-kills-at-least-20-inmates-and-injures-seven-others.md)

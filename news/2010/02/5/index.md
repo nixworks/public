@@ -15,9 +15,9 @@ _Context: Henry Okello Oryem, Uganda, law_
 ### [New images of the dwarf planet Pluto reveal rapid changes on its surface. ](/news/2010/02/5/new-images-of-the-dwarf-planet-pluto-reveal-rapid-changes-on-its-surface.md)
 _Context: Pluto, dwarf planet_
 
-##### UK
+##### United Kingdom
 ### [Four British politicians will face criminal prosecution over their expense claims in the ongoing expenses scandal. ](/news/2010/02/5/four-british-politicians-will-face-criminal-prosecution-over-their-expense-claims-in-the-ongoing-expenses-scandal.md)
-_Context: UK, United Kingdom Parliamentary expenses scandal_
+_Context: United Kingdom, United Kingdom Parliamentary expenses scandal_
 
 ##### Russia
 ### [Five Russian soldiers are killed and six injured in clashes with militants in Chechnya. ](/news/2010/02/5/five-russian-soldiers-are-killed-and-six-injured-in-clashes-with-militants-in-chechnya.md)

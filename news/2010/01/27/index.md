@@ -35,9 +35,9 @@ _Context: North Korea, Northern Limit Line, South Korea_
 ### [Incumbent President of Sri Lanka Mahinda Rajapaksa is declared the winner of Sunday's presidential election, defeating opposition candidate Sarath Fonseka. ](/news/2010/01/27/incumbent-president-of-sri-lanka-mahinda-rajapaksa-is-declared-the-winner-of-sunday-s-presidential-election-defeating-opposition-candidate.md)
 _Context: President of Sri Lanka, Rajapaksa, Sarath Fonseka, Sri Lanka, opposition, presidential election_
 
-##### UK
+##### United Kingdom
 ### [UK Prime Minister Gordon Brown says seven-year-old Charlie Simpson, who rode five miles and raised more than GBP200,000 for the 2010 Haiti earthquake fund, is "truly inspirational" as his spouse Sarah Brown meets him in his absence at Downing Street. ](/news/2010/01/27/uk-prime-minister-gordon-brown-says-seven-year-old-charlie-simpson-who-rode-five-miles-and-raised-more-than-gbp200-000-for-the-2010-haiti-e.md)
-_Context: 2010 Haiti earthquake, Downing Street, Gordon Brown, Sarah Brown, UK_
+_Context: 2010 Haiti earthquake, Downing Street, Gordon Brown, Sarah Brown, United Kingdom_
 
 ##### New Zealand
 ### [New Zealanders, Britons, Chinese and Irish tourists are among the thousands trapped after mudslides in the Incan capital Machu Picchu. ](/news/2010/01/27/new-zealanders-britons-chinese-and-irish-tourists-are-among-the-thousands-trapped-after-mudslides-in-the-incan-capital-machu-picchu.md)

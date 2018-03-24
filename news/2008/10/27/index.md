@@ -17,7 +17,7 @@ _Context: BBC, Pakistan, South Waziristan_
 
 ##### Lausanne Metro
 ### [ Line m2 of the Lausanne Metro starts revenue service, making Lausanne, Switzerland, the smallest city in the world to have a metro system. ](/news/2008/10/27/line-m2-of-the-lausanne-metro-starts-revenue-service-making-lausanne-switzerland-the-smallest-city-in-the-world-to-have-a-metro-system.md)
-_Context: Lausanne, Lausanne Metro, Swiss_
+_Context: Lausanne, Lausanne Metro, Switzerland_
 
 ##### US$
 ### [ Nine major US banks will receive a $US123 billion capital injection from the federal government, says a Treasury Department official. ](/news/2008/10/27/nine-major-us-banks-will-receive-a-us123-billion-capital-injection-from-the-federal-government-says-a-treasury-department-official.md)

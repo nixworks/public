@@ -19,9 +19,9 @@ _Context: Japan, Liancourt Rocks, South Korea_
 ### [A United States Navy FA-18 Hornet crashes into an apartment complex in the US city of Virginia Beach, Virginia with minimal injuries and no fatalities. ](/news/2012/04/6/a-united-states-navy-fa-18-hornet-crashes-into-an-apartment-complex-in-the-us-city-of-virginia-beach-virginia-with-minimal-injuries-and-no.md)
 There are no reports so far of critical injuries or fatalities, but emergency crews have yet to complete thorough searches of the remains of the buildings after battling the fire and smoke.
 
-##### Afghan
+##### Afghanistan
 ### [Seven civilians die in Afghanistan's Panjwai district after a fuel tanker overturns. ](/news/2012/04/6/seven-civilians-die-in-afghanistan-s-panjwai-district-after-a-fuel-tanker-overturns.md)
-_Context: Afghan, Panjwai district, fuel_
+_Context: Afghanistan, Panjwai district, fuel_
 
 ##### Tobacco products
 ### [A ban on the display of tobacco products by retailers comes into force in England. Lawmakers hope it will lead to a reduction in the number of young people taking up smoking. ](/news/2012/04/6/a-ban-on-the-display-of-tobacco-products-by-retailers-comes-into-force-in-england-lawmakers-hope-it-will-lead-to-a-reduction-in-the-number.md)

@@ -3,9 +3,9 @@ Formats: [HTML](2009/02/11/index.html)  [JSON](2009/02/11/index.json)  [XML](200
 
 ## [2009-02-11](/news/2009/02/11/index.md)
 
-##### UK
+##### United Kingdom
 ### [ The United Kingdom's Conservative Party admits to altering the Italian painter Titian's Wikipedia entry following a confrontation with Prime Minister Gordon Brown. ](/news/2009/02/11/the-united-kingdom-s-conservative-party-admits-to-altering-the-italian-painter-titian-s-wikipedia-entry-following-a-confrontation-with-prim.md)
-_Context: Conservative Party, Gordon Brown, Italy, Prime Minister, Titian, UK, Wikipedia, painter_
+_Context: Conservative Party, Gordon Brown, Italy, Prime Minister, Titian, United Kingdom, Wikipedia, painter_
 
 ##### Oscar Temaru
 ### [ Oscar Temaru is elected President of French Polynesia for the fourth time in five years. ](/news/2009/02/11/oscar-temaru-is-elected-president-of-french-polynesia-for-the-fourth-time-in-five-years.md)
@@ -29,7 +29,7 @@ Chinese fishing vessels have moved out of waters near a disputed sea border betw
 
 ##### Suicide attack
 ### [ Twenty-seven people die during a suicide attack in Kabul, Afghanistan. ](/news/2009/02/11/twenty-seven-people-die-during-a-suicide-attack-in-kabul-afghanistan.md)
-_Context: Afghan, Kabul, suicide attack_
+_Context: Afghanistan, Kabul, suicide attack_
 
 ##### Mexico
 ### [ Mexico's National Institute of Anthropology and History announces the discovery of a 16th-century mass grave at the Tlatelolco archaeological site in Mexico City. ](/news/2009/02/11/mexico-s-national-institute-of-anthropology-and-history-announces-the-discovery-of-a-16th-century-mass-grave-at-the-tlatelolco-archaeologic.md)

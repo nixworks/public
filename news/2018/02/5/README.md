@@ -21,7 +21,7 @@ Diplomatic relations plunge to new lows, as the Dutch ambassador is formally wit
 
 ##### Brexit negotiations
 ### [After talks with Prime Minister of the United Kingdom Theresa May and Secretary of State for Exiting the European Union David Davis in London, E.U. chief negotiator Michel Barnier calls on the United Kingdom to make a choice on what sort of future relationship it wants with the European Union after Brexit. ](/news/2018/02/5/after-talks-with-prime-minister-of-the-united-kingdom-theresa-may-and-secretary-of-state-for-exiting-the-european-union-david-davis-in-londo.md)
-_Context: Brexit, Brexit negotiations, David Davis, European Union, London, Michel Barnier, Prime Minister, Secretary of State for Exiting the European Union, Theresa May, UK_
+_Context: Brexit, Brexit negotiations, David Davis, European Union, London, Michel Barnier, Prime Minister, Secretary of State for Exiting the European Union, Theresa May, United Kingdom_
 
 ##### Wall Street
 ### [The Wall Street stock market sheds 4.6% of its value, with the Dow Jones Industrial Average dropping a record 1,175 points at close. At one point during the day, the benchmark index loses a record 1,579 points. ](/news/2018/02/5/the-wall-street-stock-market-sheds-4-6-of-its-value-with-the-dow-jones-industrial-average-dropping-a-record-1-175-points-at-close-at-one.md)

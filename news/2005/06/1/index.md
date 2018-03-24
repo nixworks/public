@@ -29,7 +29,7 @@ _Context: Barsebck 2, Sweden_
 
 ##### Kandahar
 ### [ At least 20 people are killed and 40 are injured in a bomb blast in the city of Kandahar, Afghanistan. ](/news/2005/06/1/at-least-20-people-are-killed-and-40-are-injured-in-a-bomb-blast-in-the-city-of-kandahar-afghanistan.md)
-_Context: Afghan, Kandahar_
+_Context: Afghanistan, Kandahar_
 
 ##### American Family Association
 ### [ The American Family Association, a Christian activist group, a week after ending its boycott of the Walt Disney Company, announced a boycott of the Ford Motor Company. In adding Ford to its ongoing boycotts of Kmart and the book One of the Guys by Robert Clark Young, the AFA argues that Ford promotes "the homosexual lifestyle." ](/news/2005/06/1/the-american-family-association-a-christian-activist-group-a-week-after-ending-its-boycott-of-the-walt-disney-company-announced-a-boycot.md)

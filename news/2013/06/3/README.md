@@ -97,7 +97,7 @@ Palestinians alive during 1946 Arab-Israeli war say unmarked grave found in coas
 
 ##### Suicide bombing
 ### [A suicide bombing in eastern Afghanistan kills at least 20 people, including 10 children. ](/news/2013/06/3/a-suicide-bombing-in-eastern-afghanistan-kills-at-least-20-people-including-10-children.md)
-_Context: Afghan, suicide bombing_
+_Context: Afghanistan, suicide bombing_
 
 ##### 
 ### [Three people who previously demonstrated against the regime are jailed for 5, 10 and 15 years respectively. ](/news/2013/06/3/three-people-who-previously-demonstrated-against-the-regime-are-jailed-for-5-10-and-15-years-respectively.md)

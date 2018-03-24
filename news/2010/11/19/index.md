@@ -81,7 +81,7 @@ A dummy bomb that sparked an international terror alert was made by an 80-year-o
 
 ##### United States armed forces
 ### [The U.S. military is sending M1 Abrams tanks to Afghanistan for the first time in the nine-year war in Afghanistan. ](/news/2010/11/19/the-u-s-military-is-sending-m1-abrams-tanks-to-afghanistan-for-the-first-time-in-the-nine-year-war-in-afghanistan.md)
-_Context: Afghan, M1 Abrams tanks, United States armed forces, War in Afghanistan (2001-present)_
+_Context: Afghanistan, M1 Abrams tanks, United States armed forces, War in Afghanistan (2001-present)_
 
 ##### Palestinian rocket attacks on Israel
 ### [Responding to Palestinians firing phosphorus shells and mortars into Israel, the Israel Air Force bombs at least two targets in the Gaza Strip and will file a complaint with the UN. The Salah al-Din Brigades claim responsibility, saying the rockets were responding to the killing of two members of the al-Qaida affiliated Army of Islam in Gaza. ](/news/2010/11/19/responding-to-palestinians-firing-phosphorus-shells-and-mortars-into-israel-the-israel-air-force-bombs-at-least-two-targets-in-the-gaza-str.md)

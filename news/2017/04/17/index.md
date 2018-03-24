@@ -51,7 +51,7 @@ One crew member was killed and two others were injured Monday when a military he
 ### [Five people drowned while eleven are still missing after a boat capsized off the coast of Rumphi District on Lake Malawi. ](/news/2017/04/17/five-people-drowned-while-eleven-are-still-missing-after-a-boat-capsized-off-the-coast-of-rumphi-district-on-lake-malawi.md)
 _Context: Lake Malawi, Rumphi District_
 
-##### Swiss
+##### Switzerland
 ### [A small Swiss-owned plane crashes in the Portuguese village of Tires, west of Lisbon, killing at least five people. ](/news/2017/04/17/a-small-swiss-owned-plane-crashes-in-the-portuguese-village-of-tires-west-of-lisbon-killing-at-least-five-people.md)
 A small plane crashes near a Lidl supermarket in Tires just west of Lisbon, killing five people.
 

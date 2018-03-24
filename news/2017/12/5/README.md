@@ -53,7 +53,7 @@ A fast-moving, wind-fueled brush fire has burned about 10,000 acres in the footh
 
 ##### Eurofighter GmbH
 ### [Eurofighter GmbH offers Belgium a national cyber defense network--suggesting telecommunications security on par with United Kingdom intelligence, which would save Belgium EUR1.6 billion per year--in exchange for buying 34 of their multirole combat aircraft, the Eurofighter Typhoon. ](/news/2017/12/5/eurofighter-gmbh-offers-belgium-a-national-cyber-defense-networkasuggesting-telecommunications-security-on-par-with-united-kingdom-intelli.md)
-_Context: Belgium, Eurofighter GmbH, Eurofighter Typhoon, UK, cyber defense, multirole combat aircraft_
+_Context: Belgium, Eurofighter GmbH, Eurofighter Typhoon, United Kingdom, cyber defense, multirole combat aircraft_
 
 ##### Simon Templar (The Saint)
 ### [A summer 1941 Simon Templar (The Saint) novel by Leslie Charteris, titled "The Saint's Second Front", describing a military attack by Japan on America--and subsequently rejected from publication for political reasons--emerges at a private auction after the work was presumed lost. ](/news/2017/12/5/a-summer-1941-simon-templar-the-saint-novel-by-leslie-charteris-titled-the-saint-s-second-front-describing-a-military-attack-by-japan.md)

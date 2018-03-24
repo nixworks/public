@@ -3,9 +3,9 @@ Formats: [HTML](2009/02/4/index.html)  [JSON](2009/02/4/index.json)  [XML](2009/
 
 ## [2009-02-4](/news/2009/02/4/index.md)
 
-##### Afghan
+##### Afghanistan
 ### [ Eight trucks are attacked en route to Afghanistan by suspected Taliban militants. ](/news/2009/02/4/eight-trucks-are-attacked-en-route-to-afghanistan-by-suspected-taliban-militants.md)
-_Context: Afghan, Taliban_
+_Context: Afghanistan, Taliban_
 
 ##### German
 ### [ German public television station ZDF reports that Nazi fugitive Aribert Heim died in 1992. ](/news/2009/02/4/german-public-television-station-zdf-reports-that-nazi-fugitive-aribert-heim-died-in-1992.md)
@@ -37,11 +37,11 @@ _Context: Vanni District_
 
 ##### British Army
 ### [ A senior British Army officer is arrested in Afghanistan on suspicion of breaking the "Official Secrets Act" by leaking information on civilian casualties to a human rights campaigner. ](/news/2009/02/4/a-senior-british-army-officer-is-arrested-in-afghanistan-on-suspicion-of-breaking-the-official-secrets-act-by-leaking-information-on-civi.md)
-_Context: Afghan, British Army, Official Secrets Act, casualties, civilian, human rights_
+_Context: Afghanistan, British Army, Official Secrets Act, casualties, civilian, human rights_
 
 ##### High Court
 ### [ The High Court of Justice alleges British resident Benyam Mohammed was tortured and that the US threatened to withdraw intelligence help from the United Kingdom if details were released. ](/news/2009/02/4/the-high-court-of-justice-alleges-british-resident-benyam-mohammed-was-tortured-and-that-the-us-threatened-to-withdraw-intelligence-help-fr.md)
-_Context: Benyam Mohammed, High Court, UK_
+_Context: Benyam Mohammed, High Court, United Kingdom_
 
 ##### Suicide bomber
 ### [ Samira Ahmed Jassim, who allegedly recruited more than 80 suicide bombers, is arrested in Iraq. ](/news/2009/02/4/samira-ahmed-jassim-who-allegedly-recruited-more-than-80-suicide-bombers-is-arrested-in-iraq.md)

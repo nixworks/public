@@ -11,9 +11,9 @@ _Context: ISS_
 ### [The Willacy County Correctional Center in Willacy County, Texas is emptied of thousands of inmates the day after a riot makes it uninhabitable. ](/news/2015/02/21/the-willacy-county-correctional-center-in-willacy-county-texas-is-emptied-of-thousands-of-inmates-the-day-after-a-riot-makes-it-uninhabitab.md)
 Up to 2,800 other prisoners will be moved to other facilities, as talks continue with several hundred inmates who took control of part of a prison.
 
-##### Peruvian President
+##### President
 ### [The President of Peru Ollanta Humala recalls the ambassador to Chile over spying allegations. ](/news/2015/02/21/the-president-of-peru-ollanta-humala-recalls-the-ambassador-to-chile-over-spying-allegations.md)
-_Context: Chile, Ollanta Humala, Peruvian President_
+_Context: Chile, Ollanta Humala, President_
 
 ##### War in Donbass
 ### [The United States and United Kingdom discuss imposing additional sanctions on Russia over the breach of the ceasefire. ](/news/2015/02/21/the-united-states-and-united-kingdom-discuss-imposing-additional-sanctions-on-russia-over-the-breach-of-the-ceasefire.md)

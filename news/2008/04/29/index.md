@@ -13,7 +13,7 @@ _Context: European Union, ICTY, Serbia, Stabilisation and Association Agreement,
 
 ##### Nangarhar Province
 ### [ An explosion in the Nangarhar Province of Afghanistan kills at least 15 Afghans with another 25 injured. ](/news/2008/04/29/an-explosion-in-the-nangarhar-province-of-afghanistan-kills-at-least-15-afghans-with-another-25-injured.md)
-_Context: Afghan, Nangarhar Province_
+_Context: Afghanistan, Nangarhar Province_
 
 ##### United Nations Secretary-General
 ### [ The Secretary-General of the United Nations Ban Ki-moon establishes a task force to tackle the 2007-2008 world food price crisis. ](/news/2008/04/29/the-secretary-general-of-the-united-nations-ban-ki-moon-establishes-a-task-force-to-tackle-the-2007a2008-world-food-price-crisis.md)

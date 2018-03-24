@@ -9,7 +9,7 @@ _Context: closest point, moon_
 
 ##### Peru
 ### [Peruvian President Alan Garcia swears in Rosario Fernandez as Prime Minister, after the sudden resignation of Jose Antonio Chang. ](/news/2011/03/19/peruvian-president-alan-garcaa-swears-in-rosario-ferna-ndez-as-prime-minister-after-the-sudden-resignation-of-josa-c-antonio-chang.md)
-_Context: Alan Garcia, Jose Antonio Chang, Peru, Peruvian President, Prime Minister, Rosario Fernandez_
+_Context: Alan Garcia, Jose Antonio Chang, Peru, President, Prime Minister, Rosario Fernandez_
 
 ##### Iraq War
 ### [Anti-Iraq War demonstrators are arrested outside the White House in Washington DC including Daniel Ellsberg, the man who leaked the Pentagon Papers. ](/news/2011/03/19/anti-iraq-war-demonstrators-are-arrested-outside-the-white-house-in-washington-dc-including-daniel-ellsberg-the-man-who-leaked-the-pentagon.md)

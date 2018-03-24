@@ -5,7 +5,7 @@ Formats: [HTML](2006/08/24/index.html)  [JSON](2006/08/24/index.json)  [XML](200
 
 ##### Population
 ### [ Population of the United Kingdom reaches over 60 million for the first time in history. ](/news/2006/08/24/population-of-the-united-kingdom-reaches-over-60-million-for-the-first-time-in-history.md)
-_Context: Population, UK_
+_Context: Population, United Kingdom_
 
 ##### Kyodo News Agency
 ### [ The Kyodo News Agency reports that there is activity at a North Korean nuclear testing site. ](/news/2006/08/24/the-kyodo-news-agency-reports-that-there-is-activity-at-a-north-korean-nuclear-testing-site.md)

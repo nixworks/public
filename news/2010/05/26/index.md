@@ -81,7 +81,7 @@ Judges at the International Criminal Court want action on crimes committed durin
 
 ##### Kunduz
 ### [More than 80 students are sickened in a girls' school in Kunduz, Afghanistan, in a poison gas attack suspected to have been carried out by Taliban assailants whose version of Islam is opposed to girls being educated.](/news/2010/05/26/more-than-80-students-are-sickened-in-a-girls-school-in-kunduz-afghanistan-in-a-poison-gas-attack-suspected-to-have-been-carried-out-by-t.md)
-_Context: Afghan, Kunduz, Muslim, Taliban, poison gas_
+_Context: Afghanistan, Kunduz, Muslim, Taliban, poison gas_
 
 ## [Previous Day...](/news/2010/05/25/index.md)
 

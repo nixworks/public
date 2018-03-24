@@ -35,7 +35,7 @@ A footballer obtains a disclosure order against Twitter to learn the identities 
 ### [A report by senior judges in England and Wales has concluded that the media should have the chance to contest applications for injunctions and "superinjunctions" before they are granted, and that these should only be issued in exceptional circumstances. ](/news/2011/05/20/a-report-by-senior-judges-in-england-and-wales-has-concluded-that-the-media-should-have-the-chance-to-contest-applications-for-injunctions-a.md)
 The media should have the chance to contest applications for injunctions and &quot;super-injunctions&quot; before they are granted, a report by top judges says.
 
-##### UK
+##### United Kingdom
 ### [Former United Kingdom Labour Party MP Elliot Morley is jailed for 16 months for dishonestly claiming more than GBP30,000 in parliamentary expenses. ](/news/2011/05/20/former-united-kingdom-labour-party-mp-elliot-morley-is-jailed-for-16-months-for-dishonestly-claiming-more-than-agbp30-000-in-parliamentary-e.md)
 Ex-Labour minister Elliot Morley, who has admitted dishonestly claiming more than £30,000 in his parliamentary expenses, is sentenced to 16 months in jail.
 

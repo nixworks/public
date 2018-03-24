@@ -53,7 +53,7 @@ _Context: Algeria, Tunisian soldiers, attacks_
 
 ##### Kabul International Airport
 ### [Explosions and gunfire are reported near Kabul International Airport in Afghanistan as militants temporarily capture a building under construction. ](/news/2014/07/17/explosions-and-gunfire-are-reported-near-kabul-international-airport-in-afghanistan-as-militants-temporarily-capture-a-building-under-constr.md)
-_Context: Afghan, Kabul International Airport_
+_Context: Afghanistan, Kabul International Airport_
 
 ##### Israel
 ### [Israel and Hamas agree to a brief UN humanitarian ceasefire Thursday morning to allow aid to enter the Gaza Strip. ](/news/2014/07/17/israel-and-hamas-agree-to-a-brief-un-humanitarian-ceasefire-thursday-morning-to-allow-aid-to-enter-the-gaza-strip.md)

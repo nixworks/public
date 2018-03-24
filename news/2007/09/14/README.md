@@ -37,7 +37,7 @@ _Context: General, Joint Chiefs of Staff, Peter Pace_
 
 ##### Run
 ### [ There is a run on the Northern Rock bank in the United Kingdom following revelations that it sought a rescue injection of funds from the Bank of England. ](/news/2007/09/14/there-is-a-run-on-the-northern-rock-bank-in-the-united-kingdom-following-revelations-that-it-sought-a-rescue-injection-of-funds-from-the-ba.md)
-_Context: Bank of England, Northern Rock, UK, bank, run_
+_Context: Bank of England, Northern Rock, United Kingdom, bank, run_
 
 ##### Chrysler
 ### [ Chrysler recalls 300,000 sport utility vehicles to investigate braking problems while Honda recalls 180,000 Honda Civics from the 2006-07 season due to problems with a wheel-bearing seal. ](/news/2007/09/14/chrysler-recalls-300-000-sport-utility-vehicles-to-investigate-braking-problems-while-honda-recalls-180-000-honda-civics-from-the-2006a07.md)

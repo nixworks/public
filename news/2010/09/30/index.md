@@ -81,7 +81,7 @@ _Context: Henderson, Nevada, Some Like It Hot, The Defiant Ones, Tony Curtis, Un
 
 ##### Convoy
 ### [A convoy of at least 27 fuel tankers headed for NATO forces in Afghanistan is attacked in Pakistan's Sindh province. ](/news/2010/09/30/a-convoy-of-at-least-27-fuel-tankers-headed-for-nato-forces-in-afghanistan-is-attacked-in-pakistan-s-sindh-province.md)
-_Context: Afghan, NATO, Pakistan, Sindh province, convoy, fuel tanker_
+_Context: Afghanistan, NATO, Pakistan, Sindh province, convoy, fuel tanker_
 
 ##### Protested against being stripped of their bonuses
 ### [A state of emergency is declared in Ecuador after troops storm the international airport and police storm the Congress, in which the government declared was an attempted coup d'etat. ](/news/2010/09/30/a-state-of-emergency-is-declared-in-ecuador-after-troops-storm-the-international-airport-and-police-storm-the-congress-in-which-the-governm.md)
@@ -93,7 +93,7 @@ _Context: Baghdad_
 
 ##### Kandahar
 ### [An explosion rocks Taliban birthplace Kandahar in southern Afghanistan on Thursday, wounding eight people. ](/news/2010/09/30/an-explosion-rocks-taliban-birthplace-kandahar-in-southern-afghanistan-on-thursday-wounding-eight-people.md)
-_Context: Afghan, Kandahar_
+_Context: Afghanistan, Kandahar_
 
 ##### Pakistani Armed Forces
 ### [Three paramilitary soldiers of the Pakistani Armed Forces are killed and three wounded when NATO helicopters strike a border checkpoint in the Kurram Agency tribal area. Pakistan responds by closing an important supply route that runs through its territory. Interior Minister Rehman Malik announces a high-level meeting to discuss NATO violations of Pakistani sovereignty. ](/news/2010/09/30/three-paramilitary-soldiers-of-the-pakistani-armed-forces-are-killed-and-three-wounded-when-nato-helicopters-strike-a-border-checkpoint-in-t.md)

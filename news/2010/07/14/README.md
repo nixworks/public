@@ -11,7 +11,7 @@ _Context: London, UK Athletics, Usain Bolt_
 ### [Controversial French footballer Thierry Henry moves to a team in the United States. ](/news/2010/07/14/controversial-french-footballer-thierry-henry-moves-to-a-team-in-the-united-states.md)
 Red Bull New York signed French forward Thierry Henry to a multi-year contract as its second designated player, the Major League Soccer club announced on Wednesday.
 
-##### UK
+##### United Kingdom
 ### [The United Kingdom announces its refusal to issue visas to a lacrosse team representing the Iroquois Confederacy, whose departure has been delayed since Friday, after the United States Department of State earlier in the day cleared the team's departure with tribal passports. The UK stated that it will only recognise passports from the United States or Canada. ](/news/2010/07/14/the-united-kingdom-announces-its-refusal-to-issue-visas-to-a-lacrosse-team-representing-the-iroquois-confederacy-whose-departure-has-been-d.md)
 The Iroquois national lacrosse team received permission on Wednesday from the State Department to travel on tribal passports, but England refused to grant visas.
 
@@ -19,7 +19,7 @@ The Iroquois national lacrosse team received permission on Wednesday from the St
 ### [Researchers find that the Vatican Radio transmitters increase the risk of tumours and leukaemia in children who live nearby. ](/news/2010/07/14/researchers-find-that-the-vatican-radio-transmitters-increase-the-risk-of-tumours-and-leukaemia-in-children-who-live-nearby.md)
 Italian cancer experts say there is a connection between radiation from Vatican Radio transmitters and a high number of child cancer cases.
 
-##### Boeing Company
+##### Boeing
 ### [Boeing unveils Phantom Eye, its unmanned hydrogen-powered spy plane capable of flying for up to four consecutive days. ](/news/2010/07/14/boeing-unveils-phantom-eye-its-unmanned-hydrogen-powered-spy-plane-capable-of-flying-for-up-to-four-consecutive-days.md)
 Boeing unveils an unmanned hydrogen-powered spy plane, the Phantom Eye, which is capable of flying non-stop for four days.
 

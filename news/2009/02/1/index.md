@@ -33,7 +33,7 @@ _Context: Boeing 747-300, Japan Airlines, biofuel, test flight_
 
 ##### Rafael Nadal
 ### [ Rafael Nadal of Spain defeats Roger Federer of Switzerland to win the 2009 Australian Open men's singles. ](/news/2009/02/1/rafael-nadal-of-spain-defeats-roger-federer-of-switzerland-to-win-the-2009-australian-open-men-s-singles.md)
-_Context: 2009 Australian Open, Rafael Nadal, Roger Federer, Spanish, Swiss, men's singles_
+_Context: 2009 Australian Open, Rafael Nadal, Roger Federer, Spanish, Switzerland, men's singles_
 
 ##### Cafe
 ### [ Four people are killed in a cafe shooting in Russia's Dagestan Republic. ](/news/2009/02/1/four-people-are-killed-in-a-cafa-c-shooting-in-russia-s-dagestan-republic.md)

@@ -39,7 +39,7 @@ _Context: ''Fortune'' magazine, Bill Gates, Carlos Slim, Mexico, Microsoft_
 ### [ Youths in East Timor attack Australian Army forces and United Nations personnel following the announcement that Xanana Gusmo would be the next Prime Minister. ](/news/2007/08/7/youths-in-east-timor-attack-australian-army-forces-and-united-nations-personnel-following-the-announcement-that-xanana-gusmao-would-be-the.md)
 Breaking News from Perth and Western Australia | Perth Now
 
-##### UK
+##### United Kingdom
 ### [ The United Kingdom asks United States Secretary of State Condoleezza Rice to release five residents of the UK from the Guantanamo Bay detention camp. ](/news/2007/08/7/the-united-kingdom-asks-united-states-secretary-of-state-condoleezza-rice-to-release-five-residents-of-the-uk-from-the-guantanamo-bay-deten.md)
 Foreign secretary asks that five men, who previously lived in the U.K. but are not British nationals, be released from terror detention facility in Cuba.
 
@@ -65,7 +65,7 @@ _Context: Iraq, Jordan, government school, refugee_
 
 ##### Taliban
 ### [ The Taliban attacks Firebase Anaconda in Uruzgan province but is repulsed by a joint force of Afghan fighters and United States Army forces with 20 militants killed. ](/news/2007/08/7/the-taliban-attacks-firebase-anaconda-in-uruzgan-province-but-is-repulsed-by-a-joint-force-of-afghan-fighters-and-united-states-army-forces.md)
-_Context: Afghan, Firebase Anaconda, Taliban, United States soldier, Uruzgan province_
+_Context: Afghanistan, Firebase Anaconda, Taliban, United States soldier, Uruzgan province_
 
 ##### Astronomer
 ### [ Astronomers of the Trans-Atlantic Exoplanet Survey announce the discovery of TrES-4, the largest known planet in the universe, circling the star GSC 02620-00648 in the Hercules Constellation. ](/news/2007/08/7/astronomers-of-the-trans-atlantic-exoplanet-survey-announce-the-discovery-of-tres-4-the-largest-known-planet-in-the-universe-circling-the.md)

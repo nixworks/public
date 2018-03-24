@@ -11,7 +11,7 @@ _Context: Huwaid, Pakistan, Taliban_
 ### [23 Yemeni government soldiers are killed by the Houthis in two separate incidents: 15 are ambushed in Wadi al-Jabara, while the remaining 8 die in Sa'dah. ](/news/2010/02/6/23-yemeni-government-soldiers-are-killed-by-the-houthis-in-two-separate-incidents-15-are-ambushed-in-wadi-al-jabara-while-the-remaining-8.md)
 _Context: Houthis, Sa'dah, Wadi al-Jabara, Yemen_
 
-##### Afghan
+##### Afghanistan
 ### [Afghan police admit they shot dead seven civilians, including two children, as they collected firewood in Spin Boldak, Kandahar, last Thursday. ](/news/2010/02/6/afghan-police-admit-they-shot-dead-seven-civilians-including-two-children-as-they-collected-firewood-in-spin-boldak-kandahar-last-thursd.md)
 Seven Afghan boys were shot dead on Saturday by police who mistook them for insurgents, a provincial police official said.
 

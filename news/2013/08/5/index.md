@@ -39,7 +39,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [35 people - mostly Boko Haram militants - are killed in separate attacks on security forces in Borno State. ](/news/2013/08/5/35-people-mostly-boko-haram-militants-are-killed-in-separate-attacks-on-security-forces-in-borno-state.md)
 At least 35 peoplehave been killed in two separate gun battles between Nigeriansecurity forces and Islamist sect Boko Haram in northeast Bornostate, the army said on Monday.
 
-##### Afghan
+##### Afghanistan
 ### [A bomb explodes at a market in the Afghan city of Kandahar, killing at least four people. ](/news/2013/08/5/a-bomb-explodes-at-a-market-in-the-afghan-city-of-kandahar-killing-at-least-four-people.md)
 Afghan officials say at least four people have been killed and more than 20 wounded in an explosion at a market in the city of Kandahar.
 

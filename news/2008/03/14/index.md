@@ -33,7 +33,7 @@ _Context: Brussels, European Union, greenhouse gas_
 
 ##### Muhammed Rahim
 ### [ Muhammed Rahim, an al-Qaeda member who helped Osama bin Laden escape from Tora Bora, Afghanistan in 2001, is taken to the Guantanamo Bay detention camp. ](/news/2008/03/14/muhammed-rahim-an-al-qaeda-member-who-helped-osama-bin-laden-escape-from-tora-bora-afghanistan-in-2001-is-taken-to-the-guantanamo-bay-de.md)
-_Context: Afghan, Guantanamo Bay detention camp, Muhammed Rahim, Osama bin Laden, Tora Bora, al-Qaeda_
+_Context: Afghanistan, Guantanamo Bay detention camp, Muhammed Rahim, Osama bin Laden, Tora Bora, al-Qaeda_
 
 ##### Colombia
 ### [ Colombian Ministry of National Defense Juan Manuel Santos says the government will pay US$2.5 million to Pedro Pablo Montoya, the FARC rebel who killed Ivn Ros. ](/news/2008/03/14/colombian-ministry-of-national-defense-juan-manuel-santos-says-the-government-will-pay-us-2-5-million-to-pedro-pablo-montoya-the-farc-rebe.md)

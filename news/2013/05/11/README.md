@@ -27,7 +27,7 @@ _Context: Aizawl, India, Mizoram_
 ### [A strong 6.2 magnitude earthquake occurs in southern Iran with reports of injuries and property damage. ](/news/2013/05/11/a-strong-6-2-magnitude-earthquake-occurs-in-southern-iran-with-reports-of-injuries-and-property-damage.md)
 _Context: Iran, earthquake_
 
-##### UK
+##### United Kingdom
 ### [Britain's Chancellor of the Exchequer, George Osborne, says that the finance ministers and central bankers of the G7 have agreed there must be co-ordinated action against tax evaders. ](/news/2013/05/11/britain-s-chancellor-of-the-exchequer-george-osborne-says-that-the-finance-ministers-and-central-bankers-of-the-g7-have-agreed-there-must.md)
 The chancellor says the G7 group of industrialised nations have agreed there needs to be collective action to target tax evasion and avoidance.
 

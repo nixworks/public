@@ -25,7 +25,7 @@ _Context: Israel, Israeli settlement freeze, Mahmoud Abbas, West Bank_
 
 ##### Philip Alston
 ### [Philip Alston, the international law scholar who recently stepped down as the United Nations's senior official on extrajudicial killings, calls for the UN to investigate war crimes in Afghanistan and to convict those responsible. ](/news/2010/09/26/philip-alston-the-international-law-scholar-who-recently-stepped-down-as-the-united-nations-s-senior-official-on-extrajudicial-killings-ca.md)
-_Context: Afghan, Philip Alston, United Nations, extrajudicial killing, international law, war crime_
+_Context: Afghanistan, Philip Alston, United Nations, extrajudicial killing, international law, war crime_
 
 ##### Human Rights Council
 ### [The 57-member United Nations Human Rights Council is to investigate the facts found by a report into the Gaza flotilla raid carried out by Israel earlier this year. ](/news/2010/09/26/the-57-member-united-nations-human-rights-council-is-to-investigate-the-facts-found-by-a-report-into-the-gaza-flotilla-raid-carried-out-by-i.md)
@@ -73,7 +73,7 @@ _Context: Al Qaeda, Sana'a, Yemen, policemen_
 
 ##### NATO
 ### [2 NATO service members are killed in a bomb blast in southern Afghanistan. ](/news/2010/09/26/2-nato-service-members-are-killed-in-a-bomb-blast-in-southern-afghanistan.md)
-_Context: Afghan, NATO_
+_Context: Afghanistan, NATO_
 
 ##### Iranian Revolutionary guards
 ### [The Army of the Guardians of the Islamic Revolution cross the border into Iraq and kill 30 Kurds. ](/news/2010/09/26/the-army-of-the-guardians-of-the-islamic-revolution-cross-the-border-into-iraq-and-kill-30-kurds.md)

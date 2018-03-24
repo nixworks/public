@@ -69,7 +69,7 @@ A record number of homeowners lost houses to their banks in August as lenders wo
 
 ##### Taliban
 ### [The Taliban kidnaps 18 election officials and campaign workers for the Afghan parliamentary election in Badghis Province, Afghanistan. ](/news/2010/09/16/the-taliban-kidnaps-18-election-officials-and-campaign-workers-for-the-afghan-parliamentary-election-in-badghis-province-afghanistan.md)
-_Context: Afghan, Badghis Province, Taliban, parliamentary election_
+_Context: Afghanistan, Badghis Province, Taliban, parliamentary election_
 
 ##### United Nations
 ### [The United Nations Special Representative for Somalia, Augustine Mahinga, says the situation in the country remains "dire" and the AMISOM mission is "underfunded". ](/news/2010/09/16/the-united-nations-special-representative-for-somalia-augustine-mahinga-says-the-situation-in-the-country-remains-dire-and-the-amisom-mi.md)

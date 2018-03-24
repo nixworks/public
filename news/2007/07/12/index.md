@@ -33,15 +33,15 @@ _Context: American Airlines, Middle East, false alarm, security controls_
 
 ##### Swiss Army
 ### [ Six Swiss Army recruits are killed by an avalanche on the Jungfrau mountain in Switzerland. ](/news/2007/07/12/six-swiss-army-recruits-are-killed-by-an-avalanche-on-the-jungfrau-mountain-in-switzerland.md)
-_Context: Jungfrau, Swiss, Swiss Army, avalanche, recruits_
+_Context: Jungfrau, Swiss Army, Switzerland, avalanche, recruits_
 
 ##### Israel
 ### [ An Israeli soldier is killed by Hamas forces in the Gaza Strip. It is the first Israeli combat casualty since November 2006. ](/news/2007/07/12/an-israeli-soldier-is-killed-by-hamas-forces-in-the-gaza-strip-it-is-the-first-israeli-combat-casualty-since-november-2006.md)
 JERUSALEM, July 12 — An Israeli soldier was killed early this morning during a military incursion in the central Gaza Strip, an army spokesman said. He was the first Israeli killed in combat since November 2006.
 
-##### Afghan
+##### Afghanistan
 ### [ Six Afghan policemen are killed by an improvised explosive device in the Khost Province. Another IED kills two civilians in the Paktika Province. ](/news/2007/07/12/six-afghan-policemen-are-killed-by-an-improvised-explosive-device-in-the-khost-province-another-ied-kills-two-civilians-in-the-paktika-pro.md)
-_Context: Afghan, Khost, Paktika Province, improvised explosive device_
+_Context: Afghanistan, Khost, Paktika Province, improvised explosive device_
 
 ##### National Counterterrorism Center
 ### [ A National Counterterrorism Center report claims that Al-Qaeda has "regrouped to an extent not seen since 2001." ](/news/2007/07/12/a-national-counterterrorism-center-report-claims-that-al-qaeda-has-regrouped-to-an-extent-not-seen-since-2001.md)
@@ -79,9 +79,9 @@ _Context: Luis Echeverria, Mexican President, Mexico, genocide_
 ### [ An attorney convicted of leaking evidence given by U.S. baseball player Barry Bonds and other athletes from the Bay Area Laboratory Co-operative (BALCO) Inquiry is sentenced to two and a half years in prison. ](/news/2007/07/12/an-attorney-convicted-of-leaking-evidence-given-by-u-s-baseball-player-barry-bonds-and-other-athletes-from-the-bay-area-laboratory-co-oper.md)
 _Context: Barry Bonds, Bay Area Laboratory Co-operative_
 
-##### UK
+##### United Kingdom
 ### [ Two British teenagers are arrested at the Kotoka International Airport in Accra, Ghana, for attempting to smuggle 6.5 kg of cocaine worth GBP300,000 to the UK.](/news/2007/07/12/two-british-teenagers-are-arrested-at-the-kotoka-international-airport-in-accra-ghana-for-attempting-to-smuggle-6-5-kg-of-cocaine-worth-a.md)
-_Context: Accra, Ghana, Kotoka International Airport, UK, cocaine_
+_Context: Accra, Ghana, Kotoka International Airport, United Kingdom, cocaine_
 
 ##### Africa
 ### [ The African kingdom of Lesotho declares a food crisis due to UN report showing a "major food gap" for 20% of the population. ](/news/2007/07/12/the-african-kingdom-of-lesotho-declares-a-food-crisis-due-to-un-report-showing-a-major-food-gap-for-20-of-the-population.md)

@@ -91,9 +91,9 @@ _Context: Marco Polo Bridge Incident_
 ### [A judge orders the arrest of Bruno Fernandes de Souza, one of Brazil's top footballers, in connection with the disappearance of his former mistress. ](/news/2010/07/7/a-judge-orders-the-arrest-of-bruno-fernandes-de-souza-one-of-brazil-s-top-footballers-in-connection-with-the-disappearance-of-his-former-m.md)
 _Context: Brazil, Bruno Fernandes de Souza_
 
-##### UK
+##### United Kingdom
 ### [The United Kingdom is to hand over responsibility for Afghanistan's Sangin area to the United States. ](/news/2010/07/7/the-united-kingdom-is-to-hand-over-responsibility-for-afghanistan-s-sangin-area-to-the-united-states.md)
-_Context: Afghan, Sangin, UK, United States_
+_Context: Afghanistan, Sangin, United Kingdom, United States_
 
 ##### Norwegian
 ### [A Norwegian asylum centre burns to the ground during protests at conditions at the facility. ](/news/2010/07/7/a-norwegian-asylum-centre-burns-to-the-ground-during-protests-at-conditions-at-the-facility.md)

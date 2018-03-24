@@ -49,7 +49,7 @@ Transport workers across Greece have begun a two-day strike in response to the l
 
 ##### New Zealand Prime Minister
 ### [The Prime Minister of New Zealand John Key announces that a second New Zealand Special Air Service soldier has died in fighting in Afghanistan. ](/news/2011/09/28/the-prime-minister-of-new-zealand-john-key-announces-that-a-second-new-zealand-special-air-service-soldier-has-died-in-fighting-in-afghanist.md)
-_Context: Afghan, John Key, New Zealand Prime Minister, New Zealand Special Air Service_
+_Context: Afghanistan, John Key, New Zealand Prime Minister, New Zealand Special Air Service_
 
 ## [Previous Day...](/news/2011/09/27/index.md)
 

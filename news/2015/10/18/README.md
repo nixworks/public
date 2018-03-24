@@ -5,7 +5,7 @@ Formats: [HTML](2015/10/18/index.html)  [JSON](2015/10/18/index.json)  [XML](201
 
 ##### Swiss federal election, 2015
 ### [Voters in Switzerland go to the polls for a federal election. Results show the anti-immigration Swiss People's Party winning the election with at least 29.5% of the vote, a record election result for the nationalist party. ](/news/2015/10/18/voters-in-switzerland-go-to-the-polls-for-a-federal-election-results-show-the-anti-immigration-swiss-people-s-party-winning-the-election-wi.md)
-_Context: Swiss, Swiss People's Party, Swiss federal election, 2015, anti-immigration, nationalist_
+_Context: Swiss People's Party, Swiss federal election, 2015, Switzerland, anti-immigration, nationalist_
 
 ##### Egyptian parliamentary election, 2015
 ### [Voters in Egypt go to the polls for the first round of voting in long delayed parliamentary elections. ](/news/2015/10/18/voters-in-egypt-go-to-the-polls-for-the-first-round-of-voting-in-long-delayed-parliamentary-elections.md)

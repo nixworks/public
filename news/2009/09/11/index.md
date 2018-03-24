@@ -33,7 +33,7 @@ _Context: Moldova, Moldovan President, Vladimir Voronin_
 
 ##### Zimbabwe
 ### [ Zimbabwe's President Robert Mugabe condemns "bloody whites" for meddling in his country's affairs, specifically perceived British and American interference. ](/news/2009/09/11/zimbabwe-s-president-robert-mugabe-condemns-bloody-whites-for-meddling-in-his-country-s-affairs-specifically-perceived-british-and-ameri.md)
-_Context: President of Zimbabwe, Robert Mugabe, UK, United States, Zimbabwe_
+_Context: President of Zimbabwe, Robert Mugabe, United Kingdom, United States, Zimbabwe_
 
 ##### Taiwanese President
 ### [ Former Taiwanese President Chen Shui-bian and his wife, Wu Shu-chen, are both sentenced to life in prison after being found guilty of corruption. ](/news/2009/09/11/former-taiwanese-president-chen-shui-bian-and-his-wife-wu-shu-chen-are-both-sentenced-to-life-in-prison-after-being-found-guilty-of-corru.md)

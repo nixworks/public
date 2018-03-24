@@ -11,7 +11,7 @@ Acting with minutes to spare, President Obama approved a four-year extension of 
 ### [The United States House of Representatives votes overwhelmingly against funding the involvement of ground troops in Libya. ](/news/2011/05/26/the-united-states-house-of-representatives-votes-overwhelmingly-against-funding-the-involvement-of-ground-troops-in-libya.md)
 _Context: Libya, United States House of Representatives_
 
-##### UK
+##### United Kingdom
 ### [In Britain, the former leader of Essex County Council and Conservative peer Lord Hanningfield is found guilty of six counts of false accounting relating to his expenses. ](/news/2011/05/26/in-britain-the-former-leader-of-essex-county-council-and-conservative-peer-lord-hanningfield-is-found-guilty-of-six-counts-of-false-account.md)
 Former Essex Council leader and former Tory peer Lord Hanningfield is found guilty of six counts of false accounting relating to his expenses.
 

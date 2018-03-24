@@ -23,7 +23,7 @@ Formats: [HTML](/news/2018/03/7/european-astronomers-observe-the-birth-of-a-symb
 
 ### Related:
 
-1. [The European Space Agency announces a mission to study the atmospheres of exoplanets. Known as ARIEL, it is expected to launch in 2028. ](/news/2018/03/20/the-european-space-agency-announces-a-mission-to-study-the-atmospheres-of-exoplanets-known-as-ariel-it-is-expected-to-launch-in-2028.md) _Context: European Space Agency_
+1. [The European Space Agency announces a mission to study the atmospheres of exoplanets. Selected as Cosmic Vision medium class M4 mission, ARIEL is expected to launch in 2028. ](/news/2018/03/20/the-european-space-agency-announces-a-mission-to-study-the-atmospheres-of-exoplanets-selected-as-cosmic-vision-medium-class-m4-mission-ari.md) _Context: European Space Agency_
 2. [NASA astronomers use the Hubble and Spitzer space telescopes in research implying that "hot Saturn" (high surface-atmosphere temperatures and gas giant-mass) exoplanet WASP-39b, located 700 light-years from Earth, has a large amount of water molecules in its atmosphere. ](/news/2018/03/1/nasa-astronomers-use-the-hubble-and-spitzer-space-telescopes-in-research-implying-that-hot-saturn-high-surface-atmosphere-temperatures-an.md) _Context: space telescope_
 3. [NASA's Kepler space telescope has discovered 95 new exoplanets. ](/news/2018/02/15/nasa-s-kepler-space-telescope-has-discovered-95-new-exoplanets.md) _Context: space telescope_
 4. [The European Space Agency (ESA) approves the PLATO space observatory which will seek out Earth-like exoplanets. ](/news/2017/06/21/the-european-space-agency-esa-approves-the-plato-space-observatory-which-will-seek-out-earth-like-exoplanets.md) _Context: European Space Agency_

@@ -15,4 +15,4 @@ Formats: [HTML](/news/2009/10/19/32-extra-solar-planets-are-discovered-and-annou
 
 ### Related:
 
-1. [The European Space Agency announces a mission to study the atmospheres of exoplanets. Known as ARIEL, it is expected to launch in 2028. ](/news/2018/03/20/the-european-space-agency-announces-a-mission-to-study-the-atmospheres-of-exoplanets-known-as-ariel-it-is-expected-to-launch-in-2028.md) _Context: exoplanets_
+1. [The European Space Agency announces a mission to study the atmospheres of exoplanets. Selected as Cosmic Vision medium class M4 mission, ARIEL is expected to launch in 2028. ](/news/2018/03/20/the-european-space-agency-announces-a-mission-to-study-the-atmospheres-of-exoplanets-selected-as-cosmic-vision-medium-class-m4-mission-ari.md) _Context: exoplanets_

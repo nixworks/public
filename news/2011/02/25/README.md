@@ -69,7 +69,7 @@ _Context: Australia, Mortal Kombat_
 
 ##### Victorian era
 ### [Victorian era photographs and parole details for women prisoners in the United Kingdom are published on Ancestry.com. ](/news/2011/02/25/victorian-era-photographs-and-parole-details-for-women-prisoners-in-the-united-kingdom-are-published-on-ancestry-com.md)
-_Context: Ancestry.com, UK, Victorian era, parole_
+_Context: Ancestry.com, United Kingdom, Victorian era, parole_
 
 ##### Ivory Coast
 ### [Rebels in the Ivory Coast seize another town from the control of incumbent President Laurent Gbagbo, who refused to step down following a disputed presidential election. Unrest occurs in the capital Yamoussoukro. ](/news/2011/02/25/rebels-in-the-ivory-coast-seize-another-town-from-the-control-of-incumbent-president-laurent-gbagbo-who-refused-to-step-down-following-a-di.md)

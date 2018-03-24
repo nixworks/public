@@ -9,7 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Prime Minister
 ### [ Prime Minister of the United Kingdom, Tony Blair, signs a petition in support of animal testing and condemns the acts of animal-rights extremists. ](/news/2006/05/14/prime-minister-of-the-united-kingdom-tony-blair-signs-a-petition-in-support-of-animal-testing-and-condemns-the-acts-of-animal-rights-extr.md)
-_Context: Prime Minister, Tony Blair, UK, animal testing_
+_Context: Prime Minister, Tony Blair, United Kingdom, animal testing_
 
 ##### Mount Merapi
 ### [ Mount Merapi in Central Java, Indonesia, which has been rumbling for about a month, is shooting out black smoke, volcanic ash and lava, and a volcanic eruption appears to be imminent. Mandatory evacuations are under way. ](/news/2006/05/14/mount-merapi-in-central-java-indonesia-which-has-been-rumbling-for-about-a-month-is-shooting-out-black-smoke-volcanic-ash-and-lava-and.md)

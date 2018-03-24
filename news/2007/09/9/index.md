@@ -33,7 +33,7 @@ Around 5,000 Algerians gathered in central Algiers on Sunday to protest against 
 
 ##### 2007 U.S. Open
 ### [ 2007 U.S. Open: Roger Federer of Switzerland defeats Novak Djokovic in the final of the men's singles in straight sets 7-6 (7-4), 7-6 (7-2), 6-4. ](/news/2007/09/9/2007-u-s-open-roger-federer-of-switzerland-defeats-novak-djokovic-in-the-final-of-the-men-s-singles-in-straight-sets-7-6-7-4-7-6-7-2.md)
-_Context: 2007 U.S. Open, Novak Djokovic, Roger Federer, Swiss_
+_Context: 2007 U.S. Open, Novak Djokovic, Roger Federer, Switzerland_
 
 ##### Israel
 ### [ Israeli police arrest eight men originally from the former Soviet Union accused of forming a neo-Nazi cell. ](/news/2007/09/9/israeli-police-arrest-eight-men-originally-from-the-former-soviet-union-accused-of-forming-a-neo-nazi-cell.md)

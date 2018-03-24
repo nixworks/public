@@ -25,7 +25,7 @@ PARIS — The mother of a pupil at a French pre-school stabbed a teacher to deat
 
 ##### Australians
 ### [Australian entertainer Rolf Harris is sentenced to 5 years and 9 months at Southwark Crown Court in London, United Kingdom, convicted on 12 charges of indecently assaulting female minors between 1968 and 1986. Harris will be eligible for release on licence after half of the sentence in 2017. ](/news/2014/07/4/australian-entertainer-rolf-harris-is-sentenced-to-5-years-and-9-months-at-southwark-crown-court-in-london-united-kingdom-convicted-on-12.md)
-_Context: Australians, London, Rolf Harris, Southwark Crown Court, UK, indecent assault_
+_Context: Australians, London, Rolf Harris, Southwark Crown Court, United Kingdom, indecent assault_
 
 ##### India
 ### [An 11-story building under construction collapses in the Indian city of Chennai, crushing to death 61 people, most of them workers on site. ](/news/2014/07/4/an-11-story-building-under-construction-collapses-in-the-indian-city-of-chennai-crushing-to-death-61-people-most-of-them-workers-on-site.md)

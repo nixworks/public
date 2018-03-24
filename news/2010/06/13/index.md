@@ -3,7 +3,7 @@ Formats: [HTML](2010/06/13/index.html)  [JSON](2010/06/13/index.json)  [XML](201
 
 ## [2010-06-13](/news/2010/06/13/index.md)
 
-##### UK
+##### United Kingdom
 ### [Official documents say the United Kingdom's government considered denying the Korea DPR national football team visas to attend the 1966 FIFA World Cup in England for fear of "diplomatic shockwaves" brought on by Communism. ](/news/2010/06/13/official-documents-say-the-united-kingdom-s-government-considered-denying-the-korea-dpr-national-football-team-visas-to-attend-the-1966-fifa.md)
 The government considered denying North Korea visas to attend the 1966 World Cup, official documents have revealed.
 
@@ -11,9 +11,9 @@ The government considered denying North Korea visas to attend the 1966 World Cup
 ### [The Japan Aerospace Exploration Agency's Hayabusa spacecraft returns to earth near Woomera in northwest South Australia. ](/news/2010/06/13/the-japan-aerospace-exploration-agency-s-hayabusa-spacecraft-returns-to-earth-near-woomera-in-northwest-south-australia.md)
 Japanese scientists are waiting to find out if a space capsule which crashed to Earth in outback South Australia last night contains dust from an ancient, distant asteroid.
 
-##### Swiss
+##### Switzerland
 ### [Freed Swiss businessman Max Goldi is due to leave Libya. ](/news/2010/06/13/freed-swiss-businessman-max-gapldi-is-due-to-leave-libya.md)
-_Context: Libya, Max Goldi, Swiss_
+_Context: Libya, Max Goldi, Switzerland_
 
 ##### Jock Stirrup
 ### [Britain's most senior military officer, Sir Jock Stirrup, agrees to leave before the end of his term in April 2011, according to the country's Defence Secretary Liam Fox. ](/news/2010/06/13/britain-s-most-senior-military-officer-sir-jock-stirrup-agrees-to-leave-before-the-end-of-his-term-in-april-2011-according-to-the-country.md)
@@ -101,7 +101,7 @@ _Context: International Whaling Commission, Japan, The Sunday Times, whaling_
 
 ##### Dai Kundi
 ### [10 police were killed in an attack on Sunday on an outpost in Dai Kundi province in central Afghanistan. ](/news/2010/06/13/10-police-were-killed-in-an-attack-on-sunday-on-an-outpost-in-dai-kundi-province-in-central-afghanistan.md)
-_Context: Afghan, Dai Kundi_
+_Context: Afghanistan, Dai Kundi_
 
 ##### Egyptian security forces
 ### [Egyptian security forces beat protesters at a demonstration against human rights abuses in Egypt and an incident of police brutality that resulted in the death of a young man a week ago. ](/news/2010/06/13/egyptian-security-forces-beat-protesters-at-a-demonstration-against-human-rights-abuses-in-egypt-and-an-incident-of-police-brutality-that-re.md)

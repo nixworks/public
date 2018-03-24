@@ -49,7 +49,7 @@ Explosions across Iraq ahead of Shia ceremonies of Ashoura and Christmas.
 
 ##### Suicide attack
 ### [ A suicide bomb attack kills at least eight people in Kandahar, Afghanistan. ](/news/2009/12/24/a-suicide-bomb-attack-kills-at-least-eight-people-in-kandahar-afghanistan.md)
-_Context: Afghan, Kandahar, suicide attack_
+_Context: Afghanistan, Kandahar, suicide attack_
 
 ##### Philippines
 ### [ At least three bodies have been recovered and 23 are missing after a collision between a ferry and a fishing boat in the Philippines. ](/news/2009/12/24/at-least-three-bodies-have-been-recovered-and-23-are-missing-after-a-collision-between-a-ferry-and-a-fishing-boat-in-the-philippines.md)

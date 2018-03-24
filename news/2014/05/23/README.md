@@ -45,7 +45,7 @@ _Context: Chinese, rmqi_
 
 ##### Attack the Indian consulate
 ### [Gunmen attack the Indian consulate in Afghanistan's Herat Province. ](/news/2014/05/23/gunmen-attack-the-indian-consulate-in-afghanistan-s-herat-province.md)
-_Context: Afghan, Herat Province, attack the Indian consulate_
+_Context: Afghanistan, Herat Province, attack the Indian consulate_
 
 ##### Egypt
 ### [Egyptian security forces claim to have killed Shadi el-Menei, the leader of Ansar Bait al-Maqdis, and three other senior members in overnight fighting. ](/news/2014/05/23/egyptian-security-forces-claim-to-have-killed-shadi-el-menei-the-leader-of-ansar-bait-al-maqdis-and-three-other-senior-members-in-overnigh.md)

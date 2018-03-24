@@ -7,7 +7,7 @@ Formats: [HTML](2006/10/26/index.html)  [JSON](2006/10/26/index.json)  [XML](200
 ### [ A German minister claims that two Israeli fighter jets fired two shots over a German naval peacekeeping ship near the Lebanese coast. Israel denies the jets fired. ](/news/2006/10/26/a-german-minister-claims-that-two-israeli-fighter-jets-fired-two-shots-over-a-german-naval-peacekeeping-ship-near-the-lebanese-coast-israe.md)
 News and opinion from The Times &amp; The Sunday Times
 
-##### Afghan
+##### Afghanistan
 ### [ Afghan government officials claim at least 60 civilians were killed in ISAF Operation Medusa in the Panjwayi district of Kandahar province on Tuesday. ](/news/2006/10/26/afghan-government-officials-claim-at-least-60-civilians-were-killed-in-isaf-operation-medusa-in-the-panjwayi-district-of-kandahar-province.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 

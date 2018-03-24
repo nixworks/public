@@ -21,7 +21,7 @@ Czech Republic’s leaders settle on official short name for country and await c
 
 ### Related:
 
-1. [Six people are dead after an explosion at a Unipetrol plant in Kralupy nad Vltavou, Czech Republic. ](/news/2018/03/22/six-people-are-dead-after-an-explosion-at-a-unipetrol-plant-in-kralupy-nad-vltavou-czech-republic.md) _Context: Czech Republic_
+1. [Six people are killed after an explosion at a Unipetrol plant in Kralupy nad Vltavou, Czech Republic. ](/news/2018/03/22/six-people-are-killed-after-an-explosion-at-a-unipetrol-plant-in-kralupy-nad-vltavou-czech-republic.md) _Context: Czech Republic_
 2. [The United Nations issues a report calling for an end to the nation's state of emergency, claiming it has been used to violate human rights. Turkey responds, calling the report "biased" and "unacceptable". ](/news/2018/03/20/the-united-nations-issues-a-report-calling-for-an-end-to-the-nation-s-state-of-emergency-claiming-it-has-been-used-to-violate-human-rights.md) _Context: United Nations_
 3. [Chinese diplomat Chen Cheng repeatedly interrupts and objects to exiled dissident Yang Jianli's testimony to the United Nations Human Rights Council. ](/news/2018/03/20/chinese-diplomat-chen-cheng-repeatedly-interrupts-and-objects-to-exiled-dissident-yang-jianli-s-testimony-to-the-united-nations-human-rights.md) _Context: United Nations_
 4. [The United Nations reports that from January 2017 to January 2018 a total of 47 people were killed in protests against Congolese President Joseph Kabila. ](/news/2018/03/19/the-united-nations-reports-that-from-january-2017-to-january-2018-a-total-of-47-people-were-killed-in-protests-against-congolese-president-j.md) _Context: United Nations_

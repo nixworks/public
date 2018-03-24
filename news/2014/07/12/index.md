@@ -19,9 +19,9 @@ _Context: Istanbul, Turkey_
 ### [Gunmen kill 29 people in an apartment building in East Baghdad, including twenty women. ](/news/2014/07/12/gunmen-kill-29-people-in-an-apartment-building-in-east-baghdad-including-twenty-women.md)
 Some 29 people, 20 of them women, were killed on Saturday evening in an apartment building in eastern Baghdad by gunmen wearing a mix of plain clothes and camouflage, a police officer and a hospital official said.
 
-##### Afghan
+##### Afghanistan
 ### [A cross border attack by the Afghan Taliban kills three Pakistan Army soldiers in Bajaur Agency of the Federally Administered Tribal Areas. ](/news/2014/07/12/a-cross-border-attack-by-the-afghan-taliban-kills-three-pakistan-army-soldiers-in-bajaur-agency-of-the-federally-administered-tribal-areas.md)
-_Context: Afghan, Bajaur, Federally Administered Tribal Areas, Pakistan Army, Taliban_
+_Context: Afghanistan, Bajaur, Federally Administered Tribal Areas, Pakistan Army, Taliban_
 
 ##### Gaza Strip
 ### [The death toll in the Gaza Strip since the beginning of Israeli air strikes reaches 120. The IAF has performed over 1,300 airstrikes since the beginning of the operation. ](/news/2014/07/12/the-death-toll-in-the-gaza-strip-since-the-beginning-of-israeli-air-strikes-reaches-120-the-iaf-has-performed-over-1-300-airstrikes-since-t.md)

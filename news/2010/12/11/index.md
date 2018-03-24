@@ -53,7 +53,7 @@ Delegates from 190 nations reach a deal to curb climate change, including a fund
 
 ##### A/H1N1
 ### [Eight fatal cases of A-H1N1 swine flu and two from seasonal flu are confirmed within six weeks in the United Kingdom. ](/news/2010/12/11/eight-fatal-cases-of-a-h1n1-swine-flu-and-two-from-seasonal-flu-are-confirmed-within-six-weeks-in-the-united-kingdom.md)
-_Context: A/H1N1, UK, swine flu_
+_Context: A/H1N1, United Kingdom, swine flu_
 
 ##### Venezuela
 ### [Due to recent floods in Venezuela, President Hugo Chavez announces the erection in his garden of a Bedouin tent given as a gift by Muammar al-Gaddafi from which he is to live and govern to make room for more homeless families in his presidential palace at Miraflores. 25 families made homeless by the disaster had already sought shelter there and Chavez has been personally supervising the provision of relief in the country. ](/news/2010/12/11/due-to-recent-floods-in-venezuela-president-hugo-cha-vez-announces-the-erection-in-his-garden-of-a-bedouin-tent-given-as-a-gift-by-muammar.md)

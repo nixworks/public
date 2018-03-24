@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/22/the-city-government-of-atlanta-georgia-united-s
 
 ### [2018-03-22](/news/2018/03/22/index.md)
 
-##### Atlanta
+##### Crime in Georgia (U.S. state)
 # The city government of Atlanta, Georgia, United States, experiences an outage on some official websites, caused by a ransomware cyberattack. 
 
 The City of Atlanta has tweeted that they are currently experiencing outages on some of their customer applications. 

@@ -43,9 +43,9 @@ _Context: Japanese government, US$, exchange rate, yen_
 ### [Australian airline Qantas resumes flights after a ruling by Fair Work Australia. ](/news/2011/10/31/australian-airline-qantas-resumes-flights-after-a-ruling-by-fair-work-australia.md)
 _Context: Australia, Fair Work Australia, Qantas_
 
-##### Afghan
+##### Afghanistan
 ### [Three people are killed in attacks on the offices of the International Relief and Development (IRD) in the Afghan city of Kandahar. ](/news/2011/10/31/three-people-are-killed-in-attacks-on-the-offices-of-the-international-relief-and-development-ird-in-the-afghan-city-of-kandahar.md)
-_Context: Afghan, Kandahar_
+_Context: Afghanistan, Kandahar_
 
 ## [Previous Day...](/news/2011/10/30/index.md)
 

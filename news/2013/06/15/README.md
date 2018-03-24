@@ -7,7 +7,7 @@ Formats: [HTML](2013/06/15/index.html)  [JSON](2013/06/15/index.json)  [XML](201
 ### [A man goes on a shooting spree in Omaha, Nebraska, U.S., killing two people and wounding two others, before being fatally shot by police. ](/news/2013/06/15/a-man-goes-on-a-shooting-spree-in-omaha-nebraska-u-s-killing-two-people-and-wounding-two-others-before-being-fatally-shot-by-police.md)
 _Context: Nebraska, Omaha_
 
-##### UK
+##### United Kingdom
 ### [Britain's Royal Air Force (RAF) escorts an Egyptair Boeing 777 bound for New York to Glasgow Prestwick Airport in Scotland following an onboard incident. ](/news/2013/06/15/britain-s-royal-air-force-raf-escorts-an-egyptair-boeing-777-bound-for-new-york-to-glasgow-prestwick-airport-in-scotland-following-an-onbo.md)
 Britain&#39;s Royal Air Force has escorted an Egyptair plane bound for New York to a Scottish airport following an onboard incident, says the Ministry of Defence. 
 

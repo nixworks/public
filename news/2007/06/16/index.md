@@ -13,7 +13,7 @@ _Context: Chinese, Chinese slave scandal, Ministry of Labour and Social Security
 
 ##### Zimbabwe
 ### [ Police in Zimbabwe confiscate opposition leader Arthur Mutambara's passport as he tries to leave for South Africa and the United Kingdom. ](/news/2007/06/16/police-in-zimbabwe-confiscate-opposition-leader-arthur-mutambara-s-passport-as-he-tries-to-leave-for-south-africa-and-the-united-kingdom.md)
-_Context: Arthur Mutambara, South Africa, UK, Zimbabwe, passport_
+_Context: Arthur Mutambara, South Africa, United Kingdom, Zimbabwe, passport_
 
 ##### Mike Nifong
 ### [ Mike Nifong is disbarred in the U.S. state of North Carolina for his role in the prosecution of the 2006 Duke University lacrosse case. ](/news/2007/06/16/mike-nifong-is-disbarred-in-the-u-s-state-of-north-carolina-for-his-role-in-the-prosecution-of-the-2006-duke-university-lacrosse-case.md)

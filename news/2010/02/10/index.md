@@ -3,7 +3,7 @@ Formats: [HTML](2010/02/10/index.html)  [JSON](2010/02/10/index.json)  [XML](201
 
 ## [2010-02-10](/news/2010/02/10/index.md)
 
-##### Afghan
+##### Afghanistan
 ### [Afghan officials report that at least 150 bodies were pulled from vehicles buried by avalanches in the Salang Pass in the Hindu Kush mountains earlier this week. ](/news/2010/02/10/afghan-officials-report-that-at-least-150-bodies-were-pulled-from-vehicles-buried-by-avalanches-in-the-salang-pass-in-the-hindu-kush-mountai.md)
 At least 150 bodies were pulled from vehicles buried by an avalanche in the Salang Pass in the Hindu Kush mountains of Afghanistan, officials said Wednesday
 

@@ -47,7 +47,7 @@ Government agrees council tax and business rates relief for 5,000 as forecasters
 ### [U.S. airplane manufacturer Boeing unveils the first Boeing 737 MAX airplane at its factory in Renton, Washington. ](/news/2015/12/8/u-s-airplane-manufacturer-boeing-unveils-the-first-boeing-737-max-airplane-at-its-factory-in-renton-washington.md)
 Boeing rolls the first 737 MAX out of the hangar, but its lag behind Airbus may leave Boeing with “a product strategy problem.”
 
-##### UK
+##### United Kingdom
 ### [UK-based Anglo American plc (AAUKF) announces plans to slash 85k jobs and shed 60% of assets over the next several years; it will also halt dividend payments for the rest of 2015-16 and cut capital expenditures. The company cited depressed commodity prices for its actions. ](/news/2015/12/8/uk-based-anglo-american-plc-aaukf-announces-plans-to-slash-85k-jobs-and-shed-60-of-assets-over-the-next-several-years-it-will-also-halt.md)
 Mining giant Anglo American will shed about 85,000 jobs as it sells off 60% of its assets in response to a slump in commodity prices. 
 

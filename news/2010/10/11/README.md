@@ -31,9 +31,9 @@ _Context: Leadership Academy for Girls, Meyerton, Oprah Winfrey, South Africa, s
 ### [Benigno Aquino III, the President of the Philippines, elects only for administrative, and no criminal charges to be laid in relation to the botched Manila hostage crisis in August. ](/news/2010/10/11/benigno-aquino-iii-the-president-of-the-philippines-elects-only-for-administrative-and-no-criminal-charges-to-be-laid-in-relation-to-the.md)
 _Context: Manila hostage crisis, Philippine President, his predecessor_
 
-##### UK
+##### United Kingdom
 ### [British judge Heather Hallett opens the inquests into the 7 July 2005 London bombings. ](/news/2010/10/11/british-judge-heather-hallett-opens-the-inquests-into-the-7-july-2005-london-bombings.md)
-_Context: 7 July, Heather Hallett, UK, inquest_
+_Context: 7 July, Heather Hallett, United Kingdom, inquest_
 
 ##### Greek Police
 ### [Greek Police officer Epaminondas Korkoneas is convicted of the culpable homicide of teenager Alexandros Grigoropoulos which sparked the 2008 Greek riots. ](/news/2010/10/11/greek-police-officer-epaminondas-korkoneas-is-convicted-of-the-culpable-homicide-of-teenager-alexandros-grigoropoulos-which-sparked-the-2008.md)
@@ -75,7 +75,7 @@ Two Americans and a British-Cypriot economist won the 2010 Nobel economics prize
 ### [Australian opera singer Dame Joan Sutherland dies in Switzerland after a lengthy illness. ](/news/2010/10/11/australian-opera-singer-dame-joan-sutherland-dies-in-switzerland-after-a-lengthy-illness.md)
 SHE was a transcendental performer who had a magic quality that held audiences captive right around the world. Her influence extended well beyond the opera world and reached into popular culture.
 
-##### UK
+##### United Kingdom
 ### [British pop singer George Michael is released from a Suffolk prison after serving 4 weeks for driving while under the influence of cannabis. ](/news/2010/10/11/british-pop-singer-george-michael-is-released-from-a-suffolk-prison-after-serving-4-weeks-for-driving-while-under-the-influence-of-cannabis.md)
 Pop star George Michael says he &quot;just wants to start again&quot; as he is released from prison in Suffolk after serving a sentence for drug driving.
 

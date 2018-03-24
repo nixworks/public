@@ -15,9 +15,9 @@ _Context: Australia, Benedict XVI, Madrid, Pope, Sydney, World Youth Day 2008, m
 ### [ Beijing introduces traffic restrictions and factory closures in an effort to reduce air pollution for the 2008 Summer Olympics. ](/news/2008/07/20/beijing-introduces-traffic-restrictions-and-factory-closures-in-an-effort-to-reduce-air-pollution-for-the-2008-summer-olympics.md)
 _Context: 2008 Summer Olympics, Beijing, air pollution_
 
-##### Afghan
+##### Afghanistan
 ### [ At least 13 Afghan police and civilians are killed in an airstrike by NATO forces two weeks after an airstrike killed 52 civilians at a wedding. ](/news/2008/07/20/at-least-13-afghan-police-and-civilians-are-killed-in-an-airstrike-by-nato-forces-two-weeks-after-an-airstrike-killed-52-civilians-at-a-wed.md)
-_Context: Afghan, NATO, airstrike_
+_Context: Afghanistan, NATO, airstrike_
 
 ##### Colombia
 ### [ The Colombian diaspora celebrates Colombia's Independence Day with concerts and marches against violence, kidnapping and the FARC in Bogot, Leticia, the country's other 1,119 cities and municipalities, and events in cities around the world including Paris (attended by Ingrid Betancourt), London, Washington, D.C., New York City and Miami. ](/news/2008/07/20/the-colombian-diaspora-celebrates-colombia-s-independence-day-with-concerts-and-marches-against-violence-kidnapping-and-the-farc-in-bogota.md)

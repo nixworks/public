@@ -49,7 +49,7 @@ At least 19 people are killed after a train hits a truck carrying farm workers a
 
 ##### Federal Aviation Administration
 ### [The Federal Aviation Administration fines Boeing $13.5 million for failing to provide fuel tank flammability instructions by designated deadline. ](/news/2012/07/13/the-federal-aviation-administration-fines-boeing-13-5-million-for-failing-to-provide-fuel-tank-flammability-instructions-by-designated-dead.md)
-_Context: Boeing Company, Federal Aviation Administration_
+_Context: Boeing, Federal Aviation Administration_
 
 ##### Economic growth
 ### [The economic growth rate for the People's Republic of China falls to 7.6 per cent, its lowest level in three years. ](/news/2012/07/13/the-economic-growth-rate-for-the-people-s-republic-of-china-falls-to-7-6-per-cent-its-lowest-level-in-three-years.md)
@@ -77,7 +77,7 @@ Poet Laureate Carol Ann Duffy says she is &quot;hugely honoured&quot; by being a
 
 ##### Hanifa Safi
 ### [A female Afghan politician, Hanifa Safi, dies in a bomb attack in eastern Afghanistan. ](/news/2012/07/13/a-female-afghan-politician-hanifa-safi-dies-in-a-bomb-attack-in-eastern-afghanistan.md)
-_Context: Afghan, Hanifa Safi_
+_Context: Afghanistan, Hanifa Safi_
 
 ##### Suicide bomber
 ### [A suicide bomber kills 5 at a mosque in Maiduguri, Nigeria. ](/news/2012/07/13/a-suicide-bomber-kills-5-at-a-mosque-in-maiduguri-nigeria.md)

@@ -33,7 +33,7 @@ The 2010 World Cup draw will take place in Cape Town, South Africa at 2 a.m. Sat
 
 ##### North Atlantic Treaty Organisation
 ### [ The North Atlantic Treaty Organisation announces that 25 member countries will contribute a further 7,000 troops to the International Security Assistance Force in Afghanistan in addition to 30,000 additional American and 500 British troops previously announced. ](/news/2009/12/4/the-north-atlantic-treaty-organisation-announces-that-25-member-countries-will-contribute-a-further-7-000-troops-to-the-international-secur.md)
-_Context: Afghan, International Security Assistance Force, North Atlantic Treaty Organisation_
+_Context: Afghanistan, International Security Assistance Force, North Atlantic Treaty Organisation_
 
 ##### Italy
 ### [ An Italian jury finds Amanda Knox and Raffaele Sollecito guilty in the case of the 2007 murder of Meredith Kercher in Perugia. Knox is sentenced to 26 years in prison, Sollecito to 25. ](/news/2009/12/4/an-italian-jury-finds-amanda-knox-and-raffaele-sollecito-guilty-in-the-case-of-the-2007-murder-of-meredith-kercher-in-perugia-knox-is-sent.md)
@@ -69,7 +69,7 @@ _Context: AmTrust Bank, Cleveland, Office of Thrift Supervision_
 
 ##### United States Marines Corps
 ### [ US Marines and Afghan troops launch Operation Cobra's Anger in northern Helmand province. ](/news/2009/12/4/us-marines-and-afghan-troops-launch-operation-cobra-s-anger-in-northern-helmand-province.md)
-_Context: Afghan, Helmand province, Operation Cobra's Anger, United States Marines Corps_
+_Context: Afghanistan, Helmand province, Operation Cobra's Anger, United States Marines Corps_
 
 ## [Previous Day...](/news/2009/12/3/index.md)
 

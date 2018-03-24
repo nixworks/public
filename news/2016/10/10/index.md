@@ -11,7 +11,7 @@ In North Carolina, teams searched for missing people and others stranded by floo
 ### [Samsung recalls and suspends production of its reformulated-version of Galaxy Note 7 smartphone due to the same persistent problem with battery fires and explosions. ](/news/2016/10/10/samsung-recalls-and-suspends-production-of-its-reformulated-version-of-galaxy-note-7-smartphone-due-to-the-same-persistent-problem-with-batt.md)
 _Context: Galaxy Note 7, Samsung_
 
-##### UK
+##### United Kingdom
 ### [British-born American Oliver Hart and Finnish Bengt Holmstrom win the Nobel Prize in Economics for their work on the science of contracts. ](/news/2016/10/10/british-born-american-oliver-hart-and-finnish-bengt-holmstrapm-win-the-nobel-prize-in-economics-for-their-work-on-the-science-of-contracts.md)
 UK-born Oliver Hart and Bengt Holmstrom of Finland have won the Nobel Economics Prize for work on contract theory.
 

@@ -57,9 +57,9 @@ _Context: Nawalapitiya, Sri Lanka, Trincomalee, parliamentary election_
 
 ##### Kandahar
 ### [Deputy Mayor of Kandahar Azizollah Yarmal, Afghanistan is shot dead while praying at a mosque. ](/news/2010/04/20/deputy-mayor-of-kandahar-azizollah-yarmal-afghanistan-is-shot-dead-while-praying-at-a-mosque.md)
-_Context: Afghan, Azizollah Yarmal, Kandahar, mosque_
+_Context: Afghanistan, Azizollah Yarmal, Kandahar, mosque_
 
-##### UK
+##### United Kingdom
 ### [The United Kingdom is accused of complicity in torture in Afghanistan as peace campaigner Maya Evans seeks a judicial review of the government's role in the extraordinary rendition of suspects. ](/news/2010/04/20/the-united-kingdom-is-accused-of-complicity-in-torture-in-afghanistan-as-peace-campaigner-maya-evans-seeks-a-judicial-review-of-the-governme.md)
 Britain has been accused of complicity in the torture of Taliban suspects arrested and handed over to the Afghan security forces to face &quot;horrible abuse&quot;.
 
@@ -89,7 +89,7 @@ _Context: Cairo_
 
 ##### New York City
 ### [A New York businessman, Abdul Tawala Ibn Ali Alishtari is sentenced to 10 years in prison for funneling money to a terrorism training camp in Afghanistan. ](/news/2010/04/20/a-new-york-businessman-abdul-tawala-ibn-ali-alishtari-is-sentenced-to-10-years-in-prison-for-funneling-money-to-a-terrorism-training-camp-i.md)
-_Context: Abdul Tawala Ibn Ali Alishtari, Afghan, New York City, terrorism training camp_
+_Context: Abdul Tawala Ibn Ali Alishtari, Afghanistan, New York City, terrorism training camp_
 
 ##### Reynaldo Bignone
 ### [82-year-old General Reynaldo Bignone, former military ruler of Argentina, is imprisoned for 25 years for abductions and tortures committed between 1978 and 1979. ](/news/2010/04/20/82-year-old-general-reynaldo-bignone-former-military-ruler-of-argentina-is-imprisoned-for-25-years-for-abductions-and-tortures-committed-b.md)

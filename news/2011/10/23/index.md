@@ -3,9 +3,9 @@ Formats: [HTML](2011/10/23/index.html)  [JSON](2011/10/23/index.json)  [XML](201
 
 ## [2011-10-23](/news/2011/10/23/index.md)
 
-##### Swiss
+##### Switzerland
 ### [Voters in Switzerland go to the polls for a federal election, with the Green Liberal Party of Switzerland gaining the most seats compared to the 2007 election, and the Swiss People's Party losing eight seats but remaining the biggest party in the Federal Assembly. ](/news/2011/10/23/voters-in-switzerland-go-to-the-polls-for-a-federal-election-with-the-green-liberal-party-of-switzerland-gaining-the-most-seats-compared-to.md)
-_Context: 2007 election, Federal Assembly, Green Liberal Party of Switzerland, Swiss, Swiss People's Party, federal election_
+_Context: 2007 election, Federal Assembly, Green Liberal Party of Switzerland, Swiss People's Party, Switzerland, federal election_
 
 ##### Argentina
 ### [Voters in Argentina go to the polls for a general election, with exit polls showing the President Cristina Fernndez de Kirchner being reelected in a landslide. ](/news/2011/10/23/voters-in-argentina-go-to-the-polls-for-a-general-election-with-exit-polls-showing-the-president-cristina-fernandez-de-kirchner-being-reele.md)

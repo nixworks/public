@@ -3,9 +3,9 @@ Formats: [HTML](2010/01/9/index.html)  [JSON](2010/01/9/index.json)  [XML](2010/
 
 ## [2010-01-9](/news/2010/01/9/index.md)
 
-##### Afghan
+##### Afghanistan
 ### [Afghanistan's President Hamid Karzai resubmits his proposal for forming the cabinet after his previous selection was rejected by the National Assembly. ](/news/2010/01/9/afghanistan-s-president-hamid-karzai-resubmits-his-proposal-for-forming-the-cabinet-after-his-previous-selection-was-rejected-by-the-nationa.md)
-_Context: Afghan, Hamid Karzai, National Assembly_
+_Context: Afghanistan, Hamid Karzai, National Assembly_
 
 ##### Taiwan
 ### [Taiwan's opposition Democratic Progressive Party wins all three seats in by-elections against the ruling Kuomintang. ](/news/2010/01/9/taiwan-s-opposition-democratic-progressive-party-wins-all-three-seats-in-by-elections-against-the-ruling-kuomintang.md)

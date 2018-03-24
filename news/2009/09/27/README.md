@@ -35,17 +35,17 @@ _Context: Family Guy, Legality of cannabis, United States, Venezuela, an episode
 ### [ American General Stanley McChrystal, Commander of the International Security Assistance Force, formally requests more troops for the War in Afghanistan. ](/news/2009/09/27/american-general-stanley-mcchrystal-commander-of-the-international-security-assistance-force-formally-requests-more-troops-for-the-war-in.md)
 _Context: General, International Security Assistance Force, Stanley McChrystal, United States, War in Afghanistan_
 
-##### Swiss
+##### Switzerland
 ### [ The Swiss multinational Nestle is buying milk from a farm seized from its white owners and now owned by the wife of Zimbabwe's President Robert Mugabe, according to England's "The Sunday Telegraph". ](/news/2009/09/27/the-swiss-multinational-nestla-c-is-buying-milk-from-a-farm-seized-from-its-white-owners-and-now-owned-by-the-wife-of-zimbabwe-s-president-r.md)
-_Context: England, Nestle, President, Robert Mugabe, Swiss, The Sunday Telegraph, Zimbabwe_
+_Context: England, Nestle, President, Robert Mugabe, Switzerland, The Sunday Telegraph, Zimbabwe_
 
 ##### Tropical Storm Ketsana
 ### [ The death toll from Tropical Storm Ketsana rises to 73, with more than 300,000 people displaced. ](/news/2009/09/27/the-death-toll-from-tropical-storm-ketsana-rises-to-73-with-more-than-300-000-people-displaced.md)
 _Context: Tropical Storm Ketsana_
 
-##### Afghan
+##### Afghanistan
 ### [ Afghan Energy Minister Ismail Khan survives a roadside blast which kills four people and wounds seventeen outside a school in Herat. ](/news/2009/09/27/afghan-energy-minister-ismail-khan-survives-a-roadside-blast-which-kills-four-people-and-wounds-seventeen-outside-a-school-in-herat.md)
-_Context: Afghan, Herat, Ismail Khan_
+_Context: Afghanistan, Herat, Ismail Khan_
 
 ##### Roman Polanski
 ### [ Film director Roman Polanski is arrested in Zurich on a 31-year-old US arrest warrant. ](/news/2009/09/27/film-director-roman-polanski-is-arrested-in-zurich-on-a-31-year-old-us-arrest-warrant.md)

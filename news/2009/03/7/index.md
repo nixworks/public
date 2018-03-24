@@ -7,7 +7,7 @@ Formats: [HTML](2009/03/7/index.html)  [JSON](2009/03/7/index.json)  [XML](2009/
 ### [ Amsterdam's Schiphol Airport holds a memorial ceremony for the nine victims of Turkish Airlines Flight 1951. ](/news/2009/03/7/amsterdam-s-schiphol-airport-holds-a-memorial-ceremony-for-the-nine-victims-of-turkish-airlines-flight-1951.md)
 _Context: Amsterdam, Amsterdam Airport Schiphol, Flight 1951, Turkish Airlines, ceremony, memorial_
 
-##### Afghan
+##### Afghanistan
 ### [ Afghan President Hamid Karzai accepts the Electoral Commission's decision to hold a presidential election on August 20. ](/news/2009/03/7/afghan-president-hamid-karzai-accepts-the-electoral-commission-s-decision-to-hold-a-presidential-election-on-august-20.md)
 Afghan president abandons move to bring forward poll and agrees to August 20 vote.
 
@@ -39,9 +39,9 @@ _Context: Pakistan, Peshawar, car bomb_
 ### [ NASA launches its Kepler spacecraft from Cape Canaveral Air Force Station in Florida. ](/news/2009/03/7/nasa-launches-its-kepler-spacecraft-from-cape-canaveral-air-force-station-in-florida.md)
 _Context: Cape Canaveral Air Force Station, Florida, Kepler Mission, NASA_
 
-##### UK
+##### United Kingdom
 ### [ The United Kingdom's government increases its ownership stake in Lloyds Banking Group from 43% to at least 60%. ](/news/2009/03/7/the-united-kingdom-s-government-increases-its-ownership-stake-in-lloyds-banking-group-from-43-to-at-least-60.md)
-_Context: His Majesty's Government, Lloyds Banking Group, UK_
+_Context: His Majesty's Government, Lloyds Banking Group, United Kingdom_
 
 ##### Morocco
 ### [ Morocco terminates diplomatic relations with Iran. ](/news/2009/03/7/morocco-terminates-diplomatic-relations-with-iran.md)

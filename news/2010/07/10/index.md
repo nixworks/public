@@ -63,7 +63,7 @@ China records its biggest trade surplus this year, $20bn in June, despite fears 
 ### [After public outcry, gamemaker Blizzard Entertainment rescinds its plan to force users of its World of Warcraft online game to post under their real names. ](/news/2010/07/10/after-public-outcry-gamemaker-blizzard-entertainment-rescinds-its-plan-to-force-users-of-its-world-of-warcraft-online-game-to-post-under-th.md)
 _Context: Blizzard Entertainment, World of Warcraft_
 
-##### UK
+##### United Kingdom
 ### [After more than a century in British collections, the head of Noongar leader Yagan is ceremonially buried on the 177th anniversary of his last full day of freedom. ](/news/2010/07/10/after-more-than-a-century-in-british-collections-the-head-of-noongar-leader-yagan-is-ceremonially-buried-on-the-177th-anniversary-of-his-la.md)
 The remains of a Western Australian Aboriginal warrior have been laid to rest near Perth today more than 170 years after his death.
 

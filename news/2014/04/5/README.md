@@ -15,9 +15,9 @@ _Context: Deputy First Minister of Northern Ireland, Elizabeth II, Martin McGuin
 ### [Voters in the Australian state of Western Australia go to the polls for a Federal Senate election. ](/news/2014/04/5/voters-in-the-australian-state-of-western-australia-go-to-the-polls-for-a-federal-senate-election.md)
 PRIME Minister Tony Abbott has made a last-ditch plea to West Australian voters as they head to the polls for a Senate election re-run.
 
-##### Afghan
+##### Afghanistan
 ### [Amidst violence, voters in Afghanistan elect a new President in what is the country's first democratic transfer of power. ](/news/2014/04/5/amidst-violence-voters-in-afghanistan-elect-a-new-president-in-what-is-the-country-s-first-democratic-transfer-of-power.md)
-_Context: Afghan_
+_Context: Afghanistan_
 
 ##### Tasikmalaya
 ### [At least 3 are killed and 7 injured when a passenger train derails in the Tasikmalaya District, in Indonesia's West Java Island after hitting mounds of mud following a downpour of rain. ](/news/2014/04/5/at-least-3-are-killed-and-7-injured-when-a-passenger-train-derails-in-the-tasikmalaya-district-in-indonesia-s-west-java-island-after-hittin.md)

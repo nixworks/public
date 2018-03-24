@@ -49,7 +49,7 @@ _Context: Chief Justice, Filipino Muslims, January 25 botched police operation, 
 
 ##### Taliban insurgency
 ### [Taliban attacks across Afghanistan kill 17 people. ](/news/2015/01/29/taliban-attacks-across-afghanistan-kill-17-people.md)
-_Context: Afghan, Taliban, Taliban insurgency_
+_Context: Afghanistan, Taliban, Taliban insurgency_
 
 ##### 2014 Sydney hostage crisis
 ### [A coronial inquest into the siege at the Lindt Cafe in the center of Sydney begins. The inquest hears that one hostage was killed by gunman Man Haron Monis while another was killed by fragments of a bullet or bullets fired by New South Wales Police Force officers. ](/news/2015/01/29/a-coronial-inquest-into-the-siege-at-the-lindt-cafe-in-the-center-of-sydney-begins-the-inquest-hears-that-one-hostage-was-killed-by-gunman.md)

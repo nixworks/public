@@ -41,7 +41,7 @@ _Context: Chinese, Jiangxi, bus_
 
 ##### NGO
 ### [ A number of non-governmental organizations meet in Geneva, Switzerland in the World Water Forum. They call for water to be treated as a common asset instead of being privatized. ](/news/2005/03/17/a-number-of-non-governmental-organizations-meet-in-geneva-switzerland-in-the-world-water-forum-they-call-for-water-to-be-treated-as-a-com.md)
-_Context: Geneva, NGO, Swiss, World Water Forum, privatization, water_
+_Context: Geneva, NGO, Switzerland, World Water Forum, privatization, water_
 
 ##### Transparency International
 ### [ Transparency International (TI), a nonprofit which works against corruption, warns about US companies overcharging for the rebuilding of Iraq. A TI study showed that a multi-million-dollar deal was awarded to a US company only for it to sub-contract the work to an Iraqi firm for a fraction of the cost. ](/news/2005/03/17/transparency-international-ti-a-nonprofit-which-works-against-corruption-warns-about-us-companies-overcharging-for-the-rebuilding-of-ir.md)

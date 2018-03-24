@@ -13,7 +13,7 @@ Tens of thousands of protesters converged on the National Mall in Washington in 
 
 ##### North Korea
 ### [ North Korea denies reports by British newspapers that it is helping Iran prepare to test an atomic bomb. ](/news/2007/01/27/north-korea-denies-reports-by-british-newspapers-that-it-is-helping-iran-prepare-to-test-an-atomic-bomb.md)
-_Context: Iran, North Korea, UK, nuclear test, nuclear weapon_
+_Context: Iran, North Korea, United Kingdom, nuclear test, nuclear weapon_
 
 ##### Two years of helping
 ### [ War in Somalia: Ethiopia is going to withdraw one third of its troops stationed in Somalia by Sunday January 28, 2007, Ethiopia's Prime Minister Meles Zenawi says. ](/news/2007/01/27/war-in-somalia-ethiopia-is-going-to-withdraw-one-third-of-its-troops-stationed-in-somalia-by-sunday-january-28-2007-ethiopia-s-prime-min.md)

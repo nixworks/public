@@ -45,7 +45,7 @@ _Context: Indonesia, Suharto_
 
 ##### Peter Friederich
 ### [ Peter Friederich, former Swiss ambassador to Luxembourg, goes on trial for money laundering. ](/news/2005/05/9/peter-friederich-former-swiss-ambassador-to-luxembourg-goes-on-trial-for-money-laundering.md)
-_Context: Luxembourg, Peter Friederich, Swiss, money laundering_
+_Context: Luxembourg, Peter Friederich, Switzerland, money laundering_
 
 ##### Mars Global Surveyor
 ### [ Re-examination of old images taken by the Mars Global Surveyor several years ago may have led to the identification of the crash site of the Mars Polar Lander, which failed in December 1999. Using insights and techniques developed for analyzing images of the Mars Exploration Rovers, Malin Space Science Systems may have spotted the rocket blast zone, Mars Polar Lander and the parachute. ](/news/2005/05/9/re-examination-of-old-images-taken-by-the-mars-global-surveyor-several-years-ago-may-have-led-to-the-identification-of-the-crash-site-of-th.md)

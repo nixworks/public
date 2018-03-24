@@ -33,7 +33,7 @@ The firm says &quot;changed circumstances&quot; led to the decision to abandon t
 
 ##### Nobel Prize in Literature
 ### [The Nobel Committee awards Japanese-born British novelist Kazuo Ishiguro the Nobel Prize in Literature for his "novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world." ](/news/2017/10/5/the-nobel-committee-awards-japanese-born-british-novelist-kazuo-ishiguro-the-nobel-prize-in-literature-for-his-novels-of-great-emotional-fo.md)
-_Context: Japan, Kazuo Ishiguro, Nobel Committee, Nobel Prize in Literature, Nobel Prize in Literature, UK_
+_Context: Japan, Kazuo Ishiguro, Nobel Committee, Nobel Prize in Literature, Nobel Prize in Literature, United Kingdom_
 
 ##### Battle of Hawija
 ### [The Iraqi Army fully retakes the city of Hawija in the Kirkuk Governorate from ISIL. Fighting continues to the north and east of the city as Iraqi troops continue anti-ISIL operations in the Hawija District. ](/news/2017/10/5/the-iraqi-army-fully-retakes-the-city-of-hawija-in-the-kirkuk-governorate-from-isil-fighting-continues-to-the-north-and-east-of-the-city-as.md)

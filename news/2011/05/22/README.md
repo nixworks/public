@@ -79,11 +79,11 @@ Two directors who made headlines at the Cannes Film Festival for their conduct o
 
 ##### Taliban
 ### [The Taliban warn that Kazakhstan's decision to send troops to Afghanistan will have "severe consequences". ](/news/2011/05/22/the-taliban-warn-that-kazakhstan-s-decision-to-send-troops-to-afghanistan-will-have-severe-consequences.md)
-_Context: Afghan, Kazakhstan, Taliban_
+_Context: Afghanistan, Kazakhstan, Taliban_
 
-##### UK
+##### United Kingdom
 ### [The UK's military operation in Iraq will officially end at midnight, after the Royal Navy completes its training of Iraqi sailors. ](/news/2011/05/22/the-uk-s-military-operation-in-iraq-will-officially-end-at-midnight-after-the-royal-navy-completes-its-training-of-iraqi-sailors.md)
-_Context: Iraq, Royal Navy, UK, military operation_
+_Context: Iraq, Royal Navy, United Kingdom, military operation_
 
 ##### Pakistan Air Force
 ### [Three explosions rock a Pakistan Air Force base in the southern city of Karachi. ](/news/2011/05/22/three-explosions-rock-a-pakistan-air-force-base-in-the-southern-city-of-karachi.md)
@@ -103,7 +103,7 @@ More than a dozen bomb attacks in and around Baghdad left 18 people dead and mor
 
 ##### Suicide bomber
 ### [Gunmen wearing explosive suicide vests storm a government building in Khost, Afghanistan. ](/news/2011/05/22/gunmen-wearing-explosive-suicide-vests-storm-a-government-building-in-khost-afghanistan.md)
-_Context: Afghan, Afghan government, Khost, suicide bomber_
+_Context: Afghan government, Afghanistan, Khost, suicide bomber_
 
 ##### Civil war
 ### [2011 Libyan civil war: NATO warplanes attack the port of Tripoli and the residence of Libyan leader Muammar Gaddafi. ](/news/2011/05/22/2011-libyan-civil-war-nato-warplanes-attack-the-port-of-tripoli-and-the-residence-of-libyan-leader-muammar-gaddafi.md)

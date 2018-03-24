@@ -3,9 +3,9 @@ Formats: [HTML](2008/10/5/index.html)  [JSON](2008/10/5/index.json)  [XML](2008/
 
 ## [2008-10-5](/news/2008/10/5/index.md)
 
-##### Afghan
+##### Afghanistan
 ### [ Senior British Commander says military victory in Afghanistan is impossible. ](/news/2008/10/5/senior-british-commander-says-military-victory-in-afghanistan-is-impossible.md)
-_Context: Afghan_
+_Context: Afghanistan_
 
 ##### Asif Ali Zardari
 ### [ Pakistani president Asif Ali Zardari acknowledges his government's consent to US air strikes in Pakistan and says India has never been a threat. ](/news/2008/10/5/pakistani-president-asif-ali-zardari-acknowledges-his-government-s-consent-to-us-air-strikes-in-pakistan-and-says-india-has-never-been-a-th.md)

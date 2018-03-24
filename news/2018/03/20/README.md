@@ -23,7 +23,7 @@ _Context: Extinction threshold, Northern white rhinoceros, Sudan_
 ### [Analysis of ancient ice cores extracted from Greenland dates an eruption on Eldgja volcano in Iceland. Iceland's largest eruption in the last 2,000 years was described in ancient poem Voluspa. ](/news/2018/03/20/analysis-of-ancient-ice-cores-extracted-from-greenland-dates-an-eruption-on-eldgja-volcano-in-iceland-iceland-s-largest-eruption-in-the-la.md)
 _Context: Eldgja, Greenland, Iceland, Norse mythology, Voluspa_
 
-##### Zambia
+##### Politics of Zambia
 ### [Zambian Minister Bowman Lusambo is suspended by Parliament over an assault on a fellow lawmaker in October 2017. ](/news/2018/03/20/zambian-minister-bowman-lusambo-is-suspended-by-parliament-over-an-assault-on-a-fellow-lawmaker-in-october-2017.md)
 Zambia&rsquo;s parliament suspended a cabinet minister on Tuesday from its proceedings for one month for slapping a fellow lawmaker within parliament grounds.
 
@@ -99,7 +99,7 @@ Denuclearization is not on the agenda of a meeting in Finland between delegation
 ### [Russia's Ministry of Transport suspends all flights by Saratov Airlines after conducting checks on the company's Antonov An-148 aircraft. ](/news/2018/03/20/russia-s-ministry-of-transport-suspends-all-flights-by-saratov-airlines-after-conducting-checks-on-the-company-s-antonov-an-148-aircraft.md)
 _Context: Antonov An-148, Russia, Saratov Airlines, Saratov Airlines Flight 703_
 
-##### Occidental Mindoro
+##### 2018 disasters in the Philippines
 ### [A bus falls off a bridge in Occidental Mindoro, Philippines, killing at least 19 people and injuring 21 others. ](/news/2018/03/20/a-bus-falls-off-a-bridge-in-occidental-mindoro-philippines-killing-at-least-19-people-and-injuring-21-others.md)
 (3rd UPDATE) Public transport regulators say they may suspend the franchise of the operator of the bus involved in the incident
 

@@ -24,5 +24,6 @@ Several people have died after a motorway crash involving two lorries and a mini
 
 ### Related:
 
-1. [Flash floods in West Yorkshire, England, close the M1 motorway. ](/news/2012/06/10/flash-floods-in-west-yorkshire-england-close-the-m1-motorway.md) _Context: M1 motorway_
-2. [ In the United Kingdom, hundreds of people are evacuated from villages in South Yorkshire, and a section of the M1 motorway is closed amid fears of an imminent collapse of the dam at the Ulley reservoir following heavy rainfall and widespread flooding across the UK. ](/news/2007/06/26/in-the-united-kingdom-hundreds-of-people-are-evacuated-from-villages-in-south-yorkshire-and-a-section-of-the-m1-motorway-is-closed-amid-f.md) _Context: M1 motorway_
+1. [Two lorry drivers receive prison terms, one of 14 years, for killing eight people when their vehicles collided with a bus on the M1 in Buckinghamshire, England, in 2017. ](/news/2018/03/23/two-lorry-drivers-receive-prison-terms-one-of-14-years-for-killing-eight-people-when-their-vehicles-collided-with-a-bus-on-the-m1-in-bucki.md) _Context: Buckinghamshire, M1_
+2. [Flash floods in West Yorkshire, England, close the M1 motorway. ](/news/2012/06/10/flash-floods-in-west-yorkshire-england-close-the-m1-motorway.md) _Context: M1_
+3. [ In the United Kingdom, hundreds of people are evacuated from villages in South Yorkshire, and a section of the M1 motorway is closed amid fears of an imminent collapse of the dam at the Ulley reservoir following heavy rainfall and widespread flooding across the UK. ](/news/2007/06/26/in-the-united-kingdom-hundreds-of-people-are-evacuated-from-villages-in-south-yorkshire-and-a-section-of-the-m1-motorway-is-closed-amid-f.md) _Context: M1_

@@ -5,7 +5,7 @@ Formats: [HTML](2009/04/19/index.html)  [JSON](2009/04/19/index.json)  [XML](200
 
 ##### Movement for the Emancipation of the Niger Delta
 ### [ The Movement for the Emancipation of the Niger Delta releases British hostage Robin Barry Hughes. ](/news/2009/04/19/the-movement-for-the-emancipation-of-the-niger-delta-releases-british-hostage-robin-barry-hughes.md)
-_Context: Movement for the Emancipation of the Niger Delta, Niger Delta, UK, hostage_
+_Context: Movement for the Emancipation of the Niger Delta, Niger Delta, United Kingdom, hostage_
 
 ##### Fifth
 ### [ The Fifth Summit of the Americas ends in Port-of-Spain, Trinidad and Tobago. ](/news/2009/04/19/the-fifth-summit-of-the-americas-ends-in-port-of-spain-trinidad-and-tobago.md)

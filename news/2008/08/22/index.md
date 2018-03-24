@@ -21,7 +21,7 @@ _Context: Pakistan, Pervez Musharraf, September 6, president_
 
 ##### War in Afghanistan
 ### [ The United States-led coalition kills 30 Taliban militants in fighting in western Afghanistan. ](/news/2008/08/22/the-united-states-led-coalition-kills-30-taliban-militants-in-fighting-in-western-afghanistan.md)
-_Context: Afghan, Taliban, United States, War in Afghanistan_
+_Context: Afghanistan, Taliban, United States, War in Afghanistan_
 
 ##### Clashes
 ### [ More than 60 people are reported to have been killed and 150 wounded during clashes in the Somali port of Kismayo. ](/news/2008/08/22/more-than-60-people-are-reported-to-have-been-killed-and-150-wounded-during-clashes-in-the-somali-port-of-kismayo.md)

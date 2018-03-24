@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/28/swiss-bank-credit-suisse-announces-plans-to-cut
 
 ### [2011-07-28](/news/2011/07/28/index.md)
 
-##### Swiss
+##### Switzerland
 # Swiss bank Credit Suisse announces plans to cut 2,000 jobs due to poor profit results. 
 
 Swiss bank Credit Suisse CSGN.VX is cutting about 2,000 jobs after weak trading activity and the strong Swiss franc hit second-quarter results.
@@ -16,8 +16,8 @@ Swiss bank Credit Suisse CSGN.VX is cutting about 2,000 jobs after weak trading 
 
 ### Related:
 
-1. [ Switzerland's UBS AG appoints former Credit Suisse CEO Oswald Grubel as its new Group CEO. ](/news/2009/02/26/switzerland-s-ubs-ag-appoints-former-credit-suisse-ceo-oswald-gra1-4bel-as-its-new-group-ceo.md) _Context: Credit Suisse, Swiss_
-2. [Swiss voters reject a proposal to scrap the television licence fee that provides the majority of funding for the Swiss Broadcasting Corporation. Swiss voters also approve the right of the federal government to levy VAT and direct federal tax until 2025. ](/news/2018/03/4/swiss-voters-reject-a-proposal-to-scrap-the-television-licence-fee-that-provides-the-majority-of-funding-for-the-swiss-broadcasting-corporat.md) _Context: Swiss_
-3. [Winter storm Eleanor moves from the British Isles to continental Europe with one dead in France as well as injuries and material losses in Germany, Netherlands and Switzerland. ](/news/2018/01/3/winter-storm-eleanor-moves-from-the-british-isles-to-continental-europe-with-one-dead-in-france-as-well-as-injuries-and-material-losses-in-g.md) _Context: Swiss_
-4. [Various billionaires, world leaders, and investors gather in Davos, Switzerland to discuss economic issues. ](/news/2018/01/23/various-billionaires-world-leaders-and-investors-gather-in-davos-switzerland-to-discuss-economic-issues.md) _Context: Swiss_
-5. [Two trains collide in Andermatt railway station in the Canton of Uri, Switzerland, injuring around 30 people. ](/news/2017/09/11/two-trains-collide-in-andermatt-railway-station-in-the-canton-of-uri-switzerland-injuring-around-30-people.md) _Context: Swiss_
+1. [ Switzerland's UBS AG appoints former Credit Suisse CEO Oswald Grubel as its new Group CEO. ](/news/2009/02/26/switzerland-s-ubs-ag-appoints-former-credit-suisse-ceo-oswald-gra1-4bel-as-its-new-group-ceo.md) _Context: Credit Suisse, Switzerland_
+2. [Swiss voters reject a proposal to scrap the television licence fee that provides the majority of funding for the Swiss Broadcasting Corporation. Swiss voters also approve the right of the federal government to levy VAT and direct federal tax until 2025. ](/news/2018/03/4/swiss-voters-reject-a-proposal-to-scrap-the-television-licence-fee-that-provides-the-majority-of-funding-for-the-swiss-broadcasting-corporat.md) _Context: Switzerland_
+3. [Thirteen high-ranking independentists declare in front of the judge of the Spanish Supreme Court, except Marta Rovira who is "self-exiled" in Switzerland. ](/news/2018/03/23/thirteen-high-ranking-independentists-declare-in-front-of-the-judge-of-the-spanish-supreme-court-except-marta-rovira-who-is-self-exiled-i.md) _Context: Switzerland_
+4. [Winter storm Eleanor moves from the British Isles to continental Europe with one dead in France as well as injuries and material losses in Germany, Netherlands and Switzerland. ](/news/2018/01/3/winter-storm-eleanor-moves-from-the-british-isles-to-continental-europe-with-one-dead-in-france-as-well-as-injuries-and-material-losses-in-g.md) _Context: Switzerland_
+5. [Various billionaires, world leaders, and investors gather in Davos, Switzerland to discuss economic issues. ](/news/2018/01/23/various-billionaires-world-leaders-and-investors-gather-in-davos-switzerland-to-discuss-economic-issues.md) _Context: Switzerland_

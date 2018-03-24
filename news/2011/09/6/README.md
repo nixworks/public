@@ -33,7 +33,7 @@ _Context: MiG-31, Perm Krai, Russian Air Force, Ural Mountains_
 
 ##### English
 ### [English musician PJ Harvey wins her second Mercury Prize for best album from the United Kingdom and Ireland for her album "Let England Shake". ](/news/2011/09/6/english-musician-pj-harvey-wins-her-second-mercury-prize-for-best-album-from-the-united-kingdom-and-ireland-for-her-album-let-england-shake.md)
-_Context: English, Ireland, Let England Shake, Mercury Prize, PJ Harvey, UK_
+_Context: English, Ireland, Let England Shake, Mercury Prize, PJ Harvey, United Kingdom_
 
 ## [Previous Day...](/news/2011/09/5/index.md)
 

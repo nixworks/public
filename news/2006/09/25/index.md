@@ -13,7 +13,7 @@ Find the latest business news on Wall Street, jobs and the economy, the housing 
 
 ##### Safia Ahmed-jan
 ### [ Two gunmen kill Safia Ahmed-jan, the provincial director of Afghanistan's Ministry of Women's Affairs outside her home in Kandahar. ](/news/2006/09/25/two-gunmen-kill-safia-ahmed-jan-the-provincial-director-of-afghanistan-s-ministry-of-women-s-affairs-outside-her-home-in-kandahar.md)
-_Context: Afghan, Kandahar, Safia Ahmed-jan_
+_Context: Afghanistan, Kandahar, Safia Ahmed-jan_
 
 ##### Kismayo
 ### [ After taking over Kismayo, Somali Islamist militants open fire on anti-sharia protesters. Three deaths are being reported. ](/news/2006/09/25/after-taking-over-kismayo-somali-islamist-militants-open-fire-on-anti-sharia-protesters-three-deaths-are-being-reported.md)
@@ -29,7 +29,7 @@ _Context: Comair Flight 5191, co-pilot_
 
 ##### Insurgents
 ### [ Iraq insurgency: British forces are reported to have killed senior Al-Qaeda operative Omar al-Faruq during a gunfight in Basra, Iraq. ](/news/2006/09/25/iraq-insurgency-british-forces-are-reported-to-have-killed-senior-al-qaeda-operative-omar-al-faruq-during-a-gunfight-in-basra-iraq.md)
-_Context: Basra, British military personnel, Iraq, Omar al-Faruq, UK, al-Qaeda, insurgents_
+_Context: Basra, British military personnel, Iraq, Omar al-Faruq, United Kingdom, al-Qaeda, insurgents_
 
 ##### Condoleezza Rice
 ### [ Condoleezza Rice, the United States Secretary of State, and Barry Lowenkron, the assistant secretary of state for human rights, meet with Kasymzhomart Tokayev, the foreign minister of Kazakhstan. They discussed the War in Afghanistan and Iraq and the Nazarbayev administration's desire to head the Organization for Security and Cooperation in Europe in 2009, which the United States Government opposes. ](/news/2006/09/25/condoleezza-rice-the-united-states-secretary-of-state-and-barry-lowenkron-the-assistant-secretary-of-state-for-human-rights-meet-with-k.md)

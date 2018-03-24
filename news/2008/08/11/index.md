@@ -21,7 +21,7 @@ An incredible anchor leg by Jason Lezak kept Michael Phelps’ hope of eight gol
 
 ##### Air strike
 ### [ An air strike by the United States kills 25 Taliban militants and 8 civilians in Oruzgan Province in southern Afghanistan. ](/news/2008/08/11/an-air-strike-by-the-united-states-kills-25-taliban-militants-and-8-civilians-in-ora-zgan-province-in-southern-afghanistan.md)
-_Context: Afghan, Oruzgan Province, Taliban, United States, air strike_
+_Context: Afghanistan, Oruzgan Province, Taliban, United States, air strike_
 
 ## [Previous Day...](/news/2008/08/10/index.md)
 

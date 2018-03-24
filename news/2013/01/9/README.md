@@ -15,7 +15,7 @@ _Context: Hilda Solis, United States Secretary of Labor, second inauguration_
 ### [Despite international protest, Sri-Lankan maid Rizana Nafeek is executed in Saudi Arabia for killing an infant in her care. ](/news/2013/01/9/despite-international-protest-sri-lankan-maid-rizana-nafeek-is-executed-in-saudi-arabia-for-killing-an-infant-in-her-care.md)
 Saudi Arabia beheads a Sri Lankan domestic worker for killing a baby in her care in 2005 in a case that is widely condemned by rights groups.
 
-##### UK
+##### United Kingdom
 ### [Retired British businessman Christopher Tappin is sentenced to 33 months in prison by a U.S. court after pleading guilty to selling weapon parts to Iran. ](/news/2013/01/9/retired-british-businessman-christopher-tappin-is-sentenced-to-33-months-in-prison-by-a-u-s-court-after-pleading-guilty-to-selling-weapon-p.md)
 Extradited British businessman Christopher Tappin is handed a 33-month prison sentence by a court in Texas after admitting selling weapon parts to Iran.
 

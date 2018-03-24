@@ -43,7 +43,7 @@ Chemical titans DuPont and Dow Chemical Co have agreed to combine in an all-stoc
 ### [Chinese tycoon Guo Guangchang, founder and chairman of Fosun, is reported missing amid the Chinese anti-corruption campaign. ](/news/2015/12/11/chinese-tycoon-guo-guangchang-founder-and-chairman-of-fosun-is-reported-missing-amid-the-chinese-anti-corruption-campaign.md)
 Chairman of Fosun group Guo Guangchang – known as China’s Warren Buffett – was thought to be missing but was later discovered to be in police custody
 
-##### Swiss
+##### Switzerland
 ### [Swiss police in Geneva, following yesterday's CIA tip, arrest two Syrian nationals. Apparently, traces of explosives were found in their car. President Simonetta Sommaruga says, "There is currently no indication that there was a concrete attack planned." ](/news/2015/12/11/swiss-police-in-geneva-following-yesterday-s-cia-tip-arrest-two-syrian-nationals-apparently-traces-of-explosives-were-found-in-their-car.md)
 Explosive traces are discovered in a car in Geneva, say media reports, as the city is put on a high security alert.
 

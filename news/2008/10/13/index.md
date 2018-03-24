@@ -11,7 +11,7 @@ _Context: 2008, Nobel Prize in Economics, Paul Krugman, United States, economist
 ### [ The European Union temporarily lifts travel bans on Belarusian President Alexander Lukashenko and other top officials for six months to encourage democratic reforms in that country. ](/news/2008/10/13/the-european-union-temporarily-lifts-travel-bans-on-belarusian-president-alexander-lukashenko-and-other-top-officials-for-six-months-to-enc.md)
 _Context: Alexander Lukashenko, Belarus, Belarussian President, European Union_
 
-##### UK
+##### United Kingdom
 ### [ The United Kingdom House of Lords rejects the Counter-Terrorism Bill 2008 by 309 votes to 118. ](/news/2008/10/13/the-united-kingdom-house-of-lords-rejects-the-counter-terrorism-bill-2008-by-309-votes-to-118.md)
 The House of Lords firmly rejected a government proposal to tighten anti-terrorism laws on Monday, saying it would not support suspects being held for up to six weeks without charge.
 

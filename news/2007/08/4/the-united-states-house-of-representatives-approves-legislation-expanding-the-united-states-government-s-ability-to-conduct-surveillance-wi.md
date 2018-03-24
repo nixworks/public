@@ -16,7 +16,7 @@ Formats: [HTML](/news/2007/08/4/the-united-states-house-of-representatives-appro
 
 ### Changes:
 
-1. [ The United States House of Representatives passes the budget for the United States Department of Defense. ](/news/2007/08/4/the-united-states-house-of-representatives-passes-the-budget-for-the-united-states-department-of-defense.md) _2018-03-22 03:25:04 (First version)_
+1. [ The United States House of Representatives passes the budget for the United States Department of Defense. ](/news/2007/08/4/the-united-states-house-of-representatives-passes-the-budget-for-the-united-states-department-of-defense.md) _2018-03-23 03:24:52 (First version)_
 1. [ The United States House of Representatives approves legislation expanding the United States Government's ability to conduct surveillance without a court order on foreign terrorism suspects. ](/news/2007/08/4/the-united-states-house-of-representatives-approves-legislation-expanding-the-united-states-government-s-ability-to-conduct-surveillance-wi.md) _(Current version)_
 
 ### Related:

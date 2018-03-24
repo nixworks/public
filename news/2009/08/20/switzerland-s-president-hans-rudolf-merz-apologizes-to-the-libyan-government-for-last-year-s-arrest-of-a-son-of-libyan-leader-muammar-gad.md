@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/20/switzerland-s-president-hans-rudolf-merz-apolog
 
 ### [2009-08-20](/news/2009/08/20/index.md)
 
-##### Swiss
+##### Switzerland
 #  Switzerland's president, Hans-Rudolf Merz, apologizes to the Libyan government for last year's arrest of a son of Libyan leader Muammar Gaddafi. 
 
 Switzerland&#39;s president apologized to the Libyan government Thursday for last year&#39;s arrest of a son of Libyan leader Moammar Gadhafi, clearing the way for a return to normal diplomatic ties. 
@@ -16,8 +16,8 @@ Switzerland&#39;s president apologized to the Libyan government Thursday for las
 
 ### Related:
 
-1. [President Muammar Gaddafi of Libya declares a holy war on Switzerland. ](/news/2010/02/26/president-muammar-gaddafi-of-libya-declares-a-holy-war-on-switzerland.md) _Context: Muammar Gaddafi, Swiss_
-2. [Swiss voters reject a proposal to scrap the television licence fee that provides the majority of funding for the Swiss Broadcasting Corporation. Swiss voters also approve the right of the federal government to levy VAT and direct federal tax until 2025. ](/news/2018/03/4/swiss-voters-reject-a-proposal-to-scrap-the-television-licence-fee-that-provides-the-majority-of-funding-for-the-swiss-broadcasting-corporat.md) _Context: Swiss_
-3. [In a statement to French investigating magistrates, ex-President Nicolas Sarkozy refutes corruption charges relating to alleged receipt of funding from the then President of Libya, Muammar Gaddafi, in 2007. ](/news/2018/03/22/in-a-statement-to-french-investigating-magistrates-ex-president-nicolas-sarkozy-refutes-corruption-charges-relating-to-alleged-receipt-of-f.md) _Context: Muammar Gaddafi_
-4. [Former French President Nicolas Sarkozy is held for up to 48 hours and questioned by police in Nanterre over allegations that he illegally accepted EUR50 million from Libyan leader Muammar Gaddafi to finance his bid in the 2007 presidential election. ](/news/2018/03/20/former-french-president-nicolas-sarkozy-is-held-for-up-to-48-hours-and-questioned-by-police-in-nanterre-over-allegations-that-he-illegally-a.md) _Context: Muammar Gaddafi_
-5. [Winter storm Eleanor moves from the British Isles to continental Europe with one dead in France as well as injuries and material losses in Germany, Netherlands and Switzerland. ](/news/2018/01/3/winter-storm-eleanor-moves-from-the-british-isles-to-continental-europe-with-one-dead-in-france-as-well-as-injuries-and-material-losses-in-g.md) _Context: Swiss_
+1. [President Muammar Gaddafi of Libya declares a holy war on Switzerland. ](/news/2010/02/26/president-muammar-gaddafi-of-libya-declares-a-holy-war-on-switzerland.md) _Context: Muammar Gaddafi, Switzerland_
+2. [Swiss voters reject a proposal to scrap the television licence fee that provides the majority of funding for the Swiss Broadcasting Corporation. Swiss voters also approve the right of the federal government to levy VAT and direct federal tax until 2025. ](/news/2018/03/4/swiss-voters-reject-a-proposal-to-scrap-the-television-licence-fee-that-provides-the-majority-of-funding-for-the-swiss-broadcasting-corporat.md) _Context: Switzerland_
+3. [Thirteen high-ranking independentists declare in front of the judge of the Spanish Supreme Court, except Marta Rovira who is "self-exiled" in Switzerland. ](/news/2018/03/23/thirteen-high-ranking-independentists-declare-in-front-of-the-judge-of-the-spanish-supreme-court-except-marta-rovira-who-is-self-exiled-i.md) _Context: Switzerland_
+4. [In a statement to French investigating magistrates, ex-President Nicolas Sarkozy refutes corruption charges relating to alleged receipt of funding from the then President of Libya, Muammar Gaddafi, in 2007. ](/news/2018/03/22/in-a-statement-to-french-investigating-magistrates-ex-president-nicolas-sarkozy-refutes-corruption-charges-relating-to-alleged-receipt-of-f.md) _Context: Muammar Gaddafi_
+5. [Former French President Nicolas Sarkozy is held for up to 48 hours and questioned by police in Nanterre over allegations that he illegally accepted EUR50 million from Libyan leader Muammar Gaddafi to finance his bid in the 2007 presidential election. ](/news/2018/03/20/former-french-president-nicolas-sarkozy-is-held-for-up-to-48-hours-and-questioned-by-police-in-nanterre-over-allegations-that-he-illegally-a.md) _Context: Muammar Gaddafi_

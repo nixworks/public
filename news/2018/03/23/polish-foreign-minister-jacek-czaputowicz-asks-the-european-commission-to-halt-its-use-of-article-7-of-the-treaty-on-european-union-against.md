@@ -11,7 +11,7 @@ Poland wants Brussels to withdraw its Article 7 procedure against Warsaw, the Po
 
 ### Sources:
 
-1. [thenews.pl](http://thenews.pl/1/9/Artykul/355348,Poland-offers-compromise-wants-Brussels-to-halt-Article-7-procedure-FM)
+1. [Radio Poland](http://thenews.pl/1/9/Artykul/355348,Poland-offers-compromise-wants-Brussels-to-halt-Article-7-procedure-FM)
 1. [Cover Image](http://thenews.pl/94dee400-fc63-4751-9eb0-aaca923dcde2.file)
 
 ### Related:

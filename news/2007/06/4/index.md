@@ -25,7 +25,7 @@ _Context: Europe, Russia, Russian President, United States, Vladimir Putin, miss
 
 ##### Terrorism
 ### [ A military judge dismisses terrorism-related charges against a Canadian Guantanamo Bay detainee charged with killing a United States Army soldier in Afghanistan. ](/news/2007/06/4/a-military-judge-dismisses-terrorism-related-charges-against-a-canadian-guantanamo-bay-detainee-charged-with-killing-a-united-states-army-s.md)
-_Context: Afghan, Canada, Guantanamo Bay detention camp, United States soldier, soldier, terrorism_
+_Context: Afghanistan, Canada, Guantanamo Bay detention camp, United States soldier, soldier, terrorism_
 
 ##### Cyclone Gonu
 ### [ Cyclone Gonu forces the Government of Oman to evacuate 7,000 people from Masirah Island, off the east coast of Oman. ](/news/2007/06/4/cyclone-gonu-forces-the-government-of-oman-to-evacuate-7-000-people-from-masirah-island-off-the-east-coast-of-oman.md)

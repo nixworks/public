@@ -69,7 +69,7 @@ _Context: Balibo Five, East Timor, Indonesia, NSW_
 
 ##### City of Westminster
 ### [ The City of Westminster Magistrates' Court rules Egyptian-born Muslim cleric Abu Hamza al-Masri can be extradited from the United Kingdom to the United States, where he is accused of terrorism. ](/news/2007/11/15/the-city-of-westminster-magistrates-court-rules-egyptian-born-muslim-cleric-abu-hamza-al-masri-can-be-extradited-from-the-united-kingdom-t.md)
-_Context: Abu Hamza al-Masri, City of Westminster, Egypt, Magistrates' Court, Muslim, UK, United States, extradition, terrorism_
+_Context: Abu Hamza al-Masri, City of Westminster, Egypt, Magistrates' Court, Muslim, United Kingdom, United States, extradition, terrorism_
 
 ##### United Nations
 ### [ The United Nations General Assembly Third Committee approves a resolution draft that calls for a moratorium on the capital punishment. ](/news/2007/11/15/the-united-nations-general-assembly-third-committee-approves-a-resolution-draft-that-calls-for-a-moratorium-on-the-capital-punishment.md)

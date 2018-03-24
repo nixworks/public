@@ -9,7 +9,7 @@ At least eight people drowned when a small boat carrying dozens of migrants from
 
 ##### Massimo Busacca
 ### [ Massimo Busacca, a high-profile Swiss football referee who officiated the 2009 UEFA Champions League Final and was expected to take part at the 2010 FIFA World Cup in South Africa, is suspended "immediately" for waving his middle finger at fans during a match. ](/news/2009/09/21/massimo-busacca-a-high-profile-swiss-football-referee-who-officiated-the-2009-uefa-champions-league-final-and-was-expected-to-take-part-at.md)
-_Context: 2009 UEFA Champions League Final, 2010 FIFA World Cup, Massimo Busacca, South Africa, Swiss_
+_Context: 2009 UEFA Champions League Final, 2010 FIFA World Cup, Massimo Busacca, South Africa, Switzerland_
 
 ##### Jade Ewen
 ### [ Singer Jade Ewen is confirmed as the new member of internationally successful girlband Sugababes, replacing the only original member Keisha Buchanan. ](/news/2009/09/21/singer-jade-ewen-is-confirmed-as-the-new-member-of-internationally-successful-girlband-sugababes-replacing-the-only-original-member-keisha.md)
@@ -49,7 +49,7 @@ _Context: Boris Yeltsin, President of Russia, Russia, Russian government_
 
 ##### Italy
 ### [ Italy holds a state funeral for six soldiers killed in Afghanistan last week. ](/news/2009/09/21/italy-holds-a-state-funeral-for-six-soldiers-killed-in-afghanistan-last-week.md)
-_Context: Afghan, Italy, state funeral_
+_Context: Afghanistan, Italy, state funeral_
 
 ##### South Africa
 ### [ South African President Jacob Zuma admits disagreements do exist between the ANC and the trade union federation (COSATU)&mdash;one of its main political partners. ](/news/2009/09/21/south-african-president-jacob-zuma-admits-disagreements-do-exist-between-the-anc-and-the-trade-union-federation-cosatu-mdash-one-of-its-m.md)

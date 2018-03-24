@@ -9,7 +9,7 @@ _Context: 2006, Bob McEwen, Jean Schmidt, Ohio_
 
 ##### Liverpool City Council
 ### [ Liverpool City Council, UK, issued an apology for the destruction of the Welsh community of Capel Celyn in 1965 to create the Llyn Celyn reservoir, which supplies Liverpool and the Wirral with drinking water. ](/news/2005/10/19/liverpool-city-council-uk-issued-an-apology-for-the-destruction-of-the-welsh-community-of-capel-celyn-in-1965-to-create-the-llyn-celyn-re.md)
-_Context: 1965, Capel Celyn, Liverpool, Liverpool City Council, Llyn Celyn, UK, Wales, Wirral, reservoir_
+_Context: 1965, Capel Celyn, Liverpool, Liverpool City Council, Llyn Celyn, United Kingdom, Wales, Wirral, reservoir_
 
 ##### Chinese
 ### [ China reports 2600 birds have died of the H5N1 virus near Hohhot, Inner Mongolia. ](/news/2005/10/19/china-reports-2600-birds-have-died-of-the-h5n1-virus-near-hohhot-inner-mongolia.md)

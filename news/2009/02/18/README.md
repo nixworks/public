@@ -55,9 +55,9 @@ _Context: Gilad Shalit, Hamas, Israel, POWs, negotiate_
 ### [ A Eurocopter Super Puma carrying 18 people ditches into the North Sea. ](/news/2009/02/18/a-eurocopter-super-puma-carrying-18-people-ditches-into-the-north-sea.md)
 _Context: Eurocopter Super Puma, North Sea, ditches_
 
-##### Swiss
+##### Switzerland
 ### [ Switzerland's UBS AG will pay the United States federal government US$780 million in fines and restitution after admitting to helping American clients avoid taxes. ](/news/2009/02/18/switzerland-s-ubs-ag-will-pay-the-united-states-federal-government-us-780-million-in-fines-and-restitution-after-admitting-to-helping-ameri.md)
-_Context: Swiss, U.S. government, UBS AG, US$, United States, avoid taxes, fine, restitution_
+_Context: Switzerland, U.S. government, UBS AG, US$, United States, avoid taxes, fine, restitution_
 
 ##### Columbian mammoth
 ### [ A Columbian mammoth is discovered in the La Brea Tar Pits in Los Angeles, California. ](/news/2009/02/18/a-columbian-mammoth-is-discovered-in-the-la-brea-tar-pits-in-los-angeles-california.md)

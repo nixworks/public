@@ -15,7 +15,7 @@ _Context: John O'Dowd, Martin McGuinness, Sinn Fein, deputy First Minister of No
 ### [George Cadle Price, the first Prime Minister of Belize, dies at 92 following emergency surgery. ](/news/2011/09/19/george-cadle-price-the-first-prime-minister-of-belize-dies-at-92-following-emergency-surgery.md)
 _Context: George Cadle Price, Prime Minister of Belize_
 
-##### UK
+##### United Kingdom
 ### [Seven people are arrested in the United Kingdom city of Birmingham in relation to alleged involvement in an Islamic terrorist group. ](/news/2011/09/19/seven-people-are-arrested-in-the-united-kingdom-city-of-birmingham-in-relation-to-alleged-involvement-in-an-islamic-terrorist-group.md)
 Anti-terror police have arrested seven people after a long-running intelligence operation into a suspected &quot;international&quot; threat from Islamic extremists.
 

@@ -15,9 +15,9 @@ _Context: Federal Aviation Administration, Los Angeles International Airport, So
 ### [ Five crew members of an Irish yacht, who had been adrift in a liferaft for seven days after abandoning their ship, are rescued by helicopter off the Cornwall coast of Britain. The crew members ran out of water on Monday and were running low on food when rescued. ](/news/2004/09/15/five-crew-members-of-an-irish-yacht-who-had-been-adrift-in-a-liferaft-for-seven-days-after-abandoning-their-ship-are-rescued-by-helicopte.md)
 _Context: Cornish, helicopter, lifeboat, yacht_
 
-##### Afghan
+##### Afghanistan
 ### [ In Afghanistan, three Americans are sentenced to up to 10 years imprisonment for illegally detaining and torturing Afghans, and for running an illegal private jail in Kabul. The defiant Americans&mdash;Jonathan Idema, Brent Bennett, and Edward Caraballo&mdash;say they intend to appeal the decision. ](/news/2004/09/15/in-afghanistan-three-americans-are-sentenced-to-up-to-10-years-imprisonment-for-illegally-detaining-and-torturing-afghans-and-for-running.md)
-_Context: Afghan, Brent Bennett, Edward Caraballo, Jonathan Idema, Kabul, appeal_
+_Context: Afghanistan, Brent Bennett, Edward Caraballo, Jonathan Idema, Kabul, appeal_
 
 ##### Palestinian
 ### [ Six Palestinian gunmen and four others are killed by Israeli troops. ](/news/2004/09/15/six-palestinian-gunmen-and-four-others-are-killed-by-israeli-troops.md)

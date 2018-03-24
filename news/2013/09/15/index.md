@@ -23,7 +23,7 @@ _Context: Bogota, Colombia_
 ### [Japan switches off its last working nuclear reactor for a scheduled inspection with no restart in sight. ](/news/2013/09/15/japan-switches-off-its-last-working-nuclear-reactor-for-a-scheduled-inspection-with-no-restart-in-sight.md)
 The move leaves Japan nuclear power-free for second time since 2011 Fukushima crisis.
 
-##### Afghan
+##### Afghanistan
 ### [At least 27 miners die in an Afghanistan coal mine collapse. ](/news/2013/09/15/at-least-27-miners-die-in-an-afghanistan-coal-mine-collapse.md)
 Officials say tunnel collapse at Abkhorak mine in northern Samangan province has killed at least 24 workers.
 

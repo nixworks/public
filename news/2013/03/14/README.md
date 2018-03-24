@@ -7,7 +7,7 @@ Formats: [HTML](2013/03/14/index.html)  [JSON](2013/03/14/index.json)  [XML](201
 ### [Scientists at the Large Hadron Collider express confidence that a particle discovered in July 2012 is a Higgs boson after measuring its spin and parity. ](/news/2013/03/14/scientists-at-the-large-hadron-collider-express-confidence-that-a-particle-discovered-in-july-2012-is-a-higgs-boson-after-measuring-its-spin.md)
 Scientists at the Large Hadron Collider say the particle outlined in July 2012 looks increasingly to be a Higgs boson.
 
-##### UK
+##### United Kingdom
 ### [British Labour Party peer Lord Ahmed is suspended from the party after claiming a conspiracy by Jewish-owned media organisations was responsible for his imprisonment for dangerous driving. ](/news/2013/03/14/british-labour-party-peer-lord-ahmed-is-suspended-from-the-party-after-claiming-a-conspiracy-by-jewish-owned-media-organisations-was-respons.md)
 Labour suspends Lord Ahmed while it investigates reports he blamed his imprisonment on pressure from Jewish newspaper and TV bosses.
 

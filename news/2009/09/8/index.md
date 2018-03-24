@@ -25,7 +25,7 @@ _Context:  Georgian, magnitude_
 
 ##### Wireless mobile carriers
 ### [ Mobile network operators T-Mobile and Orange agree to merge their British businesses. ](/news/2009/09/8/mobile-network-operators-t-mobile-and-orange-agree-to-merge-their-british-businesses.md)
-_Context: Orange, T-Mobile, UK, wireless mobile carriers_
+_Context: Orange, T-Mobile, United Kingdom, wireless mobile carriers_
 
 ##### Norwegian
 ### [ Two Norwegians, Joshua French and Tjostolv Moland, on trial for alleged murder and espionage, are found guilty on both counts and sentenced to death by a Congolese military tribunal. ](/news/2009/09/8/two-norwegians-joshua-french-and-tjostolv-moland-on-trial-for-alleged-murder-and-espionage-are-found-guilty-on-both-counts-and-sentenced.md)

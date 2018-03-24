@@ -53,7 +53,7 @@ Euro zone joblessnessrose to a new euro-era high while inflation was largely ste
 
 ##### NATO
 ### [Two members of the NATO International Security Assistance Force are killed in southern Afghanistan, one of whom is believed to be a member of the Afghan Army. ](/news/2012/03/1/two-members-of-the-nato-international-security-assistance-force-are-killed-in-southern-afghanistan-one-of-whom-is-believed-to-be-a-member-o.md)
-_Context: Afghan, Afghan Army, International Security Assistance Force, NATO_
+_Context: Afghan Army, Afghanistan, International Security Assistance Force, NATO_
 
 ##### Turkish police
 ### [A bomb explodes on a Turkish police bus in Istanbul injuring three people. ](/news/2012/03/1/a-bomb-explodes-on-a-turkish-police-bus-in-istanbul-injuring-three-people.md)

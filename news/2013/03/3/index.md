@@ -13,7 +13,7 @@ _Context: Dragon, International Space Station, SpaceX, SpaceX CRS-2_
 
 ##### Swiss referendum, 2013
 ### [Swiss referendum, 2013: Voters in Switzerland pass measures limiting CEO pay and outlawing golden parachutes. ](/news/2013/03/3/swiss-referendum-2013-voters-in-switzerland-pass-measures-limiting-ceo-pay-and-outlawing-golden-parachutes.md)
-_Context: CEO, Swiss, Swiss referendum, 2013, golden parachutes, measures_
+_Context: CEO, Swiss referendum, 2013, Switzerland, golden parachutes, measures_
 
 ##### Pregnancy
 ### [While on the way to the hospital due to complications in a pregnancy, a young Ultra-Orthodox Hasidic Jewish couple from a Brooklyn enclave are killed in a hit-and-run; the baby was delivered prematurely by C-section but died the next day of its injuries. The car owner was arrested soon after; the driver was arrested days later after a search. ](/news/2013/03/3/while-on-the-way-to-the-hospital-due-to-complications-in-a-pregnancy-a-young-ultra-orthodox-hasidic-jewish-couple-from-a-brooklyn-enclave-a.md)

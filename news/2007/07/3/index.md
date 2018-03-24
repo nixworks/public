@@ -33,7 +33,7 @@ _Context: British government, Jamaat-ul-Mujahideen Bangladesh, Tehreek-e-Nafaz-e
 
 ##### United States
 ### [ United States counterterrorism experts say some of the men arrested in connection to terror plots in the United Kingdom had links to al-Qaeda in Iraq. ](/news/2007/07/3/united-states-counterterrorism-experts-say-some-of-the-men-arrested-in-connection-to-terror-plots-in-the-united-kingdom-had-links-to-al-qae.md)
-_Context: UK, United States, al-Qaeda in Iraq, counter-terrorism_
+_Context: United Kingdom, United States, al-Qaeda in Iraq, counter-terrorism_
 
 ## [Previous Day...](/news/2007/07/2/index.md)
 

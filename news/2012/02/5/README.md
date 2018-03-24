@@ -31,7 +31,7 @@ _Context: Libya, Libyan Civil War, Muammar Gaddafi_
 ### [Due to flooding, residents are asked to evacuate the Australian town of St George, Queensland, and the body is found of a woman missing in Roma. ](/news/2012/02/5/due-to-flooding-residents-are-asked-to-evacuate-the-australian-town-of-st-george-queensland-and-the-body-is-found-of-a-woman-missing-in-r.md)
 _Context: Australia, Queensland, Roma, St George_
 
-##### UK
+##### United Kingdom
 ### [Heavy snow falls across much of the United Kingdom, leading to the cancellation of hundreds of flights at Heathrow Airport and the closure of the runway at Luton Airport. ](/news/2012/02/5/heavy-snow-falls-across-much-of-the-united-kingdom-leading-to-the-cancellation-of-hundreds-of-flights-at-heathrow-airport-and-the-closure-o.md)
 Snow has fallen across much of the UK, with up to 10cm expected in places, causing disruption to flights and leaving roads treacherous.
 
@@ -39,7 +39,7 @@ Snow has fallen across much of the UK, with up to 10cm expected in places, causi
 ### [The Movement for the Emancipation of the Niger Delta claims responsibility for attacking an Eni SpA pipeline carrying oil to the Nigerian city of Brass. ](/news/2012/02/5/the-movement-for-the-emancipation-of-the-niger-delta-claims-responsibility-for-attacking-an-eni-spa-pipeline-carrying-oil-to-the-nigerian-ci.md)
 The Movement for the Emancipation of the Niger Delta, the main armed group in Nigeria’s oil-rich southern region, attacked and damaged a pipeline belonging to a unit of Italy’s Eni SpA.
 
-##### Afghan
+##### Afghanistan
 ### [At least three people die and nine are injured by an explosion in the Afghan city of Kandahar. ](/news/2012/02/5/at-least-three-people-die-and-nine-are-injured-by-an-explosion-in-the-afghan-city-of-kandahar.md)
 At least nine people are killed in a car bomb attack on police headquarters in the southern Afghan city of Kandahar, officials say.
 

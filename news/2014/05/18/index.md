@@ -3,9 +3,9 @@ Formats: [HTML](2014/05/18/index.html)  [JSON](2014/05/18/index.json)  [XML](201
 
 ## [2014-05-18](/news/2014/05/18/index.md)
 
-##### Swiss
+##### Switzerland
 ### [Voters in Switzerland resoundingly reject a proposed law change that would have given that country the world's highest minimum wage. ](/news/2014/05/18/voters-in-switzerland-resoundingly-reject-a-proposed-law-change-that-would-have-given-that-country-the-world-s-highest-minimum-wage.md)
-_Context: Swiss, minimum wage, proposed law change_
+_Context: Switzerland, minimum wage, proposed law change_
 
 ##### Chinese
 ### [More than 3,000 Chinese citizens are evacuated from Vietnam, with 2 Chinese killed and more than 100 injured in the riot last week following China drilling for oil in the South China Sea. ](/news/2014/05/18/more-than-3-000-chinese-citizens-are-evacuated-from-vietnam-with-2-chinese-killed-and-more-than-100-injured-in-the-riot-last-week-following.md)

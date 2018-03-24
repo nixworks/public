@@ -5,7 +5,7 @@ Formats: [HTML](2009/11/2/index.html)  [JSON](2009/11/2/index.json)  [XML](2009/
 
 ##### United Nations Secretary-General
 ### [ United Nations Secretary-General Ban Ki-moon makes a surprise visit to Afghanistan ahead of the 7 November second round of the presidential election. ](/news/2009/11/2/united-nations-secretary-general-ban-ki-moon-makes-a-surprise-visit-to-afghanistan-ahead-of-the-7-november-second-round-of-the-presidential.md)
-_Context: Afghan, Ban Ki-moon, United Nations Secretary-General, presidential election_
+_Context: Afghanistan, Ban Ki-moon, United Nations Secretary-General, presidential election_
 
 ##### Spreading false information
 ### [ Two people are charged with "spreading false information" about the health of Thailand's King Bhumibol Adulyadej. ](/news/2009/11/2/two-people-are-charged-with-spreading-false-information-about-the-health-of-thailand-s-king-bhumibol-adulyadej.md)
@@ -41,7 +41,7 @@ _Context: Bacolod, Philippines_
 
 ##### Royal Bank of Scotland
 ### [ The Royal Bank of Scotland announces cuts of 3,700 staff in the United Kingdom. ](/news/2009/11/2/the-royal-bank-of-scotland-announces-cuts-of-3-700-staff-in-the-united-kingdom.md)
-_Context: Royal Bank of Scotland, UK_
+_Context: Royal Bank of Scotland, United Kingdom_
 
 ##### Venezuela
 ### [ Large parts of Venezuela begin rationing water after unseasonably dry weather. ](/news/2009/11/2/large-parts-of-venezuela-begin-rationing-water-after-unseasonably-dry-weather.md)

@@ -13,7 +13,7 @@ _Context: Hamas, Israel, ceasefire, rocket_
 
 ##### Avalanche
 ### [ A series of avalanches occurs near Kabul, Afghanistan, killing at least ten people and injuring eleven others. ](/news/2009/01/18/a-series-of-avalanches-occurs-near-kabul-afghanistan-killing-at-least-ten-people-and-injuring-eleven-others.md)
-_Context: Afghan, Kabul, avalanche, occurs_
+_Context: Afghanistan, Kabul, avalanche, occurs_
 
 ##### France
 ### [ A French military helicopter crashes off the coast of Gabon, killing at least seven people and rendering one other missing. ](/news/2009/01/18/a-french-military-helicopter-crashes-off-the-coast-of-gabon-killing-at-least-seven-people-and-rendering-one-other-missing.md)

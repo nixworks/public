@@ -53,7 +53,7 @@ A landslide near a jade mine in northern Myanmar killed about 100 people, most o
 
 ##### United Kingdom withdrawal from the European Union
 ### [The UK may not face a credit rating downgrade if it votes to leave the EU in a referendum due by the end of 2017, according to the lead UK analyst at Moody's. ](/news/2015/11/22/the-uk-may-not-face-a-credit-rating-downgrade-if-it-votes-to-leave-the-eu-in-a-referendum-due-by-the-end-of-2017-according-to-the-lead-uk-a.md)
-_Context: European Union, Moody's Investors Service, UK, United Kingdom European Union membership referendum, United Kingdom withdrawal from the European Union_
+_Context: European Union, Moody's Investors Service, United Kingdom, United Kingdom European Union membership referendum, United Kingdom withdrawal from the European Union_
 
 ##### Israeli-Palestinian conflict (2015)
 ### [A Palestinian terrorist fatally stabs a 21-year-old Israeli woman at the Gush Etzion junction in the West Bank; the attacker is shot and killed by Israeli soldiers. ](/news/2015/11/22/a-palestinian-terrorist-fatally-stabs-a-21-year-old-israeli-woman-at-the-gush-etzion-junction-in-the-west-bank-the-attacker-is-shot-and-kil.md)

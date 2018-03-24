@@ -3,7 +3,7 @@ Formats: [HTML](2011/04/24/index.html)  [JSON](2011/04/24/index.json)  [XML](201
 
 ## [2011-04-24](/news/2011/04/24/index.md)
 
-##### UK
+##### United Kingdom
 ### [In the United Kingdom, Secretary of State for Energy and Climate Change Chris Huhne of Liberal Democrats threatens legal action over "untruths" told by Conservatives opposed to the Alternative Vote system as the country prepares to vote on the issue. ](/news/2011/04/24/in-the-united-kingdom-secretary-of-state-for-energy-and-climate-change-chris-huhne-of-liberal-democrats-threatens-legal-action-over-untrut.md)
 Senior Liberal Democrat minister Chris Huhne threatens legal action over &quot;untruths&quot; told by Conservatives opposed to the Alternative Vote system.
 

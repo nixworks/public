@@ -17,7 +17,7 @@ _Context: Fidel Castro, Hugo Chvez_
 
 ##### 2006 transatlantic aircraft plot
 ### [ A terrorist plot to blow up planes in mid-flight from the UK to the US has been disrupted, Scotland Yard has said. ](/news/2006/08/10/a-terrorist-plot-to-blow-up-planes-in-mid-flight-from-the-uk-to-the-us-has-been-disrupted-scotland-yard-has-said.md)
-_Context: 2006 transatlantic aircraft plot, Scotland Yard, UK, United States_
+_Context: 2006 transatlantic aircraft plot, Scotland Yard, United Kingdom, United States_
 
 ## [Previous Day...](/news/2006/08/9/index.md)
 

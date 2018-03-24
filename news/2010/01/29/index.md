@@ -13,7 +13,7 @@ _Context: Communist Party, Pham Thanh Nghien, Vietnam, propaganda_
 
 ##### Tony Blair
 ### [Tony Blair appears at the Iraq Inquiry and is questioned in public for the first time about his decision to take the United Kingdom to war against Iraq. ](/news/2010/01/29/tony-blair-appears-at-the-iraq-inquiry-and-is-questioned-in-public-for-the-first-time-about-his-decision-to-take-the-united-kingdom-to-war-a.md)
-_Context: Iraq, Iraq Inquiry, Iraq War, Tony Blair, UK_
+_Context: Iraq, Iraq Inquiry, Iraq War, Tony Blair, United Kingdom_
 
 ##### Somali
 ### [Several people are killed in heavy fighting in the Somalian capital Mogadishu. ](/news/2010/01/29/several-people-are-killed-in-heavy-fighting-in-the-somalian-capital-mogadishu.md)

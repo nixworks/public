@@ -37,7 +37,7 @@ Dramatic images have been sent from the Antarctic of the Japanese whaling factor
 
 ##### David Cameron
 ### [David Cameron, the Prime Minister of the United Kingdom, visits the Indian city of Amritsar to express remorse for the Jallianwala Bagh massacre on 13 April 1919. ](/news/2013/02/20/david-cameron-the-prime-minister-of-the-united-kingdom-visits-the-indian-city-of-amritsar-to-express-remorse-for-the-jallianwala-bagh-mass.md)
-_Context: Amritsar, David Cameron, India, Jallianwala Bagh massacre, Prime Minister, UK_
+_Context: Amritsar, David Cameron, India, Jallianwala Bagh massacre, Prime Minister, United Kingdom_
 
 ##### Estonia
 ### [Estonia becomes the first country in the world to install a nationwide system of fast chargers for electric vehicles. ](/news/2013/02/20/estonia-becomes-the-first-country-in-the-world-to-install-a-nationwide-system-of-fast-chargers-for-electric-vehicles.md)

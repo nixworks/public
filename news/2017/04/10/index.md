@@ -39,7 +39,7 @@ _Context: China, Cross-Strait relations_
 ### [Category 3 Cyclone Cook hits Grand Terre, the main island of New Caledonia. ](/news/2017/04/10/category-3-cyclone-cook-hits-grand-terre-the-main-island-of-new-caledonia.md)
 People in northern parts of New Caledonia are told to stay indoors as Cyclone Cook buffets the French territory.
 
-##### UK
+##### United Kingdom
 ### [The United Kingdom-based Jaeger fashion chain collapses into administration after failing to find a buyer. ](/news/2017/04/10/the-united-kingdom-based-jaeger-fashion-chain-collapses-into-administration-after-failing-to-find-a-buyer.md)
 Jaeger collapses into administration after failing to find a buyer, putting 700 UK jobs at risk.
 

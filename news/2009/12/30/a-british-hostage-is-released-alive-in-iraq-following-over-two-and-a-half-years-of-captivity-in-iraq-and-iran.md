@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/30/a-british-hostage-is-released-alive-in-iraq-fol
 
 ### [2009-12-30](/news/2009/12/30/index.md)
 
-##### UK
+##### United Kingdom
 #  A British hostage is released alive in Iraq following over two and a half years of captivity in Iraq and Iran. 
 
 A British hostage has been freed after more than two-and-a-half years in captivity in Iraq.

@@ -35,7 +35,7 @@ Sheikh Ahmed Mohammed Ahmed al-Tayeb named as head of Al-Azhar Islamic instituti
 ### [South African police fire water cannon at 2,000 students protesting at the release of hip-hop performer Molemo "Jub Jub" Maarohanye, accused of killing four school pupils. ](/news/2010/03/19/south-african-police-fire-water-cannon-at-2-000-students-protesting-at-the-release-of-hip-hop-performer-molemo-jub-jub-maarohanye-accused.md)
 _Context: Molemo "Jub Jub" Maarohanye, South Africa_
 
-##### Swiss
+##### Switzerland
 ### [Switzerland ceases to deport asylum seekers in response to the death of a Nigerian man at Zrich Airport as he was being forcefully deported. Nigeria condemns the occurrence. ](/news/2010/03/19/switzerland-ceases-to-deport-asylum-seekers-in-response-to-the-death-of-a-nigerian-man-at-zurich-airport-as-he-was-being-forcefully-deported.md)
 BERLIN - Switzerland has halted all repatriation flights for rejected asylum seekers after a Nigerian man on hunger strike died in police shackles at Zurich airport as he was being - New Zealand Herald
 

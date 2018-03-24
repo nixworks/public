@@ -27,9 +27,9 @@ A pilot and three passengers die when Saudi-registered private jet crashes into 
 ### [The Central Bank lowers interest rate to 11%, while the ruble falls 1.5% on the day to close at 60.60 against the dollar. ](/news/2015/07/31/the-central-bank-lowers-interest-rate-to-11-while-the-ruble-falls-1-5-on-the-day-to-close-at-60-60-against-the-dollar.md)
 * Key rate cut by 50 bps to 11 pct as expected* Bank warns on cooling economy, downplays inflation* Rouble sinks after rate cut (Adds conte
 
-##### Swiss
+##### Switzerland
 ### [Swiss National Bank reports a first half loss of 50 billion CHF as a result of the franc to euro peg removal earlier this year. ](/news/2015/07/31/swiss-national-bank-reports-a-first-half-loss-of-50-billion-chf-as-a-result-of-the-franc-to-euro-peg-removal-earlier-this-year.md)
-_Context: Swiss, franc to euro peg removal, francs_
+_Context: Switzerland, franc to euro peg removal, francs_
 
 ##### Turkey-PKK conflict
 ### [Two Turkish police officers and two PKK militants are killed following a PKK raid on a police station in the south-eastern town of Pozanti. Also, in the eastern province of Kars, PKK militants bombed a railway line and then fired at repair workers, leaving one dead. ](/news/2015/07/31/two-turkish-police-officers-and-two-pkk-militants-are-killed-following-a-pkk-raid-on-a-police-station-in-the-south-eastern-town-of-pozanta.md)

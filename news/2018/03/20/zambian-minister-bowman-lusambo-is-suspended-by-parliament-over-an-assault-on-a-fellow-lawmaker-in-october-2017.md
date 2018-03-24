@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/20/zambian-minister-bowman-lusambo-is-suspended-by
 
 ### [2018-03-20](/news/2018/03/20/index.md)
 
-##### Zambia
+##### Politics of Zambia
 # Zambian Minister Bowman Lusambo is suspended by Parliament over an assault on a fellow lawmaker in October 2017. 
 
 Zambia&rsquo;s parliament suspended a cabinet minister on Tuesday from its proceedings for one month for slapping a fellow lawmaker within parliament grounds.

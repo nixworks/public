@@ -17,7 +17,7 @@ _Context: Basque, Durango, Spain, ETA, car bomb, explosion, police station_
 
 ##### Pakistan Army
 ### [ At least four Pakistan Army soldiers die in a suicide bomber attack on a military convoy near Miranshah, the main city of North Waziristan near the Afghan border. ](/news/2007/08/24/at-least-four-pakistan-army-soldiers-die-in-a-suicide-bomber-attack-on-a-military-convoy-near-miranshah-the-main-city-of-north-waziristan.md)
-_Context: Afghan, Miranshah, North Waziristan, Pakistan Army, convoy, suicide bomber_
+_Context: Afghanistan, Miranshah, North Waziristan, Pakistan Army, convoy, suicide bomber_
 
 ##### Ban Ki-Moon
 ### [ Ban Ki-Moon, the Secretary-General of the United Nations, urges the Government of Myanmar to show restraint in its treatment of students and pro-democracy activists who have been protesting against the regime. ](/news/2007/08/24/ban-ki-moon-the-secretary-general-of-the-united-nations-urges-the-government-of-myanmar-to-show-restraint-in-its-treatment-of-students-an.md)
@@ -33,7 +33,7 @@ _Context: Bangladesh, curfew_
 
 ##### British Army
 ### [ Three British Army soldiers die in Afghanistan in a suspected friendly fire incident. ](/news/2007/08/24/three-british-army-soldiers-die-in-afghanistan-in-a-suspected-friendly-fire-incident.md)
-_Context: Afghan, British Army, friendly fire_
+_Context: Afghanistan, British Army, friendly fire_
 
 ##### Mexico
 ### [ Mexican oil platforms resume production following the end of the threat from Hurricane Dean. ](/news/2007/08/24/mexican-oil-platforms-resume-production-following-the-end-of-the-threat-from-hurricane-dean.md)

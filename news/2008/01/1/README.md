@@ -25,7 +25,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Taliban
 ### [ The Taliban threaten to escalate attacks in Afghanistan after a year of record violence. ](/news/2008/01/1/the-taliban-threaten-to-escalate-attacks-in-afghanistan-after-a-year-of-record-violence.md)
-_Context: Afghan, Taliban_
+_Context: Afghanistan, Taliban_
 
 ## [Previous Day...](/news/2007/12/31/index.md)
 

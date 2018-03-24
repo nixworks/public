@@ -23,9 +23,9 @@ _Context: Iran, Joint Comprehensive Plan of Action, Nuclear Pact, United Nations
 ### [Venezuela orders producers to divert supplies to state stores amid a chronic shortage of goods. ](/news/2015/07/20/venezuela-orders-producers-to-divert-supplies-to-state-stores-amid-a-chronic-shortage-of-goods.md)
 _Context: Venezuela_
 
-##### Lockheed
+##### Lockheed Martin
 ### [Lockheed Martin agrees to buy United Technologies Corp's Sikorsky Aircraft for $9 billion. ](/news/2015/07/20/lockheed-martin-agrees-to-buy-united-technologies-corp-s-sikorsky-aircraft-for-9-billion.md)
-_Context: Lockheed, Sikorsky Aircraft, United Technologies Corp_
+_Context: Lockheed Martin, Sikorsky Aircraft, United Technologies Corp_
 
 ##### Greek government-debt crisis timeline
 ### [Greek banks reopen for the first time in three weeks with strict capital controls. ](/news/2015/07/20/greek-banks-reopen-for-the-first-time-in-three-weeks-with-strict-capital-controls.md)

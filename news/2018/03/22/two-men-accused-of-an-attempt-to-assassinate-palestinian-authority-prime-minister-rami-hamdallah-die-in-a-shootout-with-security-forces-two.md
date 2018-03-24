@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/22/two-men-accused-of-an-attempt-to-assassinate-pa
 
 ### [2018-03-22](/news/2018/03/22/index.md)
 
-##### Palestinian Authority
+##### Palestinian government
 # Two men accused of an attempt to assassinate Palestinian Authority Prime Minister Rami Hamdallah die in a shootout with security forces. Two Hamas security personnel also die. 
 
 Two security officers killed in gunbattle during arrest. Suspect also wounded in clash.

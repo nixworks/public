@@ -23,9 +23,9 @@ Iran begins a relief operation after twin earthquakes in the north-west of the c
 ### [At least two people are killed and 18 others injured as protests held in Mumbai, India, against religious riots in Assam and Myanmar turn violent. ](/news/2012/08/11/at-least-two-people-are-killed-and-18-others-injured-as-protests-held-in-mumbai-india-against-religious-riots-in-assam-and-myanmar-turn-vi.md)
 At least two people killed and 18 others injured as protests against religious riots in Assam and Myanmar turn violent.
 
-##### Afghan
+##### Afghanistan
 ### [An Afghan policeman kills ten of his colleagues at a checkpoint in southwestern Afghanistan. ](/news/2012/08/11/an-afghan-policeman-kills-ten-of-his-colleagues-at-a-checkpoint-in-southwestern-afghanistan.md)
-_Context: Afghan_
+_Context: Afghanistan_
 
 ##### Zacatecas
 ### [A total of 12 decomposing bodies are found inside an abandoned vehicle in Zacatecas. ](/news/2012/08/11/a-total-of-12-decomposing-bodies-are-found-inside-an-abandoned-vehicle-in-zacatecas.md)

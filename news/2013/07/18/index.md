@@ -43,7 +43,7 @@ Investors pushed the blue chip index to a record high thanks to strong earnings 
 ### [Indian paramilitary forces shoot dead seven protesters outside a Border Security Force station in Kashmir with dozens injured. ](/news/2013/07/18/indian-paramilitary-forces-shoot-dead-seven-protesters-outside-a-border-security-force-station-in-kashmir-with-dozens-injured.md)
 _Context: Indian police officers, Indians, Kashmir, seven protesters_
 
-##### Afghan
+##### Afghanistan
 ### [Eight Afghan labourers are killed on their way to work at a U.S. military base in Logar Province. ](/news/2013/07/18/eight-afghan-labourers-are-killed-on-their-way-to-work-at-a-u-s-military-base-in-logar-province.md)
 Eight Afghan labourers who were on their way to work at a US military base in Logar province are shot dead, local officials say.
 

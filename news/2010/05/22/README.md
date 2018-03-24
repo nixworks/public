@@ -3,7 +3,7 @@ Formats: [HTML](2010/05/22/index.html)  [JSON](2010/05/22/index.json)  [XML](201
 
 ## [2010-05-22](/news/2010/05/22/index.md)
 
-##### UK
+##### United Kingdom
 ### [A range of activities occur across the United Kingdom to mark the International Day for Biological Diversity. ](/news/2010/05/22/a-range-of-activities-occur-across-the-united-kingdom-to-mark-the-international-day-for-biological-diversity.md)
 A wide range of activities take place across the UK to celebrate International Day for Biological Diversity.
 
@@ -55,7 +55,7 @@ As country prepares to hold vote, ruling party is accused of violence and intimi
 ### [At least 13 people have died in a clash between a Somali militia and Ethiopian forces who had crossed the border in Somaliland. ](/news/2010/05/22/at-least-13-people-have-died-in-a-clash-between-a-somali-militia-and-ethiopian-forces-who-had-crossed-the-border-in-somaliland.md)
 Thirteen people are killed in a border clash between Ethiopian security forces and residents in Somaliland, locals say.
 
-##### Afghan
+##### Afghanistan
 ### [Afghan police seize a cache of hundreds of rockets hidden on the outskirts of Kabul. ](/news/2010/05/22/afghan-police-seize-a-cache-of-hundreds-of-rockets-hidden-on-the-outskirts-of-kabul.md)
 Afghan police say they have seized a cache of hundreds of rockets hidden on the outskirts of the capital Kabul.
 

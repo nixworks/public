@@ -37,7 +37,7 @@ _Context: Maldives, a constitutional referendum, parliamentary system, president
 
 ##### 2007 Peru earthquake
 ### [ Survivors of the 2007 Peru earthquake flee the worst hit areas as looting intensifies. The President of Peru Alan Garca sends another 1,000 troops to the area. ](/news/2007/08/18/survivors-of-the-2007-peru-earthquake-flee-the-worst-hit-areas-as-looting-intensifies-the-president-of-peru-alan-garcia-sends-another-1-00.md)
-_Context: 2007 Peru earthquake, Alan Garca, Peruvian President, looting_
+_Context: 2007 Peru earthquake, Alan Garca, President, looting_
 
 ##### Fire
 ### [ One person is dead, four people are missing, after a fire at the Penhallow Hotel in Newquay, Cornwall. ](/news/2007/08/18/one-person-is-dead-four-people-are-missing-after-a-fire-at-the-penhallow-hotel-in-newquay-cornwall.md)

@@ -109,7 +109,7 @@ _Context: Somali, Somali pirates, Thailand_
 
 ##### Turkey
 ### [Four Turkish workers are kidnapped in eastern Afghanistan. ](/news/2010/12/26/four-turkish-workers-are-kidnapped-in-eastern-afghanistan.md)
-_Context: Afghan, Turkey_
+_Context: Afghanistan, Turkey_
 
 ##### Nigeria
 ### [Further violence breaks out in the Nigerian city of Jos following bombings earlier this week. ](/news/2010/12/26/further-violence-breaks-out-in-the-nigerian-city-of-jos-following-bombings-earlier-this-week.md)

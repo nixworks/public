@@ -47,7 +47,7 @@ Mexico&#039;s president has warned residents not to lower their guard after Hurr
 ### [Imprimis Pharmaceuticals Inc. announces it will begin selling $1 doses of the antimalarial drug used for HIV patients, pyrimethamine (generic name for Daraprim), whose price was recently raised to $750 per pill by Turing Pharmaceuticals following Martin Shkreli's purchase of its marketing rights this year. Imprimis also plans to start making inexpensive versions of other generic drugs whose prices have skyrocketed. ](/news/2015/10/23/imprimis-pharmaceuticals-inc-announces-it-will-begin-selling-1-doses-of-the-antimalarial-drug-used-for-hiv-patients-pyrimethamine-generi.md)
 A maker of compounded drugs will begin selling $1 doses of Daraprim, whose price recently was jacked up to $750 per pill by Turing Pharmaceuticals.
 
-##### Lockheed
+##### Lockheed Martin
 ### [Lockheed Martin embarks on corporate overhead cost cutting reviews, another initiative following business selloffs and personnel layoffs. In the face of U.S. budget constraints, Lockheed's actions are in step with those of other major U.S. defense contractors. ](/news/2015/10/23/lockheed-martin-embarks-on-corporate-overhead-cost-cutting-reviews-another-initiative-following-business-selloffs-and-personnel-layoffs-in.md)
 In recent times, defense contractors are resorting to reducing headcount to cut overhead costs owing to the weak defense budget environment in the U.S.
 

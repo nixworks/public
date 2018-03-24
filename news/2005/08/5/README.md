@@ -29,7 +29,7 @@ _Context: Yahoo!, Yahoo! Audio Search_
 
 ##### War in Afghanistan (2001-present)
 ### [ Conflict in Afghanistan: Al-Arabiya television broadcasts video footage shot by al-Qaeda which appears to show the downing of a US Chinook helicopter in Afghanistan. ](/news/2005/08/5/conflict-in-afghanistan-al-arabiya-television-broadcasts-video-footage-shot-by-al-qaeda-which-appears-to-show-the-downing-of-a-us-chinook.md)
-_Context: Afghan, Al-Arabiya, Chinook helicopter, War in Afghanistan (2001-present), al-Qaeda_
+_Context: Afghanistan, Al-Arabiya, Chinook helicopter, War in Afghanistan (2001-present), al-Qaeda_
 
 ##### Revolutionary Armed Forces of Colombia
 ### [ Three Irishmen accused of training Colombian FARC rebels have returned to Ireland. ](/news/2005/08/5/three-irishmen-accused-of-training-colombian-farc-rebels-have-returned-to-ireland.md)

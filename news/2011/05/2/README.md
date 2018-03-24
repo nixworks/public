@@ -55,7 +55,7 @@ _Context: Sri Lanka, Sri Lankan Civil War, United Nations_
 ### [The Taliban sends a 12-year-old boy as a suicide bomber in a new wave of attacks that kills four civilians, in one of several attacks across Afghanistan that kills at least seven people. ](/news/2011/05/2/the-taliban-sends-a-12-year-old-boy-as-a-suicide-bomber-in-a-new-wave-of-attacks-that-kills-four-civilians-in-one-of-several-attacks-across.md)
 A suicide bomber said to be aged 12 kills four people in east Afghanistan, one of several attacks a day after the Taliban announced a spring offensive.
 
-##### Civil war
+##### Muammar Gaddafi
 ### [Forces loyal to Muammar Gaddafi continue to attack the city of Misrata. ](/news/2011/05/2/forces-loyal-to-muammar-gaddafi-continue-to-attack-the-city-of-misrata.md)
 Forces loyal to Libyan leader Muammar Gaddafi have launched a new armoured incursion into the besieged rebel city Misrata.
 

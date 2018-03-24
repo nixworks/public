@@ -11,9 +11,9 @@ _Context: Chinese, Dutch, asylum, cheap labor, human trafficking_
 ### [ The prime ministers of Malaysia and Australia announce that they intend begin talks of free trade agreement ](/news/2005/04/7/the-prime-ministers-of-malaysia-and-australia-announce-that-they-intend-begin-talks-of-free-trade-agreement.md)
 _Context: Australia, Malaysia, trade agreement_
 
-##### Swiss
+##### Switzerland
 ### [ The Swiss cabinet intends to outlaw English-sounding names of government departments. ](/news/2005/04/7/the-swiss-cabinet-intends-to-outlaw-english-sounding-names-of-government-departments.md)
-_Context: Swiss_
+_Context: Switzerland_
 
 ##### Nepal
 ### [ In Nepal, according to National Human Rights Commission (NHRC) of the country, 42 people die in clashes between Maoist rebels and villagers ](/news/2005/04/7/in-nepal-according-to-national-human-rights-commission-nhrc-of-the-country-42-people-die-in-clashes-between-maoist-rebels-and-villagers.md)

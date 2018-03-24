@@ -63,7 +63,7 @@ The retailer informed employees of plans on Wednesday.
 ### [Toys "R" Us announce that they will close down all of their stores in the United Kingdom after rescue talks fail, resulting in the loss of about 3,000 jobs. ](/news/2018/03/14/toys-r-us-announce-that-they-will-close-down-all-of-their-stores-in-the-united-kingdom-after-rescue-talks-fail-resulting-in-the-loss-of-a.md)
 Retailer to start closing shops from Thursday as rescue talks fail to find a buyer
 
-##### UK
+##### United Kingdom
 ### [British physicist and cosmologist Stephen Hawking dies aged 76 at his home in Cambridge. ](/news/2018/03/14/british-physicist-and-cosmologist-stephen-hawking-dies-aged-76-at-his-home-in-cambridge.md)
 The physicist and author of A Brief History of Time has died at his home in Cambridge. His children said: ‘We will miss him for ever’
 

@@ -17,7 +17,7 @@ A Sinn Féin spokesperson has said party President Gerry Adams has received a de
 
 ##### Muslim
 ### [Britain is set to ban a Muslim group, Al-Muhajiroun, also known as Islam4UK, that recently caused outrage by proposing a demonstration in the town that receives the bodies of British war dead killed abroad, the Home Office says. ](/news/2010/01/10/britain-is-set-to-ban-a-muslim-group-al-muhajiroun-also-known-as-islam4uk-that-recently-caused-outrage-by-proposing-a-demonstration-in-th.md)
-_Context: Al-Muhajiroun, Home Office, Muslim, UK_
+_Context: Al-Muhajiroun, Home Office, Muslim, United Kingdom_
 
 ##### Issa bin Zayed Al Nahyan
 ### [Sheikh Issa bin Zayed Al Nahyan, brother of the leader of the United Arab Emirates, Khalifa bin Zayed Al Nahyan, is acquitted of beating a former business partner in a videotaped attack. ](/news/2010/01/10/sheikh-issa-bin-zayed-al-nahyan-brother-of-the-leader-of-the-united-arab-emirates-khalifa-bin-zayed-al-nahyan-is-acquitted-of-beating-a-f.md)
@@ -25,7 +25,7 @@ A brother of the president of the United Arab Emirates filmed beating up a forme
 
 ##### German
 ### [More than 160 people are trapped in vehicles overnight in Germany, dozens of flights are cancelled, Berlin and Leipzig are buried under 30cm of snow, parts of Schleswig-Holstein remain unreachable. The electricity of 80,000 people is cut off by snow in Poland. Eurostar services are affected in Belgium, Britain and France. ](/news/2010/01/10/more-than-160-people-are-trapped-in-vehicles-overnight-in-germany-dozens-of-flights-are-cancelled-berlin-and-leipzig-are-buried-under-30cm.md)
-_Context: Belgium, Berlin, Eurostar, France, German, Leipzig, Poland, Schleswig-Holstein, UK_
+_Context: Belgium, Berlin, Eurostar, France, German, Leipzig, Poland, Schleswig-Holstein, United Kingdom_
 
 ##### China
 ### [China overtakes Germany to become the world's largest exporter. ](/news/2010/01/10/china-overtakes-germany-to-become-the-world-s-largest-exporter.md)

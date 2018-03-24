@@ -13,7 +13,7 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 
 ##### War in Afghanistan (2001-present)
 ### [ War in Afghanistan: United States-led troops kill more than 50 insurgents in the Helmand province of Afghanistan. ](/news/2007/07/26/war-in-afghanistan-united-states-led-troops-kill-more-than-50-insurgents-in-the-helmand-province-of-afghanistan.md)
-_Context: Afghan, Helmand province, United States, War in Afghanistan (2001-present)_
+_Context: Afghanistan, Helmand province, United States, War in Afghanistan (2001-present)_
 
 ##### Earthquake
 ### [ A magnitude 7 earthquake in the Maluku Sea off the coast of Indonesia triggers a tsunami warning for North Maluku in Indonesia which is later cancelled. ](/news/2007/07/26/a-magnitude-7-earthquake-in-the-maluku-sea-off-the-coast-of-indonesia-triggers-a-tsunami-warning-for-north-maluku-in-indonesia-which-is-lat.md)

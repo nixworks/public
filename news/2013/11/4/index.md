@@ -3,7 +3,7 @@ Formats: [HTML](2013/11/4/index.html)  [JSON](2013/11/4/index.json)  [XML](2013/
 
 ## [2013-11-4](/news/2013/11/4/index.md)
 
-##### Lockheed
+##### Lockheed Martin
 ### [Lockheed Martin's Skunk Works undertakes to build a successor to the SR-71 Blackbird capable of mach 6 speed flight by 2030. ](/news/2013/11/4/lockheed-martin-s-skunk-works-undertakes-to-build-a-successor-to-the-sr-71-blackbird-capable-of-mach-6-speed-flight-by-2030.md)
 A new hypersonic spy plane is coming from the company that perfected the technology -- and this one will fly six times the speed of sound.
 

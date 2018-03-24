@@ -3,7 +3,7 @@ Formats: [HTML](2013/02/10/index.html)  [JSON](2013/02/10/index.json)  [XML](201
 
 ## [2013-02-10](/news/2013/02/10/index.md)
 
-##### Boeing Company
+##### Boeing
 ### [Boeing conducts the first test flight of the Dreamliner since it was taken out of service for battery problems. ](/news/2013/02/10/boeing-conducts-the-first-test-flight-of-the-dreamliner-since-it-was-taken-out-of-service-for-battery-problems.md)
 Boeing has taken its first test flight of its 787 Dreamliner since problems with lithium-ion batteries aboard two planes grounded the worldwide fleet of innovative planes nearly a month ago. But no results
 

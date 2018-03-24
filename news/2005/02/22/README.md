@@ -31,9 +31,9 @@ _Context: European Union, Robert Mugabe, Zimbabwe_
 ### [ The World Food Program states that it has only 70 000 tons of food left for Eritrea food aid until June. Reason given is the concentration of aid to areas that suffered from 2004 Indian Ocean earthquake ](/news/2005/02/22/the-world-food-program-states-that-it-has-only-70-000-tons-of-food-left-for-eritrea-food-aid-until-june-reason-given-is-the-concentration.md)
 _Context: 2004 Indian Ocean earthquake, Eritrea, World Food Program_
 
-##### Swiss
+##### Switzerland
 ### [ Swiss medical company Novartis buys US company Eon Labs and German Hexal AG, increasing its share in the generic medical drugs market ](/news/2005/02/22/swiss-medical-company-novartis-buys-us-company-eon-labs-and-german-hexal-ag-increasing-its-share-in-the-generic-medical-drugs-market.md)
-_Context: Eon Labs, Hexal, Novartis, Swiss_
+_Context: Eon Labs, Hexal, Novartis, Switzerland_
 
 ##### Earthquake
 ### [ An earthquake, registering 6.4 on the Richter Scale, strikes the city of Zarand and several villages in Iran at 02:25 UTC, leaving at least 546 dead. ("see" 2005 Zarand earthquake).](/news/2005/02/22/an-earthquake-registering-6-4-on-the-richter-scale-strikes-the-city-of-zarand-and-several-villages-in-iran-at-02-25-utc-leaving-at-least.md)

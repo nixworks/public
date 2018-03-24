@@ -73,7 +73,7 @@ Hundreds of suspected al-Qaeda gunmen have captured the southern Yemeni city of 
 
 ##### Defense contractor
 ### [U.S. defense contractor Lockheed Martin, the largest military contractor in the world, is targeted by a "significant and tenacious" cyber attack. ](/news/2011/05/29/u-s-defense-contractor-lockheed-martin-the-largest-military-contractor-in-the-world-is-targeted-by-a-significant-and-tenacious-cyber-at.md)
-_Context: Lockheed, cyber attack, defense contractor_
+_Context: Lockheed Martin, cyber attack, defense contractor_
 
 ##### NATO
 ### [NATO kills 14 civilians, 12 children and 2 women, with an airstrike on homes in Helmand Province. ](/news/2011/05/29/nato-kills-14-civilians-12-children-and-2-women-with-an-airstrike-on-homes-in-helmand-province.md)

@@ -3,9 +3,9 @@ Formats: [HTML](2014/10/24/index.html)  [JSON](2014/10/24/index.json)  [XML](201
 
 ## [2014-10-24](/news/2014/10/24/index.md)
 
-##### Lockheed
+##### Lockheed Martin
 ### [Lockheed Martin announces that it plans to have a functioning prototype fusion reactor operational in 3 years. ](/news/2014/10/24/lockheed-martin-announces-that-it-plans-to-have-a-functioning-prototype-fusion-reactor-operational-in-3-years.md)
-_Context: Lockheed, fusion reactor_
+_Context: Lockheed Martin, fusion reactor_
 
 ##### Alan Eustace
 ### [Alan Eustace sets a parachuting record of 135,000 feet. ](/news/2014/10/24/alan-eustace-sets-a-parachuting-record-of-135-000-feet.md)

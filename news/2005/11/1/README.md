@@ -5,7 +5,7 @@ Formats: [HTML](2005/11/1/index.html)  [JSON](2005/11/1/index.json)  [XML](2005/
 
 ##### United States
 ### [ U.S. prosecutors admitted that Omar al-Faruq was one of four detainees to escape from the Bagram base, Afghanistan, in July, all of whom are still on the run. ](/news/2005/11/1/u-s-prosecutors-admitted-that-omar-al-faruq-was-one-of-four-detainees-to-escape-from-the-bagram-base-afghanistan-in-july-all-of-whom-ar.md)
-_Context: Afghan, Bagram, July, Omar al-Faruq, United States_
+_Context: Afghanistan, Bagram, July, Omar al-Faruq, United States_
 
 ##### Makybe Diva
 ### [ Makybe Diva wins the Melbourne Cup thoroughbred horse race for the third consecutive year, becoming the first horse ever to do so. Shortly thereafter, owner Tony Santic announces her retirement from racing. ](/news/2005/11/1/makybe-diva-wins-the-melbourne-cup-thoroughbred-horse-race-for-the-third-consecutive-year-becoming-the-first-horse-ever-to-do-so-shortly.md)

@@ -13,7 +13,7 @@ _Context: DARPA Grand Challenge, Las Vegas, Nevada, US$_
 
 ##### Taliban
 ### [ U.S. forces launch new offensive aimed at the Taliban and al-Qaeda and the capture of Osama bin Laden and Mullah Omar in Afghanistan. ](/news/2004/03/13/u-s-forces-launch-new-offensive-aimed-at-the-taliban-and-al-qaeda-and-the-capture-of-osama-bin-laden-and-mullah-omar-in-afghanistan.md)
-_Context: Afghan, Al-Qaida, Mullah Omar, Osama bin Laden, Taliban_
+_Context: Afghanistan, Al-Qaida, Mullah Omar, Osama bin Laden, Taliban_
 
 ##### March 11, 2004 Madrid attacks
 ### [ The death toll in the Madrid bombings rises to 200; investigators continue search for perpetrators, with suspicions against ETA complemented by the apprehension of five foreign citizens connected to terror attacks in Morocco. ](/news/2004/03/13/the-death-toll-in-the-madrid-bombings-rises-to-200-investigators-continue-search-for-perpetrators-with-suspicions-against-eta-complemente.md)

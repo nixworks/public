@@ -19,9 +19,9 @@ _Context: Wal-Mart, health care_
 ### [ The British Government, after several days of debating, confirms its plans to ban smoking in public places in England with the exemption of pubs and clubs not serving food. ](/news/2005/10/26/the-british-government-after-several-days-of-debating-confirms-its-plans-to-ban-smoking-in-public-places-in-england-with-the-exemption-of.md)
 _Context: Politics of the United Kingdom, smoking ban_
 
-##### UK
+##### United Kingdom
 ### [ The British Community Reference Laboratory for Avian Influenza in Weybridge confirms that swans found near Orahovica, Croatia, were infected by the H5N1 flu strain. ](/news/2005/10/26/the-british-community-reference-laboratory-for-avian-influenza-in-weybridge-confirms-that-swans-found-near-orahovica-croatia-were-infecte.md)
-_Context: Community Reference Laboratory for Avian Influenza, Croatia, UK, Weybridge, bird flu, infection, swan_
+_Context: Community Reference Laboratory for Avian Influenza, Croatia, United Kingdom, Weybridge, bird flu, infection, swan_
 
 ##### Marine Corps Air Station Futenma
 ### [ Marine Corps Air Station Futenma is to be relocated from the south island of Okinawa to the main island, affecting thousands of U.S. Marines. Protests from residents, environmental groups, local businessmen and politicians on both sides are likely to ensue. The move is partially due to the rape of a local Okinawa girl, a helicopter crash into a university campus in Ginowan last year, and racial tensions between locals and Marines. ](/news/2005/10/26/marine-corps-air-station-futenma-is-to-be-relocated-from-the-south-island-of-okinawa-to-the-main-island-affecting-thousands-of-u-s-marine.md)
@@ -37,7 +37,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Iran
 ### [ For the first time in Iranian history, Indian soldiers killed fighting for the British in Iran have been commemorated in an official ceremony in Tehran. ](/news/2005/10/26/for-the-first-time-in-iranian-history-indian-soldiers-killed-fighting-for-the-british-in-iran-have-been-commemorated-in-an-official-ceremo.md)
-_Context: India, Iran, Tehran, UK_
+_Context: India, Iran, Tehran, United Kingdom_
 
 ##### Baseball game
 ### [ Baseball: In the deciding game of the 2005 World Series, the Chicago White Sox defeat the Houston Astros 1-0 to sweep the series 4 games to 0. This is the first World Championship for the Sox since 1917. Outfielder Jermaine Dye is named Series MVP. ](/news/2005/10/26/baseball-in-the-deciding-game-of-the-2005-world-series-the-chicago-white-sox-defeat-the-houston-astros-1-0-to-sweep-the-series-4-games-to.md)

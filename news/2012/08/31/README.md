@@ -39,7 +39,7 @@ _Context: Eastern Samar, Philippines, earthquake, magnitude_
 ### [The Los Angeles County Coroner's Office reports that Sage Stallone died of natural causes. ](/news/2012/08/31/the-los-angeles-county-coroner-s-office-reports-that-sage-stallone-died-of-natural-causes.md)
 _Context: Los Angeles County Coroner's Office, Sage Stallone_
 
-##### UK
+##### United Kingdom
 ### [British entertainer Max Bygraves, who had been suffering from Alzheimer's disease, dies in Hope Island, Queensland, Australia, at the age of 89. ](/news/2012/08/31/british-entertainer-max-bygraves-who-had-been-suffering-from-alzheimer-s-disease-dies-in-hope-island-queensland-australia-at-the-age-of.md)
 Singer, comedian and actor Max Bygraves has died in Australia at the age of 89.
 

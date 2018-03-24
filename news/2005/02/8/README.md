@@ -23,7 +23,7 @@ _Context: Cuba, smokers, tobacco_
 ### [ The President of Mexico, Vicente Fox, increases his personal security after an advisor reportedly leaked his itinerary to a Mexican drug cartel. ](/news/2005/02/8/the-president-of-mexico-vicente-fox-increases-his-personal-security-after-an-advisor-reportedly-leaked-his-itinerary-to-a-mexican-drug-ca.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
-##### Swiss
+##### Switzerland
 ### [ Swiss police are searching for three apparent burglars who yesterday briefly held hostages in the Spanish embassy in Bern. When the police stormed the building, they discovered that the criminals had already left the scene. An embassy security guard is in the hospital. ](/news/2005/02/8/swiss-police-are-searching-for-three-apparent-burglars-who-yesterday-briefly-held-hostages-in-the-spanish-embassy-in-bern-when-the-police.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 

@@ -35,9 +35,9 @@ A quantity of explosive found in Dublin this morning was brought into the countr
 ### [A Learjet cargo plane on approach to Chicago Executive Airport crashes into the Des Plaines River in Wheeling, Illinois. ](/news/2010/01/5/a-learjet-cargo-plane-on-approach-to-chicago-executive-airport-crashes-into-the-des-plaines-river-in-wheeling-illinois.md)
 _Context: Chicago Executive Airport, Des Plaines River, Learjet, Wheeling, Illinois_
 
-##### UK
+##### United Kingdom
 ### [The United Kingdom is once again deluged by heavy snowfall as the country endures its worst cold snap since 1979. ](/news/2010/01/5/the-united-kingdom-is-once-again-deluged-by-heavy-snowfall-as-the-country-endures-its-worst-cold-snap-since-1979.md)
-_Context: UK, heavy snowfall_
+_Context: United Kingdom, heavy snowfall_
 
 ##### Brazil
 ### [At least seven people are killed and 20 missing after a bridge collapse in the Brazilian state of Rio Grande do Sul. ](/news/2010/01/5/at-least-seven-people-are-killed-and-20-missing-after-a-bridge-collapse-in-the-brazilian-state-of-rio-grande-do-sul.md)
@@ -61,7 +61,7 @@ _Context: Facebook, social network_
 
 ##### Suicide bomber
 ### [The suicide bomber from Jordan, Humam Khalil Abu-Mulal al-Balawi, who killed seven CIA agents in Afghanistan, is reported to be an al-Qaeda triple agent. ](/news/2010/01/5/the-suicide-bomber-from-jordan-humam-khalil-abu-mulal-al-balawi-who-killed-seven-cia-agents-in-afghanistan-is-reported-to-be-an-al-qaeda.md)
-_Context: Afghan, CIA, Humam Khalil Abu-Mulal al-Balawi, Jordan, al-Qaeda, killed, suicide bomber_
+_Context: Afghanistan, CIA, Humam Khalil Abu-Mulal al-Balawi, Jordan, al-Qaeda, killed, suicide bomber_
 
 ##### Yemen
 ### [The Yemeni government launches campaigns in three provinces to battle Al-Qaeda fighters. ](/news/2010/01/5/the-yemeni-government-launches-campaigns-in-three-provinces-to-battle-al-qaeda-fighters.md)

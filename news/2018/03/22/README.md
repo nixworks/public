@@ -43,15 +43,15 @@ President Erdoğan says he will not let natural reserves be exploited by Greek C
 ### [People in 150 places across France take to the streets peacefully in a general strike to protest President Macron's economic reforms. Railways, airways, schools and power generation are affected. ](/news/2018/03/22/people-in-150-places-across-france-take-to-the-streets-peacefully-in-a-general-strike-to-protest-president-macron-s-economic-reforms-railwa.md)
 _Context: France, President Macron's economic reforms, Protests against Emmanuel Macron, general strike_
 
-##### Atlanta
+##### Crime in Georgia (U.S. state)
 ### [The city government of Atlanta, Georgia, United States, experiences an outage on some official websites, caused by a ransomware cyberattack. ](/news/2018/03/22/the-city-government-of-atlanta-georgia-united-states-experiences-an-outage-on-some-official-websites-caused-by-a-ransomware-cyberattack.md)
 The City of Atlanta has tweeted that they are currently experiencing outages on some of their customer applications. 
 
-##### Kenya
+##### Crime in Kenya
 ### [The Kenyan Court of Appeals rules forced anal examinations on suspected homosexuals are illegal. ](/news/2018/03/22/the-kenyan-court-of-appeals-rules-forced-anal-examinations-on-suspected-homosexuals-are-illegal.md)
 Rights groups have hailed the ruling as a &quot;tremendous step&quot; for gay rights in the conservative country. Kenya has been listed by LGBTQ rights groups as a country that sponsors homophobia through its laws and policies.
 
-##### Palestinian Authority
+##### Palestinian government
 ### [Two men accused of an attempt to assassinate Palestinian Authority Prime Minister Rami Hamdallah die in a shootout with security forces. Two Hamas security personnel also die. ](/news/2018/03/22/two-men-accused-of-an-attempt-to-assassinate-palestinian-authority-prime-minister-rami-hamdallah-die-in-a-shootout-with-security-forces-two.md)
 Two security officers killed in gunbattle during arrest. Suspect also wounded in clash.
 
@@ -59,7 +59,7 @@ Two security officers killed in gunbattle during arrest. Suspect also wounded in
 ### [An Indian court convicts eleven Hindus of murdering a Muslim man they discovered transporting beef, sentencing them to life. It is the first successful prosecution of cow vigilantism violence in India. ](/news/2018/03/22/an-indian-court-convicts-eleven-hindus-of-murdering-a-muslim-man-they-discovered-transporting-beef-sentencing-them-to-life-it-is-the-first.md)
 _Context: Cow vigilante violence in India since 2014, Hindus, India, Muslim_
 
-##### Brazil
+##### Crime in Brazil
 ### [An open letter from international politicians, activists, journalists, and academics demands an independent commission be formed to investigate the assassination of Brazilian human rights activist Marielle Franco and her driver. ](/news/2018/03/22/an-open-letter-from-international-politicians-activists-journalists-and-academics-demands-an-independent-commission-be-formed-to-investig.md)
 An open letter by activists, writers, journalists, actors and politicians calls for an investigation of murder by an independent commission
 

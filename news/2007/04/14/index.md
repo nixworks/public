@@ -29,7 +29,7 @@ _Context: Aksaray, Konya, Turkey, bus, primary school_
 
 ##### Suicide bomber
 ### [ A suicide bomber kills 8 people in the Khost Province of Afghanistan. ](/news/2007/04/14/a-suicide-bomber-kills-8-people-in-the-khost-province-of-afghanistan.md)
-_Context: Afghan, Khost, suicide bomber_
+_Context: Afghanistan, Khost, suicide bomber_
 
 ##### Flash flood
 ### [ Flash flooding kills at least 35 people in the Trang Province of Thailand. ](/news/2007/04/14/flash-flooding-kills-at-least-35-people-in-the-trang-province-of-thailand.md)

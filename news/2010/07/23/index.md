@@ -119,9 +119,9 @@ Three-person team expected to travel to Israel, Turkey and Gaza to investigate r
 ### [Israel Defense Forces soldiers kill a Palestinian man attempting to enter the Israeli settlement of Barkan. ](/news/2010/07/23/israel-defense-forces-soldiers-kill-a-palestinian-man-attempting-to-enter-the-israeli-settlement-of-barkan.md)
 A Palestinian man has been shot dead by Israeli troops after entering a Jewish settlement in the West Bank.
 
-##### Swiss
+##### Switzerland
 ### [One person is killed and 42 injured after a Swiss tourist train derails in the Alps. ](/news/2010/07/23/one-person-is-killed-and-42-injured-after-a-swiss-tourist-train-derails-in-the-alps.md)
-_Context: Alps, Swiss_
+_Context: Alps, Switzerland_
 
 ##### North Korea
 ### [North Korea responds to nearby joint United States-South Korean military exercises by stating that the acts resemble 19th century "gunboat diplomacy", describing them as "a threat to the Korean peninsula and the region of Asia as a whole". ](/news/2010/07/23/north-korea-responds-to-nearby-joint-united-states-south-korean-military-exercises-by-stating-that-the-acts-resemble-19th-century-gunboat-d.md)

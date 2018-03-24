@@ -25,7 +25,7 @@ Russian Prime Minister Vladimir Putin announces he has accepted a proposal to ru
 
 ##### Oswald Grbel
 ### [Oswald Grbel, chief executive of Swiss bank UBS, resigns in the wake of a rogue trading scandal. ](/news/2011/09/24/oswald-grubel-chief-executive-of-swiss-bank-ubs-resigns-in-the-wake-of-a-rogue-trading-scandal.md)
-_Context: Oswald Grbel, Swiss, UBS_
+_Context: Oswald Grbel, Switzerland, UBS_
 
 ##### Spanish politicians
 ### [A Spanish oil tanker hijacked off the coast of West Africa is freed, with no harm reportedly done to the crew, and no ransom paid to the pirates. ](/news/2011/09/24/a-spanish-oil-tanker-hijacked-off-the-coast-of-west-africa-is-freed-with-no-harm-reportedly-done-to-the-crew-and-no-ransom-paid-to-the-pir.md)

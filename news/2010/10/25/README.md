@@ -47,7 +47,7 @@ _Context: Iran, Kenya_
 ### [U.S. Senator John Kerry of Massachusetts claims the government of Sudan{{spaced ndash}}which has been subject to U.S. sanctions since 1997{{spaced ndash}}has assured him it will hold a referendum on independence for the south. ](/news/2010/10/25/u-s-senator-john-kerry-of-massachusetts-claims-the-government-of-sudan-spaced-ndash-which-has-been-subject-to-u-s-sanctions-since-1997.md)
 US Senator John Kerry says Sudan has assured him it will hold a referendum on independence for the south and is committed to the outcome.
 
-##### Afghan
+##### Afghanistan
 ### [President Hamid Karzai acknowledges that his office has regularly received cash from Iran and the United States but claims that the process was transparent. ](/news/2010/10/25/president-hamid-karzai-acknowledges-that-his-office-has-regularly-received-cash-from-iran-and-the-united-states-but-claims-that-the-process.md)
 A Dutch aid worker and his Afghan driver have been abducted by gunmen in north eastern Afghanistan, officials say.
 
@@ -113,7 +113,7 @@ _Context: Sahrawi, Western Sahara_
 
 ##### Afghan government
 ### [An Afghan official claims that a NATO air strike killed about 25 people in Helmand Province, Afghanistan. ](/news/2010/10/25/an-afghan-official-claims-that-a-nato-air-strike-killed-about-25-people-in-helmand-province-afghanistan.md)
-_Context: Afghan, Afghan government, Helmand Province, NATO_
+_Context: Afghan government, Afghanistan, Helmand Province, NATO_
 
 ##### Orakzai
 ### [A roadside bomb struck a passenger van in the Orakzai tribal region killing three people and wounding two others near Tanda. ](/news/2010/10/25/a-roadside-bomb-struck-a-passenger-van-in-the-orakzai-tribal-region-killing-three-people-and-wounding-two-others-near-tanda.md)

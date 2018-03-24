@@ -41,7 +41,7 @@ In a 5-4 decision, the justices struck down a Louisiana law, ruling that it woul
 
 ##### Zimbabwe
 ### [ Zimbabwean President Robert Mugabe is stripped of his honorary Order of the Bath knighthood, upon the advice of the UK Secretary of State for Foreign and Commonwealth Affairs. ](/news/2008/06/25/zimbabwean-president-robert-mugabe-is-stripped-of-his-honorary-order-of-the-bath-knighthood-upon-the-advice-of-the-uk-secretary-of-state-f.md)
-_Context: Foreign Secretary, Order of the Bath, President of Zimbabwe, Robert Mugabe, UK, Zimbabwe, knighthood_
+_Context: Foreign Secretary, Order of the Bath, President of Zimbabwe, Robert Mugabe, United Kingdom, Zimbabwe, knighthood_
 
 ##### European Union
 ### [ EU's representative in Kosovo Pieter Feith says he expects Montenegro will recognize Kosovo's unilateral independence "as soon as possible", as it would "contribute to regional stability". ](/news/2008/06/25/eu-s-representative-in-kosovo-pieter-feith-says-he-expects-montenegro-will-recognize-kosovo-s-unilateral-independence-as-soon-as-possible.md)

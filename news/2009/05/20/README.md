@@ -33,7 +33,7 @@ _Context: Alex Salmond, Europe, First Minister, Scottish, Whitelee Wind Farm, wi
 
 ##### International Security Assistance Force
 ### [ The International Security Assistance Force reports that the Taliban are using white phosphorus in the Afghanistan War. ](/news/2009/05/20/the-international-security-assistance-force-reports-that-the-taliban-are-using-white-phosphorus-in-the-afghanistan-war.md)
-_Context: Afghan, International Security Assistance Force, Taliban, War, white phosphorus_
+_Context: Afghanistan, International Security Assistance Force, Taliban, War, white phosphorus_
 
 ##### The Globe and Mail
 ### [ "The Globe and Mail" refutes portions of former Canadian Prime Minister Brian Mulroney's testimony about his relationship with German arms dealer Karlheinz Schreiber. ](/news/2009/05/20/the-globe-and-mail-refutes-portions-of-former-canadian-prime-minister-brian-mulroney-s-testimony-about-his-relationship-with-german-arms.md)
@@ -51,9 +51,9 @@ _Context: Iran, Sajjil, medium-range missile, nuclear program, surface-to-surfac
 ### [ South East Queensland, Australia, is declared a natural disaster zone, following flooding. ](/news/2009/05/20/south-east-queensland-australia-is-declared-a-natural-disaster-zone-following-flooding.md)
 Flood-hit south-east Queensland has been declared a natural disaster zone after the death of a man on the Gold Coast this afternoon.
 
-##### UK
+##### United Kingdom
 ### [ The United Kingdom's House of Lords suspends Thomas Taylor and Peter Truscott until November for misconduct. ](/news/2009/05/20/the-united-kingdom-s-house-of-lords-suspends-thomas-taylor-and-peter-truscott-until-november-for-misconduct.md)
-_Context: House of Lords, Peter Truscott, Thomas Taylor, UK, misconduct, suspends_
+_Context: House of Lords, Peter Truscott, Thomas Taylor, United Kingdom, misconduct, suspends_
 
 ## [Previous Day...](/news/2009/05/19/index.md)
 

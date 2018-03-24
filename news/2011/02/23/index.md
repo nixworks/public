@@ -19,9 +19,9 @@ Activists have asked citizens to express their displeasure at the lack of reform
 ### [Colin Hatch, a convicted child murderer, is murdered in jail while serving his sentence; a 35-year-old male prisoner has been arrested on suspicion of murder. ](/news/2011/02/23/colin-hatch-a-convicted-child-murderer-is-murdered-in-jail-while-serving-his-sentence-a-35-year-old-male-prisoner-has-been-arrested-on-su.md)
 _Context: Colin Hatch_
 
-##### UK
+##### United Kingdom
 ### [Three people are arrested in the United Kingdom in connection with an alleged attempt to blackmail Coleen Rooney, the wife of Manchester United F.C. star Wayne Rooney. ](/news/2011/02/23/three-people-are-arrested-in-the-united-kingdom-in-connection-with-an-alleged-attempt-to-blackmail-coleen-rooney-the-wife-of-manchester-uni.md)
-_Context: Coleen Rooney, Manchester United, UK, Wayne Rooney, blackmail_
+_Context: Coleen Rooney, Manchester United, United Kingdom, Wayne Rooney, blackmail_
 
 ##### Thailand
 ### [Thai police seize six tiger cubs at the house of a suspected weapons dealer. ](/news/2011/02/23/thai-police-seize-six-tiger-cubs-at-the-house-of-a-suspected-weapons-dealer.md)

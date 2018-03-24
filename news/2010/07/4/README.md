@@ -25,7 +25,7 @@ _Context: Japan, Nathan's Hot Dog Eating Contest, New York City, Takeru "Tsunami
 
 ##### Iran
 ### [Iran passes on to Tehran's Swiss embassy what it describes as evidence proving that the United States Central Intelligence Agency abducted Iranian nuclear scientist Shahram Amiri. ](/news/2010/07/4/iran-passes-on-to-tehran-s-swiss-embassy-what-it-describes-as-evidence-proving-that-the-united-states-central-intelligence-agency-abducted-i.md)
-_Context: CIA, Iran, Shahram Amiri, Swiss, Tehran, United States_
+_Context: CIA, Iran, Shahram Amiri, Switzerland, Tehran, United States_
 
 ##### David Petraeus
 ### [David Petraeus formally takes command of the International Security Assistance Force in Afghanistan. ](/news/2010/07/4/david-petraeus-formally-takes-command-of-the-international-security-assistance-force-in-afghanistan.md)

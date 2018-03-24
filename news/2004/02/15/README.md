@@ -35,7 +35,7 @@ _Context: Same-sex marriage in the United States, San Francisco, California, gay
 
 ##### United Nations
 ### [ United Nations Afghanistan envoy voices disdain at the ""brutal and cold-blooded"" murder of four deminers working to eradicate landmines in Afghanistan. ](/news/2004/02/15/united-nations-afghanistan-envoy-voices-disdain-at-the-brutal-and-cold-blooded-murder-of-four-deminers-working-to-eradicate-landmines-i.md)
-_Context: Afghan, United Nations, land mine_
+_Context: Afghanistan, United Nations, land mine_
 
 ##### 
 ### [ Iraqi lawyers say Saddam Hussein is unlikely to stand trial for at least another two years. ](/news/2004/02/15/iraqi-lawyers-say-saddam-hussein-is-unlikely-to-stand-trial-for-at-least-another-two-years.md)

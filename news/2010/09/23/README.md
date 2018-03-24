@@ -21,7 +21,7 @@ _Context: Kim Jong-il, Kim Jong-un, Korean Workers' Party, North Korea_
 
 ##### Pakistan
 ### [Pakistani scientist Aafia Siddiqui is sentenced to 86 years in jail in a New York federal court for trying to kill United States soldiers in Afghanistan. ](/news/2010/09/23/pakistani-scientist-aafia-siddiqui-is-sentenced-to-86-years-in-jail-in-a-new-york-federal-court-for-trying-to-kill-united-states-soldiers-in.md)
-_Context: Aafia Siddiqui, Afghan, New York, Pakistan, United States_
+_Context: Aafia Siddiqui, Afghanistan, New York, Pakistan, United States_
 
 ##### U.S
 ### [The U.S state of Virginia executes its first woman since 1912; Teresa Lewis will also be the first woman in the U.S to be executed since 2005. ](/news/2010/09/23/the-u-s-state-of-virginia-executes-its-first-woman-since-1912-teresa-lewis-will-also-be-the-first-woman-in-the-u-s-to-be-executed-since-200.md)
@@ -37,7 +37,7 @@ _Context: Barack Obama, Premier of the People's Republic of China, U.S. Presiden
 
 ##### United States
 ### [The United States and other western nations including Britain, Sweden, Australia, Belgium, Uruguay and Spain walk out of the United Nations General Assembly following claims by the President of Iran Mahmoud Ahmadinejad that the "majority of the American people as well as most nations and politicians around the world" say that the 9-11 attacks were the work of the Government of the United States trying to protect Israel. ](/news/2010/09/23/the-united-states-and-other-western-nations-including-britain-sweden-australia-belgium-uruguay-and-spain-walk-out-of-the-united-nations.md)
-_Context: 9/11 attacks, Australia, Belgium, Israel, Mahmoud Ahmadinejad, President, Spanish, Sweden, UK, United Nations General Assembly, United States, United States government, Uruguay_
+_Context: 9/11 attacks, Australia, Belgium, Israel, Mahmoud Ahmadinejad, President, Spanish, Sweden, United Kingdom, United Nations General Assembly, United States, United States government, Uruguay_
 
 ##### Iran
 ### [Iran withdraws its bid for a seat on the International Atomic Energy Agency board due to lack of support for its candidacy. ](/news/2010/09/23/iran-withdraws-its-bid-for-a-seat-on-the-international-atomic-energy-agency-board-due-to-lack-of-support-for-its-candidacy.md)

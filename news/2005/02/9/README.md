@@ -19,9 +19,9 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 ### [ The Economic Community of West African States intends to hold an emergency summit in Niger to discuss the political developments about the appointment of Faure Gnassingb as the president of Togo. ](/news/2005/02/9/the-economic-community-of-west-african-states-intends-to-hold-an-emergency-summit-in-niger-to-discuss-the-political-developments-about-the.md)
 Lome, Feb. 8 (Graphic) -- ECOWAS Heads of State and Government will...
 
-##### Swiss
+##### Switzerland
 ### [ Switzerland's Federal Court rules that the money that former Nigerian dictator Sani Abacha took from Nigeria may be returned to the country. Abacha took hundreds of millions of dollars from Nigeria during his rule as dictator. ](/news/2005/02/9/switzerland-s-federal-court-rules-that-the-money-that-former-nigerian-dictator-sani-abacha-took-from-nigeria-may-be-returned-to-the-country.md)
-_Context: Sani Abacha, Swiss, dictator_
+_Context: Sani Abacha, Switzerland, dictator_
 
 ##### 2004 Indian Ocean earthquake
 ### [ British survey ship HMS "Scott" produces the first sonar survey of the seabed site of the 2004 Indian Ocean earthquake. Some images appear to show a landslide 100 metres high and 2 kilometres long. ](/news/2005/02/9/british-survey-ship-hms-scott-produces-the-first-sonar-survey-of-the-seabed-site-of-the-2004-indian-ocean-earthquake-some-images-appear.md)

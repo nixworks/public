@@ -19,7 +19,7 @@ _Context: Henrique Capriles, National Electoral Council, Venezuela, last month's
 ### [The Italy Parliament prepares to vote for a new President to succeed Giorgio Napolitano, in order to end a two-month impasse between political parties by forming a coalition government. ](/news/2013/04/17/the-italy-parliament-prepares-to-vote-for-a-new-president-to-succeed-giorgio-napolitano-in-order-to-end-a-two-month-impasse-between-politic.md)
 _Context: Giorgio Napolitano, Italian Parliament, Italy, President of Italy, coalition government, political parties_
 
-##### UK
+##### United Kingdom
 ### [The former British Prime Minister Margaret Thatcher's ceremonial funeral is held in London. ](/news/2013/04/17/the-former-british-prime-minister-margaret-thatcher-s-ceremonial-funeral-is-held-in-london.md)
 Here&#039;s everything you need to know about the timetable of events ahead of the funeral of former British prime minister Margaret Thatcher. 
 

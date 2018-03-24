@@ -5,7 +5,7 @@ Formats: [HTML](2009/12/15/index.html)  [JSON](2009/12/15/index.json)  [XML](200
 
 ##### Israel
 ### [ Israel condemns the issuing of a war crimes arrest warrant in the United Kingdom for former Foreign Minister Tzipi Livni. ](/news/2009/12/15/israel-condemns-the-issuing-of-a-war-crimes-arrest-warrant-in-the-united-kingdom-for-former-foreign-minister-tzipi-livni.md)
-_Context: Foreign Minister, Israel, Tzipi Livni, UK, war crimes_
+_Context: Foreign Minister, Israel, Tzipi Livni, United Kingdom, war crimes_
 
 ##### Canada
 ### [ Canadian sports medicine specialist Anthony Galea, who helped Tiger Woods recover from knee surgery, is accused of providing top athletes with performance-enhancing drugs. ](/news/2009/12/15/canadian-sports-medicine-specialist-anthony-galea-who-helped-tiger-woods-recover-from-knee-surgery-is-accused-of-providing-top-athletes-w.md)

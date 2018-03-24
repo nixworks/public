@@ -5,7 +5,7 @@ Formats: [HTML](2009/10/7/index.html)  [JSON](2009/10/7/index.json)  [XML](2009/
 
 ##### The Red Book
 ### [ "The Red Book" by Swiss psychiatrist Carl Jung is displayed for the first time in public. ](/news/2009/10/7/the-red-book-by-swiss-psychiatrist-carl-jung-is-displayed-for-the-first-time-in-public.md)
-_Context: Carl Jung, Swiss, The Red Book, psychiatrist_
+_Context: Carl Jung, Switzerland, The Red Book, psychiatrist_
 
 ##### Magnitude
 ### [ A 7.8 magnitude earthquake strikes Vanuatu, followed 15 minutes later by a 7.3 magnitude aftershock. A tsunami warning is issued. ](/news/2009/10/7/a-7-8-magnitude-earthquake-strikes-vanuatu-followed-15-minutes-later-by-a-7-3-magnitude-aftershock-a-tsunami-warning-is-issued.md)

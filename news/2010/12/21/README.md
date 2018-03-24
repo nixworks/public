@@ -27,7 +27,7 @@ _Context: Milo Dukanovic, Montenegro, Prime Minister_
 ### [Tuvalu Prime Minister Maatia Toafa is ousted in a vote of no confidence, necessitating nominations for a new Prime Minister. ](/news/2010/12/21/tuvalu-prime-minister-maatia-toafa-is-ousted-in-a-vote-of-no-confidence-necessitating-nominations-for-a-new-prime-minister.md)
 _Context: Maatia Toafa, Prime Minister of Tuvalu, Tuvalu, vote of no confidence_
 
-##### UK
+##### United Kingdom
 ### [In the United Kingdom Stephen Griffiths (Aka "The Crossbow Cannibal") is sentenced to life imprisonment for the murders of three women in Bradford, West Yorkshire. ](/news/2010/12/21/in-the-united-kingdom-stephen-griffiths-aka-the-crossbow-cannibal-is-sentenced-to-life-imprisonment-for-the-murders-of-three-women-in-br.md)
 A university student, who referred to himself in court as the &quot;Crossbow Cannibal&quot;, is jailed for life for the &quot;wicked and monstrous&quot; murders of three women in Bradford.
 

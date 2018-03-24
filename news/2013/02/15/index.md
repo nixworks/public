@@ -23,9 +23,9 @@ _Context: 3G Capital, Berkshire Hathaway Inc., H.J. Heinz_
 ### [The social networking giant Facebook announces that it was the target of sophisticated hackers, who through a then-unknown bug from Oracle's Java on an infected website, managed to infiltrate employees' laptops, and then the internal networks. There was no user data collected, but certain code and corporate e-mails could have been exfiltrated. ](/news/2013/02/15/the-social-networking-giant-facebook-announces-that-it-was-the-target-of-sophisticated-hackers-who-through-a-then-unknown-bug-from-oracle-s.md)
 _Context: Facebook, Java, Oracle Corporation, bug, e-mails, hackers, laptop, network, social network, user data, website_
 
-##### UK
+##### United Kingdom
 ### [The British catering firm Compass Group and hotel chain Whitbread both identify horse meat in products sold as beef. ](/news/2013/02/15/the-british-catering-firm-compass-group-and-hotel-chain-whitbread-both-identify-horse-meat-in-products-sold-as-beef.md)
-_Context: 2013 meat adulteration scandal, Compass Group, UK, Whitbread, beef, horses for meat_
+_Context: 2013 meat adulteration scandal, Compass Group, United Kingdom, Whitbread, beef, horses for meat_
 
 ##### North Korea
 ### [In reaction to North Korea's latest nuclear test the European Union will tighten sanctions against the country in the form of blocking the trade of gold and diamonds, as well as cracking down on financial ties between them. ](/news/2013/02/15/in-reaction-to-north-korea-s-latest-nuclear-test-the-european-union-will-tighten-sanctions-against-the-country-in-the-form-of-blocking-the-t.md)

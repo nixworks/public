@@ -23,8 +23,8 @@ Formats: [HTML](/news/2014/07/15/a-car-bomb-explodes-at-a-market-in-the-eastern-
 
 ### Related:
 
-1. [At least 18 people are killed and 6 others injured in a car bomb explosion in Khost, eastern Afghanistan. ](/news/2017/05/27/at-least-18-people-are-killed-and-6-others-injured-in-a-car-bomb-explosion-in-khost-eastern-afghanistan.md) _Context: Afghan, car bomb_
-2. [A suicide car bomb kills 25 people and wounds 10 in southeastern Afghanistan close to a U.S. base. ](/news/2015/07/12/a-suicide-car-bomb-kills-25-people-and-wounds-10-in-southeastern-afghanistan-close-to-a-u-s-base.md) _Context: Afghan, car bomb_
-3. [Roadside car bombs kill 14 civilians travelling in two vehicles in Afghanistan's Kandahar Province. ](/news/2012/07/8/roadside-car-bombs-kill-14-civilians-travelling-in-two-vehicles-in-afghanistan-s-kandahar-province.md) _Context: Afghan, car bomb_
-4. [A truck bomb at a military outpost in Wardak Province, Afghanistan, kills several civilians. ](/news/2011/09/11/a-truck-bomb-at-a-military-outpost-in-wardak-province-afghanistan-kills-several-civilians.md) _Context: Afghan, car bomb_
-5. [A car bomb attack on a construction company in Afghanistan's Paktika Province kills at least 13 people and injures another fifty. ](/news/2011/03/28/a-car-bomb-attack-on-a-construction-company-in-afghanistan-s-paktika-province-kills-at-least-13-people-and-injures-another-fifty.md) _Context: Afghan, car bomb_
+1. [At least 18 people are killed and 6 others injured in a car bomb explosion in Khost, eastern Afghanistan. ](/news/2017/05/27/at-least-18-people-are-killed-and-6-others-injured-in-a-car-bomb-explosion-in-khost-eastern-afghanistan.md) _Context: Afghanistan, car bomb_
+2. [A suicide car bomb kills 25 people and wounds 10 in southeastern Afghanistan close to a U.S. base. ](/news/2015/07/12/a-suicide-car-bomb-kills-25-people-and-wounds-10-in-southeastern-afghanistan-close-to-a-u-s-base.md) _Context: Afghanistan, car bomb_
+3. [Roadside car bombs kill 14 civilians travelling in two vehicles in Afghanistan's Kandahar Province. ](/news/2012/07/8/roadside-car-bombs-kill-14-civilians-travelling-in-two-vehicles-in-afghanistan-s-kandahar-province.md) _Context: Afghanistan, car bomb_
+4. [A truck bomb at a military outpost in Wardak Province, Afghanistan, kills several civilians. ](/news/2011/09/11/a-truck-bomb-at-a-military-outpost-in-wardak-province-afghanistan-kills-several-civilians.md) _Context: Afghanistan, car bomb_
+5. [A car bomb attack on a construction company in Afghanistan's Paktika Province kills at least 13 people and injures another fifty. ](/news/2011/03/28/a-car-bomb-attack-on-a-construction-company-in-afghanistan-s-paktika-province-kills-at-least-13-people-and-injures-another-fifty.md) _Context: Afghanistan, car bomb_

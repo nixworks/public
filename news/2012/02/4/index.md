@@ -33,7 +33,7 @@ _Context: Australia, NSW, Queensland_
 
 ##### Florence Green
 ### [Florence Green, the last known veteran from World War I, dies at the age of 110 in the United Kingdom. ](/news/2012/02/4/florence-green-the-last-known-veteran-from-world-war-i-dies-at-the-age-of-110-in-the-united-kingdom.md)
-_Context: First World War, Florence Green, UK_
+_Context: First World War, Florence Green, United Kingdom_
 
 ##### Egypt
 ### [Egypt's tax authority building in Cairo is set alight as protests against the continuation of military rule carry on. ](/news/2012/02/4/egypt-s-tax-authority-building-in-cairo-is-set-alight-as-protests-against-the-continuation-of-military-rule-carry-on.md)

@@ -57,7 +57,7 @@ _Context: Diyala Governorate, Iraqi Army, suicide bomber_
 
 ##### Pakistan
 ### [A U.S. missile strike kills three Pakistani militants operating close to the Afghanistan border. ](/news/2011/03/14/a-u-s-missile-strike-kills-three-pakistani-militants-operating-close-to-the-afghanistan-border.md)
-_Context: Afghan, Pakistan_
+_Context: Afghanistan, Pakistan_
 
 ##### Indian Navy
 ### [The Indian Navy captures 61 pirates on a Mozambiquan fishing vessel in the Arabian Sea. ](/news/2011/03/14/the-indian-navy-captures-61-pirates-on-a-mozambiquan-fishing-vessel-in-the-arabian-sea.md)

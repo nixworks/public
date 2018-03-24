@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/01/21/the-united-kingdom-reports-that-1-92-million-br
 
 ### [2009-01-21](/news/2009/01/21/index.md)
 
-##### UK
+##### United Kingdom
 #  The United Kingdom reports that 1.92 million Britons were unemployed in December 2008. 
 
 
@@ -15,8 +15,8 @@ Formats: [HTML](/news/2009/01/21/the-united-kingdom-reports-that-1-92-million-br
 
 ### Related:
 
-1. [U.S. President Barack Obama, in an op-ed in London's "Daily Telegraph", urges Britons to keep the U.K. in the European Union. Tomorrow, Obama is scheduled to have lunch with Prince Philip and Queen Elizabeth, who celebrated her 90th birthday today. He then will hold talks with Prime Minister David Cameron. ](/news/2016/04/21/u-s-president-barack-obama-in-an-op-ed-in-london-s-daily-telegraph-urges-britons-to-keep-the-u-k-in-the-european-union-tomorrow-obam.md) _Context: British, UK_
-2. [ All pleas to halt British hacker Gary McKinnon being extradited to the United States to face trial for breaking into NASA and military computers looking for UFO evidence fail as UK Home Secretary orders his extradition. ](/news/2009/11/26/all-pleas-to-halt-british-hacker-gary-mckinnon-being-extradited-to-the-united-states-to-face-trial-for-breaking-into-nasa-and-military-comp.md) _Context: British, UK_
-3. [ The Office for National Statistics reports that 2.04 million people in the United Kingdom are unemployed. ](/news/2009/03/18/the-office-for-national-statistics-reports-that-2-04-million-people-in-the-united-kingdom-are-unemployed.md) _Context: UK, Unemployment_
-4. [ The United Kingdom's consumer price inflation falls from 4.1% in November 2008 to 3.1% in December 2008. ](/news/2009/01/20/the-united-kingdom-s-consumer-price-inflation-falls-from-4-1-in-november-2008-to-3-1-in-december-2008.md) _Context: 2008, UK_
-5. [British music journalism magazine "New Musical Express" (NME) issues its final print edition after 66 years, becoming a purely digital medium. ](/news/2018/03/9/british-music-journalism-magazine-new-musical-express-nme-issues-its-final-print-edition-after-66-years-becoming-a-purely-digital-mediu.md) _Context: UK_
+1. [U.S. President Barack Obama, in an op-ed in London's "Daily Telegraph", urges Britons to keep the U.K. in the European Union. Tomorrow, Obama is scheduled to have lunch with Prince Philip and Queen Elizabeth, who celebrated her 90th birthday today. He then will hold talks with Prime Minister David Cameron. ](/news/2016/04/21/u-s-president-barack-obama-in-an-op-ed-in-london-s-daily-telegraph-urges-britons-to-keep-the-u-k-in-the-european-union-tomorrow-obam.md) _Context: British, United Kingdom_
+2. [ All pleas to halt British hacker Gary McKinnon being extradited to the United States to face trial for breaking into NASA and military computers looking for UFO evidence fail as UK Home Secretary orders his extradition. ](/news/2009/11/26/all-pleas-to-halt-british-hacker-gary-mckinnon-being-extradited-to-the-united-states-to-face-trial-for-breaking-into-nasa-and-military-comp.md) _Context: British, United Kingdom_
+3. [ The Office for National Statistics reports that 2.04 million people in the United Kingdom are unemployed. ](/news/2009/03/18/the-office-for-national-statistics-reports-that-2-04-million-people-in-the-united-kingdom-are-unemployed.md) _Context: Unemployment, United Kingdom_
+4. [ The United Kingdom's consumer price inflation falls from 4.1% in November 2008 to 3.1% in December 2008. ](/news/2009/01/20/the-united-kingdom-s-consumer-price-inflation-falls-from-4-1-in-november-2008-to-3-1-in-december-2008.md) _Context: 2008, United Kingdom_
+5. [British music journalism magazine "New Musical Express" (NME) issues its final print edition after 66 years, becoming a purely digital medium. ](/news/2018/03/9/british-music-journalism-magazine-new-musical-express-nme-issues-its-final-print-edition-after-66-years-becoming-a-purely-digital-mediu.md) _Context: United Kingdom_

@@ -29,7 +29,7 @@ _Context: France, Mali, drone_
 
 ##### Royal Air Force
 ### [The UK doubles its number of RAF armed "drones" operating in Afghanistan and, in a new development, drones are to be controlled from terminals and screens on British soil. ](/news/2012/10/22/the-uk-doubles-its-number-of-raf-armed-drones-operating-in-afghanistan-and-in-a-new-development-drones-are-to-be-controlled-from-termina.md)
-_Context: Afghan, Royal Air Force, drone_
+_Context: Afghanistan, Royal Air Force, drone_
 
 ##### Federal Reserve
 ### [The chairman of the U.S. central bank, the Federal Reserve, likely will not stand for re-election to that post. Ben Bernanke has reportedly told friends he will leave when his term ends in January 2014 regardless of who wins the Presidential election campaign. ](/news/2012/10/22/the-chairman-of-the-u-s-central-bank-the-federal-reserve-likely-will-not-stand-for-re-election-to-that-post-ben-bernanke-has-reportedly.md)

@@ -77,7 +77,7 @@ The onset of Carnival sends many Brazilians scrambling to buy tickets to legenda
 
 ##### Hamid Karzai
 ### [Hamid Karzai, the President of Afghanistan, warns General David Petraeus the head of United States and NATO forces in Afghanistan that civilian casualties in the Afghanistan war and rejects an apology for the mistaken killings of nine boys in a NATO air attack. ](/news/2011/03/6/hamid-karzai-the-president-of-afghanistan-warns-general-david-petraeus-the-head-of-united-states-and-nato-forces-in-afghanistan-that-civil.md)
-_Context: Afghan, Afghan President, David Petraeus, General, Hamid Karzai, NATO, U.S. military, War in Afghanistan (2001-present)_
+_Context: Afghan President, Afghanistan, David Petraeus, General, Hamid Karzai, NATO, U.S. military, War in Afghanistan (2001-present)_
 
 ##### U.S. Navy
 ### [United States Navy commandos from the destroyer USS "Bulkeley" capture four Somali pirates who boarded the Japanese oil tanker, the MV Guanabara. ](/news/2011/03/6/united-states-navy-commandos-from-the-destroyer-uss-bulkeley-capture-four-somali-pirates-who-boarded-the-japanese-oil-tanker-the-mv-guana.md)

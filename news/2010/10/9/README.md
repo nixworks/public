@@ -65,7 +65,7 @@ Thirteen men are arrested as demonstrators stage two protests in Leicester, spar
 
 ##### Farah Province
 ### [Four Italian soldiers die following an attack in the Farah area, Afghanistan. ](/news/2010/10/9/four-italian-soldiers-die-following-an-attack-in-the-farah-area-afghanistan.md)
-_Context: Afghan, Farah Province_
+_Context: Afghanistan, Farah Province_
 
 ##### Naxal
 ### [7 naxals are gunned down by the police in an encounter in Mahasamund district of Chhattisgarh. ](/news/2010/10/9/7-naxals-are-gunned-down-by-the-police-in-an-encounter-in-mahasamund-district-of-chhattisgarh.md)

@@ -49,11 +49,11 @@ _Context: Hong Kong, Hong Kong Monetary Authority_
 
 ##### South Africa
 ### [ Two journalists from South Africa and the United Kingdom are due in court after being allegedly attacked and then arrested while filming seal hunters in Namibia. ](/news/2009/07/17/two-journalists-from-south-africa-and-the-united-kingdom-are-due-in-court-after-being-allegedly-attacked-and-then-arrested-while-filming-se.md)
-_Context: Namibia, South Africa, UK_
+_Context: Namibia, South Africa, United Kingdom_
 
 ##### Brazil
 ### [ Brazil complains of 64 containers with over 1,400 tonnes of British used condoms, syringes and rotting nappies located in three of the country's ports. ](/news/2009/07/17/brazil-complains-of-64-containers-with-over-1-400-tonnes-of-british-used-condoms-syringes-and-rotting-nappies-located-in-three-of-the-coun.md)
-_Context: Brazil, UK_
+_Context: Brazil, United Kingdom_
 
 ##### Irish
 ### [ Irish President Mary McAleese announces her intention to convene a meeting of the Council of State on 22 July. ](/news/2009/07/17/irish-president-mary-mcaleese-announces-her-intention-to-convene-a-meeting-of-the-council-of-state-on-22-july.md)

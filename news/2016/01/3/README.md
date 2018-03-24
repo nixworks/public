@@ -15,7 +15,7 @@ Saudi Arabia says it has broken off diplomatic ties with Iran, amid a row over t
 ### [North Korea may be preparing for an imminent thermonuclear weapon test at its Punggye-ri Nuclear Test Site, located in the country's North Hamgyong Province where previous tests took place in 2006, 2009 and 2013, according to a South Korean military report. ](/news/2016/01/3/north-korea-may-be-preparing-for-an-imminent-thermonuclear-weapon-test-at-its-punggye-ri-nuclear-test-site-located-in-the-country-s-north-h.md)
  North Korea may be preparing to test its thermonuclear weapons capabilities at its Punggye-ri nuclear test site, a South Korean military unit responsible for nuclear defense said Sunday.
 
-##### UK
+##### United Kingdom
 ### [The United Kingdom designates Ascension Island and its surrounding waters in the Atlantic Ocean as a Marine protected area. The reserve will be almost as big as the UK with just over half of the protected area completely closed to fishing. ](/news/2016/01/3/the-united-kingdom-designates-ascension-island-and-its-surrounding-waters-in-the-atlantic-ocean-as-a-marine-protected-area-the-reserve-will.md)
 The government is to create a marine reserve almost as big as the UK in the Atlantic waters of Ascension Island.
 

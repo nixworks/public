@@ -31,13 +31,13 @@ Ukraine has set 17 January as the date for a presidential election crucial for i
 ### [ The French National Assembly announces the beginning of an inquiry into whether women in France should be allowed to wear the burqa. ](/news/2009/06/23/the-french-national-assembly-announces-the-beginning-of-an-inquiry-into-whether-women-in-france-should-be-allowed-to-wear-the-burqa.md)
 _Context: France, French National Assembly, burqa_
 
-##### Boeing Company
+##### Boeing
 ### [ Boeing delays the first test flight of its lightweight jet, the 787, because of stress found where the wings attach to the sides of the plane. ](/news/2009/06/23/boeing-delays-the-first-test-flight-of-its-lightweight-jet-the-787-because-of-stress-found-where-the-wings-attach-to-the-sides-of-the-pla.md)
 Additional stress was found where the wings attach to the sides of the plane, but executives said that minor modifications would fix the problem.
 
-##### UK
+##### United Kingdom
 ### [ United Kingdom Commons speaker John Bercow breaks with tradition by abandoning the traditional court dress worn by his predecessor Michael Martin. ](/news/2009/06/23/united-kingdom-commons-speaker-john-bercow-breaks-with-tradition-by-abandoning-the-traditional-court-dress-worn-by-his-predecessor-michael.md)
-_Context: British House of Commons, John Bercow, Michael Martin, UK_
+_Context: British House of Commons, John Bercow, Michael Martin, United Kingdom_
 
 ## [Previous Day...](/news/2009/06/22/index.md)
 

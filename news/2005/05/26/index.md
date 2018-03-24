@@ -41,19 +41,19 @@ _Context: Brazil, So Paulo, flash flood_
 
 ##### Thailand
 ### [ In Thailand, police officer Somchai Visetsingha is sentenced to a life in prison for murder of two British backpackers in 2004. ](/news/2005/05/26/in-thailand-police-officer-somchai-visetsingha-is-sentenced-to-a-life-in-prison-for-murder-of-two-british-backpackers-in-2004.md)
-_Context: 2004, Somchai Visetsingha, Thailand, UK, backpackers_
+_Context: 2004, Somchai Visetsingha, Thailand, United Kingdom, backpackers_
 
-##### UK
+##### United Kingdom
 ### [ British Foreign Minister Jack Straw announces that Iran has renewed its promise to refrain from developing nuclear weapons, and talks on its atomic program will continue following a meeting between Iranian nuclear officials and European Union ministers in Geneva. ](/news/2005/05/26/british-foreign-minister-jack-straw-announces-that-iran-has-renewed-its-promise-to-refrain-from-developing-nuclear-weapons-and-talks-on-it.md)
-_Context: European Union, Foreign Secretary, Geneva, Iran, Jack Straw, UK, atom, nuclear weapon_
+_Context: European Union, Foreign Secretary, Geneva, Iran, Jack Straw, United Kingdom, atom, nuclear weapon_
 
-##### UK
+##### United Kingdom
 ### [ British Liberal Democrat leader Charles Kennedy calls for a reform of the UK voting system after Labour took the majority of the seats in the UK election with just 35% of the votes. ](/news/2005/05/26/british-liberal-democrat-leader-charles-kennedy-calls-for-a-reform-of-the-uk-voting-system-after-labour-took-the-majority-of-the-seats-in-t.md)
-_Context: Charles Kennedy, Labour Party, Liberal Democrats, UK_
+_Context: Charles Kennedy, Labour Party, Liberal Democrats, United Kingdom_
 
-##### UK
+##### United Kingdom
 ### [ The British Association of University Teachers decides to cancel the boycott on Israeli Universities of Haifa and Bar-Ilan. The decision comes in a special meeting after both external and internal debate over the original decision.](/news/2005/05/26/the-british-association-of-university-teachers-decides-to-cancel-the-boycott-on-israeli-universities-of-haifa-and-bar-ilan-the-decision-co.md)
-_Context: Association of University Teachers, Bar-Ilan, Haifa, Israel, UK, boycott, universities_
+_Context: Association of University Teachers, Bar-Ilan, Haifa, Israel, United Kingdom, boycott, universities_
 
 ##### United States
 ### [ U.S. President George W. Bush has promised the President of the Palestinian Authority, Abu Mazen, $50 million in aid and reiterated that Israel was to stop all settlement activity on the West Bank. ](/news/2005/05/26/u-s-president-george-w-bush-has-promised-the-president-of-the-palestinian-authority-abu-mazen-50-million-in-aid-and-reiterated-that-is.md)

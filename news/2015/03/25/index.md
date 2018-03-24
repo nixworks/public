@@ -5,7 +5,7 @@ Formats: [HTML](2015/03/25/index.html)  [JSON](2015/03/25/index.json)  [XML](201
 
 ##### United States soldier
 ### [The US Army charges US Army soldier Bowe Bergdahl, who was held captive by the Taliban-aligned Haqqani network in Afghanistan from June 2009 until his release in May 2014, with desertion and misbehavior before the enemy. ](/news/2015/03/25/the-us-army-charges-us-army-soldier-bowe-bergdahl-who-was-held-captive-by-the-taliban-aligned-haqqani-network-in-afghanistan-from-june-2009.md)
-_Context: Afghan, Bowe Bergdahl, Haqqani network, Taliban, United States soldier_
+_Context: Afghanistan, Bowe Bergdahl, Haqqani network, Taliban, United States soldier_
 
 ##### North American tornado outbreaks
 ### [Tornadoes hit the American city of Tulsa and the surrounding region of eastern Oklahoma leaving one person dead and several others injured. ](/news/2015/03/25/tornadoes-hit-the-american-city-of-tulsa-and-the-surrounding-region-of-eastern-oklahoma-leaving-one-person-dead-and-several-others-injured.md)
@@ -19,7 +19,7 @@ The German, French and Spanish leaders visit the site in the French Alps where a
 ### [American companies Kraft Foods and H.J. Heinz announce merger plans to create a combined company, The Kraft Heinz Company, which will be led by the present CEO of Heinz, Bernardo Hees. ](/news/2015/03/25/american-companies-kraft-foods-and-h-j-heinz-announce-merger-plans-to-create-a-combined-company-the-kraft-heinz-company-which-will-be-led.md)
 _Context: Bernardo Hees, H.J. Heinz, Kraft Foods, Kraft Heinz Company_
 
-##### UK
+##### United Kingdom
 ### [British singer and songwriter Zayn Malik leaves popular boyband One Direction. ](/news/2015/03/25/british-singer-and-songwriter-zayn-malik-leaves-popular-boyband-one-direction.md)
 Zayn Malik has spoken of his decision to leave One Direction after being signed off with stress for the first time, saying that while it is “crazy and wild and a bit mad”, he’s “never felt more in control” of his own life.
 

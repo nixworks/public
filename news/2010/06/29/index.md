@@ -43,7 +43,7 @@ Sudan announces it is closing its border with Libya to protect travellers from a
 ### [Thousands of workers take part in a 24 hour strike in Greece in protest against government austerity measures. ](/news/2010/06/29/thousands-of-workers-take-part-in-a-24-hour-strike-in-greece-in-protest-against-government-austerity-measures.md)
 Public transport and services shut down as workers protest government spending cuts.
 
-##### UK
+##### United Kingdom
 ### [The United Kingdom's Iraq Inquiry resumes after a break for the general election, with Douglas Brand as the first witness. ](/news/2010/06/29/the-united-kingdom-s-iraq-inquiry-resumes-after-a-break-for-the-general-election-with-douglas-brand-as-the-first-witness.md)
 Former French leader Jacques Chirac believed the Iraq war was a &quot;dangerous venture&quot;, the Iraq inquiry is told as hearings restart.
 

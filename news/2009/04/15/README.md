@@ -19,9 +19,9 @@ _Context: France, French naval, Gulf of Aden, Somali, Somali pirates_
 ### [ The Pitcairn Islands abolish alcohol prohibition. ](/news/2009/04/15/the-pitcairn-islands-abolish-alcohol-prohibition.md)
 _Context: Pitcairn Islands, alcohol, prohibition_
 
-##### Swiss
+##### Switzerland
 ### [ Swiss investment bank UBS AG will cut 8,700 jobs. ](/news/2009/04/15/swiss-investment-bank-ubs-ag-will-cut-8-700-jobs.md)
-_Context: Swiss, UBS AG, cut, investment bank_
+_Context: Switzerland, UBS AG, cut, investment bank_
 
 ##### China
 ### [ China launches a second satellite as part of its Compass global navigation system. ](/news/2009/04/15/china-launches-a-second-satellite-as-part-of-its-compass-global-navigation-system.md)

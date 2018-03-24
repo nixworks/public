@@ -5,7 +5,7 @@ Formats: [HTML](2006/02/8/index.html)  [JSON](2006/02/8/index.json)  [XML](2006/
 
 ##### Jyllands-Posten Muhammad cartoons controversy
 ### [ Jyllands-Posten Muhammad cartoons controversy: in Afghanistan, four people are killed and eleven others are wounded by police firing on hundreds of protesters attempting to storm US military base. ](/news/2006/02/8/jyllands-posten-muhammad-cartoons-controversy-in-afghanistan-four-people-are-killed-and-eleven-others-are-wounded-by-police-firing-on-hun.md)
-_Context: Afghan, Jyllands-Posten Muhammad cartoons controversy_
+_Context: Afghanistan, Jyllands-Posten Muhammad cartoons controversy_
 
 ##### Princess Kiko
 ### [ Japanese Princess Kiko is pregnant with her third child. ](/news/2006/02/8/japanese-princess-kiko-is-pregnant-with-her-third-child.md)

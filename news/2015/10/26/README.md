@@ -7,7 +7,7 @@ Formats: [HTML](2015/10/26/index.html)  [JSON](2015/10/26/index.json)  [XML](201
 ### [A new study by scientists finds that areas around the Persian Gulf could become uninhabitable to humans in less than 100 years due to rising temperatures. ](/news/2015/10/26/a-new-study-by-scientists-finds-that-areas-around-the-persian-gulf-could-become-uninhabitable-to-humans-in-less-than-100-years-due-to-rising.md)
 Global warming could make areas of the Persian Gulf uninhabitable to humans in less than 10 years, a study has claimed
 
-##### UK
+##### United Kingdom
 ### [In the United Kingdom, the unelected House of Lords, Parliament's upper house, delays by three years reductions in tax credits paid to working people that would have cost affected families an average of GBP1,300 ($2,000) a year. This is the first major setback for George Osborne, Chancellor of the Exchequer, since the general election. Osborne said the government will "lessen" the impact of tax credit cuts for those affected, while vowing to press on with changes designed to save billions from welfare. ](/news/2015/10/26/in-the-united-kingdom-the-unelected-house-of-lords-parliamentas-upper-house-delays-by-three-years-reductions-in-tax-credits-paid-to-wor.md)
 U.K. Chancellor of the Exchequer George Osborne suffered his first major setback since the general election after the unelected House of Lords voted to block his cuts to payments for low-wage families, provoking a constitutional dispute and forcing him to suggest he may soften the measures next mont...
 

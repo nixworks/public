@@ -41,7 +41,7 @@ _Context: Cyclone Debbie, Murwillumbah, New South Wales, NSW, Northern Rivers_
 
 ##### War in North-West Pakistan
 ### [A bomb targets a mosque in the city of Parachinar near the border with Afghanistan killing at least 22 people and wounding dozens more. ](/news/2017/03/31/a-bomb-targets-a-mosque-in-the-city-of-parachinar-near-the-border-with-afghanistan-killing-at-least-22-people-and-wounding-dozens-more.md)
-_Context: Afghan, Parachinar, War in North-West Pakistan, mosque_
+_Context: Afghanistan, Parachinar, War in North-West Pakistan, mosque_
 
 ## [Previous Day...](/news/2017/03/30/index.md)
 

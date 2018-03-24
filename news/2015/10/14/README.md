@@ -15,7 +15,7 @@ Dubai: The toll in the deadliest tragedy to ever strike the annual hajj pilgrima
 ### [A temporary footbridge across the M1 motorway in Sandton near Johannesburg, South Africa, collapses, killing two people and injuring 23. Both carriageways of the motorway remain closed as rescue work continues. ](/news/2015/10/14/a-temporary-footbridge-across-the-m1-motorway-in-sandton-near-johannesburg-south-africa-collapses-killing-two-people-and-injuring-23-bot.md)
 Rescuers are still trying to retrieve a body trapped under the collapsed temporary bridge along the M1 highway in Sandton.
 
-##### Swiss
+##### Switzerland
 ### [A Swiss Boeing F-A-18 military jet crashes in France while on a training mission, injuring the pilot. The Swiss defense ministry has said it did not know what caused the accident. ](/news/2015/10/14/a-swiss-boeing-f-a-18-military-jet-crashes-in-france-while-on-a-training-mission-injuring-the-pilot-the-swiss-defense-ministry-has-said-it.md)
 The Swiss army said one of its Boeing F/A-18 jets crashed in France on a training mission on Wednesday, injuring the pilot.
 

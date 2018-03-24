@@ -5,7 +5,7 @@ Formats: [HTML](2012/02/25/index.html)  [JSON](2012/02/25/index.json)  [XML](201
 
 ##### World Health Organisation
 ### [The World Health Organisation removes India from the list of polio endemic countries with only Pakistan, Afghanistan and Nigeria remaining. ](/news/2012/02/25/the-world-health-organisation-removes-india-from-the-list-of-polio-endemic-countries-with-only-pakistan-afghanistan-and-nigeria-remaining.md)
-_Context: Afghan, India, Nigeria, Pakistan, World Health Organisation, endemic, polio_
+_Context: Afghanistan, India, Nigeria, Pakistan, World Health Organisation, endemic, polio_
 
 ##### Liberal Party's
 ### [Liberal Party of Canada leader Bob Rae states that recent evidence of voter suppressing "robo-calls" played a factor in his party's defeat in the 2011 Canadian federal election. ](/news/2012/02/25/liberal-party-of-canada-leader-bob-rae-states-that-recent-evidence-of-voter-suppressing-robo-calls-played-a-factor-in-his-party-s-defeat-i.md)

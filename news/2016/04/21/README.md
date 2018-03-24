@@ -85,7 +85,7 @@ MANILA &ndash; Vice-presidential candidate Senator Ferdinand &#39;&#39;Bongbong&
 
 ##### Elizabeth II
 ### [Elizabeth II, queen regnant of the United Kingdom and Head of the Commonwealth of Nations, celebrates her 90th birthday. ](/news/2016/04/21/elizabeth-ii-queen-regnant-of-the-united-kingdom-and-head-of-the-commonwealth-of-nations-celebrates-her-90th-birthday.md)
-_Context: Commonwealth of Nations, Elizabeth II, Head, UK, queen regnant_
+_Context: Commonwealth of Nations, Elizabeth II, Head, United Kingdom, queen regnant_
 
 ##### Amnesty International
 ### [Amnesty International says the Nigerian Army killed 350 members of the Islamic Movement and secretly buried them in mass graves in the city of Zaria in Kaduna State. ](/news/2016/04/21/amnesty-international-says-the-nigerian-army-killed-350-members-of-the-islamic-movement-and-secretly-buried-them-in-mass-graves-in-the-city.md)
