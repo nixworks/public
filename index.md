@@ -68,8 +68,8 @@ Poland wants Brussels to withdraw its Article 7 procedure against Warsaw, the Po
 Residents startled awake by loud noise and smoke signaled for help with lit mobile phones and crawled onto cranes from their balconies to escape a fire Friday at a large condominium complex in southern Vietnam&rsquo;s Ho Chi Minh City. At least 13 people were killed and 28 injured, with police sayin...
 
 ##### Economy of Denmark
-### [Boeing loses a court case in Denmark against the country's government over the purchase of Lockheed Martin F-35 Lightning II fighters in preference over Boeing F-A 18 Super Hornets. ](/news/2018/03/23/boeing-loses-a-court-case-in-denmark-against-the-country-s-government-over-the-purchase-of-lockheed-martin-f-35-lightning-ii-fighters-in-pre.md)
-_Context: Boeing, Denmark, Economy of Denmark, Lockheed Martin_
+### [Boeing loses a case in Copenhagen city court against the Danish Ministry of Defense over access to documents used in the purchase of Lockheed Martin F-35 Lightning II fighters in preference over Boeing F-A 18 Super Hornets. Boeing argued the evaluation process used in the purchase had been "flawed". ](/news/2018/03/23/boeing-loses-a-case-in-copenhagen-city-court-against-the-danish-ministry-of-defense-over-access-to-documents-used-in-the-purchase-of-lockhee.md)
+_Context: Boeing, Copenhagen, Economy of Denmark, Lockheed Martin, Ministry of Defense, city court, evaluation_
 
 ##### Northern Mali conflict
 ### [Malian Prime Minister Soumeylou Boubeye Maiga visits seperatist rebel stronghold Kidal. ](/news/2018/03/23/malian-prime-minister-soumeylou-boubeye-maiga-visits-seperatist-rebel-stronghold-kidal.md)

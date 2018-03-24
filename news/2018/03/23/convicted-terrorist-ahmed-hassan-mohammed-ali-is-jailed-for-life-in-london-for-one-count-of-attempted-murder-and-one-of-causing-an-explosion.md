@@ -11,7 +11,7 @@ Ahmed Hassan Mohammed Ali was found guilty of attempted murder and using the che
 
 ### Sources:
 
-1. [Get Surrey](https://www.getsurrey.co.uk/news/surrey-news/parsons-green-explosion-trial-sunbury-14448223)
+1. [Surrey Advertiser](https://www.getsurrey.co.uk/news/surrey-news/parsons-green-explosion-trial-sunbury-14448223)
 1. [Cover Image](https://i2-prod.getsurrey.co.uk/news/surrey-news/article14446526.ece/ALTERNATES/s1200/Parsons-Green-bomb-clip.jpg)
 
 ### Changes:

@@ -11,7 +11,7 @@ Formats: [HTML](/news/2018/03/23/malian-prime-minister-soumeylou-boubeye-maiga-v
 
 ### Sources:
 
-1. [Wboy](http://www.wboy.com/news/malis-prime-minister-makes-rare-visit-to-rebelheld-kidal/1073805190)
+1. [WBOY-TV ''12 News](http://www.wboy.com/news/malis-prime-minister-makes-rare-visit-to-rebelheld-kidal/1073805190)
 1. [Cover Image](https://media.wboy.com/nxs-wboytv-media-us-east-1/theme/images/wboy_placeholder-min.jpg)
 
 ### Related:
