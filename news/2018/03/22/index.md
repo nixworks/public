@@ -87,9 +87,9 @@ Saudi Arabia the UAE Bahrain and Egypt have long complained of Qatar s support f
 ### [U.S. President Donald Trump imposes tariffs on US$60 billion of Chinese goods, while also limiting China's ability to invest in the U.S. technology industry. ](/news/2018/03/22/u-s-president-donald-trump-imposes-tariffs-on-us-60-billion-of-chinese-goods-while-also-limiting-chinaas-ability-to-invest-in-the-u-s-t.md)
 White House prepares target list of trade actions punishing Beijing for forcing companies to surrender trade secrets as price of doing business in China.
 
-##### Earthquakes in California
-### [A magnitude 4.6 earthquake and 4.7 earthquake strike south of Eureka, California. No immediate damage is reported. ](/news/2018/03/22/a-magnitude-4-6-earthquake-and-4-7-earthquake-strike-south-of-eureka-california-no-immediate-damage-is-reported.md)
-A magnitude 4.7 earthquake hit 13.6 miles northwest of Petrolia at 8:09 p.m. on Thursday, according to the United States Geological Survey. It hit at a depth of 13 miles. This was the second earthquake to hit the area in less than 12 hours. At around 9:24 
+##### Pennsylvania
+### [A four-storey building collapse kills two firefighters in Pennsylvania. ](/news/2018/03/22/a-four-storey-building-collapse-kills-two-firefighters-in-pennsylvania.md)
+York officials said part of the four-story building fell on firefighters as they were looking for hot spots and investigating the cause of a fire at the Weaver Organ and Piano factory.
 
 ##### 2018 Unipetrol explosion
 ### [Six people are killed after an explosion at a Unipetrol plant in Kralupy nad Vltavou, Czech Republic. ](/news/2018/03/22/six-people-are-killed-after-an-explosion-at-a-unipetrol-plant-in-kralupy-nad-vltavou-czech-republic.md)

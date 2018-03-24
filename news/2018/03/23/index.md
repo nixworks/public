@@ -16,7 +16,7 @@ Vizcarra, former regional governor, vows to tackle corruption ‘head on’ afte
 Thousands join demonstrations against government’s new effort to restrict access
 
 ##### 2017-18 Spanish constitutional crisis
-### [Thirteen high-ranking independentists declare in front of the judge of the Spanish Supreme Court, except Marta Rovira who is "self-exiled" in Switzerland. ](/news/2018/03/23/thirteen-high-ranking-independentists-declare-in-front-of-the-judge-of-the-spanish-supreme-court-except-marta-rovira-who-is-self-exiled-i.md)
+### [Thirteen Catalan separatist politicians appear before the Spanish Supreme Court. Marta Rovira, who is "self-exiled" in Switzerland, does not attend. ](/news/2018/03/23/thirteen-catalan-separatist-politicians-appear-before-the-spanish-supreme-court-marta-rovira-who-is-self-exiled-in-switzerland-does-not.md)
 Catalan separatist politician Marta Rovira ignores court summons, says in letter she has chose &lsquo;path to exile&rsquo;
 
 ##### Censorship in the United Kingdom

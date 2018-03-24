@@ -3,6 +3,10 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/03/24/index.md)
 
+##### Alexandria
+### [A bomb planted beneath a car explodes in Alexandria, Egypt as a motorcade carrying the city's head of security passes by. At least two die. ](/news/2018/03/24/a-bomb-planted-beneath-a-car-explodes-in-alexandria-egypt-as-a-motorcade-carrying-the-city-s-head-of-security-passes-by-at-least-two-die.md)
+Two people were killed when a bomb exploded under a car in the Egyptian city of Alexandria on Saturday in what appeared to be an assassination attempt on the city&rsquo;s security chief, state media reported.
+
 ##### 2018 United States gun violence protests
 ### [Thousands of people participate in the March For Our Lives protest in multiple cities across the United States regarding gun violence, mass shootings and school shootings. ](/news/2018/03/24/thousands-of-people-participate-in-the-march-for-our-lives-protest-in-multiple-cities-across-the-united-states-regarding-gun-violence-mass.md)
 Here&#039;s a guide to the March for Our Lives protest in Washington, D.C. Saturday, where activists will call for reforms to reduce gun violence.
@@ -40,7 +44,7 @@ Vizcarra, former regional governor, vows to tackle corruption ‘head on’ afte
 Thousands join demonstrations against government’s new effort to restrict access
 
 ##### 2017-18 Spanish constitutional crisis
-### [Thirteen high-ranking independentists declare in front of the judge of the Spanish Supreme Court, except Marta Rovira who is "self-exiled" in Switzerland. ](/news/2018/03/23/thirteen-high-ranking-independentists-declare-in-front-of-the-judge-of-the-spanish-supreme-court-except-marta-rovira-who-is-self-exiled-i.md)
+### [Thirteen Catalan separatist politicians appear before the Spanish Supreme Court. Marta Rovira, who is "self-exiled" in Switzerland, does not attend. ](/news/2018/03/23/thirteen-catalan-separatist-politicians-appear-before-the-spanish-supreme-court-marta-rovira-who-is-self-exiled-in-switzerland-does-not.md)
 Catalan separatist politician Marta Rovira ignores court summons, says in letter she has chose &lsquo;path to exile&rsquo;
 
 ##### Censorship in the United Kingdom
@@ -183,9 +187,9 @@ Saudi Arabia the UAE Bahrain and Egypt have long complained of Qatar s support f
 ### [U.S. President Donald Trump imposes tariffs on US$60 billion of Chinese goods, while also limiting China's ability to invest in the U.S. technology industry. ](/news/2018/03/22/u-s-president-donald-trump-imposes-tariffs-on-us-60-billion-of-chinese-goods-while-also-limiting-chinaas-ability-to-invest-in-the-u-s-t.md)
 White House prepares target list of trade actions punishing Beijing for forcing companies to surrender trade secrets as price of doing business in China.
 
-##### Earthquakes in California
-### [A magnitude 4.6 earthquake and 4.7 earthquake strike south of Eureka, California. No immediate damage is reported. ](/news/2018/03/22/a-magnitude-4-6-earthquake-and-4-7-earthquake-strike-south-of-eureka-california-no-immediate-damage-is-reported.md)
-A magnitude 4.7 earthquake hit 13.6 miles northwest of Petrolia at 8:09 p.m. on Thursday, according to the United States Geological Survey. It hit at a depth of 13 miles. This was the second earthquake to hit the area in less than 12 hours. At around 9:24 
+##### Pennsylvania
+### [A four-storey building collapse kills two firefighters in Pennsylvania. ](/news/2018/03/22/a-four-storey-building-collapse-kills-two-firefighters-in-pennsylvania.md)
+York officials said part of the four-story building fell on firefighters as they were looking for hot spots and investigating the cause of a fire at the Weaver Organ and Piano factory.
 
 ##### 2018 Unipetrol explosion
 ### [Six people are killed after an explosion at a Unipetrol plant in Kralupy nad Vltavou, Czech Republic. ](/news/2018/03/22/six-people-are-killed-after-an-explosion-at-a-unipetrol-plant-in-kralupy-nad-vltavou-czech-republic.md)
