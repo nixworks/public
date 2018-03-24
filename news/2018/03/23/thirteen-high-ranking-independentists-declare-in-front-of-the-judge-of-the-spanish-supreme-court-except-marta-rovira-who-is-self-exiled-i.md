@@ -11,10 +11,10 @@ Catalan separatist politician Marta Rovira ignores court summons, says in letter
 
 ### Sources:
 
-1. [El Mundo](http://www.elmundo.es/espana/2018/03/23/5ab54cc3468aebe24f8b45db.html)
-2. [La Vanguardia](http://www.lavanguardia.com/politica/20180323/441862997858/prision-turull-rull-romeva-bassa-forcadell.html)
-3. [The Washington Post](https://www.washingtonpost.com/world/europe/catalan-separatist-politician-marta-rovira-ignores-court-summons-says-in-letter-she-has-chose-path-to-exile/2018/03/23/0e547f56-2e7d-11e8-8dc9-3b51e028b845_story.html)
-4. [US News](https://www.usnews.com/news/world/articles/2018-03-23/spain-wraps-up-judicial-probe-into-catalan-secession-attempt)
+1. [AP via ''U.S. News & World Report](https://www.usnews.com/news/world/articles/2018-03-23/spain-wraps-up-judicial-probe-into-catalan-secession-attempt)
+2. [El Mundo](http://www.elmundo.es/espana/2018/03/23/5ab54cc3468aebe24f8b45db.html)
+3. [La Vanguardia](http://www.lavanguardia.com/politica/20180323/441862997858/prision-turull-rull-romeva-bassa-forcadell.html)
+4. [The Washington Post](https://www.washingtonpost.com/world/europe/catalan-separatist-politician-marta-rovira-ignores-court-summons-says-in-letter-she-has-chose-path-to-exile/2018/03/23/0e547f56-2e7d-11e8-8dc9-3b51e028b845_story.html)
 
 ### Changes:
 
