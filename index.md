@@ -3,10 +3,6 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/03/24/index.md)
 
-##### 2018 United States gun violence protests
-### [Thousands of people participate in the March For Our Lives protest in multiple cities across the United States regarding gun violence, mass shootings and school shootings. ](/news/2018/03/24/thousands-of-people-participate-in-the-march-for-our-lives-protest-in-multiple-cities-across-the-united-states-regarding-gun-violence-mass.md)
-Here&#039;s a guide to the March for Our Lives protest in Washington, D.C. Saturday, where activists will call for reforms to reduce gun violence.
-
 ##### 2017-18 North Korea crisis
 ### [North Korea accepts South Korea's proposal to hold high-level inter-Korean talks, scheduled to take place on March 29. ](/news/2018/03/24/north-korea-accepts-south-korea-s-proposal-to-hold-high-level-inter-korean-talks-scheduled-to-take-place-on-march-29.md)
 _Context: 2017-18 North Korea crisis, 2018 inter-Korean summit, Korean, North Korea, South Korea_
@@ -34,10 +30,6 @@ Thousands join demonstrations against government’s new effort to restrict acce
 ##### 2017-18 Spanish constitutional crisis
 ### [Thirteen high-ranking independentists declare in front of the judge of the Spanish Supreme Court, except Marta Rovira who is "self-exiled" in Switzerland. ](/news/2018/03/23/thirteen-high-ranking-independentists-declare-in-front-of-the-judge-of-the-spanish-supreme-court-except-marta-rovira-who-is-self-exiled-i.md)
 Catalan separatist politician Marta Rovira ignores court summons, says in letter she has chose &lsquo;path to exile&rsquo;
-
-##### Censorship in the United Kingdom
-### [The House of Commons of the UK Parliament discusses implications for freedom of speech arising from a case where a man was convicted of hate crimes for posting a video of a pug responding to Nazi slogans. The case has drawn criticism from campaigners and prominent comedians. ](/news/2018/03/23/the-house-of-commons-of-the-uk-parliament-discusses-implications-for-freedom-of-speech-arising-from-a-case-where-a-man-was-convicted-of-hate.md)
-BRITAIN is &quot;in danger of throwing away&quot; freedom of speech, ministers have been warned.
 
 ##### Crime in the United Kingdom
 ### [Two lorry drivers receive prison terms, one of 14 years, for killing eight people when their vehicles collided with a bus on the M1 in Buckinghamshire, England, in 2017. ](/news/2018/03/23/two-lorry-drivers-receive-prison-terms-one-of-14-years-for-killing-eight-people-when-their-vehicles-collided-with-a-bus-on-the-m1-in-bucki.md)
