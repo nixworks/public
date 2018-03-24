@@ -11,7 +11,7 @@ This week, Congress passed the Stop Enabling Sex Trafficking Act, which critics 
 
 ### Sources:
 
-1. [Buzzfeed News](https://www.buzzfeed.com/carolineodonovan/sesta-sex-trafficking-act-craigslist-sex-workers?utm_term=.rr9JWbmbW#.eujBNg8gN)
+1. [Buzzfeed](https://www.buzzfeed.com/carolineodonovan/sesta-sex-trafficking-act-craigslist-sex-workers?utm_term=.rr9JWbmbW#.eujBNg8gN)
 1. [Cover Image](https://img.buzzfeed.com/buzzfeed-static/static/2018-03/23/13/campaign_images/buzzfeed-prod-web-02/craigslist-just-took-personal-ads-offline-because-2-2926-1521827483-0_dblbig.jpg)
 
 ### Related:

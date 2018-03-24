@@ -6,13 +6,14 @@ Formats: [HTML](/news/2018/03/23/the-house-of-commons-of-the-uk-parliament-discu
 ##### Censorship in the United Kingdom
 # The House of Commons of the UK Parliament discusses implications for freedom of speech arising from a case where a man was convicted of hate crimes for posting a video of a pug responding to Nazi slogans. The case has drawn criticism from campaigners and prominent comedians. 
 
-
+BRITAIN is &quot;in danger of throwing away&quot; freedom of speech, ministers have been warned.
 
 
 ### Sources:
 
 1. [Russia Today](https://www.rt.com/uk/422127-nazi-pug-video-speech/)
-1. [Cover Image](https://cdni.rt.com/files/2018.03/article/5ab4e722dda4c8684e8b4584.jpg)
+2. [The Herald](http://www.heraldscotland.com/news/16109392.Nazi_dog_debate_reaches_the_House_of_Commons/)
+2. [Cover Image](http://www.heraldscotland.com/resources/images/7565393/)
 
 ### Related:
 

@@ -7,7 +7,7 @@ Formats: [HTML](2018/03/23/index.html)  [JSON](2018/03/23/index.json)  [XML](201
 ### [Labour Party leader Jeremy Corbyn sacks Shadow Secretary of State for Northern Ireland Owen Smith after he called for a second referendum on European Union membership. He is replaced by Rochdale MP Tony Lloyd. ](/news/2018/03/23/labour-party-leader-jeremy-corbyn-sacks-shadow-secretary-of-state-for-northern-ireland-owen-smith-after-he-called-for-a-second-referendum-on.md)
 Smith went against party policy by calling for a referendum over the final Brexit deal
 
-##### Politics of Peru
+##### Resignation of Pedro Pablo Kuczynski
 ### [The Peruvian Congress votes 105-12 to accept President Pedro Pablo Kuczynski's resignation. ](/news/2018/03/23/the-peruvian-congress-votes-105a12-to-accept-president-pedro-pablo-kuczynski-s-resignation.md)
 Vizcarra, former regional governor, vows to tackle corruption ‘head on’ after congress accepts resignation of scandal-hit Kuczynski
 
@@ -18,6 +18,10 @@ Thousands join demonstrations against government’s new effort to restrict acce
 ##### 2017-18 Spanish constitutional crisis
 ### [Thirteen high-ranking independentists declare in front of the judge of the Spanish Supreme Court, except Marta Rovira who is "self-exiled" in Switzerland. ](/news/2018/03/23/thirteen-high-ranking-independentists-declare-in-front-of-the-judge-of-the-spanish-supreme-court-except-marta-rovira-who-is-self-exiled-i.md)
 Catalan separatist politician Marta Rovira ignores court summons, says in letter she has chose &lsquo;path to exile&rsquo;
+
+##### Censorship in the United Kingdom
+### [The House of Commons of the UK Parliament discusses implications for freedom of speech arising from a case where a man was convicted of hate crimes for posting a video of a pug responding to Nazi slogans. The case has drawn criticism from campaigners and prominent comedians. ](/news/2018/03/23/the-house-of-commons-of-the-uk-parliament-discusses-implications-for-freedom-of-speech-arising-from-a-case-where-a-man-was-convicted-of-hate.md)
+BRITAIN is &quot;in danger of throwing away&quot; freedom of speech, ministers have been warned.
 
 ##### Crime in the United Kingdom
 ### [Two lorry drivers receive prison terms, one of 14 years, for killing eight people when their vehicles collided with a bus on the M1 in Buckinghamshire, England, in 2017. ](/news/2018/03/23/two-lorry-drivers-receive-prison-terms-one-of-14-years-for-killing-eight-people-when-their-vehicles-collided-with-a-bus-on-the-m1-in-bucki.md)
@@ -48,7 +52,7 @@ Poland wants Brussels to withdraw its Article 7 procedure against Warsaw, the Po
 Residents startled awake by loud noise and smoke signaled for help with lit mobile phones and crawled onto cranes from their balconies to escape a fire Friday at a large condominium complex in southern Vietnam&rsquo;s Ho Chi Minh City. At least 13 people were killed and 28 injured, with police sayin...
 
 ##### Economy of Denmark
-### [Boeing lose a court case in Denmark against the country's government over the purchase of Lockheed Martin F-35 Lightning II fighters in preference over Boeing F-A 18 Super Hornets. ](/news/2018/03/23/boeing-lose-a-court-case-in-denmark-against-the-country-s-government-over-the-purchase-of-lockheed-martin-f-35-lightning-ii-fighters-in-pref.md)
+### [Boeing loses a court case in Denmark against the country's government over the purchase of Lockheed Martin F-35 Lightning II fighters in preference over Boeing F-A 18 Super Hornets. ](/news/2018/03/23/boeing-loses-a-court-case-in-denmark-against-the-country-s-government-over-the-purchase-of-lockheed-martin-f-35-lightning-ii-fighters-in-pre.md)
 _Context: Boeing, Denmark, Economy of Denmark, Lockheed Martin_
 
 ##### Northern Mali conflict

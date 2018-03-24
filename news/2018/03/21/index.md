@@ -43,10 +43,6 @@ _Context: Alleged Libyan influence in the 2007 French elections, Libya, Nicolas 
 ### [James Ibori, a former governor of Delta State, Nigeria, launches a bid to overturn his guilty pleas on corruption charges in the UK alleging police corruption. ](/news/2018/03/21/james-ibori-a-former-governor-of-delta-state-nigeria-launches-a-bid-to-overturn-his-guilty-pleas-on-corruption-charges-in-the-uk-alleging.md)
 James Ibori, a Nigerian politician who spent years in UK jails after pleading guilty to laundering a stolen fortune in Britain, launched an appeal against his conviction on Wednesday, alleging corrupt
 
-##### Dapchi schoolgirls kidnapping
-### [Boko Haram releases most of the 110 Nigerian schoolgirls it had kidnapped in February 2018, and warns against sending them back to school. ](/news/2018/03/21/boko-haram-releases-most-of-the-110-nigerian-schoolgirls-it-had-kidnapped-in-february-2018-and-warns-against-sending-them-back-to-school.md)
-Six girls are still unaccounted for
-
 ##### Austin serial bombings
 ### [Mark Anthony Conditt, the main suspect in the serial bombings, dies after detonating a bomb in his vehicle while being pursued by Austin police officers. The police chief warns residents that while they believe the bomber is deceased, he may have sent more packages before his death. ](/news/2018/03/21/mark-anthony-conditt-the-main-suspect-in-the-serial-bombings-dies-after-detonating-a-bomb-in-his-vehicle-while-being-pursued-by-austin-pol.md)
 _Context: Austin police officers, Austin serial bombings_
@@ -86,6 +82,10 @@ The pilot of an aircraft which crashed and killed 11 people has been charged wit
 ##### Accidents and incidents involving helicopters
 ### [A Eurocopter 120 helicopter carrying five people crashes into the sea near Hardy Reef off the Whitsunday Islands, Queensland, Australia. Two people are killed. ](/news/2018/03/21/a-eurocopter-120-helicopter-carrying-five-people-crashes-into-the-sea-near-hardy-reef-off-the-whitsunday-islands-queensland-australia-two.md)
 Eurocopter 120 was carrying five people when it went down near Hardy Reef in north Queensland
+
+##### Boko Haram insurgency
+### [Boko Haram releases most of the 110 Nigerian schoolgirls it had kidnapped in February 2018, and warns against sending them back to school. ](/news/2018/03/21/boko-haram-releases-most-of-the-110-nigerian-schoolgirls-it-had-kidnapped-in-february-2018-and-warns-against-sending-them-back-to-school.md)
+Six girls are still unaccounted for
 
 ##### Syrian Civil War
 ### [The Syrian government and rebel forces reach an agreement to allow 7,500 people to evacuate from rebel-held Harasta, Eastern Ghouta. ](/news/2018/03/21/the-syrian-government-and-rebel-forces-reach-an-agreement-to-allow-7-500-people-to-evacuate-from-rebel-held-harasta-eastern-ghouta.md)
