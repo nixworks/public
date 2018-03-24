@@ -19,6 +19,18 @@ Thousands join demonstrations against government’s new effort to restrict acce
 ### [Thirteen Catalan separatist politicians appear before the Spanish Supreme Court. Marta Rovira, who is "self-exiled" in Switzerland, does not attend. ](/news/2018/03/23/thirteen-catalan-separatist-politicians-appear-before-the-spanish-supreme-court-marta-rovira-who-is-self-exiled-in-switzerland-does-not.md)
 Catalan separatist politician Marta Rovira ignores court summons, says in letter she has chose &lsquo;path to exile&rsquo;
 
+##### Human rights in the United States
+### [US President Donald Trump issues an order banning "transgender persons who require or have undergone gender transition" from the military. ](/news/2018/03/23/us-president-donald-trump-issues-an-order-banning-transgender-persons-who-require-or-have-undergone-gender-transition-from-the-military.md)
+The policy scraps his blanket ban but bars those who have undergone gender transition from serving.
+
+##### Gun violence
+### [The US Department of Justice announces it will reclassify bump stocks as machine guns, effectively outlawing them. ](/news/2018/03/23/the-us-department-of-justice-announces-it-will-reclassify-bump-stocks-as-machine-guns-effectively-outlawing-them.md)
+_Context: US Department of Justice, bump stocks, gun violence_
+
+##### Russian interference in the 2016 United States elections
+### [Tumblr shuts down 84 accounts linked to the Internet Research Agency. ](/news/2018/03/23/tumblr-shuts-down-84-accounts-linked-to-the-internet-research-agency.md)
+An email sent around to users who interacted with the accounts claims “democracy requires transparency.”
+
 ##### Censorship in the United Kingdom
 ### [The House of Commons of the UK Parliament discusses implications for freedom of speech arising from a case where a man was convicted of hate crimes for posting a video of a pug responding to Nazi slogans. The case has drawn criticism from campaigners and prominent comedians. ](/news/2018/03/23/the-house-of-commons-of-the-uk-parliament-discusses-implications-for-freedom-of-speech-arising-from-a-case-where-a-man-was-convicted-of-hate.md)
 BRITAIN is &quot;in danger of throwing away&quot; freedom of speech, ministers have been warned.

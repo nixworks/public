@@ -3,6 +3,10 @@ Formats: [HTML](2018/03/24/index.html)  [JSON](2018/03/24/index.json)  [XML](201
 
 ## [2018-03-24](/news/2018/03/24/index.md)
 
+##### Minorities in Greece
+### [An extremist far-right group claims responsibility after a community shelter for Afghan immigrants is burned down. The United Nations condemns the attack. ](/news/2018/03/24/an-extremist-far-right-group-claims-responsibility-after-a-community-shelter-for-afghan-immigrants-is-burned-down-the-united-nations-condem.md)
+A little-known extreme right-wing group has claimed responsibility for an arson attack on an Afghan community center in central Athens that caused significant damage, but no injuries. A group calling itself Krypteia claimed responsibility in a call to a Greek news website on Friday. ...
+
 ##### Alexandria
 ### [A bomb planted beneath a car explodes in Alexandria, Egypt as a motorcade carrying the city's head of security passes by. At least two die. ](/news/2018/03/24/a-bomb-planted-beneath-a-car-explodes-in-alexandria-egypt-as-a-motorcade-carrying-the-city-s-head-of-security-passes-by-at-least-two-die.md)
 Two people were killed when a bomb exploded under a car in the Egyptian city of Alexandria on Saturday in what appeared to be an assassination attempt on the city&rsquo;s security chief, state media reported.

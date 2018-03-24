@@ -3,6 +3,10 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/03/24/index.md)
 
+##### Minorities in Greece
+### [An extremist far-right group claims responsibility after a community shelter for Afghan immigrants is burned down. The United Nations condemns the attack. ](/news/2018/03/24/an-extremist-far-right-group-claims-responsibility-after-a-community-shelter-for-afghan-immigrants-is-burned-down-the-united-nations-condem.md)
+A little-known extreme right-wing group has claimed responsibility for an arson attack on an Afghan community center in central Athens that caused significant damage, but no injuries. A group calling itself Krypteia claimed responsibility in a call to a Greek news website on Friday. ...
+
 ##### Alexandria
 ### [A bomb planted beneath a car explodes in Alexandria, Egypt as a motorcade carrying the city's head of security passes by. At least two die. ](/news/2018/03/24/a-bomb-planted-beneath-a-car-explodes-in-alexandria-egypt-as-a-motorcade-carrying-the-city-s-head-of-security-passes-by-at-least-two-die.md)
 Two people were killed when a bomb exploded under a car in the Egyptian city of Alexandria on Saturday in what appeared to be an assassination attempt on the city&rsquo;s security chief, state media reported.
@@ -46,6 +50,18 @@ Thousands join demonstrations against government’s new effort to restrict acce
 ##### 2017-18 Spanish constitutional crisis
 ### [Thirteen Catalan separatist politicians appear before the Spanish Supreme Court. Marta Rovira, who is "self-exiled" in Switzerland, does not attend. ](/news/2018/03/23/thirteen-catalan-separatist-politicians-appear-before-the-spanish-supreme-court-marta-rovira-who-is-self-exiled-in-switzerland-does-not.md)
 Catalan separatist politician Marta Rovira ignores court summons, says in letter she has chose &lsquo;path to exile&rsquo;
+
+##### Human rights in the United States
+### [US President Donald Trump issues an order banning "transgender persons who require or have undergone gender transition" from the military. ](/news/2018/03/23/us-president-donald-trump-issues-an-order-banning-transgender-persons-who-require-or-have-undergone-gender-transition-from-the-military.md)
+The policy scraps his blanket ban but bars those who have undergone gender transition from serving.
+
+##### Gun violence
+### [The US Department of Justice announces it will reclassify bump stocks as machine guns, effectively outlawing them. ](/news/2018/03/23/the-us-department-of-justice-announces-it-will-reclassify-bump-stocks-as-machine-guns-effectively-outlawing-them.md)
+_Context: US Department of Justice, bump stocks, gun violence_
+
+##### Russian interference in the 2016 United States elections
+### [Tumblr shuts down 84 accounts linked to the Internet Research Agency. ](/news/2018/03/23/tumblr-shuts-down-84-accounts-linked-to-the-internet-research-agency.md)
+An email sent around to users who interacted with the accounts claims “democracy requires transparency.”
 
 ##### Censorship in the United Kingdom
 ### [The House of Commons of the UK Parliament discusses implications for freedom of speech arising from a case where a man was convicted of hate crimes for posting a video of a pug responding to Nazi slogans. The case has drawn criticism from campaigners and prominent comedians. ](/news/2018/03/23/the-house-of-commons-of-the-uk-parliament-discusses-implications-for-freedom-of-speech-arising-from-a-case-where-a-man-was-convicted-of-hate.md)
