@@ -11,10 +11,6 @@ Scientists investigate an unusual, small, mummified skeleton from Chile to estab
 ### [Antigua and Barbuda's ruling Antigua and Barbuda Labour Party wins a second term in a landslide vote. ](/news/2018/03/22/antigua-and-barbuda-s-ruling-antigua-and-barbuda-labour-party-wins-a-second-term-in-a-landslide-vote.md)
 _Context: Antigua and Barbuda, Antigua and Barbuda Labour Party, Antiguan general election, 2018_
 
-##### Stoneman Douglas High School shooting
-### [ Several Parkland survivors, including Emma Gonzalez, David Hogg and Cameron Kasky appear on a Time cover.](/news/2018/03/22/several-parkland-survivors-including-emma-gonzalez-david-hogg-and-cameron-kasky-appear-on-a-time-cover.md)
-Students who survived last month&#039;s shooting at a high school in Parkland, Fla., are featured on the cover of Time magazine&#039;s latest issue.
-
 ##### Presidency of Donald Trump
 ### [U.S. President Donald Trump announces former United States Ambassador to the United Nations John R. Bolton will become his National Security Advisor, succeeeding the outgoing H. R. McMaster. ](/news/2018/03/22/u-s-president-donald-trump-announces-former-united-states-ambassador-to-the-united-nations-john-r-bolton-will-become-his-national-security.md)
 _Context: Donald Trump, H. R. McMaster, John R. Bolton, National Security Advisor, Presidency of Donald Trump, U.S. President, United States Ambassador to the United Nations_

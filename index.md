@@ -3,8 +3,12 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/03/24/index.md)
 
+##### 2018 United States gun violence protests
+### [Hundreds of thousands of people participate in the March For Our Lives protest around the world regarding gun violence, mass shootings and school shootings in the United States. ](/news/2018/03/24/hundreds-of-thousands-of-people-participate-in-the-march-for-our-lives-protest-around-the-world-regarding-gun-violence-mass-shootings-and-s.md)
+Student-led March For Our Lives events nationwide draw hundreds of thousands of protesters.
+
 ##### Alexandria
-### [A bomb planted beneath a car explodes in Alexandria, Egypt as a motorcade carrying the city's head of security passes by. At least two die. ](/news/2018/03/24/a-bomb-planted-beneath-a-car-explodes-in-alexandria-egypt-as-a-motorcade-carrying-the-city-s-head-of-security-passes-by-at-least-two-die.md)
+### [A bomb planted beneath a car explodes in Alexandria, Egypt, as a motorcade carrying the city's head of security passes by, killing at least two people. ](/news/2018/03/24/a-bomb-planted-beneath-a-car-explodes-in-alexandria-egypt-as-a-motorcade-carrying-the-city-s-head-of-security-passes-by-killing-at-least.md)
 Two people were killed when a bomb exploded under a car in the Egyptian city of Alexandria on Saturday in what appeared to be an assassination attempt on the city&rsquo;s security chief, state media reported.
 
 ##### Terrorism in Greece
@@ -59,9 +63,9 @@ Catalan separatist politician Marta Rovira ignores court summons, says in letter
 ### [US President Donald Trump issues an order banning "transgender persons who require or have undergone gender transition" from the military. ](/news/2018/03/23/us-president-donald-trump-issues-an-order-banning-transgender-persons-who-require-or-have-undergone-gender-transition-from-the-military.md)
 The policy scraps his blanket ban but bars those who have undergone gender transition from serving.
 
-##### Gun violence in the United States
+##### Gun violence
 ### [The US Department of Justice announces it will reclassify bump stocks as machine guns, effectively outlawing them. ](/news/2018/03/23/the-us-department-of-justice-announces-it-will-reclassify-bump-stocks-as-machine-guns-effectively-outlawing-them.md)
-_Context: Gun violence in the United States, US Department of Justice, bump stocks_
+_Context: US Department of Justice, bump stocks, gun violence_
 
 ##### Russian interference in the 2016 United States elections
 ### [Tumblr shuts down 84 accounts linked to the Internet Research Agency. ](/news/2018/03/23/tumblr-shuts-down-84-accounts-linked-to-the-internet-research-agency.md)
@@ -85,7 +89,7 @@ Ankara slams European Council for backing Athens and Nicosia over Turkish arrest
 
 ##### Iran-United States relations
 ### [The United States charges and sanctions nine Iranians and the Iranian company Mabna Institute for hacking and attempting to hack hundreds of universities. ](/news/2018/03/23/the-united-states-charges-and-sanctions-nine-iranians-and-the-iranian-company-mabna-institute-for-hacking-and-attempting-to-hack-hundreds-of.md)
-_Context: Cyberwarfare in Iran, Iran-United States relations, Irani, United States_
+_Context: Cyberwarfare in Iran, Iran, Iran-United States relations, United States_
 
 ##### Poisoning of Sergei and Yulia Skripal
 ### [The European Union agrees with the United Kingdom's assessment of the incident, stating that "there is no plausible alternative explanation" to Russian involvement. ](/news/2018/03/23/the-european-union-agrees-with-the-united-kingdom-s-assessment-of-the-incident-stating-that-there-is-no-plausible-alternative-explanation.md)
@@ -130,10 +134,6 @@ Scientists investigate an unusual, small, mummified skeleton from Chile to estab
 ##### Antiguan general election, 2018
 ### [Antigua and Barbuda's ruling Antigua and Barbuda Labour Party wins a second term in a landslide vote. ](/news/2018/03/22/antigua-and-barbuda-s-ruling-antigua-and-barbuda-labour-party-wins-a-second-term-in-a-landslide-vote.md)
 _Context: Antigua and Barbuda, Antigua and Barbuda Labour Party, Antiguan general election, 2018_
-
-##### Stoneman Douglas High School shooting
-### [ Several Parkland survivors, including Emma Gonzalez, David Hogg and Cameron Kasky appear on a Time cover.](/news/2018/03/22/several-parkland-survivors-including-emma-gonzalez-david-hogg-and-cameron-kasky-appear-on-a-time-cover.md)
-Students who survived last month&#039;s shooting at a high school in Parkland, Fla., are featured on the cover of Time magazine&#039;s latest issue.
 
 ##### Presidency of Donald Trump
 ### [U.S. President Donald Trump announces former United States Ambassador to the United Nations John R. Bolton will become his National Security Advisor, succeeeding the outgoing H. R. McMaster. ](/news/2018/03/22/u-s-president-donald-trump-announces-former-united-states-ambassador-to-the-united-nations-john-r-bolton-will-become-his-national-security.md)

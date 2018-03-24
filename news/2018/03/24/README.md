@@ -3,8 +3,12 @@ Formats: [HTML](2018/03/24/index.html)  [JSON](2018/03/24/index.json)  [XML](201
 
 ## [2018-03-24](/news/2018/03/24/index.md)
 
+##### 2018 United States gun violence protests
+### [Hundreds of thousands of people participate in the March For Our Lives protest around the world regarding gun violence, mass shootings and school shootings in the United States. ](/news/2018/03/24/hundreds-of-thousands-of-people-participate-in-the-march-for-our-lives-protest-around-the-world-regarding-gun-violence-mass-shootings-and-s.md)
+Student-led March For Our Lives events nationwide draw hundreds of thousands of protesters.
+
 ##### Alexandria
-### [A bomb planted beneath a car explodes in Alexandria, Egypt as a motorcade carrying the city's head of security passes by. At least two die. ](/news/2018/03/24/a-bomb-planted-beneath-a-car-explodes-in-alexandria-egypt-as-a-motorcade-carrying-the-city-s-head-of-security-passes-by-at-least-two-die.md)
+### [A bomb planted beneath a car explodes in Alexandria, Egypt, as a motorcade carrying the city's head of security passes by, killing at least two people. ](/news/2018/03/24/a-bomb-planted-beneath-a-car-explodes-in-alexandria-egypt-as-a-motorcade-carrying-the-city-s-head-of-security-passes-by-killing-at-least.md)
 Two people were killed when a bomb exploded under a car in the Egyptian city of Alexandria on Saturday in what appeared to be an assassination attempt on the city&rsquo;s security chief, state media reported.
 
 ##### Terrorism in Greece
