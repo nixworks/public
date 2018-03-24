@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/24/an-extremist-far-right-group-claims-responsibil
 
 ### [2018-03-24](/news/2018/03/24/index.md)
 
-##### Minorities in Greece
+##### Terrorism in Greece
 # An extremist far-right group claims responsibility after a community shelter for Afghan immigrants is burned down. The United Nations condemns the attack. 
 
 A little-known extreme right-wing group has claimed responsibility for an arson attack on an Afghan community center in central Athens that caused significant damage, but no injuries. A group calling itself Krypteia claimed responsibility in a call to a Greek news website on Friday. ...

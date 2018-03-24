@@ -3,13 +3,17 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/03/24/index.md)
 
-##### Minorities in Greece
-### [An extremist far-right group claims responsibility after a community shelter for Afghan immigrants is burned down. The United Nations condemns the attack. ](/news/2018/03/24/an-extremist-far-right-group-claims-responsibility-after-a-community-shelter-for-afghan-immigrants-is-burned-down-the-united-nations-condem.md)
-A little-known extreme right-wing group has claimed responsibility for an arson attack on an Afghan community center in central Athens that caused significant damage, but no injuries. A group calling itself Krypteia claimed responsibility in a call to a Greek news website on Friday. ...
-
 ##### Alexandria
 ### [A bomb planted beneath a car explodes in Alexandria, Egypt as a motorcade carrying the city's head of security passes by. At least two die. ](/news/2018/03/24/a-bomb-planted-beneath-a-car-explodes-in-alexandria-egypt-as-a-motorcade-carrying-the-city-s-head-of-security-passes-by-at-least-two-die.md)
 Two people were killed when a bomb exploded under a car in the Egyptian city of Alexandria on Saturday in what appeared to be an assassination attempt on the city&rsquo;s security chief, state media reported.
+
+##### Terrorism in Greece
+### [An extremist far-right group claims responsibility after a community shelter for Afghan immigrants is burned down. The United Nations condemns the attack. ](/news/2018/03/24/an-extremist-far-right-group-claims-responsibility-after-a-community-shelter-for-afghan-immigrants-is-burned-down-the-united-nations-condem.md)
+A little-known extreme right-wing group has claimed responsibility for an arson attack on an Afghan community center in central Athens that caused significant damage, but no injuries. A group calling itself Krypteia claimed responsibility in a call to a Greek news website on Friday. ...
+
+##### Saudi
+### [Saudi aircraft attack targets in residential areas of Hudaydah and Sa'ada, Yemen. At least seven civilians are killed. ](/news/2018/03/24/saudi-aircraft-attack-targets-in-residential-areas-of-hudaydah-and-saaada-yemen-at-least-seven-civilians-are-killed.md)
+At least seven civilians have been killed in Saudi airstrikes against residential areas across Yemen. 
 
 ##### Poisoning of Sergei and Yulia Skripal
 ### [A friend of poisoned exiled Russian spy Sergei Skripal claims Skripal had written to Vladimir Putin asking to return to Russia. Russia denies receiving such a letter. ](/news/2018/03/24/a-friend-of-poisoned-exiled-russian-spy-sergei-skripal-claims-skripal-had-written-to-vladimir-putin-asking-to-return-to-russia-russia-denie.md)
@@ -62,10 +66,6 @@ _Context: Gun violence in the United States, US Department of Justice, bump stoc
 ##### Russian interference in the 2016 United States elections
 ### [Tumblr shuts down 84 accounts linked to the Internet Research Agency. ](/news/2018/03/23/tumblr-shuts-down-84-accounts-linked-to-the-internet-research-agency.md)
 An email sent around to users who interacted with the accounts claims “democracy requires transparency.”
-
-##### Censorship in the United Kingdom
-### [The House of Commons of the UK Parliament discusses implications for freedom of speech arising from a case where a man was convicted of hate crimes for posting a video of a pug responding to Nazi slogans. The case has drawn criticism from campaigners and prominent comedians. ](/news/2018/03/23/the-house-of-commons-of-the-uk-parliament-discusses-implications-for-freedom-of-speech-arising-from-a-case-where-a-man-was-convicted-of-hate.md)
-BRITAIN is &quot;in danger of throwing away&quot; freedom of speech, ministers have been warned.
 
 ##### Crime in the United Kingdom
 ### [Two lorry drivers receive prison terms, one of 14 years, for killing eight people when their vehicles collided with a bus on the M1 in Buckinghamshire, England, in 2017. ](/news/2018/03/23/two-lorry-drivers-receive-prison-terms-one-of-14-years-for-killing-eight-people-when-their-vehicles-collided-with-a-bus-on-the-m1-in-bucki.md)
@@ -230,6 +230,10 @@ The US trade representative says the import duties have been &quot;paused&quot; 
 ##### Stop Enabling Sex Traffickers Act
 ### [Craigslist deactivates its personals section in response to the U.S. Senate's passage of the bill. ](/news/2018/03/22/craigslist-deactivates-its-personals-section-in-response-to-the-u-s-senate-s-passage-of-the-bill.md)
 This week, Congress passed the Stop Enabling Sex Trafficking Act, which critics say puts sex workers in harm’s way and could even threaten freedom of speech online.
+
+##### Yemen
+### [Yemeni forces launch a missile attack on Aramco's HQ in Najran, Saudi Arabia. ](/news/2018/03/22/yemeni-forces-launch-a-missile-attack-on-aramco-s-hq-in-najran-saudi-arabia.md)
+Yemeni forces fire a ballistic missile at the Saudi state oil giant Aramco&#39;s headquarters in Najran in the Persian Gulf country&#39;s southwest.
 
 ##### Syrian Civil War
 ### [Evacuations of 7,500 people from rebel-held Harasta, Eastern Ghouta begin. Rebels agree with the Syrian government and Russia for the displaced people to be exiled in Idlib Governorate. ](/news/2018/03/22/evacuations-of-7-500-people-from-rebel-held-harasta-eastern-ghouta-begin-rebels-agree-with-the-syrian-government-and-russia-for-the-displa.md)

@@ -31,10 +31,6 @@ _Context: Gun violence in the United States, US Department of Justice, bump stoc
 ### [Tumblr shuts down 84 accounts linked to the Internet Research Agency. ](/news/2018/03/23/tumblr-shuts-down-84-accounts-linked-to-the-internet-research-agency.md)
 An email sent around to users who interacted with the accounts claims “democracy requires transparency.”
 
-##### Censorship in the United Kingdom
-### [The House of Commons of the UK Parliament discusses implications for freedom of speech arising from a case where a man was convicted of hate crimes for posting a video of a pug responding to Nazi slogans. The case has drawn criticism from campaigners and prominent comedians. ](/news/2018/03/23/the-house-of-commons-of-the-uk-parliament-discusses-implications-for-freedom-of-speech-arising-from-a-case-where-a-man-was-convicted-of-hate.md)
-BRITAIN is &quot;in danger of throwing away&quot; freedom of speech, ministers have been warned.
-
 ##### Crime in the United Kingdom
 ### [Two lorry drivers receive prison terms, one of 14 years, for killing eight people when their vehicles collided with a bus on the M1 in Buckinghamshire, England, in 2017. ](/news/2018/03/23/two-lorry-drivers-receive-prison-terms-one-of-14-years-for-killing-eight-people-when-their-vehicles-collided-with-a-bus-on-the-m1-in-bucki.md)
 Eight people died when the minibus they were travelling in was involved in a crash with two lorries.

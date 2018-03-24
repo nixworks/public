@@ -111,6 +111,10 @@ The US trade representative says the import duties have been &quot;paused&quot; 
 ### [Craigslist deactivates its personals section in response to the U.S. Senate's passage of the bill. ](/news/2018/03/22/craigslist-deactivates-its-personals-section-in-response-to-the-u-s-senate-s-passage-of-the-bill.md)
 This week, Congress passed the Stop Enabling Sex Trafficking Act, which critics say puts sex workers in harm’s way and could even threaten freedom of speech online.
 
+##### Yemen
+### [Yemeni forces launch a missile attack on Aramco's HQ in Najran, Saudi Arabia. ](/news/2018/03/22/yemeni-forces-launch-a-missile-attack-on-aramco-s-hq-in-najran-saudi-arabia.md)
+Yemeni forces fire a ballistic missile at the Saudi state oil giant Aramco&#39;s headquarters in Najran in the Persian Gulf country&#39;s southwest.
+
 ##### Syrian Civil War
 ### [Evacuations of 7,500 people from rebel-held Harasta, Eastern Ghouta begin. Rebels agree with the Syrian government and Russia for the displaced people to be exiled in Idlib Governorate. ](/news/2018/03/22/evacuations-of-7-500-people-from-rebel-held-harasta-eastern-ghouta-begin-rebels-agree-with-the-syrian-government-and-russia-for-the-displa.md)
 Thousands of fighters to be deported after deal with Russian and Syrian officials
