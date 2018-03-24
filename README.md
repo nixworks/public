@@ -7,13 +7,9 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [Labour Party leader Jeremy Corbyn sacks Shadow Secretary of State for Northern Ireland Owen Smith after he called for a second referendum on European Union membership. He is replaced by Rochdale MP Tony Lloyd. ](/news/2018/03/23/labour-party-leader-jeremy-corbyn-sacks-shadow-secretary-of-state-for-northern-ireland-owen-smith-after-he-called-for-a-second-referendum-on.md)
 Smith went against party policy by calling for a referendum over the final Brexit deal
 
-##### Peru
-### [Peruvian Vice President Martin Vizcarra is sworn in to replace Kuczyski. ](/news/2018/03/23/peruvian-vice-president-martan-vizcarra-is-sworn-in-to-replace-kuczyski.md)
-Vizcarra, former regional governor, vows to tackle corruption ‘head on’ after congress accepts resignation of scandal-hit Kuczynski
-
-##### Peru
+##### Politics of Peru
 ### [The Peruvian Congress votes 105-12 to accept President Pedro Pablo Kuczynski's resignation. ](/news/2018/03/23/the-peruvian-congress-votes-105a12-to-accept-president-pedro-pablo-kuczynski-s-resignation.md)
-_Context: Congress, Pedro Pablo Kuczynski, Peru, President_
+Vizcarra, former regional governor, vows to tackle corruption ‘head on’ after congress accepts resignation of scandal-hit Kuczynski
 
 ##### Abortion in Poland
 ### [Thousands protest across Poland against the government's proposed restrictions on abortion. ](/news/2018/03/23/thousands-protest-across-poland-against-the-government-s-proposed-restrictions-on-abortion.md)
@@ -34,6 +30,10 @@ _Context: Great Mills High School, Maryland, School shootings in the United Stat
 ##### Crime in South Korea
 ### [Former President of South Korea Lee Myung-bak is detained on charges of taking bribes when he was in office. ](/news/2018/03/23/former-president-of-south-korea-lee-myung-bak-is-detained-on-charges-of-taking-bribes-when-he-was-in-office.md)
 _Context: Crime in South Korea, Former President, Lee Myung-bak, South Korea_
+
+##### Boeing
+### [Boeing lose a court case in Denmark against the country's government over the purchase of Lockheed Martin F-35 Lightning II fighters in preference over Boeing F-A 18 Super Hornets. ](/news/2018/03/23/boeing-lose-a-court-case-in-denmark-against-the-country-s-government-over-the-purchase-of-lockheed-martin-f-35-lightning-ii-fighters-in-pref.md)
+_Context: Boeing, Denmark, Lockheed Martin_
 
 ##### Iran-United States relations
 ### [The United States charges and sanctions nine Iranians and the Iranian company Mabna Institute for hacking and attempting to hack hundreds of universities. ](/news/2018/03/23/the-united-states-charges-and-sanctions-nine-iranians-and-the-iranian-company-mabna-institute-for-hacking-and-attempting-to-hack-hundreds-of.md)
@@ -93,7 +93,7 @@ _Context: Donald Trump, H. R. McMaster, John R. Bolton, National Security Adviso
 
 ##### Politics of Peru
 ### [Peruvian Vice President Martin Vizcarra returns from Canada, where he is his nation's ambassador, in preparation to take over the Presidency. ](/news/2018/03/22/peruvian-vice-president-martan-vizcarra-returns-from-canada-where-he-is-his-nation-s-ambassador-in-preparation-to-take-over-the-presidenc.md)
-_Context: Canada, Martin Vizcarra, Peru, Politics of Peru_
+_Context: Canada, Martin Vizcarra, Politics of Peru_
 
 ##### 2017-18 Spanish constitutional crisis
 ### [Jordi Turull fails in the first vote to become President of the Generalitat. The next session will be held on Saturday, March 24. ](/news/2018/03/22/jordi-turull-fails-in-the-first-vote-to-become-president-of-the-generalitat-the-next-session-will-be-held-on-saturday-march-24.md)
@@ -120,16 +120,12 @@ _Context: France, President Macron's economic reforms, Protests against Emmanuel
 The City of Atlanta has tweeted that they are currently experiencing outages on some of their customer applications. 
 
 ##### Kenya
-### [The Kenyan Court of Appeals rules forced anal examines on suspected homosexuals are illegal. ](/news/2018/03/22/the-kenyan-court-of-appeals-rules-forced-anal-examines-on-suspected-homosexuals-are-illegal.md)
+### [The Kenyan Court of Appeals rules forced anal examinations on suspected homosexuals are illegal. ](/news/2018/03/22/the-kenyan-court-of-appeals-rules-forced-anal-examinations-on-suspected-homosexuals-are-illegal.md)
 Rights groups have hailed the ruling as a &quot;tremendous step&quot; for gay rights in the conservative country. Kenya has been listed by LGBTQ rights groups as a country that sponsors homophobia through its laws and policies.
 
 ##### Palestinian Authority
 ### [Two men accused of an attempt to assassinate Palestinian Authority Prime Minister Rami Hamdallah die in a shootout with security forces. Two Hamas security personnel also die. ](/news/2018/03/22/two-men-accused-of-an-attempt-to-assassinate-palestinian-authority-prime-minister-rami-hamdallah-die-in-a-shootout-with-security-forces-two.md)
 Two security officers killed in gunbattle during arrest. Suspect also wounded in clash.
-
-##### Peru
-### [A Peruvian court confirms it will consider a request to impose a travel ban on President Pedro Pablo Kuczynski if his resignation is confirmed by lawmakers, who are considering whether to accept it. Some politicians have vowed to resist the resignation in favour of instead impeaching Kuczynski. ](/news/2018/03/22/a-peruvian-court-confirms-it-will-consider-a-request-to-impose-a-travel-ban-on-president-pedro-pablo-kuczynski-if-his-resignation-is-confirm.md)
-_Context: Pedro Pablo Kuczynski, Peru_
 
 ##### Cow vigilante violence in India since 2014
 ### [An Indian court convicts eleven Hindus of murdering a Muslim man they discovered transporting beef, sentencing them to life. It is the first successful prosecution of cow vigilantism violence in India. ](/news/2018/03/22/an-indian-court-convicts-eleven-hindus-of-murdering-a-muslim-man-they-discovered-transporting-beef-sentencing-them-to-life-it-is-the-first.md)

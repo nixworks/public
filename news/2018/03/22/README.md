@@ -21,7 +21,7 @@ _Context: Donald Trump, H. R. McMaster, John R. Bolton, National Security Adviso
 
 ##### Politics of Peru
 ### [Peruvian Vice President Martin Vizcarra returns from Canada, where he is his nation's ambassador, in preparation to take over the Presidency. ](/news/2018/03/22/peruvian-vice-president-martan-vizcarra-returns-from-canada-where-he-is-his-nation-s-ambassador-in-preparation-to-take-over-the-presidenc.md)
-_Context: Canada, Martin Vizcarra, Peru, Politics of Peru_
+_Context: Canada, Martin Vizcarra, Politics of Peru_
 
 ##### 2017-18 Spanish constitutional crisis
 ### [Jordi Turull fails in the first vote to become President of the Generalitat. The next session will be held on Saturday, March 24. ](/news/2018/03/22/jordi-turull-fails-in-the-first-vote-to-become-president-of-the-generalitat-the-next-session-will-be-held-on-saturday-march-24.md)
@@ -48,16 +48,12 @@ _Context: France, President Macron's economic reforms, Protests against Emmanuel
 The City of Atlanta has tweeted that they are currently experiencing outages on some of their customer applications. 
 
 ##### Kenya
-### [The Kenyan Court of Appeals rules forced anal examines on suspected homosexuals are illegal. ](/news/2018/03/22/the-kenyan-court-of-appeals-rules-forced-anal-examines-on-suspected-homosexuals-are-illegal.md)
+### [The Kenyan Court of Appeals rules forced anal examinations on suspected homosexuals are illegal. ](/news/2018/03/22/the-kenyan-court-of-appeals-rules-forced-anal-examinations-on-suspected-homosexuals-are-illegal.md)
 Rights groups have hailed the ruling as a &quot;tremendous step&quot; for gay rights in the conservative country. Kenya has been listed by LGBTQ rights groups as a country that sponsors homophobia through its laws and policies.
 
 ##### Palestinian Authority
 ### [Two men accused of an attempt to assassinate Palestinian Authority Prime Minister Rami Hamdallah die in a shootout with security forces. Two Hamas security personnel also die. ](/news/2018/03/22/two-men-accused-of-an-attempt-to-assassinate-palestinian-authority-prime-minister-rami-hamdallah-die-in-a-shootout-with-security-forces-two.md)
 Two security officers killed in gunbattle during arrest. Suspect also wounded in clash.
-
-##### Peru
-### [A Peruvian court confirms it will consider a request to impose a travel ban on President Pedro Pablo Kuczynski if his resignation is confirmed by lawmakers, who are considering whether to accept it. Some politicians have vowed to resist the resignation in favour of instead impeaching Kuczynski. ](/news/2018/03/22/a-peruvian-court-confirms-it-will-consider-a-request-to-impose-a-travel-ban-on-president-pedro-pablo-kuczynski-if-his-resignation-is-confirm.md)
-_Context: Pedro Pablo Kuczynski, Peru_
 
 ##### Cow vigilante violence in India since 2014
 ### [An Indian court convicts eleven Hindus of murdering a Muslim man they discovered transporting beef, sentencing them to life. It is the first successful prosecution of cow vigilantism violence in India. ](/news/2018/03/22/an-indian-court-convicts-eleven-hindus-of-murdering-a-muslim-man-they-discovered-transporting-beef-sentencing-them-to-life-it-is-the-first.md)

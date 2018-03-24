@@ -7,13 +7,9 @@ Formats: [HTML](2018/03/23/index.html)  [JSON](2018/03/23/index.json)  [XML](201
 ### [Labour Party leader Jeremy Corbyn sacks Shadow Secretary of State for Northern Ireland Owen Smith after he called for a second referendum on European Union membership. He is replaced by Rochdale MP Tony Lloyd. ](/news/2018/03/23/labour-party-leader-jeremy-corbyn-sacks-shadow-secretary-of-state-for-northern-ireland-owen-smith-after-he-called-for-a-second-referendum-on.md)
 Smith went against party policy by calling for a referendum over the final Brexit deal
 
-##### Peru
-### [Peruvian Vice President Martin Vizcarra is sworn in to replace Kuczyski. ](/news/2018/03/23/peruvian-vice-president-martan-vizcarra-is-sworn-in-to-replace-kuczyski.md)
-Vizcarra, former regional governor, vows to tackle corruption ‘head on’ after congress accepts resignation of scandal-hit Kuczynski
-
-##### Peru
+##### Politics of Peru
 ### [The Peruvian Congress votes 105-12 to accept President Pedro Pablo Kuczynski's resignation. ](/news/2018/03/23/the-peruvian-congress-votes-105a12-to-accept-president-pedro-pablo-kuczynski-s-resignation.md)
-_Context: Congress, Pedro Pablo Kuczynski, Peru, President_
+Vizcarra, former regional governor, vows to tackle corruption ‘head on’ after congress accepts resignation of scandal-hit Kuczynski
 
 ##### Abortion in Poland
 ### [Thousands protest across Poland against the government's proposed restrictions on abortion. ](/news/2018/03/23/thousands-protest-across-poland-against-the-government-s-proposed-restrictions-on-abortion.md)
@@ -34,6 +30,10 @@ _Context: Great Mills High School, Maryland, School shootings in the United Stat
 ##### Crime in South Korea
 ### [Former President of South Korea Lee Myung-bak is detained on charges of taking bribes when he was in office. ](/news/2018/03/23/former-president-of-south-korea-lee-myung-bak-is-detained-on-charges-of-taking-bribes-when-he-was-in-office.md)
 _Context: Crime in South Korea, Former President, Lee Myung-bak, South Korea_
+
+##### Boeing
+### [Boeing lose a court case in Denmark against the country's government over the purchase of Lockheed Martin F-35 Lightning II fighters in preference over Boeing F-A 18 Super Hornets. ](/news/2018/03/23/boeing-lose-a-court-case-in-denmark-against-the-country-s-government-over-the-purchase-of-lockheed-martin-f-35-lightning-ii-fighters-in-pref.md)
+_Context: Boeing, Denmark, Lockheed Martin_
 
 ##### Iran-United States relations
 ### [The United States charges and sanctions nine Iranians and the Iranian company Mabna Institute for hacking and attempting to hack hundreds of universities. ](/news/2018/03/23/the-united-states-charges-and-sanctions-nine-iranians-and-the-iranian-company-mabna-institute-for-hacking-and-attempting-to-hack-hundreds-of.md)
