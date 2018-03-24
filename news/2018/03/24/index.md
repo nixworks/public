@@ -7,14 +7,6 @@ Formats: [HTML](2018/03/24/index.html)  [JSON](2018/03/24/index.json)  [XML](201
 ### [Hundreds of thousands of people participate in the March For Our Lives protest around the world regarding gun violence, mass shootings and school shootings in the United States. ](/news/2018/03/24/hundreds-of-thousands-of-people-participate-in-the-march-for-our-lives-protest-around-the-world-regarding-gun-violence-mass-shootings-and-s.md)
 Student-led March For Our Lives events nationwide draw hundreds of thousands of protesters.
 
-##### Alexandria
-### [A bomb planted beneath a car explodes in Alexandria, Egypt, as a motorcade carrying the city's head of security passes by, killing at least two people. ](/news/2018/03/24/a-bomb-planted-beneath-a-car-explodes-in-alexandria-egypt-as-a-motorcade-carrying-the-city-s-head-of-security-passes-by-killing-at-least.md)
-Two people were killed when a bomb exploded under a car in the Egyptian city of Alexandria on Saturday in what appeared to be an assassination attempt on the city&rsquo;s security chief, state media reported.
-
-##### Terrorism in Greece
-### [An extremist far-right group claims responsibility after a community shelter for Afghan immigrants is burned down. The United Nations condemns the attack. ](/news/2018/03/24/an-extremist-far-right-group-claims-responsibility-after-a-community-shelter-for-afghan-immigrants-is-burned-down-the-united-nations-condem.md)
-A little-known extreme right-wing group has claimed responsibility for an arson attack on an Afghan community center in central Athens that caused significant damage, but no injuries. A group calling itself Krypteia claimed responsibility in a call to a Greek news website on Friday. ...
-
 ##### Saudi
 ### [Saudi aircraft attack targets in residential areas of Hudaydah and Sa'ada, Yemen. At least seven civilians are killed. ](/news/2018/03/24/saudi-aircraft-attack-targets-in-residential-areas-of-hudaydah-and-saaada-yemen-at-least-seven-civilians-are-killed.md)
 At least seven civilians have been killed in Saudi airstrikes against residential areas across Yemen. 
@@ -34,6 +26,18 @@ Rescuers heard knocking sounds and found the sailors in the ship&#039;s engine r
 ##### Japan
 ### [The Kofu District Public Prosecutor's Office in Japan announces nobody will be prosecuted over the accident, which killed nine and injured three. Officials say the collapse would have been difficult to predict. ](/news/2018/03/24/the-kofu-district-public-prosecutoras-office-in-japan-announces-nobody-will-be-prosecuted-over-the-accident-which-killed-nine-and-injured.md)
 Public prosecutors on Friday decided not to indict any of the 10 people accused of professional negligence over the collapse of an expressway tunnel that k
+
+##### The Times
+### ["The Times" reports their journalist, Bel Trew, had been expelled from Egypt shortly after her February 20, 2018, arrest. Trew had been given the option of a military trial or leaving the country. ](/news/2018/03/24/the-times-reports-their-journalist-bel-trew-had-been-expelled-from-egypt-shortly-after-her-february-20-2018-arrest-trew-had-been-give.md)
+ CAIRO (AP) — Egyptian authorities arrested a British journalist and expelled her from the country after threatening her with a military trial, The Times said on Saturday. The move
+
+##### Alexandria
+### [A bomb planted beneath a car explodes in Alexandria, Egypt, as a motorcade carrying the city's head of security passes by, killing at least two people. ](/news/2018/03/24/a-bomb-planted-beneath-a-car-explodes-in-alexandria-egypt-as-a-motorcade-carrying-the-city-s-head-of-security-passes-by-killing-at-least.md)
+Two people were killed when a bomb exploded under a car in the Egyptian city of Alexandria on Saturday in what appeared to be an assassination attempt on the city&rsquo;s security chief, state media reported.
+
+##### Terrorism in Greece
+### [An extremist far-right group claims responsibility after a community shelter for Afghan immigrants is burned down. The United Nations condemns the attack. ](/news/2018/03/24/an-extremist-far-right-group-claims-responsibility-after-a-community-shelter-for-afghan-immigrants-is-burned-down-the-united-nations-condem.md)
+A little-known extreme right-wing group has claimed responsibility for an arson attack on an Afghan community center in central Athens that caused significant damage, but no injuries. A group calling itself Krypteia claimed responsibility in a call to a Greek news website on Friday. ...
 
 ## [Previous Day...](/news/2018/03/23/index.md)
 
