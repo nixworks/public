@@ -23,9 +23,9 @@ At least seven civilians have been killed in Saudi airstrikes against residentia
 ### [A friend of poisoned exiled Russian spy Sergei Skripal claims Skripal had written to Vladimir Putin asking to return to Russia. Russia denies receiving such a letter. ](/news/2018/03/24/a-friend-of-poisoned-exiled-russian-spy-sergei-skripal-claims-skripal-had-written-to-vladimir-putin-asking-to-return-to-russia-russia-denie.md)
 _Context: Poisoning of Sergei and Yulia Skripal, Russia, Sergei Skripal, Vladimir Putin_
 
-##### 2017-18 North Korea crisis
+##### 2018 inter-Korean summit
 ### [North Korea accepts South Korea's proposal to hold high-level inter-Korean talks, scheduled to take place on March 29. ](/news/2018/03/24/north-korea-accepts-south-korea-s-proposal-to-hold-high-level-inter-korean-talks-scheduled-to-take-place-on-march-29.md)
-_Context: 2017-18 North Korea crisis, 2018 inter-Korean summit, Korean, North Korea, South Korea_
+_Context: 2018 inter-Korean summit, Korean, North Korea, North Korea-South Korea relations, South Korea_
 
 ##### Malaysia
 ### [Two men are rescued from a capsized dredger off Malaysia after 50 hours in an air pocket in the engine room. The death toll so far is nine, with rescue efforts underway to search for more survivors. ](/news/2018/03/24/two-men-are-rescued-from-a-capsized-dredger-off-malaysia-after-50-hours-in-an-air-pocket-in-the-engine-room-the-death-toll-so-far-is-nine.md)
@@ -42,6 +42,10 @@ Most of the daily information we see on the mainstream media today is the news e
 ---
 
 ## [Yesterday](/news/2018/03/23/index.md)
+
+##### Pilot whales
+### [More than 140 pilot whales die in Hamelin Bay, Australia after beaching themselves. ](/news/2018/03/23/more-than-140-pilot-whales-die-in-hamelin-bay-australia-after-beaching-themselves.md)
+Rescuers manage to return just six surviving pilot whales to deeper waters in Western Australia.
 
 ##### Politics of the United Kingdom
 ### [Labour Party leader Jeremy Corbyn sacks Shadow Secretary of State for Northern Ireland Owen Smith after he called for a second referendum on European Union membership. He is replaced by Rochdale MP Tony Lloyd. ](/news/2018/03/23/labour-party-leader-jeremy-corbyn-sacks-shadow-secretary-of-state-for-northern-ireland-owen-smith-after-he-called-for-a-second-referendum-on.md)
@@ -60,7 +64,7 @@ Thousands join demonstrations against government’s new effort to restrict acce
 Catalan separatist politician Marta Rovira ignores court summons, says in letter she has chose &lsquo;path to exile&rsquo;
 
 ##### Human rights in the United States
-### [US President Donald Trump issues an order banning "transgender persons who require or have undergone gender transition" from the military. ](/news/2018/03/23/us-president-donald-trump-issues-an-order-banning-transgender-persons-who-require-or-have-undergone-gender-transition-from-the-military.md)
+### [US President Donald Trump issues an order banning "transgender persons who require or have undergone gender transition" from the military. Pentagon spokesman Major David Eastburn says this announcement will have no immediate practical effect for the military which will continue to recruit and retain transgender people in accordance with current law. ](/news/2018/03/23/us-president-donald-trump-issues-an-order-banning-transgender-persons-who-require-or-have-undergone-gender-transition-from-the-military-p.md)
 The policy scraps his blanket ban but bars those who have undergone gender transition from serving.
 
 ##### Gun violence

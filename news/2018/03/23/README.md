@@ -3,6 +3,10 @@ Formats: [HTML](2018/03/23/index.html)  [JSON](2018/03/23/index.json)  [XML](201
 
 ## [2018-03-23](/news/2018/03/23/index.md)
 
+##### Pilot whales
+### [More than 140 pilot whales die in Hamelin Bay, Australia after beaching themselves. ](/news/2018/03/23/more-than-140-pilot-whales-die-in-hamelin-bay-australia-after-beaching-themselves.md)
+Rescuers manage to return just six surviving pilot whales to deeper waters in Western Australia.
+
 ##### Politics of the United Kingdom
 ### [Labour Party leader Jeremy Corbyn sacks Shadow Secretary of State for Northern Ireland Owen Smith after he called for a second referendum on European Union membership. He is replaced by Rochdale MP Tony Lloyd. ](/news/2018/03/23/labour-party-leader-jeremy-corbyn-sacks-shadow-secretary-of-state-for-northern-ireland-owen-smith-after-he-called-for-a-second-referendum-on.md)
 Smith went against party policy by calling for a referendum over the final Brexit deal
@@ -20,7 +24,7 @@ Thousands join demonstrations against government’s new effort to restrict acce
 Catalan separatist politician Marta Rovira ignores court summons, says in letter she has chose &lsquo;path to exile&rsquo;
 
 ##### Human rights in the United States
-### [US President Donald Trump issues an order banning "transgender persons who require or have undergone gender transition" from the military. ](/news/2018/03/23/us-president-donald-trump-issues-an-order-banning-transgender-persons-who-require-or-have-undergone-gender-transition-from-the-military.md)
+### [US President Donald Trump issues an order banning "transgender persons who require or have undergone gender transition" from the military. Pentagon spokesman Major David Eastburn says this announcement will have no immediate practical effect for the military which will continue to recruit and retain transgender people in accordance with current law. ](/news/2018/03/23/us-president-donald-trump-issues-an-order-banning-transgender-persons-who-require-or-have-undergone-gender-transition-from-the-military-p.md)
 The policy scraps his blanket ban but bars those who have undergone gender transition from serving.
 
 ##### Gun violence
