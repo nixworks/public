@@ -4,7 +4,7 @@ Formats: [HTML](2018/03/24/index.html)  [JSON](2018/03/24/index.json)  [XML](201
 ## [2018-03-24](/news/2018/03/24/index.md)
 
 ##### 2018 United States gun violence protests
-### [Thousands of people participate in the March For Our Lives protest in multiple cities across the United States regarding gun violence and mass shootings. ](/news/2018/03/24/thousands-of-people-participate-in-the-march-for-our-lives-protest-in-multiple-cities-across-the-united-states-regarding-gun-violence-and-ma.md)
+### [Thousands of people participate in the March For Our Lives protest in multiple cities across the United States regarding gun violence, mass shootings and school shootings. ](/news/2018/03/24/thousands-of-people-participate-in-the-march-for-our-lives-protest-in-multiple-cities-across-the-united-states-regarding-gun-violence-mass.md)
 Here&#039;s a guide to the March for Our Lives protest in Washington, D.C. Saturday, where activists will call for reforms to reduce gun violence.
 
 ##### 2017-18 North Korea crisis
