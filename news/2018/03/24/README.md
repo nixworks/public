@@ -11,12 +11,8 @@ A little-known extreme right-wing group has claimed responsibility for an arson 
 ### [A bomb planted beneath a car explodes in Alexandria, Egypt as a motorcade carrying the city's head of security passes by. At least two die. ](/news/2018/03/24/a-bomb-planted-beneath-a-car-explodes-in-alexandria-egypt-as-a-motorcade-carrying-the-city-s-head-of-security-passes-by-at-least-two-die.md)
 Two people were killed when a bomb exploded under a car in the Egyptian city of Alexandria on Saturday in what appeared to be an assassination attempt on the city&rsquo;s security chief, state media reported.
 
-##### 2018 United States gun violence protests
-### [Thousands of people participate in the March For Our Lives protest in multiple cities across the United States regarding gun violence, mass shootings and school shootings. ](/news/2018/03/24/thousands-of-people-participate-in-the-march-for-our-lives-protest-in-multiple-cities-across-the-united-states-regarding-gun-violence-mass.md)
-Here&#039;s a guide to the March for Our Lives protest in Washington, D.C. Saturday, where activists will call for reforms to reduce gun violence.
-
 ##### Poisoning of Sergei and Yulia Skripal
-### [A friend of poisoned exiled Russian dissident Sergei Skripal claims Skripal had written to Vladimir Putin asking to return to Russia. Russia denies receiving such a letter. ](/news/2018/03/24/a-friend-of-poisoned-exiled-russian-dissident-sergei-skripal-claims-skripal-had-written-to-vladimir-putin-asking-to-return-to-russia-russia.md)
+### [A friend of poisoned exiled Russian spy Sergei Skripal claims Skripal had written to Vladimir Putin asking to return to Russia. Russia denies receiving such a letter. ](/news/2018/03/24/a-friend-of-poisoned-exiled-russian-spy-sergei-skripal-claims-skripal-had-written-to-vladimir-putin-asking-to-return-to-russia-russia-denie.md)
 _Context: Poisoning of Sergei and Yulia Skripal, Russia, Sergei Skripal, Vladimir Putin_
 
 ##### 2017-18 North Korea crisis

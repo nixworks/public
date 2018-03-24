@@ -11,12 +11,8 @@ A little-known extreme right-wing group has claimed responsibility for an arson 
 ### [A bomb planted beneath a car explodes in Alexandria, Egypt as a motorcade carrying the city's head of security passes by. At least two die. ](/news/2018/03/24/a-bomb-planted-beneath-a-car-explodes-in-alexandria-egypt-as-a-motorcade-carrying-the-city-s-head-of-security-passes-by-at-least-two-die.md)
 Two people were killed when a bomb exploded under a car in the Egyptian city of Alexandria on Saturday in what appeared to be an assassination attempt on the city&rsquo;s security chief, state media reported.
 
-##### 2018 United States gun violence protests
-### [Thousands of people participate in the March For Our Lives protest in multiple cities across the United States regarding gun violence, mass shootings and school shootings. ](/news/2018/03/24/thousands-of-people-participate-in-the-march-for-our-lives-protest-in-multiple-cities-across-the-united-states-regarding-gun-violence-mass.md)
-Here&#039;s a guide to the March for Our Lives protest in Washington, D.C. Saturday, where activists will call for reforms to reduce gun violence.
-
 ##### Poisoning of Sergei and Yulia Skripal
-### [A friend of poisoned exiled Russian dissident Sergei Skripal claims Skripal had written to Vladimir Putin asking to return to Russia. Russia denies receiving such a letter. ](/news/2018/03/24/a-friend-of-poisoned-exiled-russian-dissident-sergei-skripal-claims-skripal-had-written-to-vladimir-putin-asking-to-return-to-russia-russia.md)
+### [A friend of poisoned exiled Russian spy Sergei Skripal claims Skripal had written to Vladimir Putin asking to return to Russia. Russia denies receiving such a letter. ](/news/2018/03/24/a-friend-of-poisoned-exiled-russian-spy-sergei-skripal-claims-skripal-had-written-to-vladimir-putin-asking-to-return-to-russia-russia-denie.md)
 _Context: Poisoning of Sergei and Yulia Skripal, Russia, Sergei Skripal, Vladimir Putin_
 
 ##### 2017-18 North Korea crisis
@@ -55,17 +51,13 @@ Catalan separatist politician Marta Rovira ignores court summons, says in letter
 ### [US President Donald Trump issues an order banning "transgender persons who require or have undergone gender transition" from the military. ](/news/2018/03/23/us-president-donald-trump-issues-an-order-banning-transgender-persons-who-require-or-have-undergone-gender-transition-from-the-military.md)
 The policy scraps his blanket ban but bars those who have undergone gender transition from serving.
 
-##### Gun violence
+##### Gun violence in the United States
 ### [The US Department of Justice announces it will reclassify bump stocks as machine guns, effectively outlawing them. ](/news/2018/03/23/the-us-department-of-justice-announces-it-will-reclassify-bump-stocks-as-machine-guns-effectively-outlawing-them.md)
-_Context: US Department of Justice, bump stocks, gun violence_
+_Context: Gun violence in the United States, US Department of Justice, bump stocks_
 
 ##### Russian interference in the 2016 United States elections
 ### [Tumblr shuts down 84 accounts linked to the Internet Research Agency. ](/news/2018/03/23/tumblr-shuts-down-84-accounts-linked-to-the-internet-research-agency.md)
 An email sent around to users who interacted with the accounts claims “democracy requires transparency.”
-
-##### Censorship in the United Kingdom
-### [The House of Commons of the UK Parliament discusses implications for freedom of speech arising from a case where a man was convicted of hate crimes for posting a video of a pug responding to Nazi slogans. The case has drawn criticism from campaigners and prominent comedians. ](/news/2018/03/23/the-house-of-commons-of-the-uk-parliament-discusses-implications-for-freedom-of-speech-arising-from-a-case-where-a-man-was-convicted-of-hate.md)
-BRITAIN is &quot;in danger of throwing away&quot; freedom of speech, ministers have been warned.
 
 ##### Crime in the United Kingdom
 ### [Two lorry drivers receive prison terms, one of 14 years, for killing eight people when their vehicles collided with a bus on the M1 in Buckinghamshire, England, in 2017. ](/news/2018/03/23/two-lorry-drivers-receive-prison-terms-one-of-14-years-for-killing-eight-people-when-their-vehicles-collided-with-a-bus-on-the-m1-in-bucki.md)
@@ -158,6 +150,10 @@ President Erdoğan says he will not let natural reserves be exploited by Greek C
 ##### Protests against Emmanuel Macron
 ### [People in 150 places across France take to the streets peacefully in a general strike to protest President Macron's economic reforms. Railways, airways, schools and power generation are affected. ](/news/2018/03/22/people-in-150-places-across-france-take-to-the-streets-peacefully-in-a-general-strike-to-protest-president-macron-s-economic-reforms-railwa.md)
 _Context: France, President Macron's economic reforms, Protests against Emmanuel Macron, general strike_
+
+##### Crime in Georgia (U.S. state)
+### [The city government of Atlanta, Georgia, United States, experiences an outage on some official websites, caused by a ransomware cyberattack. ](/news/2018/03/22/the-city-government-of-atlanta-georgia-united-states-experiences-an-outage-on-some-official-websites-caused-by-a-ransomware-cyberattack.md)
+The City of Atlanta has tweeted that they are currently experiencing outages on some of their customer applications. 
 
 ##### Crime in Kenya
 ### [The Kenyan Court of Appeals rules forced anal examinations on suspected homosexuals are illegal. ](/news/2018/03/22/the-kenyan-court-of-appeals-rules-forced-anal-examinations-on-suspected-homosexuals-are-illegal.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/23/the-us-department-of-justice-announces-it-will-
 
 ### [2018-03-23](/news/2018/03/23/index.md)
 
-##### Gun violence
+##### Gun violence in the United States
 # The US Department of Justice announces it will reclassify bump stocks as machine guns, effectively outlawing them. 
 
 
@@ -15,6 +15,5 @@ Formats: [HTML](/news/2018/03/23/the-us-department-of-justice-announces-it-will-
 
 ### Related:
 
-1. [Thousands of people participate in the March For Our Lives protest in multiple cities across the United States regarding gun violence, mass shootings and school shootings. ](/news/2018/03/24/thousands-of-people-participate-in-the-march-for-our-lives-protest-in-multiple-cities-across-the-united-states-regarding-gun-violence-mass.md) _Context: gun violence_
-2. [Students throughout the United States participate in a walkout protest against gun violence. ](/news/2018/03/14/students-throughout-the-united-states-participate-in-a-walkout-protest-against-gun-violence.md) _Context: gun violence_
-3. [The University of Chicago cancels classes for the day, and asks students, faculty, and non-essential staff to stay away from its main campus after being informed by the FBI of a threat of gun violence. ](/news/2015/11/30/the-university-of-chicago-cancels-classes-for-the-day-and-asks-students-faculty-and-non-essential-staff-to-stay-away-from-its-main-campus.md) _Context: gun violence_
+1. [Students throughout the United States participate in a walkout protest against gun violence. ](/news/2018/03/14/students-throughout-the-united-states-participate-in-a-walkout-protest-against-gun-violence.md) _Context: Gun violence in the United States_
+2. [The University of Chicago cancels classes for the day, and asks students, faculty, and non-essential staff to stay away from its main campus after being informed by the FBI of a threat of gun violence. ](/news/2015/11/30/the-university-of-chicago-cancels-classes-for-the-day-and-asks-students-faculty-and-non-essential-staff-to-stay-away-from-its-main-campus.md) _Context: Gun violence in the United States_
