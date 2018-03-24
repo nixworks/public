@@ -19,6 +19,10 @@ _Context: Poisoning of Sergei and Yulia Skripal, Russia, Sergei Skripal, Vladimi
 ### [North Korea accepts South Korea's proposal to hold high-level inter-Korean talks, scheduled to take place on March 29. ](/news/2018/03/24/north-korea-accepts-south-korea-s-proposal-to-hold-high-level-inter-korean-talks-scheduled-to-take-place-on-march-29.md)
 _Context: 2017-18 North Korea crisis, 2018 inter-Korean summit, Korean, North Korea, South Korea_
 
+##### Malaysia
+### [Two men are rescued from a capsized dredger off Malaysia after 50 hours in an air pocket in the engine room. The death toll so far is nine, with rescue efforts underway to search for more survivors. ](/news/2018/03/24/two-men-are-rescued-from-a-capsized-dredger-off-malaysia-after-50-hours-in-an-air-pocket-in-the-engine-room-the-death-toll-so-far-is-nine.md)
+Rescuers heard knocking sounds and found the sailors in the ship&#039;s engine room, and officials say an air pocket kept them alive.
+
 ##### Japan
 ### [The Kofu District Public Prosecutor's Office in Japan announces nobody will be prosecuted over the accident, which killed nine and injured three. Officials say the collapse would have been difficult to predict. ](/news/2018/03/24/the-kofu-district-public-prosecutoras-office-in-japan-announces-nobody-will-be-prosecuted-over-the-accident-which-killed-nine-and-injured.md)
 Public prosecutors on Friday decided not to indict any of the 10 people accused of professional negligence over the collapse of an expressway tunnel that k
@@ -59,6 +63,10 @@ _Context: Gun violence in the United States, US Department of Justice, bump stoc
 ### [Tumblr shuts down 84 accounts linked to the Internet Research Agency. ](/news/2018/03/23/tumblr-shuts-down-84-accounts-linked-to-the-internet-research-agency.md)
 An email sent around to users who interacted with the accounts claims “democracy requires transparency.”
 
+##### Censorship in the United Kingdom
+### [The House of Commons of the UK Parliament discusses implications for freedom of speech arising from a case where a man was convicted of hate crimes for posting a video of a pug responding to Nazi slogans. The case has drawn criticism from campaigners and prominent comedians. ](/news/2018/03/23/the-house-of-commons-of-the-uk-parliament-discusses-implications-for-freedom-of-speech-arising-from-a-case-where-a-man-was-convicted-of-hate.md)
+BRITAIN is &quot;in danger of throwing away&quot; freedom of speech, ministers have been warned.
+
 ##### Crime in the United Kingdom
 ### [Two lorry drivers receive prison terms, one of 14 years, for killing eight people when their vehicles collided with a bus on the M1 in Buckinghamshire, England, in 2017. ](/news/2018/03/23/two-lorry-drivers-receive-prison-terms-one-of-14-years-for-killing-eight-people-when-their-vehicles-collided-with-a-bus-on-the-m1-in-bucki.md)
 Eight people died when the minibus they were travelling in was involved in a crash with two lorries.
@@ -70,6 +78,10 @@ _Context: Great Mills High School, Maryland, School shootings in the United Stat
 ##### Crime in South Korea
 ### [Former President of South Korea Lee Myung-bak is detained on charges of taking bribes when he was in office. ](/news/2018/03/23/former-president-of-south-korea-lee-myung-bak-is-detained-on-charges-of-taking-bribes-when-he-was-in-office.md)
 _Context: Crime in South Korea, Former President, Lee Myung-bak, South Korea_
+
+##### Cyprus dispute
+### [Turkey calls a statement of European Union support for Greek Cypriots in a dispute over offshore resources "unacceptable". Turkey has been using its Navy to prevent exploration by Cypriot vessels. ](/news/2018/03/23/turkey-calls-a-statement-of-european-union-support-for-greek-cypriots-in-a-dispute-over-offshore-resources-unacceptable-turkey-has-been-u.md)
+Ankara slams European Council for backing Athens and Nicosia over Turkish arrest of Greek troops and Cyprus gas dispute.
 
 ##### Iran-United States relations
 ### [The United States charges and sanctions nine Iranians and the Iranian company Mabna Institute for hacking and attempting to hack hundreds of universities. ](/news/2018/03/23/the-united-states-charges-and-sanctions-nine-iranians-and-the-iranian-company-mabna-institute-for-hacking-and-attempting-to-hack-hundreds-of.md)
@@ -182,6 +194,10 @@ _Context: Nadiya Savchenko, Parliament, Ukrainian, Ukrainian crisis_
 ##### Murder of Maria Ladenburger
 ### [Iranian immigrant Hussein Khavari is convicted of rape and murder in a case that provoked widespread discussion of refugee immigration to Germany. ](/news/2018/03/22/iranian-immigrant-hussein-khavari-is-convicted-of-rape-and-murder-in-a-case-that-provoked-widespread-discussion-of-refugee-immigration-to-ge.md)
 The rape and murder of a medical student in 2016 fuelled tensions over the mass influx of migrants.
+
+##### Cyprus dispute
+### [The European Union calls on Turkey to cease military actions aimed at enforcing Turkish claims to disputed natural gas deposits. The bloc also asks Turkey to release detained EU citizens. ](/news/2018/03/22/the-european-union-calls-on-turkey-to-cease-military-actions-aimed-at-enforcing-turkish-claims-to-disputed-natural-gas-deposits-the-bloc-al.md)
+Ankara slams European Council for backing Athens and Nicosia over Turkish arrest of Greek troops and Cyprus gas dispute.
 
 ##### Russia-Sudan relations
 ### [Russian President Vladimir Putin accepts an invitation to visit Sudan from Sudanese President Omar al-Bashir. ](/news/2018/03/22/russian-president-vladimir-putin-accepts-an-invitation-to-visit-sudan-from-sudanese-president-omar-al-bashir.md)

@@ -75,6 +75,10 @@ _Context: Nadiya Savchenko, Parliament, Ukrainian, Ukrainian crisis_
 ### [Iranian immigrant Hussein Khavari is convicted of rape and murder in a case that provoked widespread discussion of refugee immigration to Germany. ](/news/2018/03/22/iranian-immigrant-hussein-khavari-is-convicted-of-rape-and-murder-in-a-case-that-provoked-widespread-discussion-of-refugee-immigration-to-ge.md)
 The rape and murder of a medical student in 2016 fuelled tensions over the mass influx of migrants.
 
+##### Cyprus dispute
+### [The European Union calls on Turkey to cease military actions aimed at enforcing Turkish claims to disputed natural gas deposits. The bloc also asks Turkey to release detained EU citizens. ](/news/2018/03/22/the-european-union-calls-on-turkey-to-cease-military-actions-aimed-at-enforcing-turkish-claims-to-disputed-natural-gas-deposits-the-bloc-al.md)
+Ankara slams European Council for backing Athens and Nicosia over Turkish arrest of Greek troops and Cyprus gas dispute.
+
 ##### Russia-Sudan relations
 ### [Russian President Vladimir Putin accepts an invitation to visit Sudan from Sudanese President Omar al-Bashir. ](/news/2018/03/22/russian-president-vladimir-putin-accepts-an-invitation-to-visit-sudan-from-sudanese-president-omar-al-bashir.md)
 Russian President Vladimir Putin accepted an invitation from his Sudanese counterpart Omar al-Bashir to visit the North African country, Sudan&rsquo;s state news agency said on Thursday.

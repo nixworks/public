@@ -31,6 +31,10 @@ _Context: Gun violence in the United States, US Department of Justice, bump stoc
 ### [Tumblr shuts down 84 accounts linked to the Internet Research Agency. ](/news/2018/03/23/tumblr-shuts-down-84-accounts-linked-to-the-internet-research-agency.md)
 An email sent around to users who interacted with the accounts claims “democracy requires transparency.”
 
+##### Censorship in the United Kingdom
+### [The House of Commons of the UK Parliament discusses implications for freedom of speech arising from a case where a man was convicted of hate crimes for posting a video of a pug responding to Nazi slogans. The case has drawn criticism from campaigners and prominent comedians. ](/news/2018/03/23/the-house-of-commons-of-the-uk-parliament-discusses-implications-for-freedom-of-speech-arising-from-a-case-where-a-man-was-convicted-of-hate.md)
+BRITAIN is &quot;in danger of throwing away&quot; freedom of speech, ministers have been warned.
+
 ##### Crime in the United Kingdom
 ### [Two lorry drivers receive prison terms, one of 14 years, for killing eight people when their vehicles collided with a bus on the M1 in Buckinghamshire, England, in 2017. ](/news/2018/03/23/two-lorry-drivers-receive-prison-terms-one-of-14-years-for-killing-eight-people-when-their-vehicles-collided-with-a-bus-on-the-m1-in-bucki.md)
 Eight people died when the minibus they were travelling in was involved in a crash with two lorries.
@@ -42,6 +46,10 @@ _Context: Great Mills High School, Maryland, School shootings in the United Stat
 ##### Crime in South Korea
 ### [Former President of South Korea Lee Myung-bak is detained on charges of taking bribes when he was in office. ](/news/2018/03/23/former-president-of-south-korea-lee-myung-bak-is-detained-on-charges-of-taking-bribes-when-he-was-in-office.md)
 _Context: Crime in South Korea, Former President, Lee Myung-bak, South Korea_
+
+##### Cyprus dispute
+### [Turkey calls a statement of European Union support for Greek Cypriots in a dispute over offshore resources "unacceptable". Turkey has been using its Navy to prevent exploration by Cypriot vessels. ](/news/2018/03/23/turkey-calls-a-statement-of-european-union-support-for-greek-cypriots-in-a-dispute-over-offshore-resources-unacceptable-turkey-has-been-u.md)
+Ankara slams European Council for backing Athens and Nicosia over Turkish arrest of Greek troops and Cyprus gas dispute.
 
 ##### Iran-United States relations
 ### [The United States charges and sanctions nine Iranians and the Iranian company Mabna Institute for hacking and attempting to hack hundreds of universities. ](/news/2018/03/23/the-united-states-charges-and-sanctions-nine-iranians-and-the-iranian-company-mabna-institute-for-hacking-and-attempting-to-hack-hundreds-of.md)
