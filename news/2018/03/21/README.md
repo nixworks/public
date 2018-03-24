@@ -19,7 +19,7 @@ _Context: Kosovo, Montenegro, Politics of Kosovo_
 ### [Voters in Antigua and Barbuda go to the polls, with Barbudan residents having to travel to Antigua in order to participate. ](/news/2018/03/21/voters-in-antigua-and-barbuda-go-to-the-polls-with-barbudan-residents-having-to-travel-to-antigua-in-order-to-participate.md)
 Barbudans have for the first time in their history been forced to travel by fishing boat, ferry and charter plane to neighbouring Antigua to vote in their elections &ndash; a move many on the hurricane-ravaged island see as a ploy to discourage them from voting.
 
-##### Impeachment process against Pedro Pablo Kuczynski
+##### Resignation of Pedro Pablo Kuczynski
 ### [Peruvian President Pedro Pablo Kuczynski resigns amid a vote buying scandal. ](/news/2018/03/21/peruvian-president-pedro-pablo-kuczynski-resigns-amid-a-vote-buying-scandal.md)
 Pedro Pablo Kuczynski has been implicated in a vote-buying scandal but denies wrongdoing.
 

@@ -11,9 +11,8 @@ BRITAIN is &quot;in danger of throwing away&quot; freedom of speech, ministers h
 
 ### Sources:
 
-1. [Russia Today](https://www.rt.com/uk/422127-nazi-pug-video-speech/)
-2. [The Herald](http://www.heraldscotland.com/news/16109392.Nazi_dog_debate_reaches_the_House_of_Commons/)
-2. [Cover Image](http://www.heraldscotland.com/resources/images/7565393/)
+1. [The Herald](http://www.heraldscotland.com/news/16109392.Nazi_dog_debate_reaches_the_House_of_Commons/)
+1. [Cover Image](http://www.heraldscotland.com/resources/images/7565393/)
 
 ### Related:
 
