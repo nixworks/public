@@ -15,10 +15,6 @@ _Context: Poisoning of Sergei and Yulia Skripal, Russia, Sergei Skripal, Vladimi
 ### [North Korea accepts South Korea's proposal to hold high-level inter-Korean talks, scheduled to take place on March 29. ](/news/2018/03/24/north-korea-accepts-south-korea-s-proposal-to-hold-high-level-inter-korean-talks-scheduled-to-take-place-on-march-29.md)
 _Context: 2018 inter-Korean summit, Korean, North Korea, South Korea_
 
-##### Al Nahda
-### [A crane collapses while lifting several tons of concrete at a building site in Al Nahda, Sharjah, Dubai. One man is killed and another injured. ](/news/2018/03/24/a-crane-collapses-while-lifting-several-tons-of-concrete-at-a-building-site-in-al-nahda-sharjah-dubai-one-man-is-killed-and-another-injur.md)
-A team of rescue units, police patrols and ambulances arrived at the site in less than five minutes.
-
 ##### Malaysia
 ### [Two men are rescued from a capsized dredger off Malaysia after 50 hours in an air pocket in the engine room. The death toll so far is nine, with rescue efforts underway to search for more survivors. ](/news/2018/03/24/two-men-are-rescued-from-a-capsized-dredger-off-malaysia-after-50-hours-in-an-air-pocket-in-the-engine-room-the-death-toll-so-far-is-nine.md)
 Rescuers heard knocking sounds and found the sailors in the ship&#039;s engine room, and officials say an air pocket kept them alive.
