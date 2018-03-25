@@ -55,8 +55,8 @@ At least seven civilians have been killed in Saudi airstrikes against residentia
 ### [A bomb planted beneath a car explodes in Alexandria, Egypt, as a motorcade carrying the city's head of security passes by, killing at least two people. ](/news/2018/03/24/a-bomb-planted-beneath-a-car-explodes-in-alexandria-egypt-as-a-motorcade-carrying-the-city-s-head-of-security-passes-by-killing-at-least.md)
 Two people were killed when a bomb exploded under a car in the Egyptian city of Alexandria on Saturday in what appeared to be an assassination attempt on the city&rsquo;s security chief, state media reported.
 
-##### Afghan
-### [An Afghan community center is burned down in Athens, Greece. An extreme far-right group claims responsibility, and the United Nations condemns the attack. ](/news/2018/03/24/an-afghan-community-center-is-burned-down-in-athens-greece-an-extreme-far-right-group-claims-responsibility-and-the-united-nations-condem.md)
+##### Minorities in Greece
+### [An Afghan community centre is burned down in Athens, Greece. An extreme far-right group claims responsibility, and the United Nations condemns the attack. ](/news/2018/03/24/an-afghan-community-centre-is-burned-down-in-athens-greece-an-extreme-far-right-group-claims-responsibility-and-the-united-nations-condem.md)
 A little-known extreme right-wing group has claimed responsibility for an arson attack on an Afghan community center in central Athens that caused significant damage, but no injuries. A group calling itself Krypteia claimed responsibility in a call to a Greek news website on Friday. ...
 
 ---
