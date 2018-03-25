@@ -3,6 +3,10 @@ Formats: [HTML](2018/03/24/index.html)  [JSON](2018/03/24/index.json)  [XML](201
 
 ## [2018-03-24](/news/2018/03/24/index.md)
 
+##### Glasgow
+### [A car is deliberately driven into a group of schoolgirls in Glasgow, Scotland, injuring five. Police launch an attempted murder probe. ](/news/2018/03/24/a-car-is-deliberately-driven-into-a-group-of-schoolgirls-in-glasgow-scotland-injuring-five-police-launch-an-attempted-murder-probe.md)
+A teenage girl is in a serious condition after the attempted murder in the Castlemilk area of Glasgow.
+
 ##### 2018 United States gun violence protests
 ### [Hundreds of thousands of people participate in the March For Our Lives protest around the world regarding gun violence, mass shootings and school shootings in the United States. ](/news/2018/03/24/hundreds-of-thousands-of-people-participate-in-the-march-for-our-lives-protest-around-the-world-regarding-gun-violence-mass-shootings-and-s.md)
 Student-led March For Our Lives events nationwide draw hundreds of thousands of protesters.

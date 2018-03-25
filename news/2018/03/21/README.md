@@ -25,7 +25,7 @@ Pedro Pablo Kuczynski has been implicated in a vote-buying scandal but denies wr
 
 ##### 2017-18 Spanish constitutional crisis
 ### [Catalan activist Jordi Sanchez i Picanyol, imprisoned accused of sedition, drops his bid to lead the Catalan government. ](/news/2018/03/21/catalan-activist-jordi-sa-nchez-i-picanyol-imprisoned-accused-of-sedition-drops-his-bid-to-lead-the-catalan-government.md)
-_Context: 2017-18 Spanish constitutional crisis, Catalan, Jordi Sanchez i Picanyol_
+_Context: 2017-18 Spanish constitutional crisis, Catalonia, Jordi Sanchez i Picanyol_
 
 ##### Politics of Myanmar
 ### [Myanmar President Htin Kyaw resigns due to ill health. Vice-President Myint Swe, a former general, will become acting president until a new president is chosen. ](/news/2018/03/21/myanmar-president-htin-kyaw-resigns-due-to-ill-health-vice-president-myint-swe-a-former-general-will-become-acting-president-until-a-new.md)

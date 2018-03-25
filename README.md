@@ -8,8 +8,16 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 _Context: Astronomy, Carina, nova_
 
 ##### 2017-18 Spanish constitutional crisis
-### [Carles Puigdemont is detained in Germany. ](/news/2018/03/25/carles-puigdemont-is-detained-in-germany.md)
+### [Catalonia's ex-President Carles Puigdemont is detained in Germany. ](/news/2018/03/25/catalonia-s-ex-president-carles-puigdemont-is-detained-in-germany.md)
 Carles Puigdemont, the deposed Catalan president, has been detained by police at the German border after Spain reactivated an international warrant for his arrest on charges of rebellion over October&rsquo;s referendum and declaration of independence.
+
+##### Carcassonne and Trebes attack
+### [A former French Parliamentarian candidate is arrested for tweeting that the death of Lt-Col Arnaud Beltrame was 'great' and 'one less vote for Emmanuel Macron.' ](/news/2018/03/25/a-former-french-parliamentarian-candidate-is-arrested-for-tweeting-that-the-death-of-lt-col-arnaud-beltrame-was-great-and-one-less-vote-f.md)
+The French left-winger is accused of celebrating the killing of Arnaud Beltrame in a terrorist attack.
+
+##### Siberia
+### [A fire in a shopping centre in Siberia kills at least four people, three of them children. ](/news/2018/03/25/a-fire-in-a-shopping-centre-in-siberia-kills-at-least-four-people-three-of-them-children.md)
+Video on social media shows panic as rescue teams evacuate the building in southern Russia.
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -18,6 +26,10 @@ Most of the daily information we see on the mainstream media today is the news e
 ---
 
 ## [Yesterday](/news/2018/03/24/index.md)
+
+##### Glasgow
+### [A car is deliberately driven into a group of schoolgirls in Glasgow, Scotland, injuring five. Police launch an attempted murder probe. ](/news/2018/03/24/a-car-is-deliberately-driven-into-a-group-of-schoolgirls-in-glasgow-scotland-injuring-five-police-launch-an-attempted-murder-probe.md)
+A teenage girl is in a serious condition after the attempted murder in the Castlemilk area of Glasgow.
 
 ##### 2018 United States gun violence protests
 ### [Hundreds of thousands of people participate in the March For Our Lives protest around the world regarding gun violence, mass shootings and school shootings in the United States. ](/news/2018/03/24/hundreds-of-thousands-of-people-participate-in-the-march-for-our-lives-protest-around-the-world-regarding-gun-violence-mass-shootings-and-s.md)
