@@ -3,8 +3,8 @@ Formats: [HTML](2018/03/23/index.html)  [JSON](2018/03/23/index.json)  [XML](201
 
 ## [2018-03-23](/news/2018/03/23/index.md)
 
-##### Pilot whales
-### [More than 140 pilot whales die in Hamelin Bay, Australia after beaching themselves. ](/news/2018/03/23/more-than-140-pilot-whales-die-in-hamelin-bay-australia-after-beaching-themselves.md)
+##### Fauna of Australia
+### [More than 140 pilot whales die in Hamelin Bay, Australia, after beaching themselves. ](/news/2018/03/23/more-than-140-pilot-whales-die-in-hamelin-bay-australia-after-beaching-themselves.md)
 Rescuers manage to return just six surviving pilot whales to deeper waters in Western Australia.
 
 ##### Politics of the United Kingdom

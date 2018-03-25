@@ -3,8 +3,8 @@ Formats: [HTML](/news/2018/03/23/more-than-140-pilot-whales-die-in-hamelin-bay-a
 
 ### [2018-03-23](/news/2018/03/23/index.md)
 
-##### Pilot whales
-# More than 140 pilot whales die in Hamelin Bay, Australia after beaching themselves. 
+##### Fauna of Australia
+# More than 140 pilot whales die in Hamelin Bay, Australia, after beaching themselves. 
 
 Rescuers manage to return just six surviving pilot whales to deeper waters in Western Australia.
 

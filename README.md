@@ -28,7 +28,7 @@ Rescuers heard knocking sounds and found the sailors in the ship&#039;s engine r
 Public prosecutors on Friday decided not to indict any of the 10 people accused of professional negligence over the collapse of an expressway tunnel that k
 
 ##### The Times
-### ["The Times" reports their journalist, Bel Trew, had been expelled from Egypt shortly after her February 20, 2018, arrest. Trew had been given the option of a military trial or leaving the country. ](/news/2018/03/24/the-times-reports-their-journalist-bel-trew-had-been-expelled-from-egypt-shortly-after-her-february-20-2018-arrest-trew-had-been-give.md)
+### ["The Times" reports their journalist, Bel Trew, had been expelled from Egypt shortly after her February 20 arrest. Trew had been given the option of a military trial or leaving the country. ](/news/2018/03/24/the-times-reports-their-journalist-bel-trew-had-been-expelled-from-egypt-shortly-after-her-february-20-arrest-trew-had-been-given-the-o.md)
  CAIRO (AP) — Egyptian authorities arrested a British journalist and expelled her from the country after threatening her with a military trial, The Times said on Saturday. The move
 
 ##### Alexandria
@@ -47,8 +47,8 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2018/03/23/index.md)
 
-##### Pilot whales
-### [More than 140 pilot whales die in Hamelin Bay, Australia after beaching themselves. ](/news/2018/03/23/more-than-140-pilot-whales-die-in-hamelin-bay-australia-after-beaching-themselves.md)
+##### Fauna of Australia
+### [More than 140 pilot whales die in Hamelin Bay, Australia, after beaching themselves. ](/news/2018/03/23/more-than-140-pilot-whales-die-in-hamelin-bay-australia-after-beaching-themselves.md)
 Rescuers manage to return just six surviving pilot whales to deeper waters in Western Australia.
 
 ##### Politics of the United Kingdom

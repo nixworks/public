@@ -12,9 +12,8 @@ Student-led March For Our Lives events nationwide draw hundreds of thousands of 
 ### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-43526413)
-2. [Hip Hop Wired](http://hiphopwired.com/747805/watch-emma-gonzalez-stood-in-silence-for-6-minutes-20-seconds-video/)
-3. [PBS](https://www.pbs.org/newshour/nation/what-you-need-to-know-about-this-weekends-march-for-our-lives)
-3. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p0626t8n.jpg)
+2. [PBS](https://www.pbs.org/newshour/nation/what-you-need-to-know-about-this-weekends-march-for-our-lives)
+2. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p0626t8n.jpg)
 
 ### Changes:
 
