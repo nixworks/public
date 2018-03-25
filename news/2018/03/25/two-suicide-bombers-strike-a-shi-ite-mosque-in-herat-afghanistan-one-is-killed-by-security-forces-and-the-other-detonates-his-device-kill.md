@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/25/two-suicide-bombers-strike-a-shi-ite-mosque-in-
 ### [2018-03-25](/news/2018/03/25/index.md)
 
 ##### War in Afghanistan (2001-present)
-# Two suicide bombers strike a Shi'ite mosque in Herat, Afghanistan. One is killed by security forces and the other detonates his device, killing one and wounding seven. Islamic State claims responsibility. 
+# Two suicide bombers strike a Shi'ite mosque in Herat, Afghanistan. One is killed by security forces and the other detonates his device, killing one and wounding seven. ISIL claims responsibility. 
 
 
 
