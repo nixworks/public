@@ -45,7 +45,7 @@ Israel has detained 487 pro-Palestinian activists captured in its deadly command
 
 ##### Women's rights
 ### [The United States insists any Afghan peace deal must ensure women's rights as Afghanistan prepares to open a peace conference aimed at persuading Taliban leaders to put down their weapons. ](/news/2010/06/1/the-united-states-insists-any-afghan-peace-deal-must-ensure-women-s-rights-as-afghanistan-prepares-to-open-a-peace-conference-aimed-at-persu.md)
-_Context: Afghanistan, Taliban, women's rights_
+_Context: Afghan, Taliban, women's rights_
 
 ##### Iran
 ### [The Iranian ambassador in Baghdad says the recent release of two Iranians from Iraqi custody is not an indication of any impeding deal to free three Americans held in Tehran on spying charges since their capture in July 2009 while hiking in northern Iraq's mountainous Kurdish region. ](/news/2010/06/1/the-iranian-ambassador-in-baghdad-says-the-recent-release-of-two-iranians-from-iraqi-custody-is-not-an-indication-of-any-impeding-deal-to-fr.md)
@@ -77,7 +77,7 @@ Infiltrators shot dead in exchange of fire with IDF soldiers.
 
 ##### Al-Qaeda
 ### [Al-Qaeda's top leader in Afghanistan, and Osama bin Laden's third in command, Mustafa Abu al-Yazid, is reported killed. ](/news/2010/06/1/al-qaeda-s-top-leader-in-afghanistan-and-osama-bin-laden-s-third-in-command-mustafa-abu-al-yazid-is-reported-killed.md)
-_Context: Afghanistan, Mustafa Abu al-Yazid, Osama bin Laden, al-Qaeda_
+_Context: Afghan, Mustafa Abu al-Yazid, Osama bin Laden, al-Qaeda_
 
 ##### Lahore
 ### [At least 5 people are killed in an attack on the Lahore hospital in Pakistan where many of the injured in Friday's attack on members of the Ahmadis sect, as well as one of the captured militants, are undergoing treatment. ](/news/2010/06/1/at-least-5-people-are-killed-in-an-attack-on-the-lahore-hospital-in-pakistan-where-many-of-the-injured-in-friday-s-attack-on-members-of-the.md)

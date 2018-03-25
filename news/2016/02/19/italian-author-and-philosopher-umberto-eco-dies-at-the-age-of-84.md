@@ -16,5 +16,5 @@ The Italian writer and philosopher Umberto Eco, best known for his 1980s novel T
 
 ### Changes:
 
-1. [American author Harper Lee dies at the age of 89. ](/news/2016/02/19/american-author-harper-lee-dies-at-the-age-of-89.md) _2018-03-23 03:56:16 (First version)_
+1. [American author Harper Lee dies at the age of 89. ](/news/2016/02/19/american-author-harper-lee-dies-at-the-age-of-89.md) _2018-03-24 03:57:12 (First version)_
 1. [Italian author and philosopher Umberto Eco dies at the age of 84. ](/news/2016/02/19/italian-author-and-philosopher-umberto-eco-dies-at-the-age-of-84.md) _(Current version)_

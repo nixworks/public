@@ -29,7 +29,7 @@ Four men alleged to have carried out an armed robbery at Heathrow went on trial 
 
 ##### Thailand
 ### [Five Thai policemen are charged with murder over the disappearance of a Saudi businessman 20 years ago that was linked to the theft of Saudi royal jewellery. ](/news/2010/01/12/five-thai-policemen-are-charged-with-murder-over-the-disappearance-of-a-saudi-businessman-20-years-ago-that-was-linked-to-the-theft-of-saudi.md)
-_Context: Saudi Arabia, Thailand_
+_Context: Saudi, Thailand_
 
 ##### Gunman kills two people
 ### [A gunman kills two people at a bar in Habikino, Japan, before turning the gun on himself. ](/news/2010/01/12/a-gunman-kills-two-people-at-a-bar-in-habikino-japan-before-turning-the-gun-on-himself.md)

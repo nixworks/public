@@ -37,7 +37,7 @@ On the eve of King Richard III&#039;s reburial, his relatives visit Bosworth Bat
 
 ##### Aftermath of the 2014-15 Yemeni coup d'etat
 ### [The Saudi Arabian Air Force launches airstrikes on Sana'a International Airport and Yemen's al Dulaimi military airport resulting in at least 17 deaths. ](/news/2015/03/26/the-saudi-arabian-air-force-launches-airstrikes-on-sana-a-international-airport-and-yemen-s-al-dulaimi-military-airport-resulting-in-at-leas.md)
-_Context: Aftermath of the 2014-15 Yemeni coup d'etat, Royal Saudi Air Force, Sana'a International Airport, Saudi Arabia, Yemen, attacks_
+_Context: Aftermath of the 2014-15 Yemeni coup d'etat, Royal Saudi Air Force, Sana'a International Airport, Saudi, Yemen, attacks_
 
 ## [Previous Day...](/news/2015/03/25/index.md)
 

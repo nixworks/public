@@ -29,7 +29,7 @@ _Context: Rome, Italy_
 
 ##### Iran
 ### [Iranian police have arrested seven Afghan border guards who had illegally crossed the border, border police chief Hossein Zolfaqari announced. ](/news/2010/10/17/iranian-police-have-arrested-seven-afghan-border-guards-who-had-illegally-crossed-the-border-border-police-chief-hossein-zolfaqari-announce.md)
-_Context: Afghanistan, Hossein Zolfaqari, Iran_
+_Context: Afghan, Hossein Zolfaqari, Iran_
 
 ##### Iraqi Prime Minister
 ### [Former Iraqi Prime Minister Ayad Allawi accuses Iran of working to destabilize the Middle East, claiming that the region is falling victim to terrorist groups backed financially by Iran. ](/news/2010/10/17/former-iraqi-prime-minister-ayad-allawi-accuses-iran-of-working-to-destabilize-the-middle-east-claiming-that-the-region-is-falling-victim-t.md)

@@ -17,7 +17,7 @@ _Context: Aerospace Industrial Development Corporation, Ching-kuo, Hsung Ying, T
 
 ##### United States District Court
 ### [ United States District Court Judge Thomas Hogan dismisses a case of alleged torture against former United States Secretary of Defense Donald Rumsfeld brought by nine former prisoners in Iraq and Afghanistan. ](/news/2007/03/27/united-states-district-court-judge-thomas-hogan-dismisses-a-case-of-alleged-torture-against-former-united-states-secretary-of-defense-donal.md)
-_Context: Afghanistan, Donald Rumsfeld, Iraq, Judge, Thomas Hogan, United States District Court, United States Secretary of Defense, torture_
+_Context: Afghan, Donald Rumsfeld, Iraq, Judge, Thomas Hogan, United States District Court, United States Secretary of Defense, torture_
 
 ##### Suicide attack
 ### [ Suicide car bombings kill at least 55 people and injure 120 in Tal Afar. ](/news/2007/03/27/suicide-car-bombings-kill-at-least-55-people-and-injure-120-in-tal-afar.md)

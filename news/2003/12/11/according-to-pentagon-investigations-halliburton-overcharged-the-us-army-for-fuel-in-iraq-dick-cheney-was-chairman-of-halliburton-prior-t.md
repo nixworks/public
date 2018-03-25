@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/12/11/according-to-pentagon-investigations-halliburto
 
 ### [2003-12-11](/news/2003/12/11/index.md)
 
-##### United States military
+##### Pentagon
 #  According to Pentagon investigations, Halliburton overcharged the US Army for fuel in Iraq. Dick Cheney was chairman of Halliburton prior to becoming Vice President of the United States. 
 
 

@@ -21,7 +21,7 @@ _Context: President, Romania, Traian Basescu, go to the polls, impeachment_
 
 ##### German
 ### [ Three German soldiers are killed with four civilians in a suicide bombing in Kunduz in northern Afghanistan. ](/news/2007/05/19/three-german-soldiers-are-killed-with-four-civilians-in-a-suicide-bombing-in-kunduz-in-northern-afghanistan.md)
-_Context: Afghanistan, German, Kunduz, suicide bombing_
+_Context: Afghan, German, Kunduz, suicide bombing_
 
 ##### Samoa
 ### [ Former Samoan head of state Malietoa Tanumafili II is buried in Apia. ](/news/2007/05/19/former-samoan-head-of-state-malietoa-tanumafili-ii-is-buried-in-apia.md)

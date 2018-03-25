@@ -17,7 +17,7 @@ Seventy-year old woman latest to die as protesters face off with police for a se
 
 ##### Parliament
 ### [The Verkhovna Rada appoints Volodmyr Groysman as the Prime Minister of Ukraine, replacing Arseny Yatseniuk. ](/news/2016/04/14/the-verkhovna-rada-appoints-volodmyr-groysman-as-the-prime-minister-of-ukraine-replacing-arseny-yatseniuk.md)
-_Context: Arseny Yatseniuk, Prime Minister of Ukraine, Volodmyr Groysman, parliament_
+_Context: Arseny Yatseniuk, Parliament, Prime Minister of Ukraine, Volodmyr Groysman_
 
 ##### Microsoft
 ### [The U.S. company Microsoft has sued the United States, alleging that it has been prevented from disclosing warrants to the company's customers in violation of the company's constitutional rights. ](/news/2016/04/14/the-u-s-company-microsoft-has-sued-the-united-states-alleging-that-it-has-been-prevented-from-disclosing-warrants-to-the-companyas-custo.md)
@@ -49,7 +49,7 @@ In separate incident, two 12-year-old Palestinian kids arrested with knives in J
 
 ##### War in Afghanistan (2015-present)
 ### [Taliban militants kill eight people, including a police commander, in an ambush in northern Afghanistan. ](/news/2016/04/14/taliban-militants-kill-eight-people-including-a-police-commander-in-an-ambush-in-northern-afghanistan.md)
-_Context: Afghanistan, Taliban, War in Afghanistan (2015-present), police_
+_Context: Afghan, Taliban, War in Afghanistan (2015-present), police_
 
 ## [Previous Day...](/news/2016/04/13/index.md)
 

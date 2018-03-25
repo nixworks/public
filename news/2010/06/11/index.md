@@ -51,7 +51,7 @@ _Context: Arizona, Eagar, Round Valley High School_
 ### [Pope Benedict XVI begs for forgiveness from God and from those who have been abused as children by priests. ](/news/2010/06/11/pope-benedict-xvi-begs-for-forgiveness-from-god-and-from-those-who-have-been-abused-as-children-by-priests.md)
 Pope Benedict made his humblest plea for forgiveness yet for the paedophile priest scandals that have shaken faith in the Roman Catholic Church.
 
-##### Afghanistan
+##### Afghan
 ### [At least 11 civilians and two US soldiers are killed in southern Afghanistan: 9 of the civilian deaths are in a roadside bomb on a minibus in Kandahar. ](/news/2010/06/11/at-least-11-civilians-and-two-us-soldiers-are-killed-in-southern-afghanistan-9-of-the-civilian-deaths-are-in-a-roadside-bomb-on-a-minibus-i.md)
 Thirteen people die in explosions as fighters step up attacks in southern Afghanistan.
 

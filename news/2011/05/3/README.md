@@ -25,7 +25,7 @@ The murder of a lesbian activist who was stoned and stabbed to death is part of 
 
 ##### Iranian police
 ### [Iranian police clash with protesters at a club soccer match between Piroozi Athletic and Saudi Arabia's Ittihad FC. ](/news/2011/05/3/iranian-police-clash-with-protesters-at-a-club-soccer-match-between-piroozi-athletic-and-saudi-arabia-s-ittihad-fc.md)
-_Context: Iranian police, Ittihad FC, Piroozi Athletic, Saudi Arabia, soccer_
+_Context: Iranian police, Ittihad FC, Piroozi Athletic, Saudi, soccer_
 
 ##### Sellafield
 ### [Five people are arrested near the Sellafield nuclear power plant in Cumbria, England, under the Terrorism Act. ](/news/2011/05/3/five-people-are-arrested-near-the-sellafield-nuclear-power-plant-in-cumbria-england-under-the-terrorism-act.md)

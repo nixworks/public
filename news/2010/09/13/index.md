@@ -5,7 +5,7 @@ Formats: [HTML](2010/09/13/index.html)  [JSON](2010/09/13/index.json)  [XML](201
 
 #####  Congress
 ### [US defense officials claim they are preparing to notify Congress of plans to sell $60 billion of military equipment to Saudi Arabia. ](/news/2010/09/13/us-defense-officials-claim-they-are-preparing-to-notify-congress-of-plans-to-sell-60-billion-of-military-equipment-to-saudi-arabia.md)
-_Context:  Congress, Saudi Arabia_
+_Context:  Congress, Saudi_
 
 ##### Andre-Joseph Leonard
 ### [Andre-Joseph Leonard, the Archbishopric of Mechelen-Brussels and head of Belgium's Roman Catholic Church, announces how the church will deal with widespread cases of sexual abuse within its ranks. ](/news/2010/09/13/andra-c-joseph-la-c-onard-the-archbishopric-of-mechelen-brussels-and-head-of-belgium-s-roman-catholic-church-announces-how-the-church-will-de.md)

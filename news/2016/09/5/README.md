@@ -49,7 +49,7 @@ _Context: Philippine mines, Rodrigo Duterte_
 
 ##### Russia-Saudi Arabia relations
 ### [Russia and Saudi Arabia agree on a plan to manipulate oil output. ](/news/2016/09/5/russia-and-saudi-arabia-agree-on-a-plan-to-manipulate-oil-output.md)
-_Context: Russia, Russia-Saudi Arabia relations, Saudi Arabia, oil_
+_Context: Russia, Russia-Saudi Arabia relations, Saudi, oil_
 
 ##### Conservative
 ### [American Conservative icon Phyllis Schafly dies at the age of 92. ](/news/2016/09/5/american-conservative-icon-phyllis-schafly-dies-at-the-age-of-92.md)

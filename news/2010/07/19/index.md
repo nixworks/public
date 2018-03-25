@@ -73,7 +73,7 @@ _Context: African Union, Uganda, United States, terrorism_
 
 ##### Kabul
 ### [Scores of checkpoints appear overnight as 70 countries prepare to attend a conference in Kabul on the future of Afghanistan. ](/news/2010/07/19/scores-of-checkpoints-appear-overnight-as-70-countries-prepare-to-attend-a-conference-in-kabul-on-the-future-of-afghanistan.md)
-_Context: Afghanistan, Kabul_
+_Context: Afghan, Kabul_
 
 ##### President
 ### [President of Iran Mahmoud Ahmadinejad asks that the United States stop using what he describes as "cowboy logic" if it wants to engage in dialogue with Iran over its nuclear programme, adding that he would support negotiations. ](/news/2010/07/19/president-of-iran-mahmoud-ahmadinejad-asks-that-the-united-states-stop-using-what-he-describes-as-cowboy-logic-if-it-wants-to-engage-in-di.md)

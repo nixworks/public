@@ -27,17 +27,17 @@ _Context: George W. Bush, July, National Intelligence Council, The New York Time
 ### [ Indonesia sentences Islamic militant "Ismail", also known as Ricky Putranto, to 12 years in prison for his role in the bombing of a Marriott hotel in Jakarta last year. ](/news/2004/09/16/indonesia-sentences-islamic-militant-ismail-also-known-as-ricky-putranto-to-12-years-in-prison-for-his-role-in-the-bombing-of-a-marriot.md)
 _Context: 2003 Marriott Hotel bombing, Indonesia, Jakarta, Ricky Putranto_
 
-##### Afghanistan
+##### Afghan
 ### [ Afghan President Hamid Karzai survives an assassination attempt when a rocket misses his helicopter, bound for the city of Gardez, by some 300 yards (275 m). The helicopter returned to Kabul. ](/news/2004/09/16/afghan-president-hamid-karzai-survives-an-assassination-attempt-when-a-rocket-misses-his-helicopter-bound-for-the-city-of-gardez-by-some.md)
-_Context: Afghanistan, Gardez, Hamid Karzai, Kabul_
+_Context: Afghan, Gardez, Hamid Karzai, Kabul_
 
 ##### Manitoba
 ### [ Manitoba becomes the fourth province, and the fifth jurisdiction, in Canada to legalize same-sex marriage. ](/news/2004/09/16/manitoba-becomes-the-fourth-province-and-the-fifth-jurisdiction-in-canada-to-legalize-same-sex-marriage.md)
 _Context: Manitoba, Same-sex marriage in Canada_
 
-##### Saudi Arabia
+##### Saudi
 ### [ Prominent Saudis reject yesterday's declaration by the U.S. State Department that Saudi Arabia severely restricts religious freedom, arguing that the report that made the declaration was politically motivated. ](/news/2004/09/16/prominent-saudis-reject-yesterday-s-declaration-by-the-u-s-state-department-that-saudi-arabia-severely-restricts-religious-freedom-arguin.md)
-_Context: Saudi Arabia, State Department, religious freedom_
+_Context: Saudi, State Department, religious freedom_
 
 ## [Previous Day...](/news/2004/09/15/index.md)
 

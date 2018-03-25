@@ -53,7 +53,7 @@ _Context: Mahmoud Ahmadinejad, President, United Nations Security Council, Unite
 
 ##### Taliban
 ### [ A Taliban attack on a convoy carrying supplies to foreign troops in southern Afghanistan kills 17 Afghan security guards and drivers. ](/news/2007/03/23/a-taliban-attack-on-a-convoy-carrying-supplies-to-foreign-troops-in-southern-afghanistan-kills-17-afghan-security-guards-and-drivers.md)
-_Context: Afghanistan, Taliban, convoy_
+_Context: Afghan, Taliban, convoy_
 
 ##### Jorge Noguera
 ### [ Jorge Noguera, former Colombian intelligence chief, is freed from prison following a ruling by an appeals court after having been jailed last month for collaborating with right wing militia. ](/news/2007/03/23/jorge-noguera-former-colombian-intelligence-chief-is-freed-from-prison-following-a-ruling-by-an-appeals-court-after-having-been-jailed-la.md)

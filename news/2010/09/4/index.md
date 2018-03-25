@@ -17,7 +17,7 @@ Demonstrations&#x20;are&#x20;planned&#x20;for&#x20;Saturday&#x20;across&#x20;Fra
 
 ##### Sakineh Mohammadi Ashtiani
 ### [Sakineh Mohammadi Ashtiani, convicted of adultery and sentenced to death in Iran, reportedly faces the whip after "The Times" publishes an unveiled image of political activist Susan Hejrat in the mistaken belief it is her. ](/news/2010/09/4/sakineh-mohammadi-ashtiani-convicted-of-adultery-and-sentenced-to-death-in-iran-reportedly-faces-the-whip-after-the-times-publishes-an-u.md)
-_Context: Iran, Sakineh Mohammadi Ashtiani, Susan Hejrat, Times, adultery_
+_Context: Iran, Sakineh Mohammadi Ashtiani, Susan Hejrat, The Times, adultery_
 
 ##### Argentina
 ### [A court in Argentina reopens an investigation into crimes against humanity under Francisco Franco in Spain. ](/news/2010/09/4/a-court-in-argentina-reopens-an-investigation-into-crimes-against-humanity-under-francisco-franco-in-spain.md)
@@ -67,7 +67,7 @@ Four people were arrested during minor scuffles between gardaí and anti-war pro
 ### [2 Azeri soldiers are killed in fighting near Nagorno-Karabakh, the second incident of clashes within a week. ](/news/2010/09/4/2-azeri-soldiers-are-killed-in-fighting-near-nagorno-karabakh-the-second-incident-of-clashes-within-a-week.md)
 _Context: Azerbaijan, Nagorno-Karabakh region_
 
-##### Afghanistan
+##### Afghan
 ### [2 attacks kill at least 10 people and wound at least 28 others in Afghanistan. ](/news/2010/09/4/2-attacks-kill-at-least-10-people-and-wound-at-least-28-others-in-afghanistan.md)
 Two separate bombings in Kandahar and Kunduz kill at least 10 people, including four police officers.
 

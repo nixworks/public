@@ -21,7 +21,7 @@ _Context: Federal Reserve, United States_
 
 ##### Arizona
 ### [Arizona Governor Jan Brewer vetoes a bill that would have allowed businesses to discriminate, based on their religion, against LGBT people. ](/news/2014/02/27/arizona-governor-jan-brewer-vetoes-a-bill-that-would-have-allowed-businesses-to-discriminate-based-on-their-religion-against-lgbt-people.md)
-_Context: Arizona, Jan Brewer, gay and bisexual men_
+_Context: Arizona, Jan Brewer, transgender_
 
 ##### Amnesty International
 ### [Amnesty International accuses Israel of willfully committing war crimes against the Palestinians. ](/news/2014/02/27/amnesty-international-accuses-israel-of-willfully-committing-war-crimes-against-the-palestinians.md)

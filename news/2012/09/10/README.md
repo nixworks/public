@@ -65,7 +65,7 @@ _Context: Ground Zero, National September 11 Memorial & Museum, New York City_
 
 ##### Kunduz
 ### [A suicide bombing in Kunduz, Afghanistan, kills at least 16 people; a local doctor says "21 or more". ](/news/2012/09/10/a-suicide-bombing-in-kunduz-afghanistan-kills-at-least-16-people-a-local-doctor-says-21-or-more.md)
-_Context: Afghanistan, Kunduz_
+_Context: Afghan, Kunduz_
 
 ##### Yemen
 ### [Yemeni officials report that Said al Shihri, the second-in-command of Al Qaeda in the Arabian Peninsula (AQAP), is killed in southern Yemen. ](/news/2012/09/10/yemeni-officials-report-that-said-al-shihri-the-second-in-command-of-al-qaeda-in-the-arabian-peninsula-aqap-is-killed-in-southern-yemen.md)

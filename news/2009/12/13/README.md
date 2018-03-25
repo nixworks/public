@@ -49,7 +49,7 @@ News and opinion from The Times &amp; The Sunday Times
 
 ##### Prime Minister
 ### [ British Prime Minister Gordon Brown makes an unannounced visit to Afghanistan to support British forces deployed as part of the International Security Assistance Force and to hold talks with Afghan President Hamid Karzai. ](/news/2009/12/13/british-prime-minister-gordon-brown-makes-an-unannounced-visit-to-afghanistan-to-support-british-forces-deployed-as-part-of-the-internation.md)
-_Context: Afghan President, Afghanistan, British military personnel, Gordon Brown, Hamid Karzai, International Security Assistance Force, Prime Minister_
+_Context: Afghan, Afghan President, British military personnel, Gordon Brown, Hamid Karzai, International Security Assistance Force, Prime Minister_
 
 ##### Prime Minister
 ### [ Former British Prime Minister Tony Blair states in an interview that he would have gone to war in Iraq even if he had known that it had no weapons of mass destruction. ](/news/2009/12/13/former-british-prime-minister-tony-blair-states-in-an-interview-that-he-would-have-gone-to-war-in-iraq-even-if-he-had-known-that-it-had-no.md)

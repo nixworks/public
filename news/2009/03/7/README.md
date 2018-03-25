@@ -7,7 +7,7 @@ Formats: [HTML](2009/03/7/index.html)  [JSON](2009/03/7/index.json)  [XML](2009/
 ### [ Amsterdam's Schiphol Airport holds a memorial ceremony for the nine victims of Turkish Airlines Flight 1951. ](/news/2009/03/7/amsterdam-s-schiphol-airport-holds-a-memorial-ceremony-for-the-nine-victims-of-turkish-airlines-flight-1951.md)
 _Context: Amsterdam, Amsterdam Airport Schiphol, Flight 1951, Turkish Airlines, ceremony, memorial_
 
-##### Afghanistan
+##### Afghan
 ### [ Afghan President Hamid Karzai accepts the Electoral Commission's decision to hold a presidential election on August 20. ](/news/2009/03/7/afghan-president-hamid-karzai-accepts-the-electoral-commission-s-decision-to-hold-a-presidential-election-on-august-20.md)
 Afghan president abandons move to bring forward poll and agrees to August 20 vote.
 

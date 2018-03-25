@@ -31,9 +31,9 @@ Get the latest science news and technology news, read tech reviews and more at A
 ### [ Israeli-Palestinian conflict: The Gaza Strip has been completely sealed off by Israel, following yesterday's events which saw the first major attacks by Palestinians on Israeli civilians since Mahmoud Abbas was elected, and followed several Israeli raids in the Gaza Strip and the West Bank. ](/news/2005/01/14/israeliapalestinian-conflict-the-gaza-strip-has-been-completely-sealed-off-by-israel-following-yesterday-s-events-which-saw-the-first-m.md)
 _Context: Gaza Strip, Israel, Israeli-Palestinian conflict, Mahmoud Abbas, Palestinians, West Bank_
 
-##### Saudi Arabia
+##### Saudi
 ### [ Saudi Arabia's supreme judicial council announced that the ritual of the Day of Arafah would take place Wednesday rather than Thursday as expected. This means that Eid ul-Adha will begin a day earlier than thought. ](/news/2005/01/14/saudi-arabia-s-supreme-judicial-council-announced-that-the-ritual-of-the-day-of-arafah-would-take-place-wednesday-rather-than-thursday-as-e.md)
-_Context: Day of Arafah, Eid ul-Adha, Saudi Arabia, supreme judicial council_
+_Context: Day of Arafah, Eid ul-Adha, Saudi, supreme judicial council_
 
 ## [Previous Day...](/news/2005/01/13/index.md)
 

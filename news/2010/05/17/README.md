@@ -25,7 +25,7 @@ _Context: China, Foshan, suicide_
 
 ##### Pamir Airways
 ### [A Pamir Airways plane with 43 people on board crashes in Afghanistan between the cities of Kabul and Kunduz. ](/news/2010/05/17/a-pamir-airways-plane-with-43-people-on-board-crashes-in-afghanistan-between-the-cities-of-kabul-and-kunduz.md)
-_Context: Afghanistan, Kabul, Kunduz, Pamir Airways, crashes_
+_Context: Afghan, Kabul, Kunduz, Pamir Airways, crashes_
 
 ##### Naxalite
 ### [Naxalite insurgents blow up a bus in India filled with police and para-militaries, 50 are feared killed. ](/news/2010/05/17/naxalite-insurgents-blow-up-a-bus-in-india-filled-with-police-and-para-militaries-50-are-feared-killed.md)

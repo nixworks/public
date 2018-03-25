@@ -73,7 +73,7 @@ Bharat bandh on Monday partially disrupted economic activities with commodity ma
 
 ##### Police
 ### [Afghan Police and international forces kill 64 people in a three-day drug bust operation in Helmand province, Afghanistan, and destroy 16,641 kilograms (36,687 pounds) of narcotics. ](/news/2010/07/5/afghan-police-and-international-forces-kill-64-people-in-a-three-day-drug-bust-operation-in-helmand-province-afghanistan-and-destroy-16-64.md)
-_Context: Afghanistan, Helmand, International Security Assistance Force, narcotic, police_
+_Context: Afghan, Helmand, International Security Assistance Force, narcotic, police_
 
 ##### Iran
 ### [Iran accuses Germany, United Arab Emirates and United Kingdom of refusing to provide fuel to its passenger planes. ](/news/2010/07/5/iran-accuses-germany-united-arab-emirates-and-united-kingdom-of-refusing-to-provide-fuel-to-its-passenger-planes.md)
@@ -89,7 +89,7 @@ _Context: AK-47s, AMISOM, African Union, Mogadishu, Somali, high-powered rifles,
 
 ##### Imam
 ### [Imam Ahmad Afzali leaves the United States for Saudi Arabia, under plea deal in the case involving Najibullah Zazi's alleged plan to bomb the New York City subway. ](/news/2010/07/5/imam-ahmad-afzali-leaves-the-united-states-for-saudi-arabia-under-plea-deal-in-the-case-involving-najibullah-zazi-s-alleged-plan-to-bomb-th.md)
-_Context: Ahmad Afzali, Imam, Najibullah Zazi, New York City subway, Saudi Arabia, United States_
+_Context: Ahmad Afzali, Imam, Najibullah Zazi, New York City subway, Saudi, United States_
 
 ##### Australia
 ### [Australia celebrates indigenous culture with NAIDOC Week with the 2010 theme 'Unsung Heroes - Closing the Gap by Leading Their Way'.](/news/2010/07/5/australia-celebrates-indigenous-culture-with-naidoc-week-with-the-2010-theme-unsung-heroes-closing-the-gap-by-leading-their-way.md)

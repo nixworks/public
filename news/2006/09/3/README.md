@@ -7,9 +7,9 @@ Formats: [HTML](2006/09/3/index.html)  [JSON](2006/09/3/index.json)  [XML](2006/
 ### [ The Swedish adventurer Lasse Schmidt finishes the first solo crossing of the Baltic Sea in a kayak. The crossing between Sweden and Estonia took three days to complete without sleep.](/news/2006/09/3/the-swedish-adventurer-lasse-schmidt-finishes-the-first-solo-crossing-of-the-baltic-sea-in-a-kayak-the-crossing-between-sweden-and-estonia.md)
 _Context: Estonia, Kayaking world record, Sweden_
 
-##### Afghanistan
+##### Afghan
 ### [ More than 200 Taliban rebel and four Canadian troops die in a major offensive in Kandahar. ](/news/2006/09/3/more-than-200-taliban-rebel-and-four-canadian-troops-die-in-a-major-offensive-in-kandahar.md)
-_Context: Afghanistan, Canadian, Kandahar, Taliban_
+_Context: Afghan, Canadian, Kandahar, Taliban_
 
 ##### Iraqi insurgency
 ### [ Mouwaffak al-Rubaie, Iraq's National Security Advisor, announces the capture of Hamed Jumaa Farid al-Saeedi, the second most senior figure in al-Qaeda in Iraq. ](/news/2006/09/3/mouwaffak-al-rubaie-iraq-s-national-security-advisor-announces-the-capture-of-hamed-jumaa-farid-al-saeedi-the-second-most-senior-figure.md)

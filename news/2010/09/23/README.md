@@ -21,7 +21,7 @@ _Context: Kim Jong-il, Kim Jong-un, Korean Workers' Party, North Korea_
 
 ##### Pakistan
 ### [Pakistani scientist Aafia Siddiqui is sentenced to 86 years in jail in a New York federal court for trying to kill United States soldiers in Afghanistan. ](/news/2010/09/23/pakistani-scientist-aafia-siddiqui-is-sentenced-to-86-years-in-jail-in-a-new-york-federal-court-for-trying-to-kill-united-states-soldiers-in.md)
-_Context: Aafia Siddiqui, Afghanistan, New York, Pakistan, United States_
+_Context: Aafia Siddiqui, Afghan, New York, Pakistan, United States_
 
 ##### U.S
 ### [The U.S state of Virginia executes its first woman since 1912; Teresa Lewis will also be the first woman in the U.S to be executed since 2005. ](/news/2010/09/23/the-u-s-state-of-virginia-executes-its-first-woman-since-1912-teresa-lewis-will-also-be-the-first-woman-in-the-u-s-to-be-executed-since-200.md)

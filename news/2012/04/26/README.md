@@ -45,7 +45,7 @@ _Context: California, Indonesia, United States, mad cow disease_
 
 ##### United States military personnel
 ### [Three members of the United States Armed Forces are killed in a bombing in eastern Afghanistan. ](/news/2012/04/26/three-members-of-the-united-states-armed-forces-are-killed-in-a-bombing-in-eastern-afghanistan.md)
-_Context: Afghanistan, United States military personnel_
+_Context: Afghan, United States military personnel_
 
 ##### Nigeria
 ### [Seven people are killed in Nigeria after a suicide bomber detonates a bomb in his car. The attacks took place in Abuja, at the "This Day" newspaper offices. ](/news/2012/04/26/seven-people-are-killed-in-nigeria-after-a-suicide-bomber-detonates-a-bomb-in-his-car-the-attacks-took-place-in-abuja-at-the-this-day-ne.md)

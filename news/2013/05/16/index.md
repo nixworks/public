@@ -71,7 +71,7 @@ Spike in violence comes amid tensions between the Shiite-led government and Sunn
 
 ##### Suicide bombing
 ### [Many people are killed in two suicide bombings in Afghanistan, at least fifteen of which are killed in the capital Kabul when a suicide bomber from Hizb-i-Islami, a Taliban affiliate, targeted a convoy carrying foreign troops, injuring another 40. ](/news/2013/05/16/many-people-are-killed-in-two-suicide-bombings-in-afghanistan-at-least-fifteen-of-which-are-killed-in-the-capital-kabul-when-a-suicide-bomb.md)
-_Context: Afghanistan, Hizb-i-Islami, Kabul, suicide bombing_
+_Context: Afghan, Hizb-i-Islami, Kabul, suicide bombing_
 
 ## [Previous Day...](/news/2013/05/15/index.md)
 

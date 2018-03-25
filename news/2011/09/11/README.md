@@ -21,7 +21,7 @@ _Context: Gothenburg, Sweden_
 
 ##### Car bomb
 ### [A truck bomb at a military outpost in Wardak Province, Afghanistan, kills several civilians. ](/news/2011/09/11/a-truck-bomb-at-a-military-outpost-in-wardak-province-afghanistan-kills-several-civilians.md)
-_Context: Afghanistan, Wardak Province, car bomb, military outpost_
+_Context: Afghan, Wardak Province, car bomb, military outpost_
 
 ##### Ground Zero
 ### [Memorial ceremonies are held at New York's Ground Zero and elsewhere in the United States, to commemorate the tenth anniversary of the September 11 attacks. Ceremonies are also held worldwide to mark the anniversary of the attacks. ](/news/2011/09/11/memorial-ceremonies-are-held-at-new-york-s-ground-zero-and-elsewhere-in-the-united-states-to-commemorate-the-tenth-anniversary-of-the-septe.md)

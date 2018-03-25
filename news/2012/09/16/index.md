@@ -29,7 +29,7 @@ Chinese police used pepper spray, tear gas and water cannon to break up an anti-
 
 ##### Typhoon
 ### [Super Typhoon Sanba reaches the Ryukyu Islands on its way to Korea. ](/news/2012/09/16/super-typhoon-sanba-reaches-the-ryukyu-islands-on-its-way-to-korea.md)
-_Context: Korean Peninsula, Ryukyu Islands, Typhoon, Typhoon Sanba_
+_Context: Korean, Ryukyu Islands, Typhoon, Typhoon Sanba_
 
 ##### Jandol, Lower Dir District
 ### [A roadside bomb detonates near Jandol, Lower Dir District, Pakistan, killing 14 and seriously wounding 7. ](/news/2012/09/16/a-roadside-bomb-detonates-near-jandol-lower-dir-district-pakistan-killing-14-and-seriously-wounding-7.md)

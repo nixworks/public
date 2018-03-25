@@ -39,9 +39,9 @@ _Context: Black Eyed Peas, Cannes, France, NRJ Music Awards, Rihanna, Russian Ro
 ### [North Korea says any attempt by South Korea to launch pre-emptive strikes against its nuclear facilities will be considered a declaration of war. ](/news/2010/01/24/north-korea-says-any-attempt-by-south-korea-to-launch-pre-emptive-strikes-against-its-nuclear-facilities-will-be-considered-a-declaration-of.md)
 _Context: North Korea, North Korea's nuclear program, South Korea, declaration of war, pre-emptive strike_
 
-##### Afghanistan
+##### Afghan
 ### [Afghanistan postpones its upcoming parliamentary elections to 18 September due to lack of funds and security concerns. ](/news/2010/01/24/afghanistan-postpones-its-upcoming-parliamentary-elections-to-18-september-due-to-lack-of-funds-and-security-concerns.md)
-_Context: Afghanistan, parliamentary election_
+_Context: Afghan, parliamentary election_
 
 ##### Osama Bin Laden
 ### [Osama Bin Laden claims responsibility for the failed Christmas day bombing attempt in Detroit, USA, last year. ](/news/2010/01/24/osama-bin-laden-claims-responsibility-for-the-failed-christmas-day-bombing-attempt-in-detroit-usa-last-year.md)

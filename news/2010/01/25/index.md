@@ -21,7 +21,7 @@ Taoiseach Brian Cowen is to meet British Prime Minister Gordon Brown tomorrow to
 ### [A record-breaking half a million Australians take extra time off work "sick" as Australia Day approaches. ](/news/2010/01/25/a-record-breaking-half-a-million-australians-take-extra-time-off-work-sick-as-australia-day-approaches.md)
 A record half a million Australians have chucked a sickie on Monday, ditching work in favour of a four-day long weekend, a management firm says.
 
-##### Afghanistan
+##### Afghan
 ### [An inquest into the deaths of five Afghan asylum seekers opens in Australia. ](/news/2010/01/25/an-inquest-into-the-deaths-of-five-afghan-asylum-seekers-opens-in-australia.md)
 Agitated asylum seekers saying &amp;#x201C;no Indonesia&amp;#x201D; and making cut-throat gestures had taken control of a boat from a Navy boarding party minutes before an explosion that killed five Afhganis, a coroner has heard.
 

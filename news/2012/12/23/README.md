@@ -17,7 +17,7 @@ North Korea has the ability to fire a rocket more than 10,000km, theoretically p
 
 ##### Fire
 ### [At least 600 shops are destroyed as a fire sweeps through a market and money exchange in Kabul, Afghanistan. ](/news/2012/12/23/at-least-600-shops-are-destroyed-as-a-fire-sweeps-through-a-market-and-money-exchange-in-kabul-afghanistan.md)
-_Context: Afghanistan, Kabul, fire, market, money exchange_
+_Context: Afghan, Kabul, fire, market, money exchange_
 
 ##### Train
 ### [A train derails in the Swiss Alps after ramming into mounds of snow from an avalanche blocking the tracks with no injuries. ](/news/2012/12/23/a-train-derails-in-the-swiss-alps-after-ramming-into-mounds-of-snow-from-an-avalanche-blocking-the-tracks-with-no-injuries.md)

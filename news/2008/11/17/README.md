@@ -9,7 +9,7 @@ _Context: Citigroup_
 
 ##### ''Sirius Star''
 ### [ The MV "Sirius Star", a Saudi-owned oil tanker, is captured off the coast of Somalia by pirates. This is the largest vessel to date to be hijacked by Somali pirates. ](/news/2008/11/17/the-mv-sirius-star-a-saudi-owned-oil-tanker-is-captured-off-the-coast-of-somalia-by-pirates-this-is-the-largest-vessel-to-date-to-be-h.md)
-_Context: ''Sirius Star'', Saudi Arabia, Somali, Somali pirates, oil tanker_
+_Context: ''Sirius Star'', Saudi, Somali, Somali pirates, oil tanker_
 
 ## [Previous Day...](/news/2008/11/16/index.md)
 

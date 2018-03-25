@@ -37,7 +37,7 @@ An unprecedented surge in babies born with microcephaly has driven Brazilian off
 
 ##### South Korean MERS outbreak
 ### [South Korea announces an end to the Middle East respiratory syndrome (MERS) outbreak that has killed 36 people since May 2015. The virus infected 186 people, with nearly 17,000 people confined to their homes and thousands of schools temporarily closing at the peak of the largest MERS outbreak outside Saudi Arabia, where it first appeared in 2012. ](/news/2015/12/23/south-korea-announces-an-end-to-the-middle-east-respiratory-syndrome-mers-outbreak-that-has-killed-36-people-since-may-2015-the-virus-inf.md)
-_Context: Middle East respiratory syndrome, Saudi Arabia, South Korea, South Korean MERS outbreak_
+_Context: Middle East respiratory syndrome, Saudi, South Korea, South Korean MERS outbreak_
 
 ##### Tornadoes of 2015
 ### [At least six people die and dozens injured as major storms, packed with tornadoes, move through the American South and Midwest. Three people died when a tornado hit northern Mississippi, one was killed in Arkansas and two more in Tennessee. Officials continue searching into the night for the missing. ](/news/2015/12/23/at-least-six-people-die-and-dozens-injured-as-major-storms-packed-with-tornadoes-move-through-the-american-south-and-midwest-three-people.md)

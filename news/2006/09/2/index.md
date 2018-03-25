@@ -19,9 +19,9 @@ _Context: London, anti-terrorism, restaurant_
 ### [ Offices of at least six Alaska legislators, including Republican Senate President Ben Stevens, son of the senior Republican U.S. Senator Ted Stevens, are raided by federal agents searching for possible ties between the lawmakers and VECO, an Anchorage based company whose executives are major contributors to political campaigns. ](/news/2006/09/2/offices-of-at-least-six-alaska-legislators-including-republican-senate-president-ben-stevens-son-of-the-senior-republican-u-s-senator-te.md)
 Ben Stevens, a Republican who is the State Senate president and son of Senator Ted Stevens, is among those whose offices were searched on Thursday.
 
-##### Afghanistan
+##### Afghan
 ### [ In Afghanistan, 14 British armed forces personnel are killed after their aircraft crashes in Kandahar. ](/news/2006/09/2/in-afghanistan-14-british-armed-forces-personnel-are-killed-after-their-aircraft-crashes-in-kandahar.md)
-_Context: Afghanistan, British armed forces, Kandahar, helicopter crash_
+_Context: Afghan, British armed forces, Kandahar, helicopter crash_
 
 ##### Iraqi Prime Minister
 ### [ Iraqi Prime Minister Nouri al-Maliki meets with Grand Ayatollah Ali al-Sistani in Najaf, Iraq. ](/news/2006/09/2/iraqi-prime-minister-nouri-al-maliki-meets-with-grand-ayatollah-ali-al-sistani-in-najaf-iraq.md)

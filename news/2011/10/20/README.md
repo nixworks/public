@@ -21,7 +21,7 @@ Parliament has been dissolved, marking the beginning of the formal process in th
 
 ##### Gilad Shalit prisoner exchange
 ### [Gilad Shalit prisoner exchange: The leading commander of the military wing of Hamas, Ahmed Jabari, confirms in an interview with the Saudi Arabian newspaper "Al-Hayat" that the prisoners released in exchange for captured Israeli Gilad Shalit were collectively responsible for the deaths of 569 Israeli civilians. ](/news/2011/10/20/gilad-shalit-prisoner-exchange-the-leading-commander-of-the-military-wing-of-hamas-ahmed-jabari-confirms-in-an-interview-with-the-saudi-a.md)
-_Context: Ahmed Jabari, Al-Hayat, Gilad Shalit prisoner exchange, Hamas, Israel, Saudi Arabia_
+_Context: Ahmed Jabari, Al-Hayat, Gilad Shalit prisoner exchange, Hamas, Israel, Saudi_
 
 ##### Greece
 ### [A man is killed and at least 74 people are injured in major riots in the Greek capital Athens on the second day of a nationwide general strike, as Greeks protest in their thousands against new austerity measures intended to alleviate the country's ongoing debt crisis. ](/news/2011/10/20/a-man-is-killed-and-at-least-74-people-are-injured-in-major-riots-in-the-greek-capital-athens-on-the-second-day-of-a-nationwide-general-stri.md)

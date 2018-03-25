@@ -37,7 +37,7 @@ The Iraqi city of Ramadi falls to IS militants after troops abandoned their posi
 
 ##### Taliban
 ### [A suicide attack by the Taliban kills three and injures at least eighteen outside Kabul International Airport in Afghanistan. ](/news/2015/05/17/a-suicide-attack-by-the-taliban-kills-three-and-injures-at-least-eighteen-outside-kabul-international-airport-in-afghanistan.md)
-_Context: Afghanistan, Kabul International Airport, Taliban_
+_Context: Afghan, Kabul International Airport, Taliban_
 
 ## [Previous Day...](/news/2015/05/16/index.md)
 

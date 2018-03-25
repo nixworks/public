@@ -49,7 +49,7 @@ _Context: Boris Yeltsin, President of Russia, Russia, Russian government_
 
 ##### Italy
 ### [ Italy holds a state funeral for six soldiers killed in Afghanistan last week. ](/news/2009/09/21/italy-holds-a-state-funeral-for-six-soldiers-killed-in-afghanistan-last-week.md)
-_Context: Afghanistan, Italy, state funeral_
+_Context: Afghan, Italy, state funeral_
 
 ##### South Africa
 ### [ South African President Jacob Zuma admits disagreements do exist between the ANC and the trade union federation (COSATU)&mdash;one of its main political partners. ](/news/2009/09/21/south-african-president-jacob-zuma-admits-disagreements-do-exist-between-the-anc-and-the-trade-union-federation-cosatu-mdash-one-of-its-m.md)

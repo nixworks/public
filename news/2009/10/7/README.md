@@ -35,9 +35,9 @@ _Context: France, French naval, Somali, Somali pirates_
 ### [ Burmese National League for Democracy leader Aung San Suu Kyi meets for a second time with the ruling junta after her offer to lobby for nations to lift sanctions on the country. ](/news/2009/10/7/burmese-national-league-for-democracy-leader-aung-san-suu-kyi-meets-for-a-second-time-with-the-ruling-junta-after-her-offer-to-lobby-for-na.md)
 _Context: Aung San Suu Kyi, Burma, National League for Democracy, State Peace and Development Council_
 
-##### Saudi Arabia
+##### Saudi
 ### [ A Saudi man, Mazen Abdul-Jawad, is sentenced to five years imprisonment and 1,000 lashes after bragging about sex on a TV talk show. ](/news/2009/10/7/a-saudi-man-mazen-abdul-jawad-is-sentenced-to-five-years-imprisonment-and-1-000-lashes-after-bragging-about-sex-on-a-tv-talk-show.md)
-_Context: Mazen Abdul-Jawad, Saudi Arabia_
+_Context: Mazen Abdul-Jawad, Saudi_
 
 ##### Guinea
 ### [ The opposition in Guinea urges Captain Moussa Dadis Camara, head of the ruling junta, to resign. ](/news/2009/10/7/the-opposition-in-guinea-urges-captain-moussa-dadis-camara-head-of-the-ruling-junta-to-resign.md)

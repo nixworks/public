@@ -13,7 +13,7 @@ WASHINGTON -- Energy Secretary Steven Chu said he is leaving the Obama administr
 
 ##### Muqrin bin Abdulaziz Al Saud
 ### [Muqrin bin Abdulaziz Al Saud, the former head of Saudi Arabia's Intelligence Directorate, is appointed second deputy Prime Minister, making him second in line to the Saudi throne. ](/news/2013/02/1/muqrin-bin-abdulaziz-al-saud-the-former-head-of-saudi-arabia-s-intelligence-directorate-is-appointed-second-deputy-prime-minister-making.md)
-_Context: Intelligence Directorate, Muqrin bin Abdulaziz Al Saud, Prime Minister, Saudi Arabia, Saudi King, Succession to the Saudi Arabian throne_
+_Context: Intelligence Directorate, Muqrin bin Abdulaziz Al Saud, Prime Minister, Saudi, Saudi King, Succession to the Saudi Arabian throne_
 
 ##### Chris Evans
 ### [Chris Evans, the leader of Australian Labor Party in the Senate, announces his resignation from the Ministry of Education. ](/news/2013/02/1/chris-evans-the-leader-of-australian-labor-party-in-the-senate-announces-his-resignation-from-the-ministry-of-education.md)

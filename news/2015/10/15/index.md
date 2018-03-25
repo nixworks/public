@@ -21,7 +21,7 @@ _Context: Australia, Sydney_
 
 ##### The Intercept
 ### [A cache of classified intelligence documents published from The Intercept, released by an anonymous whistleblower, highlight details surrounding post-September 11 attacks United States drone strikes in Afghanistan, Somalia, and Yemen, alleging that the United States conducts these strikes under extremely unreliable information and faulty pretenses. ](/news/2015/10/15/a-cache-of-classified-intelligence-documents-published-from-the-intercept-released-by-an-anonymous-whistleblower-highlight-details-surroun.md)
-_Context: Afghanistan, September 11 attacks, Somali, The Intercept, United States, Yemen, whistleblower_
+_Context: Afghan, September 11 attacks, Somali, The Intercept, United States, Yemen, whistleblower_
 
 ##### 2015 Parramatta shooting
 ### [Rahan Alou and Talal Alameddine are charged with assisting Farhad Jabar to kill New South Wales Police Force accountant Curtis Cheng in Parramatta, Australia on 2 October 2015. ](/news/2015/10/15/rahan-alou-and-talal-alameddine-are-charged-with-assisting-farhad-jabar-to-kill-new-south-wales-police-force-accountant-curtis-cheng-in-parr.md)

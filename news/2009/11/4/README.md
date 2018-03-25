@@ -65,7 +65,7 @@ The Israeli navy yesterday seized a ship carrying what defence officials said wa
 
 ##### Houthis
 ### [ Rebel Houthis in Yemen cross the border into Saudi Arabia, killing a Saudi security officer and injuring 11 others. ](/news/2009/11/4/rebel-houthis-in-yemen-cross-the-border-into-saudi-arabia-killing-a-saudi-security-officer-and-injuring-11-others.md)
-_Context: Houthis, Saudi Arabia, Shia insurgency in Yemen, Yemen_
+_Context: Houthis, Saudi, Shia insurgency in Yemen, Yemen_
 
 ##### New York Yankees
 ### [ The New York Yankees defeat the Philadelphia Phillies 7-3 in Game 6 to win the 2009 World Series. ](/news/2009/11/4/the-new-york-yankees-defeat-the-philadelphia-phillies-7-3-in-game-6-to-win-the-2009-world-series.md)

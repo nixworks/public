@@ -71,7 +71,7 @@ _Context: Pakistan, Quetta_
 
 ##### Bara
 ### [Three troops were killed when a roadside blast struck a military vehicle in Bara area of Khyber, one of the seven tribal agencies in Pakistan's restive northwest bordering Afghanistan. ](/news/2010/09/22/three-troops-were-killed-when-a-roadside-blast-struck-a-military-vehicle-in-bara-area-of-khyber-one-of-the-seven-tribal-agencies-in-pakista.md)
-_Context: Afghanistan, Bara, Khyber Agency, Pakistan_
+_Context: Afghan, Bara, Khyber Agency, Pakistan_
 
 ## [Previous Day...](/news/2010/09/21/index.md)
 

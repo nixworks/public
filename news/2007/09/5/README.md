@@ -41,7 +41,7 @@ _Context: Gaza Strip, Israel_
 
 ##### War in Afghanistan (2001-present)
 ### [ War in Afghanistan: Afghan and U.S led coalition forces kill 20 insurgents while two Afghan policeman die in a bomb attack. ](/news/2007/09/5/war-in-afghanistan-afghan-and-u-s-led-coalition-forces-kill-20-insurgents-while-two-afghan-policeman-die-in-a-bomb-attack.md)
-_Context: Afghanistan, United States, War in Afghanistan (2001-present)_
+_Context: Afghan, United States, War in Afghanistan (2001-present)_
 
 ##### Terrorism
 ### [ Three suspects arrested on terrorism charges yesterday appear before the Federal Court of Justice of Germany in Karlsruhe. ](/news/2007/09/5/three-suspects-arrested-on-terrorism-charges-yesterday-appear-before-the-federal-court-of-justice-of-germany-in-karlsruhe.md)

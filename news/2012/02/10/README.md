@@ -11,7 +11,7 @@ The former president of the Maldives, Mohamed Nasheed, on Friday demanded new el
 ### [Firefighters hose down the Belgian prime minister's office in protest over plans to increase their retirement age. ](/news/2012/02/10/firefighters-hose-down-the-belgian-prime-minister-s-office-in-protest-over-plans-to-increase-their-retirement-age.md)
 _Context: Belgium_
 
-##### Saudi Arabia
+##### Saudi
 ### [A Saudi blogger is detained by Malaysian police after fleeing Saudi Arabia for allegedly insulting the Prophet Muhammad. ](/news/2012/02/10/a-saudi-blogger-is-detained-by-malaysian-police-after-fleeing-saudi-arabia-for-allegedly-insulting-the-prophet-muhammad.md)
 Hamza Kashgari detained after apparently fleeing kingdom after being accused of insulting Prophet Muhammad on Twitter.
 
@@ -85,7 +85,7 @@ _Context: Alabama, CIA, United States, hacker group Anonymous_
 
 ##### United States Secretary of Defense
 ### [The United States Secretary of Defense Leon Panetta tells the Marine Corps to re-investigate and take appropriate action against snipers who posed with a logo resembling that of the Nazi Schutzstaffel in Afghanistan. ](/news/2012/02/10/the-united-states-secretary-of-defense-leon-panetta-tells-the-marine-corps-to-re-investigate-and-take-appropriate-action-against-snipers-who.md)
-_Context: Afghanistan, Leon Panetta, Marine, Nazi, Schutzstaffel, United States Secretary of Defense, sniper_
+_Context: Afghan, Leon Panetta, Marine, Nazi, Schutzstaffel, United States Secretary of Defense, sniper_
 
 ##### Somaliland
 ### [Secessionists battle with forces from Somaliland near the border with Puntland in northern Somalia. ](/news/2012/02/10/secessionists-battle-with-forces-from-somaliland-near-the-border-with-puntland-in-northern-somalia.md)

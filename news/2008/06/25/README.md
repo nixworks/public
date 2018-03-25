@@ -19,9 +19,9 @@ _Context: Henderson, Kentucky, plastics plant_
 ### [ The Supreme Court of Pakistan delays by-elections until it can handle the appeal of disqualified candidate Nawaz Sharif, former Prime Minister and leader of the Pakistan Muslim League (N). ](/news/2008/06/25/the-supreme-court-of-pakistan-delays-by-elections-until-it-can-handle-the-appeal-of-disqualified-candidate-nawaz-sharif-former-prime-minis.md)
 _Context: Nawaz Sharif, Pakistan, Pakistan Muslim League, Prime Minister, Supreme Court, by-elections_
 
-##### Saudi Arabia
+##### Saudi
 ### [ Saudi Arabia announces that it is holding 520 al-Qaeda-linked militants in the insurgency in Saudi Arabia arrested in 2008. ](/news/2008/06/25/saudi-arabia-announces-that-it-is-holding-520-al-qaeda-linked-militants-in-the-insurgency-in-saudi-arabia-arrested-in-2008.md)
-_Context: Saudi Arabia, al-Qaeda, insurgency in Saudi Arabia_
+_Context: Saudi, al-Qaeda, insurgency in Saudi Arabia_
 
 ##### Italian Senate
 ### [ The Italian Senate passes a bill which the opposition claims is designed to ameliorate the legal troubles of Prime Minister Silvio Berlusconi. ](/news/2008/06/25/the-italian-senate-passes-a-bill-which-the-opposition-claims-is-designed-to-ameliorate-the-legal-troubles-of-prime-minister-silvio-berlusco.md)

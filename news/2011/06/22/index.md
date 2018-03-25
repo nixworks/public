@@ -45,7 +45,7 @@ _Context: North Korea, South Korea, refugee_
 
 ##### Indonesia
 ### [Indonesia bans its domestic servants from working in Saudi Arabia following the execution of a maid who was beheaded with a sword. ](/news/2011/06/22/indonesia-bans-its-domestic-servants-from-working-in-saudi-arabia-following-the-execution-of-a-maid-who-was-beheaded-with-a-sword.md)
-_Context: Indonesia, Saudi Arabia_
+_Context: Indonesia, Saudi_
 
 ##### Tornado
 ### [A tornado touches down in the US city of Louisville, Kentucky near the University of Louisville Belknap campus, damaging some buildings at the Churchill Downs horse racing track. ](/news/2011/06/22/a-tornado-touches-down-in-the-us-city-of-louisville-kentucky-near-the-university-of-louisville-belknap-campus-damaging-some-buildings-at-t.md)

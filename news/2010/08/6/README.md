@@ -43,7 +43,7 @@ Hip hop star Wyclef Jean formally registers to stand for president of his native
 ### [Brazil's four main presidential election candidates participate in their first televised debate. ](/news/2010/08/6/brazil-s-four-main-presidential-election-candidates-participate-in-their-first-televised-debate.md)
 _Context: Brazil, Brazilian presidential election_
 
-##### United States military
+##### Pentagon
 ### [The Pentagon makes a demand to Wikileaks that it remove its collection of classified military documents from the internet. ](/news/2010/08/6/the-pentagon-makes-a-demand-to-wikileaks-that-it-remove-its-collection-of-classified-military-documents-from-the-internet.md)
 The Pentagon demands that Wikileaks remove secret US documents on the Afghan war from its website and cancel plans to publish any more it holds.
 
@@ -79,7 +79,7 @@ _Context: Bosnian, Brooklyn, New York, New York City, United States District Cou
 ### [Thousands of people attend the public flagellation of 5 people in Aceh amid requests that the practice be banned. ](/news/2010/08/6/thousands-of-people-attend-the-public-flagellation-of-5-people-in-aceh-amid-requests-that-the-practice-be-banned.md)
 Five people are caned in public in the Indonesian province of Aceh, despite calls by human rights groups to ban flogging.
 
-##### Saudi Arabia
+##### Saudi
 ### [Saudi Arabia's ban of online functions on BlackBerry mobile phones is implemented. ](/news/2010/08/6/saudi-arabia-s-ban-of-online-functions-on-blackberry-mobile-phones-is-implemented.md)
 A ban on the use of Blackberry phones to send and receive messages is being rolled out in Saudi Arabia, users say.
 

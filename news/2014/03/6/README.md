@@ -41,7 +41,7 @@ _Context: Getty Images, free use_
 
 ##### Pope Francis
 ### [Pope Francis acknowledges that civil unions for LGBT people is a governmental move for economic and health management. ](/news/2014/03/6/pope-francis-acknowledges-that-civil-unions-for-lgbt-people-is-a-governmental-move-for-economic-and-health-management.md)
-_Context: Pope Francis, civil union, gay and bisexual men_
+_Context: Pope Francis, civil union, transgender_
 
 ## [Previous Day...](/news/2014/03/5/index.md)
 

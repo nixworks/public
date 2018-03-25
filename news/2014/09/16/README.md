@@ -35,7 +35,7 @@ Jihadists shot down a Syrian warplane conducting strikes on the Islamic State st
 ### [Six Egyptian police officers are killed and three wounded following a roadside bombing in the Sinai peninsula. ](/news/2014/09/16/six-egyptian-police-officers-are-killed-and-three-wounded-following-a-roadside-bombing-in-the-sinai-peninsula.md)
 Six Egyptian policemen have been killed by a roadside bomb in the Sinai peninsula, the interior ministry says.
 
-##### Afghanistan
+##### Afghan
 ### [A large bomb explodes in Afghan capital Kabul resulting in at least three deaths of international troops and five injuries. ](/news/2014/09/16/a-large-bomb-explodes-in-afghan-capital-kabul-resulting-in-at-least-three-deaths-of-international-troops-and-five-injuries.md)
 A Taliban suicide car bomber attacks a foreign military convoy in the Afghan capital, Kabul, killing three Nato personnel and injuring at least 16 civilians.
 

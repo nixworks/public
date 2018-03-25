@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/3/the-u-s-pentagon-alleges-that-iran-has-violated-
 
 ### [2010-07-3](/news/2010/07/3/index.md)
 
-##### United States military
+##### Pentagon
 # The U.S. Pentagon alleges that Iran has violated United Nations sanctions against itself by providing an advanced radar system to Syria, a system the Pentagon claims would hurt Israel's ability to launch surprise attacks against Iran. 
 
 

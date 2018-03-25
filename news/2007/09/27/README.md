@@ -17,7 +17,7 @@ _Context: 2007 Pakistani presidential election, Pakistan, Pervez Musharraf, pres
 
 ##### International Red Cross
 ### [ Four employees of the International Red Cross, including two foreigners, are abducted in Afghanistan's Wardak province. ](/news/2007/09/27/four-employees-of-the-international-red-cross-including-two-foreigners-are-abducted-in-afghanistan-s-wardak-province.md)
-_Context: Afghanistan, International Red Cross, Wardak province_
+_Context: Afghan, International Red Cross, Wardak province_
 
 ##### US$
 ### [ Donor countries promise $9.7 billion to The Global Fund to Fight AIDS, Tuberculosis and Malaria. ](/news/2007/09/27/donor-countries-promise-9-7-billion-to-the-global-fund-to-fight-aids-tuberculosis-and-malaria.md)

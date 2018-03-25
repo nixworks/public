@@ -27,7 +27,7 @@ _Context: Benjamin Netanyahu, Breaking the Silence, Federal Minister of Foreign 
 ### [The USS "Michigan" docks at Busan, South Korea, amid growing concerns over North Korean weapons development. ](/news/2017/04/25/the-uss-michigan-docks-at-busan-south-korea-amid-growing-concerns-over-north-korean-weapons-development.md)
 It comes amid heightened tensions, and fears North Korea is planning more nuclear or missile tests.
 
-##### Saudi Arabia
+##### Saudi
 ### [Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite the nation's conflicts with women's rights. ](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-elected-to-the-united-nations-commission-on-the-status-of-women-despite-the-nation-s-conflicts.md)
 Saudi Arabia is elected to the UN Commission on the Status of Women, despite the country being ranked by human rights experts as one of the worst for gender equality.
 

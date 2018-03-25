@@ -19,9 +19,9 @@ _Context: China, Chinese, Inner Mongolia, Mongolia_
 ### [The sons of former President of Egypt Hosni Mubarak, Alaa Mubarak and Jamal Mubarak, are detained in custody for another 15 days over accumulating wealth by unfair means. ](/news/2011/05/30/the-sons-of-former-president-of-egypt-hosni-mubarak-alaa-mubarak-and-jamal-mubarak-are-detained-in-custody-for-another-15-days-over-accumu.md)
 _Context: Alaa Mubarak, Hosni Mubarak, Jamal Mubarak, President, unfair_
 
-##### Saudi Arabia
+##### Saudi
 ### [A human rights advocate claims that Saudi Arabia has released Manal al-Sherif, detained for breaking the law against women drivers. ](/news/2011/05/30/a-human-rights-advocate-claims-that-saudi-arabia-has-released-manal-al-sherif-detained-for-breaking-the-law-against-women-drivers.md)
-_Context: Saudi Arabia_
+_Context: Saudi_
 
 ##### South Korean President
 ### [Eun Jin-soo, a former aide to the President of South Korea Lee Myung-bak, is arrested on bribery charges. ](/news/2011/05/30/eun-jin-soo-a-former-aide-to-the-president-of-south-korea-lee-myung-bak-is-arrested-on-bribery-charges.md)

@@ -17,7 +17,7 @@ _Context: Carol Shea-Porter, Congress, Nobel Memorial Prize in Economic Sciences
 
 ##### United States soldier
 ### [ United States Army General David D. McKiernan, the commander of NATO forces in Afghanistan, says that a greater military presence is "needed as quickly as possible." ](/news/2008/10/1/united-states-army-general-david-d-mckiernan-the-commander-of-nato-forces-in-afghanistan-says-that-a-greater-military-presence-is-neede.md)
-_Context: Afghanistan, David D. McKiernan, NATO, United States soldier, general_
+_Context: Afghan, David D. McKiernan, NATO, United States soldier, general_
 
 ##### Lord Mayor of Melbourne
 ### [ Mayor of Melbourne John So announces his resignation. ](/news/2008/10/1/mayor-of-melbourne-john-so-announces-his-resignation.md)

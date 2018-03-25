@@ -73,7 +73,7 @@ Critics questioned the timing of a revelation by Russian state media on Monday o
 
 ##### Protests
 ### [2012 Afghanistan Quran burning protests: A suicide car bomber explodes at Jalalabad Airport in Afghanistan, killing nine. ](/news/2012/02/27/2012-afghanistan-quran-burning-protests-a-suicide-car-bomber-explodes-at-jalalabad-airport-in-afghanistan-killing-nine.md)
-_Context: Afghanistan, Jalalabad Airport, protests_
+_Context: Afghan, Jalalabad Airport, protests_
 
 ## [Previous Day...](/news/2012/02/26/index.md)
 

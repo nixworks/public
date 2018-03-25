@@ -21,7 +21,7 @@ _Context: Avigdor Lieberman, Ehud Olmert, Israel, Prime Minister, forming a gove
 
 ##### War in Pakistan (2004-present)
 ### [ War in Pakistan (2004-present); Sararogha Fort raid: Islamic militants overrun and capture a Pakistani military outpost, Sararogha Fort, close to the Afghan border in a battle that kills seven Pakistani soldiers and leaves 20 missing. The Pakistani military claims 50 attackers also died. ](/news/2008/01/16/war-in-pakistan-2004apresent-sararogha-fort-raid-islamic-militants-overrun-and-capture-a-pakistani-military-outpost-sararogha-fort.md)
-_Context: Afghanistan, Islamic militants, Pakistan, Sararogha Fort raid, War in Pakistan (2004-present), military_
+_Context: Afghan, Islamic militants, Pakistan, Sararogha Fort raid, War in Pakistan (2004-present), military_
 
 ##### Two years of helping
 ### [ War in Somalia (2006-present): A huge blast in Mogadishu targeted an Ethiopian army convoy as it drove through a major intersection, killing seven soldiers on board, witnesses reported. ](/news/2008/01/16/war-in-somalia-2006apresent-a-huge-blast-in-mogadishu-targeted-an-ethiopian-army-convoy-as-it-drove-through-a-major-intersection-kill.md)

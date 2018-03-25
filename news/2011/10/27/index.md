@@ -9,7 +9,7 @@ Researchers in Oxford have treated a man with an advanced gene therapy technique
 
 ##### Crown Prince Nayef
 ### [Nayef bin Abdul-Aziz Al Saud, the Saudi Arabian Minister of the Interior, is named as the new Crown Prince of Saudi Arabia, following the death of Sultan bin Abdul-Aziz Al Saud on October 22. ](/news/2011/10/27/nayef-bin-abdul-aziz-al-saud-the-saudi-arabian-minister-of-the-interior-is-named-as-the-new-crown-prince-of-saudi-arabia-following-the-de.md)
-_Context: Crown Prince, Crown Prince Nayef, Interior Ministry, Saudi Arabia, Sultan bin Abdul-Aziz Al Saud_
+_Context: Crown Prince, Crown Prince Nayef, Interior Ministry, Saudi, Sultan bin Abdul-Aziz Al Saud_
 
 ##### Islamist
 ### [The moderate Islamist Renaissance Party (Nahda) officially wins the Tunisian Constituent Assembly election, gaining more than 41% of the vote and securing 90 of the 217 parliamentary seats being contested. ](/news/2011/10/27/the-moderate-islamist-renaissance-party-nahda-officially-wins-the-tunisian-constituent-assembly-election-gaining-more-than-41-of-the-vot.md)

@@ -37,7 +37,7 @@ A Chinese man upset over a financial dispute set fire to a moving bus and fled a
 
 ##### ISIL
 ### [The Islamic State, following Saudi Arabia's execution of 47 people on Saturday, threatens to destroy Saudi Arabia's Tarfiya and al-Ha'ir Prisons holding Al-Qaeda and ISIL supporters. ](/news/2016/01/5/the-islamic-state-following-saudi-arabia-s-execution-of-47-people-on-saturday-threatens-to-destroy-saudi-arabia-s-tarfiya-and-al-ha-ir-pri.md)
-_Context: ISIL, Saudi Arabia, al-Ha'ir Prison, al-Qaida_
+_Context: ISIL, Saudi, al-Ha'ir Prison, al-Qaida_
 
 ##### Libyan Civil War (2014-present)
 ### [Islamic State militants continue to besiege the Libyan oil port of Sidra, attacking checkpoints on the road to the port, leaving seven guards dead. The National Oil Corporation (NOC) said an oil storage tank in the port was set on fire by a long-range rocket, and that the oil tank fire started just as firefighters were close to bringing under control another blaze at an oil tank that was hit during fighting in the nearby Ra's Lanuf Refinery on Monday. ](/news/2016/01/5/islamic-state-militants-continue-to-besiege-the-libyan-oil-port-of-sidra-attacking-checkpoints-on-the-road-to-the-port-leaving-seven-guard.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2006/08/6/index.html)  [JSON](2006/08/6/index.json)  [XML](2006/
 
 ##### South Korea
 ### [ About 800 South Korean Christians left Afghanistan after their planned "peace festival" was called off due to concerns that their presence could spark violence. ](/news/2006/08/6/about-800-south-korean-christians-left-afghanistan-after-their-planned-peace-festival-was-called-off-due-to-concerns-that-their-presence.md)
-_Context: Afghanistan, Christian, South Korea_
+_Context: Afghan, Christian, South Korea_
 
 ##### Tajikistan
 ### [ Tajikistan President Emomali Rahmonov began a state visit to India. ](/news/2006/08/6/tajikistan-president-emomali-rahmonov-began-a-state-visit-to-india.md)

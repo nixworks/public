@@ -19,7 +19,7 @@ _Context: Costa Concordia, Francesco Schettino, Italy_
 ### [Greece secures an additional 6.2 billion euros from the European Commission, the European Central Bank and the International Monetary Fund despite warnings that the Greek government is moving too slow to reform the government. ](/news/2013/07/9/greece-secures-an-additional-6-2-billion-euros-from-the-european-commission-the-european-central-bank-and-the-international-monetary-fund-d.md)
 Greece secures 6.8bn euros in further funding from its creditors, but is told the pace of reform is too slow.
 
-##### Afghanistan
+##### Afghan
 ### [An Afghan soldier kills a Slovak soldier and wounds six others. ](/news/2013/07/9/an-afghan-soldier-kills-a-slovak-soldier-and-wounds-six-others.md)
 At least 17 people including women and children are killed by a roadside bomb in in western Afghanistan, officials tell the BBC.
 

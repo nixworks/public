@@ -13,7 +13,7 @@ Find the latest business news on Wall Street, jobs and the economy, the housing 
 
 ##### Safia Ahmed-jan
 ### [ Two gunmen kill Safia Ahmed-jan, the provincial director of Afghanistan's Ministry of Women's Affairs outside her home in Kandahar. ](/news/2006/09/25/two-gunmen-kill-safia-ahmed-jan-the-provincial-director-of-afghanistan-s-ministry-of-women-s-affairs-outside-her-home-in-kandahar.md)
-_Context: Afghanistan, Kandahar, Safia Ahmed-jan_
+_Context: Afghan, Kandahar, Safia Ahmed-jan_
 
 ##### Kismayo
 ### [ After taking over Kismayo, Somali Islamist militants open fire on anti-sharia protesters. Three deaths are being reported. ](/news/2006/09/25/after-taking-over-kismayo-somali-islamist-militants-open-fire-on-anti-sharia-protesters-three-deaths-are-being-reported.md)

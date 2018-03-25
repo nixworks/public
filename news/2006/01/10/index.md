@@ -21,7 +21,7 @@ _Context: Iran, Natanz, United Nations_
 
 ##### Ukrainian
 ### [ Ukraine's parliament dismisses the Cabinet over its gas deal with Russia. ](/news/2006/01/10/ukraine-s-parliament-dismisses-the-cabinet-over-its-gas-deal-with-russia.md)
-_Context: Ukrainian, forming a government, parliament, restarts_
+_Context: Parliament, Ukrainian, forming a government, restarts_
 
 ##### Whaling
 ### [ Japanese whalers and anti-whaling environmental groups continue to clash in Antarctic waters near Australia, as calls for the Australian Government to intervene intensify. ](/news/2006/01/10/japanese-whalers-and-anti-whaling-environmental-groups-continue-to-clash-in-antarctic-waters-near-australia-as-calls-for-the-australian-go.md)

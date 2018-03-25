@@ -17,7 +17,7 @@ _Context: Fiji, Fiji crisis of 2005-2006, Voreqe Bainimarama_
 
 ##### NATO
 ### [ One NATO soldier and 57 insurgents are killed in fighting in southern Afghanistan. ](/news/2006/11/26/one-nato-soldier-and-57-insurgents-are-killed-in-fighting-in-southern-afghanistan.md)
-_Context: Afghanistan, NATO_
+_Context: Afghan, NATO_
 
 ##### Ceasefire
 ### [ A ceasefire commences between Israeli and Palestinian fighters in the Gaza Strip. It followed negotiations between the Palestinian President Mahmoud Abbas and Israeli Prime Minister Ehud Olmert. ](/news/2006/11/26/a-ceasefire-commences-between-israeli-and-palestinian-fighters-in-the-gaza-strip-it-followed-negotiations-between-the-palestinian-presiden.md)

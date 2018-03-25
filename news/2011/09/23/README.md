@@ -45,7 +45,7 @@ _Context: Afghan President, Burhanuddin Rabbani, Kabul, suicide bomber_
 
 ##### 2011 Yemeni uprising
 ### [2011 Yemeni uprising: The President of Yemen, Ali Abdullah Saleh, returns from Saudi Arabia after a three-month absence, amid an increase in political unrest and violence in Yemen. ](/news/2011/09/23/2011-yemeni-uprising-the-president-of-yemen-ali-abdullah-saleh-returns-from-saudi-arabia-after-a-three-month-absence-amid-an-increase-in.md)
-_Context: 2011 Yemeni uprising, Ali Abdullah Saleh, President, Saudi Arabia_
+_Context: 2011 Yemeni uprising, Ali Abdullah Saleh, President, Saudi_
 
 ## [Previous Day...](/news/2011/09/22/index.md)
 

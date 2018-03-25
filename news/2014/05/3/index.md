@@ -13,11 +13,11 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ##### Middle East respiratory syndrome
 ### [The first U.S. case of MERS is reported in Munster, Indiana, of someone who travelled to Saudi Arabia. ](/news/2014/05/3/the-first-u-s-case-of-mers-is-reported-in-munster-indiana-of-someone-who-travelled-to-saudi-arabia.md)
-_Context: Middle East respiratory syndrome, Munster, Indiana, Saudi Arabia_
+_Context: Middle East respiratory syndrome, Munster, Indiana, Saudi_
 
 ##### The mudslides
 ### [The death toll from the mudslides in Afghanistan rises to 2,100, with 4,000 people displaced. ](/news/2014/05/3/the-death-toll-from-the-mudslides-in-afghanistan-rises-to-2-100-with-4-000-people-displaced.md)
-_Context: Afghanistan, the mudslides_
+_Context: Afghan, the mudslides_
 
 ##### Gulzar
 ### [Gulzar receives Dadasaheb Phalke Award while "Ship of Theseus" wins the Best Feature Film award. ](/news/2014/05/3/gulzar-receives-dadasaheb-phalke-award-while-ship-of-theseus-wins-the-best-feature-film-award.md)

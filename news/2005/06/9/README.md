@@ -49,7 +49,7 @@ _Context: Ba'ath Party, Syria, states of emergency_
 
 ##### Clementina Cantoni
 ### [ Italian Clementina Cantoni a worker with CARE International who was held hostage in Afghanistan is released unharmed. ](/news/2005/06/9/italian-clementina-cantoni-a-worker-with-care-international-who-was-held-hostage-in-afghanistan-is-released-unharmed.md)
-_Context: Afghanistan, CARE International, Clementina Cantoni_
+_Context: Afghan, CARE International, Clementina Cantoni_
 
 ## [Previous Day...](/news/2005/06/8/index.md)
 

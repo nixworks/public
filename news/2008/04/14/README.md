@@ -9,7 +9,7 @@ _Context: World Bank, developing world, dramatic rise in basic food prices_
 
 ##### Taliban
 ### [ Taliban insurgents attack a checkpoint in southern Afghanistan killing 11 police officers. ](/news/2008/04/14/taliban-insurgents-attack-a-checkpoint-in-southern-afghanistan-killing-11-police-officers.md)
-_Context: Afghanistan, Taliban_
+_Context: Afghan, Taliban_
 
 ##### Train
 ### [ Passenger trains resume between Dhaka in Bangladesh and the Indian city of Calcutta, after 43 years. ](/news/2008/04/14/passenger-trains-resume-between-dhaka-in-bangladesh-and-the-indian-city-of-calcutta-after-43-years.md)

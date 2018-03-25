@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/03/24/pentagon-it-is-alleged-by-a-report-that-russia-
 
 ### [2006-03-24](/news/2006/03/24/index.md)
 
-##### United States military
+##### Pentagon
 #  Pentagon: It is alleged by a report that Russia gave intelligence information to Saddam Hussein's Iraq regarding American troop movements during the early stages of the Iraq War. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

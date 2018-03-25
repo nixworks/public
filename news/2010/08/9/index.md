@@ -113,7 +113,7 @@ The head of a relief group whose workers were killed had been worried there were
 
 ##### South Korea
 ### [South Korea claims that North Korea has fired more than 100 rounds of artillery into the Sea of Japan near the border highlighting the increase of tensions on the Korean Peninsula. ](/news/2010/08/9/south-korea-claims-that-north-korea-has-fired-more-than-100-rounds-of-artillery-into-the-sea-of-japan-near-the-border-highlighting-the-incre.md)
-_Context: Korean Peninsula, North Korea, Sea of Japan, South Korea_
+_Context: Korean, North Korea, Sea of Japan, South Korea_
 
 ##### AK-47s
 ### [Iraqi traffic police are allegedly given AK-47 assault rifles for their use in Baghdad. ](/news/2010/08/9/iraqi-traffic-police-are-allegedly-given-ak-47-assault-rifles-for-their-use-in-baghdad.md)

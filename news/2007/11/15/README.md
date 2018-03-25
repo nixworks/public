@@ -43,9 +43,9 @@ _Context: Tamil Tigers, Tamils Rehabilitation Organisation, United States, Unite
 ### [ Celestin Chibalonza, the governor of Sud-Kivu, is impeached for failing to curb violence and mismanaging finances. ](/news/2007/11/15/celestin-chibalonza-the-governor-of-sud-kivu-is-impeached-for-failing-to-curb-violence-and-mismanaging-finances.md)
 _Context: Celestin Chibalonza, Sud-Kivu, impeachment_
 
-##### Saudi Arabia
+##### Saudi
 ### [ A Saudi Arabian gang rape victim is sentenced to jail and 200 lashes for being in the car of an unrelated man. ](/news/2007/11/15/a-saudi-arabian-gang-rape-victim-is-sentenced-to-jail-and-200-lashes-for-being-in-the-car-of-an-unrelated-man.md)
-_Context: Saudi Arabia, gang rape, lashes_
+_Context: Saudi, gang rape, lashes_
 
 ##### Iraqi insurgency
 ### [ Iraqi insurgency: The United States Army announces it has killed 25 insurgents in Taji, but the Taji Awakening Council says airstrikes killed 45 pro-U.S. fighters. ](/news/2007/11/15/iraqi-insurgency-the-united-states-army-announces-it-has-killed-25-insurgents-in-taji-but-the-taji-awakening-council-says-airstrikes-kill.md)

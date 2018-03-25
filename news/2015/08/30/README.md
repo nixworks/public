@@ -41,7 +41,7 @@ Rescue teams worked Sunday to reopen roads to remote communities in Dominica aft
 
 ##### Aramco
 ### [A fire at an Aramco housing complex in the Saudi Arabian city of Khobar kills at least two people and injures 105 others. ](/news/2015/08/30/a-fire-at-an-aramco-housing-complex-in-the-saudi-arabian-city-of-khobar-kills-at-least-two-people-and-injures-105-others.md)
-_Context: Aramco, Khobar, Saudi Arabia_
+_Context: Aramco, Khobar, Saudi_
 
 ##### Syrian Observatory for Human Rights
 ### [The Syrian Observatory for Human Rights claims that ISIL has blown up the ancient Temple of Bel in Palmyra. ](/news/2015/08/30/the-syrian-observatory-for-human-rights-claims-that-isil-has-blown-up-the-ancient-temple-of-bel-in-palmyra.md)

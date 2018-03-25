@@ -13,7 +13,7 @@ _Context: Abel Prize, Atiyah-Singer index theorem, Oslo_
 
 ##### Viacom
 ### [ Viacom's MTV Networks unit announces plans for the LOGO channel, the first LGBT-themed major cable television service in the United States, set for a February 17, 2005, debut. ](/news/2004/05/25/viacom-s-mtv-networks-unit-announces-plans-for-the-logo-channel-the-first-lgbt-themed-major-cable-television-service-in-the-united-states.md)
-_Context: LOGO channel, MTV Networks, Viacom, cable television, gay and bisexual men_
+_Context: LOGO channel, MTV Networks, Viacom, cable television, transgender_
 
 ##### Bayer CropScience
 ### [ France bans the use of Bayer CropScience Imidacloprid on maize seeds. Gaucho is claimed to be harmful to bees. ](/news/2004/05/25/france-bans-the-use-of-bayer-cropscience-imidacloprid-on-maize-seeds-gaucho-is-claimed-to-be-harmful-to-bees.md)

@@ -21,7 +21,7 @@ _Context: Ariel Sharon, Benjamin Netanyahu, Finance Minister, Gaza Strip, Israel
 
 ##### Reporters Without Borders
 ### [ A report by the media watchdog group Reporters Without Borders (RSF) ranks press freedom across the world. The ten lowest scoring countries (least free) in the report were North Korea, Cuba, Myanmar, Turkmenistan, Eritrea, the People's Republic of China, Vietnam, Nepal, Saudi Arabia, and Iran, while the ten highest were Denmark, Finland, Iceland, Ireland, the Netherlands, Norway, Slovakia, Switzerland, New Zealand, and Latvia. ](/news/2004/10/26/a-report-by-the-media-watchdog-group-reporters-without-borders-rsf-ranks-press-freedom-across-the-world-the-ten-lowest-scoring-countries.md)
-_Context: China, Cuba, Denmark, Dutch, Eritrea, Finland, Iceland, Iran, Irish, Latvia, Myanmar, Nepal, New Zealand, North Korea, Norwegian, Reporters Without Borders, Saudi Arabia, Slovakia, Switzerland, Turkmenistan, Vietnam, covering_
+_Context: China, Cuba, Denmark, Dutch, Eritrea, Finland, Iceland, Iran, Irish, Latvia, Myanmar, Nepal, New Zealand, North Korea, Norwegian, Reporters Without Borders, Saudi, Slovakia, Switzerland, Turkmenistan, Vietnam, covering_
 
 ##### American Airlines Flight 587
 ### [ The co-pilot of American Airlines Flight 587 caused the November 2001, crash in New York City that claimed the lives of 265 people, the staff of the U.S. National Transportation Safety Board said. ](/news/2004/10/26/the-co-pilot-of-american-airlines-flight-587-caused-the-november-2001-crash-in-new-york-city-that-claimed-the-lives-of-265-people-the-sta.md)

@@ -63,7 +63,7 @@ _Context: Philippines, Typhoon Bopha_
 ### [Google begins selling basic laptop computers for $99, meeting the $100 price point set out as a challenge by a prominent professor at the Massachusetts Institute of Technology (Nicholas Negroponte) eight years ago. ](/news/2012/12/10/google-begins-selling-basic-laptop-computers-for-99-meeting-the-100-price-point-set-out-as-a-challenge-by-a-prominent-professor-at-the-ma.md)
 Google Inc began selling basic laptop computers to schools at a price of $99, meeting a price point that prominent MIT professor Nicholas Negroponte famously held out in 2005 as key to bringing computing power to the masses.
 
-##### Afghanistan
+##### Afghan
 ### [Mohammad Musa Rasouli, the police chief of Afghanistan's Nimroz Province, is killed by a roadside bomb while returning home from Herat Province. ](/news/2012/12/10/mohammad-musa-rasouli-the-police-chief-of-afghanistan-s-nimroz-province-is-killed-by-a-roadside-bomb-while-returning-home-from-herat-provi.md)
 Afghan police say a roadside bombing has killed the police chief of a southern province.
 

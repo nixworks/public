@@ -35,9 +35,9 @@ _Context: San Jose, California, Stone Mountain, Georgia_
 ### [China launches a crackdown against the internet currency BitCoin, plunging its value by 35%. ](/news/2013/12/18/china-launches-a-crackdown-against-the-internet-currency-bitcoin-plunging-its-value-by-35.md)
 BTC China, the nation’s largest Bitcoin operator, stopped accepting customer deposits amid a central bank clampdown on use of the digital currency, sending prices plunging as much as 35 percent.
 
-##### Gay and bisexual men
+##### Transgender
 ### [LGBT sportspeople, such as tennis player Billie Jean King and ice hockey player Caitlin Cahow, are to represent the United States in Sochi as a protest against the treatment of LGBT people in Russia. ](/news/2013/12/18/lgbt-sportspeople-such-as-tennis-player-billie-jean-king-and-ice-hockey-player-caitlin-cahow-are-to-represent-the-united-states-in-sochi-a.md)
-_Context: Billie Jean King, Caitlin Cahow, LGBT rights in Russia, Russia, Sochi, United States, gay and bisexual men_
+_Context: Billie Jean King, Caitlin Cahow, LGBT rights in Russia, Russia, Sochi, United States, transgender_
 
 ##### Chinese
 ### [Chinese actress Zhang Ziyi settles out of court a U.S. sex scandal libel lawsuit against the U.S.-based overseas alternative news source website Boxun. ](/news/2013/12/18/chinese-actress-zhang-ziyi-settles-out-of-court-a-u-s-sex-scandal-libel-lawsuit-against-the-u-s-based-overseas-alternative-news-source-web.md)

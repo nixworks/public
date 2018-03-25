@@ -41,7 +41,7 @@ _Context: Yemen, al-Bayda, al-Qaeda, al-Qaeda insurgency in Yemen_
 
 ##### Taliban insurgency
 ### [A suicide bomber kills at least four people and wounds 16 in Afghanistan's Helmand province. ](/news/2014/10/8/a-suicide-bomber-kills-at-least-four-people-and-wounds-16-in-afghanistan-s-helmand-province.md)
-_Context: Afghanistan, Helmand province, Taliban insurgency, suicide bomber_
+_Context: Afghan, Helmand province, Taliban insurgency, suicide bomber_
 
 ##### Kobani
 ### [At least 19 Kurdish civilians were killed while protesting against the government's inaction in defending Kobani from ISIS advances. ](/news/2014/10/8/at-least-19-kurdish-civilians-were-killed-while-protesting-against-the-government-s-inaction-in-defending-kobani-from-isis-advances.md)

@@ -9,7 +9,7 @@ _Context: Iraq, Kenneth Bigley, Tawhid and Jihad, hostage, rebel-held_
 
 ##### Yaser Esam Hamdi
 ### [ The United States agrees to release Yaser Esam Hamdi, who was born in the United States and raised in Saudi Arabia, after having held him for almost three years, without charges, as an "illegal enemy combatant". In exchange, Hamdi agrees to relinquish his American citizenship and to never return to the United States. ](/news/2004/09/23/the-united-states-agrees-to-release-yaser-esam-hamdi-who-was-born-in-the-united-states-and-raised-in-saudi-arabia-after-having-held-him-f.md)
-_Context: Saudi Arabia, Yaser Esam Hamdi, citizenship, illegal enemy combatant_
+_Context: Saudi, Yaser Esam Hamdi, citizenship, illegal enemy combatant_
 
 ##### Territory
 ### [ Court officials arrive on the remote British territory of Pitcairn Island, which has only 47 inhabitants, to begin the trial of seven islanders, on charges of sexual abuse that date back more than 40 years. ](/news/2004/09/23/court-officials-arrive-on-the-remote-british-territory-of-pitcairn-island-which-has-only-47-inhabitants-to-begin-the-trial-of-seven-islan.md)

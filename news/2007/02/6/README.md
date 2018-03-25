@@ -25,7 +25,7 @@ _Context: Hungary, Komrom, freight train, train_
 
 ##### United States President
 ### [ United States President George W. Bush approves a Pentagon plan for establishing a new command center in Africa. ](/news/2007/02/6/united-states-president-george-w-bush-approves-a-pentagon-plan-for-establishing-a-new-command-center-in-africa.md)
-_Context: Africa, George W. Bush, United States Africa Command, United States President, United States military_
+_Context: Africa, George W. Bush, Pentagon, United States Africa Command, United States President_
 
 ##### Human Rights Watch
 ### [ A Human Rights Watch report concludes that European Union sanctions on the Government of Uzbekistan, which came in response to the "Andijan massacre" in May 2005, have failed due to a lack of commitment in enforcing them. ](/news/2007/02/6/a-human-rights-watch-report-concludes-that-european-union-sanctions-on-the-government-of-uzbekistan-which-came-in-response-to-the-andijan.md)

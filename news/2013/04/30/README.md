@@ -29,7 +29,7 @@ Bangladeshi police use batons to disperse hundreds of angry factory workers call
 
 ##### NATO
 ### [A roadside bomb kills three members of NATO's ISAF force in Afghanistan. ](/news/2013/04/30/a-roadside-bomb-kills-three-members-of-nato-s-isaf-force-in-afghanistan.md)
-_Context: Afghanistan, ISAF, NATO_
+_Context: Afghan, ISAF, NATO_
 
 ##### Damascus
 ### [A bomb explodes in the center of the capital, Damascus, killing at least 13 people. ](/news/2013/04/30/a-bomb-explodes-in-the-center-of-the-capital-damascus-killing-at-least-13-people.md)

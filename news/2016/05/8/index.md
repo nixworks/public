@@ -29,7 +29,7 @@ _Context: China, Fujian, Taining County_
 
 ##### Fuel tanker
 ### [ At least 73 people are killed in a collision between two buses and a fuel tanker in Ghazni Province, Afghanistan. ](/news/2016/05/8/at-least-73-people-are-killed-in-a-collision-between-two-buses-and-a-fuel-tanker-in-ghazni-province-afghanistan.md)
-_Context: Afghanistan, Ghazni Province, fuel tanker_
+_Context: Afghan, Ghazni Province, fuel tanker_
 
 ##### Terrorism in Saudi Arabia
 ### [ A policeman is killed in a shootout with militants in Taif, Saudi Arabia. ](/news/2016/05/8/a-policeman-is-killed-in-a-shootout-with-militants-in-taif-saudi-arabia.md)

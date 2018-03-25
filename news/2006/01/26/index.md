@@ -3,9 +3,9 @@ Formats: [HTML](2006/01/26/index.html)  [JSON](2006/01/26/index.json)  [XML](200
 
 ## [2006-01-26](/news/2006/01/26/index.md)
 
-##### Saudi Arabia
+##### Saudi
 ### [ Saudi Arabia recalled their envoy from Denmark after Muhammad Drawings controversy, and has initiated a boycott of Danish products. ](/news/2006/01/26/saudi-arabia-recalled-their-envoy-from-denmark-after-muhammad-drawings-controversy-and-has-initiated-a-boycott-of-danish-products.md)
-_Context: Denmark, Muhammad Drawings, Saudi Arabia_
+_Context: Denmark, Muhammad Drawings, Saudi_
 
 ##### Interpol
 ### [ Interpol issues red notices against Pakistan ex-Prime Minister Benazir Bhutto and her husband, Asif Ali Zardari. ](/news/2006/01/26/interpol-issues-red-notices-against-pakistan-ex-prime-minister-benazir-bhutto-and-her-husband-asif-ali-zardari.md)

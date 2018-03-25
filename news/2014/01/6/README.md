@@ -29,7 +29,7 @@ Gunmen killed 30 people in a village in central Nigeria on Monday, officials sai
 
 ##### Ghazni Province
 ### [A suicide car bomber detonates at a police checkpoint in Ghazni Province, Afghanistan, killing 3 police officers. ](/news/2014/01/6/a-suicide-car-bomber-detonates-at-a-police-checkpoint-in-ghazni-province-afghanistan-killing-3-police-officers.md)
-_Context: Afghanistan, Ghazni Province_
+_Context: Afghan, Ghazni Province_
 
 ##### Khyber Agency
 ### [A bomb detonates in a tribal elder's home in Khyber Agency, Pakistan, killing 10 people and injuring another 9. ](/news/2014/01/6/a-bomb-detonates-in-a-tribal-elder-s-home-in-khyber-agency-pakistan-killing-10-people-and-injuring-another-9.md)

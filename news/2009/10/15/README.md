@@ -41,7 +41,7 @@ _Context: 2008-2009 Gaza War, Gaza Strip, Israel, Palestinians, UN_
 
 ##### North Korea
 ### [ North Korea accuses South Korea of intruding into its territorial waters, further raising tensions on the Korean Peninsula. ](/news/2009/10/15/north-korea-accuses-south-korea-of-intruding-into-its-territorial-waters-further-raising-tensions-on-the-korean-peninsula.md)
-_Context: Korean Peninsula, North Korea, South Korea, territorial waters_
+_Context: Korean, North Korea, South Korea, territorial waters_
 
 ##### Norwegian
 ### [ Three of the five members of the Norwegian Nobel Committee initially argued against awarding U.S. President Barack Obama the 2009 Nobel Peace Prize. ](/news/2009/10/15/three-of-the-five-members-of-the-norwegian-nobel-committee-initially-argued-against-awarding-u-s-president-barack-obama-the-2009-nobel-pea.md)

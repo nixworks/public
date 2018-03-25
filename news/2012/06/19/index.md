@@ -9,7 +9,7 @@ Greek politicians face the dual challenges of enforcing Greece’s loan agreemen
 
 ##### Najran Province
 ### [A Saudi man is beheaded on charges of sorcery and witchcraft in Najran Province of Saudi Arabia. ](/news/2012/06/19/a-saudi-man-is-beheaded-on-charges-of-sorcery-and-witchcraft-in-najran-province-of-saudi-arabia.md)
-_Context: Najran Province, Saudi Arabia_
+_Context: Najran Province, Saudi_
 
 ##### Supreme Court
 ### [The Supreme Court of Pakistan disqualifies prime minister Yousaf Raza Gillani from holding office after Gillani was found guilty in a contempt-of-court case on April 26. ](/news/2012/06/19/the-supreme-court-of-pakistan-disqualifies-prime-minister-yousaf-raza-gillani-from-holding-office-after-gillani-was-found-guilty-in-a-contem.md)

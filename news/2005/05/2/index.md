@@ -49,7 +49,7 @@ _Context: Al Amarah, Iraq, Newcastle upon Tyne, United Kingdom_
 
 ##### Pagja
 ### [ Dozens of people reportedly die after a large explosion in a munitions dump in Pagja, Afghanistan 50 miles north of Kabul. ](/news/2005/05/2/dozens-of-people-reportedly-die-after-a-large-explosion-in-a-munitions-dump-in-pagja-afghanistan-50-miles-north-of-kabul.md)
-_Context: Afghanistan, Kabul, Pagja_
+_Context: Afghan, Kabul, Pagja_
 
 ##### Israel
 ### [ Following an Israeli raid on the Palestinian city of Tulkarm, one Israeli soldier and one Islamic Jihad leader are killed. The soldier was killed in a gunfight with 3 members of Palestinian Islamic Jihad. The three were suspected to have been part of the cell which was involved in Tel Aviv "Stage" club bombing in February 2005. Shafiq Abdul Rani, the leader of the Jihad cell in Tulkarm was killed and another militant was arrested. ](/news/2005/05/2/following-an-israeli-raid-on-the-palestinian-city-of-tulkarm-one-israeli-soldier-and-one-islamic-jihad-leader-are-killed-the-soldier-was.md)

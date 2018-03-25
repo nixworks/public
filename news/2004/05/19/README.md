@@ -29,7 +29,7 @@ _Context: British House of Commons, Fathers 4 Justice, Prime Minister's Question
 
 ##### The Denver Post
 ### [ "The Denver Post" has uncovered Pentagon documents that show more than twice as many allegations of detainee abuse (75) are being investigated by the military than previously known. Twenty-seven of the abuse cases involve deaths; at least eight are believed to be homicides. ](/news/2004/05/19/the-denver-post-has-uncovered-pentagon-documents-that-show-more-than-twice-as-many-allegations-of-detainee-abuse-75-are-being-investiga.md)
-_Context: The Denver Post, United States military_
+_Context: Pentagon, The Denver Post_
 
 ##### Palestinians
 ### [ At least ten Palestinians are killed in Rafah, Gaza Strip, by an explosion following warning shots fired by the IDF. The road used by the Palestinians was strewn with explosives. ](/news/2004/05/19/at-least-ten-palestinians-are-killed-in-rafah-gaza-strip-by-an-explosion-following-warning-shots-fired-by-the-idf-the-road-used-by-the-p.md)

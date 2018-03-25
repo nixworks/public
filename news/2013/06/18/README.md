@@ -107,7 +107,7 @@ Bomber targets crowd of mourners in Khyber Pakhtunkhwa province, killing 29 peop
 ### [Twin suicide bombings kill 31 and wound another 60 in al-Qahira, Baghdad. ](/news/2013/06/18/twin-suicide-bombings-kill-31-and-wound-another-60-in-al-qahira-baghdad.md)
 At least 31 people are killed in a double suicide bomb attack at a Shia mosque in the Iraqi capital, Baghdad.
 
-##### Afghanistan
+##### Afghan
 ### [A bomb explodes in the Afghan capital of Kabul killing three people and wounding six. ](/news/2013/06/18/a-bomb-explodes-in-the-afghan-capital-of-kabul-killing-three-people-and-wounding-six.md)
 A bomb explodes in western Kabul on the day Nato formally handed over command of security responsibilities to Afghan forces.
 

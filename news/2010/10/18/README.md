@@ -45,7 +45,7 @@ _Context: PKK, Turkey_
 
 ##### Philippines
 ### [Five migrant Filipino workers are arrested in Saudi Arabia for filing a labor complaint against their employer according to a Philippine migrant workers' rights group. ](/news/2010/10/18/five-migrant-filipino-workers-are-arrested-in-saudi-arabia-for-filing-a-labor-complaint-against-their-employer-according-to-a-philippine-mig.md)
-_Context: Philippines, Saudi Arabia, migrant workers_
+_Context: Philippines, Saudi, migrant workers_
 
 ##### United Arab Emirates
 ### [The United Arab Emirates' highest court rules in a domestic violence case that a man can beat his wife and children as long as he leaves no physical marks. ](/news/2010/10/18/the-united-arab-emirates-highest-court-rules-in-a-domestic-violence-case-that-a-man-can-beat-his-wife-and-children-as-long-as-he-leaves-no.md)

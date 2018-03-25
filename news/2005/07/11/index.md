@@ -53,7 +53,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### U.S. Navy SEAL
 ### [ The body of a U.S. Navy SEAL has been found and recovered in Afghanistan, a senior defense official said Sunday. ](/news/2005/07/11/the-body-of-a-u-s-navy-seal-has-been-found-and-recovered-in-afghanistan-a-senior-defense-official-said-sunday.md)
-_Context: Afghanistan, U.S. Navy SEAL_
+_Context: Afghan, U.S. Navy SEAL_
 
 ##### Maccabiah Games
 ### [ The 17th Maccabiah Games are officially begun with a ceremony in Israel. More than 7000 Jewish athletes will compete on various sporting events. ](/news/2005/07/11/the-17th-maccabiah-games-are-officially-begun-with-a-ceremony-in-israel-more-than-7000-jewish-athletes-will-compete-on-various-sporting-ev.md)

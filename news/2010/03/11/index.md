@@ -23,7 +23,7 @@ Sahil Saeed, the five-year-old boy kidnapped in Pakistan, has been found, accord
 ### [Turkey recalls its ambassador to Sweden and cancels the Turkey - Sweden summit planned for March 17 after the Riksdag votes in favour of calling the Armenian Genocide a genocide. ](/news/2010/03/11/turkey-recalls-its-ambassador-to-sweden-and-cancels-the-turkey-sweden-summit-planned-for-march-17-after-the-riksdag-votes-in-favour-of-cal.md)
 Turkey has recalled its ambassador from Sweden after its parliament voted to brand the WW1 killing of Armenians by Ottoman forces as genocide.
 
-##### Afghanistan
+##### Afghan
 ### [Afghanistan: Five civilians, including four children, die in an explosion, while two construction contractors, including one from South Africa, are shot dead. ](/news/2010/03/11/afghanistan-five-civilians-including-four-children-die-in-an-explosion-while-two-construction-contractors-including-one-from-south-afri.md)
 Five Afghan civilians, four of them children, were killed in an explosion Thursday, and gunmen shot dead a South African construction contractor and his Afghan colleague in a separate attack, officials said.
 

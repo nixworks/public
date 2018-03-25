@@ -41,7 +41,7 @@ Iran is set to be the new observer at Saarc and, apart from the UN, may end up s
 
 ##### Ukrainian President
 ### [ President of Ukraine Viktor Yushchenko dissolves the parliament during a nationally televised speech, calling for parliamentary elections on 27 May 2007. ](/news/2007/04/2/president-of-ukraine-viktor-yushchenko-dissolves-the-parliament-during-a-nationally-televised-speech-calling-for-parliamentary-elections-o.md)
-_Context: Ukrainian President, Ukrainian parliamentary election, 2007, Viktor Yushchenko, parliament_
+_Context: Parliament, Ukrainian President, Ukrainian parliamentary election, 2007, Viktor Yushchenko_
 
 ## [Previous Day...](/news/2007/04/1/index.md)
 

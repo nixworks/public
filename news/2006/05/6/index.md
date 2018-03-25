@@ -17,7 +17,7 @@ _Context: 2006 general election, People's Action Party, Singapore_
 
 ##### Mahamat Nouri
 ### [ Mahamat Nouri, until recently the Chadian ambassador to Saudi Arabia, who has previously served as the Chadian Defense Minister, defects to Sudan and joins the United Front for Democratic Change rebels. ](/news/2006/05/6/mahamat-nouri-until-recently-the-chadian-ambassador-to-saudi-arabia-who-has-previously-served-as-the-chadian-defense-minister-defects-to.md)
-_Context: Chad, Chadian rebels, Defense Minister, Mahamat Nouri, Saudi Arabia, Sudan_
+_Context: Chad, Chadian rebels, Defense Minister, Mahamat Nouri, Saudi, Sudan_
 
 ##### China
 ### [ The People's Republic of China announces Vatican-approved Paul Pei Junmin will be ordained as a Catholic bishop on Sunday, just days after a diplomatic clash due to the unilateral ordination of two other bishops by Beijing. ](/news/2006/05/6/the-people-s-republic-of-china-announces-vatican-approved-paul-pei-junmin-will-be-ordained-as-a-catholic-bishop-on-sunday-just-days-after.md)

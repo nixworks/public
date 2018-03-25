@@ -9,7 +9,7 @@ _Context: Martha Stewart, evidence, federal judge, obstruction of justice_
 
 ##### Pakistan
 ### [ Pakistani paramilitary troops launch an offensive, hunting for foreign fighters in the tribal areas on the border with Afghanistan. ](/news/2004/06/10/pakistani-paramilitary-troops-launch-an-offensive-hunting-for-foreign-fighters-in-the-tribal-areas-on-the-border-with-afghanistan.md)
-_Context: Afghanistan, Pakistan, paramilitary_
+_Context: Afghan, Pakistan, paramilitary_
 
 ##### Turkey
 ### [ Turkey releases four Kurdish prisoners. ](/news/2004/06/10/turkey-releases-four-kurdish-prisoners.md)

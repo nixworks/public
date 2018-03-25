@@ -25,7 +25,7 @@ _Context: Egypt, EgyptAir, Flight 9268, Russia, Sinai Peninsula_
 
 ##### Syrian Civil War peace process
 ### [U.S. Secretary of State John Kerry meets in Vienna, Austria, with the foreign ministers of Turkey and Saudi Arabia, as well as the U.N. special envoy for Syria, ahead of Saturday's next round of international summits on the Syrian Civil War. The talks, aimed toward a cease-fire in Syria's devastating war and a political transition to a post-war government, will include senior officials from 19 nations-groups and, as in October, Iran will participate. ](/news/2015/11/13/u-s-secretary-of-state-john-kerry-meets-in-vienna-austria-with-the-foreign-ministers-of-turkey-and-saudi-arabia-as-well-as-the-u-n-spec.md)
-_Context: Austria, Iran, John Kerry, Saudi Arabia, Secretary of State, Syria, Syrian Civil War peace process, Turkey, United Nations, Vienna_
+_Context: Austria, Iran, John Kerry, Saudi, Secretary of State, Syria, Syrian Civil War peace process, Turkey, United Nations, Vienna_
 
 ##### Refugee immigration to Germany
 ### [German Chancellor Angela Merkel asserts she still isn't prepared to name an upper limit to the number of refugees who can come to Germany, despite mounting domestic political pressure. ](/news/2015/11/13/german-chancellor-angela-merkel-asserts-she-still-isn-t-prepared-to-name-an-upper-limit-to-the-number-of-refugees-who-can-come-to-germany-d.md)

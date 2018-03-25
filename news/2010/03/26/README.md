@@ -7,7 +7,7 @@ Formats: [HTML](2010/03/26/index.html)  [JSON](2010/03/26/index.json)  [XML](201
 ### [Russia outlaws "Mein Kampf" due to its "extremist" content. ](/news/2010/03/26/russia-outlaws-mein-kampf-due-to-its-extremist-content.md)
 Russia has added Adolf Hitler&#39;s &#39;Mein Kampf&#39; to a list of books that are banned for their extremist content.
 
-##### Times
+##### The Times
 ### ["The Times" and "The Sunday Times" announce they are to charge GBP1 per day and GBP2 per week for online access from June 2010 and split into two websites from Times Online. ](/news/2010/03/26/the-times-and-the-sunday-times-announce-they-are-to-charge-agbp1-per-day-and-agbp2-per-week-for-online-access-from-june-2010-and-split-i.md)
 News International has announced that customers will be charged £2 a week to read The Times and The Sunday Times online from June.
 

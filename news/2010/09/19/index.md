@@ -109,7 +109,7 @@ _Context: 2 car bomb, Baghdad, Iraq_
 
 ##### United States soldier
 ### [The United States Army charges 5 US soldiers with murdering 3 Afghan civilians earlier this year. ](/news/2010/09/19/the-united-states-army-charges-5-us-soldiers-with-murdering-3-afghan-civilians-earlier-this-year.md)
-_Context: Afghanistan, United States, United States soldier_
+_Context: Afghan, United States, United States soldier_
 
 ##### Gaza Strip
 ### [A new convoy of vehicles departs the UK with humanitarian aid for Gaza, more than three months after 9 people were killed in the Gaza flotilla raid. ](/news/2010/09/19/a-new-convoy-of-vehicles-departs-the-uk-with-humanitarian-aid-for-gaza-more-than-three-months-after-9-people-were-killed-in-the-gaza-flotil.md)

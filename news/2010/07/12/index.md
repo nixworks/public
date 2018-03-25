@@ -79,7 +79,7 @@ Eight people are injured after a tornado hits a German island in the North Sea, 
 ### [A gunman opens fire at a fiber optics plant in Albuquerque, New Mexico, killing two and wounding four before committing suicide. ](/news/2010/07/12/a-gunman-opens-fire-at-a-fiber-optics-plant-in-albuquerque-new-mexico-killing-two-and-wounding-four-before-committing-suicide.md)
 _Context: Albuquerque, New Mexico, New Mexico, fiber optics, opens fire, suicide_
 
-##### Afghanistan
+##### Afghan
 ### [Afghan rights group Afghanistan Rights Monitor (ARM) releases its report stating that 2010 has been the most violent in the landlocked country since the United States led an invasion in 2001, though notes a reduction in airstrikes - a policy favoured by former General Stanley A. McChrystal - has led to less civilian deaths via this method in 2010. ](/news/2010/07/12/afghan-rights-group-afghanistan-rights-monitor-arm-releases-its-report-stating-that-2010-has-been-the-most-violent-in-the-landlocked-count.md)
 Afghan rights group says current year has been the most violent since US-led invasion.
 

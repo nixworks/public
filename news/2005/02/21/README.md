@@ -17,7 +17,7 @@ _Context: Kashmir, avalanche_
 
 ##### Curfew
 ### [ Curfew is imposed on the Indian city of Lucknow after sectarian violence between Sunni and Shia Muslims. 3 people are dead and 20 injured ](/news/2005/02/21/curfew-is-imposed-on-the-indian-city-of-lucknow-after-sectarian-violence-between-sunni-and-shia-muslims-3-people-are-dead-and-20-injured.md)
-_Context: Lucknow, Muslim, Shia, Sunni, curfew, sectarian violence_
+_Context: Curfew, Lucknow, Muslim, Shia, Sunni, sectarian violence_
 
 ##### Syria
 ### [ Syrian President Bashar al-Assad appoints his brother-in-law Assef Shawkat as head of the country's military intelligence service, replacing Hassan Khalil.](/news/2005/02/21/syrian-president-bashar-al-assad-appoints-his-brother-in-law-assef-shawkat-as-head-of-the-country-s-military-intelligence-service-replacin.md)

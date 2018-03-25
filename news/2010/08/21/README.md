@@ -35,7 +35,7 @@ _Context: France, Italy, Roma_
 ### [The United States is hit by a salmonella scare, with hundreds of people now thought to be ill across the country due to bad eggs; poisoning is expected to increase in the coming weeks. ](/news/2010/08/21/the-united-states-is-hit-by-a-salmonella-scare-with-hundreds-of-people-now-thought-to-be-ill-across-the-country-due-to-bad-eggs-poisoning.md)
 Salmonella-infected eggs traceable to a large producer in Iowa may have caused as many as 1200 cases of intestinal illness in at least 10 US states in recent weeks.
 
-##### Pilot whale
+##### Pilot whales
 ### [11 beached pilot whales are refloated using a crane and body sling on New Zealand's Karikari Peninsula. ](/news/2010/08/21/11-beached-pilot-whales-are-refloated-using-a-crane-and-body-sling-on-new-zealand-s-karikari-peninsula.md)
 Rescuers refloated 11 beached pilot whales using a crane and body sling yesterday after a mass stranding of 58 animals on Karikari Beach in northern New Zealand.
 

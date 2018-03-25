@@ -53,7 +53,7 @@ _Context: Armenia, Azerbaijan, Nagorno-Karabakh conflict, Nagorno-Karabakh regio
 
 ##### Saudi Arabian-led intervention in Yemen
 ### [Two Saudi border guards, including a district commander, are killed following clashes with Yemeni forces near the border with Yemen. ](/news/2015/09/26/two-saudi-border-guards-including-a-district-commander-are-killed-following-clashes-with-yemeni-forces-near-the-border-with-yemen.md)
-_Context: Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen, border guards_
+_Context: Saudi, Saudi Arabian-led intervention in Yemen, Yemen, border guards_
 
 ## [Previous Day...](/news/2015/09/25/index.md)
 

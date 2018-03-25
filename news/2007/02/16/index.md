@@ -5,7 +5,7 @@ Formats: [HTML](2007/02/16/index.html)  [JSON](2007/02/16/index.json)  [XML](200
 
 ##### Afghan President
 ### [ The President of Afghanistan Hamid Karzai meets with the Prime Minister of Italy Romano Prodi to discuss Italian contributions to the fight against the Taliban and drug traffickers in Afghanistan. ](/news/2007/02/16/the-president-of-afghanistan-hamid-karzai-meets-with-the-prime-minister-of-italy-romano-prodi-to-discuss-italian-contributions-to-the-fight.md)
-_Context: Afghan President, Afghanistan, Hamid Karzai, Prime Minister of Italy, Romano Prodi, Taliban, drug traffickers_
+_Context: Afghan, Afghan President, Hamid Karzai, Prime Minister of Italy, Romano Prodi, Taliban, drug traffickers_
 
 ##### Abu Ayyub al-Masri
 ### [ Abu Ayyub al-Masri, the current leader of al-Qaeda in Iraq, has been wounded in fighting in Baghdad according to Arab TV stations; however, the U.S. government denied the report.](/news/2007/02/16/abu-ayyub-al-masri-the-current-leader-of-al-qaeda-in-iraq-has-been-wounded-in-fighting-in-baghdad-according-to-arab-tv-stations-however.md)
@@ -25,7 +25,7 @@ _Context: Chrysler Group, DaimlerChrysler, General Motors_
 
 ##### New York
 ### [ Abdul Tawala Ibn Ali Alishtari is charged in New York, New York with financing terrorism and material support of terrorism for allegedly passing on money for a training camp in Afghanistan. ](/news/2007/02/16/abdul-tawala-ibn-ali-alishtari-is-charged-in-new-york-new-york-with-financing-terrorism-and-material-support-of-terrorism-for-allegedly-pa.md)
-_Context: Afghanistan, New York, terrorism, training camp_
+_Context: Afghan, New York, terrorism, training camp_
 
 ##### Turkey
 ### [ A Turkish court sentences seven convicted Al Qaeda associates to life imprisonment for their involvement in the 2003 Istanbul bombings. ](/news/2007/02/16/a-turkish-court-sentences-seven-convicted-al-qaeda-associates-to-life-imprisonment-for-their-involvement-in-the-2003-istanbul-bombings.md)

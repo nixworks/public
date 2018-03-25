@@ -13,7 +13,7 @@ _Context: Colombia, Johnny Hurtado_
 
 ##### Amnesty International
 ### [Amnesty International asks Saudi Arabia's King Abdullah to intervene in the case of a Lebanese man sentenced to death for "sorcery". ](/news/2010/03/19/amnesty-international-asks-saudi-arabia-s-king-abdullah-to-intervene-in-the-case-of-a-lebanese-man-sentenced-to-death-for-sorcery.md)
-_Context: Abdullah, Amnesty International, Lebanese, Saudi Arabia_
+_Context: Abdullah, Amnesty International, Lebanese, Saudi_
 
 ##### Large Hadron Collider
 ### [The Large Hadron Collider (LHC) breaks its own record. ](/news/2010/03/19/the-large-hadron-collider-lhc-breaks-its-own-record.md)
@@ -47,7 +47,7 @@ _Context: Egypt, German, Hosni Mubarak, President, mosque_
 ### [Ethiopian Prime Minister Meles Zenawi says radio station the Voice of America (VOA) is promoting "destabilising propaganda" that is inciting genocide in his country. ](/news/2010/03/19/ethiopian-prime-minister-meles-zenawi-says-radio-station-the-voice-of-america-voa-is-promoting-destabilising-propaganda-that-is-inciting.md)
 _Context: Ethiopia, Meles Zenawi, Prime Minister, Voice of America, genocide_
 
-##### Saudi Arabia
+##### Saudi
 ### [Complaints are raised against a Saudi Arabian writer for allegedly describing a hadith of the Prophet Muhammad as "barbaric" during a program presented by Nadeen Al-Badr on Al-Hurra Channel. ](/news/2010/03/19/complaints-are-raised-against-a-saudi-arabian-writer-for-allegedly-describing-a-hadith-of-the-prophet-muhammad-as-barbaric-during-a-progra.md)
 Jeddah Summary Court sends copy of lawsuit filed against writer to justice minister.
 

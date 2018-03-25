@@ -17,7 +17,7 @@ The sentence for Mr. Nagin on 2o corruption counts was less than the recommended
 
 ##### South Korea
 ### [South Korea claims that North Korea has fired two short range missiles into the ocean to the east of the Korean Peninsula. ](/news/2014/07/9/south-korea-claims-that-north-korea-has-fired-two-short-range-missiles-into-the-ocean-to-the-east-of-the-korean-peninsula.md)
-_Context: Korean Peninsula, North Korea, South Korea_
+_Context: Korean, North Korea, South Korea_
 
 ##### 2014 Pacific typhoon season
 ### [Typhoon Neoguri leaves two dead on Okinawa as it departs for Japan's main islands threatening heavy rain. ](/news/2014/07/9/typhoon-neoguri-leaves-two-dead-on-okinawa-as-it-departs-for-japan-s-main-islands-threatening-heavy-rain.md)

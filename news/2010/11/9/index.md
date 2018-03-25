@@ -77,7 +77,7 @@ _Context: Burma, Burmese military, Democratic Karen Buddhist Army, Karen State, 
 
 ##### Anwar al-Awlaki
 ### [Anwar al-Awlaki, a Yemeni cleric affiliated with al-Queda, tells Muslims in a new video posting that they are free to kill American at will, in retaliation for the killing of civilians in Iraq, Afghanistan and elsewhere. ](/news/2010/11/9/anwar-al-awlaki-a-yemeni-cleric-affiliated-with-al-queda-tells-muslims-in-a-new-video-posting-that-they-are-free-to-kill-american-at-will.md)
-_Context: Afghanistan, Anwar al-Awlaki, Iraq, Yemen, al-Queda_
+_Context: Afghan, Anwar al-Awlaki, Iraq, Yemen, al-Queda_
 
 ##### Western Sahara
 ### [The death toll from clashes at a camp in Western Sahara between Sahrawi protesters and Moroccan police rises to eleven. ](/news/2010/11/9/the-death-toll-from-clashes-at-a-camp-in-western-sahara-between-sahrawi-protesters-and-moroccan-police-rises-to-eleven.md)
@@ -85,7 +85,7 @@ _Context: Morocco, Sahrawi, Western Sahara_
 
 ##### Explosion
 ### [A bomb explosion kills Ali Abadi, governor of Shwak district in Afghanistan's eastern province of Paktia. ](/news/2010/11/9/a-bomb-explosion-kills-ali-abadi-governor-of-shwak-district-in-afghanistan-s-eastern-province-of-paktia.md)
-_Context: Afghanistan, Ali Abadi, Paktia, Shwak district, explosion_
+_Context: Afghan, Ali Abadi, Paktia, Shwak district, explosion_
 
 ## [Previous Day...](/news/2010/11/8/index.md)
 

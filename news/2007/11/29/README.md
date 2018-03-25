@@ -13,7 +13,7 @@ _Context: Aeroflot, Boris Berezovsky, Moscow, Russia, embezzled_
 
 ##### Ukrain
 ### [ Ukrainian political parties backed by Yulia Tymoshenko and Viktor Yushenko put together a parliamentary majority coalition in Parliament. ](/news/2007/11/29/ukrainian-political-parties-backed-by-yulia-tymoshenko-and-viktor-yushenko-put-together-a-parliamentary-majority-coalition-in-parliament.md)
-_Context: Ukrain, Viktor Yushenko, Yulia Tymoshenko, parliament_
+_Context: Parliament, Ukrain, Viktor Yushenko, Yulia Tymoshenko_
 
 ##### Al Jazeera
 ### [ Al Jazeera television releases an audio tape featuring a message believed to have been recorded by al Qaeda leader Osama bin Laden. ](/news/2007/11/29/al-jazeera-television-releases-an-audio-tape-featuring-a-message-believed-to-have-been-recorded-by-al-qaeda-leader-osama-bin-laden.md)

@@ -9,7 +9,7 @@ _Context: Afghan, Pakistan, Quetta, refugee, suicide bombing_
 
 ##### Military of the United States
 ### [ Eight U.S. troops are killed and 14 wounded in a helicopter crash in south-eastern Afghanistan, the U.S.-led coalition has said. ](/news/2007/02/18/eight-u-s-troops-are-killed-and-14-wounded-in-a-helicopter-crash-in-south-eastern-afghanistan-the-u-s-led-coalition-has-said.md)
-_Context: Afghanistan, Military of the United States, helicopter crash_
+_Context: Afghan, Military of the United States, helicopter crash_
 
 ##### 18 February 2007 Baghdad bombings
 ### [ 18 February 2007 Baghdad bombings: At least 56 people are killed and more than 120 injured in two car bombs in a Shia district of Baghdad, police sources have said. ](/news/2007/02/18/18-february-2007-baghdad-bombings-at-least-56-people-are-killed-and-more-than-120-injured-in-two-car-bombs-in-a-shia-district-of-baghdad.md)

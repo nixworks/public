@@ -51,7 +51,7 @@ _Context: Kenya, head to the polls, the new constitution_
 ### [A prostitute informs Prime Minister of Italy Silvio Berlusconi's corruption inquiry that she received presents after he shared a bed with her and two others. ](/news/2010/08/3/a-prostitute-informs-prime-minister-of-italy-silvio-berlusconi-s-corruption-inquiry-that-she-received-presents-after-he-shared-a-bed-with-he.md)
 _Context: Prime Minister of Italy, Silvio Berlusconi_
 
-##### Saudi Arabia
+##### Saudi
 ### [Saudi Arabia announces it is to commence a ban on the "messenger function" on BlackBerry handsets from Friday due to security concerns over the Research In Motion (RIM) technological device. ](/news/2010/08/3/saudi-arabia-announces-it-is-to-commence-a-ban-on-the-messenger-function-on-blackberry-handsets-from-friday-due-to-security-concerns-over.md)
 The authorities in Saudi Arabia tell telecoms firms to block the messenger function on Blackberry handsets from Friday.
 
@@ -145,7 +145,7 @@ Nine&#x20;people&#x20;were&#x20;killed&#x20;in&#x20;the&#x20;US&#x20;state&#x20;
 
 ##### Taliban
 ### [A battle erupts as the Taliban attacks the Kandahar Air Field, the main NATO base in southern Afghanistan. The battle lasts an hour, after which the Taliban flee. ](/news/2010/08/3/a-battle-erupts-as-the-taliban-attacks-the-kandahar-air-field-the-main-nato-base-in-southern-afghanistan-the-battle-lasts-an-hour-after-w.md)
-_Context: Afghanistan, Kandahar Air Field, NATO, Taliban_
+_Context: Afghan, Kandahar Air Field, NATO, Taliban_
 
 ##### Baghdad
 ### [At least 5 police officers are shot dead at a checkpoint in Baghdad, Iraq. ](/news/2010/08/3/at-least-5-police-officers-are-shot-dead-at-a-checkpoint-in-baghdad-iraq.md)

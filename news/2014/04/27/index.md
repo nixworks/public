@@ -7,7 +7,7 @@ Formats: [HTML](2014/04/27/index.html)  [JSON](2014/04/27/index.json)  [XML](201
 ### [The Prime Minister of South Korea Jung Hong-won announces his immediate resignation following growing criticism of the response to the sinking of the MV "Sewol". ](/news/2014/04/27/the-prime-minister-of-south-korea-jung-hong-won-announces-his-immediate-resignation-following-growing-criticism-of-the-response-to-the-sinki.md)
 Prime Minister Chung Hong-won announces resignation amid criticism of government handling of the Sewol ferry disaster.
 
-##### Saudi Arabia
+##### Saudi
 ### [Saudi Arabia reports eight more deaths and 16 more cases in the latest outbreak of the disease. ](/news/2014/04/27/saudi-arabia-reports-eight-more-deaths-and-16-more-cases-in-the-latest-outbreak-of-the-disease.md)
 RIYADH, Saudi Arabia (AP) — Saudi Arabia&#x27;s Health Ministry said Sunday that eight more people have died after contracting a lethal Middle East virus related to SARS as the kingdom grapples with a rising number of infections.
 

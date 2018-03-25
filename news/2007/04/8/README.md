@@ -13,11 +13,11 @@ _Context: Japan, Tokyo, gubernatorial elections_
 
 ##### NATO
 ### [ Seven NATO soldiers die as a result of car bombings in southern Afghanistan as it conducts an offensive against the Taliban. ](/news/2007/04/8/seven-nato-soldiers-die-as-a-result-of-car-bombings-in-southern-afghanistan-as-it-conducts-an-offensive-against-the-taliban.md)
-_Context: Afghanistan, NATO, Taliban, car bombing, soldier_
+_Context: Afghan, NATO, Taliban, car bombing, soldier_
 
 ##### Pope
 ### [ Pope Benedict laments the violence in Darfur, the Democratic Republic of Congo, Zimbabwe, Somalia, Afghanistan, and the Middle East, stating, "nothing positive is happening in Iraq" in his Easter homily. ](/news/2007/04/8/pope-benedict-laments-the-violence-in-darfur-the-democratic-republic-of-congo-zimbabwe-somalia-afghanistan-and-the-middle-east-statin.md)
-_Context:  Benedict, Afghanistan, Darfur, Democratic Republic of Congo, Easter, Iraq War, Middle East, Pope, Somali, Zimbabwe, homily_
+_Context:  Benedict, Afghan, Darfur, Democratic Republic of Congo, Easter, Iraq War, Middle East, Pope, Somali, Zimbabwe, homily_
 
 ##### Islamist
 ### [ Suspected Islamist militants open fire on a military patrol in northwestern Algeria leaving nine soldiers and six attackers dead. ](/news/2007/04/8/suspected-islamist-militants-open-fire-on-a-military-patrol-in-northwestern-algeria-leaving-nine-soldiers-and-six-attackers-dead.md)

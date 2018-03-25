@@ -15,7 +15,7 @@ RCMP says 737 went down with 15 people on board
 ### [A pilot dies as an RAF Red Arrows aeroplane crashes at the Bournemouth Air Festival following a display. ](/news/2011/08/20/a-pilot-dies-as-an-raf-red-arrows-aeroplane-crashes-at-the-bournemouth-air-festival-following-a-display.md)
 An RAF Red Arrows pilot dies when his plane crashes following a display at the Bournemouth Air Festival in Dorset.
 
-##### Afghanistan
+##### Afghan
 ### [At least 25 people die in a bus crash in Afghanistan's Kandahar Province. ](/news/2011/08/20/at-least-25-people-die-in-a-bus-crash-in-afghanistan-s-kandahar-province.md)
 A bus careers off the road near the southern Afghanistan city of Kandahar, killing 35 people and injuring 27 more.
 

@@ -57,7 +57,7 @@ _Context: Maulana Noor Mohammed Wazir, National Assembly, Pakistan, South Waziri
 
 ##### NATO
 ### [Two members of NATO's International Security Assistance Force are killed by improvised explosive devices in Afghanistan. ](/news/2010/08/23/two-members-of-nato-s-international-security-assistance-force-are-killed-by-improvised-explosive-devices-in-afghanistan.md)
-_Context: Afghanistan, International Security Assistance Force, NATO, improvised explosive device_
+_Context: Afghan, International Security Assistance Force, NATO, improvised explosive device_
 
 ##### The Palestinian Authority
 ### [The Palestinian Authority has warned that it will pull out of peace talks if Israel renews the construction of settlements in the occupied West Bank. ](/news/2010/08/23/the-palestinian-authority-has-warned-that-it-will-pull-out-of-peace-talks-if-israel-renews-the-construction-of-settlements-in-the-occupied-w.md)

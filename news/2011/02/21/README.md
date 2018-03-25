@@ -31,7 +31,7 @@ _Context: DR Congo, crimes against humanity_
 
 ##### Tunisia
 ### [Tunisia asks Saudi Arabia to extradite former President Zine El Abidine Ben Ali who was ousted in January. ](/news/2011/02/21/tunisia-asks-saudi-arabia-to-extradite-former-president-zine-el-abidine-ben-ali-who-was-ousted-in-january.md)
-_Context: Saudi Arabia, Tunisia, Zine El Abidine Ben Ali_
+_Context: Saudi, Tunisia, Zine El Abidine Ben Ali_
 
 ##### Mali
 ### [At least thirty people are killed in a stampede at a Mali stadium following a sermon by a leading Muslim imam. ](/news/2011/02/21/at-least-thirty-people-are-killed-in-a-stampede-at-a-mali-stadium-following-a-sermon-by-a-leading-muslim-imam.md)

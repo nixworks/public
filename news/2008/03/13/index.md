@@ -37,7 +37,7 @@ A Chaldean Catholic archbishop who was kidnapped in Iraq last month was found de
 
 ##### Canadian House of Commons
 ### [ The Canadian House of Commons extends the Canadian military mission in Afghanistan until 2011. ](/news/2008/03/13/the-canadian-house-of-commons-extends-the-canadian-military-mission-in-afghanistan-until-2011.md)
-_Context: Afghanistan, Canadian Armed Forces, Canadian House of Commons, military mission_
+_Context: Afghan, Canadian Armed Forces, Canadian House of Commons, military mission_
 
 ##### Darfur Conflict
 ### [ Darfur Conflict: Chad's President Idriss Deby and Sudan's President Omar al-Bashir meet in Senegal to sign the Dakar Agreement, the sixth peace agreement in five years. ](/news/2008/03/13/darfur-conflict-chad-s-president-idriss-da-c-by-and-sudan-s-president-omar-al-bashir-meet-in-senegal-to-sign-the-dakar-agreement-the-sixth.md)

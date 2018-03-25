@@ -5,7 +5,7 @@ Formats: [HTML](2009/02/26/index.html)  [JSON](2009/02/26/index.json)  [XML](200
 
 ##### United States
 ### [ The United States Defense Department allows news agencies to publicize photographs of the coffins of soldiers killed in Iraq and Afghanistan. ](/news/2009/02/26/the-united-states-defense-department-allows-news-agencies-to-publicize-photographs-of-the-coffins-of-soldiers-killed-in-iraq-and-afghanista.md)
-_Context: Afghanistan, Iraq, U.S. military, United States, United States military personnel, coffin, news agencies_
+_Context: Afghan, Iraq, U.S. military, United States, United States military personnel, coffin, news agencies_
 
 ##### Svalbard Global Seed Vault
 ### [ The Svalbard Global Seed Vault receives 90,000 food crop seed samples. ](/news/2009/02/26/the-svalbard-global-seed-vault-receives-90-000-food-crop-seed-samples.md)

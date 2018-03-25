@@ -29,7 +29,7 @@ JERUSALEM — Dozens of Palestinian detainees at an Israeli detention facility h
 
 ##### Foreign relations of Lebanon
 ### [Qatar and Kuwait join Saudi Arabia, Bahrain and the United Arab Emirates in asking its citizens to leave or avoid travel to Lebanon. ](/news/2016/02/24/qatar-and-kuwait-join-saudi-arabia-bahrain-and-the-united-arab-emirates-in-asking-its-citizens-to-leave-or-avoid-travel-to-lebanon.md)
-_Context: Bahrain, Foreign relations of Lebanon, Kuwait, Lebanese, Qatar, Saudi Arabia, United Arab Emirates_
+_Context: Bahrain, Foreign relations of Lebanon, Kuwait, Lebanese, Qatar, Saudi, United Arab Emirates_
 
 ##### Australia
 ### [Australian icebreaker, "Aurora Australis", runs aground in Antarctica with 68 people on board. There are no reports of injuries. The Australian Antarctic Division (AAD) said blizzard conditions are hampering attempts to assess damage. ](/news/2016/02/24/australian-icebreaker-aurora-australis-runs-aground-in-antarctica-with-68-people-on-board-there-are-no-reports-of-injuries-the-austral.md)

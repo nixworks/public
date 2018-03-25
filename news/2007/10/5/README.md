@@ -11,9 +11,9 @@ _Context: Japan, SELENE, moon, orbit_
 ### [ Elections for a Nepalese Constituent Assembly are delayed as the Seven Party Alliance of ruling parties and the former Communist Party of Nepal (Maoist) rebels fail to break a deadlock over the republic issue and the voting system to be used. ](/news/2007/10/5/elections-for-a-nepalese-constituent-assembly-are-delayed-as-the-seven-party-alliance-of-ruling-parties-and-the-former-communist-party-of-n.md)
 _Context: Elections, Maoist supporters, Seven Party Alliance_
 
-##### Saudi Arabia
+##### Saudi
 ### [ Saudi Arabia announces that it will overhaul its judicial system including the creation of a supreme court, an appeals court and new general courts to replace the Supreme Judicial Council. ](/news/2007/10/5/saudi-arabia-announces-that-it-will-overhaul-its-judicial-system-including-the-creation-of-a-supreme-court-an-appeals-court-and-new-genera.md)
-_Context: Saudi Arabia_
+_Context: Saudi_
 
 ##### Marion Jones
 ### [ Marion Jones admits using banned substances during her athletic career and risks being stripped of her five Olympic medals. ](/news/2007/10/5/marion-jones-admits-using-banned-substances-during-her-athletic-career-and-risks-being-stripped-of-her-five-olympic-medals.md)

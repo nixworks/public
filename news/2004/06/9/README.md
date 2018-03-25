@@ -13,7 +13,7 @@ _Context: Iraq, NATO, military_
 
 ##### Pakistan
 ### [ Twenty heavily armed foreign militants are killed by Pakistan in the South Waziristan mountainous tribal region near the Afghan border where it is believed that hundreds of al-Qaida members are hiding. ](/news/2004/06/9/twenty-heavily-armed-foreign-militants-are-killed-by-pakistan-in-the-south-waziristan-mountainous-tribal-region-near-the-afghan-border-wher.md)
-_Context: Afghanistan, Pakistan, Waziristan, al-Qaida_
+_Context: Afghan, Pakistan, Waziristan, al-Qaida_
 
 ##### Attorney General
 ### [ U.S. Attorney General John Ashcroft tells the Senate Judiciary Committee that George W. Bush did not approve the torture of terrorist prisoners; he also reiterates his stance that the Geneva Conventions do not apply to al-Qaeda fighters. ](/news/2004/06/9/u-s-attorney-general-john-ashcroft-tells-the-senate-judiciary-committee-that-george-w-bush-did-not-approve-the-torture-of-terrorist-priso.md)

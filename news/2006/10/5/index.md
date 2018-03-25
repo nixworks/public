@@ -13,7 +13,7 @@ _Context: Bersatu, Muslim, Patani United Liberation Organisation, Thailand_
 
 ##### NATO
 ### [ NATO expands its security mission to the whole of Afghanistan, taking command of more than 13,000 U.S. troops in the east of the country. ](/news/2006/10/5/nato-expands-its-security-mission-to-the-whole-of-afghanistan-taking-command-of-more-than-13-000-u-s-troops-in-the-east-of-the-country.md)
-_Context: Afghanistan, NATO_
+_Context: Afghan, NATO_
 
 ##### NTV
 ### [ NTV television in Turkey reports that 260 Turkish soldiers will join the peacekeeping force in Lebanon. ](/news/2006/10/5/ntv-television-in-turkey-reports-that-260-turkish-soldiers-will-join-the-peacekeeping-force-in-lebanon.md)

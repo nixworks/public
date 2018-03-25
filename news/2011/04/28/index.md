@@ -49,7 +49,7 @@ Retail giant Wal-Mart says it will soon bring back the sale of firearms, includi
 
 ##### Barack Obama
 ### [U.S. president Barack Obama nominates General David Petraeus, current head of the war on Afghanistan, as his new CIA chief, and names outgoing CIA chief Leon Panetta as head of The Pentagon. ](/news/2011/04/28/u-s-president-barack-obama-nominates-general-david-petraeus-current-head-of-the-war-on-afghanistan-as-his-new-cia-chief-and-names-outgoi.md)
-_Context: Barack Obama, David Petraeus, Director, General, Leon Panetta, United States military, War in Afghanistan (2001-present)_
+_Context: Barack Obama, David Petraeus, Director, General, Leon Panetta, Pentagon, War in Afghanistan (2001-present)_
 
 ##### Thailand
 ### [Thailand announces that it will send more troops to its border with Cambodia after a seventh day of fighting near the disputed Preah Vihear Temple that has killed 15 people. ](/news/2011/04/28/thailand-announces-that-it-will-send-more-troops-to-its-border-with-cambodia-after-a-seventh-day-of-fighting-near-the-disputed-preah-vihear.md)

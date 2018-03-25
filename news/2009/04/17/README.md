@@ -49,7 +49,7 @@ The Swedish owners of the illegal file&#45;sharing website The Pirate Bay defian
 
 ##### Earthquake
 ### [ Two earthquakes kill 22 people in Nangarhar Province, Afghanistan. ](/news/2009/04/17/two-earthquakes-kill-22-people-in-nangarhar-province-afghanistan.md)
-_Context: Afghanistan, Nangarhar Province, earthquake_
+_Context: Afghan, Nangarhar Province, earthquake_
 
 ##### Irish
 ### [ The Irish political party Fianna Fail departs the Alliance for Europe of the Nations and joins the European Liberal Democrat and Reform Party. ](/news/2009/04/17/the-irish-political-party-fianna-fa-il-departs-the-alliance-for-europe-of-the-nations-and-joins-the-european-liberal-democrat-and-reform-pa.md)

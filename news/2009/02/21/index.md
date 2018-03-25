@@ -17,7 +17,7 @@ Lawyer&#x20;and&#x20;sometime-novelist&#x20;Dario&#x20;Franceschini&#x20;was&#x2
 
 ##### International Security Assistance Force
 ### [ The International Security Assistance Force kills 13 people in Guzara, Herat, Afghanistan. ](/news/2009/02/21/the-international-security-assistance-force-kills-13-people-in-guzara-herat-afghanistan.md)
-_Context: Afghanistan, Guzara, Herat Province, International Security Assistance Force, War in Afghanistan (2001-present)_
+_Context: Afghan, Guzara, Herat Province, International Security Assistance Force, War in Afghanistan (2001-present)_
 
 ##### Taliban
 ### [ The Taliban and Pakistan agree to a permanent ceasefire in the war in North-West Frontier Province. ](/news/2009/02/21/the-taliban-and-pakistan-agree-to-a-permanent-ceasefire-in-the-war-in-north-west-frontier-province.md)

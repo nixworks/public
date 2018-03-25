@@ -39,9 +39,9 @@ _Context: Amazon Rainforest, Dorothy Stang_
 ### [ Statements from bishops relating to the Murphy Report into sexual abuse scandal in Dublin archdiocese are read at Masses across Ireland. ](/news/2009/11/29/statements-from-bishops-relating-to-the-murphy-report-into-sexual-abuse-scandal-in-dublin-archdiocese-are-read-at-masses-across-ireland.md)
 Archbishop Diarmuid Martin has said at this moment, he believes that decisions on whether to resign by Cardinal Desmond Connell and others mentioned in the Murphy Report should be personal.
 
-##### Saudi Arabia
+##### Saudi
 ### [ Saudi Arabia says its forces have seized control of a key mountain area amid the country's ongoing fight with Houthi rebels in Yemen. ](/news/2009/11/29/saudi-arabia-says-its-forces-have-seized-control-of-a-key-mountain-area-amid-the-country-s-ongoing-fight-with-houthi-rebels-in-yemen.md)
-_Context: Houthi, Saudi Arabia, Yemen, ongoing fight_
+_Context: Houthi, Saudi, Yemen, ongoing fight_
 
 ##### Central bank
 ### [ The central bank of the United Arab Emirates announces it will provide extra liquidity to Dubai banks. ](/news/2009/11/29/the-central-bank-of-the-united-arab-emirates-announces-it-will-provide-extra-liquidity-to-dubai-banks.md)

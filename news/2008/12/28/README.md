@@ -25,7 +25,7 @@ _Context: Department of Civil Defence, Sri Lanka, Wattala_
 
 ##### Suicide bombing
 ### [ A suicide bomber kills at least 16 people, 14 of them children, and injures 58 in Afghanistan's Khost Province. ](/news/2008/12/28/a-suicide-bomber-kills-at-least-16-people-14-of-them-children-and-injures-58-in-afghanistan-s-khost-province.md)
-_Context: Afghanistan, Khost, suicide bombing_
+_Context: Afghan, Khost, suicide bombing_
 
 ##### 2008 Garamba offensive
 ### [ 2008 Garamba offensive: Uganda's People's Defence Force accuses the Lord's Resistance Army of hacking to death 45 people in a church in the Democratic Republic of the Congo. ](/news/2008/12/28/2008-garamba-offensive-uganda-s-people-s-defence-force-accuses-the-lord-s-resistance-army-of-hacking-to-death-45-people-in-a-church-in-the.md)

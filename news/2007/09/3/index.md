@@ -77,7 +77,7 @@ _Context: Chile, Japan, free trade agreement_
 
 ##### Financial Times
 ### [ The "Financial Times" reports that the military of the People's Republic of China successfully hacked into The Pentagon's computer network. ](/news/2007/09/3/the-financial-times-reports-that-the-military-of-the-people-s-republic-of-china-successfully-hacked-into-the-pentagon-s-computer-network.md)
-_Context: Financial Times, People's Liberation Army, United States military, hackers_
+_Context: Financial Times, Pentagon, People's Liberation Army, hackers_
 
 ##### Judge
 ### [ Six expatriate judges resign from the Fijian legal system following disagreements with the military-appointed acting Chief Justice Anthony Gates. ](/news/2007/09/3/six-expatriate-judges-resign-from-the-fijian-legal-system-following-disagreements-with-the-military-appointed-acting-chief-justice-anthony.md)

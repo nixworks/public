@@ -17,7 +17,7 @@ _Context: Robert Mugabe, Zimbabwe, black_
 
 ##### Sikh
 ### [Two of three Sikhs kidnapped in Khyber Agency on the Afghan border in January are recovered by Pakistan's security forces. The decapitated corpse of the other was found last week. ](/news/2010/03/1/two-of-three-sikhs-kidnapped-in-khyber-agency-on-the-afghan-border-in-january-are-recovered-by-pakistan-s-security-forces-the-decapitated-c.md)
-_Context: Afghanistan, Khyber Agency, Pakistan, Sikh_
+_Context: Afghan, Khyber Agency, Pakistan, Sikh_
 
 ##### Toyota
 ### [Toyota president Akio Toyoda apologies to his Chinese customers in Earth's largest auto mart. ](/news/2010/03/1/toyota-president-akio-toyoda-apologies-to-his-chinese-customers-in-earth-s-largest-auto-mart.md)

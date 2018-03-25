@@ -37,7 +37,7 @@ The Reserve Bank of Australia hands borrowers a Christmas rate cut, taking the o
 
 ##### Suicide attack
 ### [A suicide attack attacks a Shiite shrine in the Afghan capital Kabul during the festival of Ashura, resulting in at least 50 people killed and hundreds injured. Hours later another attack takes place at Mazar-i-Sharif, killing at least 4. ](/news/2011/12/6/a-suicide-attack-attacks-a-shiite-shrine-in-the-afghan-capital-kabul-during-the-festival-of-ashura-resulting-in-at-least-50-people-killed-a.md)
-_Context: Afghanistan, Ashura, Kabul, Mazar-i-Sharif, Shiite, suicide attack_
+_Context: Afghan, Ashura, Kabul, Mazar-i-Sharif, Shiite, suicide attack_
 
 ## [Previous Day...](/news/2011/12/5/index.md)
 

@@ -41,7 +41,7 @@ An Italian luxury cruise ship crashed into a pier at the Red Sea port of Sharm E
 
 ##### Indian Prime Minister
 ### [Prime Minister of India Manmohan Singh arrives in Saudi Arabia on the first PM visit there since Indira Gandhi's in 1982. ](/news/2010/02/27/prime-minister-of-india-manmohan-singh-arrives-in-saudi-arabia-on-the-first-pm-visit-there-since-indira-gandhi-s-in-1982.md)
-_Context: Indian Prime Minister, Indira Gandhi, Manmohan Singh, Saudi Arabia_
+_Context: Indian Prime Minister, Indira Gandhi, Manmohan Singh, Saudi_
 
 ##### 2010 Chile earthquake
 ### [An 8.8 magnitude earthquake hits near the city of Concepcin, Chile. ](/news/2010/02/27/an-8-8-magnitude-earthquake-hits-near-the-city-of-concepcion-chile.md)

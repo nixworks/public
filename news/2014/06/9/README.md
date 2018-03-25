@@ -27,7 +27,7 @@ _Context: $, Merck & Co._
 ### [Six Cuban National Ballet dancers arrive in the American city of Miami after defecting on tour. ](/news/2014/06/9/six-cuban-national-ballet-dancers-arrive-in-the-american-city-of-miami-after-defecting-on-tour.md)
 Six dancers from the Cuban National Ballet have arrived in Miami, after they defected while on tour in search of success outside a homeland where they say young artists have no future.
 
-##### Afghanistan
+##### Afghan
 ### [Five NATO International Security Assistance Force troops are killed in fighting. ](/news/2014/06/9/five-nato-international-security-assistance-force-troops-are-killed-in-fighting.md)
 Five American soldiers have been killed accidentally by their own side in southern Afghanistan, US military sources confirm.
 

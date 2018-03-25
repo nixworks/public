@@ -33,7 +33,7 @@ At least 14 people dead and dozens wounded in twin bombing targeting two churche
 
 ##### United States
 ### [The United States embassy and consulates in Saudi Arabia close for Sunday and Monday due to heightened security concerns.](/news/2015/03/15/the-united-states-embassy-and-consulates-in-saudi-arabia-close-for-sunday-and-monday-due-to-heightened-security-concerns.md)
-_Context: Saudi Arabia, United States_
+_Context: Saudi, United States_
 
 ##### Libyan Civil War
 ### [Fighting rages near the western Libyan city of Sirte between Islamic State affiliated militants and a local militia alliance. ](/news/2015/03/15/fighting-rages-near-the-western-libyan-city-of-sirte-between-islamic-state-affiliated-militants-and-a-local-militia-alliance.md)

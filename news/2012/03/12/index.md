@@ -37,7 +37,7 @@ _Context: US Census Bureau headquarters, world population_
 
 ##### Avalanche
 ### [Over 45 people are trapped by avalanches in the remote Afghan villages of Poshan and Ghadoor in Nuristan province. ](/news/2012/03/12/over-45-people-are-trapped-by-avalanches-in-the-remote-afghan-villages-of-poshan-and-ghadoor-in-nuristan-province.md)
-_Context: Afghanistan, Ghadoor, Nuristan province, Poshan, avalanche_
+_Context: Afghan, Ghadoor, Nuristan province, Poshan, avalanche_
 
 ##### Qianjiang
 ### [A new section of high-speed railway that had undergone test runs collapses near Qianjiang, China. ](/news/2012/03/12/a-new-section-of-high-speed-railway-that-had-undergone-test-runs-collapses-near-qianjiang-china.md)

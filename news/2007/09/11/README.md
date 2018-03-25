@@ -25,7 +25,7 @@ _Context: Philippines_
 
 ##### OPEC
 ### [ OPEC meets to discuss proposals for a minor increase in oil output proposed by Saudi Arabia and other Gulf states. The meeting decided to increase output by 500,000 barrels a day.](/news/2007/09/11/opec-meets-to-discuss-proposals-for-a-minor-increase-in-oil-output-proposed-by-saudi-arabia-and-other-gulf-states-the-meeting-decided-to-i.md)
-_Context: OPEC, Saudi Arabia_
+_Context: OPEC, Saudi_
 
 ##### Turkey
 ### [ Turkish police foil a bomb attack in Ankara. ](/news/2007/09/11/turkish-police-foil-a-bomb-attack-in-ankara.md)
@@ -41,7 +41,7 @@ _Context: Pius Ncube, Robert Mugabe, Roman Catholic, archbishop, influence for s
 
 ##### Prime Minister
 ### [ Lawyers for former Prime Minister of Pakistan Nawaz Sharif file a petition in the Supreme Court of Pakistan against his deportation to Saudi Arabia. ](/news/2007/09/11/lawyers-for-former-prime-minister-of-pakistan-nawaz-sharif-file-a-petition-in-the-supreme-court-of-pakistan-against-his-deportation-to-saud.md)
-_Context: Nawaz Sharif, Prime Minister, Saudi Arabia, Supreme Court_
+_Context: Nawaz Sharif, Prime Minister, Saudi, Supreme Court_
 
 ##### Russia
 ### [ Russia claims to have tested the world's most powerful vacuum bomb, nicknamed "Father of All Bombs" after the MOAB, with yield equivalent to a small nuclear weapon. ](/news/2007/09/11/russia-claims-to-have-tested-the-world-s-most-powerful-vacuum-bomb-nicknamed-father-of-all-bombs-after-the-moab-with-yield-equivalent-t.md)

@@ -45,7 +45,7 @@ A Mali government spokesman says clashes between national soldiers and armed pol
 
 ##### Qalat
 ### [A bombing in Qalat, capital of the southern Zabul Province, kills three U.S. soldiers and two U.S. civilians, along with an Afghan doctor. An American civilian dies in another attack in the east of the country. ](/news/2013/04/6/a-bombing-in-qalat-capital-of-the-southern-zabul-province-kills-three-u-s-soldiers-and-two-u-s-civilians-along-with-an-afghan-doctor-a.md)
-_Context: Afghanistan, Qalat, U.S., Zabul Province_
+_Context: Afghan, Qalat, U.S., Zabul Province_
 
 ##### Machete
 ### [11 people are killed in a gun and machete attack in a village of Midlu in Northern Nigeria. ](/news/2013/04/6/11-people-are-killed-in-a-gun-and-machete-attack-in-a-village-of-midlu-in-northern-nigeria.md)

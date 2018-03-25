@@ -17,7 +17,7 @@ _Context: Samaritan's Purse_
 
 ##### Ghor Province
 ### [Insurgents stop minibuses in Ghor Province, Afghanistan and execute 14 Shiite Muslims. ](/news/2014/07/26/insurgents-stop-minibuses-in-ghar-province-afghanistan-and-execute-14-shiite-muslims.md)
-_Context: Afghanistan, Ghor Province, Shia_
+_Context: Afghan, Ghor Province, Shia_
 
 ##### United States
 ### [The United States evacuates its embassy in Tripoli amid concerns about deteriorating security conditions. ](/news/2014/07/26/the-united-states-evacuates-its-embassy-in-tripoli-amid-concerns-about-deteriorating-security-conditions.md)

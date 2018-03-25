@@ -15,9 +15,9 @@ Channel NewsAsia - Breaking News, Asia-Pacific news coverage from Channel NewsAs
 ### [ The death toll from an outbreak of dengue fever on Java has risen to 224. ](/news/2004/02/22/the-death-toll-from-an-outbreak-of-dengue-fever-on-java-has-risen-to-224.md)
 Channel NewsAsia - Breaking News, Asia-Pacific news coverage from Channel NewsAsia featuring Business, World, Sport, Entertainment, Technology, Health, Lifestyle and Live Streaming.
 
-##### United States military
+##### Pentagon
 ### [ A Pentagon report is leaked predicting global doom from climate change. The report was reportedly suppressed by the Bush administration. ](/news/2004/02/22/a-pentagon-report-is-leaked-predicting-global-doom-from-climate-change-the-report-was-reportedly-suppressed-by-the-bush-administration.md)
-_Context: George W. Bush, United States military, climate change_
+_Context: George W. Bush, Pentagon, climate change_
 
 ##### Same-sex marriage in the United States
 ### [ Same-sex marriage in the United States: Saying he will defend California's laws limiting marriage to opposite-sex couples, state attorney general Bill Lockyer dismisses California governor Arnold Schwarzenegger's "order" in the San Francisco marriage licenses debate, saying his office is independent of gubernatorial power. ](/news/2004/02/22/same-sex-marriage-in-the-united-states-saying-he-will-defend-california-s-laws-limiting-marriage-to-opposite-sex-couples-state-attorney-g.md)

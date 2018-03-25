@@ -89,9 +89,9 @@ _Context: African Union, Islamist, Somali_
 ### [The Nigerian military acknowledges that raids to root out armed gangs in the Niger Delta may have killed civilians. ](/news/2010/12/5/the-nigerian-military-acknowledges-that-raids-to-root-out-armed-gangs-in-the-niger-delta-may-have-killed-civilians.md)
 _Context: Niger Delta, Nigerian_
 
-##### Afghanistan
+##### Afghan
 ### [A blast at an army base in eastern Afghanistan kills at least two soldiers and two civilians. ](/news/2010/12/5/a-blast-at-an-army-base-in-eastern-afghanistan-kills-at-least-two-soldiers-and-two-civilians.md)
-_Context: Afghanistan_
+_Context: Afghan_
 
 ##### WikiLeaks
 ### [The WikiLeaks website is forced offline again. ](/news/2010/12/5/the-wikileaks-website-is-forced-offline-again.md)

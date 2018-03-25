@@ -29,7 +29,7 @@ Sigmundur Davíð Gunnlaugsson steps aside amid widespread anger over allegation
 
 ##### LGBT rights in the United States
 ### [Mississippi Governor Phil Bryant approves a new law that allows religious groups and private businesses to deny services to gay and transgender people. ](/news/2016/04/5/mississippi-governor-phil-bryant-approves-a-new-law-that-allows-religious-groups-and-private-businesses-to-deny-services-to-gay-and-transgen.md)
-_Context: LGBT rights in the United States, Mississippi Governor, Phil Bryant's, gay and bisexual men_
+_Context: LGBT rights in the United States, Mississippi Governor, Phil Bryant's, transgender_
 
 ##### Military junta
 ### [The Military junta of Thailand gives the Royal Thai Armed Forces broad police-like powers. The military is now allowed to prevent or suppress over 27 types of offenses. The move created an outcry from human rights organizations and prompted the United States to express its concern over the growing influence of the military in the country. ](/news/2016/04/5/the-military-junta-of-thailand-gives-the-royal-thai-armed-forces-broad-police-like-powers-the-military-is-now-allowed-to-prevent-or-suppres.md)

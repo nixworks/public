@@ -11,9 +11,9 @@ _Context: 2004 U.S. presidential candidate, Democrat, Democratic National Commit
 ### [ A strain of HIV, known to be highly drug-resistant, is discovered in a New York City individual. Further alarming health officials is that the onset of AIDS began within a few months of his diagnosis, a process which ordinarily takes over ten years. The patient is known to have frequently taken methamphetamine, a mutagen. ](/news/2005/02/12/a-strain-of-hiv-known-to-be-highly-drug-resistant-is-discovered-in-a-new-york-city-individual-further-alarming-health-officials-is-that.md)
 _Context: AIDS, HIV, New York City, drug-resistant, methamphetamine, mutagen, strain_
 
-##### Protests against Faure Gnassingbe
-### [In Lome, Togo, thousands protest the army-installed President Faure Gnassingbe. Clashes with soldiers and police forces cause the deaths of three demonstrators. ](/news/2005/02/12/in-lome-togo-thousands-protest-the-army-installed-president-faure-gnassingba-c-clashes-with-soldiers-and-police-forces-cause-the-deaths-of.md)
-_Context: Faure Gnassingbe, Lome, Protests against Faure Gnassingbe, Togo_
+##### Mass protests
+### [In Lome, Togo, thousands protest the army-installed President Faure Gnassingb. Clashes with soldiers and police forces cause the deaths of three demonstrators. ](/news/2005/02/12/in-lome-togo-thousands-protest-the-army-installed-president-faure-gnassingbe-clashes-with-soldiers-and-police-forces-cause-the-deaths-of.md)
+_Context: Faure Gnassingb, Lome, Togo, mass protests_
 
 ## [Previous Day...](/news/2005/02/11/index.md)
 

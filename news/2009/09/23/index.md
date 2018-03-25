@@ -5,7 +5,7 @@ Formats: [HTML](2009/09/23/index.html)  [JSON](2009/09/23/index.json)  [XML](200
 
 ##### King Abdullah University of Science and Technology
 ### [ The multi-billion dollar King Abdullah University of Science and Technology, boasting one of the world's fastest supercomputers, opens near Jeddah in Saudi Arabia in an attempt to enable the country to compete in science and technology internationally. ](/news/2009/09/23/the-multi-billion-dollar-king-abdullah-university-of-science-and-technology-boasting-one-of-the-world-s-fastest-supercomputers-opens-near.md)
-_Context: Jeddah, King Abdullah University of Science and Technology, Saudi Arabia, supercomputer_
+_Context: Jeddah, King Abdullah University of Science and Technology, Saudi, supercomputer_
 
 ##### ABBA
 ### [ ABBA, Genesis, Kiss, LL Cool J, Red Hot Chili Peppers and The Stooges are amongst several acts nominated for the Rock and Roll Hall of Fame. ](/news/2009/09/23/abba-genesis-kiss-ll-cool-j-red-hot-chili-peppers-and-the-stooges-are-amongst-several-acts-nominated-for-the-rock-and-roll-hall-of-fame.md)

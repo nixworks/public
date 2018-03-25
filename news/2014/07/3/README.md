@@ -31,7 +31,7 @@ _Context: Fiji, Lau Islands, Minerva Reefs, Tonga, disputed_
 ### [A 31-year-old male employee of Germany's intelligence service BND is arrested on suspicions of spying for the United States. The employee is suspected of spying on a German parliamentary committee investigating U.S. espionage. ](/news/2014/07/3/a-31-year-old-male-employee-of-germany-s-intelligence-service-bnd-is-arrested-on-suspicions-of-spying-for-the-united-states-the-employee-is.md)
 _Context: German, German intelligence, Germany-United States relations, Global surveillance disclosures, espionage_
 
-##### Saudi Arabia
+##### Saudi
 ### [Saudi Arabia deploys 30,000 soldiers to its border with Iraq after Iraqi government forces withdrew from the area. ](/news/2014/07/3/saudi-arabia-deploys-30-000-soldiers-to-its-border-with-iraq-after-iraqi-government-forces-withdrew-from-the-area.md)
 Saudi-owned al-Arabiya television said Saudi Arabia had deployed 30,000 soldiers to its border with Iraq on Thursday after Iraqi forces abandoned the area, but Baghdad denied pulling forces back and said it remained in full control of its frontier.
 

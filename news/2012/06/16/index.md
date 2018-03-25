@@ -11,7 +11,7 @@ The U.S. Air Force&#039;s secretive X-37B space plane landed after completing it
 ### [China successfully launches its Shenzhou 9 spacecraft, carrying three astronauts &ndash; including the first female Chinese astronaut, Liu Yang &ndash; to the Tiangong-1 orbital module. ](/news/2012/06/16/china-successfully-launches-its-shenzhou-9-spacecraft-carrying-three-astronauts-ndash-including-the-first-female-chinese-astronaut-liu-y.md)
 China sends its first woman into space as 33-year-old fighter pilot Liu Yang is one of three astronauts travelling to the orbiting Tiangong space lab.
 
-##### Saudi Arabia
+##### Saudi
 ### [Saudi Arabia states that Crown Prince Nayef has died in Geneva. ](/news/2012/06/16/saudi-arabia-states-that-crown-prince-nayef-has-died-in-geneva.md)
 Prince Nayef bin Abdulaziz Al Saud, next in line to the throne, has died abroad at the age of 78.
 

@@ -23,9 +23,9 @@ _Context: Arnold Schwarzenegger, California, Hollywood, Republican, Republican N
 ### [ 2004 Atlantic hurricane season: Hurricane Frances affects the British Virgin Islands, the United States Virgin Islands and the northern-east part of Puerto Rico. ](/news/2004/08/31/2004-atlantic-hurricane-season-hurricane-frances-affects-the-british-virgin-islands-the-united-states-virgin-islands-and-the-northern-eas.md)
 Follow the StarTribune for the news, photos and videos from the Twin Cities and beyond.
 
-##### Afghanistan
+##### Afghan
 ### [ Afghan police say a United States bombing raid killed at least six civilians in the eastern province of Kunar. ](/news/2004/08/31/afghan-police-say-a-united-states-bombing-raid-killed-at-least-six-civilians-in-the-eastern-province-of-kunar.md)
-_Context: Afghanistan, Kunar Province, civilian, police_
+_Context: Afghan, Kunar Province, civilian, police_
 
 ##### Palestinian
 ### [ Palestinian suicide bombers kill at least 16 Israelis and wound more than 91 others aboard two city buses in Beer Sheva, Israel in the first successful Palestinian suicide bombings since March 14, 2004, with Hamas claiming responsibility. ](/news/2004/08/31/palestinian-suicide-bombers-kill-at-least-16-israelis-and-wound-more-than-91-others-aboard-two-city-buses-in-beer-sheva-israel-in-the-firs.md)

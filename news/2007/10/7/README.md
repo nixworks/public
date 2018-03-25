@@ -37,7 +37,7 @@ The United Automobile Workers union has set a Wednesday strike deadline in talks
 
 ##### War in Afghanistan (2001-present)
 ### [ War in Afghanistan: Sixteen militants fighting under wanted Uzbek warlord Tahir Yuldash are killed in eastern Afghanistan. ](/news/2007/10/7/war-in-afghanistan-sixteen-militants-fighting-under-wanted-uzbek-warlord-tahir-yuldash-are-killed-in-eastern-afghanistan.md)
-_Context: Afghanistan, Tahir Yuldash, Uzbekistan, War in Afghanistan (2001-present)_
+_Context: Afghan, Tahir Yuldash, Uzbekistan, War in Afghanistan (2001-present)_
 
 ## [Previous Day...](/news/2007/10/6/index.md)
 

@@ -23,9 +23,9 @@ The incident took place around 11 pm yesterday when the train was on its way to 
 ### [Eight people are killed in Rafah, Egypt, after a shell lands on the home in which they were staying. ](/news/2017/01/21/eight-people-are-killed-in-rafah-egypt-after-a-shell-lands-on-the-home-in-which-they-were-staying.md)
  Eight people were killed on Saturday after a shell landed on a house in southern Rafah, in the north of Sinai, eye witnesses and medical sources said.
 
-##### Saudi Arabia
+##### Saudi
 ### [Two suicide bombers detonate their explosives during a firefight with Saudi security forces in Jeddah. ](/news/2017/01/21/two-suicide-bombers-detonate-their-explosives-during-a-firefight-with-saudi-security-forces-in-jeddah.md)
-_Context: Jeddah, Saudi Arabia_
+_Context: Jeddah, Saudi_
 
 ##### Syrian Civil War
 ### [A car bomb attack occurs in the Rakban refugee camp near the Jordanian border. Casualty counts are currently unknown and no one has yet taken credit for the attack. ](/news/2017/01/21/a-car-bomb-attack-occurs-in-the-rakban-refugee-camp-near-the-jordanian-border-casualty-counts-are-currently-unknown-and-no-one-has-yet-take.md)

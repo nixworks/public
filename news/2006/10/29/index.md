@@ -17,7 +17,7 @@ Frontpage | New Straits Times : Authoritative source for Malaysia latest news on
 
 ##### War in Afghanistan (2001-present)
 ### [ War in Afghanistan (2001-present): One NATO soldier and about 70 Taliban insurgents were killed in southern Afghanistan when fighting broke out between insurgents and Afghan troops and NATO's International Security Assistance Force (ISAF), officials said. ](/news/2006/10/29/war-in-afghanistan-2001apresent-one-nato-soldier-and-about-70-taliban-insurgents-were-killed-in-southern-afghanistan-when-fighting-bro.md)
-_Context: Afghanistan, International Security Assistance Force, NATO, Taliban insurgency, War in Afghanistan (2001-present)_
+_Context: Afghan, International Security Assistance Force, NATO, Taliban insurgency, War in Afghanistan (2001-present)_
 
 ##### Iraqi insurgency
 ### [ Iraqi insurgency: 17 police officers, 15 of them police trainers, are abducted and murdered in Basra. ](/news/2006/10/29/iraqi-insurgency-17-police-officers-15-of-them-police-trainers-are-abducted-and-murdered-in-basra.md)

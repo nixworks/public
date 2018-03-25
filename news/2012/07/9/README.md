@@ -35,9 +35,9 @@ _Context: Norwegian, Oil, gas, industrial dispute, lock out_
 ### [Thousands of computer users around the world lose Internet access as a result of the expiration of a Federal Bureau of Investigation temporary fix to the Internet Doomsday virus. ](/news/2012/07/9/thousands-of-computer-users-around-the-world-lose-internet-access-as-a-result-of-the-expiration-of-a-federal-bureau-of-investigation-tempora.md)
 Thousands of computer users may be without Internet access Monday after a deadline expired for a temporary fix to a malicious software scam shut down by the FBI last year. What is it? Millions of computers were infected with the so-called &quot;Internet Doomsday&quot; virus used in the hacking scam,
 
-##### Saudi Arabia
+##### Saudi
 ### [Two men are killed after protests in the eastern part of Saudi Arabia, following the arrest of a Shi'ite cleric, Nimr al Nimr yesterday.](/news/2012/07/9/two-men-are-killed-after-protests-in-the-eastern-part-of-saudi-arabia-following-the-arrest-of-a-shi-ite-cleric-nimr-al-nimr-yesterday.md)
-_Context: Nimr al-Nimr, Saudi Arabia_
+_Context: Nimr al-Nimr, Saudi_
 
 ##### Pakistan Army
 ### [Gunmen open fire at a Pakistan Army training camp near the city of Wazirabad resulting in seven deaths and five people being injured. ](/news/2012/07/9/gunmen-open-fire-at-a-pakistan-army-training-camp-near-the-city-of-wazirabad-resulting-in-seven-deaths-and-five-people-being-injured.md)

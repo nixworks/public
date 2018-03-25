@@ -17,7 +17,7 @@ _Context: Iranian-born, Israel, Kadima, Shaul Mofaz, elected, leader of oppositi
 
 ##### Sten Tolgfors
 ### [Sten Tolgfors resigns as Swedish Minister for Defence due to allegations that he knew about plans to assist Saudi Arabia build a weapons plant. ](/news/2012/03/29/sten-tolgfors-resigns-as-swedish-minister-for-defence-due-to-allegations-that-he-knew-about-plans-to-assist-saudi-arabia-build-a-weapons-pla.md)
-_Context: Saudi Arabia, Sten Tolgfors, Swedish Minister for Defence_
+_Context: Saudi, Sten Tolgfors, Swedish Minister for Defence_
 
 ##### Hana Shalabi
 ### [Hana Shalabi ends her 43-day hunger strike and is exiled to the Gaza Strip. ](/news/2012/03/29/hana-shalabi-ends-her-43-day-hunger-strike-and-is-exiled-to-the-gaza-strip.md)

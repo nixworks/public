@@ -19,7 +19,7 @@ Prominent activists among 33 arrested for marking Constitution Day with protests
 ### [Residents in the United States' fourth largest city are voting in a runoff election to choose the new mayor of Houston, Texas. The race is between the top two finishers in November's non-partisan election: Sylvester Turner, a veteran lawmaker seeking to expand economic opportunities; and, Bill King, a businessman pledging to fix city finances. ](/news/2015/12/12/residents-in-the-united-states-fourth-largest-city-are-voting-in-a-runoff-election-to-choose-the-new-mayor-of-houston-texas-the-race-is-b.md)
 Voters in Houston, the fourth most-populous U.S. city, went to the polls on Saturday to elect a mayor with Sylvester Turner, a veteran lawmaker seeking to expand economic opportunities, facing Bill King, a businessman pledging to fix city finances.
 
-##### Saudi Arabia
+##### Saudi
 ### [Voters in Saudi Arabia go to the polls for municipal elections, with women voting and standing for election for the first time. Seventeen women are elected to office. ](/news/2015/12/12/voters-in-saudi-arabia-go-to-the-polls-for-municipal-elections-with-women-voting-and-standing-for-election-for-the-first-time-seventeen-wo.md)
 On a recent night in the Saudi capital, municipal council candidate Amal Badredin Alsnari wooed potential voters with heaping plates of hors d&apos;oeuvres and a pledge to bring more public services to neighborhoods in need.
 
@@ -65,7 +65,7 @@ Syria has suffered another day of death and destruction. This time in the centra
 
 ##### Iraqi Civil War (2014-present)
 ### [A suicide bomber attacks an Iraqi Army post in Al Anbar Governorate on the border with Saudi Arabia, killing at least six guards. ](/news/2015/12/12/a-suicide-bomber-attacks-an-iraqi-army-post-in-al-anbar-governorate-on-the-border-with-saudi-arabia-killing-at-least-six-guards.md)
-_Context: Al Anbar Governorate, Iraqi Army, Iraqi Civil War (2014-present), Saudi Arabia, suicide bomber_
+_Context: Al Anbar Governorate, Iraqi Army, Iraqi Civil War (2014-present), Saudi, suicide bomber_
 
 ## [Previous Day...](/news/2015/12/11/index.md)
 

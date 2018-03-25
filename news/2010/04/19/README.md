@@ -33,7 +33,7 @@ _Context: Indonesia, Indonesian National Police, Jakarta, riot police_
 
 ##### Kabul
 ### [Seven are killed and 30 are injured in a magnitude 5.3 earthquake in the mountains north of Kabul, Afghanistan. ](/news/2010/04/19/seven-are-killed-and-30-are-injured-in-a-magnitude-5-3-earthquake-in-the-mountains-north-of-kabul-afghanistan.md)
-_Context: Afghanistan, Kabul_
+_Context: Afghan, Kabul_
 
 ##### An earthquake struck on 14 April
 ### [Aftershocks of the Yushu earthquake continue. Quake death toll rises to 1,944. ](/news/2010/04/19/aftershocks-of-the-yushu-earthquake-continue-quake-death-toll-rises-to-1-944.md)

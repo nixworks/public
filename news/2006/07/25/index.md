@@ -5,7 +5,7 @@ Formats: [HTML](2006/07/25/index.html)  [JSON](2006/07/25/index.json)  [XML](200
 
 ##### Parliament
 ### [ 2006 Ukraine parliament crisis. Ukraine's parliament, Verkhovna Rada, misses the deadline to form a coalition, facing a possible dissolution. ](/news/2006/07/25/2006-ukraine-parliament-crisis-ukraine-s-parliament-verkhovna-rada-misses-the-deadline-to-form-a-coalition-facing-a-possible-dissolutio.md)
-_Context: coalition, parliament_
+_Context: Parliament, coalition_
 
 ##### Israeli Army
 ### [ Israeli army radio reports that Israeli Army chief of staff Dan Halutz has ordered the air force to destroy 10 multi-story buildings in the Dahiya district (of Beirut) in response to every rocket fired on Haifa. As of Sunday the ratio of reported deaths was more than 17:1. ](/news/2006/07/25/israeli-army-radio-reports-that-israeli-army-chief-of-staff-dan-halutz-has-ordered-the-air-force-to-destroy-10-multi-story-buildings-in-the.md)

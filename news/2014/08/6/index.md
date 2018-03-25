@@ -17,7 +17,7 @@ _Context: Chinese, Karamay, Muslim, Xinjiang_
 
 ##### 2014 West Africa Ebola outbreak
 ### [The World Health Organisation reports that 932 have died from the latest outbreak of the Ebola virus with a man reportedly dying of the disease in Jeddah, Saudi Arabia after a business trip to Sierra Leone. ](/news/2014/08/6/the-world-health-organisation-reports-that-932-have-died-from-the-latest-outbreak-of-the-ebola-virus-with-a-man-reportedly-dying-of-the-dise.md)
-_Context: 2014 West Africa Ebola outbreak, Ebola virus, Jeddah, Saudi Arabia, Sierra Leone, World Health Organisation_
+_Context: 2014 West Africa Ebola outbreak, Ebola virus, Jeddah, Saudi, Sierra Leone, World Health Organisation_
 
 ##### 2014 Pacific hurricane season
 ### [The US island state of Hawaii prepares for the potential impact of Hurricane Iselle on Thursday and Tropical Storm Julio on Sunday. ](/news/2014/08/6/the-us-island-state-of-hawaii-prepares-for-the-potential-impact-of-hurricane-iselle-on-thursday-and-tropical-storm-julio-on-sunday.md)
@@ -41,7 +41,7 @@ _Context: Iraq, Iraqi insurgency (2011-present), Islamic State of Iraq and Syria
 
 ##### Syrian Civil War
 ### [Saudi Arabia grants Lebanon US$1 billion to help the country in its conflict with self-declared jihadist fighters on the border with Syria. ](/news/2014/08/6/saudi-arabia-grants-lebanon-us-1-billion-to-help-the-country-in-its-conflict-with-self-declared-jihadist-fighters-on-the-border-with-syria.md)
-_Context: Lebanese, Saudi Arabia, Syria, Syrian Civil War_
+_Context: Lebanese, Saudi, Syria, Syrian Civil War_
 
 ## [Previous Day...](/news/2014/08/5/index.md)
 

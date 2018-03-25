@@ -19,9 +19,9 @@ _Context: Northern Hemisphere, RSV, asthma, autumn, virus_
 ### [ New Zealand's national rugby league team defeats Australia's team 34 to 20 in the final of the 2008 Rugby League World Cup. ](/news/2008/11/22/new-zealand-s-national-rugby-league-team-defeats-australia-s-team-34-to-20-in-the-final-of-the-2008-rugby-league-world-cup.md)
 _Context: 2008 Rugby League World Cup, Australia, New Zealand, national rugby league team, team_
 
-##### Saudi Arabia
+##### Saudi
 ### [ Saudi Arabia's Royal Navy joins NATO's mission in combating piracy in Somalia. ](/news/2008/11/22/saudi-arabia-s-royal-navy-joins-nato-s-mission-in-combating-piracy-in-somalia.md)
-_Context: NATO, Royal Navy, Saudi Arabia, Somali, pirates_
+_Context: NATO, Royal Navy, Saudi, Somali, pirates_
 
 ##### Kurdish
 ### [ The Kurdistan Workers Party claims responsibility for bombing an oil pipeline between Iraq and Turkey. ](/news/2008/11/22/the-kurdistan-workers-party-claims-responsibility-for-bombing-an-oil-pipeline-between-iraq-and-turkey.md)

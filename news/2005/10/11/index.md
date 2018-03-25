@@ -17,7 +17,7 @@ _Context: SOS Children, serious food shortages_
 
 ##### War in Afghanistan (2001-present)
 ### [ Conflict in Afghanistan: 18 Afghan police die following an ambush in Halmand, southern Afghanistan. ](/news/2005/10/11/conflict-in-afghanistan-18-afghan-police-die-following-an-ambush-in-halmand-southern-afghanistan.md)
-_Context: Afghanistan, War in Afghanistan (2001-present), ambush_
+_Context: Afghan, War in Afghanistan (2001-present), ambush_
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: Insurgent suicide bomb attacks leave over 30 people dead in Talafar, North West Iraq. ](/news/2005/10/11/conflict-in-iraq-insurgent-suicide-bomb-attacks-leave-over-30-people-dead-in-talafar-north-west-iraq.md)

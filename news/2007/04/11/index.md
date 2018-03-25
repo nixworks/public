@@ -53,7 +53,7 @@ _Context: 2008, Darfur conflict, Joseph Biden, United States Senate Foreign Rela
 
 ##### United States
 ### [ The United States extends the tour of duty for troops in Iraq and Afghanistan from a year to 15 months. ](/news/2007/04/11/the-united-states-extends-the-tour-of-duty-for-troops-in-iraq-and-afghanistan-from-a-year-to-15-months.md)
-_Context: Afghanistan, Iraq, United States, tour of duty_
+_Context: Afghan, Iraq, United States, tour of duty_
 
 ##### Senate
 ### [ The United States Senate votes to ease funding restrictions on stem-cell research but President Bush threatens to veto the bill. ](/news/2007/04/11/the-united-states-senate-votes-to-ease-funding-restrictions-on-stem-cell-research-but-president-bush-threatens-to-veto-the-bill.md)

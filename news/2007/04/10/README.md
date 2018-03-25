@@ -9,7 +9,7 @@ _Context: Johnny Cash_
 
 ##### Australian Prime Minister
 ### [ Australian Prime Minister John Howard announces that 300 soldiers from the Australian Special Air Service Regiment will be sent to Oruzgan Province, Afghanistan to combat the Taliban. ](/news/2007/04/10/australian-prime-minister-john-howard-announces-that-300-soldiers-from-the-australian-special-air-service-regiment-will-be-sent-to-ora-zga.md)
-_Context: Afghanistan, Australian Prime Minister, Australian Special Air Service Regiment, John Howard, Oruzgan Province, Taliban_
+_Context: Afghan, Australian Prime Minister, Australian Special Air Service Regiment, John Howard, Oruzgan Province, Taliban_
 
 ##### Government
 ### [ The government of Japan extends economic sanctions against the North Korean government by an additional six months, citing a lack of progress in resolving kidnapping cases of Japanese citizens. ](/news/2007/04/10/the-government-of-japan-extends-economic-sanctions-against-the-north-korean-government-by-an-additional-six-months-citing-a-lack-of-progre.md)

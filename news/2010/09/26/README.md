@@ -25,7 +25,7 @@ _Context: Israel, Israeli settlement freeze, Mahmoud Abbas, West Bank_
 
 ##### Philip Alston
 ### [Philip Alston, the international law scholar who recently stepped down as the United Nations's senior official on extrajudicial killings, calls for the UN to investigate war crimes in Afghanistan and to convict those responsible. ](/news/2010/09/26/philip-alston-the-international-law-scholar-who-recently-stepped-down-as-the-united-nations-s-senior-official-on-extrajudicial-killings-ca.md)
-_Context: Afghanistan, Philip Alston, United Nations, extrajudicial killing, international law, war crime_
+_Context: Afghan, Philip Alston, United Nations, extrajudicial killing, international law, war crime_
 
 ##### Human Rights Council
 ### [The 57-member United Nations Human Rights Council is to investigate the facts found by a report into the Gaza flotilla raid carried out by Israel earlier this year. ](/news/2010/09/26/the-57-member-united-nations-human-rights-council-is-to-investigate-the-facts-found-by-a-report-into-the-gaza-flotilla-raid-carried-out-by-i.md)
@@ -63,7 +63,7 @@ _Context: Peter Mullan, San Sebastian International Film Festival_
 ### [Georgia replaces the Russian language with the English language as its second language. ](/news/2010/09/26/georgia-replaces-the-russian-language-with-the-english-language-as-its-second-language.md)
 _Context:  Georgian, English, Russian language_
 
-##### United States military
+##### Pentagon
 ### [America's Department of Defense (The Pentagon) admits purchasing nearly 10,000 copies of a memoir by U.S. Army Reserve officer Anthony Shaffer, destroying all of them in an effort to suppress secret information and ordering heavy redactions of the book's second printing. ](/news/2010/09/26/america-s-department-of-defense-the-pentagon-admits-purchasing-nearly-10-000-copies-of-a-memoir-by-u-s-army-reserve-officer-anthony-shaff.md)
 The Pentagon has admitted buying up and destroying 10,000 copies of an insider&#039;s account of life in Afghanistan by an army intelligence officer.
 
@@ -73,7 +73,7 @@ _Context: Al Qaeda, Sana'a, Yemen, policemen_
 
 ##### NATO
 ### [2 NATO service members are killed in a bomb blast in southern Afghanistan. ](/news/2010/09/26/2-nato-service-members-are-killed-in-a-bomb-blast-in-southern-afghanistan.md)
-_Context: Afghanistan, NATO_
+_Context: Afghan, NATO_
 
 ##### Iranian Revolutionary guards
 ### [The Army of the Guardians of the Islamic Revolution cross the border into Iraq and kill 30 Kurds. ](/news/2010/09/26/the-army-of-the-guardians-of-the-islamic-revolution-cross-the-border-into-iraq-and-kill-30-kurds.md)

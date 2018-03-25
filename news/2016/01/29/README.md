@@ -49,7 +49,7 @@ _Context: Iraqi Civil War (2014-present), Kurdistan Region_
 
 ##### Terrorism in Saudi Arabia
 ### [At least 3 people are killed and 7 wounded in an attack on a Shia mosque in Saudi Arabia's Eastern Province. ](/news/2016/01/29/at-least-3-people-are-killed-and-7-wounded-in-an-attack-on-a-shia-mosque-in-saudi-arabia-s-eastern-province.md)
-_Context: Eastern Province, Saudi Arabia, Shia, Terrorism in Saudi Arabia_
+_Context: Eastern Province, Saudi, Shia, Terrorism in Saudi Arabia_
 
 ## [Previous Day...](/news/2016/01/28/index.md)
 

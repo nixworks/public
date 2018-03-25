@@ -11,9 +11,9 @@ _Context: Oklahoma City bombing, Texas, William Krar, chemical weapons, domestic
 ### [ A Chicago laboratory announces they helped choose embryos by genetic testing to yield five babies who could donate stem cells to sick siblings. ](/news/2004/05/4/a-chicago-laboratory-announces-they-helped-choose-embryos-by-genetic-testing-to-yield-five-babies-who-could-donate-stem-cells-to-sick-sibli.md)
 _Context: Chicago, lab, stem cell_
 
-##### United States military
+##### Pentagon
 ### [ The Pentagon announces that it plans to keep as many as 138,000 U.S. troops in Iraq through the end of 2005. ](/news/2004/05/4/the-pentagon-announces-that-it-plans-to-keep-as-many-as-138-000-u-s-troops-in-iraq-through-the-end-of-2005.md)
-_Context: Iraq, United States military_
+_Context: Iraq, Pentagon_
 
 ##### Democratic
 ### [ U.S. Democratic and Republican leaders in Congress condemn the alleged mistreatment of Iraqi detainees in the strongest terms and call for a congressional investigation. ](/news/2004/05/4/u-s-democratic-and-republican-leaders-in-congress-condemn-the-alleged-mistreatment-of-iraqi-detainees-in-the-strongest-terms-and-call-for.md)

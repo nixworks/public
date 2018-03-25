@@ -27,9 +27,9 @@ _Context: Iraq_
 ### [ Hurricane Dennis makes landfall in the United States, slamming into the Florida Panhandle with 120 mph winds. ](/news/2005/07/10/hurricane-dennis-makes-landfall-in-the-united-states-slamming-into-the-florida-panhandle-with-120-mph-winds.md)
 _Context: Dennis, Panhandle_
 
-##### Afghanistan
+##### Afghan
 ### [ Ten Afghan soldiers are decapitated by Taliban insurgents in Afghanistan. ](/news/2005/07/10/ten-afghan-soldiers-are-decapitated-by-taliban-insurgents-in-afghanistan.md)
-_Context: Afghanistan_
+_Context: Afghan_
 
 ## [Previous Day...](/news/2005/07/9/index.md)
 

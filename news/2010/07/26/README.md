@@ -29,7 +29,7 @@ _Context: Israeli Air Force, Romania, crashes_
 
 ##### Bus
 ### [At least 26 people die after a bus crashes in the Daman District in the Kandahar Province of Afghanistan. ](/news/2010/07/26/at-least-26-people-die-after-a-bus-crashes-in-the-daman-district-in-the-kandahar-province-of-afghanistan.md)
-_Context: Afghanistan, Daman district, Kandahar Province, bus_
+_Context: Afghan, Daman district, Kandahar Province, bus_
 
 ##### Car bomb
 ### [Two car bombs explode near the southern Iraqi city of Karbala, killing at least twenty people. ](/news/2010/07/26/two-car-bombs-explode-near-the-southern-iraqi-city-of-karbala-killing-at-least-twenty-people.md)

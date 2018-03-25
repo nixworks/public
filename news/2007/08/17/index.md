@@ -77,7 +77,7 @@ _Context: France, Lebanese, United Nations, United Nations Security Council_
 
 ##### Taliban
 ### [ A dozen Taliban die in an attempted ambush of a joint patrol of Afghan police and Coalition troops in Helmand province. ](/news/2007/08/17/a-dozen-taliban-die-in-an-attempted-ambush-of-a-joint-patrol-of-afghan-police-and-coalition-troops-in-helmand-province.md)
-_Context: Afghanistan, Helmand Province, Taliban, ambush_
+_Context: Afghan, Helmand Province, Taliban, ambush_
 
 ##### Iran
 ### [ Six members of the Iranian security forces are killed in a helicopter crash near the town of Piranshahr close to the Iraqi border. ](/news/2007/08/17/six-members-of-the-iranian-security-forces-are-killed-in-a-helicopter-crash-near-the-town-of-piranshahr-close-to-the-iraqi-border.md)

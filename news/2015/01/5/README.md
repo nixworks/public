@@ -59,9 +59,9 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [Bangladeshi police report that two opposition Bangladesh Nationalist Party activists are shot dead in clashes with members of the ruling Awami League in the town of Natore on the first anniversary of disputed general election. ](/news/2015/01/5/bangladeshi-police-report-that-two-opposition-bangladesh-nationalist-party-activists-are-shot-dead-in-clashes-with-members-of-the-ruling-awa.md)
 Bangladeshi opposition leader Khaleda Zia calls for a transport blockade after four protesters are killed in clashes with police and government supporters.
 
-##### Saudi Arabia
+##### Saudi
 ### [Two militants, one wearing a suicide vest, kill two Saudi Arabian border guards and a general near the border with Iraq. ](/news/2015/01/5/two-militants-one-wearing-a-suicide-vest-kill-two-saudi-arabian-border-guards-and-a-general-near-the-border-with-iraq.md)
-_Context: Iraq, Saudi Arabia_
+_Context: Iraq, Saudi_
 
 ##### Libyan Civil War (2014-present)
 ### [A Libyan warplane bombs a Greek-operated oil tanker anchored offshore the city of Derna, killing two sailors, one Greek and one Romanian. The Greek government condemned what it called an "unprovoked and cowardly" attack and demanded an investigation and punishment for those responsible. ](/news/2015/01/5/a-libyan-warplane-bombs-a-greek-operated-oil-tanker-anchored-offshore-the-city-of-derna-killing-two-sailors-one-greek-and-one-romanian-th.md)

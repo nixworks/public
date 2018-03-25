@@ -47,9 +47,9 @@ A fire that swept through a South Korean indoor shooting range killed at least 1
 ### [ More than 1,000 ultra-Orthodox Jews demonstrate outside the offices of U.S. firm Intel in Israel in protest at work taking place at the site on the Jewish Sabbath. ](/news/2009/11/14/more-than-1-000-ultra-orthodox-jews-demonstrate-outside-the-offices-of-u-s-firm-intel-in-israel-in-protest-at-work-taking-place-at-the-sit.md)
 _Context: Intel, Israel, Jew, Sabbath, United States, ultra-orthodox_
 
-##### Saudi Arabia
+##### Saudi
 ### [ Two Saudi soldiers are killed and five wounded killed in fighting with Houthi rebels in northern Yemen. ](/news/2009/11/14/two-saudi-soldiers-are-killed-and-five-wounded-killed-in-fighting-with-houthi-rebels-in-northern-yemen.md)
-_Context: Houthi, Saudi Arabia, Shia insurgency in Yemen, Yemen_
+_Context: Houthi, Saudi, Shia insurgency in Yemen, Yemen_
 
 ##### Peru
 ### [ A Peruvian court orders the arrest of two Chilean military officers on charges of spying, causing a diplomatic row between the two countries. ](/news/2009/11/14/a-peruvian-court-orders-the-arrest-of-two-chilean-military-officers-on-charges-of-spying-causing-a-diplomatic-row-between-the-two-countrie.md)

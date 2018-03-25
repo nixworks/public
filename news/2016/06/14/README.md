@@ -57,7 +57,7 @@ A policeman and his wife were killed in a frenzied knife attack at their home in
 
 ##### Afghanistan-Pakistan skirmishes
 ### [Afghan and Pakistani soldiers clash at the Torkham border crossing between the two countries, leaving one Afghan soldier and a Pakistani major killed. At least 22 other people were also injured. Tensions between Afghanistan and Pakistan have grown since the latter's attempts to build a gate at the crossing. ](/news/2016/06/14/afghan-and-pakistani-soldiers-clash-at-the-torkham-border-crossing-between-the-two-countries-leaving-one-afghan-soldier-and-a-pakistani-maj.md)
-_Context: Afghan National Army, Afghanistan, Afghanistan-Pakistan skirmishes, Pakistan, Pakistan Army, Torkham_
+_Context: Afghan, Afghan National Army, Afghanistan-Pakistan skirmishes, Pakistan, Pakistan Army, Torkham_
 
 ## [Previous Day...](/news/2016/06/13/index.md)
 

@@ -7,7 +7,7 @@ Formats: [HTML](2011/02/23/index.html)  [JSON](2011/02/23/index.json)  [XML](201
 ### [German defence minister Karl-Theodor zu Guttenberg has his doctorate revoked by the University of Bayreuth for submitting a thesis riddled with plagiarisms. ](/news/2011/02/23/german-defence-minister-karl-theodor-zu-guttenberg-has-his-doctorate-revoked-by-the-university-of-bayreuth-for-submitting-a-thesis-riddled-w.md)
 _Context: Federal Minister for Defence, Karl-Theodor zu Guttenberg, University of Bayreuth, doctorate, plagiarising, thesis_
 
-##### Saudi Arabia
+##### Saudi
 ### [Saudi Arabia's King Abdullah announces a series of benefits for citizens as he returns to the country. ](/news/2011/02/23/saudi-arabia-s-king-abdullah-announces-a-series-of-benefits-for-citizens-as-he-returns-to-the-country.md)
 King Abdullah announces $10.7 billion in pay raises, job creation and loan forgiveness schemes as he returns to country.
 

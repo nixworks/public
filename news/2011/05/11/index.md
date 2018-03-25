@@ -97,7 +97,7 @@ _Context: Southern Sudan, Sudan, Zambia_
 
 ##### Grenade
 ### [Two grenades are thrown into the Saudi Arabian consulate in Karachi, Pakistan; no injures are reported. ](/news/2011/05/11/two-grenades-are-thrown-into-the-saudi-arabian-consulate-in-karachi-pakistan-no-injures-are-reported.md)
-_Context: Karachi, Pakistan, Saudi Arabia, grenade_
+_Context: Karachi, Pakistan, Saudi, grenade_
 
 ##### Misrata
 ### [Opposition forces in Misrata claim to have seized the city's airport from forces loyal to Muammar Gaddafi. ](/news/2011/05/11/opposition-forces-in-misrata-claim-to-have-seized-the-city-s-airport-from-forces-loyal-to-muammar-gaddafi.md)

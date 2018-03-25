@@ -11,9 +11,9 @@ _Context: Anheuser-Busch, Missouri, Ventria Bioscience, beer, genetically modifi
 ### [ The Indonesian army promises to give up its businesses within two years. ](/news/2005/04/12/the-indonesian-army-promises-to-give-up-its-businesses-within-two-years.md)
 _Context: Indonesia_
 
-##### Saudi Arabia
+##### Saudi
 ### [ In Saudi Arabia, Grand Mufti Sheikh Abdul Aziz al-Sheikh rules that forcing women marry against their will is against Islam. ](/news/2005/04/12/in-saudi-arabia-grand-mufti-sheikh-abdul-aziz-al-sheikh-rules-that-forcing-women-marry-against-their-will-is-against-islam.md)
-_Context: Abdul Aziz al-Sheikh, Grand Mufti, Muslim, Saudi Arabia, forced marriage_
+_Context: Abdul Aziz al-Sheikh, Grand Mufti, Muslim, Saudi, forced marriage_
 
 ##### Israel
 ### [ In Israel, Mordechai Vanunu is charged with 21 counts of violating the terms of his parole. ](/news/2005/04/12/in-israel-mordechai-vanunu-is-charged-with-21-counts-of-violating-the-terms-of-his-parole.md)

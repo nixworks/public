@@ -21,7 +21,7 @@ _Context: Beslan children killed a year ago, Nur-Pashi Kulayev, Russia_
 
 ##### Paris
 ### [ A court in Paris sentences four men to 2-7 years in prison for complicity in the murder of Afghan resistance leader Ahmed Shah Masood in 2001. ](/news/2005/05/17/a-court-in-paris-sentences-four-men-to-2-7-years-in-prison-for-complicity-in-the-murder-of-afghan-resistance-leader-ahmed-shah-masood-in-20.md)
-_Context: Afghanistan, Ahmed Shah Masood, Paris_
+_Context: Afghan, Ahmed Shah Masood, Paris_
 
 ##### International Criminal Court
 ### [ Judges at the International Criminal Court at The Hague send a case of Radovan Stankovic back to new war crimes court in Bosnia. Stankovic is accused of rape of Bosnian Muslim women in Foca in 1992. ](/news/2005/05/17/judges-at-the-international-criminal-court-at-the-hague-send-a-case-of-radovan-stankovia-back-to-new-war-crimes-court-in-bosnia-stankovia.md)

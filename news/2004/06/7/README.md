@@ -21,7 +21,7 @@ _Context: Iraq, U.S. presence in Iraq, UN Security Council_
 
 ##### BBC
 ### [ Gunmen attack a BBC news team in Riyadh, Saudi Arabia, killing cameraman Simon Cumbers and seriously injuring correspondent Frank Gardner. ](/news/2004/06/7/gunmen-attack-a-bbc-news-team-in-riyadh-saudi-arabia-killing-cameraman-simon-cumbers-and-seriously-injuring-correspondent-frank-gardner.md)
-_Context: BBC, Frank Gardner, Riyadh, Saudi Arabia, Simon Cumbers_
+_Context: BBC, Frank Gardner, Riyadh, Saudi, Simon Cumbers_
 
 ##### United Nations Relief and Works Agency for Palestine Refugees in the Near East
 ### [ The United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA) opens its two-day conference on Humanitarian Needs of Palestinian Refugess opens in Geneva, Switzerland. Participation in the conference is by invitation only. Israel is excluded from the conference. ](/news/2004/06/7/the-united-nations-relief-and-works-agency-for-palestine-refugees-in-the-near-east-unrwa-opens-its-two-day-conference-on-humanitarian-nee.md)

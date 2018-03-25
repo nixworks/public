@@ -13,7 +13,7 @@ _Context: Bermuda, Hurricane Florence, Saffir-Simpson Hurricane Scale, hurricane
 
 ##### NATO
 ### [ NATO and Afghan forces killed 94 Taliban fighters in intense overnight clashes in southern Afghanistan, the military alliance says. ](/news/2006/09/10/nato-and-afghan-forces-killed-94-taliban-fighters-in-intense-overnight-clashes-in-southern-afghanistan-the-military-alliance-says.md)
-_Context: Afghan National Army, Afghanistan, NATO, Taliban_
+_Context: Afghan, Afghan National Army, NATO, Taliban_
 
 ##### Roger Federer
 ### [ Roger Federer wins the U.S. Open defeating Andy Roddick 6-2, 4-6, 7-5, 6-1. ](/news/2006/09/10/roger-federer-wins-the-u-s-open-defeating-andy-roddick-6-2-4-6-7-5-6-1.md)

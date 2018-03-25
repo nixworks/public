@@ -33,7 +33,7 @@ _Context: Indian Army, Jammu and Kashmir_
 
 ##### Parliament
 ### [ The Ukrainian parliament votes to approve a package of legislation clearing the way for a parliamentary election on September 30. ](/news/2007/06/1/the-ukrainian-parliament-votes-to-approve-a-package-of-legislation-clearing-the-way-for-a-parliamentary-election-on-september-30.md)
-_Context: September 30, parliament_
+_Context: Parliament, September 30_
 
 ##### United States
 ### [ The U.S. Food and Drug Administration warns consumers to discard all toothpaste made in China after discovering diethylene glycol, a poison related to a chemical used in antifreeze, in some samples. ](/news/2007/06/1/the-u-s-food-and-drug-administration-warns-consumers-to-discard-all-toothpaste-made-in-china-after-discovering-diethylene-glycol-a-poison.md)

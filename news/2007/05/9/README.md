@@ -43,9 +43,9 @@ After another feverish day in this country’s amazing bull run, share prices in
 ### [ At least nine Colombian policeman are killed and six others injured from a bomb planted by the Revolutionary Armed Forces of Colombia in Santander Department. ](/news/2007/05/9/at-least-nine-colombian-policeman-are-killed-and-six-others-injured-from-a-bomb-planted-by-the-revolutionary-armed-forces-of-colombia-in-sa.md)
 _Context: Colombia, Revolutionary Armed Forces of Colombia, Santander_
 
-##### Times
+##### The Times
 ### [ "The Times" and Phoenix TV reports that Huang Ju, Executive Vice Premier of the People's Republic of China and a member of the Standing Committee of the Communist Party of China, has died in Beijing. However, the State Council of the People's Republic of China denies these reports.](/news/2007/05/9/the-times-and-phoenix-tv-reports-that-huang-ju-executive-vice-premier-of-the-people-s-republic-of-china-and-a-member-of-the-standing-com.md)
-_Context: China's State Council, Huang Ju, Phoenix TV, Standing Committee of the Communist Party of China, Times, Vice Premier_
+_Context: China's State Council, Huang Ju, Phoenix TV, Standing Committee of the Communist Party of China, The Times, Vice Premier_
 
 ## [Previous Day...](/news/2007/05/8/index.md)
 

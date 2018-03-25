@@ -17,7 +17,7 @@ The emails detail how bitter the relationship became, Bernie Sanders emerged as 
 
 ##### Indian External Affairs Minister
 ### [Indian External Affairs Minister Sushma Swaraj announces Indian charity worker Judith D'Souza (Aga Khan Foundation), who was kidnapped in Kabul, Afghanistan, on June 9, 2016, is free. ](/news/2016/07/23/indian-external-affairs-minister-sushma-swaraj-announces-indian-charity-worker-judith-d-souza-aga-khan-foundation-who-was-kidnapped-in-ka.md)
-_Context: Afghanistan, Aga Khan Foundation, Indian External Affairs Minister, Kabul, Sushma Swaraj_
+_Context: Afghan, Aga Khan Foundation, Indian External Affairs Minister, Kabul, Sushma Swaraj_
 
 ##### Jerry Brown
 ### [California governor Jerry Brown rejects a parole for Leslie van Houten, a cult follower of Charles Manson. ](/news/2016/07/23/california-governor-jerry-brown-rejects-a-parole-for-leslie-van-houten-a-cult-follower-of-charles-manson.md)

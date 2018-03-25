@@ -15,9 +15,9 @@ Populist government determined to push through controversial reforms
 ### [Minutes before the registration deadline, a second candidate, Moussa Mostafa Moussa, fulfills paperwork to participate in the 2018 presidential election. Leading opposition members called for a boycott, saying that a wave of repression has cleared the field of challengers to President Abdel Fattah el-Sisi. ](/news/2018/01/29/minutes-before-the-registration-deadline-a-second-candidate-moussa-mostafa-moussa-fulfills-paperwork-to-participate-in-the-2018-president.md)
 An Egyptian politician emerged just ahead of a deadline on Monday as the sole challenger to President Abdel Fattah al-Sisi in an election in March the incumbent is set to win after other candidates withdrew citing repression.
 
-##### Mass shootings in the United States
+##### Mass shootings
 ### [The gunman who fatally shot four people at a car wash in the Melcroft suburb of Saltlick Township in Pennsylvania the previous day dies at a hospital from a self-inflicted gunshot wound. ](/news/2018/01/29/the-gunman-who-fatally-shot-four-people-at-a-car-wash-in-the-melcroft-suburb-of-saltlick-township-in-pennsylvania-the-previous-day-dies-at-a.md)
-_Context: Crime in Pennsylvania, Mass shootings in the United States, Melcroft, Pennsylvania, Saltlick Township_
+_Context: Crime in Pennsylvania, Melcroft, Pennsylvania, Saltlick Township, mass shootings_
 
 ##### Crime in Toronto
 ### [Toronto Police charge landscaper Bruce McArthur with five charges of first-degree murder, after planters containing the remains of three other people are found on a property linked to him. ](/news/2018/01/29/toronto-police-charge-landscaper-bruce-mcarthur-with-five-charges-of-first-degree-murder-after-planters-containing-the-remains-of-three-oth.md)

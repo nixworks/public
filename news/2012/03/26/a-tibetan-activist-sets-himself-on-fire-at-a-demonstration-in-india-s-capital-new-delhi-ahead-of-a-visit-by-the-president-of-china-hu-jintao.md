@@ -15,7 +15,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [A Tibetan protester self-immolates during a protest in the Indian capital New Delhi, ahead of a visit by the Chinese president Hu Jintao. ](/news/2012/03/26/a-tibetan-protester-self-immolates-during-a-protest-in-the-indian-capital-new-delhi-ahead-of-a-visit-by-the-chinese-president-hu-jintao.md) _2018-03-23 03:44:18 (First version)_
+1. [A Tibetan protester self-immolates during a protest in the Indian capital New Delhi, ahead of a visit by the Chinese president Hu Jintao. ](/news/2012/03/26/a-tibetan-protester-self-immolates-during-a-protest-in-the-indian-capital-new-delhi-ahead-of-a-visit-by-the-chinese-president-hu-jintao.md) _2018-03-24 03:45:02 (First version)_
 1. [A Tibetan activist sets himself on fire at a demonstration in India's capital New Delhi ahead of a visit by the President of China Hu Jintao later in the week. ](/news/2012/03/26/a-tibetan-activist-sets-himself-on-fire-at-a-demonstration-in-india-s-capital-new-delhi-ahead-of-a-visit-by-the-president-of-china-hu-jintao.md) _(Current version)_
 
 ### Related:

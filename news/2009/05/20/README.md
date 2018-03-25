@@ -33,7 +33,7 @@ _Context: Alex Salmond, Europe, First Minister, Scottish, Whitelee Wind Farm, wi
 
 ##### International Security Assistance Force
 ### [ The International Security Assistance Force reports that the Taliban are using white phosphorus in the Afghanistan War. ](/news/2009/05/20/the-international-security-assistance-force-reports-that-the-taliban-are-using-white-phosphorus-in-the-afghanistan-war.md)
-_Context: Afghanistan, International Security Assistance Force, Taliban, War, white phosphorus_
+_Context: Afghan, International Security Assistance Force, Taliban, War, white phosphorus_
 
 ##### The Globe and Mail
 ### [ "The Globe and Mail" refutes portions of former Canadian Prime Minister Brian Mulroney's testimony about his relationship with German arms dealer Karlheinz Schreiber. ](/news/2009/05/20/the-globe-and-mail-refutes-portions-of-former-canadian-prime-minister-brian-mulroney-s-testimony-about-his-relationship-with-german-arms.md)

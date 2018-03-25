@@ -57,7 +57,7 @@ Egyptian security forces shot dead 24 Islamic State militants in central Sinai, 
 
 ##### Saudi Arabian-led intervention in Yemen
 ### [Yemeni security officials, who are neutral in the conflict, say Saudi-led airstrikes and clashes have killed over 40 Houthi militants and 4 civilians over the past 24 hours, with most of the airstrikes taking place in the southwestern Ibb Governorate. ](/news/2015/11/16/yemeni-security-officials-who-are-neutral-in-the-conflict-say-saudi-led-airstrikes-and-clashes-have-killed-over-40-houthi-militants-and-4.md)
-_Context: Houthis, Ibb Governorate, Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen_
+_Context: Houthis, Ibb Governorate, Saudi, Saudi Arabian-led intervention in Yemen, Yemen_
 
 ##### November 2015 Paris attacks
 ### [Authorities search for Belgium-born French national Salah Abdeslam, one of three brothers suspected of involvement in the attacks. Raids are reported to have taken place in Grenoble, Toulouse, Jeumont and the Paris suburb of Bobigny. This contradicts previously published official information that all the perpetrators of the attacks were dead. ](/news/2015/11/16/authorities-search-for-belgium-born-french-national-salah-abdeslam-one-of-three-brothers-suspected-of-involvement-in-the-attacks-raids-are.md)

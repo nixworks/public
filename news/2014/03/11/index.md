@@ -55,7 +55,7 @@ _Context: Chhattisgarh, India, Maoist_
 
 ##### Kabul
 ### [Gunmen in Kabul, Afghanistan kill Swedish Radio foreign correspondent Nils Horner. ](/news/2014/03/11/gunmen-in-kabul-afghanistan-kill-swedish-radio-foreign-correspondent-nils-horner.md)
-_Context: Afghanistan, Kabul, Nils Horner, Swedish Radio_
+_Context: Afghan, Kabul, Nils Horner, Swedish Radio_
 
 ## [Previous Day...](/news/2014/03/10/index.md)
 

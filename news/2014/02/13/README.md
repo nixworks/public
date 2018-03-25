@@ -79,7 +79,7 @@ _Context: United States_
 ### [At least eight police officers are killed in a suicide bomb attack in Karachi. ](/news/2014/02/13/at-least-eight-police-officers-are-killed-in-a-suicide-bomb-attack-in-karachi.md)
 _Context: Karachi, policemen, suicide bomb_
 
-##### Afghanistan
+##### Afghan
 ### [Afghanistan releases 65 prisoners from the Parwan Detention Facility despite concerns by the United States that the men were responsible for attacks on NATO and Afghan forces. ](/news/2014/02/13/afghanistan-releases-65-prisoners-from-the-parwan-detention-facility-despite-concerns-by-the-united-states-that-the-men-were-responsible-for.md)
 Afghan authorities release 65 detainees from the Bagram detention centre, a move the US condemns as &quot;deeply regrettable&quot;.
 

@@ -21,7 +21,7 @@ _Context: Ali Akbar Salehi, Foreign Minister, MPs, Ministry of Foreign Affairs, 
 
 ##### Indonesia
 ### [An Indonesian woman is beheaded in Saudi Arabia for killing a Saudi woman. ](/news/2011/06/19/an-indonesian-woman-is-beheaded-in-saudi-arabia-for-killing-a-saudi-woman.md)
-_Context: Indonesia, Saudi Arabia, beheading_
+_Context: Indonesia, Saudi, beheading_
 
 ##### British
 ### [Six foreigners including two Britons and an American are jailed for lengthy terms in Somalia after the seizure of a plane containing $3.6 million in ransom for pirates. ](/news/2011/06/19/six-foreigners-including-two-britons-and-an-american-are-jailed-for-lengthy-terms-in-somalia-after-the-seizure-of-a-plane-containing-3-6-mi.md)

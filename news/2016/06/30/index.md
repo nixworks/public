@@ -29,7 +29,7 @@ Italian, Colombian and U.S. police have seized 11 tonnes of cocaine and arrested
 
 ##### United Nations
 ### [The United Nations agrees to appoint an observer to investigate violence against LGBT people, despite opposition from various countries. ](/news/2016/06/30/the-united-nations-agrees-to-appoint-an-observer-to-investigate-violence-against-lgbt-people-despite-opposition-from-various-countries.md)
-_Context: United Nations, gay and bisexual men_
+_Context: United Nations, transgender_
 
 ##### Armenia-Russia relations
 ### [Armenia's parliament, by a 102-8 vote, ratifies an agreement to create an Armenia-Russia joint Air Defense system. ](/news/2016/06/30/armenia-s-parliament-by-a-102-8-vote-ratifies-an-agreement-to-create-an-armenia-russia-joint-air-defense-system.md)

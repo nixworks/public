@@ -9,7 +9,7 @@ _Context: Australia, Ned Kelly, Paul Tully, Queensland_
 
 ##### German
 ### [ In Germany, former deputy defense minister Holger Pfahls admits that in 1990 he took a bribe worth million euros from arms dealer Karlheinz Schreiber in connection of a sale of armored vehicles to the US. He is in trial accused of taking bribes from Saudi Arabia in a similar deal in 1991. ](/news/2005/06/28/in-germany-former-deputy-defense-minister-holger-pfahls-admits-that-in-1990-he-took-a-bribe-worth-million-euros-from-arms-dealer-karlheinz.md)
-_Context: German, Holger Pfahls, Karlheinz Schreiber, Saudi Arabia, bribe, euro_
+_Context: German, Holger Pfahls, Karlheinz Schreiber, Saudi, bribe, euro_
 
 ##### Malawi
 ### [ In Malawi, parliament speaker Rodwell Munyenyembe dies, four days after he collapsed during a heated parliamentary debate. ](/news/2005/06/28/in-malawi-parliament-speaker-rodwell-munyenyembe-dies-four-days-after-he-collapsed-during-a-heated-parliamentary-debate.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/05/29/the-times-reports-on-investigations-into-an-inc
 
 ### [2006-05-29](/news/2006/05/29/index.md)
 
-##### Times
+##### The Times
 #  "The Times" reports on investigations into an incident in al-Haditha, Iraq, where US Marines are accused of having covered up the murder of 24 civilians after a soldier had been killed in an attack. 
 
 News and opinion from The Times &amp; The Sunday Times

@@ -23,9 +23,9 @@ _Context: Athanase Seromba, International Criminal Tribunal for Rwanda, Roman Ca
 ### [ Israeli-Palestinian Conflict: 3 Palestinian militants die following an Israeli attack in the West Bank city of Jenin. ](/news/2005/10/31/israeli-palestinian-conflict-3-palestinian-militants-die-following-an-israeli-attack-in-the-west-bank-city-of-jenin.md)
 _Context: Israel, Israeli-Palestinian Conflict, Jenin, Palestinian, West Bank_
 
-##### United States military
+##### Pentagon
 ### [ A Pentagon report suggests that since 2004 about 26,000 Iraqi people have been either killed or injured in attacks by insurgents. ](/news/2005/10/31/a-pentagon-report-suggests-that-since-2004-about-26-000-iraqi-people-have-been-either-killed-or-injured-in-attacks-by-insurgents.md)
-_Context: 2004, Iraq, United States military_
+_Context: 2004, Iraq, Pentagon_
 
 ##### Japan
 ### [ Japanese Prime Minister Junichiro Koizumi announces his fifth cabinet. Shinzo Abe, former Secretary General of the Liberal Democratic Party, becomes Chief Cabinet Secretary and is widely speculated to be Koizumi's chosen successor. Former Interior Minister Taro Aso becomes Foreign Minister, and is replaced by former economic advisor Heizo Takenaka. ](/news/2005/10/31/japanese-prime-minister-junichiro-koizumi-announces-his-fifth-cabinet-shinzo-abe-former-secretary-general-of-the-liberal-democratic-party.md)

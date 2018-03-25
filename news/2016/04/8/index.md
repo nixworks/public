@@ -69,7 +69,7 @@ The 33-year-old from San Diego disappeared after crossing into Syria from Turkey
 
 ##### Egypt-Saudi Arabia relations
 ### [King of Saudi Arabia Salman bin Abdulaziz Al Saud announces, during his trip to Cairo, that a bridge crossing the Red Sea will be built, linking Egypt and Saudi Arabia. Egyptian President Abdel Fattah el-Sisi says the bridge will be named after the Saudi monarch. A Saudi-Egypt Causeway project has been in the works for years. ](/news/2016/04/8/king-of-saudi-arabia-salman-bin-abdulaziz-al-saud-announces-during-his-trip-to-cairo-that-a-bridge-crossing-the-red-sea-will-be-built-lin.md)
-_Context: Abdel Fattah el-Sisi, Cairo, Egypt, Egypt-Saudi Arabia relations, President, Red Sea, Salman, Saudi Arabia, Saudi King, Saudi-Egypt Causeway_
+_Context: Abdel Fattah el-Sisi, Cairo, Egypt, Egypt-Saudi Arabia relations, President, Red Sea, Salman, Saudi, Saudi King, Saudi-Egypt Causeway_
 
 ##### North Korea-South Korea relations
 ### [A group of 13 North Koreans working at a restaurant in an unidentified country defect en masse to South Korea, according to Seoul's Ministry of Unification. ](/news/2016/04/8/a-group-of-13-north-koreans-working-at-a-restaurant-in-an-unidentified-country-defect-en-masse-to-south-korea-according-to-seoul-s-ministry.md)

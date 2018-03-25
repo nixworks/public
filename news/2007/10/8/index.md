@@ -25,7 +25,7 @@ Air crews launched a search and rescue mission at daybreak on Monday for an airp
 
 ##### Australia
 ### [ Australia suffers its first combat casualty in Afghanistan following the explosion of a bomb in the southern province of Oruzgan. ](/news/2007/10/8/australia-suffers-its-first-combat-casualty-in-afghanistan-following-the-explosion-of-a-bomb-in-the-southern-province-of-ora-zgan.md)
-_Context: Afghanistan, Australia, Oruzgan Province_
+_Context: Afghan, Australia, Oruzgan Province_
 
 ##### U.S.
 ### [ U.S. athlete Marion Jones returns the five medals she won at the Sydney Olympics and accepts a two-year ban from the sport after admitting to her use of a prohibited substance. ](/news/2007/10/8/u-s-athlete-marion-jones-returns-the-five-medals-she-won-at-the-sydney-olympics-and-accepts-a-two-year-ban-from-the-sport-after-admitting.md)

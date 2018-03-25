@@ -17,7 +17,7 @@ Video of police officers dragging a passenger from an overcrowded United Airline
 
 ##### North Korea-United States relations
 ### [The United States Pacific Command deploys warships, including the USS "Carl Vinson", to move towards the Korean Peninsula following North Korea's recent tests with weapons of mass destruction and opposition to the Sharyat missile strike. North Korea is also reclassified as a state sponsor of terrorism. ](/news/2017/04/9/the-united-states-pacific-command-deploys-warships-including-the-uss-carl-vinson-to-move-towards-the-korean-peninsula-following-north-ko.md)
-_Context: Korean Peninsula, North Korea, North Korea's nuclear program, North Korea-United States relations, Sharyat missile strike, U.S. Pacific Command, USS ''Carl Vinson'', state sponsor of terrorism_
+_Context: Korean, North Korea, North Korea's nuclear program, North Korea-United States relations, Sharyat missile strike, U.S. Pacific Command, USS ''Carl Vinson'', state sponsor of terrorism_
 
 ##### 2016-17 South Pacific cyclone season
 ### [Dozens of people in Vanuatu are in shelters as Cyclone Cook hits the island. It is due to pass through New Caledonia tomorrow. ](/news/2017/04/9/dozens-of-people-in-vanuatu-are-in-shelters-as-cyclone-cook-hits-the-island-it-is-due-to-pass-through-new-caledonia-tomorrow.md)

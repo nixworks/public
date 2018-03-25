@@ -27,7 +27,7 @@ A Californian bushfire that consumed 75 homes has raged for a fourth day, forcin
 ### [ Louis Caldera resigns as Director of the White House Military Office. ](/news/2009/05/8/louis-caldera-resigns-as-director-of-the-white-house-military-office.md)
 _Context: Director, Louis Caldera, White House Military Office, resigns_
 
-##### Afghanistan
+##### Afghan
 ### [ Afghan President Hamid Karzai demands that the United States halt airstrikes in the war against the Taliban. ](/news/2009/05/8/afghan-president-hamid-karzai-demands-that-the-united-states-halt-airstrikes-in-the-war-against-the-taliban.md)
 Afghan President Hamid Karzai on Friday called on the United States to halt air strikes in his country, following attacks this week that Afghan officials said killed 147 people.
 

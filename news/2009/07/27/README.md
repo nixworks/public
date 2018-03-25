@@ -9,7 +9,7 @@ _Context: Albania, Prime Minister, Sali Berisha_
 
 ##### United Kingdom
 ### [ A British-led military offensive, Operation Panther's Claw, succeeds in clearing the Taliban from parts of southern Helmand Province in Afghanistan. ](/news/2009/07/27/a-british-led-military-offensive-operation-panther-s-claw-succeeds-in-clearing-the-taliban-from-parts-of-southern-helmand-province-in-afg.md)
-_Context: Afghanistan, Helmand Province, Operation Panther's Claw, Taliban, United Kingdom_
+_Context: Afghan, Helmand Province, Operation Panther's Claw, Taliban, United Kingdom_
 
 ##### Bokode
 ### [ Researchers outline bokodes, a proposed replacement for the black and white stripes of the traditional barcode. ](/news/2009/07/27/researchers-outline-bokodes-a-proposed-replacement-for-the-black-and-white-stripes-of-the-traditional-barcode.md)

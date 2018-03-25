@@ -19,9 +19,9 @@ _Context: Beit Hanoun, Fatah, Gaza Strip, Hamas, Israel, Israeli Army, Israeli-P
 ### [ Trade unions inflict defeats against the UK Labour Party government, during the party's annual conference, including on the plan to use private companies in the National Health Service. ](/news/2005/09/28/trade-unions-inflict-defeats-against-the-uk-labour-party-government-during-the-party-s-annual-conference-including-on-the-plan-to-use-pri.md)
 _Context: Labour Party, National Health Service, United Kingdom, unionize_
 
-##### United States military
+##### Pentagon
 ### [ The Pentagon announces it will investigate allegations that US soldiers posted photographs of dead Iraqis on a website so as to get access to free Internet porn. CAIR had earlier called for the investigation after the details of the site came to light. ](/news/2005/09/28/the-pentagon-announces-it-will-investigate-allegations-that-us-soldiers-posted-photographs-of-dead-iraqis-on-a-website-so-as-to-get-access.md)
-_Context: CAIR, Internet porn, Iraq, US soldiers, United States military, website_
+_Context: CAIR, Internet porn, Iraq, Pentagon, US soldiers, website_
 
 ## [Previous Day...](/news/2005/09/27/index.md)
 

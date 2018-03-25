@@ -15,9 +15,9 @@ _Context: Israel, Israeli-Lebanese conflict, Lebanese_
 ### [ Israel agrees to a truce starting Thursday with the Hamas-led government in the Gaza Strip. ](/news/2008/06/18/israel-agrees-to-a-truce-starting-thursday-with-the-hamas-led-government-in-the-gaza-strip.md)
 _Context: Gaza Strip, Hamas, Israel_
 
-##### Afghanistan
+##### Afghan
 ### [ Afghan and Canadian forces begin an offensive against the Taliban in the Arghandab District of Kandahar. ](/news/2008/06/18/afghan-and-canadian-forces-begin-an-offensive-against-the-taliban-in-the-arghandab-district-of-kandahar.md)
-_Context: Afghanistan, Arghandab District, Canada, Kandahar, Taliban, an offensive_
+_Context: Afghan, Arghandab District, Canada, Kandahar, Taliban, an offensive_
 
 ##### Laptops
 ### [ Six laptops containing information on about 20,000 patients are stolen from a London hospital. ](/news/2008/06/18/six-laptops-containing-information-on-about-20-000-patients-are-stolen-from-a-london-hospital.md)

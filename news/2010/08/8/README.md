@@ -23,7 +23,7 @@ Journalists gather to demand greater freedoms and protection amid escalating dru
 ### [Elena Kagan is sworn in as the fourth woman to sit on the Supreme Court of the United States. ](/news/2010/08/8/elena-kagan-is-sworn-in-as-the-fourth-woman-to-sit-on-the-supreme-court-of-the-united-states.md)
 Elena Kagan becomes the third woman among the current nine justices, continuing a generational and demographic transformation of the court.
 
-##### Saudi Arabia
+##### Saudi
 ### [Saudi Arabia delays shutting off Research in Motion's BlackBerry instant messaging system allowing for test of a system allowing the Government of Saudi Arabia to monitor user data. ](/news/2010/08/8/saudi-arabia-delays-shutting-off-research-in-motion-s-blackberry-instant-messaging-system-allowing-for-test-of-a-system-allowing-the-governm.md)
 Saudi Arabia delayed its decision on shutting off Research In Motion Ltd.’s BlackBerry instant messaging until midnight today, giving carriers more time to test a system that can monitor user data and avert a ban.
 

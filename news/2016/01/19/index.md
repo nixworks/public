@@ -13,7 +13,7 @@ _Context: U.S. Supreme Court, insider trading_
 
 ##### Iran-Saudi relations
 ### [Iranian Deputy Foreign Minister has left Tehran for Saudi Arabia for participation in the Organization of Islamic Cooperation ministerial meeting in Jeddah which was called for by the Kingdom of Saudi Arabia to discuss the consequence of attack at Saudi Embassy in Tehran following the execution of Shia Muslim cleric Sheikh Nimr. ](/news/2016/01/19/iranian-deputy-foreign-minister-has-left-tehran-for-saudi-arabia-for-participation-in-the-organization-of-islamic-cooperation-ministerial-me.md)
-_Context: Iran-Saudi relations, Jeddah, Organization of Islamic Cooperation, Saudi Arabia, Sheikh Nimr, Tehran_
+_Context: Iran-Saudi relations, Jeddah, Organization of Islamic Cooperation, Saudi, Sheikh Nimr, Tehran_
 
 ##### Hotel Ritz
 ### [The roof of the renovated Hotel Ritz in Paris is damaged by fire just weeks before the planned re-opening. ](/news/2016/01/19/the-roof-of-the-renovated-ha-tel-ritz-in-paris-is-damaged-by-fire-just-weeks-before-the-planned-re-opening.md)

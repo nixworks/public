@@ -37,7 +37,7 @@ _Context: Arab League, Arab Peace Initiative, Egypt, Israel, Jordan_
 
 ##### Release 23 of its captured fighters
 ### [ 8 of the 23 South Koreans held hostage by the Taliban in Afghanistan are released, while one of the hostages is executed. The Taliban gives further warning that the remaining hostages will be killed. ](/news/2007/07/25/8-of-the-23-south-koreans-held-hostage-by-the-taliban-in-afghanistan-are-released-while-one-of-the-hostages-is-executed-the-taliban-gives.md)
-_Context: Afghanistan, Taliban, release 23 of its captured fighters_
+_Context: Afghan, Taliban, release 23 of its captured fighters_
 
 ##### Car bomb
 ### [ A car bomb in the Mansour district of Baghdad kills at least 30 Iraqis celebrating their team's victory in an Asian Cup match against South Korea. Another suicide attack in East Baghdad kills another 20. ](/news/2007/07/25/a-car-bomb-in-the-mansour-district-of-baghdad-kills-at-least-30-iraqis-celebrating-their-team-s-victory-in-an-asian-cup-match-against-south.md)

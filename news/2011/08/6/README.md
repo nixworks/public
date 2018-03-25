@@ -19,9 +19,9 @@ Police are on the streets of Tottenham, north London, where overnight riots saw 
 ### [A NATO Chinook helicopter crashes in the Sayd Abad district of Afghanistan's Wardak province after being shot down by the Taliban with 37 deaths. ](/news/2011/08/6/a-nato-chinook-helicopter-crashes-in-the-sayd-abad-district-of-afghanistan-s-wardak-province-after-being-shot-down-by-the-taliban-with-37-de.md)
 Among the dead were elite Navy Seal commandos from the broader unit that killed Osama bin Laden in Pakistan, though none were involved in that raid.
 
-##### Saudi Arabia
+##### Saudi
 ### [Police in Saudi Arabia shoot dead a gunman who fired at the palace of Prince Nayef bin Abdul-Aziz Al Saud in Jeddah. ](/news/2011/08/6/police-in-saudi-arabia-shoot-dead-a-gunman-who-fired-at-the-palace-of-prince-nayef-bin-abdul-aziz-al-saud-in-jeddah.md)
-_Context: Crown Prince Nayef, Jeddah, Saudi Arabia_
+_Context: Crown Prince Nayef, Jeddah, Saudi_
 
 ##### Islamist
 ### [The Islamist al-Shabaab rebels in Somalia pull out of the capital Mogadishu. ](/news/2011/08/6/the-islamist-al-shabaab-rebels-in-somalia-pull-out-of-the-capital-mogadishu.md)

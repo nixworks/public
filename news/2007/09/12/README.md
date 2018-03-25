@@ -43,9 +43,9 @@ _Context: Foot-and-mouth disease, United Kingdom, outbreak of 2007_
 ### [ Somali Islamists and opposition leaders meeting in Eritrea have joined forces in a new alliance to overthrow Somalia's transitional government. ](/news/2007/09/12/somali-islamists-and-opposition-leaders-meeting-in-eritrea-have-joined-forces-in-a-new-alliance-to-overthrow-somalia-s-transitional-governm.md)
 _Context: Eritrea, Somali, new alliance_
 
-##### Afghanistan
+##### Afghan
 ### [ Airstrikes and Afghan army gunfire kills more than 45 Taliban insurgents on the first day of Ramadan. ](/news/2007/09/12/airstrikes-and-afghan-army-gunfire-kills-more-than-45-taliban-insurgents-on-the-first-day-of-ramadan.md)
-_Context: Afghanistan, Ramadan, Taliban_
+_Context: Afghan, Ramadan, Taliban_
 
 ##### Russia
 ### [ Russian President Vladimir Putin fires the chief of the Russian Navy Vladimir Masorin, and appoints in his place the commander of the Russian Northern Fleet, Vladimir Vysotsky. ](/news/2007/09/12/russian-president-vladimir-putin-fires-the-chief-of-the-russian-navy-vladimir-masorin-and-appoints-in-his-place-the-commander-of-the-russi.md)

@@ -21,7 +21,7 @@ A media storm over corrupt officials is embarrassing China’s Communist Party a
 
 ##### U.N. Human Rights Council
 ### [The U.N. Human Rights Council issues its first condemnation of discrimination against gays, lesbians and transgender people. ](/news/2011/06/17/the-u-n-human-rights-council-issues-its-first-condemnation-of-discrimination-against-gays-lesbians-and-transgender-people.md)
-_Context: U.N. Human Rights Council, gay and bisexual men_
+_Context: U.N. Human Rights Council, transgender_
 
 ##### Mid North Coast
 ### [More than 16,000 people remain isolated and 3,350 are waiting to return to their homes due to continued flooding on the Mid North Coast of the Australian state of New South Wales. ](/news/2011/06/17/more-than-16-000-people-remain-isolated-and-3-350-are-waiting-to-return-to-their-homes-due-to-continued-flooding-on-the-mid-north-coast-of-t.md)

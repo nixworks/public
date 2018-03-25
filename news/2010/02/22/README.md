@@ -23,9 +23,9 @@ A Swiss businessman who had been hiding in the country&#039;s Tripoli embassy fo
 ### [Conference of the German Bishops chairman Archbishop Robert Zollitsch formally apologises to those who went through sexual abuse as children after fresh controversy surrounding the issue at the beginning of this year. ](/news/2010/02/22/conference-of-the-german-bishops-chairman-archbishop-robert-zollitsch-formally-apologises-to-those-who-went-through-sexual-abuse-as-children.md)
 The head of the German Bishop&#39;s Conference Archbishop, Robert Zollitsch, has made a formal apology to the victims of clerical abuse at some Catholic schools.
 
-##### Afghanistan
+##### Afghan
 ### [Afghanistan's government condemns a NATO air strike on a convoy of vehicles in Uruzgan province, in the south of the country, which killed at least 27 civilians. ](/news/2010/02/22/afghanistan-s-government-condemns-a-nato-air-strike-on-a-convoy-of-vehicles-in-uruzgan-province-in-the-south-of-the-country-which-killed-a.md)
-_Context: Afghanistan, NATO, Uruzgan province_
+_Context: Afghan, NATO, Uruzgan province_
 
 ##### European Union
 ### [Foreign ministers from the European Union meet in Brussels and "strongly condemn" the use of forged passports from various European countries in the assassination of Mahmoud al-Mabhouh. ](/news/2010/02/22/foreign-ministers-from-the-european-union-meet-in-brussels-and-strongly-condemn-the-use-of-forged-passports-from-various-european-countrie.md)

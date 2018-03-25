@@ -5,7 +5,7 @@ Formats: [HTML](2010/02/23/index.html)  [JSON](2010/02/23/index.json)  [XML](201
 
 ##### Denmark
 ### [Danish Prime Minister Lars Lokke Rasmussen carries out a major cabinet reshuffling, bringing in female ministers in charge of Defence and Foreign Affairs, the first in Denmark's history. ](/news/2010/02/23/danish-prime-minister-lars-la-kke-rasmussen-carries-out-a-major-cabinet-reshuffling-bringing-in-female-ministers-in-charge-of-defence-and-f.md)
-_Context: Defence, Denmark, Foreign Affairs, Lars Lokke Rasmussen, Prime Minister of Denmark_
+_Context: Denmark, Foreign Affairs, Lars Lokke Rasmussen, Ministry of Defense, Prime Minister of Denmark_
 
 ##### Newry
 ### [A 250lb car bomb explodes outside a courthouse in Newry, Northern Ireland, the first such bomb to explode in the area since 2000. ](/news/2010/02/23/a-250lb-car-bomb-explodes-outside-a-courthouse-in-newry-northern-ireland-the-first-such-bomb-to-explode-in-the-area-since-2000.md)

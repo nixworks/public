@@ -37,7 +37,7 @@ JERUSALEM (AP) — Two Palestinians opened fire near a popular open-air market i
 
 ##### War in Afghanistan (2015-present)
 ### [The Taliban kills 12 members of Afghanistan's security forces who were captured in recent ambushes in the Ghazni Province on June 3 and 5. ](/news/2016/06/8/the-taliban-kills-12-members-of-afghanistan-s-security-forces-who-were-captured-in-recent-ambushes-in-the-ghazni-province-on-june-3-and-5.md)
-_Context: Afghanistan, Ghazni Province, Taliban, War in Afghanistan (2015-present)_
+_Context: Afghan, Ghazni Province, Taliban, War in Afghanistan (2015-present)_
 
 ## [Previous Day...](/news/2016/06/7/index.md)
 

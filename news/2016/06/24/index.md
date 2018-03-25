@@ -21,7 +21,7 @@ _Context: Rodrigo Duterte, drug crackdown, extrajudicial killings, illegal drugs
 
 ##### Volkswagen emissions scandal
 ### [South Korea issues an arrest warrant for a Korean-based Volkswagen AG executive in relation to the emissions scandal. ](/news/2016/06/24/south-korea-issues-an-arrest-warrant-for-a-korean-based-volkswagen-ag-executive-in-relation-to-the-emissions-scandal.md)
-_Context: Korean Peninsula, South Korea, Volkswagen AG, Volkswagen emissions scandal_
+_Context: Korean, South Korea, Volkswagen AG, Volkswagen emissions scandal_
 
 ##### Indonesia-Philippines relations
 ### [Indonesia restricts the exports of coal to the Philippines after the abduction of Indonesian sailors by the Abu Sayyaf. ](/news/2016/06/24/indonesia-restricts-the-exports-of-coal-to-the-philippines-after-the-abduction-of-indonesian-sailors-by-the-abu-sayyaf.md)

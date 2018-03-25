@@ -119,9 +119,9 @@ Police spokesman: Truck rampage &quot;looks deliberate,&quot; but probe ongoing;
 ### [Muslim mobs attack Christian protesters calling for the Egyptian government to take action to reduce religious tensions in Cairo; 65 people are injured. ](/news/2011/05/15/muslim-mobs-attack-christian-protesters-calling-for-the-egyptian-government-to-take-action-to-reduce-religious-tensions-in-cairo-65-people.md)
 At least seven people are injured after Christian protesters in central Cairo are attacked, amid an increase in sectarian violence in Egypt.
 
-##### Saudi Arabia
+##### Saudi
 ### [Saudi armored vehicles roll into the city of Sitra as fresh video footage of atrocities committed by Saudi-backed Bahraini forces surface. ](/news/2011/05/15/saudi-armored-vehicles-roll-into-the-city-of-sitra-as-fresh-video-footage-of-atrocities-committed-by-saudi-backed-bahraini-forces-surface.md)
-_Context: Bahrain, Saudi Arabia, Sitra_
+_Context: Bahrain, Saudi, Sitra_
 
 ## [Previous Day...](/news/2011/05/14/index.md)
 

@@ -13,7 +13,7 @@ _Context: Cassini, Phoebe, Saturn, planet_
 
 ##### Murder
 ### [ Eleven Chinese road construction workers and an Afghan guard are murdered in their sleep 20 mi south of the Afghan city of Kunduz. Four more Chinese are hospitalized for wounds suffered in the same attack. The dead are among more than 100 engineers and workers engaged on a World Bank project to build a road from Kabul to the Tajikistan border. Mullah Dadullah, one of the top Taliban commanders, recently issued orders to his fighters to strike at road builders. ](/news/2004/06/11/eleven-chinese-road-construction-workers-and-an-afghan-guard-are-murdered-in-their-sleep-20-mi-south-of-the-afghan-city-of-kunduz-four-mor.md)
-_Context: Afghanistan, Kabul, Kunduz, Tajikistan, Taliban, World Bank, murder_
+_Context: Afghan, Kabul, Kunduz, Tajikistan, Taliban, World Bank, murder_
 
 ##### Ken Livingstone
 ### [ Ken Livingstone is re-elected Mayor of London for a second four-year term after polling 828,380 first and second preference votes, defeating his nearest rival Conservative Steve Norris by 161,202 votes. ](/news/2004/06/11/ken-livingstone-is-re-elected-mayor-of-london-for-a-second-four-year-term-after-polling-828-380-first-and-second-preference-votes-defeatin.md)

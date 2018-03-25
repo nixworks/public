@@ -11,9 +11,9 @@ TheINQUIRER publishes daily news, reviews on the latest gadgets and devices, and
 ### [ The United States abandons an attempt to shield its soldiers from war crimes prosecution by the International Criminal Court. ](/news/2004/06/23/the-united-states-abandons-an-attempt-to-shield-its-soldiers-from-war-crimes-prosecution-by-the-international-criminal-court.md)
 _Context: International Criminal Court, war crimes_
 
-##### Saudi Arabia
+##### Saudi
 ### [ Saudi Arabia offers an amnesty from execution to any al Qaida-affiliated militants within the kingdom who turn themselves in within the next month. ](/news/2004/06/23/saudi-arabia-offers-an-amnesty-from-execution-to-any-al-qaida-affiliated-militants-within-the-kingdom-who-turn-themselves-in-within-the-nex.md)
-_Context: Saudi Arabia, al Qaida_
+_Context: Saudi, al Qaida_
 
 ##### Iyad Allawi
 ### [ Iraq's interim Prime Minister Iyad Allawi vows to hunt down militants threatening to assassinate him, dismissing their bloody campaign before a U.S. handover to Iraqi rule in a week's time. ](/news/2004/06/23/iraq-s-interim-prime-minister-iyad-allawi-vows-to-hunt-down-militants-threatening-to-assassinate-him-dismissing-their-bloody-campaign-befo.md)

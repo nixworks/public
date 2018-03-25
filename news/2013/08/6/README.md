@@ -3,9 +3,9 @@ Formats: [HTML](2013/08/6/index.html)  [JSON](2013/08/6/index.json)  [XML](2013/
 
 ## [2013-08-6](/news/2013/08/6/index.md)
 
-##### Saudi Arabia
+##### Saudi
 ### [Saudi king Abdullah appoints Prince Sultan bin Salman Al Saud as deputy Defense Minister. ](/news/2013/08/6/saudi-king-abdullah-appoints-prince-sultan-bin-salman-al-saud-as-deputy-defense-minister.md)
-_Context: Abdullah, Defense Minister, Saudi Arabia, Sultan bin Salman Al Saud_
+_Context: Abdullah, Defense Minister, Saudi, Sultan bin Salman Al Saud_
 
 ##### Tunisia
 ### [Tunisia's constituent assembly is suspended until the Islamist-led Government and secular opposition begin talks to resolve a Political crisis. ](/news/2013/08/6/tunisia-s-constituent-assembly-is-suspended-until-the-islamist-led-government-and-secular-opposition-begin-talks-to-resolve-a-political-cris.md)

@@ -47,9 +47,9 @@ _Context: Indian Prime Minister, Indo-Pakistani Wars, Kashmir, Manmohan Singh, s
 ### [ French scientists at the Institut Pasteur announce they have successfully stimulated antibodies to block HIV from infecting human cells "in vitro". The achievement is a significant breakthrough towards the goal of an HIV vaccine. ](/news/2004/11/16/french-scientists-at-the-institut-pasteur-announce-they-have-successfully-stimulated-antibodies-to-block-hiv-from-infecting-human-cells-in.md)
 _Context: HIV, HIV vaccine, Institut Pasteur, antibodies, in vitro_
 
-##### United States military
+##### Pentagon
 ### [ The Pentagon announces that Secretary of the Air Force, Dr. James G. Roche, has submitted his resignation. ](/news/2004/11/16/the-pentagon-announces-that-secretary-of-the-air-force-dr-james-g-roche-has-submitted-his-resignation.md)
-_Context: James G. Roche, Secretary, United States military_
+_Context: James G. Roche, Pentagon, Secretary_
 
 ## [Previous Day...](/news/2004/11/15/index.md)
 

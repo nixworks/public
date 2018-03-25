@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/24/a-bomb-planted-beneath-a-car-explodes-in-alexan
 
 ### [2018-03-24](/news/2018/03/24/index.md)
 
-##### Alexandria
+##### Terrorism in Egypt
 # A bomb planted beneath a car explodes in Alexandria, Egypt, as a motorcade carrying the city's head of security passes by, killing at least two people. 
 
 Two people were killed when a bomb exploded under a car in the Egyptian city of Alexandria on Saturday in what appeared to be an assassination attempt on the city&rsquo;s security chief, state media reported.

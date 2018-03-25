@@ -25,7 +25,7 @@ _Context: Baghdad, car bomb, church, insurgency_
 
 ##### Kuwait
 ### [ Kuwait bans Michael Moore's "Fahrenheit 9-11" because it deems the movie insulting to the Saudi Arabian royal family and critical of America's invasion of Iraq. ](/news/2004/08/1/kuwait-bans-michael-moore-s-fahrenheit-9-11-because-it-deems-the-movie-insulting-to-the-saudi-arabian-royal-family-and-critical-of-americ.md)
-_Context: 2003 invasion of Iraq, Fahrenheit 9/11, Kuwait, Michael Moore, Saudi Arabia_
+_Context: 2003 invasion of Iraq, Fahrenheit 9/11, Kuwait, Michael Moore, Saudi_
 
 ##### Security alert
 ### [ The U.S. raises the security alert level to high for the World Bank and the International Monetary Fund in Washington, D.C., the New York Stock Exchange and companies in the New York City area on Sunday after intelligence signals a possible al Qaeda attack. ](/news/2004/08/1/the-u-s-raises-the-security-alert-level-to-high-for-the-world-bank-and-the-international-monetary-fund-in-washington-d-c-the-new-york-s.md)

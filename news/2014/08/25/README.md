@@ -9,7 +9,7 @@ _Context: Miro Cerar, Prime minister-designate, Slovenian National Assembly_
 
 ##### Ukrainian President
 ### [The President of Ukraine Petro Poroshenko dissolves the Parliament and calls new elections for October 26. ](/news/2014/08/25/the-president-of-ukraine-petro-poroshenko-dissolves-the-parliament-and-calls-new-elections-for-october-26.md)
-_Context: Petro Poroshenko, Ukrainian President, parliament_
+_Context: Parliament, Petro Poroshenko, Ukrainian President_
 
 ##### French Prime Minister
 ### [The Prime Minister of France Manuel Valls presents President Francois Hollande with the resignation of the cabinet, with a new cabinet to be appointed tomorrow. ](/news/2014/08/25/the-prime-minister-of-france-manuel-valls-presents-president-franassois-hollande-with-the-resignation-of-the-cabinet-with-a-new-cabinet-to-b.md)

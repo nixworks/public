@@ -17,7 +17,7 @@ Deadly clashes between two communities in southern Ethiopia cause 20,000 people 
 
 ##### NATO
 ### [Two NATO service members are killed in an attack in eastern Afghanistan. ](/news/2012/07/28/two-nato-service-members-are-killed-in-an-attack-in-eastern-afghanistan.md)
-_Context: Afghanistan, NATO_
+_Context: Afghan, NATO_
 
 ##### Syrian Army
 ### [Tanks of the Syrian Army commence attacks against the rebel-held city of Aleppo. ](/news/2012/07/28/tanks-of-the-syrian-army-commence-attacks-against-the-rebel-held-city-of-aleppo.md)

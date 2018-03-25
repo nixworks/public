@@ -33,7 +33,7 @@ _Context: Black Sea, P-8A Poseidon, Russia, Russia-United States relations, Russ
 
 ##### Iran-Saudi Arabia relations
 ### [The top cleric of Saudi Arabia says Iranians "are not Muslims." ](/news/2016/09/7/the-top-cleric-of-saudi-arabia-says-iranians-are-not-muslims.md)
-_Context: Iran, Iran-Saudi Arabia relations, Muslim, Saudi Arabia_
+_Context: Iran, Iran-Saudi Arabia relations, Muslim, Saudi_
 
 ##### Bahrain-United States relations
 ### [The Obama administration urges Bahrain to free Nabeel Rajab, a human rights activist. ](/news/2016/09/7/the-obama-administration-urges-bahrain-to-free-nabeel-rajab-a-human-rights-activist.md)

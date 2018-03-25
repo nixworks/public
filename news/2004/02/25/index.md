@@ -5,7 +5,7 @@ Formats: [HTML](2004/02/25/index.html)  [JSON](2004/02/25/index.json)  [XML](200
 
 ##### Guantnamo Bay
 ### [ Guantanamo Bay: The Pentagon announces that the first charges are to be filed against two of the six hundred detainees of the detention camp, but human rights groups have had their request to observe the military tribunals turned down. The defendants are named as Ali Hamza Ahmad Sulayman al-Bahlul and Ibrahim Ahmed Mahmoud al Qosi, both alleged to be Al-Qaeda members and charged with "conspiracy to commit war crimes". ](/news/2004/02/25/guantanamo-bay-the-pentagon-announces-that-the-first-charges-are-to-be-filed-against-two-of-the-six-hundred-detainees-of-the-detention-cam.md)
-_Context: Ali Hamza Ahmad Sulayman al-Bahlul, Guantnamo Bay, Ibrahim Ahmed Mahmoud al Qosi, United States military, al-Qaeda, human rights, military tribunal, war crime_
+_Context: Ali Hamza Ahmad Sulayman al-Bahlul, Guantnamo Bay, Ibrahim Ahmed Mahmoud al Qosi, Pentagon, al-Qaeda, human rights, military tribunal, war crime_
 
 ##### King Norodom Sihanouk
 ### [ King Norodom Sihanouk of Cambodia, who recently made a statement in support of same-sex marriage, responded to an "insulting" e-mail by announcing he is not gay. The king is 81 years old and has 14 children. ](/news/2004/02/25/king-norodom-sihanouk-of-cambodia-who-recently-made-a-statement-in-support-of-same-sex-marriage-responded-to-an-insulting-e-mail-by-ann.md)

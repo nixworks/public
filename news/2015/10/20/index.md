@@ -31,7 +31,7 @@ The Israeli leader shocked allies and foes alike by claiming Jerusalem&rsquo;s g
 ### [The United States and Russia sign an agreement designed to avoid conflict between both countries' warplanes in Syria. The Pentagon said the agreement will remain secret; a hotline will enable both countries to directly communicate. ](/news/2015/10/20/the-united-states-and-russia-sign-an-agreement-designed-to-avoid-conflict-between-both-countries-warplanes-in-syria-the-pentagon-said-the.md)
 Terms attempting to avoid conflict in Syrian airspace comes days after closest approach between Russian and American aircraft
 
-##### Saudi Arabia
+##### Saudi
 ### [Saudi Arabia receives US State Department approval for the purchase of four Multi-Mission Combat Ships for $11.25 billion. ](/news/2015/10/20/saudi-arabia-receives-us-state-department-approval-for-the-purchase-of-four-multi-mission-combat-ships-for-11-25-billion.md)
 Saudi Arabia has received U.S. State Department approval for the $11.25 billion purchase of four Multi-Mission Combat Ships from the United States.
 

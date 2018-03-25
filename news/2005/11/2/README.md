@@ -37,7 +37,7 @@ _Context: Iran, Islamic Consultative Assembly, Israel's destruction, Mahmoud Ahm
 
 ##### The Washington Post
 ### [ "The Washington Post" reports that the Central Intelligence Agency has been operating, perhaps as illegally, a covert network of "black site" prisons for terrorist suspects in eight foreign countries, including Afghanistan, Thailand, and several Eastern European democracies for the last four years, with little or no oversight from the United States Congress. ](/news/2005/11/2/the-washington-post-reports-that-the-central-intelligence-agency-has-been-operating-perhaps-as-illegally-a-covert-network-of-black-sit.md)
-_Context: Afghanistan, CIA, Congress, Eastern Europe, Thailand, The Washington Post, black site_
+_Context: Afghan, CIA, Congress, Eastern Europe, Thailand, The Washington Post, black site_
 
 ##### Donald E. Powell
 ### [ Donald E. Powell, former chief executive of the First National Bank of Amarillo, Texas and current Federal Deposit Insurance Corporation chairman is named to coordinate rebuilding of the Gulf Coast by President George W. Bush. ](/news/2005/11/2/donald-e-powell-former-chief-executive-of-the-first-national-bank-of-amarillo-texas-and-current-federal-deposit-insurance-corporation-ch.md)

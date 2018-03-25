@@ -29,7 +29,7 @@ _Context: its largest political protest_
 
 ##### United States
 ### [ Six American forces serving under NATO's International Security Assistance Force are killed in an insurgent ambush while patrolling in eastern Afghanistan. ](/news/2007/11/10/six-american-forces-serving-under-nato-s-international-security-assistance-force-are-killed-in-an-insurgent-ambush-while-patrolling-in-east.md)
-_Context: Afghanistan, NATO, Taliban insurgency, United States_
+_Context: Afghan, NATO, Taliban insurgency, United States_
 
 ##### Peru
 ### [ Peruvian archaeologist Walter Alva uncovers a 4,000-year-old temple in the Ventarron site in the Lambayeque Region of Peru. ](/news/2007/11/10/peruvian-archaeologist-walter-alva-uncovers-a-4-000-year-old-temple-in-the-ventarron-site-in-the-lambayeque-region-of-peru.md)

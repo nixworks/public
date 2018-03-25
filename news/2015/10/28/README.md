@@ -73,7 +73,7 @@ The blimp broke loose at Aberdeen proving ground in Maryland and drifted over Pe
 
 ##### 2015 Hindu Kush earthquake
 ### [Aid workers warn that survivors of the earthquake are at risk of dying of exposure as temperatures in Pakistan and Afghanistan fall to near freezing levels. ](/news/2015/10/28/aid-workers-warn-that-survivors-of-the-earthquake-are-at-risk-of-dying-of-exposure-as-temperatures-in-pakistan-and-afghanistan-fall-to-near.md)
-_Context: 2015 Hindu Kush earthquake, Afghanistan, Pakistan_
+_Context: 2015 Hindu Kush earthquake, Afghan, Pakistan_
 
 ##### 2015 Ankara bombings
 ### [Ankara's Chief Prosecutor's office says it has "strong evidence" that an Islamic State group -- based in Gaziantep, near the Syrian border -- is behind the bombings at this month's Ankara peace rally that killed 102 people, as well as four previous attacks in Turkey since May that have mainly targeted supporters of a pro-Kurdish party. ](/news/2015/10/28/ankara-s-chief-prosecutor-s-office-says-it-has-strong-evidence-that-an-islamic-state-group-a-based-in-gaziantep-near-the-syrian-border.md)

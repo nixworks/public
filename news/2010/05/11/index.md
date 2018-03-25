@@ -9,7 +9,7 @@ _Context: Economy of the People's Republic of China, Greek economic crisis, econ
 
 ##### Pakistan
 ### [Pakistan's ambassador to Iran, Mohammad Bakhsh Abbasi, is hospitalised after becoming injured in an attack by an Afghan on his car in Tehran. ](/news/2010/05/11/pakistan-s-ambassador-to-iran-mohammad-bakhsh-abbasi-is-hospitalised-after-becoming-injured-in-an-attack-by-an-afghan-on-his-car-in-tehran.md)
-_Context: Afghanistan, Iran, Mohammad Bakhsh Abbasi, Pakistan, Tehran_
+_Context: Afghan, Iran, Mohammad Bakhsh Abbasi, Pakistan, Tehran_
 
 ##### Chinese
 ### [China cracks down on dissenters, banning two leading human rights lawyers from practicing and exiling a leading HIV-AIDS campaigner from the country. ](/news/2010/05/11/china-cracks-down-on-dissenters-banning-two-leading-human-rights-lawyers-from-practicing-and-exiling-a-leading-hiv-aids-campaigner-from-the.md)

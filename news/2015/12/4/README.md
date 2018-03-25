@@ -37,7 +37,7 @@ German lawmakers voted Friday to send troops and six aging reconnaissance planes
 
 ##### War in Afghanistan (2015-present)
 ### [A mortar attack in Afghanistan's central Wardak province kills at least 12 people. ](/news/2015/12/4/a-mortar-attack-in-afghanistan-s-central-wardak-province-kills-at-least-12-people.md)
-_Context: Afghanistan, Mortar, War in Afghanistan (2015-present), Wardak province_
+_Context: Afghan, Mortar, War in Afghanistan (2015-present), Wardak province_
 
 ## [Previous Day...](/news/2015/12/3/index.md)
 

@@ -53,7 +53,7 @@ As it happens: The latest news, views and analysis from the BBC and beyond.
 
 ##### Saudi-led military intervention in Yemen (2015-present)
 ### [An airstrike by the Saudi-led coalition kills 25 civilians and wounds 50 in Sanaa, the capital of Yemen. Last week a ceasefire agreement was reached. ](/news/2015/07/13/an-airstrike-by-the-saudi-led-coalition-kills-25-civilians-and-wounds-50-in-sanaa-the-capital-of-yemen-last-week-a-ceasefire-agreement-was.md)
-_Context: Sanaa, Saudi Arabia, Saudi-led military intervention in Yemen (2015-present), Yemen_
+_Context: Sanaa, Saudi, Saudi-led military intervention in Yemen (2015-present), Yemen_
 
 ##### Burundi
 ### [Burundi's army kills 31 suspected rebels and captures 170 others in fighting in the country's north. ](/news/2015/07/13/burundi-s-army-kills-31-suspected-rebels-and-captures-170-others-in-fighting-in-the-country-s-north.md)

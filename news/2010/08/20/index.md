@@ -23,9 +23,9 @@ _Context: India_
 ### [More than half of politicians in Benin call for impeachment proceedings against President Boni Yayi over his involvement in a Ponzi scheme. ](/news/2010/08/20/more-than-half-of-politicians-in-benin-call-for-impeachment-proceedings-against-president-boni-yayi-over-his-involvement-in-a-ponzi-scheme.md)
 _Context: Benin, Boni Yayi, Ponzi scheme, impeachment_
 
-##### United States military
+##### Pentagon
 ### [The Pentagon vows to prevent "internal threats" in the United States. ](/news/2010/08/20/the-pentagon-vows-to-prevent-internal-threats-in-the-united-states.md)
-_Context: United States, United States military_
+_Context: Pentagon, United States_
 
 ##### India
 ### [India is to more than triple salaries of MPs. ](/news/2010/08/20/india-is-to-more-than-triple-salaries-of-mps.md)
@@ -115,7 +115,7 @@ Russian Prime Minister Vladimir Putin sacks the head of the forestry agency for 
 ### [Hundreds of flights over Belgium, Germany, Luxembourg and the Netherlands are delayed by an air traffic control problem. ](/news/2010/08/20/hundreds-of-flights-over-belgium-germany-luxembourg-and-the-netherlands-are-delayed-by-an-air-traffic-control-problem.md)
 An air traffic control problem delays hundreds of flights in northern Europe over Germany, Belgium, Luxembourg and the Netherlands.
 
-##### Pilot whale
+##### Pilot whales
 ### [58 pilot whales die after becoming stranded on New Zealand's Karikari Peninsula. ](/news/2010/08/20/58-pilot-whales-die-after-becoming-stranded-on-new-zealand-s-karikari-peninsula.md)
 Some 58 pilot whales die after being stranded on a northern New Zealand coast, as volunteers battle to save remaining survivors.
 

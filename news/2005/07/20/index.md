@@ -23,9 +23,9 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### [ In Yemen, 8-13 people die during demonstrations against oil price increases ](/news/2005/07/20/in-yemen-8-13-people-die-during-demonstrations-against-oil-price-increases.md)
 _Context: Yemen_
 
-##### Saudi Arabia
+##### Saudi
 ### [ Saudi Arabian long-time ambassador to the US, prince Bandar bin Sultan, resigns for "personal reasons" ](/news/2005/07/20/saudi-arabian-long-time-ambassador-to-the-us-prince-bandar-bin-sultan-resigns-for-personal-reasons.md)
-_Context: Bandar bin Sultan, Saudi Arabia_
+_Context: Bandar bin Sultan, Saudi_
 
 ##### Thailand
 ### [ Government of Thailand changes the new emergency laws, weakening two articles that would have, among other things, enforced curfews and censorship of personal communication. ](/news/2005/07/20/government-of-thailand-changes-the-new-emergency-laws-weakening-two-articles-that-would-have-among-other-things-enforced-curfews-and-cen.md)

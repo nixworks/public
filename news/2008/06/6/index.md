@@ -21,7 +21,7 @@ _Context: 2008, America's Climate Security Act of 2007, Barack Obama, John McCai
 
 ##### Opposition party
 ### [ The Yulia Tymoshenko Bloc-Our Ukraine Bloc coalition loses its majority in Ukraine's Verkhovna Rada after two deputies quit. ](/news/2008/06/6/the-yulia-tymoshenko-bloc-our-ukraine-bloc-coalition-loses-its-majority-in-ukraine-s-verkhovna-rada-after-two-deputies-quit.md)
-_Context: Our Ukraine Bloc, opposition party, parliament_
+_Context: Our Ukraine Bloc, Parliament, opposition party_
 
 ##### Diet
 ### [ The Diet of Japan recognizes the Ainu as an indigenous people for the first time. ](/news/2008/06/6/the-diet-of-japan-recognizes-the-ainu-as-an-indigenous-people-for-the-first-time.md)

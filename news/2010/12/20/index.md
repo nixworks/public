@@ -89,7 +89,7 @@ Pope Benedict calls for the Catholic Church to reflect on mistakes that allowed 
 
 ##### Taliban
 ### [13 Afghan soldiers were killed in two separate suicide attacks launched by Taliban in the capital city of Afghanistan. ](/news/2010/12/20/13-afghan-soldiers-were-killed-in-two-separate-suicide-attacks-launched-by-taliban-in-the-capital-city-of-afghanistan.md)
-_Context: Afghanistan, Kabul, Taliban_
+_Context: Afghan, Kabul, Taliban_
 
 ##### Republic of Korea Marine Corps
 ### [The Republic of Korea Marine Corps holds live-fire drill exercises on Yeonpyeong Island. North Korea says it will not retaliate. ](/news/2010/12/20/the-republic-of-korea-marine-corps-holds-live-fire-drill-exercises-on-yeonpyeong-island-north-korea-says-it-will-not-retaliate.md)

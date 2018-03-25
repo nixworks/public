@@ -39,7 +39,7 @@ Thousands of striking bus drivers are expected to march through the streets of J
 ### [Paperwork filled on behalf of Aurora shooting suspect James Holmes states that he plans to plead not guilty by reason of insanity. ](/news/2013/05/7/paperwork-filled-on-behalf-of-aurora-shooting-suspect-james-holmes-states-that-he-plans-to-plead-not-guilty-by-reason-of-insanity.md)
 Defense lawyers for James E. Holmes, charged with opening fire on a packed Aurora movie theater last summer, said Tuesday that he intended to plead not guilty by reason of insanity in the attack.
 
-##### United States military
+##### Pentagon
 ### [A Pentagon study finds a sharp rise in sexual assaults among U.S. military personnel. ](/news/2013/05/7/a-pentagon-study-finds-a-sharp-rise-in-sexual-assaults-among-u-s-military-personnel.md)
 An angry President Obama and Congress demanded action after a Pentagon survey estimated 26,000 people in the armed forces were assaulted last year, up from 19,000 in 2010.
 

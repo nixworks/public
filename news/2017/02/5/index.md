@@ -23,7 +23,7 @@ The 9th U.S. Circuit Court of Appeals denied a Trump administration request to h
 ### [Turkish police arrest over 400 suspected ISIL members in raids across the country. ](/news/2017/02/5/turkish-police-arrest-over-400-suspected-isil-members-in-raids-across-the-country.md)
 _Context: ISIL, police_
 
-##### Afghanistan
+##### Afghan
 ### [Heavy snow and avalanches kill dozens of people in Afghanistan and northern Pakistan, while Kabul International Airport is closed due to snow and ice on the runway. ](/news/2017/02/5/heavy-snow-and-avalanches-kill-dozens-of-people-in-afghanistan-and-northern-pakistan-while-kabul-international-airport-is-closed-due-to-sno.md)
 Entire villages are reportedly buried following heavy snow in Afghanistan and Pakistan.
 

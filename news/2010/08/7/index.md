@@ -19,7 +19,7 @@ Jaun Manuel Santos takes office amid soaring unemployment and a spat with Venezu
 ### [President of Paraguay Fernando Lugo is diagnosed with lymphoma. ](/news/2010/08/7/president-of-paraguay-fernando-lugo-is-diagnosed-with-lymphoma.md)
 Fernando Lugo, diagnosed with lymphoma, plans to carry on with business as usual.
 
-##### Saudi Arabia
+##### Saudi
 ### [Saudi Arabia decides it will not ban BlackBerry instant messaging after agreeing a deal to iron out security fears. ](/news/2010/08/7/saudi-arabia-decides-it-will-not-ban-blackberry-instant-messaging-after-agreeing-a-deal-to-iron-out-security-fears.md)
 Saudi Arabia and the makers of the BlackBerry smartphone have reached a deal to prevent a ban on the phone&#039;s messenger service.
 

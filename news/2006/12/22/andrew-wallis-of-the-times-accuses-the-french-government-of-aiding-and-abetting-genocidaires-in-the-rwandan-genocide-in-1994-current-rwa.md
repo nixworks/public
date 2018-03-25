@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/12/22/andrew-wallis-of-the-times-accuses-the-french-g
 
 ### [2006-12-22](/news/2006/12/22/index.md)
 
-##### Times
+##### The Times
 #  Andrew Wallis of "The Times" accuses the French government of aiding and abetting genocidaires in the Rwandan Genocide in 1994. Current Rwandan President Paul Kagame has also expressed his belief that the French and Belgian governments were complicit. 
 
 News and opinion from The Times &amp; The Sunday Times

@@ -21,7 +21,7 @@ _Context: Brazil, So Paulo, violence_
 
 ##### Nichola Goddard
 ### [ Captain Nichola Goddard, 26, of 1st RCHA is killed while engaged in combat against Taliban forces near Kandahar, Afghanistan. Captain Goddard is Canada's first female casualty since World War 2, and Canada's first female combat arms casualty. ](/news/2006/05/17/captain-nichola-goddard-26-of-1st-rcha-is-killed-while-engaged-in-combat-against-taliban-forces-near-kandahar-afghanistan-captain-godda.md)
-_Context: Afghanistan, Kandahar, Nichola Goddard, RCHA, Taliban_
+_Context: Afghan, Kandahar, Nichola Goddard, RCHA, Taliban_
 
 ## [Previous Day...](/news/2006/05/16/index.md)
 

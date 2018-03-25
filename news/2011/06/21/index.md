@@ -37,7 +37,7 @@ Former South Korean foreign minister re-elected by acclamation as secretary gene
 
 ##### Indonesia
 ### [Politicians and civilians in Indonesia protest after Saudi Arabia used a sword to behead a maid without telling them they were planning to execute her; Indonesia recalls its ambassador to express its fury and civilians gather outside the Saudi embassy in Jakarta wearing t-shirts with the slogan "corrupt government, workers are beheaded". ](/news/2011/06/21/politicians-and-civilians-in-indonesia-protest-after-saudi-arabia-used-a-sword-to-behead-a-maid-without-telling-them-they-were-planning-to-e.md)
-_Context: Indonesia, Jakarta, Saudi Arabia_
+_Context: Indonesia, Jakarta, Saudi_
 
 ##### Okinawa
 ### [A 2014 deadline that would have moved a U.S. airbase opposed by politicians and civilians off Okinawa is cancelled following last year's resignation of Prime Minister of Japan Yukio Hatoyama over his own inability to remove the base. ](/news/2011/06/21/a-2014-deadline-that-would-have-moved-a-u-s-airbase-opposed-by-politicians-and-civilians-off-okinawa-is-cancelled-following-last-year-s-res.md)

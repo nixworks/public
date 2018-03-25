@@ -25,7 +25,7 @@ Footage posted online showed officer striking pro-Palestinian activist in face d
 
 ##### Martin Dempsey
 ### [The U.S. military's top officer Martin Dempsey speaks of being "embarrassed" and tells a Pentagon news conference "we let the boss down" in relation to allegations that United States Secret Service agents habitually associated with prostitutes in Colombia. Pentagon spokesman George E. Little tells reporters that the number of military staff involved could be more than the five originally reported. ](/news/2012/04/16/the-u-s-military-s-top-officer-martin-dempsey-speaks-of-being-embarrassed-and-tells-a-pentagon-news-conference-we-let-the-boss-down-in.md)
-_Context: Colombia, George E. Little, Martin Dempsey, United States Secret Service, United States military_
+_Context: Colombia, George E. Little, Martin Dempsey, Pentagon, United States Secret Service_
 
 ##### Australia
 ### [Australia relaxes sanctions on Myanmar, following political reforms in Myanmar, including by-elections earlier this month in which opposition leader Aung San Suu Kyi's party won dozens of seats. ](/news/2012/04/16/australia-relaxes-sanctions-on-myanmar-following-political-reforms-in-myanmar-including-by-elections-earlier-this-month-in-which-oppositio.md)

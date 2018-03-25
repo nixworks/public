@@ -17,7 +17,7 @@ _Context: Cambodia, Prime Minister, Thai Society, Thailand, Thaksin Shinawatra_
 
 ##### United States
 ### [A new assessment by the U.S. Geological Survey says Venezuela may hold double the oil reserves of Saudi Arabia. ](/news/2010/01/23/a-new-assessment-by-the-u-s-geological-survey-says-venezuela-may-hold-double-the-oil-reserves-of-saudi-arabia.md)
-_Context: Saudi Arabia, United States, United States Geological Survey, Venezuela, oil reserve_
+_Context: Saudi, United States, United States Geological Survey, Venezuela, oil reserve_
 
 ##### Jim McCormick
 ### [Jim McCormick, the director of the U.K. company manufacturing the controversial ADE 651 bomb detectors, is arrested on suspicion of fraud. ](/news/2010/01/23/jim-mccormick-the-director-of-the-u-k-company-manufacturing-the-controversial-ade-651-bomb-detectors-is-arrested-on-suspicion-of-fraud.md)

@@ -33,7 +33,7 @@ _Context: Army, Hugo Chavez, Venezuela, Venezuelan President, Venezuelan governm
 
 ##### Taliban
 ### [ Taliban militants kill 26 people in attacks on three government buildings in Kabul, Afghanistan. ](/news/2009/02/12/taliban-militants-kill-26-people-in-attacks-on-three-government-buildings-in-kabul-afghanistan.md)
-_Context: Afghanistan, Kabul, Politics of Afghanistan, Taliban, militant_
+_Context: Afghan, Kabul, Politics of Afghanistan, Taliban, militant_
 
 ##### Self-immolation
 ### [ A man is arrested after threatening self-immolation outside the Government Buildings in Dublin, Ireland. ](/news/2009/02/12/a-man-is-arrested-after-threatening-self-immolation-outside-the-government-buildings-in-dublin-ireland.md)

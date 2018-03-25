@@ -31,9 +31,9 @@ _Context: Iraq, Kenya_
 ### [ The United Nations raises its threat warning level for the Gaza Strip to "Phase Four" (the maximum is five) and plans to evacuate non-essential foreign staff from the Gaza Strip. ](/news/2004/07/22/the-united-nations-raises-its-threat-warning-level-for-the-gaza-strip-to-phase-four-the-maximum-is-five-and-plans-to-evacuate-non-essen.md)
 _Context: Gaza Strip, United Nations_
 
-##### Afghanistan
+##### Afghan
 ### [ United States and Afghan forces kill 10 suspected Islamic militants and arrest five others. ](/news/2004/07/22/united-states-and-afghan-forces-kill-10-suspected-islamic-militants-and-arrest-five-others.md)
-_Context: Afghanistan_
+_Context: Afghan_
 
 ##### 9/11 Commission
 ### [ The 9-11 Commission releases a transcript of the hijackers' conversation in the final moments of United Airlines Flight 93, which details how the hijackers forced the plane into the ground in Pennsylvania. ](/news/2004/07/22/the-9-11-commission-releases-a-transcript-of-the-hijackers-conversation-in-the-final-moments-of-united-airlines-flight-93-which-details-h.md)

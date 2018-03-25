@@ -9,7 +9,7 @@ _Context: Le Ponant_
 
 ##### Suicide bomb
 ### [ A suicide bomb attack kills three policemen and a civilian in southern Afghanistan. ](/news/2008/04/4/a-suicide-bomb-attack-kills-three-policemen-and-a-civilian-in-southern-afghanistan.md)
-_Context: Afghanistan, suicide bomb_
+_Context: Afghan, suicide bomb_
 
 ##### State Department
 ### [ The United States Department of State renews the contract of Blackwater Worldwide to provide security in Iraq despite a number of ongoing investigations. ](/news/2008/04/4/the-united-states-department-of-state-renews-the-contract-of-blackwater-worldwide-to-provide-security-in-iraq-despite-a-number-of-ongoing-i.md)

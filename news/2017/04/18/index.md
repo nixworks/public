@@ -55,7 +55,7 @@ _Context: Arkansas, Arkansas Supreme Court, Supreme Court of the United States, 
 ### [A police Sikorsky S-70 helicopter crashes in Tunceli Province, Turkey, killing 12 people. ](/news/2017/04/18/a-police-sikorsky-s-70-helicopter-crashes-in-tunceli-province-turkey-killing-12-people.md)
 A POLICE helicopter carrying 12 people has crashed killing everyone on board.
 
-##### Saudi Arabia
+##### Saudi
 ### [Twelve Saudi Arabian military officers die after their Sikorsky UH-60 Black Hawk crashes in Yemen's Ma'rib Governorate. ](/news/2017/04/18/twelve-saudi-arabian-military-officers-die-after-their-sikorsky-uh-60-black-hawk-crashes-in-yemen-s-ma-rib-governorate.md)
  A Saudi helicopter came down during military operations in Yemen on Tuesday, killing 12 officers aboard, Saudi media reported, and a Yemeni defense ministry ne
 

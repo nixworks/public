@@ -91,7 +91,7 @@ Chief executive said the mobile phone company has been too slow to respond to ch
 
 ##### The Guardian
 ### ["The Guardian" publishes WikiLeaks cables claiming that Saudi Arabia had exaggerated its crude oil reserves by nearly 40% and will have trouble keeping a cap on oil prices. ](/news/2011/02/9/the-guardian-publishes-wikileaks-cables-claiming-that-saudi-arabia-had-exaggerated-its-crude-oil-reserves-by-nearly-40-and-will-have-trou.md)
-_Context: 250,000 documents, Saudi Arabia, The Guardian, crude oil_
+_Context: 250,000 documents, Saudi, The Guardian, crude oil_
 
 ##### President
 ### [Nationwide protests against President Hosni Mubarak and his regime continue for a sixteenth day. ](/news/2011/02/9/nationwide-protests-against-president-hosni-mubarak-and-his-regime-continue-for-a-sixteenth-day.md)

@@ -57,7 +57,7 @@ A huge earthquake hits northern Ecuador, killing at least 77 people, injuring hu
 
 ##### War in Afghanistan (2015-present)
 ### [Heavy fighting continues in the north of Afghanistan as Taliban fighters intensify their attacks in several districts around Kunduz in their bid to retake the city. According to a police chief, militants overnight attacked several police checkpoints in the southwest outskirts of the city while government forces repelled a major attack to the east of Kunduz. ](/news/2016/04/17/heavy-fighting-continues-in-the-north-of-afghanistan-as-taliban-fighters-intensify-their-attacks-in-several-districts-around-kunduz-in-their.md)
-_Context: Afghanistan, Kunduz, Taliban, War in Afghanistan (2015-present), police_
+_Context: Afghan, Kunduz, Taliban, War in Afghanistan (2015-present), police_
 
 ## [Previous Day...](/news/2016/04/16/index.md)
 

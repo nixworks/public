@@ -87,7 +87,7 @@ More than 500,000 people - a quarter of them children - were homeless in the Uni
 ### [U.S. Border Patrol agents apprehend five Pakistani nationals and one Afghan national trying to sneak into Arizona through the Mexico-U.S. border. ](/news/2015/11/19/u-s-border-patrol-agents-apprehend-five-pakistani-nationals-and-one-afghan-national-trying-to-sneak-into-arizona-through-the-mexico-u-s-bo.md)
 Border Patrol agents say they have apprehended five Pakistani Nationals and one Afghan National trying to sneak into Arizona through the Mexico-US border.
 
-##### Saudi Arabia
+##### Saudi
 ### [A gunman shoots dead two Saudi Arabian policemen while they are on patrol in their vehicle in Saihat, located in Saudi Arabia's restive Eastern Province, which is predominantly Shia. ](/news/2015/11/19/a-gunman-shoots-dead-two-saudi-arabian-policemen-while-they-are-on-patrol-in-their-vehicle-in-saihat-located-in-saudi-arabia-s-restive-east.md)
 Two policemen have been shot dead in a predominantly Shia Muslim region of eastern Saudi Arabia, the interior ministry says.
 

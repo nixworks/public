@@ -5,7 +5,7 @@ Formats: [HTML](2004/06/27/index.html)  [JSON](2004/06/27/index.json)  [XML](200
 
 ##### Gay pride
 ### [ Gay pride celebrations, parades and protests are held globally, marking the 35th anniversary of the Stonewall Riots, the traditional birth of the modern LGBT civil rights movement. ](/news/2004/06/27/gay-pride-celebrations-parades-and-protests-are-held-globally-marking-the-35th-anniversary-of-the-stonewall-riots-the-traditional-birth.md)
-_Context: Gay pride, Stonewall Riots, civil rights, gay and bisexual men_
+_Context: Gay pride, Stonewall Riots, civil rights, transgender_
 
 ##### Palestinians
 ### [ Palestinians detonate 150&nbsp;kg (330&nbsp;lb) of explosives placed in a 300-meter (1000&nbsp;ft) long tunnel against an Israeli army position in the Gaza Strip. 2000 Palestinians rush into the streets of Gaza City to celebrate. ](/news/2004/06/27/palestinians-detonate-150-nbsp-kg-330-nbsp-lb-of-explosives-placed-in-a-300-meter-1000-nbsp-ft-long-tunnel-against-an-israeli-army-posi.md)
@@ -17,7 +17,7 @@ _Context: Iraqi insurgent, Turkey, beheaded_
 
 ##### Taliban
 ### [ The Taliban kill 16 Afghans after stopping a bus and forcing the sixteen to alight, possibly to get the victims' voter registration cards for elections scheduled in September of this year. ](/news/2004/06/27/the-taliban-kill-16-afghans-after-stopping-a-bus-and-forcing-the-sixteen-to-alight-possibly-to-get-the-victims-voter-registration-cards-f.md)
-_Context: Afghanistan, Taliban, voter_
+_Context: Afghan, Taliban, voter_
 
 ##### 2004 Lithuanian presidential election
 ### [ In the 2004 Lithuanian presidential election, Valdas Adamkus wins in the run-off against Kazimiera Prunskiene, with 52.1% to 47.8% of votes ](/news/2004/06/27/in-the-2004-lithuanian-presidential-election-valdas-adamkus-wins-in-the-run-off-against-kazimiera-prunskiene-with-52-1-to-47-8-of-votes.md)

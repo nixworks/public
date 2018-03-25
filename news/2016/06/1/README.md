@@ -63,7 +63,7 @@ The retrieval of the plane’s data recorders would shed light on why it crashed
 ### [A gas explosion at a subway construction site near the South Korean capital Seoul kills four workers and injures ten more. ](/news/2016/06/1/a-gas-explosion-at-a-subway-construction-site-near-the-south-korean-capital-seoul-kills-four-workers-and-injures-ten-more.md)
  Four workers were killed and 10 others were injured Wednesday, when a subway construction site near Seoul collapsed due to what is believed to be a gas explosion, police said. The accident, which occurred in the city of Namyangju, east of Seoul, around 7:30 a.m., took place when a total of 17 worke...
 
-##### Saudi Arabia
+##### Saudi
 ### [The Saudi Arabian Public Investment Fund raises $3.5 billion for Uber. It is the largest single investment the company has ever received. ](/news/2016/06/1/the-saudi-arabian-public-investment-fund-raises-3-5-billion-for-uber-it-is-the-largest-single-investment-the-company-has-ever-received.md)
 The ride-hailing company said the investment by Saudi Arabia’s Public Investment Fund was part of the most recent financing round that valued the company at $62.5 billion.
 

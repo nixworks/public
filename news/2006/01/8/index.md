@@ -13,7 +13,7 @@ _Context: Exercise Northstar&nbsp;V, Mass Rapid Transit, Singapore, Toa Payoh Bu
 
 ##### Hajj
 ### [ An estimated two million Muslims officially begin the annual pilgrimage, or hajj, in Mecca, Saudi Arabia ](/news/2006/01/8/an-estimated-two-million-muslims-officially-begin-the-annual-pilgrimage-or-hajj-in-mecca-saudi-arabia.md)
-_Context: Mecca, Saudi Arabia, hajj_
+_Context: Mecca, Saudi, hajj_
 
 ## [Previous Day...](/news/2006/01/7/index.md)
 

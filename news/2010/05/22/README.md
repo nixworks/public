@@ -55,7 +55,7 @@ As country prepares to hold vote, ruling party is accused of violence and intimi
 ### [At least 13 people have died in a clash between a Somali militia and Ethiopian forces who had crossed the border in Somaliland. ](/news/2010/05/22/at-least-13-people-have-died-in-a-clash-between-a-somali-militia-and-ethiopian-forces-who-had-crossed-the-border-in-somaliland.md)
 Thirteen people are killed in a border clash between Ethiopian security forces and residents in Somaliland, locals say.
 
-##### Afghanistan
+##### Afghan
 ### [Afghan police seize a cache of hundreds of rockets hidden on the outskirts of Kabul. ](/news/2010/05/22/afghan-police-seize-a-cache-of-hundreds-of-rockets-hidden-on-the-outskirts-of-kabul.md)
 Afghan police say they have seized a cache of hundreds of rockets hidden on the outskirts of the capital Kabul.
 

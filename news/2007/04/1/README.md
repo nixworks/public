@@ -5,7 +5,7 @@ Formats: [HTML](2007/04/1/index.html)  [JSON](2007/04/1/index.json)  [XML](2007/
 
 ##### Ukrainian
 ### [ Ukrainian political rivals rally in Kiev in response to the threat that President Viktor Yushchenko might dissolve the parliament and call for new elections. ](/news/2007/04/1/ukrainian-political-rivals-rally-in-kiev-in-response-to-the-threat-that-president-viktor-yushchenko-might-dissolve-the-parliament-and-call.md)
-_Context: Kiev, Ukrainian, Ukrainian President, Viktor Yushchenko, parliament_
+_Context: Kiev, Parliament, Ukrainian, Ukrainian President, Viktor Yushchenko_
 
 ##### World Wrestling Entertainment
 ### [ World Wrestling Entertainment's flagship pay-per-view, WrestleMania 23 takes place at Ford Field in Detroit, Michigan, setting an arena record of 80,103. ](/news/2007/04/1/world-wrestling-entertainment-s-flagship-pay-per-view-wrestlemania-23-takes-place-at-ford-field-in-detroit-michigan-setting-an-arena-rec.md)

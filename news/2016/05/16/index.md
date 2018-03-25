@@ -7,7 +7,7 @@ Formats: [HTML](2016/05/16/index.html)  [JSON](2016/05/16/index.json)  [XML](201
 ### [The first penis transplant in the United States is performed successfully at the Massachusetts General Hospital (MGH) in Boston, Massachusetts. Doctors call the operation "a surgical milestone". The patient, 64-year-old Thomas Manning from Halifax, Massachusetts, is the third man worldwide to have had the experimental surgery performed. ](/news/2016/05/16/the-first-penis-transplant-in-the-united-states-is-performed-successfully-at-the-massachusetts-general-hospital-mgh-in-boston-massachuset.md)
 A hospital in Boston becomes the first in the US to perform a successful penis transplant, say doctors, calling the operation &quot;a surgical milestone&quot;.
 
-##### Afghanistan
+##### Afghan
 ### [The Afghan capital Kabul is locked down as members of the Hazara community protest the proposed route of a power line. ](/news/2016/05/16/the-afghan-capital-kabul-is-locked-down-as-members-of-the-hazara-community-protest-the-proposed-route-of-a-power-line.md)
 KABUL, Afghanistan (AP) — Tens of thousands of Afghanistan&#039;s ethnic Hazaras marched on Monday through downtown Kabul, demanding the government reroute a planned power line through their poverty-stricken province so they…
 

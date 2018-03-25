@@ -27,9 +27,9 @@ The African Union breaks months of deadlock over its choice of leader, electing 
 ### [Saudi Arabia criticises comments by Russia about the human rights situation in the country, calling them "hostile". ](/news/2012/07/15/saudi-arabia-criticises-comments-by-russia-about-the-human-rights-situation-in-the-country-calling-them-hostile.md)
 _Context: Russia_
 
-##### Saudi Arabia
+##### Saudi
 ### [Saudi Arabia decides to donate $100 million to the Palestinian Authority. ](/news/2012/07/15/saudi-arabia-decides-to-donate-100-million-to-the-palestinian-authority.md)
-_Context: Saudi Arabia, the Palestinian Authority_
+_Context: Saudi, the Palestinian Authority_
 
 ##### Rwanda
 ### [Rwanda and the Democratic Republic of the Congo agree an international border force to patrol their mutual border. ](/news/2012/07/15/rwanda-and-the-democratic-republic-of-the-congo-agree-an-international-border-force-to-patrol-their-mutual-border.md)
@@ -47,9 +47,9 @@ _Context: Chinese, Hand, foot and mouth disease, Hunan_
 ### [A bus crash kills at least 39 pilgrims in the southern Nepali town of Parasi. ](/news/2012/07/15/a-bus-crash-kills-at-least-39-pilgrims-in-the-southern-nepali-town-of-parasi.md)
 At least 39 people die as a bus transporting Hindu pilgrims from India swerves off a road in south-western Nepal, officials say.
 
-##### Saudi Arabia
+##### Saudi
 ### [Saudi Arabia and the United Arab Emirates open new pipelines bypassing the Strait of Hormuz, the shipping lane that Iran has repeatedly threatened to close. ](/news/2012/07/15/saudi-arabia-and-the-united-arab-emirates-open-new-pipelines-bypassing-the-strait-of-hormuz-the-shipping-lane-that-iran-has-repeatedly-thre.md)
-_Context: Saudi Arabia, Strait of Hormuz, United Arab Emirates_
+_Context: Saudi, Strait of Hormuz, United Arab Emirates_
 
 ##### Bruce Springsteen and the E Street Band
 ### [Organisers pull the plug on a duet between Bruce Springsteen and Paul McCartney at Hyde Park, London, after it breached its legal curfew. ](/news/2012/07/15/organisers-pull-the-plug-on-a-duet-between-bruce-springsteen-and-paul-mccartney-at-hyde-park-london-after-it-breached-its-legal-curfew.md)

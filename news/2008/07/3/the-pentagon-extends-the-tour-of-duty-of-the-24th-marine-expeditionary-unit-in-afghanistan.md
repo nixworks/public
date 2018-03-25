@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/07/3/the-pentagon-extends-the-tour-of-duty-of-the-24t
 
 ### [2008-07-3](/news/2008/07/3/index.md)
 
-##### United States military
+##### Pentagon
 #  The Pentagon extends the tour of duty of the 24th Marine Expeditionary Unit in Afghanistan. 
 
 
@@ -15,8 +15,8 @@ Formats: [HTML](/news/2008/07/3/the-pentagon-extends-the-tour-of-duty-of-the-24t
 
 ### Related:
 
-1. [ War in Afghanistan (2001-present): The Pentagon announces plans to send 3,200 additional Marines to Afghanistan. ](/news/2008/01/15/war-in-afghanistan-2001-present-the-pentagon-announces-plans-to-send-3-200-additional-marines-to-afghanistan.md) _Context: Afghanistan, United States military_
-2. [ The United States extends the tour of duty for troops in Iraq and Afghanistan from a year to 15 months. ](/news/2007/04/11/the-united-states-extends-the-tour-of-duty-for-troops-in-iraq-and-afghanistan-from-a-year-to-15-months.md) _Context: Afghanistan, tour of duty_
-3. [A suicide car bomber kills one person and injures fourteen others near the Australian embassy in Kabul, Afghanistan. ](/news/2018/03/2/a-suicide-car-bomber-kills-one-person-and-injures-fourteen-others-near-the-australian-embassy-in-kabul-afghanistan.md) _Context: Afghanistan_
-4. [A series of militant attacks in Afghanistan kill more than 20 people. ](/news/2018/02/24/a-series-of-militant-attacks-in-afghanistan-kill-more-than-20-people.md) _Context: Afghanistan_
-5. [The United Nations report that in 2017, more than 10,000 Afghan civilians were killed or wounded in the war. ](/news/2018/02/15/the-united-nations-report-that-in-2017-more-than-10-000-afghan-civilians-were-killed-or-wounded-in-the-war.md) _Context: Afghanistan_
+1. [ War in Afghanistan (2001-present): The Pentagon announces plans to send 3,200 additional Marines to Afghanistan. ](/news/2008/01/15/war-in-afghanistan-2001-present-the-pentagon-announces-plans-to-send-3-200-additional-marines-to-afghanistan.md) _Context: Afghan, Pentagon_
+2. [ The United States extends the tour of duty for troops in Iraq and Afghanistan from a year to 15 months. ](/news/2007/04/11/the-united-states-extends-the-tour-of-duty-for-troops-in-iraq-and-afghanistan-from-a-year-to-15-months.md) _Context: Afghan, tour of duty_
+3. [An extremist far-right group claims responsibility after a community shelter for Afghan immigrants is burned down. The United Nations condemns the attack. ](/news/2018/03/24/an-extremist-far-right-group-claims-responsibility-after-a-community-shelter-for-afghan-immigrants-is-burned-down-the-united-nations-condem.md) _Context: Afghan_
+4. [US President Donald Trump issues an order banning "transgender persons who require or have undergone gender transition" from the military. Pentagon spokesman Major David Eastburn says this announcement will have no immediate practical effect for the military which will continue to recruit and retain transgender people in accordance with current law. ](/news/2018/03/23/us-president-donald-trump-issues-an-order-banning-transgender-persons-who-require-or-have-undergone-gender-transition-from-the-military-p.md) _Context: Pentagon_
+5. [A suicide car bomber kills one person and injures fourteen others near the Australian embassy in Kabul, Afghanistan. ](/news/2018/03/2/a-suicide-car-bomber-kills-one-person-and-injures-fourteen-others-near-the-australian-embassy-in-kabul-afghanistan.md) _Context: Afghan_

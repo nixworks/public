@@ -15,9 +15,9 @@ _Context: France, German, Somali, Somali pirates, Taiwan, United Kingdom, Yemen,
 ### [ Gjorge Ivanov of VMRO-DPMNE wins Macedonia's presidential election. ](/news/2009/04/6/gjorge-ivanov-of-vmroadpmne-wins-macedonia-s-presidential-election.md)
 _Context: Gjorge Ivanov, Republic of Macedonia, VMRO-DPMNE, election, presidential_
 
-##### Afghanistan
+##### Afghan
 ### [ Afghanistan's government will review a recently approved version of sharia law that legalizes spousal rape. ](/news/2009/04/6/afghanistan-s-government-will-review-a-recently-approved-version-of-sharia-law-that-legalizes-spousal-rape.md)
-_Context: Afghanistan, Politics of Afghanistan, sharia law, spousal rape_
+_Context: Afghan, Politics of Afghanistan, sharia law, spousal rape_
 
 ##### Magnitude
 ### [ At least 207 people are killed and 1,500 injured during a 6.3-magnitude earthquake near L'Aquila, Italy. ](/news/2009/04/6/at-least-207-people-are-killed-and-1-500-injured-during-a-6-3-magnitude-earthquake-near-l-aquila-italy.md)

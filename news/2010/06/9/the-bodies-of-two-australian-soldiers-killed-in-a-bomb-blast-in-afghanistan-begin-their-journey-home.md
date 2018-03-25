@@ -29,8 +29,8 @@ Sky News Australia has the top stories in news online from Australia and the res
 
 ### Related:
 
-1. [A suicide car bomber kills one person and injures fourteen others near the Australian embassy in Kabul, Afghanistan. ](/news/2018/03/2/a-suicide-car-bomber-kills-one-person-and-injures-fourteen-others-near-the-australian-embassy-in-kabul-afghanistan.md) _Context: Afghanistan, Australia_
-2. [The last Australian combat troops leave Afghanistan. ](/news/2013/12/15/the-last-australian-combat-troops-leave-afghanistan.md) _Context: Afghanistan, Australia_
-3. [Australia declares its war in Afghanistan over while the Prime Minister, Tony Abbott, visits Afghanistan. ](/news/2013/10/28/australia-declares-its-war-in-afghanistan-over-while-the-prime-minister-tony-abbott-visits-afghanistan.md) _Context: Afghanistan, Australia_
-4. [Australia and New Zealand mark Anzac Day. Events occur in Afghanistan, France, Turkey and Vietnam, while Julia Gillard heads to South Korea. ](/news/2011/04/25/australia-and-new-zealand-mark-anzac-day-events-occur-in-afghanistan-france-turkey-and-vietnam-while-julia-gillard-heads-to-south-korea.md) _Context: Afghanistan, Australia_
-5. [43 Afghan migrants on their way to Australia are detained by Indonesian authorities. ](/news/2011/03/31/43-afghan-migrants-on-their-way-to-australia-are-detained-by-indonesian-authorities.md) _Context: Afghanistan, Australia_
+1. [A suicide car bomber kills one person and injures fourteen others near the Australian embassy in Kabul, Afghanistan. ](/news/2018/03/2/a-suicide-car-bomber-kills-one-person-and-injures-fourteen-others-near-the-australian-embassy-in-kabul-afghanistan.md) _Context: Afghan, Australia_
+2. [The last Australian combat troops leave Afghanistan. ](/news/2013/12/15/the-last-australian-combat-troops-leave-afghanistan.md) _Context: Afghan, Australia_
+3. [Australia declares its war in Afghanistan over while the Prime Minister, Tony Abbott, visits Afghanistan. ](/news/2013/10/28/australia-declares-its-war-in-afghanistan-over-while-the-prime-minister-tony-abbott-visits-afghanistan.md) _Context: Afghan, Australia_
+4. [Australia and New Zealand mark Anzac Day. Events occur in Afghanistan, France, Turkey and Vietnam, while Julia Gillard heads to South Korea. ](/news/2011/04/25/australia-and-new-zealand-mark-anzac-day-events-occur-in-afghanistan-france-turkey-and-vietnam-while-julia-gillard-heads-to-south-korea.md) _Context: Afghan, Australia_
+5. [43 Afghan migrants on their way to Australia are detained by Indonesian authorities. ](/news/2011/03/31/43-afghan-migrants-on-their-way-to-australia-are-detained-by-indonesian-authorities.md) _Context: Afghan, Australia_

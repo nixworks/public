@@ -21,7 +21,7 @@ _Context: Liberal Party, Philippine House of Representatives elections, 2016, Ph
 
 ##### Ukrainian
 ### [Ukraine's Parliament, the "Verkhovna Rada", decides that the country's third largest city, Dnipropetrovsk, be renamed Dnipro as part of the decommunization drive. ](/news/2016/05/19/ukraine-s-parliament-the-verkhovna-rada-decides-that-the-country-s-third-largest-city-dnipropetrovsk-be-renamed-dnipro-as-part-of-the.md)
-_Context: Dnipropetrovsk, Ukrainian, decommunization, parliament_
+_Context: Dnipropetrovsk, Parliament, Ukrainian, decommunization_
 
 ##### Accession of Montenegro to NATO
 ### [Montenegro and NATO sign an accession agreement, paving the way for the country's future entry into the military alliance. All of NATO's members must now ratify the agreement, with Prime Minister Milo Dukanovic expecting Montenegro to join by mid 2017. ](/news/2016/05/19/montenegro-and-nato-sign-an-accession-agreement-paving-the-way-for-the-country-s-future-entry-into-the-military-alliance-all-of-nato-s-mem.md)
@@ -37,7 +37,7 @@ _Context: U.S. Supreme Court, constitutional, opinion, speedy trial_
 
 ##### 2016 Silk Way Airlines Antonov An-12 crash
 ### [ An Azerbaijani cargo airplane crashes during landing in southern Afghanistan, killing seven out of its nine crew members. ](/news/2016/05/19/an-azerbaijani-cargo-airplane-crashes-during-landing-in-southern-afghanistan-killing-seven-out-of-its-nine-crew-members.md)
-_Context: 2016 Silk Way Airlines Antonov An-12 crash, Afghanistan, Azerbaijan_
+_Context: 2016 Silk Way Airlines Antonov An-12 crash, Afghan, Azerbaijan_
 
 ##### EgyptAir Flight 804
 ### [ EgyptAir Flight 804 between Paris and Cairo disappears with 56 passengers and 10 crew onboard. The plane was at 37,000 feet when it disappeared ten minutes before entering Egyptian airspace over the Mediterranean Sea. It is later reported to have crashed off the Greek island of Karpathos. Locals reported seeing a fireball. ](/news/2016/05/19/egyptair-flight-804-between-paris-and-cairo-disappears-with-56-passengers-and-10-crew-onboard-the-plane-was-at-37-000-feet-when-it-disappe.md)

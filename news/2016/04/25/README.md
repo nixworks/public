@@ -63,7 +63,7 @@ Goldman Sachs has traditionally functioned like a run-of-the-mill investment ban
 ### [In the United States, Gannett Company, Inc., announces that two weeks ago it made an unsolicited, $815 million takeover bid for the Tribune Publishing Company, whose holdings include a number of major newspapers, such as the "Chicago Tribune" and the "Los Angeles Times". Gannett, the publisher of the national American daily "USA Today" as well as 107 daily newspapers, made the offer public since Tribune had not yet responded. Last month, Tribune Publishing's winning bid for the "Orange County Register" was blocked by the U.S. Justice Department because of an antitrust challenge. ](/news/2016/04/25/in-the-united-states-gannett-company-inc-announces-that-two-weeks-ago-it-made-an-unsolicited-815-million-takeover-bid-for-the-tribune.md)
 Tribune Publishing Co is reviewing an unsolicited and possibly unwelcome $815 million takeover bid from Gannett Co Inc, a move by Gannett to gain scale as the newspaper industry continues to consolidate.
 
-##### Saudi Arabia
+##### Saudi
 ### [Saudi Arabia's Council of Ministers announces a broad-based economic reform plan, known as Vision 2030, which will help the oil-reliant state to diversify its economy over the next 14 years. ](/news/2016/04/25/saudi-arabia-s-council-of-ministers-announces-a-broad-based-economic-reform-plan-known-as-vision-2030-which-will-help-the-oil-reliant-stat.md)
 Vision 2030 envisages forming public investment fund, boosting affordable housing and giving expats long-term residence.
 

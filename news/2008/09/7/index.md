@@ -29,7 +29,7 @@ The U.S. government on Sunday seized control of mortgage finance companies Fanni
 
 ##### Suicide bomber
 ### [ Two suicide bombers strike in the police headquarters in Kandahar, Afghanistan killing six officers and wounding several more. ](/news/2008/09/7/two-suicide-bombers-strike-in-the-police-headquarters-in-kandahar-afghanistan-killing-six-officers-and-wounding-several-more.md)
-_Context: Afghanistan, Kandahar, suicide bomber_
+_Context: Afghan, Kandahar, suicide bomber_
 
 ##### Hurricane Ike
 ### [ Hurricane Ike damages 80 percent of homes in the Turks and Caicos Islands. ](/news/2008/09/7/hurricane-ike-damages-80-percent-of-homes-in-the-turks-and-caicos-islands.md)

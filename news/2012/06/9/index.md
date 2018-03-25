@@ -33,7 +33,7 @@ _Context: Burma, sectarian violence_
 
 ##### NATO
 ### [Four members of the NATO-led International Security Assistance Force are killed in Afghanistan's Kapisa province. ](/news/2012/06/9/four-members-of-the-nato-led-international-security-assistance-force-are-killed-in-afghanistan-s-kapisa-province.md)
-_Context: Afghanistan, International Security Assistance Force, Kapisa province, NATO_
+_Context: Afghan, International Security Assistance Force, Kapisa province, NATO_
 
 ##### Syrian uprising (2011-present)
 ### [Syrian uprising:The Syrian Observatory for Human Rights claims that shelling in the town of Deraa has claimed the lives of 17 people overnight. ](/news/2012/06/9/syrian-uprising-the-syrian-observatory-for-human-rights-claims-that-shelling-in-the-town-of-deraa-has-claimed-the-lives-of-17-people-overnig.md)

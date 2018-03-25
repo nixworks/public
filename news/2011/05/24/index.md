@@ -33,7 +33,7 @@ A police officer is to be charged with manslaughter over the death of newspaper 
 
 ##### Human Rights Watch
 ### [Human Rights Watch calls for the release of a Saudi woman detained for driving. ](/news/2011/05/24/human-rights-watch-calls-for-the-release-of-a-saudi-woman-detained-for-driving.md)
-_Context: Human Rights Watch, Saudi Arabia_
+_Context: Human Rights Watch, Saudi_
 
 ##### Egypt
 ### [Former Egyptian President Hosni Mubarak and his two sons are to be tried over the deaths of anti-government protesters. ](/news/2011/05/24/former-egyptian-president-hosni-mubarak-and-his-two-sons-are-to-be-tried-over-the-deaths-of-anti-government-protesters.md)
@@ -91,9 +91,9 @@ _Context: Abyei, Agok, Southern Sudan, Sudan, United Nations_
 ### [Human rights organisations estimate that the Government of Syria has killed 1,000 civilians so far during the protests.](/news/2011/05/24/human-rights-organisations-estimate-that-the-government-of-syria-has-killed-1-000-civilians-so-far-during-the-protests.md)
 Rights groups say they have documented names of civilians allegedly killed by security forces since protests erupted.
 
-##### Afghanistan
+##### Afghan
 ### [A roadside bomb in Afghanistan's Kandahar Province kills ten people and injures 28. ](/news/2011/05/24/a-roadside-bomb-in-afghanistan-s-kandahar-province-kills-ten-people-and-injures-28.md)
-_Context: Afghanistan, Kandahar Province_
+_Context: Afghan, Kandahar Province_
 
 ##### Suicide bomber
 ### [A suicide bomber attacks the headquarters of Kazakhstan's security service, causing casualties. ](/news/2011/05/24/a-suicide-bomber-attacks-the-headquarters-of-kazakhstan-s-security-service-causing-casualties.md)

@@ -21,7 +21,7 @@ Key independent MP Bob Katter has announced he will back the Coalition in a mino
 
 ##### United States soldier
 ### [United States Army General David Petraeus, the Commander of the International Security Assistance Force in Afghanistan, condemns plans by a small Florida church to burn copies of the Koran on the anniversary of the September 11 attacks as inflammatory. ](/news/2010/09/7/united-states-army-general-david-petraeus-the-commander-of-the-international-security-assistance-force-in-afghanistan-condemns-plans-by-a.md)
-_Context: Afghanistan, David Petraeus, Florida, General, International Security Assistance Force, Koran, September 11 attacks, United States soldier_
+_Context: Afghan, David Petraeus, Florida, General, International Security Assistance Force, Koran, September 11 attacks, United States soldier_
 
 ##### Democratic
 ### [At least 50 people are arrested during pro-democracy protests in Swaziland. ](/news/2010/09/7/at-least-50-people-are-arrested-during-pro-democracy-protests-in-swaziland.md)

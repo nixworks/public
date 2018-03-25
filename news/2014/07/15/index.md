@@ -49,7 +49,7 @@ Attack adds to the civilian death toll from fighting between government forces a
 
 ##### Car bomb
 ### [A car bomb explodes at a market in the eastern Afghanistan province of Paktika, killing at least 89 people and injuring scores more in one of the deadliest attacks of the war. ](/news/2014/07/15/a-car-bomb-explodes-at-a-market-in-the-eastern-afghanistan-province-of-paktika-killing-at-least-89-people-and-injuring-scores-more-in-one-o.md)
-_Context: Afghanistan, Paktika, car bomb_
+_Context: Afghan, Paktika, car bomb_
 
 ##### Ceasefire
 ### [A ceasefire deal, brokered by Egypt, is accepted by Israel but rejected by Hamas. ](/news/2014/07/15/a-ceasefire-deal-brokered-by-egypt-is-accepted-by-israel-but-rejected-by-hamas.md)

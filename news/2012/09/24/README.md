@@ -15,9 +15,9 @@ _Context: Belarus, OSCE, VRT, parliamentary elections_
 ### [Karim Masimov resigns as the Prime Minister of Kazakhstan after serving for five years. ](/news/2012/09/24/karim-masimov-resigns-as-the-prime-minister-of-kazakhstan-after-serving-for-five-years.md)
 _Context: Karim Masimov, Kazakhstan, Prime Minister_
 
-##### Saudi Arabia
+##### Saudi
 ### [More than 100 people protest around a desert prison in Saudi Arabia against the detention of their relatives. ](/news/2012/09/24/more-than-100-people-protest-around-a-desert-prison-in-saudi-arabia-against-the-detention-of-their-relatives.md)
-_Context: Saudi Arabia_
+_Context: Saudi_
 
 ##### South Korea
 ### [South Korean presidential candidate Park Geun-hye, daughter of former president Park Chung-hee, apologises for abuses committed under her father's regime. ](/news/2012/09/24/south-korean-presidential-candidate-park-geun-hye-daughter-of-former-president-park-chung-hee-apologises-for-abuses-committed-under-her-fa.md)

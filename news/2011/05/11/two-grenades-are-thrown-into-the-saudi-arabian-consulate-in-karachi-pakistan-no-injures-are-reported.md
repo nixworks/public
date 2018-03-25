@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/05/11/two-grenades-are-thrown-into-the-saudi-arabian-
 
 ### Related:
 
-1. [Gunmen fire on a Saudi Arabian consulate car in Karachi, Pakistan, killing the driver. ](/news/2011/05/16/gunmen-fire-on-a-saudi-arabian-consulate-car-in-karachi-pakistan-killing-the-driver.md) _Context: Karachi, Pakistan, Saudi Arabia_
+1. [Gunmen fire on a Saudi Arabian consulate car in Karachi, Pakistan, killing the driver. ](/news/2011/05/16/gunmen-fire-on-a-saudi-arabian-consulate-car-in-karachi-pakistan-killing-the-driver.md) _Context: Karachi, Pakistan, Saudi_
 2. [ More than 200 people die in accidents related to storms in Karachi, Pakistan. ](/news/2018/06/24/more-than-200-people-die-in-accidents-related-to-storms-in-karachi-pakistan.md) _Context: Karachi, Pakistan_
 3. [An Afghan diplomat is shot dead at the Afghan consulate in Karachi, Pakistan. ](/news/2017/02/6/an-afghan-diplomat-is-shot-dead-at-the-afghan-consulate-in-karachi-pakistan.md) _Context: Karachi, Pakistan_
 4. [At least 22 people have been killed and 65 injured following a collision of the Bahauddin Zakaria Express with a stationary train at Juma Goth Train station, Karachi, Pakistan. ](/news/2016/11/3/at-least-22-people-have-been-killed-and-65-injured-following-a-collision-of-the-bahauddin-zakaria-express-with-a-stationary-train-at-juma-go.md) _Context: Karachi, Pakistan_

@@ -17,7 +17,7 @@ _Context: Helicopter, Insurgency in Somalia, Mogadishu, bomb, insurgency_
 
 ##### Abdullah
 ### [ King Abdullah of Saudi Arabia describes U.S. presence in Iraq as an "illegal occupation." ](/news/2007/03/29/king-abdullah-of-saudi-arabia-describes-u-s-presence-in-iraq-as-an-illegal-occupation.md)
-_Context: Abdullah, Saudi Arabia, U.S. presence in Iraq, occupied_
+_Context: Abdullah, Saudi, U.S. presence in Iraq, occupied_
 
 ##### Tornado
 ### [ Powerful tornadoes hit several U.S. states, killing a couple in Oklahoma, a woman in Colorado and a man in Texas. ](/news/2007/03/29/powerful-tornadoes-hit-several-u-s-states-killing-a-couple-in-oklahoma-a-woman-in-colorado-and-a-man-in-texas.md)

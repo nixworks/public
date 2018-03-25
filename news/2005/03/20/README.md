@@ -13,7 +13,7 @@ _Context: Azerbaijan, Ilham Aliyev's, Opposition, pardon, political prisoner_
 
 ##### Flood
 ### [ Floods in Afghanistan kill more than 200. Coalition helicopters are dispatched to save people ](/news/2005/03/20/floods-in-afghanistan-kill-more-than-200-coalition-helicopters-are-dispatched-to-save-people.md)
-_Context: Afghanistan, Flood, helicopter_
+_Context: Afghan, Flood, helicopter_
 
 ##### Protest
 ### [ Protesters in Kyrgyzstan march against electoral fraud in the 2005 Kyrgyz parliamentary elections, and appear to have taken control of the southern town of Jalal-Abad after mounting large-scale demonstrations to demand Askar Akayev to step down as President of Kyrgyzstan. ](/news/2005/03/20/protesters-in-kyrgyzstan-march-against-electoral-fraud-in-the-2005-kyrgyz-parliamentary-elections-and-appear-to-have-taken-control-of-the.md)

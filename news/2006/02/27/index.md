@@ -21,7 +21,7 @@ _Context: Abadan, Ahwaz, Dezful, Iran_
 
 ##### United Nations
 ### [ The United Nations World Food Programme says that it needs 11 million USD to be able to continue its Afghanistan operations to June this year. "Poor and hungry schoolchildren who receive take-home rations of food as an incentive to attend school will receive at most half their usual ration and in some cases none at all", says the U.N. More than 50% of the nation's children are malnourished. ](/news/2006/02/27/the-united-nations-world-food-programme-says-that-it-needs-11-million-usd-to-be-able-to-continue-its-afghanistan-operations-to-june-this-ye.md)
-_Context: Afghanistan, United Nations, World Food Programme_
+_Context: Afghan, United Nations, World Food Programme_
 
 ##### Securitas depot robbery
 ### [ Securitas depot robbery: British police announce that the total amount of cash stolen in last Wednesday's Securitas depot robbery was GBP GBP53 million (USD $92.6 million, EUR77.8 million). Five more people have been arrested in the last 24 hours and 10 properties searched in the ongoing investigation. ](/news/2006/02/27/securitas-depot-robbery-british-police-announce-that-the-total-amount-of-cash-stolen-in-last-wednesday-s-securitas-depot-robbery-was-gbp-a.md)

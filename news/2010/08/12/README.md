@@ -177,7 +177,7 @@ _Context: Human Rights Watch, Lord's Resistance Army, Uganda, central Africa_
 
 ##### International Assistance Mission
 ### [The International Assistance Mission says it now believes that the Taliban was responsible for the 2010 Badakhshan massacre of its medical team in Afghanistan. ](/news/2010/08/12/the-international-assistance-mission-says-it-now-believes-that-the-taliban-was-responsible-for-the-2010-badakhshan-massacre-of-its-medical-t.md)
-_Context: 2010 Badakhshan massacre, Afghanistan, International Assistance Mission, Taliban_
+_Context: 2010 Badakhshan massacre, Afghan, International Assistance Mission, Taliban_
 
 ## [Previous Day...](/news/2010/08/11/index.md)
 

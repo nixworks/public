@@ -5,7 +5,7 @@ Formats: [HTML](2007/08/4/index.html)  [JSON](2007/08/4/index.json)  [XML](2007/
 
 ##### Taliban
 ### [ Ten pro-Taliban militants and four Pakistan Army soldiers are killed in a clash in North Waziristan near the Afghanistan border. In another incident, a suicide car bomber kills six in Parachinar, North West Frontier Province in Pakistan. ](/news/2007/08/4/ten-pro-taliban-militants-and-four-pakistan-army-soldiers-are-killed-in-a-clash-in-north-waziristan-near-the-afghanistan-border-in-another.md)
-_Context: Afghanistan, Northwestern Pakistan, Pakistan Army, Parachinar, Taliban, Waziristan, soldier_
+_Context: Afghan, Northwestern Pakistan, Pakistan Army, Parachinar, Taliban, Waziristan, soldier_
 
 ##### 2007 South Asian floods
 ### [ 2007 South Asian floods: The Ganges River system will come under further strain from monsoon floods as 20 million are homeless in Nepal, India and Bangladesh. Almost 200 people have died. ](/news/2007/08/4/2007-south-asian-floods-the-ganges-river-system-will-come-under-further-strain-from-monsoon-floods-as-20-million-are-homeless-in-nepal-in.md)

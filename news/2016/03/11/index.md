@@ -23,9 +23,9 @@ Thousands of protesters force Republican presidential candidate Donald Trump to 
 ### [The High Negotiations Committee, Syria's main opposition group, will attend Monday's U.N.-brokered peace talks in Geneva, Switzerland, a day shy of the fifth anniversary of the start of the conflict, and two-plus weeks into the ceasefire agreement. Although fighting continues, a significant drop in violence has been seen during the truce. The first round of Geneva talks collapsed on Feb. 3 during a government offensive against rebels in Aleppo. ](/news/2016/03/11/the-high-negotiations-committee-syria-s-main-opposition-group-will-attend-monday-s-u-n-brokered-peace-talks-in-geneva-switzerland-a-day.md)
 The United Nations&#39;s Syria envoy has said delegates are in Geneva for &quot;substantive, deeper&quot; talks between the Syrian government and opposition. Formal talks are set to begin March 14 with an aim to keep ceasefire intact.
 
-##### Saudi Arabia
+##### Saudi
 ### [The delegation from Saudi Arabia departed from the meeting of the Arab League, offended by remarks of the Foreign Minister of Iraq, Ibrahim al-Jaafari, an indication of increasing tension among Arab states. ](/news/2016/03/11/the-delegation-from-saudi-arabia-departed-from-the-meeting-of-the-arab-league-offended-by-remarks-of-the-foreign-minister-of-iraq-ibrahim.md)
-_Context: Arab League, Ibrahim al-Jaafari, Iraq, Saudi Arabia_
+_Context: Arab League, Ibrahim al-Jaafari, Iraq, Saudi_
 
 ##### Arab League
 ### [The Arab League declares the Lebanon-based Shiite group Hezbollah a terrorist organization. ](/news/2016/03/11/the-arab-league-declares-the-lebanon-based-shiite-group-hezbollah-a-terrorist-organization.md)

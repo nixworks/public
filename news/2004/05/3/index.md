@@ -5,7 +5,7 @@ Formats: [HTML](2004/05/3/index.html)  [JSON](2004/05/3/index.json)  [XML](2004/
 
 ##### George W. Bush
 ### [ In an open letter to George W. Bush more than 50 former high-ranking United States diplomats (including former ambassadors to Saudi Arabia and Qatar) complain about the Bush administration's policy towards the Middle East claiming that the President's approach, and specifically his endorsement of Israeli Prime Minister Ariel Sharon's disengagement plan, is losing the U.S. "credibility, prestige and friends". The letter follows a similar one written by 52 former British diplomats sent to Tony Blair a few days earlier. ](/news/2004/05/3/in-an-open-letter-to-george-w-bush-more-than-50-former-high-ranking-united-states-diplomats-including-former-ambassadors-to-saudi-arabia.md)
-_Context: Ariel Sharon, George W. Bush, Qatar, Saudi Arabia_
+_Context: Ariel Sharon, George W. Bush, Qatar, Saudi_
 
 ##### Crude oil
 ### [ At US$38.21 per barrel of crude, oil prices hit their highest level since 1990. ](/news/2004/05/3/at-us-38-21-per-barrel-of-crude-oil-prices-hit-their-highest-level-since-1990.md)

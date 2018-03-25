@@ -19,7 +19,7 @@ _Context: Gabonese Democratic Party, Omar Bongo, legislative election_
 ### [ Space Shuttle "Discovery" lands safely at the Kennedy Space Center at 5:32 p.m. EST (22:32 UTC), concluding mission STS-116. They spent 13 days in space and visited the International Space Station. ](/news/2006/12/22/space-shuttle-discovery-lands-safely-at-the-kennedy-space-center-at-5-32-p-m-est-22-32-utc-concluding-mission-sts-116-they-spent-13.md)
 _Context: Discovery, International Space Station, Kennedy Space Center, STS-116_
 
-##### Times
+##### The Times
 ### [ Andrew Wallis of "The Times" accuses the French government of aiding and abetting genocidaires in the Rwandan Genocide in 1994. Current Rwandan President Paul Kagame has also expressed his belief that the French and Belgian governments were complicit. ](/news/2006/12/22/andrew-wallis-of-the-times-accuses-the-french-government-of-aiding-and-abetting-genocidaires-in-the-rwandan-genocide-in-1994-current-rwa.md)
 News and opinion from The Times &amp; The Sunday Times
 

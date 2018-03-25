@@ -13,7 +13,7 @@ _Context: Indus River, Pakistan_
 
 ##### News Corporation
 ### [ News Corp. announces its intent to start charging online customers for news content across all its websites, including "The Times", "The Sun", "The Wall Street Journal", "New York Post" and "Herald Sun". ](/news/2009/08/6/news-corp-announces-its-intent-to-start-charging-online-customers-for-news-content-across-all-its-websites-including-the-times-the-su.md)
-_Context: Herald Sun, New York Post, News Corporation, The Sun, The Wall Street Journal, Times_
+_Context: Herald Sun, New York Post, News Corporation, The Sun, The Times, The Wall Street Journal_
 
 ##### AIDS
 ### [ Scientists say they have decoded the entire genetic structure of HIV-1&mdash;the main cause of AIDS in humans. ](/news/2009/08/6/scientists-say-they-have-decoded-the-entire-genetic-structure-of-hiv-1-mdash-the-main-cause-of-aids-in-humans.md)
@@ -45,7 +45,7 @@ _Context: India, Pune, first death from the disease_
 
 ##### Iran
 ### [ Iran bans all pilgrimages to Saudi Arabia during the Islamic holy month of Ramadan in an attempt to contain the spread of swine flu. ](/news/2009/08/6/iran-bans-all-pilgrimages-to-saudi-arabia-during-the-islamic-holy-month-of-ramadan-in-an-attempt-to-contain-the-spread-of-swine-flu.md)
-_Context: Iran, Muslim, Ramadan, Saudi Arabia, attempt to contain the spread, swine flu_
+_Context: Iran, Muslim, Ramadan, Saudi, attempt to contain the spread, swine flu_
 
 ##### Japan
 ### [ Japan's first jury trial for more than 60 years ends with a man in his 70s being sentenced to 15 years in prison for murder. ](/news/2009/08/6/japan-s-first-jury-trial-for-more-than-60-years-ends-with-a-man-in-his-70s-being-sentenced-to-15-years-in-prison-for-murder.md)

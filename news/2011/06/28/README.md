@@ -27,7 +27,7 @@ The family of Papua New Guinea&#039;s prime minister Sir Michael Somare says the
 ### [The TechCrunch web publication reports that the Anonymous computer hacking group has declared war on the U.S. city of Orlando, Florida, in supposed retaliation for the arrest of members of Food Not Bombs. ](/news/2011/06/28/the-techcrunch-web-publication-reports-that-the-anonymous-computer-hacking-group-has-declared-war-on-the-u-s-city-of-orlando-florida-in-s.md)
 The hacktivist group Anonymous may be setting its sights on the city of Orlando, Florida next, if an anonymous press release which has landed in our inbox is..
 
-##### Saudi Arabia
+##### Saudi
 ### [Saudi Arabia approves a law regulating marriages between Saudi citizens and citizens of other countries. ](/news/2011/06/28/saudi-arabia-approves-a-law-regulating-marriages-between-saudi-citizens-and-citizens-of-other-countries.md)
 Law sets conditions for such marriages and SR100,000 fine for violators
 
@@ -117,7 +117,7 @@ Six bombers said to have stormed the Intercontinental, popular with foreigners a
 
 ##### Refugees International
 ### [A report from Refugees International blames NATO's air strikes, its arming of militias, and home raids for the displacement of more than 250,000 people in Afghanistan, a problem which is increasing. ](/news/2011/06/28/a-report-from-refugees-international-blames-nato-s-air-strikes-its-arming-of-militias-and-home-raids-for-the-displacement-of-more-than-250.md)
-_Context: Afghanistan, NATO, Refugees International_
+_Context: Afghan, NATO, Refugees International_
 
 ##### Drones launch
 ### [Two U.S. drone missile attacks are reported to have killed at least 15 people in North Waziristan in a late night attack by the U.S. on the region. ](/news/2011/06/28/two-u-s-drone-missile-attacks-are-reported-to-have-killed-at-least-15-people-in-north-waziristan-in-a-late-night-attack-by-the-u-s-on-the.md)

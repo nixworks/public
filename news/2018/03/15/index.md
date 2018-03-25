@@ -23,6 +23,10 @@ The Trump administration announced sanctions on 13 Russian nationals and three R
 ### [North Korea foreign minister Ri Yong-ho visits Sweden for talks. ](/news/2018/03/15/north-korea-foreign-minister-ri-yong-ho-visits-sweden-for-talks.md)
 Correction at 2145 KST: A previous version of this article suggested that Choe Kang Il would also be heading to Sweden - that remains unclear, and it has been amended to reflect that fact. North Korean foreign minister Ri Yong Ho is on his way to Sweden for a two-day trip, the Swedish Ministry for F...
 
+##### Antonov An-12
+### [Approximately 3,400kg of gold ingots break free from a Nimbus Airlines Antonov An-12 cargo plane and fall onto the runway at Yakutsk Airport. ](/news/2018/03/15/approximately-3-400kg-of-gold-ingots-break-free-from-a-nimbus-airlines-antonov-an-12-cargo-plane-and-fall-onto-the-runway-at-yakutsk-airport.md)
+_Context: Antonov An-12, Yakutsk Airport_
+
 ##### Accidents and incidents involving helicopters
 ### [A U.S. Air Force HH-60 Pave Hawk helicopter crashes near Al-Qa'im in Iraq's western Al Anbar Governorate, killing all seven people on board. ](/news/2018/03/15/a-u-s-air-force-hh-60-pave-hawk-helicopter-crashes-near-al-qa-im-in-iraq-s-western-al-anbar-governorate-killing-all-seven-people-on-board.md)
 An American HH-60 Pave Hawk helicopter has crashed in western Iraq on Thursday and at least some aboard were killed, according to a U.S. official. The official said the aircraft went down near al Qaim in western Anbar Province. A separate official told ABC News there were seven people on board the.....

@@ -37,7 +37,7 @@ As many as 200 people may have been abducted in connection with ethnic fighting,
 
 ##### Soldiers
 ### [The Australian Army reports that another Australian soldier has been killed by an improvised explosive device lost in fighting in Afghanistan. ](/news/2011/08/22/the-australian-army-reports-that-another-australian-soldier-has-been-killed-by-an-improvised-explosive-device-lost-in-fighting-in-afghanista.md)
-_Context: Afghanistan, Australian, improvised explosive device, soldiers_
+_Context: Afghan, Australian, improvised explosive device, soldiers_
 
 ##### Pakistan
 ### [Pakistan announces it will send more troops to Bahrain in support of the King of Bahrain Hamad bin Isa Al Khalifa. ](/news/2011/08/22/pakistan-announces-it-will-send-more-troops-to-bahrain-in-support-of-the-king-of-bahrain-hamad-bin-isa-al-khalifa.md)

@@ -9,7 +9,7 @@ _Context: David Blunkett, Home Secretary, Prime Minister, Tony Blair_
 
 ##### Ukrainian presidential election
 ### [ The Verkhovna Rada (parliament of Ukraine) passes a vote of no confidence to dismiss Viktor Yanukovich as Prime Minister. The opposition led by Viktor Yushchenko agrees to continue negotiations and end the blockade of official buildings. ](/news/2004/12/1/the-verkhovna-rada-parliament-of-ukraine-passes-a-vote-of-no-confidence-to-dismiss-viktor-yanukovich-as-prime-minister-the-opposition-le.md)
-_Context: Ukrainian presidential election, Viktor Yanukovich, Viktor Yushchenko, parliament, vote of no confidence_
+_Context: Parliament, Ukrainian presidential election, Viktor Yanukovich, Viktor Yushchenko, vote of no confidence_
 
 ##### Prime Minister
 ### [Israeli Prime Minister Ariel Sharon ends the Likud-led coalition after he fires ministers from the secular Shinui party, which voted to defeat the annual budget over subsidies to religious parties. ](/news/2004/12/1/israeli-prime-minister-ariel-sharon-ends-the-likud-led-coalition-after-he-fires-ministers-from-the-secular-shinui-party-which-voted-to-defe.md)

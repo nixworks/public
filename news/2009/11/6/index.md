@@ -31,7 +31,7 @@ At each stage, the camps of the ousted president and of the acting president hav
 ### [ The Russian human rights group Memorial says security forces from Chechnya have kidnapped the head of another rights group in Moscow and flown him to Grozny. ](/news/2009/11/6/the-russian-human-rights-group-memorial-says-security-forces-from-chechnya-have-kidnapped-the-head-of-another-rights-group-in-moscow-and-fl.md)
 Rights group says head of another rights group in Moscow kidnapped and taken to Chechnya.
 
-##### Saudi Arabia
+##### Saudi
 ### [ Saudi forces continue more raids against rebel Houthi fighters in northern Yemen, after rebel fighters killed a Saudi security official. ](/news/2009/11/6/saudi-forces-continue-more-raids-against-rebel-houthi-fighters-in-northern-yemen-after-rebel-fighters-killed-a-saudi-security-official.md)
 Jets and ground forces hit Yemeni rebel fighters for third consecutive day.
 

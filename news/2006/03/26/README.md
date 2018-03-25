@@ -9,15 +9,15 @@ _Context: Scottish, smoking ban_
 
 ##### Ukrainian
 ### [ Voters in Ukraine go to the polls to elect a new Verkhovna Rada (parliament). ](/news/2006/03/26/voters-in-ukraine-go-to-the-polls-to-elect-a-new-verkhovna-rada-parliament.md)
-_Context: 2006 parliamentary election, Ukrainian, parliament_
+_Context: 2006 parliamentary election, Parliament, Ukrainian_
 
 ##### 2006 Commonwealth Games
 ### [ The 2006 Commonwealth Games in Melbourne, Australia, draw to a close with the Closing ceremony. Australia finishes with a record 84 gold medals, making this their best Games ever. Samaresh Jung is adjudged the "Best Athlete of the 18th Commonwealth Games." The 2010 games will be hosted by New Delhi, India. ](/news/2006/03/26/the-2006-commonwealth-games-in-melbourne-australia-draw-to-a-close-with-the-closing-ceremony-australia-finishes-with-a-record-84-gold-me.md)
 _Context: 2006 Commonwealth Games, 2010 Commonwealth Games, Closing ceremony, Games, Melbourne, New Delhi, Samaresh Jung_
 
-##### Afghanistan
+##### Afghan
 ### [ Officials in Afghanistan say that Abdul Rahman may be released soon, although the case may have only been temporarily dropped to gather more evidence. ](/news/2006/03/26/officials-in-afghanistan-say-that-abdul-rahman-may-be-released-soon-although-the-case-may-have-only-been-temporarily-dropped-to-gather-mor.md)
-_Context: Abdul Rahman, Afghanistan_
+_Context: Abdul Rahman, Afghan_
 
 ## [Previous Day...](/news/2006/03/25/index.md)
 

@@ -27,9 +27,9 @@ India forms two new army divisions - comprising more than 36,000 men - to defend
 ### [The Gambia severs diplomatic and economic relations with Iran and orders Iranian government representatives to leave within 48 hours. The Gambia has given no reason for the move. ](/news/2010/11/23/the-gambia-severs-diplomatic-and-economic-relations-with-iran-and-orders-iranian-government-representatives-to-leave-within-48-hours-the-ga.md)
 The Gambia orders all Iranian government representatives to leave within 48 hours, giving no reason for breaking diplomatic ties.
 
-##### Saudi Arabia
+##### Saudi
 ### [A Saudi woman accused of torturing her Indonesian maid is sent to jail while the maid is hospitalised, in a case that has caused tensions between the two countries. ](/news/2010/11/23/a-saudi-woman-accused-of-torturing-her-indonesian-maid-is-sent-to-jail-while-the-maid-is-hospitalised-in-a-case-that-has-caused-tensions-be.md)
-_Context: Indonesia, Saudi Arabia_
+_Context: Indonesia, Saudi_
 
 ##### Suriname
 ### [At least seven bodies are recovered following a mine collapse in Suriname. ](/news/2010/11/23/at-least-seven-bodies-are-recovered-following-a-mine-collapse-in-suriname.md)

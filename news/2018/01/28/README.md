@@ -15,7 +15,7 @@ Sauli Niinisto was re-elected as Finland’s president without recourse to a run
 ### [Incumbent Nicos Anastasiades wins the first round of the election, but is well short of an absolute majority required to win outright. He will face his rival from the 2013 election, Stavros Malas, in the second round. ](/news/2018/01/28/incumbent-nicos-anastasiades-wins-the-first-round-of-the-election-but-is-well-short-of-an-absolute-majority-required-to-win-outright-he-wi.md)
 By Jean Christou and Andria Kades Incumbent President Nicos Anastasiades on Sunday comfortably made it through to the second round of the presidential elections slated for February 4, garnering 35.5 per cent of the vote amid an election marred by voter abstention of 28.6 per cent. He will be running...
 
-##### Mass shootings in the United States
+##### Mass shootings
 ### [Four people are shot and killed at a car wash in the Melcroft suburb of Saltlick Township in Pennsylvania. A fifth person, believed to be the gunman, is severely injured. ](/news/2018/01/28/four-people-are-shot-and-killed-at-a-car-wash-in-the-melcroft-suburb-of-saltlick-township-in-pennsylvania-a-fifth-person-believed-to-be-th.md)
 The shooting happened overnight at a car wash in the small town of Melcroft southeast of Pittsburgh
 

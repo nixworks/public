@@ -13,7 +13,7 @@ The Middle East Forum, which is headed by a controversial Jewish scholar, is see
 
 ##### Abdurrashid Dostum
 ### [ Militia forces loyal to Abdurrashid Dostum take Meymaneh, the capital of Faryab province, Afghanistan, from the interim government and force the governor to flee. ](/news/2004/04/8/militia-forces-loyal-to-abdurrashid-dostum-take-meymaneh-the-capital-of-faryab-province-afghanistan-from-the-interim-government-and-forc.md)
-_Context: Abdurrashid Dostum, Afghanistan, Faryab, Meymaneh_
+_Context: Abdurrashid Dostum, Afghan, Faryab, Meymaneh_
 
 ##### Ally
 ### [ Iraq Alliancedate=January 2016 troops are locked in heavy fighting. Ukrainian troops cede Kut to Moqtada al-Sadr supporters. Sunni Muslim insurgents engage in two fronts west of Baghdad; a Shiite uprising spreads in southern and central Iraq. ](/news/2004/04/8/iraq-alliancedate-january-2016-troops-are-locked-in-heavy-fighting-ukrainian-troops-cede-kut-to-moqtada-al-sadr-supporters-sunni-muslim-i.md)

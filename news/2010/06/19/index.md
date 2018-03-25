@@ -41,7 +41,7 @@ _Context: North Waziristan, Pakistan_
 
 ##### French-born
 ### [Gunfire at a combat post in Afghanistan killed a French soldier and wounded an Afghan translator. ](/news/2010/06/19/gunfire-at-a-combat-post-in-afghanistan-killed-a-french-soldier-and-wounded-an-afghan-translator.md)
-_Context: Afghanistan, French-born_
+_Context: Afghan, French-born_
 
 ##### Darfur
 ### [At least 48 people are killed in rival clashes between nomadic groups in the Darfur region of Sudan. ](/news/2010/06/19/at-least-48-people-are-killed-in-rival-clashes-between-nomadic-groups-in-the-darfur-region-of-sudan.md)

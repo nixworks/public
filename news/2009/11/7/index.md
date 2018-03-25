@@ -53,7 +53,7 @@ _Context: Madagascar, political crisis, unity_
 
 ##### NATO
 ### [ A NATO airstrike kills 7 members of the Afghan security force in the western province of Badghis. ](/news/2009/11/7/a-nato-airstrike-kills-7-members-of-the-afghan-security-force-in-the-western-province-of-badghis.md)
-_Context: Afghanistan, Badghis Province, NATO_
+_Context: Afghan, Badghis Province, NATO_
 
 ##### Andorra
 ### [ At least two workers are killed after a bridge under construction collapses in Andorra. ](/news/2009/11/7/at-least-two-workers-are-killed-after-a-bridge-under-construction-collapses-in-andorra.md)
@@ -63,9 +63,9 @@ _Context: Andorra_
 ### [ Thousands of people in Bermeo, Spain, demonstrate for the release of 36 Spanish fishermen being held by Somali pirates. ](/news/2009/11/7/thousands-of-people-in-bermeo-spain-demonstrate-for-the-release-of-36-spanish-fishermen-being-held-by-somali-pirates.md)
 _Context: Bermeo, Somali pirates, Spanish_
 
-##### Saudi Arabia
+##### Saudi
 ### [ Saudi forces bomb a Houthi rebel stronghold in northern Yemen for a third day. ](/news/2009/11/7/saudi-forces-bomb-a-houthi-rebel-stronghold-in-northern-yemen-for-a-third-day.md)
-_Context: Houthi, Saudi Arabia, Yemen, due to fighting_
+_Context: Houthi, Saudi, Yemen, due to fighting_
 
 ##### United Kingdom
 ### [ A British tourist is shot dead by a masked gunman in the U.S. state of Texas. ](/news/2009/11/7/a-british-tourist-is-shot-dead-by-a-masked-gunman-in-the-u-s-state-of-texas.md)

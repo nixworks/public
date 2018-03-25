@@ -31,7 +31,7 @@ _Context: Association Mutual Aid and Solidarity AF447, Axa, Brazil, Marcelle Val
 ### [At least 6 people, including three security personnel, die and more than 16 others are wounded after a suicide bomber tries to enter a government building, is stopped by police and detonates himself in Swat, Pakistan. ](/news/2010/03/13/at-least-6-people-including-three-security-personnel-die-and-more-than-16-others-are-wounded-after-a-suicide-bomber-tries-to-enter-a-gover.md)
 A Taliban suicide bomber targeting security forces killed at least 11 people on Saturday, Pakistani police said, part of a renewed push against the state after one of the biggest security crackdowns in years.
 
-##### Afghanistan
+##### Afghan
 ### [A remotely operated bomb killed 6 people traveling in southern Afghanistan in Tirin Kot, the capital of Afghanistan's Uruzgan province. ](/news/2010/03/13/a-remotely-operated-bomb-killed-6-people-traveling-in-southern-afghanistan-in-tirin-kot-the-capital-of-afghanistan-s-uruzgan-province.md)
 Canadian Soldiers And Afghan Interpreter Die In Roadside Bombing In Kandahar
 

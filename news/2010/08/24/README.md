@@ -49,7 +49,7 @@ Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, c
 
 ##### Lance-corporal
 ### [A lance-corporal in the Australian Army is killed in fighting with the Taliban in Afghanistan's Oruzgan province. ](/news/2010/08/24/a-lance-corporal-in-the-australian-army-is-killed-in-fighting-with-the-taliban-in-afghanistan-s-oruzgan-province.md)
-_Context: Afghanistan, Oruzgan province, Taliban, lance-corporal, soldiers_
+_Context: Afghan, Oruzgan province, Taliban, lance-corporal, soldiers_
 
 ##### Rwanda
 ### [Foreign human rights groups accuse Rwandan and Congolese rebels of gang-raping nearly 200 women and some baby boys over four days within miles of a U.N. peacekeepers' base in the village of Bunangiri, North Kivu province, Democratic Republic of the Congo. ](/news/2010/08/24/foreign-human-rights-groups-accuse-rwandan-and-congolese-rebels-of-gang-raping-nearly-200-women-and-some-baby-boys-over-four-days-within-mil.md)

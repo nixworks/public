@@ -5,7 +5,7 @@ Formats: [HTML](2004/11/19/index.html)  [JSON](2004/11/19/index.json)  [XML](200
 
 ##### U.S. Military
 ### [ U.S. Military officials report that 102 soldiers, 85% of which are serving in Iraq, Kuwait and Afghanistan, have contracted a rather rare blood infection by Acinetobacter baumannii. Military investigators say there is no evidence of biochemical agents in the infection which surfaces occasionally in unsanitary hospitals, but that some soldiers were arriving with infections. ](/news/2004/11/19/u-s-military-officials-report-that-102-soldiers-85-of-which-are-serving-in-iraq-kuwait-and-afghanistan-have-contracted-a-rather-rare-b.md)
-_Context: Acinetobacter baumannii, Afghanistan, Iraq, Kuwait, U.S. Military_
+_Context: Acinetobacter baumannii, Afghan, Iraq, Kuwait, U.S. Military_
 
 ##### Congressman
 ### [ The U.S. U.S. Congress raises the national debt ceiling by USD 800 billion to a total of USD 8.18 trillion. This makes the new borrowing cap 30% higher than the debt Bush inherited, and 70% of the size of the U.S. economy. ](/news/2004/11/19/the-u-s-u-s-congress-raises-the-national-debt-ceiling-by-usd-800-billion-to-a-total-of-usd-8-18-trillion-this-makes-the-new-borrowing-ca.md)

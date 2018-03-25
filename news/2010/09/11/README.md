@@ -3,7 +3,7 @@ Formats: [HTML](2010/09/11/index.html)  [JSON](2010/09/11/index.json)  [XML](201
 
 ## [2010-09-11](/news/2010/09/11/index.md)
 
-##### Afghanistan
+##### Afghan
 ### [Thousands of Afghans protest in Badakhshan province over U.S. plans to hold an "International Burn-a-Koran Day", despite its cancellation. ](/news/2010/09/11/thousands-of-afghans-protest-in-badakhshan-province-over-u-s-plans-to-hold-an-international-burn-a-koran-day-despite-its-cancellation.md)
 E-ALAM, Afghanistan (Reuters) - Protestors clashed with Afghan security forces on Saturday, as thousands of Afghans demonstrated for a second day, despite a U.S. pastor suspending plans to burn copies of the Koran, officials said.
 
