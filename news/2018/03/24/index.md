@@ -13,7 +13,7 @@ Student-led March For Our Lives events nationwide draw hundreds of thousands of 
 
 ##### Poisoning of Sergei and Yulia Skripal
 ### [A friend of poisoned exiled Russian spy Sergei Skripal claims Skripal had written to Vladimir Putin asking to return to Russia. Russia denies receiving such a letter. ](/news/2018/03/24/a-friend-of-poisoned-exiled-russian-spy-sergei-skripal-claims-skripal-had-written-to-vladimir-putin-asking-to-return-to-russia-russia-denie.md)
-_Context: Poisoning of Sergei and Yulia Skripal, Russia, Sergei Skripal, Vladimir Putin_
+THE mobiles of Russian spy Sergei Skripal and his daughter Yulia were switched off for four hours on the day they were poisoned. The devices’ GPS signals which identify positions were not in operat…
 
 ##### 2018 inter-Korean summit
 ### [North Korea accepts South Korea's proposal to hold high-level inter-Korean talks, scheduled to take place on March 29. ](/news/2018/03/24/north-korea-accepts-south-korea-s-proposal-to-hold-high-level-inter-korean-talks-scheduled-to-take-place-on-march-29.md)

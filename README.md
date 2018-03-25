@@ -11,12 +11,20 @@ _Context: Astronomy, Carina, nova_
 ### [Catalonia's ex-President Carles Puigdemont is detained in Germany. ](/news/2018/03/25/catalonia-s-ex-president-carles-puigdemont-is-detained-in-germany.md)
 Carles Puigdemont, the deposed Catalan president, has been detained by police at the German border after Spain reactivated an international warrant for his arrest on charges of rebellion over October&rsquo;s referendum and declaration of independence.
 
+##### Car bomb
+### [A car bomb claimed by al-Shabab kills five including the driver and wounds around ten outside Somalia's Parliament, Interior Ministry, and Presidential Palace buildings in Mogadishu. ](/news/2018/03/25/a-car-bomb-claimed-by-al-shabab-kills-five-including-the-driver-and-wounds-around-ten-outside-somalia-s-parliament-interior-ministry-and-p.md)
+_Context: Mogadishu, Somalia, al-Shabab, car bomb, the driver_
+
 ##### Carcassonne and Trebes attack
 ### [A former French Parliamentarian candidate is arrested for tweeting that the death of Lt-Col Arnaud Beltrame was 'great' and 'one less vote for Emmanuel Macron.' ](/news/2018/03/25/a-former-french-parliamentarian-candidate-is-arrested-for-tweeting-that-the-death-of-lt-col-arnaud-beltrame-was-great-and-one-less-vote-f.md)
 The French left-winger is accused of celebrating the killing of Arnaud Beltrame in a terrorist attack.
 
-##### Siberia
-### [A fire in a shopping centre in Siberia kills at least four people, three of them children. ](/news/2018/03/25/a-fire-in-a-shopping-centre-in-siberia-kills-at-least-four-people-three-of-them-children.md)
+##### South Korea
+### [A passenger ferry grounds off the coast of South Korea. At least six people are injured and the South Korean Coastguard evacuates all 163 on board. ](/news/2018/03/25/a-passenger-ferry-grounds-off-the-coast-of-south-korea-at-least-six-people-are-injured-and-the-south-korean-coastguard-evacuates-all-163-on.md)
+MOKPO, South Korea: South Korea&#039;s coast guard said it rescued all 163 people aboard a ferry that hit a large rock in waters off the country&#039;s southwestern coast on Sunday (Mar 24), according to an Associate Press report. At least six people suffered mild injuries from the accident, which h...
+
+##### Kemerovo
+### [A fire in a shopping centre in Kemerovo, Russia, kills at least four people, three of them children. ](/news/2018/03/25/a-fire-in-a-shopping-centre-in-kemerovo-russia-kills-at-least-four-people-three-of-them-children.md)
 Video on social media shows panic as rescue teams evacuate the building in southern Russia.
 
 ##### Opinion
@@ -37,7 +45,7 @@ Student-led March For Our Lives events nationwide draw hundreds of thousands of 
 
 ##### Poisoning of Sergei and Yulia Skripal
 ### [A friend of poisoned exiled Russian spy Sergei Skripal claims Skripal had written to Vladimir Putin asking to return to Russia. Russia denies receiving such a letter. ](/news/2018/03/24/a-friend-of-poisoned-exiled-russian-spy-sergei-skripal-claims-skripal-had-written-to-vladimir-putin-asking-to-return-to-russia-russia-denie.md)
-_Context: Poisoning of Sergei and Yulia Skripal, Russia, Sergei Skripal, Vladimir Putin_
+THE mobiles of Russian spy Sergei Skripal and his daughter Yulia were switched off for four hours on the day they were poisoned. The devices’ GPS signals which identify positions were not in operat…
 
 ##### 2018 inter-Korean summit
 ### [North Korea accepts South Korea's proposal to hold high-level inter-Korean talks, scheduled to take place on March 29. ](/news/2018/03/24/north-korea-accepts-south-korea-s-proposal-to-hold-high-level-inter-korean-talks-scheduled-to-take-place-on-march-29.md)

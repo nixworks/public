@@ -117,7 +117,7 @@ Thousands of fighters to be deported after deal with Russian and Syrian official
 
 ##### Somali Civil War (2009-present)
 ### [A car bomb blast in Mogadishu, near the Weheliye hotel in the Somali capital, kills at least 14 people and injures 10 others. Al-Shabab claims responsibility for the blast. ](/news/2018/03/22/a-car-bomb-blast-in-mogadishu-near-the-weheliye-hotel-in-the-somali-capital-kills-at-least-14-people-and-injures-10-others-al-shabab-clai.md)
-_Context: Al-Shabab, Mogadishu, Somali, Somali Civil War (2009-present)_
+_Context: Al-Shabab, Mogadishu, Somali Civil War (2009-present), Somalia_
 
 ## [Previous Day...](/news/2018/03/21/index.md)
 
