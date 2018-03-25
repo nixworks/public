@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/25/two-suicide-bombers-strike-a-shi-ite-mosque-in-
 
 ### [2018-03-25](/news/2018/03/25/index.md)
 
-##### Suicide bomb
+##### War in Afghanistan (2001-present)
 # Two suicide bombers strike a Shi'ite mosque in Herat, Afghanistan. One is killed by security forces and the other detonates his device, killing one and wounding seven. Islamic State claims responsibility. 
 
 
@@ -15,8 +15,8 @@ Formats: [HTML](/news/2018/03/25/two-suicide-bombers-strike-a-shi-ite-mosque-in-
 
 ### Related:
 
-1. [An explosion kills at least 29 people and injures dozens more at a Shia mosque in Herat, Afghanistan. ](/news/2017/08/1/an-explosion-kills-at-least-29-people-and-injures-dozens-more-at-a-shia-mosque-in-herat-afghanistan.md) _Context: Afghanistan, Herat_
-2. [Ghor Province Governor's spokesman claims ISIL insurgents killed 26-42 civilians in his governed province, Afghanistan. ](/news/2016/10/26/ghor-province-governor-s-spokesman-claims-isil-insurgents-killed-26-42-civilians-in-his-governed-province-afghanistan.md) _Context: Afghanistan, Islamic State_
-3. [A gas explosion in the Afghanistan city of Herat kills eleven people and injures 18 others. ](/news/2015/08/25/a-gas-explosion-in-the-afghanistan-city-of-herat-kills-eleven-people-and-injures-18-others.md) _Context: Afghanistan, Herat_
-4. [A suicide bomber allegedly affiliated with ISIL strikes a bank in the city of Jalalabad in Afghanistan, killing at least 33 and wounding 100. ](/news/2015/04/18/a-suicide-bomber-allegedly-affiliated-with-isil-strikes-a-bank-in-the-city-of-jalalabad-in-afghanistan-killing-at-least-33-and-wounding-100.md) _Context: Afghanistan, Islamic State_
-5. [A suicide bomb kills at least nine, including two policemen, at a funeral for a tribal elder in Baghlan Province, northern Afghanistan. ](/news/2014/12/1/a-suicide-bomb-kills-at-least-nine-including-two-policemen-at-a-funeral-for-a-tribal-elder-in-baghlan-province-northern-afghanistan.md) _Context: Afghanistan, suicide bomb_
+1. [A suicide car bomber kills one person and injures fourteen others near the Australian embassy in Kabul, Afghanistan. ](/news/2018/03/2/a-suicide-car-bomber-kills-one-person-and-injures-fourteen-others-near-the-australian-embassy-in-kabul-afghanistan.md) _Context: Afghanistan, War in Afghanistan (2001-present)_
+2. [A series of militant attacks in Afghanistan kill more than 20 people. ](/news/2018/02/24/a-series-of-militant-attacks-in-afghanistan-kill-more-than-20-people.md) _Context: Afghanistan, War in Afghanistan (2001-present)_
+3. [A BBC study finds that, October 2017 lc=y, the Taliban presently maintains control of or has some territorial presence in 70% of Afghanistan, with full control of 14 districts (totaling 4% of the country) and demonstrating an open physical militant presence in 263 others (encompassing the remaining 66% of the group's occupied territory). ](/news/2018/01/31/a-bbc-study-finds-that-october-2017-lc-y-the-taliban-presently-maintains-control-of-or-has-some-territorial-presence-in-70-of-afghanistan.md) _Context: Afghanistan, War in Afghanistan (2001-present)_
+4. [A suicide bombing at a Shi'ite cultural center and news agency in Kabul, Afghanistan, kills 41 people and injures 84 others. ISIL-affiliated Amaq News Agency says this group is responsible. ](/news/2017/12/28/a-suicide-bombing-at-a-shiaite-cultural-center-and-news-agency-in-kabul-afghanistan-kills-41-people-and-injures-84-others-isil-affiliat.md) _Context: Afghanistan, War in Afghanistan (2001-present)_
+5. [A suicide bombing in Afghanistan's capital Kabul kills at least 8 civilians and leaves numerous wounded. The Islamic State claims responsibility. ](/news/2017/10/31/a-suicide-bombing-in-afghanistan-s-capital-kabul-kills-at-least-8-civilians-and-leaves-numerous-wounded-the-islamic-state-claims-responsibi.md) _Context: Afghanistan, War in Afghanistan (2001-present)_

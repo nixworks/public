@@ -31,6 +31,10 @@ _Context: 2017-18 Spanish constitutional crisis, Catalonia, Jordi Sanchez i Pica
 ### [Myanmar President Htin Kyaw resigns due to ill health. Vice-President Myint Swe, a former general, will become acting president until a new president is chosen. ](/news/2018/03/21/myanmar-president-htin-kyaw-resigns-due-to-ill-health-vice-president-myint-swe-a-former-general-will-become-acting-president-until-a-new.md)
 _Context: Htin Kyaw, Myanmar President, Myint Swe, Politics of Myanmar_
 
+##### The Philippines
+### [Police in the Philippines fatally shoot 13 suspected drug dealers in Bulacan. ](/news/2018/03/21/police-in-the-philippines-fatally-shoot-13-suspected-drug-dealers-in-bulacan.md)
+Philippine&#x20;police&#x20;said&#x20;Thursday&#x20;they&#x20;had&#x20;shot&#x20;dead&#x20;13&#x20;drug&#x20;suspects,&#x20;just&#x20;days&#x20;after&#x20;President&#x20;Rodrigo&#x20;Duterte&#x20;moved&#x20;to&#x20;take&#x20;the&#x20;country&#x20;out&#x20;of&#x20;the&#x20;International&#x20;Criminal...
+
 ##### 2017 Parsons Green bombing
 ### ["The Independent" claims the Metropolitan Police misidentified material in convicted bomber Ahmad Hassan's possession as not related to ISIS when in fact it was produced by the group. The newspaper says it has submitted evidence to the Central Criminal Court that could affect Hassan's sentence. ](/news/2018/03/21/the-independent-claims-the-metropolitan-police-misidentified-material-in-convicted-bomber-ahmad-hassan-s-possession-as-not-related-to-isis.md)
 Police botched their investigation into Isis propaganda that inspired the Parsons Green attacker and failed to link him to the terrorist group, The Independent can reveal. Ahmed Hassan, an 18-year-old Iraqi asylum seeker, is facing life imprisonment for attempting to bomb a District Line train in Lo...
