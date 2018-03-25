@@ -23,9 +23,17 @@ MOKPO, South Korea: South Korea&#039;s coast guard said it rescued all 163 peopl
 ### [A fire in a shopping centre in Kemerovo, Russia, kills at least four people, three of them children. ](/news/2018/03/25/a-fire-in-a-shopping-centre-in-kemerovo-russia-kills-at-least-four-people-three-of-them-children.md)
 Video on social media shows panic as rescue teams evacuate the building in southern Russia.
 
+##### Islamic State
+### [Islamic State releases a statement claiming responsibility for killing or wounding 103 Iraqi soldiers within one month. The group also claims to have abducted 13 more soldiers, and destroyed 12 armoured vehicles. ](/news/2018/03/25/islamic-state-releases-a-statement-claiming-responsibility-for-killing-or-wounding-103-iraqi-soldiers-within-one-month-the-group-also-claim.md)
+_Context: Iraq, Islamic State_
+
+##### Suicide bomb
+### [Two suicide bombers strike a Shi'ite mosque in Herat, Afghanistan. One is killed by security forces and the other detonates his device, killing one and wounding seven. Islamic State claims responsibility. ](/news/2018/03/25/two-suicide-bombers-strike-a-shi-ite-mosque-in-herat-afghanistan-one-is-killed-by-security-forces-and-the-other-detonates-his-device-kill.md)
+_Context: Afghanistan, Herat, Islamic State, Shi'ite, suicide bomb_
+
 ##### Somali Civil War (2009-present)
 ### [A car bomb claimed by al-Shabab kills five including the driver and wounds around ten outside Somalia's Parliament, Interior Ministry, and Presidential Palace buildings in Mogadishu. ](/news/2018/03/25/a-car-bomb-claimed-by-al-shabab-kills-five-including-the-driver-and-wounds-around-ten-outside-somalia-s-parliament-interior-ministry-and-p.md)
-_Context: Mogadishu, Somali Civil War (2009-present), Somalia, al-Shabab, car bomb, the driver_
+_Context: Mogadishu, Somali Civil War (2009-present), Somalia, al-Shabab, car bomb, suicide bomb_
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)

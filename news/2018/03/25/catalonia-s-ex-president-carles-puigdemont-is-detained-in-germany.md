@@ -12,9 +12,8 @@ Carles Puigdemont, the deposed Catalan president, has been detained by police at
 ### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-43529496)
-2. [El Confidencial](https://www.elconfidencial.com/espana/cataluna/2018-03-25/cientos-de-personas-se-manifiestan-en-barcelona-contra-la-detencion-de-puigdemont_1540761/)
-3. [The Daily Telegraph](https://www.telegraph.co.uk/news/2018/03/25/former-catalan-president-carles-puigdemont-detained-germany/)
-3. [Cover Image](https://www.telegraph.co.uk/content/dam/news/2018/03/01/TELEMMGLPICT000156005789-xlarge_trans_NvBQzQNjv4BqNJjoeBT78QIaYdkJdEY4CnGTJFJS74MYhNY6w3GNbO8.jpeg)
+2. [The Daily Telegraph](https://www.telegraph.co.uk/news/2018/03/25/former-catalan-president-carles-puigdemont-detained-germany/)
+2. [Cover Image](https://www.telegraph.co.uk/content/dam/news/2018/03/01/TELEMMGLPICT000156005789-xlarge_trans_NvBQzQNjv4BqNJjoeBT78QIaYdkJdEY4CnGTJFJS74MYhNY6w3GNbO8.jpeg)
 
 ### Changes:
 
