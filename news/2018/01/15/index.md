@@ -47,6 +47,10 @@ A US move to recognise Jerusalem as Israel&#39;s capital would mean the end of P
 ### [A meeting of senior officials from countries that backed South Korea in the Korean War begins today in Vancouver which will look at ways to better implement sanctions to push North Korea to abandon its nuclear weapons. China and Russia, which backed the North in the war but have since agreed to U.N. sanctions on Pyongyang, will not be attending the meeting. ](/news/2018/01/15/a-meeting-of-senior-officials-from-countries-that-backed-south-korea-in-the-korean-war-begins-today-in-vancouver-which-will-look-at-ways-to.md)
 _Context: 2017-18 North Korea crisis, Korean War_
 
+##### Sanchi oil tanker collision
+### [An oil tanker sinks in the East China Sea after burning for a week, causing a major spill. ](/news/2018/01/15/an-oil-tanker-sinks-in-the-east-china-sea-after-burning-for-a-week-causing-a-major-spill.md)
+After burning for nearly an entire week, the Sanchi oil tanker has finally plunged to the bottom of the East China Sea. A large, toxic oil slick now threatens the region, with models suggesting it won’t reach land for another three months. 
+
 ##### Chirajara bridge collapse
 ### [A partially completed bridge in Cundinamarca, Colombia, collapses, killing at least 10 workers. ](/news/2018/01/15/a-partially-completed-bridge-in-cundinamarca-colombia-collapses-killing-at-least-10-workers.md)
 At least nine construction workers were killed and five injured when a partially-constructed bridge collapsed in central Colombia on Monday, an official from the disaster response agency said.
