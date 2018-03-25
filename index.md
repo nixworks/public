@@ -24,7 +24,7 @@ Rescuers heard knocking sounds and found the sailors in the ship&#039;s engine r
 Public prosecutors on Friday decided not to indict any of the 10 people accused of professional negligence over the collapse of an expressway tunnel that k
 
 ##### 2018 Kids' Choice Awards
-### [ The 31st annual Kid's Choice Awards takes place. ](/news/2018/03/24/the-31st-annual-kid-s-choice-awards-takes-place.md)
+### [ The 31st annual Kids' Choice Awards takes place. ](/news/2018/03/24/the-31st-annual-kids-choice-awards-takes-place.md)
 John Cena hosted the awards show, which aired live Saturday on Nickelodeon.
 
 ##### The Times
