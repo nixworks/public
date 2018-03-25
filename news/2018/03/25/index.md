@@ -11,9 +11,9 @@ The first direct flight from Australia to the UK has landed at Heathrow airport 
 ### [Researchers publish observations of a possible nova (ASASSN-18fv) in the constellation Carina. ](/news/2018/03/25/researchers-publish-observations-of-a-possible-nova-asassn-18fv-in-the-constellation-carina.md)
 _Context: Carina, List of novae in the Milky Way galaxy, nova_
 
-##### Russia-European Union relations
-### [EU diplomatic chief Federica Mogherini holds crisis talks with Markus Ederer, the bloc's recalled ambassador to Russia.](/news/2018/03/25/eu-diplomatic-chief-federica-mogherini-holds-crisis-talks-with-markus-ederer-the-bloc-s-recalled-ambassador-to-russia.md)
-_Context: EU, Federica Mogherini, Poisoning of Sergei and Yulia Skripal, Russia, Russia-European Union relations_
+##### 2018 North Korea-United States summit
+### [ A poll on Fox News shows that voters approve US President Donald Trump's planned meeting with North Korea leader Kim Jong-un, with a 63-30 percent margin. ](/news/2018/03/25/a-poll-on-fox-news-shows-that-voters-approve-us-president-donald-trumpas-planned-meeting-with-north-korea-leader-kim-jong-un-with-a-63-3.md)
+Twice as many voters approve as disapprove of President Trump’s decision to meet with North Korean dictator Kim Jong-un. 
 
 ##### 2017-18 Spanish constitutional crisis
 ### [Catalonia's ex-President Carles Puigdemont is detained in Germany. ](/news/2018/03/25/catalonia-s-ex-president-carles-puigdemont-is-detained-in-germany.md)
@@ -23,12 +23,24 @@ Carles Puigdemont, the deposed Catalan president, has been detained by police at
 ### [A former French Parliamentarian candidate is arrested for tweeting that the death of Lt-Col Arnaud Beltrame was 'great' and 'one less vote for Emmanuel Macron.' ](/news/2018/03/25/a-former-french-parliamentarian-candidate-is-arrested-for-tweeting-that-the-death-of-lt-col-arnaud-beltrame-was-great-and-one-less-vote-f.md)
 The French left-winger is accused of celebrating the killing of Arnaud Beltrame in a terrorist attack.
 
-##### South Korea
-### [A passenger ferry grounds off the coast of South Korea. At least six people are injured and the South Korean Coastguard evacuates all 163 on board. ](/news/2018/03/25/a-passenger-ferry-grounds-off-the-coast-of-south-korea-at-least-six-people-are-injured-and-the-south-korean-coastguard-evacuates-all-163-on.md)
+##### Qatar-Russia relations
+### [Sheikh Tamim of Qatar visits Russia to discuss the situation in Syria, Yemen and Palestine. ](/news/2018/03/25/sheikh-tamim-of-qatar-visits-russia-to-discuss-the-situation-in-syria-yemen-and-palestine.md)
+Qatar&#39;s Sheikh Tamim is in Moscow to meet Russian President Vladimir Putin to discuss situation in the Middle East.
+
+##### Russia-European Union relations
+### [EU diplomatic chief Federica Mogherini holds crisis talks with Markus Ederer, the bloc's recalled ambassador to Russia.](/news/2018/03/25/eu-diplomatic-chief-federica-mogherini-holds-crisis-talks-with-markus-ederer-the-bloc-s-recalled-ambassador-to-russia.md)
+_Context: EU, Federica Mogherini, Poisoning of Sergei and Yulia Skripal, Russia, Russia-European Union relations_
+
+##### South Korea-United States relations
+### [South Korea and the United States have reached agreements on trade and steel tariffs. ](/news/2018/03/25/south-korea-and-the-united-states-have-reached-agreements-on-trade-and-steel-tariffs.md)
+The U.S. and South Korea reached an agreement on revising the allies’s six-year-old bilateral trade deal and President Donald Trump’s plan to impose tariffs on imported steel, Treasury Secretary Steven Mnuchin said.
+
+##### Ferry accidents
+### [A passenger ferry grounds off the coast of South Korea, injuring at least six people. The South Korean Coastguard evacuated all 163 on board. ](/news/2018/03/25/a-passenger-ferry-grounds-off-the-coast-of-south-korea-injuring-at-least-six-people-the-south-korean-coastguard-evacuated-all-163-on-board.md)
 MOKPO, South Korea: South Korea&#039;s coast guard said it rescued all 163 people aboard a ferry that hit a large rock in waters off the country&#039;s southwestern coast on Sunday (Mar 24), according to an Associate Press report. At least six people suffered mild injuries from the accident, which h...
 
-##### Kemerovo
-### [A fire in a shopping centre in Kemerovo, Russia, kills at least thirty seven people. ](/news/2018/03/25/a-fire-in-a-shopping-centre-in-kemerovo-russia-kills-at-least-thirty-seven-people.md)
+##### Shopping center
+### [A fire in a shopping center in Kemerovo, Russia, kills at least 37 people. ](/news/2018/03/25/a-fire-in-a-shopping-center-in-kemerovo-russia-kills-at-least-37-people.md)
 Video on social media shows panic as rescue teams evacuate the building in southern Russia.
 
 ##### American-led intervention in Iraq (2014-present)
@@ -40,8 +52,8 @@ _Context: American-led intervention in Iraq (2014-present), Iraq, Islamic State_
 _Context: Afghanistan, Herat, Islamic State, Shi'ite, War in Afghanistan (2001-present), suicide bomb_
 
 ##### Somali Civil War (2009-present)
-### [A car bomb claimed by al-Shabab kills five including the driver and wounds around ten outside Somalia's Parliament, Interior Ministry, and Presidential Palace buildings in Mogadishu. ](/news/2018/03/25/a-car-bomb-claimed-by-al-shabab-kills-five-including-the-driver-and-wounds-around-ten-outside-somalia-s-parliament-interior-ministry-and-p.md)
-_Context: Mogadishu, Somali Civil War (2009-present), Somalia, al-Shabab, car bomb, suicide bomb_
+### [A car bomb claimed by Al-Shabab kills five including the driver and wounds around ten outside Somalia's Parliament, Interior Ministry, and Presidential Palace buildings in Mogadishu. ](/news/2018/03/25/a-car-bomb-claimed-by-al-shabab-kills-five-including-the-driver-and-wounds-around-ten-outside-somalia-s-parliament-interior-ministry-and-p.md)
+_Context: Al-Shabab, Mogadishu, Somali Civil War (2009-present), Somalia, car bomb, suicide bomb_
 
 ## [Previous Day...](/news/2018/03/24/index.md)
 

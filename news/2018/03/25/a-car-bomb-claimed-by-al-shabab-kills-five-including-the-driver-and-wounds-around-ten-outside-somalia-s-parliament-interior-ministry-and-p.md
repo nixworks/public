@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/25/a-car-bomb-claimed-by-al-shabab-kills-five-incl
 ### [2018-03-25](/news/2018/03/25/index.md)
 
 ##### Somali Civil War (2009-present)
-# A car bomb claimed by al-Shabab kills five including the driver and wounds around ten outside Somalia's Parliament, Interior Ministry, and Presidential Palace buildings in Mogadishu. 
+# A car bomb claimed by Al-Shabab kills five including the driver and wounds around ten outside Somalia's Parliament, Interior Ministry, and Presidential Palace buildings in Mogadishu. 
 
 
 
