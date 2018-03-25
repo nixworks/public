@@ -13,7 +13,7 @@ _Context: Poisoning of Sergei and Yulia Skripal, Russia, Sergei Skripal, Vladimi
 
 ##### 2018 inter-Korean summit
 ### [North Korea accepts South Korea's proposal to hold high-level inter-Korean talks, scheduled to take place on March 29. ](/news/2018/03/24/north-korea-accepts-south-korea-s-proposal-to-hold-high-level-inter-korean-talks-scheduled-to-take-place-on-march-29.md)
-_Context: 2018 inter-Korean summit, Korean, North Korea, North Korea-South Korea relations, South Korea_
+_Context: 2018 inter-Korean summit, Korean, North Korea, South Korea_
 
 ##### Al Nahda
 ### [A crane collapses while lifting several tons of concrete at a building site in Al Nahda, Sharjah, Dubai. One man is killed and another injured. ](/news/2018/03/24/a-crane-collapses-while-lifting-several-tons-of-concrete-at-a-building-site-in-al-nahda-sharjah-dubai-one-man-is-killed-and-another-injur.md)
@@ -44,7 +44,7 @@ At least seven civilians have been killed in Saudi airstrikes against residentia
 Two people were killed when a bomb exploded under a car in the Egyptian city of Alexandria on Saturday in what appeared to be an assassination attempt on the city&rsquo;s security chief, state media reported.
 
 ##### Afghan
-### [An extreme far-right group claims responsibility after an Afghan community center is burned down in Athens, Greece. The United Nations condemns the attack. ](/news/2018/03/24/an-extreme-far-right-group-claims-responsibility-after-an-afghan-community-center-is-burned-down-in-athens-greece-the-united-nations-conde.md)
+### [An Afghan community center is burned down in Athens, Greece. An extreme far-right group claims responsibility, and the United Nations condemns the attack. ](/news/2018/03/24/an-afghan-community-center-is-burned-down-in-athens-greece-an-extreme-far-right-group-claims-responsibility-and-the-united-nations-condem.md)
 A little-known extreme right-wing group has claimed responsibility for an arson attack on an Afghan community center in central Athens that caused significant damage, but no injuries. A group calling itself Krypteia claimed responsibility in a call to a Greek news website on Friday. ...
 
 ## [Previous Day...](/news/2018/03/23/index.md)
