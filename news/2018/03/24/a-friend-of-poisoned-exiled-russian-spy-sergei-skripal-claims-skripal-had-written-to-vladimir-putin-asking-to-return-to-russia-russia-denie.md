@@ -6,14 +6,14 @@ Formats: [HTML](/news/2018/03/24/a-friend-of-poisoned-exiled-russian-spy-sergei-
 ##### Poisoning of Sergei and Yulia Skripal
 # A friend of poisoned exiled Russian spy Sergei Skripal claims Skripal had written to Vladimir Putin asking to return to Russia. Russia denies receiving such a letter. 
 
-THE mobiles of Russian spy Sergei Skripal and his daughter Yulia were switched off for four hours on the day they were poisoned. The devices’ GPS signals which identify positions were not in operat…
+The devices’ GPS signals, which help identify where someone is, were not in operation for several hours - leaving police struggling to piece together their movements.
 
 
 ### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-43523923)
-2. [The Sun](https://www.thesun.co.uk/news/5893197/russia-spy-mobile-mystery-skripal/)
-2. [Cover Image](https://www.thesun.co.uk/wp-content/uploads/2018/03/as-comp-mobile-switch-off.jpg?strip&#x3D;all&amp;quality&#x3D;100&amp;w&#x3D;750&amp;h&#x3D;500&amp;crop&#x3D;1)
+2. [Daily Mirror](https://www.mirror.co.uk/news/uk-news/mobile-phone-sergei-skripal-daughter-12248068)
+2. [Cover Image](https://i2-prod.mirror.co.uk/incoming/article12218920.ece/ALTERNATES/s1200/Attempted-murder-of-a-Russian-former-double-agent-Sergei-Skripal-and-his-daughter-Yulia-Skripalnu.jpg)
 
 ### Changes:
 

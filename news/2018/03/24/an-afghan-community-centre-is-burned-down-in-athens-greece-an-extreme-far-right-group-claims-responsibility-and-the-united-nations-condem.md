@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/24/an-afghan-community-centre-is-burned-down-in-at
 
 ### [2018-03-24](/news/2018/03/24/index.md)
 
-##### Minorities in Greece
+##### Crime in Greece
 # An Afghan community centre is burned down in Athens, Greece. An extreme far-right group claims responsibility, and the United Nations condemns the attack. 
 
 A little-known extreme right-wing group has claimed responsibility for an arson attack on an Afghan community center in central Athens that caused significant damage, but no injuries. A group calling itself Krypteia claimed responsibility in a call to a Greek news website on Friday. ...

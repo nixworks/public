@@ -93,7 +93,7 @@ Syrian state TV and Ahrar al-Sham rebel group say 7,500 people will evacuate Gho
 
 ##### Saudi Arabian-led intervention in Yemen
 ### [Houthis claim to have shot down a Royal Saudi Air Force F-15 jet over Sa'da province, Yemen. ](/news/2018/03/21/houthis-claim-to-have-shot-down-a-royal-saudi-air-force-f-15-jet-over-sa-da-province-yemen.md)
-_Context: F-15, Houthis, Royal Saudi Air Force, Sa'da province, Saudi Arabian-led intervention in Yemen, Yemen_
+_Context: F-15, Houthi, Royal Saudi Air Force, Sa'da province, Saudi Arabian-led intervention in Yemen, Yemen_
 
 ## [Previous Day...](/news/2018/03/20/index.md)
 
