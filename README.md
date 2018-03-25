@@ -7,6 +7,10 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [A nova becomes visible in the constellation Carina. ](/news/2018/03/25/a-nova-becomes-visible-in-the-constellation-carina.md)
 _Context: Astronomy, Carina, nova_
 
+##### 2017-18 Spanish constitutional crisis
+### [Carles Puigdemont is detained in Germany. ](/news/2018/03/25/carles-puigdemont-is-detained-in-germany.md)
+Carles Puigdemont, the deposed Catalan president, has been detained by police at the German border after Spain reactivated an international warrant for his arrest on charges of rebellion over October&rsquo;s referendum and declaration of independence.
+
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
