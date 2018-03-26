@@ -11,6 +11,10 @@ Using microlensing technique, astronomers have found a new giant planet orbiting
 ### [Egyptians go to the polls in their presidential election. ](/news/2018/03/26/egyptians-go-to-the-polls-in-their-presidential-election.md)
 Egyptians began voting Monday in an election that virtually guaranteed another term for President Abdel-Fattah el-Sissi, who faced only a token opponent in balloting that resembled the referendums held by autocrats for decades before the Arab Spring briefly raised hopes of democratic change.
 
+##### Anti-Semitic murder
+### [ French police charge two men in connection with the anti-Semitic murder of an 85-year Holocaust survivor who had managed to evade the notorious Vel' d'Hiv Roundup of over 13,000 Jews in Paris during the Second World War. ](/news/2018/03/26/french-police-charge-two-men-in-connection-with-the-anti-semitic-murder-of-an-85-year-holocaust-survivor-who-had-managed-to-evade-the-notor.md)
+After Mireille Knoll found stabbed to death and burned in her Paris apartment, FM Le Drian says France must continue to fight anti-Semitism
+
 ##### Poisoning of Sergei and Yulia Skripal
 ### [Canada expels four Russian diplomats citing solidarity with the United Kingdom following the attempted murder of a former Russian spy in the UK by a nerve agent. ](/news/2018/03/26/canada-expels-four-russian-diplomats-citing-solidarity-with-the-united-kingdom-following-the-attempted-murder-of-a-former-russian-spy-in-the.md)
 The move follows the poisoning of former Russian spy Sergei Skripal and his daughter in the U.K. earlier this month. The Russians have been given seven days to leave the country.
@@ -22,6 +26,10 @@ Shaheen has been undergoing treatment at the hospital for the past nine days.
 ##### 2018 Kemerovo fire
 ### [Witnesses and Russia's Investigative Committee say the Winter Cherry complex's exits were blocked and there were no alarms during the disaster, which killed more than 60. ](/news/2018/03/26/witnesses-and-russia-s-investigative-committee-say-the-winter-cherry-complex-s-exits-were-blocked-and-there-were-no-alarms-during-the-disast.md)
 Many of the 64 people killed in the leisure complex fire in Siberia were children.
+
+##### 2018 NCAA Division I Men's Basketball Tournament
+### [Loyola-Chicago, a surprise 11th seed that will play in the tournament semifinals (the Final Four), is licensing the name and image of the team's chaplain, 98-year-old Sister Jean Dolores Schmidt, on school merchandise with her blessing. The so-called "Media darling" didn't ask for anything for herself," the athletic department says. ](/news/2018/03/26/loyola-chicago-a-surprise-11th-seed-that-will-play-in-the-tournament-semifinals-the-final-four-is-licensing-the-name-and-image-of-the-te.md)
+A 98-year-old nun has become the biggest star of the N.C.A.A. men’s basketball tournament. And she is loving every minute of it.
 
 ##### Economy of the United States
 ### [U.S. firearms and ammunition manufacturer Remington Arms files for chapter 11 bankruptcy protection after amassing US$950 million worth of debt. ](/news/2018/03/26/u-s-firearms-and-ammunition-manufacturer-remington-arms-files-for-chapter-11-bankruptcy-protection-after-amassing-us-950-million-worth-of-d.md)
