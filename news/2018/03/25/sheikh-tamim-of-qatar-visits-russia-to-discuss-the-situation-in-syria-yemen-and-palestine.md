@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/25/sheikh-tamim-of-qatar-visits-russia-to-discuss-
 
 ### [2018-03-25](/news/2018/03/25/index.md)
 
-##### Qatar-Russia relations
+##### Modern conflicts in the Middle East
 # Sheikh Tamim of Qatar visits Russia to discuss the situation in Syria, Yemen and Palestine. 
 
 Qatar&#39;s Sheikh Tamim is in Moscow to meet Russian President Vladimir Putin to discuss situation in the Middle East.

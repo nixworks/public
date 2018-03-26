@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/25/researchers-publish-observations-of-a-possible-
 
 ### [2018-03-25](/news/2018/03/25/index.md)
 
-##### List of novae in the Milky Way galaxy
+##### Novae in the Milky Way galaxy
 # Researchers publish observations of a possible nova (ASASSN-18fv) in the constellation Carina. 
 
 

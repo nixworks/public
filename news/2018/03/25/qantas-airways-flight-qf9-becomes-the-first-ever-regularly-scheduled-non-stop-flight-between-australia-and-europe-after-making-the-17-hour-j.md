@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/25/qantas-airways-flight-qf9-becomes-the-first-eve
 ### [2018-03-25](/news/2018/03/25/index.md)
 
 ##### Kangaroo Route
-# Qantas Airways flight QF9 becomes the first ever regularly scheduled non-stop flight between Australia and Europe after making the 17-hour journey from Perth to London. 
+# Qantas Airways Flight QF9 becomes the first ever regularly scheduled non-stop flight between Australia and Europe after making the 17-hour journey from Perth to London. 
 
 The first direct flight from Australia to the UK has landed at Heathrow airport after an epic 17-hour flight. Qantas 9 (QF9) touched down at Terminal Three at 5.02 am (GMT)&nbsp;after setting off from Perth at 7pm local time (11am GMT) on Saturday covering 9,226 miles. The Boeing 787-9 Dreamliner took just over 17 hours to complete the journey, arriving slightly earlier than the scheduled arrival time of 5.10am.
 
@@ -17,7 +17,7 @@ The first direct flight from Australia to the UK has landed at Heathrow airport 
 ### Changes:
 
 1. [Qantas Airways flight QF9 becomes the first ever non-stop flight between Australia and Europe after making the 17-hour journey from Perth to London. ](/news/2018/03/25/qantas-airways-flight-qf9-becomes-the-first-ever-non-stop-flight-between-australia-and-europe-after-making-the-17-hour-journey-from-perth-to.md) _2018-03-25 22:30:14 (First version)_
-1. [Qantas Airways flight QF9 becomes the first ever regularly scheduled non-stop flight between Australia and Europe after making the 17-hour journey from Perth to London. ](/news/2018/03/25/qantas-airways-flight-qf9-becomes-the-first-ever-regularly-scheduled-non-stop-flight-between-australia-and-europe-after-making-the-17-hour-j.md) _(Current version)_
+1. [Qantas Airways Flight QF9 becomes the first ever regularly scheduled non-stop flight between Australia and Europe after making the 17-hour journey from Perth to London. ](/news/2018/03/25/qantas-airways-flight-qf9-becomes-the-first-ever-regularly-scheduled-non-stop-flight-between-australia-and-europe-after-making-the-17-hour-j.md) _(Current version)_
 
 ### Related:
 

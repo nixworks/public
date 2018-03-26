@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/24/hundreds-of-thousands-of-people-participate-in-
 ### [2018-03-24](/news/2018/03/24/index.md)
 
 ##### 2018 United States gun violence protests
-# Hundreds of thousands of people participate in the March For Our Lives protest around the world regarding gun violence, mass shootings and school shootings in the United States. 
+# Hundreds of thousands of people participate in the March for Our Lives protest around the world regarding gun violence, mass shootings and school shootings in the United States. 
 
 Student-led March For Our Lives events nationwide draw hundreds of thousands of protesters.
 
@@ -20,7 +20,7 @@ Student-led March For Our Lives events nationwide draw hundreds of thousands of 
 1. [ Kids and families participate in the March For Our Lives protest regarding gun violence and mass shootings in Washington D.C. and across the country. ](/news/2018/03/24/kids-and-families-participate-in-the-march-for-our-lives-protest-regarding-gun-violence-and-mass-shootings-in-washington-d-c-and-across-th.md) _2018-03-24 04:03:52 (First version)_
 2. [Thousands of people participate in the March For Our Lives protest in multiple cities across the United States regarding gun violence and mass shootings. ](/news/2018/03/24/thousands-of-people-participate-in-the-march-for-our-lives-protest-in-multiple-cities-across-the-united-states-regarding-gun-violence-and-ma.md) _2018-03-24 10:30:11 (Update)_
 3. [Thousands of people participate in the March For Our Lives protest in multiple cities across the United States regarding gun violence, mass shootings and school shootings. ](/news/2018/03/24/thousands-of-people-participate-in-the-march-for-our-lives-protest-in-multiple-cities-across-the-united-states-regarding-gun-violence-mass.md) _2018-03-24 17:30:13 (Update)_
-3. [Hundreds of thousands of people participate in the March For Our Lives protest around the world regarding gun violence, mass shootings and school shootings in the United States. ](/news/2018/03/24/hundreds-of-thousands-of-people-participate-in-the-march-for-our-lives-protest-around-the-world-regarding-gun-violence-mass-shootings-and-s.md) _(Current version)_
+3. [Hundreds of thousands of people participate in the March for Our Lives protest around the world regarding gun violence, mass shootings and school shootings in the United States. ](/news/2018/03/24/hundreds-of-thousands-of-people-participate-in-the-march-for-our-lives-protest-around-the-world-regarding-gun-violence-mass-shootings-and-s.md) _(Current version)_
 
 ### Related:
 
