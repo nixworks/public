@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/25/a-former-french-parliamentarian-candidate-is-ar
 ### [2018-03-25](/news/2018/03/25/index.md)
 
 ##### Carcassonne and Trebes attack
-# A former French Parliamentarian candidate is arrested for tweeting that the death of Lt-Col Arnaud Beltrame was 'great' and 'one less vote for Emmanuel Macron.' 
+# A former French Parliamentarian candidate is arrested for tweeting that the death of Lt-Col Arnaud Beltrame was "great" and "one less vote for Emmanuel Macron." 
 
 The French left-winger is accused of celebrating the killing of Arnaud Beltrame in a terrorist attack.
 

@@ -3,6 +3,10 @@ Formats: [HTML](2018/03/25/index.html)  [JSON](2018/03/25/index.json)  [XML](201
 
 ## [2018-03-25](/news/2018/03/25/index.md)
 
+##### Sahara
+### [A rare anomalous weather event caused due to dust from a sandstorm in the Sahara, leads to an orange snow blanketing several Eastern European countries, including Ukraine, Bulgaria, Romania and Russia. A similar event occured in Siberia in 2007. ](/news/2018/03/25/a-rare-anomalous-weather-event-caused-due-to-dust-from-a-sandstorm-in-the-sahara-leads-to-an-orange-snow-blanketing-several-eastern-europea.md)
+Dust and sand from storms in northern Africa carpet ski resorts in Russia and Romania
+
 ##### Kangaroo Route
 ### [Qantas Airways flight QF9 becomes the first ever regularly scheduled non-stop flight between Australia and Europe after making the 17-hour journey from Perth to London. ](/news/2018/03/25/qantas-airways-flight-qf9-becomes-the-first-ever-regularly-scheduled-non-stop-flight-between-australia-and-europe-after-making-the-17-hour-j.md)
 The first direct flight from Australia to the UK has landed at Heathrow airport after an epic 17-hour flight. Qantas 9 (QF9) touched down at Terminal Three at 5.02 am (GMT)&nbsp;after setting off from Perth at 7pm local time (11am GMT) on Saturday covering 9,226 miles. The Boeing 787-9 Dreamliner to...
@@ -15,8 +19,12 @@ _Context: ASASSN-18fv, Carina, List of novae in the Milky Way galaxy, nova_
 ### [Catalonia's ex-President Carles Puigdemont is detained in Germany. ](/news/2018/03/25/catalonia-s-ex-president-carles-puigdemont-is-detained-in-germany.md)
 Carles Puigdemont, the deposed Catalan president, has been detained by police at the German border after Spain reactivated an international warrant for his arrest on charges of rebellion over October&rsquo;s referendum and declaration of independence.
 
+##### Maputo
+### [A suspected drunk driver loses control while fleeing police in Maputo, Mozambique, strikes a crowd, and kills 21 people, injuring 30 more. ](/news/2018/03/25/a-suspected-drunk-driver-loses-control-while-fleeing-police-in-maputo-mozambique-strikes-a-crowd-and-kills-21-people-injuring-30-more.md)
+Party cut short as car ploughs into the crowd.
+
 ##### Carcassonne and Trebes attack
-### [A former French Parliamentarian candidate is arrested for tweeting that the death of Lt-Col Arnaud Beltrame was 'great' and 'one less vote for Emmanuel Macron.' ](/news/2018/03/25/a-former-french-parliamentarian-candidate-is-arrested-for-tweeting-that-the-death-of-lt-col-arnaud-beltrame-was-great-and-one-less-vote-f.md)
+### [A former French Parliamentarian candidate is arrested for tweeting that the death of Lt-Col Arnaud Beltrame was "great" and "one less vote for Emmanuel Macron." ](/news/2018/03/25/a-former-french-parliamentarian-candidate-is-arrested-for-tweeting-that-the-death-of-lt-col-arnaud-beltrame-was-great-and-one-less-vote-f.md)
 The French left-winger is accused of celebrating the killing of Arnaud Beltrame in a terrorist attack.
 
 ##### Qatar-Russia relations
@@ -31,12 +39,8 @@ _Context: EU, Federica Mogherini, Poisoning of Sergei and Yulia Skripal, Russia,
 ### [South Korea and the United States reach agreements on trade and steel tariffs. ](/news/2018/03/25/south-korea-and-the-united-states-reach-agreements-on-trade-and-steel-tariffs.md)
 The U.S. and South Korea reached an agreement on revising the allies’s six-year-old bilateral trade deal and President Donald Trump’s plan to impose tariffs on imported steel, Treasury Secretary Steven Mnuchin said.
 
-##### Maputo
-### [A suspected drunk driver loses control while fleeing police in Maputo, Mozambique. The car strikes a crowd, killing 21 people and injuring 30. ](/news/2018/03/25/a-suspected-drunk-driver-loses-control-while-fleeing-police-in-maputo-mozambique-the-car-strikes-a-crowd-killing-21-people-and-injuring-3.md)
-Party cut short as car ploughs into the crowd.
-
 ##### Kitonga
-### [A bus and a lorry collide head-on near Kitonga, Tanzania. The crash kills 26 and wounds 9. ](/news/2018/03/25/a-bus-and-a-lorry-collide-head-on-near-kitonga-tanzania-the-crash-kills-26-and-wounds-9.md)
+### [A bus and a lorry collide head-on near Kitonga, Tanzania, killing twenty six people and wounding nine others. ](/news/2018/03/25/a-bus-and-a-lorry-collide-head-on-near-kitonga-tanzania-killing-twenty-six-people-and-wounding-nine-others.md)
 Most were either standing or sitting on the front seats of the passenger vehicle.
 
 ##### South Korean ferry disasters
@@ -44,7 +48,7 @@ Most were either standing or sitting on the front seats of the passenger vehicle
 MOKPO, South Korea: South Korea&#039;s coast guard said it rescued all 163 people aboard a ferry that hit a large rock in waters off the country&#039;s southwestern coast on Sunday (Mar 24), according to an Associate Press report. At least six people suffered mild injuries from the accident, which h...
 
 ##### 2018 Kemerovo fire
-### [A fire in a Winter Cherry complex, a shopping center in Kemerovo, Russia, kills at least 37 people. ](/news/2018/03/25/a-fire-in-a-winter-cherry-complex-a-shopping-center-in-kemerovo-russia-kills-at-least-37-people.md)
+### [A fire in Winter Cherry complex, a shopping center in Kemerovo, Russia, kills at least 37 people. ](/news/2018/03/25/a-fire-in-winter-cherry-complex-a-shopping-center-in-kemerovo-russia-kills-at-least-37-people.md)
 Video on social media shows panic as rescue teams evacuate the building in southern Russia.
 
 ##### Yemeni Crisis (2011-present)
@@ -56,11 +60,11 @@ Yemen&rsquo;s Shiite rebels fired a barrage of ballistic missiles targeting Saud
 _Context: ISIL, Iraq, Iraqi Civil War (2014-present)_
 
 ##### War in Afghanistan (2001-present)
-### [Two suicide bombers strike a Shi'ite mosque in Herat, Afghanistan. One is killed by security forces and the other detonates his device, killing one and wounding seven. ISIL claims responsibility. ](/news/2018/03/25/two-suicide-bombers-strike-a-shi-ite-mosque-in-herat-afghanistan-one-is-killed-by-security-forces-and-the-other-detonates-his-device-kill.md)
+### [Two suicide bombers strike a Shi'ite mosque in Herat, Afghanistan, killing one person and wounding seven others. Security forces kill one bomber while the device kills the other. ISIL claims responsibility. ](/news/2018/03/25/two-suicide-bombers-strike-a-shi-ite-mosque-in-herat-afghanistan-killing-one-person-and-wounding-seven-others-security-forces-kill-one-bo.md)
 _Context: Afghanistan, Herat, ISIL, Shi'ite, War in Afghanistan (2001-present), suicide bomb_
 
 ##### Somali Civil War (2009-present)
-### [A car bomb claimed by Al-Shabab kills five including the driver and wounds around ten outside Somalia's Parliament, Interior Ministry, and Presidential Palace buildings in Mogadishu. ](/news/2018/03/25/a-car-bomb-claimed-by-al-shabab-kills-five-including-the-driver-and-wounds-around-ten-outside-somalia-s-parliament-interior-ministry-and-p.md)
+### [A car bomb claimed by Al-Shabab kills five people including the driver and wounds around ten others outside Somalia's Parliament, Interior Ministry, and Presidential Palace buildings in Mogadishu. ](/news/2018/03/25/a-car-bomb-claimed-by-al-shabab-kills-five-people-including-the-driver-and-wounds-around-ten-others-outside-somalia-s-parliament-interior-m.md)
 _Context: Al-Shabab, Mogadishu, Somali Civil War (2009-present), Somalia, car bomb_
 
 ## [Previous Day...](/news/2018/03/24/index.md)
