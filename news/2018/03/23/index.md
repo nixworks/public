@@ -69,7 +69,7 @@ Poland wants Brussels to withdraw its Article 7 procedure against Warsaw, the Po
 
 ##### 2018 North Korea-United States summit
 ### [ New National Security Advisor John R. Bolton says that Donald Trump should insist on Libya-styled denuclearization for North Korea. ](/news/2018/03/23/new-national-security-advisor-john-r-bolton-says-that-donald-trump-should-insist-on-libya-styled-denuclearization-for-north-korea.md)
-_Context: 2018 North Korea-United States summit, Donald Trump, John R. Bolton, Libya, North Korea_
+_Context: 2018 North Korea-United States summit, John R. Bolton, Libya, North Korea, Trump_
 
 ##### 2018 disasters in Vietnam
 ### [A fire at a condominium complex in Ho Chi Minh City, Vietnam, kills at least 13 people and injures another 27, with most people dying of suffocation or jumping from high floors. ](/news/2018/03/23/a-fire-at-a-condominium-complex-in-ho-chi-minh-city-vietnam-kills-at-least-13-people-and-injures-another-27-with-most-people-dying-of-suf.md)

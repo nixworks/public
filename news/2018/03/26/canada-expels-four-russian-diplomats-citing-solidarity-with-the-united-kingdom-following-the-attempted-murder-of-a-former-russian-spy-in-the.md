@@ -3,15 +3,18 @@ Formats: [HTML](/news/2018/03/26/canada-expels-four-russian-diplomats-citing-sol
 
 ### [2018-03-26](/news/2018/03/26/index.md)
 
-##### Canada-Russia relations
+##### Poisoning of Sergei and Yulia Skripal
 # Canada expels four Russian diplomats citing solidarity with the United Kingdom following the attempted murder of a former Russian spy in the UK by a nerve agent. 
 
-
+The move follows the poisoning of former Russian spy Sergei Skripal and his daughter in the U.K. earlier this month. The Russians have been given seven days to leave the country.
 
 
 ### Sources:
 
 1. [Global Affairs Canada](https://www.canada.ca/en/global-affairs/news/2018/03/canada-expels-russian-diplomats-in-solidarity-with-united-kingdom.html)
+2. [ITV](http://www.itv.com/news/2018-03-26/us-and-14-eu-nations-to-expel-russian-diplomats-over-sergei-skripal-poisoning/)
+3. [NPR](https://www.npr.org/sections/thetwo-way/2018/03/26/596966272/us-expels-dozens-of-russian-diplomats-closes-consulate-in-seattle)
+3. [Cover Image](https://media.npr.org/assets/img/2018/03/26/ap_18084819078993_wide-4ec16d15cfe27b4f2ed27b3f7a671832d98168a3.jpg?s=1400)
 
 ### Changes:
 
@@ -20,8 +23,8 @@ Formats: [HTML](/news/2018/03/26/canada-expels-four-russian-diplomats-citing-sol
 
 ### Related:
 
-1. [Former Secret Intelligence Service (MI6) spy Sergei Skripal and his daughter are taken to a hospital in critical condition after being exposed to an unknown substance in Wiltshire, United Kingdom. Skripal was granted refugee status in the UK following a "spy swap" deal between the UK and Russia in 2010. ](/news/2018/03/5/former-secret-intelligence-service-mi6-spy-sergei-skripal-and-his-daughter-are-taken-to-a-hospital-in-critical-condition-after-being-expos.md) _Context: Poisoning of Sergei and Yulia Skripal_
-2. [The U.S. president, Donald Trump, orders the closure of a Russian consulate in Seattle, Washington, and the expulsion of 60 Russian officials. ](/news/2018/03/26/the-u-s-president-donald-trump-orders-the-closure-of-a-russian-consulate-in-seattle-washington-and-the-expulsion-of-60-russian-official.md) _Context: Poisoning of Sergei and Yulia Skripal_
-3. [Donald Tusk announces EU nations have asked 30 Russian diplomats to leave. Germany, France, Poland and Ukraine are among the nations to expel diplomats. ](/news/2018/03/26/donald-tusk-announces-eu-nations-have-asked-30-russian-diplomats-to-leave-germany-france-poland-and-ukraine-are-among-the-nations-to-expe.md) _Context: Poisoning of Sergei and Yulia Skripal_
-4. [EU diplomatic chief Federica Mogherini holds crisis talks with Markus Ederer, the bloc's recalled ambassador to Russia. ](/news/2018/03/25/eu-diplomatic-chief-federica-mogherini-holds-crisis-talks-with-markus-ederer-the-bloc-s-recalled-ambassador-to-russia.md) _Context: Poisoning of Sergei and Yulia Skripal_
-5. [A friend of poisoned exiled Russian spy Sergei Skripal claims Skripal had written to Vladimir Putin asking to return to Russia. Russia denies receiving such a letter. ](/news/2018/03/24/a-friend-of-poisoned-exiled-russian-spy-sergei-skripal-claims-skripal-had-written-to-vladimir-putin-asking-to-return-to-russia-russia-denie.md) _Context: Poisoning of Sergei and Yulia Skripal_
+1. [Former Secret Intelligence Service (MI6) spy Sergei Skripal and his daughter are taken to a hospital in critical condition after being exposed to an unknown substance in Wiltshire, United Kingdom. Skripal was granted refugee status in the UK following a "spy swap" deal between the UK and Russia in 2010. ](/news/2018/03/5/former-secret-intelligence-service-mi6-spy-sergei-skripal-and-his-daughter-are-taken-to-a-hospital-in-critical-condition-after-being-expos.md) _Context: Poisoning of Sergei and Yulia Skripal, United Kingdom_
+2. [The European Union agrees with the United Kingdom's assessment of the incident, stating that "there is no plausible alternative explanation" to Russian involvement. ](/news/2018/03/23/the-european-union-agrees-with-the-united-kingdom-s-assessment-of-the-incident-stating-that-there-is-no-plausible-alternative-explanation.md) _Context: Poisoning of Sergei and Yulia Skripal, United Kingdom_
+3. [Russia holds a briefing on the case for all foreign diplomats in Moscow, where it accuses the United Kingdom of withholding evidence. ](/news/2018/03/21/russia-holds-a-briefing-on-the-case-for-all-foreign-diplomats-in-moscow-where-it-accuses-the-united-kingdom-of-withholding-evidence.md) _Context: Poisoning of Sergei and Yulia Skripal, United Kingdom_
+4. [The United Kingdom expels 23 Russian diplomats and cuts off all top-level ties with Russia as punishment for a reported attack with the Novichok military-grade nerve agent, an attack which Prime Minister Theresa May described as an "unlawful use of force by the Russian state against the United Kingdom". ](/news/2018/03/14/the-united-kingdom-expels-23-russian-diplomats-and-cuts-off-all-top-level-ties-with-russia-as-punishment-for-a-reported-attack-with-the-novi.md) _Context: Poisoning of Sergei and Yulia Skripal, United Kingdom_
+5. [The United States Food and Drug Administration (FDA) lifts the 32-year-old, lifetime ban on blood donations from gay and bisexual men. Men can donate if they haven't had sex with another man in the previous year. The FDA stance is in line with other countries, such as Australia, Brazil, Canada, New Zealand, and the U.K., and is consistent with rules on recent blood transfusion or accidental exposure to another individual's blood. ](/news/2015/12/21/the-united-states-food-and-drug-administration-fda-lifts-the-32-year-old-lifetime-ban-on-blood-donations-from-gay-and-bisexual-men-men-c.md) _Context: Canada, United Kingdom_

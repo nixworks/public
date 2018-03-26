@@ -13,7 +13,7 @@ _Context: Antigua and Barbuda, Antigua and Barbuda Labour Party, Antiguan genera
 
 ##### Presidency of Donald Trump
 ### [U.S. President Donald Trump announces former United States Ambassador to the United Nations John R. Bolton will become his National Security Advisor, succeeeding the outgoing H. R. McMaster. ](/news/2018/03/22/u-s-president-donald-trump-announces-former-united-states-ambassador-to-the-united-nations-john-r-bolton-will-become-his-national-security.md)
-_Context: Donald Trump, H. R. McMaster, John R. Bolton, National Security Advisor, Presidency of Donald Trump, President, United States Ambassador to the United Nations_
+_Context: H. R. McMaster, John R. Bolton, National Security Advisor, Presidency of Donald Trump, President, Trump, United States Ambassador to the United Nations_
 
 ##### Resignation of Pedro Pablo Kuczynski
 ### [A Peruvian court confirms it will consider a request to impose a travel ban on President Pedro Pablo Kuczynski if his resignation is confirmed by lawmakers, who are considering whether to accept it. Some politicians have vowed to resist the resignation in favour of instead impeaching Kuczynski. ](/news/2018/03/22/a-peruvian-court-confirms-it-will-consider-a-request-to-impose-a-travel-ban-on-president-pedro-pablo-kuczynski-if-his-resignation-is-confirm.md)
@@ -37,7 +37,7 @@ President Erdoğan says he will not let natural reserves be exploited by Greek C
 
 ##### Protests against Emmanuel Macron
 ### [People in 150 places across France take to the streets peacefully in a general strike to protest President Macron's economic reforms. Railways, airways, schools and power generation are affected. ](/news/2018/03/22/people-in-150-places-across-france-take-to-the-streets-peacefully-in-a-general-strike-to-protest-president-macron-s-economic-reforms-railwa.md)
-_Context: France, President Macron's economic reforms, Protests against Emmanuel Macron, general strike_
+_Context: French, President Macron's economic reforms, Protests against Emmanuel Macron, general strike_
 
 ##### Crime in Georgia (U.S. state)
 ### [The city government of Atlanta, Georgia, United States, experiences an outage on some official websites, caused by a ransomware cyberattack. ](/news/2018/03/22/the-city-government-of-atlanta-georgia-united-states-experiences-an-outage-on-some-official-websites-caused-by-a-ransomware-cyberattack.md)
