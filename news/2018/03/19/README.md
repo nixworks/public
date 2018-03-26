@@ -5,7 +5,7 @@ Formats: [HTML](2018/03/19/index.html)  [JSON](2018/03/19/index.json)  [XML](201
 
 ##### Federal drug policy of the United States
 ### [U.S. President Donald Trump unveils his plan to combat the United States's opioid epidemic which includes harsher penalties for drug traffickers, including the death penalty. ](/news/2018/03/19/u-s-president-donald-trump-unveils-his-plan-to-combat-the-united-states-s-opioid-epidemic-which-includes-harsher-penalties-for-drug-traffic.md)
-_Context: Donald Trump, Federal drug policy of the United States, U.S. President, death penalty, drug traffickers, opioid epidemic_
+_Context: Donald Trump, Federal drug policy of the United States, President, death penalty, drug traffickers, opioid epidemic_
 
 ##### Crime in Turkey
 ### [Turkish police discover 1.4 kg of radioactive-labelled material in a car in Ankara. Initially claimed to be californium by the smugglers, the material is later identified as a type of polystyrene sulfonate. ](/news/2018/03/19/turkish-police-discover-1-4-kg-of-radioactive-labelled-material-in-a-car-in-ankara-initially-claimed-to-be-californium-by-the-smugglers-th.md)
