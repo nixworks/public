@@ -40,7 +40,7 @@ _Context: EU, Federica Mogherini, Poisoning of Sergei and Yulia Skripal, Russia,
 The U.S. and South Korea reached an agreement on revising the allies’s six-year-old bilateral trade deal and President Donald Trump’s plan to impose tariffs on imported steel, Treasury Secretary Steven Mnuchin said.
 
 ##### Kitonga
-### [A bus and a lorry collide head-on near Kitonga, Tanzania, killing twenty six people and wounding nine others. ](/news/2018/03/25/a-bus-and-a-lorry-collide-head-on-near-kitonga-tanzania-killing-twenty-six-people-and-wounding-nine-others.md)
+### [A bus and a lorry collide head-on near Kitonga, Tanzania, killing 26 people and wounding nine others. ](/news/2018/03/25/a-bus-and-a-lorry-collide-head-on-near-kitonga-tanzania-killing-26-people-and-wounding-nine-others.md)
 Most were either standing or sitting on the front seats of the passenger vehicle.
 
 ##### South Korean ferry disasters
