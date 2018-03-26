@@ -12,7 +12,7 @@ Trump said he had decided to sign the bill despite his reservations, arguing tha
 ### Sources:
 
 1. [Federal News Radio](https://federalnewsradio.com/workforce/2018/03/last-months-spending-cap-deal-brings-more-certainty-to-march-23-shutdown-showdown/)
-2. [Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2018/03/23/trump-threatens-to-veto-omnibus-bill-because-it-does-not-address-daca-recipients/?utm_term=.9f44d22630b5)
+2. [The Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2018/03/23/trump-threatens-to-veto-omnibus-bill-because-it-does-not-address-daca-recipients/?utm_term=.9f44d22630b5)
 
 ### Related:
 

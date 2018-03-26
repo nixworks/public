@@ -17,7 +17,8 @@ Most were either standing or sitting on the front seats of the passenger vehicle
 ### Changes:
 
 1. [A bus and a lorry collide head-on near Kitonga, Tanzania. The crash kills 26 and wounds 9. ](/news/2018/03/25/a-bus-and-a-lorry-collide-head-on-near-kitonga-tanzania-the-crash-kills-26-and-wounds-9.md) _2018-03-26 04:04:01 (First version)_
-1. [A bus and a lorry collide head-on near Kitonga, Tanzania, killing twenty six people and wounding nine others. ](/news/2018/03/25/a-bus-and-a-lorry-collide-head-on-near-kitonga-tanzania-killing-twenty-six-people-and-wounding-nine-others.md) _(Current version)_
+2. [A bus and a lorry collide head-on near Kitonga, Tanzania, killing 26 people and wounding nine others. ](/news/2018/03/25/a-bus-and-a-lorry-collide-head-on-near-kitonga-tanzania-killing-26-people-and-wounding-nine-others.md) _2018-03-26 22:30:14 (Update)_
+2. [A bus and a lorry collide head-on near Kitonga, Tanzania, killing twenty six people and wounding nine others. ](/news/2018/03/25/a-bus-and-a-lorry-collide-head-on-near-kitonga-tanzania-killing-twenty-six-people-and-wounding-nine-others.md) _(Current version)_
 
 ### Related:
 

@@ -40,15 +40,15 @@ _Context: EU, Federica Mogherini, Poisoning of Sergei and Yulia Skripal, Russia,
 The U.S. and South Korea reached an agreement on revising the allies’s six-year-old bilateral trade deal and President Donald Trump’s plan to impose tariffs on imported steel, Treasury Secretary Steven Mnuchin said.
 
 ##### Kitonga
-### [A bus and a lorry collide head-on near Kitonga, Tanzania, killing 26 people and wounding nine others. ](/news/2018/03/25/a-bus-and-a-lorry-collide-head-on-near-kitonga-tanzania-killing-26-people-and-wounding-nine-others.md)
+### [A bus and a lorry collide head-on near Kitonga, Tanzania, killing twenty six people and wounding nine others. ](/news/2018/03/25/a-bus-and-a-lorry-collide-head-on-near-kitonga-tanzania-killing-twenty-six-people-and-wounding-nine-others.md)
 Most were either standing or sitting on the front seats of the passenger vehicle.
 
 ##### South Korean ferry disasters
-### [A passenger ferry grounds off the coast of South Korea, injuring at least six people. The South Korean Coastguard evacuates all 163 on board. ](/news/2018/03/25/a-passenger-ferry-grounds-off-the-coast-of-south-korea-injuring-at-least-six-people-the-south-korean-coastguard-evacuates-all-163-on-board.md)
+### [A passenger ferry grounds off the coast of South Korea, injuring at least six people with The South Korean Coastguard evacuating all 163 on board. ](/news/2018/03/25/a-passenger-ferry-grounds-off-the-coast-of-south-korea-injuring-at-least-six-people-with-the-south-korean-coastguard-evacuating-all-163-on.md)
 MOKPO, South Korea: South Korea&#039;s coast guard said it rescued all 163 people aboard a ferry that hit a large rock in waters off the country&#039;s southwestern coast on Sunday (Mar 24), according to an Associate Press report. At least six people suffered mild injuries from the accident, which h...
 
 ##### 2018 Kemerovo fire
-### [A fire in the Winter Cherry complex, a shopping centre in Kemerovo, Russia, kills at least 64 people, the majority of which are children. ](/news/2018/03/25/a-fire-in-the-winter-cherry-complex-a-shopping-centre-in-kemerovo-russia-kills-at-least-64-people-the-majority-of-which-are-children.md)
+### [A fire in the Winter Cherry complex, a shopping center in Kemerovo, Russia, kills at least 64 people, the majority of which are children. ](/news/2018/03/25/a-fire-in-the-winter-cherry-complex-a-shopping-center-in-kemerovo-russia-kills-at-least-64-people-the-majority-of-which-are-children.md)
 Video on social media shows panic as rescue teams evacuate the building in southern Russia.
 
 ##### Yemeni Crisis (2011-present)

@@ -55,6 +55,10 @@ _Context: Great Mills High School, Maryland, School shootings in the United Stat
 ### [Former President of South Korea Lee Myung-bak is detained on charges of taking bribes when he was in office. ](/news/2018/03/23/former-president-of-south-korea-lee-myung-bak-is-detained-on-charges-of-taking-bribes-when-he-was-in-office.md)
 _Context: Crime in South Korea, Former President, Lee Myung-bak, South Korea_
 
+##### 2018 North Korea-United States summit
+### [New US National Security Advisor John R. Bolton says that President Donald Trump should insist on Libya-styled denuclearization for North Korea. ](/news/2018/03/23/new-us-national-security-advisor-john-r-bolton-says-that-president-donald-trump-should-insist-on-libya-styled-denuclearization-for-north-ko.md)
+_Context: 2018 North Korea-United States summit, John R. Bolton, Libya, North Korea, Trump, US National Security Advisor_
+
 ##### Cyprus dispute
 ### [Turkey calls a statement of European Union support for Greek Cypriots in a dispute over offshore resources "unacceptable". Turkey has been using its Navy to prevent exploration by Cypriot vessels. ](/news/2018/03/23/turkey-calls-a-statement-of-european-union-support-for-greek-cypriots-in-a-dispute-over-offshore-resources-unacceptable-turkey-has-been-u.md)
 Ankara slams European Council for backing Athens and Nicosia over Turkish arrest of Greek troops and Cyprus gas dispute.
@@ -70,10 +74,6 @@ At a summit in Brussels, EU leaders said &quot;there is no plausible alternative
 ##### Poland in the European Union
 ### [Polish Foreign Minister Jacek Czaputowicz asks the European Commission to halt its use of Article 7 of the Treaty on European Union against the nation in exchange for modifications to controversial proposed judicial reforms. ](/news/2018/03/23/polish-foreign-minister-jacek-czaputowicz-asks-the-european-commission-to-halt-its-use-of-article-7-of-the-treaty-on-european-union-against.md)
 Poland wants Brussels to withdraw its Article 7 procedure against Warsaw, the Polish foreign minister has said after his country moved to modify disputed legal changes that have triggered a row with the EU.
-
-##### 2018 North Korea-United States summit
-### [ New National Security Advisor John R. Bolton says that Donald Trump should insist on Libya-styled denuclearization for North Korea. ](/news/2018/03/23/new-national-security-advisor-john-r-bolton-says-that-donald-trump-should-insist-on-libya-styled-denuclearization-for-north-korea.md)
-_Context: 2018 North Korea-United States summit, John R. Bolton, Libya, North Korea, Trump_
 
 ##### 2018 disasters in Vietnam
 ### [A fire at a condominium complex in Ho Chi Minh City, Vietnam, kills at least 13 people and injures another 27, with most people dying of suffocation or jumping from high floors. ](/news/2018/03/23/a-fire-at-a-condominium-complex-in-ho-chi-minh-city-vietnam-kills-at-least-13-people-and-injures-another-27-with-most-people-dying-of-suf.md)

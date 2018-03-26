@@ -3,8 +3,8 @@ Formats: [HTML](/news/2018/03/26/french-police-detain-two-men-in-connection-with
 
 ### [2018-03-26](/news/2018/03/26/index.md)
 
-##### Holocaust survivor
-# French police detain two men in connection with the murder of an 85-year Holocaust survivor who was found in the burned remains of her apartment, The prosecutor's office is investigating if the killing was "motivated by the real or supposed adherence to a religion". 
+##### French
+# French police detain two men in connection with the murder of an 85-year Holocaust survivor who was found in the burned remains of her apartment. The prosecutor's office is investigating if the killing was "motivated by the real or supposed adherence to a religion". 
 
 French police are investigating whether the death of an elderly Jewish woman stabbed and burnt to death in her Paris apartment last week was an anti-Semitic murder, a judicial source said on Monday.
 
@@ -17,7 +17,7 @@ French police are investigating whether the death of an elderly Jewish woman sta
 ### Changes:
 
 1. [ French police charge two men in connection with the anti-Semitic murder of an 85-year Holocaust survivor who had managed to evade the notorious Vel' d'Hiv Roundup of over 13,000 Jews in Paris during the Second World War. ](/news/2018/03/26/french-police-charge-two-men-in-connection-with-the-anti-semitic-murder-of-an-85-year-holocaust-survivor-who-had-managed-to-evade-the-notor.md) _2018-03-26 21:30:14 (First version)_
-1. [French police detain two men in connection with the murder of an 85-year Holocaust survivor who was found in the burned remains of her apartment, The prosecutor's office is investigating if the killing was "motivated by the real or supposed adherence to a religion". ](/news/2018/03/26/french-police-detain-two-men-in-connection-with-the-murder-of-an-85-year-holocaust-survivor-who-was-found-in-the-burned-remains-of-her-apart.md) _(Current version)_
+1. [French police detain two men in connection with the murder of an 85-year Holocaust survivor who was found in the burned remains of her apartment. The prosecutor's office is investigating if the killing was "motivated by the real or supposed adherence to a religion". ](/news/2018/03/26/french-police-detain-two-men-in-connection-with-the-murder-of-an-85-year-holocaust-survivor-who-was-found-in-the-burned-remains-of-her-apart.md) _(Current version)_
 
 ### Related:
 

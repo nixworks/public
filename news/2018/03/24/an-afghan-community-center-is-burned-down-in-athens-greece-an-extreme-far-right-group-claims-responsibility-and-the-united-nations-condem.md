@@ -15,7 +15,7 @@ A little-known extreme right-wing group has claimed responsibility for an arson 
 
 ### Changes:
 
-1. [An Afghan community centre is burned down in Athens, Greece. An extreme far-right group claims responsibility, and the United Nations condemns the attack. ](/news/2018/03/24/an-afghan-community-centre-is-burned-down-in-athens-greece-an-extreme-far-right-group-claims-responsibility-and-the-united-nations-condem.md) _2018-03-26 09:30:12 (First version)_
+1. [An Afghan community centre is burned down in Athens, Greece. An extreme far-right group claims responsibility, and the United Nations condemns the attack. ](/news/2018/03/24/an-afghan-community-centre-is-burned-down-in-athens-greece-an-extreme-far-right-group-claims-responsibility-and-the-united-nations-condem.md) _2018-03-26 22:30:12 (First version)_
 1. [An Afghan community center is burned down in Athens, Greece. An extreme far-right group claims responsibility, and the United Nations condemns the attack. ](/news/2018/03/24/an-afghan-community-center-is-burned-down-in-athens-greece-an-extreme-far-right-group-claims-responsibility-and-the-united-nations-condem.md) _(Current version)_
 
 ### Related:
