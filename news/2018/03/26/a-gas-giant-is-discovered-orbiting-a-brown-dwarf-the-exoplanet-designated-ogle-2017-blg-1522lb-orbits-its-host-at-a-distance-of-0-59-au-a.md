@@ -6,12 +6,13 @@ Formats: [HTML](/news/2018/03/26/a-gas-giant-is-discovered-orbiting-a-brown-dwar
 ##### Discoveries of exoplanets
 # A gas giant is discovered orbiting a brown dwarf. The exoplanet, designated OGLE-2017-BLG-1522Lb, orbits its host at a distance of 0.59 AU and could be the first known gas giant to have formed inside the protoplanetary disk of a brown dwarf. 
 
-
+Using microlensing technique, astronomers have found a new giant planet orbiting a brown dwarf located in the bulge of the Milky Way galaxy. The newly discovered exoplanet, designated OGLE-2017-BLG-1522Lb, is most likely 25 percent less massive than Jupiter. The finding is reported March 14 in a paper published on arXiv.org.
 
 
 ### Sources:
 
-1. [Phys](https://m.phys.org/news/2018-03-astronomers-giant-planet-orbiting-brown.html)
+1. [Phys.org](https://phys.org/news/2018-03-astronomers-giant-planet-orbiting-brown.html)
+1. [Cover Image](https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/2018/9-astronomersd.jpg)
 
 ### Related:
 

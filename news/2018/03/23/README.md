@@ -7,6 +7,10 @@ Formats: [HTML](2018/03/23/index.html)  [JSON](2018/03/23/index.json)  [XML](201
 ### [More than 140 pilot whales die in Hamelin Bay, Australia, after beaching themselves. ](/news/2018/03/23/more-than-140-pilot-whales-die-in-hamelin-bay-australia-after-beaching-themselves.md)
 Rescuers manage to return just six surviving pilot whales to deeper waters in Western Australia.
 
+##### United States federal government shutdown of 2018
+### [The United States government avoids another government shutdown when President Trump signs the 1.3 Trillion dollar omnibus spending bill into law. This bill ensures no more shutdown threats until October 1, 2018. ](/news/2018/03/23/the-united-states-government-avoids-another-government-shutdown-when-president-trump-signs-the-1-3-trillion-dollar-omnibus-spending-bill-int.md)
+Trump said he had decided to sign the bill despite his reservations, arguing that it provides much-needed funding for the military.
+
 ##### Politics of the United Kingdom
 ### [Labour Party leader Jeremy Corbyn sacks Shadow Secretary of State for Northern Ireland Owen Smith after he called for a second referendum on European Union membership. He is replaced by Rochdale MP Tony Lloyd. ](/news/2018/03/23/labour-party-leader-jeremy-corbyn-sacks-shadow-secretary-of-state-for-northern-ireland-owen-smith-after-he-called-for-a-second-referendum-on.md)
 Smith went against party policy by calling for a referendum over the final Brexit deal

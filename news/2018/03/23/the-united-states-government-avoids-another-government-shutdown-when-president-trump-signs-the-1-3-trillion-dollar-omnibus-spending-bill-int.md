@@ -4,10 +4,15 @@ Formats: [HTML](/news/2018/03/23/the-united-states-government-avoids-another-gov
 ### [2018-03-23](/news/2018/03/23/index.md)
 
 ##### United States federal government shutdown of 2018
-# The United States government avoids another government shutdown when President Trump signs the 1.3 Trillion dollar omnibus spending bill into law. This bill ensures no more shutdown threats until October 1, 2018. [https:--federalnewsradio.com-workforce-2018-03-last-months-spending-cap-deal-brings-more-certainty-to-march-23-shutdown-showdown- (Federal News Radio)] [https:--www.washingtonpost.com-news-post-politics-wp-2018-03-23-trump-threatens-to-veto-omnibus-bill-because-it-does-not-address-daca-recipients-?utm_term=.9f44d22630b5 
+# The United States government avoids another government shutdown when President Trump signs the 1.3 Trillion dollar omnibus spending bill into law. This bill ensures no more shutdown threats until October 1, 2018. 
+
+Trump said he had decided to sign the bill despite his reservations, arguing that it provides much-needed funding for the military.
 
 
+### Sources:
 
+1. [Federal News Radio](https://federalnewsradio.com/workforce/2018/03/last-months-spending-cap-deal-brings-more-certainty-to-march-23-shutdown-showdown/)
+2. [Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2018/03/23/trump-threatens-to-veto-omnibus-bill-because-it-does-not-address-daca-recipients/?utm_term=.9f44d22630b5)
 
 ### Related:
 

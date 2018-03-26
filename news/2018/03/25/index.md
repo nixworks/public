@@ -16,7 +16,7 @@ The first direct flight from Australia to the UK has landed at Heathrow airport 
 _Context: ASASSN-18fv, Carina, Novae in the Milky Way galaxy, nova_
 
 ##### Carcassonne and Trebes attack
-### [A left wing former French Parliamentarian candidate is arrested for tweeting that the death of Lt-Col Arnaud Beltrame was "great" and "one less vote for Emmanuel Macron." ](/news/2018/03/25/a-left-wing-former-french-parliamentarian-candidate-is-arrested-for-tweeting-that-the-death-of-lt-col-arnaud-beltrame-was-great-and-one-l.md)
+### [A former French Parliamentarian candidate of the La France Insoumise party is arrested for tweeting that the death of Lt-Col Arnaud Beltrame was "great" and "one less vote for Emmanuel Macron." ](/news/2018/03/25/a-former-french-parliamentarian-candidate-of-the-la-france-insoumise-party-is-arrested-for-tweeting-that-the-death-of-lt-col-arnaud-beltrame.md)
 The French left-winger is accused of celebrating the killing of Arnaud Beltrame in a terrorist attack.
 
 ##### 2017-18 Spanish constitutional crisis

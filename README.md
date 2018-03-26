@@ -5,14 +5,10 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ##### Discoveries of exoplanets
 ### [A gas giant is discovered orbiting a brown dwarf. The exoplanet, designated OGLE-2017-BLG-1522Lb, orbits its host at a distance of 0.59 AU and could be the first known gas giant to have formed inside the protoplanetary disk of a brown dwarf. ](/news/2018/03/26/a-gas-giant-is-discovered-orbiting-a-brown-dwarf-the-exoplanet-designated-ogle-2017-blg-1522lb-orbits-its-host-at-a-distance-of-0-59-au-a.md)
-_Context: AU, Discoveries of exoplanets, brown dwarf, exoplanet, gas giant, protoplanetary disk_
+Using microlensing technique, astronomers have found a new giant planet orbiting a brown dwarf located in the bulge of the Milky Way galaxy. The newly discovered exoplanet, designated OGLE-2017-BLG-1522Lb, is most likely 25 percent less massive than Jupiter. The finding is reported March 14 in a pap...
 
-##### Economy of the United States
-### [American manufacturer of firearms and ammunition Remington Arms files for chapter 11 bankruptcy protection after amassing $950 million worth of debt. ](/news/2018/03/26/american-manufacturer-of-firearms-and-ammunition-remington-arms-files-for-chapter-11-bankruptcy-protection-after-amassing-950-million-worth.md)
-Remington Outdoor Co., the 200-year-old maker of rifles, handguns and bullets controlled by Cerberus Capital Management, filed for bankruptcy, after the election of a “true friend” to the White House ironically wound up stifling sales.
-
-##### Egypt
-### [Egyptians go to the polls in a Presidential election. ](/news/2018/03/26/egyptians-go-to-the-polls-in-a-presidential-election.md)
+##### Egyptian presidential election, 2018
+### [Egyptians go to the polls in their presidential election. ](/news/2018/03/26/egyptians-go-to-the-polls-in-their-presidential-election.md)
 Egyptians began voting Monday in an election that virtually guaranteed another term for President Abdel-Fattah el-Sissi, who faced only a token opponent in balloting that resembled the referendums held by autocrats for decades before the Arab Spring briefly raised hopes of democratic change.
 
 ##### Poisoning of Sergei and Yulia Skripal
@@ -26,6 +22,10 @@ Shaheen has been undergoing treatment at the hospital for the past nine days.
 ##### 2018 Kemerovo fire
 ### [Witnesses and Russia's Investigative Committee say the Winter Cherry complex's exits were blocked and there were no alarms during the disaster, which killed more than 60. ](/news/2018/03/26/witnesses-and-russia-s-investigative-committee-say-the-winter-cherry-complex-s-exits-were-blocked-and-there-were-no-alarms-during-the-disast.md)
 Many of the 64 people killed in the leisure complex fire in Siberia were children.
+
+##### Economy of the United States
+### [U.S. firearms and ammunition manufacturer Remington Arms files for chapter 11 bankruptcy protection after amassing US$950 million worth of debt. ](/news/2018/03/26/u-s-firearms-and-ammunition-manufacturer-remington-arms-files-for-chapter-11-bankruptcy-protection-after-amassing-us-950-million-worth-of-d.md)
+Remington Outdoor Co., the 200-year-old maker of rifles, handguns and bullets controlled by Cerberus Capital Management, filed for bankruptcy, after the election of a “true friend” to the White House ironically wound up stifling sales.
 
 ##### Afrin
 ### [A mass grave containing the remains of 59 people is found in Kucuk Meydan, Afrin, Syria. ](/news/2018/03/26/a-mass-grave-containing-the-remains-of-59-people-is-found-in-kucuk-meydan-afrin-syria.md)
@@ -52,7 +52,7 @@ The first direct flight from Australia to the UK has landed at Heathrow airport 
 _Context: ASASSN-18fv, Carina, Novae in the Milky Way galaxy, nova_
 
 ##### Carcassonne and Trebes attack
-### [A left wing former French Parliamentarian candidate is arrested for tweeting that the death of Lt-Col Arnaud Beltrame was "great" and "one less vote for Emmanuel Macron." ](/news/2018/03/25/a-left-wing-former-french-parliamentarian-candidate-is-arrested-for-tweeting-that-the-death-of-lt-col-arnaud-beltrame-was-great-and-one-l.md)
+### [A former French Parliamentarian candidate of the La France Insoumise party is arrested for tweeting that the death of Lt-Col Arnaud Beltrame was "great" and "one less vote for Emmanuel Macron." ](/news/2018/03/25/a-former-french-parliamentarian-candidate-of-the-la-france-insoumise-party-is-arrested-for-tweeting-that-the-death-of-lt-col-arnaud-beltrame.md)
 The French left-winger is accused of celebrating the killing of Arnaud Beltrame in a terrorist attack.
 
 ##### 2017-18 Spanish constitutional crisis
