@@ -9,7 +9,7 @@ The near-Earth asteroid 2000 EM26 is set to fly past Earth on Monday (Feb. 17), 
 
 ##### First Minister
 ### [Scottish First Minister Alex Salmond says that blocking a post-independence Scotland from a currency union could damage businesses in the rest of the United Kingdom. ](/news/2014/02/17/scottish-first-minister-alex-salmond-says-that-blocking-a-post-independence-scotland-from-a-currency-union-could-damage-businesses-in-the-re.md)
-_Context: Alex Salmond, First Minister, Scottish, Scottish independence, United Kingdom_
+_Context: Alex Salmond, First Minister, Scotland, Scottish independence, United Kingdom_
 
 ##### Mayor of Florence
 ### [Mayor of Florence, Matteo Renzi, is given a mandate by Italian President Giorgio Napolitano to form a new government as Italy's prime minister-designate. ](/news/2014/02/17/mayor-of-florence-matteo-renzi-is-given-a-mandate-by-italian-president-giorgio-napolitano-to-form-a-new-government-as-italyas-prime-mini.md)

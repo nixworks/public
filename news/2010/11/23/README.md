@@ -27,9 +27,9 @@ India forms two new army divisions - comprising more than 36,000 men - to defend
 ### [The Gambia severs diplomatic and economic relations with Iran and orders Iranian government representatives to leave within 48 hours. The Gambia has given no reason for the move. ](/news/2010/11/23/the-gambia-severs-diplomatic-and-economic-relations-with-iran-and-orders-iranian-government-representatives-to-leave-within-48-hours-the-ga.md)
 The Gambia orders all Iranian government representatives to leave within 48 hours, giving no reason for breaking diplomatic ties.
 
-##### Saudi
+##### Saudi Arabia
 ### [A Saudi woman accused of torturing her Indonesian maid is sent to jail while the maid is hospitalised, in a case that has caused tensions between the two countries. ](/news/2010/11/23/a-saudi-woman-accused-of-torturing-her-indonesian-maid-is-sent-to-jail-while-the-maid-is-hospitalised-in-a-case-that-has-caused-tensions-be.md)
-_Context: Indonesia, Saudi_
+_Context: Indonesia, Saudi Arabia_
 
 ##### Suriname
 ### [At least seven bodies are recovered following a mine collapse in Suriname. ](/news/2010/11/23/at-least-seven-bodies-are-recovered-following-a-mine-collapse-in-suriname.md)
@@ -43,7 +43,7 @@ Families in the Cambodian capital Phnom Penh search morgues and hospitals for re
 ### [A United States federal court jury decides that SAP AG must pay Oracle Corporation $1.3 billion for copyright infringement, the largest ever damages payment for copyright infringement. ](/news/2010/11/23/a-united-states-federal-court-jury-decides-that-sap-ag-must-pay-oracle-corporation-1-3-billion-for-copyright-infringement-the-largest-ever.md)
 Oracle Corp. won a $1.3 billion jury verdict against rival SAP AG, the world’s largest maker of business application software, for copyright infringement by a now-defunct software maintenance unit.
 
-##### Qantas
+##### Qantas Airways
 ### [Qantas announces that its fleet of Airbus A380 superjumbos will start returning to service on Saturday. ](/news/2010/11/23/qantas-announces-that-its-fleet-of-airbus-a380-superjumbos-will-start-returning-to-service-on-saturday.md)
 Shares in Qantas have recovered after the airline said its fleet of A380 superjumbos will start returning to service by the end of this week.
 

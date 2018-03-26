@@ -27,7 +27,7 @@ _Context: Boeing 727, DR Congo, Hewa Bora, crashes_
 ### [Tropical Storm Calvin forms off the Pacific coast of Mexico. ](/news/2011/07/8/tropical-storm-calvin-forms-off-the-pacific-coast-of-mexico.md)
 _Context: Hurricane Jova, Mexico, South Pacific Ocean_
 
-##### France
+##### French
 ### [A court in France announces a delay of an investigation into whether Christine Lagarde abused her authority as Finance Minister of that country. Lagarde is the new Director of the International Monetary Fund. ](/news/2011/07/8/a-court-in-france-announces-a-delay-of-an-investigation-into-whether-christine-lagarde-abused-her-authority-as-finance-minister-of-that-coun.md)
 A possible inquiry into the handling of a 2007 French court case by Christine Lagarde, the new head of the I.M.F., has been set aside for the time being.
 

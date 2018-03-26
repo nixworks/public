@@ -71,9 +71,9 @@ Thousands march through the streets of Johannesburg as outrage and tension over 
 ### [2012 South Sudan-Sudan border conflict: Sudan and South Sudan restart talks to avoid war amid accusations of bombing raids. ](/news/2012/05/29/2012-south-sudanasudan-border-conflict-sudan-and-south-sudan-restart-talks-to-avoid-war-amid-accusations-of-bombing-raids.md)
 _Context: 2012 South Sudan-Sudan border conflict, South Sudan, Sudan_
 
-##### Somali
+##### Somalia
 ### [Rebels attack the convoy of Somali president Sheikh Sharif Ahmed during an overland trip; he escaped unharmed. ](/news/2012/05/29/rebels-attack-the-convoy-of-somali-president-sheikh-sharif-ahmed-during-an-overland-trip-he-escaped-unharmed.md)
-_Context: Sheikh Sharif Ahmed, Somali_
+_Context: Sheikh Sharif Ahmed, Somalia_
 
 ##### Arab world
 ### [Several Arab and Western countries expel Syrian diplomats in response to the Houla massacre. ](/news/2012/05/29/several-arab-and-western-countries-expel-syrian-diplomats-in-response-to-the-houla-massacre.md)

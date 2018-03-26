@@ -59,9 +59,9 @@ _Context: Commonwealth of Independent States, Turkey, Yandex, search engine_
 ### [The International Monetary Fund warns of a possible global double-dip recession in the coming years. ](/news/2011/09/20/the-international-monetary-fund-warns-of-a-possible-global-double-dip-recession-in-the-coming-years.md)
 _Context: International Monetary Fund, double-dip recession_
 
-##### Qantas
+##### Qantas Airways
 ### [Qantas flights throughout Australia are disrupted by a four-hour strike by airport ground staff and baggage handlers. ](/news/2011/09/20/qantas-flights-throughout-australia-are-disrupted-by-a-four-hour-strike-by-airport-ground-staff-and-baggage-handlers.md)
-_Context: Australia, Qantas_
+_Context: Australia, Qantas Airways_
 
 ##### Gears of War 3
 ### ["Gears of War 3", the final game in the acclaimed "Gears of War" video game franchise, goes on sale, with 20,000 game stores around the world opening at midnight for its release. ](/news/2011/09/20/gears-of-war-3-the-final-game-in-the-acclaimed-gears-of-war-video-game-franchise-goes-on-sale-with-20-000-game-stores-around-the-worl.md)

@@ -11,7 +11,7 @@ The current four-hour trip between the major economic hubs of Zurich and Milan w
 ### [ Richard Huckle, dubbed "Britain's worst ever paedophile" after being convicted of 71 cases of rape and other sexual offences against up to 200 children, is being sentenced at The Old Bailey in London in a hearing expected to last 3 days. Huckle is facing up to 22 life sentences once the hearing concludes.](/news/2016/06/1/richard-huckle-dubbed-britain-s-worst-ever-paedophile-after-being-convicted-of-71-cases-of-rape-and-other-sexual-offences-against-up-to.md)
 Richard Huckle admitted 71 charges - but investigators believe he abused up to 200 victims in poor Christian communities.
 
-##### German
+##### Germany
 ### [ German police are investigating 26 sexual assault reports from this weekend's Schlossgrabenfest music festival near Darmstadt. In one case, three women reported being groped by groups of men Saturday. Police have detained three Pakistani immigrants, and expect more reports following this announcement. ](/news/2016/06/1/german-police-are-investigating-26-sexual-assault-reports-from-this-weekend-s-schlossgrabenfest-music-festival-near-darmstadt-in-one-case.md)
 Darmstadt, Germany, police are seeking suspects after 26 women filed sexual assault reports saying they were groped at a weekend music festival.
 
@@ -41,7 +41,7 @@ _Context: Jens Stoltenberg, Secretary General of NATO, membership_
 
 ##### Turkey
 ### [Turkish President Recep Tayyip Erdogan warns Germany against recognizing the Armenian Genocide. ](/news/2016/06/1/turkish-president-recep-tayyip-erdoaan-warns-germany-against-recognizing-the-armenian-genocide.md)
-_Context: German, Recep Tayyip Erdogan, Turkey, Turkish President, genocide of Armenians, recognizing_
+_Context: Germany, Recep Tayyip Erdogan, Turkey, Turkish President, genocide of Armenians, recognizing_
 
 ##### United States Geological Survey
 ### [The U.S. Geological Survey reports a 6.5 magnitude earthquake 155 km (95 miles) from the West Sumatra port city of Padang in Indonesia at a depth of about 50 km (30 miles). There are no immediate reports of damage or injury. ](/news/2016/06/1/the-u-s-geological-survey-reports-a-6-5-magnitude-earthquake-155-km-95-miles-from-the-west-sumatra-port-city-of-padang-in-indonesia-at-a.md)
@@ -63,7 +63,7 @@ The retrieval of the plane’s data recorders would shed light on why it crashed
 ### [A gas explosion at a subway construction site near the South Korean capital Seoul kills four workers and injures ten more. ](/news/2016/06/1/a-gas-explosion-at-a-subway-construction-site-near-the-south-korean-capital-seoul-kills-four-workers-and-injures-ten-more.md)
  Four workers were killed and 10 others were injured Wednesday, when a subway construction site near Seoul collapsed due to what is believed to be a gas explosion, police said. The accident, which occurred in the city of Namyangju, east of Seoul, around 7:30 a.m., took place when a total of 17 worke...
 
-##### Saudi
+##### Saudi Arabia
 ### [The Saudi Arabian Public Investment Fund raises $3.5 billion for Uber. It is the largest single investment the company has ever received. ](/news/2016/06/1/the-saudi-arabian-public-investment-fund-raises-3-5-billion-for-uber-it-is-the-largest-single-investment-the-company-has-ever-received.md)
 The ride-hailing company said the investment by Saudi Arabia’s Public Investment Fund was part of the most recent financing round that valued the company at $62.5 billion.
 

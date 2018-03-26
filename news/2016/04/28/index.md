@@ -49,7 +49,7 @@ _Context: Eastern Ukraine, Ertugrul Apakan, Minsk II, OSCE, War in Donbass_
 
 ##### France-Russia relations
 ### [France's National Assembly votes to adopt a non-binding resolution to lift European Union sanctions against Russia, applied after Russia's annexation of Crimea in 2014. Former President Nicolas Sarkozy's Republicans, as well as center-right and far-left groups voted in favor of lifting the sanctions, while the ruling Socialist Party and The Greens voted against the resolution. ](/news/2016/04/28/france-s-national-assembly-votes-to-adopt-a-non-binding-resolution-to-lift-european-union-sanctions-against-russia-applied-after-russia-s-a.md)
-_Context: Annexation of Crimea by the Russian Federation, European Union, France, France-Russia relations, National Assembly, Nicolas Sarkozy, PS, President of France, Republican, Russia, The Greens, against_
+_Context: Annexation of Crimea by the Russian Federation, EU, France-Russia relations, French, National Assembly, Nicolas Sarkozy, PS, President of France, Republican, Russia, The Greens, against_
 
 ##### North Korea-South Korea relations
 ### [Xi Jinping, the President of the People's Republic of China, assures that China will prevent war breaking out between North Korea and South Korea. ](/news/2016/04/28/xi-jinping-the-president-of-the-people-s-republic-of-china-assures-that-china-will-prevent-war-breaking-out-between-north-korea-and-south.md)

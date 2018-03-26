@@ -37,7 +37,7 @@ _Context: Roj TV_
 
 ##### Iran
 ### [Iran's foreign ministry criticises state media for branding French first lady Carla Bruni as a "prostitute" over her support for Sakineh Mohammadi Ashtiani who faces death by stoning after being convicted of adultery. ](/news/2010/08/31/iran-s-foreign-ministry-criticises-state-media-for-branding-french-first-lady-carla-bruni-as-a-prostitute-over-her-support-for-sakineh-moh.md)
-_Context: Carla Bruni, France, Iran, Sakineh Mohammadi Ashtiani, adultery, stoning_
+_Context: Carla Bruni, French, Iran, Sakineh Mohammadi Ashtiani, adultery, stoning_
 
 ##### Russia
 ### [The Russian embassy in the Belarussian capital Minsk is attacked with firebombs; Russia says the incident is "outrageous". ](/news/2010/08/31/the-russian-embassy-in-the-belarussian-capital-minsk-is-attacked-with-firebombs-russia-says-the-incident-is-outrageous.md)
@@ -73,7 +73,7 @@ _Context: Bangkok, Thailand_
 
 ##### Bomb
 ### [A roadside bomb kills 4 United States troops in eastern Afghanistan. ](/news/2010/08/31/a-roadside-bomb-kills-4-united-states-troops-in-eastern-afghanistan.md)
-_Context: Afghan, United States, United States armed forces, bomb_
+_Context: Afghanistan, United States, United States armed forces, bomb_
 
 ##### Israel
 ### [4 Israelis are shot to death in an attack in the West Bank next to Kiryat Arba. ](/news/2010/08/31/4-israelis-are-shot-to-death-in-an-attack-in-the-west-bank-next-to-kiryat-arba.md)
@@ -83,7 +83,7 @@ Murderous terror attack on eve of peace talks: Four Israelis killed in West Bank
 ### [8 people are killed in a petrol bomb attack at a bar in Cancn, Mexico. ](/news/2010/08/31/8-people-are-killed-in-a-petrol-bomb-attack-at-a-bar-in-cancun-mexico.md)
 Six women and two men have been killed in an attack on a bar in the Mexican resort city of Cancun, officials say.
 
-##### Somali
+##### Somalia
 ### [A roadside bomb and mortar attack in the Somali capital Mogadishu kill at least 14 people and injure several others. ](/news/2010/08/31/a-roadside-bomb-and-mortar-attack-in-the-somali-capital-mogadishu-kill-at-least-14-people-and-injure-several-others.md)
 Roadside bomb blast and mortar attack in capital Mogadishu, kills at least 14 people and injures several more.
 

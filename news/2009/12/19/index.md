@@ -13,7 +13,7 @@ _Context: GJ 1214 b, Ophiuchus, ocean planet_
 
 ##### Sniffer dog
 ### [ Police recruit sniffer dogs and detectives in their hunt for the "Arbeit macht frei" sign missing from Auschwitz as appeals for its return are made by Israel, Poland and the European Union. ](/news/2009/12/19/police-recruit-sniffer-dogs-and-detectives-in-their-hunt-for-the-arbeit-macht-frei-sign-missing-from-auschwitz-as-appeals-for-its-return.md)
-_Context: Arbeit macht frei, Auschwitz, European Union, Israel, Poland, sniffer dog_
+_Context: Arbeit macht frei, Auschwitz, EU, Israel, Poland, sniffer dog_
 
 ##### Channel Tunnel
 ### [ Freezing conditions cause electrical faults in the Channel Tunnel between Great Britain and France, isolating 2,000 passengers in five trains. The situation is coupled with disruptions at London Heathrow Airport and traffic delays due to snowy conditions in the south-east of England. ](/news/2009/12/19/freezing-conditions-cause-electrical-faults-in-the-channel-tunnel-between-great-britain-and-france-isolating-2-000-passengers-in-five-trai.md)

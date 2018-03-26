@@ -7,7 +7,7 @@ Formats: [HTML](2008/06/20/index.html)  [JSON](2008/06/20/index.json)  [XML](200
 ### [ Twelve people are trampled to death trying to escape a police raid in northern Mexico City. ](/news/2008/06/20/twelve-people-are-trampled-to-death-trying-to-escape-a-police-raid-in-northern-mexico-city.md)
 _Context: Mexico City_
 
-##### European Union
+##### EU
 ### [ The European Union agrees to lift the sanctions it has imposed on Cuba since the 2003 Cocktail Wars dispute. ](/news/2008/06/20/the-european-union-agrees-to-lift-the-sanctions-it-has-imposed-on-cuba-since-the-2003-cocktail-wars-dispute.md)
 The EU has agreed to lift sanctions it imposed on Cuba in 2003.
 

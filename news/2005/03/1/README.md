@@ -71,7 +71,7 @@ _Context: Burundi, civil war, constitution, referendum_
 ### [ In Bangladesh, 15 suspected radical leaders of Islamic groups are charged with sedition ](/news/2005/03/1/in-bangladesh-15-suspected-radical-leaders-of-islamic-groups-are-charged-with-sedition.md)
 _Context: Bangladesh, sedition_
 
-##### Afghan
+##### Afghanistan
 ### [ In Afghanistan, president Hamid Karzai appoints Abdul Rashid Dostum as his chief-of-staff. Dostum has been accused of involvement in human rights abuses. ](/news/2005/03/1/in-afghanistan-president-hamid-karzai-appoints-abdul-rashid-dostum-as-his-chief-of-staff-dostum-has-been-accused-of-involvement-in-human.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 

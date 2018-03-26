@@ -23,7 +23,7 @@ _Context: Lava, Mount Mayon, Philippines, ash, eruption, volcano_
 ### [ A large crater, dubbed the "Fried Egg" because of its shape, is discovered off the coast of The Azores in the Atlantic Ocean, prompting speculation that it may have been caused up to 17 million years ago by meteor impact. ](/news/2009/12/18/a-large-crater-dubbed-the-fried-egg-because-of-its-shape-is-discovered-off-the-coast-of-the-azores-in-the-atlantic-ocean-prompting-spe.md)
 _Context: Atlantic Ocean, The Azores, crater, meteor_
 
-##### Twitter
+##### Tweeting
 ### [ Twitter, a popular micro-blogging service, temporarily goes offline after a group calling itself the "Iranian Cyber Army" manages to change its DNS records. ](/news/2009/12/18/twitter-a-popular-micro-blogging-service-temporarily-goes-offline-after-a-group-calling-itself-the-iranian-cyber-army-manages-to-change.md)
 Microblogging site Twitter went offline Friday after hackers calling themselves the Iranian Cyber Army apparently managed to change the site&#039;s DNS records.
 
@@ -63,9 +63,9 @@ _Context: Catholic Church, Emmanuel Milingo, Holy See, Zambia_
 ### [ Russian television news channels air repeated coverage of a UFO, shaped like a pyramid and similar to an Imperial Cruiser from "Star Wars". ](/news/2009/12/18/russian-television-news-channels-air-repeated-coverage-of-a-ufo-shaped-like-a-pyramid-and-similar-to-an-imperial-cruiser-from-star-wars.md)
 A giant pyramid which appears to be a UFO hovering over the Kremlin has caused frenzied speculation in Russia that it is an alien spacecraft.
 
-##### Catalan
+##### Catalonia
 ### [ The Catalan Parliament votes to ban bull fighting in the Spanish region. ](/news/2009/12/18/the-catalan-parliament-votes-to-ban-bull-fighting-in-the-spanish-region.md)
-_Context: Catalan, Catalan Parliament, Spanish, bull fighting_
+_Context: Catalan Parliament, Catalonia, Spanish, bull fighting_
 
 ##### Copenhagen
 ### [ Thirty world leaders present in Copenhagen for the United Nations Conference on Climate Change agree on a draft accord. ](/news/2009/12/18/thirty-world-leaders-present-in-copenhagen-for-the-united-nations-conference-on-climate-change-agree-on-a-draft-accord.md)

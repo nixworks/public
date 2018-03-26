@@ -29,7 +29,7 @@ _Context: Barack Obama, Cuba, U.S. President, political prisoner_
 
 ##### Mogadishu
 ### [500 homes near the airport in Mogadishu are demolished by Somali troops. ](/news/2010/03/25/500-homes-near-the-airport-in-mogadishu-are-demolished-by-somali-troops.md)
-_Context: Mogadishu, Somali_
+_Context: Mogadishu, Somalia_
 
 ##### Hamas
 ### [Hamas decides to execute Palestinians whom they have found guilty of "collaboration" with Israel despite protests by human rights and legal organizations, while criticizing those who have been firing rockets at Israel in the past few days. ](/news/2010/03/25/hamas-decides-to-execute-palestinians-whom-they-have-found-guilty-of-acollaborationa-with-israel-despite-protests-by-human-rights-and-le.md)

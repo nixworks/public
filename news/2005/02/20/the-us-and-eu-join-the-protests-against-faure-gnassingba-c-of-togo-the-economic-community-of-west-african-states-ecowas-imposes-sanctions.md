@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/02/20/the-us-and-eu-join-the-protests-against-faure-g
 
 ### [2005-02-20](/news/2005/02/20/index.md)
 
-##### European Union
+##### EU
 #  The US and EU join the protests against Faure Gnassingbe of Togo. The Economic Community of West African States (ECOWAS) imposes sanctions and suspends Togo's membership in the organization and US does not accept his rule as legitimate and ends all military assistance 
 
 

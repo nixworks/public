@@ -23,7 +23,7 @@ Trump&apos;s press secretary says the administration sees recreational marijuana
 ### [Malaysian police claim that Kim Jong-nam, half brother of North Korean leader Kim Jong-un, was killed by VX nerve agent, a toxin used almost exclusively for chemical warfare. ](/news/2017/02/24/malaysian-police-claim-that-kim-jong-nam-half-brother-of-north-korean-leader-kim-jong-un-was-killed-by-vx-nerve-agent-a-toxin-used-almost.md)
 _Context: Death of Kim Jong-nam, Kim Jong-nam, Kim Jong-un, Malaysian police, North Korea, VX, nerve agent_
 
-##### German
+##### Germany
 ### [A report alleges that the German BND has been spying on journalists in Afghanistan. ](/news/2017/02/24/a-report-alleges-that-the-german-bnd-has-been-spying-on-journalists-in-afghanistan.md)
 German intelligence spied on the BBC and other foreign journalists, Spiegel news reports.
 

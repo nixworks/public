@@ -7,9 +7,9 @@ Formats: [HTML](2016/02/15/index.html)  [JSON](2016/02/15/index.json)  [XML](201
 ### [Officials are counting ballots from Sunday's presidential election. The final results of the run-off are not expected for several weeks. ](/news/2016/02/15/officials-are-counting-ballots-from-sunday-s-presidential-election-the-final-results-of-the-run-off-are-not-expected-for-several-weeks.md)
 SBS World News Radio: Vote-counting in the Central African Republic&#039;s presidential elections has begun.
 
-##### German
+##### Germany
 ### [ Two German intelligence officers are suspected of having given money to Al Qaeda in 2010. ](/news/2016/02/15/two-german-intelligence-officers-are-suspected-of-having-given-money-to-al-qaeda-in-2010.md)
-_Context: Al Qaeda, German, intelligence_
+_Context: Al Qaeda, Germany, intelligence_
 
 ##### Prime Minister
 ### [Former Prime Minister of Israel Ehud Olmert starts a 19-month prison sentence for bribery and obstructing justice. In the last decade, he was found or admitted guilty in four different corruption investigations. ](/news/2016/02/15/former-prime-minister-of-israel-ehud-olmert-starts-a-19-month-prison-sentence-for-bribery-and-obstructing-justice-in-the-last-decade-he-wa.md)

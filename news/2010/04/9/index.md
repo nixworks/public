@@ -17,7 +17,7 @@ _Context: John Paul Stevens, Justice, Supreme Court of the United States_
 
 ##### Air Force
 ### [U.S. helicopter - Air Force CV-22 Osprey - crashes in southern Afghanistan, killing three U.S. service members and one civilian employee. Zabiullah Mujahid says Taliban fighters shot down the chopper. ](/news/2010/04/9/u-s-helicopter-air-force-cv-22-osprey-crashes-in-southern-afghanistan-killing-three-u-s-service-members-and-one-civilian-employee-za.md)
-_Context: Afghan, Air Force, CV-22 Osprey, Taliban, Zabiullah Mujahid_
+_Context: Afghanistan, Air Force, CV-22 Osprey, Taliban, Zabiullah Mujahid_
 
 ##### Metro
 ### [Shanghai Metro Line 2 opens service to Pudong International Airport. ](/news/2010/04/9/shanghai-metro-line-2-opens-service-to-pudong-international-airport.md)
@@ -47,9 +47,9 @@ _Context: Sudan, post-election protests_
 ### [Sri Lanka's governing coalition wins a majority in the country's 2010 parliamentary election. ](/news/2010/04/9/sri-lanka-s-governing-coalition-wins-a-majority-in-the-country-s-2010-parliamentary-election.md)
 _Context: Sri Lanka, parliamentary election_
 
-##### German
+##### Germany
 ### [Germany charges a former member of the Red Army Faction (RAF) in connection with the murder of Attorney General Siegfried Buback, who was shot alongside two other men in 1977. ](/news/2010/04/9/germany-charges-a-former-member-of-the-red-army-faction-raf-in-connection-with-the-murder-of-attorney-general-siegfried-buback-who-was-sh.md)
-_Context: Attorney General of Germany, German, Red Army Faction, Siegfried Buback_
+_Context: Attorney General of Germany, Germany, Red Army Faction, Siegfried Buback_
 
 ##### Red shirt
 ### [Anti-government protesters in Thailand storm and occupy an opposition television station. ](/news/2010/04/9/anti-government-protesters-in-thailand-storm-and-occupy-an-opposition-television-station.md)

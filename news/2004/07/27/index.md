@@ -3,9 +3,9 @@ Formats: [HTML](2004/07/27/index.html)  [JSON](2004/07/27/index.json)  [XML](200
 
 ## [2004-07-27](/news/2004/07/27/index.md)
 
-##### European Union
+##### EU
 ### [ The European Union's 25 foreign ministers jointly call on the United Nations to pass a resolution threatening sanctions if the Sudanese government does not rein in the Arab militias blamed for atrocities in Darfur. ](/news/2004/07/27/the-european-union-s-25-foreign-ministers-jointly-call-on-the-united-nations-to-pass-a-resolution-threatening-sanctions-if-the-sudanese-gov.md)
-_Context: Arab, Darfur, European Union, Sudan, United Nations_
+_Context: Arab, Darfur, EU, Sudan, United Nations_
 
 ##### United Nations
 ### [ The United Nations warns that Bangladesh is on the verge of a humanitarian crisis, as severe flooding causes more than 350 deaths. Forty-one of the country's sixty-four districts are affected by the floods, and officials say 14 million people are either marooned or homeless; other estimates reach as high as 30 million. ](/news/2004/07/27/the-united-nations-warns-that-bangladesh-is-on-the-verge-of-a-humanitarian-crisis-as-severe-flooding-causes-more-than-350-deaths-forty-on.md)

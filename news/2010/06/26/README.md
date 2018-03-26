@@ -11,9 +11,9 @@ SAN JOSE, Calif. -- Fabricio Werdum turned the MMA world on its ear with his stu
 ### [Former Vice President of the United States Dick Cheney, who has a long history of heart problems, is hospitalized. ](/news/2010/06/26/former-vice-president-of-the-united-states-dick-cheney-who-has-a-long-history-of-heart-problems-is-hospitalized.md)
 Former US vice president Dick Cheney, who has a long history of heart problems, has been hospitalised.
 
-##### Afghan
+##### Afghanistan
 ### [Four American service personnel are killed in Afghanistan. ](/news/2010/06/26/four-american-service-personnel-are-killed-in-afghanistan.md)
-_Context: Afghan_
+_Context: Afghanistan_
 
 ##### Agrigento
 ### [Alleged Agrigento mafia boss Giuseppe Falsone is arrested in Marseille in the south of France after spending 10 years on the run. ](/news/2010/06/26/alleged-agrigento-mafia-boss-giuseppe-falsone-is-arrested-in-marseille-in-the-south-of-france-after-spending-10-years-on-the-run.md)
@@ -69,7 +69,7 @@ Somaliland, a relatively peaceful, organized piece of the Somali puzzle, hopes t
 
 ##### President
 ### [President of Zambia Rupiah Banda says his country did not ask for health and road aid which has now been frozen by The Global Fund to Fight AIDS, Tuberculosis and Malaria and the European Union before an upcoming election and says "We must not allow donors to feel they can interfere in the internal affairs of this country because it is a sovereign and independent state". ](/news/2010/06/26/president-of-zambia-rupiah-banda-says-his-country-did-not-ask-for-health-and-road-aid-which-has-now-been-frozen-by-the-global-fund-to-fight.md)
-_Context: European Union, President, Rupiah Banda, The Global Fund to Fight AIDS, Tuberculosis and Malaria_
+_Context: EU, President, Rupiah Banda, The Global Fund to Fight AIDS, Tuberculosis and Malaria_
 
 ##### G-20
 ### [The leaders of the world's twenty largest economies meet in Canada at the 2010 G-20 Toronto summit. ](/news/2010/06/26/the-leaders-of-the-world-s-twenty-largest-economies-meet-in-canada-at-the-2010-g-20-toronto-summit.md)

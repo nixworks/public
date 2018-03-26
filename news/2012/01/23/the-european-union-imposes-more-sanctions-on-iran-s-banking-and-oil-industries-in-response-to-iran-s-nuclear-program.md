@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/01/23/the-european-union-imposes-more-sanctions-on-ir
 
 ### [2012-01-23](/news/2012/01/23/index.md)
 
-##### European Union
+##### EU
 # The European Union imposes more sanctions on Iran's banking and oil industries in response to Iran's nuclear program. 
 
 Iran says an EU ban on imports of Iranian oil is &quot;unfair&quot; and &quot;doomed to fail&quot;, and will not force it to change course on its nuclear programme.
@@ -17,8 +17,8 @@ Iran says an EU ban on imports of Iranian oil is &quot;unfair&quot; and &quot;do
 
 ### Related:
 
-1. [The International Atomic Energy Agency states that Iran has complied with its commitments under the Joint Comprehensive Plan of Action, paving the way for international sanctions to be lifted by the United States and European Union. ](/news/2016/01/16/the-international-atomic-energy-agency-states-that-iran-has-complied-with-its-commitments-under-the-joint-comprehensive-plan-of-action-pavi.md) _Context: European Union, nuclear program_
-2. [A group of international diplomats begins a two-day tour given by Iran as a gesture of goodwill and transparency in response to foreign concerns over its nuclear program. The European Union, Russia, and the People's Republic of China refuses its invitation. ](/news/2011/01/15/a-group-of-international-diplomats-begins-a-two-day-tour-given-by-iran-as-a-gesture-of-goodwill-and-transparency-in-response-to-foreign-conc.md) _Context: European Union, nuclear program_
-3. [The European Union agrees to meet with Iran to discuss its nuclear program. ](/news/2010/11/12/the-european-union-agrees-to-meet-with-iran-to-discuss-its-nuclear-program.md) _Context: European Union, nuclear program_
-4. [Iran says it is ready to resume international talks over its nuclear program "in a place and on a date convenient to both sides", says a letter to the European Union. ](/news/2010/10/29/iran-says-it-is-ready-to-resume-international-talks-over-its-nuclear-program-in-a-place-and-on-a-date-convenient-to-both-sides-says-a-let.md) _Context: European Union, nuclear program_
-5. [In a message on Twitter, U.S. President Donald Trump says the U.S. will apply a tax on cars made in the European Union if the E.U. "further" increases tariffs. ](/news/2018/03/3/in-a-message-on-twitter-u-s-president-donald-trump-says-the-u-s-will-apply-a-tax-on-cars-made-in-the-european-union-if-the-e-u-further.md) _Context: European Union_
+1. [The International Atomic Energy Agency states that Iran has complied with its commitments under the Joint Comprehensive Plan of Action, paving the way for international sanctions to be lifted by the United States and European Union. ](/news/2016/01/16/the-international-atomic-energy-agency-states-that-iran-has-complied-with-its-commitments-under-the-joint-comprehensive-plan-of-action-pavi.md) _Context: EU, nuclear program_
+2. [A group of international diplomats begins a two-day tour given by Iran as a gesture of goodwill and transparency in response to foreign concerns over its nuclear program. The European Union, Russia, and the People's Republic of China refuses its invitation. ](/news/2011/01/15/a-group-of-international-diplomats-begins-a-two-day-tour-given-by-iran-as-a-gesture-of-goodwill-and-transparency-in-response-to-foreign-conc.md) _Context: EU, nuclear program_
+3. [The European Union agrees to meet with Iran to discuss its nuclear program. ](/news/2010/11/12/the-european-union-agrees-to-meet-with-iran-to-discuss-its-nuclear-program.md) _Context: EU, nuclear program_
+4. [Iran says it is ready to resume international talks over its nuclear program "in a place and on a date convenient to both sides", says a letter to the European Union. ](/news/2010/10/29/iran-says-it-is-ready-to-resume-international-talks-over-its-nuclear-program-in-a-place-and-on-a-date-convenient-to-both-sides-says-a-let.md) _Context: EU, nuclear program_
+5. [In a message on Twitter, U.S. President Donald Trump says the U.S. will apply a tax on cars made in the European Union if the E.U. "further" increases tariffs. ](/news/2018/03/3/in-a-message-on-twitter-u-s-president-donald-trump-says-the-u-s-will-apply-a-tax-on-cars-made-in-the-european-union-if-the-e-u-further.md) _Context: EU_

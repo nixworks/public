@@ -21,7 +21,7 @@ _Context: Pakistan, Pervez Musharraf, president, unlawful detention of judges_
 
 ##### Serbia
 ### [Serbia and its former province of Kosovo reach an accord aimed at normalizing relations between the Balkan neighbours, potentially setting Belgrade on the path to membership of the European Union. ](/news/2013/04/19/serbia-and-its-former-province-of-kosovo-reach-an-accord-aimed-at-normalizing-relations-between-the-balkan-neighbours-potentially-setting-b.md)
-_Context: Balkan, Belgrade, European Union, European Union candidacy, Kosovo, Serbia_
+_Context: Balkan, Belgrade, EU, European Union candidacy, Kosovo, Serbia_
 
 ##### Federal Aviation Administration
 ### [The FAA has approved a fix of the lithium-ion battery in Boeing's 787s, clearing the way for its resumption of service. ](/news/2013/04/19/the-faa-has-approved-a-fix-of-the-lithium-ion-battery-in-boeing-s-787s-clearing-the-way-for-its-resumption-of-service.md)

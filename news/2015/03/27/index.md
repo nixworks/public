@@ -37,7 +37,7 @@ _Context: Al-Shabab, Mogadishu, War in Somalia, the March 27 hotel siege_
 
 ##### Attacks
 ### [A Middle Eastern coalition led by the Saudi Arabian army and Egyptian navy attacks positions in Yemen for the second successive day, resulting in at least ten deaths in Saada Governorate. Saudi Arabia declares that it will enforce a "no-fly zone". ](/news/2015/03/27/a-middle-eastern-coalition-led-by-the-saudi-arabian-army-and-egyptian-navy-attacks-positions-in-yemen-for-the-second-successive-day-resulti.md)
-_Context: Egypt, Middle East, Sa'da province, Saudi, Saudi, Yemen, attacks, navy, no-fly zone_
+_Context: Egypt, Middle East, Sa'da province, Saudi, Saudi Arabia, Yemen, attacks, navy, no-fly zone_
 
 ## [Previous Day...](/news/2015/03/26/index.md)
 

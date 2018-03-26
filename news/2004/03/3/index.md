@@ -37,7 +37,7 @@ _Context: Annual General Meeting, George J. Mitchell, Michael Eisner, Walt Disne
 
 ##### Abdurahman Khadr
 ### [ Abdurahman Khadr, a suspected terrorist, and his family confess on CBC national television that "We are an al-Qaeda family" and that they lived with Osama bin Laden in Afghanistan.](/news/2004/03/3/abdurahman-khadr-a-suspected-terrorist-and-his-family-confess-on-cbc-national-television-that-we-are-an-al-qaeda-family-and-that-they-l.md)
-_Context: Abdurahman Khadr, Afghan, Al-Qaida, CBC, Osama bin Laden_
+_Context: Abdurahman Khadr, Afghanistan, Al-Qaida, CBC, Osama bin Laden_
 
 ## [Previous Day...](/news/2004/03/2/index.md)
 

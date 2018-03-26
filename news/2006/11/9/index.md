@@ -7,9 +7,9 @@ Formats: [HTML](2006/11/9/index.html)  [JSON](2006/11/9/index.json)  [XML](2006/
 ### [ Hundreds of young British Muslims are being radicalised, groomed and set on a path to mass murder, according to the head of MI5 (Security Service), Dame Eliza Manningham-Buller. ](/news/2006/11/9/hundreds-of-young-british-muslims-are-being-radicalised-groomed-and-set-on-a-path-to-mass-murder-according-to-the-head-of-mi5-security-s.md)
 News and opinion from The Times &amp; The Sunday Times
 
-##### France
+##### French
 ### [ France successfully performs the first flight test of its new nuclear missile, the M51. ](/news/2006/11/9/france-successfully-performs-the-first-flight-test-of-its-new-nuclear-missile-the-m51.md)
-_Context: France, M51_
+_Context: French, M51_
 
 ##### Mahathir Mohamad
 ### [ Dr Mahathir Mohamad, the former Prime Minister of Malaysia, is hospitalized following a heart attack. ](/news/2006/11/9/dr-mahathir-mohamad-the-former-prime-minister-of-malaysia-is-hospitalized-following-a-heart-attack.md)

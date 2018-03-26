@@ -33,7 +33,7 @@ Indonesian Navy confirms the cockpit voice recorder from the AirAsia plane that 
 
 ##### Rob Wainwright
 ### [Rob Wainwright, the Director of Europol, tells a British parliamentary committee that up to 5000 European Union citizens have joined jihadist groups in the Middle East. ](/news/2015/01/13/rob-wainwright-the-director-of-europol-tells-a-british-parliamentary-committee-that-up-to-5000-european-union-citizens-have-joined-jihadis.md)
-_Context: European Union, Europol, Middle East, Parliament, Rob Wainwright, jihadist_
+_Context: EU, Europol, Middle East, Parliament, Rob Wainwright, jihadist_
 
 ##### Military intervention in Ukraine
 ### [A passenger bus comes under heavy fire near a check point in eastern Ukraine leading to at least ten civilians killed and many others injured. ](/news/2015/01/13/a-passenger-bus-comes-under-heavy-fire-near-a-check-point-in-eastern-ukraine-leading-to-at-least-ten-civilians-killed-and-many-others-injure.md)

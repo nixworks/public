@@ -5,7 +5,7 @@ Formats: [HTML](2017/11/27/index.html)  [JSON](2017/11/27/index.json)  [XML](201
 
 ##### 2017 Spanish constitutional crisis
 ### [The Attorney General of Catalonia, Jose Maria Romero de Tejada, unexpectedly dies in Barcelona of pneumonia at the age of 69, few days after the death of the Attorney General of the State. ](/news/2017/11/27/the-attorney-general-of-catalonia-josa-c-maraa-romero-de-tejada-unexpectedly-dies-in-barcelona-of-pneumonia-at-the-age-of-69-few-days-aft.md)
-_Context: 2017 Spanish constitutional crisis, Barcelona, Catalan, Jose Maria Romero de Tejada, pneumonia_
+_Context: 2017 Spanish constitutional crisis, Barcelona, Catalonia, Jose Maria Romero de Tejada, pneumonia_
 
 ##### 2017 Tehreek-e-Labaik protest
 ### [The Pakistan Minister for Law Zahid Hamid resigns after days of protest over proposed changes to blasphemy laws. ](/news/2017/11/27/the-pakistan-minister-for-law-zahid-hamid-resigns-after-days-of-protest-over-proposed-changes-to-blasphemy-laws.md)

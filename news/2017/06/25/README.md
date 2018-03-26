@@ -13,7 +13,7 @@ _Context: Albania, Albanian parliamentary election, 2017, Democratic Party, Eid 
 
 ##### 2017 Qatar diplomatic crisis
 ### [The Bahrain News Agency publishes an official list of the demands from Saudi Arabia, Bahrain, the United Arab Emirates and Egypt towards Qatar. Turkey says the demands on Qatar are unlawful. ](/news/2017/06/25/the-bahrain-news-agency-publishes-an-official-list-of-the-demands-from-saudi-arabia-bahrain-the-united-arab-emirates-and-egypt-towards-qat.md)
-_Context: 2017 Qatar diplomatic crisis, Bahrain, Bahrain News Agency, Egypt, Qatar, Saudi, Turkey, United Arab Emirates_
+_Context: 2017 Qatar diplomatic crisis, Bahrain, Bahrain News Agency, Egypt, Qatar, Saudi Arabia, Turkey, United Arab Emirates_
 
 ##### Maritime incidents in 2017
 ### [At least nine people are killed and about 30 others are missing after their multi-story tourist boat, carrying about 170 people, sinks in a reservoir in northwest Colombia near Medellin. ](/news/2017/06/25/at-least-nine-people-are-killed-and-about-30-others-are-missing-after-their-multi-story-tourist-boat-carrying-about-170-people-sinks-in-a.md)

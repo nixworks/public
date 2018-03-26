@@ -39,9 +39,9 @@ They&#39;re off the payroll until they decide about 2012.
 ### [The United Kingdom announces plans to axe 11,000 jobs in the British Armed Forces. ](/news/2011/03/2/the-united-kingdom-announces-plans-to-axe-11-000-jobs-in-the-british-armed-forces.md)
 _Context: British military personnel, United Kingdom_
 
-##### German
+##### Germany
 ### [German Chancellor Angela Merkel names Thomas de Maizire as new defence minister and Hans-Peter Friedrich as the new interior minister, following resignations earlier this week. ](/news/2011/03/2/german-chancellor-angela-merkel-names-thomas-de-maiziere-as-new-defence-minister-and-hans-peter-friedrich-as-the-new-interior-minister-foll.md)
-_Context: Angela Merkel, German, Hans-Peter Friedrich, Thomas de Maizire_
+_Context: Angela Merkel, Germany, Hans-Peter Friedrich, Thomas de Maizire_
 
 ##### Ivory Coast
 ### [Private and independent newspapers in Ivory Coast cease publication to protest violence and harassment by supporters of incumbent President Laurent Gbagbo. Radio broadcasts by the BBC and RFI are taken off air. ](/news/2011/03/2/private-and-independent-newspapers-in-ivory-coast-cease-publication-to-protest-violence-and-harassment-by-supporters-of-incumbent-president.md)
@@ -57,11 +57,11 @@ The US military has brought 22 new charges against the junior soldier accused of
 
 ##### U.S. Air Force
 ### [Two United States Air Force personnel are killed and two others injured after a gunman opens fire at Frankfurt Airport in Germany - a suspect is arrested in connection with the incident. ](/news/2011/03/2/two-united-states-air-force-personnel-are-killed-and-two-others-injured-after-a-gunman-opens-fire-at-frankfurt-airport-in-germany-a-suspec.md)
-_Context: Frankfurt Airport, German, U.S. Air Force_
+_Context: Frankfurt Airport, Germany, U.S. Air Force_
 
 ##### Prosecutor
 ### [Prosecutors in Paris, France, say that British fashion designer John Galliano will face criminal charges over alleged anti-Semitic remarks. ](/news/2011/03/2/prosecutors-in-paris-france-say-that-british-fashion-designer-john-galliano-will-face-criminal-charges-over-alleged-anti-semitic-remarks.md)
-_Context: France, John Galliano, Paris, Prosecutor, anti-Semitism, fashion designer_
+_Context: French, John Galliano, Paris, Prosecutor, anti-Semitism, fashion designer_
 
 ##### Dust storm
 ### [A dust storm hits Christchurch, New Zealand, hampering the recovery efforts from the 2011 Canterbury earthquake. ](/news/2011/03/2/a-dust-storm-hits-christchurch-new-zealand-hampering-the-recovery-efforts-from-the-2011-canterbury-earthquake.md)

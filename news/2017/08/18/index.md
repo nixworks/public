@@ -33,7 +33,7 @@ A man with a knife killed two people and wounded eight others in a stabbing ramp
 
 ##### Van attack
 ### [Catalan police in the coastal town of Cambrils kill five suspected terrorists in a counter-terror operation to stop a second van attack. The police reported the attackers were wearing explosive vests, however they were later discovered to be fakes. ](/news/2017/08/18/catalan-police-in-the-coastal-town-of-cambrils-kill-five-suspected-terrorists-in-a-counter-terror-operation-to-stop-a-second-van-attack-the.md)
-_Context: Cambrils, Catalan, police, van attack, van attack_
+_Context: Cambrils, Catalonia, police, van attack, van attack_
 
 ## [Previous Day...](/news/2017/08/17/index.md)
 

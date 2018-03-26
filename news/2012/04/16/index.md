@@ -13,7 +13,7 @@ The European Court of Human Rights ruled on Monday that Russia had violated the 
 
 ##### Two girls
 ### [The murderer of two girls in Krailling, Bavaria (Germany) is convicted and sentenced to life imprisonment. ](/news/2012/04/16/the-murderer-of-two-girls-in-krailling-bavaria-germany-is-convicted-and-sentenced-to-life-imprisonment.md)
-_Context: Bavaria, German, Krailling, two girls_
+_Context: Bavaria, Germany, Krailling, two girls_
 
 ##### Trial
 ### [The trial of confessed perpetrator of the 2011 Norway attacks, Anders Behring Breivik, starts in Oslo, Norway. ](/news/2012/04/16/the-trial-of-confessed-perpetrator-of-the-2011-norway-attacks-anders-behring-breivik-starts-in-oslo-norway.md)

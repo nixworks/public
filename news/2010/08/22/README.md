@@ -41,7 +41,7 @@ _Context: Iran, drone aircraft_
 
 ##### Bolivia
 ### [A Bolivian-flagged all-female international aid ship bound for Gaza is delayed as Cyprus bans it from passing, with Israel's Ehud Barak calling on France and the United States to prevent it from sailing because, he says, it is "a needless provocation". ](/news/2010/08/22/a-bolivian-flagged-all-female-international-aid-ship-bound-for-gaza-is-delayed-as-cyprus-bans-it-from-passing-with-israel-s-ehud-barak-call.md)
-_Context: Bolivia, Cyprus, Ehud Barak, France, Gaza Strip, Israel, United States_
+_Context: Bolivia, Cyprus, Ehud Barak, French, Gaza Strip, Israel, United States_
 
 ##### Chile
 ### [All 33 Chilean miners trapped deep underground are located alive after 17 days, though they have not yet been removed from the mine and remain trapped. ](/news/2010/08/22/all-33-chilean-miners-trapped-deep-underground-are-located-alive-after-17-days-though-they-have-not-yet-been-removed-from-the-mine-and-rema.md)

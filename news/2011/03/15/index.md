@@ -9,7 +9,7 @@ _Context: Carlos Alvarez, County commission, Florida, Mayor of Miami-Dade County
 
 ##### Angela Merkel
 ### [Angela Merkel, the Chancellor of Germany, announces that Germany will shut down all of its pre-1980 nuclear reactors following the problems in Japan. ](/news/2011/03/15/angela-merkel-the-chancellor-of-germany-announces-that-germany-will-shut-down-all-of-its-pre-1980-nuclear-reactors-following-the-problems.md)
-_Context: Angela Merkel, Chancellor, German, Japan, nuclear reactor_
+_Context: Angela Merkel, Chancellor, Germany, Japan, nuclear reactor_
 
 ##### British Medical Association
 ### [At a British Medical Association conference, delegates call for the coalition government to halt its plans to overhaul the National Health Service in England. However, they stop short of complete opposition to the proposals. ](/news/2011/03/15/at-a-british-medical-association-conference-delegates-call-for-the-coalition-government-to-halt-its-plans-to-overhaul-the-national-health-s.md)
@@ -39,9 +39,9 @@ _Context: England, London, Metropolitan Police, Smiley Culture, Surrey, reggae_
 ### [Egypt dissolves State Security Investigations Service, its former internal security and spying agency. ](/news/2011/03/15/egypt-dissolves-state-security-investigations-service-its-former-internal-security-and-spying-agency.md)
 _Context: Egypt, security personnel_
 
-##### European Union
+##### EU
 ### [The European Union holds talks with Aung San Suu Kyi and other Burmese opposition figures over the lifting of international sanctions. ](/news/2011/03/15/the-european-union-holds-talks-with-aung-san-suu-kyi-and-other-burmese-opposition-figures-over-the-lifting-of-international-sanctions.md)
-_Context: Aung San Suu Kyi, Burma, European Union_
+_Context: Aung San Suu Kyi, Burma, EU_
 
 ##### First World War
 ### [The passing of the United States generation that fought in World War I is marked by the funeral of "'Frank Buckles"', who died on 27 February 2011, aged 110, and was buried with full military honors at Arlington National Cemetery. ](/news/2011/03/15/the-passing-of-the-united-states-generation-that-fought-in-world-war-i-is-marked-by-the-funeral-of-frank-buckles-who-died-on-27-februar.md)

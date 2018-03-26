@@ -17,7 +17,7 @@ _Context: Aung San Suu Kyi, Myanmar general election, 2015, National League for 
 
 ##### Catalan Parliament
 ### [The Catalan Parliament passes a resolution calling for the Catalonian region to secede from Spain. Spanish prime minister Mariano Rajoy says his government will seek to invalidate the motion with an appeal to the Constitutional Court in the coming days. ](/news/2015/11/9/the-catalan-parliament-passes-a-resolution-calling-for-the-catalonian-region-to-secede-from-spain-spanish-prime-minister-mariano-rajoy-says.md)
-_Context: Catalan, Catalan Parliament, Constitutional Court, Mariano Rajoy, Prime Minister, Spanish, secede_
+_Context: Catalan Parliament, Catalonia, Constitutional Court, Mariano Rajoy, Prime Minister, Spanish, secede_
 
 ##### Appeals court
 ### [The U.S. Court of Appeals in New Orleans, Louisiana, in a 2-1 decision, upholds a lower court's injunction that blocks implementation of an Executive order to shield from deportation millions of undocumented immigrants who entered the United States as children. The White House is considering an appeal to the U.S. Supreme Court. ](/news/2015/11/9/the-u-s-court-of-appeals-in-new-orleans-louisiana-in-a-2-1-decision-upholds-a-lower-courtas-injunction-that-blocks-implementation-of-a.md)

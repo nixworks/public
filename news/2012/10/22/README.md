@@ -23,13 +23,13 @@ _Context: Maria Alyokhina, Mordovia, Nadezhda Tolokonnikova, Perm, Pussy Riot, g
 ### [Six Italian scientists and an ex-government official are convicted of multiple manslaughter and sentenced to six years in prison over the 2009 L'Aquila earthquake after prosecutors accuse them of being "falsely reassuring" before the event. ](/news/2012/10/22/six-italian-scientists-and-an-ex-government-official-are-convicted-of-multiple-manslaughter-and-sentenced-to-six-years-in-prison-over-the-20.md)
 _Context: 2009 L'Aquila earthquake_
 
-##### France
+##### French
 ### [France plans to use drones in Mali. ](/news/2012/10/22/france-plans-to-use-drones-in-mali.md)
-_Context: France, Mali, drone_
+_Context: French, Mali, drone_
 
 ##### Royal Air Force
 ### [The UK doubles its number of RAF armed "drones" operating in Afghanistan and, in a new development, drones are to be controlled from terminals and screens on British soil. ](/news/2012/10/22/the-uk-doubles-its-number-of-raf-armed-drones-operating-in-afghanistan-and-in-a-new-development-drones-are-to-be-controlled-from-termina.md)
-_Context: Afghan, Royal Air Force, drone_
+_Context: Afghanistan, Royal Air Force, drone_
 
 ##### Federal Reserve
 ### [The chairman of the U.S. central bank, the Federal Reserve, likely will not stand for re-election to that post. Ben Bernanke has reportedly told friends he will leave when his term ends in January 2014 regardless of who wins the Presidential election campaign. ](/news/2012/10/22/the-chairman-of-the-u-s-central-bank-the-federal-reserve-likely-will-not-stand-for-re-election-to-that-post-ben-bernanke-has-reportedly.md)

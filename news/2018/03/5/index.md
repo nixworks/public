@@ -41,7 +41,7 @@ _Context: 1975, Chinese, Da Nang Port, USS ''Carl Vinson'', United States-Vietna
 
 ##### Egypt-Saudi Arabia relations
 ### [Saudi Arabian Prince Mohammad bin Salman meets Pope Tawadros II at Saint Mark's Coptic Orthodox Cathedral. ](/news/2018/03/5/saudi-arabian-prince-mohammad-bin-salman-meets-pope-tawadros-ii-at-saint-mark-s-coptic-orthodox-cathedral.md)
-_Context: Egypt-Saudi Arabia relations, Mohammad bin Salman, Pope Tawadros II, Saint Mark's Coptic Orthodox Cathedral, Saudi_
+_Context: Egypt-Saudi Arabia relations, Mohammad bin Salman, Pope Tawadros II, Saint Mark's Coptic Orthodox Cathedral, Saudi Arabia_
 
 ##### Children's rights
 ### [A UNICEF report says that 20% of girls under 18 are married, compared to 25% ten years ago, with an estimated 25 million marriages having been prevented in the past decade. ](/news/2018/03/5/a-unicef-report-says-that-20-of-girls-under-18-are-married-compared-to-25-ten-years-ago-with-an-estimated-25-million-marriages-having-be.md)

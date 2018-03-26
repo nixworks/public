@@ -31,7 +31,7 @@ Col Muammar Gaddafi&#039;s fugitive son and his intelligence chief are trying to
 ### [Former Goldman Sachs and Procter and Gamble director Rajat Gupta pleads not guilty to the charge of leaking confidential information to convicted fraudster Raj Rajaratnam. ](/news/2011/10/26/former-goldman-sachs-and-procter-and-gamble-director-rajat-gupta-pleads-not-guilty-to-the-charge-of-leaking-confidential-information-to-conv.md)
 _Context: Goldman Sachs, Procter and Gamble, Raj Rajaratnam, Rajat Gupta_
 
-##### European Union
+##### EU
 ### [European Union leaders hold an emergency meeting to discuss the European sovereign debt crisis. ](/news/2011/10/26/european-union-leaders-hold-an-emergency-meeting-to-discuss-the-european-sovereign-debt-crisis.md)
 Eurozone leaders holding a summit on the debt crisis find agreement on recapitalising banks, but late-night talks on a comprehensive deal are still continuing.
 
@@ -59,9 +59,9 @@ _Context: Amy Winehouse, British, alcohol poisoning, coroner, soul music_
 ### [Indian superhero film "Ra.One", the most expensive Bollywood film to date, is released to coincide with the Hindu festival of Diwali. ](/news/2011/10/26/indian-superhero-film-ra-one-the-most-expensive-bollywood-film-to-date-is-released-to-coincide-with-the-hindu-festival-of-diwali.md)
 _Context: Bollywood, Diwali, Hindu, India, Ra.One_
 
-##### Afghan
+##### Afghanistan
 ### [A bomb hidden in a fuel truck kills at least 5 people and injures 45 in Afghanistan's Parwan province. ](/news/2011/10/26/a-bomb-hidden-in-a-fuel-truck-kills-at-least-5-people-and-injures-45-in-afghanistan-s-parwan-province.md)
-_Context: Afghan, Parwan province_
+_Context: Afghanistan, Parwan province_
 
 ##### Syria
 ### [2011 Syrian uprising: At least 17 people are reported dead in Syria, as fighting continues between the government and opposition groups. ](/news/2011/10/26/2011-syrian-uprising-at-least-17-people-are-reported-dead-in-syria-as-fighting-continues-between-the-government-and-opposition-groups.md)

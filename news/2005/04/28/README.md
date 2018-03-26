@@ -17,11 +17,11 @@ _Context: Kenya, Maasai, Thomas P. G. Cholmondeley_
 
 ##### Switzerland
 ### [ Swiss engineers blast through the Lotschberg Tunnel through the Alps from Germany to Italy. The tunnel will be ready for traffic in two years. ](/news/2005/04/28/swiss-engineers-blast-through-the-laptschberg-tunnel-through-the-alps-from-germany-to-italy-the-tunnel-will-be-ready-for-traffic-in-two-ye.md)
-_Context: Alps, German, Italy, Lotschberg Tunnel, Switzerland_
+_Context: Alps, Germany, Italy, Lotschberg Tunnel, Switzerland_
 
-##### France
+##### French
 ### [ In France, Bernard Guillet, an aide to former interior minister Charles Pasqua is questioned in connection with the oil for food probe. ](/news/2005/04/28/in-france-bernard-guillet-an-aide-to-former-interior-minister-charles-pasqua-is-questioned-in-connection-with-the-oil-for-food-probe.md)
-_Context: Bernard Guillet, Charles Pasqua, France, oil for food_
+_Context: Bernard Guillet, Charles Pasqua, French, oil for food_
 
 ##### Bulgaria
 ### [ A Bulgarian court releases Serbian war crimes suspect Cedomir Brankovic because of his diplomatic immunity. ](/news/2005/04/28/a-bulgarian-court-releases-serbian-war-crimes-suspect-aedomir-brankovia-because-of-his-diplomatic-immunity.md)

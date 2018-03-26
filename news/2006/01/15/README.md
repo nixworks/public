@@ -13,7 +13,7 @@ _Context: Jaber Al-Ahmad Al-Jaber Al-Sabah, Kuwait, Sheikh Saad Al-Abdullah Al-S
 
 ##### Diplomat
 ### [ Canadian diplomat Glyn Berry is killed and two Canadian soldiers critically injured by a bomb blast in Afghanistan. He is the first Canadian diplomat to be killed on duty. ](/news/2006/01/15/canadian-diplomat-glyn-berry-is-killed-and-two-canadian-soldiers-critically-injured-by-a-bomb-blast-in-afghanistan-he-is-the-first-canadia.md)
-_Context: Afghan, Glyn Berry, diplomat_
+_Context: Afghanistan, Glyn Berry, diplomat_
 
 ##### Clemenceau
 ### [ The French warship Clemenceau's transit through the Suez Canal is approved by Egyptian authorities. This decision is heavily criticized by Greenpeace and other environmental groups. ](/news/2006/01/15/the-french-warship-clemenceau-s-transit-through-the-suez-canal-is-approved-by-egyptian-authorities-this-decision-is-heavily-criticized-by.md)

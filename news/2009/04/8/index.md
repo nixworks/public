@@ -15,9 +15,9 @@ _Context: Costa Rica, Malaysia, Organisation for Economic Co-operation and Devel
 ### [ A rogue French Foreign Legionnaire kills four people in Chad. ](/news/2009/04/8/a-rogue-french-foreign-legionnaire-kills-four-people-in-chad.md)
 _Context: Chad, French Foreign Legion, rogue_
 
-##### Somali
+##### Somalia
 ### [ Somali pirates hijack the Danish container ship MV "Maersk Alabama" in the Indian Ocean. ](/news/2009/04/8/somali-pirates-hijack-the-danish-container-ship-mv-maersk-alabama-in-the-indian-ocean.md)
-_Context: ''Maersk Alabama'', Denmark, Indian Ocean, MV, Somali, Somali pirates, container ship_
+_Context: ''Maersk Alabama'', Denmark, Indian Ocean, MV, Somali pirates, Somalia, container ship_
 
 ##### Temecula
 ### [ One person is killed and four are injured in a shooting in Temecula, California, United States. ](/news/2009/04/8/one-person-is-killed-and-four-are-injured-in-a-shooting-in-temecula-california-united-states.md)

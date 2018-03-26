@@ -33,7 +33,7 @@ _Context: Bhutan, Jigme Singye Wangchuck_
 
 ##### Government of Saudi Arabia
 ### [ The Government of Saudi Arabia announces plans to build a separation barrier between Saudi Arabia and Iraq. The barrier will cost $12 billion to build. ](/news/2006/12/15/the-government-of-saudi-arabia-announces-plans-to-build-a-separation-barrier-between-saudi-arabia-and-iraq-the-barrier-will-cost-12-billi.md)
-_Context: Government of Saudi Arabia, Iraq, Saudi, separation barrier_
+_Context: Government of Saudi Arabia, Iraq, Saudi Arabia, separation barrier_
 
 ##### Muqtada al-Sadr
 ### [ Muqtada al-Sadr withdraws his support for Iraqi Prime Minister Nouri al-Maliki. ](/news/2006/12/15/muqtada-al-sadr-withdraws-his-support-for-iraqi-prime-minister-nouri-al-maliki.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/13/ahmad-shihadeh-a-member-of-the-european-union-s
 
 ### [2013-03-13](/news/2013/03/13/index.md)
 
-##### European Union
+##### EU
 # Ahmad Shihadeh, a member of the European Union's delegation in Syria, is killed in a rocket attack in a Damascus suburb. 
 
 

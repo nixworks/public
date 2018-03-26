@@ -55,7 +55,7 @@ There were question marks yesterday over the future of one of China&#039;s most 
 ### ["Encyclopaedia Britannica", the oldest encyclopedia still in print in the English language, announces that it will no longer be producing printed versions but continuing online editions. ](/news/2012/03/13/encyclopaedia-britannica-the-oldest-encyclopedia-still-in-print-in-the-english-language-announces-that-it-will-no-longer-be-producing-pr.md)
 _Context: Encyclopaedia Britannica, English, encyclopedia_
 
-##### Afghan
+##### Afghanistan
 ### [Students in Afghanistan hold protests in response to the Kandahar massacre by a member of the United States Army. ](/news/2012/03/13/students-in-afghanistan-hold-protests-in-response-to-the-kandahar-massacre-by-a-member-of-the-united-states-army.md)
 Gunmen in Afghanistan have launched an attack on a government delegation at a memorial service for 16 villagers who were killed by a US soldier.
 

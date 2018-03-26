@@ -41,7 +41,7 @@ _Context: Dennis Kucinich, U.S. Congress_
 
 ##### Heavy clashes
 ### [ At least 22 people, mostly insurgents, die and dozens more are wounded in several hours of heavy clashes which rage in the Somali capital Mogadishu. ](/news/2007/04/26/at-least-22-people-mostly-insurgents-die-and-dozens-more-are-wounded-in-several-hours-of-heavy-clashes-which-rage-in-the-somali-capital-m.md)
-_Context: Mogadishu, Somali, heavy clashes_
+_Context: Mogadishu, Somalia, heavy clashes_
 
 ##### Tallinn
 ### [ A man is killed and about 40 people are hurt during a night of unrest in Tallinn, Estonia. Demonstrators protesting against the removal of the Bronze Soldier statue clash with the police. Russia's authorities threaten to break off diplomatic relations with their Baltic neighbour. ](/news/2007/04/26/a-man-is-killed-and-about-40-people-are-hurt-during-a-night-of-unrest-in-tallinn-estonia-demonstrators-protesting-against-the-removal-of.md)

@@ -17,7 +17,7 @@ The Workers’ Party of ousted President Dilma Rousseff suffered heavy losses in
 
 ##### Hungarian migrant quota referendum, 2016
 ### [Voters in Hungary go to the polls for a referendum on whether to accept mandatory European Union quotas on relocating migrants. While an overwhelming majority of voters reject the EU's migrant quotas, turnout was too low to make the poll valid. ](/news/2016/10/2/voters-in-hungary-go-to-the-polls-for-a-referendum-on-whether-to-accept-mandatory-european-union-quotas-on-relocating-migrants-while-an-ove.md)
-_Context: European Union, Hungarian migrant quota referendum, 2016, Hungary_
+_Context: EU, Hungarian migrant quota referendum, 2016, Hungary_
 
 ##### Japan
 ### [Authorities arrest a Japanese man for killing as many as 48 elderly patients at the Oguchi Hospital in Yokohama. ](/news/2016/10/2/authorities-arrest-a-japanese-man-for-killing-as-many-as-48-elderly-patients-at-the-oguchi-hospital-in-yokohama.md)

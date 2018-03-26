@@ -45,7 +45,7 @@ At least 15 people were killed and 27 wounded when fuel tankers exploded in the 
 
 ##### Saudi Arabian-led intervention in Yemen
 ### [A Saudi-led coalition airstrike on a market in Sahar District in Yemen's northern Saada Governorate, which is under Houthi control, kills at least 26 people, according to medics and local officials. ](/news/2017/11/1/a-saudi-led-coalition-airstrike-on-a-market-in-sahar-district-in-yemen-s-northern-saada-governorate-which-is-under-houthi-control-kills-at.md)
-_Context: Houthis, Sa'da province, Sahar District, Saudi, Saudi Arabian-led intervention in Yemen, Yemen_
+_Context: Houthi, Sa'da province, Sahar District, Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen_
 
 ## [Previous Day...](/news/2017/10/31/index.md)
 

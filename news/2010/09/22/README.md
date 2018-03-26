@@ -61,9 +61,9 @@ Twelve people were killed and more than 70 injured on Wednesday when a bomb expl
 ### [A Palestinian man is shot dead by an Israeli security guard in the East Jerusalem area of Silwan, during a clash between Israeli settlers and Palestinians. ](/news/2010/09/22/a-palestinian-man-is-shot-dead-by-an-israeli-security-guard-in-the-east-jerusalem-area-of-silwan-during-a-clash-between-israeli-settlers-an.md)
 A Jewish settlement guard kills a Palestinian man in the East Jerusalem neighbourhood of Silwan after residents pelt his car with stones.
 
-##### France
+##### French
 ### [Three French crewman are kidnapped off the coast of Nigeria. ](/news/2010/09/22/three-french-crewman-are-kidnapped-off-the-coast-of-nigeria.md)
-_Context: France, Nigeria_
+_Context: French, Nigeria_
 
 ##### Quetta
 ### [At least one person is killed and 10 injured in a shootout in Quetta, Pakistan. ](/news/2010/09/22/at-least-one-person-is-killed-and-10-injured-in-a-shootout-in-quetta-pakistan.md)
@@ -71,7 +71,7 @@ _Context: Pakistan, Quetta_
 
 ##### Bara
 ### [Three troops were killed when a roadside blast struck a military vehicle in Bara area of Khyber, one of the seven tribal agencies in Pakistan's restive northwest bordering Afghanistan. ](/news/2010/09/22/three-troops-were-killed-when-a-roadside-blast-struck-a-military-vehicle-in-bara-area-of-khyber-one-of-the-seven-tribal-agencies-in-pakista.md)
-_Context: Afghan, Bara, Khyber Agency, Pakistan_
+_Context: Afghanistan, Bara, Khyber Agency, Pakistan_
 
 ## [Previous Day...](/news/2010/09/21/index.md)
 

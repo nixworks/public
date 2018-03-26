@@ -23,7 +23,7 @@ _Context: Oscar Pistorius_
 ### [China sentences 20 men of the ethnic Uighur group to jail terms of up to life imprisonment on charges of terrorism and inciting secession in Xinjiang. ](/news/2013/03/27/china-sentences-20-men-of-the-ethnic-uighur-group-to-jail-terms-of-up-to-life-imprisonment-on-charges-of-terrorism-and-inciting-secession-in.md)
 China sentences 20 men to up to life in jail on terrorism and inciting secession charges in the troubled Xinjiang region, state media says.
 
-##### German
+##### Germany
 ### [A German property developing firm removes parts of the East Side Gallery, a historic stretch of the Berlin Wall amid heavy police presence, despite a week of protests. ](/news/2013/03/27/a-german-property-developing-firm-removes-parts-of-the-east-side-gallery-a-historic-stretch-of-the-berlin-wall-amid-heavy-police-presence.md)
 Parts of a historic stretch of the Berlin Wall marked for property development are removed amid heavy police presence despite angry protests.
 
@@ -61,7 +61,7 @@ _Context: Acropolis, Athens, Greece_
 
 ##### Government
 ### [The Government of Mali announces that 63 of their soldiers have been killed fighting jihadists since the French led intervention Operation Serval in January 2013. ](/news/2013/03/27/the-government-of-mali-announces-that-63-of-their-soldiers-have-been-killed-fighting-jihadists-since-the-french-led-intervention-operation-s.md)
-_Context: France, Government, January 2013, Mali, Operation Serval_
+_Context: French, Government, January 2013, Mali, Operation Serval_
 
 ##### Thailand
 ### [The Thailand government prepares for peace talks with Muslim separatist groups with the hope of ending a decade-long insurgency. ](/news/2013/03/27/the-thailand-government-prepares-for-peace-talks-with-muslim-separatist-groups-with-the-hope-of-ending-a-decade-long-insurgency.md)

@@ -15,9 +15,9 @@ _Context: Florida, Miami, United States, shooting_
 ### [ The center-right Citizens for European Development of Bulgaria party wins big in the Bulgarian parliamentary elections ](/news/2009/07/6/the-center-right-citizens-for-european-development-of-bulgaria-party-wins-big-in-the-bulgarian-parliamentary-elections.md)
 _Context: Bulgarian parliamentary elections, GERB_
 
-##### European Union
+##### EU
 ### [ European Union foreign policy chief Javier Solana says he will not seek another term in office. ](/news/2009/07/6/european-union-foreign-policy-chief-javier-solana-says-he-will-not-seek-another-term-in-office.md)
-_Context: European Union, Javier Solana_
+_Context: EU, Javier Solana_
 
 ##### Bolivia
 ### [ Bolivian drug enforcement officials raid what they call the biggest cocaine laboratory ever found in their country. ](/news/2009/07/6/bolivian-drug-enforcement-officials-raid-what-they-call-the-biggest-cocaine-laboratory-ever-found-in-their-country.md)
@@ -57,7 +57,7 @@ _Context: Burundi, East African Community, Rwanda_
 
 ##### Egyptians
 ### [ Egyptians mourn the death of Marwa El-Sherbini, called the "hijab martyr" after she was killed in a German courtroom by a man convicted of insulting her religion. ](/news/2009/07/6/egyptians-mourn-the-death-of-marwa-el-sherbini-called-the-hijab-martyr-after-she-was-killed-in-a-german-courtroom-by-a-man-convicted-of.md)
-_Context: Egyptians, German, Marwa El-Sherbini, hijab_
+_Context: Egyptians, Germany, Marwa El-Sherbini, hijab_
 
 ##### South Africa
 ### [ South Africa's new "Hawks" serious crime squad begins work six months after its "Scorpions" predecessor was disbanded amid claims of political bias. ](/news/2009/07/6/south-africa-s-new-hawks-serious-crime-squad-begins-work-six-months-after-its-scorpions-predecessor-was-disbanded-amid-claims-of-politi.md)

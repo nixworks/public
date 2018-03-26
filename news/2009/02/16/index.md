@@ -13,7 +13,7 @@ _Context: Guadeloupe, Protest, ongoing general strikes, police_
 
 ##### United Kingdom
 ### [ The British Royal Navy's nuclear submarine HMS "Vanguard" and the French Navy's "Le Triomphant" collide in the Atlantic Ocean on February 3 or 4. ](/news/2009/02/16/the-british-royal-navy-s-nuclear-submarine-hms-vanguard-and-the-french-navy-s-le-triomphant-collide-in-the-atlantic-ocean-on-february-3.md)
-_Context: ''Le Triomphant'', 4, Atlantic Ocean, February 3, France, French naval, HMS ''Vanguard'', Royal Navy, United Kingdom, collide, nuclear submarine_
+_Context: ''Le Triomphant'', 4, Atlantic Ocean, February 3, French, French naval, HMS ''Vanguard'', Royal Navy, United Kingdom, collide, nuclear submarine_
 
 ##### Japan
 ### [ Japan's gross domestic product contracted by 12.7 percent in the fourth fiscal quarter of 2008. ](/news/2009/02/16/japan-s-gross-domestic-product-contracted-by-12-7-percent-in-the-fourth-fiscal-quarter-of-2008.md)

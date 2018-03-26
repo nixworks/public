@@ -25,7 +25,7 @@ _Context: Jaffna, Sri Lanka, Tamil Tigers_
 
 ##### Ethiopia
 ### [ Ethiopian rebels from the Ogaden National Liberation Front raid a Chinese-run oil field in near the country's border with Somalia, killing 74. ](/news/2007/04/24/ethiopian-rebels-from-the-ogaden-national-liberation-front-raid-a-chinese-run-oil-field-in-near-the-country-s-border-with-somalia-killing.md)
-_Context: Chinese, Ethiopia, Ogaden National Liberation Front, Somali, oil field, raid_
+_Context: Chinese, Ethiopia, Ogaden National Liberation Front, Somalia, oil field, raid_
 
 ##### Prison riot
 ### [ Prisoners riot at the New Castle Correctional Facility in Indiana, United States. ](/news/2007/04/24/prisoners-riot-at-the-new-castle-correctional-facility-in-indiana-united-states.md)
@@ -53,7 +53,7 @@ _Context: Eagle Pass, Texas, Piedras Negras, Coahuila, U.S.-Mexico border, storm
 
 ##### Kevin Tillman
 ### [ Kevin Tillman, brother of former American football player Pat Tillman, who was killed by friendly fire in Afghanistan, accuses the U.S. military of manipulating his death during testimony to the U.S. Congress. ](/news/2007/04/24/kevin-tillman-brother-of-former-american-football-player-pat-tillman-who-was-killed-by-friendly-fire-in-afghanistan-accuses-the-u-s-mil.md)
-_Context: Afghan, American football, Kevin Tillman, Pat Tillman, U.S. Congress, U.S. military, friendly fire, testimony_
+_Context: Afghanistan, American football, Kevin Tillman, Pat Tillman, U.S. Congress, U.S. military, friendly fire, testimony_
 
 ## [Previous Day...](/news/2007/04/23/index.md)
 

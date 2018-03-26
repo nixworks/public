@@ -75,7 +75,7 @@ _Context: 2011 royal tour of Canada, Catherine, Duchess of Cambridge, Duke of Ca
 ### [The inaugural meeting of the Community of Latin American and Caribbean States due to be held in Venezuela next week is deferred due to a slow recovery of President of Venezuela Hugo Chavez from an operation in Cuba. ](/news/2011/06/30/the-inaugural-meeting-of-the-community-of-latin-american-and-caribbean-states-due-to-be-held-in-venezuela-next-week-is-deferred-due-to-a-slo.md)
 Footage shows Venezuelan president with Fidel Castro, but regional summit postponed as he recovers from surgery in Cuba.
 
-##### Saudi
+##### Saudi Arabia
 ### [Saudi Arabia stops issuing permits for workers from Indonesia and the Philippines as the row over the beheading of an Indonesian maid by Saudi Arabia continues. ](/news/2011/06/30/saudi-arabia-stops-issuing-permits-for-workers-from-indonesia-and-the-philippines-as-the-row-over-the-beheading-of-an-indonesian-maid-by-sau.md)
 Saudi Arabia says it will stop issuing work permits for domestic workers from Indonesia and the Philippines, after a series of high-profile spats.
 

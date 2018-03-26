@@ -15,9 +15,9 @@ _Context: Federal Aviation Administration, Los Angeles International Airport, So
 ### [ Five crew members of an Irish yacht, who had been adrift in a liferaft for seven days after abandoning their ship, are rescued by helicopter off the Cornwall coast of Britain. The crew members ran out of water on Monday and were running low on food when rescued. ](/news/2004/09/15/five-crew-members-of-an-irish-yacht-who-had-been-adrift-in-a-liferaft-for-seven-days-after-abandoning-their-ship-are-rescued-by-helicopte.md)
 _Context: Cornish, helicopter, lifeboat, yacht_
 
-##### Afghan
+##### Afghanistan
 ### [ In Afghanistan, three Americans are sentenced to up to 10 years imprisonment for illegally detaining and torturing Afghans, and for running an illegal private jail in Kabul. The defiant Americans&mdash;Jonathan Idema, Brent Bennett, and Edward Caraballo&mdash;say they intend to appeal the decision. ](/news/2004/09/15/in-afghanistan-three-americans-are-sentenced-to-up-to-10-years-imprisonment-for-illegally-detaining-and-torturing-afghans-and-for-running.md)
-_Context: Afghan, Brent Bennett, Edward Caraballo, Jonathan Idema, Kabul, appeal_
+_Context: Afghanistan, Brent Bennett, Edward Caraballo, Jonathan Idema, Kabul, appeal_
 
 ##### Palestinian
 ### [ Six Palestinian gunmen and four others are killed by Israeli troops. ](/news/2004/09/15/six-palestinian-gunmen-and-four-others-are-killed-by-israeli-troops.md)
@@ -25,7 +25,7 @@ _Context: Palestinian_
 
 ##### State Department
 ### [ In a report released today, the U.S. State Department for the first time places the Kingdom of Saudi Arabia on its list of "countries of particular concern" (CPCs) that engage in "particularly severe violations" of religious freedom. A designation as a CPC requires the State Department to take whatever steps are necessary&mdash;up to the level of sanctions&mdash;to increase religious tolerance in the designated country. ](/news/2004/09/15/in-a-report-released-today-the-u-s-state-department-for-the-first-time-places-the-kingdom-of-saudi-arabia-on-its-list-of-countries-of-pa.md)
-_Context: Saudi, State Department, economic sanctions, religious freedom_
+_Context: Saudi Arabia, State Department, economic sanctions, religious freedom_
 
 ##### Federal government
 ### [ Canada's federal government and its provincial and territorial leaders reach an accord to increase funding for the country's national health care system. In exchange for an increase in federal funding of CAD 18 billion over the next six years, provincial and territorial leaders agree to reforms intended to reduce patient waiting times. ](/news/2004/09/15/canada-s-federal-government-and-its-provincial-and-territorial-leaders-reach-an-accord-to-increase-funding-for-the-country-s-national-healt.md)

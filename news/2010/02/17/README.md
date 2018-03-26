@@ -25,7 +25,7 @@ _Context: Electoral Commission, Prime Minister of Ukraine, Supreme Administrativ
 
 ##### United Kingdom
 ### [Services from the UK, France, Germany and the Netherlands remain disrupted as investigations continue into the Halle train collision in Belgium.](/news/2010/02/17/services-from-the-uk-france-germany-and-the-netherlands-remain-disrupted-as-investigations-continue-into-the-halle-train-collision-in-belg.md)
-_Context: Belgium, Dutch, France, German, Halle train collision, United Kingdom_
+_Context: Belgium, Dutch, French, Germany, Halle train collision, United Kingdom_
 
 ##### Kenya
 ### [Police in Kenya free five suspects held in connection with organising a gay wedding in a Mtwapa hotel. ](/news/2010/02/17/police-in-kenya-free-five-suspects-held-in-connection-with-organising-a-gay-wedding-in-a-mtwapa-hotel.md)

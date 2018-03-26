@@ -45,7 +45,7 @@ _Context: 2007 Pakistani presidential election, Election Commission, Pervez Mush
 
 ##### Bronislaw Komorowski
 ### [ Polish parliament speaker Bronislaw Komorowski said that Poland's new government is set to be the first to ratify the EU's Reform Treaty. ](/news/2007/11/23/polish-parliament-speaker-bronisaaw-komorowski-said-that-poland-s-new-government-is-set-to-be-the-first-to-ratify-the-eu-s-reform-treaty.md)
-_Context: Bronislaw Komorowski, European Union, Reform Treaty_
+_Context: Bronislaw Komorowski, EU, Reform Treaty_
 
 ## [Previous Day...](/news/2007/11/22/index.md)
 

@@ -45,7 +45,7 @@ Residents in parts of Goulburn are being ordered to leave their homes and busine
 
 ##### Brazil
 ### [Brazil announces the continuation of a "currency war" with the European Union and the United States with the extension of a financial transaction tax on foreign borrowings. ](/news/2012/03/1/brazil-announces-the-continuation-of-a-currency-war-with-the-european-union-and-the-united-states-with-the-extension-of-a-financial-transa.md)
-_Context: Brazil, European Union, United States, financial transaction tax_
+_Context: Brazil, EU, United States, financial transaction tax_
 
 ##### Euro zone
 ### [Unemployment in the Euro zone rises to 10.7 per cent, the highest level in its history. ](/news/2012/03/1/unemployment-in-the-euro-zone-rises-to-10-7-per-cent-the-highest-level-in-its-history.md)
@@ -53,7 +53,7 @@ Euro zone joblessnessrose to a new euro-era high while inflation was largely ste
 
 ##### NATO
 ### [Two members of the NATO International Security Assistance Force are killed in southern Afghanistan, one of whom is believed to be a member of the Afghan Army. ](/news/2012/03/1/two-members-of-the-nato-international-security-assistance-force-are-killed-in-southern-afghanistan-one-of-whom-is-believed-to-be-a-member-o.md)
-_Context: Afghan, Afghan Army, International Security Assistance Force, NATO_
+_Context: Afghan Army, Afghanistan, International Security Assistance Force, NATO_
 
 ##### Turkish police
 ### [A bomb explodes on a Turkish police bus in Istanbul injuring three people. ](/news/2012/03/1/a-bomb-explodes-on-a-turkish-police-bus-in-istanbul-injuring-three-people.md)

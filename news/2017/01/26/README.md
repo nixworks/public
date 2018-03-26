@@ -37,7 +37,7 @@ The troops died in two separate incidents near the Line of Control dividing the 
 
 ##### Jowzjan Province
 ### [Two to three days of freezing weather and heavy snow kills at least 27 children in Jowzjan Province, Afghanistan. ](/news/2017/01/26/two-to-three-days-of-freezing-weather-and-heavy-snow-kills-at-least-27-children-in-jowzjan-province-afghanistan.md)
-_Context: Afghan, Jowzjan Province_
+_Context: Afghanistan, Jowzjan Province_
 
 ##### Caribbean
 ### [Tankers anchored in the Caribbean Sea are unable to deliver over four million barrels of crude oil, due to Venezuela's state-owned oil and natural gas company being unable to pay for hull cleaning, inspections, and other port services. ](/news/2017/01/26/tankers-anchored-in-the-caribbean-sea-are-unable-to-deliver-over-four-million-barrels-of-crude-oil-due-to-venezuela-s-state-owned-oil-and-n.md)

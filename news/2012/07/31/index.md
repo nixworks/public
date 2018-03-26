@@ -29,7 +29,7 @@ _Context: Deutsche Bank_
 
 ##### Hashtag
 ### [Following the @ reply and # hashtag, social media service Twitter introduces the $ symbol, a way for users to click on stock symbols and see related tweets. ](/news/2012/07/31/following-the-reply-and-hashtag-social-media-service-twitter-introduces-the-symbol-a-way-for-users-to-click-on-stock-symbols-and-see.md)
-_Context: Twitter, hashtag_
+_Context: hashtag, tweeting_
 
 ##### Facebook
 ### [Advertiser accuses Facebook of fraud after discovering that 80% of the clicks they're paying for are from bots, and not actual potential customers. ](/news/2012/07/31/advertiser-accuses-facebook-of-fraud-after-discovering-that-80-of-the-clicks-they-re-paying-for-are-from-bots-and-not-actual-potential-cus.md)

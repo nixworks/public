@@ -41,7 +41,7 @@ _Context: Guam, Hawaii, North Korea, South Korea, US-South Korea, United States,
 
 ##### Arab League
 ### [The Arab League summit begins in Qatar, Doha, with the Syria conflict and possible talks between the Afghanistan government and the Taliban among the key issues. ](/news/2013/03/26/the-arab-league-summit-begins-in-qatar-doha-with-the-syria-conflict-and-possible-talks-between-the-afghanistan-government-and-the-taliban.md)
-_Context: Afghan, Arab League, Doha, Politics of Afghanistan, Qatar, Syrian civil war, Taliban, summit_
+_Context: Afghanistan, Arab League, Doha, Politics of Afghanistan, Qatar, Syrian civil war, Taliban, summit_
 
 ##### Italy
 ### [Italy's Court of Cassation overturns the acquittals of Amanda Knox and Raffaele Sollecito in the murder of Meredith Kercher and orders a retrial. However, Knox, who returned home immediately upon release, is not expected to be there as the U.S. tends not to extradite its citizens to face legal action. ](/news/2013/03/26/italy-s-court-of-cassation-overturns-the-acquittals-of-amanda-knox-and-raffaele-sollecito-in-the-murder-of-meredith-kercher-and-orders-a-ret.md)

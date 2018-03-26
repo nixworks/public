@@ -19,9 +19,9 @@ Amidst the uproar over the spot-fixing and betting scandal, industry body FICCI 
 ### [The Prime Minister of Greece, Antonis Samaras, reshuffles his cabinet giving more positions to his Panhellenic Socialist Movement coalition partner, appointing its leader Evangelos Venizelos as Deputy Prime Minister and Foreign Minister. ](/news/2013/06/25/the-prime-minister-of-greece-antonis-samaras-reshuffles-his-cabinet-giving-more-positions-to-his-panhellenic-socialist-movement-coalition.md)
 _Context: Antonis Samaras, Deputy Prime Minister, Evangelos Venizelos, Foreign Minister, Greek Prime Minister, PASOK_
 
-##### Qatar Emir
+##### Sheikh
 ### [The Emir of Qatar Sheikh Hamad bin Khalifa Al Thani abdicates in favour of his son Sheikh Tamim bin Hamad Al Thani. ](/news/2013/06/25/the-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-abdicates-in-favour-of-his-son-sheikh-tamim-bin-hamad-al-thani.md)
-_Context: Hamad bin Khalifa Al Thani, Qatar Emir, Sheikh Tamim bin Hamad al-Than_
+_Context: Hamad bin Khalifa Al Thani, Sheikh, Tamim_
 
 ##### Democrat
 ### [Democrat Ed Markey defeats Republican Gabriel E. Gomez in a Massachusetts special election to elect a senator to finish John Kerry's term. Kerry resigned in February to become Secretary of State.](/news/2013/06/25/democrat-ed-markey-defeats-republican-gabriel-e-gomez-in-a-massachusetts-special-election-to-elect-a-senator-to-finish-john-kerry-s-term-k.md)

@@ -31,9 +31,9 @@ _Context: Italy, Viareggio, liquified petroleum gas, subsequent explosion_
 ### [ Official figures from the Central Statistics Office show a dramatic contraction in the Irish economy in the first three months of 2009. ](/news/2009/06/30/official-figures-from-the-central-statistics-office-show-a-dramatic-contraction-in-the-irish-economy-in-the-first-three-months-of-2009.md)
 Official figures show that there was a dramatic contraction in the economy in the first three months of this year.
 
-##### German
+##### Germany
 ### [ Germany's Constitutional Court approves the Treaty of Lisbon, but suspends ratification of it. ](/news/2009/06/30/germany-s-constitutional-court-approves-the-treaty-of-lisbon-but-suspends-ratification-of-it.md)
-_Context: Federal Constitutional Court of Germany, German, Treaty of Lisbon, approves_
+_Context: Federal Constitutional Court of Germany, Germany, Treaty of Lisbon, approves_
 
 ##### Dresden
 ### [ Dresden loses its status as a UNESCO World Heritage Site. ](/news/2009/06/30/dresden-loses-its-status-as-a-unesco-world-heritage-site.md)

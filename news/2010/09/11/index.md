@@ -3,7 +3,7 @@ Formats: [HTML](2010/09/11/index.html)  [JSON](2010/09/11/index.json)  [XML](201
 
 ## [2010-09-11](/news/2010/09/11/index.md)
 
-##### Afghan
+##### Afghanistan
 ### [Thousands of Afghans protest in Badakhshan province over U.S. plans to hold an "International Burn-a-Koran Day", despite its cancellation. ](/news/2010/09/11/thousands-of-afghans-protest-in-badakhshan-province-over-u-s-plans-to-hold-an-international-burn-a-koran-day-despite-its-cancellation.md)
 E-ALAM, Afghanistan (Reuters) - Protestors clashed with Afghan security forces on Saturday, as thousands of Afghans demonstrated for a second day, despite a U.S. pastor suspending plans to burn copies of the Koran, officials said.
 
@@ -15,7 +15,7 @@ Remembrance ceremonies, marred by tensions over a pastor&#039;s threat to burn t
 ### [Prime Minister of Australia Julia Gillard announces her new Cabinet, with former PM Kevin Rudd named as the Minister for Foreign Affairs. ](/news/2010/09/11/prime-minister-of-australia-julia-gillard-announces-her-new-cabinet-with-former-pm-kevin-rudd-named-as-the-minister-for-foreign-affairs.md)
 Prime Minister Julia Gillard has announced her new-look Cabinet after earlier confirming that former prime minister Kevin Rudd would be given the Foreign Affairs portfolio.
 
-##### Somali
+##### Somalia
 ### [Police in Somalia say they have foiled an attack by Islamist militants against the seaport in the capital Mogadishu. ](/news/2010/09/11/police-in-somalia-say-they-have-foiled-an-attack-by-islamist-militants-against-the-seaport-in-the-capital-mogadishu.md)
 Police in Somalia have said they foiled a suicide attack in the capital city of Mogadishu, a media report said Saturday. Islamist militants tried to carry...
 
@@ -39,7 +39,7 @@ _Context: Japan, Jordan, nuclear power_
 ### [North Korea proposes the resumption of family reunions with South Korea. ](/news/2010/09/11/north-korea-proposes-the-resumption-of-family-reunions-with-south-korea.md)
 North Korea has proposed to the South resuming a programme of reunions for families separated by the Korean War, state media say.
 
-##### France
+##### French
 ### [France condemns as "unacceptable" remarks made by former Cuban leader Fidel Castro expressing sympathy with the Romani migrants it is trying to rid itself of. ](/news/2010/09/11/france-condemns-as-unacceptable-remarks-made-by-former-cuban-leader-fidel-castro-expressing-sympathy-with-the-romani-migrants-it-is-trying.md)
 France says a remark by Fidel Castro that its treatment of Roma migrants amounts to a &quot;racial holocaust&quot; is unacceptable.
 

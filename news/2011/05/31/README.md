@@ -77,7 +77,7 @@ _Context: Minot, Souris River_
 
 ##### 
 ### [The centenary of the launch of the Titanic is celebrated. ](/news/2011/05/31/the-centenary-of-the-launch-of-the-titanic-is-celebrated.md)
-##### German
+##### Germany
 ### [In Germany fourteen people have been reported dead from hemolytic-uremic syndrome outbreak as of 30 May, with another 329 confirmed and up to 1,200 suspected cases.](/news/2011/05/31/in-germany-fourteen-people-have-been-reported-dead-from-hemolytic-uremic-syndrome-outbreak-as-of-30-may-with-another-329-confirmed-and-up-t.md)
 German officials held crisis talks, with reports at least 14 people have died amid a food poisoning outbreak blamed on imported cucumbers.
 

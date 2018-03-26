@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/10/5/the-german-government-moves-to-back-troubled-hyp
 
 ### [2008-10-5](/news/2008/10/5/index.md)
 
-##### German
+##### Germany
 #  The German government moves to back troubled Hypo Real Estate with a 50 billion euro rescue plan. 
 
 
@@ -23,8 +23,8 @@ Formats: [HTML](/news/2008/10/5/the-german-government-moves-to-back-troubled-hyp
 
 ### Related:
 
-1. [White House National Trade Council director Peter Navarro says Germany exploits other countries with a "grossly undervalued" euro. German Chancellor Angela Merkel rejects the allegation. ](/news/2017/01/31/white-house-national-trade-council-director-peter-navarro-says-germany-exploits-other-countries-with-a-grossly-undervalued-euro-german-ch.md) _Context: German, euro_
-2. [In Germany, a Hamburg court fines Google EUR145,000 for violating privacy laws with its Street View service. ](/news/2013/04/22/in-germany-a-hamburg-court-fines-google-a-145-000-for-violating-privacy-laws-with-its-street-view-service.md) _Context: German, euro_
-3. [Angela Merkel, Chancellor of Germany, reaffirms that country's support for the euro in a joint press conference with the Prime Minister of Italy, Silvio Berlusconi. ](/news/2011/01/12/angela-merkel-chancellor-of-germany-reaffirms-that-country-s-support-for-the-euro-in-a-joint-press-conference-with-the-prime-minister-of-i.md) _Context: German, euro_
-4. [ In Germany, former deputy defense minister Holger Pfahls admits that in 1990 he took a bribe worth million euros from arms dealer Karlheinz Schreiber in connection of a sale of armored vehicles to the US. He is in trial accused of taking bribes from Saudi Arabia in a similar deal in 1991. ](/news/2005/06/28/in-germany-former-deputy-defense-minister-holger-pfahls-admits-that-in-1990-he-took-a-bribe-worth-million-euros-from-arms-dealer-karlheinz.md) _Context: German, euro_
-5. [Winter storm Eleanor moves from the British Isles to continental Europe with one dead in France as well as injuries and material losses in Germany, Netherlands and Switzerland. ](/news/2018/01/3/winter-storm-eleanor-moves-from-the-british-isles-to-continental-europe-with-one-dead-in-france-as-well-as-injuries-and-material-losses-in-g.md) _Context: German_
+1. [White House National Trade Council director Peter Navarro says Germany exploits other countries with a "grossly undervalued" euro. German Chancellor Angela Merkel rejects the allegation. ](/news/2017/01/31/white-house-national-trade-council-director-peter-navarro-says-germany-exploits-other-countries-with-a-grossly-undervalued-euro-german-ch.md) _Context: Germany, euro_
+2. [In Germany, a Hamburg court fines Google EUR145,000 for violating privacy laws with its Street View service. ](/news/2013/04/22/in-germany-a-hamburg-court-fines-google-a-145-000-for-violating-privacy-laws-with-its-street-view-service.md) _Context: Germany, euro_
+3. [Angela Merkel, Chancellor of Germany, reaffirms that country's support for the euro in a joint press conference with the Prime Minister of Italy, Silvio Berlusconi. ](/news/2011/01/12/angela-merkel-chancellor-of-germany-reaffirms-that-country-s-support-for-the-euro-in-a-joint-press-conference-with-the-prime-minister-of-i.md) _Context: Germany, euro_
+4. [ In Germany, former deputy defense minister Holger Pfahls admits that in 1990 he took a bribe worth million euros from arms dealer Karlheinz Schreiber in connection of a sale of armored vehicles to the US. He is in trial accused of taking bribes from Saudi Arabia in a similar deal in 1991. ](/news/2005/06/28/in-germany-former-deputy-defense-minister-holger-pfahls-admits-that-in-1990-he-took-a-bribe-worth-million-euros-from-arms-dealer-karlheinz.md) _Context: Germany, euro_
+5. [Catalonia's ex-President Carles Puigdemont is detained in Germany. ](/news/2018/03/25/catalonia-s-ex-president-carles-puigdemont-is-detained-in-germany.md) _Context: Germany_

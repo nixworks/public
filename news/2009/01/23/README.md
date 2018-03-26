@@ -9,7 +9,7 @@ _Context: United Kingdom, recession_
 
 ##### China
 ### [ The 30-man crew of Chinese cargo ship "Zhenhua 4" receives US$10,000 each after repelling Somali pirates in the Gulf of Aden. ](/news/2009/01/23/the-30-man-crew-of-chinese-cargo-ship-zhenhua-4-receives-us-10-000-each-after-repelling-somali-pirates-in-the-gulf-of-aden.md)
-_Context: China, Gulf of Aden, Somali, Somali pirates, US$, cargo ship_
+_Context: China, Gulf of Aden, Somali pirates, Somalia, US$, cargo ship_
 
 ##### Stabbed
 ### [ Two children and one adult are stabbed to death in an attack on a creche in Belgium. ](/news/2009/01/23/two-children-and-one-adult-are-stabbed-to-death-in-an-attack-on-a-cra-che-in-belgium.md)

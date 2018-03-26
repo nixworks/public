@@ -5,7 +5,7 @@ Formats: [HTML](2008/11/13/index.html)  [JSON](2008/11/13/index.json)  [XML](200
 
 ##### Russia
 ### [ Russian Prime Minister Vladimir Putin questions the commitment of the European Union to the construction of the Nord Stream pipeline to establish a natural gas delivery network from his country to Europe. A European Commission spokesman responds, "The EU continues to strongly support the Nord Stream pipeline". ](/news/2008/11/13/russian-prime-minister-vladimir-putin-questions-the-commitment-of-the-european-union-to-the-construction-of-the-nord-stream-pipeline-to-est.md)
-_Context: Europe, European Commission, European Union, Nord Stream, Prime Minister of Russia, Russia, Vladimir Putin, line, natural gas_
+_Context: EU, Europe, European Commission, Nord Stream, Prime Minister of Russia, Russia, Vladimir Putin, line, natural gas_
 
 ##### Moscow Interbank Currency Exchange
 ### [ The Moscow Interbank Currency Exchange falls 5% as trade resumes after a one-day limit-down halt, prompting confusing suspension announcements and orders to the contrary from the Federal Financial Markets Service. ](/news/2008/11/13/the-moscow-interbank-currency-exchange-falls-5-as-trade-resumes-after-a-one-day-limit-down-halt-prompting-confusing-suspension-announceme.md)

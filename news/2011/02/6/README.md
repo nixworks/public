@@ -35,13 +35,13 @@ A former Israeli soldier admits leaking secret military information to a newspap
 ### [Spanish police remove more than 100 rowdy Belgian students from an aeroplane. ](/news/2011/02/6/spanish-police-remove-more-than-100-rowdy-belgian-students-from-an-aeroplane.md)
 _Context: Belgium, Spanish police_
 
-##### European Union
+##### EU
 ### [The European Union's foreign policy chief Catherine Ashton expresses what she believes is the even more crucial need for progress in peace talks between the Israelis and the Palestinians due to events in Egypt and other countries. ](/news/2011/02/6/the-european-union-s-foreign-policy-chief-catherine-ashton-expresses-what-she-believes-is-the-even-more-crucial-need-for-progress-in-peace-t.md)
 European Union foreign policy chief Catherine Ashton said yesterday that events in Egypt and other Mideast countries make progress in peace talks between Israel and the Palestinians eve
 
 ##### Middle East Quartet
 ### [Palestinian leaders express disappointment at the refusal of the Middle East Quartet &mdash; United States, United Nations, European Union and Russia &mdash; to hear their call for unilateral statehood and failure to take a strong stance on Israel's settlement construction at its February 5 meeting in Munich. ](/news/2011/02/6/palestinian-leaders-express-disappointment-at-the-refusal-of-the-middle-east-quartet-mdash-united-states-united-nations-european-union-a.md)
-_Context: European Union, Israel, Middle East Quartet, Munich, Russia, United Nations, United States_
+_Context: EU, Israel, Middle East Quartet, Munich, Russia, United Nations, United States_
 
 ##### Power outage
 ### [Widespread blackout in eight Brazilian states. ](/news/2011/02/6/widespread-blackout-in-eight-brazilian-states.md)
@@ -65,7 +65,7 @@ _Context: Indian Navy, Indian Ocean, Somali pirates, Thailand_
 
 ##### Afghan President
 ### [The President of Afghanistan Hamid Karzai says that a transfer of security authority from international to Afghan forces will begin on March 21. ](/news/2011/02/6/the-president-of-afghanistan-hamid-karzai-says-that-a-transfer-of-security-authority-from-international-to-afghan-forces-will-begin-on-march.md)
-_Context: Afghan, Afghan President, Hamid Karzai_
+_Context: Afghan President, Afghanistan, Hamid Karzai_
 
 ##### Mutinous soldiers
 ### [At least 50 people have died in a mutiny of the Sudan People's Armed Forces in southern Sudan. ](/news/2011/02/6/at-least-50-people-have-died-in-a-mutiny-of-the-sudan-people-s-armed-forces-in-southern-sudan.md)
@@ -79,9 +79,9 @@ Army Chief General V.K. Singh today said that the Army would make an enquiry on 
 ### [Israeli soldiers have shot three Palestinians, two while they collected gravel from destroyed homes in Gaza, and another while he worked in the northern Gaza Strip. ](/news/2011/02/6/israeli-soldiers-have-shot-three-palestinians-two-while-they-collected-gravel-from-destroyed-homes-in-gaza-and-another-while-he-worked-in.md)
 _Context: Gaza Strip, Israel, gravel_
 
-##### Afghan
+##### Afghanistan
 ### [U.S.-led forces kill four civilians, including a woman, in northern Afghanistan. ](/news/2011/02/6/u-s-led-forces-kill-four-civilians-including-a-woman-in-northern-afghanistan.md)
-_Context: Afghan_
+_Context: Afghanistan_
 
 ##### Recent unrest
 ### [Police in Tunisia kill at least two people during a protest in the northwestern town of El Kef demanding the resignation of a police chief - crowds retaliate by burning the police station. ](/news/2011/02/6/police-in-tunisia-kill-at-least-two-people-during-a-protest-in-the-northwestern-town-of-el-kef-demanding-the-resignation-of-a-police-chief.md)

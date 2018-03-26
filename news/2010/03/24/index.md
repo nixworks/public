@@ -45,7 +45,7 @@ _Context: Norwegian_
 
 ##### Sharia law
 ### [A Sharia court in Kaduna bans the Civil Rights Congress of Nigeria from debating punishment amputations via Twitter. ](/news/2010/03/24/a-sharia-court-in-kaduna-bans-the-civil-rights-congress-of-nigeria-from-debating-punishment-amputations-via-twitter.md)
-_Context: Civil Rights Congress of Nigeria, Kaduna, Twitter, sharia law_
+_Context: Civil Rights Congress of Nigeria, Kaduna, sharia law, tweeting_
 
 ##### Portugal
 ### [Portugal's credit rating is downgraded from AA to AA- by the Fitch Group due to fears over its high debt levels. ](/news/2010/03/24/portugal-s-credit-rating-is-downgraded-from-aa-to-aa-by-the-fitch-group-due-to-fears-over-its-high-debt-levels.md)
@@ -63,9 +63,9 @@ PM orders panel to freeze deliberations on construction in capital.
 ### [Luis Moreno-Ocampo, Prosecutor of the International Criminal Court (ICC), says that monitoring Sudan's election next month would be like monitoring a vote in Hitler's Germany. ](/news/2010/03/24/luis-moreno-ocampo-prosecutor-of-the-international-criminal-court-icc-says-that-monitoring-sudan-s-election-next-month-would-be-like-mon.md)
 _Context: Hitler, International Criminal Court, Luis Moreno-Ocampo, Nazi, Sudan_
 
-##### European Union
+##### EU
 ### [The European Union calls for Iran to halt internet censorship and jamming of radio broadcasts. ](/news/2010/03/24/the-european-union-calls-for-iran-to-halt-internet-censorship-and-jamming-of-radio-broadcasts.md)
-_Context: European Union, Iran, censorship, jamming_
+_Context: EU, Iran, censorship, jamming_
 
 ##### South Talpatti Island
 ### [Tiny South Talpatti Island off the coast of Bengal disappears, washed away thirty years after the mud flat island was created by delta currents, ending the Indian and Bangladeshi dispute over the territory. The Calcutta Institute raised fears over more islands, such as the Maldives, going under in the future. ](/news/2010/03/24/tiny-south-talpatti-island-off-the-coast-of-bengal-disappears-washed-away-thirty-years-after-the-mud-flat-island-was-created-by-delta-curre.md)

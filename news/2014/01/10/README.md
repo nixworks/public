@@ -25,7 +25,7 @@ _Context: Audi, Bentley, Porsche, Volkswagen, luxury_
 
 ##### Kenyan Air Force
 ### [The Kenyan Air Force bombs a suspected militant camp in Garbahaareey, Somalia, killing 30 militants. ](/news/2014/01/10/the-kenyan-air-force-bombs-a-suspected-militant-camp-in-garbahaareey-somalia-killing-30-militants.md)
-_Context: Garbahaareey, Kenyan Air Force, Somali_
+_Context: Garbahaareey, Kenyan Air Force, Somalia_
 
 ##### Karachi
 ### [A car bombing in Karachi, Pakistan, kills Chaudhry Aslam Khan, a senior police investigator known for pursuing Pakistani Taliban militants; two other officers with him were also killed. ](/news/2014/01/10/a-car-bombing-in-karachi-pakistan-kills-chaudhry-aslam-khan-a-senior-police-investigator-known-for-pursuing-pakistani-taliban-militants.md)

@@ -17,7 +17,7 @@ _Context: European Commissioner, Jose Manuel Barroso, President of the European 
 
 ##### Franz Josef Jung
 ### [ Franz Josef Jung resigns as Germany's Minister of Labour and Social Affairs following allegations of covering up the Kunduz airstrike, during which he served as Minister of Defence. ](/news/2009/11/27/franz-josef-jung-resigns-as-germany-s-minister-of-labour-and-social-affairs-following-allegations-of-covering-up-the-kunduz-airstrike-duri.md)
-_Context: Federal Minister for Defence, Franz Josef Jung, German, Kunduz airstrike, Minister of Labour and Social Affairs_
+_Context: Federal Minister for Defence, Franz Josef Jung, Germany, Kunduz airstrike, Minister of Labour and Social Affairs_
 
 ##### Uganda
 ### [ The Ugandan parliament passes a controversial land bill, criticised by the Buganda kingdom. ](/news/2009/11/27/the-ugandan-parliament-passes-a-controversial-land-bill-criticised-by-the-buganda-kingdom.md)

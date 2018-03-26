@@ -13,7 +13,7 @@ _Context: Angola, Italy, Marburg virus, Uige_
 
 ##### Sword
 ### [ A man wielding a sword attacks a Tamil church congregation in Stuttgart, Germany, kills a woman and seriously injures three other people. ](/news/2005/04/3/a-man-wielding-a-sword-attacks-a-tamil-church-congregation-in-stuttgart-germany-kills-a-woman-and-seriously-injures-three-other-people.md)
-_Context: German, Stuttgart, Tamil, sword_
+_Context: Germany, Stuttgart, Tamil, sword_
 
 ##### Kyrgyzstan
 ### [ Deposed president of Kyrgyzstan Askar Akayev agrees to officially resign. ](/news/2005/04/3/deposed-president-of-kyrgyzstan-askar-akayev-agrees-to-officially-resign.md)

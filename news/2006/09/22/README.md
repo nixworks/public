@@ -9,7 +9,7 @@ _Context: tainted spinach_
 
 ##### Transrapid
 ### [ A prototype Transrapid Maglev train crashes into a maintenance vehicle on elevated track in Emsland, Germany, killing 23 people and severely injuring 10. ](/news/2006/09/22/a-prototype-transrapid-maglev-train-crashes-into-a-maintenance-vehicle-on-elevated-track-in-emsland-germany-killing-23-people-and-severel.md)
-_Context: Emsland, German, Maglev, Transrapid_
+_Context: Emsland, Germany, Maglev, Transrapid_
 
 ##### Richard Hammond
 ### [ Richard Hammond is released from intensive care and is walking and talking after a car crash whilst filming for the BBC show, "Top Gear". ](/news/2006/09/22/richard-hammond-is-released-from-intensive-care-and-is-walking-and-talking-after-a-car-crash-whilst-filming-for-the-bbc-show-top-gear.md)

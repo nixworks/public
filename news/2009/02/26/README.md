@@ -5,7 +5,7 @@ Formats: [HTML](2009/02/26/index.html)  [JSON](2009/02/26/index.json)  [XML](200
 
 ##### United States
 ### [ The United States Defense Department allows news agencies to publicize photographs of the coffins of soldiers killed in Iraq and Afghanistan. ](/news/2009/02/26/the-united-states-defense-department-allows-news-agencies-to-publicize-photographs-of-the-coffins-of-soldiers-killed-in-iraq-and-afghanista.md)
-_Context: Afghan, Iraq, U.S. military, United States, United States military personnel, coffin, news agencies_
+_Context: Afghanistan, Iraq, U.S. military, United States, United States military personnel, coffin, news agencies_
 
 ##### Svalbard Global Seed Vault
 ### [ The Svalbard Global Seed Vault receives 90,000 food crop seed samples. ](/news/2009/02/26/the-svalbard-global-seed-vault-receives-90-000-food-crop-seed-samples.md)
@@ -53,7 +53,7 @@ _Context: Islamabad, Marriott International, Pakistan, bombed_
 
 ##### China
 ### [ China's Navy and Denmark's Navy rescue Italian and Chinese merchant vessels from Somali pirates in the Gulf of Aden. ](/news/2009/02/26/china-s-navy-and-denmark-s-navy-rescue-italian-and-chinese-merchant-vessels-from-somali-pirates-in-the-gulf-of-aden.md)
-_Context: China, Denmark, Gulf of Aden, Italy, Navy, People's Liberation Army Navy, Somali, Somali pirates, merchant vessel_
+_Context: China, Denmark, Gulf of Aden, Italy, Navy, People's Liberation Army Navy, Somali pirates, Somalia, merchant vessel_
 
 ##### Switzerland
 ### [ Switzerland's UBS AG appoints former Credit Suisse CEO Oswald Grubel as its new Group CEO. ](/news/2009/02/26/switzerland-s-ubs-ag-appoints-former-credit-suisse-ceo-oswald-gra1-4bel-as-its-new-group-ceo.md)

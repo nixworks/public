@@ -13,7 +13,7 @@ _Context:  Georgian, Abkhazia, Dmitry Medvedev, Moscow, Nicolas Sarkozy, Preside
 
 ##### US military
 ### [ The US military is to 'review an inquiry' into an air raid on a village in Herat province, Afghanistan, after a new video evidence emerged indicating 'scores of civilian deaths'. The US air raid in Afghanistan left up to 90 people dead, 'many of them women and children', the Afghan government and the UN said. However, US officials claimed earlier that 'no more than seven civilians died'. The bodies of 'at least 10 children and many more adults' appear in two videos made with cell phones in the Afghan village Azizabad after the raid. ](/news/2008/09/8/the-us-military-is-to-review-an-inquiry-into-an-air-raid-on-a-village-in-herat-province-afghanistan-after-a-new-video-evidence-emerged.md)
-_Context: Afghan, Azizabad, Herat, US military, civilian_
+_Context: Afghanistan, Azizabad, Herat, US military, civilian_
 
 ##### Hurricane Ike
 ### [ Hurricane Ike makes landfall near Banes, Cuba, and weakens. ](/news/2008/09/8/hurricane-ike-makes-landfall-near-banes-cuba-and-weakens.md)

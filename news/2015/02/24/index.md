@@ -13,7 +13,7 @@ Tory MP will resign from Commons at May election after quitting as head of parli
 
 ##### Yemeni Crisis (2011-present)
 ### [Abd Rabbuh Mansur Hadi withdraws his resignation as President of Yemen after escaping from the custody of the Houthis. ](/news/2015/02/24/abd-rabbuh-mansur-hadi-withdraws-his-resignation-as-president-of-yemen-after-escaping-from-the-custody-of-the-houthis.md)
-_Context: Abd Rabbuh Mansur Hadi, Houthis, President, Yemeni Crisis (2011-present)_
+_Context: Abd Rabbuh Mansur Hadi, Houthi, President, Yemeni Crisis (2011-present)_
 
 ##### Chicago aldermanic elections, 2015
 ### [Voters in the American city of Chicago, Illinois, go to the polls to elect a Mayor and 50 aldermen. In the mayoral election, there will be a runoff between incumbent Rahm Emanuel and Cook County Commissioner Jesus "Chuy" Garcia. ](/news/2015/02/24/voters-in-the-american-city-of-chicago-illinois-go-to-the-polls-to-elect-a-mayor-and-50-aldermen-in-the-mayoral-election-there-will-be-a.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/3/somali-pirates-release-a-malaysian-tugboat-with-
 
 ### [2009-08-3](/news/2009/08/3/index.md)
 
-##### Somali
+##### Somalia
 #  Somali pirates release a Malaysian tugboat with 11 Indonesian crew after being held for more than seven months. 
 
 Somali pirates freed a German ship seized in April on Monday after receiving a ransom and a Malaysian-owned tug boat has also been released after being held for more than seven months.

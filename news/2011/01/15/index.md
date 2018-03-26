@@ -17,7 +17,7 @@ Huge turnout in south Sudan referendum expected to back secession from the north
 
 ##### Iran
 ### [A group of international diplomats begins a two-day tour given by Iran as a gesture of goodwill and transparency in response to foreign concerns over its nuclear program. The European Union, Russia, and the People's Republic of China refuses its invitation. ](/news/2011/01/15/a-group-of-international-diplomats-begins-a-two-day-tour-given-by-iran-as-a-gesture-of-goodwill-and-transparency-in-response-to-foreign-conc.md)
-_Context: China, European Union, Iran, Russia, nuclear program_
+_Context: China, EU, Iran, Russia, nuclear program_
 
 ##### Labour Party
 ### [Veteran Labour Party TD Michael D. Higgins writes to the Irish Department of Justice regarding the activities of undercover British police officer Mark Kennedy, who infiltrated protest movements across Europe, including several on Republic of Ireland territory. He describes it as "of grave concern" and that "this type of activity undermines respect for the law and it is very sinister in that it can damage good causes." ](/news/2011/01/15/veteran-labour-party-td-michael-d-higgins-writes-to-the-irish-department-of-justice-regarding-the-activities-of-undercover-british-police-o.md)

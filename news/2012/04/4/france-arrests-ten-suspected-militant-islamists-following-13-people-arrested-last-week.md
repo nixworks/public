@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/04/4/france-arrests-ten-suspected-militant-islamists-
 
 ### [2012-04-4](/news/2012/04/4/index.md)
 
-##### France
+##### French
 # France arrests ten suspected militant Islamists following 13 people arrested last week. 
 
 
@@ -15,8 +15,8 @@ Formats: [HTML](/news/2012/04/4/france-arrests-ten-suspected-militant-islamists-
 
 ### Related:
 
-1. [France formally confirms death of Islamist commander Abdelhamid Abou Zeid, a senior al-Qaeda in the Islamic Maghreb in February, after DNA tests. ](/news/2013/03/23/france-formally-confirms-death-of-islamist-commander-abdelhamid-abou-zeid-a-senior-al-qaeda-in-the-islamic-maghreb-in-february-after-dna-t.md) _Context: France, Islamist_
-2. [Seven French tourists are kidnapped by gunmen near Waza National Park in northern Cameroon, near the border with Nigeria. President of France Francois Hollande states that the Islamist group Boko Haram may be responsible. ](/news/2013/02/19/seven-french-tourists-are-kidnapped-by-gunmen-near-waza-national-park-in-northern-cameroon-near-the-border-with-nigeria-president-of-franc.md) _Context: France, Islamist_
-3. [French and Malian troops retake Diabaly and Douentza as Islamist forces retreat. ](/news/2013/01/21/french-and-malian-troops-retake-diabaly-and-douentza-as-islamist-forces-retreat.md) _Context: France, Islamist_
-4. [Battle of Konna:The Military of Mali recaptures the town of Konna three days after French jets drove out Islamist militants. ](/news/2013/01/18/battle-of-konna-the-military-of-mali-recaptures-the-town-of-konna-three-days-after-french-jets-drove-out-islamist-militants.md) _Context: France, Islamist_
-5. [Four people are killed and 16 wounded when an extremist takes hostages in Trebes, France. The suspect is killed by police. ](/news/2018/03/23/four-people-are-killed-and-16-wounded-when-an-extremist-takes-hostages-in-tra-bes-france-the-suspect-is-killed-by-police.md) _Context: France_
+1. [France formally confirms death of Islamist commander Abdelhamid Abou Zeid, a senior al-Qaeda in the Islamic Maghreb in February, after DNA tests. ](/news/2013/03/23/france-formally-confirms-death-of-islamist-commander-abdelhamid-abou-zeid-a-senior-al-qaeda-in-the-islamic-maghreb-in-february-after-dna-t.md) _Context: French, Islamist_
+2. [Seven French tourists are kidnapped by gunmen near Waza National Park in northern Cameroon, near the border with Nigeria. President of France Francois Hollande states that the Islamist group Boko Haram may be responsible. ](/news/2013/02/19/seven-french-tourists-are-kidnapped-by-gunmen-near-waza-national-park-in-northern-cameroon-near-the-border-with-nigeria-president-of-franc.md) _Context: French, Islamist_
+3. [French and Malian troops retake Diabaly and Douentza as Islamist forces retreat. ](/news/2013/01/21/french-and-malian-troops-retake-diabaly-and-douentza-as-islamist-forces-retreat.md) _Context: French, Islamist_
+4. [Battle of Konna:The Military of Mali recaptures the town of Konna three days after French jets drove out Islamist militants. ](/news/2013/01/18/battle-of-konna-the-military-of-mali-recaptures-the-town-of-konna-three-days-after-french-jets-drove-out-islamist-militants.md) _Context: French, Islamist_
+5. [A former French Parliamentarian candidate is arrested for tweeting that the death of Lt-Col Arnaud Beltrame was 'great' and 'one less vote for Emmanuel Macron.' ](/news/2018/03/25/a-former-french-parliamentarian-candidate-is-arrested-for-tweeting-that-the-death-of-lt-col-arnaud-beltrame-was-great-and-one-less-vote-f.md) _Context: French_

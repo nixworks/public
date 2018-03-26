@@ -19,15 +19,15 @@ _Context: Costa Rica, Gulf Cartel_
 ### [South Korea announces plans to start "scientific" whaling of minke whales at a meeting of the International Whaling Commission in Panama City. ](/news/2012/07/5/south-korea-announces-plans-to-start-scientific-whaling-of-minke-whales-at-a-meeting-of-the-international-whaling-commission-in-panama-cit.md)
 _Context: International Whaling Commission, Panama City, South Korea, minke whales, whaling_
 
-##### France
+##### French
 ### [France's Bureau of Investigation and Analysis issues its final report on the crash of Air France Flight 447, determining that a series of errors by pilots and a failure to react to technical problems led to the disaster that killed all 228 people on board. ](/news/2012/07/5/france-s-bureau-of-investigation-and-analysis-issues-its-final-report-on-the-crash-of-air-france-flight-447-determining-that-a-series-of-er.md)
-_Context: Bureau of Investigation and Analysis, France, crash of Air France Flight 447_
+_Context: Bureau of Investigation and Analysis, French, crash of Air France Flight 447_
 
 ##### Northern Ireland
 ### [Torrential rain in Northern Ireland causes flooding in the towns of Newry and Newcastle in County Down. ](/news/2012/07/5/torrential-rain-in-northern-ireland-causes-flooding-in-the-towns-of-newry-and-newcastle-in-county-down.md)
 _Context: County Down, Newcastle, Newry, Northern Ireland_
 
-##### European Union
+##### EU
 ### [The central banks of the European Union, Great Britain, and the People's Republic of China, in what appears to be a co-ordinated action, each loosen their respective monetary systems. ](/news/2012/07/5/the-central-banks-of-the-european-union-great-britain-and-the-people-s-republic-of-china-in-what-appears-to-be-a-co-ordinated-action-eac.md)
 China, the euro zone and Britain loosened monetary policy in the space of less than an hour on Thursday, signaling a growing level of alarm about the world economy, although suggestions of coordinated action were played down.
 

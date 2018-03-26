@@ -47,7 +47,7 @@ South Korea says it&#039;s planning a law to ban cryptocurrencies such as bitcoi
 ### [Walmart announces that it will increase the minimum wage for its U.S. employees to $11 per hour and close 50 Sam's Club stores. ](/news/2018/01/11/walmart-announces-that-it-will-increase-the-minimum-wage-for-its-u-s-employees-to-11-per-hour-and-close-50-sam-s-club-stores.md)
 _Context: Sam's Club, Walmart, Walmart employee wages, minimum wage_
 
-##### France
+##### French
 ### [Bowing to pressure, French publisher Gallimard suspends plans to reprint a compendium of "violently antisemitic pamphlets" by novelist Louis-Ferdinand Celine. ](/news/2018/01/11/bowing-to-pressure-french-publisher-gallimard-suspends-plans-to-reprint-a-compendium-of-violently-antisemitic-pamphlets-by-novelist-louis.md)
 French publishing house Gallimard cancels plan to reissue a collection of the controversial writer’s essays from the late 1930s after sparking uproar
 

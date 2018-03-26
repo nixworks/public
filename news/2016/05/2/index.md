@@ -15,7 +15,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [President of Venezuela Nicolas Maduro orders clocks in the country to move forward by a half hour from UTC[?]04:30 to UTC[?]04:00 in order to save electricity as Venezuela faces an increasing electricity shortage. While gaining a half hour of sunlight, this means Venezuelans will now lose a half hour of sleep. ](/news/2016/05/2/president-of-venezuela-nicola-s-maduro-orders-clocks-in-the-country-to-move-forward-by-a-half-hour-from-utca04-30-to-utca04-00-in-order.md)
 Clocks moved forward by half an hour to restrict use of lighting and power as country grapples with economic crisis
 
-##### Somali
+##### Somalia
 ### [A Somali asylum seeker sets herself alight in Nauru to protest her detention on the island by Australia, one week after an Iranian asylum seeker did the same thing. ](/news/2016/05/2/a-somali-asylum-seeker-sets-herself-alight-in-nauru-to-protest-her-detention-on-the-island-by-australia-one-week-after-an-iranian-asylum-se.md)
 A Somali woman seeking asylum in Australia has set herself on fire in protest at her detention at a centre on the island of Nauru.
 

@@ -37,7 +37,7 @@ Former drug smuggler turned author Howard Marks has died at the age of 70.
 
 ##### Panama Papers
 ### [German Justice Minister Heiko Maas, during a newspaper interview, appeals to media to hand over "Panama Papers" data that will help governments around the globe that already have started investigating possible financial wrongdoing by the world's rich and powerful. ](/news/2016/04/10/german-justice-minister-heiko-maas-during-a-newspaper-interview-appeals-to-media-to-hand-over-panama-papers-data-that-will-help-governme.md)
-_Context: German, Heiko Maas, Justice Minister, Panama Papers, investigating possible financial wrongdoing_
+_Context: Germany, Heiko Maas, Justice Minister, Panama Papers, investigating possible financial wrongdoing_
 
 ##### Iran-United States relations
 ### [The Foreign Minister of Iran Mohammad Javad Zarif says that the country's missile program would not be up for discussion. This comes as United States Secretary of State John Kerry said last Thursday that the United States and its allies would only address Iran's concerns in the region if it makes it clear to all involved that it was prepared to cease provocative ballistic missile launches and tests. ](/news/2016/04/10/the-foreign-minister-of-iran-mohammad-javad-zarif-says-that-the-country-s-missile-program-would-not-be-up-for-discussion-this-comes-as-unit.md)
@@ -61,7 +61,7 @@ _Context: Burj Khalifa, Dubai, United Arab Emirates, tallest structure in the wo
 
 ##### War in Afghanistan (2015-present)
 ### [The Taliban, in a statement claiming responsibility for yesterday's rocket attacks into Kabul, Afghanistan, says the intended target was U.S. Secretary of State John Kerry, who was in the capital to help defuse a crisis within the unity government. Kerry had departed less than an hour earlier. No casualties have been reported. ](/news/2016/04/10/the-taliban-in-a-statement-claiming-responsibility-for-yesterday-s-rocket-attacks-into-kabul-afghanistan-says-the-intended-target-was-u-s.md)
-_Context: Afghan, John Kerry, Kabul, Secretary of State, Taliban, War in Afghanistan (2015-present), unity government_
+_Context: Afghanistan, John Kerry, Kabul, Secretary of State, Taliban, War in Afghanistan (2015-present), unity government_
 
 ## [Previous Day...](/news/2016/04/9/index.md)
 

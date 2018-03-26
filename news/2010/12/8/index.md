@@ -111,9 +111,9 @@ _Context: Kohat, Pakistan, bazaar_
 ### [North Korea launches apparent artillery drills as South Korean and American military officials hold talks. ](/news/2010/12/8/north-korea-launches-apparent-artillery-drills-as-south-korean-and-american-military-officials-hold-talks.md)
 _Context: North Korea, South Korea, United States_
 
-##### Somali
+##### Somalia
 ### [Clashes between rival clans in northern Somalia kill around 35 people and injure 40 others. ](/news/2010/12/8/clashes-between-rival-clans-in-northern-somalia-kill-around-35-people-and-injure-40-others.md)
-_Context: Somali_
+_Context: Somalia_
 
 ## [Previous Day...](/news/2010/12/7/index.md)
 

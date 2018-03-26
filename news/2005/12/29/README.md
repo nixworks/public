@@ -11,9 +11,9 @@ _Context: 101st Airborne, Associated Press, Farris Hassan_
 ### [ Chinese state media announce that the country's government will abolish its national agricultural tax starting January 1, 2006. ](/news/2005/12/29/chinese-state-media-announce-that-the-country-s-government-will-abolish-its-national-agricultural-tax-starting-january-1-2006.md)
 _Context: China_
 
-##### Scottish
+##### Scotland
 ### [ A Scottish human rights worker, Kate Burton, and her parents have been kidnapped in Gaza. Palestinian authorities have stepped up work to find them. ](/news/2005/12/29/a-scottish-human-rights-worker-kate-burton-and-her-parents-have-been-kidnapped-in-gaza-palestinian-authorities-have-stepped-up-work-to-f.md)
-_Context: Gaza Strip, Kate Burton, Palestinian, Scottish, human rights_
+_Context: Gaza Strip, Kate Burton, Palestinian, Scotland, human rights_
 
 ##### Suicide bombing
 ### [ A suicide bomber attacks a checkpoint near the West Bank city of Tulkarm, killing one Israeli soldier, two Palestinian civilians and himself. Islamic Jihad has claimed responsibility for the attack. ](/news/2005/12/29/a-suicide-bomber-attacks-a-checkpoint-near-the-west-bank-city-of-tulkarm-killing-one-israeli-soldier-two-palestinian-civilians-and-himsel.md)

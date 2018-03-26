@@ -31,13 +31,13 @@ The Israeli leader shocked allies and foes alike by claiming Jerusalem&rsquo;s g
 ### [The United States and Russia sign an agreement designed to avoid conflict between both countries' warplanes in Syria. The Pentagon said the agreement will remain secret; a hotline will enable both countries to directly communicate. ](/news/2015/10/20/the-united-states-and-russia-sign-an-agreement-designed-to-avoid-conflict-between-both-countries-warplanes-in-syria-the-pentagon-said-the.md)
 Terms attempting to avoid conflict in Syrian airspace comes days after closest approach between Russian and American aircraft
 
-##### Saudi
+##### Saudi Arabia
 ### [Saudi Arabia receives US State Department approval for the purchase of four Multi-Mission Combat Ships for $11.25 billion. ](/news/2015/10/20/saudi-arabia-receives-us-state-department-approval-for-the-purchase-of-four-multi-mission-combat-ships-for-11-25-billion.md)
 Saudi Arabia has received U.S. State Department approval for the $11.25 billion purchase of four Multi-Mission Combat Ships from the United States.
 
 ##### Refugee immigration to Germany
 ### [European Union members agree to provide 291 border guards to Greece and Italy to help identify and register migrants. ](/news/2015/10/20/european-union-members-agree-to-provide-291-border-guards-to-greece-and-italy-to-help-identify-and-register-migrants.md)
-_Context: European Union, Greece, Italy, border guard, refugee immigration to Germany_
+_Context: EU, Greece, Italy, border guard, refugee immigration to Germany_
 
 ##### Brazil
 ### [Brazil pulls out of an electoral mission to observe crucial legislative elections in Venezuela over what it says are a lack of guarantees by the government of Venezuela and its veto of the choice to head the delegation. ](/news/2015/10/20/brazil-pulls-out-of-an-electoral-mission-to-observe-crucial-legislative-elections-in-venezuela-over-what-it-says-are-a-lack-of-guarantees-by.md)

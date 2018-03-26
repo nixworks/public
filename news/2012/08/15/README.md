@@ -3,7 +3,7 @@ Formats: [HTML](2012/08/15/index.html)  [JSON](2012/08/15/index.json)  [XML](201
 
 ## [2012-08-15](/news/2012/08/15/index.md)
 
-##### German
+##### Germany
 ### [Four suspects are arrested in Germany for their alleged involvement in illegally providing Iran with necessary technical parts to build a nuclear reactor. ](/news/2012/08/15/four-suspects-are-arrested-in-germany-for-their-alleged-involvement-in-illegally-providing-iran-with-necessary-technical-parts-to-build-a-nu.md)
 Four men are arrested in Germany on suspicion of illegally supplying Iran with parts needed to build a nuclear reactor.
 

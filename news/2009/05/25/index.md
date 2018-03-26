@@ -3,9 +3,9 @@ Formats: [HTML](2009/05/25/index.html)  [JSON](2009/05/25/index.json)  [XML](200
 
 ## [2009-05-25](/news/2009/05/25/index.md)
 
-##### Somali
+##### Somalia
 ### [ Somali President Sharif Ahmed requests international aid in combating Islamic militants. ](/news/2009/05/25/somali-president-sharif-ahmed-requests-international-aid-in-combating-islamic-militants.md)
-_Context: Islamists, President, Sharif Ahmed, Somali, assistance, declares, militant_
+_Context: Islamists, President, Sharif Ahmed, Somalia, assistance, declares, militant_
 
 ##### Singapore
 ### [ Singapore's consumer price index decreased by 1.5% in April, its largest recorded decline. ](/news/2009/05/25/singapore-s-consumer-price-index-decreased-by-1-5-in-april-its-largest-recorded-decline.md)

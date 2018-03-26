@@ -63,7 +63,7 @@ _Context: American Family Association, Kmart, Nike, Inc., One of the Guys, Rober
 
 ##### Government of Australia
 ### [ The Australian Government announces it will send back 150 elite Special Air Service troops to Afghanistan, to take part in covert operations and to help thwart a resurgent Taliban. A further 200 troops may also be dispatched to aid reconstruction efforts. ](/news/2005/07/13/the-australian-government-announces-it-will-send-back-150-a-c-lite-special-air-service-troops-to-afghanistan-to-take-part-in-covert-operatio.md)
-_Context: Afghan, Government of Australia, Special Air Service, Taliban_
+_Context: Afghanistan, Government of Australia, Special Air Service, Taliban_
 
 ##### NASA
 ### [ NASA's planned launch of STS-114, Space Shuttle "Discovery" from pad 39B at the Kennedy Space Center at 3:51pm EDT (1951 UTC) is delayed due to a problem with the fuel level sensors. This would have been the first manned space launch by NASA since the loss of "Columbia" over 2 years ago. ](/news/2005/07/13/nasa-s-planned-launch-of-sts-114-space-shuttle-discovery-from-pad-39b-at-the-kennedy-space-center-at-3-51pm-edt-1951-utc-is-delayed-du.md)

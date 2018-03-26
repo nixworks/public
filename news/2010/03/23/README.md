@@ -17,7 +17,7 @@ _Context: Mojave Air and Spaceport, Mojave, California, SpaceShipTwo, Virgin Gal
 
 ##### Turkey
 ### [A Turkish ship is hijacked by Somali pirates more than 1,000 miles away from the coast of Somalia and closer to India. ](/news/2010/03/23/a-turkish-ship-is-hijacked-by-somali-pirates-more-than-1-000-miles-away-from-the-coast-of-somalia-and-closer-to-india.md)
-_Context: India, Somali, Somali pirates, Turkey_
+_Context: India, Somali pirates, Somalia, Turkey_
 
 ##### China
 ### [China says Google is "totally wrong" to stop censoring its search results. ](/news/2010/03/23/china-says-google-is-totally-wrong-to-stop-censoring-its-search-results.md)
@@ -31,9 +31,9 @@ _Context: China, Nanping_
 ### [United States President Barack Obama signs the health care reform bill into law. ](/news/2010/03/23/united-states-president-barack-obama-signs-the-health-care-reform-bill-into-law.md)
 The most sweeping social legislation enacted in decades became law after a festive, at times raucous, signing ceremony in the White House on Tuesday.
 
-##### German
+##### Germany
 ### [Four German pensioners aged 61 to 80 are found guilty of kidnapping their own financial adviser from his home and driving him 450km (280 miles) to southern Bavaria, with the ringleader and his accomplice being jailed. ](/news/2010/03/23/four-german-pensioners-aged-61-to-80-are-found-guilty-of-kidnapping-their-own-financial-adviser-from-his-home-and-driving-him-450km-280-mil.md)
-_Context: Bavaria, German_
+_Context: Bavaria, Germany_
 
 ##### Heinrich Boere
 ### [88-year-old Heinrich Boere, a former member of the Nazi SS, is sentenced to life imprisonment for the 1944 murder of three Dutch civilians after six decades of legal wrangling. ](/news/2010/03/23/88-year-old-heinrich-boere-a-former-member-of-the-nazi-ss-is-sentenced-to-life-imprisonment-for-the-1944-murder-of-three-dutch-civilians-a.md)

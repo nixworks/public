@@ -39,9 +39,9 @@ Force-feeding&#x20;is&#x20;&quot;torture&quot;&#x20;and&#x20;breaks&#x20;interna
 ### [Heavy rain and a whirlwind sweeps over eights districts and towns in Lo Cai Province, northern Vietnam, destroying 52 houses and 2 schools, ripping roofs off of 1600 houses, and damaging crops of local people. ](/news/2013/05/1/heavy-rain-and-a-whirlwind-sweeps-over-eights-districts-and-towns-in-lao-cai-province-northern-vietnam-destroying-52-houses-and-2-schools.md)
 _Context: Lo Cai Province, northern Vietnam_
 
-##### Saudi
+##### Saudi Arabia
 ### [Flash floods leave 16 people dead and 3 others missing in Saudi Arabia, with authorities urging citizens to avoid low-lying wadis. At least two others were killed in neighboring Oman in some of the heaviest rainfall in more than 25 years. ](/news/2013/05/1/flash-floods-leave-16-people-dead-and-3-others-missing-in-saudi-arabia-with-authorities-urging-citizens-to-avoid-low-lying-wadis-at-least.md)
-_Context: Oman, Saudi, wadi_
+_Context: Oman, Saudi Arabia, wadi_
 
 ##### T-Mobile
 ### [T-Mobile US debuts on the New York Stock Exchange with the ticker symbol TMUS. ](/news/2013/05/1/t-mobile-us-debuts-on-the-new-york-stock-exchange-with-the-ticker-symbol-tmus.md)

@@ -119,7 +119,7 @@ Four&#x20;Ugandan&#x20;peacekeepers&#x20;were&#x20;killed&#x20;in&#x20;Mogadishu
 ### [6 civilians are killed and 19 others are injured in a shelling incident in Mogadishu. ](/news/2010/08/30/6-civilians-are-killed-and-19-others-are-injured-in-a-shelling-incident-in-mogadishu.md)
 _Context: Mogadishu_
 
-##### Somali
+##### Somalia
 ### [The presidential palace in Somalia is shelled. ](/news/2010/08/30/the-presidential-palace-in-somalia-is-shelled.md)
 Four African Union peacekeepers killed and several injured by al-Shabab mortar attack in Mogadishu.
 

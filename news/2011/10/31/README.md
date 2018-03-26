@@ -9,7 +9,7 @@ It took only a dozen years for humanity to add another billion people to the pla
 
 ##### Greek Prime Minister
 ### [The Prime Minister of Greece George Papandreou calls a referendum on the new European Union debt deal. ](/news/2011/10/31/the-prime-minister-of-greece-george-papandreou-calls-a-referendum-on-the-new-european-union-debt-deal.md)
-_Context: European Union, George Papandreou, Greek Prime Minister, referendum_
+_Context: EU, George Papandreou, Greek Prime Minister, referendum_
 
 ##### Abdurrahim El-Keib
 ### [Abdurrahim El-Keib is named as the new interim Prime Minister of Libya by the country's National Transitional Council. ](/news/2011/10/31/abdurrahim-el-keib-is-named-as-the-new-interim-prime-minister-of-libya-by-the-country-s-national-transitional-council.md)
@@ -41,11 +41,11 @@ _Context: Japanese government, US$, exchange rate, yen_
 
 ##### Australia
 ### [Australian airline Qantas resumes flights after a ruling by Fair Work Australia. ](/news/2011/10/31/australian-airline-qantas-resumes-flights-after-a-ruling-by-fair-work-australia.md)
-_Context: Australia, Fair Work Australia, Qantas_
+_Context: Australia, Fair Work Australia, Qantas Airways_
 
-##### Afghan
+##### Afghanistan
 ### [Three people are killed in attacks on the offices of the International Relief and Development (IRD) in the Afghan city of Kandahar. ](/news/2011/10/31/three-people-are-killed-in-attacks-on-the-offices-of-the-international-relief-and-development-ird-in-the-afghan-city-of-kandahar.md)
-_Context: Afghan, Kandahar_
+_Context: Afghanistan, Kandahar_
 
 ## [Previous Day...](/news/2011/10/30/index.md)
 

@@ -37,7 +37,7 @@ Iraqi forces backed by air strikes from the U.S.-led coalition gained complete c
 
 ##### Saudi Arabian-led intervention in Yemen
 ### [The death toll from a Saudi-led Arab coalition airstrike which hit a house in a residential area in western Yemen has risen to 26 people. ](/news/2016/09/22/the-death-toll-from-a-saudi-led-arab-coalition-airstrike-which-hit-a-house-in-a-residential-area-in-western-yemen-has-risen-to-26-people.md)
-_Context: Saudi, Saudi Arabian-led intervention in Yemen, Yemen_
+_Context: Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen_
 
 ## [Previous Day...](/news/2016/09/21/index.md)
 

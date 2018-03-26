@@ -49,7 +49,7 @@ Russian jets hit Islamic State targets in the Syrian city of Palmyra and the nor
 
 ##### Yemeni Civil War (2015)
 ### [A hotel where Vice President of Yemen and Prime Minister Khaled Bahah was staying in Aden which was also being used as a de facto military base by Arab coalition forces is hit by multiple explosions killing at least 15 coalition soldiers. Although the Houthis were first suspected and accused of being behind the attack, the Islamic State of Iraq and the Levant has since claimed responsibility, marking the first attack on Arab coalition forces in Yemen by the extremist group. ](/news/2015/10/6/a-hotel-where-vice-president-of-yemen-and-prime-minister-khaled-bahah-was-staying-in-aden-which-was-also-being-used-as-a-de-facto-military-b.md)
-_Context: Aden, Houthis, ISIL, Khaled Bahah, Prime Minister, Saudi Arabian-led intervention in Yemen, Vice President of Yemen, Yemen, Yemeni Civil War (2015)_
+_Context: Aden, Houthi, ISIL, Khaled Bahah, Prime Minister, Saudi Arabian-led intervention in Yemen, Vice President of Yemen, Yemen, Yemeni Civil War (2015)_
 
 ## [Previous Day...](/news/2015/10/5/index.md)
 

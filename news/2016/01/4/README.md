@@ -17,7 +17,7 @@ The Marshall Islands parliament elected its youngest President, and only the sec
 
 ##### New Year's Eve sexual assaults in Germany
 ### [German police begin investigations into a gang of up to 1,000 men of North African and Arab appearance who committed sexual assaults on women in Cologne's main square on New Year's Eve. ](/news/2016/01/4/german-police-begin-investigations-into-a-gang-of-up-to-1-000-men-of-north-african-and-arab-appearance-who-committed-sexual-assaults-on-wome.md)
-_Context: Arab, Cologne, German, New Year's Eve sexual assaults in Germany, North Africa_
+_Context: Arab, Cologne, Germany, New Year's Eve sexual assaults in Germany, North Africa_
 
 ##### U.S. President
 ### [The President of the United States Barack Obama announces executive orders to expand background checks for firearms and toughen regulation of firearms. ](/news/2016/01/4/the-president-of-the-united-states-barack-obama-announces-executive-orders-to-expand-background-checks-for-firearms-and-toughen-regulation-o.md)

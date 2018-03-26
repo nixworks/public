@@ -43,7 +43,7 @@ US secretary of state says meetings in Havana with guerrillas still on Washingto
 ### [In light of the Belgian attacks, Warner Bros. cancels the red carpet but will hold the European premiere of the highly-publicized film, "Batman v Superman: Dawn of Justice", at London's Leicester Square tonight. ](/news/2016/03/22/in-light-of-the-belgian-attacks-warner-bros-cancels-the-red-carpet-but-will-hold-the-european-premiere-of-the-highly-publicized-film-bat.md)
 _Context: 2016 Brussels bombings, Batman v Superman: Dawn of Justice, Belgium, Leicester Square, London, Warner Bros., red carpet_
 
-##### German
+##### Germany
 ### [German tax authorities are investigating Citigroup over its use of a "dividend stripping" strategy, which allowed both the buyer and seller of a stock to claim the tax credits. ](/news/2016/03/22/german-tax-authorities-are-investigating-citigroup-over-its-use-of-a-dividend-stripping-strategy-which-allowed-both-the-buyer-and-seller.md)
 (The story was refiled to correct this March 22, 2016 story to read audited, not investigated, in the headline and paragraph 1)
 

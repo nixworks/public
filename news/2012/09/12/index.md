@@ -61,7 +61,7 @@ _Context: Chicago_
 
 ##### Federal Constitutional Court of Germany
 ### [The Federal Constitutional Court in Karlsruhe rules that Germany's participation in the European Stability Mechanism (ESM) is, conditionally, within the German Constitution's limits, allowing President Gauck to approve the Bundestag's previous agreement with the mechanism. ](/news/2012/09/12/the-federal-constitutional-court-in-karlsruhe-rules-that-germany-s-participation-in-the-european-stability-mechanism-esm-is-conditionally.md)
-_Context: Bundestag, European Stability Mechanism, Federal Constitutional Court of Germany, German, German Constitution, Joachim Gauck, Karlsruhe, President of Germany_
+_Context: Bundestag, European Stability Mechanism, Federal Constitutional Court of Germany, German Constitution, Germany, Joachim Gauck, Karlsruhe, President of Germany_
 
 ##### Ghent Altarpiece
 ### [The first panels of the Ghent Altarpiece, the "Lamb of God", are secretly moved from Saint Bavo Cathedral to the Ghent Museum of Fine Arts for a five-year restoration. It is probably the most frequently stolen artwork in history. One panel has been missing since 1934. ](/news/2012/09/12/the-first-panels-of-the-ghent-altarpiece-the-lamb-of-god-are-secretly-moved-from-saint-bavo-cathedral-to-the-ghent-museum-of-fine-arts-f.md)
@@ -73,7 +73,7 @@ A suicide attack at the gates of a Mogadishu hotel where the new Somali leader i
 
 ##### War in Afghanistan
 ### [President Hamid Karzai of Afghanistan calls for a re-think of the War on Terror. ](/news/2012/09/12/president-hamid-karzai-of-afghanistan-calls-for-a-re-think-of-the-war-on-terror.md)
-_Context: Afghan, Hamid Karzai, War in Afghanistan, War on Terror_
+_Context: Afghanistan, Hamid Karzai, War in Afghanistan, War on Terror_
 
 ##### Syrian civil war
 ### [Rebels kill 18 soldiers in Idlib Governorate in a car bomb and ground attack on a military installation. ](/news/2012/09/12/rebels-kill-18-soldiers-in-idlib-governorate-in-a-car-bomb-and-ground-attack-on-a-military-installation.md)

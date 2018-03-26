@@ -21,7 +21,7 @@ _Context: Ar-Namys, Ata Meken, Ata-Zhurt, Respublika, Social Democratic Party of
 
 ##### Sakineh Mohammadi Ashtiani
 ### [The son of Sakineh Mohammadi Ashtiani, the woman sentenced to death by stoning, and two German journalists posing as tourists seeking to interview him, may have been arrested in Iran. ](/news/2010/10/11/the-son-of-sakineh-mohammadi-ashtiani-the-woman-sentenced-to-death-by-stoning-and-two-german-journalists-posing-as-tourists-seeking-to-int.md)
-_Context: German, Iran, Sakineh Mohammadi Ashtiani, journalist_
+_Context: Germany, Iran, Sakineh Mohammadi Ashtiani, journalist_
 
 ##### Sexual abuse
 ### [A woman accused of sexually abusing girls at the Oprah Winfrey Leadership Academy for Girls in Meyerton, South Africa, is acquitted. ](/news/2010/10/11/a-woman-accused-of-sexually-abusing-girls-at-the-oprah-winfrey-leadership-academy-for-girls-in-meyerton-south-africa-is-acquitted.md)

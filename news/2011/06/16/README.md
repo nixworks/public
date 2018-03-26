@@ -5,7 +5,7 @@ Formats: [HTML](2011/06/16/index.html)  [JSON](2011/06/16/index.json)  [XML](201
 
 ##### United States House of Representatives
 ### [U.S. Representative Anthony Weiner of New York resigns his office amidst pressure from Democratic leadership and President Barack Obama after admitting to sending lewd photos via Twitter. ](/news/2011/06/16/u-s-representative-anthony-weiner-of-new-york-resigns-his-office-amidst-pressure-from-democratic-leadership-and-president-barack-obama-afte.md)
-_Context: Anthony Weiner, Barack Obama, Democrat, New York, Twitter, U.S. President, United States House of Representatives, sending lewd photos_
+_Context: Anthony Weiner, Barack Obama, Democrat, New York, U.S. President, United States House of Representatives, sending lewd photos, tweeting_
 
 ##### Parliament of Australia
 ### [Both houses of the Parliament of Australia vote to condemn a proposal to send asylum seekers to Malaysia. ](/news/2011/06/16/both-houses-of-the-parliament-of-australia-vote-to-condemn-a-proposal-to-send-asylum-seekers-to-malaysia.md)

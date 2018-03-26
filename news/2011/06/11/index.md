@@ -21,7 +21,7 @@ Entertainment legend Bruce Forsyth is knighted in a list which also recognises O
 
 ##### South Korea
 ### [South Korea welcomes the return of ancient Korean royal books looted by French troops in 1866, during an invasion of Ganghwa Island in retaliation for Koreans' persecution of French Catholic missionaries. ](/news/2011/06/11/south-korea-welcomes-the-return-of-ancient-korean-royal-books-looted-by-french-troops-in-1866-during-an-invasion-of-ganghwa-island-in-retal.md)
-_Context: France, South Korea, ancient Korean royal books_
+_Context: French, South Korea, ancient Korean royal books_
 
 ##### Civil war
 ### [2011 Libyan civil war: Rebels make further gains west of Tripoli, battling in Zawiya just 30 miles from the capital. ](/news/2011/06/11/2011-libyan-civil-war-rebels-make-further-gains-west-of-tripoli-battling-in-zawiya-just-30-miles-from-the-capital.md)
@@ -33,7 +33,7 @@ _Context: 2011 Yemeni uprising, Ali Abdullah Saleh, President, Yemen_
 
 ##### Fazul Abdullah Mohammed
 ### [Fazul Abdullah Mohammed, mastermind of the 1998 United States embassy bombings in Kenya and Tanzania, is killed in Somalia. ](/news/2011/06/11/fazul-abdullah-mohammed-mastermind-of-the-1998-united-states-embassy-bombings-in-kenya-and-tanzania-is-killed-in-somalia.md)
-_Context: 1998 United States embassy bombings, Fazul Abdullah Mohammed, Kenya, Somali, Tanzania_
+_Context: 1998 United States embassy bombings, Fazul Abdullah Mohammed, Kenya, Somalia, Tanzania_
 
 ##### 2011 Bahraini protests
 ### [2011 Bahraini protests: More than 10,000 people join an opposition rally for the first time in months calling for reform. ](/news/2011/06/11/2011-bahraini-protests-more-than-10-000-people-join-an-opposition-rally-for-the-first-time-in-months-calling-for-reform.md)

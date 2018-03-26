@@ -45,7 +45,7 @@ _Context: 2011 Pacific typhoon season, Philippines_
 
 ##### United Nations
 ### [The United Nations World Food Programme prepares an airlift to Mogadishu in Somalia to help relieve the 2011 Horn of Africa famine. ](/news/2011/07/27/the-united-nations-world-food-programme-prepares-an-airlift-to-mogadishu-in-somalia-to-help-relieve-the-2011-horn-of-africa-famine.md)
-_Context: Mogadishu, Somali, United Nations, World Food Programme, famine_
+_Context: Mogadishu, Somalia, United Nations, World Food Programme, famine_
 
 ##### Landslide
 ### [Seventeen people are killed in landslides in South Korea caused by heavy rain including eight in the town of Chuncheon. ](/news/2011/07/27/seventeen-people-are-killed-in-landslides-in-south-korea-caused-by-heavy-rain-including-eight-in-the-town-of-chuncheon.md)

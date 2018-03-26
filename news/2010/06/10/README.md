@@ -55,9 +55,9 @@ Seven former British soldiers are suing an American defence firm, accusing it of
 ### [Russia announces plans to sell Iran S-300 ground-to-air missiles, stating that the new United Nations sanctions do not cover stationary air defense weaponry. ](/news/2010/06/10/russia-announces-plans-to-sell-iran-s-300-ground-to-air-missiles-stating-that-the-new-united-nations-sanctions-do-not-cover-stationary-air.md)
 Foreign Ministry responds to report saying new UN sanctions resolution caused Russian arms industry to renege on sale of S-300 system. &#39;Defense systems not included in resolution,&#39; says ministry spokesman
 
-##### German
+##### Germany
 ### [A group of German Jews prepare to send a ship with humanitarian aid to the blockaded Gaza Strip. ](/news/2010/06/10/a-group-of-german-jews-prepare-to-send-a-ship-with-humanitarian-aid-to-the-blockaded-gaza-strip.md)
-_Context: Gaza Strip, German, Jew_
+_Context: Gaza Strip, Germany, Jew_
 
 ##### Obama administration
 ### [The Obama administration announces that BP will speed up claims payments stemming from the massive Gulf oil spill, to fishermen, property owners and businesspeople who have filed damage claims and are complaining of delays, excessive paperwork and inadequate compensation. ](/news/2010/06/10/the-obama-administration-announces-that-bp-will-speed-up-claims-payments-stemming-from-the-massive-gulf-oil-spill-to-fishermen-property-ow.md)

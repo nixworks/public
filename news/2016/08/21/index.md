@@ -25,7 +25,7 @@ _Context: Gaziantep bombing, Islamic State in Iraq and the Levant_
 
 ##### War in Somalia (2009-present)
 ### [An al-Shabaab suicide car bomb kills at least 20 people in the town of Galkayo in Somalia's semi-autonomous Puntland region. ](/news/2016/08/21/an-al-shabaab-suicide-car-bomb-kills-at-least-20-people-in-the-town-of-galkayo-in-somalia-s-semi-autonomous-puntland-region.md)
-_Context: Al-Shabab, Galkayo, Puntland, Somali, War in Somalia (2009-present)_
+_Context: Al-Shabab, Galkayo, Puntland, Somalia, War in Somalia (2009-present)_
 
 ## [Previous Day...](/news/2016/08/20/index.md)
 

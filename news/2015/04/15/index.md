@@ -35,9 +35,9 @@ ISTANBUL — Turkey was on the defensive Wednesday, lashing out at both Pope Fra
 ### [Benjamin Netanyahu demands that any final agreement on the Iranian nuclear program include a "clear and unambiguous Iranian recognition of Israel's right to exist." ](/news/2015/04/15/benjamin-netanyahu-demands-that-any-final-agreement-on-the-iranian-nuclear-program-include-a-clear-and-unambiguous-iranian-recognition-of-i.md)
 _Context: Benjamin Netanyahu, agreement on the Iranian nuclear program_
 
-##### European Union
+##### EU
 ### [The European Union formally charges Google with antitrust breaches. ](/news/2015/04/15/the-european-union-formally-charges-google-with-antitrust-breaches.md)
-_Context: European Union, Google_
+_Context: EU, Google_
 
 ##### Nokia
 ### [Nokia announces plans to buy telecommunications equipment maker Alcatel-Lucent for EUR15.6 billion (US$16.6 billion). ](/news/2015/04/15/nokia-announces-plans-to-buy-telecommunications-equipment-maker-alcatel-lucent-for-a-15-6-billion-us-16-6-billion.md)

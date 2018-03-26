@@ -11,7 +11,7 @@ _Context: Anti-Islamism, Muslim, Opposition to immigration, refugee immigration 
 ### [The Vatican commission on sexual abuse announces that Peter Saunders, a sexual abuse survivor from the U.K., is suspended from commission proceedings. "I am not leaving my position," Saunders said, adding only the person who appointed him, the Pope, can dismiss him. ](/news/2016/02/6/the-vatican-commission-on-sexual-abuse-announces-that-peter-saunders-a-sexual-abuse-survivor-from-the-u-k-is-suspended-from-commission-pr.md)
 Outspoken member of commission refuses to step down, brands investigation a &lsquo;disgrace&rsquo; VATICAN CITY &mdash; A prominent and outspoken British member of a papal advisory commission on sexual abuse by the clergy yesterday refused to step down despite a no-confidence vote, and said only Po
 
-##### Twitter
+##### Tweeting
 ### [Twitter claims to have closed down 125,000 accounts linked to ISIL. ](/news/2016/02/6/twitter-claims-to-have-closed-down-125-000-accounts-linked-to-isil.md)
 Twitter has shut down more than 125,000 terrorism-related accounts since the middle of 2015, the social media network says.
 

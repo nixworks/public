@@ -47,7 +47,7 @@ Lebanon, Jordan, Israel, Syria and Iraq all hit by deadly sandstorm that is expe
 ### [Jeff Smisek resigns as CEO of United Airlines due to allegations that he tried to improperly influence officials at the Port Authority of New York and New Jersey. ](/news/2015/09/8/jeff-smisek-resigns-as-ceo-of-united-airlines-due-to-allegations-that-he-tried-to-improperly-influence-officials-at-the-port-authority-of-ne.md)
 United Continental CEO Jeff Smisek and two top lieutenants stepped down as the result of a federal investigation into the airline’s relationship with the former chairman of the Port Authority of New York and New Jersey.
 
-##### German
+##### Germany
 ### [German airline Lufthansa cancels 84 long-haul flights as pilots go on strike over a proposed restructure plan. ](/news/2015/09/8/german-airline-lufthansa-cancels-84-long-haul-flights-as-pilots-go-on-strike-over-a-proposed-restructure-plan.md)
 Deutsche Lufthansa AG pilots will resume striking Tuesday, almost six months after walkouts over cost cuts were halted as management and unions came together in the wake of a deadly crash at the company’s Germanwings arm.
 

@@ -27,9 +27,9 @@ Morocco will close 1,256 unsafe mosques to avoid a repeat of the collapse of a m
 ### [Guatemala issues arrest warrants for 18 former senior officials and policemen who killed 7 prisoners in 2006. ](/news/2010/08/10/guatemala-issues-arrest-warrants-for-18-former-senior-officials-and-policemen-who-killed-7-prisoners-in-2006.md)
 Guatemalan authorities order the arrest of former officials and policemen over alleged extra-judicial killings of prisoners in 2006.
 
-##### Saudi
+##### Saudi Arabia
 ### [Saudi Arabia permits the use of Blackberry devices for now, having previously considering banning them as they were unable to intercept and decrypt communications on that platform. ](/news/2010/08/10/saudi-arabia-permits-the-use-of-blackberry-devices-for-now-having-previously-considering-banning-them-as-they-were-unable-to-intercept-and.md)
-_Context: Blackberry, Saudi_
+_Context: Blackberry, Saudi Arabia_
 
 ##### Mexican Supreme Court
 ### [The Supreme Court of Justice of the Nation rules same-sex marriages in Mexico City have to be recognised across Mexico. ](/news/2010/08/10/the-supreme-court-of-justice-of-the-nation-rules-same-sex-marriages-in-mexico-city-have-to-be-recognised-across-mexico.md)

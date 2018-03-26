@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/25/south-korea-and-the-united-states-reach-agreeme
 
 ### [2018-03-25](/news/2018/03/25/index.md)
 
-##### South Korea-United States relations
+##### Trump tariffs
 # South Korea and the United States reach agreements on trade and steel tariffs. 
 
 The U.S. and South Korea reached an agreement on revising the allies’s six-year-old bilateral trade deal and President Donald Trump’s plan to impose tariffs on imported steel, Treasury Secretary Steven Mnuchin said.
@@ -21,8 +21,8 @@ The U.S. and South Korea reached an agreement on revising the allies’s six-yea
 
 ### Related:
 
-1. [South Korea states that North Korea is willing to hold talks with the United States on denuclearization on the Korean Peninsula. ](/news/2018/03/6/south-korea-states-that-north-korea-is-willing-to-hold-talks-with-the-united-states-on-denuclearization-on-the-korean-peninsula.md) _Context: South Korea, United States_
-2. [South Korea and the United States announce that the Foal Eagle and Key Resolve military drills will start on April 1 and last for four weeks. ](/news/2018/03/20/south-korea-and-the-united-states-announce-that-the-foal-eagle-and-key-resolve-military-drills-will-start-on-april-1-and-last-for-four-weeks.md) _Context: South Korea, United States_
-3. [Delegations from North Korea, South Korea, and the United States meet in the outskirts of Helsinki, Finland. ](/news/2018/03/20/delegations-from-north-korea-south-korea-and-the-united-states-meet-in-the-outskirts-of-helsinki-finland.md) _Context: South Korea, United States_
-4. [South Korea and the United States launch their largest-ever annual joint aerial drill. ](/news/2017/12/4/south-korea-and-the-united-states-launch-their-largest-ever-annual-joint-aerial-drill.md) _Context: South Korea, United States_
-5. [Teams of United States-based researchers, composed of American, Chinese and South Korean scientists, successfully edit a piece of faulty DNA that causes a deadly form of heart disease from cells in human embryos. ](/news/2017/08/2/teams-of-united-states-based-researchers-composed-of-american-chinese-and-south-korean-scientists-successfully-edit-a-piece-of-faulty-dna.md) _Context: South Korea, United States_
+1. [South Korea and the United States announce that the Foal Eagle and Key Resolve military drills will start on April 1 and last for four weeks. ](/news/2018/03/20/south-korea-and-the-united-states-announce-that-the-foal-eagle-and-key-resolve-military-drills-will-start-on-april-1-and-last-for-four-weeks.md) _Context: South Korea, South Korea-United States relations, United States_
+2. [A South Korean adviser says it is "impossible" for South Korea to purchase the THAAD missile complex since control of its operation would remain with the United States. The remarks come after United States president Donald Trump suggested that South Korea pay for the $1 billion system. ](/news/2017/04/27/a-south-korean-adviser-says-it-is-impossible-for-south-korea-to-purchase-the-thaad-missile-complex-since-control-of-its-operation-would-re.md) _Context: South Korea, South Korea-United States relations, United States_
+3. [The United States begins deploying the Terminal High Altitude Area Defense (THAAD) missile defense system in South Korea. ](/news/2017/03/7/the-united-states-begins-deploying-the-terminal-high-altitude-area-defense-thaad-missile-defense-system-in-south-korea.md) _Context: South Korea, South Korea-United States relations, United States_
+4. [American and South Korean military officials agree to deploy a U.S. Terminal High Altitude Area Defense (THAAD) missile defense system in the country to counter North Korea's growing threats and use of ballistic missile and nuclear tests. ](/news/2016/07/8/american-and-south-korean-military-officials-agree-to-deploy-a-u-s-terminal-high-altitude-area-defense-thaad-missile-defense-system-in-th.md) _Context: South Korea, South Korea-United States relations, United States_
+5. [South Korea and the United States start a joint military exercise as North Korea repeats threats of "indiscriminate" nuclear strikes. ](/news/2016/03/7/south-korea-and-the-united-states-start-a-joint-military-exercise-as-north-korea-repeats-threats-of-indiscriminate-nuclear-strikes.md) _Context: South Korea, South Korea-United States relations, United States_

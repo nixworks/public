@@ -51,7 +51,7 @@ _Context: Kenya, head to the polls, the new constitution_
 ### [A prostitute informs Prime Minister of Italy Silvio Berlusconi's corruption inquiry that she received presents after he shared a bed with her and two others. ](/news/2010/08/3/a-prostitute-informs-prime-minister-of-italy-silvio-berlusconi-s-corruption-inquiry-that-she-received-presents-after-he-shared-a-bed-with-he.md)
 _Context: Prime Minister of Italy, Silvio Berlusconi_
 
-##### Saudi
+##### Saudi Arabia
 ### [Saudi Arabia announces it is to commence a ban on the "messenger function" on BlackBerry handsets from Friday due to security concerns over the Research In Motion (RIM) technological device. ](/news/2010/08/3/saudi-arabia-announces-it-is-to-commence-a-ban-on-the-messenger-function-on-blackberry-handsets-from-friday-due-to-security-concerns-over.md)
 The authorities in Saudi Arabia tell telecoms firms to block the messenger function on Blackberry handsets from Friday.
 
@@ -81,7 +81,7 @@ _Context: Brazil, Iran, Sakineh Mohammadi Ashtiani, asylum_
 
 ##### Zimbabwe
 ### [Zimbabwe requests apologies from American, German and European Union envoys who walked out of the burial ceremony for President Robert Mugabe's sister; they refuse to apologise. ](/news/2010/08/3/zimbabwe-requests-apologies-from-american-german-and-european-union-envoys-who-walked-out-of-the-burial-ceremony-for-president-robert-mugab.md)
-_Context: European Union, German, President of Zimbabwe, Robert Mugabe, United States, Zimbabwe, burial ceremony_
+_Context: EU, Germany, President of Zimbabwe, Robert Mugabe, United States, Zimbabwe, burial ceremony_
 
 ##### President
 ### [President of Pakistan Asif Ali Zardari arrives in the United Kingdom upon a five-day visit as the two countries disagree over David Cameron's remarks on "the export of terror". ](/news/2010/08/3/president-of-pakistan-asif-ali-zardari-arrives-in-the-united-kingdom-upon-a-five-day-visit-as-the-two-countries-disagree-over-david-cameron.md)
@@ -145,7 +145,7 @@ Nine&#x20;people&#x20;were&#x20;killed&#x20;in&#x20;the&#x20;US&#x20;state&#x20;
 
 ##### Taliban
 ### [A battle erupts as the Taliban attacks the Kandahar Air Field, the main NATO base in southern Afghanistan. The battle lasts an hour, after which the Taliban flee. ](/news/2010/08/3/a-battle-erupts-as-the-taliban-attacks-the-kandahar-air-field-the-main-nato-base-in-southern-afghanistan-the-battle-lasts-an-hour-after-w.md)
-_Context: Afghan, Kandahar Air Field, NATO, Taliban_
+_Context: Afghanistan, Kandahar Air Field, NATO, Taliban_
 
 ##### Baghdad
 ### [At least 5 police officers are shot dead at a checkpoint in Baghdad, Iraq. ](/news/2010/08/3/at-least-5-police-officers-are-shot-dead-at-a-checkpoint-in-baghdad-iraq.md)

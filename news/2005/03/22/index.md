@@ -23,9 +23,9 @@ _Context: India, bank, strike_
 ### [ In Italy, the Council of State allows Alessandra Mussolini to stand in elections. ](/news/2005/03/22/in-italy-the-council-of-state-allows-alessandra-mussolini-to-stand-in-elections.md)
 _Context: Alessandra Mussolini, Italy_
 
-##### German
+##### Germany
 ### [ German airline Lufthansa announces its takeover of Swiss Airlines. ](/news/2005/03/22/german-airline-lufthansa-announces-its-takeover-of-swiss-airlines.md)
-_Context: German, Lufthansa, Swiss Airlines_
+_Context: Germany, Lufthansa, Swiss Airlines_
 
 ##### United Nations
 ### [ United Nations declares World Water Day, starting a decade-long Water for Life campaign for clean water. ](/news/2005/03/22/united-nations-declares-world-water-day-starting-a-decade-long-water-for-life-campaign-for-clean-water.md)

@@ -33,7 +33,7 @@ _Context: Airbus A340, Barajas International Airport, Costa Rica, Iberia airline
 
 ##### Caritas International
 ### [A fire at a Caritas International workshop for the disabled in Titisee-Neustadt, Baden-Wurttemberg, Germany, kills at least 14 and injures several others. ](/news/2012/11/26/a-fire-at-a-caritas-international-workshop-for-the-disabled-in-titisee-neustadt-baden-wa1-4rttemberg-germany-kills-at-least-14-and-injures.md)
-_Context: Baden-Wurttemberg, Caritas International, German, Titisee-Neustadt_
+_Context: Baden-Wurttemberg, Caritas International, Germany, Titisee-Neustadt_
 
 ##### Paraguayan President
 ### [President of Paraguay Federico Franco announces that his country will become an oil producing nation, after a recent discovery in the Chaco region, close to the border with Argentina. ](/news/2012/11/26/president-of-paraguay-federico-franco-announces-that-his-country-will-become-an-oil-producing-nation-after-a-recent-discovery-in-the-chaco.md)

@@ -3,9 +3,9 @@ Formats: [HTML](2013/09/22/index.html)  [JSON](2013/09/22/index.json)  [XML](201
 
 ## [2013-09-22](/news/2013/09/22/index.md)
 
-##### German
+##### Germany
 ### [Voters in Germany go to the polls for a federal election, with Chancellor Angela Merkel's Christian Democratic Union achieving its highest vote since 1990. ](/news/2013/09/22/voters-in-germany-go-to-the-polls-for-a-federal-election-with-chancellor-angela-merkel-s-christian-democratic-union-achieving-its-highest-v.md)
-_Context: Angela Merkel, Chancellor of Germany, Christian Democratic Union, German, federal election_
+_Context: Angela Merkel, Chancellor of Germany, Christian Democratic Union, Germany, federal election_
 
 ##### Chinese
 ### [A Chinese court finds former senior politician Bo Xilai guilty of bribery, embezzlement and abuse of power and sentences him to life imprisonment. ](/news/2013/09/22/a-chinese-court-finds-former-senior-politician-bo-xilai-guilty-of-bribery-embezzlement-and-abuse-of-power-and-sentences-him-to-life-impriso.md)

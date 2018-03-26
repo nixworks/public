@@ -37,7 +37,7 @@ The Oscars 2016 will air on Sunday, Feb. 28, at 8:30 p.m. EST — find out how t
 
 ##### War in Somalia (2009-present)
 ### [Two al-Shabaab suicide bombers kill at least 40 people in the Somali town of Baidoa. ](/news/2016/02/28/two-al-shabaab-suicide-bombers-kill-at-least-40-people-in-the-somali-town-of-baidoa.md)
-_Context: Al-Shabab, Baidoa, Somali, War in Somalia (2009-present)_
+_Context: Al-Shabab, Baidoa, Somalia, War in Somalia (2009-present)_
 
 ##### Iraqi Civil War (2014-present)
 ### [Two suicide bombers kill 70 people and injure more than 100 others at a crowded market in Sadr City, Iraq. ISIL claims responsibility for the attack. ](/news/2016/02/28/two-suicide-bombers-kill-70-people-and-injure-more-than-100-others-at-a-crowded-market-in-sadr-city-iraq-isil-claims-responsibility-for-th.md)

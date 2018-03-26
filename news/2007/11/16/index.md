@@ -39,9 +39,9 @@ _Context: OSCE, parliamentary elections, visa_
 ### [ Turkish prosecutors ask the Constitutional Court to ban the Kurdish Democratic Society Party, claiming it has links to the outlawed Kurdistan Workers Party. ](/news/2007/11/16/turkish-prosecutors-ask-the-constitutional-court-to-ban-the-kurdish-democratic-society-party-claiming-it-has-links-to-the-outlawed-kurdist.md)
 _Context: Constitutional Court of Turkey, Democratic Society Party, Kurdistan Workers Party, Turkey, prosecutor_
 
-##### German
+##### Germany
 ### [ The German train driver strike enters its third day. ](/news/2007/11/16/the-german-train-driver-strike-enters-its-third-day.md)
-_Context: German, strike, train driver_
+_Context: Germany, strike, train driver_
 
 ##### United Nations
 ### [ United Nations Secretary-General Ban Ki-moon holds talks with Lebanese political leaders, trying to break an impasse over the election of the next President. ](/news/2007/11/16/united-nations-secretary-general-ban-ki-moon-holds-talks-with-lebanese-political-leaders-trying-to-break-an-impasse-over-the-election-of-t.md)
@@ -51,13 +51,13 @@ _Context: Ban Ki-moon, Lebanese, President of Lebanon, United Nations, United Na
 ### [ The International Criminal Tribunal for Rwanda sentences Juvnal Rugambarara, the former mayor of Bicumbi, to 11 years in jail for crimes he committed during the Rwandan Genocide. ](/news/2007/11/16/the-international-criminal-tribunal-for-rwanda-sentences-juvenal-rugambarara-the-former-mayor-of-bicumbi-to-11-years-in-jail-for-crimes-h.md)
 _Context: Bicumbi, International Criminal Tribunal for Rwanda, Juvnal Rugambarara, Rwandan Genocide, mayor_
 
-##### German
+##### Germany
 ### [ German architect Heike Hanada of Weimar wins the international competition for extending the Stockholm Public Library. ](/news/2007/11/16/german-architect-heike-hanada-of-weimar-wins-the-international-competition-for-extending-the-stockholm-public-library.md)
-_Context: German, Heike Hanada, Weimar, architect, central library, competition_
+_Context: Germany, Heike Hanada, Weimar, architect, central library, competition_
 
 ##### Public-sector strikes
 ### [ Strikes in France: French train drivers' strike against President Nicolas Sarkozy's pension reform enters its third day. ](/news/2007/11/16/strikes-in-france-french-train-drivers-strike-against-president-nicolas-sarkozy-s-pension-reform-enters-its-third-day.md)
-_Context: France, Nicolas Sarkozy, President of France, pension reform, public-sector strikes, strike, train driver_
+_Context: French, Nicolas Sarkozy, President of France, pension reform, public-sector strikes, strike, train driver_
 
 ##### President of Georgia
 ### [ President Mikheil Saakashvili lifts the state of emergency that was imposed on November 6. ](/news/2007/11/16/president-mikheil-saakashvili-lifts-the-state-of-emergency-that-was-imposed-on-november-6.md)

@@ -17,7 +17,7 @@ _Context: Central African Republic, Chad, Sudan_
 
 ##### President
 ### [ President of Turkmenistan "Turkmenbashi" Saparmurat Niyazov schedules a second eye operation in Germany in January amid rumors that his health is poor. President Niyazov cannot be operated on in Turkmenistan because earlier this year he signed a decree that closed all hospitals outside of Ashgabat and replaced most healthcare staff with soldiers. ](/news/2006/11/18/president-of-turkmenistan-turkmenbashi-saparmurat-niyazov-schedules-a-second-eye-operation-in-germany-in-january-amid-rumors-that-his-hea.md)
-_Context: Ashgabat, German, Saparmurat Niyazov, Turkmenistan, president_
+_Context: Ashgabat, Germany, Saparmurat Niyazov, Turkmenistan, president_
 
 ## [Previous Day...](/news/2006/11/17/index.md)
 

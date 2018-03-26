@@ -35,9 +35,9 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 ### [ The BNFL nuclear plant at Sellafield, in the United Kingdom, reports that 30 kg (66 lb) of plutonium is "unaccounted for". This amount of missing plutonium would be sufficient to make seven atomic bombs. The UK Atomic Energy Authority states that the discrepancy in the record keeping is merely an auditing issue, and that there was no "real loss" of plutonium. ](/news/2005/02/17/the-bnfl-nuclear-plant-at-sellafield-in-the-united-kingdom-reports-that-30-kg-66-lb-of-plutonium-is-unaccounted-for-this-amount-of-m.md)
 News and opinion from The Times &amp; The Sunday Times
 
-##### European Union
+##### EU
 ### [ The European Union introduces new laws that increase the rights of air passengers so that they receive higher compensation for overbooking, delays and cancellation of flights. ](/news/2005/02/17/the-european-union-introduces-new-laws-that-increase-the-rights-of-air-passengers-so-that-they-receive-higher-compensation-for-overbooking.md)
-_Context: European Union, overbooking_
+_Context: EU, overbooking_
 
 ##### Chubu Centrair International Airport
 ### [ Japan's Chubu Centrair International Airport opens on Ise Bay, south of Nagoya. Built on an artificial island, the airport is Japan's third largest international passenger airport, and is intended to replace nearby Nagoya Airport. ](/news/2005/02/17/japan-s-chubu-centrair-international-airport-opens-on-ise-bay-south-of-nagoya-built-on-an-artificial-island-the-airport-is-japan-s-third.md)

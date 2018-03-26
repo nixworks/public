@@ -3,9 +3,9 @@ Formats: [HTML](2009/03/31/index.html)  [JSON](2009/03/31/index.json)  [XML](200
 
 ## [2009-03-31](/news/2009/03/31/index.md)
 
-##### Somali
+##### Somalia
 ### [ Seven Somali pirates are captured after mistakenly attacking the German Navy's FGS "Spessart" in the Gulf of Aden. ](/news/2009/03/31/seven-somali-pirates-are-captured-after-mistakenly-attacking-the-german-navy-s-fgs-spessart-in-the-gulf-of-aden.md)
-_Context: ''Spessart'', FGS, German, German navies, Gulf of Aden, Somali, Somali pirates_
+_Context: ''Spessart'', FGS, German navies, Germany, Gulf of Aden, Somali pirates, Somalia_
 
 ##### Taliban
 ### [ The Taliban's Students' Movement claims responsibility for an attack on a police academy in Lahore, Pakistan. ](/news/2009/03/31/the-taliban-s-students-movement-claims-responsibility-for-an-attack-on-a-police-academy-in-lahore-pakistan.md)

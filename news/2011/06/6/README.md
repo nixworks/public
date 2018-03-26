@@ -9,15 +9,15 @@ _Context: Austan Goolsbee, Council of Economic Advisers, U.S. President_
 
 ##### United States House of Representatives
 ### [U.S. House Representative Anthony Weiner of New York admits sending a risqu picture of himself to a college student on Twitter. ](/news/2011/06/6/u-s-house-representative-anthony-weiner-of-new-york-admits-sending-a-risque-picture-of-himself-to-a-college-student-on-twitter.md)
-_Context: Anthony Weiner, New York, Twitter, United States House of Representatives_
+_Context: Anthony Weiner, New York, United States House of Representatives, tweeting_
 
 ##### Ollanta Humala
 ### [Ollanta Humala is elected President of Peru in the Peruvian general election, defeating opposition leader Keiko Fujimori. ](/news/2011/06/6/ollanta-humala-is-elected-president-of-peru-in-the-peruvian-general-election-defeating-opposition-leader-keiko-fujimori.md)
 _Context: Keiko Fujimori, Ollanta Humala, Peruvian general election, President_
 
-##### France
+##### French
 ### [France announces that it will stop teaching indigenous languages in schools in all of its Overseas departments and territories of France. ](/news/2011/06/6/france-announces-that-it-will-stop-teaching-indigenous-languages-in-schools-in-all-of-its-overseas-departments-and-territories-of-france.md)
-_Context: France, Overseas departments and territories of France, indigenous language_
+_Context: French, Overseas departments and territories of France, indigenous language_
 
 ##### House of Representatives
 ### [The outgoing speaker of the House of Representatives in Nigeria, Dimeji Bankole, is arrested on fraud charges. ](/news/2011/06/6/the-outgoing-speaker-of-the-house-of-representatives-in-nigeria-dimeji-bankole-is-arrested-on-fraud-charges.md)
@@ -51,9 +51,9 @@ The Government should set up a statutory investigation into allegations of tortu
 ### [The "People's Daily", a Chinese stated-owned newspaper, accuses Internet search engine giant Google of becoming a "political tool" after it claimed that computer hacking aimed at it came from China. ](/news/2011/06/6/the-people-s-daily-a-chinese-stated-owned-newspaper-accuses-internet-search-engine-giant-google-of-becoming-a-political-tool-after-it.md)
 _Context: Google, Internet, People's Daily, hacker, search engine_
 
-##### European Union
+##### EU
 ### [A European Union delegation visits North Korea to investigate claims of food shortages. ](/news/2011/06/6/a-european-union-delegation-visits-north-korea-to-investigate-claims-of-food-shortages.md)
-_Context: European Union, North Korea_
+_Context: EU, North Korea_
 
 ##### Banjarmasin
 ### [At least seventeen people are dead and another 15 remain missing after a speedboat sinks in Banjarmasin, the capital of the Indonesian province of South Kalimantan. ](/news/2011/06/6/at-least-seventeen-people-are-dead-and-another-15-remain-missing-after-a-speedboat-sinks-in-banjarmasin-the-capital-of-the-indonesian-provi.md)
@@ -63,9 +63,9 @@ _Context: Banjarmasin, Indonesia, South Kalimantan_
 ### [Residents of three Western United States towns - Springerville, Arizona, Eagar, Arizona and Luna, New Mexico - are warned to prepare for evacuation ahead of the Wallow Fire. one of the biggest in Arizona history. ](/news/2011/06/6/residents-of-three-western-united-states-towns-springerville-arizona-eagar-arizona-and-luna-new-mexico-are-warned-to-prepare-for-eva.md)
 The Apache County Sheriff&rsquo;s Office has issued a mandatory evacuation order for Greer, Arizona.
 
-##### German
+##### Germany
 ### [Test results will confirm whether the German "E. Coli" outbreak came from vegetable sprouts grown in the Uelzen area. ](/news/2011/06/6/test-results-will-confirm-whether-the-german-e-coli-outbreak-came-from-vegetable-sprouts-grown-in-the-uelzen-area.md)
-_Context: E. coli blamed for 46 deaths, German, Uelzen_
+_Context: E. coli blamed for 46 deaths, Germany, Uelzen_
 
 ##### Coal mine
 ### [At least 21 people die as two coal mines in the People's Republic of China flood. ](/news/2011/06/6/at-least-21-people-die-as-two-coal-mines-in-the-people-s-republic-of-china-flood.md)

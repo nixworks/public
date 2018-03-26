@@ -17,7 +17,7 @@ _Context: Chilpancingo, Guerrero, Mexico, earthquake, magnitude_
 
 ##### Yemen
 ### [ Yemen's military rescues four oil tankers from Somali pirates. ](/news/2009/04/27/yemen-s-military-rescues-four-oil-tankers-from-somali-pirates.md)
-_Context: Somali, Somali pirates, Yemen, Yemeni, oil tanker_
+_Context: Somali pirates, Somalia, Yemen, Yemeni, oil tanker_
 
 ##### Japan
 ### [ Japan's NEC Corporation and Renesas Technology announce their intentions to merge. ](/news/2009/04/27/japan-s-nec-corporation-and-renesas-technology-announce-their-intentions-to-merge.md)

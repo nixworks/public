@@ -31,7 +31,7 @@ _Context: DR Congo, crimes against humanity_
 
 ##### Tunisia
 ### [Tunisia asks Saudi Arabia to extradite former President Zine El Abidine Ben Ali who was ousted in January. ](/news/2011/02/21/tunisia-asks-saudi-arabia-to-extradite-former-president-zine-el-abidine-ben-ali-who-was-ousted-in-january.md)
-_Context: Saudi, Tunisia, Zine El Abidine Ben Ali_
+_Context: Saudi Arabia, Tunisia, Zine El Abidine Ben Ali_
 
 ##### Mali
 ### [At least thirty people are killed in a stampede at a Mali stadium following a sermon by a leading Muslim imam. ](/news/2011/02/21/at-least-thirty-people-are-killed-in-a-stampede-at-a-mali-stadium-following-a-sermon-by-a-leading-muslim-imam.md)
@@ -69,9 +69,9 @@ _Context: Pakistan, South Waziristan_
 ### [An excavation begins at the Tokyo site of Unit 731, a covert Imperial Japanese Army biological and chemical warfare site that conducted human experimentation. ](/news/2011/02/21/an-excavation-begins-at-the-tokyo-site-of-unit-731-a-covert-imperial-japanese-army-biological-and-chemical-warfare-site-that-conducted-huma.md)
 _Context: Imperial Japanese Army, Unit 731, biological, chemical warfare, human experimentation_
 
-##### Somali
+##### Somalia
 ### [A car bomb attack in Somalia kills 13 people. ](/news/2011/02/21/a-car-bomb-attack-in-somalia-kills-13-people.md)
-_Context: Somali_
+_Context: Somalia_
 
 ##### Libyan Civil War
 ### [2011 Libyan Civil War:The Libyan Air Force launches airstrikes on crowds of protesters. Two civilian helicopters carrying French nationals and two Libyan Mirage jets land in Malta. The Libyan pilots claim that they received orders to bomb protesters, and request political asylum. ](/news/2011/02/21/2011-libyan-civil-war-the-libyan-air-force-launches-airstrikes-on-crowds-of-protesters-two-civilian-helicopters-carrying-french-nationals-a.md)

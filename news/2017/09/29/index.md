@@ -37,7 +37,7 @@ Twenty-two were killed and over 30 seriously injured in a rush-hour stampede in 
 
 ##### War in Somalia
 ### [Al-Shabaab militants attack a military base outside the Somalian capital Mogadishu, with 15 soldiers reported dead. ](/news/2017/09/29/al-shabaab-militants-attack-a-military-base-outside-the-somalian-capital-mogadishu-with-15-soldiers-reported-dead.md)
-_Context: Al-Shabab, Mogadishu, Somali, Somali military, War in Somalia_
+_Context: Al-Shabab, Mogadishu, Somali military, Somalia, War in Somalia_
 
 ## [Previous Day...](/news/2017/09/28/index.md)
 

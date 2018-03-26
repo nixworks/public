@@ -9,7 +9,7 @@ _Context: Bangkok, yellow shirt_
 
 ##### Human Rights Watch
 ### [ Human Rights Watch says Somalia is "most ignored tragedy" and the international community has "completely failed Somali civilians" regarding destruction of Mogadishu. ](/news/2008/10/6/human-rights-watch-says-somalia-is-most-ignored-tragedy-and-the-international-community-has-completely-failed-somali-civilians-regardin.md)
-_Context: Human Rights Watch, Mogadishu, Somali_
+_Context: Human Rights Watch, Mogadishu, Somalia_
 
 ##### Russia
 ### [ U.S. to rely on Russia for manned space flights between 2010 and 2015. ](/news/2008/10/6/u-s-to-rely-on-russia-for-manned-space-flights-between-2010-and-2015.md)
@@ -33,7 +33,7 @@ Stocks slid for a fourth straight day on Monday, leaving the Dow below 10,000 fo
 
 ##### Nobel Prize in Physiology or Medicine
 ### [ The 2008 Nobel Prize in Physiology or Medicine goes to Harald zur Hausen of Germany for his discovery of the human papilloma viruses that can cause cervical cancer in women, and Francoise Barre-Sinoussi and Luc Montagnier of France for their discovery of human immunodeficiency virus, or HIV. ](/news/2008/10/6/the-2008-nobel-prize-in-physiology-or-medicine-goes-to-harald-zur-hausen-of-germany-for-his-discovery-of-the-human-papilloma-viruses-that-c.md)
-_Context: France, Francoise Barre-Sinoussi, German, HIV, Harald zur Hausen, Luc Montagnier, Nobel Prize in Physiology or Medicine, cervical cancer, human immunodeficiency virus, papilloma virus_
+_Context: Francoise Barre-Sinoussi, French, Germany, HIV, Harald zur Hausen, Luc Montagnier, Nobel Prize in Physiology or Medicine, cervical cancer, human immunodeficiency virus, papilloma virus_
 
 ##### Another earthquake
 ### [ Another earthquake of magnitude 6.4, with two magnitude-5 aftershocks, hits Damxung, Tibet, People's Republic of China, with conflicting casualty reports anywhere from 9 to 30 deaths. ](/news/2008/10/6/another-earthquake-of-magnitude-6-4-with-two-magnitude-5-aftershocks-hits-damxung-tibet-people-s-republic-of-china-with-conflicting-ca.md)

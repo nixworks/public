@@ -89,7 +89,7 @@ _Context: Iran, Iranian government, protestors_
 
 ##### South Korea
 ### [South Korea will fly the bodies of eight Somali pirates killed in a commando raid on a freighter last month from Muscat, Oman, to Mogadishu, Somalia. ](/news/2011/02/16/south-korea-will-fly-the-bodies-of-eight-somali-pirates-killed-in-a-commando-raid-on-a-freighter-last-month-from-muscat-oman-to-mogadishu.md)
-_Context: Mogadishu, Muscat, Oman, Somali, Somali pirates, South Korea, freighter_
+_Context: Mogadishu, Muscat, Oman, Somali pirates, Somalia, South Korea, freighter_
 
 ## [Previous Day...](/news/2011/02/15/index.md)
 

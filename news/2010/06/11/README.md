@@ -51,7 +51,7 @@ _Context: Arizona, Eagar, Round Valley High School_
 ### [Pope Benedict XVI begs for forgiveness from God and from those who have been abused as children by priests. ](/news/2010/06/11/pope-benedict-xvi-begs-for-forgiveness-from-god-and-from-those-who-have-been-abused-as-children-by-priests.md)
 Pope Benedict made his humblest plea for forgiveness yet for the paedophile priest scandals that have shaken faith in the Roman Catholic Church.
 
-##### Afghan
+##### Afghanistan
 ### [At least 11 civilians and two US soldiers are killed in southern Afghanistan: 9 of the civilian deaths are in a roadside bomb on a minibus in Kandahar. ](/news/2010/06/11/at-least-11-civilians-and-two-us-soldiers-are-killed-in-southern-afghanistan-9-of-the-civilian-deaths-are-in-a-roadside-bomb-on-a-minibus-i.md)
 Thirteen people die in explosions as fighters step up attacks in southern Afghanistan.
 
@@ -85,7 +85,7 @@ Thousands flee homes in southern region as ethnic unrest leaves more than 600 wo
 
 ##### Academy Award
 ### [From Oscar-winning blockbusters to low-budget art-house and documentary films, the 13th Shanghai International Film Festival screens films for everyone. It will feature a retrospective of films by Woody Allen and John Woo, classic movies from Japan, Canada, Germany, Italy and Ireland, as well as new Chinese cinema. ](/news/2010/06/11/from-oscar-winning-blockbusters-to-low-budget-art-house-and-documentary-films-the-13th-shanghai-international-film-festival-screens-films-f.md)
-_Context: 13th, Academy Award, Canada, Chinese cinema, German, Ireland, Italy, Japan, John Woo, Shanghai International Film Festival, Woody Allen_
+_Context: 13th, Academy Award, Canada, Chinese cinema, Germany, Ireland, Italy, Japan, John Woo, Shanghai International Film Festival, Woody Allen_
 
 ## [Previous Day...](/news/2010/06/10/index.md)
 

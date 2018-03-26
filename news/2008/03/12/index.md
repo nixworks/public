@@ -19,13 +19,13 @@ _Context: David Paterson, Eliot Spitzer, Governor, March 17, New York, black_
 ### [ Chinese police fire tear gas to disperse protesters during the second day of demonstrations by Buddhist monks in Lhasa, Tibet demanding the region's independence. ](/news/2008/03/12/chinese-police-fire-tear-gas-to-disperse-protesters-during-the-second-day-of-demonstrations-by-buddhist-monks-in-lhasa-tibet-demanding-the.md)
 _Context: China, Lhasa, Tibet Autonomous Region, free Tibet_
 
-##### France
+##### French
 ### [ French Minister of Foreign Affairs Bernard Kouchner and his Swedish counterpart Carl Bildt pronounce their support for Serbian membership of the European Union. ](/news/2008/03/12/french-minister-of-foreign-affairs-bernard-kouchner-and-his-swedish-counterpart-carl-bildt-pronounce-their-support-for-serbian-membership-o.md)
-_Context: Bernard Kouchner, Carl Bildt, European Union, France, Minister of Foreign Affairs, Serbia, Sweden_
+_Context: Bernard Kouchner, Carl Bildt, EU, French, Minister of Foreign Affairs, Serbia, Sweden_
 
-##### France
+##### French
 ### [ The last French veteran of World War I, Lazare Ponticelli, an Italian immigrant who lied about his age to join the French Foreign Legion and fight in the trenches, dies at 110. ](/news/2008/03/12/the-last-french-veteran-of-world-war-i-lazare-ponticelli-an-italian-immigrant-who-lied-about-his-age-to-join-the-french-foreign-legion-an.md)
-_Context: First World War, France, French Foreign Legion, Italy, Lazare Ponticelli, trench, veteran_
+_Context: First World War, French, French Foreign Legion, Italy, Lazare Ponticelli, trench, veteran_
 
 ##### Southwest Airlines
 ### [ Southwest Airlines grounds 41 jets after the FAA discovers the airline failed to inspect its Boeing 737s for structural flaws during 2006 and 2007. ](/news/2008/03/12/southwest-airlines-grounds-41-jets-after-the-faa-discovers-the-airline-failed-to-inspect-its-boeing-737s-for-structural-flaws-during-2006-a.md)

@@ -85,7 +85,7 @@ _Context: Jiexiu, Shanxi province, Shuangbai County, Yunnan_
 
 ##### Xinhua
 ### [ Xinhua News Agency says China has rescued 25 sailors and the "De Xin Hai", the hijacked Chinese cargo ship, two months after they were seized off Somalia. ](/news/2009/12/28/xinhua-news-agency-says-china-has-rescued-25-sailors-and-the-de-xin-hai-the-hijacked-chinese-cargo-ship-two-months-after-they-were-seiz.md)
-_Context: China, Chinese, De Xin Hai, Somali, Xinhua_
+_Context: China, Chinese, De Xin Hai, Somalia, Xinhua_
 
 ##### Argentine
 ### [ Two Argentine men become the first gay couple to legally marry in Latin America at a civil ceremony. ](/news/2009/12/28/two-argentine-men-become-the-first-gay-couple-to-legally-marry-in-latin-america-at-a-civil-ceremony.md)

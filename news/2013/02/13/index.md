@@ -27,7 +27,7 @@ _Context: India, Maldives, Male, Mohamed Nasheed, President of the Maldives_
 ### [The International Atomic Energy Agency begins a new round of talks with Iran over their nuclear program. ](/news/2013/02/13/the-international-atomic-energy-agency-begins-a-new-round-of-talks-with-iran-over-their-nuclear-program.md)
 As it prepared to meet with the deputy director of the United Nations nuclear watchdog, Iran said on Wednesday that it had begun to install more sophisticated enrichment devices.
 
-##### European Union
+##### EU
 ### [The European Union urges member states to conduct random tests to tackle an ongoing horse meat contamination scandal. Simon Coveney, Ireland's Minister for Agriculture, Food and the Marine, says that the scandal is a "Europe-wide issue that needs a Europe-wide solution". ](/news/2013/02/13/the-european-union-urges-member-states-to-conduct-random-tests-to-tackle-an-ongoing-horse-meat-contamination-scandal-simon-coveney-ireland.md)
 The EU urges members to conduct random DNA tests on processed beef for three months, to tackle a widening scandal over mislabelled horsemeat.
 

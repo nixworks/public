@@ -3,9 +3,9 @@ Formats: [HTML](2007/03/15/index.html)  [JSON](2007/03/15/index.json)  [XML](200
 
 ## [2007-03-15](/news/2007/03/15/index.md)
 
-##### France
+##### French
 ### [ France's SNCF inaugurates the LGV Est route between Paris and Strasbourg. ](/news/2007/03/15/france-s-sncf-inaugurates-the-lgv-est-route-between-paris-and-strasbourg.md)
-_Context: France, LGV Est, Paris, SNCF, Strasbourg_
+_Context: French, LGV Est, Paris, SNCF, Strasbourg_
 
 ##### Naxalite
 ### [ Naxalite rebels attack a police outpost in the Bijapur district of Chhattisgarh, India, killing at least 49 officers and looting their weapons. ](/news/2007/03/15/naxalite-rebels-attack-a-police-outpost-in-the-bijapur-district-of-chhattisgarh-india-killing-at-least-49-officers-and-looting-their-weap.md)
@@ -21,7 +21,7 @@ _Context: Alan Johnston, BBC, Gaza Strip, Palestinian Authority_
 
 ##### United Nations Security Council
 ### [ The five permanent members of the United Nations Security Council and Germany agree on a proposal for sanctions against Iran for its nuclear programs to be discussed by the Security Council. ](/news/2007/03/15/the-five-permanent-members-of-the-united-nations-security-council-and-germany-agree-on-a-proposal-for-sanctions-against-iran-for-its-nuclea.md)
-_Context: German, Iran, United Nations Security Council_
+_Context: Germany, Iran, United Nations Security Council_
 
 ##### Russia
 ### [ Russia, Greece and Bulgaria sign a deal to build a pipeline to transport Russian oil to the Greek port of Alexandroupolis. ](/news/2007/03/15/russia-greece-and-bulgaria-sign-a-deal-to-build-a-pipeline-to-transport-russian-oil-to-the-greek-port-of-alexandroupolis.md)
@@ -37,7 +37,7 @@ _Context: Mars, Planum Australe, planet, polar ice cap, south pole, water_
 
 ##### Willie Brigitte
 ### [ Willie Brigitte is sentenced to nine years' jail in France for planning terrorist attacks in Australia. ](/news/2007/03/15/willie-brigitte-is-sentenced-to-nine-years-jail-in-france-for-planning-terrorist-attacks-in-australia.md)
-_Context: Australia, France, Willie Brigitte, jail_
+_Context: Australia, French, Willie Brigitte, jail_
 
 ##### United States
 ### [ Four United States soldiers die in Baghdad in a car bomb attack, while 12 Iraqis die in Baghdad and Iskandariya in the south of Iraq. ](/news/2007/03/15/four-united-states-soldiers-die-in-baghdad-in-a-car-bomb-attack-while-12-iraqis-die-in-baghdad-and-iskandariya-in-the-south-of-iraq.md)

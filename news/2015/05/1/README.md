@@ -11,7 +11,7 @@ _Context: David Wildstein, Fort Lee lane closure scandal, George Washington Brid
 ### [Marilyn Mosby, the State Attorney for Baltimore, Maryland, rules that the death of Freddie Gray was a homicide and six officers of the Baltimore Police Department had been negligent in his death. ](/news/2015/05/1/marilyn-mosby-the-state-attorney-for-baltimore-maryland-rules-that-the-death-of-freddie-gray-was-a-homicide-and-six-officers-of-the-balti.md)
 Prosecutors in Baltimore described repeated mistreatment of a 25-year-old man whose death has set the city on edge.
 
-##### France
+##### French
 ### [French President Francois Hollande promises to investigate claims that French Army soldiers were involved in sexual child abuse in the Central African Republic. ](/news/2015/05/1/french-president-franassois-hollande-promises-to-investigate-claims-that-french-army-soldiers-were-involved-in-sexual-child-abuse-in-the-cent.md)
 President Francois Hollande warns of consequences if the allegations about abuse in the Central African Republic are true. The U.N. worker who publicly revealed the abuse has been suspended.
 

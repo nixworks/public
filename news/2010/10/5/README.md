@@ -43,7 +43,7 @@ The judge in the first civilian case against an ex-Guantanamo inmate bars a key 
 ### [Steven Hayes is found guilty of murdering three women of the same family in Connecticut during a home invasion in 2007, now he is facing the death sentence or life imprisonment.](/news/2010/10/5/steven-hayes-is-found-guilty-of-murdering-three-women-of-the-same-family-in-connecticut-during-a-home-invasion-in-2007-now-he-is-facing-the.md)
 A paroled burglar was found guilty Tuesday of murdering a mother and her two daughters in a 2007 home invasion in an affluent Connecticut town. The killer, Steven Hayes, one of two men charged in the murders, now could be sentenced to death.
 
-##### France
+##### French
 ### [French police arrest twelve alleged al-Qaeda terrorists in Marseilles and Bordeaux including three suspects allegedly found with bomb making kits. ](/news/2010/10/5/french-police-arrest-twelve-alleged-al-qaeda-terrorists-in-marseilles-and-bordeaux-including-three-suspects-allegedly-found-with-bomb-making.md)
 Twelve people are detained in two raids targeting groups linked to armed fighters as country remains on high alert.
 
@@ -131,9 +131,9 @@ _Context: Meghalaya, ULFA, West Garo Hills_
 ### [At least 3 people are killed and 9 others receive wounds during a bomb explosion at an apartment complex in the suburbs of Bangkok. ](/news/2010/10/5/at-least-3-people-are-killed-and-9-others-receive-wounds-during-a-bomb-explosion-at-an-apartment-complex-in-the-suburbs-of-bangkok.md)
 A bomb explosion at an apartment building on the outskirts of the Thai capital of Bangkok has killed at least three people.
 
-##### Afghan
+##### Afghanistan
 ### [Afghan militant attacks kill 4 civilians, wound 6 in southwestern Farah province's Rusht Rod district. ](/news/2010/10/5/afghan-militant-attacks-kill-4-civilians-wound-6-in-southwestern-farah-province-s-rusht-rod-district.md)
-_Context: Afghan, Farah province, Rusht Rod_
+_Context: Afghanistan, Farah province, Rusht Rod_
 
 ## [Previous Day...](/news/2010/10/4/index.md)
 

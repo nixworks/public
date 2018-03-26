@@ -49,7 +49,7 @@ _Context: First Great Western, London Paddington, Plymouth, Ufton Nervet, expres
 
 ##### Iran
 ### [ Talks between Iran and three European Union members, France, Germany, and the United Kingdom, on the Iranian nuclear program end without an agreement and no further meetings planned. Iran has offered a six-month suspension of its uranium enrichment program. The European Union seeks an indefinite halt to the program. The issue is expected to be referred to the United Nations Security Council at the November 25 meeting of the International Atomic Energy Agency. ](/news/2004/11/6/talks-between-iran-and-three-european-union-members-france-germany-and-the-united-kingdom-on-the-iranian-nuclear-program-end-without-an.md)
-_Context: European Union, IAEA, Iran, Iran's nuclear program, United Nations Security Council, uranium enrichment_
+_Context: EU, IAEA, Iran, Iran's nuclear program, United Nations Security Council, uranium enrichment_
 
 ## [Previous Day...](/news/2004/11/5/index.md)
 

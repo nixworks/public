@@ -27,13 +27,13 @@ _Context: Convention on Biological Diversity, United Nations, geoengineering_
 ### [Foreign Ministers from Japan and China meet to try to resolve soured relations over a maritime territorial dispute. ](/news/2010/10/29/foreign-ministers-from-japan-and-china-meet-to-try-to-resolve-soured-relations-over-a-maritime-territorial-dispute.md)
 A diplomatic spat between China and Japan over a group of disputed islands flares up again, hours after an apparently friendly bilateral meeting.
 
-##### European Union
+##### EU
 ### [European Union leaders agree to reform of the Treaty of Lisbon to keep member states budget deficits in line at a two-day summit in Brussels, Belgium. ](/news/2010/10/29/european-union-leaders-agree-to-reform-of-the-treaty-of-lisbon-to-keep-member-states-budget-deficits-in-line-at-a-two-day-summit-in-brussels.md)
-_Context: Belgium, Brussels, European Union, Treaty of Lisbon, budget deficit_
+_Context: Belgium, Brussels, EU, Treaty of Lisbon, budget deficit_
 
 ##### Iran
 ### [Iran says it is ready to resume international talks over its nuclear program "in a place and on a date convenient to both sides", says a letter to the European Union. ](/news/2010/10/29/iran-says-it-is-ready-to-resume-international-talks-over-its-nuclear-program-in-a-place-and-on-a-date-convenient-to-both-sides-says-a-let.md)
-_Context: European Union, Iran, nuclear program_
+_Context: EU, Iran, nuclear program_
 
 ##### 2010 Atlantic hurricane season
 ### [2010 Atlantic hurricane season: Tropical Storm Shary strengthens and nears Bermuda, while Tropical Storm Tomas forms and approaches the Caribbean Sea. ](/news/2010/10/29/2010-atlantic-hurricane-season-tropical-storm-shary-strengthens-and-nears-bermuda-while-tropical-storm-tomas-forms-and-approaches-the-cari.md)
@@ -59,9 +59,9 @@ Bad weather is again obstructing efforts to get aid to the survivors of the Indo
 ### [A U.S. Court of Appeals upholds the conviction of Conrad Black for one fraud count and one obstruction-of-justice charge, while reversing two other fraud counts on the basis of a Supreme Court decision last year. ](/news/2010/10/29/a-u-s-court-of-appeals-upholds-the-conviction-of-conrad-black-for-one-fraud-count-and-one-obstruction-of-justice-charge-while-reversing-tw.md)
 Conrad Black faces the prospect of heading back to jail after a U.S. appeal court upheld two of four criminal charges against him.
 
-##### German
+##### Germany
 ### [German rail operator DB Fernverkehr conducts a test run of their high-speed Intercity-Express train inside the Channel Tunnel, with passengers on board. ](/news/2010/10/29/german-rail-operator-db-fernverkehr-conducts-a-test-run-of-their-high-speed-intercity-express-train-inside-the-channel-tunnel-with-passenge.md)
-_Context: Channel Tunnel, DB Fernverkehr, German, Intercity-Express_
+_Context: Channel Tunnel, DB Fernverkehr, Germany, Intercity-Express_
 
 ##### British Airways
 ### [British Airways reports a half-year profit of GBP158m, the first in two years. ](/news/2010/10/29/british-airways-reports-a-half-year-profit-of-gbp158m-the-first-in-two-years.md)
@@ -109,7 +109,7 @@ Russian and U.S. special forces have carried out their first joint anti-narcotic
 
 ##### Al-Shabab
 ### [Al-Shabaab militants take control of a town on the border between Somalia, Ethiopia and Kenya from pro-government forces, following fighting that displaced 60,000 people. ](/news/2010/10/29/al-shabaab-militants-take-control-of-a-town-on-the-border-between-somalia-ethiopia-and-kenya-from-pro-government-forces-following-fighting.md)
-_Context: Al-Shabab, Ethiopia, Kenya, Somali_
+_Context: Al-Shabab, Ethiopia, Kenya, Somalia_
 
 ##### Nigeria
 ### [Saboteurs attack an oil pipeline in Nigeria's Niger Delta, shutting in 4,000 barrels a day of crude oil production. ](/news/2010/10/29/saboteurs-attack-an-oil-pipeline-in-nigeria-s-niger-delta-shutting-in-4-000-barrels-a-day-of-crude-oil-production.md)

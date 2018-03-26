@@ -25,7 +25,7 @@ Mali’s army on Tuesday attacked an al-Qaeda base near the Algerian border, kil
 
 ##### Beledweyne
 ### [ A suicide bomber detonated an explosives-laden vehicle at the Medina Hotel in Beledweyne, Somalia, killing 10 people. Among the dead is Omar Hashi Aden, Somalia's Security Minister. ](/news/2009/06/18/a-suicide-bomber-detonated-an-explosives-laden-vehicle-at-the-medina-hotel-in-beledweyne-somalia-killing-10-people-among-the-dead-is-oma.md)
-_Context: Beledweyne, Omar Hashi Aden, Somali_
+_Context: Beledweyne, Omar Hashi Aden, Somalia_
 
 ##### High Court
 ### [ The High Court rules that Suzanne Breen, an editor of the "Sunday Tribune", need not hand over her notes on the Real IRA to police as it would endanger her life. ](/news/2009/06/18/the-high-court-rules-that-suzanne-breen-an-editor-of-the-sunday-tribune-need-not-hand-over-her-notes-on-the-real-ira-to-police-as-it-wo.md)

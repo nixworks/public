@@ -13,7 +13,7 @@ _Context: Abdel Fattah el-Sisi, Cairo, Egypt, President, police_
 
 ##### 2016 Brussels bombings
 ### [Belgian Minister of Transportation Jacqueline Galant resigns in the wake of the recent bombings that shook Brussels last March. Galant resigned amid accusations her ministry ignored EU criticism of security at Belgium's airports. ](/news/2016/04/15/belgian-minister-of-transportation-jacqueline-galant-resigns-in-the-wake-of-the-recent-bombings-that-shook-brussels-last-march-galant-resig.md)
-_Context: 2016 Brussels bombings, Belgium, Brussels, European Union, Jacqueline Galant_
+_Context: 2016 Brussels bombings, Belgium, Brussels, EU, Jacqueline Galant_
 
 ##### Supreme Court
 ### [The Supreme Federal Court of Brazil rejects a bid by the Attorney General to suspend a vote in the parliament to begin impeachment procedures against the President Dilma Rousseff. ](/news/2016/04/15/the-supreme-federal-court-of-brazil-rejects-a-bid-by-the-attorney-general-to-suspend-a-vote-in-the-parliament-to-begin-impeachment-procedure.md)

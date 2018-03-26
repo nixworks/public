@@ -17,7 +17,7 @@ _Context: Ankara, Turkey, civil service_
 
 ##### Turkey
 ### [ Turkish politicians claim that there is political consensus within Turkey to join the European Union, despite the EU's demands for changes before that can occur. ](/news/2004/03/6/turkish-politicians-claim-that-there-is-political-consensus-within-turkey-to-join-the-european-union-despite-the-eu-s-demands-for-changes.md)
-_Context: European Union, Turkey, political organisation_
+_Context: EU, Turkey, political organisation_
 
 ##### Teenagers
 ### [ Teenagers released from Guantanamo Bay's Camp X-Ray recall the place fondly. ](/news/2004/03/6/teenagers-released-from-guantanamo-bay-s-camp-x-ray-recall-the-place-fondly.md)

@@ -11,7 +11,7 @@ THE wife of East Timor&#039;s Prime Minister has demanded an Australian woman re
 ### [Israeli warplanes bomb a smuggling tunnel east of Rafah in the southern Gaza Strip in an early morning raid close to the Egyptian border in response to a Palestinian rocket attack which landed in an open area south of the city of Ashkelon, causing no damage or casualties. ](/news/2010/03/22/israeli-warplanes-bomb-a-smuggling-tunnel-east-of-rafah-in-the-southern-gaza-strip-in-an-early-morning-raid-close-to-the-egyptian-border-in.md)
 _Context: Ashkelon, Egypt, Gaza Strip, Israel, Rafah_
 
-##### German
+##### Germany
 ### [Polls in Germany, particularly Bavaria, indicate the church's credibility has decreased and government data indicates people are leaving the church. ](/news/2010/03/22/polls-in-germany-particularly-bavaria-indicate-the-church-s-credibility-has-decreased-and-government-data-indicates-people-are-leaving-the.md)
 By remaining silent on the issue of punishment for church figures, the pope’s apology appeared insufficient to many in Ireland.
 

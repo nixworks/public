@@ -5,7 +5,7 @@ Formats: [HTML](2004/03/29/index.html)  [JSON](2004/03/29/index.json)  [XML](200
 
 ##### Troop
 ### [ Spain is reported to be considering doubling her number of troops stationed in Afghanistan. ](/news/2004/03/29/spain-is-reported-to-be-considering-doubling-her-number-of-troops-stationed-in-afghanistan.md)
-_Context: Afghan, troop_
+_Context: Afghanistan, troop_
 
 ##### Scientist
 ### [ Scientists discover methane in the Martian atmosphere and state it could mean there is life on the Red Planet. ](/news/2004/03/29/scientists-discover-methane-in-the-martian-atmosphere-and-state-it-could-mean-there-is-life-on-the-red-planet.md)

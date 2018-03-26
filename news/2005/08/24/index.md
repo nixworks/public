@@ -13,7 +13,7 @@ _Context: 2005, Chinese, Lhasa, Peru, Qinghai-Tibet Railway, Tanggula Mountain P
 
 ##### Flood
 ### [ Heavy floods hit Switzerland, Austria and Germany forcing thousands of people to abandon their homes. ](/news/2005/08/24/heavy-floods-hit-switzerland-austria-and-germany-forcing-thousands-of-people-to-abandon-their-homes.md)
-_Context: Austria, German, Switzerland, flood_
+_Context: Austria, Germany, Switzerland, flood_
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: At least 17 people are killed in a series of gun battles and a suicide car bombing that targeted the Iraqi Police in Baghdad. ](/news/2005/08/24/conflict-in-iraq-at-least-17-people-are-killed-in-a-series-of-gun-battles-and-a-suicide-car-bombing-that-targeted-the-iraqi-police-in-bagh.md)

@@ -11,7 +11,7 @@ Several thousand people protested in Macedonia&#x27;s capital Skopje on Saturday
 ### [A man opens fire at policemen outside the police headquarters in the Texan city of Dallas, while a bag containing a pipe bomb is also found. He was later shot dead by police snipers following a car chase and standoff. ](/news/2015/06/13/a-man-opens-fire-at-policemen-outside-the-police-headquarters-in-the-texan-city-of-dallas-while-a-bag-containing-a-pipe-bomb-is-also-found.md)
 _Context: Dallas, Texas, opens fire, pipe bomb, police_
 
-##### France
+##### French
 ### [Dozens of migrants who were refused entry to France go on hunger strike at the border crossing in the Italian town of Ventimiglia. ](/news/2015/06/13/dozens-of-migrants-who-were-refused-entry-to-france-go-on-hunger-strike-at-the-border-crossing-in-the-italian-town-of-ventimiglia.md)
 Italian police moved in Saturday to disperse around 200 migrants who were staging a sit-in at a border crossing with France after French police refused to let them enter the country, an AFP reporter said
 
@@ -53,7 +53,7 @@ _Context: Islamic State in Iraq and the Levant, Kurd, Suluk, Syria, Syrian Civil
 
 ##### War in Afghanistan
 ### [The Taliban kill 20 policemen in an attack in Helmand, Afghanistan. ](/news/2015/06/13/the-taliban-kill-20-policemen-in-an-attack-in-helmand-afghanistan.md)
-_Context: Afghan, Helmand, Taliban, War in Afghanistan_
+_Context: Afghanistan, Helmand, Taliban, War in Afghanistan_
 
 ## [Previous Day...](/news/2015/06/12/index.md)
 

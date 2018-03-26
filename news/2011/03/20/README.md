@@ -3,7 +3,7 @@ Formats: [HTML](2011/03/20/index.html)  [JSON](2011/03/20/index.json)  [XML](201
 
 ## [2011-03-20](/news/2011/03/20/index.md)
 
-##### German
+##### Germany
 ### [Voters in the German state of Saxony-Anhalt go to the polls for an election with the results indicating that the Christian Democratic Union is likely to remain in power. ](/news/2011/03/20/voters-in-the-german-state-of-saxony-anhalt-go-to-the-polls-for-an-election-with-the-results-indicating-that-the-christian-democratic-union.md)
 Early election returns indicate that Chancellor Angela Merkel’s Christian Democratic Union will remain in power in the eastern state of Saxony-Anhalt.
 
@@ -73,7 +73,7 @@ Campaigners from Wales travel to London to protest over the alleged treatment of
 
 ##### Transitional Federal Government
 ### [12 people are killed in clashes between Transitional Federal Government troops and al-Shabaab rebels in southern Somalia. ](/news/2011/03/20/12-people-are-killed-in-clashes-between-transitional-federal-government-troops-and-al-shabaab-rebels-in-southern-somalia.md)
-_Context: Al-Shabab, Somali, Transitional Federal Government_
+_Context: Al-Shabab, Somalia, Transitional Federal Government_
 
 ##### Palestinian militants
 ### [Palestinian militants fire a Grad-type rocket from Gaza into southern Ashkelon, Israel; two residents are taken to a clinic for medical treatment. ](/news/2011/03/20/palestinian-militants-fire-a-grad-type-rocket-from-gaza-into-southern-ashkelon-israel-two-residents-are-taken-to-a-clinic-for-medical-trea.md)

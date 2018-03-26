@@ -29,7 +29,7 @@ Breakthrough sets up showdown with induced adult lines.
 
 ##### United Kingdom
 ### [In the United Kingdom House of Commons, an amendment to last Wednesday's Queen's Speech expressing regret that it did not contain legislation for a referendum on EU membership is defeated 277&ndash;131. ](/news/2013/05/15/in-the-united-kingdom-house-of-commons-an-amendment-to-last-wednesday-s-queen-s-speech-expressing-regret-that-it-did-not-contain-legislatio.md)
-_Context: European Union, House of Commons, Queen's Speech, United Kingdom_
+_Context: EU, House of Commons, Queen's Speech, United Kingdom_
 
 ##### U.S.
 ### [Steven Miller, the acting commissioner of the U.S. Internal Revenue Service, resigns amidst pressure from the fallout surrounding the agency's targeting of Tea Party groups. ](/news/2013/05/15/steven-miller-the-acting-commissioner-of-the-u-s-internal-revenue-service-resigns-amidst-pressure-from-the-fallout-surrounding-the-agency.md)

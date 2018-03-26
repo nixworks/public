@@ -35,9 +35,9 @@ _Context: HIV_
 ### [A British judge orders Julian Assange to be extradited to Sweden but the WikiLeaks founder says that he will appeal. ](/news/2011/02/24/a-british-judge-orders-julian-assange-to-be-extradited-to-sweden-but-the-wikileaks-founder-says-that-he-will-appeal.md)
 A BRITISH judge has ordered Julian Assange to be extradited to Sweden to face sexual assault allegations, but the Australian plans to lodge an appeal and still hopes the matter can be finalised in the UK.
 
-##### Saudi
+##### Saudi Arabia
 ### [A Saudi Arabian student is arrested in Texas for allegedly planning a terrorist attack against the Dallas home of former President of the United States George W. Bush as a target as well as New York City and dams in California and Colorado. ](/news/2011/02/24/a-saudi-arabian-student-is-arrested-in-texas-for-allegedly-planning-a-terrorist-attack-against-the-dallas-home-of-former-president-of-the-un.md)
-_Context: California, Colorado, Dallas, George W. Bush, Saudi, Texas, U.S. President_
+_Context: California, Colorado, Dallas, George W. Bush, Saudi Arabia, Texas, U.S. President_
 
 ##### 
 ### [A "one-dog policy" is announced in Shanghai, China, with more than 600,000 unlicensed dogs to be declared illegal.](/news/2011/02/24/a-one-dog-policy-is-announced-in-shanghai-china-with-more-than-600-000-unlicensed-dogs-to-be-declared-illegal.md)

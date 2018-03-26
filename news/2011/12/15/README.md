@@ -15,9 +15,9 @@ Congressional negotiators signed off Thursday evening on a $1 trillion spending 
 ### [A by-election is held in the UK constituency of Feltham and Heston following the death of Labour's Alan Keen. ](/news/2011/12/15/a-by-election-is-held-in-the-uk-constituency-of-feltham-and-heston-following-the-death-of-labour-s-alan-keen.md)
 _Context: Alan Keen, Feltham and Heston, Feltham and Heston by-election, Labour Party_
 
-##### France
+##### French
 ### [A French court convicts Venezuela-born terrorist Carlos the Jackal of organising four deadly attacks in the 1980s. ](/news/2011/12/15/a-french-court-convicts-venezuela-born-terrorist-carlos-the-jackal-of-organising-four-deadly-attacks-in-the-1980s.md)
-_Context: Carlos the Jackal, France, Venezuela_
+_Context: Carlos the Jackal, French, Venezuela_
 
 ##### The Sun
 ### [Former editor of "The Sun" and the "News of the World" Piers Morgan is called to give evidence before the Leveson Inquiry, and will appear next week. ](/news/2011/12/15/former-editor-of-the-sun-and-the-news-of-the-world-piers-morgan-is-called-to-give-evidence-before-the-leveson-inquiry-and-will-appear-n.md)

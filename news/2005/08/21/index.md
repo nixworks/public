@@ -9,7 +9,7 @@ _Context:  Martin Dillon, Randolph, VT, musician, operatic, professor, tenor_
 
 ##### Pope Benedict XVI
 ### [ More than 800,000 people joined Pope Benedict XVI for the concluding Mass of World Youth Day 2005 in Cologne, Germany. ](/news/2005/08/21/more-than-800-000-people-joined-pope-benedict-xvi-for-the-concluding-mass-of-world-youth-day-2005-in-cologne-germany.md)
-_Context: Cologne, German, Mass, Pope Benedict XVI, World Youth Day 2005_
+_Context: Cologne, Germany, Mass, Pope Benedict XVI, World Youth Day 2005_
 
 ## [Previous Day...](/news/2005/08/20/index.md)
 

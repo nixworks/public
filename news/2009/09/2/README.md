@@ -19,9 +19,9 @@ _Context: Columbine, Manchester, massacre_
 ### [ Malaysia reverses a ruling which had banned Muslims from attending a Black Eyed Peas concert in Kuala Lumpur. ](/news/2009/09/2/malaysia-reverses-a-ruling-which-had-banned-muslims-from-attending-a-black-eyed-peas-concert-in-kuala-lumpur.md)
 _Context: Black Eyed Peas, Kuala Lumpur, Malaysia, Muslims_
 
-##### Somali
+##### Somalia
 ### [ Sixteen Somalis drown after being forced overboard into the Gulf of Aden. ](/news/2009/09/2/sixteen-somalis-drown-after-being-forced-overboard-into-the-gulf-of-aden.md)
-_Context: Gulf of Aden, Somali_
+_Context: Gulf of Aden, Somalia_
 
 ##### Barcelona
 ### [ A woman kills a man by jumping on top of him in Barcelona, Spain. ](/news/2009/09/2/a-woman-kills-a-man-by-jumping-on-top-of-him-in-barcelona-spain.md)
@@ -45,7 +45,7 @@ Two U.S. journalists held by North Korea for illegal entry admitted they crossed
 
 ##### Taliban
 ### [ A Taliban blast kills Afghan deputy chief of intelligence Abdullah Laghmani. The blast shakes the city of Mihtarlam, 60 miles (100 kilometers) east of Kabul in Laghman Province; it kills several government officials and wounds several civilians. ](/news/2009/09/2/a-taliban-blast-kills-afghan-deputy-chief-of-intelligence-abdullah-laghmani-the-blast-shakes-the-city-of-mihtarlam-60-miles-100-kilomete.md)
-_Context: Afghan, Kabul, Laghman Province, Mihtarlam, Taliban_
+_Context: Afghanistan, Kabul, Laghman Province, Mihtarlam, Taliban_
 
 ##### Iraq
 ### [ An Iraqi court sentences four security force personnel to death by hanging for their parts in a bank robbery which left eight security guards dead. ](/news/2009/09/2/an-iraqi-court-sentences-four-security-force-personnel-to-death-by-hanging-for-their-parts-in-a-bank-robbery-which-left-eight-security-guar.md)

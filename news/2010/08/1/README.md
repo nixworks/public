@@ -37,7 +37,7 @@ _Context: Russia, forest fire_
 
 ##### United Arab Emirates
 ### [The United Arab Emirates will suspend some BlackBerry mobile services from October amid concerns that data from some equipment is being exported offshore and managed by foreign organisations. Saudi Arabia plans to suspend some services later this month. ](/news/2010/08/1/the-united-arab-emirates-will-suspend-some-blackberry-mobile-services-from-october-amid-concerns-that-data-from-some-equipment-is-being-expo.md)
-_Context: BlackBerry, Saudi, United Arab Emirates_
+_Context: BlackBerry, Saudi Arabia, United Arab Emirates_
 
 ##### China
 ### [Manufacturing output in China grows at its slowest rate in 17 months in July, with the Purchasing Managers Index falling 0.9% to 51.2%. ](/news/2010/08/1/manufacturing-output-in-china-grows-at-its-slowest-rate-in-17-months-in-july-with-the-purchasing-managers-index-falling-0-9-to-51-2.md)

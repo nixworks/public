@@ -119,7 +119,7 @@ Key ministers from the heavily criticised former government replaced while inter
 ### [Thousands of people take to the streets of Jordan for the third consecutive Friday of protests over inflation, unemployment and rising prices, amid demands for the resignation of Prime Minister Samir Rifai. ](/news/2011/01/28/thousands-of-people-take-to-the-streets-of-jordan-for-the-third-consecutive-friday-of-protests-over-inflation-unemployment-and-rising-price.md)
 Protesters gather across the country, demanding the prime minister step down.
 
-##### Twitter
+##### Tweeting
 ### [After the Egyptian government censorship of social media websites (such as Twitter, Facebook and Google), internet access and SMS networks are cut off in response to anti-government protests. ](/news/2011/01/28/after-the-egyptian-government-censorship-of-social-media-websites-such-as-twitter-facebook-and-google-internet-access-and-sms-networks-a.md)
 Egypt goes off the digital map as authorities unplug the country entirely from the internet ahead of protests.
 

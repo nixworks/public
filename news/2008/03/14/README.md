@@ -29,11 +29,11 @@ _Context: Bear Stearns, Federal Reserve Bank of New York, JPMorgan Chase, United
 
 ##### Brussels
 ### [ After a summit in Brussels, European Union leaders agree to a 20% reduction in greenhouse gases by 2020. ](/news/2008/03/14/after-a-summit-in-brussels-european-union-leaders-agree-to-a-20-reduction-in-greenhouse-gases-by-2020.md)
-_Context: Brussels, European Union, greenhouse gas_
+_Context: Brussels, EU, greenhouse gas_
 
 ##### Muhammed Rahim
 ### [ Muhammed Rahim, an al-Qaeda member who helped Osama bin Laden escape from Tora Bora, Afghanistan in 2001, is taken to the Guantanamo Bay detention camp. ](/news/2008/03/14/muhammed-rahim-an-al-qaeda-member-who-helped-osama-bin-laden-escape-from-tora-bora-afghanistan-in-2001-is-taken-to-the-guantanamo-bay-de.md)
-_Context: Afghan, Guantanamo Bay detention camp, Muhammed Rahim, Osama bin Laden, Tora Bora, al-Qaeda_
+_Context: Afghanistan, Guantanamo Bay detention camp, Muhammed Rahim, Osama bin Laden, Tora Bora, al-Qaeda_
 
 ##### Colombia
 ### [ Colombian Ministry of National Defense Juan Manuel Santos says the government will pay US$2.5 million to Pedro Pablo Montoya, the FARC rebel who killed Ivn Ros. ](/news/2008/03/14/colombian-ministry-of-national-defense-juan-manuel-santos-says-the-government-will-pay-us-2-5-million-to-pedro-pablo-montoya-the-farc-rebe.md)

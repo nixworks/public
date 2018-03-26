@@ -23,7 +23,7 @@ A 16-year-old Tennessee girl on spring break was stabbed Monday inside a downtow
 ### [Hundreds of people gather outside "Daily Mail" headquarters to hold a vigil after the possible hounding to death of a primary school teacher Lucy Meadows by the British media. ](/news/2013/03/25/hundreds-of-people-gather-outside-daily-mail-headquarters-to-hold-a-vigil-after-the-possible-hounding-to-death-of-a-primary-school-teacher.md)
 _Context: British media, Daily Mail, Lucy Meadows, primary school, teacher_
 
-##### European Union
+##### EU
 ### [The European Union and Japan say that they will begin talks to restart free trade between the two entities beginning in April. ](/news/2013/03/25/the-european-union-and-japan-say-that-they-will-begin-talks-to-restart-free-trade-between-the-two-entities-beginning-in-april.md)
 Japan and the European Union announced they will start free trade talks in April, as Japanese Prime Minister Shinzo Abe pushes for deregulation in a bid to revive the world’s third-largest economy.
 
@@ -31,7 +31,7 @@ Japan and the European Union announced they will start free trade talks in April
 ### [United States Secretary of State John Kerry meets with the President of Afghanistan Hamid Karzai to talk about the two countries' strained relations. ](/news/2013/03/25/united-states-secretary-of-state-john-kerry-meets-with-the-president-of-afghanistan-hamid-karzai-to-talk-about-the-two-countries-strained-r.md)
 _Context: Afghan President, Hamid Karzai, John Kerry, Secretary of State, strained relations_
 
-##### European Union
+##### EU
 ### [The European Union suspends sanctions against 81 officials and eight firms in Zimbabwe, but those against President Robert Mugabe and his top aides remain in place. ](/news/2013/03/25/the-european-union-suspends-sanctions-against-81-officials-and-eight-firms-in-zimbabwe-but-those-against-president-robert-mugabe-and-his-to.md)
 The European Union suspends sanctions against 81 officials and eight firms in Zimbabwe following what it called a &quot;successful&quot; constitutional referendum.
 
@@ -55,7 +55,7 @@ Around 1,000 dead ducks have been pulled from a river in Sichuan, Chinese media 
 ### [Six sleeping workers are killed by a fire in a car seat factory outside Bangalore, India. ](/news/2013/03/25/six-sleeping-workers-are-killed-by-a-fire-in-a-car-seat-factory-outside-bangalore-india.md)
 A deadly fire in a factory on the outskirts of the southern Indian city of Bangalore kills six people who were asleep inside the building.
 
-##### Scottish
+##### Scotland
 ### [Thousands of homes in Scotland and Northern Ireland are without electricity and many roads are closed after snowfall and strong winds hit over the weekend. ](/news/2013/03/25/thousands-of-homes-in-scotland-and-northern-ireland-are-without-electricity-and-many-roads-are-closed-after-snowfall-and-strong-winds-hit-ov.md)
 Thousands of homes are still without power and many roads are impassable after severe weather affected much of the UK during the weekend.
 

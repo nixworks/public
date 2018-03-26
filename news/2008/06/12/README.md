@@ -17,7 +17,7 @@ The Supreme Court rejected the Bush administration’s argument that the Guantá
 
 ##### Ireland
 ### [ Irish voters go to the polls for the Twenty-eighth Amendment of the Constitution of Ireland to enable ratification of the Treaty of Lisbon of the European Union. ](/news/2008/06/12/irish-voters-go-to-the-polls-for-the-twenty-eighth-amendment-of-the-constitution-of-ireland-to-enable-ratification-of-the-treaty-of-lisbon.md)
-_Context: European Union, Ireland, Treaty of Lisbon, ratification, the second Irish referendum_
+_Context: EU, Ireland, Treaty of Lisbon, ratification, the second Irish referendum_
 
 ##### China
 ### [ The People's Republic of China and Taiwan begin their first formal talks in a decade on improving cross-strait relations. ](/news/2008/06/12/the-people-s-republic-of-china-and-taiwan-begin-their-first-formal-talks-in-a-decade-on-improving-cross-strait-relations.md)
@@ -25,7 +25,7 @@ _Context: China, Taiwan, cross-strait relations_
 
 ##### International aid
 ### [ More than 80 countries and international aid organisations meet in Paris to develop a strategy for delivering billions of dollars in aid to Afghanistan. ](/news/2008/06/12/more-than-80-countries-and-international-aid-organisations-meet-in-paris-to-develop-a-strategy-for-delivering-billions-of-dollars-in-aid-to.md)
-_Context: Afghan, Paris, international aid_
+_Context: Afghanistan, Paris, international aid_
 
 ##### Cuba
 ### [ Cuban hurdler Dayron Robles sets a world record of 12.87 seconds for the 110 metre hurdles at a Golden Spike meet in Ostrava, Czech Republic. ](/news/2008/06/12/cuban-hurdler-dayron-robles-sets-a-world-record-of-12-87-seconds-for-the-110-metre-hurdles-at-a-golden-spike-meet-in-ostrava-czech-republi.md)
@@ -33,7 +33,7 @@ _Context: 110 metre hurdles, Cuba, Czech Republic, Dayron Robles, Ostrava, world
 
 ##### United States Secretary of Defense
 ### [ The United States Secretary of Defense Robert Gates invites Pakistan and Afghanistan to participate in an investigation of the Gora Prai airstrike. ](/news/2008/06/12/the-united-states-secretary-of-defense-robert-gates-invites-pakistan-and-afghanistan-to-participate-in-an-investigation-of-the-gora-prai-ai.md)
-_Context: Afghan, Gora Prai airstrike, Pakistan, Robert Gates, United States Secretary of Defense_
+_Context: Afghanistan, Gora Prai airstrike, Pakistan, Robert Gates, United States Secretary of Defense_
 
 ##### Salmonella
 ### [ The Salmonella outbreak in the United States caused by tainted tomatoes continues to worsen with 228 victims in 23 states. ](/news/2008/06/12/the-salmonella-outbreak-in-the-united-states-caused-by-tainted-tomatoes-continues-to-worsen-with-228-victims-in-23-states.md)

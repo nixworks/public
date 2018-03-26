@@ -5,7 +5,7 @@ Formats: [HTML](2009/03/11/index.html)  [JSON](2009/03/11/index.json)  [XML](200
 
 ##### President of France
 ### [ President Nicolas Sarkozy announces that France will rejoin NATO's military command. ](/news/2009/03/11/president-nicolas-sarkozy-announces-that-france-will-rejoin-nato-s-military-command.md)
-_Context: France, NATO, Nicolas Sarkozy, President of France, military command_
+_Context: French, NATO, Nicolas Sarkozy, President of France, military command_
 
 ##### Iraq
 ### [ Former Iraqi Intelligence Service Director Ali Hassan al-Majid and former Deputy Prime Minister Tariq Aziz are sentenced to 15 years in jail for crimes against humanity. ](/news/2009/03/11/former-iraqi-intelligence-service-director-ali-hassan-al-majid-and-former-deputy-prime-minister-tariq-aziz-are-sentenced-to-15-years-in-jai.md)
@@ -13,7 +13,7 @@ _Context: Ali Hassan al-Majid, Deputy Prime Minister, Intelligence Service, Iraq
 
 ##### Killed
 ### [ At least 15 people are killed in a school shooting in Winnenden, Germany. ](/news/2009/03/11/at-least-15-people-are-killed-in-a-school-shooting-in-winnenden-germany.md)
-_Context: German, Winnenden, killed, school shooting_
+_Context: Germany, Winnenden, killed, school shooting_
 
 ##### Liberal Democrats
 ### [ The Liberal Democrats claim that more than 1,000 police officers in the United Kingdom have criminal records. ](/news/2009/03/11/the-liberal-democrats-claim-that-more-than-1-000-police-officers-in-the-united-kingdom-have-criminal-records.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2009/04/18/index.html)  [JSON](2009/04/18/index.json)  [XML](200
 
 ##### Dutch
 ### [ The Netherlands' "Korps Commandotroepen" rescue 20 Yemeni hostages from Somali pirates in the Gulf of Aden. ](/news/2009/04/18/the-netherlands-korps-commandotroepen-rescue-20-yemeni-hostages-from-somali-pirates-in-the-gulf-of-aden.md)
-_Context: Dutch, Gulf of Aden, Korps Commandotroepen, Somali, Somali pirates, Yemen, hostage_
+_Context: Dutch, Gulf of Aden, Korps Commandotroepen, Somali pirates, Somalia, Yemen, hostage_
 
 ##### Abu Sayyaf
 ### [ The Abu Sayyaf Group releases Swiss Red Cross worker Andreas Notter from captivity in the Philippines. ](/news/2009/04/18/the-abu-sayyaf-group-releases-swiss-red-cross-worker-andreas-notter-from-captivity-in-the-philippines.md)
@@ -21,9 +21,9 @@ _Context: Iran, Iranian-American, Roxana Saberi, espionage, journalist_
 
 ##### Canada
 ### [ Canada's HMCS "Winnipeg" and the United States' USS "Halyburton" thwart Somali pirates' attack on a Norwegian oil tanker. ](/news/2009/04/18/canada-s-hmcs-winnipeg-and-the-united-states-uss-halyburton-thwart-somali-pirates-attack-on-a-norwegian-oil-tanker.md)
-_Context: Canada, HMCS ''Winnipeg'', Norwegian, Somali, Somali pirates, USS ''Halyburton'', United States, oil tanker_
+_Context: Canada, HMCS ''Winnipeg'', Norwegian, Somali pirates, Somalia, USS ''Halyburton'', United States, oil tanker_
 
-##### France
+##### French
 ### [ France's National Police arrest ETA military leader Jurdan Martitegi in Montauriol. ](/news/2009/04/18/france-s-national-police-arrest-eta-military-leader-jurdan-martitegi-in-montauriol.md)
 A source in the Spanish government says ETA&#039;s military chief has been arrested by French police, marking the third suspected leader of the Basque separatist guerrillas to be captured in under six months.
 

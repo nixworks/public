@@ -23,7 +23,7 @@ _Context: Altaf Hussain, London police, Muttahida Qaumi Movement_
 ### [Amid the crisis in Ukraine, President of the United States Barack Obama announces the European Reassurance Initiative--a $1bn plan to fund the increase of the United States military presence in Europe and step up defense capabilities of Ukraine, Moldova, and Georgia. ](/news/2014/06/3/amid-the-crisis-in-ukraine-president-of-the-united-states-barack-obama-announces-the-european-reassurance-initiativeaa-1bn-plan-to-fund.md)
 President Barack Obama announces plans for a $1bn fund to increase US military deployments to Europe, during a visit to Poland.
 
-##### Saudi
+##### Saudi Arabia
 ### [Saudi Arabia announces 113 previously unreported cases of MERS, revises the death toll to 282, and fires its minister of health. ](/news/2014/06/3/saudi-arabia-announces-113-previously-unreported-cases-of-mers-revises-the-death-toll-to-282-and-fires-its-minister-of-health.md)
 Saudi Arabia announced a jump of nearly 50 percent in deaths from a new virus on Tuesday after re-examining old data that also showed the number of infections since 2012 was a fifth higher than previously reported.
 

@@ -21,7 +21,7 @@ Actress Luise Rainer, who became the first winner of consecutive Oscars in the 1
 
 ##### Somali civil war
 ### [A US airstrike in Saakow kills the intelligence chief, Abdishakur, who was also known as Tahlil, of the Somali al-Shabab militants. ](/news/2014/12/30/a-us-airstrike-in-saakow-kills-the-intelligence-chief-abdishakur-who-was-also-known-as-tahlil-of-the-somali-al-shabab-militants.md)
-_Context: Al-Shabab, Saakow, Somali, Somali civil war_
+_Context: Al-Shabab, Saakow, Somali civil war, Somalia_
 
 ##### Iraqi insurgency
 ### [Iraqi government forces and allied Shia militia recapture the town of Dhuluiya in Saladin Province, north of Baghdad, from the Islamic State of Iraq and the Levant. ](/news/2014/12/30/iraqi-government-forces-and-allied-shia-militia-recapture-the-town-of-dhuluiya-in-saladin-province-north-of-baghdad-from-the-islamic-state.md)

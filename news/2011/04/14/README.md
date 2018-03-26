@@ -25,7 +25,7 @@ R&eacute;jean Hinse, a Quebecer who was wrongfully imprisoned in the 1960s befor
 
 ##### NATO
 ### [NATO foreign ministers meet in Berlin, Germany, to discuss issues including Libya. ](/news/2011/04/14/nato-foreign-ministers-meet-in-berlin-germany-to-discuss-issues-including-libya.md)
-_Context: Berlin, German, NATO, civil war_
+_Context: Berlin, Germany, NATO, civil war_
 
 ##### Brazil
 ### [Leaders of Brazil, Russia, India, China and South Africa attend a BRICS summit in Sanya in China's Hainan Province. ](/news/2011/04/14/leaders-of-brazil-russia-india-china-and-south-africa-attend-a-brics-summit-in-sanya-in-china-s-hainan-province.md)

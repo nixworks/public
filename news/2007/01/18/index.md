@@ -21,15 +21,15 @@ _Context: Iraq, Iraqi Prime Minister, Nouri al-Maliki, United States_
 
 ##### European windstorm
 ### [ The European windstorm Kyrill sweeps across Great Britain, the Netherlands and Germany, killing at least nine in Britain and three in the Netherlands. The container ship "MSC Napoli" has to be abandoned in the English channel because of the wind. British and French rescue services pick up 26 crew members. ](/news/2007/01/18/the-european-windstorm-kyrill-sweeps-across-great-britain-the-netherlands-and-germany-killing-at-least-nine-in-britain-and-three-in-the-n.md)
-_Context: English channel, European windstorm, German, Great Britain, Kyrill, MSC ''Napoli'', the Netherlands_
+_Context: English channel, European windstorm, Germany, Great Britain, Kyrill, MSC ''Napoli'', the Netherlands_
 
 ##### Jumeirah Lake Towers
 ### [ Two people are killed in the Jumeirah Lake Towers fire in Dubai. ](/news/2007/01/18/two-people-are-killed-in-the-jumeirah-lake-towers-fire-in-dubai.md)
 _Context: Dubai, Jumeirah Lake Towers_
 
-##### France
+##### French
 ### [ The French newspaper "Le Monde" reports that Spanish cyclist scar Pereiro has produced two positive urine samples for salbutamol during the 2006 Tour de France. Pereiro had finished second in the Tour. The contested winner, Floyd Landis, had tested positive for testosterone during the Tour. ](/news/2007/01/18/the-french-newspaper-le-monde-reports-that-spanish-cyclist-oscar-pereiro-has-produced-two-positive-urine-samples-for-salbutamol-during-th.md)
-_Context: 2006, France, Le Monde, salbutamol, scar Pereiro, testosterone_
+_Context: 2006, French, Le Monde, salbutamol, scar Pereiro, testosterone_
 
 ##### Al Arabiya
 ### [ Al Arabiya reports that a fire at Kuwait's Shuaiba Port has stopped oil exports and refining in that country. ](/news/2007/01/18/al-arabiya-reports-that-a-fire-at-kuwait-s-shuaiba-port-has-stopped-oil-exports-and-refining-in-that-country.md)

@@ -27,9 +27,9 @@ _Context: Egypt, Sesheshet, Teti, Zahi Hawass_
 ### [ A Holocaust survivor group announces the abandonment of negotiations with the LDS Church over the latter's continued posthumous baptism of Jews killed in the Holocaust. ](/news/2008/11/11/a-holocaust-survivor-group-announces-the-abandonment-of-negotiations-with-the-lds-church-over-the-latter-s-continued-posthumous-baptism-of.md)
 _Context: A Holocaust survivor group, The Church of Jesus Christ of Latter-day Saints, posthumous baptism, the Holocaust_
 
-##### German
+##### Germany
 ### [ Germany announces new charges against John Demjanjuk in the deaths of 29,000 people at the Sobibor extermination camp in Poland during the Holocaust. ](/news/2008/11/11/germany-announces-new-charges-against-john-demjanjuk-in-the-deaths-of-29-000-people-at-the-sobibor-extermination-camp-in-poland-during-the.md)
-_Context: German, John Demjanjuk, Poland, Sobibor extermination camp, the Holocaust_
+_Context: Germany, John Demjanjuk, Poland, Sobibor extermination camp, the Holocaust_
 
 ##### RMS ''Queen Elizabeth 2''
 ### [ The RMS "Queen Elizabeth 2" sets sail on her final voyage before she is refurbished and turned into a hotel in Dubai, United Arab Emirates. ](/news/2008/11/11/the-rms-queen-elizabeth-2-sets-sail-on-her-final-voyage-before-she-is-refurbished-and-turned-into-a-hotel-in-dubai-united-arab-emirates.md)

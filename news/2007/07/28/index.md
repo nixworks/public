@@ -9,7 +9,7 @@ _Context: Rwanda, capital punishment_
 
 ##### Bernard Kouchner
 ### [ Bernard Kouchner, the French Foreign Minister, arrives in Lebanon to reduce tensions between the Prime Minister of Lebanon Fouad Siniora and the pro-Syrian opposition. ](/news/2007/07/28/bernard-kouchner-the-french-foreign-minister-arrives-in-lebanon-to-reduce-tensions-between-the-prime-minister-of-lebanon-fouad-siniora-an.md)
-_Context: Bernard Kouchner, Fouad Siniora, France, Lebanese, Prime Minister of Lebanon, Syria_
+_Context: Bernard Kouchner, Fouad Siniora, French, Lebanese, Prime Minister of Lebanon, Syria_
 
 ##### Mohamed Haneef
 ### [ Dr Mohamed Haneef, the Indian doctor freed in Australia of supporting terrorism, indicates that he would like to return to India as soon as possible. He later received clearance from the Australian Government to leave tonight. ](/news/2007/07/28/dr-mohamed-haneef-the-indian-doctor-freed-in-australia-of-supporting-terrorism-indicates-that-he-would-like-to-return-to-india-as-soon-as.md)

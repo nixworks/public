@@ -15,9 +15,9 @@ Hamas said it suspended the elections commission for not treating its supporters
 ### [Miguel Angel Mancera wins the 2012 Mexico City head of state (mayoral) election. ](/news/2012/07/2/miguel-angel-mancera-wins-the-2012-mexico-city-head-of-state-mayoral-election.md)
 _Context: Mexico City, Miguel Angel Mancera, head of state (mayoral) election_
 
-##### German
+##### Germany
 ### [The head of Germany's domestic intelligence agency, Heinz Fromm, resigns due to a series of blunders in an investigation about a neo-Nazi cell. ](/news/2012/07/2/the-head-of-germany-s-domestic-intelligence-agency-heinz-fromm-resigns-due-to-a-series-of-blunders-in-an-investigation-about-a-neo-nazi-ce.md)
-_Context: German, Heinz Fromm, neo-Nazi_
+_Context: Germany, Heinz Fromm, neo-Nazi_
 
 ##### Power broker
 ### [Power broker Ichiro Ozawa announces that he is leaving the ruling Democratic Party of Japan along with 51 other lawmakers with anticipation that they will form a new party. ](/news/2012/07/2/power-broker-ichiro-ozawa-announces-that-he-is-leaving-the-ruling-democratic-party-of-japan-along-with-51-other-lawmakers-with-anticipation.md)
@@ -71,9 +71,9 @@ _Context: Iran, Islamic Revolutionary Guards, Israeli, Kenya, Saudi Arabian, Uni
 ### [Children in Ja'ar, Yemen, accidentally set off a shell, killing one and wounding seven others. ](/news/2012/07/2/children-in-jae-ar-yemen-accidentally-set-off-a-shell-killing-one-and-wounding-seven-others.md)
 _Context: Ja'ar, Yemen_
 
-##### Somali
+##### Somalia
 ### [Four foreign aid workers held hostage inside Somalia are rescued by Somali forces after they were kidnapped from a Kenyan refugee camp on June 29. ](/news/2012/07/2/four-foreign-aid-workers-held-hostage-inside-somalia-are-rescued-by-somali-forces-after-they-were-kidnapped-from-a-kenyan-refugee-camp-on-ju.md)
-_Context: Kenya, Somali_
+_Context: Kenya, Somalia_
 
 ## [Previous Day...](/news/2012/07/1/index.md)
 

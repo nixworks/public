@@ -65,7 +65,7 @@ _Context: Broadway, OSHA, Spider-Man: Turn Off the Dark, occupational safety and
 
 ##### African Union
 ### [Fifty-three African Union peacekeepers were killed in fighting in Somalia. ](/news/2011/03/4/fifty-three-african-union-peacekeepers-were-killed-in-fighting-in-somalia.md)
-_Context: African Union, Somali_
+_Context: African Union, Somalia_
 
 ##### Protesters
 ### [Protesters storm the State Security Intelligence building in Alexandria, Egypt after police officers had previously fired on the crowd. ](/news/2011/03/4/protesters-storm-the-state-security-intelligence-building-in-alexandria-egypt-after-police-officers-had-previously-fired-on-the-crowd.md)

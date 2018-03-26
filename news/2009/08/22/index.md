@@ -33,7 +33,7 @@ _Context: Movement for the Emancipation of the Niger Delta, Nigeria_
 
 ##### Muslim
 ### [ Islamic insurgents attack a government checkpoint in Somalia's capital, Mogadishu, sparking a gunbattle that kills at least five people on the first day of Ramadan. ](/news/2009/08/22/islamic-insurgents-attack-a-government-checkpoint-in-somalia-s-capital-mogadishu-sparking-a-gunbattle-that-kills-at-least-five-people-on.md)
-_Context: Mogadishu, Muslim, Ramadan, Somali_
+_Context: Mogadishu, Muslim, Ramadan, Somalia_
 
 ##### Argentina
 ### [ Argentina's Foreign Affairs Ministry "harshly condemns" the nomination of Ahmad Vahidi to serve as Iran's Defence Minister as he is a suspected international terrorist sought by Interpol in connection with the 1994 attack on AMIA Jewish community centre in Buenos Aires. ](/news/2009/08/22/argentina-s-foreign-affairs-ministry-aharshly-condemnsa-the-nomination-of-ahmad-vahidi-to-serve-as-iran-s-defence-minister-as-he-is-a-s.md)

@@ -3,9 +3,9 @@ Formats: [HTML](2006/09/17/index.html)  [JSON](2006/09/17/index.json)  [XML](200
 
 ## [2006-09-17](/news/2006/09/17/index.md)
 
-##### German
+##### Germany
 ### [ Hosts Germany fought back from 3-1 down to beat Olympic champions Australia 4-3 and retain their World Cup title in the 11. edition of the field hockey World Cup. ](/news/2006/09/17/hosts-germany-fought-back-from-3-1-down-to-beat-olympic-champions-australia-4-3-and-retain-their-world-cup-title-in-the-11-edition-of-the.md)
-_Context: Australia, German, field hockey_
+_Context: Australia, Germany, field hockey_
 
 ##### Alliance for Sweden
 ### [ Sweden's center-right opposition alliance Alliance for Sweden declares victory after nearly complete official election results showed it narrowly defeating the governing Swedish Social Democratic Party. The Prime Minister of Sweden, Gran Persson, conceded defeat. ](/news/2006/09/17/sweden-s-center-right-opposition-alliance-alliance-for-sweden-declares-victory-after-nearly-complete-official-election-results-showed-it-na.md)

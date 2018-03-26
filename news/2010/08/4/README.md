@@ -85,7 +85,7 @@ _Context: Croton, Ohio, U.S. state, barn, egg farm_
 
 ##### Eurotunnel
 ### [Eurotunnel has "apologised profusely" after train passengers brought to Calais, France, through the Channel Tunnel are locked into their carriages upon arrival and immediately returned to Kent, England. ](/news/2010/08/4/eurotunnel-has-apologised-profusely-after-train-passengers-brought-to-calais-france-through-the-channel-tunnel-are-locked-into-their-car.md)
-_Context: Calais, Channel Tunnel, England, Eurotunnel, France, Kent_
+_Context: Calais, Channel Tunnel, England, Eurotunnel, French, Kent_
 
 ##### 2010 China floods
 ### [The confirmed death toll from flooding in China rises above 1,000. ](/news/2010/08/4/the-confirmed-death-toll-from-flooding-in-china-rises-above-1-000.md)

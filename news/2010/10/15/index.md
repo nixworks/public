@@ -73,7 +73,7 @@ _Context: T.I., United States, parole, rapper_
 
 ##### Berlin
 ### [A museum in Berlin opens an exhibition on Adolf Hitler and his relationship with the German people, the first museum in Germany to do so. ](/news/2010/10/15/a-museum-in-berlin-opens-an-exhibition-on-adolf-hitler-and-his-relationship-with-the-german-people-the-first-museum-in-germany-to-do-so.md)
-_Context: Adolf Hitler, Berlin, German, German_
+_Context: Adolf Hitler, Berlin, German, Germany_
 
 ##### G4S
 ### [MPs called for a "wide-ranging and independent inquiry" after G4S agents restrain and suffocate Jimmy Mubenga during his deportation from England. ](/news/2010/10/15/mps-called-for-a-wide-ranging-and-independent-inquiry-after-g4s-agents-restrain-and-suffocate-jimmy-mubenga-during-his-deportation-from-en.md)
@@ -81,11 +81,11 @@ _Context: England, G4S, Jimmy Mubenga_
 
 ##### United States soldier
 ### [A United States Army soldier from 5th Stryker Brigade Combat Team is to face a court martial on murder and other charges related to the deaths of civilians in Afghanistan. ](/news/2010/10/15/a-united-states-army-soldier-from-5th-stryker-brigade-combat-team-is-to-face-a-court-martial-on-murder-and-other-charges-related-to-the-deat.md)
-_Context: 5th Stryker Brigade Combat Team, Afghan, United States soldier, court martial_
+_Context: 5th Stryker Brigade Combat Team, Afghanistan, United States soldier, court martial_
 
 ##### United Kingdom
 ### [Gunmen abduct British and local Save the Children aid workers from a compound in western Somalia. ](/news/2010/10/15/gunmen-abduct-british-and-local-save-the-children-aid-workers-from-a-compound-in-western-somalia.md)
-_Context: Save the Children, Somali, United Kingdom_
+_Context: Save the Children, Somalia, United Kingdom_
 
 ##### United Nations
 ### [United Nations envoy Margot Wallstrom says Congolese government troops may have committed rape and murder in the Democratic Republic of the Congo weeks after similar attacks by rebels. ](/news/2010/10/15/united-nations-envoy-margot-wallstrapm-says-congolese-government-troops-may-have-committed-rape-and-murder-in-the-democratic-republic-of-the.md)

@@ -13,7 +13,7 @@ The legislative showdown will continue Wednesday as the Senate considers various
 
 ##### Sexual orientation and gender identity in the United States military
 ### [U.S. President Donald Trump tweets that transgender Americans will not be allowed to serve "in any capacity" in the United States Armed Forces. ](/news/2017/07/26/u-s-president-donald-trump-tweets-that-transgender-americans-will-not-be-allowed-to-serve-in-any-capacity-in-the-united-states-armed-forc.md)
-_Context: Donald Trump, Sexual orientation and gender identity in the United States military, Twitter, U.S. President, United States military personnel, transgender_
+_Context: Donald Trump, Sexual orientation and gender identity in the United States military, U.S. President, United States military personnel, transgender, tweeting_
 
 ##### Crime in Alaska
 ### [A woman is killed aboard the "Emerald Princess" cruise ship as it sails to a port of call in Juneau, Alaska, U.S. The passengers are detained while the FBI investigates. Authorities suspect the incident is related to domestic violence. ](/news/2017/07/26/a-woman-is-killed-aboard-the-emerald-princess-cruise-ship-as-it-sails-to-a-port-of-call-in-juneau-alaska-u-s-the-passengers-are-detaine.md)

@@ -19,9 +19,9 @@ _Context: Argentina, Buenos Aires, Dolores, Mar del Plata_
 ### [ The Socialist Workers' Party wins the Spanish general election, with the People's Party conceding defeat. ](/news/2008/03/9/the-socialist-workers-party-wins-the-spanish-general-election-with-the-people-s-party-conceding-defeat.md)
 _Context: People's Party, Socialist Workers' Party, Spanish, general election_
 
-##### France
+##### French
 ### [ French voters go to the polls for the municipal elections. ](/news/2008/03/9/french-voters-go-to-the-polls-for-the-municipal-elections.md)
-_Context: 2008 municipal elections, France_
+_Context: 2008 municipal elections, French_
 
 ##### Venezuela
 ### [ Venezuela announces that it will reopen its embassy in Colombia and welcome back Colombian diplomats expelled during the regional diplomatic crisis. ](/news/2008/03/9/venezuela-announces-that-it-will-reopen-its-embassy-in-colombia-and-welcome-back-colombian-diplomats-expelled-during-the-regional-diplomati.md)
@@ -33,7 +33,7 @@ _Context: Albanian, English, Hashim Thai, Kosovo, Prime Minister, Serbia, Serbia
 
 ##### Sweden
 ### [ Swedish Minister for Foreign Affairs Carl Bildt says that Kosovo may become a European Union member state even if it is not a member of the United Nations. ](/news/2008/03/9/swedish-minister-for-foreign-affairs-carl-bildt-says-that-kosovo-may-become-a-european-union-member-state-even-if-it-is-not-a-member-of-the.md)
-_Context: Carl Bildt, European Union, Foreign Minister, Kosovo, Sweden, United Nations_
+_Context: Carl Bildt, EU, Foreign Minister, Kosovo, Sweden, United Nations_
 
 ## [Previous Day...](/news/2008/03/8/index.md)
 

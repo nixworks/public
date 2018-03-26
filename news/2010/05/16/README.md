@@ -31,7 +31,7 @@ Hong Kong voted in citywide by-elections on Sunday, polls which pro-democracy gr
 ### [Scientists are finding enormous oil plumes in the deep waters of the Gulf of Mexico, including one as large as 10 miles long, 3 miles wide and 300 feet thick in spots as fresh evidence that the leak from the broken undersea well could be substantially worse than estimates that the United States government and BP have given. ](/news/2010/05/16/scientists-are-finding-enormous-oil-plumes-in-the-deep-waters-of-the-gulf-of-mexico-including-one-as-large-as-10-miles-long-3-miles-wide-a.md)
 The discovery of the plumes, one as large as 10 miles long, is evidence that the leak could be substantially worse than estimates.
 
-##### France
+##### French
 ### [French lecturer Clotilde Reiss, charged with spying in Iran after last June's disputed election, is released and returns to Paris. ](/news/2010/05/16/french-lecturer-clotilde-reiss-charged-with-spying-in-iran-after-last-june-s-disputed-election-is-released-and-returns-to-paris.md)
 Woman arrested after disputed presidential poll, released and on her way home.
 

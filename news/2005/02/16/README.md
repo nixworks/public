@@ -9,7 +9,7 @@ Clean-up operations resumed Thursday on the Tunisian coast after a Moroccan cont
 
 ##### Rwanda
 ### [ Six Rwandans file a lawsuit in France that accuses French soldiers of complicity in the Rwandan Genocide of 1994. ](/news/2005/02/16/six-rwandans-file-a-lawsuit-in-france-that-accuses-french-soldiers-of-complicity-in-the-rwandan-genocide-of-1994.md)
-_Context: France, Rwanda, Rwandan Genocide_
+_Context: French, Rwanda, Rwandan Genocide_
 
 ##### Cecilia Cubas
 ### [ The body of Cecilia Cubas, daughter of former Paraguayan President Raul Cubas Grau, is found in an underground chamber at a house near the capital city of Asuncion. She was abducted on September 21, 2004. ](/news/2005/02/16/the-body-of-cecilia-cubas-daughter-of-former-paraguayan-president-raaol-cubas-grau-is-found-in-an-underground-chamber-at-a-house-near-the.md)

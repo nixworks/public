@@ -25,7 +25,7 @@ _Context: Al-Dujail trial, Awad Hamed al-Bandar_
 
 ##### Swan
 ### [ Avian influenza is detected in Croatia. Six of twelve swans were infected by an H5 type of virus. The swans were found near Orahovica. It is suspected that they came to Croatia from a still unknown place in the European Union. The Australian Quarantine and Inspection Service discovers antibodies of avian influenza and newcastle disease in pigeons imported from Canada to Melbourne, leading to a blanket ban on all live bird imports from Canada. ](/news/2005/10/21/avian-influenza-is-detected-in-croatia-six-of-twelve-swans-were-infected-by-an-h5-type-of-virus-the-swans-were-found-near-orahovica-it-i.md)
-_Context: Australian Quarantine and Inspection Service, Canada, Croatia, European Union, Melbourne, newcastle disease, pigeons, swan, virus_
+_Context: Australian Quarantine and Inspection Service, Canada, Croatia, EU, Melbourne, newcastle disease, pigeons, swan, virus_
 
 ##### Telecom
 ### [ Telecommunications company Inmarsat is planning to launch the second in a series of two super-satellites into geosynchronous orbit. They are designed to be among the most powerful commercial communications satellites in orbit. They will beam broadband data and voice services to almost any location on the planet. ](/news/2005/10/21/telecommunications-company-inmarsat-is-planning-to-launch-the-second-in-a-series-of-two-super-satellites-into-geosynchronous-orbit-they-ar.md)

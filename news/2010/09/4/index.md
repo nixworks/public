@@ -11,7 +11,7 @@ _Context: Ab Klink, Beatrix, CDA, Cabinet formation in the Netherlands, Geert Wi
 ### [Yu Myung-hwan resigns as South Korea's Minister for Foreign Affairs and Trade amid accusations of nepotism after his daughter is hired to a midlevel position in his Ministry. ](/news/2010/09/4/yu-myung-hwan-resigns-as-south-korea-s-minister-for-foreign-affairs-and-trade-amid-accusations-of-nepotism-after-his-daughter-is-hired-to-a.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-##### France
+##### French
 ### [Thousands of people protest across France against the government's policy of deporting of Romani people. ](/news/2010/09/4/thousands-of-people-protest-across-france-against-the-government-s-policy-of-deporting-of-romani-people.md)
 Demonstrations&#x20;are&#x20;planned&#x20;for&#x20;Saturday&#x20;across&#x20;France&#x20;to&#x20;protest&#x20;the&#x20;government&#x2019;s&#x20;recent&#x20;attempt&#x20;to&#x20;link&#x20;immigration&#x20;and&#x20;crime.&#x20;The&#x20;protests&#x20;are&#x20;being&#x20;viewed&#x20;in&#x20;France&#x20;...
 
@@ -67,7 +67,7 @@ Four people were arrested during minor scuffles between gardaí and anti-war pro
 ### [2 Azeri soldiers are killed in fighting near Nagorno-Karabakh, the second incident of clashes within a week. ](/news/2010/09/4/2-azeri-soldiers-are-killed-in-fighting-near-nagorno-karabakh-the-second-incident-of-clashes-within-a-week.md)
 _Context: Azerbaijan, Nagorno-Karabakh region_
 
-##### Afghan
+##### Afghanistan
 ### [2 attacks kill at least 10 people and wound at least 28 others in Afghanistan. ](/news/2010/09/4/2-attacks-kill-at-least-10-people-and-wound-at-least-28-others-in-afghanistan.md)
 Two separate bombings in Kandahar and Kunduz kill at least 10 people, including four police officers.
 

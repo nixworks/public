@@ -15,7 +15,7 @@ _Context: Kosovo, Serbia, Serbian constitutional referendum, 2006, officially a 
 ### [ NATO apologizes for the deaths of Afghan civilians in an air raid on Tuesday, October 24, in Kandahar province, blaming Taliban insurgents for using the villagers as cover. ](/news/2006/10/28/nato-apologizes-for-the-deaths-of-afghan-civilians-in-an-air-raid-on-tuesday-october-24-in-kandahar-province-blaming-taliban-insurgents.md)
 _Context: Kandahar province, NATO, October 24, Taliban, airstrike_
 
-##### German
+##### Germany
 ### [ German newspaper Bild publishes photos allegedly showing Bundeswehr troops posing with human remains in Afghanistan while on peacekeeping duties there. ](/news/2006/10/28/german-newspaper-bild-publishes-photos-allegedly-showing-bundeswehr-troops-posing-with-human-remains-in-afghanistan-while-on-peacekeeping-d.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 

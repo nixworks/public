@@ -5,7 +5,7 @@ Formats: [HTML](2016/10/25/index.html)  [JSON](2016/10/25/index.json)  [XML](201
 
 ##### Charles R. Breyer
 ### [U.S. District Judge Charles R. Breyer in San Francisco approves German automaker Volkswagen $14.7 billion settlement with federal and California regulators and the owners of the 475,000 polluting diesel vehicles over diesel emissions cheating scandal. Volkswagen still faces billions of dollars more in fines and litigation. ](/news/2016/10/25/u-s-district-judge-charles-r-breyer-in-san-francisco-approves-german-automaker-volkswagen-14-7-billion-settlement-with-federal-and-califo.md)
-_Context: California, Charles R. Breyer, German, San Francisco, US$, Volkswagen_
+_Context: California, Charles R. Breyer, Germany, San Francisco, US$, Volkswagen_
 
 ##### Ontario Provincial Police
 ### [Ontario Provincial Police charge a former Canadian nurse, Elizabeth Tracy Mae Wettlaufer, in Woodstock, Ontario, with killing eight elderly patients between August 2007 and August 2014 at two Caressant Care Nursing and Retirement Homes facilities. ](/news/2016/10/25/ontario-provincial-police-charge-a-former-canadian-nurse-elizabeth-tracy-mae-wettlaufer-in-woodstock-ontario-with-killing-eight-elderly.md)

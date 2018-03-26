@@ -93,7 +93,7 @@ Representatives of the Philippines government and the long-running communist ins
 
 ##### African Union
 ### [About 8,000 African Union troops from Burundi and Uganda are deployed to the Somali capital Mogadishu, the scene of heavy fighting this week. ](/news/2010/12/2/about-8-000-african-union-troops-from-burundi-and-uganda-are-deployed-to-the-somali-capital-mogadishu-the-scene-of-heavy-fighting-this-week.md)
-_Context: African Union, Burundi, Mogadishu, Somali, Uganda_
+_Context: African Union, Burundi, Mogadishu, Somalia, Uganda_
 
 ## [Previous Day...](/news/2010/12/1/index.md)
 

@@ -61,7 +61,7 @@ At least 60 Egyptian soldiers were on Wednesday killed as heavily-armed IS milit
 
 ##### Yemeni Civil War (2015)
 ### [Shells fired by Houthi forces have killed at least 18 people near the southern port city of Aden, meanwhile United Nations officials have warned that a deadly dengue fever outbreak is rapidly gaining pace in the war-torn country. ](/news/2015/07/1/shells-fired-by-houthi-forces-have-killed-at-least-18-people-near-the-southern-port-city-of-aden-meanwhile-united-nations-officials-have-wa.md)
-_Context: Aden, Houthis, United Nations, Yemeni Civil War (2015), dengue_
+_Context: Aden, Houthi, United Nations, Yemeni Civil War (2015), dengue_
 
 ## [Previous Day...](/news/2015/06/30/index.md)
 

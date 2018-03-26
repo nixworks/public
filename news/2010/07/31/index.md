@@ -27,7 +27,7 @@ An explosion at one coal mine operation in China left 17 people dead and another
 ### [United States and Michigan government officials say it will take months to clean up an oil spill in the Kalamazoo River in southern Michigan and considerably longer for the ecosystem to recover. ](/news/2010/07/31/united-states-and-michigan-government-officials-say-it-will-take-months-to-clean-up-an-oil-spill-in-the-kalamazoo-river-in-southern-michigan.md)
 Officials investigating the cause of a huge oil spill along a major river in southern Michigan say damage to wetlands and wildlife may last considerably longer.
 
-##### German
+##### Germany
 ### [Germany holds a memorial service for the 21 victims of the Love Parade disaster. ](/news/2010/07/31/germany-holds-a-memorial-service-for-the-21-victims-of-the-love-parade-disaster.md)
 Germany holds an emotional memorial service for the 21 people killed in a stampede at the Love Parade dance festival in the western city of Duisburg last weekend.
 

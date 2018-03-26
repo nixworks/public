@@ -27,9 +27,9 @@ _Context: Frederick Chiluba, Zambia, anti-corruption_
 ### [ A plane crash in Russia kills 28, some of them employees of Lukoil oil company. ](/news/2005/03/16/a-plane-crash-in-russia-kills-28-some-of-them-employees-of-lukoil-oil-company.md)
 _Context: Lukoil, Russia, plane crash_
 
-##### European Union
+##### EU
 ### [ European Union postpones negotiations for Croatia's possible membership. Delegates state that Zagreb has not cooperated with the International Criminal Tribunal for the Former Yugoslavia in trying to arrest suspected war criminal Ante Golovina. ](/news/2005/03/16/european-union-postpones-negotiations-for-croatia-s-possible-membership-delegates-state-that-zagreb-has-not-cooperated-with-the-internatio.md)
-_Context: Ante Golovina, Croatia, European Union, International Criminal Tribunal for the Former Yugoslavia, Zagreb_
+_Context: Ante Golovina, Croatia, EU, International Criminal Tribunal for the Former Yugoslavia, Zagreb_
 
 ##### Supreme Court
 ### [ In the Supreme Court of British Columbia today, Ripudaman Singh Malik and Ajaib Singh Bagri were found not guilty in their trial for the bombing of Air India Flight 182. ](/news/2005/03/16/in-the-supreme-court-of-british-columbia-today-ripudaman-singh-malik-and-ajaib-singh-bagri-were-found-not-guilty-in-their-trial-for-the-bo.md)

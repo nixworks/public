@@ -13,11 +13,11 @@ _Context: Hamas, Israel, ceasefire, rocket_
 
 ##### Avalanche
 ### [ A series of avalanches occurs near Kabul, Afghanistan, killing at least ten people and injuring eleven others. ](/news/2009/01/18/a-series-of-avalanches-occurs-near-kabul-afghanistan-killing-at-least-ten-people-and-injuring-eleven-others.md)
-_Context: Afghan, Kabul, avalanche, occurs_
+_Context: Afghanistan, Kabul, avalanche, occurs_
 
-##### France
+##### French
 ### [ A French military helicopter crashes off the coast of Gabon, killing at least seven people and rendering one other missing. ](/news/2009/01/18/a-french-military-helicopter-crashes-off-the-coast-of-gabon-killing-at-least-seven-people-and-rendering-one-other-missing.md)
-_Context: France, Gabon, crashes, helicopter, military_
+_Context: French, Gabon, crashes, helicopter, military_
 
 ##### Taiwan
 ### [ The Republic of China (Taiwan) distributes shopping vouchers to all its 22.7 million citizens as part of a US$2.53-billion plan to stimulate the economy. ](/news/2009/01/18/the-republic-of-china-taiwan-distributes-shopping-vouchers-to-all-its-22-7-million-citizens-as-part-of-a-us-2-53-billion-plan-to-stimulat.md)

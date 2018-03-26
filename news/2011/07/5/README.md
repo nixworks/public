@@ -7,9 +7,9 @@ Formats: [HTML](2011/07/5/index.html)  [JSON](2011/07/5/index.json)  [XML](2011/
 ### [Casey Anthony is acquitted of murder in relation to the death of her daughter Caylee, but guilty on four counts of misdemeanor providing false information to a law enforcement officer. ](/news/2011/07/5/casey-anthony-is-acquitted-of-murder-in-relation-to-the-death-of-her-daughter-caylee-but-guilty-on-four-counts-of-misdemeanor-providing-fal.md)
 Jurors in Orlando today found Casey Anthony not guilty of murder in the death of her 2-year-old daughter, Caylee.
 
-##### Somali
+##### Somalia
 ### [A Somali man, Ahmed Abdulkadir Warsame, is charged in the US city of New York with assisting the terrorist groups Al Shaabab and Al Qaeda in the Arabian Peninsula. ](/news/2011/07/5/a-somali-man-ahmed-abdulkadir-warsame-is-charged-in-the-us-city-of-new-york-with-assisting-the-terrorist-groups-al-shaabab-and-al-qaeda-in.md)
-_Context: Al Qaeda in the Arabian Peninsula, Al-Shabab, New York, Somali_
+_Context: Al Qaeda in the Arabian Peninsula, Al-Shabab, New York, Somalia_
 
 ##### Supreme Court of England and Wales
 ### [The Supreme Court of England and Wales dismisses an attempt by police to suspend a legal ruling limiting the powers of police bail. ](/news/2011/07/5/the-supreme-court-of-england-and-wales-dismisses-an-attempt-by-police-to-suspend-a-legal-ruling-limiting-the-powers-of-police-bail.md)
@@ -75,9 +75,9 @@ Oil prices rose to their highest in two weeks on Tuesday, aided by a broad rush 
 ### [Trainmaker Bombardier Transportation cuts 1,400 jobs from its United Kingdom factory in the English city of Derby after missing out on the GBP1.4bn Thameslink project. ](/news/2011/07/5/trainmaker-bombardier-transportation-cuts-1-400-jobs-from-its-united-kingdom-factory-in-the-english-city-of-derby-after-missing-out-on-the-a.md)
 Train maker Bombardier, which missed out on the £1.4bn Thameslink contract, says it will cut more than 1,400 jobs at its Derby plant.
 
-##### European Union
+##### EU
 ### [Bailouts for Greece's financial system are challenged in a German court amid concerns that the result may rock the European Union. ](/news/2011/07/5/bailouts-for-greece-s-financial-system-are-challenged-in-a-german-court-amid-concerns-that-the-result-may-rock-the-european-union.md)
-_Context: European Union_
+_Context: EU_
 
 ##### Christine Lagarde
 ### [Christine Lagarde officially starts as managing director of the International Monetary Fund (IMF). ](/news/2011/07/5/christine-lagarde-officially-starts-as-managing-director-of-the-international-monetary-fund-imf.md)

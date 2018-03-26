@@ -27,17 +27,17 @@ At least 72 people are now known to have died in a bombing in the Iraqi city of 
 ### [ Iranian state television claims at least ten people are dead following protests over the recent election. ](/news/2009/06/21/iranian-state-television-claims-at-least-ten-people-are-dead-following-protests-over-the-recent-election.md)
 Iranian opposition leader Mir-Hossein Mousavi urged his supporters to continue their protests over a disputed presidential election.
 
-##### France
+##### French
 ### [ Seven people, including six amusement park employees, are killed in a French rural helicopter crash. ](/news/2009/06/21/seven-people-including-six-amusement-park-employees-are-killed-in-a-french-rural-helicopter-crash.md)
-_Context: France_
+_Context: French_
 
 ##### Self-rule
 ### [ Self-rule is introduced in Greenland following a 2008 referendum. ](/news/2009/06/21/self-rule-is-introduced-in-greenland-following-a-2008-referendum.md)
 _Context: 2008 referendum, Greenland, Self-rule_
 
-##### Somali
+##### Somalia
 ### [ The Somali government declares a state of emergency. ](/news/2009/06/21/the-somali-government-declares-a-state-of-emergency.md)
-_Context: Somali, declares, states of emergency_
+_Context: Somalia, declares, states of emergency_
 
 ##### Treaty of Lisbon
 ### [ A new pro-Treaty of Lisbon group led by Pat Cox is launched in Ireland. ](/news/2009/06/21/a-new-pro-treaty-of-lisbon-group-led-by-pat-cox-is-launched-in-ireland.md)

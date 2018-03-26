@@ -21,7 +21,7 @@ _Context: 11th IAAF World Championships in Athletics, Japan, Osaka_
 
 ##### 2007 Greek fires
 ### [ 2007 Greek fires: More than 53 people, including children, die during the Peloponnese forest fires in Greece and many are missing in burnt villages. Huge fires also occur in the Imitos mountain area, Filothei, Athens and also in the Styra, Euboea and Keratea regions. The Greek government declares a national emergency and seeks assistance from the European Union. ](/news/2007/08/25/2007-greek-fires-more-than-53-people-including-children-die-during-the-peloponnese-forest-fires-in-greece-and-many-are-missing-in-burnt.md)
-_Context: 2007 Greek fires, Athens, Euboea, European Union, Filothei, Greece, Imitos, Keratea, Peloponnese, Styra_
+_Context: 2007 Greek fires, Athens, EU, Euboea, Filothei, Greece, Imitos, Keratea, Peloponnese, Styra_
 
 ##### Ongoing flooding
 ### [ Ongoing flooding in the midwestern United States affects six states and claim at least 26 lives ](/news/2007/08/25/ongoing-flooding-in-the-midwestern-united-states-affects-six-states-and-claim-at-least-26-lives.md)

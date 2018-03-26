@@ -25,7 +25,7 @@ _Context: Constitution of Iraq, December 2005, Iraqi National Assembly_
 
 ##### European Council
 ### [ The European Council meets to discuss the next 7-year budget for the European Union. ](/news/2005/12/15/the-european-council-meets-to-discuss-the-next-7-year-budget-for-the-european-union.md)
-_Context: 7-year budget, European Council, European Union_
+_Context: 7-year budget, EU, European Council_
 
 ##### Israeli-Palestinian Conflict
 ### [ Israeli-Palestinian Conflict: Israel continues to strike Palestinian areas in the Gaza Strip. ](/news/2005/12/15/israeli-palestinian-conflict-israel-continues-to-strike-palestinian-areas-in-the-gaza-strip.md)

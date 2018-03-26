@@ -21,7 +21,7 @@ _Context: 2008 Africa Cup of Nations, Cameroon, Egypt, Ghana, football_
 
 ##### Suicide car bomb
 ### [ A suicide car bomb at a market in Balad, Iraq kills 25. U.S. Secretary of Defense Robert Gates also arrives in Iraq from a Germany security conference to meet with Iraqi leaders, General David Petraeus and U.S. Ambassador to Iraq Ryan Crocker. ](/news/2008/02/10/a-suicide-car-bomb-at-a-market-in-balad-iraq-kills-25-u-s-secretary-of-defense-robert-gates-also-arrives-in-iraq-from-a-germany-security.md)
-_Context: Balad, David Petraeus, German, Iraq, Robert Gates, Ryan Crocker, Secretary of Defense, suicide car bomb_
+_Context: Balad, David Petraeus, Germany, Iraq, Robert Gates, Ryan Crocker, Secretary of Defense, suicide car bomb_
 
 ##### Illinois
 ### [ Illinois Senator Barack Obama wins the Maine caucus. ](/news/2008/02/10/illinois-senator-barack-obama-wins-the-maine-caucus.md)

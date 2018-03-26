@@ -5,7 +5,7 @@ Formats: [HTML](2016/02/20/index.html)  [JSON](2016/02/20/index.json)  [XML](201
 
 ##### Ugandan general election, 2016
 ### [The President of Uganda Yoweri Museveni is declared the winner of the Presidential election with 60% of the vote. European Union observers state that the election was held in an "intimidating atmosphere". ](/news/2016/02/20/the-president-of-uganda-yoweri-museveni-is-declared-the-winner-of-the-presidential-election-with-60-of-the-vote-european-union-observers-s.md)
-_Context: European Union, President, Ugandan general election, 2016, Yoweri Museveni_
+_Context: EU, President, Ugandan general election, 2016, Yoweri Museveni_
 
 ##### China's State Council
 ### [China's State Council announces that Liu Shiyu, who had been chairman of the Agricultural Bank of China Limited, will replace Xiao Gang as head of the China's Securities Regulatory Commission. ](/news/2016/02/20/china-s-state-council-announces-that-liu-shiyu-who-had-been-chairman-of-the-agricultural-bank-of-china-limited-will-replace-xiao-gang-as-h.md)

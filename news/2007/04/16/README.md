@@ -3,9 +3,9 @@ Formats: [HTML](2007/04/16/index.html)  [JSON](2007/04/16/index.json)  [XML](200
 
 ## [2007-04-16](/news/2007/04/16/index.md)
 
-##### Afghan
+##### Afghanistan
 ### [ At least ten Afghan police die in a suicide bombing in Kunduz in northeastern Afghanistan. ](/news/2007/04/16/at-least-ten-afghan-police-die-in-a-suicide-bombing-in-kunduz-in-northeastern-afghanistan.md)
-_Context: Afghan, Kunduz, police, suicide bombing_
+_Context: Afghanistan, Kunduz, police, suicide bombing_
 
 ##### Southern India
 ### [ At least 11 people die in southern India as a passenger train runs into a minibus carrying local officials near the village of Thirumatpur in Tamil Nadu. ](/news/2007/04/16/at-least-11-people-die-in-southern-india-as-a-passenger-train-runs-into-a-minibus-carrying-local-officials-near-the-village-of-thirumatpur.md)

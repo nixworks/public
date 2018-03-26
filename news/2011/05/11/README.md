@@ -41,7 +41,7 @@ _Context: Alik Alik, Federated States of Micronesia, Manny Mori, President, Vice
 
 ##### Edinburgh
 ### [John Clark Wilson is arrested in Edinburgh, Scotland, during a high-profile Hearts v Celtic tie in the SPL; the 26-year-old Hearts fan invaded the pitch and attempted to attack Celtic manager Neil Lennon. He is charged with breach of the peace and assault. ](/news/2011/05/11/john-clark-wilson-is-arrested-in-edinburgh-scotland-during-a-high-profile-hearts-v-celtic-tie-in-the-spl-the-26-year-old-hearts-fan-invad.md)
-_Context: Celtic, Edinburgh, Hearts, Neil Lennon, SPL, Scottish_
+_Context: Celtic, Edinburgh, Hearts, Neil Lennon, SPL, Scotland_
 
 ##### New York City
 ### [Two people are arrested in New York City for allegedly planning a terrorist attack. ](/news/2011/05/11/two-people-are-arrested-in-new-york-city-for-allegedly-planning-a-terrorist-attack.md)
@@ -97,7 +97,7 @@ _Context: Southern Sudan, Sudan, Zambia_
 
 ##### Grenade
 ### [Two grenades are thrown into the Saudi Arabian consulate in Karachi, Pakistan; no injures are reported. ](/news/2011/05/11/two-grenades-are-thrown-into-the-saudi-arabian-consulate-in-karachi-pakistan-no-injures-are-reported.md)
-_Context: Karachi, Pakistan, Saudi, grenade_
+_Context: Karachi, Pakistan, Saudi Arabia, grenade_
 
 ##### Misrata
 ### [Opposition forces in Misrata claim to have seized the city's airport from forces loyal to Muammar Gaddafi. ](/news/2011/05/11/opposition-forces-in-misrata-claim-to-have-seized-the-city-s-airport-from-forces-loyal-to-muammar-gaddafi.md)

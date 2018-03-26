@@ -37,7 +37,7 @@ _Context: China, India_
 
 ##### G4
 ### [ The G4 group of nations, which includes Brazil, India, Germany and Japan, says that it would revive efforts for United Nations Security Council reform. ](/news/2007/04/20/the-g4-group-of-nations-which-includes-brazil-india-germany-and-japan-says-that-it-would-revive-efforts-for-united-nations-security-cou.md)
-_Context: Brazil, G4, German, India, Japan, United Nations Security Council reform_
+_Context: Brazil, G4, Germany, India, Japan, United Nations Security Council reform_
 
 ##### President
 ### [ President of Cuba Fidel Castro meets briefly with Wu Guanzheng, a member of the Politburo of the Chinese Communist Party in his first official duties since transferring power in July 2006. ](/news/2007/04/20/president-of-cuba-fidel-castro-meets-briefly-with-wu-guanzheng-a-member-of-the-politburo-of-the-chinese-communist-party-in-his-first-offic.md)

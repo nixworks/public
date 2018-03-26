@@ -15,7 +15,7 @@ _Context: FBI, Internal Revenue Service, New Jersey, Operation Bid Rig, mayors, 
 ### [ Canada's national rail service, Via Rail, cancels train service due to a strike by its engineer workers. ](/news/2009/07/24/canada-s-national-rail-service-via-rail-cancels-train-service-due-to-a-strike-by-its-engineer-workers.md)
 _Context: Canada, Via Rail, strike_
 
-##### Afghan
+##### Afghanistan
 ### [ Afghan President Hamid Karzai, setting out his election manifesto, vows to make foreign troops sign a framework governing how they operate in a bid to limit civilians casualties. ](/news/2009/07/24/afghan-president-hamid-karzai-setting-out-his-election-manifesto-vows-to-make-foreign-troops-sign-a-framework-governing-how-they-operate.md)
 Afghan President Hamid Karzai, setting out his election manifesto, vowed on Friday to make foreign troops sign a framework governing how they operate in a bid to limit civilians casualties.
 

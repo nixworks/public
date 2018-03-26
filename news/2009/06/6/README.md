@@ -13,7 +13,7 @@ _Context: Burma, Constitution, International Labour Organization, amend, clause,
 
 ##### American Cemetery and Memorial
 ### [ The American Cemetery and Memorial honors World War II veterans who landed at Normandy, France, in 1944. ](/news/2009/06/6/the-american-cemetery-and-memorial-honors-world-war-ii-veterans-who-landed-at-normandy-france-in-1944.md)
-_Context: 1944, American Cemetery and Memorial, France, Normandy, World War II, landed, veteran_
+_Context: 1944, American Cemetery and Memorial, French, Normandy, World War II, landed, veteran_
 
 ##### Harvard University
 ### [ Harvard University discovers a molecular mechanism that regulates coagulation. ](/news/2009/06/6/harvard-university-discovers-a-molecular-mechanism-that-regulates-coagulation.md)
@@ -33,7 +33,7 @@ _Context: Air France, Atlantic Ocean, crash of Air France Flight 447_
 
 ##### Declares
 ### [ At least 36 people die during combat between the Transitional Federal Government and Islamist militants in Webho, Somalia. ](/news/2009/06/6/at-least-36-people-die-during-combat-between-the-transitional-federal-government-and-islamist-militants-in-webho-somalia.md)
-_Context: Islamists, Somali, Transitional Federal Government, declares, militant_
+_Context: Islamists, Somalia, Transitional Federal Government, declares, militant_
 
 ##### Deadly clashes
 ### [ Fifty-two people die during combat between Peru's Army and indigenous peoples in the Amazon Rainforest. ](/news/2009/06/6/fifty-two-people-die-during-combat-between-peru-s-army-and-indigenous-peoples-in-the-amazon-rainforest.md)
@@ -55,9 +55,9 @@ _Context: China, Chongqing, landslide_
 ### [ The Conservative Party gains seven county councils, the Liberal Democrats lose one, and the Labour Party loses four during the United Kingdom's local elections. ](/news/2009/06/6/the-conservative-party-gains-seven-county-councils-the-liberal-democrats-lose-one-and-the-labour-party-loses-four-during-the-united-kingd.md)
 _Context: Conservative Party, Labour Party, Liberal Democrats, United Kingdom, county council, local elections_
 
-##### European Union
+##### EU
 ### [ The European Union's parliamentary election continues in Cyprus, Italy, Latvia, Malta, Slovakia, the Czech Republic, and France's overseas departments and territories. ](/news/2009/06/6/the-european-union-s-parliamentary-election-continues-in-cyprus-italy-latvia-malta-slovakia-the-czech-republic-and-france-s-overseas.md)
-_Context: Cyprus, Czech Republic, European Parliament, European Union, France, Italy, Latvia, Malta, Overseas departments and territories of France, Slovakia, election_
+_Context: Cyprus, Czech Republic, EU, European Parliament, French, Italy, Latvia, Malta, Overseas departments and territories of France, Slovakia, election_
 
 ## [Previous Day...](/news/2009/06/5/index.md)
 

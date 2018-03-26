@@ -11,9 +11,9 @@ _Context: Florida Department of Children and Families, Terri Schiavo, US Supreme
 ### [ World Expo 2005 opens in Nagoya, Japan. ](/news/2005/03/24/world-expo-2005-opens-in-nagoya-japan.md)
 The Asahi Shimbun is widely regarded for its journalism as the most respected daily newspaper in Japan. The English version offers selected articles from the vernacular Asahi Shimbun, as well as extensive coverage of cool Japan,focusing on manga, travel and other timely news
 
-##### France
+##### French
 ### [ France presents a draft resolution to vote at the United Nations. It would give war crime cases in Darfur region of Sudan to the International Criminal Court in the Hague. US resists the idea. ](/news/2005/03/24/france-presents-a-draft-resolution-to-vote-at-the-united-nations-it-would-give-war-crime-cases-in-darfur-region-of-sudan-to-the-internatio.md)
-_Context: Darfur, France, International Criminal Court, Sudan, United Nations, the Hague, war crime_
+_Context: Darfur, French, International Criminal Court, Sudan, United Nations, the Hague, war crime_
 
 ##### World Health Organization
 ### [ The World Health Organization states that tuberculosis cases in some African countries have tripled since 1990. There are also resistant strains of tuberculosis in Russia. ](/news/2005/03/24/the-world-health-organization-states-that-tuberculosis-cases-in-some-african-countries-have-tripled-since-1990-there-are-also-resistant-st.md)

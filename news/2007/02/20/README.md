@@ -69,7 +69,7 @@ _Context: Kazakh Foreign Ministry, Kazakhstan, Soviet, nuclear programme_
 
 ##### United Nations Security Council
 ### [ The United Nations Security Council unanimously approves an African Union force to help stabilise Somalia. ](/news/2007/02/20/the-united-nations-security-council-unanimously-approves-an-african-union-force-to-help-stabilise-somalia.md)
-_Context: African Union, Somali, United Nations Security Council_
+_Context: African Union, Somalia, United Nations Security Council_
 
 ## [Previous Day...](/news/2007/02/19/index.md)
 

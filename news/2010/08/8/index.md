@@ -23,7 +23,7 @@ Journalists gather to demand greater freedoms and protection amid escalating dru
 ### [Elena Kagan is sworn in as the fourth woman to sit on the Supreme Court of the United States. ](/news/2010/08/8/elena-kagan-is-sworn-in-as-the-fourth-woman-to-sit-on-the-supreme-court-of-the-united-states.md)
 Elena Kagan becomes the third woman among the current nine justices, continuing a generational and demographic transformation of the court.
 
-##### Saudi
+##### Saudi Arabia
 ### [Saudi Arabia delays shutting off Research in Motion's BlackBerry instant messaging system allowing for test of a system allowing the Government of Saudi Arabia to monitor user data. ](/news/2010/08/8/saudi-arabia-delays-shutting-off-research-in-motion-s-blackberry-instant-messaging-system-allowing-for-test-of-a-system-allowing-the-governm.md)
 Saudi Arabia delayed its decision on shutting off Research In Motion Ltd.’s BlackBerry instant messaging until midnight today, giving carriers more time to test a system that can monitor user data and avert a ban.
 
@@ -73,7 +73,7 @@ _Context: African Union, Darfur, Omar al-Bashir, Sudanese President, United Nati
 
 ##### Embassy
 ### [Several countries evacuate staff from their embassies in Moscow due to the 2010 Russian wildfires including Germany, Austria, Poland and Canada, ](/news/2010/08/8/several-countries-evacuate-staff-from-their-embassies-in-moscow-due-to-the-2010-russian-wildfires-including-germany-austria-poland-and-can.md)
-_Context: Austria, Canada, German, Moscow, Poland, embassy, the recent wildfires_
+_Context: Austria, Canada, Germany, Moscow, Poland, embassy, the recent wildfires_
 
 ##### Copiapo
 ### [There is a further cave-in at the mine near Copiapo, Chile where people have been working since Thursday to rescue 34 miners trapped underground; work is currently suspended in an incident that is rare in that part of the world. ](/news/2010/08/8/there-is-a-further-cave-in-at-the-mine-near-copiapa3-chile-where-people-have-been-working-since-thursday-to-rescue-34-miners-trapped-underg.md)

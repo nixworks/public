@@ -7,9 +7,9 @@ Formats: [HTML](2005/04/2/index.html)  [JSON](2005/04/2/index.json)  [XML](2005/
 ### [ In Nepal, former prime minister Girija Prasad Koirala is released from house arrest and demands the return to democracy. ](/news/2005/04/2/in-nepal-former-prime-minister-girija-prasad-koirala-is-released-from-house-arrest-and-demands-the-return-to-democracy.md)
 _Context: Girija Prasad Koirala, Nepal, democratic, house arrest_
 
-##### France
+##### French
 ### [ In France, radical wine producers attack the offices of agriculture ministries in Montpellier and Carcassonne with dynamite. A group calling itself "Comit Rgional d'Action Viticole" (Crav) takes responsibility.](/news/2005/04/2/in-france-radical-wine-producers-attack-the-offices-of-agriculture-ministries-in-montpellier-and-carcassonne-with-dynamite-a-group-callin.md)
-_Context: Carcassonne, Comit Rgional d'Action Viticole, France, Montpellier, agriculture, dynamite, wine_
+_Context: Carcassonne, Comit Rgional d'Action Viticole, French, Montpellier, agriculture, dynamite, wine_
 
 ##### Riccardo Muti
 ### [ Riccardo Muti resigns as music director of La Scala opera house, Milan after 18 years, following a vote of no-confidence by 700 orchestra members and staff last month. ](/news/2005/04/2/riccardo-muti-resigns-as-music-director-of-la-scala-opera-house-milan-after-18-years-following-a-vote-of-no-confidence-by-700-orchestra-m.md)

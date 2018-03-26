@@ -5,7 +5,7 @@ Formats: [HTML](2010/01/5/index.html)  [JSON](2010/01/5/index.json)  [XML](2010/
 
 ##### Nigeria
 ### [Opposition parties in Nigeria raise their concerns over "missing" President Umaru Yar'Adua who has been at a hospital in Saudi Arabia for six weeks. ](/news/2010/01/5/opposition-parties-in-nigeria-raise-their-concerns-over-missing-president-umaru-yar-adua-who-has-been-at-a-hospital-in-saudi-arabia-for-si.md)
-_Context: Nigeria, President, Saudi, Umaru Yar'Adua_
+_Context: Nigeria, President, Saudi Arabia, Umaru Yar'Adua_
 
 ##### President
 ### [The President of Iceland Olafur Ragnar Grimsson announces a referendum during a live televised speech. ](/news/2010/01/5/the-president-of-iceland-alafur-ragnar-gramsson-announces-a-referendum-during-a-live-televised-speech.md)
@@ -53,7 +53,7 @@ _Context: Berkshire Hathaway Inc., Cadbury, Kraft Foods, Warren Buffett_
 
 ##### World Food Programme
 ### [The World Food Programme suspends its operations in southern Somalia due to rising instability in the region. ](/news/2010/01/5/the-world-food-programme-suspends-its-operations-in-southern-somalia-due-to-rising-instability-in-the-region.md)
-_Context: Somali, World Food Programme_
+_Context: Somalia, World Food Programme_
 
 ##### Facebook
 ### [Facebook blocks a social network suicide website. ](/news/2010/01/5/facebook-blocks-a-social-network-suicide-website.md)
@@ -61,7 +61,7 @@ _Context: Facebook, social network_
 
 ##### Suicide bomber
 ### [The suicide bomber from Jordan, Humam Khalil Abu-Mulal al-Balawi, who killed seven CIA agents in Afghanistan, is reported to be an al-Qaeda triple agent. ](/news/2010/01/5/the-suicide-bomber-from-jordan-humam-khalil-abu-mulal-al-balawi-who-killed-seven-cia-agents-in-afghanistan-is-reported-to-be-an-al-qaeda.md)
-_Context: Afghan, CIA, Humam Khalil Abu-Mulal al-Balawi, Jordan, al-Qaeda, killed, suicide bomber_
+_Context: Afghanistan, CIA, Humam Khalil Abu-Mulal al-Balawi, Jordan, al-Qaeda, killed, suicide bomber_
 
 ##### Yemen
 ### [The Yemeni government launches campaigns in three provinces to battle Al-Qaeda fighters. ](/news/2010/01/5/the-yemeni-government-launches-campaigns-in-three-provinces-to-battle-al-qaeda-fighters.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2009/04/26/index.html)  [JSON](2009/04/26/index.json)  [XML](200
 
 ##### Cruise ship
 ### [ The cruise ship MSC "Melody" thwarts an attack by Somali pirates in the Gulf of Aden. ](/news/2009/04/26/the-cruise-ship-msc-melody-thwarts-an-attack-by-somali-pirates-in-the-gulf-of-aden.md)
-_Context: ''Melody'', Gulf of Aden, MSC, Somali, Somali pirates, cruise ship_
+_Context: ''Melody'', Gulf of Aden, MSC, Somali pirates, Somalia, cruise ship_
 
 ##### Re-election
 ### [ Incumbent President Rafael Correa claims victory in Ecuador's general election. ](/news/2009/04/26/incumbent-president-rafael-correa-claims-victory-in-ecuador-s-general-election.md)

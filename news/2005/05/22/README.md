@@ -13,15 +13,15 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Nepal
 ### [ In Nepal, thousands of opposition supporters demonstrate against the rule of King Gyanendra and demand restoration of parliament. Royalist government is dismayed by EU and Indian demands to return to democracy ](/news/2005/05/22/in-nepal-thousands-of-opposition-supporters-demonstrate-against-the-rule-of-king-gyanendra-and-demand-restoration-of-parliament-royalist.md)
-_Context: European Union, Gyanendra of Nepal, India, Nepal, democratic_
+_Context: EU, Gyanendra of Nepal, India, Nepal, democratic_
 
 ##### Elections in Mongolia
 ### [ Elections in Mongolia: Former Prime Minister of Mongolia Nambaryn Enkhbayar wins presidential election. ](/news/2005/05/22/elections-in-mongolia-former-prime-minister-of-mongolia-nambaryn-enkhbayar-wins-presidential-election.md)
 _Context: Elections in Mongolia, Nambaryn Enkhbayar, Prime Minister, presidential election_
 
-##### German
+##### Germany
 ### [ German Chancellor Gerhard Schrder has declared that he will seek the next German federal election to be held this autumn, a year earlier than set out by the constitution, after the CDU and FDP defeated the Social Democrats (SPD), who were in coalition with the Greens, at the regional election in North Rhine-Westphalia. ](/news/2005/05/22/german-chancellor-gerhard-schroder-has-declared-that-he-will-seek-the-next-german-federal-election-to-be-held-this-autumn-a-year-earlier-t.md)
-_Context: Chancellor, Christian Democratic Union, FDP, Gerhard Schrder, German, German Constitution, German federal election, 2005, North Rhine-Westphalia, Social Democrats, autumn_
+_Context: Chancellor, Christian Democratic Union, FDP, Gerhard Schrder, German Constitution, German federal election, 2005, Germany, North Rhine-Westphalia, Social Democrats, autumn_
 
 ##### Israel
 ### [ Israel arrests a 15-year-old Palestinian at a Hawara checkpoint, near Nablus, wearing a suicide bomb belt. ](/news/2005/05/22/israel-arrests-a-15-year-old-palestinian-at-a-hawara-checkpoint-near-nablus-wearing-a-suicide-bomb-belt.md)

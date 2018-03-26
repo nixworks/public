@@ -15,7 +15,7 @@ _Context: Communist Party, Pham Thanh Nghien, Vietnam, propaganda_
 ### [Tony Blair appears at the Iraq Inquiry and is questioned in public for the first time about his decision to take the United Kingdom to war against Iraq. ](/news/2010/01/29/tony-blair-appears-at-the-iraq-inquiry-and-is-questioned-in-public-for-the-first-time-about-his-decision-to-take-the-united-kingdom-to-war-a.md)
 _Context: Iraq, Iraq Inquiry, Iraq War, Tony Blair, United Kingdom_
 
-##### Somali
+##### Somalia
 ### [Several people are killed in heavy fighting in the Somalian capital Mogadishu. ](/news/2010/01/29/several-people-are-killed-in-heavy-fighting-in-the-somalian-capital-mogadishu.md)
 At least nine dead in fighting in densely populated Mogadishu neighbourhoods.
 
@@ -33,7 +33,7 @@ _Context: North Korea, Northern Limit Line, South Korea_
 
 ##### Nigeria
 ### [A Nigerian court dismisses a call for an interim leader to be appointed while President Umaru Yar'Adua is in hospital in Saudi Arabia. ](/news/2010/01/29/a-nigerian-court-dismisses-a-call-for-an-interim-leader-to-be-appointed-while-president-umaru-yar-adua-is-in-hospital-in-saudi-arabia.md)
-_Context: Nigeria, Saudi, Umaru Yar'Adua_
+_Context: Nigeria, Saudi Arabia, Umaru Yar'Adua_
 
 ##### Sri Lanka
 ### [The offices of defeated Sri Lankan presidential candidate Sarath Fonseka are raided by police. ](/news/2010/01/29/the-offices-of-defeated-sri-lankan-presidential-candidate-sarath-fonseka-are-raided-by-police.md)

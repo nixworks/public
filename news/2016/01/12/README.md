@@ -7,7 +7,7 @@ Formats: [HTML](2016/01/12/index.html)  [JSON](2016/01/12/index.json)  [XML](201
 ### [Windows 8 along with Internet Explorer versions 8, 9 and 10 are now officially unsupported by Microsoft. ](/news/2016/01/12/windows-8-along-with-internet-explorer-versions-8-9-and-10-are-now-officially-unsupported-by-microsoft.md)
 Microsoft will no longer support Windows 8, this is why...
 
-##### Saudi
+##### Saudi Arabia
 ### [Saudi Arabia arrests Samar Badawi, a human rights activist who received the International Women of Courage Award from the United States in 2012. Badawi is to appear in court on Wednesday, according to Amnesty International. Both her brother, Raif Badawi, publisher of the "Free Saudi Liberals" blog, and former husband, Waleed Sami Abulkhair, are currently imprisoned. ](/news/2016/01/12/saudi-arabia-arrests-samar-badawi-a-human-rights-activist-who-received-the-international-women-of-courage-award-from-the-united-states-in-2.md)
 The arrest of Samar Badawi, a prominent human rights defender, as well as the sister of imprisoned blogger Raif Badawi and the former spouse of imprisoned human rights lawyer Waleed Abu al-Khair, is t
 

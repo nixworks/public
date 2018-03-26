@@ -51,7 +51,7 @@ _Context: Binhai New Area, Eco-technology Park, Sino-Singapore Tianjin Eco-city,
 ### [China denies reports that it has banned export of rare earth mineral to the United States and Europe following similar measures against Japan. ](/news/2010/10/20/china-denies-reports-that-it-has-banned-export-of-rare-earth-mineral-to-the-united-states-and-europe-following-similar-measures-against-japa.md)
 _Context: China, Europe, Japan, United States, rare earth mineral_
 
-##### France
+##### French
 ### [France braces itself for another day of strikes against proposed cuts to pensions that the Senate will consider later this week. ](/news/2010/10/20/france-braces-itself-for-another-day-of-strikes-against-proposed-cuts-to-pensions-that-the-senate-will-consider-later-this-week.md)
 French strikers impose new fuel blockades, hours after security forces clear protesters from three depots.
 
@@ -59,7 +59,7 @@ French strikers impose new fuel blockades, hours after security forces clear pro
 ### [United Kingdom boyband JLS and hip-hop MC Tinie Tempah dominate the Music of Black Origin Awards in Liverpool. ](/news/2010/10/20/united-kingdom-boyband-jls-and-hip-hop-mc-tinie-tempah-dominate-the-music-of-black-origin-awards-in-liverpool.md)
 _Context: JLS, Liverpool, MC, Music of Black Origin Awards, Tinie Tempah, United Kingdom, boyband, hip-hop_
 
-##### Somali
+##### Somalia
 ### [Somali gunmen release a British security consultant for Save the Children after six days in captivity. ](/news/2010/10/20/somali-gunmen-release-a-british-security-consultant-for-save-the-children-after-six-days-in-captivity.md)
 A British security consultant kidnapped six days ago by gunmen in Somalia has described his release as &quot;marvellous&quot;, Save the Children says.
 

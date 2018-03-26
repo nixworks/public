@@ -16,8 +16,8 @@ Formats: [HTML](/news/2005/12/28/ja1-4rgen-chrobog-germany-s-former-deputy-forei
 
 ### Related:
 
-1. [The US, UK, France and Germany ban all air freight from Yemen at their respective countries' airports following the discovery of two explosive packages. ](/news/2010/10/31/the-us-uk-france-and-germany-ban-all-air-freight-from-yemen-at-their-respective-countries-airports-following-the-discovery-of-two-explosi.md) _Context: German, Yemen_
-2. [ Seven Germans, one Briton and a South Korean are captured by Shia rebels in Sa'dah, Yemen. ](/news/2009/06/14/seven-germans-one-briton-and-a-south-korean-are-captured-by-shia-rebels-in-sa-dah-yemen.md) _Context: German, Yemen_
-3. [ Somali pirates hijack five ships from the United Kingdom, Taiwan, Germany, France, and Yemen. ](/news/2009/04/6/somali-pirates-hijack-five-ships-from-the-united-kingdom-taiwan-germany-france-and-yemen.md) _Context: German, Yemen_
-4. [Saudi aircraft attack targets in residential areas of Hudaydah and Sa'dah, Yemen. At least seven civilians are killed. ](/news/2018/03/24/saudi-aircraft-attack-targets-in-residential-areas-of-hudaydah-and-sa-dah-yemen-at-least-seven-civilians-are-killed.md) _Context: Yemen_
-5. [Yemeni forces launch a missile attack on Aramco's HQ in Najran, Saudi Arabia. ](/news/2018/03/22/yemeni-forces-launch-a-missile-attack-on-aramco-s-hq-in-najran-saudi-arabia.md) _Context: Yemen_
+1. [The US, UK, France and Germany ban all air freight from Yemen at their respective countries' airports following the discovery of two explosive packages. ](/news/2010/10/31/the-us-uk-france-and-germany-ban-all-air-freight-from-yemen-at-their-respective-countries-airports-following-the-discovery-of-two-explosi.md) _Context: Germany, Yemen_
+2. [ Seven Germans, one Briton and a South Korean are captured by Shia rebels in Sa'dah, Yemen. ](/news/2009/06/14/seven-germans-one-briton-and-a-south-korean-are-captured-by-shia-rebels-in-sa-dah-yemen.md) _Context: Germany, Yemen_
+3. [ Somali pirates hijack five ships from the United Kingdom, Taiwan, Germany, France, and Yemen. ](/news/2009/04/6/somali-pirates-hijack-five-ships-from-the-united-kingdom-taiwan-germany-france-and-yemen.md) _Context: Germany, Yemen_
+4. [Sheikh Tamim of Qatar visits Russia to discuss the situation in Syria, Yemen and Palestine. ](/news/2018/03/25/sheikh-tamim-of-qatar-visits-russia-to-discuss-the-situation-in-syria-yemen-and-palestine.md) _Context: Yemen_
+5. [Catalonia's ex-President Carles Puigdemont is detained in Germany. ](/news/2018/03/25/catalonia-s-ex-president-carles-puigdemont-is-detained-in-germany.md) _Context: Germany_

@@ -27,7 +27,7 @@ Ethnic Karen armies have united as fresh fighting erupts on Thai-Myanmar border.
 ### [The corpse of missing 10-year-old Australian girl Zahra Baker is found in Caldwell County in the U.S. state of North Carolina; her father and stepmother, Adam and Elisa Baker, are the main suspects in her disappearance and homicide. ](/news/2010/11/12/the-corpse-of-missing-10-year-old-australian-girl-zahra-baker-is-found-in-caldwell-county-in-the-u-s-state-of-north-carolina-her-father-an.md)
 The human remains found in North Carolina Wednesday were confirmed to be those of missing Australian 10-year-old Zahra Baker, WCNC-TV reported Friday, citing a source close to the investigation.
 
-##### Twitter
+##### Tweeting
 ### [One day after the failure of his appeal, Twitterers combine to support Paul Chambers, a Briton convicted and fined for a threatening Twitter message. ](/news/2010/11/12/one-day-after-the-failure-of-his-appeal-twitterers-combine-to-support-paul-chambers-a-briton-convicted-and-fined-for-a-threatening-twitter.md)
 Thousands of Twitter users are backing Paul Chambers, the man convicted and fined for sending a message threatening to blow up an airport.
 
@@ -55,9 +55,9 @@ The trial starts of eight officers charged with the murder of prominent human ri
 ### [The Supreme Court of the United States refuses to rescind the country's ban on openly gay soldiers. ](/news/2010/11/12/the-supreme-court-of-the-united-states-refuses-to-rescind-the-country-s-ban-on-openly-gay-soldiers.md)
 Supreme court rejects request to rescind ban on openly gay soldiers, while Obama pushes Senate to repeal it.
 
-##### European Union
+##### EU
 ### [The European Union agrees to meet with Iran to discuss its nuclear program. ](/news/2010/11/12/the-european-union-agrees-to-meet-with-iran-to-discuss-its-nuclear-program.md)
-_Context: European Union, Iran, nuclear program_
+_Context: EU, Iran, nuclear program_
 
 ##### Russia
 ### [The leaders of Russia and Japan are to meet to discuss the disputed Kuril Islands. ](/news/2010/11/12/the-leaders-of-russia-and-japan-are-to-meet-to-discuss-the-disputed-kuril-islands.md)
@@ -107,7 +107,7 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 ### [Brazil begins auctioning parts of the Amazon Rainforest to private companies for logging. ](/news/2010/11/12/brazil-begins-auctioning-parts-of-the-amazon-rainforest-to-private-companies-for-logging.md)
 _Context: Amazon Rainforest, Brazil, logging_
 
-##### German
+##### Germany
 ### [Leaders from Germany, France and the United Kingdom hold an emergency meeting at the 2010 G-20 Seoul summit after panic selling of Irish debt spreads to Spain and Portugal. ](/news/2010/11/12/leaders-from-germany-france-and-the-united-kingdom-hold-an-emergency-meeting-at-the-2010-g-20-seoul-summit-after-panic-selling-of-irish-deb.md)
 Ireland is in talks to receive emergency funding from the European Union and is likely to become the second euro zone country after Greece to obtain an international rescue, official sources said on Friday.
 

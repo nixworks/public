@@ -35,7 +35,7 @@ Powerful explosion hits Grozny but details on casualties remain unclear.
 ### [Israeli police arrest Hamas MP Mohammed Abu Teir for breaking a law by staying within the borders of the state of Israel after being ordered to leave Jerusalem. ](/news/2010/06/30/israeli-police-arrest-hamas-mp-mohammed-abu-teir-for-breaking-a-law-by-staying-within-the-borders-of-the-state-of-israel-after-being-ordered.md)
 Palestinian held after failing to comply with order to leave occupied Jerusalem.
 
-##### Afghan
+##### Afghanistan
 ### [8 militants are killed in fighting at eastern Afghanistan's Jalalabad Airport. ](/news/2010/06/30/8-militants-are-killed-in-fighting-at-eastern-afghanistan-s-jalalabad-airport.md)
 The Taliban attack a Nato base in east Afghanistan a day after the US commander, Gen Petraeus, warned of escalating violence.
 

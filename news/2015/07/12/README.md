@@ -21,7 +21,7 @@ _Context: Colombian conflict (1964-present), FARC, government_
 
 ##### War in Afghanistan (2015-present)
 ### [A suicide car bomb kills 25 people and wounds 10 in southeastern Afghanistan close to a U.S. base. ](/news/2015/07/12/a-suicide-car-bomb-kills-25-people-and-wounds-10-in-southeastern-afghanistan-close-to-a-u-s-base.md)
-_Context: Afghan, United States, War in Afghanistan (2015-present), car bomb_
+_Context: Afghanistan, United States, War in Afghanistan (2015-present), car bomb_
 
 ##### 2015 Sousse attacks
 ### [Tunisia arrests 127 people suspected of being members of terrorist groups following last month's attack. ](/news/2015/07/12/tunisia-arrests-127-people-suspected-of-being-members-of-terrorist-groups-following-last-month-s-attack.md)

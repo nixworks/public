@@ -21,7 +21,7 @@ _Context: Kim Jong-il, Kim Jong-un, Korean Workers' Party, North Korea_
 
 ##### Pakistan
 ### [Pakistani scientist Aafia Siddiqui is sentenced to 86 years in jail in a New York federal court for trying to kill United States soldiers in Afghanistan. ](/news/2010/09/23/pakistani-scientist-aafia-siddiqui-is-sentenced-to-86-years-in-jail-in-a-new-york-federal-court-for-trying-to-kill-united-states-soldiers-in.md)
-_Context: Aafia Siddiqui, Afghan, New York, Pakistan, United States_
+_Context: Aafia Siddiqui, Afghanistan, New York, Pakistan, United States_
 
 ##### U.S
 ### [The U.S state of Virginia executes its first woman since 1912; Teresa Lewis will also be the first woman in the U.S to be executed since 2005. ](/news/2010/09/23/the-u-s-state-of-virginia-executes-its-first-woman-since-1912-teresa-lewis-will-also-be-the-first-woman-in-the-u-s-to-be-executed-since-200.md)
@@ -43,7 +43,7 @@ _Context: 9/11 attacks, Australia, Belgium, Israel, Mahmoud Ahmadinejad, Preside
 ### [Iran withdraws its bid for a seat on the International Atomic Energy Agency board due to lack of support for its candidacy. ](/news/2010/09/23/iran-withdraws-its-bid-for-a-seat-on-the-international-atomic-energy-agency-board-due-to-lack-of-support-for-its-candidacy.md)
 _Context: IAEA, Iran_
 
-##### France
+##### French
 ### [French authorities seek to make contact with Al-Qaeda in the Islamic Maghreb over the kidnapping of five French nationals and two others in Niger, now believed to have been taken to northern Mali. ](/news/2010/09/23/french-authorities-seek-to-make-contact-with-al-qaeda-in-the-islamic-maghreb-over-the-kidnapping-of-five-french-nationals-and-two-others-in.md)
 France wants to contact the al-Qaeda group which abducted five of its citizens in Niger, its defence minister says.
 
@@ -75,7 +75,7 @@ Tens of thousands of people take to the streets for the second major protest aga
 ### [Victor Julio Suarez Rojas, the leader of the FARC guerrilla whose "nom de guerre" was "Mono Jojoy", is killed in a military operation by Colombian Armed Forces. ](/news/2010/09/23/vactor-julio-sua-rez-rojas-the-leader-of-the-farc-guerrilla-whose-nom-de-guerre-was-mono-jojoy-is-killed-in-a-military-operation-by-c.md)
 _Context: Colombian Armed Forces, FARC, Victor Julio Suarez Rojas, nom de guerre_
 
-##### Somali
+##### Somalia
 ### [Somali journalists walk out of the GBC radio station seized by Islamist rebels after refusing to take orders. ](/news/2010/09/23/somali-journalists-walk-out-of-the-gbc-radio-station-seized-by-islamist-rebels-after-refusing-to-take-orders.md)
 Somali journalists refuse to obey the editorial orders of an Islamist group which seized their radio station, amid heavy fighting in the capital, Mogadishu.
 

@@ -41,9 +41,9 @@ _Context: Abdurrahman Wahid, Indonesia, President of Indonesia_
 ### [ A British hostage is released alive in Iraq following over two and a half years of captivity in Iraq and Iran. ](/news/2009/12/30/a-british-hostage-is-released-alive-in-iraq-following-over-two-and-a-half-years-of-captivity-in-iraq-and-iran.md)
 A British hostage has been freed after more than two-and-a-half years in captivity in Iraq.
 
-##### Scottish
+##### Scotland
 ### [ Two people are found dead following three separate avalanches in Scotland, while a third person who was rescued dies later in hospital. ](/news/2009/12/30/two-people-are-found-dead-following-three-separate-avalanches-in-scotland-while-a-third-person-who-was-rescued-dies-later-in-hospital.md)
-_Context: Scottish_
+_Context: Scotland_
 
 ##### Veracruz
 ### [ Hundreds of protesters gather outside Allende prison in Veracruz, Mexico, objecting to the removal of inmates to allow U.S. film director Mel Gibson to shoot a controversial movie. ](/news/2009/12/30/hundreds-of-protesters-gather-outside-allende-prison-in-veracruz-mexico-objecting-to-the-removal-of-inmates-to-allow-u-s-film-director-m.md)
@@ -55,7 +55,7 @@ Four Canadian soldiers and Calgary Herald reporter Michelle Lang were killed in 
 
 ##### United States
 ### [ Seven American CIA agents are killed by a suicide bomb attack in a US military base in Khost Province, Afghanistan. Two of the seven killed are contractors for Blackwater Worldwide. The CIA considers contractors to be officers. ](/news/2009/12/30/seven-american-cia-agents-are-killed-by-a-suicide-bomb-attack-in-a-us-military-base-in-khost-province-afghanistan-two-of-the-seven-killed.md)
-_Context: Afghan, Blackwater Worldwide, CIA, Khost, United States, suicide bomb_
+_Context: Afghanistan, Blackwater Worldwide, CIA, Khost, United States, suicide bomb_
 
 ## [Previous Day...](/news/2009/12/29/index.md)
 

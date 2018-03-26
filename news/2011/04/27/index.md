@@ -45,7 +45,7 @@ _Context: 2011 Tohoku earthquake and tsunami, Akihito, Emperor, Empress Michiko_
 
 ##### President of France
 ### [President of France Nicolas Sarkozy endorses Mario Draghi to become next President of the European Central Bank, to succeed Jean-Claude Trichet. ](/news/2011/04/27/president-of-france-nicolas-sarkozy-endorses-mario-draghi-to-become-next-president-of-the-european-central-bank-to-succeed-jean-claude-tric.md)
-_Context: European Central Bank, France, Jean-Claude Trichet, Mario Draghi, Nicolas Sarkozy, President of France, Vice-President_
+_Context: European Central Bank, French, Jean-Claude Trichet, Mario Draghi, Nicolas Sarkozy, President of France, Vice-President_
 
 ##### Johnson & Johnson
 ### [US company Johnson & Johnson agrees to buy Synthes for $21.3 billion in cash and stock. ](/news/2011/04/27/us-company-johnson-johnson-agrees-to-buy-synthes-for-21-3-billion-in-cash-and-stock.md)
@@ -81,7 +81,7 @@ Ibrahim Coulibaly, an Ivory Coast militia leader who has been behind several cou
 
 ##### BP
 ### [BP discovers a German naval mine from World War II near pipelines in the North Sea near Peterhead, Scotland with removal of the bomb likely to lead to the temporary closure of 16 oil fields and a consequent rise in the price of oil. ](/news/2011/04/27/bp-discovers-a-german-naval-mine-from-world-war-ii-near-pipelines-in-the-north-sea-near-peterhead-scotland-with-removal-of-the-bomb-likely.md)
-_Context: BP, German, North Sea, Peterhead, Scottish, World War II, naval mine_
+_Context: BP, Germany, North Sea, Peterhead, Scotland, World War II, naval mine_
 
 ##### Thailand
 ### [Troops from Thailand and Cambodia exchange gunfire for the sixth straight day as the death toll from the conflict during the period reaches fourteen. ](/news/2011/04/27/troops-from-thailand-and-cambodia-exchange-gunfire-for-the-sixth-straight-day-as-the-death-toll-from-the-conflict-during-the-period-reaches.md)

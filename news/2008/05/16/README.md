@@ -13,7 +13,7 @@ _Context: June 27, Morgan Tsvangirai, Movement for Democratic Change, President 
 
 ##### U.S. President
 ### [ The President of the United States George W. Bush arrives in Saudi Arabia to discuss rising fuel prices with King Abdullah of Saudi Arabia. Saudi Arabia later announces plans to raise its output by 300,000 barrels a day. ](/news/2008/05/16/the-president-of-the-united-states-george-w-bush-arrives-in-saudi-arabia-to-discuss-rising-fuel-prices-with-king-abdullah-of-saudi-arabia.md)
-_Context: Abdullah, George W. Bush, Saudi, Saudi King, U.S. President_
+_Context: Abdullah, George W. Bush, Saudi Arabia, Saudi King, U.S. President_
 
 ##### Sri Lanka
 ### [ A suicide bomber kills at least nine people, including 7 police, and wounds 90 in Sri Lanka's capital Colombo. ](/news/2008/05/16/a-suicide-bomber-kills-at-least-nine-people-including-7-police-and-wounds-90-in-sri-lanka-s-capital-colombo.md)

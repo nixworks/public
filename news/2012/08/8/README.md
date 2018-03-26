@@ -11,9 +11,9 @@ _Context: Crimean Tatar language, Hungarian, Russian language, Russian-speaking 
 ### [Japanese Prime Minister Yoshihiko Noda announces that the ruling Democratic Party of Japan has reached an agreement with the opposition Liberal Democratic and New Komeito parties to pass a bill that will raise Japan's consumption tax rate. This will "shortly" be followed by dissolution of the Diet and a snap election, although no timetable has been set. ](/news/2012/08/8/japanese-prime-minister-yoshihiko-noda-announces-that-the-ruling-democratic-party-of-japan-has-reached-an-agreement-with-the-opposition-libe.md)
 Japan is set to pass legislation tomorrow to raise the sales tax after the main opposition party failed in a bid to force Prime Minister Yoshihiko Noda to set an election date in exchange for support on the bill.
 
-##### German
+##### Germany
 ### [30 leading German managers write a letter to the leaders of the parliamentary groups where they ask for the ratification of the United Nations Convention against Corruption. ](/news/2012/08/8/30-leading-german-managers-write-a-letter-to-the-leaders-of-the-parliamentary-groups-where-they-ask-for-the-ratification-of-the-united-natio.md)
-_Context: German, United Nations Convention against Corruption_
+_Context: Germany, United Nations Convention against Corruption_
 
 ##### Jared Lee Loughner
 ### [Jared Lee Loughner, the shooter in the 2011 Tucson shooting, pleads guilty to all charges and is sentenced to life in prison without the possibility of parole. ](/news/2012/08/8/jared-lee-loughner-the-shooter-in-the-2011-tucson-shooting-pleads-guilty-to-all-charges-and-is-sentenced-to-life-in-prison-without-the-pos.md)

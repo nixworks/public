@@ -19,7 +19,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 ### [ In a meeting of the Economic Community of West African States, west African leaders refuse to recognise Faure Gnassingb as the new president of Togo and threaten to impose sanctions if the country does not begin to plan presidential elections. Gnassingb has promised elections as soon as possible. ](/news/2005/02/10/in-a-meeting-of-the-economic-community-of-west-african-states-west-african-leaders-refuse-to-recognise-faure-gnassingbe-as-the-new-preside.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
-##### Saudi
+##### Saudi Arabia
 ### [ Saudi Arabia starts its first nationwide municipal elections. Voting is limited to men in Riyadh and voters elect only half of the municipal councils; the other half is appointed by the monarchy. Other regions are scheduled to hold elections next month. ](/news/2005/02/10/saudi-arabia-starts-its-first-nationwide-municipal-elections-voting-is-limited-to-men-in-riyadh-and-voters-elect-only-half-of-the-municipa.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 

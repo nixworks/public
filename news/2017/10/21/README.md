@@ -45,7 +45,7 @@ Gunmen on pick-up trucks and motorcycles coming from Mali killed 13 gendarmes an
 
 ##### War in Somalia
 ### [The death toll in Somalia's deadliest terror attack rises up to 358, making it the fifth-deadliest terror attack worldwide. ](/news/2017/10/21/the-death-toll-in-somalia-s-deadliest-terror-attack-rises-up-to-358-making-it-the-fifth-deadliest-terror-attack-worldwide.md)
-_Context: 14 October 2017 Mogadishu bombings, Somali, War in Somalia, third-deadliest terrorist attack_
+_Context: 14 October 2017 Mogadishu bombings, Somalia, War in Somalia, third-deadliest terrorist attack_
 
 ## [Previous Day...](/news/2017/10/20/index.md)
 

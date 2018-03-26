@@ -21,7 +21,7 @@ _Context: Mandurah Line, New MetroRail, Perth, The Esplanade Station, Western Au
 
 ##### Airbus
 ### [ Airbus delivers its first A380 aircraft to launch customer Singapore Airlines in a ceremony in Toulouse, France, almost 18 months behind schedule, but denies rumours that further delays to the programme are looming. ](/news/2007/10/15/airbus-delivers-its-first-a380-aircraft-to-launch-customer-singapore-airlines-in-a-ceremony-in-toulouse-france-almost-18-months-behind-sc.md)
-_Context: A380, Airbus, France, Singapore Airlines, Toulouse_
+_Context: A380, Airbus, French, Singapore Airlines, Toulouse_
 
 ##### Ibrahim Gambari
 ### [ Ibrahim Gambari, the United Nations special envoy to Myanmar, warns the Burmese government to stop arresting dissidents. ](/news/2007/10/15/ibrahim-gambari-the-united-nations-special-envoy-to-myanmar-warns-the-burmese-government-to-stop-arresting-dissidents.md)
@@ -37,11 +37,11 @@ _Context: Liberal Democrats, Menzies Campbell, United Kingdom, leadership electi
 
 ##### Battle of Las Anod
 ### [ Battle of Las Anod: Troops from the breakaway Somali republic of Somaliland seize a town inside Puntland, a rival region loyal to the interim Somali government, killing at least 10 people. ](/news/2007/10/15/battle-of-las-anod-troops-from-the-breakaway-somali-republic-of-somaliland-seize-a-town-inside-puntland-a-rival-region-loyal-to-the-inter.md)
-_Context: Battle of Las Anod, Puntland, Somali, Somaliland_
+_Context: Battle of Las Anod, Puntland, Somalia, Somaliland_
 
 ##### Prime Minister
 ### [ Montenegrin Prime Minister Zeljko Sturanovic signs a Stabilisation and Association Agreement with the European Union, saying that Montenegro is hoping to lodge an official application for EU membership in the first half of 2008. ](/news/2007/10/15/montenegrin-prime-minister-a1-2eljko-a-turanovia-signs-a-stabilisation-and-association-agreement-with-the-european-union-saying-that-monten.md)
-_Context: 2008, European Union, Montenegro, Prime Minister, Stabilisation and Association Agreement, Zeljko Sturanovic_
+_Context: 2008, EU, Montenegro, Prime Minister, Stabilisation and Association Agreement, Zeljko Sturanovic_
 
 ## [Previous Day...](/news/2007/10/14/index.md)
 

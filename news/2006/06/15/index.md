@@ -49,7 +49,7 @@ Follow the StarTribune for the news, photos and videos from the Twin Cities and 
 
 ##### Taliban
 ### [ Coalition forces in Afghanistan launch and execute Operation Mountain Thrust to drive Taliban forces out of the southern provinces of Afghanistan. The operation is the largest operation since the start of the Afghanistan war. ](/news/2006/06/15/coalition-forces-in-afghanistan-launch-and-execute-operation-mountain-thrust-to-drive-taliban-forces-out-of-the-southern-provinces-of-afgha.md)
-_Context: Afghan, Taliban, War in Afghanistan (2001-present)_
+_Context: Afghanistan, Taliban, War in Afghanistan (2001-present)_
 
 ##### Burundi
 ### [ Burundi rebel group Fighters of the National Liberation Forces, the last active rebel group in the country, shell the capital Bujumbura with 15 60mm mortars injuring at least eight civilians despite ongoing peace talks between the group and the Government of Burundi in Tanzania. ](/news/2006/06/15/burundi-rebel-group-fighters-of-the-national-liberation-forces-the-last-active-rebel-group-in-the-country-shell-the-capital-bujumbura-wit.md)

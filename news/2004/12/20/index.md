@@ -21,7 +21,7 @@ _Context: African Union, Darfur, Mustafa Osman Ismail, Sudan, ceasefire, helicop
 
 ##### U.S. Defense Secretary
 ### [ U.S. Defense Secretary Donald Rumsfeld has admitted that he had used a machine to sign letters of condolence to relatives of more than 1,000 troops killed in Iraq and Afghanistan, but pledged to sign the letters personally in future. ](/news/2004/12/20/u-s-defense-secretary-donald-rumsfeld-has-admitted-that-he-had-used-a-machine-to-sign-letters-of-condolence-to-relatives-of-more-than-1-00.md)
-_Context: Afghan, Donald Rumsfeld, Iraq, U.S. Defense Secretary_
+_Context: Afghanistan, Donald Rumsfeld, Iraq, U.S. Defense Secretary_
 
 ##### Egypt
 ### [ The Head of the Egyptian Coptic Christian Church, Pope Shenouda&nbsp;III, has gone into seclusion in a desert monastery to draw attention to grievances among Egyptian Christians. ](/news/2004/12/20/the-head-of-the-egyptian-coptic-christian-church-pope-shenouda-nbsp-iii-has-gone-into-seclusion-in-a-desert-monastery-to-draw-attention-t.md)

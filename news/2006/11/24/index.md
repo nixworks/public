@@ -15,7 +15,7 @@ _Context: Kurmanbek Bakiyev, constitution, president_
 ### [ The Cole Inquiry delivers its report to the Australian Government to be tabled in the Parliament of Australia on Monday. It was inquiring whether Australian companies notably AWB Limited paid bribes to the Government of Saddam Hussein in order to sell wheat to Iraq. ](/news/2006/11/24/the-cole-inquiry-delivers-its-report-to-the-australian-government-to-be-tabled-in-the-parliament-of-australia-on-monday-it-was-inquiring-w.md)
 _Context: AWB Limited, Australia, Cole Inquiry, Iraq, Parliament of Australia, Saddam Hussein_
 
-##### European Union
+##### EU
 ### [ The European Union (EU) hosts the President of Russia Vladimir Putin in a summit. Poland has vetoed the launch of EU-Russia partnership talks. ](/news/2006/11/24/the-european-union-eu-hosts-the-president-of-russia-vladimir-putin-in-a-summit-poland-has-vetoed-the-launch-of-eu-russia-partnership-tal.md)
 The Age 404 Page
 
@@ -37,7 +37,7 @@ _Context: Israel, Israeli-Palestinian conflict, Palestinians_
 
 ##### Rwanda
 ### [ Rwanda breaks off diplomatic relations with France after a French judge, Jean-Louis Bruguire, issues warrants for the arrest of President of Rwanda Paul Kagame and nine associates for their alleged involvement in the shooting down of a plane carrying former President Juvenal Habyarimana. The incident sparked the Rwandan Genocide in 1994. ](/news/2006/11/24/rwanda-breaks-off-diplomatic-relations-with-france-after-a-french-judge-jean-louis-bruguiere-issues-warrants-for-the-arrest-of-president.md)
-_Context: France, Jean-Louis Bruguire, Juvenal Habyarimana, Paul Kagame, President, Rwanda, Rwandan Genocide, warrant_
+_Context: French, Jean-Louis Bruguire, Juvenal Habyarimana, Paul Kagame, President, Rwanda, Rwandan Genocide, warrant_
 
 ##### Loyalist
 ### [ Convicted killer and loyalist Michael Stone is seized by security guards and police at Northern Ireland's parliament building, Stormont, while carrying a gun, knife and several possibly "viable" explosive devices. ](/news/2006/11/24/convicted-killer-and-loyalist-michael-stone-is-seized-by-security-guards-and-police-at-northern-ireland-s-parliament-building-stormont-wh.md)

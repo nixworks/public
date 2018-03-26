@@ -5,7 +5,7 @@ Formats: [HTML](2015/02/20/index.html)  [JSON](2015/02/20/index.json)  [XML](201
 
 ##### Yemeni Crisis (2011-present)
 ### [The Houthis come to a preliminary agreement to form a new government in Yemen. ](/news/2015/02/20/the-houthis-come-to-a-preliminary-agreement-to-form-a-new-government-in-yemen.md)
-_Context: Houthis, Yemen, Yemeni Crisis (2011-present)_
+_Context: Houthi, Yemen, Yemeni Crisis (2011-present)_
 
 ##### Zambia
 ### [Zambia's top prosecutor Mutembo Nchito refuses to prosecute himself for alleged abuse of office. ](/news/2015/02/20/zambia-s-top-prosecutor-mutembo-nchito-refuses-to-prosecute-himself-for-alleged-abuse-of-office.md)

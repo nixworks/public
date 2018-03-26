@@ -31,7 +31,7 @@ Son and assumed heir of Kim Jong-il pays respects as South Korea sends condolenc
 ### [Former "Daily Mirror" editor Piers Morgan appears before the Leveson Inquiry via videolink from the United States to deny knowledge of hacking at the paper. ](/news/2011/12/20/former-daily-mirror-editor-piers-morgan-appears-before-the-leveson-inquiry-via-videolink-from-the-united-states-to-deny-knowledge-of-hacki.md)
 Former Daily Mirror editor Piers Morgan tells the Leveson Inquiry he does not believe phone hacking took place at the paper while he was in charge.
 
-##### European Union
+##### EU
 ### [Diplomats from the European Union, Non-aligned Movement and the Arab States Group on the UN Security Council criticise Israeli settlement activities in the West Bank and East Jerusalem. ](/news/2011/12/20/diplomats-from-the-european-union-non-aligned-movement-and-the-arab-states-group-on-the-un-security-council-criticise-israeli-settlement-ac.md)
 All the regional groupings on the UN Security Council condemn Israeli settlement activities in occupied Palestinian territories, in a surprise move.
 

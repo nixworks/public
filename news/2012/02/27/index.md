@@ -55,7 +55,7 @@ _Context: Astrakhan, Astrakhan apartment gas explosion, Russia_
 ### [Internet portal company Yahoo warns social network company Facebook that it believes Facebook has infringed on several Yahoo patents, between 10 and 20. ](/news/2012/02/27/internet-portal-company-yahoo-warns-social-network-company-facebook-that-it-believes-facebook-has-infringed-on-several-yahoo-patents-betwee.md)
 _Context: Facebook, Yahoo_
 
-##### German
+##### Germany
 ### [The German Bundestag votes overwhelmingly in support for a Greek bailout. ](/news/2012/02/27/the-german-bundestag-votes-overwhelmingly-in-support-for-a-greek-bailout.md)
 Germany&#039;s parliament overwhelmingly endorses a second rescue package for Greece, worth $163 billion.
 
@@ -73,7 +73,7 @@ Critics questioned the timing of a revelation by Russian state media on Monday o
 
 ##### Protests
 ### [2012 Afghanistan Quran burning protests: A suicide car bomber explodes at Jalalabad Airport in Afghanistan, killing nine. ](/news/2012/02/27/2012-afghanistan-quran-burning-protests-a-suicide-car-bomber-explodes-at-jalalabad-airport-in-afghanistan-killing-nine.md)
-_Context: Afghan, Jalalabad Airport, protests_
+_Context: Afghanistan, Jalalabad Airport, protests_
 
 ## [Previous Day...](/news/2012/02/26/index.md)
 

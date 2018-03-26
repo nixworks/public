@@ -49,7 +49,7 @@ No layoffs were announced in the filing, which still requires approval by the ba
 
 ##### Yemeni Civil War (2015)
 ### [Fighting rages between Houthi militants and Hadi loyalists backed-by Saudi-led coalition forces along Yemen's Red Sea coast for control over the strategic Bab-el-Mandeb strait. Houthi officials say that their forces have destroyed six opposing tanks and killed multiple pro-Hadi fighters. Also, the UAE announces another of its soldiers has died during fighting in Ma'rib. ](/news/2015/10/5/fighting-rages-between-houthi-militants-and-hadi-loyalists-backed-by-saudi-led-coalition-forces-along-yemen-s-red-sea-coast-for-control-over.md)
-_Context: Abd Rabbuh Mansur Hadi, Bab-el-Mandeb, Houthis, Ma'rib Governorate, Red Sea, Saudi Arabian-led intervention in Yemen, United Arab Emirates, Yemeni Civil War (2015)_
+_Context: Abd Rabbuh Mansur Hadi, Bab-el-Mandeb, Houthi, Ma'rib Governorate, Red Sea, Saudi Arabian-led intervention in Yemen, United Arab Emirates, Yemeni Civil War (2015)_
 
 ##### Iraqi Civil War (2014-present)
 ### [Car-bombings across Iraq kill at least 57 people. The attacks include a rare bombing in the southern Basra province leaving 10 people dead. The Islamic State of Iraq and the Levant is suspected of being behind the attacks. ](/news/2015/10/5/car-bombings-across-iraq-kill-at-least-57-people-the-attacks-include-a-rare-bombing-in-the-southern-basra-province-leaving-10-people-dead.md)

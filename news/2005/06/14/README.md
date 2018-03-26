@@ -21,7 +21,7 @@ _Context: Epcot, Mission: SPACE, Walt Disney World_
 
 ##### The Irish Times
 ### [ A TNS-MRBI Irish Times opinion poll predicts that Ireland, previously seen as certain to vote "yes", is likely to vote "no" in its planned referendum on the European Constitution. Only 30% of voters indicated that they would vote for the constitution, the lowest level in any country in the European Union to date. ](/news/2005/06/14/a-tns-mrbi-irish-times-opinion-poll-predicts-that-ireland-previously-seen-as-certain-to-vote-yes-is-likely-to-vote-no-in-its-planned.md)
-_Context: EU Constitution, European Union, Ireland, The Irish Times, opinion poll, referendum_
+_Context: EU, EU Constitution, Ireland, The Irish Times, opinion poll, referendum_
 
 ##### Sudan
 ### [ Sudan rejects the UN's decision to use the International Criminal Court to try criminals in relation to the atrocities of the Darfur conflict, and instead opens its own recently-created special court. ](/news/2005/06/14/sudan-rejects-the-un-s-decision-to-use-the-international-criminal-court-to-try-criminals-in-relation-to-the-atrocities-of-the-darfur-confli.md)

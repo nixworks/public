@@ -55,7 +55,7 @@ A Bay Area commuter train en route to Stockton derailed Monday night, authoritie
 ### [Apple Inc. must pay the $450 million July 2014 settlement in a price fixing case since the U.S. Supreme Court will not hear its appeal of the June 2015 Court of Appeals ruling that it played a "central role" in a conspiracy with publishers to eliminate retail price competition and raise e-book prices. ](/news/2016/03/7/apple-inc-must-pay-the-450-million-july-2014-settlement-in-a-price-fixing-case-since-the-u-s-supreme-court-will-not-hear-its-appeal-of-th.md)
 Apple Inc. must pay $450 million to end an antitrust suit after the U.S. Supreme Court refused to question a finding that the company orchestrated a scheme to raise the prices for electronic books.
 
-##### German
+##### Germany
 ### [Germany's BASF SE, the largest chemical producer in the world, is pursuing a counterbid for DuPont that could short circuit the Delaware-based company's announced merger with fellow American firm, Dow Chemical Company. ](/news/2016/03/7/germany-s-basf-se-the-largest-chemical-producer-in-the-world-is-pursuing-a-counterbid-for-dupont-that-could-short-circuit-the-delaware-bas.md)
 BASF SE is working with advisers and financing banks on the merits of making a counter bid for DuPont Co., the $55 billion chemical company that agreed to a merger with Dow Chemical Co. in December, people with knowledge of the matter said.
 

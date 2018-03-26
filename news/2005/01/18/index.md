@@ -7,9 +7,9 @@ Formats: [HTML](2005/01/18/index.html)  [JSON](2005/01/18/index.json)  [XML](200
 ### [ Mark Latham, leader of Australia's opposition Labor Party, resigns from his position and from parliament due to ill health. Possible replacements include former deputy prime minister Kim Beazley, shadow foreign minister Kevin Rudd and shadow health minister Julia Gillard. ](/news/2005/01/18/mark-latham-leader-of-australia-s-opposition-labor-party-resigns-from-his-position-and-from-parliament-due-to-ill-health-possible-replac.md)
 _Context: Australia, Australian Labor Party, Julia Gillard, Kevin Rudd, Kim Beazley, Mark Latham, Parliament of Australia_
 
-##### France
+##### French
 ### [ In France, labour unions are threatening to begin a succession of strikes to protest against the government of president Jacques Chirac. ](/news/2005/01/18/in-france-labour-unions-are-threatening-to-begin-a-succession-of-strikes-to-protest-against-the-government-of-president-jacques-chirac.md)
-_Context: France, Jacques Chirac, labour union, strike_
+_Context: French, Jacques Chirac, labour union, strike_
 
 ##### Bosnia and Herzegovina
 ### [ Two former Bosnian Serb officers, Vidoje Blagojevic and Dragan Jokic, have been convicted and imprisoned for their complicity in the Srebrenica massacre in 1995. ](/news/2005/01/18/two-former-bosnian-serb-officers-vidoje-blagojevic-and-dragan-jokic-have-been-convicted-and-imprisoned-for-their-complicity-in-the-srebre.md)
@@ -29,7 +29,7 @@ _Context: Mauritanian, United Nations World Food Program, drought, locust, swarm
 
 ##### A380
 ### [ The Airbus A380 is officially launched at a ceremony in the main French Airbus factory in Toulouse. Carrying between 550 and 840 passengers (depending on configuration), the double decker A380 is now the largest passenger airliner in the world. ](/news/2005/01/18/the-airbus-a380-is-officially-launched-at-a-ceremony-in-the-main-french-airbus-factory-in-toulouse-carrying-between-550-and-840-passengers.md)
-_Context: A380, Airbus, France, Toulouse, airliner_
+_Context: A380, Airbus, French, Toulouse, airliner_
 
 ##### Sudan
 ### [ The government of Sudan signs a preliminary peace treaty with the National Democratic Alliance, an opposition umbrella group of rebels in the north and east of the country. ](/news/2005/01/18/the-government-of-sudan-signs-a-preliminary-peace-treaty-with-the-national-democratic-alliance-an-opposition-umbrella-group-of-rebels-in-t.md)

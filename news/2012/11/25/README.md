@@ -11,7 +11,7 @@ Basque separatist group Eta says it is ready to disband, give up its weapons and
 ### [President Mohamed Ould Abdel Aziz returns to Mauritania after being in France for five weeks recovering after being shot by a soldier on 13 October. ](/news/2012/11/25/president-mohamed-ould-abdel-aziz-returns-to-mauritania-after-being-in-france-for-five-weeks-recovering-after-being-shot-by-a-soldier-on-13.md)
 President Aziz returned after five weeks in France for medical treatment following a friendly-fire shooting accident.
 
-##### Catalan
+##### Catalonia
 ### [Catalonia holds a snap election following a demonstration for independence with the governing Convergence and Union party led by Artur Mas returning with a reduced number of seats. ](/news/2012/11/25/catalonia-holds-a-snap-election-following-a-demonstration-for-independence-with-the-governing-convergence-and-union-party-led-by-artur-mas-r.md)
 Catalans have set their region on the road to independence, voting in pro-separatist parties that will push for a referendum on breaking away from Spain.
 

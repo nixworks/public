@@ -9,7 +9,7 @@ _Context: Hong Kong_
 
 ##### Artur Mas i Gavarr
 ### [Artur Mas i Gavarr, the President of the Spanish region of Catalonia, authorises a referendum on independence on November 9 despite the opposition of the Government of Spain. ](/news/2014/09/27/artur-mas-i-gavarro-the-president-of-the-spanish-region-of-catalonia-authorises-a-referendum-on-independence-on-november-9-despite-the-opp.md)
-_Context: Artur Mas i Gavarr, Catalan, President of the Generalitat, Spanish, Spanish government_
+_Context: Artur Mas i Gavarr, Catalonia, President of the Generalitat, Spanish, Spanish government_
 
 ##### David Cunliffe
 ### [David Cunliffe resigns as leader of the New Zealand Labour Party following a crushing defeat in last week's election, but will nominate himself as leader in the subsequent leadership contest. ](/news/2014/09/27/david-cunliffe-resigns-as-leader-of-the-new-zealand-labour-party-following-a-crushing-defeat-in-last-week-s-election-but-will-nominate-hims.md)

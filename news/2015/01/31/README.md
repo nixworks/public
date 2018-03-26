@@ -17,7 +17,7 @@ _Context: Italian presidential election, 2015, President of Italy, Sergio Mattar
 
 ##### Indonesia AirAsia Flight 8501
 ### [France orders an official investigation into the crash of AirAsia Flight 8501 which had a French copilot flying the aircraft at the time of its crash. ](/news/2015/01/31/france-orders-an-official-investigation-into-the-crash-of-airasia-flight-8501-which-had-a-french-copilot-flying-the-aircraft-at-the-time-of.md)
-_Context: France, Indonesia AirAsia Flight 8501_
+_Context: French, Indonesia AirAsia Flight 8501_
 
 ##### ISIL
 ### [A monitoring group claims that ISIL has reportedly released a video showing the execution of Japanese hostage Kenji Goto. ](/news/2015/01/31/a-monitoring-group-claims-that-isil-has-reportedly-released-a-video-showing-the-execution-of-japanese-hostage-kenji-goto.md)

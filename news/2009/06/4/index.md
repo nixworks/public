@@ -23,9 +23,9 @@ _Context: Australia, Joel Fitzgibbon, Minister for Defence_
 ### [ Irish Minister for Education and Science Batt O'Keeffe apologises for the postponement of a Leaving Certificate Examination. ](/news/2009/06/4/irish-minister-for-education-and-science-batt-o-keeffe-apologises-for-the-postponement-of-a-leaving-certificate-examination.md)
 An inquiry has begun into the security breach which forced the postponement of today&#39;s Leaving Cert English Paper Two.
 
-##### European Union
+##### EU
 ### [ The European Union's parliamentary election commences in the Netherlands and United Kingdom. ](/news/2009/06/4/the-european-union-s-parliamentary-election-commences-in-the-netherlands-and-united-kingdom.md)
-_Context: Dutch, European Parliament, European Union, United Kingdom, election_
+_Context: Dutch, EU, European Parliament, United Kingdom, election_
 
 ##### U.S. President
 ### [ The President of the United States, Barack Obama, addresses the Muslim world in Cairo, Egypt. ](/news/2009/06/4/the-president-of-the-united-states-barack-obama-addresses-the-muslim-world-in-cairo-egypt.md)

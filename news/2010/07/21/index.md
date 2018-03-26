@@ -87,7 +87,7 @@ Floods triggered by torrential rains have claimed the lives of 701 people and le
 ### [The United Nations requests more aid to avoid a humanitarian catastrophe in the Sahel. ](/news/2010/07/21/the-united-nations-requests-more-aid-to-avoid-a-humanitarian-catastrophe-in-the-sahel.md)
 Head of humanitarian affairs warns of acute food shortage in north-central Africa.
 
-##### France
+##### French
 ### [Air traffic controllers in France go on strike in protest at a plan to unify European airspace. ](/news/2010/07/21/air-traffic-controllers-in-france-go-on-strike-in-protest-at-a-plan-to-unify-european-airspace.md)
 French&#x20;air&#x20;traffic&#x20;controllers&#x20;have&#x20;gone&#x20;on&#x20;strike&#x20;over&#x20;a&#x20;plan&#x20;to&#x20;unify&#x20;European&#x20;airspace.&#x20;The&#x20;strike,&#x20;which&#x20;is&#x20;expected&#x20;to&#x20;cancel&#x20;many&#x20;flights&#x20;in&#x20;and&#x20;out&#x20;of&#x20;Fr...
 
@@ -97,7 +97,7 @@ Loss-making coal mines across the EU will have to close over the next four years
 
 ##### Prime Minister
 ### [Prime Minister of Hungary Viktor Orban says his government would only talk about their 2011 budget with the European Union, not the International Monetary Fund. ](/news/2010/07/21/prime-minister-of-hungary-viktor-orba-n-says-his-government-would-only-talk-about-their-2011-budget-with-the-european-union-not-the-interna.md)
-_Context: European Union, International Monetary Fund, Prime Minister, Viktor Orban_
+_Context: EU, International Monetary Fund, Prime Minister, Viktor Orban_
 
 ##### BP
 ### [Energy company BP announces it is to sell billions worth of assets in Canada, Egypt, Pakistan, United States and Vietnam to part-fund the clean-up cost of the Deepwater Horizon oil spill in the Gulf of Mexico. ](/news/2010/07/21/energy-company-bp-announces-it-is-to-sell-billions-worth-of-assets-in-canada-egypt-pakistan-united-states-and-vietnam-to-part-fund-the-cl.md)

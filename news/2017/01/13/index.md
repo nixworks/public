@@ -33,7 +33,7 @@ The White House says the move recognises apparent progress on terrorism and huma
 
 ##### January 2017 European cold wave
 ### [A winter storm hits Europe with 330,000 people in France losing power, thousands of people in Great Britain evacuated and travel disrupted. ](/news/2017/01/13/a-winter-storm-hits-europe-with-330-000-people-in-france-losing-power-thousands-of-people-in-great-britain-evacuated-and-travel-disrupted.md)
-_Context: Europe, France, Great Britain, January 2017 European cold wave_
+_Context: Europe, French, Great Britain, January 2017 European cold wave_
 
 ##### Syrian Civil War
 ### [The Organisation for the Prohibition of Chemical Weapons says, for the first time, that they suspect Syrian President Bashar al-Assad and other senior officials of the Syrian government are responsible for the use of chemical weapons in the conflict. ](/news/2017/01/13/the-organisation-for-the-prohibition-of-chemical-weapons-says-for-the-first-time-that-they-suspect-syrian-president-bashar-al-assad-and-ot.md)

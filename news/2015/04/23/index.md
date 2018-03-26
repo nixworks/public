@@ -37,7 +37,7 @@ President Obama said today that he takes &quot;full responsibility&quot; for a U
 
 ##### French Prime Minister
 ### [The Prime Minister of France Manuel Valls claims that five terrorist attacks have been "foiled" in France in recent months. ](/news/2015/04/23/the-prime-minister-of-france-manuel-valls-claims-that-five-terrorist-attacks-have-been-foiled-in-france-in-recent-months.md)
-_Context: France, French Prime Minister, Manuel Valls_
+_Context: French, French Prime Minister, Manuel Valls_
 
 ## [Previous Day...](/news/2015/04/22/index.md)
 

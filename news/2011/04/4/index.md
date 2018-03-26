@@ -57,7 +57,7 @@ Prince Albert II of Monaco and his fiancée Charlene Wittstock today began a thr
 
 ##### Indonesia
 ### [The Indonesian government appeals after Saudi Arabia acquits a woman accused of torturing her Indonesian maid. ](/news/2011/04/4/the-indonesian-government-appeals-after-saudi-arabia-acquits-a-woman-accused-of-torturing-her-indonesian-maid.md)
-_Context: Indonesia, Saudi_
+_Context: Indonesia, Saudi Arabia_
 
 ##### Gulf Co-operation Council
 ### [The Gulf Co-operation Council denounces Iranian "interference" in its internal affairs. ](/news/2011/04/4/the-gulf-co-operation-council-denounces-iranian-interference-in-its-internal-affairs.md)

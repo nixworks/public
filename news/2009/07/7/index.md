@@ -45,7 +45,7 @@ _Context: Philippines, explode_
 
 ##### United Nations
 ### [ The United Nations says around 204,000 people have fled violence in Mogadishu, Somalia as a result of a militant offensive against government forces. ](/news/2009/07/7/the-united-nations-says-around-204-000-people-have-fled-violence-in-mogadishu-somalia-as-a-result-of-a-militant-offensive-against-governme.md)
-_Context: Mogadishu, Somali, United Nations, violence_
+_Context: Mogadishu, Somalia, United Nations, violence_
 
 ##### United Nations
 ### [ The United Nations Security Council condemns the recent missile launches by North Korea. ](/news/2009/07/7/the-united-nations-security-council-condemns-the-recent-missile-launches-by-north-korea.md)

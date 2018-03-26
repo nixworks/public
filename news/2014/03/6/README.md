@@ -23,7 +23,7 @@ _Context: Libya, Muammar al-Gaddafi, Niger, Saadi al-Gaddafi_
 ### [The Government of Venezuela cuts diplomatic ties with Panama calling it a "lackey of the United States". ](/news/2014/03/6/the-government-of-venezuela-cuts-diplomatic-ties-with-panama-calling-it-a-lackey-of-the-united-states.md)
 _Context: Panama, United States, Venezuela_
 
-##### European Union
+##### EU
 ### [The European Union freezes the assets of former Ukrainian president Viktor Yanukovich, two of his sons, and dozens of his advisers. ](/news/2014/03/6/the-european-union-freezes-the-assets-of-former-ukrainian-president-viktor-yanukovich-two-of-his-sons-and-dozens-of-his-advisers.md)
 LONDON -- The European Union has frozen the assets of former Ukrainian President Viktor Yanukovich , two of his sons and more than a dozen advisors who it says are responsible for stealing state funds.
 

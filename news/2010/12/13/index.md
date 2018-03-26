@@ -81,9 +81,9 @@ _Context: Colombia, flood_
 ### [A South Korean deep sea trawler sinks in the Southern Ocean two thousand kilometres south of New Zealand with at least five people dead and seventeen missing. ](/news/2010/12/13/a-south-korean-deep-sea-trawler-sinks-in-the-southern-ocean-two-thousand-kilometres-south-of-new-zealand-with-at-least-five-people-dead-and.md)
 More than 20 fishermen are feared dead in icy waters after a South Korean deep-sea trawler sinks without warning in the Southern Ocean.
 
-##### Scottish
+##### Scotland
 ### [Major British supermarkets and online stores stop taking orders in Scotland in the run up to Christmas, because of a backlog of deliveries caused by the recent adverse weather conditions. ](/news/2010/12/13/major-british-supermarkets-and-online-stores-stop-taking-orders-in-scotland-in-the-run-up-to-christmas-because-of-a-backlog-of-deliveries-c.md)
-_Context: Scottish_
+_Context: Scotland_
 
 ##### Brunei
 ### [Brunei and Malaysia sign a deal to jointly explore and produce oil and gas off the coast of northern Borneo. ](/news/2010/12/13/brunei-and-malaysia-sign-a-deal-to-jointly-explore-and-produce-oil-and-gas-off-the-coast-of-northern-borneo.md)

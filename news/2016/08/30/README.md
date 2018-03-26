@@ -31,7 +31,7 @@ Confirmed cases of Zika virus in Singapore rose to 82 on Tuesday, as the United 
 ### [Numerous tremors rock the Katla volcano in Iceland prompting the government to raise the alarm level. ](/news/2016/08/30/numerous-tremors-rock-the-katla-volcano-in-iceland-prompting-the-government-to-raise-the-alarm-level.md)
 Iceland raised the alarm after its largest volcano was hit by the biggest tremors since 1977.
 
-##### European Union
+##### EU
 ### [The European Union orders Apple to pay up to 13 billion euros in back taxes to Ireland. A three-year investigation by the EU's competition commissioner concludes that Apple received "illegal state aid" from Ireland, the EU order that Apple pay 13 billion euros ($14.5 billion), and, in addition, also interest and unpaid taxes. ](/news/2016/08/30/the-european-union-orders-apple-to-pay-up-to-13-billion-euros-in-back-taxes-to-ireland-a-three-year-investigation-by-the-eu-s-competition-c.md)
 The European Commission ordered Apple Inc to pay Ireland unpaid taxes of up to 13 billion euros ($14.5 billion) on Tuesday as it ruled the firm had received illegal state aid.
 

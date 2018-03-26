@@ -27,9 +27,9 @@ One of the strongest typhoons ever to hit land has slammed the Philippines, forc
 ### [UNESCO suspends the voting rights of the United States and Israel after both countries refused to pay their dues as a protest to the membership of the State of Palestine. ](/news/2013/11/8/unesco-suspends-the-voting-rights-of-the-united-states-and-israel-after-both-countries-refused-to-pay-their-dues-as-a-protest-to-the-members.md)
 _Context: Israel, Palestinian, UNESCO, United States_
 
-##### Somali
+##### Somalia
 ### [At least 11 people are killed in the Somalian capital Mogadishu after a bomb explodes in a carpark. ](/news/2013/11/8/at-least-11-people-are-killed-in-the-somalian-capital-mogadishu-after-a-bomb-explodes-in-a-carpark.md)
-_Context: Mogadishu, Somali_
+_Context: Mogadishu, Somalia_
 
 ## [Previous Day...](/news/2013/11/7/index.md)
 

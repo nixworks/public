@@ -41,7 +41,7 @@ The army was the last institution in officially secular Turkey with a ban on the
 
 ##### Yemeni Civil War (2015-present)
 ### [A Houthi missile attack on a Yemeni military camp near the port city of Mocha kills Major General Ahmed Saif al-Yafei, Yemen's deputy chief of staff, and several others. ](/news/2017/02/22/a-houthi-missile-attack-on-a-yemeni-military-camp-near-the-port-city-of-mocha-kills-major-general-ahmed-saif-al-yafei-yemen-s-deputy-chief.md)
-_Context: Houthis, Mocha, Yemen, Yemeni Civil War (2015-present), government soldiers_
+_Context: Houthi, Mocha, Yemen, Yemeni Civil War (2015-present), government soldiers_
 
 ##### Raqqa offensive
 ### [U.S.-backed SDF forces on two fronts meet up northeast of Raqqa, encircling a pocket of villages still held by ISIS. ](/news/2017/02/22/u-s-backed-sdf-forces-on-two-fronts-meet-up-northeast-of-raqqa-encircling-a-pocket-of-villages-still-held-by-isis.md)

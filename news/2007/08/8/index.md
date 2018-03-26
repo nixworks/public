@@ -39,9 +39,9 @@ _Context: Hohhot, Inner Mongolia, Zeng Qinghong_
 ### [ The Pakistani government claims to have killed at least 10 pro-Taliban militants in North Waziristan. ](/news/2007/08/8/the-pakistani-government-claims-to-have-killed-at-least-10-pro-taliban-militants-in-north-waziristan.md)
 _Context: North Waziristan, Pakistan, Taliban_
 
-##### German
+##### Germany
 ### [ In Germany the labour court of Nuremberg prohibited the strike prepared by the "Gewerkschaft Deutscher Lokomotivfuhrer" (GDL), which was to be the largest in 15 years. According to the "Deutsche Bahn" train company, the strike was prohibited because of the heavy tribute which would have been paid by the national economy ](/news/2007/08/8/in-germany-the-labour-court-of-nuremberg-prohibited-the-strike-prepared-by-the-gewerkschaft-deutscher-lokomotivfa1-4hrer-gdl-which-was-t.md)
-_Context: Deutsche Bahn, Economy of Germany, German, Gewerkschaft Deutscher Lokomotivfuhrer, Nuremberg, labour court, strike_
+_Context: Deutsche Bahn, Economy of Germany, Germany, Gewerkschaft Deutscher Lokomotivfuhrer, Nuremberg, labour court, strike_
 
 ##### An earthquake
 ### [ An earthquake with a magnitude of 7.4 hits Jakarta, Indonesia. ](/news/2007/08/8/an-earthquake-with-a-magnitude-of-7-4-hits-jakarta-indonesia.md)

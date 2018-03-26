@@ -21,7 +21,7 @@ _Context: Bandar Lengeh, Iranian Revolutionary guards, Strait of Hormuz_
 
 ##### Garissa
 ### [A policeman is killed and 11 others are injured in a grenade attack on a church in the Kenyan town of Garissa near the border with Somalia. ](/news/2012/11/4/a-policeman-is-killed-and-11-others-are-injured-in-a-grenade-attack-on-a-church-in-the-kenyan-town-of-garissa-near-the-border-with-somalia.md)
-_Context: Garissa, Somali_
+_Context: Garissa, Somalia_
 
 ##### Semdinli
 ### [A car bomb detonates in Semdinli, Turkey, killing 1 and injuring 12. The attack is blamed on Kurdish rebels. ](/news/2012/11/4/a-car-bomb-detonates-in-semdinli-turkey-killing-1-and-injuring-12-the-attack-is-blamed-on-kurdish-rebels.md)

@@ -13,7 +13,7 @@ US Defence Secretary Leon Panetta lifts a ban on women in combat, potentially op
 
 ##### London
 ### [In a speech in London, British Prime Minister David Cameron outlines his intention to renegotiate the terms of the UK's membership of the European Union then offer a referendum on United Kingdom withdrawal from the European Union if a new deal is agreed. ](/news/2013/01/23/in-a-speech-in-london-british-prime-minister-david-cameron-outlines-his-intention-to-renegotiate-the-terms-of-the-uk-s-membership-of-the-eu.md)
-_Context: David Cameron, European Union, London, Prime Minister, United Kingdom withdrawal from the European Union, referendum_
+_Context: David Cameron, EU, London, Prime Minister, United Kingdom withdrawal from the European Union, referendum_
 
 ##### Thailand
 ### [A court in Thailand sentences a magazine editor to ten years' imprisonment for publishing articles that were deemed to have insulted the monarchy. ](/news/2013/01/23/a-court-in-thailand-sentences-a-magazine-editor-to-ten-years-imprisonment-for-publishing-articles-that-were-deemed-to-have-insulted-the-mon.md)

@@ -25,7 +25,7 @@ _Context: Hifikepunye Pohamba, Namibia, President of Namibia, Sam Nujoma, South-
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: The nineteen member Paris Club agrees to forgive 80% of nearly $40 billion in Iraqi debt, in three stages: 20% now, 30% in 2005 and 20% in 2008 in tandem with Iraq's implementation of an International Monetary Fund economic programme. $80 billion in debt to Saudi Arabia and Kuwait, among others, will remain. ](/news/2004/11/21/conflict-in-iraq-the-nineteen-member-paris-club-agrees-to-forgive-80-of-nearly-40-billion-in-iraqi-debt-in-three-stages-20-now-30-i.md)
-_Context: Conflict in Iraq, Kuwait, Paris Club, Saudi_
+_Context: Conflict in Iraq, Kuwait, Paris Club, Saudi Arabia_
 
 ## [Previous Day...](/news/2004/11/20/index.md)
 

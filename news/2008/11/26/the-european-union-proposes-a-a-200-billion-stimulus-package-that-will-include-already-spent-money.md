@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/11/26/the-european-union-proposes-a-a-200-billion-sti
 
 ### [2008-11-26](/news/2008/11/26/index.md)
 
-##### European Union
+##### EU
 #  The European Union proposes a EUR200 billion stimulus package that will include already-spent money 
 
 
@@ -24,8 +24,8 @@ Formats: [HTML](/news/2008/11/26/the-european-union-proposes-a-a-200-billion-sti
 
 ### Related:
 
-1. [The European Union pledges to give the Gambia EUR225 million in aid to assist the country following the departure of former president Yahya Jammeh, whose 22 years of misrule left the country "virtually bankrupt". ](/news/2017/02/10/the-european-union-pledges-to-give-the-gambia-a-225-million-in-aid-to-assist-the-country-following-the-departure-of-former-president-yahya.md) _Context: EUR, European Union_
-2. [Standard & Poor's downgrades Greece's sovereign credit rating to junk, four days after the country's government requests the activation of a EUR45-billion EU-IMF bailout. ](/news/2010/04/27/standard-poor-s-downgrades-greece-s-sovereign-credit-rating-to-junk-four-days-after-the-country-s-government-requests-the-activation-of-a.md) _Context: EUR, European Union_
-3. [Euro banknotes and coins become legal tender in 12 member states of the European Union.](/news/2002/01/1/euro-banknotes-and-coins-become-legal-tender-in-12-member-states-of-the-european-union.md) _Context: EUR, European Union_
-4. [In a message on Twitter, U.S. President Donald Trump says the U.S. will apply a tax on cars made in the European Union if the E.U. "further" increases tariffs. ](/news/2018/03/3/in-a-message-on-twitter-u-s-president-donald-trump-says-the-u-s-will-apply-a-tax-on-cars-made-in-the-european-union-if-the-e-u-further.md) _Context: European Union_
-5. [Turkey calls a statement of European Union support for Greek Cypriots in a dispute over offshore resources "unacceptable". Turkey has been using its Navy to prevent exploration by Cypriot vessels. ](/news/2018/03/23/turkey-calls-a-statement-of-european-union-support-for-greek-cypriots-in-a-dispute-over-offshore-resources-unacceptable-turkey-has-been-u.md) _Context: European Union_
+1. [The European Union pledges to give the Gambia EUR225 million in aid to assist the country following the departure of former president Yahya Jammeh, whose 22 years of misrule left the country "virtually bankrupt". ](/news/2017/02/10/the-european-union-pledges-to-give-the-gambia-a-225-million-in-aid-to-assist-the-country-following-the-departure-of-former-president-yahya.md) _Context: EU, EUR_
+2. [Standard & Poor's downgrades Greece's sovereign credit rating to junk, four days after the country's government requests the activation of a EUR45-billion EU-IMF bailout. ](/news/2010/04/27/standard-poor-s-downgrades-greece-s-sovereign-credit-rating-to-junk-four-days-after-the-country-s-government-requests-the-activation-of-a.md) _Context: EU, EUR_
+3. [Euro banknotes and coins become legal tender in 12 member states of the European Union.](/news/2002/01/1/euro-banknotes-and-coins-become-legal-tender-in-12-member-states-of-the-european-union.md) _Context: EU, EUR_
+4. [In a message on Twitter, U.S. President Donald Trump says the U.S. will apply a tax on cars made in the European Union if the E.U. "further" increases tariffs. ](/news/2018/03/3/in-a-message-on-twitter-u-s-president-donald-trump-says-the-u-s-will-apply-a-tax-on-cars-made-in-the-european-union-if-the-e-u-further.md) _Context: EU_
+5. [EU diplomatic chief Federica Mogherini holds crisis talks with Markus Ederer, the bloc's recalled ambassador to Russia. ](/news/2018/03/25/eu-diplomatic-chief-federica-mogherini-holds-crisis-talks-with-markus-ederer-the-bloc-s-recalled-ambassador-to-russia.md) _Context: EU_

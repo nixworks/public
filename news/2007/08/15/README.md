@@ -43,9 +43,9 @@ _Context: Boris Yeltsin, Finland, Karelia, Russia_
 ### [ On the 62nd anniversary of Japan's surrender in World War II, Prime Minister Shinzo Abe and his ministers do not visit the Yasukuni Shrine. ](/news/2007/08/15/on-the-62nd-anniversary-of-japan-s-surrender-in-world-war-ii-prime-minister-shinzo-abe-and-his-ministers-do-not-visit-the-yasukuni-shrine.md)
 _Context: Japan, Japanese Prime Minister, Shinzo Abe, World War II, Yasukuni Shrine_
 
-##### German
+##### Germany
 ### [ Three Germans are killed by a bomb attack near Kabul. ](/news/2007/08/15/three-germans-are-killed-by-a-bomb-attack-near-kabul.md)
-_Context: German, Kabul_
+_Context: Germany, Kabul_
 
 ##### Charles Murigande
 ### [ Charles Murigande, the foreign minister of Rwanda, criticizes the Democratic Republic of Congo for stopping military operations against the Democratic Forces for the Liberation of Rwanda. ](/news/2007/08/15/charles-murigande-the-foreign-minister-of-rwanda-criticizes-the-democratic-republic-of-congo-for-stopping-military-operations-against-the.md)
@@ -57,7 +57,7 @@ _Context: 2007 presidential election, Kenya, ODM-Kenya_
 
 ##### Ali Mohammed Ghedi
 ### [ Ali Mohammed Ghedi, the interim Prime Minister of Somalia, says he plans to create a Green Zone in Mogadishu and criticizes the United Nations for giving "so much emphasis on Darfur and not to Somalia". ](/news/2007/08/15/ali-mohammed-ghedi-the-interim-prime-minister-of-somalia-says-he-plans-to-create-a-green-zone-in-mogadishu-and-criticizes-the-united-nati.md)
-_Context: Ali Mohammed Ghedi, Darfur, Green Zone, Mogadishu, Prime Minister of Somalia, Somali, United Nations_
+_Context: Ali Mohammed Ghedi, Darfur, Green Zone, Mogadishu, Prime Minister of Somalia, Somalia, United Nations_
 
 ##### Cristina Fernandez de Kirchner
 ### [ Cristina Fernandez de Kirchner, Argentinian presidential candidate, presents Julio Cobos as her running mate. ](/news/2007/08/15/cristina-ferna-ndez-de-kirchner-argentinian-presidential-candidate-presents-julio-cobos-as-her-running-mate.md)

@@ -81,17 +81,17 @@ A newly-discovered poem by Philip Larkin will be heard for the first time on a B
 ### [Festivities are held for the 83rd birthday of King of Thailand Bhumibol Adulyadej, the longest reigning monarch in the world. ](/news/2010/12/5/festivities-are-held-for-the-83rd-birthday-of-king-of-thailand-bhumibol-adulyadej-the-longest-reigning-monarch-in-the-world.md)
 Festivities mark 83rd birthday of Bhumibol Adulyadej amid concerns for his health.
 
-##### Somali
+##### Somalia
 ### [Over 100 people are killed in battles throughout Somalia between Islamist rebels and African Union forces over the past three days. ](/news/2010/12/5/over-100-people-are-killed-in-battles-throughout-somalia-between-islamist-rebels-and-african-union-forces-over-the-past-three-days.md)
-_Context: African Union, Islamist, Somali_
+_Context: African Union, Islamist, Somalia_
 
 ##### Nigerian
 ### [The Nigerian military acknowledges that raids to root out armed gangs in the Niger Delta may have killed civilians. ](/news/2010/12/5/the-nigerian-military-acknowledges-that-raids-to-root-out-armed-gangs-in-the-niger-delta-may-have-killed-civilians.md)
 _Context: Niger Delta, Nigerian_
 
-##### Afghan
+##### Afghanistan
 ### [A blast at an army base in eastern Afghanistan kills at least two soldiers and two civilians. ](/news/2010/12/5/a-blast-at-an-army-base-in-eastern-afghanistan-kills-at-least-two-soldiers-and-two-civilians.md)
-_Context: Afghan_
+_Context: Afghanistan_
 
 ##### WikiLeaks
 ### [The WikiLeaks website is forced offline again. ](/news/2010/12/5/the-wikileaks-website-is-forced-offline-again.md)

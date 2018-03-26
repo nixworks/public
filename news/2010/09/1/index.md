@@ -31,7 +31,7 @@ _Context: Julian Assange, Sweden, Wikileaks, prosecutor, rape_
 ### [2 Yemenis are released from custody in Amsterdam, having been arrested after being suspected by the United States of plotting a terrorist act. No evidence was found against the men. ](/news/2010/09/1/2-yemenis-are-released-from-custody-in-amsterdam-having-been-arrested-after-being-suspected-by-the-united-states-of-plotting-a-terrorist-ac.md)
 Two Yemenis arrested in Amsterdam on suspicion of planning a terror attack are released, prosecutors in the Netherlands say.
 
-##### Afghan
+##### Afghanistan
 ### [92 Afghan asylum seekers escape from the Northern Immigration Detention Centre in Darwin, Australia as part of a protest with four people being hospitalised due to dehydration. ](/news/2010/09/1/92-afghan-asylum-seekers-escape-from-the-northern-immigration-detention-centre-in-darwin-australia-as-part-of-a-protest-with-four-people-be.md)
 Four Afghan asylum seekers have been hospitalised with dehydration after pushing down a fence at the Darwin detention centre to stage a peaceful protest.
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/6/a-saudi-arabian-diplomat-is-killed-in-the-bangla
 
 ### [2012-03-6](/news/2012/03/6/index.md)
 
-##### Saudi
+##### Saudi Arabia
 # A Saudi Arabian diplomat is killed in the Bangladeshi capital Dhaka. 
 
 

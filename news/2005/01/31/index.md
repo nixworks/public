@@ -7,9 +7,9 @@ Formats: [HTML](2005/01/31/index.html)  [JSON](2005/01/31/index.json)  [XML](200
 ### [ Car bomb explodes in Dushanbe, the capital of Tajikistan. ](/news/2005/01/31/car-bomb-explodes-in-dushanbe-the-capital-of-tajikistan.md)
 _Context: Dushanbe, Tajikistan, car bombings_
 
-##### France
+##### French
 ### [ In France, 16 people and companies go on trial for effective manslaughter for the Mont Blanc Tunnel fire in 1999. ](/news/2005/01/31/in-france-16-people-and-companies-go-on-trial-for-effective-manslaughter-for-the-mont-blanc-tunnel-fire-in-1999.md)
-_Context: 1999, France, Mont Blanc Tunnel, manslaughter by gross negligence_
+_Context: 1999, French, Mont Blanc Tunnel, manslaughter by gross negligence_
 
 ##### Sefer Halilovic
 ### [ Sefer Halilovic, former head of the Bosnian army, goes on trial for killing Bosnian Croats during the Yugoslav wars. ](/news/2005/01/31/sefer-halilovia-former-head-of-the-bosnian-army-goes-on-trial-for-killing-bosnian-croats-during-the-yugoslav-wars.md)

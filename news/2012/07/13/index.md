@@ -77,7 +77,7 @@ Poet Laureate Carol Ann Duffy says she is &quot;hugely honoured&quot; by being a
 
 ##### Hanifa Safi
 ### [A female Afghan politician, Hanifa Safi, dies in a bomb attack in eastern Afghanistan. ](/news/2012/07/13/a-female-afghan-politician-hanifa-safi-dies-in-a-bomb-attack-in-eastern-afghanistan.md)
-_Context: Afghan, Hanifa Safi_
+_Context: Afghanistan, Hanifa Safi_
 
 ##### Suicide bomber
 ### [A suicide bomber kills 5 at a mosque in Maiduguri, Nigeria. ](/news/2012/07/13/a-suicide-bomber-kills-5-at-a-mosque-in-maiduguri-nigeria.md)

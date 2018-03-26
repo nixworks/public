@@ -17,7 +17,7 @@ _Context: Aerospace Industrial Development Corporation, Ching-kuo, Hsung Ying, T
 
 ##### United States District Court
 ### [ United States District Court Judge Thomas Hogan dismisses a case of alleged torture against former United States Secretary of Defense Donald Rumsfeld brought by nine former prisoners in Iraq and Afghanistan. ](/news/2007/03/27/united-states-district-court-judge-thomas-hogan-dismisses-a-case-of-alleged-torture-against-former-united-states-secretary-of-defense-donal.md)
-_Context: Afghan, Donald Rumsfeld, Iraq, Judge, Thomas Hogan, United States District Court, United States Secretary of Defense, torture_
+_Context: Afghanistan, Donald Rumsfeld, Iraq, Judge, Thomas Hogan, United States District Court, United States Secretary of Defense, torture_
 
 ##### Suicide attack
 ### [ Suicide car bombings kill at least 55 people and injure 120 in Tal Afar. ](/news/2007/03/27/suicide-car-bombings-kill-at-least-55-people-and-injure-120-in-tal-afar.md)
@@ -25,7 +25,7 @@ Frontpage | New Straits Times : Authoritative source for Malaysia latest news on
 
 ##### Rhine River
 ### [ A 12-km stretch of the Rhine River near Cologne, Germany is closed to shipping following the loss of 31 containers from a container ship with 200 ships backed up. ](/news/2007/03/27/a-12-km-stretch-of-the-rhine-river-near-cologne-germany-is-closed-to-shipping-following-the-loss-of-31-containers-from-a-container-ship-wi.md)
-_Context: Cologne, German, Rhine River, container ship, ship_
+_Context: Cologne, Germany, Rhine River, container ship, ship_
 
 ##### Flood
 ### [ Heavy flooding after several days of heavy rain in Hispaniola have resulted in 11 people dying and thousands of people being evacuated in Haiti and the Dominican Republic. ](/news/2007/03/27/heavy-flooding-after-several-days-of-heavy-rain-in-hispaniola-have-resulted-in-11-people-dying-and-thousands-of-people-being-evacuated-in-h.md)

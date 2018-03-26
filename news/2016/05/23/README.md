@@ -67,7 +67,7 @@ Sri Lanka recalls assembly as flood toll nears 100
 ### [An overnight fire at Pitakiatwittaya Christian elementary school's dormitory in the northern Chiang Rai Province in Thailand kills 18 girls between the ages of 5 and 12. The other 20 girls sleeping in the dorm are rescued, though five are injured. ](/news/2016/05/23/an-overnight-fire-at-pitakiatwittaya-christian-elementary-school-s-dormitory-in-the-northern-chiang-rai-province-in-thailand-kills-18-girls.md)
 _Context: Chiang Rai Province, Thailand, dormitory, elementary school's_
 
-##### German
+##### Germany
 ### [Germany's Bayer AG makes an unsolicited bid valued at $62 billion cash to takeover American company Monsanto to create the world's largest agricultural chemical company. ](/news/2016/05/23/germany-s-bayer-ag-makes-an-unsolicited-bid-valued-at-62-billion-cash-to-takeover-american-company-monsanto-to-create-the-world-s-largest-a.md)
 Bayer AG offered $62 billion to buy Monsanto Co., deepening investor concern that it will strain its finances as it seeks to become the world’s biggest seller of seeds and farm chemicals.
 

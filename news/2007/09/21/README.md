@@ -13,7 +13,7 @@ _Context: Alberto Fujimori, Barrios Altos, Chile, La Cantuta, Peru, Supreme Cour
 
 ##### Dutch
 ### [ The Dutch Cabinet meets to decide whether to hold a referendum on the European Union's Reform Treaty. ](/news/2007/09/21/the-dutch-cabinet-meets-to-decide-whether-to-hold-a-referendum-on-the-european-union-s-reform-treaty.md)
-_Context: Dutch, European Union, Reform Treaty, forming a government, referendum_
+_Context: Dutch, EU, Reform Treaty, forming a government, referendum_
 
 ##### NATO
 ### [ NATO's alliance forces say that its warplanes killed an unspecified number of civilians during a battle with Taliban forces. ](/news/2007/09/21/nato-s-alliance-forces-say-that-its-warplanes-killed-an-unspecified-number-of-civilians-during-a-battle-with-taliban-forces.md)

@@ -23,9 +23,9 @@ _Context: Al Hoceima, Morocco, Royal Guardsmen_
 ### [The volcano Paluweh erupts on Palu'e island in Indonesia killing at least six people. ](/news/2013/08/10/the-volcano-paluweh-erupts-on-palu-e-island-in-indonesia-killing-at-least-six-people.md)
 A volcano erupts on an Indonesian island, spewing hot ash on to a nearby beach and killing four adults and two children.
 
-##### Saudi
+##### Saudi Arabia
 ### [Saudi authorities arrest two men suspected of planning suicide attacks. ](/news/2013/08/10/saudi-authorities-arrest-two-men-suspected-of-planning-suicide-attacks.md)
-_Context: Saudi_
+_Context: Saudi Arabia_
 
 ##### Al Qaeda in the Arabian Peninsula
 ### [An American drone strike kills two suspected Al Qaeda in the Arabian Peninsula militants in southern Yemen. ](/news/2013/08/10/an-american-drone-strike-kills-two-suspected-al-qaeda-in-the-arabian-peninsula-militants-in-southern-yemen.md)

@@ -11,9 +11,9 @@ _Context: Aomori prefecture, Japan, railway tunnel_
 ### [ In Togo, police clash with protesters who denounce selection of Abass Bonfoh to replace Faure Gnassingb as an interim president. Opposition protesters support former parliamentary speaker Fambare Ouattara Natchaba. ](/news/2005/02/27/in-togo-police-clash-with-protesters-who-denounce-selection-of-abass-bonfoh-to-replace-faure-gnassingbe-as-an-interim-president-oppositio.md)
 _Context: Abass Bonfoh, Fambare Ouattara Natchaba, Faure Gnassingb, Togo, mass protests_
 
-##### Somali
+##### Somalia
 ### [ In Somalia, some cabinet ministers and warlords denounce government proposals to deploy foreign peacekeepers ](/news/2005/02/27/in-somalia-some-cabinet-ministers-and-warlords-denounce-government-proposals-to-deploy-foreign-peacekeepers.md)
-_Context: Somali_
+_Context: Somalia_
 
 ##### India
 ### [ Indian divers have found more evidence of possible underwater ruins of a port city near the Tamil Nadu coast. The ruins were revealed after the 2004 Indian Ocean earthquake. Archaeological Survey of India connects them to the legendary city of Mahabalipuram ](/news/2005/02/27/indian-divers-have-found-more-evidence-of-possible-underwater-ruins-of-a-port-city-near-the-tamil-nadu-coast-the-ruins-were-revealed-after.md)

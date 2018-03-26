@@ -67,7 +67,7 @@ _Context: Catholic faithful, Chinese, Holy See, Pope, excommunicate_
 ### [Eleven people are killed in further unrest in Iraq, including eight people in a bombing of a Baghdad marketplace. ](/news/2012/07/4/eleven-people-are-killed-in-further-unrest-in-iraq-including-eight-people-in-a-bombing-of-a-baghdad-marketplace.md)
 _Context: Baghdad, Iraq_
 
-##### German
+##### Germany
 ### [A gunman, who was facing eviction from his apartment, is believed to have seized and killed four hostages in the German city of Karlsruhe before turning the gun on himself. ](/news/2012/07/4/a-gunman-who-was-facing-eviction-from-his-apartment-is-believed-to-have-seized-and-killed-four-hostages-in-the-german-city-of-karlsruhe-be.md)
 A man shot dead four people including his partner before killing himself in a siege in the German city of Karlsruhe, police say.
 

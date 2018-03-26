@@ -15,7 +15,7 @@ _Context: Ahmad Didi, Fathimath Nisreen, Maldives, Mohamed Zaki_
 ### [ G8 countries urge Ukraine to cover the Chernobyl nuclear plant. ](/news/2005/05/10/g8-countries-urge-ukraine-to-cover-the-chernobyl-nuclear-plant.md)
 _Context: Chernobyl, Group of Eight, Ukrainian, nuclear plant_
 
-##### German
+##### Germany
 ### [ Germany unveils a Holocaust memorial. ](/news/2005/05/10/germany-unveils-a-holocaust-memorial.md)
 Get the latest breaking news across the U.S. on ABCNews.com
 

@@ -25,7 +25,7 @@ _Context: Morocco, New York City, UN, Western Sahara, conflict between the two c
 
 ##### United Kingdom
 ### [The United Kingdom and France prepare a draft United Nations Security Council resolution on the 2011 Syrian uprising. ](/news/2011/06/8/the-united-kingdom-and-france-prepare-a-draft-united-nations-security-council-resolution-on-the-2011-syrian-uprising.md)
-_Context: 2011 Syrian uprising, France, United Kingdom, United Nations Security Council, United Nations Security Council resolution_
+_Context: 2011 Syrian uprising, French, United Kingdom, United Nations Security Council, United Nations Security Council resolution_
 
 ##### Australia
 ### [Australia announces a ban of live cattle exports to Indonesia of up to six months following recent reports of cruel treatment in Indonesian abattoirs. ](/news/2011/06/8/australia-announces-a-ban-of-live-cattle-exports-to-indonesia-of-up-to-six-months-following-recent-reports-of-cruel-treatment-in-indonesian.md)

@@ -29,7 +29,7 @@ John Kerry assailed the war in Iraq in the first presidential debate Thursday ni
 
 ##### Hartlepool
 ### [ A by-election for the Hartlepool constituency of the UK parliament, to fill the seat of Peter Mandelson, who resigned to take up a role in the European Union, results in a win for Labour (12,752), with the Liberal Democrats second (10,719). The Conservative Party (3,044) is pushed into fourth place by the UK Independence Party (3,193). ](/news/2004/09/30/a-by-election-for-the-hartlepool-constituency-of-the-uk-parliament-to-fill-the-seat-of-peter-mandelson-who-resigned-to-take-up-a-role-in.md)
-_Context: Conservative Party, European Union, Hartlepool, Labour Party, Liberal Democrats, Parliament, Peter Mandelson, UK Independence Party_
+_Context: Conservative Party, EU, Hartlepool, Labour Party, Liberal Democrats, Parliament, Peter Mandelson, UK Independence Party_
 
 ##### Typhoon Meari
 ### [ Typhoon Meari batters the town of Miyagawa, Mie Prefecture, Japan, killing 27 and causing widespread flooding and significant damage. ](/news/2004/09/30/typhoon-meari-batters-the-town-of-miyagawa-mie-prefecture-japan-killing-27-and-causing-widespread-flooding-and-significant-damage.md)

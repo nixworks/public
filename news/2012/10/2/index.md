@@ -7,7 +7,7 @@ Formats: [HTML](2012/10/2/index.html)  [JSON](2012/10/2/index.json)  [XML](2012/
 ### [The OSCE titles the parliamentary election in Georgia as "fair and free". Partial results show a majority of votes for Georgian Dream. President Saakashvili concedes that his party, United National Movement, will move to opposition. Bidzina Ivanishvili is expected to become prime minister, and after legislative changes next year, also head of state. ](/news/2012/10/2/the-osce-titles-the-parliamentary-election-in-georgia-as-fair-and-free-partial-results-show-a-majority-of-votes-for-georgian-dream-presi.md)
 _Context: Bidzina Ivanishvili, Georgian Dream, Mikheil Saakashvili, OSCE, President of Georgia, Prime Minister of Georgia, United National Movement, parliamentary election_
 
-##### France
+##### French
 ### [Several sources claim that a French spy killed Muammar Gaddafi in 2011; the motive to try to conceal Ghadaffi's financial support of Nicolas Sarkozy's 2007 presidential election campaign. A French source dismisses the story as "nonsense". ](/news/2012/10/2/several-sources-claim-that-a-french-spy-killed-muammar-gaddafi-in-2011-the-motive-to-try-to-conceal-ghadaffi-s-financial-support-of-nicolas.md)
 A&#x20;French&#x20;intelligence&#x20;expert&#x20;has&#x20;poured&#x20;cold&#x20;water&#x20;on&#x20;allegations&#x20;that&#x20;a&#x20;French&#x20;agent&#x20;killed&#x20;Libyan&#x20;leader&#x20;Muammar&#x20;Gaddafi&#x20;after&#x20;making&#x20;a&#x20;deal&#x20;with&#x20;Syria&#x20;to&#x20;save&#x20;the...
 
@@ -27,9 +27,9 @@ Seven crew members are arrested on suspicion of endangering lives at sea after t
 ### [A minibus collides with a truck in the northern Philippine province of Ilocos Norte, killing at least 10 people. ](/news/2012/10/2/a-minibus-collides-with-a-truck-in-the-northern-philippine-province-of-ilocos-norte-killing-at-least-10-people.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-##### Afghan
+##### Afghanistan
 ### [A bomb blast in southern Afghanistan kills a United States Army service member. ](/news/2012/10/2/a-bomb-blast-in-southern-afghanistan-kills-a-united-states-army-service-member.md)
-_Context: Afghan, United States soldier_
+_Context: Afghanistan, United States soldier_
 
 ##### People's Majlis
 ### [A member of the People's Majlis, the parliament of the Maldives, is found stabbed to death near his home. ](/news/2012/10/2/a-member-of-the-peopleas-majlis-the-parliament-of-the-maldives-is-found-stabbed-to-death-near-his-home.md)

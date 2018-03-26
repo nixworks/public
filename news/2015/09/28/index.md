@@ -13,7 +13,7 @@ NASA will detail a major science finding from the agency’s ongoing exploration
 
 ##### Catalonian parliamentary election, 2015
 ### [Separatists won a clear majority of seats in Catalonia's parliament (72 out of 135) in this weekend's election that saw a record turnout of 78 percent. The winners will seek to unilaterally declare independence within 18 months. Spain's constitution does not allow any region to break away. Spanish Prime Minister Mariano Rajoy vows to fight the separatist plan. ](/news/2015/09/28/separatists-won-a-clear-majority-of-seats-in-catalonia-s-parliament-72-out-of-135-in-this-weekend-s-election-that-saw-a-record-turnout-of.md)
-_Context: Catalan, Catalonian parliamentary election, 2015, Mariano Rajoy, Prime Minister_
+_Context: Catalonia, Catalonian parliamentary election, 2015, Mariano Rajoy, Prime Minister_
 
 ##### Democratic Front
 ### [Pro-Serbian opposition from the Democratic Front holds a mass protest rally in the capital of Montenegro, Podgorica, demanding the resignation of the government of Prime Minister Milo Dukanovic. ](/news/2015/09/28/pro-serbian-opposition-from-the-democratic-front-holds-a-mass-protest-rally-in-the-capital-of-montenegro-podgorica-demanding-the-resignati.md)

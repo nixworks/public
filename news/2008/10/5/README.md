@@ -3,9 +3,9 @@ Formats: [HTML](2008/10/5/index.html)  [JSON](2008/10/5/index.json)  [XML](2008/
 
 ## [2008-10-5](/news/2008/10/5/index.md)
 
-##### Afghan
+##### Afghanistan
 ### [ Senior British Commander says military victory in Afghanistan is impossible. ](/news/2008/10/5/senior-british-commander-says-military-victory-in-afghanistan-is-impossible.md)
-_Context: Afghan_
+_Context: Afghanistan_
 
 ##### Asif Ali Zardari
 ### [ Pakistani president Asif Ali Zardari acknowledges his government's consent to US air strikes in Pakistan and says India has never been a threat. ](/news/2008/10/5/pakistani-president-asif-ali-zardari-acknowledges-his-government-s-consent-to-us-air-strikes-in-pakistan-and-says-india-has-never-been-a-th.md)
@@ -31,9 +31,9 @@ Read the latest national and world news on Newsday. All the top stores, latest v
 ### [ Rugby League: The Manly-Warringah Sea Eagles win the 2008 NRL Grand Final, defeating the Melbourne Storm 40-0. ](/news/2008/10/5/rugby-league-the-manly-warringah-sea-eagles-win-the-2008-nrl-grand-final-defeating-the-melbourne-storm-40-0.md)
 _Context: 2008 NRL Grand Final, Manly-Warringah Sea Eagles, Melbourne Storm, Rugby League_
 
-##### German
+##### Germany
 ### [ The German government moves to back troubled Hypo Real Estate with a 50 billion euro rescue plan. ](/news/2008/10/5/the-german-government-moves-to-back-troubled-hypo-real-estate-with-a-50-billion-euro-rescue-plan.md)
-_Context: German, Hypo Real Estate, euro_
+_Context: Germany, Hypo Real Estate, euro_
 
 ## [Previous Day...](/news/2008/10/4/index.md)
 

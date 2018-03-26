@@ -21,7 +21,7 @@ _Context: Baghdad, Iraq War, car bomb_
 
 ##### Painting
 ### [ Two paintings by Pablo Picasso, "Maya with Doll" and "Jacqueline", have been stolen from the painter's granddaughter's apartment in Paris, France. ](/news/2007/02/28/two-paintings-by-pablo-picasso-maya-with-doll-and-jacqueline-have-been-stolen-from-the-painter-s-granddaughter-s-apartment-in-paris.md)
-_Context: France, Jacqueline, Maya with Doll, Paris, Picasso, painter, painting_
+_Context: French, Jacqueline, Maya with Doll, Paris, Picasso, painter, painting_
 
 ##### Cuba-United States relations
 ### [ Cuba-United States relations: Carlos and Elsa Alvarez are sentenced to five and three year prison terms respectively after being convicted of spying for the Cuban government. ](/news/2007/02/28/cuba-united-states-relations-carlos-and-elsa-alvarez-are-sentenced-to-five-and-three-year-prison-terms-respectively-after-being-convicted.md)
@@ -35,9 +35,9 @@ _Context: Sicily, Stromboli, lava, volcano_
 ### [ Strong wind blows a passenger train off the tracks near Turpan, Xinjiang, China, killing four and injuring 30 more. ](/news/2007/02/28/strong-wind-blows-a-passenger-train-off-the-tracks-near-turpan-xinjiang-china-killing-four-and-injuring-30-more.md)
 _Context: Chinese, Turpan, Xinjiang, train_
 
-##### European Union
+##### EU
 ### [ The European Union announces plans to make significant cuts to the European Union Force in Bosnia-Herzegovina. ](/news/2007/02/28/the-european-union-announces-plans-to-make-significant-cuts-to-the-european-union-force-in-bosnia-herzegovina.md)
-_Context: Bosnia-Herzegovina, European Union, European Union Force_
+_Context: Bosnia-Herzegovina, EU, European Union Force_
 
 ##### Airbus
 ### [ Airbus announces plans to cut 10,000 jobs across Europe in the next four years. ](/news/2007/02/28/airbus-announces-plans-to-cut-10-000-jobs-across-europe-in-the-next-four-years.md)

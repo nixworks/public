@@ -13,7 +13,7 @@ Pictured moments before humans ate it, a snub-nosed monkey represents a new spec
 
 ##### National Assembly
 ### [The National Assembly of France takes a final vote on pension reform, with President Nicolas Sarkozy hoping that it will end the recent strikes and demonstrations. ](/news/2010/10/27/the-national-assembly-of-france-takes-a-final-vote-on-pension-reform-with-president-nicolas-sarkozy-hoping-that-it-will-end-the-recent-stri.md)
-_Context: France, National Assembly, Nicolas Sarkozy, President of France, recent strikes and demonstrations_
+_Context: French, National Assembly, Nicolas Sarkozy, President of France, recent strikes and demonstrations_
 
 ##### Nestor Kirchner
 ### [Nestor Kirchner, Secretary General of UNASUR, former President of Argentina and husband of President Cristina Fernandez de Kirchner dies at his home in El Calafate, Santa Cruz Province, with three days of mourning declared. ](/news/2010/10/27/na-c-stor-kirchner-secretary-general-of-unasur-former-president-of-argentina-and-husband-of-president-cristina-ferna-ndez-de-kirchner-dies-a.md)
@@ -29,7 +29,7 @@ _Context: Vietnam_
 
 ##### Soviet
 ### [Former Soviet leader Mikhail Gorbachev says it was "impossible" for coalition forces to secure victory in Afghanistan in a BBC interview. ](/news/2010/10/27/former-soviet-leader-mikhail-gorbachev-says-it-was-aimpossiblea-for-coalition-forces-to-secure-victory-in-afghanistan-in-a-bbc-interview.md)
-_Context: Afghan, Mikhail Gorbachev, Soviet_
+_Context: Afghanistan, Mikhail Gorbachev, Soviet_
 
 ##### Links to organised crime
 ### [15 people are killed in a Mexican drug war related shootout at a car wash in Tepic, Nayarit, the country's third such mass shooting in under a week. ](/news/2010/10/27/15-people-are-killed-in-a-mexican-drug-war-related-shootout-at-a-car-wash-in-tepic-nayarit-the-country-s-third-such-mass-shooting-in-under.md)
@@ -45,7 +45,7 @@ Popular online file-sharing service LimeWire was shut down by a US federal court
 
 ##### Transparency International
 ### [Transparency International releases its Corruption Perception Index showing Denmark, New Zealand and Singapore as the least corrupt nations and Somalia as the most corrupt. ](/news/2010/10/27/transparency-international-releases-its-corruption-perception-index-showing-denmark-new-zealand-and-singapore-as-the-least-corrupt-nations.md)
-_Context: Corruption Perception Index, Denmark, New Zealand, Singapore, Somali, Transparency International_
+_Context: Corruption Perception Index, Denmark, New Zealand, Singapore, Somalia, Transparency International_
 
 ##### India
 ### [India and Malaysia announce that a free trade accord between them would come into effect in July 2011. ](/news/2010/10/27/india-and-malaysia-announce-that-a-free-trade-accord-between-them-would-come-into-effect-in-july-2011.md)
@@ -97,7 +97,7 @@ _Context: 2010 death toll, NATO, War in Afghanistan (2001-present)_
 
 ##### Taliban
 ### [Security forces raid Taliban hideouts in northern Baghlan province of Afghanistan eliminating five insurgents. ](/news/2010/10/27/security-forces-raid-taliban-hideouts-in-northern-baghlan-province-of-afghanistan-eliminating-five-insurgents.md)
-_Context: Afghan, Baghlan province, Taliban_
+_Context: Afghanistan, Baghlan province, Taliban_
 
 ##### Baghdad
 ### [At least three people are killed in an explosion in Baghdad, Iraq. ](/news/2010/10/27/at-least-three-people-are-killed-in-an-explosion-in-baghdad-iraq.md)
@@ -109,7 +109,7 @@ _Context: Pakistan, United States_
 
 ##### Al-Shabab
 ### [Clashes between pro-government forces and al-Shabaab militants in southern Somalia kill 17 people. ](/news/2010/10/27/clashes-between-pro-government-forces-and-al-shabaab-militants-in-southern-somalia-kill-17-people.md)
-_Context: Al-Shabab, Somali_
+_Context: Al-Shabab, Somalia_
 
 ##### India
 ### [Several people are injured in the Indian state of Jammu and Kashmir during protests marking the anniversary of the arrival of Indian forces in the region in 1947. ](/news/2010/10/27/several-people-are-injured-in-the-indian-state-of-jammu-and-kashmir-during-protests-marking-the-anniversary-of-the-arrival-of-indian-forces.md)

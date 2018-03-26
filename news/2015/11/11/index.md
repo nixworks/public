@@ -7,7 +7,7 @@ Formats: [HTML](2015/11/11/index.html)  [JSON](2015/11/11/index.json)  [XML](201
 ### [Astronomers announce the discovery of V774104, the most distant object yet found in the solar system, a dwarf planet orbiting at three times the distance of Pluto. ](/news/2015/11/11/astronomers-announce-the-discovery-of-v774104-the-most-distant-object-yet-found-in-the-solar-system-a-dwarf-planet-orbiting-at-three-times.md)
 A random search has turned up a dwarf planet orbiting roughly 10 billion miles away. The far-off world is tiny, and probably very, very cold.
 
-##### Catalan
+##### Catalonia
 ### [Pro-independence Catalan leaders vowed to continue their efforts to secede from Spain, defying a ruling by the Madrid-based constitutional court that suspended a law defining a path for independence. ](/news/2015/11/11/pro-independence-catalan-leaders-vowed-to-continue-their-efforts-to-secede-from-spain-defying-a-ruling-by-the-madrid-based-constitutional-c.md)
 &quot;We are fulfilling and will continue to fulfill the mandate of a sovereign parliament,&quot; Neus Munte, vice president of the Catalan government, said Wednesday.
 
@@ -21,7 +21,7 @@ Three airplanes were hit by a laser coming from the same direction as they were 
 
 ##### Constitutional Court
 ### [The Constitutional Court of Spain agrees to hear an appeal by the national government against a bid for independence by Catalonia suspending legal bids for secession. ](/news/2015/11/11/the-constitutional-court-of-spain-agrees-to-hear-an-appeal-by-the-national-government-against-a-bid-for-independence-by-catalonia-suspending.md)
-_Context: Catalan, Constitutional Court, Spanish government, secession_
+_Context: Catalonia, Constitutional Court, Spanish government, secession_
 
 ##### Anti-corruption campaign in China
 ### [ Beijing Deputy Communist Party Secretary Lu Xiwen and Shanghai vice mayor Ai Baojun are placed under investigation by the top anti-graft body of the Communist Party of China, the Central Commission for Discipline Inspection. ](/news/2015/11/11/beijing-deputy-communist-party-secretary-la1-4-xiwen-and-shanghai-vice-mayor-ai-baojun-are-placed-under-investigation-by-the-top-anti-graft-b.md)

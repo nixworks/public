@@ -27,7 +27,7 @@ Irish billionaire businessman Denis O&#039;Brien and a former Irish government m
 ### [European Council ](/news/2011/03/24/european-council.md)
 ##### Two girls
 ### [Two girls (11 and 8 years old) were brutally murdered in their home in Krailling, Bavaria (Germany). ](/news/2011/03/24/two-girls-11-and-8-years-old-were-brutally-murdered-in-their-home-in-krailling-bavaria-germany.md)
-_Context: Bavaria, German, Krailling, two girls_
+_Context: Bavaria, Germany, Krailling, two girls_
 
 ##### Sian O'Callaghan
 ### [British Police find the body of 22-year-old Sian O'Callaghan in Oxfordshire, five days after she went missing in Swindon, Wiltshire. A 47-year-old man is arrested on suspicion of murder and police are also searching for the body of an unnamed missing woman who is feared to have been murdered. ](/news/2011/03/24/british-police-find-the-body-of-22-year-old-sian-o-callaghan-in-oxfordshire-five-days-after-she-went-missing-in-swindon-wiltshire-a-47-ye.md)

@@ -7,9 +7,9 @@ Formats: [HTML](2006/12/14/index.html)  [JSON](2006/12/14/index.json)  [XML](200
 ### [ The Nintendo Wii breaks record sales in Australia and is the fastest selling gaming console in Australian history. ](/news/2006/12/14/the-nintendo-wii-breaks-record-sales-in-australia-and-is-the-fastest-selling-gaming-console-in-australian-history.md)
 _Context: Australia, Australian, Nintendo, Wii_
 
-##### European Union
+##### EU
 ### [ The European Union announces it will introduce a common EU-wide driving licence in 2013. ](/news/2006/12/14/the-european-union-announces-it-will-introduce-a-common-eu-wide-driving-licence-in-2013.md)
-_Context: 2013, European Union_
+_Context: 2013, EU_
 
 ##### Prime Minister
 ### [ UK Prime Minister Tony Blair is interviewed by police investigating cash for honours allegations. ](/news/2006/12/14/uk-prime-minister-tony-blair-is-interviewed-by-police-investigating-cash-for-honours-allegations.md)

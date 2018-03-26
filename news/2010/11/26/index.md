@@ -27,7 +27,7 @@ _Context: Human Rights Watch_
 ### [Authorities find the largest cache of homemade explosives ever discovered in the United States, in two houses near Escondido, California. ](/news/2010/11/26/authorities-find-the-largest-cache-of-homemade-explosives-ever-discovered-in-the-united-states-in-two-houses-near-escondido-california.md)
 _Context: Escondido, California, United States, explosives_
 
-##### Saudi
+##### Saudi Arabia
 ### [Authorities in Saudi Arabia arrest 149 people with links to al-Qaeda suspected of planning attacks on government officials and journalists. ](/news/2010/11/26/authorities-in-saudi-arabia-arrest-149-people-with-links-to-al-qaeda-suspected-of-planning-attacks-on-government-officials-and-journalists.md)
 Authorities have arrested 124 Saudis and 25 foreigners, who were planning attacks on government and security officials.
 

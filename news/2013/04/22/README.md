@@ -11,7 +11,7 @@ Apple Inc scored a win on Monday when the U.S. International Trade Commission ru
 ### [UK police announce that they are calling off the search for missing girl April Jones. ](/news/2013/04/22/uk-police-announce-that-they-are-calling-off-the-search-for-missing-girl-april-jones.md)
 A six-month search for the missing five-year-old comes to an end, as police say they have looked everywhere around Machynlleth.
 
-##### German
+##### Germany
 ### [In Germany, a Hamburg court fines Google EUR145,000 for violating privacy laws with its Street View service. ](/news/2013/04/22/in-germany-a-hamburg-court-fines-google-a-145-000-for-violating-privacy-laws-with-its-street-view-service.md)
 Google has been fined €145,000 by a German privacy regulator for the systematic and illegal collection of personal data while it was creating its Street View service, calling on European lawmakers to increase fines for violating data protection.
 
@@ -19,13 +19,13 @@ Google has been fined €145,000 by a German privacy regulator for the systemati
 ### [Clothing retailer Ralph Lauren agrees to pay $1.6 million for claims of bribery to public officials in Argentina from 2005 to 2009. ](/news/2013/04/22/clothing-retailer-ralph-lauren-agrees-to-pay-1-6-million-for-claims-of-bribery-to-public-officials-in-argentina-from-2005-to-2009.md)
 Ralph Lauren Corp., the retailer of its namesake brand clothing, will pay about $1.6 million to resolve U.S. regulatory and criminal claims that a subsidiary paid bribes to officials in Argentina from 2005 to 2009.
 
-##### European Union
+##### EU
 ### [The European Union lifts all sanctions and trade embargoes on Myanmar excluding arms trade and other trade of equipment that could be used for internal repression, citing the improvement of political freedoms. ](/news/2013/04/22/the-european-union-lifts-all-sanctions-and-trade-embargoes-on-myanmar-excluding-arms-trade-and-other-trade-of-equipment-that-could-be-used-f.md)
-_Context: European Union, Myanmar, embargo_
+_Context: EU, Myanmar, embargo_
 
-##### European Union
+##### EU
 ### [The European Union lifts an oil trade embargo it imposed on Syria during the early stages of the civil war to help the finances of the opposition. ](/news/2013/04/22/the-european-union-lifts-an-oil-trade-embargo-it-imposed-on-syria-during-the-early-stages-of-the-civil-war-to-help-the-finances-of-the-oppos.md)
-_Context: European Union, Syria, Syrian civil war, embargo_
+_Context: EU, Syria, Syrian civil war, embargo_
 
 ##### News Corporation
 ### [News Corporation agrees to pay $139 million to American shareholders due to the phone hacking scandal. ](/news/2013/04/22/news-corporation-agrees-to-pay-139-million-to-american-shareholders-due-to-the-phone-hacking-scandal.md)
@@ -39,7 +39,7 @@ _Context: Comedy Central, Futurama_
 ### [The Nigerian Red Cross claims that 185 people have been killed in Borno State in the north of country over the past few days as a result of fighting between militants and government state forces. The local military claim the numbers are inflated. ](/news/2013/04/22/the-nigerian-red-cross-claims-that-185-people-have-been-killed-in-borno-state-in-the-north-of-country-over-the-past-few-days-as-a-result-of.md)
 _Context: Borno, Nigeria, Red Cross_
 
-##### Afghan
+##### Afghanistan
 ### [11 people are kidnapped in Afghanistan after the helicopter they were in was forced to land. The Taliban takes responsibility for the abductions. ](/news/2013/04/22/11-people-are-kidnapped-in-afghanistan-after-the-helicopter-they-were-in-was-forced-to-land-the-taliban-takes-responsibility-for-the-abduct.md)
 KABUL, Afghanistan--Eleven people, including eight Turkish nationals, were captured after their helicopter was forced to make an emergency landing in eastern Afghanistan in an area largely...
 

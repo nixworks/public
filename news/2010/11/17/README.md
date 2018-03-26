@@ -59,7 +59,7 @@ The number of U.S. mortgage applications dropped last week by the most this year
 ### [A United States bankruptcy judge orders Bank of America to return $500 million it seized from the bank accounts of the defunct Lehman Brothers trading firm a few weeks before Lehman declared bankruptcy in 2008. ](/news/2010/11/17/a-united-states-bankruptcy-judge-orders-bank-of-america-to-return-500-million-it-seized-from-the-bank-accounts-of-the-defunct-lehman-brothe.md)
 Barclays Plc said disputes over an $11 billion profit it allegedly made buying bankrupt Lehman Brothers Holdings Inc.’s brokerage may not all be resolved in a current trial and might need “further adjudication.”
 
-##### European Union
+##### EU
 ### [EU finance ministers downplay the importance of talks on a potential bailout for Ireland, claiming that no detailed discussions were held on the issue ](/news/2010/11/17/eu-finance-ministers-downplay-the-importance-of-talks-on-a-potential-bailout-for-ireland-claiming-that-no-detailed-discussions-were-held-on.md)
 European finance ministers say they did not hold detailed discussions on a potential bail-out for the Irish Republic at a meeting in Brussels.
 
@@ -83,7 +83,7 @@ At least 21 people killed and many more injured after fighters clash with Africa
 ### [Israel approves plans to withdraw IDF troops from the northern half of Ghajar, a village on the Israeli-Lebanese border. ](/news/2010/11/17/israel-approves-plans-to-withdraw-idf-troops-from-the-northern-half-of-ghajar-a-village-on-the-israeli-lebanese-border.md)
 Israel approves plans to withdraw its troops from the northern half of a village deemed by the UN to be inside Lebanon, Israeli officials say.
 
-##### German
+##### Germany
 ### [Germany heightens its police security presence at its airports after identifying "concrete indications" that a terrorist attack is planned for the end of November ](/news/2010/11/17/germany-heightens-its-police-security-presence-at-its-airports-after-identifying-concrete-indications-that-a-terrorist-attack-is-planned-f.md)
 Germany tightens security at airports and railway stations in light of &quot;concrete indications&quot; of terrorist attacks being planned for the end of November.
 

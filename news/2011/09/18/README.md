@@ -7,9 +7,9 @@ Formats: [HTML](2011/09/18/index.html)  [JSON](2011/09/18/index.json)  [XML](201
 ### [Sinn Fein announces that Martin McGuinness, current Deputy First Minister of Northern Ireland and former Irish Republican Army commander, will be a candidate for the Irish presidential election with John O'Dowd serving as acting Deputy First Minister. ](/news/2011/09/18/sinn-fein-announces-that-martin-mcguinness-current-deputy-first-minister-of-northern-ireland-and-former-irish-republican-army-commander-wi.md)
 _Context: Irish Republican Army, Irish presidential election, John O'Dowd, Martin McGuinness, Northern Ireland, Sinn Fein, deputy First Minister of Northern Ireland_
 
-##### German
+##### Germany
 ### [Voters in the German capital of Berlin go to the polls for a state election, with current mayor Klaus Wowereit and his Social Democrats doing well. ](/news/2011/09/18/voters-in-the-german-capital-of-berlin-go-to-the-polls-for-a-state-election-with-current-mayor-klaus-wowereit-and-his-social-democrats-doin.md)
-_Context: Berlin, German, Klaus Wowereit, Social Democrats_
+_Context: Berlin, Germany, Klaus Wowereit, Social Democrats_
 
 ##### Latvian
 ### [Negotiations begin as Latvian politicians seek to form a new government after yesterday's election, with the Social Democratic Party "Harmony" having won the most seats and Zatlers' Reform Party and Unity also doing well. ](/news/2011/09/18/negotiations-begin-as-latvian-politicians-seek-to-form-a-new-government-after-yesterday-s-election-with-the-social-democratic-party-harmon.md)

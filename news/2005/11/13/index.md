@@ -33,7 +33,7 @@ _Context: Iraq War, Jalal Talabani_
 
 ##### United Kingdom
 ### [ British doctors are to continue checks on Andrew Stimpson, a Scotsman whose body has reportedly cured itself of HIV infection. ](/news/2005/11/13/british-doctors-are-to-continue-checks-on-andrew-stimpson-a-scotsman-whose-body-has-reportedly-cured-itself-of-hiv-infection.md)
-_Context: Andrew Stimpson, HIV, Scottish, United Kingdom_
+_Context: Andrew Stimpson, HIV, Scotland, United Kingdom_
 
 ##### Stephen Harper
 ### [ Stephen Harper, Gilles Duceppe and Jack Layton, leaders of Canada's three parliamentary opposition parties, issue a joint ultimatum calling for the next Canadian federal election to be moved forward to early February from the April date favoured by the government. They threaten to pass a motion of non-confidence and force an election at Christmas if Paul Martin's Liberal government does not accede to the move in writing. Martin rejects their proposal. ](/news/2005/11/13/stephen-harper-gilles-duceppe-and-jack-layton-leaders-of-canada-s-three-parliamentary-opposition-parties-issue-a-joint-ultimatum-calling.md)

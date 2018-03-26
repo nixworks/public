@@ -3,9 +3,9 @@ Formats: [HTML](2009/02/14/index.html)  [JSON](2009/02/14/index.json)  [XML](200
 
 ## [2009-02-14](/news/2009/02/14/index.md)
 
-##### Somali
+##### Somalia
 ### [ Somali pirates release the Japanese oil tanker "Chemstar Venus" and its 23 crew members. ](/news/2009/02/14/somali-pirates-release-the-japanese-oil-tanker-chemstar-venus-and-its-23-crew-members.md)
-_Context: ''Chemstar Venus'', Japan, Somali, Somali pirates, oil tanker_
+_Context: ''Chemstar Venus'', Japan, Somali pirates, Somalia, oil tanker_
 
 ##### Japan
 ### [ Japan's National Astronomical Observatory completes the first topographic map of the Moon. ](/news/2009/02/14/japan-s-national-astronomical-observatory-completes-the-first-topographic-map-of-the-moon.md)

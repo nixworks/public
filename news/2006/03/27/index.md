@@ -3,9 +3,9 @@ Formats: [HTML](2006/03/27/index.html)  [JSON](2006/03/27/index.json)  [XML](200
 
 ## [2006-03-27](/news/2006/03/27/index.md)
 
-##### European Union
+##### EU
 ### [ The European Union agrees to introduce a standardized European driving licence. ](/news/2006/03/27/the-european-union-agrees-to-introduce-a-standardized-european-driving-licence.md)
-_Context: European Union, European driving licence_
+_Context: EU, European driving licence_
 
 ##### Zacarias Moussaoui
 ### [ Zacarias Moussaoui testifies in an American court that he and Richard Reid planned to fly a passenger jet into the White House as part of the September 11, 2001 attacks, contradicting his previous testimony. ](/news/2006/03/27/zacarias-moussaoui-testifies-in-an-american-court-that-he-and-richard-reid-planned-to-fly-a-passenger-jet-into-the-white-house-as-part-of-t.md)

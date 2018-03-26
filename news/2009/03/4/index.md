@@ -9,7 +9,7 @@ _Context: Amsterdam, Amsterdam Airport Schiphol, Dutch, Dutch Safety Board, Flig
 
 ##### United Kingdom
 ### [ British-Norwegian cruise line Fred Olsen's cruise ship "Balmoral" escapes a Somali pirate attack in the Gulf of Aden. ](/news/2009/03/4/british-norwegian-cruise-line-fred-olsen-s-cruise-ship-balmoral-escapes-a-somali-pirate-attack-in-the-gulf-of-aden.md)
-_Context: Balmoral, Fred Olsen, Gulf of Aden, Norwegian, Somali, Somali pirates, United Kingdom, cruise line, cruise ship_
+_Context: Balmoral, Fred Olsen, Gulf of Aden, Norwegian, Somali pirates, Somalia, United Kingdom, cruise line, cruise ship_
 
 ##### Ukrainian
 ### [ Ukraine's Security Service raids Naftogas's headquarters in Kiev. ](/news/2009/03/4/ukraine-s-security-service-raids-naftogas-s-headquarters-in-kiev.md)
@@ -41,7 +41,7 @@ _Context: China, military budget_
 
 ##### President of France
 ### [ President Nicolas Sarkozy and eight other top French politicians receive death threats. ](/news/2009/03/4/president-nicolas-sarkozy-and-eight-other-top-french-politicians-receive-death-threats.md)
-_Context: France, Nicolas Sarkozy, President of France, death threat, politician_
+_Context: French, Nicolas Sarkozy, President of France, death threat, politician_
 
 ##### Gordon Brown
 ### [ Gordon Brown becomes the United Kingdom's fifth Prime Minister to address a joint session of the U.S. Congress. ](/news/2009/03/4/gordon-brown-becomes-the-united-kingdom-s-fifth-prime-minister-to-address-a-joint-session-of-the-u-s-congress.md)

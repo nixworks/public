@@ -25,7 +25,7 @@ _Context: Batangas, Philippines, Verde Island_
 
 ##### Yemen
 ### [ Officials in Yemen say top Houthi leader Abdul-Malik al-Houthi has been killed during an offensive in the north of the country. ](/news/2009/12/27/officials-in-yemen-say-top-houthi-leader-abdul-malik-al-houthi-has-been-killed-during-an-offensive-in-the-north-of-the-country.md)
-_Context: Abdul-Malik al-Houthi, Houthis, Shia insurgency in Yemen, Yemen_
+_Context: Abdul-Malik al-Houthi, Houthi, Shia insurgency in Yemen, Yemen_
 
 ##### Consortium
 ### [ A consortium led by Korea Electric Power gets a US$20.4-billion contract to build nuclear power plants in the United Arab Emirates, the largest-ever energy deal in the Middle East. ](/news/2009/12/27/a-consortium-led-by-korea-electric-power-gets-a-us-20-4-billion-contract-to-build-nuclear-power-plants-in-the-united-arab-emirates-the-lar.md)

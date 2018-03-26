@@ -3,7 +3,7 @@ Formats: [HTML](2010/10/14/index.html)  [JSON](2010/10/14/index.json)  [XML](201
 
 ## [2010-10-14](/news/2010/10/14/index.md)
 
-##### France
+##### French
 ### [French-American mathematician Benoit Mandelbrot dies of cancer in Cambridge, Massachusetts. ](/news/2010/10/14/french-american-mathematician-benoa-r-t-mandelbrot-dies-of-cancer-in-cambridge-massachusetts.md)
 Maverick French-American mathematician Benoit Mandelbrot, who explored a new class of mathematical shapes known as fractals, has died at age 85 in the United States, his family said.
 
@@ -31,7 +31,7 @@ Burmese pro-democracy leader Aung San Suu Kyi will boycott the country&#039;s ge
 ### [18-year-old Anton Abele becomes Sweden's youngest ever MP; he is a member of the ruling Moderate Party. ](/news/2010/10/14/18-year-old-anton-abele-becomes-sweden-s-youngest-ever-mp-he-is-a-member-of-the-ruling-moderate-party.md)
 _Context: Anton Abele, Moderate Party, Sweden_
 
-##### Somali
+##### Somalia
 ### [Somali President Sharif Ahmed appoints Mohamed Abdullahi Mohamed as Prime Minister of the Transitional Federal Government. ](/news/2010/10/14/somali-president-sharif-ahmed-appoints-mohamed-abdullahi-mohamed-as-prime-minister-of-the-transitional-federal-government.md)
 Sharif Ahmed names Mohamed Abdullahi Mohamed as new prime minister of the transitional government.
 
@@ -63,9 +63,9 @@ _Context: Lan Lijun, Sino-Canadian relations, Stephen Harper_
 ### [The Prime Minister of Japan Naoto Kan calls on China to release Nobel Peace Prize winner Liu Xiaobo. ](/news/2010/10/14/the-prime-minister-of-japan-naoto-kan-calls-on-china-to-release-nobel-peace-prize-winner-liu-xiaobo.md)
 _Context: China, Japanese Prime Minister, Liu Xiaobo, Naoto Kan, Nobel Peace Prize_
 
-##### Afghan
+##### Afghanistan
 ### [At least seven Afghan border guards are detained by Iran after crossing their mutual border. ](/news/2010/10/14/at-least-seven-afghan-border-guards-are-detained-by-iran-after-crossing-their-mutual-border.md)
-_Context: Afghan, Iran_
+_Context: Afghanistan, Iran_
 
 ##### Turkey
 ### [Turkish lawyers file a complaint against Israel over the Gaza flotilla raid in the International Criminal Court. ](/news/2010/10/14/turkish-lawyers-file-a-complaint-against-israel-over-the-gaza-flotilla-raid-in-the-international-criminal-court.md)
@@ -101,7 +101,7 @@ _Context: Ayad Allawi, Baghdad, Iraq, Iraqi National Movement_
 
 ##### ISAF
 ### [Eight ISAF NATO soldiers are killed in multiple attacks in Afghanistan, including four in roadside bombings. ](/news/2010/10/14/eight-isaf-nato-soldiers-are-killed-in-multiple-attacks-in-afghanistan-including-four-in-roadside-bombings.md)
-_Context: Afghan, IED, ISAF, NATO_
+_Context: Afghanistan, IED, ISAF, NATO_
 
 ## [Previous Day...](/news/2010/10/13/index.md)
 

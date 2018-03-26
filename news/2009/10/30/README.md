@@ -23,9 +23,9 @@ _Context: North Korea, South Korea, South Korea's intelligence agency, wave of c
 ### [ Honduras' de facto leader Roberto Micheletti and ousted President Manuel Zelaya agree a deal to end the political crisis, reinstating Zelaya as President. ](/news/2009/10/30/honduras-de-facto-leader-roberto-micheletti-and-ousted-president-manuel-zelaya-agree-a-deal-to-end-the-political-crisis-reinstating-zelay.md)
 _Context: Honduras, Manuel Zelaya, President, Roberto Micheletti, political crisis in the country_
 
-##### France
+##### French
 ### [ Former French President Jacques Chirac is ordered to stand trial on corruption charges. ](/news/2009/10/30/former-french-president-jacques-chirac-is-ordered-to-stand-trial-on-corruption-charges.md)
-_Context: France, Jacques Chirac, President of France, corruption_
+_Context: French, Jacques Chirac, President of France, corruption_
 
 ##### Indigenous Brazilians
 ### [ Native tribesmen in the Amazon Rainforest discover a downed Brazilian military transport plane, finding nine survivors. ](/news/2009/10/30/native-tribesmen-in-the-amazon-rainforest-discover-a-downed-brazilian-military-transport-plane-finding-nine-survivors.md)
@@ -51,9 +51,9 @@ _Context: Internet Corporation for Assigned Names and Numbers, Latin_
 ### [ Typhoon Mirinae makes landfall in the Philippines. ](/news/2009/10/30/typhoon-mirinae-makes-landfall-in-the-philippines.md)
 Manila prepares for the worst as fourth storm in last two months makes landfall.
 
-##### European Union
+##### EU
 ### [ European Union leaders agree a climate aid deal to help developing countries adapt to global warming. ](/news/2009/10/30/european-union-leaders-agree-a-climate-aid-deal-to-help-developing-countries-adapt-to-global-warming.md)
-_Context: European Union, developing countries, global warming_
+_Context: EU, developing countries, global warming_
 
 ## [Previous Day...](/news/2009/10/29/index.md)
 

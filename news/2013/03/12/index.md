@@ -51,7 +51,7 @@ _Context: Nelson Mandela, South Africa, Winnie Madikizela-Mandela, exhume_
 ### [At CITES meeting in Thailand, participating nations vote in effect various restrictions on the trade of critically endangered hardwood trees. ](/news/2013/03/12/at-cites-meeting-in-thailand-participating-nations-vote-in-effect-various-restrictions-on-the-trade-of-critically-endangered-hardwood-trees.md)
 Far-reaching restrictions on the trade in hardwood trees have been agreed at Cites, the major conservation meeting being held in Thailand.
 
-##### Saudi
+##### Saudi Arabia
 ### [A Saudi Arabian man becomes the ninth person to die from the Novel coronavirus 2012. ](/news/2013/03/12/a-saudi-arabian-man-becomes-the-ninth-person-to-die-from-the-novel-coronavirus-2012.md)
 A Saudi man infected with a deadly new virus from the same family as SARS has died, becoming the ninth patient in the world to be killed the disease which has so far infected 15, the World Health Organisation said on Tuesday.
 

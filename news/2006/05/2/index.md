@@ -15,9 +15,9 @@ _Context: Bolivia, Bolivian Gas War, Evo Morales, President of Bolivia, forestry
 ### [ Italian Prime Minister Silvio Berlusconi officially hands in his resignation to President Carlo Azeglio Ciampi. Berlusconi was defeated by Romano Prodi in the April 9-10 elections, but Ciampi has asked him to remain in office, "for the handling of current affairs". ](/news/2006/05/2/italian-prime-minister-silvio-berlusconi-officially-hands-in-his-resignation-to-president-carlo-azeglio-ciampi-berlusconi-was-defeated-by.md)
 _Context: April 9-10 elections, Carlo Azeglio Ciampi, Italian Prime Minister, President, Romano Prodi, Silvio Berlusconi_
 
-##### German
+##### Germany
 ### [ German hostages Ren Brunlich and Thomas Nitzschke are freed. Both were taken hostage in Iraq on January 24, 2006. ](/news/2006/05/2/german-hostages-rene-braunlich-and-thomas-nitzschke-are-freed-both-were-taken-hostage-in-iraq-on-january-24-2006.md)
-_Context: German, Iraq_
+_Context: Germany, Iraq_
 
 ##### Nepal
 ### [ Nepal's new cabinet is unveiled. ](/news/2006/05/2/nepal-s-new-cabinet-is-unveiled.md)

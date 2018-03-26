@@ -25,7 +25,7 @@ _Context: Mexico, United States, drug cartel_
 
 ##### Islamists
 ### [ Islamist terrorist group Al-Shabaab seizes Hudur, Somalia. ](/news/2009/02/25/islamist-terrorist-group-al-shabaab-seizes-hudur-somalia.md)
-_Context: Al-Shabaab, Islamists, Somali, Somali Civil War, terrorist_
+_Context: Al-Shabaab, Islamists, Somali Civil War, Somalia, terrorist_
 
 ##### United States
 ### [ The U.S. State Department criticizes China's human rights record. ](/news/2009/02/25/the-u-s-state-department-criticizes-china-s-human-rights-record.md)
@@ -77,7 +77,7 @@ _Context: Beijing, China, Tiananmen Square, sets herself alight_
 
 ##### Improvised explosive device
 ### [ An improvised explosive device kills three British Army soldiers in the Gerishk District of Afghanistan's Helmand Province. ](/news/2009/02/25/an-improvised-explosive-device-kills-three-british-army-soldiers-in-the-gerishk-district-of-afghanistan-s-helmand-province.md)
-_Context: Afghan, British Army, Gerishk District, Helmand Province, United Kingdom, improvised explosive device_
+_Context: Afghanistan, British Army, Gerishk District, Helmand Province, United Kingdom, improvised explosive device_
 
 ##### United States
 ### [ United States President Barack Obama nominates former Washington Governor Gary Locke to serve as the next Secretary of Commerce. ](/news/2009/02/25/united-states-president-barack-obama-nominates-former-washington-governor-gary-locke-to-serve-as-the-next-secretary-of-commerce.md)

@@ -27,7 +27,7 @@ _Context: Canada, G20 summit, Toronto, explosives_
 ### [2 Australians are injured after shooting each other in the buttocks and legs. ](/news/2010/06/23/2-australians-are-injured-after-shooting-each-other-in-the-buttocks-and-legs.md)
 _Context: Australia_
 
-##### Afghan
+##### Afghanistan
 ### [2 American service members die following bomb attacks in southern Afghanistan. ](/news/2010/06/23/2-american-service-members-die-following-bomb-attacks-in-southern-afghanistan.md)
 June On Track to Become 1 of Deadliest Months of War as Uncertainty Over U.S. Command Builds
 

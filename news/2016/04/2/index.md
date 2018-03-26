@@ -11,9 +11,9 @@ Belgian police made a series of arrests of right-wing and anti-racist protesters
 ### [The Governor of the U.S. territory of Guam Eddie Calvo announces his intention to hold a plebiscite to decide the future political status of the island. Calvo said he hopes to start a successful "education campaign" on the issue before filing a petition to start a referendum. If the plebiscite does take place, voters on Guam would be asked to select which political status they would prefer; independence, statehood, or free association However, the possible vote would be non-binding as any change in political status would require an act of Congress in Washington, D.C.. Guam is currently on the United Nations list of Non-Self-Governing Territories in need of decolonization. ](/news/2016/04/2/the-governor-of-the-u-s-territory-of-guam-eddie-calvo-announces-his-intention-to-hold-a-plebiscite-to-decide-the-future-political-status-of.md)
 Voters in Guam may finally get the chance to vote on the territory&#39;s political status, with the US territory&#39;s governor announcing an ambitious plan to add a plebiscite to November&#39;s election ballot.
 
-##### Saudi
+##### Saudi Arabia
 ### [The Saudi-owned news channel Al Arabiya shuts its offices in Beirut, Lebanon and dismisses 27 employees in a sudden move reflecting tensions between Saudi Arabia and Lebanon-based Hezbollah, which is backed by Iran. Saudi Arabia interpreted Lebanon's lack of public solidarity as a sign that it had become beholden to Hezbollah. ](/news/2016/04/2/the-saudi-owned-news-channel-al-arabiya-shuts-its-offices-in-beirut-lebanon-and-dismisses-27-employees-in-a-sudden-move-reflecting-tensions.md)
-_Context: Al Arabiya, Beirut, Hezbollah, Iran, Lebanese, Saudi_
+_Context: Al Arabiya, Beirut, Hezbollah, Iran, Lebanese, Saudi Arabia_
 
 ##### Tran Dai Quang
 ### [Tran Dai Quang is sworn in as the President of Vietnam. ](/news/2016/04/2/traossn-aao-i-quang-is-sworn-in-as-the-president-of-vietnam.md)

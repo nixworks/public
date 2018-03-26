@@ -3,9 +3,9 @@ Formats: [HTML](2009/10/6/index.html)  [JSON](2009/10/6/index.json)  [XML](2009/
 
 ## [2009-10-6](/news/2009/10/6/index.md)
 
-##### Somali
+##### Somalia
 ### [ Somalia's State Minister for Defence Sheikh Yusuf Mohammad Siad is detained by security forces in Uganda. Siad's detention was originally reported as a kidnapping. ](/news/2009/10/6/somalia-s-state-minister-for-defence-sheikh-yusuf-mohammad-siad-is-detained-by-security-forces-in-uganda-siad-s-detention-was-originally-r.md)
-_Context: Sheikh Yusuf Mohammad Siad, Somali, Uganda, kidnapping_
+_Context: Sheikh Yusuf Mohammad Siad, Somalia, Uganda, kidnapping_
 
 ##### Hilary Mantel
 ### [ Hilary Mantel's "Wolf Hall" wins the 2009 Man Booker Prize. ](/news/2009/10/6/hilary-mantel-s-wolf-hall-wins-the-2009-man-booker-prize.md)

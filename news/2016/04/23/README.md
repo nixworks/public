@@ -15,7 +15,7 @@ _Context: Clement Mouamba, Congo President, Denis Sassou Nguesso_
 ### [According to the Sudanese electoral commission, more than 97% of voters in Darfur choose to remain as five states rather than form a single region. However, The vote was held amid ongoing insecurity and many of Sudan's 2.5 million displaced people were not registered to vote, with the U.S. State Department warning that the referendum could not be considered credible "under current rules and conditions". ](/news/2016/04/23/according-to-the-sudanese-electoral-commission-more-than-97-of-voters-in-darfur-choose-to-remain-as-five-states-rather-than-form-a-single.md)
 _Context: Darfur, Darfurian status referendum, 2016, State Department, Sudan_
 
-##### German
+##### Germany
 ### [Thousands of people protest in the German city of Hanover against the proposed Transatlantic Trade and Investment Partnership deal. They say the deal would drive down wages, and weaken environmental protection and labour rights. ](/news/2016/04/23/thousands-of-people-protest-in-the-german-city-of-hanover-against-the-proposed-transatlantic-trade-and-investment-partnership-deal-they-say.md)
 Thousands of people have protested in the German city of Hannover against a proposed Transatlantic Trade and Investment Partnership (TTIP) deal.
 

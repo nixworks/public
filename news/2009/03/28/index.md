@@ -13,7 +13,7 @@ Researchers said that the spying, which infiltrated the offices of the Dalai Lam
 
 ##### Dunfermline Building Society
 ### [ The Dunfermline Building Society in Scotland will be sold. ](/news/2009/03/28/the-dunfermline-building-society-in-scotland-will-be-sold.md)
-_Context: Dunfermline Building Society, Scottish_
+_Context: Dunfermline Building Society, Scotland_
 
 ##### Red River of the North
 ### [ The Red River rises above 40 feet, causing emergency evacuations in Fargo, North Dakota, United States. ](/news/2009/03/28/the-red-river-rises-above-40-feet-causing-emergency-evacuations-in-fargo-north-dakota-united-states.md)

@@ -15,7 +15,7 @@ Australian PM Kevin Rudd and opposition leader Tony Abbott clash over the econom
 ### [Voters in Mali go to the polls for the second round of a presidential election. ](/news/2013/08/11/voters-in-mali-go-to-the-polls-for-the-second-round-of-a-presidential-election.md)
 Polls have now closed in Mali in a presidential election run-off aimed at restoring democracy and stability after more than a year of turmoil.
 
-##### France
+##### French
 ### [A coach crash in southern France kills two tourists and injures 30. ](/news/2013/08/11/a-coach-crash-in-southern-france-kills-two-tourists-and-injures-30.md)
 A coach has crashed in southern France, killing two tourists and injuring 30 others. The Eurolines bus was travelling from Marseille to Spain when it
 
@@ -25,7 +25,7 @@ _Context: Afgahanistan, Kabul_
 
 ##### Syrian civil war
 ### [Syrian officers reports that Syrian Army kills senior Saudi Arabian al-Qaeda commander Abu Malik al-Shahri, who is known as 'Bin Laden of Syria', in outskirt of Latakia. ](/news/2013/08/11/syrian-officers-reports-that-syrian-army-kills-senior-saudi-arabian-al-qaeda-commander-abu-malik-al-shahri-who-is-known-as-bin-laden-of-sy.md)
-_Context: Latakia, Osama bin Laden, Saudi, Syrian civil war, al-Qaeda_
+_Context: Latakia, Osama bin Laden, Saudi Arabia, Syrian civil war, al-Qaeda_
 
 ##### Al-Qaeda
 ### [Suspected Al-Qaeda militants kill five Yemeni soldiers in an attack on a gas terminal in Southern Yemen. ](/news/2013/08/11/suspected-al-qaeda-militants-kill-five-yemeni-soldiers-in-an-attack-on-a-gas-terminal-in-southern-yemen.md)

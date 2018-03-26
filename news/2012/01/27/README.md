@@ -11,7 +11,7 @@ The cabinet on Friday voted to ban burkas and other face-covering garments from 
 ### [The Democratic Republic of the Congo's main opposition leader condemns parliamentary elections as rigged and calls for a general strike on Monday in protest at his house arrest. ](/news/2012/01/27/the-democratic-republic-of-the-congo-s-main-opposition-leader-condemns-parliamentary-elections-as-rigged-and-calls-for-a-general-strike-on-m.md)
 _Context: DR Congo_
 
-##### Twitter
+##### Tweeting
 ### [Twitter alters technology to enable country-specific censorship of messages. ](/news/2012/01/27/twitter-alters-technology-to-enable-country-specific-censorship-of-messages.md)
 Micro-blogging service unveils shift in policy as it seeks to expand into new territories and expand its user base.
 

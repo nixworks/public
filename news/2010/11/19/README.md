@@ -33,7 +33,7 @@ _Context: Administrative Department of Security, Colombia, Maria del Pilar Hurta
 
 ##### Jakarta
 ### [Demonstrators outside the Saudi embassy in Jakarta demand justice for migrant workers after a Saudi Arabian employer kills an Indonesian maid and another maid was severely beaten by her Saudi employer; the Indonesian Foreign Minister Marty Natalegawa summons the Saudi Arabian ambassador to protest. ](/news/2010/11/19/demonstrators-outside-the-saudi-embassy-in-jakarta-demand-justice-for-migrant-workers-after-a-saudi-arabian-employer-kills-an-indonesian-mai.md)
-_Context: Indonesia, Jakarta, Marty Natalegawa, Saudi, migrant workers_
+_Context: Indonesia, Jakarta, Marty Natalegawa, Saudi Arabia, migrant workers_
 
 ##### Dalai Lama
 ### [Tibetan spiritual leader, the Dalai Lama, says that cultural genocide is taking place in Tibet, particularly in light of the Chinese authority's requirement of Mandarin as the language of instruction in schools in Tibet. ](/news/2010/11/19/tibetan-spiritual-leader-the-dalai-lama-says-that-cultural-genocide-is-taking-place-in-tibet-particularly-in-light-of-the-chinese-authori.md)
@@ -51,7 +51,7 @@ Nato members meet in Lisbon for a crucial summit, with a timetable for handing s
 ### [India summons the Iranian charge d'affaires to protest against remarks by Supreme Leader Ayatollah Ali Khamenei regarding Kashmir. It also abstains on a vote on Iranian human rights for the first time. ](/news/2010/11/19/india-summons-the-iranian-charga-c-d-affaires-to-protest-against-remarks-by-supreme-leader-ayatollah-ali-khamenei-regarding-kashmir-it-also.md)
 Angry at the critical statements by Iranian supreme leader Ayatollah Ali Khamenei on Kashmir, India on Friday summoned the charge d&rsquo;affaires of the Iranian embassy on Friday to lodge a formal protest.
 
-##### France
+##### French
 ### [France rejects a demand by Al-Qaeda in the Islamic Maghreb to leave Afghanistan in return for the freeing of French and African hostages kidnapped in Niger. ](/news/2010/11/19/france-rejects-a-demand-by-al-qaeda-in-the-islamic-maghreb-to-leave-afghanistan-in-return-for-the-freeing-of-french-and-african-hostages-kid.md)
 Paris says its foreign policy will not be dictated by others after al-Qaeda demanded that its troops leave Afghanistan.
 
@@ -75,13 +75,13 @@ More details of the missing miners emerge as police wait until it is safe to beg
 ### [United States federal judge William Terrell Hodges orders actor Wesley Snipes to surrender to authorities so that he can start a three year sentence for tax-related crimes. ](/news/2010/11/19/united-states-federal-judge-william-terrell-hodges-orders-actor-wesley-snipes-to-surrender-to-authorities-so-that-he-can-start-a-three-year.md)
 _Context: Federal District Judge, Wesley Snipes, William Terrell Hodges_
 
-##### German
+##### Germany
 ### [Germany says the laptop bag containing an explosive simulation training device found at Namibia's main airport during loading of a flight to Munich was part of a security test, a day after German Interior Minister Thomas de Maiziere issued a warning of possible terror attacks next week. ](/news/2010/11/19/germany-says-the-laptop-bag-containing-an-explosive-simulation-training-device-found-at-namibia-s-main-airport-during-loading-of-a-flight-to.md)
 A dummy bomb that sparked an international terror alert was made by an 80-year-old Calif. grandmother and was discarded in an Namibia airport because of &quot;a boo boo,&quot; NBC reported.
 
 ##### United States armed forces
 ### [The U.S. military is sending M1 Abrams tanks to Afghanistan for the first time in the nine-year war in Afghanistan. ](/news/2010/11/19/the-u-s-military-is-sending-m1-abrams-tanks-to-afghanistan-for-the-first-time-in-the-nine-year-war-in-afghanistan.md)
-_Context: Afghan, M1 Abrams tanks, United States armed forces, War in Afghanistan (2001-present)_
+_Context: Afghanistan, M1 Abrams tanks, United States armed forces, War in Afghanistan (2001-present)_
 
 ##### Palestinian rocket attacks on Israel
 ### [Responding to Palestinians firing phosphorus shells and mortars into Israel, the Israel Air Force bombs at least two targets in the Gaza Strip and will file a complaint with the UN. The Salah al-Din Brigades claim responsibility, saying the rockets were responding to the killing of two members of the al-Qaida affiliated Army of Islam in Gaza. ](/news/2010/11/19/responding-to-palestinians-firing-phosphorus-shells-and-mortars-into-israel-the-israel-air-force-bombs-at-least-two-targets-in-the-gaza-str.md)
@@ -97,7 +97,7 @@ _Context: Dagestan, North Caucasus, Russia_
 
 ##### Al-Shabab
 ### [Eleven people are killed in clashes between the rival al-Shabaab and Ahlu Sunna Waljama'a groups in central Somalia. ](/news/2010/11/19/eleven-people-are-killed-in-clashes-between-the-rival-al-shabaab-and-ahlu-sunna-waljama-a-groups-in-central-somalia.md)
-_Context: Ahlu Sunna Waljama'a, Al-Shabab, Somali_
+_Context: Ahlu Sunna Waljama'a, Al-Shabab, Somalia_
 
 ## [Previous Day...](/news/2010/11/18/index.md)
 

@@ -15,7 +15,7 @@ _Context: Royal Thai Government_
 ### [Hundreds of right-wing activists gather to protest the court-ordered demolition of the Israeli settlement Ofra, which was built on private Palestinian land in the West Bank. Israeli police are evacuating nine homes in the settlement, despite hunger strikes and people barricading themselves inside. ](/news/2017/02/28/hundreds-of-right-wing-activists-gather-to-protest-the-court-ordered-demolition-of-the-israeli-settlement-ofra-which-was-built-on-private-p.md)
 Hundreds of right-wing activists gathered in the West Bank settlement of Ofra, as Israeli police begin the evacuation of nine settler homes slated for demolition on Tuesday.
 
-##### German
+##### Germany
 ### [German police storm a refugee center in Hamburg after a knife-wielding man barricades himself in a room with a pregnant woman believed to be his partner. The man was injured before he was arrested. ](/news/2017/02/28/german-police-storm-a-refugee-center-in-hamburg-after-a-knife-wielding-man-barricades-himself-in-a-room-with-a-pregnant-woman-believed-to-be.md)
 A refugee center in Hamburg was stormed by police on Tuesday after a man armed with a knife barricaded himself inside a room with a woman, believed to be his partner. The man was injured before being arrested, according to local reports. 
 

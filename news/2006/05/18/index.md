@@ -17,7 +17,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### White House Press Secretary
 ### [ White House Press Secretary Tony Snow is unwilling to either confirm or deny U.S. financial and logistical support for the Alliance for the Restoration of Peace and Counter-Terrorism in Somalia. Previously, such accusations were denied. The current Prime Minister of Somalia, Ali Mohamed Gedi, criticized U.S. support for "criminals." ](/news/2006/05/18/white-house-press-secretary-tony-snow-is-unwilling-to-either-confirm-or-deny-u-s-financial-and-logistical-support-for-the-alliance-for-the.md)
-_Context: Ali Mohamed Gedi, Alliance for the Restoration of Peace and Counter-Terrorism, Prime Minister of Somalia, Somali, Tony Snow, White House Press Secretary_
+_Context: Ali Mohamed Gedi, Alliance for the Restoration of Peace and Counter-Terrorism, Prime Minister of Somalia, Somalia, Tony Snow, White House Press Secretary_
 
 ##### Prime Minister
 ### [ Prime Minister Laisenia Qarase of Fiji swears in for a second term after winning the 2006 general election. ](/news/2006/05/18/prime-minister-laisenia-qarase-of-fiji-swears-in-for-a-second-term-after-winning-the-2006-general-election.md)

@@ -3,9 +3,9 @@ Formats: [HTML](2012/06/17/index.html)  [JSON](2012/06/17/index.json)  [XML](201
 
 ## [2012-06-17](/news/2012/06/17/index.md)
 
-##### France
+##### French
 ### [Voters in France go to the polls for legislative election with the Socialist Party winning a majority. ](/news/2012/06/17/voters-in-france-go-to-the-polls-for-legislative-election-with-the-socialist-party-winning-a-majority.md)
-_Context: France, PS, legislative election_
+_Context: French, PS, legislative election_
 
 ##### Egypt
 ### [Voters in Egypt go to the polls for a second day to vote in the second round of a presidential election, with former prime minister Ahmed Shafik and Mohamed Morsi of the Muslim Brotherhood's Freedom and Justice Party both competing for the presidency. ](/news/2012/06/17/voters-in-egypt-go-to-the-polls-for-a-second-day-to-vote-in-the-second-round-of-a-presidential-election-with-former-prime-minister-ahmed-sh.md)

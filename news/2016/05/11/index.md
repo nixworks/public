@@ -15,7 +15,7 @@ The law, opposed by the Vatican, stops short of gay marriage but brings Italy mo
 ### [The Federal Senate of Brazil debates whether to suspend and impeach President Dilma Rousseff for allegedly breaching budget rules. The President's allies are not optimistic about the Senate vote. ](/news/2016/05/11/the-federal-senate-of-brazil-debates-whether-to-suspend-and-impeach-president-dilma-rousseff-for-allegedly-breaching-budget-rules-the-presi.md)
 _Context: Brazil, Dilma Rousseff, Impeachment process against Dilma Rousseff, Senate, president_
 
-##### German
+##### Germany
 ### [German Justice Minister Heiko Maas says he will propose legislation to annul homosexuality convictions, and create a "right to compensation." A 19th-century law outlawed sexual relations between men. Homosexuality was decriminalized in 1969, but the law itself was not rescinded until 1994. ](/news/2016/05/11/german-justice-minister-heiko-maas-says-he-will-propose-legislation-to-annul-homosexuality-convictions-and-create-a-aright-to-compensatio.md)
 German men convicted on the basis of a 19th century law criminalizing homosexuality now have a chance at getting late justice in the wake of an expert study commissioned by the Anti-Discrimination Agency.
 

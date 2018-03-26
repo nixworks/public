@@ -25,7 +25,7 @@ _Context: George W. Bush, commander-in-chief, federal law, national security, to
 
 ##### Al-Qaeda
 ### [ Al-Qaeda members in Saudi Arabia threaten new attacks on Western passenger airliners. ](/news/2004/06/8/al-qaeda-members-in-saudi-arabia-threaten-new-attacks-on-western-passenger-airliners.md)
-_Context: Saudi, Westerners, al-Qaeda_
+_Context: Saudi Arabia, Westerners, al-Qaeda_
 
 ##### Venezuela
 ### [ Venezuela's National Electoral Council announces that Hugo Chavez's presidency will be subject to a recall referendum on 15 August, with general elections to follow within 30 days if the vote goes against the president. ](/news/2004/06/8/venezuela-s-national-electoral-council-announces-that-hugo-cha-vez-s-presidency-will-be-subject-to-a-recall-referendum-on-15-august-with-g.md)

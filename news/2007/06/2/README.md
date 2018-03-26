@@ -13,7 +13,7 @@ _Context: Abdelaziz Belkhadem, Abdelaziz Bouteflika, President, Prime Minister o
 
 ##### Antiglobalisation
 ### [ Thousands of protesters and antiglobalisation demonstrators gather in Rostock, Germany to protest the 33rd G8 summit to be held in Heiligendamm later in the week. ](/news/2007/06/2/thousands-of-protesters-and-antiglobalisation-demonstrators-gather-in-rostock-germany-to-protest-the-33rd-g8-summit-to-be-held-in-heiligen.md)
-_Context: 33rd annual G8 summit, German, Heiligendamm, Rostock, antiglobalisation_
+_Context: 33rd annual G8 summit, Germany, Heiligendamm, Rostock, antiglobalisation_
 
 ##### Scotland Yard detectives
 ### [ Scotland Yard detectives who went to Jamaica to probe Bob Woolmer's death come to the verdict of the murder investigation, saying that Bob Woolmer died of heart failure and was not murdered. ](/news/2007/06/2/scotland-yard-detectives-who-went-to-jamaica-to-probe-bob-woolmer-s-death-come-to-the-verdict-of-the-murder-investigation-saying-that-bob.md)
@@ -29,7 +29,7 @@ _Context: Israel, Nablus, Palestinian, West Bank_
 
 ##### U.S. Navy
 ### [ The U.S. Navy dock landing ship USS "Carter Hill" confronts pirates off the coast of Somalia after they had hijacked a Danish merchant vessel, the MV "Danica White". ](/news/2007/06/2/the-u-s-navy-dock-landing-ship-uss-carter-hill-confronts-pirates-off-the-coast-of-somalia-after-they-had-hijacked-a-danish-merchant-vess.md)
-_Context: Denmark, Somali, U.S. Navy, USS ''Carter Hill'', dock landing ship, piracy_
+_Context: Denmark, Somalia, U.S. Navy, USS ''Carter Hill'', dock landing ship, piracy_
 
 ## [Previous Day...](/news/2007/06/1/index.md)
 

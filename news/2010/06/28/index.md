@@ -73,7 +73,7 @@ Incumbent president certain to win following boycott by oppositon candidates.
 
 ##### Turkey
 ### [Philip Gordon, the Obama administration's top diplomat on European affairs warns Turkey that it must demonstrate its commitment to NATO, Europe and the United States after its opposition to sanctions against Iran's nuclear program and rhetoric against Israel after the Gaza flotilla raid. ](/news/2010/06/28/philip-gordon-the-obama-administration-s-top-diplomat-on-european-affairs-warns-turkey-that-it-must-demonstrate-its-commitment-to-nato-eur.md)
-_Context: European Union, Gaza flotilla raid, Israel, NATO, Turkey, United States, ban on ballistic missile tests_
+_Context: EU, Gaza flotilla raid, Israel, NATO, Turkey, United States, ban on ballistic missile tests_
 
 ##### Kyrgyzstan
 ### [Kyrgyzstan approves a new constitution with 90.6 percent of voters backing a constitution that would pave the way for a parliamentary election in October, following the violence of the recent uprising and riots. ](/news/2010/06/28/kyrgyzstan-approves-a-new-constitution-with-90-6-percent-of-voters-backing-a-constitution-that-would-pave-the-way-for-a-parliamentary-electi.md)
@@ -117,9 +117,9 @@ Front-running candidate for governor in border state shot dead with four aides.
 ### [Tropical Storm Alex is expected to become a hurricane, with heavy winds, rain and rough seas in the Gulf of Mexico, driving the oil deeper inland and bringing much of the cleanup to a standstill. ](/news/2010/06/28/tropical-storm-alex-is-expected-to-become-a-hurricane-with-heavy-winds-rain-and-rough-seas-in-the-gulf-of-mexico-driving-the-oil-deeper-i.md)
 Tropical Storm Alex was close to hurricane strength in the Gulf of Mexico on Tuesday but remained on a track north of Mexican oil platforms and far southwest of U.S. fields, further easing crude market concerns over supply disruption.
 
-##### European Union
+##### EU
 ### [The European Union and United States sign a five-year agreement on sharing financial data in anti-terrorist investigations for accounts suspected of being used for terrorist financing, after agreeing on limits to protect customer privacy. ](/news/2010/06/28/the-european-union-and-united-states-sign-a-five-year-agreement-on-sharing-financial-data-in-anti-terrorist-investigations-for-accounts-susp.md)
-_Context: European Union, United States, anti-terrorist, customer privacy, terrorist financing_
+_Context: EU, United States, anti-terrorist, customer privacy, terrorist financing_
 
 ##### Muslim
 ### [Five Muslim American students sentenced to serve 10 years in a Pakistani prison for conspiracy to commit attacks and raising funds for terrorism, appeal their conviction. ](/news/2010/06/28/five-muslim-american-students-sentenced-to-serve-10-years-in-a-pakistani-prison-for-conspiracy-to-commit-attacks-and-raising-funds-for-terro.md)

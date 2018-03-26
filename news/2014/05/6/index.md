@@ -29,7 +29,7 @@ Office Depot Inc ODP.N said it would close at least 400 stores in the United Sta
 
 ##### Merck & Co
 ### [Merck & Co Inc announces plans to sell its consumer business to Bayer AG of Germany for $14 billion. ](/news/2014/05/6/merck-co-inc-announces-plans-to-sell-its-consumer-business-to-bayer-ag-of-germany-for-14-billion.md)
-_Context: Bayer AG, German, Merck & Co_
+_Context: Bayer AG, Germany, Merck & Co_
 
 ##### Monica Lewinsky
 ### [Monica Lewinsky releases a book recalling her affair with then United States President Bill Clinton. ](/news/2014/05/6/monica-lewinsky-releases-a-book-recalling-her-affair-with-then-united-states-president-bill-clinton.md)

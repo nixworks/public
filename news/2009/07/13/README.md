@@ -17,7 +17,7 @@ The police chief of a district south of Kabul that the Americans had sought to m
 
 ##### John Demjanjuk
 ### [ John Demjanjuk is charged with 27,900 counts of accessory to murder in World War II at a court in Germany. ](/news/2009/07/13/john-demjanjuk-is-charged-with-27-900-counts-of-accessory-to-murder-in-world-war-ii-at-a-court-in-germany.md)
-_Context: German, John Demjanjuk, World War II, accessory to murder_
+_Context: Germany, John Demjanjuk, World War II, accessory to murder_
 
 ##### Russia
 ### [ Russian President Dmitry Medvedev makes his first visit to South Ossetia. ](/news/2009/07/13/russian-president-dmitry-medvedev-makes-his-first-visit-to-south-ossetia.md)

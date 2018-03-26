@@ -9,7 +9,7 @@ _Context: Pope Benedict XVI, Prague, spider_
 
 ##### Nigeria
 ### [ Nigerian President Umaru Yar'Adua returns to Abuja after a visit to Saudi Arabia. ](/news/2009/09/26/nigerian-president-umaru-yar-adua-returns-to-abuja-after-a-visit-to-saudi-arabia.md)
-_Context: Abuja, Nigeria, President, Saudi, Umaru Yar'Adua_
+_Context: Abuja, Nigeria, President, Saudi Arabia, Umaru Yar'Adua_
 
 ##### Spanish
 ### [ The Spanish government formally unveils plans to liberalise the country's abortion law. ](/news/2009/09/26/the-spanish-government-formally-unveils-plans-to-liberalise-the-country-s-abortion-law.md)

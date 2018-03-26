@@ -27,9 +27,9 @@ Pirates off Bangladesh are thought to have drowned at least 16 fishermen after t
 ### [Arapahoe County District Attorney George Brauchler decides, after speaking with survivors and relatives of the deceased, to pursue the death penalty against James Holmes, the perpetrator of the 2012 Aurora shooting; the case is given to a new judge. ](/news/2013/04/1/arapahoe-county-district-attorney-george-brauchler-decides-after-speaking-with-survivors-and-relatives-of-the-deceased-to-pursue-the-death.md)
 _Context: 2012 Aurora shooting, Arapahoe County, District Attorney, James Holmes, sentenced to death_
 
-##### Scottish
+##### Scotland
 ### [Scotland's eight regional police forces are merged to create the nationwide Police Service of Scotland. ](/news/2013/04/1/scotland-s-eight-regional-police-forces-are-merged-to-create-the-nationwide-police-service-of-scotland.md)
-_Context: Police Service of Scotland, Scottish_
+_Context: Police Service of Scotland, Scotland_
 
 ##### Japan
 ### [Japan accuses three Chinese surveillance ships of entering the territorial waters of Tokyo-controlled Senkaku Islands. ](/news/2013/04/1/japan-accuses-three-chinese-surveillance-ships-of-entering-the-territorial-waters-of-tokyo-controlled-senkaku-islands.md)

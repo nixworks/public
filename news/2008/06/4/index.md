@@ -25,7 +25,7 @@ _Context: Axum, Obelisk of Axum_
 
 ##### Coolant leak
 ### [ A coolant leak at Krsko Nuclear Power Plant in Slovenia triggers the European Union's ECURIE nuclear emergency alert system. Slovenian authorities state the situation is under control, with no radiation leak into the environment. ](/news/2008/06/4/a-coolant-leak-at-kra-ko-nuclear-power-plant-in-slovenia-triggers-the-european-union-s-ecurie-nuclear-emergency-alert-system-slovenian-aut.md)
-_Context: ECURIE, European Union, Krsko Nuclear Power Plant, Slovenia, coolant leak_
+_Context: ECURIE, EU, Krsko Nuclear Power Plant, Slovenia, coolant leak_
 
 ##### Tony Rezko
 ### [ Tony Rezko, a Chicago property developer and former fundraiser for Barack Obama, is convicted on 16 charges of corruption. ](/news/2008/06/4/tony-rezko-a-chicago-property-developer-and-former-fundraiser-for-barack-obama-is-convicted-on-16-charges-of-corruption.md)

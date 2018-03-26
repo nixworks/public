@@ -59,7 +59,7 @@ OZU, Japan (AP) — The latest on the earthquakes in Japan (all times local): 1:
 ### [The United States Army approves 22 soldiers requests to become the service's first female infantry and armor unit officers. Thirteen women will enter the armor branch, and nine others will enter infantry as second lieutenants. ](/news/2016/04/16/the-united-states-army-approves-22-soldiers-requests-to-become-the-service-s-first-female-infantry-and-armor-unit-officers-thirteen-women-w.md)
 The Army approved the requests of 22 women to commission to become officers in the infantry and armor branches.
 
-##### German
+##### Germany
 ### [German police report an apparent deliberate explosion at a Sikh temple in Essen while a wedding was being celebrated, has injured three people, one in serious condition. Police say there is no indication this was a terrorist incident. ](/news/2016/04/16/german-police-report-an-apparent-deliberate-explosion-at-a-sikh-temple-in-essen-while-a-wedding-was-being-celebrated-has-injured-three-peop.md)
 BERLIN (AP) — German police say three people have been injured in an apparently deliberate explosion at a Sikh temple in the western city of Essen. A spokesman for Essen police told The Associated Press that a masked person…
 

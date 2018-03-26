@@ -5,7 +5,7 @@ Formats: [HTML](2009/10/9/index.html)  [JSON](2009/10/9/index.json)  [XML](2009/
 
 ##### Amputee
 ### [ Public amputations on three men accused of robbery occur in Somalia. ](/news/2009/10/9/public-amputations-on-three-men-accused-of-robbery-occur-in-somalia.md)
-_Context: Somali, amputee_
+_Context: Somalia, amputee_
 
 ##### Arizona
 ### [ Two people die after being overcome by sweat and about 19 others are hospitalised at a spiritual retreat in Arizona, USA. ](/news/2009/10/9/two-people-die-after-being-overcome-by-sweat-and-about-19-others-are-hospitalised-at-a-spiritual-retreat-in-arizona-usa.md)
@@ -23,7 +23,7 @@ _Context: India, Maoist, Naxalite_
 ### [ Wallace Souza, the former Brazilian state legislator and host of "Canal Livre" who faces accusations of drug trafficking and murder, surrenders to police after being a fugitive for four days. ](/news/2009/10/9/wallace-souza-the-former-brazilian-state-legislator-and-host-of-canal-livre-who-faces-accusations-of-drug-trafficking-and-murder-surren.md)
 _Context: Brazil, Canal Livre, Wallace Souza_
 
-##### France
+##### French
 ### [ French police arrest a researcher at the European Organization for Nuclear Research (CERN) for suspected links to Al-Qaeda. ](/news/2009/10/9/french-police-arrest-a-researcher-at-the-european-organization-for-nuclear-research-cern-for-suspected-links-to-al-qaeda.md)
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 

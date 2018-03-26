@@ -25,7 +25,7 @@ _Context: BTK Killer, Dennis Rader_
 
 ##### Al Qaeda
 ### [ A man described as Al Qaeda's leader in Saudi Arabia, Saleh Mohammed al-Aoofi, is killed in a shootout with police.](/news/2005/08/18/a-man-described-as-al-qaeda-s-leader-in-saudi-arabia-saleh-mohammed-al-aoofi-is-killed-in-a-shootout-with-police.md)
-_Context: Al Qaeda, Saleh Mohammed al-Aoofi, Saudi_
+_Context: Al Qaeda, Saleh Mohammed al-Aoofi, Saudi Arabia_
 
 ##### Ohio
 ### [ Ohio Governor Bob Taft pleads no contest to four counts of filing incomplete financial disclosure statements in Columbus, Ohio and a Franklin County municipal court judge finds him guilty, fines him $4,000, and orders him to apologize publicly. Taft says he will not resign his office. ](/news/2005/08/18/ohio-governor-bob-taft-pleads-no-contest-to-four-counts-of-filing-incomplete-financial-disclosure-statements-in-columbus-ohio-and-a-frankl.md)

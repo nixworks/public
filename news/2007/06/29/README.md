@@ -7,9 +7,9 @@ Formats: [HTML](2007/06/29/index.html)  [JSON](2007/06/29/index.json)  [XML](200
 ### [ After 16 years of existence, the (U.S.) National Football League announces that it will shut down its European operation known as NFL Europa, with immediate effect. ](/news/2007/06/29/after-16-years-of-existence-the-u-s-national-football-league-announces-that-it-will-shut-down-its-european-operation-known-as-nfl-europ.md)
 NFL.com - The official source for NFL news, schedules, stats, scores and more.
 
-##### European Union
+##### EU
 ### [ The European Union revises its list of designated terrorist organizations, removing Anti-Imperialist Territorial Units, Unit for Revolutionary Proletarian Initiative, and Units for Proletarian Initiative while adding Revolutionary Struggle. ](/news/2007/06/29/the-european-union-revises-its-list-of-designated-terrorist-organizations-removing-anti-imperialist-territorial-units-unit-for-revolution.md)
-_Context: Anti-Imperialist Territorial Units, European Union, Revolutionary Struggle, Unit for Revolutionary Proletarian Initiative, Units for Proletarian Initiative_
+_Context: Anti-Imperialist Territorial Units, EU, Revolutionary Struggle, Unit for Revolutionary Proletarian Initiative, Units for Proletarian Initiative_
 
 ##### India
 ### [ At least 13 people die in clashes between militants and Indian security forces in Jammu and Kashmir. ](/news/2007/06/29/at-least-13-people-die-in-clashes-between-militants-and-indian-security-forces-in-jammu-and-kashmir.md)

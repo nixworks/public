@@ -51,9 +51,9 @@ _Context: 2007 Russian North Pole expedition, Arctic, North Pole, Russia, petrol
 ### [ At least 28 people die in Uttar Pradesh, India as an overcrowded boat carrying flood evacuees and aid workers capsizes on the Rohni River. Monsoon floods have killed more than 150 people in India during July while at least 82 people have died in Nepal over the past two weeks and 38 in Bangladesh. ](/news/2007/08/1/at-least-28-people-die-in-uttar-pradesh-india-as-an-overcrowded-boat-carrying-flood-evacuees-and-aid-workers-capsizes-on-the-rohni-river.md)
 _Context: Bangladesh, India, Monsoon, Nepal, Rohni River, Uttar Pradesh, flood_
 
-##### France
+##### French
 ### [ A French court orders the release of two suspects in the 1994 Rwandan genocide. ](/news/2007/08/1/a-french-court-orders-the-release-of-two-suspects-in-the-1994-rwandan-genocide.md)
-_Context: 1994, 1994 genocide, France_
+_Context: 1994, 1994 genocide, French_
 
 ##### Association of South East Asian Nations
 ### [ The Association of South East Asian Nations (ASEAN) sign an agreement to bolster economic and security relationships. It also called for negotiations on a Free Trade Agreement between ASEAN, Australia and New Zealand by the end of 2008. ](/news/2007/08/1/the-association-of-south-east-asian-nations-asean-sign-an-agreement-to-bolster-economic-and-security-relationships-it-also-called-for-ne.md)

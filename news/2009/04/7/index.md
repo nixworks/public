@@ -11,9 +11,9 @@ _Context: General Assembly, United States, Vermont, legalizes, same-sex marriage
 ### [ Australia's government announces a A$43-billion investment for the National Broadband Network. ](/news/2009/04/7/australia-s-government-announces-a-a-43-billion-investment-for-the-national-broadband-network.md)
 _Context: A$, Australia, Government of Australia, National Broadband Network, investment_
 
-##### France
+##### French
 ### [ French police raid the Basque Homeland and Freedom's "bomb factory" in Grenoble, Isere. ](/news/2009/04/7/french-police-raid-the-basque-homeland-and-freedom-s-bomb-factory-in-grenoble-isa-re.md)
-_Context: ETA, France, French police, Grenoble, Isere, bomb, raid_
+_Context: ETA, French, French police, Grenoble, Isere, bomb, raid_
 
 ##### Fokker F27
 ### [ Twenty-four people are killed as a Fokker F27 airliner crashes in Bandung, West Java, Indonesia. ](/news/2009/04/7/twenty-four-people-are-killed-as-a-fokker-f27-airliner-crashes-in-bandung-west-java-indonesia.md)
@@ -21,7 +21,7 @@ _Context: Bandung, Fokker F27, Indonesia, West Java, airliner, crashes_
 
 ##### Shooting
 ### [ Two people are killed and two injured during a shooting in Landshut, Bavaria, Germany. ](/news/2009/04/7/two-people-are-killed-and-two-injured-during-a-shooting-in-landshut-bavaria-germany.md)
-_Context: Bavaria, German, Landshut, shooting_
+_Context: Bavaria, Germany, Landshut, shooting_
 
 ##### Demonstration
 ### [ Demonstrators in Chisinau protest the Communist Party's absolute majority in Moldova's parliamentary election. ](/news/2009/04/7/demonstrators-in-chiainau-protest-the-communist-party-s-absolute-majority-in-moldova-s-parliamentary-election.md)

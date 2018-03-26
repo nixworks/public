@@ -17,7 +17,7 @@ _Context: government, management, public-sector strikes, transport, worker_
 
 ##### Nur Hassan Hussein
 ### [ Nur Hassan Hussein, head of the Somali Red Crescent and former policeman, is named the new Prime Minister of Somalia. ](/news/2007/11/22/nur-hassan-hussein-head-of-the-somali-red-crescent-and-former-policeman-is-named-the-new-prime-minister-of-somalia.md)
-_Context: International Federation of Red Cross and Red Crescent Societies, Nur Hassan Hussein, Prime Minister of Somalia, Somali, policeman_
+_Context: International Federation of Red Cross and Red Crescent Societies, Nur Hassan Hussein, Prime Minister of Somalia, Somalia, policeman_
 
 ##### Farid Babayev
 ### [ Farid Babayev, a Russian politician with the Yabloko party, is shot and seriously wounded in Makhachkala, Dagestan. ](/news/2007/11/22/farid-babayev-a-russian-politician-with-the-yabloko-party-is-shot-and-seriously-wounded-in-makhachkala-dagestan.md)
@@ -33,7 +33,7 @@ _Context: Hawr Rajab, Hawr Rajab Awakening Council, Iraq, al-Qaeda, militant, so
 
 ##### EMCDDA
 ### [ A report by the EMCDDA says the number of cocaine users in the European Union has increased by one million in one year. ](/news/2007/11/22/a-report-by-the-emcdda-says-the-number-of-cocaine-users-in-the-european-union-has-increased-by-one-million-in-one-year.md)
-_Context: EMCDDA, European Union, cocaine_
+_Context: EMCDDA, EU, cocaine_
 
 ##### IAEA
 ### [ The head of IAEA, Mohamed ElBaradei, says the agency cannot be sure "about the absence of undeclared nuclear material and activities" in Iran. ](/news/2007/11/22/the-head-of-iaea-mohamed-elbaradei-says-the-agency-cannot-be-sure-about-the-absence-of-undeclared-nuclear-material-and-activities-in-ir.md)

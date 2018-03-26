@@ -3,9 +3,9 @@ Formats: [HTML](2006/07/8/index.html)  [JSON](2006/07/8/index.json)  [XML](2006/
 
 ## [2006-07-8](/news/2006/07/8/index.md)
 
-##### Saudi
+##### Saudi Arabia
 ### [ Seven terror suspects escape from a Saudi Arabian prison. ](/news/2006/07/8/seven-terror-suspects-escape-from-a-saudi-arabian-prison.md)
-_Context: Saudi_
+_Context: Saudi Arabia_
 
 ##### Shoichi Nakagawa
 ### [ Shoichi Nakagawa, Japanese agriculture minister, announces Japan will no longer provide food aid to North Korea, and that Japan is considering restricting agricultural trade between the two countries. Earlier Japan banned a North Korean ferry from entering Japanese ports. ](/news/2006/07/8/shoichi-nakagawa-japanese-agriculture-minister-announces-japan-will-no-longer-provide-food-aid-to-north-korea-and-that-japan-is-consider.md)

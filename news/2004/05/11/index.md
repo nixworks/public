@@ -17,7 +17,7 @@ _Context: Gaza Strip, Hamas, Hamas, Israel, Israeli-Palestinian conflict, armore
 
 ##### Glasgow
 ### [ Nine factory workers in Glasgow, Scotland, are killed in a midday explosion at the Stockline Plastics factory. ](/news/2004/05/11/nine-factory-workers-in-glasgow-scotland-are-killed-in-a-midday-explosion-at-the-stockline-plastics-factory.md)
-_Context: Glasgow, Scottish, explosion at the Stockline Plastics factory_
+_Context: Glasgow, Scotland, explosion at the Stockline Plastics factory_
 
 ## [Previous Day...](/news/2004/05/10/index.md)
 

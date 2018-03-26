@@ -37,7 +37,7 @@ The United States, Russia, Britain, France and China voiced support on Wednesday
 
 ##### Somali pirates
 ### [Somali pirates seize the Russian oil tanker Moscow University with 23 people on board, 500 miles off the Somali coast. ](/news/2010/05/5/somali-pirates-seize-the-russian-oil-tanker-moscow-university-with-23-people-on-board-500-miles-off-the-somali-coast.md)
-_Context: Somali, Somali pirates_
+_Context: Somali pirates, Somalia_
 
 ##### Tengchong County
 ### [Landsides killed 15 Chinese workers in the Tengchong County, Yunnan Province. ](/news/2010/05/5/landsides-killed-15-chinese-workers-in-the-tengchong-county-yunnan-province.md)

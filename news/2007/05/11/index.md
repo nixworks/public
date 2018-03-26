@@ -33,7 +33,7 @@ _Context: 18th century, Brazil, Franciscan, Frei Galvo, Pope Benedict XVI, canon
 
 ##### United States
 ### [ The United States and European Union nations circulate a United Nations resolution on independence for Kosovo with international supervision. ](/news/2007/05/11/the-united-states-and-european-union-nations-circulate-a-united-nations-resolution-on-independence-for-kosovo-with-international-supervisio.md)
-_Context: European Union, Kosovo, United Nations, United States_
+_Context: EU, Kosovo, United Nations, United States_
 
 ##### Samoa
 ### [ Samoa's Head of State Malietoa Tanumafili II dies at the age of 94. ](/news/2007/05/11/samoa-s-head-of-state-malietoa-tanumafili-ii-dies-at-the-age-of-94.md)

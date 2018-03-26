@@ -13,11 +13,11 @@ _Context: Baghdad, Iraq_
 
 ##### Roadside bombing
 ### [ At least 21 street cleaners are killed by a roadside bombing in Mogadishu, Somalia. ](/news/2008/08/3/at-least-21-street-cleaners-are-killed-by-a-roadside-bombing-in-mogadishu-somalia.md)
-_Context: Mogadishu, Somali, roadside bombing_
+_Context: Mogadishu, Somalia, roadside bombing_
 
 ##### Civil Aviation Safety Authority
 ### [ Australia's Civil Aviation Safety Authority launches an investigation into safety at Qantas after three emergencies in two weeks, beginning with the explosion aboard Qantas Flight 30. ](/news/2008/08/3/australia-s-civil-aviation-safety-authority-launches-an-investigation-into-safety-at-qantas-after-three-emergencies-in-two-weeks-beginning.md)
-_Context: Civil Aviation Safety Authority, Qantas, Qantas Flight 30, safety_
+_Context: Civil Aviation Safety Authority, Qantas Airways, Qantas Flight 30, safety_
 
 ##### SpaceX
 ### [ The third launch of privately developed SpaceX launcher Falcon 1 fails to reach orbit. ](/news/2008/08/3/the-third-launch-of-privately-developed-spacex-launcher-falcon-1-fails-to-reach-orbit.md)

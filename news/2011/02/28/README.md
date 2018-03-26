@@ -97,7 +97,7 @@ _Context: Burma, Yangon_
 
 ##### Ethiopia
 ### [Ethiopia and Kenya may attack the al-Shabaab Islamist militant group in Somalia, following its threat to target Kenya. ](/news/2011/02/28/ethiopia-and-kenya-may-attack-the-al-shabaab-islamist-militant-group-in-somalia-following-its-threat-to-target-kenya.md)
-_Context: Al-Shabab, Ethiopia, Islamist, Kenya, Somali_
+_Context: Al-Shabab, Ethiopia, Islamist, Kenya, Somalia_
 
 ##### Libyan Civil War
 ### [Libya:Al Jazeera reports that many African migrant workers in Libya have been victims of violence due to suspicions that they are mercenaries for Muammar Gaddafi's regime. ](/news/2011/02/28/libya-al-jazeera-reports-that-many-african-migrant-workers-in-libya-have-been-victims-of-violence-due-to-suspicions-that-they-are-mercenarie.md)

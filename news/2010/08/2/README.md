@@ -35,9 +35,9 @@ _Context: Anwar Ibrahim, Malaysia, sodomy, trial_
 ### [The Government of Pakistan summons the British High Commissioner to Islamabad for a "dressing down" by Foreign Minister Shah Mehmood Qureshi over remarks made by the British Prime Minister David Cameron on Pakistan "looking both ways" on terrorism. ](/news/2010/08/2/the-government-of-pakistan-summons-the-british-high-commissioner-to-islamabad-for-a-dressing-down-by-foreign-minister-shah-mehmood-qureshi.md)
 _Context: David Cameron, Islamabad, Minister of Foreign Affairs, Pakistan, Prime Minister, Shah Mehmood Qureshi, United Kingdom, government, terrorism_
 
-##### European Union
+##### EU
 ### [The European Union announces it will end its mission to reform security forces in Guinea-Bissau due to the deteriorating situation in the country. ](/news/2010/08/2/the-european-union-announces-it-will-end-its-mission-to-reform-security-forces-in-guinea-bissau-due-to-the-deteriorating-situation-in-the-co.md)
-_Context: European Union, Guinea-Bissau_
+_Context: EU, Guinea-Bissau_
 
 ##### Lake Albert
 ### [At least 33 people drown after a boat capsizes on Lake Albert in Uganda. ](/news/2010/08/2/at-least-33-people-drown-after-a-boat-capsizes-on-lake-albert-in-uganda.md)

@@ -3,7 +3,7 @@ Formats: [HTML](2018/01/19/index.html)  [JSON](2018/01/19/index.json)  [XML](201
 
 ## [2018-01-19](/news/2018/01/19/index.md)
 
-##### Twitter
+##### Tweeting
 ### [Twitter announces it is notifying 677,775 people in the U.S. that they had some contact with the Kremlin-linked troll farm, Internet Research Agency, during the 2016 election period. The count of Russian-linked bot accounts is now 50,258, the company having identified an additional 13,512 bot accounts since its November Congressional briefing. ](/news/2018/01/19/twitter-announces-it-is-notifying-677-775-people-in-the-u-s-that-they-had-some-contact-with-the-kremlin-linked-troll-farm-internet-researc.md)
 Twitter offered several examples of Internet Research Agency content, including tweets with pro-Donald Trump images and slogans.
 

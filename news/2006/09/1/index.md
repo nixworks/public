@@ -9,7 +9,7 @@ _Context: Miss World 2006, Poland, Warsaw_
 
 ##### Poland
 ### [ Prime Minister of Poland, Jaroslaw Kaczynski, calls on the EU to develop a common foreign policy and build a "credible" military force. ](/news/2006/09/1/prime-minister-of-poland-jarosaaw-kaczyaski-calls-on-the-eu-to-develop-a-common-foreign-policy-and-build-a-credible-military-force.md)
-_Context: European Union, Jaroslaw Kaczynski, Poland_
+_Context: EU, Jaroslaw Kaczynski, Poland_
 
 ##### 2006 Zakouma elephant slaughter
 ### [ The 2006 Zakouma elephant slaughter is the latest of a series of massacres which has killed off over 97 percent of the original (the year 1970) Chadian elephant population of 300,000 animals. ](/news/2006/09/1/the-2006-zakouma-elephant-slaughter-is-the-latest-of-a-series-of-massacres-which-has-killed-off-over-97-percent-of-the-original-the-year-1.md)
@@ -21,7 +21,7 @@ _Context: Lebanese, Spanish, UN_
 
 ##### Israeli-Palestinian conflict
 ### [ The European Union proposes new talks on the Middle East roadmap for peace. ](/news/2006/09/1/the-european-union-proposes-new-talks-on-the-middle-east-roadmap-for-peace.md)
-_Context: European Union, Israeli-Palestinian conflict, Middle East, roadmap for peace_
+_Context: EU, Israeli-Palestinian conflict, Middle East, roadmap for peace_
 
 ##### Tu-154
 ### [ An Iranian passenger jet Tu-154, (Iran Air Flight 945) carrying 148 passengers crashes in Mashad, Iran killing 29 people. ](/news/2006/09/1/an-iranian-passenger-jet-tu-154-iran-air-flight-945-carrying-148-passengers-crashes-in-mashad-iran-killing-29-people.md)

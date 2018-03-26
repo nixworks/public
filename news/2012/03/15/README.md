@@ -71,7 +71,7 @@ The death toll in this week&#x27;s ferry disaster rose to 116 on Thursday when v
 ### [2012 insurgency in northern Mali: 195,000 people flee their homes amid violence in northern Mali between government troops and Tuareg rebels. ](/news/2012/03/15/2012-insurgency-in-northern-mali-195-000-people-flee-their-homes-amid-violence-in-northern-mali-between-government-troops-and-tuareg-rebels.md)
 _Context: Mali, Tuareg, Tuareg Rebellion_
 
-##### France
+##### French
 ### [Two French soldiers are killed and one injured in a drive-by shooting in southern France. ](/news/2012/03/15/two-french-soldiers-are-killed-and-one-injured-in-a-drive-by-shooting-in-southern-france.md)
 A gunman on a motorbike opened fire on three French paratroopers at a bank machine Thursday in southern France, killing two and critically wounding one, officials said. It was the second such attack in a week targeting French soldiers.
 

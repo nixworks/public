@@ -7,9 +7,9 @@ Formats: [HTML](2009/05/6/index.html)  [JSON](2009/05/6/index.json)  [XML](2009/
 ### [ The U.S. state of Maine legalizes same-sex marriage. ](/news/2009/05/6/the-u-s-state-of-maine-legalizes-same-sex-marriage.md)
 _Context: Maine, U.S. state, legalizes, same-sex marriage_
 
-##### Somali
+##### Somalia
 ### [ Somali pirates hijack Germany's MV "Victoria" and release the United Arab Emirates' MV "Al Meezan". ](/news/2009/05/6/somali-pirates-hijack-germany-s-mv-victoria-and-release-the-united-arab-emirates-mv-al-meezan.md)
-_Context: German, MV, Somali, Somali pirates, United Arab Emirates, pirate_
+_Context: Germany, MV, Somali pirates, Somalia, United Arab Emirates, pirate_
 
 ##### Guinea
 ### [ Guinea withdraws ambassadors from 30 countries worldwide. ](/news/2009/05/6/guinea-withdraws-ambassadors-from-30-countries-worldwide.md)
@@ -33,7 +33,7 @@ _Context: American Express, JPMorgan Chase, Troubled Asset Relief Program, Unite
 
 ##### European Parliament
 ### [ The European Parliament delays its planned reform of the European Union's telecommunications policy. ](/news/2009/05/6/the-european-parliament-delays-its-planned-reform-of-the-european-union-s-telecommunications-policy.md)
-_Context: European Parliament, European Union, reform, telecom_
+_Context: EU, European Parliament, reform, telecom_
 
 ## [Previous Day...](/news/2009/05/5/index.md)
 

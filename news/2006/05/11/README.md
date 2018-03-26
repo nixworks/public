@@ -21,7 +21,7 @@ DNA tests confirmed that a bear bagged by a hunter in Canada&#39;s Northwest Ter
 
 ##### Mogadishu
 ### [ Residents flee Mogadishu as warlords and Islamist militias battle for control of the Somali capital. The death toll in five days of fighting reaches 120. ](/news/2006/05/11/residents-flee-mogadishu-as-warlords-and-islamist-militias-battle-for-control-of-the-somali-capital-the-death-toll-in-five-days-of-fightin.md)
-_Context: Islamist, Mogadishu, Somali, capital, death toll, militia, warlord_
+_Context: Islamist, Mogadishu, Somalia, capital, death toll, militia, warlord_
 
 ## [Previous Day...](/news/2006/05/10/index.md)
 

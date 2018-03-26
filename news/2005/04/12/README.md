@@ -11,9 +11,9 @@ _Context: Anheuser-Busch, Missouri, Ventria Bioscience, beer, genetically modifi
 ### [ The Indonesian army promises to give up its businesses within two years. ](/news/2005/04/12/the-indonesian-army-promises-to-give-up-its-businesses-within-two-years.md)
 _Context: Indonesia_
 
-##### Saudi
+##### Saudi Arabia
 ### [ In Saudi Arabia, Grand Mufti Sheikh Abdul Aziz al-Sheikh rules that forcing women marry against their will is against Islam. ](/news/2005/04/12/in-saudi-arabia-grand-mufti-sheikh-abdul-aziz-al-sheikh-rules-that-forcing-women-marry-against-their-will-is-against-islam.md)
-_Context: Abdul Aziz al-Sheikh, Grand Mufti, Muslim, Saudi, forced marriage_
+_Context: Abdul Aziz al-Sheikh, Grand Mufti, Muslim, Saudi Arabia, forced marriage_
 
 ##### Israel
 ### [ In Israel, Mordechai Vanunu is charged with 21 counts of violating the terms of his parole. ](/news/2005/04/12/in-israel-mordechai-vanunu-is-charged-with-21-counts-of-violating-the-terms-of-his-parole.md)
@@ -57,7 +57,7 @@ _Context: Fire Service, Gaza Strip, Israel, Israeli settlement, Jew, Tel Aviv, s
 
 ##### Held hostage
 ### [ Four girls who were held hostage for four hours are freed from a house in Ennepetal, in the state of North Rhine-Westphalia, Germany. ](/news/2005/04/12/four-girls-who-were-held-hostage-for-four-hours-are-freed-from-a-house-in-ennepetal-in-the-state-of-north-rhine-westphalia-germany.md)
-_Context: Ennepetal, German, North Rhine-Westphalia, held hostage_
+_Context: Ennepetal, Germany, North Rhine-Westphalia, held hostage_
 
 ##### Andrus Ansip
 ### [ Andrus Ansip is confirmed by the "Riigikogu", the Estonian Parliament, as the country's next Prime Minister, following the 24 March resignation of former Prime Minister Juhan Parts. ](/news/2005/04/12/andrus-ansip-is-confirmed-by-the-riigikogu-the-estonian-parliament-as-the-country-s-next-prime-minister-following-the-24-march-resigna.md)

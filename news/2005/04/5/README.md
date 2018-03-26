@@ -17,7 +17,7 @@ _Context: India, Mumbai, Russian Circus on Ice, circus_
 
 ##### Rwanda
 ### [ Rwandan official Aloys Mutabingwa, a representative at the International Criminal Tribunal for Rwanda, says that 100 Rwandans connected to the Rwandan genocide are "comfortably living in France". ](/news/2005/04/5/rwandan-official-aloys-mutabingwa-a-representative-at-the-international-criminal-tribunal-for-rwanda-says-that-100-rwandans-connected-to.md)
-_Context: 1994 genocide, Aloys Mutabingwa, France, International Criminal Tribunal for Rwanda, Rwanda_
+_Context: 1994 genocide, Aloys Mutabingwa, French, International Criminal Tribunal for Rwanda, Rwanda_
 
 ##### United States
 ### [ American newscaster Peter Jennings states that he has lung cancer and will begin chemotherapy. ](/news/2005/04/5/american-newscaster-peter-jennings-states-that-he-has-lung-cancer-and-will-begin-chemotherapy.md)

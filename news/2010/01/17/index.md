@@ -33,7 +33,7 @@ Saddam aide gets fourth death sentence for gassing of Kurds in Halabja in 1988.
 
 ##### Iran
 ### [Iran suspends pilgrimages to holy sites in Saudi Arabia after it called on the Saudi religious police to stop their "appalling behaviour" towards Iranian Shiite pilgrims. ](/news/2010/01/17/iran-suspends-pilgrimages-to-holy-sites-in-saudi-arabia-after-it-called-on-the-saudi-religious-police-to-stop-their-appalling-behaviour-to.md)
-_Context: Iran, Saudi, Shiite_
+_Context: Iran, Saudi Arabia, Shiite_
 
 ##### India
 ### [Indian communist patriarch Jyoti Basu, the longest-serving Chief Minister of West Bengal who declined the post of Prime Minister in 1996, dies at the age of 95. ](/news/2010/01/17/indian-communist-patriarch-jyoti-basu-the-longest-serving-chief-minister-of-west-bengal-who-declined-the-post-of-prime-minister-in-1996-di.md)

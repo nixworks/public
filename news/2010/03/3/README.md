@@ -37,9 +37,9 @@ _Context: ETA, Spanish, Venezuela_
 
 ##### President
 ### [President of Nigeria Umaru Yar'Adua does not attend a cabinet meeting in Abuja after his arrival home from medical treatment in Saudi Arabia. Acting President Goodluck Jonathan chairs instead. ](/news/2010/03/3/president-of-nigeria-umaru-yar-adua-does-not-attend-a-cabinet-meeting-in-abuja-after-his-arrival-home-from-medical-treatment-in-saudi-arabia.md)
-_Context: Abuja, Goodluck Jonathan, President, Saudi, Umaru Yar'Adua_
+_Context: Abuja, Goodluck Jonathan, President, Saudi Arabia, Umaru Yar'Adua_
 
-##### German
+##### Germany
 ### [One German and one Italian man are killed and at least 6 are injured near Marseille in a collision between a 26-foot wave and the Greek-Cypriot cruise ship "Louise Majesty" which was travelling with 2,000 passengers from Barcelona to Genoa. ](/news/2010/03/3/one-german-and-one-italian-man-are-killed-and-at-least-6-are-injured-near-marseille-in-a-collision-between-a-26-foot-wave-and-the-greek-cypr.md)
 Two cruise passengers died when their liner was hit by a freak wave off the Mediterranean coast of France.
 

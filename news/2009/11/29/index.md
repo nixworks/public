@@ -39,9 +39,9 @@ _Context: Amazon Rainforest, Dorothy Stang_
 ### [ Statements from bishops relating to the Murphy Report into sexual abuse scandal in Dublin archdiocese are read at Masses across Ireland. ](/news/2009/11/29/statements-from-bishops-relating-to-the-murphy-report-into-sexual-abuse-scandal-in-dublin-archdiocese-are-read-at-masses-across-ireland.md)
 Archbishop Diarmuid Martin has said at this moment, he believes that decisions on whether to resign by Cardinal Desmond Connell and others mentioned in the Murphy Report should be personal.
 
-##### Saudi
+##### Saudi Arabia
 ### [ Saudi Arabia says its forces have seized control of a key mountain area amid the country's ongoing fight with Houthi rebels in Yemen. ](/news/2009/11/29/saudi-arabia-says-its-forces-have-seized-control-of-a-key-mountain-area-amid-the-country-s-ongoing-fight-with-houthi-rebels-in-yemen.md)
-_Context: Houthi, Saudi, Yemen, ongoing fight_
+_Context: Houthi, Saudi Arabia, Yemen, ongoing fight_
 
 ##### Central bank
 ### [ The central bank of the United Arab Emirates announces it will provide extra liquidity to Dubai banks. ](/news/2009/11/29/the-central-bank-of-the-united-arab-emirates-announces-it-will-provide-extra-liquidity-to-dubai-banks.md)
@@ -81,7 +81,7 @@ _Context: Commonwealth of Nations, Fiji, Government of Fiji, democratic, urges_
 
 ##### Somali pirates
 ### [ Somali pirates capture the Greek owned oil tanker "Maran Centaurus" 1,300 kilometres off the coast of Somalia. ](/news/2009/11/29/somali-pirates-capture-the-greek-owned-oil-tanker-maran-centaurus-1-300-kilometres-off-the-coast-of-somalia.md)
-_Context: Greece, Somali, Somali pirates, oil tanker_
+_Context: Greece, Somali pirates, Somalia, oil tanker_
 
 ##### Nepal
 ### [ Nepal announces it will hold a cabinet meeting on Mount Everest to highlight the effect of global warming on glaciers. ](/news/2009/11/29/nepal-announces-it-will-hold-a-cabinet-meeting-on-mount-everest-to-highlight-the-effect-of-global-warming-on-glaciers.md)

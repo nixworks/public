@@ -25,7 +25,7 @@ _Context: Asia, Chinese, Congress, Pentagon_
 
 ##### U.S. Navy
 ### [ A U.S. Navy submarine conducts at least one missile strike using Tomahawk cruise missiles in Somalia. The attack was aimed at Saleh Ali Saleh Nabhan, an al-Qaeda terrorist. ](/news/2008/03/3/a-u-s-navy-submarine-conducts-at-least-one-missile-strike-using-tomahawk-cruise-missiles-in-somalia-the-attack-was-aimed-at-saleh-ali-sal.md)
-_Context: Saleh Ali Saleh Nabhan, Somali, Tomahawk cruise missiles, U.S. Navy, al-Qaeda, missile strike_
+_Context: Saleh Ali Saleh Nabhan, Somalia, Tomahawk cruise missiles, U.S. Navy, al-Qaeda, missile strike_
 
 ##### U.N. Security Council
 ### [ The U.N. Security Council approves a third round of sanctions against Iran with near unanimous support. ](/news/2008/03/3/the-u-n-security-council-approves-a-third-round-of-sanctions-against-iran-with-near-unanimous-support.md)

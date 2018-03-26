@@ -33,7 +33,7 @@ The Bahamas issues a rare travel advisory for its citizens visiting the US, reco
 
 ##### 2016 Warsaw summit
 ### [NATO members in Warsaw, Poland, agree to extend their mission in Afghanistan into 2017 and announced that they will continue to fund the Afghan Armed Forces to 2020. ](/news/2016/07/9/nato-members-in-warsaw-poland-agree-to-extend-their-mission-in-afghanistan-into-2017-and-announced-that-they-will-continue-to-fund-the-afg.md)
-_Context: 2016 Warsaw summit, Afghan, NATO, Poland, Resolute Support, Warsaw, military personnel_
+_Context: 2016 Warsaw summit, Afghanistan, NATO, Poland, Resolute Support, Warsaw, military personnel_
 
 ##### North Korea's nuclear program
 ### [South Korea claims that North Korea has fired a ballistic missile from a submarine. ](/news/2016/07/9/south-korea-claims-that-north-korea-has-fired-a-ballistic-missile-from-a-submarine.md)

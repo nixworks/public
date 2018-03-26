@@ -9,7 +9,7 @@ _Context: Australian Labor Party, Kevin Rudd, industrial relations, secret ballo
 
 ##### Nepal
 ### [ Four Nepalese United Nations workers and their driver are killed in a roadside bombing in Kandahar, Afghanistan. ](/news/2007/04/17/four-nepalese-united-nations-workers-and-their-driver-are-killed-in-a-roadside-bombing-in-kandahar-afghanistan.md)
-_Context: Afghan, Kandahar, Nepal, United Nations_
+_Context: Afghanistan, Kandahar, Nepal, United Nations_
 
 ##### Olympic Council of Asia
 ### [ The Olympic Council of Asia chooses Incheon, South Korea over New Delhi, India, to host the 2014 Asian Games. ](/news/2007/04/17/the-olympic-council-of-asia-chooses-incheon-south-korea-over-new-delhi-india-to-host-the-2014-asian-games.md)
@@ -31,9 +31,9 @@ _Context: Seung-hui Cho, spree shooter_
 ### [ Nineteen people die in Rio de Janeiro in gun battles between police and drug gangs. ](/news/2007/04/17/nineteen-people-die-in-rio-de-janeiro-in-gun-battles-between-police-and-drug-gangs.md)
 _Context: Rio de Janeiro, police_
 
-##### Somali
+##### Somalia
 ### [ Somalia's Transitional Federal Parliament suspends a former Speaker Sharif Hassan Sheik Aden and 29 other Members of Parliament for failing to attend sessions in recent months. ](/news/2007/04/17/somalia-s-transitional-federal-parliament-suspends-a-former-speaker-sharif-hassan-sheik-aden-and-29-other-members-of-parliament-for-failing.md)
-_Context: MPs, Members of Parliament, Sharif Hassan Sheik Aden, Somali, Speaker_
+_Context: MPs, Members of Parliament, Sharif Hassan Sheik Aden, Somalia, Speaker_
 
 ## [Previous Day...](/news/2007/04/16/index.md)
 

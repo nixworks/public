@@ -27,9 +27,9 @@ A US woman is found guilty of premeditated murder in the shooting and stabbing d
 ### [An Italian appeals court upholds the conviction of former Prime Minister Silvio Berlusconi on tax fraud and sentences him to four years in prison. ](/news/2013/05/8/an-italian-appeals-court-upholds-the-conviction-of-former-prime-minister-silvio-berlusconi-on-tax-fraud-and-sentences-him-to-four-years-in-p.md)
 _Context: Italy, Prime Minister of Italy, Silvio Berlusconi, top court_
 
-##### France
+##### French
 ### [Police in France, Belgium and Switzerland arrest more than two dozen people in connection with the Brussels Airport diamond heist. ](/news/2013/05/8/police-in-france-belgium-and-switzerland-arrest-more-than-two-dozen-people-in-connection-with-the-brussels-airport-diamond-heist.md)
-_Context: Belgium, Brussels Airport diamond heist, France, Switzerland_
+_Context: Belgium, Brussels Airport diamond heist, French, Switzerland_
 
 ##### World Trade Organization
 ### [The World Trade Organization advised that Roberto Azevedo of Brazil will be the next Director-General effective September 1, 2013. The formal announcement will be made following a special meeting of the General Council on Tuesday, May 14, 2013. ](/news/2013/05/8/the-world-trade-organization-advised-that-roberto-azevaado-of-brazil-will-be-the-next-director-general-effective-september-1-2013-the-form.md)
@@ -55,9 +55,9 @@ Prof Stephen Hawking has pulled out of a high-profile Israeli conference, in sup
 ### [Amid protests for free education by tens of thousands of people in major cities across Chile, police clash with protesters. ](/news/2013/05/8/amid-protests-for-free-education-by-tens-of-thousands-of-people-in-major-cities-across-chile-police-clash-with-protesters.md)
 Tens of thousands of students in Chile resume their protests for free education as riot police say they have been attacked with petrol bombs.
 
-##### Somali
+##### Somalia
 ### [Nineteen people are killed in the Somali capital, Mogadishu, in suicide bombings and firefights between Al-Shabaab militants and government forces. ](/news/2013/05/8/nineteen-people-are-killed-in-the-somali-capital-mogadishu-in-suicide-bombings-and-firefights-between-al-shabaab-militants-and-government.md)
-_Context: Al-Shabab, Mogadishu, Somali, Somali military_
+_Context: Al-Shabab, Mogadishu, Somali military, Somalia_
 
 ##### Suicide bombing
 ### [A suicide car bombing hits a police station in the Bannu District of northwest Pakistan, killing at least two people and injuring twenty. ](/news/2013/05/8/a-suicide-car-bombing-hits-a-police-station-in-the-bannu-district-of-northwest-pakistan-killing-at-least-two-people-and-injuring-twenty.md)

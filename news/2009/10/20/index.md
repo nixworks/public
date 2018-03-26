@@ -59,9 +59,9 @@ Ten Houthis given death penalty and five others jailed over deadly clashes.
 ### [ In a set of canon laws, the Vatican welcomes groups of Anglicans as "personal ordinariates" into the Catholic Church, Pope Benedict XVI announces. ](/news/2009/10/20/in-a-set-of-canon-laws-the-vatican-welcomes-groups-of-anglicans-as-personal-ordinariates-into-the-catholic-church-pope-benedict-xvi-ann.md)
 _Context: Anglican, Catholic Church, Holy See, Pope Benedict XVI, canon laws_
 
-##### Afghan
+##### Afghanistan
 ### [ Afghanistan's election commission orders a run-off election for November 7 in the Afghan presidential election. ](/news/2009/10/20/afghanistan-s-election-commission-orders-a-run-off-election-for-november-7-in-the-afghan-presidential-election.md)
-_Context: Afghan, presidential election, run-off election_
+_Context: Afghanistan, presidential election, run-off election_
 
 ## [Previous Day...](/news/2009/10/19/index.md)
 

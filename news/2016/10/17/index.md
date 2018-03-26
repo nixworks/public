@@ -21,7 +21,7 @@ A Florida man was sentenced to 20 years in prison on Monday for shooting at Geor
 
 ##### Syrian Civil War
 ### [The European Union condemns Russia's air campaign in Syria, saying it may be guilty of war crimes, and it vowed to impose more sanctions on President Bashar al-Assad's government. The bloc's 28 foreign ministers sought to show their anger at the Russian-backed campaign, which has killed several hundred people including dozens of children since the collapse of a truce brokered by Russia and the United States. ](/news/2016/10/17/the-european-union-condemns-russia-s-air-campaign-in-syria-saying-it-may-be-guilty-of-war-crimes-and-it-vowed-to-impose-more-sanctions-on.md)
-_Context: European Union, Syrian Civil War_
+_Context: EU, Syrian Civil War_
 
 ##### Yemeni Civil War
 ### [The United Nations announces that the warring parties in Yemen have agreed to a 72-hour ceasefire starting October 19 at 23:59 AST (4:59 EDT). ](/news/2016/10/17/the-united-nations-announces-that-the-warring-parties-in-yemen-have-agreed-to-a-72-hour-ceasefire-starting-october-19-at-23-59-ast-4-59-edt.md)
@@ -33,7 +33,7 @@ _Context: Bhubaneswar, East India, Odisha_
 
 ##### Ludwigshafen
 ### [An explosion and fire in Ludwigshafen, at the largest production site of BASF in Germany, kills at least two people and injures six more with two people still missing. BASF is the world's biggest chemical producer. ](/news/2016/10/17/an-explosion-and-fire-in-ludwigshafen-at-the-largest-production-site-of-basf-in-germany-kills-at-least-two-people-and-injures-six-more-wit.md)
-_Context: BASF, German, Ludwigshafen, chemical producer_
+_Context: BASF, Germany, Ludwigshafen, chemical producer_
 
 ##### Rahim Yar Khan
 ### [Two buses collide near the city of Rahim Yar Khan, Pakistan, killing at least 30 people and injuring 69 others. ](/news/2016/10/17/two-buses-collide-near-the-city-of-rahim-yar-khan-pakistan-killing-at-least-30-people-and-injuring-69-others.md)

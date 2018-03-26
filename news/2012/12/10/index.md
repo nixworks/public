@@ -35,9 +35,9 @@ _Context: Baghdadi Mahmudi, Libyan Prime Minister, Libyans, Muammar Gaddafi, Tri
 ### [John Hickenlooper, the Governor of the US state of Colorado, issues a proclamation allowing the personal use of marijuana following the passage of an amendment to the state constitution last month. ](/news/2012/12/10/john-hickenlooper-the-governor-of-the-us-state-of-colorado-issues-a-proclamation-allowing-the-personal-use-of-marijuana-following-the-pass.md)
 _Context: Colorado, Governor, John Hickenlooper, US, marijuana, state constitution_
 
-##### European Union
+##### EU
 ### [Leaders of the European Union accept the 2012 Nobel Peace Prize in Oslo, Norway. ](/news/2012/12/10/leaders-of-the-european-union-accept-the-2012-nobel-peace-prize-in-oslo-norway.md)
-_Context: 2012, European Union, Nobel Peace Prize, Norwegian, Oslo_
+_Context: 2012, EU, Nobel Peace Prize, Norwegian, Oslo_
 
 ##### Japan
 ### [Japan goes on full alert as North Korea announces it has delayed its launch of a long range Unha rocket until 29 December. ](/news/2012/12/10/japan-goes-on-full-alert-as-north-korea-announces-it-has-delayed-its-launch-of-a-long-range-unha-rocket-until-29-december.md)
@@ -63,7 +63,7 @@ _Context: Philippines, Typhoon Bopha_
 ### [Google begins selling basic laptop computers for $99, meeting the $100 price point set out as a challenge by a prominent professor at the Massachusetts Institute of Technology (Nicholas Negroponte) eight years ago. ](/news/2012/12/10/google-begins-selling-basic-laptop-computers-for-99-meeting-the-100-price-point-set-out-as-a-challenge-by-a-prominent-professor-at-the-ma.md)
 Google Inc began selling basic laptop computers to schools at a price of $99, meeting a price point that prominent MIT professor Nicholas Negroponte famously held out in 2005 as key to bringing computing power to the masses.
 
-##### Afghan
+##### Afghanistan
 ### [Mohammad Musa Rasouli, the police chief of Afghanistan's Nimroz Province, is killed by a roadside bomb while returning home from Herat Province. ](/news/2012/12/10/mohammad-musa-rasouli-the-police-chief-of-afghanistan-s-nimroz-province-is-killed-by-a-roadside-bomb-while-returning-home-from-herat-provi.md)
 Afghan police say a roadside bombing has killed the police chief of a southern province.
 

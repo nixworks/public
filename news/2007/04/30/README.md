@@ -9,7 +9,7 @@ The Sydney Morning Herald 404 Page
 
 ##### United States
 ### [ The US-led Coalition claims to have killed scores of Taliban forces in Afghanistan. ](/news/2007/04/30/the-us-led-coalition-claims-to-have-killed-scores-of-taliban-forces-in-afghanistan.md)
-_Context: Afghan, Taliban, United States_
+_Context: Afghanistan, Taliban, United States_
 
 ##### Intergovernmental Panel on Climate Change
 ### [ A meeting of the Intergovernmental Panel on Climate Change starts in Bangkok to discuss approaches to climate change. ](/news/2007/04/30/a-meeting-of-the-intergovernmental-panel-on-climate-change-starts-in-bangkok-to-discuss-approaches-to-climate-change.md)
@@ -43,9 +43,9 @@ _Context: Hugo Chvez, International Monetary Fund, President, Venezuela, World B
 ### [ The United States Supreme Court decides the case of "Scott v. Harris," holding that a "police officer's attempt to terminate a dangerous high-speed car chase that threatens the lives of innocent bystanders does not violate the Fourth Amendment, even when it places the fleeing motorist at risk of serious injury or death." ](/news/2007/04/30/the-united-states-supreme-court-decides-the-case-of-scott-v-harris-holding-that-a-police-officer-s-attempt-to-terminate-a-dangerous-hi.md)
 _Context: Scott v. Harris, United States Supreme Court, unreasonable search or seizure_
 
-##### European Union
+##### EU
 ### [ The European Union and the United States inks a new Open Skies Agreement which will take effect on 30 March 2008 and replace the restrictive Bermuda II agreement. ](/news/2007/04/30/the-european-union-and-the-united-states-inks-a-new-open-skies-agreement-which-will-take-effect-on-30-march-2008-and-replace-the-restrictiv.md)
-_Context: Bermuda II, European Union, Open Skies Agreement, United States_
+_Context: Bermuda II, EU, Open Skies Agreement, United States_
 
 ## [Previous Day...](/news/2007/04/29/index.md)
 

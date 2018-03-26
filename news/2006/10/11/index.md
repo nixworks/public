@@ -17,7 +17,7 @@ _Context: Beijing, North Korea, Yonhap, economic sanctions_
 
 ##### Train crash
 ### [ Twelve people have died following a train crash at Zoufftgen in north-east France, near the Luxembourg border. ](/news/2006/10/11/twelve-people-have-died-following-a-train-crash-at-zoufftgen-in-north-east-france-near-the-luxembourg-border.md)
-_Context: France, Luxembourg, Zoufftgen, train crash_
+_Context: French, Luxembourg, Zoufftgen, train crash_
 
 ##### Iraq
 ### [ An estimated 655,000 Iraqis have died since 2003 who might still be alive but for the US-led invasion, according to a survey by Johns Hopkins Bloomberg School of Public Health. The study is in dispute though since The Iraqi Ministry of Health places the death toll at 50,000. ](/news/2006/10/11/an-estimated-655-000-iraqis-have-died-since-2003-who-might-still-be-alive-but-for-the-us-led-invasion-according-to-a-survey-by-johns-hopki.md)

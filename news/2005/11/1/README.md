@@ -5,7 +5,7 @@ Formats: [HTML](2005/11/1/index.html)  [JSON](2005/11/1/index.json)  [XML](2005/
 
 ##### United States
 ### [ U.S. prosecutors admitted that Omar al-Faruq was one of four detainees to escape from the Bagram base, Afghanistan, in July, all of whom are still on the run. ](/news/2005/11/1/u-s-prosecutors-admitted-that-omar-al-faruq-was-one-of-four-detainees-to-escape-from-the-bagram-base-afghanistan-in-july-all-of-whom-ar.md)
-_Context: Afghan, Bagram, July, Omar al-Faruq, United States_
+_Context: Afghanistan, Bagram, July, Omar al-Faruq, United States_
 
 ##### Makybe Diva
 ### [ Makybe Diva wins the Melbourne Cup thoroughbred horse race for the third consecutive year, becoming the first horse ever to do so. Shortly thereafter, owner Tony Santic announces her retirement from racing. ](/news/2005/11/1/makybe-diva-wins-the-melbourne-cup-thoroughbred-horse-race-for-the-third-consecutive-year-becoming-the-first-horse-ever-to-do-so-shortly.md)
@@ -13,7 +13,7 @@ _Context: Makybe Diva, Melbourne Cup, thoroughbred racing_
 
 ##### 2005 Paris riots
 ### [ 2005 Paris riots continue for the fifth consecutive night, sparked by the death of two Muslim youths from electric shock. The controversy caused by police firing tear gas into a mosque on Sunday night led to families of the dead youths pulling out of a meeting with the French Minister of the Interior Nicolas Sarkozy. ](/news/2005/11/1/2005-paris-riots-continue-for-the-fifth-consecutive-night-sparked-by-the-death-of-two-muslim-youths-from-electric-shock-the-controversy-c.md)
-_Context: 2005 Paris riots, France, Muslim, Nicolas Sarkozy, electric shock, minister of the interior, mosque, tear gas_
+_Context: 2005 Paris riots, French, Muslim, Nicolas Sarkozy, electric shock, minister of the interior, mosque, tear gas_
 
 ##### John Gomery
 ### [ Justice John Gomery releases the first part of the Gomery Commission report on corruption in the Liberal Party of Canada and the sponsorship scandal. Gomery exonerates current Prime Minister Paul Martin but criticizes former Prime Minister Jean Chrtien and his Quebec lieutenant Alfonso Gagliano. ](/news/2005/11/1/justice-john-gomery-releases-the-first-part-of-the-gomery-commission-report-on-corruption-in-the-liberal-party-of-canada-and-the-sponsorshi.md)

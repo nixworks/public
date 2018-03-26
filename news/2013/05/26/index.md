@@ -39,9 +39,9 @@ _Context: Bank of Japan_
 ### [The French film "Blue Is the Warmest Colour" wins the Palme d'Or at the 2013 Cannes Film Festival. ](/news/2013/05/26/the-french-film-blue-is-the-warmest-colour-wins-the-palme-d-or-at-the-2013-cannes-film-festival.md)
 _Context: 2013 Cannes Film Festival, Blue Is the Warmest Colour, Palme d'Or_
 
-##### Somali
+##### Somalia
 ### [Six people are killed in an attack by Somali militants in police posts over the Kenyan border. ](/news/2013/05/26/six-people-are-killed-in-an-attack-by-somali-militants-in-police-posts-over-the-kenyan-border.md)
-_Context: Kenya, Somali_
+_Context: Kenya, Somalia_
 
 ##### Lebanese
 ### [Two rockets strike the Lebanese capital of Beirut in the predominantly Shiite southern suburbs, which also serves as the stronghold of Hezbollah. ](/news/2013/05/26/two-rockets-strike-the-lebanese-capital-of-beirut-in-the-predominantly-shiite-southern-suburbs-which-also-serves-as-the-stronghold-of-hezbo.md)

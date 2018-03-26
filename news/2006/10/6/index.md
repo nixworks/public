@@ -15,9 +15,9 @@ _Context: Cabinet of Fredrik Reinfeldt, Fredrik Reinfeldt, Sweden, prime ministe
 ### [ The Roman Catholic Church's Theological Commission are reviewing the teaching of "limbus infantium" (limbo for infants who died before being baptised) and may recommend to Pope Benedict XVI that it be amended. ](/news/2006/10/6/the-roman-catholic-church-s-theological-commission-are-reviewing-the-teaching-of-limbus-infantium-limbo-for-infants-who-died-before-bein.md)
 _Context: Pope Benedict XVI, Roman Catholic Church, baptised, limbus infantium_
 
-##### European Union
+##### EU
 ### [ Negotiators from the European Union and the United States reach a deal on sharing trans-Atlantic passenger data used in anti-terrorism investigations. ](/news/2006/10/6/negotiators-from-the-european-union-and-the-united-states-reach-a-deal-on-sharing-trans-atlantic-passenger-data-used-in-anti-terrorism-inve.md)
-_Context: European Union, United States_
+_Context: EU, United States_
 
 ##### Apex
 ### [ Some 18,000 people are evacuated from the Apex area of the U.S. state of North Carolina and 13 are reported injured after a blast and fire at an Environmental Quality Industrial Services chemical plant. ](/news/2006/10/6/some-18-000-people-are-evacuated-from-the-apex-area-of-the-u-s-state-of-north-carolina-and-13-are-reported-injured-after-a-blast-and-fire.md)

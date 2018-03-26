@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/04/25/saudi-arabia-is-among-twelve-countries-newly-el
 
 ### [2017-04-25](/news/2017/04/25/index.md)
 
-##### Saudi
+##### Saudi Arabia
 # Saudi Arabia is among twelve countries newly elected to the United Nations Commission on the Status of Women, despite the nation's conflicts with women's rights. 
 
 Saudi Arabia is elected to the UN Commission on the Status of Women, despite the country being ranked by human rights experts as one of the worst for gender equality.
@@ -22,8 +22,8 @@ Saudi Arabia is elected to the UN Commission on the Status of Women, despite the
 
 ### Related:
 
-1. [Saudi Arabia opens applications for women to join its armed forces for the first time. ](/news/2018/02/26/saudi-arabia-opens-applications-for-women-to-join-its-armed-forces-for-the-first-time.md) _Context: Saudi, Women's rights in Saudi Arabia_
-2. [Starting in 2018, women will be allowed to attend sports events in stadiums in Saudi Arabia for the first time in the country's history, officials say. ](/news/2017/10/30/starting-in-2018-women-will-be-allowed-to-attend-sports-events-in-stadiums-in-saudi-arabia-for-the-first-time-in-the-country-s-history-off.md) _Context: Saudi, Women's rights in Saudi Arabia_
-3. [UN High Commissioner for Human Rights, Navi Pillay calls for Saudi Arabia and Gulf states to lift restrictions on women and to improve the position of millions of foreign workers in the region. ](/news/2010/04/19/un-high-commissioner-for-human-rights-navi-pillay-calls-for-saudi-arabia-and-gulf-states-to-lift-restrictions-on-women-and-to-improve-the-p.md) _Context: Saudi, Women's rights in Saudi Arabia_
-4. [Saudi Arabian Prince Mohammad bin Salman meets Pope Tawadros II at Saint Mark's Coptic Orthodox Cathedral. ](/news/2018/03/5/saudi-arabian-prince-mohammad-bin-salman-meets-pope-tawadros-ii-at-saint-mark-s-coptic-orthodox-cathedral.md) _Context: Saudi_
-5. [Saudi aircraft attack targets in residential areas of Hudaydah and Sa'dah, Yemen. At least seven civilians are killed. ](/news/2018/03/24/saudi-aircraft-attack-targets-in-residential-areas-of-hudaydah-and-sa-dah-yemen-at-least-seven-civilians-are-killed.md) _Context: Saudi_
+1. [Saudi Arabia opens applications for women to join its armed forces for the first time. ](/news/2018/02/26/saudi-arabia-opens-applications-for-women-to-join-its-armed-forces-for-the-first-time.md) _Context: Saudi Arabia, Women's rights in Saudi Arabia_
+2. [Starting in 2018, women will be allowed to attend sports events in stadiums in Saudi Arabia for the first time in the country's history, officials say. ](/news/2017/10/30/starting-in-2018-women-will-be-allowed-to-attend-sports-events-in-stadiums-in-saudi-arabia-for-the-first-time-in-the-country-s-history-off.md) _Context: Saudi Arabia, Women's rights in Saudi Arabia_
+3. [UN High Commissioner for Human Rights, Navi Pillay calls for Saudi Arabia and Gulf states to lift restrictions on women and to improve the position of millions of foreign workers in the region. ](/news/2010/04/19/un-high-commissioner-for-human-rights-navi-pillay-calls-for-saudi-arabia-and-gulf-states-to-lift-restrictions-on-women-and-to-improve-the-p.md) _Context: Saudi Arabia, Women's rights in Saudi Arabia_
+4. [Saudi Arabian Prince Mohammad bin Salman meets Pope Tawadros II at Saint Mark's Coptic Orthodox Cathedral. ](/news/2018/03/5/saudi-arabian-prince-mohammad-bin-salman-meets-pope-tawadros-ii-at-saint-mark-s-coptic-orthodox-cathedral.md) _Context: Saudi Arabia_
+5. [Houthi forces fire several Burkan-2 ballistic missiles at targets in Saudi Arabia with at least one person, an Egyptian national, being killed in Riyadh. The Royal Saudi Air Defense says it intercepted seven missiles, three of them targeting Riyadh, two targeting Jizan and one apiece targeting Najran and Khamis Mushait. ](/news/2018/03/25/houthi-forces-fire-several-burkan-2-ballistic-missiles-at-targets-in-saudi-arabia-with-at-least-one-person-an-egyptian-national-being-kill.md) _Context: Saudi Arabia_

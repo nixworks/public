@@ -79,7 +79,7 @@ _Context: Bosnian, Brooklyn, New York, New York City, United States District Cou
 ### [Thousands of people attend the public flagellation of 5 people in Aceh amid requests that the practice be banned. ](/news/2010/08/6/thousands-of-people-attend-the-public-flagellation-of-5-people-in-aceh-amid-requests-that-the-practice-be-banned.md)
 Five people are caned in public in the Indonesian province of Aceh, despite calls by human rights groups to ban flogging.
 
-##### Saudi
+##### Saudi Arabia
 ### [Saudi Arabia's ban of online functions on BlackBerry mobile phones is implemented. ](/news/2010/08/6/saudi-arabia-s-ban-of-online-functions-on-blackberry-mobile-phones-is-implemented.md)
 A ban on the use of Blackberry phones to send and receive messages is being rolled out in Saudi Arabia, users say.
 
@@ -155,7 +155,7 @@ Chinese media is &#034;vulgar&#034; and &#034;kitsch&#034;, according to the cou
 ### [Reykjavik's mayor, Jon Gnarr of the Best Party, dresses in drag for the opening of the city's gay pride festival. ](/news/2010/08/6/reykjavak-s-mayor-ja3n-gnarr-of-the-best-party-dresses-in-drag-for-the-opening-of-the-city-s-gay-pride-festival.md)
 Reykjavik&#039;s comedian-turned-politician mayor, Jon Gnarr, opened the Icelandic capital&#039;s gay pride festival this week in drag, in a blond wig and with bright red lipstick.
 
-##### France
+##### French
 ### [French police dismantle Romani camps in Saint-Etienne by order of the president. ](/news/2010/08/6/french-police-dismantle-romani-camps-in-saint-atienne-by-order-of-the-president.md)
 France begins taking down illegal Roma camps in line with a presidential order, with police dismantling a camp in Saint-Etienne.
 
@@ -179,7 +179,7 @@ _Context: Gaza Strip, Israel_
 ### [Pakistan's Major-General Tariq Khan urges NATO to do more to control the border with Afghanistan, amid increasing UK and U.S. pressure for Pakistan to deal with it. ](/news/2010/08/6/pakistan-s-major-general-tariq-khan-urges-nato-to-do-more-to-control-the-border-with-afghanistan-amid-increasing-uk-and-u-s-pressure-for-p.md)
 A senior Pakistani security official calls on Nato forces to do more to control the Afghan-Pakistan border.
 
-##### German
+##### Germany
 ### [Germany offers compensation of EUR3,800 to each family of 91 of the 142 people it killed and 11 it injured in an air strike near Kunduz, an incident which provoked outrage and led to political and military resignations. The Bundeswehr does not admit guilt and families say they may sue. ](/news/2010/08/6/germany-offers-compensation-of-a-3-800-to-each-family-of-91-of-the-142-people-it-killed-and-11-it-injured-in-an-air-strike-near-kunduz-an.md)
 Germany will pay $5,000 each to the families of people killed or injured in an air strike near the Afghan town of Kunduz.
 

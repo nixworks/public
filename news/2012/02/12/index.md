@@ -37,7 +37,7 @@ An 18-year-old Tibetan nun has set herself on fire in western China in the lates
 
 ##### International Air Transport Association
 ### [The International Air Transport Association calls for the United Nations to intervene in the dispute between the People's Republic of China and the European Union over airlines' involvement in the EU's carbon tax scheme for airlines. ](/news/2012/02/12/the-international-air-transport-association-calls-for-the-united-nations-to-intervene-in-the-dispute-between-the-people-s-republic-of-china.md)
-_Context: China, European Union, International Air Transport Association, United Nations, carbon tax_
+_Context: China, EU, International Air Transport Association, United Nations, carbon tax_
 
 ##### Congolese President
 ### [A senior aide to the President of the Democratic Republic of the Congo, Joseph Kabila, is killed, and the Finance Minister Matata Ponyo Mapon is injured in a plane crash near the town of Bukavu. ](/news/2012/02/12/a-senior-aide-to-the-president-of-the-democratic-republic-of-the-congo-joseph-kabila-is-killed-and-the-finance-minister-matata-ponyo-mapo.md)

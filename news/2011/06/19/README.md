@@ -11,9 +11,9 @@ _Context: Aung San Suu Kyi, Burma_
 ### [Russian human rights activist Yelena Bonner dies aged 88. ](/news/2011/06/19/russian-human-rights-activist-yelena-bonner-dies-aged-88.md)
 _Context: Russia, Yelena Bonner_
 
-##### Somali
+##### Somalia
 ### [The Somali Prime Minister, Mohamed Abdullahi Farmajo, resigns. ](/news/2011/06/19/the-somali-prime-minister-mohamed-abdullahi-farmajo-resigns.md)
-_Context: Mohamed Abdullahi Farmajo, Prime Minister of Somalia, Somali_
+_Context: Mohamed Abdullahi Farmajo, Prime Minister of Somalia, Somalia_
 
 ##### MPs
 ### [Members of the Parliament of Iran sign a scroll to impeach Foreign Minister Ali Akbar Salehi following the appointment of Mohammad Sharif Malekzadeh as deputy foreign minister.](/news/2011/06/19/members-of-the-parliament-of-iran-sign-a-scroll-to-impeach-foreign-minister-ali-akbar-salehi-following-the-appointment-of-mohammad-sharif-ma.md)
@@ -21,11 +21,11 @@ _Context: Ali Akbar Salehi, Foreign Minister, MPs, Ministry of Foreign Affairs, 
 
 ##### Indonesia
 ### [An Indonesian woman is beheaded in Saudi Arabia for killing a Saudi woman. ](/news/2011/06/19/an-indonesian-woman-is-beheaded-in-saudi-arabia-for-killing-a-saudi-woman.md)
-_Context: Indonesia, Saudi, beheading_
+_Context: Indonesia, Saudi Arabia, beheading_
 
 ##### British
 ### [Six foreigners including two Britons and an American are jailed for lengthy terms in Somalia after the seizure of a plane containing $3.6 million in ransom for pirates. ](/news/2011/06/19/six-foreigners-including-two-britons-and-an-american-are-jailed-for-lengthy-terms-in-somalia-after-the-seizure-of-a-plane-containing-3-6-mi.md)
-_Context: Americans, British, Somali, pirates_
+_Context: Americans, British, Somalia, pirates_
 
 ##### Vietnamese
 ### [Hundreds of Vietnamese citizens protest outside the Chinese embassy in Hanoi for the third straight week as tensions escalate over disputed areas of the South China Sea. ](/news/2011/06/19/hundreds-of-vietnamese-citizens-protest-outside-the-chinese-embassy-in-hanoi-for-the-third-straight-week-as-tensions-escalate-over-disputed.md)

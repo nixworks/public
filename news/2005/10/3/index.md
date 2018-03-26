@@ -25,7 +25,7 @@ _Context: Africa, Europe, clock, solar eclipse, south, west_
 
 ##### War in Afghanistan (2001-present)
 ### [ Conflict in Afghanistan: Afghan troops kill 31 suspects following clashes in Paktika, in eastern Afghanistan. ](/news/2005/10/3/conflict-in-afghanistan-afghan-troops-kill-31-suspects-following-clashes-in-paktika-in-eastern-afghanistan.md)
-_Context: Afghan, Paktika, War in Afghanistan (2001-present)_
+_Context: Afghanistan, Paktika, War in Afghanistan (2001-present)_
 
 ##### United States
 ### [ On the first day of the U.S. Supreme Court's fall term, President George W. Bush nominates White House Counsel Harriet Miers to fill the seat currently held by Sandra Day O'Connor. The nominee has no judicial experience. ](/news/2005/10/3/on-the-first-day-of-the-u-s-supreme-court-s-fall-term-president-george-w-bush-nominates-white-house-counsel-harriet-miers-to-fill-the-se.md)
@@ -61,7 +61,7 @@ _Context: Food and Agriculture Organization, South Africa, Southern Africa, USD,
 
 ##### ECOWAS
 ### [ West African leaders call for the strengthening of United Nations peacekeeping force to ensure efforts to end the three year civil war in Cote d'Ivoire pay off. A total 6,640 peacekeepers are currently serving in the UN force, which is under Senegalese command, monitoring the buffer zone between the north and south with the help of 4,000 French troops. ](/news/2005/10/3/west-african-leaders-call-for-the-strengthening-of-united-nations-peacekeeping-force-to-ensure-efforts-to-end-the-three-year-civil-war-in-c.md)
-_Context: ECOWAS, France, Ivorian Civil War, Senegal, United Nations, buffer zone, peacekeeping_
+_Context: ECOWAS, French, Ivorian Civil War, Senegal, United Nations, buffer zone, peacekeeping_
 
 ## [Previous Day...](/news/2005/10/2/index.md)
 

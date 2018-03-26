@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/11/18/south-korea-launches-a-new-national-safety-agen
 
 ### [2014-11-18](/news/2014/11/18/index.md)
 
-##### South Korea's coast guard
+##### South Korean Coastguard
 # South Korea launches a new National Safety Agency with more than 10,000 staff to replace the Korea Coast Guard, blamed by President Park Geun-hye for a poor response to the sinking of MV "Sewol". 
 
 South Korea launches a massive new government agency this week to handle emergency rescue and safety management seven months after a ferry disaster killed 304 people and was blamed by President Park Geun-hye on a failed response by the coast guard.

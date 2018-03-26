@@ -13,7 +13,7 @@ _Context: Aung San Suu Kyi, General Secretary, National League for Democracy, tr
 
 ##### Mombasa
 ### [ Mombasa's courts are overwhelmed with Somali pirate trials; some cases could be transferred to Nairobi. ](/news/2009/06/11/mombasa-s-courts-are-overwhelmed-with-somali-pirate-trials-some-cases-could-be-transferred-to-nairobi.md)
-_Context: Mombasa, Nairobi, Somali, Somali pirates_
+_Context: Mombasa, Nairobi, Somali pirates, Somalia_
 
 ##### City of Film
 ### [ The world's first City of Film is announced by UNESCO, with Bradford beating competition from Los Angeles, Cannes and Venice. ](/news/2009/06/11/the-world-s-first-city-of-film-is-announced-by-unesco-with-bradford-beating-competition-from-los-angeles-cannes-and-venice.md)

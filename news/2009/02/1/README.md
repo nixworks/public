@@ -7,9 +7,9 @@ Formats: [HTML](2009/02/1/index.html)  [JSON](2009/02/1/index.json)  [XML](2009/
 ### [ The International Cospas-Sarsat Satellite System ceases monitoring for 121.5 MHz and 243 MHz (Class B) signals from ELTs, EPIRBs, and PLBs. ](/news/2009/02/1/the-international-cospas-sarsat-satellite-system-ceases-monitoring-for-121-5-mhz-and-243-mhz-class-b-signals-from-elts-epirbs-and-plbs.md)
 _Context: Cospas-Sarsat, ELTs, EPIRBs, and PLBs_
 
-##### France
+##### French
 ### [ France defeats Croatia to win the Men's World Handball Championship. ](/news/2009/02/1/france-defeats-croatia-to-win-the-men-s-world-handball-championship.md)
-_Context: Croatia, France, handball_
+_Context: Croatia, French, handball_
 
 ##### Sri Lanka
 ### [ The Sri Lankan Army bombs a hospital in Puthukkudiyiruppu twice, killing at least six Tamil civilians and wounding countless more patients. ](/news/2009/02/1/the-sri-lankan-army-bombs-a-hospital-in-puthukkudiyiruppu-twice-killing-at-least-six-tamil-civilians-and-wounding-countless-more-patients.md)

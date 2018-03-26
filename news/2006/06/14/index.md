@@ -9,7 +9,7 @@ _Context: Abu Bakar Bashir, Bali bomber_
 
 ##### Islamic Courts Union
 ### [ The Islamic Courts Union captures the Somali town Jowhar from the secular warlords of the Alliance for the Restoration of Peace and Counter-Terrorism, one week after taking over Mogadishu. ](/news/2006/06/14/the-islamic-courts-union-captures-the-somali-town-jowhar-from-the-secular-warlords-of-the-alliance-for-the-restoration-of-peace-and-counter.md)
-_Context: Alliance for the Restoration of Peace and Counter-Terrorism, Islamic Courts Union, Jowhar, Mogadishu, Somali_
+_Context: Alliance for the Restoration of Peace and Counter-Terrorism, Islamic Courts Union, Jowhar, Mogadishu, Somalia_
 
 ##### Mesozygiella dunlopi
 ### [ Two specimens of "Mesozygiella dunlopi", dating to the Early Cretaceous and the oldest known orb-weaver spiders, are discovered in amber. ](/news/2006/06/14/two-specimens-of-mesozygiella-dunlopi-dating-to-the-early-cretaceous-and-the-oldest-known-orb-weaver-spiders-are-discovered-in-amber.md)

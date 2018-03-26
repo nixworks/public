@@ -29,7 +29,7 @@ _Context: 10 Downing Street, AS-28, Kamchatka Peninsula, Order of Maritime Servi
 
 ##### Roman Catholic
 ### [ The Roman Catholic bishops of England, Wales, and Scotland issue a teaching guide which explains biblical passages should not be taken literally. The Creation, Garden of Eden and the creation of Eve from Adam's rib are considered to be "symbolic language". ](/news/2005/10/5/the-roman-catholic-bishops-of-england-wales-and-scotland-issue-a-teaching-guide-which-explains-biblical-passages-should-not-be-taken-lite.md)
-_Context: Adam, Bible, Creation, England, Garden of Eden, Roman Catholic, Scottish, Wales_
+_Context: Adam, Bible, Creation, England, Garden of Eden, Roman Catholic, Scotland, Wales_
 
 ##### United States
 ### [ U.S. Marine Leandro Aragoncillo is indicted for espionage, accused of passing classified information from the Vice President's office to the Philippines. ](/news/2005/10/5/u-s-marine-leandro-aragoncillo-is-indicted-for-espionage-accused-of-passing-classified-information-from-the-vice-president-s-office-to-th.md)

@@ -33,7 +33,7 @@ _Context: Mali, UN Peacekeepers_
 
 ##### Saudi Arabian-led intervention in Yemen
 ### [Airstrikes on Sanaa kill eight, according to Houthi officials. ](/news/2015/07/2/airstrikes-on-sanaa-kill-eight-according-to-houthi-officials.md)
-_Context: Houthis, Sana'a, Saudi Arabian-led intervention in Yemen_
+_Context: Houthi, Sana'a, Saudi Arabian-led intervention in Yemen_
 
 ##### Boko Haram
 ### [Boko Haram gunmen kill scores of people in attacks on the Nigerian towns of Kukawa and Musarram in recent days. ](/news/2015/07/2/boko-haram-gunmen-kill-scores-of-people-in-attacks-on-the-nigerian-towns-of-kukawa-and-musarram-in-recent-days.md)

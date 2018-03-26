@@ -37,7 +37,7 @@ _Context: Baghdad, Iraq, Iraq War, Military of the United States, United States,
 
 ##### Automobile racing
 ### [ Auto racing: Scotland's Dario Franchitti wins the rain-shortened 91st Indianapolis 500. ](/news/2007/05/27/auto-racing-scotland-s-dario-franchitti-wins-the-rain-shortened-91st-indianapolis-500.md)
-_Context: 91st Indianapolis 500, Dario Franchitti, Scottish, automobile racing, rain_
+_Context: 91st Indianapolis 500, Dario Franchitti, Scotland, automobile racing, rain_
 
 ##### Nepal
 ### [ Nepalese police clash with Bhutanese asylum seekers at a United Nations resulting in one 16-year-old boy being killed and a dozen people being injured. ](/news/2007/05/27/nepalese-police-clash-with-bhutanese-asylum-seekers-at-a-united-nations-resulting-in-one-16-year-old-boy-being-killed-and-a-dozen-people-be.md)

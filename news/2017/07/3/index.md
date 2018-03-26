@@ -19,9 +19,9 @@ Helicopter crashed three minutes before arriving at Dieng Plateau, the popular t
 ### [Ten people are injured when a taxi jumps a curb and hit a group of cabdrivers outside the taxi pool building at Logan International Airport in Boston, Massachusetts. ](/news/2017/07/3/ten-people-are-injured-when-a-taxi-jumps-a-curb-and-hit-a-group-of-cabdrivers-outside-the-taxi-pool-building-at-logan-international-airport.md)
 _Context: Boston, Logan International Airport, Massachusetts_
 
-##### German
+##### Germany
 ### [Eighteen people are dead after a bus collides with a truck in the German state of Bavaria. ](/news/2017/07/3/eighteen-people-are-dead-after-a-bus-collides-with-a-truck-in-the-german-state-of-bavaria.md)
-_Context: Bavaria, German_
+_Context: Bavaria, Germany_
 
 ##### 2017 China floods
 ### [Floods in South China kill at least 15 people over the last few days with tens of thousands more being relocated. More rain is forecast in future days. ](/news/2017/07/3/floods-in-south-china-kill-at-least-15-people-over-the-last-few-days-with-tens-of-thousands-more-being-relocated-more-rain-is-forecast-in-f.md)

@@ -13,7 +13,7 @@ _Context: Ilam, Iran, building, bus_
 
 ##### South Korea
 ### [ A South Korean Navy destroyer rescues a North Korean cargo ship from Somali pirates. ](/news/2009/05/4/a-south-korean-navy-destroyer-rescues-a-north-korean-cargo-ship-from-somali-pirates.md)
-_Context: North Korea, Somali, Somali pirates, South Korea, South Korean Navy, cargo ship, destroyer_
+_Context: North Korea, Somali pirates, Somalia, South Korea, South Korean Navy, cargo ship, destroyer_
 
 ## [Previous Day...](/news/2009/05/3/index.md)
 

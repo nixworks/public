@@ -29,7 +29,7 @@ _Context: Pakistani troops, Pervez Musharraf, Supreme Court, president_
 
 ##### Microsoft
 ### [ Microsoft loses its appeal against a European Union antitrust ruling forcing it to pay a 497 million euro fine. ](/news/2007/09/17/microsoft-loses-its-appeal-against-a-european-union-antitrust-ruling-forcing-it-to-pay-a-497-million-euro-fine.md)
-_Context: European Union, Microsoft, antitrust, euro_
+_Context: EU, Microsoft, antitrust, euro_
 
 ##### U.S. President
 ### [ President George W. Bush nominates Michael Mukasey to replace Alberto Gonzales as the next Attorney-General of the United States. ](/news/2007/09/17/president-george-w-bush-nominates-michael-mukasey-to-replace-alberto-gonzales-as-the-next-attorney-general-of-the-united-states.md)

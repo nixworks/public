@@ -31,9 +31,9 @@ _Context: 2006 referendum in Transnistria, Moldova, Russia_
 ### [ A chemical spill is reported on the International Space Station and a fire is feared, although this latter report proves to be unfounded. ](/news/2006/09/18/a-chemical-spill-is-reported-on-the-international-space-station-and-a-fire-is-feared-although-this-latter-report-proves-to-be-unfounded.md)
 _Context: International Space Station_
 
-##### Somali
+##### Somalia
 ### [ Somali President Abdullahi Yusuf survives an assassination attempt when two bombs explode near the parliament building, killing 11 people. ](/news/2006/09/18/somali-president-abdullahi-yusuf-survives-an-assassination-attempt-when-two-bombs-explode-near-the-parliament-building-killing-11-people.md)
-_Context: Abdullahi Yusuf, Somali, assassination_
+_Context: Abdullahi Yusuf, Somalia, assassination_
 
 ##### NATO
 ### [ A suicide bomber has killed at least four Canadians in an attack on a NATO patrol in the southern Afghan province of Kandahar, Canada's military says. ](/news/2006/09/18/a-suicide-bomber-has-killed-at-least-four-canadians-in-an-attack-on-a-nato-patrol-in-the-southern-afghan-province-of-kandahar-canada-s-mil.md)
@@ -41,7 +41,7 @@ _Context: Canada, Kandahar, NATO_
 
 ##### England
 ### [ New laws come into force across England, Wales and Scotland making the use of child seats in cars compulsory for all children under the age of 12 who are less than 4ft 5in (135cm) tall. ](/news/2006/09/18/new-laws-come-into-force-across-england-wales-and-scotland-making-the-use-of-child-seats-in-cars-compulsory-for-all-children-under-the-age.md)
-_Context: England, Scottish, Wales, child seats_
+_Context: England, Scotland, Wales, child seats_
 
 ## [Previous Day...](/news/2006/09/17/index.md)
 

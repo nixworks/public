@@ -29,7 +29,7 @@ _Context: Ecuador, Galpagos Islands, states of emergency_
 
 ##### German
 ### [German engineering firm Siemens announces plans to axe 7,800 jobs, 3000 of which are in Germany. ](/news/2015/02/6/german-engineering-firm-siemens-announces-plans-to-axe-7-800-jobs-3000-of-which-are-in-germany.md)
-_Context: German, German, Siemens_
+_Context: German, Germany, Siemens_
 
 ##### Boko Haram
 ### [Boko Haram attacks two towns in Niger but is repulsed by the Niger Army with assistance from the Chad Air Force. ](/news/2015/02/6/boko-haram-attacks-two-towns-in-niger-but-is-repulsed-by-the-niger-army-with-assistance-from-the-chad-air-force.md)

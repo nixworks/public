@@ -25,7 +25,7 @@ _Context: 2009, Australian Grand Prix, Brawn GP, Formula One, Jenson Button_
 
 ##### Mayotte
 ### [ Mayotte's referendum on becoming an overseas department of France is approved. ](/news/2009/03/29/mayotte-s-referendum-on-becoming-an-overseas-department-of-france-is-approved.md)
-_Context: France, Mayotte, overseas department, referendum_
+_Context: French, Mayotte, overseas department, referendum_
 
 ##### Coalition for a European Montenegro
 ### [ The Coalition for a European Montenegro wins 48 of 81 seats in Montenegro's Parliament. ](/news/2009/03/29/the-coalition-for-a-european-montenegro-wins-48-of-81-seats-in-montenegro-s-parliament.md)

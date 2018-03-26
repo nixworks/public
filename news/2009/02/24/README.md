@@ -9,7 +9,7 @@ _Context: Politics of Zimbabwe, Teacher, Zimbabwe, strike_
 
 ##### Italy
 ### [ Italian Prime Minister Silvio Berlusconi and French President Nicolas Sarkozy agree to cooperate in reviving nuclear power in Italy. ](/news/2009/02/24/italian-prime-minister-silvio-berlusconi-and-french-president-nicolas-sarkozy-agree-to-cooperate-in-reviving-nuclear-power-in-italy.md)
-_Context: France, Italy, Nicolas Sarkozy, President of France, Prime Minister of Italy, Silvio Berlusconi, nuclear power_
+_Context: French, Italy, Nicolas Sarkozy, President of France, Prime Minister of Italy, Silvio Berlusconi, nuclear power_
 
 ##### United States
 ### [ U.S. President Obama and Japanese Prime Minister Taro Aso pledge to cooperate in stimulating economic demand and combating protectionism. ](/news/2009/02/24/u-s-president-obama-and-japanese-prime-minister-taro-aso-pledge-to-cooperate-in-stimulating-economic-demand-and-combating-protectionism.md)
@@ -17,7 +17,7 @@ _Context: Barack Obama, Japan, Japanese Prime Minister, Taro Aso, U.S. President
 
 ##### Heavy fighting
 ### [ At least 15 people are killed and 90 injured in heavy fighting in Mogadishu, Somalia. ](/news/2009/02/24/at-least-15-people-are-killed-and-90-injured-in-heavy-fighting-in-mogadishu-somalia.md)
-_Context: Mogadishu, Somali, heavy fighting_
+_Context: Mogadishu, Somalia, heavy fighting_
 
 ##### Iraq
 ### [ Iraq's Police Service kills an Iraqi interpreter and injures at least three U.S. soldiers in Mosul. ](/news/2009/02/24/iraq-s-police-service-kills-an-iraqi-interpreter-and-injures-at-least-three-u-s-soldiers-in-mosul.md)

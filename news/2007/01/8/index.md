@@ -17,7 +17,7 @@ _Context: American Astronomical Society, Seattle, quasar_
 
 ##### Mounir El Motassadeq
 ### [ Mounir El Motassadeq is sentenced by a court in Hamburg, Germany to 15 years in jail for his role in the planning of the September 11, 2001 attacks. ](/news/2007/01/8/mounir-el-motassadeq-is-sentenced-by-a-court-in-hamburg-germany-to-15-years-in-jail-for-his-role-in-the-planning-of-the-september-11-2001.md)
-_Context: German, Hamburg, Mounir El Motassadeq, planning of the September 11, 2001 attacks_
+_Context: Germany, Hamburg, Mounir El Motassadeq, planning of the September 11, 2001 attacks_
 
 ##### Indonesia
 ### [ Indonesian naval ships discover large metal objects off the west coast of Sulawesi that could possibly be the wreckage of Adam Air Flight 574 missing a week ago. ](/news/2007/01/8/indonesian-naval-ships-discover-large-metal-objects-off-the-west-coast-of-sulawesi-that-could-possibly-be-the-wreckage-of-adam-air-flight-5.md)
@@ -41,7 +41,7 @@ _Context: 5 January, East Turkestan Islamic Movement, Pamir Plateau, a raid_
 
 ##### Russia
 ### [ Russian oil supplies to Poland, Germany, and Ukraine are cut as the Russia-Belarus energy dispute escalates. ](/news/2007/01/8/russian-oil-supplies-to-poland-germany-and-ukraine-are-cut-as-the-russia-belarus-energy-dispute-escalates.md)
-_Context: Belarus, German, Poland, Russia, Ukrainian, energy dispute_
+_Context: Belarus, Germany, Poland, Russia, Ukrainian, energy dispute_
 
 ##### Manhattan
 ### [ An unknown odor persists in Manhattan, New York and Jersey City, New Jersey throughout much of the day, resulting in the evacuation of several high-rise buildings and the temporary shutdown of PATH train service under the Hudson River. ](/news/2007/01/8/an-unknown-odor-persists-in-manhattan-new-york-and-jersey-city-new-jersey-throughout-much-of-the-day-resulting-in-the-evacuation-of-seve.md)

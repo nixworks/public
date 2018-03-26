@@ -33,7 +33,7 @@ _Context: Sri Lanka, Tamil Tigers, Vavuniya_
 
 ##### Waziristan conflict (July 2007-present)
 ### [ Waziristan conflict (July 2007-present): At least 24 Pakistani soldiers are killed by a suicide attack by militants on a convoy in Waziristan near the Afghanistan border. ](/news/2007/07/14/waziristan-conflict-july-2007-present-at-least-24-pakistani-soldiers-are-killed-by-a-suicide-attack-by-militants-on-a-convoy-in-wazirist.md)
-_Context: Afghan, Pakistan, Waziristan, Waziristan conflict (July 2007-present), convoy, suicide attack_
+_Context: Afghanistan, Pakistan, Waziristan, Waziristan conflict (July 2007-present), convoy, suicide attack_
 
 ##### Turkey
 ### [ Turkish Foreign Minister Abdullah Gl asked the US for an explanation of alleged delivery of weapons to the PKK terrorist group. Gl said that ties with Turkey-US would collapse if arms to PKK claims confirmed. ](/news/2007/07/14/turkish-foreign-minister-abdullah-gul-asked-the-us-for-an-explanation-of-alleged-delivery-of-weapons-to-the-pkk-terrorist-group-gul-said-t.md)

@@ -11,9 +11,9 @@ _Context: Columbus, Georgia's, Georgia, United States_
 ### [ The oldest known recording of a human voice, created with a phonautograph by douard-Lon Scott de Martinville on April 9, 1860 is replayed by American researchers. ](/news/2008/03/27/the-oldest-known-recording-of-a-human-voice-created-with-a-phonautograph-by-edouard-leon-scott-de-martinville-on-april-9-1860-is-replayed.md)
 A recording found in Paris is believed to predate Thomas Edison’s invention of the phonograph by nearly 20 years.
 
-##### German
+##### Germany
 ### [ Germany scraps plans to build the Transrapid high-speed monorail link between the Bavarian capital Munich and its airport because of a massive overrun in costs. ](/news/2008/03/27/germany-scraps-plans-to-build-the-transrapid-high-speed-monorail-link-between-the-bavarian-capital-munich-and-its-airport-because-of-a-mass.md)
-_Context: Bavaria, German, Munich, Transrapid, airport, monorail_
+_Context: Bavaria, Germany, Munich, Transrapid, airport, monorail_
 
 ##### Puerto Rico
 ### [ Puerto Rican Governor Anbal Salvador Acevedo Vil and twelve others are charged with electoral fraud. ](/news/2008/03/27/puerto-rican-governor-anibal-salvador-acevedo-vila-and-twelve-others-are-charged-with-electoral-fraud.md)

@@ -23,9 +23,9 @@ The Syrian opposition figure tasked with forming an interim government to admini
 ### [The Syrian Ba'ath Party announces a shakeup of leadership positions with Vice President Farouk al-Sharaa losing his position. ](/news/2013/07/8/the-syrian-ba-ath-party-announces-a-shakeup-of-leadership-positions-with-vice-president-farouk-al-sharaa-losing-his-position.md)
 _Context: Farouk al-Sharaa, Syrian Ba'ath Party, Vice President_
 
-##### France
+##### French
 ### [A French court clears oil company Total S.A., its chief executive and over a dozen defendants of corruption charges related to the United Nations oil-for-food programme in Iraq. ](/news/2013/07/8/a-french-court-clears-oil-company-total-s-a-its-chief-executive-and-over-a-dozen-defendants-of-corruption-charges-related-to-the-united-na.md)
-_Context: France, Iraq, Total, United Nations, oil-for-food programme_
+_Context: French, Iraq, Total, United Nations, oil-for-food programme_
 
 ##### Chinese
 ### [Former Chinese Railways Minister Liu Zhijun is given a suspended death sentence for corruption. ](/news/2013/07/8/former-chinese-railways-minister-liu-zhijun-is-given-a-suspended-death-sentence-for-corruption.md)

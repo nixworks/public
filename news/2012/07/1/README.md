@@ -9,7 +9,7 @@ Read the latest World and International news headlines from Sky News Australia. 
 
 ##### The Sunday Telegraph
 ### [Writing in "The Sunday Telegraph" British Prime Minister David Cameron says he is prepared to consider a referendum on the UK's relationship with the European Union, but only when the time is right. ](/news/2012/07/1/writing-in-the-sunday-telegraph-british-prime-minister-david-cameron-says-he-is-prepared-to-consider-a-referendum-on-the-uk-s-relationship.md)
-_Context: David Cameron, European Union, The Sunday Telegraph_
+_Context: David Cameron, EU, The Sunday Telegraph_
 
 ##### Hong Kong
 ### [Protesters throng the streets of Hong Kong, hours after President Hu Jintao of China swore in Leung Chun-ying as new Chief Executive and the Executive Council for the territory.](/news/2012/07/1/protesters-throng-the-streets-of-hong-kong-hours-after-president-hu-jintao-of-china-swore-in-leung-chun-ying-as-new-chief-executive-and-the.md)
@@ -31,7 +31,7 @@ Hundreds of protesters gather as Japan restarts the first nuclear reactor since 
 ### [Barclays chairman Marcus Agius is to resign following the Libor interest rate scandal. ](/news/2012/07/1/barclays-chairman-marcus-agius-is-to-resign-following-the-libor-interest-rate-scandal.md)
 Marcus Agius is to resign on Monday as the chairman of Barclays following the Libor inter-bank lending rate scandal.
 
-##### Afghan
+##### Afghanistan
 ### [At least five people are killed and 11 injured after a bomb strikes a bus near the Afghan city of Ghazni. ](/news/2012/07/1/at-least-five-people-are-killed-and-11-injured-after-a-bomb-strikes-a-bus-near-the-afghan-city-of-ghazni.md)
 A man in an Afghan police uniform has killed three NATO personnel in the war-torn country&#39;s troubled south, the coalition said.
 

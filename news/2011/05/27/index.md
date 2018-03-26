@@ -13,7 +13,7 @@ _Context: South Korea, pneumonia_
 
 ##### ''E. coli''
 ### [More than 270 people are hospitalised after an E. coli outbreak in Germany, thought to have originated from Spanish cucumbers. ](/news/2011/05/27/more-than-270-people-are-hospitalised-after-an-e-coli-outbreak-in-germany-thought-to-have-originated-from-spanish-cucumbers.md)
-_Context: ''E. coli'', German, Spanish_
+_Context: ''E. coli'', Germany, Spanish_
 
 ##### China
 ### [Chinese activist Zhao Lianhai is back home after being detained for campaigning for victims of the 2008 Chinese milk scandal. ](/news/2011/05/27/chinese-activist-zhao-lianhai-is-back-home-after-being-detained-for-campaigning-for-victims-of-the-2008-chinese-milk-scandal.md)

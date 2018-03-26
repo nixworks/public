@@ -63,9 +63,9 @@ Tokyo Electric Power will have to compensate farmers for losses caused by the nu
 ### [The Mozilla Foundation releases Firefox 4. ](/news/2011/03/22/the-mozilla-foundation-releases-firefox-4.md)
 _Context: Firefox 4, Mozilla Foundation_
 
-##### German
+##### Germany
 ### [Germany's Federal Court of Justice rules that Deutsche Bank must compensate a customer, Ille Papier Service, for selling it an interest rate swap product without adequate disclosures. ](/news/2011/03/22/germany-s-federal-court-of-justice-rules-that-deutsche-bank-must-compensate-a-customer-ille-papier-service-for-selling-it-an-interest-rate.md)
-_Context: Deutsche Bank, Federal Court of Justice, German, Ille Papier Service, interest rate swap_
+_Context: Deutsche Bank, Federal Court of Justice, Germany, Ille Papier Service, interest rate swap_
 
 ##### Chinese Foreign Ministry spokesperson
 ### [The Ministry of Foreign Affairs of the People's Republic of China rejects accusations by Google that it is blocking access to Gmail in China. ](/news/2011/03/22/the-ministry-of-foreign-affairs-of-the-people-s-republic-of-china-rejects-accusations-by-google-that-it-is-blocking-access-to-gmail-in-china.md)
@@ -97,7 +97,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Afghan President
 ### [The President of Afghanistan Hamid Karzai names the seven areas of Afghanistan that will pass into Afghan control from July: Kabul, Panjshir Province, Bamiyan Province, Herat, Mazar-e-Sharif, Mihtarlam and Lashkar Gah. ](/news/2011/03/22/the-president-of-afghanistan-hamid-karzai-names-the-seven-areas-of-afghanistan-that-will-pass-into-afghan-control-from-july-kabul-panjshir.md)
-_Context: Afghan, Afghan President, Bamiyan Province, Hamid Karzai, Herat, Kabul, Lashkar Gah, Mazar-e-Sharif, Mihtarlam, Panjshir Province_
+_Context: Afghan President, Afghanistan, Bamiyan Province, Hamid Karzai, Herat, Kabul, Lashkar Gah, Mazar-e-Sharif, Mihtarlam, Panjshir Province_
 
 ##### U.S. Air Force
 ### [Two US airmen safely eject prior to their F-15E crashing near Benghazi, Libya, due to mechanical failure. ](/news/2011/03/22/two-us-airmen-safely-eject-prior-to-their-f-15e-crashing-near-benghazi-libya-due-to-mechanical-failure.md)

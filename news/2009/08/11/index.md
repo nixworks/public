@@ -5,7 +5,7 @@ Formats: [HTML](2009/08/11/index.html)  [JSON](2009/08/11/index.json)  [XML](200
 
 ##### Kenya
 ### [ Two Kenyans, two French, a Bulgarian and a Belgian held captive since November 2008 are freed by their Somali kidnappers. ](/news/2009/08/11/two-kenyans-two-french-a-bulgarian-and-a-belgian-held-captive-since-november-2008-are-freed-by-their-somali-kidnappers.md)
-_Context: Belgium, Bulgaria, France, Kenya, Somali_
+_Context: Belgium, Bulgaria, French, Kenya, Somalia_
 
 ##### Nepenthes attenboroughii
 ### [ "Nepenthes attenboroughii", a new species of giant carnivorous plant, is discovered in the highlands of the central Philippines. ](/news/2009/08/11/nepenthes-attenboroughii-a-new-species-of-giant-carnivorous-plant-is-discovered-in-the-highlands-of-the-central-philippines.md)
@@ -59,9 +59,9 @@ Kuwait said today it had foiled an al-Qaeda-linked plan to bomb a US army camp a
 ### [ Thousands of people worship a baby born with four arms and four legs in Ramechhap, Nepal, revering him as the reincarnation of Ganesh. ](/news/2009/08/11/thousands-of-people-worship-a-baby-born-with-four-arms-and-four-legs-in-ramechhap-nepal-revering-him-as-the-reincarnation-of-ganesh.md)
 _Context: Ganesh, Nepal, Ramechhap_
 
-##### German
+##### Germany
 ### [ A German court sentences former Nazi army commander Josef Scheungraber to life in prison for his role in the murder of 10 Italians in Tuscany in 1944. ](/news/2009/08/11/a-german-court-sentences-former-nazi-army-commander-josef-scheungraber-to-life-in-prison-for-his-role-in-the-murder-of-10-italians-in-tusca.md)
-_Context: German, Italy, Josef Scheungraber, Nazi, Tuscany_
+_Context: Germany, Italy, Josef Scheungraber, Nazi, Tuscany_
 
 ##### Asia
 ### [ Two strong earthquakes hit Asia; a 7.6 magnitude quake off the Indian Andaman Islands and a 6.5 magnitude quake in the Tokyo area of Japan, killing one and injuring dozens. ](/news/2009/08/11/two-strong-earthquakes-hit-asia-a-7-6-magnitude-quake-off-the-indian-andaman-islands-and-a-6-5-magnitude-quake-in-the-tokyo-area-of-japan.md)

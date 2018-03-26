@@ -35,9 +35,9 @@ _Context: Andrei Lugovoi, Russia, United Kingdom, murder of Russian spy Alexande
 ### [ A U.S. federal judge dismisses a case brought by Valerie Plame against members of the Bush Administration in connection with the Plame affair. ](/news/2007/07/19/a-u-s-federal-judge-dismisses-a-case-brought-by-valerie-plame-against-members-of-the-bush-administration-in-connection-with-the-plame-affa.md)
 _Context: Bush Administration, CIA leak scandal, George W. Bush, Valerie Plame, dismisses_
 
-##### Somali
+##### Somalia
 ### [ Suspected Somali insurgents target a peace meeting with mortar fire but accidentally kill six children. ](/news/2007/07/19/suspected-somali-insurgents-target-a-peace-meeting-with-mortar-fire-but-accidentally-kill-six-children.md)
-_Context: Mortar, Somali_
+_Context: Mortar, Somalia_
 
 ##### Viking
 ### [ The largest Viking treasure discovery in the United Kingdom since the nineteenth century made near Harrogate in northern England is announced. ](/news/2007/07/19/the-largest-viking-treasure-discovery-in-the-united-kingdom-since-the-nineteenth-century-made-near-harrogate-in-northern-england-is-announc.md)

@@ -43,7 +43,7 @@ _Context: Amman, Israel, Jordan, Palestinian Authority_
 ### [The Met Office issues a storm warning for the entire United Kingdom, with Scotland, Wales and Northern Ireland reportedly the worst-affected areas. Two people are later reported killed in separate weather-related incidents. ](/news/2012/01/3/the-met-office-issues-a-storm-warning-for-the-entire-united-kingdom-with-scotland-wales-and-northern-ireland-reportedly-the-worst-affected.md)
 Two men are killed as storms cause damage and result in power cuts across many parts of the UK, with gusts of up to 100mph in Scotland.
 
-##### German
+##### Germany
 ### [Germany's unemployment rate reportedly reaches its lowest level since 1991. ](/news/2012/01/3/germany-s-unemployment-rate-reportedly-reaches-its-lowest-level-since-1991.md)
 German unemployment falls to its lowest rate in December since 1991, official figures show.
 

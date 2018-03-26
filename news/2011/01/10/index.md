@@ -35,7 +35,7 @@ Nasrin Sotoudeh, a female human rights lawyer, has been sentenced to 11 years in
 ### [Venezuelan President Hugo Chavez responds to criticism from Organization of American States Secretary General Jose Miguel Insulza by saying the OAS is interfering in the country's internal affairs and referring to Insulza as a "spokesman of the empire" during a radio address. ](/news/2011/01/10/venezuelan-president-hugo-cha-vez-responds-to-criticism-from-organization-of-american-states-secretary-general-josa-c-miguel-insulza-by-sayin.md)
 Venezuelan President Hugo Chavez accuses the OAS of interference after its secretary general condemned a law giving him special powers.
 
-##### European Union
+##### EU
 ### [EU envoys in the Middle East are urging Brussels to treat East Jerusalem as the future capital of a Palestinian state. ](/news/2011/01/10/eu-envoys-in-the-middle-east-are-urging-brussels-to-treat-east-jerusalem-as-the-future-capital-of-a-palestinian-state.md)
 EU diplomats in Israel urge Brussels to treat East Jerusalem as the capital of a Palestinian state, a leaked report shows.
 

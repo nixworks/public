@@ -41,7 +41,7 @@ _Context: Barclays, Qatar Holding LLC, Serious Fraud Office, financial crisis in
 
 ##### Gazprom
 ### [Gazprom completes building the second leg of the Nord Stream natural gas pipeline connecting Russia, Germany and neighbouring countries. ](/news/2012/08/29/gazprom-completes-building-the-second-leg-of-the-nord-stream-natural-gas-pipeline-connecting-russia-germany-and-neighbouring-countries.md)
-_Context: Gazprom, German, Nord Stream, Russia_
+_Context: Gazprom, Germany, Nord Stream, Russia_
 
 ##### Operation Eagle
 ### [With Operation Eagle, its biggest since 1979, the Egyptian Army says it used tanks and helicopters to kill 11 suspected terrorists and arrest 23 others in the Sinai, following the attack that killed 16 border guards. ](/news/2012/08/29/with-operation-eagle-its-biggest-since-1979-the-egyptian-army-says-it-used-tanks-and-helicopters-to-kill-11-suspected-terrorists-and-arres.md)

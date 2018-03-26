@@ -5,7 +5,7 @@ Formats: [HTML](2009/12/6/index.html)  [JSON](2009/12/6/index.json)  [XML](2009/
 
 ##### Cannibalism
 ### [ Archaeologists discover evidence of mass cannibalism in Europe during the Neolithic period at a 7,000-year-old burial site in Germany. ](/news/2009/12/6/archaeologists-discover-evidence-of-mass-cannibalism-in-europe-during-the-neolithic-period-at-a-7-000-year-old-burial-site-in-germany.md)
-_Context: Europe, German, Neolithic, cannibalism_
+_Context: Europe, Germany, Neolithic, cannibalism_
 
 ##### Legislative elections
 ### [ Legislative elections take place in Comoros. ](/news/2009/12/6/legislative-elections-take-place-in-comoros.md)

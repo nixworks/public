@@ -25,7 +25,7 @@ _Context: Diyala Governorate, attack a Sunni mosque_
 
 ##### Eastern Ukraine
 ### [Russian aid convoys enter eastern Ukraine without permission from the Ukrainian government, sparking condemnation from the US, the EU, and NATO, and prompting the UN to hold an emergency meeting to discuss the action. No other country sent humanitarian aid to the region. ](/news/2014/08/22/russian-aid-convoys-enter-eastern-ukraine-without-permission-from-the-ukrainian-government-sparking-condemnation-from-the-us-the-eu-and-n.md)
-_Context: Eastern Ukraine, European Union, Government of Ukraine, NATO, United Nations_
+_Context: EU, Eastern Ukraine, Government of Ukraine, NATO, United Nations_
 
 ##### 2014 Israel-Gaza conflict
 ### [At least 18 people are executed in public by Hamas after being accused of "collaborating" with Israel. Al Majd, a Hamas website, warns that future suspects will be dealt with "in the field" rather than the courts. ](/news/2014/08/22/at-least-18-people-are-executed-in-public-by-hamas-after-being-accused-of-collaborating-with-israel-al-majd-a-hamas-website-warns-that.md)

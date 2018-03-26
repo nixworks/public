@@ -17,7 +17,7 @@ A US student who used a webcam to secretly film his room-mate in a gay encounter
 
 ##### David Petraeus
 ### [David Petraeus, the Director of the Central Intelligence Agency, is honored with the Grand Cross with swords in the Order of Orange-Nassau in The Hague for his service as a four-star general in Iraq and Afghanistan. ](/news/2012/03/16/david-petraeus-the-director-of-the-central-intelligence-agency-is-honored-with-the-grand-cross-with-swords-in-the-order-of-orange-nassau-i.md)
-_Context: Afghan, David Petraeus, Director, Grand Cross with swords in the Order of Orange-Nassau, Iraq, The Hague_
+_Context: Afghanistan, David Petraeus, Director, Grand Cross with swords in the Order of Orange-Nassau, Iraq, The Hague_
 
 ##### Belgium
 ### [Belgium holds a day of national mourning in memory of the victims of the Sierre bus collision in Switzerland earlier this week. ](/news/2012/03/16/belgium-holds-a-day-of-national-mourning-in-memory-of-the-victims-of-the-sierre-bus-collision-in-switzerland-earlier-this-week.md)

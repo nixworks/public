@@ -13,7 +13,7 @@ _Context: Guatemala, Mexico City, Otto Roberto Herrera Garcia, United States, ex
 
 ##### Peter Gloystein
 ### [ Peter Gloystein, financial minister for the German state Free Hanseatic City of Bremen, resigns from his posts after he was photographed pouring a bottle of wine over a homeless man ](/news/2005/05/14/peter-gloystein-financial-minister-for-the-german-state-free-hanseatic-city-of-bremen-resigns-from-his-posts-after-he-was-photographed-po.md)
-_Context: Free Hanseatic City of Bremen, German, Peter Gloystein_
+_Context: Free Hanseatic City of Bremen, Germany, Peter Gloystein_
 
 ##### Taiwan
 ### [ In Taiwan, despite a low voter turnout, the Pan-Green Coalition wins the National Assembly election, with 49.6 % of the votes and 149 seats out of the 300 in the National Assembly of the Republic of China. ](/news/2005/05/14/in-taiwan-despite-a-low-voter-turnout-the-pan-green-coalition-wins-the-national-assembly-election-with-49-6-of-the-votes-and-149-seats.md)

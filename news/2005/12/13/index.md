@@ -41,7 +41,7 @@ _Context: George W. Bush, Iraq War, U.S. President_
 
 ##### Ministerial Conference of 2005
 ### [ The Sixth Ministerial Conference of the World Trade Organization opened in Hong Kong. European Union Trade Commissioner Peter Mandelson said that he expected little progress on resolving disagreements between ministers. Meanwhile, some protesters from South Korea unsuccessfully attempted to bypass the cordon to reach the location of the conference by swimming across Victoria Harbour. ](/news/2005/12/13/the-sixth-ministerial-conference-of-the-world-trade-organization-opened-in-hong-kong-european-union-trade-commissioner-peter-mandelson-sai.md)
-_Context: European Union, Hong Kong, Ministerial Conference of 2005, Peter Mandelson, South Korea, Trade Commissioner, Victoria Harbour, World Trade Organization, cordon, location of the conference_
+_Context: EU, Hong Kong, Ministerial Conference of 2005, Peter Mandelson, South Korea, Trade Commissioner, Victoria Harbour, World Trade Organization, cordon, location of the conference_
 
 ##### United States
 ### [ Four American soldiers are killed following an IED attack in the Iraqi capital Baghdad. ](/news/2005/12/13/four-american-soldiers-are-killed-following-an-ied-attack-in-the-iraqi-capital-baghdad.md)

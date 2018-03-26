@@ -43,9 +43,9 @@ _Context: Ural Mountains, munitions_
 ### [Workers for Canada Post start a mail strike. ](/news/2011/06/3/workers-for-canada-post-start-a-mail-strike.md)
 Hamilton is being targeted this weekend by striking postal workers, the second city to be hit by rotating work stoppages across the country. 
 
-##### Qantas
+##### Qantas Airways
 ### [Australian airline Qantas announces plans to offer 350 flight attendants voluntary redundancies. ](/news/2011/06/3/australian-airline-qantas-announces-plans-to-offer-350-flight-attendants-voluntary-redundancies.md)
-_Context: Qantas, flight attendant, voluntary redundancies_
+_Context: Qantas Airways, flight attendant, voluntary redundancies_
 
 ##### Barack Obama
 ### [Barack Obama, the President of the United States, announces the sale of the US government's stake in Chrysler to Italian automaker Fiat at a visit to a plant at Toledo, Ohio. ](/news/2011/06/3/barack-obama-the-president-of-the-united-states-announces-the-sale-of-the-us-government-s-stake-in-chrysler-to-italian-automaker-fiat-at-a.md)
@@ -67,11 +67,11 @@ _Context: 2011 Egyptian revolution, Cairo, Hosni Mubarak, President, Tahrir Squa
 ### [In two bombing attacks in Iraq, 17 people are killed and 50 others wounded in a blast outside of the Presidential Palaces Mosque in central Tikrit, Iraq; and later by a suicide bomber in a Tikrit hospital treating the wounded from the first attack, killing six people and injuring ten at the hospital. ](/news/2011/06/3/in-two-bombing-attacks-in-iraq-17-people-are-killed-and-50-others-wounded-in-a-blast-outside-of-the-presidential-palaces-mosque-in-central.md)
 Seventeen people were killed and 50 others wounded in a blast from a container full of explosives left outside of the Presidential Palaces Mosque in central Tikrit, Iraq, officials told CNN.
 
-##### Somali
+##### Somalia
 ### [Somali government forces and African Union troops expel al Qaeda-linked militants from their last outpost in the western part of Mogadishu, opening up a main road in the city. ](/news/2011/06/3/somali-government-forces-and-african-union-troops-expel-al-qaeda-linked-militants-from-their-last-outpost-in-the-western-part-of-mogadishu.md)
 Somali government forces and African Union troops pushed al Qaeda-linked militants out of its last outpost in the western part of Mogadishu, opening the main artery to the famed Bakaara Market, the African Union Mission to Somalia said Friday.
 
-##### Afghan
+##### Afghanistan
 ### [More than 200 Afghan militants cross over into Pakistan and attack a security checkpoint in northwest Pakistan, sparking a clash in which 28 Pakistani security forces and six civilians die, along with 45 Afghans. ](/news/2011/06/3/more-than-200-afghan-militants-cross-over-into-pakistan-and-attack-a-security-checkpoint-in-northwest-pakistan-sparking-a-clash-in-which-28.md)
 More than 200 Afghan militants crossed over and attacked a security checkpoint in northwest Pakistan, sparking a firefight that left dozens dead, authorities said Thursday.
 

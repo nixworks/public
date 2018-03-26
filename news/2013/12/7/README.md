@@ -31,7 +31,7 @@ Supreme Court Justice Ruth Bader Ginsburg denied a petition to halt the planned 
 ### [87-year-old American comedian Don Rickles is recovering after treatment for a leg infection of necrotizing fasciitis, better known as a flesh-eating disease. ](/news/2013/12/7/87-year-old-american-comedian-don-rickles-is-recovering-after-treatment-for-a-leg-infection-of-necrotizing-fasciitis-better-known-as-a-fles.md)
 Don Rickles is on the mend. After canceling several shows due to treatment for a leg infection, the New York Post has reported that the 87-year-old comedy legend was suffering from necrotizing fasciitis, better known as a flesh-eating disease.
 
-##### France
+##### French
 ### [France expands its role in the conflict in the Central African Republic. ](/news/2013/12/7/france-expands-its-role-in-the-conflict-in-the-central-african-republic.md)
 A reinforced French force in the Central African Republic expands operations in the capital and beyond, to try to end deadly sectarian fighting.
 

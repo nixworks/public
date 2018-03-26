@@ -13,7 +13,7 @@ _Context: Chadian presidential election, 2016, Idriss Deby, President of Chad_
 
 ##### 2016 Macedonian protests
 ### [The European Union cancels mediation talks on resolving the political crisis in Macedonia after that country's main political opposition, led by Zoran Zaev, declined to take part. ](/news/2016/04/21/the-european-union-cancels-mediation-talks-on-resolving-the-political-crisis-in-macedonia-after-that-country-s-main-political-opposition-le.md)
-_Context: 2016 Macedonian protests, European Union, Republic of Macedonia, Zoran Zaev_
+_Context: 2016 Macedonian protests, EU, Republic of Macedonia, Zoran Zaev_
 
 ##### Russia-Ukraine relations
 ### [Ukrainian President Petro Poroshenko signs legislation banning all Russian films made after January 1, 2014. The legislation also bans movies produced by Russia after 1991 if they "glorify the work of government bodies" of Russia, citing such movies to be a threat to national security. ](/news/2016/04/21/ukrainian-president-petro-poroshenko-signs-legislation-banning-all-russian-films-made-after-january-1-2014-the-legislation-also-bans-movie.md)
@@ -45,7 +45,7 @@ BEIRUT (AP) — The U.N. special envoy for Syria said there was &quot;real but m
 
 ##### Gulf Cooperation Council Summit
 ### [United States President Barack Obama, at the Gulf Cooperation Council Summit in Saudi Arabia, says the United States will continue to deter and confront aggression against Gulf Arab states; joins others in warning the fragile cease-fire in Syria is on the verge of collapse; pledges vigilance about Iran's destabilizing activities in the Middle East; wants Gulf allies to offer more democratic reforms and improve human rights; and, says the U.S. and its Gulf partners should wait to see whether Iraq can resolve its political crisis before committing more financial aid which is impeding the fight against ISIL. ](/news/2016/04/21/united-states-president-barack-obama-at-the-gulf-cooperation-council-summit-in-saudi-arabia-says-the-united-states-will-continue-to-deter.md)
-_Context: Barack Obama, Gulf Arab states, Gulf Cooperation Council, Gulf Cooperation Council Summit, ISIL, Iran, Iraq, Middle East, Saudi, Syria, Syrian peace process, U.S. President, United States_
+_Context: Barack Obama, Gulf Arab states, Gulf Cooperation Council, Gulf Cooperation Council Summit, ISIL, Iran, Iraq, Middle East, Saudi Arabia, Syria, Syrian peace process, U.S. President, United States_
 
 ##### Philippines-United States relations
 ### [Presidential candidate Rodrigo Duterte said that Australia and the United States should go ahead and cut their ties with the Philippines if he was elected president, following critical comments of their ambassadors on his rape remarks. ](/news/2016/04/21/presidential-candidate-rodrigo-duterte-said-that-australia-and-the-united-states-should-go-ahead-and-cut-their-ties-with-the-philippines-if.md)

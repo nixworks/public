@@ -9,7 +9,7 @@ Top Hamas official Mahmoud Zahar says Islamist group agreed to truce with Israel
 
 ##### Harriet Harman
 ### [Harriet Harman, the deputy leader of the British Labour Party, issues an apology for branding Danny Alexander, a member of the British Government, a "ginger rodent". Mr Alexander tweets in response: "I am proud to be ginger and rodents do valuable work cleaning up mess others leave behind". ](/news/2010/10/30/harriet-harman-the-deputy-leader-of-the-british-labour-party-issues-an-apology-for-branding-danny-alexander-a-member-of-the-british-gover.md)
-_Context: Danny Alexander, Harriet Harman, Labour Party, Twitter, ginger_
+_Context: Danny Alexander, Harriet Harman, Labour Party, ginger, tweeting_
 
 ##### Rally to Restore Sanity and/or Fear
 ### [An estimated 200,000 people attend the Rally to Restore Sanity and-or Fear by political satirists Jon Stewart and Stephen Colbert on the National Mall in Washington, D.C. ](/news/2010/10/30/an-estimated-200-000-people-attend-the-rally-to-restore-sanity-and-or-fear-by-political-satirists-jon-stewart-and-stephen-colbert-on-the-nat.md)
@@ -51,9 +51,9 @@ Hundreds of South Koreans cross into North for three-day reunion of families sep
 ### [Hurricane Tomas lashes the islands of Saint Lucia and Saint Vincent in the Lesser Antilles. ](/news/2010/10/30/hurricane-tomas-lashes-the-islands-of-saint-lucia-and-saint-vincent-in-the-lesser-antilles.md)
 Hurricane Tomas lashes St Lucia and St Vincent in the eastern Caribbean, with high winds ripping roofs off houses.
 
-##### France
+##### French
 ### [French and Australian rescue crews find four French nationals who died in a helicopter crash in Antarctica. ](/news/2010/10/30/french-and-australian-rescue-crews-find-four-french-nationals-who-died-in-a-helicopter-crash-in-antarctica.md)
-_Context: Antarctica, Australia, France, find four French nationals, helicopter_
+_Context: Antarctica, Australia, French, find four French nationals, helicopter_
 
 ##### Typhoon Chaba
 ### [Typhoon Chaba heads towards eastern Japan. ](/news/2010/10/30/typhoon-chaba-heads-towards-eastern-japan.md)

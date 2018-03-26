@@ -17,7 +17,7 @@ Voters overwhelmingly oppose a proposal to scrap the annual Swiss Broadcasting C
 
 ##### 2017-18 Spanish constitutional crisis
 ### [15,000 demonstrators gather in Barcelona, Spain, to support the mock region of Tabarnia--a hypothetical area that includes the least independentist areas of Catalonia--as a way to oppose Catalan independence and the declaration of independence on October 27. ](/news/2018/03/4/15-000-demonstrators-gather-in-barcelona-spain-to-support-the-mock-region-of-tabarniaaa-hypothetical-area-that-includes-the-least-indepe.md)
-_Context: 2017-18 Spanish constitutional crisis, Barcelona, Catalan, Catalan independence, Spanish, Spanish unionism, Tabarnia, declaration of independence on October 27_
+_Context: 2017-18 Spanish constitutional crisis, Barcelona, Catalan independence, Catalonia, Spanish, Spanish unionism, Tabarnia, declaration of independence on October 27_
 
 ##### SPD party member vote on the 2018 coalition agreement of Germany
 ### [SPD party members approve with 66% in favour to allow to form a coalition with Angela Merkel's CDU-CSU, ending a five-month political deadlock after the federal elections. ](/news/2018/03/4/spd-party-members-approve-with-66-in-favour-to-allow-to-form-a-coalition-with-angela-merkel-s-cdu-csu-ending-a-five-month-political-deadlo.md)
@@ -50,6 +50,10 @@ _Context: 2017-18 South African listeriosis outbreak, Ministry of Health, Polony
 ##### Online advertising
 ### [Advertisers remove their ads from InfoWars founder Alex Jones' YouTube channels. Many of the brands say they were not aware their adverts were being shown on the channel until being contacted by CNN. ](/news/2018/03/4/advertisers-remove-their-ads-from-infowars-founder-alex-jones-youtube-channels-many-of-the-brands-say-they-were-not-aware-their-adverts-we.md)
 Several leading brands have reportedly sought to pull their ads from YouTube channels of the far-right conspiracy site InfoWars. Ads from a number of major firms and organisations - including Nike, 20th Century Fox, Expedia, the Mormon Church, Alibaba and the National Rifle Association - were being ...
+
+##### Poznan
+### [An explosion followed by a building collapse kills four and injures 20 in Poznan, Poland. ](/news/2018/03/4/an-explosion-followed-by-a-building-collapse-kills-four-and-injures-20-in-poznan-poland.md)
+Four people died and about 20 were injured in an apartment building collapse in Poznan, western Poland, most likely to have been caused by a gas explosion, state-run news agency PAP said on Sunday.
 
 ##### 90th Academy Awards
 ### ["The Shape of Water" wins a leading four awards, including Best Picture, followed by "Dunkirk", which won three awards. ](/news/2018/03/4/the-shape-of-water-wins-a-leading-four-awards-including-best-picture-followed-by-dunkirk-which-won-three-awards.md)

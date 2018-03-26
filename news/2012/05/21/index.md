@@ -41,7 +41,7 @@ First IAEA head to visit Tehran since 2009 is expected to seek inspection deal o
 
 ##### Canada
 ### [Four climbers from Canada, China, Germany and South Korea die whilst returning from the summit of Mount Everest; a Nepalese guide is missing. ](/news/2012/05/21/four-climbers-from-canada-china-germany-and-south-korea-die-whilst-returning-from-the-summit-of-mount-everest-a-nepalese-guide-is-missing.md)
-_Context: Canada, Chinese, German, Mount Everest, Nepal, South Korea_
+_Context: Canada, Chinese, Germany, Mount Everest, Nepal, South Korea_
 
 ##### A bus plunges 80|m|ft off a cliff
 ### [At least 13 people &ndash; most of them students &ndash; are killed and 22 others are injured after a bus plunges 80 m off a cliff in Albania. ](/news/2012/05/21/at-least-13-people-ndash-most-of-them-students-ndash-are-killed-and-22-others-are-injured-after-a-bus-plunges-80-m-off-a-cliff-in-albani.md)
@@ -49,7 +49,7 @@ At least 11 people - most of them students - are killed and 22 injured when a bu
 
 ##### Australia
 ### [Australian airline Qantas announces cuts to 500 maintenance jobs. ](/news/2012/05/21/australian-airline-qantas-announces-cuts-to-500-maintenance-jobs.md)
-_Context: Australia, Qantas_
+_Context: Australia, Qantas Airways_
 
 ##### Lebanese
 ### [Two people are killed in ongoing clashes in the Lebanese capital Beirut between supporters and opponents of Syrian President Bashar al-Assad. ](/news/2012/05/21/two-people-are-killed-in-ongoing-clashes-in-the-lebanese-capital-beirut-between-supporters-and-opponents-of-syrian-president-bashar-al-assad.md)

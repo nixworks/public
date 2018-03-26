@@ -19,9 +19,9 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 ### [ Former Haitian prime minister Yvon Neptune demands that the current government drops its claim that he organized a massacre in February 2004. Neptune has been on a hunger strike for 15 days and refuses treatment. ](/news/2005/05/2/former-haitian-prime-minister-yvon-neptune-demands-that-the-current-government-drops-its-claim-that-he-organized-a-massacre-in-february-200.md)
 _Context: Haiti, Yvon Neptune, hunger strike_
 
-##### German
+##### Germany
 ### [ In Germany, prosecutors demand 8-year sentence to neo-nazi leader Martin Weise and three others. ](/news/2005/05/2/in-germany-prosecutors-demand-8-year-sentence-to-neo-nazi-leader-martin-weise-and-three-others.md)
-_Context: German, Martin Weise, neo-nazi_
+_Context: Germany, Martin Weise, neo-nazi_
 
 ##### Cairo terrorism
 ### [ Cairo terrorism: Following Saturday's terrorist incidents in Cairo, some 200 people are brought in for questioning by Egyptian police. Ten people were injured in the attacks, and three militants were killed. ](/news/2005/05/2/cairo-terrorism-following-saturday-s-terrorist-incidents-in-cairo-some-200-people-are-brought-in-for-questioning-by-egyptian-police-ten.md)
@@ -49,7 +49,7 @@ _Context: Al Amarah, Iraq, Newcastle upon Tyne, United Kingdom_
 
 ##### Pagja
 ### [ Dozens of people reportedly die after a large explosion in a munitions dump in Pagja, Afghanistan 50 miles north of Kabul. ](/news/2005/05/2/dozens-of-people-reportedly-die-after-a-large-explosion-in-a-munitions-dump-in-pagja-afghanistan-50-miles-north-of-kabul.md)
-_Context: Afghan, Kabul, Pagja_
+_Context: Afghanistan, Kabul, Pagja_
 
 ##### Israel
 ### [ Following an Israeli raid on the Palestinian city of Tulkarm, one Israeli soldier and one Islamic Jihad leader are killed. The soldier was killed in a gunfight with 3 members of Palestinian Islamic Jihad. The three were suspected to have been part of the cell which was involved in Tel Aviv "Stage" club bombing in February 2005. Shafiq Abdul Rani, the leader of the Jihad cell in Tulkarm was killed and another militant was arrested. ](/news/2005/05/2/following-an-israeli-raid-on-the-palestinian-city-of-tulkarm-one-israeli-soldier-and-one-islamic-jihad-leader-are-killed-the-soldier-was.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2009/04/12/index.html)  [JSON](2009/04/12/index.json)  [XML](200
 
 ##### Captain
 ### [ Captain Richard Phillips of the MV "Maersk Alabama", who was abducted by Somali pirates, is rescued. ](/news/2009/04/12/captain-richard-phillips-of-the-mv-maersk-alabama-who-was-abducted-by-somali-pirates-is-rescued.md)
-_Context: ''Maersk Alabama'', Captain, MV, Richard Phillips, Somali, Somali pirates_
+_Context: ''Maersk Alabama'', Captain, MV, Richard Phillips, Somali pirates, Somalia_
 
 ##### Angel Cabrera
 ### [ Angel Cabrera wins the PGA Tour's 2009 Masters Tournament in Augusta, Georgia, United States. ](/news/2009/04/12/angel-cabrera-wins-the-pga-tour-s-2009-masters-tournament-in-augusta-georgia-united-states.md)

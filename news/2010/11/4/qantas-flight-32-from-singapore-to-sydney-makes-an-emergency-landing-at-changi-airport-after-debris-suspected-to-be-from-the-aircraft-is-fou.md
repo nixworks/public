@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/4/qantas-flight-32-from-singapore-to-sydney-makes-
 
 ### [2010-11-4](/news/2010/11/4/index.md)
 
-##### Qantas
+##### Qantas Airways
 # Qantas Flight 32 from Singapore to Sydney makes an emergency landing at Changi Airport after debris suspected to be from the aircraft is found on Batam Island in Indonesia. 
 
 Qantas has grounded its Airbus A380s after a mid-air explosion forced an emergency landing in Singapore.

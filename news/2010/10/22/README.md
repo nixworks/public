@@ -79,7 +79,7 @@ _Context: China, unemployment rate_
 ### [The Premier of Saskatchewan Brad Wall calls on the Government of Canada to reject a $28.6 billion takeover bid by BHP Billiton for the Potash Corporation of Saskatchewan. ](/news/2010/10/22/the-premier-of-saskatchewan-brad-wall-calls-on-the-government-of-canada-to-reject-a-28-6-billion-takeover-bid-by-bhp-billiton-for-the-potas.md)
 _Context: BHP Billiton, Brad Wall, Canadian government, Potash Corporation of Saskatchewan, Premier, takeover_
 
-##### France
+##### French
 ### [French riot police take over the Grandpuits Total S.A. oil refinery which had been blockaded by strikers for more than ten days. ](/news/2010/10/22/french-riot-police-take-over-the-grandpuits-total-s-a-oil-refinery-which-had-been-blockaded-by-strikers-for-more-than-ten-days.md)
 Clashes break out outside a major oil refinery in France after riot police move in to clear strikers who blockaded the terminal for 10 days.
 
@@ -97,7 +97,7 @@ _Context: International Religions Today Film Festival, Iran, Italy_
 
 ##### Muslim
 ### [Fighting between pro-government forces and Islamist insurgents in Beled-Hawa district of Somalia near the Kenyan border has killed 12 people. ](/news/2010/10/22/fighting-between-pro-government-forces-and-islamist-insurgents-in-beled-hawa-district-of-somalia-near-the-kenyan-border-has-killed-12-people.md)
-_Context: Beled-Hawa, Kenya, Muslim, Somali_
+_Context: Beled-Hawa, Kenya, Muslim, Somalia_
 
 ##### Mosque
 ### [At least two people are killed following a blast near a mosque in Peshawar, Pakistan. ](/news/2010/10/22/at-least-two-people-are-killed-following-a-blast-near-a-mosque-in-peshawar-pakistan.md)

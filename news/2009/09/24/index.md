@@ -97,7 +97,7 @@ _Context: Baghdad, al-Qaeda_
 
 ##### Czech Republic
 ### [ Czech President Vaclav Klaus says he is "adamant" Irish voters will reject the European Union's Treaty of Lisbon when they vote on it again in the country's 2 October referendum, meaning his unwillingness to sign the treaty will be justified. ](/news/2009/09/24/czech-president-va-clav-klaus-says-he-is-adamant-irish-voters-will-reject-the-european-union-s-treaty-of-lisbon-when-they-vote-on-it-agai.md)
-_Context: Czech Republic, European Union, Irish, President, Treaty of Lisbon, Vaclav Klaus, the second Irish referendum_
+_Context: Czech Republic, EU, Irish, President, Treaty of Lisbon, Vaclav Klaus, the second Irish referendum_
 
 ## [Previous Day...](/news/2009/09/23/index.md)
 

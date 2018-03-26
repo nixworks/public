@@ -5,7 +5,7 @@ Formats: [HTML](2008/06/2/index.html)  [JSON](2008/06/2/index.json)  [XML](2008/
 
 ##### United Nations
 ### [ The United Nations Security Council unanimously passes a declaration allowing foreign naval vessels to enter Somali territorial waters to deal with pirates. ](/news/2008/06/2/the-united-nations-security-council-unanimously-passes-a-declaration-allowing-foreign-naval-vessels-to-enter-somali-territorial-waters-to-d.md)
-_Context: Somali, Somali pirates, United Nations, United Nations Security Council, maritime forces_
+_Context: Somali pirates, Somalia, United Nations, United Nations Security Council, maritime forces_
 
 ##### United Nations Security Council
 ### [ The United Nations Security Council goes on a mission to Africa with the first leg of the mission to Djibouti to discuss the Somali Civil War. ](/news/2008/06/2/the-united-nations-security-council-goes-on-a-mission-to-africa-with-the-first-leg-of-the-mission-to-djibouti-to-discuss-the-somali-civil-w.md)
@@ -33,7 +33,7 @@ _Context: MOA-2007-BLG-192-L b, Mount John University Observatory, extrasolar pl
 
 ##### SNCF
 ### [ A SNCF train runs into a school bus at a level crossing at Mesinges, near the town of Allinges in the mountainous Haute Savoie area of France with at least six people killed. ](/news/2008/06/2/a-sncf-train-runs-into-a-school-bus-at-a-level-crossing-at-mesinges-near-the-town-of-allinges-in-the-mountainous-haute-savoie-area-of-fran.md)
-_Context: Allinges, France, Haute Savoie, SNCF, level crossing_
+_Context: Allinges, French, Haute Savoie, SNCF, level crossing_
 
 ## [Previous Day...](/news/2008/06/1/index.md)
 

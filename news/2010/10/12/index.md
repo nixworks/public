@@ -77,7 +77,7 @@ A police station in the northern Nigerian city of Maiduguri is destroyed and thr
 
 ##### NATO
 ### [Two people are killed and ten injured after a NATO helicopter explodes just after landing in eastern Afghanistan. ](/news/2010/10/12/two-people-are-killed-and-ten-injured-after-a-nato-helicopter-explodes-just-after-landing-in-eastern-afghanistan.md)
-_Context: Afghan, NATO_
+_Context: Afghanistan, NATO_
 
 ##### Yemen
 ### [Two explosions occur in the southern Yemeni city of Aden, killing one person and injuring several others. The Al-Qaeda offshoot in the country also states its intention to establish a "new army" to overthrow the President. ](/news/2010/10/12/two-explosions-occur-in-the-southern-yemeni-city-of-aden-killing-one-person-and-injuring-several-others-the-al-qaeda-offshoot-in-the-count.md)

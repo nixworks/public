@@ -9,7 +9,7 @@ _Context: Albania, Prime Minister, Sali Berisha_
 
 ##### United Kingdom
 ### [ A British-led military offensive, Operation Panther's Claw, succeeds in clearing the Taliban from parts of southern Helmand Province in Afghanistan. ](/news/2009/07/27/a-british-led-military-offensive-operation-panther-s-claw-succeeds-in-clearing-the-taliban-from-parts-of-southern-helmand-province-in-afg.md)
-_Context: Afghan, Helmand Province, Operation Panther's Claw, Taliban, United Kingdom_
+_Context: Afghanistan, Helmand Province, Operation Panther's Claw, Taliban, United Kingdom_
 
 ##### Bokode
 ### [ Researchers outline bokodes, a proposed replacement for the black and white stripes of the traditional barcode. ](/news/2009/07/27/researchers-outline-bokodes-a-proposed-replacement-for-the-black-and-white-stripes-of-the-traditional-barcode.md)
@@ -23,11 +23,11 @@ Garda&iacute; in Waterford are investigating after a significant amount of damag
 ### [ A Saudi man facing flogging or imprisonment for speaking of his illegal sexual conquests on television apologises for his actions. ](/news/2009/07/27/a-saudi-man-facing-flogging-or-imprisonment-for-speaking-of-his-illegal-sexual-conquests-on-television-apologises-for-his-actions.md)
 _Context: sex_
 
-##### German
+##### Germany
 ### [ German health minister Ulla Schmidt is criticised when her official car is stolen during the burglarization of her driver's hotel room in Alicante, Spain. ](/news/2009/07/27/german-health-minister-ulla-schmidt-is-criticised-when-her-official-car-is-stolen-during-the-burglarization-of-her-driver-s-hotel-room-in-a.md)
-_Context: Alicante, German, Spanish, Ulla Schmidt, health minister_
+_Context: Alicante, Germany, Spanish, Ulla Schmidt, health minister_
 
-##### France
+##### French
 ### [ French President Nicolas Sarkozy leaves hospital after tests due to his fainting fits. ](/news/2009/07/27/french-president-nicolas-sarkozy-leaves-hospital-after-tests-due-to-his-fainting-fits.md)
 French President Nicolas Sarkozy has left hospital after tests confirmed that his collapse was unrelated to any heart problem.
 

@@ -13,7 +13,7 @@ _Context: Army, Batticaloa, Sri Lanka, Sri Lankan Civil War, Tamil Tigers_
 
 ##### Insurgency in Somalia
 ### [ Islamist insurgency in Somalia (2007-present): At least seven people die in heavy fighting in Mogadishu as Somalian and Ethiopian troops enter an insurgent stronghold. ](/news/2007/03/21/islamist-insurgency-in-somalia-2007apresent-at-least-seven-people-die-in-heavy-fighting-in-mogadishu-as-somalian-and-ethiopian-troops.md)
-_Context: Ethiopia, Insurgency in Somalia, Mogadishu, Somali, heavy fighting, troops_
+_Context: Ethiopia, Insurgency in Somalia, Mogadishu, Somalia, heavy fighting, troops_
 
 ##### Strike
 ### [ A labour strike in Israel led by union Histadrut shuts down all government offices and transportation. ](/news/2007/03/21/a-labour-strike-in-israel-led-by-union-histadrut-shuts-down-all-government-offices-and-transportation.md)

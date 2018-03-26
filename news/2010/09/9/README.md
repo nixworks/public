@@ -53,11 +53,11 @@ _Context: Archaeologist, Kings of Scotland, Robert the Bruce, Scone Palace_
 
 ##### United States Marines
 ### [United States Marines board and seize control of a German-owned vessel, Magellan Star, previously captured by pirates off the coast of Somalia. ](/news/2010/09/9/united-states-marines-board-and-seize-control-of-a-german-owned-vessel-magellan-star-previously-captured-by-pirates-off-the-coast-of-somal.md)
-_Context: German, Magellan Star, Somali, United States Marines, pirate_
+_Context: Germany, Magellan Star, Somalia, United States Marines, pirate_
 
 ##### Battle of Mogadishu (2010)
 ### [A bomb explodes at Mogadishu Airport in Somalia. ](/news/2010/09/9/a-bomb-explodes-at-mogadishu-airport-in-somalia.md)
-_Context: Battle of Mogadishu (2010), Mogadishu Airport, Somali_
+_Context: Battle of Mogadishu (2010), Mogadishu Airport, Somalia_
 
 ##### 2010 Vladikavkaz bombing
 ### [At least 16 people are killed and 98 injured in an apparent suicide bombing in the Russian Caucasus city of Vladikavkaz. ](/news/2010/09/9/at-least-16-people-are-killed-and-98-injured-in-an-apparent-suicide-bombing-in-the-russian-caucasus-city-of-vladikavkaz.md)

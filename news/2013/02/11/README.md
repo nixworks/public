@@ -33,7 +33,7 @@ _Context: Cilvegozu, Hatay Province, Reyhanli, Syria, Turkey_
 
 ##### Gao
 ### [Insurgents launch an attack on the strategic city of Gao, capturing a police station and sparking a day-long firefight that included Malian troops, as well as French attack helicopters. ](/news/2013/02/11/insurgents-launch-an-attack-on-the-strategic-city-of-gao-capturing-a-police-station-and-sparking-a-day-long-firefight-that-included-malian.md)
-_Context: France, Gao, Mali, helicopter_
+_Context: French, Gao, Mali, helicopter_
 
 ## [Previous Day...](/news/2013/02/10/index.md)
 

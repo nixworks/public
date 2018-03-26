@@ -21,7 +21,7 @@ _Context: Andy Pettitte, Mitchell Report, New York Yankees, elbow, human growth 
 
 ##### Sikhanyiso Ndlovu
 ### [ Sikhanyiso Ndlovu, the Information Minister of Zimbabwe, calls Chancellor Angela Merkel of Germany a "Nazi". Ndlovu responded to the German government's criticism of rising human rights abuses in Zimbabwe by telling Merkel to "shut up". ](/news/2007/12/15/sikhanyiso-ndlovu-the-information-minister-of-zimbabwe-calls-chancellor-angela-merkel-of-germany-a-nazi-ndlovu-responded-to-the-german.md)
-_Context: Angela Merkel, German, Human rights in Zimbabwe, Nazi, Sikhanyiso Ndlovu, West German chancellor, Zimbabwe_
+_Context: Angela Merkel, Germany, Human rights in Zimbabwe, Nazi, Sikhanyiso Ndlovu, West German chancellor, Zimbabwe_
 
 ## [Previous Day...](/news/2007/12/14/index.md)
 

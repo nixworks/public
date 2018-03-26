@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/19/france-s-government-begins-to-deport-thousands-
 
 ### [2010-08-19](/news/2010/08/19/index.md)
 
-##### France
+##### French
 # France's government begins to deport thousands of Romani people, who are mainly from Romania and Bulgaria; Romania fears this will lead to xenophobic tensions. 
 
 
@@ -19,8 +19,8 @@ Formats: [HTML](/news/2010/08/19/france-s-government-begins-to-deport-thousands-
 
 ### Related:
 
-1. [Bulgarian Romani protest outside the French embassy in Sofia about expulsions of Romani from France. ](/news/2010/09/18/bulgarian-romani-protest-outside-the-french-embassy-in-sofia-about-expulsions-of-romani-from-france.md) _Context: Bulgaria, France, Roma_
+1. [Bulgarian Romani protest outside the French embassy in Sofia about expulsions of Romani from France. ](/news/2010/09/18/bulgarian-romani-protest-outside-the-french-embassy-in-sofia-about-expulsions-of-romani-from-france.md) _Context: Bulgaria, French, Roma_
 2. [The European Parliament votes to end visa-free travel for United States citizens after the U.S. government failed to agree to visa-free travel for citizens of five European Union member states, Bulgaria, Croatia, Cyprus, Poland and Romania. The resolution is non-binding. ](/news/2017/03/3/the-european-parliament-votes-to-end-visa-free-travel-for-united-states-citizens-after-the-u-s-government-failed-to-agree-to-visa-free-trav.md) _Context: Bulgaria, Romania_
-3. [Thirteen are killed and 34 others injured after a bus carrying Erasmus exchange students returning from the renowned Falles fireworks festival in Valencia, crashes near Freginals, Spain. The regional government of Catalonia said in a statement that, "... according to the latest data, the ill-fated bus had students from Hungary, Germany, Sweden, Norway, Switzerland, Czech Republic, United Kingdom, Italy, Peru, Bulgaria, Poland, Ireland, Japan, Ukraine, Holland, Belgium, France, Palestine, Turkey, (and) Greece." ](/news/2016/03/20/thirteen-are-killed-and-34-others-injured-after-a-bus-carrying-erasmus-exchange-students-returning-from-the-renowned-falles-fireworks-festiv.md) _Context: Bulgaria, France_
+3. [Thirteen are killed and 34 others injured after a bus carrying Erasmus exchange students returning from the renowned Falles fireworks festival in Valencia, crashes near Freginals, Spain. The regional government of Catalonia said in a statement that, "... according to the latest data, the ill-fated bus had students from Hungary, Germany, Sweden, Norway, Switzerland, Czech Republic, United Kingdom, Italy, Peru, Bulgaria, Poland, Ireland, Japan, Ukraine, Holland, Belgium, France, Palestine, Turkey, (and) Greece." ](/news/2016/03/20/thirteen-are-killed-and-34-others-injured-after-a-bus-carrying-erasmus-exchange-students-returning-from-the-renowned-falles-fireworks-festiv.md) _Context: Bulgaria, French_
 4. [A train hits a van at a level crossing near Rossano, Province of Cosenza, Calabria region, Italy, killing at least six workers from Romania and Bulgaria. ](/news/2012/11/25/a-train-hits-a-van-at-a-level-crossing-near-rossano-province-of-cosenza-calabria-region-italy-killing-at-least-six-workers-from-romania.md) _Context: Bulgaria, Romania_
-5. [Forest fires in Catalonia, Spain kill four people, with fires also in France, Portugal and Romania. ](/news/2012/07/23/forest-fires-in-catalonia-spain-kill-four-people-with-fires-also-in-france-portugal-and-romania.md) _Context: France, Romania_
+5. [Forest fires in Catalonia, Spain kill four people, with fires also in France, Portugal and Romania. ](/news/2012/07/23/forest-fires-in-catalonia-spain-kill-four-people-with-fires-also-in-france-portugal-and-romania.md) _Context: French, Romania_

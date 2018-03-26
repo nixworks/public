@@ -35,9 +35,9 @@ Michael Mukasey took office as attorney general on Friday, the Justice Departmen
 ### [ A United States Army UH-60 Black Hawk helicopter crashes in Santa Lucia di Piave, Italy, killing four people and injuring six. ](/news/2007/11/8/a-united-states-army-uh-60-black-hawk-helicopter-crashes-in-santa-lucia-di-piave-italy-killing-four-people-and-injuring-six.md)
 _Context: Santa Lucia di Piave, UH-60 Black Hawk, helicopter_
 
-##### European Union
+##### EU
 ### [ EU interior ministers agreed that nine member states from central and eastern Europe are sufficiently prepared to join EU's Schengen border-free zone on December 21. ](/news/2007/11/8/eu-interior-ministers-agreed-that-nine-member-states-from-central-and-eastern-europe-are-sufficiently-prepared-to-join-eu-s-schengen-border.md)
-_Context: European Union, Schengen Agreement_
+_Context: EU, Schengen Agreement_
 
 ## [Previous Day...](/news/2007/11/7/index.md)
 

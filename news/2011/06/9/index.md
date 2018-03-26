@@ -27,9 +27,9 @@ _Context: Australian Federal Police, Christmas Island Immigration Reception and 
 ### [Italian communist militant Cesare Battisti is freed from jail in Brazil after the Brazilian Constitutional Court rules against extraditing him to face charges in Italy. ](/news/2011/06/9/italian-communist-militant-cesare-battisti-is-freed-from-jail-in-brazil-after-the-brazilian-constitutional-court-rules-against-extraditing-h.md)
 _Context: Brazil, Italian, Italy, Supreme Court, communist_
 
-##### Saudi
+##### Saudi Arabia
 ### [Five Saudi women are arrested for practising driving. ](/news/2011/06/9/five-saudi-women-are-arrested-for-practising-driving.md)
-_Context: Saudi_
+_Context: Saudi Arabia_
 
 ##### Eritrea
 ### [Eritrea accuses four Britons of espionage and terrorism. ](/news/2011/06/9/eritrea-accuses-four-britons-of-espionage-and-terrorism.md)
@@ -63,7 +63,7 @@ Yemeni President Ali Abdullah Saleh has undergone &quot;successful&quot; surgery
 ### [Turkey sets up a US$100 million fund to support the Libyan rebel National Transitional Council. ](/news/2011/06/9/turkey-sets-up-a-us-100-million-fund-to-support-the-libyan-rebel-national-transitional-council.md)
 _Context: Libya, National Transitional  Council, Turkey_
 
-##### Afghan
+##### Afghanistan
 ### [At least nine people die in Afghanistan after a gunman attacks a wedding party in the Dur Baba District of Nangarhar Province. ](/news/2011/06/9/at-least-nine-people-die-in-afghanistan-after-a-gunman-attacks-a-wedding-party-in-the-dur-baba-district-of-nangarhar-province.md)
 Nine people are killed and nine wounded as unidentified gunmen attack a wedding party in eastern Afghanistan, officials say.
 

@@ -31,7 +31,7 @@ _Context: Hong Kong Police Force, Mong Kok_
 ### [The UN Relief and Works Agency for Palestine Refugees in the Near East declares a state of emergency on the Gaza Strip following heavy floods. ](/news/2014/11/27/the-un-relief-and-works-agency-for-palestine-refugees-in-the-near-east-declares-a-state-of-emergency-on-the-gaza-strip-following-heavy-flood.md)
 _Context: Gaza Strip, UN Relief and Works Agency for Palestine Refugees in the Near East, states of emergency_
 
-##### France
+##### French
 ### [France sets a new record for unemployment with 3.46 million recorded in October. ](/news/2014/11/27/france-sets-a-new-record-for-unemployment-with-3-46-million-recorded-in-october.md)
 Unemployment in France has soared in October, with a record 3.46 million people claiming jobless benefits.
 

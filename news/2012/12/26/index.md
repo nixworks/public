@@ -49,7 +49,7 @@ _Context: Dennis O'Driscoll, Irish_
 
 ##### Afghans
 ### [A suicide bomber kills himself and three Afghans (a guard and two civilians) outside the perimeter of Forward Operating Base Chapman in Khost, Afghanistan, the scene of an earlier attack in December 2009. ](/news/2012/12/26/a-suicide-bomber-kills-himself-and-three-afghans-a-guard-and-two-civilians-outside-the-perimeter-of-forward-operating-base-chapman-in-khos.md)
-_Context: Afghan, Afghans, Forward Operating Base Chapman, Khost_
+_Context: Afghanistan, Afghans, Forward Operating Base Chapman, Khost_
 
 ## [Previous Day...](/news/2012/12/25/index.md)
 

@@ -35,7 +35,7 @@ _Context: Western Sahara, homeless, refugees_
 
 ##### Oxfam
 ### [ Oxfam reports hundreds of thousands are affected by severe water shortages in Kenya and Somalia. ](/news/2006/02/16/oxfam-reports-hundreds-of-thousands-are-affected-by-severe-water-shortages-in-kenya-and-somalia.md)
-_Context: Kenya, Oxfam, Somali_
+_Context: Kenya, Oxfam, Somalia_
 
 ## [Previous Day...](/news/2006/02/15/index.md)
 

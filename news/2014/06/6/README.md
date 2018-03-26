@@ -45,7 +45,7 @@ _Context: Cristina Scuccia, Nun, The Voice of Italy_
 
 ##### Normandy
 ### [World leaders travel to Normandy in France to commemorate the 70th anniversary of D-Day, the first day of the Western Allies Invasion of Normandy during World War II. ](/news/2014/06/6/world-leaders-travel-to-normandy-in-france-to-commemorate-the-70th-anniversary-of-d-day-the-first-day-of-the-western-allies-invasion-of-nor.md)
-_Context: D-Day, France, Invasion of Normandy, Normandy, Western Allies, World War II_
+_Context: D-Day, French, Invasion of Normandy, Normandy, Western Allies, World War II_
 
 ##### Iraq
 ### [Attacks across Iraq kill 27 people. ](/news/2014/06/6/attacks-across-iraq-kill-27-people.md)

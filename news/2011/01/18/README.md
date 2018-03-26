@@ -11,9 +11,9 @@ Sen. Kent Conrad said Tuesday he wants to concentrate on the problems facing Ame
 ### [Voting continues at a congress of the Communist Party of Vietnam as it selects a new leadership. ](/news/2011/01/18/voting-continues-at-a-congress-of-the-communist-party-of-vietnam-as-it-selects-a-new-leadership.md)
 _Context: Communist Party, Vietnam_
 
-##### Qatar Emir
+##### Sheikh
 ### [Emir of Qatar Sheikh Hamad bin Khalifa Al Thani appoints Mohammed Saleh al-Sada as Energy Minister, succeeding Abdullah Al-Attiyah in a cabinet reshuffle. ](/news/2011/01/18/emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-appoints-mohammed-saleh-al-sada-as-energy-minister-succeeding-abdullah-al-attiyah-in-a-cabi.md)
-_Context: Abdullah Al-Attiyah, Energy Minister, Hamad bin Khalifa Al Thani, Qatar, Qatar Emir_
+_Context: Abdullah Al-Attiyah, Energy Minister, Hamad bin Khalifa Al Thani, Qatar, Sheikh_
 
 ##### Taoiseach
 ### [Taoiseach Brian Cowen wins a vote of confidence in his leadership, a secret ballot held at a meeting of the Fianna Fail parliamentary party in Dublin. ](/news/2011/01/18/taoiseach-brian-cowen-wins-a-vote-of-confidence-in-his-leadership-a-secret-ballot-held-at-a-meeting-of-the-fianna-fa-il-parliamentary-party.md)
@@ -41,7 +41,7 @@ Chinese President Hu Jintao kicks off a four-day US visit with a rare private di
 
 ##### Puntland
 ### [The Puntland autonomous region of Somalia says it is "breaking away" from the federation until a legitimate government is put in place. ](/news/2011/01/18/the-puntland-autonomous-region-of-somalia-says-it-is-breaking-away-from-the-federation-until-a-legitimate-government-is-put-in-place.md)
-_Context: Puntland, Somali_
+_Context: Puntland, Somalia_
 
 ##### President of Russia
 ### [President of Russia Dmitry Medvedev, on his first visit to the West Bank as head of state, confirms "support [for] the inalienable right of the Palestinian people to an independent state with its capital in East Jerusalem." ](/news/2011/01/18/president-of-russia-dmitry-medvedev-on-his-first-visit-to-the-west-bank-as-head-of-state-confirms-support-for-the-inalienable-right-of.md)
@@ -75,7 +75,7 @@ Farmers in Argentina are halting wheat, maize and soy sales for seven days in pr
 ### [TV channel Headlines Today alleges that some "Indian-sounding names" feature in Swiss Bank secret accounts data retrieved from a former Swiss banker by Julian Assange, spokesperson for the WikiLeaks website. ](/news/2011/01/18/tv-channel-headlines-today-alleges-that-some-indian-sounding-names-feature-in-swiss-bank-secret-accounts-data-retrieved-from-a-former-swis.md)
 A television channel on Tuesday claimed that some Indian-sounding names figure in the Swiss Bank secret accounts data which were handed over to WikiLeaks founder Julian Assange by a former Swiss banker. 
 
-##### European Union
+##### EU
 ### [European Union finance ministers agree to more stringent methodology to "stress test" the same 91 European banks tested in 2010. This is due to happen in May. ](/news/2011/01/18/european-union-finance-ministers-agree-to-more-stringent-methodology-to-stress-test-the-same-91-european-banks-tested-in-2010-this-is-due.md)
 EU finance ministers agree to more stringent methodology to test if European banks can indeed weather financial crisis.
 

@@ -23,9 +23,9 @@ Dzhokhar Tsarnaev, the surviving Boston Marathon bombing suspect, was indicted T
 ### [The President of South Korea Park Geun-hye arrives in the People's Republic of China for four days of talks with the President of China Xi Jinping in an effort to reduce tensions on the Korean Peninsula. ](/news/2013/06/27/the-president-of-south-korea-park-geun-hye-arrives-in-the-people-s-republic-of-china-for-four-days-of-talks-with-the-president-of-china-xi-j.md)
 _Context: China, Korean, Park Geun-hye, South Korean President, Xi Jinping, president_
 
-##### European Union
+##### EU
 ### [European leaders agree to back a deal on the European Union's long-term budget after a deal is done on a rebate for the United Kingdom. ](/news/2013/06/27/european-leaders-agree-to-back-a-deal-on-the-european-union-s-long-term-budget-after-a-deal-is-done-on-a-rebate-for-the-united-kingdom.md)
-_Context: European Union, United Kingdom_
+_Context: EU, United Kingdom_
 
 ## [Previous Day...](/news/2013/06/26/index.md)
 

@@ -29,7 +29,7 @@ The vote followed the end of months of protests against pro-Thaksin parties that
 
 ##### Montenegro
 ### [ Montenegro presents its official application for European Union membership to current EU Council President Nicolas Sarkozy, hoping to win candidate status in 2009. ](/news/2008/12/15/montenegro-presents-its-official-application-for-european-union-membership-to-current-eu-council-president-nicolas-sarkozy-hoping-to-win-c.md)
-_Context: Council of the European Union, European Union, Montenegro, Nicolas Sarkozy, presents its official application, the Council of_
+_Context: Council of the European Union, EU, Montenegro, Nicolas Sarkozy, presents its official application, the Council of_
 
 ## [Previous Day...](/news/2008/12/14/index.md)
 

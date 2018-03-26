@@ -57,7 +57,7 @@ _Context: Argentina, Argentine President, Cristina Fernandez de Kirchner, Falkla
 
 ##### Japan
 ### [Japan protests to France about the sale of DCNS helicopter landing equipment to the People's Republic of China. ](/news/2013/03/18/japan-protests-to-france-about-the-sale-of-dcns-helicopter-landing-equipment-to-the-people-s-republic-of-china.md)
-_Context: China, DCNS, France, Japan_
+_Context: China, DCNS, French, Japan_
 
 ##### U.S. Marines
 ### [Seven U.S. Marines are killed and seven others are injured when a mortar explodes during a training exercise in the Hawthorne Army Depot in Hawthorne, Nevada, United States. ](/news/2013/03/18/seven-u-s-marines-are-killed-and-seven-others-are-injured-when-a-mortar-explodes-during-a-training-exercise-in-the-hawthorne-army-depot-in.md)
@@ -73,7 +73,7 @@ Militants kill at least four people and injure 29 in an attack on a court and pr
 
 ##### Car bombing
 ### [A car bombing in the center of the Somali capital, Mogadishu, kills at least 10 people and injures 20 others. ](/news/2013/03/18/a-car-bombing-in-the-center-of-the-somali-capital-mogadishu-kills-at-least-10-people-and-injures-20-others.md)
-_Context: Mogadishu, Somali, car bombing_
+_Context: Mogadishu, Somalia, car bombing_
 
 ##### Syrian Air Force
 ### [Fighter jets from the Syrian Air Force fire rockets into northern Lebanon with no casualties reported. ](/news/2013/03/18/fighter-jets-from-the-syrian-air-force-fire-rockets-into-northern-lebanon-with-no-casualties-reported.md)

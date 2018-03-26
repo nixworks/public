@@ -7,9 +7,9 @@ Formats: [HTML](2009/07/20/index.html)  [JSON](2009/07/20/index.json)  [XML](200
 ### [ Tuvalu announces its plan to become the world's first carbon neutral country by 2020. ](/news/2009/07/20/tuvalu-announces-its-plan-to-become-the-world-s-first-carbon-neutral-country-by-2020.md)
 The tiny South Pacific island nation of Tuvalu could become the first zero-carbon country after vowing to abandon fossil fuels and generate all of its energy from renewable sources by 2020.
 
-##### German
+##### Germany
 ### [ 260 cars pile up in Germany. ](/news/2009/07/20/260-cars-pile-up-in-germany.md)
-_Context: German_
+_Context: Germany_
 
 ##### India
 ### [ India and the United States sign a defence pact. ](/news/2009/07/20/india-and-the-united-states-sign-a-defence-pact.md)

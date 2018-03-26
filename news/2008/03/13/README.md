@@ -7,9 +7,9 @@ Formats: [HTML](2008/03/13/index.html)  [JSON](2008/03/13/index.json)  [XML](200
 ### [ Turkish prosecutor Abdurrahman Yalcinkaya asks the Constitutional Court of Turkey to ban the ruling Justice and Development Party for anti-secular activities. ](/news/2008/03/13/turkish-prosecutor-abdurrahman-yalassa-nkaya-asks-the-constitutional-court-of-turkey-to-ban-the-ruling-justice-and-development-party-for-ant.md)
 _Context: Abdurrahman Yalcinkaya, Constitutional Court of Turkey, Turkey, ruling party, secular_
 
-##### European Union
+##### EU
 ### [ Leaders of the European Union meet in Brussels, Belgium with climate change and energy security dominating the agenda. ](/news/2008/03/13/leaders-of-the-european-union-meet-in-brussels-belgium-with-climate-change-and-energy-security-dominating-the-agenda.md)
-_Context: Belgium, Brussels, European Union, climate change, energy security_
+_Context: Belgium, Brussels, EU, climate change, energy security_
 
 ##### Melbourne
 ### [ Melbourne, Adelaide and Hobart experience some of their warmest weather of record for this season as result of an Australian autumn heatwave. ](/news/2008/03/13/melbourne-adelaide-and-hobart-experience-some-of-their-warmest-weather-of-record-for-this-season-as-result-of-an-australian-autumn-heatwav.md)
@@ -37,7 +37,7 @@ A Chaldean Catholic archbishop who was kidnapped in Iraq last month was found de
 
 ##### Canadian House of Commons
 ### [ The Canadian House of Commons extends the Canadian military mission in Afghanistan until 2011. ](/news/2008/03/13/the-canadian-house-of-commons-extends-the-canadian-military-mission-in-afghanistan-until-2011.md)
-_Context: Afghan, Canadian Armed Forces, Canadian House of Commons, military mission_
+_Context: Afghanistan, Canadian Armed Forces, Canadian House of Commons, military mission_
 
 ##### Darfur Conflict
 ### [ Darfur Conflict: Chad's President Idriss Deby and Sudan's President Omar al-Bashir meet in Senegal to sign the Dakar Agreement, the sixth peace agreement in five years. ](/news/2008/03/13/darfur-conflict-chad-s-president-idriss-da-c-by-and-sudan-s-president-omar-al-bashir-meet-in-senegal-to-sign-the-dakar-agreement-the-sixth.md)

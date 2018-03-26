@@ -19,7 +19,7 @@ The 105-page draft legislation, obtained by NBC News, repeals much of the curren
 ### [A suspected drunken driver plows his car into a crowd watching the Krewe of Endymion parade at the New Orleans Mardi Gras. Dozens are injured, with 28 people, including a child and a police officer, taken to seven hospitals, five in critical condition. ](/news/2017/02/25/a-suspected-drunken-driver-plows-his-car-into-a-crowd-watching-the-krewe-of-endymion-parade-at-the-new-orleans-mardi-gras-dozens-are-injure.md)
 Suspected drunken driver was arrested after crash at North Carrollton and Orleans avenues.
 
-##### German
+##### Germany
 ### [German police shoot a man, who was trying to escape after apparently driving into a group of pedestrians in a central square in Heidelberg. A 73-year-old man was killed and two other people injured. Police do not believe terrorism is involved. ](/news/2017/02/25/german-police-shoot-a-man-who-was-trying-to-escape-after-apparently-driving-into-a-group-of-pedestrians-in-a-central-square-in-heidelberg.md)
 One man has died from his injuries and two others were injured after being struck by a car in Heidelberg. The knife-wielding driver was intercepted by a police patrol and shot by an officer following a brief standoff.
 

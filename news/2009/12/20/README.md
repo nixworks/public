@@ -49,7 +49,7 @@ _Context: Andry Rajoelina, Eugene Mangalaza, Madagascar, Prime Minister of Madag
 
 ##### Shia
 ### [ Shi'ites say Saudi air attacks on northern Yemen have led to the deaths of 54 people, including women and children. ](/news/2009/12/20/shi-ites-say-saudi-air-attacks-on-northern-yemen-have-led-to-the-deaths-of-54-people-including-women-and-children.md)
-_Context: Saudi, Shia, Yemen_
+_Context: Saudi Arabia, Shia, Yemen_
 
 ##### States of emergency
 ### [ A crisis state of emergency is declared when at least three people are killed, hundreds are wounded and buildings collapse when an earthquake strikes Malawi. ](/news/2009/12/20/a-crisis-state-of-emergency-is-declared-when-at-least-three-people-are-killed-hundreds-are-wounded-and-buildings-collapse-when-an-earthqua.md)

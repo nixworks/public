@@ -45,7 +45,7 @@ _Context: Ecuador, protested against being stripped of their bonuses_
 
 ##### South Korea
 ### [South Korea and the European Union sign a free trade agreement. ](/news/2010/10/6/south-korea-and-the-european-union-sign-a-free-trade-agreement.md)
-_Context: European Union, South Korea, free trade agreement_
+_Context: EU, South Korea, free trade agreement_
 
 ##### Tornado
 ### [Tornadoes hit Bellemont, Arizona in the southwest of the United States resulting in at least seven people being injured. ](/news/2010/10/6/tornadoes-hit-bellemont-arizona-in-the-southwest-of-the-united-states-resulting-in-at-least-seven-people-being-injured.md)

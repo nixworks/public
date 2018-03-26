@@ -13,11 +13,11 @@ Find the latest business news on Wall Street, jobs and the economy, the housing 
 
 ##### Safia Ahmed-jan
 ### [ Two gunmen kill Safia Ahmed-jan, the provincial director of Afghanistan's Ministry of Women's Affairs outside her home in Kandahar. ](/news/2006/09/25/two-gunmen-kill-safia-ahmed-jan-the-provincial-director-of-afghanistan-s-ministry-of-women-s-affairs-outside-her-home-in-kandahar.md)
-_Context: Afghan, Kandahar, Safia Ahmed-jan_
+_Context: Afghanistan, Kandahar, Safia Ahmed-jan_
 
 ##### Kismayo
 ### [ After taking over Kismayo, Somali Islamist militants open fire on anti-sharia protesters. Three deaths are being reported. ](/news/2006/09/25/after-taking-over-kismayo-somali-islamist-militants-open-fire-on-anti-sharia-protesters-three-deaths-are-being-reported.md)
-_Context: Islamists, Kismayo, Somali, sharia law_
+_Context: Islamists, Kismayo, Somalia, sharia law_
 
 ##### Maria Fyodorovna
 ### [ Remains of Dagmar of Denmark, the mother of the last Tsar of Russia, are transported from the Roskilde Cathedral to Saint Petersburg in order to be reburied in the Peter and Paul Cathedral on 28 September. ](/news/2006/09/25/remains-of-dagmar-of-denmark-the-mother-of-the-last-tsar-of-russia-are-transported-from-the-roskilde-cathedral-to-saint-petersburg-in-ord.md)

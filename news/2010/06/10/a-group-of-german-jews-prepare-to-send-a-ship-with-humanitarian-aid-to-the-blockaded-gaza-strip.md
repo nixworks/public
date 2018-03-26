@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/10/a-group-of-german-jews-prepare-to-send-a-ship-w
 
 ### [2010-06-10](/news/2010/06/10/index.md)
 
-##### German
+##### Germany
 # A group of German Jews prepare to send a ship with humanitarian aid to the blockaded Gaza Strip. 
 
 

@@ -33,7 +33,7 @@ _Context: Cairo, Egypt, Hosni Mubarak_
 
 ##### France-Russia relations
 ### [French National Front presidential candidate Marine Le Pen meets with Russian president Vladimir Putin and afterwards urges that European Union sanctions on Russia be lifted. ](/news/2017/03/24/french-national-front-presidential-candidate-marine-le-pen-meets-with-russian-president-vladimir-putin-and-afterwards-urges-that-european-un.md)
-_Context: European Union, France-Russia relations, Marine Le Pen, National Front, Russia, Vladimir Putin_
+_Context: EU, France-Russia relations, Marine Le Pen, National Front, Russia, Vladimir Putin_
 
 ##### 
 ### [Proactiva notes the finding of five corpses the Libyan coast; these were floating near two capsized boats which could each hold more than 100 people. ](/news/2017/03/24/proactiva-notes-the-finding-of-five-corpses-the-libyan-coast-these-were-floating-near-two-capsized-boats-which-could-each-hold-more-than-10.md)

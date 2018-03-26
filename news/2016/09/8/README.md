@@ -63,7 +63,7 @@ Judge lifts police ban, days after president accused courts of recklessness for 
 ### [Budi Waseso, head of Indonesia's National Narcotics Agency (BNN, Badan Narkotika Nasional, says he plans on copying Rodrigo Duterte's hardline tactics against drug traffickers, which have killed almost 3,000 people in the Philippines. ](/news/2016/09/8/budi-waseso-head-of-indonesia-s-national-narcotics-agency-bnn-badan-narkotika-nasional-says-he-plans-on-copying-rodrigo-duterte-s-hardli.md)
 Indonesia&#039;s anti-drugs chief says he supports implementing a bloody crackdown on traffickers like the war on crime in the Philippines.
 
-##### German
+##### Germany
 ### [German scientists confirm that the cause of the Great Plague of London from 1665&ndash;1666 was "Yersinia pestis" (cause of the Bubonic plague). ](/news/2016/09/8/german-scientists-confirm-that-the-cause-of-the-great-plague-of-london-from-1665-ndash-1666-was-yersinia-pestis-cause-of-the-bubonic-plag.md)
 DNA testing has for the first time confirmed the identity of the bacteria behind the Great Plague of London.
 

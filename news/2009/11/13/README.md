@@ -55,7 +55,7 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 ### [ Chinese nationals in Angola say they are increasingly being targeted in "mafia-style" attacks by Angolan gangs. ](/news/2009/11/13/chinese-nationals-in-angola-say-they-are-increasingly-being-targeted-in-mafia-style-attacks-by-angolan-gangs.md)
 _Context: Angola, China_
 
-##### Saudi
+##### Saudi Arabia
 ### [ At least 240 villages in southwestern Saudi Arabia are evacuated due to fighting between Yemeni Houthi rebels and Saudi forces along the border. ](/news/2009/11/13/at-least-240-villages-in-southwestern-saudi-arabia-are-evacuated-due-to-fighting-between-yemeni-houthi-rebels-and-saudi-forces-along-the-bo.md)
 * UNICEF says villages evacuated in S. Arabia, schools shut * Agency reports Yemeni children dying from malnutrition * UNHCR, ICRC say more civi
 

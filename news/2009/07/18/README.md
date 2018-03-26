@@ -41,7 +41,7 @@ _Context: Mauritanian, coup d'tat, presidential election_
 
 ##### Nachterstedt
 ### [ Three people are missing in Nachterstedt, Germany, after their home collapses into a lake. ](/news/2009/07/18/three-people-are-missing-in-nachterstedt-germany-after-their-home-collapses-into-a-lake.md)
-_Context: German, Nachterstedt_
+_Context: Germany, Nachterstedt_
 
 ##### Irish
 ### [ Ireland's Green Party, part of the ruling coalition, votes by a two to one majority to campaign for the Treaty of Lisbon prior to the 2 October referendum. ](/news/2009/07/18/ireland-s-green-party-part-of-the-ruling-coalition-votes-by-a-two-to-one-majority-to-campaign-for-the-treaty-of-lisbon-prior-to-the-2-oct.md)

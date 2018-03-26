@@ -47,9 +47,9 @@ _Context: China, Xinyang_
 ### [General Electric reports stronger than expected earnings, largely due to industrial sales outside the United States. ](/news/2011/07/22/general-electric-reports-stronger-than-expected-earnings-largely-due-to-industrial-sales-outside-the-united-states.md)
 General Electric Co notched a better-than-expected 21.6 percent rise in earnings, helped by strong demand for jet engines as well as equipment used in oil and natural gas production.
 
-##### Qantas
+##### Qantas Airways
 ### [Qantas pilots commence industrial action for the first time in 45 years. ](/news/2011/07/22/qantas-pilots-commence-industrial-action-for-the-first-time-in-45-years.md)
-_Context: Qantas, industrial action_
+_Context: Qantas Airways, industrial action_
 
 ##### Elliot Handler
 ### [Elliot Handler who cofounded Mattel with his wife dies at age 95. ](/news/2011/07/22/elliot-handler-who-cofounded-mattel-with-his-wife-dies-at-age-95.md)

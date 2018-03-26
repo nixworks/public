@@ -7,9 +7,9 @@ Formats: [HTML](2007/04/27/index.html)  [JSON](2007/04/27/index.json)  [XML](200
 ### [ Sheik Ahmad Bahr, acting speaker of the Palestinian Legislative Council and top Hamas official, declares in a sermon in Sudan his desire to kill all Jews and Americans "down to the very last one." ](/news/2007/04/27/sheik-ahmad-bahr-acting-speaker-of-the-palestinian-legislative-council-and-top-hamas-official-declares-in-a-sermon-in-sudan-his-desire-to.md)
 MEMRI&#039;s archive of Middle East reports includes translations, Special Dispatches, and Inquiry and Analysis papers from and about media and events in the region on a wide range of topics, from 1998 to the present.
 
-##### Saudi
+##### Saudi Arabia
 ### [ Saudi Arabia arrests 172 terrorist suspects in a series of raids after uncovering a plot to carry out suicide air attacks on oil and military installations. $32.4m in cash was also uncovered, as were many weapons. ](/news/2007/04/27/saudi-arabia-arrests-172-terrorist-suspects-in-a-series-of-raids-after-uncovering-a-plot-to-carry-out-suicide-air-attacks-on-oil-and-milita.md)
-_Context: Saudi, US$, suicide attack, weapon_
+_Context: Saudi Arabia, US$, suicide attack, weapon_
 
 ##### United States
 ### [ The U.S. Pentagon says that the CIA has arrested a senior al-Qaeda operative, Abdul Hadi al Iraqi, and transferred him to the Guantanamo Bay detention center. ](/news/2007/04/27/the-u-s-pentagon-says-that-the-cia-has-arrested-a-senior-al-qaeda-operative-abdul-hadi-al-iraqi-and-transferred-him-to-the-guantanamo-ba.md)

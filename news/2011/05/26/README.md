@@ -25,7 +25,7 @@ A Rwandan genocide suspect, Bernard Munyagishari, is arrested in eastern DR of C
 
 ##### Group of Eight
 ### [Leaders of the Group of Eight countries meet in Deauville, France, for the 37th G8 summit. ](/news/2011/05/26/leaders-of-the-group-of-eight-countries-meet-in-deauville-france-for-the-37th-g8-summit.md)
-_Context: 37th G8 summit, Deauville, France, Group of Eight_
+_Context: 37th G8 summit, Deauville, French, Group of Eight_
 
 ##### United States
 ### [The United States announces the removal of a number of troops from Pakistan, following a request from the Pakistani government. ](/news/2011/05/26/the-united-states-announces-the-removal-of-a-number-of-troops-from-pakistan-following-a-request-from-the-pakistani-government.md)

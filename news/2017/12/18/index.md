@@ -47,7 +47,7 @@ First responders are treating the derailment in Washington state as a mass casua
 ### [Texas Rangers baseball pitcher Cole Hamels and his wife Heidi donate their mansion and 100 acres of land in southwestern Missouri, valued at nearly $10 million, to Camp Barnabas, a charity with camps in the Missouri Ozarks for children with special needs and chronic illnesses along with their siblings. ](/news/2017/12/18/texas-rangers-baseball-pitcher-cole-hamels-and-his-wife-heidi-donate-their-mansion-and-100-acres-of-land-in-southwestern-missouri-valued-at.md)
 Cole Hamels showed his Christmas spirit early this year. The Rangers ace and his wife, Heidi, are donating a mansion and 100 acres of land in southwest Missouri to a charity that provides camps for…
 
-##### Twitter
+##### Tweeting
 ### [Twitter suspends the accounts of well-known white nationalists per recently implemented new offensive content rules. ](/news/2017/12/18/twitter-suspends-the-accounts-of-well-known-white-nationalists-per-recently-implemented-new-offensive-content-rules.md)
 Including Britain First, which gained recognition after Trump&#x27;s retweets 
 

@@ -19,9 +19,9 @@ _Context: Reynolds High School, Troutdale, Oregon_
 ### [US Olympic swimming gold medal winner Amy Van Dyken severs her spine in a severe ATV accident. ](/news/2014/06/10/us-olympic-swimming-gold-medal-winner-amy-van-dyken-severs-her-spine-in-a-severe-atv-accident.md)
 A six-time US Olympic gold medal-winning swimmer severs her spinal cord in an all-terrain vehicle accident over the weekend.
 
-##### German
+##### Germany
 ### [Violent storms in western Germany with high winds and flooding kill six people. ](/news/2014/06/10/violent-storms-in-western-germany-with-high-winds-and-flooding-kill-six-people.md)
-_Context: German_
+_Context: Germany_
 
 ##### United States soldier
 ### [Five American soldiers, an Afghan soldier, and an interpreter in the Zabul province of Afghanistan are killed when a NATO air strike accidentally targeted them. ](/news/2014/06/10/five-american-soldiers-an-afghan-soldier-and-an-interpreter-in-the-zabul-province-of-afghanistan-are-killed-when-a-nato-air-strike-acciden.md)
@@ -33,7 +33,7 @@ The important northern city was seized by an Al Qaeda offshoot after Iraqi troop
 
 ##### Kenya
 ### [Gunmen in Kenya's port city of Mombasa kill Mohamed Idris, chairman of the Council of Imams and Preachers of Kenya, who opposed the radical preachings of Somalia's Al-Qaeda-linked Al-Shabaab insurgents. ](/news/2014/06/10/gunmen-in-kenya-s-port-city-of-mombasa-kill-mohamed-idris-chairman-of-the-council-of-imams-and-preachers-of-kenya-who-opposed-the-radical.md)
-_Context: Al-Shabab, Kenya, Mombasa, Somali, al-Qaeda_
+_Context: Al-Shabab, Kenya, Mombasa, Somalia, al-Qaeda_
 
 ##### Jinnah International Airport
 ### [Gunmen attack a training facility near the Jinnah International Airport. ](/news/2014/06/10/gunmen-attack-a-training-facility-near-the-jinnah-international-airport.md)

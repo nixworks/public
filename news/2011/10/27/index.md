@@ -9,7 +9,7 @@ Researchers in Oxford have treated a man with an advanced gene therapy technique
 
 ##### Crown Prince Nayef
 ### [Nayef bin Abdul-Aziz Al Saud, the Saudi Arabian Minister of the Interior, is named as the new Crown Prince of Saudi Arabia, following the death of Sultan bin Abdul-Aziz Al Saud on October 22. ](/news/2011/10/27/nayef-bin-abdul-aziz-al-saud-the-saudi-arabian-minister-of-the-interior-is-named-as-the-new-crown-prince-of-saudi-arabia-following-the-de.md)
-_Context: Crown Prince, Crown Prince Nayef, Interior Ministry, Saudi, Sultan bin Abdul-Aziz Al Saud_
+_Context: Crown Prince, Crown Prince Nayef, Interior Ministry, Saudi Arabia, Sultan bin Abdul-Aziz Al Saud_
 
 ##### Islamist
 ### [The moderate Islamist Renaissance Party (Nahda) officially wins the Tunisian Constituent Assembly election, gaining more than 41% of the vote and securing 90 of the 217 parliamentary seats being contested. ](/news/2011/10/27/the-moderate-islamist-renaissance-party-nahda-officially-wins-the-tunisian-constituent-assembly-election-gaining-more-than-41-of-the-vot.md)
@@ -27,9 +27,9 @@ Polling stations have closed after 15 hours of voting in two elections and on tw
 ### [Scottish serial murderer Robert Black is convicted of the 1981 murder of Northern Irish schoolgirl Jennifer Cardy. ](/news/2011/10/27/scottish-serial-murderer-robert-black-is-convicted-of-the-1981-murder-of-northern-irish-schoolgirl-jennifer-cardy.md)
 Child killer Robert Black has been found guilty of murdering Jennifer Cardy in Ballinderry, County Antrim, 30 years ago.
 
-##### German
+##### Germany
 ### [Twelve thousand people are evacuated from the German city of Halle, following the discovery of an unexploded World War II-era bomb. ](/news/2011/10/27/twelve-thousand-people-are-evacuated-from-the-german-city-of-halle-following-the-discovery-of-an-unexploded-world-war-ii-era-bomb.md)
-_Context: German, Halle, World War II_
+_Context: Germany, Halle, World War II_
 
 ##### 7.1 magnitude earthquake
 ### [The death toll from the 2011 Van earthquake in Turkey reaches 523, with rain and snow making conditions worse for people left homeless by the earthquake. ](/news/2011/10/27/the-death-toll-from-the-2011-van-earthquake-in-turkey-reaches-523-with-rain-and-snow-making-conditions-worse-for-people-left-homeless-by-th.md)

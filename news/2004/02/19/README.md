@@ -25,7 +25,7 @@ _Context: IAEA, Iran, United Nations, nuclear programme_
 
 ##### Kuwait
 ### [ The Kuwaiti newspaper "A-Siasa" reports that Palestinian and international terrorist organizations have decided at a recent Beirut conference to launch a wave of terror attacks against Israeli and Jewish interests worldwide. According to the report, there will also be similar attacks against coalition troops in Iraq and Afghanistan. The conference, which took place at the start of February, was also said to have been attended by senior members of the Syrian, Lebanese and Iranian intelligence services who presented a list of Israeli intelligence officials to be assassinated. Organizations in attendance included: Al-Qaeda, Ansar al-Islam, Hezbollah, Hamas, Islamic Jihad. ](/news/2004/02/19/the-kuwaiti-newspaper-a-siasa-reports-that-palestinian-and-international-terrorist-organizations-have-decided-at-a-recent-beirut-conferen.md)
-_Context: Afghan, Ansar al-Islam, Beirut, Hamas, Hamas, Hezbollah, Iran, Iraq, Israel, Kuwait, Lebanese, Palestinian, Syria, al-Qaeda, assassinate, terrorism_
+_Context: Afghanistan, Ansar al-Islam, Beirut, Hamas, Hamas, Hezbollah, Iran, Iraq, Israel, Kuwait, Lebanese, Palestinian, Syria, al-Qaeda, assassinate, terrorism_
 
 ##### Shargh
 ### [ Reformist newspapers "Shargh" and "Yas-e-no" are shut down by the Iranian judiciary, only one day before the parliament elections.](/news/2004/02/19/reformist-newspapers-shargh-and-yas-e-no-are-shut-down-by-the-iranian-judiciary-only-one-day-before-the-parliament-elections.md)
@@ -33,7 +33,7 @@ _Context: Iran, Iran's parliamentary elections, Shargh, Yas-e-no_
 
 ##### European Commission
 ### [ European Commission President Romano Prodi vows stronger action to combat anti-Semitism in Europe. Prodi states that some criticism of Israel was inspired by "what amounts to anti-Semitic sentiments and prejudice." Youths from the large Arab immigrant communities in France, Belgium and other European countries are blamed for the rise in attacks against Jews in Europe. The European Union's ](/news/2004/02/19/european-commission-president-romano-prodi-vows-stronger-action-to-combat-anti-semitism-in-europe-prodi-states-that-some-criticism-of-isra.md)
-_Context: Arab, European Commission, European Union, Israel, Romano Prodi, anti-Semitism_
+_Context: Arab, EU, European Commission, Israel, Romano Prodi, anti-Semitism_
 
 ##### Gurgen Markarian
 ### [ Lt. Gurgen Markarian, an Armenian military officer attending a NATO Partnership for Peace program, is hacked to death with an axe and a knife by Lt. Ramil Safarov, an Azerbaijani participant. The officers were attending an English language course at the Hungarian Military University within the framework of the Partnership for Peace program, which is aimed at increasing cooperation between neutral and former Soviet bloc nations and NATO in peacekeeping and other areas. ](/news/2004/02/19/lt-gurgen-markarian-an-armenian-military-officer-attending-a-nato-partnership-for-peace-program-is-hacked-to-death-with-an-axe-and-a-kni.md)

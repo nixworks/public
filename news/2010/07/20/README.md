@@ -45,7 +45,7 @@ _Context: November's presidential poll, Supreme Court_
 
 ##### Prime Minister
 ### [Prime Minister of the United Kingdom David Cameron meets with US President Barack Obama to discuss the Gulf of Mexico oil spill, Afghanistan and the global economy. ](/news/2010/07/20/prime-minister-of-the-united-kingdom-david-cameron-meets-with-us-president-barack-obama-to-discuss-the-gulf-of-mexico-oil-spill-afghanistan.md)
-_Context: Afghan, Barack Obama, David Cameron, Deepwater Horizon oil spill, Prime Minister, U.S. President_
+_Context: Afghanistan, Barack Obama, David Cameron, Deepwater Horizon oil spill, Prime Minister, U.S. President_
 
 ##### ASEAN
 ### [ASEAN requests that Myanmar hold free elections. ](/news/2010/07/20/asean-requests-that-myanmar-hold-free-elections.md)
@@ -107,9 +107,9 @@ North Korea has executed by firing squad a former Cabinet official who was in ch
 ### [Former North Korean spy Kim Hyon Hui is allowed into Japan via Haneda Airport on a government-chartered jet, after the country waives its own immigration rules. ](/news/2010/07/20/former-north-korean-spy-kim-hyon-hui-is-allowed-into-japan-via-haneda-airport-on-a-government-chartered-jet-after-the-country-waives-its-ow.md)
 A former North Korean spy who blew up a plane killing 115 people is in Japan to meet families of people abducted to North Korea.
 
-##### Afghan
+##### Afghanistan
 ### [An international conference on the future of Afghanistan opens in Kabul co-chaired by the President of Afghanistan Hamid Karzai and the Secretary-General of the United Nations Ban Ki-moon. The conference endorses a goal for Afghan forces to lead security operations across the country by 2014. Afghan President Hamid Karzai suggests raising the size of the Afghan National Army to 170,000 troops and the Afghan National Police to 134,000 officers by 2011. ](/news/2010/07/20/an-international-conference-on-the-future-of-afghanistan-opens-in-kabul-co-chaired-by-the-president-of-afghanistan-hamid-karzai-and-the-secr.md)
-_Context: Afghan, Afghan National Army, Afghan President, Ban Ki-moon, Hamid Karzai, Kabul, United Nations Secretary-General, police_
+_Context: Afghan National Army, Afghan President, Afghanistan, Ban Ki-moon, Hamid Karzai, Kabul, United Nations Secretary-General, police_
 
 ##### United States
 ### [The United States announces it is to deploy troops along the US-Mexico border in August in what it sees as an effort to improve its security. ](/news/2010/07/20/the-united-states-announces-it-is-to-deploy-troops-along-the-us-mexico-border-in-august-in-what-it-sees-as-an-effort-to-improve-its-security.md)
@@ -165,7 +165,7 @@ _Context: Rwanda, Uganda, United Nations, attacks_
 
 ##### William Hague
 ### [William Hague, the United Kingdom Foreign Secretary, says that British soldiers should be out of Afghanistan by 2014. ](/news/2010/07/20/william-hague-the-united-kingdom-foreign-secretary-says-that-british-soldiers-should-be-out-of-afghanistan-by-2014.md)
-_Context: Afghan, British Army, Foreign Secretary, United Kingdom, William Hague_
+_Context: Afghanistan, British Army, Foreign Secretary, United Kingdom, William Hague_
 
 ##### Thailand
 ### [Thailand's government lifts a state of emergency in 3 provinces; it remains in 16 others, including Bangkok. ](/news/2010/07/20/thailand-s-government-lifts-a-state-of-emergency-in-3-provinces-it-remains-in-16-others-including-bangkok.md)

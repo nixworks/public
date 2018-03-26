@@ -29,7 +29,7 @@ The United Nations World Food Program on Monday suspended a food voucher program
 
 ##### Russia
 ### [Russia abandons its plans for the South Stream pipeline to Bulgaria due to European Union objections instead looking at a pipeline to Turkey. ](/news/2014/12/1/russia-abandons-its-plans-for-the-south-stream-pipeline-to-bulgaria-due-to-european-union-objections-instead-looking-at-a-pipeline-to-turkey.md)
-_Context: Bulgaria, European Union, Russia, South Stream, Turkey_
+_Context: Bulgaria, EU, Russia, South Stream, Turkey_
 
 ##### Pandemic
 ### [Researchers claim that the pandemic has reached a tipping point where the number of people receiving treatment in a year was greater than the number of new cases. ](/news/2014/12/1/researchers-claim-that-the-pandemic-has-reached-a-tipping-point-where-the-number-of-people-receiving-treatment-in-a-year-was-greater-than-th.md)

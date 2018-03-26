@@ -21,7 +21,7 @@ NASA’s decision this week to give up trying to move stuck Mars rover Spirit ma
 
 ##### Somali pirates
 ### [Pirates off the coast of Somalia seize a North Korean-flagged cargo ship south of Yemen. ](/news/2010/02/3/pirates-off-the-coast-of-somalia-seize-a-north-korean-flagged-cargo-ship-south-of-yemen.md)
-_Context: North Korea, Somali, Somali pirates, Yemen_
+_Context: North Korea, Somali pirates, Somalia, Yemen_
 
 ##### International Criminal Court
 ### [Judges at the International Criminal Court rule that Sudan's president Omar al-Bashir could face charges of genocide over the War in Darfur. ](/news/2010/02/3/judges-at-the-international-criminal-court-rule-that-sudan-s-president-omar-al-bashir-could-face-charges-of-genocide-over-the-war-in-darfur.md)

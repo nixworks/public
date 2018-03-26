@@ -15,7 +15,7 @@ Millions of Americans are ineligible for law&rsquo;s tax subsidies, Appeals Cour
 ### [South Korean police advise that they have positively identified a body found on June 12 as Yoo Byung-eun wanted for his alleged role in the sinking of the MV "Sewol". ](/news/2014/07/22/south-korean-police-advise-that-they-have-positively-identified-a-body-found-on-june-12-as-yoo-byung-eun-wanted-for-his-alleged-role-in-the.md)
 Yoo Byung-eun was a church leader and businessman whom prosecutors had hoped to arrest in connection with the ferry disaster that killed more than 300 people.
 
-##### European Union
+##### EU
 ### [The European Union agrees to impose new sanctions on Russia, expanding a list of Russian entities and individuals subject to asset freezes and travel bans and threatens to target vast sectors of the Russian economy if Moscow does not act swiftly to rein in rebels believed to have shot down a Malaysia Airlines plane over eastern Ukraine. ](/news/2014/07/22/the-european-union-agrees-to-impose-new-sanctions-on-russia-expanding-a-list-of-russian-entities-and-individuals-subject-to-asset-freezes-a.md)
 Britain leads a bloc pressing for strong measures over the downing of a Malaysia Airlines plane.
 

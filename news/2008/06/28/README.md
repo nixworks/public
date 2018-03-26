@@ -29,7 +29,7 @@ _Context: Seoul, South Korea, United States, beef imports, water cannon_
 
 ##### Paris
 ### [ Thousands of people rally in Paris in support of the European Union removing the People's Mujahedin of Iran from its list of terrorist organisations. ](/news/2008/06/28/thousands-of-people-rally-in-paris-in-support-of-the-european-union-removing-the-people-s-mujahedin-of-iran-from-its-list-of-terrorist-orga.md)
-_Context: European Union, Paris, People's Mujahedin of Iran, terrorist organisation_
+_Context: EU, Paris, People's Mujahedin of Iran, terrorist organisation_
 
 ##### Guizhou
 ### [ Thousands of people riot in Guizhou province in southern China following the death of a girl and a perceived government coverup. ](/news/2008/06/28/thousands-of-people-riot-in-guizhou-province-in-southern-china-following-the-death-of-a-girl-and-a-perceived-government-coverup.md)

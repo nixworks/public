@@ -9,7 +9,7 @@ _Context: Jerusalem, Malta, church, crucifix, mass, mother-of-pearl_
 
 ##### Microsoft
 ### [ In Brussels, Microsoft claims a breakthrough, as an independent monitor of its hearings with European Union regulators in Brussels has outlined what it can do to avoid paying fines of 2 million euros a day. ](/news/2006/03/31/in-brussels-microsoft-claims-a-breakthrough-as-an-independent-monitor-of-its-hearings-with-european-union-regulators-in-brussels-has-outl.md)
-_Context: Brussels, European Union, Microsoft_
+_Context: Brussels, EU, Microsoft_
 
 ##### The Nation Group
 ### [ A The Nation Group's newspaper critical of Thai Prime Minister Thaksin Shinawatra agrees to stop publishing for five days amid protests about the way it referred to the King of Thailand. ](/news/2006/03/31/a-the-nation-group-s-newspaper-critical-of-thai-prime-minister-thaksin-shinawatra-agrees-to-stop-publishing-for-five-days-amid-protests-abo.md)

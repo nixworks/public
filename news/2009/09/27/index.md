@@ -43,9 +43,9 @@ _Context: England, Nestle, President, Robert Mugabe, Switzerland, The Sunday Tel
 ### [ The death toll from Tropical Storm Ketsana rises to 73, with more than 300,000 people displaced. ](/news/2009/09/27/the-death-toll-from-tropical-storm-ketsana-rises-to-73-with-more-than-300-000-people-displaced.md)
 _Context: Tropical Storm Ketsana_
 
-##### Afghan
+##### Afghanistan
 ### [ Afghan Energy Minister Ismail Khan survives a roadside blast which kills four people and wounds seventeen outside a school in Herat. ](/news/2009/09/27/afghan-energy-minister-ismail-khan-survives-a-roadside-blast-which-kills-four-people-and-wounds-seventeen-outside-a-school-in-herat.md)
-_Context: Afghan, Herat, Ismail Khan_
+_Context: Afghanistan, Herat, Ismail Khan_
 
 ##### Roman Polanski
 ### [ Film director Roman Polanski is arrested in Zurich on a 31-year-old US arrest warrant. ](/news/2009/09/27/film-director-roman-polanski-is-arrested-in-zurich-on-a-31-year-old-us-arrest-warrant.md)
@@ -59,7 +59,7 @@ South America-Africa summit aims to increase co-operation and trade between cont
 ### [ The Socialist Party win the Portuguese legislative election to elect members of the Assembly of the Republic, with 36.6% of the vote. ](/news/2009/09/27/the-socialist-party-win-the-portuguese-legislative-election-to-elect-members-of-the-assembly-of-the-republic-with-36-6-of-the-vote.md)
 With unemployment at its highest level in 20 years, Portugal went to the polls yesterday in an election that could bring greater political uncertainty as the ruling Socialists are expected to win but fall short of an absolute majority.
 
-##### German
+##### Germany
 ### [ In Germany the Christian Democrats and the Liberals win the federal election and announce their intention to form a new government with Angela Merkel as Chancellor. The Social Democrats concede defeat. ](/news/2009/09/27/in-germany-the-christian-democrats-and-the-liberals-win-the-federal-election-and-announce-their-intention-to-form-a-new-government-with-ang.md)
 Angela Merkel appears to have swept to victory in the German elections, with exit polls showing a clear win for her coalition.
 

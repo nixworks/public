@@ -29,7 +29,7 @@ The U.N. General Assembly on Thursday formally endorsed a resolution by a majori
 
 ##### World Trade Organization
 ### [ The World Trade Organization approves Afghanistan's membership at its 10th ministerial conference in Nairobi, Kenya. Afghanistan becomes the 164th WTO member and is the 36th least developed country (LDC) in the global trade body. ](/news/2015/12/17/the-world-trade-organization-approves-afghanistan-s-membership-at-its-10th-ministerial-conference-in-nairobi-kenya-afghanistan-becomes-th.md)
-_Context: Afghan, Kenya, Nairobi, World Trade Organization, least developed country_
+_Context: Afghanistan, Kenya, Nairobi, World Trade Organization, least developed country_
 
 ##### United Nations Security Council
 ### [ The United Nations Security Council unanimously adopts a resolution aimed at disrupting revenue the Islamic State gets from oil sales, ransom payments, and other criminal activities. ](/news/2015/12/17/the-united-nations-security-council-unanimously-adopts-a-resolution-aimed-at-disrupting-revenue-the-islamic-state-gets-from-oil-sales-rans.md)

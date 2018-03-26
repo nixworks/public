@@ -9,7 +9,7 @@ Researchers at North Carolina State University have discovered a new diamond-lik
 
 ##### Saudi Arabia elections, 2015
 ### [For the first time in the country's history, Saudi Arabian women are allowed to vote and to stand for office in the December 12, 2015, elections. Candidacy filings opened yesterday. In two days, more than 900 women have signed up to run for various local government positions in the Arab nation. ](/news/2015/11/30/for-the-first-time-in-the-country-s-history-saudi-arabian-women-are-allowed-to-vote-and-to-stand-for-office-in-the-december-12-2015-elect.md)
-_Context: Arab, Saudi, Saudi Arabia elections, 2015_
+_Context: Arab, Saudi Arabia, Saudi Arabia elections, 2015_
 
 ##### Burkinabe general election, 2015
 ### [Former prime minister Roch Marc Kabore appears on course for a commanding victory in Burkina Faso's election, one large enough to eliminate the need for a run-off. According to the Independent National Electoral Commission, with results from about 72 percent of the country counted, Kabore has 54 percent of the vote with his closest challenger, former finance minister Zephirin Diabre, getting 29 percent. ](/news/2015/11/30/former-prime-minister-roch-marc-kabora-c-appears-on-course-for-a-commanding-victory-in-burkina-faso-s-election-one-large-enough-to-eliminate.md)
@@ -85,7 +85,7 @@ Tribune Publishing — owner of the Chicago Tribune, Los Angeles Times and other
 
 ##### Saudi Arabian-led intervention in Yemen
 ### [Clashes with Yemeni forces in the kingdom's southern Jizan Region near the border with Yemen leave at least three Saudi border guards killed. ](/news/2015/11/30/clashes-with-yemeni-forces-in-the-kingdom-s-southern-jizan-region-near-the-border-with-yemen-leave-at-least-three-saudi-border-guards-killed.md)
-_Context: Jizan Region, Saudi, Saudi Arabian-led intervention in Yemen, Yemen, border guards_
+_Context: Jizan Region, Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen, border guards_
 
 ##### Syrian Civil War
 ### [The Syrian Observatory for Human Rights reports that at least 50 United States military instructors have deployed to northern Syria from Turkey and Iraq to train Kurdish forces ahead of an assault on ISIL's de facto capital Al-Raqqah. ](/news/2015/11/30/the-syrian-observatory-for-human-rights-reports-that-at-least-50-united-states-military-instructors-have-deployed-to-northern-syria-from-tur.md)
@@ -97,7 +97,7 @@ Iraqi forces have launched an offensive to retake Ramadi from Islamic State mili
 
 ##### Paris attack aftermath
 ### [French intelligence services are reportedly operating under the theory that Paris-attacks suspect Salah Abdeslam has escaped to Syria despite country-wide martial law in 3 different countries. ](/news/2015/11/30/french-intelligence-services-are-reportedly-operating-under-the-theory-that-paris-attacks-suspect-salah-abdeslam-has-escaped-to-syria-despit.md)
-_Context: France, November 2015 Paris attacks, Paris attack aftermath, Salah Abdeslam, Syria, intelligence services, martial law_
+_Context: French, November 2015 Paris attacks, Paris attack aftermath, Salah Abdeslam, Syria, intelligence services, martial law_
 
 ## [Previous Day...](/news/2015/11/29/index.md)
 

@@ -25,7 +25,7 @@ _Context: Damascus, Hezbollah, Imad Mugniyah, Syria_
 
 ##### Sweden
 ### [ The Swedish government rejects the Nord Stream underwater natural gas pipeline from Russia to Germany. ](/news/2008/02/13/the-swedish-government-rejects-the-nord-stream-underwater-natural-gas-pipeline-from-russia-to-germany.md)
-_Context: German, Nord Stream, Russia, Sweden, line_
+_Context: Germany, Nord Stream, Russia, Sweden, line_
 
 ##### Parliament of Iraq
 ### [ The Iraqi Parliament adopts an accord on the budget, detainees and federalism, setting provincial elections for late 2008. ](/news/2008/02/13/the-iraqi-parliament-adopts-an-accord-on-the-budget-detainees-and-federalism-setting-provincial-elections-for-late-2008.md)

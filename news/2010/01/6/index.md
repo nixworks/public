@@ -53,7 +53,7 @@ _Context: US$, tourism_
 
 ##### China
 ### [China becomes the largest exporting country, pushing Germany from first place. ](/news/2010/01/6/china-becomes-the-largest-exporting-country-pushing-germany-from-first-place.md)
-_Context: China, German, top export market_
+_Context: China, Germany, top export market_
 
 ##### Iris Robinson
 ### [Iris Robinson, the wife of Northern Ireland's First Minister, admits having previously attempted suicide. Her husband Peter Robinson gives an emotional interview in which he speaks of being "deeply hurt" after learning of her extramarital affair. ](/news/2010/01/6/iris-robinson-the-wife-of-northern-ireland-s-first-minister-admits-having-previously-attempted-suicide-her-husband-peter-robinson-gives-a.md)

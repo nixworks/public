@@ -13,7 +13,7 @@ _Context: Iraq, provincial elections_
 
 ##### Sharif Ahmed
 ### [ Sharif Ahmed is elected President of Somalia. ](/news/2009/01/31/sharif-ahmed-is-elected-president-of-somalia.md)
-_Context: President, Sharif Ahmed, Somali, elected_
+_Context: President, Sharif Ahmed, Somalia, elected_
 
 ##### Movement for Democratic Change
 ### [ Movement for Democratic Change President Morgan Tsvangirai agrees to become Zimbabwe's Prime Minister on February 11 in a deal with President Robert Mugabe. ](/news/2009/01/31/movement-for-democratic-change-president-morgan-tsvangirai-agrees-to-become-zimbabwe-s-prime-minister-on-february-11-in-a-deal-with-preside.md)

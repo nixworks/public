@@ -33,15 +33,15 @@ _Context: 16th Screen Actors Guild Awards, Inglourious Basterds, Jeff Bridges, Q
 
 ##### NRJ Music Awards
 ### [At the NRJ Music Awards in Cannes, France, hip hop band Black Eyed Peas are mistakenly presented with an award for best international group which was intended for Tokio Hotel, while Rihanna falls off the stage during a live performance of "Russian Roulette". ](/news/2010/01/24/at-the-nrj-music-awards-in-cannes-france-hip-hop-band-black-eyed-peas-are-mistakenly-presented-with-an-award-for-best-international-group.md)
-_Context: Black Eyed Peas, Cannes, France, NRJ Music Awards, Rihanna, Russian Roulette, Tokio Hotel_
+_Context: Black Eyed Peas, Cannes, French, NRJ Music Awards, Rihanna, Russian Roulette, Tokio Hotel_
 
 ##### North Korea
 ### [North Korea says any attempt by South Korea to launch pre-emptive strikes against its nuclear facilities will be considered a declaration of war. ](/news/2010/01/24/north-korea-says-any-attempt-by-south-korea-to-launch-pre-emptive-strikes-against-its-nuclear-facilities-will-be-considered-a-declaration-of.md)
 _Context: North Korea, North Korea's nuclear program, South Korea, declaration of war, pre-emptive strike_
 
-##### Afghan
+##### Afghanistan
 ### [Afghanistan postpones its upcoming parliamentary elections to 18 September due to lack of funds and security concerns. ](/news/2010/01/24/afghanistan-postpones-its-upcoming-parliamentary-elections-to-18-september-due-to-lack-of-funds-and-security-concerns.md)
-_Context: Afghan, parliamentary election_
+_Context: Afghanistan, parliamentary election_
 
 ##### Osama Bin Laden
 ### [Osama Bin Laden claims responsibility for the failed Christmas day bombing attempt in Detroit, USA, last year. ](/news/2010/01/24/osama-bin-laden-claims-responsibility-for-the-failed-christmas-day-bombing-attempt-in-detroit-usa-last-year.md)

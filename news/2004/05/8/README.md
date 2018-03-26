@@ -5,7 +5,7 @@ Formats: [HTML](2004/05/8/index.html)  [JSON](2004/05/8/index.json)  [XML](2004/
 
 ##### Turkey
 ### [ Turkish prime minister Recep Tayyip Erdogan wraps up a landmark visit to Greece. Both sides pledge cooperation&mdash;Erdogan visits the Turkish minority in Thrace and urges reconciliation, and his Greek counterpart Costas Karamanlis says Greece will support Turkey's EU bid, marking a high point in Greco-Turkish relations. ](/news/2004/05/8/turkish-prime-minister-recep-tayyip-erdogan-wraps-up-a-landmark-visit-to-greece-both-sides-pledge-cooperation-mdash-erdogan-visits-the-tur.md)
-_Context: Costas Karamanlis, European Union, Greco-Turkish relations, Recep Tayyip Erdogan, Thrace, Turkey, prime minister_
+_Context: Costas Karamanlis, EU, Greco-Turkish relations, Recep Tayyip Erdogan, Thrace, Turkey, prime minister_
 
 ##### Computer security
 ### [ Computer security: German authorities arrest an 18-year-old high school student on suspicion that he is responsible for creating the Sasser worm, which has infected hundreds of thousands of computers worldwide by exploiting a flaw in the Windows 2000 and Windows XP operating systems. According to CNET, a US$5 million reward from Microsoft was instrumental in leading investigators to the suspect. ](/news/2004/05/8/computer-security-german-authorities-arrest-an-18-year-old-high-school-student-on-suspicion-that-he-is-responsible-for-creating-the-sasser.md)

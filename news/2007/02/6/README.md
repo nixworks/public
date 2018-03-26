@@ -29,7 +29,7 @@ _Context: Africa, George W. Bush, Pentagon, United States Africa Command, United
 
 ##### Human Rights Watch
 ### [ A Human Rights Watch report concludes that European Union sanctions on the Government of Uzbekistan, which came in response to the "Andijan massacre" in May 2005, have failed due to a lack of commitment in enforcing them. ](/news/2007/02/6/a-human-rights-watch-report-concludes-that-european-union-sanctions-on-the-government-of-uzbekistan-which-came-in-response-to-the-andijan.md)
-_Context: Andijan massacre, European Union, Government of Uzbekistan, Human Rights Watch, May 2005, economic sanctions_
+_Context: Andijan massacre, EU, Government of Uzbekistan, Human Rights Watch, May 2005, economic sanctions_
 
 ##### Lord's Resistance Army
 ### [ Representatives of the Lord's Resistance Army say they will continue fighting with the Government of Uganda if negotiations are not moved to another location outside of southern Sudan. ](/news/2007/02/6/representatives-of-the-lord-s-resistance-army-say-they-will-continue-fighting-with-the-government-of-uganda-if-negotiations-are-not-moved-t.md)

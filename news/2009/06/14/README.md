@@ -15,7 +15,7 @@ _Context: Sobat River, Sudan, Sudan People's Liberation Army, United Nations, at
 ### [ President of Belarus Alexander Lukashenko refuses to attend the Collective Security Treaty Organisation summit in Moscow after Russia's ban of Belarusian milk and dairy imports. ](/news/2009/06/14/president-of-belarus-alexander-lukashenko-refuses-to-attend-the-collective-security-treaty-organisation-summit-in-moscow-after-russia-s-ban.md)
 Belarus on Sunday signaled a growing rift with Russia, saying President Alexander Lukashenko did not attend a security summit in Moscow in protest against a Russian ban on dairy imports from Belarus.
 
-##### German
+##### Germany
 ### [ Seven Germans, one Briton and a South Korean are captured by Shia rebels in Sa'dah, Yemen. ](/news/2009/06/14/seven-germans-one-briton-and-a-south-korean-are-captured-by-shia-rebels-in-sa-dah-yemen.md)
 Seven Germans, a Briton and a Korean have been kidnapped in the Saada area of north Yemen.
 

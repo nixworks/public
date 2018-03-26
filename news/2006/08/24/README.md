@@ -21,7 +21,7 @@ _Context: Czech Republic, Definition of planet, International Astronomical Union
 
 ##### Games Convention
 ### [ The largest computer games expo in the transatlantic region, the Games Convention in Leipzig, Germany, opens for the public. ](/news/2006/08/24/the-largest-computer-games-expo-in-the-transatlantic-region-the-games-convention-in-leipzig-germany-opens-for-the-public.md)
-_Context: Games Convention, German, Leipzig_
+_Context: Games Convention, Germany, Leipzig_
 
 ##### Chancellor
 ### [ German Chancellor Angela Merkel states that Iran's response to the incentives by world powers aiming to persuade it to give up nuclear power is unsatisfactory. ](/news/2006/08/24/german-chancellor-angela-merkel-states-that-iran-s-response-to-the-incentives-by-world-powers-aiming-to-persuade-it-to-give-up-nuclear-powe.md)

@@ -43,9 +43,9 @@ _Context: Hugo Chavez, Simon Bolivar_
 ### [Bangladeshi police arrest an army major who allegedly possessed hundreds of bottles of Phensedyl, an illegal cough syrup. ](/news/2010/07/17/bangladeshi-police-arrest-an-army-major-who-allegedly-possessed-hundreds-of-bottles-of-phensedyl-an-illegal-cough-syrup.md)
 Police in northern Bangladesh arrest an army major for allegedly carrying hundreds of bottles of an illegal cough syrup.
 
-##### German
+##### Germany
 ### [German minister Ilse Aigner expresses annoyance at Facebook's privacy policy, saying the website is breaking the law by collecting information such as phone numbers. ](/news/2010/07/17/german-minister-ilse-aigner-expresses-annoyance-at-facebook-s-privacy-policy-saying-the-website-is-breaking-the-law-by-collecting-informati.md)
-_Context: Facebook, German, Ilse Aigner_
+_Context: Facebook, Germany, Ilse Aigner_
 
 ##### Venezuela
 ### [Venezuela recalls its ambassador to Colombia following Colombian accusations that Venezuela is hosting rebels on its territory. ](/news/2010/07/17/venezuela-recalls-its-ambassador-to-colombia-following-colombian-accusations-that-venezuela-is-hosting-rebels-on-its-territory.md)

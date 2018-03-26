@@ -53,7 +53,7 @@ _Context: 2008, Darfur conflict, Joseph Biden, United States Senate Foreign Rela
 
 ##### United States
 ### [ The United States extends the tour of duty for troops in Iraq and Afghanistan from a year to 15 months. ](/news/2007/04/11/the-united-states-extends-the-tour-of-duty-for-troops-in-iraq-and-afghanistan-from-a-year-to-15-months.md)
-_Context: Afghan, Iraq, United States, tour of duty_
+_Context: Afghanistan, Iraq, United States, tour of duty_
 
 ##### Senate
 ### [ The United States Senate votes to ease funding restrictions on stem-cell research but President Bush threatens to veto the bill. ](/news/2007/04/11/the-united-states-senate-votes-to-ease-funding-restrictions-on-stem-cell-research-but-president-bush-threatens-to-veto-the-bill.md)
@@ -65,7 +65,7 @@ Critics of the Bush administration say that the focus on the Iraq war has jeopar
 
 ##### United States
 ### [ Trade officials from the United States, European Union, India and Brazil meet in New Delhi, India, to revive the World Trade Organization's Doha round of negotiations. ](/news/2007/04/11/trade-officials-from-the-united-states-european-union-india-and-brazil-meet-in-new-delhi-india-to-revive-the-world-trade-organization-s.md)
-_Context: Brazil, Doha round of negotiations, European Union, India, New Delhi, United States, World Trade Organization_
+_Context: Brazil, Doha round of negotiations, EU, India, New Delhi, United States, World Trade Organization_
 
 ## [Previous Day...](/news/2007/04/10/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2008/06/3/index.html)  [JSON](2008/06/3/index.json)  [XML](2008/
 
 ##### Flood
 ### [ Three people are dead and many more injured as a result of flooding in the Zollernalbkreis region in the German state of Baden-Wuerttemberg. ](/news/2008/06/3/three-people-are-dead-and-many-more-injured-as-a-result-of-flooding-in-the-zollernalbkreis-region-in-the-german-state-of-baden-wuerttemberg.md)
-_Context: Baden-Wuerttemberg, German, Zollernalbkreis, flood_
+_Context: Baden-Wuerttemberg, Germany, Zollernalbkreis, flood_
 
 ##### Illinois
 ### [ Illinois Senator Barack Obama wins the Democratic Party presumptive nomination, becoming the first African American to be nominated by a major party. ](/news/2008/06/3/illinois-senator-barack-obama-wins-the-democratic-party-presumptive-nomination-becoming-the-first-african-american-to-be-nominated-by-a-ma.md)

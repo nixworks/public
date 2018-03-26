@@ -41,7 +41,7 @@ YANGON: At least 11 people died in a landslide in a remote jade mining region of
 
 ##### United States
 ### [American agrochemical and agricultural biotechnology company Monsanto rejects an unsolicited $62 billion takeover bid by German pharmaceutical giant Bayer, saying the price was too low but adding that it remained "open to further talks." ](/news/2016/05/24/american-agrochemical-and-agricultural-biotechnology-company-monsanto-rejects-an-unsolicited-62-billion-takeover-bid-by-german-pharmaceutic.md)
-_Context: Bayer, German, Monsanto, United States, agricultural biotechnology, agrochemical_
+_Context: Bayer, Germany, Monsanto, United States, agricultural biotechnology, agrochemical_
 
 ##### War in Donbass
 ### [ Seven Ukrainian servicemen are killed in suspected attacks by pro-Russian rebels. ](/news/2016/05/24/seven-ukrainian-servicemen-are-killed-in-suspected-attacks-by-pro-russian-rebels.md)

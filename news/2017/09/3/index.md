@@ -5,7 +5,7 @@ Formats: [HTML](2017/09/3/index.html)  [JSON](2017/09/3/index.json)  [XML](2017/
 
 ##### Free-electron laser
 ### [The European X-ray free-electron laser is inaugurated in Hamburg, Germany. ](/news/2017/09/3/the-european-x-ray-free-electron-laser-is-inaugurated-in-hamburg-germany.md)
-_Context: European X-ray free-electron laser, Free-electron laser, German, Hamburg_
+_Context: European X-ray free-electron laser, Free-electron laser, Germany, Hamburg_
 
 ##### 2017 North Korea crisis
 ### [A 6.3 magnitude earthquake is detected near the Punggye-ri Nuclear Test Site in Kilju County, North Korea, after North Korea tests its sixth and most powerful nuclear weapon to date. North Korean state media claims the country tested a hydrogen bomb that can be fitted on an ICBM. ](/news/2017/09/3/a-6-3-magnitude-earthquake-is-detected-near-the-punggye-ri-nuclear-test-site-in-kilju-county-north-korea-after-north-korea-tests-its-sixth.md)
@@ -13,7 +13,7 @@ The test Sunday was an extraordinary show of defiance by the North’s leader, K
 
 ##### Frankfurt
 ### [Large portions of Frankfurt, Germany, are evacuated as local authorities work to defuse a bomb left over from a Royal Air Force raid during World War II. The evacuation is the largest to occur in Europe since World War II. ](/news/2017/09/3/large-portions-of-frankfurt-germany-are-evacuated-as-local-authorities-work-to-defuse-a-bomb-left-over-from-a-royal-air-force-raid-during.md)
-_Context: Frankfurt, German, Royal Air Force, World War II_
+_Context: Frankfurt, Germany, Royal Air Force, World War II_
 
 ##### California wildfires
 ### [The La Tuna Fire continues to burn in Los Angeles, California, becoming the largest fire in the city's history at around 5,800 acres. Mayor Eric Garcetti declares a state of emergency. ](/news/2017/09/3/the-la-tuna-fire-continues-to-burn-in-los-angeles-california-becoming-the-largest-fire-in-the-city-s-history-at-around-5-800-acres-mayor.md)

@@ -33,7 +33,7 @@ The Prince of Wales&#039; tour of Canada has been marred by an anti-monarchy pro
 
 ##### Yemen
 ### [ Yemen criticises "interference" by Iran in the conflict with Houthi rebels in the country, after Iran criticised Saudi Arabian intervention in the conflict. ](/news/2009/11/11/yemen-criticises-interference-by-iran-in-the-conflict-with-houthi-rebels-in-the-country-after-iran-criticised-saudi-arabian-intervention.md)
-_Context: Houthi, Iran, Saudi, Shia insurgency in Yemen, Yemen, ongoing fight_
+_Context: Houthi, Iran, Saudi Arabia, Shia insurgency in Yemen, Yemen, ongoing fight_
 
 ##### Brazil
 ### [ Officials in Brazil investigate the cause of a massive power cut which may have affected a fifth of the population and neighbouring Paraguay. ](/news/2009/11/11/officials-in-brazil-investigate-the-cause-of-a-massive-power-cut-which-may-have-affected-a-fifth-of-the-population-and-neighbouring-paragua.md)

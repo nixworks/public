@@ -67,9 +67,9 @@ _Context: Iraq, Senate, United States_
 ### [ 2007 Pacific hurricane season: Hurricane Ivo forms off the coast of Baja California. ](/news/2007/09/19/2007-pacific-hurricane-season-hurricane-ivo-forms-off-the-coast-of-baja-california.md)
 _Context: 2007 Pacific hurricane season, Baja California_
 
-##### France
+##### French
 ### [ France calls for a joint force of United Nations and European Union peacekeepers in parts of Chad and the Central African Republic bordering the Darfur region of Sudan. ](/news/2007/09/19/france-calls-for-a-joint-force-of-united-nations-and-european-union-peacekeepers-in-parts-of-chad-and-the-central-african-republic-borderin.md)
-_Context: Central African Republic, Chad, Darfur, European Union, France, Sudan, United Nations_
+_Context: Central African Republic, Chad, Darfur, EU, French, Sudan, United Nations_
 
 ## [Previous Day...](/news/2007/09/18/index.md)
 

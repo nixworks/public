@@ -19,9 +19,9 @@ _Context: Henderson, Kentucky, plastics plant_
 ### [ The Supreme Court of Pakistan delays by-elections until it can handle the appeal of disqualified candidate Nawaz Sharif, former Prime Minister and leader of the Pakistan Muslim League (N). ](/news/2008/06/25/the-supreme-court-of-pakistan-delays-by-elections-until-it-can-handle-the-appeal-of-disqualified-candidate-nawaz-sharif-former-prime-minis.md)
 _Context: Nawaz Sharif, Pakistan, Pakistan Muslim League, Prime Minister, Supreme Court, by-elections_
 
-##### Saudi
+##### Saudi Arabia
 ### [ Saudi Arabia announces that it is holding 520 al-Qaeda-linked militants in the insurgency in Saudi Arabia arrested in 2008. ](/news/2008/06/25/saudi-arabia-announces-that-it-is-holding-520-al-qaeda-linked-militants-in-the-insurgency-in-saudi-arabia-arrested-in-2008.md)
-_Context: Saudi, al-Qaeda, insurgency in Saudi Arabia_
+_Context: Saudi Arabia, al-Qaeda, insurgency in Saudi Arabia_
 
 ##### Italian Senate
 ### [ The Italian Senate passes a bill which the opposition claims is designed to ameliorate the legal troubles of Prime Minister Silvio Berlusconi. ](/news/2008/06/25/the-italian-senate-passes-a-bill-which-the-opposition-claims-is-designed-to-ameliorate-the-legal-troubles-of-prime-minister-silvio-berlusco.md)
@@ -43,9 +43,9 @@ In a 5-4 decision, the justices struck down a Louisiana law, ruling that it woul
 ### [ Zimbabwean President Robert Mugabe is stripped of his honorary Order of the Bath knighthood, upon the advice of the UK Secretary of State for Foreign and Commonwealth Affairs. ](/news/2008/06/25/zimbabwean-president-robert-mugabe-is-stripped-of-his-honorary-order-of-the-bath-knighthood-upon-the-advice-of-the-uk-secretary-of-state-f.md)
 _Context: Foreign Secretary, Order of the Bath, President of Zimbabwe, Robert Mugabe, United Kingdom, Zimbabwe, knighthood_
 
-##### European Union
+##### EU
 ### [ EU's representative in Kosovo Pieter Feith says he expects Montenegro will recognize Kosovo's unilateral independence "as soon as possible", as it would "contribute to regional stability". ](/news/2008/06/25/eu-s-representative-in-kosovo-pieter-feith-says-he-expects-montenegro-will-recognize-kosovo-s-unilateral-independence-as-soon-as-possible.md)
-_Context: European Union, Kosovo, Montenegro, Pieter Feith_
+_Context: EU, Kosovo, Montenegro, Pieter Feith_
 
 ## [Previous Day...](/news/2008/06/24/index.md)
 

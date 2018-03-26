@@ -41,7 +41,7 @@ _Context: Congress, Democrat, District of Columbia, Maryland, Presidency of Dona
 
 ##### Egypt-Saudi Arabia relations
 ### [The Egyptian parliament approves the transfer of two uninhabited Red Sea islands, Tiran Island and Sanafir Island, to Saudi Arabia. ](/news/2017/06/14/the-egyptian-parliament-approves-the-transfer-of-two-uninhabited-red-sea-islands-tiran-island-and-sanafir-island-to-saudi-arabia.md)
-_Context: Egypt-Saudi Arabia relations, Parliament of Egypt, Red Sea, Sanafir Island, Saudi, Tiran Island_
+_Context: Egypt-Saudi Arabia relations, Parliament of Egypt, Red Sea, Sanafir Island, Saudi Arabia, Tiran Island_
 
 ##### Earthquakes in Guatemala
 ### [At least six people are killed and seven injured by a 6.9 magnitude earthquake in western Guatemala. ](/news/2017/06/14/at-least-six-people-are-killed-and-seven-injured-by-a-6-9-magnitude-earthquake-in-western-guatemala.md)

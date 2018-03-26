@@ -13,7 +13,7 @@ _Context: Mehmet Ali Agca, Pope John Paul&nbsp;II_
 
 ##### Disaster
 ### [ A stampede during the Stoning the Devil ritual on the last day at the Hajj in Mina, Saudi Arabia, kills at least 362 Muslim pilgrims. A similar crush claimed 244 pilgrims' lives at the same spot in 2004. ](/news/2006/01/12/a-stampede-during-the-stoning-the-devil-ritual-on-the-last-day-at-the-hajj-in-mina-saudi-arabia-kills-at-least-362-muslim-pilgrims-a-sim.md)
-_Context: Hajj, Mina, Saudi, Stoning the Devil, disaster, pilgrim_
+_Context: Hajj, Mina, Saudi Arabia, Stoning the Devil, disaster, pilgrim_
 
 ##### Iran
 ### [ The foreign ministers of Britain, France, and Germany declare that negotiations with Iran over its nuclear program have reached a "dead end." They recommend that Iran be referred to the United Nations Security Council, where the nation may face sanctions. ](/news/2006/01/12/the-foreign-ministers-of-britain-france-and-germany-declare-that-negotiations-with-iran-over-its-nuclear-program-have-reached-a-dead-end.md)

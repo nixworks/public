@@ -25,7 +25,7 @@ _Context: London, Met Office, South East England, heat wave_
 
 ##### Croatia
 ### [ Croatian Prime Minister Ivo Sanader resigns amidst European Union negotiations standstill and economic crisis. ](/news/2009/07/1/croatian-prime-minister-ivo-sanader-resigns-amidst-european-union-negotiations-standstill-and-economic-crisis.md)
-_Context: Croatia, European Union, Ivo Sanader, economic crisis, formal entry of Croatia, prime minister_
+_Context: Croatia, EU, Ivo Sanader, economic crisis, formal entry of Croatia, prime minister_
 
 ##### Comoros
 ### [ Officials in Comoros confirm that one passenger from Yemenia Flight 626, a 14-year-old girl, has been found alive. ](/news/2009/07/1/officials-in-comoros-confirm-that-one-passenger-from-yemenia-flight-626-a-14-year-old-girl-has-been-found-alive.md)
@@ -33,13 +33,13 @@ _Context: Comoros, Yemenia Flight 626_
 
 ##### Sweden
 ### [ Swedish Prime Minister Fredrik Reinfeldt assumes the rotating presidency over the European Union. ](/news/2009/07/1/swedish-prime-minister-fredrik-reinfeldt-assumes-the-rotating-presidency-over-the-european-union.md)
-_Context: European Union, Fredrik Reinfeldt, Sweden_
+_Context: EU, Fredrik Reinfeldt, Sweden_
 
 ##### Organization of American States
 ### [ The Organization of American States gives Honduras three days to restore its deposed president, Manuel Zelaya. ](/news/2009/07/1/the-organization-of-american-states-gives-honduras-three-days-to-restore-its-deposed-president-manuel-zelaya.md)
 A flurry of negotiations began on Wednesday to lay the groundwork for a possible return of the nation’s ousted president, Manuel Zelaya.
 
-##### European Union
+##### EU
 ### [ The European Union declares Ireland free of brucellosis, a disease which cost the country millions of euro to eradicate. ](/news/2009/07/1/the-european-union-declares-ireland-free-of-brucellosis-a-disease-which-cost-the-country-millions-of-euro-to-eradicate.md)
 Ireland has been declared free of a cattle disease, which cost the country millions of euro to eradicate.
 

@@ -37,7 +37,7 @@ Senior Indian and Pakistani officials pledged Thursday to improve frosty relatio
 
 ##### Migrant workers
 ### [Millions of mostly Asian women who work in countries like Saudi Arabia, Lebanon and the United Arab Emirates remain at risk of human trafficking, forced labor, confinement and sexual violence, the New York-based Human Rights Watch group reports. ](/news/2010/04/29/millions-of-mostly-asian-women-who-work-in-countries-like-saudi-arabia-lebanon-and-the-united-arab-emirates-remain-at-risk-of-human-traffic.md)
-_Context: Human Rights Watch, Lebanese, New York City, Saudi, United Arab Emirates, confinement, forced labor, human trafficking, migrant workers, sexual violence_
+_Context: Human Rights Watch, Lebanese, New York City, Saudi Arabia, United Arab Emirates, confinement, forced labor, human trafficking, migrant workers, sexual violence_
 
 ##### U.S. government
 ### [A U.S. government panel, the U.S. Commission on International Religious Freedom, names Saudi Arabia and China among 13 countries as the most serious violators of religious freedom. ](/news/2010/04/29/a-u-s-government-panel-the-u-s-commission-on-international-religious-freedom-names-saudi-arabia-and-china-among-13-countries-as-the-most.md)

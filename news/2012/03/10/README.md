@@ -39,7 +39,7 @@ At least six people are killed in a grenade attack in the Kenyan capital which t
 ### [Air raids in Bayda kill 10 Al-Qaeda militants. ](/news/2012/03/10/air-raids-in-bayda-kill-10-al-qaeda-militants.md)
 Air strikes are launched against suspected al-Qaeda targets in southern Yemen, killing up to 45 militants, reports say.
 
-##### Somali
+##### Somalia
 ### [Clashes take place in Somalia, where Al-Shabaab ambush Ethiopian troops. ](/news/2012/03/10/clashes-take-place-in-somalia-where-al-shabaab-ambush-ethiopian-troops.md)
 Islamist militants of al-Shabab ambush Ethiopian troops in central Somalia, resulting in dozens of casualties, reports say.
 

@@ -59,9 +59,9 @@ Nobel Prize-winning economist Paul Krugman has predicted that the Irish economic
 ### [ Ireland conducts local elections and two by-elections in Dublin Central and Dublin South. ](/news/2009/06/5/ireland-conducts-local-elections-and-two-by-elections-in-dublin-central-and-dublin-south.md)
 _Context: Dublin Central, Dublin South, Irish, by-election, local elections_
 
-##### European Union
+##### EU
 ### [ The European Union's parliamentary election continues in the Czech Republic and Ireland. ](/news/2009/06/5/the-european-union-s-parliamentary-election-continues-in-the-czech-republic-and-ireland.md)
-_Context: Czech Republic, European Parliament, European Union, Irish, election_
+_Context: Czech Republic, EU, European Parliament, Irish, election_
 
 ##### Adolf Hitler
 ### [ Two thousand new private color photographs of Adolf Hitler are published. ](/news/2009/06/5/two-thousand-new-private-color-photographs-of-adolf-hitler-are-published.md)

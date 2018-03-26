@@ -13,7 +13,7 @@ _Context: California, Hawaii, Maryland, Massachusetts, New York, Oregon, United 
 
 ##### Proposed second Scottish independence referendum
 ### [Scotland's First Minister Nicola Sturgeon announces she will seek a second referendum on Scottish independence from the United Kingdom. ](/news/2017/03/13/scotland-s-first-minister-nicola-sturgeon-announces-she-will-seek-a-second-referendum-on-scottish-independence-from-the-united-kingdom.md)
-_Context: First Minister, Nicola Sturgeon, Proposed second Scottish independence referendum, Scottish, Scottish independence, United Kingdom_
+_Context: First Minister, Nicola Sturgeon, Proposed second Scottish independence referendum, Scotland, Scottish independence, United Kingdom_
 
 ##### 2017 Dutch-Turkish diplomatic incident
 ### [Turkey bans the Dutch ambassador, Cornelis Van Rij, from returning to the Embassy of the Netherlands in Ankara, and closes its airspace to Dutch diplomats in response to a Dutch ban on Turkish ministers speaking at pro-Erdogan rallies. ](/news/2017/03/13/turkey-bans-the-dutch-ambassador-cornelis-van-rij-from-returning-to-the-embassy-of-the-netherlands-in-ankara-and-closes-its-airspace-to-d.md)

@@ -3,7 +3,7 @@ Formats: [HTML](2012/12/29/index.html)  [JSON](2012/12/29/index.json)  [XML](201
 
 ## [2012-12-29](/news/2012/12/29/index.md)
 
-##### France
+##### French
 ### [France's Constitutional Council strikes down the government's plan to impose a 75 percent marginal income tax rate on the wealthy. ](/news/2012/12/29/franceas-constitutional-council-strikes-down-the-governmentas-plan-to-impose-a-75-percent-marginal-income-tax-rate-on-the-wealthy.md)
 The Constitutional Council opposed a plan to impose a 75 percent marginal income tax rate on the wealthy that would have applied to annual income above 1 million euros, or about $1.3 million.
 

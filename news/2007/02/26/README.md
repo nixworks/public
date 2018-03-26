@@ -5,11 +5,11 @@ Formats: [HTML](2007/02/26/index.html)  [JSON](2007/02/26/index.json)  [XML](200
 
 ##### United Kingdom
 ### [ United Kingdom Secretary of State for Defence Des Browne announces the deployment of an additional 1,400 troops to Afghanistan. ](/news/2007/02/26/united-kingdom-secretary-of-state-for-defence-des-browne-announces-the-deployment-of-an-additional-1-400-troops-to-afghanistan.md)
-_Context: Afghan, British military personnel, Des Browne, Secretary of State for Defence, United Kingdom_
+_Context: Afghanistan, British military personnel, Des Browne, Secretary of State for Defence, United Kingdom_
 
 ##### U.S. Vice President
 ### [ Vice President of the United States Dick Cheney makes surprise visits to Pakistan and Afghanistan to encourage President of Pakistan Pervez Musharraf and President of Afghanistan Hamid Karzai to increase border security between the two countries and to take further action against the Taliban and al-Qaeda. ](/news/2007/02/26/vice-president-of-the-united-states-dick-cheney-makes-surprise-visits-to-pakistan-and-afghanistan-to-encourage-president-of-pakistan-pervez.md)
-_Context: Afghan, Afghan President, Dick Cheney, Hamid Karzai, Pakistan, Pervez Musharraf, Taliban, U.S. Vice President, al-Qaeda, president_
+_Context: Afghan President, Afghanistan, Dick Cheney, Hamid Karzai, Pakistan, Pervez Musharraf, Taliban, U.S. Vice President, al-Qaeda, president_
 
 ##### Guatemala
 ### [ Four Guatemalan police officers jailed for the 19 February slaying of three Salvadoran deputies to the Central American Parliament are shot dead inside a maximum security prison; a riot ensues. ](/news/2007/02/26/four-guatemalan-police-officers-jailed-for-the-19-february-slaying-of-three-salvadoran-deputies-to-the-central-american-parliament-are-shot.md)
@@ -37,7 +37,7 @@ The attack was the most serious breach of an Iraqi government building since Nov
 
 ##### Insurgency in Saudi Arabia
 ### [ Insurgency in Saudi Arabia: At least three French citizens have been shot dead in an attack near the historical site of Madain Saleh. ](/news/2007/02/26/insurgency-in-saudi-arabia-at-least-three-french-citizens-have-been-shot-dead-in-an-attack-near-the-historical-site-of-madain-saleh.md)
-_Context: France, Insurgency in Saudi Arabia, Madain Saleh_
+_Context: French, Insurgency in Saudi Arabia, Madain Saleh_
 
 ##### Talpiot Tomb
 ### [ Talpiot Tomb: Film director James Cameron claims to have found ossuaries that once contained the remains of Jesus of Nazareth, his disciple Mary Magdalene, and their son, named Judah. ](/news/2007/02/26/talpiot-tomb-film-director-james-cameron-claims-to-have-found-ossuaries-that-once-contained-the-remains-of-jesus-of-nazareth-his-disciple.md)

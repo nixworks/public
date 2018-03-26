@@ -19,9 +19,9 @@ _Context: China, Chinese, Inner Mongolia, Mongolia_
 ### [The sons of former President of Egypt Hosni Mubarak, Alaa Mubarak and Jamal Mubarak, are detained in custody for another 15 days over accumulating wealth by unfair means. ](/news/2011/05/30/the-sons-of-former-president-of-egypt-hosni-mubarak-alaa-mubarak-and-jamal-mubarak-are-detained-in-custody-for-another-15-days-over-accumu.md)
 _Context: Alaa Mubarak, Hosni Mubarak, Jamal Mubarak, President, unfair_
 
-##### Saudi
+##### Saudi Arabia
 ### [A human rights advocate claims that Saudi Arabia has released Manal al-Sherif, detained for breaking the law against women drivers. ](/news/2011/05/30/a-human-rights-advocate-claims-that-saudi-arabia-has-released-manal-al-sherif-detained-for-breaking-the-law-against-women-drivers.md)
-_Context: Saudi_
+_Context: Saudi Arabia_
 
 ##### South Korean President
 ### [Eun Jin-soo, a former aide to the President of South Korea Lee Myung-bak, is arrested on bribery charges. ](/news/2011/05/30/eun-jin-soo-a-former-aide-to-the-president-of-south-korea-lee-myung-bak-is-arrested-on-bribery-charges.md)
@@ -43,7 +43,7 @@ An E. coli outbreak that has killed 14 people and made more than 300 seriously i
 ### [The Development Bank of Japan announces plans to establish a 50 billion yen fund to assist auto parts manufacturers hurt by the 2011 Tohoku earthquake and tsunami. ](/news/2011/05/30/the-development-bank-of-japan-announces-plans-to-establish-a-50-billion-yen-fund-to-assist-auto-parts-manufacturers-hurt-by-the-2011-tahoku.md)
 _Context: 2011 Tohoku earthquake and tsunami, Development Bank of Japan, yen_
 
-##### German
+##### Germany
 ### [Germany's ruling coalition led by Chancellor Angela Merkel pledges to end all nuclear power by 2022. ](/news/2011/05/30/germany-s-ruling-coalition-led-by-chancellor-angela-merkel-pledges-to-end-all-nuclear-power-by-2022.md)
 Germany says all of its nuclear power plants will be shut by 2022 in the wake of the Fukushima crisis in Japan, reversing an earlier policy.
 

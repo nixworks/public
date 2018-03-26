@@ -35,7 +35,7 @@ President Obama on Sunday called the San Bernardino massacre &quot;an act of ter
 ### [Clashes erupt in Athens between left-wing demonstrators and Greek police with at least eighteen people arrested. ](/news/2015/12/6/clashes-erupt-in-athens-between-left-wing-demonstrators-and-greek-police-with-at-least-eighteen-people-arrested.md)
 _Context: Athens, Greek police_
 
-##### German
+##### Germany
 ### [Germany's vice-chancellor, Sigmar Gabriel, accuses Saudi Arabia of financing Islamic extremism in the West and warns that it must stop. He tells German media, "We have to make clear to the Saudis that the time of looking away is over, Wahhabi mosques all over the world are financed by Saudi Arabia. Many Islamists who are a threat to public safety come from these communities in Germany". His comments come days after Germany's Federal Intelligence Service released a report saying Saudi Arabia was "destabilizing" the Arab world. ](/news/2015/12/6/germany-s-vice-chancellor-sigmar-gabriel-accuses-saudi-arabia-of-financing-islamic-extremism-in-the-west-and-warns-that-it-must-stop-he-t.md)
 In a highly unusual moment of a Western politician attacking a critical Arab ally, Sigmar Gabriel says the time has come to make it clear to Riyadh the time of looking away is over
 

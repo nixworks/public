@@ -9,7 +9,7 @@ _Context: 2014 Russian financial crisis, Vladimir Putin, bootleg, moonshine, vod
 
 ##### United States
 ### [United States President Barack Obama praises U.S. troops and reflects on the U.S. withdrawal from Afghanistan during his annual Christmas message from Hawaii. ](/news/2014/12/25/united-states-president-barack-obama-praises-u-s-troops-and-reflects-on-the-u-s-withdrawal-from-afghanistan-during-his-annual-christmas-me.md)
-_Context: Afghan, Barack Obama, Hawaii, U.S. President, U.S. withdrawal, United States, United States military personnel_
+_Context: Afghanistan, Barack Obama, Hawaii, U.S. President, U.S. withdrawal, United States, United States military personnel_
 
 ##### 2014 Ebola epidemic
 ### [In her Royal Christmas Message, Queen Elizabeth II praises aid workers for fighting ebola in West Africa. ](/news/2014/12/25/in-her-royal-christmas-message-queen-elizabeth-ii-praises-aid-workers-for-fighting-ebola-in-west-africa.md)

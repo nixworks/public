@@ -71,13 +71,13 @@ _Context: David B. Chalmers, Jr, Texas, United Nations, oil, oil-for-food, wire 
 ### [ Interpol issues warrants for the arrest of Saddam Hussein's eldest daughter Raghad Hussein and his first wife Sajida Khairalla Tulfa for providing support to Iraqi insurgents. ](/news/2007/08/17/interpol-issues-warrants-for-the-arrest-of-saddam-hussein-s-eldest-daughter-raghad-hussein-and-his-first-wife-sajida-khairalla-tulfa-for-pr.md)
 Iraqi officials would not discuss the specific charges against Raghad Saddam Hussein and her mother, Sajida Khairalla Tulfa.
 
-##### France
+##### French
 ### [ France circulates a draft United Nations Security Council resolution extending the mandate of the 13,600 United Nations peacekeeping force in Lebanon. ](/news/2007/08/17/france-circulates-a-draft-united-nations-security-council-resolution-extending-the-mandate-of-the-13-600-united-nations-peacekeeping-force.md)
-_Context: France, Lebanese, United Nations, United Nations Security Council_
+_Context: French, Lebanese, United Nations, United Nations Security Council_
 
 ##### Taliban
 ### [ A dozen Taliban die in an attempted ambush of a joint patrol of Afghan police and Coalition troops in Helmand province. ](/news/2007/08/17/a-dozen-taliban-die-in-an-attempted-ambush-of-a-joint-patrol-of-afghan-police-and-coalition-troops-in-helmand-province.md)
-_Context: Afghan, Helmand Province, Taliban, ambush_
+_Context: Afghanistan, Helmand Province, Taliban, ambush_
 
 ##### Iran
 ### [ Six members of the Iranian security forces are killed in a helicopter crash near the town of Piranshahr close to the Iraqi border. ](/news/2007/08/17/six-members-of-the-iranian-security-forces-are-killed-in-a-helicopter-crash-near-the-town-of-piranshahr-close-to-the-iraqi-border.md)

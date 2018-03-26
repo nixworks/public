@@ -15,7 +15,7 @@ Sammy Sosa, who joined Mark McGwire in 1998 in pursuit of the single-season home
 ### [ Sir John Sawers is named head of MI6. ](/news/2009/06/16/sir-john-sawers-is-named-head-of-mi6.md)
 _Context: John Sawers, Secret Intelligence Service_
 
-##### German
+##### Germany
 ### [ German economic confidence reaches its highest level for over three years. ](/news/2009/06/16/german-economic-confidence-reaches-its-highest-level-for-over-three-years.md)
 Germany&#39;s ZEW confidence index surged in June to the highest level for more than three years.
 
@@ -33,7 +33,7 @@ _Context: General Motors, Koenigsegg, Saab Automobile_
 
 ##### Presidential election
 ### [ Official campaigning for the 2009 presidential election in Afghanistan begins. ](/news/2009/06/16/official-campaigning-for-the-2009-presidential-election-in-afghanistan-begins.md)
-_Context: Afghan, presidential election_
+_Context: Afghanistan, presidential election_
 
 ##### China
 ### [ China announces plan to provide a US$ 10 billion credit loan to member states of the Shanghai Cooperation Organisation. ](/news/2009/06/16/china-announces-plan-to-provide-a-us-10-billion-credit-loan-to-member-states-of-the-shanghai-cooperation-organisation.md)

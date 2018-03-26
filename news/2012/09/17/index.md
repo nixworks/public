@@ -57,7 +57,7 @@ A ripped condom given to Swedish police by one of Julian Assange’s accusers do
 
 ##### Indians
 ### [At least 13 people, including ten Indians, are killed in a bus accident in Jubail, Saudi Arabia. ](/news/2012/09/17/at-least-13-people-including-ten-indians-are-killed-in-a-bus-accident-in-jubail-saudi-arabia.md)
-_Context: Indians, Jubail, Saudi_
+_Context: Indians, Jubail, Saudi Arabia_
 
 ##### Typhoon Sanba
 ### [Typhoon Sanba makes landfall in South Korea near the port of Yeosu causing the cancellation of flights and other transport services; one person is reported dead. ](/news/2012/09/17/typhoon-sanba-makes-landfall-in-south-korea-near-the-port-of-yeosu-causing-the-cancellation-of-flights-and-other-transport-services-one-per.md)

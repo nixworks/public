@@ -17,7 +17,7 @@ _Context: Canada, Canadian federal election, 2006, Frank McKenna, George W. Bush
 
 ##### FIFA
 ### [ The Groups for the 2006 FIFA World Cup to be held in Germany are finalized. ](/news/2005/12/9/the-groups-for-the-2006-fifa-world-cup-to-be-held-in-germany-are-finalized.md)
-_Context: FIFA, German, World Cup_
+_Context: FIFA, Germany, World Cup_
 
 ##### Viacom
 ### [ Viacom's Paramount Pictures agrees to buy the DreamWorks SKG company founded by Steven Spielberg, Jeffrey Katzenberg and David Geffen for $1.6 billion. ](/news/2005/12/9/viacom-s-paramount-pictures-agrees-to-buy-the-dreamworks-skg-company-founded-by-steven-spielberg-jeffrey-katzenberg-and-david-geffen-for.md)

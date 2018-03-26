@@ -27,7 +27,7 @@ _Context: Poland, Poland's parliament, press freedom_
 ### [Companies shut down production in Beijing and cars are taken off the road after a red alert for smog is issued in northern China. Dozens of cities have closed schools due to the smog. ](/news/2016/12/19/companies-shut-down-production-in-beijing-and-cars-are-taken-off-the-road-after-a-red-alert-for-smog-is-issued-in-northern-china-dozens-of.md)
 _Context: Beijing, northern China_
 
-##### European Union
+##### EU
 ### [Regulators in the European Union initiate a "public consultation" on Big Data looking at whether more regulation or supervision of the collection of high volumes of information on individuals is appropriate. ](/news/2016/12/19/regulators-in-the-european-union-initiate-a-public-consultation-on-big-data-looking-at-whether-more-regulation-or-supervision-of-the-colle.md)
 Additional rules may be needed to monitor growth in Big Data, or collection of high volumes of information, which could pose security, privacy and accountability risks, European Union regulators said on Monday.
 

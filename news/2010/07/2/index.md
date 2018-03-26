@@ -7,9 +7,9 @@ Formats: [HTML](2010/07/2/index.html)  [JSON](2010/07/2/index.json)  [XML](2010/
 ### [Gazprom and Beltransgaz sign a gas transit deal, setting the transit fee for this year. ](/news/2010/07/2/gazprom-and-beltransgaz-sign-a-gas-transit-deal-setting-the-transit-fee-for-this-year.md)
 _Context: Beltransgaz, Gazprom_
 
-##### German
+##### Germany
 ### [Germany vows to suspend aid to Zimbabwe unless occupiers leave a farm owned by a German national. ](/news/2010/07/2/germany-vows-to-suspend-aid-to-zimbabwe-unless-occupiers-leave-a-farm-owned-by-a-german-national.md)
-_Context: German, Zimbabwe_
+_Context: Germany, Zimbabwe_
 
 ##### U.S. President
 ### [President of the United States Barack Obama signs into law the CISAD Act, which bans US banks from doing business with foreign banks that provide services to Iran's elite Revolutionary Guards. ](/news/2010/07/2/president-of-the-united-states-barack-obama-signs-into-law-the-cisad-act-which-bans-us-banks-from-doing-business-with-foreign-banks-that-pr.md)

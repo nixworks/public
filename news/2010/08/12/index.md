@@ -165,7 +165,7 @@ At least two inmates are killed and more than 80 injured during a prison riot in
 
 ##### United Nations
 ### [The United Nations condemns France's crackdown on 40 gypsy camps. ](/news/2010/08/12/the-united-nations-condemns-france-s-crackdown-on-40-gypsy-camps.md)
-_Context: France, Roma, United Nations_
+_Context: French, Roma, United Nations_
 
 ##### Dhaka
 ### [At least 50 people are injured in Dhaka as police use batons and tear gas to beat back civilians protesting against frequent power outage. ](/news/2010/08/12/at-least-50-people-are-injured-in-dhaka-as-police-use-batons-and-tear-gas-to-beat-back-civilians-protesting-against-frequent-power-outage.md)
@@ -177,7 +177,7 @@ _Context: Human Rights Watch, Lord's Resistance Army, Uganda, central Africa_
 
 ##### International Assistance Mission
 ### [The International Assistance Mission says it now believes that the Taliban was responsible for the 2010 Badakhshan massacre of its medical team in Afghanistan. ](/news/2010/08/12/the-international-assistance-mission-says-it-now-believes-that-the-taliban-was-responsible-for-the-2010-badakhshan-massacre-of-its-medical-t.md)
-_Context: 2010 Badakhshan massacre, Afghan, International Assistance Mission, Taliban_
+_Context: 2010 Badakhshan massacre, Afghanistan, International Assistance Mission, Taliban_
 
 ## [Previous Day...](/news/2010/08/11/index.md)
 

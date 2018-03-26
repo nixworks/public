@@ -17,7 +17,7 @@ Police in India say they have arrested Yasin Bhatkal, the alleged leader of the 
 
 ##### Vienna
 ### [Scientists at Vienna's Institute of Molecular Biotechnology and Edinburgh University's Human Genetics Unit in Edinburgh, Scotland, clone a human mini-brain (a cerebral organoid), using stem cells; the first time brain tissue development has been replicated in three dimensions - which could help with schizophrenia and autism neurological research. ](/news/2013/08/29/scientists-at-vienna-s-institute-of-molecular-biotechnology-and-edinburgh-university-s-human-genetics-unit-in-edinburgh-scotland-clone-a-h.md)
-_Context: Edinburgh, Edinburgh University, Scottish, Vienna_
+_Context: Edinburgh, Edinburgh University, Scotland, Vienna_
 
 ##### 
 ### [8.6 million Americans take prescription sleeping pills to catch some sleep, according to the first federal health study to focus on actual use. ](/news/2013/08/29/8-6-million-americans-take-prescription-sleeping-pills-to-catch-some-sleep-according-to-the-first-federal-health-study-to-focus-on-actual-u.md)
@@ -39,7 +39,7 @@ _Context: NASDAQ OMX_
 ### [North Korea warns against an underway joint military drill by South Korea and the United States, stating that the exercise could jeopardize a recent easing of tension on the Korean Peninsula. ](/news/2013/08/29/north-korea-warns-against-an-underway-joint-military-drill-by-south-korea-and-the-united-states-stating-that-the-exercise-could-jeopardize.md)
 The U.S. is threatening a nuclear attack against North Korea by flying B-52 bombers during joint military drills with South Korea this month, the North’s National Defense Commission said.
 
-##### France
+##### French
 ### [The French frigate "Chevalier Paul" leaves the port city of Toulon, though the shipping authorities declined to confirm a media report that it was headed to Syria. ](/news/2013/08/29/the-french-frigate-chevalier-paul-leaves-the-port-city-of-toulon-though-the-shipping-authorities-declined-to-confirm-a-media-report-that.md)
 MPs vote against possible military action against Syria, ruling out involvement in US-led attacks, while France says the vote does not change its resolve to act.
 

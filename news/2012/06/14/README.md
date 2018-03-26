@@ -71,9 +71,9 @@ Rovio, the Finnish gaming company behind Angry Birds, has opened its Shanghai of
 ### [Nokia announces it will cut 10,000 jobs. ](/news/2012/06/14/nokia-announces-it-will-cut-10-000-jobs.md)
 Nokia cuts another 10,000 jobs and warns that second-quarter losses from its mobile phone business will be larger than expected.
 
-##### German
+##### Germany
 ### [German deputy finance minister Steffen Kampeter rejects calls to pool European debt, saying "debt is a national responsibility." ](/news/2012/06/14/german-deputy-finance-minister-steffen-kampeter-rejects-calls-to-pool-european-debt-saying-debt-is-a-national-responsibility.md)
-_Context: German, Steffen Kampeter_
+_Context: Germany, Steffen Kampeter_
 
 ##### Westlife
 ### [Westlife singer Shane Filan is declared bankrupt. ](/news/2012/06/14/westlife-singer-shane-filan-is-declared-bankrupt.md)

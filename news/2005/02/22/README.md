@@ -23,9 +23,9 @@ _Context: Faure Gnassingb, Togo, constitution_
 ### [ In Nigeria, President Olusegun Obasanjo opens a national political conference about constitutional reform ](/news/2005/02/22/in-nigeria-president-olusegun-obasanjo-opens-a-national-political-conference-about-constitutional-reform.md)
 _Context: Nigeria, Olusegun Obasanjo, constitution_
 
-##### European Union
+##### EU
 ### [ European Union countries renew sanctions against the government of Robert Mugabe in Zimbabwe ](/news/2005/02/22/european-union-countries-renew-sanctions-against-the-government-of-robert-mugabe-in-zimbabwe.md)
-_Context: European Union, Robert Mugabe, Zimbabwe_
+_Context: EU, Robert Mugabe, Zimbabwe_
 
 ##### World Food Program
 ### [ The World Food Program states that it has only 70 000 tons of food left for Eritrea food aid until June. Reason given is the concentration of aid to areas that suffered from 2004 Indian Ocean earthquake ](/news/2005/02/22/the-world-food-program-states-that-it-has-only-70-000-tons-of-food-left-for-eritrea-food-aid-until-june-reason-given-is-the-concentration.md)

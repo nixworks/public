@@ -21,11 +21,11 @@ _Context: Conflict in Iraq, Iraq, US Soldiers, US Troops, United Nations, bullet
 
 ##### War in Afghanistan (2001-present)
 ### [ Conflict in Afghanistan: US Troops claim to have killed more than one hundred suspects following raids in south and East Afghanistan. ](/news/2005/08/22/conflict-in-afghanistan-us-troops-claim-to-have-killed-more-than-one-hundred-suspects-following-raids-in-south-and-east-afghanistan.md)
-_Context: Afghan, US Troops, War in Afghanistan (2001-present), suspect_
+_Context: Afghanistan, US Troops, War in Afghanistan (2001-present), suspect_
 
 ##### Piano Man
 ### [ The Piano Man has been identified and sent back home to Bavaria, Germany. ](/news/2005/08/22/the-piano-man-has-been-identified-and-sent-back-home-to-bavaria-germany.md)
-_Context: Bavaria, German, Piano Man_
+_Context: Bavaria, Germany, Piano Man_
 
 ##### Beirut
 ### [ A large explosion injures several people in Beirut, Lebanon. ](/news/2005/08/22/a-large-explosion-injures-several-people-in-beirut-lebanon.md)

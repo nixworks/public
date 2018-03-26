@@ -5,7 +5,7 @@ Formats: [HTML](2005/08/16/index.html)  [JSON](2005/08/16/index.json)  [XML](200
 
 ##### World Youth Day 2005
 ### [ World Youth Day 2005 begins in Cologne, Germany. ](/news/2005/08/16/world-youth-day-2005-begins-in-cologne-germany.md)
-_Context: Cologne, German, World Youth Day 2005_
+_Context: Cologne, Germany, World Youth Day 2005_
 
 ##### West Caribbean Airways Flight 708
 ### [ West Caribbean Airways Flight 708 from Colombia crashes in a remote region of Venezuela with 160 people on board. ](/news/2005/08/16/west-caribbean-airways-flight-708-from-colombia-crashes-in-a-remote-region-of-venezuela-with-160-people-on-board.md)
@@ -13,7 +13,7 @@ _Context: Colombia, Venezuela, West Caribbean Airways Flight 708_
 
 ##### Puma helicopters
 ### [ Two Puma helicopters crash near the city of Herat, in western Afghanistan, killing Spanish troops. ](/news/2005/08/16/two-puma-helicopters-crash-near-the-city-of-herat-in-western-afghanistan-killing-spanish-troops.md)
-_Context: Afghan, Herat, Puma helicopters, Spanish_
+_Context: Afghanistan, Herat, Puma helicopters, Spanish_
 
 ##### ITN
 ### [ ITN news announces it has uncovered classified documents which seem to imply that Jean Charles de Menezes, the man shot dead by British Police on July 22, 2005, was not wearing a heavy coat, did not jump the ticket barrier, was not given a warning, and did not at any time flee from police. ](/news/2005/08/16/itn-news-announces-it-has-uncovered-classified-documents-which-seem-to-imply-that-jean-charles-de-menezes-the-man-shot-dead-by-british-pol.md)

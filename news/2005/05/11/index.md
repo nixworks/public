@@ -25,7 +25,7 @@ _Context: India, Madhya Pradesh, Shakuntala Verma, child marriage_
 
 ##### Bulgaria
 ### [ The Bulgarian parliament ratifies the EU membership treaty. ](/news/2005/05/11/the-bulgarian-parliament-ratifies-the-eu-membership-treaty.md)
-_Context: Bulgaria, European Union_
+_Context: Bulgaria, EU_
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: At least 60 people die following a series of bombings throughout Iraq. ](/news/2005/05/11/conflict-in-iraq-at-least-60-people-die-following-a-series-of-bombings-throughout-iraq.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2006/09/26/index.html)  [JSON](2006/09/26/index.json)  [XML](200
 
 ##### European Commission
 ### [ The European Commission confirms that Bulgaria and Romania are set to join the European Union on 1 January 2007, in what may be the last EU expansion before a European constitution is established. ](/news/2006/09/26/the-european-commission-confirms-that-bulgaria-and-romania-are-set-to-join-the-european-union-on-1-january-2007-in-what-may-be-the-last-eu.md)
-_Context: Bulgaria, European Commission, European Union, European constitution, Romania_
+_Context: Bulgaria, EU, European Commission, European constitution, Romania_
 
 ##### Diet
 ### [ The Diet of Japan confirms Shinzo Abe as the Prime Minister of Japan. At 52, he is the youngest Prime Minister since World War II. ](/news/2006/09/26/the-diet-of-japan-confirms-shinzo-abe-as-the-prime-minister-of-japan-at-52-he-is-the-youngest-prime-minister-since-world-war-ii.md)
@@ -13,7 +13,7 @@ _Context: Diet, Japanese Prime Minister, Shinzo Abe, World War II_
 
 ##### Lashkar Gah
 ### [ At least 18 people are killed in an explosion outside a government office in Lashkar Gah in southern Afghanistan. ](/news/2006/09/26/at-least-18-people-are-killed-in-an-explosion-outside-a-government-office-in-lashkar-gah-in-southern-afghanistan.md)
-_Context: Afghan, Lashkar Gah_
+_Context: Afghanistan, Lashkar Gah_
 
 ##### WorldCom
 ### [ Former WorldCom chief Bernard Ebbers reports to a federal prison in the U.S. state of Louisiana to begin a 25-year prison term. ](/news/2006/09/26/former-worldcom-chief-bernard-ebbers-reports-to-a-federal-prison-in-the-u-s-state-of-louisiana-to-begin-a-25-year-prison-term.md)

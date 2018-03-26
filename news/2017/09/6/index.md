@@ -21,7 +21,7 @@ Catalan lawmakers are voting on a bill that will allow regional authorities to o
 
 ##### Refugee immigration to Germany
 ### [The European Court of Justice dismisses complaints by Slovakia and Hungary about EU migration policy, upholding Brussels' right to force member states to take in asylum seekers. ](/news/2017/09/6/the-european-court-of-justice-dismisses-complaints-by-slovakia-and-hungary-about-eu-migration-policy-upholding-brusselsa-right-to-force-m.md)
-_Context: Brussels', European Court of Justice, European Union, Hungary, Slovakia, refugee immigration to Germany_
+_Context: Brussels', EU, European Court of Justice, Hungary, Slovakia, refugee immigration to Germany_
 
 ##### Bangladesh-Myanmar relations
 ### [Bangladesh accuses the Myanmar Army of laying landmines on the border between both countries to prevent the return of fleeing Rohingya refugees. Myanmar denies the Bangladeshi claims. ](/news/2017/09/6/bangladesh-accuses-the-myanmar-army-of-laying-landmines-on-the-border-between-both-countries-to-prevent-the-return-of-fleeing-rohingya-refug.md)

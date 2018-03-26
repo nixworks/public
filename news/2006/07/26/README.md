@@ -19,9 +19,9 @@ _Context: Fran P. Mainella, National Park Service, United States_
 ### [ Fragments of a Psalter, a prayer book, are found in a bog in Ireland, where it has been for an estimated 1200 years. ](/news/2006/07/26/fragments-of-a-psalter-a-prayer-book-are-found-in-a-bog-in-ireland-where-it-has-been-for-an-estimated-1200-years.md)
 _Context: Fragments of a Psalter, Ireland, bog_
 
-##### German
+##### Germany
 ### [ Germany and 11 other nations, including Israel, sign a protocol to open the International Tracing Service in Bad Arolsen in the state of Hesse up to international researchers. It contains up to 50 million documents relating to 17.5 million individuals. ](/news/2006/07/26/germany-and-11-other-nations-including-israel-sign-a-protocol-to-open-the-international-tracing-service-in-bad-arolsen-in-the-state-of-he.md)
-_Context: Bad Arolsen, German, Hesse, International Tracing Service, Israel_
+_Context: Bad Arolsen, Germany, Hesse, International Tracing Service, Israel_
 
 ##### Second Dby administration
 ### [ The governments of Chad and Sudan sign an accord officially ending the Chadian-Sudanese conflict. The deal has many provisions similar to that of the Tripoli Accord, which Sudan has violated four times by aiding Janjaweed, UFDC, and anti-Boziz rebels and genocidaires. ](/news/2006/07/26/the-governments-of-chad-and-sudan-sign-an-accord-officially-ending-the-chadian-sudanese-conflict-the-deal-has-many-provisions-similar-to-t.md)

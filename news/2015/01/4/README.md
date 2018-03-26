@@ -15,7 +15,7 @@ _Context: Kenya, Nairobi_
 ### [A suicide car bomber detonates near a military convoy in Mogadishu, Somalia, killing four people. ](/news/2015/01/4/a-suicide-car-bomber-detonates-near-a-military-convoy-in-mogadishu-somalia-killing-four-people.md)
 A suicide car bomb attack by the Somali Islamist group al-Shabab kills four people near Mogadishu airport.
 
-##### Houthis
+##### Houthi
 ### [A bombing at a local Houthi movement headquarters in Dhamar Governorate, Yemen, kills five people and wounds 25. ](/news/2015/01/4/a-bombing-at-a-local-houthi-movement-headquarters-in-dhamar-governorate-yemen-kills-five-people-and-wounds-25.md)
 Yemeni security officials say unknown assailants have attacked Houthis south of the capital, Sanaa, setting off an explosion that killed at least five Houthis and wounded over 25.
 

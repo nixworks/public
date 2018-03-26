@@ -23,7 +23,7 @@ Chinese Premier Wen Jiabao said his country will undertake a &quot;step by step&
 ### [The Tokyo Electric Power Company announces rolling blackouts caused by the 2011 Tohoku earthquake and tsunami in northern Japan. ](/news/2011/03/14/the-tokyo-electric-power-company-announces-rolling-blackouts-caused-by-the-2011-tahoku-earthquake-and-tsunami-in-northern-japan.md)
 Tokyo Electric Power Co embarked on planned power outages in areas near Tokyo on Monday to avoid massive blackouts in…
 
-##### France
+##### French
 ### [The French carmaker Renault apologises to three executives accused of industrial espionage after no credible evidence was found to substantiate the claims. ](/news/2011/03/14/the-french-carmaker-renault-apologises-to-three-executives-accused-of-industrial-espionage-after-no-credible-evidence-was-found-to-substanti.md)
 Carmaker pledges compensation to executives accused in espionage case as prosecutor says company may be victim of fraud.
 
@@ -45,7 +45,7 @@ _Context: Alice Cooper, Darlene Love, Dr. John, Neil Diamond, Rock and Roll Hall
 
 ##### Gilbert Gottfried
 ### [US comedian Gilbert Gottfried is fired from doing voiceover work as the AFLAC duck for making a number of tasteless posts on the Japanese earthquake on the Twitter social network. ](/news/2011/03/14/us-comedian-gilbert-gottfried-is-fired-from-doing-voiceover-work-as-the-aflac-duck-for-making-a-number-of-tasteless-posts-on-the-japanese-ea.md)
-_Context: AFLAC, Gilbert Gottfried, Twitter, social network_
+_Context: AFLAC, Gilbert Gottfried, social network, tweeting_
 
 ##### Barack Obama
 ### [The Obama administration holds the first of five meetings that eventually lead to Operation Neptune Spear, which caused the Death of Osama bin Laden. ](/news/2011/03/14/the-obama-administration-holds-the-first-of-five-meetings-that-eventually-lead-to-operation-neptune-spear-which-caused-the-death-of-osama-b.md)
@@ -57,7 +57,7 @@ _Context: Diyala Governorate, Iraqi Army, suicide bomber_
 
 ##### Pakistan
 ### [A U.S. missile strike kills three Pakistani militants operating close to the Afghanistan border. ](/news/2011/03/14/a-u-s-missile-strike-kills-three-pakistani-militants-operating-close-to-the-afghanistan-border.md)
-_Context: Afghan, Pakistan_
+_Context: Afghanistan, Pakistan_
 
 ##### Indian Navy
 ### [The Indian Navy captures 61 pirates on a Mozambiquan fishing vessel in the Arabian Sea. ](/news/2011/03/14/the-indian-navy-captures-61-pirates-on-a-mozambiquan-fishing-vessel-in-the-arabian-sea.md)

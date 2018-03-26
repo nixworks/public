@@ -17,7 +17,7 @@ European Commission President Jean-Claude Juncker made key proposals in his annu
 
 ##### Crime in New York
 ### [Former businessman Martin Shkreli has his bail revoked for threatening former politician Hillary Clinton, after Shkreli posted on Twitter that he would offer $5,000 to anyone who could directly obtain a lock of Clinton's hair. Shkreli was convicted of fraud in August and is awaiting sentencing. ](/news/2017/09/13/former-businessman-martin-shkreli-has-his-bail-revoked-for-threatening-former-politician-hillary-clinton-after-shkreli-posted-on-twitter-th.md)
-_Context: Crime in New York, Hillary Clinton, Martin Shkreli, Twitter_
+_Context: Crime in New York, Hillary Clinton, Martin Shkreli, tweeting_
 
 ##### Law of Israel
 ### [The Supreme Court of Israel strikes down the exemption on the conscription of ultra-Orthodox Jews. ](/news/2017/09/13/the-supreme-court-of-israel-strikes-down-the-exemption-on-the-conscription-of-ultra-orthodox-jews.md)

@@ -7,9 +7,9 @@ Formats: [HTML](2004/04/21/index.html)  [JSON](2004/04/21/index.json)  [XML](200
 ### [ Three car bombs explode outside police stations in Basra, killing 68 people and wounding over 100 more. Iraqi officials blame suicide bombers for the terrorism. 23 of the casualties are school children. A fourth car bomb explodes in Zubeir, south of Basra, killing three and wounding four. British soldiers assisting the wounded are pelted with stones, injuring four, two seriously. ](/news/2004/04/21/three-car-bombs-explode-outside-police-stations-in-basra-killing-68-people-and-wounding-over-100-more-iraqi-officials-blame-suicide-bombe.md)
 _Context: Basra, Iraq, suicide bomber, terrorism_
 
-##### Saudi
+##### Saudi Arabia
 ### [ Two car bombs explode outside the General Security headquarters of Saudi Arabia in Riyadh, killing nine and wounding 125. ](/news/2004/04/21/two-car-bombs-explode-outside-the-general-security-headquarters-of-saudi-arabia-in-riyadh-killing-nine-and-wounding-125.md)
-_Context: Riyadh, Saudi_
+_Context: Riyadh, Saudi Arabia_
 
 ##### Mordechai Vanunu
 ### [ Mordechai Vanunu, who leaked Israeli nuclear-weapons secrets in 1986, is released from prison after 18 years. ](/news/2004/04/21/mordechai-vanunu-who-leaked-israeli-nuclear-weapons-secrets-in-1986-is-released-from-prison-after-18-years.md)

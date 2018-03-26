@@ -15,7 +15,7 @@ _Context: Nigeria, state governor elections_
 ### [Rep. Ron Paul announces that he will again be seeking the Republican nomination for President of the United States. ](/news/2011/04/26/rep-ron-paul-announces-that-he-will-again-be-seeking-the-republican-nomination-for-president-of-the-united-states.md)
 An election official in New Jersey rules that Olympic gold medallist Carl Lewis fails to meet the residency requirement to run for elected office.
 
-##### German
+##### Germany
 ### [Germany's plagiarism scandal widens, engulfing the European Parliament's vice president Silvana Koch-Mehrin accused of plagiarizing 25 per cent of her doctoral thesis; she refuses to comment. ](/news/2011/04/26/germany-s-plagiarism-scandal-widens-engulfing-the-european-parliament-s-vice-president-silvana-koch-mehrin-accused-of-plagiarizing-25-per-c.md)
 The European Parliament’s vice president has become the latest among a growing number of high profile German politicians to face allegations that they plagiarised large amounts of other people’s academic work in order to obtain a university doctorate.
 
@@ -79,9 +79,9 @@ _Context: Chernobyl disaster, Ukrainian_
 ### [Greece's budget deficit for 2010 is 10.5% of gross domestic product, significantly higher than expected. ](/news/2011/04/26/greece-s-budget-deficit-for-2010-is-10-5-of-gross-domestic-product-significantly-higher-than-expected.md)
 _Context: Greece, budget deficit, gross domestic product_
 
-##### France
+##### French
 ### [French dairy group Groupe Lactalis launches a 3.4 billion euro bid for Italian dairy group Parmalat. ](/news/2011/04/26/french-dairy-group-groupe-lactalis-launches-a-3-4-billion-euro-bid-for-italian-dairy-group-parmalat.md)
-_Context: France, Groupe Lactalis, Italy, Parmalat, euro_
+_Context: French, Groupe Lactalis, Italy, Parmalat, euro_
 
 ##### Another France Telecom
 ### [Management and unions confirm another France Telecom worker has committed suicide. ](/news/2011/04/26/management-and-unions-confirm-another-france-ta-c-la-c-com-worker-has-committed-suicide.md)

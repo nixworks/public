@@ -3,9 +3,9 @@ Formats: [HTML](2005/08/2/index.html)  [JSON](2005/08/2/index.json)  [XML](2005/
 
 ## [2005-08-2](/news/2005/08/2/index.md)
 
-##### France
+##### French
 ### [ In France, medical authorities investigate a case where remains of 351 stillborn fetuses had been kept in storage in St Vincent de Paul hospital against the law and the parents' consent. ](/news/2005/08/2/in-france-medical-authorities-investigate-a-case-where-remains-of-351-stillborn-fetuses-had-been-kept-in-storage-in-st-vincent-de-paul-hos.md)
-_Context: France, St Vincent de Paul hospital, fetus, stillborn_
+_Context: French, St Vincent de Paul hospital, fetus, stillborn_
 
 ##### Turkey
 ### [ In Turkey, two explosions injure 6 people in Antalya, a popular tourist resort. The tourism minister blames gas leaks but the police are investigating. ](/news/2005/08/2/in-turkey-two-explosions-injure-6-people-in-antalya-a-popular-tourist-resort-the-tourism-minister-blames-gas-leaks-but-the-police-are-in.md)
@@ -15,9 +15,9 @@ _Context: Antalya, Turkey, gas leak, police_
 ### [ Malaysia, Indonesia and Singapore agree to joint anti-piracy patrols in the Malacca Strait. ](/news/2005/08/2/malaysia-indonesia-and-singapore-agree-to-joint-anti-piracy-patrols-in-the-malacca-strait.md)
 Frontpage | New Straits Times : Authoritative source for Malaysia latest news on politics, business, sports, world and entertainment
 
-##### German
+##### Germany
 ### [ In Germany, police in Brandenburg announce that they have uncovered bones of nine newborn babies that had been buried in flower pots. The woman believed to be their mother, identified in newspapers as "Sabine H.", has been arrested in the worst case of individual infanticide in German history. ](/news/2005/08/2/in-germany-police-in-brandenburg-announce-that-they-have-uncovered-bones-of-nine-newborn-babies-that-had-been-buried-in-flower-pots-the-w.md)
-_Context: Brandenburg, German, Sabine H., infanticide_
+_Context: Brandenburg, Germany, Sabine H., infanticide_
 
 ##### Zimbabwe
 ### [ In Zimbabwe, state prosecutors dropped treason charges against opposition leader Morgan Tsvangirai. Mr Tsvangirai, leader of the Movement for Democratic Change, was accused of organising mass protests in 2003 to overthrow Robert Mugabe's controversial regime. ](/news/2005/08/2/in-zimbabwe-state-prosecutors-dropped-treason-charges-against-opposition-leader-morgan-tsvangirai-mr-tsvangirai-leader-of-the-movement-f.md)

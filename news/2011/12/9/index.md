@@ -17,7 +17,7 @@ _Context: Cheshire, Connecticut home invasion murders, death, lethal injection_
 
 ##### Croatia
 ### [Croatia's President Ivo Josipovic and Prime minister Jadranka Kosor sign the accession treaty of Croatia to the European Union, to become the 28th member state on July 1, 2013. ](/news/2011/12/9/croatia-s-president-ivo-josipovia-and-prime-minister-jadranka-kosor-sign-the-accession-treaty-of-croatia-to-the-european-union-to-become-t.md)
-_Context: Croatia, European Union, Ivo Josipovic, Jadranka Kosor, accession treaty, formal entry of Croatia_
+_Context: Croatia, EU, Ivo Josipovic, Jadranka Kosor, accession treaty, formal entry of Croatia_
 
 ##### David Cameron
 ### [David Cameron, the Prime Minister of the United Kingdom, refuses to join a European Union financial crisis accord after negotiations in Brussels. ](/news/2011/12/9/david-cameron-the-prime-minister-of-the-united-kingdom-refuses-to-join-a-european-union-financial-crisis-accord-after-negotiations-in-brus.md)
@@ -33,7 +33,7 @@ _Context: stock exchange_
 
 ##### Credit rating
 ### [Credit rating agency Moody's downgrades the ratings of France's three biggest banks, Credit Agricole, BNP Paribas and Societe Generale. ](/news/2011/12/9/credit-rating-agency-moody-s-downgrades-the-ratings-of-france-s-three-biggest-banks-cra-c-dit-agricole-bnp-paribas-and-socia-c-ta-c-ga-c-na-c-rale.md)
-_Context: BNP Paribas, Credit Agricole, Credit rating, France, Moody's, Societe Generale_
+_Context: BNP Paribas, Credit Agricole, Credit rating, French, Moody's, Societe Generale_
 
 ## [Previous Day...](/news/2011/12/8/index.md)
 

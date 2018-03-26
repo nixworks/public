@@ -23,13 +23,13 @@ _Context: Fernando Lugo, Paraguay, Paraguayan President, coup_
 ### [ Two senior Indonesian officials resign over a plot to weaken the anti-corruption agency. ](/news/2009/11/5/two-senior-indonesian-officials-resign-over-a-plot-to-weaken-the-anti-corruption-agency.md)
 _Context: Indonesia_
 
-##### France
+##### French
 ### [ France's Europe Minister Pierre Lellouche describes the UK's Conservative Party pledge to return powers from Brussels to London as "pathetic". ](/news/2009/11/5/france-s-europe-minister-pierre-lellouche-describes-the-uk-s-conservative-party-pledge-to-return-powers-from-brussels-to-london-as-patheti.md)
-_Context: Conservative Party, France, Pierre Lellouche, United Kingdom_
+_Context: Conservative Party, French, Pierre Lellouche, United Kingdom_
 
 ##### United Nations
 ### [ The United Nations is to pull non-essential staff out of Afghanistan after an increase in violence in the country. ](/news/2009/11/5/the-united-nations-is-to-pull-non-essential-staff-out-of-afghanistan-after-an-increase-in-violence-in-the-country.md)
-_Context: Afghan, United Nations_
+_Context: Afghanistan, United Nations_
 
 ##### Hurricane Ida
 ### [ Hurricane Ida makes landfall in Nicaragua. ](/news/2009/11/5/hurricane-ida-makes-landfall-in-nicaragua.md)
@@ -63,9 +63,9 @@ _Context: Colombia, Venezuela_
 ### [ An international team of scientists announces that the genome of the domestic horse has been successfully sequenced. ](/news/2009/11/5/an-international-team-of-scientists-announces-that-the-genome-of-the-domestic-horse-has-been-successfully-sequenced.md)
 An old grey mare named Twilight has provided an international team of researchers with the entire genetic code of a domestic horse.
 
-##### Saudi
+##### Saudi Arabia
 ### [ Saudi Arabia lifts a nine-year ban on Somali livestock imports, reopening Somalia's main export market. ](/news/2009/11/5/saudi-arabia-lifts-a-nine-year-ban-on-somali-livestock-imports-reopening-somalia-s-main-export-market.md)
-_Context: Saudi, Somali, reopening Somalia's main export market_
+_Context: Saudi Arabia, Somalia, reopening Somalia's main export market_
 
 ##### U2
 ### [ A U2 concert held at the Brandenburg Gate to mark the 20th anniversary of the Berlin Wall's fall is controversial when a wall is built around the venue. ](/news/2009/11/5/a-u2-concert-held-at-the-brandenburg-gate-to-mark-the-20th-anniversary-of-the-berlin-wall-s-fall-is-controversial-when-a-wall-is-built-arou.md)

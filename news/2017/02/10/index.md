@@ -19,7 +19,7 @@ _Context: Alejandro Toledo, Brazil, Odebrecht, Peru, President, US$, bribes_
 ### [Aboard Air Force One, President Trump tells reporters he is considering issuing a revised policy banning citizens of certain countries traveling to the United States. ](/news/2017/02/10/aboard-air-force-one-president-trump-tells-reporters-he-is-considering-issuing-a-revised-policy-banning-citizens-of-certain-countries-trave.md)
  U.S. President Donald Trump is considering issuing a new executive order banning citizens of certain countries traveling to the United States after his initial
 
-##### European Union
+##### EU
 ### [The European Union pledges to give the Gambia EUR225 million in aid to assist the country following the departure of former president Yahya Jammeh, whose 22 years of misrule left the country "virtually bankrupt". ](/news/2017/02/10/the-european-union-pledges-to-give-the-gambia-a-225-million-in-aid-to-assist-the-country-following-the-departure-of-former-president-yahya.md)
 Major funding commitment to help ‘virtually bankrupt’ country shake off legacy of dictatorship, as President Adama Barrow promises better life for Gambians
 
@@ -51,7 +51,7 @@ At least 12 people are dead after a landslide in Bali overnight that wiped out s
 ### [ In Hong Kong, over 16 were injured, and an incoherent man was charged with arson after an alleged firebomb attack on a rush hour Hong Kong metro commuter train. The man set fire to himself and others with a flammable liquid for an unspecified personal reason, but officials found no evidence of a terrorist motive. ](/news/2017/02/10/in-hong-kong-over-16-were-injured-and-an-incoherent-man-was-charged-with-arson-after-an-alleged-firebomb-attack-on-a-rush-hour-hong-kong.md)
 Three people remain in critical condition after an alleged firebomb attack on the Hong Kong metro, which hurt at least 16 other commuters. One man, Cheung Kam-fai, 60, was arrested following the incident at Tsim Sha Tsui station, on the Tsuen Wan Line, during the Friday evening rush hour. He has now...
 
-##### France
+##### French
 ### [French police arrest three men and a 16-year-old girl found with bomb-making materials in a Montpellier flat. The female suspect had been spotted online saying she wanted to either leave for the Syria-Iraq conflict or mount an attack in France, and recorded a video in which she pledged allegiance to ISIL. ](/news/2017/02/10/french-police-arrest-three-men-and-a-16-year-old-girl-found-with-bomb-making-materials-in-a-montpellier-flat-the-female-suspect-had-been-sp.md)
 Three men and a girl of 16 are found with bomb-making materials in a police raid in Montpellier.
 

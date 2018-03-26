@@ -41,7 +41,7 @@ _Context: Compania Espanola de Petroleos, International Petroleum Investment Com
 
 ##### Iran
 ### [Iranian director Asghar Farhadi wins three awards, including the Golden Bear, for his film "Nader and Simin, A Separation" as the 61st Berlin International Film Festival ends. There are other winners from Argentina, Albania, Germany and Hungary. ](/news/2011/02/19/iranian-director-asghar-farhadi-wins-three-awards-including-the-golden-bear-for-his-film-nader-and-simin-a-separation-as-the-61st-berli.md)
-_Context: 61st Berlin International Film Festival, Albania, Argentina, Asghar Farhadi, German, Golden Bear, Hungary, Iran, Nader and Simin, A Separation_
+_Context: 61st Berlin International Film Festival, Albania, Argentina, Asghar Farhadi, Germany, Golden Bear, Hungary, Iran, Nader and Simin, A Separation_
 
 ##### Tear gas
 ### [Police shoot tear gas and water cannons as thousands of people protest against an authorized neo-Nazi march in Dresden. ](/news/2011/02/19/police-shoot-tear-gas-and-water-cannons-as-thousands-of-people-protest-against-an-authorized-neo-nazi-march-in-dresden.md)

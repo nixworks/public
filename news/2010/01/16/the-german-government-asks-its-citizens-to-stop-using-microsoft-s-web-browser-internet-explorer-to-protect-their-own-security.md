@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/01/16/the-german-government-asks-its-citizens-to-stop
 
 ### [2010-01-16](/news/2010/01/16/index.md)
 
-##### German
+##### Germany
 # The German government asks its citizens to stop using Microsoft's web browser Internet Explorer to protect their own security. 
 
 The German government has warned against using Internet Explorer after a security flaw left it vulnerable to hackers.
@@ -18,7 +18,7 @@ The German government has warned against using Internet Explorer after a securit
 
 ### Related:
 
-1. [Microsoft issues a patch for a serious security hole in Internet Explorer 6 after France and Germany advised their citizens to change browsers. ](/news/2010/01/20/microsoft-issues-a-patch-for-a-serious-security-hole-in-internet-explorer-6-after-france-and-germany-advised-their-citizens-to-change-browse.md) _Context: German, Microsoft, web browser_
+1. [Microsoft issues a patch for a serious security hole in Internet Explorer 6 after France and Germany advised their citizens to change browsers. ](/news/2010/01/20/microsoft-issues-a-patch-for-a-serious-security-hole-in-internet-explorer-6-after-france-and-germany-advised-their-citizens-to-change-browse.md) _Context: Germany, Microsoft, web browser_
 2. [ Microsoft Corporation released version 7 of its Internet Explorer internet browser software.](/news/2006/10/18/microsoft-corporation-released-version-7-of-its-internet-explorer-internet-browser-software.md) _Context: Internet Explorer, Microsoft, web browser_
 3. [ Microsoft has decided to appeal a verdict to pay $520.6 million from a Chicago federal jury that affirms the Internet Explorer web browser violated Intellectual Property rights of Eolas Technologies (concerning Patent US 5838906).](/news/2003/08/12/microsoft-has-decided-to-appeal-a-verdict-to-pay-520-6-million-from-a-chicago-federal-jury-that-affirms-the-internet-explorer-web-browser.md) _Context: Internet Explorer, Microsoft, web browser_
 4. [Microsoft announces a major vulnerability in Internet Explorer versions 6 to 11 that could enable hackers to gain access and user rights to its customers' computers. ](/news/2014/04/28/microsoft-announces-a-major-vulnerability-in-internet-explorer-versions-6-to-11-that-could-enable-hackers-to-gain-access-and-user-rights-to.md) _Context: Internet Explorer, Microsoft_

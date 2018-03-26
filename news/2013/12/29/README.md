@@ -3,9 +3,9 @@ Formats: [HTML](2013/12/29/index.html)  [JSON](2013/12/29/index.json)  [XML](201
 
 ## [2013-12-29](/news/2013/12/29/index.md)
 
-##### Saudi
+##### Saudi Arabia
 ### [Saudi Arabia pledges US$3 billion to Lebanon to help strengthen their military. ](/news/2013/12/29/saudi-arabia-pledges-us-3-billion-to-lebanon-to-help-strengthen-their-military.md)
-_Context: Lebanese, Saudi, military_
+_Context: Lebanese, Saudi Arabia, military_
 
 ##### Chaparrastique
 ### [The Chaparrastique volcano in El Salvador erupts, forcing 5,000 people to leave their homes. ](/news/2013/12/29/the-chaparrastique-volcano-in-el-salvador-erupts-forcing-5-000-people-to-leave-their-homes.md)

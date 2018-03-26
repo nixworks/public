@@ -7,9 +7,9 @@ Formats: [HTML](2005/07/5/index.html)  [JSON](2005/07/5/index.json)  [XML](2005/
 ### [ Sudanese government and two rebels groups, including Sudan Liberation Movement and Justice and Equality Movement, sign a declaration of principles towards the peace talks. This ends three weeks of negotiations in the Nigerian capital Abuja. Talks are adjourned until August 24. ](/news/2005/07/5/sudanese-government-and-two-rebels-groups-including-sudan-liberation-movement-and-justice-and-equality-movement-sign-a-declaration-of-pri.md)
 _Context: Abuja, Justice and Equality Movement, Niger, Sudan, Sudan Liberation Movement, peace talks_
 
-##### France
+##### French
 ### [ In France, large forest fires rage in the French Riviera. Authorities evacuate thousands. ](/news/2005/07/5/in-france-large-forest-fires-rage-in-the-french-riviera-authorities-evacuate-thousands.md)
-_Context: France, French Riviera, forest fire_
+_Context: French, French Riviera, forest fire_
 
 ##### Austria
 ### [ In Austria, state prosecutors investigate allegations that Iran's president-elect Mahmoud Ahmadinejad would have been involved with the 1989 assassination of Kurdish leader Abdul Rahman Ghassemlou in Vienna. ](/news/2005/07/5/in-austria-state-prosecutors-investigate-allegations-that-iran-s-president-elect-mahmoud-ahmadinejad-would-have-been-involved-with-the-198.md)
@@ -19,9 +19,9 @@ _Context: 1989, Abdul Rahman Ghassemlou, Austria, Iran, Kurd, Mahmoud Ahmadineja
 ### [ In Peru, former president Alberto Fujimori receives new identity papers and may return to the country. Peru still wants him for charges of murder and corruption. ](/news/2005/07/5/in-peru-former-president-alberto-fujimori-receives-new-identity-papers-and-may-return-to-the-country-peru-still-wants-him-for-charges-of.md)
 _Context: Alberto Fujimori, Peru, corruption, murder_
 
-##### German
+##### Germany
 ### [ In Germany, workmen remove the unofficial Berlin Wall memorial in Berlin, after the original builders refuse to obey a court order to do so. ](/news/2005/07/5/in-germany-workmen-remove-the-unofficial-berlin-wall-memorial-in-berlin-after-the-original-builders-refuse-to-obey-a-court-order-to-do-so.md)
-_Context: Berlin, Berlin Wall, German, memorial_
+_Context: Berlin, Berlin Wall, Germany, memorial_
 
 ##### Indonesia
 ### [ The government of Indonesia announced the extension of its immunization campaign against polio. The second round in this campaign was originally scheduled to end yesterday. ](/news/2005/07/5/the-government-of-indonesia-announced-the-extension-of-its-immunization-campaign-against-polio-the-second-round-in-this-campaign-was-origi.md)
@@ -35,9 +35,9 @@ _Context: Bahrain, Iraq, Pakistan_
 ### [ In Brazil, secretary general Silvio Pereira of the ruling Worker's Party resigns for the duration of the parliamentary inquiry into vote-buying. ](/news/2005/07/5/in-brazil-secretary-general-silvio-pereira-of-the-ruling-worker-s-party-resigns-for-the-duration-of-the-parliamentary-inquiry-into-vote-bu.md)
 _Context: Brazil, Brazil Workers' Party, Silvio Pereira_
 
-##### German
+##### Germany
 ### [ In Germany, Sven Jaschan, suspected creator of Sasser worm, goes on trial. ](/news/2005/07/5/in-germany-sven-jaschan-suspected-creator-of-sasser-worm-goes-on-trial.md)
-_Context: German, Sasser worm, Sven Jaschan_
+_Context: Germany, Sasser worm, Sven Jaschan_
 
 ##### India
 ### [ In India, militants attack and try to storm a makeshift temple of Ram in Ayodhya, Uttar Pradesh; most of them die in a firefight with the security forces. There are differing reports about the number of attackers and how many were killed. The temple site is a source of dispute between Muslims and Hindus. ](/news/2005/07/5/in-india-militants-attack-and-try-to-storm-a-makeshift-temple-of-ram-in-ayodhya-uttar-pradesh-most-of-them-die-in-a-firefight-with-the-s.md)

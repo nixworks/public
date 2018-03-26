@@ -9,7 +9,7 @@ _Context: Henan, Ruzhou_
 
 ##### Pakistani soldiers
 ### [ The Pakistani army states they find no evidence Osama bin Laden is hiding in the mainly tribal border with Afghanistan after combing through the area. ](/news/2004/11/26/the-pakistani-army-states-they-find-no-evidence-osama-bin-laden-is-hiding-in-the-mainly-tribal-border-with-afghanistan-after-combing-throug.md)
-_Context: Afghan, Osama bin Laden, Pakistani soldiers, tribal_
+_Context: Afghanistan, Osama bin Laden, Pakistani soldiers, tribal_
 
 ##### Landless
 ### [ Over 8,000 landless activists, including the Landless Workers' Movement (MST), march on Brasilia, Brazil, to demand the speeding up of land reform promised by President Luiz Inacio Lula da Silva. ](/news/2004/11/26/over-8-000-landless-activists-including-the-landless-workers-movement-mst-march-on-brasalia-brazil-to-demand-the-speeding-up-of-lan.md)

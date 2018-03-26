@@ -29,7 +29,7 @@ _Context: Cebu City, Manila, Philippines, Southeast Asian Games_
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: German archaeologist Susanne Osthoff is kidnapped in Iraq. ](/news/2005/11/25/conflict-in-iraq-german-archaeologist-susanne-osthoff-is-kidnapped-in-iraq.md)
-_Context: Conflict in Iraq, German, Iraq, Susanne Osthoff, archaeologist_
+_Context: Conflict in Iraq, Germany, Iraq, Susanne Osthoff, archaeologist_
 
 ##### European Commission
 ### [ The European Commission starts a legal action against the Bank of Italy and its President, Antonio Fazio, who allegedly favoured the Italian bank Banca Popolare Italiana in the race to acquire Banca Antonveneta, thus penalising Dutch group ABN AMRO. ](/news/2005/11/25/the-european-commission-starts-a-legal-action-against-the-bank-of-italy-and-its-president-antonio-fazio-who-allegedly-favoured-the-italia.md)

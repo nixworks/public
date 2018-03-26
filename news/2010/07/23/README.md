@@ -35,7 +35,7 @@ Former Sri Lankan President Chandrika Kumaratunga launches an outspoken attack a
 ### [Nigeria's senate changes the country's constitution to reschedule elections. ](/news/2010/07/23/nigeria-s-senate-changes-the-country-s-constitution-to-reschedule-elections.md)
 _Context: Nigeria_
 
-##### France
+##### French
 ### [France's defense ministry says it aided a recent raid by Mauritania against al-Qaeda in North Africa in a failed search for a French hostage. ](/news/2010/07/23/france-s-defense-ministry-says-it-aided-a-recent-raid-by-mauritania-against-al-qaeda-in-north-africa-in-a-failed-search-for-a-french-hostage.md)
 France confirms a raid against alleged al-Qaeda militants thought to be holding a French hostage in the Sahara desert.
 

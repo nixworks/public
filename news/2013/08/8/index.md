@@ -17,13 +17,13 @@ _Context: Cam Lo, QuGBPng Tri, Viet Nam_
 
 ##### African Union
 ### [African Union troops kill 24 militants in a foiled Al-Shabaab planned attack in southern Somalia city of Afmadow. ](/news/2013/08/8/african-union-troops-kill-24-militants-in-a-foiled-al-shabaab-planned-attack-in-southern-somalia-city-of-afmadow.md)
-_Context: Afmadow, African Union, Al-Shabab, Somali_
+_Context: Afmadow, African Union, Al-Shabab, Somalia_
 
 ##### Yemen
 ### [Three U.S. drone strikes in central and southern Yemen kill 12 suspected al-Qaida militants. ](/news/2013/08/8/three-u-s-drone-strikes-in-central-and-southern-yemen-kill-12-suspected-al-qaida-militants.md)
 _Context: Yemen, al-Qaida_
 
-##### Afghan
+##### Afghanistan
 ### [A bomb explodes at a cemetery in the Afghan province of Nangarhar, killing at least 14 people. ](/news/2013/08/8/a-bomb-explodes-at-a-cemetery-in-the-afghan-province-of-nangarhar-killing-at-least-14-people.md)
 A bomb kills 12 women and two children in eastern Afghanistan as they visit a grave on the Muslim holiday of Eid al-Fitr.
 

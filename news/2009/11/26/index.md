@@ -27,9 +27,9 @@ _Context: Hungary, University of Pcs_
 ### [ South Korea's Constitutional Court strikes down a decades old law that punished men for making false promises of marriage to engage in sexual relations with women. ](/news/2009/11/26/south-korea-s-constitutional-court-strikes-down-a-decades-old-law-that-punished-men-for-making-false-promises-of-marriage-to-engage-in-sexu.md)
 _Context: Constitutional Court, South Korea, sexual relations_
 
-##### German
+##### Germany
 ### [ Germany's army chief Wolfgang Schneiderhan resigns over allegations of a cover up related to a September NATO airstrike in northern Afghanistan. ](/news/2009/11/26/germany-s-army-chief-wolfgang-schneiderhan-resigns-over-allegations-of-a-cover-up-related-to-a-september-nato-airstrike-in-northern-afghani.md)
-_Context: Afghan, German, Kunduz airstrike, NATO, Wolfgang Schneiderhan_
+_Context: Afghanistan, Germany, Kunduz airstrike, NATO, Wolfgang Schneiderhan_
 
 ##### Floods in Saudi Arabia
 ### [ Floods in Saudi Arabia kill around 77 people in Jeddah, Rabigh and Mecca, and a further 351 are missing in the heaviest rainfall in years. ](/news/2009/11/26/floods-in-saudi-arabia-kill-around-77-people-in-jeddah-rabigh-and-mecca-and-a-further-351-are-missing-in-the-heaviest-rainfall-in-years.md)

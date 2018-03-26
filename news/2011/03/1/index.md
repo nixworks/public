@@ -7,9 +7,9 @@ Formats: [HTML](2011/03/1/index.html)  [JSON](2011/03/1/index.json)  [XML](2011/
 ### [The Canadian Federal Court of Appeal rules against the Conservative Party of Canada on ad spending prior to the Canadian federal election, 2006, while the Harper government reaches 43% support and announces cuts to the budget. ](/news/2011/03/1/the-canadian-federal-court-of-appeal-rules-against-the-conservative-party-of-canada-on-ad-spending-prior-to-the-canadian-federal-election-2.md)
 _Context: Canada, Canadian federal election, 2006, Conservative Party's, Federal Court of Appeal, Harper government_
 
-##### German
+##### Germany
 ### [The German Federal Minister for Defence Karl-Theodor zu Guttenberg resigns over a plagiarism scandal. ](/news/2011/03/1/the-german-federal-minister-for-defence-karl-theodor-zu-guttenberg-resigns-over-a-plagiarism-scandal.md)
-_Context: Federal Minister for Defence, German, Karl-Theodor zu Guttenberg, plagiarising_
+_Context: Federal Minister for Defence, Germany, Karl-Theodor zu Guttenberg, plagiarising_
 
 ##### 2011 Yemeni protests
 ### [The protests in Yemen continue with tens of thousands of protestors in the streets in a "Day of Rage". ](/news/2011/03/1/the-protests-in-yemen-continue-with-tens-of-thousands-of-protestors-in-the-streets-in-a-day-of-rage.md)
@@ -61,7 +61,7 @@ Archaeologists have recovered six cannons from the ships of Welsh privateer Henr
 
 ##### NATO
 ### [NATO forces kill 9 Afghan children while they collected firewood; this is the third NATO attack on civilians in the last 2 weeks.](/news/2011/03/1/nato-forces-kill-9-afghan-children-while-they-collected-firewood-this-is-the-third-nato-attack-on-civilians-in-the-last-2-weeks.md)
-_Context: Afghan, NATO_
+_Context: Afghanistan, NATO_
 
 ##### Anti-government protests
 ### [2011 Omani protests: A fourth day of protests take place, with security forces firing into the air in an attempt to disperse protesters. ](/news/2011/03/1/2011-omani-protests-a-fourth-day-of-protests-take-place-with-security-forces-firing-into-the-air-in-an-attempt-to-disperse-protesters.md)

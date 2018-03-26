@@ -33,7 +33,7 @@ The Vatican denied an Italian newspaper report on Wednesday that Pope Francis ha
 
 ##### Supreme Leader
 ### [Iran's Supreme Leader Ayatollah Ali Khamenei approves the nuclear deal between Tehran and world powers, and orders it to be implemented subject to certain conditions. The letter states the United States and European Union should clearly announce the elimination of sanctions against Iran. The imposition of sanctions at any level and under any pretext from any of the negotiating countries would violate the JCPOA. ](/news/2015/10/21/iran-s-supreme-leader-ayatollah-ali-khamenei-approves-the-nuclear-deal-between-tehran-and-world-powers-and-orders-it-to-be-implemented-subj.md)
-_Context: Ali Khamenei, European Union, Iranian government, Joint Comprehensive Plan of Action, Supreme Leader, United States, sanctions against Iran_
+_Context: Ali Khamenei, EU, Iranian government, Joint Comprehensive Plan of Action, Supreme Leader, United States, sanctions against Iran_
 
 ##### Syrian Civil War
 ### [The President of Syria Bashar al-Assad visits Moscow for talks with the President of Russia Vladimir Putin in an unannounced visit. ](/news/2015/10/21/the-president-of-syria-bashar-al-assad-visits-moscow-for-talks-with-the-president-of-russia-vladimir-putin-in-an-unannounced-visit.md)
@@ -57,7 +57,7 @@ Twenty people were shot dead by suspected Boko Haram gunmen Wednesday on a road 
 
 ##### Yemeni Civil War (2015)
 ### [Rockets fired by Houthi forces reportedly kill 14 people in city of Taiz, southwestern Yemen. ](/news/2015/10/21/rockets-fired-by-houthi-forces-reportedly-kill-14-people-in-city-of-taiz-southwestern-yemen.md)
-_Context: Houthis, Taiz, Yemen, Yemeni Civil War (2015)_
+_Context: Houthi, Taiz, Yemen, Yemeni Civil War (2015)_
 
 ##### Syrian Civil War
 ### [ISIL orders males aged 14 and older in Raqqa, its de facto Syrian capital, to register with the police, an action seen as the first step toward forced conscriptions in this region. ](/news/2015/10/21/isil-orders-males-aged-14-and-older-in-raqqa-its-de-facto-syrian-capital-to-register-with-the-police-an-action-seen-as-the-first-step-tow.md)

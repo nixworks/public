@@ -9,7 +9,7 @@ The first direct flight from Australia to the UK has landed at Heathrow airport 
 
 ##### List of novae in the Milky Way galaxy
 ### [Researchers publish observations of a possible nova (ASASSN-18fv) in the constellation Carina. ](/news/2018/03/25/researchers-publish-observations-of-a-possible-nova-asassn-18fv-in-the-constellation-carina.md)
-_Context: Carina, List of novae in the Milky Way galaxy, nova_
+_Context: ASASSN-18fv, Carina, List of novae in the Milky Way galaxy, nova_
 
 ##### 2017-18 Spanish constitutional crisis
 ### [Catalonia's ex-President Carles Puigdemont is detained in Germany. ](/news/2018/03/25/catalonia-s-ex-president-carles-puigdemont-is-detained-in-germany.md)
@@ -27,7 +27,7 @@ Qatar&#39;s Sheikh Tamim is in Moscow to meet Russian President Vladimir Putin t
 ### [EU diplomatic chief Federica Mogherini holds crisis talks with Markus Ederer, the bloc's recalled ambassador to Russia. ](/news/2018/03/25/eu-diplomatic-chief-federica-mogherini-holds-crisis-talks-with-markus-ederer-the-bloc-s-recalled-ambassador-to-russia.md)
 _Context: EU, Federica Mogherini, Poisoning of Sergei and Yulia Skripal, Russia, Russia-European Union relations_
 
-##### South Korea-United States relations
+##### Trump tariffs
 ### [South Korea and the United States reach agreements on trade and steel tariffs. ](/news/2018/03/25/south-korea-and-the-united-states-reach-agreements-on-trade-and-steel-tariffs.md)
 The U.S. and South Korea reached an agreement on revising the allies’s six-year-old bilateral trade deal and President Donald Trump’s plan to impose tariffs on imported steel, Treasury Secretary Steven Mnuchin said.
 
@@ -39,17 +39,21 @@ Party cut short as car ploughs into the crowd.
 ### [A bus and a lorry collide head-on near Kitonga, Tanzania. The crash kills 26 and wounds 9. ](/news/2018/03/25/a-bus-and-a-lorry-collide-head-on-near-kitonga-tanzania-the-crash-kills-26-and-wounds-9.md)
 Most were either standing or sitting on the front seats of the passenger vehicle.
 
-##### Ferry accidents
+##### South Korean ferry disasters
 ### [A passenger ferry grounds off the coast of South Korea, injuring at least six people. The South Korean Coastguard evacuated all 163 on board. ](/news/2018/03/25/a-passenger-ferry-grounds-off-the-coast-of-south-korea-injuring-at-least-six-people-the-south-korean-coastguard-evacuated-all-163-on-board.md)
 MOKPO, South Korea: South Korea&#039;s coast guard said it rescued all 163 people aboard a ferry that hit a large rock in waters off the country&#039;s southwestern coast on Sunday (Mar 24), according to an Associate Press report. At least six people suffered mild injuries from the accident, which h...
 
 ##### 2018 Kemerovo fire
-### [A fire in a shopping centre in Kemerovo, Russia, kills at least 37 people. ](/news/2018/03/25/a-fire-in-a-shopping-centre-in-kemerovo-russia-kills-at-least-37-people.md)
+### [A fire in a Winter Cherry complex, a shopping center in Kemerovo, Russia, kills at least 37 people. ](/news/2018/03/25/a-fire-in-a-winter-cherry-complex-a-shopping-center-in-kemerovo-russia-kills-at-least-37-people.md)
 Video on social media shows panic as rescue teams evacuate the building in southern Russia.
 
-##### American-led intervention in Iraq (2014-present)
+##### Yemeni Crisis (2011-present)
+### [Houthi forces fire several Burkan-2 ballistic missiles at targets in Saudi Arabia with at least one person, an Egyptian national, being killed in Riyadh. The Royal Saudi Air Defense says it intercepted seven missiles, three of them targeting Riyadh, two targeting Jizan and one apiece targeting Najran and Khamis Mushait. ](/news/2018/03/25/houthi-forces-fire-several-burkan-2-ballistic-missiles-at-targets-in-saudi-arabia-with-at-least-one-person-an-egyptian-national-being-kill.md)
+Yemen&rsquo;s Shiite rebels fired a barrage of ballistic missiles targeting Saudi Arabia late Sunday on the third anniversary of a kingdom-led war in Yemen, with fragments of one missile over Riyadh killing one person and wounding two.
+
+##### Iraqi Civil War (2014-present)
 ### [ISIL releases a statement claiming responsibility for killing or wounding 103 Iraqi soldiers within one month. The group also claims to have abducted 13 more soldiers, and destroyed 12 armoured vehicles. ](/news/2018/03/25/isil-releases-a-statement-claiming-responsibility-for-killing-or-wounding-103-iraqi-soldiers-within-one-month-the-group-also-claims-to-have.md)
-_Context: American-led intervention in Iraq (2014-present), ISIL, Iraq_
+_Context: ISIL, Iraq, Iraqi Civil War (2014-present)_
 
 ##### War in Afghanistan (2001-present)
 ### [Two suicide bombers strike a Shi'ite mosque in Herat, Afghanistan. One is killed by security forces and the other detonates his device, killing one and wounding seven. ISIL claims responsibility. ](/news/2018/03/25/two-suicide-bombers-strike-a-shi-ite-mosque-in-herat-afghanistan-one-is-killed-by-security-forces-and-the-other-detonates-his-device-kill.md)
@@ -57,7 +61,7 @@ _Context: Afghanistan, Herat, ISIL, Shi'ite, War in Afghanistan (2001-present), 
 
 ##### Somali Civil War (2009-present)
 ### [A car bomb claimed by Al-Shabab kills five including the driver and wounds around ten outside Somalia's Parliament, Interior Ministry, and Presidential Palace buildings in Mogadishu. ](/news/2018/03/25/a-car-bomb-claimed-by-al-shabab-kills-five-including-the-driver-and-wounds-around-ten-outside-somalia-s-parliament-interior-ministry-and-p.md)
-_Context: Al-Shabab, Mogadishu, Somali Civil War (2009-present), Somalia, car bomb, suicide bomb_
+_Context: Al-Shabab, Mogadishu, Somali Civil War (2009-present), Somalia, car bomb_
 
 ## [Previous Day...](/news/2018/03/24/index.md)
 

@@ -37,7 +37,7 @@ _Context: U.S. Supreme Court, constitutional, opinion, speedy trial_
 
 ##### 2016 Silk Way Airlines Antonov An-12 crash
 ### [ An Azerbaijani cargo airplane crashes during landing in southern Afghanistan, killing seven out of its nine crew members. ](/news/2016/05/19/an-azerbaijani-cargo-airplane-crashes-during-landing-in-southern-afghanistan-killing-seven-out-of-its-nine-crew-members.md)
-_Context: 2016 Silk Way Airlines Antonov An-12 crash, Afghan, Azerbaijan_
+_Context: 2016 Silk Way Airlines Antonov An-12 crash, Afghanistan, Azerbaijan_
 
 ##### EgyptAir Flight 804
 ### [ EgyptAir Flight 804 between Paris and Cairo disappears with 56 passengers and 10 crew onboard. The plane was at 37,000 feet when it disappeared ten minutes before entering Egyptian airspace over the Mediterranean Sea. It is later reported to have crashed off the Greek island of Karpathos. Locals reported seeing a fireball. ](/news/2016/05/19/egyptair-flight-804-between-paris-and-cairo-disappears-with-56-passengers-and-10-crew-onboard-the-plane-was-at-37-000-feet-when-it-disappe.md)

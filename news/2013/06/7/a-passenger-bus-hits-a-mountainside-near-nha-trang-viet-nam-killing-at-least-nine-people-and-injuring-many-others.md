@@ -15,7 +15,7 @@ Formats: [HTML](/news/2013/06/7/a-passenger-bus-hits-a-mountainside-near-nha-tra
 
 ### Changes:
 
-1. [A bus plunges off a mountain road in the Indian state of Himachal Pradesh, killing at least 18 people and injuring 14 others. ](/news/2013/06/7/a-bus-plunges-off-a-mountain-road-in-the-indian-state-of-himachal-pradesh-killing-at-least-18-people-and-injuring-14-others.md) _2018-03-24 03:49:29 (First version)_
+1. [A bus plunges off a mountain road in the Indian state of Himachal Pradesh, killing at least 18 people and injuring 14 others. ](/news/2013/06/7/a-bus-plunges-off-a-mountain-road-in-the-indian-state-of-himachal-pradesh-killing-at-least-18-people-and-injuring-14-others.md) _2018-03-25 03:49:32 (First version)_
 1. [A passenger bus hits a mountainside near Nha Trang, Viet Nam, killing at least nine people and injuring many others. ](/news/2013/06/7/a-passenger-bus-hits-a-mountainside-near-nha-trang-viet-nam-killing-at-least-nine-people-and-injuring-many-others.md) _(Current version)_
 
 ### Related:

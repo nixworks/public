@@ -5,7 +5,7 @@ Formats: [HTML](2008/05/14/index.html)  [JSON](2008/05/14/index.json)  [XML](200
 
 ##### Association football
 ### [ In football, Zenit St Petersburg of Russia win the 2008 UEFA Cup after defeating Scottish side Rangers 2-0 in the final. ](/news/2008/05/14/in-football-zenit-st-petersburg-of-russia-win-the-2008-uefa-cup-after-defeating-scottish-side-rangers-2a0-in-the-final.md)
-_Context: 2008 UEFA Cup, Rangers F.C., Russia, Scottish, Zenit St Petersburg, association football, final_
+_Context: 2008 UEFA Cup, Rangers F.C., Russia, Scotland, Zenit St Petersburg, association football, final_
 
 ##### Car bomb
 ### [ A car bomb explodes in a civil guards barracks in the town of Legutiano in the Basque Country of Spain killing at least one person and injuring several others. ](/news/2008/05/14/a-car-bomb-explodes-in-a-civil-guards-barracks-in-the-town-of-legutiano-in-the-basque-country-of-spain-killing-at-least-one-person-and-inju.md)

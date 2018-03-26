@@ -21,7 +21,7 @@ At least 18 people, including 14 women, have been killed in the collapse of an i
 
 ##### Sheikh
 ### [ Sheikh Mohamed Abdi Aware, a Somali judge known for issuing tough sentences to pirates and Islamists, is shot dead in Somalia's Puntland region. ](/news/2009/11/12/sheikh-mohamed-abdi-aware-a-somali-judge-known-for-issuing-tough-sentences-to-pirates-and-islamists-is-shot-dead-in-somalia-s-puntland-re.md)
-_Context: Muslim, Puntland, Sheikh, Somali, Somali pirates_
+_Context: Muslim, Puntland, Sheikh, Somali pirates, Somalia_
 
 ##### United States
 ### [ U.S.-based rights group Human Rights Watch accuses Chinese authorities of running illegal "black jails" where Chinese citizens are detained for bringing up local complaints. ](/news/2009/11/12/u-s-based-rights-group-human-rights-watch-accuses-chinese-authorities-of-running-illegal-black-jails-where-chinese-citizens-are-detained.md)

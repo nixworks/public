@@ -7,9 +7,9 @@ Formats: [HTML](2006/10/20/index.html)  [JSON](2006/10/20/index.json)  [XML](200
 ### [ Newly convicted prisoners in the United Kingdom are to be held in police cells rather than prisons, as the nation's prison service faces chronic overcrowding in its jails. ](/news/2006/10/20/newly-convicted-prisoners-in-the-united-kingdom-are-to-be-held-in-police-cells-rather-than-prisons-as-the-nation-s-prison-service-faces-ch.md)
 _Context: convicted prisoners, held in police cells, its jails, prison service_
 
-##### European Union
+##### EU
 ### [ European Union leaders gather in Lahti, Finland, for a summit with Russian President Vladimir Putin. ](/news/2006/10/20/european-union-leaders-gather-in-lahti-finland-for-a-summit-with-russian-president-vladimir-putin.md)
-_Context: European Union, Lahti, President of Russia, Vladimir Putin_
+_Context: EU, Lahti, President of Russia, Vladimir Putin_
 
 ##### Solomon Islands
 ### [ Solomon Islands police and members of the Regional Assistance Mission to the Solomon Islands (RAMSI) raid the office of Prime Minister Manasseh Sogavare in Honiara. ](/news/2006/10/20/solomon-islands-police-and-members-of-the-regional-assistance-mission-to-the-solomon-islands-ramsi-raid-the-office-of-prime-minister-mana.md)
@@ -29,7 +29,7 @@ _Context: American football, Wisconsin, dirty bomb, radiological, terrorist_
 
 ##### Ethiopia
 ### [ Ethiopia expels two European Union diplomats for allegedly trying to smuggle two fugitives into Kenya. The European Union criticises the expulsions as "totally unacceptable." ](/news/2006/10/20/ethiopia-expels-two-european-union-diplomats-for-allegedly-trying-to-smuggle-two-fugitives-into-kenya-the-european-union-criticises-the-ex.md)
-_Context: Ethiopia, European Union, Kenya_
+_Context: EU, Ethiopia, Kenya_
 
 ##### Tata Group
 ### [ The Indian conglomerate Tata Group agrees to buy Anglo-Dutch steel firm Corus in the largest ever Indian takeover of a foreign company. ](/news/2006/10/20/the-indian-conglomerate-tata-group-agrees-to-buy-anglo-dutch-steel-firm-corus-in-the-largest-ever-indian-takeover-of-a-foreign-company.md)

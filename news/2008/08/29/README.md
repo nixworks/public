@@ -5,7 +5,7 @@ Formats: [HTML](2008/08/29/index.html)  [JSON](2008/08/29/index.json)  [XML](200
 
 ##### E.ON
 ### [ Energy group E.ON cuts 1,800 jobs as it closes two-thirds of its domestic service centres in Germany. ](/news/2008/08/29/energy-group-e-on-cuts-1-800-jobs-as-it-closes-two-thirds-of-its-domestic-service-centres-in-germany.md)
-_Context: E.ON, German_
+_Context: E.ON, Germany_
 
 ##### Ha Giang Province
 ### [ At least 11 people die this week and five are missing as a result of floods and landslides caused by heavy rain in Ha Giang Province in northern Vietnam. ](/news/2008/08/29/at-least-11-people-die-this-week-and-five-are-missing-as-a-result-of-floods-and-landslides-caused-by-heavy-rain-in-ha-giang-province-in-no.md)

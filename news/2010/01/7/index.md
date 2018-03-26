@@ -37,7 +37,7 @@ Australia joined New Zealand on Thursday in investigating a clash between an ant
 
 ##### Europe
 ### [Extreme weather in Europe kills nine people in Germany, traps a Eurostar train in the Channel Tunnel, disrupts flights at international airports in Amsterdam, Dublin, Knock and Paris, shuts hundreds of schools in Ireland and disrupts Norway's bus service in Oslo. ](/news/2010/01/7/extreme-weather-in-europe-kills-nine-people-in-germany-traps-a-eurostar-train-in-the-channel-tunnel-disrupts-flights-at-international-airp.md)
-_Context: Amsterdam, Channel Tunnel, Dublin, Europe, Eurostar, German, Irish, Knock, Norwegian, Oslo, Paris_
+_Context: Amsterdam, Channel Tunnel, Dublin, Europe, Eurostar, Germany, Irish, Knock, Norwegian, Oslo, Paris_
 
 ##### United States
 ### [The United States approves arms sales to Taiwan, amid opposition from China. ](/news/2010/01/7/the-united-states-approves-arms-sales-to-taiwan-amid-opposition-from-china.md)

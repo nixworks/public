@@ -19,9 +19,9 @@ Port Hedland and Karratha residents are in lockdown as Cyclone Christine tracks 
 ### [10 people are killed in violence as Iraqi security forces dismantle an anti-government protest camp in the western city of Ramadi. ](/news/2013/12/30/10-people-are-killed-in-violence-as-iraqi-security-forces-dismantle-an-anti-government-protest-camp-in-the-western-city-of-ramadi.md)
 At least 10 people are killed in violence as Iraqi security forces dismantle an anti-government protest camp in the city of Ramadi.
 
-##### German
+##### Germany
 ### [Shots are fired at the German ambassador's residence in Athens, Greece; no casualties are reported. ](/news/2013/12/30/shots-are-fired-at-the-german-ambassador-s-residence-in-athens-greece-no-casualties-are-reported.md)
-_Context: Athens, German, Greece_
+_Context: Athens, Germany, Greece_
 
 ##### Xinjiang
 ### [Eight people are killed by police in Xinjiang, western China, after an apparent terrorist attack. ](/news/2013/12/30/eight-people-are-killed-by-police-in-xinjiang-western-china-after-an-apparent-terrorist-attack.md)

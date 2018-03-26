@@ -71,7 +71,7 @@ Five Americans are sentenced to 10 years in jail by a Pakistani court after bein
 ### [President Hu Jintao of China arrives in Ottawa on a three-day state visit to Canada. The two countries sign a tourism agreement. ](/news/2010/06/24/president-hu-jintao-of-china-arrives-in-ottawa-on-a-three-day-state-visit-to-canada-the-two-countries-sign-a-tourism-agreement.md)
 _Context: Hu Jintao, Ottawa, state visit_
 
-##### France
+##### French
 ### [Public sector workers strike in their millions across France. ](/news/2010/06/24/public-sector-workers-strike-in-their-millions-across-france.md)
 A mass strike against plans to raise the retirement age in France has disrupted transport and schools.
 

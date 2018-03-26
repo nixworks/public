@@ -15,9 +15,9 @@ Embassy had shut down in 2012 after protesters stormed the building in protest o
 ### [Australia announces that it will accept an additional 12,000 Syrian migrants, mostly from persecuted minorities. ](/news/2015/09/9/australia-announces-that-it-will-accept-an-additional-12-000-syrian-migrants-mostly-from-persecuted-minorities.md)
 The Coalition party room agrees to accept 12,000 refugees from persecuted minorities and provide an extra $44 million in financial aid.
 
-##### German
+##### Germany
 ### [A German court issues an injunction ordering a halt to a Lufthansa airline pilots' strike. Earlier, Germany's biggest airline announced it had canceled 1,000 flights while about 500 would still operate. ](/news/2015/09/9/a-german-court-issues-an-injunction-ordering-a-halt-to-a-lufthansa-airline-pilots-strike-earlier-germany-s-biggest-airline-announced-it-h.md)
-_Context: German, Lufthansa_
+_Context: Germany, Lufthansa_
 
 ##### Elizabeth II
 ### [Queen Elizabeth II becomes Britain's longest-reigning monarch (63 years and seven months), surpassing the record set by Queen Victoria, her great-great-grandmother. ](/news/2015/09/9/queen-elizabeth-ii-becomes-britain-s-longest-reigning-monarch-63-years-and-seven-months-surpassing-the-record-set-by-queen-victoria-her.md)

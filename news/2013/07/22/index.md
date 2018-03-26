@@ -31,9 +31,9 @@ British drugmaker GlaxoSmithKline said on Monday some of its executives in China
 ### [The presidents of Colombia and Venezuela meet to resolve a high-level diplomatic dispute. ](/news/2013/07/22/the-presidents-of-colombia-and-venezuela-meet-to-resolve-a-high-level-diplomatic-dispute.md)
 _Context: Colombia, Venezuela_
 
-##### European Union
+##### EU
 ### [The European Union announces the addition of the military wing of Hezbollah to its official list of terrorist organizations. ](/news/2013/07/22/the-european-union-announces-the-addition-of-the-military-wing-of-hezbollah-to-its-official-list-of-terrorist-organizations.md)
-_Context: European Union, the military wing of Hezbollah_
+_Context: EU, the military wing of Hezbollah_
 
 ##### UN Refugee Agency
 ### [The United Nations High Commissioner for Refugees states that there are approximately 625,000 refugees from the Syrian civil war living in Lebanon. ](/news/2013/07/22/the-united-nations-high-commissioner-for-refugees-states-that-there-are-approximately-625-000-refugees-from-the-syrian-civil-war-living-in-l.md)

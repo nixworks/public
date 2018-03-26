@@ -49,7 +49,7 @@ HUNDREDS of passengers have vented their fury at Air Australia after the airline
 
 ##### Australian
 ### [The Australian airline Qantas announces plans to cut 500 jobs. ](/news/2012/02/16/the-australian-airline-qantas-announces-plans-to-cut-500-jobs.md)
-_Context: Australian, Qantas_
+_Context: Australian, Qantas Airways_
 
 ##### Pulitzer Prize
 ### [Two time Pulitzer Prize winner Anthony Shadid dies suddenly at age 43 of an acute asthma attack. ](/news/2012/02/16/two-time-pulitzer-prize-winner-anthony-shadid-dies-suddenly-at-age-43-of-an-acute-asthma-attack.md)

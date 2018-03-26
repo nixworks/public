@@ -3,9 +3,9 @@ Formats: [HTML](2015/07/27/index.html)  [JSON](2015/07/27/index.json)  [XML](201
 
 ## [2015-07-27](/news/2015/07/27/index.md)
 
-##### France
+##### French
 ### [French farmers protesting low prices within the country turn back hundreds of trucks suspected of carrying foreign agricultural products at the country's border with Germany. ](/news/2015/07/27/french-farmers-protesting-low-prices-within-the-country-turn-back-hundreds-of-trucks-suspected-of-carrying-foreign-agricultural-products-at.md)
-_Context: France, German, farmers_
+_Context: French, Germany, farmers_
 
 ##### Philippines
 ### [Philippines President Benigno Aquino III holds his final State of the Nation Address before stepping down in 2016. He advocates the passage of the Bangsamoro Basic Law and an anti-dynasty bill. ](/news/2015/07/27/philippines-president-benigno-aquino-iii-holds-his-final-state-of-the-nation-address-before-stepping-down-in-2016-he-advocates-the-passage.md)

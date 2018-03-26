@@ -9,7 +9,7 @@ French Socialist Benoit Hamon called on all leftist voters to unite behind his p
 
 ##### Brexit
 ### [The United Kingdom formally notifies the European Council of its intention to withdraw from the European Union and the European Atomic Energy Community. There is not yet agreement on a negotiations roadmap. ](/news/2017/03/29/the-united-kingdom-formally-notifies-the-european-council-of-its-intention-to-withdraw-from-the-european-union-and-the-european-atomic-energ.md)
-_Context: Brexit, European Atomic Energy Community, European Council, European Union, United Kingdom_
+_Context: Brexit, EU, European Atomic Energy Community, European Council, United Kingdom_
 
 ##### United States immigration ban
 ### [In response to a federal appeal, U.S. District Judge Derrick Watson (Hawaii), who on March 15 issued a temporary, national restraining order on implementation of the revised federal immigration-refugee rules, upgrades his earlier ruling to a preliminary injunction until Hawaii's lawsuit is resolved. ](/news/2017/03/29/in-response-to-a-federal-appeal-u-s-district-judge-derrick-watson-hawaii-who-on-march-15-issued-a-temporary-national-restraining-order.md)

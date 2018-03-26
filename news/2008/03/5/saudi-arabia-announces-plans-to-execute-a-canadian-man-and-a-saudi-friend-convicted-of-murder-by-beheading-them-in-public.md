@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/03/5/saudi-arabia-announces-plans-to-execute-a-canadi
 
 ### [2008-03-5](/news/2008/03/5/index.md)
 
-##### Saudi
+##### Saudi Arabia
 #  Saudi Arabia announces plans to execute a Canadian man and a Saudi friend convicted of murder by beheading them in public. 
 
 
@@ -17,7 +17,7 @@ Formats: [HTML](/news/2008/03/5/saudi-arabia-announces-plans-to-execute-a-canadi
 ### Related:
 
 1. [Citing national security reasons, U.S. President Donald Trump imposes tariffs of 25% on steel and 10% on aluminum imported from most countries. Canada and Mexico are provisionally exempt pending NAFTA renegotiations. The tariffs will take effect on March 23. ](/news/2018/03/8/citing-national-security-reasons-u-s-president-donald-trump-imposes-tariffs-of-25-on-steel-and-10-on-aluminum-imported-from-most-countri.md) _Context: Canada_
-2. [Saudi Arabian Prince Mohammad bin Salman meets Pope Tawadros II at Saint Mark's Coptic Orthodox Cathedral. ](/news/2018/03/5/saudi-arabian-prince-mohammad-bin-salman-meets-pope-tawadros-ii-at-saint-mark-s-coptic-orthodox-cathedral.md) _Context: Saudi_
-3. [Saudi aircraft attack targets in residential areas of Hudaydah and Sa'dah, Yemen. At least seven civilians are killed. ](/news/2018/03/24/saudi-aircraft-attack-targets-in-residential-areas-of-hudaydah-and-sa-dah-yemen-at-least-seven-civilians-are-killed.md) _Context: Saudi_
-4. [Yemeni forces launch a missile attack on Aramco's HQ in Najran, Saudi Arabia. ](/news/2018/03/22/yemeni-forces-launch-a-missile-attack-on-aramco-s-hq-in-najran-saudi-arabia.md) _Context: Saudi_
-5. [U.S. Trade Representative Robert Lighthizer tells a Senate panel that President Donald Trump has decided to "pause" tariffs on steel and aluminium imports from the European Union, Argentina, Australia, Brazil, Canada, Mexico, and South Korea. ](/news/2018/03/22/u-s-trade-representative-robert-lighthizer-tells-a-senate-panel-that-president-donald-trump-has-decided-to-pause-tariffs-on-steel-and-alu.md) _Context: Canada_
+2. [Saudi Arabian Prince Mohammad bin Salman meets Pope Tawadros II at Saint Mark's Coptic Orthodox Cathedral. ](/news/2018/03/5/saudi-arabian-prince-mohammad-bin-salman-meets-pope-tawadros-ii-at-saint-mark-s-coptic-orthodox-cathedral.md) _Context: Saudi Arabia_
+3. [Houthi forces fire several Burkan-2 ballistic missiles at targets in Saudi Arabia with at least one person, an Egyptian national, being killed in Riyadh. The Royal Saudi Air Defense says it intercepted seven missiles, three of them targeting Riyadh, two targeting Jizan and one apiece targeting Najran and Khamis Mushait. ](/news/2018/03/25/houthi-forces-fire-several-burkan-2-ballistic-missiles-at-targets-in-saudi-arabia-with-at-least-one-person-an-egyptian-national-being-kill.md) _Context: Saudi Arabia_
+4. [Saudi aircraft attack Houthi targets in residential areas of Hudaydah and Sa'dah, Yemen, killing at least seven civilians. ](/news/2018/03/24/saudi-aircraft-attack-houthi-targets-in-residential-areas-of-hudaydah-and-sa-dah-yemen-killing-at-least-seven-civilians.md) _Context: Saudi Arabia_
+5. [Yemeni forces launch a missile attack on Aramco's HQ in Najran, Saudi Arabia. ](/news/2018/03/22/yemeni-forces-launch-a-missile-attack-on-aramco-s-hq-in-najran-saudi-arabia.md) _Context: Saudi Arabia_

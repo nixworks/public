@@ -17,7 +17,7 @@ _Context: Belarus, Mikhail Fradkov, Russia, Sergey Sidorsky, energy dispute_
 
 ##### Two years of helping
 ### [ War in Somalia: Martial law is declared in Somalia. ](/news/2007/01/13/war-in-somalia-martial-law-is-declared-in-somalia.md)
-_Context: Martial law, Somali, two years of helping_
+_Context: Martial law, Somalia, two years of helping_
 
 ## [Previous Day...](/news/2007/01/12/index.md)
 

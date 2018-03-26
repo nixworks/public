@@ -21,7 +21,7 @@ _Context: Boko Haram, Cameroon, Islamist insurgency in Nigeria, Waza_
 
 ##### Somali civil war
 ### [Somali al-Shabaab militants attack an army base on the outskirts of Baidoa, killing seven soldiers. ](/news/2015/01/2/somali-al-shabaab-militants-attack-an-army-base-on-the-outskirts-of-baidoa-killing-seven-soldiers.md)
-_Context: Al-Shabab, Baidoa, Somali, Somali civil war_
+_Context: Al-Shabab, Baidoa, Somali civil war, Somalia_
 
 ## [Previous Day...](/news/2015/01/1/index.md)
 

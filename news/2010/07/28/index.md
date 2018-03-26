@@ -5,7 +5,7 @@ Formats: [HTML](2010/07/28/index.html)  [JSON](2010/07/28/index.json)  [XML](201
 
 ##### Spanish
 ### [The Spanish autonomous community of Catalonia bans bullfighting, the first region on the mainland to do so. ](/news/2010/07/28/the-spanish-autonomous-community-of-catalonia-bans-bullfighting-the-first-region-on-the-mainland-to-do-so.md)
-_Context: Catalan, Spanish, autonomous community, bullfighting_
+_Context: Catalonia, Spanish, autonomous community, bullfighting_
 
 ##### Governor of California
 ### [Governor of the U.S. state of California Arnold Schwarzenegger declares a "fiscal state of emergency" requiring most state employees to take three days a month of unpaid leave until a new budget is enacted. ](/news/2010/07/28/governor-of-the-u-s-state-of-california-arnold-schwarzenegger-declares-a-fiscal-state-of-emergency-requiring-most-state-employees-to-take.md)
@@ -53,7 +53,7 @@ At least 12 people died and 15 were seriously injured on Wednesday after an expl
 
 ##### Bomb
 ### [A bomb on a civilian bus in Nimruz Province in southwest Afghanistan results in at least 25 deaths. ](/news/2010/07/28/a-bomb-on-a-civilian-bus-in-nimruz-province-in-southwest-afghanistan-results-in-at-least-25-deaths.md)
-_Context: Afghan, Nimruz Province, bomb, bus_
+_Context: Afghanistan, Nimruz Province, bomb, bus_
 
 ## [Previous Day...](/news/2010/07/27/index.md)
 

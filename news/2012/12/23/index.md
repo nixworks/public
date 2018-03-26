@@ -17,7 +17,7 @@ North Korea has the ability to fire a rocket more than 10,000km, theoretically p
 
 ##### Fire
 ### [At least 600 shops are destroyed as a fire sweeps through a market and money exchange in Kabul, Afghanistan. ](/news/2012/12/23/at-least-600-shops-are-destroyed-as-a-fire-sweeps-through-a-market-and-money-exchange-in-kabul-afghanistan.md)
-_Context: Afghan, Kabul, fire, market, money exchange_
+_Context: Afghanistan, Kabul, fire, market, money exchange_
 
 ##### Train
 ### [A train derails in the Swiss Alps after ramming into mounds of snow from an avalanche blocking the tracks with no injuries. ](/news/2012/12/23/a-train-derails-in-the-swiss-alps-after-ramming-into-mounds-of-snow-from-an-avalanche-blocking-the-tracks-with-no-injuries.md)
@@ -43,9 +43,9 @@ Rebels in the Central AfricanRepublic on Sunday seized the town of Bambari, the 
 ### [Islamists in Mali are reported to have resumed a campaign to destroy mausoleums that they consider idolatrous in the historic city of Timbuktu. ](/news/2012/12/23/islamists-in-mali-are-reported-to-have-resumed-a-campaign-to-destroy-mausoleums-that-they-consider-idolatrous-in-the-historic-city-of-timbuk.md)
 Islamists in Mali are reported to have resumed a campaign to destroy mausoleums that they consider idolatrous in the historic city of Timbuktu.
 
-##### Somali
+##### Somalia
 ### [Troops in Somalia's region of Puntland free 22 hostages seized by pirates nearly three years ago. ](/news/2012/12/23/troops-in-somalia-s-region-of-puntland-free-22-hostages-seized-by-pirates-nearly-three-years-ago.md)
-_Context: Puntland, Somali, Somali pirates_
+_Context: Puntland, Somali pirates, Somalia_
 
 ##### Syrian government
 ### [Up to 200 civilians are killed by Syrian government warplanes in the town of Helfaya, Hama province. ](/news/2012/12/23/up-to-200-civilians-are-killed-by-syrian-government-warplanes-in-the-town-of-helfaya-hama-province.md)

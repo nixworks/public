@@ -13,7 +13,7 @@ Pakistani troops took the main town in strategically important Buner Valley on W
 
 ##### Australia
 ### [ Australia announces the deployment of 450 additional soldiers to the Afghanistan War. ](/news/2009/04/29/australia-announces-the-deployment-of-450-additional-soldiers-to-the-afghanistan-war.md)
-_Context: Afghan, Australia, Defence Force, War in Afghanistan (2001-present), deployment_
+_Context: Afghanistan, Australia, Defence Force, War in Afghanistan (2001-present), deployment_
 
 ##### India
 ### [ India's government locks down Srinagar, Kashmir, to prevent anti-election protests. ](/news/2009/04/29/india-s-government-locks-down-srinagar-kashmir-to-prevent-anti-election-protests.md)

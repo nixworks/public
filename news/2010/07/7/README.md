@@ -7,9 +7,9 @@ Formats: [HTML](2010/07/7/index.html)  [JSON](2010/07/7/index.json)  [XML](2010/
 ### [Spain defeats Germany 1-0 to win its semi-final and for its first time, along with Netherlands make the 2010 FIFA World Cup Final. ](/news/2010/07/7/spain-defeats-germany-1-0-to-win-its-semi-final-and-for-its-first-time-along-with-netherlands-make-the-2010-fifa-world-cup-final.md)
 _Context: 2010 FIFA World Cup Final, FIFA World Cup 2010, Germany, Netherlands, Spain, third_
 
-##### European Union
+##### EU
 ### [The European Union reveals its list of 91 stress test banks. ](/news/2010/07/7/the-european-union-reveals-its-list-of-91-stress-test-banks.md)
-_Context: European Union_
+_Context: EU_
 
 ##### Blizzard Entertainment
 ### [Blizzard Entertainment announces it is to force people playing its World of Warcraft game to post under their real name. ](/news/2010/07/7/blizzard-entertainment-announces-it-is-to-force-people-playing-its-world-of-warcraft-game-to-post-under-their-real-name.md)
@@ -31,9 +31,9 @@ A man working for Lagos University Teaching Hospital is arrested in Nigeria, car
 ### [New Zealand environmental activist Peter Bethune is given a two year suspended sentence in a Tokyo District Court for his role in boarding a Japanese whaling ship. ](/news/2010/07/7/new-zealand-environmental-activist-peter-bethune-is-given-a-two-year-suspended-sentence-in-a-tokyo-district-court-for-his-role-in-boarding-a.md)
 When Pete Bethune&#039;s family in Auckland heard the New Zealand environmental activist had been sentenced in Tokyo, they thought he was going to be locked up in Japan for two years.
 
-##### France
+##### French
 ### [French prosecutors launch an investigation into alleged illegal campaign funding for French President Nicolas Sarkozy. ](/news/2010/07/7/french-prosecutors-launch-an-investigation-into-alleged-illegal-campaign-funding-for-french-president-nicolas-sarkozy.md)
-_Context: France, Nicolas Sarkozy, President of France_
+_Context: French, Nicolas Sarkozy, President of France_
 
 ##### Human Rights Watch
 ### [Human Rights Watch calls on Iran to stop the execution of Sakineh Mohammadi Ashtiani, a woman convicted of adultery. She denies the charges. ](/news/2010/07/7/human-rights-watch-calls-on-iran-to-stop-the-execution-of-sakineh-mohammadi-ashtiani-a-woman-convicted-of-adultery-she-denies-the-charges.md)
@@ -65,7 +65,7 @@ An Israeli allegedly linked to the killing of a Hamas operative in Dubai can be 
 
 ##### Constitutional Court of Turkey
 ### [The Constitutional Court of Turkey annuls key parts of government-backed constitutional reforms designed for possible European Union membership, rejecting opposition calls for the rest to be rejected as well and permitting the rest to be put to a national referendum in September. ](/news/2010/07/7/the-constitutional-court-of-turkey-annuls-key-parts-of-government-backed-constitutional-reforms-designed-for-possible-european-union-members.md)
-_Context: Constitutional Court of Turkey, European Union, referendum_
+_Context: Constitutional Court of Turkey, EU, referendum_
 
 ##### Paris
 ### [A Paris court sentences former Panamanian dictator Manuel Noriega to seven years in jail for money laundering in France for the Medellin drug cartel in the 1980s. ](/news/2010/07/7/a-paris-court-sentences-former-panamanian-dictator-manuel-noriega-to-seven-years-in-jail-for-money-laundering-in-france-for-the-medellin-dru.md)
@@ -93,7 +93,7 @@ _Context: Brazil, Bruno Fernandes de Souza_
 
 ##### United Kingdom
 ### [The United Kingdom is to hand over responsibility for Afghanistan's Sangin area to the United States. ](/news/2010/07/7/the-united-kingdom-is-to-hand-over-responsibility-for-afghanistan-s-sangin-area-to-the-united-states.md)
-_Context: Afghan, Sangin, United Kingdom, United States_
+_Context: Afghanistan, Sangin, United Kingdom, United States_
 
 ##### Norwegian
 ### [A Norwegian asylum centre burns to the ground during protests at conditions at the facility. ](/news/2010/07/7/a-norwegian-asylum-centre-burns-to-the-ground-during-protests-at-conditions-at-the-facility.md)

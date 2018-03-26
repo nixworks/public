@@ -45,9 +45,9 @@ A twin-engine plane has crashed in the Brazilian Amazon state of Para, killing a
 
 ##### European Parliament
 ### [The European Parliament rejects a European Union budget for the first time in its history. ](/news/2013/03/13/the-european-parliament-rejects-a-european-union-budget-for-the-first-time-in-its-history.md)
-_Context: European Parliament, European Union, budget_
+_Context: EU, European Parliament, budget_
 
-##### France
+##### French
 ### [French sociologist of science and anthropologist Bruno Latour wins the 2013 Holberg Prize. ](/news/2013/03/13/french-sociologist-of-science-and-anthropologist-bruno-latour-wins-the-2013-holberg-prize.md)
 Bruno Latour, anthropologist and sociologist, is this year&#039;s Holberg Prize laureate. Latour is professor at Sciences Po, Paris. Photo credit: Manuel Braun. The Board of the Ludvig Holberg Memorial Fund has decided to award the 2013 Holberg International Memorial Prize to anthropologist and soci...
 
@@ -59,13 +59,13 @@ _Context: Nigeria_
 ### [Kurdish rebels release eight Turkish citizens that had been held captive for two years. ](/news/2013/03/13/kurdish-rebels-release-eight-turkish-citizens-that-had-been-held-captive-for-two-years.md)
 _Context: Kurdish, Turkey_
 
-##### European Union
+##### EU
 ### [Ahmad Shihadeh, a member of the European Union's delegation in Syria, is killed in a rocket attack in a Damascus suburb. ](/news/2013/03/13/ahmad-shihadeh-a-member-of-the-european-union-s-delegation-in-syria-is-killed-in-a-rocket-attack-in-a-damascus-suburb.md)
-_Context: Damascus, European Union, Syria_
+_Context: Damascus, EU, Syria_
 
 ##### Kunduz province
 ### [A suicide bomber kills 10 spectators, including the district police chief, during a local gaming event in Kunduz province of northern Afghanistan. ](/news/2013/03/13/a-suicide-bomber-kills-10-spectators-including-the-district-police-chief-during-a-local-gaming-event-in-kunduz-province-of-northern-afghan.md)
-_Context: Afghan, Kunduz province_
+_Context: Afghanistan, Kunduz province_
 
 ##### Bemina
 ### [Five Indian paramilitary soldiers are killed and three civilians injured by two militants near a school in Bemina area of Srinagar in Indian-administered Kashmir, later two militants being killed by CRPF. ](/news/2013/03/13/five-indian-paramilitary-soldiers-are-killed-and-three-civilians-injured-by-two-militants-near-a-school-in-bemina-area-of-srinagar-in-indian.md)

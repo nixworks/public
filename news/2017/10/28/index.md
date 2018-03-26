@@ -21,7 +21,7 @@ _Context: Dhading District, Nepal, Trishuli River_
 
 ##### 28 October 2017 Mogadishu bombings
 ### [Two car bombs kill at least 25 people, mostly police officers, near the national theater area in Mogadishu, Somalia, two weeks after a similar attack killed hundreds. Islamist group Al-Shabaab claims responsibility. ](/news/2017/10/28/two-car-bombs-kill-at-least-25-people-mostly-police-officers-near-the-national-theater-area-in-mogadishu-somalia-two-weeks-after-a-simil.md)
-_Context: 14 October 2017 Mogadishu bombings, 28 October 2017 Mogadishu bombings, Al-Shabab, Mogadishu, Somali_
+_Context: 14 October 2017 Mogadishu bombings, 28 October 2017 Mogadishu bombings, Al-Shabab, Mogadishu, Somalia_
 
 ## [Previous Day...](/news/2017/10/27/index.md)
 

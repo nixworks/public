@@ -15,7 +15,7 @@ _Context: Iloilo, Philippines, Red Cross_
 ### [ Zimbabwean opposition leader Morgan Tsvangirai pulls out of the June 27 run-off presidential election after President Robert Mugabe's supporters attacked his rally. ](/news/2008/06/22/zimbabwean-opposition-leader-morgan-tsvangirai-pulls-out-of-the-june-27-run-off-presidential-election-after-president-robert-mugabe-s-suppo.md)
 Zimbabwean opposition leader Morgan Tsvangirai pulled out of a run-off election against President Robert Mugabe on Sunday, saying his supporters would be risking their lives if they voted.
 
-##### Saudi
+##### Saudi Arabia
 ### [ Saudi Arabia offers to increase its oil production slightly at an oil summit in Jeddah. ](/news/2008/06/22/saudi-arabia-offers-to-increase-its-oil-production-slightly-at-an-oil-summit-in-jeddah.md)
 The Saudis pledged to make only a slight increase in oil production, and the summit made plain how few options are available to push prices down from record levels.
 

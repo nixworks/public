@@ -69,7 +69,7 @@ At least 17 people were killed in and around the Iraqi capital on Monday in four
 
 ##### War in Somalia (2009-present)
 ### [A car bomb in Somalia kills at least six people at the gates of the presidential palace in Mogadishu. ](/news/2015/09/21/a-car-bomb-in-somalia-kills-at-least-six-people-at-the-gates-of-the-presidential-palace-in-mogadishu.md)
-_Context: Mogadishu, President, Somali, War in Somalia (2009-present), car bomb_
+_Context: Mogadishu, President, Somalia, War in Somalia (2009-present), car bomb_
 
 ##### Syrian Civil War
 ### [Government forces target al-Shaar neighborhood in eastern Aleppo city with surface-to-surface missiles, hitting a crowded public market, killing more than 30 civilians and dozens wounded. ](/news/2015/09/21/government-forces-target-al-shaar-neighborhood-in-eastern-aleppo-city-with-surface-to-surface-missiles-hitting-a-crowded-public-market-kil.md)

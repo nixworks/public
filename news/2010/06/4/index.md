@@ -41,7 +41,7 @@ A&#x20;French&#x20;court&#x20;fined&#x20;Interior&#x20;Minister&#x20;Brice&#x20;
 
 ##### Joint Base Lewis-McChord
 ### [A Joint Base Lewis-McChord United States Army soldier is charged with three counts of premeditated murder in connection with the deaths of three Afghan civilians. ](/news/2010/06/4/a-joint-base-lewis-mcchord-united-states-army-soldier-is-charged-with-three-counts-of-premeditated-murder-in-connection-with-the-deaths-of-t.md)
-_Context: Afghan, Joint Base Lewis-McChord, United States soldier, murder_
+_Context: Afghanistan, Joint Base Lewis-McChord, United States soldier, murder_
 
 ##### Joran van der Sloot
 ### [Joran van der Sloot, a suspect in the disappearance of Natalee Holloway in Aruba, is extradited from Chile to Peru to face charges in the killing of a Peruvian woman. ](/news/2010/06/4/joran-van-der-sloot-a-suspect-in-the-disappearance-of-natalee-holloway-in-aruba-is-extradited-from-chile-to-peru-to-face-charges-in-the-ki.md)
@@ -77,7 +77,7 @@ The BBC apologises for airing a radio play about a murderer featuring gunshots, 
 
 ##### Ahlu Sunnah Waljama
 ### [The pro-government militia group of Ahlu Sunnah Waljama (ASW) in Somalia claims to have killed at least 91 Islamist fighters and wounded 170 others in Thursday's fierce clashes. ](/news/2010/06/4/the-pro-government-militia-group-of-ahlu-sunnah-waljama-asw-in-somalia-claims-to-have-killed-at-least-91-islamist-fighters-and-wounded-170.md)
-_Context: Ahlu Sunnah Waljama, Islamist, Somali_
+_Context: Ahlu Sunnah Waljama, Islamist, Somalia_
 
 ##### Israel
 ### [Anti-Israel protests take place outside the Israeli embassy in Dublin, Ireland, and outside the US embassy in Kuala Lumpur, Malaysia. ](/news/2010/06/4/anti-israel-protests-take-place-outside-the-israeli-embassy-in-dublin-ireland-and-outside-the-us-embassy-in-kuala-lumpur-malaysia.md)

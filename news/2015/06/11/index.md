@@ -39,9 +39,9 @@ At least 41 people were killed and eight injured on Thursday in a landslide trig
 ### [Rupert Murdoch will step aside as CEO of 21st Century Fox to be replaced by his son James Murdoch. ](/news/2015/06/11/rupert-murdoch-will-step-aside-as-ceo-of-21st-century-fox-to-be-replaced-by-his-son-james-murdoch.md)
 Rupert Murdoch is standing down as chief executive of his media-entertainment conglomerate 21st Century Fox.
 
-##### Twitter
+##### Tweeting
 ### [After a poor 1st quarter earnings report, Twitter CEO Dick Costolo steps down with co-founder Jack Dorsey taking over as interim CEO effective July 1. ](/news/2015/06/11/after-a-poor-1st-quarter-earnings-report-twitter-ceo-dick-costolo-steps-down-with-co-founder-jack-dorsey-taking-over-as-interim-ceo-effecti.md)
-_Context: Dick Costolo, Jack Dorsey, Twitter_
+_Context: Dick Costolo, Jack Dorsey, tweeting_
 
 ##### Miguel de Cervantes
 ### [Spain gives the late writer Miguel de Cervantes, author of "Don Quixote", a formal burial at a Madrid convent nearly 400 years after his death in 1616. ](/news/2015/06/11/spain-gives-the-late-writer-miguel-de-cervantes-author-of-don-quixote-a-formal-burial-at-a-madrid-convent-nearly-400-years-after-his-dea.md)

@@ -13,7 +13,7 @@ The party of German Chancellor Angela Merkel suffers defeats in two of three sta
 
 ##### Authorities
 ### [Authorities in Belarus detain prominent businessman Yury Chyzh, once a close adviser to Alexander Lukashenko and included in the EU's sanctions list, on suspicion of large-scale tax evasion. ](/news/2016/03/13/authorities-in-belarus-detain-prominent-businessman-yury-chyzh-once-a-close-adviser-to-alexander-lukashenko-and-included-in-the-eu-s-sancti.md)
-_Context: Alexander Lukashenko, Authorities, Belarus, European Union, Yury Chyzh, tax fraud_
+_Context: Alexander Lukashenko, Authorities, Belarus, EU, Yury Chyzh, tax fraud_
 
 ##### Israeli-Palestinian conflict
 ### [Israeli Defence Forces arrest 15 Palestinian suspects overnight. ](/news/2016/03/13/israeli-defence-forces-arrest-15-palestinian-suspects-overnight.md)

@@ -3,9 +3,9 @@ Formats: [HTML](2005/01/30/index.html)  [JSON](2005/01/30/index.json)  [XML](200
 
 ## [2005-01-30](/news/2005/01/30/index.md)
 
-##### Afghan
+##### Afghanistan
 ### [ The deadline passes for the finalization of constituencies for Afghanistan's May 21 parliamentary elections, UN officials say. Though the constituencies were supposed to be set up 120 days before the election, officials have not yet announced an election delay. Violence continues, particularly in the south of the country where the Taliban still remains active. ](/news/2005/01/30/the-deadline-passes-for-the-finalization-of-constituencies-for-afghanistan-s-may-21-parliamentary-elections-un-officials-say-though-the-c.md)
-_Context: Afghan, May 21, Taliban, United Nations_
+_Context: Afghanistan, May 21, Taliban, United Nations_
 
 ##### Indonesia
 ### [ Talks between the Indonesian government and Free Aceh Movement leaders in Helsinki end a day early, possibly signaling a breakdown in negotiations. ](/news/2005/01/30/talks-between-the-indonesian-government-and-free-aceh-movement-leaders-in-helsinki-end-a-day-early-possibly-signaling-a-breakdown-in-negot.md)

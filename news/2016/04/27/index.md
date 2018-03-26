@@ -41,7 +41,7 @@ A federal judge sentenced former U.S. House Speaker Dennis Hastert to 15 months 
 
 ##### November 2015 Paris attacks
 ### [Belgian prosecutors hand over Salah Abdeslam, a key suspect in the November 2015 Paris attacks, to French authorities. ](/news/2016/04/27/belgian-prosecutors-hand-over-salah-abdeslam-a-key-suspect-in-the-november-2015-paris-attacks-to-french-authorities.md)
-_Context: Belgium, France, November 2015 Paris attacks, Salah Abdeslam_
+_Context: Belgium, French, November 2015 Paris attacks, Salah Abdeslam_
 
 ##### Andrew Chan
 ### [Two days before the one-year anniversary of the execution of Andrew Chan and Myuran Sukumaran, the ringleaders of the Bali Nine, member Michael Czugaj is discovered to be in possession of drugs in prison. ](/news/2016/04/27/two-days-before-the-one-year-anniversary-of-the-execution-of-andrew-chan-and-myuran-sukumaran-the-ringleaders-of-the-bali-nine-member-mich.md)
@@ -83,7 +83,7 @@ Torrential downpours cause flooding in the Parish of Alluriquin, affecting hundr
 ### [The Philippine peso sinks to become the "worst performing currency in Asia" as a result of a volatile and unpredictable presidential election. ](/news/2016/04/27/the-philippine-peso-sinks-to-become-the-worst-performing-currency-in-asia-as-a-result-of-a-volatile-and-unpredictable-presidential-electio.md)
 A controversial city mayor’s tightening grip on the Philippine presidential race has made the nation’s currency Asia’s worst performer this month.
 
-##### German
+##### Germany
 ### [The German cities of Augsburg and Cologne are testing a scheme of traffic lights embedded in the ground to reduce cell phone-texting pedestrian accidents with vehicles that happen when so-called "smombies" step out into the street against the signal. ](/news/2016/04/27/the-german-cities-of-augsburg-and-cologne-are-testing-a-scheme-of-traffic-lights-embedded-in-the-ground-to-reduce-cell-phone-texting-pedestr.md)
 In Germany, they call them smombies – smartphone users who stagger about cities like zombies, oblivious to the risk. Now the city of Augsburg is fighting back
 

@@ -41,7 +41,7 @@ News and opinion from The Times &amp; The Sunday Times
 
 ##### Somali Civil War
 ### [ Somali Civil War: UN Secretary-General Kofi Annan warns Somalia's neighbours to stay out, as UN experts paint an alarming picture of foreign and extremist intervention in a nation on the brink of all-out war that could engulf the Horn of Africa. ](/news/2006/11/19/somali-civil-war-un-secretary-general-kofi-annan-warns-somalia-s-neighbours-to-stay-out-as-un-experts-paint-an-alarming-picture-of-foreig.md)
-_Context: Horn of Africa, Kofi Annan, Somali, Somali Civil War, United Nations, United Nations Secretary-General_
+_Context: Horn of Africa, Kofi Annan, Somali Civil War, Somalia, United Nations, United Nations Secretary-General_
 
 ##### Iraq
 ### [ Gunmen abduct Iraq's Deputy Health Minister Ammar al-Saffar. ](/news/2006/11/19/gunmen-abduct-iraq-s-deputy-health-minister-ammar-al-saffar.md)

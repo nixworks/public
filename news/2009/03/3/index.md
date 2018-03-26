@@ -3,9 +3,9 @@ Formats: [HTML](2009/03/3/index.html)  [JSON](2009/03/3/index.json)  [XML](2009/
 
 ## [2009-03-3](/news/2009/03/3/index.md)
 
-##### German
+##### Germany
 ### [ German frigate "Rheinland-Pfalz" foils a Somali pirate attack on a German container ship in the Gulf of Aden. ](/news/2009/03/3/german-frigate-rheinland-pfalz-foils-a-somali-pirate-attack-on-a-german-container-ship-in-the-gulf-of-aden.md)
-_Context: German, Gulf of Aden, Somali, Somali pirates, container ship, frigate_
+_Context: Germany, Gulf of Aden, Somali pirates, Somalia, container ship, frigate_
 
 ##### Cologne
 ### [ Three people are believed trapped after Cologne's municipal archives building collapses. ](/news/2009/03/3/three-people-are-believed-trapped-after-cologne-s-municipal-archives-building-collapses.md)

@@ -3,7 +3,7 @@ Formats: [HTML](2016/08/18/index.html)  [JSON](2016/08/18/index.json)  [XML](201
 
 ## [2016-08-18](/news/2016/08/18/index.md)
 
-##### Twitter
+##### Tweeting
 ### [Twitter announces 235,000 terror-linked accounts have been suspended over the past six months amid increasing pressure on tech companies from the White House to censor extremists from groups like ISIS. ](/news/2016/08/18/twitter-announces-235-000-terror-linked-accounts-have-been-suspended-over-the-past-six-months-amid-increasing-pressure-on-tech-companies-fro.md)
 The social media giant has deactivated the accounts over the last six months
 

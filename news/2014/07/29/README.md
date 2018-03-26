@@ -7,7 +7,7 @@ Formats: [HTML](2014/07/29/index.html)  [JSON](2014/07/29/index.json)  [XML](201
 ### [Chinese state media report that former Politburo Standing Committee member and security chief Zhou Yongkang is undergoing investigation for "disciplinary violations." ](/news/2014/07/29/chinese-state-media-report-that-former-politburo-standing-committee-member-and-security-chief-zhou-yongkang-is-undergoing-investigation-for.md)
 Zhou Yongkang, who retired from the Politburo Standing Committee in late 2012, is the most senior Communist Party figure to face a formal corruption inquiry.
 
-##### European Union
+##### EU
 ### [The European Union and United States impose tougher sanctions against Russia over the Ukraine crisis. ](/news/2014/07/29/the-european-union-and-united-states-impose-tougher-sanctions-against-russia-over-the-ukraine-crisis.md)
 The United States and Europe began a joint effort to curb Russia’s long-term ability to develop new oil resources, taking aim at a source of Kremlin power in retaliation for its intervention in Ukraine.
 

@@ -39,7 +39,7 @@ _Context: Fernando Lugo, Mercosur, Paraguay, South America, trade bloc_
 ### [A fast-moving line of storms knocks out power to nearly four million people in the Mid-Atlantic states of the US and kills one person in Springfield, Virginia. ](/news/2012/06/29/a-fast-moving-line-of-storms-knocks-out-power-to-nearly-four-million-people-in-the-mid-atlantic-states-of-the-us-and-kills-one-person-in-spr.md)
 A fast-moving line of dangerous storms knocked out power to more than 1.5 million customers in the D.C. area Friday night.
 
-##### European Union
+##### EU
 ### [European Union leaders agree to use a bailout fund to recapitalise struggling banks and to work on a plan for tighter budgetary and political union. ](/news/2012/06/29/european-union-leaders-agree-to-use-a-bailout-fund-to-recapitalise-struggling-banks-and-to-work-on-a-plan-for-tighter-budgetary-and-politica.md)
 Leaders also agreed to recapitalize struggling banks without making governments back the debt.
 

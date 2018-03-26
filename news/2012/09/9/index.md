@@ -37,7 +37,7 @@ _Context: CNDP, Democratic Republic of Congo, Louis Michel, M23, Nestor, Paul Ka
 
 ##### Taliban
 ### [Local authorities report that suspected Taliban abduct and then kill six civilians in the Maidan Wardak province of Afghanistan. ](/news/2012/09/9/local-authorities-report-that-suspected-taliban-abduct-and-then-kill-six-civilians-in-the-maidan-wardak-province-of-afghanistan.md)
-_Context: Afghan, Taliban, Wardak Province_
+_Context: Afghanistan, Taliban, Wardak Province_
 
 ##### Wave of attacks
 ### [A wave of attacks kill more than 100 people and injure 350 others across Iraq on the day the death sentence against Tariq al-Hashimi is made public. ](/news/2012/09/9/a-wave-of-attacks-kill-more-than-100-people-and-injure-350-others-across-iraq-on-the-day-the-death-sentence-against-tariq-al-hashimi-is-made.md)

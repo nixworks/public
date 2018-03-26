@@ -9,7 +9,7 @@ _Context: Champs-Elysees, gay marriage_
 
 ##### Syria
 ### [Syria's opposition chief Ahmed Moaz al-Khatib resigns from the Syrian National Coalition after inconclusive talks with the European Union. ](/news/2013/03/24/syria-s-opposition-chief-ahmed-moaz-al-khatib-resigns-from-the-syrian-national-coalition-after-inconclusive-talks-with-the-european-union.md)
-_Context: Ahmed Moaz al-Khatib, European Union, Syria, Syrian National Coalition_
+_Context: Ahmed Moaz al-Khatib, EU, Syria, Syrian National Coalition_
 
 ##### Lahore
 ### [Tens of thousands gather in Lahore as Pakistan's cricketer-turned-politician Imran Khan launches an election bid for the country's general elections in May 2013. ](/news/2013/03/24/tens-of-thousands-gather-in-lahore-as-pakistan-s-cricketer-turned-politician-imran-khan-launches-an-election-bid-for-the-country-s-general-e.md)

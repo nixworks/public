@@ -45,7 +45,7 @@ _Context: Havana, Ladies in White_
 
 ##### Spanish Navy
 ### [The Spanish Navy captures eight suspected pirates off the Somalia coast. ](/news/2010/04/25/the-spanish-navy-captures-eight-suspected-pirates-off-the-somalia-coast.md)
-_Context: Somali, Spanish Navy_
+_Context: Somalia, Spanish Navy_
 
 ##### Quezon City
 ### [A huge fire destroys hundreds of homes and leaves thousands homeless in Quezon City, Philippines. ](/news/2010/04/25/a-huge-fire-destroys-hundreds-of-homes-and-leaves-thousands-homeless-in-quezon-city-philippines.md)

@@ -51,7 +51,7 @@ Dave Brubeck, the US jazz pianist who recorded Take Five and toured with Duke El
 ### [Violent clashes occur in Cairo between supporters and opponents of the President of Egypt Mohamed Morsi. ](/news/2012/12/5/violent-clashes-occur-in-cairo-between-supporters-and-opponents-of-the-president-of-egypt-mohamed-morsi.md)
 The political crisis in Egypt is deepening, with supporters and opponents of President Mohammed Morsi pelting each other with rocks outside the Presidential Palace in Cairo. Supporters of the president descended on demonstrators staging a sit-in to protest Morsi&#039;s powers and a draft constitutio...
 
-##### Somali
+##### Somalia
 ### [A remote-controlled bomb explodes in a predominantly Somali neighborhood in the Kenyan capital Nairobi, injuring nine people. ](/news/2012/12/5/a-remote-controlled-bomb-explodes-in-a-predominantly-somali-neighborhood-in-the-kenyan-capital-nairobi-injuring-nine-people.md)
 A suspected remote-controlled bomb tore through a predominantly Somali neighborhood in the Kenyan capital Nairobi on Wednesday, wounding up to nine people during the evening rush hour.
 

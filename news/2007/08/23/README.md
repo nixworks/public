@@ -35,7 +35,7 @@ _Context: Al Qaeda in Iraq, Baquba, Iraq, Sunni, mosque_
 ### [ MySpace and MTV join forces to let candidates in the 2008 United States presidential election hold online webcasts with young people. ](/news/2007/08/23/myspace-and-mtv-join-forces-to-let-candidates-in-the-2008-united-states-presidential-election-hold-online-webcasts-with-young-people.md)
 The Age 404 Page
 
-##### European Union
+##### EU
 ### [ The European Union lifts a ban on the export of British livestock, meat and dairy products imposed after a recent foot and mouth disease outbreak in Surrey. ](/news/2007/08/23/the-european-union-lifts-a-ban-on-the-export-of-british-livestock-meat-and-dairy-products-imposed-after-a-recent-foot-and-mouth-disease-ou.md)
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 

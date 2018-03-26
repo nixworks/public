@@ -7,9 +7,9 @@ Formats: [HTML](2009/04/25/index.html)  [JSON](2009/04/25/index.json)  [XML](200
 ### [ University of Georgia Professor George Zinkhan allegedly kills three people in Athens, Georgia, United States. ](/news/2009/04/25/university-of-georgia-professor-george-zinkhan-allegedly-kills-three-people-in-athens-georgia-united-states.md)
 _Context: Athens, George Zinkhan, Georgia, Professor, United States, University of Georgia_
 
-##### Somali
+##### Somalia
 ### [ Somali pirates hijack Germany's MV "Patriot" and release a Greek ship. ](/news/2009/04/25/somali-pirates-hijack-germany-s-mv-patriot-and-release-a-greek-ship.md)
-_Context: German, Greece, MV, Somali, Somali pirates, pirate, ship_
+_Context: Germany, Greece, MV, Somali pirates, Somalia, pirate, ship_
 
 ##### Iceland
 ### [ Iceland's legislative election occurs. ](/news/2009/04/25/iceland-s-legislative-election-occurs.md)

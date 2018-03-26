@@ -29,7 +29,7 @@ _Context: China, Kashgar, Xinjiang_
 
 ##### Australia
 ### [The last Australian combat troops leave Afghanistan. ](/news/2013/12/15/the-last-australian-combat-troops-leave-afghanistan.md)
-_Context: Afghan, Australia_
+_Context: Afghanistan, Australia_
 
 ## [Previous Day...](/news/2013/12/14/index.md)
 

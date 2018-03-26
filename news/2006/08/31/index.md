@@ -41,7 +41,7 @@ _Context: Apotex, August 8, Bristol-Myers Squibb, Plavix, Sanofi-Aventis, generi
 
 ##### UNCTAD
 ### [ The annual development report released by the United Nations Conference on Trade and Development criticizes Japan and Germany for not doing enough to stabilize international trade by buying imports. ](/news/2006/08/31/the-annual-development-report-released-by-the-united-nations-conference-on-trade-and-development-criticizes-japan-and-germany-for-not-doing.md)
-_Context: German, Japan, UNCTAD, import_
+_Context: Germany, Japan, UNCTAD, import_
 
 ##### United Nations Security Council
 ### [ The United Nations Security Council approves resolution 1706, which is meant to resolve the Darfur conflict.](/news/2006/08/31/the-united-nations-security-council-approves-resolution-1706-which-is-meant-to-resolve-the-darfur-conflict.md)

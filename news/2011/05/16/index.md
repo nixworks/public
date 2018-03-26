@@ -47,9 +47,9 @@ _Context: Alberta, Canada, Slave Lake, wildfire_
 ### [At least one person is killed and at least six injured following a building collapse in the US town of Morrilton, Arkansas. ](/news/2011/05/16/at-least-one-person-is-killed-and-at-least-six-injured-following-a-building-collapse-in-the-us-town-of-morrilton-arkansas.md)
 _Context: Arkansas, Morrilton_
 
-##### France
+##### French
 ### [French investigators report that flight recorders recovered from the wreckage of Air France Flight 447 nearly two years after the crash are still readable. ](/news/2011/05/16/french-investigators-report-that-flight-recorders-recovered-from-the-wreckage-of-air-france-flight-447-nearly-two-years-after-the-crash-are.md)
-_Context: France, crash of Air France Flight 447, flight recorders_
+_Context: French, crash of Air France Flight 447, flight recorders_
 
 ##### Flooding
 ### [It is reported that the Waterford Nuclear Generating Station in St. Charles Parish, Louisiana, USA, was restarted three days ago after a refueling shutdown on April 5, as the floodwaters are diverted to the Atchafalaya River. ](/news/2011/05/16/it-is-reported-that-the-waterford-nuclear-generating-station-in-st-charles-parish-louisiana-usa-was-restarted-three-days-ago-after-a-ref.md)
@@ -63,7 +63,7 @@ Nasdaq OMX Group Inc and IntercontinentalExchange withdrew their hostile $11.3 b
 ### [The International Monetary Fund approves another US$2 billion loan to Ireland. ](/news/2011/05/16/the-international-monetary-fund-approves-another-us-2-billion-loan-to-ireland.md)
 _Context: International Monetary Fund, Ireland_
 
-##### European Union
+##### EU
 ### [European Union finance ministers approve a 78 billion euro bailout package for Portugal ](/news/2011/05/16/european-union-finance-ministers-approve-a-78-billion-euro-bailout-package-for-portugal.md)
 European Union finance ministers cleared the way for Portugal to receive 78 billion euros ($110.8 billion) in aid, making it the third euro-area country to fall back on official loans.
 
@@ -85,7 +85,7 @@ A bomb threat for London has been issued by Irish dissidents - in what officials
 
 ##### United States soldier
 ### [Four members of the United States Army are killed by a bomb in southern Afghanistan. ](/news/2011/05/16/four-members-of-the-united-states-army-are-killed-by-a-bomb-in-southern-afghanistan.md)
-_Context: Afghan, United States soldier_
+_Context: Afghanistan, United States soldier_
 
 ##### NATO
 ### [NATO forces find a small boat loaded with explosives outside the Libyan port of Misrata, with forces loyal to Muammar Gaddafi believed to be responsible. ](/news/2011/05/16/nato-forces-find-a-small-boat-loaded-with-explosives-outside-the-libyan-port-of-misrata-with-forces-loyal-to-muammar-gaddafi-believed-to-be.md)
@@ -99,7 +99,7 @@ _Context: 2011 Syrian uprising, Deraa, Syria_
 ### [The Israeli Navy fires warning shots at a Malaysian ship travelling to the Gaza Strip, forcing it to return to Egypt. ](/news/2011/05/16/the-israeli-navy-fires-warning-shots-at-a-malaysian-ship-travelling-to-the-gaza-strip-forcing-it-to-return-to-egypt.md)
 _Context: Egypt, Gaza Strip, Israeli Navy, Malaysia_
 
-##### Saudi
+##### Saudi Arabia
 ### [Gunmen fire on a Saudi Arabian consulate car in Karachi, Pakistan, killing the driver. ](/news/2011/05/16/gunmen-fire-on-a-saudi-arabian-consulate-car-in-karachi-pakistan-killing-the-driver.md)
 TTP spokesman denies carrying out attack, Saudi condemns &#039;criminal&#039; attack on diplomat.
 

@@ -23,9 +23,9 @@ _Context: 2008, AIDS, China, HIV, Ministry of Health, infectious disease, leadin
 ### [ U.S. President Barack Obama meets with Canadian Prime Minister Stephen Harper in Ottawa. ](/news/2009/02/19/u-s-president-barack-obama-meets-with-canadian-prime-minister-stephen-harper-in-ottawa.md)
 _Context: Barack Obama, Canada, Ottawa, Prime Minister of Canada, Stephen Harper, U.S. President, United States_
 
-##### France
+##### French
 ### [ The French battleship "Danton" is discovered in the Mediterranean Sea. ](/news/2009/02/19/the-french-battleship-danton-is-discovered-in-the-mediterranean-sea.md)
-_Context: ''Danton'', France, Mediterranean Sea, battleship_
+_Context: ''Danton'', French, Mediterranean Sea, battleship_
 
 ##### Russia
 ### [ A Russian court acquits three men of aiding the 2006 murder of investigative journalist Anna Politkovskaya. ](/news/2009/02/19/a-russian-court-acquits-three-men-of-aiding-the-2006-murder-of-investigative-journalist-anna-politkovskaya.md)

@@ -39,9 +39,9 @@ _Context: Antonio Villaraigosa, California, Los Angeles Police Department, May D
 ### [ Voters in The Bahamas go to the polls in elections for the House of Assembly ](/news/2007/05/2/voters-in-the-bahamas-go-to-the-polls-in-elections-for-the-house-of-assembly.md)
 _Context: Bahamas, House of Assembly, go to the polls_
 
-##### Afghan
+##### Afghanistan
 ### [ Gunmen in Afghanistan kill Abdul Sabur Farid, a member of the House of Elders and former Prime Minister. ](/news/2007/05/2/gunmen-in-afghanistan-kill-abdul-sabur-farid-a-member-of-the-house-of-elders-and-former-prime-minister.md)
-_Context: Abdul Sabur Farid, Afghan, House of Elders, Prime Minister_
+_Context: Abdul Sabur Farid, Afghanistan, House of Elders, Prime Minister_
 
 ## [Previous Day...](/news/2007/05/1/index.md)
 

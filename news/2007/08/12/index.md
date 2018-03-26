@@ -73,7 +73,7 @@ _Context: Chile, Peru_
 
 ##### Taliban
 ### [ A clash between Taliban militants and Afghan security forces in Kandahar province results in nine militants dead with five police dying in a bomb. ](/news/2007/08/12/a-clash-between-taliban-militants-and-afghan-security-forces-in-kandahar-province-results-in-nine-militants-dead-with-five-police-dying-in.md)
-_Context: Afghan, Kandahar, Taliban, bomb_
+_Context: Afghanistan, Kandahar, Taliban, bomb_
 
 ##### United Nations
 ### [ African Union nations pledge up to 12,000 troops for the joint United Nations-African Union mission to Darfur. ](/news/2007/08/12/african-union-nations-pledge-up-to-12-000-troops-for-the-joint-united-nations-african-union-mission-to-darfur.md)

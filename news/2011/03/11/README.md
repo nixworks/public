@@ -17,11 +17,11 @@ _Context: UNASUR Constitutive Treaty, Union of South American Nations, into forc
 
 ##### Blackwater Worldwide
 ### [Two ex-Blackwater consultants are found guilty in the United States of the involuntary manslaughter of a civilian in the Afghan capital Kabul. ](/news/2011/03/11/two-ex-blackwater-consultants-are-found-guilty-in-the-united-states-of-the-involuntary-manslaughter-of-a-civilian-in-the-afghan-capital-kabu.md)
-_Context: Afghan, Blackwater Worldwide, Kabul, United States, manslaughter by gross negligence_
+_Context: Afghanistan, Blackwater Worldwide, Kabul, United States, manslaughter by gross negligence_
 
 ##### United States magistrate judge
 ### [A U.S. federal magistrate rules that prosecutors can demand Twitter account information in relation to Wikileaks. ](/news/2011/03/11/a-u-s-federal-magistrate-rules-that-prosecutors-can-demand-twitter-account-information-in-relation-to-wikileaks.md)
-_Context: Twitter, United States magistrate judge, Wikileaks, prosecutor_
+_Context: United States magistrate judge, Wikileaks, prosecutor, tweeting_
 
 ##### Karangetang
 ### [Mount Karangetang erupts in Sulawesi, Indonesia, forcing local evacuations. ](/news/2011/03/11/mount-karangetang-erupts-in-sulawesi-indonesia-forcing-local-evacuations.md)
@@ -57,7 +57,7 @@ _Context: Arab, stateless_
 ### [Protesters take to the streets of Hofuf and al-Ahsa in the east of the country. ](/news/2011/03/11/protesters-take-to-the-streets-of-hofuf-and-al-ahsa-in-the-east-of-the-country.md)
 _Context: Hofuf_
 
-##### European Union
+##### EU
 ### [European Union leaders gather in Brussels for an urgent summit. ](/news/2011/03/11/european-union-leaders-gather-in-brussels-for-an-urgent-summit.md)
 Rebel fighters hold only isolated pockets of oil town after forces loyal to Libyan leader attack by air, land and sea.
 

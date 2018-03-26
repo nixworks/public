@@ -85,7 +85,7 @@ The four journalists, freed by the Libyan government on Monday, provided harrowi
 
 ##### King of Bahrain
 ### [The King of Bahrain Hamad ibn Isa Al Khalifa claims that the 2011 Bahraini protests were a foreign plot defeated by the intervention of forces from neighbors Saudi Arabia and the UAE of the Cooperation Council for the Arab States of the Gulf's Peninsula Shield Force. ](/news/2011/03/21/the-king-of-bahrain-hamad-ibn-isa-al-khalifa-claims-that-the-2011-bahraini-protests-were-a-foreign-plot-defeated-by-the-intervention-of-forc.md)
-_Context: 2011 Bahraini protests, Cooperation Council for the Arab States of the Gulf, Hamad ibn Isa Al Khalifa, King of Bahrain, Peninsula Shield Force, Saudi, UAE_
+_Context: 2011 Bahraini protests, Cooperation Council for the Arab States of the Gulf, Hamad ibn Isa Al Khalifa, King of Bahrain, Peninsula Shield Force, Saudi Arabia, UAE_
 
 ## [Previous Day...](/news/2011/03/20/index.md)
 

@@ -17,7 +17,7 @@ _Context:  Georgian, South Ossetia, Tskhinvali_
 
 ##### Embassy of the United States in Berlin
 ### [ After 69 years, the Embassy of the United States in Berlin, Germany, returns to its old site near the Brandenburg Gate. At the celebration, Chancellor Angela Merkel, former U.S. President George H. W. Bush and the U.S. Ambassador to Germany William Timken open the new chancery on Pariser Platz in the center of Berlin. ](/news/2008/07/4/after-69-years-the-embassy-of-the-united-states-in-berlin-germany-returns-to-its-old-site-near-the-brandenburg-gate-at-the-celebration.md)
-_Context: Angela Merkel, Berlin, Brandenburg Gate, Embassy of the United States in Berlin, George H. W. Bush, German, Pariser Platz, William Timken_
+_Context: Angela Merkel, Berlin, Brandenburg Gate, Embassy of the United States in Berlin, George H. W. Bush, Germany, Pariser Platz, William Timken_
 
 ##### Djurgrden
 ### [ A fire sweeps through the Biological Museum at Djurgrden in Stockholm, leaving parts of the 115-year-old landmark charred and severely damaged. ](/news/2008/07/4/a-fire-sweeps-through-the-biological-museum-at-djurgarden-in-stockholm-leaving-parts-of-the-115-year-old-landmark-charred-and-severely-dam.md)

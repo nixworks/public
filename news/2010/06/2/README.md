@@ -35,7 +35,7 @@ Three centre-right parties pledge to work together following weekend election.
 ### [Japanese Prime Minister Yukio Hatoyama resigns after breaking his campaign promise to remove a United States military base from Okinawa. ](/news/2010/06/2/japanese-prime-minister-yukio-hatoyama-resigns-after-breaking-his-campaign-promise-to-remove-a-united-states-military-base-from-okinawa.md)
 Yukio Hatoyama quits partly over broken promise to move US military base off Okinawa.
 
-##### Saudi
+##### Saudi Arabia
 ### [Police in Saudi Arabia investigate three young Saudis, two men and one woman, who spoke critically of the country's laws on the MTV documentary, "Resist the Power! Saudi Arabia". ](/news/2010/06/2/police-in-saudi-arabia-investigate-three-young-saudis-two-men-and-one-woman-who-spoke-critically-of-the-country-s-laws-on-the-mtv-document.md)
 Three Saudi youths who appeared in a recent broadcast of the MTV documentary series “True Life” could be brought to court by the Saudi Arabian religious police.
 

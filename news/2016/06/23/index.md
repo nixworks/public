@@ -17,11 +17,11 @@ The Colombian government and leftist Farc rebels sign a ceasefire deal to end fi
 
 ##### European Union membership referendum
 ### [Voters in the United Kingdom go to the polls to vote in a referendum on whether the UK should leave the European Union. ](/news/2016/06/23/voters-in-the-united-kingdom-go-to-the-polls-to-vote-in-a-referendum-on-whether-the-uk-should-leave-the-european-union.md)
-_Context: European Union, European Union membership referendum, United Kingdom_
+_Context: EU, European Union membership referendum, United Kingdom_
 
 ##### Viernheim shooting
 ### [An unidentified man who had been reported to have fired shots inside a theater has been shot dead by police in Viernheim, Germany. No other fatalities were reported. ](/news/2016/06/23/an-unidentified-man-who-had-been-reported-to-have-fired-shots-inside-a-theater-has-been-shot-dead-by-police-in-viernheim-germany-no-other.md)
-_Context: German, Viernheim, Viernheim shooting_
+_Context: Germany, Viernheim, Viernheim shooting_
 
 ##### Death of Freddie Gray
 ### [Baltimore police officer Caesar Goodson is cleared of all charges for the murder of Freddie Gray, a black detainee, on April 19, 2015. ](/news/2016/06/23/baltimore-police-officer-caesar-goodson-is-cleared-of-all-charges-for-the-murder-of-freddie-gray-a-black-detainee-on-april-19-2015.md)

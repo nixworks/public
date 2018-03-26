@@ -75,7 +75,7 @@ The police in Myanmar said Tuesday that 13 children died when an electrical fire
 ### [United States Government owned mortgage firms Fannie Mae and Freddie Mac announce record profits during 2012. ](/news/2013/04/2/united-states-government-owned-mortgage-firms-fannie-mae-and-freddie-mac-announce-record-profits-during-2012.md)
 _Context: Fannie Mae, Freddie Mac, United States, United States Government, mortgage_
 
-##### European Union
+##### EU
 ### [Official European Union figures shows that unemployment in the eurozone hit a record high of 12.0% in February 2013. ](/news/2013/04/2/official-european-union-figures-shows-that-unemployment-in-the-eurozone-hit-a-record-high-of-12-0-in-february-2013.md)
 Official European Union figures published Tuesday showed unemployment in the eurozone hit a record high of 12.0% in February. 
 

@@ -9,7 +9,7 @@ A Tanzanian-born Muslim man who dubbed himself &quot;Osama bin London&quot; was 
 
 ##### Khost
 ### [ A bomb blast in Khost, Afghanistan kills five police officers on their way to work. ](/news/2008/02/26/a-bomb-blast-in-khost-afghanistan-kills-five-police-officers-on-their-way-to-work.md)
-_Context: Afghan, Khost_
+_Context: Afghanistan, Khost_
 
 ##### Genome
 ### [ Researchers announce they have sequenced the genome of corn. ](/news/2008/02/26/researchers-announce-they-have-sequenced-the-genome-of-corn.md)

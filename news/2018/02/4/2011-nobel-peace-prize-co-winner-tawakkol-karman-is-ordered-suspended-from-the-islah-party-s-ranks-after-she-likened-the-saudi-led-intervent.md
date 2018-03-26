@@ -16,7 +16,7 @@ Formats: [HTML](/news/2018/02/4/2011-nobel-peace-prize-co-winner-tawakkol-karman
 
 ### Related:
 
-1. [Saudi aircraft attack targets in residential areas of Hudaydah and Sa'dah, Yemen. At least seven civilians are killed. ](/news/2018/03/24/saudi-aircraft-attack-targets-in-residential-areas-of-hudaydah-and-sa-dah-yemen-at-least-seven-civilians-are-killed.md) _Context: Saudi Arabian-led intervention in Yemen_
+1. [Saudi aircraft attack Houthi targets in residential areas of Hudaydah and Sa'dah, Yemen, killing at least seven civilians. ](/news/2018/03/24/saudi-aircraft-attack-houthi-targets-in-residential-areas-of-hudaydah-and-sa-dah-yemen-killing-at-least-seven-civilians.md) _Context: Saudi Arabian-led intervention in Yemen_
 2. [Houthis claim to have shot down a Royal Saudi Air Force F-15 jet over Sa'da province, Yemen. ](/news/2018/03/21/houthis-claim-to-have-shot-down-a-royal-saudi-air-force-f-15-jet-over-sa-da-province-yemen.md) _Context: Saudi Arabian-led intervention in Yemen_
 3. [Police in Oslo, Norway, say that the FBI is assisting in the investigation into two forged nominations of Donald Trump for the Nobel Peace Prize. The impersonator allegedly used the same stolen identity twice. ](/news/2018/03/1/police-in-oslo-norway-say-that-the-fbi-is-assisting-in-the-investigation-into-two-forged-nominations-of-donald-trump-for-the-nobel-peace-p.md) _Context: Nobel Peace Prize_
 4. [Sadeq Ameen Abu Rass, not Saleh's son Ahmed, is named as the successor to late Ali Abdullah Saleh as leader of the General People's Congress party. ](/news/2018/01/7/sadeq-ameen-abu-rass-not-saleh-s-son-ahmed-is-named-as-the-successor-to-late-ali-abdullah-saleh-as-leader-of-the-general-peopleas-congre.md) _Context: Politics of Yemen_

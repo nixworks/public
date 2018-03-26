@@ -81,7 +81,7 @@ The weak result compares with 7 percent growth in the previous two quarters, but
 
 ##### Kunduz hospital airstrike
 ### [Afghanistan's acting defense minister has stated that the Medecins Sans Frontieres hospital in Kunduz bombed on 3 October by U.S. forces was being used as a safe haven by insurgents. MSF has repeatedly denied the allegation, stating "Every staff member in Kunduz working for MSF has repeatedly reported to us that there were no armed people in the hospital at the time of the bombing". ](/news/2015/10/19/afghanistanas-acting-defense-minister-has-stated-that-the-ma-c-decins-sans-frontia-res-hospital-in-kunduz-bombed-on-3-october-by-u-s-forces.md)
-_Context: Afghan, Kunduz, Kunduz hospital airstrike, Medecins Sans Frontieres_
+_Context: Afghanistan, Kunduz, Kunduz hospital airstrike, Medecins Sans Frontieres_
 
 ##### Israeli-Palestinian conflict (2015)
 ### [19-year-old soldier Omri Levy was killed and nearly a dozen injured in a shooting and stabbing attack in the central bus station in the southern city of Beersheba carried out by an Israeli Bedouin Arab, 21-year old Mohind al-Okbi, who was killed after a gun battle. ](/news/2015/10/19/19-year-old-soldier-omri-levy-was-killed-and-nearly-a-dozen-injured-in-a-shooting-and-stabbing-attack-in-the-central-bus-station-in-the-sout.md)

@@ -23,9 +23,9 @@ Chile and Egypt have also lifted bans imposed over claims that unsafe produce wa
 ### [The UK-US air travel ban on laptops and other electronic devices in the passenger cabin comes into effect. ](/news/2017/03/25/the-uk-us-air-travel-ban-on-laptops-and-other-electronic-devices-in-the-passenger-cabin-comes-into-effect.md)
 The US and UK bans affect direct flights from some Middle East airports.
 
-##### European Union
+##### EU
 ### [European Union leaders gather in Rome to mark 60 years since the Treaty of Rome was signed. ](/news/2017/03/25/european-union-leaders-gather-in-rome-to-mark-60-years-since-the-treaty-of-rome-was-signed.md)
-_Context: European Union, Treaty of Rome_
+_Context: EU, Treaty of Rome_
 
 ##### Langham Place
 ### [A 45-meter long escalator at Langham Place in Hong Kong malfunctions injuring at least 18 people. ](/news/2017/03/25/a-45-meter-long-escalator-at-langham-place-in-hong-kong-malfunctions-injuring-at-least-18-people.md)

@@ -45,7 +45,7 @@ _Context:  Elena Kagan, Barack Obama, Justice, Solicitor General, Supreme Court 
 
 ##### Stock market
 ### [Stock markets rise significantly and bond prices fall around the world after investors are reassured by the European Union and International Monetary Fund's nearly $1 trillion plan to avoid a European debt crisis. ](/news/2010/05/10/stock-markets-rise-significantly-and-bond-prices-fall-around-the-world-after-investors-are-reassured-by-the-european-union-and-international.md)
-_Context: European Union, International Monetary Fund, Stock market, economically troubled euro-zone nations_
+_Context: EU, International Monetary Fund, Stock market, economically troubled euro-zone nations_
 
 ##### Prime Minister
 ### [Prime Minister of the United Kingdom Gordon Brown announces his intention to resign as Leader of the Labour Party, and calls for a leadership election to be completed by September. ](/news/2010/05/10/prime-minister-of-the-united-kingdom-gordon-brown-announces-his-intention-to-resign-as-leader-of-the-labour-party-and-calls-for-a-leadershi.md)

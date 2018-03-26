@@ -25,7 +25,7 @@ _Context: Europe, Iraq, Kurdistan Region, Nabucco, line, natural gas, oil compan
 
 ##### Al-Shabaab
 ### [ Al-Shabaab captures Jowhar, Somalia, from the Transitional Federal Government. ](/news/2009/05/17/al-shabaab-captures-jowhar-somalia-from-the-transitional-federal-government.md)
-_Context: Al-Shabaab, Jowhar, Somali, Transitional Federal Government, declares_
+_Context: Al-Shabaab, Jowhar, Somalia, Transitional Federal Government, declares_
 
 ## [Previous Day...](/news/2009/05/16/index.md)
 

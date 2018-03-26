@@ -27,7 +27,7 @@ SALEM, North Carolina (Reuters) - A university in Greensboro, North Carolina, li
 ### [In Taiwan, 600 people are evacuated from a high-speed train en route to Zuoying from Taipei after timed explosives are found in a restroom. ](/news/2013/04/12/in-taiwan-600-people-are-evacuated-from-a-high-speed-train-en-route-to-zuoying-from-taipei-after-timed-explosives-are-found-in-a-restroom.md)
 _Context: Taipei, Taiwan, Zuoying, bullet train, restroom, timed explosives_
 
-##### France
+##### French
 ### [The French Senate approves same-sex marriage in France putting the bill on track to become law by summer. ](/news/2013/04/12/the-french-senate-approves-same-sex-marriage-in-france-putting-the-bill-on-track-to-become-law-by-summer.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
@@ -75,7 +75,7 @@ A judge says the retailer can at least temporarily sell housewares designed by M
 ### [Australian company Woodside Petroleum shelves its controversial $45 billion Browse LNG project planned for James Price Point on Western Australia's Dampier Peninsula. ](/news/2013/04/12/australian-company-woodside-petroleum-shelves-its-controversial-45-billion-browse-lng-project-planned-for-james-price-point-on-western-aust.md)
 Woodside is looking at other options after shelving its $45 billion Browse LNG development near Broome.
 
-##### European Union
+##### EU
 ### [European Union finance ministers and central bank governors begin a two-day meeting at Dublin Castle to talk about austerity, the collapse of the Cypriot economy and the creation of a federal bank. ](/news/2013/04/12/european-union-finance-ministers-and-central-bank-governors-begin-a-two-day-meeting-at-dublin-castle-to-talk-about-austerity-the-collapse-o.md)
 Eurozone and Ecofin finance ministers have agreed to extend the repayment of bailout loans for Ireland and Portugal by seven years.
 

@@ -41,7 +41,7 @@ _Context: Dror Feiler, Gaza flotilla raid, Israel, Mehmet Kaplan, Riksdag, Swede
 
 ##### Iranian Foreign Minister
 ### [Iranian Foreign Minister Manouchehr Mottaki said that Iran has agreed to hold talks with the five UN Security Council permanent members and Germany (G5+1) in Turkey. ](/news/2010/11/7/iranian-foreign-minister-manouchehr-mottaki-said-that-iran-has-agreed-to-hold-talks-with-the-five-un-security-council-permanent-members-and.md)
-_Context: G5, German, Iran, Iranian Foreign Minister, Manouchehr Mottaki, Turkey, UN Security Council_
+_Context: G5, Germany, Iran, Iranian Foreign Minister, Manouchehr Mottaki, Turkey, UN Security Council_
 
 ##### Commercial air traffic
 ### [Airlines cancel flights to Indonesia due to the Mount Merapi volcanic eruption. ](/news/2010/11/7/airlines-cancel-flights-to-indonesia-due-to-the-mount-merapi-volcanic-eruption.md)
@@ -83,9 +83,9 @@ Police officer kills 10 people in shooting rampage near station outside Nairobi,
 ### [Police use batons, pepper spray, tear gas and water cannon to disrupt activists expressing concern about the safety of a temporary warehouse in Gorleben where nuclear waste is being transported via train from France to Germany. It is thought to be the largest such mobilisation ever. ](/news/2010/11/7/police-use-batons-pepper-spray-tear-gas-and-water-cannon-to-disrupt-activists-expressing-concern-about-the-safety-of-a-temporary-warehouse.md)
 Confrontation between protesters and riot police marks journey of train to storage site at Gorleben.
 
-##### Somali
+##### Somalia
 ### [Somali Islamist militant group al-Shabaab threaten more attacks in Burundi and Uganda in retaliation for their participation in an African Union peacekeeping operation in the country. Meanwhile, seven people are killed in fighting in the capital Mogadishu. ](/news/2010/11/7/somali-islamist-militant-group-al-shabaab-threaten-more-attacks-in-burundi-and-uganda-in-retaliation-for-their-participation-in-an-african-u.md)
-_Context: African Union, Al-Shabab, Burundi, Islamist, Mogadishu, Somali, Uganda_
+_Context: African Union, Al-Shabab, Burundi, Islamist, Mogadishu, Somalia, Uganda_
 
 ## [Previous Day...](/news/2010/11/6/index.md)
 

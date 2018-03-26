@@ -25,7 +25,7 @@ _Context: Colombia, Ecuador, Hugo Chvez, President, Rafael Correa, Ral Reyes, Re
 
 ##### Lufthansa
 ### [ A Lufthansa Airbus 320 nearly crashes while landing in Hamburg, Germany due to high winds. The pilot was able to stabilize the plane and successfully landed on the second try. No one was injured. ](/news/2008/03/2/a-lufthansa-airbus-320-nearly-crashes-while-landing-in-hamburg-germany-due-to-high-winds-the-pilot-was-able-to-stabilize-the-plane-and-su.md)
-_Context: A320, German, Hamburg, Lufthansa_
+_Context: A320, Germany, Hamburg, Lufthansa_
 
 ## [Previous Day...](/news/2008/03/1/index.md)
 

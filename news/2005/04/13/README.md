@@ -11,9 +11,9 @@ _Context: Burundi, Hutu Forces for National Liberation_
 ### [ A group of Indigenous Australians threaten to disrupt the Commonwealth Games next year unless prime minister John Howard and others are charged with genocide. ](/news/2005/04/13/a-group-of-indigenous-australians-threaten-to-disrupt-the-commonwealth-games-next-year-unless-prime-minister-john-howard-and-others-are-cha.md)
 _Context: Commonwealth, Indigenous, John Howard, genocide_
 
-##### German
+##### Germany
 ### [ In Germany, Armin Meiwes appeals for the reduction his sentence of eight years for cannibalism. His defense says that the killing was a mercy killing, eligible only for five years. State prosecutors appeal as well so he could retried for murder. ](/news/2005/04/13/in-germany-armin-meiwes-appeals-for-the-reduction-his-sentence-of-eight-years-for-cannibalism-his-defense-says-that-the-killing-was-a-mer.md)
-_Context: Armin Meiwes, German, cannibalism, murder_
+_Context: Armin Meiwes, Germany, cannibalism, murder_
 
 ##### Nigeria
 ### [ In Nigeria, former education minister Fabion Osuji, former senate president Adolphus Wabara and five others are charged with corruption. ](/news/2005/04/13/in-nigeria-former-education-minister-fabion-osuji-former-senate-president-adolphus-wabara-and-five-others-are-charged-with-corruption.md)
@@ -45,7 +45,7 @@ _Context: Iraq, Iraqi insurgency, Kirkuk, decoy, police_
 
 ##### European Parliament
 ### [ The European Parliament votes to allow Bulgaria and Romania to join the European Union in 2007. ](/news/2005/04/13/the-european-parliament-votes-to-allow-bulgaria-and-romania-to-join-the-european-union-in-2007.md)
-_Context: 2007, Bulgaria, European Parliament, European Union, Romania_
+_Context: 2007, Bulgaria, EU, European Parliament, Romania_
 
 ##### Omar Karami
 ### [ Omar Karami resigns his position as the Prime Minister of Lebanon after he fails to form a government. Without a government to call them, no elections can take place in Lebanon. Elections are due this May. ](/news/2005/04/13/omar-karami-resigns-his-position-as-the-prime-minister-of-lebanon-after-he-fails-to-form-a-government-without-a-government-to-call-them-n.md)

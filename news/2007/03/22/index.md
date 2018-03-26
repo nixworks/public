@@ -31,7 +31,7 @@ _Context: 7 July, England, Police_
 ### [ A senior U.S. District Judge, Lowell Reed Jr., strikes down the Child Online Protection Act, which made it an offence for commercial website operators to allow minors to access "harmful" material. ](/news/2007/03/22/a-senior-u-s-district-judge-lowell-reed-jr-strikes-down-the-child-online-protection-act-which-made-it-an-offence-for-commercial-websit.md)
 _Context: Child Online Protection Act, Lowell Reed Jr., U.S. federal court, minors, website_
 
-##### European Union
+##### EU
 ### [ The European Union agrees to open the trans-Atlantic air market to greater competition. ](/news/2007/03/22/the-european-union-agrees-to-open-the-trans-atlantic-air-market-to-greater-competition.md)
 European Union governments backed a deal with the United States that would open restricted airline routes to new rivals.
 
@@ -47,9 +47,9 @@ _Context: 2007 Zimbabwean political crisis, Archbishop, Bulawayo, Pius Ncube, Pr
 ### [ NBC, News Limited, AOL, MSN and Yahoo! join forces to develop an ad-supported online video network to compete with YouTube. ](/news/2007/03/22/nbc-news-limited-aol-msn-and-yahoo-join-forces-to-develop-an-ad-supported-online-video-network-to-compete-with-youtube.md)
 _Context: AOL, MSN, NBC, News Limited, Yahoo!, YouTube, video_
 
-##### France
+##### French
 ### [ French space agency CNES releases its UFO files to the public via its website. ](/news/2007/03/22/french-space-agency-cnes-releases-its-ufo-files-to-the-public-via-its-website.md)
-_Context: CNES, France, UFO, space agency, website_
+_Context: CNES, French, UFO, space agency, website_
 
 ##### Explodes
 ### [ An arms depot explodes in Maputo, Mozambique, killing at least 93 people and injuring hundreds more. ](/news/2007/03/22/an-arms-depot-explodes-in-maputo-mozambique-killing-at-least-93-people-and-injuring-hundreds-more.md)

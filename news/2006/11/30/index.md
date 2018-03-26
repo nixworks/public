@@ -33,7 +33,7 @@ _Context: ''Nature'', Antikythera mechanism_
 
 ##### 2004-2007 Bush War
 ### [ Central African Republic Bush War: French fighter planes have fired at rebels in northern Central African Republic (CAR) where thousands have fled fighting in recent weeks. ](/news/2006/11/30/central-african-republic-bush-war-french-fighter-planes-have-fired-at-rebels-in-northern-central-african-republic-car-where-thousands-ha.md)
-_Context: 2004-2007 Bush War, Central African Republic, France_
+_Context: 2004-2007 Bush War, Central African Republic, French_
 
 ##### 2006 Atlantic hurricane season
 ### [ The 2006 Atlantic hurricane season officially ends with a total of nine storms having formed. ](/news/2006/11/30/the-2006-atlantic-hurricane-season-officially-ends-with-a-total-of-nine-storms-having-formed.md)

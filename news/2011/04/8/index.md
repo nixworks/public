@@ -49,9 +49,9 @@ _Context: Australian Stock Exchange, Singapore Exchange, Treasurer of Australia,
 
 ##### Department of Justice
 ### [The United States Department of Justice defends its probing of WikiLeaks-related Twitter accounts and dismisses as "absurd" any privacy and freedom of speech concerns. ](/news/2011/04/8/the-united-states-department-of-justice-defends-its-probing-of-wikileaks-related-twitter-accounts-and-dismisses-as-absurd-any-privacy-and.md)
-_Context: Department of Justice, Twitter, WikiLeaks, freedom of speech_
+_Context: Department of Justice, WikiLeaks, freedom of speech, tweeting_
 
-##### European Union
+##### EU
 ### [The European Union aims to complete Portugal's bailout of approximately EUR80 billion in exchange for cuts before a new government is elected in June, with the previous government having fallen at the loss of a parliamentary vote on imposing similar austerity measures. ](/news/2011/04/8/the-european-union-aims-to-complete-portugal-s-bailout-of-approximately-a-80-billion-in-exchange-for-cuts-before-a-new-government-is-electe.md)
 The European Union believes it can complete the Portuguese bail-out, set to be worth 80bn euros, before elections in June.
 

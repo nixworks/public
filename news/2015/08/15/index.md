@@ -33,7 +33,7 @@ A temporary ceasefire between warring parties in Syria collapsed on Saturday as 
 
 ##### Yemeni Civil War (2015)
 ### [Saudi-backed forces loyal to the former Government retake the Shabwah Governorate from the Iran-backed rebels. ](/news/2015/08/15/saudi-backed-forces-loyal-to-the-former-government-retake-the-shabwah-governorate-from-the-iran-backed-rebels.md)
-_Context: Saudi, Shabwa province, Yemeni Civil War (2015)_
+_Context: Saudi Arabia, Shabwa province, Yemeni Civil War (2015)_
 
 ##### Iraq War (2014-present)
 ### [ISIL bombings kill 21 and wound more than 100 others in Shia neighborhoods of Baghdad. ](/news/2015/08/15/isil-bombings-kill-21-and-wound-more-than-100-others-in-shia-neighborhoods-of-baghdad.md)

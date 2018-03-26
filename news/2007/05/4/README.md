@@ -17,7 +17,7 @@ _Context: Chinese, Intergovernmental Panel on Climate Change, summary report on 
 
 ##### Terrorist
 ### [ Convicted terrorist Carlos the Jackal will face charges in France relating to alleged involvement in deadly bombings in 1982 and 1983. ](/news/2007/05/4/convicted-terrorist-carlos-the-jackal-will-face-charges-in-france-relating-to-alleged-involvement-in-deadly-bombings-in-1982-and-1983.md)
-_Context: 1982, 1983, Carlos the Jackal, France, terrorist_
+_Context: 1982, 1983, Carlos the Jackal, French, terrorist_
 
 ##### Mali
 ### [ Mali's opposition Front for Democracy and the Republic calls on the Constitutional Court to annul last Sunday's presidential election. ](/news/2007/05/4/mali-s-opposition-front-for-democracy-and-the-republic-calls-on-the-constitutional-court-to-annul-last-sunday-s-presidential-election.md)

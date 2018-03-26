@@ -41,7 +41,7 @@ _Context: Ramadan, Saudi-led intervention in Yemen (2015-present), United Nation
 
 ##### War in Somalia (2009-present)
 ### [At least six civilians and four militants are killed in attacks on two hotels in the Somali capital of Mogadishu. ](/news/2015/07/11/at-least-six-civilians-and-four-militants-are-killed-in-attacks-on-two-hotels-in-the-somali-capital-of-mogadishu.md)
-_Context: Mogadishu, Somali, War in Somalia (2009-present)_
+_Context: Mogadishu, Somalia, War in Somalia (2009-present)_
 
 ##### 2015 Bombing of the Cairo Italian Consulate
 ### [A car bomb explodes outside the Italian consulate in the Egyptian capital Cairo, resulting in at least one death and four people injured; ISIS claims responsibility. ](/news/2015/07/11/a-car-bomb-explodes-outside-the-italian-consulate-in-the-egyptian-capital-cairo-resulting-in-at-least-one-death-and-four-people-injured-is.md)

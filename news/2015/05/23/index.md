@@ -47,9 +47,9 @@ Down south in A.P., among those who succumbed to the killer heat were 40 persons
 ### [The death toll from China's latest round of flooding rises to at least 48. ](/news/2015/05/23/the-death-toll-from-china-s-latest-round-of-flooding-rises-to-at-least-48.md)
 _Context: Chinese_
 
-##### Scottish
+##### Scotland
 ### [A memorial service is held in the Scottish capital Edinburgh for the Quintinshill rail disaster which occurred 100 years ago and claimed over 200 lives. ](/news/2015/05/23/a-memorial-service-is-held-in-the-scottish-capital-edinburgh-for-the-quintinshill-rail-disaster-which-occurred-100-years-ago-and-claimed-ove.md)
-_Context: Edinburgh, Quintinshill rail disaster, Scottish_
+_Context: Edinburgh, Quintinshill rail disaster, Scotland_
 
 ##### Eurovision Song Contest 2015
 ### [The final of the Eurovision Song Contest 2015 is held in Vienna, Austria with MCNYns Zelmerlow of Sweden winning for the song Heroes. ](/news/2015/05/23/the-final-of-the-eurovision-song-contest-2015-is-held-in-vienna-austria-with-macnyns-zelmerlapw-of-sweden-winning-for-the-song-heroes.md)

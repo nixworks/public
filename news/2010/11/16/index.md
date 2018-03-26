@@ -25,7 +25,7 @@ The Government is close to finalising its four-year fiscal plan and pending appr
 
 ##### Herman Van Rompuy
 ### [President Herman Van Rompuy predicts the possible collapse of the European Union but then says "I'm very confident we will overcome this". ](/news/2010/11/16/president-herman-van-rompuy-predicts-the-possible-collapse-of-the-european-union-but-then-says-i-m-very-confident-we-will-overcome-this.md)
-_Context: European Union, Herman Van Rompuy_
+_Context: EU, Herman Van Rompuy_
 
 ##### Government
 ### [The UK Government is to pay millions of pounds in compensation to around a dozen British citizens who were held in detention overseas, including the camp at Guantanamo Bay, and who say British security services colluded in their torture. ](/news/2010/11/16/the-uk-government-is-to-pay-millions-of-pounds-in-compensation-to-around-a-dozen-british-citizens-who-were-held-in-detention-overseas-inclu.md)
@@ -73,7 +73,7 @@ Archbishop Timothy M. Dolan of New York will lead the United States Conference o
 
 ##### UNESCO
 ### [UNESCO adds traditional dishes of France and Mexico to the Representative List of the Intangible Cultural Heritage of Humanity at a committee meeting in Nairobi, the first time cuisine is added to the list. ](/news/2010/11/16/unesco-adds-traditional-dishes-of-france-and-mexico-to-the-representative-list-of-the-intangible-cultural-heritage-of-humanity-at-a-committe.md)
-_Context: France, Mexico, Nairobi, Representative List of the Intangible Cultural Heritage of Humanity, UNESCO_
+_Context: French, Mexico, Nairobi, Representative List of the Intangible Cultural Heritage of Humanity, UNESCO_
 
 ##### The Beatles
 ### [The Beatles release their back catalogue on iTunes. ](/news/2010/11/16/the-beatles-release-their-back-catalogue-on-itunes.md)

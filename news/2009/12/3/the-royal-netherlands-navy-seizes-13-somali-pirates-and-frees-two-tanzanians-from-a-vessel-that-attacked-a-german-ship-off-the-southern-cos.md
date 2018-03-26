@@ -17,8 +17,8 @@ Formats: [HTML](/news/2009/12/3/the-royal-netherlands-navy-seizes-13-somali-pira
 
 ### Related:
 
-1. [Somali pirates release a German ship with 22 crew, eight months after it was seized near Oman. ](/news/2010/12/28/somali-pirates-release-a-german-ship-with-22-crew-eight-months-after-it-was-seized-near-oman.md) _Context: German, Oman, Somali pirates_
-2. [Somali pirates hijack a German cargo ship. ](/news/2011/01/25/somali-pirates-hijack-a-german-cargo-ship.md) _Context: German, Somali pirates_
+1. [Somali pirates release a German ship with 22 crew, eight months after it was seized near Oman. ](/news/2010/12/28/somali-pirates-release-a-german-ship-with-22-crew-eight-months-after-it-was-seized-near-oman.md) _Context: Germany, Oman, Somali pirates_
+2. [Somali pirates hijack a German cargo ship. ](/news/2011/01/25/somali-pirates-hijack-a-german-cargo-ship.md) _Context: Germany, Somali pirates_
 3. [Somali pirates seize a Mongolian bulk carrier off the coast of Oman. ](/news/2011/01/20/somali-pirates-seize-a-mongolian-bulk-carrier-off-the-coast-of-oman.md) _Context: Oman, Somali pirates_
 4. [A British cruise ship avoids a possible Somali pirate attack 100 mi off the coast of Tanzania in the Indian Ocean. ](/news/2011/01/13/a-british-cruise-ship-avoids-a-possible-somali-pirate-attack-100-mi-off-the-coast-of-tanzania-in-the-indian-ocean.md) _Context: Somali pirates, Tanzania_
 5. [Somali pirates hijack a Liberian ship 80 nautical miles east of the border between Tanzania and Mozambique, in their most southerly attack yet. ](/news/2010/12/10/somali-pirates-hijack-a-liberian-ship-80-nautical-miles-east-of-the-border-between-tanzania-and-mozambique-in-their-most-southerly-attack-y.md) _Context: Somali pirates, Tanzania_

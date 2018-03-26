@@ -27,9 +27,9 @@ Thai riot police clashed with protesters in the capital on Tuesday, injuring 69 
 ### [ The 2008 Nobel Prize in Physics is awarded Yoichiro Nambu for the discovery of the mechanism of spontaneous broken symmetry in subatomic physics, and Makoto Kobayashi and Toshihide Maskawa for the discovery of the origin of the broken symmetry which predicts the existence of at least three families of quarks in nature.](/news/2008/10/7/the-2008-nobel-prize-in-physics-is-awarded-yoichiro-nambu-for-the-discovery-of-the-mechanism-of-spontaneous-broken-symmetry-in-subatomic-ph.md)
 _Context: Makoto Kobayashi, Nobel Prize in Physics, Toshihide Maskawa, Yoichiro Nambu, quarks, spontaneous broken symmetry, subatomic_
 
-##### Saudi
+##### Saudi Arabia
 ### [ In talks brokered by Saudi Arabia, the Taliban renounces its ties to al-Qaeda and sues for peace with Afghanistan. ](/news/2008/10/7/in-talks-brokered-by-saudi-arabia-the-taliban-renounces-its-ties-to-al-qaeda-and-sues-for-peace-with-afghanistan.md)
-_Context: Afghan, Saudi, Taliban, al-Qaeda_
+_Context: Afghanistan, Saudi Arabia, Taliban, al-Qaeda_
 
 ##### Portugal
 ### [ Portugal recognizes Kosovo.](/news/2008/10/7/portugal-recognizes-kosovo.md)

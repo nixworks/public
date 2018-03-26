@@ -21,7 +21,7 @@ _Context: Burundi, December 31, National Liberation Force, United Nations Securi
 
 ##### Osama Bin Laden
 ### [ Osama Bin Laden warns the US and other nations not to become involved in Somalia and says that Al Qaeda reserves the right to "punish" the U.S. on its own soil. ](/news/2006/07/1/osama-bin-laden-warns-the-us-and-other-nations-not-to-become-involved-in-somalia-and-says-that-al-qaeda-reserves-the-right-to-punish-the.md)
-_Context: Al Qaeda, Osama Bin Laden, Somali_
+_Context: Al Qaeda, Osama Bin Laden, Somalia_
 
 ##### Discovery
 ### [ Discovery Mission STS-121's launch has been delayed today due to thunderstorms. The next launch attempt is scheduled for 3:26 PM EDT tomorrow, although more bad weather is forecast.](/news/2006/07/1/discovery-mission-sts-121-s-launch-has-been-delayed-today-due-to-thunderstorms-the-next-launch-attempt-is-scheduled-for-3-26-pm-edt-tomorr.md)

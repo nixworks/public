@@ -31,7 +31,7 @@ _Context: Creigh Deeds_
 ### [An Air Evac International Learjet 35 crashes shortly after take-off from Fort Lauderdale-Hollywood International Airport, on its way to Cozumel, Mexico, after calling mayday and during an attempt to return to the airport, possibly due to engine failure, leaving 2 persons dead and two missing as a result. ](/news/2013/11/19/an-air-evac-international-learjet-35-crashes-shortly-after-take-off-from-fort-lauderdale-hollywood-international-airport-on-its-way-to-cozu.md)
 _Context: Air Evac International, Cozumel, Mexico, Fort Lauderdale-Hollywood International Airport, Learjet 35, mayday_
 
-##### Shopping mall
+##### Shopping center
 ### [An under construction shopping mall collapses in the South African town of Tongaat, KwaZulu-Natal, with 50 people trapped and at least one person dead. ](/news/2013/11/19/an-under-construction-shopping-mall-collapses-in-the-south-african-town-of-tongaat-kwazulu-natal-with-50-people-trapped-and-at-least-one-p.md)
 One person has died and as many as 50 workers are feared trapped after the roof of an under-construction mall collapsed near the South African city of Durban.
 

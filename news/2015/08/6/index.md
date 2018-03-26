@@ -7,9 +7,9 @@ Formats: [HTML](2015/08/6/index.html)  [JSON](2015/08/6/index.json)  [XML](2015/
 ### [The Republican Party candidates for President of the United States debate, in two events (top tier candidates and lower-tier candidates separated) in an informal kick-off event for the 2016 campaign. ](/news/2015/08/6/the-republican-party-candidates-for-president-of-the-united-states-debate-in-two-events-top-tier-candidates-and-lower-tier-candidates-sepa.md)
 The theatrical drama of the first Republican debate Thursday focused on the man at center stage in Cleveland, Donald Trump , and the bombastic rhetoric he has used to propel himself to the front of the GOP field.
 
-##### Saudi
+##### Saudi Arabia
 ### [Saudi Arabia sends new military equipment including tanks from Sharura into northern Yemen to support government forces fighting Iran-backed Houthi militants. ](/news/2015/08/6/saudi-arabia-sends-new-military-equipment-including-tanks-from-sharura-into-northern-yemen-to-support-government-forces-fighting-iran-backed.md)
-_Context: Abd Rabbuh Mansur Hadi, Houthi, Saudi, Sharura_
+_Context: Abd Rabbuh Mansur Hadi, Houthi, Saudi Arabia, Sharura_
 
 ##### Pakistan
 ### [A Pakistani military helicopter crashes in Khyber Pakhtunkhwa province resulting in at least 11 deaths. ](/news/2015/08/6/a-pakistani-military-helicopter-crashes-in-khyber-pakhtunkhwa-province-resulting-in-at-least-11-deaths.md)

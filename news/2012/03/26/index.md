@@ -71,9 +71,9 @@ _Context: Colombia, FARC_
 ### [A Tibetan protester self-immolates during a protest in the Indian capital New Delhi, ahead of a visit by the Chinese president Hu Jintao. ](/news/2012/03/26/a-tibetan-protester-self-immolates-during-a-protest-in-the-indian-capital-new-delhi-ahead-of-a-visit-by-the-chinese-president-hu-jintao.md)
 _Context: Chinese, Hu Jintao, India, New Delhi, Tibet, self-immolation_
 
-##### Afghan
+##### Afghanistan
 ### [An Afghan police officer shoots and kills two British military personnel before being gunned down. ](/news/2012/03/26/an-afghan-police-officer-shoots-and-kills-two-british-military-personnel-before-being-gunned-down.md)
-_Context: Afghan, British military_
+_Context: Afghanistan, British military_
 
 ## [Previous Day...](/news/2012/03/25/index.md)
 

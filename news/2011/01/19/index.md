@@ -73,7 +73,7 @@ China and the US sign a trade deal that includes the $19bn purchase of 200 Boein
 
 ##### Suicide bomber
 ### [A suicide bomber kills at least 13 civilians in Afghanistan's Paktika Province. ](/news/2011/01/19/a-suicide-bomber-kills-at-least-13-civilians-in-afghanistan-s-paktika-province.md)
-_Context: Afghan, Paktika Province, suicide bomber_
+_Context: Afghanistan, Paktika Province, suicide bomber_
 
 ##### Suicide bomber
 ### [A suicide bomber driving an ambulance kills at least 12 people and injures another 50 in Iraq's Diyala Governorate. ](/news/2011/01/19/a-suicide-bomber-driving-an-ambulance-kills-at-least-12-people-and-injures-another-50-in-iraq-s-diyala-governorate.md)

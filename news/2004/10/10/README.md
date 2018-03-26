@@ -11,7 +11,7 @@ _Context: 2004 Atlantic hurricane season, Louisiana, Matthew, Tropical storm_
 ### [ Conflict in Iraq: Two car bombs explode in Baghdad, killing at least 10 people and wounding 17, including a US soldier. ](/news/2004/10/10/conflict-in-iraq-two-car-bombs-explode-in-baghdad-killing-at-least-10-people-and-wounding-17-including-a-us-soldier.md)
 Read the latest national and world news on Newsday. All the top stores, latest videos and photo galleries are available at Newsday.com
 
-##### Somali
+##### Somalia
 ### [ Somalia's transitional parliament elects Abdullahi Yusuf, a former army officer, interim president. He will be Somalia's first head of state since 1991, when tribal warlords overthrew the ruling military dictatorship. The election was held in Nairobi, Kenya, since the situation in Somalia remains dangerous. ](/news/2004/10/10/somalia-s-transitional-parliament-elects-abdullahi-yusuf-a-former-army-officer-interim-president-he-will-be-somalia-s-first-head-of-stat.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 

@@ -29,7 +29,7 @@ JERUSALEM — Dozens of Palestinian detainees at an Israeli detention facility h
 
 ##### Foreign relations of Lebanon
 ### [Qatar and Kuwait join Saudi Arabia, Bahrain and the United Arab Emirates in asking its citizens to leave or avoid travel to Lebanon. ](/news/2016/02/24/qatar-and-kuwait-join-saudi-arabia-bahrain-and-the-united-arab-emirates-in-asking-its-citizens-to-leave-or-avoid-travel-to-lebanon.md)
-_Context: Bahrain, Foreign relations of Lebanon, Kuwait, Lebanese, Qatar, Saudi, United Arab Emirates_
+_Context: Bahrain, Foreign relations of Lebanon, Kuwait, Lebanese, Qatar, Saudi Arabia, United Arab Emirates_
 
 ##### Australia
 ### [Australian icebreaker, "Aurora Australis", runs aground in Antarctica with 68 people on board. There are no reports of injuries. The Australian Antarctic Division (AAD) said blizzard conditions are hampering attempts to assess damage. ](/news/2016/02/24/australian-icebreaker-aurora-australis-runs-aground-in-antarctica-with-68-people-on-board-there-are-no-reports-of-injuries-the-austral.md)
@@ -69,7 +69,7 @@ Gunmen attacked a checkpoint southwest of the Malian town of Timbuktu overnight 
 
 ##### Libyan Civil War (2014-present)
 ### [Senior Libyan military officials say French special forces are on the ground in Benghazi helping Libyan National Army troops fight ISIL militants. They said that the French forces, along with American and British teams, are setting up an operations room inside Benina International Airport in Benina. The French defense ministry declined to comment, citing a policy not to comment on special forces' activities. ](/news/2016/02/24/senior-libyan-military-officials-say-french-special-forces-are-on-the-ground-in-benghazi-helping-libyan-national-army-troops-fight-isil-mili.md)
-_Context: Benghazi, Benina, Benina International Airport, British, France, ISIL, Libya, Libyan Civil War (2014-present), Libyan National Army, defence minister, special forces, special forces_
+_Context: Benghazi, Benina, Benina International Airport, British, French, ISIL, Libya, Libyan Civil War (2014-present), Libyan National Army, defence minister, special forces, special forces_
 
 ##### Kurdish-Turkish conflict
 ### [Turkish Air Force helicopters struck a group of Kurdistan Workers' Party (PKK) fighters in southeast Turkey, killing nine militants, according to security sources. ](/news/2016/02/24/turkish-air-force-helicopters-struck-a-group-of-kurdistan-workers-party-pkk-fighters-in-southeast-turkey-killing-nine-militants-accordi.md)

@@ -31,9 +31,9 @@ _Context: Aung San Suu Kyi, Burma, Canada, Honorary Canadian citizenship_
 ### [ John Fahey, former Premier of New South Wales, is appointed as the President of the World Anti-Doping Agency. ](/news/2007/10/17/john-fahey-former-premier-of-new-south-wales-is-appointed-as-the-president-of-the-world-anti-doping-agency.md)
 _Context: John Fahey, Premier, World Anti-Doping Agency_
 
-##### France
+##### French
 ### [ French public transport workers hold a 24-hour strike protesting at changes to pensions. ](/news/2007/10/17/french-public-transport-workers-hold-a-24-hour-strike-protesting-at-changes-to-pensions.md)
-_Context: France, pension, public transport_
+_Context: French, pension, public transport_
 
 ## [Previous Day...](/news/2007/10/16/index.md)
 

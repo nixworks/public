@@ -45,7 +45,7 @@ _Context: Cuba, Felipe Perez Roque, Fidel Castro, President_
 
 ##### Somali Civil War
 ### [ Somalian War: Heavy fighting has been reported between forces of Union of Islamic Courts and Puntland, the semi-autonomous region of Somalia. ](/news/2006/11/6/somalian-war-heavy-fighting-has-been-reported-between-forces-of-union-of-islamic-courts-and-puntland-the-semi-autonomous-region-of-somali.md)
-_Context: Puntland, Somali, Somali Civil War, Union of Islamic Courts_
+_Context: Puntland, Somali Civil War, Somalia, Union of Islamic Courts_
 
 ## [Previous Day...](/news/2006/11/5/index.md)
 

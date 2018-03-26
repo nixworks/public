@@ -49,7 +49,7 @@ _Context: Jestina Mukoko, Robert Mugabe, Zimbabwe_
 
 ##### Little Cumbrae
 ### [ Little Cumbrae, Scotland is converted into an ashram. ](/news/2009/09/28/little-cumbrae-scotland-is-converted-into-an-ashram.md)
-_Context: Little Cumbrae, Scottish, ashram_
+_Context: Little Cumbrae, Scotland, ashram_
 
 ##### Australia
 ### [ Australia's 12 Apostles natural landmarks continue to crumble. ](/news/2009/09/28/australia-s-12-apostles-natural-landmarks-continue-to-crumble.md)

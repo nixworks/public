@@ -3,13 +3,13 @@ Formats: [HTML](2009/02/4/index.html)  [JSON](2009/02/4/index.json)  [XML](2009/
 
 ## [2009-02-4](/news/2009/02/4/index.md)
 
-##### Afghan
+##### Afghanistan
 ### [ Eight trucks are attacked en route to Afghanistan by suspected Taliban militants. ](/news/2009/02/4/eight-trucks-are-attacked-en-route-to-afghanistan-by-suspected-taliban-militants.md)
-_Context: Afghan, Taliban_
+_Context: Afghanistan, Taliban_
 
-##### German
+##### Germany
 ### [ German public television station ZDF reports that Nazi fugitive Aribert Heim died in 1992. ](/news/2009/02/4/german-public-television-station-zdf-reports-that-nazi-fugitive-aribert-heim-died-in-1992.md)
-_Context: Aribert Heim, German, Nazi, ZDF, fugitive, public television_
+_Context: Aribert Heim, Germany, Nazi, ZDF, fugitive, public television_
 
 ##### Colombia
 ### [ Fossils from Colombia reveal "Titanoboa cerrejonensis", the largest snake ever discovered. ](/news/2009/02/4/fossils-from-colombia-reveal-titanoboa-cerrejonensis-the-largest-snake-ever-discovered.md)
@@ -23,9 +23,9 @@ _Context: Assassination of Benazir Bhutto, Ban Ki-moon, Benazir Bhutto, Pakistan
 ### [ An estimated 15,000 students in Dublin, Ireland, protest the threatened reintroduction of university fees. ](/news/2009/02/4/an-estimated-15-000-students-in-dublin-ireland-protest-the-threatened-reintroduction-of-university-fees.md)
 With public spending being slashed some form of third level fees could be introduced.
 
-##### Somali
+##### Somalia
 ### [ The director of Somalia's independent HornAfrik radio station, Said Tahlil Ahmed, is killed in Mogadishu. ](/news/2009/02/4/the-director-of-somalia-s-independent-hornafrik-radio-station-said-tahlil-ahmed-is-killed-in-mogadishu.md)
-_Context: HornAfrik, Mogadishu, Said Tahlil Ahmed, Somali_
+_Context: HornAfrik, Mogadishu, Said Tahlil Ahmed, Somalia_
 
 ##### Latvia
 ### [ Latvia's Minister of Agriculture resigns in the wake of growing protests by farmers. ](/news/2009/02/4/latvia-s-minister-of-agriculture-resigns-in-the-wake-of-growing-protests-by-farmers.md)
@@ -37,7 +37,7 @@ _Context: Vanni District_
 
 ##### British Army
 ### [ A senior British Army officer is arrested in Afghanistan on suspicion of breaking the "Official Secrets Act" by leaking information on civilian casualties to a human rights campaigner. ](/news/2009/02/4/a-senior-british-army-officer-is-arrested-in-afghanistan-on-suspicion-of-breaking-the-official-secrets-act-by-leaking-information-on-civi.md)
-_Context: Afghan, British Army, Official Secrets Act, casualties, civilian, human rights_
+_Context: Afghanistan, British Army, Official Secrets Act, casualties, civilian, human rights_
 
 ##### High Court
 ### [ The High Court of Justice alleges British resident Benyam Mohammed was tortured and that the US threatened to withdraw intelligence help from the United Kingdom if details were released. ](/news/2009/02/4/the-high-court-of-justice-alleges-british-resident-benyam-mohammed-was-tortured-and-that-the-us-threatened-to-withdraw-intelligence-help-fr.md)

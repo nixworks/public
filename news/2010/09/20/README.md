@@ -85,7 +85,7 @@ _Context: Glastonbury Abbey, Hollywood, King Arthur, Nicolas Cage_
 ### [Colombia claims it has killed a senior Farc rebel leader and 25 others. ](/news/2010/09/20/colombia-claims-it-has-killed-a-senior-farc-rebel-leader-and-25-others.md)
 The Colombian armed forces say they killed a senior Farc rebel leader in an attack on a jungle camp in which 26 other guerrillas also died.
 
-##### Somali
+##### Somalia
 ### [GBC, the Somali radio station seized yesterday, is to now broadcast only Islamic messages. ](/news/2010/09/20/gbc-the-somali-radio-station-seized-yesterday-is-to-now-broadcast-only-islamic-messages.md)
 Militants who took control of a Somali radio station on Sunday say it will now broadcast only Islamic messages.
 

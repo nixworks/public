@@ -53,7 +53,7 @@ Carnival Cruise Lines announced Monday it will postpone its first cruise to Hava
 
 ##### Bundesbank
 ### [A member of the board of the Bundesbank in Germany says that the European Central Bank ought to crack down on the political practice, in EU's member states, by which banks that are no longer viable are nonetheless kept in business, as so-called Zombie banks. ](/news/2016/04/18/a-member-of-the-board-of-the-bundesbank-in-germany-says-that-the-european-central-bank-ought-to-crack-down-on-the-political-practice-in-eu.md)
-_Context: Bundesbank, European Central Bank, German, Zombie banks_
+_Context: Bundesbank, European Central Bank, Germany, Zombie banks_
 
 ##### Doha
 ### [The meeting in Doha, Qatar, of the world's top oil producers, from both OPEC and non-OPEC countries, fails to agree on an output freeze. Oil analysts say the failure was due to Iran's non-participation, and Saudi Arabia linking its cooperation to Iran's inclusion. Oil prices drop in early Asian trading and on the New York Mercantile Exchange. ](/news/2016/04/18/the-meeting-in-doha-qatar-of-the-world-s-top-oil-producers-from-both-opec-and-non-opec-countries-fails-to-agree-on-an-output-freeze-oil.md)

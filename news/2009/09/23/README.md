@@ -5,13 +5,13 @@ Formats: [HTML](2009/09/23/index.html)  [JSON](2009/09/23/index.json)  [XML](200
 
 ##### King Abdullah University of Science and Technology
 ### [ The multi-billion dollar King Abdullah University of Science and Technology, boasting one of the world's fastest supercomputers, opens near Jeddah in Saudi Arabia in an attempt to enable the country to compete in science and technology internationally. ](/news/2009/09/23/the-multi-billion-dollar-king-abdullah-university-of-science-and-technology-boasting-one-of-the-world-s-fastest-supercomputers-opens-near.md)
-_Context: Jeddah, King Abdullah University of Science and Technology, Saudi, supercomputer_
+_Context: Jeddah, King Abdullah University of Science and Technology, Saudi Arabia, supercomputer_
 
 ##### ABBA
 ### [ ABBA, Genesis, Kiss, LL Cool J, Red Hot Chili Peppers and The Stooges are amongst several acts nominated for the Rock and Roll Hall of Fame. ](/news/2009/09/23/abba-genesis-kiss-ll-cool-j-red-hot-chili-peppers-and-the-stooges-are-amongst-several-acts-nominated-for-the-rock-and-roll-hall-of-fame.md)
 To mark Canada’s 150th birthday, CBC has launched a national storytelling project called What’s Your Story. We want to help you share personal stories about what defines Canada for you
 
-##### German
+##### Germany
 ### [ Germany's first nudist hiking trail opens. ](/news/2009/09/23/germany-s-first-nudist-hiking-trail-opens.md)
 German naturists will soon have their own 18-km (11-mile) long trail for hiking in the nude and some enthusiasts have been trying it out before the official opening next May.
 
@@ -37,7 +37,7 @@ _Context: Argentina, Dirty War, Julio Alberto Poch, Spanish, Transavia_
 
 ##### India
 ### [ India successfully launches seven satellites in a single mission one month after its inaugural Moon mission is aborted. Included are six smaller satellites from Germany, Switzerland and Turkey. ](/news/2009/09/23/india-successfully-launches-seven-satellites-in-a-single-mission-one-month-after-its-inaugural-moon-mission-is-aborted-included-are-six-sm.md)
-_Context: German, India, Moon, Switzerland, Turkey_
+_Context: Germany, India, Moon, Switzerland, Turkey_
 
 ##### India
 ### [ Indian villagers accuse the actress Julia Roberts of interrupting Navratri. ](/news/2009/09/23/indian-villagers-accuse-the-actress-julia-roberts-of-interrupting-navratri.md)
@@ -63,9 +63,9 @@ _Context: Australia, The Sydney Morning Herald_
 ### [ Swedish police hunt for robbers who used a stolen helicopter to raid a cash depot in Stockholm. ](/news/2009/09/23/swedish-police-hunt-for-robbers-who-used-a-stolen-helicopter-to-raid-a-cash-depot-in-stockholm.md)
 Business experts fear that a break-in at a cash depot in Sweden could lead to a shortage of bank notes in circulation in the Stockholm region.
 
-##### Scottish
+##### Scotland
 ### [ A Scottish GBP1 banknote, dated 1836, sells for a world record GBP9,000 price at auction. ](/news/2009/09/23/a-scottish-agbp1-banknote-dated-1836-sells-for-a-world-record-agbp9-000-price-at-auction.md)
-_Context: Scottish_
+_Context: Scotland_
 
 ##### Mexico
 ### [ One of the busiest border crossings between Mexico and the United States at San Ysidro is closed for hours after a gun battle between US agents and suspected human traffickers. ](/news/2009/09/23/one-of-the-busiest-border-crossings-between-mexico-and-the-united-states-at-san-ysidro-is-closed-for-hours-after-a-gun-battle-between-us-ag.md)

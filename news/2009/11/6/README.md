@@ -31,7 +31,7 @@ At each stage, the camps of the ousted president and of the acting president hav
 ### [ The Russian human rights group Memorial says security forces from Chechnya have kidnapped the head of another rights group in Moscow and flown him to Grozny. ](/news/2009/11/6/the-russian-human-rights-group-memorial-says-security-forces-from-chechnya-have-kidnapped-the-head-of-another-rights-group-in-moscow-and-fl.md)
 Rights group says head of another rights group in Moscow kidnapped and taken to Chechnya.
 
-##### Saudi
+##### Saudi Arabia
 ### [ Saudi forces continue more raids against rebel Houthi fighters in northern Yemen, after rebel fighters killed a Saudi security official. ](/news/2009/11/6/saudi-forces-continue-more-raids-against-rebel-houthi-fighters-in-northern-yemen-after-rebel-fighters-killed-a-saudi-security-official.md)
 Jets and ground forces hit Yemeni rebel fighters for third consecutive day.
 
@@ -51,7 +51,7 @@ _Context: South Pacific Ocean_
 ### [ At least 34 people are killed and 29 are injured when a bus falls into a gorge in Himachal Pradesh. ](/news/2009/11/6/at-least-34-people-are-killed-and-29-are-injured-when-a-bus-falls-into-a-gorge-in-himachal-pradesh.md)
 Thirty-four people, including six children and 12 women, were killed and another 29 injured when a bus rolled down over 100 ft from a bridge in Kangra district on Friday morning.
 
-##### German
+##### Germany
 ### [ Germany's Defence Minister Karl-Theodor zu Guttenberg admits mistakes were made in a September 4 Afghan air raid which resulted in 142 deaths. ](/news/2009/11/6/germany-s-defence-minister-karl-theodor-zu-guttenberg-admits-mistakes-were-made-in-a-september-4-afghan-air-raid-which-resulted-in-142-deat.md)
 Defence Minister Karl-Theodor zu Guttenberg said that mistakes were made in a German-ordered air raid in Afghanistan in which 142 people may have died.
 

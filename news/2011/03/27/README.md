@@ -5,7 +5,7 @@ Formats: [HTML](2011/03/27/index.html)  [JSON](2011/03/27/index.json)  [XML](201
 
 ##### Winfried Kretschmann
 ### [Winfried Kretschmann is set to be the first Green German state premier after the party success in elections in Baden-Wrttemberg. ](/news/2011/03/27/winfried-kretschmann-is-set-to-be-the-first-green-german-state-premier-after-the-party-success-in-elections-in-baden-wurttemberg.md)
-_Context: Baden-Wrttemberg, German, Greens, Winfried Kretschmann, state, success in elections_
+_Context: Baden-Wrttemberg, Germany, Greens, Winfried Kretschmann, state, success in elections_
 
 ##### Murder of Sian O'Callaghan
 ### [A 47-year-old taxi driver is charged with the murder of Sian O'Callaghan, who vanished while walking home from a night club in the English city of Swindon last weekend. ](/news/2011/03/27/a-47-year-old-taxi-driver-is-charged-with-the-murder-of-sian-o-callaghan-who-vanished-while-walking-home-from-a-night-club-in-the-english-c.md)

@@ -25,7 +25,7 @@ _Context: Ciudad Juarez, Mexico_
 
 ##### Government
 ### [The Government of Tunisia asks Saudi Arabia to extradite former President of Tunisia Zine El Abidine Ben Ali who it accuses of "several serious crimes.". ](/news/2011/02/20/the-government-of-tunisia-asks-saudi-arabia-to-extradite-former-president-of-tunisia-zine-el-abidine-ben-ali-who-it-accuses-of-several-seri.md)
-_Context:  Zine El Abidine Ben Ali, President of Tunisia, Saudi, extradite, government_
+_Context:  Zine El Abidine Ben Ali, President of Tunisia, Saudi Arabia, extradite, government_
 
 ##### Indonesia
 ### [Intruders steal secret computer files from Indonesian envoys staying in South Korea. ](/news/2011/02/20/intruders-steal-secret-computer-files-from-indonesian-envoys-staying-in-south-korea.md)
@@ -41,7 +41,7 @@ _Context: North Hamgyong Province, North Korea, Punggye-ri, nuclear test_
 
 ##### German Foreign Minister
 ### [Following a visit by German Foreign Minister Guido Westerwelle to Iran, two German journalists charged with espionage are released and return to Germany having been imprisoned since October for interviewing the son and lawyer of Sakineh Mohammadi Ashtiani.](/news/2011/02/20/following-a-visit-by-german-foreign-minister-guido-westerwelle-to-iran-two-german-journalists-charged-with-espionage-are-released-and-retur.md)
-_Context: German, German Foreign Minister, German journalist, Guido Westerwelle, Iran, Sakineh Mohammadi Ashtiani_
+_Context: German Foreign Minister, German journalist, Germany, Guido Westerwelle, Iran, Sakineh Mohammadi Ashtiani_
 
 ##### The Guardian
 ### ["The Guardian" reports that Raymond Davis, charged with murder in Pakistan after shooting dead two men in Lahore, worked for the U.S. Central Intelligence Agency (CIA). ](/news/2011/02/20/the-guardian-reports-that-raymond-davis-charged-with-murder-in-pakistan-after-shooting-dead-two-men-in-lahore-worked-for-the-u-s-centra.md)
@@ -65,7 +65,7 @@ Vallipuram Parvathi, the mother of slain LTTE leader Velupillai Prabakaran, pass
 
 ##### Sapping
 ### [Sapper Jamie Larkham of the 1st Combat Engineer Regiment (Australia) and an Afghan interpreter die in overnight fighting. ](/news/2011/02/20/sapper-jamie-larkham-of-the-1st-combat-engineer-regiment-australia-and-an-afghan-interpreter-die-in-overnight-fighting.md)
-_Context: 1st Combat Engineer Regiment (Australia), Afghan, Jamie Larkham, sapping_
+_Context: 1st Combat Engineer Regiment (Australia), Afghanistan, Jamie Larkham, sapping_
 
 ##### Pakistan Army
 ### [The Pakistan Army kills up to 15 insurgents in operations in the Mohmand Agency near the Afghan border. ](/news/2011/02/20/the-pakistan-army-kills-up-to-15-insurgents-in-operations-in-the-mohmand-agency-near-the-afghan-border.md)

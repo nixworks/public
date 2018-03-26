@@ -29,7 +29,7 @@ _Context: Chinese, Donald Tsang, Hong Kong_
 
 ##### Pope
 ### [ Pope Benedict XVI's new book contains material critical of the European Union's efforts that he characterizes as an "attempt to build a human community absolutely without God" and Western liberalization of abortion. ](/news/2005/06/25/pope-benedict-xvi-s-new-book-contains-material-critical-of-the-european-union-s-efforts-that-he-characterizes-as-an-attempt-to-build-a-hum.md)
-_Context: European Union, Pope, Pope Benedict XVI, abortion_
+_Context: EU, Pope, Pope Benedict XVI, abortion_
 
 ##### Elections in Bulgaria
 ### [ Elections in Bulgaria: The people of Bulgaria are voting today and the government of Prime Minister Simeon Sakskoburggotski, the country's former Tsar, is expected to be defeated. ](/news/2005/06/25/elections-in-bulgaria-the-people-of-bulgaria-are-voting-today-and-the-government-of-prime-minister-simeon-sakskoburggotski-the-country-s.md)

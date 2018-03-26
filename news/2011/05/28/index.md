@@ -23,7 +23,7 @@ The United States is welcoming a North Korean announcement that it will free an 
 ### [Vietnam accuses the People's Republic of China of "violating" its sovereignty after Chinese ships damaged a Petrovietnam boat in the disputed Spratly Islands. ](/news/2011/05/28/vietnam-accuses-the-people-s-republic-of-china-of-violating-its-sovereignty-after-chinese-ships-damaged-a-petrovietnam-boat-in-the-dispute.md)
 _Context: China, Petrovietnam, Spratly Islands, Vietnam_
 
-##### German
+##### Germany
 ### [At least 10 people in Germany die after eating cucumbers infected with E. coli. ](/news/2011/05/28/at-least-10-people-in-germany-die-after-eating-cucumbers-infected-with-e-coli.md)
 At least 10 people are now thought to have died and hundreds made sick in Germany by E.coli-infected cucumbers.
 

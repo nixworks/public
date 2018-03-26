@@ -35,9 +35,9 @@ Human rights group urges Iran to &quot;show clemency, halt the imminent executio
 ### [Dr Ezzeldeen Abu al-Aish files a lawsuit against Israel one day before the second anniversary of Israel's War on Gaza. Abu al-Aish's three daughters were killed at home by Israeli forces on live television on 16 January 2009 as the gynaecologist was doing an interview with Israel's Channel 10 television. ](/news/2010/12/26/dr-ezzeldeen-abu-al-aish-files-a-lawsuit-against-israel-one-day-before-the-second-anniversary-of-israel-s-war-on-gaza-abu-al-aish-s-three-d.md)
 Father of three daughters killed by Israeli forces files case after failing to reach compensation deal.
 
-##### Saudi
+##### Saudi Arabia
 ### [A Saudi woman, accused of attacking and torturing her Indonesian maid last month in a case that strained Saudi-Indonesia relations, now denies the charges, claiming that the maid tortured herself because she was "not normal." ](/news/2010/12/26/a-saudi-woman-accused-of-attacking-and-torturing-her-indonesian-maid-last-month-in-a-case-that-strained-saudi-indonesia-relations-now-deni.md)
-_Context: Indonesia, Indonesian maid, Saudi_
+_Context: Indonesia, Indonesian maid, Saudi Arabia_
 
 ##### Egypt
 ### [Egypt sends to Damascus a dossier of sensitive technical information involving details of an Israeli spy ring in Syria, including a high ranking chemical expert who assisted Israel for 13 years. ](/news/2010/12/26/egypt-sends-to-damascus-a-dossier-of-sensitive-technical-information-involving-details-of-an-israeli-spy-ring-in-syria-including-a-high-ran.md)
@@ -105,11 +105,11 @@ Two Islamic Jihad militants killed by fire along Strip border; Deputy PM: &quot;
 
 ##### Somali pirates
 ### [Somali pirates seize a Thai-flagged ship off the coast of Somalia. ](/news/2010/12/26/somali-pirates-seize-a-thai-flagged-ship-off-the-coast-of-somalia.md)
-_Context: Somali, Somali pirates, Thailand_
+_Context: Somali pirates, Somalia, Thailand_
 
 ##### Turkey
 ### [Four Turkish workers are kidnapped in eastern Afghanistan. ](/news/2010/12/26/four-turkish-workers-are-kidnapped-in-eastern-afghanistan.md)
-_Context: Afghan, Turkey_
+_Context: Afghanistan, Turkey_
 
 ##### Nigeria
 ### [Further violence breaks out in the Nigerian city of Jos following bombings earlier this week. ](/news/2010/12/26/further-violence-breaks-out-in-the-nigerian-city-of-jos-following-bombings-earlier-this-week.md)

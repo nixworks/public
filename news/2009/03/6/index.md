@@ -27,9 +27,9 @@ _Context: London, Peter Mandelson, Plane Stupid, Secretary of State for Business
 ### [ Zimbabwean Prime Minister Morgan Tsvangirai is injured and his wife, Susan, killed in a car accident south of Harare. ](/news/2009/03/6/zimbabwean-prime-minister-morgan-tsvangirai-is-injured-and-his-wife-susan-killed-in-a-car-accident-south-of-harare.md)
 _Context: Harare, Morgan Tsvangirai, Prime Minister, Zimbabwe, car accident, wife_
 
-##### European Union
+##### EU
 ### [ The European Union will transfer to Kenya suspected Somali pirates captured during Operation Atalanta. ](/news/2009/03/6/the-european-union-will-transfer-to-kenya-suspected-somali-pirates-captured-during-operation-atalanta.md)
-_Context: European Union, Kenya, Somali, Somali pirates, captures_
+_Context: EU, Kenya, Somali pirates, Somalia, captures_
 
 ## [Previous Day...](/news/2009/03/5/index.md)
 

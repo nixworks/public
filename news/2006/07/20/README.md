@@ -13,7 +13,7 @@ Get local Bay Area news plus Bay Area breaking news, business, green, national, 
 
 ##### Ethiopia
 ### [ A column of Ethiopian Army vehicles invades Somalia, reaching the town of Baidoa. They have stated that they are willing to defend Somalia's Transitional Federal Parliament from the Islamic Courts Union. ](/news/2006/07/20/a-column-of-ethiopian-army-vehicles-invades-somalia-reaching-the-town-of-baidoa-they-have-stated-that-they-are-willing-to-defend-somalia.md)
-_Context: Baidoa, Ethiopia, Islamic Courts Union, MPs, Somali, invades_
+_Context: Baidoa, Ethiopia, Islamic Courts Union, MPs, Somalia, invades_
 
 ##### Internet censorship
 ### [ Internet censorship: In India, public outcry at the recent blocking of some blogs results in a statement by that country's government that the occurrence was a "technological error," and that immediate steps will be taken to resolve the issue. ](/news/2006/07/20/internet-censorship-in-india-public-outcry-at-the-recent-blocking-of-some-blogs-results-in-a-statement-by-that-country-s-government-that.md)

@@ -27,9 +27,9 @@ _Context: Associated Press, Kim Jong-il, Kim Jong-un, North Korea, Yang Hyong So
 ### [United States National Security Advisor General James L. Jones announces his resignation effective in two weeks; his deputy Thomas E. Donilon is expected to replace him. ](/news/2010/10/8/united-states-national-security-advisor-general-james-l-jones-announces-his-resignation-effective-in-two-weeks-his-deputy-thomas-e-donilo.md)
 In an afternoon statement in the White House Rose Garden, President Barack Obama announced Friday that he will name Tom Donilon to be his next National Security Adviser, replacing retiring Gen. James Jones. 
 
-##### France
+##### French
 ### [France's highest legal authority rules in favour of a ban on facial veils. ](/news/2010/10/8/france-s-highest-legal-authority-rules-in-favour-of-a-ban-on-facial-veils.md)
-_Context: France_
+_Context: French_
 
 ##### Burma
 ### [The Supreme Court in Burma agrees to hear an appeal by Aung San Suu Kyi against her house arrest. ](/news/2010/10/8/the-supreme-court-in-burma-agrees-to-hear-an-appeal-by-aung-san-suu-kyi-against-her-house-arrest.md)
@@ -65,7 +65,7 @@ _Context: Tibetan Autonomous Prefecture of Garze_
 
 ##### Malta
 ### [Maltese chemical tanker YM Uranus is reported to be sinking following a collision with the Panamanian cargo ship "Hanjin Rizhao" off the coast of Brittany, France. ](/news/2010/10/8/maltese-chemical-tanker-ym-uranus-is-reported-to-be-sinking-following-a-collision-with-the-panamanian-cargo-ship-hanjin-rizhao-off-the-coa.md)
-_Context: Brittany, France, Malta, Panama, Tanker, cargo ship_
+_Context: Brittany, French, Malta, Panama, Tanker, cargo ship_
 
 ##### Prime Minister
 ### [2 more corpses are discovered, bringing the death toll to 7, as Prime Minister of Hungary Viktor Orban plays down the disaster on the Danube. ](/news/2010/10/8/2-more-corpses-are-discovered-bringing-the-death-toll-to-7-as-prime-minister-of-hungary-viktor-orba-n-plays-down-the-disaster-on-the-danub.md)
@@ -95,9 +95,9 @@ _Context: International Civil Aviation Organization, Montreal_
 ### [United States gospel music singer Albertina Walker, known as the "Queen of Gospel" dies in Chicago. ](/news/2010/10/8/united-states-gospel-music-singer-albertina-walker-known-as-the-queen-of-gospel-dies-in-chicago.md)
 _Context: Albertina Walker, United States, gospel music_
 
-##### German
+##### Germany
 ### [German film "The White Ribbon" wins the BBC Four World Cinema Award. ](/news/2010/10/8/german-film-the-white-ribbon-wins-the-bbc-four-world-cinema-award.md)
-_Context: BBC Four, German, The White Ribbon, World Cinema Award_
+_Context: BBC Four, Germany, The White Ribbon, World Cinema Award_
 
 ##### Google
 ### [Google celebrates the 70th birthday of John Lennon with an animated Google doodle. ](/news/2010/10/8/google-celebrates-the-70th-birthday-of-john-lennon-with-an-animated-google-doodle.md)
@@ -111,9 +111,9 @@ Deaths reported after overnight military operation in West Bank town of Hebron.
 ### [A Taiwanese ship initially believed to have been hijacked off the coast of Madagascar is later found safe. ](/news/2010/10/8/a-taiwanese-ship-initially-believed-to-have-been-hijacked-off-the-coast-of-madagascar-is-later-found-safe.md)
 A Taiwanese ship reported to have been seized by pirates east of Madagascar had just &quot;lost touch&quot; with its owner, according to the EU naval force fighting piracy in the Indian Ocean.
 
-##### German
+##### Germany
 ### [German officials say that Islamic militants whose disclosures have triggered a Europe-wide terror alert, have links to the perpetrators of the September 11 attacks on the United States in 2001. ](/news/2010/10/8/german-officials-say-that-islamic-militants-whose-disclosures-have-triggered-a-europe-wide-terror-alert-have-links-to-the-perpetrators-of-t.md)
-_Context: Europe-wide terror alert, German, Islamic terrorism, September 11 attacks, United States_
+_Context: Europe-wide terror alert, Germany, Islamic terrorism, September 11 attacks, United States_
 
 ##### Kunduz
 ### [At least 16 people, including the governor of Kunduz province, Mohammad Omar, are killed in a bombing. ](/news/2010/10/8/at-least-16-people-including-the-governor-of-kunduz-province-mohammad-omar-are-killed-in-a-bombing.md)

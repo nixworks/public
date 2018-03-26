@@ -7,9 +7,9 @@ Formats: [HTML](2005/07/26/index.html)  [JSON](2005/07/26/index.json)  [XML](200
 ### [ In Nepal, king's court sentences Sher Bahadur Deuba and three others to two years in jail for alleged embezzling. Deuba denounces the sentence as "character assassination". ](/news/2005/07/26/in-nepal-king-s-court-sentences-sher-bahadur-deuba-and-three-others-to-two-years-in-jail-for-alleged-embezzling-deuba-denounces-the-sente.md)
 _Context: Nepal, Sher Bahadur Deuba, character assassination, embezzlement_
 
-##### Somali
+##### Somalia
 ### [ In Somalia, transitional president Abdullahi Yusuf arrives in the town of Jowhar, intending to make it a base for his new government ](/news/2005/07/26/in-somalia-transitional-president-abdullahi-yusuf-arrives-in-the-town-of-jowhar-intending-to-make-it-a-base-for-his-new-government.md)
-_Context: Abdullahi Yusuf, Jowhar, Somali_
+_Context: Abdullahi Yusuf, Jowhar, Somalia_
 
 ##### Israel
 ### [ In Israel, Omri Sharon, MP and son of Ariel Sharon, is indicted for involvement in illegal campaign contributions, perjury and forging documents. Omri Sharon states that he would give up his parliamentary immunity and stand trial ](/news/2005/07/26/in-israel-omri-sharon-mp-and-son-of-ariel-sharon-is-indicted-for-involvement-in-illegal-campaign-contributions-perjury-and-forging-docu.md)
@@ -37,7 +37,7 @@ _Context: Mohammed Bouyeri, Theo van Gogh_
 
 ##### Protest
 ### [ At least 1,000 protesters have staged a demonstration outside the main US base of Bagram in Afghanistan. ](/news/2005/07/26/at-least-1-000-protesters-have-staged-a-demonstration-outside-the-main-us-base-of-bagram-in-afghanistan.md)
-_Context: Afghan, Bagram, demonstration, protest_
+_Context: Afghanistan, Bagram, demonstration, protest_
 
 ##### Burma
 ### [ Burma-Myanmar forgoes 2006 chairmanship of ASEAN ](/news/2005/07/26/burma-myanmar-forgoes-2006-chairmanship-of-asean.md)

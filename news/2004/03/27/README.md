@@ -9,7 +9,7 @@ _Context: Brazil, Cyclone Catarina, South Atlantic, coastal town, cyclone, hurri
 
 ##### Brussels
 ### [ In Brussels, European Union Leaders express a sense of unity in the aftermath of the Madrid train bombings, and state that there is a new impetus to reaching a deal on the Union's draft constitution. ](/news/2004/03/27/in-brussels-european-union-leaders-express-a-sense-of-unity-in-the-aftermath-of-the-madrid-train-bombings-and-state-that-there-is-a-new-i.md)
-_Context: Brussels, European Union, Madrid train bombings, constitution_
+_Context: Brussels, EU, Madrid train bombings, constitution_
 
 ##### NASA
 ### [ NASA succeeds in a second attempt to fly its X-43A experimental airplane from the Hyper-X project, attaining speeds in excess of Mach 7, the fastest ever air-breathing hypersonic flight. ](/news/2004/03/27/nasa-succeeds-in-a-second-attempt-to-fly-its-x-43a-experimental-airplane-from-the-hyper-x-project-attaining-speeds-in-excess-of-mach-7-th.md)

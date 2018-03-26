@@ -5,7 +5,7 @@ Formats: [HTML](2008/05/26/index.html)  [JSON](2008/05/26/index.json)  [XML](200
 
 ##### European Beaver
 ### [ The European Beaver will be reintroduced to Scotland after 400 years. ](/news/2008/05/26/the-european-beaver-will-be-reintroduced-to-scotland-after-400-years.md)
-_Context: European Beaver, Scottish, reintroduced_
+_Context: European Beaver, Scotland, reintroduced_
 
 ##### Government
 ### [ The caretaker government of Bangladesh will establish a truth commission to deal with past corruption by politicians. ](/news/2008/05/26/the-caretaker-government-of-bangladesh-will-establish-a-truth-commission-to-deal-with-past-corruption-by-politicians.md)

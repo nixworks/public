@@ -53,7 +53,7 @@ _Context: China, People's Bank of China, interest rate_
 
 ##### Yemeni Civil War
 ### [Saudi-led airstrikes target the Sana'a home of former President of Yemen Ali Abdullah Saleh. ](/news/2015/05/10/saudi-led-airstrikes-target-the-sana-a-home-of-former-president-of-yemen-ali-abdullah-saleh.md)
-_Context: Ali Abdullah Saleh, President, Sana'a, Saudi, Yemeni Civil War_
+_Context: Ali Abdullah Saleh, President, Sana'a, Saudi Arabia, Yemeni Civil War_
 
 ## [Previous Day...](/news/2015/05/9/index.md)
 

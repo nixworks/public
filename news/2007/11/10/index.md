@@ -17,11 +17,11 @@ Stagehands belonging to the Local One of the International Alliance of Theatrica
 
 ##### 2007 North Sea flood
 ### [ 2007 North Sea flood: The German ports of Hamburg and Bremerhaven suffer in the floods. ](/news/2007/11/10/2007-north-sea-flood-the-german-ports-of-hamburg-and-bremerhaven-suffer-in-the-floods.md)
-_Context: 2007 North Sea flood, Bremerhaven, German, Hamburg_
+_Context: 2007 North Sea flood, Bremerhaven, Germany, Hamburg_
 
 ##### Battle of Mogadishu (November 2007)
 ### [ Battle of Mogadishu (November 2007): More than 70 people die and over 200 are wounded in battles in Somalia's capital, Mogadishu. ](/news/2007/11/10/battle-of-mogadishu-november-2007-more-than-70-people-die-and-over-200-are-wounded-in-battles-in-somalia-s-capital-mogadishu.md)
-_Context: Battle of Mogadishu (November 2007), Mogadishu, Somali_
+_Context: Battle of Mogadishu (November 2007), Mogadishu, Somalia_
 
 ##### Its largest political protest
 ### [ 2007 Bersih Rally: Malaysia sees its largest political protest in 10 years. ](/news/2007/11/10/2007-bersih-rally-malaysia-sees-its-largest-political-protest-in-10-years.md)
@@ -29,7 +29,7 @@ _Context: its largest political protest_
 
 ##### United States
 ### [ Six American forces serving under NATO's International Security Assistance Force are killed in an insurgent ambush while patrolling in eastern Afghanistan. ](/news/2007/11/10/six-american-forces-serving-under-nato-s-international-security-assistance-force-are-killed-in-an-insurgent-ambush-while-patrolling-in-east.md)
-_Context: Afghan, NATO, Taliban insurgency, United States_
+_Context: Afghanistan, NATO, Taliban insurgency, United States_
 
 ##### Peru
 ### [ Peruvian archaeologist Walter Alva uncovers a 4,000-year-old temple in the Ventarron site in the Lambayeque Region of Peru. ](/news/2007/11/10/peruvian-archaeologist-walter-alva-uncovers-a-4-000-year-old-temple-in-the-ventarron-site-in-the-lambayeque-region-of-peru.md)

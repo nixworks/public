@@ -9,11 +9,11 @@ _Context: Firefox, Internet Explorer, Microsoft, Mozilla Foundation_
 
 ##### Joschka Fischer
 ### [ Germany's foreign minister Joschka Fischer accepts political responsibility for immigration policies that allowed criminals to enter the European Union. ](/news/2005/02/15/germany-s-foreign-minister-joschka-fischer-accepts-political-responsibility-for-immigration-policies-that-allowed-criminals-to-enter-the-eu.md)
-_Context: European Union, Joschka Fischer, immigration_
+_Context: EU, Joschka Fischer, immigration_
 
-##### European Union
+##### EU
 ### [ United States, India and European Union countries recall their ambassadors from Nepal in protest of the takeover by King Gyanendra. ](/news/2005/02/15/united-states-india-and-european-union-countries-recall-their-ambassadors-from-nepal-in-protest-of-the-takeover-by-king-gyanendra.md)
-_Context: European Union, Gyanendra of Nepal, Nepal, ambassador_
+_Context: EU, Gyanendra of Nepal, Nepal, ambassador_
 
 ##### President
 ### [ In South Africa, President Thabo Mbeki announces that the country's elite crime-fighting unit Scorpions will be investigated. There have been claims of political vendettas and mismanagement of funds. ](/news/2005/02/15/in-south-africa-president-thabo-mbeki-announces-that-the-country-s-elite-crime-fighting-unit-scorpions-will-be-investigated-there-have-be.md)

@@ -7,7 +7,7 @@ Formats: [HTML](2009/07/5/index.html)  [JSON](2009/07/5/index.json)  [XML](2009/
 ### [ US Vice President Joe Biden says in an ABC interview that Washington will not interfere in an Israeli attack on Iran. ](/news/2009/07/5/us-vice-president-joe-biden-says-in-an-abc-interview-that-washington-will-not-interfere-in-an-israeli-attack-on-iran.md)
 US vice-president Joe Biden says Iran nuclear issue for Israel to decide how to fix.
 
-##### Somali
+##### Somalia
 ### [ At least 23 Somalis are killed and over 50 are wounded in Mogadishu as government soldiers retaliate to mortars fired at the presidential palace by insurgents. ](/news/2009/07/5/at-least-23-somalis-are-killed-and-over-50-are-wounded-in-mogadishu-as-government-soldiers-retaliate-to-mortars-fired-at-the-presidential-p.md)
 Fighting between government troops and rebels leaves at least 23 dead in capital.
 
@@ -37,7 +37,7 @@ A bomb exploded outside a church in the southern Philippines during Sunday morni
 
 ##### United Kingdom
 ### [ Two British service personnel participating in Operation "Panther's Claw" are killed in separate attacks in southern Afghanistan. ](/news/2009/07/5/two-british-service-personnel-participating-in-operation-panther-s-claw-are-killed-in-separate-attacks-in-southern-afghanistan.md)
-_Context: Afghan, Operation Panther's Claw, United Kingdom_
+_Context: Afghanistan, Operation Panther's Claw, United Kingdom_
 
 ##### Iran
 ### [ An Iranian political analyst employed by the British embassy in Tehran faces a lengthy prison sentence after being charged with "acting against national security". ](/news/2009/07/5/an-iranian-political-analyst-employed-by-the-british-embassy-in-tehran-faces-a-lengthy-prison-sentence-after-being-charged-with-acting-aga.md)

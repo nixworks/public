@@ -25,7 +25,7 @@ _Context: Botswana, real diamond_
 
 ##### Czech Republic
 ### [ The Czech Republic invites Belarussian President Alexander Lukashenko to a European Union summit in May. ](/news/2009/04/17/the-czech-republic-invites-belarussian-president-alexander-lukashenko-to-a-european-union-summit-in-may.md)
-_Context: Alexander Lukashenko, Belarus, Belarussian President, Czech Republic, European Union, summit_
+_Context: Alexander Lukashenko, Belarus, Belarussian President, Czech Republic, EU, summit_
 
 ##### Serbia
 ### [ Serbian President Boris Tadic visits Kosovo. ](/news/2009/04/17/serbian-president-boris-tadia-visits-kosovo.md)
@@ -49,7 +49,7 @@ The Swedish owners of the illegal file&#45;sharing website The Pirate Bay defian
 
 ##### Earthquake
 ### [ Two earthquakes kill 22 people in Nangarhar Province, Afghanistan. ](/news/2009/04/17/two-earthquakes-kill-22-people-in-nangarhar-province-afghanistan.md)
-_Context: Afghan, Nangarhar Province, earthquake_
+_Context: Afghanistan, Nangarhar Province, earthquake_
 
 ##### Irish
 ### [ The Irish political party Fianna Fail departs the Alliance for Europe of the Nations and joins the European Liberal Democrat and Reform Party. ](/news/2009/04/17/the-irish-political-party-fianna-fa-il-departs-the-alliance-for-europe-of-the-nations-and-joins-the-european-liberal-democrat-and-reform-pa.md)

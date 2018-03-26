@@ -13,7 +13,7 @@ _Context: Alaska, Augustine Volcano_
 
 ##### CIA
 ### [ The U.S. CIA attempts to kill Ayman al-Zawahiri by bombing Damadola, Pakistan, a village near the Afghanistan border. The attack kills at least 18 people: eight men, five women and five children. Anonymous U.S. government sources claim he was invited to a feast in the village, but did not attend. ](/news/2006/01/13/the-u-s-cia-attempts-to-kill-ayman-al-zawahiri-by-bombing-damadola-pakistan-a-village-near-the-afghanistan-border-the-attack-kills-at-l.md)
-_Context: Afghan, Ayman al-Zawahiri, CIA, Pakistan, recent U.S. air strike_
+_Context: Afghanistan, Ayman al-Zawahiri, CIA, Pakistan, recent U.S. air strike_
 
 ## [Previous Day...](/news/2006/01/12/index.md)
 

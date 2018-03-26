@@ -43,9 +43,9 @@ State of emergency declared in Queensland where homes have been destroyed.
 ### [ Hurricane Rick strengthens to a Category 5 storm, becoming the strongest hurricane in a decade in the eastern Pacific Ocean. ](/news/2009/10/18/hurricane-rick-strengthens-to-a-category-5-storm-becoming-the-strongest-hurricane-in-a-decade-in-the-eastern-pacific-ocean.md)
 _Context: Category 4, Hurricane Rick, South Pacific Ocean, strongest hurricane in a decade_
 
-##### German
+##### Germany
 ### [ Germany and Israel complain about a Bangkok museum billboard depicting a salute by Adolf Hitler beside the slogan "Hitler is not dead". ](/news/2009/10/18/germany-and-israel-complain-about-a-bangkok-museum-billboard-depicting-a-salute-by-adolf-hitler-beside-the-slogan-hitler-is-not-dead.md)
-_Context: Adolf Hitler, Bangkok, German, Israel, billboard, museum, salute_
+_Context: Adolf Hitler, Bangkok, Germany, Israel, billboard, museum, salute_
 
 ##### Taliban
 ### [ At least 60 Taliban militants are killed in an ongoing offensive in South Waziristan, northwest Pakistan. ](/news/2009/10/18/at-least-60-taliban-militants-are-killed-in-an-ongoing-offensive-in-south-waziristan-northwest-pakistan.md)

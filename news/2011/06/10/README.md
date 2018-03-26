@@ -47,7 +47,7 @@ _Context:  debt, China, Dagong Global Credit Rating, US$, United States, credito
 ### [Fresh NATO airstrikes take place over the capital Tripoli. ](/news/2011/06/10/fresh-nato-airstrikes-take-place-over-the-capital-tripoli.md)
 _Context: NATO, Tripoli_
 
-##### Somali
+##### Somalia
 ### [The Somali interior minister, Abdi Shakur Sheikh Hassan, is killed by a female suicide bomber at his house in the capital Mogadishu. ](/news/2011/06/10/the-somali-interior-minister-abdi-shakur-sheikh-hassan-is-killed-by-a-female-suicide-bomber-at-his-house-in-the-capital-mogadishu.md)
 Somali Interior Minister Abdi Shakur Sheikh Hassan is killed in a suicide attack carried out by his niece, amid ongoing political unrest in the capital in Mogadishu.
 

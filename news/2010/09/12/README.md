@@ -71,7 +71,7 @@ Miners trapped underground in Chile for more than a month are allowed to smoke f
 ### [Lady Gaga wins eight MTV Video Music Awards at the 2010 ceremony including Video of the Year for "Bad Romance". ](/news/2010/09/12/lady-gaga-wins-eight-mtv-video-music-awards-at-the-2010-ceremony-including-video-of-the-year-for-bad-romance.md)
 _Context: 2010 ceremony, Bad Romance, Lady Gaga, MTV Video Music Awards_
 
-##### France
+##### French
 ### [French film director Claude Chabrol, a founding member of the French New Wave, dies. ](/news/2010/09/12/french-film-director-claude-chabrol-a-founding-member-of-the-french-new-wave-dies.md)
 Claude&#x20;Chabrol&#x20;&#x28;pictured&#x29;,&#x20;film&#x20;director&#x20;and&#x20;member&#x20;of&#x20;the&#x20;French&#x20;New&#x20;Wave&#x20;group&#x20;of&#x20;film-makers,&#x20;has&#x20;died&#x20;at&#x20;the&#x20;age&#x20;of&#x20;80.
 

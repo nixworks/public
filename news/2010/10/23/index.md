@@ -31,7 +31,7 @@ _Context: LTTE, Sri Lanka_
 ### [The high court in Egypt orders the government to ban police officers from university campuses. ](/news/2010/10/23/the-high-court-in-egypt-orders-the-government-to-ban-police-officers-from-university-campuses.md)
 Verdict ending police presence in universities is hailed, but government may use emergency powers to circumvent it.
 
-##### German
+##### Germany
 ### [German economy minister Rainer Bruederle criticizes the United States' monetary easing as indirectly manipulation of the USD exchange rates. ](/news/2010/10/23/german-economy-minister-rainer-bruederle-criticizes-the-united-states-monetary-easing-as-indirectly-manipulation-of-the-usd-exchange-rates.md)
 US policy of boosting liquidity criticised at G20
 
@@ -73,11 +73,11 @@ Strikers contest a government back-to-work order in court, a day after senate pa
 
 ##### Taliban
 ### [Nine Taliban fighters, including two commanders, are killed as security forces storm their hideout in Kandahar province, south of Afghanistan. ](/news/2010/10/23/nine-taliban-fighters-including-two-commanders-are-killed-as-security-forces-storm-their-hideout-in-kandahar-province-south-of-afghanista.md)
-_Context: Afghan, Kandahar province, Taliban_
+_Context: Afghanistan, Kandahar province, Taliban_
 
 ##### Suicide bomber
 ### [A suicide bomber attacks the United Nations compound in western Afghanistan based in Herat. ](/news/2010/10/23/a-suicide-bomber-attacks-the-united-nations-compound-in-western-afghanistan-based-in-herat.md)
-_Context: Afghan, Herat, United Nations, suicide bomber_
+_Context: Afghanistan, Herat, United Nations, suicide bomber_
 
 ##### Maoist
 ### [Suspected Maoist rebels kill six policemen in eastern India. ](/news/2010/10/23/suspected-maoist-rebels-kill-six-policemen-in-eastern-india.md)

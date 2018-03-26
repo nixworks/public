@@ -47,7 +47,7 @@ _Context: Governor, Jan Brewer, United States Supreme Court, immigration law_
 ### [Accused drug lord Walid Makled Garcia is extradited from Colombia to Venezuela. ](/news/2011/05/9/accused-drug-lord-walid-makled-garcia-is-extradited-from-colombia-to-venezuela.md)
 _Context: Colombia, Venezuela, Walid Makled Garcia, extradite_
 
-##### Twitter
+##### Tweeting
 ### [A Twitter user tries to unmask some celebrities who have obtained super-injunctions to prevent publication of details of their private lives. ](/news/2011/05/9/a-twitter-user-tries-to-unmask-some-celebrities-who-have-obtained-super-injunctions-to-prevent-publication-of-details-of-their-private-lives.md)
 A user of Twitter has tried to unmask some of the public figures who have obtained super-injunctions to prevent publication of details of their private lives.
 
@@ -79,15 +79,15 @@ _Context: China, Guilin, Luojiang, landslide, quarry_
 ### [At least 36 people are killed after several boats capsize during a storm on Lake Togo in southeastern Togo. ](/news/2011/05/9/at-least-36-people-are-killed-after-several-boats-capsize-during-a-storm-on-lake-togo-in-southeastern-togo.md)
 Seven boats have capsized in a storm in the west African nation of Togo, leaving at least 36 people dead, a police sources says, as authorities search for more victims. 
 
-##### European Union
+##### EU
 ### [Officials in the European Union acknowledge that Greece will need a second bailout program soon, and American ratings agency Standard & Poor's downgrades Greek bonds to junk status. ](/news/2011/05/9/officials-in-the-european-union-acknowledge-that-greece-will-need-a-second-bailout-program-soon-and-american-ratings-agency-standard-poor.md)
-_Context: European Union, Greece, Standard & Poor's_
+_Context: EU, Greece, Standard & Poor's_
 
 ##### Ivory Coast
 ### [The Ivory Coast, the world's largest cocoa producer, makes its first shipment since January, after the cocoa industry was disrupted by the 2010-2011 Ivorian crisis. ](/news/2011/05/9/the-ivory-coast-the-world-s-largest-cocoa-producer-makes-its-first-shipment-since-january-after-the-cocoa-industry-was-disrupted-by-the-2.md)
 _Context: 2010-2011 Ivorian crisis, Ivory Coast, cocoa_
 
-##### Qantas
+##### Qantas Airways
 ### [Qantas flights face disruptions as 1600 aircraft maintenance engineers announce plans to go on strike. ](/news/2011/05/9/qantas-flights-face-disruptions-as-1600-aircraft-maintenance-engineers-announce-plans-to-go-on-strike.md)
 Qantas passengers face likely disruptions to flights after the airline&#039;s 1600 licensed aircraft engineers announced today that they intended to begin strike action later this week.
 

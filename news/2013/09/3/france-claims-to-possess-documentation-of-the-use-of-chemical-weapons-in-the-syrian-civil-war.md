@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/09/3/france-claims-to-possess-documentation-of-the-us
 
 ### [2013-09-3](/news/2013/09/3/index.md)
 
-##### France
+##### French
 # France claims to possess documentation of the use of chemical weapons in the Syrian civil war. 
 
 Israel carries out a joint missile test with the US in the Mediterranean, amid heightened tension over possible Western military strikes on Syria.
@@ -27,8 +27,8 @@ Israel carries out a joint missile test with the US in the Mediterranean, amid h
 
 ### Related:
 
-1. [Russia and China veto a draft United Nations Security Council resolution sponsored by France, the United Kingdom and the United States calling for sanctions against the Syrian government and President Bashar al-Assad over allegations that the government used chemical weapons in the conflict. ](/news/2017/03/1/russia-and-china-veto-a-draft-united-nations-security-council-resolution-sponsored-by-france-the-united-kingdom-and-the-united-states-calli.md) _Context: France, chemical weapon_
-2. [Russia vetoes a French-drafted United Nations Security Council resolution that calls for a ceasefire in Aleppo. China, which had backed Russia's four previous Syria-related vetoes, abstains. ](/news/2016/10/8/russia-vetoes-a-french-drafted-united-nations-security-council-resolution-that-calls-for-a-ceasefire-in-aleppo-china-which-had-backed-russ.md) _Context: France, Syrian civil war_
+1. [Russia and China veto a draft United Nations Security Council resolution sponsored by France, the United Kingdom and the United States calling for sanctions against the Syrian government and President Bashar al-Assad over allegations that the government used chemical weapons in the conflict. ](/news/2017/03/1/russia-and-china-veto-a-draft-united-nations-security-council-resolution-sponsored-by-france-the-united-kingdom-and-the-united-states-calli.md) _Context: French, chemical weapon_
+2. [Russia vetoes a French-drafted United Nations Security Council resolution that calls for a ceasefire in Aleppo. China, which had backed Russia's four previous Syria-related vetoes, abstains. ](/news/2016/10/8/russia-vetoes-a-french-drafted-united-nations-security-council-resolution-that-calls-for-a-ceasefire-in-aleppo-china-which-had-backed-russ.md) _Context: French, Syrian civil war_
 3. [A team of twenty UN weapons inspectors arrives in the capital, Damascus, to investigate the alleged use of chemical weapons in the conflict. ](/news/2013/08/18/a-team-of-twenty-un-weapons-inspectors-arrives-in-the-capital-damascus-to-investigate-the-alleged-use-of-chemical-weapons-in-the-conflict.md) _Context: Syrian civil war, chemical weapon_
-4. [Four people are killed and 16 wounded when an extremist takes hostages in Trebes, France. The suspect is killed by police. ](/news/2018/03/23/four-people-are-killed-and-16-wounded-when-an-extremist-takes-hostages-in-tra-bes-france-the-suspect-is-killed-by-police.md) _Context: France_
-5. [People in 150 places across France take to the streets peacefully in a general strike to protest President Macron's economic reforms. Railways, airways, schools and power generation are affected. ](/news/2018/03/22/people-in-150-places-across-france-take-to-the-streets-peacefully-in-a-general-strike-to-protest-president-macron-s-economic-reforms-railwa.md) _Context: France_
+4. [A former French Parliamentarian candidate is arrested for tweeting that the death of Lt-Col Arnaud Beltrame was 'great' and 'one less vote for Emmanuel Macron.' ](/news/2018/03/25/a-former-french-parliamentarian-candidate-is-arrested-for-tweeting-that-the-death-of-lt-col-arnaud-beltrame-was-great-and-one-less-vote-f.md) _Context: French_
+5. [Four people are killed and 16 wounded when an extremist takes hostages in Trebes, France. The suspect is killed by police. ](/news/2018/03/23/four-people-are-killed-and-16-wounded-when-an-extremist-takes-hostages-in-tra-bes-france-the-suspect-is-killed-by-police.md) _Context: French_

@@ -3,7 +3,7 @@ Formats: [HTML](2004/09/12/index.html)  [JSON](2004/09/12/index.json)  [XML](200
 
 ## [2004-09-12](/news/2004/09/12/index.md)
 
-##### Saudi
+##### Saudi Arabia
 ### [ The government of Saudi Arabia announces that the first nationwide elections in the kingdom's history will occur early next year. This is the biggest step toward reform the Gulf state has ever taken, although the government has been promising to hold elections since ](/news/2004/09/12/the-government-of-saudi-arabia-announces-that-the-first-nationwide-elections-in-the-kingdom-s-history-will-occur-early-next-year-this-is-t.md)
 Saudi Arabia will hold its first nationwide elections early next year in a vote for municipal councils seen as the first concrete political reform in the absolute monarchy, the government said on Saturday.
 

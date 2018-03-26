@@ -5,7 +5,7 @@ Formats: [HTML](2010/07/18/index.html)  [JSON](2010/07/18/index.json)  [XML](201
 
 ##### Golf
 ### [Golfer Louis Oosthuizen of South Africa wins the 139th Open Championship, played at the Old Course at St Andrews, Scotland. ](/news/2010/07/18/golfer-louis-oosthuizen-of-south-africa-wins-the-139th-open-championship-played-at-the-old-course-at-st-andrews-scotland.md)
-_Context: 139th, Golf, Louis Oosthuizen, Old Course at St Andrews, Open Championship, Scottish, South Africa_
+_Context: 139th, Golf, Louis Oosthuizen, Old Course at St Andrews, Open Championship, Scotland, South Africa_
 
 ##### Rhino
 ### [Rhinoceros experts worry after the last female in the Krugersdorp game reserve near Johannesburg is attacked by helicopter, shot with tranquiliser guns, and has her horn hacked off by poachers, slowly bleeding to death. ](/news/2010/07/18/rhinoceros-experts-worry-after-the-last-female-in-the-krugersdorp-game-reserve-near-johannesburg-is-attacked-by-helicopter-shot-with-tranqu.md)
@@ -17,15 +17,15 @@ _Context: Benjamin Netanyahu, Chief Rabbinate of Israel, Israeli citizenship, Je
 
 ##### Grenoble
 ### [Police in Grenoble, France arrest four people for attempted murder whom they claim protested the fatal shooting of a man by police. ](/news/2010/07/18/police-in-grenoble-france-arrest-four-people-for-attempted-murder-whom-they-claim-protested-the-fatal-shooting-of-a-man-by-police.md)
-_Context: France, Grenoble_
+_Context: French, Grenoble_
 
 ##### Kuala Lumpur International Airport
 ### [Customs officers at Kuala Lumpur International Airport discover 400 rare tortoises, more than 40 rare tomato frogs and an unidentified number of chameleons bound with masking tape and stuffed into socks allegedly smuggled from Madagascar in the luggage of two women. ](/news/2010/07/18/customs-officers-at-kuala-lumpur-international-airport-discover-400-rare-tortoises-more-than-40-rare-tomato-frogs-and-an-unidentified-numbe.md)
 Customs officers at Kuala Lumpur airport recover more than 400 rare tortoises and frogs smuggled from Madagascar.
 
-##### European Union
+##### EU
 ### [Health experts condemn tobacco companies for openly flouting European Union laws against advertising by using glitzy sales teams and techniques to promote cigarette brands at young people on Facebook and at music festivals. ](/news/2010/07/18/health-experts-condemn-tobacco-companies-for-openly-flouting-european-union-laws-against-advertising-by-using-glitzy-sales-teams-and-techniq.md)
-_Context: European Union, Facebook_
+_Context: EU, Facebook_
 
 ##### Pakistan
 ### [Women rights groups in Pakistan say the life of a woman convicted of adultery is now in grave danger; she faces death by stoning as her man has abandoned her to the courts. ](/news/2010/07/18/women-rights-groups-in-pakistan-say-the-life-of-a-woman-convicted-of-adultery-is-now-in-grave-danger-she-faces-death-by-stoning-as-her-man.md)
@@ -51,7 +51,7 @@ _Context: Guantanamo Bay, Omar Deghayes_
 ### [An Israeli religious group plans to build flats in Ajami, Jaffa. ](/news/2010/07/18/an-israeli-religious-group-plans-to-build-flats-in-ajami-jaffa.md)
 _Context: Ajami, Israel, Jaffa_
 
-##### European Union
+##### EU
 ### [European Union foreign policy chief Catherine Ashton says that Israel must go beyond easing its blockade of Gaza and throw open its long-closed border. ](/news/2010/07/18/european-union-foreign-policy-chief-catherine-ashton-says-that-israel-must-go-beyond-easing-its-blockade-of-gaza-and-throw-open-its-long-clo.md)
 Israel must go beyond easing its blockade of Gaza and throw open its border, EU foreign policy chief Catherine Ashton has said.
 

@@ -45,7 +45,7 @@ _Context: North Korea, South Korea, refugee_
 
 ##### Indonesia
 ### [Indonesia bans its domestic servants from working in Saudi Arabia following the execution of a maid who was beheaded with a sword. ](/news/2011/06/22/indonesia-bans-its-domestic-servants-from-working-in-saudi-arabia-following-the-execution-of-a-maid-who-was-beheaded-with-a-sword.md)
-_Context: Indonesia, Saudi_
+_Context: Indonesia, Saudi Arabia_
 
 ##### Tornado
 ### [A tornado touches down in the US city of Louisville, Kentucky near the University of Louisville Belknap campus, damaging some buildings at the Churchill Downs horse racing track. ](/news/2011/06/22/a-tornado-touches-down-in-the-us-city-of-louisville-kentucky-near-the-university-of-louisville-belknap-campus-damaging-some-buildings-at-t.md)
@@ -65,7 +65,7 @@ _Context: 2011 Puyehue-Cordon Caulle eruption, Australia, New Zealand, Tasmania_
 
 ##### Rolls-Royce
 ### [Rolls-Royce and Qantas announce an out-of-court settlement of their dispute over an Airbus engine explosion over Indonesia in November 2010. ](/news/2011/06/22/rolls-royce-and-qantas-announce-an-out-of-court-settlement-of-their-dispute-over-an-airbus-engine-explosion-over-indonesia-in-november-2010.md)
-_Context: Airbus, Indonesia, Qantas, Rolls-Royce_
+_Context: Airbus, Indonesia, Qantas Airways, Rolls-Royce_
 
 ##### Engage
 ### [2010-2011 Greek protests: Nationwide protests continue as Prime Minister of Greece George Papandreou attempts to pass new cuts in public spending. ](/news/2011/06/22/2010a2011-greek-protests-nationwide-protests-continue-as-prime-minister-of-greece-george-papandreou-attempts-to-pass-new-cuts-in-public-s.md)

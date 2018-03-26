@@ -9,11 +9,11 @@ _Context: Bruce Golding, Jamaica Labour Party, Prime Minister of Jamaica_
 
 ##### Abdullah
 ### [King Abdullah of Saudi Arabia announces reforms giving women the right to vote and run in municipal elections. ](/news/2011/09/25/king-abdullah-of-saudi-arabia-announces-reforms-giving-women-the-right-to-vote-and-run-in-municipal-elections.md)
-_Context: Abdullah, Saudi, the right to vote_
+_Context: Abdullah, Saudi Arabia, the right to vote_
 
 ##### Senate elections
 ### [Senate elections in France result in a left-wing majority, headed by the Socialist Party, for the first time in the history of the Fifth Republic. ](/news/2011/09/25/senate-elections-in-france-result-in-a-left-wing-majority-headed-by-the-socialist-party-for-the-first-time-in-the-history-of-the-fifth-rep.md)
-_Context: Fifth Republic, France, PS, Senate elections, left-wing_
+_Context: Fifth Republic, French, PS, Senate elections, left-wing_
 
 ##### Indiana
 ### [At least five people are shot dead in two locations in the US state of Indiana. ](/news/2011/09/25/at-least-five-people-are-shot-dead-in-two-locations-in-the-us-state-of-indiana.md)

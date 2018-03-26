@@ -21,7 +21,7 @@ _Context: New Zealand parliament, Qian Xun Xue case, court order_
 
 ##### Al Qaeda
 ### [ Al Qaeda's Deputy Leader Ayman al-Zawahri claims that the United States is being defeated in Iraq, Afghanistan, Somalia and North Africa. ](/news/2007/09/20/al-qaeda-s-deputy-leader-ayman-al-zawahri-claims-that-the-united-states-is-being-defeated-in-iraq-afghanistan-somalia-and-north-africa.md)
-_Context: Afghan, Al Qaeda, Ayman al-Zawahri, Iraq, North Africa, Somali, United States_
+_Context: Afghanistan, Al Qaeda, Ayman al-Zawahri, Iraq, North Africa, Somalia, United States_
 
 ##### CNN
 ### [ CNN reports that Iran has released Iranian-American social scientist Kian Tajbakhsh. ](/news/2007/09/20/cnn-reports-that-iran-has-released-iranian-american-social-scientist-kian-tajbakhsh.md)

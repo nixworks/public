@@ -5,7 +5,7 @@ Formats: [HTML](2008/03/17/index.html)  [JSON](2008/03/17/index.json)  [XML](200
 
 ##### Luftwaffe
 ### [ A former Luftwaffe pilot reveals he may have shot down the airplane of French writer and aviator Antoine de Saint Exupery, thus killing him, on July 31, 1944. ](/news/2008/03/17/a-former-luftwaffe-pilot-reveals-he-may-have-shot-down-the-airplane-of-french-writer-and-aviator-antoine-de-saint-exupa-c-ry-thus-killing-hi.md)
-_Context: Antoine de Saint Exupery, France, Luftwaffe, airplane, pilot, writer_
+_Context: Antoine de Saint Exupery, French, Luftwaffe, airplane, pilot, writer_
 
 ##### World War II
 ### [ World War II Royal Australian Navy warship HMAS "Sydney" is discovered off the coast of Western Australia after being missing for 65 years with the loss of all 600+ crew. ](/news/2008/03/17/world-war-ii-royal-australian-navy-warship-hmas-sydney-is-discovered-off-the-coast-of-western-australia-after-being-missing-for-65-years.md)
@@ -13,7 +13,7 @@ The group searching for HMAS Sydney has found the wreckage of the World War II A
 
 ##### Suicide bomber
 ### [ A suicide bomber attacks a NATO convoy in Gereshk in Helmand province of Afghanistan, killing three Afghan civilians. ](/news/2008/03/17/a-suicide-bomber-attacks-a-nato-convoy-in-gereshk-in-helmand-province-of-afghanistan-killing-three-afghan-civilians.md)
-_Context: Afghan, Gereshk, Helmand, NATO, suicide bomber_
+_Context: Afghanistan, Gereshk, Helmand, NATO, suicide bomber_
 
 ##### Uganda
 ### [ Ugandan Lord's Resistance Army leader Joseph Kony enters the Central African Republic, thus violating a ceasefire. ](/news/2008/03/17/ugandan-lord-s-resistance-army-leader-joseph-kony-enters-the-central-african-republic-thus-violating-a-ceasefire.md)
@@ -23,13 +23,13 @@ _Context: Central African Republic, Joseph Kony, Lord's Resistance Army, Uganda,
 ### [ The trial of Jovica Stanisic and Franko Simatovic, two former Serbian State Security Service officers and allies of Slobodan Milosevic, starts at the International Criminal Tribunal for the former Yugoslavia in The Hague. ](/news/2008/03/17/the-trial-of-jovica-stania-ia-and-franko-simatovia-two-former-serbian-state-security-service-officers-and-allies-of-slobodan-miloa-evia.md)
 _Context: Franko Simatovic, International Criminal Tribunal for the former Yugoslavia, Jovica Stanisic, Serbia, Slobodan Milosevic, State Security Service, The Hague_
 
-##### German
+##### Germany
 ### [ German Chancellor Angela Merkel and half of her cabinet visit Israel in a move to upgrade bilateral relations ](/news/2008/03/17/german-chancellor-angela-merkel-and-half-of-her-cabinet-visit-israel-in-a-move-to-upgrade-bilateral-relations.md)
-_Context: Angela Merkel, Chancellor, German, Israel_
+_Context: Angela Merkel, Chancellor, Germany, Israel_
 
-##### France
+##### French
 ### [ French President Nicolas Sarkozy's Union for a Popular Movement party loses the 2008 municipal elections. ](/news/2008/03/17/french-president-nicolas-sarkozy-s-union-for-a-popular-movement-party-loses-the-2008-municipal-elections.md)
-_Context: 2008 municipal elections, France, Nicolas Sarkozy, President of France, UMP_
+_Context: 2008 municipal elections, French, Nicolas Sarkozy, President of France, UMP_
 
 ##### David Paterson
 ### [ David Paterson is sworn in as the new Governor of New York after the Eliot Spitzer prostitution scandal. ](/news/2008/03/17/david-paterson-is-sworn-in-as-the-new-governor-of-new-york-after-the-eliot-spitzer-prostitution-scandal.md)

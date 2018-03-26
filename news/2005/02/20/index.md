@@ -3,9 +3,9 @@ Formats: [HTML](2005/02/20/index.html)  [JSON](2005/02/20/index.json)  [XML](200
 
 ## [2005-02-20](/news/2005/02/20/index.md)
 
-##### European Union
+##### EU
 ### [ The US and EU join the protests against Faure Gnassingbe of Togo. The Economic Community of West African States (ECOWAS) imposes sanctions and suspends Togo's membership in the organization and US does not accept his rule as legitimate and ends all military assistance ](/news/2005/02/20/the-us-and-eu-join-the-protests-against-faure-gnassingba-c-of-togo-the-economic-community-of-west-african-states-ecowas-imposes-sanctions.md)
-_Context: ECOWAS, European Union, Togo, protests against Faure Gnassingbe_
+_Context: ECOWAS, EU, Togo, protests against Faure Gnassingbe_
 
 ##### TRNC
 ### [ The Turkish Republic of Northern Cyprus votes in its early general election. The election was called by President Rauf Denktas after the coalition led by Mehmet Ali Talat finally lost its parliamentary majority. ](/news/2005/02/20/the-turkish-republic-of-northern-cyprus-votes-in-its-early-general-election-the-election-was-called-by-president-rauf-denktaa-after-the-c.md)

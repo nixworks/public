@@ -17,7 +17,7 @@ Scientists said that Ardi, short for Ardipithecus ramidus, was the earliest know
 
 ##### Muslim
 ### [ 12 people are killed in fighting between rival Islamist groups for control of the port city of Kismayo in southern Somalia. ](/news/2009/10/1/12-people-are-killed-in-fighting-between-rival-islamist-groups-for-control-of-the-port-city-of-kismayo-in-southern-somalia.md)
-_Context: Kismayo, Muslim, Somali, port_
+_Context: Kismayo, Muslim, Somalia, port_
 
 ##### Guinea
 ### [ The opposition in Guinea reject a call by the ruling junta to create a unity government. ](/news/2009/10/1/the-opposition-in-guinea-reject-a-call-by-the-ruling-junta-to-create-a-unity-government.md)

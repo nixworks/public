@@ -47,7 +47,7 @@ _Context: Anders Fogh Rasmussen, NATO, Russia_
 ### [The United Nations schedules a new round of talks on the Western Sahara. ](/news/2010/11/3/the-united-nations-schedules-a-new-round-of-talks-on-the-western-sahara.md)
 A new round of talks is scheduled to attempt to break an impasse in the dispute over the Western Sahara territory, the UN says.
 
-##### France
+##### French
 ### [A French court orders the extradition of Rwandan rebel leader Callixte Mbarushimana to stand trial at the International Criminal Court. ](/news/2010/11/3/a-french-court-orders-the-extradition-of-rwandan-rebel-leader-callixte-mbarushimana-to-stand-trial-at-the-international-criminal-court.md)
 A&#x20;French&#x20;court&#x20;approved&#x20;Wednesday&#x20;the&#x20;transfer&#x20;of&#x20;the&#x20;exiled&#x20;Rwandan&#x20;rebel&#x20;leader&#x20;Callixte&#x20;Mbarushimana&#x20;from&#x20;France&#x20;to&#x20;the&#x20;International&#x20;Criminal&#x20;Court&#x20;in&#x20;The&#x20;Hague.&#x20;He&#x20;i...
 

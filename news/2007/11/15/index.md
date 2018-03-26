@@ -43,9 +43,9 @@ _Context: Tamil Tigers, Tamils Rehabilitation Organisation, United States, Unite
 ### [ Celestin Chibalonza, the governor of Sud-Kivu, is impeached for failing to curb violence and mismanaging finances. ](/news/2007/11/15/celestin-chibalonza-the-governor-of-sud-kivu-is-impeached-for-failing-to-curb-violence-and-mismanaging-finances.md)
 _Context: Celestin Chibalonza, Sud-Kivu, impeachment_
 
-##### Saudi
+##### Saudi Arabia
 ### [ A Saudi Arabian gang rape victim is sentenced to jail and 200 lashes for being in the car of an unrelated man. ](/news/2007/11/15/a-saudi-arabian-gang-rape-victim-is-sentenced-to-jail-and-200-lashes-for-being-in-the-car-of-an-unrelated-man.md)
-_Context: Saudi, gang rape, lashes_
+_Context: Saudi Arabia, gang rape, lashes_
 
 ##### Iraqi insurgency
 ### [ Iraqi insurgency: The United States Army announces it has killed 25 insurgents in Taji, but the Taji Awakening Council says airstrikes killed 45 pro-U.S. fighters. ](/news/2007/11/15/iraqi-insurgency-the-united-states-army-announces-it-has-killed-25-insurgents-in-taji-but-the-taji-awakening-council-says-airstrikes-kill.md)
@@ -75,13 +75,13 @@ _Context: Abu Hamza al-Masri, City of Westminster, Egypt, Magistrates' Court, Mu
 ### [ The United Nations General Assembly Third Committee approves a resolution draft that calls for a moratorium on the capital punishment. ](/news/2007/11/15/the-united-nations-general-assembly-third-committee-approves-a-resolution-draft-that-calls-for-a-moratorium-on-the-capital-punishment.md)
 _Context: Third Committee, United Nations, United Nations General Assembly, capital punishment, moratorium, resolution_
 
-##### German
+##### Germany
 ### [ German train drivers extend their strike action against Deutsche Bahn, starting a 48-hour passenger service strike. ](/news/2007/11/15/german-train-drivers-extend-their-strike-action-against-deutsche-bahn-starting-a-48-hour-passenger-service-strike.md)
-_Context: Deutsche Bahn, German, passenger, strike, train driver_
+_Context: Deutsche Bahn, Germany, passenger, strike, train driver_
 
 ##### Public-sector strikes
 ### [ Strikes in France: French transport workers' strike against President Nicolas Sarkozy's pension reform enters its second day, but energy workers and CFDT members return to work. ](/news/2007/11/15/strikes-in-france-french-transport-workers-strike-against-president-nicolas-sarkozy-s-pension-reform-enters-its-second-day-but-energy-wo.md)
-_Context: CFDT, France, Nicolas Sarkozy, President of France, energy, pension reform, public-sector strikes, strike, transport_
+_Context: CFDT, French, Nicolas Sarkozy, President of France, energy, pension reform, public-sector strikes, strike, transport_
 
 ## [Previous Day...](/news/2007/11/14/index.md)
 

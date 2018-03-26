@@ -3,9 +3,9 @@ Formats: [HTML](2008/06/14/index.html)  [JSON](2008/06/14/index.json)  [XML](200
 
 ## [2008-06-14](/news/2008/06/14/index.md)
 
-##### France
+##### French
 ### [ The French Defense Ministry announces France is increasing its military presence in Djibouti following border clashes with Eritrea. France has a mutual defense agreement with Djibouti. ](/news/2008/06/14/the-french-defense-ministry-announces-france-is-increasing-its-military-presence-in-djibouti-following-border-clashes-with-eritrea-france.md)
-_Context: Djibouti, Eritrea, France, border clashes_
+_Context: Djibouti, Eritrea, French, border clashes_
 
 ##### Magnitude
 ### [ The magnitude 6.8 M w 2008 Iwate earthquake shakes Iwate and Miyagi Prefectures on Japan's main island of Honshu, killing at least 6 people and injuring at least 8 others.](/news/2008/06/14/the-magnitude-6-8-m-w-2008-iwate-earthquake-shakes-iwate-and-miyagi-prefectures-on-japan-s-main-island-of-honsha-killing-at-least-6-peopl.md)
@@ -13,7 +13,7 @@ _Context: 2008 Iwate earthquake, Honshu Island, Iwate Prefecture, Japan, Miyagi 
 
 ##### Farah Province
 ### [ A roadside bomb in Farah Province of Afghanistan kills 4 United States troops. ](/news/2008/06/14/a-roadside-bomb-in-farah-province-of-afghanistan-kills-4-united-states-troops.md)
-_Context: Afghan, Farah Province, Military of the United States_
+_Context: Afghanistan, Farah Province, Military of the United States_
 
 ##### Campsfield House
 ### [ A fire breaks out at Campsfield House, a privately run Immigration detention Centre near Oxford in the United Kingdom. ](/news/2008/06/14/a-fire-breaks-out-at-campsfield-house-a-privately-run-immigration-detention-centre-near-oxford-in-the-united-kingdom.md)

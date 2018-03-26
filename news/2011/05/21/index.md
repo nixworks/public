@@ -19,9 +19,9 @@ _Context: James Michel, Seychelles, three day presidential election_
 ### [Alassane Ouattara is inaugurated as President of the Ivory Coast. ](/news/2011/05/21/alassane-ouattara-is-inaugurated-as-president-of-the-ivory-coast.md)
 Ivory Coast stages an inauguration ceremony for President Alassane Ouattara after months of violence and political turmoil.
 
-##### Twitter
+##### Tweeting
 ### [Hundreds of Twitter users post the name of an English Premier League footballer who won a superinjunction to stop details of his affair going public, in protest at the player's attempts to sue the social networking site. ](/news/2011/05/21/hundreds-of-twitter-users-post-the-name-of-an-english-premier-league-footballer-who-won-a-superinjunction-to-stop-details-of-his-affair-goin.md)
-_Context: English Premier League, Twitter, superinjunction_
+_Context: English Premier League, superinjunction, tweeting_
 
 ##### Wen Jiabao
 ### [The Premier of China, Wen Jiabao, and the President of South Korea, Lee Myung-bak, visit areas of northern Japan devastated by the 2011 Tohoku earthquake and tsunami, ahead of a trilateral summit tomorrow. ](/news/2011/05/21/the-premier-of-china-wen-jiabao-and-the-president-of-south-korea-lee-myung-bak-visit-areas-of-northern-japan-devastated-by-the-2011-tah.md)

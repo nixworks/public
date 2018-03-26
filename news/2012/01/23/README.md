@@ -7,7 +7,7 @@ Formats: [HTML](2012/01/23/index.html)  [JSON](2012/01/23/index.json)  [XML](201
 ### [The French Senate passes a bill that makes it illegal for citizens to deny the Armenian Genocide by the Ottoman Empire. ](/news/2012/01/23/the-french-senate-passes-a-bill-that-makes-it-illegal-for-citizens-to-deny-the-armenian-genocide-by-the-ottoman-empire.md)
 The French Senate approves a controversial bill that makes it a criminal offence to deny that Turks committed genocide against Armenians during World War I.
 
-##### European Union
+##### EU
 ### [The European Union imposes more sanctions on Iran's banking and oil industries in response to Iran's nuclear program. ](/news/2012/01/23/the-european-union-imposes-more-sanctions-on-iran-s-banking-and-oil-industries-in-response-to-iran-s-nuclear-program.md)
 Iran says an EU ban on imports of Iranian oil is &quot;unfair&quot; and &quot;doomed to fail&quot;, and will not force it to change course on its nuclear programme.
 

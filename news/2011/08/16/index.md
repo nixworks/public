@@ -29,7 +29,7 @@ _Context: Europe, economy of Germany_
 
 ##### Australia
 ### [Australian airline Qantas announces that it will be cutting 1000 jobs while steel maker OneSteel announces the loss of 400 jobs. ](/news/2011/08/16/australian-airline-qantas-announces-that-it-will-be-cutting-1000-jobs-while-steel-maker-onesteel-announces-the-loss-of-400-jobs.md)
-_Context: Australia, OneSteel, Qantas_
+_Context: Australia, OneSteel, Qantas Airways_
 
 ##### BBC Magazines
 ### [BBC Magazines agrees a GBP12m deal to sell the "Radio Times" &ndash; together with ten other titles &ndash; to Exponent, owner of thetrainline.com.](/news/2011/08/16/bbc-magazines-agrees-a-gbp12m-deal-to-sell-the-radio-times-ndash-together-with-ten-other-titles-ndash-to-exponent-owner-of-thetrainli.md)

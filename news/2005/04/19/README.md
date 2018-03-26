@@ -19,9 +19,9 @@ _Context: European Union Constitution, Greece_
 ### [ Auction house Christie's withdraws an ancient Persian relic from sale when Iran states that it was smuggled out of the country illegally. ](/news/2005/04/19/auction-house-christie-s-withdraws-an-ancient-persian-relic-from-sale-when-iran-states-that-it-was-smuggled-out-of-the-country-illegally.md)
 _Context: Christie's, Iran, Persian_
 
-##### France
+##### French
 ### [ French police state that DNA tests confirm that the body found in the French Alps is Anthony Ashley-Cooper, Earl of Shaftesbury. ](/news/2005/04/19/french-police-state-that-dna-tests-confirm-that-the-body-found-in-the-french-alps-is-anthony-ashley-cooper-earl-of-shaftesbury.md)
-_Context: Anthony Ashley-Cooper, DNA test, Earl of Shaftesbury, France, French Alps_
+_Context: Anthony Ashley-Cooper, DNA test, Earl of Shaftesbury, French, French Alps_
 
 ##### Lebanese
 ### [ Lebanese prime minister Najib Mikati forms a new government to lead the country until the May elections. ](/news/2005/04/19/lebanese-prime-minister-najib-mikati-forms-a-new-government-to-lead-the-country-until-the-may-elections.md)
@@ -77,7 +77,7 @@ _Context: MyPyramid, United States Department of Agriculture, basic food groups,
 
 ##### Papal conclave, 2005
 ### [ Papal conclave, 2005: Ringing bells and white smoke at the Vatican indicate that, after four ballots, a new Pope, German Cardinal Joseph Ratzinger, has been elected. He has taken the regnal name Pope Benedict XVI. ](/news/2005/04/19/papal-conclave-2005-ringing-bells-and-white-smoke-at-the-vatican-indicate-that-after-four-ballots-a-new-pope-german-cardinal-joseph-ra.md)
-_Context: Cardinal, German, Papal conclave, 2005, Pope, Pope Benedict XVI, Vatican City, regnal name, smoke, white_
+_Context: Cardinal, Germany, Papal conclave, 2005, Pope, Pope Benedict XVI, Vatican City, regnal name, smoke, white_
 
 ##### George W. Bush
 ### [ George W. Bush's nomination of John R. Bolton for U.S. Ambassador to the United Nations receives a serious setback when Ohio senator George Voinovich announces in committee that he cannot vote to endorse Bolton for this important diplomatic position. The Senate Foreign Relations Committee agrees to postpone a vote for at least one month while allegations that Bolton abused subordinates is investigated. ](/news/2005/04/19/george-w-bushas-nomination-of-john-r-bolton-for-u-s-ambassador-to-the-united-nations-receives-a-serious-setback-when-ohio-senator-geor.md)

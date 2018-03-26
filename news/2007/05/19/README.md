@@ -19,9 +19,9 @@ _Context: Alvaro Uribe, Colombian President, FARC, Ingrid Betancourt_
 ### [ Romanian voters go to the polls to vote on the impeachment of the President of Romania, Traian Basescu. ](/news/2007/05/19/romanian-voters-go-to-the-polls-to-vote-on-the-impeachment-of-the-president-of-romania-traian-basescu.md)
 _Context: President, Romania, Traian Basescu, go to the polls, impeachment_
 
-##### German
+##### Germany
 ### [ Three German soldiers are killed with four civilians in a suicide bombing in Kunduz in northern Afghanistan. ](/news/2007/05/19/three-german-soldiers-are-killed-with-four-civilians-in-a-suicide-bombing-in-kunduz-in-northern-afghanistan.md)
-_Context: Afghan, German, Kunduz, suicide bombing_
+_Context: Afghanistan, Germany, Kunduz, suicide bombing_
 
 ##### Samoa
 ### [ Former Samoan head of state Malietoa Tanumafili II is buried in Apia. ](/news/2007/05/19/former-samoan-head-of-state-malietoa-tanumafili-ii-is-buried-in-apia.md)

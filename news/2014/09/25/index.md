@@ -5,7 +5,7 @@ Formats: [HTML](2014/09/25/index.html)  [JSON](2014/09/25/index.json)  [XML](201
 
 ##### Ukrainian President
 ### [President of Ukraine Petro Poroshenko announces a wide-ranging reform program entitled Strategy 2020 to prepare Ukraine for applying for European Union membership in 2020. ](/news/2014/09/25/president-of-ukraine-petro-poroshenko-announces-a-wide-ranging-reform-program-entitled-strategy-2020-to-prepare-ukraine-for-applying-for-eur.md)
-_Context: European Union, Petro Poroshenko, Ukrainian President_
+_Context: EU, Petro Poroshenko, Ukrainian President_
 
 ##### Eric Holder
 ### [Eric Holder announces his resignation as Attorney General of the United States, effective from when the Senate confirms a successor. ](/news/2014/09/25/eric-holder-announces-his-resignation-as-attorney-general-of-the-united-states-effective-from-when-the-senate-confirms-a-successor.md)

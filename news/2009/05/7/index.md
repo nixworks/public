@@ -3,7 +3,7 @@ Formats: [HTML](2009/05/7/index.html)  [JSON](2009/05/7/index.json)  [XML](2009/
 
 ## [2009-05-7](/news/2009/05/7/index.md)
 
-##### Somali
+##### Somalia
 ### [ Somali pirates hijack the Netherlands' MV "Marathon" and attack the U.S. Navy cargo ship "Lewis and Clark". ](/news/2009/05/7/somali-pirates-hijack-the-netherlands-mv-marathon-and-attack-the-u-s-navy-cargo-ship-lewis-and-clark.md)
 Pirates seized a Dutch cargo vessel on Thursday, a regional maritime group said, in the latest hijack by gangs proliferating off Somalia despite the presence of patrolling foreign warships.
 

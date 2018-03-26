@@ -19,9 +19,9 @@ _Context: Diego Len Montoya Snchez, Norte Valle Cartel, murder, racketeering_
 ### [ Lubna al-Hussein, the Sudanese woman facing forty lashes for wearing trousers in public, is prevented from leaving the country for a trip to Lebanon, where she was to take part in a televised talk-show about women's issues. ](/news/2009/08/12/lubna-al-hussein-the-sudanese-woman-facing-forty-lashes-for-wearing-trousers-in-public-is-prevented-from-leaving-the-country-for-a-trip-t.md)
 _Context: Lebanese, Lubna al-Hussein, Sudan_
 
-##### German
+##### Germany
 ### [ German CDU politician Vera Lengsfeld attracts controversy for displaying a photo of Angela Merkel in a revealing gown without the authorisation of the Chancellor. ](/news/2009/08/12/german-cdu-politician-vera-lengsfeld-attracts-controversy-for-displaying-a-photo-of-angela-merkel-in-a-revealing-gown-without-the-authorisa.md)
-_Context: Angela Merkel, Chancellor of Germany, Christian Democratic Union, German, Vera Lengsfeld_
+_Context: Angela Merkel, Chancellor of Germany, Christian Democratic Union, Germany, Vera Lengsfeld_
 
 ##### New Zealand Navy
 ### [ New Zealand Navy divers believe they have located the sunken Princess Ashika a week after the accident. ](/news/2009/08/12/new-zealand-navy-divers-believe-they-have-located-the-sunken-princess-ashika-a-week-after-the-accident.md)
@@ -37,7 +37,7 @@ _Context: DR Congo, Gregoire Ndahimana, Rwanda, genocide_
 
 ##### Pakistan
 ### [ Gunmen shoot dead five Pakistani Muslim preachers outside a mosque in Galkayo, Somalia. ](/news/2009/08/12/gunmen-shoot-dead-five-pakistani-muslim-preachers-outside-a-mosque-in-galkayo-somalia.md)
-_Context: Galkayo, Muslim, Pakistan, Somali_
+_Context: Galkayo, Muslim, Pakistan, Somalia_
 
 ##### Wreckage
 ### [ The wreckage of an Airlines PNG De Havilland Twin Otter 300 plane carrying 11 passengers and 2 crew is found near Isurava, Papua New Guinea; there are no signs of survivors. ](/news/2009/08/12/the-wreckage-of-an-airlines-png-de-havilland-twin-otter-300-plane-carrying-11-passengers-and-2-crew-is-found-near-isurava-papua-new-guinea.md)

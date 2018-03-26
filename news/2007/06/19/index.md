@@ -9,7 +9,7 @@ One of the candidates in Papua New Guinea&#039;s elections has been charged with
 
 ##### Fiji
 ### [ Fiji's interim government agrees in principle to elections in 2009, following a Pacific Islands Forum assessment, and calls for assistance from the European Union and Pacific nations like Australia for funding. ](/news/2007/06/19/fiji-s-interim-government-agrees-in-principle-to-elections-in-2009-following-a-pacific-islands-forum-assessment-and-calls-for-assistance.md)
-_Context: 2009, European Union, Fiji, Pacific Islands Forum, election_
+_Context: 2009, EU, Fiji, Pacific Islands Forum, election_
 
 ##### Fossil
 ### [ An early fossil proving that the giant panda was once a pygmy is found. ](/news/2007/06/19/an-early-fossil-proving-that-the-giant-panda-was-once-a-pygmy-is-found.md)

@@ -79,7 +79,7 @@ Two directors who made headlines at the Cannes Film Festival for their conduct o
 
 ##### Taliban
 ### [The Taliban warn that Kazakhstan's decision to send troops to Afghanistan will have "severe consequences". ](/news/2011/05/22/the-taliban-warn-that-kazakhstan-s-decision-to-send-troops-to-afghanistan-will-have-severe-consequences.md)
-_Context: Afghan, Kazakhstan, Taliban_
+_Context: Afghanistan, Kazakhstan, Taliban_
 
 ##### United Kingdom
 ### [The UK's military operation in Iraq will officially end at midnight, after the Royal Navy completes its training of Iraqi sailors. ](/news/2011/05/22/the-uk-s-military-operation-in-iraq-will-officially-end-at-midnight-after-the-royal-navy-completes-its-training-of-iraqi-sailors.md)
@@ -91,7 +91,7 @@ _Context: Karachi, Pakistan Air Force_
 
 ##### African Union
 ### [African Union and Somali troops advance on Mogadishu's Bakara market, a rebel-held area, amid intense fighting. ](/news/2011/05/22/african-union-and-somali-troops-advance-on-mogadishu-s-bakara-market-a-rebel-held-area-amid-intense-fighting.md)
-_Context: African Union, Mogadishu, Somali_
+_Context: African Union, Mogadishu, Somalia_
 
 ##### South Sudan
 ### [South Sudan says the capture of the disputed Abyei region is a "declaration of war". ](/news/2011/05/22/south-sudan-says-the-capture-of-the-disputed-abyei-region-is-a-declaration-of-war.md)
@@ -103,7 +103,7 @@ More than a dozen bomb attacks in and around Baghdad left 18 people dead and mor
 
 ##### Suicide bomber
 ### [Gunmen wearing explosive suicide vests storm a government building in Khost, Afghanistan. ](/news/2011/05/22/gunmen-wearing-explosive-suicide-vests-storm-a-government-building-in-khost-afghanistan.md)
-_Context: Afghan, Afghan government, Khost, suicide bomber_
+_Context: Afghan government, Afghanistan, Khost, suicide bomber_
 
 ##### Civil war
 ### [2011 Libyan civil war: NATO warplanes attack the port of Tripoli and the residence of Libyan leader Muammar Gaddafi. ](/news/2011/05/22/2011-libyan-civil-war-nato-warplanes-attack-the-port-of-tripoli-and-the-residence-of-libyan-leader-muammar-gaddafi.md)

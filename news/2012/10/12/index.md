@@ -15,7 +15,7 @@ The biggest ever independent investigation into police wrongdoing is to be carri
 ### [The British government is dragged into the nationwide scandal surrounding former BBC presenter and DJ Jimmy Savile, who faces hundreds of allegations surrounding his conduct in the presence of teenage girls. ](/news/2012/10/12/the-british-government-is-dragged-into-the-nationwide-scandal-surrounding-former-bbc-presenter-and-dj-jimmy-savile-who-faces-hundreds-of-al.md)
 _Context: Jimmy Savile, recent allegations of sexual abuse_
 
-##### European Union
+##### EU
 ### [The European Union wins the 2012 [[Nobel Peace Prize]; "for over six decades [having] contributed to the advancement of peace and reconciliation, democracy and human rights in Europe". ](/news/2012/10/12/the-european-union-wins-the-2012-nobel-peace-prize-for-over-six-decades-having-contributed-to-the-advancement-of-peace-and-reconcilia.md)
 The European Union has won the Nobel Peace Prize, despite a year marked by riots on streets of many capitals and the looming prospect of an acrimonious break up amid an economic crisis caused by the euro.
 

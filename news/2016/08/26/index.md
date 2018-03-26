@@ -11,9 +11,9 @@ Astronomers have found a galaxy whose mass is similar to the Milky Way, but Drag
 ### [Police and protesters clash in Harare after a court ruled that protests against Robert Mugabe can continue. ](/news/2016/08/26/police-and-protesters-clash-in-harare-after-a-court-ruled-that-protests-against-robert-mugabe-can-continue.md)
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
-##### France
+##### French
 ### [The France Conseil d'Etat suspends Villeneuve-Loubet commune's ban on full-body burkini swimsuits. ](/news/2016/08/26/the-france-conseil-d-atat-suspends-villeneuve-loubet-commune-s-ban-on-full-body-burkini-swimsuits.md)
-_Context: Conseil d'Etat, France, Villeneuve-Loubet, burkini, commune_
+_Context: Conseil d'Etat, French, Villeneuve-Loubet, burkini, commune_
 
 ##### Trial of Oscar Pistorius
 ### [The Johannesburg High Court rejects an appeal against the sentencing of Oscar Pistorius. ](/news/2016/08/26/the-johannesburg-high-court-rejects-an-appeal-against-the-sentencing-of-oscar-pistorius.md)

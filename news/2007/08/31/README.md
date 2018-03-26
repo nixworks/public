@@ -5,7 +5,7 @@ Formats: [HTML](2007/08/31/index.html)  [JSON](2007/08/31/index.json)  [XML](200
 
 ##### War in Afghanistan
 ### [ At least two people are killed and ten others injured by a suicide bomb at the Kabul International Airport in Afghanistan. ](/news/2007/08/31/at-least-two-people-are-killed-and-ten-others-injured-by-a-suicide-bomb-at-the-kabul-international-airport-in-afghanistan.md)
-_Context: Afghan, Kabul International Airport, War in Afghanistan, suicide bomb_
+_Context: Afghanistan, Kabul International Airport, War in Afghanistan, suicide bomb_
 
 ##### Victoria
 ### [ Angry Victorian farmers trap the Premier of Victoria John Brumby and Rural and Regional Development Minister Jacinta Allan as well as advisers and media in a machinery yard outside Colbinabbin, east of Bendigo to raise concerns about the Government's water plans. ](/news/2007/08/31/angry-victorian-farmers-trap-the-premier-of-victoria-john-brumby-and-rural-and-regional-development-minister-jacinta-allan-as-well-as-advis.md)

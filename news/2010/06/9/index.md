@@ -27,7 +27,7 @@ Scientists shed light on Jewish heritage with an in-depth genetic study from com
 ### [The 2010 Millennium Technology Prize is awarded to Swiss solar innovator Michael Gratzel. ](/news/2010/06/9/the-2010-millennium-technology-prize-is-awarded-to-swiss-solar-innovator-michael-gra-tzel.md)
 The inventor of a low-cost solar cell that could create electricity generating windows has won the Millennium Technology Prize.
 
-##### Somali
+##### Somalia
 ### [Somali Defense Minister and warlord Yusuf Mohammed Siad, who was leading a fight against Islamic insurgents in the country, resigns from government. ](/news/2010/06/9/somali-defense-minister-and-warlord-yusuf-mohammed-siad-who-was-leading-a-fight-against-islamic-insurgents-in-the-country-resigns-from-gov.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
@@ -55,7 +55,7 @@ An aid worker in Chad with the UK charity Oxfam has been kidnapped, the interior
 ### [The wife of Ratko Mladic is arrested in Belgrade. ](/news/2010/06/9/the-wife-of-ratko-mladia-is-arrested-in-belgrade.md)
 Wife of Bosnian Serb military leader wanted on charges of genocide is detained.
 
-##### European Union
+##### EU
 ### [The UK government brings forward new rules which make it compulsory for immigrants from outside the European Union, particularly South Asia, to understand the English language. ](/news/2010/06/9/the-uk-government-brings-forward-new-rules-which-make-it-compulsory-for-immigrants-from-outside-the-european-union-particularly-south-asia.md)
 The coalition government is bringing forward new rules requiring many immigrants marrying UK citizens to learn English.
 

@@ -13,7 +13,7 @@ _Context: China, Tibet, sets herself alight_
 
 ##### MP
 ### [British MP John Hemming uses parliamentary privilege to identify a married footballer named on Twitter as having an injunction over an alleged affair as being Ryan Giggs. ](/news/2011/05/23/british-mp-john-hemming-uses-parliamentary-privilege-to-identify-a-married-footballer-named-on-twitter-as-having-an-injunction-over-an-alleg.md)
-_Context: John Hemming, MP, Ryan Giggs, Twitter, injunction over an alleged affair, parliamentary privilege_
+_Context: John Hemming, MP, Ryan Giggs, injunction over an alleged affair, parliamentary privilege, tweeting_
 
 ##### U.S. President
 ### [U.S. President Barack Obama addresses an audience at College Green in Dublin, speaking of strong ties between the United States and Ireland. ](/news/2011/05/23/u-s-president-barack-obama-addresses-an-audience-at-college-green-in-dublin-speaking-of-strong-ties-between-the-united-states-and-ireland.md)
@@ -41,7 +41,7 @@ _Context: Church of Scotland, gay men, lesbian_
 
 ##### Soldiers
 ### [One Australian Army soldier is killed and five others wounded following two bomb explosions in Afghanistan; the total number of Australian soldiers killed in the Afghan conflict now stands at 24. ](/news/2011/05/23/one-australian-army-soldier-is-killed-and-five-others-wounded-following-two-bomb-explosions-in-afghanistan-the-total-number-of-australian-s.md)
-_Context: Afghan, War in Afghanistan, soldiers_
+_Context: Afghanistan, War in Afghanistan, soldiers_
 
 ##### 2011 Yemeni uprising
 ### [2011 Yemeni uprising:The Gulf Cooperation Council suspends mediation efforts in Yemen after President Ali Abdullah Saleh refuses to sign a transition agreement for the third time. ](/news/2011/05/23/2011-yemeni-uprising-the-gulf-cooperation-council-suspends-mediation-efforts-in-yemen-after-president-ali-abdullah-saleh-refuses-to-sign-a-t.md)

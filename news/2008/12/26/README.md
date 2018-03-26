@@ -17,7 +17,7 @@ _Context: Kosovo, Kosovo Liberation Army, Serbia_
 
 ##### China
 ### [ China's People's Liberation Army Navy begins escorting three warships (two destroyers and one replenishment oiler) to the Gulf of Aden to combat piracy in Somalia. ](/news/2008/12/26/china-s-people-s-liberation-army-navy-begins-escorting-three-warships-two-destroyers-and-one-replenishment-oiler-to-the-gulf-of-aden-to-c.md)
-_Context: China, Gulf of Aden, People's Liberation Army Navy, Somali, Somali pirates, destroyer, replenishment oiler, warships_
+_Context: China, Gulf of Aden, People's Liberation Army Navy, Somali pirates, Somalia, destroyer, replenishment oiler, warships_
 
 ## [Previous Day...](/news/2008/12/25/index.md)
 

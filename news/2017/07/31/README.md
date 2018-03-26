@@ -13,7 +13,7 @@ _Context: Kenyan general election, 2017, electoral commission_
 
 ##### 2017 Qatar crisis
 ### [Qatar files a legal complaint at the World Trade Organization (WTO) concerning the embargo imposed by Saudi Arabia, Egypt, Bahrain and United Arab Emirates in June. The parties have 60 days to settle the complaint to avoid WTO litigation. ](/news/2017/07/31/qatar-files-a-legal-complaint-at-the-world-trade-organization-wto-concerning-the-embargo-imposed-by-saudi-arabia-egypt-bahrain-and-unite.md)
-_Context: 2017 Qatar crisis, Bahrain, Egypt, Qatar, Saudi, United Arab Emirates, World Trade Organization_
+_Context: 2017 Qatar crisis, Bahrain, Egypt, Qatar, Saudi Arabia, United Arab Emirates, World Trade Organization_
 
 ##### United States-Venezuela relations
 ### [The United States sanctions Venezuelan President Nicolas Maduro over the controversial Constitutional Assembly election which critics say is an attempt to establish a dictatorship. ](/news/2017/07/31/the-united-states-sanctions-venezuelan-president-nicola-s-maduro-over-the-controversial-constitutional-assembly-election-which-critics-say-i.md)

@@ -29,7 +29,7 @@ _Context: North Korea, United States, begins, terrorism_
 
 ##### Taliban
 ### [ A former Taliban fighter claims that members of the Pakistan military secretly supported the insurgency in Afghanistan by providing training and material support. ](/news/2008/06/26/a-former-taliban-fighter-claims-that-members-of-the-pakistan-military-secretly-supported-the-insurgency-in-afghanistan-by-providing-trainin.md)
-_Context: Afghan, Pakistan, Taliban_
+_Context: Afghanistan, Pakistan, Taliban_
 
 ##### Internet Corporation for Assigned Names and Numbers
 ### [ The Internet Corporation for Assigned Names and Numbers (Icann) relaxes rules on the creation of top-level domain names like .com or .edu, which could pave the way for companies or individuals to create an array of new addresses for the Web. Icann also approves measures that will allow top-level domain names to be written in scripts such as Arabic or Cyrillic. ](/news/2008/06/26/the-internet-corporation-for-assigned-names-and-numbers-icann-relaxes-rules-on-the-creation-of-top-level-domain-names-like-com-or-edu.md)

@@ -53,7 +53,7 @@ _Context: The Lorax_
 
 ##### Burundi
 ### [A soldier from Burundi is killed in an explosion in northern Mogadishu, Somalia. ](/news/2012/03/5/a-soldier-from-burundi-is-killed-in-an-explosion-in-northern-mogadishu-somalia.md)
-_Context: Burundi, Mogadishu, Somali_
+_Context: Burundi, Mogadishu, Somalia_
 
 ##### Battle
 ### [The death toll in a battle between the Yemeni Army and Al-Qaeda on the outskirts of Zinjibar yesterday rises to over 130. ](/news/2012/03/5/the-death-toll-in-a-battle-between-the-yemeni-army-and-al-qaeda-on-the-outskirts-of-zinjibar-yesterday-rises-to-over-130.md)

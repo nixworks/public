@@ -9,7 +9,7 @@ _Context: Norwegian, Senegal, United States, advance fee fraud_
 
 ##### Mogadishu
 ### [ An explosion in a football stadium in Mogadishu, Somalia kills 15 people when new prime minister Ali Mohammed Ghedi begins his speech. Authorities later state that a security guard accidentally set off a grenade. ](/news/2005/05/3/an-explosion-in-a-football-stadium-in-mogadishu-somalia-kills-15-people-when-new-prime-minister-ali-mohammed-ghedi-begins-his-speech-auth.md)
-_Context: Ali Mohammed Ghedi, Mogadishu, Somali, grenade_
+_Context: Ali Mohammed Ghedi, Mogadishu, Somalia, grenade_
 
 ##### Indonesia
 ### [ Indonesian authorities confirm second case of polio. ](/news/2005/05/3/indonesian-authorities-confirm-second-case-of-polio.md)

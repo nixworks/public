@@ -3,7 +3,7 @@ Formats: [HTML](2007/10/19/index.html)  [JSON](2007/10/19/index.json)  [XML](200
 
 ## [2007-10-19](/news/2007/10/19/index.md)
 
-##### European Union
+##### EU
 ### [ Leaders of the European Union reach agreement on the Lisbon Treaty following last-minute concessions to Poland, Italy and Bulgaria. ](/news/2007/10/19/leaders-of-the-european-union-reach-agreement-on-the-lisbon-treaty-following-last-minute-concessions-to-poland-italy-and-bulgaria.md)
 European Union (EU) leaders have reached agreement on the last main obstacles to a treaty to reform the bloc&#039;s ailing institutions, making last-minute concessions to Italy and Poland, EU sources have said.
 
@@ -55,9 +55,9 @@ _Context: Washington, midwestern_
 ### [ The Dow Jones Industrial Average drops 369.1 points, or 2.7%, on the 20th anniversary of Black Monday. ](/news/2007/10/19/the-dow-jones-industrial-average-drops-369-1-points-or-2-7-on-the-20th-anniversary-of-black-monday.md)
 _Context: Black Monday, Dow Jones Industrial Average_
 
-##### European Union
+##### EU
 ### [ EU leaders agree in Lisbon that the transcription "evro" (evro) will be used in Bulgarian translations of the euro in official EU documents. ](/news/2007/10/19/eu-leaders-agree-in-lisbon-that-the-transcription-ed2nd3-4-evro-will-be-used-in-bulgarian-translations-of-the-euro-in-official-eu-docume.md)
-_Context: Bulgaria, European Union, Lisbon, euro, transcription_
+_Context: Bulgaria, EU, Lisbon, euro, transcription_
 
 ## [Previous Day...](/news/2007/10/18/index.md)
 

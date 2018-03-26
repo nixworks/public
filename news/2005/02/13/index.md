@@ -3,9 +3,9 @@ Formats: [HTML](2005/02/13/index.html)  [JSON](2005/02/13/index.json)  [XML](200
 
 ## [2005-02-13](/news/2005/02/13/index.md)
 
-##### German
+##### Germany
 ### [ Germans mark the 60th anniversary of the Dresden fire bombing. ](/news/2005/02/13/germans-mark-the-60th-anniversary-of-the-dresden-fire-bombing.md)
-_Context: Dresden fire bombing, German_
+_Context: Dresden fire bombing, Germany_
 
 ##### Nun
 ### [ Sister Lucia de Jesus Santos dies. She was the last survivor of three children to whom the Virgin Mary is said to have appeared at Fatima in central Portugal in 1917. ](/news/2005/02/13/sister-lucia-de-jesus-santos-dies-she-was-the-last-survivor-of-three-children-to-whom-the-virgin-mary-is-said-to-have-appeared-at-fatima-i.md)

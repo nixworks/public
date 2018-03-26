@@ -37,7 +37,7 @@ At least four people were killed in the shooting at Fort Hood, a toll that inclu
 
 ##### Kabul
 ### [A suicide bomber wearing a military uniform strikes a voter registration office in Kabul, Afghanistan killing 6 police officers. ](/news/2014/04/2/a-suicide-bomber-wearing-a-military-uniform-strikes-a-voter-registration-office-in-kabul-afghanistan-killing-6-police-officers.md)
-_Context: Afghan, Kabul_
+_Context: Afghanistan, Kabul_
 
 ##### Cairo University
 ### [A bomb detonates near Cairo University killing a police chief and injuring 5 others. ](/news/2014/04/2/a-bomb-detonates-near-cairo-university-killing-a-police-chief-and-injuring-5-others.md)

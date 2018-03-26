@@ -9,7 +9,7 @@ _Context: 2008, Barack Obama, Democrat, Illinois, Old State Capitol, Senate, Spr
 
 ##### Two years of helping
 ### [ War in Somalia: Somali Prime Minister Ali Mohammed Ghedi modifies the roster of the Transitional Federal Government by removing army chief-of-staff Ismail Qasim Naji and assigning him as ambassador to Oman, while also appointing new ambassadors to Kenya, Djibouti, and Yemen. Meanwhile, the Somali People's Resistance Movement emerges as an insurgency movement out of the underground members of the Islamic Courts Union. ](/news/2007/02/10/war-in-somalia-somali-prime-minister-ali-mohammed-ghedi-modifies-the-roster-of-the-transitional-federal-government-by-removing-army-chief.md)
-_Context: Ali Mohammed Ghedi, Djibouti, Islamic Courts Union, Ismail Qasim Naji, Kenya, Oman, Prime Minister of Somalia, Somali, Somali People's Resistance Movement, Transitional Federal Government, Yemen, insurgency, two years of helping, underground_
+_Context: Ali Mohammed Ghedi, Djibouti, Islamic Courts Union, Ismail Qasim Naji, Kenya, Oman, Prime Minister of Somalia, Somali People's Resistance Movement, Somalia, Transitional Federal Government, Yemen, insurgency, two years of helping, underground_
 
 ##### Russia
 ### [ Russian President Vladimir Putin criticizes the United States for its "almost uncontained" use of force around the world during his speech at the 43rd annual Munich Conference on Security Policy. ](/news/2007/02/10/russian-president-vladimir-putin-criticizes-the-united-states-for-its-almost-uncontained-use-of-force-around-the-world-during-his-speech.md)

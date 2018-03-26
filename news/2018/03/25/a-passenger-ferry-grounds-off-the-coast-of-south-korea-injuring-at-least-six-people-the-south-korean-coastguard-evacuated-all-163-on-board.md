@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/25/a-passenger-ferry-grounds-off-the-coast-of-sout
 
 ### [2018-03-25](/news/2018/03/25/index.md)
 
-##### Ferry accidents
+##### South Korean ferry disasters
 # A passenger ferry grounds off the coast of South Korea, injuring at least six people. The South Korean Coastguard evacuated all 163 on board. 
 
 MOKPO, South Korea: South Korea&#039;s coast guard said it rescued all 163 people aboard a ferry that hit a large rock in waters off the country&#039;s southwestern coast on Sunday (Mar 24), according to an Associate Press report. At least six people suffered mild injuries from the accident, which happened near Shinan county, 400km south of Seoul. The liner with 158 passengers and five crew were taken to shore on coast guard vessels and civilian fishing boats. A Coast Guard official was quoted by AP as saying it appeared that the ferry hit the rock as it was trying to avoid a fishing boat while travelling in foggy waters. Another coast guard official, from the nearby port of Mokpo, said his department planned to question the ferry’s captain and crew members to investigate the cause of the crash. Tests from alcohol detectors showed that none of them had been drinking before the accident, he reportedly said. The accident happened not far from where a ferry, the MV Sewol, sank and killed more than 300 people in 2014, triggering a national outpouring of grief and soul-searching over lax safety standards. 

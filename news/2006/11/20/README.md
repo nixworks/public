@@ -11,7 +11,7 @@ _Context: Huntsville, Alabama, Interstate 565_
 ### [ Andrs Manuel Lpez Obrador, who was narrowly defeated in the Mexican general election, is proclaimed "Legitimate President of Mexico" by his supporters and promises to set up a "parallel government". ](/news/2006/11/20/andres-manuel-lopez-obrador-who-was-narrowly-defeated-in-the-mexican-general-election-is-proclaimed-legitimate-president-of-mexico-by-h.md)
 _Context: Andrs Manuel Lpez Obrador, Mexican general election_
 
-##### German
+##### Germany
 ### [ An 18-year-old armed man takes hostage several children and teachers of his former school in the German town of Emsdetten. He dies from bullet wounds. According to a police spokesman, these wounds were self-inflicted. Several hostages are injured. ](/news/2006/11/20/an-18-year-old-armed-man-takes-hostage-several-children-and-teachers-of-his-former-school-in-the-german-town-of-emsdetten-he-dies-from-bul.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 

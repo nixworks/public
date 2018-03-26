@@ -25,7 +25,7 @@ Chinese Nationalist Party (KMT) chief Ma Ying-jeou (馬英九) stepped down
 
 ##### Berlin
 ### [ A small business jet heading to Berlin, Germany crashes during take-off at Vnukovo airport in Moscow, Russia. ](/news/2007/02/13/a-small-business-jet-heading-to-berlin-germany-crashes-during-take-off-at-vnukovo-airport-in-moscow-russia.md)
-_Context: Berlin, German, Moscow, Russia, Vnukovo airport_
+_Context: Berlin, Germany, Moscow, Russia, Vnukovo airport_
 
 ##### Tornado
 ### [ A tornado strikes New Orleans, Louisiana leaving one dead and three people injured. ](/news/2007/02/13/a-tornado-strikes-new-orleans-louisiana-leaving-one-dead-and-three-people-injured.md)

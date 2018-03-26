@@ -33,7 +33,7 @@ Three ships loaded with 350 tonnes of food were also set to leave an Iranian por
 
 ##### Ukraine-European Union relations
 ### [The European Union's visa-free regime for Ukraine officially enters into force. ](/news/2017/06/11/the-european-union-s-visa-free-regime-for-ukraine-officially-enters-into-force.md)
-_Context: European Union, Ukraine-European Union relations, Ukrainian, visa_
+_Context: EU, Ukraine-European Union relations, Ukrainian, visa_
 
 ##### 71st Tony Awards
 ### [The Tony Awards are held in New York City with "Dear Evan Hansen" winning six awards including Best Musical and "Oslo" winning best play. ](/news/2017/06/11/the-tony-awards-are-held-in-new-york-city-with-dear-evan-hansen-winning-six-awards-including-best-musical-and-oslo-winning-best-play.md)

@@ -43,9 +43,9 @@ _Context: Canada, Commission on the Status of Women, Iran, Iranian human rights,
 ### [The United Nations investigates reports of a possible massacre of 100 people by Ugandan rebels in the Democratic Republic of the Congo. ](/news/2010/05/2/the-united-nations-investigates-reports-of-a-possible-massacre-of-100-people-by-ugandan-rebels-in-the-democratic-republic-of-the-congo.md)
 _Context: DR Congo, Uganda, United Nations_
 
-##### European Union
+##### EU
 ### [The European Union and the International Monetary Fund agree to a bailout package for Greece that will provide approximately EUR120 billion to end the sovereign debt crisis in that country. ](/news/2010/05/2/the-european-union-and-the-international-monetary-fund-agree-to-a-bailout-package-for-greece-that-will-provide-approximately-a-120-billion.md)
-_Context: European Union, Greece, International Monetary Fund, economically troubled euro-zone nations_
+_Context: EU, Greece, International Monetary Fund, economically troubled euro-zone nations_
 
 ##### Hollywood
 ### [Notable Hollywood personalities, including Steven Spielberg, Martin Scorsese, Robert De Niro, Robert Redford and Francis Ford Coppola, sign a petition asking the Iranian government to release director Jafar Panahi, who was arrested alongside his wife, daughter and 15 other guests at his home on 1 March. ](/news/2010/05/2/notable-hollywood-personalities-including-steven-spielberg-martin-scorsese-robert-de-niro-robert-redford-and-francis-ford-coppola-sign.md)

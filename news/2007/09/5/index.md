@@ -41,7 +41,7 @@ _Context: Gaza Strip, Israel_
 
 ##### War in Afghanistan (2001-present)
 ### [ War in Afghanistan: Afghan and U.S led coalition forces kill 20 insurgents while two Afghan policeman die in a bomb attack. ](/news/2007/09/5/war-in-afghanistan-afghan-and-u-s-led-coalition-forces-kill-20-insurgents-while-two-afghan-policeman-die-in-a-bomb-attack.md)
-_Context: Afghan, United States, War in Afghanistan (2001-present)_
+_Context: Afghanistan, United States, War in Afghanistan (2001-present)_
 
 ##### Terrorism
 ### [ Three suspects arrested on terrorism charges yesterday appear before the Federal Court of Justice of Germany in Karlsruhe. ](/news/2007/09/5/three-suspects-arrested-on-terrorism-charges-yesterday-appear-before-the-federal-court-of-justice-of-germany-in-karlsruhe.md)
@@ -77,7 +77,7 @@ Sen. Larry Craig has all but dropped any notion of trying to complete his term, 
 
 ##### William Hoeveler
 ### [ Judge William Hoeveler places a stay on ex-Panamanian leader Manuel Noriega's extradition from the United States to France so that his defence can present a new appeal. ](/news/2007/09/5/judge-william-hoeveler-places-a-stay-on-ex-panamanian-leader-manuel-noriega-s-extradition-from-the-united-states-to-france-so-that-his-defe.md)
-_Context: France, Manuel Noriega, Panama, United States, William Hoeveler, extradition_
+_Context: French, Manuel Noriega, Panama, United States, William Hoeveler, extradition_
 
 ##### Fred Thompson
 ### [ Fred Thompson, a former U.S. Senator and actor, announces that he is a candidate for the Republican nomination in the 2008 presidential election. ](/news/2007/09/5/fred-thompson-a-former-u-s-senator-and-actor-announces-that-he-is-a-candidate-for-the-republican-nomination-in-the-2008-presidential-ele.md)
@@ -99,9 +99,9 @@ _Context: 2007 general election, Encuentro por Guatemala Party, Rigoberta Menchu
 ### [ A Congressional committee has voted to remove the President of the Senate of Brazil Renan Calheiros as a result of a corruption scandal. ](/news/2007/09/5/a-congressional-committee-has-voted-to-remove-the-president-of-the-senate-of-brazil-renan-calheiros-as-a-result-of-a-corruption-scandal.md)
 _Context: Brazilian Senate, Congress, Renan Calheiros_
 
-##### Somali
+##### Somalia
 ### [ A battle between Somali police and insurgents in Mogadishu results in six casualties. ](/news/2007/09/5/a-battle-between-somali-police-and-insurgents-in-mogadishu-results-in-six-casualties.md)
-_Context: Mogadishu, Somali_
+_Context: Mogadishu, Somalia_
 
 ## [Previous Day...](/news/2007/09/4/index.md)
 

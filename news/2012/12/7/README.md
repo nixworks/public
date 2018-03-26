@@ -17,7 +17,7 @@ Visiting leader Khaled Meshal used a Hamas anniversary rally to restate
 
 ##### Ireland
 ### [Irish state broadcaster RTE is to provide staff training on what subjects are appropriate for discussion on social media sites such as Twitter following several controversies involving tweets from its employees. ](/news/2012/12/7/irish-state-broadcaster-rta-is-to-provide-staff-training-on-what-subjects-are-appropriate-for-discussion-on-social-media-sites-such-as-twit.md)
-_Context: Ireland, RTE, Twitter_
+_Context: Ireland, RTE, tweeting_
 
 ##### Google
 ### [Google launches its new platform Google+ communities. ](/news/2012/12/7/google-launches-its-new-platform-google-communities.md)

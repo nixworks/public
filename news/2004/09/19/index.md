@@ -5,7 +5,7 @@ Formats: [HTML](2004/09/19/index.html)  [JSON](2004/09/19/index.json)  [XML](200
 
 ##### Parliament of Turkey
 ### [ The Parliament of Turkey adjourns without passing an important reform of its penal code&mdash;intended to prepare the country for membership in the European Union&mdash;due to a dispute over a controversial proposal (opposed by the EU) to criminalize adultery. ](/news/2004/09/19/the-parliament-of-turkey-adjourns-without-passing-an-important-reform-of-its-penal-code-mdash-intended-to-prepare-the-country-for-membershi.md)
-_Context: European Union, European Union candidacy, Parliament of Turkey, adultery, penal code_
+_Context: EU, European Union candidacy, Parliament of Turkey, adultery, penal code_
 
 ##### George E. Trelease Memorial Baseball Park
 ### [ The George E. Trelease Memorial Baseball Park at Western New England College in Springfield, Massachusetts, is dedicated. ](/news/2004/09/19/the-george-e-trelease-memorial-baseball-park-at-western-new-england-college-in-springfield-massachusetts-is-dedicated.md)

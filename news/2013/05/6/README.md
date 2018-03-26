@@ -31,7 +31,7 @@ An Air Force officer in charge of the Sexual Assault Prevention and Response Off
 ### [According to the FBI, a terror attack is disrupted when US authorities raid a mobile home in Montevideo, Minnesota, United States. ](/news/2013/05/6/according-to-the-fbi-a-terror-attack-is-disrupted-when-us-authorities-raid-a-mobile-home-in-montevideo-minnesota-united-states.md)
 The FBI says it believes &quot;a terror attack was disrupted&quot; when authorities raided a US mobile home.
 
-##### German
+##### Germany
 ### [Germany arrests a 93-year-old, alleged former Auschwitz guard, Hans Lipschis, on charges of murder. ](/news/2013/05/6/germany-arrests-a-93-year-old-alleged-former-auschwitz-guard-hans-lipschis-on-charges-of-murder.md)
 A 93-year-old alleged ex-guard at the Auschwitz extermination camp, Hans Lipschis, is arrested in Germany on suspicion of complicity in murder.
 

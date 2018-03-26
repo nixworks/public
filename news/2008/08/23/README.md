@@ -29,7 +29,7 @@ _Context: Northwestern Pakistan, Swat, Pakistan, War in North-West Pakistan_
 
 ##### War in Somalia (2006-09)
 ### [ Two journalists and three other people are abducted by gunmen near Elasha, Somalia. ](/news/2008/08/23/two-journalists-and-three-other-people-are-abducted-by-gunmen-near-elasha-somalia.md)
-_Context: Elasha, Somali, War in Somalia (2006-09)_
+_Context: Elasha, Somalia, War in Somalia (2006-09)_
 
 ## [Previous Day...](/news/2008/08/22/index.md)
 

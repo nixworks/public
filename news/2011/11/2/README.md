@@ -9,7 +9,7 @@ _Context: Chinese, Shenzhou 8, Tiangong 1, space station_
 
 ##### Greece
 ### [The Greek Cabinet unanimously supports plans by Prime Minister George Papandreou to hold a referendum on the European Union's proposed economic rescue plan. ](/news/2011/11/2/the-greek-cabinet-unanimously-supports-plans-by-prime-minister-george-papandreou-to-hold-a-referendum-on-the-european-union-s-proposed-econo.md)
-_Context: European Union, George Papandreou, Greece, Greek Prime Minister, referendum_
+_Context: EU, George Papandreou, Greece, Greek Prime Minister, referendum_
 
 ##### Russia
 ### [Russia and Georgia strike a deal that will allow Russia to enter the World Trade Organization. ](/news/2011/11/2/russia-and-georgia-strike-a-deal-that-will-allow-russia-to-enter-the-world-trade-organization.md)
@@ -41,7 +41,7 @@ Six girls aged between 10 and 12 are among eight people killed in a level crossi
 
 ##### Alexis Jenni
 ### [French author Alexis Jenni wins France's literary Prix Goncourt for his novel "L'Art franais de la guerre". ](/news/2011/11/2/french-author-alexis-jenni-wins-france-s-literary-prix-goncourt-for-his-novel-l-art-francais-de-la-guerre.md)
-_Context: Alexis Jenni, France, L'Art franais de la guerre, Prix Goncourt_
+_Context: Alexis Jenni, French, L'Art franais de la guerre, Prix Goncourt_
 
 ## [Previous Day...](/news/2011/11/1/index.md)
 

@@ -25,7 +25,7 @@ _Context: Fort Collins, Colorado, United States_
 
 ##### 2017 Antwerp attack
 ### [A man drives into a crowd of pedestrians in Antwerp, Belgium, injuring several people. Police arrest the man, who is believed to be North African born and living in France. ](/news/2017/03/23/a-man-drives-into-a-crowd-of-pedestrians-in-antwerp-belgium-injuring-several-people-police-arrest-the-man-who-is-believed-to-be-north-af.md)
-_Context: 2017 Antwerp attack, Antwerp, Belgium, France_
+_Context: 2017 Antwerp attack, Antwerp, Belgium, French_
 
 ##### War in Afghanistan (2015-present)
 ### [Taliban insurgents seize control of the strategic town of Sangin in the southern Helmand Province after a year-long battle with Afghan security forces. ](/news/2017/03/23/taliban-insurgents-seize-control-of-the-strategic-town-of-sangin-in-the-southern-helmand-province-after-a-year-long-battle-with-afghan-secur.md)

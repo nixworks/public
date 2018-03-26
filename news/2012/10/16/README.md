@@ -71,9 +71,9 @@ Two al Qaeda militants and two tribesmen allied to the army were killed in an at
 ### [Several structures were set ablaze and as many as 24 militants were killed after suspected bombing Boko Haram attacks rocked the Nigerian city of Maiduguri. ](/news/2012/10/16/several-structures-were-set-ablaze-and-as-many-as-24-militants-were-killed-after-suspected-bombing-boko-haram-attacks-rocked-the-nigerian-ci.md)
 Loud explosions and gunfire rock the northern Nigerian city of Maiduguri - the military says 24 militants from Islamist group Boko Haram were killed.
 
-##### Saudi
+##### Saudi Arabia
 ### [Saudi Arabia's official news agency reports that a hand grenade explosion at the King Abdulaziz military academy in Riyadh kills one cadet and injures nine. ](/news/2012/10/16/saudi-arabiaas-official-news-agency-reports-that-a-hand-grenade-explosion-at-the-king-abdulaziz-military-academy-in-riyadh-kills-one-cadet.md)
-_Context: Riyadh, Saudi_
+_Context: Riyadh, Saudi Arabia_
 
 ##### Senkaku Islands dispute
 ### [Senkaku Islands dispute: Seven People's Liberation Army Navy warships are spotted by Japanese helicopters outside Japanese territorial waters near Yonaguni. ](/news/2012/10/16/senkaku-islands-dispute-seven-people-s-liberation-army-navy-warships-are-spotted-by-japanese-helicopters-outside-japanese-territorial-water.md)

@@ -13,7 +13,7 @@ _Context: Bersatu, Muslim, Patani United Liberation Organisation, Thailand_
 
 ##### NATO
 ### [ NATO expands its security mission to the whole of Afghanistan, taking command of more than 13,000 U.S. troops in the east of the country. ](/news/2006/10/5/nato-expands-its-security-mission-to-the-whole-of-afghanistan-taking-command-of-more-than-13-000-u-s-troops-in-the-east-of-the-country.md)
-_Context: Afghan, NATO_
+_Context: Afghanistan, NATO_
 
 ##### NTV
 ### [ NTV television in Turkey reports that 260 Turkish soldiers will join the peacekeeping force in Lebanon. ](/news/2006/10/5/ntv-television-in-turkey-reports-that-260-turkish-soldiers-will-join-the-peacekeeping-force-in-lebanon.md)
@@ -39,9 +39,9 @@ _Context: Abu Ayyub al-Masri, Abu Hamza al-Muhajir, Abu Musab al-Zarqawi, Al-Qae
 ### [ The House Ethics Committee issued four dozen subpoenas to members of Congress and aides to discover who was aware of explicit exchanges between former representative Mark Foley and underage Congressional pages. ](/news/2006/10/5/the-house-ethics-committee-issued-four-dozen-subpoenas-to-members-of-congress-and-aides-to-discover-who-was-aware-of-explicit-exchanges-bet.md)
 _Context: Mark Foley, Mark Foley scandal, United States House Committee on Standards of Official Conduct_
 
-##### German
+##### Germany
 ### [ German authorities uncover 51 skeletons from a mass grave at the village of Menden-Barge in the Sauerland region of the country, thought to be remains of victims of Nazi atrocities during World War II. ](/news/2006/10/5/german-authorities-uncover-51-skeletons-from-a-mass-grave-at-the-village-of-menden-barge-in-the-sauerland-region-of-the-country-thought-to.md)
-_Context: German, Nazi, Sauerland, World War II, mass grave_
+_Context: Germany, Nazi, Sauerland, World War II, mass grave_
 
 ##### Dow Jones Industrial Average
 ### [ The Dow Jones Industrial Average closes at a record high for the third day in a row. ](/news/2006/10/5/the-dow-jones-industrial-average-closes-at-a-record-high-for-the-third-day-in-a-row.md)

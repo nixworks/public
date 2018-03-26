@@ -53,7 +53,7 @@ Israel reveals plans to build nearly 1,300 housing units for Jewish settlers in 
 
 ##### Obama administration
 ### [The Obama administration bans cargo shipments from Somalia in the wake of the Yemen bomb attacks. ](/news/2010/11/8/the-obama-administration-bans-cargo-shipments-from-somalia-in-the-wake-of-the-yemen-bomb-attacks.md)
-_Context: Obama administration, Somali, Yemen bomb attacks_
+_Context: Obama administration, Somalia, Yemen bomb attacks_
 
 ##### U.S. President
 ### [President of the United States Barack Obama backs a permanent seat for India on the UN Security Council. ](/news/2010/11/8/president-of-the-united-states-barack-obama-backs-a-permanent-seat-for-india-on-the-un-security-council.md)
@@ -87,7 +87,7 @@ Australian airline Qantas says it is keeping its Airbus A380s grounded for furth
 ### [Global Green Growth conference ends in Copenhagen. ](/news/2010/11/8/global-green-growth-conference-ends-in-copenhagen.md)
 _Context: Copenhagen, Global Green Growth_
 
-##### France
+##### French
 ### [French novelist Michel Houellebecq wins the Prix Goncourt for his book "La Carte et le Territoire" ("The Map and the Territory"). ](/news/2010/11/8/french-novelist-michel-houellebecq-wins-the-prix-goncourt-for-his-book-la-carte-et-le-territoire-the-map-and-the-territory.md)
 Michel Houellebecq, France&#039;s best-known novelist, has finally won the country&#039;s most prestigious literary award after a series of high profile snubs for previous works.
 

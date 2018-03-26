@@ -37,7 +37,7 @@ _Context: Bulgaria, Yambol, bus, crashes_
 
 ##### General Motors
 ### [ General Motors asks Germany to indebt its subsidiary automakers Opel and Vauxhall Motors. ](/news/2009/05/28/general-motors-asks-germany-to-indebt-its-subsidiary-automakers-opel-and-vauxhall-motors.md)
-_Context: General Motors, German, Opel, Vauxhall Motors, automakers, indebt, subsidiary_
+_Context: General Motors, Germany, Opel, Vauxhall Motors, automakers, indebt, subsidiary_
 
 ## [Previous Day...](/news/2009/05/27/index.md)
 

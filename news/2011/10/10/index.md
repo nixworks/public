@@ -23,9 +23,9 @@ _Context: Bank of Greece, Proton Bank_
 ### [American economists Thomas J. Sargent and Christopher A. Sims win the 2011 Nobel Memorial Prize in Economic Sciences. ](/news/2011/10/10/american-economists-thomas-j-sargent-and-christopher-a-sims-win-the-2011-nobel-memorial-prize-in-economic-sciences.md)
 _Context: American, Christopher A. Sims, Nobel Memorial Prize in Economic Sciences, Thomas J. Sargent_
 
-##### France
+##### French
 ### [France and Belgium agree to break up and partially nationalize Dexia, Belgium's largest bank. ](/news/2011/10/10/france-and-belgium-agree-to-break-up-and-partially-nationalize-dexia-belgium-s-largest-bank.md)
-_Context: Belgium, Dexia, France_
+_Context: Belgium, Dexia, French_
 
 ##### Iran
 ### [Iranian actress Marzieh Vafamehr is sentenced to 90 lashes of the cane and a year's jail in Tehran for appearing in the film "My Tehran For Sale" which criticises the Government of Iran's harsh policies on the arts. ](/news/2011/10/10/iranian-actress-marzieh-vafamehr-is-sentenced-to-90-lashes-of-the-cane-and-a-year-s-jail-in-tehran-for-appearing-in-the-film-my-tehran-for.md)

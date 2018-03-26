@@ -5,7 +5,7 @@ Formats: [HTML](2015/12/26/index.html)  [JSON](2015/12/26/index.json)  [XML](201
 
 ##### Louisville, Kentucky
 ### [ In the Louisville community of St. Matthews, Kentucky, US, disruptive behavior by a crowd of up to 2,000 teenagers and young adults, including numerous fights and unconfirmed reports of gunshots fired, causes Mall St. Matthews, one of the largest shopping malls in the state, to close early. Despite the unrest, no arrests were made and only minor injuries were reported. ](/news/2015/12/26/in-the-louisville-community-of-st-matthews-kentucky-us-disruptive-behavior-by-a-crowd-of-up-to-2-000-teenagers-and-young-adults-includ.md)
-_Context: Louisville, Kentucky, Mall St. Matthews, St. Matthews, Kentucky, shopping mall_
+_Context: Louisville, Kentucky, Mall St. Matthews, St. Matthews, Kentucky, shopping center_
 
 ##### Chinese Foreign Ministry spokesperson
 ### [China's Foreign Ministry announces French journalist Ursula Gauthier of news magazine L'Obs would not be issued press credentials for 2016, effectively expelling her at the end of month. Gauthier allegedly made speculative reports on the deadly attack at a coal mine in Xinjiang. ](/news/2015/12/26/china-s-foreign-ministry-announces-french-journalist-ursula-gauthier-of-news-magazine-l-obs-would-not-be-issued-press-credentials-for-2016.md)
@@ -13,7 +13,7 @@ China is &#039;expelling&#039; a French journalist for writing article critical 
 
 ##### December 2015 Hindu Kush earthquake
 ### [Officials report at least four people died and more than 100 were injured, most in Pakistan, after Friday night's 6.3 magnitude earthquake in northeast Afghanistan. Casualty numbers may change since rescue teams have not reached all affected areas. ](/news/2015/12/26/officials-report-at-least-four-people-died-and-more-than-100-were-injured-most-in-pakistan-after-friday-night-s-6-3-magnitude-earthquake-i.md)
-_Context: Afghan, December 2015 Hindu Kush earthquake, Pakistan, magnitude_
+_Context: Afghanistan, December 2015 Hindu Kush earthquake, Pakistan, magnitude_
 
 ##### Tornadoes of 2015
 ### [The death toll in the spring-like, tornado-laden storms that began Wednesday in the American South has risen to 18 with additional tornadoes hitting north-central Alabama Friday and one outside of Dallas, Texas, today. ](/news/2015/12/26/the-death-toll-in-the-spring-like-tornado-laden-storms-that-began-wednesday-in-the-american-south-has-risen-to-18-with-additional-tornadoes.md)

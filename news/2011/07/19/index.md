@@ -69,11 +69,11 @@ _Context: Kyrgyzstan, Uzbekistan, earthquake_
 
 ##### Israeli Navy
 ### [Israel's navy confiscates a French yacht bound for Gaza, which departed from Greece and attempted to run the blockade after repeated warnings to make for Ashdod instead. No casualties are reported. ](/news/2011/07/19/israel-s-navy-confiscates-a-french-yacht-bound-for-gaza-which-departed-from-greece-and-attempted-to-run-the-blockade-after-repeated-warning.md)
-_Context: Ashdod, France, Gaza Strip, Greece, Israeli Navy, blockade_
+_Context: Ashdod, French, Gaza Strip, Greece, Israeli Navy, blockade_
 
 ##### Pakistan
 ### [Eight Pakistani employees of the United States based American Refugee Committee are kidnapped in southwest Pakistan near the border with Afghanistan. ](/news/2011/07/19/eight-pakistani-employees-of-the-united-states-based-american-refugee-committee-are-kidnapped-in-southwest-pakistan-near-the-border-with-afg.md)
-_Context: Afghan, American Refugee Committee, Pakistan, United States_
+_Context: Afghanistan, American Refugee Committee, Pakistan, United States_
 
 ##### United Nations
 ### [A leaked United Nations report suggests war crimes may have been committed in South Kordofan in Sudan during a recent conflict. ](/news/2011/07/19/a-leaked-united-nations-report-suggests-war-crimes-may-have-been-committed-in-south-kordofan-in-sudan-during-a-recent-conflict.md)

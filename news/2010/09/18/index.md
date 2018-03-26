@@ -5,11 +5,11 @@ Formats: [HTML](2010/09/18/index.html)  [JSON](2010/09/18/index.json)  [XML](201
 
 ##### Bulgaria
 ### [Bulgarian Romani protest outside the French embassy in Sofia about expulsions of Romani from France. ](/news/2010/09/18/bulgarian-romani-protest-outside-the-french-embassy-in-sofia-about-expulsions-of-romani-from-france.md)
-_Context: Bulgaria, France, Roma, Sofia_
+_Context: Bulgaria, French, Roma, Sofia_
 
-##### German
+##### Germany
 ### [Tens of thousands of Germans protest in Berlin against the plans of the German government to extend the life of the country's nuclear power plants by another ten years. ](/news/2010/09/18/tens-of-thousands-of-germans-protest-in-berlin-against-the-plans-of-the-german-government-to-extend-the-life-of-the-country-s-nuclear-power.md)
-_Context: Berlin, German, Government of Germany, nuclear power_
+_Context: Berlin, Germany, Government of Germany, nuclear power_
 
 ##### United Nations
 ### [A United Nations envoy arrives in Guinea to discuss the suspension of the presidential election. ](/news/2010/09/18/a-united-nations-envoy-arrives-in-guinea-to-discuss-the-suspension-of-the-presidential-election.md)
@@ -23,7 +23,7 @@ _Context: Pope Benedict XVI, Roman Catholic Church, sexual abuse_
 ### [Voters in Slovakia go to the polls to vote on a referendum to reduce the size of the National Council of the Slovak Republic and cut political perks amongst other things. ](/news/2010/09/18/voters-in-slovakia-go-to-the-polls-to-vote-on-a-referendum-to-reduce-the-size-of-the-national-council-of-the-slovak-republic-and-cut-politic.md)
 _Context: National Council of the Slovak Republic, Slovakia, a referendum_
 
-##### Afghan
+##### Afghanistan
 ### [Voters in Afghanistan go to the polls braving threats from the Taliban with voter turnout calculated at 40 per cent. ](/news/2010/09/18/voters-in-afghanistan-go-to-the-polls-braving-threats-from-the-taliban-with-voter-turnout-calculated-at-40-per-cent.md)
 Afghan officials hail a parliamentary vote as a success despite low turnout, attacks that killed 14 people and widespread fraud.
 
@@ -37,7 +37,7 @@ _Context: Abdelaziz Bouteflika, Algiers, Mahmoud Ahmadinejad, President, Preside
 
 ##### Airplane
 ### [Two airplanes crash at a retro air show near the city of Warngau in southern Germany. ](/news/2010/09/18/two-airplanes-crash-at-a-retro-air-show-near-the-city-of-warngau-in-southern-germany.md)
-_Context: German, Warngau, air show, airplane_
+_Context: Germany, Warngau, air show, airplane_
 
 ##### Truck
 ### [At least 30 people are dead and 80 injured in a passenger truck crash in Zagyuri in northern Ghana. ](/news/2010/09/18/at-least-30-people-are-dead-and-80-injured-in-a-passenger-truck-crash-in-zagyuri-in-northern-ghana.md)

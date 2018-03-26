@@ -23,9 +23,9 @@ _Context: Eastern District of Louisiana, Eldon Fallon, Federal District Judge, M
 ### [ The United Nations claims that 3,709 Iraqi civilians died during October 2006 as sectarian violence worsens. ](/news/2006/11/22/the-united-nations-claims-that-3-709-iraqi-civilians-died-during-october-2006-as-sectarian-violence-worsens.md)
 _Context: Iraq, United Nations_
 
-##### Somali
+##### Somalia
 ### [ Flooding in southern Somalia causes 73 deaths. Up to 1.8 million people have been affected by the floods. ](/news/2006/11/22/flooding-in-southern-somalia-causes-73-deaths-up-to-1-8-million-people-have-been-affected-by-the-floods.md)
-_Context: Somali, flood_
+_Context: Somalia, flood_
 
 ##### Prime Minister of Lebanon
 ### [ The Prime Minister of Lebanon has asked the United Nations for help in investigating the assassination of Pierre Amine Gemayel. ](/news/2006/11/22/the-prime-minister-of-lebanon-has-asked-the-united-nations-for-help-in-investigating-the-assassination-of-pierre-amine-gemayel.md)

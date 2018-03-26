@@ -11,9 +11,9 @@ _Context: International Liaison Department of the Communist Party of China, Song
 ### [Queen Elizabeth II (U.K.) arrives in Malta for the Commonwealth summit what begins tomorrow. The then-future Queen and the Duke of Edinburgh lived on the island from 1949-51. The Commonwealth is a group of 53 nations; most member states were once part of the British Empire, and 16 retain the Queen as head of state. ](/news/2015/11/26/queen-elizabeth-ii-u-k-arrives-in-malta-for-the-commonwealth-summit-what-begins-tomorrow-the-then-future-queen-and-the-duke-of-edinburgh.md)
 Armed Forces band of Malta sets the tone as they chose to play Thanks For The Memory while Her Majesty inspects guard of honour in Valletta
 
-##### France
+##### French
 ### [France is deploying more than 10,000 personnel to provide security for the two-week UN Climate Change Conference that opens in Le Bourget in Paris on Monday, November 30, 2015. Around 150 heads of state or government are expected to attend COP21's opening day. ](/news/2015/11/26/france-is-deploying-more-than-10-000-personnel-to-provide-security-for-the-two-week-un-climate-change-conference-that-opens-in-le-bourget-in.md)
-_Context: France, Le Bourget, Paris, UN Climate Change Conference, security_
+_Context: French, Le Bourget, Paris, UN Climate Change Conference, security_
 
 ##### Pope Francis%27 visit to Kenya
 ### [Pope Francis condemns the way young people have been "radicalized in the name of religion to sow discord and fear," during a talk in Nairobi, Kenya. ](/news/2015/11/26/pope-francis-condemns-the-way-young-people-have-been-radicalized-in-the-name-of-religion-to-sow-discord-and-fear-during-a-talk-in-nairobi.md)

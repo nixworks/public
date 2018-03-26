@@ -15,9 +15,9 @@ _Context: Israel, Israeli-Lebanese conflict, Lebanese_
 ### [ Israel agrees to a truce starting Thursday with the Hamas-led government in the Gaza Strip. ](/news/2008/06/18/israel-agrees-to-a-truce-starting-thursday-with-the-hamas-led-government-in-the-gaza-strip.md)
 _Context: Gaza Strip, Hamas, Israel_
 
-##### Afghan
+##### Afghanistan
 ### [ Afghan and Canadian forces begin an offensive against the Taliban in the Arghandab District of Kandahar. ](/news/2008/06/18/afghan-and-canadian-forces-begin-an-offensive-against-the-taliban-in-the-arghandab-district-of-kandahar.md)
-_Context: Afghan, Arghandab District, Canada, Kandahar, Taliban, an offensive_
+_Context: Afghanistan, Arghandab District, Canada, Kandahar, Taliban, an offensive_
 
 ##### Laptops
 ### [ Six laptops containing information on about 20,000 patients are stolen from a London hospital. ](/news/2008/06/18/six-laptops-containing-information-on-about-20-000-patients-are-stolen-from-a-london-hospital.md)
@@ -67,9 +67,9 @@ _Context: Chinese, United States, energy security_
 ### [ The Parliament of the United Kingdom ratifies the Treaty of Lisbon. ](/news/2008/06/18/the-parliament-of-the-united-kingdom-ratifies-the-treaty-of-lisbon.md)
 _Context: Parliament, Treaty of Lisbon_
 
-##### Somali
+##### Somalia
 ### [ Somali President Abdullahi Yusuf Ahmed survives an assassination attempt. ](/news/2008/06/18/somali-president-abdullahi-yusuf-ahmed-survives-an-assassination-attempt.md)
-_Context: Abdullahi Yusuf Ahmed, President, Somali, assassination_
+_Context: Abdullahi Yusuf Ahmed, President, Somalia, assassination_
 
 ##### Brazil
 ### [ Brazil celebrates the 100th year of the Japanese Immigration. ](/news/2008/06/18/brazil-celebrates-the-100th-year-of-the-japanese-immigration.md)

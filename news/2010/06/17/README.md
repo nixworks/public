@@ -27,7 +27,7 @@ _Context: Kenya, Mwai Kibaki, Wilfred Machage, president_
 ### [Powerful Austrian publisher and household name Hans Dichand, who greatly influenced Austrian politics, dies aged 89. ](/news/2010/06/17/powerful-austrian-publisher-and-household-name-hans-dichand-who-greatly-influenced-austrian-politics-dies-aged-89.md)
 _Context: Austria, Austrian politics, Hans Dichand_
 
-##### European Union
+##### EU
 ### [European Union leaders approve sanctions in Brussels, including bans on investments and oil-gas technology transfers, against Iran, harsher than recent sanctions imposed by the United Nations. Russia calls these and sanctions by the United States "unacceptable". ](/news/2010/06/17/european-union-leaders-approve-sanctions-in-brussels-including-bans-on-investments-and-oil-gas-technology-transfers-against-iran-harsher.md)
 European Union leaders approve new sanctions on Iran that are tougher than recent measures adopted by the UN Security Council.
 

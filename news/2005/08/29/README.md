@@ -3,9 +3,9 @@ Formats: [HTML](2005/08/29/index.html)  [JSON](2005/08/29/index.json)  [XML](200
 
 ## [2005-08-29](/news/2005/08/29/index.md)
 
-##### European Union
+##### EU
 ### [ Countries of the European Union attempt to work out a deal to end the "bra wars", the Chinese textile import row. ](/news/2005/08/29/countries-of-the-european-union-attempt-to-work-out-a-deal-to-end-the-bra-wars-the-chinese-textile-import-row.md)
-_Context: European Union, bra wars, textile_
+_Context: EU, bra wars, textile_
 
 ##### Nigeria
 ### [ The Nigerian Vice President's home in Maryland, USA was raided by the FBI. Atiku Abubakar's relations with President Olusegun Obasanjo have cooled and it is possible he might use the pretext of the FBI corruption investigation to dismiss him.](/news/2005/08/29/the-nigerian-vice-president-s-home-in-maryland-usa-was-raided-by-the-fbi-atiku-abubakar-s-relations-with-president-olusegun-obasanjo-have.md)

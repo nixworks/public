@@ -5,7 +5,7 @@ Formats: [HTML](2008/09/18/index.html)  [JSON](2008/09/18/index.json)  [XML](200
 
 ##### Bruessel
 ### [ Bruessel-EU:In European media, journalists report that some US politicians and military personnel supported with financial help the Anti-Europe Movement in Ireland against the Treaty of Lisbon. ](/news/2008/09/18/bruessel-eu-in-european-media-journalists-report-that-some-us-politicians-and-military-personnel-supported-with-financial-help-the-anti-eu.md)
-_Context: Bruessel, European Union, Ireland, Treaty of Lisbon_
+_Context: Bruessel, EU, Ireland, Treaty of Lisbon_
 
 ##### United States soldier
 ### [ A United States Army CH-47 Chinook helicopter crashes in southern Iraq killing seven United States soldiers. ](/news/2008/09/18/a-united-states-army-ch-47-chinook-helicopter-crashes-in-southern-iraq-killing-seven-united-states-soldiers.md)

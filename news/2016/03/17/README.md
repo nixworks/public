@@ -33,7 +33,7 @@ China expressed its opposition on Thursday to unilateral sanctions against North
 
 ##### Palestinians
 ### [At least 16 Palestinian pilgrims are killed when the bus they were traveling to Saudi Arabia on overturns in southern Jordan. ](/news/2016/03/17/at-least-16-palestinian-pilgrims-are-killed-when-the-bus-they-were-traveling-to-saudi-arabia-on-overturns-in-southern-jordan.md)
-_Context: Jordan, Palestinians, Saudi_
+_Context: Jordan, Palestinians, Saudi Arabia_
 
 ##### Tribune Publishing
 ### [ Tribune Publishing, an American company whose Southern California media holdings include the "Los Angeles Times" and "The San Diego Union-Tribune", wins an auction for bankrupt newspapers, "Orange County Register", published in Santa Ana, and "The Press-Enterprise", headquartered in Riverside, for $56 million, subject to judicial approval. A federal bankruptcy court hearing is scheduled for Monday. The U.S. Justice Department has warned that a Tribune purchase could violate antitrust laws. ](/news/2016/03/17/tribune-publishing-an-american-company-whose-southern-california-media-holdings-include-the-los-angeles-times-and-the-san-diego-union-t.md)

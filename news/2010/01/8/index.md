@@ -3,9 +3,9 @@ Formats: [HTML](2010/01/8/index.html)  [JSON](2010/01/8/index.json)  [XML](2010/
 
 ## [2010-01-8](/news/2010/01/8/index.md)
 
-##### France
+##### French
 ### [French research in "Analytical Chemistry" suggests that the heavy eye make-up of Cleopatra could be medically useful. ](/news/2010/01/8/french-research-in-analytical-chemistry-suggests-that-the-heavy-eye-make-up-of-cleopatra-could-be-medically-useful.md)
-_Context: Analytical Chemistry, Cleopatra, France_
+_Context: Analytical Chemistry, Cleopatra, French_
 
 ##### Uganda
 ### [The Ugandan death penalty for homosexuality may be declared "not necessary". ](/news/2010/01/8/the-ugandan-death-penalty-for-homosexuality-may-be-declared-not-necessary.md)

@@ -41,7 +41,7 @@ Rescue teams on Saturday struggled to reach villages devastated by a massive mud
 
 ##### Refugee immigration to Germany
 ### [ The Greek coast guard and the European Union border agency Frontex, in six separate operations, rescue a total of 383 migrants attempting to sail from Turkey to the eastern Greek islands. ](/news/2015/11/7/the-greek-coast-guard-and-the-european-union-border-agency-frontex-in-six-separate-operations-rescue-a-total-of-383-migrants-attempting-t.md)
-_Context: European Union, Frontex, Hellenic Coast Guard, Turkey, eastern Greek islands, refugee immigration to Germany_
+_Context: EU, Frontex, Hellenic Coast Guard, Turkey, eastern Greek islands, refugee immigration to Germany_
 
 ##### Flight 9268
 ### [ A sudden noise immediately before the "black box" flight data recorder went dark indicates the plane was brought down by a bomb, according to unnamed sources. Officially, Ayman el-Muqadem says the Egyptian investigative team is "considering all possible scenarios for the cause of the accident" and has not yet reached any conclusions. ](/news/2015/11/7/a-sudden-noise-immediately-before-the-black-box-flight-data-recorder-went-dark-indicates-the-plane-was-brought-down-by-a-bomb-according.md)

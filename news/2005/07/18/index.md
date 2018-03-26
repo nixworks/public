@@ -15,9 +15,9 @@ _Context: Ukrainian, Viktor Yushchenko_
 ### [ According to AIDS study of United Nations Council of Foreign Relations, most of the HIV strains in Asia originate from Myanmar (Burma). Study used genetic fingerprinting to find spread of the virus strains ](/news/2005/07/18/according-to-aids-study-of-united-nations-council-of-foreign-relations-most-of-the-hiv-strains-in-asia-originate-from-myanmar-burma-stu.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-##### European Union
+##### EU
 ### [ The European Union is planning an operation to monitor peace process in Aceh ](/news/2005/07/18/the-european-union-is-planning-an-operation-to-monitor-peace-process-in-aceh.md)
-_Context: Aceh, European Union_
+_Context: Aceh, EU_
 
 ##### Morocco
 ### [ In Morocco, Ali Salem Tamek, human rights activist and supporter of independence of Western Sahara, is arrested when he returns from Europe. Government accuses him of fomenting riots ](/news/2005/07/18/in-morocco-ali-salem-tamek-human-rights-activist-and-supporter-of-independence-of-western-sahara-is-arrested-when-he-returns-from-europe.md)
@@ -45,7 +45,7 @@ Hurricane Emily like a &quot;freight train&quot; as it passed over houses in the
 
 ##### Federal Constitutional Court of Germany
 ### [ The Federal Constitutional Court, the highest Court in Germany, has ordered the release of Mamoun Darkazanli who has been accused by Spain of having funded the September 11, 2001 attacks. ](/news/2005/07/18/the-federal-constitutional-court-the-highest-court-in-germany-has-ordered-the-release-of-mamoun-darkazanli-who-has-been-accused-by-spain.md)
-_Context: Court, Federal Constitutional Court of Germany, German, Mamoun Darkazanli, September 11, 2001 attacks, Spanish_
+_Context: Court, Federal Constitutional Court of Germany, Germany, Mamoun Darkazanli, September 11, 2001 attacks, Spanish_
 
 ##### Serb
 ### [ Eight former Serbian secret police officers, and supporters of Slobodan Milosevic, have been found guilty of the murder of former President Ivan Stambolic and sentenced to between 15 and 40 years in prison. ](/news/2005/07/18/eight-former-serbian-secret-police-officers-and-supporters-of-slobodan-miloa-evia-have-been-found-guilty-of-the-murder-of-former-preside.md)

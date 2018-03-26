@@ -21,7 +21,7 @@ Individuals who pretended to be a family and arrived in the U.S. through the div
 
 ##### 2017 Lebanon-Saudi Arabia dispute
 ### [Saudi Arabia says Lebanon has declared war against it through acts of aggression. ](/news/2017/11/6/saudi-arabia-says-lebanon-has-declared-war-against-it-through-acts-of-aggression.md)
-_Context: 2017 Lebanon-Saudi Arabia dispute, Lebanese, Saudi_
+_Context: 2017 Lebanon-Saudi Arabia dispute, Lebanese, Saudi Arabia_
 
 ##### Japan-United States relations
 ### [U.S. President Donald Trump visits Japan amidst the 2017 North Korea crisis. ](/news/2017/11/6/u-s-president-donald-trump-visits-japan-amidst-the-2017-north-korea-crisis.md)

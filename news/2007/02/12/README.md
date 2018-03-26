@@ -27,9 +27,9 @@ _Context: China, float, government, trade surplus, yuan_
 ### [ 2007 Guinean general strike: Unions in Guinea resume a general strike to protest the President of Guinea Lansana Conte appointing Eugene Camara as Prime Minister of Guinea. At least 17 people have died in protests over the weekend. The protest started on the morning of the 12th with a march from the centre of Conakry to the palace. Widespread problems with armed bandits taking advantage of the insecurity have also been reported. Lansana Conte has now declared a state of emergency. ](/news/2007/02/12/2007-guinean-general-strike-unions-in-guinea-resume-a-general-strike-to-protest-the-president-of-guinea-lansana-conta-c-appointing-euga-ne.md)
 _Context: 2007 Guinean general strike, Conakry, Eugene Camara, Guinea, Lansana Conte, President of Guinea, Prime Minister of Guinea, general strike, states of emergency, unionize_
 
-##### German
+##### Germany
 ### [ A German court orders the release of Brigitte Mohnhaupt, a former member of the Red Army Faction, also known as the "Baader-Meinhof Gang"; she has served 24 years in prison for her involvement in kidnappings and murders in the 1970s. ](/news/2007/02/12/a-german-court-orders-the-release-of-brigitte-mohnhaupt-a-former-member-of-the-red-army-faction-also-known-as-the-baader-meinhof-gang.md)
-_Context: 1970s, Baader, Brigitte Mohnhaupt, German, Meinhof, Red Army Faction, court_
+_Context: 1970s, Baader, Brigitte Mohnhaupt, Germany, Meinhof, Red Army Faction, court_
 
 ##### Earthquake
 ### [ An earthquake of a magnitude of 6.1 on the Richter scale strikes about 160 km east of Cabo de SGBPo Vicente, Portugal, at 11:36 am (CET). ](/news/2007/02/12/an-earthquake-of-a-magnitude-of-6-1-on-the-richter-scale-strikes-about-160-km-east-of-cabo-de-sagbpo-vicente-portugal-at-11-36-am-cet.md)

@@ -63,9 +63,9 @@ French President Nicholas Sarkozy says there are too many foreigners in France, 
 ### [Iran states that it will allow International Atomic Energy Agency inspectors access to its Parchin military complex. ](/news/2012/03/6/iran-states-that-it-will-allow-international-atomic-energy-agency-inspectors-access-to-its-parchin-military-complex.md)
 Iran says it will give the UN nuclear watchdog access to its Parchin military complex, a site believed to have been used for nuclear weapons research.
 
-##### Saudi
+##### Saudi Arabia
 ### [A Saudi Arabian diplomat is killed in the Bangladeshi capital Dhaka. ](/news/2012/03/6/a-saudi-arabian-diplomat-is-killed-in-the-bangladeshi-capital-dhaka.md)
-_Context: Bangladesh, Dhaka, Saudi_
+_Context: Bangladesh, Dhaka, Saudi Arabia_
 
 ##### Human Rights Watch
 ### [Human Rights Watch claims that the Government of Japan has been too slow in providing health care to survivors of the Fukushima Daiichi nuclear disaster. ](/news/2012/03/6/human-rights-watch-claims-that-the-government-of-japan-has-been-too-slow-in-providing-health-care-to-survivors-of-the-fukushima-daiichi-nucl.md)
@@ -81,7 +81,7 @@ _Context: Australia, Murrumbidgee River, Wagga Wagga, New South Wales, levee_
 
 ##### Turkish Airlines
 ### [Turkish Airlines begins a service to Somalia, the first regular service to the capital Mogadishu except regional East African flights to operate in twenty years. ](/news/2012/03/6/turkish-airlines-begins-a-service-to-somalia-the-first-regular-service-to-the-capital-mogadishu-except-regional-east-african-flights-to-ope.md)
-_Context: East Africa, Mogadishu, Somali, Turkish Airlines_
+_Context: East Africa, Mogadishu, Somalia, Turkish Airlines_
 
 ##### Lehman Brothers
 ### [Lehman Brothers emerges from bankruptcy protection. ](/news/2012/03/6/lehman-brothers-emerges-from-bankruptcy-protection.md)

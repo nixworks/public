@@ -19,9 +19,9 @@ _Context: Bible, Donald Rumsfeld, George W. Bush, U.S. President, United States,
 ### [ The European Commission's headquarters in Brussels, Belgium, is evacuated because of a fire. ](/news/2009/05/18/the-european-commission-s-headquarters-in-brussels-belgium-is-evacuated-because-of-a-fire.md)
 The headquarters of the EU Commission in Brussels was evacuated today because of a fire.
 
-##### Somali
+##### Somalia
 ### [ Somalia requests international assistance to establish an anti-piracy coast guard. ](/news/2009/05/18/somalia-requests-international-assistance-to-establish-an-anti-piracy-coast-guard.md)
-_Context: Somali, Somali pirates, coast guard_
+_Context: Somali pirates, Somalia, coast guard_
 
 ##### Chad
 ### [ Chad admits that its military has performed three incursions into Sudan. ](/news/2009/05/18/chad-admits-that-its-military-has-performed-three-incursions-into-sudan.md)

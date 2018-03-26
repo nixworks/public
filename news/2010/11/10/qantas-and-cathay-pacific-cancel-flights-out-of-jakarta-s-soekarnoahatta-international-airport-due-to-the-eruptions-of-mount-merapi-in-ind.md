@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/10/qantas-and-cathay-pacific-cancel-flights-out-of
 
 ### [2010-11-10](/news/2010/11/10/index.md)
 
-##### Qantas
+##### Qantas Airways
 # Qantas and Cathay Pacific cancel flights out of Jakarta's Soekarno-Hatta International Airport due to the eruptions of Mount Merapi in Indonesia. 
 
 

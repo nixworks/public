@@ -37,7 +37,7 @@ _Context: Goa Express, India, Mewar Express, Rajasthan_
 
 ##### Lidl
 ### [ Armed men take six people captive at a Lidl supermarket in Sevran, France. ](/news/2009/10/21/armed-men-take-six-people-captive-at-a-lidl-supermarket-in-sevran-france.md)
-_Context: France, Lidl, Sevran_
+_Context: French, Lidl, Sevran_
 
 ##### Azza Transport Flight 2241
 ### [ Azza Transport Flight 2241 crashes on take-off from Sharjah International Airport, in the United Arab Emirates, killing all six crew. ](/news/2009/10/21/azza-transport-flight-2241-crashes-on-take-off-from-sharjah-international-airport-in-the-united-arab-emirates-killing-all-six-crew.md)

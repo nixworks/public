@@ -5,7 +5,7 @@ Formats: [HTML](2017/12/15/index.html)  [JSON](2017/12/15/index.json)  [XML](201
 
 ##### Brexit
 ### [European Union leaders agree to allow the next phase of Brexit. ](/news/2017/12/15/european-union-leaders-agree-to-allow-the-next-phase-of-brexit.md)
-_Context: Brexit, European Union, next phase of Brexit_
+_Context: Brexit, EU, next phase of Brexit_
 
 ##### Censorship in France
 ### [France's Constitutional Court rejects a bill to make visiting terrorist websites a criminal offence, citing "inviolability of freedom of communication and expression" as a reason. ](/news/2017/12/15/france-s-constitutional-court-rejects-a-bill-to-make-visiting-terrorist-websites-a-criminal-offence-citing-inviolability-of-freedom-of-com.md)

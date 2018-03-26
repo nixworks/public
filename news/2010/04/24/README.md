@@ -15,9 +15,9 @@ _Context: 2008 Mumbai attacks, Mumbai, Oberoi Hotel_
 ### [The "Cheonan", which was destroyed in the Baengnyeong incident, is recovered. ](/news/2010/04/24/the-cheonan-which-was-destroyed-in-the-baengnyeong-incident-is-recovered.md)
 _Context: Cheonan, sinking_
 
-##### German
+##### Germany
 ### [Two German men held in Abia State, Nigeria are released six days after being seized on a swim. ](/news/2010/04/24/two-german-men-held-in-abia-state-nigeria-are-released-six-days-after-being-seized-on-a-swim.md)
-_Context: Abia State, German, Nigeria_
+_Context: Abia State, Germany, Nigeria_
 
 ##### Wang Lequan
 ### [Wang Lequan, Communist Party secretary since 1994, is replaced by Zhang Chunxian as the most powerful official in Xinjiang. ](/news/2010/04/24/wang-lequan-communist-party-secretary-since-1994-is-replaced-by-zhang-chunxian-as-the-most-powerful-official-in-xinjiang.md)

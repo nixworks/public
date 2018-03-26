@@ -29,7 +29,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ##### Jos Montilla
 ### [ Jos Montilla becomes the new President of the "Generalitat" of Catalonia, renewing the left-of-centre tripartite pact between his PSC, the pro-independence ERC and the leftist ICV-EUiA alliance after the election held on 2006-11-01. ](/news/2006/11/7/jose-montilla-becomes-the-new-president-of-the-generalitat-of-catalonia-renewing-the-left-of-centre-tripartite-pact-between-his-psc-the.md)
-_Context: ''Generalitat'', Catalan, ERC, EUiA, ICV, Jos Montilla, PSC, election_
+_Context: ''Generalitat'', Catalonia, ERC, EUiA, ICV, Jos Montilla, PSC, election_
 
 ##### After 48 rounds of voting
 ### [ After 48 rounds of voting, Panama is elected to a non-permanent seat on the United Nations Security Council. ](/news/2006/11/7/after-48-rounds-of-voting-panama-is-elected-to-a-non-permanent-seat-on-the-united-nations-security-council.md)

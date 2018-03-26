@@ -11,9 +11,9 @@ _Context: Tax Day, Tea Party, United States, form of government, protests, taxes
 ### [ The United States' consumer price index records its first year-on-year deflation since 1955. ](/news/2009/04/15/the-united-states-consumer-price-index-records-its-first-year-on-year-deflation-since-1955.md)
 _Context: United States, consumer price index, deflation_
 
-##### France
+##### French
 ### [ The French Navy captures 11 Somali pirates in the Gulf of Aden. ](/news/2009/04/15/the-french-navy-captures-11-somali-pirates-in-the-gulf-of-aden.md)
-_Context: France, French naval, Gulf of Aden, Somali, Somali pirates_
+_Context: French, French naval, Gulf of Aden, Somali pirates, Somalia_
 
 ##### Pitcairn Islands
 ### [ The Pitcairn Islands abolish alcohol prohibition. ](/news/2009/04/15/the-pitcairn-islands-abolish-alcohol-prohibition.md)

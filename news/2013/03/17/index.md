@@ -15,7 +15,7 @@ _Context: Angelus, Pope Francis, Rome, Italy, Saint Peter's Square_
 ### [Two members of the Steubenville High School football team have been found guilty of raping a sixteen-year-old girl in the U.S. town of Steubenville, Ohio. ](/news/2013/03/17/two-members-of-the-steubenville-high-school-football-team-have-been-found-guilty-of-raping-a-sixteen-year-old-girl-in-the-u-s-town-of-steub.md)
 Read the latest World and International news headlines from Sky News Australia. For coverage of breaking news from around the World visit skynews.com.au.
 
-##### France
+##### French
 ### [Prominent French lawyer Olivier Metzner is found dead of an apparent suicide. ](/news/2013/03/17/prominent-french-lawyer-olivier-metzner-is-found-dead-of-an-apparent-suicide.md)
 Olivier Metzner, one of France’s best-known lawyers, was found dead from an apparent suicide, the prosecutor’s office in the Brittany city of Vannes said.
 

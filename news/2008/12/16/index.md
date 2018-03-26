@@ -29,7 +29,7 @@ _Context: Great Depression, United States, United States Department of Labor, co
 
 ##### President
 ### [ President of Somalia Abdullahi Yusuf Ahmed names former Interior Minister Mohamoud Mohamed Gacmodhere as Prime Minister, but incumbent PM Nur Hassan Hussein is supported in a parliamentary vote, requiring a confidence motion before Ahmed could replace Hussein. ](/news/2008/12/16/president-of-somalia-abdullahi-yusuf-ahmed-names-former-interior-minister-mohamoud-mohamed-gacmodhere-as-prime-minister-but-incumbent-pm-n.md)
-_Context: Abdullahi Yusuf Ahmed, Interior Minister, Mohamoud Mohamed Gacmodhere, Nur Hassan Hussein, President, Prime Minister of Somalia, Somali, vote of no confidence_
+_Context: Abdullahi Yusuf Ahmed, Interior Minister, Mohamoud Mohamed Gacmodhere, Nur Hassan Hussein, President, Prime Minister of Somalia, Somalia, vote of no confidence_
 
 ##### Bilal Abdullah
 ### [ Bilal Abdullah is convicted for his roles in the 2007 attack on Glasgow International Airport and an attempted bombing of London's West End. ](/news/2008/12/16/bilal-abdullah-is-convicted-for-his-roles-in-the-2007-attack-on-glasgow-international-airport-and-an-attempted-bombing-of-london-s-west-end.md)

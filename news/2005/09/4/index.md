@@ -5,7 +5,7 @@ Formats: [HTML](2005/09/4/index.html)  [JSON](2005/09/4/index.json)  [XML](2005/
 
 ##### Bregenz
 ### [ In Bregenz, Austria, a German woman attacks the Roy Lichtenstein painting "Nudes in Mirror" with a jackknife. Witnesses say that the woman claimed that the painting was not authentic. Although there were several slashes in the painting, valued at EUR4 million, it can be repaired. ](/news/2005/09/4/in-bregenz-austria-a-german-woman-attacks-the-roy-lichtenstein-painting-nudes-in-mirror-with-a-jackknife-witnesses-say-that-the-woman.md)
-_Context: Austria, Bregenz, German, Roy Lichtenstein, jackknife_
+_Context: Austria, Bregenz, Germany, Roy Lichtenstein, jackknife_
 
 ##### Wistar Institute
 ### [ Wistar Institute scientists say they will present details of research on their creation of "miracle mice" next week at a Cambridge University conference on Regeneration. The experimental animals are able to regenerate amputated limbs or body organs.](/news/2005/09/4/wistar-institute-scientists-say-they-will-present-details-of-research-on-their-creation-of-miracle-mice-next-week-at-a-cambridge-universi.md)

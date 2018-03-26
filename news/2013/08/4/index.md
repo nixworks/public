@@ -11,7 +11,7 @@ This afternoon, I visited the Governor-General and her Excellency has accepted m
 ### [Hassan Rouhani is officially inaugurated as President of Iran in the House of the Parliament and announces the members of his cabinet to the parliament. ](/news/2013/08/4/hassan-rouhani-is-officially-inaugurated-as-president-of-iran-in-the-house-of-the-parliament-and-announces-the-members-of-his-cabinet-to-the.md)
 Iranian President Hassan Rouhani reveals a cabinet lineup of experienced technocrats, aiming to deliver on his promise of saving the economy and engaging the world.
 
-##### Scottish
+##### Scotland
 ### [Scottish actor Peter Capaldi is announced to portray the twelfth incarnation of the Doctor on the long-running British science fiction show "Doctor Who". ](/news/2013/08/4/scottish-actor-peter-capaldi-is-announced-to-portray-the-twelfth-incarnation-of-the-doctor-on-the-long-running-british-science-fiction-show.md)
 Scottish actor best known for his role as Malcolm Tucker in The Thick of It revealed as 12th actor to play the Doctor
 

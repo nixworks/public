@@ -13,7 +13,7 @@ An armed man who burst into a hotel in Cannes has stolen jewels worth €103m, p
 
 ##### Ministry of Defence
 ### [The New Zealand Ministry of Defence announces that it will investigate claims that it collected telephone metadata on Jon Stephenson, a freelance journalist for The McClatchy Company in Afghanistan. ](/news/2013/07/29/the-new-zealand-ministry-of-defence-announces-that-it-will-investigate-claims-that-it-collected-telephone-metadata-on-jon-stephenson-a-free.md)
-_Context: Afghan, Ministry of Defence, The McClatchy Company, metadata_
+_Context: Afghanistan, Ministry of Defence, The McClatchy Company, metadata_
 
 ##### Propane
 ### [Seven people have been injured following a series of explosions at a propane plant in the US town of Tavares in central Florida. ](/news/2013/07/29/seven-people-have-been-injured-following-a-series-of-explosions-at-a-propane-plant-in-the-us-town-of-tavares-in-central-florida.md)

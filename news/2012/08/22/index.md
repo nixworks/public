@@ -45,7 +45,7 @@ _Context: Kenya, Orma, Pokomo, clashes_
 
 ##### Chinese
 ### [A Chinese state news commentary on recent U.S. "red line" remarks states that, once again, Western powers are digging deep for excuses to intervene militarily in another conflict-torn Middle East country. It sharply denounces the U.S.' "calculus". ](/news/2012/08/22/a-chinese-state-news-commentary-on-recent-u-s-red-line-remarks-states-that-once-again-western-powers-are-digging-deep-for-excuses-to-in.md)
-_Context: Chinese, Xinhua, conflict-torn Middle East, intervene militarily, recent_
+_Context: Chinese, List of modern conflicts in the Middle East, Xinhua, intervene militarily, recent_
 
 ## [Previous Day...](/news/2012/08/21/index.md)
 

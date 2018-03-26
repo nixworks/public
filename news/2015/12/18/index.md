@@ -15,7 +15,7 @@ A group of 32 hospitals will pay a total of $28 million to settle allegations th
 ### [NATO allies agree to send aircraft and ships to strengthen Turkey's Syrian border air defenses and avoid incidents similar to November's downing of a Russian jet. ](/news/2015/12/18/nato-allies-agree-to-send-aircraft-and-ships-to-strengthen-turkey-s-syrian-border-air-defenses-and-avoid-incidents-similar-to-november-s-dow.md)
 Resolution signals rare show of unity from 15-nation council, although future of president Bashar al-Assad is not mentioned
 
-##### European Union
+##### EU
 ### [The European Union warns Thailand that the country needs to quickly address the human rights and slavery issues in its seafood industry if it wants to avoid an EU import ban. ](/news/2015/12/18/the-european-union-warns-thailand-that-the-country-needs-to-quickly-address-the-human-rights-and-slavery-issues-in-its-seafood-industry-if-i.md)
 (AP) — For the past year, The Associated Press has investigated slave labor in Thailand&#8217;s $7 billion seafood export industry, resulting in the freeing of more than 2,000 fishermen. This week, the AP came out with another investigation looking at slavery in shrimp processing sheds in Thailand...
 
@@ -65,7 +65,7 @@ US Navy says its B-52 plane had no intention of flying so close to the Chinese-c
 
 ##### Yemeni Civil War (2015)
 ### [Two ballistic missiles are fired from Yemen at Saudi Arabia, one of which is intercepted by the kingdom's air defences, while the other missile lands near the city of Najran, according to a coalition statement on Saudi state media. No casualties have been reported. ](/news/2015/12/18/two-ballistic-missiles-are-fired-from-yemen-at-saudi-arabia-one-of-which-is-intercepted-by-the-kingdom-s-air-defences-while-the-other-miss.md)
-_Context: Najran, Saudi, Saudi Arabian-led intervention in Yemen, Saudi state media, Yemen, Yemeni Civil War (2015)_
+_Context: Najran, Saudi Arabia, Saudi Arabian-led intervention in Yemen, Saudi state media, Yemen, Yemeni Civil War (2015)_
 
 ## [Previous Day...](/news/2015/12/17/index.md)
 

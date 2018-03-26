@@ -15,9 +15,9 @@ _Context: Menu Foods, North America, Veterinarian, aminopterin, pet food, recall
 ### [ At least three people die after an accident involving four cars and three trucks causes a fire in the Burnley Tunnel in Melbourne, Australia. Both the Burnley tunnel and nearby Domain Tunnel are evacuated. ](/news/2007/03/23/at-least-three-people-die-after-an-accident-involving-four-cars-and-three-trucks-causes-a-fire-in-the-burnley-tunnel-in-melbourne-australi.md)
 _Context: Australia, Burnley Tunnel, Domain Tunnel, Melbourne_
 
-##### European Union
+##### EU
 ### [ Celebrations to mark the 50th birthday of the European Union begin. ](/news/2007/03/23/celebrations-to-mark-the-50th-birthday-of-the-european-union-begin.md)
-_Context: European Union_
+_Context: EU_
 
 ##### Democratic Republic of Congo
 ### [ Democratic Republic of Congo's chief prosecutor issues an arrest warrant for Senator Jean-Pierre Bemba who has sought refuge in the South African embassy as fighting continues in Kinshasa. ](/news/2007/03/23/democratic-republic-of-congo-s-chief-prosecutor-issues-an-arrest-warrant-for-senator-jean-pierre-bemba-who-has-sought-refuge-in-the-south-a.md)
@@ -53,7 +53,7 @@ _Context: Mahmoud Ahmadinejad, President, United Nations Security Council, Unite
 
 ##### Taliban
 ### [ A Taliban attack on a convoy carrying supplies to foreign troops in southern Afghanistan kills 17 Afghan security guards and drivers. ](/news/2007/03/23/a-taliban-attack-on-a-convoy-carrying-supplies-to-foreign-troops-in-southern-afghanistan-kills-17-afghan-security-guards-and-drivers.md)
-_Context: Afghan, Taliban, convoy_
+_Context: Afghanistan, Taliban, convoy_
 
 ##### Jorge Noguera
 ### [ Jorge Noguera, former Colombian intelligence chief, is freed from prison following a ruling by an appeals court after having been jailed last month for collaborating with right wing militia. ](/news/2007/03/23/jorge-noguera-former-colombian-intelligence-chief-is-freed-from-prison-following-a-ruling-by-an-appeals-court-after-having-been-jailed-la.md)

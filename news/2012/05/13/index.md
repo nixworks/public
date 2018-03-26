@@ -21,7 +21,7 @@ Angela Merkel&#039;s conservative party suffers a crushing defeat in a crucial s
 
 ##### Paul Watson
 ### [Paul Watson, the founder of the Sea Shepherd Conservation Society, is arrested in Germany for allegedly violating Guatemalan territorial waters in 2002. ](/news/2012/05/13/paul-watson-the-founder-of-the-sea-shepherd-conservation-society-is-arrested-in-germany-for-allegedly-violating-guatemalan-territorial-wat.md)
-_Context: German, Guatemala, Paul Watson, Sea Shepherd Conservation Society, allegedly violating_
+_Context: Germany, Guatemala, Paul Watson, Sea Shepherd Conservation Society, allegedly violating_
 
 ##### Chinese
 ### [Torrential rainfall and flooding in China's Hunan Province destroys a bridge and 3,500 homes, leading to the evacuation of 28,000 people in Pingjiang County. ](/news/2012/05/13/torrential-rainfall-and-flooding-in-china-s-hunan-province-destroys-a-bridge-and-3-500-homes-leading-to-the-evacuation-of-28-000-people-in.md)
@@ -37,7 +37,7 @@ Army opens new offensive against al-Qaeda in the Arab Peninsula, while at least 
 
 ##### Arsala Rahmani
 ### [Arsala Rahmani, a key peace negotiator for the Afghan government, is shot dead by assassins in Kabul, Afghanistan. ](/news/2012/05/13/arsala-rahmani-a-key-peace-negotiator-for-the-afghan-government-is-shot-dead-by-assassins-in-kabul-afghanistan.md)
-_Context: Afghan, Arsala Rahmani, Kabul_
+_Context: Afghanistan, Arsala Rahmani, Kabul_
 
 ##### Lebanese
 ### [Several people are killed in clashes in the Lebanese city of Tripoli between supporters and opponents of the Syrian president Bashar al-Assad, in a violent spillover from the Syrian civil war. ](/news/2012/05/13/several-people-are-killed-in-clashes-in-the-lebanese-city-of-tripoli-between-supporters-and-opponents-of-the-syrian-president-bashar-al-assa.md)

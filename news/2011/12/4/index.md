@@ -25,7 +25,7 @@ _Context:  previous elections, Positive Slovenia, Slovenia_
 
 ##### Transparency International
 ### [Transparency International releases the 2011 Corruption Perceptions Index, declaring North Korea and Somalia the most corrupt nations in the world, and New Zealand the least corrupt. ](/news/2011/12/4/transparency-international-releases-the-2011-corruption-perceptions-index-declaring-north-korea-and-somalia-the-most-corrupt-nations-in-the.md)
-_Context: Corruption Perceptions Index, New Zealand, North Korea, Somali, Transparency International_
+_Context: Corruption Perceptions Index, New Zealand, North Korea, Somalia, Transparency International_
 
 ##### Australia
 ### [Australia approves exports of uranium to India. ](/news/2011/12/4/australia-approves-exports-of-uranium-to-india.md)
@@ -33,7 +33,7 @@ _Context: Australia, India, uranium_
 
 ##### Koblenz
 ### [45,000 citizens of Koblenz, Germany, are allowed to return home after bomb squads defused World War II bombs that were hidden under the Rhine River for almost 65 years. ](/news/2011/12/4/45-000-citizens-of-koblenz-germany-are-allowed-to-return-home-after-bomb-squads-defused-world-war-ii-bombs-that-were-hidden-under-the-rhin.md)
-_Context: German, Koblenz, Rhine River, World War II, bomb squad_
+_Context: Germany, Koblenz, Rhine River, World War II, bomb squad_
 
 ## [Previous Day...](/news/2011/12/3/index.md)
 

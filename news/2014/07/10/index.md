@@ -11,7 +11,7 @@ _Context: 2014 Pacific typhoon season, Honshu Island, Japan, Typhoon Neoguri_
 ### [A Myanmar court sentences four journalists and the editor of the Yangon based Unity journal to ten years hard labor for allegedly publishing state secrets in an investigative series of reports on a weapons factory. ](/news/2014/07/10/a-myanmar-court-sentences-four-journalists-and-the-editor-of-the-yangon-based-unity-journal-to-ten-years-hard-labor-for-allegedly-publishing.md)
 _Context: Myanmar, Yangon_
 
-##### German
+##### Germany
 ### [Germany expels the Berlin station chief of the United States Central Intelligence Agency following a series of spy scandals. ](/news/2014/07/10/germany-expels-the-berlin-station-chief-of-the-united-states-central-intelligence-agency-following-a-series-of-spy-scandals.md)
 Germany&#039;s decision to expel the US CIA station chief in Berlin has met with a cool response from Washington, saying any comment would risk US interests.
 

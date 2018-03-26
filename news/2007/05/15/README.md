@@ -27,13 +27,13 @@ _Context: Condoleezza Rice, President of Russia, Secretary of State, Vladimir Pu
 ### [ Palestinian factional violence claims 8 more lives as violence erupts on the Israeli border with Fatah and Hamas fighting for dominance at the Karni cargo crossing in Gaza, ending Monday night's ceasefire agreement. ](/news/2007/05/15/palestinian-factional-violence-claims-8-more-lives-as-violence-erupts-on-the-israeli-border-with-fatah-and-hamas-fighting-for-dominance-at.md)
 _Context: Fatah, Hamas, clashes_
 
-##### France
+##### French
 ### [ French Prime Minister Dominique de Villepin resigns. ](/news/2007/05/15/french-prime-minister-dominique-de-villepin-resigns.md)
-_Context: Dominique de Villepin, France_
+_Context: Dominique de Villepin, French_
 
 ##### Douglas Lute
 ### [ Lt. Gen. Douglas Lute has been chosen to be President Bush's "war czar," overseeing the wars in Iraq and Afghanistan. ](/news/2007/05/15/lt-gen-douglas-lute-has-been-chosen-to-be-president-bush-s-war-czar-overseeing-the-wars-in-iraq-and-afghanistan.md)
-_Context: Afghan, Douglas Lute, Iraq, war czar_
+_Context: Afghanistan, Douglas Lute, Iraq, war czar_
 
 ##### Denmark
 ### [ Danish protesters clash with police in Copenhagen with the Little Mermaid being doused with red paint. The clashes followed the demolition of a building in the Freetown Christiania district. ](/news/2007/05/15/danish-protesters-clash-with-police-in-copenhagen-with-the-little-mermaid-being-doused-with-red-paint-the-clashes-followed-the-demolition.md)

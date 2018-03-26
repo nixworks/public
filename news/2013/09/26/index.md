@@ -21,7 +21,7 @@ A former accountant for Bernard Madoff has been indicted on charges he helped th
 
 ##### Al-Shabab
 ### [Al-Shabaab militants attack two Kenyan towns near the Somali border. ](/news/2013/09/26/al-shabaab-militants-attack-two-kenyan-towns-near-the-somali-border.md)
-_Context: Al-Shabab, Kenya, Somali_
+_Context: Al-Shabab, Kenya, Somalia_
 
 ##### Interpol
 ### [Interpol issues a "red notice" arrest warrant for Briton Samantha Lewthwaite at Kenya's request. ](/news/2013/09/26/interpol-issues-a-red-notice-arrest-warrant-for-briton-samantha-lewthwaite-at-kenya-s-request.md)

@@ -13,7 +13,7 @@ _Context: Gabrielle Giffords, Mark Kelly, NASA, Space Shuttle ''Endeavour'', Uni
 
 ##### Prime Minister of Italy
 ### [Prime Minister of Italy Silvio Berlusconi ignores his recent sex scandals to claim to the media at a summit in Brussels that he is the most popular national leader in the European Union. ](/news/2011/02/4/prime-minister-of-italy-silvio-berlusconi-ignores-his-recent-sex-scandals-to-claim-to-the-media-at-a-summit-in-brussels-that-he-is-the-most.md)
-_Context: Brussels, European Union, Prime Minister of Italy, Silvio Berlusconi_
+_Context: Brussels, EU, Prime Minister of Italy, Silvio Berlusconi_
 
 ##### President
 ### [President of Kazakhstan Nursultan Nazarbayev calls an early election for April 3, rejecting a plan for a referendum intended to allow him to rule for another decade. ](/news/2011/02/4/president-of-kazakhstan-nursultan-nazarbayev-calls-an-early-election-for-april-3-rejecting-a-plan-for-a-referendum-intended-to-allow-him-to.md)
@@ -83,9 +83,9 @@ Lawyers agreed to make complaint public after settlement talks broke down.
 ### [Angela Merkel, the German Chancellor, and Nicolas Sarkozy, the President of France, jointly propose a new set of policies for the euro zone defined to defend the euro as a currency, such as higher retirement ages and the abolition of inflation-indexed wages. ](/news/2011/02/4/angela-merkel-the-german-chancellor-and-nicolas-sarkozy-the-president-of-france-jointly-propose-a-new-set-of-policies-for-the-euro-zone.md)
 _Context: Angela Merkel, Eurozone, Nicolas Sarkozy, euro_
 
-##### Afghan
+##### Afghanistan
 ### [At least ten people are killed and several others injured in separate incidents of violence across Afghanistan. ](/news/2011/02/4/at-least-ten-people-are-killed-and-several-others-injured-in-separate-incidents-of-violence-across-afghanistan.md)
-_Context: Afghan_
+_Context: Afghanistan_
 
 ##### Rape
 ### [A new centre to help rape victims in the Democratic Republic of the Congo opens in the eastern city of Bukavu. ](/news/2011/02/4/a-new-centre-to-help-rape-victims-in-the-democratic-republic-of-the-congo-opens-in-the-eastern-city-of-bukavu.md)

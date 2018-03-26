@@ -21,7 +21,7 @@ _Context: Ben Bernanke, Federal Reserve System, United States_
 
 ##### CBS News
 ### [ CBS News's Mike Wallace holds an interview with Mahmoud Ahmadinejad, the president of Iran. In the interview, Ahmadinejad said that the letter he sent to George W. Bush was meant to "open a window towards the light" for Bush to "see that one can look on the world through a different perspective." He responded to his nation's nuclear program and possible weapons program saying that Iran was "studying" the offer presented by the United States and the European Union. He also claimed that Bush "believes that his power emanates from his nuclear warhead arsenals." ](/news/2006/08/8/cbs-news-s-mike-wallace-holds-an-interview-with-mahmoud-ahmadinejad-the-president-of-iran-in-the-interview-ahmadinejad-said-that-the-let.md)
-_Context: CBS News, European Union, George W. Bush, Iran, Iran and weapons of mass destruction, Mahmoud Ahmadinejad, Mike Wallace, President, United States, letter he sent, the nation's nuclear program_
+_Context: CBS News, EU, George W. Bush, Iran, Iran and weapons of mass destruction, Mahmoud Ahmadinejad, Mike Wallace, President, United States, letter he sent, the nation's nuclear program_
 
 ## [Previous Day...](/news/2006/08/7/index.md)
 

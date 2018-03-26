@@ -47,7 +47,7 @@ Authorities said Friday they foiled a suicide bombing plot to blow up the Mid-Co
 ### [15 Iranians and 3 Iraqis were killed in a pipeline attack in the north-east of Baghdad. ](/news/2013/12/13/15-iranians-and-3-iraqis-were-killed-in-a-pipeline-attack-in-the-north-east-of-baghdad.md)
 Eighteen gas pipeline workers, most of them Iranians, have been shot dead in an attack north-east of Baghdad, officials say.
 
-##### European Union
+##### EU
 ### [The European Union is criticized by Amnesty International for meager assistance of Syrian refugees. ](/news/2013/12/13/the-european-union-is-criticized-by-amnesty-international-for-meager-assistance-of-syrian-refugees.md)
 LONDON — Europe has failed miserably to do its part to assuage Syria’s desperate refugee crisis, accepting a shamefully small number of people fleeing the civil war there and maltreating those who try to get in, Amnesty International said Friday.
 

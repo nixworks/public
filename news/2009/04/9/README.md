@@ -21,7 +21,7 @@ _Context: 2010 FIFA World Cup, Belfast, Northern Ireland, foreign national, qual
 
 ##### Harry Potter
 ### [ "Harry Potter" author J. K. Rowling resigns as patron of Scotland's Multiple Sclerosis Society. ](/news/2009/04/9/harry-potter-author-j-k-rowling-resigns-as-patron-of-scotland-s-multiple-sclerosis-society.md)
-_Context: Harry Potter, J. K. Rowling, Multiple Sclerosis Society, Scottish, author, patron_
+_Context: Harry Potter, J. K. Rowling, Multiple Sclerosis Society, Scotland, author, patron_
 
 ##### Kim Jong-il
 ### [ Kim Jong-il appears publicly for the first time since August 2008 for reelection as North Korea's Great Leader. ](/news/2009/04/9/kim-jong-il-appears-publicly-for-the-first-time-since-august-2008-for-reelection-as-north-korea-s-great-leader.md)

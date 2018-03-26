@@ -55,7 +55,7 @@ _Context: Chinese, Hubei_
 ### [United States President Barack Obama blocks China's Fujian Grand Chip Investment Fund's acquisition of the U.S. semiconductor business of German-based Aixtron because of national security concerns. The German Economy Ministry withdrew its approval in October. ](/news/2016/12/2/united-states-president-barack-obama-blocks-china-s-fujian-grand-chip-investment-fund-s-acquisition-of-the-u-s-semiconductor-business-of-ge.md)
 (This December 2 story corrects to show the 2 billion rubles is combined amount stolen from accounts in central bank and commercial banks, not from central bank alone; clarifies that the figures are total stolen in cyberattacks for the year to date)
 
-##### European Union
+##### EU
 ### [Ministers of the European Union have given the EU president a mandate to lower charges that mobile phone services can impose on one another for keeping each others' customers connected as the customers "roam," that is, travel about Europe. ](/news/2016/12/2/ministers-of-the-european-union-have-given-the-eu-president-a-mandate-to-lower-charges-that-mobile-phone-services-can-impose-on-one-another.md)
 European Union ministers on Friday backed lowering the caps for how much mobile telecoms operators can charge each other to keep their customers connected while abroad, although they are likely to be cut further in subsequent negotiations.
 

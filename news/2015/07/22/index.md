@@ -37,7 +37,7 @@ At least 29 people died and 60 were wounded in multiple bomb blasts at two bus s
 
 ##### Suicide bombing
 ### [ A suicide bomb attack kills at least 15 people in northern Afghanistan. ](/news/2015/07/22/a-suicide-bomb-attack-kills-at-least-15-people-in-northern-afghanistan.md)
-_Context: Afghan, suicide bombing_
+_Context: Afghanistan, suicide bombing_
 
 ## [Previous Day...](/news/2015/07/21/index.md)
 

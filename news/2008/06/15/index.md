@@ -15,7 +15,7 @@ _Context: 2008 Iwate earthquake, Japan, Kurihara, Miyagi, hot spring, mudslide_
 ### [ Heavy rain in southern China causes flooding with at least six people dead, four missing and 150,000 people evacuated from Guangdong and Guangxi provinces. ](/news/2008/06/15/heavy-rain-in-southern-china-causes-flooding-with-at-least-six-people-dead-four-missing-and-150-000-people-evacuated-from-guangdong-and-gu.md)
 _Context: China, Guangdong, Guangxi Zhuang, flood_
 
-##### Afghan
+##### Afghanistan
 ### [ The President of Afghanistan Hamid Karzai warns the Taliban that he will send forces into Pakistan in hot pursuit of militants. ](/news/2008/06/15/the-president-of-afghanistan-hamid-karzai-warns-the-taliban-that-he-will-send-forces-into-pakistan-in-hot-pursuit-of-militants.md)
 U.S-led and Afghan forces killed more than 15 insurgents in a search for hundreds of prisoners, including Taliban, who broke out of jail after comrades blew up the gates, the U.S. military said on Sunday.
 

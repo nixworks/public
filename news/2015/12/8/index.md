@@ -61,7 +61,7 @@ Russia has, for the first time, targeted Islamic State targets in Syria with Kal
 
 ##### Yemeni Civil War (2015)
 ### [Saudi-led coalition airstrikes, targeting Houthi rebels battling pro-government fighters, killed and wounded dozens in the port city of Mocha, according to Yemeni security officials. Around 35 fighters on both sides were killed in the battle over a key military base near the city of Taiz. ](/news/2015/12/8/saudi-led-coalition-airstrikes-targeting-houthi-rebels-battling-pro-government-fighters-killed-and-wounded-dozens-in-the-port-city-of-moch.md)
-_Context: Houthis, Mocha, Saudi Arabian-led intervention in Yemen, Taiz, Yemen, Yemeni, Yemeni Civil War (2015)_
+_Context: Houthi, Mocha, Saudi Arabian-led intervention in Yemen, Taiz, Yemen, Yemeni, Yemeni Civil War (2015)_
 
 ##### War in Afghanistan (2015-present)
 ### [Several Taliban insurgents storm into Kandahar International Airport and engage Afghan security forces in a firefight. ](/news/2015/12/8/several-taliban-insurgents-storm-into-kandahar-international-airport-and-engage-afghan-security-forces-in-a-firefight.md)

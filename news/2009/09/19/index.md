@@ -19,21 +19,21 @@ _Context: District 9, Nigeria_
 ### [ Pope Benedict XVI announces he is to hold a special meeting of Roman Catholic bishops to discuss the concerns and challenges of the Church in the Middle East in October 2010. ](/news/2009/09/19/pope-benedict-xvi-announces-he-is-to-hold-a-special-meeting-of-roman-catholic-bishops-to-discuss-the-concerns-and-challenges-of-the-church.md)
 Pope Benedict today announced he would hold a special meeting next year of Roman Catholic bishops to discuss the concerns and&hellip;
 
-##### France
+##### French
 ### [ France's government holds emergency talks with farmers to avert protests over falling dairy prices. ](/news/2009/09/19/france-s-government-holds-emergency-talks-with-farmers-to-avert-protests-over-falling-dairy-prices.md)
-_Context: France_
+_Context: French_
 
 ##### Vera Lynn
 ### [ Singer Vera Lynn, aged 92, becomes the oldest artist to obtain a number one album in the United Kingdom. ](/news/2009/09/19/singer-vera-lynn-aged-92-becomes-the-oldest-artist-to-obtain-a-number-one-album-in-the-united-kingdom.md)
 Bittersweet memories of other difficult times helped push an anthology of reissued World War II-era songs to the top of the British music charts.
 
-##### German
+##### Germany
 ### [ Two German ships become the first Western commercial vessels to navigate the Northern Sea Route. ](/news/2009/09/19/two-german-ships-become-the-first-western-commercial-vessels-to-navigate-the-northern-sea-route.md)
-_Context: German, Northern Sea Route_
+_Context: Germany, Northern Sea Route_
 
 ##### Al Qaeda
 ### [ The German government raises its terrorism alert level after al Qaeda posted a video on the Internet threatening attacks in Germany based on the outcome of this month's elections. ](/news/2009/09/19/the-german-government-raises-its-terrorism-alert-level-after-al-qaeda-posted-a-video-on-the-internet-threatening-attacks-in-germany-based-o.md)
-_Context: German, al Qaeda_
+_Context: Germany, al Qaeda_
 
 ##### Pakistan
 ### [ Pakistani police raid a local security firm that provides security for the United States embassy for illegal weapons possession. ](/news/2009/09/19/pakistani-police-raid-a-local-security-firm-that-provides-security-for-the-united-states-embassy-for-illegal-weapons-possession.md)
@@ -73,7 +73,7 @@ _Context: Colorado, Denver, FBI, United States_
 
 ##### Africa
 ### [ A six-nation east African regional bloc consisting of Djibouti, Ethiopia, Kenya, Somalia, Sudan and Uganda urges global sanctions on Eritrea for backing Islamist rebels in neighbouring war-torn Somalia. ](/news/2009/09/19/a-six-nation-east-african-regional-bloc-consisting-of-djibouti-ethiopia-kenya-somalia-sudan-and-uganda-urges-global-sanctions-on-eritre.md)
-_Context: Africa, Djibouti, Eritrea, Ethiopia, Kenya, Muslim, Somali, Sudan, Uganda_
+_Context: Africa, Djibouti, Eritrea, Ethiopia, Kenya, Muslim, Somalia, Sudan, Uganda_
 
 ## [Previous Day...](/news/2009/09/18/index.md)
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/12/20/diplomats-from-the-european-union-non-aligned-m
 
 ### [2011-12-20](/news/2011/12/20/index.md)
 
-##### European Union
+##### EU
 # Diplomats from the European Union, Non-aligned Movement and the Arab States Group on the UN Security Council criticise Israeli settlement activities in the West Bank and East Jerusalem. 
 
 All the regional groupings on the UN Security Council condemn Israeli settlement activities in occupied Palestinian territories, in a surprise move.

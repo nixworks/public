@@ -9,7 +9,7 @@ _Context: Grenada, Grenadian constitutional referendum, 2016, United Kingdom_
 
 ##### Austrian presidential election, 2016
 ### [Freedom Party of Austria presidential candidate Norbert Hofer intends to hold a referendum on European Union membership if elected. ](/news/2016/11/24/freedom-party-of-austria-presidential-candidate-norbert-hofer-intends-to-hold-a-referendum-on-european-union-membership-if-elected.md)
-_Context: Austrian presidential election, 2016, European Union, Freedom Party of Austria, Norbert Hofer_
+_Context: Austrian presidential election, 2016, EU, Freedom Party of Austria, Norbert Hofer_
 
 ##### Haitian presidential election, 2016-17
 ### [Tensions spread in Haiti after both Maryse Narcisse of the Fanmi Lavalas party and Jovenel Moise of the Haitian Tet Kale Party declare themselves winners. ](/news/2016/11/24/tensions-spread-in-haiti-after-both-maryse-narcisse-of-the-fanmi-lavalas-party-and-jovenel-moise-of-the-haitian-ta-t-kale-party-declare-them.md)

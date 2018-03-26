@@ -45,7 +45,7 @@ The Saudi-led coalition battling Houthi rebels in Yemen says it has seized an Ir
 
 ##### 2015 Hajj stampede
 ### [Iran's Supreme Leader Ayatollah Ali Khamenei warns Saudi Arabia of "harsh" measures if the Kingdom fails to promptly repatriate the bodies of more than 200 Iranian pilgrims killed in last week's Hajj stampede. ](/news/2015/09/30/iran-s-supreme-leader-ayatollah-ali-khamenei-warns-saudi-arabia-of-harsh-measures-if-the-kingdom-fails-to-promptly-repatriate-the-bodies-o.md)
-_Context: 2015 Hajj stampede, Ali Khamenei, Hajj, Saudi, Supreme Leader, pilgrims, stampede_
+_Context: 2015 Hajj stampede, Ali Khamenei, Hajj, Saudi Arabia, Supreme Leader, pilgrims, stampede_
 
 ##### Liucheng County
 ### [At least six people are killed and dozens injured in explosions at 15 locations in Liucheng County in China's Guangxi Zhuang Autonomous Region. The explosives were reportedly concealed inside express delivery packages. Chinese officials have identified a suspect, but the motive is not yet known. ](/news/2015/09/30/at-least-six-people-are-killed-and-dozens-injured-in-explosions-at-15-locations-in-liucheng-county-in-china-s-guangxi-zhuang-autonomous-regi.md)

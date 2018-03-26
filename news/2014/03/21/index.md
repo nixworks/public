@@ -17,7 +17,7 @@ _Context: Bernard A. Friedman, Michigan, U.S. District Judge for the Eastern Dis
 
 ##### Ukrainian
 ### [Ukraine signs an association accord with the European Union in defiance of Russia. ](/news/2014/03/21/ukraine-signs-an-association-accord-with-the-european-union-in-defiance-of-russia.md)
-_Context: European Union, Russia, Ukrainian_
+_Context: EU, Russia, Ukrainian_
 
 ##### Russia
 ### [The Russian Federation Council, the upper house of the Federal Assembly, approves the annexation of Crimea. ](/news/2014/03/21/the-russian-federation-council-the-upper-house-of-the-federal-assembly-approves-the-annexation-of-crimea.md)
@@ -25,7 +25,7 @@ MOSCOW (AP) — The upper house of the Russian parliament has approved Moscow&#x
 
 ##### Turkey
 ### [Turkey restricts access to Twitter hours after the Prime Minister Recep Tayyip Erdogan threatens to "root out" the social network where politically sensitive documents had been published. ](/news/2014/03/21/turkey-restricts-access-to-twitter-hours-after-the-prime-minister-recep-tayyip-erdoaan-threatens-to-root-out-the-social-network-where-pol.md)
-_Context: Recep Tayyip Erdogan, Turkey, Turkish Prime Minister, Twitter_
+_Context: Recep Tayyip Erdogan, Turkey, Turkish Prime Minister, tweeting_
 
 ##### Tripoli, Lebanon
 ### [Clashes erupt in Tripoli, Lebanon, between Syrian regime supporters and detractors, leaving 3 dead. ](/news/2014/03/21/clashes-erupt-in-tripoli-lebanon-between-syrian-regime-supporters-and-detractors-leaving-3-dead.md)

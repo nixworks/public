@@ -11,9 +11,9 @@ _Context: Hurricane Dolly, South Padre Island, Texas, landfall_
 ### [ Cape Verde officially joins the World Trade Organization, becoming its 153rd member. ](/news/2008/07/23/cape-verde-officially-joins-the-world-trade-organization-becoming-its-153rd-member.md)
 _Context: Cape Verde, World Trade Organization_
 
-##### European Union
+##### EU
 ### [ The European Union suspends payments to two Bulgarian agencies due to concerns over corruption and organized crime. ](/news/2008/07/23/the-european-union-suspends-payments-to-two-bulgarian-agencies-due-to-concerns-over-corruption-and-organized-crime.md)
-_Context: Bulgaria, European Union, corruption, organization_
+_Context: Bulgaria, EU, corruption, organization_
 
 ##### Movement for the Emancipation of the Niger Delta
 ### [ Militants who formed the Movement for the Emancipation of the Niger Delta announce that unless the Nigerian Army withdraws from the area and their development demands are met, they will shut down oil and gas production from Bonny Island. ](/news/2008/07/23/militants-who-formed-the-movement-for-the-emancipation-of-the-niger-delta-announce-that-unless-the-nigerian-army-withdraws-from-the-area-an.md)

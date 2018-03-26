@@ -11,9 +11,9 @@ _Context: Supreme Court, Sweden, TV channel, Vilgot Sjoman, commercial, copyrigh
 ### [ The Netherlands sets a new world record in the 400-metres relay at the European swimming championships in Eindhoven. ](/news/2008/03/18/the-netherlands-sets-a-new-world-record-in-the-400-metres-relay-at-the-european-swimming-championships-in-eindhoven.md)
 _Context: Dutch, Eindhoven, European Swimming Championships, relay_
 
-##### France
+##### French
 ### [ French Foreign Minister Bernard Kouchner says the EU should consider punishing China's crackdown in Tibet with a boycott of the opening ceremony of the Olympic Games in Beijing. ](/news/2008/03/18/french-foreign-minister-bernard-kouchner-says-the-eu-should-consider-punishing-china-s-crackdown-in-tibet-with-a-boycott-of-the-opening-cer.md)
-_Context: 2008 Summer Olympics, Beijing, Bernard Kouchner, Chinese, European Union, France, Tibet, boycott_
+_Context: 2008 Summer Olympics, Beijing, Bernard Kouchner, Chinese, EU, French, Tibet, boycott_
 
 ##### Canada
 ### [ Canada and Japan recognize Kosovo's independence. ](/news/2008/03/18/canada-and-japan-recognize-kosovo-s-independence.md)
@@ -41,7 +41,7 @@ _Context: Federal Reserve System, United States, federal funds rate_
 
 ##### Israel
 ### [ In an address to the Israeli Knesset, German Chancellor Angela Merkel says "Germany will always stand by the Jewish state." ](/news/2008/03/18/in-an-address-to-the-israeli-knesset-german-chancellor-angela-merkel-says-germany-will-always-stand-by-the-jewish-state.md)
-_Context: Angela Merkel, Chancellor, German, Israel, Jewish state, parliament in Israel_
+_Context: Angela Merkel, Chancellor, Germany, Israel, Jewish state, parliament in Israel_
 
 ## [Previous Day...](/news/2008/03/17/index.md)
 

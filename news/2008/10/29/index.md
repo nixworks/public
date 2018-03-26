@@ -13,7 +13,7 @@ _Context: Pakistan, Ziarat, it was struck_
 
 ##### Suicide bombers attack targets
 ### [ Suicide bombers attack targets in Somalia: Hargeisa, the capital of the self-proclaimed republic of Somaliland, and Bosaso, a city in the autonomous state of Puntland. ](/news/2008/10/29/suicide-bombers-attack-targets-in-somalia-hargeisa-the-capital-of-the-self-proclaimed-republic-of-somaliland-and-bosaso-a-city-in-the-a.md)
-_Context: Bosaso, Hargeisa, Puntland, Somali, Somaliland, Suicide bombers attack targets_
+_Context: Bosaso, Hargeisa, Puntland, Somalia, Somaliland, Suicide bombers attack targets_
 
 ##### Denmark
 ### [ Danish-based low-cost carrier Sterling Airlines files for bankruptcy and stops all passenger flights after its cash-strapped Icelandic investors were unable keep the company afloat.](/news/2008/10/29/danish-based-low-cost-carrier-sterling-airlines-files-for-bankruptcy-and-stops-all-passenger-flights-after-its-cash-strapped-icelandic-inve.md)
@@ -21,7 +21,7 @@ _Context: Denmark, Iceland, Sterling Airlines, bankruptcy, low-cost carrier_
 
 ##### India
 ### [ India's Viswanathan Anand retains the World Chess Championship title in Bonn, Germany, by defeating Russia's Vladimir Kramnik. ](/news/2008/10/29/india-s-viswanathan-anand-retains-the-world-chess-championship-title-in-bonn-germany-by-defeating-russiaas-vladimir-kramnik.md)
-_Context: Bonn, German, India, Russia, Viswanathan Anand, Vladimir Kramnik, World Chess Championship_
+_Context: Bonn, Germany, India, Russia, Viswanathan Anand, Vladimir Kramnik, World Chess Championship_
 
 ##### Philadelphia Phillies
 ### [ The Philadelphia Phillies win the 2008 World Series 4 games to 1, defeating the Tampa Bay Rays 4-3 in Game 5. ](/news/2008/10/29/the-philadelphia-phillies-win-the-2008-world-series-4-games-to-1-defeating-the-tampa-bay-rays-4-3-in-game-5.md)

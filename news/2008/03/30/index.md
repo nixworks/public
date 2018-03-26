@@ -19,13 +19,13 @@ _Context: North Korea, South Korea, pre-emptive strike_
 ### [ Battle of Basra (2008): Shiite cleric Muqtada al-Sadr calls for his followers, the Mahdi Army, to lay down their arms and end their fighting with the Iraqi Army in Basra. ](/news/2008/03/30/battle-of-basra-2008-shiite-cleric-muqtada-al-sadr-calls-for-his-followers-the-mahdi-army-to-lay-down-their-arms-and-end-their-fightin.md)
 The Iraqi government has welcomed an order by Shiite cleric Muqtada al-Sadr to pull his fighters off the streets.
 
-##### France
+##### French
 ### [ French architect Jean Nouvel wins one of the world's premier architecture honors, the Pritzker Prize. ](/news/2008/03/30/french-architect-jean-nouvel-wins-one-of-the-world-s-premier-architecture-honors-the-pritzker-prize.md)
 Jean Nouvel, known for diverse but distinctive projects, has won architecture’s top honor.
 
-##### European Union
+##### EU
 ### [ The enlargement of the EU's borderless zone to eight Eastern European countries and Malta is completed through the lifting of air border controls between them and the 15 countries already part of the area. ](/news/2008/03/30/the-enlargement-of-the-eu-s-borderless-zone-to-eight-eastern-european-countries-and-malta-is-completed-through-the-lifting-of-air-border-co.md)
-_Context: European Union, Malta, borderless zone_
+_Context: EU, Malta, borderless zone_
 
 ##### Aloha Airlines
 ### [ Aloha Airlines, a Hawaii based airline which operates inter-island and trans-Pacific flights, has suspended all passenger services effective March 31, 2008, due to bankruptcy. ](/news/2008/03/30/aloha-airlines-a-hawaii-based-airline-which-operates-inter-island-and-trans-pacific-flights-has-suspended-all-passenger-services-effectiv.md)

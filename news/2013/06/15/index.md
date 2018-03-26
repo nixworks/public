@@ -31,7 +31,7 @@ _Context: Dallas Love Field, George W. Bush, Gulfstream IV, Louisville Internati
 ### [More than ten thousand families are evacuated in the Filipino province of Cotabato due to heavy rain. ](/news/2013/06/15/more-than-ten-thousand-families-are-evacuated-in-the-filipino-province-of-cotabato-due-to-heavy-rain.md)
 MANILA, Philippines &ndash; More than 10,000 families in Cotabato were evacuated after heavy rains triggered massive floods in the province.
 
-##### Somali
+##### Somalia
 ### [A bombing at a tea shop kills seven people, including soldiers, in the Somali town of Wanlaweyn. ](/news/2013/06/15/a-bombing-at-a-tea-shop-kills-seven-people-including-soldiers-in-the-somali-town-of-wanlaweyn.md)
 At least seven people were killed when a bomb exploded in a tea shop popular with government troops in the Somali town of Wanlaweyn on Saturday, officials and residents said.
 

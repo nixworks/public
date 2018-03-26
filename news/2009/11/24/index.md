@@ -33,7 +33,7 @@ _Context: Iraq War, United Kingdom, inquiry opens_
 
 ##### European Parliament
 ### [ The European Parliament approves a major overhaul of telecommunications systems in the European Union aimed at boosting the rights of mobile and internet users. ](/news/2009/11/24/the-european-parliament-approves-a-major-overhaul-of-telecommunications-systems-in-the-european-union-aimed-at-boosting-the-rights-of-mobil.md)
-_Context: European Parliament, European Union_
+_Context: EU, European Parliament_
 
 ##### Russia
 ### [ Russian President Dmitry Medvedev orders an investigation into the death of an anti-corruption lawyer Sergei Magnitsky who died in prison while awaiting trial on charges of tax evasion. ](/news/2009/11/24/russian-president-dmitry-medvedev-orders-an-investigation-into-the-death-of-an-anti-corruption-lawyer-sergei-magnitsky-who-died-in-prison-w.md)
@@ -63,9 +63,9 @@ Trade unions have announced plans for a second national strike in public sector 
 ### [ Four people are killed in a helicopter crash off the coast of Netanya in northern Israel. ](/news/2009/11/24/four-people-are-killed-in-a-helicopter-crash-off-the-coast-of-netanya-in-northern-israel.md)
 _Context: Israel, Netanya_
 
-##### France
+##### French
 ### [ Two French charity workers are kidnapped in the Central African Republic, in the latest in a series of kidnappings. ](/news/2009/11/24/two-french-charity-workers-are-kidnapped-in-the-central-african-republic-in-the-latest-in-a-series-of-kidnappings.md)
-_Context: Central African Republic, France_
+_Context: Central African Republic, French_
 
 ##### Casablanca
 ### [ An appeal court in Casablanca, Morocco, upholds a three year jail term against a human rights activist, Chahib Khayari, for "offending the authorities" after accusing top officials of being involved in drug networks. ](/news/2009/11/24/an-appeal-court-in-casablanca-morocco-upholds-a-three-year-jail-term-against-a-human-rights-activist-chahib-khayari-for-offending-the.md)

@@ -25,7 +25,7 @@ _Context: Mega Millions_
 
 ##### Government of Fiji
 ### [The Government of Fiji seizes a controlling interest in subsidiary Air Pacific from the Australian airline Qantas. Qantas remains in control of its equity in the airline. ](/news/2012/03/28/the-government-of-fiji-seizes-a-controlling-interest-in-subsidiary-air-pacific-from-the-australian-airline-qantas-qantas-remains-in-control.md)
-_Context: Air Pacific, Australia, Government of Fiji, Qantas_
+_Context: Air Pacific, Australia, Government of Fiji, Qantas Airways_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI calls for greater openness in Cuba during a speech in Revolution Square, Havana. ](/news/2012/03/28/pope-benedict-xvi-calls-for-greater-openness-in-cuba-during-a-speech-in-revolution-square-havana.md)

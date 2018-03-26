@@ -7,7 +7,7 @@ Formats: [HTML](2015/07/25/index.html)  [JSON](2015/07/25/index.json)  [XML](201
 ### [The Tunisian parliament approves a new anti-terror law that allows the death penalty for terrorists. ](/news/2015/07/25/the-tunisian-parliament-approves-a-new-anti-terror-law-that-allows-the-death-penalty-for-terrorists.md)
 _Context: Tunisian parliament, anti-terror law, death penalty_
 
-##### France
+##### French
 ### [A large fire 12 mi west of the French city of Bordeaux ravages more than 350 ha of forest. ](/news/2015/07/25/a-large-fire-12-mi-west-of-the-french-city-of-bordeaux-ravages-more-than-350-ha-of-forest.md)
 Water-bombers were called in Saturday to try to contain a forest fire burning on the western outskirts of Bordeaux that has prompted dozens of evacuations including from a psychiatric facility, authorities said.
 

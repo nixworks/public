@@ -25,7 +25,7 @@ _Context: 2008 Turkish incursion into northern Iraq, Iraq, Turkey_
 
 ##### United Kingdom
 ### [ The British Ministry of Defence announces that Prince Harry will have to return home from his deployment in Afghanistan as recent publicity made it too dangerous for him to stay there. ](/news/2008/02/29/the-british-ministry-of-defence-announces-that-prince-harry-will-have-to-return-home-from-his-deployment-in-afghanistan-as-recent-publicity.md)
-_Context: Afghan, International Security Assistance Force, Ministry of Defence, Prince Harry, United Kingdom_
+_Context: Afghanistan, International Security Assistance Force, Ministry of Defence, Prince Harry, United Kingdom_
 
 ##### United States Department of Agriculture
 ### [ The U.S. Department of Agriculture stands down two employees as part of its investigation of the biggest meat recall in United States history. ](/news/2008/02/29/the-u-s-department-of-agriculture-stands-down-two-employees-as-part-of-its-investigation-of-the-biggest-meat-recall-in-united-states-histo.md)

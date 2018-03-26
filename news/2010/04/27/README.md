@@ -65,7 +65,7 @@ Madhuri Gupta, a second secretary in the Indian High Commission in Islamabad, ha
 
 ##### Standard & Poor's
 ### [Standard & Poor's downgrades Greece's sovereign credit rating to junk, four days after the country's government requests the activation of a EUR45-billion EU-IMF bailout. ](/news/2010/04/27/standard-poor-s-downgrades-greece-s-sovereign-credit-rating-to-junk-four-days-after-the-country-s-government-requests-the-activation-of-a.md)
-_Context: EUR, European Union, Greece, International Monetary Fund, Standard & Poor's, bailout, downgrades, junk, sovereign credit rating_
+_Context: EU, EUR, Greece, International Monetary Fund, Standard & Poor's, bailout, downgrades, junk, sovereign credit rating_
 
 ## [Previous Day...](/news/2010/04/26/index.md)
 

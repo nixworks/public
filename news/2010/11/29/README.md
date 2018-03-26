@@ -69,7 +69,7 @@ A retired electrician in southern France says he has hundreds of previously unkn
 
 ##### Somali pirates
 ### [Somali pirates hijack a Malaysian cargo vessel with 23 crew members 900 miles off the coast of Somalia. ](/news/2010/11/29/somali-pirates-hijack-a-malaysian-cargo-vessel-with-23-crew-members-900-miles-off-the-coast-of-somalia.md)
-_Context: Malaysia, Somali, Somali pirates_
+_Context: Malaysia, Somali pirates, Somalia_
 
 ##### Islamist
 ### [Four Islamist militants are killed in a raid by security forces in Osh, Kyrgyzstan. ](/news/2010/11/29/four-islamist-militants-are-killed-in-a-raid-by-security-forces-in-osh-kyrgyzstan.md)

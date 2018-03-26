@@ -23,7 +23,7 @@ _Context: Andres Manuel Lopez Obrador, Mexico City, mayor_
 ### [ A Finnish man is accused of sexual abuse of 445 boys in Thailand ](/news/2005/04/25/a-finnish-man-is-accused-of-sexual-abuse-of-445-boys-in-thailand.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
-##### German
+##### Germany
 ### [ Germany's foreign minister, Joschka Fischer admits in a public hearing that procedural mistakes allowed criminals to have visas to enter the country. He also states that his political opponents had exaggarated the situation. ](/news/2005/04/25/germany-s-foreign-minister-joschka-fischer-admits-in-a-public-hearing-that-procedural-mistakes-allowed-criminals-to-have-visas-to-enter-th.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
@@ -49,7 +49,7 @@ _Context: Copenhagen, Mary, Crown Princess of Denmark_
 
 ##### Bulgaria
 ### [ Bulgaria and Romania sign accession treaty to the European Union, continuing the enlargement process. ](/news/2005/04/25/bulgaria-and-romania-sign-accession-treaty-to-the-european-union-continuing-the-enlargement-process.md)
-_Context: Bulgaria, European Union, European Union candidacy, Romania_
+_Context: Bulgaria, EU, European Union candidacy, Romania_
 
 ##### Israeli-Palestinian Conflict
 ### [ Israeli-Palestinian Conflict: Amnesty International has called on the Israeli government to investigate the poisoning of Palestinian land, allegedly by Israeli settlers around Hebron ](/news/2005/04/25/israeli-palestinian-conflict-amnesty-international-has-called-on-the-israeli-government-to-investigate-the-poisoning-of-palestinian-land.md)

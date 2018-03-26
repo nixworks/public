@@ -11,9 +11,9 @@ _Context: Johor Strait, Malaysia, Singapore_
 ### [ Venezuela recalls its ambassador to Colombia because of the disagreement over capture of FARC member Rodrigo Granda ](/news/2005/01/14/venezuela-recalls-its-ambassador-to-colombia-because-of-the-disagreement-over-capture-of-farc-member-rodrigo-granda.md)
 _Context: Colombia, FARC, Rodrigo Granda, Venezuela, ambassador_
 
-##### Somali
+##### Somalia
 ### [ Somalian transitional parliament in Kenya has approved the second suggested cabinet of prime minister Ali Mohammed Ghedi. They rejected his earlier suggested cabinet four weeks ago ](/news/2005/01/14/somalian-transitional-parliament-in-kenya-has-approved-the-second-suggested-cabinet-of-prime-minister-ali-mohammed-ghedi-they-rejected-his.md)
-_Context: Ali Mohammed Ghedi, Kenya, Somali_
+_Context: Ali Mohammed Ghedi, Kenya, Somalia_
 
 ##### Argentina
 ### [ An Argentine ex-naval officer Adolfo Scilingo goes to trial in Spain accused of killing political prisoners during Argentina's "Dirty War". He was declared fit for trial despite a hunger strike. ](/news/2005/01/14/an-argentine-ex-naval-officer-adolfo-scilingo-goes-to-trial-in-spain-accused-of-killing-political-prisoners-during-argentina-s-dirty-war.md)
@@ -31,9 +31,9 @@ Get the latest science news and technology news, read tech reviews and more at A
 ### [ Israeli-Palestinian conflict: The Gaza Strip has been completely sealed off by Israel, following yesterday's events which saw the first major attacks by Palestinians on Israeli civilians since Mahmoud Abbas was elected, and followed several Israeli raids in the Gaza Strip and the West Bank. ](/news/2005/01/14/israeliapalestinian-conflict-the-gaza-strip-has-been-completely-sealed-off-by-israel-following-yesterday-s-events-which-saw-the-first-m.md)
 _Context: Gaza Strip, Israel, Israeli-Palestinian conflict, Mahmoud Abbas, Palestinians, West Bank_
 
-##### Saudi
+##### Saudi Arabia
 ### [ Saudi Arabia's supreme judicial council announced that the ritual of the Day of Arafah would take place Wednesday rather than Thursday as expected. This means that Eid ul-Adha will begin a day earlier than thought. ](/news/2005/01/14/saudi-arabia-s-supreme-judicial-council-announced-that-the-ritual-of-the-day-of-arafah-would-take-place-wednesday-rather-than-thursday-as-e.md)
-_Context: Day of Arafah, Eid ul-Adha, Saudi, supreme judicial council_
+_Context: Day of Arafah, Eid ul-Adha, Saudi Arabia, supreme judicial council_
 
 ## [Previous Day...](/news/2005/01/13/index.md)
 

@@ -27,13 +27,13 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### [ A chlorine gas leak at a Chinese chemical plant has hospitalized 164 people. It occurred at the Xing'erte Chemical Products Co. ](/news/2006/07/10/a-chlorine-gas-leak-at-a-chinese-chemical-plant-has-hospitalized-164-people-it-occurred-at-the-xing-erte-chemical-products-co.md)
 A chlorine gas leak at a Chinese chemical plant sends 164 people to the hospital, a government news agency reports.
 
-##### Somali
+##### Somalia
 ### [ Fighting erupts in Somalia, with fighting between Somalian fighters aligned with defeated warlords and Islamic militants killing 60 people and wounding 100. ](/news/2006/07/10/fighting-erupts-in-somalia-with-fighting-between-somalian-fighters-aligned-with-defeated-warlords-and-islamic-militants-killing-60-people.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ##### Israel
 ### [ Israeli prime minister Ehud Olmert criticises the European Union for its refusal to condemn the daily Palestinian rocket attacks against Israeli civilians, leaving Israel to take effective measures by itself. ](/news/2006/07/10/israeli-prime-minister-ehud-olmert-criticises-the-european-union-for-its-refusal-to-condemn-the-daily-palestinian-rocket-attacks-against-is.md)
-_Context: Ehud Olmert, European Union, Israel, Palestinian Authority, Prime Minister, rocket attacks_
+_Context: EU, Ehud Olmert, Israel, Palestinian Authority, Prime Minister, rocket attacks_
 
 ##### Palestinian
 ### [ A Palestinian girl is critically wounded when a Qassam rocket launched by Palestenian militants hits her home in the Gaza Strip. ](/news/2006/07/10/a-palestinian-girl-is-critically-wounded-when-a-qassam-rocket-launched-by-palestenian-militants-hits-her-home-in-the-gaza-strip.md)

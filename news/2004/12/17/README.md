@@ -23,9 +23,9 @@ _Context: Colombia, Irish Republican Army, Three suspected, appellate court, bai
 ### [ Police in West Java, Indonesia, say that they have found nine home-made bombs on a bus during a security operation. ](/news/2004/12/17/police-in-west-java-indonesia-say-that-they-have-found-nine-home-made-bombs-on-a-bus-during-a-security-operation.md)
 Channel NewsAsia - Breaking News, Asia-Pacific news coverage from Channel NewsAsia featuring Business, World, Sport, Entertainment, Technology, Health, Lifestyle and Live Streaming.
 
-##### European Union
+##### EU
 ### [ The E.U. states that Turkey must recognize the ethnic-Greek government of E.U. member state Cyprus before it can begin negotiations for E.U. membership. Currently Turkey is the only country that recognizes the Turkish Republic of Northern Cyprus. ](/news/2004/12/17/the-e-u-states-that-turkey-must-recognize-the-ethnic-greek-government-of-e-u-member-state-cyprus-before-it-can-begin-negotiations-for-e-u.md)
-_Context: Accession of Turkey to the European Union, Cyprus, European Union, Greek, TRNC, Turkey_
+_Context: Accession of Turkey to the European Union, Cyprus, EU, Greek, TRNC, Turkey_
 
 ##### U.S. President
 ### [ U.S. President George W. Bush, speaking to business executives and economists at the White House, vows to push through big reforms to the Social Security program, including partial privatization of the state pension fund, during his second term. ](/news/2004/12/17/u-s-president-george-w-bush-speaking-to-business-executives-and-economists-at-the-white-house-vows-to-push-through-big-reforms-to-the-s.md)

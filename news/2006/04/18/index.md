@@ -5,7 +5,7 @@ Formats: [HTML](2006/04/18/index.html)  [JSON](2006/04/18/index.json)  [XML](200
 
 ##### Gazprom
 ### [ The head of Gazprom, Russia's natural-gas monopoly, told officials of the European Union not to "politicize" the gas market--the speech was part of an escalating war of words between Russia as supplier and the EU as customer. ](/news/2006/04/18/the-head-of-gazprom-russia-s-natural-gas-monopoly-told-officials-of-the-european-union-not-to-politicize-the-gas-marketathe-speech-wa.md)
-_Context: European Union, Gazprom_
+_Context: EU, Gazprom_
 
 ##### 1906 San Francisco earthquake
 ### [ Today marks the 100th Anniversary of the 1906 San Francisco earthquake. Events marking the centennial will be held today and will continue through the end of the year. ](/news/2006/04/18/today-marks-the-100th-anniversary-of-the-1906-san-francisco-earthquake-events-marking-the-centennial-will-be-held-today-and-will-continue.md)

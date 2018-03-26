@@ -13,7 +13,7 @@ _Context: Colombia, Johnny Hurtado_
 
 ##### Amnesty International
 ### [Amnesty International asks Saudi Arabia's King Abdullah to intervene in the case of a Lebanese man sentenced to death for "sorcery". ](/news/2010/03/19/amnesty-international-asks-saudi-arabia-s-king-abdullah-to-intervene-in-the-case-of-a-lebanese-man-sentenced-to-death-for-sorcery.md)
-_Context: Abdullah, Amnesty International, Lebanese, Saudi_
+_Context: Abdullah, Amnesty International, Lebanese, Saudi Arabia_
 
 ##### Large Hadron Collider
 ### [The Large Hadron Collider (LHC) breaks its own record. ](/news/2010/03/19/the-large-hadron-collider-lhc-breaks-its-own-record.md)
@@ -41,13 +41,13 @@ BERLIN - Switzerland has halted all repatriation flights for rejected asylum see
 
 ##### Egypt
 ### [Egyptian mosques pray for President Hosni Mubarak&mdash;who is ill and whose health is taboo&mdash;as images of his recovery in Germany are broadcast on television screens, boosting stock markets. ](/news/2010/03/19/egyptian-mosques-pray-for-president-hosni-mubarak-mdash-who-is-ill-and-whose-health-is-taboo-mdash-as-images-of-his-recovery-in-germany-are.md)
-_Context: Egypt, German, Hosni Mubarak, President, mosque_
+_Context: Egypt, Germany, Hosni Mubarak, President, mosque_
 
 ##### Ethiopia
 ### [Ethiopian Prime Minister Meles Zenawi says radio station the Voice of America (VOA) is promoting "destabilising propaganda" that is inciting genocide in his country. ](/news/2010/03/19/ethiopian-prime-minister-meles-zenawi-says-radio-station-the-voice-of-america-voa-is-promoting-destabilising-propaganda-that-is-inciting.md)
 _Context: Ethiopia, Meles Zenawi, Prime Minister, Voice of America, genocide_
 
-##### Saudi
+##### Saudi Arabia
 ### [Complaints are raised against a Saudi Arabian writer for allegedly describing a hadith of the Prophet Muhammad as "barbaric" during a program presented by Nadeen Al-Badr on Al-Hurra Channel. ](/news/2010/03/19/complaints-are-raised-against-a-saudi-arabian-writer-for-allegedly-describing-a-hadith-of-the-prophet-muhammad-as-barbaric-during-a-progra.md)
 Jeddah Summary Court sends copy of lawsuit filed against writer to justice minister.
 
@@ -61,7 +61,7 @@ Pope Benedict XVI has today signed off on a pastoral letter to the Irish faithfu
 
 ##### President
 ### [President of Yemen Ali Abdullah Saleh declares an end to his country's six-year war against the Houthis. ](/news/2010/03/19/president-of-yemen-ali-abdullah-saleh-declares-an-end-to-his-country-s-six-year-war-against-the-houthis.md)
-_Context: Ali Abdullah Saleh, Houthis, President_
+_Context: Ali Abdullah Saleh, Houthi, President_
 
 ##### Sudan
 ### [At least 13 people die during clashes in Sudan. ](/news/2010/03/19/at-least-13-people-die-during-clashes-in-sudan.md)

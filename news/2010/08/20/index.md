@@ -99,7 +99,7 @@ _Context: Canada Post, Gaza Strip, Israel Post_
 ### [Israel and Palestinians agree to resume peace talks on September 2. ](/news/2010/08/20/israel-and-palestinians-agree-to-resume-peace-talks-on-september-2.md)
 Palestinians warn negotiations would be threatened if building on occupied land resumes.
 
-##### France
+##### French
 ### [France continues deporting Romani as the Vatican condemns this act. ](/news/2010/08/20/france-continues-deporting-romani-as-the-vatican-condemns-this-act.md)
 France was preparing to repatriate nearly another 140 Roma, a day after almost 100 were flown back to Romania under a controversial crackdown ordered by President Nicolas Sarkozy.
 

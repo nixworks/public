@@ -19,13 +19,13 @@ Japan on Monday turned back a Taiwan activist boat which approached a group of d
 ### [ South Korean construction workers join truck drivers in going on strike seeking higher pay and lower fuel costs. ](/news/2008/06/16/south-korean-construction-workers-join-truck-drivers-in-going-on-strike-seeking-higher-pay-and-lower-fuel-costs.md)
 South Korean construction workers joined striking truckers on Monday in the latest blow to new President Lee Myung-bak, whose repeated policy stumbles have seen his popularity plunge after less than four months in office.
 
-##### France
+##### French
 ### [ France announces plans to cut 54,000 defense jobs and push for a stronger European Security and Defence Policy as part of a new defense strategy. ](/news/2008/06/16/france-announces-plans-to-cut-54-000-defense-jobs-and-push-for-a-stronger-european-security-and-defence-policy-as-part-of-a-new-defense-str.md)
-_Context: European Security and Defence Policy, France_
+_Context: European Security and Defence Policy, French_
 
-##### European Union
+##### EU
 ### [ The European Union agrees to tougher sanctions against Iran for its alleged nuclear weapons program with the United Kingdom freezing assets of Iran's largest bank Bank Melli. ](/news/2008/06/16/the-european-union-agrees-to-tougher-sanctions-against-iran-for-its-alleged-nuclear-weapons-program-with-the-united-kingdom-freezing-assets.md)
-_Context: Bank Melli, European Union, Iran, Iran and weapons of mass destruction, United Kingdom, sanctions_
+_Context: Bank Melli, EU, Iran, Iran and weapons of mass destruction, United Kingdom, sanctions_
 
 ##### Tiger Woods
 ### [ Tiger Woods defeats Rocco Mediate in a playoff to win the 2008 U.S. Open Golf Championship. ](/news/2008/06/16/tiger-woods-defeats-rocco-mediate-in-a-playoff-to-win-the-2008-u-s-open-golf-championship.md)

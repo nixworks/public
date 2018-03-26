@@ -17,7 +17,7 @@ Monarch gives extra powers to parliament despite criticism from opposition which
 
 ##### Chinese
 ### [China, France, Russia, the United Kingdom and United States urge Iran to co-operate with the International Atomic Energy Agency. ](/news/2012/05/3/china-france-russia-the-united-kingdom-and-united-states-urge-iran-to-co-operate-with-the-international-atomic-energy-agency.md)
-_Context: Chinese, France, IAEA, Iran, Russia, United Kingdom, United States_
+_Context: Chinese, French, IAEA, Iran, Russia, United Kingdom, United States_
 
 ##### Malian coup d'tat
 ### [2012 Malian coup d'tat: The Economic Community of West African States pledges to send troops to Mali if the country agrees. ](/news/2012/05/3/2012-malian-coup-d-etat-the-economic-community-of-west-african-states-pledges-to-send-troops-to-mali-if-the-country-agrees.md)
@@ -45,7 +45,7 @@ Veteran Bengali film personality Soumitra Chatterjee was conferred the prestigio
 
 ##### Galkayo
 ### [Farhan Jeemis Abdulle, a Somali journalist and well-known local reporter for Radio Daljir is shot and killed by an unidentified gunman in Galkayo while walking to his home district of Garsor. Puntland authorities arrived on scene to investigate the killing but no arrests have been made. Abdulle is the fifth journalist to be murdered in Somalia this year, and the second in Galkayo. ](/news/2012/05/3/farhan-jeemis-abdulle-a-somali-journalist-and-well-known-local-reporter-for-radio-daljir-is-shot-and-killed-by-an-unidentified-gunman-in-ga.md)
-_Context: Galkayo, Puntland, Somali_
+_Context: Galkayo, Puntland, Somalia_
 
 ##### Aleppo University
 ### [Activists say four students are killed in an attack on anti-government demonstrations at Aleppo University, Syria. ](/news/2012/05/3/activists-say-four-students-are-killed-in-an-attack-on-anti-government-demonstrations-at-aleppo-university-syria.md)

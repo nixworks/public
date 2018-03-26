@@ -45,7 +45,7 @@ _Context: App Store, Apple Inc., Intifada, Israel_
 
 ##### President of Indonesia
 ### [The President of Indonesia Susilo Bambang Yudhoyono condemns the beheading of an Indonesian maid in Saudi Arabia and condemns the Saudi Government of breaking the "norms and manners" of international relations. ](/news/2011/06/23/the-president-of-indonesia-susilo-bambang-yudhoyono-condemns-the-beheading-of-an-indonesian-maid-in-saudi-arabia-and-condemns-the-saudi-gove.md)
-_Context: Government of Saudi Arabia, Indonesia, President of Indonesia, Saudi, Susilo Bambang Yudhoyono, beheading_
+_Context: Government of Saudi Arabia, Indonesia, President of Indonesia, Saudi Arabia, Susilo Bambang Yudhoyono, beheading_
 
 ##### Japan
 ### [The Japanese national broadcasting company NHK captures images of the Chinese Navy navigating the high seas between the islands of Japan's Okinawa prefecture. ](/news/2011/06/23/the-japanese-national-broadcasting-company-nhk-captures-images-of-the-chinese-navy-navigating-the-high-seas-between-the-islands-of-japan-s-o.md)
@@ -103,9 +103,9 @@ _Context: Brazil, tie knots_
 ### [After Hamas rejects a call from the International Red Cross for access to Israeli soldier Gilad Shalit, held incommunicado since he was captured nearly five years ago, Israeli Prime Minister Benjamin Netanyahu says Israel will reduce Palestinian prisoners' privileges in response. ](/news/2011/06/23/after-hamas-rejects-a-call-from-the-international-red-cross-for-access-to-israeli-soldier-gilad-shalit-held-incommunicado-since-he-was-capt.md)
 Noam Schalit asks why it took Israeli governments five years to make move; Hamas rejects Red Cross call for sign of life.
 
-##### France
+##### French
 ### [France announces plans to withdraw troops from Afghanistan in a similar timeframe to that announced for United States forces by President Barack Obama yesterday. ](/news/2011/06/23/france-announces-plans-to-withdraw-troops-from-afghanistan-in-a-similar-timeframe-to-that-announced-for-united-states-forces-by-president-ba.md)
-_Context: Afghan, Barack Obama, France, U.S. President, United States_
+_Context: Afghanistan, Barack Obama, French, U.S. President, United States_
 
 ##### 2010-2011 Senegal protests
 ### [2010-2011 Senegal protests: Thousands of people gather outside parliament in Dakar to protest changes to the constitution and are dispersed with tear gas and rubber bullets by riot police. ](/news/2011/06/23/2010a2011-senegal-protests-thousands-of-people-gather-outside-parliament-in-dakar-to-protest-changes-to-the-constitution-and-are-disperse.md)

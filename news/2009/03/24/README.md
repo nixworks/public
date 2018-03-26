@@ -39,7 +39,7 @@ _Context: Michael Misick, Premier of the Turks and Caicos Islands, Turks and Cai
 ### [ Japan defeats South Korea to win the World Baseball Classic. ](/news/2009/03/24/japan-defeats-south-korea-to-win-the-world-baseball-classic.md)
 _Context: Japan, South Korea, World Baseball Classic, defeats_
 
-##### France
+##### French
 ### [ France will compensate victims of nuclear testing in Algeria and French Polynesia. ](/news/2009/03/24/france-will-compensate-victims-of-nuclear-testing-in-algeria-and-french-polynesia.md)
 The French government will compensate victims of past nuclear tests and has earmarked an initial 10 million euros (9 million pounds) to do so, Defence Minister Herve Morin was quoted as saying on Tuesday.
 

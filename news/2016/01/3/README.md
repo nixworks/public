@@ -7,7 +7,7 @@ Formats: [HTML](2016/01/3/index.html)  [JSON](2016/01/3/index.json)  [XML](2016/
 ### [Two suspects are killed in a clash with police, and three others are arrested in connection with yesterday's assassination of Temixco, Morelos's newly inaugurated mayor Gisela Mota Ocampo. Governor Graco Ramirez, who attributed Mota's killing to organized crime, calls for three days of mourning. ](/news/2016/01/3/two-suspects-are-killed-in-a-clash-with-police-and-three-others-are-arrested-in-connection-with-yesterday-s-assassination-of-temixco-morel.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-##### Saudi
+##### Saudi Arabia
 ### [Saudi Arabia breaks off diplomatic relations with Iran after Sheikh Nimr's execution and an attack on the Saudi embassy in Tehran. ](/news/2016/01/3/saudi-arabia-breaks-off-diplomatic-relations-with-iran-after-sheikh-nimr-s-execution-and-an-attack-on-the-saudi-embassy-in-tehran.md)
 Saudi Arabia says it has broken off diplomatic ties with Iran, amid a row over the Saudi execution of prominent Shia cleric Sheikh Nimr al-Nimr.
 

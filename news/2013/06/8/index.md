@@ -45,7 +45,7 @@ Swedish Princess Madeleine, the youngest of Carl XVI Gustaf and Queen Silvia&rsq
 
 ##### Ras Kamboni Movement
 ### [Clashes between the Ras Kamboni Movement and pro-government militia leave at least 18 dead in the Somali port of Kismayu. ](/news/2013/06/8/clashes-between-the-ras-kamboni-movement-and-pro-government-militia-leave-at-least-18-dead-in-the-somali-port-of-kismayu.md)
-_Context: Kismayu, Ras Kamboni Movement, Somali_
+_Context: Kismayu, Ras Kamboni Movement, Somalia_
 
 ##### Mali
 ### [The government of Mali opens talks with Tuareg separatists in the hopes of reaching a ceasefire agreement. ](/news/2013/06/8/the-government-of-mali-opens-talks-with-tuareg-separatists-in-the-hopes-of-reaching-a-ceasefire-agreement.md)
@@ -63,9 +63,9 @@ _Context: Benghazi_
 ### [The Syrian military captures the town of Al-Buwaydah al-Sharqiyah. ](/news/2013/06/8/the-syrian-military-captures-the-town-of-al-buwaydah-al-sharqiyah.md)
 The Syrian Army today retook the village of al-Buweida al-Sharqiya, north of al-Qusair, as forces loyal to President Bashar al-Assad extended their military gains and Russia pushed its effort to send a contingent of peacekeeping troops to the Golan Heights.
 
-##### Afghan
+##### Afghanistan
 ### [In Afghanistan, a man wearing an Afghan military uniform attacks and kills three American soldiers, in what appears to be an insider attack on U.S. International Security Assistance Force soldiers, based in east Afghanistan's Paktika Province. ](/news/2013/06/8/in-afghanistan-a-man-wearing-an-afghan-military-uniform-attacks-and-kills-three-american-soldiers-in-what-appears-to-be-an-insider-attack.md)
-_Context: Afghan, Afghan military, American soldiers, International Security Assistance Force, Paktika Province_
+_Context: Afghan military, Afghanistan, American soldiers, International Security Assistance Force, Paktika Province_
 
 ## [Previous Day...](/news/2013/06/7/index.md)
 

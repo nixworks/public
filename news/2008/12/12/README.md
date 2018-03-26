@@ -21,7 +21,7 @@ _Context: 2008 Russian financial crisis, Andrei Klepach, Russia_
 
 ##### Royal Marine
 ### [ Four members of the Royal Marines are killed in two explosions in Afghanistan. ](/news/2008/12/12/four-members-of-the-royal-marines-are-killed-in-two-explosions-in-afghanistan.md)
-_Context: Afghan, Royal Marine_
+_Context: Afghanistan, Royal Marine_
 
 ## [Previous Day...](/news/2008/12/11/index.md)
 

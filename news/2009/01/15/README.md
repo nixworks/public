@@ -25,7 +25,7 @@ _Context: Gaza Strip, Hamas, United Nations, call, ceasefire_
 
 ##### China
 ### [ China's gross domestic product grew 13&nbsp;percent during 2007, overtaking Germany to become the world's third largest economy. ](/news/2009/01/15/china-s-gross-domestic-product-grew-13-nbsp-percent-during-2007-overtaking-germany-to-become-the-world-s-third-largest-economy.md)
-_Context: China, German, gross domestic product, sixth-largest economy_
+_Context: China, Germany, gross domestic product, sixth-largest economy_
 
 ##### NASA
 ### [ NASA announces that methane in Mars' atmosphere "could be produced either by geological activity or by life." ](/news/2009/01/15/nasa-announces-that-methane-in-mars-atmosphere-could-be-produced-either-by-geological-activity-or-by-life.md)

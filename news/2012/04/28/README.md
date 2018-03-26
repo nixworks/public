@@ -15,7 +15,7 @@ Supporters of blind legal advocate Chen Guangcheng believe he is in the US embas
 ### [Mali's ruling junta rejects a West African regional plan to extend the life of an interim civilian government. ](/news/2012/04/28/mali-s-ruling-junta-rejects-a-west-african-regional-plan-to-extend-the-life-of-an-interim-civilian-government.md)
 _Context: Mali, West Africa_
 
-##### European Union
+##### EU
 ### [The European Union opens an office in Burma in recognition of recent democratic reforms. ](/news/2012/04/28/the-european-union-opens-an-office-in-burma-in-recognition-of-recent-democratic-reforms.md)
 The European Union opened an office in Yangon on Saturday in recognition of the democratic progress made in Myanmar and to offer support for further reforms. Catherine Ashton, the EU’s foreign policy
 
@@ -31,9 +31,9 @@ _Context: Busch Stadium, Missouri, St. Louis_
 ### [2012 Dnipropetrovsk explosions: Ukrainian president Viktor Yanukovich promises an investigation into the incident that injured 30 people. ](/news/2012/04/28/2012-dnipropetrovsk-explosions-ukrainian-president-viktor-yanukovich-promises-an-investigation-into-the-incident-that-injured-30-people.md)
 _Context: 2012 Dnipropetrovsk explosions, Ukrainian, Viktor Yanukovich_
 
-##### Afghan
+##### Afghanistan
 ### [Two bodyguards and two insurgents are killed in an attack on the Governor of Afghanistan's Kandahar Province. ](/news/2012/04/28/two-bodyguards-and-two-insurgents-are-killed-in-an-attack-on-the-governor-of-afghanistan-s-kandahar-province.md)
-_Context: Afghan, Kandahar Province_
+_Context: Afghanistan, Kandahar Province_
 
 ##### Syria
 ### [Syrian activists claim that the Syrian Armed Forces killed ten people in the village of Bakha north of Damascus. ](/news/2012/04/28/syrian-activists-claim-that-the-syrian-armed-forces-killed-ten-people-in-the-village-of-bakha-north-of-damascus.md)

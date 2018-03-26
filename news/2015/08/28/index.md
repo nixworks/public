@@ -15,9 +15,9 @@ _Context: Dianna Duran, New Mexico Secretary of State, embezzlement, fraud, mone
 ### [President Truong TCNYn Sang of Vietnam signs two directives granting amnesty to 18,539 prisoners including murderers, rapists, human traffickers, and other criminals, but no political prisoners were released. ](/news/2015/08/28/president-traedegae-ng-taocnyn-sang-of-vietnam-signs-two-directives-granting-amnesty-to-18-539-prisoners-including-murderers-rapists-human-tra.md)
 _Context: Truong TCNYn Sang, Vietnam_
 
-##### France
+##### French
 ### [Authorities arrest two French journalists for allegedly attempting to blackmail King Mohammed VI of Morocco. ](/news/2015/08/28/authorities-arrest-two-french-journalists-for-allegedly-attempting-to-blackmail-king-mohammed-vi-of-morocco.md)
-_Context: France, King Mohammed VI of Morocco, blackmail_
+_Context: French, King Mohammed VI of Morocco, blackmail_
 
 ##### Turkey-PKK conflict
 ### [Turkish police detain two British journalists from "Vice News" covering unrest in southeastern Turkey. ](/news/2015/08/28/turkish-police-detain-two-british-journalists-from-vice-news-covering-unrest-in-southeastern-turkey.md)

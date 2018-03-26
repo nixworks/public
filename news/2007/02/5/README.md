@@ -15,9 +15,9 @@ _Context: Iran, Tony Blair, charity, labour unions, military_
 ### [ Iranian President Mahmoud Ahmadinejad will present a herbal treatment for AIDS that the Iranian government says is effective in helping patients to cure their symptoms. ](/news/2007/02/5/iranian-president-mahmoud-ahmadinejad-will-present-a-herbal-treatment-for-aids-that-the-iranian-government-says-is-effective-in-helping-pat.md)
 Iran was set to make fantastic claims on the anniversary of the Islamic Revolution, including finding an herbal cure for AIDS, an Israeli news agency reported Sunday.
 
-##### France
+##### French
 ### [ French police arrest 13 Kurdish Turks for allegedly funding PKK terrorist operations. ](/news/2007/02/5/french-police-arrest-13-kurdish-turks-for-allegedly-funding-pkk-terrorist-operations.md)
-_Context: France, Kurdish, Kurdistan Workers Party_
+_Context: French, Kurdish, Kurdistan Workers Party_
 
 ##### Syria
 ### [ Syrian President Bashar al-Assad has said his country can play a major role in international efforts to end the Civil war in Iraq. ](/news/2007/02/5/syrian-president-bashar-al-assad-has-said-his-country-can-play-a-major-role-in-international-efforts-to-end-the-civil-war-in-iraq.md)

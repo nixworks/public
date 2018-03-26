@@ -15,7 +15,7 @@ _Context: International Space Station, Soyuz TMA-17_
 ### [ Authorities in Uzbekistan fell trees, some of which are more than a century old, in the capital Tashkent, in a controversy which has drawn protests. ](/news/2009/12/23/authorities-in-uzbekistan-fell-trees-some-of-which-are-more-than-a-century-old-in-the-capital-tashkent-in-a-controversy-which-has-drawn.md)
 _Context: Tashkent, Uzbekistan_
 
-##### Afghan
+##### Afghanistan
 ### [ Afghan senator Mohammed Yunos Shirnagha and his son-driver are fatally shot by police in Puli Khumri, Baghlan Province. ](/news/2009/12/23/afghan-senator-mohammed-yunos-shirnagha-and-his-son-driver-are-fatally-shot-by-police-in-puli-khumri-baghlan-province.md)
 The senator’s car failed to stop despite repeated warnings from police, according to a statement by the Ministry of Interior.
 
@@ -45,7 +45,7 @@ Incidents occur as crowds in Isfahan mourn death of dissident Hossein Ali Montaz
 
 ##### Farouk Adamu Aliyu
 ### [ Farouk Adamu Aliyu of the All Nigeria Peoples Party initiates legal action in a bid to tempt the unwell President of Nigeria Umaru Yar'Adua, who is hospitalised in Saudi Arabia, to resign the position on health grounds. ](/news/2009/12/23/farouk-adamu-aliyu-of-the-all-nigeria-peoples-party-initiates-legal-action-in-a-bid-to-tempt-the-unwell-president-of-nigeria-umaru-yar-adua.md)
-_Context: All Nigeria Peoples Party, Farouk Adamu Aliyu, President, Saudi, Umaru Yar'Adua_
+_Context: All Nigeria Peoples Party, Farouk Adamu Aliyu, President, Saudi Arabia, Umaru Yar'Adua_
 
 ##### President of Liberia
 ### [ President of Liberia Ellen Johnson Sirleaf voluntarily imprisons herself in Bella Yalla prison, an old maximum security prison in the northern jungle, which is to be renamed and turned into a museum. ](/news/2009/12/23/president-of-liberia-ellen-johnson-sirleaf-voluntarily-imprisons-herself-in-bella-yalla-prison-an-old-maximum-security-prison-in-the-north.md)

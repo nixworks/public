@@ -89,7 +89,7 @@ Pope Benedict calls for the Catholic Church to reflect on mistakes that allowed 
 
 ##### Taliban
 ### [13 Afghan soldiers were killed in two separate suicide attacks launched by Taliban in the capital city of Afghanistan. ](/news/2010/12/20/13-afghan-soldiers-were-killed-in-two-separate-suicide-attacks-launched-by-taliban-in-the-capital-city-of-afghanistan.md)
-_Context: Afghan, Kabul, Taliban_
+_Context: Afghanistan, Kabul, Taliban_
 
 ##### Republic of Korea Marine Corps
 ### [The Republic of Korea Marine Corps holds live-fire drill exercises on Yeonpyeong Island. North Korea says it will not retaliate. ](/news/2010/12/20/the-republic-of-korea-marine-corps-holds-live-fire-drill-exercises-on-yeonpyeong-island-north-korea-says-it-will-not-retaliate.md)
@@ -99,9 +99,9 @@ South Korea holds live-firing exercises on an island close to the border with No
 ### [A bomb exploded at a downtown bus station in Kenya's capital as passengers boarded a bus, killing at least one person and wounding up to 39 others, police said. Suspicions centered on a Somali militant group. ](/news/2010/12/20/a-bomb-exploded-at-a-downtown-bus-station-in-kenya-s-capital-as-passengers-boarded-a-bus-killing-at-least-one-person-and-wounding-up-to-39.md)
 _Context: Kenya, Nairobi, Somali_
 
-##### Somali
+##### Somalia
 ### [7 people are killed in a roadside bomb and shooting incident in the Somali capital Mogadishu. ](/news/2010/12/20/7-people-are-killed-in-a-roadside-bomb-and-shooting-incident-in-the-somali-capital-mogadishu.md)
-_Context: Mogadishu, Somali_
+_Context: Mogadishu, Somalia_
 
 ## [Previous Day...](/news/2010/12/19/index.md)
 

@@ -21,7 +21,7 @@ President George W. Bush on Monday spared former White House aide Lewis &quot;Sc
 
 ##### Brahim Deby
 ### [ Brahim Deby, heir apparent to President Idriss Deby of Chad, is murdered in Paris, France. ](/news/2007/07/2/brahim-da-c-by-heir-apparent-to-president-idriss-da-c-by-of-chad-is-murdered-in-paris-france.md)
-_Context: Brahim Deby, Chad, France, Idriss Deby, Paris_
+_Context: Brahim Deby, Chad, French, Idriss Deby, Paris_
 
 ##### Police officer
 ### [ Garda Siochana find over 1.5 tonnes of cocaine worth over EUR105 million off the coast of West Cork after a small ship sinks - the largest cocaine seizure in the history of Ireland. The naval diving squad are continuing the search, as experts believe more of the drug is still in the sea. ](/news/2007/07/2/garda-saocha-na-find-over-1-5-tonnes-of-cocaine-worth-over-a-105-million-off-the-coast-of-west-cork-after-a-small-ship-sinks-the-larges.md)

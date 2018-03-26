@@ -37,7 +37,7 @@ _Context: Aceh, Indonesia, Kosovo, Martti Ahtisaari, Namibia, Nobel peace prize,
 
 ##### NATO
 ### [ NATO ministers reach a deal after overcoming resistance from France, Italy and Germany by agreeing that only willing countries temporarily "act in concert with the Afghans, against [drug] facilities". ](/news/2008/10/10/nato-ministers-reach-a-deal-after-overcoming-resistance-from-france-italy-and-germany-by-agreeing-that-only-willing-countries-temporarily.md)
-_Context: France, German, Italy, NATO_
+_Context: French, Germany, Italy, NATO_
 
 ##### Oxfam
 ### [ Oxfam says those needing food aid in Ethiopia has risen to 6.4 million, nearly two million more than in June . ](/news/2008/10/10/oxfam-says-those-needing-food-aid-in-ethiopia-has-risen-to-6-4-million-nearly-two-million-more-than-in-june.md)
@@ -53,7 +53,7 @@ _Context: Alaska, Governor, Sarah Palin, Walter Monegan, legislative_
 
 ##### Yemen
 ### [ Dozens of bodies that washed ashore in Yemen are believed to be from the 130 migrants from Somalia thrown overboard by smugglers; prompting calls for action against human trafficking in the Gulf of Aden. ](/news/2008/10/10/dozens-of-bodies-that-washed-ashore-in-yemen-are-believed-to-be-from-the-130-migrants-from-somalia-thrown-overboard-by-smugglers-prompting.md)
-_Context: Gulf of Aden, Somali, Yemen_
+_Context: Gulf of Aden, Somalia, Yemen_
 
 ##### 
 ### [ 27 people were killed by a suicide car bomb in Pakistan near the Afghanistan border during a tribal meeting planning the eviction of the Taliban from the area. ](/news/2008/10/10/27-people-were-killed-by-a-suicide-car-bomb-in-pakistan-near-the-afghanistan-border-during-a-tribal-meeting-planning-the-eviction-of-the-ta.md)
@@ -67,7 +67,7 @@ _Context: Peru_
 
 ##### Faina
 ### [ Pirate spokesman threatens to blow up MV Faina, which has been held off the coast of Somalia since September 25, if $20 million is not paid by October 13. ](/news/2008/10/10/pirate-spokesman-threatens-to-blow-up-mv-faina-which-has-been-held-off-the-coast-of-somalia-since-september-25-if-20-million-is-not-paid.md)
-_Context: Faina, Somali_
+_Context: Faina, Somalia_
 
 ## [Previous Day...](/news/2008/10/9/index.md)
 

@@ -29,7 +29,7 @@ _Context: Capital punishment in Iran, Judicial system of Iran, Sakineh Mohammadi
 
 ##### 250,000 documents
 ### [According to a new Wikileaks document, U.S. ambassador to France, Craig Stapleton, asked Washington to penalize nations, including France, who do not support genetically modified crops.](/news/2011/01/3/according-to-a-new-wikileaks-document-u-s-ambassador-to-france-craig-stapleton-asked-washington-to-penalize-nations-including-france-w.md)
-_Context: 250,000 documents, Craig Stapleton, France, U.S., genetically modified crops_
+_Context: 250,000 documents, Craig Stapleton, French, U.S., genetically modified crops_
 
 ##### Africa
 ### [A delegation of African leaders from Benin, Cape Verde, Kenya and Sierra Leone travels to Cote d'Ivoire to offer incumbent President Laurent Gbagbo an amnesty if he resigns from office. ](/news/2011/01/3/a-delegation-of-african-leaders-from-benin-cape-verde-kenya-and-sierra-leone-travels-to-ca-te-d-ivoire-to-offer-incumbent-president-lauren.md)

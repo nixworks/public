@@ -13,7 +13,7 @@ _Context: Hamas_
 
 ##### Al-Qaeda
 ### [ Fighting breaks out between Pakistani and al-Qaeda fighters near the Pakistan-Afghanistan border. ](/news/2004/04/18/fighting-breaks-out-between-pakistani-and-al-qaeda-fighters-near-the-pakistan-afghanistan-border.md)
-_Context: Afghan, Pakistan, al-Qaeda_
+_Context: Afghanistan, Pakistan, al-Qaeda_
 
 ##### Kosovo
 ### [ In Kosovo, a Jordanian UN police officer opens fire upon a convoy of UN police officers killing two female Americans and injuring eleven others. The attack reportedly stemmed from an argument between American and Jordanian UN police over Iraq policies. ](/news/2004/04/18/in-kosovo-a-jordanian-un-police-officer-opens-fire-upon-a-convoy-of-un-police-officers-killing-two-female-americans-and-injuring-eleven-ot.md)

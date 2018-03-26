@@ -9,11 +9,11 @@ _Context: 63rd, Best Musical, Best Play, Billy Elliot the Musical, God of Carnag
 
 ##### Declares
 ### [ Radio Shabelle director Moqtar Mohamed Hirabe is killed in Mogadishu, Somalia. ](/news/2009/06/7/radio-shabelle-director-moqtar-mohamed-hirabe-is-killed-in-mogadishu-somalia.md)
-_Context: Mogadishu, Somali, declares_
+_Context: Mogadishu, Somalia, declares_
 
 ##### Dalai Lama
 ### [ Dalai Lama Tenzin Gyatso is granted honorary citizenship in Paris, France. ](/news/2009/06/7/dalai-lama-tenzin-gyatso-is-granted-honorary-citizenship-in-paris-france.md)
-_Context: 14th Dalai Lama, Dalai Lama, France, Paris, honorary citizenship_
+_Context: 14th Dalai Lama, Dalai Lama, French, Paris, honorary citizenship_
 
 ##### United Kingdom
 ### [ Former United Kingdom Cabinet Ministers Hazel Blears, James Purnell, John Hutton, and Caroline Flint coordinated their resignations to compel Prime Minister Gordon Brown to also resign. ](/news/2009/06/7/former-united-kingdom-cabinet-ministers-hazel-blears-james-purnell-john-hutton-and-caroline-flint-coordinated-their-resignations-to-comp.md)
@@ -39,9 +39,9 @@ _Context: April 2009, Bolivia, Evo Morales, Irish, President of Bolivia, assassi
 ### [ Air France replaces airspeed sensors on its Airbus aircraft. ](/news/2009/06/7/air-france-replaces-airspeed-sensors-on-its-airbus-aircraft.md)
 Search crews have spotted more bodies and found a large amount of debris from the Air France plane that plunged into the Atlantic ocean.
 
-##### European Union
+##### EU
 ### [ The European Union's parliamentary election concludes in Austria, Belgium, Bulgaria, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Italy, Lithuania, Luxembourg, Poland, Portugal, Romania, Slovenia, Spain, and Sweden. ](/news/2009/06/7/the-european-union-s-parliamentary-election-concludes-in-austria-belgium-bulgaria-denmark-estonia-finland-france-germany-greece-hu.md)
-_Context: Austria, Belgium, Bulgaria, Denmark, Estonia, European Parliament, European Union, Finland, France, Germany, Greece, Hungary, Italy, Lithuania, Luxembourg, Poland, Portugal, Romania, Slovenia, Spain, Sweden, election_
+_Context: Austria, Belgium, Bulgaria, Denmark, EU, Estonia, European Parliament, Finland, France, Germany, Greece, Hungary, Italy, Lithuania, Luxembourg, Poland, Portugal, Romania, Slovenia, Spain, Sweden, election_
 
 ## [Previous Day...](/news/2009/06/6/index.md)
 

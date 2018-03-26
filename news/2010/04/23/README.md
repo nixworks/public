@@ -19,11 +19,11 @@ _Context: Chinese, MOHRSS, Ministry of Human Resources and Social Security_
 ### [China requests that Tibetan monks leave Qinghai where an earthquake struck on 14 April. ](/news/2010/04/23/china-requests-that-tibetan-monks-leave-qinghai-where-an-earthquake-struck-on-14-april.md)
 Officials deny decision is political, saying that monks could obstruct relief efforts.
 
-##### France
+##### French
 ### [A Frenchman and his Algerian driver are kidnapped by armed men in Niger. ](/news/2010/04/23/a-frenchman-and-his-algerian-driver-are-kidnapped-by-armed-men-in-niger.md)
 A&#x20;Frenchman&#x20;and&#x20;an&#x20;Algerian&#x20;national&#x20;were&#x20;kidnapped&#x20;by&#x20;armed&#x20;men&#x20;Thursday&#x20;near&#x20;Niger&#x27;s&#x20;northern&#x20;town&#x20;of&#x20;Inabangaret,&#x20;close&#x20;to&#x20;the&#x20;Algerian&#x20;border.&#x20;The&#x20;desert&#x20;region&#x20;...
 
-##### France
+##### French
 ### [Police issue a French Muslim woman with a fine of EUR22 for wearing a burqa while driving in Nantes, causing controversy and threatening her husband's status. ](/news/2010/04/23/police-issue-a-french-muslim-woman-with-a-fine-of-a-22-for-wearing-a-burqa-while-driving-in-nantes-causing-controversy-and-threatening-her.md)
 A FRENCH Muslim woman has been fined for driving while wearing a full-face veil, as the government pushes to ban the garment.
 
@@ -61,7 +61,7 @@ _Context: face transplant_
 
 ##### Greece
 ### [Greece activates the EUR45 billion aid package it was offered by Europe earlier in the month to combat the country's debt crisis. ](/news/2010/04/23/greece-activates-the-a-45-billion-aid-package-it-was-offered-by-europe-earlier-in-the-month-to-combat-the-country-s-debt-crisis.md)
-_Context: European Union, Greece, downgrades_
+_Context: EU, Greece, downgrades_
 
 ##### Red shirt
 ### [Red Shirt leader Veera Musikapong agrees to end the protests in Bangkok if the government agrees to dissolve parliament and hold elections within 90 days. ](/news/2010/04/23/red-shirt-leader-veera-musikapong-agrees-to-end-the-protests-in-bangkok-if-the-government-agrees-to-dissolve-parliament-and-hold-elections-w.md)

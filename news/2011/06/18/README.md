@@ -15,7 +15,7 @@ _Context: Andrei Sakharov, Boston, Massachusetts, Nobel Peace Prize, Russian, So
 ### [Mike Rawlings is elected as the Mayor of the US city of Dallas, Texas, with Betsy Price elected as the Mayor of Fort Worth, Texas and Beth van Duyne elected as the mayor of Irving Texas. ](/news/2011/06/18/mike-rawlings-is-elected-as-the-mayor-of-the-us-city-of-dallas-texas-with-betsy-price-elected-as-the-mayor-of-fort-worth-texas-and-beth-v.md)
 Dallas, Fort Worth, and Irving elected new mayors in the June run-off elections.
 
-##### Saudi
+##### Saudi Arabia
 ### [Some Saudi Arabian women challenge a ban on female drivers, posting accounts and pictures of themselves driving automobiles. ](/news/2011/06/18/some-saudi-arabian-women-challenge-a-ban-on-female-drivers-posting-accounts-and-pictures-of-themselves-driving-automobiles.md)
 Several dozen women drove in major cities of Saudi Arabia on Friday as part of a protest against a longstanding ban.
 

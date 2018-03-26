@@ -91,7 +91,7 @@ A North Korean aircraft, which may be a fighter jet carrying a suspected defecto
 ### [Scientists dispute the claim by the United States that all the oil has gone from the Gulf of Mexico. ](/news/2010/08/18/scientists-dispute-the-claim-by-the-united-states-that-all-the-oil-has-gone-from-the-gulf-of-mexico.md)
 _Context: Gulf of Mexico, United States_
 
-##### Saudi
+##### Saudi Arabia
 ### [Saudi Arabia overtakes the United States as the main donor to the stricken country. ](/news/2010/08/18/saudi-arabia-overtakes-the-united-states-as-the-main-donor-to-the-stricken-country.md)
 Only 40 per cent of funds needed for immediate flood relief have been received, UN says.
 

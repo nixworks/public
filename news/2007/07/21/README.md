@@ -13,7 +13,7 @@ _Context: Harry Potter, Harry Potter and the Deathly Hallows_
 
 ##### Rwanda
 ### [ Two Rwandan men wanted for their role in the 1994 genocide are arrested in France. ](/news/2007/07/21/two-rwandan-men-wanted-for-their-role-in-the-1994-genocide-are-arrested-in-france.md)
-_Context: 1994 genocide, France, Rwanda_
+_Context: 1994 genocide, French, Rwanda_
 
 ##### Taliban
 ### [ The Taliban threatens to kill 18 South Koreans taken hostage in Afghanistan, prompting the government in Seoul to confirm an earlier plan to withdraw its troops from the country by the end of the year. Separately, the Taliban claims that it has executed two German hostages. ](/news/2007/07/21/the-taliban-threatens-to-kill-18-south-koreans-taken-hostage-in-afghanistan-prompting-the-government-in-seoul-to-confirm-an-earlier-plan-t.md)
@@ -23,7 +23,7 @@ Afghan Taliban rebels killed the second of two German hostages on Saturday after
 ### [ Pratibha Patil wins the 13th presidential election in India to become the first female President of India. ](/news/2007/07/21/pratibha-patil-wins-the-13th-presidential-election-in-india-to-become-the-first-female-president-of-india.md)
 _Context: 13th presidential election in India, Pratibha Patil, President of India_
 
-##### Somali
+##### Somalia
 ### [ Somali pirates demand $1.5 million in ransom for the release of a Danish freighter and its crew. ](/news/2007/07/21/somali-pirates-demand-1-5-million-in-ransom-for-the-release-of-a-danish-freighter-and-its-crew.md)
 Pirates holding a Danish freighter off the Somali coast are demanding a $US1.5 million ($1.7 million) ransom for the release of the ship and its crew, according to a Kenyan maritime official.
 

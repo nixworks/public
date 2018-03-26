@@ -23,13 +23,13 @@ _Context: Al-Muhajiroun, Home Office, Muslim, United Kingdom_
 ### [Sheikh Issa bin Zayed Al Nahyan, brother of the leader of the United Arab Emirates, Khalifa bin Zayed Al Nahyan, is acquitted of beating a former business partner in a videotaped attack. ](/news/2010/01/10/sheikh-issa-bin-zayed-al-nahyan-brother-of-the-leader-of-the-united-arab-emirates-khalifa-bin-zayed-al-nahyan-is-acquitted-of-beating-a-f.md)
 A brother of the president of the United Arab Emirates filmed beating up a former business partner and running him over in a Mercedes SUV has been acquitted of assaulting him.
 
-##### German
+##### Germany
 ### [More than 160 people are trapped in vehicles overnight in Germany, dozens of flights are cancelled, Berlin and Leipzig are buried under 30cm of snow, parts of Schleswig-Holstein remain unreachable. The electricity of 80,000 people is cut off by snow in Poland. Eurostar services are affected in Belgium, Britain and France. ](/news/2010/01/10/more-than-160-people-are-trapped-in-vehicles-overnight-in-germany-dozens-of-flights-are-cancelled-berlin-and-leipzig-are-buried-under-30cm.md)
-_Context: Belgium, Berlin, Eurostar, France, German, Leipzig, Poland, Schleswig-Holstein, United Kingdom_
+_Context: Belgium, Berlin, Eurostar, French, Germany, Leipzig, Poland, Schleswig-Holstein, United Kingdom_
 
 ##### China
 ### [China overtakes Germany to become the world's largest exporter. ](/news/2010/01/10/china-overtakes-germany-to-become-the-world-s-largest-exporter.md)
-_Context: China, German, top export market_
+_Context: China, Germany, top export market_
 
 ##### AHS Centaur
 ### [It is revealed that "AHS Centaur", an Australian hospital ship dating from World War II, has been viewed for the first time since it was torpedoed by the Japanese in May 1943 killing 268 people. ](/news/2010/01/10/it-is-revealed-that-ahs-centaur-an-australian-hospital-ship-dating-from-world-war-ii-has-been-viewed-for-the-first-time-since-it-was-tor.md)

@@ -37,7 +37,7 @@ Mining giant BHP Billiton Monday abandoned its 39 billion US dollar takeover bid
 
 ##### US diplomat
 ### [US diplomat Richard Holbrooke says the US has a transition plan for Afghanistan, not an exit strategy, and that there will be some drawdown of American troops in Afghanistan next year but the U.S. combat mission will not end there until 2014. ](/news/2010/11/15/us-diplomat-richard-holbrooke-says-the-us-has-a-transition-plan-for-afghanistan-not-an-exit-strategy-and-that-there-will-be-some-drawdown.md)
-_Context: Afghan, Richard Holbrooke, U.S. combat mission, US diplomat, exit strategy_
+_Context: Afghanistan, Richard Holbrooke, U.S. combat mission, US diplomat, exit strategy_
 
 ## [Previous Day...](/news/2010/11/14/index.md)
 

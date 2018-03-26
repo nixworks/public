@@ -49,7 +49,7 @@ _Context: Camille Pissarro, Christie's, Edgar Degas, Elizabeth Taylor, Van Gogh_
 
 ##### Government
 ### [A meeting of the leaders of the parties comprising the Greek Government breaks up without agreeing to cuts prescribed by the European Union, the European Central Bank and the International Monetary Fund. ](/news/2012/02/8/a-meeting-of-the-leaders-of-the-parties-comprising-the-greek-government-breaks-up-without-agreeing-to-cuts-prescribed-by-the-european-union.md)
-_Context: European Central Bank, European Union, International Monetary Fund, government_
+_Context: EU, European Central Bank, International Monetary Fund, government_
 
 ##### Airbus
 ### [Airbus announces that it will inspect the wings of all Airbus 380 aircraft for cracks. ](/news/2012/02/8/airbus-announces-that-it-will-inspect-the-wings-of-all-airbus-380-aircraft-for-cracks.md)
@@ -65,7 +65,7 @@ _Context: Ben Gurion Airport, Histadrut, Israel, labour unions, strike_
 
 ##### Islamist
 ### [The Islamist group Al-Shabab claims responsibility for a car bombing in the Somalian capital Mogadishu which claims at least ten people and injures at least 20. ](/news/2012/02/8/the-islamist-group-al-shabab-claims-responsibility-for-a-car-bombing-in-the-somalian-capital-mogadishu-which-claims-at-least-ten-people-and.md)
-_Context: Al-Shabab, Islamist, Mogadishu, Somali_
+_Context: Al-Shabab, Islamist, Mogadishu, Somalia_
 
 ##### Government of Syria
 ### [The Syrian government launches an offensive in Homs, with tanks reported in neighbourhoods and dozens of people reported as dying over the past few hours. ](/news/2012/02/8/the-syrian-government-launches-an-offensive-in-homs-with-tanks-reported-in-neighbourhoods-and-dozens-of-people-reported-as-dying-over-the-p.md)

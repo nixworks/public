@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/06/1/german-police-are-investigating-26-sexual-assaul
 
 ### [2016-06-1](/news/2016/06/1/index.md)
 
-##### German
+##### Germany
 #  German police are investigating 26 sexual assault reports from this weekend's Schlossgrabenfest music festival near Darmstadt. In one case, three women reported being groped by groups of men Saturday. Police have detained three Pakistani immigrants, and expect more reports following this announcement. 
 
 Darmstadt, Germany, police are seeking suspects after 26 women filed sexual assault reports saying they were groped at a weekend music festival.
@@ -19,7 +19,7 @@ Darmstadt, Germany, police are seeking suspects after 26 women filed sexual assa
 ### Related:
 
 1. [ More than 200 people die in accidents related to storms in Karachi, Pakistan. ](/news/2018/06/24/more-than-200-people-die-in-accidents-related-to-storms-in-karachi-pakistan.md) _Context: Pakistan_
-2. [An Anti-Terrorism Court in Lahore, Pakistan, sentences Imran Ali to death, for the rape and murder of 7-year-old Zainab Ansari. The victim's family demands Ali's hanging to be conducted in public. ](/news/2018/02/17/an-anti-terrorism-court-in-lahore-pakistan-sentences-imran-ali-to-death-for-the-rape-and-murder-of-7-year-old-zainab-ansari-the-victim-s.md) _Context: Pakistan_
-3. [Pakistan moves to ban two charities linked to terrorist Hafiz Muhammad Saeed. ](/news/2018/02/14/pakistan-moves-to-ban-two-charities-linked-to-terrorist-hafiz-muhammad-saeed.md) _Context: Pakistan_
-4. [The U.S. State Department suspends its security assistance to Pakistan. ](/news/2018/01/4/the-u-s-state-department-suspends-its-security-assistance-to-pakistan.md) _Context: Pakistan_
-5. [Winter storm Eleanor moves from the British Isles to continental Europe with one dead in France as well as injuries and material losses in Germany, Netherlands and Switzerland. ](/news/2018/01/3/winter-storm-eleanor-moves-from-the-british-isles-to-continental-europe-with-one-dead-in-france-as-well-as-injuries-and-material-losses-in-g.md) _Context: German_
+2. [Catalonia's ex-President Carles Puigdemont is detained in Germany. ](/news/2018/03/25/catalonia-s-ex-president-carles-puigdemont-is-detained-in-germany.md) _Context: Germany_
+3. [An Anti-Terrorism Court in Lahore, Pakistan, sentences Imran Ali to death, for the rape and murder of 7-year-old Zainab Ansari. The victim's family demands Ali's hanging to be conducted in public. ](/news/2018/02/17/an-anti-terrorism-court-in-lahore-pakistan-sentences-imran-ali-to-death-for-the-rape-and-murder-of-7-year-old-zainab-ansari-the-victim-s.md) _Context: Pakistan_
+4. [Pakistan moves to ban two charities linked to terrorist Hafiz Muhammad Saeed. ](/news/2018/02/14/pakistan-moves-to-ban-two-charities-linked-to-terrorist-hafiz-muhammad-saeed.md) _Context: Pakistan_
+5. [The U.S. State Department suspends its security assistance to Pakistan. ](/news/2018/01/4/the-u-s-state-department-suspends-its-security-assistance-to-pakistan.md) _Context: Pakistan_

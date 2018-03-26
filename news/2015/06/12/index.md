@@ -27,9 +27,9 @@ _Context: Associated Press, Chinese, United States government, hacker_
 ### [Two Russian citizens are arrested for entering a Latvian military base as the Baltic nation was participating in US-led military exercises. ](/news/2015/06/12/two-russian-citizens-are-arrested-for-entering-a-latvian-military-base-as-the-baltic-nation-was-participating-in-us-led-military-exercises.md)
 _Context: Baltics, Latvia, Russian_
 
-##### German
+##### Germany
 ### [Germany doubles its funding to states and cities for asylum seekers as 450,000 are expected to enter the country during 2015. ](/news/2015/06/12/germany-doubles-its-funding-to-states-and-cities-for-asylum-seekers-as-450-000-are-expected-to-enter-the-country-during-2015.md)
-_Context: German, asylum seekers_
+_Context: Germany, asylum seekers_
 
 ##### Pakistan
 ### [Pakistan orders the Save the Children NGO to leave the country claiming it supports "anti-Pakistan" activity. ](/news/2015/06/12/pakistan-orders-the-save-the-children-ngo-to-leave-the-country-claiming-it-supports-anti-pakistan-activity.md)

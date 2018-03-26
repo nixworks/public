@@ -13,7 +13,7 @@ _Context: Franck Ribery, French, association football, prostitution_
 
 ##### UN Goodwill Ambassador
 ### [UN Goodwill Ambassador Angelina Jolie appeals for safety in Somalia for thousands of Somalis trapped in the country's capital of Mogadishu. ](/news/2010/04/19/un-goodwill-ambassador-angelina-jolie-appeals-for-safety-in-somalia-for-thousands-of-somalis-trapped-in-the-countryas-capital-of-mogadishu.md)
-_Context: Angelina Jolie, Mogadishu, Somali, UN Goodwill Ambassador_
+_Context: Angelina Jolie, Mogadishu, Somalia, UN Goodwill Ambassador_
 
 ##### Kevin Rudd
 ### [Australian Prime Minister Kevin Rudd shows a two-hour presentation on his health reform plan at a Council of Australian Governments (COAG) meeting in Canberra. ](/news/2010/04/19/australian-prime-minister-kevin-rudd-shows-a-two-hour-presentation-on-his-health-reform-plan-at-a-council-of-australian-governments-coag-m.md)
@@ -33,7 +33,7 @@ _Context: Indonesia, Indonesian National Police, Jakarta, riot police_
 
 ##### Kabul
 ### [Seven are killed and 30 are injured in a magnitude 5.3 earthquake in the mountains north of Kabul, Afghanistan. ](/news/2010/04/19/seven-are-killed-and-30-are-injured-in-a-magnitude-5-3-earthquake-in-the-mountains-north-of-kabul-afghanistan.md)
-_Context: Afghan, Kabul_
+_Context: Afghanistan, Kabul_
 
 ##### An earthquake struck on 14 April
 ### [Aftershocks of the Yushu earthquake continue. Quake death toll rises to 1,944. ](/news/2010/04/19/aftershocks-of-the-yushu-earthquake-continue-quake-death-toll-rises-to-1-944.md)

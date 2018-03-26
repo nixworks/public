@@ -77,7 +77,7 @@ Three gunmen attacked the house of Mir Wali, a member of parliament from Helmand
 
 ##### Last week's attack on a Christmas market in Berlin
 ### [German officials offer a reward of up to 100,000 euros ($104,000) for 24-year-old Tunisian asylum-seeker Anis Amri, whose identifying information was found in the truck used in the attack. ](/news/2016/12/21/german-officials-offer-a-reward-of-up-to-100-000-euros-104-000-for-24-year-old-tunisian-asylum-seeker-anis-amri-whose-identifying-inform.md)
-_Context: German, Tunisia, last week's attack on a Christmas market in Berlin_
+_Context: Germany, Tunisia, last week's attack on a Christmas market in Berlin_
 
 ##### Terrorism in Indonesia
 ### [Indonesian police kill three people in a gunfight south of Jakarta after a bomb is found. Fourteen people are arrested in connection to alleged involvement in plans for suicide bomb attacks. ](/news/2016/12/21/indonesian-police-kill-three-people-in-a-gunfight-south-of-jakarta-after-a-bomb-is-found-fourteen-people-are-arrested-in-connection-to-alle.md)

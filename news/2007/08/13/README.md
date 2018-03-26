@@ -29,7 +29,7 @@ _Context: Deputy White House Chief of Staff, George W. Bush, Karl Rove, Wall Str
 
 ##### United Nations
 ### [ Eric Laroche, the United Nations Humanitarian Co-ordinator for Somalia raises concerns about recent killings of eminent Somali journalists. ](/news/2007/08/13/eric-laroche-the-united-nations-humanitarian-co-ordinator-for-somalia-raises-concerns-about-recent-killings-of-eminent-somali-journalists.md)
-_Context: Somali, United Nations_
+_Context: Somalia, United Nations_
 
 ##### Philip Ruddock
 ### [ Philip Ruddock, the Attorney-General of Australia, appoints Federal Court judge Susan Kiefel to the High Court of Australia. ](/news/2007/08/13/philip-ruddock-the-attorney-general-of-australia-appoints-federal-court-judge-susan-kiefel-to-the-high-court-of-australia.md)

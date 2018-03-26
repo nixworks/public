@@ -25,7 +25,7 @@ _Context: SNCF, Transport, public-sector strikes, railway company, strike_
 
 ##### Fire
 ### [ 28 people die in a fire at a Saudi Aramco gas pipeline in Hawiya, Saudi Arabia. Twelve more people are missing. ](/news/2007/11/18/28-people-die-in-a-fire-at-a-saudi-aramco-gas-pipeline-in-hawiya-saudi-arabia-twelve-more-people-are-missing.md)
-_Context: Hawiya, Saudi, Saudi Aramco, fire, gas pipeline_
+_Context: Hawiya, Saudi Arabia, Saudi Aramco, fire, gas pipeline_
 
 ##### Cyclone Sidr
 ### [ Cyclone Sidr: Rescue efforts in Bangladesh continue, with helicopters and ships being used to reach isolated areas. ](/news/2007/11/18/cyclone-sidr-rescue-efforts-in-bangladesh-continue-with-helicopters-and-ships-being-used-to-reach-isolated-areas.md)
@@ -37,7 +37,7 @@ _Context: 2007 Writers Guild of America strike, Screenwriter, movie studio, nego
 
 ##### Venezuela
 ### [ Venezuelan President Hugo Chvez opens the 2007 OPEC meeting in Saudi Arabia, warning the United States against attacking Iran. ](/news/2007/11/18/venezuelan-president-hugo-chavez-opens-the-2007-opec-meeting-in-saudi-arabia-warning-the-united-states-against-attacking-iran.md)
-_Context: Hugo Chvez, Iran, OPEC, President, Saudi, United States, Venezuela_
+_Context: Hugo Chvez, Iran, OPEC, President, Saudi Arabia, United States, Venezuela_
 
 ##### Hong Kong
 ### [ Hong Kong voters go to the polls in District Council elections, with pro-Beijing parties expected to recover. ](/news/2007/11/18/hong-kong-voters-go-to-the-polls-in-district-council-elections-with-pro-beijing-parties-expected-to-recover.md)

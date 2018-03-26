@@ -27,7 +27,7 @@ The family of Papua New Guinea&#039;s prime minister Sir Michael Somare says the
 ### [The TechCrunch web publication reports that the Anonymous computer hacking group has declared war on the U.S. city of Orlando, Florida, in supposed retaliation for the arrest of members of Food Not Bombs. ](/news/2011/06/28/the-techcrunch-web-publication-reports-that-the-anonymous-computer-hacking-group-has-declared-war-on-the-u-s-city-of-orlando-florida-in-s.md)
 The hacktivist group Anonymous may be setting its sights on the city of Orlando, Florida next, if an anonymous press release which has landed in our inbox is..
 
-##### Saudi
+##### Saudi Arabia
 ### [Saudi Arabia approves a law regulating marriages between Saudi citizens and citizens of other countries. ](/news/2011/06/28/saudi-arabia-approves-a-law-regulating-marriages-between-saudi-citizens-and-citizens-of-other-countries.md)
 Law sets conditions for such marriages and SR100,000 fine for violators
 
@@ -35,9 +35,9 @@ Law sets conditions for such marriages and SR100,000 fine for violators
 ### [Six police officers are found guilty of crimes against the security of the state as a result of last September's attempted coup against President of Ecuador Rafael Correa who was tear gassed and imprisoned in a hospital. ](/news/2011/06/28/six-police-officers-are-found-guilty-of-crimes-against-the-security-of-the-state-as-a-result-of-last-september-s-attempted-coup-against-pres.md)
 A court in Ecuador convicts six policemen of crimes against state security after protests last September in which President Correa was detained.
 
-##### German
+##### Germany
 ### [Germany and the People's Republic of China hold a joint cabinet meeting in Berlin with many lucrative contracts signed. ](/news/2011/06/28/germany-and-the-people-s-republic-of-china-hold-a-joint-cabinet-meeting-in-berlin-with-many-lucrative-contracts-signed.md)
-_Context: Berlin, China, German_
+_Context: Berlin, China, Germany_
 
 ##### President of Sudan
 ### [The President of Sudan Omar Hassan al-Bashir arrives in Beijing for talks with Hu Jintao, the President of the People's Republic of China to discuss the recent partition with Southern Sudan. ](/news/2011/06/28/the-president-of-sudan-omar-hassan-al-bashir-arrives-in-beijing-for-talks-with-hu-jintao-the-president-of-the-people-s-republic-of-china-to.md)
@@ -117,7 +117,7 @@ Six bombers said to have stormed the Intercontinental, popular with foreigners a
 
 ##### Refugees International
 ### [A report from Refugees International blames NATO's air strikes, its arming of militias, and home raids for the displacement of more than 250,000 people in Afghanistan, a problem which is increasing. ](/news/2011/06/28/a-report-from-refugees-international-blames-nato-s-air-strikes-its-arming-of-militias-and-home-raids-for-the-displacement-of-more-than-250.md)
-_Context: Afghan, NATO, Refugees International_
+_Context: Afghanistan, NATO, Refugees International_
 
 ##### Drones launch
 ### [Two U.S. drone missile attacks are reported to have killed at least 15 people in North Waziristan in a late night attack by the U.S. on the region. ](/news/2011/06/28/two-u-s-drone-missile-attacks-are-reported-to-have-killed-at-least-15-people-in-north-waziristan-in-a-late-night-attack-by-the-u-s-on-the.md)

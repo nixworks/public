@@ -35,17 +35,17 @@ _Context: 2007 Antofagasta earthquake, Calama, Chile, magnitude_
 ### [ The European Parliament far right bloc, Identity, Tradition, Sovereignty, collapses after five Romanian MEPs resign following Alessandra Mussolini's claim that Romanians are "habitual law-breakers". ](/news/2007/11/14/the-european-parliament-far-right-bloc-identity-tradition-sovereignty-collapses-after-five-romanian-meps-resign-following-alessandra-mu.md)
 _Context: Alessandra Mussolini, European Parliament, Identity, Tradition, Sovereignty, Member of the European Parliament, Romania, far right_
 
-##### German
+##### Germany
 ### [ German train drivers start a 62-hour train strike against Deutsche Bahn, asking for a 31% pay increase. ](/news/2007/11/14/german-train-drivers-start-a-62-hour-train-strike-against-deutsche-bahn-asking-for-a-31-pay-increase.md)
-_Context: 62-hour train strike, Deutsche Bahn, German, train driver_
+_Context: 62-hour train strike, Deutsche Bahn, Germany, train driver_
 
 ##### National Book Award's
 ### [ The 2007 National Book Awards go to Denis Johnson ("Tree of Smoke"), fiction, Tim Weiner ("Legacy of Ashes: The History of the CIA"), non-fiction, Sherman Alexie ("The Absolutely True Diary of a Part-Time Indian"), young people's literature, and Robert Hass ("Time and Materials"), poetry. ](/news/2007/11/14/the-2007-national-book-awards-go-to-denis-johnson-tree-of-smoke-fiction-tim-weiner-legacy-of-ashes-the-history-of-the-cia-non-f.md)
 _Context: Denis Johnson, Legacy of Ashes: The History of the CIA, National Book Award's, Robert Hass, Sherman Alexie, The Absolutely True Diary of a Part-Time Indian, Tim Weiner, Time and Materials, Tree of Smoke_
 
-##### France
+##### French
 ### [ French transport and energy workers' strike against President Nicolas Sarkozy's pension reform broadens, disrupting especially rail services. ](/news/2007/11/14/french-transport-and-energy-workers-strike-against-president-nicolas-sarkozy-s-pension-reform-broadens-disrupting-especially-rail-service.md)
-_Context: France, Nicolas Sarkozy, President of France, energy, pension reform, rail service, strike, transport_
+_Context: French, Nicolas Sarkozy, President of France, energy, pension reform, rail service, strike, transport_
 
 ## [Previous Day...](/news/2007/11/13/index.md)
 

@@ -79,7 +79,7 @@ _Context: Intel, former codename "Oak Trail") Atom processor, netbook, tablets_
 ### [Mexican businessman Carlos Slim is again the richest man in the world according to the Forbes list of billionaires. ](/news/2011/04/11/mexican-businessman-carlos-slim-is-again-the-richest-man-in-the-world-according-to-the-forbes-list-of-billionaires.md)
 _Context: Carlos Slim, Mexico, list of the world's wealthiest people_
 
-##### France
+##### French
 ### [The French law banning the burqa and niqab comes into effect. ](/news/2011/04/11/the-french-law-banning-the-burqa-and-niqab-comes-into-effect.md)
 FRANCE has officially banned women from wearing full-face veils in public places, with a controversial new law coming into effect today.
 

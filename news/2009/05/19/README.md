@@ -7,13 +7,13 @@ Formats: [HTML](2009/05/19/index.html)  [JSON](2009/05/19/index.json)  [XML](200
 ### [ Bahrain recognizes Kosovo. ](/news/2009/05/19/bahrain-recognizes-kosovo.md)
 _Context: Bahrain, Kosovo, Kosovo_
 
-##### Somali
+##### Somalia
 ### [ Somali pirates release the German cargo ship MV "Patriot". ](/news/2009/05/19/somali-pirates-release-the-german-cargo-ship-mv-patriot.md)
-_Context: German, MV, Patriot, Somali, Somali pirates, cargo ship_
+_Context: Germany, MV, Patriot, Somali pirates, Somalia, cargo ship_
 
 ##### Skeleton
 ### [ A 47-million-year-old skeleton of a lemur species is discovered in Germany. ](/news/2009/05/19/a-47-million-year-old-skeleton-of-a-lemur-species-is-discovered-in-germany.md)
-_Context: German, lemur, skeleton, species_
+_Context: Germany, lemur, skeleton, species_
 
 ##### European Parliament
 ### [ The European Parliament requests that Spain reform its planning laws. ](/news/2009/05/19/the-european-parliament-requests-that-spain-reform-its-planning-laws.md)
@@ -33,7 +33,7 @@ _Context: Brian Mulroney, Canada, Karlheinz Schreiber, Prime Minister of Canada,
 
 ##### Ethiopia
 ### [ Ethiopia's National Defense Force reenters Somalia. ](/news/2009/05/19/ethiopia-s-national-defense-force-reenters-somalia.md)
-_Context: Ethiopia, Ethiopian Army, Somali, declares_
+_Context: Ethiopia, Ethiopian Army, Somalia, declares_
 
 ##### ASEAN
 ### [ The Association of Southeast Asian Nations expresses "grave concern" about National League for Democracy General Secretary Aung San Suu Kyi's trial. ](/news/2009/05/19/the-association-of-southeast-asian-nations-expresses-grave-concern-about-national-league-for-democracy-general-secretary-aung-san-suu-kyi.md)

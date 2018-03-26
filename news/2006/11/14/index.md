@@ -11,9 +11,9 @@ _Context: South African Parliament, Thabo Mbeki, same-sex marriage, sexual orien
 ### [ Australia and Indonesia sign a security treaty on Lombok strengthening cooperation against terrorism, enhancing joint naval border patrols and formalising military exchanges. It also supports Indonesia's sovereignty over its provinces notably Western New Guinea. ](/news/2006/11/14/australia-and-indonesia-sign-a-security-treaty-on-lombok-strengthening-cooperation-against-terrorism-enhancing-joint-naval-border-patrols.md)
 _Context: Australia, Indonesia, Lombok, West Papuan_
 
-##### European Union
+##### EU
 ### [ The European Union has renewed diplomatic sanctions for Uzbekistan. The sanctions, which have been violated repeatedly by the governments of Britain and Germany, prohibit the sale of weapons to the Uzbek government and visits from EU officials to Uzbekistan or vice versa. The sanctions were originally implemented after the Uzbek government would not allow an international investigation into the terrorist uprising in Andijan. ](/news/2006/11/14/the-european-union-has-renewed-diplomatic-sanctions-for-uzbekistan-the-sanctions-which-have-been-violated-repeatedly-by-the-governments-o.md)
-_Context: Andijan massacre, European Union, Government of Germany, His Majesty's Government, Uzbekistan, diplomatic sanctions_
+_Context: Andijan massacre, EU, Government of Germany, His Majesty's Government, Uzbekistan, diplomatic sanctions_
 
 ##### Kenya
 ### [ In Kenya, flash flooding in the Mombasa region claims at least 21 lives. The Kenyan Red Cross claims 60,000 people have been made homeless. ](/news/2006/11/14/in-kenya-flash-flooding-in-the-mombasa-region-claims-at-least-21-lives-the-kenyan-red-cross-claims-60-000-people-have-been-made-homeless.md)

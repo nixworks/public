@@ -49,7 +49,7 @@ China and Tajikistan say they have settled a century-old border dispute, after t
 
 ##### Tanker
 ### [A tanker carrying sulfuric acid capsizes in the Rhine River in Germany with two crew members missing. ](/news/2011/01/13/a-tanker-carrying-sulfuric-acid-capsizes-in-the-rhine-river-in-germany-with-two-crew-members-missing.md)
-_Context: German, Rhine River, sulfuric acid, tanker_
+_Context: Germany, Rhine River, sulfuric acid, tanker_
 
 ##### Vietnam
 ### [Three people drown and six are missing after a boat taking people home from an engagement ceremony capsized in northern Vietnam. ](/news/2011/01/13/three-people-drown-and-six-are-missing-after-a-boat-taking-people-home-from-an-engagement-ceremony-capsized-in-northern-vietnam.md)

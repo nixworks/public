@@ -13,11 +13,11 @@ _Context: (Wikinews), 2005 Forbes Global CEO Conference, Australia, Sydney_
 
 ##### Indian Prime Minister
 ### [ Prime Minister Manmohan Singh announced India would give US$50 million in additional aid for the reconstruction of Afghanistan during his meetings with Hamid Karzai. Earlier, it had pledged US$500 million to help rebuild the war-ravaged country.](/news/2005/08/30/prime-minister-manmohan-singh-announced-india-would-give-us-50-million-in-additional-aid-for-the-reconstruction-of-afghanistan-during-his-m.md)
-_Context: Afghan, Hamid Karzai, India, Indian Prime Minister, Manmohan Singh_
+_Context: Afghanistan, Hamid Karzai, India, Indian Prime Minister, Manmohan Singh_
 
 ##### Paris
 ### [ In Paris, France, seven die and fourteen are injured when a fire burns down an apartment housing African immigrants owned by the Socit Immobilire d'conomie Mixte de la Ville de Paris 22:00 (GMT+1) ](/news/2005/08/30/in-paris-france-seven-die-and-fourteen-are-injured-when-a-fire-burns-down-an-apartment-housing-african-immigrants-owned-by-the-societe-im.md)
-_Context: France, Paris, fire_
+_Context: French, Paris, fire_
 
 ##### Prime Minister
 ### [ Former Prime Minister of Israel, Binyamin Netanyahu, has declared his intention to challenge Ariel Sharon for leadership of the Likud party. ](/news/2005/08/30/former-prime-minister-of-israel-binyamin-netanyahu-has-declared-his-intention-to-challenge-ariel-sharon-for-leadership-of-the-likud-party.md)

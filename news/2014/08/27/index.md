@@ -5,7 +5,7 @@ Formats: [HTML](2014/08/27/index.html)  [JSON](2014/08/27/index.json)  [XML](201
 
 ##### Christine Lagarde
 ### [Christine Lagarde, the Chief of the International Monetary Fund, is placed under investigation in France for alleged negligence dating back to her time as Minister of Finance. ](/news/2014/08/27/christine-lagarde-the-chief-of-the-international-monetary-fund-is-placed-under-investigation-in-france-for-alleged-negligence-dating-back.md)
-_Context: Christine Lagarde, Finance Minister, France, International Monetary Fund_
+_Context: Christine Lagarde, Finance Minister, French, International Monetary Fund_
 
 ##### UN Refugee Agency
 ### [The UN Refugee Agency announces that over 2000 migrants from Africa and the Middle East have drowned this year while trying to reach Europe by boat, a record number. ](/news/2014/08/27/the-un-refugee-agency-announces-that-over-2000-migrants-from-africa-and-the-middle-east-have-drowned-this-year-while-trying-to-reach-europe.md)

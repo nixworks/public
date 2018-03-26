@@ -45,7 +45,7 @@ _Context: Ernest Bai Koroma, Sierra Leone, injunction, main opposition party, ru
 
 ##### Helicopter
 ### [ A helicopter registered in the name of former World Rally Championship champion Colin McRae crashes killing four people near McRae's home in Scotland. ](/news/2007/09/15/a-helicopter-registered-in-the-name-of-former-world-rally-championship-champion-colin-mcrae-crashes-killing-four-people-near-mcrae-s-home-i.md)
-_Context: Colin McRae, Scottish, World Rally Championship, helicopter_
+_Context: Colin McRae, Scotland, World Rally Championship, helicopter_
 
 ##### Anti-Iraq War
 ### [ Over 190 anti-Iraq War protesters are arrested outside the United States Capitol. ](/news/2007/09/15/over-190-anti-iraq-war-protesters-are-arrested-outside-the-united-states-capitol.md)
@@ -57,7 +57,7 @@ _Context: Guadalajara, Jalisco, Mexican state, Mexico, Nayarit, Phoenix, Arizona
 
 ##### Washington Post
 ### [ The "Washington Post" reports that the NATO-led Coalition Force in Afghanistan intercepted a shipment of Iranian arms intended for the Taliban. ](/news/2007/09/15/the-washington-post-reports-that-the-nato-led-coalition-force-in-afghanistan-intercepted-a-shipment-of-iranian-arms-intended-for-the-tali.md)
-_Context: Afghan, Iran, NATO, Taliban, Washington Post_
+_Context: Afghanistan, Iran, NATO, Taliban, Washington Post_
 
 ##### Wildfire
 ### [ Wildfires force the evacuation of thousands of residents of San Bernardino and San Diego Counties in the U.S. state of California. ](/news/2007/09/15/wildfires-force-the-evacuation-of-thousands-of-residents-of-san-bernardino-and-san-diego-counties-in-the-u-s-state-of-california.md)

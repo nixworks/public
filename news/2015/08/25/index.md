@@ -23,9 +23,9 @@ A court in Russia sentences Ukrainian film director Oleg Sentsov to 20 years in 
 ### [A record number of migrants crossing the Balkans results in a record number of people in Hungary despite the government building a wall on the border with Serbia. ](/news/2015/08/25/a-record-number-of-migrants-crossing-the-balkans-results-in-a-record-number-of-people-in-hungary-despite-the-government-building-a-wall-on-t.md)
 BUDAPEST, Hungary &amp;#8212; The latest surge of migrants crossing the Balkans has brought a record number to Hungary despite government efforts to quickly build a 4-meter (13-foot) high fence on the
 
-##### Afghan
+##### Afghanistan
 ### [A gas explosion in the Afghanistan city of Herat kills eleven people and injures 18 others. ](/news/2015/08/25/a-gas-explosion-in-the-afghanistan-city-of-herat-kills-eleven-people-and-injures-18-others.md)
-_Context: Afghan, Herat_
+_Context: Afghanistan, Herat_
 
 ##### 2015 Pacific typhoon season
 ### [Typhoon Goni makes landfall in southwestern Japan with at least 26 people injured but no people killed. The death toll in the Philippines rises to 21 while South Korea is on alert. ](/news/2015/08/25/typhoon-goni-makes-landfall-in-southwestern-japan-with-at-least-26-people-injured-but-no-people-killed-the-death-toll-in-the-philippines-ri.md)

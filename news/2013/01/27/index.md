@@ -13,7 +13,7 @@ A controversial referendum on whether to build a new nuclear power plant in Bulg
 
 ##### Paris
 ### [Tens of thousands of people rally in Paris in support of the legalisation of gay marriage and adoption in France. ](/news/2013/01/27/tens-of-thousands-of-people-rally-in-paris-in-support-of-the-legalisation-of-gay-marriage-and-adoption-in-france.md)
-_Context: France, Paris, gay marriage_
+_Context: French, Paris, gay marriage_
 
 ##### Retaining wall
 ### [A retaining wall of a soccer field collapses during a match in the Ugur Sports Facility in Sirnak Province, Turkey, killing 7 people and injuring 3 others. ](/news/2013/01/27/a-retaining-wall-of-a-soccer-field-collapses-during-a-match-in-the-ugur-sports-facility-in-aa-rnak-province-turkey-killing-7-people-and-i.md)

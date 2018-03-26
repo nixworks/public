@@ -27,11 +27,11 @@ _Context: China, Shanxi province_
 ### [Australian Prime Minister Kevin Rudd appoints the country's first population minister, Tony Burke, as part of a strategy for managing population growth. ](/news/2010/04/3/australian-prime-minister-kevin-rudd-appoints-the-country-s-first-population-minister-tony-burke-as-part-of-a-strategy-for-managing-popula.md)
 Prime Minister Kevin Rudd has announced that Tony Burke will take on the new role of minister for population.
 
-##### German
+##### Germany
 ### [German troops kill at least five Afghan soldiers in a friendly fire incident north of the capital Kabul. ](/news/2010/04/3/german-troops-kill-at-least-five-afghan-soldiers-in-a-friendly-fire-incident-north-of-the-capital-kabul.md)
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 
-##### German
+##### Germany
 ### [Three German soldiers are killed in north Afghanistan, five other Germans were wounded in fighting southwest of Kunduz. 22 German soldiers have been killed by fighting or attacks in Afghanistan since 2001 and another 138 wounded. ](/news/2010/04/3/three-german-soldiers-are-killed-in-north-afghanistan-five-other-germans-were-wounded-in-fighting-southwest-of-kunduz-22-german-soldiers-h.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 

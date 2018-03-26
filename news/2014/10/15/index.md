@@ -3,9 +3,9 @@ Formats: [HTML](2014/10/15/index.html)  [JSON](2014/10/15/index.json)  [XML](201
 
 ## [2014-10-15](/news/2014/10/15/index.md)
 
-##### Saudi
+##### Saudi Arabia
 ### [Popular Saudi Shia Sheikh Nimr al-Nimr sentenced to death by Saudi court that tries terrorists and human rights activists. ](/news/2014/10/15/popular-saudi-shia-sheikh-nimr-al-nimr-sentenced-to-death-by-saudi-court-that-tries-terrorists-and-human-rights-activists.md)
-_Context: Nimr al-Nimr, Saudi, Saudi court, Shia_
+_Context: Nimr al-Nimr, Saudi Arabia, Saudi court, Shia_
 
 ##### Nicola Sturgeon
 ### [Nicola Sturgeon will succeed Alex Salmond as leader of the Scottish National Party and First Minister of Scotland after she was the only candidate to put their name forward in the party's leadership election. ](/news/2014/10/15/nicola-sturgeon-will-succeed-alex-salmond-as-leader-of-the-scottish-national-party-and-first-minister-of-scotland-after-she-was-the-only-can.md)

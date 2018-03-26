@@ -53,7 +53,7 @@ Twenty-nine people are rescued after a boat carrying about 130 people from Niger
 
 ##### 2013 Berlin helicopter crash
 ### [2013 Berlin helicopter crash: Two helicopters collide and crash near Berlin's Olympic Stadium in Germany, killing the pilot of one helicopter and injuring four people. ](/news/2013/03/21/2013-berlin-helicopter-crash-two-helicopters-collide-and-crash-near-berlin-s-olympic-stadium-in-germany-killing-the-pilot-of-one-helicopte.md)
-_Context: 2013 Berlin helicopter crash, Berlin, German, Olympic Stadium_
+_Context: 2013 Berlin helicopter crash, Berlin, Germany, Olympic Stadium_
 
 ##### Nigeria
 ### [Nigerian writer and literary icon Chinua Achebe dies at the age of 82. ](/news/2013/03/21/nigerian-writer-and-literary-icon-chinua-achebe-dies-at-the-age-of-82.md)

@@ -21,7 +21,7 @@ _Context: Bolivia, Carlos Mesa, civil war, election_
 
 ##### Aria
 ### [ A previously unknown aria written by Johann Sebastian Bach in October of 1713 is discovered in documents from a German library. It is the first new work to be discovered by Bach since 1975.](/news/2005/06/8/a-previously-unknown-aria-written-by-johann-sebastian-bach-in-october-of-1713-is-discovered-in-documents-from-a-german-library-it-is-the-f.md)
-_Context: 1713, 1975, German, Johann Sebastian Bach, aria_
+_Context: 1713, 1975, Germany, Johann Sebastian Bach, aria_
 
 ##### Norwegian
 ### [ The infection source of Norway's recent outbreak of Legionnaire's Disease is surprisingly found to have been an industrial purification installation known as a scrubber, a device which cleans air using water. Reportedly, such facilities have never before caused a Legionnaire's outbreak anywhere in the world. Ten people have been killed, and 52 infected, in the outbreak, which is Norway's largest ever. ](/news/2005/06/8/the-infection-source-of-norway-s-recent-outbreak-of-legionnaire-s-disease-is-surprisingly-found-to-have-been-an-industrial-purification-ins.md)

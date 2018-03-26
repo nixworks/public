@@ -31,7 +31,7 @@ _Context: Michael Bloomberg, New York City, a law limiting soft drink sales, sta
 ### [Due to lack of evidence, a French court drops a case against former IMF chief Dominique Strauss-Kahn for allegedly running a prostitution ring. ](/news/2013/06/11/due-to-lack-of-evidence-a-french-court-drops-a-case-against-former-imf-chief-dominique-strauss-kahn-for-allegedly-running-a-prostitution-ri.md)
 A French court has dismissed a case against Dominique Strauss-Kahn in relation to an alleged prostitution ring according to France 24. 
 
-##### European Union
+##### EU
 ### [European Union officials send a letter to U.S. attorney general Eric Holder with seven detailed questions requesting concrete explanations about the country's data snooping programs and how it affects EU citizens ahead of a meeting in Dublin this Friday. ](/news/2013/06/11/european-union-officials-send-a-letter-to-u-s-attorney-general-eric-holder-with-seven-detailed-questions-requesting-concrete-explanations-a.md)
 The European Commission says it will ask the US for assurances about the legality of its data harvesting this week.
 

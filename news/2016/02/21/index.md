@@ -13,7 +13,7 @@ With more than 80% of votes counted, President Evo Morales of Bolivia is losing 
 
 ##### Macedonian parliamentary election, 2016
 ### [The European Union and the United States advise interim Macedonian Prime Minister Emil Dimitriev to postpone elections scheduled for April 24, 2016. ](/news/2016/02/21/the-european-union-and-the-united-states-advise-interim-macedonian-prime-minister-emil-dimitriev-to-postpone-elections-scheduled-for-april-2.md)
-_Context: Emil Dimitriev, European Union, Macedonian parliamentary election, 2016, Prime Minister of Macedonia, Republic of Macedonia, United States_
+_Context: EU, Emil Dimitriev, Macedonian parliamentary election, 2016, Prime Minister of Macedonia, Republic of Macedonia, United States_
 
 ##### Ashraf Rifi
 ### [Ashraf Rifi resigns as the Minister for Justice for Lebanon in protest at Hezbollah domination of the government which he claims is harming relations with Arab nations. ](/news/2016/02/21/ashraf-rifi-resigns-as-the-minister-for-justice-for-lebanon-in-protest-at-hezbollah-domination-of-the-government-which-he-claims-is-harming.md)
@@ -57,11 +57,11 @@ Explosions rip through Homs and Damascus suburb as world leaders attempt to get 
 
 ##### Insurgency in the Maghreb (2002-present)
 ### [Germany is considering sending troops to Tunisia to help train the Tunisian Army in the fight against Islamist militants, particularly ISIL who control territory in neighboring Libya. ](/news/2016/02/21/germany-is-considering-sending-troops-to-tunisia-to-help-train-the-tunisian-army-in-the-fight-against-islamist-militants-particularly-isil.md)
-_Context: German, ISIL, Insurgency in the Maghreb (2002-present), Islamists, Libya, Tunisia, army_
+_Context: Germany, ISIL, Insurgency in the Maghreb (2002-present), Islamists, Libya, Tunisia, army_
 
 ##### Refugee immigration to Germany
 ### [Greece claims that Macedonia has closed its borders to migrants from Afghanistan. ](/news/2016/02/21/greece-claims-that-macedonia-has-closed-its-borders-to-migrants-from-afghanistan.md)
-_Context: Afghan, Greece, Republic of Macedonia, refugee immigration to Germany_
+_Context: Afghanistan, Greece, Republic of Macedonia, refugee immigration to Germany_
 
 ##### 2015-16 South Pacific cyclone season
 ### [At least five people are reported dead and entire villages have been flattened after Cyclone Winston hits Fiji. ](/news/2016/02/21/at-least-five-people-are-reported-dead-and-entire-villages-have-been-flattened-after-cyclone-winston-hits-fiji.md)

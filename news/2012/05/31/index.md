@@ -51,7 +51,7 @@ _Context: BBC Radio 4, Bloomsday, James Joyce, Ulysses_
 ### [American conservative Christian lobby group One Million Moms launches a campaign against the decision of DC and Marvel Comics to include openly gay characters in their comics. ](/news/2012/05/31/american-conservative-christian-lobby-group-one-million-moms-launches-a-campaign-against-the-decision-of-dc-and-marvel-comics-to-include-ope.md)
 _Context: DC, Marvel Comics, One Million Moms, conservative Christian, gay_
 
-##### German
+##### Germany
 ### [A German engineer taken hostage by gunmen in Kano, Nigeria, in January is killed by his captors during a failed rescue operation by Nigerian forces. ](/news/2012/05/31/a-german-engineer-taken-hostage-by-gunmen-in-kano-nigeria-in-january-is-killed-by-his-captors-during-a-failed-rescue-operation-by-nigerian.md)
 A German engineer abducted in January by gunmen in Kano in northern Nigeria has been killed in a failed rescue bid, security sources say.
 

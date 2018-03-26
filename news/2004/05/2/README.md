@@ -27,7 +27,7 @@ _Context: Ariel Sharon, Gaza Strip, Israel, Likud Party_
 
 ##### Polish Prime Minister
 ### [ Polish Prime Minister Leszek Miller resigns one day after Poland becomes a member of the European Union. His government was the most unpopular of the nine that have ruled Poland since the fall of the communist regime in 1989. Miller's Left Democratic Alliance party, plagued by a series of corruption scandals (including the Rywin affair), hit a record low in popularity rankings in the last months which led some of its members to break away and form a new party, the Social Democracy of Poland. President Aleksander Kwasniewski announces he will designate Marek Belka, a liberal economist, as new prime minister. ](/news/2004/05/2/polish-prime-minister-leszek-miller-resigns-one-day-after-poland-becomes-a-member-of-the-european-union-his-government-was-the-most-unpopu.md)
-_Context: Aleksander Kwasniewski, European Union, Left Democratic Alliance, Leszek Miller, Marek Belka, Polish Prime Minister, Rywin, Social Democracy of Poland, joining the European Union_
+_Context: Aleksander Kwasniewski, EU, Left Democratic Alliance, Leszek Miller, Marek Belka, Polish Prime Minister, Rywin, Social Democracy of Poland, joining the European Union_
 
 ##### Investment bank
 ### [ Investment banker Frank Quattrone of Credit Suisse First Boston is convicted of obstructing justice and witness tampering. Quattrone played a significant role in the Initial Public Offerings of Amazon, Netscape, Intuit and other Internet companies. ](/news/2004/05/2/investment-banker-frank-quattrone-of-credit-suisse-first-boston-is-convicted-of-obstructing-justice-and-witness-tampering-quattrone-played.md)

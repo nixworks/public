@@ -23,9 +23,9 @@ _Context: King Oyo, Rukidi IV of Toro, Uganda_
 ### [Bahrain gives Abdullah of Saudi Arabia the Ajrab sword of Imam Turki bin Abdullah kept by Bahrain for 140 years and confers on him the Sheikh Isa bin Salman Al Khalifah Medal during a ceremony at Al-Sakhir Palace. ](/news/2010/04/18/bahrain-gives-abdullah-of-saudi-arabia-the-ajrab-sword-of-imam-turki-bin-abdullah-kept-by-bahrain-for-140-years-and-confers-on-him-the-sheik.md)
 _Context: Abdullah, Al-Sakhir Palace, Bahrain, Imam Turki bin Abdullah, Sheikh Isa bin Salman Al Khalifah_
 
-##### Saudi
+##### Saudi Arabia
 ### [Increasing numbers of women from Saudi Arabia are running away from home, studies by the International Muslim Organization for Women and Family (IMOWF) in Jeddah say. ](/news/2010/04/18/increasing-numbers-of-women-from-saudi-arabia-are-running-away-from-home-studies-by-the-international-muslim-organization-for-women-and-fam.md)
-_Context: International Muslim Organization for Women and Family, Jeddah, Saudi_
+_Context: International Muslim Organization for Women and Family, Jeddah, Saudi Arabia_
 
 ##### Italy
 ### [Three Italian aid workers, Matteo Dell'Aria, Marco Garatti and Matteo Pagani, accused of being involved in a plot to assassinate Governor of Helmand Gulab Mangal, are released after being found "not guilty". ](/news/2010/04/18/three-italian-aid-workers-matteo-dell-aria-marco-garatti-and-matteo-pagani-accused-of-being-involved-in-a-plot-to-assassinate-governor-of.md)

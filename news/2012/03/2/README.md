@@ -59,13 +59,13 @@ _Context: Eurozone, Greece, Moody's Investor Services, credit rating_
 ### [Nestle and Danone are said to be bidding for the infant nutrition business that Pfizer is about to put up for sale. ](/news/2012/03/2/nestla-c-and-danone-are-said-to-be-bidding-for-the-infant-nutrition-business-that-pfizer-is-about-to-put-up-for-sale.md)
 _Context: Danone, Nestle, Pfizer_
 
-##### European Union
+##### EU
 ### [25 of the 27 members of the European Union sign a new "fiscal compact", the exceptions being the United Kingdom and the Czech Republic. ](/news/2012/03/2/25-of-the-27-members-of-the-european-union-sign-a-new-fiscal-compact-the-exceptions-being-the-united-kingdom-and-the-czech-republic.md)
-_Context: Czech Republic, European Union, United Kingdom_
+_Context: Czech Republic, EU, United Kingdom_
 
 ##### Washington Post
 ### [The "Washington Post" reports that a US military report into the accidental burning of Qurans at Bagram airfield in Afghanistan that led to widespread protests has found that five US service personnel were involved. ](/news/2012/03/2/the-washington-post-reports-that-a-us-military-report-into-the-accidental-burning-of-qurans-at-bagram-airfield-in-afghanistan-that-led-to.md)
-_Context: Afghan, Bagram airfield, Quran, Washington Post, protests_
+_Context: Afghanistan, Bagram airfield, Quran, Washington Post, protests_
 
 ##### NASA
 ### [The US space agency NASA claims that it was hacked 13 times last year compromising security. ](/news/2012/03/2/the-us-space-agency-nasa-claims-that-it-was-hacked-13-times-last-year-compromising-security.md)

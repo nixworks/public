@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/30/saudi-arabia-stops-issuing-permits-for-workers-
 
 ### [2011-06-30](/news/2011/06/30/index.md)
 
-##### Saudi
+##### Saudi Arabia
 # Saudi Arabia stops issuing permits for workers from Indonesia and the Philippines as the row over the beheading of an Indonesian maid by Saudi Arabia continues. 
 
 Saudi Arabia says it will stop issuing work permits for domestic workers from Indonesia and the Philippines, after a series of high-profile spats.

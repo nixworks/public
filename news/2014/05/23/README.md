@@ -15,9 +15,9 @@ _Context: Barack Obama, Julian Castro, Mayor of San Antonio, Secretary of Housin
 ### [Royal Thai Army chief and coup leader General Prayuth Chan-ocha detains former Prime Minister of Thailand Yingluck Shinawatra after summoning her for talks a day after the coup. ](/news/2014/05/23/royal-thai-army-chief-and-coup-leader-general-prayuth-chan-ocha-detains-former-prime-minister-of-thailand-yingluck-shinawatra-after-summonin.md)
 By Amy Sawitta Lefevre and Pracha Hariraksapitak BANGKOK (Reuters) - Thailand&#x27;s military rulers detained former Prime Minister Yingluck Shinawatra on Friday, a senior officer said, after summoning her for talks a day after the army overthrew her caretaker government in a coup. As the army moved
 
-##### European Union
+##### EU
 ### [Voters in the European Union go to the polls for a multi-day European Parliamentary election. Voters in Ireland and the Czech Republic vote today. ](/news/2014/05/23/voters-in-the-european-union-go-to-the-polls-for-a-multi-day-european-parliamentary-election-voters-in-ireland-and-the-czech-republic-vote.md)
-_Context: Czech Republic, European Union, Ireland, newly elected_
+_Context: Czech Republic, EU, Ireland, newly elected_
 
 ##### 2014 Isla Vista shootings
 ### [2014 Isla Vista shootings. Seven people have been killed and seven injured in a series of drive-by shootings in a student enclave next to the University of California campus in the American city of Santa Barbara, California. ](/news/2014/05/23/2014-isla-vista-shootings-seven-people-have-been-killed-and-seven-injured-in-a-series-of-drive-by-shootings-in-a-student-enclave-next-to-th.md)
@@ -45,7 +45,7 @@ _Context: Chinese, rmqi_
 
 ##### Attack the Indian consulate
 ### [Gunmen attack the Indian consulate in Afghanistan's Herat Province. ](/news/2014/05/23/gunmen-attack-the-indian-consulate-in-afghanistan-s-herat-province.md)
-_Context: Afghan, Herat Province, attack the Indian consulate_
+_Context: Afghanistan, Herat Province, attack the Indian consulate_
 
 ##### Egypt
 ### [Egyptian security forces claim to have killed Shadi el-Menei, the leader of Ansar Bait al-Maqdis, and three other senior members in overnight fighting. ](/news/2014/05/23/egyptian-security-forces-claim-to-have-killed-shadi-el-menei-the-leader-of-ansar-bait-al-maqdis-and-three-other-senior-members-in-overnigh.md)

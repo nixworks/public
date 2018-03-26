@@ -25,7 +25,7 @@ Social networking site shut down over caricatures of Prophet Mohammed.
 
 ##### Somali pirates
 ### [Two potential pirate attacks in the Gulf of Aden off the coast of Somalia are disrupted by the Seychelles Coast Guard and the Australian navy. ](/news/2010/05/30/two-potential-pirate-attacks-in-the-gulf-of-aden-off-the-coast-of-somalia-are-disrupted-by-the-seychelles-coast-guard-and-the-australian-nav.md)
-_Context: Gulf of Aden, Royal Australian Navy, Seychelles Coast Guard, Somali, Somali pirates_
+_Context: Gulf of Aden, Royal Australian Navy, Seychelles Coast Guard, Somali pirates, Somalia_
 
 ##### BP
 ### [BP turns to a new strategy to stop the Gulf of Mexico oil spill, but it will take at least four to seven days before the containment device that could capture the leaking oil can be put into place. ](/news/2010/05/30/bp-turns-to-a-new-strategy-to-stop-the-gulf-of-mexico-oil-spill-but-it-will-take-at-least-four-to-seven-days-before-the-containment-device.md)

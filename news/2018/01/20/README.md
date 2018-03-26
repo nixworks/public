@@ -33,7 +33,7 @@ The government shut down at midnight after lawmakers failed to reach an agreemen
 
 ##### 2018 Inter-Continental Hotel Kabul attack
 ### [At least four gunmen launch an attack on the Intercontinental Hotel in Kabul, Afghanistan. ](/news/2018/01/20/at-least-four-gunmen-launch-an-attack-on-the-intercontinental-hotel-in-kabul-afghanistan.md)
-_Context: 2018 Inter-Continental Hotel Kabul attack, Afghan, Intercontinental Hotel, Kabul_
+_Context: 2018 Inter-Continental Hotel Kabul attack, Afghanistan, Intercontinental Hotel, Kabul_
 
 ##### Syrian Civil War
 ### [The Syrian Army seizes control of the strategic Abu al-Duhur Military Airbase in Idlib Governorate. ](/news/2018/01/20/the-syrian-army-seizes-control-of-the-strategic-abu-al-duhur-military-airbase-in-idlib-governorate.md)

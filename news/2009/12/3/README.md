@@ -11,9 +11,9 @@ Kristina Keneally will become the first female Premier of NSW after Nathan Rees 
 ### [ Three Iranian pilgrims are killed after their bus exploded at a petrol station in the Syrian capital Damascus. ](/news/2009/12/3/three-iranian-pilgrims-are-killed-after-their-bus-exploded-at-a-petrol-station-in-the-syrian-capital-damascus.md)
 _Context: Damascus, Iran, Syria_
 
-##### Somali
+##### Somalia
 ### [ Three Somali cabinet ministers are amongst dozens killed in a bomb blast at a university graduation ceremony at a hotel in Mogadishu. ](/news/2009/12/3/three-somali-cabinet-ministers-are-amongst-dozens-killed-in-a-bomb-blast-at-a-university-graduation-ceremony-at-a-hotel-in-mogadishu.md)
-_Context: Mogadishu, Somali, bomb blast, university_
+_Context: Mogadishu, Somalia, bomb blast, university_
 
 ##### India
 ### [ Indian activists mark the 25th anniversary of the industrial disaster that took place in Bhopal which led to 3,787 deaths. ](/news/2009/12/3/indian-activists-mark-the-25th-anniversary-of-the-industrial-disaster-that-took-place-in-bhopal-which-led-to-3-787-deaths.md)
@@ -29,7 +29,7 @@ Four Nigerian farmers will launch a ground-breaking pollution claim against oil 
 
 ##### Royal Netherlands Navy
 ### [ The Royal Netherlands Navy seizes 13 Somali pirates and frees two Tanzanians from a vessel that attacked a German ship off the southern cost of Oman. ](/news/2009/12/3/the-royal-netherlands-navy-seizes-13-somali-pirates-and-frees-two-tanzanians-from-a-vessel-that-attacked-a-german-ship-off-the-southern-cos.md)
-_Context: German, Oman, Royal Netherlands Navy, Somali pirates, Tanzania_
+_Context: Germany, Oman, Royal Netherlands Navy, Somali pirates, Tanzania_
 
 ##### FDIC
 ### [ The Federal Deposit Insurance Corporation, which insures deposits in United States commercial banks, is running a deficit of $US8.2 billion. ](/news/2009/12/3/the-federal-deposit-insurance-corporation-which-insures-deposits-in-united-states-commercial-banks-is-running-a-deficit-of-us8-2-billion.md)

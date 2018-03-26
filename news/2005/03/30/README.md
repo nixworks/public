@@ -53,7 +53,7 @@ _Context: Doron Grossman, Ethiopia, Israel, ambassador, suicide_
 
 ##### Jean-Claude Juncker
 ### [ Jean-Claude Juncker and Olli Rehn confirm the European Union's support for Paul Wolfowitz to become the president of the World Bank. ](/news/2005/03/30/jean-claude-juncker-and-olli-rehn-confirm-the-european-union-s-support-for-paul-wolfowitz-to-become-the-president-of-the-world-bank.md)
-_Context: European Union, Jean-Claude Juncker, Olli Rehn, Paul Wolfowitz, World Bank_
+_Context: EU, Jean-Claude Juncker, Olli Rehn, Paul Wolfowitz, World Bank_
 
 ##### Italy
 ### [ The island of Malta is in dispute with Italy over the transportation of Chinese illegal immigrants between Malta and Sicily. ](/news/2005/03/30/the-island-of-malta-is-in-dispute-with-italy-over-the-transportation-of-chinese-illegal-immigrants-between-malta-and-sicily.md)

@@ -9,7 +9,7 @@ _Context: Massachusetts, gay_
 
 ##### Islamists
 ### [ Islamist militants attack two oil industry installations and a foreign workers' housing complex in Khobar, Saudi Arabia, killing at least 11 people and taking some 50 hostages. Saudi police attempt to storm the housing complex but withdraw after taking casualties. A previously unknown militant group styling itself "The Jerusalem Squadron" claims responsibility and says they are attacking "zionists and crusaders" who are there to "steal our oil and resources". ](/news/2004/05/29/islamist-militants-attack-two-oil-industry-installations-and-a-foreign-workers-housing-complex-in-khobar-saudi-arabia-killing-at-least-1.md)
-_Context: Islamists, Khobar, Saudi_
+_Context: Islamists, Khobar, Saudi Arabia_
 
 ##### World War&nbsp;II Memorial
 ### [ The World War&nbsp;II Memorial is dedicated in Washington, D.C., with around 200,000 people attending the ceremony. ](/news/2004/05/29/the-world-war-nbsp-ii-memorial-is-dedicated-in-washington-d-c-with-around-200-000-people-attending-the-ceremony.md)

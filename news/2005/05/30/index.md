@@ -27,9 +27,9 @@ _Context: Bari, Orthodox Church, Pope Benedict XVI, Vatican City_
 ### [ Angela Merkel is elected by the CDU-CSU as candidate to become Chancellor of Germany in the upcoming German federal election, 2005. ](/news/2005/05/30/angela-merkel-is-elected-by-the-cdu-csu-as-candidate-to-become-chancellor-of-germany-in-the-upcoming-german-federal-election-2005.md)
 _Context: Angela Merkel, CSU, Chancellor, Christian Democratic Union, German federal election, 2005_
 
-##### Somali
+##### Somalia
 ### [ Fighting in the proposed Somali capital of Baidoa threatens the stability of the Transitional Federal Government of Somalia. ](/news/2005/05/30/fighting-in-the-proposed-somali-capital-of-baidoa-threatens-the-stability-of-the-transitional-federal-government-of-somalia.md)
-_Context: Baidoa, Somali, Transitional Federal Government of Somalia_
+_Context: Baidoa, Somalia, Transitional Federal Government of Somalia_
 
 ##### Jerusalem
 ### [ Amidst scandals regarding the sale of land in Jerusalem, Patriarch Irenaios I of Jerusalem has been replaced by Metropolitan Cornelius of Petra, who serves as "locum tenens" of the Orthodox Church of Jerusalem.](/news/2005/05/30/amidst-scandals-regarding-the-sale-of-land-in-jerusalem-patriarch-irenaios-i-of-jerusalem-has-been-replaced-by-metropolitan-cornelius-of-p.md)

@@ -33,7 +33,7 @@ _Context: California, San Francisco County Superior Court_
 
 ##### Somali
 ### [A Somali man Omer Abdi Mohamed pleads guilty in the US city of Minneapolis, Minnesota, to helping recruit people to travel to Somalia to assist the terror group al-Shabab. ](/news/2011/07/18/a-somali-man-omer-abdi-mohamed-pleads-guilty-in-the-us-city-of-minneapolis-minnesota-to-helping-recruit-people-to-travel-to-somalia-to-ass.md)
-_Context: Al-Shabab, Minneapolis, Minnesota, Omer Abdi Mohamed, Somali, Somali_
+_Context: Al-Shabab, Minneapolis, Minnesota, Omer Abdi Mohamed, Somali, Somalia_
 
 ##### Blog
 ### [The trial of five bloggers in the United Arab Emirates for advocating democratic reforms resumes. ](/news/2011/07/18/the-trial-of-five-bloggers-in-the-united-arab-emirates-for-advocating-democratic-reforms-resumes.md)
@@ -45,7 +45,7 @@ _Context: Hillary Clinton, India, Secretary of State_
 
 ##### President of Russia
 ### [The President of Russia Dmitry Medvedev commences a two-day visit to Germany. ](/news/2011/07/18/the-president-of-russia-dmitry-medvedev-commences-a-two-day-visit-to-germany.md)
-_Context: Dmitry Medvedev, German, President of Russia_
+_Context: Dmitry Medvedev, Germany, President of Russia_
 
 ##### Iran
 ### [Iran claims to have taken control of three Iranian Kurdish PJAK camps inside Iraq. ](/news/2011/07/18/iran-claims-to-have-taken-control-of-three-iranian-kurdish-pjak-camps-inside-iraq.md)

@@ -43,7 +43,7 @@ The first official painting of the Duchess of Cambridge goes on display at the N
 ### [In the Central African Republic, the government signs a ceasefire agreement with rebels, ending a month of conflict and establishing a new coalition government. ](/news/2013/01/11/in-the-central-african-republic-the-government-signs-a-ceasefire-agreement-with-rebels-ending-a-month-of-conflict-and-establishing-a-new-c.md)
 Rebels fighting the government in the Central African Republic have signed a formal ceasefire and agreed to form a unity government following talks in Gabon.
 
-##### France
+##### French
 ### [France commits troops to aid government forces in the Northern Mali conflict. ](/news/2013/01/11/france-commits-troops-to-aid-government-forces-in-the-northern-mali-conflict.md)
 France answered an urgent plea from the government of its former colony to help blunt an advance into the center of the country by Islamist extremist militants.
 

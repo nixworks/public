@@ -45,7 +45,7 @@ _Context: Google, Information Commissioner's Office, United Kingdom, right to be
 
 ##### George Parker Bidder III
 ### [A bottle with a letter left inside by British marine biologist George Parker Bidder III is discovered by a woman vacationing in Germany. The bottle dating from 1906, if confirmed, would be the world's oldest message in a bottle found to date. ](/news/2015/08/21/a-bottle-with-a-letter-left-inside-by-british-marine-biologist-george-parker-bidder-iii-is-discovered-by-a-woman-vacationing-in-germany-the.md)
-_Context: George Parker Bidder III, German, message in a bottle_
+_Context: George Parker Bidder III, Germany, message in a bottle_
 
 ##### 2015 Thalys train attack
 ### [A gunman opens fire on an Amsterdam to Paris train leaving four people wounded. ](/news/2015/08/21/a-gunman-opens-fire-on-an-amsterdam-to-paris-train-leaving-four-people-wounded.md)

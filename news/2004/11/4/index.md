@@ -25,7 +25,7 @@ _Context: Yasser Arafat, brain-dead, life-support_
 
 ##### Republic of Macedonia
 ### [ The United States recognizes the Republic of Macedonia under its constitutional name rather than the name "former Yugoslav Republic of Macedonia" used by the United Nations, the first major foreign policy move by the re-elected Bush administration. The move outrages Greece, who had the European Union's support in lobbying against recognition since Macedonia's independence in 1991. ](/news/2004/11/4/the-united-states-recognizes-the-republic-of-macedonia-under-its-constitutional-name-rather-than-the-name-former-yugoslav-republic-of-mace.md)
-_Context: European Union, George W. Bush, Republic of Macedonia_
+_Context: EU, George W. Bush, Republic of Macedonia_
 
 ##### NGO
 ### [ The NGO aid agency Mdecins Sans Frontires ends work in Iraq due to the "escalating violence" and "the warring parties have repeatedly shown their disrespect for independent humanitarian assistance." ](/news/2004/11/4/the-ngo-aid-agency-medecins-sans-frontieres-ends-work-in-iraq-due-to-the-escalating-violence-and-the-warring-parties-have-repeatedly-sho.md)

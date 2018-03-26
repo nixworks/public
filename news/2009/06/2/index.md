@@ -25,7 +25,7 @@ The Chinese government is trying to block access to social media, photo-sharing 
 
 ##### Oxfam
 ### [ Oxfam International describes the humanitarian crisis in Somalia as "very dire". ](/news/2009/06/2/oxfam-international-describes-the-humanitarian-crisis-in-somalia-as-very-dire.md)
-_Context: Oxfam, Somali, humanitarian crisis_
+_Context: Oxfam, Somalia, humanitarian crisis_
 
 ##### Dutch
 ### [ Dutch research verifies space headache as a real medical condition. ](/news/2009/06/2/dutch-research-verifies-space-headache-as-a-real-medical-condition.md)

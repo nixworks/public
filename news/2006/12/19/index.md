@@ -37,7 +37,7 @@ _Context: Daniar Usenov, Felix Kulov, Kurmanbek Bakiyev, Kyrgyz Prime Minister, 
 
 ##### Somali Civil War
 ### [ Somali Civil War: Somalia's Islamic Courts Union (ICU) say they are finalising plans to fight Ethiopian forces deployed in the country as a seven-day ultimatum for Ethiopia to pull out its troops nears its deadline. ](/news/2006/12/19/somali-civil-war-somalia-s-islamic-courts-union-icu-say-they-are-finalising-plans-to-fight-ethiopian-forces-deployed-in-the-country-as-a.md)
-_Context: Ethiopia, Islamic Courts Union, Somali, Somali Civil War, fight Ethiopian forces_
+_Context: Ethiopia, Islamic Courts Union, Somali Civil War, Somalia, fight Ethiopian forces_
 
 ## [Previous Day...](/news/2006/12/18/index.md)
 

@@ -11,7 +11,7 @@ _Context: 2000, Ayesh Ali Hussein al-Harbi, Boeing 777, Iraq, Iraqi Interior Min
 ### [ Thirty-three people die and seventeen are injured when their coach plunges into a canyon in Cajamarca, Peru. ](/news/2009/01/10/thirty-three-people-die-and-seventeen-are-injured-when-their-coach-plunges-into-a-canyon-in-cajamarca-peru.md)
 _Context: Cajamarca, Peru, coach_
 
-##### Somali
+##### Somalia
 ### [ A boat carrying eight Somali pirates from the freed supertanker MV "Sirius Star" capsizes in the Gulf of Aden, causing the deaths of five and the loss of their portion of US$3 million in ransom. ](/news/2009/01/10/a-boat-carrying-eight-somali-pirates-from-the-freed-supertanker-mv-sirius-star-capsizes-in-the-gulf-of-aden-causing-the-deaths-of-five-a.md)
 Five Somali pirates who released a Saudi supertanker have drowned with their share of a reported &pound;2 million ransom after their escape boat capsized.
 

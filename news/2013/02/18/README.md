@@ -25,7 +25,7 @@ Armed robbers disguised as police escape with a massive haul of diamonds after a
 
 ##### Nestl
 ### [Food giant Nestl removes its beef pasta meals from supermarkets in France, Spain, and Italy, after tests confirmed that the product contained horse meat. ](/news/2013/02/18/food-giant-nestle-removes-its-beef-pasta-meals-from-supermarkets-in-france-spain-and-italy-after-tests-confirmed-that-the-product-contain.md)
-_Context: 2013 meat adulteration scandal, France, Italy, Nestl, Spanish, beef, horses for meat, supermarket_
+_Context: 2013 meat adulteration scandal, French, Italy, Nestl, Spanish, beef, horses for meat, supermarket_
 
 ##### Indonesia
 ### [At least 15 people are killed in Indonesia after flooding and multiple landslides ravage the North Sulawesi province. ](/news/2013/02/18/at-least-15-people-are-killed-in-indonesia-after-flooding-and-multiple-landslides-ravage-the-north-sulawesi-province.md)

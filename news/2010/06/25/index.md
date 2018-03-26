@@ -3,9 +3,9 @@ Formats: [HTML](2010/06/25/index.html)  [JSON](2010/06/25/index.json)  [XML](201
 
 ## [2010-06-25](/news/2010/06/25/index.md)
 
-##### German
+##### Germany
 ### [Germany's TanDEM-X satellite, whose aim it is to create the most precise 3D map of Earth's surface, obtains its first images. ](/news/2010/06/25/germany-s-tandem-x-satellite-whose-aim-it-is-to-create-the-most-precise-3d-map-of-earth-s-surface-obtains-its-first-images.md)
-_Context: 3D, Earth, German, TanDEM-X_
+_Context: 3D, Earth, Germany, TanDEM-X_
 
 ##### British-Irish Council
 ### [The British-Irish Council meets in Guernsey, with those attending including Taoiseach Brian Cowen, Northern Ireland Secretary Owen Paterson, Northern Ireland First Minister Peter Robinson and Deputy First Minister Martin McGuinness, the First Ministers of Scotland and Wales, and the Chief Ministers of Guernsey, Jersey and the Isle of Man. ](/news/2010/06/25/the-britishairish-council-meets-in-guernsey-with-those-attending-including-taoiseach-brian-cowen-northern-ireland-secretary-owen-paterso.md)

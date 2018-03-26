@@ -23,7 +23,7 @@ _Context: CIA leak scandal, Karl Rove, Robert Novak_
 ### [ The death toll from the 11 July 2006 Mumbai train bombings rises to 200 deaths and 700 injuries. Timers in pencils have been found at some of the sites of explosion. ](/news/2006/07/12/the-death-toll-from-the-11-july-2006-mumbai-train-bombings-rises-to-200-deaths-and-700-injuries-timers-in-pencils-have-been-found-at-some.md)
 _Context: Mumbai train bombings_
 
-##### France
+##### French
 ### [ France, United States, United Kingdom, Russia, People's Republic of China and Germany decide to refer Iran to the U.N. Security Council over its nuclear program, after Iran not deciding whether to respond to a package of incentives quickly enough. ](/news/2006/07/12/france-united-states-united-kingdom-russia-people-s-republic-of-china-and-germany-decide-to-refer-iran-to-the-u-n-security-council-ove.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 

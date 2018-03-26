@@ -15,9 +15,9 @@ _Context: Belarus, OSCE, VRT, parliamentary elections_
 ### [Karim Masimov resigns as the Prime Minister of Kazakhstan after serving for five years. ](/news/2012/09/24/karim-masimov-resigns-as-the-prime-minister-of-kazakhstan-after-serving-for-five-years.md)
 _Context: Karim Masimov, Kazakhstan, Prime Minister_
 
-##### Saudi
+##### Saudi Arabia
 ### [More than 100 people protest around a desert prison in Saudi Arabia against the detention of their relatives. ](/news/2012/09/24/more-than-100-people-protest-around-a-desert-prison-in-saudi-arabia-against-the-detention-of-their-relatives.md)
-_Context: Saudi_
+_Context: Saudi Arabia_
 
 ##### South Korea
 ### [South Korean presidential candidate Park Geun-hye, daughter of former president Park Chung-hee, apologises for abuses committed under her father's regime. ](/news/2012/09/24/south-korean-presidential-candidate-park-geun-hye-daughter-of-former-president-park-chung-hee-apologises-for-abuses-committed-under-her-fa.md)
@@ -67,7 +67,7 @@ Reports from North Korea suggest reforms that will see farmers keep more of thei
 ### [Kenyan AMISOM troops, advancing towards the al-Shabaab stronghold of Kismayo, "deliberately" shoot dead seven Somali civilians, according to a Somali Army spokesman. The Hizbul Islam faction announces that it leaves the al-Shabaab. ](/news/2012/09/24/kenyan-amisom-troops-advancing-towards-the-al-shabaab-stronghold-of-kismayo-deliberately-shoot-dead-seven-somali-civilians-according-to.md)
 Six civilians are shot dead by a Kenyan soldier advancing towards the al-Shabab stronghold of Kismayo, the Kenyan army confirms.
 
-##### Syria
+##### 2011 Syrian uprising
 ### [At least 24 people are killed in violence across Syria. ](/news/2012/09/24/at-least-24-people-are-killed-in-violence-across-syria.md)
 Some 24 people died in government shelling attacks in Syria on Monday hours before peace envoy Lakhdar Brahimi was to brief the UN Security Council on his talks with President Bashar al-Assad and the
 

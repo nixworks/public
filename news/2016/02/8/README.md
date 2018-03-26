@@ -45,7 +45,7 @@ _Context: War in Afghanistan (2015-present)_
 
 ##### Saudi Arabian-led intervention in Yemen
 ### [A Scud missile fired from Yemen is intercepted over Saudi Arabia. The missile's target is believed to have been the King Khalid Air Base, near the city of Khamis Mushait. ](/news/2016/02/8/a-scud-missile-fired-from-yemen-is-intercepted-over-saudi-arabia-the-missile-s-target-is-believed-to-have-been-the-king-khalid-air-base-ne.md)
-_Context: Khamis Mushait, King Khalid Air Base, Saudi, Saudi Arabian-led intervention in Yemen, Scud, Yemen_
+_Context: Khamis Mushait, King Khalid Air Base, Saudi Arabia, Saudi Arabian-led intervention in Yemen, Scud, Yemen_
 
 ##### Syrian Civil War
 ### [United Nations investigators accuse the Government of Syria of "extermination" in its jails and detention centres. ](/news/2016/02/8/united-nations-investigators-accuse-the-government-of-syria-of-extermination-in-its-jails-and-detention-centres.md)

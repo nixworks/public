@@ -21,7 +21,7 @@ _Context: Sri Lanka, Sri Lankan Civil War, aerial shells, hospital, ordnance, wa
 
 ##### United Nations
 ### [ The United Nations reports that Somalia is experiencing its worst drought since the 1990s. ](/news/2009/05/13/the-united-nations-reports-that-somalia-is-experiencing-its-worst-drought-since-the-1990s.md)
-_Context: 1990s, Somali, United Nations, drought_
+_Context: 1990s, Somalia, United Nations, drought_
 
 ##### European Commission
 ### [ The European Commission fines Intel Corporation EUR1.06 billion for anti-competitive practices. ](/news/2009/05/13/the-european-commission-fines-intel-corporation-a-1-06-billion-for-anti-competitive-practices.md)

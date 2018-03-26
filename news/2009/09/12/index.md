@@ -5,7 +5,7 @@ Formats: [HTML](2009/09/12/index.html)  [JSON](2009/09/12/index.json)  [XML](200
 
 ##### Robert Mugabe
 ### [ President Robert Mugabe says Zimbabwe's first high-level talks with top EU officials in seven years went well. ](/news/2009/09/12/president-robert-mugabe-says-zimbabwe-s-first-high-level-talks-with-top-eu-officials-in-seven-years-went-well.md)
-_Context: European Union, Robert Mugabe, Zimbabwe_
+_Context: EU, Robert Mugabe, Zimbabwe_
 
 ##### Venezuela
 ### [ Venezuelan President Hugo Chvez says a consignment of Russian-made missiles with a 300km range are due to arrive in his country. ](/news/2009/09/12/venezuelan-president-hugo-chavez-says-a-consignment-of-russian-made-missiles-with-a-300km-range-are-due-to-arrive-in-his-country.md)

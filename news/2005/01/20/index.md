@@ -37,7 +37,7 @@ _Context: Irish, Northern Ireland, changes, metric, road sign, speed limit_
 
 ##### Hajj
 ### [ Pilgrims on Hajj celebrate Eid ul-Adha in Saudi Arabia, and prepare to stone the pillars that represent satan, and eat meat of a newly killed animal, while giving meat to those less fortunate as "qurbani". Hajj Celebrations will also be held around the world, but some will wait until Friday. ](/news/2005/01/20/pilgrims-on-hajj-celebrate-eid-ul-adha-in-saudi-arabia-and-prepare-to-stone-the-pillars-that-represent-satan-and-eat-meat-of-a-newly-kill.md)
-_Context: Eid ul-Adha, Hajj, Saudi, pillars, satan_
+_Context: Eid ul-Adha, Hajj, Saudi Arabia, pillars, satan_
 
 ##### George W. Bush
 ### [ U.S. President George W. Bush is sworn in for his second term, with a pledge to seek ](/news/2005/01/20/u-s-president-george-w-bush-is-sworn-in-for-his-second-term-with-a-pledge-to-seek.md)

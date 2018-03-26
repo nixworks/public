@@ -43,9 +43,9 @@ _Context: Google, Google Buzz, social network_
 ### [Credit rating agency Standard & Poor's cuts Spain's credit rating to AA- with a negative outlook, as the European debt crisis deepens. ](/news/2011/10/14/credit-rating-agency-standard-poor-s-cuts-spain-s-credit-rating-to-aa-with-a-negative-outlook-as-the-european-debt-crisis-deepens.md)
 Spain’s credit rating was cut for the third time in three years by Standard &amp; Poor’s as slowing growth and rising defaults threaten banks and undermine efforts to contain Europe’s sovereign-debt crisis.
 
-##### Qantas
+##### Qantas Airways
 ### [Thousands of Qantas passengers in Australia face further disruption and cancellation of flights as the airline's maintenance engineers go on strike. ](/news/2011/10/14/thousands-of-qantas-passengers-in-australia-face-further-disruption-and-cancellation-of-flights-as-the-airline-s-maintenance-engineers-go-on.md)
-_Context: Qantas, industrial action_
+_Context: Qantas Airways, industrial action_
 
 ##### Apple Inc.
 ### [Apple Inc. releases its latest smartphone model, the iPhone 4S. ](/news/2011/10/14/apple-inc-releases-its-latest-smartphone-model-the-iphone-4s.md)
@@ -53,7 +53,7 @@ _Context: Apple Inc., iPhone 4S, smartphone_
 
 ##### Drones launch
 ### [A United States drone attack kills a further four militants in Waziristan near Pakistan's border with Afghanistan; it is the third such attack in 48 hours. ](/news/2011/10/14/a-united-states-drone-attack-kills-a-further-four-militants-in-waziristan-near-pakistan-s-border-with-afghanistan-it-is-the-third-such-atta.md)
-_Context: Afghan, Pakistan, Waziristan, drones launch_
+_Context: Afghanistan, Pakistan, Waziristan, drones launch_
 
 ##### Barack Obama
 ### [U.S. President Barack Obama authorizes the deployment of up to 100 American soldiers to Uganda, South Sudan, the Central African Republic, and the Democratic Republic of the Congo to assist in operations against the Lord's Resistance Army insurgency. ](/news/2011/10/14/u-s-president-barack-obama-authorizes-the-deployment-of-up-to-100-american-soldiers-to-uganda-south-sudan-the-central-african-republic-a.md)

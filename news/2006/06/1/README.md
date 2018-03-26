@@ -29,7 +29,7 @@ _Context: 2005 levee failures, Hurricane Katrina, New Orleans, Louisiana, United
 
 ##### China
 ### [ China, France, Germany, Russia, the United Kingdom and the United States agree on a package of incentives and sanctions for Iran. ](/news/2006/06/1/china-france-germany-russia-the-united-kingdom-and-the-united-states-agree-on-a-package-of-incentives-and-sanctions-for-iran.md)
-_Context: China, France, German, Iran, Russia, United Kingdom, United States_
+_Context: China, French, Germany, Iran, Russia, United Kingdom, United States_
 
 ##### 16th World Economic Forum on Africa
 ### [ The 16th World Economic Forum on Africa is convened in Cape Town, South Africa.](/news/2006/06/1/the-16th-world-economic-forum-on-africa-is-convened-in-cape-town-south-africa.md)

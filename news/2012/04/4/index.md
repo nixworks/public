@@ -15,9 +15,9 @@ _Context: Juan Carlos Figarella, Venezuela_
 ### [Former New Orleans Police Department officers are sentenced to decades in jail for shooting civilians after Hurricane Katrina, and a subsequent coverup. ](/news/2012/04/4/former-new-orleans-police-department-officers-are-sentenced-to-decades-in-jail-for-shooting-civilians-after-hurricane-katrina-and-a-subsequ.md)
 _Context: Hurricane Katrina, New Orleans Police Department_
 
-##### France
+##### French
 ### [France arrests ten suspected militant Islamists following 13 people arrested last week. ](/news/2012/04/4/france-arrests-ten-suspected-militant-islamists-following-13-people-arrested-last-week.md)
-_Context: France, Islamist_
+_Context: French, Islamist_
 
 ##### ASEAN Summit
 ### [The 20th ASEAN Summit meeting in Phnom Penh, Cambodia, calls for sanctions to be lifted against Myanmar or Burma following recent by-elections. ](/news/2012/04/4/the-20th-asean-summit-meeting-in-phnom-penh-cambodia-calls-for-sanctions-to-be-lifted-against-myanmar-or-burma-following-recent-by-electio.md)
@@ -35,9 +35,9 @@ Thousands of homes and businesses in England are without electricity after gales
 ### [German Nobel laureate Gunter Grass's poem, that accuses Israel of plotting to "wipe out" Iran, generates controversy. ](/news/2012/04/4/german-nobel-laureate-ga1-4nter-grass-s-poem-that-accuses-israel-of-plotting-to-wipe-out-iran-generates-controversy.md)
 _Context: German, Gunter Grass, Iran, Israel, Nobel laureate, poem_
 
-##### Somali
+##### Somalia
 ### [A suicide bomber detonates an explosion in Somalia's national theatre in Mogadishu while a ceremony is taking place, killing at least ten people, including the presidents of the Somali Olympic Committee and the Somali Football Federation. ](/news/2012/04/4/a-suicide-bomber-detonates-an-explosion-in-somalia-s-national-theatre-in-mogadishu-while-a-ceremony-is-taking-place-killing-at-least-ten-pe.md)
-_Context: Mogadishu, Somali, Somali Football Federation, Somali Olympic Committee_
+_Context: Mogadishu, Somali Football Federation, Somali Olympic Committee, Somalia_
 
 ##### Suicide bomber
 ### [A suicide bomber kills at least 12 people and injures many more in Afghanistan's Faryab province. ](/news/2012/04/4/a-suicide-bomber-kills-at-least-12-people-and-injures-many-more-in-afghanistan-s-faryab-province.md)

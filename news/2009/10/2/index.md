@@ -49,7 +49,7 @@ At least 18 people have been killed and 40 injured after rainstorms in Sicily wa
 
 ##### Croatia
 ### [ Croatia resumes membership talks with the European Union after Slovenia lifts its 10-month embargo. ](/news/2009/10/2/croatia-resumes-membership-talks-with-the-european-union-after-slovenia-lifts-its-10-month-embargo.md)
-_Context: Croatia, European Union, Slovenia, formal entry of Croatia_
+_Context: Croatia, EU, Slovenia, formal entry of Croatia_
 
 ##### Irish
 ### [ Voters in Ireland go to the polls for a second referendum on the Treaty of Lisbon. ](/news/2009/10/2/voters-in-ireland-go-to-the-polls-for-a-second-referendum-on-the-treaty-of-lisbon.md)

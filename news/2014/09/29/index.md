@@ -5,7 +5,7 @@ Formats: [HTML](2014/09/29/index.html)  [JSON](2014/09/29/index.json)  [XML](201
 
 ##### Ashraf Ghani
 ### [Ashraf Ghani is sworn in as new president of Afghanistan. ](/news/2014/09/29/ashraf-ghani-is-sworn-in-as-new-president-of-afghanistan.md)
-_Context: Afghan, Ashraf Ghani_
+_Context: Afghanistan, Ashraf Ghani_
 
 ##### Argentina
 ### [Argentina's central bank announces that it will pay the holders of its restructured debt Tuesday. Implicitly this indicates that it is ready to defy a U.S. federal court which has blocked such payments until the holders of hold-out bonds are included. ](/news/2014/09/29/argentina-s-central-bank-announces-that-it-will-pay-the-holders-of-its-restructured-debt-tuesday-implicitly-this-indicates-that-it-is-ready.md)

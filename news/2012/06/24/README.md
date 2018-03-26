@@ -33,7 +33,7 @@ Turkish media reports that plane wreckage was found in Syrian waters, as NATO sc
 
 ##### Antonis Samaras
 ### [Antonis Samaras, the Prime Minister of Greece, is to miss a European Union summit as he recovers from an eye operation. ](/news/2012/06/24/antonis-samaras-the-prime-minister-of-greece-is-to-miss-a-european-union-summit-as-he-recovers-from-an-eye-operation.md)
-_Context: Antonis Samaras, European Union, Greek Prime Minister_
+_Context: Antonis Samaras, EU, Greek Prime Minister_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI chooses Fox News reporter and Opus Dei member Greg Burke to take a strategic communication role in the Vatican's most important government department, the secretariat of state. ](/news/2012/06/24/pope-benedict-xvi-chooses-fox-news-reporter-and-opus-dei-member-greg-burke-to-take-a-strategic-communication-role-in-the-vatican-s-most-impo.md)

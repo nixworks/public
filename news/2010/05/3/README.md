@@ -13,7 +13,7 @@ _Context: Rwenzori mountain range, Uganda, ice cap_
 
 ##### European Commission
 ### [The European Commission proposes rules for imports of fishery products from Greenland into the EU. ](/news/2010/05/3/the-european-commission-proposes-rules-for-imports-of-fishery-products-from-greenland-into-the-eu.md)
-_Context: European Commission, European Union, Greenland_
+_Context: EU, European Commission, Greenland_
 
 ##### North Korea
 ### [North Korean leader Kim Jong-il arrives in China on a rare foreign visit. ](/news/2010/05/3/north-korean-leader-kim-jong-il-arrives-in-china-on-a-rare-foreign-visit.md)

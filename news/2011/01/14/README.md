@@ -73,7 +73,7 @@ Foreign diplomats complain to the US government about the decision by several US
 
 ##### Labour Party
 ### [Veteran Irish Labour Party TD Michael D. Higgins demands that the British government explain why one of Britain's undercover policemen was operating on Republic of Ireland territory on May Day 2004, as the European Union expanded to the east. Higgins compares it to illegal activities carried out by British state agents in the same country during the 1970s. ](/news/2011/01/14/veteran-irish-labour-party-td-michael-d-higgins-demands-that-the-british-government-explain-why-one-of-britain-s-undercover-policemen-was-o.md)
-_Context: European Union, Irish, Labour Party, May Day, Michael D. Higgins, TD_
+_Context: EU, Irish, Labour Party, May Day, Michael D. Higgins, TD_
 
 ##### Israel
 ### [Israel's Press Office apologises for what "The Jerusalem Post" dubbed "Bra-Gate" - the security screening of several international journalists forced to remove their underwear and denial of entry to Al Jazeera producer Najwan Simri Diab after she refused to remove her bra. Najwan Simri Diab says she did not wish for an apology, only to be assured that it won't happen again. ](/news/2011/01/14/israel-s-press-office-apologises-for-what-the-jerusalem-post-dubbed-bra-gate-the-security-screening-of-several-international-journalis.md)
@@ -125,7 +125,7 @@ Israel has widened access to a revered Jewish site in the heart of the Jerusalem
 
 ##### Taliban
 ### [The Taliban abandons its opposition to female education in Afghanistan due to a "cultural change". ](/news/2011/01/14/the-taliban-abandons-its-opposition-to-female-education-in-afghanistan-due-to-a-cultural-change.md)
-_Context: Afghan, Taliban_
+_Context: Afghanistan, Taliban_
 
 ##### 2010-2011 Ivorian crisis
 ### [The death toll due to the political crisis in the Ivory Coast reaches 247 since the November 28th election.](/news/2011/01/14/the-death-toll-due-to-the-political-crisis-in-the-ivory-coast-reaches-247-since-the-november-28th-election.md)

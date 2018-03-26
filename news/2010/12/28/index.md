@@ -73,7 +73,7 @@ A radical Islamist sect said on Tuesday it was behind bombings in central Nigeri
 
 ##### Somali pirates
 ### [Somali pirates release a German ship with 22 crew, eight months after it was seized near Oman. ](/news/2010/12/28/somali-pirates-release-a-german-ship-with-22-crew-eight-months-after-it-was-seized-near-oman.md)
-_Context: German, Oman, Somali pirates_
+_Context: Germany, Oman, Somali pirates_
 
 ##### North Waziristan
 ### [A series of suspected U.S. missile strikes causes at least 15 deaths in North Waziristan, Pakistan. ](/news/2010/12/28/a-series-of-suspected-u-s-missile-strikes-causes-at-least-15-deaths-in-north-waziristan-pakistan.md)

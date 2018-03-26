@@ -33,7 +33,7 @@ _Context: Italy, Rome, Italy_
 
 ##### U.S. President
 ### [ President George W. Bush approves 8,200 more United States troops for Iraq and Afghanistan. ](/news/2007/03/10/president-george-w-bush-approves-8-200-more-united-states-troops-for-iraq-and-afghanistan.md)
-_Context: Afghan, George W. Bush, Iraq, U.S. President, United States_
+_Context: Afghanistan, George W. Bush, Iraq, U.S. President, United States_
 
 ##### Flood
 ### [ Twenty people die and 9 are missing after a flood in a coal mine in Fushun, a city in the province of Shenyang in China. ](/news/2007/03/10/twenty-people-die-and-9-are-missing-after-a-flood-in-a-coal-mine-in-fushun-a-city-in-the-province-of-shenyang-in-china.md)

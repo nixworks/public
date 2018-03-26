@@ -73,23 +73,23 @@ Bharat bandh on Monday partially disrupted economic activities with commodity ma
 
 ##### Police
 ### [Afghan Police and international forces kill 64 people in a three-day drug bust operation in Helmand province, Afghanistan, and destroy 16,641 kilograms (36,687 pounds) of narcotics. ](/news/2010/07/5/afghan-police-and-international-forces-kill-64-people-in-a-three-day-drug-bust-operation-in-helmand-province-afghanistan-and-destroy-16-64.md)
-_Context: Afghan, Helmand, International Security Assistance Force, narcotic, police_
+_Context: Afghanistan, Helmand, International Security Assistance Force, narcotic, police_
 
 ##### Iran
 ### [Iran accuses Germany, United Arab Emirates and United Kingdom of refusing to provide fuel to its passenger planes. ](/news/2010/07/5/iran-accuses-germany-united-arab-emirates-and-united-kingdom-of-refusing-to-provide-fuel-to-its-passenger-planes.md)
 Iran accuses the UK, Germany and the UAE of refusing to refuel its passenger jets, days after tough new US sanctions.
 
-##### European Union
+##### EU
 ### [The European Union withdraws a trade concessions deal with Sri Lanka after the former accused the latter of not improving its human rights record. ](/news/2010/07/5/the-european-union-withdraws-a-trade-concessions-deal-with-sri-lanka-after-the-former-accused-the-latter-of-not-improving-its-human-rights-r.md)
-_Context: European Union, Sri Lanka, human rights record_
+_Context: EU, Sri Lanka, human rights record_
 
 ##### Hijab
 ### [Anti-government demonstrators, including women dressed in full hijabs brandishing AK-47 automatic rifles, march in Somalia's capital Mogadishu, protesting killings by the African Union Mission in Somalia. ](/news/2010/07/5/anti-government-demonstrators-including-women-dressed-in-full-hijabs-brandishing-ak-47-automatic-rifles-march-in-somalia-s-capital-mogadis.md)
-_Context: AK-47s, AMISOM, African Union, Mogadishu, Somali, high-powered rifles, hijab_
+_Context: AK-47s, AMISOM, African Union, Mogadishu, Somalia, high-powered rifles, hijab_
 
 ##### Imam
 ### [Imam Ahmad Afzali leaves the United States for Saudi Arabia, under plea deal in the case involving Najibullah Zazi's alleged plan to bomb the New York City subway. ](/news/2010/07/5/imam-ahmad-afzali-leaves-the-united-states-for-saudi-arabia-under-plea-deal-in-the-case-involving-najibullah-zazi-s-alleged-plan-to-bomb-th.md)
-_Context: Ahmad Afzali, Imam, Najibullah Zazi, New York City subway, Saudi, United States_
+_Context: Ahmad Afzali, Imam, Najibullah Zazi, New York City subway, Saudi Arabia, United States_
 
 ##### Australia
 ### [Australia celebrates indigenous culture with NAIDOC Week with the 2010 theme 'Unsung Heroes - Closing the Gap by Leading Their Way'.](/news/2010/07/5/australia-celebrates-indigenous-culture-with-naidoc-week-with-the-2010-theme-unsung-heroes-closing-the-gap-by-leading-their-way.md)

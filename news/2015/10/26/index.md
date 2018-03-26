@@ -23,9 +23,9 @@ _Context: Arab citizen, Benjamin Netanyahu, East Jerusalem, Israel, Israel's Cha
 ### [A member of the Saudi Royal Family and four other people are detained in Lebanon for attempting to smuggle about two tons of Captagon pills and some cocaine on a private jet. This is the largest drug seizure in the history of Beirut's Rafik Hariri International Airport, according to Lebanon's state-run National News Agency. ](/news/2015/10/26/a-member-of-the-saudi-royal-family-and-four-other-people-are-detained-in-lebanon-for-attempting-to-smuggle-about-two-tons-of-captagon-pills.md)
 Prince among five Saudis detained over seizure of two tonnes of amphetamines and cocaine at Lebanese capital&#39;s airport.
 
-##### Saudi
+##### Saudi Arabia
 ### [Saudi Arabia's Supreme Court upholds the death sentence of Shiite cleric Sheikh Nimr al-Nimr, who was found guilty of sedition and other charges following his involvement in the 2011 Arab Spring Movement. ](/news/2015/10/26/saudi-arabia-s-supreme-court-upholds-the-death-sentence-of-shiite-cleric-sheikh-nimr-al-nimr-who-was-found-guilty-of-sedition-and-other-cha.md)
-_Context: Arab Spring, Saudi, Sheikh Nimr, Shiite cleric, Supreme Court, sedition_
+_Context: Arab Spring, Saudi Arabia, Sheikh Nimr, Shiite cleric, Supreme Court, sedition_
 
 ##### Chhota Rajan
 ### [Indian fugitive gangster Chhota Rajan is arrested at Ngurah Rai International Airport in Bali. ](/news/2015/10/26/indian-fugitive-gangster-chhota-rajan-is-arrested-at-ngurah-rai-international-airport-in-bali.md)

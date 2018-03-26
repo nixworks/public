@@ -27,9 +27,9 @@ Barnes & Noble Inc said on Tuesday Chief Executive Ronald Boire would leave, aft
 ### [Westfield World Trade Center opens on schedule, part of the World Trade Center Ground Zero redevelopment in New York City. ](/news/2016/08/16/westfield-world-trade-center-opens-on-schedule-part-of-the-world-trade-center-ground-zero-redevelopment-in-new-york-city.md)
 More than 100 stores will eventually occupy 365,000 square feet of retail space at the Oculus, the new lower Manhattan transportation hub.
 
-##### Houthis
+##### Houthi
 ### [Houthi shelling kills seven in Saudi Arabia; nine Yemenis from one family die from an airstrike by the Saudi-led alliance. ](/news/2016/08/16/houthi-shelling-kills-seven-in-saudi-arabia-nine-yemenis-from-one-family-die-from-an-airstrike-by-the-saudi-led-alliance.md)
-_Context: Houthis, Saudi, Yemen, airstrike_
+_Context: Houthi, Saudi Arabia, Yemen, airstrike_
 
 ##### Russian Air Force
 ### [The Russian Air Force uses an Iranian airbase near Hamadan to launch airstrikes in Syria. ](/news/2016/08/16/the-russian-air-force-uses-an-iranian-airbase-near-hamadan-to-launch-airstrikes-in-syria.md)

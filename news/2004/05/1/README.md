@@ -21,11 +21,11 @@ _Context: Andy Roddick, Marat Safin, Mariano Zabaleta, Max Mirnyi, Parco dei Pri
 
 ##### Yanbu
 ### [ In Yanbu, Saudi Arabia, gunmen kill five Westerners and a Saudi security guard in a shooting spree and car chase. ](/news/2004/05/1/in-yanbu-saudi-arabia-gunmen-kill-five-westerners-and-a-saudi-security-guard-in-a-shooting-spree-and-car-chase.md)
-_Context: Saudi, Westerners, Yanbu_
+_Context: Saudi Arabia, Westerners, Yanbu_
 
 ##### European Union candidacy
 ### [ EU enlargement: Ten new member states (Cyprus, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia and Slovenia) join the European Union, increasing the EU's population by 75 million people to a total of roughly 455 million. ](/news/2004/05/1/eu-enlargement-ten-new-member-states-cyprus-the-czech-republic-estonia-hungary-latvia-lithuania-malta-poland-slovakia-and-sloveni.md)
-_Context: Cyprus, Czech Republic, Estonia, European Union, European Union candidacy, Latvia, Lithuania, Malta, Slovakia, Slovenia_
+_Context: Cyprus, Czech Republic, EU, Estonia, European Union candidacy, Latvia, Lithuania, Malta, Slovakia, Slovenia_
 
 ## [Previous Day...](/news/2004/04/30/index.md)
 

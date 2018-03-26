@@ -27,13 +27,13 @@ _Context: Aung San Suu Kyi, Burma, National League for Democracy, house arrest_
 ### [A 3.4 M w earthquake hits Guizhou Province, China, and kills seven people. ](/news/2010/01/18/a-3-4-m-w-earthquake-hits-guizhou-province-china-and-kills-seven-people.md)
 _Context: China, Guizhou Province, earthquake, magnitude_
 
-##### Afghan
+##### Afghanistan
 ### [Two dozen Afghan Taliban insurgents launch coordinated attacks against the presidential palace and other buildings in central Kabul on the day a new government is to be sworn in. ](/news/2010/01/18/two-dozen-afghan-taliban-insurgents-launch-coordinated-attacks-against-the-presidential-palace-and-other-buildings-in-central-kabul-on-the-d.md)
-_Context: Afghan, Kabul, Taliban_
+_Context: Afghanistan, Kabul, Taliban_
 
-##### Somali
+##### Somalia
 ### [Somalia sends a letter of protest to Kenya after the arrest of MPs and other officials, including Muslim leader Al-Amin Kimathi, over recent riots. ](/news/2010/01/18/somalia-sends-a-letter-of-protest-to-kenya-after-the-arrest-of-mps-and-other-officials-including-muslim-leader-al-amin-kimathi-over-recent.md)
-_Context: Al-Amin Kimathi, Kenya, MP, Muslim, Somali_
+_Context: Al-Amin Kimathi, Kenya, MP, Muslim, Somalia_
 
 ##### Mehmet Ali Agca
 ### [Mehmet Ali Agca, the man who shot Pope John Paul II in May 1981, is released from a Turkish prison after almost 30 years behind bars. ](/news/2010/01/18/mehmet-ali-aaca-the-man-who-shot-pope-john-paul-ii-in-may-1981-is-released-from-a-turkish-prison-after-almost-30-years-behind-bars.md)

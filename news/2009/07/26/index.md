@@ -7,7 +7,7 @@ Formats: [HTML](2009/07/26/index.html)  [JSON](2009/07/26/index.json)  [XML](200
 ### [ At least five people are killed and more are wounded by a suicide attack at a concert hall in the Chechen capital Grozny. ](/news/2009/07/26/at-least-five-people-are-killed-and-more-are-wounded-by-a-suicide-attack-at-a-concert-hall-in-the-chechen-capital-grozny.md)
 _Context: Chechnya, Grozny, suicide attack_
 
-##### France
+##### French
 ### [ French President Nicolas Sarkozy takes ill whilst exercising. ](/news/2009/07/26/french-president-nicolas-sarkozy-takes-ill-whilst-exercising.md)
 French President Nicolas Sarkozy was rushed to hospital after falling ill while jogging and will stay there overnight for tests.
 

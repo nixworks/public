@@ -63,7 +63,7 @@ The three-week standoff involving a band of Filipino rebels who stormed a northe
 ### [Gunmen shoot and kill two people returning from a funeral for victims of the bombing. ](/news/2013/03/4/gunmen-shoot-and-kill-two-people-returning-from-a-funeral-for-victims-of-the-bombing.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-##### France
+##### French
 ### [French officials announce that a soldier was killed in action during contact with Islamic militants over the weekend. It is France's third casualty since operations began in Operation Serval. ](/news/2013/03/4/french-officials-announce-that-a-soldier-was-killed-in-action-during-contact-with-islamic-militants-over-the-weekend-it-is-france-s-third-c.md)
 A French soldier is killed in heavy fighting in northern Mali in the same region where Chad said it killed Islamist leader Mokhtar Belmokhtar.
 

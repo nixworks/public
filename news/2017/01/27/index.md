@@ -45,7 +45,7 @@ The British actor of stage and screen also received an Academy Award nom for &#0
 
 ##### War in Somalia (2009-present)
 ### [Al-Shabaab militants attack a remote AMISOM base in southern Somalia, claiming to have killed dozens of Kenyan troops. ](/news/2017/01/27/al-shabaab-militants-attack-a-remote-amisom-base-in-southern-somalia-claiming-to-have-killed-dozens-of-kenyan-troops.md)
-_Context: AMISOM, Al-Shabab, Kenya, Somali, War in Somalia (2009-present)_
+_Context: AMISOM, Al-Shabab, Kenya, Somalia, War in Somalia (2009-present)_
 
 ## [Previous Day...](/news/2017/01/26/index.md)
 

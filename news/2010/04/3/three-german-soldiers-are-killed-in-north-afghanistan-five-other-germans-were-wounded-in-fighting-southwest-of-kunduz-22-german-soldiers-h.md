@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/3/three-german-soldiers-are-killed-in-north-afghan
 
 ### [2010-04-3](/news/2010/04/3/index.md)
 
-##### German
+##### Germany
 # Three German soldiers are killed in north Afghanistan, five other Germans were wounded in fighting southwest of Kunduz. 22 German soldiers have been killed by fighting or attacks in Afghanistan since 2001 and another 138 wounded. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
@@ -19,8 +19,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Related:
 
-1. [ Three German soldiers are killed with four civilians in a suicide bombing in Kunduz in northern Afghanistan. ](/news/2007/05/19/three-german-soldiers-are-killed-with-four-civilians-in-a-suicide-bombing-in-kunduz-in-northern-afghanistan.md) _Context: Afghan, German, Kunduz_
-2. [A suicide car bomber kills one person and injures fourteen others near the Australian embassy in Kabul, Afghanistan. ](/news/2018/03/2/a-suicide-car-bomber-kills-one-person-and-injures-fourteen-others-near-the-australian-embassy-in-kabul-afghanistan.md) _Context: Afghan, War in Afghanistan (2001-present)_
-3. [A series of militant attacks in Afghanistan kill more than 20 people. ](/news/2018/02/24/a-series-of-militant-attacks-in-afghanistan-kill-more-than-20-people.md) _Context: Afghan, War in Afghanistan (2001-present)_
-4. [A BBC study finds that, October 2017 lc=y, the Taliban presently maintains control of or has some territorial presence in 70% of Afghanistan, with full control of 14 districts (totaling 4% of the country) and demonstrating an open physical militant presence in 263 others (encompassing the remaining 66% of the group's occupied territory). ](/news/2018/01/31/a-bbc-study-finds-that-october-2017-lc-y-the-taliban-presently-maintains-control-of-or-has-some-territorial-presence-in-70-of-afghanistan.md) _Context: Afghan, War in Afghanistan (2001-present)_
-5. [A suicide bombing at a Shi'ite cultural center and news agency in Kabul, Afghanistan, kills 41 people and injures 84 others. ISIL-affiliated Amaq News Agency says this group is responsible. ](/news/2017/12/28/a-suicide-bombing-at-a-shiaite-cultural-center-and-news-agency-in-kabul-afghanistan-kills-41-people-and-injures-84-others-isil-affiliat.md) _Context: Afghan, War in Afghanistan (2001-present)_
+1. [ Three German soldiers are killed with four civilians in a suicide bombing in Kunduz in northern Afghanistan. ](/news/2007/05/19/three-german-soldiers-are-killed-with-four-civilians-in-a-suicide-bombing-in-kunduz-in-northern-afghanistan.md) _Context: Afghanistan, Germany, Kunduz_
+2. [Two suicide bombers strike a Shi'ite mosque in Herat, Afghanistan. One is killed by security forces and the other detonates his device, killing one and wounding seven. ISIL claims responsibility. ](/news/2018/03/25/two-suicide-bombers-strike-a-shi-ite-mosque-in-herat-afghanistan-one-is-killed-by-security-forces-and-the-other-detonates-his-device-kill.md) _Context: Afghanistan, War in Afghanistan (2001-present)_
+3. [A suicide car bomber kills one person and injures fourteen others near the Australian embassy in Kabul, Afghanistan. ](/news/2018/03/2/a-suicide-car-bomber-kills-one-person-and-injures-fourteen-others-near-the-australian-embassy-in-kabul-afghanistan.md) _Context: Afghanistan, War in Afghanistan (2001-present)_
+4. [A series of militant attacks in Afghanistan kill more than 20 people. ](/news/2018/02/24/a-series-of-militant-attacks-in-afghanistan-kill-more-than-20-people.md) _Context: Afghanistan, War in Afghanistan (2001-present)_
+5. [A BBC study finds that, October 2017 lc=y, the Taliban presently maintains control of or has some territorial presence in 70% of Afghanistan, with full control of 14 districts (totaling 4% of the country) and demonstrating an open physical militant presence in 263 others (encompassing the remaining 66% of the group's occupied territory). ](/news/2018/01/31/a-bbc-study-finds-that-october-2017-lc-y-the-taliban-presently-maintains-control-of-or-has-some-territorial-presence-in-70-of-afghanistan.md) _Context: Afghanistan, War in Afghanistan (2001-present)_

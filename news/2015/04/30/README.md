@@ -45,7 +45,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Yemeni Civil War (2015)
 ### [Yemeni Civil War (2015): Dozens of Houthi fighters are killed in clashes with Saudi Arabian forces on the border while air strikes hit the southern city of Aden. ](/news/2015/04/30/yemeni-civil-war-2015-dozens-of-houthi-fighters-are-killed-in-clashes-with-saudi-arabian-forces-on-the-border-while-air-strikes-hit-the-s.md)
-_Context: Aden, Houthis, Yemeni Civil War (2015)_
+_Context: Aden, Houthi, Yemeni Civil War (2015)_
 
 ##### 2015 West African offensive
 ### [2015 West African offensive: The Nigerian Army rescues a further 160 women and children from a Boko Haram camp in the Sambisa Forest. ](/news/2015/04/30/2015-west-african-offensive-the-nigerian-army-rescues-a-further-160-women-and-children-from-a-boko-haram-camp-in-the-sambisa-forest.md)

@@ -27,7 +27,7 @@ Police are investigating a break-in at the home of the Irish minister for Justic
 ### [Swiss Judge Laurent Kasper-Ansermet resigns from the international war crimes tribunal in Cambodia. ](/news/2012/03/19/swiss-judge-laurent-kasper-ansermet-resigns-from-the-international-war-crimes-tribunal-in-cambodia.md)
 A second judge resigns from the UN-backed international war crimes trial in Cambodia, saying efforts to pursue the regime are being blocked.
 
-##### European Union
+##### EU
 ### [The European Union threatens trade sanctions against Iceland and the Faroe Isles over a disagreement about fishing rights. ](/news/2012/03/19/the-european-union-threatens-trade-sanctions-against-iceland-and-the-faroe-isles-over-a-disagreement-about-fishing-rights.md)
 The EU has threatened trade sanctions against Iceland and the Faroe Islands over what Minister Simon Coveney has called the &quot;illegal&quot; plunder of mackerel stocks in the North Atlantic.
 

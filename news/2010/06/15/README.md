@@ -21,7 +21,7 @@ Nine members of the Fine Gael frontbench have said they do not have confidence i
 
 ##### Islamist
 ### [Islamist gunmen in Somalia shoot two people dead and detain 10 others who were watching a televised FIFA World Cup match; a member of one group later said watching the World Cup is anti-Islamic. ](/news/2010/06/15/islamist-gunmen-in-somalia-shoot-two-people-dead-and-detain-10-others-who-were-watching-a-televised-fifa-world-cup-match-a-member-of-one-gr.md)
-_Context: 2010 FIFA World Cup, Islamist, Somali_
+_Context: 2010 FIFA World Cup, Islamist, Somalia_
 
 ##### North Korea
 ### [North Korea threatens a military response if the United Nations Security Council questions or condemns it for the ROKS Cheonan sinking. North Korean UN Permanent Representative Sin Son Ho demands that a North Korean investigation team be allowed to travel to the site of the sinking. ](/news/2010/06/15/north-korea-threatens-a-military-response-if-the-united-nations-security-council-questions-or-condemns-it-for-the-roks-cheonan-sinking-nort.md)
@@ -43,9 +43,9 @@ Court tries suspects of alleged plan to attack non-Muslims in bid to topple gove
 ### [Heavy rain triggers landslides that leave at least 24 people dead in Sichuan province's Kangding county. In one incident, part of a mountain fell on a construction site in Sichuan province, crushing workers who were sleeping in tents. ](/news/2010/06/15/heavy-rain-triggers-landslides-that-leave-at-least-24-people-dead-in-sichuan-province-s-kangding-county-in-one-incident-part-of-a-mountain.md)
 _Context: Kangding, Sichuan province, tent_
 
-##### Afghan
+##### Afghanistan
 ### [Militants kill 12 police officers in a string of attacks and six civilians die in bombings in Afghanistan, and a U.S. soldier is killed in a gun battle in eastern Afghanistan in the latest fighting in the war in Afghanistan. ](/news/2010/06/15/militants-kill-12-police-officers-in-a-string-of-attacks-and-six-civilians-die-in-bombings-in-afghanistan-and-a-u-s-soldier-is-killed-in-a.md)
-_Context: Afghan, War in Afghanistan (2001-present)_
+_Context: Afghanistan, War in Afghanistan (2001-present)_
 
 ##### Hamdania incident
 ### [A US marine convicted in the Hamdania incident, one of the worst war crimes from the Iraq War, and sentenced to eleven years in prison in 2006 is released from prison after a military appeals court in Washington decides he did not receive a fair trial. The Navy is appealing that court's decision.](/news/2010/06/15/a-us-marine-convicted-in-the-hamdania-incident-one-of-the-worst-war-crimes-from-the-iraq-war-and-sentenced-to-eleven-years-in-prison-in-20.md)

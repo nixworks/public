@@ -19,9 +19,9 @@ _Context: Fiji First Party, Parliament, Voreqe Bainimarama, democratic elections
 ### [Malaysia-based company Aegis Limited is criticized by the government of the Philippines for creating an advertisement that attacks the country. ](/news/2014/09/22/malaysia-based-company-aegis-limited-is-criticized-by-the-government-of-the-philippines-for-creating-an-advertisement-that-attacks-the-count.md)
 The BPO firm says the video was outsourced to another agency
 
-##### German
+##### Germany
 ### [German pharmaceutical company Merck KGaA agrees to buy American chemical company Sigma-Aldrich for US$17 billion. ](/news/2014/09/22/german-pharmaceutical-company-merck-kgaa-agrees-to-buy-american-chemical-company-sigma-aldrich-for-us-17-billion.md)
-_Context: German, Merck KGaA, Sigma-Aldrich, US$_
+_Context: Germany, Merck KGaA, Sigma-Aldrich, US$_
 
 ##### German
 ### [German conglomerate Siemens AG announces plans to acquire American oilfield equipment maker Dresser-Rand Group Inc for US$7.6 billion. ](/news/2014/09/22/german-conglomerate-siemens-ag-announces-plans-to-acquire-american-oilfield-equipment-maker-dresser-rand-group-inc-for-us-7-6-billion.md)

@@ -21,11 +21,11 @@ Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar an
 
 ##### Taoiseach
 ### [ Former Taoiseach of Ireland Garret FitzGerald is among twenty Irish nationals who are quarantined at a French chateau due to swine flu. ](/news/2009/08/9/former-taoiseach-of-ireland-garret-fitzgerald-is-among-twenty-irish-nationals-who-are-quarantined-at-a-french-chateau-due-to-swine-flu.md)
-_Context: France, Garret FitzGerald, Irish, Taoiseach, swine flu_
+_Context: French, Garret FitzGerald, Irish, Taoiseach, swine flu_
 
 ##### Kam Air
 ### [ A Kam Air plane bound for the Xinjiang Autonomous Region in northwestern China is diverted to Kandahar, Afghanistan after an earlier alleged bomb threat. ](/news/2009/08/9/a-kam-air-plane-bound-for-the-xinjiang-autonomous-region-in-northwestern-china-is-diverted-to-kandahar-afghanistan-after-an-earlier-allege.md)
-_Context: Afghan, China, Kam Air, Kandahar, Xinjiang Autonomous Region_
+_Context: Afghanistan, China, Kam Air, Kandahar, Xinjiang Autonomous Region_
 
 ##### India
 ### [ At least 43 people are feared dead after a massive mudslide sweeps away three hamlets in northern India. ](/news/2009/08/9/at-least-43-people-are-feared-dead-after-a-massive-mudslide-sweeps-away-three-hamlets-in-northern-india.md)

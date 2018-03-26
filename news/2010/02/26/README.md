@@ -53,7 +53,7 @@ Restrictions were lifted around the Israeli Embassy in Dublin following the disc
 
 ##### Taliban
 ### [At least 17 people killed as Taliban suicide bombers carry out a string of attacks in Kabul, Afghanistan ](/news/2010/02/26/at-least-17-people-killed-as-taliban-suicide-bombers-carry-out-a-string-of-attacks-in-kabul-afghanistan.md)
-_Context: Afghan, Kabul, Taliban, suicide bomber_
+_Context: Afghanistan, Kabul, Taliban, suicide bomber_
 
 ##### Syria
 ### [Syrian President Bashar Assad hosts Hezbollah head Hassan Nasrallah and Iranian leader Ahmadinajad in Damascus where they condemn the United States and Israel ](/news/2010/02/26/syrian-president-bashar-assad-hosts-hezbollah-head-hassan-nasrallah-and-iranian-leader-ahmadinajad-in-damascus-where-they-condemn-the-united.md)

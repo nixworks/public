@@ -29,7 +29,7 @@ Belarus on Tuesday told the ambassador of the European Union and that of Poland 
 
 ##### Serbia
 ### [European Union Foreign Ministers support Serbia's candidacy to join the European Union despite opposition from Romania. ](/news/2012/02/28/european-union-foreign-ministers-support-serbia-s-candidacy-to-join-the-european-union-despite-opposition-from-romania.md)
-_Context: European Union, Romania, Serbia_
+_Context: EU, Romania, Serbia_
 
 ##### Astrakhan apartment gas explosion
 ### [The death toll after the Astrakhan apartment gas explosion rises at 6 with another 11 people missing. ](/news/2012/02/28/the-death-toll-after-the-astrakhan-apartment-gas-explosion-rises-at-6-with-another-11-people-missing.md)

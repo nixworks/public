@@ -17,7 +17,7 @@ _Context: Mexican, Mexico, Saltillo, Coahuila, Zetas, more than 80 have been kil
 
 ##### United Kingdom
 ### [The United Kingdom reopens its embassy in Somalia 22 years after it closed as a result of the chaos after the fall of Mohamed Siad Barre's government and subsequent Somali Civil War. ](/news/2013/04/25/the-united-kingdom-reopens-its-embassy-in-somalia-22-years-after-it-closed-as-a-result-of-the-chaos-after-the-fall-of-mohamed-siad-barre-s-g.md)
-_Context: Mohamed Siad Barre, Somali, Somali Civil War, United Kingdom_
+_Context: Mohamed Siad Barre, Somali Civil War, Somalia, United Kingdom_
 
 ##### United States Secretary of Defence
 ### [The United States Secretary of Defence Chuck Hagel claims that US intelligence has concluded "with some degree of varying confidence" that the Government of Syria has used sarin gas during the past two years in the civil war. The Israeli and British governments made similar statements. ](/news/2013/04/25/the-united-states-secretary-of-defence-chuck-hagel-claims-that-us-intelligence-has-concluded-with-some-degree-of-varying-confidence-that-t.md)
@@ -33,7 +33,7 @@ _Context: French-born_
 
 ##### AK-47s
 ### [A gunman kills three people with a Kalashnikov rifle in a shooting attack in Istres, France. ](/news/2013/04/25/a-gunman-kills-three-people-with-a-kalashnikov-rifle-in-a-shooting-attack-in-istres-france.md)
-_Context: AK-47s, France, Istres_
+_Context: AK-47s, French, Istres_
 
 ##### Israeli Air Force
 ### [The Israeli Air Force shoots down a Hezbollah drone from Lebanon off the coast of Haifa. ](/news/2013/04/25/the-israeli-air-force-shoots-down-a-hezbollah-drone-from-lebanon-off-the-coast-of-haifa.md)

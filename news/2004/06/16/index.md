@@ -39,9 +39,9 @@ _Context: Iraq, Mahdi Army, Muqtada al-Sadr, Shia_
 ### [ The US's 9-11 Commission states that although meetings between al Qaeda representatives and Iraqi government officials had taken place, it has found "no credible evidence" of a "collaborative relationship" between Saddam Hussein's Iraq and al Qaeda in the 9-11 attacks or in any other strike against U.S. interests. It also finds that the original plan involved ten jets and that there was dispute within the terrorist network about its implementation until only shortly before September 11. ](/news/2004/06/16/the-us-s-9-11-commission-states-that-although-meetings-between-al-qaeda-representatives-and-iraqi-government-officials-had-taken-place-it.md)
 _Context: 9/11 Commission, Iraq, Saddam Hussein, September 11, 2001 attacks, al Qaeda_
 
-##### European Union
+##### EU
 ### [ EU leaders meet in Brussels to try to agree on the draft European constitution amid the showing of popular discontent with national governments in the recent European Parliament election. ](/news/2004/06/16/eu-leaders-meet-in-brussels-to-try-to-agree-on-the-draft-european-constitution-amid-the-showing-of-popular-discontent-with-national-governm.md)
-_Context: Brussels, European Council, European Parliament election, European Union, European constitution_
+_Context: Brussels, EU, European Council, European Parliament election, European constitution_
 
 ## [Previous Day...](/news/2004/06/15/index.md)
 

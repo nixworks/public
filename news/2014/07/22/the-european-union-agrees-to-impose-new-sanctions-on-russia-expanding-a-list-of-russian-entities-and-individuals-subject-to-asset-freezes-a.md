@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/07/22/the-european-union-agrees-to-impose-new-sanctio
 
 ### [2014-07-22](/news/2014/07/22/index.md)
 
-##### European Union
+##### EU
 # The European Union agrees to impose new sanctions on Russia, expanding a list of Russian entities and individuals subject to asset freezes and travel bans and threatens to target vast sectors of the Russian economy if Moscow does not act swiftly to rein in rebels believed to have shot down a Malaysia Airlines plane over eastern Ukraine. 
 
 Britain leads a bloc pressing for strong measures over the downing of a Malaysia Airlines plane.
@@ -15,8 +15,8 @@ Britain leads a bloc pressing for strong measures over the downing of a Malaysia
 
 ### Related:
 
-1. [ Lithuania blocked the beginning of talks on a strategic deal between the European Union and Russia because of ongoing disputes with Moscow ](/news/2008/04/29/lithuania-blocked-the-beginning-of-talks-on-a-strategic-deal-between-the-european-union-and-russia-because-of-ongoing-disputes-with-moscow.md) _Context: European Union, Moscow, Russia_
-2. [The European Union agrees with the United Kingdom's assessment of the incident, stating that "there is no plausible alternative explanation" to Russian involvement. ](/news/2018/03/23/the-european-union-agrees-with-the-united-kingdom-s-assessment-of-the-incident-stating-that-there-is-no-plausible-alternative-explanation.md) _Context: European Union, Russia_
-3. [Russia holds a briefing on the case for all foreign diplomats in Moscow, where it accuses the United Kingdom of withholding evidence. ](/news/2018/03/21/russia-holds-a-briefing-on-the-case-for-all-foreign-diplomats-in-moscow-where-it-accuses-the-united-kingdom-of-withholding-evidence.md) _Context: Moscow, Russia_
-4. [All 23 Russian diplomats expelled from the UK and their families depart on a flight to Moscow. ](/news/2018/03/20/all-23-russian-diplomats-expelled-from-the-uk-and-their-families-depart-on-a-flight-to-moscow.md) _Context: Moscow, Russia_
-5. [Emergency teams comb snowy fields outside Moscow Monday for debris from a crashed Russian airliner and the remains of the 71 people who died. Transport Minister Maksim Sokolov says that emergency teams have already found the plane's flight data recorder, which will help them determine the crash's cause, but notes that the search for the victims' remains will take at least a week. ](/news/2018/02/12/emergency-teams-comb-snowy-fields-outside-moscow-monday-for-debris-from-a-crashed-russian-airliner-and-the-remains-of-the-71-people-who-died.md) _Context: Moscow, Russia_
+1. [ Lithuania blocked the beginning of talks on a strategic deal between the European Union and Russia because of ongoing disputes with Moscow ](/news/2008/04/29/lithuania-blocked-the-beginning-of-talks-on-a-strategic-deal-between-the-european-union-and-russia-because-of-ongoing-disputes-with-moscow.md) _Context: EU, Moscow, Russia_
+2. [EU diplomatic chief Federica Mogherini holds crisis talks with Markus Ederer, the bloc's recalled ambassador to Russia. ](/news/2018/03/25/eu-diplomatic-chief-federica-mogherini-holds-crisis-talks-with-markus-ederer-the-bloc-s-recalled-ambassador-to-russia.md) _Context: EU, Russia_
+3. [The European Union agrees with the United Kingdom's assessment of the incident, stating that "there is no plausible alternative explanation" to Russian involvement. ](/news/2018/03/23/the-european-union-agrees-with-the-united-kingdom-s-assessment-of-the-incident-stating-that-there-is-no-plausible-alternative-explanation.md) _Context: EU, Russia_
+4. [Russia holds a briefing on the case for all foreign diplomats in Moscow, where it accuses the United Kingdom of withholding evidence. ](/news/2018/03/21/russia-holds-a-briefing-on-the-case-for-all-foreign-diplomats-in-moscow-where-it-accuses-the-united-kingdom-of-withholding-evidence.md) _Context: Moscow, Russia_
+5. [All 23 Russian diplomats expelled from the UK and their families depart on a flight to Moscow. ](/news/2018/03/20/all-23-russian-diplomats-expelled-from-the-uk-and-their-families-depart-on-a-flight-to-moscow.md) _Context: Moscow, Russia_

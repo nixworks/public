@@ -23,7 +23,7 @@ _Context: Mosul_
 ### [ Four Rio Tinto executives accused of espionage are detained by Chinese Authorities amid iron ore negotiations. ](/news/2009/07/8/four-rio-tinto-executives-accused-of-espionage-are-detained-by-chinese-authorities-amid-iron-ore-negotiations.md)
 _Context: Rio Tinto, espionage, iron ore_
 
-##### German
+##### Germany
 ### [ Germany defends its response to the stabbing of pregnant Egyptian Marwa El-Sherbini, saying Chancellor Angela Merkel will meet the Egyptian President to discuss the affair. ](/news/2009/07/8/germany-defends-its-response-to-the-stabbing-of-pregnant-egyptian-marwa-el-sherbini-saying-chancellor-angela-merkel-will-meet-the-egyptian.md)
 Hundreds of mourners today protested at the funeral of an Egyptian woman who was murdered inside a German court in a crime that&hellip;
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/11/25/germany-will-deploy-up-to-650-troops-to-mali-as
 
 ### [2015-11-25](/news/2015/11/25/index.md)
 
-##### German
+##### Germany
 # Germany will deploy up to 650 troops to Mali as part of the U.N. peacekeeping mission in Mali (MINUSMA). 
 
 Germany will send up to 650 soldiers to Mali, Defence Minister Ursula von der Leyen said Wednesday, to provide some relief to France in its global fight against ISIS extremists
@@ -18,6 +18,6 @@ Germany will send up to 650 soldiers to Mali, Defence Minister Ursula von der Le
 
 1. [An attack by suspected Islamist militants on a MINUSMA base in the town of Kidal, northern Mali, kills at least five United Nations peacekeepers and injures 30 others. ](/news/2016/02/12/an-attack-by-suspected-islamist-militants-on-a-minusma-base-in-the-town-of-kidal-northern-mali-kills-at-least-five-united-nations-peacekee.md) _Context: MINUSMA, Mali_
 2. [A suicide bomber kills two Chadian troops and injures six other MINUSMA peacekeepers in an attack on a checkpoint at the entry to the northern town of Tessalit, Mali. ](/news/2013/10/23/a-suicide-bomber-kills-two-chadian-troops-and-injures-six-other-minusma-peacekeepers-in-an-attack-on-a-checkpoint-at-the-entry-to-the-northe.md) _Context: MINUSMA, Mali_
-3. [Malian Prime Minister Soumeylou Boubeye Maiga visits seperatist rebel stronghold Kidal. ](/news/2018/03/23/malian-prime-minister-soumeylou-boubeye-maiga-visits-seperatist-rebel-stronghold-kidal.md) _Context: Mali_
-4. [Two French soldiers are killed after their armoured vehicle hits a roadside bomb in Mali. ](/news/2018/02/21/two-french-soldiers-are-killed-after-their-armoured-vehicle-hits-a-roadside-bomb-in-mali.md) _Context: Mali_
-5. [Winter storm Eleanor moves from the British Isles to continental Europe with one dead in France as well as injuries and material losses in Germany, Netherlands and Switzerland. ](/news/2018/01/3/winter-storm-eleanor-moves-from-the-british-isles-to-continental-europe-with-one-dead-in-france-as-well-as-injuries-and-material-losses-in-g.md) _Context: German_
+3. [Catalonia's ex-President Carles Puigdemont is detained in Germany. ](/news/2018/03/25/catalonia-s-ex-president-carles-puigdemont-is-detained-in-germany.md) _Context: Germany_
+4. [Malian Prime Minister Soumeylou Boubeye Maiga visits seperatist rebel stronghold Kidal. ](/news/2018/03/23/malian-prime-minister-soumeylou-boubeye-maiga-visits-seperatist-rebel-stronghold-kidal.md) _Context: Mali_
+5. [Two French soldiers are killed after their armoured vehicle hits a roadside bomb in Mali. ](/news/2018/02/21/two-french-soldiers-are-killed-after-their-armoured-vehicle-hits-a-roadside-bomb-in-mali.md) _Context: Mali_

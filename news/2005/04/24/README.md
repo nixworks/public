@@ -5,7 +5,7 @@ Formats: [HTML](2005/04/24/index.html)  [JSON](2005/04/24/index.json)  [XML](200
 
 ##### Pakistan
 ### [ Forty Pakistani Christians are arrested in Riyadh, Saudi Arabia for practicing their religion in violation of a Saudi law forbidding the practice of any religion but Islam. ](/news/2005/04/24/forty-pakistani-christians-are-arrested-in-riyadh-saudi-arabia-for-practicing-their-religion-in-violation-of-a-saudi-law-forbidding-the-pr.md)
-_Context: Christian, Muslim, Pakistan, Riyadh, Saudi_
+_Context: Christian, Muslim, Pakistan, Riyadh, Saudi Arabia_
 
 ##### Kuwait
 ### [ In Kuwait, around 7000 Bengali workers storm the embassy of Bangladesh in Kuwait City to protest against unpaid wages. ](/news/2005/04/24/in-kuwait-around-7000-bengali-workers-storm-the-embassy-of-bangladesh-in-kuwait-city-to-protest-against-unpaid-wages.md)

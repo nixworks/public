@@ -5,7 +5,7 @@ Formats: [HTML](2009/05/2/index.html)  [JSON](2009/05/2/index.json)  [XML](2009/
 
 ##### Bulk carrier
 ### [ The bulk carrier MV "Ariana" is hijacked by Somali pirates in the Indian Ocean. ](/news/2009/05/2/the-bulk-carrier-mv-ariana-is-hijacked-by-somali-pirates-in-the-indian-ocean.md)
-_Context: Indian Ocean, MV, Somali, Somali pirates, bulk carrier, pirate_
+_Context: Indian Ocean, MV, Somali pirates, Somalia, bulk carrier, pirate_
 
 ##### Taiwan
 ### [ The Republic of China allows financial investment from mainland China for the first time since 1949. ](/news/2009/05/2/the-republic-of-china-allows-financial-investment-from-mainland-china-for-the-first-time-since-1949.md)

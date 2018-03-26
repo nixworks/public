@@ -11,9 +11,9 @@ A NASA spacecraft is providing new evidence of a wet underground environment on 
 ### [Austria holds a national referendum, choosing between keeping the current system of a conscripted army and optional social service for young men, or introducing a professional army and a voluntary community service. ](/news/2013/01/20/austria-holds-a-national-referendum-choosing-between-keeping-the-current-system-of-a-conscripted-army-and-optional-social-service-for-young.md)
 _Context: Austria, army, community service, national referendum, professional army_
 
-##### German
+##### Germany
 ### [In Germany, Chancellor Angela Merkel's centre-left opponents win a narrow victory in Lower Saxony state election. ](/news/2013/01/20/in-germany-chancellor-angela-merkel-s-centre-left-opponents-win-a-narrow-victory-in-lower-saxony-state-election.md)
-_Context: Angela Merkel, Chancellor of Germany, German, Lower Saxony state election_
+_Context: Angela Merkel, Chancellor of Germany, Germany, Lower Saxony state election_
 
 ##### India
 ### [Indian Cabinet Committee on Political Affairs on Thursday decided to raise the cap on subsidised liquefied petroleum gas to nine cylinders per household in a year from existing six. ](/news/2013/01/20/indian-cabinet-committee-on-political-affairs-on-thursday-decided-to-raise-the-cap-on-subsidised-liquefied-petroleum-gas-to-nine-cylinders-p.md)
@@ -39,7 +39,7 @@ A teenager is arrested in New Mexico over the fatal shootings of two adults and 
 ### [The United States Department of State issues a travel warning to United States citizens for the country of Algeria in response to the In Amenas hostage crisis. ](/news/2013/01/20/the-united-states-department-of-state-issues-a-travel-warning-to-united-states-citizens-for-the-country-of-algeria-in-response-to-the-in-ama.md)
 The State Department is warning American citizens about the risks of travel to Algeria and is authorizing the families of State Department staff to leave the country if they choose.
 
-##### France
+##### French
 ### [A French sailor who had spent three days adrift in a life raft in the Southern Ocean off the coast of Tasmania in Australia is rescued by the cruise ship MV "Orion". ](/news/2013/01/20/a-french-sailor-who-had-spent-three-days-adrift-in-a-life-raft-in-the-southern-ocean-off-the-coast-of-tasmania-in-australia-is-rescued-by-th.md)
 A French sailor who had spent three days adrift in a life raft in the Southern Ocean off the coast of Tasmania in Australia is rescued by a cruise ship.
 

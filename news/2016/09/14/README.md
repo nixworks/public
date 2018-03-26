@@ -27,7 +27,7 @@ The South American trading bloc Mercosur threatens to suspend Venezuela if it do
 ### [Typhoon Meranti hits southern Taiwan with record breaking winds and heavy rains, disrupting transport and knocking out power to tens of thousands of people. ](/news/2016/09/14/typhoon-meranti-hits-southern-taiwan-with-record-breaking-winds-and-heavy-rains-disrupting-transport-and-knocking-out-power-to-tens-of-thou.md)
 Record-breaking winds and heavy rains disrupted transport today as Super-Typhoon Meranti cut a path across southern Taiwan and headed toward China.
 
-##### German
+##### Germany
 ### [German chemicals company Bayer AG will announce that it has acquired American seeds company Monsanto Co. for US$66 billion. ](/news/2016/09/14/german-chemicals-company-bayer-ag-will-announce-that-it-has-acquired-american-seeds-company-monsanto-co-for-us-66-billion.md)
 Chemicals and healthcare group Bayer AG (BAYGn.DE) is poised to announce the acquisition of U.S. seeds company Monsanto Co (MON.N) on Wednesday for more than $66 billion, clinching the biggest deal of the year, people familiar with the matter said.
 

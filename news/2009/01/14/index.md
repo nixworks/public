@@ -7,9 +7,9 @@ Formats: [HTML](2009/01/14/index.html)  [JSON](2009/01/14/index.json)  [XML](200
 ### [ U.S. Federal Judge Richard J. Leon orders the release of 21-year-old Guantanamo Bay detainee Muhammad Hamid Al Qarani, who was imprisoned in 2002. ](/news/2009/01/14/u-s-federal-judge-richard-j-leon-orders-the-release-of-21-year-old-guanta-namo-bay-detainee-muhammad-hamid-al-qarani-who-was-imprisoned.md)
 _Context: Federal District Judge, Guantanamo Bay detention camp, Muhammad Hamid Al Qarani, Richard Leon, United States, detainees_
 
-##### Somali
+##### Somalia
 ### [ Somali pirates release two ships off the coast of East Africa. ](/news/2009/01/14/somali-pirates-release-two-ships-off-the-coast-of-east-africa.md)
-_Context: East Africa, Somali, Somali pirates, seize_
+_Context: East Africa, Somali pirates, Somalia, seize_
 
 ##### Ukrainian
 ### [ Ukraine says it cannot resume natural-gas transit because Russia's Gazprom has provided insufficient supplies. ](/news/2009/01/14/ukraine-says-it-cannot-resume-natural-gas-transit-because-russia-s-gazprom-has-provided-insufficient-supplies.md)
@@ -29,7 +29,7 @@ _Context: Apple Inc., CEO, Steve Jobs, leave of absence_
 
 ##### United Kingdom
 ### [ United Kingdom Opposition Leader David Cameron pledges to hold a referendum on the European Union's Lisbon Treaty if his Conservative Party is elected later this year. ](/news/2009/01/14/united-kingdom-opposition-leader-david-cameron-pledges-to-hold-a-referendum-on-the-european-union-s-lisbon-treaty-if-his-conservative-party.md)
-_Context: Conservative Party, David Cameron, European Union, Leader, Opposition, Treaty of Lisbon, United Kingdom, referendum_
+_Context: Conservative Party, David Cameron, EU, Leader, Opposition, Treaty of Lisbon, United Kingdom, referendum_
 
 ## [Previous Day...](/news/2009/01/13/index.md)
 

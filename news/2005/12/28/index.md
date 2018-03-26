@@ -13,7 +13,7 @@ _Context: GPS, Galileo positioning system, Giove-A_
 
 ##### Jurgen Chrobog
 ### [ Jurgen Chrobog, Germany's former Deputy Foreign Minister, his wife and three children, are kidnapped in Yemen by tribesmen pressing for the release of jailed members of their tribe. ](/news/2005/12/28/ja1-4rgen-chrobog-germany-s-former-deputy-foreign-minister-his-wife-and-three-children-are-kidnapped-in-yemen-by-tribesmen-pressing-for-th.md)
-_Context: German, Jurgen Chrobog, Yemen_
+_Context: Germany, Jurgen Chrobog, Yemen_
 
 ##### M. C. Puri
 ### [ M. C. Puri, Professor Emeritus of Mathematics at the Indian Institute of Technology, Delhi, is killed and three others are injured when an unidentified gunman opened fire at India's premier educational institute, the Indian Institute of Science at Bangalore. ](/news/2005/12/28/m-c-puri-professor-emeritus-of-mathematics-at-the-indian-institute-of-technology-delhi-is-killed-and-three-others-are-injured-when-an.md)
