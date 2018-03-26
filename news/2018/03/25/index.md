@@ -48,7 +48,7 @@ Most were either standing or sitting on the front seats of the passenger vehicle
 MOKPO, South Korea: South Korea&#039;s coast guard said it rescued all 163 people aboard a ferry that hit a large rock in waters off the country&#039;s southwestern coast on Sunday (Mar 24), according to an Associate Press report. At least six people suffered mild injuries from the accident, which h...
 
 ##### 2018 Kemerovo fire
-### [A fire in Winter Cherry complex, a shopping center in Kemerovo, Russia, kills at least 37 people. ](/news/2018/03/25/a-fire-in-winter-cherry-complex-a-shopping-center-in-kemerovo-russia-kills-at-least-37-people.md)
+### [A fire in Winter Cherry complex, a shopping center in Kemerovo, Russia, kills at least 56 people, majority of them were children. ](/news/2018/03/25/a-fire-in-winter-cherry-complex-a-shopping-center-in-kemerovo-russia-kills-at-least-56-people-majority-of-them-were-children.md)
 Video on social media shows panic as rescue teams evacuate the building in southern Russia.
 
 ##### Yemeni Crisis (2011-present)
