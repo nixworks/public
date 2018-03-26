@@ -23,10 +23,6 @@ Carles Puigdemont, the deposed Catalan president, has been detained by police at
 ### [A suspected drunk driver loses control while fleeing police in Maputo, Mozambique, strikes a crowd, and kills 21 people, injuring 30 more. ](/news/2018/03/25/a-suspected-drunk-driver-loses-control-while-fleeing-police-in-maputo-mozambique-strikes-a-crowd-and-kills-21-people-injuring-30-more.md)
 Party cut short as car ploughs into the crowd.
 
-##### Carcassonne and Trebes attack
-### [A former French Parliamentarian candidate is arrested for tweeting that the death of Lt-Col Arnaud Beltrame was "great" and "one less vote for Emmanuel Macron." ](/news/2018/03/25/a-former-french-parliamentarian-candidate-is-arrested-for-tweeting-that-the-death-of-lt-col-arnaud-beltrame-was-great-and-one-less-vote-f.md)
-The French left-winger is accused of celebrating the killing of Arnaud Beltrame in a terrorist attack.
-
 ##### Qatar-Russia relations
 ### [Sheikh Tamim of Qatar visits Russia to discuss the situation in Syria, Yemen and Palestine. ](/news/2018/03/25/sheikh-tamim-of-qatar-visits-russia-to-discuss-the-situation-in-syria-yemen-and-palestine.md)
 Qatar&#39;s Sheikh Tamim is in Moscow to meet Russian President Vladimir Putin to discuss situation in the Middle East.
@@ -48,7 +44,7 @@ Most were either standing or sitting on the front seats of the passenger vehicle
 MOKPO, South Korea: South Korea&#039;s coast guard said it rescued all 163 people aboard a ferry that hit a large rock in waters off the country&#039;s southwestern coast on Sunday (Mar 24), according to an Associate Press report. At least six people suffered mild injuries from the accident, which h...
 
 ##### 2018 Kemerovo fire
-### [A fire in Winter Cherry complex, a shopping center in Kemerovo, Russia, kills at least 56 people, majority of them were children. ](/news/2018/03/25/a-fire-in-winter-cherry-complex-a-shopping-center-in-kemerovo-russia-kills-at-least-56-people-majority-of-them-were-children.md)
+### [A fire in Winter Cherry complex, a shopping center in Kemerovo, Russia, kills at least 56 people, the majority of which are children. ](/news/2018/03/25/a-fire-in-winter-cherry-complex-a-shopping-center-in-kemerovo-russia-kills-at-least-56-people-the-majority-of-which-are-children.md)
 Video on social media shows panic as rescue teams evacuate the building in southern Russia.
 
 ##### Yemeni Crisis (2011-present)
@@ -67,6 +63,14 @@ _Context: Afghanistan, Herat, ISIL, Shi'ite, War in Afghanistan (2001-present), 
 ### [A car bomb claimed by Al-Shabab kills five people including the driver and wounds around ten others outside Somalia's Parliament, Interior Ministry, and Presidential Palace buildings in Mogadishu. ](/news/2018/03/25/a-car-bomb-claimed-by-al-shabab-kills-five-people-including-the-driver-and-wounds-around-ten-others-outside-somalia-s-parliament-interior-m.md)
 _Context: Al-Shabab, Mogadishu, Somali Civil War (2009-present), Somalia, car bomb_
 
+##### Carcassonne and Trebes attack
+### [A left wing former French Parliamentarian candidate is arrested for tweeting that the death of Lt-Col Arnaud Beltrame was "great" and "one less vote for Emmanuel Macron." ](/news/2018/03/25/a-left-wing-former-french-parliamentarian-candidate-is-arrested-for-tweeting-that-the-death-of-lt-col-arnaud-beltrame-was-great-and-one-l.md)
+The French left-winger is accused of celebrating the killing of Arnaud Beltrame in a terrorist attack.
+
+##### 2017-18 Spanish constitutional crisis
+### [Protests erupt across Spain, especially in Barcelona, against Puigdemont's detention. ](/news/2018/03/25/protests-erupt-across-spain-especially-in-barcelona-against-puigdemont-s-detention.md)
+Protests erupt across the Spanish region after Germany detains independence leader Carles Puigdemont.
+
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
@@ -82,10 +86,6 @@ A court has ruled that ex-President Kuczynski will not be allowed to leave the c
 ##### 2018 United States gun violence protests
 ### [Hundreds of thousands of people participate in the March For Our Lives protest around the world regarding gun violence, mass shootings and school shootings in the United States. ](/news/2018/03/24/hundreds-of-thousands-of-people-participate-in-the-march-for-our-lives-protest-around-the-world-regarding-gun-violence-mass-shootings-and-s.md)
 Student-led March For Our Lives events nationwide draw hundreds of thousands of protesters.
-
-##### Crime in Greece
-### [An Afghan community centre is burned down in Athens, Greece. An extreme far-right group claims responsibility, and the United Nations condemns the attack. ](/news/2018/03/24/an-afghan-community-centre-is-burned-down-in-athens-greece-an-extreme-far-right-group-claims-responsibility-and-the-united-nations-condem.md)
-A little-known extreme right-wing group has claimed responsibility for an arson attack on an Afghan community center in central Athens that caused significant damage, but no injuries. A group calling itself Krypteia claimed responsibility in a call to a Greek news website on Friday. ...
 
 ##### Glasgow
 ### [A car is deliberately driven into a group of schoolgirls in Glasgow, Scotland, injuring five. Police launch an attempted murder probe. ](/news/2018/03/24/a-car-is-deliberately-driven-into-a-group-of-schoolgirls-in-glasgow-scotland-injuring-five-police-launch-an-attempted-murder-probe.md)
@@ -114,6 +114,10 @@ John Cena hosted the awards show, which aired live Saturday on Nickelodeon.
 ##### The Times
 ### ["The Times" reports their journalist, Bel Trew, had been expelled from Egypt shortly after her February 20 arrest. Trew had been given the option of a military trial or leaving the country. ](/news/2018/03/24/the-times-reports-their-journalist-bel-trew-had-been-expelled-from-egypt-shortly-after-her-february-20-arrest-trew-had-been-given-the-o.md)
  CAIRO (AP) — Egyptian authorities arrested a British journalist and expelled her from the country after threatening her with a military trial, The Times said on Saturday. The move
+
+##### Terrorism in Greece
+### [An Afghan community center is burned down in Athens, Greece. An extreme far-right group claims responsibility, and the United Nations condemns the attack. ](/news/2018/03/24/an-afghan-community-center-is-burned-down-in-athens-greece-an-extreme-far-right-group-claims-responsibility-and-the-united-nations-condem.md)
+A little-known extreme right-wing group has claimed responsibility for an arson attack on an Afghan community center in central Athens that caused significant damage, but no injuries. A group calling itself Krypteia claimed responsibility in a call to a Greek news website on Friday. ...
 
 ##### Saudi Arabian-led intervention in Yemen
 ### [Saudi aircraft attack Houthi targets in residential areas of Hudaydah and Sa'dah, Yemen, killing at least seven civilians. ](/news/2018/03/24/saudi-aircraft-attack-houthi-targets-in-residential-areas-of-hudaydah-and-sa-dah-yemen-killing-at-least-seven-civilians.md)

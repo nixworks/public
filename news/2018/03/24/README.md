@@ -11,10 +11,6 @@ A court has ruled that ex-President Kuczynski will not be allowed to leave the c
 ### [Hundreds of thousands of people participate in the March For Our Lives protest around the world regarding gun violence, mass shootings and school shootings in the United States. ](/news/2018/03/24/hundreds-of-thousands-of-people-participate-in-the-march-for-our-lives-protest-around-the-world-regarding-gun-violence-mass-shootings-and-s.md)
 Student-led March For Our Lives events nationwide draw hundreds of thousands of protesters.
 
-##### Crime in Greece
-### [An Afghan community centre is burned down in Athens, Greece. An extreme far-right group claims responsibility, and the United Nations condemns the attack. ](/news/2018/03/24/an-afghan-community-centre-is-burned-down-in-athens-greece-an-extreme-far-right-group-claims-responsibility-and-the-united-nations-condem.md)
-A little-known extreme right-wing group has claimed responsibility for an arson attack on an Afghan community center in central Athens that caused significant damage, but no injuries. A group calling itself Krypteia claimed responsibility in a call to a Greek news website on Friday. ...
-
 ##### Glasgow
 ### [A car is deliberately driven into a group of schoolgirls in Glasgow, Scotland, injuring five. Police launch an attempted murder probe. ](/news/2018/03/24/a-car-is-deliberately-driven-into-a-group-of-schoolgirls-in-glasgow-scotland-injuring-five-police-launch-an-attempted-murder-probe.md)
 A teenage girl is in a serious condition after the attempted murder in the Castlemilk area of Glasgow.
@@ -42,6 +38,10 @@ John Cena hosted the awards show, which aired live Saturday on Nickelodeon.
 ##### The Times
 ### ["The Times" reports their journalist, Bel Trew, had been expelled from Egypt shortly after her February 20 arrest. Trew had been given the option of a military trial or leaving the country. ](/news/2018/03/24/the-times-reports-their-journalist-bel-trew-had-been-expelled-from-egypt-shortly-after-her-february-20-arrest-trew-had-been-given-the-o.md)
  CAIRO (AP) — Egyptian authorities arrested a British journalist and expelled her from the country after threatening her with a military trial, The Times said on Saturday. The move
+
+##### Terrorism in Greece
+### [An Afghan community center is burned down in Athens, Greece. An extreme far-right group claims responsibility, and the United Nations condemns the attack. ](/news/2018/03/24/an-afghan-community-center-is-burned-down-in-athens-greece-an-extreme-far-right-group-claims-responsibility-and-the-united-nations-condem.md)
+A little-known extreme right-wing group has claimed responsibility for an arson attack on an Afghan community center in central Athens that caused significant damage, but no injuries. A group calling itself Krypteia claimed responsibility in a call to a Greek news website on Friday. ...
 
 ##### Saudi Arabian-led intervention in Yemen
 ### [Saudi aircraft attack Houthi targets in residential areas of Hudaydah and Sa'dah, Yemen, killing at least seven civilians. ](/news/2018/03/24/saudi-aircraft-attack-houthi-targets-in-residential-areas-of-hudaydah-and-sa-dah-yemen-killing-at-least-seven-civilians.md)

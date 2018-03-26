@@ -23,10 +23,6 @@ Carles Puigdemont, the deposed Catalan president, has been detained by police at
 ### [A suspected drunk driver loses control while fleeing police in Maputo, Mozambique, strikes a crowd, and kills 21 people, injuring 30 more. ](/news/2018/03/25/a-suspected-drunk-driver-loses-control-while-fleeing-police-in-maputo-mozambique-strikes-a-crowd-and-kills-21-people-injuring-30-more.md)
 Party cut short as car ploughs into the crowd.
 
-##### Carcassonne and Trebes attack
-### [A former French Parliamentarian candidate is arrested for tweeting that the death of Lt-Col Arnaud Beltrame was "great" and "one less vote for Emmanuel Macron." ](/news/2018/03/25/a-former-french-parliamentarian-candidate-is-arrested-for-tweeting-that-the-death-of-lt-col-arnaud-beltrame-was-great-and-one-less-vote-f.md)
-The French left-winger is accused of celebrating the killing of Arnaud Beltrame in a terrorist attack.
-
 ##### Qatar-Russia relations
 ### [Sheikh Tamim of Qatar visits Russia to discuss the situation in Syria, Yemen and Palestine. ](/news/2018/03/25/sheikh-tamim-of-qatar-visits-russia-to-discuss-the-situation-in-syria-yemen-and-palestine.md)
 Qatar&#39;s Sheikh Tamim is in Moscow to meet Russian President Vladimir Putin to discuss situation in the Middle East.
@@ -48,7 +44,7 @@ Most were either standing or sitting on the front seats of the passenger vehicle
 MOKPO, South Korea: South Korea&#039;s coast guard said it rescued all 163 people aboard a ferry that hit a large rock in waters off the country&#039;s southwestern coast on Sunday (Mar 24), according to an Associate Press report. At least six people suffered mild injuries from the accident, which h...
 
 ##### 2018 Kemerovo fire
-### [A fire in Winter Cherry complex, a shopping center in Kemerovo, Russia, kills at least 56 people, majority of them were children. ](/news/2018/03/25/a-fire-in-winter-cherry-complex-a-shopping-center-in-kemerovo-russia-kills-at-least-56-people-majority-of-them-were-children.md)
+### [A fire in Winter Cherry complex, a shopping center in Kemerovo, Russia, kills at least 56 people, the majority of which are children. ](/news/2018/03/25/a-fire-in-winter-cherry-complex-a-shopping-center-in-kemerovo-russia-kills-at-least-56-people-the-majority-of-which-are-children.md)
 Video on social media shows panic as rescue teams evacuate the building in southern Russia.
 
 ##### Yemeni Crisis (2011-present)
@@ -66,6 +62,14 @@ _Context: Afghanistan, Herat, ISIL, Shi'ite, War in Afghanistan (2001-present), 
 ##### Somali Civil War (2009-present)
 ### [A car bomb claimed by Al-Shabab kills five people including the driver and wounds around ten others outside Somalia's Parliament, Interior Ministry, and Presidential Palace buildings in Mogadishu. ](/news/2018/03/25/a-car-bomb-claimed-by-al-shabab-kills-five-people-including-the-driver-and-wounds-around-ten-others-outside-somalia-s-parliament-interior-m.md)
 _Context: Al-Shabab, Mogadishu, Somali Civil War (2009-present), Somalia, car bomb_
+
+##### Carcassonne and Trebes attack
+### [A left wing former French Parliamentarian candidate is arrested for tweeting that the death of Lt-Col Arnaud Beltrame was "great" and "one less vote for Emmanuel Macron." ](/news/2018/03/25/a-left-wing-former-french-parliamentarian-candidate-is-arrested-for-tweeting-that-the-death-of-lt-col-arnaud-beltrame-was-great-and-one-l.md)
+The French left-winger is accused of celebrating the killing of Arnaud Beltrame in a terrorist attack.
+
+##### 2017-18 Spanish constitutional crisis
+### [Protests erupt across Spain, especially in Barcelona, against Puigdemont's detention. ](/news/2018/03/25/protests-erupt-across-spain-especially-in-barcelona-against-puigdemont-s-detention.md)
+Protests erupt across the Spanish region after Germany detains independence leader Carles Puigdemont.
 
 ## [Previous Day...](/news/2018/03/24/index.md)
 
