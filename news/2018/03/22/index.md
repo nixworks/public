@@ -37,7 +37,7 @@ President Erdoğan says he will not let natural reserves be exploited by Greek C
 
 ##### Protests against Emmanuel Macron
 ### [People in 150 places across France take to the streets peacefully in a general strike to protest President Macron's economic reforms. Railways, airways, schools and power generation are affected. ](/news/2018/03/22/people-in-150-places-across-france-take-to-the-streets-peacefully-in-a-general-strike-to-protest-president-macron-s-economic-reforms-railwa.md)
-_Context: French, President Macron's economic reforms, Protests against Emmanuel Macron, general strike_
+_Context: France, President Macron's economic reforms, Protests against Emmanuel Macron, general strike_
 
 ##### Crime in Georgia (U.S. state)
 ### [The city government of Atlanta, Georgia, United States, experiences an outage on some official websites, caused by a ransomware cyberattack. ](/news/2018/03/22/the-city-government-of-atlanta-georgia-united-states-experiences-an-outage-on-some-official-websites-caused-by-a-ransomware-cyberattack.md)
