@@ -23,6 +23,10 @@ Thousands join demonstrations against government’s new effort to restrict acce
 ### [Thirteen Catalan separatist politicians appear before the Spanish Supreme Court. Marta Rovira, who is "self-exiled" in Switzerland, does not attend. ](/news/2018/03/23/thirteen-catalan-separatist-politicians-appear-before-the-spanish-supreme-court-marta-rovira-who-is-self-exiled-in-switzerland-does-not.md)
 Catalan separatist politician Marta Rovira ignores court summons, says in letter she has chose &lsquo;path to exile&rsquo;
 
+##### US Border Patrol
+### [During a three-week US Border Patrol Operation Sandman near Yuma, Arizona, there are 204 arrests for human smuggling. ](/news/2018/03/23/during-a-three-week-us-border-patrol-operation-sandman-near-yuma-arizona-there-are-204-arrests-for-human-smuggling.md)
+During a three-week Border Patrol operation, special agents apprehended 204 suspects west of Yuma in the Imperial Sand Dunes. It took place between February and March. 175 of them were foreign nationals who illegally entered the United States and 29 of them were American citizens who were arrested f...
+
 ##### Human rights in the United States
 ### [US President Donald Trump issues an order banning "transgender persons who require or have undergone gender transition" from the military. Pentagon spokesman Major David Eastburn says this announcement will have no immediate practical effect for the military which will continue to recruit and retain transgender people in accordance with current law. ](/news/2018/03/23/us-president-donald-trump-issues-an-order-banning-transgender-persons-who-require-or-have-undergone-gender-transition-from-the-military-p.md)
 The policy scraps his blanket ban but bars those who have undergone gender transition from serving.

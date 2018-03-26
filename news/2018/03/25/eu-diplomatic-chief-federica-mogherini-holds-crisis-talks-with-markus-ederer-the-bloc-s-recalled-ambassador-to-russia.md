@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/25/eu-diplomatic-chief-federica-mogherini-holds-cr
 ### [2018-03-25](/news/2018/03/25/index.md)
 
 ##### Russia-European Union relations
-# EU diplomatic chief Federica Mogherini holds crisis talks with Markus Ederer, the bloc's recalled ambassador to Russia.
+# EU diplomatic chief Federica Mogherini holds crisis talks with Markus Ederer, the bloc's recalled ambassador to Russia. 
 
 
 
