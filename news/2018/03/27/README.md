@@ -3,6 +3,10 @@ Formats: [HTML](2018/03/27/index.html)  [JSON](2018/03/27/index.json)  [XML](201
 
 ## [2018-03-27](/news/2018/03/27/index.md)
 
+##### Discoveries of exoplanets
+### [A new exoplanet named K2-229b is discovered. Studies show that the planet resembles Mercury due to the fact that it is hot, metallic, and dense. ](/news/2018/03/27/a-new-exoplanet-named-k2-229b-is-discovered-studies-show-that-the-planet-resembles-mercury-due-to-the-fact-that-it-is-hot-metallic-and-de.md)
+The US National Aeronautics and Space Administration, NASA, revealed on Monday the discovery of an exoplanet resembling Mercury. The new finding made by the NASA Kepler Space Telescope will help to…
+
 ##### Egyptian presidential election, 2018
 ### [Voting enters the second day. ](/news/2018/03/27/voting-enters-the-second-day.md)
 Egyptian authorities pressed for a high turnout on Tuesday on the second day of a presidential election expected to give President Abdel Fattah al-Sisi a sweeping victory in the absence of real competition, in a contest dismissed by critics as sham.
@@ -11,7 +15,7 @@ Egyptian authorities pressed for a high turnout on Tuesday on the second day of 
 ### [A report reveals firefighters were prevented from attending the scene of the bombing for two hours. The report makes more than 50 recommendations. ](/news/2018/03/27/a-report-reveals-firefighters-were-prevented-from-attending-the-scene-of-the-bombing-for-two-hours-the-report-makes-more-than-50-recommenda.md)
 _Context: Manchester Arena bombing, firefighters_
 
-##### Poisoning of Sergei and Yulia Skripal
+##### Reactions to the poisoning of Sergei and Yulia Skripal
 ### [NATO and Australia expel Russian diplomats. ](/news/2018/03/27/nato-and-australia-expel-russian-diplomats.md)
 Australia has become the latest country to expel Russian diplomats following the nerve agent attack on ex-spy Sergei Skripal in Salisbury earlier this month in a gesture of solidarity with Britain.
 
@@ -20,7 +24,7 @@ Australia has become the latest country to expel Russian diplomats following the
 _Context: Beijing station, China-North Korea relations, Kim Jong-un_
 
 ##### Malaysia
-### [The search area for nine crewmen missing since the 21st from a capsized sand dredger off the coast of Malaysia is expanded to 560 square nautical miles. The Indonesian National Search and Rescue Agency is requested to assist in the operation. ](/news/2018/03/27/the-search-area-for-nine-crewmen-missing-since-the-21st-from-a-capsized-sand-dredger-off-the-coast-of-malaysia-is-expanded-to-560-square-nau.md)
+### [The search area for nine crewmen missing since March 21 from a capsized sand dredger off the coast of Malaysia is expanded to 560 square nautical miles. The Indonesian National Search and Rescue Agency is requested to assist in the operation. ](/news/2018/03/27/the-search-area-for-nine-crewmen-missing-since-march-21-from-a-capsized-sand-dredger-off-the-coast-of-malaysia-is-expanded-to-560-square-nau.md)
  JOHOR BAHRU, March 27&nbsp;—&nbsp;The search and rescue (SAR) operation to look for nine missing crew members of the capsized sand-dredging vessel, JBB Rong Chang 8, was expanded today. Malaysian Maritime Enforcement Agency (MMEA) Southern Region deputy
 
 ##### 2017-18 Volvo Ocean Race

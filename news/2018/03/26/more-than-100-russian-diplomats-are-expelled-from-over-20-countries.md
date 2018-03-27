@@ -16,4 +16,5 @@ Australia joins more than 20 other countries in expelling Russian diplomats over
 
 ### Related:
 
-1. [In response to the UK's decision to expel 23 Russian diplomats following the poisoning of Sergei and Yulia Skripal, the Russian Federation expels 23 British diplomats, closes the British Council in Russia and closes the Consulate-General of the United Kingdom in Saint Petersburg. ](/news/2018/03/17/in-response-to-the-uk-s-decision-to-expel-23-russian-diplomats-following-the-poisoning-of-sergei-and-yulia-skripal-the-russian-federation-e.md) _Context: Reactions to the poisoning of Sergei and Yulia Skripal_
+1. [NATO and Australia expel Russian diplomats. ](/news/2018/03/27/nato-and-australia-expel-russian-diplomats.md) _Context: Reactions to the poisoning of Sergei and Yulia Skripal_
+2. [In response to the UK's decision to expel 23 Russian diplomats following the poisoning of Sergei and Yulia Skripal, the Russian Federation expels 23 British diplomats, closes the British Council in Russia and closes the Consulate-General of the United Kingdom in Saint Petersburg. ](/news/2018/03/17/in-response-to-the-uk-s-decision-to-expel-23-russian-diplomats-following-the-poisoning-of-sergei-and-yulia-skripal-the-russian-federation-e.md) _Context: Reactions to the poisoning of Sergei and Yulia Skripal_

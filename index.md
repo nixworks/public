@@ -3,6 +3,10 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/03/27/index.md)
 
+##### Discoveries of exoplanets
+### [A new exoplanet named K2-229b is discovered. Studies show that the planet resembles Mercury due to the fact that it is hot, metallic, and dense. ](/news/2018/03/27/a-new-exoplanet-named-k2-229b-is-discovered-studies-show-that-the-planet-resembles-mercury-due-to-the-fact-that-it-is-hot-metallic-and-de.md)
+The US National Aeronautics and Space Administration, NASA, revealed on Monday the discovery of an exoplanet resembling Mercury. The new finding made by the NASA Kepler Space Telescope will help to…
+
 ##### Egyptian presidential election, 2018
 ### [Voting enters the second day. ](/news/2018/03/27/voting-enters-the-second-day.md)
 Egyptian authorities pressed for a high turnout on Tuesday on the second day of a presidential election expected to give President Abdel Fattah al-Sisi a sweeping victory in the absence of real competition, in a contest dismissed by critics as sham.
@@ -11,7 +15,7 @@ Egyptian authorities pressed for a high turnout on Tuesday on the second day of 
 ### [A report reveals firefighters were prevented from attending the scene of the bombing for two hours. The report makes more than 50 recommendations. ](/news/2018/03/27/a-report-reveals-firefighters-were-prevented-from-attending-the-scene-of-the-bombing-for-two-hours-the-report-makes-more-than-50-recommenda.md)
 _Context: Manchester Arena bombing, firefighters_
 
-##### Poisoning of Sergei and Yulia Skripal
+##### Reactions to the poisoning of Sergei and Yulia Skripal
 ### [NATO and Australia expel Russian diplomats. ](/news/2018/03/27/nato-and-australia-expel-russian-diplomats.md)
 Australia has become the latest country to expel Russian diplomats following the nerve agent attack on ex-spy Sergei Skripal in Salisbury earlier this month in a gesture of solidarity with Britain.
 
@@ -20,7 +24,7 @@ Australia has become the latest country to expel Russian diplomats following the
 _Context: Beijing station, China-North Korea relations, Kim Jong-un_
 
 ##### Malaysia
-### [The search area for nine crewmen missing since the 21st from a capsized sand dredger off the coast of Malaysia is expanded to 560 square nautical miles. The Indonesian National Search and Rescue Agency is requested to assist in the operation. ](/news/2018/03/27/the-search-area-for-nine-crewmen-missing-since-the-21st-from-a-capsized-sand-dredger-off-the-coast-of-malaysia-is-expanded-to-560-square-nau.md)
+### [The search area for nine crewmen missing since March 21 from a capsized sand dredger off the coast of Malaysia is expanded to 560 square nautical miles. The Indonesian National Search and Rescue Agency is requested to assist in the operation. ](/news/2018/03/27/the-search-area-for-nine-crewmen-missing-since-march-21-from-a-capsized-sand-dredger-off-the-coast-of-malaysia-is-expanded-to-560-square-nau.md)
  JOHOR BAHRU, March 27&nbsp;—&nbsp;The search and rescue (SAR) operation to look for nine missing crew members of the capsized sand-dredging vessel, JBB Rong Chang 8, was expanded today. Malaysian Maritime Enforcement Agency (MMEA) Southern Region deputy
 
 ##### 2017-18 Volvo Ocean Race
@@ -158,6 +162,10 @@ MOKPO, South Korea: South Korea&#039;s coast guard said it rescued all 163 peopl
 ##### 2018 Kemerovo fire
 ### [A fire in the Winter Cherry complex, a shopping centre in Kemerovo, Russia, kills at least 64 people, the majority of which are children. ](/news/2018/03/25/a-fire-in-the-winter-cherry-complex-a-shopping-centre-in-kemerovo-russia-kills-at-least-64-people-the-majority-of-which-are-children.md)
 Video on social media shows panic as rescue teams evacuate the building in southern Russia.
+
+##### Modern flat Earth societies
+### [ Mike Hughes, a daredevil, limo driver, and Flat Earth believer, launches his homemade rocket 2000 feet in the air. ](/news/2018/03/25/mike-hughes-a-daredevil-limo-driver-and-flat-earth-believer-launches-his-homemade-rocket-2000-feet-in-the-air.md)
+61-year-old Mike Hughes wanted to prove the Earth was &quot;shaped like a Frisbee.&quot; (He didn&#039;t.)
 
 ##### Yemeni Crisis (2011-present)
 ### [Houthi forces fire several Burkan-2 ballistic missiles at targets in Saudi Arabia with at least one person, an Egyptian national, being killed in Riyadh. The Royal Saudi Air Defense says it intercepted seven missiles, three of them targeting Riyadh, two targeting Jizan and one apiece targeting Najran and Khamis Mushait. ](/news/2018/03/25/houthi-forces-fire-several-burkan-2-ballistic-missiles-at-targets-in-saudi-arabia-with-at-least-one-person-an-egyptian-national-being-kill.md)
