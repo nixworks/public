@@ -71,7 +71,7 @@ _Context: Bangladesh, Cox's Bazar_
 ### [Israel adjourns deciding on whether to ease its three year blockade of the Gaza Strip. ](/news/2010/06/16/israel-adjourns-deciding-on-whether-to-ease-its-three-year-blockade-of-the-gaza-strip.md)
 Security cabinet adjourns meeting on allowing entry of building materials and other goods.
 
-##### U.S. President
+##### President
 ### [U.S. President Barack Obama announces that BP will finance a $20 billion fund to compensate people whose livelihoods have been damaged by the devastating oil spill in the Gulf of Mexico, and the company's chairman apologized for the worst spill in U.S. history. ](/news/2010/06/16/u-s-president-barack-obama-announces-that-bp-will-finance-a-20-billion-fund-to-compensate-people-whose-livelihoods-have-been-damaged-by-th.md)
 BP’s embattled chief executive, Tony Hayward, prepared to tell Congress on Thursday that he was “deeply sorry” for the oil disaster in the gulf.
 

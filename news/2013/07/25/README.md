@@ -27,7 +27,7 @@ Gunmen assassinate Tunisian opposition leader Mohamed Brahmi, sparking protests 
 ### [Mariano Rajoy, the Prime Minister of Spain, declares three days of national mourning for the 78 people killed in the derailment, Spain's worst train accident since 1944. ](/news/2013/07/25/mariano-rajoy-the-prime-minister-of-spain-declares-three-days-of-national-mourning-for-the-78-people-killed-in-the-derailment-spain-s-wor.md)
 Spanish Prime Minister Mariano Rajoy has declared three days of official mourning after 80 people died in a train crash.
 
-##### Chinese
+##### China
 ### [China begins a major effort to boost its economic growth with business tax breaks and export liberalization, amid an increasing industrial slowdown. ](/news/2013/07/25/china-begins-a-major-effort-to-boost-its-economic-growth-with-business-tax-breaks-and-export-liberalization-amid-an-increasing-industrial-s.md)
 China unveils a series of moves aimed at boosting growth, indicating that policymakers are concerned about the slowdown in its economy.
 

@@ -21,7 +21,7 @@ Cuba releases the political prisoners Hector Maseda and Angel Moya, after a seve
 
 ##### Republican
 ### [Republican and LGBT rights campaigner Fred Karger launches a campaign in the U.S. states of Iowa and New Hampshire aiming to become President of the United States. ](/news/2011/02/13/republican-and-lgbt-rights-campaigner-fred-karger-launches-a-campaign-in-the-u-s-states-of-iowa-and-new-hampshire-aiming-to-become-presiden.md)
-_Context: Fred Karger, Iowa, LGBT rights in the United States, New Hampshire, Republican, U.S. President, U.S. state_
+_Context: Fred Karger, Iowa, LGBT rights in the United States, New Hampshire, President, Republican, U.S. state_
 
 ##### Switzerland
 ### [Switzerland votes in its gun control referendum, rejecting the proposal. ](/news/2011/02/13/switzerland-votes-in-its-gun-control-referendum-rejecting-the-proposal.md)

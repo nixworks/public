@@ -5,7 +5,7 @@ Formats: [HTML](2011/05/22/index.html)  [JSON](2011/05/22/index.json)  [XML](201
 
 ##### Tim Pawlenty
 ### [Tim Pawlenty, ex-Governor of Minnesota, announces his candidacy for the Republican nomination as President of the United States. ](/news/2011/05/22/tim-pawlenty-ex-governor-of-minnesota-announces-his-candidacy-for-the-republican-nomination-as-president-of-the-united-states.md)
-_Context: Minnesota Governor, Tim Pawlenty, U.S. President, candidacy, nomination_
+_Context: Minnesota Governor, President, Tim Pawlenty, candidacy, nomination_
 
 ##### Local and regional elections
 ### [In local and regional elections in Spain, the conservative People's Party performs well, while the ruling Socialist Party suffers heavy losses. ](/news/2011/05/22/in-local-and-regional-elections-in-spain-the-conservative-people-s-party-performs-well-while-the-ruling-socialist-party-suffers-heavy-loss.md)

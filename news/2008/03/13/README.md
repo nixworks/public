@@ -3,9 +3,9 @@ Formats: [HTML](2008/03/13/index.html)  [JSON](2008/03/13/index.json)  [XML](200
 
 ## [2008-03-13](/news/2008/03/13/index.md)
 
-##### Turkey
+##### Turkish
 ### [ Turkish prosecutor Abdurrahman Yalcinkaya asks the Constitutional Court of Turkey to ban the ruling Justice and Development Party for anti-secular activities. ](/news/2008/03/13/turkish-prosecutor-abdurrahman-yalassa-nkaya-asks-the-constitutional-court-of-turkey-to-ban-the-ruling-justice-and-development-party-for-ant.md)
-_Context: Abdurrahman Yalcinkaya, Constitutional Court of Turkey, Turkey, ruling party, secular_
+_Context: Abdurrahman Yalcinkaya, Constitutional Court of Turkey, Turkish, ruling party, secular_
 
 ##### EU
 ### [ Leaders of the European Union meet in Brussels, Belgium with climate change and energy security dominating the agenda. ](/news/2008/03/13/leaders-of-the-european-union-meet-in-brussels-belgium-with-climate-change-and-energy-security-dominating-the-agenda.md)

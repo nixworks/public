@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/10/29/the-strain-of-hiv-most-common-in-the-united-sta
 
 ### Related:
 
-1. [Qantas Airways flight QF9 becomes the first ever regularly scheduled non-stop flight between Australia and Europe after making the 17-hour journey from Perth to London. ](/news/2018/03/25/qantas-airways-flight-qf9-becomes-the-first-ever-regularly-scheduled-non-stop-flight-between-australia-and-europe-after-making-the-17-hour-j.md) _Context: Australia, Europe_
+1. [Qantas Airways Flight QF9 becomes the first ever regularly scheduled non-stop flight between Australia and Europe after making the 17-hour journey from Perth to London. ](/news/2018/03/25/qantas-airways-flight-qf9-becomes-the-first-ever-regularly-scheduled-non-stop-flight-between-australia-and-europe-after-making-the-17-hour-j.md) _Context: Australia, Europe_
 2. [Stock markets in Asia and Australia continue falls from Europe and the United States. ](/news/2011/08/5/stock-markets-in-asia-and-australia-continue-falls-from-europe-and-the-united-states.md) _Context: Australia, Europe_
 3. [Australia and East Timor sign a treaty for a permanent maritime border in the Timor Sea, ending a decade-long dispute over rights to the sea's rich oil and gas reserves. ](/news/2018/03/7/australia-and-east-timor-sign-a-treaty-for-a-permanent-maritime-border-in-the-timor-sea-ending-a-decade-long-dispute-over-rights-to-the-sea.md) _Context: Australia_
 4. [A message in a bottle found in Australia is confirmed to have been adrift for almost 132 years, making it reportedly the oldest known message in a bottle. ](/news/2018/03/7/a-message-in-a-bottle-found-in-australia-is-confirmed-to-have-been-adrift-for-almost-132-years-making-it-reportedly-the-oldest-known-messag.md) _Context: Australia_

@@ -33,7 +33,7 @@ French President Nicolas Sarkozy has left hospital after tests confirmed that hi
 
 ##### Patriarch Kirill
 ### [ Patriarch Kirill of the Russian Orthodox Church begins a visit to Ukraine. ](/news/2009/07/27/patriarch-kirill-of-the-russian-orthodox-church-begins-a-visit-to-ukraine.md)
-_Context: Patriarch Kirill, Russian, Ukrainian_
+_Context: Patriarch Kirill, Russian, Ukraine_
 
 ##### Eastern Cape
 ### [ A rural community in the Eastern Cape in South Africa lays claim to the entire town of Mthatha in one of the biggest land restitution cases since the end of apartheid. ](/news/2009/07/27/a-rural-community-in-the-eastern-cape-in-south-africa-lays-claim-to-the-entire-town-of-mthatha-in-one-of-the-biggest-land-restitution-cases.md)

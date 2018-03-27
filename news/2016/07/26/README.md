@@ -25,7 +25,7 @@ John Elferink is sacked as NT Corrections Minister in the wake of the damning Fo
 ### [New York City Police Commissioner Bill Bratton announces the arraignment of three suspects in the theft of more than $5 million in cash and valuables, including jewelry and baseball cards, from banks in Brooklyn and Queens, in April and May of this year. ](/news/2016/07/26/new-york-city-police-commissioner-bill-bratton-announces-the-arraignment-of-three-suspects-in-the-theft-of-more-than-5-million-in-cash-and.md)
 Three suspected burglars who stole millions of dollars from two New York banks were caught after using a personal credit card to buy the tools of their trade, authorities said.
 
-##### Donald Trump
+##### Trump
 ### [The children's music group USA Freedom Kids plans to sue the campaign of Donald Trump. ](/news/2016/07/26/the-children-s-music-group-usa-freedom-kids-plans-to-sue-the-campaign-of-donald-trump.md)
 Jeff Popick says that the campaign failed to live up to promises it made to him.
 

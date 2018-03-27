@@ -19,7 +19,7 @@ There were seven &quot;potentially serious&quot; incidents when the new NHS 111 
 ### [A train carrying toxic flammable chemicals derails and causes a major fire near the Belgian town of Wetteren, killing two and wounding forty-nine. ](/news/2013/05/4/a-train-carrying-toxic-flammable-chemicals-derails-and-causes-a-major-fire-near-the-belgian-town-of-wetteren-killing-two-and-wounding-forty.md)
 Two people die and 14 others are injured as a train carrying toxic and flammable chemicals derails, causing a major fire near the Belgian city of Ghent.
 
-##### Chinese
+##### China
 ### [Hundreds of protestors gather in Chinese cities to rally against planned large-scale industrial projects. ](/news/2013/05/4/hundreds-of-protestors-gather-in-chinese-cities-to-rally-against-planned-large-scale-industrial-projects.md)
 China’s largest oil producer defended plans for a chemical plant in southwestern Sichuan province, saying it will improve air quality by providing higher-standard oil products and curbing car-emission pollutants.
 

@@ -29,7 +29,7 @@ _Context: Pakistan, Pakistan Army, Taliban, War in North-West Pakistan, militant
 
 ##### Police
 ### [ Police and protesters battle during May Day demonstrations in Germany, Greece, and Turkey. ](/news/2009/05/1/police-and-protesters-battle-during-may-day-demonstrations-in-germany-greece-and-turkey.md)
-_Context: Germany, Greece, May Day, Police, Turkey, battle, demonstration, protest_
+_Context: Germany, Greece, May Day, Police, Turkish, battle, demonstration, protest_
 
 ## [Previous Day...](/news/2009/04/30/index.md)
 

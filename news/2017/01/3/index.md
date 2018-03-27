@@ -13,7 +13,7 @@ The president-elect took to Twitter to criticize the move against an independent
 
 ##### Presidential transition of Donald Trump
 ### [U.S. President-elect Donald Trump says that Robert Lighthizer will be the country's chief trade negotiator. ](/news/2017/01/3/u-s-president-elect-donald-trump-says-that-robert-lighthizer-will-be-the-country-s-chief-trade-negotiator.md)
-_Context: Donald Trump, Presidential transition of Donald Trump, Robert Lighthizer_
+_Context: Presidential transition of Donald Trump, Robert Lighthizer, Trump_
 
 ##### 2017 Kidapawan jail siege
 ### [More than 100 prisoners escape in the Philippines after armed suspected Muslim rebels storm a prison in Kidapawan. A prison guard dies. ](/news/2017/01/3/more-than-100-prisoners-escape-in-the-philippines-after-armed-suspected-muslim-rebels-storm-a-prison-in-kidapawan-a-prison-guard-dies.md)

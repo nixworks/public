@@ -5,7 +5,7 @@ Formats: [HTML](2013/11/23/index.html)  [JSON](2013/11/23/index.json)  [XML](201
 
 ##### Egypt
 ### [Egypt expels the Turkish ambassador, citing "interference". ](/news/2013/11/23/egypt-expels-the-turkish-ambassador-citing-interference.md)
-_Context: Egypt, Turkey, expels_
+_Context: Egypt, Turkish, expels_
 
 ##### Several world powers
 ### [P5+1 foreign ministers meet in Geneva for talks on Iran's nuclear program. ](/news/2013/11/23/p5-1-foreign-ministers-meet-in-geneva-for-talks-on-iran-s-nuclear-program.md)
@@ -27,7 +27,7 @@ Gunmen killed 12 people in a raid on a northeastern Nigerian village on Saturday
 ### [A car bomb and a suicide bomber kills nine people and wounds 54. ](/news/2013/11/23/a-car-bomb-and-a-suicide-bomber-kills-nine-people-and-wounds-54.md)
 A car bomb and a suicide bomber killed at least nine people and wounded 54 in northern Iraq on Saturday, police and medical sources said, in the latest of a wave of attacks in crowded public places.
 
-##### Chinese
+##### China
 ### [China delimits an "air-defence identification zone" over an area of the East China Sea, covering Diaoyu-Senkaku Islands, also claimed by Japan. ](/news/2013/11/23/china-delimits-an-air-defence-identification-zone-over-an-area-of-the-east-china-sea-covering-diaoyu-senkaku-islands-also-claimed-by-jap.md)
 China extends its national defence perimeter to include islands in the East China Sea also claimed by Japan, which has protested at an &quot;escalation&quot;.
 

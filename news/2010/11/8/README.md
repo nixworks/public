@@ -55,9 +55,9 @@ Israel reveals plans to build nearly 1,300 housing units for Jewish settlers in 
 ### [The Obama administration bans cargo shipments from Somalia in the wake of the Yemen bomb attacks. ](/news/2010/11/8/the-obama-administration-bans-cargo-shipments-from-somalia-in-the-wake-of-the-yemen-bomb-attacks.md)
 _Context: Obama administration, Somalia, Yemen bomb attacks_
 
-##### U.S. President
+##### President
 ### [President of the United States Barack Obama backs a permanent seat for India on the UN Security Council. ](/news/2010/11/8/president-of-the-united-states-barack-obama-backs-a-permanent-seat-for-india-on-the-un-security-council.md)
-_Context: Barack Obama, U.S. President, UN Security Council_
+_Context: Barack Obama, President, UN Security Council_
 
 ##### Kimberley Process
 ### [The annual meeting of the Kimberley Process closes in Jerusalem without finding a solution to the issue of "blood diamond" exports from the Marange diamond fields of Zimbabwe. ](/news/2010/11/8/the-annual-meeting-of-the-kimberley-process-closes-in-jerusalem-without-finding-a-solution-to-the-issue-of-ablood-diamonda-exports-from.md)

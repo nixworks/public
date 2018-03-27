@@ -23,9 +23,9 @@ A $13.4 billion loan to General Motors and Chrysler may be followed by $4 billio
 ### [ Rangzieb Ahmed, the highest-ranked al-Qaeda operative in the United Kingdom, becomes the first person convicted of the charge of directing terrorism. ](/news/2008/12/19/rangzieb-ahmed-the-highest-ranked-al-qaeda-operative-in-the-united-kingdom-becomes-the-first-person-convicted-of-the-charge-of-directing.md)
 _Context: Rangzieb Ahmed, United Kingdom, al-Qaeda, terrorism_
 
-##### U.S. President
+##### President
 ### [ U.S. President George W. Bush's administration files a trade case to the World Trade Organization against the People's Republic of China over the alleged use of export subsidies to promote Chinese-made goods. ](/news/2008/12/19/u-s-president-george-w-bush-s-administration-files-a-trade-case-to-the-world-trade-organization-against-the-people-s-republic-of-china-ov.md)
-_Context: Bush Administration, China, George W. Bush, U.S. President, World Trade Organization, export, subsidies_
+_Context: Bush Administration, China, George W. Bush, President, World Trade Organization, export, subsidies_
 
 ##### Republican
 ### [ Republican Party Representative Ray LaHood of Illinois is nominated as the next Secretary of Transportation. ](/news/2008/12/19/republican-party-representative-ray-lahood-of-illinois-is-nominated-as-the-next-secretary-of-transportation.md)

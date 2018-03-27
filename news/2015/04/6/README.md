@@ -25,7 +25,7 @@ An explosion hit part of an oilstorage facility on Monday at Dragon Aromatics, a
 
 ##### Tweeting
 ### [Twitter and YouTube are both inaccessible for hours in Turkey; part of a crack-down on social media by the government there. ](/news/2015/04/6/twitter-and-youtube-are-both-inaccessible-for-hours-in-turkey-part-of-a-crack-down-on-social-media-by-the-government-there.md)
-_Context: Turkey, YouTube, social media, tweeting_
+_Context: Turkish, YouTube, social media, tweeting_
 
 ## [Previous Day...](/news/2015/04/5/index.md)
 

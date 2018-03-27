@@ -13,7 +13,7 @@ A mother and daughter have been arrested by police following the daylight shooti
 
 ##### European Court of Human Rights
 ### [The European Court of Human Rights orders Turkey to pay $124 million in compensation for the 1974 Turkish invasion of Cyprus, which established the internationally unrecognized state of Turkish Republic of Northern Cyprus. ](/news/2014/05/12/the-european-court-of-human-rights-orders-turkey-to-pay-124-million-in-compensation-for-the-1974-turkish-invasion-of-cyprus-which-establis.md)
-_Context: European Court of Human Rights, Northern Cyprus, Turkey, Turkish invasion of Cyprus_
+_Context: European Court of Human Rights, Northern Cyprus, Turkish, Turkish invasion of Cyprus_
 
 ##### European Central Bank
 ### [The European Central Bank has watered down standards for an ongoing review of Europe's banks, waiving deadlines and some data requests, according to a Reuters report based on "sources familiar with the process." ](/news/2014/05/12/the-european-central-bank-has-watered-down-standards-for-an-ongoing-review-of-europe-s-banks-waiving-deadlines-and-some-data-requests-acco.md)

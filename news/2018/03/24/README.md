@@ -15,7 +15,7 @@ Student-led March For Our Lives events nationwide draw hundreds of thousands of 
 ### [A car is deliberately driven into a group of schoolgirls in Glasgow, Scotland, injuring five. Police launch an attempted murder probe. ](/news/2018/03/24/a-car-is-deliberately-driven-into-a-group-of-schoolgirls-in-glasgow-scotland-injuring-five-police-launch-an-attempted-murder-probe.md)
 A teenage girl is in a serious condition after the attempted murder in the Castlemilk area of Glasgow.
 
-##### Poisoning of Sergei and Yulia Skripal
+##### Attempted murder
 ### [A friend of poisoned exiled Russian spy Sergei Skripal claims Skripal had written to Vladimir Putin asking to return to Russia. Russia denies receiving such a letter. ](/news/2018/03/24/a-friend-of-poisoned-exiled-russian-spy-sergei-skripal-claims-skripal-had-written-to-vladimir-putin-asking-to-return-to-russia-russia-denie.md)
 The devices’ GPS signals, which help identify where someone is, were not in operation for several hours - leaving police struggling to piece together their movements.
 
@@ -40,7 +40,7 @@ John Cena hosted the awards show, which aired live Saturday on Nickelodeon.
  CAIRO (AP) — Egyptian authorities arrested a British journalist and expelled her from the country after threatening her with a military trial, The Times said on Saturday. The move
 
 ##### Terrorism in Greece
-### [An Afghan community center is burned down in Athens, Greece. An extreme far-right group claims responsibility, and the United Nations condemns the attack. ](/news/2018/03/24/an-afghan-community-center-is-burned-down-in-athens-greece-an-extreme-far-right-group-claims-responsibility-and-the-united-nations-condem.md)
+### [An Afghan community centre is burned down in Athens, Greece. An extreme far-right group claims responsibility, and the United Nations condemns the attack. ](/news/2018/03/24/an-afghan-community-centre-is-burned-down-in-athens-greece-an-extreme-far-right-group-claims-responsibility-and-the-united-nations-condem.md)
 A little-known extreme right-wing group has claimed responsibility for an arson attack on an Afghan community center in central Athens that caused significant damage, but no injuries. A group calling itself Krypteia claimed responsibility in a call to a Greek news website on Friday. ...
 
 ##### Saudi Arabian-led intervention in Yemen

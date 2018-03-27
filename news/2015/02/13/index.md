@@ -33,7 +33,7 @@ At least 16 were killed and 30 injured in a collision between a freight train an
 
 ##### Fitch Ratings
 ### [Fitch Ratings downgrades Ukraine's credit rating to junk bond status predicting it is likely to default on its debts. ](/news/2015/02/13/fitch-ratings-downgrades-ukraine-s-credit-rating-to-junk-bond-status-predicting-it-is-likely-to-default-on-its-debts.md)
-_Context: Fitch Ratings, Ukrainian, credit rating, junk bond_
+_Context: Fitch Ratings, Ukraine, credit rating, junk bond_
 
 ##### Boko Haram insurgency
 ### [Boko Haram militants attack Chad for the first time after 30 fighters crossed Lake Chad in four motorboats and attacked the village of Ngouboua. Chad recently joined Nigeria, Niger, and Cameroon in a military coalition against Boko Haram. ](/news/2015/02/13/boko-haram-militants-attack-chad-for-the-first-time-after-30-fighters-crossed-lake-chad-in-four-motorboats-and-attacked-the-village-of-ngoub.md)

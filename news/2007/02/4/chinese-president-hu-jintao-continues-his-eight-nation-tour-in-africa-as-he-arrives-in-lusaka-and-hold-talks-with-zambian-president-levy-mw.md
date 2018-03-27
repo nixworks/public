@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/02/4/chinese-president-hu-jintao-continues-his-eight-
 
 ### [2007-02-4](/news/2007/02/4/index.md)
 
-##### Chinese
+##### China
 #  Chinese President Hu Jintao continues his eight-nation tour in Africa as he arrives in Lusaka and hold talks with Zambian President Levy Mwanawasa. President Hu launched a copper mining partnership with Zambia and promised more in aid. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

@@ -27,9 +27,9 @@ _Context: Central America, Mexican Drug War, Mexican marines, San Fernando, Tama
 ### [Wikileaks publishes a CIA analysis claiming that the United States could be perceived as an "exporter of terrorism". ](/news/2010/08/25/wikileaks-publishes-a-cia-analysis-claiming-that-the-united-states-could-be-perceived-as-an-exporter-of-terrorism.md)
 _Context: CIA, United States, Wikileaks, terrorism_
 
-##### U.S. President
+##### President
 ### [The former President of the United States Jimmy Carter arrives in North Korea to negotiate for the release of United States citizen Aijalon Gomes. ](/news/2010/08/25/the-former-president-of-the-united-states-jimmy-carter-arrives-in-north-korea-to-negotiate-for-the-release-of-united-states-citizen-aijalon.md)
-_Context: Aijalon Gomes, Jimmy Carter, North Korea, U.S. President, United States_
+_Context: Aijalon Gomes, Jimmy Carter, North Korea, President, United States_
 
 ##### Hurricane
 ### [Hurricane Danielle strengthens to Category 2 on the Saffir-Simpson Hurricane Scale and heads towards Bermuda. ](/news/2010/08/25/hurricane-danielle-strengthens-to-category-2-on-the-saffirasimpson-hurricane-scale-and-heads-towards-bermuda.md)

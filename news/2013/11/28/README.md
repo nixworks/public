@@ -3,9 +3,9 @@ Formats: [HTML](2013/11/28/index.html)  [JSON](2013/11/28/index.json)  [XML](201
 
 ## [2013-11-28](/news/2013/11/28/index.md)
 
-##### Chinese
+##### China
 ### [China's first lunar vehicle is named 'YuTu' (Chinese:"Yu Tu ", a pet rabbit of Moon goddess in Chinese myth "see Jade rabbit") and is planned to launch from Xichang Satellite Launch Center before December 10, 2013. ](/news/2013/11/28/china-s-first-lunar-vehicle-is-named-yutu-chinese-ca-a-pet-rabbit-of-moon-goddess-in-chinese-myth-see-jade-rabbit-and-is-planne.md)
-_Context: Chinese, Jade rabbit, Xichang Satellite Launch Center_
+_Context: China, Jade rabbit, Xichang Satellite Launch Center_
 
 ##### Prime Minister
 ### [The Prime Minister of Thailand Yingluck Shinawatra survives a no-confidence vote in the Parliament amidst street protests. ](/news/2013/11/28/the-prime-minister-of-thailand-yingluck-shinawatra-survives-a-no-confidence-vote-in-the-parliament-amidst-street-protests.md)

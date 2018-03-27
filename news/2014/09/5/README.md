@@ -19,7 +19,7 @@ Bennett and Horace Helps
 ### [The Pentagon confirms that leader of the terrorist group al-Shabaab Moktar Ali Zubeyr was killed in an airstrike on September 1. ](/news/2014/09/5/the-pentagon-confirms-that-leader-of-the-terrorist-group-al-shabaab-moktar-ali-zubeyr-was-killed-in-an-airstrike-on-september-1.md)
 The Pentagon confirmed on Friday that Ahmed Abdi Godane, a leader of the al Shabaab Islamist group, was killed in a U.S. airstrike in Somalia this week, calling it a &quot;major symbolic and operational loss&quot; for the al Qaeda-affiliated militants.
 
-##### Ukrainian
+##### Ukraine
 ### [The government of Ukraine and pro-Russian rebels agree to a cease-fire, fighting continues after the announcement. ](/news/2014/09/5/the-government-of-ukraine-and-pro-russian-rebels-agree-to-a-cease-fire-fighting-continues-after-the-announcement.md)
 Ukraine and pro-Russian rebels reached a ceasefire agreement on Friday, the first step toward ending fighting in eastern Ukraine that has caused the worst standoff between Moscow and the West since the Cold War ended.
 

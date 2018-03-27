@@ -59,7 +59,7 @@ _Context: Christian, Iran, Jesus, Lebanese_
 ### [Sierra Leone's human rights commission asks South Africa to return "blood diamonds" allegedly given to Naomi Campbell. ](/news/2010/08/13/sierra-leone-s-human-rights-commission-asks-south-africa-to-return-blood-diamonds-allegedly-given-to-naomi-campbell.md)
 Officials in Sierra Leone ask for the return of diamonds allegedly given by Charles Taylor to supermodel Naomi Campbell.
 
-##### U.S. President
+##### President
 ### [President of the United States Barack Obama signs a bill increasing security along his country's border with Mexico. ](/news/2010/08/13/president-of-the-united-states-barack-obama-signs-a-bill-increasing-security-along-his-country-s-border-with-mexico.md)
 President Barack Obama signs into law a bill to increase security along the US-Mexico border, a day after it was passed by the Senate.
 

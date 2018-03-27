@@ -29,7 +29,7 @@ _Context: Chile, Maracaibo, police_
 
 ##### Nazi
 ### [Nazi war criminal John Demjanjuk, convicted of accessory to the murder of 27,900 Jews during The Holocaust, dies at the age of 91. ](/news/2012/03/17/nazi-war-criminal-john-demjanjuk-convicted-of-accessory-to-the-murder-of-27-900-jews-during-the-holocaust-dies-at-the-age-of-91.md)
-_Context: Holocaust, Jewish, John Demjanjuk, Nazi_
+_Context: Holocaust survivor, Jewish, John Demjanjuk, Nazi_
 
 ##### London
 ### [London's Metropolitan Police are investigating an attempted break-in at the British Houses of Parliament on Friday evening. ](/news/2012/03/17/london-s-metropolitan-police-are-investigating-an-attempted-break-in-at-the-british-houses-of-parliament-on-friday-evening.md)
@@ -43,7 +43,7 @@ The two men convicted of the April 2011 Minsk subway bombing have been executed 
 ### [Mauritania's state information agency announces that Abdullah Senussi, Muammar Gaddafi's former intelligence chief, has been arrested at the airport in Nouakchott upon arrival from Morocco. ](/news/2012/03/17/mauritania-s-state-information-agency-announces-that-abdullah-senussi-muammar-gaddafi-s-former-intelligence-chief-has-been-arrested-at-the.md)
 _Context: Abdullah Senussi, Mauritanian, Morocco, Muammar Gaddafi, Nouakchott_
 
-##### Chinese
+##### China
 ### [China expresses concern at North Korea's intention to launch a satellite next month to mark the centenary of founder Kim Il-sung's birth. ](/news/2012/03/17/china-expresses-concern-at-north-korea-s-intention-to-launch-a-satellite-next-month-to-mark-the-centenary-of-founder-kim-il-sung-s-birth.md)
 Beijing adds voice to international concern and urges restraint after Pyongyang announces plans to launch satellite.
 
@@ -65,7 +65,7 @@ _Context: Pope Benedict XVI, corruption_
 
 ##### Tibet
 ### [A Tibetan monk sets himself on fire in southwest China, in the latest in a series of similar incidents where nearly 30 monks have now self-immolated. ](/news/2012/03/17/a-tibetan-monk-sets-himself-on-fire-in-southwest-china-in-the-latest-in-a-series-of-similar-incidents-where-nearly-30-monks-have-now-self-i.md)
-_Context: Chinese, Tibet, self-immolated_
+_Context: China, Tibet, self-immolated_
 
 ##### Government of Syria
 ### [At least two bombings are reported of government facilities in the Syrian capital Damascus with several police and civilians reported dead. ](/news/2012/03/17/at-least-two-bombings-are-reported-of-government-facilities-in-the-syrian-capital-damascus-with-several-police-and-civilians-reported-dead.md)

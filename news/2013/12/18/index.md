@@ -31,7 +31,7 @@ _Context: United Nations_
 ### [At least two winners in the US$636 million jackpot are thought to have won, with one in Stone Mountain, Georgia, and another in San Jose, California. ](/news/2013/12/18/at-least-two-winners-in-the-us-636-million-jackpot-are-thought-to-have-won-with-one-in-stone-mountain-georgia-and-another-in-san-jose-ca.md)
 _Context: San Jose, California, Stone Mountain, Georgia_
 
-##### Chinese
+##### China
 ### [China launches a crackdown against the internet currency BitCoin, plunging its value by 35%. ](/news/2013/12/18/china-launches-a-crackdown-against-the-internet-currency-bitcoin-plunging-its-value-by-35.md)
 BTC China, the nation’s largest Bitcoin operator, stopped accepting customer deposits amid a central bank clampdown on use of the digital currency, sending prices plunging as much as 35 percent.
 

@@ -13,7 +13,7 @@ President&rsquo;s Rule will be revoked in Telangana but remain imposed in the Se
 
 ##### Military coup
 ### [The Royal Thai Armed Forces deploy against major protests planned for today but a small protest goes ahead outside a shopping mall in central Bangkok. ](/news/2014/06/1/the-royal-thai-armed-forces-deploy-against-major-protests-planned-for-today-but-a-small-protest-goes-ahead-outside-a-shopping-mall-in-centra.md)
-_Context: Bangkok, military, military coup, shopping center_
+_Context: Bangkok, military, military coup, shopping centre_
 
 ##### Heathrow Airport
 ### [A teenager is arrested at Heathrow Airport in England in relation to suspected involvement in Syrian-related terrorism. ](/news/2014/06/1/a-teenager-is-arrested-at-heathrow-airport-in-england-in-relation-to-suspected-involvement-in-syrian-related-terrorism.md)

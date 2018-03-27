@@ -29,7 +29,7 @@ _Context: Abu Mazen, Ariel Sharon, Egypt, Jordan, Palestinian Authority, Prime M
 
 ##### Jerusalem
 ### [ Jerusalem-Israel: Horst Kohler, President of Germany, has a special audience in the Knesset, the highest chamber of Israel. Speaking in German, he says that Germany has to fight more aggressively against anti-semitism and far-right parties. ](/news/2005/02/2/jerusalem-israel-horst-kaphler-president-of-germany-has-a-special-audience-in-the-knesset-the-highest-chamber-of-israel-speaking-in-ge.md)
-_Context: German language, Germany, Horst Kohler, Israel, Jerusalem, anti-semitic, parliament in Israel_
+_Context: German language, Germany, Horst Kohler, Israel, Jerusalem, adherence to a religion, parliament in Israel_
 
 ##### Star Trek: Enterprise
 ### [ The cancellation of "Star Trek: Enterprise" is announced, marking the end of 18 consecutive years of "Star Trek" on television. ](/news/2005/02/2/the-cancellation-of-star-trek-enterprise-is-announced-marking-the-end-of-18-consecutive-years-of-star-trek-on-television.md)
@@ -43,9 +43,9 @@ _Context: Germany, Great Depression, Weimar Republic, unemployment_
 ### [ A former secret U.S. military investigative report on Guantanamo Bay is revealed to conclude there is no evidence of systemic detainee abuse but cited several cases of questionable physical force documented on videotape. Prisoners released have stated abuse is commonplace, and one former U.S. National Guardsman received brain damage after being beaten while posing undercover as a rowdy detainee. All Freedom of Information Act requests by the ACLU for video and photographs depicting detainee treatment have been denied. ](/news/2005/02/2/a-former-secret-u-s-military-investigative-report-on-guantanamo-bay-is-revealed-to-conclude-there-is-no-evidence-of-systemic-detainee-abus.md)
 Breaking News, data &amp; opinions in business, sports, entertainment, travel, lifestyle, plus much more. Newsday.com is the leading news source for Long Island &amp; NYC.
 
-##### U.S. President
+##### President
 ### [ President of the United States George W. Bush delivers his 2005 State of the Union address. The section on Social Security reform is booed by some members of Congress, a very rare show of open disdain for the President during such a speech. ](/news/2005/02/2/president-of-the-united-states-george-w-bush-delivers-his-2005-state-of-the-union-address-the-section-on-social-security-reform-is-booed.md)
-_Context: George W. Bush, President, Social Security, State of the Union, U.S. President_
+_Context: George W. Bush, President, President, Social Security, State of the Union_
 
 ##### Irish Republican Army
 ### [ The IRA withdraws its weapons decommissioning offer because of claims that the organisation is connected to a Belfast bank raid last December in which GBP26.5m was stolen. ](/news/2005/02/2/the-ira-withdraws-its-weapons-decommissioning-offer-because-of-claims-that-the-organisation-is-connected-to-a-belfast-bank-raid-last-decemb.md)

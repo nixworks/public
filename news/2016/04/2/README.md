@@ -21,7 +21,7 @@ _Context: President of Vietnam, Tran Dai Quang_
 
 ##### 2016 U.S. election
 ### [The Republican National Committeeman for North Dakota, Curly Haugland, says that the likelihood for outsiders such as Donald Trump to get state electoral votes are slim as the party honor its own elders. ](/news/2016/04/2/the-republican-national-committeeman-for-north-dakota-curly-haugland-says-that-the-likelihood-for-outsiders-such-as-donald-trump-to-get-st.md)
-_Context: 2016 U.S. election, Curly Haugland, Donald Trump, Republican National Committee, Republican Party presidential candidates, 2016_
+_Context: 2016 U.S. election, Curly Haugland, Republican National Committee, Republican Party presidential candidates, 2016, Trump_
 
 ##### India
 ### [Indian women's rights activists are barred by angry villagers and local authorities from entering Shani Shingnapur temple despite a court ruling guaranteeing access. Breaking with a centuries-old tradition, the high court in Mumbai ruled women have a fundamental right to enter Hindu temples across the state of Maharashtra, and the government has the responsibility to protect their rights. Bhumata Ranragini Brigade leader Trupti Desai and 25 other supporters were detained by police. All India Mahila Congress President Shobha Oza and Delhi Commission for Women chairwoman Swati Maliwal called the actions of locals and authorities "completely shameful." ](/news/2016/04/2/indian-women-s-rights-activists-are-barred-by-angry-villagers-and-local-authorities-from-entering-shani-shingnapur-temple-despite-a-court-ru.md)

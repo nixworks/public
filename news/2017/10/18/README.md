@@ -9,7 +9,7 @@ Ukrainian riot police clash with Maidan-style protesters at camp in Kiev, tear g
 
 ##### 19th National Congress of the Communist Party of China
 ### [ China's leader and Party General Secretary Xi Jinping addresses more than 2,000 delegates in Beijing. The congress is expected to finish next week. ](/news/2017/10/18/china-s-leader-and-party-general-secretary-xi-jinping-addresses-more-than-2-000-delegates-in-beijing-the-congress-is-expected-to-finish-ne.md)
-_Context: 19th National Congress of the Communist Party of China, Beijing, Chinese, Communist Party of China, General Secretary of the Communist Party of China, Xi Jinping, paramount leader_
+_Context: 19th National Congress of the Communist Party of China, Beijing, China, Communist Party of China, General Secretary of the Communist Party of China, Xi Jinping, paramount leader_
 
 ##### Law in Quebec
 ### [The Quebec National Assembly passes legislation banning individuals who cover their faces to receive or give public services, including riding public buses. ](/news/2017/10/18/the-quebec-national-assembly-passes-legislation-banning-individuals-who-cover-their-faces-to-receive-or-give-public-services-including-ridi.md)

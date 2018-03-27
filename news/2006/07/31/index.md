@@ -21,7 +21,7 @@ _Context: Fradique de Menezes, So Tom and Prncipe, presidential election_
 
 ##### Tony Blair
 ### [ Tony Blair and Arnold Schwarzenegger have announced their intention to collaborate to decrease carbon emissions and fight global warming. Their plan includes incentives for companies which limit their carbon emissions, among other carbon-limiting measures. Schwarzenegger has shown interest in a ban on excessive carbon emissions, which is directly in opposition to statements made by President George W. Bush. ](/news/2006/07/31/tony-blair-and-arnold-schwarzenegger-have-announced-their-intention-to-collaborate-to-decrease-carbon-emissions-and-fight-global-warming-t.md)
-_Context: Arnold Schwarzenegger, George W. Bush, Tony Blair, U.S. President, carbon emissions, global warming_
+_Context: Arnold Schwarzenegger, George W. Bush, President, Tony Blair, carbon emissions, global warming_
 
 ##### Syria
 ### [ Syrian President Bashar al-Assad told the Syrian military on Monday to raise its readiness, pledging not to abandon support for Lebanese resistance against Israel. ](/news/2006/07/31/syrian-president-bashar-al-assad-told-the-syrian-military-on-monday-to-raise-its-readiness-pledging-not-to-abandon-support-for-lebanese-re.md)

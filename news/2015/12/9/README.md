@@ -41,7 +41,7 @@ _Context: Angela Merkel, Time, Time Person of the Year_
 
 ##### Iraqi Civil War (2014-present)
 ### [Turkey calls on all its citizens to leave all areas of Iraq except Iraqi Kurdistan, due to "increased security risks". ](/news/2015/12/9/turkey-calls-on-all-its-citizens-to-leave-all-areas-of-iraq-except-iraqi-kurdistan-due-to-increased-security-risks.md)
-_Context: Iraq, Iraqi Civil War (2014-present), Kurdistan Region, Turkey_
+_Context: Iraq, Iraqi Civil War (2014-present), Kurdistan Region, Turkish_
 
 ##### Nagorno-Karabakh conflict
 ### [Azeri tanks on the front line shell military positions in the breakaway Nagorno-Karabakh Republic for the first time since a Russian-brokered ceasefire ended fighting in 1994. At least one Nagorno-Karabakh Defense Army soldier is killed. ](/news/2015/12/9/azeri-tanks-on-the-front-line-shell-military-positions-in-the-breakaway-nagorno-karabakh-republic-for-the-first-time-since-a-russian-brokere.md)

@@ -19,7 +19,7 @@ _Context: California, LA Unified School District, Los Angeles, Rafe Esquith_
 ### [The United States confirms Iran tested a medium-range missile capable of delivering a nuclear weapon, in "clear violation" of a United Nations Security Council ban on ballistic missile tests. ](/news/2015/10/16/the-united-states-confirms-iran-tested-a-medium-range-missile-capable-of-delivering-a-nuclear-weapon-in-clear-violation-of-a-united-natio.md)
 The United States has confirmed that Iran tested a medium-range missile capable of delivering a nuclear weapon, in &quot;clear violation&quot; of a United Nations Security Council ban on ballistic missile tests, a senior U.S. official said on Friday.
 
-##### Chinese
+##### China
 ### [China hosts the ministers of defense from the Association of Southeast Asian Nations (ASEAN). During the meeting a Chinese defense official suggests joint maritime drills between the host and ASEAN. At the same time, it is widely expected that U.S. Navy vessels may soon sail within 12 nautical miles of islands China is constructing upon reefs and atolls in the South China Sea. ](/news/2015/10/16/china-hosts-the-ministers-of-defense-from-the-association-of-southeast-asian-nations-asean-during-the-meeting-a-chinese-defense-official.md)
 China proposes joint maritime drills with South East Asian nations in the hotly contested South China Sea in 2016.
 
@@ -53,7 +53,7 @@ Appeals court brushes off Authors Guild, says snippet searches are just fine
 
 ##### Spillover of the Syrian Civil War
 ### [Turkey says it has shot down a drone near the Syrian border after it failed to leave Turkish airspace. ](/news/2015/10/16/turkey-says-it-has-shot-down-a-drone-near-the-syrian-border-after-it-failed-to-leave-turkish-airspace.md)
-_Context: Spillover of the Syrian Civil War, Syrian border, Turkey, drone_
+_Context: Spillover of the Syrian Civil War, Syrian border, Turkish, drone_
 
 ##### The battle for Aleppo
 ### [Syrian Army forces supported by Russian planes attack insurgents south of the city of Aleppo. ](/news/2015/10/16/syrian-army-forces-supported-by-russian-planes-attack-insurgents-south-of-the-city-of-aleppo.md)

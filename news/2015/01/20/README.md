@@ -5,7 +5,7 @@ Formats: [HTML](2015/01/20/index.html)  [JSON](2015/01/20/index.json)  [XML](201
 
 ##### 2015 State of the Union Address
 ### [The President of the United States Barack Obama delivers a State of the Union address to the United States Congress. ](/news/2015/01/20/the-president-of-the-united-states-barack-obama-delivers-a-state-of-the-union-address-to-the-united-states-congress.md)
-_Context: 2015 State of the Union Address, Barack Obama, Congress, State of the Union, U.S. President_
+_Context: 2015 State of the Union Address, Barack Obama, Congress, President, State of the Union_
 
 ##### Zambian presidential election
 ### [Voters in Zambia go to the polls for a presidential election following the October 2014 death of incumbent President Michael Sata. Defence Minister Edgar Lungu (the Patriotic Front) and Hakainde Hichilema (the United Party for National Development) seek the office. ](/news/2015/01/20/voters-in-zambia-go-to-the-polls-for-a-presidential-election-following-the-october-2014-death-of-incumbent-president-michael-sata-defence-m.md)

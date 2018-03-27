@@ -19,13 +19,13 @@ NASA&#039;s Mars rover Curiosity has seen evidence of water-bearing minerals in 
 ### [Hundreds of thousands of people attend the papal inauguration ceremony for Pope Francis in Rome's Saint Peter's Square. ](/news/2013/03/19/hundreds-of-thousands-of-people-attend-the-papal-inauguration-ceremony-for-pope-francis-in-rome-s-saint-peter-s-square.md)
 Pope Francis inaugurates his papacy at a Mass in Rome, calling on global leaders and all people of the world to defend the poor and the weak.
 
-##### Ukrainian
+##### Ukraine
 ### [In Ukraine, a fight breaks out during a session of the Verkhovna Rada over the use of the Russian language in politics. ](/news/2013/03/19/in-ukraine-a-fight-breaks-out-during-a-session-of-the-verkhovna-rada-over-the-use-of-the-russian-language-in-politics.md)
 There are ugly scenes in Ukraine&#039;s parliament as fighting breaks out for the third time in less than a year.
 
 ##### Civil defense
 ### [Benjamin Pierce Bishop, a civil defense contractor who works in intelligence, was charged with giving U.S. national security secrets his Chinese girlfriend. ](/news/2013/03/19/benjamin-pierce-bishop-a-civil-defense-contractor-who-works-in-intelligence-was-charged-with-giving-u-s-national-security-secrets-his-chi.md)
-_Context: Chinese, U.S., civil defense, girlfriend, intelligence_
+_Context: China, U.S., civil defense, girlfriend, intelligence_
 
 ##### United States Supreme Court
 ### [The United States Supreme Court holds in a 6&ndash;3 decision that the first-sale doctrine applies to the domestic sale of foreign copies of copyrighted work lawfully made abroad. ](/news/2013/03/19/the-united-states-supreme-court-holds-in-a-6-ndash-3-decision-that-the-first-sale-doctrine-applies-to-the-domestic-sale-of-foreign-copies-of.md)
@@ -59,9 +59,9 @@ _Context: India, Maharashtra, bus_
 ### [2012-2013 Cypriot financial crisis: Cypriot lawmakers overwhelmingly reject the EC-ECB-IMF troika plan to tax all bank deposits. ](/news/2013/03/19/2012a2013-cypriot-financial-crisis-cypriot-lawmakers-overwhelmingly-reject-the-ecaecbaimf-troika-plan-to-tax-all-bank-deposits.md)
 Cypriot politicians have overwhelmingly rejected a deeply unpopular tax on bank deposits.
 
-##### Turkey
+##### Turkish
 ### [Two people are injured in explosions at Turkey's justice ministry and the headquarters of the governing AK Party in Ankara. ](/news/2013/03/19/two-people-are-injured-in-explosions-at-turkey-s-justice-ministry-and-the-headquarters-of-the-governing-ak-party-in-ankara.md)
-_Context: AK Party, Ankara, Justice Minister, Turkey_
+_Context: AK Party, Ankara, Justice Minister, Turkish_
 
 ##### Bombings
 ### [A series of bombings and shootings kills at least 98 people and injures 240 others across Iraq. ](/news/2013/03/19/a-series-of-bombings-and-shootings-kills-at-least-98-people-and-injures-240-others-across-iraq.md)

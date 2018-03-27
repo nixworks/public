@@ -19,7 +19,7 @@ The UN confirms it has received Syrian documents on joining the Chemical Weapons
 ### [A massive fire burns parts of the boardwalk in Seaside Park, New Jersey. Numerous decades-old buildings are destroyed. ](/news/2013/09/12/a-massive-fire-burns-parts-of-the-boardwalk-in-seaside-park-new-jersey-numerous-decades-old-buildings-are-destroyed.md)
 Get the latest breaking news across the U.S. on ABCNews.com
 
-##### Chinese
+##### China
 ### [The People's Republic of China sets goals for use of coal as part of a comprehensive plan for reducing air pollution. ](/news/2013/09/12/the-people-s-republic-of-china-sets-goals-for-use-of-coal-as-part-of-a-comprehensive-plan-for-reducing-air-pollution.md)
 CHINA-COAL/POLLUTION (URGENT):China sets national coal use target to tackle air pollution
 

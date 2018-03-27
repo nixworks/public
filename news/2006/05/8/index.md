@@ -13,7 +13,7 @@ _Context: Carlo Azeglio Ciampi, Gianni Letta, Italy, President, elected_
 
 ##### Iranian President
 ### [ Iranian President Mahmoud Ahmadinejad writes to United States President George W. Bush. This marks the first time in 27 years that an Iranian President has written to a U.S. President. ](/news/2006/05/8/iranian-president-mahmoud-ahmadinejad-writes-to-united-states-president-george-w-bush-this-marks-the-first-time-in-27-years-that-an-irani.md)
-_Context: George W. Bush, Iranian President, Mahmoud Ahmadinejad, U.S. President_
+_Context: George W. Bush, Iranian President, Mahmoud Ahmadinejad, President_
 
 ##### South Africa
 ### [ Former South African deputy president Jacob Zuma is acquitted of a rape charge; the judge rules that a sexual encounter with a 31-year-old HIV-positive woman was consensual. ](/news/2006/05/8/former-south-african-deputy-president-jacob-zuma-is-acquitted-of-a-rape-charge-the-judge-rules-that-a-sexual-encounter-with-a-31-year-old.md)

@@ -43,9 +43,9 @@ _Context: Azeri, journalist_
 ### [Ugandan ethics minister Simon Lokodo signs a government statement saying that it does not discriminate against homosexuals and that they are free to meet. ](/news/2012/06/22/ugandan-ethics-minister-simon-lokodo-signs-a-government-statement-saying-that-it-does-not-discriminate-against-homosexuals-and-that-they-are.md)
 _Context: Simon Lokodo, Uganda, gay_
 
-##### Chinese
+##### China
 ### [China criticizes Vietnam for passing a law that claims sovereignty of the Spratly Islands. ](/news/2012/06/22/china-criticizes-vietnam-for-passing-a-law-that-claims-sovereignty-of-the-spratly-islands.md)
-_Context: Chinese, Spratly Islands, Vietnam_
+_Context: China, Spratly Islands, Vietnam_
 
 ##### WikiLeaks
 ### [WikiLeaks editor-in-chief Julian Assange gives an interview on Australian radio as his attempt to gain political asylum in Ecuador continues. ](/news/2012/06/22/wikileaks-editor-in-chief-julian-assange-gives-an-interview-on-australian-radio-as-his-attempt-to-gain-political-asylum-in-ecuador-continues.md)
@@ -81,7 +81,7 @@ _Context: Afghanistan, Kabul, NATO, Taliban_
 
 ##### Government forces
 ### [The Syrian military shoots down a Turkish F-4 Phantom fighter jet after it had entered Syrian airpsace over the Mediterranean Sea. ](/news/2012/06/22/the-syrian-military-shoots-down-a-turkish-f-4-phantom-fighter-jet-after-it-had-entered-syrian-airpsace-over-the-mediterranean-sea.md)
-_Context: F-4 Phantom II, Mediterranean Sea, Syria, Turkey, government forces_
+_Context: F-4 Phantom II, Mediterranean Sea, Syria, Turkish, government forces_
 
 ## [Previous Day...](/news/2012/06/21/index.md)
 

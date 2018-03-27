@@ -23,7 +23,7 @@ _Context: Anti-Counterfeiting Trade Agreement, European Parliament_
 ### [The Chinese city of Shifang cancels the planned development of a copper plant after thousands of people demonstrated. ](/news/2012/07/4/the-chinese-city-of-shifang-cancels-the-planned-development-of-a-copper-plant-after-thousands-of-people-demonstrated.md)
 _Context: Shifang, copper_
 
-##### Ukrainian
+##### Ukraine
 ### [Hundreds of protesters clash with police in the Ukrainian capital Kiev and the parliament speaker offers to resign over moves to boost the status of the Russian language in the country. ](/news/2012/07/4/hundreds-of-protesters-clash-with-police-in-the-ukrainian-capital-kiev-and-the-parliament-speaker-offers-to-resign-over-moves-to-boost-the-s.md)
 Hundreds clash with police in central Kiev and parliament speaker offers to resign amid row over language decision.
 
@@ -59,9 +59,9 @@ _Context: Archaeology of Israel, Galilee, Samson, mosaic, synagogue_
 ### [British broadcaster George Entwistle is named as the next Director-General of the BBC, beginning in autumn 2012. ](/news/2012/07/4/british-broadcaster-george-entwistle-is-named-as-the-next-director-general-of-the-bbc-beginning-in-autumn-2012.md)
 Current director of BBC Vision, George Entwistle, is announced as the 15th BBC director general.
 
-##### Chinese
+##### China
 ### [China accuses the Vatican of obstructing the development of Catholicism after the latter threatens to excommunicate new bishops ordained without papal approval. ](/news/2012/07/4/china-accuses-the-vatican-of-obstructing-the-development-of-catholicism-after-the-latter-threatens-to-excommunicate-new-bishops-ordained-wit.md)
-_Context: Catholic faithful, Chinese, Holy See, Pope, excommunicate_
+_Context: Catholic faithful, China, Holy See, Pope, excommunicate_
 
 ##### Iraq
 ### [Eleven people are killed in further unrest in Iraq, including eight people in a bombing of a Baghdad marketplace. ](/news/2012/07/4/eleven-people-are-killed-in-further-unrest-in-iraq-including-eight-people-in-a-bombing-of-a-baghdad-marketplace.md)
@@ -73,7 +73,7 @@ A man shot dead four people including his partner before killing himself in a si
 
 ##### Bashar al Assad
 ### [Syrian President Bashar al Assad accuses neighboring Turkey of supporting "terrorists" and contributing to the bloodshed in Syria. ](/news/2012/07/4/syrian-president-bashar-al-assad-accuses-neighboring-turkey-of-supporting-terrorists-and-contributing-to-the-bloodshed-in-syria.md)
-_Context: Bashar al Assad, Syria, Turkey_
+_Context: Bashar al Assad, Syria, Turkish_
 
 ## [Previous Day...](/news/2012/07/3/index.md)
 

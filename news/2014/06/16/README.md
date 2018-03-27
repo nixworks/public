@@ -7,9 +7,9 @@ Formats: [HTML](2014/06/16/index.html)  [JSON](2014/06/16/index.json)  [XML](201
 ### [Israeli police arrest Aziz Duwaik, Speaker of the Palestinian Legislative Council and Hamas member, during a wave of arrests linked to a manhunt for three kidnapped teenagers. ](/news/2014/06/16/israeli-police-arrest-aziz-duwaik-speaker-of-the-palestinian-legislative-council-and-hamas-member-during-a-wave-of-arrests-linked-to-a-man.md)
 _Context: Aziz Duwaik, Hamas, Israel, Speaker of the Palestinian Legislative Council, three kidnapped teenagers_
 
-##### Chinese
+##### China
 ### [The People's Republic of China sentences three men to death for a deadly attack at Beijing's Tiananmen Square last October. ](/news/2014/06/16/the-people-s-republic-of-china-sentences-three-men-to-death-for-a-deadly-attack-at-beijing-s-tiananmen-square-last-october.md)
-_Context: Beijing, Chinese, Tiananmen Square, last October_
+_Context: Beijing, China, Tiananmen Square, last October_
 
 ##### Warrant
 ### [A warrant is issued for the arrest of Peter O'Neill, Prime Minister of Papua New Guinea, in relation to a fraud case related to alleged payment of millions of dollars in illegal payments to a law firm. The Supreme Court of Papua New Guinea later stays the warrant. ](/news/2014/06/16/a-warrant-is-issued-for-the-arrest-of-peter-o-neill-prime-minister-of-papua-new-guinea-in-relation-to-a-fraud-case-related-to-alleged-paym.md)
@@ -25,7 +25,7 @@ Ukrainians have called Vladimir Putin many bad names, among them a Nazi, a dicta
 
 ##### Russia
 ### [Russia's state-owned gas giant Gazprom says that Ukraine must pay up front for its gas after the country failed to settle its debt. ](/news/2014/06/16/russia-s-state-owned-gas-giant-gazprom-says-that-ukraine-must-pay-up-front-for-its-gas-after-the-country-failed-to-settle-its-debt.md)
-_Context: Gazprom, Russia, Ukrainian_
+_Context: Gazprom, Russia, Ukraine_
 
 ##### Pilger, NE
 ### [June 16-18 Tornado Outbreak begins. Twin EF4 tornadoes devastate northeast Nebraska. A town particularly hit hard being Pilger, NE where a young girl is killed. At night several other tornadoes touch down and one of them, an EF3, tears through the southwest portions of Madison, Wisconsin. ](/news/2014/06/16/june-16-18-tornado-outbreak-begins-twin-ef4-tornadoes-devastate-northeast-nebraska-a-town-particularly-hit-hard-being-pilger-ne-where-a-y.md)
@@ -39,9 +39,9 @@ _Context: Al-Shabab, Kenya, Mpeketoni_
 ### [Violent riots between Muslims and Buddhists rage in the town of Welipitiya, Sri Lanka, leaving 3 dead, 78 injured, and multiple mosques and shops burned or vandalized. ](/news/2014/06/16/violent-riots-between-muslims-and-buddhists-rage-in-the-town-of-welipitiya-sri-lanka-leaving-3-dead-78-injured-and-multiple-mosques-and.md)
 _Context: Buddhists, Muslims, Sri Lanka, Violent riots, Welipitiya, mosques_
 
-##### Ukrainian
+##### Ukraine
 ### [Ukraine's president Petro Poroshenko says he will put forward a detailed peace plan that will include a ceasefire in the conflict. ](/news/2014/06/16/ukraine-s-president-petro-poroshenko-says-he-will-put-forward-a-detailed-peace-plan-that-will-include-a-ceasefire-in-the-conflict.md)
-_Context: Petro Poroshenko, Ukrainian_
+_Context: Petro Poroshenko, Ukraine_
 
 ##### Barrel bomb
 ### [A barrel bomb is dropped from a helicopter in Aleppo, Syria, killing at least 25 people. ](/news/2014/06/16/a-barrel-bomb-is-dropped-from-a-helicopter-in-aleppo-syria-killing-at-least-25-people.md)

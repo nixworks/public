@@ -21,7 +21,7 @@ A former Khmer Rouge prison chief has been handed over to the UN-backed tribunal
 
 ##### Flood
 ### [ Flood alerts are issued for Hubei province in China as the swollen Yangtze River puts the Three Gorges Dam to the test. Another 27 people have died and Beijing's airport was closed on Monday night due to heavy rain. ](/news/2007/07/31/flood-alerts-are-issued-for-hubei-province-in-china-as-the-swollen-yangtze-river-puts-the-three-gorges-dam-to-the-test-another-27-people-h.md)
-_Context: Beijing, Chinese, Flood, Hubei, Three Gorges Dam, Yangtze River_
+_Context: Beijing, China, Flood, Hubei, Three Gorges Dam, Yangtze River_
 
 ##### Bollywood
 ### [ Bollywood actor Sanjay Dutt is jailed for six years, fined Rs. 25,000 and his probation plea rejected on charges of obtaining weapons from gangsters in a case associated with the 1993 Mumbai bombings. ](/news/2007/07/31/bollywood-actor-sanjay-dutt-is-jailed-for-six-years-fined-rs-25-000-and-his-probation-plea-rejected-on-charges-of-obtaining-weapons-from.md)
@@ -57,7 +57,7 @@ _Context: Daniel Ortega, Nicaraguan President, SAM-7, United States, helicopters
 
 ##### Nuradin Abdi
 ### [ Nuradin Abdi, a Somali citizen living in the United States, pleads guilty to providing material support to terrorists in connection with a plot to blow up a shopping mall in Columbus, Ohio. ](/news/2007/07/31/nuradin-abdi-a-somali-citizen-living-in-the-united-states-pleads-guilty-to-providing-material-support-to-terrorists-in-connection-with-a.md)
-_Context: Columbus, Nuradin Abdi, Somalia, United States, shopping center, terrorist_
+_Context: Columbus, Nuradin Abdi, Somalia, United States, shopping centre, terrorist_
 
 ## [Previous Day...](/news/2007/07/30/index.md)
 

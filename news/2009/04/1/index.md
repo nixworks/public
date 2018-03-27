@@ -35,9 +35,9 @@ _Context: G-20, London, announces, protest_
 ### [ At least eight people are killed when a Eurocopter AS332 ditches into the North Sea. ](/news/2009/04/1/at-least-eight-people-are-killed-when-a-eurocopter-as332-ditches-into-the-north-sea.md)
 _Context: Eurocopter AS332, North Sea, ditches_
 
-##### Ukrainian
+##### Ukraine
 ### [ Ukraine will hold a presidential election on October 25. ](/news/2009/04/1/ukraine-will-hold-a-presidential-election-on-october-25.md)
-_Context: Ukrainian, Ukrainian President, election_
+_Context: Ukraine, Ukrainian President, election_
 
 ##### Local government
 ### [ Local government in England undergoes structural changes. ](/news/2009/04/1/local-government-in-england-undergoes-structural-changes.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2016/03/17/index.html)  [JSON](2016/03/17/index.json)  [XML](201
 
 ##### 2016 U.S. election
 ### [Bernie Sanders concedes the Missouri primary to Hillary Clinton, who led by 1,531 votes, 0.2 percent of those counted. Sanders says he will not ask for a recount, an option he had because the result is under the state's requirement, 0.5 percent -- one-half of one percent. The Republican contest is too close to call as Donald Trump leads Ted Cruz by a similar 0.2 percent. ](/news/2016/03/17/bernie-sanders-concedes-the-missouri-primary-to-hillary-clinton-who-led-by-1-531-votes-0-2-percent-of-those-counted-sanders-says-he-will.md)
-_Context: 2016 U.S. election, Bernie Sanders, Democratic Party presidential primaries, 2016, Donald Trump, Hillary Clinton, Missouri, Ted Cruz, primary, recount_
+_Context: 2016 U.S. election, Bernie Sanders, Democratic Party presidential primaries, 2016, Hillary Clinton, Missouri, Ted Cruz, Trump, primary, recount_
 
 ##### Republican Party presidential candidates, 2016
 ### [The hacker group Anonymous follows through on its threat and releases candidate Donald Trump's personal information (unverified) including his Social Security number, his phone numbers, his agent and his legal representatives. ](/news/2016/03/17/the-hacker-group-anonymous-follows-through-on-its-threat-and-releases-candidate-donald-trump-s-personal-information-unverified-including-h.md)

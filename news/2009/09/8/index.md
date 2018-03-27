@@ -33,7 +33,7 @@ _Context: Democratic Republic of Congo, Joshua French and Tjostolv Moland, Norwe
 
 ##### Statue
 ### [ A colossal statue of Apollo is discovered at a UNESCO World Heritage Site at Hierapolis, Turkey. ](/news/2009/09/8/a-colossal-statue-of-apollo-is-discovered-at-a-unesco-world-heritage-site-at-hierapolis-turkey.md)
-_Context: Apollo, Hierapolis, Turkey, UNESCO, statue, world heritage site_
+_Context: Apollo, Hierapolis, Turkish, UNESCO, statue, world heritage site_
 
 ##### Milwaukee
 ### [ Police in Milwaukee, USA, arrest a man in suspicion of being the notorious North Side Strangler, believed to have killed at least seven women between 1986 and 2007. ](/news/2009/09/8/police-in-milwaukee-usa-arrest-a-man-in-suspicion-of-being-the-notorious-north-side-strangler-believed-to-have-killed-at-least-seven-wom.md)

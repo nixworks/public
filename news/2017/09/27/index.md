@@ -45,7 +45,7 @@ Sen. John McCain (R-Ariz.) has urged Trump officials to rethink the decision.
 
 ##### 2017 Kalynivka ammunition depot explosion
 ### [Thirty thousand people are evacuated from Kalynivka, Ukraine, following an explosion in an ammunition dump 180 km southwest of Kiev. The Government of Ukraine blames sabotage. ](/news/2017/09/27/thirty-thousand-people-are-evacuated-from-kalynivka-ukraine-following-an-explosion-in-an-ammunition-dump-180-km-southwest-of-kiev-the-gov.md)
-_Context: 2017 Kalynivka ammunition depot explosion, Government of Ukraine, Kalynivka, Kiev, Ukrainian, sabotage_
+_Context: 2017 Kalynivka ammunition depot explosion, Government of Ukraine, Kalynivka, Kiev, Ukraine, sabotage_
 
 ##### Nuclear weapons
 ### [Russia announces it has completed the destruction of all of its chemical weapons under the terms of the Chemical Weapons Convention. ](/news/2017/09/27/russia-announces-it-has-completed-the-destruction-of-all-of-its-chemical-weapons-under-the-terms-of-the-chemical-weapons-convention.md)

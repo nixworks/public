@@ -5,7 +5,7 @@ Formats: [HTML](2017/01/10/index.html)  [JSON](2017/01/10/index.json)  [XML](201
 
 ##### Presidential transition of Donald Trump
 ### [President-elect Donald Trump appoints businessman and son-in-law Jared Kushner as his senior advisor in the White House. ](/news/2017/01/10/president-elect-donald-trump-appoints-businessman-and-son-in-law-jared-kushner-as-his-senior-advisor-in-the-white-house.md)
-_Context: Donald Trump, Jared Kushner, Presidential transition of Donald Trump, White House_
+_Context: Jared Kushner, Presidential transition of Donald Trump, Trump, White House_
 
 ##### Death and state funeral of Akbar Hashemi Rafsanjani
 ### [Hundreds of thousands of Iranians gather in Tehran for the funeral of former president Akbar Hashemi Rafsanjani. ](/news/2017/01/10/hundreds-of-thousands-of-iranians-gather-in-tehran-for-the-funeral-of-former-president-akbar-hashemi-rafsanjani.md)
@@ -23,7 +23,7 @@ Press Release - The completion of the Addis Ababa-Djibouti Railway, a new 752km 
 ### [The Palestinian National Authority threatens to revoke its recognition of Israel (guaranteed by their signing of the Oslo I Accord in 1993) if the United States, under the presidency of Donald Trump, moves its Embassy in Tel Aviv to Jerusalem. ](/news/2017/01/10/the-palestinian-national-authority-threatens-to-revoke-its-recognition-of-israel-guaranteed-by-their-signing-of-the-oslo-i-accord-in-1993.md)
 Palestinian officials call for protests in mosques to object to the proposed move from Tel Aviv to Jerusalem, and say it would violate Oslo peace agreements
 
-##### Chinese
+##### China
 ### [The foreign ministry of the People's Republic of China confirms that the country's head of state Xi Jinping will attend the World Economic Forum in Davos, Switzerland, this year, making him the first President of China to attend the high-profile event. ](/news/2017/01/10/the-foreign-ministry-of-the-people-s-republic-of-china-confirms-that-the-country-s-head-of-state-xi-jinping-will-attend-the-world-economic-f.md)
  President Xi Jinping this month will become the first Chinese head of state to attend the World Economic Forum (WEF) in Davos, which this year will dwell on th
 

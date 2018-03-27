@@ -27,9 +27,9 @@ _Context: Helmand Province, UK, War in Afghanistan (2001-present), rocket_
 ### [ The death toll from the Summer 2007 United Kingdom floods rises to nine as police find a body near Tewkesbury in Gloucestershire. ](/news/2007/07/28/the-death-toll-from-the-summer-2007-united-kingdom-floods-rises-to-nine-as-police-find-a-body-near-tewkesbury-in-gloucestershire.md)
 Police say emergency workers have found a man&#039;s body in a submerged field, bringing to at least nine the death toll in Britain&#039;s worst floods for 60 years.
 
-##### U.S. President
+##### President
 ### [ The President of the United States George W. Bush urges Congress to pass legislation to expand potential surveillance targets. ](/news/2007/07/28/the-president-of-the-united-states-george-w-bush-urges-congress-to-pass-legislation-to-expand-potential-surveillance-targets.md)
-_Context: Congress, George W. Bush, U.S. President_
+_Context: Congress, George W. Bush, President_
 
 ##### Colombia
 ### [ Colombia's intelligence chief Andres Penate claims FARC rebels accidentally killed 11 politicians it was holding, after running into another rebel unit. ](/news/2007/07/28/colombia-s-intelligence-chief-andra-c-s-pea-ate-claims-farc-rebels-accidentally-killed-11-politicians-it-was-holding-after-running-into-anot.md)

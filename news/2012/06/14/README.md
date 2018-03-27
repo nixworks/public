@@ -27,9 +27,9 @@ _Context: Game of Thrones, George W. Bush, HBO_
 ### [Venezuela's president Hugo Chavez gives a televised address from the country's defence ministry to discuss his defence plans. ](/news/2012/06/14/venezuela-s-president-hugo-cha-vez-gives-a-televised-address-from-the-country-s-defence-ministry-to-discuss-his-defence-plans.md)
 _Context: Hugo Chavez, Venezuela_
 
-##### U.S. President
+##### President
 ### [A new survey finds that global support for U.S. president Barack Obama has declined since 2009. ](/news/2012/06/14/a-new-survey-finds-that-global-support-for-u-s-president-barack-obama-has-declined-since-2009.md)
-_Context: Barack Obama, U.S. President_
+_Context: Barack Obama, President_
 
 ##### Falkland Islands
 ### [A ceremony is held in the Falkland Islands capital Stanley to mark the 30th anniversary of the end of the Falklands War. ](/news/2012/06/14/a-ceremony-is-held-in-the-falkland-islands-capital-stanley-to-mark-the-30th-anniversary-of-the-end-of-the-falklands-war.md)

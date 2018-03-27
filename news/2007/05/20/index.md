@@ -17,7 +17,7 @@ _Context: Battle of Nahr al-Bared, Fatah al-Islam, Lebanese, Nahr al-Bared, Trip
 
 ##### Thousands gather
 ### [ Thousands gather in Samsun, Turkey to protest against the government. ](/news/2007/05/20/thousands-gather-in-samsun-turkey-to-protest-against-the-government.md)
-_Context: Samsun, Thousands gather, Turkey_
+_Context: Samsun, Thousands gather, Turkish_
 
 ##### Venezuela
 ### [ Tens of thousands of Venezuelans march in protest in support of Radio Caracas Televisin and in opposition to President Hugo Chvez, who has vowed not to renew its licence. ](/news/2007/05/20/tens-of-thousands-of-venezuelans-march-in-protest-in-support-of-radio-caracas-television-and-in-opposition-to-president-hugo-chavez-who-ha.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2012/09/30/index.html)  [JSON](2012/09/30/index.json)  [XML](201
 
 ##### Bo Guagua
 ### [Bo Guagua, the son of disgraced Chinese politician Bo Xilai, defends his father in his first comments on the political scandal. ](/news/2012/09/30/bo-guagua-the-son-of-disgraced-chinese-politician-bo-xilai-defends-his-father-in-his-first-comments-on-the-political-scandal.md)
-_Context: Bo Guagua, Bo Xilai, Chinese_
+_Context: Bo Guagua, Bo Xilai, China_
 
 ##### Tokyo Stock Exchange
 ### [Nippon Steel & Sumitomo Metal Corporation's stock debuts on the Tokyo Stock Exchange. The formal merger of Nippon Steel and Sumitomo Metal Industries creates the world's second-largest steelmaker. ](/news/2012/09/30/nippon-steel-sumitomo-metal-corporation-s-stock-debuts-on-the-tokyo-stock-exchange-the-formal-merger-of-nippon-steel-and-sumitomo-metal-i.md)

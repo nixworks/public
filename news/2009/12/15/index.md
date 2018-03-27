@@ -25,7 +25,7 @@ Boeing Co (BA.N) completed thefirst test flight of its new lightweight carbon an
 
 ##### Kurdish
 ### [ Two protesters are killed and several injured at a demonstration in opposition to the banning of the pro-Kurdish Democratic Society Party in Turkey. ](/news/2009/12/15/two-protesters-are-killed-and-several-injured-at-a-demonstration-in-opposition-to-the-banning-of-the-pro-kurdish-democratic-society-party-i.md)
-_Context: Democratic Society Party, Kurdish, Turkey_
+_Context: Democratic Society Party, Kurdish, Turkish_
 
 ##### Nauru
 ### [ Nauru recognizes the independence of Abkhazia and establishes formal diplomatic relations in exchange for aid from Russia. ](/news/2009/12/15/nauru-recognizes-the-independence-of-abkhazia-and-establishes-formal-diplomatic-relations-in-exchange-for-aid-from-russia.md)

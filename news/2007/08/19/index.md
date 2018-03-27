@@ -33,7 +33,7 @@ _Context: Minnesota, Minnesota Governor, Ongoing flooding, Tim Pawlenty_
 
 ##### Flood
 ### [ Rescue workers start pumping water from a flooded coal mine in Xintai, Shandong where 172 Chinese miners are trapped. ](/news/2007/08/19/rescue-workers-start-pumping-water-from-a-flooded-coal-mine-in-xintai-shandong-where-172-chinese-miners-are-trapped.md)
-_Context: Chinese, Shandong, Xintai, coal mine, flood_
+_Context: China, Shandong, Xintai, coal mine, flood_
 
 ##### Indonesia
 ### [ Indonesia raises the lava alert for Mount Karangetang on the resort island of Siau as authorities move to evacuate those most at risk. ](/news/2007/08/19/indonesia-raises-the-lava-alert-for-mount-karangetang-on-the-resort-island-of-siau-as-authorities-move-to-evacuate-those-most-at-risk.md)

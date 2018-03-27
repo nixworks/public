@@ -19,9 +19,9 @@ The BBC says its Persian Service has been targeted by a &quot;sophisticated cybe
 ### [The International Criminal Court in the Hague delivers a verdict of guilty in the case of Thomas Lubanga Dyilo of the Democratic Republic of the Congo on war crimes charges. ](/news/2012/03/14/the-international-criminal-court-in-the-hague-delivers-a-verdict-of-guilty-in-the-case-of-thomas-lubanga-dyilo-of-the-democratic-republic-of.md)
 The war crimes court at The Hague found Congolese warlord Thomas Lubanga Dyilo guilty on Wednesday in its first ever ruling after a decade of work limited largely to Africa while major cases elsewhere remain beyond its reach.
 
-##### U.S. President
+##### President
 ### [The President of the United States Barack Obama and the Prime Minister of the United Kingdom David Cameron meet at the White House in Washington D.C. to discuss Afghanistan, Syria, the global economy and Iran. ](/news/2012/03/14/the-president-of-the-united-states-barack-obama-and-the-prime-minister-of-the-united-kingdom-david-cameron-meet-at-the-white-house-in-washin.md)
-_Context: Afghanistan, Barack Obama, David Cameron, Iran, Prime Minister, Syria, U.S. President, Washington D.C., White House_
+_Context: Afghanistan, Barack Obama, David Cameron, Iran, President, Prime Minister, Syria, Washington D.C., White House_
 
 ##### Azerbaijan
 ### [Authorities in Azerbaijan arrest 22 people for allegedly spying for Iran's Revolutionary Guards. ](/news/2012/03/14/authorities-in-azerbaijan-arrest-22-people-for-allegedly-spying-for-iran-s-revolutionary-guards.md)

@@ -17,7 +17,7 @@ Interior minister welcomes decision, calls it first step in expelling the remain
 
 ##### England
 ### [UK government ministers announce their intention to boycott group games involving the England national football team at UEFA Euro 2012 in Ukraine. ](/news/2012/06/7/uk-government-ministers-announce-their-intention-to-boycott-group-games-involving-the-england-national-football-team-at-uefa-euro-2012-in-uk.md)
-_Context: England, UEFA Euro 2012, Ukrainian_
+_Context: England, UEFA Euro 2012, Ukraine_
 
 ##### Israel
 ### [An additional 550 settler homes are announced by Israeli construction minister Ariel Attias in addition to the 300 new settler homes ordered yesterday by the land's prime minister Benjamin Netanyahu at the Jewish settlement of Beit El in the West Bank. ](/news/2012/06/7/an-additional-550-settler-homes-are-announced-by-israeli-construction-minister-ariel-attias-in-addition-to-the-300-new-settler-homes-ordered.md)

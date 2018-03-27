@@ -21,7 +21,7 @@ _Context: King Mohammed, Morocco, a minaret collapse_
 
 ##### Foreign investment
 ### [Foreign direct investment (FDI) into China rose for the sixth consecutive month in January, up 7.79 percent year-on-year to $8.13 billion, Chinese Ministry of Commerce announced. ](/news/2010/02/21/foreign-direct-investment-fdi-into-china-rose-for-the-sixth-consecutive-month-in-january-up-7-79-percent-year-on-year-to-8-13-billion-c.md)
-_Context: Chinese, Chinese Ministry of Commerce, Foreign investment_
+_Context: China, Chinese Ministry of Commerce, Foreign investment_
 
 ##### AC/DC
 ### [The venue for an AC-DC concert upsets WWF Austria environmentalists in Wels who fear it will "smash" endangered species. ](/news/2010/02/21/the-venue-for-an-ac-dc-concert-upsets-wwf-austria-environmentalists-in-wels-who-fear-it-will-smash-endangered-species.md)

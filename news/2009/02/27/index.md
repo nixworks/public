@@ -21,7 +21,7 @@ Up to &euro;7 million may have been stolen from a Dublin bank following a so-cal
 
 ##### United States
 ### [ United States President Barack Obama announces he will withdraw most soldiers from the Iraq War by August 2010. ](/news/2009/02/27/united-states-president-barack-obama-announces-he-will-withdraw-most-soldiers-from-the-iraq-war-by-august-2010.md)
-_Context: Barack Obama, Iraq War, U.S. President, United States, United States military personnel_
+_Context: Barack Obama, Iraq War, President, United States, United States military personnel_
 
 ##### Bangladesh
 ### [ Bangladesh's military arrests 300 Rifles for mutiny and discovers a mass grave containing 58 officers killed during the revolt. ](/news/2009/02/27/bangladesh-s-military-arrests-300-rifles-for-mutiny-and-discovers-a-mass-grave-containing-58-officers-killed-during-the-revolt.md)

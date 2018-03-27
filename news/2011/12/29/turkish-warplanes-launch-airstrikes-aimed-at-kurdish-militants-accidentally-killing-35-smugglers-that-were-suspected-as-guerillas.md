@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/12/29/turkish-warplanes-launch-airstrikes-aimed-at-ku
 
 ### [2011-12-29](/news/2011/12/29/index.md)
 
-##### Turkey
+##### Turkish
 # Turkish warplanes launch airstrikes aimed at Kurdish militants, accidentally killing 35 smugglers that were suspected as guerillas. 
 
 
@@ -15,8 +15,8 @@ Formats: [HTML](/news/2011/12/29/turkish-warplanes-launch-airstrikes-aimed-at-ku
 
 ### Related:
 
-1. [Clashes between Turkish government troops and Kurdish rebels at a Turkish border post in the southeastern province of Hakkari kill at least 19 people, including 11 fighters from the Kurdistan Workers' Party. ](/news/2012/08/5/clashes-between-turkish-government-troops-and-kurdish-rebels-at-a-turkish-border-post-in-the-southeastern-province-of-hakkac-ri-kill-at-least.md) _Context: Kurdish, Turkey_
-2. [ The Kurdistan Workers Party claims responsibility for bombing an oil pipeline between Iraq and Turkey. ](/news/2008/11/22/the-kurdistan-workers-party-claims-responsibility-for-bombing-an-oil-pipeline-between-iraq-and-turkey.md) _Context: Kurdish, Turkey_
-3. [ Both major parties of Kurdistan, an autonomous region in Northern Iraq, vow to fight Turkish troops if they enter Kurdistan to capture Mosul or interfere in Kurdish self-rule. Between them the two parties can mobilize up to 80,000 guerillas&nbsp;- most likely no match for the modern Turkish army, but a severe blow to the unity of U.S. allies on the Northern front expected in the U.S. plan to invade Iraq.](/news/2003/02/25/both-major-parties-of-kurdistan-an-autonomous-region-in-northern-iraq-vow-to-fight-turkish-troops-if-they-enter-kurdistan-to-capture-mosu.md) _Context: Kurdish, Turkey_
-4. [According to the Syrian Observatory for Human Rights, at least 36 pro-Syrian government troops were killed in a Turkish airstrike in Afrin, Syria. ](/news/2018/03/3/according-to-the-syrian-observatory-for-human-rights-at-least-36-pro-syrian-government-troops-were-killed-in-a-turkish-airstrike-in-afrin.md) _Context: Turkey_
-5. [Turkey calls a statement of European Union support for Greek Cypriots in a dispute over offshore resources "unacceptable". Turkey has been using its Navy to prevent exploration by Cypriot vessels. ](/news/2018/03/23/turkey-calls-a-statement-of-european-union-support-for-greek-cypriots-in-a-dispute-over-offshore-resources-unacceptable-turkey-has-been-u.md) _Context: Turkey_
+1. [Clashes between Turkish government troops and Kurdish rebels at a Turkish border post in the southeastern province of Hakkari kill at least 19 people, including 11 fighters from the Kurdistan Workers' Party. ](/news/2012/08/5/clashes-between-turkish-government-troops-and-kurdish-rebels-at-a-turkish-border-post-in-the-southeastern-province-of-hakkac-ri-kill-at-least.md) _Context: Kurdish, Turkish_
+2. [ The Kurdistan Workers Party claims responsibility for bombing an oil pipeline between Iraq and Turkey. ](/news/2008/11/22/the-kurdistan-workers-party-claims-responsibility-for-bombing-an-oil-pipeline-between-iraq-and-turkey.md) _Context: Kurdish, Turkish_
+3. [ Both major parties of Kurdistan, an autonomous region in Northern Iraq, vow to fight Turkish troops if they enter Kurdistan to capture Mosul or interfere in Kurdish self-rule. Between them the two parties can mobilize up to 80,000 guerillas&nbsp;- most likely no match for the modern Turkish army, but a severe blow to the unity of U.S. allies on the Northern front expected in the U.S. plan to invade Iraq.](/news/2003/02/25/both-major-parties-of-kurdistan-an-autonomous-region-in-northern-iraq-vow-to-fight-turkish-troops-if-they-enter-kurdistan-to-capture-mosu.md) _Context: Kurdish, Turkish_
+4. [According to the Syrian Observatory for Human Rights, at least 36 pro-Syrian government troops were killed in a Turkish airstrike in Afrin, Syria. ](/news/2018/03/3/according-to-the-syrian-observatory-for-human-rights-at-least-36-pro-syrian-government-troops-were-killed-in-a-turkish-airstrike-in-afrin.md) _Context: Turkish_
+5. [European Council President Donald Tusk and European Commission President Jean-Claude Juncker conclude talks with Turkish President Recep Tayyip Erdogan. The parties say they have been unable to agree on human rights issues but pledge to hold more talks. ](/news/2018/03/26/european-council-president-donald-tusk-and-european-commission-president-jean-claude-juncker-conclude-talks-with-turkish-president-recep-tay.md) _Context: Turkish_

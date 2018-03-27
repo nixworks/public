@@ -71,9 +71,9 @@ Italy is poised to make a comeback to the Eurovision Song Contest after a break 
 ### [Ai Weiwei is prevented from travelling to South Korea by Chinese authorities and is warned his trip could "threaten national security", with imprisoned Liu Xiaobo due to receive the 2010 Nobel Peace Prize next week. ](/news/2010/12/3/ai-weiwei-is-prevented-from-travelling-to-south-korea-by-chinese-authorities-and-is-warned-his-trip-could-threaten-national-security-with.md)
 China prevents Chinese artist Ai Weiwei from travelling abroad, amid an apparent crackdown on supporters of Nobel Peace Prize winner Liu Xiaobo.
 
-##### U.S. President
+##### President
 ### [President Barack Obama makes a surprise visit to United States armed forces based in Afghanistan. ](/news/2010/12/3/president-barack-obama-makes-a-surprise-visit-to-united-states-armed-forces-based-in-afghanistan.md)
-_Context: Afghanistan, Barack Obama, U.S. President, United States armed forces_
+_Context: Afghanistan, Barack Obama, President, United States armed forces_
 
 ##### Cyberwarfare
 ### [As "massive" cyberwarfare against the WikiLeaks website continue, the website is forced to change its web address after EveryDNS kills its domain due to the disruption caused to its other customers by the attacks. United States authorities are accused of carrying out the cyber attacks against the website. ](/news/2010/12/3/as-massive-cyberwarfare-against-the-wikileaks-website-continue-the-website-is-forced-to-change-its-web-address-after-everydns-kills-its-d.md)

@@ -33,11 +33,11 @@ The EU urges members to conduct random DNA tests on processed beef for three mon
 
 ##### Tibetan Buddhist
 ### [A Tibetan monk sets himself on fire near Boudhanath in Nepal in protest of the Chinese occupation of Tibet. ](/news/2013/02/13/a-tibetan-monk-sets-himself-on-fire-near-boudhanath-in-nepal-in-protest-of-the-chinese-occupation-of-tibet.md)
-_Context: Boudhanath, Chinese, Nepal, Tibet, Tibetan Buddhist, protest, sets herself alight, sets himself_
+_Context: Boudhanath, China, Nepal, Tibet, Tibetan Buddhist, protest, sets herself alight, sets himself_
 
 ##### Antonov An-24
 ### [South Airlines Flight 8971: An Antonov An-24 aircraft carrying 44 passengers and 8 crew members crash lands near the Eastern Ukrainian city of Donetsk, killing 4 people on board and injuring 8 others. ](/news/2013/02/13/south-airlines-flight-8971-an-antonov-an-24-aircraft-carrying-44-passengers-and-8-crew-members-crash-lands-near-the-eastern-ukrainian-city.md)
-_Context: Antonov An-24, Donetsk, Eastern Ukraine, Ukrainian, crash lands_
+_Context: Antonov An-24, Donetsk, Eastern Ukraine, Ukraine, crash lands_
 
 ##### Apple Inc.
 ### [Apple Inc. is denied their request to sell their phones under the name "iPhone" in Brazil after regulators voted in favor of IGB Electronica who won the rights to use the name in 2008. ](/news/2013/02/13/apple-inc-is-denied-their-request-to-sell-their-phones-under-the-name-iphone-in-brazil-after-regulators-voted-in-favor-of-igb-electronica.md)

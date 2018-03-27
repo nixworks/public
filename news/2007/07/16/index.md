@@ -23,7 +23,7 @@ _Context: IAEA, North Korea, Yongbyon Nuclear Scientific Research Center_
 ### [ Israel agrees to remove 178 Palestinian militants from its watch list after they sign a pledge renouncing attacks against it. ](/news/2007/07/16/israel-agrees-to-remove-178-palestinian-militants-from-its-watch-list-after-they-sign-a-pledge-renouncing-attacks-against-it.md)
 _Context: Israel, Palestinian_
 
-##### Chinese
+##### China
 ### [ China punishes 95 officials for allowing workers and children to labour in slave-like conditions in brick kilns. ](/news/2007/07/16/china-punishes-95-officials-for-allowing-workers-and-children-to-labour-in-slave-like-conditions-in-brick-kilns.md)
 China has punished dozens of officials for allowing slave-like exploitation of workers and children in brick kilns, but announced criminal investigations against only six.
 
@@ -35,9 +35,9 @@ Iraqi police say two car bombs have exploded in the northern city of Kirkuk, kil
 ### [ Britain expels four Russian diplomats and suspends visa negotiations over Russia's failure to extradite Andrei Lugovoy in connection with the murder of Alexander Litvinenko. ](/news/2007/07/16/britain-expels-four-russian-diplomats-and-suspends-visa-negotiations-over-russia-s-failure-to-extradite-andrei-lugovoy-in-connection-with-t.md)
 _Context: Alexander Litvinenko, Andrei Lugovoy, Russia, United Kingdom, diplomat, extradite, visa-free travel_
 
-##### U.S. President
+##### President
 ### [ The President of the United States announces a Middle East peace conference in the fall involving Israel, Palestinians and neighboring countries. ](/news/2007/07/16/the-president-of-the-united-states-announces-a-middle-east-peace-conference-in-the-fall-involving-israel-palestinians-and-neighboring-coun.md)
-_Context: Israel, Middle East, Palestinians, U.S. President_
+_Context: Israel, Middle East, Palestinians, President_
 
 ##### George W. Bush
 ### [ The President of the United States George W. Bush and the President of Poland Lech Kaczynski agree to proceed with building a missile defense system in Europe despite Russian concerns. ](/news/2007/07/16/the-president-of-the-united-states-george-w-bush-and-the-president-of-poland-lech-kaczyaski-agree-to-proceed-with-building-a-missile-defe.md)

@@ -21,7 +21,7 @@ _Context: Crimea, Russian Presidential Academy of National Economy and Public Ad
 
 ##### Imam
 ### [The government-appointed Imam of China is killed in an attack in Kashgar, Xinjiang province. ](/news/2014/07/31/the-government-appointed-imam-of-china-is-killed-in-an-attack-in-kashgar-xinjiang-province.md)
-_Context: Chinese, Imam, Kashgar, Xinjiang_
+_Context: China, Imam, Kashgar, Xinjiang_
 
 ##### Malaysia Airlines Flight 17
 ### [The Ukrainian government declares a unilateral one-day cease-fire in order to facilitate for a team of forensics experts and crash investigators to reach the site where Malaysia Airlines Flight 17 went down two weeks ago, after days of delay caused by heavy fighting in the area. ](/news/2014/07/31/the-ukrainian-government-declares-a-unilateral-one-day-cease-fire-in-order-to-facilitate-for-a-team-of-forensics-experts-and-crash-investiga.md)

@@ -7,9 +7,9 @@ Formats: [HTML](2006/05/17/index.html)  [JSON](2006/05/17/index.json)  [XML](200
 ### [ Barcelona win the UEFA Champions League, defeating Arsenal 2-1 in the final. Arsenal goalkeeper Jens Lehmann became the first player ever sent off in a Champions League final. Barcelona's goals were scored by Belletti and Samuel Eto'o; Arsenal's goal was scored by Sol Campbell. ](/news/2006/05/17/barcelona-win-the-uefa-champions-league-defeating-arsenal-2-1-in-the-final-arsenal-goalkeeper-jens-lehmann-became-the-first-player-ever-s.md)
 _Context: Arsenal, Belletti, FC Barcelona, Jens Lehmann, Samuel Eto'o, Sol Campbell, UEFA Champions League, dismissal_
 
-##### Turkey
+##### Turkish
 ### [ A gunman opens fire at the Turkish Council of State, the top court in Ankara, while the court is in session, injuring four judges, and killing one - Mustafa Ycel zbilgin. The shooting represents a rise in tensions between the secular apparatus of state and supporters of Islamic fundamentalism. ](/news/2006/05/17/a-gunman-opens-fire-at-the-turkish-council-of-state-the-top-court-in-ankara-while-the-court-is-in-session-injuring-four-judges-and-kill.md)
-_Context: Ankara, Council of State, Islamic fundamentalism, Mustafa Ycel zbilgin, Turkey, judge, secular apparatus of state_
+_Context: Ankara, Council of State, Islamic fundamentalism, Mustafa Ycel zbilgin, Turkish, judge, secular apparatus of state_
 
 ##### Re-election
 ### [ Incumbent Prime Minister Laisenia Qarase of Fiji claims victory in the 2006 general election. ](/news/2006/05/17/incumbent-prime-minister-laisenia-qarase-of-fiji-claims-victory-in-the-2006-general-election.md)

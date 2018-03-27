@@ -25,7 +25,7 @@ _Context: BBC, GBP, US$, United Kingdom_
 
 ##### US$
 ### [ Oil prices reach $90 a barrel for the first time due to the low dollar and ongoing tension between Turkey and Iraq. ](/news/2007/10/18/oil-prices-reach-90-a-barrel-for-the-first-time-due-to-the-low-dollar-and-ongoing-tension-between-turkey-and-iraq.md)
-_Context: Iraq, Turkey, US$_
+_Context: Iraq, Turkish, US$_
 
 ## [Previous Day...](/news/2007/10/17/index.md)
 

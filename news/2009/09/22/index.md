@@ -33,7 +33,7 @@ _Context: 2009 Pacific Mini Games, Cook Islands, Rarotonga_
 
 ##### President Hu Jintao
 ### [ Chinese President Hu Jintao tells a U.N. summit on climate change that China will reduce greenhouse gas emissions and increase reliance on clean energy sources in coming years. ](/news/2009/09/22/chinese-president-hu-jintao-tells-a-u-n-summit-on-climate-change-that-china-will-reduce-greenhouse-gas-emissions-and-increase-reliance-on.md)
-_Context: Chinese, President Hu Jintao, U.N., climate change, greenhouse gas emissions_
+_Context: China, President Hu Jintao, U.N., climate change, greenhouse gas emissions_
 
 ##### Murder
 ### [ Official government figures indicate the murder rate in South Africa has fallen, though robberies and sexual offences are on the increase. ](/news/2009/09/22/official-government-figures-indicate-the-murder-rate-in-south-africa-has-fallen-though-robberies-and-sexual-offences-are-on-the-increase.md)
@@ -99,9 +99,9 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 ### [ Honduran soldiers break up protests outside the Brazilian embassy in Tegucigalpa in support of deposed President Manuel Zelaya, who is staying inside. ](/news/2009/09/22/honduran-soldiers-break-up-protests-outside-the-brazilian-embassy-in-tegucigalpa-in-support-of-deposed-president-manuel-zelaya-who-is-stay.md)
 Honduras de facto leader Roberto Micheleti demanded that Brazil hand over deposed constitutional president Manuel Zelaya who is currently in the Brazilian embassy in Tegucigalpa following a dramatic secret return to the country.
 
-##### U.S. President
+##### President
 ### [ U.S. President Barack Obama calls for the resumption of the Middle East peace process in meetings with the Prime Minister of Israel Benjamin Netanyahu and the President of the Palestinian Authority Mahmoud Abbas. ](/news/2009/09/22/u-s-president-barack-obama-calls-for-the-resumption-of-the-middle-east-peace-process-in-meetings-with-the-prime-minister-of-israel-benjami.md)
-_Context: Barack Obama, Benjamin Netanyahu, Mahmoud Abbas, Middle East, Palestinian Authority President, Prime Minister, U.S. President_
+_Context: Barack Obama, Benjamin Netanyahu, Mahmoud Abbas, Middle East, Palestinian Authority President, President, Prime Minister_
 
 ##### Racial bias
 ### [ A gang of racist youths are sent to jail for a string of attacks on foreigners in Moscow, Russia, in 2008. ](/news/2009/09/22/a-gang-of-racist-youths-are-sent-to-jail-for-a-string-of-attacks-on-foreigners-in-moscow-russia-in-2008.md)

@@ -17,7 +17,7 @@ Malaysia&#039;s 92-year-old former prime minster Mahathir Mohamad will lead oppo
 
 ##### Politics of Egypt
 ### [The former Prime Minister of Egypt, 76-year-old Ahmed Shafik, retracts his candidacy for the upcoming presidential elections. ](/news/2018/01/7/the-former-prime-minister-of-egypt-76-year-old-ahmed-shafik-retracts-his-candidacy-for-the-upcoming-presidential-elections.md)
-_Context: 2018 presidential election, Ahmed Shafik, Politics of Egypt, Prime Minister of Egypt_
+_Context: Ahmed Shafik, Egyptian presidential election, 2018, Politics of Egypt, Prime Minister of Egypt_
 
 ##### Mexico
 ### [Eleven people are killed in La Concepcion, Mexico, near the Pacific coast resort of Acapulco, following violent clashes involving gunmen, a community police force, and state police in the southern state of Guerrero. ](/news/2018/01/7/eleven-people-are-killed-in-la-concepcia3n-mexico-near-the-pacific-coast-resort-of-acapulco-following-violent-clashes-involving-gunmen-a.md)

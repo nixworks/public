@@ -5,7 +5,7 @@ Formats: [HTML](2017/12/22/index.html)  [JSON](2017/12/22/index.json)  [XML](201
 
 ##### Tax reform in the United States
 ### [President Donald Trump signs the Tax Cuts and Jobs Act of 2017 into law. ](/news/2017/12/22/president-donald-trump-signs-the-tax-cuts-and-jobs-act-of-2017-into-law.md)
-_Context: Donald Trump, Tax Cuts and Jobs Act of 2017, Tax reform in the United States, U.S. President_
+_Context: President, Tax Cuts and Jobs Act of 2017, Tax reform in the United States, Trump_
 
 ##### Brexit
 ### [The United Kingdom's Home Office confirms the return of the blue British passport after the UK leaves the European Union. The new passports will be issued from October 2019. ](/news/2017/12/22/the-united-kingdom-s-home-office-confirms-the-return-of-the-blue-british-passport-after-the-uk-leaves-the-european-union-the-new-passports.md)

@@ -20,7 +20,7 @@ Formats: [HTML](/news/2014/06/1/the-royal-thai-armed-forces-deploy-against-major
 
 ### Related:
 
-1. [A fire in a Winter Cherry complex, a shopping center in Kemerovo, Russia, kills at least 37 people. ](/news/2018/03/25/a-fire-in-a-winter-cherry-complex-a-shopping-center-in-kemerovo-russia-kills-at-least-37-people.md) _Context: shopping center_
+1. [A fire in the Winter Cherry complex, a shopping centre in Kemerovo, Russia, kills at least 64 people, the majority of which are children. ](/news/2018/03/25/a-fire-in-the-winter-cherry-complex-a-shopping-centre-in-kemerovo-russia-kills-at-least-64-people-the-majority-of-which-are-children.md) _Context: shopping centre_
 2. [Michelin unveils its first Michelin Guide for Bangkok, Thailand, which is the sixth city in Asia and second in Southeast Asia after Singapore. ](/news/2017/12/6/michelin-unveils-its-first-michelin-guide-for-bangkok-thailand-which-is-the-sixth-city-in-asia-and-second-in-southeast-asia-after-singapor.md) _Context: Bangkok_
 3. [Severe clear-air turbulence on an Aeroflot flight from Sheremetyevo International Airport, Moscow to Suvarnabhumi Airport, Bangkok, subjects 27 passengers to injuries including bone fractures. ](/news/2017/05/1/severe-clear-air-turbulence-on-an-aeroflot-flight-from-sheremetyevo-international-airport-moscow-to-suvarnabhumi-airport-bangkok-subjects.md) _Context: Bangkok_
 4. [A man believed responsible for starting a devastating factory fire in Karachi has been arrested in Bangkok. ](/news/2016/12/3/a-man-believed-responsible-for-starting-a-devastating-factory-fire-in-karachi-has-been-arrested-in-bangkok.md) _Context: Bangkok_

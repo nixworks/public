@@ -21,7 +21,7 @@ Specialist team deal with incident involving hundreds of prisoners at city centr
 
 ##### Israel-United States relations
 ### [President-elect Donald Trump nominates his middle-eastern affairs advisor and former bankruptcy lawyer David Friedman as the next United States Ambassador to Israel. ](/news/2016/12/16/president-elect-donald-trump-nominates-his-middle-eastern-affairs-advisor-and-former-bankruptcy-lawyer-david-friedman-as-the-next-united-sta.md)
-_Context: David Friedman, Donald Trump, Israel-United States relations, United States Ambassador to Israel_
+_Context: David Friedman, Israel-United States relations, Trump, United States Ambassador to Israel_
 
 ##### China-United States relations
 ### [China's People's Liberation Army Navy seizes an underwater drone deployed by USNS "Bowditch" in the South China Sea; the United States files a formal diplomatic protest and a demand for its return. ](/news/2016/12/16/china-s-people-s-liberation-army-navy-seizes-an-underwater-drone-deployed-by-usns-bowditch-in-the-south-china-sea-the-united-states-files.md)

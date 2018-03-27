@@ -35,7 +35,7 @@ _Context: Goldman Sachs, Procter and Gamble, Raj Rajaratnam, Rajat Gupta_
 ### [European Union leaders hold an emergency meeting to discuss the European sovereign debt crisis. ](/news/2011/10/26/european-union-leaders-hold-an-emergency-meeting-to-discuss-the-european-sovereign-debt-crisis.md)
 Eurozone leaders holding a summit on the debt crisis find agreement on recapitalising banks, but late-night talks on a comprehensive deal are still continuing.
 
-##### Turkey
+##### Turkish
 ### [The search for survivors of the Van earthquake in eastern Turkey enters its third day, with 459 confirmed deaths and over 1,300 injured. ](/news/2011/10/26/the-search-for-survivors-of-the-van-earthquake-in-eastern-turkey-enters-its-third-day-with-459-confirmed-deaths-and-over-1-300-injured.md)
 Turkey struggled to provide shelter on Wednesday to tens of thousands left homeless by an earthquake that killed nearly 500, and rescue teams began taking painful decisions to call off searches for those buried alive.
 

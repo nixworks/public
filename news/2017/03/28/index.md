@@ -9,7 +9,7 @@ Eyewitness accounts of large, dog-like animals in state’s far north spur scien
 
 ##### Executive order
 ### [U.S. President Trump signs an executive order undoing former President Obama's climate change policies. ](/news/2017/03/28/u-s-president-trump-signs-an-executive-order-undoing-former-president-obama-s-climate-change-policies.md)
-_Context: Barack Obama, Donald Trump, climate change, executive order_
+_Context: Barack Obama, Trump, climate change, executive order_
 
 ##### Proposed second Scottish independence referendum
 ### [Lawmakers in the Scottish Parliament vote in favor of holding a second independence referendum for the country within two years. ](/news/2017/03/28/lawmakers-in-the-scottish-parliament-vote-in-favor-of-holding-a-second-independence-referendum-for-the-country-within-two-years.md)

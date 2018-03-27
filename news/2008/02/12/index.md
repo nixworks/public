@@ -9,7 +9,7 @@ _Context: WGA strike, Writers Guild of America_
 
 ##### Russia
 ### [ Russia and Ukraine resolve a dispute over Ukraine's natural gas debt which saw Gazprom threatening to cut off supplies. ](/news/2008/02/12/russia-and-ukraine-resolve-a-dispute-over-ukraine-s-natural-gas-debt-which-saw-gazprom-threatening-to-cut-off-supplies.md)
-_Context: Gazprom, Russia, Ukrainian, natural gas_
+_Context: Gazprom, Russia, Ukraine, natural gas_
 
 ##### Chile
 ### [ Chilean opera singer Ernesto "Tito" Beltran is sentenced to two years in jail by a Swedish court for rape during a concert tour in 1999. ](/news/2008/02/12/chilean-opera-singer-ernesto-tito-beltran-is-sentenced-to-two-years-in-jail-by-a-swedish-court-for-rape-during-a-concert-tour-in-1999.md)

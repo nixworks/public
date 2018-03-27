@@ -27,9 +27,9 @@ _Context: Spanish flu, Thailand, World Health Organization, avian influenza, bir
 ### [ Giovanni di Stefano, the lawyer of former Iraqi President Saddam Hussein, tells the Danish newspaper "B.T." that Hussein plans to run as a candidate in the Iraqi elections scheduled for January 2005. A recent Gallup poll indicated that 42 percent of the Iraqi people want their former leader back. ](/news/2004/09/28/giovanni-di-stefano-the-lawyer-of-former-iraqi-president-saddam-hussein-tells-the-danish-newspaper-b-t-that-hussein-plans-to-run-as-a.md)
 _Context: Gallup poll, Giovanni di Stefano, President of Iraq, Saddam Hussein_
 
-##### U.S. President
+##### President
 ### [ U.S. President George W. Bush's hometown newspaper, the Crawford, Texas, "Lone Star Iconoclast", endorses Democratic presidential candidate John Kerry. The editorial column asked Texan voters "not to rate the candidate by his hometown.&nbsp;.&nbsp;. but instead by where he intends to take the country." In the last election, the paper endorsed Bush. ](/news/2004/09/28/u-s-president-george-w-bush-s-hometown-newspaper-the-crawford-texas-lone-star-iconoclast-endorses-democratic-presidential-candidate.md)
-_Context: Crawford, Texas, Democratic, George W. Bush, John Kerry, Texas, U.S. President, last election, newspaper, presidential candidate_
+_Context: Crawford, Texas, Democratic, George W. Bush, John Kerry, President, Texas, last election, newspaper, presidential candidate_
 
 ##### Taiwan
 ### [ Republic of China foreign minister Mark Chen calls Singapore "the size of a piece of snot" after Singaporean foreign minister George Yeo declared opposition to Taiwan independence. He later apologized for his "improper wording". ](/news/2004/09/28/republic-of-china-foreign-minister-mark-chen-calls-singapore-the-size-of-a-piece-of-snot-after-singaporean-foreign-minister-george-yeo-de.md)

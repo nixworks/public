@@ -7,7 +7,7 @@ Formats: [HTML](2012/06/24/index.html)  [JSON](2012/06/24/index.json)  [XML](201
 ### [Lonesome George, the last known Pinta Island Tortoise, is found dead in the Galapagos Islands. ](/news/2012/06/24/lonesome-george-the-last-known-pinta-island-tortoise-is-found-dead-in-the-galapagos-islands.md)
 Lonesome George, a giant tortoise which became an icon for conservation on the Galapagos islands, has died, making its subspecies extinct.
 
-##### Chinese
+##### China
 ### [China successfully carries out its first manual docking of a spacecraft between the Shenzhou 9 capsule and Tiangong-1 station. ](/news/2012/06/24/china-successfully-carries-out-its-first-manual-docking-of-a-spacecraft-between-the-shenzhou-9-capsule-and-tiangong-1-station.md)
 China successfully carries out its first ever manual docking of a spacecraft, the Shenzhou-9, with another space module.
 

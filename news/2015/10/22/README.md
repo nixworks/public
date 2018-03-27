@@ -7,7 +7,7 @@ Formats: [HTML](2015/10/22/index.html)  [JSON](2015/10/22/index.json)  [XML](201
 ### [Paul Ryan announces that he will run to succeed outgoing Speaker of the United States House of Representatives John Boehner after receiving the support of a significant majority of members of the Republican Party. ](/news/2015/10/22/paul-ryan-announces-that-he-will-run-to-succeed-outgoing-speaker-of-the-united-states-house-of-representatives-john-boehner-after-receiving.md)
 Rep. Paul Ryan, R-Wisc., informed House Republicans late Thursday that he would run for speaker after initially saying he does not want the job.
 
-##### U.S. President
+##### President
 ### [U.S. President Barack Obama vetoes the $612 billion annual defense authorization bill because of the way it would sidestep budget limitations for the military and because it would restrict the transfer of detainees being held at Guantanamo Bay. This is the President's fifth veto since 2009. ](/news/2015/10/22/u-s-president-barack-obama-vetoes-the-612-billion-annual-defense-authorization-bill-because-of-the-way-it-would-sidestep-budget-limitation.md)
 President Barack Obama vetoed a sweeping $612 billion defense policy bill on Thursday, returning the measure to the Republican-controlled Congress because of the way it uses money meant for war spending to avoid automatic budget cuts to military programs.
 

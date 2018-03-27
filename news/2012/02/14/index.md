@@ -29,7 +29,7 @@ _Context: Islamabad, Pakistan, Peshawar, United States_
 
 ##### Vice-President of the People's Republic of China
 ### [The Vice-President of the People's Republic of China Xi Jinping meets with the President of the United States Barack Obama during a visit to the United States. ](/news/2012/02/14/the-vice-president-of-the-people-s-republic-of-china-xi-jinping-meets-with-the-president-of-the-united-states-barack-obama-during-a-visit-to.md)
-_Context: Barack Obama, U.S. President, United States, Vice-President of the People's Republic of China, Xi Jinping_
+_Context: Barack Obama, President, United States, Vice-President of the People's Republic of China, Xi Jinping_
 
 ##### Sean Penn
 ### [Actor Sean Penn meets Argentina's president Cristina Fernandez de Kirchner to voice his support for "the Malvinas Islands of Argentina" and urges Britain to cease its "archaic commitment to colonialist ideology". ](/news/2012/02/14/actor-sean-penn-meets-argentina-s-president-cristina-ferna-ndez-de-kirchner-to-voice-his-support-for-the-malvinas-islands-of-argentina-and.md)

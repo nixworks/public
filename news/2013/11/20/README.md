@@ -15,7 +15,7 @@ _Context: Manila, Philippine President, Philippines, Priority Development Assist
 ### [U.S. Representative Trey Radel (R-FL) pleads guilty on all charges of cocaine possession following his arrest yesterday and faces 1 year supervised probation. ](/news/2013/11/20/u-s-representative-trey-radel-rafl-pleads-guilty-on-all-charges-of-cocaine-possession-following-his-arrest-yesterday-and-faces-1-year-s.md)
 Freshman lawmaker is set to be arraigned Wednesday, admits he is an alcoholic.
 
-##### Chinese
+##### China
 ### [China sends a 'peace ark' loaded with aid to the Philippines after it was criticized for not giving enough. ](/news/2013/11/20/china-sends-a-peace-ark-loaded-with-aid-to-the-philippines-after-it-was-criticized-for-not-giving-enough.md)
 China says it will send medical teams and a naval hospital ship to the typhoon-hit Philippines, following criticism of its initial response.
 

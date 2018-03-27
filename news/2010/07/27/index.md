@@ -17,7 +17,7 @@ The Congress on Tuesday gave President Barack Obama long-delayed funding for his
 
 ##### David Cameron
 ### [David Cameron, the Prime Minister of the United Kingdom, describes the Gaza Strip as a "prison camp" during a visit to Turkey. Israel's ambassador to the UK, Ron Prosor, describes the people of the Gaza strip as "prisoners of the terrorist organization Hamas". ](/news/2010/07/27/david-cameron-the-prime-minister-of-the-united-kingdom-describes-the-gaza-strip-as-a-prison-camp-during-a-visit-to-turkey-israel-s-amba.md)
-_Context: David Cameron, Gaza Strip, Hamas, Israel, Prime Minister, Ron Prosor, Turkey, prison camp, terrorist_
+_Context: David Cameron, Gaza Strip, Hamas, Israel, Prime Minister, Ron Prosor, Turkish, prison camp, terrorist_
 
 ##### Dutch
 ### [A Dutch court rules that sailor Laura Dekker can attempt to become the youngest person to circumnavigate the world solo. ](/news/2010/07/27/a-dutch-court-rules-that-sailor-laura-dekker-can-attempt-to-become-the-youngest-person-to-circumnavigate-the-world-solo.md)

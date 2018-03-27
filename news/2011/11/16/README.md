@@ -19,7 +19,7 @@ _Context: Economy Minister, Eurozone, Eurozone crisis, Mario Monti, Prime Minist
 ### [Two bullets are found to have been fired at the White House in Washington, DC., one into a window that was stopped by bullet-proof glass. ](/news/2011/11/16/two-bullets-are-found-to-have-been-fired-at-the-white-house-in-washington-dc-one-into-a-window-that-was-stopped-by-bullet-proof-glass.md)
 _Context: Washington, DC., White House, bullet-proof glass_
 
-##### U.S. President
+##### President
 ### [The President of the United States Barack Obama arrives in Australia for a visit to commemorate the 60th anniversary of the signing of the ANZUS treaty; the United States and Australia announce an agreement to expand military cooperation between them, including the stationing of up to 2,500 U.S. Marines near Darwin. ](/news/2011/11/16/the-president-of-the-united-states-barack-obama-arrives-in-australia-for-a-visit-to-commemorate-the-60th-anniversary-of-the-signing-of-the-a.md)
 President Obama said the move to base 2,500 Marines in Australia is not intended to isolate China, but it is an unmistakable sign that the United States has grown more wary of its intentions.
 
@@ -29,7 +29,7 @@ The spiritual leader of the Kirti monastery, the starting point for a spate of s
 
 ##### Collides
 ### [Eighteen children and two adults die after an overloaded school bus collides with a coal truck in northwest China's Gansu province. ](/news/2011/11/16/eighteen-children-and-two-adults-die-after-an-overloaded-school-bus-collides-with-a-coal-truck-in-northwest-china-s-gansu-province.md)
-_Context: Chinese, Gansu province, collides_
+_Context: China, Gansu province, collides_
 
 ##### Thai authorities
 ### [Thai authorities consider constructing a waterway linking existing natural canals into a 200-km long "super-canal" that would hold 1.6B cubic meters of water and speed the draining of run-off to prevent flooding like that currently inundating Bangkok and other parts of the country. ](/news/2011/11/16/thai-authorities-consider-constructing-a-waterway-linking-existing-natural-canals-into-a-200-km-long-super-canal-that-would-hold-1-6b-cubi.md)

@@ -13,7 +13,7 @@ Pubs in the Limerick area have broken the tradition of staying closed on Good Fr
 
 ##### New England
 ### [Record rains cause flooding across New England, with Rhode Island hit the hardest. Federal Emergency Management Agency (FEMA) officials say as many as 200,000 people in Rhode Island could be affected. President Barack Obama talks to Governor Don Carcieri about the damage. ](/news/2010/04/2/record-rains-cause-flooding-across-new-england-with-rhode-island-hit-the-hardest-federal-emergency-management-agency-fema-officials-say.md)
-_Context: Barack Obama, Don Carcieri, New England, Rhode Island, Rhode Island Governor, U.S. President, federal aid_
+_Context: Barack Obama, Don Carcieri, New England, President, Rhode Island, Rhode Island Governor, federal aid_
 
 ##### New York City subway
 ### [3 men are charged with murder in the fatal stabbings of two men on a New York City subway over the weekend. ](/news/2010/04/2/3-men-are-charged-with-murder-in-the-fatal-stabbings-of-two-men-on-a-new-york-city-subway-over-the-weekend.md)

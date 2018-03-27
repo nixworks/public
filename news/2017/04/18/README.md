@@ -13,7 +13,7 @@ The EU called on Turkey to launch an investigation into allegations of irregular
 
 ##### President Trump's Executive Orders
 ### [As expected, during a visit to Kenosha, Wisconsin, President Donald Trump signed an executive order requiring U.S. federal agencies to take measures aimed at protecting U.S. workers, boost protections for some U.S. products, and examine the H-1B visa program which affords foreign workers opportunities for employment in U.S. specialty fields. ](/news/2017/04/18/as-expected-during-a-visit-to-kenosha-wisconsin-president-donald-trump-signed-an-executive-order-requiring-u-s-federal-agencies-to-take.md)
-_Context: Donald Trump, H-1B visa, Kenosha, President Trump's Executive Orders, Wisconsin_
+_Context: H-1B visa, Kenosha, President Trump's Executive Orders, Trump, Wisconsin_
 
 ##### Zambia
 ### [Zambian opposition leader and presidential election runner-up Hakainde Hichilema is charged with treason and "trying to overthrow the government". ](/news/2017/04/18/zambian-opposition-leader-and-presidential-election-runner-up-hakainde-hichilema-is-charged-with-treason-and-trying-to-overthrow-the-govern.md)
@@ -65,7 +65,7 @@ A POLICE helicopter carrying 12 people has crashed killing everyone on board.
 
 ##### United States
 ### [American consumer goods company Post Holdings agrees to acquire British cereal maker Weetabix Limited from China's Bright Food for $1.8 billion. ](/news/2017/04/18/american-consumer-goods-company-post-holdings-agrees-to-acquire-british-cereal-maker-weetabix-limited-from-china-s-bright-food-for-1-8-bill.md)
-_Context: Bright Food, Chinese, Post Holdings, United Kingdom, United States, Weetabix Limited, consumer goods_
+_Context: Bright Food, China, Post Holdings, United Kingdom, United States, Weetabix Limited, consumer goods_
 
 ##### Egypt
 ### [The Egyptian Ministry of Antiquities announces the discovery of eight mummies, 10 colorful sarcophagi, and numerous figurines in a 3,500-year-old tomb near the Valley of the Kings in Luxor. ](/news/2017/04/18/the-egyptian-ministry-of-antiquities-announces-the-discovery-of-eight-mummies-10-colorful-sarcophagi-and-numerous-figurines-in-a-3-500-yea.md)

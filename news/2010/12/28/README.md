@@ -51,9 +51,9 @@ Five teenagers die at a party in a southern Florida motel room in what officials
 ### [Thousands of homes and businesses in Northern Ireland are without water as melting snow and ice from the recent freezing weather conditions reveals burst pipes. Northern Ireland Water says it is alternating supplies from reservoirs in order to help alleviate the crisis in which some have been without supplies since before Christmas. ](/news/2010/12/28/thousands-of-homes-and-businesses-in-northern-ireland-are-without-water-as-melting-snow-and-ice-from-the-recent-freezing-weather-conditions.md)
 Thousands of homes and businesses in Northern Ireland are still without water as leaks caused by the thaw put pressure on the system.
 
-##### Turkey
+##### Turkish
 ### [Turkish construction workers employed in Israel protest in front of the Turkish Embassy in Tel Aviv over fears they may lose their jobs. ](/news/2010/12/28/turkish-construction-workers-employed-in-israel-protest-in-front-of-the-turkish-embassy-in-tel-aviv-over-fears-they-may-lose-their-jobs.md)
-_Context: Israel, Tel Aviv, Turkey_
+_Context: Israel, Tel Aviv, Turkish_
 
 ##### Protests
 ### [2010 Tunisian protests: Protests in Tunisia over unemployment and poor living conditions are criticized by President Zine El Abidine Ben Ali during a national television broadcast; he warns of "firm" punishment. ](/news/2010/12/28/2010-tunisian-protests-protests-in-tunisia-over-unemployment-and-poor-living-conditions-are-criticized-by-president-zine-el-abidine-ben-ali.md)

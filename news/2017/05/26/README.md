@@ -9,7 +9,7 @@ _Context: Chile, European Extremely Large Telescope_
 
 ##### Diplomat
 ### [Polish-American diplomat Zbigniew Brzezinski, counselor to President Lyndon B. Johnson (1966-1968) and President Jimmy Carter's National Security Advisor (1977-1981), dies at the age of 89. ](/news/2017/05/26/polish-american-diplomat-zbigniew-brzezinski-counselor-to-president-lyndon-b-johnson-1966a1968-and-president-jimmy-carter-s-national-s.md)
-_Context: Jimmy Carter, Lyndon B. Johnson, National Security Advisor, Zbigniew Brzezinski, diplomat_
+_Context: Jimmy Carter, Lyndon B. Johnson, US National Security Advisor, Zbigniew Brzezinski, diplomat_
 
 ##### 2017 Portland train attack
 ### [Two men are stabbed to death in a train in Portland, Oregon, after they attempt to intervene while a man shouts racial slurs at two teenage girls, one of them wearing a hijab. ](/news/2017/05/26/two-men-are-stabbed-to-death-in-a-train-in-portland-oregon-after-they-attempt-to-intervene-while-a-man-shouts-racial-slurs-at-two-teenage.md)

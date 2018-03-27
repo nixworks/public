@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/6/in-china-explosion-in-a-zhengde-shopping-mall-in
 
 ### [2005-07-6](/news/2005/07/6/index.md)
 
-##### Shopping center
+##### Shopping centre
 #  In China, explosion in a Zhengde shopping mall in Liaoyang County of Liaoning Province injures 47. According to local police, it was a case of attempted revenge [http:--news.xinhuanet.com-english-2005-07-06-content_3184728.htm (Xinhua)] [http:--www.chinadaily.com.cn-english-doc-2005-07-07-content_457928.htm (China Daily)] [http:--www.alertnet.org-thenews-newsdesk-SHA230094.htm (Reuters AlertNet)] (Link dead as of 04:20, 16 January 2007 (UTC))
 
 

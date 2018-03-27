@@ -25,17 +25,17 @@ Channel NewsAsia - Breaking News, Asia-Pacific news coverage from Channel NewsAs
 
 ##### EU
 ### [ The E.U. states that Turkey must recognize the ethnic-Greek government of E.U. member state Cyprus before it can begin negotiations for E.U. membership. Currently Turkey is the only country that recognizes the Turkish Republic of Northern Cyprus. ](/news/2004/12/17/the-e-u-states-that-turkey-must-recognize-the-ethnic-greek-government-of-e-u-member-state-cyprus-before-it-can-begin-negotiations-for-e-u.md)
-_Context: Accession of Turkey to the European Union, Cyprus, EU, Greek, TRNC, Turkey_
+_Context: Accession of Turkey to the European Union, Cyprus, EU, Greek, TRNC, Turkish_
 
-##### U.S. President
+##### President
 ### [ U.S. President George W. Bush, speaking to business executives and economists at the White House, vows to push through big reforms to the Social Security program, including partial privatization of the state pension fund, during his second term. ](/news/2004/12/17/u-s-president-george-w-bush-speaking-to-business-executives-and-economists-at-the-white-house-vows-to-push-through-big-reforms-to-the-s.md)
-_Context: George W. Bush, Social Security, U.S. President, White House, privatization_
+_Context: George W. Bush, President, Social Security, White House, privatization_
 
 ##### Labor Party
 ### [ The Labour Party and Ariel Sharon's Likud Party reach an agreement, forming a unity government in order to implement Israel's unilateral disengagement plan of 2004. In return, the Labor will receive eight cabinet portfolios, including "peace-disengagement minister" specially suited for Shimon Peres and Internal Affairs. ](/news/2004/12/17/the-labour-party-and-ariel-sharon-s-likud-party-reach-an-agreement-forming-a-unity-government-in-order-to-implement-israel-s-unilateral-di.md)
 _Context: Ariel Sharon, Internal Affairs, Israel's unilateral disengagement plan of 2004, Labor Party, Likud, Shimon Peres_
 
-##### U.S. President
+##### President
 ### [ U.S. President George W. Bush signs the Intelligence Reform and Terrorism Prevention Act, creating the office of the Director of National Intelligence to oversee the country's fifteen spy agencies. ](/news/2004/12/17/u-s-president-george-w-bush-signs-the-intelligence-reform-and-terrorism-prevention-act-creating-the-office-of-the-director-of-national-i.md)
 Get up to the minute breaking political news and in-depth analysis on ABCNews.com.
 

@@ -43,7 +43,7 @@ A week of recent tribal clashes in mountainous parts of western Libya left 105 p
 ### [The Syrian Observatory for Human Rights claims that at least 20 Syrian Army soldiers and five rebels are killed in heavy fighting near Latakia district. ](/news/2012/06/20/the-syrian-observatory-for-human-rights-claims-that-at-least-20-syrian-army-soldiers-and-five-rebels-are-killed-in-heavy-fighting-near-latak.md)
 _Context: Latakia district, Syrian Army, Syrian Observatory for Human Rights_
 
-##### Turkey
+##### Turkish
 ### [Turkey's military confirms it has carried out strikes on Kurdish rebel targets inside Iraq. ](/news/2012/06/20/turkey-s-military-confirms-it-has-carried-out-strikes-on-kurdish-rebel-targets-inside-iraq.md)
 The Turkish military said it has carried out strikes on Kurdish rebel targets in Iraq, a day after 18 people died in fighting in south-east Turkey.
 

@@ -45,7 +45,7 @@ A Colombia court rules a 2009 deal allowing US troops access to army bases is un
 
 ##### Israel
 ### [A court in Israel court jails a man who broke into the Turkish embassy in Tel Aviv and asked for asylum; his lawyer says the man was once an Israeli informer whose life is now under threat. ](/news/2010/08/18/a-court-in-israel-court-jails-a-man-who-broke-into-the-turkish-embassy-in-tel-aviv-and-asked-for-asylum-his-lawyer-says-the-man-was-once-an.md)
-_Context: Israel, Tel Aviv, Turkey_
+_Context: Israel, Tel Aviv, Turkish_
 
 ##### United States
 ### [The United States offers its support for a proposed international commission intent on examining alleged war crimes by the military junta of Burma. ](/news/2010/08/18/the-united-states-offers-its-support-for-a-proposed-international-commission-intent-on-examining-alleged-war-crimes-by-the-military-junta-of.md)
@@ -129,7 +129,7 @@ The American Ballet Theatre company is to perform in Cuba later this year for th
 
 ##### United States
 ### [The United States deploys troops along its border with Mexico by the order of President Barack Obama. ](/news/2010/08/18/the-united-states-deploys-troops-along-its-border-with-mexico-by-the-order-of-president-barack-obama.md)
-_Context: Barack Obama, Mexico, U.S. President, United States_
+_Context: Barack Obama, Mexico, President, United States_
 
 ##### India
 ### [3 Indian peacekeepers serving in a United Nations peacekeeping operation in the Democratic Republic of the Congo are killed by rebels in an apparent ambush. ](/news/2010/08/18/3-indian-peacekeepers-serving-in-a-united-nations-peacekeeping-operation-in-the-democratic-republic-of-the-congo-are-killed-by-rebels-in-an.md)

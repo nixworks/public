@@ -15,7 +15,7 @@ _Context: Diego Fernandez de Cevallos, Mexico_
 ### [President of Belarus Alexander Lukashenko claims victory in the presidential election with 79% of the vote. Hundreds of people who protested the vote are arrested. ](/news/2010/12/20/president-of-belarus-alexander-lukashenko-claims-victory-in-the-presidential-election-with-79-of-the-vote-hundreds-of-people-who-protested.md)
 Police in Belarus beat and arrest scores of protesters and several presidential candidates, drawing international condemnation.
 
-##### Ukrainian
+##### Ukraine
 ### [Ukrainian opposition leader Yulia Tymoshenko is charged with misusing state funds while serving as Prime Minister. ](/news/2010/12/20/ukrainian-opposition-leader-yulia-tymoshenko-is-charged-with-misusing-state-funds-while-serving-as-prime-minister.md)
 Ukrainian opposition leader Yulia Tymoshenko has been charged with misusing state funds while serving as prime minister, her spokeswoman says.
 

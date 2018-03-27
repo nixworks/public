@@ -27,7 +27,7 @@ Nine police and poll officials were killed in two attacks on Thursday, one in a 
 ### [A policeman shoots dead three American medical staff in the Afghan capital of Kabul. The policeman is reported to have shot himself after the attack. ](/news/2014/04/24/a-policeman-shoots-dead-three-american-medical-staff-in-the-afghan-capital-of-kabul-the-policeman-is-reported-to-have-shot-himself-after-th.md)
 Three American medical staff are shot dead by a policeman guarding a hospital in the Afghan capital, Kabul, officials say.
 
-##### Ukrainian
+##### Ukraine
 ### [The Ukrainian government says it's regained control of the city hall in the eastern port of Mariupol from pro-Russian separatists. Administrative buildings have been taken over in at least a dozen towns in Eastern Ukraine. ](/news/2014/04/24/the-ukrainian-government-says-it-s-regained-control-of-the-city-hall-in-the-eastern-port-of-mariupol-from-pro-russian-separatists-administr.md)
 Russia announces new military exercises on its border with Ukraine, after Kiev orders troops to move against separatists in the east.
 

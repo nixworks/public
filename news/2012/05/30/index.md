@@ -59,7 +59,7 @@ Wikileaks founder Julian Assange loses his Supreme Court fight against extraditi
 ### [Enhanced security preparations are reported in the lead-up to the 2012 Bilderberg Conference in Chantilly, Virginia. ](/news/2012/05/30/enhanced-security-preparations-are-reported-in-the-lead-up-to-the-2012-bilderberg-conference-in-chantilly-virginia.md)
 _Context: Bilderberg Group, Chantilly, Virginia_
 
-##### U.S. President
+##### President
 ### [President of the United States Barack Obama angers the people of Poland by referring to the Nazi death camp at Auschwitz as "Polish". Prominent Poles demand an apology for the "outrageous" gaffe. ](/news/2012/05/30/president-of-the-united-states-barack-obama-angers-the-people-of-poland-by-referring-to-the-nazi-death-camp-at-auschwitz-as-polish-promin.md)
 US President Barack Obama has caused an outcry in Poland after referring to a Nazi death camp as &quot;Polish&quot;.
 
@@ -91,7 +91,7 @@ A South African art gallery agrees not to display a painting of President Jacob 
 ### [Romeo Langlois, a freelance journalist from France 24 who was abducted by the Revolutionary Armed Forces of Colombia (FARC) on April 28, is released by FARC in southern Colombia. ](/news/2012/05/30/romeo-langlois-a-freelance-journalist-from-france-24-who-was-abducted-by-the-revolutionary-armed-forces-of-colombia-farc-on-april-28-is.md)
 _Context: Colombia, France 24, Revolutionary Armed Forces of Colombia_
 
-##### Turkey
+##### Turkish
 ### [Several nations, including Turkey, Germany and Canada, expel Syrian diplomats in response to the May 25 Houla massacre. ](/news/2012/05/30/several-nations-including-turkey-germany-and-canada-expel-syrian-diplomats-in-response-to-the-may-25-houla-massacre.md)
 Hopes of a new initiative over Syria suffer a setback as a Russian spokesman rules out any action by the UN Security Council soon.
 

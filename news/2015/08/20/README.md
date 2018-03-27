@@ -7,7 +7,7 @@ Formats: [HTML](2015/08/20/index.html)  [JSON](2015/08/20/index.json)  [XML](201
 ### [The U.S. National Oceanic and Atmospheric Administration reports that July was the hottest month globally since record keeping began in 1880. Global temperatures were 1.46degF (0.81degC) warmer than the 20th century average. NOAA scientists expect 2015 will go down as the warmest year on record. ](/news/2015/08/20/the-u-s-national-oceanic-and-atmospheric-administration-reports-that-july-was-the-hottest-month-globally-since-record-keeping-began-in-1880.md)
 _Context: U.S.  National Oceanic and Atmospheric Administration, record keeping_
 
-##### U.S. President
+##### President
 ### [Former U.S. President Jimmy Carter announceds that his liver cancer (melanoma) has spread to his brain. In addition to radiation, Carter will be treated with a new drug, Keytruda (pembrolizumab), that boosts the immune system without the debilitating side effects of older treatments. ](/news/2015/08/20/former-u-s-president-jimmy-carter-announceds-that-his-liver-cancer-melanoma-has-spread-to-his-brain-in-addition-to-radiation-carter-wil.md)
 The 90-year-old former president says he is &ldquo;perfectly at ease with whatever comes.&rdquo;
 

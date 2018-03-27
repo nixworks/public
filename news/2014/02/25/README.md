@@ -5,7 +5,7 @@ Formats: [HTML](2014/02/25/index.html)  [JSON](2014/02/25/index.json)  [XML](201
 
 ##### China
 ### [China's National Meteorological Center of CMA warns of heavy smog in northern and central China over the next two days. ](/news/2014/02/25/china-s-national-meteorological-center-of-cma-warns-of-heavy-smog-in-northern-and-central-china-over-the-next-two-days.md)
-_Context: China, Chinese, National Meteorological Center, smog_
+_Context: China, China, National Meteorological Center, smog_
 
 ##### Russia
 ### [Russia's leading opposition activists Boris Nemtsov, Alexei Navalny, Ilya Yashin are jailed for 7-10 days for disobeying a police officer while protesting against the Bolotnaya square case. The previous day, in Moscow police detained over 400 people, including Nadezhda Tolokonnikova and Maria Alyokhina. ](/news/2014/02/25/russia-s-leading-opposition-activists-boris-nemtsov-alexei-navalny-ilya-yashin-are-jailed-for-7-10-days-for-disobeying-a-police-officer-wh.md)

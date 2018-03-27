@@ -23,9 +23,9 @@ A day before the scheduled National Security Advisor level talks between India a
 ### [The Prime Minister of Russia Dmitry Medvedev visits the disputed Kuril Islands prompting a protest from Japan. ](/news/2015/08/22/the-prime-minister-of-russia-dmitry-medvedev-visits-the-disputed-kuril-islands-prompting-a-protest-from-japan.md)
 TOKYO/ITURUP (Reuters) - Japan on Saturday lodged a protest over Russian Prime Minister Dmitry Medvedev&#x27;s visit to one of four disputed Pacific islands which have strained ties between the two countries since the end of World War Two. The decades-old argument over the territory, claimed by both
 
-##### Chinese
+##### China
 ### [A landslide in China's Yunnan Province leaves three people dead and eight missing. ](/news/2015/08/22/a-landslide-in-china-s-yunnan-province-leaves-three-people-dead-and-eight-missing.md)
-_Context: Chinese, Yunnan Province_
+_Context: China, Yunnan Province_
 
 ##### China
 ### [An explosion occurs at a chemical warehouse in China's Shandong province, with nine people injured according to Chinese media. ](/news/2015/08/22/an-explosion-occurs-at-a-chemical-warehouse-in-china-s-shandong-province-with-nine-people-injured-according-to-chinese-media.md)

@@ -25,7 +25,7 @@ German Foreign Minister Sigmar Gabriel and his Turkish counterpart Mevlut Cavuso
 
 ##### Sanchi oil tanker collision
 ### [Thirty-two sailors are missing after Iranian oil tanker Sanchi and Chinese freighter "CF-Crystal" collide off the east coast of China. The collision ignites the oil tanker, which carried a 136,000-tonne load. ](/news/2018/01/6/thirty-two-sailors-are-missing-after-iranian-oil-tanker-sanchi-and-chinese-freighter-cf-crystal-collide-off-the-east-coast-of-china-the-c.md)
-_Context: Chinese, Sanchi oil tanker collision, oil tanker_
+_Context: China, Sanchi oil tanker collision, oil tanker_
 
 ##### Kashmir conflict
 ### [An IED bombing kills four Indian Reserve policemen patrolling a deserted market in the upper northwestern city of Sopore, India. Jaish-e-Mohammed militants, fighting against Indian rule in Kashmir, claim responsibility for the attack. ](/news/2018/01/6/an-ied-bombing-kills-four-indian-reserve-policemen-patrolling-a-deserted-market-in-the-upper-northwestern-city-of-sopore-india-jaish-e-moh.md)

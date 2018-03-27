@@ -23,9 +23,9 @@ _Context: Honduras, San Pedro Sula, soccer_
 ### [Sweden detains two people for allegedly plotting to attack Gothenburg in an alleged "terrorist crime". ](/news/2010/10/30/sweden-detains-two-people-for-allegedly-plotting-to-attack-gothenburg-in-an-alleged-terrorist-crime.md)
 Two people remain in detention in connection with alleged attack plot in Gothenburg.
 
-##### Turkey
+##### Turkish
 ### [Turkey lifts a two-year ban on YouTube, which was blocked due to videos insulting the country's founder Mustafa Kemal Ataturk. ](/news/2010/10/30/turkey-lifts-a-two-year-ban-on-youtube-which-was-blocked-due-to-videos-insulting-the-country-s-founder-mustafa-kemal-atata1-4rk.md)
-_Context: Mustafa Kemal Ataturk, Turkey, YouTube_
+_Context: Mustafa Kemal Ataturk, Turkish, YouTube_
 
 ##### Rwanda
 ### [Two men are sentenced to life imprisonment for the killing of a Rwandan journalist who had allegedly uncovered evidence that the Rwandan government was behind the attempted murder of an ex-army general. ](/news/2010/10/30/two-men-are-sentenced-to-life-imprisonment-for-the-killing-of-a-rwandan-journalist-who-had-allegedly-uncovered-evidence-that-the-rwandan-gov.md)
@@ -39,7 +39,7 @@ Saudi king invites bloc leaders to Riyadh for talks aimed at breaking months of 
 ### [The prime ministers of China and Japan meet in Vietnam amid a diplomatic disagreement, with Hillary Clinton of the United States wading into the dispute during a speech. ](/news/2010/10/30/the-prime-ministers-of-china-and-japan-meet-in-vietnam-amid-a-diplomatic-disagreement-with-hillary-clinton-of-the-united-states-wading-into.md)
 Vietnam hosts leaders including US secretary of state for crucial talks amid diplomatic row between Asian giants.
 
-##### Turkey
+##### Turkish
 ### [Turkey's national security council adds Israeli activity in the Middle East, "online terror" and global warming to a document listing potential threats, while removing Armenia, Bulgaria, Georgia, Iran and Syria from the same list. The document also calls for a Middle East without nuclear weapons. ](/news/2010/10/30/turkey-s-national-security-council-adds-israeli-activity-in-the-middle-east-online-terror-and-global-warming-to-a-document-listing-potent.md)
 Turkey&#39;s national security council removes Iran, Syria from list of threats to state, adds Israel, local media reported. Document says Israeli actions may prompt Middle East arms race
 

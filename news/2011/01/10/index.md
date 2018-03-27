@@ -59,7 +59,7 @@ Brazilian Finance Minister Guido Mantega says the world is on course for a trade
 ### [Trading on the Dhaka Stock Exchange in Bangladesh is halted after it fell by 9.25% in an hour; investors stage protests and clash with riot police. ](/news/2011/01/10/trading-on-the-dhaka-stock-exchange-in-bangladesh-is-halted-after-it-fell-by-9-25-in-an-hour-investors-stage-protests-and-clash-with-riot.md)
 Police in Bangladesh use tear gas against investors who rampaged after the biggest ever one-day fall of the stock market in the capital Dhaka.
 
-##### Turkey
+##### Turkish
 ### [Turkey is considering demolishing a giant sculpture, meant to symbolize friendship between Turkey and Armenia, near the city of Kars. ](/news/2011/01/10/turkey-is-considering-demolishing-a-giant-sculpture-meant-to-symbolize-friendship-between-turkey-and-armenia-near-the-city-of-kars.md)
 The Turkish government is reportedly considering demolishing a giant sculpture meant to symbolise reconciliation between Turkey and Armenia.
 

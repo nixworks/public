@@ -19,7 +19,7 @@ _Context: Australia, Australian Transport Safety Bureau, Qantas Flight 30, oxyge
 ### [ In the United Kingdom, the Appellate Committee of the House of Lords rejects an appeal by alleged British computer hacker Gary McKinnon against extradition to the United States to face charges of hacking into Pentagon and NASA computers. ](/news/2008/07/30/in-the-united-kingdom-the-appellate-committee-of-the-house-of-lords-rejects-an-appeal-by-alleged-british-computer-hacker-gary-mckinnon-aga.md)
 _Context: Appellate Committee of the House of Lords, Gary McKinnon, NASA, Pentagon, United Kingdom, United States, computer, extradition, hacker_
 
-##### U.S. President
+##### President
 ### [ U.S. President George W. Bush signs The Housing and Economic Recovery Act of 2008 in response to the subprime mortgage crisis. ](/news/2008/07/30/u-s-president-george-w-bush-signs-the-housing-and-economic-recovery-act-of-2008-in-response-to-the-subprime-mortgage-crisis.md)
 U.S. President George W. Bush on Wednesday signed into law a sweeping rescue package aimed at resurrecting the housing market from its worst slump since the Great Depression and stabilizing the two largest mortgage finance companies.
 

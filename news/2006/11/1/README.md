@@ -27,9 +27,9 @@ _Context: Juba, Lord's Resistance Army, Uganda, negotiations_
 ### [ The Revolutionary Armed Forces of Colombia (FARC) attack a rural police command in Colombia, killing at least 16 officers as part of a two-week offensive. President lvaro Uribe had earlier withdrawn from negotiations. ](/news/2006/11/1/the-revolutionary-armed-forces-of-colombia-farc-attack-a-rural-police-command-in-colombia-killing-at-least-16-officers-as-part-of-a-two.md)
 _Context: Colombia, Colombian President, Revolutionary Armed Forces of Colombia, lvaro Uribe_
 
-##### Turkey
+##### Turkish
 ### [ Turkish archaeologist Muazzez Ilmiye Cig is acquitted of inciting religious hatred; a charge made after she published a book stating that the Muslim headscarf originated in the clothing of Sumerian priestesses who initiated young men into sex. ](/news/2006/11/1/turkish-archaeologist-muazzez-ilmiye-cig-is-acquitted-of-inciting-religious-hatred-a-charge-made-after-she-published-a-book-stating-that-t.md)
-_Context: Muazzez Ilmiye Cig, Muslim clothing, Sumer, Turkey_
+_Context: Muazzez Ilmiye Cig, Muslim clothing, Sumer, Turkish_
 
 ##### Sweden
 ### [ The Swedish Ro-Ro ship M-S "Finnbirch" sinks in a blizzard in the Baltic Sea, killing two of its fourteen crew members. The vessel had some 260 tons of fuel and lubrication oil onboard which might present a hazard to the environment. ](/news/2006/11/1/the-swedish-ro-ro-ship-m-s-finnbirch-sinks-in-a-blizzard-in-the-baltic-sea-killing-two-of-its-fourteen-crew-members-the-vessel-had-some.md)

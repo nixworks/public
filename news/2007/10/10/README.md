@@ -37,7 +37,7 @@ _Context: Centers for Disease Control and Prevention, ConAgra, United States, po
 
 ##### Tibet
 ### [ Tibetan exiles storm the embassy of the People's Republic of China in New Delhi to protest the lack of religious freedom in China. ](/news/2007/10/10/tibetan-exiles-storm-the-embassy-of-the-people-s-republic-of-china-in-new-delhi-to-protest-the-lack-of-religious-freedom-in-china.md)
-_Context: China, Chinese, New Delhi, Tibet, embassy, religious freedom_
+_Context: China, China, New Delhi, Tibet, embassy, religious freedom_
 
 ##### General election
 ### [ The general election in the Canadian province of Ontario gives the Liberal government of Premier Dalton McGuinty an enlarged majority. ](/news/2007/10/10/the-general-election-in-the-canadian-province-of-ontario-gives-the-liberal-government-of-premier-dalton-mcguinty-an-enlarged-majority.md)

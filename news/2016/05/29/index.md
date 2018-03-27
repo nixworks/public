@@ -23,7 +23,7 @@ Despite no longer being a tropical storm or depression, Bonnie will induce daily
 ### [The United Nations fears that approximately 700 migrants have drowned in three Mediterranean Sea shipwrecks over the past few days. ](/news/2016/05/29/the-united-nations-fears-that-approximately-700-migrants-have-drowned-in-three-mediterranean-sea-shipwrecks-over-the-past-few-days.md)
 _Context: Mediterranean Sea, United Nations, refugee immigration to Germany_
 
-##### Ukrainian
+##### Ukraine
 ### [A fire at a home for elderly people near the Ukrainian capital Kiev kills at least 16 people. ](/news/2016/05/29/a-fire-at-a-home-for-elderly-people-near-the-ukrainian-capital-kiev-kills-at-least-16-people.md)
 Seventeen people are killed as a fire tears through a building housing elderly people in a village near the Ukrainian capital Kiev.
 

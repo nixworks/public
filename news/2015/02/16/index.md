@@ -23,7 +23,7 @@ Two West Virginia towns have been evacuated after a freight train carrying crude
 ### [A bus carrying at least 60 passengers plunges into a gorge in India's Madhya Pradesh resulting in at least ten deaths and 33 people injured. ](/news/2015/02/16/a-bus-carrying-at-least-60-passengers-plunges-into-a-gorge-in-india-s-madhya-pradesh-resulting-in-at-least-ten-deaths-and-33-people-injured.md)
 A private bus with around 60 passengers on board plunged into a gorge near Machaliya Ghat in Dhar district on Monday evening, killing over 10 passengers and injuring dozens of others.
 
-##### Turkey
+##### Turkish
 ### [A heavy snow storm hits Turkey causing disruption to travel for several days. ](/news/2015/02/16/a-heavy-snow-storm-hits-turkey-causing-disruption-to-travel-for-several-days.md)
 Barely a week after the last snowstorm pounded Turkey, another will cause travel problems through Thursday.
 

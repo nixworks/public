@@ -73,7 +73,7 @@ _Context: French, Iran, Simin Behbahani, Tehran International Airport_
 
 ##### Strong earthquake
 ### [A strong earthquake in Turkey kills dozens. ](/news/2010/03/8/a-strong-earthquake-in-turkey-kills-dozens.md)
-_Context: Turkey, strong earthquake_
+_Context: Turkish, strong earthquake_
 
 ##### New York
 ### [New York politician Eric Massa resigns after admitting to sexual harassment. ](/news/2010/03/8/new-york-politician-eric-massa-resigns-after-admitting-to-sexual-harassment.md)

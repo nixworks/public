@@ -113,7 +113,7 @@ Indonesia admits that the men seen torturing Papuan villagers in a video uploade
 
 ##### Kirovohrad
 ### [Three bombs explode in front of government offices in Kirovohrad, Ukraine, ahead of a visit by President Viktor Yanukovych. ](/news/2010/10/22/three-bombs-explode-in-front-of-government-offices-in-kirovohrad-ukraine-ahead-of-a-visit-by-president-viktor-yanukovych.md)
-_Context: Kirovohrad, Ukrainian, Viktor Yanukovych_
+_Context: Kirovohrad, Ukraine, Viktor Yanukovych_
 
 ##### Wikileaks
 ### [Wikileaks releases Iraq War Logs, secret American military records which reveal new information, including that U.S. commanders allowed torture and execution to occur without investigation and that hundreds of civilians have been killed at U.S. military checkpoints during the War on Iraq. Hillary Clinton and other U.S. officials condemn the disclosures. ](/news/2010/10/22/wikileaks-releases-iraq-war-logs-secret-american-military-records-which-reveal-new-information-including-that-u-s-commanders-allowed-tort.md)

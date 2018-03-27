@@ -27,9 +27,9 @@ Luxembourg has become the latest country to vote in favour of equalising same-se
 ### [The Malaysian Maritime Enforcement Agency reports that a boat carrying 97 Indonesians has capsized with 66 missing. ](/news/2014/06/18/the-malaysian-maritime-enforcement-agency-reports-that-a-boat-carrying-97-indonesians-has-capsized-with-66-missing.md)
 _Context: Indonesia, Malaysian Maritime Enforcement Agency_
 
-##### Ukrainian
+##### Ukraine
 ### [Ukrainian President Petro Poroshenko asks parliament to dismiss the country's central bank governor, Stepan Kubiv. ](/news/2014/06/18/ukrainian-president-petro-poroshenko-asks-parliament-to-dismiss-the-country-s-central-bank-governor-stepan-kubiv.md)
-_Context: Petro Poroshenko, Stepan Kubiv, Ukrainian, country's central bank_
+_Context: Petro Poroshenko, Stepan Kubiv, Ukraine, country's central bank_
 
 ##### Syrian Civil War
 ### [Opposition activists claim that Syrian Army helicopters have bombed a refugee camp near the border with Jordan, killing at least 20 people. ](/news/2014/06/18/opposition-activists-claim-that-syrian-army-helicopters-have-bombed-a-refugee-camp-near-the-border-with-jordan-killing-at-least-20-people.md)

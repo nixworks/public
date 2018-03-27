@@ -17,15 +17,15 @@ The leaders of Sudan and South Sudan reaffirm their commitment to setting up a b
 
 ##### Congress
 ### [The United States Congress officially declares President Barack Obama the winner of the 2012 presidential election. ](/news/2013/01/4/the-united-states-congress-officially-declares-president-barack-obama-the-winner-of-the-2012-presidential-election.md)
-_Context: Barack Obama, Congress, U.S. President, United States presidential election, 2012_
+_Context: Barack Obama, Congress, President, United States presidential election, 2012_
 
 ##### Venezuela
 ### [The Venezuelan government announces that president Hugo Chavez is being treated for a "respiratory deficiency" after complications from a severe lung infection. ](/news/2013/01/4/the-venezuelan-government-announces-that-president-hugo-cha-vez-is-being-treated-for-a-respiratory-deficiency-after-complications-from-a-s.md)
 _Context: Hugo Chavez, Venezuela, lung infection_
 
-##### Chinese
+##### China
 ### [Journalists in China call for the resignation of the propaganda chief in Guangdong province over "excessive censorship" amid the closure of a liberal website. ](/news/2013/01/4/journalists-in-china-call-for-the-resignation-of-the-propaganda-chief-in-guangdong-province-over-excessive-censorship-amid-the-closure-of.md)
-_Context: Chinese, Guangdong province, censorship, liberal_
+_Context: China, Guangdong province, censorship, liberal_
 
 ##### Sexual violence
 ### [Demonstrations against sexual violence after Delhi gang rape spread across Asia and are now happening in Nepal, Sri Lanka, Pakistan and Bangladesh. ](/news/2013/01/4/demonstrations-against-sexual-violence-after-delhi-gang-rape-spread-across-asia-and-are-now-happening-in-nepal-sri-lanka-pakistan-and-bang.md)

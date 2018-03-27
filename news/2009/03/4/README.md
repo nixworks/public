@@ -11,9 +11,9 @@ _Context: Amsterdam, Amsterdam Airport Schiphol, Dutch, Dutch Safety Board, Flig
 ### [ British-Norwegian cruise line Fred Olsen's cruise ship "Balmoral" escapes a Somali pirate attack in the Gulf of Aden. ](/news/2009/03/4/british-norwegian-cruise-line-fred-olsen-s-cruise-ship-balmoral-escapes-a-somali-pirate-attack-in-the-gulf-of-aden.md)
 _Context: Balmoral, Fred Olsen, Gulf of Aden, Norwegian, Somali pirates, Somalia, United Kingdom, cruise line, cruise ship_
 
-##### Ukrainian
+##### Ukraine
 ### [ Ukraine's Security Service raids Naftogas's headquarters in Kiev. ](/news/2009/03/4/ukraine-s-security-service-raids-naftogas-s-headquarters-in-kiev.md)
-_Context: Kiev, Naftogas, SBU, Ukrainian_
+_Context: Kiev, Naftogas, SBU, Ukraine_
 
 ##### International Criminal Court
 ### [ The International Criminal Court issues an arrest warrant for Sudanese President Omar al-Bashir for a five-year campaign of violence in Darfur. ](/news/2009/03/4/the-international-criminal-court-issues-an-arrest-warrant-for-sudanese-president-omar-al-bashir-for-a-five-year-campaign-of-violence-in-dar.md)

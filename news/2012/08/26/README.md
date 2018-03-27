@@ -37,7 +37,7 @@ Forecasters say Tropical Storm Isaac has gained added strength and should be at 
 
 ##### Yan'an
 ### [Thirty-six people are killed in a bus crash near Yan'an, Shaanxi province of China. ](/news/2012/08/26/thirty-six-people-are-killed-in-a-bus-crash-near-yan-an-shaanxi-province-of-china.md)
-_Context: Chinese, Shaanxi province, Yan'an_
+_Context: China, Shaanxi province, Yan'an_
 
 ##### Afghanistan
 ### [Seventeen villagers including two women in Afghanistan's southern Kajaki district are beheaded by unknown organised people. ](/news/2012/08/26/seventeen-villagers-including-two-women-in-afghanistan-s-southern-kajaki-district-are-beheaded-by-unknown-organised-people.md)

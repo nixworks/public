@@ -31,7 +31,7 @@ Prosecutors charged two San Francisco sheriff’s deputies and a former deputy T
 ### [In the United States, South Dakota Governor Dennis Daugaard vetoes House Bill 1008 that would have required transgender students to use bathrooms, locker rooms, and other facilities based on their gender at birth in state public schools. The bill would have been law at midnight if the governor had not acted. ](/news/2016/03/1/in-the-united-states-south-dakota-governor-dennis-daugaard-vetoes-house-bill-1008-that-would-have-required-transgender-students-to-use-bath.md)
 South Dakota Governor Dennis Daugaard vetoed legislation that would have restricted transgender students access to school facilities.
 
-##### Ukrainian
+##### Ukraine
 ### [Ukraine bans government officials from publicly criticizing the work of state institutions and their colleagues, after damaging disclosures last month that highlighted slow progress in fighting corruption. ](/news/2016/03/1/ukraine-bans-government-officials-from-publicly-criticizing-the-work-of-state-institutions-and-their-colleagues-after-damaging-disclosures.md)
 Ukraine banned government officials on Tuesday from publicly criticizing the work of state institutions and their colleagues, after damaging disclosures last month that highlighted slow progress in fighting corruption.
 
@@ -41,7 +41,7 @@ Hundreds of children in western Pennsylvania were sexually assaulted by about 50
 
 ##### South China Sea disputes
 ### [Filipino fishermen say China has deployed up to five ships around the disputed Quirino Atoll, also known as Jackson Atoll, in the South China Sea, preventing them from accessing traditional fishing grounds. ](/news/2016/03/1/filipino-fishermen-say-china-has-deployed-up-to-five-ships-around-the-disputed-quirino-atoll-also-known-as-jackson-atoll-in-the-south-chin.md)
-_Context: Chinese, Philippines, South China Sea, South China Sea disputes_
+_Context: China, Philippines, South China Sea, South China Sea disputes_
 
 ##### Refugee immigration to Germany
 ### [United Nations refugee agency spokesperson Adrian Edwards warns that Europe is on the verge, "... of a largely self-induced humanitarian crisis, ..." if the rapid build-up of migrants continues at the northern borders of an already over-stretched Greece. There are at least 24,000 there now, including 8,500 at Idomeni, the site of yesterday's incident. ](/news/2016/03/1/united-nations-refugee-agency-spokesperson-adrian-edwards-warns-that-europe-is-on-the-verge-of-a-largely-self-induced-humanitarian-cri.md)

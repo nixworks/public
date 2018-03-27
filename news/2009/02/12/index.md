@@ -45,7 +45,7 @@ Union pledges to fight to reverse the decision.
 
 ##### Ford's Theatre
 ### [ Ford's Theatre in Washington, D.C. reopens for the bicentennial of assassinated U.S. President Abraham Lincoln's birth. ](/news/2009/02/12/ford-s-theatre-in-washington-d-c-reopens-for-the-bicentennial-of-assassinated-u-s-president-abraham-lincoln-s-birth.md)
-_Context: Abraham Lincoln, Ford's Theatre, U.S. President, United States, Washington, D.C., assassinated, bicentennial_
+_Context: Abraham Lincoln, Ford's Theatre, President, United States, Washington, D.C., assassinated, bicentennial_
 
 ##### Hamas
 ### [ Hamas agrees to an 18-month truce in its conflict with Israel, which has not yet responded. ](/news/2009/02/12/hamas-agrees-to-an-18-month-truce-in-its-conflict-with-israel-which-has-not-yet-responded.md)
@@ -65,7 +65,7 @@ The remarks to a Jewish group were among the popeâ€™s strongest since a bishopâ€
 
 ##### United States
 ### [ The United States National Transportation Safety Board concludes that Canada geese caused US Airways Flight 1549 to ditch into New York City's Hudson River. ](/news/2009/02/12/the-united-states-national-transportation-safety-board-concludes-that-canada-geese-caused-us-airways-flight-1549-to-ditch-into-new-york-cit.md)
-_Context: Canada geese, Hudson River, NTSB, New York City, US Airways, US Airways Flight 1549, United States, ditches_
+_Context: Canada geese, Hudson River, National Transportation Safety Board, New York City, US Airways, US Airways Flight 1549, United States, ditches_
 
 ##### Colgan Air
 ### [ Colgan Air Flight 3407 crashes in Clarence Center, New York, killing 50 people. ](/news/2009/02/12/colgan-air-flight-3407-crashes-in-clarence-center-new-york-killing-50-people.md)

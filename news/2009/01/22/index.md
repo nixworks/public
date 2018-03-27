@@ -33,7 +33,7 @@ With sales of PCs falling, Microsoft said it would lay off 5 percent of its work
 
 ##### United States
 ### [ United States President Barack Obama will close Guantanamo Bay Naval Base's detention camp within one year and bans torture. ](/news/2009/01/22/united-states-president-barack-obama-will-close-guanta-namo-bay-naval-base-s-detention-camp-within-one-year-and-bans-torture.md)
-_Context: Barack Obama, Guantanamo Bay, Guantanamo Bay detention camp, U.S. President, United States, military base at Guantanamo Bay, torture_
+_Context: Barack Obama, Guantanamo Bay, Guantanamo Bay detention camp, President, United States, military base at Guantanamo Bay, torture_
 
 ##### Israel
 ### [ Israel prepares to defend itself against accusations of war crimes in its conflict with Hamas. ](/news/2009/01/22/israel-prepares-to-defend-itself-against-accusations-of-war-crimes-in-its-conflict-with-hamas.md)

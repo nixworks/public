@@ -11,7 +11,7 @@ _Context: United Nations, World Meteorological Organisation, greenhouse gas_
 ### [The General Synod of the Church of England narrowly rejects a motion to allow women to become bishops. ](/news/2012/11/20/the-general-synod-of-the-church-of-england-narrowly-rejects-a-motion-to-allow-women-to-become-bishops.md)
 _Context: General Synod of the Church of England, bishops_
 
-##### Chinese
+##### China
 ### [China appoints Sun Zhengcai as new chief for the city of Chongqing, once led by disgraced politician Bo Xilai. ](/news/2012/11/20/china-appoints-sun-zhengcai-as-new-chief-for-the-city-of-chongqing-once-led-by-disgraced-politician-bo-xilai.md)
 China appoints a new Communist Party chief in Chongqing, the city once led by disgraced politician Bo Xilai.
 

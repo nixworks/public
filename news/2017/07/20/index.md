@@ -41,7 +41,7 @@ _Context: Chester Bennington, Linkin Park, Palos Verdes Estates, California_
 
 ##### Syrian Civil War
 ### [Syrian rebels, who have benefited from the "covert" CIA military aid program, say they have not been officially informed of the U.S. decision to stop this aid, and add that its full impact depends on whether U.S. allies Jordan, Saudi Arabia, Qatar, and Turkey continue to support their fight. A Free Syrian Army commander warns this decision risks triggering the collapse of the moderate opposition. ](/news/2017/07/20/syrian-rebels-who-have-benefited-from-the-covert-cia-military-aid-program-say-they-have-not-been-officially-informed-of-the-u-s-decisio.md)
-_Context: CIA, Free Syrian Army, Jordan, Qatar, Saudi Arabia, Syrian Civil War, Turkey_
+_Context: CIA, Free Syrian Army, Jordan, Qatar, Saudi Arabia, Syrian Civil War, Turkish_
 
 ## [Previous Day...](/news/2017/07/19/index.md)
 

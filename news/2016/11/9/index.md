@@ -3,7 +3,7 @@ Formats: [HTML](2016/11/9/index.html)  [JSON](2016/11/9/index.json)  [XML](2016/
 
 ## [2016-11-9](/news/2016/11/9/index.md)
 
-##### Donald Trump
+##### Trump
 ### [Although he lost the popular vote, Donald Trump, the Republican nominee for the 2016 presidential election, becomes the president-elect of the United States after defeating Hillary Clinton, the Democratic nominee in the electoral college. It is the fifth time in United States history where the winning candidate lost the popular vote, the last such defeat occurring in 2000.The Republican Party retains control of the House and Senate. ](/news/2016/11/9/although-he-lost-the-popular-vote-donald-trump-the-republican-nominee-for-the-2016-presidential-election-becomes-the-president-elect-of-t.md)
 His surprise victory ended an erratic and grievance-filled campaign that took direct aim at his own party and long-held ideals of American democracy.
 

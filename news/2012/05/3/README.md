@@ -15,15 +15,15 @@ _Context: Labour Party, United Kingdom, local elections_
 ### [Bahrain's King Hamad bin Isa Al Khalifa grants new powers to parliament. ](/news/2012/05/3/bahrain-s-king-hamad-bin-isa-al-khalifa-grants-new-powers-to-parliament.md)
 Monarch gives extra powers to parliament despite criticism from opposition which says new measures are only symbolic.
 
-##### Chinese
+##### China
 ### [China, France, Russia, the United Kingdom and United States urge Iran to co-operate with the International Atomic Energy Agency. ](/news/2012/05/3/china-france-russia-the-united-kingdom-and-united-states-urge-iran-to-co-operate-with-the-international-atomic-energy-agency.md)
-_Context: Chinese, French, IAEA, Iran, Russia, United Kingdom, United States_
+_Context: China, French, IAEA, Iran, Russia, United Kingdom, United States_
 
 ##### Malian coup d'tat
 ### [2012 Malian coup d'tat: The Economic Community of West African States pledges to send troops to Mali if the country agrees. ](/news/2012/05/3/2012-malian-coup-d-etat-the-economic-community-of-west-african-states-pledges-to-send-troops-to-mali-if-the-country-agrees.md)
 _Context: ECOWAS, Mali, Malian coup d'tat_
 
-##### Chinese
+##### China
 ### [Chinese dissident Chen Guangcheng telephones the U.S. Congress for help in his attempts to leave China with his family. ](/news/2012/05/3/chinese-dissident-chen-guangcheng-telephones-the-u-s-congress-for-help-in-his-attempts-to-leave-china-with-his-family.md)
 Chinese dissident Chen Guangcheng telephones a US Congressional hearing to plead for help in his attempts to leave China with his family.
 

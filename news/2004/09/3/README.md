@@ -3,9 +3,9 @@ Formats: [HTML](2004/09/3/index.html)  [JSON](2004/09/3/index.json)  [XML](2004/
 
 ## [2004-09-3](/news/2004/09/3/index.md)
 
-##### U.S. President
+##### President
 ### [ Former United States President Bill Clinton is to receive urgent heart bypass surgery as early as Monday. He was admitted to New York Presbyterian Hospital on Friday after an angiogram showed lesions in multiple coronary arteries. ](/news/2004/09/3/former-united-states-president-bill-clinton-is-to-receive-urgent-heart-bypass-surgery-as-early-as-monday-he-was-admitted-to-new-york-presb.md)
-_Context: Bill Clinton, U.S. President, angiogram, coronary artery, heart bypass, lesion_
+_Context: Bill Clinton, President, angiogram, coronary artery, heart bypass, lesion_
 
 ##### Syria
 ### [ At the request of Syria, and in defiance of United Nations Security Council Resolution 1559, Lebanon amends its constitution to allow President mile Lahoud to serve an additional term. ](/news/2004/09/3/at-the-request-of-syria-and-in-defiance-of-united-nations-security-council-resolution-1559-lebanon-amends-its-constitution-to-allow-presi.md)

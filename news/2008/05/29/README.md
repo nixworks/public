@@ -65,7 +65,7 @@ _Context: Aurora, Nebraska, Dave Heineman, Governor, Kearney, Nebraska, Tornadoe
 
 ##### Deadly earthquake
 ### [ 2008 Sichuan earthquake: China begins inspecting the ruins of thousands of schools that collapsed in the Sichuan earthquake, searching for clues about why they crumbled. ](/news/2008/05/29/2008-sichuan-earthquake-china-begins-inspecting-the-ruins-of-thousands-of-schools-that-collapsed-in-the-sichuan-earthquake-searching-for.md)
-_Context: 2008 earthquake, Chinese, deadly earthquake_
+_Context: 2008 earthquake, China, deadly earthquake_
 
 ## [Previous Day...](/news/2008/05/28/index.md)
 

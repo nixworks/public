@@ -83,9 +83,9 @@ The leaders of Colombia and Venezuela met in an effort to repair relations that 
 ### [The Seychelles becomes the 112 th country to ratify the Rome Statute of the International Criminal Court. ](/news/2010/08/11/the-seychelles-becomes-the-112-th-country-to-ratify-the-rome-statute-of-the-international-criminal-court.md)
 _Context: International Criminal Court, Rome Statute, Seychelles_
 
-##### NTSB
+##### National Transportation Safety Board
 ### [National Transportation Safety Board investigators arrive at the scene of the 2010 Alaska plane crash near Aleknagik, Alaska. ](/news/2010/08/11/national-transportation-safety-board-investigators-arrive-at-the-scene-of-the-2010-alaska-plane-crash-near-aleknagik-alaska.md)
-_Context: 2010 Alaska plane crash, Alaska, Aleknagik, NTSB_
+_Context: 2010 Alaska plane crash, Alaska, Aleknagik, National Transportation Safety Board_
 
 ##### Punjab Province
 ### [Food prices quadruple in Pakistan as conditions worsen and at least 1.4 million acres of crops are wiped out in Punjab by Pakistan's worst floods. ](/news/2010/08/11/food-prices-quadruple-in-pakistan-as-conditions-worsen-and-at-least-1-4-million-acres-of-crops-are-wiped-out-in-punjab-by-pakistan-s-worst-f.md)

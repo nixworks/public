@@ -17,7 +17,7 @@ _Context: Bangladesh, Cyclone Sidr, Dhaka_
 
 ##### Japan
 ### [ Japanese Prime Minister Yasuo Fukuda flies to the United States to hold talks with U.S. President George W. Bush. ](/news/2007/11/16/japanese-prime-minister-yasuo-fukuda-flies-to-the-united-states-to-hold-talks-with-u-s-president-george-w-bush.md)
-_Context: George W. Bush, Japan, Japanese Prime Minister, U.S. President, United States, Yasuo Fukuda_
+_Context: George W. Bush, Japan, Japanese Prime Minister, President, United States, Yasuo Fukuda_
 
 ##### Uttar Pradesh
 ### [ Police in Uttar Pradesh arrest three Pakistani members of Jaish-e-Mohammed who were plotting to kidnap an Indian politician. ](/news/2007/11/16/police-in-uttar-pradesh-arrest-three-pakistani-members-of-jaish-e-mohammed-who-were-plotting-to-kidnap-an-indian-politician.md)
@@ -35,9 +35,9 @@ _Context: Benazir Bhutto, John Negroponte, Prime Minister, US Deputy Secretary o
 ### [ The Organization for Security and Co-operation in Europe announces it will not be able to monitor the 2007 Russian legislative election since its staff has been denied visas. ](/news/2007/11/16/the-organization-for-security-and-co-operation-in-europe-announces-it-will-not-be-able-to-monitor-the-2007-russian-legislative-election-sin.md)
 _Context: OSCE, parliamentary elections, visa_
 
-##### Turkey
+##### Turkish
 ### [ Turkish prosecutors ask the Constitutional Court to ban the Kurdish Democratic Society Party, claiming it has links to the outlawed Kurdistan Workers Party. ](/news/2007/11/16/turkish-prosecutors-ask-the-constitutional-court-to-ban-the-kurdish-democratic-society-party-claiming-it-has-links-to-the-outlawed-kurdist.md)
-_Context: Constitutional Court of Turkey, Democratic Society Party, Kurdistan Workers Party, Turkey, prosecutor_
+_Context: Constitutional Court of Turkey, Democratic Society Party, Kurdistan Workers Party, Turkish, prosecutor_
 
 ##### Germany
 ### [ The German train driver strike enters its third day. ](/news/2007/11/16/the-german-train-driver-strike-enters-its-third-day.md)

@@ -21,7 +21,7 @@ The controversial case has been watched closely by the rest of the country, and 
 
 ##### Democratic National Convention
 ### [ Illinois Senator Barack Obama accepts the nomination of the Democratic Party at the INVESCO Field at Mile High in Denver, Colorado, becoming the first African American to be nominated by a major party for election as President of the United States. ](/news/2008/08/28/illinois-senator-barack-obama-accepts-the-nomination-of-the-democratic-party-at-the-invesco-field-at-mile-high-in-denver-colorado-becomin.md)
-_Context: Barack Obama, Democrat, Democratic National Convention, Denver, Colorado, INVESCO Field at Mile High, Illinois, Senator, U.S. President, black_
+_Context: Barack Obama, Democrat, Democratic National Convention, Denver, Colorado, INVESCO Field at Mile High, Illinois, President, Senator, black_
 
 ## [Previous Day...](/news/2008/08/27/index.md)
 

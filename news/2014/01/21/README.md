@@ -45,7 +45,7 @@ _Context: Beirut, Hezbollah, Lebanese_
 
 ##### Kiev
 ### [Violent clashes occur for a second day between protesters and police in Kiev, Ukraine. ](/news/2014/01/21/violent-clashes-occur-for-a-second-day-between-protesters-and-police-in-kiev-ukraine.md)
-_Context: Kiev, Ukrainian_
+_Context: Kiev, Ukraine_
 
 ## [Previous Day...](/news/2014/01/20/index.md)
 

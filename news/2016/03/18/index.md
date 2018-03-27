@@ -25,11 +25,11 @@ A Florida jury awards Hulk Hogan $115m after the gossip news website Gawker publ
 
 ##### 2016 Trump campaign
 ### [The FBI's Joint Terrorism Task Force, United States Secret Service and New York City Police Department are investigating a letter containing a suspicious white powder and a threatening note which was sent to the home of Eric Trump, son of Donald Trump, in New York City. The handwritten note within the letter said: "If your father does not drop out of the race, the next envelope won't be a fake." It was signed "X". ](/news/2016/03/18/the-fbi-s-joint-terrorism-task-force-united-states-secret-service-and-new-york-city-police-department-are-investigating-a-letter-containing.md)
-_Context: 2016 Trump campaign, Donald Trump, Eric Trump, FBI, Joint Terrorism Task Force, New York City, New York City Police Department, United States Secret Service_
+_Context: 2016 Trump campaign, Eric Trump, FBI, Joint Terrorism Task Force, New York City, New York City Police Department, Trump, United States Secret Service_
 
 ##### Censorship in China
 ### [Jia Jia, a columnist for China's Tencent media company is reported missing after not being heard from since Tuesday, when he was on his way to Hong Kong. He was last heard from when he tried to warn a friend about publishing an anonymous letter calling for President Xi Jinping's resignation. ](/news/2016/03/18/jia-jia-a-columnist-for-china-s-tencent-media-company-is-reported-missing-after-not-being-heard-from-since-tuesday-when-he-was-on-his-way.md)
-_Context: Censorship in China, Chinese, Hong Kong, Tencent, Xi Jinping, president_
+_Context: Censorship in China, China, Hong Kong, Tencent, Xi Jinping, president_
 
 ##### 2016 Brussels police raids
 ### [Salah Abdeslam, the alleged suspect and primary perpetrator of the November 2015 Paris attacks is shot and arrested by Belgian authorities in a Brussels raid. ](/news/2016/03/18/salah-abdeslam-the-alleged-suspect-and-primary-perpetrator-of-the-november-2015-paris-attacks-is-shot-and-arrested-by-belgian-authorities-i.md)

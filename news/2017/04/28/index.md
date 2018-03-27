@@ -5,7 +5,7 @@ Formats: [HTML](2017/04/28/index.html)  [JSON](2017/04/28/index.json)  [XML](201
 
 ##### Georgia's 6th congressional district special election, 2017
 ### [In a meeting for the NRA, U.S. president Donald Trump criticizes Democratic candidate Jon Ossoff. ](/news/2017/04/28/in-a-meeting-for-the-nra-u-s-president-donald-trump-criticizes-democratic-candidate-jon-ossoff.md)
-_Context: Donald Trump, Georgia's 6th congressional district special election, 2017, Jon Ossoff, NRA_
+_Context: Georgia's 6th congressional district special election, 2017, Jon Ossoff, NRA, Trump_
 
 ##### General strike
 ### [A general strike is held in Brazil, the first one in twenty years. ](/news/2017/04/28/a-general-strike-is-held-in-brazil-the-first-one-in-twenty-years.md)

@@ -16,7 +16,7 @@ Director David O. Russell seems to have the golden touch. His con-man comedy &qu
 
 ### Changes:
 
-1. ["The Last of Us" leads the nominations for the 17th DICE Awards. ](/news/2014/01/16/the-last-of-us-leads-the-nominations-for-the-17th-dice-awards.md) _2018-03-25 03:50:59 (First version)_
+1. ["The Last of Us" leads the nominations for the 17th DICE Awards. ](/news/2014/01/16/the-last-of-us-leads-the-nominations-for-the-17th-dice-awards.md) _2018-03-26 03:51:03 (First version)_
 1. ["Gravity" and "American Hustle" lead the nominations for the 86th Academy Awards. ](/news/2014/01/16/gravity-and-american-hustle-lead-the-nominations-for-the-86th-academy-awards.md) _(Current version)_
 
 ### Related:

@@ -3,7 +3,7 @@ Formats: [HTML](2009/10/5/index.html)  [JSON](2009/10/5/index.json)  [XML](2009/
 
 ## [2009-10-5](/news/2009/10/5/index.md)
 
-##### Chinese
+##### China
 ### [ China pledges to strengthen bonds with isolated North Korea, nudging it to improve its economy. ](/news/2009/10/5/china-pledges-to-strengthen-bonds-with-isolated-north-korea-nudging-it-to-improve-its-economy.md)
 North Korea said on Tuesday it was ready to return to international talks on ending its nuclear weapons program but demanded negotiations first with the United States.
 
@@ -17,7 +17,7 @@ _Context: France Tlcom, suicide_
 
 ##### United States
 ### [ United States President Barack Obama delays a meeting with the Dalai Lama until after a visit to China. ](/news/2009/10/5/united-states-president-barack-obama-delays-a-meeting-with-the-dalai-lama-until-after-a-visit-to-china.md)
-_Context: 14th Dalai Lama, Barack Obama, China, U.S. President, United States_
+_Context: 14th Dalai Lama, Barack Obama, China, President, United States_
 
 ##### Honduras
 ### [ Honduran interim President Roberto Micheletti lifts a decree restricting civil liberties. ](/news/2009/10/5/honduran-interim-president-roberto-micheletti-lifts-a-decree-restricting-civil-liberties.md)

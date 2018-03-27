@@ -5,11 +5,11 @@ Formats: [HTML](2016/08/6/index.html)  [JSON](2016/08/6/index.json)  [XML](2016/
 
 ##### 2016 U.S. election
 ### [Hawaii U.S. Senator Brian Schatz criticizes Donald Trump for calling the Philippines a 'terrorist' country. ](/news/2016/08/6/hawaii-u-s-senator-brian-schatz-criticizes-donald-trump-for-calling-the-philippines-a-terrorist-country.md)
-_Context: 2016 U.S. election, Brian Schatz, Donald Trump, Hawaii, Philippines_
+_Context: 2016 U.S. election, Brian Schatz, Hawaii, Philippines, Trump_
 
 ##### Tensions in the region
 ### [China's People's Liberation Army Air Force says it has conducted "combat patrols" near the disputed Spratly Islands and Scarborough Shoal in the South China Sea as part of an effort to normalize such drills and respond to security threats. Xian H-6 strategic bombers and Su-30 fighter jets took part in the patrols, according to Xinhua News Agency. ](/news/2016/08/6/china-s-people-s-liberation-army-air-force-says-it-has-conducted-combat-patrols-near-the-disputed-spratly-islands-and-scarborough-shoal-in.md)
-_Context: Chinese, Chinese aircraft, Scarborough Shoal, South China Sea, Spratly Islands, Su-30, Xian H-6, Xinhua, strategic bombers, tensions in the region_
+_Context: China, Chinese aircraft, Scarborough Shoal, South China Sea, Spratly Islands, Su-30, Xian H-6, Xinhua, strategic bombers, tensions in the region_
 
 ##### 2016 Atlantic hurricane season
 ### [Tropical Storm Earl makes its final landfall near Veracruz in eastern Mexico, producing flooding rains that kill at least six. ](/news/2016/08/6/tropical-storm-earl-makes-its-final-landfall-near-veracruz-in-eastern-mexico-producing-flooding-rains-that-kill-at-least-six.md)

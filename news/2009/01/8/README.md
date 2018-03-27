@@ -17,7 +17,7 @@ _Context: Lasantha Wickrematunge, Sri Lanka_
 
 ##### Russia
 ### [ Russia and Ukraine agree to resend natural gas through pipelines to Europe. ](/news/2009/01/8/russia-and-ukraine-agree-to-resend-natural-gas-through-pipelines-to-europe.md)
-_Context: Europe, Russia, Russia-Ukraine gas disputes, Ukrainian, line, natural gas_
+_Context: Europe, Russia, Russia-Ukraine gas disputes, Ukraine, line, natural gas_
 
 ##### Bank of England
 ### [ The Bank of England cuts interest rates to 1.5 percent, its lowest level in its 315-year history. ](/news/2009/01/8/the-bank-of-england-cuts-interest-rates-to-1-5-percent-its-lowest-level-in-its-315-year-history.md)

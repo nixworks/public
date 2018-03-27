@@ -25,7 +25,7 @@ _Context: China, Cuba, Denmark, Dutch, Eritrea, Finland, Iceland, Iran, Irish, L
 
 ##### American Airlines Flight 587
 ### [ The co-pilot of American Airlines Flight 587 caused the November 2001, crash in New York City that claimed the lives of 265 people, the staff of the U.S. National Transportation Safety Board said. ](/news/2004/10/26/the-co-pilot-of-american-airlines-flight-587-caused-the-november-2001-crash-in-new-york-city-that-claimed-the-lives-of-265-people-the-sta.md)
-_Context: American Airlines Flight 587, NTSB, New York City_
+_Context: American Airlines Flight 587, National Transportation Safety Board, New York City_
 
 ## [Previous Day...](/news/2004/10/25/index.md)
 

@@ -21,7 +21,7 @@ _Context: President, Socialist Party, Tabar Vzquez, Uruguay, abortion_
 
 ##### Prime Minister of Russia
 ### [ Prime Minister Vladimir Putin says Russia may be forced to cut gas supplies to Ukraine if the latter "does not fulfil the agreements" on payment for gas already consumed. ](/news/2008/12/4/prime-minister-vladimir-putin-says-russia-may-be-forced-to-cut-gas-supplies-to-ukraine-if-the-latter-does-not-fulfil-the-agreements-on-pa.md)
-_Context: Prime Minister of Russia, Russia, Ukrainian, Vladimir Putin_
+_Context: Prime Minister of Russia, Russia, Ukraine, Vladimir Putin_
 
 ## [Previous Day...](/news/2008/12/3/index.md)
 

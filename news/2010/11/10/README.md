@@ -27,7 +27,7 @@ HONEYMOON killer Gabe Watson will fly out of Brisbane today hours after being re
 ### [Jordanian King Abdullah II meets with Xu Caihou, vice chairman of China's Central Military Commission, in Amman, Jordan. ](/news/2010/11/10/jordanian-king-abdullah-ii-meets-with-xu-caihou-vice-chairman-of-china-s-central-military-commission-in-amman-jordan.md)
 _Context: Abdullah II, Amman, China's Central Military Commission, Jordan, Jordanian King, Xu Caihou_
 
-##### U.S. President
+##### President
 ### [U.S. President Barack Obama gives a speech in Indonesia during which he says more needs to be done to repair the relationship between the United States and the Muslim world. ](/news/2010/11/10/u-s-president-barack-obama-gives-a-speech-in-indonesia-during-which-he-says-more-needs-to-be-done-to-repair-the-relationship-between-the-un.md)
 President Barack Obama held up his boyhood home of Indonesia as an example to the Muslim world in a speech on Wednesday in which he said America was not at war with Islam but acknowledged it was hard to eradicate &quot;years of mistrust.&quot;
 

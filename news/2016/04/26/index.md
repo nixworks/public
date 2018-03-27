@@ -83,9 +83,9 @@ Japanese car maker Mitsubishi Motors Corp (7211.T) said on Tuesday it used fuel 
 ### [The Prime Minister of Australia Malcolm Turnbull announces that French company DCNS has been awarded a $50 billion contract to build a new fleet of submarines for the Royal Australian Navy with the subs to be built in Adelaide. ](/news/2016/04/26/the-prime-minister-of-australia-malcolm-turnbull-announces-that-french-company-dcns-has-been-awarded-a-50-billion-contract-to-build-a-new-f.md)
 French company wins the contract to build Australia&#039;s next fleet of submarines, with Prime Minister Malcolm Turnbull promising thousands of jobs.
 
-##### Ukrainian
+##### Ukraine
 ### [Ukraine commemorates the 30th anniversary of the Chernobyl disaster. ](/news/2016/04/26/ukraine-commemorates-the-30th-anniversary-of-the-chernobyl-disaster.md)
-_Context: Chernobyl disaster, Ukrainian_
+_Context: Chernobyl disaster, Ukraine_
 
 ##### Attacks on secularists in Bangladesh
 ### [Ansar-al Islam, the Bangladeshi branch of al-Qaeda in the Indian Subcontinent, claims responsibility for yesterday's murder of USAID employee and LGBT activist Xulhaz Mannan and his friend, actor Tanay Majumder. ](/news/2016/04/26/ansar-al-islam-the-bangladeshi-branch-of-al-qaeda-in-the-indian-subcontinent-claims-responsibility-for-yesterday-s-murder-of-usaid-employe.md)

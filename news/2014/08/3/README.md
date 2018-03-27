@@ -13,7 +13,7 @@ Breaking&#x20;news&#x20;and&#x20;world&#x20;news&#x20;from&#x20;France&#x20;24&#
 
 ##### 2014 Ludian earthquake
 ### [A magnitude 6.1 earthquake kills at least 367 people and injures more than 1,700 in Yunnan, China. ](/news/2014/08/3/a-magnitude-6-1-earthquake-kills-at-least-367-people-and-injures-more-than-1-700-in-yunnan-china.md)
-_Context: 2014 Ludian earthquake, Chinese, Yunnan_
+_Context: 2014 Ludian earthquake, China, Yunnan_
 
 ##### Bank of Portugal
 ### [The Bank of Portugal takes control of Banco Espirito Santo SA in a 4.9 billion bailout package. ](/news/2014/08/3/the-bank-of-portugal-takes-control-of-banco-espirito-santo-sa-in-a-4-9-billion-bailout-package.md)

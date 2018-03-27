@@ -11,9 +11,9 @@ _Context: Luxembourg, the Council of_
 ### [ A group of Peruvian army reservists from the Movimiento Etnocacerista seize a police station in Andahuaylas, Apurmac Region, demanding the resignation of President Alejandro Toledo. Four police officers die in a shootout, another dozen police are taken as hostages, and a state of emergency is declared in the region. ](/news/2005/01/1/a-group-of-peruvian-army-reservists-from-the-movimiento-etnocacerista-seize-a-police-station-in-andahuaylas-apurimac-region-demanding-the.md)
 _Context: Alejandro Toledo, Andahuaylas, Apurmac Region, Movimiento Etnocacerista, Peru, President_
 
-##### Turkey
+##### Turkish
 ### [ The Turkish currency is revalued at a rate of 1,000,000 "old" lira for 1 New Turkish Lira. ](/news/2005/01/1/the-turkish-currency-is-revalued-at-a-rate-of-1-000-000-old-lira-for-1-new-turkish-lira.md)
-_Context: New Turkish Lira, Turkey, currency_
+_Context: New Turkish Lira, Turkish, currency_
 
 ##### 2005
 ### [ The world rings in 2005. Some nations observe a moment of silence with candles and white roses for the at least 150,000 dead and 5,000,000 left homeless after the 26 December tsunamis. In many countries flags are flown at half staff. ](/news/2005/01/1/the-world-rings-in-2005-some-nations-observe-a-moment-of-silence-with-candles-and-white-roses-for-the-at-least-150-000-dead-and-5-000-000.md)

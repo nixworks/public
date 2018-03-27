@@ -19,9 +19,9 @@ _Context: Fighter jet, Orakzai Tribal Area, Pakistan, Taliban_
 ### [Two Canadian medics are killed in Afghanistan, 20 kilometres west of Kandahar City in Panjwaii District. ](/news/2010/06/27/two-canadian-medics-are-killed-in-afghanistan-20-kilometres-west-of-kandahar-city-in-panjwaii-district.md)
 _Context: Afghanistan, Canadian, Kandahar, Panjwaii District_
 
-##### Chinese
+##### China
 ### [A coal mine explosion kills 5 in China's Ningxia Hui Autonomous Region. ](/news/2010/06/27/a-coal-mine-explosion-kills-5-in-china-s-ningxia-hui-autonomous-region.md)
-_Context: Chinese, Ningxia Hui Autonomous Region_
+_Context: China, Ningxia Hui Autonomous Region_
 
 ##### Italy
 ### [Italy awaits the outcome of a trial which could imprison Prime Minister of Italy Silvio Berlusconi's senior adviser, Marcello Dell'Utri, for 11 years. ](/news/2010/06/27/italy-awaits-the-outcome-of-a-trial-which-could-imprison-prime-minister-of-italy-silvio-berlusconi-s-senior-adviser-marcello-dell-utri-for.md)

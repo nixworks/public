@@ -3,9 +3,9 @@ Formats: [HTML](2012/10/26/index.html)  [JSON](2012/10/26/index.json)  [XML](201
 
 ## [2012-10-26](/news/2012/10/26/index.md)
 
-##### Chinese
+##### China
 ### [Chinese politician Bo Xilai is stripped of his membership of the National People's Congress. ](/news/2012/10/26/chinese-politician-bo-xilai-is-stripped-of-his-membership-of-the-national-people-s-congress.md)
-_Context: Bo Xilai, Chinese, National People's Congress_
+_Context: Bo Xilai, China, National People's Congress_
 
 ##### Italy
 ### [Former Italian Prime Minister Silvio Berlusconi is sentenced to four years imprisonment for fiscal fraud. ](/news/2012/10/26/former-italian-prime-minister-silvio-berlusconi-is-sentenced-to-four-years-imprisonment-for-fiscal-fraud.md)
@@ -15,7 +15,7 @@ _Context: Italy, Silvio Berlusconi_
 ### [Russian leftist protest leader Sergei Udaltsov is charged with plotting "mass disorder" and could face a 10 year prison sentence if convicted. ](/news/2012/10/26/russian-leftist-protest-leader-sergei-udaltsov-is-charged-with-plotting-mass-disorder-and-could-face-a-10-year-prison-sentence-if-convicte.md)
 _Context: Russia, Sergei Udaltsov_
 
-##### Chinese
+##### China
 ### [China blocks the website of the "New York Times" and searches on social media after it published an investigation into the finances of Premier Wen Jiabao. ](/news/2012/10/26/china-blocks-the-website-of-the-new-york-times-and-searches-on-social-media-after-it-published-an-investigation-into-the-finances-of-premi.md)
 The Chinese government began blocking access to The Times after publication of an article describing the wealth accumulated by relatives of Prime Minister Wen Jiabao.
 

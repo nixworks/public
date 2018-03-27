@@ -11,9 +11,9 @@ Scientists in Australia are working to classify a new species of giant jellyfish
 ### [In an Olympic first, UN Secretary-General Ban Ki-moon today addresses the IOC Session in advance of the Olympic Winter Games in Sochi. ](/news/2014/02/6/in-an-olympic-first-un-secretary-general-ban-ki-moon-today-addresses-the-ioc-session-in-advance-of-the-olympic-winter-games-in-sochi.md)
 _Context: Ban Ki-moon_
 
-##### Chinese
+##### China
 ### [Chinese media criticizes Philippine President Benigno Aquino III for his remarks the previous day. ](/news/2014/02/6/chinese-media-criticizes-philippine-president-benigno-aquino-iii-for-his-remarks-the-previous-day.md)
-_Context: Chinese, Philippine, his predecessor_
+_Context: China, Philippine, his predecessor_
 
 ##### South Africa
 ### [Rescue workers recover eight bodies from a South African gold mine in Doornkop following a fire on Tuesday night. One worker is missing while another eight were rescued. ](/news/2014/02/6/rescue-workers-recover-eight-bodies-from-a-south-african-gold-mine-in-doornkop-following-a-fire-on-tuesday-night-one-worker-is-missing-whil.md)

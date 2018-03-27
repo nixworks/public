@@ -19,7 +19,7 @@ _Context: Brazil, penguin_
 ### [Nepal's lawmakers fail to elect a new Prime Minister as no candidate manages to secure the required number of votes . ](/news/2010/07/21/nepal-s-lawmakers-fail-to-elect-a-new-prime-minister-as-no-candidate-manages-to-secure-the-required-number-of-votes.md)
 _Context: Nepal, Prime Minister_
 
-##### U.S. President
+##### President
 ### [President of the United States Barack Obama signs finance reforms into law, overhauling the country's Wall Street Financial District. ](/news/2010/07/21/president-of-the-united-states-barack-obama-signs-finance-reforms-into-law-overhauling-the-country-s-wall-street-financial-district.md)
 US president says act will create the strongest financial protections for US consumers.
 
@@ -65,7 +65,7 @@ Man sentenced to 18 months in prison after telling an Israeli woman he was Jewis
 
 ##### Mexico
 ### [Mexico states that it has the support of Bolivia, Cuba, Ecuador, Ghana, Guatemala, the Federated States of Micronesia, Panama, Senegal, Turkey, and Uruguay in pursuing its case against Arizona's immigration law. ](/news/2010/07/21/mexico-states-that-it-has-the-support-of-bolivia-cuba-ecuador-ghana-guatemala-the-federated-states-of-micronesia-panama-senegal-turk.md)
-_Context: Arizona, Bolivia, Cuba, Ecuador, Federated States of Micronesia, Ghana, Guatemala, Mexico, Panama, Senegal, Turkey, Uruguay, immigration law_
+_Context: Arizona, Bolivia, Cuba, Ecuador, Federated States of Micronesia, Ghana, Guatemala, Mexico, Panama, Senegal, Turkish, Uruguay, immigration law_
 
 ##### Hillary Clinton
 ### [Hillary Clinton, the United States Secretary of State, announces that the United States will impose further sanctions against North Korea as a result of the sinking of the South Korean warship ROKS "Cheonan". ](/news/2010/07/21/hillary-clinton-the-united-states-secretary-of-state-announces-that-the-united-states-will-impose-further-sanctions-against-north-korea-as.md)

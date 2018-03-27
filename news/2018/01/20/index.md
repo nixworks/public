@@ -15,7 +15,7 @@ Thousands of protesters gathered at rallies on Saturday across the country and a
 ### [ Tens of thousands of demonstrators protest in Bucharest and major cities against perceived corruption and changes to the judiciary. Romanians in diaspora stage protests in dozens of cities worldwide in solidarity with the anti-corruption movement in the country. ](/news/2018/01/20/tens-of-thousands-of-demonstrators-protest-in-bucharest-and-major-cities-against-perceived-corruption-and-changes-to-the-judiciary-romania.md)
  BUCHAREST, Romania (AP) — Tens of thousands of Romanians on Saturday protested against legislation passed by Parliament which critics say will make it harder to prosecute crime an
 
-##### Chinese
+##### China
 ### [China claims its sovereignty was violated when a United States Navy ship sailed close to the Scarborough Shoal near the Philippines. ](/news/2018/01/20/china-claims-its-sovereignty-was-violated-when-a-united-states-navy-ship-sailed-close-to-the-scarborough-shoal-near-the-philippines.md)
 China has accused the United States of sending a warship without permission into what it said was its territorial waters in the disputed South China Sea, a
 
@@ -23,7 +23,7 @@ China has accused the United States of sending a warship without permission into
 ### [The state government of Minas Gerais, Brazil, declares a health emergency in three areas, Belo Horizonte, Itabira and Ponte Nova, over an outbreak of yellow fever. ](/news/2018/01/20/the-state-government-of-minas-gerais-brazil-declares-a-health-emergency-in-three-areas-belo-horizonte-itabira-and-ponte-nova-over-an-ou.md)
 The government of Minas Gerais state in southeastern Brazil decreed Saturday a public health emergency situation in three regional state for six months because of yellow fever. The measure covers the regional health units of the municipalities of Belo Horizonte, Itabira and Ponte Nova &#8211; 94 cit...
 
-##### Turkey
+##### Turkish
 ### [A bus crash in Turkey's northwestern Eskisehir Province kills at least 11 people and injures 46 others. ](/news/2018/01/20/a-bus-crash-in-turkey-s-northwestern-eskiaehir-province-kills-at-least-11-people-and-injures-46-others.md)
 The bus taking families on a skiing trip crashed in the north-west in reportedly good road conditions.
 

@@ -45,7 +45,7 @@ Minister for Foreign Affairs Micheál Martin has described the Israeli blockade 
 
 ##### Baidu
 ### [Baidu shares have risen 34% since rival Google said on Jan 12 it may shut down its business in China. Baidu has risen 34 percent and Google has lost 8.5 percent. ](/news/2010/03/5/baidu-shares-have-risen-34-since-rival-google-said-on-jan-12-it-may-shut-down-its-business-in-china-baidu-has-risen-34-percent-and-google.md)
-_Context: Baidu, Chinese, Google_
+_Context: Baidu, China, Google_
 
 ## [Previous Day...](/news/2010/03/4/index.md)
 

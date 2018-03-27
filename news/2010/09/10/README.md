@@ -11,7 +11,7 @@ _Context: Deputy Prime Minister, East Timor, Mario Viegas CarrascalGBPo, Parliam
 ### [At least 71 prisoners escape from jail in the Mexican city of Reynosa, Tamaulipas, across the U.S. border from McAllen, Texas. ](/news/2010/09/10/at-least-71-prisoners-escape-from-jail-in-the-mexican-city-of-reynosa-tamaulipas-across-the-u-s-border-from-mcallen-texas.md)
 _Context: McAllen, Mexico, Reynosa, Tamaulipas, Texas, U.S. border_
 
-##### U.S. President
+##### President
 ### [President of the United States Barack Obama urges Prime Minister of Israel Benjamin Netanyahu to extend a partial construction freeze on the West Bank. ](/news/2010/09/10/president-of-the-united-states-barack-obama-urges-prime-minister-of-israel-benjamin-netanyahu-to-extend-a-partial-construction-freeze-on-the.md)
 President Obama said Friday that he had urged Israeli Prime Minister Benjamin Netanyahu to extend a partial freeze on Israeli settlement construction in the West Bank because peace talks with the...
 

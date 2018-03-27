@@ -21,7 +21,7 @@ _Context: 2008, 2008 presidential debate, Democrat, South Carolina Democratic Pa
 
 ##### Senator
 ### [ The Senate of the United States approves a funding measure for the War in Iraq calling for the staged withdrawal of forces. U.S. President George W. Bush responded by stating that his reaction to the bill will be to veto it. ](/news/2007/04/26/the-senate-of-the-united-states-approves-a-funding-measure-for-the-war-in-iraq-calling-for-the-staged-withdrawal-of-forces-u-s-president.md)
-_Context: George W. Bush, Senator, U.S. President, War in Iraq, veto_
+_Context: George W. Bush, President, Senator, War in Iraq, veto_
 
 ##### Syrian parliamentary election, 2007
 ### [ Syrian parliamentary election, 2007: Syria's ruling coalition, the Baath Party-led National Progressive Front, wins the vast majority of seats in the People's Council, with the opposition boycotting the process claiming it as a farce. ](/news/2007/04/26/syrian-parliamentary-election-2007-syria-s-ruling-coalition-the-baath-party-led-national-progressive-front-wins-the-vast-majority-of-se.md)

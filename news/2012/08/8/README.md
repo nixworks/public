@@ -55,9 +55,9 @@ _Context: Hurricane Ernesto, Yucatn Peninsula_
 ### [Typhoon Haikui makes landfall over Xiangshan County in the Chinese province of Zhejiang. ](/news/2012/08/8/typhoon-haikui-makes-landfall-over-xiangshan-county-in-the-chinese-province-of-zhejiang.md)
 Nineteen people are now known to have died in severe floods in the Philippines, as officials warn heavy rain will continue to fall.
 
-##### Chinese
+##### China
 ### [China announces plan to close one-third of the nation's 23 rare earth mines and about half of 99 smelting companies. ](/news/2012/08/8/china-announces-plan-to-close-one-third-of-the-nation-s-23-rare-earth-mines-and-about-half-of-99-smelting-companies.md)
-_Context: Chinese, rare earth_
+_Context: China, rare earth_
 
 ##### Salaheddine district
 ### [Heavy fighting continues in the Salaheddine district in Aleppo. ](/news/2012/08/8/heavy-fighting-continues-in-the-salaheddine-district-in-aleppo.md)

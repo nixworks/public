@@ -65,7 +65,7 @@ _Context: DR Congo, India, United Nations_
 
 ##### Syrian uprising (2011-present)
 ### [Syrian uprising (2011-present): French Foreign Minister Laurent Fabius states that a Syrian commander in the National Guard, Manaf Tlass who fled to Turkey some days ago, is on his way to Paris. ](/news/2012/07/6/syrian-uprising-2011-present-french-foreign-minister-laurent-fabius-states-that-a-syrian-commander-in-the-national-guard-manaf-tlass-who.md)
-_Context: Laurent Fabius, Manaf Tlass, Paris, Syrian uprising (2011-present), Turkey_
+_Context: Laurent Fabius, Manaf Tlass, Paris, Syrian uprising (2011-present), Turkish_
 
 ## [Previous Day...](/news/2012/07/5/index.md)
 

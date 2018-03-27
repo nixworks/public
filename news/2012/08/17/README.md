@@ -17,7 +17,7 @@ Court sentences three members of band to two-year jail terms for performing prot
 
 ##### Jang Song-thaek
 ### [Jang Song-thaek, the uncle of North Korean leader Kim Jong-un, meets Chinese president Hu Jintao. ](/news/2012/08/17/jang-song-thaek-the-uncle-of-north-korean-leader-kim-jong-un-meets-chinese-president-hu-jintao.md)
-_Context: Chinese, Hu Jintao, Jang Song-thaek, Kim Jong-un, North Korea_
+_Context: China, Hu Jintao, Jang Song-thaek, Kim Jong-un, North Korea_
 
 ##### Mdecins Sans Frontires
 ### [Mdecins Sans Frontires state that Sudanese refugees are in 'humanitarian disaster' in South Sudan. ](/news/2012/08/17/medecins-sans-frontieres-state-that-sudanese-refugees-are-in-humanitarian-disaster-in-south-sudan.md)
@@ -39,9 +39,9 @@ _Context: Ali Bongo Ondimba, Gabon_
 ### [More than 60 fishermen are rescued after being abducted by pirates in the Bay of Bengal. ](/news/2012/08/17/more-than-60-fishermen-are-rescued-after-being-abducted-by-pirates-in-the-bay-of-bengal.md)
 _Context: Bay of Bengal, pirate_
 
-##### Turkey
+##### Turkish
 ### [Turkey urges its citizens not to travel to Lebanon after the kidnapping of two Turkish nationals. ](/news/2012/08/17/turkey-urges-its-citizens-not-to-travel-to-lebanon-after-the-kidnapping-of-two-turkish-nationals.md)
-_Context: Lebanese, Turkey_
+_Context: Lebanese, Turkish_
 
 ##### War in Afghanistan
 ### [Afghanistan: ISAF announces two U.S. soldiers are killed by an Afghan policeman. The shooter is also killed. ](/news/2012/08/17/afghanistan-isaf-announces-two-u-s-soldiers-are-killed-by-an-afghan-policeman-the-shooter-is-also-killed.md)

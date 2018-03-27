@@ -25,7 +25,7 @@ Americans officials want to rotate more military forces through the country, con
 
 ##### The Center for Public Integrity
 ### [A report by the American nonprofit investigative news organization The Center for Public Integrity details that the U. S. Federal Election Commission was hacked by China during the October 2013 federal government shutdown. ](/news/2013/12/17/a-report-by-the-american-nonprofit-investigative-news-organization-the-center-for-public-integrity-details-that-the-u-s-federal-election-c.md)
-_Context:  October 2013 federal government shutdown, Chinese, Federal Election Commission, The Center for Public Integrity_
+_Context:  October 2013 federal government shutdown, China, Federal Election Commission, The Center for Public Integrity_
 
 ##### Edward Snowden
 ### [Edward Snowden offers Brazil information over the NSA spying of its citizens. ](/news/2013/12/17/edward-snowden-offers-brazil-information-over-the-nsa-spying-of-its-citizens.md)
@@ -55,7 +55,7 @@ Six Americans have been killed in a helicopter crash in southern Afghanistan, Fo
 ### [American businessman Jacob Ostreicher escapes Bolivia two years after being imprisoned without charge. ](/news/2013/12/17/american-businessman-jacob-ostreicher-escapes-bolivia-two-years-after-being-imprisoned-without-charge.md)
 An American businessman detained in Bolivia without charge for more than two years has escaped back to the US, officials in both countries say.
 
-##### Turkey
+##### Turkish
 ### [Several prominent Turkish businessmen and the sons of three cabinet ministers are arrested as part of an investigation into alleged bribery and corruption. ](/news/2013/12/17/several-prominent-turkish-businessmen-and-the-sons-of-three-cabinet-ministers-are-arrested-as-part-of-an-investigation-into-alleged-bribery.md)
 Turkish police arrest the sons of three cabinet ministers as part of an investigation into alleged bribery relating to public tenders.
 

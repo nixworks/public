@@ -11,7 +11,7 @@ _Context: Goa, Goa assembly, President's rule_
 ### [ The BSE Sensex breaches the 6,800-mark for the first time in its history, ending at 6,849, up 65 points over its previous close. The market rally has added about 160 billion Indian rupees (approx. 3.6 billion US$) to investor wealth with the BSE's market capitalisation at a record high of 17.65 trillion Indian rupees (approx. 400 billion US$). ](/news/2005/03/4/the-bse-sensex-breaches-the-6-800-mark-for-the-first-time-in-its-history-ending-at-6-849-up-65-points-over-its-previous-close-the-market.md)
 _Context: Bombay Stock Exchange, Sensex, market capitalisation, rupee_
 
-##### Ukrainian
+##### Ukraine
 ### [ Former interior minister of Ukraine, Yuri Kravchenko, is found dead in his country house, in an apparent suicide. He had been linked to the murder of journalist Georgiy Gongadze and was due to give evidence. ](/news/2005/03/4/former-interior-minister-of-ukraine-yuri-kravchenko-is-found-dead-in-his-country-house-in-an-apparent-suicide-he-had-been-linked-to-the.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 

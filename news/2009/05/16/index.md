@@ -5,7 +5,7 @@ Formats: [HTML](2009/05/16/index.html)  [JSON](2009/05/16/index.json)  [XML](200
 
 ##### India
 ### [ India and Turkey confirm their first cases of (A)H1N1 influenza. ](/news/2009/05/16/india-and-turkey-confirm-their-first-cases-of-a-h1n1-influenza.md)
-_Context: H1N1, India, Turkey, current outbreak, swine flu_
+_Context: H1N1, India, Turkish, current outbreak, swine flu_
 
 ##### Demonstration
 ### [ Thousands of demonstrators protest unemployment in Berlin, Germany. ](/news/2009/05/16/thousands-of-demonstrators-protest-unemployment-in-berlin-germany.md)

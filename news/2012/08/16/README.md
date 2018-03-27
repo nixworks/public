@@ -17,7 +17,7 @@ _Context: Non-Aligned Movement summit, State Department, UN Secretary-General_
 
 ##### Japan
 ### [Japan is to deport 14 pro-China activists who landed on the disputed Senkaku Islands. ](/news/2012/08/16/japan-is-to-deport-14-pro-china-activists-who-landed-on-the-disputed-senkaku-islands.md)
-_Context: Chinese, Japan, Senkaku Islands_
+_Context: China, Japan, Senkaku Islands_
 
 ##### West Nile virus
 ### [After an outbreak of the mosquito-borne West Nile virus kills at least 17 people, the mayor of Dallas Mike Rawlings declares a state of emergency in the city. This paves the way for aerial spraying of synthetic pyrethroid insecticides from tonight on. Many residents express their concerns over safety and effectiveness; they suggest other preventive methods of mosquito control. Officials said the measures could cost as much as $1.2 million. ](/news/2012/08/16/after-an-outbreak-of-the-mosquito-borne-west-nile-virus-kills-at-least-17-people-the-mayor-of-dallas-mike-rawlings-declares-a-state-of-emer.md)

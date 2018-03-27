@@ -11,7 +11,7 @@ Relatives of 43 missing Mexican students, who the authorities say were murdered 
 ### [The President of Sri Lanka Mahinda Rajapaksa calls an early election. ](/news/2014/11/20/the-president-of-sri-lanka-mahinda-rajapaksa-calls-an-early-election.md)
 _Context: President of Sri Lanka, Rajapaksa_
 
-##### U.S. President
+##### President
 ### [The President of the United States Barack Obama announces executive orders to defer the deportations of a certain group of illegal immigrants: parents whose children are already U.S. citizens and legal permanent residents who have lived in the United States for five years or more. ](/news/2014/11/20/the-president-of-the-united-states-barack-obama-announces-executive-orders-to-defer-the-deportations-of-a-certain-group-of-illegal-immigrant.md)
 The president sought to convince Americans that his plans to change immigration laws were well within the precedent set by other administrations and did not amount to amnesty.
 

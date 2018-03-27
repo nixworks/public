@@ -19,9 +19,9 @@ _Context: 2008 Dakar Rally, Mauritanian_
 ### [ Transaven crash: A Venezuelan Let L-410 Turbolet carrying at least 14 people crashes near the Los Roques Archipelago. ](/news/2008/01/4/transaven-crash-a-venezuelan-let-l-410-turbolet-carrying-at-least-14-people-crashes-near-the-los-roques-archipelago.md)
 _Context: Let L-410 Turbolet, Los Roques Archipelago, Transaven crash, Venezuela_
 
-##### Chinese
+##### China
 ### [ China allows academics to own patents ](/news/2008/01/4/china-allows-academics-to-own-patents.md)
-_Context: Chinese_
+_Context: China_
 
 ## [Previous Day...](/news/2008/01/3/index.md)
 

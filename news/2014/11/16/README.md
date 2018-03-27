@@ -25,7 +25,7 @@ THE US National Weather Service has warned planes to avoid airspace near an erup
 
 ##### Shandong
 ### [A fire at a food processing plant kills at least 18 workers in Shandong, China. ](/news/2014/11/16/a-fire-at-a-food-processing-plant-kills-at-least-18-workers-in-shandong-china.md)
-_Context: Chinese, Shandong_
+_Context: China, Shandong_
 
 ##### Russia
 ### [The Russian Presidential Library announces plans to establish a Russian version of Wikipedia stating that it would provide more "detailed and accurate" information about the country. ](/news/2014/11/16/the-russian-presidential-library-announces-plans-to-establish-a-russian-version-of-wikipedia-stating-that-it-would-provide-more-detailed-an.md)

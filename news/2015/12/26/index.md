@@ -5,7 +5,7 @@ Formats: [HTML](2015/12/26/index.html)  [JSON](2015/12/26/index.json)  [XML](201
 
 ##### Louisville, Kentucky
 ### [ In the Louisville community of St. Matthews, Kentucky, US, disruptive behavior by a crowd of up to 2,000 teenagers and young adults, including numerous fights and unconfirmed reports of gunshots fired, causes Mall St. Matthews, one of the largest shopping malls in the state, to close early. Despite the unrest, no arrests were made and only minor injuries were reported. ](/news/2015/12/26/in-the-louisville-community-of-st-matthews-kentucky-us-disruptive-behavior-by-a-crowd-of-up-to-2-000-teenagers-and-young-adults-includ.md)
-_Context: Louisville, Kentucky, Mall St. Matthews, St. Matthews, Kentucky, shopping center_
+_Context: Louisville, Kentucky, Mall St. Matthews, St. Matthews, Kentucky, shopping centre_
 
 ##### Chinese Foreign Ministry spokesperson
 ### [China's Foreign Ministry announces French journalist Ursula Gauthier of news magazine L'Obs would not be issued press credentials for 2016, effectively expelling her at the end of month. Gauthier allegedly made speculative reports on the deadly attack at a coal mine in Xinjiang. ](/news/2015/12/26/china-s-foreign-ministry-announces-french-journalist-ursula-gauthier-of-news-magazine-l-obs-would-not-be-issued-press-credentials-for-2016.md)

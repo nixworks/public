@@ -39,7 +39,7 @@ The federal police force in Mexico dismisses 3,200 officers for incompetence, co
 ### [More than 100 Russian far-right skinheads attack a music festival in central Russia, injuring at least 10 people and leaving one 14-year-old girl dead. ](/news/2010/08/30/more-than-100-russian-far-right-skinheads-attack-a-music-festival-in-central-russia-injuring-at-least-10-people-and-leaving-one-14-year-old.md)
 More than 100 Russian skinheads have attacked a music festival in central Russia, reports say, injuring at least 10 people.
 
-##### U.S. President
+##### President
 ### [The President of the United States Barack Obama freezes the assets of three North Korean organisations and one individual in response to the sinking of a South Korean warship in March. North Korea has denied it is responsible. ](/news/2010/08/30/the-president-of-the-united-states-barack-obama-freezes-the-assets-of-three-north-korean-organisations-and-one-individual-in-response-to-the.md)
 Expanded assets freeze list is part of a punishment over the sinking of the South Korean warship earlier this year.
 

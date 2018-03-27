@@ -57,7 +57,7 @@ Environmental group 10:10 axe their campaign movie starring Gillian Anderson and
 
 ##### 60th edition
 ### [The 60th Miss World 2010 pageant begins as the last delegates from 120 nations worldwide arrive in China. ](/news/2010/10/2/the-60th-miss-world-2010-pageant-begins-as-the-last-delegates-from-120-nations-worldwide-arrive-in-china.md)
-_Context: 60th edition, Chinese_
+_Context: 60th edition, China_
 
 ##### MAXXI - National Museum of the 21st Century Arts
 ### [The MAXXI - National Museum of the 21st Century Arts in Rome wins the Stirling Prize, a British architectural award given by the Royal Institute of British Architects (RIBA). ](/news/2010/10/2/the-maxxi-a-national-museum-of-the-21st-century-arts-in-rome-wins-the-stirling-prize-a-british-architectural-award-given-by-the-royal-ins.md)

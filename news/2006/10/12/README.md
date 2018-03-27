@@ -3,9 +3,9 @@ Formats: [HTML](2006/10/12/index.html)  [JSON](2006/10/12/index.json)  [XML](200
 
 ## [2006-10-12](/news/2006/10/12/index.md)
 
-##### Turkey
+##### Turkish
 ### [ Turkish writer Orhan Pamuk, whose novels discover "new symbols for the clash and interlacing of cultures", wins the 2006 Nobel Prize in Literature. ](/news/2006/10/12/turkish-writer-orhan-pamuk-whose-novels-discover-new-symbols-for-the-clash-and-interlacing-of-cultures-wins-the-2006-nobel-prize-in-lit.md)
-_Context: Nobel Prize in Literature, Orhan Pamuk, Turkey_
+_Context: Nobel Prize in Literature, Orhan Pamuk, Turkish_
 
 ##### Amish
 ### [ Workers begin demolishing the one-room Amish schoolhouse in Nickel Mines, Pennsylvania where five girls were shot to death and five others were injured. ](/news/2006/10/12/workers-begin-demolishing-the-one-room-amish-schoolhouse-in-nickel-mines-pennsylvania-where-five-girls-were-shot-to-death-and-five-others.md)

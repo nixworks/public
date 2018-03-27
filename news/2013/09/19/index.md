@@ -25,7 +25,7 @@ Authorities in Singapore have arrested 14 members of a crime syndicate accused o
 
 ##### Japan
 ### [Japan reports that two Chinese ships have entered territorial waters off the coast of the disputed Senkaku Islands. ](/news/2013/09/19/japan-reports-that-two-chinese-ships-have-entered-territorial-waters-off-the-coast-of-the-disputed-senkaku-islands.md)
-_Context: Chinese, Japan, Senkaku Islands, Senkaku Islands dispute, territorial waters_
+_Context: China, Japan, Senkaku Islands, Senkaku Islands dispute, territorial waters_
 
 ##### Al-Qaida
 ### [Jihadis belonging to the al-Qaida offshoot known as the ISIL overrun the town of Azaz, after driving out the Free Syrian Army. ](/news/2013/09/19/jihadis-belonging-to-the-al-qaida-offshoot-known-as-the-isil-overrun-the-town-of-azaz-after-driving-out-the-free-syrian-army.md)

@@ -41,7 +41,7 @@ Algerian singer Cheb Mami went on trial in France on Thursday over accusations t
 
 ##### Syria
 ### [ Syria invites United States President Barack Obama to the Damascus summit. ](/news/2009/07/3/syria-invites-united-states-president-barack-obama-to-the-damascus-summit.md)
-_Context: Barack Obama, Damascus, Syria, U.S. President, United States_
+_Context: Barack Obama, Damascus, President, Syria, United States_
 
 ##### Dinosaur
 ### [ Three dinosaur species&mdash;"Australovenator wintonensis", "Wintonotitan wattsi" and "Diamantinasaurus matildae"&mdash;are discovered in Australia. ](/news/2009/07/3/three-dinosaur-species-mdash-australovenator-wintonensis-wintonotitan-wattsi-and-diamantinasaurus-matildae-mdash-are-discovered-in-a.md)

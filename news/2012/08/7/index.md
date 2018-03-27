@@ -5,7 +5,7 @@ Formats: [HTML](2012/08/7/index.html)  [JSON](2012/08/7/index.json)  [XML](2012/
 
 ##### Tibet
 ### [A Tibetan man sets himself on fire in Sichuan, in the latest in a series of protests against Chinese rule. ](/news/2012/08/7/a-tibetan-man-sets-himself-on-fire-in-sichuan-in-the-latest-in-a-series-of-protests-against-chinese-rule.md)
-_Context: Chinese, Sichuan, Tibet_
+_Context: China, Sichuan, Tibet_
 
 ##### Disappearance of Tia Sharp
 ### [Investigators probing the disappearance of Tia Sharp find CCTV film of the missing girl. ](/news/2012/08/7/investigators-probing-the-disappearance-of-tia-sharp-find-cctv-film-of-the-missing-girl.md)

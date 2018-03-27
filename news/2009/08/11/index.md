@@ -29,7 +29,7 @@ A man has been rescued after his light aircraft ditched into the sea off Co Wexf
 
 ##### President of Russia
 ### [ Russian President Dmitry Medvedev delays sending a new ambassador to Ukraine after criticising its "anti-Russian" stance. ](/news/2009/08/11/russian-president-dmitry-medvedev-delays-sending-a-new-ambassador-to-ukraine-after-criticising-its-anti-russian-stance.md)
-_Context: Dmitry Medvedev, President of Russia, Ukrainian_
+_Context: Dmitry Medvedev, President of Russia, Ukraine_
 
 ##### NASA
 ### [ The NASA Spitzer Space Telescope finds evidence of a high-speed collision between two burgeoning planets orbiting a young star. ](/news/2009/08/11/the-nasa-spitzer-space-telescope-finds-evidence-of-a-high-speed-collision-between-two-burgeoning-planets-orbiting-a-young-star.md)

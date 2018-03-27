@@ -27,9 +27,9 @@ Pope Francis celebrates Mass in the Philippine city of Tacloban, devastated by a
 ### [Greek anti-terror police arrest four people in Athens, Greece in alleged relation to the January 15 failed terrorist plot to kill police officers in Belgium. ](/news/2015/01/17/greek-anti-terror-police-arrest-four-people-in-athens-greece-in-alleged-relation-to-the-january-15-failed-terrorist-plot-to-kill-police-off.md)
 _Context: Athens, Belgium, Greece, terrorist_
 
-##### Ukrainian
+##### Ukraine
 ### [Clashes between the Ukrainian army and pro-Russia rebels over Donetsk International Airport intensifies. ](/news/2015/01/17/clashes-between-the-ukrainian-army-and-pro-russia-rebels-over-donetsk-international-airport-intensifies.md)
-_Context: Donetsk International Airport, Russia, Ukrainian, army_
+_Context: Donetsk International Airport, Russia, Ukraine, army_
 
 ##### Chad
 ### [Following the January 16 Chad authorities decision to send troops to Nigeria and Cameroon to fight Boko Haram militants, the Russian ambassador to the country pledges to supply Cameroon with more modern weapons to combat the Islamist insurgents. ](/news/2015/01/17/following-the-january-16-chad-authorities-decision-to-send-troops-to-nigeria-and-cameroon-to-fight-boko-haram-militants-the-russian-ambassa.md)

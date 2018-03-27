@@ -43,7 +43,7 @@ _Context: Andy Williams, Branson, Missouri, United States_
 ### [The People's Republic of China's People's Liberation Army Navy's first aircraft carrier, the "Liaoning", commences service. ](/news/2012/09/25/the-people-s-republic-of-china-s-people-s-liberation-army-navy-s-first-aircraft-carrier-the-liaoning-commences-service.md)
 China says its first aircraft carrier - a refurbished Soviet ship - has entered into service, expanding its ability to defend its sovereignty.
 
-##### Turkey
+##### Turkish
 ### [A bombing in the eastern Turkish city of Tunceli kills at least seven people. ](/news/2012/09/25/a-bombing-in-the-eastern-turkish-city-of-tunceli-kills-at-least-seven-people.md)
 Seven people - mainly members of the security forces - are killed in a blast in the eastern Turkish city of Tunceli, media report.
 

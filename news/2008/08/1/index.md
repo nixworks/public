@@ -5,7 +5,7 @@ Formats: [HTML](2008/08/1/index.html)  [JSON](2008/08/1/index.json)  [XML](2008/
 
 ##### Total solar eclipse
 ### [ A total solar eclipse is visible from northern Canada (Nunavut), Greenland, central Russia, eastern Kazakhstan, western Mongolia and China. ](/news/2008/08/1/a-total-solar-eclipse-is-visible-from-northern-canada-nunavut-greenland-central-russia-eastern-kazakhstan-western-mongolia-and-china.md)
-_Context: Canada, Chinese, Greenland, Kazakhstan, Mongolia, Nunavut, Russia, total solar eclipse_
+_Context: Canada, China, Greenland, Kazakhstan, Mongolia, Nunavut, Russia, total solar eclipse_
 
 ##### South Asian Association for Regional Cooperation
 ### [ The South Asian Association for Regional Cooperation holds a summit meeting in Colombo, Sri Lanka, with terrorism high on the agenda. ](/news/2008/08/1/the-south-asian-association-for-regional-cooperation-holds-a-summit-meeting-in-colombo-sri-lanka-with-terrorism-high-on-the-agenda.md)
@@ -13,7 +13,7 @@ _Context: Colombo, South Asian Association for Regional Cooperation, Sri Lanka, 
 
 ##### Konya Province
 ### [ At least 11 people die following the collapse of a three-story girls' dormitory due to an explosion in the village of Balcilar in Konya Province in central Anatolia, Turkey. ](/news/2008/08/1/at-least-11-people-die-following-the-collapse-of-a-three-story-girls-dormitory-due-to-an-explosion-in-the-village-of-balcilar-in-konya-pro.md)
-_Context: Anatolia, Konya Province, Turkey_
+_Context: Anatolia, Konya Province, Turkish_
 
 ##### King Tupou V
 ### [ King Tupou V is crowned as the 23rd Monarch of Tonga. ](/news/2008/08/1/king-tupou-v-is-crowned-as-the-23rd-monarch-of-tonga.md)

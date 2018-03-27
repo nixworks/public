@@ -69,7 +69,7 @@ _Context: severe storm in India_
 
 ##### President
 ### [President of Iran Mahmoud Ahmadinejad writes a letter to President of the United States Barack Obama urging cooperation between the two countries. ](/news/2010/04/16/president-of-iran-mahmoud-ahmadinejad-writes-a-letter-to-president-of-the-united-states-barack-obama-urging-cooperation-between-the-two-coun.md)
-_Context: Barack Obama, Mahmoud Ahmadinejad, President, U.S. President_
+_Context: Barack Obama, Mahmoud Ahmadinejad, President, President_
 
 ##### Palestinian
 ### [The dismembered corpse of a Palestinian fighter killed by Israeli gunfire in the Gaza Strip is recovered. ](/news/2010/04/16/the-dismembered-corpse-of-a-palestinian-fighter-killed-by-israeli-gunfire-in-the-gaza-strip-is-recovered.md)

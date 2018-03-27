@@ -27,9 +27,9 @@ ARLINGTON, Wash. (AP) — Looking for signs of life in the quicksand-like mud be
 ### [Two gunmen storm a Christian church in Kenya during a Sunday service, killing at least six people and wounding more than a dozen others. ](/news/2014/03/23/two-gunmen-storm-a-christian-church-in-kenya-during-a-sunday-service-killing-at-least-six-people-and-wounding-more-than-a-dozen-others.md)
 Two gunmen stormed a church near the Kenyan coastal city of Mombasa on Sunday and opened fire on worshippers, killing four people and wounding others, in what police called a terrorist attack.
 
-##### Turkey
+##### Turkish
 ### [Turkish F-16s shoot down a Syrian military aircraft for purportedly violating Turkish airspace. A Syrian Arab Republic spokesman denies this claim and says the aircraft was in Syrian airspace when it was shot down. ](/news/2014/03/23/turkish-f-16s-shoot-down-a-syrian-military-aircraft-for-purportedly-violating-turkish-airspace-a-syrian-arab-republic-spokesman-denies-this.md)
-_Context: Syrian Arab Republic, Turkey, shoot down a Syrian military aircraft_
+_Context: Syrian Arab Republic, Turkish, shoot down a Syrian military aircraft_
 
 ## [Previous Day...](/news/2014/03/22/index.md)
 

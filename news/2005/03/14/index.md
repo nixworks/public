@@ -41,7 +41,7 @@ _Context: Alessandra Mussolini, Benito Mussolini, Il Duce, Italy, hunger strike_
 
 ##### World Wildlife Fund
 ### [ According to World Wildlife Fund, melting glaciers in the Himalayas could lead first to floods in China, India and Nepal and then long droughts. ](/news/2005/03/14/according-to-world-wildlife-fund-melting-glaciers-in-the-himalayas-could-lead-first-to-floods-in-china-india-and-nepal-and-then-long-drou.md)
-_Context: Chinese, Himalayas, India, Nepal, World Wildlife Fund, drought, flood, glacier_
+_Context: China, Himalayas, India, Nepal, World Wildlife Fund, drought, flood, glacier_
 
 ##### Anti-secession law
 ### [ The Anti-Secession Law of the People's Republic of China, a law aimed at resolving the issue of Taiwan, is passed and enters into force. ](/news/2005/03/14/the-anti-secession-law-of-the-people-s-republic-of-china-a-law-aimed-at-resolving-the-issue-of-taiwan-is-passed-and-enters-into-force.md)

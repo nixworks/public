@@ -5,7 +5,7 @@ Formats: [HTML](2015/07/30/index.html)  [JSON](2015/07/30/index.json)  [XML](201
 
 ##### Chen Min'er
 ### [Chen Min'er replaces Zhao Kezhi as the Communist Party Secretary of Guizhou province, China. Zhao awaits assignment. ](/news/2015/07/30/chen-min-er-replaces-zhao-kezhi-as-the-communist-party-secretary-of-guizhou-province-china-zhao-awaits-assignment.md)
-_Context: Chen Min'er, Chinese, Communist Party Secretary, Guizhou, Zhao Kezhi_
+_Context: Chen Min'er, China, Communist Party Secretary, Guizhou, Zhao Kezhi_
 
 ##### Guo Boxiong
 ### [Former Central Military Commission Vice-Chairman, General Guo Boxiong, is accused of taking bribes in exchange for the promotion of officers and expelled from the Communist Party of China. ](/news/2015/07/30/former-central-military-commission-vice-chairman-general-guo-boxiong-is-accused-of-taking-bribes-in-exchange-for-the-promotion-of-officers.md)

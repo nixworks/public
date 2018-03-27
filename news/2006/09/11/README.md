@@ -17,7 +17,7 @@ _Context: Atlantic Ocean, Bermuda, Tropical Storm Gordon_
 
 ##### United States
 ### [ American President George W. Bush states that the war against terrorism is "the calling of our generation" and urged Americans to put aside differences and fight to victory. ](/news/2006/09/11/american-president-george-w-bush-states-that-the-war-against-terrorism-is-the-calling-of-our-generation-and-urged-americans-to-put-aside.md)
-_Context: George W. Bush, U.S. President, United States, terrorism_
+_Context: George W. Bush, President, United States, terrorism_
 
 ##### India
 ### [ India celebrates a day of peace: the 100th anniversary of the birth of Mahatma Gandhi's philosophy of peaceful resistance - satyagraha. On September 11, 1906, Gandhi called on his compatriots to use non-violent means to disobey the law, and thousands of Indians were jailed, including Gandhi, for refusing to cooperate and burning their identity booklets. ](/news/2006/09/11/india-celebrates-a-day-of-peace-the-100th-anniversary-of-the-birth-of-mahatma-gandhi-s-philosophy-of-peaceful-resistance-satyagraha-on.md)

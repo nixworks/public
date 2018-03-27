@@ -13,7 +13,7 @@ _Context: Egypt, Sinai Peninsula_
 
 ##### Malaysia Airlines Flight 17
 ### [The bodies and ashes of twenty Malaysian victims who died when the flight was shot down over Ukraine in July have been returned to Kuala Lumpur. ](/news/2014/08/22/the-bodies-and-ashes-of-twenty-malaysian-victims-who-died-when-the-flight-was-shot-down-over-ukraine-in-july-have-been-returned-to-kuala-lum.md)
-_Context: Kuala Lumpur, Malaysia Airlines Flight 17, Malaysian, Ukrainian_
+_Context: Kuala Lumpur, Malaysia Airlines Flight 17, Malaysian, Ukraine_
 
 ##### Landslide
 ### [The death toll from landslides in Japan's Hiroshima prefecture rises to 39 with 26 missing. ](/news/2014/08/22/the-death-toll-from-landslides-in-japan-s-hiroshima-prefecture-rises-to-39-with-26-missing.md)

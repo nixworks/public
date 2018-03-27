@@ -3,7 +3,7 @@ Formats: [HTML](2007/09/19/index.html)  [JSON](2007/09/19/index.json)  [XML](200
 
 ## [2007-09-19](/news/2007/09/19/index.md)
 
-##### Chinese
+##### China
 ### [ Typhoon Wipha (Goring) makes landfall in eastern China before weakening to a Category 2 typhoon as it heads inland. ](/news/2007/09/19/typhoon-wipha-goring-makes-landfall-in-eastern-china-before-weakening-to-a-category-2-typhoon-as-it-heads-inland.md)
 Typhoon Wipha lost strength after crossing the eastern coast of China on Wednesday but downpours have still taken a heavy toll in two provinces.
 
@@ -37,7 +37,7 @@ _Context: Gaza Strip, Palestinian Authority, government_
 
 ##### Turkish Prime Minister
 ### [ Prime Minister of Turkey Recep Tayyip Erdogan calls for a change to the country's Constitution to end the ban on the wearing of headscarves in universities. ](/news/2007/09/19/prime-minister-of-turkey-recep-tayyip-erdoaan-calls-for-a-change-to-the-country-s-constitution-to-end-the-ban-on-the-wearing-of-headscarve.md)
-_Context: Recep Tayyip Erdogan, Turkey, Turkish Prime Minister, constitution, headscarves_
+_Context: Recep Tayyip Erdogan, Turkish, Turkish Prime Minister, constitution, headscarves_
 
 ##### Nevada
 ### [ Nevada authorities call off the search for missing US adventurer Steve Fossett two weeks after he goes missing. ](/news/2007/09/19/nevada-authorities-call-off-the-search-for-missing-us-adventurer-steve-fossett-two-weeks-after-he-goes-missing.md)

@@ -29,7 +29,7 @@ The Mason County coroner’s office released the names of the family members, in
 
 ##### Constitutional Court of Turkey
 ### [Following yesterday's Constitutional Court of Turkey ruling that their rights had been violated, two Turkish journalists, jailed on terrorism charges, are released after 92 days in prison. ](/news/2016/02/26/following-yesterday-s-constitutional-court-of-turkey-ruling-that-their-rights-had-been-violated-two-turkish-journalists-jailed-on-terroris.md)
-_Context: Constitutional Court of Turkey, Turkey, journalist_
+_Context: Constitutional Court of Turkey, Turkish, journalist_
 
 ##### Papua New Guinea
 ### [Eleven prison inmates are killed in Papua New Guinea while trying to break out of Buimo jail in Lae as part of a 90 person jail break. ](/news/2016/02/26/eleven-prison-inmates-are-killed-in-papua-new-guinea-while-trying-to-break-out-of-buimo-jail-in-lae-as-part-of-a-90-person-jail-break.md)

@@ -11,7 +11,7 @@ Residents of the South Atlantic archipelago elect eight members to the Legislati
 ### [A person of interest is arrested in connection with a shooting in Detroit, Michigan, USA, on November 6 that left 3 people dead and 6 others wounded. ](/news/2013/11/7/a-person-of-interest-is-arrested-in-connection-with-a-shooting-in-detroit-michigan-usa-on-november-6-that-left-3-people-dead-and-6-others.md)
 A convicted felon who was wearing body armor when police arrested him in a Detroit suburb will be questioned in an investigation into the fatal shooting of three men in a back gambling room of an east side barbershop.
 
-##### Turkey
+##### Turkish
 ### [Turkey seizes a truck loaded with 1,200 rocket warheads and other weapons near the border with Syria and detain nine people. ](/news/2013/11/7/turkey-seizes-a-truck-loaded-with-1-200-rocket-warheads-and-other-weapons-near-the-border-with-syria-and-detain-nine-people.md)
 Turkey seized a truck loaded with 1,200 rocket warheads and other weapons near the border with Syria on Thursday and detained nine people, the private Dogan news agency reported.
 

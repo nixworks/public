@@ -33,7 +33,7 @@ _Context: Mahmoud Abbas, Palestinian, Palestinian presidential election_
 
 ##### CBS News
 ### [ Four CBS News staffers are fired following the release of an independent investigation of a 60 Minutes story about U.S. President George W. Bush's military service that relied on forged documents. ](/news/2005/01/10/four-cbs-news-staffers-are-fired-following-the-release-of-an-independent-investigation-of-a-60-minutes-story-about-u-s-president-george-w.md)
-_Context: 60 Minutes, CBS News, George W. Bush, U.S. President, forged documents_
+_Context: 60 Minutes, CBS News, George W. Bush, President, forged documents_
 
 ## [Previous Day...](/news/2005/01/9/index.md)
 

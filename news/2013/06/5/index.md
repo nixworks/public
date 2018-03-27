@@ -11,7 +11,7 @@ A 55-million-year-old, mouse-sized fossil from China provides remarkable new ins
 ### [An Egyptian court sentences 43 non-profit workers who advocated for democracy, many of them foreigners, to prison. ](/news/2013/06/5/an-egyptian-court-sentences-43-non-profit-workers-who-advocated-for-democracy-many-of-them-foreigners-to-prison.md)
 ##### Tom Donilon
 ### [Tom Donilon resigns his post as U.S. National Security Advisor and is replaced by Susan Rice. ](/news/2013/06/5/tom-donilon-resigns-his-post-as-u-s-national-security-advisor-and-is-replaced-by-susan-rice.md)
-_Context: National Security Advisor, Susan Rice, Tom Donilon_
+_Context: Susan Rice, Tom Donilon, US National Security Advisor_
 
 ##### Chen Xitong
 ### [Chen Xitong, who was mayor of Beijing during the Tiananmen Square massacre in 1989, dies at age 82. ](/news/2013/06/5/chen-xitong-who-was-mayor-of-beijing-during-the-tiananmen-square-massacre-in-1989-dies-at-age-82.md)

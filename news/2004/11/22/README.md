@@ -21,7 +21,7 @@ _Context: American Journal of Psychiatry, IQ, Mauritius, University of Southern 
 
 ##### Gulfstream II
 ### [ A Gulfstream II airplane heading to pick up former United States President George H.W. Bush crashes before landing, killing all three people on board, in Houston, Texas. ](/news/2004/11/22/a-gulfstream-ii-airplane-heading-to-pick-up-former-united-states-president-george-h-w-bush-crashes-before-landing-killing-all-three-peopl.md)
-_Context: George H.W. Bush, Gulfstream II, Houston, Texas, U.S. President_
+_Context: George H.W. Bush, Gulfstream II, Houston, Texas, President_
 
 ##### Oil spill
 ### [ A mechanical failure has been blamed for an oil spill on the eastern coast of Canada. Experts estimate 170,000 litres of oil have been spilled into the Atlantic Ocean off the coast of Newfoundland, covering an area 9&nbsp;km long by 1&nbsp;km wide. ](/news/2004/11/22/a-mechanical-failure-has-been-blamed-for-an-oil-spill-on-the-eastern-coast-of-canada-experts-estimate-170-000-litres-of-oil-have-been-spil.md)
@@ -37,7 +37,7 @@ _Context: European Commission, European Parliament, Jacques Barrot, Jos Manuel B
 
 ##### Ukrainian presidential election controversy
 ### [ 2004 Ukrainian presidential election: Ukraine's electoral commission declares Prime Minister Viktor Yanukovych the winner. Opposition leader Viktor Yushchenko calls for supporters to protest "the total falsification of the vote". Observers from the Organization for Security and Co-operation in Europe (OSCE) say the run-off vote "did not meet international standards", and the senior U.S. election observer, Senator Richard Lugar, notes a "concerted and forceful program of election day fraud". ](/news/2004/11/22/2004-ukrainian-presidential-election-ukraine-s-electoral-commission-declares-prime-minister-viktor-yanukovych-the-winner-opposition-leade.md)
-_Context: OSCE, Prime Minister of Ukraine, Richard Lugar, Senate, Ukrainian, Ukrainian presidential election controversy, Viktor Yanukovych, Viktor Yushchenko_
+_Context: OSCE, Prime Minister of Ukraine, Richard Lugar, Senate, Ukraine, Ukrainian presidential election controversy, Viktor Yanukovych, Viktor Yushchenko_
 
 ## [Previous Day...](/news/2004/11/21/index.md)
 

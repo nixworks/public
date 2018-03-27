@@ -37,7 +37,7 @@ _Context: Dutch, Europe, Wisley, heat wave_
 
 ##### U.S. House of Representatives
 ### [ A 235-193 vote in the U.S. House of Representatives falls short of the 2-3 majority needed to override President George W. Bush's first-ever veto of a bill intended to reauthorize federal funding of embryonic stem cell research (see Stem cell controversy). ](/news/2006/07/19/a-235-193-vote-in-the-u-s-house-of-representatives-falls-short-of-the-2-3-majority-needed-to-override-president-george-w-bush-s-first-eve.md)
-_Context: George W. Bush, Stem cell controversy, U.S. House of Representatives, U.S. President, embryonic stem cell, veto_
+_Context: George W. Bush, President, Stem cell controversy, U.S. House of Representatives, embryonic stem cell, veto_
 
 ## [Previous Day...](/news/2006/07/18/index.md)
 

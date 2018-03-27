@@ -17,7 +17,7 @@ _Context: 2008, two years of helping_
 
 ##### Italy
 ### [ The Italian city of Milan is selected to host the 2015 World Exposition after winning 86 to 65 in a vote against Turkish Izmir. ](/news/2008/03/31/the-italian-city-of-milan-is-selected-to-host-the-2015-world-exposition-after-winning-86-to-65-in-a-vote-against-turkish-adegzmir.md)
-_Context: Expo 2015, Italy, Izmir, Milan, Turkey_
+_Context: Expo 2015, Italy, Izmir, Milan, Turkish_
 
 ##### Serbia
 ### [ Serbian Defense Minister Dragan Sutanovac accuses allies of Prime Minister Vojislav Kostunica of coordinating and leading anti-Western riots in Belgrade and Kosovo. ](/news/2008/03/31/serbian-defense-minister-dragan-a-utanovac-accuses-allies-of-prime-minister-vojislav-koa-tunica-of-coordinating-and-leading-anti-western-ri.md)

@@ -17,7 +17,7 @@ _Context: 2017 Patient Protection and Affordable Care Act replacement proposals,
 
 ##### United States
 ### [United States President Donald Trump approves the controversial Keystone XL pipeline. ](/news/2017/03/24/united-states-president-donald-trump-approves-the-controversial-keystone-xl-pipeline.md)
-_Context: Donald Trump, Keystone XL, United States_
+_Context: Keystone XL, Trump, United States_
 
 ##### Warlord
 ### [Imprisoned former Congolese warlord Germain Katanga is ordered by the International Criminal Court to pay reparations to some of his victims in the first such ruling by the court. ](/news/2017/03/24/imprisoned-former-congolese-warlord-germain-katanga-is-ordered-by-the-international-criminal-court-to-pay-reparations-to-some-of-his-victims.md)

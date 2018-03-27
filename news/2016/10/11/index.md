@@ -5,7 +5,7 @@ Formats: [HTML](2016/10/11/index.html)  [JSON](2016/10/11/index.json)  [XML](201
 
 ##### 2014 UZ224
 ### [Astronomers announce that 2014 UZ224 is the third most distant Solar System object known from our Sun, currently over 90 times the Earth's distance from the Sun (90.8 AU or 8.44 billion miles), after Eris (96.2 AU) and V774104 (~103 AU). ](/news/2016/10/11/astronomers-announce-that-2014-uz224-is-the-third-most-distant-solar-system-object-known-from-our-sun-currently-over-90-times-the-earth-s-d.md)
-_Context: 2014 UZ224, Earth's distance from the Sun, Eris, Solar System, Sun, V774104_
+_Context: 2014 UZ224, AU, Eris, Solar System, Sun, V774104_
 
 ##### Oklahoma City
 ### [The Office of the Chief Medical Examiner in Oklahoma City reports that an unarmed black man, Terence Crutcher, shot dead on September 16, by a white police officer, Betty Jo Shelby, had acute PCP intoxication. Authorities charged her with first-degree manslaughter. ](/news/2016/10/11/the-office-of-the-chief-medical-examiner-in-oklahoma-city-reports-that-an-unarmed-black-man-terence-crutcher-shot-dead-on-september-16-by.md)
@@ -31,9 +31,9 @@ U.S. investigators believe a Jordanian student pilot was trying to kill himself 
 ### [The United Nations launches an emergency appeal for almost U.S.$120 million in life-saving help for 750,000 survivors in Haiti at risk of starvation and-or cholera. ](/news/2016/10/11/the-united-nations-launches-an-emergency-appeal-for-almost-u-s-120-million-in-life-saving-help-for-750-000-survivors-in-haiti-at-risk-of-st.md)
 Parts of Haiti hit by Matthew were still without aid Tuesday, as the U.N. sought $120 million in life-saving aid for 750,000 survivors at risk of cholera.
 
-##### Chinese
+##### China
 ### [A residential building collapses in the eastern China city of Wenzhou, leaving at least 22 people dead. ](/news/2016/10/11/a-residential-building-collapses-in-the-eastern-china-city-of-wenzhou-leaving-at-least-22-people-dead.md)
-_Context: Chinese, Wenzhou_
+_Context: China, Wenzhou_
 
 ##### Computer security
 ### [Computer security firm Symantec warns a second hacking group, going by the name Odinaff, is trying to rob banks using fraudulent SWIFT messages, the same approach that yielded U.S.$81 million in February's attack on Bangladesh's central bank. So far, the group has infected 10 to 20 organizations with this malware. ](/news/2016/10/11/computer-security-firm-symantec-warns-a-second-hacking-group-going-by-the-name-odinaff-is-trying-to-rob-banks-using-fraudulent-swift-messa.md)

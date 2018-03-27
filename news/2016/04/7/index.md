@@ -9,7 +9,7 @@ PM sold stake in Blairmore investment fund, which featured in Panama Papers, for
 
 ##### Donald Trump endorsements
 ### [Former New York City mayor Rudy Giuliani endorses Donald Trump for U.S. President, predicting Trump will get more than 50% of the statewide vote. ](/news/2016/04/7/former-new-york-city-mayor-rudy-giuliani-endorses-donald-trump-for-u-s-president-predicting-trump-will-get-more-than-50-of-the-statewide.md)
-_Context: Donald Trump, Donald Trump endorsements, New York City, Rudy Giuliani_
+_Context: Donald Trump endorsements, New York City, Rudy Giuliani, Trump_
 
 ##### Aung San Suu Kyi
 ### [Aung San Suu Kyi, now the State Counsellor of Myanmar, says she will press for the release of political prisoners and student activists in the country, hinting that a mass amnesty may be imminent, a week after her government took power. ](/news/2016/04/7/aung-san-suu-kyi-now-the-state-counsellor-of-myanmar-says-she-will-press-for-the-release-of-political-prisoners-and-student-activists-in-t.md)

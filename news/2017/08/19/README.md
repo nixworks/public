@@ -9,7 +9,7 @@ Two protesters were killed and 13 others wounded in Togo on Saturday when securi
 
 ##### Political appointments by Donald Trump
 ### [Pastor A.R. Bernard becomes the first religious leader to resign from the president's evangelical advisory board. ](/news/2017/08/19/pastor-a-r-bernard-becomes-the-first-religious-leader-to-resign-from-the-president-s-evangelical-advisory-board.md)
-_Context: A.R. Bernard, Political appointments by Donald Trump, U.S. President_
+_Context: A.R. Bernard, Political appointments by Donald Trump, President_
 
 ##### Politics of Nigeria
 ### [Nigerian state television reports that President Muhammadu Buhari is back in the country after a three-month sick leave in Britain. ](/news/2017/08/19/nigerian-state-television-reports-that-president-muhammadu-buhari-is-back-in-the-country-after-a-three-month-sick-leave-in-britain.md)

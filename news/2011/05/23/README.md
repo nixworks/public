@@ -15,7 +15,7 @@ _Context: China, Tibet, sets herself alight_
 ### [British MP John Hemming uses parliamentary privilege to identify a married footballer named on Twitter as having an injunction over an alleged affair as being Ryan Giggs. ](/news/2011/05/23/british-mp-john-hemming-uses-parliamentary-privilege-to-identify-a-married-footballer-named-on-twitter-as-having-an-injunction-over-an-alleg.md)
 _Context: John Hemming, MP, Ryan Giggs, injunction over an alleged affair, parliamentary privilege, tweeting_
 
-##### U.S. President
+##### President
 ### [U.S. President Barack Obama addresses an audience at College Green in Dublin, speaking of strong ties between the United States and Ireland. ](/news/2011/05/23/u-s-president-barack-obama-addresses-an-audience-at-college-green-in-dublin-speaking-of-strong-ties-between-the-united-states-and-ireland.md)
 A number of Irish artists including Jedward and Westlife played to an estimated 60,000 people at College Green in Dublin this&hellip;
 

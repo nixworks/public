@@ -43,9 +43,9 @@ _Context: Ariel Sharon, Prime Minister, his recovery, stroke, tracheotomy_
 ### [ Kim Jong-il, the leader of North Korea, is alleged to have made a journey to China as part of a fact-finding mission in the region. ](/news/2006/01/15/kim-jong-il-the-leader-of-north-korea-is-alleged-to-have-made-a-journey-to-china-as-part-of-a-fact-finding-mission-in-the-region.md)
 _Context: Kim Jong-il, North Korea_
 
-##### Ukrainian
+##### Ukraine
 ### [ Russia and Ukraine are set to enter more diplomatic troubled waters over the alleged occupation of a lighthouse in the Black Sea. ](/news/2006/01/15/russia-and-ukraine-are-set-to-enter-more-diplomatic-troubled-waters-over-the-alleged-occupation-of-a-lighthouse-in-the-black-sea.md)
-_Context: Black Sea, Ukrainian, lighthouse_
+_Context: Black Sea, Ukraine, lighthouse_
 
 ##### Mwai Kibaki
 ### [ President Mwai Kibaki of Kenya has declared the ongoing drought a national disaster and has appealed for US$150 million to feed the hungry. 2.5 million people have been left close to starvation due to the lack of rains over the last three years and corrupt officials who steal food aid. ](/news/2006/01/15/president-mwai-kibaki-of-kenya-has-declared-the-ongoing-drought-a-national-disaster-and-has-appealed-for-us-150-million-to-feed-the-hungry.md)

@@ -19,9 +19,9 @@ _Context: Mexico, Puebla, anchorman, more than 80 have been killed_
 ### [Three teenagers in Liverpool, England, are convicted for beating a homeless man to death as part of a dare. ](/news/2013/04/16/three-teenagers-in-liverpool-england-are-convicted-for-beating-a-homeless-man-to-death-as-part-of-a-dare.md)
 _Context: England, Liverpool, convicted, homeless people_
 
-##### Chinese
+##### China
 ### [China's defense ministry criticizes the United States for allegedly increasing tensions in the Asia-Pacific region by increasing its military presence and supporting Japan, the Philippines and Vietnam in longstanding territorial disputes. ](/news/2013/04/16/china-s-defense-ministry-criticizes-the-united-states-for-allegedly-increasing-tensions-in-the-asia-pacific-region-by-increasing-its-militar.md)
-_Context: Chinese, Chinese Defense Ministry, Japan, Pacific, Philippines, United States, Vietnam, military presence, tensions in the region_
+_Context: China, Chinese Defense Ministry, Japan, Pacific, Philippines, United States, Vietnam, military presence, tensions in the region_
 
 ##### North Korea
 ### [North Korea issues an "ultimatum" to South Korea, demanding blanket apologies and an immediate cessation of anti-DPRK activities. Some protesters in Seoul were noted burning portraits of North Korean leaders on Monday, while North Korea celebrated the birthday of the late Kim Il-sung. The new threat comes amid what is otherwise perceived as an easing of tensions on the Korean Peninsula. North Korean authorities say that an attack may occur without warning at any moment. ](/news/2013/04/16/north-korea-issues-an-ultimatum-to-south-korea-demanding-blanket-apologies-and-an-immediate-cessation-of-anti-dprk-activities-some-prote.md)

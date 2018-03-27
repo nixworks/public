@@ -37,7 +37,7 @@ Thailand&#039;s Supreme Court has approved a prosecution request to issue arrest
 
 ##### Abdullah Gul
 ### [ Abdullah Gul, currently the Foreign Minister of Turkey, confirms that he will stand again for election as the President of Turkey. ](/news/2007/08/14/abdullah-ga1-4l-currently-the-foreign-minister-of-turkey-confirms-that-he-will-stand-again-for-election-as-the-president-of-turkey.md)
-_Context: Abdullah Gul, Turkey, Turkish President_
+_Context: Abdullah Gul, Turkish, Turkish President_
 
 ##### Pakistan
 ### [ Pakistan celebrates the 60th anniversary of its independence from the United Kingdom. ](/news/2007/08/14/pakistan-celebrates-the-60th-anniversary-of-its-independence-from-the-united-kingdom.md)
@@ -129,11 +129,11 @@ _Context: Italy, Lampedusa, coast guard, illegal immigrant_
 
 ##### Fire
 ### [ A fire breaks out at the Shanghai World Financial Center in China. ](/news/2007/08/14/a-fire-breaks-out-at-the-shanghai-world-financial-center-in-china.md)
-_Context: Chinese, Shanghai World Financial Center, fire_
+_Context: China, Shanghai World Financial Center, fire_
 
 ##### Bridge
 ### [ A bridge under construction completely collapses in Fenghuang County, Hunan Province, China, killing at least 47 people. 21 workers are injured, 13 are still missing.](/news/2007/08/14/a-bridge-under-construction-completely-collapses-in-fenghuang-county-hunan-province-china-killing-at-least-47-people-21-workers-are-inj.md)
-_Context: Chinese, Fenghuang, Hunan, bridge_
+_Context: China, Fenghuang, Hunan, bridge_
 
 ## [Previous Day...](/news/2007/08/13/index.md)
 

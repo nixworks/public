@@ -35,9 +35,9 @@ _Context: Assyrian, Greek, National Assembly of Armenia, Ottoman-era, genocide_
 ### [A bus crashes into traffic near Huarmey in northern Peru, leaving at least thirty-seven people dead and dozens injured. ](/news/2015/03/23/a-bus-crashes-into-traffic-near-huarmey-in-northern-peru-leaving-at-least-thirty-seven-people-dead-and-dozens-injured.md)
 At least 37 people are killed after a bus swerves into oncoming traffic in Peru, authorities say.
 
-##### Chinese
+##### China
 ### [China's biggest state-owned chemical company ChemChina acquires a 26% stake in Italian tire manufacturer Pirelli with an additional offer to buy the remaining outstanding shares. ](/news/2015/03/23/china-s-biggest-state-owned-chemical-company-chemchina-acquires-a-26-stake-in-italian-tire-manufacturer-pirelli-with-an-additional-offer-to.md)
-_Context: ChemChina, Chinese, Italian, Pirelli, outstanding shares_
+_Context: ChemChina, China, Italian, Pirelli, outstanding shares_
 
 ##### Iraqi insurgency (2011-present)
 ### [Multiple bombings in Baghdad, Iraq, kill at least nineteen people and wound another thirty-six. ](/news/2015/03/23/multiple-bombings-in-baghdad-iraq-kill-at-least-nineteen-people-and-wound-another-thirty-six.md)

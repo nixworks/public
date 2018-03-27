@@ -3,7 +3,7 @@ Formats: [HTML](2014/06/17/index.html)  [JSON](2014/06/17/index.json)  [XML](201
 
 ## [2014-06-17](/news/2014/06/17/index.md)
 
-##### U.S. President
+##### President
 ### [The President of the United States, Barack Obama, proposes to expand the Pacific Remote Islands Marine National Monument, creating the world's largest marine sanctuary in the Central Pacific Ocean. ](/news/2014/06/17/the-president-of-the-united-states-barack-obama-proposes-to-expand-the-pacific-remote-islands-marine-national-monument-creating-the-world.md)
 The plan would close a broad swath of central Pacific to fishing, energy exploration and other activities.
 

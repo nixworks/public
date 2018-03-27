@@ -31,7 +31,7 @@ Pope Francis called on Wednesday for ethnic and religious reconciliation at the 
 ### [A one-year old baby girl with an apparently incurable illness, who was kissed by Pope Francis during his visit to Philadelphia in September, gets MRI results showing her brain tumor has shrunk significantly. Some friends and family call it the "Miracle on Market Street." ](/news/2015/11/25/a-one-year-old-baby-girl-with-an-apparently-incurable-illness-who-was-kissed-by-pope-francis-during-his-visit-to-philadelphia-in-september.md)
 Joey Masciantonio vividly remembers the moment his baby daughter Gianna met Pope Francis because it almost never happened.
 
-##### Ukrainian
+##### Ukraine
 ### [Ukraine bans all Russian planes from using its airspace. ](/news/2015/11/25/ukraine-bans-all-russian-planes-from-using-its-airspace.md)
 Ukraine bans all Russian planes from using its airspace as Russian state-controlled energy giant Gazprom stops delivering gas to its neighbour.
 

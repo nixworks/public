@@ -7,9 +7,9 @@ Formats: [HTML](2008/09/15/index.html)  [JSON](2008/09/15/index.json)  [XML](200
 ### [ NASA scientists report that the ozone hole over the Antarctic has reached its largest expanse, 27 million square kilometers, vs 26 million square kilometers in 2006. ](/news/2008/09/15/nasa-scientists-report-that-the-ozone-hole-over-the-antarctic-has-reached-its-largest-expanse-27-million-square-kilometers-vs-26-million.md)
 _Context: Antarctic, ozone hole_
 
-##### U.S. President
+##### President
 ### [President George W. Bush warns that motorists will face a "pinch" from rising costs caused by Hurricane Ike. ](/news/2008/09/15/president-george-w-bush-warns-that-motorists-will-face-a-pinch-from-rising-costs-caused-by-hurricane-ike.md)
-_Context: George W. Bush, U.S. President_
+_Context: George W. Bush, President_
 
 ##### 
 ### [More than one million households in the Midwestern United States are left without electricity due to high winds. ](/news/2008/09/15/more-than-one-million-households-in-the-midwestern-united-states-are-left-without-electricity-due-to-high-winds.md)
@@ -31,7 +31,7 @@ _Context: Chapter 11, Lehman Brothers, bankruptcy, files_
 
 ##### Roll-on/roll-off
 ### [ At least one person has died and 26 are missing after a Ro-ro ferry sinks near the Turkish city of Bandirma. ](/news/2008/09/15/at-least-one-person-has-died-and-26-are-missing-after-a-ro-ro-ferry-sinks-near-the-turkish-city-of-bandirma.md)
-_Context: Bandirma, Roll-on/roll-off, Turkey_
+_Context: Bandirma, Roll-on/roll-off, Turkish_
 
 ##### Indonesia
 ### [ A stampede in the Indonesian town of Pasuruan leaves 21 people dead, most of whom are thought to be women. ](/news/2008/09/15/a-stampede-in-the-indonesian-town-of-pasuruan-leaves-21-people-dead-most-of-whom-are-thought-to-be-women.md)

@@ -49,7 +49,7 @@ _Context: North Korea, United Nations, World Food Programme_
 
 ##### Magnitude 6.0 earthquake
 ### [A magnitude 6.0 earthquake hits western Turkey, about 230 km south of Istanbul, killing at least two people and leaving many injured. ](/news/2011/05/19/a-magnitude-6-0-earthquake-hits-western-turkey-about-230-km-south-of-istanbul-killing-at-least-two-people-and-leaving-many-injured.md)
-_Context: Istanbul, Turkey, magnitude 6.0 earthquake_
+_Context: Istanbul, Turkish, magnitude 6.0 earthquake_
 
 ##### Sol Lineas Aereas Flight 5428
 ### [22 people are killed when Sol Lineas Aereas Flight 5428 crashes in southern Argentina. ](/news/2011/05/19/22-people-are-killed-when-sol-laneas-aa-c-reas-flight-5428-crashes-in-southern-argentina.md)

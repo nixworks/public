@@ -27,9 +27,9 @@ Unknown gunmen killed a Sudanese employee of the U.N. World Food Programme (WFP)
 ### [A suicide bombing in the northeastern Nigerian city of Damaturu kills at least five soldiers. ](/news/2012/08/5/a-suicide-bombing-in-the-northeastern-nigerian-city-of-damaturu-kills-at-least-five-soldiers.md)
 A suicide bomber in the north-eastern Nigerian city of Damaturu has killed at least six soldiers and two civilians, police say.
 
-##### Turkey
+##### Turkish
 ### [Clashes between Turkish government troops and Kurdish rebels at a Turkish border post in the southeastern province of Hakkari kill at least 19 people, including 11 fighters from the Kurdistan Workers' Party. ](/news/2012/08/5/clashes-between-turkish-government-troops-and-kurdish-rebels-at-a-turkish-border-post-in-the-southeastern-province-of-hakkac-ri-kill-at-least.md)
-_Context: Hakkari Province, Kurdish, PKK, Turkey_
+_Context: Hakkari Province, Kurdish, PKK, Turkish_
 
 ##### Wisconsin Sikh temple shooting
 ### [A gunman opens fire at a Sikh temple in Oak Creek, Wisconsin, killing six people; the perpetrator later dies of a self-inflicted gunshot wound to the head. ](/news/2012/08/5/a-gunman-opens-fire-at-a-sikh-temple-in-oak-creek-wisconsin-killing-six-people-the-perpetrator-later-dies-of-a-self-inflicted-gunshot-wou.md)

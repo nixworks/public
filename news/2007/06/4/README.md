@@ -15,9 +15,9 @@ _Context: Charles G. Taylor, President of Liberia, Special Court for Sierra Leon
 ### [ Two Red Cross aid workers are found dead after being detained for questioning by unknown men claiming to be police. ](/news/2007/06/4/two-red-cross-aid-workers-are-found-dead-after-being-detained-for-questioning-by-unknown-men-claiming-to-be-police.md)
 _Context: Red Cross, aid workers are found dead_
 
-##### Chinese
+##### China
 ### [ China publishes its first National Action Plan on Climate Change, expected to cut national carbon emissions by up to 1.5 million metric tons annually by 2010. ](/news/2007/06/4/china-publishes-its-first-national-action-plan-on-climate-change-expected-to-cut-national-carbon-emissions-by-up-to-1-5-million-metric-ton.md)
-_Context: Chinese, National Action Plan on Climate Change, carbon emissions_
+_Context: China, National Action Plan on Climate Change, carbon emissions_
 
 ##### Russian President
 ### [ Russian President Vladimir Putin announces that Russia may consider targeting new sites across Europe with nuclear weapons if part of the United States' nuclear capability is introduced into Europe. ](/news/2007/06/4/russian-president-vladimir-putin-announces-that-russia-may-consider-targeting-new-sites-across-europe-with-nuclear-weapons-if-part-of-the-u.md)

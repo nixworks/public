@@ -17,7 +17,7 @@ _Context: Asia, Pope Francis, Sri Lanka_
 
 ##### Ebola virus epidemic in West Africa
 ### [China sends an additional 232 People's Liberation Army medical workers to West Africa to combat the outbreak (in addition to the 78 that had previously been stationed). ](/news/2015/01/13/china-sends-an-additional-232-people-s-liberation-army-medical-workers-to-west-africa-to-combat-the-outbreak-in-addition-to-the-78-that-had.md)
-_Context: Chinese, Ebola virus epidemic in West Africa, People's Liberation Army, West Africa_
+_Context: China, Ebola virus epidemic in West Africa, People's Liberation Army, West Africa_
 
 ##### World Health Organization
 ### [The World Health Organization monitors an avian flu outbreak in Taiwan, as H5N8 avian flu virus infects nine farms. ](/news/2015/01/13/the-world-health-organization-monitors-an-avian-flu-outbreak-in-taiwan-as-h5n8-avian-flu-virus-infects-nine-farms.md)
@@ -37,7 +37,7 @@ _Context: EU, Europol, Middle East, Parliament, Rob Wainwright, jihadist_
 
 ##### Military intervention in Ukraine
 ### [A passenger bus comes under heavy fire near a check point in eastern Ukraine leading to at least ten civilians killed and many others injured. ](/news/2015/01/13/a-passenger-bus-comes-under-heavy-fire-near-a-check-point-in-eastern-ukraine-leading-to-at-least-ten-civilians-killed-and-many-others-injure.md)
-_Context: Ukrainian, military intervention in Ukraine_
+_Context: Ukraine, military intervention in Ukraine_
 
 ##### ''Charlie Hebdo'' shooting
 ### [France announces plans to deploy 10,000 troops to protect sensitive sites across the country beginning tonight. ](/news/2015/01/13/france-announces-plans-to-deploy-10-000-troops-to-protect-sensitive-sites-across-the-country-beginning-tonight.md)

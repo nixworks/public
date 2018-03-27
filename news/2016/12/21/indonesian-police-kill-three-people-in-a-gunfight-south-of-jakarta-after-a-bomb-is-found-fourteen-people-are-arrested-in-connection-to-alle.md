@@ -22,7 +22,7 @@ Indonesian anti-terrorism police killed three suspects in a gunfight on the outs
 
 ### Related:
 
-1. [Two suicide bombers strike a Shi'ite mosque in Herat, Afghanistan. One is killed by security forces and the other detonates his device, killing one and wounding seven. ISIL claims responsibility. ](/news/2018/03/25/two-suicide-bombers-strike-a-shi-ite-mosque-in-herat-afghanistan-one-is-killed-by-security-forces-and-the-other-detonates-his-device-kill.md) _Context: suicide bomb_
+1. [Two suicide bombers strike a Shi'ite mosque in Herat, Afghanistan, killing one person and wounding seven others. Security forces kill one bomber while the device kills the other. ISIL claims responsibility. ](/news/2018/03/25/two-suicide-bombers-strike-a-shi-ite-mosque-in-herat-afghanistan-killing-one-person-and-wounding-seven-others-security-forces-kill-one-bo.md) _Context: suicide bomb_
 2. [The mezzanine overlooking the main lobby of the Indonesia Stock Exchange in Jakarta, Indonesia, collapses, injuring at least 70 people. The Indonesian National Police ruled out terrorism as the cause. ](/news/2018/01/15/the-mezzanine-overlooking-the-main-lobby-of-the-indonesia-stock-exchange-in-jakarta-indonesia-collapses-injuring-at-least-70-people-the.md) _Context: Jakarta_
 3. [An explosion in a fireworks plant located west of the Indonesian capital Jakarta kills at least 47 and injures 35. ](/news/2017/10/26/an-explosion-in-a-fireworks-plant-located-west-of-the-indonesian-capital-jakarta-kills-at-least-47-and-injures-35.md) _Context: Jakarta_
 4. [Three police officers are killed in a suicide bombing at a bus station in Jatinegara, Jakarta. ](/news/2017/05/24/three-police-officers-are-killed-in-a-suicide-bombing-at-a-bus-station-in-jatinegara-jakarta.md) _Context: Jakarta_

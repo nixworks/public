@@ -3,7 +3,7 @@ Formats: [HTML](2013/02/1/index.html)  [JSON](2013/02/1/index.json)  [XML](2013/
 
 ## [2013-02-1](/news/2013/02/1/index.md)
 
-##### Ukrainian
+##### Ukraine
 ### [A Ukrainian-Russian carrier rocket Zenit-3SL carrying a telecommunications satellite Intelsat 27 fails 40 seconds after the lift-off and plunges into the Pacific Ocean shortly during Sea Launch. ](/news/2013/02/1/a-ukrainianarussian-carrier-rocket-zenit-3sl-carrying-a-telecommunications-satellite-intelsat-27-fails-40-seconds-after-the-lift-off-and-p.md)
 A Ukrainian-Russian Zenit rocket carrying a US-made telecommunications satellite falls into the Pacific Ocean shortly after its launch.
 
@@ -33,7 +33,7 @@ A Metropolitan Police detective who tried to sell information on the phone-hacki
 
 ##### Zhoukou
 ### [Three construction workers are killed and eight are injured after a wall collapses on a construction site in Zhoukou, Henan, China. ](/news/2013/02/1/three-construction-workers-are-killed-and-eight-are-injured-after-a-wall-collapses-on-a-construction-site-in-zhoukou-henan-china.md)
-_Context: Chinese, Henan, Zhoukou_
+_Context: China, Henan, Zhoukou_
 
 ##### G30 Expressway
 ### [At least 26 people are killed on the G30 Expressway in Henan province, China, after a truck carrying fireworks explodes on an elevated highway, with an 80 m section of road being destroyed and part of it collapsing. ](/news/2013/02/1/at-least-26-people-are-killed-on-the-g30-expressway-in-henan-province-china-after-a-truck-carrying-fireworks-explodes-on-an-elevated-highw.md)

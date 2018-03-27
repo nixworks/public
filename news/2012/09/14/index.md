@@ -17,7 +17,7 @@ Anti-American violence flared Friday across North Africa and the Middle East, wi
 
 ##### Chinese Marine Surveillance
 ### [Six Chinese Marine Surveillance ships are reported near the disputed Senkaku Islands by the Japanese Coast Guard. China says "two surveillance ship fleets" are in the waters "around" the islands for "patrols and law enforcement". ](/news/2012/09/14/six-chinese-marine-surveillance-ships-are-reported-near-the-disputed-senkaku-islands-by-the-japanese-coast-guard-china-says-two-surveillan.md)
-_Context: Chinese, Chinese Marine Surveillance, Japanese Coast Guard, Senkaku Islands_
+_Context: China, Chinese Marine Surveillance, Japanese Coast Guard, Senkaku Islands_
 
 ##### Indonesia
 ### [At least 21 passengers on board an Indonesian ferry that sank last night on the Mahakam River in East Kalimantan are missing and presumed dead. ](/news/2012/09/14/at-least-21-passengers-on-board-an-indonesian-ferry-that-sank-last-night-on-the-mahakam-river-in-east-kalimantan-are-missing-and-presumed-de.md)

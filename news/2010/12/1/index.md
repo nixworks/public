@@ -49,7 +49,7 @@ _Context: Venezuela, states of emergency_
 
 ##### Russia
 ### [Russia's Gazprom and Ukraine's Naftogaz Ukrainy have agreed to set up two joint ventures, the Russian company said after a meeting between its CEO Alexei Miller and Ukrainian Fuel and Energy Minister Yuri Boiko. ](/news/2010/12/1/russiaas-gazprom-and-ukraineas-naftogaz-ukrainy-have-agreed-to-set-up-two-joint-ventures-the-russian-company-said-after-a-meeting-betwe.md)
-_Context: Alexei Miller, Gazprom, Naftogaz Ukrainy, Russia, Ukrainian, Ukrainian Fuel and Energy Minister, Yuri Boiko_
+_Context: Alexei Miller, Gazprom, Naftogaz Ukrainy, Russia, Ukraine, Ukrainian Fuel and Energy Minister, Yuri Boiko_
 
 ##### Roman
 ### [Two walls collapse at the ancient Roman city of Pompeii during heavy rains, the third such incident in a month. ](/news/2010/12/1/two-walls-collapse-at-the-ancient-roman-city-of-pompeii-during-heavy-rains-the-third-such-incident-in-a-month.md)

@@ -27,7 +27,7 @@ Shuttle Endeavour lifted off from Florida before dawn Monday, the last scheduled
 ### [At least 17 Indian soldiers are killed in an avalanche in Kashmir. ](/news/2010/02/8/at-least-17-indian-soldiers-are-killed-in-an-avalanche-in-kashmir.md)
 _Context: India, Kashmir, avalanche_
 
-##### Ukrainian
+##### Ukraine
 ### [Ukrainian opposition leader Viktor Yanukovych appears to win the 2010 presidential election, with 98% of the ballots counted. ](/news/2010/02/8/ukrainian-opposition-leader-viktor-yanukovych-appears-to-win-the-2010-presidential-election-with-98-of-the-ballots-counted.md)
 Russia’s preferred candidate is the apparent winner, but the starkly contested presidential race contrasts sharply with Russia’s recent history.
 

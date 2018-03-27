@@ -23,7 +23,7 @@ _Context: Argentine President, Central Bank, Cristina Fernandez, United States d
 ### [ Russian President Vladimir Putin threatens to "neutralize" a new ballistic missile defense system which the United States has activated in Europe. ](/news/2016/05/13/russian-president-vladimir-putin-threatens-to-neutralize-a-new-ballistic-missile-defense-system-which-the-united-states-has-activated-in.md)
 A ballistic missile defense shield which the United States has activated in Europe is a step to a new arms race, Russian President Vladimir Putin said on Friday, vowing to adjust budget spending to neutralize &quot;emerging threats&quot; to Russia.
 
-##### Shopping center
+##### Shopping centre
 ### [At least one person is dead as a shopping mall being built in the Nigerian city of Abeokuta collapses. Unconfirmed reports indicate that ten people may have died. ](/news/2016/05/13/at-least-one-person-is-dead-as-a-shopping-mall-being-built-in-the-nigerian-city-of-abeokuta-collapses-unconfirmed-reports-indicate-that-ten.md)
 A building under construction collapses in Nigeria, Rwandan breaks cricket record, Senegalese woman to becomes Fifa secretary general and more stories.
 

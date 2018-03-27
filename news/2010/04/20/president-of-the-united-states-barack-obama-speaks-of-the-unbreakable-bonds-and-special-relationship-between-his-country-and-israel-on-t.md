@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/20/president-of-the-united-states-barack-obama-spe
 
 ### [2010-04-20](/news/2010/04/20/index.md)
 
-##### U.S. President
+##### President
 # President of the United States Barack Obama speaks of the "unbreakable bonds" and "special relationship" between his country and Israel on the 62nd anniversary of Israel's birth. 
 
 
@@ -17,8 +17,8 @@ Formats: [HTML](/news/2010/04/20/president-of-the-united-states-barack-obama-spe
 
 ### Related:
 
-1. [President of the United States Barack Obama begins a four-day visit to the Middle East, visiting Palestine and Israel. ](/news/2013/03/20/president-of-the-united-states-barack-obama-begins-a-four-day-visit-to-the-middle-east-visiting-palestine-and-israel.md) _Context: Barack Obama, Israel, U.S. President_
-2. [President of the United States Barack Obama meets with a range of Middle East leaders in pursuit of peace between Israel and Palestine, including Prime Minister of Israel Benjamin Netanyahu, President of the Palestinian Authority Mahmoud Abbas, King of Jordan Abdullah II and President of Egypt Hosni Mubarak. ](/news/2010/09/1/president-of-the-united-states-barack-obama-meets-with-a-range-of-middle-east-leaders-in-pursuit-of-peace-between-israel-and-palestine-incl.md) _Context: Barack Obama, Israel, U.S. President_
-3. [Israeli Prime Minister Benjamin Netanyahu arrives in Washington, D.C. for talks with President of the United States Barack Obama. ](/news/2010/07/6/israeli-prime-minister-benjamin-netanyahu-arrives-in-washington-d-c-for-talks-with-president-of-the-united-states-barack-obama.md) _Context: Barack Obama, Israel, U.S. President_
-4. [ United States Secretary of State Hillary Clinton reaffirms President Barack Obama's demand that Israel halt settlement in the West Bank. ](/news/2009/05/28/united-states-secretary-of-state-hillary-clinton-reaffirms-president-barack-obama-s-demand-that-israel-halt-settlement-in-the-west-bank.md) _Context: Barack Obama, Israel, U.S. President_
-5. [ U.S. President Barack Obama urges Israeli Prime Minister Benjamin Netanyahu to accept a Palestinian state. ](/news/2009/05/18/u-s-president-barack-obama-urges-israeli-prime-minister-benjamin-netanyahu-to-accept-a-palestinian-state.md) _Context: Barack Obama, Israel, U.S. President_
+1. [President of the United States Barack Obama begins a four-day visit to the Middle East, visiting Palestine and Israel. ](/news/2013/03/20/president-of-the-united-states-barack-obama-begins-a-four-day-visit-to-the-middle-east-visiting-palestine-and-israel.md) _Context: Barack Obama, Israel, President_
+2. [President of the United States Barack Obama meets with a range of Middle East leaders in pursuit of peace between Israel and Palestine, including Prime Minister of Israel Benjamin Netanyahu, President of the Palestinian Authority Mahmoud Abbas, King of Jordan Abdullah II and President of Egypt Hosni Mubarak. ](/news/2010/09/1/president-of-the-united-states-barack-obama-meets-with-a-range-of-middle-east-leaders-in-pursuit-of-peace-between-israel-and-palestine-incl.md) _Context: Barack Obama, Israel, President_
+3. [Israeli Prime Minister Benjamin Netanyahu arrives in Washington, D.C. for talks with President of the United States Barack Obama. ](/news/2010/07/6/israeli-prime-minister-benjamin-netanyahu-arrives-in-washington-d-c-for-talks-with-president-of-the-united-states-barack-obama.md) _Context: Barack Obama, Israel, President_
+4. [ United States Secretary of State Hillary Clinton reaffirms President Barack Obama's demand that Israel halt settlement in the West Bank. ](/news/2009/05/28/united-states-secretary-of-state-hillary-clinton-reaffirms-president-barack-obama-s-demand-that-israel-halt-settlement-in-the-west-bank.md) _Context: Barack Obama, Israel, President_
+5. [ U.S. President Barack Obama urges Israeli Prime Minister Benjamin Netanyahu to accept a Palestinian state. ](/news/2009/05/18/u-s-president-barack-obama-urges-israeli-prime-minister-benjamin-netanyahu-to-accept-a-palestinian-state.md) _Context: Barack Obama, Israel, President_

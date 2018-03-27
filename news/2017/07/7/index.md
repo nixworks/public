@@ -25,7 +25,7 @@ _Context: Edwin Torres, Miami, Panama, Ricardo Martinelli, United States magistr
 
 ##### Legal challenges to Executive Order 13780
 ### [A request by the state of Hawaii to issue an order blocking President Donald Trump's Executive Order 13780 is rejected in the United States Court of Appeals for the Ninth Circuit. ](/news/2017/07/7/a-request-by-the-state-of-hawaii-to-issue-an-order-blocking-president-donald-trump-s-executive-order-13780-is-rejected-in-the-united-states.md)
-_Context: Donald Trump, Executive Order 13780, Hawaii, Legal challenges to Executive Order 13780, United States Court of Appeals for the Ninth Circuit_
+_Context: Executive Order 13780, Hawaii, Legal challenges to Executive Order 13780, Trump, United States Court of Appeals for the Ninth Circuit_
 
 ##### U.S. Attorney General
 ### [United States Attorney General Jeff Sessions, along with Deputy Attorney General Rod Rosenstein and National Intelligence Director Dan Coats visit the Guantanamo Bay Detention Camp. ](/news/2017/07/7/united-states-attorney-general-jeff-sessions-along-with-deputy-attorney-general-rod-rosenstein-and-national-intelligence-director-dan-coats.md)

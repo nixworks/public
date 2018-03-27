@@ -19,9 +19,9 @@ _Context: African Development Bank, Donald Kaberuka, Rwanda_
 ### [ Malaysian government also remove the ringgit's peg to US dollar. ](/news/2005/07/21/malaysian-government-also-remove-the-ringgit-s-peg-to-us-dollar.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-##### Chinese
+##### China
 ### [ In China, a group of farmers in Shengyou village in Hebei province that demonstrated over seizure of an arable land for the power plant, win in a dispute. ](/news/2005/07/21/in-china-a-group-of-farmers-in-shengyou-village-in-hebei-province-that-demonstrated-over-seizure-of-an-arable-land-for-the-power-plant-wi.md)
-_Context: Chinese, Hebei, Shengyou_
+_Context: China, Hebei, Shengyou_
 
 ##### Rwanda
 ### [ In Rwanda, gacaca court investigating the Rwandan genocide summons Thaddee Ntihinyurwa, head of the Catholic Church in the country, to testify. ](/news/2005/07/21/in-rwanda-gacaca-court-investigating-the-rwandan-genocide-summons-thaddee-ntihinyurwa-head-of-the-catholic-church-in-the-country-to-test.md)

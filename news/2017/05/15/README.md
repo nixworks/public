@@ -27,7 +27,7 @@ Ex-president, who is in Ivory Coast, accused of authorising the killings of unar
 ### [Papua New Guinean media reports confirm that 17 people were fatally shot by prison officers during a prison escape in Lae on May 12. ](/news/2017/05/15/papua-new-guinean-media-reports-confirm-that-17-people-were-fatally-shot-by-prison-officers-during-a-prison-escape-in-lae-on-may-12.md)
 Three prisoners captured, 17 shot dead, and 57 still at large in a mass jailbreak from Buimo jail, according to reports.
 
-##### U.S. President
+##### President
 ### [According to a current and a former unnamed U.S. government official, President Donald Trump revealed classified information that jeopardized a critical source of intelligence on the Islamic State during his Oval Office meeting with the Russian Foreign Minister and Ambassador on May 10. ](/news/2017/05/15/according-to-a-current-and-a-former-unnamed-u-s-government-official-president-donald-trump-revealed-classified-information-that-jeopardize.md)
 The president was boasting of the &ldquo;great intel&rdquo; he receives when he discussed intelligence provided by a U.S. partner.
 

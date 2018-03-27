@@ -35,13 +35,13 @@ Victims identified as Eitam and Naama Henkin; their 4 children were in the car, 
 ### [A mass shooting at Umpqua Community College in Roseburg, Oregon kills nine people and leaves seven wounded. The shooter commits suicide when confronted by the police. The man's motives are unknown. ](/news/2015/10/1/a-mass-shooting-at-umpqua-community-college-in-roseburg-oregon-kills-nine-people-and-leaves-seven-wounded-the-shooter-commits-suicide-when.md)
 A gunman opened fire at a community college in southern Oregon on Thursday, killing 13 people and wounding some 20 others before he was shot to death by police, state and county officials said, in the latest mass killing to rock a U.S. school.
 
-##### Chinese
+##### China
 ### [Chinese authorities arrest a suspect in yesterday's 17 Liucheng County mail bomb explosions that killed at least seven people and wounded more than 50. The suspect is identified as 33-year-old quarry-worker, Wei Yinyong, from Dapu township also in Guangxi Province. There is another explosion this morning. While it's not clear if it is connected, authorities reportedly located 60 packages yesterday which were being examined by a bomb squad. ](/news/2015/10/1/chinese-authorities-arrest-a-suspect-in-yesterday-s-17-liucheng-county-mail-bomb-explosions-that-killed-at-least-seven-people-and-wounded-mo.md)
 As the authorities sought to calm fears in Liucheng County, the site of 17 blasts that killed at least seven people, another explosion occurred there.
 
 ##### Turkey-PKK conflict
 ### [Four Turkish soldiers are killed in PKK attacks across southeastern Turkey. Turkish authorities impose a curfew in the city of Mardin due to escalating violence. ](/news/2015/10/1/four-turkish-soldiers-are-killed-in-pkk-attacks-across-southeastern-turkey-turkish-authorities-impose-a-curfew-in-the-city-of-mardin-due-to.md)
-_Context: 2015 PKK rebellion, Mardin, PKK, Turkey, Turkey-PKK conflict, curfew_
+_Context: 2015 PKK rebellion, Mardin, PKK, Turkey-PKK conflict, Turkish, curfew_
 
 ##### Syrian Civil War
 ### [Russian air-strikes reportedly kill U.S.-backed Syrian rebels as Russian jets bomb rebel positions in rural areas of northern Syria, including the town of Jisr al-Shughour, which is currently held by Islamist militant groups including Al-Qaeda's branch in Syria, the Al-Nusra Front. ](/news/2015/10/1/russian-air-strikes-reportedly-kill-u-s-backed-syrian-rebels-as-russian-jets-bomb-rebel-positions-in-rural-areas-of-northern-syria-includi.md)

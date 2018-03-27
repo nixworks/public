@@ -9,7 +9,7 @@ Jimmie Johnson finished seventh in Sunday’s Ford 400 as he easily held off his
 
 ##### Explosion in a coal mine
 ### [ An explosion in a coal mine in Zasyadko, Ukraine, kills at least 63 people and leaves many more trapped below ground. ](/news/2007/11/18/an-explosion-in-a-coal-mine-in-zasyadko-ukraine-kills-at-least-63-people-and-leaves-many-more-trapped-below-ground.md)
-_Context: Ukrainian, explosion in a coal mine_
+_Context: Ukraine, explosion in a coal mine_
 
 ##### Hashim Thai
 ### [ Hashim Thai, a former rebel leader who has promised to declare Kosovo's independence if mediation efforts fail, declares victory for his party in the parliamentary election. ](/news/2007/11/18/hashim-thaci-a-former-rebel-leader-who-has-promised-to-declare-kosovo-s-independence-if-mediation-efforts-fail-declares-victory-for-his-p.md)

@@ -15,7 +15,7 @@ _Context: Andy Coulson, BBC, Conservative Party, News International, News of the
 ### [An e-petition calling for the British Government to release of Cabinet documents relating to the Hillsborough disaster collects 100,000 signatures - enough for MPs to consider a House of Commons debate on the matter. It is the first government e-petition to reach the target. ](/news/2011/08/23/an-e-petition-calling-for-the-british-government-to-release-of-cabinet-documents-relating-to-the-hillsborough-disaster-collects-100-000-sign.md)
 A petition calling for Hillsborough disaster Cabinet papers to be released reaches 100,000 signatures - enough for a Commons debate to be considered.
 
-##### U.S. President
+##### President
 ### [President Obama provides temporary relief for illegal immigrants who are students, veterans, the elderly, crime victims and those with family, including same-sex partners, as part of immigration reform in the United States. ](/news/2011/08/23/president-obama-provides-temporary-relief-for-illegal-immigrants-who-are-students-veterans-the-elderly-crime-victims-and-those-with-famil.md)
 Immigration authorities will use powers of prosecutorial discretion in existing law to suspend the deportations of most immigrants who have not been convicted of crimes.
 
@@ -51,7 +51,7 @@ The UN Human Rights Council orders an international inquiry to look into alleged
 ### [Suspected Islamic insurgents kill two Thai Army soldiers and wound 14 other people in southern Thailand. ](/news/2011/08/23/suspected-islamic-insurgents-kill-two-thai-army-soldiers-and-wound-14-other-people-in-southern-thailand.md)
 _Context: Muslim, Thai Army, Thailand_
 
-##### Turkey
+##### Turkish
 ### [Turkey claims to have killed 100 Kurdistan Workers' Party terrorists in bombing raids on positions in northern Iraq since last Wednesday.](/news/2011/08/23/turkey-claims-to-have-killed-100-kurdistan-workers-party-terrorists-in-bombing-raids-on-positions-in-northern-iraq-since-last-wednesday.md)
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews
 

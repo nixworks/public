@@ -21,7 +21,7 @@ _Context: UN Security Council, reforming the United Nations_
 
 ##### Interpol
 ### [ Experts and officials from Interpol and 19 countries met Tuesday in Burkina Faso to elaborate a strategy to combat terrorism and crime in Africa. Countries participating included France, the United States, Britain, Morocco, Algeria, Egypt, Turkey, Senegal, Burkina Faso, Chad, Sudan, Cte d'Ivoire, Lesotho, Zimbabwe, Cambodia, Benin, Burundi, Togo and Mauritania. ](/news/2004/09/22/experts-and-officials-from-interpol-and-19-countries-met-tuesday-in-burkina-faso-to-elaborate-a-strategy-to-combat-terrorism-and-crime-in-a.md)
-_Context: Algeria, Benin, Burkina Faso, Burundi, Cambodia, Chad, Cte d'Ivoire, Egypt, Interpol, Lesotho, Mauritanian, Morocco, Senegal, Sudan, Togo, Turkey, Zimbabwe, terrorism_
+_Context: Algeria, Benin, Burkina Faso, Burundi, Cambodia, Chad, Cte d'Ivoire, Egypt, Interpol, Lesotho, Mauritanian, Morocco, Senegal, Sudan, Togo, Turkish, Zimbabwe, terrorism_
 
 ## [Previous Day...](/news/2004/09/21/index.md)
 

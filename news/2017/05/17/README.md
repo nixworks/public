@@ -25,7 +25,7 @@ One jet came within 150ft (45m) of the US plane and flew upside over it, officia
 
 ##### Ukraine-European Union relations
 ### [Representatives of the European Parliament and European Council sign a document formally granting Ukrainians visa-free travel to the European Union. The visa-free regime is due to enter into force on June 11. ](/news/2017/05/17/representatives-of-the-european-parliament-and-european-council-sign-a-document-formally-granting-ukrainians-visa-free-travel-to-the-europea.md)
-_Context: EU, European Council, European Parliament, Ukraine-European Union relations, Ukrainian_
+_Context: EU, European Council, European Parliament, Ukraine, Ukraine-European Union relations_
 
 ##### War in Afghanistan
 ### [Four militants attack a state television building in Jalalabad, killing at least six people. The militants are also killed after engaging with Afghan police. ISIL claimed responsibility for the attack. ](/news/2017/05/17/four-militants-attack-a-state-television-building-in-jalalabad-killing-at-least-six-people-the-militants-are-also-killed-after-engaging-wi.md)

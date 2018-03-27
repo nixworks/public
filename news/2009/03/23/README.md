@@ -33,7 +33,7 @@ _Context: Iraq, suicide attack_
 
 ##### Car bomb
 ### [ A car bomb is located and defused near a shopping mall in Haifa, Israel. ](/news/2009/03/23/a-car-bomb-is-located-and-defused-near-a-shopping-mall-in-haifa-israel.md)
-_Context: Haifa, Israel, bomb squad, car bomb, shopping center_
+_Context: Haifa, Israel, bomb squad, car bomb, shopping centre_
 
 ## [Previous Day...](/news/2009/03/22/index.md)
 

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2008/04/4/a-suicide-bomb-attack-kills-three-policemen-and-
 
 ### Related:
 
-1. [Two suicide bombers strike a Shi'ite mosque in Herat, Afghanistan. One is killed by security forces and the other detonates his device, killing one and wounding seven. ISIL claims responsibility. ](/news/2018/03/25/two-suicide-bombers-strike-a-shi-ite-mosque-in-herat-afghanistan-one-is-killed-by-security-forces-and-the-other-detonates-his-device-kill.md) _Context: Afghanistan, suicide bomb_
+1. [Two suicide bombers strike a Shi'ite mosque in Herat, Afghanistan, killing one person and wounding seven others. Security forces kill one bomber while the device kills the other. ISIL claims responsibility. ](/news/2018/03/25/two-suicide-bombers-strike-a-shi-ite-mosque-in-herat-afghanistan-killing-one-person-and-wounding-seven-others-security-forces-kill-one-bo.md) _Context: Afghanistan, suicide bomb_
 2. [A suicide bomb kills at least nine, including two policemen, at a funeral for a tribal elder in Baghlan Province, northern Afghanistan. ](/news/2014/12/1/a-suicide-bomb-kills-at-least-nine-including-two-policemen-at-a-funeral-for-a-tribal-elder-in-baghlan-province-northern-afghanistan.md) _Context: Afghanistan, suicide bomb_
 3. [A suicide bomb attack kills the police chief of a district in southern Kandahar Province in Afghanistan. ](/news/2014/09/8/a-suicide-bomb-attack-kills-the-police-chief-of-a-district-in-southern-kandahar-province-in-afghanistan.md) _Context: Afghanistan, suicide bomb_
 4. [A suicide bomb in Pakistan's tribal areas near the Afghanistan border kills at least 50. ](/news/2010/07/9/a-suicide-bomb-in-pakistan-s-tribal-areas-near-the-afghanistan-border-kills-at-least-50.md) _Context: Afghanistan, suicide bomb_

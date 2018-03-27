@@ -13,7 +13,7 @@ The wife of disgraced Chinese political leader Bo Xilai is charged with murderin
 
 ##### Beijing
 ### [Officials in Beijing raise the death toll from weekend flooding to 77 after rescuers located additional bodies. This follows criticism, including from the Chinese state media, of the city's handling of the storm.](/news/2012/07/26/officials-in-beijing-raise-the-death-toll-from-weekend-flooding-to-77-after-rescuers-located-additional-bodies-this-follows-criticism-incl.md)
-_Context: Beijing, Chinese_
+_Context: Beijing, China_
 
 ##### North Korea
 ### [Sixteen thousand people become homeless in North Korea after Tropical Storm Khanun hit last week. ](/news/2012/07/26/sixteen-thousand-people-become-homeless-in-north-korea-after-tropical-storm-khanun-hit-last-week.md)

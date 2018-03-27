@@ -21,7 +21,7 @@ Russian blogger turned opposition figure Aleksey Navalny has been found guilty o
 
 ##### Thailand-United States relations
 ### [Thai Prime Minister Prayut Chan-o-cha meets with U.S. President Donald Trump in the Oval Office. Trump says he wants to lower the U.S. trade deficit with Thailand. ](/news/2017/10/2/thai-prime-minister-prayut-chan-o-cha-meets-with-u-s-president-donald-trump-in-the-oval-office-trump-says-he-wants-to-lower-the-u-s-trade.md)
-_Context: Donald Trump, Oval Office, Prayut Chan-o-cha, Thai Prime Minister, Thailand, Thailand-United States relations, U.S. trade deficit_
+_Context: Oval Office, Prayut Chan-o-cha, Thai Prime Minister, Thailand, Thailand-United States relations, Trump, U.S. trade deficit_
 
 ##### Egypt-North Korea relations
 ### [Thirty-thousand North Korean rocket propelled grenades are seized off the coast of Egypt by American forces after being purchased by Egyptian business executives for $23 million (EGBP406 million-W20 billion). ](/news/2017/10/2/thirty-thousand-north-korean-rocket-propelled-grenades-are-seized-off-the-coast-of-egypt-by-american-forces-after-being-purchased-by-egyptia.md)

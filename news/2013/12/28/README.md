@@ -11,13 +11,13 @@ Four animals previously unknown to science discovered in deep water off Scotland
 ### [Russia's Soyuz-2-1v rocket makes its maiden flight. ](/news/2013/12/28/russia-s-soyuz-2-1v-rocket-makes-its-maiden-flight.md)
 _Context: Soyuz-2-1v_
 
-##### Chinese
+##### China
 ### [The Chinese icebreaker "Xue Long", or "Snow Dragon", was only six nautical miles away from the Russian-flagged vessel "Akademik Shokalskiy" when it too became obstructed by heavy ice in Antarctica. ](/news/2013/12/28/the-chinese-icebreaker-xua-la3ng-or-snow-dragon-was-only-six-nautical-miles-away-from-the-russian-flagged-vessel-akademik-shokalskiy.md)
-_Context: Akademik Shokalskiy, Antarctica, Chinese, Russia, Xue Long, nautical miles_
+_Context: Akademik Shokalskiy, Antarctica, China, Russia, Xue Long, nautical miles_
 
 ##### Earthquake
 ### [A 5.8-magnitude earthquake strikes in the Mediterranean Sea, 50 miles (80 kilometers) south southwest of Avsallar, Turkey. ](/news/2013/12/28/a-5-8-magnitude-earthquake-strikes-in-the-mediterranean-sea-50-miles-80-kilometers-south-southwest-of-avsallar-turkey.md)
-_Context: Avsallar, Mediterranean Sea, Turkey, earthquake_
+_Context: Avsallar, Mediterranean Sea, Turkish, earthquake_
 
 ##### India
 ### [An express train catches fire in India, leaving at least 23 dead. The train was traveling from Bangalore to Nanded in the western state of Maharashtra. ](/news/2013/12/28/an-express-train-catches-fire-in-india-leaving-at-least-23-dead-the-train-was-traveling-from-bangalore-to-nanded-in-the-western-state-of-m.md)

@@ -55,7 +55,7 @@ Pope Benedict XVI begins a visit to Spain, where the traditionally powerful Cath
 ### [Finance Ministers from the Asia-Pacific Economic Cooperation meet in Tokyo, Japan. ](/news/2010/11/6/finance-ministers-from-the-asia-pacific-economic-cooperation-meet-in-tokyo-japan.md)
 _Context: Asia-Pacific Economic Cooperation, Finance Minister, Japan, Tokyo_
 
-##### U.S. President
+##### President
 ### [US President Barack Obama arrives in India on the first leg of an Asian tour aimed at boosting United States exports. ](/news/2010/11/6/us-president-barack-obama-arrives-in-india-on-the-first-leg-of-an-asian-tour-aimed-at-boosting-united-states-exports.md)
 Obama and his wife walked down the ladder to a red carpet welcome and were received by Maharashtra CM Ashok Chavan who presented him a memento. 
 

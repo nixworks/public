@@ -17,7 +17,7 @@ At least six people are killed and 15 injured in a suicide bomb attack on the to
 
 ### Changes:
 
-1. [At least 15 people are killed and at least 20 others are injured after a bomb tears through the Argana cafe in Marrakesh's main Djemaa el-Fna square. ](/news/2011/04/28/at-least-15-people-are-killed-and-at-least-20-others-are-injured-after-a-bomb-tears-through-the-argana-cafe-in-marrakesh-s-main-djemaa-el-fn.md) _2018-03-25 03:41:52 (First version)_
+1. [At least 15 people are killed and at least 20 others are injured after a bomb tears through the Argana cafe in Marrakesh's main Djemaa el-Fna square. ](/news/2011/04/28/at-least-15-people-are-killed-and-at-least-20-others-are-injured-after-a-bomb-tears-through-the-argana-cafe-in-marrakesh-s-main-djemaa-el-fn.md) _2018-03-26 03:41:56 (First version)_
 1. [At least 6 people are killed and at least 15 others are injured in a suicide attack in Baladruz, Iraq. ](/news/2011/04/28/at-least-6-people-are-killed-and-at-least-15-others-are-injured-in-a-suicide-attack-in-baladruz-iraq.md) _(Current version)_
 
 ### Related:

@@ -33,7 +33,7 @@ Qatar&#39;s Sheikh Tamim is in Moscow to meet Russian President Vladimir Putin t
 
 ##### Russia-European Union relations
 ### [EU diplomatic chief Federica Mogherini holds crisis talks with Markus Ederer, the bloc's recalled ambassador to Russia. ](/news/2018/03/25/eu-diplomatic-chief-federica-mogherini-holds-crisis-talks-with-markus-ederer-the-bloc-s-recalled-ambassador-to-russia.md)
-_Context: EU, Federica Mogherini, Poisoning of Sergei and Yulia Skripal, Russia, Russia-European Union relations_
+_Context: EU, Federica Mogherini, Russia, Russia-European Union relations, attempted murder_
 
 ##### Trump tariffs
 ### [South Korea and the United States reach agreements on trade and steel tariffs. ](/news/2018/03/25/south-korea-and-the-united-states-reach-agreements-on-trade-and-steel-tariffs.md)
@@ -48,7 +48,7 @@ Most were either standing or sitting on the front seats of the passenger vehicle
 MOKPO, South Korea: South Korea&#039;s coast guard said it rescued all 163 people aboard a ferry that hit a large rock in waters off the country&#039;s southwestern coast on Sunday (Mar 24), according to an Associate Press report. At least six people suffered mild injuries from the accident, which h...
 
 ##### 2018 Kemerovo fire
-### [A fire in the Winter Cherry complex, a shopping center in Kemerovo, Russia, kills at least 64 people, the majority of which are children. ](/news/2018/03/25/a-fire-in-the-winter-cherry-complex-a-shopping-center-in-kemerovo-russia-kills-at-least-64-people-the-majority-of-which-are-children.md)
+### [A fire in the Winter Cherry complex, a shopping centre in Kemerovo, Russia, kills at least 64 people, the majority of which are children. ](/news/2018/03/25/a-fire-in-the-winter-cherry-complex-a-shopping-centre-in-kemerovo-russia-kills-at-least-64-people-the-majority-of-which-are-children.md)
 Video on social media shows panic as rescue teams evacuate the building in southern Russia.
 
 ##### Yemeni Crisis (2011-present)

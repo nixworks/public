@@ -16,7 +16,7 @@ President Emmanuel Macron said on Saturday France stood ready if needed to stren
 
 ### Related:
 
-1. [A former French Parliamentarian candidate is arrested for tweeting that the death of Lt-Col Arnaud Beltrame was 'great' and 'one less vote for Emmanuel Macron.' ](/news/2018/03/25/a-former-french-parliamentarian-candidate-is-arrested-for-tweeting-that-the-death-of-lt-col-arnaud-beltrame-was-great-and-one-less-vote-f.md) _Context: Emmanuel Macron_
+1. [A former French Parliamentarian candidate of the La France Insoumise party is arrested for tweeting that the death of Lt-Col Arnaud Beltrame was "great" and "one less vote for Emmanuel Macron." ](/news/2018/03/25/a-former-french-parliamentarian-candidate-of-the-la-france-insoumise-party-is-arrested-for-tweeting-that-the-death-of-lt-col-arnaud-beltrame.md) _Context: Emmanuel Macron_
 2. [Malian Prime Minister Soumeylou Boubeye Maiga visits seperatist rebel stronghold Kidal. ](/news/2018/03/23/malian-prime-minister-soumeylou-boubeye-maiga-visits-seperatist-rebel-stronghold-kidal.md) _Context: Northern Mali conflict_
 3. [French President Emmanuel Macron phones Turkish President Recep Tayyip Erdogan, telling Erdogan that the UN-approved ceasefire in Syria also applies in the Afrin Region. ](/news/2018/02/26/french-president-emmanuel-macron-phones-turkish-president-recep-tayyip-erdoaan-telling-erdoaan-that-the-un-approved-ceasefire-in-syria-al.md) _Context: Emmanuel Macron_
 4. [French President Emmanuel Macron meets with British Prime Minister Theresa May at the Royal Military Academy Sandhurst. ](/news/2018/01/18/french-president-emmanuel-macron-meets-with-british-prime-minister-theresa-may-at-the-royal-military-academy-sandhurst.md) _Context: Emmanuel Macron_

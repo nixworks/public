@@ -13,7 +13,7 @@ About 900 State Department officials so far have signed an internal memo protest
 
 ##### Supreme Court of the United States
 ### [President Donald Trump has nominated Judge Neil Gorsuch to fill the vacant seat on the Supreme Court of the United States. Neil Gorsuch is the youngest nominee to the court in 25 years. ](/news/2017/01/31/president-donald-trump-has-nominated-judge-neil-gorsuch-to-fill-the-vacant-seat-on-the-supreme-court-of-the-united-states-neil-gorsuch-is-t.md)
-_Context: Donald Trump, Neil Gorsuch, Supreme Court of the United States_
+_Context: Neil Gorsuch, Supreme Court of the United States, Trump_
 
 ##### Cabinet of Donald Trump
 ### [The U.S. Senate confirms former U.S. labor secretary and deputy transportation secretary Elaine Chao as Secretary of Transportation. Chao is married to Senate Majority Leader Mitch McConnell. ](/news/2017/01/31/the-u-s-senate-confirms-former-u-s-labor-secretary-and-deputy-transportation-secretary-elaine-chao-as-secretary-of-transportation-chao-is.md)

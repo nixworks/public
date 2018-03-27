@@ -45,7 +45,7 @@ Boston charged to its third straight win, completing yet another October comebac
 
 ##### Factory
 ### [ A fire in an illegal shoe factory kills at least 34 people in Putian in Fujian province, China. ](/news/2007/10/21/a-fire-in-an-illegal-shoe-factory-kills-at-least-34-people-in-putian-in-fujian-province-china.md)
-_Context: Chinese, Fujian, Putian, factory_
+_Context: China, Fujian, Putian, factory_
 
 ##### Washington Institute for Near East Policy
 ### [ Speaking at the Washington Institute for Near East Policy, United States Vice President Dick Cheney states: "The United States joins other nations in sending a clear message - we will not allow Iran to have a nuclear weapon." ](/news/2007/10/21/speaking-at-the-washington-institute-for-near-east-policy-united-states-vice-president-dick-cheney-states-the-united-states-joins-other.md)
@@ -63,9 +63,9 @@ _Context: 2007 Royal London Watches Grand Prix snooker tournament, Marco Fu, Ron
 ### [ Voters go to the polls in Slovenia to elect a new President, with Lojze Peterle winning most votes but not a majority. A runoff between him and Danilo Trk will be held on November 11. ](/news/2007/10/21/voters-go-to-the-polls-in-slovenia-to-elect-a-new-president-with-lojze-peterle-winning-most-votes-but-not-a-majority-a-runoff-between-him.md)
 _Context: 2007 Slovenian presidential elections, Danilo Trk, Lojze Peterle, November 11, Slovenia, Slovenian President, second round_
 
-##### Turkey
+##### Turkish
 ### [ Turkish people vote in favor of a constitutional referendum on electoral reform with a 69% majority. ](/news/2007/10/21/turkish-people-vote-in-favor-of-a-constitutional-referendum-on-electoral-reform-with-a-69-majority.md)
-_Context: Turkey, constitutional referendum, electoral reform_
+_Context: Turkish, constitutional referendum, electoral reform_
 
 ##### Tokelau
 ### [ Tokelauan ex-pats in Samoa go to the polls for the Tokelauan self-determination referendum. ](/news/2007/10/21/tokelauan-ex-pats-in-samoa-go-to-the-polls-for-the-tokelauan-self-determination-referendum.md)

@@ -19,7 +19,7 @@ _Context: African Footballer of the Year, Chelsea F.C., Didier Drogba, Ivory Coa
 ### [Sahil Saeed is "found" in Pakistan. ](/news/2010/03/11/sahil-saeed-is-found-in-pakistan.md)
 Sahil Saeed, the five-year-old boy kidnapped in Pakistan, has been found, according to the country&rsquo;s top diplomat.
 
-##### Turkey
+##### Turkish
 ### [Turkey recalls its ambassador to Sweden and cancels the Turkey - Sweden summit planned for March 17 after the Riksdag votes in favour of calling the Armenian Genocide a genocide. ](/news/2010/03/11/turkey-recalls-its-ambassador-to-sweden-and-cancels-the-turkey-sweden-summit-planned-for-march-17-after-the-riksdag-votes-in-favour-of-cal.md)
 Turkey has recalled its ambassador from Sweden after its parliament voted to brand the WW1 killing of Armenians by Ottoman forces as genocide.
 

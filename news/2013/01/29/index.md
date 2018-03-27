@@ -15,7 +15,7 @@ Government plans to redraw constituency boundaries before 2015, which split Tori
 ### [The United States Senate confirms John Kerry to become United States Secretary of State by a vote of 94-3. Kerry succeeds outgoing Secretary Hillary Clinton on February 1. ](/news/2013/01/29/the-united-states-senate-confirms-john-kerry-to-become-united-states-secretary-of-state-by-a-vote-of-94a3-kerry-succeeds-outgoing-secreta.md)
 _Context: Hillary Clinton, John Kerry, Secretary of State, Senate, United States_
 
-##### Ukrainian
+##### Ukraine
 ### [A Ukrainian court sentences a former police chief Olexiy Pukach to life imprisonment for murdering journalist Georgiy Gongadze in 2000. ](/news/2013/01/29/a-ukrainian-court-sentences-a-former-police-chief-olexiy-pukach-to-life-imprisonment-for-murdering-journalist-georgiy-gongadze-in-2000.md)
 A Ukrainian court convicts a former police surveillance chief of killing journalist Georgy Gongadze in 2000, a crime which rocked the country.
 

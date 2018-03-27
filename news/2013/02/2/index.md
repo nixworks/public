@@ -17,7 +17,7 @@ Beijing, Feb 3 (IANS) Five road accidents in two days have claimed the lives of 
 
 ##### Gansu
 ### [A bus catches fire after falling into a ravine in Gansu province, China, killing 18 people and injuring 34 others. ](/news/2013/02/2/a-bus-catches-fire-after-falling-into-a-ravine-in-gansu-province-china-killing-18-people-and-injuring-34-others.md)
-_Context: Chinese, Gansu_
+_Context: China, Gansu_
 
 ##### Japanese Prime Minister
 ### [Prime Minister of Japan Shinzo Abe vows to defend the Senkaku Islands "at all costs" in a speech aimed at the Japan Self-Defense Forces. ](/news/2013/02/2/prime-minister-of-japan-shinza-abe-vows-to-defend-the-senkaku-islands-at-all-costs-in-a-speech-aimed-at-the-japan-self-defense-forces.md)
@@ -27,9 +27,9 @@ _Context: Japan, Japanese Prime Minister, Senkaku Islands, Shinzo Abe, military_
 ### [The protesters clashes with police outside the presidential palace in Cairo, Egypt, after a week of violence in which more than 60 people were killed. ](/news/2013/02/2/the-protesters-clashes-with-police-outside-the-presidential-palace-in-cairo-egypt-after-a-week-of-violence-in-which-more-than-60-people-we.md)
 At least one protester was shot dead and dozens wounded on Friday when riot police clashed with demonstrators demanding the overthrow of Egyptian President Mohamed Mursi.
 
-##### Turkey
+##### Turkish
 ### [The Turkish radical leftist group Revolutionary People's Liberation Party-Front claims responsibility for the bombing in Ankara. ](/news/2013/02/2/the-turkish-radical-leftist-group-revolutionary-people-s-liberation-partyafront-claims-responsibility-for-the-bombing-in-ankara.md)
-_Context: Ankara, Revolutionary People's Liberation Army-Front (DHKP-C), Turkey, bombing_
+_Context: Ankara, Revolutionary People's Liberation Army-Front (DHKP-C), Turkish, bombing_
 
 ##### Pakistani troops
 ### [Militants attack a Pakistani Army base in the Lakki Marwat District in Pakistan killing at least 23 and injuring at least 8. ](/news/2013/02/2/militants-attack-a-pakistani-army-base-in-the-lakki-marwat-district-in-pakistan-killing-at-least-23-and-injuring-at-least-8.md)

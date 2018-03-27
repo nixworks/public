@@ -25,7 +25,7 @@ _Context: BitTorrent, Stockholm, Sweden, The Pirate Bay, tracker, trial_
 
 ##### Israel
 ### [ An Israeli lawyer convicted of defrauding Holocaust survivors is arrested for planning to flee the country. ](/news/2009/02/16/an-israeli-lawyer-convicted-of-defrauding-holocaust-survivors-is-arrested-for-planning-to-flee-the-country.md)
-_Context: Holocaust, Israel, defrauding, survivors_
+_Context: Holocaust survivor, Israel, defrauding, survivors_
 
 ##### United Kingdom
 ### [ Section 76 of the United Kingdom's Counter-Terrorism Act 2008&mdash;a law that criminalizes publishing information about the Armed Forces, the Security Service, the Secret Intelligence Service, or Government Communications Headquarters&mdash;is effected. ](/news/2009/02/16/section-76-of-the-united-kingdom-s-counter-terrorism-act-2008-mdash-a-law-that-criminalizes-publishing-information-about-the-armed-forces.md)

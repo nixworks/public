@@ -41,7 +41,7 @@ _Context: Lee Myung-bak, North Korea, South Korean President, its nuclear progra
 
 ##### India
 ### [India lodges a high-level protest with the government of China over the treatment of an Indian diplomat in a courtroom. ](/news/2012/01/2/india-lodges-a-high-level-protest-with-the-government-of-china-over-the-treatment-of-an-indian-diplomat-in-a-courtroom.md)
-_Context: Chinese, India_
+_Context: China, India_
 
 ##### Chile
 ### [Firefighters in Chile battle three large wildfires, which have reportedly killed at least one person. ](/news/2012/01/2/firefighters-in-chile-battle-three-large-wildfires-which-have-reportedly-killed-at-least-one-person.md)

@@ -83,9 +83,9 @@ Officials say 500 people could be onboard boat from Sri Lanka.
 ### [Poland extradites Israeli citizen and suspected spy Uri Brodsky to Germany to face charges of being involved in the murder of Mahmoud al-Mabhouh in Dubai. ](/news/2010/08/12/poland-extradites-israeli-citizen-and-suspected-spy-uri-brodsky-to-germany-to-face-charges-of-being-involved-in-the-murder-of-mahmoud-al-mab.md)
 Poland extradites to Germany a suspected Israeli agent wanted in connection with the killing in Dubai of a Hamas commander, officials say.
 
-##### Turkey
+##### Turkish
 ### [Turkey sets up a commission of Turkish officials and bureaucrats to investigate May's Gaza flotilla raid. ](/news/2010/08/12/turkey-sets-up-a-commission-of-turkish-officials-and-bureaucrats-to-investigate-may-s-gaza-flotilla-raid.md)
-_Context: Gaza flotilla raid, Turkey_
+_Context: Gaza flotilla raid, Turkish_
 
 ##### South Kivu
 ### [At least 58 people are killed after a lorry plunges into South Kivu's Lake Tanganyika. ](/news/2010/08/12/at-least-58-people-are-killed-after-a-lorry-plunges-into-south-kivu-s-lake-tanganyika.md)

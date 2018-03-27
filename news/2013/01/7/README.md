@@ -7,7 +7,7 @@ Formats: [HTML](2013/01/7/index.html)  [JSON](2013/01/7/index.json)  [XML](2013/
 ### [Scientists from the Harvard-Smithsonian Center for Astrophysics estimate that there are at least 17 billion planets approximately the size of Earth in the Milky Way. ](/news/2013/01/7/scientists-from-the-harvardasmithsonian-center-for-astrophysics-estimate-that-there-are-at-least-17-billion-planets-approximately-the-size.md)
 _Context: Earth, Harvard-Smithsonian Center for Astrophysics, Milky Way, planets_
 
-##### U.S. President
+##### President
 ### [U.S. President Barack Obama nominates PIAB Chairman Chuck Hagel to be the next Secretary of Defense and HSC Advisor John O. Brennan to be the next Director of the CIA. ](/news/2013/01/7/u-s-president-barack-obama-nominates-piab-chairman-chuck-hagel-to-be-the-next-secretary-of-defense-and-hsc-advisor-john-o-brennan-to-be-th.md)
 President Obama names Chuck Hagel to head the Pentagon and terrorism adviser John Brennan to lead the CIA, but Republicans question the nominations.
 

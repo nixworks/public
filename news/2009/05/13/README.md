@@ -33,7 +33,7 @@ _Context: Palestinian, Palestinian state, Pope, Pope Benedict XVI, resume negoti
 
 ##### United States
 ### [ United States President Barack Obama proclaims May 2009 as Jewish American Heritage Month. ](/news/2009/05/13/united-states-president-barack-obama-proclaims-may-2009-as-jewish-american-heritage-month.md)
-_Context: Barack Obama, Jewish American Heritage Month, U.S. President, United States_
+_Context: Barack Obama, Jewish American Heritage Month, President, United States_
 
 ## [Previous Day...](/news/2009/05/12/index.md)
 

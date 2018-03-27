@@ -17,7 +17,7 @@ _Context: Angela Merkel, Chancellor, Europe, French, Germany, Paris_
 
 ##### Explosion at a chemical factory
 ### [ An explosion at a chemical factory on the Songhua River in northeastern China releases high levels of benzene into the river water. Authorities shut off the water supply for the downstream city of Harbin. ](/news/2005/11/23/an-explosion-at-a-chemical-factory-on-the-songhua-river-in-northeastern-china-releases-high-levels-of-benzene-into-the-river-water-authori.md)
-_Context: Chinese, Harbin, Songhua River, benzene, explosion at a chemical factory_
+_Context: China, Harbin, Songhua River, benzene, explosion at a chemical factory_
 
 ##### Duma
 ### [ The lower house of the Russian parliament passed a bill by 370-18 requiring local branches of foreign non-governmental organisations (NGOs) to reregister as Russian organisations subject to Russian jurisdiction, and thus stricter financial and legal restrictions. The bill gives Russian officials oversight of local finances and activities. The bill has been highly criticised by Human Rights Watch, Memorial rights organization, and the nonprofit think tank Indem for its potential effects on international monitoring of the status of human rights in Russia. ](/news/2005/11/23/the-lower-house-of-the-russian-parliament-passed-a-bill-by-370-18-requiring-local-branches-of-foreign-non-governmental-organisations-ngos.md)

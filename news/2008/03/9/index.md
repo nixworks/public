@@ -3,9 +3,9 @@ Formats: [HTML](2008/03/9/index.html)  [JSON](2008/03/9/index.json)  [XML](2008/
 
 ## [2008-03-9](/news/2008/03/9/index.md)
 
-##### Chinese
+##### China
 ### [ An official reports that last week a flight crew prevented an apparent attempt to crash a Chinese jetliner. ](/news/2008/03/9/an-official-reports-that-last-week-a-flight-crew-prevented-an-apparent-attempt-to-crash-a-chinese-jetliner.md)
-_Context: Chinese_
+_Context: China_
 
 ##### Argentina
 ### [ An Argentine train headed for Mar del Plata from Buenos Aires slams into a bus at a rural rail crossing near Dolores, killing 26 people and leaving at least 60 others injured. ](/news/2008/03/9/an-argentine-train-headed-for-mar-del-plata-from-buenos-aires-slams-into-a-bus-at-a-rural-rail-crossing-near-dolores-killing-26-people-and.md)

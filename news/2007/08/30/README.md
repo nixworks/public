@@ -15,9 +15,9 @@ _Context: Anglican Church of Kenya, United States Episcopal Church, consecrate, 
 ### [ A report into the Virginia Tech massacre criticises staff for not acting quickly enough after Seung-Hui Cho's first killings. ](/news/2007/08/30/a-report-into-the-virginia-tech-massacre-criticises-staff-for-not-acting-quickly-enough-after-seung-hui-cho-s-first-killings.md)
 _Context: Seung-Hui Cho, largest mass shooting in US history_
 
-##### Chinese
+##### China
 ### [ The Chinese Finance Minister, Jin Renqing, resigns due to "personal reasons". ](/news/2007/08/30/the-chinese-finance-minister-jin-renqing-resigns-due-to-personal-reasons.md)
-_Context: Chinese, Jin Renqing_
+_Context: China, Jin Renqing_
 
 ##### Cao Gangchuan
 ### [ Cao Gangchuan, the Defense Minister of People's Republic of China and Masahiko Komura, Defense Minister of Japan. meet and agree to strengthen exchanges. ](/news/2007/08/30/cao-gangchuan-the-defense-minister-of-people-s-republic-of-china-and-masahiko-komura-defense-minister-of-japan-meet-and-agree-to-strengt.md)

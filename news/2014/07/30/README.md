@@ -25,7 +25,7 @@ _Context: Argentina_
 
 ##### Morgan Stanley
 ### [Analysts of Morgan Stanley predict that Russian President Vladimir Putin would soon block the transit of gas through Ukraine to Europe to retaliate against the world for imposing economic sanctions on Russia. ](/news/2014/07/30/analysts-of-morgan-stanley-predict-that-russian-president-vladimir-putin-would-soon-block-the-transit-of-gas-through-ukraine-to-europe-to-re.md)
-_Context: Morgan Stanley, Russia, Ukrainian, Vladimir Putin_
+_Context: Morgan Stanley, Russia, Ukraine, Vladimir Putin_
 
 ##### United Nations Relief and Welfare Agency
 ### [Israeli shelling of a UNRWA school in Jabaliya refugee camp kills at least 19 Palestinian civilians and wounds scores more. ](/news/2014/07/30/israeli-shelling-of-a-unrwa-school-in-jabaliya-refugee-camp-kills-at-least-19-palestinian-civilians-and-wounds-scores-more.md)

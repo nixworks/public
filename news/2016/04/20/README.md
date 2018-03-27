@@ -65,7 +65,7 @@ NATO has reopened informal talks with Russia for the first time in nearly two ye
 
 ##### Ukraine-European Union relations
 ### [The European Union proposes offering Ukraine visa-free travel to its members. However, it is still unclear how fast the liberalization process will be dealt with in the European Parliament and European Council, where some EU member states might want to slow down the process. ](/news/2016/04/20/the-european-union-proposes-offering-ukraine-visa-free-travel-to-its-members-however-it-is-still-unclear-how-fast-the-liberalization-proce.md)
-_Context: EU, European Council, European Parliament, Ukraine-European Union relations, Ukrainian, member states_
+_Context: EU, European Council, European Parliament, Ukraine, Ukraine-European Union relations, member states_
 
 ##### Yemeni Crisis
 ### [The Gulf Cooperation Council (GCC) and the United States agree to carry out joint naval patrols to prevent Iranian arms shipments reaching Yemen, the Gulf bloc's secretary general Abdullatif bin Rashid Al Zayani said on Wednesday, following a meeting with United States Secretary of Defense Ash Carter. Iran denies it supplies weapons to the Houthis in Yemen. ](/news/2016/04/20/the-gulf-cooperation-council-gcc-and-the-united-states-agree-to-carry-out-joint-naval-patrols-to-prevent-iranian-arms-shipments-reaching-y.md)
@@ -113,7 +113,7 @@ Group claims its gunmen carried out the two separate attacks in Karachi but offi
 
 ##### War in Donbass
 ### [A Ukrainian military spokesman says three of its soldiers were killed by a mortar attack in the country's east, the heaviest toll reported in the region in nearly two months. ](/news/2016/04/20/a-ukrainian-military-spokesman-says-three-of-its-soldiers-were-killed-by-a-mortar-attack-in-the-country-s-east-the-heaviest-toll-reported-i.md)
-_Context: Eastern Ukraine, Ukrainian, Ukrainian military, War in Donbass_
+_Context: Eastern Ukraine, Ukraine, Ukrainian military, War in Donbass_
 
 ##### War in Afghanistan (2015-present)
 ### [The death toll from yesterday's Taliban attack on the National Directorate of Security in Kabul rises to 64, with 347 others wounded, according to the Afghan Interior Ministry. ](/news/2016/04/20/the-death-toll-from-yesterday-s-taliban-attack-on-the-national-directorate-of-security-in-kabul-rises-to-64-with-347-others-wounded-accord.md)

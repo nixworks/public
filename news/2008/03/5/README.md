@@ -17,7 +17,7 @@ _Context: Berkshire Hathaway Inc., Forbes, Warren Buffett_
 
 ##### Republican
 ### [ U.S. Republican presidential nominee John McCain is endorsed by President George W. Bush. ](/news/2008/03/5/u-s-republican-presidential-nominee-john-mccain-is-endorsed-by-president-george-w-bush.md)
-_Context: George W. Bush, John McCain, Republican, U.S. President_
+_Context: George W. Bush, John McCain, President, Republican_
 
 ##### Jimmy Wales
 ### [ Jimmy Wales, co-founder of Wikipedia, is facing allegations that he used the Wikimedia Foundation funds to pay for personal expenses. ](/news/2008/03/5/jimmy-wales-co-founder-of-wikipedia-is-facing-allegations-that-he-used-the-wikimedia-foundation-funds-to-pay-for-personal-expenses.md)

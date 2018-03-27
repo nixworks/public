@@ -13,7 +13,7 @@ U.S. President Barack Obama on Monday pressed a two-state solution to the Middle
 
 ##### United States
 ### [ Former United States Secretary of Defense Donald Rumsfeld is accused of quoting the Bible while briefing then-President George W. Bush. ](/news/2009/05/18/former-united-states-secretary-of-defense-donald-rumsfeld-is-accused-of-quoting-the-bible-while-briefing-then-president-george-w-bush.md)
-_Context: Bible, Donald Rumsfeld, George W. Bush, U.S. President, United States, United States Secretary of Defense_
+_Context: Bible, Donald Rumsfeld, George W. Bush, President, United States, United States Secretary of Defense_
 
 ##### European Commission
 ### [ The European Commission's headquarters in Brussels, Belgium, is evacuated because of a fire. ](/news/2009/05/18/the-european-commission-s-headquarters-in-brussels-belgium-is-evacuated-because-of-a-fire.md)

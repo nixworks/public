@@ -3,9 +3,9 @@ Formats: [HTML](2011/06/12/index.html)  [JSON](2011/06/12/index.json)  [XML](201
 
 ## [2011-06-12](/news/2011/06/12/index.md)
 
-##### Turkey
+##### Turkish
 ### [Voters in Turkey go to the polls for a general election. ](/news/2011/06/12/voters-in-turkey-go-to-the-polls-for-a-general-election.md)
-_Context: Turkey, general election_
+_Context: Turkish, general election_
 
 ##### Bangladesh
 ### [A second nationwide strike takes place in Bangladesh over changes to the electoral system. ](/news/2011/06/12/a-second-nationwide-strike-takes-place-in-bangladesh-over-changes-to-the-electoral-system.md)

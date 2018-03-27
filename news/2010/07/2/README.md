@@ -11,9 +11,9 @@ _Context: Beltransgaz, Gazprom_
 ### [Germany vows to suspend aid to Zimbabwe unless occupiers leave a farm owned by a German national. ](/news/2010/07/2/germany-vows-to-suspend-aid-to-zimbabwe-unless-occupiers-leave-a-farm-owned-by-a-german-national.md)
 _Context: Germany, Zimbabwe_
 
-##### U.S. President
+##### President
 ### [President of the United States Barack Obama signs into law the CISAD Act, which bans US banks from doing business with foreign banks that provide services to Iran's elite Revolutionary Guards. ](/news/2010/07/2/president-of-the-united-states-barack-obama-signs-into-law-the-cisad-act-which-bans-us-banks-from-doing-business-with-foreign-banks-that-pr.md)
-_Context: Barack Obama, CISAD Act, Revolutionary Guards, U.S. President_
+_Context: Barack Obama, CISAD Act, President, Revolutionary Guards_
 
 ##### Ian Paisley
 ### [Ian Paisley condemns the invitation for the Pope to visit Britain and calls child-abusing Catholic priests "Antichrists". ](/news/2010/07/2/ian-paisley-condemns-the-invitation-for-the-pope-to-visit-britain-and-calls-child-abusing-catholic-priests-antichrists.md)
@@ -47,7 +47,7 @@ _Context: Narathiwat, Thailand, Yala Province_
 ### [Amnesty International calls for an independent investigation into the July 2009 Urumqi riots, while the United States agrees. ](/news/2010/07/2/amnesty-international-calls-for-an-independent-investigation-into-the-july-2009-ara1-4mqi-riots-while-the-united-states-agrees.md)
 US and Amnesty call for transparency and probe into Urumqi unrest one year on.
 
-##### Turkey
+##### Turkish
 ### [Turkish warplanes bomb Kurdistan Workers' Party (PKK) hideouts in the Qandil mountains and the Hakurk region of Iraq, the day after 17 people die in Siirt. ](/news/2010/07/2/turkish-warplanes-bomb-kurdistan-workers-party-pkk-hideouts-in-the-qandil-mountains-and-the-hakurk-region-of-iraq-the-day-after-17-peopl.md)
 Warplanes target PKK bases a day after deadly clashes between rebels and the army.
 

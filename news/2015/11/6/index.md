@@ -21,7 +21,7 @@ _Context: 2013 coup d'etat, Defense Ministry, Egypt, Egypt-United States relatio
 
 ##### Turkey-United States relations
 ### [The U.S Air Force deploys six F-15C fighter jets to Turkey's Incirlik Air Base to help defend Turkish airspace against potential intruders. ](/news/2015/11/6/the-u-s-air-force-deploys-six-f-15c-fighter-jets-to-turkey-s-incirlik-air-base-to-help-defend-turkish-airspace-against-potential-intruders.md)
-_Context: F-15, Incirlik Air Base, Turkey, Turkey-United States relations, U.S. Air Force, airspace_
+_Context: F-15, Incirlik Air Base, Turkey-United States relations, Turkish, U.S. Air Force, airspace_
 
 ##### Refugee immigration to Germany
 ### ["Reuters" reports the Obama Administration will be opening new screening centers for Syrian refugees in Iraq and Lebanon to speed up the process for getting vetted individuals to the United States. ](/news/2015/11/6/reuters-reports-the-obama-administration-will-be-opening-new-screening-centers-for-syrian-refugees-in-iraq-and-lebanon-to-speed-up-the-pro.md)
@@ -51,7 +51,7 @@ Brazilian authorities stepped up efforts to locate and care for victims of a mas
 ### [Russia has ordered the suspension of all flights to Egypt following indications that the crash near Sharm el-Sheikh was caused by a bomb.](/news/2015/11/6/russia-has-ordered-the-suspension-of-all-flights-to-egypt-following-indications-that-the-crash-near-sharm-el-sheikh-was-caused-by-a-bomb.md)
 Russia orders the suspension of all flights to Egypt following indications that the crash near Sharm el-Sheikh was caused by a bomb.
 
-##### U.S. President
+##### President
 ### [U.S. President Barack Obama announces that the State Department has rejected TransCanada's application to complete the Keystone XL pipeline. ](/news/2015/11/6/u-s-president-barack-obama-announces-that-the-state-department-has-rejected-transcanada-s-application-to-complete-the-keystone-xl-pipeline.md)
 The president’s decision was a major victory for environmentalists and a bitter loss for the oil industry.
 

@@ -47,9 +47,9 @@ H7N9 bird flu has claimed two more lives in Shanghai, Chinese state media said o
 ### [An explosion at a fertilizer plant in the city of West, Texas, United States, kills 15 and injures more than 100 people and damages many nearby buildings, including residences, a nursing home, and a middle school. ](/news/2013/04/17/an-explosion-at-a-fertilizer-plant-in-the-city-of-west-texas-united-states-kills-15-and-injures-more-than-100-people-and-damages-many-nea.md)
 Rescuers searched on Thursday for survivors in the rubble of homes destroyed by a fiery fertilizer plant explosion in a small rural Texas town, as authorities struggled to determine how many people had been killed.
 
-##### U.S. President
+##### President
 ### [Further suspicious letters are found addressed to President Barack Obama and to members of the United States Senate. ](/news/2013/04/17/further-suspicious-letters-are-found-addressed-to-president-barack-obama-and-to-members-of-the-united-states-senate.md)
-_Context: Barack Obama, Senate, U.S. President_
+_Context: Barack Obama, President, Senate_
 
 ##### FBI
 ### [The U.S. FBI recovers forensic evidence suggesting the two explosive devices which exploded near the finish line of the 2013 Boston Marathon were pressure cooker bombs, placed inside heavy black nylon bags containing shrapnel. ](/news/2013/04/17/the-u-s-fbi-recovers-forensic-evidence-suggesting-the-two-explosive-devices-which-exploded-near-the-finish-line-of-the-2013-boston-marathon.md)

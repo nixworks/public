@@ -105,7 +105,7 @@ Serbia rejects World Court ruling saying it will never recognise Kosovo independ
 
 ##### Oil spill
 ### [Volunteers use their hands to clean an oil spill in the Yellow Sea after pipelines burst off Dalian in Northeastern China's Liaoning Province, spilling 1,500 tonnes of oil and covering an area close to 1,000 km 2 and about 90 km of coast. ](/news/2010/07/22/volunteers-use-their-hands-to-clean-an-oil-spill-in-the-yellow-sea-after-pipelines-burst-off-dalian-in-northeastern-china-s-liaoning-provinc.md)
-_Context: Chinese, Dalian, Liaoning Province, Northeastern China, Yellow Sea, oil pipeline, oil spill_
+_Context: China, Dalian, Liaoning Province, Northeastern China, Yellow Sea, oil pipeline, oil spill_
 
 ##### Asean
 ### [A proposal to develop nuclear energy is discussed at an energy policy meeting held by Asean in Da Lat, Vietnam. ](/news/2010/07/22/a-proposal-to-develop-nuclear-energy-is-discussed-at-an-energy-policy-meeting-held-by-asean-in-da-lat-vietnam.md)

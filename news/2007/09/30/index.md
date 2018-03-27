@@ -31,9 +31,9 @@ _Context: Karen, Myanmar, Norwegian, State Peace and Development Council_
 ### [ The Topps Meat Company recalls 21700000 lb of frozen beef patties because of potential contamination with "E. coli". Twenty-five cases of illness due to "E. coli" have been reported in the Northeastern United States. ](/news/2007/09/30/the-topps-meat-company-recalls-21700000-lb-of-frozen-beef-patties-because-of-potential-contamination-with-e-coli-twenty-five-cases-of-i.md)
 The Topps Meat Company, based in Elizabeth, N.J., said it was recalling 21.7 million pounds of ground beef products, which may have sickened 25 people in eight states.
 
-##### Ukrainian
+##### Ukraine
 ### [ Ukrainians went to the polls for the third time in three years to vote in parliamentary election. ](/news/2007/09/30/ukrainians-went-to-the-polls-for-the-third-time-in-three-years-to-vote-in-parliamentary-election.md)
-_Context: Ukrainian_
+_Context: Ukraine_
 
 ##### World Chess Champion
 ### [ Former World Chess Champion Garry Kasparov is selected Presidential Candidate for Other Russia in the 2008 presidentials. ](/news/2007/09/30/former-world-chess-champion-garry-kasparov-is-selected-presidential-candidate-for-other-russia-in-the-2008-presidentials.md)

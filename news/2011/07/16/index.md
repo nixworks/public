@@ -15,7 +15,7 @@ Rupert Murdoch takes out national press adverts to apologise for the phone hacki
 ### [Venezuelan President Hugo Chavez arrives back in Cuba for chemotherapy treatment. ](/news/2011/07/16/venezuelan-president-hugo-cha-vez-arrives-back-in-cuba-for-chemotherapy-treatment.md)
 Venezuelan President Hugh Chavez says he will go to Cuba Saturday to undergo chemotherapy treatment for a cancer he had removed earlier.
 
-##### U.S. President
+##### President
 ### [The President of the United States is set to meet with the Dalai Lama in Washington DC despite a warning from the People's Republic of China. ](/news/2011/07/16/the-president-of-the-united-states-is-set-to-meet-with-the-dalai-lama-in-washington-dc-despite-a-warning-from-the-people-s-republic-of-china.md)
 China asks US President Barack Obama to cancel a planned Saturday private meeting with exiled Tibetan spiritual leader Dalai Lama.
 

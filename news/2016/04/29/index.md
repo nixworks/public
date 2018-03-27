@@ -23,7 +23,7 @@ Looting and clashes reported in several cities as queues get longer for food ite
 ### [Iran goes to the polls for second round elections in constituencies where no candidate achieved 25 per cent of the vote in February's elections. ](/news/2016/04/29/iran-goes-to-the-polls-for-second-round-elections-in-constituencies-where-no-candidate-achieved-25-per-cent-of-the-vote-in-february-s-electi.md)
 IRAN-ELECTION/START (URGENT):Iran holds run-off parliamentary election - state TV
 
-##### Donald Trump
+##### Trump
 ### [Republican front runner Donald Trump says he now has 1001 confirmed delegates for the Cleveland convention in June. ](/news/2016/04/29/republican-front-runner-donald-trump-says-he-now-has-1001-confirmed-delegates-for-the-cleveland-convention-in-june.md)
 A new analysis by the Cook Political Report says the odds of a contested Republican convention have &quot;dramatically declined&quot; after Donald Trump&#39;s big victories this week in five key Northeast primaries.
 
@@ -45,7 +45,7 @@ A long-term guard and former inmates of Kerobokan speak of their loss, one year 
 
 ##### Lithuania-United States relations
 ### [The United States Air Force lands two of its most advanced fighter jets in Lithuania for the first time in a show of support for the Baltic states which have become worried about Russia's actions in Ukraine. ](/news/2016/04/29/the-united-states-air-force-lands-two-of-its-most-advanced-fighter-jets-in-lithuania-for-the-first-time-in-a-show-of-support-for-the-baltic.md)
-_Context: Baltics, Lithuania, Lithuania-United States relations, Russia, U.S. Air Force, Ukrainian, most advanced fighter jets_
+_Context: Baltics, Lithuania, Lithuania-United States relations, Russia, U.S. Air Force, Ukraine, most advanced fighter jets_
 
 ##### Zika virus outbreak (2015-present)
 ### [ The Centers for Disease Control and Prevention reports the first Zika virus related death in the United States, an elderly man in Puerto Rico. ](/news/2016/04/29/the-centers-for-disease-control-and-prevention-reports-the-first-zika-virus-related-death-in-the-united-states-an-elderly-man-in-puerto-ri.md)

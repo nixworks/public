@@ -9,9 +9,9 @@ _Context: Morgan Tsvangirai, Movement for Democratic Change, Robert Mugabe, ZANU
 
 ##### 
 ### [ Cuban citizens now have access to what were formerly "tourist-only" hotels and cellphones. ](/news/2008/04/2/cuban-citizens-now-have-access-to-what-were-formerly-tourist-only-hotels-and-cellphones.md)
-##### U.S. President
+##### President
 ### [ The President of the United States George W. Bush supports the bids by Georgia and Ukraine to become members of the North Atlantic Treaty Organization. ](/news/2008/04/2/the-president-of-the-united-states-george-w-bush-supports-the-bids-by-georgia-and-ukraine-to-become-members-of-the-north-atlantic-treaty-o.md)
-_Context:  Georgian, George W. Bush, NATO, U.S. President, Ukrainian_
+_Context:  Georgian, George W. Bush, NATO, President, Ukraine_
 
 ##### EU
 ### [ The European Union announces an investigation into the bailout of the Northern Rock bank in the United Kingdom. ](/news/2008/04/2/the-european-union-announces-an-investigation-into-the-bailout-of-the-northern-rock-bank-in-the-united-kingdom.md)

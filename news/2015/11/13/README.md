@@ -25,7 +25,7 @@ _Context: Egypt, EgyptAir, Flight 9268, Russia, Sinai Peninsula_
 
 ##### Syrian Civil War peace process
 ### [U.S. Secretary of State John Kerry meets in Vienna, Austria, with the foreign ministers of Turkey and Saudi Arabia, as well as the U.N. special envoy for Syria, ahead of Saturday's next round of international summits on the Syrian Civil War. The talks, aimed toward a cease-fire in Syria's devastating war and a political transition to a post-war government, will include senior officials from 19 nations-groups and, as in October, Iran will participate. ](/news/2015/11/13/u-s-secretary-of-state-john-kerry-meets-in-vienna-austria-with-the-foreign-ministers-of-turkey-and-saudi-arabia-as-well-as-the-u-n-spec.md)
-_Context: Austria, Iran, John Kerry, Saudi Arabia, Secretary of State, Syria, Syrian Civil War peace process, Turkey, United Nations, Vienna_
+_Context: Austria, Iran, John Kerry, Saudi Arabia, Secretary of State, Syria, Syrian Civil War peace process, Turkish, United Nations, Vienna_
 
 ##### Refugee immigration to Germany
 ### [German Chancellor Angela Merkel asserts she still isn't prepared to name an upper limit to the number of refugees who can come to Germany, despite mounting domestic political pressure. ](/news/2015/11/13/german-chancellor-angela-merkel-asserts-she-still-isn-t-prepared-to-name-an-upper-limit-to-the-number-of-refugees-who-can-come-to-germany-d.md)
@@ -35,9 +35,9 @@ _Context: Angela Merkel, Chancellor of Germany, Germany, refugee immigration to 
 ### [U.S. diplomats, amid growing international concern the violence could spiral into an ethnic conflict, push for peace talks in Burundi. The European Union advises non-essential staff to evacuate the Central African nation amid rising violence and an uptick in political rhetoric. The head of the opposition UPRONA group urges the United Nations to send peacekeepers quickly. Yesterday, the UN Security Council called on the Burundi Government to protect human rights and cooperate with regional African mediators to immediately convene "an inclusive and genuine inter-Burundian dialogue" to find a peaceful resolution of the crisis. ](/news/2015/11/13/u-s-diplomats-amid-growing-international-concern-the-violence-could-spiral-into-an-ethnic-conflict-push-for-peace-talks-in-burundi-the-e.md)
 A prominent Burundi opposition politician urged the United Nations on Friday to send peacekeepers quickly to help deal with rising violence, after the Security Council discussed ways to boost its presence there.
 
-##### Chinese
+##### China
 ### [At least four people are dead and 33 injured in a landslide in China's Zhejiang province. ](/news/2015/11/13/at-least-four-people-are-dead-and-33-injured-in-a-landslide-in-china-s-zhejiang-province.md)
-_Context: Chinese, Zhejiang_
+_Context: China, Zhejiang_
 
 ##### Wallenfels
 ### [The bodies of eight babies are found wrapped in towels and inside plastic bags in an apartment in the town of Wallenfels in Germany's state of Bavaria. Authorities are looking for the apartment's most recent occupant, Andrea G, a 45-year-old woman. ](/news/2015/11/13/the-bodies-of-eight-babies-are-found-wrapped-in-towels-and-inside-plastic-bags-in-an-apartment-in-the-town-of-wallenfels-in-germany-s-state.md)
@@ -49,7 +49,7 @@ Nasdaq Inc (NDAQ.O) is in talks to buy the Canadian unit of alternative equities
 
 ##### South Korea
 ### [South Korean news agency Yonhap reports China's mobile phone users are discarding 80 million devices annually, but almost none are being recycled. China's recycling rate stands at 9-10 percent of the global recycling average. ](/news/2015/11/13/south-korean-news-agency-yonhap-reports-china-s-mobile-phone-users-are-discarding-80-million-devices-annually-but-almost-none-are-being-rec.md)
-_Context: Chinese, South Korea, Yonhap, mobile phone, recycled_
+_Context: China, South Korea, Yonhap, mobile phone, recycled_
 
 ##### Anne Frank Fonds
 ### [The Anne Frank Fonds in Basel, Switzerland, announces that Otto Frank, father of Anne Frank, is editor and legally the co-author of "The Diary of Anne Frank." ](/news/2015/11/13/the-anne-frank-fonds-in-basel-switzerland-announces-that-otto-frank-father-of-anne-frank-is-editor-and-legally-the-co-author-of-athe-d.md)

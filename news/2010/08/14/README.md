@@ -11,7 +11,7 @@ _Context: 2010 Haiti earthquake, Enriquillo Fault Line, Purdue University_
 ### [A Sri Lankan government commission set up to look into the last years of the Sri Lankan Civil War holds a meeting in Vavuniya on the north of the island. ](/news/2010/08/14/a-sri-lankan-government-commission-set-up-to-look-into-the-last-years-of-the-sri-lankan-civil-war-holds-a-meeting-in-vavuniya-on-the-north-o.md)
 A Sri Lankan government war inquiry hears testimonies from Tamils who allege their loved ones were abducted or detained by the army.
 
-##### U.S. President
+##### President
 ### [President of the United States Barack Obama states that America's "commitment to religious freedom must be unshakable" as he declares his support for plans to build a mosque in New York City. ](/news/2010/08/14/president-of-the-united-states-barack-obama-states-that-america-s-commitment-to-religious-freedom-must-be-unshakable-as-he-declares-his-su.md)
 President Obama defends controversial plans to build a mosque near Ground Zero site saying commitment to religious freedom &quot;must be unshakeable&quot;.
 
@@ -29,7 +29,7 @@ _Context: Azerbaijan, Baku, Shia_
 
 ##### Venice
 ### [A court in Venice frees Nizamettin Toguc, a senior member of the Kurdistan Workers' Party (PKK) wanted by Turkey. ](/news/2010/08/14/a-court-in-venice-frees-nizamettin-toauass-a-senior-member-of-the-kurdistan-workers-party-pkk-wanted-by-turkey.md)
-_Context: Nizamettin Toguc, PKK, Turkey, Venice_
+_Context: Nizamettin Toguc, PKK, Turkish, Venice_
 
 ##### Somalia
 ### [A court in Somalia imprisons for six years and fines $500 radio journalist Abdifatah Jama Mire for the broadcast of an interview with a militia leader in Puntland. ](/news/2010/08/14/a-court-in-somalia-imprisons-for-six-years-and-fines-500-radio-journalist-abdifatah-jama-mire-for-the-broadcast-of-an-interview-with-a-mili.md)

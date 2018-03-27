@@ -9,7 +9,7 @@ _Context: Ali Hassan al-Majid, George W. Bush, Huda Salih Mahdi Ammash, Saddam H
 
 ##### Elena Paparizou
 ### [ The Greek entry "My Number One" by Elena Paparizou wins the 50th Annual Eurovision Song Contest in Kiev, Ukraine. 24 countries of the European Broadcasting Union participate in the final, fifteen other countries having been eliminated in Thursdays' semi-finals. ](/news/2005/05/21/the-greek-entry-my-number-one-by-elena-paparizou-wins-the-50th-annual-eurovision-song-contest-in-kiev-ukraine-24-countries-of-the-europ.md)
-_Context: 50th Annual Eurovision Song Contest, Elena Paparizou, European Broadcasting Union, Kiev, Ukrainian_
+_Context: 50th Annual Eurovision Song Contest, Elena Paparizou, European Broadcasting Union, Kiev, Ukraine_
 
 ##### Calvin College
 ### [ In visiting Calvin College to give a commencement speech, George W. Bush is met with a petition by a third of the college faculty, stating "We believe your administration has launched an unjust and unjustified war in Iraq.", and strongly criticizing his policies. ](/news/2005/05/21/in-visiting-calvin-college-to-give-a-commencement-speech-george-w-bush-is-met-with-a-petition-by-a-third-of-the-college-faculty-stating.md)

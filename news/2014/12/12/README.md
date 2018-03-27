@@ -17,7 +17,7 @@ A Palestinian man threw a chemical substance believed to be acid at an Israeli f
 
 ##### Astana
 ### [Prosecutors at Sary-Arqa District Court in Astana charge 30-year-old Yevgeny Vdovenko, a Kazakh citizen, of intentional and illegal participation in a military conflict abroad because he had fought alongside pro-Russian separatists in eastern Ukraine. ](/news/2014/12/12/prosecutors-at-sary-arqa-district-court-in-astana-charge-30-year-old-yevgeny-vdovenko-a-kazakh-citizen-of-intentional-and-illegal-particip.md)
-_Context: Astana, Ukrainian_
+_Context: Astana, Ukraine_
 
 ##### Portland, Oregon
 ### [An unknown person shoots four people outside of Rosemary Anderson High School, an alternative high school in Portland, Oregon. Police later question a 22-year-old man. ](/news/2014/12/12/an-unknown-person-shoots-four-people-outside-of-rosemary-anderson-high-school-an-alternative-high-school-in-portland-oregon-police-later.md)

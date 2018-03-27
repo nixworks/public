@@ -35,7 +35,7 @@ Mexican prosecutors say they are deeply concerned for the safety of a prosecutor
 ### [The President of Kenya Mwai Kibaki enacts the new constitution. ](/news/2010/08/27/the-president-of-kenya-mwai-kibaki-enacts-the-new-constitution.md)
 _Context: Mwai Kibaki, President of Kenya, new constitution_
 
-##### U.S. President
+##### President
 ### [Former President of the United States Jimmy Carter secures the release of US citizen Aijalon Gomes from North Korea. ](/news/2010/08/27/former-president-of-the-united-states-jimmy-carter-secures-the-release-of-us-citizen-aijalon-gomes-from-north-korea.md)
 Ex-US President Jimmy Carter secures the release of an American, Aijalon Mahli Gomes, sentenced to hard labour for illegally entering North Korea.
 

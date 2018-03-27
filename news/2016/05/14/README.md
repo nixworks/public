@@ -25,7 +25,7 @@ Police in Bangladesh say more than 50 people across the country have died after 
 
 ##### Eurovision Song Contest 2016
 ### [Ukraine's Jamala, performing the song "1944", wins the 2016 Eurovision Song Contest in Stockholm, Sweden. ](/news/2016/05/14/ukraine-s-jamala-performing-the-song-1944-wins-the-2016-eurovision-song-contest-in-stockholm-sweden.md)
-_Context: 1944, Eurovision Song Contest, Eurovision Song Contest 2016, Jamala, Stockholm, Sweden, Ukraine in the Eurovision Song Contest 2016, Ukrainian_
+_Context: 1944, Eurovision Song Contest, Eurovision Song Contest 2016, Jamala, Stockholm, Sweden, Ukraine, Ukraine in the Eurovision Song Contest 2016_
 
 ##### Iraqi Civil War (2014-present)
 ### [At least 14 suicide bombers attack a complex, killing themselves and at least 6 people. ](/news/2016/05/14/at-least-14-suicide-bombers-attack-a-complex-killing-themselves-and-at-least-6-people.md)

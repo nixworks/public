@@ -9,7 +9,7 @@ New Prime Minister Theresa May has named Liz Truss&nbsp;as her new Lord Chancell
 
 ##### United States Supreme Court
 ### [United States Supreme Court Justice Ruth Bader Ginsburg apologizes for remarks she made earlier in the week to a number of news outlets criticizing presumptive Republican presidential nominee Donald Trump. ](/news/2016/07/14/united-states-supreme-court-justice-ruth-bader-ginsburg-apologizes-for-remarks-she-made-earlier-in-the-week-to-a-number-of-news-outlets-crit.md)
-_Context: Donald Trump, Ruth Bader Ginsburg, United States Supreme Court_
+_Context: Ruth Bader Ginsburg, Trump, United States Supreme Court_
 
 ##### European Commission
 ### [The French government calls on former European Commission chief Jose Manuel Barroso not to take a job with investment bank Goldman Sachs, after some EU politicians demanded Barroso be sanctioned for accepting the new position that raises questions about the EU's conflict of interest rules. ](/news/2016/07/14/the-french-government-calls-on-former-european-commission-chief-josa-c-manuel-barroso-not-to-take-a-job-with-investment-bank-goldman-sachs-a.md)

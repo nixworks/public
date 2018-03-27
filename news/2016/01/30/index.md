@@ -33,7 +33,7 @@ _Context: Jamaica, Texas, Zika virus, Zika virus outbreak in the Americas (2015-
 
 ##### Refugee immigration to Germany
 ### [Almost 40 people are killed and 75 are rescued after a boat carrying migrants sinks between Turkey and Greece. ](/news/2016/01/30/almost-40-people-are-killed-and-75-are-rescued-after-a-boat-carrying-migrants-sinks-between-turkey-and-greece.md)
-_Context: Greece, Turkey, refugee immigration to Germany_
+_Context: Greece, Turkish, refugee immigration to Germany_
 
 ##### South Korea
 ### [A helicopter fighting forest fires in South Korea's North Jeolla Province crashes near the Geumsansa Temple in Gimje. The 61-year-old pilot dies in the crash. ](/news/2016/01/30/a-helicopter-fighting-forest-fires-in-south-korea-s-north-jeolla-province-crashes-near-the-geumsansa-temple-in-gimje-the-61-year-old-pilot.md)

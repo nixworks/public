@@ -5,7 +5,7 @@ Formats: [HTML](2004/12/6/index.html)  [JSON](2004/12/6/index.json)  [XML](2004/
 
 ##### Ukrainian presidential election controversy
 ### [ Ukrainian presidential election controversy: EU foreign policy chief Javier Solana has returned to Ukraine for talks on the country's political crisis.](/news/2004/12/6/ukrainian-presidential-election-controversy-eu-foreign-policy-chief-javier-solana-has-returned-to-ukraine-for-talks-on-the-country-s-polit.md)
-_Context: EU, Javier Solana, Ukrainian, Ukrainian presidential election controversy_
+_Context: EU, Javier Solana, Ukraine, Ukrainian presidential election controversy_
 
 ##### Basque
 ### [ In Spain the Basque separatist group ETA detonate seven bombs in bars, cafes and town squares across the country. The cities attacked are Len, vila, Santillana del Mar, Ciudad Real, Mlaga, Valladolid, and Alicante. All the attacks were preceded by warnings and nobody was seriously hurt. ](/news/2004/12/6/in-spain-the-basque-separatist-group-eta-detonate-seven-bombs-in-bars-cafes-and-town-squares-across-the-country-the-cities-attacked-are-l.md)

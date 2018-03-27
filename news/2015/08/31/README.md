@@ -37,7 +37,7 @@ _Context: 2015 Atlantic hurricane season, Cape Verde, Tropical Storm Fred's_
 
 ##### Denali
 ### [Denali, the highest mountain peak in North America, officially regains its original Alaska Native name through an executive order issued by American President Barack Obama. Previously, since 1917, it had been known as Mount McKinley. ](/news/2015/08/31/denali-the-highest-mountain-peak-in-north-america-officially-regains-its-original-alaska-native-name-through-an-executive-order-issued-by.md)
-_Context: Alaska Native, Barack Obama, Denali, North America, U.S. President, executive order_
+_Context: Alaska Native, Barack Obama, Denali, North America, President, executive order_
 
 ##### 2015 Bangkok bombing
 ### [Thai police say they have discovered bomb-making material in a raid in an apartment in an outer side of Bangkok. ](/news/2015/08/31/thai-police-say-they-have-discovered-bomb-making-material-in-a-raid-in-an-apartment-in-an-outer-side-of-bangkok.md)

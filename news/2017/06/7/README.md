@@ -13,7 +13,7 @@ _Context: 2017 clashes at the Turkish Ambassador's Residence in Washington, D.C.
 
 ##### Political appointments of Donald Trump
 ### [United States president Donald Trump announces lawyer Christopher A. Wray as his nominee to be director of the Federal Bureau of Investigation. ](/news/2017/06/7/united-states-president-donald-trump-announces-lawyer-christopher-a-wray-as-his-nominee-to-be-director-of-the-federal-bureau-of-investigati.md)
-_Context: Christopher A. Wray, Donald Trump, FBI, Political appointments of Donald Trump_
+_Context: Christopher A. Wray, FBI, Political appointments of Donald Trump, Trump_
 
 ##### Crime in London
 ### [A childcare worker in London is reportedly stabbed by three Muslim women while on her way to work, suffering non life threatening injuries. ](/news/2017/06/7/a-childcare-worker-in-london-is-reportedly-stabbed-by-three-muslim-women-while-on-her-way-to-work-suffering-non-life-threatening-injuries.md)

@@ -7,9 +7,9 @@ Formats: [HTML](2006/10/21/index.html)  [JSON](2006/10/21/index.json)  [XML](200
 ### [ Fighting has broken out between Somalian troops and a local militia in alliance with the country's new Islamic movement. ](/news/2006/10/21/fighting-has-broken-out-between-somalian-troops-and-a-local-militia-in-alliance-with-the-country-s-new-islamic-movement.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-##### U.S. President
+##### President
 ### [ President of the United States George W. Bush confers with his top Iraq commanders. The meeting is met with a surge in sectarian violence. ](/news/2006/10/21/president-of-the-united-states-george-w-bush-confers-with-his-top-iraq-commanders-the-meeting-is-met-with-a-surge-in-sectarian-violence.md)
-_Context: George W. Bush, Iraq, Sectarian war in Iraq, U.S. President_
+_Context: George W. Bush, Iraq, President, Sectarian war in Iraq_
 
 ##### Mexico
 ### [ Tropical Storm Paul forms off Mexico's west coast and forecasters predict it could strengthen into a hurricane and reach land within days. The storm is over the Pacific Ocean about 315 miles (500 km) south of Cabo Corrientes on the Jalisco coast. ](/news/2006/10/21/tropical-storm-paul-forms-off-mexico-s-west-coast-and-forecasters-predict-it-could-strengthen-into-a-hurricane-and-reach-land-within-days.md)

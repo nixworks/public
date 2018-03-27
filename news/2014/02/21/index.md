@@ -11,7 +11,7 @@ A Bedfordshire professor claims to have made a breakthrough in deciphering a mys
 ### [Sudan puts a married Ethiopian woman to trial after being gang-raped because she waited before she reported it. She faces the death penalty for adultery. ](/news/2014/02/21/sudan-puts-a-married-ethiopian-woman-to-trial-after-being-gang-raped-because-she-waited-before-she-reported-it-she-faces-the-death-penalty.md)
 _Context: Ethiopia, Sudan, adultery, death penalty, gang-rape_
 
-##### U.S. President
+##### President
 ### [The President of the United States, Barack Obama, meets with the Dalai Lama despite warnings from China to cancel the meeting. ](/news/2014/02/21/the-president-of-the-united-states-barack-obama-meets-with-the-dalai-lama-despite-warnings-from-china-to-cancel-the-meeting.md)
 US President Barack Obama hosts the exiled Tibetan spiritual leader the Dalai Lama, a move denounced by China as &quot;gross interference&quot;.
 
@@ -35,7 +35,7 @@ _Context: CNN, Nicolas Maduro, Venezuela_
 ### [22-year-old Venezuelan beauty queen Genesis Carmona is shot in the head and killed while participating in a student protest against Nicolas Maduro's socialist government. ](/news/2014/02/21/22-year-old-venezuelan-beauty-queen-ga-c-nesis-carmona-is-shot-in-the-head-and-killed-while-participating-in-a-student-protest-against-nicola.md)
 _Context: Genesis Carmona, Nicolas Maduro_
 
-##### Ukrainian
+##### Ukraine
 ### [The Ukrainian government and opposition agree to form a unity government and to hold early elections. ](/news/2014/02/21/the-ukrainian-government-and-opposition-agree-to-form-a-unity-government-and-to-hold-early-elections.md)
 Agreement reached to form a unity government and hold early elections, but questions remain as to whether it will be accepted by all within the disparate protest movement. All the developments as they happened.
 

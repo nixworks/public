@@ -43,9 +43,9 @@ _Context: Peter Costello, Treasurer of Australia, budget_
 ### [ Andre Boisclair resigns as the leader of Canada's Parti Quebecois. ](/news/2007/05/8/andra-c-boisclair-resigns-as-the-leader-of-canada-s-parti-qua-c-ba-c-cois.md)
 _Context: Andre Boisclair, Canada, Parti Quebecois_
 
-##### U.S. President
+##### President
 ### [ Former U.S. President Bill Clinton announces a deal with drug companies to lower the price of anti-AIDS drugs in Third World countries. ](/news/2007/05/8/former-u-s-president-bill-clinton-announces-a-deal-with-drug-companies-to-lower-the-price-of-anti-aids-drugs-in-third-world-countries.md)
-_Context: Bill Clinton, Third World, U.S. President, anti-AIDS drugs_
+_Context: Bill Clinton, President, Third World, anti-AIDS drugs_
 
 ##### United States
 ### [ U.S. police arrest six Islamic men from the Republic of Macedonia and the Middle East based on a tip from a Mount Laurel, NJ resident who discovered their plot to attack Fort Dix, New Jersey, and "kill as many soldiers as possible." ](/news/2007/05/8/u-s-police-arrest-six-islamic-men-from-the-republic-of-macedonia-and-the-middle-east-based-on-a-tip-from-a-mount-laurel-nj-resident-who-d.md)

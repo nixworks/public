@@ -3,9 +3,9 @@ Formats: [HTML](2011/11/1/index.html)  [JSON](2011/11/1/index.json)  [XML](2011/
 
 ## [2011-11-1](/news/2011/11/1/index.md)
 
-##### Chinese
+##### China
 ### [China launches the unmanned Shenzhou 8 spacecraft, intending to robotically dock it with the orbiting Tiangong 1 space station module. If successful, the mission will mark China's first orbital docking, and will be a major milestone in its efforts to construct a full-scale space station. ](/news/2011/11/1/china-launches-the-unmanned-shenzhou-8-spacecraft-intending-to-robotically-dock-it-with-the-orbiting-tiangong-1-space-station-module-if-su.md)
-_Context: Chinese, Shenzhou 8, Tiangong 1, full-scale space station, space station_
+_Context: China, Shenzhou 8, Tiangong 1, full-scale space station, space station_
 
 ##### City of London Corporation
 ### [The City of London Corporation pauses its legal action against Occupy London protesters outside St Paul's Cathedral after the church halted its own action and expressed a wish to enter into dialogue with the demonstrators. ](/news/2011/11/1/the-city-of-london-corporation-pauses-its-legal-action-against-occupy-london-protesters-outside-st-paul-s-cathedral-after-the-church-halted.md)
@@ -47,7 +47,7 @@ Hackers disruptedPalestinian Internet services in the West Bank and Gaza Strip o
 ### [The FBI and U.S. Securities and Exchange Commission launch an investigation into MF Global after $600 million of customers' money went missing. ](/news/2011/11/1/the-fbi-and-u-s-securities-and-exchange-commission-launch-an-investigation-into-mf-global-after-600-million-of-customers-money-went-missi.md)
 The FBI and federal prosecutors are investigating how some $600 million of MF Global customers money has gone missing, CNN has learned Tuesday from sources close to the probe.
 
-##### U.S. President
+##### President
 ### [The President of the United States, Barack Obama, makes Fort Monroe in Hampton, Virginia, a National Monument. ](/news/2011/11/1/the-president-of-the-united-states-barack-obama-makes-fort-monroe-in-hampton-virginia-a-national-monument.md)
 President Barack Obama created the first national monument of his presidency on Tuesday, signing a proclamation to preserve a former Army fort that was a safe haven for slaves during the Civil War.
 

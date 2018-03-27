@@ -73,7 +73,7 @@ _Context: Afghan, Dir District, Pakistan Army_
 
 ##### Syrian civil war
 ### [Syrian civil war: At least 13 people are killed in a continuing crackdown by security forces in Syria; opposition leaders meeting in Turkey call for President Bashar al-Assad to step down. ](/news/2011/06/2/syrian-civil-war-at-least-13-people-are-killed-in-a-continuing-crackdown-by-security-forces-in-syria-opposition-leaders-meeting-in-turkey.md)
-_Context: Bashar al-Assad, President, Syria, Syrian civil war, Turkey_
+_Context: Bashar al-Assad, President, Syria, Syrian civil war, Turkish_
 
 ##### Abyei
 ### [Almost 100 civilians are killed in the disputed Abyei region between North and South Sudan since northern troops seized the area on 21 May. ](/news/2011/06/2/almost-100-civilians-are-killed-in-the-disputed-abyei-region-between-north-and-south-sudan-since-northern-troops-seized-the-area-on-21-may.md)

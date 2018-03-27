@@ -9,7 +9,7 @@ After nearly two months of delay due to wildfires, United Launch Alliance succes
 
 ##### Anti-Trump protests
 ### [Protests and riots against president-elect Donald Trump take place in Portland, Los Angeles, New York City, and Atlanta, leading to the arrests of over 225 people. ](/news/2016/11/11/protests-and-riots-against-president-elect-donald-trump-take-place-in-portland-los-angeles-new-york-city-and-atlanta-leading-to-the-arre.md)
-_Context: Anti-Trump protests, Atlanta, Donald Trump, Los Angeles, New York City, Portland, Oregon, riot_
+_Context: Anti-Trump protests, Atlanta, Los Angeles, New York City, Portland, Oregon, Trump, riot_
 
 ##### New Delhi
 ### [At least 13 are killed in a fire in New Delhi, India. ](/news/2016/11/11/at-least-13-are-killed-in-a-fire-in-new-delhi-india.md)

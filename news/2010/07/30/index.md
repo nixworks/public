@@ -29,7 +29,7 @@ _Context: Abdullah, Bashar al-Assad, Hezbollah, King, Lebanese, President, Qatar
 
 ##### Armenia
 ### [Two Armenian men sue Turkey, the Central Bank of the Republic of Turkey and Ziraat Bankasi bank in the United States district court in California for damages allegedly caused by the Armenian genocide in 1915. ](/news/2010/07/30/two-armenian-men-sue-turkey-the-central-bank-of-the-republic-of-turkey-and-ziraat-bankasa-bank-in-the-united-states-district-court-in-cali.md)
-_Context: Armenia, Armenian genocide, California, Central Bank of the Republic of Turkey, Turkey, U.S. federal court, Ziraat Bankasi, damages_
+_Context: Armenia, Armenian genocide, California, Central Bank of the Republic of Turkey, Turkish, U.S. federal court, Ziraat Bankasi, damages_
 
 ##### U.S. Vice President
 ### [Former Vice President of the United States Al Gore is cleared of claims that he assaulted a masseuse in Portland, Oregon in 2006. ](/news/2010/07/30/former-vice-president-of-the-united-states-al-gore-is-cleared-of-claims-that-he-assaulted-a-masseuse-in-portland-oregon-in-2006.md)

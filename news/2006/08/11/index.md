@@ -5,7 +5,7 @@ Formats: [HTML](2006/08/11/index.html)  [JSON](2006/08/11/index.json)  [XML](200
 
 ##### Typhoon Saomai
 ### [ Typhoon Saomai kills 111 people and leaves 4 missing in eastern China, according to the Chinese government. ](/news/2006/08/11/typhoon-saomai-kills-111-people-and-leaves-4-missing-in-eastern-china-according-to-the-chinese-government.md)
-_Context: Chinese, Typhoon Saomai, government_
+_Context: China, Typhoon Saomai, government_
 
 ##### Italy
 ### [ 40 people have been arrested throughout Italy, in Muslim communities "as part of an extraordinary operation that followed the British anti-terrorist operation." ](/news/2006/08/11/40-people-have-been-arrested-throughout-italy-in-muslim-communities-as-part-of-an-extraordinary-operation-that-followed-the-british-anti.md)

@@ -27,7 +27,7 @@ _Context: Venezuela, Washington Nationals, Wilson Ramos, baseball, catcher_
 ### [Sidney Nsubuga Enoch is jailed for 35 years in Uganda for the murder of gay activist David Kato in January. ](/news/2011/11/11/sidney-nsubuga-enoch-is-jailed-for-35-years-in-uganda-for-the-murder-of-gay-activist-david-kato-in-january.md)
 A man who confessed to murdering a Ugandan gay activist by beating him with a hammer has been sentenced to 30 years in prison for the crime, a local newspaper reported on Friday.
 
-##### Ukrainian
+##### Ukraine
 ### [The former Prime Minister of Ukraine Yulia Tymoshenko, already serving a seven-year sentence for abuse of office, is charged with tax evasion, theft and concealing foreign currency revenues. ](/news/2011/11/11/the-former-prime-minister-of-ukraine-yulia-tymoshenko-already-serving-a-seven-year-sentence-for-abuse-of-office-is-charged-with-tax-evasio.md)
 Former Ukrainian prime minister Yulia Tymoshenko, already sentenced to seven years in prison for abuse of office, has been charged with tax evasion, theft and concealing foreign currency revenues, the State Tax Administration said on Friday.
 

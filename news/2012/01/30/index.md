@@ -7,7 +7,7 @@ Formats: [HTML](2012/01/30/index.html)  [JSON](2012/01/30/index.json)  [XML](201
 ### [Occupy DC activists are banned from camping in McPherson Square and Freedom Plaza in the US capital Washington DC. ](/news/2012/01/30/occupy-dc-activists-are-banned-from-camping-in-mcpherson-square-and-freedom-plaza-in-the-us-capital-washington-dc.md)
 _Context: Freedom Plaza, McPherson Square, Occupy DC, Washington DC_
 
-##### U.S. President
+##### President
 ### [U.S. President Barack Obama answers questions about the State of the Union posed by citizens in the first-ever completely virtual interview from the White House but fails to answer the most popular questions which were related to the controversial topic of marijuana legalization. ](/news/2012/01/30/u-s-president-barack-obama-answers-questions-about-the-state-of-the-union-posed-by-citizens-in-the-first-ever-completely-virtual-interview.md)
 Retired LAPD officer Stephen Downing submitted YouTube&#39;s most popular question for President Barack Obama&#39;s Google Plus hangout on Monday, but Googl
 

@@ -29,7 +29,7 @@ _Context: Diet, Japan, Minister of Finance, Shoichi Nakagawa, money_
 
 ##### United States
 ### [ U.S. President Obama signs the American Recovery and Reinvestment Act of 2009 in Denver, Colorado. ](/news/2009/02/17/u-s-president-obama-signs-the-american-recovery-and-reinvestment-act-of-2009-in-denver-colorado.md)
-_Context: American Recovery and Reinvestment Act, Barack Obama, Colorado, Denver, U.S. President, United States_
+_Context: American Recovery and Reinvestment Act, Barack Obama, Colorado, Denver, President, United States_
 
 ##### Trial
 ### [ Legal charges against The Pirate Bay are amended. ](/news/2009/02/17/legal-charges-against-the-pirate-bay-are-amended.md)
@@ -49,7 +49,7 @@ _Context: Allen Stanford, Chairman, Stanford Financial Group, U.S. Securities an
 
 ##### United States
 ### [ United States President Barack Obama authorizes the deployment of 12,000 more soldiers into the Afghanistan War. ](/news/2009/02/17/united-states-president-barack-obama-authorizes-the-deployment-of-12-000-more-soldiers-into-the-afghanistan-war.md)
-_Context: Afghanistan, Barack Obama, U.S. President, United States, United States military personnel, War in Afghanistan (2001-present), deployment_
+_Context: Afghanistan, Barack Obama, President, United States, United States military personnel, War in Afghanistan (2001-present), deployment_
 
 ## [Previous Day...](/news/2009/02/16/index.md)
 

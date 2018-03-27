@@ -33,7 +33,7 @@ _Context: Egypt, heatwave_
 
 ##### Buk missile system
 ### [Debris from a Buk surface-to-air missile is found at an unspecified location in eastern Ukraine. According to the Dutch Safety Board and the Dutch prosecutor overseeing the criminal investigation, it may have come from a Buk (possibly of Russian origin) fired by rebel fighters, accidentally or purposefully, in the downing of Malaysia Airlines Flight 17. The investigation remains classified. ](/news/2015/08/11/debris-from-a-buk-surface-to-air-missile-is-found-at-an-unspecified-location-in-eastern-ukraine-according-to-the-dutch-safety-board-and-the.md)
-_Context: Buk missile system, Malaysia Airlines Flight 17, Ukrainian_
+_Context: Buk missile system, Malaysia Airlines Flight 17, Ukraine_
 
 ##### People's Bank of China
 ### [The People's Bank of China devalues the Chinese yuan by two percent in an attempt to boost its economy, a move which could spark a currency war. ](/news/2015/08/11/the-people-s-bank-of-china-devalues-the-chinese-yuan-by-two-percent-in-an-attempt-to-boost-its-economy-a-move-which-could-spark-a-currency.md)

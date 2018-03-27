@@ -39,11 +39,11 @@ _Context: Indonesia, Singapore, air pollution, recent incident of hazes in 2015_
 ### [King Salman of Saudi Arabia orders an investigation into the stampede near Mecca which has claimed over 700 lives and caused 800 injuries. ](/news/2015/09/25/king-salman-of-saudi-arabia-orders-an-investigation-into-the-stampede-near-mecca-which-has-claimed-over-700-lives-and-caused-800-injuries.md)
 Saudi Arabia&#039;s King orders an investigation into a stampede at the annual Hajj pilgrimage that killed at least 717 people and left 800 others injured.
 
-##### Ukrainian
+##### Ukraine
 ### [Ukraine selectively bans certain Russian airlines such as Aeroflot and Transaero from flying to and through Ukraine. ](/news/2015/09/25/ukraine-selectively-bans-certain-russian-airlines-such-as-aeroflot-and-transaero-from-flying-to-and-through-ukraine.md)
-_Context: Aeroflot, Russia, Transaero, Ukrainian_
+_Context: Aeroflot, Russia, Transaero, Ukraine_
 
-##### Chinese
+##### China
 ### [The People's Republic of China will launch a cap and trade policy creating a carbon market in 2017. ](/news/2015/09/25/the-people-s-republic-of-china-will-launch-a-cap-and-trade-policy-creating-a-carbon-market-in-2017.md)
 White House officials announce deal, which will make China the world’s biggest carbon market, on eve of summit between Barack Obama and Xi Jinping
 

@@ -17,7 +17,7 @@ West Bank shooting: One man dead, two women suffer from shock after gunmen trave
 
 ##### Liaoyuan
 ### [ At least 39 people, 33 of whom were patients, die after a fire breaks out in a hospital in the city of Liaoyuan, near Changchun in China's Jilin Province. The cause of the fire is unknown. ](/news/2005/12/16/at-least-39-people-33-of-whom-were-patients-die-after-a-fire-breaks-out-in-a-hospital-in-the-city-of-liaoyuan-near-changchun-in-china-s.md)
-_Context: Changchun, Chinese, Jilin Province, Liaoyuan_
+_Context: Changchun, China, Jilin Province, Liaoyuan_
 
 ##### Hamas
 ### [ Hamas, the main Palestinian opposition party make a large series of gains in the West Bank municipal elections. ](/news/2005/12/16/hamas-the-main-palestinian-opposition-party-make-a-large-series-of-gains-in-the-west-bank-municipal-elections.md)
@@ -29,7 +29,7 @@ _Context: 2004, Abu Musab al-Zarqawi, Conflict in Iraq, Iraqi Police_
 
 ##### Senate
 ### [ Senator John McCain persuades President George W. Bush to accept a ban on cruel, inhuman and degrading treatment of detainees. ](/news/2005/12/16/senator-john-mccain-persuades-president-george-w-bush-to-accept-a-ban-on-cruel-inhuman-and-degrading-treatment-of-detainees.md)
-_Context: George W. Bush, John McCain, Senate, U.S. President_
+_Context: George W. Bush, John McCain, President, Senate_
 
 ##### Chechnya
 ### [ Extreme levels of radiation have been found at a chemical factory in Chechnya. ](/news/2005/12/16/extreme-levels-of-radiation-have-been-found-at-a-chemical-factory-in-chechnya.md)

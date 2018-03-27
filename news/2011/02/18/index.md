@@ -35,9 +35,9 @@ _Context: Caledonian Union, New Caledonia, New Caledonian flags, Philippe Gomes,
 ### [A McCann family spokesman insists reports that Madeleine McCann was taken to the United States after being snatched during a family holiday in Portugal must be treated with caution. ](/news/2011/02/18/a-mccann-family-spokesman-insists-reports-that-madeleine-mccann-was-taken-to-the-united-states-after-being-snatched-during-a-family-holiday.md)
 _Context: Madeleine McCann, Portugal, United States_
 
-##### Turkey
+##### Turkish
 ### [A Turkish court jails three journalists associated with a dissident website pending trials on being part of the Ergenekon organisation allegedly plotting to overthrow the Government of Turkey. ](/news/2011/02/18/a-turkish-court-jails-three-journalists-associated-with-a-dissident-website-pending-trials-on-being-part-of-the-ergenekon-organisation-alleg.md)
-_Context: Ergenekon, Turkey, Turkish government, dissident_
+_Context: Ergenekon, Turkish, Turkish government, dissident_
 
 ##### China
 ### [A Chinese court upholds an eight year sentence for "stealing state secrets" for Chinese American geologist Xue Feng. ](/news/2011/02/18/a-chinese-court-upholds-an-eight-year-sentence-for-stealing-state-secrets-for-chinese-american-geologist-xue-feng.md)
@@ -47,9 +47,9 @@ A Chinese-born US geologist loses his appeal against an eight-year sentence in C
 ### [Prime Minister of Italy Silvio Berlusconi proposes a reform of the Italian judiciary system restricting telephone taps, one of the methods used by prosecutors in the Ruby Rubacuori scandal. ](/news/2011/02/18/prime-minister-of-italy-silvio-berlusconi-proposes-a-reform-of-the-italian-judiciary-system-restricting-telephone-taps-one-of-the-methods-u.md)
 Italian PM Silvio Berlusconi launches an attempt to reform the judicial system, days after being charged with having sex with an under-age prostitute.
 
-##### U.S. President
+##### President
 ### [President of the United States Barack Obama is announced to visit Brazil, Chile and El Salvador from March 19 to 23. ](/news/2011/02/18/president-of-the-united-states-barack-obama-is-announced-to-visit-brazil-chile-and-el-salvador-from-march-19-to-23.md)
-_Context: Barack Obama, Brazil, Chile, El Salvador, U.S. President_
+_Context: Barack Obama, Brazil, Chile, El Salvador, President_
 
 ##### Japan
 ### [Japan officially suspends its whaling program for the season due to interference by the Sea Shepherd conservation organisation. ](/news/2011/02/18/japan-officially-suspends-its-whaling-program-for-the-season-due-to-interference-by-the-sea-shepherd-conservation-organisation.md)

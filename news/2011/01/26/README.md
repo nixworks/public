@@ -75,9 +75,9 @@ _Context: Central Bank of West African States, Ivory Coast, Laurent Gbagbo_
 ### [The 41st World Economic Forum opens in Davos, Switzerland. ](/news/2011/01/26/the-41st-world-economic-forum-opens-in-davos-switzerland.md)
 _Context: Davos, Switzerland, World Economic Forum_
 
-##### Chinese
+##### China
 ### [The newly released figures show China had 6.31 million new college graduates, and about 90.7 percent of them found employment by the end of 2010, which represented a 3 percent year-on-year increase. ](/news/2011/01/26/the-newly-released-figures-show-china-had-6-31-million-new-college-graduates-and-about-90-7-percent-of-them-found-employment-by-the-end-of.md)
-_Context: Chinese, employment, million_
+_Context: China, employment, million_
 
 ##### Canada
 ### [Canadian singer Mary-Lu Zahalan-Kennedy becomes the first person in the world to graduate with a Masters degree in The Beatles, which she studied at Liverpool Hope University. ](/news/2011/01/26/canadian-singer-mary-lu-zahalan-kennedy-becomes-the-first-person-in-the-world-to-graduate-with-a-masters-degree-in-the-beatles-which-she-st.md)

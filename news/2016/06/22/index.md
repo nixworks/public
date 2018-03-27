@@ -11,7 +11,7 @@ India took a big leap in space technology on Wednesday when Indian Space Researc
 ### [The European Central Bank reinstates the waiver that enables Greek banks to use the country's bonds as collateral for regular loans, for the first time in more than a year. ](/news/2016/06/22/the-european-central-bank-reinstates-the-waiver-that-enables-greek-banks-to-use-the-country-s-bonds-as-collateral-for-regular-loans-for-the.md)
 FRANKFURT, Germany (AP) — The European Central Bank has restored a key waiver that will let Greek banks tap cheap emergency central bank credit, one step toward putting the country&#039;s financial institutions fully back on…
 
-##### U.S. President
+##### President
 ### [United States President Barack Obama signs the Frank R. Lautenberg Chemical Safety for the 21st Century Act into law. The legislation is the first major overhaul of toxic chemicals rules in America in 40 years. ](/news/2016/06/22/united-states-president-barack-obama-signs-the-frank-r-lautenberg-chemical-safety-for-the-21st-century-act-into-law-the-legislation-is-the.md)
 The Frank R. Lautenberg Chemical Safety for the 21st Century Act updates the Toxic Substances Control Act, giving the EPA more oversight and stronger tools to monitor chemicals
 

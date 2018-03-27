@@ -3,7 +3,7 @@ Formats: [HTML](2010/08/29/index.html)  [JSON](2010/08/29/index.json)  [XML](201
 
 ## [2010-08-29](/news/2010/08/29/index.md)
 
-##### U.S. President
+##### President
 ### [President of the United States Barack Obama pledges to restore the Gulf Coast on the fifth anniversary of Hurricane Katrina in a speech in New Orleans. ](/news/2010/08/29/president-of-the-united-states-barack-obama-pledges-to-restore-the-gulf-coast-on-the-fifth-anniversary-of-hurricane-katrina-in-a-speech-in-n.md)
 U.S. President Barack Obama pledged Sunday to finish restoring the Gulf Coast area hit by Hurricane Katrina, five years after the storm ravaged the region and hurt the credibility of his Republican predecessor.
 

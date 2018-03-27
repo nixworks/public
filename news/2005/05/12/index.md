@@ -15,9 +15,9 @@ Reuters.com is your online source for the latest U.S. news stories from coast to
 ### [ In Colombia, former justice minister Alberto Santofimio Botero is arrested suspected of complicity in the murder of presidential candidate Luis Carlos Galn in 1989. ](/news/2005/05/12/in-colombia-former-justice-minister-alberto-santofimio-botero-is-arrested-suspected-of-complicity-in-the-murder-of-presidential-candidate.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-##### Ukrainian
+##### Ukraine
 ### [ Western countries pledge funds to Ukraine so the country can cover the Chernobyl nuclear reactor. ](/news/2005/05/12/western-countries-pledge-funds-to-ukraine-so-the-country-can-cover-the-chernobyl-nuclear-reactor.md)
-_Context: Chernobyl, Ukrainian, nuclear reactor_
+_Context: Chernobyl, Ukraine, nuclear reactor_
 
 ##### Nigeria
 ### [ Nigerian president Olusegun Obasanjo opens the country's first blood transfusion centre. The centre is meant to screen blood to hinder the spread of the AIDS. ](/news/2005/05/12/nigerian-president-olusegun-obasanjo-opens-the-country-s-first-blood-transfusion-centre-the-centre-is-meant-to-screen-blood-to-hinder-the.md)

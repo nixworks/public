@@ -49,13 +49,13 @@ _Context: United States, heat wave_
 
 ##### Floods
 ### [At least 58 people are dead and 175 missing in floods in China's Sichuan province. ](/news/2013/07/17/at-least-58-people-are-dead-and-175-missing-in-floods-in-china-s-sichuan-province.md)
-_Context: Chinese, Sichuan, floods_
+_Context: China, Sichuan, floods_
 
 ##### Mosul
 ### [A bomb detonates inside a teahouse in Mosul, Iraq killing at least 10 people. ](/news/2013/07/17/a-bomb-detonates-inside-a-teahouse-in-mosul-iraq-killing-at-least-10-people.md)
 A bomb blast in a teahouse in the northern Iraqi city of Mosul killed at least seven people on Wednesday, police and medics said.
 
-##### Turkey
+##### Turkish
 ### [1 man and a 15-year-old boy are killed near the Turkish border town of Ceylanpinar after clashes erupted between Al-Nausra and female Kurds of the YPG. ](/news/2013/07/17/1-man-and-a-15-year-old-boy-are-killed-near-the-turkish-border-town-of-ceylanpa-nar-after-clashes-erupted-between-al-nausra-and-female-kurds.md)
 Kurdish militants look for victory over Islamist rebels in Ras al-Ayn as the Turkish army fires on Syria after stray Syrian bullets claimed lives on Turkish soil
 

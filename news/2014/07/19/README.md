@@ -15,13 +15,13 @@ _Context: American, Congress, Jim Moran, Lynndie England, Russia, United States_
 ### [Typhoon Rammasun has killed at least 14 people in southern China since it arrived late on Friday. ](/news/2014/07/19/typhoon-rammasun-has-killed-at-least-14-people-in-southern-china-since-it-arrived-late-on-friday.md)
 A super typhoon has killed atleast fourteen people in China since making landfall on Fridayafternoon, state media said on Saturday, after hitting parts ofthe Philippines and leaving 77 dead.
 
-##### Chinese
+##### China
 ### [At least 38 people are dead after a bus collides with a van carrying flammable liquids in China's Hunan province. ](/news/2014/07/19/at-least-38-people-are-dead-after-a-bus-collides-with-a-van-carrying-flammable-liquids-in-china-s-hunan-province.md)
 Forty-three people reportedly killed when a van hit a bus on a highway in central China, triggering a fire and explosion.
 
 ##### Poland
 ### [Buses from Poland and Ukraine crash outside the German city of Dresden resulting in at least nine deaths and 40 people injured. ](/news/2014/07/19/buses-from-poland-and-ukraine-crash-outside-the-german-city-of-dresden-resulting-in-at-least-nine-deaths-and-40-people-injured.md)
-_Context: Dresden, Germany, Poland, Ukrainian_
+_Context: Dresden, Germany, Poland, Ukraine_
 
 ##### Post-coup unrest in Egypt (2013-14)
 ### [Gunmen in Egypt's western desert province of New Valley Governorate attack a military checkpoint, killing at least 21 soldiers. Egypt reportedly declares a state of emergency on its border with Sudan. ](/news/2014/07/19/gunmen-in-egypt-s-western-desert-province-of-new-valley-governorate-attack-a-military-checkpoint-killing-at-least-21-soldiers-egypt-report.md)

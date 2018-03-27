@@ -33,7 +33,7 @@ China announced new commercial flight routes along its southeastern coast today,
 
 ##### Japanese Prime Minister
 ### [The cabinet of Prime Minister of Japan Shinzo Abe approves a record defence budget with a plan to buy surveillance aircraft and Lockheed Martin F-35 Lightning II fighter jets to improve security of uninhabited islands in the East China Sea claimed by both Japan and China. ](/news/2015/01/14/the-cabinet-of-prime-minister-of-japan-shinzo-abe-approves-a-record-defence-budget-with-a-plan-to-buy-surveillance-aircraft-and-lockheed-mar.md)
-_Context: Chinese, East China Sea, Japan, Japanese Prime Minister, Lockheed Martin F-35 Lightning II, Shinzo Abe_
+_Context: China, East China Sea, Japan, Japanese Prime Minister, Lockheed Martin F-35 Lightning II, Shinzo Abe_
 
 ##### Floods devastate
 ### [Floods devastate Mozambique and Malawi, with at least 73 deaths and over 70,000 homeless. ](/news/2015/01/14/floods-devastate-mozambique-and-malawi-with-at-least-73-deaths-and-over-70-000-homeless.md)

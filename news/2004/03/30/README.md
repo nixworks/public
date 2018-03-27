@@ -13,7 +13,7 @@ _Context: Terrorism Act, ammonium nitrate_
 
 ##### White House
 ### [ The White House allows Condoleezza Rice, the president's National Security Advisor, to publicly testify under oath on the investigation into the September 11, 2001 attacks. ](/news/2004/03/30/the-white-house-allows-condoleezza-rice-the-president-s-national-security-advisor-to-publicly-testify-under-oath-on-the-investigation-int.md)
-_Context: Condoleezza Rice, National Security Advisor, September 11, 2001 attacks, White House_
+_Context: Condoleezza Rice, September 11, 2001 attacks, US National Security Advisor, White House_
 
 ##### Philippines
 ### [ The Philippines prevents a "Madrid-level attack" after arresting four members of the Muslim extremist Abu Sayyaf group. ](/news/2004/03/30/the-philippines-prevents-a-madrid-level-attack-after-arresting-four-members-of-the-muslim-extremist-abu-sayyaf-group.md)

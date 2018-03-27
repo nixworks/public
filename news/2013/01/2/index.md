@@ -7,9 +7,9 @@ Formats: [HTML](2013/01/2/index.html)  [JSON](2013/01/2/index.json)  [XML](2013/
 ### [U.S. Secretary of State Hillary Clinton is discharged from the NewYork-Presbyterian Hospital after being treated for a blood clot. ](/news/2013/01/2/u-s-secretary-of-state-hillary-clinton-is-discharged-from-the-newyorkapresbyterian-hospital-after-being-treated-for-a-blood-clot.md)
 _Context: Hillary Clinton, NewYork-Presbyterian Hospital, Secretary of State, blood clot_
 
-##### U.S. President
+##### President
 ### [U.S. President Barack Obama signs the American Taxpayer Relief Act of 2012, intended to prevent the "fiscal cliff". ](/news/2013/01/2/u-s-president-barack-obama-signs-the-american-taxpayer-relief-act-of-2012-intended-to-prevent-the-fiscal-cliff.md)
-_Context: American Taxpayer Relief Act of 2012, Barack Obama, U.S. President, fiscal cliff_
+_Context: American Taxpayer Relief Act of 2012, Barack Obama, President, fiscal cliff_
 
 ##### Venezuela
 ### [The opposition in Venezuela urges the government to be more transparent about the health of president Hugo Chavez as his inauguration approaches on January 10 amid rumours of his deteriorating health. ](/news/2013/01/2/the-opposition-in-venezuela-urges-the-government-to-be-more-transparent-about-the-health-of-president-hugo-cha-vez-as-his-inauguration-appro.md)

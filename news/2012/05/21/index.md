@@ -31,7 +31,7 @@ A US student who used a webcam to secretly film his room-mate in a gay encounter
 ### [Abdelbaset al-Megrahi, the only person convicted in the case concerning the 1988 bombing of Pan Am Flight 103, is buried in a private ceremony in a western suburb of Tripoli, having died of cancer aged 60. ](/news/2012/05/21/abdelbaset-al-megrahi-the-only-person-convicted-in-the-case-concerning-the-1988-bombing-of-pan-am-flight-103-is-buried-in-a-private-ceremo.md)
 Lockerbie bomber Abdelbaset al-Megrahi has been buried in a private ceremony in the Libyan capital, Tripoli.
 
-##### U.S. President
+##### President
 ### [US President Barack Obama speaks at a NATO summit concerning the future of war-ravaged Afghanistan. ](/news/2012/05/21/us-president-barack-obama-speaks-at-a-nato-summit-concerning-the-future-of-war-ravaged-afghanistan.md)
 President Barack Obama gives a final press conference at the Chicago NATO summit.
 
@@ -41,7 +41,7 @@ First IAEA head to visit Tehran since 2009 is expected to seek inspection deal o
 
 ##### Canada
 ### [Four climbers from Canada, China, Germany and South Korea die whilst returning from the summit of Mount Everest; a Nepalese guide is missing. ](/news/2012/05/21/four-climbers-from-canada-china-germany-and-south-korea-die-whilst-returning-from-the-summit-of-mount-everest-a-nepalese-guide-is-missing.md)
-_Context: Canada, Chinese, Germany, Mount Everest, Nepal, South Korea_
+_Context: Canada, China, Germany, Mount Everest, Nepal, South Korea_
 
 ##### A bus plunges 80|m|ft off a cliff
 ### [At least 13 people &ndash; most of them students &ndash; are killed and 22 others are injured after a bus plunges 80 m off a cliff in Albania. ](/news/2012/05/21/at-least-13-people-ndash-most-of-them-students-ndash-are-killed-and-22-others-are-injured-after-a-bus-plunges-80-m-off-a-cliff-in-albani.md)

@@ -13,7 +13,7 @@ Guatemalan President Jimmy Morales on Sunday appeared to defy a court ruling tha
 
 ##### Pakistan-United States relations
 ### [Pakistan postpones a visit from U.S. acting Assistant Secretary of State Alice Wells, its foreign ministry says, as some protest President Donald Trump's accusations that Pakistan is harbouring terrorists. ](/news/2017/08/27/pakistan-postpones-a-visit-from-u-s-acting-assistant-secretary-of-state-alice-wells-its-foreign-ministry-says-as-some-protest-president-d.md)
-_Context: Donald Trump, Pakistan, Pakistan-United States relations, foreign ministry_
+_Context: Pakistan, Pakistan-United States relations, Trump, foreign ministry_
 
 ##### Eastbourne
 ### [Police issued a warning and evacuation orders after a unknown chemical "haze" leaves over 200 people on Britain's south coast, between the towns of Eastbourne and Birling Gap, suffering irritation to their eyes and throats. ](/news/2017/08/27/police-issued-a-warning-and-evacuation-orders-after-a-unknown-chemical-haze-leaves-over-200-people-on-britain-s-south-coast-between-the-t.md)

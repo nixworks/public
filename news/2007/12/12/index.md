@@ -25,7 +25,7 @@ The International Olympic Committee ended the once stellar Olympic career of U.S
 
 ##### United States
 ### [ United States President George W. Bush vetos an expansion of the federally funded, State Children's Health Insurance Program for the second time. ](/news/2007/12/12/united-states-president-george-w-bush-vetos-an-expansion-of-the-federally-funded-state-children-s-health-insurance-program-for-the-second.md)
-_Context: George W. Bush, State Children's Health Insurance Program, U.S. President, United States, vetos_
+_Context: George W. Bush, President, State Children's Health Insurance Program, United States, vetos_
 
 ## [Previous Day...](/news/2007/12/11/index.md)
 

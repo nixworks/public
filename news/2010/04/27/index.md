@@ -45,7 +45,7 @@ _Context: Goldman Sachs, Senate, housing market_
 
 ##### Smoke bomb
 ### [A smoke bomb is thrown in the Ukrainian parliament during protests after Ukraine's extension of the lease on a Russian naval base in Sevastopol. ](/news/2010/04/27/a-smoke-bomb-is-thrown-in-the-ukrainian-parliament-during-protests-after-ukraine-s-extension-of-the-lease-on-a-russian-naval-base-in-sevasto.md)
-_Context: Parliament, Russia, Sevastopol, Ukrainian, during protests, smoke bomb_
+_Context: Parliament, Russia, Sevastopol, Ukraine, during protests, smoke bomb_
 
 ##### Burma
 ### [About 20 senior military leaders in Burma, including Prime Minister Thein Sein, retire from their posts in the State Peace and Development Council to participate in the general election later this year. ](/news/2010/04/27/about-20-senior-military-leaders-in-burma-including-prime-minister-thein-sein-retire-from-their-posts-in-the-state-peace-and-development-c.md)

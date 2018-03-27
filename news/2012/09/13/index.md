@@ -45,7 +45,7 @@ _Context: Guatemala, Volcano of Fire (Volcn de Fuego)_
 
 ##### Wuhan
 ### [A freight elevator crashes 100 meters and kills 19 construction workers in Wuhan, Hubei province, China. ](/news/2012/09/13/a-freight-elevator-crashes-100-meters-and-kills-19-construction-workers-in-wuhan-hubei-province-china.md)
-_Context: Chinese, Hubei, Wuhan_
+_Context: China, Hubei, Wuhan_
 
 ##### Federal Reserve System
 ### [The Federal Reserve System starts a new campaign of increasing the money supply, the expected so-called QE3. But it says it buys mortgage-backed securities in an "open-ended" way, essentially "creating" 40 billion US$ each month. The Fed also considers other measures in a bid to stimulate the economy. ](/news/2012/09/13/the-federal-reserve-system-starts-a-new-campaign-of-increasing-the-money-supply-the-expected-so-called-qe3-but-it-says-it-buys-mortgage-ba.md)

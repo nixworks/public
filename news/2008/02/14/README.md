@@ -17,7 +17,7 @@ _Context: National Reconnaissance Office, SM-3, U.S. Navy, USA 193, hydrazine, s
 
 ##### Vladimir Putin
 ### [ President Vladimir Putin says Russia would target its missiles at Ukraine if it threatened Russia's national security. ](/news/2008/02/14/president-vladimir-putin-says-russia-would-target-its-missiles-at-ukraine-if-it-threatened-russia-s-national-security.md)
-_Context: Russia, Ukrainian, Vladimir Putin_
+_Context: Russia, Ukraine, Vladimir Putin_
 
 ##### Opens fire at a lecture hall
 ### [ A gunman opens fire at a lecture hall at Northern Illinois University, injuring as many as 18 students and with at least six people dead including the gunman. ](/news/2008/02/14/a-gunman-opens-fire-at-a-lecture-hall-at-northern-illinois-university-injuring-as-many-as-18-students-and-with-at-least-six-people-dead-in.md)

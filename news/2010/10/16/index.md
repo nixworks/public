@@ -37,15 +37,15 @@ Zambian police investigate claims that managers at a Chinese-run coal mine in th
 
 ##### Israeli Air Force
 ### [The Israeli Air Force and the Hellenic Air Force combine for manoeuvres involving helicopters and jets as Israel seeks new air links following its disagreement with Turkey. ](/news/2010/10/16/the-israeli-air-force-and-the-hellenic-air-force-combine-for-manoeuvres-involving-helicopters-and-jets-as-israel-seeks-new-air-links-followi.md)
-_Context: Gaza flotilla raid, Hellenic Air Force, Israel, Israeli Air Force, Turkey_
+_Context: Gaza flotilla raid, Hellenic Air Force, Israel, Israeli Air Force, Turkish_
 
 ##### World Food Day
 ### [On World Food Day, United Nations calls for united front against food shortages, because one billion people are still hungry. ](/news/2010/10/16/on-world-food-day-united-nations-calls-for-united-front-against-food-shortages-because-one-billion-people-are-still-hungry.md)
 _Context: United Nations, World Food Day_
 
-##### Chinese
+##### China
 ### [China mounts a diplomatic campaign to block the publication of a U.N. report that claims that Chinese ammunition has been shipped into Darfur in the past year in violation of U.N. sanctions. ](/news/2010/10/16/china-mounts-a-diplomatic-campaign-to-block-the-publication-of-a-u-n-report-that-claims-that-chinese-ammunition-has-been-shipped-into-darfu.md)
-_Context: Chinese, Darfur, U.N._
+_Context: China, Darfur, U.N._
 
 ##### 2010 Copiap mining accident
 ### [28 of 33 miners rescued in the 2010 Copiap mining accident are secretly discharged from hospital in Chile, with 2 remaining inside. ](/news/2010/10/16/28-of-33-miners-rescued-in-the-2010-copiapo-mining-accident-are-secretly-discharged-from-hospital-in-chile-with-2-remaining-inside.md)

@@ -3,7 +3,7 @@ Formats: [HTML](2010/09/27/index.html)  [JSON](2010/09/27/index.json)  [XML](201
 
 ## [2010-09-27](/news/2010/09/27/index.md)
 
-##### U.S. President
+##### President
 ### [President of the United States Barack Obama signs a small business lending bill into law. ](/news/2010/09/27/president-of-the-united-states-barack-obama-signs-a-small-business-lending-bill-into-law.md)
 President Barack Obama signed a $30 billion small business lending bill into law on Monday, claiming a victory on economic policy for his fellow Democrats ahead of November congressional elections.
 

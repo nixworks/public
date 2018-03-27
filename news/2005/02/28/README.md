@@ -27,13 +27,13 @@ _Context: Botswana, Festus Mogae, deportation, illegal immigrant_
 ### [ Police in Ukraine states that they have identified people who kidnapped and killed journalist Georgiy Gongadze in September 2000 ](/news/2005/02/28/police-in-ukraine-states-that-they-have-identified-people-who-kidnapped-and-killed-journalist-georgiy-gongadze-in-september-2000.md)
 _Context: 2000, Georgiy Gongadze_
 
-##### Ukrainian
+##### Ukraine
 ### [ Ukraine's government also trims the retirement benefits of the ex-president Leonid Kuchma ](/news/2005/02/28/ukraine-s-government-also-trims-the-retirement-benefits-of-the-ex-president-leonid-kuchma.md)
-_Context: Leonid Kuchma, Ukrainian, retirement_
+_Context: Leonid Kuchma, Ukraine, retirement_
 
-##### Ukrainian
+##### Ukraine
 ### [ In Ukraine, "Razom nas bahato", a song that was written in support of the Orange Revolution that led Viktor Yushchenko to presidency, is selected as the country's entry in the Eurovision Song Contest. Band Greenjolly will present it. ](/news/2005/02/28/in-ukraine-razom-nas-bahato-a-song-that-was-written-in-support-of-the-orange-revolution-that-led-viktor-yushchenko-to-presidency-is-se.md)
-_Context: Eurovision Song Contest, Greenjolly, Orange Revolution, Razom nas bahato, Ukrainian, Viktor Yushchenko_
+_Context: Eurovision Song Contest, Greenjolly, Orange Revolution, Razom nas bahato, Ukraine, Viktor Yushchenko_
 
 ##### Haiti
 ### [ In Haiti, police shoots at demonstrators who march in support of the former president Jean-Bertrand Aristide. Two deaths and several injuries are reported. Aristide left the country February 29 2004 ](/news/2005/02/28/in-haiti-police-shoots-at-demonstrators-who-march-in-support-of-the-former-president-jean-bertrand-aristide-two-deaths-and-several-injuri.md)

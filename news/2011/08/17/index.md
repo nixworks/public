@@ -9,7 +9,7 @@ _Context: Presidential Elections Committee, Singapore, Tan Cheng Bock, Tan Jee S
 
 ##### Vasyl Dzharty
 ### [Vasyl Dzharty, the Prime Minister of Crimea, an autonomous region of Ukraine, dies in office. ](/news/2011/08/17/vasyl-dzharty-the-prime-minister-of-crimea-an-autonomous-region-of-ukraine-dies-in-office.md)
-_Context: Prime Minister of Crimea, Ukrainian, Vasyl Dzharty, autonomous region_
+_Context: Prime Minister of Crimea, Ukraine, Vasyl Dzharty, autonomous region_
 
 ##### Birmingham
 ### [A fourth man is charged with murder following the deaths of three men hit by a car in Birmingham, UK, during recent rioting which spread across England. ](/news/2011/08/17/a-fourth-man-is-charged-with-murder-following-the-deaths-of-three-men-hit-by-a-car-in-birmingham-uk-during-recent-rioting-which-spread-acr.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2007/06/3/index.html)  [JSON](2007/06/3/index.json)  [XML](2007/
 
 ##### Earthquake
 ### [ A 6.4 magnitude earthquake strikes southern China near the Myanmar and Laos borders, causing casualties. ](/news/2007/06/3/a-6-4-magnitude-earthquake-strikes-southern-china-near-the-myanmar-and-laos-borders-causing-casualties.md)
-_Context: Chinese, Laos, Myanmar, earthquake_
+_Context: China, Laos, Myanmar, earthquake_
 
 ##### 2007 North Lebanon conflict
 ### [ 2007 North Lebanon conflict: Soldiers and Islamist militants clash at a second Palestinian refugee camp in Lebanon. ](/news/2007/06/3/2007-north-lebanon-conflict-soldiers-and-islamist-militants-clash-at-a-second-palestinian-refugee-camp-in-lebanon.md)

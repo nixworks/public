@@ -99,9 +99,9 @@ _Context: United States, United States housing bubble_
 ### [Chubu Electric Power considers a call by the Prime Minister of Japan Naoto Kan to close down the Hamaoka Nuclear Power Plant due to its vulnerability to a large earthquake. ](/news/2011/05/9/chubu-electric-power-considers-a-call-by-the-prime-minister-of-japan-naoto-kan-to-close-down-the-hamaoka-nuclear-power-plant-due-to-its-vuln.md)
 Japanese power firm Chubu Electric on Monday agreed to shut a nuclear plant until it can be better defended against the type of massive tsunami that in March triggered the worst atomic crisis in 25 years.
 
-##### Chinese
+##### China
 ### [China's yuan reaches a record level against the United States dollar. ](/news/2011/05/9/china-s-yuan-reaches-a-record-level-against-the-united-states-dollar.md)
-_Context: Chinese, US$, yuan_
+_Context: China, US$, yuan_
 
 ##### Civil war
 ### [2011 Libyan civil war: Five explosions rock Tripoli in Libya following the heaviest NATO bombing offensive in a week. ](/news/2011/05/9/2011-libyan-civil-war-five-explosions-rock-tripoli-in-libya-following-the-heaviest-nato-bombing-offensive-in-a-week.md)

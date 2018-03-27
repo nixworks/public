@@ -13,7 +13,7 @@ HARGEISA - Voters across Somaliland went to the polls on Monday, November 13th, 
 
 ##### Cabinet of Donald Trump
 ### [U.S. President Donald Trump selects Eli Lilly's American division president and former HHS deputy secretary Alex Azar to be Secretary of Health and Human Services, replacing Tom Price who resigned on September 29. ](/news/2017/11/13/u-s-president-donald-trump-selects-eli-lilly-s-american-division-president-and-former-hhs-deputy-secretary-alex-azar-to-be-secretary-of-hea.md)
-_Context: Alex Azar, Cabinet of Donald Trump, Donald Trump, Eli Lilly's, HHS deputy secretary, Secretary of Health and Human Services, Tom Price_
+_Context: Alex Azar, Cabinet of Donald Trump, Eli Lilly's, HHS deputy secretary, Secretary of Health and Human Services, Tom Price, Trump_
 
 ##### Russia-United States relations
 ### [RT America registers with the U.S. Department of Justice as a foreign agent in the United States. ](/news/2017/11/13/rt-america-registers-with-the-u-s-department-of-justice-as-a-foreign-agent-in-the-united-states.md)

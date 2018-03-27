@@ -17,7 +17,7 @@ _Context: Bongbong Marcos, Ferdinand Marcos, Philippine general election, 2016, 
 
 ##### War in Donbass
 ### [A Ukrainian court sentences two Russian nationals to 14 years in prison each on charges of fighting alongside Russian-backed separatists in eastern Ukraine. Moscow contends that the two Russians were no longer employed by the state when they were captured. ](/news/2016/04/18/a-ukrainian-court-sentences-two-russian-nationals-to-14-years-in-prison-each-on-charges-of-fighting-alongside-russian-backed-separatists-in.md)
-_Context: Donetsk People's Republic, Eastern Ukraine, Moscow, Russia, Russia-Ukraine relations, Ukrainian, War in Donbass_
+_Context: Donetsk People's Republic, Eastern Ukraine, Moscow, Russia, Russia-Ukraine relations, Ukraine, War in Donbass_
 
 ##### Iraqi Civil War (2014-present)
 ### [During a visit to Baghdad, U.S. Defense Secretary Ash Carter announces that the United States will be sending more troops to the country to help in the fight against ISIL. The U.S. also plans to give Kurdish Peshmerga forces, which are fighting ISIL on the ground, more than $400m (GBP280m; EUR350m) in assistance. ](/news/2016/04/18/during-a-visit-to-baghdad-u-s-defense-secretary-ash-carter-announces-that-the-united-states-will-be-sending-more-troops-to-the-country-to.md)

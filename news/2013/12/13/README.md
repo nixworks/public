@@ -3,7 +3,7 @@ Formats: [HTML](2013/12/13/index.html)  [JSON](2013/12/13/index.json)  [XML](201
 
 ## [2013-12-13](/news/2013/12/13/index.md)
 
-##### Chinese
+##### China
 ### [China's mission begins the descent phase to the moon that will likely make it one of only three countries to reach it. The landing is estimated to occur at 8:40 a.m. EST, December 14. ](/news/2013/12/13/china-s-mission-begins-the-descent-phase-to-the-moon-that-will-likely-make-it-one-of-only-three-countries-to-reach-it-the-landing-is-estima.md)
 All systems appear to be “GO” for the world’s first attempt to soft land a space probe on the Moon in nearly four decades. China’s maiden moon landing prob
 
@@ -33,7 +33,7 @@ Prince Harry and his fellow adventurers in the Walking With The Wounded expediti
 
 ##### United States
 ### [Warships of the United States and China confront each other in international waters within the South China Sea. ](/news/2013/12/13/warships-of-the-united-states-and-china-confront-each-other-in-international-waters-within-the-south-china-sea.md)
-_Context: Chinese, South China Sea, United States, international waters_
+_Context: China, South China Sea, United States, international waters_
 
 ##### Gunman critically wounds a student in a shooting
 ### [A gunman critically wounds a student in a shooting at Arapahoe High School, Centennial, Colorado, United States. ](/news/2013/12/13/a-gunman-critically-wounds-a-student-in-a-shooting-at-arapahoe-high-school-centennial-colorado-united-states.md)

@@ -29,7 +29,7 @@ The leaders of Venezuela and Colombia agree to &quot;normalise&quot; the situati
 
 ##### 2015 California wildfires
 ### [The President of the United States Barack Obama signs a disaster declaration for the Valley Fire which has claimed three lives in Lake County, California. ](/news/2015/09/22/the-president-of-the-united-states-barack-obama-signs-a-disaster-declaration-for-the-valley-fire-which-has-claimed-three-lives-in-lake-count.md)
-_Context: 2015 California wildfires, Barack Obama, Lake County, California, U.S. President_
+_Context: 2015 California wildfires, Barack Obama, Lake County, California, President_
 
 ##### Recent incident of hazes in 2015
 ### [The haze from Indonesian forest fires worsens leaving Singapore and parts of Indonesia and Malaysia covered in smog. ](/news/2015/09/22/the-haze-from-indonesian-forest-fires-worsens-leaving-singapore-and-parts-of-indonesia-and-malaysia-covered-in-smog.md)

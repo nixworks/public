@@ -17,7 +17,7 @@ Days after a U.S. naval ship sailed by, Chinese officials released photographs o
 
 ##### Trilateral summit
 ### [A day after Sunday's trilateral summit between China, Japan, and South Korea, South Korean President Park Geun-hye and Japanese Prime Minister Shinzo Abe are meeting in Seoul. The two countries haven't met in over three years. Expected topics include trade ties, North Korea's pursuit of nuclear bombs, and long-running disputes over Japanese wartime aggression and behavior. ](/news/2015/11/2/a-day-after-sunday-s-trilateral-summit-between-china-japan-and-south-korea-south-korean-president-park-geun-hye-and-japanese-prime-minist.md)
-_Context: Chinese, Japanese Prime Minister, North Korea, Park Geun-hye, Shinzo Abe, South Korean President, disputes, nuclear warheads, trilateral summit_
+_Context: China, Japanese Prime Minister, North Korea, Park Geun-hye, Shinzo Abe, South Korean President, disputes, nuclear warheads, trilateral summit_
 
 ##### Kogalymavia Flight 9268
 ### [U.S. intelligence analysts conclude the Russian plane was not brought down by surface-to-air missile. An American infrared satellite detected a heat flash at the same time and same place over the Sinai as the plane, but no evidence a missile was involved. Analysts believe it could have been some kind of explosion on the aircraft itself, either a fuel tank or a bomb. U.S. officials do not rule out that ISIL could have been responsible for bringing down the flight. ](/news/2015/11/2/u-s-intelligence-analysts-conclude-the-russian-plane-was-not-brought-down-by-surface-to-air-missile-an-american-infrared-satellite-detecte.md)
@@ -31,7 +31,7 @@ A rare tropical cyclone makes landfall in Yemen, flooding the al-Qaeda controlle
 ### [ Planes have been left stranded at airports throughout the United Kingdom as the "Great Fog" descends. Heathrow Airport said around 45 flights had been cancelled there while London City Airport was closed for several hours. Other affected airports include Manchester, Leeds Bradford, Glasgow, Belfast, Southampton and Cardiff. ](/news/2015/11/2/planes-have-been-left-stranded-at-airports-throughout-the-united-kingdom-as-the-great-fog-descends-heathrow-airport-said-around-45-fligh.md)
 Scores of flights are cancelled and many more delayed by a second day of dense fog across much of the UK.
 
-##### NTSB
+##### National Transportation Safety Board
 ### [The American National Transportation Safety Board confirms that wreckage found on Saturday east of the Bahamas is the cargo ship SS "El Faro" that sank during Hurricane Joaquin on October 1. ](/news/2015/11/2/the-american-national-transportation-safety-board-confirms-that-wreckage-found-on-saturday-east-of-the-bahamas-is-the-cargo-ship-ss-el-faro.md)
 The wreckage was found Saturday in 15,000 feet of water east of the Bahamas. El Faro had gone missing on Oct. 1 during Hurricane Joaquin.
 
@@ -51,9 +51,9 @@ _Context: Audi, CARB, California, Environmental Protection Agency, Porsche, Volk
 ### [American financial services company Visa Inc. buys European franchisee Visa Europe for $US23 billion. ](/news/2015/11/2/american-financial-services-company-visa-inc-buys-european-franchisee-visa-europe-for-us23-billion.md)
 The two companies have more than 2.9 billion cards issued on its combined network.
 
-##### Chinese
+##### China
 ### [China's government-owned Comac launches the Comac C919 as part of its efforts to challenge Boeing and Airbus. ](/news/2015/11/2/china-s-government-owned-comac-launches-the-comac-c919-as-part-of-its-efforts-to-challenge-boeing-and-airbus.md)
-_Context: Airbus, Boeing, Chinese, Comac, Comac C919_
+_Context: Airbus, Boeing, China, Comac, Comac C919_
 
 ##### United States
 ### [In the United States, the hacking group Anonymous starts releasing names and information about alleged members of the Ku Klux Klan (KKK), a white-supremacist terrorist group originally founded after the Civil War by former Confederate soldiers. Prominent individuals listed deny the allegations. The group says they also infiltrated KKK-affiliated websites, and warned of more action culminating on November 24, the anniversary of the Ferguson, Missouri grand jury's decision not to indict. ](/news/2015/11/2/in-the-united-states-the-hacking-group-anonymous-starts-releasing-names-and-information-about-alleged-members-of-the-ku-klux-klan-kkk-a.md)

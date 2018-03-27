@@ -13,7 +13,7 @@ _Context: Andrew McCabe, Deputy FBI Director, Jeff Sessions, Office of Professio
 
 ##### Aviation in the United States
 ### [The Federal Aviation Administration of the United States restricts "doors off" aircraft flights following a helicopter crash that killed 5 people. ](/news/2018/03/16/the-federal-aviation-administration-of-the-united-states-restricts-doors-off-aircraft-flights-following-a-helicopter-crash-that-killed-5-p.md)
-_Context: Aviation in the United States, Federal Aviation Administration, helicopter crash that killed 5 people_
+_Context: 2018 New York City Eurocopter AS350 crash, Aviation in the United States, Federal Aviation Administration_
 
 ##### The Holocaust in Latvia
 ### [Police arrest a man at the Freedom Monument displaying a poster of soldiers killing Jews as a protest against an annual march in Riga, Latvia, honoring two Latvian SS divisions during World War II. ](/news/2018/03/16/police-arrest-a-man-at-the-freedom-monument-displaying-a-poster-of-soldiers-killing-jews-as-a-protest-against-an-annual-march-in-riga-latvi.md)

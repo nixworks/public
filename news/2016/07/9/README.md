@@ -41,7 +41,7 @@ _Context: North Korea, North Korea's nuclear program, South Korea, ballistic mis
 
 ##### International reactions to Philippines v. China
 ### [Ahead of a court decision by the Permanent Court of Arbitration, China holds a naval drill in the disputed South China Sea raising tensions in the region. ](/news/2016/07/9/ahead-of-a-court-decision-by-the-permanent-court-of-arbitration-china-holds-a-naval-drill-in-the-disputed-south-china-sea-raising-tensions.md)
-_Context: Chinese, International reactions to Philippines v. China, Permanent Court of Arbitration's, South China Sea, court decision_
+_Context: China, International reactions to Philippines v. China, Permanent Court of Arbitration's, South China Sea, court decision_
 
 ##### Typhoon Nepartak (2016)
 ### [Taiwan is recovering after Typhoon Nepartak hit yesterday killing two people and injuring 72. ](/news/2016/07/9/taiwan-is-recovering-after-typhoon-nepartak-hit-yesterday-killing-two-people-and-injuring-72.md)

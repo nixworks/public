@@ -27,9 +27,9 @@ Pope Benedict XVI had a “brief meeting” with Susanna Maiolo in a room adjace
 ### [The Kiev Court of Appeal accuses Joseph Stalin and other leaders of the former Soviet Union and Soviet Ukraine of organizing mass famine in Ukraine in 1932-1933. ](/news/2010/01/13/the-kiev-court-of-appeal-accuses-joseph-stalin-and-other-leaders-of-the-former-soviet-union-and-soviet-ukraine-of-organizing-mass-famine-in.md)
 _Context: Court of Appeal, Joseph Stalin, Kiev, Soviet, Soviet Ukraine, famine in Ukraine in 1932-1933_
 
-##### Turkey
+##### Turkish
 ### [Turkey threatens to recall its ambassador from Israel over a dispute involving Turkey's ambassador to the country. Israel apologized later. ](/news/2010/01/13/turkey-threatens-to-recall-its-ambassador-from-israel-over-a-dispute-involving-turkey-s-ambassador-to-the-country-israel-apologized-later.md)
-_Context: Israel, Turkey_
+_Context: Israel, Turkish_
 
 ##### Guinea
 ### [Guinea's junta chief Moussa Dadis Camara arrives in Burkina Faso after being hospitalised in Morocco. ](/news/2010/01/13/guinea-s-junta-chief-moussa-dadis-camara-arrives-in-burkina-faso-after-being-hospitalised-in-morocco.md)

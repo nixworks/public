@@ -35,9 +35,9 @@ _Context: Spanish politicians, West Africa, oil tanker_
 ### [Six people die in a house fire in the London suburb of Neasden. ](/news/2011/09/24/six-people-die-in-a-house-fire-in-the-london-suburb-of-neasden.md)
 Six members of the same family, including three children and two teenagers, have died following a house fire in Neasden, north west London.
 
-##### Turkey
+##### Turkish
 ### [Turkey seizes a Syrian ship possibly carrying weapons to the Syrian Army, as the 2011 Syrian uprising continues. ](/news/2011/09/24/turkey-seizes-a-syrian-ship-possibly-carrying-weapons-to-the-syrian-army-as-the-2011-syrian-uprising-continues.md)
-_Context: 2011 Syrian uprising, Syria, Syrian Army, Turkey_
+_Context: 2011 Syrian uprising, Syria, Syrian Army, Turkish_
 
 ##### Civil war
 ### [2011 Libyan civil war: In the pro-Muammar Gaddafi stronghold of Sirte, National Transitional Council forces are massing in a square about a kilometer (0.6 miles) from the city center, as they weather heavy fire from pro-Gaddafi snipers. ](/news/2011/09/24/2011-libyan-civil-war-in-the-pro-muammar-gaddafi-stronghold-of-sirte-national-transitional-council-forces-are-massing-in-a-square-about-a.md)

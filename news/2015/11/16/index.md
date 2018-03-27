@@ -7,7 +7,7 @@ Formats: [HTML](2015/11/16/index.html)  [JSON](2015/11/16/index.json)  [XML](201
 ### [Cambodian opposition leader Sam Rainsy delays his return home from South Korea as tension comes to a head between his supporters and those of Prime Minister Hun Sen. Friday, a Cambodian court issued an arrest warrant related to an old defamation case for which Sam had already received a royal pardon. Today, Parliament stripped him of immunity protection. ](/news/2015/11/16/cambodian-opposition-leader-sam-rainsy-delays-his-return-home-from-south-korea-as-tension-comes-to-a-head-between-his-supporters-and-those-o.md)
 Cambodian opposition leader Sam Rainsy on Monday delayed his return home from South Korea as tension comes to a head between his supporters and those of Prime Minister Hun Sen.
 
-##### U.S. President
+##### President
 ### [United States President Barack Obama, in Antalya, Turkey, says America will continue to accept refugees from Syria and elsewhere, though, "Only after subjecting them to rigorous screening and security checks." Responding to calls to admit Christians but not Muslims into the country, he said, "We don't have religious tests to our compassion." ](/news/2015/11/16/united-states-president-barack-obama-in-antalya-turkey-says-america-will-continue-to-accept-refugees-from-syria-and-elsewhere-though-o.md)
 Without directly naming GOP presidential candidates, the president blasted political leaders for suggesting the U.S. should only accept Christians fleeing Syria. &quot;That&rsquo;s shameful,&quot; he said, his voice rising.
 
@@ -25,15 +25,15 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### 2015 Atlantic hurricane season
 ### [The United States National Transportation Safety Board announces it has completed its search of the sunken "El Faro", but did not find the voyage data recorder, i.e., the black box. ](/news/2015/11/16/the-united-states-national-transportation-safety-board-announces-it-has-completed-its-search-of-the-sunken-el-faro-but-did-not-find-the-v.md)
-_Context: 2015 Atlantic hurricane season, El Faro, Hurricane Joaquin, NTSB, United States, voyage data recorder_
+_Context: 2015 Atlantic hurricane season, El Faro, Hurricane Joaquin, National Transportation Safety Board, United States, voyage data recorder_
 
 ##### 2015 North Indian Ocean cyclone season
 ### [ Floods in Sri Lanka and the southern Indian state of Tamil Nadu cause over 70 deaths with the city of Chennai worst affected. ](/news/2015/11/16/floods-in-sri-lanka-and-the-southern-indian-state-of-tamil-nadu-cause-over-70-deaths-with-the-city-of-chennai-worst-affected.md)
 Reports suggest at least 71 people have died from drowning, collapsing walls and electrocution
 
-##### Chinese
+##### China
 ### [The death toll from a landslide in a village in China's Zhejiang province rises to 25 with 12 people still missing. ](/news/2015/11/16/the-death-toll-from-a-landslide-in-a-village-in-china-s-zhejiang-province-rises-to-25-with-12-people-still-missing.md)
-_Context: Chinese, Zhejiang_
+_Context: China, Zhejiang_
 
 ##### United States
 ### [American, British-based telecommunications and television company Liberty Global announces a GBP3.5bn (US$5.3bn) deal to buy British multinational telecommunications company Cable and Wireless Communications (CWC). ](/news/2015/11/16/american-british-based-telecommunications-and-television-company-liberty-global-announces-a-agbp3-5bn-us-5-3bn-deal-to-buy-british-multin.md)

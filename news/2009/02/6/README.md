@@ -39,7 +39,7 @@ _Context: Abdul Qadeer Khan, Islamabad, Pakistan, house arrest, nuclear scientis
 ### [ A teething drug is withdrawn from circulation after killing 84 Nigerian children in three months. ](/news/2009/02/6/a-teething-drug-is-withdrawn-from-circulation-after-killing-84-nigerian-children-in-three-months.md)
 About 84 children have died over the past three months after taking a teething drug, Nigeria&#039;s health ministry said this morning.
 
-##### U.S. President
+##### President
 ### [ U.S. President Barack Obama creates the President's Economic Recovery Advisory Board. ](/news/2009/02/6/u-s-president-barack-obama-creates-the-president-s-economic-recovery-advisory-board.md)
 The losses reinforced the picture of an economy contracting at its fastest pace in decades.
 

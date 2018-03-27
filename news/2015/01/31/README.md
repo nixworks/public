@@ -29,7 +29,7 @@ Congolese government troops have started their long-awaited offensive against Rw
 
 ##### Military intervention in Ukraine
 ### [Ukraine and Russian-backed separatists conduct peace talks as fighting rages in eastern Ukraine. ](/news/2015/01/31/ukraine-and-russian-backed-separatists-conduct-peace-talks-as-fighting-rages-in-eastern-ukraine.md)
-_Context: Russia, Ukrainian, eastern Ukraine, military intervention in Ukraine_
+_Context: Russia, Ukraine, eastern Ukraine, military intervention in Ukraine_
 
 ## [Previous Day...](/news/2015/01/30/index.md)
 

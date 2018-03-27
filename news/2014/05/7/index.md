@@ -27,7 +27,7 @@ There are fresh security concerns in Thailand after the elected prime minister w
 ### [An alleged American FBI agent is arrested in Pakistan for carrying ammunition while trying to board a flight, which is in violation of their anti-terror laws. ](/news/2014/05/7/an-alleged-american-fbi-agent-is-arrested-in-pakistan-for-carrying-ammunition-while-trying-to-board-a-flight-which-is-in-violation-of-their.md)
 An American FBI agent is arrested under anti-terrorism laws in Pakistan for carrying ammunition while trying to board a flight.
 
-##### Chinese
+##### China
 ### [Vietnamese naval ships and Chinese vessels collide in the South China Sea; the incident occurred while the Vietnamese navy was trying to prevent China from setting up an oil rig in an area to which both nations lay claim. ](/news/2014/05/7/vietnamese-naval-ships-and-chinese-vessels-collide-in-the-south-china-sea-the-incident-occurred-while-the-vietnamese-navy-was-trying-to-pre.md)
 Vietnamese naval ships and Chinese vessels collide in a disputed part of the South China Sea, as Beijing seeks to set up an oil rig, Vietnam says.
 

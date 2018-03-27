@@ -21,7 +21,7 @@ Formats: [HTML](/news/2014/05/15/a-car-bomb-explodes-near-the-turkish-border-kil
 
 ### Related:
 
-1. [A car bomb claimed by Al-Shabab kills five including the driver and wounds around ten outside Somalia's Parliament, Interior Ministry, and Presidential Palace buildings in Mogadishu. ](/news/2018/03/25/a-car-bomb-claimed-by-al-shabab-kills-five-including-the-driver-and-wounds-around-ten-outside-somalia-s-parliament-interior-ministry-and-p.md) _Context: car bomb_
+1. [A car bomb claimed by Al-Shabab kills five people including the driver and wounds around ten others outside Somalia's Parliament, Interior Ministry, and Presidential Palace buildings in Mogadishu. ](/news/2018/03/25/a-car-bomb-claimed-by-al-shabab-kills-five-people-including-the-driver-and-wounds-around-ten-others-outside-somalia-s-parliament-interior-m.md) _Context: car bomb_
 2. [At least 18 people are killed and 6 others injured in a car bomb explosion in Khost, eastern Afghanistan. ](/news/2017/05/27/at-least-18-people-are-killed-and-6-others-injured-in-a-car-bomb-explosion-in-khost-eastern-afghanistan.md) _Context: car bomb_
 3. [A car bomb attack on a police checkpoint in Baghdad kills at least 15 people and injures 40 others. ](/news/2017/03/29/a-car-bomb-attack-on-a-police-checkpoint-in-baghdad-kills-at-least-15-people-and-injures-40-others.md) _Context: car bomb_
 4. [A car bomb explodes at a checkpoint near the Villa Somalia, the President of Somalia Mohamed Abdullahi Mohamed's official residence in Mogadishu, killing at least five people. ](/news/2017/03/21/a-car-bomb-explodes-at-a-checkpoint-near-the-villa-somalia-the-president-of-somalia-mohamed-abdullahi-mohamed-s-official-residence-in-mogad.md) _Context: car bomb_

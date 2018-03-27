@@ -23,9 +23,9 @@ A ship that offers women medical abortions was blocked Thursday from entering th
 ### [Expelled Ulster Unionist Party member David McNarry, who represents Strangford, joins the UK Independence Party, giving it its first representative in any of the devolved assemblies in Britain and Northern Ireland. ](/news/2012/10/4/expelled-ulster-unionist-party-member-david-mcnarry-who-represents-strangford-joins-the-uk-independence-party-giving-it-its-first-represe.md)
 A Northern Ireland Assembly member, who was expelled from the Ulster Unionist Party in the summer, has joined the UK Independence&hellip;
 
-##### Chinese
+##### China
 ### [A landslide buries at least 19 people in the southwestern Chinese province of Yunnan with 18 later confirmed dead and one missing. ](/news/2012/10/4/a-landslide-buries-at-least-19-people-in-the-southwestern-chinese-province-of-yunnan-with-18-later-confirmed-dead-and-one-missing.md)
-_Context: Chinese, Yunnan_
+_Context: China, Yunnan_
 
 ##### Chief Executive
 ### [Hong Kong Chief Executive Leung Chun-ying and other government officials observe three minutes of silence to mourn the victims of a ferry collision off Lamma Island on October 1, marking the start of a three-day mourning period. ](/news/2012/10/4/hong-kong-chief-executive-leung-chun-ying-and-other-government-officials-observe-three-minutes-of-silence-to-mourn-the-victims-of-a-ferry-co.md)

@@ -59,9 +59,9 @@ The UN human rights council sets up an inquiry into human rights abuses in North
 ### [Xi Jinping heads to Russia on the first stop of his maiden overseas tour as President of China. ](/news/2013/03/22/xi-jinping-heads-to-russia-on-the-first-stop-of-his-maiden-overseas-tour-as-president-of-china.md)
 Xi Jinping arrives in Russia on the first stop of his maiden overseas tour as president of China, with a visit to Africa to follow.
 
-##### U.S. President
+##### President
 ### [President of the United States Barack Obama visits Jordan and meets with King Abdullah II. He warns of extremist threat in Syria. ](/news/2013/03/22/president-of-the-united-states-barack-obama-visits-jordan-and-meets-with-king-abdullah-ii-he-warns-of-extremist-threat-in-syria.md)
-_Context: Abdullah II of Jordan, Barack Obama, Jordan, Syria, U.S. President, United States, visit_
+_Context: Abdullah II of Jordan, Barack Obama, Jordan, President, Syria, United States, visit_
 
 ##### 2013 meat adulteration scandal
 ### [2013 meat adulteration scandal: Britain's Food Standards Agency says that 100kg of horse meat imported from Hungary and labelled as beef has been discovered in Lancashire. ](/news/2013/03/22/2013-meat-adulteration-scandal-britain-s-food-standards-agency-says-that-100kg-of-horse-meat-imported-from-hungary-and-labelled-as-beef-has.md)

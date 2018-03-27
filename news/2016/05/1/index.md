@@ -69,7 +69,7 @@ _Context: 'Amran Governorate, Houthi, Yemeni Civil War_
 
 ##### Kurdish-Turkish conflict
 ### [ Three Turkish soldiers are killed and 14 others wounded in an armed attack by Kurdish militants during a military operation in the town of Nusaybin, Turkey. ](/news/2016/05/1/three-turkish-soldiers-are-killed-and-14-others-wounded-in-an-armed-attack-by-kurdish-militants-during-a-military-operation-in-the-town-of.md)
-_Context: Kurdish-Turkish conflict, Kurds, Nusaybin, Turkey_
+_Context: Kurdish-Turkish conflict, Kurds, Nusaybin, Turkish_
 
 ##### Turkey-ISIL conflict
 ### [ A blast hits a police station in the southern Turkish city of Gaziantep leaving one officer dead and 13 injured. ](/news/2016/05/1/a-blast-hits-a-police-station-in-the-southern-turkish-city-of-gaziantep-leaving-one-officer-dead-and-13-injured.md)

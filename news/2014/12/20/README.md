@@ -19,7 +19,7 @@ The suspect posted anti-police rants on Instagram before the fatal shooting.
 ### [Queensland police arrest an Australian mother for murder in the stabbing deaths of eight children. ](/news/2014/12/20/queensland-police-arrest-an-australian-mother-for-murder-in-the-stabbing-deaths-of-eight-children.md)
 An Australian mother was arrested for murder in the stabbing deaths of eight children, seven of whom were believed to be hers, police said Saturday. 
 
-##### Turkey
+##### Turkish
 ### [Turkey issues an arrest warrant for Fethullah Gulen, who currently lives in self-imposed exile in the United States. ](/news/2014/12/20/turkey-issues-an-arrest-warrant-for-fethullah-ga1-4len-who-currently-lives-in-self-imposed-exile-in-the-united-states.md)
 The cleric facing arrest, Fethullah Gulen, lives in Pennsylvania but still has a broad following in Turkey that has reached into elite law enforcement, judiciary and business circles.
 

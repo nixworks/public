@@ -17,11 +17,11 @@ _Context: Abdurrashid Dostum, Afghanistan, Faryab, Meymaneh_
 
 ##### Ally
 ### [ Iraq Alliancedate=January 2016 troops are locked in heavy fighting. Ukrainian troops cede Kut to Moqtada al-Sadr supporters. Sunni Muslim insurgents engage in two fronts west of Baghdad; a Shiite uprising spreads in southern and central Iraq. ](/news/2004/04/8/iraq-alliancedate-january-2016-troops-are-locked-in-heavy-fighting-ukrainian-troops-cede-kut-to-moqtada-al-sadr-supporters-sunni-muslim-i.md)
-_Context: Baghdad, Iraqi insurgency, Kut, Muqtada al-Sadr, Shiite, Sunni, Ukrainian, ally, war zone_
+_Context: Baghdad, Iraqi insurgency, Kut, Muqtada al-Sadr, Shiite, Sunni, Ukraine, ally, war zone_
 
-##### National Security Advisor
+##### US National Security Advisor
 ### [ US National Security Advisor Condoleezza Rice testifies before the September 11 Commission. Rice states President George W. Bush understood threat from al-Qaeda before September 11. She asserts "the terrorists were at war with us, but we were not yet at war with them." She also says that President George W. Bush came into office in 2001 determined to develop a "more robust" policy to combat Al-Qaida. The commission asks the White House to declassify a key August 2001 document entitled ""Bin Ladin Determined to Strike in US"". ](/news/2004/04/8/us-national-security-advisor-condoleezza-rice-testifies-before-the-september-11-commission-rice-states-president-george-w-bush-understood.md)
-_Context: 9/11 Commission, Al-Qaida, Condoleezza Rice, George W. Bush, National Security Advisor, Osama bin Laden, White House, al-Qaeda, key August 2001 document_
+_Context: 9/11 Commission, Al-Qaida, Condoleezza Rice, George W. Bush, Osama bin Laden, US National Security Advisor, White House, al-Qaeda, key August 2001 document_
 
 ##### Bangladesh
 ### [ Bangladesh is paralysed by a general strike called in protest at alleged government corruption. ](/news/2004/04/8/bangladesh-is-paralysed-by-a-general-strike-called-in-protest-at-alleged-government-corruption.md)

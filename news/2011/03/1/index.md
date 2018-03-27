@@ -53,7 +53,7 @@ A judge temporarily stripped Charlie Sheen of custody of his twin sons Tuesday, 
 
 ##### Christian Dior S.A.
 ### [Christian Dior S.A. fires fashion designer John Galliano following a series of anti-semitic remarks. ](/news/2011/03/1/christian-dior-s-a-fires-fashion-designer-john-galliano-following-a-series-of-anti-semitic-remarks.md)
-_Context: Christian Dior S.A., John Galliano, anti-semitic, fashion designer_
+_Context: Christian Dior S.A., John Galliano, adherence to a religion, fashion designer_
 
 ##### Archaeologist
 ### [Archaeologists recover six cannons from the ships of Welsh privateer Henry Morgan off the coast of Panama. ](/news/2011/03/1/archaeologists-recover-six-cannons-from-the-ships-of-welsh-privateer-henry-morgan-off-the-coast-of-panama.md)

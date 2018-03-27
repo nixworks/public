@@ -33,7 +33,7 @@ _Context: Japan, Japan-South Korea relations, Japanese Prime Minister, Korean, S
 
 ##### 2015 Shenzhen landslide
 ### [A Chinese official who sanctioned a dump of construction debris that led to a deadly landslide in the southern city of Shenzhen that killed at least 7 people and has left over 70 missing, kills himself by jumping from a building in the city's Nanshan district, according to the "South China Morning Post". ](/news/2015/12/28/a-chinese-official-who-sanctioned-a-dump-of-construction-debris-that-led-to-a-deadly-landslide-in-the-southern-city-of-shenzhen-that-killed.md)
-_Context: 2015 Shenzhen landslide, Chinese, Nanshan district, Shenzhen, South China Morning Post_
+_Context: 2015 Shenzhen landslide, China, Nanshan district, Shenzhen, South China Morning Post_
 
 ##### Queensland
 ### [Queensland, Australia, authorities revise the estimated amount of sulphuric acid leaked from Sunday's 26-carriage Aurizon freight train derailment near Julia Creek to 31,500 liters. The train was carrying 819,000 liters, not 200,000 liters as originally thought. Flinders Highway remains closed in both directions. ](/news/2015/12/28/queensland-australia-authorities-revise-the-estimated-amount-of-sulphuric-acid-leaked-from-sunday-s-26-carriage-aurizon-freight-train-dera.md)

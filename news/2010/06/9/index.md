@@ -79,7 +79,7 @@ France is closing its military bases in Senegal - 50 years after the independenc
 ### [President Nicolas Sarkozy defends his plans to sell up to four French warships to Russia, despite concerns raised by his Georgian counterpart Mikheil Saakashvili during talks taking place a few days before a visit to Paris of Russian Prime Minister Vladimir Putin. ](/news/2010/06/9/president-nicolas-sarkozy-defends-his-plans-to-sell-up-to-four-french-warships-to-russia-despite-concerns-raised-by-his-georgian-counterpar.md)
 _Context:  Georgian, French warships, Mikheil Saakashvili, Nicolas Sarkozy, Paris, President of France, Prime Minister of Russia, Russia, Vladimir Putin_
 
-##### U.S. President
+##### President
 ### [President of the United States Barack Obama meets President of the Palestinian National Authority Mahmoud Abbas at the White House in Washington, D.C., United States and promises Palestinians $400 million in US assistance for the West Bank and Gaza. ](/news/2010/06/9/president-of-the-united-states-barack-obama-meets-president-of-the-palestinian-national-authority-mahmoud-abbas-at-the-white-house-in-washin.md)
 Muslim Brotherhood MP Mohamed Beltagy, who was on Gaza-bound flotilla, recounts snatching of Navy soldiers. Egyptian newspapers not pleased with bragging, says it &#39;helps Israel&#39;
 
@@ -109,7 +109,7 @@ _Context: Mogadishu_
 
 ##### Dandong
 ### [China announces that 3 residents of Dandong city in Liaoning province were shot dead and one injured in a China-North Korea border incident last week. ](/news/2010/06/9/china-announces-that-3-residents-of-dandong-city-in-liaoning-province-were-shot-dead-and-one-injured-in-a-china-north-korea-border-incident.md)
-_Context: Chinese, Dandong, Liaoning province, North Korea_
+_Context: China, Dandong, Liaoning province, North Korea_
 
 ##### Australia
 ### [The bodies of two Australian soldiers killed in a bomb blast in Afghanistan begin their journey home. ](/news/2010/06/9/the-bodies-of-two-australian-soldiers-killed-in-a-bomb-blast-in-afghanistan-begin-their-journey-home.md)

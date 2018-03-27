@@ -29,7 +29,7 @@ _Context: Greek Orthodox Patriarch of Alexandria, Mount Athos, Peter&nbsp;VII_
 
 ##### September 11, 2001, attacks
 ### [ Americans commemorate the third anniversary of the September 11, 2001, attacks. U.S. President George Bush and First Lady Laura Bush observe a moment of silence on the South Lawn of the White House to officially begin the day of remembrance. ](/news/2004/09/11/americans-commemorate-the-third-anniversary-of-the-september-11-2001-attacks-u-s-president-george-bush-and-first-lady-laura-bush-observ.md)
-_Context: First Lady, George W. Bush, Laura Bush, September 11, 2001, attacks, U.S. President, White House_
+_Context: First Lady, George W. Bush, Laura Bush, President, September 11, 2001, attacks, White House_
 
 ## [Previous Day...](/news/2004/09/10/index.md)
 

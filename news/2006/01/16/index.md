@@ -29,7 +29,7 @@ _Context: Geoff Gallop, Premier, depression_
 
 ##### U.S. Vice President
 ### [ Former US Vice President Al Gore blasts President George W. Bush's policy of spying on American citizen conversations with suspected overseas terrorists, saying President Bush "repeatedly and persistently" broke the law in connection with the NSA warrantless surveillance controversy, says the United States Constitution is in danger. ](/news/2006/01/16/former-us-vice-president-al-gore-blasts-president-george-w-bush-s-policy-of-spying-on-american-citizen-conversations-with-suspected-overse.md)
-_Context: Al Gore, George W. Bush, U.S. President, U.S. Vice President, United States Constitution, warrantless wiretapping_
+_Context: Al Gore, George W. Bush, President, U.S. Vice President, United States Constitution, warrantless wiretapping_
 
 ##### Dockworker
 ### [ A dockworkers' strike in Europe has thousands of workers off the job in protest over proposed liberalization of European Union rules on port services. A demonstration outside the European Parliament in Strasbourg leaves twelve French police officers injured. ](/news/2006/01/16/a-dockworkers-strike-in-europe-has-thousands-of-workers-off-the-job-in-protest-over-proposed-liberalization-of-european-union-rules-on-por.md)
@@ -43,9 +43,9 @@ _Context: Niger, United Nations, West Africa_
 ### [ Rizgar Mohammed Amin, the chief judge in the Saddam Hussein trial, tenders his resignation, following criticism of his handling of the trial. ](/news/2006/01/16/rizgar-mohammed-amin-the-chief-judge-in-the-saddam-hussein-trial-tenders-his-resignation-following-criticism-of-his-handling-of-the-tria.md)
 _Context: Rizgar Mohammed Amin, Saddam Hussein, Trials of Saddam Hussein_
 
-##### U.S. President
+##### President
 ### [ Former United States President Gerald Ford is hospitalized with pneumonia. ](/news/2006/01/16/former-united-states-president-gerald-ford-is-hospitalized-with-pneumonia.md)
-_Context: Gerald Ford, U.S. President, pneumonia_
+_Context: Gerald Ford, President, pneumonia_
 
 ## [Previous Day...](/news/2006/01/15/index.md)
 

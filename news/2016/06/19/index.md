@@ -3,7 +3,7 @@ Formats: [HTML](2016/06/19/index.html)  [JSON](2016/06/19/index.json)  [XML](201
 
 ## [2016-06-19](/news/2016/06/19/index.md)
 
-##### Chinese
+##### China
 ### [Thousands of people are reported to have spontaneously marched in southern China's village of Wukan in Guangdong province over the arrest of the village's democratically elected leader, 70-year-old Lin Zuluan, who had been planning meetings and protests about corruption, illegal land grabs, and the government's failure to return land to the people, per the 2011 agreement. ](/news/2016/06/19/thousands-of-people-are-reported-to-have-spontaneously-marched-in-southern-china-s-village-of-wukan-in-guangdong-province-over-the-arrest-of.md)
 Police have locked down a village in southern China to ward off fresh anti-corruption protests nearly five years after an uprising there made it an internationally known symbol of grass-roots defiance against the ruling Communist Party. 
 

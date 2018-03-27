@@ -33,7 +33,7 @@ An armed man was fatally shot by police after holding two people hostage in an A
 
 ##### European Union-Turkey relations
 ### [Hansjorg Haber, the European Union's top envoy to Turkey, resigns effective August. Omer Celik, Turkish Minister of European Union Affairs, had complained that Haber had shown disrespect for Turkey's national values, and for President Tayyip Erdogan. EU officials declined to comment on the reason for Haber's resignation. ](/news/2016/06/14/hansjaprg-haber-the-european-union-s-top-envoy-to-turkey-resigns-effective-august-amer-aelik-turkish-minister-of-european-union-affair.md)
-_Context: EU, European Union-Turkey relations, Minister of European Union Affairs, Omer Celik, Recep Tayyip Erdogan, Turkey_
+_Context: EU, European Union-Turkey relations, Minister of European Union Affairs, Omer Celik, Recep Tayyip Erdogan, Turkish_
 
 ##### Atka, Alaska
 ### [ Three fishermen are killed, and six others injured, during the crash of a van in Atka, Alaska, United States.](/news/2016/06/14/three-fishermen-are-killed-and-six-others-injured-during-the-crash-of-a-van-in-atka-alaska-united-states.md)

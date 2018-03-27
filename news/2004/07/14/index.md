@@ -3,9 +3,9 @@ Formats: [HTML](2004/07/14/index.html)  [JSON](2004/07/14/index.json)  [XML](200
 
 ## [2004-07-14](/news/2004/07/14/index.md)
 
-##### Turkey
+##### Turkish
 ### [ A Turkish court orders a retrial of four Kurdish former members of parliament who were jailed in 1994. They have been accused of supporting separatism and for making speeches in Kurdish. ](/news/2004/07/14/a-turkish-court-orders-a-retrial-of-four-kurdish-former-members-of-parliament-who-were-jailed-in-1994-they-have-been-accused-of-supporting.md)
-_Context: Kurdish, Turkey_
+_Context: Kurdish, Turkish_
 
 ##### U.S. Securities and Exchange Commission
 ### [ By a 3-to-2 vote, the U.S. Securities and Exchange Commission proposes requiring the registration of hedge funds (investment pools restricted to high-net-worth individuals and institutions). Although many hedge funds are already registered, that has thus far been voluntary. ](/news/2004/07/14/by-a-3-to-2-vote-the-u-s-securities-and-exchange-commission-proposes-requiring-the-registration-of-hedge-funds-investment-pools-restrict.md)

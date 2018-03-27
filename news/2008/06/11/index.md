@@ -23,7 +23,7 @@ _Context: House of Councillors, Japan, Japanese Prime Minister, World War II, Ya
 ### [ The British House of Commons considers anti-terrorism legislation extending the period of preventive detention to 42 days with a close vote expected due to a backbench revolt in the Labour Party. The House eventually passes the bill by 315 votes to 306. ](/news/2008/06/11/the-british-house-of-commons-considers-anti-terrorism-legislation-extending-the-period-of-preventive-detention-to-42-days-with-a-close-vote.md)
 _Context: British House of Commons, Labour Party, anti-terrorism legislation, backbench, preventive detention_
 
-##### U.S. President
+##### President
 ### [ President George W. Bush says that he wants to solve the Iran issue peacefully but "all options are on the table" in a joint media conference with the Chancellor of Germany Angela Merkel. ](/news/2008/06/11/president-george-w-bush-says-that-he-wants-to-solve-the-iran-issue-peacefully-but-all-options-are-on-the-table-in-a-joint-media-conferen.md)
 President George W. Bush said on Wednesday he wants to solve the Iran issue peacefully but reiterated that all options are on the table.
 

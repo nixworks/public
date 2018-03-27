@@ -37,7 +37,7 @@ Illinois officials admit they were caught off-guard by the wave of Legionnaires&
 
 ##### World Health Organization
 ### [The World Health Organization urges Ukraine's health ministry to declare a state of emergency due to a polio outbreak, a move meant to prompt more action from the government in Kiev. Half of Ukraine's children have not been vaccinated against polio, according to Dorit Nitzan, head of the WHO's office in Ukraine. ](/news/2015/12/1/the-world-health-organization-urges-ukraine-s-health-ministry-to-declare-a-state-of-emergency-due-to-a-polio-outbreak-a-move-meant-to-promp.md)
-_Context: Kiev, Ukrainian, World Health Organization, health ministry, polio outbreak, states of emergency, vaccinated against polio_
+_Context: Kiev, Ukraine, World Health Organization, health ministry, polio outbreak, states of emergency, vaccinated against polio_
 
 ##### Indonesia AirAsia Flight 8501
 ### [Indonesia releases a report into the crash of AirAsia Flight 8501 by the National Transportation Safety Committee. The report finds that crew error was responsible for the crash that claimed 162 lives. ](/news/2015/12/1/indonesia-releases-a-report-into-the-crash-of-airasia-flight-8501-by-the-national-transportation-safety-committee-the-report-finds-that-cre.md)

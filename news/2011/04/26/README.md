@@ -71,9 +71,9 @@ _Context: Black River, Missouri, Poplar Bluff_
 ### [President of Colombia Juan Manuel Santos calls for national unity after floods kill 91 people. ](/news/2011/04/26/president-of-colombia-juan-manuel-santos-calls-for-national-unity-after-floods-kill-91-people.md)
 _Context: Colombian President, Juan Manuel Santos_
 
-##### Ukrainian
+##### Ukraine
 ### [Ukraine commemorates the 25th anniversary of the Chernobyl disaster. ](/news/2011/04/26/ukraine-commemorates-the-25th-anniversary-of-the-chernobyl-disaster.md)
-_Context: Chernobyl disaster, Ukrainian_
+_Context: Chernobyl disaster, Ukraine_
 
 ##### Greece
 ### [Greece's budget deficit for 2010 is 10.5% of gross domestic product, significantly higher than expected. ](/news/2011/04/26/greece-s-budget-deficit-for-2010-is-10-5-of-gross-domestic-product-significantly-higher-than-expected.md)

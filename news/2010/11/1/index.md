@@ -49,13 +49,13 @@ Shareholders of Washington Mutual Inc are &quot;highly unlikely&quot; to recover
 
 ##### India
 ### [India and China help boost Asian shares outside Japan by 1.7%. ](/news/2010/11/1/india-and-china-help-boost-asian-shares-outside-japan-by-1-7.md)
-_Context: Chinese, India, Japan_
+_Context: China, India, Japan_
 
 ##### China
 ### [The People's Republic of China begins its first census in ten years. ](/news/2010/11/1/the-people-s-republic-of-china-begins-its-first-census-in-ten-years.md)
 China begins its first national census in 10 years as it tries to document its 1.3 billion-strong population.
 
-##### Turkey
+##### Turkish
 ### [A Turkish film wins the Best Documentary award at the Thanet International Film Festival in the United Kingdom. ](/news/2010/11/1/a-turkish-film-wins-the-best-documentary-award-at-the-thanet-international-film-festival-in-the-united-kingdom.md)
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews
 
@@ -77,7 +77,7 @@ BAGHDAD - An al Qaeda attack that killed 52 hostages and police in a Catholic ch
 
 ##### PKK
 ### [The rebel Kurdistan Workers' Party (PKK) in Turkey announces it will extend a truce until elections next year. ](/news/2010/11/1/the-rebel-kurdistan-workers-party-pkk-in-turkey-announces-it-will-extend-a-truce-until-elections-next-year.md)
-_Context: PKK, Turkey_
+_Context: PKK, Turkish_
 
 ##### Gyles Mackrell
 ### [Photographs, diaries and footage of Gyles Mackrell's rescue of refugees from the Japanese invasion of Burma in World War II are made available. ](/news/2010/11/1/photographs-diaries-and-footage-of-gyles-mackrell-s-rescue-of-refugees-from-the-japanese-invasion-of-burma-in-world-war-ii-are-made-availab.md)

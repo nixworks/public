@@ -9,7 +9,7 @@ John G. Roberts Jr., appearing before a Senate panel considering his nomination 
 
 ##### President
 ### [ President of the People's Republic of China Hu Jintao meets with U.S. President George W. Bush at the United Nations during the Leaders' Gathering in honor of the 60th Anniversary of the UN's founding. ](/news/2005/09/13/president-of-the-people-s-republic-of-china-hu-jintao-meets-with-u-s-president-george-w-bush-at-the-united-nations-during-the-leaders-ga.md)
-_Context: China, George W. Bush, Hu Jintao, U.S. President, United Nations, president_
+_Context: China, George W. Bush, Hu Jintao, President, United Nations, president_
 
 ##### Sony
 ### [ Sony recalls 3.5 million faulty PlayStation 2 power adapters. ](/news/2005/09/13/sony-recalls-3-5-million-faulty-playstation-2-power-adapters.md)

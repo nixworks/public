@@ -9,7 +9,7 @@ Pope Francis holds relics thought to belong to the apostle during mass at St Pet
 
 ##### Kiev
 ### [More than 100,000 people protest in Kiev, Ukraine, against the decision of Viktor Yanukovych's government to suspend preparations for signing of the association agreement with the European Union under pressure from Russia. ](/news/2013/11/24/more-than-100-000-people-protest-in-kiev-ukraine-against-the-decision-of-viktor-yanukovych-s-government-to-suspend-preparations-for-signin.md)
-_Context: EU, Kiev, Russia, Ukraine-European Union relations, Ukrainian, Viktor Yanukovych_
+_Context: EU, Kiev, Russia, Ukraine, Ukraine-European Union relations, Viktor Yanukovych_
 
 ##### Mali
 ### [Votes in Mali go to the polls for the first round of parliamentary elections with reports of low voter turnout and abuses. ](/news/2013/11/24/votes-in-mali-go-to-the-polls-for-the-first-round-of-parliamentary-elections-with-reports-of-low-voter-turnout-and-abuses.md)

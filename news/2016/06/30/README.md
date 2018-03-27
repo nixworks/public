@@ -49,7 +49,7 @@ A Palestinian fatally stabbed a 13-year-old Israeli girl in her bedroom in a set
 
 ##### 2016 Istanbul airport attack
 ### [A Turkish official reports the three suspected Islamic State suicide bombers who killed 44 people and wounded 238 others were Russian, Uzbek, and Kyrgyz nationals. ](/news/2016/06/30/a-turkish-official-reports-the-three-suspected-islamic-state-suicide-bombers-who-killed-44-people-and-wounded-238-others-were-russian-uzbek.md)
-_Context: 2016 Istanbul airport attack, ISIL, Kyrgyzstan, Russia, Turkey, Uzbekistan_
+_Context: 2016 Istanbul airport attack, ISIL, Kyrgyzstan, Russia, Turkish, Uzbekistan_
 
 ##### Iraqi Civil War (2014-present)
 ### [According to reports, at least 250 ISIL militants were killed during fighting in the city of Fallujah while fighting Iraqi Army forces with assistance from U.S. airstrikes. ](/news/2016/06/30/according-to-reports-at-least-250-isil-militants-were-killed-during-fighting-in-the-city-of-fallujah-while-fighting-iraqi-army-forces-with.md)

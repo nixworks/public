@@ -21,7 +21,7 @@ _Context: Leon Panetta, United States, United States Secretary of Defense, marit
 
 ##### Japan
 ### [Japan's ambassador designate to China, Shinichi Nishimiya, dies after suddenly collapsing outside his home in Tokyo on Thursday. ](/news/2012/09/16/japan-s-ambassador-designate-to-china-shinichi-nishimiya-dies-after-suddenly-collapsing-outside-his-home-in-tokyo-on-thursday.md)
-_Context: Chinese, Japan, Tokyo_
+_Context: China, Japan, Tokyo_
 
 ##### Panasonic
 ### [Anti-Japan protesters in China ransack Japanese businesses; set fire to a Panasonic plant in Qingdao. ](/news/2012/09/16/anti-japan-protesters-in-china-ransack-japanese-businesses-set-fire-to-a-panasonic-plant-in-qingdao.md)

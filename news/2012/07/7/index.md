@@ -55,9 +55,9 @@ A severe flood warning remains in place for part of south-west England, followin
 ### [Up to 13 million in West Africa are at risk in a food crisis caused by a prolonged drought. ](/news/2012/07/7/up-to-13-million-in-west-africa-are-at-risk-in-a-food-crisis-caused-by-a-prolonged-drought.md)
 Cereal production has fallen by as much as 62 per cent in some countries. 
 
-##### Ukrainian
+##### Ukraine
 ### [A bus crash in northeastern Ukraine kills at least 14 Russian pilgrims. ](/news/2012/07/7/a-bus-crash-in-northeastern-ukraine-kills-at-least-14-russian-pilgrims.md)
-_Context: Russia, Ukrainian_
+_Context: Russia, Ukraine_
 
 ##### Floods
 ### [More than 140 people are killed after torrential rains leading to heavy floods sweep through parts of the south Russian Krasnodar region. ](/news/2012/07/7/more-than-140-people-are-killed-after-torrential-rains-leading-to-heavy-floods-sweep-through-parts-of-the-south-russian-krasnodar-region.md)

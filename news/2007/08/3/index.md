@@ -15,9 +15,9 @@ _Context: African Union, Darfur, Tanzania, United Nations_
 ### [ The Supreme Court of Pakistan frees Javed Hashmi, the leader of the Alliance for the Restoration of Democracy and Pakistan Muslim League faction leader, who was jailed in 2003 for writing a letter critical of the President of Pakistan Pervez Musharraf. ](/news/2007/08/3/the-supreme-court-of-pakistan-frees-javed-hashmi-the-leader-of-the-alliance-for-the-restoration-of-democracy-and-pakistan-muslim-league-fa.md)
 _Context: Javed Hashmi, Pakistan Muslim League, Pervez Musharraf, Supreme Court, president_
 
-##### Turkey
+##### Turkish
 ### [ Turkey's two largest cities, Ankara and Istanbul, struggle with water shortages with Ankara rationing water to two days on, two days off as a result of having 5% left in their reservoirs. ](/news/2007/08/3/turkey-s-two-largest-cities-ankara-and-istanbul-struggle-with-water-shortages-with-ankara-rationing-water-to-two-days-on-two-days-off-as.md)
-_Context: Ankara, Istanbul, Turkey, rationing water, reservoirs_
+_Context: Ankara, Istanbul, Turkish, rationing water, reservoirs_
 
 ##### 2007 South Asian floods
 ### [ 2007 South Asian floods: Monsoon floods make millions homeless in India, Nepal and Bangladesh with a death toll of 145 in India and 65 in Bangladesh. ](/news/2007/08/3/2007-south-asian-floods-monsoon-floods-make-millions-homeless-in-india-nepal-and-bangladesh-with-a-death-toll-of-145-in-india-and-65-in-b.md)
@@ -67,9 +67,9 @@ The US Senate has voted to extend the power of intelligence agents to eavesdrop 
 ### [ The United States Congress allocates $250 million to rebuild the I-35W Mississippi River bridge in Minneapolis, Minnesota. ](/news/2007/08/3/the-united-states-congress-allocates-250-million-to-rebuild-the-i-35w-mississippi-river-bridge-in-minneapolis-minnesota.md)
 _Context: Congress, I-35W Mississippi River bridge, Minneapolis, US$_
 
-##### U.S. President
+##### President
 ### [ US President George W. Bush signs a bill to implement recommendations of the 9-11 Commission. ](/news/2007/08/3/us-president-george-w-bush-signs-a-bill-to-implement-recommendations-of-the-9-11-commission.md)
-_Context: 9-11 Commission, George W. Bush, U.S. President_
+_Context: 9-11 Commission, George W. Bush, President_
 
 ##### Governor of California
 ### [ The Governor of California Arnold Schwarzenegger declares a state of emergency in Santa Barbara County, California with hundreds of people ordered to evacuate due to wildfire. ](/news/2007/08/3/the-governor-of-california-arnold-schwarzenegger-declares-a-state-of-emergency-in-santa-barbara-county-california-with-hundreds-of-people.md)

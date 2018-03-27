@@ -23,7 +23,7 @@ _Context: Guangdong, Huang Yizhong, Jiangmen, pornography_
 ### [Australian Senator John Faulkner and Doctor Wayne Mapp attend a ceremony in Gallipoli to commemorate dead ANZAC and Turkish soldiers, laying wreaths at several locations. ](/news/2010/02/7/australian-senator-john-faulkner-and-doctor-wayne-mapp-attend-a-ceremony-in-gallipoli-to-commemorate-dead-anzac-and-turkish-soldiers-laying.md)
 Defence Minister John Faulkner has joined his New Zealand counterpart Dr Wayne Mapp at a Gallipoli ceremony honouring fallen ANZAC and Turkish soldiers.
 
-##### Ukrainian
+##### Ukraine
 ### [Voters in Ukraine go to the polls in the second round of the country's presidential election. ](/news/2010/02/7/voters-in-ukraine-go-to-the-polls-in-the-second-round-of-the-country-s-presidential-election.md)
 Analysts expect a close runoff to be followed by demonstrations and legal manoeuvring.
 

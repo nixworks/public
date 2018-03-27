@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/03/2/just-two-days-before-u-s-president-george-w-bush
 
 ### [2006-03-2](/news/2006/03/2/index.md)
 
-##### U.S. President
+##### President
 #  Just two days before U.S. President George W. Bush is scheduled to visit Pakistan, a car bomb exploded in the Marriott Hotel Karachi parking lot adjacent to a United States consulate in Karachi, killing at least four people including a US diplomat and his driver and injuring at least fifty others. 
 
 

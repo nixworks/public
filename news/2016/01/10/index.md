@@ -53,7 +53,7 @@ At least five people have been killed in a missile strike on a Medecins Sans Fro
 
 ##### PKK rebellion (2015-present)
 ### [Turkish security forces kill at least 32 Kurdistan Workers' Party (PKK) militants over the weekend, in military operations across the embattled Kurdish-majority southeast. ](/news/2016/01/10/turkish-security-forces-kill-at-least-32-kurdistan-workers-party-pkk-militants-over-the-weekend-in-military-operations-across-the-embatt.md)
-_Context: Kurdish, PKK, PKK rebellion (2015-present), Turkey, Turkish troops_
+_Context: Kurdish, PKK, PKK rebellion (2015-present), Turkish, Turkish troops_
 
 ## [Previous Day...](/news/2016/01/9/index.md)
 

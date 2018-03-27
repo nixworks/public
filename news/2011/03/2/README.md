@@ -19,9 +19,9 @@ _Context: Daniel Akaka, Democrat, Hawaii, Senator, United States Senate election
 ### [The South Dakota Senate passes a bill requiring additional steps to provide informed consent before a woman can have an abortion. ](/news/2011/03/2/the-south-dakota-senate-passes-a-bill-requiring-additional-steps-to-provide-informed-consent-before-a-woman-can-have-an-abortion.md)
 After a long and emotional debate, the South Dakota Senate on Wednesday approved a bill requiring additional steps to provide informed consent before a woman can have an abortion.
 
-##### U.S. President
+##### President
 ### [The President of the United States Barack Obama signs a bill preventing a shutdown of the United States government for another two weeks. ](/news/2011/03/2/the-president-of-the-united-states-barack-obama-signs-a-bill-preventing-a-shutdown-of-the-united-states-government-for-another-two-weeks.md)
-_Context: Barack Obama, U.S. President, United States government_
+_Context: Barack Obama, President, United States government_
 
 ##### Senate
 ### [The Wisconsin Senate votes to fine missing Democrats $100 a day for their absence during the 2011 Wisconsin protests. ](/news/2011/03/2/the-wisconsin-senate-votes-to-fine-missing-democrats-100-a-day-for-their-absence-during-the-2011-wisconsin-protests.md)

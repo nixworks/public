@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/10/1/the-national-transportation-safety-board-reports
 
 ### [2008-10-1](/news/2008/10/1/index.md)
 
-##### NTSB
+##### National Transportation Safety Board
 #  The National Transportation Safety Board reports that a Metrolink engineer sent a text message 22 seconds before the Chatsworth train collision in Los Angeles, California, that killed 25 people. 
 
 

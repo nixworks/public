@@ -11,9 +11,9 @@ _Context: E. coli, E. coli blamed for 46 deaths_
 ### [The New Jersey General Assembly passes a bill overhauling the health and pension benefits of public employees. ](/news/2011/06/23/the-new-jersey-general-assembly-passes-a-bill-overhauling-the-health-and-pension-benefits-of-public-employees.md)
 After three hours of debate, the bill overhauling public worker pension and benefits passed 46-32 
 
-##### U.S. President
+##### President
 ### [The President of the United States Barack Obama states that gay and lesbian couples "deserve the same legal rights as every other couple in this country" at a function for LGBT people in New York City. ](/news/2011/06/23/the-president-of-the-united-states-barack-obama-states-that-gay-and-lesbian-couples-deserve-the-same-legal-rights-as-every-other-couple-in.md)
-_Context: Barack Obama, New York City, U.S. President, transgender_
+_Context: Barack Obama, New York City, President, transgender_
 
 ##### Levi Bellfield
 ### [Levi Bellfield &ndash; three years into a life sentence for the murder of two young women and the attempted murder of a third &ndash; is found guilty of the 2002 murder of Milly Dowler in Surrey, United Kingdom. ](/news/2011/06/23/levi-bellfield-ndash-three-years-into-a-life-sentence-for-the-murder-of-two-young-women-and-the-attempted-murder-of-a-third-ndash-is-fou.md)
@@ -105,7 +105,7 @@ Noam Schalit asks why it took Israeli governments five years to make move; Hamas
 
 ##### French
 ### [France announces plans to withdraw troops from Afghanistan in a similar timeframe to that announced for United States forces by President Barack Obama yesterday. ](/news/2011/06/23/france-announces-plans-to-withdraw-troops-from-afghanistan-in-a-similar-timeframe-to-that-announced-for-united-states-forces-by-president-ba.md)
-_Context: Afghanistan, Barack Obama, French, U.S. President, United States_
+_Context: Afghanistan, Barack Obama, French, President, United States_
 
 ##### 2010-2011 Senegal protests
 ### [2010-2011 Senegal protests: Thousands of people gather outside parliament in Dakar to protest changes to the constitution and are dispersed with tear gas and rubber bullets by riot police. ](/news/2011/06/23/2010a2011-senegal-protests-thousands-of-people-gather-outside-parliament-in-dakar-to-protest-changes-to-the-constitution-and-are-disperse.md)

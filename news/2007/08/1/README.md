@@ -19,7 +19,7 @@ _Context: Canary Islands', Gran Canaria, Jose Luis Rodriguez Zapatero, Prime Min
 ### [ The US House of Representatives passes a resolution to lift travel restrictions on Taiwan's president and other high-level officials visiting the United States. ](/news/2007/08/1/the-us-house-of-representatives-passes-a-resolution-to-lift-travel-restrictions-on-taiwan-s-president-and-other-high-level-officials-visiti.md)
 The House of Representatives passed a resolution Monday that recommends the lifting of restrictions on Taiwan’s president and other high-level officials visiting the United States.
 
-##### Chinese
+##### China
 ### [ Sixty-nine Chinese coal miners are rescued from the Zhijian Mine in Henan province. ](/news/2007/08/1/sixty-nine-chinese-coal-miners-are-rescued-from-the-zhijian-mine-in-henan-province.md)
 Authorities in China say rescuers have pulled out 69 coal miners alive, ending a terrifying three-day ordeal in which the trapped men survived on milk and pumped-in oxygen.
 
@@ -67,9 +67,9 @@ Canadian researchers said the body of a nameless child who died aboard the Titan
 ### [ The bridge carrying Interstate 35W in Minneapolis, Minnesota, collapses into the Mississippi River late in the afternoon rush hour, killing thirteen and injuring hundreds. ](/news/2007/08/1/the-bridge-carrying-interstate-35w-in-minneapolis-minnesota-collapses-into-the-mississippi-river-late-in-the-afternoon-rush-hour-killing.md)
 Follow the StarTribune for the news, photos and videos from the Twin Cities and beyond.
 
-##### U.S. President
+##### President
 ### [ The President of the United States George W. Bush orders senior adviser Karl Rove not to testify before a United States Senate committee on the Dismissal of U.S. attorneys controversy. ](/news/2007/08/1/the-president-of-the-united-states-george-w-bush-orders-senior-adviser-karl-rove-not-to-testify-before-a-united-states-senate-committee-on.md)
-_Context: George W. Bush, Karl Rove, Senate, U.S. President, firings_
+_Context: George W. Bush, Karl Rove, President, Senate, firings_
 
 ##### New Zealand
 ### [ New Zealand launches its first commercially available biofuel, which consists of 90 percent petrol and 10 percent bioethanol made from cows' milk. ](/news/2007/08/1/new-zealand-launches-its-first-commercially-available-biofuel-which-consists-of-90-percent-petrol-and-10-percent-bioethanol-made-from-cows.md)

@@ -21,7 +21,7 @@ _Context: Adama Barrow, Gambian presidential election, 2016, President of Gambia
 
 ##### Presidential transition of Donald Trump
 ### [ Donald Trump requests Gary Cohn, chief operating officer of investment bank Goldman Sachs, to join his administration as chair of the White House National Economic Council. ](/news/2016/12/9/donald-trump-requests-gary-cohn-chief-operating-officer-of-investment-bank-goldman-sachs-to-join-his-administration-as-chair-of-the-white.md)
-_Context: Donald Trump, Gary Cohn, Goldman Sachs, Presidential transition of Donald Trump, White House National Economic Council_
+_Context: Gary Cohn, Goldman Sachs, Presidential transition of Donald Trump, Trump, White House National Economic Council_
 
 ##### Beijing
 ### [Pro-Beijing Hong Kong leader CY Leung says he will quit after his term ends. ](/news/2016/12/9/pro-beijing-hong-kong-leader-cy-leung-says-he-will-quit-after-his-term-ends.md)

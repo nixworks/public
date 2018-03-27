@@ -13,7 +13,7 @@ _Context: Anti-corruption campaign in China, Central Commission for Discipline I
 
 ##### PKK rebellion (2015-present)
 ### [Twelve Turkish academics are detained for signing a declaration opposing military action against Kurdistan Workers Party forces in southeast Turkey. ](/news/2016/01/15/twelve-turkish-academics-are-detained-for-signing-a-declaration-opposing-military-action-against-kurdistan-workers-party-forces-in-southeast.md)
-_Context: Kurdistan Workers Party, PKK rebellion (2015-present), Turkey, Turkish_
+_Context: Kurdistan Workers Party, PKK rebellion (2015-present), Turkish, Turkish_
 
 ##### Kosovo War
 ### [A special court is set up at The Hague to try Kosovo Liberation Army suspects for alleged war crimes against ethnic minorities and political opponents. ](/news/2016/01/15/a-special-court-is-set-up-at-the-hague-to-try-kosovo-liberation-army-suspects-for-alleged-war-crimes-against-ethnic-minorities-and-political.md)
@@ -67,7 +67,7 @@ _Context: 2016 Atlantic hurricane season, Azores, Hurricane Alex_
 ### [A tour bus carrying skiers runs off the road in Japan's Nagano Prefecture with at least 14 people dead and injuring another 27. ](/news/2016/01/15/a-tour-bus-carrying-skiers-runs-off-the-road-in-japan-s-nagano-prefecture-with-at-least-14-people-dead-and-injuring-another-27.md)
 At least 14 people were killed after a bus carrying skiers flipped over a guardrail after veering off a mountain road in central Japan. Twenty seven people, many in their 20s, were injured.
 
-##### Chinese
+##### China
 ### [China's Haier Group buys General Electric's appliance unit for $5.4 billion. ](/news/2016/01/15/china-s-haier-group-buys-general-electric-s-appliance-unit-for-5-4-billion.md)
 China’s Haier Group agreed to buy General Electric Co.’s appliance business for $5.4 billion in the country’s biggest acquisition of an overseas electronics company.
 

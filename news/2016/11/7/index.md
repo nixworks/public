@@ -5,7 +5,7 @@ Formats: [HTML](2016/11/7/index.html)  [JSON](2016/11/7/index.json)  [XML](2016/
 
 #####  Georgian
 ### [Former Georgian president Mikhail Saakashvili resigns as governor of the Ukrainian region of Odessa, citing corruption in Odessa as the main reason. ](/news/2016/11/7/former-georgian-president-mikhail-saakashvili-resigns-as-governor-of-the-ukrainian-region-of-odessa-citing-corruption-in-odessa-as-the-main.md)
-_Context:  Georgian, Mikhail Saakashvili, Odessa, Ukrainian_
+_Context:  Georgian, Mikhail Saakashvili, Odessa, Ukraine_
 
 ##### Leila de Lima
 ### [Filipino senator Leila de Lima files a lawsuit against Philippine president Rodrigo Duterte in the country's Supreme Court seeking to stop the president from gathering, and making public, information about her private life. ](/news/2016/11/7/filipino-senator-leila-de-lima-files-a-lawsuit-against-philippine-president-rodrigo-duterte-in-the-country-s-supreme-court-seeking-to-stop-t.md)

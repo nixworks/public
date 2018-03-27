@@ -31,7 +31,7 @@ Glenn Mulcaire, the private investigator at the centre of phone-hacking claims, 
 ### [Ajmal Kasab, the last surviving gunman from the 2008 Mumbai terrorist attacks, launches an appeal against his death sentence in India. ](/news/2011/07/29/ajmal-kasab-the-last-surviving-gunman-from-the-2008-mumbai-terrorist-attacks-launches-an-appeal-against-his-death-sentence-in-india.md)
 _Context: 2008 Mumbai terrorist attacks, Ajmal Kasab, India_
 
-##### Turkey
+##### Turkish
 ### [The Chief of the armed forces along with the heads of the army, navy and air force all resign in Turkey. ](/news/2011/07/29/the-chief-of-the-armed-forces-along-with-the-heads-of-the-army-navy-and-air-force-all-resign-in-turkey.md)
 The chief of the Turkish armed forces, Isik Kosaner, resigns along with the heads of the army, navy and air force.
 
@@ -45,7 +45,7 @@ The African Union (AU) has admitted South Sudan as its 54th member, marking anot
 
 ##### Coal mine
 ### [At least twenty coal miners are killed and seventeen are missing following two accidents in the Ukraine. ](/news/2011/07/29/at-least-twenty-coal-miners-are-killed-and-seventeen-are-missing-following-two-accidents-in-the-ukraine.md)
-_Context: Ukrainian, coal mine, two accidents_
+_Context: Ukraine, coal mine, two accidents_
 
 ##### Prime Minister
 ### [The Prime Minister of South Korea, Kim Hwang-sik, calls for an overhaul of disaster management following the death of 59 people in floods and landslides caused by heavy rain in recent days. ](/news/2011/07/29/the-prime-minister-of-south-korea-kim-hwang-sik-calls-for-an-overhaul-of-disaster-management-following-the-death-of-59-people-in-floods-an.md)

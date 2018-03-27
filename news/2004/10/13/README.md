@@ -11,7 +11,7 @@ Local insurgents in the city of Fallujah are turning against the foreign fighter
 ### [ The British Foreign Minister Jack Straw comments on Israeli actions in the Gaza Strip, saying that the United Kingdom "unreservedly condemns all acts of terrorism including the firing of Qassam rockets", but that "Israel has an obligation under international law to ensure that its response to terrorism is proportionate to the threat it faces, as well as a duty to avoid innocent civilian casualties", and that "&#91;Israel&#93; is not meeting those obligations". ](/news/2004/10/13/the-british-foreign-minister-jack-straw-comments-on-israeli-actions-in-the-gaza-strip-saying-that-the-united-kingdom-unreservedly-condemn.md)
 _Context: Foreign Minister, Gaza Strip, Israel, Israeli-Palestinian conflict, Jack Straw, Qassam rocket, terrorism_
 
-##### U.S. President
+##### President
 ### [ U.S. presidential debates: US President George W. Bush and challenger Senator John Kerry meet at Arizona State University in Tempe, Arizona, for the last of three U.S. presidential debates. ](/news/2004/10/13/u-s-presidential-debates-us-president-george-w-bush-and-challenger-senator-john-kerry-meet-at-arizona-state-university-in-tempe-arizona.md)
 Get up to the minute breaking political news and in-depth analysis on ABCNews.com.
 

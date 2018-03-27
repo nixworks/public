@@ -9,7 +9,7 @@ _Context: Duke of Lancaster's Regiment, Iraq, United Kingdom, corporal, court ma
 
 ##### Controversial speech
 ### [ Pope Benedict XVI Islam controversy: In Ankara, protesters demand that the Justice Ministry arrest the Pope upon his arrival in Turkey, should he go ahead with his planned visit there in November. ](/news/2006/09/19/pope-benedict-xvi-islam-controversy-in-ankara-protesters-demand-that-the-justice-ministry-arrest-the-pope-upon-his-arrival-in-turkey-sho.md)
-_Context: Ankara, Turkey, controversial speech_
+_Context: Ankara, Turkish, controversial speech_
 
 ##### Crowds of about 1,000 demonstrators
 ### [ 2006 protests in Hungary: demonstrations continue in Hungary peacefully to enforce the resignation of the Gyurcsny-government. The demonstrators expressed their regret on the vandalism done at the Hungarian Television's headquarters last night. In the meantime, farmers announced that they will close roads in the countryside and around Budapest. ](/news/2006/09/19/2006-protests-in-hungary-demonstrations-continue-in-hungary-peacefully-to-enforce-the-resignation-of-the-gyurcsany-government-the-demonst.md)

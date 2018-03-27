@@ -13,7 +13,7 @@ _Context: Boeing, cut_
 
 ##### United States
 ### [ The U.S. National Transportation Safety Board prepares its final report on the 2007 collision between two news helicopters in Phoenix, Arizona. ](/news/2009/01/28/the-u-s-national-transportation-safety-board-prepares-its-final-report-on-the-2007-collision-between-two-news-helicopters-in-phoenix-ariz.md)
-_Context: 2007, Arizona, NTSB, Phoenix, Arizona, United States, collision, helicopter_
+_Context: 2007, Arizona, National Transportation Safety Board, Phoenix, Arizona, United States, collision, helicopter_
 
 ##### Army
 ### [ The Army kills at least 300 and wounds at least 300 Tamil people in Mullaitivu District. ](/news/2009/01/28/the-army-kills-at-least-300-and-wounds-at-least-300-tamil-people-in-mullaitivu-district.md)

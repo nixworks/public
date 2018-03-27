@@ -25,7 +25,7 @@ _Context: Deputy Agriculture Minister-designate, Politics of Zimbabwe, Roy Benne
 
 ##### Pope
 ### [ Pope Benedict XVI acknowledges mistakes in rescinding Bishop Richard Williamson's excommunication for Holocaust denial. ](/news/2009/03/12/pope-benedict-xvi-acknowledges-mistakes-in-rescinding-bishop-richard-williamson-s-excommunication-for-holocaust-denial.md)
-_Context: Bishop, Holocaust, Holocaust denial, Pope, Pope Benedict XVI, Richard Williamson, excommunicate_
+_Context: Bishop, Holocaust denial, Holocaust survivor, Pope, Pope Benedict XVI, Richard Williamson, excommunicate_
 
 ##### National Semiconductor
 ### [ National Semiconductor will cut 1,725 jobs. ](/news/2009/03/12/national-semiconductor-will-cut-1-725-jobs.md)
@@ -33,7 +33,7 @@ _Context: National Semiconductor, cut_
 
 ##### Iraq
 ### [ Iraqi journalist Muntadhar al-Zaidi is sentenced to three years in prison for throwing shoes at then-United States President George W. Bush. ](/news/2009/03/12/iraqi-journalist-muntadhar-al-zaidi-is-sentenced-to-three-years-in-prison-for-throwing-shoes-at-then-united-states-president-george-w-bush.md)
-_Context: George W. Bush, Iraq, Muntadhar al-Zaidi, U.S. President, United States, throws a shoe_
+_Context: George W. Bush, Iraq, Muntadhar al-Zaidi, President, United States, throws a shoe_
 
 ##### China
 ### [ China's retail sales have increased 15.2% in 2009. ](/news/2009/03/12/china-s-retail-sales-have-increased-15-2-in-2009.md)

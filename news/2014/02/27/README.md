@@ -9,7 +9,7 @@ _Context: Kepler telescope, planet_
 
 ##### Crimean referendum, 2014
 ### [The Autonomous Republic of Crimea has announced that it plans to hold a referendum for independence the same day as the elections in Ukraine. ](/news/2014/02/27/the-autonomous-republic-of-crimea-has-announced-that-it-plans-to-hold-a-referendum-for-independence-the-same-day-as-the-elections-in-ukraine.md)
-_Context: Autonomous Republic of Crimea, Crimean referendum, 2014, Ukrainian_
+_Context: Autonomous Republic of Crimea, Crimean referendum, 2014, Ukraine_
 
 ##### 2013-14 Thai political crisis
 ### [The National Anti-Corruption Commission summon the Prime Minister of Thailand Yingluck Shinawatra to face charges of allegedly mishandling a rice subsidy program as her supporters block access to the building. ](/news/2014/02/27/the-national-anti-corruption-commission-summon-the-prime-minister-of-thailand-yingluck-shinawatra-to-face-charges-of-allegedly-mishandling-a.md)

@@ -9,7 +9,7 @@ Formats: [HTML](2016/06/24/index.html)  [JSON](2016/06/24/index.json)  [XML](201
 
 ##### Nickel
 ### [The price of nickel is expected to skyrocket after the incoming Philippine government appoints an anti-mining bureaucrat Gina Lopez to the national cabinet. The Philippines is the biggest exporter of nickel to China. ](/news/2016/06/24/the-price-of-nickel-is-expected-to-skyrocket-after-the-incoming-philippine-government-appoints-an-anti-mining-bureaucrat-gina-lopez-to-the-n.md)
-_Context: Chinese, Gina Lopez, cabinet, nickel_
+_Context: China, Gina Lopez, cabinet, nickel_
 
 ##### European Union membership referendum
 ### [The United Kingdom votes, 52% to 48%, to leave the European Union. Prime Minister David Cameron, who called the referendum three years ago, announces his resignation indicating he will leave office by October. ](/news/2016/06/24/the-united-kingdom-votes-52-to-48-to-leave-the-european-union-prime-minister-david-cameron-who-called-the-referendum-three-years-ago.md)

@@ -7,7 +7,7 @@ Formats: [HTML](2014/09/16/index.html)  [JSON](2014/09/16/index.json)  [XML](201
 ### [Russian billionaire Vladimir Yevtushenkov is placed under house arrest for alleged money laundering. ](/news/2014/09/16/russian-billionaire-vladimir-yevtushenkov-is-placed-under-house-arrest-for-alleged-money-laundering.md)
 _Context: Russian, Vladimir Yevtushenkov, money laundering_
 
-##### Ukrainian
+##### Ukraine
 ### [Lawmakers from Ukraine ratify a landmark agreement with the European Union in tandem with a meeting of the European Parliament. ](/news/2014/09/16/lawmakers-from-ukraine-ratify-a-landmark-agreement-with-the-european-union-in-tandem-with-a-meeting-of-the-european-parliament.md)
 Ukrainian MPs and the European Parliament are set to ratify a key EU association pact criticised by Russia.
 

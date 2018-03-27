@@ -7,9 +7,9 @@ Formats: [HTML](2007/02/3/index.html)  [JSON](2007/02/3/index.json)  [XML](2007/
 ### [ American football: Michael Irvin, Thurman Thomas, Gene Hickerson, Bruce Matthews, Charlie Sanders and Roger Wehrli are selected for induction into the Pro Football Hall of Fame. ](/news/2007/02/3/american-football-michael-irvin-thurman-thomas-gene-hickerson-bruce-matthews-charlie-sanders-and-roger-wehrli-are-selected-for-inducti.md)
 Gene Hickerson, Michael Irvin, Bruce Matthews, Charlie Sanders, Thurman Thomas and Roger Wehrli were voted into the Pro Football Hall of Fame on Saturday.
 
-##### Orange snow
+##### Similar event occured
 ### [ Russia investigates smelly orange snow, oily to touch, which has fallen across an area of 1500 square kilometres in the Omsk region of the country. ](/news/2007/02/3/russia-investigates-smelly-orange-snow-oily-to-touch-which-has-fallen-across-an-area-of-1500-square-kilometres-in-the-omsk-region-of-the.md)
-_Context: Omsk, oil, orange snow_
+_Context: Omsk, oil, similar event occured_
 
 ##### Stranded in train stations
 ### [ The Spring Festival travel season in China begins, in which 156 million passengers will travel by train, and 2 billion bus trips are expected. ](/news/2007/02/3/the-spring-festival-travel-season-in-china-begins-in-which-156-million-passengers-will-travel-by-train-and-2-billion-bus-trips-are-expect.md)

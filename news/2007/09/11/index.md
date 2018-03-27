@@ -27,7 +27,7 @@ _Context: Philippines_
 ### [ OPEC meets to discuss proposals for a minor increase in oil output proposed by Saudi Arabia and other Gulf states. The meeting decided to increase output by 500,000 barrels a day.](/news/2007/09/11/opec-meets-to-discuss-proposals-for-a-minor-increase-in-oil-output-proposed-by-saudi-arabia-and-other-gulf-states-the-meeting-decided-to-i.md)
 _Context: OPEC, Saudi Arabia_
 
-##### Turkey
+##### Turkish
 ### [ Turkish police foil a bomb attack in Ankara. ](/news/2007/09/11/turkish-police-foil-a-bomb-attack-in-ankara.md)
 Turkish police foiled a bomb attack in Ankara on Tuesday, the sixth anniversary of 9/11 attacks on the United States, averting what officials said would have been a disaster for the capital.
 
@@ -71,9 +71,9 @@ _Context: Madeleine McCann's disappearance, Portugal_
 ### [ Burger King announces that it would limit advertising to children younger than 12 to foods that meet strict nutritional guidelines. ](/news/2007/09/11/burger-king-announces-that-it-would-limit-advertising-to-children-younger-than-12-to-foods-that-meet-strict-nutritional-guidelines.md)
 Fast-food chain Burger King Holdings Inc said on Tuesday that, beginning late next year, it will limit advertising aimed at children younger than 12 to food and drinks that meet strict nutritional guidelines.
 
-##### Chinese
+##### China
 ### [ Chinese and US safety officials sign an agreement banning the export of toys with lead paint to the United States. ](/news/2007/09/11/chinese-and-us-safety-officials-sign-an-agreement-banning-the-export-of-toys-with-lead-paint-to-the-united-states.md)
-_Context: Chinese, United States, lead paint, toy_
+_Context: China, United States, lead paint, toy_
 
 ##### Bruce Golding
 ### [ Bruce Golding is sworn in as Prime Minister of Jamaica following the victory of his Jamaica Labour Party in the parliamentary elections. ](/news/2007/09/11/bruce-golding-is-sworn-in-as-prime-minister-of-jamaica-following-the-victory-of-his-jamaica-labour-party-in-the-parliamentary-elections.md)

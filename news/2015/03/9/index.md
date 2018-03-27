@@ -27,9 +27,9 @@ A 40-year-old man described as a social misfit is being questioned by Japanese p
 ### [The U.S.'s Federal Bureau of Investigation (FBI) Director, James Comey, announces an increased reward of $5 million (up from $1 million, issued in 2012) for information leading to the return of a former FBI agent Robert Levinson (who disappeared March 9, 2007, in Iran and who was paid by the Central Intelligence Agency (CIA) to gather information about Iran's nuclear program). ](/news/2015/03/9/the-u-s-s-federal-bureau-of-investigation-fbi-director-james-comey-announces-an-increased-reward-of-5-million-up-from-1-million-iss.md)
 _Context: CIA, Director of the Federal Bureau of Investigation, FBI, Iran, James Comey, Robert Levinson_
 
-##### U.S. President
+##### President
 ### [U.S. President Barack Obama signs an executive order declaring Venezuela a national security threat to the U.S. ](/news/2015/03/9/u-s-president-barack-obama-signs-an-executive-order-declaring-venezuela-a-national-security-threat-to-the-u-s.md)
-_Context: Barack Obama, U.S. President, Venezuela, executive order_
+_Context: Barack Obama, President, Venezuela, executive order_
 
 ##### British
 ### [Celebrity British lawyer Amal Clooney files a case in the United Nations on behalf of former Philippines President Gloria Macapagal-Arroyo. ](/news/2015/03/9/celebrity-british-lawyer-amal-clooney-files-a-case-in-the-united-nations-on-behalf-of-former-philippines-president-gloria-macapagal-arroyo.md)

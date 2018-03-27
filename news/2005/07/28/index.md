@@ -33,7 +33,7 @@ _Context: fatwa, religious extremism, terrorism_
 
 ##### United States House of Representatives
 ### [ In the United States, the House of Representatives approves the Dominican Republic-Central America Free Trade Agreement, 217-215, sending the approved treaty to President George W. Bush. ](/news/2005/07/28/in-the-united-states-the-house-of-representatives-approves-the-dominican-republic-central-america-free-trade-agreement-217-215-sending-t.md)
-_Context: Dominican Republic-Central America Free Trade Agreement, George W. Bush, U.S. President, United States House of Representatives_
+_Context: Dominican Republic-Central America Free Trade Agreement, George W. Bush, President, United States House of Representatives_
 
 ##### Lal Krishna Advani
 ### [ In India, Lal Krishna Advani of the Bharatiya Janata Party and seven others are charged with inciting riots in Ayodhya in 1992 ](/news/2005/07/28/in-india-lal-krishna-advani-of-the-bharatiya-janata-party-and-seven-others-are-charged-with-inciting-riots-in-ayodhya-in-1992.md)

@@ -13,7 +13,7 @@ Israeli Interior Minister Silvan Shalom, the subject of sexual harassment allega
 
 ##### 2016 U.S. election
 ### [South Carolina Senator Lindsey Graham ends his campaign for the Republican Party nomination for President. During his campaign he has failed to poll above single digits nationally or in the early voting states. ](/news/2015/12/21/south-carolina-senator-lindsey-graham-ends-his-campaign-for-the-republican-party-nomination-for-president-during-his-campaign-he-has-failed.md)
-_Context: 2016 U.S. election, Lindsey Graham, Republican, Republican Party presidential candidates, 2016, Senate, South Carolina, U.S. President_
+_Context: 2016 U.S. election, Lindsey Graham, President, Republican, Republican Party presidential candidates, 2016, Senate, South Carolina_
 
 ##### Election
 ### [In Sunday's elections, Spain's center-right ruling People's Party (PP) wins 123 seats (35.1%), and the center-left Socialist Workers' Party (PSOE) takes 90 (25.7%) of the 350 seats in parliament, thereby ending Spain's two-party system since neither major party won an absolute majority. Turnout was 73 percent. Spain's new political forces, Podemos and Ciudadanos (C's), get 69 and 40 seats, respectively. Smaller parties split the remaining 28 seats, 17 to Catalonia parties which favor secession. It appears that a coalition government will be necessary. PSOE has declined to join the PP, which actually doesn't want that either. King Felipe, who ascended the throne in June 2014, is constitutionally empowered to mediate. ](/news/2015/12/21/in-sunday-s-elections-spain-s-center-right-ruling-people-s-party-pp-wins-123-seats-35-1-and-the-center-left-socialist-workers-party.md)

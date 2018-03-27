@@ -45,7 +45,7 @@ _Context: Cap-Hatien, Haiti_
 
 ##### National Mall
 ### [Tens of thousands of people gather on the National Mall in Washington, D.C., United States to support President Barack Obama in his bid to overhaul the country's immigration laws. ](/news/2010/03/21/tens-of-thousands-of-people-gather-on-the-national-mall-in-washington-d-c-united-states-to-support-president-barack-obama-in-his-bid-to-o.md)
-_Context: Barack Obama, National Mall, U.S. President, United States, Washington, D.C._
+_Context: Barack Obama, National Mall, President, United States, Washington, D.C._
 
 ##### Nicolas Sarkozy
 ### [French President Sarkozy's UMP party is heavily defeated in regional elections. ](/news/2010/03/21/french-president-sarkozy-s-ump-party-is-heavily-defeated-in-regional-elections.md)

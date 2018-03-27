@@ -19,7 +19,7 @@ _Context: Afghanistan, Kalosha, Pakistan, South Waziristan, militant, rocket_
 
 ##### Explosion
 ### [ A large explosion hits a shopping mall in Waukegan, Illinois. ](/news/2008/02/28/a-large-explosion-hits-a-shopping-mall-in-waukegan-illinois.md)
-_Context: Waukegan, Illinois, explosion, shopping center_
+_Context: Waukegan, Illinois, explosion, shopping centre_
 
 ##### FBI
 ### [ The Federal Bureau of Investigation will review a denial by baseball star Roger Clemens that he ever used steroids or human growth hormone. ](/news/2008/02/28/the-federal-bureau-of-investigation-will-review-a-denial-by-baseball-star-roger-clemens-that-he-ever-used-steroids-or-human-growth-hormone.md)

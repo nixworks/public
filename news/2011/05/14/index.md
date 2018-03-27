@@ -47,7 +47,7 @@ They busted the dike, and the water poured through -- slowly.
 ### [A worker at the Fukushima power plant dies while working on crisis-fighting operations. ](/news/2011/05/14/a-worker-at-the-fukushima-power-plant-dies-while-working-on-crisis-fighting-operations.md)
 A worker died after collapsing at a facility in the crippled Fukushima Daiichi nuclear power plant in Japan, its owner said Saturday. 
 
-##### U.S. President
+##### President
 ### [President of the United States Barack Obama uses his weekly address to vow to seek oil in Alaska and in the Gulf of Mexico. ](/news/2011/05/14/president-of-the-united-states-barack-obama-uses-his-weekly-address-to-vow-to-seek-oil-in-alaska-and-in-the-gulf-of-mexico.md)
 The US will grant new leases to drill for oil in Alaska and the Gulf of Mexico to try to boost output and cap fuel prices, President Obama says.
 
@@ -75,9 +75,9 @@ _Context: Indian Army, Kashmir, Pakistan Army_
 ### [Gunmen kill a United Nations driver in Ethiopia's Ogaden region. ](/news/2011/05/14/gunmen-kill-a-united-nations-driver-in-ethiopia-s-ogaden-region.md)
 _Context: Ethiopia, Ogaden, United Nations_
 
-##### Turkey
+##### Turkish
 ### [Turkey requests that Israel pass on the names and addresses of the soldiers who raided a Gaza-bound flotilla, killing nine Turks last May. ](/news/2011/05/14/turkey-requests-that-israel-pass-on-the-names-and-addresses-of-the-soldiers-who-raided-a-gaza-bound-flotilla-killing-nine-turks-last-may.md)
-_Context: Gaza flotilla raid, Israel, Turkey_
+_Context: Gaza flotilla raid, Israel, Turkish_
 
 ##### Jerusalem
 ### [There are clashes in east Jerusalem ahead of "Nakba Day" commemorations, with Palestinians being arrested by Israeli police. ](/news/2011/05/14/there-are-clashes-in-east-jerusalem-ahead-of-nakba-day-commemorations-with-palestinians-being-arrested-by-israeli-police.md)

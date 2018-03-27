@@ -33,7 +33,7 @@ _Context: EU, Paris, People's Mujahedin of Iran, terrorist organisation_
 
 ##### Guizhou
 ### [ Thousands of people riot in Guizhou province in southern China following the death of a girl and a perceived government coverup. ](/news/2008/06/28/thousands-of-people-riot-in-guizhou-province-in-southern-china-following-the-death-of-a-girl-and-a-perceived-government-coverup.md)
-_Context: Chinese, Guizhou_
+_Context: China, Guizhou_
 
 ##### Los Angeles Dodgers
 ### [ The Los Angeles Dodgers become only the fifth team in modern major league baseball history to win a game in which they didn't get a hit, defeating the Anaheim Angels 1-0. ](/news/2008/06/28/the-los-angeles-dodgers-become-only-the-fifth-team-in-modern-major-league-baseball-history-to-win-a-game-in-which-they-didn-t-get-a-hit-de.md)

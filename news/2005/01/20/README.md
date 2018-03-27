@@ -27,9 +27,9 @@ _Context: Brazil, Colombia, Rodrigo Granda, Venezuela_
 ### [ President of Guinea Lansana Cont survives an apparent assassination attempt. ](/news/2005/01/20/president-of-guinea-lansana-conte-survives-an-apparent-assassination-attempt.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
-##### Ukrainian
+##### Ukraine
 ### [ In Ukraine, the Supreme Court dismisses prime minister Viktor Yanukovych's appeal and confirms that Viktor Yushchenko has won the presidential election. ](/news/2005/01/20/in-ukraine-the-supreme-court-dismisses-prime-minister-viktor-yanukovych-s-appeal-and-confirms-that-viktor-yushchenko-has-won-the-president.md)
-_Context: Ukrainian, Viktor Yanukovych, Viktor Yushchenko_
+_Context: Ukraine, Viktor Yanukovych, Viktor Yushchenko_
 
 ##### Irish
 ### [ The Republic of Ireland, one of the last countries to use non-metric speed limits, officially changes all road signage and regulations to use kilometres per hour (km-h). Speed limits in Northern Ireland remain in miles per hour (mph). ](/news/2005/01/20/the-republic-of-ireland-one-of-the-last-countries-to-use-non-metric-speed-limits-officially-changes-all-road-signage-and-regulations-to-u.md)

@@ -7,7 +7,7 @@ Formats: [HTML](2014/04/11/index.html)  [JSON](2014/04/11/index.json)  [XML](201
 ### [Astronomers, for the first time, discover a moon orbiting around an exoplanet. ](/news/2014/04/11/astronomers-for-the-first-time-discover-a-moon-orbiting-around-an-exoplanet.md)
 _Context: Astronomers, exoplanet_
 
-##### U.S. President
+##### President
 ### [President of the United States Barack Obama nominates Sylvia Mathews Burwell to be the next United States Secretary of Health and Human Services to replace the resigning Kathleen Sebelius. ](/news/2014/04/11/president-of-the-united-states-barack-obama-nominates-sylvia-mathews-burwell-to-be-the-next-united-states-secretary-of-health-and-human-serv.md)
 President Barack Obama said on Friday he will promote budget director Sylvia Mathews Burwell to be his next health secretary, who will preside over the next difficult phase of his healthcare law in the months before November congressional elections.
 

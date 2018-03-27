@@ -5,7 +5,7 @@ Formats: [HTML](2009/08/31/index.html)  [JSON](2009/08/31/index.json)  [XML](200
 
 ##### Armenia
 ### [ Armenia and Turkey agree to establish diplomatic relations. ](/news/2009/08/31/armenia-and-turkey-agree-to-establish-diplomatic-relations.md)
-_Context: Armenia, Turkey, diplomatic relations_
+_Context: Armenia, Turkish, diplomatic relations_
 
 ##### Jason Mraz
 ### [ Jason Mraz's "I'm Yours" becomes the longest running single in the Billboard Hot 100's history at 71 weeks on the chart. ](/news/2009/08/31/jason-mraz-s-i-m-yours-becomes-the-longest-running-single-in-the-billboard-hot-100-s-history-at-71-weeks-on-the-chart.md)

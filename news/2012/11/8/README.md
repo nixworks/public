@@ -3,7 +3,7 @@ Formats: [HTML](2012/11/8/index.html)  [JSON](2012/11/8/index.json)  [XML](2012/
 
 ## [2012-11-8](/news/2012/11/8/index.md)
 
-##### U.S. President
+##### President
 ### [ U.S. President Barack Obama announces his intention to visit Burma later this month, which would make him the first U.S. President to visit the country. ](/news/2012/11/8/u-s-president-barack-obama-announces-his-intention-to-visit-burma-later-this-month-which-would-make-him-the-first-u-s-president-to-visit.md)
 Fresh from his election victory, Barack Obama will this month become the first US president to visit Burma, as part of a three-leg tour.
 

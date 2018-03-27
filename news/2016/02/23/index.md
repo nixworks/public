@@ -7,9 +7,9 @@ Formats: [HTML](2016/02/23/index.html)  [JSON](2016/02/23/index.json)  [XML](201
 ### [Republican Party voters, in precinct gatherings, hold the Nevada caucuses with Donald Trump winning, Marco Rubio coming second, and Ted Cruz finishing in third place. ](/news/2016/02/23/republican-party-voters-in-precinct-gatherings-hold-the-nevada-caucuses-with-donald-trump-winning-marco-rubio-coming-second-and-ted-cruz.md)
 Republicans brace for the Nevada caucus Tuesday, while South Carolina Democrats vote for their presidential nominee on Saturday.
 
-##### U.S. President
+##### President
 ### [The President of the United States Barack Obama announces plans to close the Guantanamo Bay detention camp in Cuba. Obama made similar statements during his first presidential campaign in 2007 and had previously stated that the camp would be closed by 2010. ](/news/2016/02/23/the-president-of-the-united-states-barack-obama-announces-plans-to-close-the-guantanamo-bay-detention-camp-in-cuba-obama-made-similar-state.md)
-_Context: Barack Obama, Cuba, Guantanamo Bay detention camp, U.S. President_
+_Context: Barack Obama, Cuba, Guantanamo Bay detention camp, President_
 
 ##### South China Sea disputes
 ### [China reportedly deploys several J-11 and Xian JH-7 fighter jets to the disputed Woody Island in the South China Sea. ](/news/2016/02/23/china-reportedly-deploys-several-j-11-and-xian-jh-7-fighter-jets-to-the-disputed-woody-island-in-the-south-china-sea.md)

@@ -49,7 +49,7 @@ _Context: Qantas Airways, flight attendant, voluntary redundancies_
 
 ##### Barack Obama
 ### [Barack Obama, the President of the United States, announces the sale of the US government's stake in Chrysler to Italian automaker Fiat at a visit to a plant at Toledo, Ohio. ](/news/2011/06/3/barack-obama-the-president-of-the-united-states-announces-the-sale-of-the-us-government-s-stake-in-chrysler-to-italian-automaker-fiat-at-a.md)
-_Context: Barack Obama, Chrysler, Fiat, Italian, Ohio, Toledo, U.S. President, United States Government_
+_Context: Barack Obama, Chrysler, Fiat, Italian, Ohio, President, Toledo, United States Government_
 
 ##### Greek prime minister
 ### [Greek prime minister, George Papandreou presents a plan for further austerity-measure privatizations in return for more international aid to avoid defaulting on its debt following a 110 billion Euro bailout last year that has so far failed to resolve the Greek economic crisis; Greece's main labor unions have called for a general strike on June 15. ](/news/2011/06/3/greek-prime-minister-george-papandreou-presents-a-plan-for-further-austerity-measure-privatizations-in-return-for-more-international-aid-to.md)

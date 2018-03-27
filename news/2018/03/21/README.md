@@ -59,7 +59,7 @@ The Public Order and Safety (Special Powers) Act aims to reduce the risk of secu
 ### [Polish Foreign Minister Jacek Czaputowicz accuses the European Union of "double standards" and of suffering "a deficit of democracy". Poland and the European Commission are engaged in disputes over migrant quotas and proposed reform of Poland's judiciary. ](/news/2018/03/21/polish-foreign-minister-jacek-czaputowicz-accuses-the-european-union-of-double-standards-and-of-suffering-a-deficit-of-democracy-poland.md)
 There is a &#39;deficit of democracy in the European Union&#39;, the foreign minister said.
 
-##### Poisoning of Sergei and Yulia Skripal
+##### Attempted murder
 ### [Russia holds a briefing on the case for all foreign diplomats in Moscow, where it accuses the United Kingdom of withholding evidence. ](/news/2018/03/21/russia-holds-a-briefing-on-the-case-for-all-foreign-diplomats-in-moscow-where-it-accuses-the-united-kingdom-of-withholding-evidence.md)
 British diplomat attending Moscow briefing to foreign ambassadors condemns its ‘disinformation’
 

@@ -5,7 +5,7 @@ Formats: [HTML](2015/12/17/index.html)  [JSON](2015/12/17/index.json)  [XML](201
 
 ##### Russia
 ### [ Russian President Vladimir Putin calls U.S. Republican presidential candidate Donald Trump, "a very colorful person. Talented, without any doubt" as well as an "absolute leader" in the race for the presidency. ](/news/2015/12/17/russian-president-vladimir-putin-calls-u-s-republican-presidential-candidate-donald-trump-a-very-colorful-person-talented-without-any.md)
-_Context: 2016 Trump campaign, Donald Trump, President of Russia, Republican, Russia, United States, Vladimir Putin_
+_Context: 2016 Trump campaign, President of Russia, Republican, Russia, Trump, United States, Vladimir Putin_
 
 ##### War in Afghanistan
 ### [ "The New York Times" reports the U.S. Navy covered up a Naval Criminal Investigative Service (NCIS) report on Afghan detainee abuses. The NCIS investigation found that Navy SEAL Team 2's abuse resulted in the death of a 24-year old married Afghan detainee with a new baby, and that the SEALs failed to restrain the Afghan Local Police's detainee abuses. This drove some previously cooperative Afghans to leave for Taliban-controlled areas, the "Times" reports. Their commander in Afghanistan recommended these men be forced out of the elite SEAL teams. Two of the SEALs and their lieutenant have since been promoted. Rachel E. VanLandingham, former United States Central Command's chief legal adviser on detainee and interrogation issues from 2006 to 2010, and other military lawyers, have called for the case to be reopened. ](/news/2015/12/17/the-new-york-times-reports-the-u-s-navy-covered-up-a-naval-criminal-investigative-service-ncis-report-on-afghan-detainee-abuses-the-n.md)
@@ -35,7 +35,7 @@ _Context: Afghanistan, Kenya, Nairobi, World Trade Organization, least developed
 ### [ The United Nations Security Council unanimously adopts a resolution aimed at disrupting revenue the Islamic State gets from oil sales, ransom payments, and other criminal activities. ](/news/2015/12/17/the-united-nations-security-council-unanimously-adopts-a-resolution-aimed-at-disrupting-revenue-the-islamic-state-gets-from-oil-sales-rans.md)
 Finance ministers from the UN Security Council on Thursday unanimously backed a resolution aimed at ramping up sanctions against the Islamic State group and cutting off its revenue flows. US Treasury Secretary Jacob Lew led the council&#x27;s first-ever meeting of finance ministers, shoring up a maj...
 
-##### Chinese
+##### China
 ### [ China summons Kaye Lee, the U.S. deputy chief of mission in Beijing, to protest Washington's announcement that it is selling two warships to Taiwan as part of a $1.83 billion arms deal. U.S. state department spokesman John Kirby says the sale is consistent with the 1979 Taiwan Relations Act while Chinese Vice-Foreign Minister Zheng Zequang threatens to impose sanctions on U.S. firms because the proposed sale "severely damaged China's sovereignty and security interests." ](/news/2015/12/17/china-summons-kaye-lee-the-u-s-deputy-chief-of-mission-in-beijing-to-protest-washington-s-announcement-that-it-is-selling-two-warships-t.md)
 China summoned a U.S. envoy and threatened to impose sanctions on U.S. firms after Washington announced it would sell $1.83 billion of arms to Taiwan.
 

@@ -29,7 +29,7 @@ _Context: Florida, Mark Foley, Republican, United States House of Representative
 
 ##### Al Qaeda
 ### [ A tape of senior Al Qaeda figure Ayman al-Zawahiri is released in which he brands US President George W. Bush a "lying failure" over the war on terror. He goes on to condemn Pope Benedict XVI as an "impostor" for his recent controversial speech and labels Roman Catholicism a religion "made of myths". ](/news/2006/09/29/a-tape-of-senior-al-qaeda-figure-ayman-al-zawahiri-is-released-in-which-he-brands-us-president-george-w-bush-a-lying-failure-over-the-wa.md)
-_Context: Al Qaeda, Ayman al-Zawahiri, George W. Bush, Pope Benedict XVI, Roman Catholic Church, U.S. President, controversial speech, war on terror_
+_Context: Al Qaeda, Ayman al-Zawahiri, George W. Bush, Pope Benedict XVI, President, Roman Catholic Church, controversial speech, war on terror_
 
 ##### Gol Transportes Areos
 ### [ Gol Transportes Areos Flight 1907 with 155 passengers onboard collides with a smaller jet in midair, 470 miles south of Manaus, Brazil. The Boeing 737-800 wreckage has been found by FAB near Peixoto de Azevedo ](/news/2006/09/29/gol-transportes-aereos-flight-1907-with-155-passengers-onboard-collides-with-a-smaller-jet-in-midair-470-miles-south-of-manaus-brazil-th.md)

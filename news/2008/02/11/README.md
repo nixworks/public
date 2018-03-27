@@ -5,7 +5,7 @@ Formats: [HTML](2008/02/11/index.html)  [JSON](2008/02/11/index.json)  [XML](200
 
 ##### Gregg Bergersen
 ### [ Gregg Bergersen, a United States Defense Department Analyst, is arrested and charged with espionage after being accused of leaking American military secrets to the Chinese government. ](/news/2008/02/11/gregg-bergersen-a-united-states-defense-department-analyst-is-arrested-and-charged-with-espionage-after-being-accused-of-leaking-american.md)
-_Context: Chinese, Gregg Bergersen, U.S. military, United States, espionage_
+_Context: China, Gregg Bergersen, U.S. military, United States, espionage_
 
 ##### The Singapore Flyer
 ### [ The Singapore Flyer, the largest Ferris wheel in the world (30 meters higher than London Eye), starts to turn. ](/news/2008/02/11/the-singapore-flyer-the-largest-ferris-wheel-in-the-world-30-meters-higher-than-london-eye-starts-to-turn.md)

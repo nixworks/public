@@ -3,7 +3,7 @@ Formats: [HTML](2012/12/16/index.html)  [JSON](2012/12/16/index.json)  [XML](201
 
 ## [2012-12-16](/news/2012/12/16/index.md)
 
-##### Chinese
+##### China
 ### [Scientists report Chinese deep-space probe Chang'e 2 successfully took a series of images of the asteroid 4179 Toutatis during flyby on 13 December. ](/news/2012/12/16/scientists-report-chinese-deep-space-probe-chang-e-2-successfully-took-a-series-of-images-of-the-asteroid-4179-toutatis-during-flyby-on-13-d.md)
 The closest fly-by was at 08:30:09 UTC on December 13 at an altitude of just 3.2 km and at a relative velocity of 10.73 km/s. Quite a few photos were snapped by the CCD camera - including this series of photos taken 93 - 240 km away from Toutatis:
 

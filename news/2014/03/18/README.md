@@ -23,7 +23,7 @@ The Seattle Fire Department said in addition to the fatalities, a 37-year-old ma
 ### [The Rolling Stones postpone their tours of Australia and New Zealand following the death of Mick Jagger's girlfriend L'Wren Scott. ](/news/2014/03/18/the-rolling-stones-postpone-their-tours-of-australia-and-new-zealand-following-the-death-of-mick-jagger-s-girlfriend-l-wren-scott.md)
 _Context: Australia, L'Wren Scott, Mick Jagger, New Zealand, Rolling Stones_
 
-##### U.S. President
+##### President
 ### [President of the United States Barack Obama presents the Medal of Honor to 24 veterans, all of whom served in the Vietnam War, World War II and the Korean War. ](/news/2014/03/18/president-of-the-united-states-barack-obama-presents-the-medal-of-honor-to-24-veterans-all-of-whom-served-in-the-vietnam-war-world-war-ii.md)
 Get up to the minute breaking political news and in-depth analysis on ABCNews.com.
 

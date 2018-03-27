@@ -37,7 +37,7 @@ Latest development in six-month-long Qatar dispute throws future of Gulf Coopera
 
 ##### Positions on Jerusalem
 ### [Turkish President Recep Tayyip Erdogan tells Donald Trump that Turkey might cut ties with Israel if the United States unilaterally recognizes Jerusalem as its capital. ](/news/2017/12/5/turkish-president-recep-tayyip-erdoaan-tells-donald-trump-that-turkey-might-cut-ties-with-israel-if-the-united-states-unilaterally-recogniz.md)
-_Context: Donald Trump, Jerusalem, Positions on Jerusalem, Recep Tayyip Erdogan_
+_Context: Jerusalem, Positions on Jerusalem, Recep Tayyip Erdogan, Trump_
 
 ##### Meerbusch train crash
 ### [A passenger train runs into the rear of a freight train at Meerbusch, Germany. Forty-seven people are injured, three seriously.](/news/2017/12/5/a-passenger-train-runs-into-the-rear-of-a-freight-train-at-meerbusch-germany-forty-seven-people-are-injured-three-seriously.md)

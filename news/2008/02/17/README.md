@@ -15,9 +15,9 @@ _Context: Dow Jones, Executive Council, Securities Exchange Commission, Sir Davi
 ### [ Dozens of people are killed and dozens more injured as a bomb explodes in a dog fighting match in Kandahar, Afghanistan. ](/news/2008/02/17/dozens-of-people-are-killed-and-dozens-more-injured-as-a-bomb-explodes-in-a-dog-fighting-match-in-kandahar-afghanistan.md)
 _Context: Afghanistan, Kandahar, bomb explodes, dog fighting_
 
-##### U.S. President
+##### President
 ### [ President of the United States George W. Bush offers a $700 million aid package to Tanzania. ](/news/2008/02/17/president-of-the-united-states-george-w-bush-offers-a-700-million-aid-package-to-tanzania.md)
-_Context: George W. Bush, Tanzania, U.S. President, US$_
+_Context: George W. Bush, President, Tanzania, US$_
 
 ##### Kosovo
 ### [ The parliament of Kosovo declares independence from Serbia. ](/news/2008/02/17/the-parliament-of-kosovo-declares-independence-from-serbia.md)

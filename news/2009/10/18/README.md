@@ -55,9 +55,9 @@ _Context: Pakistan, South Waziristan, Taliban, ongoing offensive_
 ### [ A Rwandan doctor working in a French hospital is suspended after a nurse locates an Internet Interpol arrest warrant, accusing him of a 1994 "genocide, war crimes". ](/news/2009/10/18/a-rwandan-doctor-working-in-a-french-hospital-is-suspended-after-a-nurse-locates-an-internet-interpol-arrest-warrant-accusing-him-of-a-199.md)
 A Rwandan doctor working at a hospital in northern France is suspected of being a wanted war criminal, in a case that has puzzled French authorities.
 
-##### Ukrainian
+##### Ukraine
 ### [ Ukraine commences its first presidential election campaign since the 2004 Orange Revolution. ](/news/2009/10/18/ukraine-commences-its-first-presidential-election-campaign-since-the-2004-orange-revolution.md)
-_Context: Orange Revolution, Ukrainian, Ukrainian presidential election_
+_Context: Orange Revolution, Ukraine, Ukrainian presidential election_
 
 ##### Iraq
 ### [ Iraq accuses neighbouring countries of stealing sections of its national archives, including centuries-old documents. ](/news/2009/10/18/iraq-accuses-neighbouring-countries-of-stealing-sections-of-its-national-archives-including-centuries-old-documents.md)

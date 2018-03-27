@@ -3,7 +3,7 @@ Formats: [HTML](2014/05/28/index.html)  [JSON](2014/05/28/index.json)  [XML](201
 
 ## [2014-05-28](/news/2014/05/28/index.md)
 
-##### U.S. President
+##### President
 ### [US President Barack Obama announces a $5 billion "terrorism partnership fund" to help other countries tackle extremists. ](/news/2014/05/28/us-president-barack-obama-announces-a-5-billion-terrorism-partnership-fund-to-help-other-countries-tackle-extremists.md)
 President Barack Obama promises a US foreign policy based on &quot;collective action&quot; with allies abroad and funds to train allies to fight terrorism.
 
@@ -37,7 +37,7 @@ A major faction of the Pakistani Taliban announce their split from the organisat
 
 ##### Ramzan Kadyrov
 ### [Ramzan Kadyrov, Head of the Chechen Republic, insists he has not sent troops to Ukraine to fight alongside pro-Russia separatists. ](/news/2014/05/28/ramzan-kadyrov-head-of-the-chechen-republic-insists-he-has-not-sent-troops-to-ukraine-to-fight-alongside-pro-russia-separatists.md)
-_Context: Chechen Republic leader, Ramzan Kadyrov, Ukrainian_
+_Context: Chechen Republic leader, Ramzan Kadyrov, Ukraine_
 
 ##### Tunisia
 ### [Gunmen attack the home of Tunisia's top security official Lotfi Ben Jeddou resulting in the death of 4 police officers. ](/news/2014/05/28/gunmen-attack-the-home-of-tunisia-s-top-security-official-lotfi-ben-jeddou-resulting-in-the-death-of-4-police-officers.md)

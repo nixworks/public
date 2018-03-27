@@ -81,7 +81,7 @@ _Context: Afghanistan, British Army, Gerishk District, Helmand Province, United 
 
 ##### United States
 ### [ United States President Barack Obama nominates former Washington Governor Gary Locke to serve as the next Secretary of Commerce. ](/news/2009/02/25/united-states-president-barack-obama-nominates-former-washington-governor-gary-locke-to-serve-as-the-next-secretary-of-commerce.md)
-_Context: Barack Obama, Gary Locke, Governor, U.S. President, United States, United States Secretary of Commerce, Washington_
+_Context: Barack Obama, Gary Locke, Governor, President, United States, United States Secretary of Commerce, Washington_
 
 ##### United Nations
 ### [ The United Nations' Office for the Coordination of Humanitarian Affairs estimates that 15,000 refugees have fled from southern Darfur to the Zam Zam refugee camp in the north. ](/news/2009/02/25/the-united-nations-office-for-the-coordination-of-humanitarian-affairs-estimates-that-15-000-refugees-have-fled-from-southern-darfur-to-th.md)

@@ -7,7 +7,7 @@ Formats: [HTML](2007/07/10/index.html)  [JSON](2007/07/10/index.json)  [XML](200
 ### [ A Tamil man from Sydney is charged with multiple terrorism charges over alleged links with the Tamil Tigers. ](/news/2007/07/10/a-tamil-man-from-sydney-is-charged-with-multiple-terrorism-charges-over-alleged-links-with-the-tamil-tigers.md)
 _Context: Sri Lankan Tamil, Sydney, Tamil Tigers, terrorism_
 
-##### Chinese
+##### China
 ### [ China executes the former head of the State Food and Drug Association Zheng Xiaoyu for corruption. ](/news/2007/07/10/china-executes-the-former-head-of-the-state-food-and-drug-association-zheng-xiaoyu-for-corruption.md)
 China executed the former head of its State Food and Drug Administration on Tuesday, the official Xinhua News Agency reported.
 

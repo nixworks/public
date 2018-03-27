@@ -61,7 +61,7 @@ Thousands of workers have marched in Santiago against the economic policies of P
 
 ##### U.S. military
 ### [ The United States Department of Defense's inspector general launches an investigation into the United States military's inability to account for weapons sent to Iraq after reports that Kurdish militants were using US weapons to attack Turkey. ](/news/2007/08/29/the-united-states-department-of-defense-s-inspector-general-launches-an-investigation-into-the-united-states-military-s-inability-to-accoun.md)
-_Context: Iraq, Kurd, Turkey, U.S. military_
+_Context: Iraq, Kurd, Turkish, U.S. military_
 
 ##### Tim Johnson
 ### [ Senator Tim Johnson announces that he will return to the United States Senate on September 5 after recovering from brain surgery since last December. ](/news/2007/08/29/senator-tim-johnson-announces-that-he-will-return-to-the-united-states-senate-on-september-5-after-recovering-from-brain-surgery-since-last.md)

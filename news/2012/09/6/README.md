@@ -19,7 +19,7 @@ Time reports Pentagon radically cuts back number of troops, equipment slated to 
 
 ##### Sri Lanka
 ### [After Sri Lanka, Liang Guanglie leaves India for Laos. It has been the first visit to India of a Chinese Minister of Defence in eight years. ](/news/2012/09/6/after-sri-lanka-liang-guanglie-leaves-india-for-laos-it-has-been-the-first-visit-to-india-of-a-chinese-minister-of-defence-in-eight-years.md)
-_Context: Chinese, Chinese Defense Ministry, India, Laos, Liang Guanglie, Sri Lanka_
+_Context: China, Chinese Defense Ministry, India, Laos, Liang Guanglie, Sri Lanka_
 
 ##### Human Rights Watch
 ### [Human Rights Watch says it has evidence of more cases of waterboarding involving United States operatives. ](/news/2012/09/6/human-rights-watch-says-it-has-evidence-of-more-cases-of-waterboarding-involving-united-states-operatives.md)

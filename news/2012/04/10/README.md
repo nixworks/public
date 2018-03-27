@@ -7,7 +7,7 @@ Formats: [HTML](2012/04/10/index.html)  [JSON](2012/04/10/index.json)  [XML](201
 ### [An Egyptian court halts the creation of a constitutional assembly pending a ruling on its legality. ](/news/2012/04/10/an-egyptian-court-halts-the-creation-of-a-constitutional-assembly-pending-a-ruling-on-its-legality.md)
 _Context: Egypt_
 
-##### Chinese
+##### China
 ### [The Chinese Communist Party suspends the Politburo membership of former senior official Bo Xilai, while his wife Gu Kailai is named as a suspect in the murder of a British businessman. ](/news/2012/04/10/the-chinese-communist-party-suspends-the-politburo-membership-of-former-senior-official-bo-xilai-while-his-wife-gu-kailai-is-named-as-a-sus.md)
 The wife of Bo Xilai, who had been seen as one of the handful of rising leaders slated to run China, is being investigated in the killing of a businessman, Neil Heywood, last year.
 
@@ -31,9 +31,9 @@ _Context: Government of Malaysia, indefinite detention without trial_
 ### [The Costa Rican embassy's trade attache in Caracas, Venezuela is kidnapped. ](/news/2012/04/10/the-costa-rican-embassy-s-trade-attache-in-caracas-venezuela-is-kidnapped.md)
 _Context: Caracas, Costa Rica, Venezuela_
 
-##### Chinese
+##### China
 ### [Disabled Chinese land rights lawyer Ni Yulan and her husband are sentenced by a Beijing court a year after they were detained for fraud and "provoking trouble". ](/news/2012/04/10/disabled-chinese-land-rights-lawyer-ni-yulan-and-her-husband-are-sentenced-by-a-beijing-court-a-year-after-they-were-detained-for-fraud-and.md)
-_Context: Chinese, Ni Yulan_
+_Context: China, Ni Yulan_
 
 ##### Prime Minister
 ### [The Prime Minister of the United Kingdom David Cameron arrives in Japan for the first leg of an Asian visit. ](/news/2012/04/10/the-prime-minister-of-the-united-kingdom-david-cameron-arrives-in-japan-for-the-first-leg-of-an-asian-visit.md)

@@ -23,7 +23,7 @@ _Context: Metro-North Railroad, Spuyten Duyvil, The Bronx, derailment_
 ### [Syrian army helicopters bombard the northern rebel-held town of Al-Bab for a second day, killing 20 people. ](/news/2013/12/1/syrian-army-helicopters-bombard-the-northern-rebel-held-town-of-al-bab-for-a-second-day-killing-20-people.md)
 Syrian army helicopters bombarded the northern rebel-held town of Al-Bab for a second day on Sunday, killing 20 people including four women when they dropped improvised barrel bombs on a market district, a monitoring group said.
 
-##### Ukrainian
+##### Ukraine
 ### [100,000 people continue their protest against president Yanukovych's decision to back away from stronger ties with the European Union. ](/news/2013/12/1/100-000-people-continue-their-protest-against-president-yanukovych-s-decision-to-back-away-from-stronger-ties-with-the-european-union.md)
 Casualties are reported in clashes as a massive rally is held in Kiev over a Ukraine government decision not to sign a deal on closer EU ties.
 

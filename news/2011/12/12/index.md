@@ -19,9 +19,9 @@ Canada will pull out of the Kyoto protocol on climate change, Environment Minist
 ### [A Chinese fishing boat captain allegedly stabs a Republic of Korea Coast Guard officer, killing him, after his boat is stopped for illegally fishing in South Korean waters. ](/news/2011/12/12/a-chinese-fishing-boat-captain-allegedly-stabs-a-republic-of-korea-coast-guard-officer-killing-him-after-his-boat-is-stopped-for-illegally.md)
 _Context: Chinese, Republic of Korea Coast Guard, South Korea, fishing boat, illegally fish_
 
-##### U.S. President
+##### President
 ### [United States President Barack Obama has asked Iran for the RQ-170 Sentinel that was captured near Kashmar on December 4. ](/news/2011/12/12/united-states-president-barack-obama-has-asked-iran-for-the-rq-170-sentinel-that-was-captured-near-kashmar-on-december-4.md)
-_Context: Barack Obama, Iran, Kashmar, RQ-170 Sentinel, U.S. President, captured_
+_Context: Barack Obama, Iran, Kashmar, President, RQ-170 Sentinel, captured_
 
 ##### Credit rating
 ### [Credit rating agency Moody's in its weekly credit report dismisses the significance of last week's EU agreement, saying it "does not change our view that risks to the cohesion of the euro area continue to rise." ](/news/2011/12/12/credit-rating-agency-moody-s-in-its-weekly-credit-report-dismisses-the-significance-of-last-week-s-eu-agreement-saying-it-does-not-change.md)

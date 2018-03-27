@@ -5,7 +5,7 @@ Formats: [HTML](2016/07/15/index.html)  [JSON](2016/07/15/index.json)  [XML](201
 
 ##### Republican Party vice presidential candidate selection, 2016
 ### [Donald Trump chooses Indiana governor Mike Pence as his vice presidential running mate. ](/news/2016/07/15/donald-trump-chooses-indiana-governor-mike-pence-as-his-vice-presidential-running-mate.md)
-_Context: Donald Trump, Indiana, Mike Pence, Republican Party vice presidential candidate selection, 2016_
+_Context: Indiana, Mike Pence, Republican Party vice presidential candidate selection, 2016, Trump_
 
 ##### Ukrainian crisis
 ### [Russia is to deploy its advanced long range S-400 surface-to-air missile system to Feodosia in the Crimean Peninsula next month for the first time. ](/news/2016/07/15/russia-is-to-deploy-its-advanced-long-range-s-400-surface-to-air-missile-system-to-feodosia-in-the-crimean-peninsula-next-month-for-the-firs.md)

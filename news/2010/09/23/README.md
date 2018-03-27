@@ -31,9 +31,9 @@ _Context: Teresa Lewis, U.S, Virginia_
 ### [Chinese authorities investigate four Japanese employees of Fujita Corp., suspected of entering a military zone and illegally videotaping military targets in northern Hebei Province. ](/news/2010/09/23/chinese-authorities-investigate-four-japanese-employees-of-fujita-corp-suspected-of-entering-a-military-zone-and-illegally-videotaping-mil.md)
 China is investigating four Japanese who allegedly entered and filmed a Chinese military area, Chinese state media report.
 
-##### U.S. President
+##### President
 ### [The President of the United States Barack Obama meets with the Premier of China Wen Jiabao, with the value of the renminbi the top issue for discussion. ](/news/2010/09/23/the-president-of-the-united-states-barack-obama-meets-with-the-premier-of-china-wen-jiabao-with-the-value-of-the-renminbi-the-top-issue-for.md)
-_Context: Barack Obama, Premier of the People's Republic of China, U.S. President, Wen Jiabao, yuan_
+_Context: Barack Obama, Premier of the People's Republic of China, President, Wen Jiabao, yuan_
 
 ##### United States
 ### [The United States and other western nations including Britain, Sweden, Australia, Belgium, Uruguay and Spain walk out of the United Nations General Assembly following claims by the President of Iran Mahmoud Ahmadinejad that the "majority of the American people as well as most nations and politicians around the world" say that the 9-11 attacks were the work of the Government of the United States trying to protect Israel. ](/news/2010/09/23/the-united-states-and-other-western-nations-including-britain-sweden-australia-belgium-uruguay-and-spain-walk-out-of-the-united-nations.md)
@@ -59,9 +59,9 @@ Drivers distracted by talking or texting on cell phones killed an estimated 16,0
 ### [2010 Atlantic hurricane season: Tropical Storm Matthew forms in the western Caribbean Sea with predictions that it could hit Central America on Friday or Saturday. ](/news/2010/09/23/2010-atlantic-hurricane-season-tropical-storm-matthew-forms-in-the-western-caribbean-sea-with-predictions-that-it-could-hit-central-america.md)
 _Context: 2010 Atlantic hurricane season, Caribbean, Central America_
 
-##### Chinese
+##### China
 ### [The death toll in China from Typhoon Fanapi reaches 54 with dozens more people missing. ](/news/2010/09/23/the-death-toll-in-china-from-typhoon-fanapi-reaches-54-with-dozens-more-people-missing.md)
-_Context: Chinese, Typhoon Fanapi_
+_Context: China, Typhoon Fanapi_
 
 ##### Kayanza Province
 ### [At least six people die in a mine collapse in Kayanza Province, northern Burundi. ](/news/2010/09/23/at-least-six-people-die-in-a-mine-collapse-in-kayanza-province-northern-burundi.md)

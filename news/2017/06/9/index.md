@@ -5,7 +5,7 @@ Formats: [HTML](2017/06/9/index.html)  [JSON](2017/06/9/index.json)  [XML](2017/
 
 ##### James Comey Senate Intelligence Committee testimony
 ### [President Donald Trump claims that James Comey committed perjury during his testimony yesterday, and offers to give his own testimony, "under oath," refuting that he requested Comey to drop the Flynn investigation and that he had asked for Comey's allegence. ](/news/2017/06/9/president-donald-trump-claims-that-james-comey-committed-perjury-during-his-testimony-yesterday-and-offers-to-give-his-own-testimony-unde.md)
-_Context: "under oath,", Donald Trump, James Comey, James Comey Senate Intelligence Committee testimony, committed perjury_
+_Context: "under oath,", James Comey, James Comey Senate Intelligence Committee testimony, Trump, committed perjury_
 
 ##### Politics of Japan
 ### [The National Diet of Japan passes legislation allowing Emperor Akihito to abdicate. The abdication is to take place within three years. ](/news/2017/06/9/the-national-diet-of-japan-passes-legislation-allowing-emperor-akihito-to-abdicate-the-abdication-is-to-take-place-within-three-years.md)
@@ -33,7 +33,7 @@ Fighters backed by UAE accused of kidnapping and torturing hundreds of men, acco
 
 ##### War in North-West Pakistan
 ### [Chinese authorities report "grave concern" over reports that two kidnapped Chinese teachers in Quetta, Pakistan, were killed by members of the Islamic State of Iraq and the Levant. ](/news/2017/06/9/chinese-authorities-report-grave-concern-over-reports-that-two-kidnapped-chinese-teachers-in-quetta-pakistan-were-killed-by-members-of-t.md)
-_Context: Chinese, ISIL, Pakistan, Quetta, War in North-West Pakistan_
+_Context: China, ISIL, Pakistan, Quetta, War in North-West Pakistan_
 
 ##### Tehran attacks
 ### [Thousands of people along with officials attend funerals held for victims of the attacks. ](/news/2017/06/9/thousands-of-people-along-with-officials-attend-funerals-held-for-victims-of-the-attacks.md)

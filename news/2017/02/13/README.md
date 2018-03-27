@@ -13,7 +13,7 @@ North Korean dictator Kim Jong Un’s half-brother was assassinated Monday in Ma
 
 ##### Michael Flynn
 ### [Michael T. Flynn resigns as National Security Advisor following controversy over his alleged contacts with Russian officials. Retired United States Army general Keith Kellogg subsequently becomes acting National Security Advisor until a permanent replacement is appointed. ](/news/2017/02/13/michael-t-flynn-resigns-as-national-security-advisor-following-controversy-over-his-alleged-contacts-with-russian-officials-retired-united.md)
-_Context: Keith Kellogg, Michael Flynn, National Security Advisor, Russia, United States soldier_
+_Context: Keith Kellogg, Michael Flynn, Russia, US National Security Advisor, United States soldier_
 
 ##### Islamabad High Court
 ### [The Islamabad High Court indefinitely bans the celebration of Valentine's Day in Pakistan. ](/news/2017/02/13/the-islamabad-high-court-indefinitely-bans-the-celebration-of-valentine-s-day-in-pakistan.md)

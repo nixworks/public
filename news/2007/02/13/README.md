@@ -33,7 +33,7 @@ _Context: Louisiana, New Orleans, tornado_
 
 ##### 2008
 ### [ United States presidential election, 2008: Former Governor of Massachusetts Mitt Romney (R) formally announces his candidacy for president. ](/news/2007/02/13/united-states-presidential-election-2008-former-governor-of-massachusetts-mitt-romney-r-formally-announces-his-candidacy-for-president.md)
-_Context: 2008, Massachusetts governor, Mitt Romney, Republican, U.S. President_
+_Context: 2008, Massachusetts governor, Mitt Romney, President, Republican_
 
 ##### Iran
 ### [ Iranian President Mahmoud Ahmadinejad says his administration is open to negotiations regarding its nuclear program. ](/news/2007/02/13/iranian-president-mahmoud-ahmadinejad-says-his-administration-is-open-to-negotiations-regarding-its-nuclear-program.md)

@@ -11,9 +11,9 @@ _Context: Martha Stewart, evidence, federal judge, obstruction of justice_
 ### [ Pakistani paramilitary troops launch an offensive, hunting for foreign fighters in the tribal areas on the border with Afghanistan. ](/news/2004/06/10/pakistani-paramilitary-troops-launch-an-offensive-hunting-for-foreign-fighters-in-the-tribal-areas-on-the-border-with-afghanistan.md)
 _Context: Afghanistan, Pakistan, paramilitary_
 
-##### Turkey
+##### Turkish
 ### [ Turkey releases four Kurdish prisoners. ](/news/2004/06/10/turkey-releases-four-kurdish-prisoners.md)
-_Context: Kurds, Turkey, prison_
+_Context: Kurds, Turkish, prison_
 
 ##### California
 ### [ A polling organization announces that there is broad support in the U.S. state of California for a November ballot measure to limit the effect of the "three strikes" sentencing law. The Field Poll shows the measure, which would impose the 25-years-to-life only if the third felony is a serious or violent crime, is supported by 76% of those asked, opposed by 14 percent. ](/news/2004/06/10/a-polling-organization-announces-that-there-is-broad-support-in-the-u-s-state-of-california-for-a-november-ballot-measure-to-limit-the-eff.md)

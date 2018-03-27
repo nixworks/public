@@ -37,7 +37,7 @@ _Context: Bank of England, base rate, interest_
 
 ##### Somalia
 ### [ Somali pirates release Ukraine's MV "Faina" following a US$3.2-million ransom payment. ](/news/2009/02/5/somali-pirates-release-ukraine-s-mv-faina-following-a-us-3-2-million-ransom-payment.md)
-_Context: Faina, MV, Somali pirates, Somalia, US$, Ukrainian, ransom_
+_Context: Faina, MV, Somali pirates, Somalia, US$, Ukraine, ransom_
 
 ##### China
 ### [ China declares a national emergency due to severe droughts throughout the country. ](/news/2009/02/5/china-declares-a-national-emergency-due-to-severe-droughts-throughout-the-country.md)

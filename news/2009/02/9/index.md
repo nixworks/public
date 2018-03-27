@@ -41,7 +41,7 @@ _Context: Japan, Nissan Motors, current recession_
 
 ##### Bishop
 ### [ Bishop Richard Williamson is removed from a Roman Catholic seminary in Argentina after denying the Holocaust. ](/news/2009/02/9/bishop-richard-williamson-is-removed-from-a-roman-catholic-seminary-in-argentina-after-denying-the-holocaust.md)
-_Context: Argentina, Bishop, Holocaust, Holocaust denial, Richard Williamson, Roman Catholic Church, seminary_
+_Context: Argentina, Bishop, Holocaust denial, Holocaust survivor, Richard Williamson, Roman Catholic Church, seminary_
 
 ##### Mummies
 ### [ Thirty mummies are discovered in a 2,600-year-old ancient Egyptian tomb at Saqqara. ](/news/2009/02/9/thirty-mummies-are-discovered-in-a-2-600-year-old-ancient-egyptian-tomb-at-saqqara.md)

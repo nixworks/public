@@ -25,7 +25,7 @@ A limited cabinet reshuffle will see six ministers replaced in Egypt, state news
 
 ##### Kindergarten
 ### [Two kindergarteners are poisoned to death by the owner of a rival school in northern China. ](/news/2013/05/2/two-kindergarteners-are-poisoned-to-death-by-the-owner-of-a-rival-school-in-northern-china.md)
-_Context: Chinese, kindergarten_
+_Context: China, kindergarten_
 
 ##### U.S.
 ### [The U.S. state of Rhode Island becomes the tenth state to legalize same-sex marriage. ](/news/2013/05/2/the-u-s-state-of-rhode-island-becomes-the-tenth-state-to-legalize-same-sex-marriage.md)

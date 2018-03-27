@@ -15,9 +15,9 @@ _Context: Islamic Movement of Uzbekistan, Tajikistan_
 ### [ Clashes between Sri Lanka's army and the Liberation Tigers of Tamil Eelam escalates into the worst violence since they agreed a cease-fire in 2002. ](/news/2006/08/3/clashes-between-sri-lanka-s-army-and-the-liberation-tigers-of-tamil-eelam-escalates-into-the-worst-violence-since-they-agreed-a-cease-fire.md)
 _Context: LTTE, Sri Lankan military_
 
-##### Ukrainian
+##### Ukraine
 ### [ Ukrainian President Viktor Yushchenko nominates his political rival Viktor Yanukovich to become prime minister.](/news/2006/08/3/ukrainian-president-viktor-yushchenko-nominates-his-political-rival-viktor-yanukovich-to-become-prime-minister.md)
-_Context: Ukrainian, Viktor Yanukovich, Viktor Yushchenko_
+_Context: Ukraine, Viktor Yanukovich, Viktor Yushchenko_
 
 ##### Tropical Depression Chris
 ### [ Tropical Storm Chris weakens and is now expected not to become a hurricane. ](/news/2006/08/3/tropical-storm-chris-weakens-and-is-now-expected-not-to-become-a-hurricane.md)

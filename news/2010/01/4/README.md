@@ -51,9 +51,9 @@ Record high snowfall blanketed the central part of the Korean peninsula on the f
 ### [At least 500 homes are damaged after a 7.2 magnitude earthquake hits the Solomon Islands. ](/news/2010/01/4/at-least-500-homes-are-damaged-after-a-7-2-magnitude-earthquake-hits-the-solomon-islands.md)
 _Context: Solomon Islands_
 
-##### U.S. President
+##### President
 ### [A representation of President of the United States Barack Obama is found hanging by a noose with the epitaph "Plains, Georgia. Home of Jimmy Carter, our 39th President". ](/news/2010/01/4/a-representation-of-president-of-the-united-states-barack-obama-is-found-hanging-by-a-noose-with-the-epitaph-plains-georgia-home-of-jimmy.md)
-_Context: Barack Obama, Jimmy Carter, Plains, Georgia, U.S. President, United States, epitaph_
+_Context: Barack Obama, Jimmy Carter, Plains, Georgia, President, United States, epitaph_
 
 ##### Burj Khalifa
 ### [The Burj Khalifa, the tallest structure ever built, opens to the public in Dubai, United Arab Emirates. ](/news/2010/01/4/the-burj-khalifa-the-tallest-structure-ever-built-opens-to-the-public-in-dubai-united-arab-emirates.md)

@@ -3,9 +3,9 @@ Formats: [HTML](2007/07/18/index.html)  [JSON](2007/07/18/index.json)  [XML](200
 
 ## [2007-07-18](/news/2007/07/18/index.md)
 
-##### Chinese
+##### China
 ### [ As China struggles to deal with flooding in the provinces of Sichuan, Guizhou, Anhui, Hubei, and Jiangsu, the city of Chongqing is hit with the largest rainstorm in the city's meteorological records, killing 32. 12 people are reported missing. The city's transportation network has been shut down completely. ](/news/2007/07/18/as-china-struggles-to-deal-with-flooding-in-the-provinces-of-sichuan-guizhou-anhui-hubei-and-jiangsu-the-city-of-chongqing-is-hit-with.md)
-_Context: Anhui, Chinese, Chongqing, Guizhou, Hubei, Jiangsu, Sichuan, flooding_
+_Context: Anhui, China, Chongqing, Guizhou, Hubei, Jiangsu, Sichuan, flooding_
 
 ##### Iraq War
 ### [ Iraq War: The US Senate, with a 52-47 vote, fails by 8 votes to pass a bill that would have required withdrawal of all US troops (except for a small force) from Iraq by April 30, 2008.](/news/2007/07/18/iraq-war-the-us-senate-with-a-52-47-vote-fails-by-8-votes-to-pass-a-bill-that-would-have-required-withdrawal-of-all-us-troops-except-fo.md)

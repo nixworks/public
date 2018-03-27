@@ -23,9 +23,9 @@ _Context: Interpol, Khoo Boon Hui, Police Commissioner, Singapore_
 ### [ Malaysia's opposition leader Anwar Ibrahim says he expects to seize power by December by winning over defectors of the ruling Barisan Nasional government. ](/news/2008/10/11/malaysia-s-opposition-leader-anwar-ibrahim-says-he-expects-to-seize-power-by-december-by-winning-over-defectors-of-the-ruling-barisan-nasio.md)
 _Context: Anwar Ibrahim, Barisan Nasional, Malaysia, Opposition Leader, Politics of Malaysia_
 
-##### Turkey
+##### Turkish
 ### [ Turkey bombs Kurdish military targets in northern Iraq. ](/news/2008/10/11/turkey-bombs-kurdish-military-targets-in-northern-iraq.md)
-_Context: Iraq, Kurdish Peshmerga, Kurdistan Region, Turkey_
+_Context: Iraq, Kurdish Peshmerga, Kurdistan Region, Turkish_
 
 ##### 2008 Pacific hurricane season
 ### [ 2008 Pacific hurricane season: Hurricane Norbert reaches Category 3 strength as it nears Baja California in Mexico. ](/news/2008/10/11/2008-pacific-hurricane-season-hurricane-norbert-reaches-category-3-strength-as-it-nears-baja-california-in-mexico.md)
@@ -49,7 +49,7 @@ _Context: International Monetary Fund, housing crisis_
 
 ##### United States
 ### [United States President George W. Bush commits to collaborative action with G7 finance ministers. ](/news/2008/10/11/united-states-president-george-w-bush-commits-to-collaborative-action-with-g7-finance-ministers.md)
-_Context: G7, George W. Bush, U.S. President, United States_
+_Context: G7, George W. Bush, President, United States_
 
 ## [Previous Day...](/news/2008/10/10/index.md)
 

@@ -49,7 +49,7 @@ _Context: ''New York'' magazine, Malaysia Airlines Flight 370, Southern Ocean_
 
 ##### July 2016 North China cyclone
 ### [Floods kill at least 154 in China and 300,000 people are being evacuated in Hebei province. Villagers have accused local officials of covering up the extent of the damage. ](/news/2016/07/23/floods-kill-at-least-154-in-china-and-300-000-people-are-being-evacuated-in-hebei-province-villagers-have-accused-local-officials-of-coveri.md)
-_Context: Chinese, Hebei, July 2016 North China cyclone_
+_Context: China, Hebei, July 2016 North China cyclone_
 
 ##### Ariana Grande
 ### [Wikileaks reveals that Ariana Grande was prevented from performing in the White House because of the July 2015 donut-licking incident. ](/news/2016/07/23/wikileaks-reveals-that-ariana-grande-was-prevented-from-performing-in-the-white-house-because-of-the-july-2015-donut-licking-incident.md)

@@ -25,7 +25,7 @@ _Context: Senate, U.S. National Intelligence Director, United States House of Re
 
 ##### White House
 ### [ The White House affirms that, despite reports to the contrary, John Snow will remain Treasury Secretary during President George W. Bush's second term of office. Meanwhile, Secretary of Veterans Affairs Anthony Principi announces his expected resignation. ](/news/2004/12/8/the-white-house-affirms-that-despite-reports-to-the-contrary-john-snow-will-remain-treasury-secretary-during-president-george-w-bush-s-s.md)
-_Context: Anthony Principi, George W. Bush, John W. Snow, U.S. President, U.S. Secretary of Veterans Affairs, United States Secretary of the Treasury, White House, second term_
+_Context: Anthony Principi, George W. Bush, John W. Snow, President, U.S. Secretary of Veterans Affairs, United States Secretary of the Treasury, White House, second term_
 
 ##### Civil Unions and Relationships Acts
 ### [ Civil unions in New Zealand: Parliament passes civil union legislation by 65 votes to 55. The new law provides a way for "de facto" couples, including same-sex couples, to gain legal recognition of their relationships, but stops short of same-sex marriage. ](/news/2004/12/8/civil-unions-in-new-zealand-parliament-passes-civil-union-legislation-by-65-votes-to-55-the-new-law-provides-a-way-for-de-facto-couples.md)

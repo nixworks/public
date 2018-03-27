@@ -9,7 +9,7 @@ Jill Stein said she plans to request a recount in Michigan as similar cases prog
 
 ##### 2016 U.S. election
 ### [President-elect Donald Trump is declared as the winner in Michigan, causing his electoral college vote to rise to 306. Hillary Clinton's margin in the popular vote rises to over two million. ](/news/2016/11/28/president-elect-donald-trump-is-declared-as-the-winner-in-michigan-causing-his-electoral-college-vote-to-rise-to-306-hillary-clinton-s-mar.md)
-_Context: 2016 U.S. election, Donald Trump, Hillary Clinton, Michigan, electoral college_
+_Context: 2016 U.S. election, Hillary Clinton, Michigan, Trump, electoral college_
 
 ##### Yemeni Civil War
 ### [Yemen's Houthi movement and its allies form a new government. ](/news/2016/11/28/yemen-s-houthi-movement-and-its-allies-form-a-new-government.md)

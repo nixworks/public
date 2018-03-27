@@ -5,7 +5,7 @@ Formats: [HTML](2007/06/6/index.html)  [JSON](2007/06/6/index.json)  [XML](2007/
 
 ##### Leshan
 ### [ Dozens of people are trapped in a collapsed hall in Leshan in the southwestern province of Sichuan in China. ](/news/2007/06/6/dozens-of-people-are-trapped-in-a-collapsed-hall-in-leshan-in-the-southwestern-province-of-sichuan-in-china.md)
-_Context: Chinese, Leshan, Sichuan_
+_Context: China, Leshan, Sichuan_
 
 ##### G8 group of nations
 ### [ Leaders of the G8 assemble in Rostock, Germany for the 33rd annual G8 summit to discuss primarily issues of climate change and international aid, but also U.S.-Russia tensions over an antimissile system in Europe. ](/news/2007/06/6/leaders-of-the-g8-assemble-in-rostock-germany-for-the-33rd-annual-g8-summit-to-discuss-primarily-issues-of-climate-change-and-internationa.md)
@@ -19,9 +19,9 @@ _Context: Pope Benedict XVI, Vatican police, audience, popemobile_
 ### [ Five people are acquitted of the 1982 murder of "God's Banker," Italian financier Roberto Calvi. ](/news/2007/06/6/five-people-are-acquitted-of-the-1982-murder-of-god-s-banker-italian-financier-roberto-calvi.md)
 _Context: Italy, Roberto Calvi_
 
-##### Turkey
+##### Turkish
 ### [ Armed forces from Turkey are reported to have crossed the border into Iraq, chasing Kurdish guerrillas a couple of miles in Iraqi territory. Other reports contradict this. ](/news/2007/06/6/armed-forces-from-turkey-are-reported-to-have-crossed-the-border-into-iraq-chasing-kurdish-guerrillas-a-couple-of-miles-in-iraqi-territory.md)
-_Context: Iraq, Kurdish, Turkey_
+_Context: Iraq, Kurdish, Turkish_
 
 ##### HIV
 ### [ HIV drug Viracept is recalled in the UK after it is discovered that it has been contaminated with a substance that could cause cancer. ](/news/2007/06/6/hiv-drug-viracept-is-recalled-in-the-uk-after-it-is-discovered-that-it-has-been-contaminated-with-a-substance-that-could-cause-cancer.md)

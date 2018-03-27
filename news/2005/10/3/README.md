@@ -7,9 +7,9 @@ Formats: [HTML](2005/10/3/index.html)  [JSON](2005/10/3/index.json)  [XML](2005/
 ### [ In Canada, the Canadian Broadcasting Corporation and the Canadian Media Guild announce a preliminary agreement to end the current lockout of CMG members in most of the country which seriously impaired corporation's programming since August 17. ](/news/2005/10/3/in-canada-the-canadian-broadcasting-corporation-and-the-canadian-media-guild-announce-a-preliminary-agreement-to-end-the-current-lockout-o.md)
 _Context: August 17, CBC, Canada, Canadian Media Guild, locks out_
 
-##### Turkey
+##### Turkish
 ### [ Turkey and Croatia begin talks about joining the European Union following over a day of debate over an Austrian proposal that Turkey should be offered an associate status short of full membership. ](/news/2005/10/3/turkey-and-croatia-begin-talks-about-joining-the-european-union-following-over-a-day-of-debate-over-an-austrian-proposal-that-turkey-should.md)
-_Context: Austria, Croatia, Turkey, joining the European Union_
+_Context: Austria, Croatia, Turkish, joining the European Union_
 
 ##### NTL
 ### [ NTL, the largest British cable television company, telco and ISP, announces its multi-billion pound purchase of Telewest, the second largest cable company, creating one of the largest companies in the British media industry. ](/news/2005/10/3/ntl-the-largest-british-cable-television-company-telco-and-isp-announces-its-multi-billion-pound-purchase-of-telewest-the-second-larges.md)
@@ -29,7 +29,7 @@ _Context: Afghanistan, Paktika, War in Afghanistan (2001-present)_
 
 ##### United States
 ### [ On the first day of the U.S. Supreme Court's fall term, President George W. Bush nominates White House Counsel Harriet Miers to fill the seat currently held by Sandra Day O'Connor. The nominee has no judicial experience. ](/news/2005/10/3/on-the-first-day-of-the-u-s-supreme-court-s-fall-term-president-george-w-bush-nominates-white-house-counsel-harriet-miers-to-fill-the-se.md)
-_Context: George W. Bush, Harriet Miers, Sandra Day O'Connor, Supreme Court of the United States, U.S. President, United States, White House Counsel_
+_Context: George W. Bush, Harriet Miers, President, Sandra Day O'Connor, Supreme Court of the United States, United States, White House Counsel_
 
 ##### Heavy metal
 ### [ Welsh heavy metal band Bullet For My Valentine release their debut album The Poison. On January 30, 2009, the album was certified gold by the RIAA after 500,000 copies were sold in the United States. ](/news/2005/10/3/welsh-heavy-metal-band-bullet-for-my-valentine-release-their-debut-album-the-poison-on-january-30-2009-the-album-was-certified-gold-by-t.md)
@@ -45,7 +45,7 @@ _Context: George Best, London, Manchester United, football, intensive care_
 
 ##### Typhoon Longwang
 ### [ Up to 60 police cadets have been swept away by powerful Typhoon Longwang in Fujian, south-east China. ](/news/2005/10/3/up-to-60-police-cadets-have-been-swept-away-by-powerful-typhoon-longwang-in-fujian-south-east-china.md)
-_Context: Chinese, Fujian, Typhoon Longwang_
+_Context: China, Fujian, Typhoon Longwang_
 
 ##### United States
 ### [ U.S. Representative Tom DeLay is indicted on a charge of money laundering. ](/news/2005/10/3/u-s-representative-tom-delay-is-indicted-on-a-charge-of-money-laundering.md)

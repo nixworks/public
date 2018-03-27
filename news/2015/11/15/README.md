@@ -27,9 +27,9 @@ The series of terrorist attacks that killed more than 120 people in Paris on Fri
 ### [Heavy rain leads to warnings of floods in mid and north Wales. ](/news/2015/11/15/heavy-rain-leads-to-warnings-of-floods-in-mid-and-north-wales.md)
 Hundreds of homes were left without power while roads and trains were affected by flooding after storms battered Wales.
 
-##### Chinese
+##### China
 ### [The death toll from a landslide on Friday in China's Zhejiang province rises to 16 with 21 still missing. ](/news/2015/11/15/the-death-toll-from-a-landslide-on-friday-in-china-s-zhejiang-province-rises-to-16-with-21-still-missing.md)
-_Context: Chinese, Zhejiang_
+_Context: China, Zhejiang_
 
 ##### Daily fantasy sports
 ### [Daily fantasy sports companies DraftKings and FanDuel, who are fighting New York's cease-and-desist order that their industry is gambling in the U.S. state, apparently are OK with that label in the United Kingdom. DraftKings obtained a British gambling license in August and FanDuel applied for one earlier this month. ](/news/2015/11/15/daily-fantasy-sports-companies-draftkings-and-fanduel-who-are-fighting-new-york-s-cease-and-desist-order-that-their-industry-is-gambling-in.md)

@@ -13,11 +13,11 @@ The U.S. Commodity Futures Trading Commission on Monday ordered Deutsche Bank to
 
 ##### Human rights
 ### [Eleven (11) of 15 United Nations Security Council members approve placing North Korea's human rights record on the Council's agenda. Russia and China oppose the decision while Chad and Nigeria abstain. This is the first time this issue has been debated by the Security Council. Procedurally, once a topic makes the agenda, that issue can be brought up again at any time. ](/news/2014/12/22/eleven-11-of-15-united-nations-security-council-members-approve-placing-north-korea-s-human-rights-record-on-the-council-s-agenda-russia.md)
-_Context: Chad, Chinese, Nigeria, North Korea, Russia, United Nations Security Council, human rights, human rights, the agenda_
+_Context: Chad, China, Nigeria, North Korea, Russia, United Nations Security Council, human rights, human rights, the agenda_
 
 ##### 2014 pro-Russian unrest in Ukraine
 ### [Kazakhstan renews its military cooperation with Ukraine, to which it promises vital supplies of coal, following a visit to Kiev by the Kazakh leader, Nursultan Nazarbayev. ](/news/2014/12/22/kazakhstan-renews-its-military-cooperation-with-ukraine-to-which-it-promises-vital-supplies-of-coal-following-a-visit-to-kiev-by-the-kazak.md)
-_Context: 2014 pro-Russian unrest in Ukraine, Kazakhstan, Kiev, Nursultan Nazarbayev, Ukrainian_
+_Context: 2014 pro-Russian unrest in Ukraine, Kazakhstan, Kiev, Nursultan Nazarbayev, Ukraine_
 
 ##### Dustbin lorry
 ### [An out-of-control dustbin lorry in the Queen Street and George Square areas of Glasgow, Scotland, kills at least six people. ](/news/2014/12/22/an-out-of-control-dustbin-lorry-in-the-queen-street-and-george-square-areas-of-glasgow-scotland-kills-at-least-six-people.md)

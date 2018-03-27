@@ -23,9 +23,9 @@ _Context: Bariyapur, Gadhimai, Hindus, Nepal, festival, goddess, ritually slaugh
 ### [ China executes two people for their role in the tainted milk poisoning scandal. ](/news/2009/11/24/china-executes-two-people-for-their-role-in-the-tainted-milk-poisoning-scandal.md)
 State media says two executed over tainted milk that sickened thousands in 2008.
 
-##### Ukrainian
+##### Ukraine
 ### [ Pirates kill a Ukrainian sailor after an oil tanker is attacked off the coast of Benin. ](/news/2009/11/24/pirates-kill-a-ukrainian-sailor-after-an-oil-tanker-is-attacked-off-the-coast-of-benin.md)
-_Context: Benin, Ukrainian_
+_Context: Benin, Ukraine_
 
 ##### Inquiry opens
 ### [ An inquiry opens in the United Kingdom over the country's involvement in the Iraq War. ](/news/2009/11/24/an-inquiry-opens-in-the-united-kingdom-over-the-country-s-involvement-in-the-iraq-war.md)

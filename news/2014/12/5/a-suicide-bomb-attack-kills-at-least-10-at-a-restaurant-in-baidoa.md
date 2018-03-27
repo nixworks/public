@@ -21,7 +21,7 @@ At least 10 people dead and many wounded in bombing of restaurant in Baidoa, jus
 
 ### Related:
 
-1. [Two suicide bombers strike a Shi'ite mosque in Herat, Afghanistan. One is killed by security forces and the other detonates his device, killing one and wounding seven. ISIL claims responsibility. ](/news/2018/03/25/two-suicide-bombers-strike-a-shi-ite-mosque-in-herat-afghanistan-one-is-killed-by-security-forces-and-the-other-detonates-his-device-kill.md) _Context: suicide bomb_
+1. [Two suicide bombers strike a Shi'ite mosque in Herat, Afghanistan, killing one person and wounding seven others. Security forces kill one bomber while the device kills the other. ISIL claims responsibility. ](/news/2018/03/25/two-suicide-bombers-strike-a-shi-ite-mosque-in-herat-afghanistan-killing-one-person-and-wounding-seven-others-security-forces-kill-one-bo.md) _Context: suicide bomb_
 2. [Indonesian police kill three people in a gunfight south of Jakarta after a bomb is found. Fourteen people are arrested in connection to alleged involvement in plans for suicide bomb attacks. ](/news/2016/12/21/indonesian-police-kill-three-people-in-a-gunfight-south-of-jakarta-after-a-bomb-is-found-fourteen-people-are-arrested-in-connection-to-alle.md) _Context: suicide bomb_
 3. [At least two people are killed and 12 injured after a suicide bomb attack on a police training center in Helmand Province. ](/news/2016/05/14/at-least-two-people-are-killed-and-12-injured-after-a-suicide-bomb-attack-on-a-police-training-center-in-helmand-province.md) _Context: suicide bomb_
 4. [Two al-Shabaab suicide bombers kill at least 40 people in the Somali town of Baidoa. ](/news/2016/02/28/two-al-shabaab-suicide-bombers-kill-at-least-40-people-in-the-somali-town-of-baidoa.md) _Context: Baidoa_

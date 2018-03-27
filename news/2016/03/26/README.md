@@ -9,7 +9,7 @@ Bernie Sanders pushed for a trifecta of wins in Saturday&#8217;s Democratic pres
 
 ##### United States
 ### [U.S. Chairman of the Joint Chiefs of Staff Joseph Dunford makes a proposal to President Barack Obama to increase the number of American troops in Iraq, so as to help the Iraqi Army with advisors closer to the front lines and to recapture Mosul, which fell to ISIL in June 2014. ](/news/2016/03/26/u-s-chairman-of-the-joint-chiefs-of-staff-joseph-dunford-makes-a-proposal-to-president-barack-obama-to-increase-the-number-of-american-troo.md)
-_Context: Barack Obama, Chairman of the Joint Chiefs of Staff, ISIL, Iraq, Iraqi Army, Joseph Dunford, Mosul, U.S. President, United States, United States military personnel_
+_Context: Barack Obama, Chairman of the Joint Chiefs of Staff, ISIL, Iraq, Iraqi Army, Joseph Dunford, Mosul, President, United States, United States military personnel_
 
 ##### The American Journal of Sports Medicine
 ### [A study, published in "The American Journal of Sports Medicine", finds high school athletes who focus on a single sport may be at increased risk for knee and hip injuries. ](/news/2016/03/26/a-study-published-in-the-american-journal-of-sports-medicine-finds-high-school-athletes-who-focus-on-a-single-sport-may-be-at-increased.md)

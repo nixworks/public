@@ -9,7 +9,7 @@ The decision to dissolve RIA Novosti, along with its international radio broadca
 
 ##### Prime Minister of Ukraine
 ### [Former Prime Minister of Ukraine Yulia Tymoshenko sends a letter of support to Ukrainian protesters after they topple a statue of Lenin. ](/news/2013/12/9/former-prime-minister-of-ukraine-yulia-tymoshenko-sends-a-letter-of-support-to-ukrainian-protesters-after-they-topple-a-statue-of-lenin.md)
-_Context: Lenin, Prime Minister of Ukraine, Ukrainian, Yulia Tymoshenko_
+_Context: Lenin, Prime Minister of Ukraine, Ukraine, Yulia Tymoshenko_
 
 ##### Gustavo Petro
 ### [Gustavo Petro, mayor of Bogot, Colombia, is removed from office and banned from re-taking it for fifteen years, due to a failing city cleaning policy promoted by him. ](/news/2013/12/9/gustavo-petro-mayor-of-bogota-colombia-is-removed-from-office-and-banned-from-re-taking-it-for-fifteen-years-due-to-a-failing-city-clean.md)

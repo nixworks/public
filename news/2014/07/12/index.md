@@ -13,7 +13,7 @@ _Context: Aleksandr Borodai, EU_
 
 ##### Istanbul
 ### [An explosion in a shop in Istanbul, Turkey's largest city, leaves many injured. ](/news/2014/07/12/an-explosion-in-a-shop-in-istanbul-turkey-s-largest-city-leaves-many-injured.md)
-_Context: Istanbul, Turkey_
+_Context: Istanbul, Turkish_
 
 ##### Baghdad
 ### [Gunmen kill 29 people in an apartment building in East Baghdad, including twenty women. ](/news/2014/07/12/gunmen-kill-29-people-in-an-apartment-building-in-east-baghdad-including-twenty-women.md)

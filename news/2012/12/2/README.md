@@ -29,7 +29,7 @@ _Context: Philippines, Typhoon Bopha, landfall_
 
 ##### Miner
 ### [16 miners are trapped underground after a coal mine was flooded in northeast China's Heilongjiang province. ](/news/2012/12/2/16-miners-are-trapped-underground-after-a-coal-mine-was-flooded-in-northeast-china-s-heilongjiang-province.md)
-_Context: Chinese, Heilongjiang province, coal mine, miner_
+_Context: China, Heilongjiang province, coal mine, miner_
 
 ##### Sasago Tunnel
 ### [A section of the Sasago Tunnel in Japan collapses trapping 30 vehicles; at least 9 people are dead. ](/news/2012/12/2/a-section-of-the-sasago-tunnel-in-japan-collapses-trapping-30-vehicles-at-least-9-people-are-dead.md)

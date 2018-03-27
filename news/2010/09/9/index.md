@@ -3,7 +3,7 @@ Formats: [HTML](2010/09/9/index.html)  [JSON](2010/09/9/index.json)  [XML](2010/
 
 ## [2010-09-9](/news/2010/09/9/index.md)
 
-##### U.S. President
+##### President
 ### [The President of the United States Barack Obama selects Austan Goolsbee to replace Christina Romer as the Chair of the Council of Economic Advisers. ](/news/2010/09/9/the-president-of-the-united-states-barack-obama-selects-austan-goolsbee-to-replace-christina-romer-as-the-chair-of-the-council-of-economic-a.md)
 President Barack Obama on Friday named a member of his inner circle as top White House economist and gave a strong personal endorsement to a leading candidate to run his new consumer protection bureau.
 

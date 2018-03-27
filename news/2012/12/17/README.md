@@ -49,7 +49,7 @@ _Context: Algeria, Chad, Libya, Libyan Parliament, Niger, Sudan_
 
 ##### Gas explosion
 ### [At least 4 people are killed and 8 others injured as a gas explosion ripped through a residential building in Kharkiv, Ukraine. ](/news/2012/12/17/at-least-4-people-are-killed-and-8-others-injured-as-a-gas-explosion-ripped-through-a-residential-building-in-kharkiv-ukraine.md)
-_Context: Kharkiv, Ukrainian, gas explosion_
+_Context: Kharkiv, Ukraine, gas explosion_
 
 ##### Benin
 ### [At least 18 people drown after an overloaded boat sinks north of Benin's commercial capital Cotonou. ](/news/2012/12/17/at-least-18-people-drown-after-an-overloaded-boat-sinks-north-of-benin-s-commercial-capital-cotonou.md)

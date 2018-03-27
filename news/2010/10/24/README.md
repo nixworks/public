@@ -71,7 +71,7 @@ _Context: Darfur, Justice and Equality Movement, Qatar, Sudan_
 
 ##### Wang Qi-shan
 ### [Chinese Vice Premier Wang Qi-shan has held talks with US Treasury, Secretary Timothy Geithner at Qingdao Airport, east China's Shandong province. They exchanged views on Sino-US economic relations, and preparations for the upcoming G20 Summit. ](/news/2010/10/24/chinese-vice-premier-wang-qi-shan-has-held-talks-with-us-treasury-secretary-timothy-geithner-at-qingdao-airport-east-china-s-shandong-prov.md)
-_Context: Chinese, G20, Qingdao Airport, Shandong, Sino-American relations, Timothy Geithner, Wang Qi-shan_
+_Context: China, G20, Qingdao Airport, Shandong, Sino-American relations, Timothy Geithner, Wang Qi-shan_
 
 ##### Prince Charles
 ### [Charles, Prince of Wales's friend was among those killed in yesterday's helicopter crash. The family express their shock. ](/news/2010/10/24/charles-prince-of-wales-s-friend-was-among-those-killed-in-yesterday-s-helicopter-crash-the-family-express-their-shock.md)
@@ -97,9 +97,9 @@ At least five cases of the disease discovered in Port-au-Prince, but UN official
 ### [At least 21 people died and a dozen more seriously injured in a bus accident in Nwoya district, northwestern Uganda. ](/news/2010/10/24/at-least-21-people-died-and-a-dozen-more-seriously-injured-in-a-bus-accident-in-nwoya-district-northwestern-uganda.md)
 _Context: Nwoya, Uganda_
 
-##### Chinese
+##### China
 ### [China and Bangladesh want green technology free of cost. Hasan Mahmud held a meeting with global warming negotiators in the UNFCCC climate talks and chairman of National Development and Reform Commission of China Xie Zhenhua. ](/news/2010/10/24/china-and-bangladesh-want-green-technology-free-of-cost-hasan-mahmud-held-a-meeting-with-global-warming-negotiators-in-the-unfccc-climate-t.md)
-_Context: Bangladesh, Chinese, Hasan Mahmud, National Development and Reform Commission, UNFCCC, Xie Zhenhua, green technology, pro- and anti_
+_Context: Bangladesh, China, Hasan Mahmud, National Development and Reform Commission, UNFCCC, Xie Zhenhua, green technology, pro- and anti_
 
 ##### President of Ecuador
 ### [President of Ecuador Rafael Correa rejects leniency towards police officers who protested against being stripped of their bonuses, stating on radio that "this will tear us apart as a society". ](/news/2010/10/24/president-of-ecuador-rafael-correa-rejects-leniency-towards-police-officers-who-protested-against-being-stripped-of-their-bonuses-stating-o.md)

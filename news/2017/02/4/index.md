@@ -21,7 +21,7 @@ _Context: 2017 Romanian protests, Prime Minister, Sorin Grindeanu_
 
 ##### Ukraine-United States relations
 ### [U.S. President Donald Trump and Ukrainian President Petro Poroshenko, in a telephone call, discuss strengthening the two countries' strategic partnership with particular attention to the conflict in the Donbass, a Ukrainian region that borders Russia. ](/news/2017/02/4/u-s-president-donald-trump-and-ukrainian-president-petro-poroshenko-in-a-telephone-call-discuss-strengthening-the-two-countries-strategi.md)
-_Context: Donald Trump, Donbass, Petro Poroshenko, Russia, U.S. President, Ukraine-United States relations, Ukrainian President, War in Donbass_
+_Context: Donbass, Petro Poroshenko, President, Russia, Trump, Ukraine-United States relations, Ukrainian President, War in Donbass_
 
 ##### Australia-United States relations
 ### [Australian Foreign Minister Julie Bishop says Australia will honor the agreement to accept refugees from Central America even though the U.S. has postponed interviews with asylum seekers in a camp at the Pacific island of Nauru. ](/news/2017/02/4/australian-foreign-minister-julie-bishop-says-australia-will-honor-the-agreement-to-accept-refugees-from-central-america-even-though-the-u-s.md)

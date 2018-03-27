@@ -23,7 +23,7 @@ President McAleese has described recent racist attacks in Belfast as distressing
 ### [ The Guardian Council rules out a re-run of the presidential election saying that there was no sign of serious electoral fraud in the June 12 vote. ](/news/2009/06/23/the-guardian-council-rules-out-a-re-run-of-the-presidential-election-saying-that-there-was-no-sign-of-serious-electoral-fraud-in-the-june-1.md)
 UK expels two Iranian diplomats after similar expulsions by Tehran in spat over post-poll protests.
 
-##### Ukrainian
+##### Ukraine
 ### [ Ukraine sets 17 January 2010 as the date for the next presidential election said to be crucial for its future direction. ](/news/2009/06/23/ukraine-sets-17-january-2010-as-the-date-for-the-next-presidential-election-said-to-be-crucial-for-its-future-direction.md)
 Ukraine has set 17 January as the date for a presidential election crucial for its future direction.
 

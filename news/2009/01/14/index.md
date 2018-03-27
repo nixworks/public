@@ -11,9 +11,9 @@ _Context: Federal District Judge, Guantanamo Bay detention camp, Muhammad Hamid 
 ### [ Somali pirates release two ships off the coast of East Africa. ](/news/2009/01/14/somali-pirates-release-two-ships-off-the-coast-of-east-africa.md)
 _Context: East Africa, Somali pirates, Somalia, seize_
 
-##### Ukrainian
+##### Ukraine
 ### [ Ukraine says it cannot resume natural-gas transit because Russia's Gazprom has provided insufficient supplies. ](/news/2009/01/14/ukraine-says-it-cannot-resume-natural-gas-transit-because-russia-s-gazprom-has-provided-insufficient-supplies.md)
-_Context: Gazprom, Russia, Russia-Ukraine gas disputes, Ukrainian, gas_
+_Context: Gazprom, Russia, Russia-Ukraine gas disputes, Ukraine, gas_
 
 ##### Osama bin Laden
 ### [ In an audio message, Osama bin Laden urges Muslims to launch a holy war on Israel. (](/news/2009/01/14/in-an-audio-message-osama-bin-laden-urges-muslims-to-launch-a-holy-war-on-israel.md)

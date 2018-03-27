@@ -21,7 +21,7 @@ _Context: Austria, Iran, Syria, Syria peace talks in Vienna, Syrian Civil War, V
 
 ##### Tensions in the region
 ### [The European Union sides with the United States over Tuesday's U.S.-Chinese patrolling incident in the South China Sea. ](/news/2015/10/30/the-european-union-sides-with-the-united-states-over-tuesday-s-u-s-chinese-patrolling-incident-in-the-south-china-sea.md)
-_Context: Chinese, EU, South China Sea, United States, tensions in the region_
+_Context: China, EU, South China Sea, United States, tensions in the region_
 
 ##### Shaker Aamer
 ### [Shaker Aamer, the last British resident held at the Guantanamo Bay detention camp, is released. Aamer faces no charges in Britain; Scotland Yard detectives questioned him for three days during his detention. ](/news/2015/10/30/shaker-aamer-the-last-british-resident-held-at-the-guantanamo-bay-detention-camp-is-released-aamer-faces-no-charges-in-britain-scotland.md)
@@ -33,7 +33,7 @@ A Virginia school bus overturned Friday after a traffic collision, injuring 28 s
 
 ##### Henan
 ### [A building collapse in Henan province in central China leaves 17 workers dead and 23 injured. ](/news/2015/10/30/a-building-collapse-in-henan-province-in-central-china-leaves-17-workers-dead-and-23-injured.md)
-_Context: Chinese, Henan_
+_Context: China, Henan_
 
 ##### Texas
 ### [Storms hit the American state of Texas causing at least two deaths with one person reported missing. Rivers overflowed as more than a foot of rain fell in some areas while tornadoes ripped through buildings outside San Antonio. ](/news/2015/10/30/storms-hit-the-american-state-of-texas-causing-at-least-two-deaths-with-one-person-reported-missing-rivers-overflowed-as-more-than-a-foot-o.md)
@@ -41,7 +41,7 @@ School buses were trapped in near San Antonio and a tornado may have touched dow
 
 ##### Refugee immigration to Germany
 ### [Greek prime minister Alexis Tsipras lashes out at European "ineptness" in handling the continent's massive immigration crisis. The Associated Press reports 31 more people -- mostly children -- drowned in shipwrecks in the Mediterranean Sea near the islands of Kalymnos and Rhodes. Turkey's state-run agency says four children drowned and two others are missing after two new accidents with boats headed to Greece's Lesbos and Samos islands. The death toll in the Aegean Sea over the past three days is at least 50. The Greek coast guard says they rescued 600 people in the past 24 hours, while thousands more made it safely from Turkey to Greece's southeastern islands. ](/news/2015/10/30/greek-prime-minister-alexis-tsipras-lashes-out-at-european-ineptness-in-handling-the-continent-s-massive-immigration-crisis-the-associate.md)
-_Context: Aegean Sea, Alexis Tsipras, Associated Press, Europe, Greek Prime Minister, Kalymnos, Lesbos, Mediterranean Sea, Rhodes, Samos, Turkey, refugee immigration to Germany_
+_Context: Aegean Sea, Alexis Tsipras, Associated Press, Europe, Greek Prime Minister, Kalymnos, Lesbos, Mediterranean Sea, Rhodes, Samos, Turkish, refugee immigration to Germany_
 
 ##### Construction worker
 ### [One construction worker dies and at least one more is under the rubble from the collapse of a building being demolished to make way for a Starwood Hotels and Resorts Worldwide luxury boutique hotel in New York City. ](/news/2015/10/30/one-construction-worker-dies-and-at-least-one-more-is-under-the-rubble-from-the-collapse-of-a-building-being-demolished-to-make-way-for-a-st.md)

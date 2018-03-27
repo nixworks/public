@@ -41,7 +41,7 @@ _Context: Ariel Sharon, Gaza Strip, Israel, Jew, Prime Minister, United States_
 
 ##### Shenzhen
 ### [ In Shenzhen, China, what is believed to be the largest urban demolition blast in China uses 1,500 lb (680&nbsp;kg) of explosives to simultaneously topple 16 tower blocks. Because of misplaced charges, one tower does not topple, but is reduced from 14 stories to 12, and will have to be demolished manually. ](/news/2005/05/22/in-shenzhen-china-what-is-believed-to-be-the-largest-urban-demolition-blast-in-china-uses-1-500-lb-680-nbsp-kg-of-explosives-to-simulta.md)
-_Context: Chinese, Shenzhen_
+_Context: China, Shenzhen_
 
 ## [Previous Day...](/news/2005/05/21/index.md)
 

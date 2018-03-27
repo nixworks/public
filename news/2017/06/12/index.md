@@ -17,7 +17,7 @@ The 9th U.S. Circuit Court of Appeals upheld an earlier decision by a federal ju
 
 ##### Foreign relations of Panama
 ### [Panama severs diplomatic ties with Taiwan and establishes formal relations with China. ](/news/2017/06/12/panama-severs-diplomatic-ties-with-taiwan-and-establishes-formal-relations-with-china.md)
-_Context: Chinese, Foreign relations of Panama, Panama, Taiwan, diplomatic ties, formal relations_
+_Context: China, Foreign relations of Panama, Panama, Taiwan, diplomatic ties, formal relations_
 
 ##### Earthquakes in 2017
 ### [An earthquake of 6.3 magnitude shakes the Aegean Sea, causing one death. Many houses were damaged in Plomari, Greece, and some collapsed. ](/news/2017/06/12/an-earthquake-of-6-3-magnitude-shakes-the-aegean-sea-causing-one-death-many-houses-were-damaged-in-plomari-greece-and-some-collapsed.md)

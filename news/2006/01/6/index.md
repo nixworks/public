@@ -11,7 +11,7 @@ _Context: Alang, Clemenceau, Supreme Court of India, asbestos_
 ### [ Israeli Prime Minister Ariel Sharon successfully undergoes a third round of surgery to correct a rise in cranial pressure. ](/news/2006/01/6/israeli-prime-minister-ariel-sharon-successfully-undergoes-a-third-round-of-surgery-to-correct-a-rise-in-cranial-pressure.md)
 _Context: Ariel Sharon, Prime Minister, cranial, surgery_
 
-##### Turkey
+##### Turkish
 ### [ A third child from the same family in eastern Turkey dies of H5N1 avian influenza. Hulya Kocyigit, 11, was the sister of Mehmet Ali, 14, who died last weekend, and of Fatma, 15, who died on Thursday. She was the third human fatality outside China and South-East Asia. A six-year-old brother is also being treated for the same disease. ](/news/2006/01/6/a-third-child-from-the-same-family-in-eastern-turkey-dies-of-h5n1-avian-influenza-ha1-4lya-koassyiait-11-was-the-sister-of-mehmet-ali-14.md)
 News and opinion from The Times &amp; The Sunday Times
 

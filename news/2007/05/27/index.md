@@ -21,7 +21,7 @@ _Context: Spanish, local and regional elections_
 
 ##### Ukrainian President
 ### [ President Viktor Yushchenko and Prime Minister Viktor Yanukovych of Ukraine agree to a compromise, with early parliamentary elections to be held on September 30. ](/news/2007/05/27/president-viktor-yushchenko-and-prime-minister-viktor-yanukovych-of-ukraine-agree-to-a-compromise-with-early-parliamentary-elections-to-be.md)
-_Context: Prime Minister of Ukraine, September 30, Ukrainian, Ukrainian President, Viktor Yanukovych, Viktor Yushchenko_
+_Context: Prime Minister of Ukraine, September 30, Ukraine, Ukrainian President, Viktor Yanukovych, Viktor Yushchenko_
 
 ##### Qassam rockets
 ### [ Two Qassam rockets land in Israel with at least two casualties in Sderot. The IAF strikes two Hamas posts in the Gaza Strip, with no casualties reported. ](/news/2007/05/27/two-qassam-rockets-land-in-israel-with-at-least-two-casualties-in-sderot-the-iaf-strikes-two-hamas-posts-in-the-gaza-strip-with-no-casual.md)

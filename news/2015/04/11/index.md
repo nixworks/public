@@ -19,7 +19,7 @@ _Context: Egypt, Mohamed Badie, Muslim Brotherhood_
 ### [A man carrying a protest sign, backpack and rolling luggage fatally shot himself in the head in front of the US Capitol Building. Capitol Police announced there was no apparent connection to terrorism. It follows unconnected shootings at the US Census HQ and the NSA. ](/news/2015/04/11/a-man-carrying-a-protest-sign-backpack-and-rolling-luggage-fatally-shot-himself-in-the-head-in-front-of-the-us-capitol-building-capitol-po.md)
 _Context: US Capitol Building_
 
-##### U.S. President
+##### President
 ### [The President of the United States Barack Obama and the President of Cuba Raul Castro meet at the sidelines of the Summit of the Americas in Panama. This marks the first meeting of the leaders of the two countries since the Cuban Revolution. ](/news/2015/04/11/the-president-of-the-united-states-barack-obama-and-the-president-of-cuba-raul-castro-meet-at-the-sidelines-of-the-summit-of-the-americas-in.md)
 President Obama and Cuban President Raul Castro met face-to-face Saturday, holding their first-ever substantive conversation in person.
 

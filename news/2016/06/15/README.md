@@ -37,7 +37,7 @@ Israeli municipal authorities on Wednesday approved the construction of a three-
 
 ##### Ukraine-NATO relations
 ### [NATO's defense ministers agree to boost support for Ukraine with a "comprehensive package of assistance", which will help it strengthen defense and to modernize its armed forces. ](/news/2016/06/15/nato-s-defense-ministers-agree-to-boost-support-for-ukraine-with-a-comprehensive-package-of-assistance-which-will-help-it-strengthen-defe.md)
-_Context: NATO, Ukraine-NATO relations, Ukrainian, Ukrainian military_
+_Context: NATO, Ukraine, Ukraine-NATO relations, Ukrainian military_
 
 ##### European Union-Turkey relations
 ### [Turkey fails to meet the criteria set forth by the European Union in order to obtain visa-free travel to its member states. The EU promised to grant Turkey visa-free travel only if it met specific conditions on border security and human rights. ](/news/2016/06/15/turkey-fails-to-meet-the-criteria-set-forth-by-the-european-union-in-order-to-obtain-visa-free-travel-to-its-member-states-the-eu-promised.md)

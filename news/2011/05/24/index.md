@@ -47,7 +47,7 @@ Somali authorities seized twoaircraft carrying $3.6 million in ransom payments f
 ### [Malaysian authorities break up a mass gathering of Shiite Muslims, detaining four. ](/news/2011/05/24/malaysian-authorities-break-up-a-mass-gathering-of-shiite-muslims-detaining-four.md)
 _Context: Malaysia, Muslim, Shia_
 
-##### U.S. President
+##### President
 ### [U.S. President Barack Obama meets Queen Elizabeth II and Prince Philip, Duke of Edinburgh and senior royals at the start of a three-day state visit to the United Kingdom. ](/news/2011/05/24/u-s-president-barack-obama-meets-queen-elizabeth-ii-and-prince-philip-duke-of-edinburgh-and-senior-royals-at-the-start-of-a-three-day-stat.md)
 Barack Obama has met the Queen and senior royals at the start of a three-day state visit as he hails the &quot;essential relationship&quot; between the US and UK.
 

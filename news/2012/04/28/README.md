@@ -7,7 +7,7 @@ Formats: [HTML](2012/04/28/index.html)  [JSON](2012/04/28/index.json)  [XML](201
 ### [Malaysian police use tear gas and water cannon to disperse thousands of protesters gathered in Kuala Lumpur calling for free and fair elections. ](/news/2012/04/28/malaysian-police-use-tear-gas-and-water-cannon-to-disperse-thousands-of-protesters-gathered-in-kuala-lumpur-calling-for-free-and-fair-electi.md)
 At least 25,000 activists took to the streets on Saturday to call for free and fair elections, and were met by police who fired tear gas at some demonstrators who broke through barriers.
 
-##### Chinese
+##### China
 ### [Blind Chinese human rights activist Chen Guangcheng &ndash; who fled from house arrest &ndash; reportedly takes refuge in the U.S. embassy in Beijing. ](/news/2012/04/28/blind-chinese-human-rights-activist-chen-guangcheng-ndash-who-fled-from-house-arrest-ndash-reportedly-takes-refuge-in-the-u-s-embassy-i.md)
 Supporters of blind legal advocate Chen Guangcheng believe he is in the US embassy after escape from home imprisonment.
 
@@ -29,7 +29,7 @@ _Context: Busch Stadium, Missouri, St. Louis_
 
 ##### 2012 Dnipropetrovsk explosions
 ### [2012 Dnipropetrovsk explosions: Ukrainian president Viktor Yanukovich promises an investigation into the incident that injured 30 people. ](/news/2012/04/28/2012-dnipropetrovsk-explosions-ukrainian-president-viktor-yanukovich-promises-an-investigation-into-the-incident-that-injured-30-people.md)
-_Context: 2012 Dnipropetrovsk explosions, Ukrainian, Viktor Yanukovich_
+_Context: 2012 Dnipropetrovsk explosions, Ukraine, Viktor Yanukovich_
 
 ##### Afghanistan
 ### [Two bodyguards and two insurgents are killed in an attack on the Governor of Afghanistan's Kandahar Province. ](/news/2012/04/28/two-bodyguards-and-two-insurgents-are-killed-in-an-attack-on-the-governor-of-afghanistan-s-kandahar-province.md)

@@ -33,7 +33,7 @@ Three persons were killed on Tuesday when police opened fire on a mob which atta
 
 ##### Upcoming congressional votes
 ### [President Barack Obama has sufficient support in the United States Senate to uphold a veto of the proposed congressional vote of disapproval of the nuclear deal with Iran. ](/news/2015/09/2/president-barack-obama-has-sufficient-support-in-the-united-states-senate-to-uphold-a-veto-of-the-proposed-congressional-vote-of-disapproval.md)
-_Context: Barack Obama, Iran, Senate, U.S. President, Upcoming congressional votes_
+_Context: Barack Obama, Iran, President, Senate, Upcoming congressional votes_
 
 ##### French
 ### [French police arrest an arsonist for a fire in an apartment in the 18th arrondissement of Paris which killed eight people.](/news/2015/09/2/french-police-arrest-an-arsonist-for-a-fire-in-an-apartment-in-the-18th-arrondissement-of-paris-which-killed-eight-people.md)

@@ -13,7 +13,7 @@ _Context: Anhui, Guo Jinlong, Mayor, Wang Qishan_
 
 ##### Atlasjet Flight 4203
 ### [ The wreckage of Atlasjet Flight 4203 carrying 56 passengers and crew is found in central Turkey with no survivors. ](/news/2007/11/30/the-wreckage-of-atlasjet-flight-4203-carrying-56-passengers-and-crew-is-found-in-central-turkey-with-no-survivors.md)
-_Context: Atlasjet Flight 4203, Turkey_
+_Context: Atlasjet Flight 4203, Turkish_
 
 ##### Sudan
 ### [ Protesters in Sudan demand execution of Gillian Gibbons for insulting the prophet Muhammad after she let students name a teddy bear after him. ](/news/2007/11/30/protesters-in-sudan-demand-execution-of-gillian-gibbons-for-insulting-the-prophet-muhammad-after-she-let-students-name-a-teddy-bear-after-h.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2007/09/15/index.html)  [JSON](2007/09/15/index.json)  [XML](200
 
 ##### Zhao Yan
 ### [ Zhao Yan, a Chinese journalist working for the "New York Times", is released from jail in China after serving a three year sentence for "leaking state secrets". ](/news/2007/09/15/zhao-yan-a-chinese-journalist-working-for-the-new-york-times-is-released-from-jail-in-china-after-serving-a-three-year-sentence-for-le.md)
-_Context: Chinese, New York Times, Zhao Yan, jail_
+_Context: China, New York Times, Zhao Yan, jail_
 
 ##### Sri Lanka
 ### [ Nineteen people are killed in Sri Lanka as a result of a roadside bomb and fighting between the Sri Lankan Army and the Tamil Tigers. ](/news/2007/09/15/nineteen-people-are-killed-in-sri-lanka-as-a-result-of-a-roadside-bomb-and-fighting-between-the-sri-lankan-army-and-the-tamil-tigers.md)

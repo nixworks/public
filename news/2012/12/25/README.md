@@ -41,7 +41,7 @@ Two brothers aged four and 10 and a woman are killed, and two other women are se
 
 ##### Mi-8
 ### [Five people are killed when a Mi-8 helicopter of Ukraine's internal troops crashes in Oleksandriia, Kirovohrad Oblast, Ukraine. ](/news/2012/12/25/five-people-are-killed-when-a-mi-8-helicopter-of-ukraine-s-internal-troops-crashes-in-oleksandriia-kirovohrad-oblast-ukraine.md)
-_Context: Kirovohrad Oblast, Mi-8, Oleksandriia, Ukrainian, helicopter, internal troops_
+_Context: Kirovohrad Oblast, Mi-8, Oleksandriia, Ukraine, helicopter, internal troops_
 
 ##### Copahue
 ### [An alert is issued after the Copahue stratovolcano, located on the border between Argentina and Chile, begins spewing ash. ](/news/2012/12/25/an-alert-is-issued-after-the-copahue-stratovolcano-located-on-the-border-between-argentina-and-chile-begins-spewing-ash.md)

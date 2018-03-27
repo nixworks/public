@@ -11,9 +11,9 @@ Former South African President Nelson Mandela leaves hospital and returns to his
 ### [The controversial spiritual guru Asaram Bapu is arrested on a rape charge filed by a teenage girl in northwest India. ](/news/2013/09/1/the-controversial-spiritual-guru-asaram-bapu-is-arrested-on-a-rape-charge-filed-by-a-teenage-girl-in-northwest-india.md)
 Police say they have arrested a controversial spiritual guru on a rape charge filed by a teen-age girl in northwest India.
 
-##### Chinese
+##### China
 ### [A 5.9-magnitude earthquake kills at least four people in southwestern China. ](/news/2013/09/1/a-5-9-magnitude-earthquake-kills-at-least-four-people-in-southwestern-china.md)
-_Context: Chinese_
+_Context: China_
 
 ##### Pakistan
 ### [A roadside bomb targeting a passing Pakistani army convoy kills nine soldiers in North Waziristan near Pakistan's border with Afghanistan. ](/news/2013/09/1/a-roadside-bomb-targeting-a-passing-pakistani-army-convoy-kills-nine-soldiers-in-north-waziristan-near-pakistan-s-border-with-afghanistan.md)

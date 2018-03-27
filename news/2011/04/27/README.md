@@ -9,7 +9,7 @@ Republican Congressman Dean Heller is appointed to replace a Nevada senator who 
 
 ##### Barack Obama citizenship conspiracy theories
 ### [In response to persistent accusations by potential Republican primary candidate Donald Trump and others, President of the United States Barack Obama releases his long-form birth certificate, certifying his birth in the state of Hawaii. ](/news/2011/04/27/in-response-to-persistent-accusations-by-potential-republican-primary-candidate-donald-trump-and-others-president-of-the-united-states-bara.md)
-_Context: Barack Obama, Barack Obama citizenship conspiracy theories, Donald Trump, Hawaii, U.S. President, birth certificate, nomination_
+_Context: Barack Obama, Barack Obama citizenship conspiracy theories, Hawaii, President, Trump, birth certificate, nomination_
 
 ##### Singapore
 ### [The Singapore's ruling party People Action Party was not returned to government on Nomination Day, 82 of 87 seats will be contested in the coming election. ](/news/2011/04/27/the-singapore-s-ruling-party-people-action-party-was-not-returned-to-government-on-nomination-day-82-of-87-seats-will-be-contested-in-the-c.md)

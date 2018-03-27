@@ -55,9 +55,9 @@ _Context: Myanmar, Yangon, constitution_
 ### [ The Rail Maritime and Transport Union threatens a three day strike on the London Underground with last minute talks between the union and Transport for London failing to prevent this outcome. ](/news/2007/09/3/the-rail-maritime-and-transport-union-threatens-a-three-day-strike-on-the-london-underground-with-last-minute-talks-between-the-union-and-t.md)
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
-##### U.S. President
+##### President
 ### [ U.S. President George W. Bush makes a surprise visit to Iraq and addresses military leaders and the troops, saying that with success, a U.S. Iraq troop cut is possible. ](/news/2007/09/3/u-s-president-george-w-bush-makes-a-surprise-visit-to-iraq-and-addresses-military-leaders-and-the-troops-saying-that-with-success-a-u-s.md)
-_Context: George W. Bush, Iraq, Iraq War, Military of the United States, U.S. President, troop cut_
+_Context: George W. Bush, Iraq, Iraq War, Military of the United States, President, troop cut_
 
 ##### Israeli Defense Forces
 ### [ The Israeli Defense Forces announce plans for a force upgrade following problems in the 2006 Lebanon War and a perceived threat from Iran. ](/news/2007/09/3/the-israeli-defense-forces-announce-plans-for-a-force-upgrade-following-problems-in-the-2006-lebanon-war-and-a-perceived-threat-from-iran.md)

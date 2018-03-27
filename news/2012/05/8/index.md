@@ -15,9 +15,9 @@ _Context: Aung San Suu Kyi, Burma, passport_
 ### [Next Israeli legislative election: Prime Minister Benjamin Netanyahu reaches an agreement with the Head of Opposition Shaul Mofaz for Kadima to join the current government, thus canceling the early election supposed to be held in September. ](/news/2012/05/8/next-israeli-legislative-election-prime-minister-benjamin-netanyahu-reaches-an-agreement-with-the-head-of-opposition-shaul-mofaz-for-kadima.md)
 Late-night political drama: Early elections averted as Likud, Kadima agree on unity government. Shaul Mofaz appointed deputy PM, to take part in key security meetings. Coalition to promote haredi draft
 
-##### Ukrainian
+##### Ukraine
 ### [Former Ukrainian prime minister Yulia Tymoshenko ends her hunger strike in detention. ](/news/2012/05/8/former-ukrainian-prime-minister-yulia-tymoshenko-ends-her-hunger-strike-in-detention.md)
-_Context: Ukrainian, Yulia Tymoshenko_
+_Context: Ukraine, Yulia Tymoshenko_
 
 ##### New York Court of Appeals
 ### [The New York Court of Appeals, in The People v. James Kent, rules that merely viewing child pornography (or having a cache of it, as on a cell phone), despite its offensiveness, is not in itself illegal in the state, so long as one is not aware of the cache or did not download the images ono a drive in order to view them; state legislators have stated they will work to close those loopholes through formulation of legislation. Distribution, production, and purposeful possession would still be illegal.](/news/2012/05/8/the-new-york-court-of-appeals-in-the-people-v-james-kent-rules-that-merely-viewing-child-pornography-or-having-a-cache-of-it-as-on-a-ce.md)

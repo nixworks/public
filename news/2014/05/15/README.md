@@ -25,7 +25,7 @@ About 10,000 gallons of oil was vacuumed up from the LA streets after a pipe bro
 
 ##### Labour unions
 ### [Several trade unions in Turkey hold a one-day strike in response to the disaster. ](/news/2014/05/15/several-trade-unions-in-turkey-hold-a-one-day-strike-in-response-to-the-disaster.md)
-_Context: Turkey, labour unions_
+_Context: Turkish, labour unions_
 
 ##### First Family
 ### [First Family Barack and Michelle Obama and numerous political figures visit and dedicate the memorial with the victims on Ground Zero. ](/news/2014/05/15/first-family-barack-and-michelle-obama-and-numerous-political-figures-visit-and-dedicate-the-memorial-with-the-victims-on-ground-zero.md)

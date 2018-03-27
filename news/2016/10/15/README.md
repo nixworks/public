@@ -11,7 +11,7 @@ Countries meeting in Rwanda have agreed a &quot;monumental&quot; deal to phase o
 ### [Judge Vivien Rose of London's High Court, finds in favor of Goldman Sachs, that the bank is not liable for the failure of highly speculative trades made by the sovereign wealth fund of Libya. ](/news/2016/10/15/judge-vivien-rose-of-london-s-high-court-finds-in-favor-of-goldman-sachs-that-the-bank-is-not-liable-for-the-failure-of-highly-speculative.md)
 _Context: Goldman Sachs, High Court, Libya, Vivien Rose, highly speculative trades, sovereign wealth fund_
 
-##### Chinese
+##### China
 ### [Police in China detain 75 people in connection with a service that determined the female gender of unborn babies for the purpose of abortion. Authorities say that at least 300 people were involved in the illegal service in the eastern Chinese province of Zhejiang. Expectant parents wanting male children smuggled fetal blood samples to Hong Kong for gender testing. China ended its one-child policy last year. ](/news/2016/10/15/police-in-china-detain-75-people-in-connection-with-a-service-that-determined-the-female-gender-of-unborn-babies-for-the-purpose-of-abortion.md)
 Police in China detain 75 people in connection with a widespread network that illegally determined the gender of unborn babies.
 

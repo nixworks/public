@@ -5,7 +5,7 @@ Formats: [HTML](2015/06/16/index.html)  [JSON](2015/06/16/index.json)  [XML](201
 
 ##### 2016 U.S. election
 ### [Real estate mogul and reality television host Donald Trump announces that he will be a candidate for the Republican Party nomination. ](/news/2015/06/16/real-estate-mogul-and-reality-television-host-donald-trump-announces-that-he-will-be-a-candidate-for-the-republican-party-nomination.md)
-_Context: 2016 U.S. election, Donald Trump, Republican_
+_Context: 2016 U.S. election, Republican, Trump_
 
 ##### Egypt
 ### [An Egyptian court sentences former President Mohamed Morsi to life in prison for conspiring with foreign groups and upholds an earlier preliminary death sentence issued for a prison break. Muslim Brotherhood leader Khairat el-Shater and two others are given death sentences. ](/news/2015/06/16/an-egyptian-court-sentences-former-president-mohamed-morsi-to-life-in-prison-for-conspiring-with-foreign-groups-and-upholds-an-earlier-preli.md)

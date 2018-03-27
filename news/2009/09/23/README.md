@@ -37,7 +37,7 @@ _Context: Argentina, Dirty War, Julio Alberto Poch, Spanish, Transavia_
 
 ##### India
 ### [ India successfully launches seven satellites in a single mission one month after its inaugural Moon mission is aborted. Included are six smaller satellites from Germany, Switzerland and Turkey. ](/news/2009/09/23/india-successfully-launches-seven-satellites-in-a-single-mission-one-month-after-its-inaugural-moon-mission-is-aborted-included-are-six-sm.md)
-_Context: Germany, India, Moon, Switzerland, Turkey_
+_Context: Germany, India, Moon, Switzerland, Turkish_
 
 ##### India
 ### [ Indian villagers accuse the actress Julia Roberts of interrupting Navratri. ](/news/2009/09/23/indian-villagers-accuse-the-actress-julia-roberts-of-interrupting-navratri.md)
@@ -73,7 +73,7 @@ _Context: Mexico, San Ysidro, United States_
 
 ##### President
 ### [ Former President of Cuba Fidel Castro praises current President of the United States Barack Obama for his speech before the United Nations General Assembly for admitting it had been slow to act on climate change but urges that the American capitalist system is incompatible with a clean planet. ](/news/2009/09/23/former-president-of-cuba-fidel-castro-praises-current-president-of-the-united-states-barack-obama-for-his-speech-before-the-united-nations.md)
-_Context: Barack Obama, Fidel Castro, President, U.S. President, United Nations General Assembly_
+_Context: Barack Obama, Fidel Castro, President, President, United Nations General Assembly_
 
 ##### South Africa
 ### [ Gay activists in South Africa welcome a life sentence for a man involved in the gang rape and murder of lesbian football star Eudy Simelane, one of the first women to openly live as a lesbian in her community of KwaThema. ](/news/2009/09/23/gay-activists-in-south-africa-welcome-a-life-sentence-for-a-man-involved-in-the-gang-rape-and-murder-of-lesbian-football-star-eudy-simelane.md)

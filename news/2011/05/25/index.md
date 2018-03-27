@@ -21,7 +21,7 @@ Since Dominique Strauss-Kahn resigned to fight sexual assault charges, Finance M
 
 ##### Barack Obama
 ### [Barack Obama, the President of the United States, addresses the Parliament of the United Kingdom. ](/news/2011/05/25/barack-obama-the-president-of-the-united-states-addresses-the-parliament-of-the-united-kingdom.md)
-_Context: Barack Obama, Parliament, U.S. President_
+_Context: Barack Obama, Parliament, President_
 
 ##### Air ambulance
 ### [At least 12 people die after an air ambulance crashes in Faridabad, India. ](/news/2011/05/25/at-least-12-people-die-after-an-air-ambulance-crashes-in-faridabad-india.md)

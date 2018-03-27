@@ -11,9 +11,9 @@ _Context: Afghanistan, Badghis Province, Italy, United States_
 ### [ An American Christian activist is reportedly arrested after crossing into North Korea from China, according to North Korean media. ](/news/2009/12/29/an-american-christian-activist-is-reportedly-arrested-after-crossing-into-north-korea-from-china-according-to-north-korean-media.md)
 _Context: China, Christian, Media of North Korea, North Korea, United States_
 
-##### Chinese
+##### China
 ### [ China displaces the U.S. as the largest overall buyer of Japanese goods in 2009. ](/news/2009/12/29/china-displaces-the-u-s-as-the-largest-overall-buyer-of-japanese-goods-in-2009.md)
-_Context: Chinese, Japan, U.S._
+_Context: China, Japan, U.S._
 
 ##### Somali pirates
 ### [ Somali pirates seize UK and Panamanian-flagged ships with international crews on board in the Gulf of Aden. ](/news/2009/12/29/somali-pirates-seize-uk-and-panamanian-flagged-ships-with-international-crews-on-board-in-the-gulf-of-aden.md)
@@ -39,9 +39,9 @@ The sister of Nobel laureate Shirin Ebadi has been detained by Iranian intellige
 ### [ Bangladesh says it will repatriate 9,000 Rohingya refugees staying at camps in the country back to Burma. ](/news/2009/12/29/bangladesh-says-it-will-repatriate-9-000-rohingya-refugees-staying-at-camps-in-the-country-back-to-burma.md)
 _Context: Bangladesh, Burma, Rohingya_
 
-##### Turkey
+##### Turkish
 ### [ A Turkish court sentences a Kurdish man to life in prison for a minibus bombing in 2005 that killed five people. ](/news/2009/12/29/a-turkish-court-sentences-a-kurdish-man-to-life-in-prison-for-a-minibus-bombing-in-2005-that-killed-five-people.md)
-_Context: Kurdish, Turkey, minibus bombing in 2005_
+_Context: Kurdish, Turkish, minibus bombing in 2005_
 
 ##### Sudanese parliament
 ### [ The Sudanese parliament approves legislation for a referendum on the independence of South Sudan. ](/news/2009/12/29/the-sudanese-parliament-approves-legislation-for-a-referendum-on-the-independence-of-south-sudan.md)

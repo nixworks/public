@@ -7,7 +7,7 @@ Formats: [HTML](2016/09/20/index.html)  [JSON](2016/09/20/index.json)  [XML](201
 ### [A court sentences five members of the Cuba men's national volleyball team to prison for a gang rape of a Finnish woman that took place in Tampere, Finland, in July 2016 during the FIVB Volleyball World League. ](/news/2016/09/20/a-court-sentences-five-members-of-the-cuba-men-s-national-volleyball-team-to-prison-for-a-gang-rape-of-a-finnish-woman-that-took-place-in-ta.md)
 _Context: Cuba men's national volleyball team, FIVB Volleyball World League, Finland, Tampere, five members_
 
-##### U.S. President
+##### President
 ### [In his final speech as President of the United States to the United Nations General Assembly, Barack Obama calls for a renewed commitment to collaborative efforts in facing many of the challenges confronting "an integrated world" community. ](/news/2016/09/20/in-his-final-speech-as-president-of-the-united-states-to-the-united-nations-general-assembly-barack-obama-calls-for-a-renewed-commitment-to.md)
 In the last General Assembly address of his presidency, Mr. Obama was focused as much on the American presidential election as on his legacy.
 

@@ -11,7 +11,7 @@ _Context: pornography_
 ### [An investigation is launched into how a Wal-Mart shop in New Jersey, United States announced "Attention Wal-Mart customers: All black people leave the store now". ](/news/2010/03/17/an-investigation-is-launched-into-how-a-wal-mart-shop-in-new-jersey-united-states-announced-attention-wal-mart-customers-all-black-people.md)
 A branch of Wal-Mart is being investigated after an announcement was made via the store&#039;s loudspeakers for &#039;all black people&#039; to leave.
 
-##### U.S. President
+##### President
 ### [President of the United States Barack Obama announces that the United States will pursue aggressive sanctions to prevent Iran from getting a nuclear weapon that could potentially spark a nuclear arms race in the Middle East. ](/news/2010/03/17/president-of-the-united-states-barack-obama-announces-that-the-united-states-will-pursue-aggressive-sanctions-to-prevent-iran-from-getting-a.md)
 President Barack Obama said on Wednesday the United States would pursue &quot;aggressive sanctions&quot; to prevent Iran from getting a nuclear weapon that could potentially spark a nuclear arms race in the Middle East.
 

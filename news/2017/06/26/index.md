@@ -17,7 +17,7 @@ _Context: Battulga Khaltmaa, Democratic Party, Mongolia, Mongolian presidential 
 
 ##### CNN 2017 undercover videos controversy
 ### [Three CNN journalists, Thomas Frank, Eric Lichtblau, and Lex Haris, resign after the publication of a Russia-related article involving President Donald Trump that was retracted. ](/news/2017/06/26/three-cnn-journalists-thomas-frank-eric-lichtblau-and-lex-haris-resign-after-the-publication-of-a-russia-related-article-involving-presi.md)
-_Context: CNN, CNN 2017 undercover videos controversy, Donald Trump, Eric Lichtblau_
+_Context: CNN, CNN 2017 undercover videos controversy, Eric Lichtblau, Trump_
 
 ##### Alaska Airlines
 ### [Alaska Airlines removes 11 passengers from a Juneau, Alaska to Seattle, Washington flight, due to alleged unruly and uncooperative behavior. There were no arrests. ](/news/2017/06/26/alaska-airlines-removes-11-passengers-from-a-juneau-alaska-to-seattle-washington-flight-due-to-alleged-unruly-and-uncooperative-behavior.md)

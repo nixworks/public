@@ -31,9 +31,9 @@ The singer formerly known as Cat Stevens returned to Britain on Thursday, saying
 ### [ 2004 Atlantic hurricane season: The number of people confirmed dead in Haiti from the effects of Hurricane Jeanne rises to at least 691, with the number of missing at more than 1,000. The city of Gonaves remains flooded, and thousands are homeless. ](/news/2004/09/21/2004-atlantic-hurricane-season-the-number-of-people-confirmed-dead-in-haiti-from-the-effects-of-hurricane-jeanne-rises-to-at-least-691-wi.md)
 _Context: 2004 Atlantic hurricane season, Gonaves, Haiti, Hurricane Jeanne_
 
-##### U.S. President
+##### President
 ### [ U.S. President George W. Bush addresses a skeptical United Nations audience to discuss his plans regarding Iraq. ](/news/2004/09/21/u-s-president-george-w-bush-addresses-a-skeptical-united-nations-audience-to-discuss-his-plans-regarding-iraq.md)
-_Context: George W. Bush, Iraq, U.S. President, United Nations_
+_Context: George W. Bush, Iraq, President, United Nations_
 
 ##### Texans for a Republican Majority
 ### [ Three members of Texans for a Republican Majority, a political action committee founded by Tom DeLay, Majority Leader of the U.S. House of Representatives, are indicted by a grand jury in Travis County, Texas, on charges of money laundering and accepting illegal campaign contributions. ](/news/2004/09/21/three-members-of-texans-for-a-republican-majority-a-political-action-committee-founded-by-tom-delay-majority-leader-of-the-u-s-house-of.md)

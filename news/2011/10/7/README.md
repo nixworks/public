@@ -25,7 +25,7 @@ _Context: Ellen Johnson-Sirleaf, Leymah Gbowee, Liberia, Nobel Peace Prize, Norw
 
 ##### Expressway
 ### [At least 35 people are killed in an expressway accident in the north Chinese port city of Tianjin, while another 10 are killed in a 24-car pileup in the Lianyungang-Khorgas Expressway's Anhui section. ](/news/2011/10/7/at-least-35-people-are-killed-in-an-expressway-accident-in-the-north-chinese-port-city-of-tianjin-while-another-10-are-killed-in-a-24-car-p.md)
-_Context: Anhui, Chinese, Lianyungang-Khorgas Expressway, Tianjin, expressway_
+_Context: Anhui, China, Lianyungang-Khorgas Expressway, Tianjin, expressway_
 
 ##### War in Afghanistan (2001-present)
 ### [The ongoing allied war in Afghanistan marks its tenth anniversary, with the death toll among ISAF personnel reaching 2,670. ](/news/2011/10/7/the-ongoing-allied-war-in-afghanistan-marks-its-tenth-anniversary-with-the-death-toll-among-isaf-personnel-reaching-2-670.md)

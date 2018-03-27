@@ -99,7 +99,7 @@ Powerful earthquake registering 7.7 magnitude strikes near Lima, Peru, according
 ### [ The trial of the President of Zambia Frederick Chiluba for stealing public money resumes today. ](/news/2007/08/15/the-trial-of-the-president-of-zambia-frederick-chiluba-for-stealing-public-money-resumes-today.md)
 _Context: Frederick Chiluba, President_
 
-##### Chinese
+##### China
 ### [ China will send officials to the United States to discuss food and product safety following a spate of product recalls in recent months. ](/news/2007/08/15/china-will-send-officials-to-the-united-states-to-discuss-food-and-product-safety-following-a-spate-of-product-recalls-in-recent-months.md)
 China will send delegations to the United States in August and September to discuss food and product safety following a spate of product recalls, a Chinese Embassy official said on Wednesday.
 
@@ -107,9 +107,9 @@ China will send delegations to the United States in August and September to disc
 ### [ Jack McConnell resigns as the leader of the Scottish Labour Party with Wendy Alexander likely to be elected as his replacement as leader. ](/news/2007/08/15/jack-mcconnell-resigns-as-the-leader-of-the-scottish-labour-party-with-wendy-alexander-likely-to-be-elected-as-his-replacement-as-leader.md)
 _Context: Jack McConnell, Scottish Labour Party, Wendy Alexander_
 
-##### U.S. President
+##### President
 ### [ President of the United States George W. Bush, President of Mexico Felipe Calderon and the Prime Minister of Canada Stephen Harper to meet later this month under the North American Security and Prosperity Partnership (SPP) mechanism to discuss economic and security issues. ](/news/2007/08/15/president-of-the-united-states-george-w-bush-president-of-mexico-felipe-caldera3n-and-the-prime-minister-of-canada-stephen-harper-to-meet.md)
-_Context: Felipe Calderon, George W. Bush, Mexican President, Prime Minister of Canada, Security and Prosperity Partnership of North America, Stephen Harper, U.S. President_
+_Context: Felipe Calderon, George W. Bush, Mexican President, President, Prime Minister of Canada, Security and Prosperity Partnership of North America, Stephen Harper_
 
 ##### Israeli Defence Force
 ### [ The Israeli Defence Force destroys a tunnel from the Gaza Strip towards Israel. ](/news/2007/08/15/the-israeli-defence-force-destroys-a-tunnel-from-the-gaza-strip-towards-israel.md)

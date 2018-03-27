@@ -15,9 +15,9 @@ The House of Representatives Monday night approved a nine-month extension of the
 ### [10 Downing Street receives a new cat to boost the battle against mice seen on television scuttling past British prime minister David Cameron. ](/news/2011/02/14/10-downing-street-receives-a-new-cat-to-boost-the-battle-against-mice-seen-on-television-scuttling-past-british-prime-minister-david-cameron.md)
 _Context: 10 Downing Street, David Cameron_
 
-##### U.S. President
+##### President
 ### [The President of the United States Barack Obama puts forward a budget for 2012 proposing heavy spending cuts but still predicting substantial budget deficits. ](/news/2011/02/14/the-president-of-the-united-states-barack-obama-puts-forward-a-budget-for-2012-proposing-heavy-spending-cuts-but-still-predicting-substantia.md)
-_Context: Barack Obama, U.S. President, United States federal budget, budget deficits_
+_Context: Barack Obama, President, United States federal budget, budget deficits_
 
 ##### Mourad Medelci
 ### [Mourad Medelci, the foreign minister of Algeria, announces that the 19-year-old state of emergency will end "within days". ](/news/2011/02/14/mourad-medelci-the-foreign-minister-of-algeria-announces-that-the-19-year-old-state-of-emergency-will-end-within-days.md)

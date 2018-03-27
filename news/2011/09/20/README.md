@@ -53,7 +53,7 @@ WADAH KHANFAR, seated behind a vast desk and surrounded by TV screens, deep leat
 
 ##### Search engine
 ### [The world's 8th-largest search engine, Yandex, expands into Turkey, marking its first venture outside the Commonwealth of Independent States. ](/news/2011/09/20/the-world-s-8th-largest-search-engine-yandex-expands-into-turkey-marking-its-first-venture-outside-the-commonwealth-of-independent-states.md)
-_Context: Commonwealth of Independent States, Turkey, Yandex, search engine_
+_Context: Commonwealth of Independent States, Turkish, Yandex, search engine_
 
 ##### International Monetary Fund
 ### [The International Monetary Fund warns of a possible global double-dip recession in the coming years. ](/news/2011/09/20/the-international-monetary-fund-warns-of-a-possible-global-double-dip-recession-in-the-coming-years.md)
@@ -67,7 +67,7 @@ _Context: Australia, Qantas Airways_
 ### ["Gears of War 3", the final game in the acclaimed "Gears of War" video game franchise, goes on sale, with 20,000 game stores around the world opening at midnight for its release. ](/news/2011/09/20/gears-of-war-3-the-final-game-in-the-acclaimed-gears-of-war-video-game-franchise-goes-on-sale-with-20-000-game-stores-around-the-worl.md)
 _Context: Gears of War, Gears of War 3, video game_
 
-##### Turkey
+##### Turkish
 ### [A bombing attack in the centre of the Turkish capital Ankara kills at least 3 people and injures 34. ](/news/2011/09/20/a-bombing-attack-in-the-centre-of-the-turkish-capital-ankara-kills-at-least-3-people-and-injures-34.md)
 A bombing attack in central Ankara on Tuesday killed three people and wounded at least 34 in the first deadly bombing in Turkey’s capital in more than four years.
 

@@ -13,7 +13,7 @@ David Cameron says he is a &quot;very proud dad&quot; after his wife Samantha ga
 
 ##### Department of Justice
 ### [The United States Department of Justice states that it will appeal a decision by United States federal judge Royce C. Lamberth to block an executive order by President Barack Obama to expand embryonic stem cell research. ](/news/2010/08/24/the-united-states-department-of-justice-states-that-it-will-appeal-a-decision-by-united-states-federal-judge-royce-c-lamberth-to-block-an-e.md)
-_Context: Barack Obama, Department of Justice, Federal District Judge, Royce C. Lamberth, U.S. President, embryonic stem cell, executive order_
+_Context: Barack Obama, Department of Justice, Federal District Judge, President, Royce C. Lamberth, embryonic stem cell, executive order_
 
 ##### 2010 Copiap mining accident
 ### [Rescue efforts start to free the men trapped following the 2010 Copiap mining accident. ](/news/2010/08/24/rescue-efforts-start-to-free-the-men-trapped-following-the-2010-copiapo-mining-accident.md)

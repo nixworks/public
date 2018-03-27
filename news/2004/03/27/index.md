@@ -21,7 +21,7 @@ _Context: 2004 presidential election, Taipei, coalition allies_
 
 ##### John Kerry
 ### [ John Kerry joins other Democrats calling for National Security Advisor Condoleezza Rice to testify before the September 11 commission and states the White House should learn from President Franklin Delano Roosevelt's openness during an inquiry after Pearl Harbor. ](/news/2004/03/27/john-kerry-joins-other-democrats-calling-for-national-security-advisor-condoleezza-rice-to-testify-before-the-september-11-commission-and-s.md)
-_Context: 9/11 Commission, Condoleezza Rice, Franklin Delano Roosevelt, John Kerry, National Security Advisor, Pearl Harbor, President, White House_
+_Context: 9/11 Commission, Condoleezza Rice, Franklin Delano Roosevelt, John Kerry, Pearl Harbor, President, US National Security Advisor, White House_
 
 ## [Previous Day...](/news/2004/03/26/index.md)
 

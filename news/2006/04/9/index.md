@@ -9,7 +9,7 @@ _Context: Hungarian Socialist Party, Parliamentary elections, Voter turnout_
 
 ##### Scooter Libby
 ### [ Scooter Libby says U.S. President George W. Bush okayed leaks of secret CIA intelligence material. ](/news/2006/04/9/scooter-libby-says-u-s-president-george-w-bush-okayed-leaks-of-secret-cia-intelligence-material.md)
-_Context: CIA, George W. Bush, Scooter Libby, U.S. President_
+_Context: CIA, George W. Bush, President, Scooter Libby_
 
 ## [Previous Day...](/news/2006/04/8/index.md)
 

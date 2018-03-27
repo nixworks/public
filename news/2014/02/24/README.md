@@ -75,7 +75,7 @@ Two &#8216;house-shaking&#8217; bombing raids reported in stronghold in Bekaa Va
 ### [Libyan police found the bodies of seven Egyptian Christians shot dead execution-style on a beach near the city of Benghazi. ](/news/2014/02/24/libyan-police-found-the-bodies-of-seven-egyptian-christians-shot-dead-execution-style-on-a-beach-near-the-city-of-benghazi.md)
 Seven Egyptian Christians were found shot dead on a beach in eastern Libya after they were abducted from their apartments, security officials and local residents said, in the second such execution-style killing this year.
 
-##### Chinese
+##### China
 ### [Chinese vessels reportedly harassed Filipino fishermen off the coast of the Philippines last January 27, according to the Philippine military. ](/news/2014/02/24/chinese-vessels-reportedly-harassed-filipino-fishermen-off-the-coast-of-the-philippines-last-january-27-according-to-the-philippine-militar.md)
 A Chinese vessel fired a water cannon at Filipino fishermen near a disputed shoal in the South China Sea, the top Philippine military chief says.
 
@@ -85,7 +85,7 @@ _Context: Northwestern Pakistan, Taliban_
 
 ##### European Commission
 ### [The European Commission recognizes Oleksandr Turchynov as Ukraine's legitimate interim president. ](/news/2014/02/24/the-european-commission-recognizes-oleksandr-turchynov-as-ukraineas-legitimate-interim-president.md)
-_Context: European Commission, Oleksandr Turchynov, Ukrainian_
+_Context: European Commission, Oleksandr Turchynov, Ukraine_
 
 ## [Previous Day...](/news/2014/02/23/index.md)
 

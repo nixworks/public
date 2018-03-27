@@ -17,7 +17,7 @@ _Context: John Lennon, Mark David Chapman, parole_
 
 ##### European Commission
 ### [ The European Commission recommends that talks be opened with Turkey aiming for it to join the European Union. ](/news/2004/10/6/the-european-commission-recommends-that-talks-be-opened-with-turkey-aiming-for-it-to-join-the-european-union.md)
-_Context: European Commission, Turkey, join the European Union_
+_Context: European Commission, Turkish, join the European Union_
 
 ##### Royal Navy
 ### [ A British Royal Navy rescue ship reaches the Chicoutimi 879, which is adrift off the Irish coast following an electrical fire en route to Halifax yesterday. Heavy seas have impeded rescue efforts, and one crewman has died being airlifted to hospital. ](/news/2004/10/6/a-british-royal-navy-rescue-ship-reaches-the-chicoutimi-879-which-is-adrift-off-the-irish-coast-following-an-electrical-fire-en-route-to-h.md)

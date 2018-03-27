@@ -61,7 +61,7 @@ German Foreign Minister Guido Westerwelle criticized on Saturday a reported Isra
 
 ##### Coal mine
 ### [Twenty-eight coal miners die after a fire in their mine near Hancheng City in China's Shaanxi Province. ](/news/2010/07/17/twenty-eight-coal-miners-die-after-a-fire-in-their-mine-near-hancheng-city-in-china-s-shaanxi-province.md)
-_Context: Chinese, Hancheng City, Shaanxi Province, coal mine_
+_Context: China, Hancheng City, Shaanxi Province, coal mine_
 
 ##### Greece
 ### [Greece experiences its first forest fires of the summer season. ](/news/2010/07/17/greece-experiences-its-first-forest-fires-of-the-summer-season.md)

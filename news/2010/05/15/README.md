@@ -41,7 +41,7 @@ Italy has fined Ryanair 3 million euros for failing to help passengers after can
 
 ##### James Cameron
 ### [Following the phenomenal success of James Cameron's Avatar, a ceremony marking the start of the shoot of China's first IMAX3D film. ](/news/2010/05/15/following-the-phenomenal-success-of-james-cameron-s-avatar-a-ceremony-marking-the-start-of-the-shoot-of-china-s-first-imax3d-film.md)
-_Context: Avatar, Chinese, IMAX3D, James Cameron_
+_Context: Avatar, China, IMAX3D, James Cameron_
 
 ## [Previous Day...](/news/2010/05/14/index.md)
 

@@ -47,9 +47,9 @@ _Context: Ban Ki-moon, United Nations Secretary-General, bombing_
 ### [Omar Suleiman, the former police and intelligence chief under ousted Egyptian dictator Hosni Mubarak, dies suddenly during medical tests in the United States. ](/news/2012/07/19/omar-suleiman-the-former-police-and-intelligence-chief-under-ousted-egyptian-dictator-hosni-mubarak-dies-suddenly-during-medical-tests-in.md)
 _Context: Hosni Mubarak, Omar Suleiman_
 
-##### Chinese
+##### China
 ### [China summons a Russian diplomat after the latter country opened fire on a fishing boat and detained the Chinese crew. ](/news/2012/07/19/china-summons-a-russian-diplomat-after-the-latter-country-opened-fire-on-a-fishing-boat-and-detained-the-chinese-crew.md)
-_Context: Chinese, Russia_
+_Context: China, Russia_
 
 ##### Bangladesh
 ### [Bangladeshi writer and film director Humayun Ahmed dies at 63 in New York while undergoing a treatment for colorectal cancer. ](/news/2012/07/19/bangladeshi-writer-and-film-director-humayun-ahmed-dies-at-63-in-new-york-while-undergoing-a-treatment-for-colorectal-cancer.md)

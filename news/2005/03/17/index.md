@@ -35,9 +35,9 @@ _Context: London, Sumitomo Mitsui Bank_
 ### [ In Bolivia, opposition leader Evo Morales calls off blockades against the government of Carlos Mesa after it raises taxes of foreign energy companies. ](/news/2005/03/17/in-bolivia-opposition-leader-evo-morales-calls-off-blockades-against-the-government-of-carlos-mesa-after-it-raises-taxes-of-foreign-energy.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
-##### Chinese
+##### China
 ### [ In China, a bus explosion kills about 30 people in Jiangxi province. ](/news/2005/03/17/in-china-a-bus-explosion-kills-about-30-people-in-jiangxi-province.md)
-_Context: Chinese, Jiangxi, bus_
+_Context: China, Jiangxi, bus_
 
 ##### NGO
 ### [ A number of non-governmental organizations meet in Geneva, Switzerland in the World Water Forum. They call for water to be treated as a common asset instead of being privatized. ](/news/2005/03/17/a-number-of-non-governmental-organizations-meet-in-geneva-switzerland-in-the-world-water-forum-they-call-for-water-to-be-treated-as-a-com.md)

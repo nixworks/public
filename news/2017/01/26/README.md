@@ -17,7 +17,7 @@ Return ends anxious wait after crisis sparked by predecessor Yahya Jammeh’s re
 
 ##### Patrick F. Kennedy
 ### [Patrick F. Kennedy, Joyce Anne Barr, Michele Thoren Bond and Gentry O. Smith resign from the United States Department of State, after Victoria Nuland and Gregory B. Starr had declined to stay on in the Donald Trump administration. ](/news/2017/01/26/patrick-f-kennedy-joyce-anne-barr-michele-thoren-bond-and-gentry-o-smith-resign-from-the-united-states-department-of-state-after-victor.md)
-_Context: Donald Trump, Gentry O. Smith, Gregory B. Starr, Joyce Anne Barr, Michele Thoren Bond, Patrick F. Kennedy, State Department, Victoria Nuland_
+_Context: Gentry O. Smith, Gregory B. Starr, Joyce Anne Barr, Michele Thoren Bond, Patrick F. Kennedy, State Department, Trump, Victoria Nuland_
 
 ##### Ousman Sonko
 ### [Former Gambian Interior Minister Ousman Sonko is arrested in Switzerland on allegations of human rights abuses. ](/news/2017/01/26/former-gambian-interior-minister-ousman-sonko-is-arrested-in-switzerland-on-allegations-of-human-rights-abuses.md)
@@ -29,7 +29,7 @@ Greece rules against extraditing eight soldiers that Turkey accuses of involveme
 
 ##### 2017 Mexico-United States diplomatic crisis
 ### [Mexican President Enrique Pena Nieto cancels the meeting scheduled for next week with U.S. President Donald Trump, citing his plan to build a border wall between the two countries. ](/news/2017/01/26/mexican-president-enrique-pea-a-nieto-cancels-the-meeting-scheduled-for-next-week-with-u-s-president-donald-trump-citing-his-plan-to-build.md)
-_Context: 2017 Mexico-United States diplomatic crisis, Donald Trump, Enrique Pena Nieto, Mexican President, U.S. President, wall_
+_Context: 2017 Mexico-United States diplomatic crisis, Enrique Pena Nieto, Mexican President, Trump, U.S. President, wall_
 
 ##### Indian Army
 ### [At least 14 Indian Army soldiers and four civilians are killed in a series of avalanches near the Line of Control in Jammu and Kashmir. ](/news/2017/01/26/at-least-14-indian-army-soldiers-and-four-civilians-are-killed-in-a-series-of-avalanches-near-the-line-of-control-in-jammu-and-kashmir.md)

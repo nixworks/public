@@ -39,7 +39,7 @@ WASHINGTON &ndash; President Obama announced the resignation Wednesday evening o
 ### [The United Nations General Assembly passes a resolution condemning the Syrian government for human rights violations. ](/news/2013/05/15/the-united-nations-general-assembly-passes-a-resolution-condemning-the-syrian-government-for-human-rights-violations.md)
 General Assembly approves Qatari-drafted measure condemning alleged rights abuses by government amid continued violence.
 
-##### Chinese
+##### China
 ### [China, India, and four other nations join the Arctic Council with observer status. ](/news/2013/05/15/china-india-and-four-other-nations-join-the-arctic-council-with-observer-status.md)
 Deposits of oil, gas and minerals in the region have set off a global competition for influence and economic opportunities.
 

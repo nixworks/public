@@ -5,7 +5,7 @@ Formats: [HTML](2017/01/20/index.html)  [JSON](2017/01/20/index.json)  [XML](201
 
 ##### Cabinet of Donald Trump
 ### [The U.S. Senate confirms the first two members of President Donald Trump's Cabinet: retired Marine General James Mattis as Secretary of Defense, and retired Marine general John F. Kelly as Secretary of Homeland Security. ](/news/2017/01/20/the-u-s-senate-confirms-the-first-two-members-of-president-donald-trump-s-cabinet-retired-marine-general-james-mattis-as-secretary-of-defe.md)
-_Context: Cabinet, Cabinet of Donald Trump, Donald Trump, James Mattis, John F. Kelly, Secretary of Homeland Security, U.S. President, United States Secretary of Defense_
+_Context: Cabinet, Cabinet of Donald Trump, James Mattis, John F. Kelly, President, Secretary of Homeland Security, Trump, United States Secretary of Defense_
 
 ##### 2016-2017 Gambian constitutional crisis
 ### [Lieutenant General Ousman Badjie, chief of the Gambian army, recognizes Adama Barrow as the new commander-and-chief of the armed forces and says that his troops will not fight ECOWAS soldiers. ](/news/2017/01/20/lieutenant-general-ousman-badjie-chief-of-the-gambian-army-recognizes-adama-barrow-as-the-new-commander-and-chief-of-the-armed-forces-and.md)

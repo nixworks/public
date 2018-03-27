@@ -11,7 +11,7 @@ _Context: Chenab River, Jhang District, Pakistan_
 ### [Gold extends a fresh three-month low as a stronger U.S. dollar sapped investor appetite for the metal. ](/news/2014/09/10/gold-extends-a-fresh-three-month-low-as-a-stronger-u-s-dollar-sapped-investor-appetite-for-the-metal.md)
 Gold futures gave up earlier gains, settling at a fresh three-month low Wednesday as a stronger U.S. dollar sapped investor appetite for the metal.
 
-##### U.S. President
+##### President
 ### [The President of the United States Barack Obama authorises $25 million for "immediate military assistance" to the Iraqi government and Kurdistan Regional Government. He also outlines plans to expand US operations against Islamic State in Iraq and the Levant to Syria in a televised address to the nation. ](/news/2014/09/10/the-president-of-the-united-states-barack-obama-authorises-25-million-for-immediate-military-assistance-to-the-iraqi-government-and-kurdi.md)
 President Barack Obama authorized $25 million in &quot;immediate military assistance&quot; on Wednesday for the Iraqi government and Kurdistan Regional Government to help with military education and training, according to a memorandum posted on the White House website.
 

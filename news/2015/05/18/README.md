@@ -23,9 +23,9 @@ A hospital nurse who used insulin to tamper with medical supplies is found guilt
 ### [Former Australian tennis player Bob Hewitt is jailed for six years in South Africa for raping underaged girls. ](/news/2015/05/18/former-australian-tennis-player-bob-hewitt-is-jailed-for-six-years-in-south-africa-for-raping-underaged-girls.md)
 _Context: Bob Hewitt, South Africa_
 
-##### U.S. President
+##### President
 ### [President of the United States Barack Obama bans the provision of some military-type equipment to local police departments and restricts access to other types of equipment following recent tensions between police and minority communities. ](/news/2015/05/18/president-of-the-united-states-barack-obama-bans-the-provision-of-some-military-type-equipment-to-local-police-departments-and-restricts-acc.md)
-_Context: Barack Obama, U.S. President, police department_
+_Context: Barack Obama, President, police department_
 
 ##### Scott Driscoll
 ### [Scott Driscoll, a former member of the Legislative Assembly of the Australian state of Queensland, has been committed to stand trial on fraud charges. ](/news/2015/05/18/scott-driscoll-a-former-member-of-the-legislative-assembly-of-the-australian-state-of-queensland-has-been-committed-to-stand-trial-on-frau.md)

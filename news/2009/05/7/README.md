@@ -17,7 +17,7 @@ _Context: Bank of England, GBP, interest rate, quantitative easing_
 
 ##### Casino
 ### [ A fire at a casino kills ten people and injures ten others in Dnipropetrovsk, Ukraine. ](/news/2009/05/7/a-fire-at-a-casino-kills-ten-people-and-injures-ten-others-in-dnipropetrovsk-ukraine.md)
-_Context: Dnipropetrovsk, Ukrainian, casino_
+_Context: Dnipropetrovsk, Ukraine, casino_
 
 ##### European Central Bank
 ### [ The Central Bank reduces the Eurozone's interest rate to 1% and implements EUR60 billion of quantitative easing. ](/news/2009/05/7/the-central-bank-reduces-the-eurozone-s-interest-rate-to-1-and-implements-a-60-billion-of-quantitative-easing.md)

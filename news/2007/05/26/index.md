@@ -7,13 +7,13 @@ Formats: [HTML](2007/05/26/index.html)  [JSON](2007/05/26/index.json)  [XML](200
 ### [ Hamas militants are considering lighter ceasefire terms offered by Fatah, specifically Palestinian President Mahmoud Abbas. They are giving Israel until May 27 to respond to this agreement, that would only end Israeli operations in the Gaza Strip. Hamas has said, however, that they are not completely committed to their offer. Israeli attack helicopters launch missile strikes on a various facilities, including a security facility near Palestinian Prime Minister Haniyeh's home. At least three people are injured by the air strikes. ](/news/2007/05/26/hamas-militants-are-considering-lighter-ceasefire-terms-offered-by-fatah-specifically-palestinian-president-mahmoud-abbas-they-are-giving.md)
 _Context: Fatah, Gaza Strip, Hamas, Ismail Haniyeh, Israeli Army, Mahmoud Abbas, May 27, Palestinian Authority, Palestinian Authority President, Prime Minister, air strikes, attack helicopter, missile_
 
-##### Chinese
+##### China
 ### [ At least 21 people die in western China in landslides caused by heavy rain. ](/news/2007/05/26/at-least-21-people-die-in-western-china-in-landslides-caused-by-heavy-rain.md)
-_Context: Chinese, landslide_
+_Context: China, landslide_
 
-##### Ukrainian
+##### Ukraine
 ### [ Several thousand Ukrainian Interior Ministry troops head for Kiev in defiance of orders to support President Viktor Yushchenko. ](/news/2007/05/26/several-thousand-ukrainian-interior-ministry-troops-head-for-kiev-in-defiance-of-orders-to-support-president-viktor-yushchenko.md)
-_Context: Kiev, Ukrainian, Ukrainian President, Viktor Yushchenko_
+_Context: Kiev, Ukraine, Ukrainian President, Viktor Yushchenko_
 
 ##### Germany
 ### [ Germany celebrates the 175th anniversary of the Hambacher Fest. ](/news/2007/05/26/germany-celebrates-the-175th-anniversary-of-the-hambacher-fest.md)

@@ -3,7 +3,7 @@ Formats: [HTML](2011/07/22/index.html)  [JSON](2011/07/22/index.json)  [XML](201
 
 ## [2011-07-22](/news/2011/07/22/index.md)
 
-##### U.S. President
+##### President
 ### [Debt negotiations between President of the United States Barack Obama and Speaker of the House of Representatives John Boehner collapse. ](/news/2011/07/22/debt-negotiations-between-president-of-the-united-states-barack-obama-and-speaker-of-the-house-of-representatives-john-boehner-collapse.md)
 The Senate rejected a conservative plan to require a balanced budget, as officials continued to work toward a &lsquo;grand bargain&rsquo; on debt.
 

@@ -19,9 +19,9 @@ _Context: Congress of Colombia_
 ### [U.S. president Barack Obama announces that the U.S. will stop deporting some illegal immigrants. ](/news/2012/06/15/u-s-president-barack-obama-announces-that-the-u-s-will-stop-deporting-some-illegal-immigrants.md)
 President Obama outlined a new immigration policy under which young illegal immigrants who came to the country as children can obtain work permits and will not face deportation.
 
-##### Ukrainian
+##### Ukraine
 ### [Ukrainian prime minister Mykola Azarov is accused by the opposition of violating the law by drinking an alcoholic beverage in a government building. ](/news/2012/06/15/ukrainian-prime-minister-mykola-azarov-is-accused-by-the-opposition-of-violating-the-law-by-drinking-an-alcoholic-beverage-in-a-government-b.md)
-_Context: Mykola Azarov, Ukrainian_
+_Context: Mykola Azarov, Ukraine_
 
 ##### University of Alberta
 ### [Three employees of an armoured car company are reported dead and one injured in a shooting at the University of Alberta in Edmonton, Canada. ](/news/2012/06/15/three-employees-of-an-armoured-car-company-are-reported-dead-and-one-injured-in-a-shooting-at-the-university-of-alberta-in-edmonton-canada.md)
@@ -31,9 +31,9 @@ Edmonton police say an employee of G4S Security faces three counts of first-degr
 ### [Baker Atyani, "Al Arabiya{{'}}s" TV bureau chief for southeast Asia, disappears with four other people on the restive southern Philippine island of Jolo where Muslim militants are active. ](/news/2012/06/15/baker-atyani-al-arabiya-s-tv-bureau-chief-for-southeast-asia-disappears-with-four-other-people-on-the-restive-southern-philippine-is.md)
 _Context: Al Arabiya, Jolo, southeast Asia_
 
-##### Chinese
+##### China
 ### [China suspends three officials and the government of Ankang city apologizes to a woman, Feng Jianmei, 23, who is forced to undergo an illegal abortion seven months into her pregnancy after graphic photos of the mother and her dead baby are circulated online. ](/news/2012/06/15/china-suspends-three-officials-and-the-government-of-ankang-city-apologizes-to-a-woman-feng-jianmei-23-who-is-forced-to-undergo-an-illega.md)
-_Context: Ankang city, Chinese, Feng Jianmei_
+_Context: Ankang city, China, Feng Jianmei_
 
 ##### Japan
 ### [Police in Japan arrest Katsuya Takahashi of the Aum Shinrikyo cult, the last fugitive wanted over the March 1995 sarin gas attack on the Tokyo subway that killed 13 people. ](/news/2012/06/15/police-in-japan-arrest-katsuya-takahashi-of-the-aum-shinrikyo-cult-the-last-fugitive-wanted-over-the-march-1995-sarin-gas-attack-on-the-tok.md)

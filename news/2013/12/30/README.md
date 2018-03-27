@@ -25,7 +25,7 @@ _Context: Athens, Germany, Greece_
 
 ##### Xinjiang
 ### [Eight people are killed by police in Xinjiang, western China, after an apparent terrorist attack. ](/news/2013/12/30/eight-people-are-killed-by-police-in-xinjiang-western-china-after-an-apparent-terrorist-attack.md)
-_Context: Chinese, Xinjiang_
+_Context: China, Xinjiang_
 
 ##### DR Congo
 ### [The Congolese army regains control after multiple attacks by around 40 gunmen across the capital at the airport and state television headquarters. ](/news/2013/12/30/the-congolese-army-regains-control-after-multiple-attacks-by-around-40-gunmen-across-the-capital-at-the-airport-and-state-television-headqua.md)

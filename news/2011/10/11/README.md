@@ -3,7 +3,7 @@ Formats: [HTML](2011/10/11/index.html)  [JSON](2011/10/11/index.json)  [XML](201
 
 ## [2011-10-11](/news/2011/10/11/index.md)
 
-##### U.S. President
+##### President
 ### [President of the United States Barack Obama's "jobs bill" stalls in the Senate. ](/news/2011/10/11/president-of-the-united-states-barack-obama-s-jobs-bill-stalls-in-the-senate.md)
 The W.H. is defeated on its economic initiative after two moderate Democrats join a united GOP front.
 
@@ -63,9 +63,9 @@ The U.S. Senate on Tuesdayvoted to pass legislation designed to press China to l
 ### [The EU imposes further sanctions on Belarus, Iran, and Syria, expresses support for Libya's National Transitional Council, and reiterates call for Syria's President Bashar al-Assad to step down. ](/news/2011/10/11/the-eu-imposes-further-sanctions-on-belarus-iran-and-syria-expresses-support-for-libya-s-national-transitional-council-and-reiterates-ca.md)
 _Context: Bashar al-Assad, Belarus, EU, Iran, Libya, National Transitional Council, President, Syria_
 
-##### Chinese
+##### China
 ### [China follows Russian admonishment of the Syrian government while the opposition Syrian National Council gains support in Egypt and is recognized by Libya. ](/news/2011/10/11/china-follows-russian-admonishment-of-the-syrian-government-while-the-opposition-syrian-national-council-gains-support-in-egypt-and-is-recog.md)
-_Context: Chinese, Egypt, Libya, Russia, Syrian, Syrian National Council_
+_Context: China, Egypt, Libya, Russia, Syrian, Syrian National Council_
 
 ## [Previous Day...](/news/2011/10/10/index.md)
 

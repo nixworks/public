@@ -19,9 +19,9 @@ A multitude of culprits apparently drove the woolly mammoths to extinction, incl
 ### [Voters in the 8th congressional district in the US state of Arizona go to the polls for a special election caused by the resignation of Gabrielle Giffords due to health reasons with Democrat Ron Barber duly elected. ](/news/2012/06/12/voters-in-the-8th-congressional-district-in-the-us-state-of-arizona-go-to-the-polls-for-a-special-election-caused-by-the-resignation-of-gabr.md)
 Democrat Ron Barber defeated Republican Jesse Kelly in an emotionally charged and nationally watched special election.
 
-##### Turkey
+##### Turkish
 ### [Turkey announces plans to introduce elective Kurdish language course in schools, a step aimed at easing tension that Kurdish minority activists argue does not go far enough. ](/news/2012/06/12/turkey-announces-plans-to-introduce-elective-kurdish-language-course-in-schools-a-step-aimed-at-easing-tension-that-kurdish-minority-activi.md)
-_Context: Kurdish, Turkey_
+_Context: Kurdish, Turkish_
 
 ##### Falkland Islands
 ### [The Falkland Islands government announces that it will hold a referendum on the islands' sovereignty next year. ](/news/2012/06/12/the-falkland-islands-government-announces-that-it-will-hold-a-referendum-on-the-islands-sovereignty-next-year.md)
@@ -45,7 +45,7 @@ The NME publicly apologises to singer Morrissey for an article it published in 2
 
 ##### Israel
 ### [Israeli lawmakers dedicate a session of parliament to possible commemorations of the Armenian genocide, now that relations with Turkey have deteriorated since Israel killed nine Turks in international waters of the Mediterranean Sea in 2010. ](/news/2012/06/12/israeli-lawmakers-dedicate-a-session-of-parliament-to-possible-commemorations-of-the-armenian-genocide-now-that-relations-with-turkey-have.md)
-_Context: Armenian genocide, Gaza flotilla raid, Israel, Mediterranean Sea, Turkey, international waters_
+_Context: Armenian genocide, Gaza flotilla raid, Israel, Mediterranean Sea, Turkish, international waters_
 
 ##### London
 ### [Six flood warnings and 42 flood alerts remain in place in London and South East England. ](/news/2012/06/12/six-flood-warnings-and-42-flood-alerts-remain-in-place-in-london-and-south-east-england.md)

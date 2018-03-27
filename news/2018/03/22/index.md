@@ -27,7 +27,7 @@ _Context: 2017-18 Spanish constitutional crisis, President of the Generalitat_
 ### [John Dowd, the most senior lawyer advising U.S. President Donald Trump on allegations of Russian electoral interference, resigns. ](/news/2018/03/22/john-dowd-the-most-senior-lawyer-advising-u-s-president-donald-trump-on-allegations-of-russian-electoral-interference-resigns.md)
 John Dowd is reported to have concluded that Mr Trump was increasingly ignoring his advice.
 
-##### Poisoning of Sergei and Yulia Skripal
+##### Attempted murder
 ### [Detective Sergeant Nick Bailey, wounded when he came to the aid of the poisoned Russian dissidents, is discharged from hospital. ](/news/2018/03/22/detective-sergeant-nick-bailey-wounded-when-he-came-to-the-aid-of-the-poisoned-russian-dissidents-is-discharged-from-hospital.md)
 Det Sgt Nick Bailey said life would &quot;probably never be the same&quot; after being exposed to a nerve agent.
 

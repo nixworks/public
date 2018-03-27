@@ -37,7 +37,7 @@ Detainees at an Australian asylum-seeker camp in Papua New Guinea won millions o
 
 ##### Presidency of Donald Trump
 ### [Nearly 200 members of the Democratic Party in the United States Congress file a lawsuit in the federal court, claiming that U.S. President Trump profits from business dealings with foreign governments, in violation of the United States Constitution's emolument clauses. This is the third such suit of its kind, following on the heels of the most recent suit by the Attorneys General of Maryland and the District of Columbia.](/news/2017/06/14/nearly-200-members-of-the-democratic-party-in-the-united-states-congress-file-a-lawsuit-in-the-federal-court-claiming-that-u-s-president-t.md)
-_Context: Congress, Democrat, District of Columbia, Maryland, Presidency of Donald Trump, U.S. President, United States Constitution, emolument clauses_
+_Context: Congress, Democrat, District of Columbia, Maryland, Presidency of Donald Trump, President, United States Constitution, emolument clauses_
 
 ##### Egypt-Saudi Arabia relations
 ### [The Egyptian parliament approves the transfer of two uninhabited Red Sea islands, Tiran Island and Sanafir Island, to Saudi Arabia. ](/news/2017/06/14/the-egyptian-parliament-approves-the-transfer-of-two-uninhabited-red-sea-islands-tiran-island-and-sanafir-island-to-saudi-arabia.md)

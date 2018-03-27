@@ -39,9 +39,9 @@ _Context: Dahanu, India, Maharashtra_
 ### [Funeral service and cemetery company Service Corporation International purchases another funeral service company Stewart Enterprises for $1.4 billion. ](/news/2013/05/29/funeral-service-and-cemetery-company-service-corporation-international-purchases-another-funeral-service-company-stewart-enterprises-for-1.md)
 _Context: Service Corporation International, Stewart Enterprises, US dollar_
 
-##### Chinese
+##### China
 ### [Chinese meat processing company Shuanghui buys the world's largest meat processing company Smithfield Foods for $4.72 billion. ](/news/2013/05/29/chinese-meat-processing-company-shuanghui-buys-the-world-s-largest-meat-processing-company-smithfield-foods-for-4-72-billion.md)
-_Context: Chinese, Shuanghui, Smithfield Foods, US dollar_
+_Context: China, Shuanghui, Smithfield Foods, US dollar_
 
 ##### Trieste
 ### [Italians campaign to save Trieste's historic Caffe San Marco, frequented by figures such as James Joyce, Italo Svevo and Umberto Saba. ](/news/2013/05/29/italians-campaign-to-save-trieste-s-historic-caffa-san-marco-frequented-by-figures-such-as-james-joyce-italo-svevo-and-umberto-saba.md)

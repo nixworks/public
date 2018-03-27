@@ -27,9 +27,9 @@ _Context: Jack Abramoff Indian lobbying scandal, Jack Abramoff scandals, Republi
 ### [ Chadian senior army commander Abakar Itno is assassinated by a joint force of Janjaweed, Rally for Democracy and Liberty, and Sudanese military forces. ](/news/2006/03/31/chadian-senior-army-commander-abakar-itno-is-assassinated-by-a-joint-force-of-janjaweed-rally-for-democracy-and-liberty-and-sudanese-mili.md)
 _Context: Abakar Itno, Chad, Janjaweed, Rally for Democracy and Liberty, Sudanese military, assassination_
 
-##### Ukrainian
+##### Ukraine
 ### [ In Ukraine, after days of vote tallying, Viktor Yanukovych's Party of Regions wins a plurality in the 2006 parliamentary election. ](/news/2006/03/31/in-ukraine-after-days-of-vote-tallying-viktor-yanukovych-s-party-of-regions-wins-a-plurality-in-the-2006-parliamentary-election.md)
-_Context: 2006 parliamentary election, Party of Regions, Ukrainian, Viktor Yanukovych, plurality_
+_Context: 2006 parliamentary election, Party of Regions, Ukraine, Viktor Yanukovych, plurality_
 
 ## [Previous Day...](/news/2006/03/30/index.md)
 

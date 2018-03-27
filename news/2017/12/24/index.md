@@ -3,9 +3,9 @@ Formats: [HTML](2017/12/24/index.html)  [JSON](2017/12/24/index.json)  [XML](201
 
 ## [2017-12-24](/news/2017/12/24/index.md)
 
-##### Chinese
+##### China
 ### [China's AVIC AG600, the world's largest amphibious aircraft, makes its maiden flight. State-owned Aviation Industry Corporation of China (AVIC) has spent almost eight years developing the aircraft, which is designed to carry out marine rescues and battle wildfires. ](/news/2017/12/24/china-s-avic-ag600-the-world-s-largest-amphibious-aircraft-makes-its-maiden-flight-state-owned-aviation-industry-corporation-of-china-av.md)
-_Context: AVIC AG600, Aviation Industry Corporation of China, Chinese, amphibious aircraft_
+_Context: AVIC AG600, Aviation Industry Corporation of China, China, amphibious aircraft_
 
 ##### 2016-17 purges in Turkey
 ### [The Turkish government dismisses 2,756 public servants for alleged links to organizations involved in the July 2016 Turkish "coup d'etat" attempt. ](/news/2017/12/24/the-turkish-government-dismisses-2-756-public-servants-for-alleged-links-to-organizations-involved-in-the-july-2016-turkish-coup-d-a-c-tat-a.md)

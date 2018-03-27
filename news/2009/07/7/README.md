@@ -19,7 +19,7 @@ Frontpage | New Straits Times : Authoritative source for Malaysia latest news on
 ### [ A Mikoyan MiG-29 of the Serbian military crashes at Batajnica Air Base near Belgrad, killing the pilot and one soldier on the ground. ](/news/2009/07/7/a-mikoyan-mig-29-of-the-serbian-military-crashes-at-batajnica-air-base-near-belgrad-killing-the-pilot-and-one-soldier-on-the-ground.md)
 _Context: Batajnica Air Base, Belgrad, MiG-29, Serbian military, crashes_
 
-##### U.S. President
+##### President
 ### [ United States President Barack Obama addresses graduates in Moscow, Russia. ](/news/2009/07/7/united-states-president-barack-obama-addresses-graduates-in-moscow-russia.md)
 The U.S. and Russia declared a rapprochement in part by agreeing to disagree on important issues.
 

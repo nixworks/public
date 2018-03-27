@@ -15,9 +15,9 @@ The World Health Organisationlaunched a plan on Wednesday to stop a form of drug
 ### [Burma has passed a law enacting conscription for both males and females.](/news/2011/01/12/burma-has-passed-a-law-enacting-conscription-for-both-males-and-females.md)
 Burmese men and women above the age of 18 required to serve up to three years in the military or face half a decade in prison
 
-##### U.S. President
+##### President
 ### [The President of the United States Barack Obama addresses the nation about the 2011 Tucson shooting following a visit to Representative Gabrielle Giffords in hospital. ](/news/2011/01/12/the-president-of-the-united-states-barack-obama-addresses-the-nation-about-the-2011-tucson-shooting-following-a-visit-to-representative-gabr.md)
-_Context: 2011 Tucson shooting, Barack Obama, Gabrielle Giffords, U.S. President, United States House of Representatives_
+_Context: 2011 Tucson shooting, Barack Obama, Gabrielle Giffords, President, United States House of Representatives_
 
 ##### Lebanese
 ### [Lebanon's Government led by Prime Minister Saad Hariri collapses following the withdrawal of Hezbollah. ](/news/2011/01/12/lebanon-s-government-led-by-prime-minister-saad-hariri-collapses-following-the-withdrawal-of-hezbollah.md)

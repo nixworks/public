@@ -25,7 +25,7 @@ _Context: Empress Michiko, Japan, Kyodo News, internal bleeding_
 
 ##### Bogota
 ### [ Heavy security operations begin in Bogota, Colombia, for the visit of U.S. President Bush on March 11. Security forces expect protests on Wednesday. ](/news/2007/03/6/heavy-security-operations-begin-in-bogota-colombia-for-the-visit-of-u-s-president-bush-on-march-11-security-forces-expect-protests-on.md)
-_Context: Bogota, Colombia, George W. Bush, March 11, U.S. President, protest_
+_Context: Bogota, Colombia, George W. Bush, March 11, President, protest_
 
 ##### Congress
 ### [ The United States Congress opens hearings into the dismissal of eight U.S. Attorneys, probing whether the Bush Administration had political motives for ousting the federal prosecutors. ](/news/2007/03/6/the-united-states-congress-opens-hearings-into-the-dismissal-of-eight-u-s-attorneys-probing-whether-the-bush-administration-had-political.md)
