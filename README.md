@@ -3,9 +3,25 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/03/27/index.md)
 
+##### London
+### [Convicted terrorist Umar Haque, who indoctrinated children he was teaching in London so he could use them to commit attacks, is jailed for life at the Old Bailey and will not be eligible for parole for 25 years. ](/news/2018/03/27/convicted-terrorist-umar-haque-who-indoctrinated-children-he-was-teaching-in-london-so-he-could-use-them-to-commit-attacks-is-jailed-for-l.md)
+_Context: London, Old Bailey_
+
+##### Manchester Arena bombing
+### [A report reveals firefighters were prevented from attending the scene of the bombing for two hours. The report makes more than 50 recommendations. ](/news/2018/03/27/a-report-reveals-firefighters-were-prevented-from-attending-the-scene-of-the-bombing-for-two-hours-the-report-makes-more-than-50-recommenda.md)
+_Context: Manchester Arena bombing, firefighters_
+
 ##### China-North Korea relations
 ### [An unidentified green train leaves Beijing station. Reports suggest that it carries supreme leader Kim Jong-un, on what would be his first known travel outside North Korea since assuming office in 2011. ](/news/2018/03/27/an-unidentified-green-train-leaves-beijing-station-reports-suggest-that-it-carries-supreme-leader-kim-jong-un-on-what-would-be-his-first-k.md)
 _Context: Beijing station, China-North Korea relations, Kim Jong-un_
+
+##### 2018 Kemerovo fire
+### [President Vladimir Putin visits the scene and declares "criminal negligence" responsible for the high death toll. Protestors, some calling for Putin's resignation, demonstrate outside the local government headquarters. ](/news/2018/03/27/president-vladimir-putin-visits-the-scene-and-declares-criminal-negligence-responsible-for-the-high-death-toll-protestors-some-calling-f.md)
+At least 64 people - 41 of them children - died in a shopping mall fire and many are feared missing.
+
+##### Arizona
+### [Arizona suspends all testing of Uber self-driving cars following a fatal accident last week. ](/news/2018/03/27/arizona-suspends-all-testing-of-uber-self-driving-cars-following-a-fatal-accident-last-week.md)
+_Context: Arizona, Uber, self-driving car_
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -22,10 +38,6 @@ Using microlensing technique, astronomers have found a new giant planet orbiting
 ##### Egyptian presidential election, 2018
 ### [The Egyptian electorate vote in their presidential election, with incumbent President Abdel-Fattah el-Sissi facing only one opponent. ](/news/2018/03/26/the-egyptian-electorate-vote-in-their-presidential-election-with-incumbent-president-abdel-fattah-el-sissi-facing-only-one-opponent.md)
 Egyptians began voting Monday in an election that virtually guaranteed another term for President Abdel-Fattah el-Sissi, who faced only a token opponent in balloting that resembled the referendums held by autocrats for decades before the Arab Spring briefly raised hopes of democratic change.
-
-##### Terrorism in the United Kingdom
-### [Six alleged members of banned neo-Nazi group National Action appear in court. One is accused of planning to murder MP Rosie Cooper and another is charged with inciting murder. ](/news/2018/03/26/six-alleged-members-of-banned-neo-nazi-group-national-action-appear-in-court-one-is-accused-of-planning-to-murder-mp-rosie-cooper-and-anoth.md)
-An alleged neo-Nazi has appeared in court charged with plotting to murder a Labour MP with a machete. The 22-year-old, who cannot be named for legal reasons, has been charged with preparing an act of terrorism by allegedly buying a “Gladius Machete” – a type of weapon used by Celtic tribes and...
 
 ##### Carbanak
 ### [Spanish police in Alicante arrest the suspected leader of a bank hacking scheme believed to have stolen over EUR1 billion. ](/news/2018/03/26/spanish-police-in-alicante-arrest-the-suspected-leader-of-a-bank-hacking-scheme-believed-to-have-stolen-over-a-1-billion.md)
@@ -70,6 +82,10 @@ China’s yuan-denominated crude-oil futures close more than 3% higher on their 
 ##### Economy of the United States
 ### [U.S. firearms and ammunition manufacturer Remington Arms files for chapter 11 bankruptcy protection after amassing US$950 million worth of debt. ](/news/2018/03/26/u-s-firearms-and-ammunition-manufacturer-remington-arms-files-for-chapter-11-bankruptcy-protection-after-amassing-us-950-million-worth-of-d.md)
 Remington Outdoor Co., the 200-year-old maker of rifles, handguns and bullets controlled by Cerberus Capital Management, filed for bankruptcy, after the election of a “true friend” to the White House ironically wound up stifling sales.
+
+##### Terrorism in the United Kingdom
+### [Six alleged members of the banned neo-Nazi group National Action appeared in court. One is accused of planning to kill MP Rosie Cooper and another is charged with inciting murder. ](/news/2018/03/26/six-alleged-members-of-the-banned-neo-nazi-group-national-action-appeared-in-court-one-is-accused-of-planning-to-kill-mp-rosie-cooper-and-a.md)
+An alleged neo-Nazi has appeared in court charged with plotting to murder a Labour MP with a machete. The 22-year-old, who cannot be named for legal reasons, has been charged with preparing an act of terrorism by allegedly buying a “Gladius Machete” – a type of weapon used by Celtic tribes and...
 
 ---
 
