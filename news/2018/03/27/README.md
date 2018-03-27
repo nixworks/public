@@ -19,6 +19,10 @@ Australia has become the latest country to expel Russian diplomats following the
 ### [An unidentified green train leaves Beijing station. Reports suggest that it carries supreme leader Kim Jong-un, on what would be his first known travel outside North Korea since assuming office in 2011. ](/news/2018/03/27/an-unidentified-green-train-leaves-beijing-station-reports-suggest-that-it-carries-supreme-leader-kim-jong-un-on-what-would-be-his-first-k.md)
 _Context: Beijing station, China-North Korea relations, Kim Jong-un_
 
+##### Malaysia
+### [The search area for nine crewmen missing since the 21st from a capsized sand dredger off the coast of Malaysia is expanded to 560 square nautical miles. The Indonesian National Search and Rescue Agency is requested to assist in the operation. ](/news/2018/03/27/the-search-area-for-nine-crewmen-missing-since-the-21st-from-a-capsized-sand-dredger-off-the-coast-of-malaysia-is-expanded-to-560-square-nau.md)
+ JOHOR BAHRU, March 27&nbsp;—&nbsp;The search and rescue (SAR) operation to look for nine missing crew members of the capsized sand-dredging vessel, JBB Rong Chang 8, was expanded today. Malaysian Maritime Enforcement Agency (MMEA) Southern Region deputy
+
 ##### 2017-18 Volvo Ocean Race
 ### [A crewman who fell overboard from a competitor vessel is declared lost at sea. ](/news/2018/03/27/a-crewman-who-fell-overboard-from-a-competitor-vessel-is-declared-lost-at-sea.md)
 A British sailor competing in the Volvo Ocean Race who fell overboard on Monday has now been declared &ldquo;lost at sea&rdquo;.
@@ -31,9 +35,9 @@ A container ship and a merchant ship collided in the Great Belt strait between t
 ### [President Vladimir Putin visits the scene and declares "criminal negligence" responsible for the high death toll. Protestors, some calling for Putin's resignation, demonstrate outside the local government headquarters. ](/news/2018/03/27/president-vladimir-putin-visits-the-scene-and-declares-criminal-negligence-responsible-for-the-high-death-toll-protestors-some-calling-f.md)
 At least 64 people - 41 of them children - died in a shopping mall fire and many are feared missing.
 
-##### Arizona
+##### History of autonomous cars
 ### [Arizona suspends all testing of Uber self-driving cars following a fatal accident last week. ](/news/2018/03/27/arizona-suspends-all-testing-of-uber-self-driving-cars-following-a-fatal-accident-last-week.md)
-_Context: Arizona, Uber, self-driving car_
+_Context: Arizona, History of autonomous cars, Uber, self-driving car_
 
 ##### Terrorism in the United Kingdom
 ### [Convicted terrorist Umar Haque, who indoctrinated children he was teaching in London so that he could use them to commit attacks, is jailed for life at the Old Bailey and will not be eligible for parole for 25 years. ](/news/2018/03/27/convicted-terrorist-umar-haque-who-indoctrinated-children-he-was-teaching-in-london-so-that-he-could-use-them-to-commit-attacks-is-jailed.md)
