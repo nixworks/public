@@ -13,7 +13,7 @@ Egyptians began voting Monday in an election that virtually guaranteed another t
 
 ##### Carbanak
 ### [Spanish police in Alicante arrest the suspected leader of a bank hacking scheme believed to have stolen over EUR1 billion. ](/news/2018/03/26/spanish-police-in-alicante-arrest-the-suspected-leader-of-a-bank-hacking-scheme-believed-to-have-stolen-over-a-1-billion.md)
-_Context: Alicante, Carbanak, Spanish, hack_
+_Context: Alicante, Carbanak, EUR, Spanish, hack_
 
 ##### French
 ### [French police detain two men in connection with the murder of an 85-year Holocaust survivor who was found in the burned remains of her apartment. The prosecutor's office is investigating if the killing was "motivated by the real or supposed adherence to a religion". ](/news/2018/03/26/french-police-detain-two-men-in-connection-with-the-murder-of-an-85-year-holocaust-survivor-who-was-found-in-the-burned-remains-of-her-apart.md)
