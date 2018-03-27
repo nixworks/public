@@ -11,11 +11,9 @@ Four deaths and six injuries have been linked to crashes where air bags failed t
 
 ### Sources:
 
-1. [BBC](http://www.bbc.com/news/world-us-canada-43444791)
-2. [NPR](https://www.npr.org/sections/thetwo-way/2018/03/17/594559516/u-s-government-launches-investigation-into-hyundai-and-kia-airbags)
-3. [NPR](https://www.npr.org/sections/thetwo-way/2018/03/18/594776934/man-arrested-for-bomb-threat-at-sxsw-festival-in-austin-texas)
-4. [Reuters via ''The New York Times](https://www.nytimes.com/reuters/2018/03/17/technology/17reuters-facebook-cambridge-analytica-massachusetts.html)
-4. [Cover Image](https://media.npr.org/assets/img/2018/03/17/ap_18076515239248_wide-fb22c5da294ade7650c3e024a395f33ce40a5f3d.jpg?s=1400)
+1. [NPR](https://www.npr.org/sections/thetwo-way/2018/03/17/594559516/u-s-government-launches-investigation-into-hyundai-and-kia-airbags)
+2. [NPR](https://www.npr.org/sections/thetwo-way/2018/03/18/594776934/man-arrested-for-bomb-threat-at-sxsw-festival-in-austin-texas)
+2. [Cover Image](https://media.npr.org/assets/img/2018/03/17/ap_18076515239248_wide-fb22c5da294ade7650c3e024a395f33ce40a5f3d.jpg?s=1400)
 
 ### Related:
 

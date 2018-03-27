@@ -12,7 +12,8 @@ Formats: [HTML](/news/2018/03/27/arizona-suspends-all-testing-of-uber-self-drivi
 ### Sources:
 
 1. [The Verge](https://www.theverge.com/2018/3/26/17166326/uber-self-driving-autonomous-vehicle-ban-arizona-fatal-crash)
-1. [Cover Image](https://cdn.vox-cdn.com/thumbor/E5MG75bCuoh6YA2yiY_9FeIuQzY=/0x167:2040x1235/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/7639485/vpavic_081216_1321_0055.0.jpeg)
+2. [The Verge](https://www.theverge.com/2018/3/27/17168606/nvidia-suspends-self-driving-test-uber)
+2. [Cover Image](https://cdn.vox-cdn.com/thumbor/LJIzS3wIh87Lq5UPA6NBoe4er9w=/0x68:3500x1900/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/7753975/Medium_612_Audi_Q7_Piloted_Driving_Concept.jpg)
 
 ### Related:
 

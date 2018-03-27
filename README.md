@@ -23,6 +23,10 @@ Australia has become the latest country to expel Russian diplomats following the
 ### [An unidentified green train leaves Beijing station. Reports suggest that it carries supreme leader Kim Jong-un, on what would be his first known travel outside North Korea since assuming office in 2011. ](/news/2018/03/27/an-unidentified-green-train-leaves-beijing-station-reports-suggest-that-it-carries-supreme-leader-kim-jong-un-on-what-would-be-his-first-k.md)
 _Context: Beijing station, China-North Korea relations, Kim Jong-un_
 
+##### United States
+### [The United States National Transportation Safety Board launches a probe into a Tesla electric car crash and fire in California. The NTSB says it will investigate issues firefighters had trying to determine how to respond. ](/news/2018/03/27/the-united-states-national-transportation-safety-board-launches-a-probe-into-a-tesla-electric-car-crash-and-fire-in-california-the-ntsb-say.md)
+The U.S. National Transportation Safety Board is sending two investigators to examine issues raised by a Tesla Inc. crash in California.
+
 ##### Malaysia
 ### [The search area for nine crewmen missing since March 21 from a capsized sand dredger off the coast of Malaysia is expanded to 560 square nautical miles. The Indonesian National Search and Rescue Agency is requested to assist in the operation. ](/news/2018/03/27/the-search-area-for-nine-crewmen-missing-since-march-21-from-a-capsized-sand-dredger-off-the-coast-of-malaysia-is-expanded-to-560-square-nau.md)
  JOHOR BAHRU, March 27&nbsp;—&nbsp;The search and rescue (SAR) operation to look for nine missing crew members of the capsized sand-dredging vessel, JBB Rong Chang 8, was expanded today. Malaysian Maritime Enforcement Agency (MMEA) Southern Region deputy
@@ -145,7 +149,7 @@ Qatar&#39;s Sheikh Tamim is in Moscow to meet Russian President Vladimir Putin t
 
 ##### Russia-European Union relations
 ### [EU diplomatic chief Federica Mogherini holds crisis talks with Markus Ederer, the bloc's recalled ambassador to Russia. ](/news/2018/03/25/eu-diplomatic-chief-federica-mogherini-holds-crisis-talks-with-markus-ederer-the-bloc-s-recalled-ambassador-to-russia.md)
-_Context: EU, Federica Mogherini, Poisoning of Sergei and Yulia Skripal, Russia, Russia-European Union relations_
+_Context: EU, Federica Mogherini, Reactions to the poisoning of Sergei and Yulia Skripal, Russia, Russia-European Union relations_
 
 ##### Trump tariffs
 ### [South Korea and the United States reach agreements on trade and steel tariffs. ](/news/2018/03/25/south-korea-and-the-united-states-reach-agreements-on-trade-and-steel-tariffs.md)

@@ -7,6 +7,10 @@ Formats: [HTML](2018/03/17/index.html)  [JSON](2018/03/17/index.json)  [XML](201
 ### [Australian voters in South Australia, the Melbourne division of Batman, and the Perth electoral district of Cottesloe go to the polls in three separate elections. ](/news/2018/03/17/australian-voters-in-south-australia-the-melbourne-division-of-batman-and-the-perth-electoral-district-of-cottesloe-go-to-the-polls-in-thr.md)
 State to have new government for the first time in 16 years. Join us as we follow the night’s developments
 
+##### Facebook and Cambridge Analytica data breach
+### [Massachusetts Attorney General Maura Healey launches an investigation into alleged harvesting of Facebook profiles by Cambridge Analytica, a firm employed by Donald Trump's 2016 election campaign. ](/news/2018/03/17/massachusetts-attorney-general-maura-healey-launches-an-investigation-into-alleged-harvesting-of-facebook-profiles-by-cambridge-analytica-a.md)
+A US attorney general is investigating reports that millions of Facebook profiles were accessed.
+
 ##### Crime in the United States
 ### [The National Highway Traffic Safety Administration of the United States launches an investigation into potential defects in the airbag control systems of some Kia and Hyundai models. ](/news/2018/03/17/the-national-highway-traffic-safety-administration-of-the-united-states-launches-an-investigation-into-potential-defects-in-the-airbag-contr.md)
 Four deaths and six injuries have been linked to crashes where air bags failed to deploy, and an estimated 425,000 Hyundai and Kia vehicles are under investigation.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/17/massachusetts-attorney-general-maura-healey-lau
 
 ### [2018-03-17](/news/2018/03/17/index.md)
 
-##### Massachusetts Attorney General
+##### Facebook and Cambridge Analytica data breach
 # Massachusetts Attorney General Maura Healey launches an investigation into alleged harvesting of Facebook profiles by Cambridge Analytica, a firm employed by Donald Trump's 2016 election campaign. 
 
 A US attorney general is investigating reports that millions of Facebook profiles were accessed.
