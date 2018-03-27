@@ -31,6 +31,10 @@ Australia has become the latest country to expel Russian diplomats following the
 ### [A train carrying a North Korean diplomatic delegation leaves Beijing station. Reports suggest that it included supreme leader Kim Jong-un, on what would be his first known travel outside North Korea since assuming office in 2011. ](/news/2018/03/27/a-train-carrying-a-north-korean-diplomatic-delegation-leaves-beijing-station-reports-suggest-that-it-included-supreme-leader-kim-jong-un-o.md)
 _Context: Beijing station, China-North Korea relations, Kim Jong-un_
 
+##### South Korea
+### [The South Korean Aviation and Railway Accident Investigation Board issues its final report on a near-collision between an Airbus A310 and a Boeing 737 on a runway in Cheongju. The Board blames miscommunication. ](/news/2018/03/27/the-south-korean-aviation-and-railway-accident-investigation-board-issues-its-final-report-on-a-near-collision-between-an-airbus-a310-and-a.md)
+_Context: Airbus A310, Aviation and Railway Accident Investigation Board, Boeing 737, Cheongju, South Korea_
+
 ##### United States
 ### [The United States National Transportation Safety Board launches a probe into a Tesla electric car crash and fire in California. The NTSB says it will investigate issues firefighters had trying to determine how to respond. ](/news/2018/03/27/the-united-states-national-transportation-safety-board-launches-a-probe-into-a-tesla-electric-car-crash-and-fire-in-california-the-ntsb-say.md)
 The U.S. National Transportation Safety Board is sending two investigators to examine issues raised by a Tesla Inc. crash in California.
@@ -60,7 +64,7 @@ _Context: Arizona, History of autonomous cars, Uber, self-driving car_
 _Context: Syria, Turkey_
 
 ##### NATO
-### [NATO says the Afghan Air Force dropped its first laser-guided bomb on a Taliban compound on Thursday. NATO have trained the Afghans in use of the equipment. ](/news/2018/03/27/nato-says-the-afghan-air-force-dropped-its-first-laser-guided-bomb-on-a-taliban-compound-on-thursday-nato-have-trained-the-afghans-in-use-o.md)
+### [NATO says the Afghan Air Force dropped its first laser-guided bomb on a Taliban compound on March 22. NATO have trained the Afghans in use of the equipment. ](/news/2018/03/27/nato-says-the-afghan-air-force-dropped-its-first-laser-guided-bomb-on-a-taliban-compound-on-march-22-nato-have-trained-the-afghans-in-use-o.md)
 NATO says the Afghan air force dropped its first laser-guided bomb during combat after completing training on how to use the sophisticated weapons system. A NATO statement on Tuesday says the bomb was dropped on a Taliban compound in a &quot;direct hit&quot; in the western Farah province last...
 
 ##### Terrorism in the United Kingdom

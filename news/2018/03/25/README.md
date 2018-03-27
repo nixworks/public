@@ -53,7 +53,7 @@ Video on social media shows panic as rescue teams evacuate the building in south
 
 ##### Modern flat Earth societies
 ### [ Mike Hughes, a daredevil, limo driver, and Flat Earth believer, launches his homemade rocket 2000 feet in the air. ](/news/2018/03/25/mike-hughes-a-daredevil-limo-driver-and-flat-earth-believer-launches-his-homemade-rocket-2000-feet-in-the-air.md)
-61-year-old Mike Hughes wanted to prove the Earth was &quot;shaped like a Frisbee.&quot; (He didn&#039;t.)
+Mike Hughes, a 61-year-old limousine driver and rocket-maker, propelled himself about 1,875 feet above the Mojave Desert on Saturday.
 
 ##### Yemeni Crisis (2011-present)
 ### [Houthi forces fire several Burkan-2 ballistic missiles at targets in Saudi Arabia with at least one person, an Egyptian national, being killed in Riyadh. The Royal Saudi Air Defense says it intercepted seven missiles, three of them targeting Riyadh, two targeting Jizan and one apiece targeting Najran and Khamis Mushait. ](/news/2018/03/25/houthi-forces-fire-several-burkan-2-ballistic-missiles-at-targets-in-saudi-arabia-with-at-least-one-person-an-egyptian-national-being-kill.md)
