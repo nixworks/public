@@ -11,6 +11,10 @@ The US National Aeronautics and Space Administration, NASA, revealed on Monday t
 ### [Voting enters the second day. ](/news/2018/03/27/voting-enters-the-second-day.md)
 Egyptian authorities pressed for a high turnout on Tuesday on the second day of a presidential election expected to give President Abdel Fattah al-Sisi a sweeping victory in the absence of real competition, in a contest dismissed by critics as sham.
 
+##### Censorship in Spain
+### [A court issues an order shutting down a website that uses extracts from "Don Quixote" to recreate the book "Farina". "Farina", an investigation of drug trafficking, is the subject of a freedom of speech debate after a court halted sales ahead of a libel case. ](/news/2018/03/27/a-court-issues-an-order-shutting-down-a-website-that-uses-extracts-from-don-quixote-to-recreate-the-book-farina-farina-an-investigat.md)
+When Miguel de Cervantes wrote &ldquo;Don Quixote&rdquo; in the 17th century, he couldn&rsquo;t have imagined that the novel would be used as a weapon in a modern battle over freedom of speech in Spain.
+
 ##### Manchester Arena bombing
 ### [A report reveals firefighters were prevented from attending the scene of the bombing for two hours. The report makes more than 50 recommendations. ](/news/2018/03/27/a-report-reveals-firefighters-were-prevented-from-attending-the-scene-of-the-bombing-for-two-hours-the-report-makes-more-than-50-recommenda.md)
 _Context: Manchester Arena bombing, firefighters_
