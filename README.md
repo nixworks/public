@@ -15,12 +15,16 @@ Egyptian authorities pressed for a high turnout on Tuesday on the second day of 
 ### [A report reveals firefighters were prevented from attending the scene of the bombing for two hours. The report makes more than 50 recommendations. ](/news/2018/03/27/a-report-reveals-firefighters-were-prevented-from-attending-the-scene-of-the-bombing-for-two-hours-the-report-makes-more-than-50-recommenda.md)
 _Context: Manchester Arena bombing, firefighters_
 
+##### The Netherlands
+### [The Netherlands recalls a diplomat from Turkey after local newspapers accused him of spying. ](/news/2018/03/27/the-netherlands-recalls-a-diplomat-from-turkey-after-local-newspapers-accused-him-of-spying.md)
+The Dutch diplomat outed as a spy in Turkish newspapers has been brought back to the Netherlands for his own...
+
 ##### Reactions to the poisoning of Sergei and Yulia Skripal
 ### [NATO and Australia expel Russian diplomats. ](/news/2018/03/27/nato-and-australia-expel-russian-diplomats.md)
 Australia has become the latest country to expel Russian diplomats following the nerve agent attack on ex-spy Sergei Skripal in Salisbury earlier this month in a gesture of solidarity with Britain.
 
 ##### China-North Korea relations
-### [An unidentified green train leaves Beijing station. Reports suggest that it carries supreme leader Kim Jong-un, on what would be his first known travel outside North Korea since assuming office in 2011. ](/news/2018/03/27/an-unidentified-green-train-leaves-beijing-station-reports-suggest-that-it-carries-supreme-leader-kim-jong-un-on-what-would-be-his-first-k.md)
+### [A train carrying a North Korean diplomatic delegation leaves Beijing station. Reports suggest that it included supreme leader Kim Jong-un, on what would be his first known travel outside North Korea since assuming office in 2011. ](/news/2018/03/27/a-train-carrying-a-north-korean-diplomatic-delegation-leaves-beijing-station-reports-suggest-that-it-included-supreme-leader-kim-jong-un-o.md)
 _Context: Beijing station, China-North Korea relations, Kim Jong-un_
 
 ##### United States
@@ -46,6 +50,14 @@ At least 64 people - 41 of them children - died in a shopping mall fire and many
 ##### History of autonomous cars
 ### [Arizona suspends all testing of Uber self-driving cars following a fatal accident last week. ](/news/2018/03/27/arizona-suspends-all-testing-of-uber-self-driving-cars-following-a-fatal-accident-last-week.md)
 _Context: Arizona, History of autonomous cars, Uber, self-driving car_
+
+##### Turkey
+### [Turkey states that eleven Kurdish militants have been killed near its Syrian border, and two soldiers were killed by an explosion in Syria. ](/news/2018/03/27/turkey-states-that-eleven-kurdish-militants-have-been-killed-near-its-syrian-border-and-two-soldiers-were-killed-by-an-explosion-in-syria.md)
+_Context: Syria, Turkey_
+
+##### NATO
+### [NATO says the Afghan Air Force dropped its first laser-guided bomb on a Taliban compound on Thursday. NATO have trained the Afghans in use of the equipment. ](/news/2018/03/27/nato-says-the-afghan-air-force-dropped-its-first-laser-guided-bomb-on-a-taliban-compound-on-thursday-nato-have-trained-the-afghans-in-use-o.md)
+NATO says the Afghan air force dropped its first laser-guided bomb during combat after completing training on how to use the sophisticated weapons system. A NATO statement on Tuesday says the bomb was dropped on a Taliban compound in a &quot;direct hit&quot; in the western Farah province last...
 
 ##### Terrorism in the United Kingdom
 ### [Convicted terrorist Umar Haque, who indoctrinated children he was teaching in London so that he could use them to commit attacks, is jailed for life at the Old Bailey and will not be eligible for parole for 25 years. ](/news/2018/03/27/convicted-terrorist-umar-haque-who-indoctrinated-children-he-was-teaching-in-london-so-that-he-could-use-them-to-commit-attacks-is-jailed.md)
@@ -81,7 +93,7 @@ Proposal &#039;would discriminate against virtually all American survivors and h
 
 ##### European Council
 ### [European Council President Donald Tusk and European Commission President Jean-Claude Juncker conclude talks with Turkish President Recep Tayyip Erdogan. The parties say they have been unable to agree on human rights issues but pledge to hold more talks. ](/news/2018/03/26/european-council-president-donald-tusk-and-european-commission-president-jean-claude-juncker-conclude-talks-with-turkish-president-recep-tay.md)
-_Context: Donald Tusk, European Commission, European Council, Jean-Claude Juncker, Recep Tayyip Erdogan, Turkish, human rights_
+_Context: Donald Tusk, European Commission, European Council, Jean-Claude Juncker, Recep Tayyip Erdogan, Turkey, human rights_
 
 ##### Reactions to the poisoning of Sergei and Yulia Skripal
 ### [More than 100 Russian diplomats are expelled from over 20 countries. ](/news/2018/03/26/more-than-100-russian-diplomats-are-expelled-from-over-20-countries.md)
@@ -112,7 +124,7 @@ China’s yuan-denominated crude-oil futures close more than 3% higher on their 
 Remington Outdoor Co., the 200-year-old maker of rifles, handguns and bullets controlled by Cerberus Capital Management, filed for bankruptcy, after the election of a “true friend” to the White House ironically wound up stifling sales.
 
 ##### Terrorism in the United Kingdom
-### [Six alleged members of the banned neo-Nazi group National Action appeared in court. One is accused of planning to kill MP Rosie Cooper and another is charged with inciting murder. ](/news/2018/03/26/six-alleged-members-of-the-banned-neo-nazi-group-national-action-appeared-in-court-one-is-accused-of-planning-to-kill-mp-rosie-cooper-and-a.md)
+### [Six alleged members of the banned neo-Nazi group National Action appear in court. One is accused of planning to kill MP Rosie Cooper and another is charged with inciting murder. ](/news/2018/03/26/six-alleged-members-of-the-banned-neo-nazi-group-national-action-appear-in-court-one-is-accused-of-planning-to-kill-mp-rosie-cooper-and-ano.md)
 An alleged neo-Nazi has appeared in court charged with plotting to murder a Labour MP with a machete. The 22-year-old, who cannot be named for legal reasons, has been charged with preparing an act of terrorism by allegedly buying a “Gladius Machete” – a type of weapon used by Celtic tribes and...
 
 ---

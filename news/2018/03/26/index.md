@@ -25,7 +25,7 @@ Proposal &#039;would discriminate against virtually all American survivors and h
 
 ##### European Council
 ### [European Council President Donald Tusk and European Commission President Jean-Claude Juncker conclude talks with Turkish President Recep Tayyip Erdogan. The parties say they have been unable to agree on human rights issues but pledge to hold more talks. ](/news/2018/03/26/european-council-president-donald-tusk-and-european-commission-president-jean-claude-juncker-conclude-talks-with-turkish-president-recep-tay.md)
-_Context: Donald Tusk, European Commission, European Council, Jean-Claude Juncker, Recep Tayyip Erdogan, Turkish, human rights_
+_Context: Donald Tusk, European Commission, European Council, Jean-Claude Juncker, Recep Tayyip Erdogan, Turkey, human rights_
 
 ##### Reactions to the poisoning of Sergei and Yulia Skripal
 ### [More than 100 Russian diplomats are expelled from over 20 countries. ](/news/2018/03/26/more-than-100-russian-diplomats-are-expelled-from-over-20-countries.md)
@@ -56,7 +56,7 @@ China’s yuan-denominated crude-oil futures close more than 3% higher on their 
 Remington Outdoor Co., the 200-year-old maker of rifles, handguns and bullets controlled by Cerberus Capital Management, filed for bankruptcy, after the election of a “true friend” to the White House ironically wound up stifling sales.
 
 ##### Terrorism in the United Kingdom
-### [Six alleged members of the banned neo-Nazi group National Action appeared in court. One is accused of planning to kill MP Rosie Cooper and another is charged with inciting murder. ](/news/2018/03/26/six-alleged-members-of-the-banned-neo-nazi-group-national-action-appeared-in-court-one-is-accused-of-planning-to-kill-mp-rosie-cooper-and-a.md)
+### [Six alleged members of the banned neo-Nazi group National Action appear in court. One is accused of planning to kill MP Rosie Cooper and another is charged with inciting murder. ](/news/2018/03/26/six-alleged-members-of-the-banned-neo-nazi-group-national-action-appear-in-court-one-is-accused-of-planning-to-kill-mp-rosie-cooper-and-ano.md)
 An alleged neo-Nazi has appeared in court charged with plotting to murder a Labour MP with a machete. The 22-year-old, who cannot be named for legal reasons, has been charged with preparing an act of terrorism by allegedly buying a “Gladius Machete” – a type of weapon used by Celtic tribes and...
 
 ## [Previous Day...](/news/2018/03/25/index.md)

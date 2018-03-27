@@ -15,12 +15,16 @@ Egyptian authorities pressed for a high turnout on Tuesday on the second day of 
 ### [A report reveals firefighters were prevented from attending the scene of the bombing for two hours. The report makes more than 50 recommendations. ](/news/2018/03/27/a-report-reveals-firefighters-were-prevented-from-attending-the-scene-of-the-bombing-for-two-hours-the-report-makes-more-than-50-recommenda.md)
 _Context: Manchester Arena bombing, firefighters_
 
+##### The Netherlands
+### [The Netherlands recalls a diplomat from Turkey after local newspapers accused him of spying. ](/news/2018/03/27/the-netherlands-recalls-a-diplomat-from-turkey-after-local-newspapers-accused-him-of-spying.md)
+The Dutch diplomat outed as a spy in Turkish newspapers has been brought back to the Netherlands for his own...
+
 ##### Reactions to the poisoning of Sergei and Yulia Skripal
 ### [NATO and Australia expel Russian diplomats. ](/news/2018/03/27/nato-and-australia-expel-russian-diplomats.md)
 Australia has become the latest country to expel Russian diplomats following the nerve agent attack on ex-spy Sergei Skripal in Salisbury earlier this month in a gesture of solidarity with Britain.
 
 ##### China-North Korea relations
-### [An unidentified green train leaves Beijing station. Reports suggest that it carries supreme leader Kim Jong-un, on what would be his first known travel outside North Korea since assuming office in 2011. ](/news/2018/03/27/an-unidentified-green-train-leaves-beijing-station-reports-suggest-that-it-carries-supreme-leader-kim-jong-un-on-what-would-be-his-first-k.md)
+### [A train carrying a North Korean diplomatic delegation leaves Beijing station. Reports suggest that it included supreme leader Kim Jong-un, on what would be his first known travel outside North Korea since assuming office in 2011. ](/news/2018/03/27/a-train-carrying-a-north-korean-diplomatic-delegation-leaves-beijing-station-reports-suggest-that-it-included-supreme-leader-kim-jong-un-o.md)
 _Context: Beijing station, China-North Korea relations, Kim Jong-un_
 
 ##### United States
@@ -46,6 +50,14 @@ At least 64 people - 41 of them children - died in a shopping mall fire and many
 ##### History of autonomous cars
 ### [Arizona suspends all testing of Uber self-driving cars following a fatal accident last week. ](/news/2018/03/27/arizona-suspends-all-testing-of-uber-self-driving-cars-following-a-fatal-accident-last-week.md)
 _Context: Arizona, History of autonomous cars, Uber, self-driving car_
+
+##### Turkey
+### [Turkey states that eleven Kurdish militants have been killed near its Syrian border, and two soldiers were killed by an explosion in Syria. ](/news/2018/03/27/turkey-states-that-eleven-kurdish-militants-have-been-killed-near-its-syrian-border-and-two-soldiers-were-killed-by-an-explosion-in-syria.md)
+_Context: Syria, Turkey_
+
+##### NATO
+### [NATO says the Afghan Air Force dropped its first laser-guided bomb on a Taliban compound on Thursday. NATO have trained the Afghans in use of the equipment. ](/news/2018/03/27/nato-says-the-afghan-air-force-dropped-its-first-laser-guided-bomb-on-a-taliban-compound-on-thursday-nato-have-trained-the-afghans-in-use-o.md)
+NATO says the Afghan air force dropped its first laser-guided bomb during combat after completing training on how to use the sophisticated weapons system. A NATO statement on Tuesday says the bomb was dropped on a Taliban compound in a &quot;direct hit&quot; in the western Farah province last...
 
 ##### Terrorism in the United Kingdom
 ### [Convicted terrorist Umar Haque, who indoctrinated children he was teaching in London so that he could use them to commit attacks, is jailed for life at the Old Bailey and will not be eligible for parole for 25 years. ](/news/2018/03/27/convicted-terrorist-umar-haque-who-indoctrinated-children-he-was-teaching-in-london-so-that-he-could-use-them-to-commit-attacks-is-jailed.md)
