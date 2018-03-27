@@ -59,9 +59,5 @@ China’s yuan-denominated crude-oil futures close more than 3% higher on their 
 ### [U.S. firearms and ammunition manufacturer Remington Arms files for chapter 11 bankruptcy protection after amassing US$950 million worth of debt. ](/news/2018/03/26/u-s-firearms-and-ammunition-manufacturer-remington-arms-files-for-chapter-11-bankruptcy-protection-after-amassing-us-950-million-worth-of-d.md)
 Remington Outdoor Co., the 200-year-old maker of rifles, handguns and bullets controlled by Cerberus Capital Management, filed for bankruptcy, after the election of a “true friend” to the White House ironically wound up stifling sales.
 
-##### Turkish military operation in Afrin
-### [Turkish forces claim to have found a mass grave containing the remains of 59 of their fighters in Kucuk Meydan, Afrin, Syria. ](/news/2018/03/26/turkish-forces-claim-to-have-found-a-mass-grave-containing-the-remains-of-59-of-their-fighters-in-kucuk-meydan-afrin-syria.md)
-59 bodies belonging to FSA were found in mass grave in Afrin’s recently liberated Kucuk Meydan village - Anadolu Agency
-
 ## [Previous Day...](/news/2018/03/25/index.md)
 
