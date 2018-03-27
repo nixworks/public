@@ -33,7 +33,7 @@ Qatar&#39;s Sheikh Tamim is in Moscow to meet Russian President Vladimir Putin t
 
 ##### Russia-European Union relations
 ### [EU diplomatic chief Federica Mogherini holds crisis talks with Markus Ederer, the bloc's recalled ambassador to Russia. ](/news/2018/03/25/eu-diplomatic-chief-federica-mogherini-holds-crisis-talks-with-markus-ederer-the-bloc-s-recalled-ambassador-to-russia.md)
-_Context: EU, Federica Mogherini, Russia, Russia-European Union relations, attempted murder_
+_Context: EU, Federica Mogherini, Poisoning of Sergei and Yulia Skripal, Russia, Russia-European Union relations_
 
 ##### Trump tariffs
 ### [South Korea and the United States reach agreements on trade and steel tariffs. ](/news/2018/03/25/south-korea-and-the-united-states-reach-agreements-on-trade-and-steel-tariffs.md)

@@ -15,7 +15,7 @@ Student-led March For Our Lives events nationwide draw hundreds of thousands of 
 ### [A car is deliberately driven into a group of schoolgirls in Glasgow, Scotland, injuring five. Police launch an attempted murder probe. ](/news/2018/03/24/a-car-is-deliberately-driven-into-a-group-of-schoolgirls-in-glasgow-scotland-injuring-five-police-launch-an-attempted-murder-probe.md)
 A teenage girl is in a serious condition after the attempted murder in the Castlemilk area of Glasgow.
 
-##### Attempted murder
+##### Poisoning of Sergei and Yulia Skripal
 ### [A friend of poisoned exiled Russian spy Sergei Skripal claims Skripal had written to Vladimir Putin asking to return to Russia. Russia denies receiving such a letter. ](/news/2018/03/24/a-friend-of-poisoned-exiled-russian-spy-sergei-skripal-claims-skripal-had-written-to-vladimir-putin-asking-to-return-to-russia-russia-denie.md)
 The devices’ GPS signals, which help identify where someone is, were not in operation for several hours - leaving police struggling to piece together their movements.
 
