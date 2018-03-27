@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/25/an-anomalous-weather-event-caused-due-to-dust-f
 ### [2018-03-25](/news/2018/03/25/index.md)
 
 ##### Sahara
-# An anomalous weather event caused due to dust from a sandstorm in the Sahara, leads to an orange snow blanketing several Eastern European countries, including Ukraine, Bulgaria, Romania and Russia. This weather event happens roughly every five years, a similar event occured in Siberia in 2007. 
+# An anomalous weather event caused due to dust from a sandstorm in the Sahara, leads to an orange snow blanketing several Eastern European countries, including Ukraine, Bulgaria, Romania and Russia. This weather event happens roughly every five years; a similar event occured in Siberia in 2007. 
 
 Dust and sand from storms in northern Africa carpet ski resorts in Russia and Romania
 
@@ -17,7 +17,7 @@ Dust and sand from storms in northern Africa carpet ski resorts in Russia and Ro
 ### Changes:
 
 1. [A rare anomalous weather event caused due to dust from a sandstorm in the Sahara, leads to an orange snow blanketing several Eastern European countries, including Ukraine, Bulgaria, Romania and Russia. A similar event occured in Siberia in 2007. ](/news/2018/03/25/a-rare-anomalous-weather-event-caused-due-to-dust-from-a-sandstorm-in-the-sahara-leads-to-an-orange-snow-blanketing-several-eastern-europea.md) _2018-03-26 13:30:13 (First version)_
-1. [An anomalous weather event caused due to dust from a sandstorm in the Sahara, leads to an orange snow blanketing several Eastern European countries, including Ukraine, Bulgaria, Romania and Russia. This weather event happens roughly every five years, a similar event occured in Siberia in 2007. ](/news/2018/03/25/an-anomalous-weather-event-caused-due-to-dust-from-a-sandstorm-in-the-sahara-leads-to-an-orange-snow-blanketing-several-eastern-european-co.md) _(Current version)_
+1. [An anomalous weather event caused due to dust from a sandstorm in the Sahara, leads to an orange snow blanketing several Eastern European countries, including Ukraine, Bulgaria, Romania and Russia. This weather event happens roughly every five years; a similar event occured in Siberia in 2007. ](/news/2018/03/25/an-anomalous-weather-event-caused-due-to-dust-from-a-sandstorm-in-the-sahara-leads-to-an-orange-snow-blanketing-several-eastern-european-co.md) _(Current version)_
 
 ### Related:
 
