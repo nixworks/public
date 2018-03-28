@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/27/the-south-korean-aviation-and-railway-accident-
 ### [2018-03-27](/news/2018/03/27/index.md)
 
 ##### South Korea
-# The South Korean Aviation and Railway Accident Investigation Board issues its final report on a near-collision between an Airbus A310 and a Boeing 737 on a runway in Cheongju. The Board blames miscommunication. 
+# The South Korean Aviation and Railway Accident Investigation Board issues its final report on a near-collision between an Airbus A310 and a Boeing 737 on a runway in Cheongju. The Board blames the crew who misunderstood a runway instruction. 
 
 
 
