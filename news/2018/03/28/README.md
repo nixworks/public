@@ -27,6 +27,10 @@ Greek Police are examining the remnants of a bomb which detonated on Saturday in
 ### [Clara Ponsati i Obiols, fugitive ex-Minister of Education of Catalonia, hands herself over to Police Scotland. She appears before court and is released on bail. ](/news/2018/03/28/clara-ponsata-i-obiols-fugitive-ex-minister-of-education-of-catalonia-hands-herself-over-to-police-scotland-she-appears-before-court-and.md)
 Clara Ponsatí’s lawyer says she will fight attempt to return her to Spain to face rebellion charge
 
+##### Terrorism in the United States
+### [The trial of Noor Salman, widow of gay club shooter Omar Mateen, hears closing arguments. Jurors begin deliberations. ](/news/2018/03/28/the-trial-of-noor-salman-widow-of-gay-club-shooter-omar-mateen-hears-closing-arguments-jurors-begin-deliberations.md)
+_Context: Noor Salman, Omar Mateen, Terrorism in the United States, gay club shooter_
+
 ##### Chinese
 ### [A Chinese court sentences Zhang Zhongsheng, the former Vice Mayor of Luliang, Shanxi, to death. Zhongsheng was convicted of accepting bribes totaling 1.04 billion yuan (US$160 million). ](/news/2018/03/28/a-chinese-court-sentences-zhang-zhongsheng-the-former-vice-mayor-of-luliang-shanxi-to-death-zhongsheng-was-convicted-of-accepting-bribes.md)
 _Context: Chinese, Luliang, Shanxi, US$, accepting bribes, death, yuan_
@@ -50,6 +54,10 @@ St Michaels Hospice, where three people died, had &quot;woefully inadequate&quot
 ##### Catania
 ### [A judge in Catania, Italy upholds the seizure of a Proactiva Open Arms ship that brought migrants to Sicily after refusing to hand them over to the Libyan Coast Guard. ](/news/2018/03/28/a-judge-in-catania-italy-upholds-the-seizure-of-a-proactiva-open-arms-ship-that-brought-migrants-to-sicily-after-refusing-to-hand-them-over.md)
 An Italian judge in Catania upheld Tuesday the seizure of Proactiva Open Arms ship, but dropped the most serious charges against the Spanish NGO that operates the ship, which is involvement in the smuggling of migrants. The Italian News Agency ANSA reported that the judge ruled that the Proactiva Op...
+
+##### Poisoning of Sergei and Yulia Skripal
+### [Police investigating the attack say they believe the Skripals were poisoned at Sergei Skripal's home. ](/news/2018/03/28/police-investigating-the-attack-say-they-believe-the-skripals-were-poisoned-at-sergei-skripal-s-home.md)
+The highest concentration of novichok was found on their front door in Salisbury, but police stress the risk to neighbours is low.
 
 ##### China-North Korea relations
 ### [The governments of China and North Korea both confirm that North Korean leader Kim Jong-un met with Chinese President Xi Jinping in Beijing during the past four days. China states that North Korea is "committed to denuclearization" and willing to hold a summit with the United States. ](/news/2018/03/28/the-governments-of-china-and-north-korea-both-confirm-that-north-korean-leader-kim-jong-un-met-with-chinese-president-xi-jinping-in-beijing.md)

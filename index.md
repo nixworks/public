@@ -27,6 +27,10 @@ Greek Police are examining the remnants of a bomb which detonated on Saturday in
 ### [Clara Ponsati i Obiols, fugitive ex-Minister of Education of Catalonia, hands herself over to Police Scotland. She appears before court and is released on bail. ](/news/2018/03/28/clara-ponsata-i-obiols-fugitive-ex-minister-of-education-of-catalonia-hands-herself-over-to-police-scotland-she-appears-before-court-and.md)
 Clara Ponsatí’s lawyer says she will fight attempt to return her to Spain to face rebellion charge
 
+##### Terrorism in the United States
+### [The trial of Noor Salman, widow of gay club shooter Omar Mateen, hears closing arguments. Jurors begin deliberations. ](/news/2018/03/28/the-trial-of-noor-salman-widow-of-gay-club-shooter-omar-mateen-hears-closing-arguments-jurors-begin-deliberations.md)
+_Context: Noor Salman, Omar Mateen, Terrorism in the United States, gay club shooter_
+
 ##### Chinese
 ### [A Chinese court sentences Zhang Zhongsheng, the former Vice Mayor of Luliang, Shanxi, to death. Zhongsheng was convicted of accepting bribes totaling 1.04 billion yuan (US$160 million). ](/news/2018/03/28/a-chinese-court-sentences-zhang-zhongsheng-the-former-vice-mayor-of-luliang-shanxi-to-death-zhongsheng-was-convicted-of-accepting-bribes.md)
 _Context: Chinese, Luliang, Shanxi, US$, accepting bribes, death, yuan_
@@ -50,6 +54,10 @@ St Michaels Hospice, where three people died, had &quot;woefully inadequate&quot
 ##### Catania
 ### [A judge in Catania, Italy upholds the seizure of a Proactiva Open Arms ship that brought migrants to Sicily after refusing to hand them over to the Libyan Coast Guard. ](/news/2018/03/28/a-judge-in-catania-italy-upholds-the-seizure-of-a-proactiva-open-arms-ship-that-brought-migrants-to-sicily-after-refusing-to-hand-them-over.md)
 An Italian judge in Catania upheld Tuesday the seizure of Proactiva Open Arms ship, but dropped the most serious charges against the Spanish NGO that operates the ship, which is involvement in the smuggling of migrants. The Italian News Agency ANSA reported that the judge ruled that the Proactiva Op...
+
+##### Poisoning of Sergei and Yulia Skripal
+### [Police investigating the attack say they believe the Skripals were poisoned at Sergei Skripal's home. ](/news/2018/03/28/police-investigating-the-attack-say-they-believe-the-skripals-were-poisoned-at-sergei-skripal-s-home.md)
+The highest concentration of novichok was found on their front door in Salisbury, but police stress the risk to neighbours is low.
 
 ##### China-North Korea relations
 ### [The governments of China and North Korea both confirm that North Korean leader Kim Jong-un met with Chinese President Xi Jinping in Beijing during the past four days. China states that North Korea is "committed to denuclearization" and willing to hold a summit with the United States. ](/news/2018/03/28/the-governments-of-china-and-north-korea-both-confirm-that-north-korean-leader-kim-jong-un-met-with-chinese-president-xi-jinping-in-beijing.md)
@@ -99,12 +107,16 @@ The US National Aeronautics and Space Administration, NASA, revealed on Monday t
 ### [Voting enters the second day. ](/news/2018/03/27/voting-enters-the-second-day.md)
 Egyptian authorities pressed for a high turnout on Tuesday on the second day of a presidential election expected to give President Abdel Fattah al-Sisi a sweeping victory in the absence of real competition, in a contest dismissed by critics as sham.
 
+##### Dutch
+### [A Dutch court rules police are liable for a mass shooting at a shopping centre that killed 6 and wounded 16 because the gunman should not have been issued a firearms licence. ](/news/2018/03/27/a-dutch-court-rules-police-are-liable-for-a-mass-shooting-at-a-shopping-centre-that-killed-6-and-wounded-16-because-the-gunman-should-not-ha.md)
+A court orders police to compensate the families of those killed and injured when a gunman opened fire in a shopping mall in 2011.
+
 ##### Kent County, Michigan
-### [Kent County, Michigan special prosecutor Bill Forsyth charges William Strampel, the former dean of the Michigan State University College of Osteopathic Medicine, in the United States District Court for the Western District of Michigan in East Lansing, Michigan, with misconduct in office, fourth-degree criminal sexual conduct, and two counts of willful neglect of duty in connection with the Larry Nassar scandal. As Nassar's boss, Strampel appears to have willfully ignored years of sexual misconduct involving Nassar, the sports medicine doctor who abused hundreds of student athletes and Olympic gymnasts under the subterfuge of being appropriate medical care. Among the evidence it is reported that there was the discovery on Strampel's computer of a pornographic video of Nassar performing a so-called "treatment" on a young female patient. ](/news/2018/03/27/kent-county-michigan-special-prosecutor-bill-forsyth-charges-william-strampel-the-former-dean-of-the-michigan-state-university-college-of.md)
-_Context: East Lansing, Michigan, Kent County, Michigan, Larry Nassar, Michigan State University College of Osteopathic Medicine, Olympic gymnast, United States District Court for the Western District of Michigan, scandal_
+### [Kent County, Michigan special prosecutor Bill Forsyth charges William Strampel, the former dean of the Michigan State University College of Osteopathic Medicine, in the United States District Court for the Western District of Michigan in East Lansing, Michigan, with misconduct in office, fourth-degree criminal sexual conduct, and two counts of willful neglect of duty in connection with the Larry Nassar sex abuse scandal. ](/news/2018/03/27/kent-county-michigan-special-prosecutor-bill-forsyth-charges-william-strampel-the-former-dean-of-the-michigan-state-university-college-of.md)
+_Context: East Lansing, Michigan, Kent County, Michigan, Larry Nassar, Michigan State University College of Osteopathic Medicine, United States District Court for the Western District of Michigan, sex abuse scandal_
 
 ##### FBI
-### [The FBI arrests Everett, Washington, 43-year-old Thanh Cong Phan on suspicion of charges of illegally shipping explosive materials by sending 12 package bombs to the CIA as well as multiple military and government facilities in the Washington, D.C. area. Those bombs did not blow up. The alleged perpetrator was already under government scrutiny for previous mental health issues. ](/news/2018/03/27/the-fbi-arrests-everett-washington-43-year-old-thanh-cong-phan-on-suspicion-of-charges-of-illegally-shipping-explosive-materials-by-sendin.md)
+### [The FBI arrests Everett, Washington, 43-year-old Thanh Cong Phan on suspicion of charges of illegally shipping explosive materials by sending 12 package bombs to the CIA as well as multiple military and government facilities in the Washington, D.C. area. Those devices did notexplode. ](/news/2018/03/27/the-fbi-arrests-everett-washington-43-year-old-thanh-cong-phan-on-suspicion-of-charges-of-illegally-shipping-explosive-materials-by-sendin.md)
 Less than a week after the man suspected of mailing package bombs in Austin, Texas, blew himself up, the FBI announced Tuesday that an Everett man has been arrested on suspicion of sending package bombs to the CIA as well as multiple military and government facilities in the Washington, D.C. area. T...
 
 ##### Censorship in Spain
@@ -115,7 +127,7 @@ A book about Spain&rsquo;s drug-smuggling underworld banned last week by a Madri
 ### [A United Kingdom panel, chaired by the former head of the Home civil service, Lord Bob Kerslake, issues a report which concludes that firefighters were prevented from attending the scene of the bombing for two hours. The report makes more than 50 recommendations. ](/news/2018/03/27/a-united-kingdom-panel-chaired-by-the-former-head-of-the-home-civil-service-lord-bob-kerslake-issues-a-report-which-concludes-that-firefi.md)
 _Context: Bob Kerslake, Manchester Arena bombing, United Kingdom, firefighters, head of the Home civil service_
 
-##### The Netherlands
+##### Dutch
 ### [The government of The Netherlands recalls a diplomat from the country of Turkey after local newspapers accused him of spying. ](/news/2018/03/27/the-government-of-the-netherlands-recalls-a-diplomat-from-the-country-of-turkey-after-local-newspapers-accused-him-of-spying.md)
 The Dutch diplomat outed as a spy in Turkish newspapers has been brought back to the Netherlands for his own...
 

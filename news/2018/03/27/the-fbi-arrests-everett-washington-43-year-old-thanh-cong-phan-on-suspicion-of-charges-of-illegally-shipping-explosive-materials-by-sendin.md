@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/27/the-fbi-arrests-everett-washington-43-year-old-
 ### [2018-03-27](/news/2018/03/27/index.md)
 
 ##### FBI
-# The FBI arrests Everett, Washington, 43-year-old Thanh Cong Phan on suspicion of charges of illegally shipping explosive materials by sending 12 package bombs to the CIA as well as multiple military and government facilities in the Washington, D.C. area. Those bombs did not blow up. The alleged perpetrator was already under government scrutiny for previous mental health issues. 
+# The FBI arrests Everett, Washington, 43-year-old Thanh Cong Phan on suspicion of charges of illegally shipping explosive materials by sending 12 package bombs to the CIA as well as multiple military and government facilities in the Washington, D.C. area. Those devices did notexplode. 
 
 Less than a week after the man suspected of mailing package bombs in Austin, Texas, blew himself up, the FBI announced Tuesday that an Everett man has been arrested on suspicion of sending package bombs to the CIA as well as multiple military and government facilities in the Washington, D.C. area. Those bombs did not blow up....
 
@@ -17,7 +17,7 @@ Less than a week after the man suspected of mailing package bombs in Austin, Tex
 ### Changes:
 
 1. [The FBI arrests Everett, Washington 43-year-old Thanh Cong Phan on suspicion of sending 12 package bombs to the CIA as well as multiple military and government facilities in the Washington, D.C. area. Those bombs did not blow up. The alleged perpetrator was already under government scrutiny for previous mental health issues. ](/news/2018/03/27/the-fbi-arrests-everett-washington-43-year-old-thanh-cong-phan-on-suspicion-of-sending-12-package-bombs-to-the-cia-as-well-as-multiple-mili.md) _2018-03-28 04:02:20 (First version)_
-1. [The FBI arrests Everett, Washington, 43-year-old Thanh Cong Phan on suspicion of charges of illegally shipping explosive materials by sending 12 package bombs to the CIA as well as multiple military and government facilities in the Washington, D.C. area. Those bombs did not blow up. The alleged perpetrator was already under government scrutiny for previous mental health issues. ](/news/2018/03/27/the-fbi-arrests-everett-washington-43-year-old-thanh-cong-phan-on-suspicion-of-charges-of-illegally-shipping-explosive-materials-by-sendin.md) _(Current version)_
+1. [The FBI arrests Everett, Washington, 43-year-old Thanh Cong Phan on suspicion of charges of illegally shipping explosive materials by sending 12 package bombs to the CIA as well as multiple military and government facilities in the Washington, D.C. area. Those devices did notexplode. ](/news/2018/03/27/the-fbi-arrests-everett-washington-43-year-old-thanh-cong-phan-on-suspicion-of-charges-of-illegally-shipping-explosive-materials-by-sendin.md) _(Current version)_
 
 ### Related:
 
