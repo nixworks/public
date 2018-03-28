@@ -13,7 +13,7 @@ _Context: Antigua and Barbuda, Antigua and Barbuda Labour Party, Antiguan genera
 
 ##### Presidency of Donald Trump
 ### [U.S. President Donald Trump announces former United States Ambassador to the United Nations John R. Bolton will become his National Security Advisor, succeeeding the outgoing H. R. McMaster. ](/news/2018/03/22/u-s-president-donald-trump-announces-former-united-states-ambassador-to-the-united-nations-john-r-bolton-will-become-his-national-security.md)
-_Context: H. R. McMaster, John R. Bolton, Presidency of Donald Trump, President, Trump, US National Security Advisor, United States Ambassador to the United Nations_
+_Context: Donald Trump, H. R. McMaster, John R. Bolton, Presidency of Donald Trump, President, US National Security Advisor, United States Ambassador to the United Nations_
 
 ##### Resignation of Pedro Pablo Kuczynski
 ### [A Peruvian court confirms it will consider a request to impose a travel ban on President Pedro Pablo Kuczynski if his resignation is confirmed by lawmakers, who are considering whether to accept it. Some politicians have vowed to resist the resignation in favour of instead impeaching Kuczynski. ](/news/2018/03/22/a-peruvian-court-confirms-it-will-consider-a-request-to-impose-a-travel-ban-on-president-pedro-pablo-kuczynski-if-his-resignation-is-confirm.md)

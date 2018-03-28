@@ -57,7 +57,7 @@ _Context: Crime in South Korea, Former President, Lee Myung-bak, South Korea_
 
 ##### 2018 North Korea-United States summit
 ### [New US National Security Advisor John R. Bolton says that President Donald Trump should insist on Libya-styled denuclearization for North Korea. ](/news/2018/03/23/new-us-national-security-advisor-john-r-bolton-says-that-president-donald-trump-should-insist-on-libya-styled-denuclearization-for-north-ko.md)
-_Context: 2018 North Korea-United States summit, John R. Bolton, Libya, North Korea, Trump, US National Security Advisor_
+_Context: 2018 North Korea-United States summit, Donald Trump, John R. Bolton, Libya, North Korea, US National Security Advisor_
 
 ##### Cyprus dispute
 ### [Turkey calls a statement of European Union support for Greek Cypriots in a dispute over offshore resources "unacceptable". Turkey has been using its Navy to prevent exploration by Cypriot vessels. ](/news/2018/03/23/turkey-calls-a-statement-of-european-union-support-for-greek-cypriots-in-a-dispute-over-offshore-resources-unacceptable-turkey-has-been-u.md)
@@ -81,7 +81,7 @@ Residents startled awake by loud noise and smoke signaled for help with lit mobi
 
 ##### Economy of Denmark
 ### [Boeing loses a case in Copenhagen city court against the Danish Ministry of Defense over access to documents used in the purchase of Lockheed Martin F-35 Lightning II fighters in preference over Boeing F-A 18 Super Hornets. Boeing argued the evaluation process used in the purchase had been "flawed". ](/news/2018/03/23/boeing-loses-a-case-in-copenhagen-city-court-against-the-danish-ministry-of-defense-over-access-to-documents-used-in-the-purchase-of-lockhee.md)
-_Context: Boeing, Copenhagen, Economy of Denmark, Lockheed Martin, Ministry of Defense, city court, evaluation_
+_Context: Copenhagen, Economy of Denmark, Lockheed Martin, Ministry of Defense, The Boeing Company, city court, evaluation_
 
 ##### Northern Mali conflict
 ### [Malian Prime Minister Soumeylou Boubeye Maiga visits seperatist rebel stronghold Kidal. ](/news/2018/03/23/malian-prime-minister-soumeylou-boubeye-maiga-visits-seperatist-rebel-stronghold-kidal.md)

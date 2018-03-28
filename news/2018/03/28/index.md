@@ -3,6 +3,10 @@ Formats: [HTML](2018/03/28/index.html)  [JSON](2018/03/28/index.json)  [XML](201
 
 ## [2018-03-28](/news/2018/03/28/index.md)
 
+##### The Boeing Company
+### [Computers at The Boeing Company are infected with the WannaCry ransomware. ](/news/2018/03/28/computers-at-the-boeing-company-are-infected-with-the-wannacry-ransomware.md)
+Boeing has been hit by the WannaCry computer virus. Some airplane production may be affected
+
 ##### The Earth
 ### [New research suggests the Earth may have had water earlier than thought, and that terrestrial water could have survived the impact that created the Moon, the event which was previously hypothesised to be responsible for our planet's water. ](/news/2018/03/28/new-research-suggests-the-earth-may-have-had-water-earlier-than-thought-and-that-terrestrial-water-could-have-survived-the-impact-that-crea.md)
 Comparing moon rocks to volcanic ones from the ocean floor shows that Earth’s water may have stuck around even through the giant impact that formed the moon
@@ -15,8 +19,12 @@ Seismic activity in Öræfajökull volcano continues. This month, fourteen earth
 ### [The linguistics journal "Diachronica" publishes Australian research implying that a tracement of the country's indigenous languages can be made back to a single, common language known as Proto-Australian, which was spoken around 10,000-years ago. ](/news/2018/03/28/the-linguistics-journal-diachronica-publishes-australian-research-implying-that-a-tracement-of-the-country-s-indigenous-languages-can-be-m.md)
 All indigenous languages can be traced to a mother tongue dubbed Proto-Australian, researchers say.
 
+##### Cabinet of Donald Trump
+### [U.S. President Donald Trump announces he is replacing David Shulkin as Secretary of Veterans Affairs and will nominate Ronny Jackson, currently the President's Physician, in his stead. ](/news/2018/03/28/u-s-president-donald-trump-announces-he-is-replacing-david-shulkin-as-secretary-of-veterans-affairs-and-will-nominate-ronny-jackson-curren.md)
+_Context: Cabinet of Donald Trump, David Shulkin, Donald Trump, President's Physician, Ronny Jackson, Secretary of Veterans Affairs_
+
 ##### Egyptian presidential election, 2018
-### [Egypt's National Election Authority says it will fine abstaining voters. ](/news/2018/03/28/egypt-s-national-election-authority-says-it-will-fine-abstaining-voters.md)
+### [On the final day of the election, Egypt's National Election Authority says it will fine abstaining voters. ](/news/2018/03/28/on-the-final-day-of-the-election-egypt-s-national-election-authority-says-it-will-fine-abstaining-voters.md)
 Egypt&#8217;s National Election Authority (NEA) said on Wednesday that it would work to enforce the provisions of the law to impose a fine of LE500 on eligible voters who abstained from casting their votes in the presidential election. The NEA called on all eligible voters to cast their votes and pr...
 
 ##### Terrorism in Greece
@@ -28,8 +36,8 @@ Greek Police are examining the remnants of a bomb which detonated on Saturday in
 Clara Ponsatí’s lawyer says she will fight attempt to return her to Spain to face rebellion charge
 
 ##### Terrorism in the United States
-### [The trial of Noor Salman, widow of gay club shooter Omar Mateen, hears closing arguments. Jurors begin deliberations. ](/news/2018/03/28/the-trial-of-noor-salman-widow-of-gay-club-shooter-omar-mateen-hears-closing-arguments-jurors-begin-deliberations.md)
-_Context: Noor Salman, Omar Mateen, Terrorism in the United States, gay club shooter_
+### [The trial of Noor Salman, widow of Pulse nightclub shooter Omar Mateen, hears closing arguments. Jurors begin deliberations. ](/news/2018/03/28/the-trial-of-noor-salman-widow-of-pulse-nightclub-shooter-omar-mateen-hears-closing-arguments-jurors-begin-deliberations.md)
+_Context: Omar Mateen, Pulse nightclub shooter, Terrorism in the United States_
 
 ##### Chinese
 ### [A Chinese court sentences Zhang Zhongsheng, the former Vice Mayor of Luliang, Shanxi, to death. Zhongsheng was convicted of accepting bribes totaling 1.04 billion yuan (US$160 million). ](/news/2018/03/28/a-chinese-court-sentences-zhang-zhongsheng-the-former-vice-mayor-of-luliang-shanxi-to-death-zhongsheng-was-convicted-of-accepting-bribes.md)
@@ -78,6 +86,10 @@ Two people have died after being trapped under a building that collapsed on a tr
 ##### Wine Rack
 ### [Conviviality PLC, owner of Wine Rack and Bargain Booze, announces it has been refused investment to stave off bankruptcy and will likely enter administration. ](/news/2018/03/28/conviviality-plc-owner-of-wine-rack-and-bargain-booze-announces-it-has-been-refused-investment-to-stave-off-bankruptcy-and-will-likely-ent.md)
 2,600 jobs at risk and pubs including the JD Wetherspoon chain face supply issues
+
+##### Iraq
+### [Iraqi authorities announce the arrest of alleged senior Islamic State member Saab Abdullah al-Issawi in a military-supported airdrop in Anbar. ](/news/2018/03/28/iraqi-authorities-announce-the-arrest-of-alleged-senior-islamic-state-member-saab-abdullah-al-issawi-in-a-military-supported-airdrop-in-anba.md)
+_Context: Anbar, Iraq, Islamic State_
 
 ##### United States Africa Command
 ### [United States Africa Command announces an airstrike in Ubari, Libya on Saturday killed Musa Abu Dawud, a wanted alleged senior member of al-Qaida. ](/news/2018/03/28/united-states-africa-command-announces-an-airstrike-in-ubari-libya-on-saturday-killed-musa-abu-dawud-a-wanted-alleged-senior-member-of-al.md)
