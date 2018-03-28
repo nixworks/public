@@ -40,8 +40,8 @@ Australia has become the latest country to expel Russian diplomats following the
 China said on Wednesday North Korean leader Kim Jong Un pledged to denuclearize the Korean peninsula during an historic meeting in Beijing with President Xi Jinping, who promised China would uphold its friendship with its isolated neighbor.
 
 ##### Aviation and Railway Accident Investigation Board
-### [The South Korean Aviation and Railway Accident Investigation Board issues its final report on a near-collision between a China Southern Airbus A319 and a Korean Air Boeing 738 on a runway in Cheongju, South Korea. The Board reports the Airbus crew misunderstood the full meaning of the specific ground control runway instruction. ](/news/2018/03/27/the-south-korean-aviation-and-railway-accident-investigation-board-issues-its-final-report-on-a-near-collision-between-a-china-southern-airb.md)
-_Context: Airbus A319, Aviation and Railway Accident Investigation Board, Boeing 738, Cheongju, China Southern, Korean Air, South Korea_
+### [The South Korean Aviation and Railway Accident Investigation Board issues its final report on a near-collision between a China Southern Airbus A319 and a Korean Air Boeing 737-800 on a runway in Cheongju, South Korea. The Board reports the Airbus crew misunderstood the full meaning of the specific ground control runway instruction. ](/news/2018/03/27/the-south-korean-aviation-and-railway-accident-investigation-board-issues-its-final-report-on-a-near-collision-between-a-china-southern-airb.md)
+_Context: Airbus A319, Aviation and Railway Accident Investigation Board, Boeing 737-800, Cheongju, China Southern, Korean Air, South Korea_
 
 ##### United States
 ### [The United States National Transportation Safety Board (NTSB) launches a probe into a Tesla electric car crash and fire in California. The NTSB says it will investigate issues firefighters had trying to determine how to respond. ](/news/2018/03/27/the-united-states-national-transportation-safety-board-ntsb-launches-a-probe-into-a-tesla-electric-car-crash-and-fire-in-california-the-n.md)

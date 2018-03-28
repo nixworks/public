@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/27/the-south-korean-aviation-and-railway-accident-
 ### [2018-03-27](/news/2018/03/27/index.md)
 
 ##### Aviation and Railway Accident Investigation Board
-# The South Korean Aviation and Railway Accident Investigation Board issues its final report on a near-collision between a China Southern Airbus A319 and a Korean Air Boeing 738 on a runway in Cheongju, South Korea. The Board reports the Airbus crew misunderstood the full meaning of the specific ground control runway instruction. 
+# The South Korean Aviation and Railway Accident Investigation Board issues its final report on a near-collision between a China Southern Airbus A319 and a Korean Air Boeing 737-800 on a runway in Cheongju, South Korea. The Board reports the Airbus crew misunderstood the full meaning of the specific ground control runway instruction. 
 
 
 
@@ -16,7 +16,7 @@ Formats: [HTML](/news/2018/03/27/the-south-korean-aviation-and-railway-accident-
 ### Changes:
 
 1. [The South Korean Aviation and Railway Accident Investigation Board issues its final report on a near-collision between an Airbus A310 and a Boeing 737 on a runway in Cheongju. The Board blames the crew who misunderstood a runway instruction. ](/news/2018/03/27/the-south-korean-aviation-and-railway-accident-investigation-board-issues-its-final-report-on-a-near-collision-between-an-airbus-a310-and-a.md) _2018-03-28 04:02:19 (First version)_
-1. [The South Korean Aviation and Railway Accident Investigation Board issues its final report on a near-collision between a China Southern Airbus A319 and a Korean Air Boeing 738 on a runway in Cheongju, South Korea. The Board reports the Airbus crew misunderstood the full meaning of the specific ground control runway instruction. ](/news/2018/03/27/the-south-korean-aviation-and-railway-accident-investigation-board-issues-its-final-report-on-a-near-collision-between-a-china-southern-airb.md) _(Current version)_
+1. [The South Korean Aviation and Railway Accident Investigation Board issues its final report on a near-collision between a China Southern Airbus A319 and a Korean Air Boeing 737-800 on a runway in Cheongju, South Korea. The Board reports the Airbus crew misunderstood the full meaning of the specific ground control runway instruction. ](/news/2018/03/27/the-south-korean-aviation-and-railway-accident-investigation-board-issues-its-final-report-on-a-near-collision-between-a-china-southern-airb.md) _(Current version)_
 
 ### Related:
 
