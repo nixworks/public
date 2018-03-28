@@ -1,39 +1,63 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/03/27/index.md)
+## [News](/news/2018/03/28/index.md)
+
+##### Australian Aboriginal languages
+### [The linguistics journal "Diachronica" publishes Australian research implying that a tracement of the country's indigenous languages can be made back to a single, common language known as Proto-Australian, which was spoken around 10,000 years ago. ](/news/2018/03/28/the-linguistics-journal-diachronica-publishes-australian-research-implying-that-a-tracement-of-the-country-s-indigenous-languages-can-be-m.md)
+All indigenous languages can be traced to a mother tongue dubbed Proto-Australian, researchers say.
+
+##### China-North Korea relations
+### [China and North Korea both confirm that North Korean leader Kim Jong-un met with Chinese President Xi Jinping in Beijing during the past four days. China states that North Korea is "committed to denuclearization" and willing to hold a summit with the United States. ](/news/2018/03/28/china-and-north-korea-both-confirm-that-north-korean-leader-kim-jong-un-met-with-chinese-president-xi-jinping-in-beijing-during-the-past-fou.md)
+North Korean leader Kim Jong Un has pledged to denuclearize and meet U.S. officials, China said on Wednesday after an historic meeting with President Xi Jinping, who promised China would uphold its friendship with its isolated neighbor.
+
+##### Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2018/03/27/index.md)
 
 ##### Discoveries of exoplanets
-### [NASA's Kepler Space Telescope reports observations of what may be a new exoplanet named K2-229b, whose attributes may resemble Mercury (hot, metallic, and dense). ](/news/2018/03/27/nasa-s-kepler-space-telescope-reports-observations-of-what-may-be-a-new-exoplanet-named-k2-229b-whose-attributes-may-resemble-mercury-hot.md)
+### [Led overall by researchers at Aix-Marseille Universite in France using NASA's "Kepler Space Telescope", "Nature Astronomy" publishes observations of what may be a new exoplanet named K2-229b, whose attributes may resemble the planet of Mercury (hot, metallic, and dense). ](/news/2018/03/27/led-overall-by-researchers-at-aix-marseille-universita-c-in-france-using-nasa-s-kepler-space-telescope-nature-astronomy-publishes-observ.md)
 The US National Aeronautics and Space Administration, NASA, revealed on Monday the discovery of an exoplanet resembling Mercury. The new finding made by the NASA Kepler Space Telescope will help to…
 
 ##### Egyptian presidential election, 2018
 ### [Voting enters the second day. ](/news/2018/03/27/voting-enters-the-second-day.md)
 Egyptian authorities pressed for a high turnout on Tuesday on the second day of a presidential election expected to give President Abdel Fattah al-Sisi a sweeping victory in the absence of real competition, in a contest dismissed by critics as sham.
 
+##### Kent County, Michigan
+### [Kent County, Michigan special prosecutor Bill Forsyth charges William Strampel, the former dean of the Michigan State University College of Osteopathic Medicine, in the United States District Court for the Western District of Michigan in East Lansing, Michigan, with misconduct in office, fourth-degree criminal sexual conduct, and two counts of willful neglect of duty in connection with the Larry Nassar scandal. As Nassar's boss, Strampel appears to have willfully ignored years of sexual misconduct involving Nassar, the sports medicine doctor who abused hundreds of student athletes and Olympic gymnasts under the subterfuge of being appropriate medical care. Among the evidence it is reported that there was the discovery on Strampel's computer of a pornographic video of Nassar performing a "so-called" treatment on a young female patient. ](/news/2018/03/27/kent-county-michigan-special-prosecutor-bill-forsyth-charges-william-strampel-the-former-dean-of-the-michigan-state-university-college-of.md)
+_Context: East Lansing, Michigan, Kent County, Michigan, Larry Nassar, Michigan State University College of Osteopathic Medicine, Olympic gymnast, United States District Court for the Western District of Michigan, scandal_
+
+##### FBI
+### [The FBI arrests Everett, Washington, 43-year-old Thanh Cong Phan on suspicion of charges of illegally shipping explosive materials by sending 12 package bombs to the CIA as well as multiple military and government facilities in the Washington, D.C. area. Those bombs did not blow up. The alleged perpetrator was already under government scrutiny for previous mental health issues. ](/news/2018/03/27/the-fbi-arrests-everett-washington-43-year-old-thanh-cong-phan-on-suspicion-of-charges-of-illegally-shipping-explosive-materials-by-sendin.md)
+Less than a week after the man suspected of mailing package bombs in Austin, Texas, blew himself up, the FBI announced Tuesday that an Everett man has been arrested on suspicion of sending package bombs to the CIA as well as multiple military and government facilities in the Washington, D.C. area. T...
+
 ##### Censorship in Spain
-### [A court issues an order shutting down a website that uses extracts from "Don Quixote" to recreate the book "Farina". "Farina", an investigation of drug trafficking, is the subject of a freedom of speech debate after a court halted sales ahead of a libel case. ](/news/2018/03/27/a-court-issues-an-order-shutting-down-a-website-that-uses-extracts-from-don-quixote-to-recreate-the-book-farina-farina-an-investigat.md)
-When Miguel de Cervantes wrote &ldquo;Don Quixote&rdquo; in the 17th century, he couldn&rsquo;t have imagined that the novel would be used as a weapon in a modern battle over freedom of speech in Spain.
+### [A Madrid court issues an order shutting down a website that uses extracts from "Don Quixote" to recreate the book "Farina". "Farina", an investigation of drug trafficking, is the subject of a freedom of speech debate after a court halted sales ahead of a libel case. ](/news/2018/03/27/a-madrid-court-issues-an-order-shutting-down-a-website-that-uses-extracts-from-don-quixote-to-recreate-the-book-farina-farina-an-inv.md)
+A book about Spain&rsquo;s drug-smuggling underworld banned last week by a Madrid court has been brought to readers online as a cut-and-pasted text from Spanish classic Don Quixote.
 
 ##### Manchester Arena bombing
-### [A report reveals firefighters were prevented from attending the scene of the bombing for two hours. The report makes more than 50 recommendations. ](/news/2018/03/27/a-report-reveals-firefighters-were-prevented-from-attending-the-scene-of-the-bombing-for-two-hours-the-report-makes-more-than-50-recommenda.md)
-_Context: Manchester Arena bombing, firefighters_
+### [A United Kingdom panel, chaired by the former head of the Home civil service, Lord Bob Kerslake, issues a report which concludes that firefighters were prevented from attending the scene of the bombing for two hours. The report makes more than 50 recommendations. ](/news/2018/03/27/a-united-kingdom-panel-chaired-by-the-former-head-of-the-home-civil-service-lord-bob-kerslake-issues-a-report-which-concludes-that-firefi.md)
+_Context: Bob Kerslake, Manchester Arena bombing, United Kingdom, firefighters, head of the Home civil service_
 
 ##### The Netherlands
-### [The Netherlands recalls a diplomat from Turkey after local newspapers accused him of spying. ](/news/2018/03/27/the-netherlands-recalls-a-diplomat-from-turkey-after-local-newspapers-accused-him-of-spying.md)
+### [The government of The Netherlands recalls a diplomat from the country of Turkey after local newspapers accused him of spying. ](/news/2018/03/27/the-government-of-the-netherlands-recalls-a-diplomat-from-the-country-of-turkey-after-local-newspapers-accused-him-of-spying.md)
 The Dutch diplomat outed as a spy in Turkish newspapers has been brought back to the Netherlands for his own...
 
 ##### Reactions to the poisoning of Sergei and Yulia Skripal
-### [NATO and Australia expel Russian diplomats. ](/news/2018/03/27/nato-and-australia-expel-russian-diplomats.md)
+### [NATO and the government of Australia expel Russian diplomats. ](/news/2018/03/27/nato-and-the-government-of-australia-expel-russian-diplomats.md)
 Australia has become the latest country to expel Russian diplomats following the nerve agent attack on ex-spy Sergei Skripal in Salisbury earlier this month in a gesture of solidarity with Britain.
 
 ##### China-North Korea relations
-### [A train carrying a North Korean diplomatic delegation leaves Beijing station. Reports suggest that it included supreme leader Kim Jong-un, on what would be his first known travel outside North Korea since assuming office in 2011. ](/news/2018/03/27/a-train-carrying-a-north-korean-diplomatic-delegation-leaves-beijing-station-reports-suggest-that-it-included-supreme-leader-kim-jong-un-o.md)
-_Context: Beijing station, China-North Korea relations, Kim Jong-un, North Korea_
+### [North Korean Supreme leader Kim Jong-un meets with with Chinese President Xi Jinping in Beijing, on what is his first known travel outside North Korea since assuming office in 2011. ](/news/2018/03/27/north-korean-supreme-leader-kim-jong-un-meets-with-with-chinese-president-xi-jinping-in-beijing-on-what-is-his-first-known-travel-outside-n.md)
+China said on Wednesday North Korean leader Kim Jong Un pledged to denuclearize the Korean peninsula during an historic meeting in Beijing with President Xi Jinping, who promised China would uphold its friendship with its isolated neighbor.
 
-##### South Korea
-### [The South Korean Aviation and Railway Accident Investigation Board issues its final report on a near-collision between an Airbus A310 and a Boeing 737 on a runway in Cheongju. The Board blames the crew who misunderstood a runway instruction. ](/news/2018/03/27/the-south-korean-aviation-and-railway-accident-investigation-board-issues-its-final-report-on-a-near-collision-between-an-airbus-a310-and-a.md)
-_Context: Airbus A310, Aviation and Railway Accident Investigation Board, Boeing 737, Cheongju, South Korea_
+##### Aviation and Railway Accident Investigation Board
+### [The South Korean Aviation and Railway Accident Investigation Board issues its final report on a near-collision between a China Southern Airbus A319 and a Korean Air Boeing 738 on a runway in Cheongju, South Korea. The Board reports the Airbus crew misunderstood the full meaning of the specific ground control runway instruction. ](/news/2018/03/27/the-south-korean-aviation-and-railway-accident-investigation-board-issues-its-final-report-on-a-near-collision-between-a-china-southern-airb.md)
+_Context: Airbus A319, Aviation and Railway Accident Investigation Board, Boeing 738, Cheongju, China Southern, Korean Air, South Korea_
 
 ##### United States
 ### [The United States National Transportation Safety Board (NTSB) launches a probe into a Tesla electric car crash and fire in California. The NTSB says it will investigate issues firefighters had trying to determine how to respond. ](/news/2018/03/27/the-united-states-national-transportation-safety-board-ntsb-launches-a-probe-into-a-tesla-electric-car-crash-and-fire-in-california-the-n.md)
@@ -56,8 +80,8 @@ A container ship and a merchant ship collided in the Great Belt strait between t
 At least 64 people - 41 of them children - died in a shopping mall fire and many are feared missing.
 
 ##### History of autonomous cars
-### [The governor of Arizona suspends all testing of Uber self-driving cars following a fatal accident last week. ](/news/2018/03/27/the-governor-of-arizona-suspends-all-testing-of-uber-self-driving-cars-following-a-fatal-accident-last-week.md)
-_Context: Arizona, History of autonomous cars, Uber, self-driving car_
+### [U.S. graphics processing unit producer Nvidia suspends all its tests of self-driving cars. ](/news/2018/03/27/u-s-graphics-processing-unit-producer-nvidia-suspends-all-its-tests-of-self-driving-cars.md)
+_Context: History of autonomous cars, Nvidia, graphics processing unit_
 
 ##### Turkey
 ### [The government of Turkey states that eleven Kurdish militants have been killed near its Syrian border, and two soldiers were killed by an explosion in Syria. ](/news/2018/03/27/the-government-of-turkey-states-that-eleven-kurdish-militants-have-been-killed-near-its-syrian-border-and-two-soldiers-were-killed-by-an-ex.md)
@@ -71,13 +95,9 @@ NATO says the Afghan air force dropped its first laser-guided bomb during combat
 ### [Old Bailey Justice Charles Haddon-Cave sentences convicted terrorist Umar Haque, who indoctrinated children he was teaching in London so that he could use them to commit attacks, to lifetime incarceration with parole eligibility only after 25 years. ](/news/2018/03/27/old-bailey-justice-charles-haddon-cave-sentences-convicted-terrorist-umar-haque-who-indoctrinated-children-he-was-teaching-in-london-so-tha.md)
 _Context: Charles Haddon-Cave, London, Old Bailey, Terrorism in the United Kingdom, Umar Haque_
 
-##### Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2018/03/26/index.md)
+## [Day Before Yesterday](/news/2018/03/26/index.md)
 
 ##### Discoveries of exoplanets
 ### [ArXiv publishes research that a gas giant may be orbiting a brown dwarf. The exoplanet, designated OGLE-2017-BLG-1522Lb, orbits its host at a distance of 0.59 AU and could be the first known gas giant to have formed inside the protoplanetary disk of a brown dwarf. ](/news/2018/03/26/arxiv-publishes-research-that-a-gas-giant-may-be-orbiting-a-brown-dwarf-the-exoplanet-designated-ogle-2017-blg-1522lb-orbits-its-host-at.md)
@@ -106,6 +126,10 @@ _Context: Donald Tusk, European Commission, European Council, Jean-Claude Juncke
 ##### Reactions to the poisoning of Sergei and Yulia Skripal
 ### [More than 100 Russian diplomats are expelled from over 20 countries. ](/news/2018/03/26/more-than-100-russian-diplomats-are-expelled-from-over-20-countries.md)
 Australia joins more than 20 other countries in expelling Russian diplomats over UK spy poisoning.
+
+##### History of autonomous cars
+### [The governor of Arizona suspends all statewide-testing of Uber autonomous cars following the March 19 fatal accident involving Uber self-driving car research. ](/news/2018/03/26/the-governor-of-arizona-suspends-all-statewide-testing-of-uber-autonomous-cars-following-the-march-19-fatal-accident-involving-uber-self-dri.md)
+_Context: Arizona, History of autonomous cars, Uber, Uber self-driving car research, autonomous car_
 
 ##### 2017-18 Volvo Ocean Race
 ### [A British yachtsman falls overboard from "Sun Hung Kai-Scallywag". A search and rescue operation launches, with one ship diverting from over 400 nautical miles away. ](/news/2018/03/26/a-british-yachtsman-falls-overboard-from-sun-hung-kai-scallywag-a-search-and-rescue-operation-launches-with-one-ship-diverting-from-over.md)
@@ -137,79 +161,7 @@ An alleged neo-Nazi has appeared in court charged with plotting to murder a Labo
 
 ---
 
-## [Day Before Yesterday](/news/2018/03/25/index.md)
-
-##### Sahara
-### [An anomalous weather event caused due to dust from a sandstorm in the Sahara, leads to an orange snow blanketing several Eastern European countries, including Ukraine, Bulgaria, Romania and Russia. This weather event happens roughly every five years; a similar event occured in Siberia in 2007. ](/news/2018/03/25/an-anomalous-weather-event-caused-due-to-dust-from-a-sandstorm-in-the-sahara-leads-to-an-orange-snow-blanketing-several-eastern-european-co.md)
-Dust and sand from storms in northern Africa carpet ski resorts in Russia and Romania
-
-##### Kangaroo Route
-### [Qantas Airways Flight QF9 becomes the first ever regularly scheduled non-stop flight between Australia and Europe after making the 17-hour journey from Perth to London. ](/news/2018/03/25/qantas-airways-flight-qf9-becomes-the-first-ever-regularly-scheduled-non-stop-flight-between-australia-and-europe-after-making-the-17-hour-j.md)
-The first direct flight from Australia to the UK has landed at Heathrow airport after an epic 17-hour flight. Qantas 9 (QF9) touched down at Terminal Three at 5.02 am (GMT)&nbsp;after setting off from Perth at 7pm local time (11am GMT) on Saturday covering 9,226 miles. The Boeing 787-9 Dreamliner to...
-
-##### Novae in the Milky Way galaxy
-### [Researchers publish observations of a possible nova (ASASSN-18fv) in the constellation Carina. ](/news/2018/03/25/researchers-publish-observations-of-a-possible-nova-asassn-18fv-in-the-constellation-carina.md)
-_Context: ASASSN-18fv, Carina, Novae in the Milky Way galaxy, nova_
-
-##### Carcassonne and Trebes attack
-### [A former French Parliamentarian candidate of the La France Insoumise party is arrested for tweeting that the death of Lt-Col Arnaud Beltrame was "great" and "one less vote for Emmanuel Macron." ](/news/2018/03/25/a-former-french-parliamentarian-candidate-of-the-la-france-insoumise-party-is-arrested-for-tweeting-that-the-death-of-lt-col-arnaud-beltrame.md)
-The French left-winger is accused of celebrating the killing of Arnaud Beltrame in a terrorist attack.
-
-##### 2017-18 Spanish constitutional crisis
-### [Catalonia's ex-President Carles Puigdemont is detained in Germany. ](/news/2018/03/25/catalonia-s-ex-president-carles-puigdemont-is-detained-in-germany.md)
-Carles Puigdemont, the deposed Catalan president, has been detained by police at the German border after Spain reactivated an international warrant for his arrest on charges of rebellion over October&rsquo;s referendum and declaration of independence.
-
-##### Maputo
-### [A suspected drunk driver loses control while fleeing police in Maputo, Mozambique, strikes a crowd, and kills 21 people, injuring 30 more. ](/news/2018/03/25/a-suspected-drunk-driver-loses-control-while-fleeing-police-in-maputo-mozambique-strikes-a-crowd-and-kills-21-people-injuring-30-more.md)
-Party cut short as car ploughs into the crowd.
-
-##### Modern conflicts in the Middle East
-### [Sheikh Tamim of Qatar visits Russia to discuss the situation in Syria, Yemen and Palestine. ](/news/2018/03/25/sheikh-tamim-of-qatar-visits-russia-to-discuss-the-situation-in-syria-yemen-and-palestine.md)
-Qatar&#39;s Sheikh Tamim is in Moscow to meet Russian President Vladimir Putin to discuss situation in the Middle East.
-
-##### Russia-European Union relations
-### [EU diplomatic chief Federica Mogherini holds crisis talks with Markus Ederer, the bloc's recalled ambassador to Russia. ](/news/2018/03/25/eu-diplomatic-chief-federica-mogherini-holds-crisis-talks-with-markus-ederer-the-bloc-s-recalled-ambassador-to-russia.md)
-_Context: EU, Federica Mogherini, Reactions to the poisoning of Sergei and Yulia Skripal, Russia, Russia-European Union relations_
-
-##### Trump tariffs
-### [South Korea and the United States reach agreements on trade and steel tariffs. ](/news/2018/03/25/south-korea-and-the-united-states-reach-agreements-on-trade-and-steel-tariffs.md)
-The U.S. and South Korea reached an agreement on revising the allies’s six-year-old bilateral trade deal and President Donald Trump’s plan to impose tariffs on imported steel, Treasury Secretary Steven Mnuchin said.
-
-##### Kitonga
-### [A bus and a lorry collide head-on near Kitonga, Tanzania, killing twenty six people and wounding nine others. ](/news/2018/03/25/a-bus-and-a-lorry-collide-head-on-near-kitonga-tanzania-killing-twenty-six-people-and-wounding-nine-others.md)
-Most were either standing or sitting on the front seats of the passenger vehicle.
-
-##### South Korean ferry disasters
-### [A passenger ferry grounds off the coast of South Korea, injuring at least six people with The South Korean Coastguard evacuating all 163 on board. ](/news/2018/03/25/a-passenger-ferry-grounds-off-the-coast-of-south-korea-injuring-at-least-six-people-with-the-south-korean-coastguard-evacuating-all-163-on.md)
-MOKPO, South Korea: South Korea&#039;s coast guard said it rescued all 163 people aboard a ferry that hit a large rock in waters off the country&#039;s southwestern coast on Sunday (Mar 24), according to an Associate Press report. At least six people suffered mild injuries from the accident, which h...
-
-##### 2018 Kemerovo fire
-### [A fire in the Winter Cherry complex, a shopping centre in Kemerovo, Russia, kills at least 64 people, the majority of which are children. ](/news/2018/03/25/a-fire-in-the-winter-cherry-complex-a-shopping-centre-in-kemerovo-russia-kills-at-least-64-people-the-majority-of-which-are-children.md)
-Video on social media shows panic as rescue teams evacuate the building in southern Russia.
-
-##### Modern flat Earth societies
-### [ Mike Hughes, a daredevil, limo driver, and Flat Earth believer, launches his homemade rocket 2000 feet in the air. ](/news/2018/03/25/mike-hughes-a-daredevil-limo-driver-and-flat-earth-believer-launches-his-homemade-rocket-2000-feet-in-the-air.md)
-Mike Hughes, a 61-year-old limousine driver and rocket-maker, propelled himself about 1,875 feet above the Mojave Desert on Saturday.
-
-##### Yemeni Crisis (2011-present)
-### [Houthi forces fire several Burkan-2 ballistic missiles at targets in Saudi Arabia with at least one person, an Egyptian national, being killed in Riyadh. The Royal Saudi Air Defense says it intercepted seven missiles, three of them targeting Riyadh, two targeting Jizan and one apiece targeting Najran and Khamis Mushait. ](/news/2018/03/25/houthi-forces-fire-several-burkan-2-ballistic-missiles-at-targets-in-saudi-arabia-with-at-least-one-person-an-egyptian-national-being-kill.md)
-Yemen&rsquo;s Shiite rebels fired a barrage of ballistic missiles targeting Saudi Arabia late Sunday on the third anniversary of a kingdom-led war in Yemen, with fragments of one missile over Riyadh killing one person and wounding two.
-
-##### Iraqi Civil War (2014-present)
-### [ISIL releases a statement claiming responsibility for killing or wounding 103 Iraqi soldiers within one month. The group also claims to have abducted 13 more soldiers, and destroyed 12 armoured vehicles. ](/news/2018/03/25/isil-releases-a-statement-claiming-responsibility-for-killing-or-wounding-103-iraqi-soldiers-within-one-month-the-group-also-claims-to-have.md)
-_Context: ISIL, Iraq, Iraqi Civil War (2014-present)_
-
-##### War in Afghanistan (2001-present)
-### [Two suicide bombers strike a Shi'ite mosque in Herat, Afghanistan, killing one person and wounding seven others. Security forces kill one bomber while the device kills the other. ISIL claims responsibility. ](/news/2018/03/25/two-suicide-bombers-strike-a-shi-ite-mosque-in-herat-afghanistan-killing-one-person-and-wounding-seven-others-security-forces-kill-one-bo.md)
-_Context: Afghanistan, Herat, ISIL, Shi'ite, War in Afghanistan (2001-present), suicide bomb_
-
-##### Somali Civil War (2009-present)
-### [A car bomb claimed by Al-Shabab kills five people including the driver and wounds around ten others outside Somalia's Parliament, Interior Ministry, and Presidential Palace buildings in Mogadishu. ](/news/2018/03/25/a-car-bomb-claimed-by-al-shabab-kills-five-people-including-the-driver-and-wounds-around-ten-others-outside-somalia-s-parliament-interior-m.md)
-_Context: Al-Shabab, Mogadishu, Somali Civil War (2009-present), Somalia, car bomb_
-
----
-
-## [Previous Day...](/news/2018/03/24/index.md)
+## [Previous Day...](/news/2018/03/25/index.md)
 
 ---
 

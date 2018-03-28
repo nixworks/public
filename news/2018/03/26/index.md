@@ -31,6 +31,10 @@ _Context: Donald Tusk, European Commission, European Council, Jean-Claude Juncke
 ### [More than 100 Russian diplomats are expelled from over 20 countries. ](/news/2018/03/26/more-than-100-russian-diplomats-are-expelled-from-over-20-countries.md)
 Australia joins more than 20 other countries in expelling Russian diplomats over UK spy poisoning.
 
+##### History of autonomous cars
+### [The governor of Arizona suspends all statewide-testing of Uber autonomous cars following the March 19 fatal accident involving Uber self-driving car research. ](/news/2018/03/26/the-governor-of-arizona-suspends-all-statewide-testing-of-uber-autonomous-cars-following-the-march-19-fatal-accident-involving-uber-self-dri.md)
+_Context: Arizona, History of autonomous cars, Uber, Uber self-driving car research, autonomous car_
+
 ##### 2017-18 Volvo Ocean Race
 ### [A British yachtsman falls overboard from "Sun Hung Kai-Scallywag". A search and rescue operation launches, with one ship diverting from over 400 nautical miles away. ](/news/2018/03/26/a-british-yachtsman-falls-overboard-from-sun-hung-kai-scallywag-a-search-and-rescue-operation-launches-with-one-ship-diverting-from-over.md)
 John Fisher is missing after falling overboard off the tip of South America during a round-the-world race.

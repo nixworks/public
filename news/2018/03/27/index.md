@@ -11,13 +11,17 @@ The US National Aeronautics and Space Administration, NASA, revealed on Monday t
 ### [Voting enters the second day. ](/news/2018/03/27/voting-enters-the-second-day.md)
 Egyptian authorities pressed for a high turnout on Tuesday on the second day of a presidential election expected to give President Abdel Fattah al-Sisi a sweeping victory in the absence of real competition, in a contest dismissed by critics as sham.
 
+##### Kent County, Michigan
+### [Kent County, Michigan special prosecutor Bill Forsyth charges William Strampel, the former dean of the Michigan State University College of Osteopathic Medicine, in the United States District Court for the Western District of Michigan in East Lansing, Michigan, with misconduct in office, fourth-degree criminal sexual conduct, and two counts of willful neglect of duty in connection with the Larry Nassar scandal. As Nassar's boss, Strampel appears to have willfully ignored years of sexual misconduct involving Nassar, the sports medicine doctor who abused hundreds of student athletes and Olympic gymnasts under the subterfuge of being appropriate medical care. Among the evidence it is reported that there was the discovery on Strampel's computer of a pornographic video of Nassar performing a "so-called" treatment on a young female patient. ](/news/2018/03/27/kent-county-michigan-special-prosecutor-bill-forsyth-charges-william-strampel-the-former-dean-of-the-michigan-state-university-college-of.md)
+_Context: East Lansing, Michigan, Kent County, Michigan, Larry Nassar, Michigan State University College of Osteopathic Medicine, Olympic gymnast, United States District Court for the Western District of Michigan, scandal_
+
 ##### FBI
-### [The FBI arrests Everett, Washington 43-year-old Thanh Cong Phan on suspicion of sending 12 package bombs to the CIA as well as multiple military and government facilities in the Washington, D.C. area. Those bombs did not blow up. The alleged perpetrator was already under government scrutiny for previous mental health issues. ](/news/2018/03/27/the-fbi-arrests-everett-washington-43-year-old-thanh-cong-phan-on-suspicion-of-sending-12-package-bombs-to-the-cia-as-well-as-multiple-mili.md)
+### [The FBI arrests Everett, Washington, 43-year-old Thanh Cong Phan on suspicion of charges of illegally shipping explosive materials by sending 12 package bombs to the CIA as well as multiple military and government facilities in the Washington, D.C. area. Those bombs did not blow up. The alleged perpetrator was already under government scrutiny for previous mental health issues. ](/news/2018/03/27/the-fbi-arrests-everett-washington-43-year-old-thanh-cong-phan-on-suspicion-of-charges-of-illegally-shipping-explosive-materials-by-sendin.md)
 Less than a week after the man suspected of mailing package bombs in Austin, Texas, blew himself up, the FBI announced Tuesday that an Everett man has been arrested on suspicion of sending package bombs to the CIA as well as multiple military and government facilities in the Washington, D.C. area. T...
 
 ##### Censorship in Spain
-### [A court{{which?}} issues an order shutting down a website that uses extracts from "Don Quixote" to recreate the book "Farina". "Farina", an investigation of drug trafficking, is the subject of a freedom of speech debate after a court halted sales ahead of a libel case. ](/news/2018/03/27/a-court-which-issues-an-order-shutting-down-a-website-that-uses-extracts-from-don-quixote-to-recreate-the-book-farina-farina-an.md)
-When Miguel de Cervantes wrote &ldquo;Don Quixote&rdquo; in the 17th century, he couldn&rsquo;t have imagined that the novel would be used as a weapon in a modern battle over freedom of speech in Spain.
+### [A Madrid court issues an order shutting down a website that uses extracts from "Don Quixote" to recreate the book "Farina". "Farina", an investigation of drug trafficking, is the subject of a freedom of speech debate after a court halted sales ahead of a libel case. ](/news/2018/03/27/a-madrid-court-issues-an-order-shutting-down-a-website-that-uses-extracts-from-don-quixote-to-recreate-the-book-farina-farina-an-inv.md)
+A book about Spain&rsquo;s drug-smuggling underworld banned last week by a Madrid court has been brought to readers online as a cut-and-pasted text from Spanish classic Don Quixote.
 
 ##### Manchester Arena bombing
 ### [A United Kingdom panel, chaired by the former head of the Home civil service, Lord Bob Kerslake, issues a report which concludes that firefighters were prevented from attending the scene of the bombing for two hours. The report makes more than 50 recommendations. ](/news/2018/03/27/a-united-kingdom-panel-chaired-by-the-former-head-of-the-home-civil-service-lord-bob-kerslake-issues-a-report-which-concludes-that-firefi.md)
@@ -35,9 +39,9 @@ Australia has become the latest country to expel Russian diplomats following the
 ### [North Korean Supreme leader Kim Jong-un meets with with Chinese President Xi Jinping in Beijing, on what is his first known travel outside North Korea since assuming office in 2011. ](/news/2018/03/27/north-korean-supreme-leader-kim-jong-un-meets-with-with-chinese-president-xi-jinping-in-beijing-on-what-is-his-first-known-travel-outside-n.md)
 China said on Wednesday North Korean leader Kim Jong Un pledged to denuclearize the Korean peninsula during an historic meeting in Beijing with President Xi Jinping, who promised China would uphold its friendship with its isolated neighbor.
 
-##### South Korea
-### [The South Korean Aviation and Railway Accident Investigation Board issues its final report on a near-collision between an Airbus A310 and a Boeing 737 on a runway in Cheongju. The Board blames the crew who misunderstood a runway instruction. ](/news/2018/03/27/the-south-korean-aviation-and-railway-accident-investigation-board-issues-its-final-report-on-a-near-collision-between-an-airbus-a310-and-a.md)
-_Context: Airbus A310, Aviation and Railway Accident Investigation Board, Boeing 737, Cheongju, South Korea_
+##### Aviation and Railway Accident Investigation Board
+### [The South Korean Aviation and Railway Accident Investigation Board issues its final report on a near-collision between a China Southern Airbus A319 and a Korean Air Boeing 738 on a runway in Cheongju, South Korea. The Board reports the Airbus crew misunderstood the full meaning of the specific ground control runway instruction. ](/news/2018/03/27/the-south-korean-aviation-and-railway-accident-investigation-board-issues-its-final-report-on-a-near-collision-between-a-china-southern-airb.md)
+_Context: Airbus A319, Aviation and Railway Accident Investigation Board, Boeing 738, Cheongju, China Southern, Korean Air, South Korea_
 
 ##### United States
 ### [The United States National Transportation Safety Board (NTSB) launches a probe into a Tesla electric car crash and fire in California. The NTSB says it will investigate issues firefighters had trying to determine how to respond. ](/news/2018/03/27/the-united-states-national-transportation-safety-board-ntsb-launches-a-probe-into-a-tesla-electric-car-crash-and-fire-in-california-the-n.md)
@@ -60,8 +64,8 @@ A container ship and a merchant ship collided in the Great Belt strait between t
 At least 64 people - 41 of them children - died in a shopping mall fire and many are feared missing.
 
 ##### History of autonomous cars
-### [The governor of Arizona suspends all statewide-testing of Uber autonomous cars following the March 19 fatal accident involving Uber self-driving car research. ](/news/2018/03/27/the-governor-of-arizona-suspends-all-statewide-testing-of-uber-autonomous-cars-following-the-march-19-fatal-accident-involving-uber-self-dri.md)
-_Context: Arizona, History of autonomous cars, Uber, Uber self-driving car research, autonomous car_
+### [U.S. graphics processing unit producer Nvidia suspends all its tests of self-driving cars. ](/news/2018/03/27/u-s-graphics-processing-unit-producer-nvidia-suspends-all-its-tests-of-self-driving-cars.md)
+_Context: History of autonomous cars, Nvidia, graphics processing unit_
 
 ##### Turkey
 ### [The government of Turkey states that eleven Kurdish militants have been killed near its Syrian border, and two soldiers were killed by an explosion in Syria. ](/news/2018/03/27/the-government-of-turkey-states-that-eleven-kurdish-militants-have-been-killed-near-its-syrian-border-and-two-soldiers-were-killed-by-an-ex.md)
