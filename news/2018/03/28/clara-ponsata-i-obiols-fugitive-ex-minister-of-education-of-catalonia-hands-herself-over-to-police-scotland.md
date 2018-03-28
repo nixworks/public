@@ -12,7 +12,8 @@ Clara Ponsati is being sought by Spanish authorities over her role in the Catala
 ### Sources:
 
 1. [BBC](http://www.bbc.com/news/uk-scotland-scotland-politics-43567678)
-1. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p062kq20.jpg)
+2. [El País](https://politica.elpais.com/politica/2018/03/28/actualidad/1522241152_638613.html)
+2. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p062kq20.jpg)
 
 ### Related:
 
