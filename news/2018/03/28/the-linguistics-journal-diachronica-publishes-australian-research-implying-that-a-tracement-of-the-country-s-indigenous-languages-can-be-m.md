@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/28/the-linguistics-journal-diachronica-publishes-a
 ### [2018-03-28](/news/2018/03/28/index.md)
 
 ##### Australian Aboriginal languages
-# The linguistics journal "Diachronica" publishes Australian research implying that a tracement of the country's indigenous languages can be made back to a single, common language known as Proto-Australian, which was spoken around 10,000 years ago. 
+# The linguistics journal "Diachronica" publishes Australian research implying that a tracement of the country's indigenous languages can be made back to a single, common language known as Proto-Australian, which was spoken around 10,000-years ago. 
 
 All indigenous languages can be traced to a mother tongue dubbed Proto-Australian, researchers say.
 

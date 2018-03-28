@@ -4,7 +4,7 @@ Formats: [HTML](2018/03/28/index.html)  [JSON](2018/03/28/index.json)  [XML](201
 ## [2018-03-28](/news/2018/03/28/index.md)
 
 ##### Australian Aboriginal languages
-### [The linguistics journal "Diachronica" publishes Australian research implying that a tracement of the country's indigenous languages can be made back to a single, common language known as Proto-Australian, which was spoken around 10,000 years ago. ](/news/2018/03/28/the-linguistics-journal-diachronica-publishes-australian-research-implying-that-a-tracement-of-the-country-s-indigenous-languages-can-be-m.md)
+### [The linguistics journal "Diachronica" publishes Australian research implying that a tracement of the country's indigenous languages can be made back to a single, common language known as Proto-Australian, which was spoken around 10,000-years ago. ](/news/2018/03/28/the-linguistics-journal-diachronica-publishes-australian-research-implying-that-a-tracement-of-the-country-s-indigenous-languages-can-be-m.md)
 All indigenous languages can be traced to a mother tongue dubbed Proto-Australian, researchers say.
 
 ##### China-North Korea relations
