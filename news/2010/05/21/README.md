@@ -11,7 +11,7 @@ U2 lead singer Bono had emergency surgery on his back in a Munich hospital today
 ### [JAXA successfully launched venus probe and IKAROS, the first interplanetary spacecraft with a solar-sail.](/news/2010/05/21/jaxa-successfully-launched-venus-probe-and-ikaros-the-first-interplanetary-spacecraft-with-a-solar-sail.md)
 Japan sends a sophisticated probe - Akatsuki - to Venus to study its atmosphere in unprecedented detail.
 
-##### French
+##### France
 ### [French prosecutors seek a suspended prison sentence in the manslaughter trial of the former head of the Concorde programme over Air France Flight 4590 which crashed near Paris in 2000, killing 113 people. ](/news/2010/05/21/french-prosecutors-seek-a-suspended-prison-sentence-in-the-manslaughter-trial-of-the-former-head-of-the-concorde-programme-over-air-france-f.md)
 French prosecutors seek a suspended jail sentence against the ex-head of the Concorde programme over the 2000 crash.
 

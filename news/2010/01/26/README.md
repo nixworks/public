@@ -19,7 +19,7 @@ _Context: King, Kingdom of Alo, Petelo Vikena, Wallis and Futuna, arson, vandali
 ### [The United States approves an arms sale to Taiwan, amid opposition from China. ](/news/2010/01/26/the-united-states-approves-an-arms-sale-to-taiwan-amid-opposition-from-china.md)
 White House reportedly backs arms deal in move likely to strain ties with Beijing.
 
-##### French
+##### France
 ### [A French parliamentary report backs a partial ban on the wearing of burkhas by Muslim women. ](/news/2010/01/26/a-french-parliamentary-report-backs-a-partial-ban-on-the-wearing-of-burkhas-by-muslim-women.md)
 Panel recommends niqab be outlawed in schools, hospitals and on public transport.
 

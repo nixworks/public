@@ -7,7 +7,7 @@ Formats: [HTML](2011/04/6/index.html)  [JSON](2011/04/6/index.json)  [XML](2011/
 ### [The Chinese state-run "Global Times" newspaper dismisses international criticism over the arrest of artist Ai Weiwei. ](/news/2011/04/6/the-chinese-state-run-global-times-newspaper-dismisses-international-criticism-over-the-arrest-of-artist-ai-weiwei.md)
 _Context: Ai Weiwei, China, Global Times, state media_
 
-##### Senate
+##### US Senators
 ### [The United States Senate defeated a measure that would have banned the Environmental Protection Agency from regulating greenhouse gas emissions under the Clean Air Act (United States). The new regulations which began being applied early this year affect air polluters such as power plants and oil refineries, attempts to address climate change mitigation. ](/news/2011/04/6/the-united-states-senate-defeated-a-measure-that-would-have-banned-the-environmental-protection-agency-from-regulating-greenhouse-gas-emissi.md)
 Efforts to curtail the environmental agency’s programs are not likely to end: Republican leaders are trying to attach similar measures to the budget bill.
 

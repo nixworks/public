@@ -13,7 +13,7 @@ _Context: Makybe Diva, Melbourne Cup, thoroughbred racing_
 
 ##### 2005 Paris riots
 ### [ 2005 Paris riots continue for the fifth consecutive night, sparked by the death of two Muslim youths from electric shock. The controversy caused by police firing tear gas into a mosque on Sunday night led to families of the dead youths pulling out of a meeting with the French Minister of the Interior Nicolas Sarkozy. ](/news/2005/11/1/2005-paris-riots-continue-for-the-fifth-consecutive-night-sparked-by-the-death-of-two-muslim-youths-from-electric-shock-the-controversy-c.md)
-_Context: 2005 Paris riots, French, Muslim, Nicolas Sarkozy, electric shock, minister of the interior, mosque, tear gas_
+_Context: 2005 Paris riots, France, Muslim, Nicolas Sarkozy, electric shock, minister of the interior, mosque, tear gas_
 
 ##### John Gomery
 ### [ Justice John Gomery releases the first part of the Gomery Commission report on corruption in the Liberal Party of Canada and the sponsorship scandal. Gomery exonerates current Prime Minister Paul Martin but criticizes former Prime Minister Jean Chrtien and his Quebec lieutenant Alfonso Gagliano. ](/news/2005/11/1/justice-john-gomery-releases-the-first-part-of-the-gomery-commission-report-on-corruption-in-the-liberal-party-of-canada-and-the-sponsorshi.md)
@@ -41,7 +41,7 @@ _Context: Pluto, moons_
 
 ##### United States
 ### [ U.S. Senate Minority Leader Harry Reid and his fellow Democrats force a closed session of the Senate over misinformed intelligence that led to the Iraq War and evasion of a congressional inquiry. ](/news/2005/11/1/u-s-senate-minority-leader-harry-reid-and-his-fellow-democrats-force-a-closed-session-of-the-senate-over-misinformed-intelligence-that-led.md)
-_Context: Democrat, Harry Reid, Iraq War, Senate, United States, United States Senate Minority Leader, closed session_
+_Context: Democrat, Harry Reid, Iraq War, US Senators, United States, United States Senate Minority Leader, closed session_
 
 ## [Previous Day...](/news/2005/10/31/index.md)
 

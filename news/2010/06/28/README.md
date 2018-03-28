@@ -3,7 +3,7 @@ Formats: [HTML](2010/06/28/index.html)  [JSON](2010/06/28/index.json)  [XML](201
 
 ## [2010-06-28](/news/2010/06/28/index.md)
 
-##### Turkish
+##### Turkey
 ### [Turkish soldiers mistakenly kill two villagers in Hatay. ](/news/2010/06/28/turkish-soldiers-mistakenly-kill-two-villagers-in-hatay.md)
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews
 
@@ -39,7 +39,7 @@ Authorities in Georgia tore down another monument to Josef Stalin.
 ### [Somali pirates hijack a Singaporean chemical tanker in the Gulf of Aden, carrying a cargo of ethylene glycol. ](/news/2010/06/28/somali-pirates-hijack-a-singaporean-chemical-tanker-in-the-gulf-of-aden-carrying-a-cargo-of-ethylene-glycol.md)
 _Context: Gulf of Aden, Singapore, Somali pirates, chemical tanker, ethylene glycol_
 
-##### Turkish
+##### Turkey
 ### [Turkey closes its airspace to some Israeli military flights in apparent retaliation for Israeli raid on the Gaza-flotilla; civilian commercial flights are not affected. ](/news/2010/06/28/turkey-closes-its-airspace-to-some-israeli-military-flights-in-apparent-retaliation-for-israeli-raid-on-the-gaza-flotilla-civilian-commerci.md)
 Turkey reportedly refuses flyover rights to Israeli military planes.
 
@@ -71,9 +71,9 @@ Member of Popular Front&#39;s military wing killed by army after firing mortar s
 ### [A presidential election takes place in Burundi with incumbent President Pierre Nkurunziza as the only candidate. A series of grenade attacks also take place. ](/news/2010/06/28/a-presidential-election-takes-place-in-burundi-with-incumbent-president-pierre-nkurunziza-as-the-only-candidate-a-series-of-grenade-attacks.md)
 Incumbent president certain to win following boycott by oppositon candidates.
 
-##### Turkish
+##### Turkey
 ### [Philip Gordon, the Obama administration's top diplomat on European affairs warns Turkey that it must demonstrate its commitment to NATO, Europe and the United States after its opposition to sanctions against Iran's nuclear program and rhetoric against Israel after the Gaza flotilla raid. ](/news/2010/06/28/philip-gordon-the-obama-administration-s-top-diplomat-on-european-affairs-warns-turkey-that-it-must-demonstrate-its-commitment-to-nato-eur.md)
-_Context: EU, Gaza flotilla raid, Israel, NATO, Turkish, United States, ban on ballistic missile tests_
+_Context: EU, Gaza flotilla raid, Israel, NATO, Turkey, United States, ban on ballistic missile tests_
 
 ##### Kyrgyzstan
 ### [Kyrgyzstan approves a new constitution with 90.6 percent of voters backing a constitution that would pave the way for a parliamentary election in October, following the violence of the recent uprising and riots. ](/news/2010/06/28/kyrgyzstan-approves-a-new-constitution-with-90-6-percent-of-voters-backing-a-constitution-that-would-pave-the-way-for-a-parliamentary-electi.md)

@@ -3,7 +3,7 @@ Formats: [HTML](2015/02/19/index.html)  [JSON](2015/02/19/index.json)  [XML](201
 
 ## [2015-02-19](/news/2015/02/19/index.md)
 
-##### ''Nature''
+##### Nature Astronomy
 ### [Research published in the journal "Nature" claims that a large portion of the lithium in the universe was produced by novae. ](/news/2015/02/19/research-published-in-the-journal-nature-claims-that-a-large-portion-of-the-lithium-in-the-universe-was-produced-by-novae.md)
 A large amount of lithium, one of the key elements in the chemical evolution of the cosmos, is produced by stellar explosions called novae.
 

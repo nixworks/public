@@ -19,9 +19,9 @@ _Context: Giorgio Napolitano, Mario Monti, President of Italy, Prime Minister of
 ### [Mahmoud Mekki resigns as Vice President of Egypt as the country completes its referendum on a new constitution. ](/news/2012/12/22/mahmoud-mekki-resigns-as-vice-president-of-egypt-as-the-country-completes-its-referendum-on-a-new-constitution.md)
 _Context: Mahmoud Mekki, Vice President of Egypt, constitutional referendum_
 
-##### UK
+##### British
 ### [The UK's Police Federation launches a review into issues raised by its handling of the Andrew Mitchell "plebgate" row. ](/news/2012/12/22/the-uk-s-police-federation-launches-a-review-into-issues-raised-by-its-handling-of-the-andrew-mitchell-plebgate-row.md)
-_Context: Andrew Mitchell, Police Federation, UK, plebgate_
+_Context: Andrew Mitchell, British, Police Federation, plebgate_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI pardons his former butler Paolo Gabriele following his recent conviction for stealing confidential documents. ](/news/2012/12/22/pope-benedict-xvi-pardons-his-former-butler-paolo-gabriele-following-his-recent-conviction-for-stealing-confidential-documents.md)

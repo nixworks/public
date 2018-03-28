@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/22/uk-independence-party-mep-marta-andreasen-annou
 
 ### [2013-02-22](/news/2013/02/22/index.md)
 
-##### UK
+##### British
 # UK Independence Party MEP Marta Andreasen announces she is leaving the party to join the Conservatives. 
 
 UKIP MEP Marta Andreasen announces she is defecting to the Conservatives, but party leader Nigel Farage says the Tories &quot;deserve what is coming to them&quot;.

@@ -5,7 +5,7 @@ Formats: [HTML](2013/11/23/index.html)  [JSON](2013/11/23/index.json)  [XML](201
 
 ##### Egypt
 ### [Egypt expels the Turkish ambassador, citing "interference". ](/news/2013/11/23/egypt-expels-the-turkish-ambassador-citing-interference.md)
-_Context: Egypt, Turkish, expels_
+_Context: Egypt, Turkey, expels_
 
 ##### Several world powers
 ### [P5+1 foreign ministers meet in Geneva for talks on Iran's nuclear program. ](/news/2013/11/23/p5-1-foreign-ministers-meet-in-geneva-for-talks-on-iran-s-nuclear-program.md)

@@ -13,7 +13,7 @@ Labour suspends MP Naz Shah over a Facebook post suggesting Israel should be mov
 
 ##### 2016 U.S. election
 ### [Texas Senator Ted Cruz names former Republican presidential candidate Carly Fiorina as his vice-presidential running mate. ](/news/2016/04/27/texas-senator-ted-cruz-names-former-republican-presidential-candidate-carly-fiorina-as-his-vice-presidential-running-mate.md)
-_Context: 2016 U.S. election, Carly Fiorina, Republican, Senate, Ted Cruz, Ted Cruz presidential campaign, 2016, Texas, presidential candidate_
+_Context: 2016 U.S. election, Carly Fiorina, Republican, Ted Cruz, Ted Cruz presidential campaign, 2016, Texas, US Senators, presidential candidate_
 
 ##### North Korea
 ### [The government of North Korea announces its ruling Workers' Party of Korea will hold a party congress on May 6, the first in nearly 40 years. ](/news/2016/04/27/the-government-of-north-korea-announces-its-ruling-workers-party-of-korea-will-hold-a-party-congress-on-may-6-the-first-in-nearly-40-years.md)
@@ -41,7 +41,7 @@ A federal judge sentenced former U.S. House Speaker Dennis Hastert to 15 months 
 
 ##### November 2015 Paris attacks
 ### [Belgian prosecutors hand over Salah Abdeslam, a key suspect in the November 2015 Paris attacks, to French authorities. ](/news/2016/04/27/belgian-prosecutors-hand-over-salah-abdeslam-a-key-suspect-in-the-november-2015-paris-attacks-to-french-authorities.md)
-_Context: Belgium, French, November 2015 Paris attacks, Salah Abdeslam_
+_Context: Belgium, France, November 2015 Paris attacks, Salah Abdeslam_
 
 ##### Andrew Chan
 ### [Two days before the one-year anniversary of the execution of Andrew Chan and Myuran Sukumaran, the ringleaders of the Bali Nine, member Michael Czugaj is discovered to be in possession of drugs in prison. ](/news/2016/04/27/two-days-before-the-one-year-anniversary-of-the-execution-of-andrew-chan-and-myuran-sukumaran-the-ringleaders-of-the-bali-nine-member-mich.md)

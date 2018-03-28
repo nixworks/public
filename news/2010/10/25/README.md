@@ -43,7 +43,7 @@ The leader of a terrorist organisation that plotted to wage violent jihad in Aus
 ### [Iran and Kenya signed an agreement in the field of tourism. ](/news/2010/10/25/iran-and-kenya-signed-an-agreement-in-the-field-of-tourism.md)
 _Context: Iran, Kenya_
 
-##### Senate
+##### US Senators
 ### [U.S. Senator John Kerry of Massachusetts claims the government of Sudan{{spaced ndash}}which has been subject to U.S. sanctions since 1997{{spaced ndash}}has assured him it will hold a referendum on independence for the south. ](/news/2010/10/25/u-s-senator-john-kerry-of-massachusetts-claims-the-government-of-sudan-spaced-ndash-which-has-been-subject-to-u-s-sanctions-since-1997.md)
 US Senator John Kerry says Sudan has assured him it will hold a referendum on independence for the south and is committed to the outcome.
 

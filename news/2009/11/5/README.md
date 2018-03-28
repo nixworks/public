@@ -23,9 +23,9 @@ _Context: Fernando Lugo, Paraguay, Paraguayan President, coup_
 ### [ Two senior Indonesian officials resign over a plot to weaken the anti-corruption agency. ](/news/2009/11/5/two-senior-indonesian-officials-resign-over-a-plot-to-weaken-the-anti-corruption-agency.md)
 _Context: Indonesia_
 
-##### French
+##### France
 ### [ France's Europe Minister Pierre Lellouche describes the UK's Conservative Party pledge to return powers from Brussels to London as "pathetic". ](/news/2009/11/5/france-s-europe-minister-pierre-lellouche-describes-the-uk-s-conservative-party-pledge-to-return-powers-from-brussels-to-london-as-patheti.md)
-_Context: Conservative Party, French, Pierre Lellouche, United Kingdom_
+_Context: Conservative Party, France, Pierre Lellouche, United Kingdom_
 
 ##### United Nations
 ### [ The United Nations is to pull non-essential staff out of Afghanistan after an increase in violence in the country. ](/news/2009/11/5/the-united-nations-is-to-pull-non-essential-staff-out-of-afghanistan-after-an-increase-in-violence-in-the-country.md)

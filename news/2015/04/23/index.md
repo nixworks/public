@@ -3,7 +3,7 @@ Formats: [HTML](2015/04/23/index.html)  [JSON](2015/04/23/index.json)  [XML](201
 
 ## [2015-04-23](/news/2015/04/23/index.md)
 
-##### Senate
+##### US Senators
 ### [The United States Senate confirms Loretta Lynch as the Attorney General of the United States. Lynch will be the first African-American woman to hold the position. ](/news/2015/04/23/the-united-states-senate-confirms-loretta-lynch-as-the-attorney-general-of-the-united-states-lynch-will-be-the-first-african-american-woman.md)
 The nomination of Ms. Lynch to replace Attorney General Eric H. Holder Jr. put Republicans in a difficult position politically.
 
@@ -37,7 +37,7 @@ President Obama said today that he takes &quot;full responsibility&quot; for a U
 
 ##### French Prime Minister
 ### [The Prime Minister of France Manuel Valls claims that five terrorist attacks have been "foiled" in France in recent months. ](/news/2015/04/23/the-prime-minister-of-france-manuel-valls-claims-that-five-terrorist-attacks-have-been-foiled-in-france-in-recent-months.md)
-_Context: French, French Prime Minister, Manuel Valls_
+_Context: France, French Prime Minister, Manuel Valls_
 
 ## [Previous Day...](/news/2015/04/22/index.md)
 

@@ -65,7 +65,7 @@ Man sentenced to 18 months in prison after telling an Israeli woman he was Jewis
 
 ##### Mexico
 ### [Mexico states that it has the support of Bolivia, Cuba, Ecuador, Ghana, Guatemala, the Federated States of Micronesia, Panama, Senegal, Turkey, and Uruguay in pursuing its case against Arizona's immigration law. ](/news/2010/07/21/mexico-states-that-it-has-the-support-of-bolivia-cuba-ecuador-ghana-guatemala-the-federated-states-of-micronesia-panama-senegal-turk.md)
-_Context: Arizona, Bolivia, Cuba, Ecuador, Federated States of Micronesia, Ghana, Guatemala, Mexico, Panama, Senegal, Turkish, Uruguay, immigration law_
+_Context: Arizona, Bolivia, Cuba, Ecuador, Federated States of Micronesia, Ghana, Guatemala, Mexico, Panama, Senegal, Turkey, Uruguay, immigration law_
 
 ##### Hillary Clinton
 ### [Hillary Clinton, the United States Secretary of State, announces that the United States will impose further sanctions against North Korea as a result of the sinking of the South Korean warship ROKS "Cheonan". ](/news/2010/07/21/hillary-clinton-the-united-states-secretary-of-state-announces-that-the-united-states-will-impose-further-sanctions-against-north-korea-as.md)
@@ -87,7 +87,7 @@ Floods triggered by torrential rains have claimed the lives of 701 people and le
 ### [The United Nations requests more aid to avoid a humanitarian catastrophe in the Sahel. ](/news/2010/07/21/the-united-nations-requests-more-aid-to-avoid-a-humanitarian-catastrophe-in-the-sahel.md)
 Head of humanitarian affairs warns of acute food shortage in north-central Africa.
 
-##### French
+##### France
 ### [Air traffic controllers in France go on strike in protest at a plan to unify European airspace. ](/news/2010/07/21/air-traffic-controllers-in-france-go-on-strike-in-protest-at-a-plan-to-unify-european-airspace.md)
 French&#x20;air&#x20;traffic&#x20;controllers&#x20;have&#x20;gone&#x20;on&#x20;strike&#x20;over&#x20;a&#x20;plan&#x20;to&#x20;unify&#x20;European&#x20;airspace.&#x20;The&#x20;strike,&#x20;which&#x20;is&#x20;expected&#x20;to&#x20;cancel&#x20;many&#x20;flights&#x20;in&#x20;and&#x20;out&#x20;of&#x20;Fr...
 

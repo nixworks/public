@@ -19,7 +19,7 @@ _Context: Volodymyr Hroisman_
 ### [Arseniy Yatsenyuk resigns as Ukraine's Prime minister after the ruling coalition in parliament collapsed, accusing lawmakers of imperiling the nation by putting politics above urgent needs during wartime. ](/news/2014/07/24/arseniy-yatsenyuk-resigns-as-ukraine-s-prime-minister-after-the-ruling-coalition-in-parliament-collapsed-accusing-lawmakers-of-imperiling-t.md)
 Ukraine says two warplanes downed Wednesday were out of reach of shoulder-fired missiles.
 
-##### Poland
+##### Polish
 ### [The European Court for Human Rights censures Poland over CIA renditions. ](/news/2014/07/24/the-european-court-for-human-rights-censures-poland-over-cia-renditions.md)
 The European Court of Human Rights ruled that by allowing the transfer of two terrorism suspects to a secret C.I.A. site in Poland, the country violated the men’s rights.
 

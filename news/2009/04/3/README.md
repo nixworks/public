@@ -23,9 +23,9 @@ _Context: Iowa, Iowa Supreme Court, U.S. state, legalizes, same-sex marriage_
 ### [ Four soldiers die as Thailand's Army and Cambodia's Army exchange gunfire near the Preah Vihear Temple. ](/news/2009/04/3/four-soldiers-die-as-thailand-s-army-and-cambodia-s-army-exchange-gunfire-near-the-preah-vihear-temple.md)
 _Context: Army, Cambodia, Preah Vihear Temple, Royal Thai Army, Thailand, exchange gunfire, soldier_
 
-##### French
+##### France
 ### [ French police arrest 300 protesters as a NATO summit begins in Strasbourg. ](/news/2009/04/3/french-police-arrest-300-protesters-as-a-nato-summit-begins-in-strasbourg.md)
-_Context: French, French police, NATO, Strasbourg, protest, summit_
+_Context: France, French police, NATO, Strasbourg, protest, summit_
 
 ##### Malaysia
 ### [ Former Malaysian Deputy Prime Minister Najib Tun Razak is inaugurated as Prime Minister. ](/news/2009/04/3/former-malaysian-deputy-prime-minister-najib-tun-razak-is-inaugurated-as-prime-minister.md)

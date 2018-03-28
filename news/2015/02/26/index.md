@@ -23,9 +23,9 @@ Exclusive: Secret interrogation facility reveals creeping aspects of war on terr
 ### [Norwegian police raid the offices of the Catholic Church's diocese in Oslo, charging the church administration with serious fraud under the suspicion of wrongfully claiming as much as NOK 50 million in state support by presenting fraudulent membership statistics. ](/news/2015/02/26/norwegian-police-raid-the-offices-of-the-catholic-churchas-diocese-in-oslo-charging-the-church-administration-with-serious-fraud-under-th.md)
 _Context: Catholic Church's diocese in Oslo, Norwegian, kroner_
 
-##### French
+##### France
 ### [French actresses Marion Cotillard and Melanie Laurent, and French President Francois Hollande begin their two-day state visit to the Philippines, where they are to discuss climate change. ](/news/2015/02/26/french-actresses-marion-cotillard-and-ma-c-lanie-laurent-and-french-president-franassois-hollande-begin-their-two-day-state-visit-to-the-phili.md)
-_Context: Francois Hollande, French, Marion Cotillard, Melanie Laurent, Philippines, President of France, climate change_
+_Context: France, Francois Hollande, Marion Cotillard, Melanie Laurent, Philippines, President of France, climate change_
 
 ##### ISIL
 ### ["Jihadi John", an ISIL terrorist featured in many beheading videos, is identified as Mohammed Emwazi, a Kuwaiti-born man who lived in the United Kingdom and was on a terrorism watch list. ](/news/2015/02/26/jihadi-john-an-isil-terrorist-featured-in-many-beheading-videos-is-identified-as-mohammed-emwazi-a-kuwaiti-born-man-who-lived-in-the-un.md)

@@ -9,7 +9,7 @@ _Context: Alan Greenspan, Ben Bernanke, Federal Reserve Board, George W. Bush_
 
 ##### Sherpa
 ### [ 11 Nepali Sherpa and 7 French mountaineers are feared dead by an attempt to climb 6981 metre (20000 feet) Mount Kanguru in north-west Nepal. ](/news/2005/10/24/11-nepali-sherpa-and-7-french-mountaineers-are-feared-dead-by-an-attempt-to-climb-6981-metre-20000-feet-mount-kanguru-in-north-west-nepal.md)
-_Context: French, Mount Kanguru, Nepal, Sherpa, scale_
+_Context: France, Mount Kanguru, Nepal, Sherpa, scale_
 
 ##### Zhou Shaoning
 ### [ Zhou Shaoning is selected as the Chief Chinese Operations Officer for Google China. ](/news/2005/10/24/zhou-shaoning-is-selected-as-the-chief-chinese-operations-officer-for-google-china.md)

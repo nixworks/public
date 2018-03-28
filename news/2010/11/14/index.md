@@ -73,7 +73,7 @@ _Context: Mounts Merapi, eruptions_
 
 ##### Dijon
 ### [Seven people are killed in a fire burning migrant workers' residence in Dijon, eastern France. ](/news/2010/11/14/seven-people-are-killed-in-a-fire-burning-migrant-workers-residence-in-dijon-eastern-france.md)
-_Context: Dijon, French_
+_Context: Dijon, France_
 
 ##### 
 ### [The death toll rises to 917. ](/news/2010/11/14/the-death-toll-rises-to-917.md)

@@ -7,9 +7,9 @@ Formats: [HTML](2005/09/13/index.html)  [JSON](2005/09/13/index.json)  [XML](200
 ### [ Chief Justice nominee John Roberts affirms before the Senate Judiciary Committee today his belief in a constitutional right to privacy, which underpins many Constitutional amendments (viz. 1, 4, 5, 9, 13 and 14) as well as "Roe v. Wade". (This does not translate to support specifically for "Roe v. Wade".) He answers questions regarding civil rights in wartime, torture and the role on international law in interpreting the Constitution. ](/news/2005/09/13/chief-justice-nominee-john-roberts-affirms-before-the-senate-judiciary-committee-today-his-belief-in-a-constitutional-right-to-privacy-whi.md)
 John G. Roberts Jr., appearing before a Senate panel considering his nomination to be the new Chief Justice of the United States, answered questions about the right to privacy, the importance of precedence and Roe v. Wade in the opening round of questioning.
 
-##### President
+##### Chinese President
 ### [ President of the People's Republic of China Hu Jintao meets with U.S. President George W. Bush at the United Nations during the Leaders' Gathering in honor of the 60th Anniversary of the UN's founding. ](/news/2005/09/13/president-of-the-people-s-republic-of-china-hu-jintao-meets-with-u-s-president-george-w-bush-at-the-united-nations-during-the-leaders-ga.md)
-_Context: China, George W. Bush, Hu Jintao, President, United Nations, president_
+_Context: China, Chinese President, George W. Bush, Hu Jintao, President, United Nations_
 
 ##### Sony
 ### [ Sony recalls 3.5 million faulty PlayStation 2 power adapters. ](/news/2005/09/13/sony-recalls-3-5-million-faulty-playstation-2-power-adapters.md)

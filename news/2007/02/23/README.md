@@ -21,7 +21,7 @@ _Context: Alsunga, Latvia, nursing home_
 
 ##### Democrat
 ### [ Democratic Party members of the United States Senate are planning a challenge to the authority given to President Bush in 2002. ](/news/2007/02/23/democratic-party-members-of-the-united-states-senate-are-planning-a-challenge-to-the-authority-given-to-president-bush-in-2002.md)
-_Context: 2002, Democrat, George W. Bush, Senate, authority_
+_Context: 2002, Democrat, George W. Bush, US Senators, authority_
 
 ##### Grayrigg derailment
 ### [ Grayrigg derailment: A Virgin Pendolino train derails in Cumbria, United Kingdom, killing one person and injuring dozens more. ](/news/2007/02/23/grayrigg-derailment-a-virgin-pendolino-train-derails-in-cumbria-united-kingdom-killing-one-person-and-injuring-dozens-more.md)

@@ -19,13 +19,13 @@ _Context: Pope Benedict XVI, Vatican police, audience, popemobile_
 ### [ Five people are acquitted of the 1982 murder of "God's Banker," Italian financier Roberto Calvi. ](/news/2007/06/6/five-people-are-acquitted-of-the-1982-murder-of-god-s-banker-italian-financier-roberto-calvi.md)
 _Context: Italy, Roberto Calvi_
 
-##### Turkish
+##### Turkey
 ### [ Armed forces from Turkey are reported to have crossed the border into Iraq, chasing Kurdish guerrillas a couple of miles in Iraqi territory. Other reports contradict this. ](/news/2007/06/6/armed-forces-from-turkey-are-reported-to-have-crossed-the-border-into-iraq-chasing-kurdish-guerrillas-a-couple-of-miles-in-iraqi-territory.md)
-_Context: Iraq, Kurdish, Turkish_
+_Context: Iraq, Kurdish, Turkey_
 
 ##### HIV
 ### [ HIV drug Viracept is recalled in the UK after it is discovered that it has been contaminated with a substance that could cause cancer. ](/news/2007/06/6/hiv-drug-viracept-is-recalled-in-the-uk-after-it-is-discovered-that-it-has-been-contaminated-with-a-substance-that-could-cause-cancer.md)
-_Context: HIV, UK, Viracept, cancer_
+_Context: British, HIV, Viracept, cancer_
 
 ##### Anaheim Ducks
 ### [ The Anaheim Ducks defeat the Ottawa Senators to win the Stanley Cup in five games. ](/news/2007/06/6/the-anaheim-ducks-defeat-the-ottawa-senators-to-win-the-stanley-cup-in-five-games.md)

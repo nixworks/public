@@ -7,9 +7,9 @@ Formats: [HTML](2005/07/5/index.html)  [JSON](2005/07/5/index.json)  [XML](2005/
 ### [ Sudanese government and two rebels groups, including Sudan Liberation Movement and Justice and Equality Movement, sign a declaration of principles towards the peace talks. This ends three weeks of negotiations in the Nigerian capital Abuja. Talks are adjourned until August 24. ](/news/2005/07/5/sudanese-government-and-two-rebels-groups-including-sudan-liberation-movement-and-justice-and-equality-movement-sign-a-declaration-of-pri.md)
 _Context: Abuja, Justice and Equality Movement, Niger, Sudan, Sudan Liberation Movement, peace talks_
 
-##### French
+##### France
 ### [ In France, large forest fires rage in the French Riviera. Authorities evacuate thousands. ](/news/2005/07/5/in-france-large-forest-fires-rage-in-the-french-riviera-authorities-evacuate-thousands.md)
-_Context: French, French Riviera, forest fire_
+_Context: France, French Riviera, forest fire_
 
 ##### Austria
 ### [ In Austria, state prosecutors investigate allegations that Iran's president-elect Mahmoud Ahmadinejad would have been involved with the 1989 assassination of Kurdish leader Abdul Rahman Ghassemlou in Vienna. ](/news/2005/07/5/in-austria-state-prosecutors-investigate-allegations-that-iran-s-president-elect-mahmoud-ahmadinejad-would-have-been-involved-with-the-198.md)

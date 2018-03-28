@@ -31,9 +31,9 @@ A man working for Lagos University Teaching Hospital is arrested in Nigeria, car
 ### [New Zealand environmental activist Peter Bethune is given a two year suspended sentence in a Tokyo District Court for his role in boarding a Japanese whaling ship. ](/news/2010/07/7/new-zealand-environmental-activist-peter-bethune-is-given-a-two-year-suspended-sentence-in-a-tokyo-district-court-for-his-role-in-boarding-a.md)
 When Pete Bethune&#039;s family in Auckland heard the New Zealand environmental activist had been sentenced in Tokyo, they thought he was going to be locked up in Japan for two years.
 
-##### French
+##### France
 ### [French prosecutors launch an investigation into alleged illegal campaign funding for French President Nicolas Sarkozy. ](/news/2010/07/7/french-prosecutors-launch-an-investigation-into-alleged-illegal-campaign-funding-for-french-president-nicolas-sarkozy.md)
-_Context: French, Nicolas Sarkozy, President of France_
+_Context: France, Nicolas Sarkozy, President of France_
 
 ##### Human Rights Watch
 ### [Human Rights Watch calls on Iran to stop the execution of Sakineh Mohammadi Ashtiani, a woman convicted of adultery. She denies the charges. ](/news/2010/07/7/human-rights-watch-calls-on-iran-to-stop-the-execution-of-sakineh-mohammadi-ashtiani-a-woman-convicted-of-adultery-she-denies-the-charges.md)
@@ -115,7 +115,7 @@ The scene inside Con Ed’s command center showed the urgency of the utility’s
 ### [A study shows that a married person's risk of encountering marriage troubles increases by up to 75% if a co-worker, friend, or a family member gets a divorce. ](/news/2010/07/7/a-study-shows-that-a-married-person-s-risk-of-encountering-marriage-troubles-increases-by-up-to-75-if-a-co-worker-friend-or-a-family-memb.md)
 _Context: divorce_
 
-##### ''Nature''
+##### Nature Astronomy
 ### [Researchers publish in "Nature" their discovery of stone tools in Norfolk suggesting that humans landed there almost a million years ago. ](/news/2010/07/7/researchers-publish-in-nature-their-discovery-of-stone-tools-in-norfolk-suggesting-that-humans-landed-there-almost-a-million-years-ago.md)
 Researchers discover stone tools in Norfolk that suggest humans arrived in Britain nearly a million years ago.
 

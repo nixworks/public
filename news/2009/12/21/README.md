@@ -7,9 +7,9 @@ Formats: [HTML](2009/12/21/index.html)  [JSON](2009/12/21/index.json)  [XML](200
 ### [ Severe Tropical Cyclone Laurence becomes a category 5 and strikes the Australian coast with winds of 285 km-h. ](/news/2009/12/21/severe-tropical-cyclone-laurence-becomes-a-category-5-and-strikes-the-australian-coast-with-winds-of-285-km-h.md)
 Cyclone Laurence has caused significant damage to buildings on Western Australia&#039;s north-west coast.
 
-##### Poland
+##### Polish
 ### [ Polish police arrest five men and recover the stolen "Arbeit macht frei" sign that hung over the Nazi death camp at Auschwitz where millions were murdered by the Nazis during the Holocaust ](/news/2009/12/21/polish-police-arrest-five-men-and-recover-the-stolen-arbeit-macht-frei-sign-that-hung-over-the-nazi-death-camp-at-auschwitz-where-million.md)
-_Context: Arbeit macht frei, Auschwitz, Holocaust, Nazi, Poland_
+_Context: Arbeit macht frei, Auschwitz, Holocaust, Nazi, Polish_
 
 ##### Eurostar
 ### [ Eurostar is suspended indefinitely due to the heavy snowfall affecting continental Europe. ](/news/2009/12/21/eurostar-is-suspended-indefinitely-due-to-the-heavy-snowfall-affecting-continental-europe.md)
@@ -59,9 +59,9 @@ _Context: North Korea, Northern Limit Line, South Korea_
 ### [ At least 30 people have been killed in violence in the Nigerian state of Nasarawa. ](/news/2009/12/21/at-least-30-people-have-been-killed-in-violence-in-the-nigerian-state-of-nasarawa.md)
 _Context: Nasarawa, Nigeria_
 
-##### Poland
+##### Polish
 ### [ At least 29 people freeze to death in Poland. ](/news/2009/12/21/at-least-29-people-freeze-to-death-in-poland.md)
-_Context: Poland_
+_Context: Polish_
 
 ##### Nazareth
 ### [ Remains of the first dwelling in Nazareth that can be dated back to the time of Jesus have been found by Israeli archaeologists. ](/news/2009/12/21/remains-of-the-first-dwelling-in-nazareth-that-can-be-dated-back-to-the-time-of-jesus-have-been-found-by-israeli-archaeologists.md)

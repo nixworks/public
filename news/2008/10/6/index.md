@@ -33,7 +33,7 @@ Stocks slid for a fourth straight day on Monday, leaving the Dow below 10,000 fo
 
 ##### Nobel Prize in Physiology or Medicine
 ### [ The 2008 Nobel Prize in Physiology or Medicine goes to Harald zur Hausen of Germany for his discovery of the human papilloma viruses that can cause cervical cancer in women, and Francoise Barre-Sinoussi and Luc Montagnier of France for their discovery of human immunodeficiency virus, or HIV. ](/news/2008/10/6/the-2008-nobel-prize-in-physiology-or-medicine-goes-to-harald-zur-hausen-of-germany-for-his-discovery-of-the-human-papilloma-viruses-that-c.md)
-_Context: Francoise Barre-Sinoussi, French, Germany, HIV, Harald zur Hausen, Luc Montagnier, Nobel Prize in Physiology or Medicine, cervical cancer, human immunodeficiency virus, papilloma virus_
+_Context: France, Francoise Barre-Sinoussi, Germany, HIV, Harald zur Hausen, Luc Montagnier, Nobel Prize in Physiology or Medicine, cervical cancer, human immunodeficiency virus, papilloma virus_
 
 ##### Another earthquake
 ### [ Another earthquake of magnitude 6.4, with two magnitude-5 aftershocks, hits Damxung, Tibet, People's Republic of China, with conflicting casualty reports anywhere from 9 to 30 deaths. ](/news/2008/10/6/another-earthquake-of-magnitude-6-4-with-two-magnitude-5-aftershocks-hits-damxung-tibet-people-s-republic-of-china-with-conflicting-ca.md)
@@ -45,7 +45,7 @@ _Context: An earthquake, Kyrgyzstan, Tajikistan_
 
 ##### MESSENGER
 ### [ The MESSENGER spacecraft makes its second pass of the planet Mercury.](/news/2008/10/6/the-messenger-spacecraft-makes-its-second-pass-of-the-planet-mercury.md)
-_Context: MESSENGER, Mercury's_
+_Context: MESSENGER, the planet of Mercury_
 
 ## [Previous Day...](/news/2008/10/5/index.md)
 

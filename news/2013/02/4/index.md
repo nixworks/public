@@ -33,7 +33,7 @@ Ex-cabinet minister Chris Huhne resigns as an MP after admitting he perverted th
 
 ##### President of Niger
 ### [President of Niger Mahamadou Issoufou confirms that French special forces are protecting one of the country's biggest uranium mines, owned by the French company Areva. They are also said to be "strengthening security". ](/news/2013/02/4/president-of-niger-mahamadou-issoufou-confirms-that-french-special-forces-are-protecting-one-of-the-country-s-biggest-uranium-mines-owned-b.md)
-_Context: Areva, French, Mahamadou Issoufou, Niger, President of Niger, uranium mines_
+_Context: Areva, France, Mahamadou Issoufou, Niger, President of Niger, uranium mines_
 
 ##### Bangladesh
 ### [A collision between a truck and a bus carrying Bangladeshi workers kills 22 people and injures 24 others in Al Ain, United Arab Emirates. ](/news/2013/02/4/a-collision-between-a-truck-and-a-bus-carrying-bangladeshi-workers-kills-22-people-and-injures-24-others-in-al-ain-united-arab-emirates.md)

@@ -3,7 +3,7 @@ Formats: [HTML](2016/05/2/index.html)  [JSON](2016/05/2/index.json)  [XML](2016/
 
 ## [2016-05-2](/news/2016/05/2/index.md)
 
-##### ''Nature''
+##### Nature Astronomy
 ### [Researchers report in the journal Nature the discovery of three potentially habitable, Earth-like exoplanets orbiting TRAPPIST-1, an ultracool dwarf star 40 light-years away in the constellation Aquarius. ](/news/2016/05/2/researchers-report-in-the-journal-nature-the-discovery-of-three-potentially-habitable-earth-like-exoplanets-orbiting-trappist-1-an-ultraco.md)
 The newly discovered worlds are now the most promising targets in the search for life among the stars—and the race to take a closer look at them has begun.
 

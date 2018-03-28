@@ -63,7 +63,7 @@ _Context: Libya, refugee immigration to Germany_
 ### [Weather forecasters track Hurricane Matthew as it makes landfall in Haiti and issue hurricane warnings for Cuba and the Bahamas. ](/news/2016/10/4/weather-forecasters-track-hurricane-matthew-as-it-makes-landfall-in-haiti-and-issue-hurricane-warnings-for-cuba-and-the-bahamas.md)
 More than a million residents near the South Carolina coast should get at least 100 miles away before Hurricane Matthew arrives, Gov. Nikki Haley said.
 
-##### Poland
+##### Polish
 ### [Poland's Development Ministry cancels the April 2015 tender contract for the purchase of 50 Caracal helicopters from Airbus Helicopters, worth US$ 3.5 billion. ](/news/2016/10/4/poland-s-development-ministry-cancels-the-april-2015-tender-contract-for-the-purchase-of-50-caracal-helicopters-from-airbus-helicopters-wor.md)
 The Polish government has cancelled talks with Airbus Helicopters on a multi-billion euro deal to buy military helicopters. The decision reopens the door to the helicopter makers that failed in the original tender.
 

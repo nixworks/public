@@ -25,7 +25,7 @@ Thousands of voters across England, Scotland and Wales are going to the polls to
 
 ##### Memorandum
 ### [A memorandum is signed by Russia, Iran, and Turkey calling for de-escalation of the Syrian Civil War, although neither the Syrian government nor the Syrian opposition are signatories. ](/news/2017/05/4/a-memorandum-is-signed-by-russia-iran-and-turkey-calling-for-de-escalation-of-the-syrian-civil-war-although-neither-the-syrian-government.md)
-_Context: Iran, Russia, Syria, Syrian Civil War, Syrian opposition, Turkish, de-escalation, memorandum_
+_Context: Iran, Russia, Syria, Syrian Civil War, Syrian opposition, Turkey, de-escalation, memorandum_
 
 ##### Holy See
 ### [The Holy See and Myanmar establish full diplomatic relations following a meeting between Pope Francis and Myanmar's State Counsellor Aung San Suu Kyi. ](/news/2017/05/4/the-holy-see-and-myanmar-establish-full-diplomatic-relations-following-a-meeting-between-pope-francis-and-myanmar-s-state-counsellor-aung-sa.md)

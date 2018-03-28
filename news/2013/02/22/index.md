@@ -11,7 +11,7 @@ You know how much fun you have driving around and finding places to fill up your
 ### [Plans are announced to attempt to intercept 65803 Didymos, a non-threatening near-Earth asteroid, in 2022 using AIDA. ](/news/2013/02/22/plans-are-announced-to-attempt-to-intercept-65803-didymos-a-non-threatening-near-earth-asteroid-in-2022-using-aida.md)
 A mission that aims to slam a spacecraft into a near-Earth asteroid now has a target — a space rock called Didymos.
 
-##### UK
+##### British
 ### [UK Independence Party MEP Marta Andreasen announces she is leaving the party to join the Conservatives. ](/news/2013/02/22/uk-independence-party-mep-marta-andreasen-announces-she-is-leaving-the-party-to-join-the-conservatives.md)
 UKIP MEP Marta Andreasen announces she is defecting to the Conservatives, but party leader Nigel Farage says the Tories &quot;deserve what is coming to them&quot;.
 

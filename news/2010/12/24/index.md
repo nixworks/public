@@ -35,9 +35,9 @@ _Context: Christmas tree, North Korea, South Korea_
 ### [The United Nations General Assembly unanimously approves opposition candidate Alassane Ouattara as President of Cte d'Ivoire. ](/news/2010/12/24/the-united-nations-general-assembly-unanimously-approves-opposition-candidate-alassane-ouattara-as-president-of-cote-d-ivoire.md)
 State television in Ivory Coast goes off air outside the main city, Abidjan, amid heightened tensions over the disputed presidency.
 
-##### French
+##### France
 ### [France is to build two warships for Russia in a new deal. ](/news/2010/12/24/france-is-to-build-two-warships-for-russia-in-a-new-deal.md)
-_Context: French, Russia_
+_Context: France, Russia_
 
 ##### Afghanistan
 ### [A tripartite summit of Afghanistan, Pakistan and Turkey is held in Istanbul, aimed at boosting trust between Afghanistan and Pakistan. ](/news/2010/12/24/a-tripartite-summit-of-afghanistan-pakistan-and-turkey-is-held-in-istanbul-aimed-at-boosting-trust-between-afghanistan-and-pakistan.md)
@@ -47,7 +47,7 @@ Three countries to hold joint military exercises in April, agree to cooperate on
 ### [Russia's lower house gives preliminary approval the New START treaty signed with the United States; full approval will be decided upon next month. ](/news/2010/12/24/russia-s-lower-house-gives-preliminary-approval-the-new-start-treaty-signed-with-the-united-states-full-approval-will-be-decided-upon-next.md)
 Russia&#x27;s&#x20;lower&#x20;house&#x20;gave&#x20;preliminary&#x20;approval&#x20;to&#x20;a&#x20;landmark&#x20;US-Russian&#x20;nuclear&#x20;arms&#x20;reduction&#x20;pact&#x20;Friday.&#x20;There&#x20;were&#x20;hopes&#x20;the&#x20;Duma&#x20;would&#x20;give&#x20;its&#x20;full&#x20;approval,&#x20;but&#x...
 
-##### Turkish
+##### Turkey
 ### [Turkey welcomes a decision by the US House of Representatives not to vote on the Armenian Genocide Resolution during the final session of the 111th Congress. ](/news/2010/12/24/turkey-welcomes-a-decision-by-the-us-house-of-representatives-not-to-vote-on-the-armenian-genocide-resolution-during-the-final-session-of-th.md)
 Turkish Foreign Minister Ahmet Davutoglu Thursday evening hailed a decision by the US House leadership to forgo a vote of the Armenian Genocide Resolution (H.Res.252) for the final session of the 111th Congress.
 

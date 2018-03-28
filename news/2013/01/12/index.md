@@ -31,9 +31,9 @@ Twenty-nine police officers are injured in rioting in east Belfast following a l
 ### [One French soldier and 17 militants are killed in a failed attempt to free a French hostage in Bulo Marer, Somalia. ](/news/2013/01/12/one-french-soldier-and-17-militants-are-killed-in-a-failed-attempt-to-free-a-french-hostage-in-bulo-marer-somalia.md)
 A&#x20;French&#x20;soldier&#x20;was&#x20;killed&#x20;and&#x20;another&#x20;was&#x20;captured&#x20;in&#x20;a&#x20;failed&#x20;French&#x20;commando&#x20;raid&#x20;on&#x20;Saturday&#x20;to&#x20;rescue&#x20;French&#x20;hostage&#x20;Denis&#x20;Allex,&#x20;who&#x20;is&#x20;also&#x20;believed&#x20;to&#x20;...
 
-##### French
+##### France
 ### [A French pilot is killed in a helicopter raid in northern Mali, according to French Minister of Defence Jean-Yves Le Drian. ](/news/2013/01/12/a-french-pilot-is-killed-in-a-helicopter-raid-in-northern-mali-according-to-french-minister-of-defence-jean-yves-le-drian.md)
-_Context: French, Jean-Yves Le Drian, Mali, Minister of Defence_
+_Context: France, Jean-Yves Le Drian, Mali, Minister of Defence_
 
 ## [Previous Day...](/news/2013/01/11/index.md)
 

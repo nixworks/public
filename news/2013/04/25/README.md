@@ -33,7 +33,7 @@ _Context: French-born_
 
 ##### AK-47s
 ### [A gunman kills three people with a Kalashnikov rifle in a shooting attack in Istres, France. ](/news/2013/04/25/a-gunman-kills-three-people-with-a-kalashnikov-rifle-in-a-shooting-attack-in-istres-france.md)
-_Context: AK-47s, French, Istres_
+_Context: AK-47s, France, Istres_
 
 ##### Israeli Air Force
 ### [The Israeli Air Force shoots down a Hezbollah drone from Lebanon off the coast of Haifa. ](/news/2013/04/25/the-israeli-air-force-shoots-down-a-hezbollah-drone-from-lebanon-off-the-coast-of-haifa.md)

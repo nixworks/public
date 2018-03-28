@@ -61,7 +61,7 @@ _Context: Comoros, Indian Ocean, Mafia Island, Tanzania, Yemenia Flight 626_
 
 ##### Ethnic riots
 ### [ Chinese President Hu Jintao leaves the 35th G8 Summit and returns to Beijing to deal with the ongoing riots in Urumqi. ](/news/2009/07/8/chinese-president-hu-jintao-leaves-the-35th-g8-summit-and-returns-to-beijing-to-deal-with-the-ongoing-riots-in-ara1-4mqi.md)
-_Context: 35th G8 Summit, Beijing, China, Hu Jintao, Urumqi, ethnic riots, president_
+_Context: 35th G8 Summit, Beijing, China, Chinese President, Hu Jintao, Urumqi, ethnic riots_
 
 ##### 35th G8 Summit
 ### [ The 35th G8 Summit begins in L'Aquila, Italy. ](/news/2009/07/8/the-35th-g8-summit-begins-in-l-aquila-italy.md)

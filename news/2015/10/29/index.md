@@ -85,7 +85,7 @@ Deutsche Bank announced plans to eliminate 35,000 jobs from its payroll over the
 
 ##### Saudi Arabia
 ### [Saudi Arabian blogger Raif Badawi, who has been sentenced to 1,000 lashes and 10 years in jail for insulting Islam and for cyber crime, wins the European Union's prestigious Sakharov Prize for Freedom of Thought. The Sakharov award ceremony will be held in Strasbourg, France on December 16, 2015 while the laureate remains imprisoned. ](/news/2015/10/29/saudi-arabian-blogger-raif-badawi-who-has-been-sentenced-to-1-000-lashes-and-10-years-in-jail-for-insulting-islam-and-for-cyber-crime-wins.md)
-_Context: EU, French, Raif Badawi, Sakharov Prize, Saudi Arabia, Strasbourg_
+_Context: EU, France, Raif Badawi, Sakharov Prize, Saudi Arabia, Strasbourg_
 
 ##### Adele
 ### [Adele's "Hello" beats Miley Cyrus's "Wrecking Ball" as the fastest video on Vevo to reach 100 million views and is also certified as the official Vevo Record holder. ](/news/2015/10/29/adele-s-hello-beats-miley-cyrus-s-wrecking-ball-as-the-fastest-video-on-vevo-to-reach-100-million-views-and-is-also-certified-as-the-off.md)

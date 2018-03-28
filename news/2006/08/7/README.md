@@ -11,9 +11,9 @@ Yet Another Update: AOL: &quot;This was a screw up&quot; Further Update: Sometim
 ### [ Tens of thousands are evacuated from around the Mayon Volcano in the Bicol Region of the Philippines as local volcanologists anticipate an imminent eruption. ](/news/2006/08/7/tens-of-thousands-are-evacuated-from-around-the-mayon-volcano-in-the-bicol-region-of-the-philippines-as-local-volcanologists-anticipate-an.md)
 Mayon appeared ready to blow its top Monday as six explosions sent ash columns up to a half-mile high and led officials to evacuate 50,000 people from an extended danger zone.
 
-##### Futures
+##### Futures market
 ### [ Oil price futures hit a record high for one blend of crude oil (Brent crude) after BP found corrosion damage to the Alaskan pipeline and cut production in Prudhoe Bay 50%. ](/news/2006/08/7/oil-price-futures-hit-a-record-high-for-one-blend-of-crude-oil-brent-crude-after-bp-found-corrosion-damage-to-the-alaskan-pipeline-and-cu.md)
-_Context: Alaskan pipeline, BP, Brent crude, Prudhoe Bay, futures_
+_Context: Alaskan pipeline, BP, Brent crude, Prudhoe Bay, futures market_
 
 ##### Reuters
 ### [ Reuters has withdrawn 920 photographs by a Lebanese photographer after a review of his work showed that he had changed two images from the 2006 Israel-Lebanon conflict. ](/news/2006/08/7/reuters-has-withdrawn-920-photographs-by-a-lebanese-photographer-after-a-review-of-his-work-showed-that-he-had-changed-two-images-from-the.md)

@@ -47,9 +47,9 @@ _Context: Alberta, Canada, Slave Lake, wildfire_
 ### [At least one person is killed and at least six injured following a building collapse in the US town of Morrilton, Arkansas. ](/news/2011/05/16/at-least-one-person-is-killed-and-at-least-six-injured-following-a-building-collapse-in-the-us-town-of-morrilton-arkansas.md)
 _Context: Arkansas, Morrilton_
 
-##### French
+##### France
 ### [French investigators report that flight recorders recovered from the wreckage of Air France Flight 447 nearly two years after the crash are still readable. ](/news/2011/05/16/french-investigators-report-that-flight-recorders-recovered-from-the-wreckage-of-air-france-flight-447-nearly-two-years-after-the-crash-are.md)
-_Context: French, crash of Air France Flight 447, flight recorders_
+_Context: France, crash of Air France Flight 447, flight recorders_
 
 ##### Flooding
 ### [It is reported that the Waterford Nuclear Generating Station in St. Charles Parish, Louisiana, USA, was restarted three days ago after a refueling shutdown on April 5, as the floodwaters are diverted to the Atchafalaya River. ](/news/2011/05/16/it-is-reported-that-the-waterford-nuclear-generating-station-in-st-charles-parish-louisiana-usa-was-restarted-three-days-ago-after-a-ref.md)

@@ -23,7 +23,7 @@ Chinese Premier Wen Jiabao said his country will undertake a &quot;step by step&
 ### [The Tokyo Electric Power Company announces rolling blackouts caused by the 2011 Tohoku earthquake and tsunami in northern Japan. ](/news/2011/03/14/the-tokyo-electric-power-company-announces-rolling-blackouts-caused-by-the-2011-tahoku-earthquake-and-tsunami-in-northern-japan.md)
 Tokyo Electric Power Co embarked on planned power outages in areas near Tokyo on Monday to avoid massive blackouts in…
 
-##### French
+##### France
 ### [The French carmaker Renault apologises to three executives accused of industrial espionage after no credible evidence was found to substantiate the claims. ](/news/2011/03/14/the-french-carmaker-renault-apologises-to-three-executives-accused-of-industrial-espionage-after-no-credible-evidence-was-found-to-substanti.md)
 Carmaker pledges compensation to executives accused in espionage case as prosecutor says company may be victim of fraud.
 

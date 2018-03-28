@@ -31,9 +31,9 @@ _Context: North Korea, South Korea, South Korean military_
 ### [All nine people, including two pilots and seven passengers, on board a Beechcraft Super King Air B200 airplane chartered by Peruvian mining company die after the plane became ensnared in power lines and crashed to the ground in the La Libertad Region, Peru. ](/news/2013/03/6/all-nine-people-including-two-pilots-and-seven-passengers-on-board-a-beechcraft-super-king-air-b200-airplane-chartered-by-peruvian-mining.md)
 All nine people on board an airplane chartered by a small Peruvian mining company died after the plane became ensnared in power lines and crashed to the ground in northern Peru on Wednesday, authorities and the company said.
 
-##### UK
+##### British
 ### [The UK's Office of Fair Trading gives the country's top 50 payday loans companies 12 weeks to change their practices after identifying "widespread irresponsible lending". ](/news/2013/03/6/the-uk-s-office-of-fair-trading-gives-the-country-s-top-50-payday-loans-companies-12-weeks-to-change-their-practices-after-identifying-wide.md)
-_Context: Office of Fair Trading, UK, payday loans_
+_Context: British, Office of Fair Trading, payday loans_
 
 ##### European Commission
 ### [The European Commission fines Microsoft EUR561 million for failing to provide residents of the European Union with a selection of web browsers as an alternative to Internet Explorer. ](/news/2013/03/6/the-european-commission-fines-microsoft-a-561-million-for-failing-to-provide-residents-of-the-european-union-with-a-selection-of-web-browse.md)

@@ -57,7 +57,7 @@ _Context: 1981, Iraq, Israel, Parliament of Iraq, nuclear reactors, reparations_
 
 ##### Republican
 ### [ Republican Senator Judd Gregg of New Hampshire withdraws his nomination as U.S. Secretary of Commerce. ](/news/2009/02/12/republican-senator-judd-gregg-of-new-hampshire-withdraws-his-nomination-as-u-s-secretary-of-commerce.md)
-_Context: Judd Gregg, New Hampshire, Republican, Senate, United States, United States Secretary of Commerce_
+_Context: Judd Gregg, New Hampshire, Republican, US Senators, United States, United States Secretary of Commerce_
 
 ##### Pope
 ### [ Pope Benedict XVI condemns any denial of the Holocaust as "intolerable and altogether unacceptable". ](/news/2009/02/12/pope-benedict-xvi-condemns-any-denial-of-the-holocaust-as-intolerable-and-altogether-unacceptable.md)

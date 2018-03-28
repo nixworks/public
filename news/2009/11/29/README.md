@@ -13,7 +13,7 @@ Latest environmental news, features and updates. Pictures, video and more.
 
 ##### United States
 ### [ A United States Senate report states that Osama bin Laden was "within grasp" of the United States Army in Tora Bora in December 2001. ](/news/2009/11/29/a-united-states-senate-report-states-that-osama-bin-laden-was-within-grasp-of-the-united-states-army-in-tora-bora-in-december-2001.md)
-_Context: Osama bin Laden, Senate, Tora Bora, United States, United States soldier, within grasp_
+_Context: Osama bin Laden, Tora Bora, US Senators, United States, United States soldier, within grasp_
 
 ##### Equatorial Guinea
 ### [ Voters in Equatorial Guinea take part in a presidential election. ](/news/2009/11/29/voters-in-equatorial-guinea-take-part-in-a-presidential-election.md)

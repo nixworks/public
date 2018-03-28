@@ -53,7 +53,7 @@ Figures from the CSO show that the Irish economy technically emerged from recess
 
 ##### Leviathan melvillei
 ### [The discovery of fossilized remains of "Leviathan melvillei", an extinct species of physeteroid whale, is announced in "Nature". ](/news/2010/06/30/the-discovery-of-fossilized-remains-of-leviathan-melvillei-an-extinct-species-of-physeteroid-whale-is-announced-in-nature.md)
-_Context: ''Nature'', Leviathan melvillei, physeteroid, whale_
+_Context: Leviathan melvillei, Nature Astronomy, physeteroid, whale_
 
 ##### Egypt
 ### [An unfinished secret tomb is found in Egypt. ](/news/2010/06/30/an-unfinished-secret-tomb-is-found-in-egypt.md)

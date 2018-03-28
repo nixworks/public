@@ -51,9 +51,9 @@ The Russian president Dmitry Medvedev laid a wreath at the memorial of the victi
 ### [North Korea confirms the seizure of a South Korean fishing boat two weeks ago, with four South Korean and three Chinese sailors on board. ](/news/2010/08/19/north-korea-confirms-the-seizure-of-a-south-korean-fishing-boat-two-weeks-ago-with-four-south-korean-and-three-chinese-sailors-on-board.md)
 North Korea confirmed Thursday that it had seized a South Korean fishing boat carrying four South Koreans and three Chinese, its first official reaction in nearly two weeks.
 
-##### French
+##### France
 ### [France's government begins to deport thousands of Romani people, who are mainly from Romania and Bulgaria; Romania fears this will lead to xenophobic tensions. ](/news/2010/08/19/france-s-government-begins-to-deport-thousands-of-romani-people-who-are-mainly-from-romania-and-bulgaria-romania-fears-this-will-lead-to-x.md)
-_Context: Bulgaria, French, Roma, Romania, xenophobic_
+_Context: Bulgaria, France, Roma, Romania, xenophobic_
 
 ##### United Nations
 ### [The United Nations issues a report stating that Israel restricts with live ammunition access to land used for farming and fishing by Palestinians, causing a loss of livelihood for tens of thousands of Palestinians. ](/news/2010/08/19/the-united-nations-issues-a-report-stating-that-israel-restricts-with-live-ammunition-access-to-land-used-for-farming-and-fishing-by-palesti.md)

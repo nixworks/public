@@ -19,9 +19,9 @@ _Context: North West province, Pakistan_
 ### [ Ricin is found in a Las Vegas hotel room of a man who was admitted to the hospital in mid-February. The area affected is under quarantine. Officials do not suspect any relation with terrorism. ](/news/2008/02/29/ricin-is-found-in-a-las-vegas-hotel-room-of-a-man-who-was-admitted-to-the-hospital-in-mid-february-the-area-affected-is-under-quarantine.md)
 _Context: Las Vegas, Nevada, Ricin_
 
-##### Turkish
+##### Turkey
 ### [ Turkey has announced a complete withdrawal and end to operations in northern Iraq. ](/news/2008/02/29/turkey-has-announced-a-complete-withdrawal-and-end-to-operations-in-northern-iraq.md)
-_Context: 2008 Turkish incursion into northern Iraq, Iraq, Turkish_
+_Context: 2008 Turkish incursion into northern Iraq, Iraq, Turkey_
 
 ##### United Kingdom
 ### [ The British Ministry of Defence announces that Prince Harry will have to return home from his deployment in Afghanistan as recent publicity made it too dangerous for him to stay there. ](/news/2008/02/29/the-british-ministry-of-defence-announces-that-prince-harry-will-have-to-return-home-from-his-deployment-in-afghanistan-as-recent-publicity.md)

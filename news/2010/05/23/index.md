@@ -79,7 +79,7 @@ UNRWA chief defiant after masked men ask the UN agency to stop organising such c
 ### [Clashes break out between Indian and Pakistani troops near the border in the disputed Kashmir region. ](/news/2010/05/23/clashes-break-out-between-indian-and-pakistani-troops-near-the-border-in-the-disputed-kashmir-region.md)
 Pakistani and Indian forces clash near the disputed region and trade blame over the fight.
 
-##### Poland
+##### Polish
 ### [The death toll in Poland's worst flooding in 60 years reaches 12. ](/news/2010/05/23/the-death-toll-in-poland-s-worst-flooding-in-60-years-reaches-12.md)
 Cost of damage reaches 2.4bn euros as residents urged to vacate low-lying areas.
 

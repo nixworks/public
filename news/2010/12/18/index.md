@@ -11,9 +11,9 @@ _Context: Hugo Chavez, National Assembly, Venezuela, Venezuelan President, decre
 ### [An Italian court grants Amanda Knox a review of the forensic evidence used to convict her of the 2007 murder of British student Meredith Kercher. ](/news/2010/12/18/an-italian-court-grants-amanda-knox-a-review-of-the-forensic-evidence-used-to-convict-her-of-the-2007-murder-of-british-student-meredith-ker.md)
 Amanda Knox has been granted a review of the forensic evidence used to convict her of the murder of British student Meredith Kercher.
 
-##### Senate
+##### US Senators
 ### [The United States Senate repeals "Don't Ask Don't Tell" by a vote of 65-35. The bill will now be sent to President Barack Obama to be signed. ](/news/2010/12/18/the-united-states-senate-repeals-don-t-ask-don-t-tell-by-a-vote-of-65-35-the-bill-will-now-be-sent-to-president-barack-obama-to-be-signed.md)
-_Context: Barack Obama, Don't Ask Don't Tell, Senate_
+_Context: Barack Obama, Don't Ask Don't Tell, US Senators_
 
 ##### Nuevo Laredo
 ### [Around 140 prisoners break out of jail in Nuevo Laredo, northern Mexico. ](/news/2010/12/18/around-140-prisoners-break-out-of-jail-in-nuevo-laredo-northern-mexico.md)

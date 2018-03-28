@@ -3,7 +3,7 @@ Formats: [HTML](2014/12/9/index.html)  [JSON](2014/12/9/index.json)  [XML](2014/
 
 ## [2014-12-9](/news/2014/12/9/index.md)
 
-##### ''Nature''
+##### Nature Astronomy
 ### ["Nature" publishes Penn State University findings of Ancient shells with 430,000-year-old engravings believed to be made by "Homo erectus", changing beliefs on artistic expression and tool use by ancestors of "Homo sapiens". Dutch anthropologist Eugene Dubois found the collection in Java in 1891 and Penn State discovered the markings in a museum in the city of Leiden. ](/news/2014/12/9/nature-publishes-penn-state-university-findings-of-ancient-shells-with-430-000-year-old-engravings-believed-to-be-made-by-homo-erectus.md)
 Scientists say that a series of marks carved onto a freshwater clam shell represent the earliest known engravings made by a human ancestor.
 

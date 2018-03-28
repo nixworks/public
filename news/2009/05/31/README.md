@@ -17,7 +17,7 @@ _Context: Hong Kong, Tiananmen Square, Tiananmen Square protests of 1989, demons
 
 ##### EUR
 ### [ A man steals EUR6 million in jewellery from Chopard in Paris, France. ](/news/2009/05/31/a-man-steals-a-6-million-in-jewellery-from-chopard-in-paris-france.md)
-_Context: Chopard, EUR, French, Paris, jewellery_
+_Context: Chopard, EUR, France, Paris, jewellery_
 
 ##### Escape
 ### [ At least 44 inmates escape from a prison in Bagua Grande, Peru. ](/news/2009/05/31/at-least-44-inmates-escape-from-a-prison-in-bagua-grande-peru.md)

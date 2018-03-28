@@ -15,9 +15,9 @@ To mark Canada’s 150th birthday, CBC has launched a national storytelling proj
 ### [ Germany's first nudist hiking trail opens. ](/news/2009/09/23/germany-s-first-nudist-hiking-trail-opens.md)
 German naturists will soon have their own 18-km (11-mile) long trail for hiking in the nude and some enthusiasts have been trying it out before the official opening next May.
 
-##### Poland
+##### Polish
 ### [ A Polish court awards EUR7,400 damages to Alicja Tysiac, likened to a child killer and Nazi war criminal by Catholic magazine "Gosc Niedzielny" for wanting an abortion. ](/news/2009/09/23/a-polish-court-awards-a-7-400-damages-to-alicja-tysiac-likened-to-a-child-killer-and-nazi-war-criminal-by-catholic-magazine-goaa-nied.md)
-_Context: Alicja Tysiac, Catholic, Gosc Niedzielny, Nazism, Poland, abortion_
+_Context: Alicja Tysiac, Catholic, Gosc Niedzielny, Nazism, Polish, abortion_
 
 ##### Human Rights Watch
 ### [ Human Rights Watch urges world leaders to call on Sri Lanka to free hundreds of thousands of displaced people detained in camps since the island's civil war ended. ](/news/2009/09/23/human-rights-watch-urges-world-leaders-to-call-on-sri-lanka-to-free-hundreds-of-thousands-of-displaced-people-detained-in-camps-since-the-i.md)
@@ -37,7 +37,7 @@ _Context: Argentina, Dirty War, Julio Alberto Poch, Spanish, Transavia_
 
 ##### India
 ### [ India successfully launches seven satellites in a single mission one month after its inaugural Moon mission is aborted. Included are six smaller satellites from Germany, Switzerland and Turkey. ](/news/2009/09/23/india-successfully-launches-seven-satellites-in-a-single-mission-one-month-after-its-inaugural-moon-mission-is-aborted-included-are-six-sm.md)
-_Context: Germany, India, Moon, Switzerland, Turkish_
+_Context: Germany, India, Moon, Switzerland, Turkey_
 
 ##### India
 ### [ Indian villagers accuse the actress Julia Roberts of interrupting Navratri. ](/news/2009/09/23/indian-villagers-accuse-the-actress-julia-roberts-of-interrupting-navratri.md)

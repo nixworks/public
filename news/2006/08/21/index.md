@@ -25,7 +25,7 @@ WTOP brings you the latest news, traffic, and weather information for the Washin
 
 ##### Channel Tunnel
 ### [ The Channel Tunnel, which connects the UK to France, closes after smoke is seen coming from a freight train in the tunnel. ](/news/2006/08/21/the-channel-tunnel-which-connects-the-uk-to-france-closes-after-smoke-is-seen-coming-from-a-freight-train-in-the-tunnel.md)
-_Context: Channel Tunnel, French, UK_
+_Context: British, Channel Tunnel, France_
 
 ##### 2006 transatlantic aircraft plot
 ### [ Eleven suspects are charged over the 2006 transatlantic aircraft plot in the United Kingdom as police find bomb-making equipment and martyrdom videos during their inquiries. ](/news/2006/08/21/eleven-suspects-are-charged-over-the-2006-transatlantic-aircraft-plot-in-the-united-kingdom-as-police-find-bomb-making-equipment-and-martyr.md)
@@ -37,7 +37,7 @@ _Context: Islamic Movement of Uzbekistan, Kyrgyzstan, Osh, al Qaeda_
 
 ##### Italy
 ### [ Italy offers to lead the United Nations peacekeeping forces in Lebanon instead of France. Italy has offered to provide 2,000 forces, more than any other nation, and France is only offering to provide 200 civil engineers. ](/news/2006/08/21/italy-offers-to-lead-the-united-nations-peacekeeping-forces-in-lebanon-instead-of-france-italy-has-offered-to-provide-2-000-forces-more-t.md)
-_Context: French, Italy, Lebanese, United Nations_
+_Context: France, Italy, Lebanese, United Nations_
 
 ##### Presidential candidate in 2006
 ### [ Democratic Republic of the Congo general election: As a meeting between Bemba and foreign ambassadors representing the International Committee Accompanying the Transition to Democracy (CIAT) is taking place in Kinshasa, clashes break between Kabila and Bemba forces; Bemba's residence, hosting the meeting, comes under attack, reportedly by heavy machine guns and artillery. Several hours later, the UN spokesperson in the DRC, Jean-Tobias Okala, announced the foreign diplomats, including MONUC chief William Swing, were successfully evacuated to UN headquarters. ](/news/2006/08/21/democratic-republic-of-the-congo-general-election-as-a-meeting-between-bemba-and-foreign-ambassadors-representing-the-international-commit.md)

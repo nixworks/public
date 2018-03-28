@@ -25,7 +25,7 @@ _Context: Hakkari Province_
 
 ##### Kahramanmaras
 ### [A moderately strong earthquake with a magnitude of 5.0 hits Kahramanmaras, Turkey. ](/news/2012/07/22/a-moderately-strong-earthquake-with-a-magnitude-of-5-0-hits-kahramanmaraa-turkey.md)
-_Context: Kahramanmaras, Turkish_
+_Context: Kahramanmaras, Turkey_
 
 ##### China
 ### [At least 37 people are killed in torrential rains in the Chinese capital Beijing. ](/news/2012/07/22/at-least-37-people-are-killed-in-torrential-rains-in-the-chinese-capital-beijing.md)
@@ -39,7 +39,7 @@ Car bombs in two towns south of Baghdad and in the Iraqi city of Najaf killed a 
 ### [The Madagascan Army clashes with mutinous soldiers near the airport in the capital Antananarivo. ](/news/2012/07/22/the-madagascan-army-clashes-with-mutinous-soldiers-near-the-airport-in-the-capital-antananarivo.md)
 Two killed, including alleged head of rebellion, as army takes back control of military camp from mutinous soldiers.
 
-##### Turkish
+##### Turkey
 ### [Turkey dispatches reinforcements at its border with Syria as another border crossing is captured by rebels. ](/news/2012/07/22/turkey-dispatches-reinforcements-at-its-border-with-syria-as-another-border-crossing-is-captured-by-rebels.md)
 Four Syrian refugees and four members of the Turkish security forces were hurt on Sunday when riots broke out at a refugee camp in Turkey near the Syrian border, the Dogan News Agency said.
 

@@ -59,7 +59,7 @@ Excavations at a Buddhist pilgrimage site in Nepal have uncovered a shrine datin
 ### [39 musicians, including The Beatles, U2, Madonna, Lady Gaga, Beyonce, Katy Perry, Lorde, One Direction, and Justin Bieber, release a charity album to help the victims. ](/news/2013/11/26/39-musicians-including-the-beatles-u2-madonna-lady-gaga-beyonca-c-katy-perry-lorde-one-direction-and-justin-bieber-release-a-charit.md)
 Stars including Beyonce and Bob Dylan are among those to donate tracks to an album that will raise money for the Philippines Red Cross.
 
-##### French
+##### France
 ### [France announces that it plans to intervene in the conflict in the Central African Republic. ](/news/2013/11/26/france-announces-that-it-plans-to-intervene-in-the-conflict-in-the-central-african-republic.md)
 France is considering tripling its forces in Central African Republic as the country faces the risk of “massive implosion” that threatens other countries in the region, Foreign Minister Laurent Fabius said.
 

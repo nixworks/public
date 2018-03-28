@@ -23,9 +23,9 @@ _Context: Maria Alyokhina, Mordovia, Nadezhda Tolokonnikova, Perm, Pussy Riot, g
 ### [Six Italian scientists and an ex-government official are convicted of multiple manslaughter and sentenced to six years in prison over the 2009 L'Aquila earthquake after prosecutors accuse them of being "falsely reassuring" before the event. ](/news/2012/10/22/six-italian-scientists-and-an-ex-government-official-are-convicted-of-multiple-manslaughter-and-sentenced-to-six-years-in-prison-over-the-20.md)
 _Context: 2009 L'Aquila earthquake_
 
-##### French
+##### France
 ### [France plans to use drones in Mali. ](/news/2012/10/22/france-plans-to-use-drones-in-mali.md)
-_Context: French, Mali, drone_
+_Context: France, Mali, drone_
 
 ##### Royal Air Force
 ### [The UK doubles its number of RAF armed "drones" operating in Afghanistan and, in a new development, drones are to be controlled from terminals and screens on British soil. ](/news/2012/10/22/the-uk-doubles-its-number-of-raf-armed-drones-operating-in-afghanistan-and-in-a-new-development-drones-are-to-be-controlled-from-termina.md)

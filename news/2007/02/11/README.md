@@ -15,9 +15,9 @@ President Nursultan Nazarbayev on February 9 abruptly removed his son-in-law, Ra
 ### [ Voters in Turkmenistan vote in their first presidential election to select a successor to former President of Turkmenistan Saparmurat Niyazov. Interim leader Gurbanguly Berdimuhamedow is widely expected to win the election. ](/news/2007/02/11/voters-in-turkmenistan-vote-in-their-first-presidential-election-to-select-a-successor-to-former-president-of-turkmenistan-saparmurat-niyaz.md)
 _Context: Gurbanguly Berdimuhamedow, Saparmurat Niyazov, Turkmenistan, first presidential election, president_
 
-##### Senate
+##### US Senators
 ### [ U. S. Senator Barack Obama (D-IL) following a political rally in Ames, Iowa, regretted saying the lives of military personnel had been "wasted." ](/news/2007/02/11/u-s-senator-barack-obama-d-il-following-a-political-rally-in-ames-iowa-regretted-saying-the-lives-of-military-personnel-had-been-was.md)
-_Context: Ames, Barack Obama, Democrat, Illinois, Senate, military personnel_
+_Context: Ames, Barack Obama, Democrat, Illinois, US Senators, military personnel_
 
 ##### Military of the United States
 ### [ The U. S. military accuses the government of Iran of supplying sophisticated roadside bombs to insurgents in Iraq. ](/news/2007/02/11/the-u-s-military-accuses-the-government-of-iran-of-supplying-sophisticated-roadside-bombs-to-insurgents-in-iraq.md)
@@ -47,7 +47,7 @@ _Context: British Academy of Film and Television Arts, Dame Helen Mirren, Forest
 ### [ Nine people are shot dead in Rio de Janeiro as police battle drug gangs and private militias for control of the favelas or shanty towns. ](/news/2007/02/11/nine-people-are-shot-dead-in-rio-de-janeiro-as-police-battle-drug-gangs-and-private-militias-for-control-of-the-favelas-or-shanty-towns.md)
 _Context: Rio de Janeiro, favela_
 
-##### UK
+##### British
 ### [ UK's Vodafone buys 67% stake in India's fourth largest mobile operator, Hutch Essar, for $11.1 billion. ](/news/2007/02/11/uk-s-vodafone-buys-67-stake-in-india-s-fourth-largest-mobile-operator-hutch-essar-for-11-1-billion.md)
 Both Asim Ghosh, the current MD of Hutch-Essar and an investor, and Analjit Singh supported Vodafones Hutch buyout and said that they would stay invested in the company. 
 

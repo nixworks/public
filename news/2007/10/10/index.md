@@ -45,7 +45,7 @@ _Context: Canada, Dalton McGuinty, Ontario, Ontario Liberal Party, general elect
 
 ##### Polish police
 ### [ Polish police evict about 65 rebellious ex-nuns who had illegally occupied a convent in Kazimierz Dolny, Poland, for more than two years in defiance of a Vatican order. ](/news/2007/10/10/polish-police-evict-about-65-rebellious-ex-nuns-who-had-illegally-occupied-a-convent-in-kazimierz-dolny-poland-for-more-than-two-years-in.md)
-_Context: Holy See, Kazimierz Dolny, Poland, Polish police, convent, eviction, nun, rebellious_
+_Context: Holy See, Kazimierz Dolny, Polish, Polish police, convent, eviction, nun, rebellious_
 
 ## [Previous Day...](/news/2007/10/9/index.md)
 

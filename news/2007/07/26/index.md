@@ -59,7 +59,7 @@ Two people were killed and four others seriously injured on Thursday in an explo
 ### [ The United States Food and Drug Administration suspends a gene therapy study and reviews 28 others after the death of a patient. ](/news/2007/07/26/the-united-states-food-and-drug-administration-suspends-a-gene-therapy-study-and-reviews-28-others-after-the-death-of-a-patient.md)
 _Context: Food and Drug Administration, United States, gene therapy_
 
-##### Senate
+##### US Senators
 ### [ The United States Senate passes a package of measures recommended by the 9-11 Commission. ](/news/2007/07/26/the-united-states-senate-passes-a-package-of-measures-recommended-by-the-9-11-commission.md)
 Congress moves one step closer to fulfilling its first pledge of the 2006 election, passing homeland security provisions that include cargo screening and radiation monitoring equipment.
 

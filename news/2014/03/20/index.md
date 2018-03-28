@@ -11,7 +11,7 @@ German Chancellor Angela Merkel says Russia will face escalating EU sanctions if
 ### [United States Senate Majority Leader Harry Reid orders an investigation into the breach by the CIA into the United States Senate Select Committee on Intelligence's computer systems. ](/news/2014/03/20/united-states-senate-majority-leader-harry-reid-orders-an-investigation-into-the-breach-by-the-cia-into-the-united-states-senate-select-comm.md)
 _Context: CIA, Harry Reid, Senate Intelligence Committee, United States Senate Majority Leader_
 
-##### Turkish
+##### Turkey
 ### [A passenger train collides with a minibus near the Turkish city of Mersin resulting in at least nine deaths. ](/news/2014/03/20/a-passenger-train-collides-with-a-minibus-near-the-turkish-city-of-mersin-resulting-in-at-least-nine-deaths.md)
 At least nine people are killed and five injured after a passenger train crashes into a minibus carrying people to work in Turkey, local media say.
 

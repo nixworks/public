@@ -39,7 +39,7 @@ _Context: Japan, Jordan, nuclear power_
 ### [North Korea proposes the resumption of family reunions with South Korea. ](/news/2010/09/11/north-korea-proposes-the-resumption-of-family-reunions-with-south-korea.md)
 North Korea has proposed to the South resuming a programme of reunions for families separated by the Korean War, state media say.
 
-##### French
+##### France
 ### [France condemns as "unacceptable" remarks made by former Cuban leader Fidel Castro expressing sympathy with the Romani migrants it is trying to rid itself of. ](/news/2010/09/11/france-condemns-as-unacceptable-remarks-made-by-former-cuban-leader-fidel-castro-expressing-sympathy-with-the-romani-migrants-it-is-trying.md)
 France says a remark by Fidel Castro that its treatment of Roma migrants amounts to a &quot;racial holocaust&quot; is unacceptable.
 

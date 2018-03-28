@@ -7,7 +7,7 @@ Formats: [HTML](2011/12/22/index.html)  [JSON](2011/12/22/index.json)  [XML](201
 ### [The Large Hadron Collider makes its first clear observation of a new particle since opening in 2009, the boson Chi b 3P. ](/news/2011/12/22/the-large-hadron-collider-makes-its-first-clear-observation-of-a-new-particle-since-opening-in-2009-the-boson-chi-b-3p.md)
 The first clear evidence for a new particle at the Large Hadron Collider emerges, which may make finding particles such as the Higgs boson easier.
 
-##### French
+##### France
 ### [France's National Assembly votes in favour of a bill criminalising any denial that the mass killing of Armenians by the Ottoman Empire in the 1910s was genocide. ](/news/2011/12/22/france-s-national-assembly-votes-in-favour-of-a-bill-criminalising-any-denial-that-the-mass-killing-of-armenians-by-the-ottoman-empire-in-th.md)
 Turkey recalls its ambassador to France in protest at a bill making it illegal to deny that the killing of Armenians in World War I was genocide.
 

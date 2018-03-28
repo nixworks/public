@@ -87,7 +87,7 @@ Barack Obama was forced to interrupt a speech at a fundraising event after he wa
 ### [Pope Benedict XVI makes an explicit promise that the Roman Catholic Church will take action against child sexual abuse by priests. ](/news/2010/04/21/pope-benedict-xvi-makes-an-explicit-promise-that-the-roman-catholic-church-will-take-action-against-child-sexual-abuse-by-priests.md)
 Benedict XVI said the Roman Catholic Church was taking action against the scourge of paedophile priests amid snowballing scandals in Europe and the US.
 
-##### Poland
+##### Polish
 ### [Poland announces the date of its presidential election &mdash; June 20 &mdash; to elect plane crash victim Lech Kaczynski's successor. ](/news/2010/04/21/poland-announces-the-date-of-its-presidential-election-mdash-june-20-mdash-to-elect-plane-crash-victim-lech-kaczyaski-s-successor.md)
 Opinion surveys give acting president wide lead over other potential candidates.
 

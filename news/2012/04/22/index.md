@@ -11,7 +11,7 @@ Fan protests at an Italian top league game between Genoa and Siena saw play halt
 ### [The Speaker of the Australian House of Representatives Peter Slipper steps aside while allegations of sexual harassment and fraud against him are investigated. ](/news/2012/04/22/the-speaker-of-the-australian-house-of-representatives-peter-slipper-steps-aside-while-allegations-of-sexual-harassment-and-fraud-against-hi.md)
 Federal Parliament Speaker Peter Slipper has stepped aside while investigations are underway into allegations of sexual harassment against him.
 
-##### French
+##### France
 ### [Voters in France go to the polls for the first round of the French presidential election with Francois Hollande of the French Socialist Party and incumbent President Nicolas Sarkozy through to the second round. ](/news/2012/04/22/voters-in-france-go-to-the-polls-for-the-first-round-of-the-french-presidential-election-with-franassois-hollande-of-the-french-socialist-par.md)
 Socialist champion Francois Hollande stamped his authority on the French presidential race Sunday, winning the first round of polling and setting up a May 6 run-off with incumbent Nicolas Sarkozy.
 

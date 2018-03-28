@@ -7,13 +7,13 @@ Formats: [HTML](2008/03/18/index.html)  [JSON](2008/03/18/index.json)  [XML](200
 ### [ Sweden's Supreme Court rules in favor of late film director Vilgot Sjoman who had sued a TV channel for copyright infringement after it ran three commercial breaks during the director's film. ](/news/2008/03/18/swedenas-supreme-court-rules-in-favor-of-late-film-director-vilgot-sjapman-who-had-sued-a-tv-channel-for-copyright-infringement-after-it.md)
 _Context: Supreme Court, Sweden, TV channel, Vilgot Sjoman, commercial, copyright infringement_
 
-##### Dutch
+##### The Netherlands
 ### [ The Netherlands sets a new world record in the 400-metres relay at the European swimming championships in Eindhoven. ](/news/2008/03/18/the-netherlands-sets-a-new-world-record-in-the-400-metres-relay-at-the-european-swimming-championships-in-eindhoven.md)
-_Context: Dutch, Eindhoven, European Swimming Championships, relay_
+_Context: Eindhoven, European Swimming Championships, The Netherlands, relay_
 
-##### French
+##### France
 ### [ French Foreign Minister Bernard Kouchner says the EU should consider punishing China's crackdown in Tibet with a boycott of the opening ceremony of the Olympic Games in Beijing. ](/news/2008/03/18/french-foreign-minister-bernard-kouchner-says-the-eu-should-consider-punishing-china-s-crackdown-in-tibet-with-a-boycott-of-the-opening-cer.md)
-_Context: 2008 Summer Olympics, Beijing, Bernard Kouchner, Chinese, EU, French, Tibet, boycott_
+_Context: 2008 Summer Olympics, Beijing, Bernard Kouchner, Chinese, EU, France, Tibet, boycott_
 
 ##### Canada
 ### [ Canada and Japan recognize Kosovo's independence. ](/news/2008/03/18/canada-and-japan-recognize-kosovo-s-independence.md)

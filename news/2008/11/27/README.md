@@ -25,7 +25,7 @@ Brazil sent hundreds of stateand federal police officers on Wednesday to quell l
 
 ##### ABW
 ### [ A Polish ABW secret service report says the shooting incident in Georgia involving Polish President Lech Kaczynski and Georgian President Mikheil Saakashvili was most likely "a provocation" staged by the Georgians ](/news/2008/11/27/a-polish-abw-secret-service-report-says-the-shooting-incident-in-georgia-involving-polish-president-lech-kaczyaski-and-georgian-president.md)
-_Context:  Georgian, ABW, Lech Kaczynski, Mikhail Saakashvili, Poland_
+_Context:  Georgian, ABW, Lech Kaczynski, Mikhail Saakashvili, Polish_
 
 ##### Airbus A320
 ### [ An Airbus A320 owned by Air New Zealand with 7 people aboard crashes into the sea off the southern French coast during a training flight, exactly 29 years to the day (NZDT) after Air New Zealand Flight 901 crashed in Antarctica. ](/news/2008/11/27/an-airbus-a320-owned-by-air-new-zealand-with-7-people-aboard-crashes-into-the-sea-off-the-southern-french-coast-during-a-training-flight-e.md)

@@ -21,7 +21,7 @@ _Context: International Court of Justice, Malaysia, Middle Rocks, Pedra Branca, 
 
 ##### Hu Jintao
 ### [ Hu Jintao, the President of China, and the President of Russia Dmitry Medvedev condemn the United States' National missile defense system. ](/news/2008/05/23/hu-jintao-the-president-of-china-and-the-president-of-russia-dmitry-medvedev-condemn-the-united-states-national-missile-defense-system.md)
-_Context: Dmitry Medvedev, Hu Jintao, President of Russia, United States, missile interceptor, president_
+_Context: Chinese President, Dmitry Medvedev, Hu Jintao, President of Russia, United States, missile interceptor_
 
 ##### Industrial action
 ### [ Around 20,000 passengers are affected by unofficial industrial action by Iarnrd ireann, Ireland's national rail operator. ](/news/2008/05/23/around-20-000-passengers-are-affected-by-unofficial-industrial-action-by-iarnrod-eireann-ireland-s-national-rail-operator.md)

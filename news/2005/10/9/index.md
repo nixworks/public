@@ -27,9 +27,9 @@ _Context: Glenda Jackson, Labour Party, MP, Tony Blair, United Kingdom_
 ### [ United Kingdom: In a joint statement, Anglican and Catholic leaders voice concerns over euthanasia as the House of Lords gears up for debate on legislation. ](/news/2005/10/9/united-kingdom-in-a-joint-statement-anglican-and-catholic-leaders-voice-concerns-over-euthanasia-as-the-house-of-lords-gears-up-for-debat.md)
 _Context: Anglican, Catholic, House of Lords, United Kingdom, euthanasia_
 
-##### Senate
+##### US Senators
 ### [ New York Senator Hillary Clinton is inducted into the National Women's Hall of Fame. ](/news/2005/10/9/new-york-senator-hillary-clinton-is-inducted-into-the-national-women-s-hall-of-fame.md)
-_Context: Hillary Clinton, National Women's Hall of Fame, Senate_
+_Context: Hillary Clinton, National Women's Hall of Fame, US Senators_
 
 ##### White
 ### [ Three white New Orleans police officers are arrested after a video surfaces showing the officers brutally beating unarmed 64-year-old Robert Davis. The victim, who is black, has been charged with public intoxication, resisting arrest, battery on a police officer and public intimidation. ](/news/2005/10/9/three-white-new-orleans-police-officers-are-arrested-after-a-video-surfaces-showing-the-officers-brutally-beating-unarmed-64-year-old-rober.md)

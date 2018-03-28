@@ -21,7 +21,7 @@ _Context: Baghdad, Iraq War, car bomb_
 
 ##### Painting
 ### [ Two paintings by Pablo Picasso, "Maya with Doll" and "Jacqueline", have been stolen from the painter's granddaughter's apartment in Paris, France. ](/news/2007/02/28/two-paintings-by-pablo-picasso-maya-with-doll-and-jacqueline-have-been-stolen-from-the-painter-s-granddaughter-s-apartment-in-paris.md)
-_Context: French, Jacqueline, Maya with Doll, Paris, Picasso, painter, painting_
+_Context: France, Jacqueline, Maya with Doll, Paris, Picasso, painter, painting_
 
 ##### Cuba-United States relations
 ### [ Cuba-United States relations: Carlos and Elsa Alvarez are sentenced to five and three year prison terms respectively after being convicted of spying for the Cuban government. ](/news/2007/02/28/cuba-united-states-relations-carlos-and-elsa-alvarez-are-sentenced-to-five-and-three-year-prison-terms-respectively-after-being-convicted.md)
@@ -49,7 +49,7 @@ _Context: Prime Minister of Italy, Romano Prodi, Senate of Italy_
 
 ##### Presidential candidate
 ### [ United States Presidential Election, 2008: Senator John McCain (R- AZ) announces his candidacy for president on the "Late Show with David Letterman". ](/news/2007/02/28/united-states-presidential-election-2008-senator-john-mccain-r-az-announces-his-candidacy-for-president-on-the-late-show-with-david-l.md)
-_Context: Arizona, John McCain, Late Show with David Letterman, President, Republican, Senate, presidential candidate_
+_Context: Arizona, John McCain, Late Show with David Letterman, President, Republican, US Senators, presidential candidate_
 
 ##### Marthinus van Schalkwyk
 ### [ Marthinus van Schalkwyk, the South African Minister for the Environment, releases a plan to control the elephant population which contains culling as a last resort. ](/news/2007/02/28/marthinus-van-schalkwyk-the-south-african-minister-for-the-environment-releases-a-plan-to-control-the-elephant-population-which-contains.md)

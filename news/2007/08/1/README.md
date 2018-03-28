@@ -51,9 +51,9 @@ _Context: 2007 Russian North Pole expedition, Arctic, North Pole, Russia, petrol
 ### [ At least 28 people die in Uttar Pradesh, India as an overcrowded boat carrying flood evacuees and aid workers capsizes on the Rohni River. Monsoon floods have killed more than 150 people in India during July while at least 82 people have died in Nepal over the past two weeks and 38 in Bangladesh. ](/news/2007/08/1/at-least-28-people-die-in-uttar-pradesh-india-as-an-overcrowded-boat-carrying-flood-evacuees-and-aid-workers-capsizes-on-the-rohni-river.md)
 _Context: Bangladesh, India, Monsoon, Nepal, Rohni River, Uttar Pradesh, flood_
 
-##### French
+##### France
 ### [ A French court orders the release of two suspects in the 1994 Rwandan genocide. ](/news/2007/08/1/a-french-court-orders-the-release-of-two-suspects-in-the-1994-rwandan-genocide.md)
-_Context: 1994, 1994 genocide, French_
+_Context: 1994, 1994 genocide, France_
 
 ##### Association of South East Asian Nations
 ### [ The Association of South East Asian Nations (ASEAN) sign an agreement to bolster economic and security relationships. It also called for negotiations on a Free Trade Agreement between ASEAN, Australia and New Zealand by the end of 2008. ](/news/2007/08/1/the-association-of-south-east-asian-nations-asean-sign-an-agreement-to-bolster-economic-and-security-relationships-it-also-called-for-ne.md)
@@ -69,7 +69,7 @@ Follow the StarTribune for the news, photos and videos from the Twin Cities and 
 
 ##### President
 ### [ The President of the United States George W. Bush orders senior adviser Karl Rove not to testify before a United States Senate committee on the Dismissal of U.S. attorneys controversy. ](/news/2007/08/1/the-president-of-the-united-states-george-w-bush-orders-senior-adviser-karl-rove-not-to-testify-before-a-united-states-senate-committee-on.md)
-_Context: George W. Bush, Karl Rove, President, Senate, firings_
+_Context: George W. Bush, Karl Rove, President, US Senators, firings_
 
 ##### New Zealand
 ### [ New Zealand launches its first commercially available biofuel, which consists of 90 percent petrol and 10 percent bioethanol made from cows' milk. ](/news/2007/08/1/new-zealand-launches-its-first-commercially-available-biofuel-which-consists-of-90-percent-petrol-and-10-percent-bioethanol-made-from-cows.md)

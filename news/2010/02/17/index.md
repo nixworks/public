@@ -9,7 +9,7 @@ _Context: East Africa, Green economy, June 2010, Rwanda, World Environment Day_
 
 ##### Archbishop
 ### [Five southern Africans, including Archbishop Desmond Tutu, have their genomes analysed by scientists and published in "Nature", with Tutu excited to discover he is "related to the San people, the first people to inhabit Southern Africa". ](/news/2010/02/17/five-southern-africans-including-archbishop-desmond-tutu-have-their-genomes-analysed-by-scientists-and-published-in-nature-with-tutu-ex.md)
-_Context: ''Nature'', Archbishop, Desmond Tutu, San people_
+_Context: Archbishop, Desmond Tutu, Nature Astronomy, San people_
 
 ##### Walgreen Co.
 ### [Walgreen Co. announces that it is buying Duane Reade Holdings Inc., operator of a chain of 257 drugstores in the New York City area, for about $1.08 billion including assumption of debt. ](/news/2010/02/17/walgreen-co-announces-that-it-is-buying-duane-reade-holdings-inc-operator-of-a-chain-of-257-drugstores-in-the-new-york-city-area-for-abo.md)
@@ -25,7 +25,7 @@ _Context: Electoral Commission, Prime Minister of Ukraine, Supreme Administrativ
 
 ##### United Kingdom
 ### [Services from the UK, France, Germany and the Netherlands remain disrupted as investigations continue into the Halle train collision in Belgium.](/news/2010/02/17/services-from-the-uk-france-germany-and-the-netherlands-remain-disrupted-as-investigations-continue-into-the-halle-train-collision-in-belg.md)
-_Context: Belgium, Dutch, French, Germany, Halle train collision, United Kingdom_
+_Context: Belgium, Dutch, France, Germany, Halle train collision, United Kingdom_
 
 ##### Kenya
 ### [Police in Kenya free five suspects held in connection with organising a gay wedding in a Mtwapa hotel. ](/news/2010/02/17/police-in-kenya-free-five-suspects-held-in-connection-with-organising-a-gay-wedding-in-a-mtwapa-hotel.md)

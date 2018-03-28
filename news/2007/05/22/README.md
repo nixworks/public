@@ -17,7 +17,7 @@ _Context: 2007, U.S.  National Oceanic and Atmospheric Administration, United St
 
 ##### A suicide attack
 ### [ A suicide attack occurs at a shopping centre in the Ulus district of Ankara, the capital of Turkey. Authorities say there were six fatalities, and 79 injuries. ](/news/2007/05/22/a-suicide-attack-occurs-at-a-shopping-centre-in-the-ulus-district-of-ankara-the-capital-of-turkey-authorities-say-there-were-six-fataliti.md)
-_Context: A suicide attack, Ankara, Turkish, Ulus district_
+_Context: A suicide attack, Ankara, Turkey, Ulus district_
 
 ##### Skybus
 ### [ Skybus Airlines, a new U.S.-based ultra-low-cost carrier airline, launches inaugural flights to and from Columbus, Ohio, with $10 tickets enabled by on-plane advertising and charging people for baggage, pillows, boarding priority, and refreshments. ](/news/2007/05/22/skybus-airlines-a-new-u-s-based-ultra-low-cost-carrier-airline-launches-inaugural-flights-to-and-from-columbus-ohio-with-10-tickets-e.md)

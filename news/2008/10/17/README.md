@@ -31,7 +31,7 @@ _Context: Dravida Munnetra Kazhagam, India, Lok Sabha, M Karunanidhi, Tamil Nadu
 ### [ Morgan Tsvangirai of Zimbabwe's Movement for Democratic Change states that power-sharing talks with President Robert Mugabe have failed to reach an agreement. ](/news/2008/10/17/morgan-tsvangirai-of-zimbabwe-s-movement-for-democratic-change-states-that-power-sharing-talks-with-president-robert-mugabe-have-failed-to.md)
 _Context: Morgan Tsvangirai, Movement for Democratic Change, President, Robert Mugabe, Zimbabwe, power-sharing talks_
 
-##### Turkish
+##### Turkey
 ### [ Turkey, Austria, Japan, Mexico and Uganda are elected by the United Nations General Assembly to the Security Council. Iran and Iceland fail in their bids. ](/news/2008/10/17/turkey-austria-japan-mexico-and-uganda-are-elected-by-the-united-nations-general-assembly-to-the-security-council-iran-and-iceland-fail.md)
 Turkey, Austria and Japan won nonpermanent seats on the United Nations Security Council, defeating Iceland and Iran in elections in the General Assembly.
 

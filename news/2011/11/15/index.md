@@ -3,9 +3,9 @@ Formats: [HTML](2011/11/15/index.html)  [JSON](2011/11/15/index.json)  [XML](201
 
 ## [2011-11-15](/news/2011/11/15/index.md)
 
-##### Senate
+##### US Senators
 ### [Negotiators from the United States Senate and House of Representatives reach a partial budget agreement. ](/news/2011/11/15/negotiators-from-the-united-states-senate-and-house-of-representatives-reach-a-partial-budget-agreement.md)
-_Context: Senate, United States House of Representatives_
+_Context: US Senators, United States House of Representatives_
 
 ##### New York Police Department
 ### [The New York Police Department clears Occupy Wall Street protesters from Zuccotti Park. ](/news/2011/11/15/the-new-york-police-department-clears-occupy-wall-street-protesters-from-zuccotti-park.md)

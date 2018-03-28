@@ -23,9 +23,9 @@ _Context: EU, Russia, Ukraine_
 ### [The Russian Federation Council, the upper house of the Federal Assembly, approves the annexation of Crimea. ](/news/2014/03/21/the-russian-federation-council-the-upper-house-of-the-federal-assembly-approves-the-annexation-of-crimea.md)
 MOSCOW (AP) — The upper house of the Russian parliament has approved Moscow&#x27;s annexation of Crimea.
 
-##### Turkish
+##### Turkey
 ### [Turkey restricts access to Twitter hours after the Prime Minister Recep Tayyip Erdogan threatens to "root out" the social network where politically sensitive documents had been published. ](/news/2014/03/21/turkey-restricts-access-to-twitter-hours-after-the-prime-minister-recep-tayyip-erdoaan-threatens-to-root-out-the-social-network-where-pol.md)
-_Context: Recep Tayyip Erdogan, Turkish, Turkish Prime Minister, tweeting_
+_Context: Recep Tayyip Erdogan, Turkey, Turkish Prime Minister, tweeting_
 
 ##### Tripoli, Lebanon
 ### [Clashes erupt in Tripoli, Lebanon, between Syrian regime supporters and detractors, leaving 3 dead. ](/news/2014/03/21/clashes-erupt-in-tripoli-lebanon-between-syrian-regime-supporters-and-detractors-leaving-3-dead.md)

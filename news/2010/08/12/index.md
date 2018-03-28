@@ -79,13 +79,13 @@ _Context: Australia, Iran, Mohammad-Reza Rahimi, South Korea, United Kingdom, Vi
 ### [A ship carrying Tamil asylum seekers who are travelling from Sri lanka nears Canada. ](/news/2010/08/12/a-ship-carrying-tamil-asylum-seekers-who-are-travelling-from-sri-lanka-nears-canada.md)
 Officials say 500 people could be onboard boat from Sri Lanka.
 
-##### Poland
+##### Polish
 ### [Poland extradites Israeli citizen and suspected spy Uri Brodsky to Germany to face charges of being involved in the murder of Mahmoud al-Mabhouh in Dubai. ](/news/2010/08/12/poland-extradites-israeli-citizen-and-suspected-spy-uri-brodsky-to-germany-to-face-charges-of-being-involved-in-the-murder-of-mahmoud-al-mab.md)
 Poland extradites to Germany a suspected Israeli agent wanted in connection with the killing in Dubai of a Hamas commander, officials say.
 
-##### Turkish
+##### Turkey
 ### [Turkey sets up a commission of Turkish officials and bureaucrats to investigate May's Gaza flotilla raid. ](/news/2010/08/12/turkey-sets-up-a-commission-of-turkish-officials-and-bureaucrats-to-investigate-may-s-gaza-flotilla-raid.md)
-_Context: Gaza flotilla raid, Turkish_
+_Context: Gaza flotilla raid, Turkey_
 
 ##### South Kivu
 ### [At least 58 people are killed after a lorry plunges into South Kivu's Lake Tanganyika. ](/news/2010/08/12/at-least-58-people-are-killed-after-a-lorry-plunges-into-south-kivu-s-lake-tanganyika.md)
@@ -165,7 +165,7 @@ At least two inmates are killed and more than 80 injured during a prison riot in
 
 ##### United Nations
 ### [The United Nations condemns France's crackdown on 40 gypsy camps. ](/news/2010/08/12/the-united-nations-condemns-france-s-crackdown-on-40-gypsy-camps.md)
-_Context: French, Roma, United Nations_
+_Context: France, Roma, United Nations_
 
 ##### Dhaka
 ### [At least 50 people are injured in Dhaka as police use batons and tear gas to beat back civilians protesting against frequent power outage. ](/news/2010/08/12/at-least-50-people-are-injured-in-dhaka-as-police-use-batons-and-tear-gas-to-beat-back-civilians-protesting-against-frequent-power-outage.md)

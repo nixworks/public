@@ -7,7 +7,7 @@ Formats: [HTML](2006/03/6/index.html)  [JSON](2006/03/6/index.json)  [XML](2006/
 ### [ In South Africa, former Deputy President (1999-2005) Jacob Zuma pleads not guilty of rape as his trial starts. ](/news/2006/03/6/in-south-africa-former-deputy-president-1999a2005-jacob-zuma-pleads-not-guilty-of-rape-as-his-trial-starts.md)
 _Context: Jacob Zuma, South Africa, not guilty, rape_
 
-##### Poland
+##### Polish
 ### [ Avian flu outbreak: Poland confirms first outbreak of H5N1, the bird flu virus, in two wild swans. ](/news/2006/03/6/avian-flu-outbreak-poland-confirms-first-outbreak-of-h5n1-the-bird-flu-virus-in-two-wild-swans.md)
 The first Polish case of H5 bird flu has been found in two swans found dead on the banks of the River Vistula in the northern city of Torun.
 

@@ -29,7 +29,7 @@ _Context: Iraqis, Jordanian population, University of Jordan, country's economic
 
 ##### Russia
 ### [ Russia has officially declined a request by the UK to extradite Andrei Lugovoi for the murder of Alexander Litvinenko. Russia's constitution bars extradition of its citizens. ](/news/2007/07/5/russia-has-officially-declined-a-request-by-the-uk-to-extradite-andrei-lugovoi-for-the-murder-of-alexander-litvinenko-russia-s-constitutio.md)
-_Context: Alexander Litvinenko, Andrei Lugovoi, Russia, Russia's constitution, UK, extradite_
+_Context: Alexander Litvinenko, Andrei Lugovoi, British, Russia, Russia's constitution, extradite_
 
 ##### Natural History Museum
 ### [ Eleven people are injured when a staircase collapses at the Natural History Museum in Dublin. ](/news/2007/07/5/eleven-people-are-injured-when-a-staircase-collapses-at-the-natural-history-museum-in-dublin.md)

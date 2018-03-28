@@ -11,7 +11,7 @@ A sea of angry taxpayers marched on the Capitol on Saturday afternoon. That much
 ### [Nstor Kirchner, former President of Argentina and current Secretary-General of the Union of South American Nations (UNASUR), has surgery on a blocked coronary artery. ](/news/2010/09/12/nestor-kirchner-former-president-of-argentina-and-current-secretary-general-of-the-union-of-south-american-nations-unasur-has-surgery-on.md)
 The former president of Argentina, Nestor Kirchner, has surgery to clear a blocked coronary artery.
 
-##### Turkish
+##### Turkey
 ### [Voters in Turkey go to the polls for a referendum to amend the constitution. ](/news/2010/09/12/voters-in-turkey-go-to-the-polls-for-a-referendum-to-amend-the-constitution.md)
 With 99 per cent of votes counted, provisional results show referendum passing with 58 per cent support.
 
@@ -71,7 +71,7 @@ Miners trapped underground in Chile for more than a month are allowed to smoke f
 ### [Lady Gaga wins eight MTV Video Music Awards at the 2010 ceremony including Video of the Year for "Bad Romance". ](/news/2010/09/12/lady-gaga-wins-eight-mtv-video-music-awards-at-the-2010-ceremony-including-video-of-the-year-for-bad-romance.md)
 _Context: 2010 ceremony, Bad Romance, Lady Gaga, MTV Video Music Awards_
 
-##### French
+##### France
 ### [French film director Claude Chabrol, a founding member of the French New Wave, dies. ](/news/2010/09/12/french-film-director-claude-chabrol-a-founding-member-of-the-french-new-wave-dies.md)
 Claude&#x20;Chabrol&#x20;&#x28;pictured&#x29;,&#x20;film&#x20;director&#x20;and&#x20;member&#x20;of&#x20;the&#x20;French&#x20;New&#x20;Wave&#x20;group&#x20;of&#x20;film-makers,&#x20;has&#x20;died&#x20;at&#x20;the&#x20;age&#x20;of&#x20;80.
 

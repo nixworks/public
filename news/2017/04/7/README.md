@@ -21,7 +21,7 @@ _Context: Alabama, Robert Bentley_
 
 ##### Neil Gorsuch
 ### [Neil Gorsuch is confirmed as the 113th justice of the Supreme Court of the United States by a 54-45 vote in the United States Senate after invocation of the "nuclear option". ](/news/2017/04/7/neil-gorsuch-is-confirmed-as-the-113th-justice-of-the-supreme-court-of-the-united-states-by-a-54a45-vote-in-the-united-states-senate-after.md)
-_Context: Neil Gorsuch, Senate, Supreme Court of the United States, nuclear option_
+_Context: Neil Gorsuch, Supreme Court of the United States, US Senators, nuclear option_
 
 ##### Maldives Police Service
 ### [The Maldives Police Service arrests the country's opposition leader, Qasim Ibrahim, after his party's failed bid to impeach the Speaker of the People's Majlis. ](/news/2017/04/7/the-maldives-police-service-arrests-the-country-s-opposition-leader-qasim-ibrahim-after-his-party-s-failed-bid-to-impeach-the-speaker-of-t.md)

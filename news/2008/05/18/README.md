@@ -9,7 +9,7 @@ Hope drained out of this mountain valley Saturday as thousands of homeless resid
 
 ##### Gordon Brown
 ### [ Gordon Brown, the UK Prime Minister, says that people should support a bill permitting the use of human-animal embryos. ](/news/2008/05/18/gordon-brown-the-uk-prime-minister-says-that-people-should-support-a-bill-permitting-the-use-of-human-animal-embryos.md)
-_Context: Gordon Brown, UK, human-animal embryos_
+_Context: British, Gordon Brown, human-animal embryos_
 
 ##### Chofu
 ### [ Approximately 16,000 people are evacuated in Chofu, Japan while a World War II era bomb is defused. ](/news/2008/05/18/approximately-16-000-people-are-evacuated-in-chofu-japan-while-a-world-war-ii-era-bomb-is-defused.md)

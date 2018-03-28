@@ -47,7 +47,7 @@ Faraj al-Deirsy, head of Benghazi police, shot dead in the latest attack on Liby
 ### [Hundreds of government soldiers and policemen surrender to M23 rebels at a stadium in the city of Goma, which fell to rebel forces on November 20. ](/news/2012/11/21/hundreds-of-government-soldiers-and-policemen-surrender-to-m23-rebels-at-a-stadium-in-the-city-of-goma-which-fell-to-rebel-forces-on-novemb.md)
 Thousands of soldiers and police surrender to M23 at a stadium in Goma after the group takes control of the city.
 
-##### Turkish
+##### Turkey
 ### [Turkey asks for Patriot missiles to be deployed on its territory at the border with Syria. ](/news/2012/11/21/turkey-asks-for-patriot-missiles-to-be-deployed-on-its-territory-at-the-border-with-syria.md)
 NATO ambassadors met on Wednesday to consider a Turkish request for the deployment of Patriot missiles near its border with Syria as the conflict in its southern neighbor deepens.
 

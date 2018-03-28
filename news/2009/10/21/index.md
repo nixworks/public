@@ -19,7 +19,7 @@ _Context: Japan_
 ### [ The crypt of Daniel O'Connell at Glasnevin Cemetery in Dublin is refurbished and opened to tourists . ](/news/2009/10/21/the-crypt-of-daniel-o-connell-at-glasnevin-cemetery-in-dublin-is-refurbished-and-opened-to-tourists.md)
 The crypt of Daniel O&#39;Connell at Glasnevin Cemetery in Dublin has been refurbished and will be open to visiting groups every day from now on.
 
-##### Poland
+##### Polish
 ### [ Poland's Prime Minister Donald Tusk agrees to station SM-3 missile interceptors from United States President Barack Obama's reformulated missile defense system on the territory of this NATO ally. ](/news/2009/10/21/poland-s-prime-minister-donald-tusk-agrees-to-station-sm-3-missile-interceptors-from-united-states-president-barack-obama-s-reformulated-mi.md)
 The unwavering commitment not just to Poland, but to the entire region, was the central message of the vice president’s damage-control tour of Eastern Europe that started Wednesday.
 
@@ -37,7 +37,7 @@ _Context: Goa Express, India, Mewar Express, Rajasthan_
 
 ##### Lidl
 ### [ Armed men take six people captive at a Lidl supermarket in Sevran, France. ](/news/2009/10/21/armed-men-take-six-people-captive-at-a-lidl-supermarket-in-sevran-france.md)
-_Context: French, Lidl, Sevran_
+_Context: France, Lidl, Sevran_
 
 ##### Azza Transport Flight 2241
 ### [ Azza Transport Flight 2241 crashes on take-off from Sharjah International Airport, in the United Arab Emirates, killing all six crew. ](/news/2009/10/21/azza-transport-flight-2241-crashes-on-take-off-from-sharjah-international-airport-in-the-united-arab-emirates-killing-all-six-crew.md)

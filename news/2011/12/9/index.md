@@ -33,7 +33,7 @@ _Context: stock exchange_
 
 ##### Credit rating
 ### [Credit rating agency Moody's downgrades the ratings of France's three biggest banks, Credit Agricole, BNP Paribas and Societe Generale. ](/news/2011/12/9/credit-rating-agency-moody-s-downgrades-the-ratings-of-france-s-three-biggest-banks-cra-c-dit-agricole-bnp-paribas-and-socia-c-ta-c-ga-c-na-c-rale.md)
-_Context: BNP Paribas, Credit Agricole, Credit rating, French, Moody's, Societe Generale_
+_Context: BNP Paribas, Credit Agricole, Credit rating, France, Moody's, Societe Generale_
 
 ## [Previous Day...](/news/2011/12/8/index.md)
 

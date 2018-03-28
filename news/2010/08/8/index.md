@@ -73,7 +73,7 @@ _Context: African Union, Darfur, Omar al-Bashir, Sudanese President, United Nati
 
 ##### Embassy
 ### [Several countries evacuate staff from their embassies in Moscow due to the 2010 Russian wildfires including Germany, Austria, Poland and Canada, ](/news/2010/08/8/several-countries-evacuate-staff-from-their-embassies-in-moscow-due-to-the-2010-russian-wildfires-including-germany-austria-poland-and-can.md)
-_Context: Austria, Canada, Germany, Moscow, Poland, embassy, the recent wildfires_
+_Context: Austria, Canada, Germany, Moscow, Polish, embassy, the recent wildfires_
 
 ##### Copiapo
 ### [There is a further cave-in at the mine near Copiapo, Chile where people have been working since Thursday to rescue 34 miners trapped underground; work is currently suspended in an incident that is rare in that part of the world. ](/news/2010/08/8/there-is-a-further-cave-in-at-the-mine-near-copiapa3-chile-where-people-have-been-working-since-thursday-to-rescue-34-miners-trapped-underg.md)
@@ -113,7 +113,7 @@ A bridegroom in Turkey accidentally kills his father and two aunts while firing 
 
 ##### Anatolian Agency
 ### [The Anatolian Agency reports that two Turkish Army soldiers were killed in a roadside bomb explosion in Mardin Province near the Turkish border with Syria. ](/news/2010/08/8/the-anatolian-agency-reports-that-two-turkish-army-soldiers-were-killed-in-a-roadside-bomb-explosion-in-mardin-province-near-the-turkish-bor.md)
-_Context: Anatolian Agency, Mardin Province, Syria, Turkish, Turkish Army_
+_Context: Anatolian Agency, Mardin Province, Syria, Turkey, Turkish Army_
 
 ##### Prime Minister
 ### [Prime Minister of Israel Benjamin Netanyahu orders his attorney-general to find out who leaked embarrassing details about a feud among some of his generals, one of whom is trying to smear his rivals. ](/news/2010/08/8/prime-minister-of-israel-benjamin-netanyahu-orders-his-attorney-general-to-find-out-who-leaked-embarrassing-details-about-a-feud-among-some.md)

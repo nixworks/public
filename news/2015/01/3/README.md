@@ -23,7 +23,7 @@ A Norwegian cargo ship with 19 crew members sank off the coast of Vietnam, with 
 ### [The Singapore-registered cargo ship Hegh Osaka runs aground on Bramble Bank off the coast of the Isle of Wight, in the entrance to Southampton Water. ](/news/2015/01/3/the-singapore-registered-cargo-ship-hoegh-osaka-runs-aground-on-bramble-bank-off-the-coast-of-the-isle-of-wight-in-the-entrance-to-southamp.md)
 The crew of a car transporter, which ran on to a sand bank in the Solent off the Isle of Wight, have been taken to safety, coastguards confirm.
 
-##### Turkish
+##### Turkey
 ### [Turkey permits the building of a Syriac church in Istanbul, the first construction of a Christian house of worship allowed since the founding of the modern republic in 1923. ](/news/2015/01/3/turkey-permits-the-building-of-a-syriac-church-in-istanbul-the-first-construction-of-a-christian-house-of-worship-allowed-since-the-foundin.md)
 The church is for the tiny Syriac community and will be built in the Istanbul suburb of Yesilkoy.
 

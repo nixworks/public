@@ -33,7 +33,7 @@ _Context: 16th Screen Actors Guild Awards, Inglourious Basterds, Jeff Bridges, Q
 
 ##### NRJ Music Awards
 ### [At the NRJ Music Awards in Cannes, France, hip hop band Black Eyed Peas are mistakenly presented with an award for best international group which was intended for Tokio Hotel, while Rihanna falls off the stage during a live performance of "Russian Roulette". ](/news/2010/01/24/at-the-nrj-music-awards-in-cannes-france-hip-hop-band-black-eyed-peas-are-mistakenly-presented-with-an-award-for-best-international-group.md)
-_Context: Black Eyed Peas, Cannes, French, NRJ Music Awards, Rihanna, Russian Roulette, Tokio Hotel_
+_Context: Black Eyed Peas, Cannes, France, NRJ Music Awards, Rihanna, Russian Roulette, Tokio Hotel_
 
 ##### North Korea
 ### [North Korea says any attempt by South Korea to launch pre-emptive strikes against its nuclear facilities will be considered a declaration of war. ](/news/2010/01/24/north-korea-says-any-attempt-by-south-korea-to-launch-pre-emptive-strikes-against-its-nuclear-facilities-will-be-considered-a-declaration-of.md)
@@ -61,7 +61,7 @@ _Context: China, China Daily, Google, United States, cyber attacks, government, 
 
 ##### Gryfino
 ### [One person is killed and three more are injured when an explosion occurs at a thermo-electric plant near Gryfino, Poland. ](/news/2010/01/24/one-person-is-killed-and-three-more-are-injured-when-an-explosion-occurs-at-a-thermo-electric-plant-near-gryfino-poland.md)
-_Context: Gryfino, Poland_
+_Context: Gryfino, Polish_
 
 ##### National Football League
 ### [In the National Football League, the Indianapolis Colts and New Orleans Saints win playoff games to advance to Super Bowl XLIV. ](/news/2010/01/24/in-the-national-football-league-the-indianapolis-colts-and-new-orleans-saints-win-playoff-games-to-advance-to-super-bowl-xliv.md)

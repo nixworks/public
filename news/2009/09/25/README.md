@@ -39,7 +39,7 @@ _Context: China, Nigeria_
 ### [ Four people are charged in Greece over recent bombing attacks, in the first arrests brought against suspected terrorists in several years. ](/news/2009/09/25/four-people-are-charged-in-greece-over-recent-bombing-attacks-in-the-first-arrests-brought-against-suspected-terrorists-in-several-years.md)
 _Context: Greece_
 
-##### Poland
+##### Polish
 ### [ Poland approves a law making chemical castration mandatory for paedophiles. ](/news/2009/09/25/poland-approves-a-law-making-chemical-castration-mandatory-for-paedophiles.md)
 Poland on Friday approved a law making chemical castration mandatory for pedophiles in some cases, sparking criticism from human rights groups.
 

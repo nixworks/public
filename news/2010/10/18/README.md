@@ -41,7 +41,7 @@ Somali Islamist group al-Shabab orders mobile phone companies to stop their popu
 
 ##### PKK
 ### [More than 150 people, including 12 mayors and some politicians, go on trial for alleged links to the Kurdistan Workers' Party (PKK) in Turkey. ](/news/2010/10/18/more-than-150-people-including-12-mayors-and-some-politicians-go-on-trial-for-alleged-links-to-the-kurdistan-workers-party-pkk-in-turke.md)
-_Context: PKK, Turkish_
+_Context: PKK, Turkey_
 
 ##### Philippines
 ### [Five migrant Filipino workers are arrested in Saudi Arabia for filing a labor complaint against their employer according to a Philippine migrant workers' rights group. ](/news/2010/10/18/five-migrant-filipino-workers-are-arrested-in-saudi-arabia-for-filing-a-labor-complaint-against-their-employer-according-to-a-philippine-mig.md)
@@ -87,7 +87,7 @@ _Context: Ha Tinh Province, Vietnam_
 ### [One person is missing and thousands of people have fled as Typhoon Megi, the first supertyphoon of the 2010 Pacific typhoon season, makes landfall in the Philippines. ](/news/2010/10/18/one-person-is-missing-and-thousands-of-people-have-fled-as-typhoon-megi-the-first-supertyphoon-of-the-2010-pacific-typhoon-season-makes-la.md)
 A &quot;super typhoon&quot; strikes the northern Philippines with heavy rain and winds of up to 260km/h (162mph), leaving at least three people dead.
 
-##### French
+##### France
 ### [French strikes intensify ahead of Wednesday's Senate vote on pension reform, with a thousand petrol stations running out of fuel, rail strikes intensifying and truck drivers performing go-slows on highways. ](/news/2010/10/18/french-strikes-intensify-ahead-of-wednesday-s-senate-vote-on-pension-reform-with-a-thousand-petrol-stations-running-out-of-fuel-rail-strik.md)
 * Refinery workers stay on strike, truckers slow roads * Government says will not permit industry blockades * Petrol pumps run dry, police
 

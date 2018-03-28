@@ -43,7 +43,7 @@ _Context: Abu Sayyaf Group, Philippines_
 ### [ In Montevideo, President of Mexico Felipe Calderon and President of Uruguay Tabare Vazquez sign a Strategic Association accord to strengthen political dialogue and bilateral trade relations. ](/news/2009/08/14/in-montevideo-president-of-mexico-felipe-caldera3n-and-president-of-uruguay-tabara-c-va-zquez-sign-a-strategic-association-accord-to-streng.md)
 Mexico president Felipe Calder&oacute;n and Uruguay&rsquo;s Tabare Vazquez signed on Friday in Montevideo a Strategic Association accord to strengthen political dialogue and bilateral trade relations in the framework of the 2004 free trade agreement.
 
-##### Poland
+##### Polish
 ### [ The remains of over 2,000 people discovered in Poland's largest mass grave from World War II are reburied in a military cemetery. ](/news/2009/08/14/the-remains-of-over-2-000-people-discovered-in-poland-s-largest-mass-grave-from-world-war-ii-are-reburied-in-a-military-cemetery.md)
 The remains of more than 2,000 people believed to be German civilians killed at the end of World War II have been reburied in Poland.
 

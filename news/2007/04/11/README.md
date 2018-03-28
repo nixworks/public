@@ -39,9 +39,9 @@ _Context: HD 209458 b, atmosphere, extrasolar planet, water vapor_
 ### [ Former Prime Minister of Bangladesh Sheikh Hasina is charged with murder. ](/news/2007/04/11/former-prime-minister-of-bangladesh-sheikh-hasina-is-charged-with-murder.md)
 _Context: Prime Minister, Sheikh Hasina, murder_
 
-##### Senate
+##### US Senators
 ### [ Former U.S. Senator and prospective presidential candidate Fred Thompson announces he has lymphoma. ](/news/2007/04/11/former-u-s-senator-and-prospective-presidential-candidate-fred-thompson-announces-he-has-lymphoma.md)
-_Context: 2008, Fred Thompson, Senate, lymphoma_
+_Context: 2008, Fred Thompson, US Senators, lymphoma_
 
 ##### Spring
 ### [ A spring snow storm hits the midwestern United States, leading to the cancellation of flights and closure of schools. ](/news/2007/04/11/a-spring-snow-storm-hits-the-midwestern-united-states-leading-to-the-cancellation-of-flights-and-closure-of-schools.md)
@@ -55,9 +55,9 @@ _Context: 2008, Darfur conflict, Joseph Biden, United States Senate Foreign Rela
 ### [ The United States extends the tour of duty for troops in Iraq and Afghanistan from a year to 15 months. ](/news/2007/04/11/the-united-states-extends-the-tour-of-duty-for-troops-in-iraq-and-afghanistan-from-a-year-to-15-months.md)
 _Context: Afghanistan, Iraq, United States, tour of duty_
 
-##### Senate
+##### US Senators
 ### [ The United States Senate votes to ease funding restrictions on stem-cell research but President Bush threatens to veto the bill. ](/news/2007/04/11/the-united-states-senate-votes-to-ease-funding-restrictions-on-stem-cell-research-but-president-bush-threatens-to-veto-the-bill.md)
-_Context: George W. Bush, President, Senate, stem-cell research, veto_
+_Context: George W. Bush, President, US Senators, stem-cell research, veto_
 
 ##### United States Secretary of Defense
 ### [ The United States Secretary of Defense Robert M. Gates meets with the Defense Ministers of the United Kingdom, Australia, Canada, the Netherlands and Denmark as well as officials from Estonia and Romania to discuss progress in Afghanistan in expectation of a Taliban offensive. Two Canadian soldiers are killed when a roadside bomb explodes. ](/news/2007/04/11/the-united-states-secretary-of-defense-robert-m-gates-meets-with-the-defense-ministers-of-the-united-kingdom-australia-canada-the-nethe.md)

@@ -7,9 +7,9 @@ Formats: [HTML](2005/04/15/index.html)  [JSON](2005/04/15/index.json)  [XML](200
 ### [ The European Union denies ruling out lifting an EU arms embargo on the People's Republic of China before June. ](/news/2005/04/15/the-european-union-denies-ruling-out-lifting-an-eu-arms-embargo-on-the-people-s-republic-of-china-before-june.md)
 _Context: China, EU_
 
-##### French
+##### France
 ### [ France plans to introduce biometric ID cards in 2007. ](/news/2005/04/15/france-plans-to-introduce-biometric-id-cards-in-2007.md)
-_Context: French, biometric_
+_Context: France, biometric_
 
 ##### Green Party
 ### [ Green Party of England and Wales unveil radical manifesto aiming at measures against climate change. ](/news/2005/04/15/green-party-of-england-and-wales-unveil-radical-manifesto-aiming-at-measures-against-climate-change.md)
@@ -27,7 +27,7 @@ _Context: Canada, China, Federal Court of Canada, Lai Changxing, refugee, smuggl
 ### [ In Australia, Raymond Williams, former CEO of insurance company HIH Insurance, is jailed for 4 and half years. ](/news/2005/04/15/in-australia-raymond-williams-former-ceo-of-insurance-company-hih-insurance-is-jailed-for-4-and-half-years.md)
 _Context: Australia, HIH Insurance, Raymond Williams, insurance, jailed_
 
-##### French
+##### France
 ### [ In France, 20 people die in a fire at the Paris-Opera Hotel. ](/news/2005/04/15/in-france-20-people-die-in-a-fire-at-the-paris-opera-hotel.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 

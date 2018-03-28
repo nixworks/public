@@ -11,7 +11,7 @@ US prosecutors have announced what they say is the biggest international money l
 ### [Australia's ABC News claims that the People's Republic of China hacked plans for the headquarters of the country's spy agency ASIO. ](/news/2013/05/28/australia-s-abc-news-claims-that-the-people-s-republic-of-china-hacked-plans-for-the-headquarters-of-the-country-s-spy-agency-asio.md)
 The Opposition appears to have confirmed an ABC report revealing that ASIO&#039;s new HQ was successfully targeted by Chinese hackers.
 
-##### French
+##### France
 ### [France reports its first death from the Middle East respiratory syndrome coronavirus as Saudi Arabia advises of five new cases. ](/news/2013/05/28/france-reports-its-first-death-from-the-middle-east-respiratory-syndrome-coronavirus-as-saudi-arabia-advises-of-five-new-cases.md)
 France reported its first death from the new SARS-like coronavirus on Tuesday and Saudi Arabia, where the virus first emerged last year, said there were five new cases.
 

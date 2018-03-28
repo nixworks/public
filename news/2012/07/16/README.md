@@ -35,9 +35,9 @@ NBC News has acquired full control of msnbc.com and its digital network from Mic
 ### [The launch of a flagship nuclear power station in Finland is delayed for a third time. ](/news/2012/07/16/the-launch-of-a-flagship-nuclear-power-station-in-finland-is-delayed-for-a-third-time.md)
 The launch of a flagship nuclear power station in Finland is delayed for a third time, Finnish electricity company TVO says.
 
-##### Senate
+##### US Senators
 ### [The United States Senate accuses the HSBC bank of laundering Mexican drug money. ](/news/2012/07/16/the-united-states-senate-accuses-the-hsbc-bank-of-laundering-mexican-drug-money.md)
-_Context: HSBC, Senate_
+_Context: HSBC, US Senators_
 
 ##### Kitty Wells
 ### [American singer Kitty Wells, the "Queen of country music" and the first female singer to have a number one song on the country charts with "It Wasn't God Who Made Honky Tonk Angels", dies of complications of a stroke. ](/news/2012/07/16/american-singer-kitty-wells-the-queen-of-country-music-and-the-first-female-singer-to-have-a-number-one-song-on-the-country-charts-with.md)

@@ -25,7 +25,7 @@ _Context: 1949, Iceland, NATO, National Police, lachrymator, protesters, riots_
 
 ##### Pope
 ### [ Pope Benedict XVI will rescind the excommunications of four bishops consecrated in 1988 by French Archbishop Marcel Lefebvre. ](/news/2009/01/22/pope-benedict-xvi-will-rescind-the-excommunications-of-four-bishops-consecrated-in-1988-by-french-archbishop-marcel-lefebvre.md)
-_Context: 1988, Archbishop, French, Marcel Lefebvre, Pope, Pope Benedict XVI, consecrated, excommunicate, four bishops_
+_Context: 1988, Archbishop, France, Marcel Lefebvre, Pope, Pope Benedict XVI, consecrated, excommunicate, four bishops_
 
 ##### Microsoft
 ### [ Microsoft announces it will cut 5,000 jobs, due to a rapid decline in demand for personal computers. ](/news/2009/01/22/microsoft-announces-it-will-cut-5-000-jobs-due-to-a-rapid-decline-in-demand-for-personal-computers.md)

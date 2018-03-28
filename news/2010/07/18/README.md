@@ -17,7 +17,7 @@ _Context: Benjamin Netanyahu, Chief Rabbinate of Israel, Israeli citizenship, Je
 
 ##### Grenoble
 ### [Police in Grenoble, France arrest four people for attempted murder whom they claim protested the fatal shooting of a man by police. ](/news/2010/07/18/police-in-grenoble-france-arrest-four-people-for-attempted-murder-whom-they-claim-protested-the-fatal-shooting-of-a-man-by-police.md)
-_Context: French, Grenoble_
+_Context: France, Grenoble_
 
 ##### Kuala Lumpur International Airport
 ### [Customs officers at Kuala Lumpur International Airport discover 400 rare tortoises, more than 40 rare tomato frogs and an unidentified number of chameleons bound with masking tape and stuffed into socks allegedly smuggled from Madagascar in the luggage of two women. ](/news/2010/07/18/customs-officers-at-kuala-lumpur-international-airport-discover-400-rare-tortoises-more-than-40-rare-tomato-frogs-and-an-unidentified-numbe.md)

@@ -11,9 +11,9 @@ MELTING ICE is pouring off Greenland and Antarctica into the sea far faster than
 ### [ Nigerian politician Waje Yayok, third in command in Kaduna State, is kidnapped. ](/news/2009/09/24/nigerian-politician-waje-yayok-third-in-command-in-kaduna-state-is-kidnapped.md)
 _Context: Kaduna State, Nigeria, Waje Yayok_
 
-##### Turkish
+##### Turkey
 ### [ Five deaths occur in Turkey as a result of flash floods. ](/news/2009/09/24/five-deaths-occur-in-turkey-as-a-result-of-flash-floods.md)
-_Context: Turkish_
+_Context: Turkey_
 
 ##### Tongan Loloahi Tapui
 ### [ Tongan Loloahi Tapui, the housekeeper of Attorney General for England and Wales Patricia Scotland, Baroness Scotland of Asthal, is arrested alongside her husband over alleged immigration offences. ](/news/2009/09/24/tongan-loloahi-tapui-the-housekeeper-of-attorney-general-for-england-and-wales-patricia-scotland-baroness-scotland-of-asthal-is-arrested.md)
@@ -25,7 +25,7 @@ _Context: G-20 Summit, Pittsburgh_
 
 ##### Massachusetts governor
 ### [ Governor Deval Patrick of Massachusetts chooses former Democratic National Committee chairman Paul G. Kirk, Jr. to replace former Senator Teddy Kennedy on a temporary basis, until elections can be held to choose a permanent replacement to fill the remainder of Kennedy's term. ](/news/2009/09/24/governor-deval-patrick-of-massachusetts-chooses-former-democratic-national-committee-chairman-paul-g-kirk-jr-to-replace-former-senator-t.md)
-_Context: Democratic National Committee, Deval Patrick, Massachusetts, Massachusetts governor, Paul G. Kirk, Jr., Senate, Teddy Kennedy_
+_Context: Democratic National Committee, Deval Patrick, Massachusetts, Massachusetts governor, Paul G. Kirk, Jr., Teddy Kennedy, US Senators_
 
 ##### Bobby Cox
 ### [ Bobby Cox, manager of the professional baseball team Atlanta Braves, announces he will retire at the end of the 2010 season. ](/news/2009/09/24/bobby-cox-manager-of-the-professional-baseball-team-atlanta-braves-announces-he-will-retire-at-the-end-of-the-2010-season.md)

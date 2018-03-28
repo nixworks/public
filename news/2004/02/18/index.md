@@ -21,7 +21,7 @@ _Context: Democratic, George W. Bush, Opinion poll_
 
 ##### Occupation of Iraq
 ### [ Occupation of Iraq: Suicide bombers in two vehicles killed 11 Iraqis and wounded 58 foreign troops and 44 Iraqis near the entrance to a Polish-manned coalition logistics base near the town of Hilla in central Iraq south of Baghdad. ](/news/2004/02/18/occupation-of-iraq-suicide-bombers-in-two-vehicles-killed-11-iraqis-and-wounded-58-foreign-troops-and-44-iraqis-near-the-entrance-to-a-pol.md)
-_Context: Baghdad, Hilla, Iraq, Occupation of Iraq, Poland, Suicide bombers_
+_Context: Baghdad, Hilla, Iraq, Occupation of Iraq, Polish, Suicide bombers_
 
 ##### Iran
 ### [ At least 200 people are reported to have been killed in Iran after rail wagons carrying sulfur, petrol and fertiliser derailed and exploded. The accident happened near the town of Nishapur in Khorasan province. ](/news/2004/02/18/at-least-200-people-are-reported-to-have-been-killed-in-iran-after-rail-wagons-carrying-sulfur-petrol-and-fertiliser-derailed-and-exploded.md)

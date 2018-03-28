@@ -13,7 +13,7 @@ _Context: Iraq, UN Refugee Agency, war on Iraq_
 
 ##### Hu Jintao
 ### [ Hu Jintao, the President of the People's Republic of China, promises to double foreign aid to Africa at a conference attended by many of the top African leaders. ](/news/2006/11/4/hu-jintao-the-president-of-the-people-s-republic-of-china-promises-to-double-foreign-aid-to-africa-at-a-conference-attended-by-many-of-th.md)
-_Context: Africa, Hu Jintao, foreign aid, president_
+_Context: Africa, Chinese President, Hu Jintao, foreign aid_
 
 ##### Prime Minister
 ### [ Former Prime Minister of Israel Ariel Sharon is admitted to the intensive care unit of the Sheba Medical Center near Tel Aviv with a chest infection. ](/news/2006/11/4/former-prime-minister-of-israel-ariel-sharon-is-admitted-to-the-intensive-care-unit-of-the-sheba-medical-center-near-tel-aviv-with-a-chest.md)

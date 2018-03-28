@@ -29,7 +29,7 @@ Indian bloggers have reacted with anger and confusion, accusing the government o
 
 ##### Ben Bernanke
 ### [ Ben Bernanke, Chairman of the United States Federal Reserve warns the United States Senate Banking Committee of the possible impact of rising energy prices on inflation. ](/news/2006/07/19/ben-bernanke-chairman-of-the-united-states-federal-reserve-warns-the-united-states-senate-banking-committee-of-the-possible-impact-of-risi.md)
-_Context: Ben Bernanke, Senate, United States Federal Reserve, inflation_
+_Context: Ben Bernanke, US Senators, United States Federal Reserve, inflation_
 
 ##### Heat wave
 ### [ Record-breaking temperatures continue in a U.S. heat wave and another in Europe, causing at least 18 deaths, including some as far north as the Netherlands. The UK hit a record-breaking July temperature of 36.5C (97.7F) at Wisley. ](/news/2006/07/19/record-breaking-temperatures-continue-in-a-u-s-heat-wave-and-another-in-europe-causing-at-least-18-deaths-including-some-as-far-north-as.md)

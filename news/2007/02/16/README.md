@@ -27,9 +27,9 @@ _Context: Chrysler Group, DaimlerChrysler, General Motors_
 ### [ Abdul Tawala Ibn Ali Alishtari is charged in New York, New York with financing terrorism and material support of terrorism for allegedly passing on money for a training camp in Afghanistan. ](/news/2007/02/16/abdul-tawala-ibn-ali-alishtari-is-charged-in-new-york-new-york-with-financing-terrorism-and-material-support-of-terrorism-for-allegedly-pa.md)
 _Context: Afghanistan, New York, terrorism, training camp_
 
-##### Turkish
+##### Turkey
 ### [ A Turkish court sentences seven convicted Al Qaeda associates to life imprisonment for their involvement in the 2003 Istanbul bombings. ](/news/2007/02/16/a-turkish-court-sentences-seven-convicted-al-qaeda-associates-to-life-imprisonment-for-their-involvement-in-the-2003-istanbul-bombings.md)
-_Context: 2003 Istanbul bombings, Al Qaeda, Turkish, life sentence_
+_Context: 2003 Istanbul bombings, Al Qaeda, Turkey, life sentence_
 
 ##### Jundallah
 ### [ Jundallah militants set off a second bomb in Zahedan, Iran. Firefights with Iranian police ensue. Casualties are unknown. ](/news/2007/02/16/jundallah-militants-set-off-a-second-bomb-in-zahedan-iran-firefights-with-iranian-police-ensue-casualties-are-unknown.md)

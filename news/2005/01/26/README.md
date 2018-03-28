@@ -45,7 +45,7 @@ _Context: Feroz Abbasi, Martin Mubanga, Moazzam Begg, Richard Belmar_
 
 ##### Condoleezza Rice
 ### [ Condoleezza Rice is confirmed in the U.S. Senate by a vote of ](/news/2005/01/26/condoleezza-rice-is-confirmed-in-the-u-s-senate-by-a-vote-of.md)
-_Context: Condoleezza Rice, Senate_
+_Context: Condoleezza Rice, US Senators_
 
 ## [Previous Day...](/news/2005/01/25/index.md)
 

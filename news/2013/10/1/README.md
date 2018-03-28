@@ -17,7 +17,7 @@ _Context: Buddhist, Muslim, Myanmar, Rakhine State_
 
 ##### United States
 ### [U.S. President Barack Obama, the White House Office of Management and Budget, issues a partial shutdown of government agencies after the House and Senate fail to come to an agreement on a spending bill to keep government operations running. ](/news/2013/10/1/u-s-president-barack-obama-the-white-house-office-of-management-and-budget-issues-a-partial-shutdown-of-government-agencies-after-the-hou.md)
-_Context: Barack Obama, Congress, Office of Management and Budget, President, Senate, United States, White House_
+_Context: Barack Obama, Congress, Office of Management and Budget, President, US Senators, United States, White House_
 
 ##### Organisation for the Prohibition of Chemical Weapons
 ### [A team from the Organisation for the Prohibition of Chemical Weapons enters Syria to begin work on dismantling the Assad regime's stockpile of chemical weapons. ](/news/2013/10/1/a-team-from-the-organisation-for-the-prohibition-of-chemical-weapons-enters-syria-to-begin-work-on-dismantling-the-assad-regime-s-stockpile.md)

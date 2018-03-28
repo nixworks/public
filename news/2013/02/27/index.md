@@ -15,7 +15,7 @@ On his final full day as the leader of the Roman Catholic Church, Pope Benedict 
 ### [Archbishop of Glasgow Philip Tartaglia is appointed apostolic administrator of the Roman Catholic Archdiocese of St Andrews and Edinburgh following Monday's resignation of Cardinal Keith O'Brien. ](/news/2013/02/27/archbishop-of-glasgow-philip-tartaglia-is-appointed-apostolic-administrator-of-the-roman-catholic-archdiocese-of-st-andrews-and-edinburgh-fo.md)
 The Archbishop of Glasgow, Philip Tartaglia, is put in temporary charge of the Roman Catholic Archdiocese of St Andrews and Edinburgh.
 
-##### Senate
+##### US Senators
 ### [The United States Senate confirms Jack Lew as the Secretary of the Treasury. ](/news/2013/02/27/the-united-states-senate-confirms-jack-lew-as-the-secretary-of-the-treasury.md)
 The U.S. Senate, late Wednesday, confirmed Jack Lew as the nation’s next Treasury Secretary in a vote of 71-26.
 

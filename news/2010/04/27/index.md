@@ -39,9 +39,9 @@ _Context: 2010 uprising, Kurmanbek Bakiyev, Kyrgyzstan_
 ### [Oh Eun-Sun becomes the first woman to successfully scale all of the world's 14 highest peaks. ](/news/2010/04/27/oh-eun-sun-becomes-the-first-woman-to-successfully-scale-all-of-the-world-s-14-highest-peaks.md)
 _Context: Oh Eun-Sun, highest peaks, scale_
 
-##### Senate
+##### US Senators
 ### [A United States Senate investigation finds that Goldman Sachs made billions of dollars at the expense of its clients during the collapse of the housing market. ](/news/2010/04/27/a-united-states-senate-investigation-finds-that-goldman-sachs-made-billions-of-dollars-at-the-expense-of-its-clients-during-the-collapse-of.md)
-_Context: Goldman Sachs, Senate, housing market_
+_Context: Goldman Sachs, US Senators, housing market_
 
 ##### Smoke bomb
 ### [A smoke bomb is thrown in the Ukrainian parliament during protests after Ukraine's extension of the lease on a Russian naval base in Sevastopol. ](/news/2010/04/27/a-smoke-bomb-is-thrown-in-the-ukrainian-parliament-during-protests-after-ukraine-s-extension-of-the-lease-on-a-russian-naval-base-in-sevasto.md)

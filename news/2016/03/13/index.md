@@ -65,7 +65,7 @@ Attack on L&#039;Etoile du Sud hotel in resort popular with Westerners claimed b
 
 ##### Turkey-PKK conflict (2015-present)
 ### [Turkey declares a curfew in the town of Yuksekova on the border with Iran as Turkish forces prepare an offensive against the PKK. ](/news/2016/03/13/turkey-declares-a-curfew-in-the-town-of-ya1-4ksekova-on-the-border-with-iran-as-turkish-forces-prepare-an-offensive-against-the-pkk.md)
-_Context: Iran, PKK, Turkey-PKK conflict (2015-present), Turkish, Turkish troops, Yuksekova, curfew_
+_Context: Iran, PKK, Turkey, Turkey-PKK conflict (2015-present), Turkish troops, Yuksekova, curfew_
 
 ##### March 2016 Ankara bombing
 ### [An explosion occurs in central Ankara, Turkey, with at least 34 people killed and 125 wounded. ](/news/2016/03/13/an-explosion-occurs-in-central-ankara-turkey-with-at-least-34-people-killed-and-125-wounded.md)

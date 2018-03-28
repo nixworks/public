@@ -7,7 +7,7 @@ Formats: [HTML](2011/12/15/index.html)  [JSON](2011/12/15/index.json)  [XML](201
 ### [The US National Institutes of Health places a temporary moratorium on new studies using chimpanzees in response to a report that claims nearly all medical research on the animals is scientifically unjustified. ](/news/2011/12/15/the-us-national-institutes-of-health-places-a-temporary-moratorium-on-new-studies-using-chimpanzees-in-response-to-a-report-that-claims-near.md)
 The National Institutes of Health placed a temporary moratorium on new studies using chimpanzees after a report said that nearly all medical research on the great apes is scientifically unjustified.
 
-##### Senate
+##### US Senators
 ### [Negotiators from the United States Senate and House of Representatives reach a budget agreement. ](/news/2011/12/15/negotiators-from-the-united-states-senate-and-house-of-representatives-reach-a-budget-agreement.md)
 Congressional negotiators signed off Thursday evening on a $1 trillion spending agreement for 2012 for federal agencies, barely 27 hours before a deadline that could have led to a government shutdown....
 
@@ -15,9 +15,9 @@ Congressional negotiators signed off Thursday evening on a $1 trillion spending 
 ### [A by-election is held in the UK constituency of Feltham and Heston following the death of Labour's Alan Keen. ](/news/2011/12/15/a-by-election-is-held-in-the-uk-constituency-of-feltham-and-heston-following-the-death-of-labour-s-alan-keen.md)
 _Context: Alan Keen, Feltham and Heston, Feltham and Heston by-election, Labour Party_
 
-##### French
+##### France
 ### [A French court convicts Venezuela-born terrorist Carlos the Jackal of organising four deadly attacks in the 1980s. ](/news/2011/12/15/a-french-court-convicts-venezuela-born-terrorist-carlos-the-jackal-of-organising-four-deadly-attacks-in-the-1980s.md)
-_Context: Carlos the Jackal, French, Venezuela_
+_Context: Carlos the Jackal, France, Venezuela_
 
 ##### The Sun
 ### [Former editor of "The Sun" and the "News of the World" Piers Morgan is called to give evidence before the Leveson Inquiry, and will appear next week. ](/news/2011/12/15/former-editor-of-the-sun-and-the-news-of-the-world-piers-morgan-is-called-to-give-evidence-before-the-leveson-inquiry-and-will-appear-n.md)

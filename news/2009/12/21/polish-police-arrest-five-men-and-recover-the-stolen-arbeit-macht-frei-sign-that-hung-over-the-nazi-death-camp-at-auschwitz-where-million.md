@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/21/polish-police-arrest-five-men-and-recover-the-s
 
 ### [2009-12-21](/news/2009/12/21/index.md)
 
-##### Poland
+##### Polish
 #  Polish police arrest five men and recover the stolen "Arbeit macht frei" sign that hung over the Nazi death camp at Auschwitz where millions were murdered by the Nazis during the Holocaust 
 
 
@@ -21,8 +21,8 @@ Formats: [HTML](/news/2009/12/21/polish-police-arrest-five-men-and-recover-the-s
 
 ### Related:
 
-1. [Hours after the Polish so-called Holocaust Law about discussing of historical facts takes effect, the Polish League Against Defamation sues Argentinian newspaper "Pagina-12", which it accuses of suggesting Poland was complicit in the Holocaust. ](/news/2018/03/3/hours-after-the-polish-so-called-holocaust-law-about-discussing-of-historical-facts-takes-effect-the-polish-league-against-defamation-sues.md) _Context: Holocaust, Poland_
-2. [ Police recruit sniffer dogs and detectives in their hunt for the "Arbeit macht frei" sign missing from Auschwitz as appeals for its return are made by Israel, Poland and the European Union. ](/news/2009/12/19/police-recruit-sniffer-dogs-and-detectives-in-their-hunt-for-the-arbeit-macht-frei-sign-missing-from-auschwitz-as-appeals-for-its-return.md) _Context: Arbeit macht frei, Poland_
-3. [ Holocaust survivors, former Red Army soldiers, leaders of more than 40 countries, and other people gather in Oswiecim, Poland for the 60th anniversary of the liberation of the Auschwitz concentration camp where more than 1 million people were killed. ](/news/2005/01/27/holocaust-survivors-former-red-army-soldiers-leaders-of-more-than-40-countries-and-other-people-gather-in-oawiacim-poland-for-the-60t.md) _Context: Holocaust, Poland_
-4. [An explosion followed by a building collapse kills four and injures 20 in Poznan, Poland. ](/news/2018/03/4/an-explosion-followed-by-a-building-collapse-kills-four-and-injures-20-in-poznan-poland.md) _Context: Poland_
-5. [Thousands protest across Poland against the government's proposed restrictions on abortion. ](/news/2018/03/23/thousands-protest-across-poland-against-the-government-s-proposed-restrictions-on-abortion.md) _Context: Poland_
+1. [Hours after the Polish so-called Holocaust Law about discussing of historical facts takes effect, the Polish League Against Defamation sues Argentinian newspaper "Pagina-12", which it accuses of suggesting Poland was complicit in the Holocaust. ](/news/2018/03/3/hours-after-the-polish-so-called-holocaust-law-about-discussing-of-historical-facts-takes-effect-the-polish-league-against-defamation-sues.md) _Context: Holocaust, Polish_
+2. [A letter from 59 US Senators is sent to Polish Prime Minister Mateusz Morawiecki criticising proposed legislation on reparations to Holocaust victims. The Senators say the bill will discriminate against victims and descendants who had emigrated. ](/news/2018/03/26/a-letter-from-59-us-senators-is-sent-to-polish-prime-minister-mateusz-morawiecki-criticising-proposed-legislation-on-reparations-to-holocaus.md) _Context: Holocaust, Polish_
+3. [ Police recruit sniffer dogs and detectives in their hunt for the "Arbeit macht frei" sign missing from Auschwitz as appeals for its return are made by Israel, Poland and the European Union. ](/news/2009/12/19/police-recruit-sniffer-dogs-and-detectives-in-their-hunt-for-the-arbeit-macht-frei-sign-missing-from-auschwitz-as-appeals-for-its-return.md) _Context: Arbeit macht frei, Polish_
+4. [ Holocaust survivors, former Red Army soldiers, leaders of more than 40 countries, and other people gather in Oswiecim, Poland for the 60th anniversary of the liberation of the Auschwitz concentration camp where more than 1 million people were killed. ](/news/2005/01/27/holocaust-survivors-former-red-army-soldiers-leaders-of-more-than-40-countries-and-other-people-gather-in-oawiacim-poland-for-the-60t.md) _Context: Holocaust, Polish_
+5. [An explosion followed by a building collapse kills four and injures 20 in Poznan, Poland. ](/news/2018/03/4/an-explosion-followed-by-a-building-collapse-kills-four-and-injures-20-in-poznan-poland.md) _Context: Polish_

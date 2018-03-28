@@ -13,7 +13,7 @@ As torrential rain continues, dozens die in eastern India and neighbouring Myanm
 
 ##### Malaysia Airlines Flight 370
 ### [Debris suspected to be from Malaysia Airlines Flight 370 that disappeared last year arrives in France for investigation in Toulouse. ](/news/2015/08/1/debris-suspected-to-be-from-malaysia-airlines-flight-370-that-disappeared-last-year-arrives-in-france-for-investigation-in-toulouse.md)
-_Context: French, Malaysia Airlines Flight 370, Toulouse_
+_Context: France, Malaysia Airlines Flight 370, Toulouse_
 
 ##### Puerto Rico
 ### [Puerto Rico fails to make a $58 million bond repayment due today. Gubernatorial Chief of Staff Victor Suarez said the government still hopes to reach an agreement with creditors on renegotiating its debts. ](/news/2015/08/1/puerto-rico-fails-to-make-a-58-million-bond-repayment-due-today-gubernatorial-chief-of-staff-vactor-sua-rez-said-the-government-still-hop.md)

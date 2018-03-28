@@ -7,7 +7,7 @@ Formats: [HTML](2013/04/22/index.html)  [JSON](2013/04/22/index.json)  [XML](201
 ### [The U.S. International Trade Commission sides with Apple against a claim by Google that Apple's popular iPhones violate a Google patent. ](/news/2013/04/22/the-u-s-international-trade-commission-sides-with-apple-against-a-claim-by-google-that-apple-s-popular-iphones-violate-a-google-patent.md)
 Apple Inc scored a win on Monday when the U.S. International Trade Commission ruled that it did not violate a Google patent to make the popular iPhones.
 
-##### UK
+##### British
 ### [UK police announce that they are calling off the search for missing girl April Jones. ](/news/2013/04/22/uk-police-announce-that-they-are-calling-off-the-search-for-missing-girl-april-jones.md)
 A six-month search for the missing five-year-old comes to an end, as police say they have looked everywhere around Machynlleth.
 

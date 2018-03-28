@@ -5,7 +5,7 @@ Formats: [HTML](2008/01/31/index.html)  [JSON](2008/01/31/index.json)  [XML](200
 
 ##### 2008
 ### [ United States presidential election, 2008: Democratic Senators Hillary Clinton and Barack Obama hold the first two-person debate. ](/news/2008/01/31/united-states-presidential-election-2008-democratic-senators-hillary-clinton-and-barack-obama-hold-the-first-two-person-debate.md)
-_Context: 2008, Barack Obama, Democrat, Hillary Clinton, Senate_
+_Context: 2008, Barack Obama, Democrat, Hillary Clinton, US Senators_
 
 ##### French Polynesia
 ### [ All government ministers in French Polynesia resign en masse in solidarity with one of their colleagues, who was fined for corruption. ](/news/2008/01/31/all-government-ministers-in-french-polynesia-resign-en-masse-in-solidarity-with-one-of-their-colleagues-who-was-fined-for-corruption.md)

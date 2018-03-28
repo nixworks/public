@@ -25,7 +25,7 @@ _Context: Hilton Taba, Taba_
 
 ##### President
 ### [ US President George W. Bush and challenger Senator John Kerry meet at Washington University in St. Louis, Missouri, for the second of three U.S. presidential debates. ](/news/2004/10/8/us-president-george-w-bush-and-challenger-senator-john-kerry-meet-at-washington-university-in-st-louis-missouri-for-the-second-of-three.md)
-_Context: George W. Bush, John Kerry, Missouri, President, Senate, St. Louis, U.S. presidential debates, Washington University in St. Louis_
+_Context: George W. Bush, John Kerry, Missouri, President, St. Louis, U.S. presidential debates, US Senators, Washington University in St. Louis_
 
 ## [Previous Day...](/news/2004/10/7/index.md)
 

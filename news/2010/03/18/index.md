@@ -3,9 +3,9 @@ Formats: [HTML](2010/03/18/index.html)  [JSON](2010/03/18/index.json)  [XML](201
 
 ## [2010-03-18](/news/2010/03/18/index.md)
 
-##### French
+##### France
 ### [French photographer Sophie Ristelhueber wins the Deutsche Brse Photography Prize. ](/news/2010/03/18/french-photographer-sophie-ristelhueber-wins-the-deutsche-borse-photography-prize.md)
-_Context: Deutsche Brse Photography Prize, French, Sophie Ristelhueber_
+_Context: Deutsche Brse Photography Prize, France, Sophie Ristelhueber_
 
 ##### Sahil Saeed
 ### [Released kidnapped child Sahil Saeed returns home to Manchester in England. ](/news/2010/03/18/released-kidnapped-child-sahil-saeed-returns-home-to-manchester-in-england.md)
@@ -15,9 +15,9 @@ Sahil Saeed, the five-year-old boy freed by kidnappers in Pakistan after his fam
 ### [Charges occur in The Gambia's attempted coup d'tat to overthrow President Yahya Jammeh. ](/news/2010/03/18/charges-occur-in-the-gambia-s-attempted-coup-d-etat-to-overthrow-president-yahya-jammeh.md)
 _Context: President, The Gambia, Yahya Jammeh_
 
-##### Turkish
+##### Turkey
 ### [Turkey arrests around 20 people as it investigates an alleged attempted coup d'tat. ](/news/2010/03/18/turkey-arrests-around-20-people-as-it-investigates-an-alleged-attempted-coup-d-etat.md)
-_Context: Turkish, coup d'tat_
+_Context: Turkey, coup d'tat_
 
 ##### Thai Society
 ### [A Thai farm worker in Israel is killed by a rocket fired from the Hamas-controlled Palestinian territory of Gaza, according to the Israeli military. ](/news/2010/03/18/a-thai-farm-worker-in-israel-is-killed-by-a-rocket-fired-from-the-hamas-controlled-palestinian-territory-of-gaza-according-to-the-israeli-m.md)

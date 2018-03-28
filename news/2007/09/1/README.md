@@ -77,7 +77,7 @@ _Context: National Assembly of Panama, Panama, Pedro Miguel Gonzalez Pinzon, Uni
 
 ##### Air show
 ### [ Two small planes collide during an air show in Radom, Poland resulting in the deaths of both pilots (Marek Dubkiewicz and Sebastian Chrzaszcz). ](/news/2007/09/1/two-small-planes-collide-during-an-air-show-in-radom-poland-resulting-in-the-deaths-of-both-pilots-marek-dubkiewicz-and-sebastian-chrzas.md)
-_Context: Poland, Radom, air show_
+_Context: Polish, Radom, air show_
 
 ##### United Nations
 ### [ The United Nations launches a food assistance program to assist Iraqi refugees in Syria. ](/news/2007/09/1/the-united-nations-launches-a-food-assistance-program-to-assist-iraqi-refugees-in-syria.md)

@@ -9,7 +9,7 @@ _Context: Politics of Zimbabwe, Teacher, Zimbabwe, strike_
 
 ##### Italy
 ### [ Italian Prime Minister Silvio Berlusconi and French President Nicolas Sarkozy agree to cooperate in reviving nuclear power in Italy. ](/news/2009/02/24/italian-prime-minister-silvio-berlusconi-and-french-president-nicolas-sarkozy-agree-to-cooperate-in-reviving-nuclear-power-in-italy.md)
-_Context: French, Italy, Nicolas Sarkozy, President of France, Prime Minister of Italy, Silvio Berlusconi, nuclear power_
+_Context: France, Italy, Nicolas Sarkozy, President of France, Prime Minister of Italy, Silvio Berlusconi, nuclear power_
 
 ##### United States
 ### [ U.S. President Obama and Japanese Prime Minister Taro Aso pledge to cooperate in stimulating economic demand and combating protectionism. ](/news/2009/02/24/u-s-president-obama-and-japanese-prime-minister-taro-aso-pledge-to-cooperate-in-stimulating-economic-demand-and-combating-protectionism.md)

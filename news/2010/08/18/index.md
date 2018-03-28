@@ -45,7 +45,7 @@ A Colombia court rules a 2009 deal allowing US troops access to army bases is un
 
 ##### Israel
 ### [A court in Israel court jails a man who broke into the Turkish embassy in Tel Aviv and asked for asylum; his lawyer says the man was once an Israeli informer whose life is now under threat. ](/news/2010/08/18/a-court-in-israel-court-jails-a-man-who-broke-into-the-turkish-embassy-in-tel-aviv-and-asked-for-asylum-his-lawyer-says-the-man-was-once-an.md)
-_Context: Israel, Tel Aviv, Turkish_
+_Context: Israel, Tel Aviv, Turkey_
 
 ##### United States
 ### [The United States offers its support for a proposed international commission intent on examining alleged war crimes by the military junta of Burma. ](/news/2010/08/18/the-united-states-offers-its-support-for-a-proposed-international-commission-intent-on-examining-alleged-war-crimes-by-the-military-junta-of.md)

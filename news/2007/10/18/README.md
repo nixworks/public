@@ -11,9 +11,9 @@ _Context: Benazir Bhutto, Karachi, Pakistan, Prime Minister_
 ### [ Ccilia and Nicolas Sarkozy file for divorce. ](/news/2007/10/18/cecilia-and-nicolas-sarkozy-file-for-divorce.md)
 _Context: Ccilia, Nicolas Sarkozy_
 
-##### French
+##### France
 ### [ French commuters face chaos after a public transport strike over proposed changes to pensions of transit workers continue. ](/news/2007/10/18/french-commuters-face-chaos-after-a-public-transport-strike-over-proposed-changes-to-pensions-of-transit-workers-continue.md)
-_Context: French, commuter, pension, public transport_
+_Context: France, commuter, pension, public transport_
 
 ##### Tribal warfare
 ### [ At least four people are killed in three days of tribal warfare near the Grasberg mine in the Papua province of Indonesia. ](/news/2007/10/18/at-least-four-people-are-killed-in-three-days-of-tribal-warfare-near-the-grasberg-mine-in-the-papua-province-of-indonesia.md)
@@ -25,7 +25,7 @@ _Context: BBC, GBP, US$, United Kingdom_
 
 ##### US$
 ### [ Oil prices reach $90 a barrel for the first time due to the low dollar and ongoing tension between Turkey and Iraq. ](/news/2007/10/18/oil-prices-reach-90-a-barrel-for-the-first-time-due-to-the-low-dollar-and-ongoing-tension-between-turkey-and-iraq.md)
-_Context: Iraq, Turkish, US$_
+_Context: Iraq, Turkey, US$_
 
 ## [Previous Day...](/news/2007/10/17/index.md)
 

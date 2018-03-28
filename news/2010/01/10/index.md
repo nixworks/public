@@ -25,7 +25,7 @@ A brother of the president of the United Arab Emirates filmed beating up a forme
 
 ##### Germany
 ### [More than 160 people are trapped in vehicles overnight in Germany, dozens of flights are cancelled, Berlin and Leipzig are buried under 30cm of snow, parts of Schleswig-Holstein remain unreachable. The electricity of 80,000 people is cut off by snow in Poland. Eurostar services are affected in Belgium, Britain and France. ](/news/2010/01/10/more-than-160-people-are-trapped-in-vehicles-overnight-in-germany-dozens-of-flights-are-cancelled-berlin-and-leipzig-are-buried-under-30cm.md)
-_Context: Belgium, Berlin, Eurostar, French, Germany, Leipzig, Poland, Schleswig-Holstein, United Kingdom_
+_Context: Belgium, Berlin, Eurostar, France, Germany, Leipzig, Polish, Schleswig-Holstein, United Kingdom_
 
 ##### China
 ### [China overtakes Germany to become the world's largest exporter. ](/news/2010/01/10/china-overtakes-germany-to-become-the-world-s-largest-exporter.md)

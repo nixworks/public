@@ -73,7 +73,7 @@ Europe clinched a deal on Thursday to give the European Central Bank new powers 
 
 ##### Mark Rothko
 ### [Wlodzimierz Umaniec, who daubed a Mark Rothko painting with black paint in the name of yellowism, is jailed for two years in the UK. ](/news/2012/12/13/waodzimierz-umaniec-who-daubed-a-mark-rothko-painting-with-black-paint-in-the-name-of-yellowism-is-jailed-for-two-years-in-the-uk.md)
-_Context: Mark Rothko, UK_
+_Context: British, Mark Rothko_
 
 ##### The Tallow Candle
 ### ["The Tallow Candle", an early work by Hans Christian Andersen, is found at the bottom of a box in Denmark. ](/news/2012/12/13/the-tallow-candle-an-early-work-by-hans-christian-andersen-is-found-at-the-bottom-of-a-box-in-denmark.md)

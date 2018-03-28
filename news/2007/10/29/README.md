@@ -3,9 +3,9 @@ Formats: [HTML](2007/10/29/index.html)  [JSON](2007/10/29/index.json)  [XML](200
 
 ## [2007-10-29](/news/2007/10/29/index.md)
 
-##### UK
+##### British
 ### [ One of two men alleged to be involved in a gay-sex-and-drugs blackmail plot against a minor member of the British Royal Family will appear in court this week. ](/news/2007/10/29/one-of-two-men-alleged-to-be-involved-in-a-gay-sex-and-drugs-blackmail-plot-against-a-minor-member-of-the-british-royal-family-will-appear.md)
-_Context: Royal Family, UK_
+_Context: British, Royal Family_
 
 ##### Kasereka Kabamba
 ### [ Kasereka Kabamba, a Mai Mai militia leader in the Democratic Republic of the Congo, surrenders to Nord-Kivu Army Chief Vainqueur Mayala. Kabamba maintains his forces fought against rebels loyal to Laurent Kabila, in the service of the government. ](/news/2007/10/29/kasereka-kabamba-a-mai-mai-militia-leader-in-the-democratic-republic-of-the-congo-surrenders-to-nord-kivu-army-chief-vainqueur-mayala-ka.md)
@@ -19,9 +19,9 @@ _Context: Borlnge, Sweden, bank robbery_
 ### [ The Central Committee of the Communist Party of China announces that new Politburo Standing Committee member Li Keqiang has left his post as party secretary of Liaoning and is succeeded by Liaoning Governor Zhang Wenyue. ](/news/2007/10/29/the-central-committee-of-the-communist-party-of-china-announces-that-new-politburo-standing-committee-member-li-keqiang-has-left-his-post-a.md)
 Regulators hailed the arrests, made during a nationwide crackdown on tainted food, drugs and agricultural products, as a major step forward for consumer safety.
 
-##### UK
+##### British
 ### [ The UK embassy in Baku, Azerbaijan, is closed as a precaution after a terrorist attack in the city is prevented. The US embassy also closes its doors after the Azerbaijan Government reports of the thwarting of a "large-scale, horrifying terror attack." ](/news/2007/10/29/the-uk-embassy-in-baku-azerbaijan-is-closed-as-a-precaution-after-a-terrorist-attack-in-the-city-is-prevented-the-us-embassy-also-closes.md)
-_Context: Azerbaijan, Baku, UK, embassy_
+_Context: Azerbaijan, Baku, British, embassy_
 
 ##### Salim Aliyow Ibrow
 ### [ Salim Aliyow Ibrow becomes Prime Minister of Somalia in the Transitional Federal Government as the embattled Ali Mohamed Ghedi resigns. ](/news/2007/10/29/salim-aliyow-ibrow-becomes-prime-minister-of-somalia-in-the-transitional-federal-government-as-the-embattled-ali-mohamed-ghedi-resigns.md)

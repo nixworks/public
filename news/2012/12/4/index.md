@@ -11,9 +11,9 @@ NASA plans to send another robotic explorer to the Red Planet in 2020, building 
 ### [One hundred thousand people protest outside the President of Egypt's palace over proposed constitutional changes. ](/news/2012/12/4/one-hundred-thousand-people-protest-outside-the-president-of-egypt-s-palace-over-proposed-constitutional-changes.md)
 _Context: Draft constitution, President_
 
-##### Senate
+##### US Senators
 ### [The United States Senate fails to ratify the United Nations Convention on the Rights of Persons with Disabilities, with the motion failing to win the two-thirds majority. ](/news/2012/12/4/the-united-states-senate-fails-to-ratify-the-united-nations-convention-on-the-rights-of-persons-with-disabilities-with-the-motion-failing-t.md)
-_Context: Convention on the Rights of Persons with Disabilities, Senate, United Nations_
+_Context: Convention on the Rights of Persons with Disabilities, US Senators, United Nations_
 
 ##### Commonwealth of Nations
 ### [All members of the Commonwealth of Nations which have the British Monarch as their head of state agree to a bill that will change the rules on royal succession rules which currently favour a male heir. ](/news/2012/12/4/all-members-of-the-commonwealth-of-nations-which-have-the-british-monarch-as-their-head-of-state-agree-to-a-bill-that-will-change-the-rules.md)

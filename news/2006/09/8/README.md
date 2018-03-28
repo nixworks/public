@@ -23,9 +23,9 @@ _Context: LED, Millennium Technology Prize, Shuji Nakamura, Sir Timothy John Ber
 ### [ Missing United States Air Force officer Major Jill Metzger who disappeared in Bishkek, Kyrgyzstan earlier this week is found in good health. Metzger says she was kidnapped by three men and a woman. ](/news/2006/09/8/missing-united-states-air-force-officer-major-jill-metzger-who-disappeared-in-bishkek-kyrgyzstan-earlier-this-week-is-found-in-good-health.md)
 _Context: Bishkek, Jill Metzger, Kyrgyzstan, U.S. Air Force_
 
-##### Senate
+##### US Senators
 ### [ The United States Senate states there is no evidence of formal links between Iraqi ex-leader Saddam Hussein and al-Qaeda leaders in Iraq prior to the 2003 Iraq War. ](/news/2006/09/8/the-united-states-senate-states-there-is-no-evidence-of-formal-links-between-iraqi-ex-leader-saddam-hussein-and-al-qaeda-leaders-in-iraq-pr.md)
-_Context: Iraq, Iraq War, Saddam Hussein, Senate, al-Qaeda_
+_Context: Iraq, Iraq War, Saddam Hussein, US Senators, al-Qaeda_
 
 ##### NGO
 ### [ The non-governmental organization Freedom House ranks Burma, Cuba, Libya, North Korea, Sudan, Syria, Turkmenistan, and Uzbekistan as the worst violators of human rights. FH also cited Tibet and Chechnya as areas of intense repression. ](/news/2006/09/8/the-non-governmental-organization-freedom-house-ranks-burma-cuba-libya-north-korea-sudan-syria-turkmenistan-and-uzbekistan-as-the-wo.md)

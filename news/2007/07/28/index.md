@@ -9,7 +9,7 @@ _Context: Rwanda, capital punishment_
 
 ##### Bernard Kouchner
 ### [ Bernard Kouchner, the French Foreign Minister, arrives in Lebanon to reduce tensions between the Prime Minister of Lebanon Fouad Siniora and the pro-Syrian opposition. ](/news/2007/07/28/bernard-kouchner-the-french-foreign-minister-arrives-in-lebanon-to-reduce-tensions-between-the-prime-minister-of-lebanon-fouad-siniora-an.md)
-_Context: Bernard Kouchner, Fouad Siniora, French, Lebanese, Prime Minister of Lebanon, Syria_
+_Context: Bernard Kouchner, Fouad Siniora, France, Lebanese, Prime Minister of Lebanon, Syria_
 
 ##### Mohamed Haneef
 ### [ Dr Mohamed Haneef, the Indian doctor freed in Australia of supporting terrorism, indicates that he would like to return to India as soon as possible. He later received clearance from the Australian Government to leave tonight. ](/news/2007/07/28/dr-mohamed-haneef-the-indian-doctor-freed-in-australia-of-supporting-terrorism-indicates-that-he-would-like-to-return-to-india-as-soon-as.md)
@@ -21,7 +21,7 @@ _Context: Islamabad, Lal Masjid, Pakistan, suicide bombing_
 
 ##### War in Afghanistan (2001-present)
 ### [ War in Afghanistan: A British soldier is killed by a rocket attack in the Helmand Province. ](/news/2007/07/28/war-in-afghanistan-a-british-soldier-is-killed-by-a-rocket-attack-in-the-helmand-province.md)
-_Context: Helmand Province, UK, War in Afghanistan (2001-present), rocket_
+_Context: British, Helmand Province, War in Afghanistan (2001-present), rocket_
 
 ##### Summer 2007 United Kingdom floods
 ### [ The death toll from the Summer 2007 United Kingdom floods rises to nine as police find a body near Tewkesbury in Gloucestershire. ](/news/2007/07/28/the-death-toll-from-the-summer-2007-united-kingdom-floods-rises-to-nine-as-police-find-a-body-near-tewkesbury-in-gloucestershire.md)

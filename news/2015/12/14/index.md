@@ -45,7 +45,7 @@ Global equity markets swung between gains and losses on Monday, as volatile oil 
 
 ##### 2015 PKK rebellion
 ### [At least seven people are killed in clashes between Turkish security forces and Kurdish protesters across southeast Turkey, as Turkish authorities declare new curfews across the restive region. According to the Human Rights Foundation of Turkey, 52 curfews have been imposed since mid-August by Turkish authorities across seven Turkish provinces in the region, placing around 1.3 million people under curfew. ](/news/2015/12/14/at-least-seven-people-are-killed-in-clashes-between-turkish-security-forces-and-kurdish-protesters-across-southeast-turkey-as-turkish-autho.md)
-_Context: 2015 PKK rebellion, Human Rights Foundation of Turkey, Kurds, Turkish, Turkish provinces_
+_Context: 2015 PKK rebellion, Human Rights Foundation of Turkey, Kurds, Turkey, Turkish provinces_
 
 ##### Syrian Civil War
 ### [The Syrian Army backed by Hezbollah fighters retakes a key airbase on the eastern outskirts of Damascus. The Marj al-Sultan airbase had been under rebel control since November 2012. ](/news/2015/12/14/the-syrian-army-backed-by-hezbollah-fighters-retakes-a-key-airbase-on-the-eastern-outskirts-of-damascus-the-marj-al-sultan-airbase-had-been.md)

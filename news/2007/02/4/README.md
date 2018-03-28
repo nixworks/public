@@ -33,7 +33,7 @@ _Context: American military, Iran_
 
 ##### Global spread of bird flu
 ### [ Global spread of bird flu: UK authorities incinerate more than 50,000 turkeys as they are working to contain the bird flu. ](/news/2007/02/4/global-spread-of-bird-flu-uk-authorities-incinerate-more-than-50-000-turkeys-as-they-are-working-to-contain-the-bird-flu.md)
-_Context: Global spread of bird flu, UK, bird flu_
+_Context: British, Global spread of bird flu, bird flu_
 
 ##### Floods
 ### [ At least 20 people are killed and 340,000 are made homeless by floods in the Indonesian capital, Jakarta. ](/news/2007/02/4/at-least-20-people-are-killed-and-340-000-are-made-homeless-by-floods-in-the-indonesian-capital-jakarta.md)

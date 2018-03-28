@@ -19,9 +19,9 @@ _Context: Argentina, Buenos Aires, Dolores, Mar del Plata_
 ### [ The Socialist Workers' Party wins the Spanish general election, with the People's Party conceding defeat. ](/news/2008/03/9/the-socialist-workers-party-wins-the-spanish-general-election-with-the-people-s-party-conceding-defeat.md)
 _Context: People's Party, Socialist Workers' Party, Spanish, general election_
 
-##### French
+##### France
 ### [ French voters go to the polls for the municipal elections. ](/news/2008/03/9/french-voters-go-to-the-polls-for-the-municipal-elections.md)
-_Context: 2008 municipal elections, French_
+_Context: 2008 municipal elections, France_
 
 ##### Venezuela
 ### [ Venezuela announces that it will reopen its embassy in Colombia and welcome back Colombian diplomats expelled during the regional diplomatic crisis. ](/news/2008/03/9/venezuela-announces-that-it-will-reopen-its-embassy-in-colombia-and-welcome-back-colombian-diplomats-expelled-during-the-regional-diplomati.md)

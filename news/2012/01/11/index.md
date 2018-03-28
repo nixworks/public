@@ -11,9 +11,9 @@ _Context: President, Republican candidates, South Carolina, South Carolina prima
 ### [Joran van der Sloot pleads guilty to killing a Peruvian woman. ](/news/2012/01/11/joran-van-der-sloot-pleads-guilty-to-killing-a-peruvian-woman.md)
 _Context: Joran van der Sloot, Peruvian_
 
-##### French
+##### France
 ### [A French journalist is killed, along with eight others, by a mortar in the Syrian city of Homs. ](/news/2012/01/11/a-french-journalist-is-killed-along-with-eight-others-by-a-mortar-in-the-syrian-city-of-homs.md)
-_Context: French, Homs, Mortar, Syria_
+_Context: France, Homs, Mortar, Syria_
 
 ##### United States
 ### [The United States denies any involvement in a bomb blast that killed an Iranian scientist. ](/news/2012/01/11/the-united-states-denies-any-involvement-in-a-bomb-blast-that-killed-an-iranian-scientist.md)

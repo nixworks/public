@@ -21,7 +21,7 @@ _Context: Zappos, hacker_
 
 ##### Standard & Poors
 ### [The Standard & Poors credit rating agency lowers its long-term credit rating on the European Financial Stability Facility, the eurozone's bailout fund to help indebted European countries with their finances, from AAA to AA+ following the downgrade of France and Austria, who are two of the fund's backers. ](/news/2012/01/16/the-standard-poors-credit-rating-agency-lowers-its-long-term-credit-rating-on-the-european-financial-stability-facility-the-eurozone-s-ba.md)
-_Context: Austria, European Financial Stability Facility, French, Standard & Poors, credit rating, eurozone_
+_Context: Austria, European Financial Stability Facility, France, Standard & Poors, credit rating, eurozone_
 
 ##### King Center
 ### [The King Center publishes online 200,000 personal papers belonging to Martin Luther King, Jr. to mark his birthday. ](/news/2012/01/16/the-king-center-publishes-online-200-000-personal-papers-belonging-to-martin-luther-king-jr-to-mark-his-birthday.md)

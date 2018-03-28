@@ -23,9 +23,9 @@ _Context: North Korea, South Korea, South Korea's intelligence agency, wave of c
 ### [ Honduras' de facto leader Roberto Micheletti and ousted President Manuel Zelaya agree a deal to end the political crisis, reinstating Zelaya as President. ](/news/2009/10/30/honduras-de-facto-leader-roberto-micheletti-and-ousted-president-manuel-zelaya-agree-a-deal-to-end-the-political-crisis-reinstating-zelay.md)
 _Context: Honduras, Manuel Zelaya, President, Roberto Micheletti, political crisis in the country_
 
-##### French
+##### France
 ### [ Former French President Jacques Chirac is ordered to stand trial on corruption charges. ](/news/2009/10/30/former-french-president-jacques-chirac-is-ordered-to-stand-trial-on-corruption-charges.md)
-_Context: French, Jacques Chirac, President of France, corruption_
+_Context: France, Jacques Chirac, President of France, corruption_
 
 ##### Indigenous Brazilians
 ### [ Native tribesmen in the Amazon Rainforest discover a downed Brazilian military transport plane, finding nine survivors. ](/news/2009/10/30/native-tribesmen-in-the-amazon-rainforest-discover-a-downed-brazilian-military-transport-plane-finding-nine-survivors.md)

@@ -29,7 +29,7 @@ _Context: Syria, drought_
 
 ##### Somalia
 ### [ Somali pirates attack the French Navy replenishment tanker "Somme" (A631) in error, believing it to be a cargo ship. ](/news/2009/10/7/somali-pirates-attack-the-french-navy-replenishment-tanker-somme-a631-in-error-believing-it-to-be-a-cargo-ship.md)
-_Context: French, French naval, Somali pirates, Somalia_
+_Context: France, French naval, Somali pirates, Somalia_
 
 ##### Burma
 ### [ Burmese National League for Democracy leader Aung San Suu Kyi meets for a second time with the ruling junta after her offer to lobby for nations to lift sanctions on the country. ](/news/2009/10/7/burmese-national-league-for-democracy-leader-aung-san-suu-kyi-meets-for-a-second-time-with-the-ruling-junta-after-her-offer-to-lobby-for-na.md)

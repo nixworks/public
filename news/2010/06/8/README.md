@@ -39,7 +39,7 @@ At least two tonnes of cocaine with a street value of some $1bn is seized in The
 ### [Kenneth O'Keefe, an Irish-American living in London who was captured and injured by Israel Defense Forces following last week's raid on a Gaza-bound aid flotilla, threatens legal action after being included on a list of alleged "active terror operatives". ](/news/2010/06/8/kenneth-o-keefe-an-irish-american-living-in-london-who-was-captured-and-injured-by-israel-defense-forces-following-last-week-s-raid-on-a-ga.md)
 An Irish-American who took part in the Gaza aid flotilla has denied he is involved in terror activity, writes MARY FITZGERALD&hellip;
 
-##### Poland
+##### Polish
 ### [Poland legalises chemical castration. ](/news/2010/06/8/poland-legalises-chemical-castration.md)
 Legislation which requires some rapists and paedophiles to undergo chemical castration comes into effect in Poland.
 
@@ -69,7 +69,7 @@ China says it has filed a formal complaint with North Korea about the killing of
 
 ##### International Federation of Red Cross and Red Crescent Societies
 ### [The Red Crescent Society, for the first time since December 2008 and in a joint venture between Iran and Turkey, prepares to send two aid boats of donations and relief workers to Gaza. ](/news/2010/06/8/the-red-crescent-society-for-the-first-time-since-december-2008-and-in-a-joint-venture-between-iran-and-turkey-prepares-to-send-two-aid-bo.md)
-_Context: Gaza Strip, International Federation of Red Cross and Red Crescent Societies, Iran, Turkish_
+_Context: Gaza Strip, International Federation of Red Cross and Red Crescent Societies, Iran, Turkey_
 
 ##### Libya
 ### [Libya orders the United Nations refugee agency, UNHCR, to leave the country for unknown reasons. ](/news/2010/06/8/libya-orders-the-united-nations-refugee-agency-unhcr-to-leave-the-country-for-unknown-reasons.md)

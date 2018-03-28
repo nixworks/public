@@ -5,7 +5,7 @@ Formats: [HTML](2004/12/2/index.html)  [JSON](2004/12/2/index.json)  [XML](2004/
 
 ##### President
 ### [U.S. President George W. Bush nominates Nebraska Governor Mike Johanns to become the next Secretary of Agriculture. If confirmed by the Senate, Johanns would fill the Cabinet position currently held by resigning Secretary Ann Veneman. ](/news/2004/12/2/u-s-president-george-w-bush-nominates-nebraska-governor-mike-johanns-to-become-the-next-secretary-of-agriculture-if-confirmed-by-the-sena.md)
-_Context: Ann Veneman, Cabinet, George W. Bush, Mike Johanns, Nebraska Governor, President, Senate, United States Secretary of Agriculture_
+_Context: Ann Veneman, Cabinet, George W. Bush, Mike Johanns, Nebraska Governor, President, US Senators, United States Secretary of Agriculture_
 
 ##### George Galloway
 ### [British Member of Parliament and anti-war activist George Galloway wins his libel case against the "Daily Telegraph", which during the invasion of Iraq had published a story suggesting that Galloway had been in the pay of Saddam Hussein. ](/news/2004/12/2/british-member-of-parliament-and-anti-war-activist-george-galloway-wins-his-libel-case-against-the-daily-telegraph-which-during-the-invas.md)

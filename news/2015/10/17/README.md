@@ -65,7 +65,7 @@ The Saudi-led air coalition targeting Shia Houthi rebels in Yemen mistakenly hit
 
 ##### 2015 PKK rebellion
 ### [Three Turkish troops, including a lieutenant colonel, are killed following clashes with PKK insurgents around Daglica vlliage, in the southeastern Hakkari Province. At least 17 PKK insurgents were also reportedly killed in the fighting. ](/news/2015/10/17/three-turkish-troops-including-a-lieutenant-colonel-are-killed-following-clashes-with-pkk-insurgents-around-daala-ca-vlliage-in-the-sout.md)
-_Context: 2015 PKK rebellion, Daglica, Hakkari Province, PKK, Turkish_
+_Context: 2015 PKK rebellion, Daglica, Hakkari Province, PKK, Turkey_
 
 ##### Terrorism in Saudi Arabia
 ### [A gunman from the Islamic State opens fire on a Shiite meeting hall in Saudi Arabia, killing five people. ](/news/2015/10/17/a-gunman-from-the-islamic-state-opens-fire-on-a-shiite-meeting-hall-in-saudi-arabia-killing-five-people.md)

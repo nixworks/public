@@ -21,7 +21,7 @@ _Context: Cincinnati, Ohio, U.S. Bank Arena, WWE Raw_
 
 ##### Bratoszewice
 ### [Nine people are killed after a train crash in Bratoszewice in Poland. ](/news/2012/07/30/nine-people-are-killed-after-a-train-crash-in-bratoszewice-in-poland.md)
-_Context: Bratoszewice, Poland_
+_Context: Bratoszewice, Polish_
 
 ##### Power grid failure
 ### [A power grid failure in Delhi leaves more than 300 million people without power in northern India. Minister for Power Sushilkumar Shinde announces that all those affected should have power restored within "hours". ](/news/2012/07/30/a-power-grid-failure-in-delhi-leaves-more-than-300-million-people-without-power-in-northern-india-minister-for-power-sushilkumar-shinde-ann.md)

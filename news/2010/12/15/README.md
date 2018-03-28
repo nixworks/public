@@ -21,7 +21,7 @@ Representatives from Mastercard and Visa were called before a parliamentary comm
 
 ##### Cuba
 ### [Cuba refuses to grant a visa to dissident Guillermo Farias so that he could receive the Sakharov Prize in France. ](/news/2010/12/15/cuba-refuses-to-grant-a-visa-to-dissident-guillermo-farinas-so-that-he-could-receive-the-sakharov-prize-in-france.md)
-_Context: Cuba, French, Guillermo Farias, Sakharov Prize, visa_
+_Context: Cuba, France, Guillermo Farias, Sakharov Prize, visa_
 
 ##### Alassane Ouattara
 ### [An alliance of opposition parties that endorse the presidency of Alassane Ouattara in the Ivory Coast call for mass protests, following the presidential election. ](/news/2010/12/15/an-alliance-of-opposition-parties-that-endorse-the-presidency-of-alassane-ouattara-in-the-ivory-coast-call-for-mass-protests-following-the.md)

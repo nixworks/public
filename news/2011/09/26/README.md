@@ -7,7 +7,7 @@ Formats: [HTML](2011/09/26/index.html)  [JSON](2011/09/26/index.json)  [XML](201
 ### [The Prime Minister of Spain Jos Luis Rodrguez Zapatero dissolves the Cortes Generales and calls a general election for November 20. ](/news/2011/09/26/the-prime-minister-of-spain-jose-luis-rodriguez-zapatero-dissolves-the-cortes-generales-and-calls-a-general-election-for-november-20.md)
 _Context: Jos Luis Rodrguez Zapatero, Prime Minister, Spanish Parliament, general election_
 
-##### Senate
+##### US Senators
 ### [The United States Senate reaches a temporary deal to avoid a government shutdown. ](/news/2011/09/26/the-united-states-senate-reaches-a-temporary-deal-to-avoid-a-government-shutdown.md)
 FEMA now says money could last through the week
 

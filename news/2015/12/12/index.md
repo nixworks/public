@@ -7,9 +7,9 @@ Formats: [HTML](2015/12/12/index.html)  [JSON](2015/12/12/index.json)  [XML](201
 ### [Pro-Russian opposition parties protest against Montenegro's NATO membership, demanding a referendum on the issue. ](/news/2015/12/12/pro-russian-opposition-parties-protest-against-montenegro-s-nato-membership-demanding-a-referendum-on-the-issue.md)
 Several thousand supporters of pro-Russian opposition parties protested Saturday against Montenegro&#x27;s NATO membership, demanding a referendum over the issue. &quot;If the referendum is avoided and there is a bid to fraudulently pass the decision (on NATO membership) in parliament, Montenegro wi...
 
-##### Poland
+##### Polish
 ### [Poland protests: Thousands march against the Law and Justice (PiS) party in Warsaw, with an estimated 50,000, and other cities protesting President Andrzej Duda and the country's new conservative government appointing new Constitutional Tribunal judges who are loyal to the PiS. ](/news/2015/12/12/poland-protests-thousands-march-against-the-law-and-justice-pis-party-in-warsaw-with-an-estimated-50-000-and-other-cities-protesting-pr.md)
-_Context: Andrzej Duda, Constitutional Court's, Law and Justice, Poland, President, Warsaw_
+_Context: Andrzej Duda, Constitutional Court's, Law and Justice, Polish, President, Warsaw_
 
 ##### Moscow
 ### [Thirty-three people are arrested in Moscow in Constitution Day protests against alleged human rights abuses. ](/news/2015/12/12/thirty-three-people-are-arrested-in-moscow-in-constitution-day-protests-against-alleged-human-rights-abuses.md)

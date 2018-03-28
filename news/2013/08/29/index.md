@@ -39,7 +39,7 @@ _Context: NASDAQ OMX_
 ### [North Korea warns against an underway joint military drill by South Korea and the United States, stating that the exercise could jeopardize a recent easing of tension on the Korean Peninsula. ](/news/2013/08/29/north-korea-warns-against-an-underway-joint-military-drill-by-south-korea-and-the-united-states-stating-that-the-exercise-could-jeopardize.md)
 The U.S. is threatening a nuclear attack against North Korea by flying B-52 bombers during joint military drills with South Korea this month, the North’s National Defense Commission said.
 
-##### French
+##### France
 ### [The French frigate "Chevalier Paul" leaves the port city of Toulon, though the shipping authorities declined to confirm a media report that it was headed to Syria. ](/news/2013/08/29/the-french-frigate-chevalier-paul-leaves-the-port-city-of-toulon-though-the-shipping-authorities-declined-to-confirm-a-media-report-that.md)
 MPs vote against possible military action against Syria, ruling out involvement in US-led attacks, while France says the vote does not change its resolve to act.
 

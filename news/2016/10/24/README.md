@@ -7,9 +7,9 @@ Formats: [HTML](2016/10/24/index.html)  [JSON](2016/10/24/index.json)  [XML](201
 ### [Wendy Demchick-Alloy, a Montgomery County court judge in Norristown, sentences former Pennsylvania Attorney General Kathleen Kane to serve 10 to 23 months in county jail for leaking confidential grand jury information and then lying about it to investigators. Specifically, she was convicted on August 15 on charges of perjury, false swearing, obstruction of justice, official oppression, and conspiracy. ](/news/2016/10/24/wendy-demchick-alloy-a-montgomery-county-court-judge-in-norristown-sentences-former-pennsylvania-attorney-general-kathleen-kane-to-serve-1.md)
 Former Pennsylvania Attorney General Kathleen Kane was sentenced on Monday to serve 10 to 23 months in county jail for leaking confidential grand jury information and then lying about it to investigators.
 
-##### French
+##### France
 ### [France clears the Calais Jungle, relocating six thousand migrants. ](/news/2016/10/24/france-clears-the-calais-jungle-relocating-six-thousand-migrants.md)
-_Context: Calais Jungle, French_
+_Context: Calais Jungle, France_
 
 ##### 2016 French Fairchild Metroliner crash
 ### [A twin-prop Fairchild Metroliner Mark III light aircraft crashes shortly after takeoff from Malta International Airport, killing all five French nationals on board. Malta officials say that the aircraft was part of a French customs surveillance operation tracing routes of illicit trafficking, of humans and drugs on Libyan coasts, and that the flight was heading for the Libyan city of Misrata. ](/news/2016/10/24/a-twin-prop-fairchild-metroliner-mark-iii-light-aircraft-crashes-shortly-after-takeoff-from-malta-international-airport-killing-all-five-fr.md)

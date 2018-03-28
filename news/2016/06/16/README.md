@@ -41,7 +41,7 @@ Switzerland&amp;#39;s Parliament votes to officially withdraw long-dormant appli
 
 ##### Violence at UEFA Euro 2016
 ### [France deports twenty Russian football fans including Alexander Shprygin, the leader of the All-Russia Supporters Union, following violence at the England-Russia match in Marseille. ](/news/2016/06/16/france-deports-twenty-russian-football-fans-including-alexander-shprygin-the-leader-of-the-all-russia-supporters-union-following-violence.md)
-_Context: England, French, Marseille, Russia, Russian, Violence at UEFA Euro 2016_
+_Context: England, France, Marseille, Russia, Russian, Violence at UEFA Euro 2016_
 
 ##### China
 ### [China cancels an invitation to a Taiwanese children's choir after it performed the island's national anthem at last month's inauguration of President Tsai Ing-wen; the Puzangalan Choir consisting of children from the Paiwan aboriginal tribe had been due to take part in a choral festival in Guangdong province in July. ](/news/2016/06/16/china-cancels-an-invitation-to-a-taiwanese-children-s-choir-after-it-performed-the-island-s-national-anthem-at-last-month-s-inauguration-of.md)

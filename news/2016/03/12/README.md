@@ -15,7 +15,7 @@ President Dilma Rousseff of Brazil could lose the support of the biggest party i
 ### [Thousands of people take to the streets of Warsaw and other cities in Poland in protest against the government after it refused to publish the Constitutional Court's ruling that the government cannot change how the court works. ](/news/2016/03/12/thousands-of-people-take-to-the-streets-of-warsaw-and-other-cities-in-poland-in-protest-against-the-government-after-it-refused-to-publish-t.md)
 Thousands of people are protesting in the Polish capital Warsaw as a constitutional crisis between the government and the top court deepens.
 
-##### 2016 Trump campaign
+##### Donald Trump's 2016 election campaign
 ### [A protestor attempts to storm the stage as Donald Trump was talking at a rally in Dayton, Ohio, causing Secret Service agents to jump on the stage and form a wall around the presidential candidate amid the chaos. The suspect was identified as Thomas Dimassimo, 32, and was charged with disorderly conduct and inducing panic, according to Chief Mike Etter of the Dayton Police Department. Dimassimo is a Black Lives Matter activist. ](/news/2016/03/12/a-protestor-attempts-to-storm-the-stage-as-donald-trump-was-talking-at-a-rally-in-dayton-ohio-causing-secret-service-agents-to-jump-on-the.md)
 &quot;I was ready for him, but it&#x27;s much easier if the cops do it,&quot; Trump said after the disturbance ended.
 

@@ -17,7 +17,7 @@ _Context: Kenya, Koobi Fora, anatomy, footprint, gait, human foot_
 
 ##### Scientific journal
 ### [ A study by the scientific journal "Nature" shows that HIV is evolving to resist the human immune system. ](/news/2009/02/26/a-study-by-the-scientific-journal-nature-shows-that-hiv-is-evolving-to-resist-the-human-immune-system.md)
-_Context: ''Nature'', Evolution, HIV, human immune system, resist, scientific journal_
+_Context: Evolution, HIV, Nature Astronomy, human immune system, resist, scientific journal_
 
 ##### University of Reading
 ### [ The University of Reading identifies the oldest words in the English language. ](/news/2009/02/26/the-university-of-reading-identifies-the-oldest-words-in-the-english-language.md)

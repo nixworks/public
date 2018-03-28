@@ -41,7 +41,7 @@ Rescue teams on Saturday struggled to reach villages devastated by a massive mud
 
 ##### Refugee immigration to Germany
 ### [ The Greek coast guard and the European Union border agency Frontex, in six separate operations, rescue a total of 383 migrants attempting to sail from Turkey to the eastern Greek islands. ](/news/2015/11/7/the-greek-coast-guard-and-the-european-union-border-agency-frontex-in-six-separate-operations-rescue-a-total-of-383-migrants-attempting-t.md)
-_Context: EU, Frontex, Hellenic Coast Guard, Turkish, eastern Greek islands, refugee immigration to Germany_
+_Context: EU, Frontex, Hellenic Coast Guard, Turkey, eastern Greek islands, refugee immigration to Germany_
 
 ##### Flight 9268
 ### [ A sudden noise immediately before the "black box" flight data recorder went dark indicates the plane was brought down by a bomb, according to unnamed sources. Officially, Ayman el-Muqadem says the Egyptian investigative team is "considering all possible scenarios for the cause of the accident" and has not yet reached any conclusions. ](/news/2015/11/7/a-sudden-noise-immediately-before-the-black-box-flight-data-recorder-went-dark-indicates-the-plane-was-brought-down-by-a-bomb-according.md)
@@ -57,7 +57,7 @@ Infrared thermography indicates a hidden chamber in the tomb of King Tutankhamen
 
 ##### University of Sydney
 ### [The University of Sydney's Australian Archaeological Mission, excavating at a UNESCO World Heritage Site on the southwest coast of the Mediterranean island of Cyprus, discover Cyprus's oldest theatre. Located in the ancient city of Nea Paphos (capital of Cyprus at the time), it is a Hellenistic-Roman structure believed to have been in use for about six and a half centuries, from c. 300 B.C. until its final destruction in the earthquakes of A.D. 365. The Roman columns are made of granite from quarries in Troad, Turkey. ](/news/2015/11/7/the-university-of-sydney-s-australian-archaeological-mission-excavating-at-a-unesco-world-heritage-site-on-the-southwest-coast-of-the-medit.md)
-_Context: Cyprus, Hellenistic, Mediterranean Sea, Nea Paphos, Roman, Troad, Turkish, UNESCO World Heritage Site, University of Sydney, granite_
+_Context: Cyprus, Hellenistic, Mediterranean Sea, Nea Paphos, Roman, Troad, Turkey, UNESCO World Heritage Site, University of Sydney, granite_
 
 ##### Iraqi Civil War (2014-present)
 ### [Bombs in and around Baghdad kill at least nine people, police and medical sources say. There is no immediate claim of responsibility. ](/news/2015/11/7/bombs-in-and-around-baghdad-kill-at-least-nine-people-police-and-medical-sources-say-there-is-no-immediate-claim-of-responsibility.md)

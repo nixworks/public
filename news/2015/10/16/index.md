@@ -53,7 +53,7 @@ Appeals court brushes off Authors Guild, says snippet searches are just fine
 
 ##### Spillover of the Syrian Civil War
 ### [Turkey says it has shot down a drone near the Syrian border after it failed to leave Turkish airspace. ](/news/2015/10/16/turkey-says-it-has-shot-down-a-drone-near-the-syrian-border-after-it-failed-to-leave-turkish-airspace.md)
-_Context: Spillover of the Syrian Civil War, Syrian border, Turkish, drone_
+_Context: Spillover of the Syrian Civil War, Syrian border, Turkey, drone_
 
 ##### The battle for Aleppo
 ### [Syrian Army forces supported by Russian planes attack insurgents south of the city of Aleppo. ](/news/2015/10/16/syrian-army-forces-supported-by-russian-planes-attack-insurgents-south-of-the-city-of-aleppo.md)

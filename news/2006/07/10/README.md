@@ -55,9 +55,9 @@ _Context: Geosynchronous Satellite Launch Vehicle, INSAT 4C, Indian Space Resear
 ### [ Chief Judge Thomas F. Hogan rules that a Federal Bureau of Investigation raid on the Capitol Hill office of Representative William J. Jefferson was legal. ](/news/2006/07/10/chief-judge-thomas-f-hogan-rules-that-a-federal-bureau-of-investigation-raid-on-the-capitol-hill-office-of-representative-william-j-jeffe.md)
 Follow the StarTribune for the news, photos and videos from the Twin Cities and beyond.
 
-##### UK
+##### British
 ### [ Hundreds of thousands of children are potentially fingerprinted in the UK, some as young as five years old and without parental consent. ](/news/2006/07/10/hundreds-of-thousands-of-children-are-potentially-fingerprinted-in-the-uk-some-as-young-as-five-years-old-and-without-parental-consent.md)
-_Context: UK_
+_Context: British_
 
 ##### United Kingdom
 ### [ The United Kingdom unveils a new terror alert status system, similar to the United States' Homeland Security Advisory System. It is currently at "severe" on a scale of low, moderate, substantial, severe and critical. ](/news/2006/07/10/the-united-kingdom-unveils-a-new-terror-alert-status-system-similar-to-the-united-states-homeland-security-advisory-system-it-is-current.md)

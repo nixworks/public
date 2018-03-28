@@ -19,7 +19,7 @@ _Context: Albuquerque, New Mexico, United States_
 ### [Four people are killed when a small bridge collapses near Thailand's ancient capital of Ayutthaya. ](/news/2013/04/28/four-people-are-killed-when-a-small-bridge-collapses-near-thailand-s-ancient-capital-of-ayutthaya.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-##### French
+##### France
 ### [At least three people die and fourteen are injured when an apartment building in the French city of Reims collapses after a suspected gas explosion, leaving people trapped under debris. ](/news/2013/04/28/at-least-three-people-die-and-fourteen-are-injured-when-an-apartment-building-in-the-french-city-of-reims-collapses-after-a-suspected-gas-ex.md)
 At least two people have died and nine were injured when an apartment building in the French city of Reims collapsed after a suspected gas explosion.
 

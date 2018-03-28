@@ -37,7 +37,7 @@ _Context: Roj TV_
 
 ##### Iran
 ### [Iran's foreign ministry criticises state media for branding French first lady Carla Bruni as a "prostitute" over her support for Sakineh Mohammadi Ashtiani who faces death by stoning after being convicted of adultery. ](/news/2010/08/31/iran-s-foreign-ministry-criticises-state-media-for-branding-french-first-lady-carla-bruni-as-a-prostitute-over-her-support-for-sakineh-moh.md)
-_Context: Carla Bruni, French, Iran, Sakineh Mohammadi Ashtiani, adultery, stoning_
+_Context: Carla Bruni, France, Iran, Sakineh Mohammadi Ashtiani, adultery, stoning_
 
 ##### Russia
 ### [The Russian embassy in the Belarussian capital Minsk is attacked with firebombs; Russia says the incident is "outrageous". ](/news/2010/08/31/the-russian-embassy-in-the-belarussian-capital-minsk-is-attacked-with-firebombs-russia-says-the-incident-is-outrageous.md)

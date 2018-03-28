@@ -3,9 +3,9 @@ Formats: [HTML](2005/06/11/index.html)  [JSON](2005/06/11/index.json)  [XML](200
 
 ## [2005-06-11](/news/2005/06/11/index.md)
 
-##### Poland
+##### Polish
 ### [ In Poland, gay rights activists defy ban and march in the streets of Warsaw ](/news/2005/06/11/in-poland-gay-rights-activists-defy-ban-and-march-in-the-streets-of-warsaw.md)
-_Context: Poland, Warsaw, gay rights_
+_Context: Polish, Warsaw, gay rights_
 
 ##### Portugal
 ### [ In Portugal, former prime minister Vasco Gonalves, one of the figures of the Carnation Revolution, dies ](/news/2005/06/11/in-portugal-former-prime-minister-vasco-goncalves-one-of-the-figures-of-the-carnation-revolution-dies.md)

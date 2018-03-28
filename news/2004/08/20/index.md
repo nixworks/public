@@ -13,7 +13,7 @@ _Context: Kathmandu, Maoist, Maoist supporters, Nepal, bomb, police officer_
 
 ##### Homeland Security
 ### [ Homeland Security official Asa Hutchinson apologizes for a database mix-up that causes U.S. Senator Ted Kennedy to be held up at airline gates three times, on suspicion that he is a terrorist. ](/news/2004/08/20/homeland-security-official-asa-hutchinson-apologizes-for-a-database-mix-up-that-causes-u-s-senator-ted-kennedy-to-be-held-up-at-airline-ga.md)
-_Context: Asa Hutchinson, Homeland Security, Senate, Ted Kennedy, airline, database, terrorist_
+_Context: Asa Hutchinson, Homeland Security, Ted Kennedy, US Senators, airline, database, terrorist_
 
 ##### Palestinian
 ### [ Three individuals in the United States are arrested and charged with supporting the Palestinian militant group Hamas over a 15-year period. ](/news/2004/08/20/three-individuals-in-the-united-states-are-arrested-and-charged-with-supporting-the-palestinian-militant-group-hamas-over-a-15-year-period.md)

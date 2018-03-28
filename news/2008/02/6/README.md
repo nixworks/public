@@ -11,9 +11,9 @@ _Context: Centers for Disease Control, HIV_
 ### [ President of Italy Giorgio Napolitano dismisses the parliament; the cabinet sets early elections for 13 and 14 April. ](/news/2008/02/6/president-of-italy-giorgio-napolitano-dismisses-the-parliament-the-cabinet-sets-early-elections-for-13-and-14-april.md)
 _Context: 13, 14 April, Giorgio Napolitano, President of Italy, parliament, re-elected_
 
-##### Turkish
+##### Turkey
 ### [ The Turkish freighter ship "UND Adriyatik" catches fire off Croatia. ](/news/2008/02/6/the-turkish-freighter-ship-und-adriyatik-catches-fire-off-croatia.md)
-_Context: Croatia, Turkish, UND Adriyatik_
+_Context: Croatia, Turkey, UND Adriyatik_
 
 ##### United States
 ### [ A $158 billion plan to stimulate economic growth in the United States fails in the U.S. Senate on a procedural vote 58-41, just short of the 60 votes needed to advance. ](/news/2008/02/6/a-158-billion-plan-to-stimulate-economic-growth-in-the-united-states-fails-in-the-u-s-senate-on-a-procedural-vote-58-41-just-short-of-th.md)

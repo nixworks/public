@@ -7,9 +7,9 @@ Formats: [HTML](2007/05/6/index.html)  [JSON](2007/05/6/index.json)  [XML](2007/
 ### [ A former World No. 1 ranked tennis player from Belgium, Kim Clijsters, announces her retirement effective immediately. ](/news/2007/05/6/a-former-world-no-1-ranked-tennis-player-from-belgium-kim-clijsters-announces-her-retirement-effective-immediately.md)
 _Context: Belgium, Kim Clijsters, tennis, world number 1_
 
-##### French
+##### France
 ### [ Voters in France go to the polls for the second round of the French presidential election with socialist Sgolne Royal and conservative Nicolas Sarkozy as the two contenders. Exit polls indicate that Nicolas Sarkozy has won the runoff poll in the election with 53% of the vote, beating Sgolne Royal who has 47% of the vote. She later concedes defeat. ](/news/2007/05/6/voters-in-france-go-to-the-polls-for-the-second-round-of-the-french-presidential-election-with-socialist-segolene-royal-and-conservative-ni.md)
-_Context: 2007 presidential election, French, Nicolas Sarkozy, Sgolne Royal_
+_Context: 2007 presidential election, France, Nicolas Sarkozy, Sgolne Royal_
 
 ##### Afghanistan
 ### [ Eight Afghan police are killed in Farah Province in a clash with the Taliban in which at least 17 insurgents are killed or injured. ](/news/2007/05/6/eight-afghan-police-are-killed-in-farah-province-in-a-clash-with-the-taliban-in-which-at-least-17-insurgents-are-killed-or-injured.md)

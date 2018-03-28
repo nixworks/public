@@ -5,7 +5,7 @@ Formats: [HTML](2009/03/11/index.html)  [JSON](2009/03/11/index.json)  [XML](200
 
 ##### President of France
 ### [ President Nicolas Sarkozy announces that France will rejoin NATO's military command. ](/news/2009/03/11/president-nicolas-sarkozy-announces-that-france-will-rejoin-nato-s-military-command.md)
-_Context: French, NATO, Nicolas Sarkozy, President of France, military command_
+_Context: France, NATO, Nicolas Sarkozy, President of France, military command_
 
 ##### Iraq
 ### [ Former Iraqi Intelligence Service Director Ali Hassan al-Majid and former Deputy Prime Minister Tariq Aziz are sentenced to 15 years in jail for crimes against humanity. ](/news/2009/03/11/former-iraqi-intelligence-service-director-ali-hassan-al-majid-and-former-deputy-prime-minister-tariq-aziz-are-sentenced-to-15-years-in-jai.md)

@@ -51,9 +51,9 @@ Heavy snow is still falling across much of Scotland and north-east England, afte
 ### [At least 8 people are killed when a Russian Ilyushin Il-76 cargo plane bound for Khartoum, Sudan, crashes minutes after take off in a residential area of Karachi, Pakistan. ](/news/2010/11/28/at-least-8-people-are-killed-when-a-russian-ilyushin-il-76-cargo-plane-bound-for-khartoum-sudan-crashes-minutes-after-take-off-in-a-reside.md)
 Plane crashed in navy housing colony minutes after taking off; 11 dead.
 
-##### Turkish
+##### Turkey
 ### [Fire damages Turkey's historic Haydarpasa Terminal in Istanbul. ](/news/2010/11/28/fire-damages-turkey-s-historic-haydarpaaa-terminal-in-istanbul.md)
-_Context: Haydarpasa Terminal, Istanbul, Turkish_
+_Context: Haydarpasa Terminal, Istanbul, Turkey_
 
 ##### EU
 ### [European Union finance ministers meet to work out the details for rescuing the Irish economy, and to outline an agreement for a fund to rescue other economically troubled euro-zone nations. ](/news/2010/11/28/european-union-finance-ministers-meet-to-work-out-the-details-for-rescuing-the-irish-economy-and-to-outline-an-agreement-for-a-fund-to-resc.md)

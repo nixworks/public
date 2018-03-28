@@ -5,7 +5,7 @@ Formats: [HTML](2009/08/8/index.html)  [JSON](2009/08/8/index.json)  [XML](2009/
 
 ##### Suicide bomber
 ### [ A suicide bomber detonates a bomb outside the French embassy in Nouakchott, Mauritania, wounding two. The attack is the first suicide bombing in Mauritania's history.](/news/2009/08/8/a-suicide-bomber-detonates-a-bomb-outside-the-french-embassy-in-nouakchott-mauritania-wounding-two-the-attack-is-the-first-suicide-bombi.md)
-_Context: French, Mauritanian, Nouakchott, detonates a bomb, suicide bomber_
+_Context: France, Mauritanian, Nouakchott, detonates a bomb, suicide bomber_
 
 ##### Collide
 ### [ A small plane and a tour helicopter collide over the Hudson River in the United States. ](/news/2009/08/8/a-small-plane-and-a-tour-helicopter-collide-over-the-hudson-river-in-the-united-states.md)

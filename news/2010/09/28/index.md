@@ -61,7 +61,7 @@ A landslide triggered by heavy rain hits a town in southern Mexico, engulfing a 
 
 ##### Oleron
 ### [A 4.5 earthquake shakes offshore of Oleron, France, with no reported casualties. ](/news/2010/09/28/a-4-5-earthquake-shakes-offshore-of-ola-c-ron-france-with-no-reported-casualties.md)
-_Context: French, Oleron_
+_Context: France, Oleron_
 
 ##### Oracle Corporation
 ### [The business-software giant Oracle files a lawsuit in the U.S. District Court in San Francisco alleging that Micron Technology, a manufacturer of memory chips, colluded with other manufacturers to fix prices. ](/news/2010/09/28/the-business-software-giant-oracle-files-a-lawsuit-in-the-u-s-district-court-in-san-francisco-alleging-that-micron-technology-a-manufactur.md)

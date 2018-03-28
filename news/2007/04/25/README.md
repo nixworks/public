@@ -23,17 +23,17 @@ _Context: Japanese police, kidnapping, pro-North Korean group_
 ### [ China detains four United States citizens who were protesting for Tibetan independence and against the Beijing Olympics at the Mount Everest base camp. ](/news/2007/04/25/china-detains-four-united-states-citizens-who-were-protesting-for-tibetan-independence-and-against-the-beijing-olympics-at-the-mount-everes.md)
 _Context: 2008 Summer Olympics, China, Mount Everest, Tibetan independence, United States, base camp_
 
-##### French
+##### France
 ### [ The French centrist and pro-European Union leader of the Union for French Democracy Franois Bayrou announces the foundation of the Democratic Party in the run-up to the 2007 legislative election after his strong showing in the presidential election. ](/news/2007/04/25/the-french-centrist-and-pro-european-union-leader-of-the-union-for-french-democracy-francois-bayrou-announces-the-foundation-of-the-democra.md)
-_Context: 2007 presidential election, Democratic Party, EU, Franois Bayrou, French, Union for French Democracy, centrist, go to the polls_
+_Context: 2007 presidential election, Democratic Party, EU, France, Franois Bayrou, Union for French Democracy, centrist, go to the polls_
 
 ##### Assistant Secretary of State for European and Eurasian Affairs
 ### [ U.S. Deputy Assistant Secretary of State for European and Eurasian Affairs David Kramer, speaking on behalf of the U.S. government, offers to normalize relations with Belarus if it releases imprisoned politicians. ](/news/2007/04/25/u-s-deputy-assistant-secretary-of-state-for-european-and-eurasian-affairs-david-kramer-speaking-on-behalf-of-the-u-s-government-offers.md)
 _Context: Assistant Secretary of State for European and Eurasian Affairs, Belarus, U.S. government_
 
-##### Poland
+##### Polish
 ### [ Former Polish government minister Barbara Blida commits suicide during a police searching of her house ](/news/2007/04/25/former-polish-government-minister-barbara-blida-commits-suicide-during-a-police-searching-of-her-house.md)
-_Context: Barbara Blida, Poland, suicide_
+_Context: Barbara Blida, Polish, suicide_
 
 ##### Boris Yeltsin
 ### [ Boris Yeltsin, the first President of Russia, is buried at Novodevichy Cemetery following a funeral service in central Moscow. ](/news/2007/04/25/boris-yeltsin-the-first-president-of-russia-is-buried-at-novodevichy-cemetery-following-a-funeral-service-in-central-moscow.md)

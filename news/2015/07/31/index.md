@@ -7,7 +7,7 @@ Formats: [HTML](2015/07/31/index.html)  [JSON](2015/07/31/index.json)  [XML](201
 ### [President Benigno Aquino III endorses the presidential candidacy of Interior and Local Government Secretary Mar Roxas in 2016. ](/news/2015/07/31/president-benigno-aquino-iii-endorses-the-presidential-candidacy-of-interior-and-local-government-secretary-mar-roxas-in-2016.md)
 _Context: Mar Roxas, Philippine President, his predecessor_
 
-##### French
+##### France
 ### [France agrees to pay Russia EUR1.16bn in refund and compensation after the cancellation of the sale of two warships following the military intervention in Ukraine. ](/news/2015/07/31/france-agrees-to-pay-russia-a-1-16bn-in-refund-and-compensation-after-the-cancellation-of-the-sale-of-two-warships-following-the-military-i.md)
 President Francois Hollande denies claims France has agreed to pay compensation to Russia for cancelling the sale of two warships.
 

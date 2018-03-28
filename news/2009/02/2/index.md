@@ -41,7 +41,7 @@ _Context: Macy's, United States, cut, department store_
 
 ##### United States
 ### [ The United States Senate confirms Eric Holder as Attorney General. ](/news/2009/02/2/the-united-states-senate-confirms-eric-holder-as-attorney-general.md)
-_Context: Eric Holder, Senate, U.S. Attorney General, United States_
+_Context: Eric Holder, U.S. Attorney General, US Senators, United States_
 
 ## [Previous Day...](/news/2009/02/1/index.md)
 

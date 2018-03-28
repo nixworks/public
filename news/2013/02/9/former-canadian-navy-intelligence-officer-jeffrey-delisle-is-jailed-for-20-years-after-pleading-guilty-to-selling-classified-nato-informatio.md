@@ -16,7 +16,7 @@ A Canadian navy intelligence officer is sentenced to 20 years in prison after pl
 
 ### Related:
 
-1. [Canada expels four Russian diplomats citing solidarity with the United Kingdom following the attempted murder of a former Russian spy in the United Kingdom by a nerve agent. ](/news/2018/03/26/canada-expels-four-russian-diplomats-citing-solidarity-with-the-united-kingdom-following-the-attempted-murder-of-a-former-russian-spy-in-the.md) _Context: Canada, Russia_
+1. [NATO and the government of Australia expel Russian diplomats. ](/news/2018/03/27/nato-and-the-government-of-australia-expel-russian-diplomats.md) _Context: NATO, Russia_
 2. [The United States Senate passed by an overwhelming majority a bill ramping-up sanctions against Russia and against Iran. Language in the measure also reaffirms United States' commitment to NATO. ](/news/2017/06/16/the-united-states-senate-passed-by-an-overwhelming-majority-a-bill-ramping-up-sanctions-against-russia-and-against-iran-language-in-the-mea.md) _Context: NATO, Russia_
 3. [Russian Special Envoy to Afghanistan Zamir Kabulov denies allegations by NATO Commander Gen. Curtis Scaparrotti that Russia was "perhaps" supplying the Taliban. ](/news/2017/03/24/russian-special-envoy-to-afghanistan-zamir-kabulov-denies-allegations-by-nato-commander-gen-curtis-scaparrotti-that-russia-was-perhaps-su.md) _Context: NATO, Russia_
 4. [Eight hundred British Army troops arrive in Estonia as part of NATO's Enhanced Forward Presence to deter Russian aggression in Eastern Europe. ](/news/2017/03/18/eight-hundred-british-army-troops-arrive-in-estonia-as-part-of-nato-s-enhanced-forward-presence-to-deter-russian-aggression-in-eastern-europ.md) _Context: NATO, Russia_

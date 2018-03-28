@@ -43,9 +43,9 @@ _Context: Hugo Chvez, Venezuela, Venezuelan President, gold_
 ### [Verizon Communications says that striking workers who do not return to work by the end of August will lose medical, prescription drug, and related benefits. ](/news/2011/08/17/verizon-communications-says-that-striking-workers-who-do-not-return-to-work-by-the-end-of-august-will-lose-medical-prescription-drug-and-r.md)
 Verizon Communications Inc. told 45,000 striking workers that it will suspend certain benefits at the end of the month if they haven’t returned to their jobs, a move that a union official called a “scare” tactic.
 
-##### Poland
+##### Polish
 ### [Workers at the Polish Przewozy Regionalne passenger rail network commence a 24-hour strike. ](/news/2011/08/17/workers-at-the-polish-przewozy-regionalne-passenger-rail-network-commence-a-24-hour-strike.md)
-_Context: Poland, Przewozy Regionalne_
+_Context: Polish, Przewozy Regionalne_
 
 ##### Afghan President
 ### [A rocket is fired into the compound of the President of Afghanistan in Kabul. ](/news/2011/08/17/a-rocket-is-fired-into-the-compound-of-the-president-of-afghanistan-in-kabul.md)

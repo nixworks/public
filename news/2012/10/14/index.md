@@ -7,7 +7,7 @@ Formats: [HTML](2012/10/14/index.html)  [JSON](2012/10/14/index.json)  [XML](201
 ### [Felix Baumgartner breaks the world human ascent by balloon record before space diving out of the "Red Bull Stratos" helium-filled balloon over Roswell, New Mexico. ](/news/2012/10/14/felix-baumgartner-breaks-the-world-human-ascent-by-balloon-record-before-space-diving-out-of-the-red-bull-stratos-helium-filled-balloon-ov.md)
 _Context: Felix Baumgartner, Red Bull Stratos, Roswell, New Mexico, space diving_
 
-##### Senate
+##### US Senators
 ### [Former United States Senator Arlen Specter, who was vital in several United States Supreme Court nominations, dies at the age of 82, due to complications of non-Hodgkin's lymphoma. ](/news/2012/10/14/former-united-states-senator-arlen-specter-who-was-vital-in-several-united-states-supreme-court-nominations-dies-at-the-age-of-82-due-to.md)
 For most of his 30 years as Pennsylvania&#x27;s longest-serving U.S. senator and prominent moderate in Congress, Arlen Specter was a Republican, though often at odds with the GOP leadership.
 
@@ -29,7 +29,7 @@ Decision ends five-year battle by archive holders hoping to sell trove of papers
 
 ##### President of Mauritania
 ### [President of Mauritania Mohamed Ould Abdel Aziz, shot by troops yesterday, is flown to France. ](/news/2012/10/14/president-of-mauritania-mohamed-ould-abdel-aziz-shot-by-troops-yesterday-is-flown-to-france.md)
-_Context: French, Mohamed Ould Abdel Aziz, President of Mauritania_
+_Context: France, Mohamed Ould Abdel Aziz, President of Mauritania_
 
 ##### Occupy activists
 ### [Occupy activists chain themselves to the pulpit of St Paul's Cathedral in an action of solidarity with Pussy Riot, and read a declaration calling on cathedral authorities to stop neglecting their Christian duty - "In the fight for economic justice, Jesus threw the money changers out of the temple, but you invited them in and instead evicted us." ](/news/2012/10/14/occupy-activists-chain-themselves-to-the-pulpit-of-st-paul-s-cathedral-in-an-action-of-solidarity-with-pussy-riot-and-read-a-declaration-ca.md)

@@ -61,7 +61,7 @@ _Context: Frankfurt Airport, Germany, U.S. Air Force_
 
 ##### Prosecutor
 ### [Prosecutors in Paris, France, say that British fashion designer John Galliano will face criminal charges over alleged anti-Semitic remarks. ](/news/2011/03/2/prosecutors-in-paris-france-say-that-british-fashion-designer-john-galliano-will-face-criminal-charges-over-alleged-anti-semitic-remarks.md)
-_Context: French, John Galliano, Paris, Prosecutor, anti-Semitism, fashion designer_
+_Context: France, John Galliano, Paris, Prosecutor, anti-Semitism, fashion designer_
 
 ##### Dust storm
 ### [A dust storm hits Christchurch, New Zealand, hampering the recovery efforts from the 2011 Canterbury earthquake. ](/news/2011/03/2/a-dust-storm-hits-christchurch-new-zealand-hampering-the-recovery-efforts-from-the-2011-canterbury-earthquake.md)

@@ -3,9 +3,9 @@ Formats: [HTML](2005/06/13/index.html)  [JSON](2005/06/13/index.json)  [XML](200
 
 ## [2005-06-13](/news/2005/06/13/index.md)
 
-##### French
+##### France
 ### [ In France, police arrest serial impostor Frederic Bourdin, who had taken a role of a schoolboy ](/news/2005/06/13/in-france-police-arrest-serial-impostor-frederic-bourdin-who-had-taken-a-role-of-a-schoolboy.md)
-_Context: Frederic Bourdin, French, impostor_
+_Context: France, Frederic Bourdin, impostor_
 
 ##### Morocco
 ### [ 14 people drown off the coast of Morocco in a boat that tried to reach Spain ](/news/2005/06/13/14-people-drown-off-the-coast-of-morocco-in-a-boat-that-tried-to-reach-spain.md)

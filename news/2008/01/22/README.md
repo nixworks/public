@@ -13,7 +13,7 @@ _Context: 80th Academy Awards_
 
 ##### 2008
 ### [ U.S. presidential election, 2008: Former Tennessee Senator Fred Thompson withdraws his candidacy. ](/news/2008/01/22/u-s-presidential-election-2008-former-tennessee-senator-fred-thompson-withdraws-his-candidacy.md)
-_Context: 2008, Fred Thompson, Senate, Tennessee_
+_Context: 2008, Fred Thompson, Tennessee, US Senators_
 
 ##### Bush Administration
 ### [ A study released by two non-profit journalism watchdogs concludes that the Bush administration released "an orchestrated campaign" of 935 erroneous public statements about Iraqi weapons of mass destruction and ties to al Qaeda in the months leading up to the U.S. invasion of Iraq. ](/news/2008/01/22/a-study-released-by-two-non-profit-journalism-watchdogs-concludes-that-the-bush-administration-released-an-orchestrated-campaign-of-935-e.md)

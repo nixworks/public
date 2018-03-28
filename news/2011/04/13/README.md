@@ -5,9 +5,9 @@ Formats: [HTML](2011/04/13/index.html)  [JSON](2011/04/13/index.json)  [XML](201
 
 ##### Permanent Subcommittee on Investigations
 ### [The Permanent Subcommittee on Investigations of the United States Senate releases a report on the financial crisis of 2008, focusing largely on the role played by Goldman Sachs in "creating and selling structured finance products" that had their customers betting in one direction while Goldman itself bet the other way. ](/news/2011/04/13/the-permanent-subcommittee-on-investigations-of-the-united-states-senate-releases-a-report-on-the-financial-crisis-of-2008-focusing-largely.md)
-_Context: Goldman Sachs, Permanent Subcommittee on Investigations, Senate_
+_Context: Goldman Sachs, Permanent Subcommittee on Investigations, US Senators_
 
-##### Senate
+##### US Senators
 ### [Former US Senator Rick Santorum announces that he has formed a committee to explore a bid for the Republican Party nomination in the presidential election. ](/news/2011/04/13/former-us-senator-rick-santorum-announces-that-he-has-formed-a-committee-to-explore-a-bid-for-the-republican-party-nomination-in-the-preside.md)
 Former senator Rick Santorum, who has spent the past few months visiting early primary states and has committed to several GOP primary debates, announced his presidential exploratory committee Wednesday.
 
@@ -67,7 +67,7 @@ _Context: Aleppo, protestors_
 ### [The Malaysiakini Malaysian news website is attacked ahead of elections in Sarawak. ](/news/2011/04/13/the-malaysiakini-malaysian-news-website-is-attacked-ahead-of-elections-in-sarawak.md)
 _Context: Malaysia, Malaysiakini, Sarawak_
 
-##### Civil war
+##### Muammar Gaddafi
 ### [Forces loyal to Muammar Gaddafi continue to attack the city of Misrata. ](/news/2011/04/13/forces-loyal-to-muammar-gaddafi-continue-to-attack-the-city-of-misrata.md)
 Forces loyal to Libyan leader Muammar Gaddafi have launched a new armoured incursion into the besieged rebel city Misrata.
 

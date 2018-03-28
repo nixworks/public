@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/11/28/the-uk-s-home-office-launches-a-ten-week-consul
 
 ### [2012-11-28](/news/2012/11/28/index.md)
 
-##### UK
+##### British
 # The UK's Home Office launches a ten week consultation on whether to introduce a minimum price for the sale of alcohol of 45p a unit. The plans are aimed at tackling binge drinking and other alcohol related problems. 
 
 Ministers are proposing to set a minimum price of 45p a unit for the sale of alcohol in England and Wales as part of a drive to tackle problem drinking.
@@ -16,8 +16,8 @@ Ministers are proposing to set a minimum price of 45p a unit for the sale of alc
 
 ### Related:
 
-1. [All 23 Russian diplomats expelled from the UK and their families depart on a flight to Moscow. ](/news/2018/03/20/all-23-russian-diplomats-expelled-from-the-uk-and-their-families-depart-on-a-flight-to-moscow.md) _Context: UK_
-2. [A study commissioned by the UK government concludes marine plastic debris may treble within ten years, and predicts the "ocean economy" will double to US$3 trillion (GBP2 trillion) by 2030. ](/news/2018/03/20/a-study-commissioned-by-the-uk-government-concludes-marine-plastic-debris-may-treble-within-ten-years-and-predicts-the-ocean-economy-will.md) _Context: UK_
-3. [The United Kingdom's Home Office confirms the return of the blue British passport after the UK leaves the European Union. The new passports will be issued from October 2019. ](/news/2017/12/22/the-united-kingdom-s-home-office-confirms-the-return-of-the-blue-british-passport-after-the-uk-leaves-the-european-union-the-new-passports.md) _Context: Home Office_
-4. [NSA documents show the US and UK spied on Israeli military drones and fighter jets. ](/news/2016/01/30/nsa-documents-show-the-us-and-uk-spied-on-israeli-military-drones-and-fighter-jets.md) _Context: UK_
-5. [A UK regulatory agency, the Financial Conduct Authority announces plans to cap the interest rates that can be set by payday lenders, as well as their default charges. ](/news/2014/07/15/a-uk-regulatory-agency-the-financial-conduct-authority-announces-plans-to-cap-the-interest-rates-that-can-be-set-by-payday-lenders-as-well.md) _Context: UK_
+1. [A British yachtsman falls overboard from "Sun Hung Kai-Scallywag". A search and rescue operation launches, with one ship diverting from over 400 nautical miles away. ](/news/2018/03/26/a-british-yachtsman-falls-overboard-from-sun-hung-kai-scallywag-a-search-and-rescue-operation-launches-with-one-ship-diverting-from-over.md) _Context: British_
+2. [All 23 Russian diplomats expelled from the UK and their families depart on a flight to Moscow. ](/news/2018/03/20/all-23-russian-diplomats-expelled-from-the-uk-and-their-families-depart-on-a-flight-to-moscow.md) _Context: British_
+3. [A study commissioned by the UK government concludes marine plastic debris may treble within ten years, and predicts the "ocean economy" will double to US$3 trillion (GBP2 trillion) by 2030. ](/news/2018/03/20/a-study-commissioned-by-the-uk-government-concludes-marine-plastic-debris-may-treble-within-ten-years-and-predicts-the-ocean-economy-will.md) _Context: British_
+4. [The United Kingdom's Home Office confirms the return of the blue British passport after the UK leaves the European Union. The new passports will be issued from October 2019. ](/news/2017/12/22/the-united-kingdom-s-home-office-confirms-the-return-of-the-blue-british-passport-after-the-uk-leaves-the-european-union-the-new-passports.md) _Context: Home Office_
+5. [NSA documents show the US and UK spied on Israeli military drones and fighter jets. ](/news/2016/01/30/nsa-documents-show-the-us-and-uk-spied-on-israeli-military-drones-and-fighter-jets.md) _Context: British_

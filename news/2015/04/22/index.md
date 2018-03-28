@@ -11,7 +11,7 @@ _Context: Anguilla, Anguilla United Front, Anguillan general election, 2015_
 ### [ An 11-judge panel of the U.S. Ninth Circuit Court of Appeals overturns the 2011 conviction of all-time Major League Baseball home run leader Barry Bonds on obstruction of justice charges stemming from the BALCO doping scandal. ](/news/2015/04/22/an-11-judge-panel-of-the-u-s-ninth-circuit-court-of-appeals-overturns-the-2011-conviction-of-all-time-major-league-baseball-home-run-leade.md)
 _Context: BALCO doping scandal, Barry Bonds, Major League Baseball, United States Court of Appeals for the Ninth Circuit, obstruction of justice charges_
 
-##### Senate
+##### US Senators
 ### [The United States Senate unanimously passes a bill to combat human trafficking after a long delay caused by a dispute over abortion funding. ](/news/2015/04/22/the-united-states-senate-unanimously-passes-a-bill-to-combat-human-trafficking-after-a-long-delay-caused-by-a-dispute-over-abortion-funding.md)
 Language in the bill that became entwined with a vote on confirmation of an attorney general nominee was settled with a compromise on abortion provisions.
 

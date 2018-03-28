@@ -3,7 +3,7 @@ Formats: [HTML](2014/09/19/index.html)  [JSON](2014/09/19/index.json)  [XML](201
 
 ## [2014-09-19](/news/2014/09/19/index.md)
 
-##### Poland
+##### Polish
 ### [Poland's new prime minister, Ewa Kopacz, presents her government; Grzegorz Schetyna becomes new foreign minister, while the outgoing FM Radoslaw Sikorski becomes speaker of the parliament. ](/news/2014/09/19/poland-s-new-prime-minister-ewa-kopacz-presents-her-government-grzegorz-schetyna-becomes-new-foreign-minister-while-the-outgoing-fm-rado.md)
 Poland’s Prime Minister-designate Ewa Kopacz has unveiled her new cabinet, days before she is due to take office officially. In comes rival
 

@@ -7,7 +7,7 @@ Formats: [HTML](2009/07/26/index.html)  [JSON](2009/07/26/index.json)  [XML](200
 ### [ At least five people are killed and more are wounded by a suicide attack at a concert hall in the Chechen capital Grozny. ](/news/2009/07/26/at-least-five-people-are-killed-and-more-are-wounded-by-a-suicide-attack-at-a-concert-hall-in-the-chechen-capital-grozny.md)
 _Context: Chechnya, Grozny, suicide attack_
 
-##### French
+##### France
 ### [ French President Nicolas Sarkozy takes ill whilst exercising. ](/news/2009/07/26/french-president-nicolas-sarkozy-takes-ill-whilst-exercising.md)
 French President Nicolas Sarkozy was rushed to hospital after falling ill while jogging and will stay there overnight for tests.
 
@@ -35,7 +35,7 @@ _Context: Australia, China, Melbourne, Melbourne International Film Festival, Re
 ### [ Dozens are killed in clashes between radical Islamists and security forces in Bauchi, Nigeria, following a police station attack by an armed gang in retaliation for the arrests of their leaders. ](/news/2009/07/26/dozens-are-killed-in-clashes-between-radical-islamists-and-security-forces-in-bauchi-nigeria-following-a-police-station-attack-by-an-arme.md)
 More than 50 Nigerians were killed today in clashes between security forces and militants in the northeastern city of Bauchi, &hellip;
 
-##### Poland
+##### Polish
 ### [ Seven people are killed in hurricane-force winds reaching 130 km-h in Poland and two more are killed by wind in the Czech Republic. Hail falls on 60,000 hectares of crops in Austria, causing damage of at least EUR20 million. ](/news/2009/07/26/seven-people-are-killed-in-hurricane-force-winds-reaching-130-km-h-in-poland-and-two-more-are-killed-by-wind-in-the-czech-republic-hail-fa.md)
 EXTREME weather has killed and injured dozens of people across Europe, with Spain, France and Italy hit by summer wildfires and parts of central Europe deluged by storms.
 

@@ -27,7 +27,7 @@ _Context: 2007 North Sea flood, COBRA, English Channel, Environment Agency, Gord
 ### [ At least 29 miners are killed in a gas leak in a colliery in China's Guizhou province. ](/news/2007/11/8/at-least-29-miners-are-killed-in-a-gas-leak-in-a-colliery-in-china-s-guizhou-province.md)
 _Context: Guizhou, colliery, miner_
 
-##### Senate
+##### US Senators
 ### [ The United States Senate confirms Michael Mukasey as the Attorney General of the United States. ](/news/2007/11/8/the-united-states-senate-confirms-michael-mukasey-as-the-attorney-general-of-the-united-states.md)
 Michael Mukasey took office as attorney general on Friday, the Justice Department said, after the Senate confirmed him despite concerns about his stance on torture.
 

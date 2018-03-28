@@ -3,9 +3,9 @@ Formats: [HTML](2006/10/17/index.html)  [JSON](2006/10/17/index.json)  [XML](200
 
 ## [2006-10-17](/news/2006/10/17/index.md)
 
-##### UK
+##### British
 ### [ It is reported that former British Home Secretary David Blunkett ordered prison staff to machine gun prisoners during a 2002 riot regardless of loss of life. ](/news/2006/10/17/it-is-reported-that-former-british-home-secretary-david-blunkett-ordered-prison-staff-to-machine-gun-prisoners-during-a-2002-riot-regardles.md)
-_Context: David Blunkett, Home Secretary, UK_
+_Context: British, David Blunkett, Home Secretary_
 
 ##### Rome Metro
 ### [ Two metro trains collide in Rome, killing at least two people and injuring about 120 others. ](/news/2006/10/17/two-metro-trains-collide-in-rome-killing-at-least-two-people-and-injuring-about-120-others.md)

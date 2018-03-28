@@ -5,7 +5,7 @@ Formats: [HTML](2013/02/13/index.html)  [JSON](2013/02/13/index.json)  [XML](201
 
 ##### U.S.
 ### [The U.S. administration's nominee to become next Treasury Secretary, Jack Lew, testifies before the financial committee of the United States Senate at the start of his confirmation hearing. ](/news/2013/02/13/the-u-s-administration-s-nominee-to-become-next-treasury-secretary-jack-lew-testifies-before-the-financial-committee-of-the-united-states.md)
-_Context: Jack Lew, Senate, Treasury Secretary, U.S._
+_Context: Jack Lew, Treasury Secretary, U.S., US Senators_
 
 ##### Israel
 ### [Israel confirms that in 2010 it secretly imprisoned an Australian-Israeli man, known as Prisoner X, and that he committed suicide in custody. ](/news/2013/02/13/israel-confirms-that-in-2010-it-secretly-imprisoned-an-australianaisraeli-man-known-as-prisoner-x-and-that-he-committed-suicide-in-custo.md)

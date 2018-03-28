@@ -5,7 +5,7 @@ Formats: [HTML](2012/11/18/index.html)  [JSON](2012/11/18/index.json)  [XML](201
 
 ##### Same-sex marriage
 ### [Clashes take place at an anti-gay marriage protest in Paris, France. ](/news/2012/11/18/clashes-take-place-at-an-anti-gay-marriage-protest-in-paris-france.md)
-_Context: French, Paris, same-sex marriage_
+_Context: France, Paris, same-sex marriage_
 
 ##### ASEAN
 ### [ASEAN leaders sign a controversial human rights declaration. ](/news/2012/11/18/asean-leaders-sign-a-controversial-human-rights-declaration.md)

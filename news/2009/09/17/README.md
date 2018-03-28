@@ -61,7 +61,7 @@ _Context: African Union, Mogadishu, Somalia_
 
 ##### Prime Minister of the Czech Republic
 ### [ The Prime Minister of the Czech Republic, Jan Fischer, says that President Barack Obama told him that the United States is abandoning plans for a missile shield based in Poland and the Czech Republic. ](/news/2009/09/17/the-prime-minister-of-the-czech-republic-jan-fischer-says-that-president-barack-obama-told-him-that-the-united-states-is-abandoning-plans.md)
-_Context: Barack Obama, Czech Republic, Jan Fischer, Poland, President, Prime Minister of the Czech Republic, United States, missile shield_
+_Context: Barack Obama, Czech Republic, Jan Fischer, Polish, President, Prime Minister of the Czech Republic, United States, missile shield_
 
 ##### President of France
 ### [ The President of France Nicolas Sarkozy says European Union leaders agree to impose a cap on banker pay. ](/news/2009/09/17/the-president-of-france-nicolas-sarkozy-says-european-union-leaders-agree-to-impose-a-cap-on-banker-pay.md)

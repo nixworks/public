@@ -3,7 +3,7 @@ Formats: [HTML](2005/02/26/index.html)  [JSON](2005/02/26/index.json)  [XML](200
 
 ## [2005-02-26](/news/2005/02/26/index.md)
 
-##### French
+##### France
 ### [ French Finance Minister Herv Gaymard resigns after a report surfaces about his expensive state-paid apartment. ](/news/2005/02/26/french-finance-minister-herve-gaymard-resigns-after-a-report-surfaces-about-his-expensive-state-paid-apartment.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 

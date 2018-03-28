@@ -27,9 +27,9 @@ _Context: China, Three Gorges Dam_
 ### [ China claims that arrested Singaporean journalist Ching Cheong was spying. ](/news/2005/05/31/china-claims-that-arrested-singaporean-journalist-ching-cheong-was-spying.md)
 _Context: China, Ching Cheong, Singapore_
 
-##### French
+##### France
 ### [ In France, the Prime Minister Jean-Pierre Raffarin resigns following the country's rejection of the Treaty establishing a Constitution for Europe. In an expected move, President Jacques Chirac appoints Interior Minister Dominique de Villepin to succeed him. ](/news/2005/05/31/in-france-the-prime-minister-jean-pierre-raffarin-resigns-following-the-country-s-rejection-of-the-treaty-establishing-a-constitution-for.md)
-_Context: Dominique de Villepin, European constitution, French, Jacques Chirac, Jean-Pierre Raffarin, President of France, Prime Minister, minister of the interior_
+_Context: Dominique de Villepin, European constitution, France, Jacques Chirac, Jean-Pierre Raffarin, President of France, Prime Minister, minister of the interior_
 
 ##### China
 ### [ China and Japan have opened two days of closed-door negotiations in Beijing aimed at resolving a long-running dispute over natural gas drilling rights in a disputed area of the East China Sea ](/news/2005/05/31/china-and-japan-have-opened-two-days-of-closed-door-negotiations-in-beijing-aimed-at-resolving-a-long-running-dispute-over-natural-gas-dril.md)

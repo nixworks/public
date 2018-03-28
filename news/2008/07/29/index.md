@@ -15,9 +15,9 @@ _Context: George W. Bush, President, Ronald A. Gray, United States soldier, capi
 ### [ A 5.4 magnitude earthquake occurs in the Los Angeles, California, area, about two miles (3 km) southwest of Chino Hills. The earthquake is felt from Los Angeles to San Diego and more slightly in Las Vegas, Nevada. ](/news/2008/07/29/a-5-4-magnitude-earthquake-occurs-in-the-los-angeles-california-area-about-two-miles-3-km-southwest-of-chino-hills-the-earthquake-is.md)
 _Context: 5.4 magnitude earthquake, California, Chino Hills, Las Vegas, Nevada, Los Angeles, Nevada, San Diego_
 
-##### Turkish
+##### Turkey
 ### [ Turkey bombs Kurdistan Workers Party (PKK) positions in the north of Iraq, killing dozens of guerillas two days after the 2008 Istanbul bombings which Turkey believes the PKK is responsible for. ](/news/2008/07/29/turkey-bombs-kurdistan-workers-party-pkk-positions-in-the-north-of-iraq-killing-dozens-of-guerillas-two-days-after-the-2008-istanbul-bom.md)
-_Context: 2008 Istanbul bombings, Iraq, Kurdistan Workers Party, Turkish_
+_Context: 2008 Istanbul bombings, Iraq, Kurdistan Workers Party, Turkey_
 
 ##### World Trade Organisation
 ### [ World Trade Organisation trade talks in Geneva collapse after disagreements between developed and developing nations over access to agricultural markets. ](/news/2008/07/29/world-trade-organisation-trade-talks-in-geneva-collapse-after-disagreements-between-developed-and-developing-nations-over-access-to-agricul.md)

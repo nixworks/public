@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/10/29/the-uk-embassy-in-baku-azerbaijan-is-closed-as-
 
 ### [2007-10-29](/news/2007/10/29/index.md)
 
-##### UK
+##### British
 #  The UK embassy in Baku, Azerbaijan, is closed as a precaution after a terrorist attack in the city is prevented. The US embassy also closes its doors after the Azerbaijan Government reports of the thwarting of a "large-scale, horrifying terror attack." 
 
 

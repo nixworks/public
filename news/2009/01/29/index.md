@@ -11,7 +11,7 @@ _Context: Antananarivo, Madagascar, government, protests_
 ### [ Somali pirates hijack the German oil tanker MV "Longchamp" in the Gulf of Aden. ](/news/2009/01/29/somali-pirates-hijack-the-german-oil-tanker-mv-longchamp-in-the-gulf-of-aden.md)
 _Context: Germany, Gulf of Aden, MV, Somali pirates, Somalia, oil tanker_
 
-##### French
+##### France
 ### [ French workers strike to force a better response from President Nicolas Sarkozy to the global financial crisis. ](/news/2009/01/29/french-workers-strike-to-force-a-better-response-from-president-nicolas-sarkozy-to-the-global-financial-crisis.md)
 Hundreds of thousands of French workers staged a nationwide strike on Thursday to try to force President Nicolas Sarkozy and business leaders to do more to protect jobs and wages during the economic crisis.
 

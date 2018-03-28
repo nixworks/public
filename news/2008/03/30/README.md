@@ -19,7 +19,7 @@ _Context: North Korea, South Korea, pre-emptive strike_
 ### [ Battle of Basra (2008): Shiite cleric Muqtada al-Sadr calls for his followers, the Mahdi Army, to lay down their arms and end their fighting with the Iraqi Army in Basra. ](/news/2008/03/30/battle-of-basra-2008-shiite-cleric-muqtada-al-sadr-calls-for-his-followers-the-mahdi-army-to-lay-down-their-arms-and-end-their-fightin.md)
 The Iraqi government has welcomed an order by Shiite cleric Muqtada al-Sadr to pull his fighters off the streets.
 
-##### French
+##### France
 ### [ French architect Jean Nouvel wins one of the world's premier architecture honors, the Pritzker Prize. ](/news/2008/03/30/french-architect-jean-nouvel-wins-one-of-the-world-s-premier-architecture-honors-the-pritzker-prize.md)
 Jean Nouvel, known for diverse but distinctive projects, has won architecture’s top honor.
 

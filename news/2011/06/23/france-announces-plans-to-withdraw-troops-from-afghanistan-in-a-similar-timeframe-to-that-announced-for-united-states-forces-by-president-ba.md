@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/23/france-announces-plans-to-withdraw-troops-from-
 
 ### [2011-06-23](/news/2011/06/23/index.md)
 
-##### French
+##### France
 # France announces plans to withdraw troops from Afghanistan in a similar timeframe to that announced for United States forces by President Barack Obama yesterday. 
 
 

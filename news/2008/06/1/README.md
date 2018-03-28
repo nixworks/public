@@ -21,7 +21,7 @@ About 500 Australian combat troops pulled out of their base in southern Iraq on 
 
 ##### 2008
 ### [ United States presidential election, 2008: New York Senator Hillary Clinton wins the Puerto Rico Democratic primary, 2008. ](/news/2008/06/1/united-states-presidential-election-2008-new-york-senator-hillary-clinton-wins-the-puerto-rico-democratic-primary-2008.md)
-_Context: 2008, Hillary Clinton, New York, Puerto Rico Democratic primary, 2008, Senate_
+_Context: 2008, Hillary Clinton, New York, Puerto Rico Democratic primary, 2008, US Senators_
 
 ##### Rajasthan Royals
 ### [ The Rajasthan Royals led by Shane Warne win the first Indian Premier League cricket competition defeating the Chennai Super Kings in the final at the DY Patil Stadium in Navi Mumbai. ](/news/2008/06/1/the-rajasthan-royals-led-by-shane-warne-win-the-first-indian-premier-league-cricket-competition-defeating-the-chennai-super-kings-in-the-fi.md)

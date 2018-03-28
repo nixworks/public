@@ -21,7 +21,7 @@ Haiti&rsquo;s elections officials Sunday thanked voters for a relatively calm el
 
 ##### Louisiana gubernatorial election, 2015
 ### [Republican U.S. Senator David Vitter and Democratic state Representative John Bel Edwards top two Republican candidates for spots in the November 21 runoff election. Edwards wins 40 percent and Vitter 23 percent of the primary vote, according to unofficial returns. ](/news/2015/10/25/republican-u-s-senator-david-vitter-and-democratic-state-representative-john-bel-edwards-top-two-republican-candidates-for-spots-in-the-nov.md)
-_Context: Congressional primaries, David Vitter, Democrat, John Bel Edwards, Louisiana gubernatorial election, 2015, Republican, Senate, second round, state Representative_
+_Context: Congressional primaries, David Vitter, Democrat, John Bel Edwards, Louisiana gubernatorial election, 2015, Republican, US Senators, second round, state Representative_
 
 ##### Guatemalan general election, 2015
 ### [Voters in Guatemala go to the polls for the second round of voting in a presidential election with former TV comedian Jimmy Morales winning a landslide victory. ](/news/2015/10/25/voters-in-guatemala-go-to-the-polls-for-the-second-round-of-voting-in-a-presidential-election-with-former-tv-comedian-jimmy-morales-winning.md)

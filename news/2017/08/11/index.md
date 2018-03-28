@@ -41,7 +41,7 @@ The Obelisk is headline winner in a year marked by diminished presence of conser
 
 ##### Oldest men
 ### [The world's oldest man, Polish-Israeli Yisrael Kristal, who was also recognized as the oldest living Holocaust survivor, dies at age 113 years, 330 days, in Haifa, Israel. ](/news/2017/08/11/the-world-s-oldest-man-polishaisraeli-yisrael-kristal-who-was-also-recognized-as-the-oldest-living-holocaust-survivor-dies-at-age-113-y.md)
-_Context: Haifa, Holocaust survivor, Israel, Oldest men, Poland, Yisrael Kristal_
+_Context: Haifa, Holocaust survivor, Israel, Oldest men, Polish, Yisrael Kristal_
 
 ##### Syrian Civil War
 ### [ISIL forces raid an Iranian Islamic Revolutionary Guard Corps base in vast desert spaces of eastern Homs Governorate, Syria, manned by between 12 to 18 fighters, all but one of which are killed. ](/news/2017/08/11/isil-forces-raid-an-iranian-islamic-revolutionary-guard-corps-base-in-vast-desert-spaces-of-eastern-homs-governorate-syria-manned-by-betwe.md)

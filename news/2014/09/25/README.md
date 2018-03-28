@@ -9,7 +9,7 @@ _Context: EU, Petro Poroshenko, Ukrainian President_
 
 ##### Eric Holder
 ### [Eric Holder announces his resignation as Attorney General of the United States, effective from when the Senate confirms a successor. ](/news/2014/09/25/eric-holder-announces-his-resignation-as-attorney-general-of-the-united-states-effective-from-when-the-senate-confirms-a-successor.md)
-_Context: Attorney General, Eric Holder, Senate_
+_Context: Attorney General, Eric Holder, US Senators_
 
 ##### Barack Obama
 ### [Barack Obama, the President of the United States, signs a memorandum expanding the Pacific Remote Islands Marine National Monument to 490,000 square miles, making it the biggest marine preserve in the world. ](/news/2014/09/25/barack-obama-the-president-of-the-united-states-signs-a-memorandum-expanding-the-pacific-remote-islands-marine-national-monument-to-490-00.md)

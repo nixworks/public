@@ -91,7 +91,7 @@ A South African art gallery agrees not to display a painting of President Jacob 
 ### [Romeo Langlois, a freelance journalist from France 24 who was abducted by the Revolutionary Armed Forces of Colombia (FARC) on April 28, is released by FARC in southern Colombia. ](/news/2012/05/30/romeo-langlois-a-freelance-journalist-from-france-24-who-was-abducted-by-the-revolutionary-armed-forces-of-colombia-farc-on-april-28-is.md)
 _Context: Colombia, France 24, Revolutionary Armed Forces of Colombia_
 
-##### Turkish
+##### Turkey
 ### [Several nations, including Turkey, Germany and Canada, expel Syrian diplomats in response to the May 25 Houla massacre. ](/news/2012/05/30/several-nations-including-turkey-germany-and-canada-expel-syrian-diplomats-in-response-to-the-may-25-houla-massacre.md)
 Hopes of a new initiative over Syria suffer a setback as a Russian spokesman rules out any action by the UN Security Council soon.
 

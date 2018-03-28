@@ -13,7 +13,7 @@ President Jacob Zuma has resigned as the president of South Africa.
 
 ##### Ukrainian crisis
 ### [Mikheil Saakashvili, leader of the opposition Movement of New Forces party, who was deported from Ukraine to Poland, relocates to the Netherlands. ](/news/2018/02/14/mikheil-saakashvili-leader-of-the-opposition-movement-of-new-forces-party-who-was-deported-from-ukraine-to-poland-relocates-to-the-nether.md)
-_Context: Dutch, Mikheil Saakashvili, Movement of New Forces, Poland, Ukraine, Ukrainian crisis_
+_Context: Dutch, Mikheil Saakashvili, Movement of New Forces, Polish, Ukraine, Ukrainian crisis_
 
 ##### Disappearance of Maelys de Araujo
 ### [The remains of Maelys de Araujo, a nine-year-old girl who disappeared from a wedding in France in August 2017, are found after suspect Nordahl Lelandais guides investigators to the site. ](/news/2018/02/14/the-remains-of-maa-lys-de-araujo-a-nine-year-old-girl-who-disappeared-from-a-wedding-in-france-in-august-2017-are-found-after-suspect-nord.md)

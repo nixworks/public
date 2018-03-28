@@ -27,7 +27,7 @@ Roza Otunbayeva will govern the strife-torn country until December 31, 2011.
 ### [Guillermo Farinas, a hunger striker in Cuba, is reported to be "close to death" by authorities, in his latest hunger strike attempt. ](/news/2010/07/3/guillermo-faria-as-a-hunger-striker-in-cuba-is-reported-to-be-close-to-death-by-authorities-in-his-latest-hunger-strike-attempt.md)
 Cuban dissident hunger striker Guillermo Farinas is in danger of dying after refusing food since February, a doctor says.
 
-##### Poland
+##### Polish
 ### [Poland and the United States sign a deal in Krakow allowing the United States to position an American anti-missile shield in Poland to defend Europe from the perceived threat of Iran and other countries: Russia objects. ](/news/2010/07/3/poland-and-the-united-states-sign-a-deal-in-kraka3w-allowing-the-united-states-to-position-an-american-anti-missile-shield-in-poland-to-defe.md)
 Clinton cites Iranian threats to counter Russian objections to anti-missile shield deployment.
 

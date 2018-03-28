@@ -5,7 +5,7 @@ Formats: [HTML](2006/06/23/index.html)  [JSON](2006/06/23/index.json)  [XML](200
 
 ##### Polish Prime Minister
 ### [ Prime Minister of Poland Kazimierz Marcinkiewicz announced a dismissal of Zyta Gilowska, Deputy Prime Minister and Minister of Finance. PM's advisor Pawel Wojciechowski was introduced as her successor. Kazimierz Marcinkiewicz declared that Gilowska's policy will be continued. ](/news/2006/06/23/prime-minister-of-poland-kazimierz-marcinkiewicz-announced-a-dismissal-of-zyta-gilowska-deputy-prime-minister-and-minister-of-finance-pm.md)
-_Context: Kazimierz Marcinkiewicz, Pawel Wojciechowski, Poland, Polish Prime Minister, Zyta Gilowska_
+_Context: Kazimierz Marcinkiewicz, Pawel Wojciechowski, Polish, Polish Prime Minister, Zyta Gilowska_
 
 ##### The New York Times
 ### [ "The New York Times" publishes a major story on the Terrorist Finance Tracking Program, a secret CIA surveillance of international private banking for the last five years via the Society for Worldwide Interbank Financial Telecommunication (SWIFT) and rejects government requests to withdraw it. ](/news/2006/06/23/the-new-york-times-publishes-a-major-story-on-the-terrorist-finance-tracking-program-a-secret-cia-surveillance-of-international-private.md)

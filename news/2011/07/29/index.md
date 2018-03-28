@@ -9,7 +9,7 @@ _Context: Jose Luis Rodriguez Zapatero, Prime Minister_
 
 ##### United States House of Representatives
 ### [The United States House of Representatives votes to increase the debt ceiling but the Senate rejects it. ](/news/2011/07/29/the-united-states-house-of-representatives-votes-to-increase-the-debt-ceiling-but-the-senate-rejects-it.md)
-_Context:  debt, Senate, United States House of Representatives_
+_Context:  debt, US Senators, United States House of Representatives_
 
 ##### Court of Appeals
 ### [A U.S. Court of Appeals holds that isolated DNA is "markedly different" in its chemical structure from the DNA within chromosomes, and thus is not simply a product of nature but of human ingenuity. According, the court upholds two patents held by Myriad Genetics against challenge. ](/news/2011/07/29/a-u-s-court-of-appeals-holds-that-isolated-dna-is-markedly-different-in-its-chemical-structure-from-the-dna-within-chromosomes-and-thus.md)
@@ -31,7 +31,7 @@ Glenn Mulcaire, the private investigator at the centre of phone-hacking claims, 
 ### [Ajmal Kasab, the last surviving gunman from the 2008 Mumbai terrorist attacks, launches an appeal against his death sentence in India. ](/news/2011/07/29/ajmal-kasab-the-last-surviving-gunman-from-the-2008-mumbai-terrorist-attacks-launches-an-appeal-against-his-death-sentence-in-india.md)
 _Context: 2008 Mumbai terrorist attacks, Ajmal Kasab, India_
 
-##### Turkish
+##### Turkey
 ### [The Chief of the armed forces along with the heads of the army, navy and air force all resign in Turkey. ](/news/2011/07/29/the-chief-of-the-armed-forces-along-with-the-heads-of-the-army-navy-and-air-force-all-resign-in-turkey.md)
 The chief of the Turkish armed forces, Isik Kosaner, resigns along with the heads of the army, navy and air force.
 
@@ -51,7 +51,7 @@ _Context: Ukraine, coal mine, two accidents_
 ### [The Prime Minister of South Korea, Kim Hwang-sik, calls for an overhaul of disaster management following the death of 59 people in floods and landslides caused by heavy rain in recent days. ](/news/2011/07/29/the-prime-minister-of-south-korea-kim-hwang-sik-calls-for-an-overhaul-of-disaster-management-following-the-death-of-59-people-in-floods-an.md)
 _Context: Kim Hwang-sik, Prime Minister, South Korea_
 
-##### Poland
+##### Polish
 ### [A Polish report into the 2010 Polish Air Force Tu-154 crash that killed President Lech Kaczynski blames the Polish crew and Russian air traffic controllers for the accident. ](/news/2011/07/29/a-polish-report-into-the-2010-polish-air-force-tu-154-crash-that-killed-president-lech-kaczyaski-blames-the-polish-crew-and-russian-air-tra.md)
 Both the Polish crew and Russian air traffic controllers were to blame for the 2010 crash that killed Polish President Lech Kaczynski, Poland said Friday.
 

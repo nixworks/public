@@ -35,9 +35,9 @@ _Context: Benazir Bhutto, John Negroponte, Prime Minister, US Deputy Secretary o
 ### [ The Organization for Security and Co-operation in Europe announces it will not be able to monitor the 2007 Russian legislative election since its staff has been denied visas. ](/news/2007/11/16/the-organization-for-security-and-co-operation-in-europe-announces-it-will-not-be-able-to-monitor-the-2007-russian-legislative-election-sin.md)
 _Context: OSCE, parliamentary elections, visa_
 
-##### Turkish
+##### Turkey
 ### [ Turkish prosecutors ask the Constitutional Court to ban the Kurdish Democratic Society Party, claiming it has links to the outlawed Kurdistan Workers Party. ](/news/2007/11/16/turkish-prosecutors-ask-the-constitutional-court-to-ban-the-kurdish-democratic-society-party-claiming-it-has-links-to-the-outlawed-kurdist.md)
-_Context: Constitutional Court of Turkey, Democratic Society Party, Kurdistan Workers Party, Turkish, prosecutor_
+_Context: Constitutional Court of Turkey, Democratic Society Party, Kurdistan Workers Party, Turkey, prosecutor_
 
 ##### Germany
 ### [ The German train driver strike enters its third day. ](/news/2007/11/16/the-german-train-driver-strike-enters-its-third-day.md)
@@ -57,7 +57,7 @@ _Context: Germany, Heike Hanada, Weimar, architect, central library, competition
 
 ##### Public-sector strikes
 ### [ Strikes in France: French train drivers' strike against President Nicolas Sarkozy's pension reform enters its third day. ](/news/2007/11/16/strikes-in-france-french-train-drivers-strike-against-president-nicolas-sarkozy-s-pension-reform-enters-its-third-day.md)
-_Context: French, Nicolas Sarkozy, President of France, pension reform, public-sector strikes, strike, train driver_
+_Context: France, Nicolas Sarkozy, President of France, pension reform, public-sector strikes, strike, train driver_
 
 ##### President of Georgia
 ### [ President Mikheil Saakashvili lifts the state of emergency that was imposed on November 6. ](/news/2007/11/16/president-mikheil-saakashvili-lifts-the-state-of-emergency-that-was-imposed-on-november-6.md)

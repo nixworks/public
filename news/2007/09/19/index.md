@@ -37,7 +37,7 @@ _Context: Gaza Strip, Palestinian Authority, government_
 
 ##### Turkish Prime Minister
 ### [ Prime Minister of Turkey Recep Tayyip Erdogan calls for a change to the country's Constitution to end the ban on the wearing of headscarves in universities. ](/news/2007/09/19/prime-minister-of-turkey-recep-tayyip-erdoaan-calls-for-a-change-to-the-country-s-constitution-to-end-the-ban-on-the-wearing-of-headscarve.md)
-_Context: Recep Tayyip Erdogan, Turkish, Turkish Prime Minister, constitution, headscarves_
+_Context: Recep Tayyip Erdogan, Turkey, Turkish Prime Minister, constitution, headscarves_
 
 ##### Nevada
 ### [ Nevada authorities call off the search for missing US adventurer Steve Fossett two weeks after he goes missing. ](/news/2007/09/19/nevada-authorities-call-off-the-search-for-missing-us-adventurer-steve-fossett-two-weeks-after-he-goes-missing.md)
@@ -59,17 +59,17 @@ _Context: Condoleezza Rice, IAEA, Secretary of State_
 ### [ Four fossil skeletons of early human ancestors are discovered in Georgia. ](/news/2007/09/19/four-fossil-skeletons-of-early-human-ancestors-are-discovered-in-georgia.md)
 The discovery of four fossil skeletons of human ancestors in Georgia, a former Soviet republic, offers a look at a species in transition.
 
-##### Senate
+##### US Senators
 ### [ The United States Senate fails to pass a bill providing more home leave to United States troops in Iraq with the necessary 60 percent margin with 56 for and 44 against. ](/news/2007/09/19/the-united-states-senate-fails-to-pass-a-bill-providing-more-home-leave-to-united-states-troops-in-iraq-with-the-necessary-60-percent-margi.md)
-_Context: Iraq, Senate, United States_
+_Context: Iraq, US Senators, United States_
 
 ##### 2007 Pacific hurricane season
 ### [ 2007 Pacific hurricane season: Hurricane Ivo forms off the coast of Baja California. ](/news/2007/09/19/2007-pacific-hurricane-season-hurricane-ivo-forms-off-the-coast-of-baja-california.md)
 _Context: 2007 Pacific hurricane season, Baja California_
 
-##### French
+##### France
 ### [ France calls for a joint force of United Nations and European Union peacekeepers in parts of Chad and the Central African Republic bordering the Darfur region of Sudan. ](/news/2007/09/19/france-calls-for-a-joint-force-of-united-nations-and-european-union-peacekeepers-in-parts-of-chad-and-the-central-african-republic-borderin.md)
-_Context: Central African Republic, Chad, Darfur, EU, French, Sudan, United Nations_
+_Context: Central African Republic, Chad, Darfur, EU, France, Sudan, United Nations_
 
 ## [Previous Day...](/news/2007/09/18/index.md)
 

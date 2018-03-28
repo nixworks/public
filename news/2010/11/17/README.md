@@ -15,9 +15,9 @@ A short blast of radio waves to the kidneys can help control high blood pressure
 ### [Facebook inadvertently disabled some users' accounts when a system designed to detect fake accounts malfunctioned. The problem has since been resolved. ](/news/2010/11/17/facebook-inadvertently-disabled-some-users-accounts-when-a-system-designed-to-detect-fake-accounts-malfunctioned-the-problem-has-since-bee.md)
 _Context: Facebook_
 
-##### Senate
+##### US Senators
 ### [Senator Lisa Murkowski wins the Alaska senate election becoming the first successful write-in candidate to be elected since 1954. ](/news/2010/11/17/senator-lisa-murkowski-wins-the-alaska-senate-election-becoming-the-first-successful-write-in-candidate-to-be-elected-since-1954.md)
-_Context: Alaska senate  election, Lisa Murkowski, Senate, write-in candidate_
+_Context: Alaska senate  election, Lisa Murkowski, US Senators, write-in candidate_
 
 ##### States of emergency
 ### [A state of emergency is declared in Guinea after post election violence. ](/news/2010/11/17/a-state-of-emergency-is-declared-in-guinea-after-post-election-violence.md)

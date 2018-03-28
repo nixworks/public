@@ -37,7 +37,7 @@ Thailand&#039;s Supreme Court has approved a prosecution request to issue arrest
 
 ##### Abdullah Gul
 ### [ Abdullah Gul, currently the Foreign Minister of Turkey, confirms that he will stand again for election as the President of Turkey. ](/news/2007/08/14/abdullah-ga1-4l-currently-the-foreign-minister-of-turkey-confirms-that-he-will-stand-again-for-election-as-the-president-of-turkey.md)
-_Context: Abdullah Gul, Turkish, Turkish President_
+_Context: Abdullah Gul, Turkey, Turkish President_
 
 ##### Pakistan
 ### [ Pakistan celebrates the 60th anniversary of its independence from the United Kingdom. ](/news/2007/08/14/pakistan-celebrates-the-60th-anniversary-of-its-independence-from-the-united-kingdom.md)
@@ -115,9 +115,9 @@ _Context: Gulf of Mexico, Mexico, Texas, tropical depression, tropical storm_
 ### [ The Central Bank of Nigeria announces the naira will be made convertible by 2009. It will also be redenominated from August 2008. ](/news/2007/08/14/the-central-bank-of-nigeria-announces-the-naira-will-be-made-convertible-by-2009-it-will-also-be-redenominated-from-august-2008.md)
 _Context: Central Bank of Nigeria, Nigeria, convertible, naira, redenomination_
 
-##### Poland
+##### Polish
 ### [ A Polish soldier is killed by Taliban near Gardez, Afghanistan. It is the first Polish casualty in the War in Afghanistan. ](/news/2007/08/14/a-polish-soldier-is-killed-by-taliban-near-gardez-afghanistan-it-is-the-first-polish-casualty-in-the-war-in-afghanistan.md)
-_Context: Afghanistan, Gardez, Poland, Taliban, War in Afghanistan (2001-present), casualty_
+_Context: Afghanistan, Gardez, Polish, Taliban, War in Afghanistan (2001-present), casualty_
 
 ##### Russia
 ### [ A Russian far right group calling itself "National Socialism-White Power" publishes a video on the Internet showing the execution of two men, one from Tajikistan and the other one from Dagestan. Russian authorities investigate the video. ](/news/2007/08/14/a-russian-far-right-group-calling-itself-national-socialism-white-power-publishes-a-video-on-the-internet-showing-the-execution-of-two-me.md)

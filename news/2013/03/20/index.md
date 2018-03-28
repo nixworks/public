@@ -29,7 +29,7 @@ Barack Obama says Israel has &quot;no greater friend&quot; than the US, as he ma
 
 ##### Miners
 ### [19 miners, who were trapped underground, are rescued from the Rudna mine after a small earthquake hits the heavily industrialized region of Silesia, Poland. ](/news/2013/03/20/19-miners-who-were-trapped-underground-are-rescued-from-the-rudna-mine-after-a-small-earthquake-hits-the-heavily-industrialized-region-of.md)
-_Context: Poland, Rudna mine, Silesia, earthquake, miners_
+_Context: Polish, Rudna mine, Silesia, earthquake, miners_
 
 ##### Collapse
 ### [2012-2013 Cypriot financial crisis: President of Cyprus Nicos Anastasiades presents a new bailout package for Cypriot banks as Cyprus is hit with a liquidity crisis. ](/news/2013/03/20/2012a2013-cypriot-financial-crisis-president-of-cyprus-nicos-anastasiades-presents-a-new-bailout-package-for-cypriot-banks-as-cyprus-is-h.md)

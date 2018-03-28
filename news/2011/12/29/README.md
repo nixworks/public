@@ -3,9 +3,9 @@ Formats: [HTML](2011/12/29/index.html)  [JSON](2011/12/29/index.json)  [XML](201
 
 ## [2011-12-29](/news/2011/12/29/index.md)
 
-##### Poland
+##### Polish
 ### [Poland announces an amnesty for illegal immigrants from January 1, 2012. ](/news/2011/12/29/poland-announces-an-amnesty-for-illegal-immigrants-from-january-1-2012.md)
-_Context: Poland, amnesty, illegal immigrants_
+_Context: Polish, amnesty, illegal immigrants_
 
 ##### Rajya Sabha
 ### [The Rajya Sabha, the Upper House of the Parliament of India, adjourns for the year without voting on the Lokpal anti-corruption bill advocated by Anna Hazare and his followers. ](/news/2011/12/29/the-rajya-sabha-the-upper-house-of-the-parliament-of-india-adjourns-for-the-year-without-voting-on-the-lokpal-anti-corruption-bill-advocat.md)
@@ -55,9 +55,9 @@ _Context: Michael Bloomberg, National September 11 Memorial & Museum, New York M
 ### [2011 Egyptian revolution: Egyptian security forces storm the offices of non-governmental organisations across the country. ](/news/2011/12/29/2011-egyptian-revolution-egyptian-security-forces-storm-the-offices-of-non-governmental-organisations-across-the-country.md)
 _Context: 2011 Egyptian revolution, non-governmental organisations_
 
-##### Turkish
+##### Turkey
 ### [Turkish warplanes launch airstrikes aimed at Kurdish militants, accidentally killing 35 smugglers that were suspected as guerillas. ](/news/2011/12/29/turkish-warplanes-launch-airstrikes-aimed-at-kurdish-militants-accidentally-killing-35-smugglers-that-were-suspected-as-guerillas.md)
-_Context: Kurdish, Turkish_
+_Context: Kurdish, Turkey_
 
 ##### China
 ### [Seven kidnappers are killed and two hostages rescued in a police raid in China's Xinjiang Province, according to state media. One police officer was also reportedly killed. ](/news/2011/12/29/seven-kidnappers-are-killed-and-two-hostages-rescued-in-a-police-raid-in-china-s-xinjiang-province-according-to-state-media-one-police-off.md)

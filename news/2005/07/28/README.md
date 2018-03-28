@@ -19,9 +19,9 @@ _Context: Bulgaria, Georgi Parvanov, National Movement Simeon II, Simeon Saxe-Co
 ### [ In Canada, gene lab confirms that alleged sasquatch hairs actually belong to a bison ](/news/2005/07/28/in-canada-gene-lab-confirms-that-alleged-sasquatch-hairs-actually-belong-to-a-bison.md)
 _Context: Canada, bison, sasquatch_
 
-##### Poland
+##### Polish
 ### [ Poland recalls its ambassador to Belarus and demands that the European Union impose sanctions after Belarusian police storms the offices of the country's Polish minority ](/news/2005/07/28/poland-recalls-its-ambassador-to-belarus-and-demands-that-the-european-union-impose-sanctions-after-belarusian-police-storms-the-offices-of.md)
-_Context: Belarus, EU, Poland, sanctions_
+_Context: Belarus, EU, Polish, sanctions_
 
 ##### Serbia
 ### [ In Serbia, Ljiljana Zelen-Karadzic, wife of Radovan Karadzic, goes public to ask her husband to give himself up ](/news/2005/07/28/in-serbia-ljiljana-zelen-karada3-4ia-wife-of-radovan-karada3-4ia-goes-public-to-ask-her-husband-to-give-himself-up.md)

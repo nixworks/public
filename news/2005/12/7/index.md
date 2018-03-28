@@ -9,7 +9,7 @@ _Context: Italy, hate crime_
 
 ##### Nobel Prize in Literature
 ### [ Nobel Prize in Literature winner Harold Pinter accuses Britain and the United States of engaging in state terrorism in Iraq and demands the prosecution of George W. Bush and Tony Blair. ](/news/2005/12/7/nobel-prize-in-literature-winner-harold-pinter-accuses-britain-and-the-united-states-of-engaging-in-state-terrorism-in-iraq-and-demands-the.md)
-_Context: George W. Bush, Harold Pinter, Iraq, Nobel Prize in Literature, Tony Blair, UK, United States, state terrorism_
+_Context: British, George W. Bush, Harold Pinter, Iraq, Nobel Prize in Literature, Tony Blair, United States, state terrorism_
 
 ##### United States
 ### [ A U.S. Federal Air Marshal fatally shoots Rigoberto Alpizar on American Airlines Flight 924 in a jetway at Miami International Airport in Florida. Alpizar, a U.S. citizen who had disembarked from an American Airlines flight from Medellin, Colombia, claimed to have a bomb. No explosive was found. ](/news/2005/12/7/a-u-s-federal-air-marshal-fatally-shoots-rigoberto-alpizar-on-american-airlines-flight-924-in-a-jetway-at-miami-international-airport-in-f.md)

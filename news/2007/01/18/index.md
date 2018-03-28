@@ -27,9 +27,9 @@ _Context: English channel, European windstorm, Germany, Great Britain, Kyrill, M
 ### [ Two people are killed in the Jumeirah Lake Towers fire in Dubai. ](/news/2007/01/18/two-people-are-killed-in-the-jumeirah-lake-towers-fire-in-dubai.md)
 _Context: Dubai, Jumeirah Lake Towers_
 
-##### French
+##### France
 ### [ The French newspaper "Le Monde" reports that Spanish cyclist scar Pereiro has produced two positive urine samples for salbutamol during the 2006 Tour de France. Pereiro had finished second in the Tour. The contested winner, Floyd Landis, had tested positive for testosterone during the Tour. ](/news/2007/01/18/the-french-newspaper-le-monde-reports-that-spanish-cyclist-oscar-pereiro-has-produced-two-positive-urine-samples-for-salbutamol-during-th.md)
-_Context: 2006, French, Le Monde, salbutamol, scar Pereiro, testosterone_
+_Context: 2006, France, Le Monde, salbutamol, scar Pereiro, testosterone_
 
 ##### Al Arabiya
 ### [ Al Arabiya reports that a fire at Kuwait's Shuaiba Port has stopped oil exports and refining in that country. ](/news/2007/01/18/al-arabiya-reports-that-a-fire-at-kuwait-s-shuaiba-port-has-stopped-oil-exports-and-refining-in-that-country.md)

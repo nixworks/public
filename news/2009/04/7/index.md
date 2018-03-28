@@ -11,9 +11,9 @@ _Context: General Assembly, United States, Vermont, legalizes, same-sex marriage
 ### [ Australia's government announces a A$43-billion investment for the National Broadband Network. ](/news/2009/04/7/australia-s-government-announces-a-a-43-billion-investment-for-the-national-broadband-network.md)
 _Context: A$, Australia, Government of Australia, National Broadband Network, investment_
 
-##### French
+##### France
 ### [ French police raid the Basque Homeland and Freedom's "bomb factory" in Grenoble, Isere. ](/news/2009/04/7/french-police-raid-the-basque-homeland-and-freedom-s-bomb-factory-in-grenoble-isa-re.md)
-_Context: ETA, French, French police, Grenoble, Isere, bomb, raid_
+_Context: ETA, France, French police, Grenoble, Isere, bomb, raid_
 
 ##### Fokker F27
 ### [ Twenty-four people are killed as a Fokker F27 airliner crashes in Bandung, West Java, Indonesia. ](/news/2009/04/7/twenty-four-people-are-killed-as-a-fokker-f27-airliner-crashes-in-bandung-west-java-indonesia.md)
@@ -37,7 +37,7 @@ _Context: Alberto Fujimori, Peru, President, convicted, human rights, jail_
 
 ##### United States
 ### [ United States District Judge Emmet G. Sullivan overturns the conviction of former Alaska Senator Ted Stevens. ](/news/2009/04/7/united-states-district-judge-emmet-g-sullivan-overturns-the-conviction-of-former-alaska-senator-ted-stevens.md)
-_Context: Alaska, Emmet Sullivan, Senate, Ted Stevens, U.S. District Court in Washington, D.C., United States, conviction_
+_Context: Alaska, Emmet Sullivan, Ted Stevens, U.S. District Court in Washington, D.C., US Senators, United States, conviction_
 
 ##### Israel
 ### [ The Israel Police kill a Palestinian terrorist in East Jerusalem as he rams them with his tractor. ](/news/2009/04/7/the-israel-police-kill-a-palestinian-terrorist-in-east-jerusalem-as-he-rams-them-with-his-tractor.md)

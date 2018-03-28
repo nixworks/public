@@ -49,7 +49,7 @@ _Context: Tehran, protests against the regime_
 
 ##### Riots
 ### [ Chinese President Hu Jintao returns to Beijing and chairs Politburo Meeting, vowing "severe punishment" on culprits as the social order in rmqi is being restored. ](/news/2009/07/9/chinese-president-hu-jintao-returns-to-beijing-and-chairs-politburo-meeting-vowing-severe-punishment-on-culprits-as-the-social-order-in.md)
-_Context: Beijing, China, Hu Jintao, Politburo Standing Committee, president, riots, rmqi_
+_Context: Beijing, China, Chinese President, Hu Jintao, Politburo Standing Committee, riots, rmqi_
 
 ##### Yunnan
 ### [ A magnitude 5.7 earthquake strikes Yunnan province of China, killing one person and destroying over 10,000 homes. ](/news/2009/07/9/a-magnitude-5-7-earthquake-strikes-yunnan-province-of-china-killing-one-person-and-destroying-over-10-000-homes.md)

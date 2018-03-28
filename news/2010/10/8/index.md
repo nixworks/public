@@ -27,9 +27,9 @@ _Context: Associated Press, Kim Jong-il, Kim Jong-un, North Korea, Yang Hyong So
 ### [United States National Security Advisor General James L. Jones announces his resignation effective in two weeks; his deputy Thomas E. Donilon is expected to replace him. ](/news/2010/10/8/united-states-national-security-advisor-general-james-l-jones-announces-his-resignation-effective-in-two-weeks-his-deputy-thomas-e-donilo.md)
 In an afternoon statement in the White House Rose Garden, President Barack Obama announced Friday that he will name Tom Donilon to be his next National Security Adviser, replacing retiring Gen. James Jones. 
 
-##### French
+##### France
 ### [France's highest legal authority rules in favour of a ban on facial veils. ](/news/2010/10/8/france-s-highest-legal-authority-rules-in-favour-of-a-ban-on-facial-veils.md)
-_Context: French_
+_Context: France_
 
 ##### Burma
 ### [The Supreme Court in Burma agrees to hear an appeal by Aung San Suu Kyi against her house arrest. ](/news/2010/10/8/the-supreme-court-in-burma-agrees-to-hear-an-appeal-by-aung-san-suu-kyi-against-her-house-arrest.md)
@@ -65,7 +65,7 @@ _Context: Tibetan Autonomous Prefecture of Garze_
 
 ##### Malta
 ### [Maltese chemical tanker YM Uranus is reported to be sinking following a collision with the Panamanian cargo ship "Hanjin Rizhao" off the coast of Brittany, France. ](/news/2010/10/8/maltese-chemical-tanker-ym-uranus-is-reported-to-be-sinking-following-a-collision-with-the-panamanian-cargo-ship-hanjin-rizhao-off-the-coa.md)
-_Context: Brittany, French, Malta, Panama, Tanker, cargo ship_
+_Context: Brittany, France, Malta, Panama, Tanker, cargo ship_
 
 ##### Prime Minister
 ### [2 more corpses are discovered, bringing the death toll to 7, as Prime Minister of Hungary Viktor Orban plays down the disaster on the Danube. ](/news/2010/10/8/2-more-corpses-are-discovered-bringing-the-death-toll-to-7-as-prime-minister-of-hungary-viktor-orba-n-plays-down-the-disaster-on-the-danub.md)

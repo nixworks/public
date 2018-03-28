@@ -7,9 +7,9 @@ Formats: [HTML](2007/10/11/index.html)  [JSON](2007/10/11/index.json)  [XML](200
 ### [ The British writer Doris Lessing wins the 2007 Nobel Prize in Literature. ](/news/2007/10/11/the-british-writer-doris-lessing-wins-the-2007-nobel-prize-in-literature.md)
 _Context: Doris Lessing, Nobel Prize in Literature, United Kingdom, writer_
 
-##### Turkish
+##### Turkey
 ### [ Turkey recalls its ambassador to the United States due to anger over an upcoming House of Representatives vote on recognizing the Armenian Genocide. ](/news/2007/10/11/turkey-recalls-its-ambassador-to-the-united-states-due-to-anger-over-an-upcoming-house-of-representatives-vote-on-recognizing-the-armenian.md)
-_Context: Turkish, US House of Representatives, United States, genocide of Armenians_
+_Context: Turkey, US House of Representatives, United States, genocide of Armenians_
 
 ##### Muslim
 ### [ A group of 138 prominent Muslim clerics and scholars send an open letter to Pope Benedict XVI and other Christian leaders, calling for greater understanding between the two faiths. ](/news/2007/10/11/a-group-of-138-prominent-muslim-clerics-and-scholars-send-an-open-letter-to-pope-benedict-xvi-and-other-christian-leaders-calling-for-grea.md)

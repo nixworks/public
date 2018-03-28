@@ -15,9 +15,9 @@ _Context: Hamas, July 17, Mahmoud Abbas, President of the Palestinian Authority_
 ### [ Hundreds of people attend the funeral in Beirut of anti-Syrian columnist Samir Kassir, killed by a bomb on Thursday. Opposition leaders Gibran Tueni and Saad al-Hariri, son of slain former Prime Minister Rafik al-Hariri, are in attendance. ](/news/2005/06/4/hundreds-of-people-attend-the-funeral-in-beirut-of-anti-syrian-columnist-samir-kassir-killed-by-a-bomb-on-thursday-opposition-leaders-gib.md)
 _Context: Beirut, Gibran Tueni, Prime Minister of Lebanon, Rafik al-Hariri, Saad al-Hariri, Samir Kassir, Syria, funeral_
 
-##### French
+##### France
 ### [ A French court finds the newspaper Le Monde guilty of defamation against the Jews and Israel, in an article published in 2002 which used "Jews" and "Israel" interchangeably. ](/news/2005/06/4/a-french-court-finds-the-newspaper-le-monde-guilty-of-defamation-against-the-jews-and-israel-in-an-article-published-in-2002-which-used-j.md)
-_Context: French, Israel, Jewish, Le Monde, defamation_
+_Context: France, Israel, Jewish, Le Monde, defamation_
 
 ##### Bernard Landry
 ### [ In the context of the Parti Qubcois National Congress, Bernard Landry announces his surprise resignation as leader of the Parti Qubcois, the major party in Quebec that advocates national independence for Quebec. ](/news/2005/06/4/in-the-context-of-the-parti-quebecois-national-congress-bernard-landry-announces-his-surprise-resignation-as-leader-of-the-parti-quebecois.md)

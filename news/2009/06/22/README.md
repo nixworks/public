@@ -7,9 +7,9 @@ Formats: [HTML](2009/06/22/index.html)  [JSON](2009/06/22/index.json)  [XML](200
 ### [ The email at the heart of the Utegate scandal in Australia is declared a forgery by Federal Police. ](/news/2009/06/22/the-email-at-the-heart-of-the-utegate-scandal-in-australia-is-declared-a-forgery-by-federal-police.md)
 _Context: Utegate scandal in Australia_
 
-##### French
+##### France
 ### [ French President Nicolas Sarkozy calls for the burqa to be banned in France. ](/news/2009/06/22/french-president-nicolas-sarkozy-calls-for-the-burqa-to-be-banned-in-france.md)
-_Context: French, Nicolas Sarkozy, President of France, burqa_
+_Context: France, Nicolas Sarkozy, President of France, burqa_
 
 ##### Conservative Party
 ### [ Conservative MP John Bercow is elected the new Speaker of the House of Commons of the United Kingdom. ](/news/2009/06/22/conservative-mp-john-bercow-is-elected-the-new-speaker-of-the-house-of-commons-of-the-united-kingdom.md)

@@ -13,7 +13,7 @@ _Context: Bristol, Broadmead, United Kingdom, World War II_
 
 ##### Haya Rashed Al-Khalifa
 ### [ Haya Rashed Al-Khalifa, a former ambassador to France and one of the first women in Bahrain to practice law, is elected President of the Sixty-first United Nations General Assembly. ](/news/2006/06/8/haya-rashed-al-khalifa-a-former-ambassador-to-france-and-one-of-the-first-women-in-bahrain-to-practice-law-is-elected-president-of-the-si.md)
-_Context: Bahrain, French, Haya Rashed Al-Khalifa, President of the United Nations General Assembly_
+_Context: Bahrain, France, Haya Rashed Al-Khalifa, President of the United Nations General Assembly_
 
 ##### Conflict in Iraq
 ### [ According to an aide to Iraq's prime minister Nuri al-Maliki, the leader of Al-Qaeda in Iraq and one of the world's most wanted men, Abu Musab al-Zarqawi, was killed by a U.S. air raid. Al-Zarqawi's body was retrieved and visually identified by known scars, tattoos and fingerprints. ](/news/2006/06/8/according-to-an-aide-to-iraq-s-prime-minister-nuri-al-maliki-the-leader-of-al-qaeda-in-iraq-and-one-of-the-world-s-most-wanted-men-abu-mu.md)

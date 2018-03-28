@@ -47,9 +47,9 @@ Iran hangs the leader of the Jundullah Sunni militant group, blamed for a string
 ### [In the runoff of the presidential elections in Colombia, Juan Manuel Santos from the Party of the U defeats his Green Party adversary Antanas Mockus, getting around 70% of the votes. ](/news/2010/06/20/in-the-runoff-of-the-presidential-elections-in-colombia-juan-manuel-santos-from-the-party-of-the-u-defeats-his-green-party-adversary-antana.md)
 _Context: Antanas Mockus, Colombian presidential election, Green Party, Juan Manuel Santos, Party of the U_
 
-##### Poland
+##### Polish
 ### [In Poland, presidential elections take place after the death of President Lech Kaczynski on April 10, 2010 in a plane crash. ](/news/2010/06/20/in-poland-presidential-elections-take-place-after-the-death-of-president-lech-kaczyaski-on-april-10-2010-in-a-plane-crash.md)
-_Context: 2010 Polish Air Force Tu-154 crash, Lech Kaczynski, Poland, Polish President, Polish presidential election, 2010, the death_
+_Context: 2010 Polish Air Force Tu-154 crash, Lech Kaczynski, Polish, Polish President, Polish presidential election, 2010, the death_
 
 ##### Israel
 ### [Israel says it will move to loosen its land blockade against the Gaza Strip, while indicating the continuation of its naval blockade against the region. ](/news/2010/06/20/israel-says-it-will-move-to-loosen-its-land-blockade-against-the-gaza-strip-while-indicating-the-continuation-of-its-naval-blockade-against.md)

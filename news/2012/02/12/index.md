@@ -63,9 +63,9 @@ _Context: Comrade Artemio, Huallaga Valley, National Police, Peru, Peruvian Army
 ### [The Hellenic Parliament votes to approve austerity measures demanded in return for another bailout from the eurozone. ](/news/2012/02/12/the-hellenic-parliament-votes-to-approve-austerity-measures-demanded-in-return-for-another-bailout-from-the-eurozone.md)
 Protests grow in the Greek capital, Athens, with buildings set alight as MPs vote on an unpopular austerity bill crucial for a 130bn euro bailout.
 
-##### Turkish
+##### Turkey
 ### [Turkish warplanes carry out strikes against PKK hideouts in northern Iraq. ](/news/2012/02/12/turkish-warplanes-carry-out-strikes-against-pkk-hideouts-in-northern-iraq.md)
-_Context: Iraq, PKK, Turkish_
+_Context: Iraq, PKK, Turkey_
 
 ##### Arab League
 ### [The Arab League calls for a peace keeping force to be sent to Syria to halt violence. ](/news/2012/02/12/the-arab-league-calls-for-a-peace-keeping-force-to-be-sent-to-syria-to-halt-violence.md)

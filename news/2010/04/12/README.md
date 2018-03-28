@@ -71,7 +71,7 @@ An attack that killed as many as five people infuriated leaders in Kandahar befo
 ### [Nine people are thought to have been killed and 30 others are injured, some seriously, after a landslide caused a train to derail in Merano, near the Austrian border with Italy. ](/news/2010/04/12/nine-people-are-thought-to-have-been-killed-and-30-others-are-injured-some-seriously-after-a-landslide-caused-a-train-to-derail-in-merano.md)
 At least nine people killed as train crashes near northern town of Merano.
 
-##### Poland
+##### Polish
 ### [Polish President Lech Kaczynski lies in state in Warsaw as Russia marks a day of mourning and Poland appoints an acting head of the central bank to replace the one killed in Saturday's air disaster near Smolensk. ](/news/2010/04/12/polish-president-lech-kaczyaski-lies-in-state-in-warsaw-as-russia-marks-a-day-of-mourning-and-poland-appoints-an-acting-head-of-the-central.md)
 Poland is continuing to mourn the death of President Lech Kaczynski who died in a plane crash on Saturday.
 

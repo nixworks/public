@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/14/two-foreign-nationals-believed-to-be-french-are
 
 ### [2009-07-14](/news/2009/07/14/index.md)
 
-##### French
+##### France
 #  Two foreign nationals, believed to be French, are kidnapped by gunmen after a hotel is stormed in Mogadishu, Somalia. 
 
 Armed men take hostage two French guests from a hotel in Mogadishu as fighting rages.

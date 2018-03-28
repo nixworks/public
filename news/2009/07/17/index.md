@@ -11,7 +11,7 @@ _Context: Italy, Sicily_
 ### [ BBC staff's expenses claims are revealed to include candles, flowers, champagne and a hamper. ](/news/2009/07/17/bbc-staff-s-expenses-claims-are-revealed-to-include-candles-flowers-champagne-and-a-hamper.md)
 The heads of BBC radio and TV stations and senior corporation management figures used public money to pay for flowers, champagne, hampers for stars and &#034;thank you&#034; lunches and dinners.
 
-##### Poland
+##### Polish
 ### [ 22 prominent figures, including Poland's Lech Walesa and the Czech Republic's Vaclav Havel, warn in an open letter to the Barack Obama administration against developing closer ties with Russia. ](/news/2009/07/17/22-prominent-figures-including-poland-s-lech-waaasa-and-the-czech-republic-s-va-clav-havel-warn-in-an-open-letter-to-the-barack-obama-a.md)
 In an open letter to the Obama administration Thursday, America’s Eastern European allies voiced deep concern over improved relations between Russia and the United States.
 
@@ -61,7 +61,7 @@ President Mary McAleese is to convene a meeting of the Council of State next Wed
 
 ##### Marseille
 ### [ A second person dies from the collapse of a stage being built in Marseille for Madonna's forthcoming tour to France. ](/news/2009/07/17/a-second-person-dies-from-the-collapse-of-a-stage-being-built-in-marseille-for-madonna-s-forthcoming-tour-to-france.md)
-_Context: French, Madonna, Marseille_
+_Context: France, Madonna, Marseille_
 
 ##### Pope
 ### [ Pope Benedict XVI slips in the bath in his mountain chalet and is treated for a fractured wrist in Aosta, Italy. ](/news/2009/07/17/pope-benedict-xvi-slips-in-the-bath-in-his-mountain-chalet-and-is-treated-for-a-fractured-wrist-in-aosta-italy.md)

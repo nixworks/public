@@ -13,7 +13,7 @@ Pictured moments before humans ate it, a snub-nosed monkey represents a new spec
 
 ##### National Assembly
 ### [The National Assembly of France takes a final vote on pension reform, with President Nicolas Sarkozy hoping that it will end the recent strikes and demonstrations. ](/news/2010/10/27/the-national-assembly-of-france-takes-a-final-vote-on-pension-reform-with-president-nicolas-sarkozy-hoping-that-it-will-end-the-recent-stri.md)
-_Context: French, National Assembly, Nicolas Sarkozy, President of France, recent strikes and demonstrations_
+_Context: France, National Assembly, Nicolas Sarkozy, President of France, recent strikes and demonstrations_
 
 ##### Nestor Kirchner
 ### [Nestor Kirchner, Secretary General of UNASUR, former President of Argentina and husband of President Cristina Fernandez de Kirchner dies at his home in El Calafate, Santa Cruz Province, with three days of mourning declared. ](/news/2010/10/27/na-c-stor-kirchner-secretary-general-of-unasur-former-president-of-argentina-and-husband-of-president-cristina-ferna-ndez-de-kirchner-dies-a.md)

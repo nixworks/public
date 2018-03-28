@@ -7,9 +7,9 @@ Formats: [HTML](2006/11/9/index.html)  [JSON](2006/11/9/index.json)  [XML](2006/
 ### [ Hundreds of young British Muslims are being radicalised, groomed and set on a path to mass murder, according to the head of MI5 (Security Service), Dame Eliza Manningham-Buller. ](/news/2006/11/9/hundreds-of-young-british-muslims-are-being-radicalised-groomed-and-set-on-a-path-to-mass-murder-according-to-the-head-of-mi5-security-s.md)
 News and opinion from The Times &amp; The Sunday Times
 
-##### French
+##### France
 ### [ France successfully performs the first flight test of its new nuclear missile, the M51. ](/news/2006/11/9/france-successfully-performs-the-first-flight-test-of-its-new-nuclear-missile-the-m51.md)
-_Context: French, M51_
+_Context: France, M51_
 
 ##### Mahathir Mohamad
 ### [ Dr Mahathir Mohamad, the former Prime Minister of Malaysia, is hospitalized following a heart attack. ](/news/2006/11/9/dr-mahathir-mohamad-the-former-prime-minister-of-malaysia-is-hospitalized-following-a-heart-attack.md)
@@ -33,7 +33,7 @@ _Context: BP, Texas, oil refinery_
 
 ##### Montana
 ### [ Montana Senator Conrad Burns concedes his U.S. Senate race to Jon Tester. ](/news/2006/11/9/montana-senator-conrad-burns-concedes-his-u-s-senate-race-to-jon-tester.md)
-_Context: Conrad Burns, Jon Tester, Montana, Senate, U.S. Senate_
+_Context: Conrad Burns, Jon Tester, Montana, U.S. Senate, US Senators_
 
 ##### Kyrgyz President
 ### [ Kyrgyz President Kurmanbek Bakiyev formally signs the new Constitution of Kyrgyzstan. The Constitution drastically weakens the power of the executive branch in favor of the legislative. Bakiyev and Prime Minister Felix Kulov are expected to maintain their positions until 2010. ](/news/2006/11/9/kyrgyz-president-kurmanbek-bakiyev-formally-signs-the-new-constitution-of-kyrgyzstan-the-constitution-drastically-weakens-the-power-of-the.md)

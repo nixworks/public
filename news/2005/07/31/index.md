@@ -33,7 +33,7 @@ _Context: Chile, Christian Democrat, Michelle Bachelet_
 
 ##### Wim Duisenberg
 ### [ Wim Duisenberg, the former head of the Rabobank, the Central Bank of the Netherlands and the European Central Bank, is found dead in the pool of his villa in the south of France. His death seems to have been caused by a cardiac arrest. ](/news/2005/07/31/wim-duisenberg-the-former-head-of-the-rabobank-the-central-bank-of-the-netherlands-and-the-european-central-bank-is-found-dead-in-the-po.md)
-_Context: Central Bank of the Netherlands, European Central Bank, French, Rabobank, Wim Duisenberg_
+_Context: Central Bank of the Netherlands, European Central Bank, France, Rabobank, Wim Duisenberg_
 
 ##### Brighton
 ### [ 7 more suspects are arrested in Brighton following the 21 July 2005 London bombings. ](/news/2005/07/31/7-more-suspects-are-arrested-in-brighton-following-the-21-july-2005-london-bombings.md)

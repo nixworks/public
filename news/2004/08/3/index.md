@@ -25,7 +25,7 @@ _Context: September 11, 2001, attacks, Statue of Liberty_
 
 ##### NASA
 ### [ NASA launches its MESSENGER spacecraft. It is due to reach the planet Mercury in 2011. ](/news/2004/08/3/nasa-launches-its-messenger-spacecraft-it-is-due-to-reach-the-planet-mercury-in-2011.md)
-_Context: MESSENGER, Mercury's, NASA_
+_Context: MESSENGER, NASA, the planet of Mercury_
 
 ##### Homeland Security Advisory System
 ### [ Reports state that information that led the US to raise the terror alert for five financial centers in New York City, northern New Jersey and Washington, D.C. was mainly three or four years old but had been updated as recently as January. Administration officials note, too, that al Qaeda is known for its planning, and that this information became available following the ](/news/2004/08/3/reports-state-that-information-that-led-the-us-to-raise-the-terror-alert-for-five-financial-centers-in-new-york-city-northern-new-jersey-a.md)

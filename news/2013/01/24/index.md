@@ -9,7 +9,7 @@ _Context: DNA, England, European Bioinformatics Institute, Hinxton, data storage
 
 ##### Polish Prime Minister
 ### [Prime Minister of Poland Donald Tusk is hospitalized with an acute infection of the respiratory tract. ](/news/2013/01/24/prime-minister-of-poland-donald-tusk-is-hospitalized-with-an-acute-infection-of-the-respiratory-tract.md)
-_Context: Donald Tusk, Poland, Polish Prime Minister, infection, respiratory tract_
+_Context: Donald Tusk, Polish, Polish Prime Minister, infection, respiratory tract_
 
 ##### North Korea
 ### [North Korea authorities announce a new nuclear weapon and long range missile test, threatening their publicly manifested arch-enemy, the United States, as their primary target. ](/news/2013/01/24/north-korea-authorities-announce-a-new-nuclear-weapon-and-long-range-missile-test-threatening-their-publicly-manifested-arch-enemy-the-uni.md)

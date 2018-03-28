@@ -19,9 +19,9 @@ _Context: 2010 Commonwealth Games, Anil Khanna, Delhi_
 ### [Newly released files, which can be ](/news/2010/08/5/newly-released-files-which-can-be.md)
 Declassified files from the last century show government concerns over UFOs, and reveal that Winston Churchill ordered a cover-up to prevent &quot;mass panic&quot;.
 
-##### Senate
+##### US Senators
 ### [The United States Senate confirms the nomination of Elena Kagan as an associate justice of the U.S. Supreme Court. ](/news/2010/08/5/the-united-states-senate-confirms-the-nomination-of-elena-kagan-as-an-associate-justice-of-the-u-s-supreme-court.md)
-_Context: Elena Kagan, Justice, Senate, Supreme Court of the United States, confirms_
+_Context: Elena Kagan, Justice, Supreme Court of the United States, US Senators, confirms_
 
 ##### Wyclef Jean
 ### [Musician Wyclef Jean formally registers to stand for the presidency of Haiti. ](/news/2010/08/5/musician-wyclef-jean-formally-registers-to-stand-for-the-presidency-of-haiti.md)
@@ -75,7 +75,7 @@ _Context: Egypt_
 ### [Israel charges three Arab men with spying for Syria; they deny the charges and one is alleged to be a human rights activist.date=August 2010 does Israel "accuse" him of being a human rights activist??? ](/news/2010/08/5/israel-charges-three-arab-men-with-spying-for-syria-they-deny-the-charges-and-one-is-alleged-to-be-a-human-rights-activist-date-august-2010.md)
 Israel charges three Arab men with spying, saying they passed intelligence to Syria and plotted to kidnap a Syrian pilot who had defected to Israel.
 
-##### Poland
+##### Polish
 ### [A Polish appellate court upholds the decision of a lower court to extradite an alleged Mossad agent to Germany to face trial for forging a passport used in the slaying of Hamas commander Mahmoud al-Mabhouh in Dubai. ](/news/2010/08/5/a-polish-appellate-court-upholds-the-decision-of-a-lower-court-to-extradite-an-alleged-mossad-agent-to-germany-to-face-trial-for-forging-a-p.md)
 A Polish appeals court upholds a decision to hand over to Germany an alleged Israeli agent wanted over the murder of a Hamas commander.
 

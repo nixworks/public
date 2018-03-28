@@ -17,7 +17,7 @@ _Context: Afghanistan, Pakistan, Waziristan, al-Qaida_
 
 ##### Attorney General
 ### [ U.S. Attorney General John Ashcroft tells the Senate Judiciary Committee that George W. Bush did not approve the torture of terrorist prisoners; he also reiterates his stance that the Geneva Conventions do not apply to al-Qaeda fighters. ](/news/2004/06/9/u-s-attorney-general-john-ashcroft-tells-the-senate-judiciary-committee-that-george-w-bush-did-not-approve-the-torture-of-terrorist-priso.md)
-_Context: Attorney General, Geneva Conventions, George W. Bush, John Ashcroft, Judiciary Committee, Senate, al-Qaeda, prison, terrorism, torture_
+_Context: Attorney General, Geneva Conventions, George W. Bush, John Ashcroft, Judiciary Committee, US Senators, al-Qaeda, prison, terrorism, torture_
 
 ##### British Phonographic Industry
 ### [ The British Phonographic Industry decides not to follow the rest of the IFPI in suing for file sharing of music. ](/news/2004/06/9/the-british-phonographic-industry-decides-not-to-follow-the-rest-of-the-ifpi-in-suing-for-file-sharing-of-music.md)

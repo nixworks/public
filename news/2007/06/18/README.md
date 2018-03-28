@@ -29,7 +29,7 @@ _Context: Croatia, Mirko Norac, Rahim Ademi, Serb, Zagreb_
 
 ##### Sexual relations
 ### [ A global internet pedophilia ring with over 700 suspects worldwide is smashed by UK police; 31 children are rescued. ](/news/2007/06/18/a-global-internet-pedophilia-ring-with-over-700-suspects-worldwide-is-smashed-by-uk-police-31-children-are-rescued.md)
-_Context: UK, sexual relations_
+_Context: British, sexual relations_
 
 ##### Hamas
 ### [ Hamas leader Mahmoud al-Zahar issues an ultimatum to the Palestinian Army of Islam to free kidnapped BBC journalist Alan Johnston or face military action. ](/news/2007/06/18/hamas-leader-mahmoud-al-zahar-issues-an-ultimatum-to-the-palestinian-army-of-islam-to-free-kidnapped-bbc-journalist-alan-johnston-or-face-m.md)

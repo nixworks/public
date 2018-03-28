@@ -3,9 +3,9 @@ Formats: [HTML](2004/05/13/index.html)  [JSON](2004/05/13/index.json)  [XML](200
 
 ## [2004-05-13](/news/2004/05/13/index.md)
 
-##### Poland
+##### Polish
 ### [ A joint Polish-Egyptian archaeological team claims to have discovered the Library of Alexandria. ](/news/2004/05/13/a-joint-polishaegyptian-archaeological-team-claims-to-have-discovered-the-library-of-alexandria.md)
-_Context: Archaeologists, Egypt, Library of Alexandria, Poland_
+_Context: Archaeologists, Egypt, Library of Alexandria, Polish_
 
 ##### Sitcom
 ### [ The television sitcom "Frasier" airs its final episode, bringing to an end Kelsey Grammer's 23 years playing the character Frasier Crane. ](/news/2004/05/13/the-television-sitcom-frasier-airs-its-final-episode-bringing-to-an-end-kelsey-grammer-s-23-years-playing-the-character-frasier-crane.md)

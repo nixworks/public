@@ -17,7 +17,7 @@ _Context: Archbishop, Cardinal, Charles J. Chaput, Denver, Colorado, Justin Riga
 
 ##### United States House of Representatives
 ### [The United States House of Representatives votes to approve the "Cut, Cap and Balance Act" by 234-190 but it is unlikely to pass the United States Senate. ](/news/2011/07/19/the-united-states-house-of-representatives-votes-to-approve-the-cut-cap-and-balance-act-by-234-190-but-it-is-unlikely-to-pass-the-united.md)
-_Context: Senate, United States House of Representatives_
+_Context: US Senators, United States House of Representatives_
 
 ##### President
 ### [The President of the United States, Barack Obama, endorses in principle a bipartisan proposal developed in the United States Senate to cut debt. ](/news/2011/07/19/the-president-of-the-united-states-barack-obama-endorses-in-principle-a-bipartisan-proposal-developed-in-the-united-states-senate-to-cut-d.md)
@@ -69,7 +69,7 @@ _Context: Kyrgyzstan, Uzbekistan, earthquake_
 
 ##### Israeli Navy
 ### [Israel's navy confiscates a French yacht bound for Gaza, which departed from Greece and attempted to run the blockade after repeated warnings to make for Ashdod instead. No casualties are reported. ](/news/2011/07/19/israel-s-navy-confiscates-a-french-yacht-bound-for-gaza-which-departed-from-greece-and-attempted-to-run-the-blockade-after-repeated-warning.md)
-_Context: Ashdod, French, Gaza Strip, Greece, Israeli Navy, blockade_
+_Context: Ashdod, France, Gaza Strip, Greece, Israeli Navy, blockade_
 
 ##### Pakistan
 ### [Eight Pakistani employees of the United States based American Refugee Committee are kidnapped in southwest Pakistan near the border with Afghanistan. ](/news/2011/07/19/eight-pakistani-employees-of-the-united-states-based-american-refugee-committee-are-kidnapped-in-southwest-pakistan-near-the-border-with-afg.md)

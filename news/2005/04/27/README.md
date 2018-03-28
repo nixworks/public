@@ -65,7 +65,7 @@ The Asahi Shimbun is widely regarded for its journalism as the most respected da
 
 ##### Airbus
 ### [ The new Airbus A380 performs its maiden flight, in Toulouse, France. The A380 replaces the Boeing 747 ("jumbo jet") as the world's largest passenger plane. ](/news/2005/04/27/the-new-airbus-a380-performs-its-maiden-flight-in-toulouse-france-the-a380-replaces-the-boeing-747-jumbo-jet-as-the-world-s-largest.md)
-_Context: A380, Airbus, Boeing, Boeing 747, French, Toulouse, airliner, maiden flight_
+_Context: A380, Airbus, Boeing, Boeing 747, France, Toulouse, airliner, maiden flight_
 
 ##### Palestinians
 ### [ Two Palestinians, both aged 15, are arrested in a checkpoint near Jenin after 11 explosive charges were found on them. One teenager told interrogators that he was recruited to act as a couriers by the Palestinian Islamic Jihad and the second by the al-Aqsa Martyrs' Brigades. ](/news/2005/04/27/two-palestinians-both-aged-15-are-arrested-in-a-checkpoint-near-jenin-after-11-explosive-charges-were-found-on-them-one-teenager-told-in.md)

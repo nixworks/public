@@ -3,9 +3,9 @@ Formats: [HTML](2008/06/14/index.html)  [JSON](2008/06/14/index.json)  [XML](200
 
 ## [2008-06-14](/news/2008/06/14/index.md)
 
-##### French
+##### France
 ### [ The French Defense Ministry announces France is increasing its military presence in Djibouti following border clashes with Eritrea. France has a mutual defense agreement with Djibouti. ](/news/2008/06/14/the-french-defense-ministry-announces-france-is-increasing-its-military-presence-in-djibouti-following-border-clashes-with-eritrea-france.md)
-_Context: Djibouti, Eritrea, French, border clashes_
+_Context: Djibouti, Eritrea, France, border clashes_
 
 ##### Magnitude
 ### [ The magnitude 6.8 M w 2008 Iwate earthquake shakes Iwate and Miyagi Prefectures on Japan's main island of Honshu, killing at least 6 people and injuring at least 8 others.](/news/2008/06/14/the-magnitude-6-8-m-w-2008-iwate-earthquake-shakes-iwate-and-miyagi-prefectures-on-japan-s-main-island-of-honsha-killing-at-least-6-peopl.md)

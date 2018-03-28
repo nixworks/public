@@ -21,7 +21,7 @@ _Context: Consumer Price Index, July 2008, United States_
 
 ##### Donald Tusk
 ### [ Donald Tusk, the Prime Minister of Poland, announces that the United States and Poland have reached an agreement on basing missile defense in Poland. ](/news/2008/08/14/donald-tusk-the-prime-minister-of-poland-announces-that-the-united-states-and-poland-have-reached-an-agreement-on-basing-missile-defense.md)
-_Context: Donald Tusk, Poland, Polish Prime Minister, United States, missile defense_
+_Context: Donald Tusk, Polish, Polish Prime Minister, United States, missile defense_
 
 ## [Previous Day...](/news/2008/08/13/index.md)
 

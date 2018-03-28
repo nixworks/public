@@ -35,9 +35,9 @@ The Obama administration rejected calls for a nationwide moratorium on housing f
 ### [The Australian dollar reaches its highest level against the United States dollar in 27 years. ](/news/2010/10/13/the-australian-dollar-reaches-its-highest-level-against-the-united-states-dollar-in-27-years.md)
 _Context: A$, US$_
 
-##### French
+##### France
 ### [French unions continue mass strikes for a second day with over one million people protesting on Tuesday against pension reform. ](/news/2010/10/13/french-unions-continue-mass-strikes-for-a-second-day-with-over-one-million-people-protesting-on-tuesday-against-pension-reform.md)
-_Context: French_
+_Context: France_
 
 ##### India
 ### [India will spend $2.3 trillion by 2030 to attempt to improve energy efficiency and use of clean technology.](/news/2010/10/13/india-will-spend-2-3-trillion-by-2030-to-attempt-to-improve-energy-efficiency-and-use-of-clean-technology.md)

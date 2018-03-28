@@ -39,9 +39,9 @@ Eyewitnesses in Gaza say girl, two boys killed and a number of other children in
 ### [ John Holmes, the United Nations' emergency relief coordinator, warns that refugees of the Darfur conflict are arming themselves and may soon be able to defend themselves if the Sudanese government renews its attacks. ](/news/2007/08/29/john-holmes-the-united-nations-emergency-relief-coordinator-warns-that-refugees-of-the-darfur-conflict-are-arming-themselves-and-may-soo.md)
 _Context: Darfur conflict, John Holmes, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, United Nations_
 
-##### Senate
+##### US Senators
 ### [ The United States Senate Republican Party leadership requests that Senator Larry Craig of Idaho stand aside from his Senate committees until the United States Senate Select Committee on Ethics makes a ruling on his situation. Senator Craig agrees. ](/news/2007/08/29/the-united-states-senate-republican-party-leadership-requests-that-senator-larry-craig-of-idaho-stand-aside-from-his-senate-committees-unti.md)
-_Context: Idaho, Larry Craig, Republican, Senate, Senate Select Committee on Ethics, Senate committees_
+_Context: Idaho, Larry Craig, Republican, Senate Select Committee on Ethics, Senate committees, US Senators_
 
 ##### NASA
 ### [ A NASA internal investigation finds no evidence of heavy drinking or drunkenness amongst astronauts prior to missions. ](/news/2007/08/29/a-nasa-internal-investigation-finds-no-evidence-of-heavy-drinking-or-drunkenness-amongst-astronauts-prior-to-missions.md)
@@ -61,7 +61,7 @@ Thousands of workers have marched in Santiago against the economic policies of P
 
 ##### U.S. military
 ### [ The United States Department of Defense's inspector general launches an investigation into the United States military's inability to account for weapons sent to Iraq after reports that Kurdish militants were using US weapons to attack Turkey. ](/news/2007/08/29/the-united-states-department-of-defense-s-inspector-general-launches-an-investigation-into-the-united-states-military-s-inability-to-accoun.md)
-_Context: Iraq, Kurd, Turkish, U.S. military_
+_Context: Iraq, Kurd, Turkey, U.S. military_
 
 ##### Tim Johnson
 ### [ Senator Tim Johnson announces that he will return to the United States Senate on September 5 after recovering from brain surgery since last December. ](/news/2007/08/29/senator-tim-johnson-announces-that-he-will-return-to-the-united-states-senate-on-september-5-after-recovering-from-brain-surgery-since-last.md)

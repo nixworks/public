@@ -97,7 +97,7 @@ Iraqi forces have launched an offensive to retake Ramadi from Islamic State mili
 
 ##### Paris attack aftermath
 ### [French intelligence services are reportedly operating under the theory that Paris-attacks suspect Salah Abdeslam has escaped to Syria despite country-wide martial law in 3 different countries. ](/news/2015/11/30/french-intelligence-services-are-reportedly-operating-under-the-theory-that-paris-attacks-suspect-salah-abdeslam-has-escaped-to-syria-despit.md)
-_Context: French, November 2015 Paris attacks, Paris attack aftermath, Salah Abdeslam, Syria, intelligence services, martial law_
+_Context: France, November 2015 Paris attacks, Paris attack aftermath, Salah Abdeslam, Syria, intelligence services, martial law_
 
 ## [Previous Day...](/news/2015/11/29/index.md)
 

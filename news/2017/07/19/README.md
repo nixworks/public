@@ -11,7 +11,7 @@ The country has agreed to move about a thousand animals to sanctuaries.
 ### [U.S. President Donald Trump nominates Mark Esper as Secretary of the Army. ](/news/2017/07/19/u-s-president-donald-trump-nominates-mark-esper-as-secretary-of-the-army.md)
 _Context: Mark Esper, Political appointments by Donald Trump, Secretary of the Army, Trump_
 
-##### Senate
+##### US Senators
 ### [U.S. Senator John McCain is diagnosed with a malignant brain cancer, glioblastoma multiforme. This is his second battle with cancer, after having been successfully treated for malignant melanoma. ](/news/2017/07/19/u-s-senator-john-mccain-is-diagnosed-with-a-malignant-brain-cancer-glioblastoma-multiforme-this-is-his-second-battle-with-cancer-after-h.md)
 McCain was diagnosed with a tumor called a glioblastoma after the removal of a blood clot above his left eye last week.
 

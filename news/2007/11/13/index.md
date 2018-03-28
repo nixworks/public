@@ -27,7 +27,7 @@ _Context: Strait of Kerch, environmental disaster, fuel oil, oil spill, sailor, 
 ### [ An explosion hits the south wing of the House of Representatives of the Philippines in Quezon City, killing three people, including Congressman Wahab Akbar, and wounding 10. ](/news/2007/11/13/an-explosion-hits-the-south-wing-of-the-house-of-representatives-of-the-philippines-in-quezon-city-killing-three-people-including-congres.md)
 _Context: Congressman, Philippine lower House, Philippines, Quezon City, Wahab Akbar, explosion_
 
-##### French
+##### France
 ### [ In France, rail workers and Paris Mtro personnel go on strike in the first wave of public-sector strikes. ](/news/2007/11/13/in-france-rail-workers-and-paris-metro-personnel-go-on-strike-in-the-first-wave-of-public-sector-strikes.md)
 French commuters dusted off old bikes and aired their walking shoes on Tuesday in anticipation of a transport strike that is set to last for days and could become the biggest the country has seen in more than 10 years.
 
@@ -39,9 +39,9 @@ _Context: Russia, United Russia, Vladimir Putin, parliamentary elections_
 ### [ 21 Cameroonian soldiers are killed by unknown attackers in the Bakassi peninsula. ](/news/2007/11/13/21-cameroonian-soldiers-are-killed-by-unknown-attackers-in-the-bakassi-peninsula.md)
 _Context: Bakassi, Cameroon_
 
-##### Turkish
+##### Turkey
 ### [ Turkish helicopters bomb several Kurdistan Workers Party positions in northern Iraq. ](/news/2007/11/13/turkish-helicopters-bomb-several-kurdistan-workers-party-positions-in-northern-iraq.md)
-_Context: Iraq, Kurdistan Workers Party, Turkish, helicopter_
+_Context: Iraq, Kurdistan Workers Party, Turkey, helicopter_
 
 ##### Fossil
 ### [ The fossil of a new prehistoric great ape species, named "Nakalipithecus nakayamai", is discovered in Kenya. ](/news/2007/11/13/the-fossil-of-a-new-prehistoric-great-ape-species-named-nakalipithecus-nakayamai-is-discovered-in-kenya.md)

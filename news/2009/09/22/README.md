@@ -79,9 +79,9 @@ _Context: Kaoshiung, Rebiya Kadeer, Taiwan, Uyghur_
 ### [ China bans foreigners from entering Tibet, ahead of the 60th anniversary celebrations of the People's Republic. ](/news/2009/09/22/china-bans-foreigners-from-entering-tibet-ahead-of-the-60th-anniversary-celebrations-of-the-people-s-republic.md)
 _Context: 60th anniversary of the founding, China, Tibet Autonomous Region_
 
-##### French
+##### France
 ### [ French riot police detain 278 migrants in Calais in an operation to dismantle the "jungle" camp. ](/news/2009/09/22/french-riot-police-detain-278-migrants-in-calais-in-an-operation-to-dismantle-the-jungle-camp.md)
-_Context: Calais, French, migrants_
+_Context: Calais, France, migrants_
 
 ##### Irish
 ### [ New figures reveal that for the first time since 1995 more people emigrated from Ireland than immigrated there, with a growth of more than 40% from January&ndash;April 2009. Most of the emigrants are Eastern European or Irish nationals. ](/news/2009/09/22/new-figures-reveal-that-for-the-first-time-since-1995-more-people-emigrated-from-ireland-than-immigrated-there-with-a-growth-of-more-than.md)

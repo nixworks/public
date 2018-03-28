@@ -9,7 +9,7 @@ _Context: Slurpee Summit_
 
 ##### United States Secretary of Defense
 ### [United States Secretary of Defense Robert Gates urges the United States Senate to abolish "don't ask don't tell" for gays and lesbians serving in the US military and releases a report showing that ending the policy would have little impact. ](/news/2010/11/30/united-states-secretary-of-defense-robert-gates-urges-the-united-states-senate-to-abolish-don-t-ask-don-t-tell-for-gays-and-lesbians-servi.md)
-_Context: Robert Gates, Senate, US military, United States Secretary of Defense, don't ask don't tell_
+_Context: Robert Gates, US Senators, US military, United States Secretary of Defense, don't ask don't tell_
 
 ##### Minister for Justice and Equality
 ### [Irish Minister for Justice and Law Reform Dermot Ahern announces he is not to contest his seat in Dail Eireann at the next general election (due in 2011) as he has "a painful medical condition necessitating heavy medication". ](/news/2010/11/30/irish-minister-for-justice-and-law-reform-dermot-ahern-announces-he-is-not-to-contest-his-seat-in-da-il-aireann-at-the-next-general-electio.md)

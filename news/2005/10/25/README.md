@@ -5,7 +5,7 @@ Formats: [HTML](2005/10/25/index.html)  [JSON](2005/10/25/index.json)  [XML](200
 
 ##### Paul Hackett
 ### [ Paul Hackett, who in August narrowly lost an April 2005 by-election for an Ohio U.S. House of Representatives seat to Jean Schmidt, announced that he will seek the Democratic Senate nomination to run against incumbent Ohio Senator Mike DeWine, a Republican. ](/news/2005/10/25/paul-hackett-who-in-august-narrowly-lost-an-april-2005-by-election-for-an-ohio-u-s-house-of-representatives-seat-to-jean-schmidt-announc.md)
-_Context: Democrat, Jean Schmidt, Mike DeWine, Paul Hackett, Republican, Senate, U.S. House of Representatives_
+_Context: Democrat, Jean Schmidt, Mike DeWine, Paul Hackett, Republican, U.S. House of Representatives, US Senators_
 
 ##### Iraq
 ### [ Iraq's Independent Electoral Commission announces that the country's draft constitution was approved in the vote held October 15. ](/news/2005/10/25/iraq-s-independent-electoral-commission-announces-that-the-country-s-draft-constitution-was-approved-in-the-vote-held-october-15.md)

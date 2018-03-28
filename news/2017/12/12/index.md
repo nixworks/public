@@ -17,7 +17,7 @@ _Context: Ed Lee, Government of San Francisco, London Breed, Mayor of San Franci
 
 ##### Foreign relations of Rwanda
 ### [Rwanda steps up pressure on France to admit alleged complicity in the 1994 genocide by publishing a report by law firm "Cunningham Levy Muse". ](/news/2017/12/12/rwanda-steps-up-pressure-on-france-to-admit-alleged-complicity-in-the-1994-genocide-by-publishing-a-report-by-law-firm-cunningham-levy-muse.md)
-_Context: 1994 genocide, Foreign relations of France, Foreign relations of Rwanda, French, Rwanda, law firm_
+_Context: 1994 genocide, Foreign relations of France, Foreign relations of Rwanda, France, Rwanda, law firm_
 
 ##### Syrian Civil War
 ### [The Syrian opposition urges Russian president Vladimir Putin to put pressure on Syrian president Bashar al-Assad in order to "rescue" the Geneva peace talks and begin face-to-face bilateral talks. ](/news/2017/12/12/the-syrian-opposition-urges-russian-president-vladimir-putin-to-put-pressure-on-syrian-president-bashar-al-assad-in-order-to-rescue-the-ge.md)

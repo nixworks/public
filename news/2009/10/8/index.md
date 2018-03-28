@@ -15,7 +15,7 @@ _Context: Muslim_
 ### [ DNA analysis reveals the identity of the "cursed blood" disorder that afflicted the British Royal Family in the 19th and early 20th centuries. ](/news/2009/10/8/dna-analysis-reveals-the-identity-of-the-cursed-blood-disorder-that-afflicted-the-british-royal-family-in-the-19th-and-early-20th-centuri.md)
 _Context: British Royal Family, DNA_
 
-##### Poland
+##### Polish
 ### [ Polish President Lech Kaczynski announces his intention to sign the Treaty of Lisbon on Saturday October 10, completing the country's ratification process. The Polish ratification ceremony is due to be attended by President of the European Commission Jose Manuel Barroso. ](/news/2009/10/8/polish-president-lech-kaczyaski-announces-his-intention-to-sign-the-treaty-of-lisbon-on-saturday-october-10-completing-the-country-s-rati.md)
 Lech Kaczynski signs Lisbon EU reform treaty leaving only Czechs to ratify document.
 

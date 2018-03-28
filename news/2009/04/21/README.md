@@ -21,7 +21,7 @@ The Pentagon and Lockheed Martin Corp, its top supplier, discounted a Wall Stree
 
 ##### World Digital Library
 ### [ The World Digital Library launches at UNESCO's headquarters in Paris, France. ](/news/2009/04/21/the-world-digital-library-launches-at-unesco-s-headquarters-in-paris-france.md)
-_Context: French, Paris, UNESCO, World Digital Library_
+_Context: France, Paris, UNESCO, World Digital Library_
 
 ##### Maritime forces
 ### [ Twelve navies from the Americas begin annual UNITAS Gold exercises near Florida, United States. ](/news/2009/04/21/twelve-navies-from-the-americas-begin-annual-unitas-gold-exercises-near-florida-united-states.md)

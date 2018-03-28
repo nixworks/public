@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/26/four-turkish-workers-are-kidnapped-in-eastern-a
 
 ### [2010-12-26](/news/2010/12/26/index.md)
 
-##### Turkish
+##### Turkey
 # Four Turkish workers are kidnapped in eastern Afghanistan. 
 
 
@@ -17,8 +17,8 @@ Formats: [HTML](/news/2010/12/26/four-turkish-workers-are-kidnapped-in-eastern-a
 
 ### Related:
 
-1. [Australia and New Zealand mark Anzac Day. Events occur in Afghanistan, France, Turkey and Vietnam, while Julia Gillard heads to South Korea. ](/news/2011/04/25/australia-and-new-zealand-mark-anzac-day-events-occur-in-afghanistan-france-turkey-and-vietnam-while-julia-gillard-heads-to-south-korea.md) _Context: Afghanistan, Turkish_
-2. [A tripartite summit of Afghanistan, Pakistan and Turkey is held in Istanbul, aimed at boosting trust between Afghanistan and Pakistan. ](/news/2010/12/24/a-tripartite-summit-of-afghanistan-pakistan-and-turkey-is-held-in-istanbul-aimed-at-boosting-trust-between-afghanistan-and-pakistan.md) _Context: Afghanistan, Turkish_
-3. [Ayman al-Zawahiri, speaking via an audio message, criticises the Turkish government for what he says is co-operation with Israel, as well as "killing Muslims in Afghanistan". ](/news/2010/08/15/ayman-al-zawahiri-speaking-via-an-audio-message-criticises-the-turkish-government-for-what-he-says-is-co-operation-with-israel-as-well-as.md) _Context: Afghanistan, Turkish_
-4. [According to the Syrian Observatory for Human Rights, at least 36 pro-Syrian government troops were killed in a Turkish airstrike in Afrin, Syria. ](/news/2018/03/3/according-to-the-syrian-observatory-for-human-rights-at-least-36-pro-syrian-government-troops-were-killed-in-a-turkish-airstrike-in-afrin.md) _Context: Turkish_
-5. [European Council President Donald Tusk and European Commission President Jean-Claude Juncker conclude talks with Turkish President Recep Tayyip Erdogan. The parties say they have been unable to agree on human rights issues but pledge to hold more talks. ](/news/2018/03/26/european-council-president-donald-tusk-and-european-commission-president-jean-claude-juncker-conclude-talks-with-turkish-president-recep-tay.md) _Context: Turkish_
+1. [Australia and New Zealand mark Anzac Day. Events occur in Afghanistan, France, Turkey and Vietnam, while Julia Gillard heads to South Korea. ](/news/2011/04/25/australia-and-new-zealand-mark-anzac-day-events-occur-in-afghanistan-france-turkey-and-vietnam-while-julia-gillard-heads-to-south-korea.md) _Context: Afghanistan, Turkey_
+2. [A tripartite summit of Afghanistan, Pakistan and Turkey is held in Istanbul, aimed at boosting trust between Afghanistan and Pakistan. ](/news/2010/12/24/a-tripartite-summit-of-afghanistan-pakistan-and-turkey-is-held-in-istanbul-aimed-at-boosting-trust-between-afghanistan-and-pakistan.md) _Context: Afghanistan, Turkey_
+3. [Ayman al-Zawahiri, speaking via an audio message, criticises the Turkish government for what he says is co-operation with Israel, as well as "killing Muslims in Afghanistan". ](/news/2010/08/15/ayman-al-zawahiri-speaking-via-an-audio-message-criticises-the-turkish-government-for-what-he-says-is-co-operation-with-israel-as-well-as.md) _Context: Afghanistan, Turkey_
+4. [According to the Syrian Observatory for Human Rights, at least 36 pro-Syrian government troops were killed in a Turkish airstrike in Afrin, Syria. ](/news/2018/03/3/according-to-the-syrian-observatory-for-human-rights-at-least-36-pro-syrian-government-troops-were-killed-in-a-turkish-airstrike-in-afrin.md) _Context: Turkey_
+5. [The government of Turkey states that eleven Kurdish militants have been killed near its Syrian border, and two soldiers were killed by an explosion in Syria. ](/news/2018/03/27/the-government-of-turkey-states-that-eleven-kurdish-militants-have-been-killed-near-its-syrian-border-and-two-soldiers-were-killed-by-an-ex.md) _Context: Turkey_

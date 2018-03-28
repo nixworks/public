@@ -33,7 +33,7 @@ _Context: Gaza Strip, Israel, Israeli Army, bomb_
 
 ##### United States
 ### [ The United States Senate confirms Timothy F. Geithner as Secretary of the Treasury. ](/news/2009/01/26/the-united-states-senate-confirms-timothy-f-geithner-as-secretary-of-the-treasury.md)
-_Context: Senate, Timothy F. Geithner, United States, United States Secretary of the Treasury_
+_Context: Timothy F. Geithner, US Senators, United States, United States Secretary of the Treasury_
 
 ## [Previous Day...](/news/2009/01/25/index.md)
 

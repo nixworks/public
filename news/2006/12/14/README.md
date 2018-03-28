@@ -23,9 +23,9 @@ _Context: 1997, Death of Diana, Princess of Wales, London, Lord Stevens, Metropo
 ### [ Gunmen dressed in military uniforms kidnap between 20 and 30 people in the Sanak area of central Baghdad. ](/news/2006/12/14/gunmen-dressed-in-military-uniforms-kidnap-between-20-and-30-people-in-the-sanak-area-of-central-baghdad.md)
 _Context: Baghdad, kidnapped_
 
-##### Senate
+##### US Senators
 ### [ U.S. Senator Tim Johnson (D-SD) undergoes surgery after suffering a brain hemorrhage due to an arteriovenous malformation. If he is incapacitated, the Republican Party Governor of South Dakota, Mike Rounds, will be able to appoint his replacement, potentially changing the balance of the Senate. ](/news/2006/12/14/u-s-senator-tim-johnson-d-sd-undergoes-surgery-after-suffering-a-brain-hemorrhage-due-to-an-arteriovenous-malformation-if-he-is-incapac.md)
-_Context: Democrat, Mike Rounds, Republican, Senate, South Dakota, South Dakota Governor, Tim Johnson, arteriovenous malformation, brain hemorrhage_
+_Context: Democrat, Mike Rounds, Republican, South Dakota, South Dakota Governor, Tim Johnson, US Senators, arteriovenous malformation, brain hemorrhage_
 
 ##### Supreme Court
 ### [ The Supreme Court of Israel decides that the targeted assassination of Palestinian militants by the Israeli military can be legal under international law. ](/news/2006/12/14/the-supreme-court-of-israel-decides-that-the-targeted-assassination-of-palestinian-militants-by-the-israeli-military-can-be-legal-under-int.md)

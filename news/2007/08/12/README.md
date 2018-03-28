@@ -35,9 +35,9 @@ _Context: Gholamhossein Nozari, Kazem Vaziri-Hamaneh, Mahmoud Ahmadinejad, NIOC,
 ### [ Nouri al-Maliki, the Prime Minister of Iraq, calls for emergency talks with Iraq's political leaders to try to save his national unity government. ](/news/2007/08/12/nouri-al-maliki-the-prime-minister-of-iraq-calls-for-emergency-talks-with-iraq-s-political-leaders-to-try-to-save-his-national-unity-gove.md)
 Iraqi Prime Minister Nouri al-Maliki has called for the senior leaders from Iraq&#039;s bitterly divided communities to hold crisis talks aimed at saving his beleaguered national unity government.
 
-##### Turkish
+##### Turkey
 ### [ People claiming to be from Turkey attack the United Nations website forcing some sections to be taken offline. ](/news/2007/08/12/people-claiming-to-be-from-turkey-attack-the-united-nations-website-forcing-some-sections-to-be-taken-offline.md)
-_Context: Turkish, United Nations_
+_Context: Turkey, United Nations_
 
 ##### South Africa
 ### [ South Africa refuses to set up a refugee camp for the influx of people fleeing Zimbabwe. ](/news/2007/08/12/south-africa-refuses-to-set-up-a-refugee-camp-for-the-influx-of-people-fleeing-zimbabwe.md)

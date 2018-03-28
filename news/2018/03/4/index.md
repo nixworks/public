@@ -29,7 +29,7 @@ Populist and anti-immigrant parties could make major gains in an unpredictable c
 
 ##### Presidency of Donald Trump
 ### [In a private speech to Republican donors at Mar-a-Lago, U.S. President Donald Trump congratulates Chinese President Xi Jinping on eliminating China's presidential term limits, reportedly advocates for similar action to be taken in the United States. ](/news/2018/03/4/in-a-private-speech-to-republican-donors-at-mar-a-lago-u-s-president-donald-trump-congratulates-chinese-president-xi-jinping-on-eliminatin.md)
-_Context: Mar-a-Lago, Presidency of Donald Trump, President, Trump, Xi Jinping, president, president for life_
+_Context: Chinese President, Mar-a-Lago, Presidency of Donald Trump, President, Trump, Xi Jinping, president for life_
 
 ##### North Korea-South Korea relations
 ### [South Korean President Moon Jae-in announces he is sending two officials to meet with North Korea. ](/news/2018/03/4/south-korean-president-moon-jae-in-announces-he-is-sending-two-officials-to-meet-with-north-korea.md)

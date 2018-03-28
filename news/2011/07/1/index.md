@@ -59,7 +59,7 @@ EXCLUSIVE: Climax to bribery scandal as Federal Police raid Melbourne homes of f
 ### [A Moscow court declares books and brochures by Scientology founder L. Ron Hubbard as "extremist", banning them from distribution in Russia. ](/news/2011/07/1/a-moscow-court-declares-books-and-brochures-by-scientology-founder-l-ron-hubbard-as-extremist-banning-them-from-distribution-in-russia.md)
 _Context: L. Ron Hubbard, Moscow, Russia, Scientology_
 
-##### Poland
+##### Polish
 ### [Poland takes over the Presidency of the Council of the European Union for six months. ](/news/2011/07/1/poland-takes-over-the-presidency-of-the-council-of-the-european-union-for-six-months.md)
 Poland assumes the six-month rotating presidency of the EU for the first time since it joined the bloc in 2004.
 

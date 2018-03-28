@@ -35,11 +35,11 @@ An enthusiastic Polish crowd chanted President Donald Trump&#8217;s name and &#8
 
 ##### Alternative fuel vehicles
 ### [French ecology minister Nicolas Hulot announces France is to ban the sale of petrol and diesel vehicles by 2040. ](/news/2017/07/6/french-ecology-minister-nicolas-hulot-announces-france-is-to-ban-the-sale-of-petrol-and-diesel-vehicles-by-2040.md)
-_Context: 2040, Alternative fuel vehicles, French, Nicolas Hulot, diesel-powered, ecology minister, petrol engine vehicles_
+_Context: 2040, Alternative fuel vehicles, France, Nicolas Hulot, diesel-powered, ecology minister, petrol engine vehicles_
 
 ##### World heritage sites
 ### [In a meeting held in the city of Krakow, Poland, UNESCO decides not to include Machu Picchu on its list of endangered heritage sites due to the steps taken by Peruvian authorities to address concerns about the condition of the Inca citadel. ](/news/2017/07/6/in-a-meeting-held-in-the-city-of-kraka3w-poland-unesco-decides-not-to-include-machu-picchu-on-its-list-of-endangered-heritage-sites-due-to.md)
-_Context: Krakow, Machu Picchu, Poland, UNESCO, World heritage sites, list of endangered heritage sites_
+_Context: Krakow, Machu Picchu, Polish, UNESCO, World heritage sites, list of endangered heritage sites_
 
 ## [Previous Day...](/news/2017/07/5/index.md)
 

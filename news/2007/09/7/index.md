@@ -39,9 +39,9 @@ _Context: Amrozi bin Nurhasyim, Bali bomber, Indonesia_
 ### [ Global Stock Markets fall sharply amid recession fears after the release of a report that shows a surprise decline of the US workforce in August, for the first time in four years. ](/news/2007/09/7/global-stock-markets-fall-sharply-amid-recession-fears-after-the-release-of-a-report-that-shows-a-surprise-decline-of-the-us-workforce-in-a.md)
 _Context: Stock Markets, United States, recession, workforce_
 
-##### Poland
+##### Polish
 ### [ The Polish Sejm votes to dissolve itself, causing early parliamentary elections in October 2007. ](/news/2007/09/7/the-polish-sejm-votes-to-dissolve-itself-causing-early-parliamentary-elections-in-october-2007.md)
-_Context: Poland, Sejm, parliamentary elections_
+_Context: Polish, Sejm, parliamentary elections_
 
 ##### Hurricane Felix (2007)
 ### [ Hurricane Felix (2007): The death toll from Hurricane Felix rises to at least 130 in Nicaragua and Honduras. ](/news/2007/09/7/hurricane-felix-2007-the-death-toll-from-hurricane-felix-rises-to-at-least-130-in-nicaragua-and-honduras.md)

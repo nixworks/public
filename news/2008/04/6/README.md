@@ -5,7 +5,7 @@ Formats: [HTML](2008/04/6/index.html)  [JSON](2008/04/6/index.json)  [XML](2008/
 
 ##### Muslim
 ### [ Vandals desecrate 148 Muslim graves in France's biggest World War I cemetery at Notre Dame de Lorette outside Arras in northern France. ](/news/2008/04/6/vandals-desecrate-148-muslim-graves-in-france-s-biggest-world-war-i-cemetery-at-notre-dame-de-lorette-outside-arras-in-northern-france.md)
-_Context: Arras, First World War, French, Muslim, Notre Dame de Lorette_
+_Context: Arras, First World War, France, Muslim, Notre Dame de Lorette_
 
 ##### Jeyaraj Fernandopulle
 ### [ At least ten people including Government minister Jeyaraj Fernandopulle are killed in an explosion near Colombo, Sri Lanka. ](/news/2008/04/6/at-least-ten-people-including-government-minister-jeyaraj-fernandopulle-are-killed-in-an-explosion-near-colombo-sri-lanka.md)

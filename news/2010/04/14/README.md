@@ -29,7 +29,7 @@ _Context: Tokelau, whaling_
 
 ##### Lech Kaczynski
 ### [Controversy arises over the decision to bury Polish President Lech Kaczynski in Wawel Cathedral in Krakow--a place reserved for Poland's kings and heroes. Hundreds of people have taken to the streets in protest, and thousands have joined an internet campaign objecting to the plan. ](/news/2010/04/14/controversy-arises-over-the-decision-to-bury-polish-president-lech-kaczyaski-in-wawel-cathedral-in-kraka3waa-place-reserved-for-poland-s.md)
-_Context: Lech Kaczynski, Poland, Wawel Cathedral_
+_Context: Lech Kaczynski, Polish, Wawel Cathedral_
 
 ##### Barack Obama
 ### [It is reported that U.S. President Barack Obama on Thursday will unveil a "bold and daring" new space mission to send astronauts to Mars months after he controversially scrapped a project to return to the Moon. ](/news/2010/04/14/it-is-reported-that-u-s-president-barack-obama-on-thursday-will-unveil-a-bold-and-daring-new-space-mission-to-send-astronauts-to-mars-mon.md)

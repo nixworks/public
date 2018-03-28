@@ -19,9 +19,9 @@ _Context: District 9, Nigeria_
 ### [ Pope Benedict XVI announces he is to hold a special meeting of Roman Catholic bishops to discuss the concerns and challenges of the Church in the Middle East in October 2010. ](/news/2009/09/19/pope-benedict-xvi-announces-he-is-to-hold-a-special-meeting-of-roman-catholic-bishops-to-discuss-the-concerns-and-challenges-of-the-church.md)
 Pope Benedict today announced he would hold a special meeting next year of Roman Catholic bishops to discuss the concerns and&hellip;
 
-##### French
+##### France
 ### [ France's government holds emergency talks with farmers to avert protests over falling dairy prices. ](/news/2009/09/19/france-s-government-holds-emergency-talks-with-farmers-to-avert-protests-over-falling-dairy-prices.md)
-_Context: French_
+_Context: France_
 
 ##### Vera Lynn
 ### [ Singer Vera Lynn, aged 92, becomes the oldest artist to obtain a number one album in the United Kingdom. ](/news/2009/09/19/singer-vera-lynn-aged-92-becomes-the-oldest-artist-to-obtain-a-number-one-album-in-the-united-kingdom.md)

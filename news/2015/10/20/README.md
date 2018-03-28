@@ -11,7 +11,7 @@ Scientists at the University of Central Florida suggest a common UV-filtering co
 ### [Research from University of California, Los Angeles scientists indicates that life on earth may have started 4.1 billion years ago - 300 million years earlier than previously thought. ](/news/2015/10/20/research-from-university-of-california-los-angeles-scientists-indicates-that-life-on-earth-may-have-started-4-1-billion-years-ago-a-300-m.md)
 &quot;Life on Earth may have started almost instantaneously. With the right ingredients, life seems to form very quickly,&quot; added Harrison.
 
-##### Senate
+##### US Senators
 ### [Former Virginia Senator Jim Webb announces his withdrawal from the race for the Democratic presidential nomination during a press conference at the National Press Club. He added that he would consider his other options in the coming weeks. Webb's campaign said he is weighing an independent bid. ](/news/2015/10/20/former-virginia-senator-jim-webb-announces-his-withdrawal-from-the-race-for-the-democratic-presidential-nomination-during-a-press-conference.md)
 Former Virginia Sen. Jim Webb plans to announce on Tuesday that he will drop out of the Democratic presidential race in favor of a potential independent presidential run.
 

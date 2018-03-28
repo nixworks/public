@@ -7,9 +7,9 @@ Formats: [HTML](2005/03/13/index.html)  [JSON](2005/03/13/index.json)  [XML](200
 ### [ In Italy, explosion in the Motta di Livenza injures three people. Officials suspect serial bomber ](/news/2005/03/13/in-italy-explosion-in-the-motta-di-livenza-injures-three-people-officials-suspect-serial-bomber.md)
 _Context: Motta di Livenza_
 
-##### Turkish
+##### Turkey
 ### [ In Turkey, authorities close down the Bosphorus shipping channel after a cargo ship that carried liquiefied petroleum gas sinks due to bad weather. It takes hours for the shipping authorities to collect gas tanks. ](/news/2005/03/13/in-turkey-authorities-close-down-the-bosphorus-shipping-channel-after-a-cargo-ship-that-carried-liquiefied-petroleum-gas-sinks-due-to-bad.md)
-_Context: Bosphorus, Turkish, petroleum_
+_Context: Bosphorus, Turkey, petroleum_
 
 ##### Muslim
 ### [ Muslim religious scholars in Pakistan announce a fatwa that decrees that heroin use is un-Islamic. The "fatwa" is pronounced in a seminar in Baluchistan. ](/news/2005/03/13/muslim-religious-scholars-in-pakistan-announce-a-fatwa-that-decrees-that-heroin-use-is-un-islamic-the-fatwa-is-pronounced-in-a-seminar-i.md)

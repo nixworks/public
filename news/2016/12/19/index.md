@@ -19,9 +19,9 @@ Electors across the country met on Monday and officially gave Mr. Trump a majori
 ### [A court in Paris finds International Monetary Fund Managing Director Christine Lagarde guilty of negligence in a 404 million euro "misuse of public funds" case. The court ruled that Lagarde won't be fined, won't serve any jail time, or receive a criminal record. The IMF Executive Board "looks forward to continuing to work with" her. ](/news/2016/12/19/a-court-in-paris-finds-international-monetary-fund-managing-director-christine-lagarde-guilty-of-negligence-in-a-404-million-euro-misuse-of.md)
 With the International Monetary Fund facing populist criticism and at a critical juncture, Ms. Lagarde was found guilty of charges linked to her time as France’s finance minister.
 
-##### Poland
+##### Polish
 ### [Polish protesters block the parliament in order to prevent the possibility of legalizing restrictions on press freedom. ](/news/2016/12/19/polish-protesters-block-the-parliament-in-order-to-prevent-the-possibility-of-legalizing-restrictions-on-press-freedom.md)
-_Context: Poland, Poland's parliament, press freedom_
+_Context: Poland's parliament, Polish, press freedom_
 
 ##### Beijing
 ### [Companies shut down production in Beijing and cars are taken off the road after a red alert for smog is issued in northern China. Dozens of cities have closed schools due to the smog. ](/news/2016/12/19/companies-shut-down-production-in-beijing-and-cars-are-taken-off-the-road-after-a-red-alert-for-smog-is-issued-in-northern-china-dozens-of.md)

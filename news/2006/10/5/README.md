@@ -17,7 +17,7 @@ _Context: Afghanistan, NATO_
 
 ##### NTV
 ### [ NTV television in Turkey reports that 260 Turkish soldiers will join the peacekeeping force in Lebanon. ](/news/2006/10/5/ntv-television-in-turkey-reports-that-260-turkish-soldiers-will-join-the-peacekeeping-force-in-lebanon.md)
-_Context: Lebanese, NTV, Turkish_
+_Context: Lebanese, NTV, Turkey_
 
 ##### Post-Soviet
 ### [ Post-Soviet Georgia holds the municipal elections seen as a crucial test for the country's current government amid the ongoing tensions with Russia. ](/news/2006/10/5/post-soviet-georgia-holds-the-municipal-elections-seen-as-a-crucial-test-for-the-countryas-current-government-amid-the-ongoing-tensions-w.md)

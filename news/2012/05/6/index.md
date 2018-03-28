@@ -19,7 +19,7 @@ _Context: Armenia, Republican Party, exit poll, parliamentary election_
 ### [Voters in Greece go to the polls for a parliamentary election with parties opposed to austerity measures winning 60 per cent of the vote and the two main parties in favour of austerity suffering withering defeats. ](/news/2012/05/6/voters-in-greece-go-to-the-polls-for-a-parliamentary-election-with-parties-opposed-to-austerity-measures-winning-60-per-cent-of-the-vote-and.md)
 Greeks are voting today in national elections that may determine whether the country has a future in the euro area.
 
-##### French
+##### France
 ### [Voters in France go to the polls for the second round of the French presidential election, with Franois Hollande elected President. ](/news/2012/05/6/voters-in-france-go-to-the-polls-for-the-second-round-of-the-french-presidential-election-with-francois-hollande-elected-president.md)
 Socialist Francois Hollande is expected to win France&#039;s presidential election despite a last-minute increase in support for Nicholas Sarkozy.
 

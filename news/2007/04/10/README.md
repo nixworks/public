@@ -35,9 +35,9 @@ _Context: Bosnian Muslims, Serb, Serbia, paramilitaries, war crimes_
 ### [ India's largest private airline, Jet Airways, has restarted talks to purchase Air Sahara. ](/news/2007/04/10/india-s-largest-private-airline-jet-airways-has-restarted-talks-to-purchase-air-sahara.md)
 _Context: Air Sahara, India, Jet Airways, airline_
 
-##### French
+##### France
 ### [ Seven French doctors will face charges related to the deaths of 110 patients who developed Creutzfeldt-Jakob disease after taking growth hormones in the 1980s. ](/news/2007/04/10/seven-french-doctors-will-face-charges-related-to-the-deaths-of-110-patients-who-developed-creutzfeldt-jakob-disease-after-taking-growth-ho.md)
-_Context: 1980s, Creutzfeldt-Jakob disease, French, doctor, growth hormone_
+_Context: 1980s, Creutzfeldt-Jakob disease, France, doctor, growth hormone_
 
 ##### Iraq War
 ### [ Iraq War: United States and Iraqi forces backed by attack helicopters fight gunmen in Baghdad in the heaviest fighting since the launch of a security crackdown in February 2007. ](/news/2007/04/10/iraq-war-united-states-and-iraqi-forces-backed-by-attack-helicopters-fight-gunmen-in-baghdad-in-the-heaviest-fighting-since-the-launch-of.md)

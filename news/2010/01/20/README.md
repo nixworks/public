@@ -9,7 +9,7 @@ A controversy over the withdrawal of Avatar from 2D cinema halls has forced the 
 
 ##### Microsoft
 ### [Microsoft issues a patch for a serious security hole in Internet Explorer 6 after France and Germany advised their citizens to change browsers. ](/news/2010/01/20/microsoft-issues-a-patch-for-a-serious-security-hole-in-internet-explorer-6-after-france-and-germany-advised-their-citizens-to-change-browse.md)
-_Context: French, Germany, Internet Explorer 6, Microsoft, patch, security hole, web browser_
+_Context: France, Germany, Internet Explorer 6, Microsoft, patch, security hole, web browser_
 
 ##### Vietnam
 ### [Vietnamese human rights lawyer Le Cong Dinh is convicted on charges of subversion and sentenced to five years in prison. ](/news/2010/01/20/vietnamese-human-rights-lawyer-le-cong-dinh-is-convicted-on-charges-of-subversion-and-sentenced-to-five-years-in-prison.md)

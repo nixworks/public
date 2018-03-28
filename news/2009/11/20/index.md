@@ -57,7 +57,7 @@ _Context: DR Congo, Republic of the Congo_
 
 ##### United States
 ### [ The United States Senate clears Senator Roland Burris of legal wrongdoing in relation to his appointment to the Senate. ](/news/2009/11/20/the-united-states-senate-clears-senator-roland-burris-of-legal-wrongdoing-in-relation-to-his-appointment-to-the-senate.md)
-_Context: Roland Burris, Senate, United States_
+_Context: Roland Burris, US Senators, United States_
 
 ##### Motion of no confidence
 ### [ Three political parties file a motion of no confidence against French Polynesian President Oscar Temaru. ](/news/2009/11/20/three-political-parties-file-a-motion-of-no-confidence-against-french-polynesian-president-oscar-temaru.md)

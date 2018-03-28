@@ -9,7 +9,7 @@ _Context: Anders Borg, Moderate Party, Swedish Minister of Finance_
 
 ##### Ewa Kopacz
 ### [Ewa Kopacz becomes Poland's second female prime minister. ](/news/2014/09/15/ewa-kopacz-becomes-poland-s-second-female-prime-minister.md)
-_Context: Ewa Kopacz, Poland, prime minister_
+_Context: Ewa Kopacz, Polish, prime minister_
 
 ##### Bass Lake, California
 ### [Two wildfires around Bass Lake, California, USA, cause the destruction of 21 homes and the evacuation of over 1,000 people. ](/news/2014/09/15/two-wildfires-around-bass-lake-california-usa-cause-the-destruction-of-21-homes-and-the-evacuation-of-over-1-000-people.md)

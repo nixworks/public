@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/03/6/avian-flu-outbreak-poland-confirms-first-outbrea
 
 ### [2006-03-6](/news/2006/03/6/index.md)
 
-##### Poland
+##### Polish
 #  Avian flu outbreak: Poland confirms first outbreak of H5N1, the bird flu virus, in two wild swans. 
 
 The first Polish case of H5 bird flu has been found in two swans found dead on the banks of the River Vistula in the northern city of Torun.

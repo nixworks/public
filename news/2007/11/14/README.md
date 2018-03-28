@@ -43,9 +43,9 @@ _Context: 62-hour train strike, Deutsche Bahn, Germany, train driver_
 ### [ The 2007 National Book Awards go to Denis Johnson ("Tree of Smoke"), fiction, Tim Weiner ("Legacy of Ashes: The History of the CIA"), non-fiction, Sherman Alexie ("The Absolutely True Diary of a Part-Time Indian"), young people's literature, and Robert Hass ("Time and Materials"), poetry. ](/news/2007/11/14/the-2007-national-book-awards-go-to-denis-johnson-tree-of-smoke-fiction-tim-weiner-legacy-of-ashes-the-history-of-the-cia-non-f.md)
 _Context: Denis Johnson, Legacy of Ashes: The History of the CIA, National Book Award's, Robert Hass, Sherman Alexie, The Absolutely True Diary of a Part-Time Indian, Tim Weiner, Time and Materials, Tree of Smoke_
 
-##### French
+##### France
 ### [ French transport and energy workers' strike against President Nicolas Sarkozy's pension reform broadens, disrupting especially rail services. ](/news/2007/11/14/french-transport-and-energy-workers-strike-against-president-nicolas-sarkozy-s-pension-reform-broadens-disrupting-especially-rail-service.md)
-_Context: French, Nicolas Sarkozy, President of France, energy, pension reform, rail service, strike, transport_
+_Context: France, Nicolas Sarkozy, President of France, energy, pension reform, rail service, strike, transport_
 
 ## [Previous Day...](/news/2007/11/13/index.md)
 

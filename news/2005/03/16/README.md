@@ -39,7 +39,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 ### [ Amnesty International states that fair elections are "impossible" in Zimbabwe. ](/news/2005/03/16/amnesty-international-states-that-fair-elections-are-impossible-in-zimbabwe.md)
 _Context: Amnesty International, Zimbabwe_
 
-##### Senate
+##### US Senators
 ### [ The United States Senate accuses seven US banks of complicity of allowing Augusto Pinochet to set up 100 bank accounts to hide money total to US$15 million. ](/news/2005/03/16/the-united-states-senate-accuses-seven-us-banks-of-complicity-of-allowing-augusto-pinochet-to-set-up-100-bank-accounts-to-hide-money-total.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 

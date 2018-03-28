@@ -49,11 +49,11 @@ _Context: Afghanistan, Congress, George W. Bush, Iraq, President, US$_
 
 ##### Kurdistan Workers Party
 ### [ The Kurdistan Workers Party declares a unilateral ceasefire following an attack on Turkish forces. ](/news/2007/10/22/the-kurdistan-workers-party-declares-a-unilateral-ceasefire-following-an-attack-on-turkish-forces.md)
-_Context: Kurdistan Workers Party, Turkish, ceasefire_
+_Context: Kurdistan Workers Party, Turkey, ceasefire_
 
-##### French
+##### France
 ### [ France and Morocco agree to a deal to build a high-speed rail link between Tangiers and Marrakech. ](/news/2007/10/22/france-and-morocco-agree-to-a-deal-to-build-a-high-speed-rail-link-between-tangiers-and-marrakech.md)
-_Context: French, Marrakech, Morocco, Tangiers, high-speed rail_
+_Context: France, Marrakech, Morocco, Tangiers, high-speed rail_
 
 ## [Previous Day...](/news/2007/10/21/index.md)
 

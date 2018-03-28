@@ -9,7 +9,7 @@ This week, the scientists and engineers on the Voyager team did something very s
 
 ##### Tax Cuts and Jobs Act of 2017
 ### [The United States Senate passes the Republican tax reform bill with a 51-49 vote. ](/news/2017/12/2/the-united-states-senate-passes-the-republican-tax-reform-bill-with-a-51a49-vote.md)
-_Context: Senate, Tax Cuts and Jobs Act of 2017, tax reform_
+_Context: Tax Cuts and Jobs Act of 2017, US Senators, tax reform_
 
 ##### United States and the United Nations
 ### [The Trump administrations withdraws the United States from the Global Compact on Migration of the United Nations. ](/news/2017/12/2/the-trump-administrations-withdraws-the-united-states-from-the-global-compact-on-migration-of-the-united-nations.md)

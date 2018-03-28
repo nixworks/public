@@ -15,9 +15,9 @@ _Context: Haiti, Jean-Claude Duvalier, President of Haiti_
 ### [Saad Hariri becomes caretaker Prime Minister of Lebanon following the collapse of his government due to resignation of 11 opposition ministers. ](/news/2011/01/16/saad-hariri-becomes-caretaker-prime-minister-of-lebanon-following-the-collapse-of-his-government-due-to-resignation-of-11-opposition-ministe.md)
 Lebanon was plunged deeper into political turmoil Wednesday with the collapse of Prime Minister Saad Hariri&#39;s national unity Cabinet after 10 ministers from the March 8 coalition and a minister loyal to President Michel Sleiman resigned over the U.N.-backed Special Tribunal for Lebanon.
 
-##### French
+##### France
 ### [France's National Front confirms 42-year-old Marine Le Pen as party leader, succeeding her father Jean-Marie Le Pen. ](/news/2011/01/16/france-s-national-front-confirms-42-year-old-marine-le-pen-as-party-leader-succeeding-her-father-jean-marie-le-pen.md)
-_Context: French, Jean-Marie Le Pen, Marine Le Pen, National Front_
+_Context: France, Jean-Marie Le Pen, Marine Le Pen, National Front_
 
 ##### Libya
 ### [Libyan leader Muammar al-Gaddafi reaches 41 years in power; there are less than 24 months left until he is scheduled to become Africa's longest serving ruler, overtaking former Gabonese President Omar Bongo who died in 2009. ](/news/2011/01/16/libyan-leader-muammar-al-gaddafi-reaches-41-years-in-power-there-are-less-than-24-months-left-until-he-is-scheduled-to-become-africa-s-long.md)

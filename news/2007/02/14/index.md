@@ -49,7 +49,7 @@ _Context: Arun Sarin, CEO, India, US$, Vodafone Group Plc_
 
 ##### United States Senate election, 2008
 ### [ United States Senate election, 2008: Author and comedian Al Franken announces his candidacy for Senator of Minnesota. ](/news/2007/02/14/united-states-senate-election-2008-author-and-comedian-al-franken-announces-his-candidacy-for-senator-of-minnesota.md)
-_Context: Al Franken, Minnesota, Senate, United States Senate election, 2008, comedian_
+_Context: Al Franken, Minnesota, US Senators, United States Senate election, 2008, comedian_
 
 ##### Parliament of Serbia
 ### [ The Parliament of Serbia rejects a United Nations plan for the independence of Kosovo. ](/news/2007/02/14/the-parliament-of-serbia-rejects-a-united-nations-plan-for-the-independence-of-kosovo.md)

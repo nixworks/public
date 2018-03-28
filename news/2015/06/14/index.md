@@ -37,7 +37,7 @@ Deadly zoo animals were prowling the streets of Tbilisi on Sunday after floods t
 
 ##### Syrian Civil War
 ### [Thousands of Syrians flee into Turkey as Kurdish fighters come closer to capturing the border town of Tell Abyad from Islamic State in Iraq and the Levant. ](/news/2015/06/14/thousands-of-syrians-flee-into-turkey-as-kurdish-fighters-come-closer-to-capturing-the-border-town-of-tell-abyad-from-islamic-state-in-iraq.md)
-_Context: Islamic State in Iraq and the Levant, Kurdish, Syria, Syrian Civil War, Tell Abyad, Turkish_
+_Context: Islamic State in Iraq and the Levant, Kurdish, Syria, Syrian Civil War, Tell Abyad, Turkey_
 
 ##### War in Afghanistan
 ### [Fifteen Taliban militants, including the shadow governor for Kunar Province, are killed in a NATO airstrike. ](/news/2015/06/14/fifteen-taliban-militants-including-the-shadow-governor-for-kunar-province-are-killed-in-a-nato-airstrike.md)

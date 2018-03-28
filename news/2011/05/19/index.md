@@ -29,7 +29,7 @@ _Context: 2011 Egyptian revolution, Egypt_
 
 ##### Uzbekistan
 ### [The daughter of Uzbek President Islam Karimov sues a French website for calling her father a "dictator". ](/news/2011/05/19/the-daughter-of-uzbek-president-islam-karimov-sues-a-french-website-for-calling-her-father-a-dictator.md)
-_Context: French, Islam Karimov, Uzbekistan, dictator_
+_Context: France, Islam Karimov, Uzbekistan, dictator_
 
 ##### China
 ### [Police in China search for a man who threw eggs and a shoe at the creator of the "Great Firewall of China", Fang Binxing. ](/news/2011/05/19/police-in-china-search-for-a-man-who-threw-eggs-and-a-shoe-at-the-creator-of-the-great-firewall-of-china-fang-binxing.md)
@@ -49,7 +49,7 @@ _Context: North Korea, United Nations, World Food Programme_
 
 ##### Magnitude 6.0 earthquake
 ### [A magnitude 6.0 earthquake hits western Turkey, about 230 km south of Istanbul, killing at least two people and leaving many injured. ](/news/2011/05/19/a-magnitude-6-0-earthquake-hits-western-turkey-about-230-km-south-of-istanbul-killing-at-least-two-people-and-leaving-many-injured.md)
-_Context: Istanbul, Turkish, magnitude 6.0 earthquake_
+_Context: Istanbul, Turkey, magnitude 6.0 earthquake_
 
 ##### Sol Lineas Aereas Flight 5428
 ### [22 people are killed when Sol Lineas Aereas Flight 5428 crashes in southern Argentina. ](/news/2011/05/19/22-people-are-killed-when-sol-laneas-aa-c-reas-flight-5428-crashes-in-southern-argentina.md)

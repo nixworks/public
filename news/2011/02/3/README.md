@@ -37,7 +37,7 @@ _Context: Chinese New Year, fireworks_
 
 ##### Ankara
 ### [Death toll of second blast reaches 18 in Ankara, Turkey. ](/news/2011/02/3/death-toll-of-second-blast-reaches-18-in-ankara-turkey.md)
-_Context: Ankara, Turkish_
+_Context: Ankara, Turkey_
 
 ##### Cyclone Yasi
 ### [Cyclone Yasi hits North Queensland in Australia with the worst affected towns including Mission Beach, Tully, Cardwell and Innisfail. ](/news/2011/02/3/cyclone-yasi-hits-north-queensland-in-australia-with-the-worst-affected-towns-including-mission-beach-tully-cardwell-and-innisfail.md)
@@ -71,9 +71,9 @@ _Context: 2010-2011 Algerian protests, Abdelaziz Bouteflika, President_
 ### [2011 Yemeni protests: Thousands of pro- and anti-government supporters demonstrate in Yemen over the rule of President Ali Abdullah Saleh in a planned "day of rage". ](/news/2011/02/3/2011-yemeni-protests-thousands-of-pro-and-anti-government-supporters-demonstrate-in-yemen-over-the-rule-of-president-ali-abdullah-saleh-in.md)
 Anti-government demonstrators reiterate calls for president to stand down while his supporters stage a counter rally.
 
-##### Senate
+##### US Senators
 ### [The United States Senate passes a motion supporting democracy in Egypt and calling on President Hosni Mubarak to begin transferring power. ](/news/2011/02/3/the-united-states-senate-passes-a-motion-supporting-democracy-in-egypt-and-calling-on-president-hosni-mubarak-to-begin-transferring-power.md)
-_Context: Hosni Mubarak, President, Senate, democratic_
+_Context: Hosni Mubarak, President, US Senators, democratic_
 
 ##### 
 ### [Anti-government protestors continue to protest against the Mubarak regime for a tenth day. ](/news/2011/02/3/anti-government-protestors-continue-to-protest-against-the-mubarak-regime-for-a-tenth-day.md)

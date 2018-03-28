@@ -3,7 +3,7 @@ Formats: [HTML](2015/10/28/index.html)  [JSON](2015/10/28/index.json)  [XML](201
 
 ## [2015-10-28](/news/2015/10/28/index.md)
 
-##### ''Nature''
+##### Nature Astronomy
 ### [ An article published in "Nature" reports high levels of molecular oxygen found by the Rosetta space probe on comet 67P-Churyumov-Gerasimenko. This discovery could have implications for theories of the origin of the solar system. ](/news/2015/10/28/an-article-published-in-nature-reports-high-levels-of-molecular-oxygen-found-by-the-rosetta-space-probe-on-comet-67p-churyumov-gerasimenk.md)
 The Rosetta spacecraft has detected significant levels of molecular oxygen coming from a comet, in a discovery that has taken astronomers by surprise.
 

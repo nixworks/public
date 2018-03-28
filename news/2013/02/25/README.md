@@ -9,7 +9,7 @@ Explorer Sir Ranulph Fiennes has to pull out of an expedition across Antarctica 
 
 ##### Indian Space Research Organisation
 ### [Indian Space Research Organisation successfully launches Indo-French satellite SARAL using PSLV rocket from the spaceport in Sriharikota, Andhra Pradesh, India. ](/news/2013/02/25/indian-space-research-organisation-successfully-launches-indo-french-satellite-saral-using-pslv-rocket-from-the-spaceport-in-sriharikota-an.md)
-_Context: Andhra Pradesh, French, India, Indian Space Research Organisation, PSLV-C38, SARAL, Satish Dhawan Space Centre, Sriharikota, launches_
+_Context: Andhra Pradesh, France, India, Indian Space Research Organisation, PSLV-C38, SARAL, Satish Dhawan Space Centre, Sriharikota, launches_
 
 ##### Rodinia
 ### [Scientists announce they have found fragments of Rodinia, an ancient "lost" continent, in what is now the Indian Ocean. ](/news/2013/02/25/scientists-announce-they-have-found-fragments-of-rodinia-an-ancient-lost-continent-in-what-is-now-the-indian-ocean.md)
@@ -33,7 +33,7 @@ A huge protest vote by Italians enraged by economic hardship and political corru
 
 ##### Jailed
 ### [The retrial of Vicky Pryce, the ex-wife of former UK Cabinet Minister Chris Huhne, begins hearing evidence. ](/news/2013/02/25/the-retrial-of-vicky-pryce-the-ex-wife-of-former-uk-cabinet-minister-chris-huhne-begins-hearing-evidence.md)
-_Context: Chris Huhne, UK, Vicky Pryce, government, jailed_
+_Context: British, Chris Huhne, Vicky Pryce, government, jailed_
 
 ##### Russia
 ### [Russia enacts a law banning smoking on subways and in schools. ](/news/2013/02/25/russia-enacts-a-law-banning-smoking-on-subways-and-in-schools.md)

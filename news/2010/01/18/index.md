@@ -37,7 +37,7 @@ _Context: Al-Amin Kimathi, Kenya, MP, Muslim, Somalia_
 
 ##### Mehmet Ali Agca
 ### [Mehmet Ali Agca, the man who shot Pope John Paul II in May 1981, is released from a Turkish prison after almost 30 years behind bars. ](/news/2010/01/18/mehmet-ali-aaca-the-man-who-shot-pope-john-paul-ii-in-may-1981-is-released-from-a-turkish-prison-after-almost-30-years-behind-bars.md)
-_Context: Mehmet Ali Agca, Pope, Pope John Paul II, Turkish_
+_Context: Mehmet Ali Agca, Pope, Pope John Paul II, Turkey_
 
 ##### India
 ### [Indian and Pakistani forces exchange fire over the border. ](/news/2010/01/18/indian-and-pakistani-forces-exchange-fire-over-the-border.md)

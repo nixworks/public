@@ -5,11 +5,11 @@ Formats: [HTML](2006/09/1/index.html)  [JSON](2006/09/1/index.json)  [XML](2006/
 
 ##### Miss World 2006
 ### [ The Miss World 2006 pageant officially starts with the arrival of 104 nations to Warsaw, Poland for a month of activities across the country prior to the pageant's final on September 30th, 2006. ](/news/2006/09/1/the-miss-world-2006-pageant-officially-starts-with-the-arrival-of-104-nations-to-warsaw-poland-for-a-month-of-activities-across-the-countr.md)
-_Context: Miss World 2006, Poland, Warsaw_
+_Context: Miss World 2006, Polish, Warsaw_
 
-##### Poland
+##### Polish
 ### [ Prime Minister of Poland, Jaroslaw Kaczynski, calls on the EU to develop a common foreign policy and build a "credible" military force. ](/news/2006/09/1/prime-minister-of-poland-jarosaaw-kaczyaski-calls-on-the-eu-to-develop-a-common-foreign-policy-and-build-a-credible-military-force.md)
-_Context: EU, Jaroslaw Kaczynski, Poland_
+_Context: EU, Jaroslaw Kaczynski, Polish_
 
 ##### 2006 Zakouma elephant slaughter
 ### [ The 2006 Zakouma elephant slaughter is the latest of a series of massacres which has killed off over 97 percent of the original (the year 1970) Chadian elephant population of 300,000 animals. ](/news/2006/09/1/the-2006-zakouma-elephant-slaughter-is-the-latest-of-a-series-of-massacres-which-has-killed-off-over-97-percent-of-the-original-the-year-1.md)

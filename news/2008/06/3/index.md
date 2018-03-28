@@ -9,7 +9,7 @@ _Context: Baden-Wuerttemberg, Germany, Zollernalbkreis, flood_
 
 ##### Illinois
 ### [ Illinois Senator Barack Obama wins the Democratic Party presumptive nomination, becoming the first African American to be nominated by a major party. ](/news/2008/06/3/illinois-senator-barack-obama-wins-the-democratic-party-presumptive-nomination-becoming-the-first-african-american-to-be-nominated-by-a-ma.md)
-_Context: Barack Obama, Democrat, Illinois, Senate, black, major party, presumptive_
+_Context: Barack Obama, Democrat, Illinois, US Senators, black, major party, presumptive_
 
 ##### NASA
 ### [ NASA reveals that Launch Complex 39A at Kennedy Space Center sustained unusual amounts of damage during the launch of STS-124. They are unsure what caused the damage, but are certain it will not cause any delay for the next launch, STS-125, in October. ](/news/2008/06/3/nasa-reveals-that-launch-complex-39a-at-kennedy-space-center-sustained-unusual-amounts-of-damage-during-the-launch-of-sts-124-they-are-uns.md)

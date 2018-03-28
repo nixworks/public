@@ -29,7 +29,7 @@ _Context: Cuba, United States, immigration_
 
 ##### Series of riots
 ### [ 240 people are arrested in a series of riots in France on the eve of the Bastille Day celebrations. ](/news/2009/07/14/240-people-are-arrested-in-a-series-of-riots-in-france-on-the-eve-of-the-bastille-day-celebrations.md)
-_Context: Bastille Day, French, series of riots_
+_Context: Bastille Day, France, series of riots_
 
 ##### Liberia
 ### [ Former Liberian President Charles Taylor takes the stand in his own defence at his trial. ](/news/2009/07/14/former-liberian-president-charles-taylor-takes-the-stand-in-his-own-defence-at-his-trial.md)
@@ -43,13 +43,13 @@ _Context: Japan, Japanese Prime Minister, Taro Aso_
 ### [ 323 people &ndash; 289 Saudis and 41 foreigners &ndash; are sentenced at a court in Saudi Arabia for links to anti-government groups. ](/news/2009/07/14/323-people-ndash-289-saudis-and-41-foreigners-ndash-are-sentenced-at-a-court-in-saudi-arabia-for-links-to-anti-government-groups.md)
 First publicly reported trials since the 2003 attacks involved suspected al-Qaeda members.
 
-##### French
+##### France
 ### [ Two foreign nationals, believed to be French, are kidnapped by gunmen after a hotel is stormed in Mogadishu, Somalia. ](/news/2009/07/14/two-foreign-nationals-believed-to-be-french-are-kidnapped-by-gunmen-after-a-hotel-is-stormed-in-mogadishu-somalia.md)
 Armed men take hostage two French guests from a hotel in Mogadishu as fighting rages.
 
 ##### Ethnic riots
 ### [ China urges Turkish Prime Minister Tayyip Erdogan to retract his comments of "genocide" in Xinjiang. ](/news/2009/07/14/china-urges-turkish-prime-minister-tayyip-erdoaan-to-retract-his-comments-of-genocide-in-xinjiang.md)
-_Context: China, Tayyip Erdogan, Turkish, Turkish Prime Minister, Xinjiang, ethnic riots_
+_Context: China, Tayyip Erdogan, Turkey, Turkish Prime Minister, Xinjiang, ethnic riots_
 
 ##### World Health Organization
 ### [ The World Health Organization reports that yields for an H1N1 virus vaccine are lower than expected. ](/news/2009/07/14/the-world-health-organization-reports-that-yields-for-an-h1n1-virus-vaccine-are-lower-than-expected.md)

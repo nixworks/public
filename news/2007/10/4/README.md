@@ -33,7 +33,7 @@ _Context: Aung San Suu Kyi, India, Myanmar_
 
 ##### Republican
 ### [ Republican Party Senator Larry Craig from Idaho vows to serve out his term in the United States Senate despite losing a court bid to rescind a guilty plea for an indecent act in a Minneapolis Airport men's room. ](/news/2007/10/4/republican-party-senator-larry-craig-from-idaho-vows-to-serve-out-his-term-in-the-united-states-senate-despite-losing-a-court-bid-to-rescin.md)
-_Context: Idaho, Larry Craig, Minneapolis, Republican, Senate_
+_Context: Idaho, Larry Craig, Minneapolis, Republican, US Senators_
 
 ##### Chile
 ### [ Family members of deceased "de facto" president of Chile Augusto Pinochet are arrested in Santiago on charges of embezzlement. ](/news/2007/10/4/family-members-of-deceased-de-facto-president-of-chile-augusto-pinochet-are-arrested-in-santiago-on-charges-of-embezzlement.md)
@@ -49,7 +49,7 @@ _Context: Bank of Canada, David Dodge, Mark Carney, Prime Minister of Canada, St
 
 ##### United States
 ### [ United States Republican Party Senator Pete Domenici of New Mexico announces that he will retire at the end of his current term due to a degenerative brain disease. ](/news/2007/10/4/united-states-republican-party-senator-pete-domenici-of-new-mexico-announces-that-he-will-retire-at-the-end-of-his-current-term-due-to-a-de.md)
-_Context: New Mexico, Pete Domenici, Republican, Senate, United States_
+_Context: New Mexico, Pete Domenici, Republican, US Senators, United States_
 
 ## [Previous Day...](/news/2007/10/3/index.md)
 

@@ -22,7 +22,7 @@ American tech giant Amazon promised to create 15,000 new full-time jobs across E
 
 ### Related:
 
-1. [China launches an oil futures market on the Shanghai International Energy Exchange in a bid to compete with oil benchmarks from Europe and the United States. ](/news/2018/03/26/china-launches-an-oil-futures-market-on-the-shanghai-international-energy-exchange-in-a-bid-to-compete-with-oil-benchmarks-from-europe-and-t.md) _Context: Europe_
+1. [China launches an oil futures market in a bid to compete with oil benchmarks from the United States and Europe. ](/news/2018/03/26/china-launches-an-oil-futures-market-in-a-bid-to-compete-with-oil-benchmarks-from-the-united-states-and-europe.md) _Context: Europe_
 2. [Qantas Airways Flight QF9 becomes the first ever regularly scheduled non-stop flight between Australia and Europe after making the 17-hour journey from Perth to London. ](/news/2018/03/25/qantas-airways-flight-qf9-becomes-the-first-ever-regularly-scheduled-non-stop-flight-between-australia-and-europe-after-making-the-17-hour-j.md) _Context: Europe_
 3. [Amazon.com announces bidding for a second headquarters campus in North America, to house 50,000 workers and cost $5 billion USD ](/news/2017/09/7/amazon-com-announces-bidding-for-a-second-headquarters-campus-in-north-america-to-house-50-000-workers-and-cost-5-billion-usd.md) _Context: Amazon.com_
 4. [Seattle mayor Ed Murray announces his resignation after allegations surface that he sexually abused five teenagers in the 1970s and 80s. ](/news/2017/09/12/seattle-mayor-ed-murray-announces-his-resignation-after-allegations-surface-that-he-sexually-abused-five-teenagers-in-the-1970s-and-80s.md) _Context: Seattle_

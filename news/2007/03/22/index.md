@@ -47,9 +47,9 @@ _Context: 2007 Zimbabwean political crisis, Archbishop, Bulawayo, Pius Ncube, Pr
 ### [ NBC, News Limited, AOL, MSN and Yahoo! join forces to develop an ad-supported online video network to compete with YouTube. ](/news/2007/03/22/nbc-news-limited-aol-msn-and-yahoo-join-forces-to-develop-an-ad-supported-online-video-network-to-compete-with-youtube.md)
 _Context: AOL, MSN, NBC, News Limited, Yahoo!, YouTube, video_
 
-##### French
+##### France
 ### [ French space agency CNES releases its UFO files to the public via its website. ](/news/2007/03/22/french-space-agency-cnes-releases-its-ufo-files-to-the-public-via-its-website.md)
-_Context: CNES, French, UFO, space agency, website_
+_Context: CNES, France, UFO, space agency, website_
 
 ##### Explodes
 ### [ An arms depot explodes in Maputo, Mozambique, killing at least 93 people and injuring hundreds more. ](/news/2007/03/22/an-arms-depot-explodes-in-maputo-mozambique-killing-at-least-93-people-and-injuring-hundreds-more.md)

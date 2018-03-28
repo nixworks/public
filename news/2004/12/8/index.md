@@ -19,9 +19,9 @@ Channel NewsAsia - Breaking News, Asia-Pacific news coverage from Channel NewsAs
 ### [ The European Union says it is not ready to lift its 15-year-old arms embargo on the People's Republic of China, set after the Tiananmen Square protests of 1989. ](/news/2004/12/8/the-european-union-says-it-is-not-ready-to-lift-its-15-year-old-arms-embargo-on-the-people-s-republic-of-china-set-after-the-tiananmen-squ.md)
 _Context: EU, Tiananmen Square protests of 1989_
 
-##### Senate
+##### US Senators
 ### [ The United States Senate follows the U.S. House of Representatives in approving a complete overhaul of government intelligence services, creating the post of United States Director of National Intelligence. ](/news/2004/12/8/the-united-states-senate-follows-the-u-s-house-of-representatives-in-approving-a-complete-overhaul-of-government-intelligence-services-cr.md)
-_Context: Senate, U.S. National Intelligence Director, United States House of Representatives_
+_Context: U.S. National Intelligence Director, US Senators, United States House of Representatives_
 
 ##### White House
 ### [ The White House affirms that, despite reports to the contrary, John Snow will remain Treasury Secretary during President George W. Bush's second term of office. Meanwhile, Secretary of Veterans Affairs Anthony Principi announces his expected resignation. ](/news/2004/12/8/the-white-house-affirms-that-despite-reports-to-the-contrary-john-snow-will-remain-treasury-secretary-during-president-george-w-bush-s-s.md)

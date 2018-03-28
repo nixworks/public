@@ -23,9 +23,9 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### [ "Top Gear" presenter Richard Hammond is seriously injured during filming for upcoming series. Hammond rolled a jet powered car at 300 mph. ](/news/2006/09/21/top-gear-presenter-richard-hammond-is-seriously-injured-during-filming-for-upcoming-series-hammond-rolled-a-jet-powered-car-at-300-mph.md)
 _Context: Richard Hammond, Top Gear_
 
-##### Senate
+##### US Senators
 ### [ United States Senate Republicans and the Bush administration announce an agreement on interrogation methods and the trial of suspects in the War on Terror. ](/news/2006/09/21/united-states-senate-republicans-and-the-bush-administration-announce-an-agreement-on-interrogation-methods-and-the-trial-of-suspects-in-th.md)
-_Context: George W. Bush, Republican, Senate, War on Terror_
+_Context: George W. Bush, Republican, US Senators, War on Terror_
 
 ##### President
 ### [ Response to President of Venezuela Hugo Chvez's remarks that United States President George W. Bush is like the devil: ](/news/2006/09/21/response-to-president-of-venezuela-hugo-chavez-s-remarks-that-united-states-president-george-w-bush-is-like-the-devil.md)

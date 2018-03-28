@@ -35,7 +35,7 @@ The European Commission gives the go-ahead to a major restructuring of four nati
 ### [The United States Environmental Protection Agency announces that BP has been suspended from bidding on future US government contracts as a result of the 2010 "Deepwater Horizon" oil spill. ](/news/2012/11/28/the-united-states-environmental-protection-agency-announces-that-bp-has-been-suspended-from-bidding-on-future-us-government-contracts-as-a-r.md)
 BP Plc, which agreed to plead guilty to criminal charges after the worst oil spill in U.S. history, will be suspended from winning new contracts from the federal government, the U.S. Environmental Protection Agency said today.
 
-##### UK
+##### British
 ### [The UK's Home Office launches a ten week consultation on whether to introduce a minimum price for the sale of alcohol of 45p a unit. The plans are aimed at tackling binge drinking and other alcohol related problems. ](/news/2012/11/28/the-uk-s-home-office-launches-a-ten-week-consultation-on-whether-to-introduce-a-minimum-price-for-the-sale-of-alcohol-of-45p-a-unit-the-pla.md)
 Ministers are proposing to set a minimum price of 45p a unit for the sale of alcohol in England and Wales as part of a drive to tackle problem drinking.
 

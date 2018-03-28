@@ -41,7 +41,7 @@ Six girls aged between 10 and 12 are among eight people killed in a level crossi
 
 ##### Alexis Jenni
 ### [French author Alexis Jenni wins France's literary Prix Goncourt for his novel "L'Art franais de la guerre". ](/news/2011/11/2/french-author-alexis-jenni-wins-france-s-literary-prix-goncourt-for-his-novel-l-art-francais-de-la-guerre.md)
-_Context: Alexis Jenni, French, L'Art franais de la guerre, Prix Goncourt_
+_Context: Alexis Jenni, France, L'Art franais de la guerre, Prix Goncourt_
 
 ## [Previous Day...](/news/2011/11/1/index.md)
 

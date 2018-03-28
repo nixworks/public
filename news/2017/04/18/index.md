@@ -29,7 +29,7 @@ UK PM Theresa May announces plan to call snap general election on 8 June
 
 ##### Last month's presidential election
 ### [With polls showing a close race with Emmanuel Macron and Jean-Luc Mlenchon, Marine Le Pen of the National Front pledges to temporarily suspend all immigration, "legal and illegal", to France. ](/news/2017/04/18/with-polls-showing-a-close-race-with-emmanuel-macron-and-jean-luc-melenchon-marine-le-pen-of-the-national-front-pledges-to-temporarily-susp.md)
-_Context: Emmanuel Macron, French, Jean-Luc Mlenchon, Marine Le Pen, National Front, immigration, "legal and illegal", last month's presidential election_
+_Context: Emmanuel Macron, France, Jean-Luc Mlenchon, Marine Le Pen, National Front, immigration, "legal and illegal", last month's presidential election_
 
 ##### 2017 Fresno shootings
 ### [Three people die in a shooting spree in downtown Fresno, California. The suspected gunman, who was already wanted for another murder four days earlier, and who expressed hatred of whites and the government, is arrested. ](/news/2017/04/18/three-people-die-in-a-shooting-spree-in-downtown-fresno-california-the-suspected-gunman-who-was-already-wanted-for-another-murder-four-da.md)

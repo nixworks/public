@@ -21,7 +21,7 @@ _Context: China, Communist Party of China, Linfen, Shanxi province, brickworks, 
 
 ##### Council of Europe
 ### [ The Council of Europe publishes a report claiming to prove that member states Romania and Poland conspired with the American CIA to kidnap and torture suspected terrorists. ](/news/2007/06/8/the-council-of-europe-publishes-a-report-claiming-to-prove-that-member-states-romania-and-poland-conspired-with-the-american-cia-to-kidnap.md)
-_Context: CIA, Council of Europe, Poland, Romania_
+_Context: CIA, Council of Europe, Polish, Romania_
 
 ## [Previous Day...](/news/2007/06/7/index.md)
 

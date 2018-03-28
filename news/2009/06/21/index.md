@@ -27,9 +27,9 @@ At least 72 people are now known to have died in a bombing in the Iraqi city of 
 ### [ Iranian state television claims at least ten people are dead following protests over the recent election. ](/news/2009/06/21/iranian-state-television-claims-at-least-ten-people-are-dead-following-protests-over-the-recent-election.md)
 Iranian opposition leader Mir-Hossein Mousavi urged his supporters to continue their protests over a disputed presidential election.
 
-##### French
+##### France
 ### [ Seven people, including six amusement park employees, are killed in a French rural helicopter crash. ](/news/2009/06/21/seven-people-including-six-amusement-park-employees-are-killed-in-a-french-rural-helicopter-crash.md)
-_Context: French_
+_Context: France_
 
 ##### Self-rule
 ### [ Self-rule is introduced in Greenland following a 2008 referendum. ](/news/2009/06/21/self-rule-is-introduced-in-greenland-following-a-2008-referendum.md)

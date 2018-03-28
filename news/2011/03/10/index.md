@@ -103,7 +103,7 @@ _Context: Guinea, Kissidougou_
 ### [Philippine Army forces attack Abu Sayyaf fighters in a mangrove in Sacol Island in Zamboanga City. ](/news/2011/03/10/philippine-army-forces-attack-abu-sayyaf-fighters-in-a-mangrove-in-sacol-island-in-zamboanga-city.md)
 _Context: Abu Sayyaf, Sacol Island, Zamboanga City, army, mangrove_
 
-##### French
+##### France
 ### [France recognizes the National Transitional Council as the sole legitimate representative of the Libyan people. ](/news/2011/03/10/france-recognizes-the-national-transitional-council-as-the-sole-legitimate-representative-of-the-libyan-people.md)
 In&#x20;a&#x20;major&#x20;diplomatic&#x20;victory&#x20;for&#x20;the&#x20;Libyan&#x20;opposition,&#x20;France&#x20;has&#x20;become&#x20;the&#x20;first&#x20;country&#x20;to&#x20;formally&#x20;recognise&#x20;Libya&#x2019;s&#x20;rebel&#x20;leadership,&#x20;pledging&#x20;to&#x20;exchange&#x20;ambassadors...
 

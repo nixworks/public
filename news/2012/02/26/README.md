@@ -55,7 +55,7 @@ _Context: California, Hollywood, Hollywood and Highland Center Theatre (formerly
 ### [Colombia's Revolutionary Armed Forces of Colombia or FARC announces that it has abandoned kidnapping and will soon release its last remaining captives. ](/news/2012/02/26/colombia-s-revolutionary-armed-forces-of-colombia-or-farc-announces-that-it-has-abandoned-kidnapping-and-will-soon-release-its-last-remainin.md)
 _Context: Colombia, Revolutionary Armed Forces of Colombia, kidnapping_
 
-##### French
+##### France
 ### [France and Germany follow the United States and United Kingdom in withdrawing civilian staff from Afghan government facilities following the killing of two senior NATO officers. ](/news/2012/02/26/france-and-germany-follow-the-united-states-and-united-kingdom-in-withdrawing-civilian-staff-from-afghan-government-facilities-following-the.md)
 France and Germany follow the US and Britain in withdrawing civilian staff from Afghan government institutions after the killing of two US Nato officers.
 

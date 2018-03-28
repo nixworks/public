@@ -37,7 +37,7 @@ _Context: Minnesota, Rhode Island, United States, same-sex marriage in the Unite
 
 ##### Greece
 ### [Eight people are arrested in Greece for allegedly trying to smuggle weapons into Turkey. ](/news/2013/08/1/eight-people-are-arrested-in-greece-for-allegedly-trying-to-smuggle-weapons-into-turkey.md)
-_Context: Greece, Turkish_
+_Context: Greece, Turkey_
 
 ##### Vietnam
 ### [Russian police detain 1,200 illegal Vietnamese migrants in raids in Moscow. ](/news/2013/08/1/russian-police-detain-1-200-illegal-vietnamese-migrants-in-raids-in-moscow.md)

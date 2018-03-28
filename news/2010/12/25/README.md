@@ -39,7 +39,7 @@ _Context: Ecuador, Palestinian, officially recognises_
 ### [Three fishermen from the People's Republic of China are released from South Korean custody after their vessel collided with a Coast Guard vessel last week. ](/news/2010/12/25/three-fishermen-from-the-people-s-republic-of-china-are-released-from-south-korean-custody-after-their-vessel-collided-with-a-coast-guard-ve.md)
 _Context: China, South Korea_
 
-##### Turkish
+##### Turkey
 ### [Turkey's foreign minister Ahmet Davutoglu reiterates his request for an apology from Israel for killing 9 Turks during May's Gaza flotilla raid ](/news/2010/12/25/turkey-s-foreign-minister-ahmet-davutoalu-reiterates-his-request-for-an-apology-from-israel-for-killing-9-turks-during-may-s-gaza-flotilla.md)
 Foreign Minister Ahmet Davutoglu continues to demand apology for flotilla raid, says rifts in Israeli government making it difficult to patch up ties. &#39;Messages it sends are contradictory, tough rivalry exists in coalition,&#39; he explains
 

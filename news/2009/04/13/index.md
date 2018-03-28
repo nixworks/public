@@ -33,7 +33,7 @@ Pakistani Taliban are imposing their rule in a Pakistani mountain valley they to
 
 ##### House fire
 ### [ A fire destroys a homeless hostel and kills at least 22 people in Kamien Pomorski, Poland. ](/news/2009/04/13/a-fire-destroys-a-homeless-hostel-and-kills-at-least-22-people-in-kamiea-pomorski-poland.md)
-_Context: Kamien Pomorski, Poland, destroys, homeless people, hostel, house fire_
+_Context: Kamien Pomorski, Polish, destroys, homeless people, hostel, house fire_
 
 ## [Previous Day...](/news/2009/04/12/index.md)
 

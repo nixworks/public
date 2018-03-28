@@ -5,7 +5,7 @@ Formats: [HTML](2007/12/21/index.html)  [JSON](2007/12/21/index.json)  [XML](200
 
 ##### Schengen Agreement
 ### [ The Schengen Agreement is expanded to include the seaports and land borders of the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia, and Slovenia. ](/news/2007/12/21/the-schengen-agreement-is-expanded-to-include-the-seaports-and-land-borders-of-the-czech-republic-estonia-hungary-latvia-lithuania-mal.md)
-_Context: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Schengen Agreement, Slovakia, Slovenia_
+_Context: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Polish, Schengen Agreement, Slovakia, Slovenia_
 
 ##### Belgian authorities
 ### [ Belgian authorities arrest 14 people the government calls Islamic extremists, who they say were plotting to free an al-Qaeda member from prison. ](/news/2007/12/21/belgian-authorities-arrest-14-people-the-government-calls-islamic-extremists-who-they-say-were-plotting-to-free-an-al-qaeda-member-from-pr.md)

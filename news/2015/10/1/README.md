@@ -41,7 +41,7 @@ As the authorities sought to calm fears in Liucheng County, the site of 17 blast
 
 ##### Turkey-PKK conflict
 ### [Four Turkish soldiers are killed in PKK attacks across southeastern Turkey. Turkish authorities impose a curfew in the city of Mardin due to escalating violence. ](/news/2015/10/1/four-turkish-soldiers-are-killed-in-pkk-attacks-across-southeastern-turkey-turkish-authorities-impose-a-curfew-in-the-city-of-mardin-due-to.md)
-_Context: 2015 PKK rebellion, Mardin, PKK, Turkey-PKK conflict, Turkish, curfew_
+_Context: 2015 PKK rebellion, Mardin, PKK, Turkey, Turkey-PKK conflict, curfew_
 
 ##### Syrian Civil War
 ### [Russian air-strikes reportedly kill U.S.-backed Syrian rebels as Russian jets bomb rebel positions in rural areas of northern Syria, including the town of Jisr al-Shughour, which is currently held by Islamist militant groups including Al-Qaeda's branch in Syria, the Al-Nusra Front. ](/news/2015/10/1/russian-air-strikes-reportedly-kill-u-s-backed-syrian-rebels-as-russian-jets-bomb-rebel-positions-in-rural-areas-of-northern-syria-includi.md)

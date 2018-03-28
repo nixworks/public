@@ -29,7 +29,7 @@ _Context: ITN, Iraq, Terry Lloyd, US, coroner, unlawful killing_
 
 ##### US
 ### [ The US government has rebuffed UK calls to close its controversial detention centre at Guantnamo Bay in Cuba. ](/news/2006/10/13/the-us-government-has-rebuffed-uk-calls-to-close-its-controversial-detention-centre-at-guantanamo-bay-in-cuba.md)
-_Context: Cuba, Guantnamo Bay, UK, US_
+_Context: British, Cuba, Guantnamo Bay, US_
 
 ##### Wal-Mart
 ### [ Wal-Mart is ordered to pay $78 million in compensation to current and former employees for breaking labor laws in the U.S. state of Pennsylvania by forcing its employees to work through rest breaks and off clock. ](/news/2006/10/13/wal-mart-is-ordered-to-pay-78-million-in-compensation-to-current-and-former-employees-for-breaking-labor-laws-in-the-u-s-state-of-pennsyl.md)

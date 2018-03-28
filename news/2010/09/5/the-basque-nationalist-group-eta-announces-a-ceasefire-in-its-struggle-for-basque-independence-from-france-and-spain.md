@@ -16,7 +16,7 @@ The armed Basque separatist group Eta has decided not to carry out &quot;armed a
 
 ### Related:
 
-1. [Basque separatist group ETA has reportedly indicated a readiness to disband, give up its weapons and enter talks with the governments of France and Spain. ](/news/2012/11/25/basque-separatist-group-eta-has-reportedly-indicated-a-readiness-to-disband-give-up-its-weapons-and-enter-talks-with-the-governments-of-fra.md) _Context: Basque, ETA, French, Spanish_
+1. [Basque separatist group ETA has reportedly indicated a readiness to disband, give up its weapons and enter talks with the governments of France and Spain. ](/news/2012/11/25/basque-separatist-group-eta-has-reportedly-indicated-a-readiness-to-disband-give-up-its-weapons-and-enter-talks-with-the-governments-of-fra.md) _Context: Basque, ETA, France, Spanish_
 2. [ Members of Basque separatist movement ETA vow not to surrender their weapons while still seeking independence from Spain, despite the organisation having called a ceasefire six months ago. ](/news/2006/09/24/members-of-basque-separatist-movement-eta-vow-not-to-surrender-their-weapons-while-still-seeking-independence-from-spain-despite-the-organ.md) _Context: Basque, ETA, Spanish, ceasefire_
 3. [Alfredo Perez Rubalcaba, Spain's Interior Minister, dismisses ETA's ceasefire offer as insufficient for a peace process. ](/news/2010/09/6/alfredo-pa-c-rez-rubalcaba-spain-s-interior-minister-dismisses-eta-s-ceasefire-offer-as-insufficient-for-a-peace-process.md) _Context: ETA, Spanish, ceasefire_
 4. [ In Spain, police arrests 6 suspected members of the Basque separatist group ETA ](/news/2005/07/27/in-spain-police-arrests-6-suspected-members-of-the-basque-separatist-group-eta.md) _Context: Basque, ETA, Spanish_

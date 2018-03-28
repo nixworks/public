@@ -37,7 +37,7 @@ _Context: Egypt, University of South Florida, state lines, terrorism_
 
 ##### Republican
 ### [ Republican Senator John Warner announces that he will not seek re-election to the United States Senate. ](/news/2007/08/31/republican-senator-john-warner-announces-that-he-will-not-seek-re-election-to-the-united-states-senate.md)
-_Context: John Warner, Republican, Senate_
+_Context: John Warner, Republican, US Senators_
 
 ##### Greenhouse gas
 ### [ Negotiators from 158 countries reach rough agreements on greenhouse gas targets at a United Nations climate change conference. ](/news/2007/08/31/negotiators-from-158-countries-reach-rough-agreements-on-greenhouse-gas-targets-at-a-united-nations-climate-change-conference.md)

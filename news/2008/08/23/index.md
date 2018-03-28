@@ -5,7 +5,7 @@ Formats: [HTML](2008/08/23/index.html)  [JSON](2008/08/23/index.json)  [XML](200
 
 ##### 2008
 ### [ U.S. presidential candidate Senator Barack Obama picks Senator Joe Biden as his vice-presidential running mate. ](/news/2008/08/23/u-s-presidential-candidate-senator-barack-obama-picks-senator-joe-biden-as-his-vice-presidential-running-mate.md)
-_Context: 2008, Barack Obama, Joe Biden, Senate, running mate_
+_Context: 2008, Barack Obama, Joe Biden, US Senators, running mate_
 
 ##### United States
 ### [ The United States Department of Health and Human Services announces plans to implement a rule that would protect healthcare workers from being fired or otherwise penalized for refusing to provide services they find morally objectionable, such as performing abortions or dispensing contraception. ](/news/2008/08/23/the-united-states-department-of-health-and-human-services-announces-plans-to-implement-a-rule-that-would-protect-healthcare-workers-from-be.md)

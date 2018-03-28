@@ -13,7 +13,7 @@ Thousands of Thai protesters surrounded parliament Monday in an effort to preven
 
 ##### President of Georgia
 ### [ Georgian Interior Ministry claims "shots were fired" at a convoy including Georgian President Mikheil Saakashvili and Polish President Lech Kaczynski on the border of Georgia and South Ossetia. Several witnesses travelling with the convoy say they heard the automatic gunfire, though it was unclear from which direction it came. Polish Parliament spokesman later comments the incident was "not very serious at all", though "unfortunate" as it put the Polish president in an "awkward" situation.](/news/2008/11/24/georgian-interior-ministry-claims-shots-were-fired-at-a-convoy-including-georgian-president-mikheil-saakashvili-and-polish-president-lech.md)
-_Context:  Georgian, Lech Kaczynski, Mikheil Saakashvili, Poland, President, President of Georgia, South Ossetia_
+_Context:  Georgian, Lech Kaczynski, Mikheil Saakashvili, Polish, President, President of Georgia, South Ossetia_
 
 ##### Bangladesh
 ### [ Bangladesh's Electoral Commission reschedules the date for the general election from December 18 to December 29. ](/news/2008/11/24/bangladesh-s-electoral-commission-reschedules-the-date-for-the-general-election-from-december-18-to-december-29.md)

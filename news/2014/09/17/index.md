@@ -9,7 +9,7 @@ Long queues at poll stations in Fiji&#039;s first election since the 2006 milita
 
 ##### Xi Jinping
 ### [Xi Jinping, the President of China, travels to India to improve trade links and attempt to resolve decades old disputes over borders. ](/news/2014/09/17/xi-jinping-the-president-of-china-travels-to-india-to-improve-trade-links-and-attempt-to-resolve-decades-old-disputes-over-borders.md)
-_Context: India, Xi Jinping, president_
+_Context: Chinese President, India, Xi Jinping_
 
 ##### Mayon Volcano
 ### [Evacuations continue from the area surrounding the Mayon Volcano in the Philippines as lava flows down the mountain ahead of a possible eruption. ](/news/2014/09/17/evacuations-continue-from-the-area-surrounding-the-mayon-volcano-in-the-philippines-as-lava-flows-down-the-mountain-ahead-of-a-possible-erup.md)

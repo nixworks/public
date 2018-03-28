@@ -11,9 +11,9 @@ The foundation running the Google Lunar X Prize said Jan. 23 that the prize for 
 ### [President Jimmy Morales is questioned about the high costs he spends to buy food and other luxury items. ](/news/2018/01/23/president-jimmy-morales-is-questioned-about-the-high-costs-he-spends-to-buy-food-and-other-luxury-items.md)
 The president says he could not be expected to pay for luxury goods from his salary.
 
-##### Senate
+##### US Senators
 ### [The United States Senate confirms Jerome Powell as chairman of the Federal Reserve Bank with 84 votes for and 13 against. ](/news/2018/01/23/the-united-states-senate-confirms-jerome-powell-as-chairman-of-the-federal-reserve-bank-with-84-votes-for-and-13-against.md)
-_Context: Federal Reserve Bank, Jerome Powell, Senate_
+_Context: Federal Reserve Bank, Jerome Powell, US Senators_
 
 ##### Venezuelan presidential election, 2018
 ### [The National Constituent Assembly approved a decree that calls for presidential elections before April 30. Incumbent Nicolas Maduro says he will compete for re-election. ](/news/2018/01/23/the-national-constituent-assembly-approved-a-decree-that-calls-for-presidential-elections-before-april-30-incumbent-nicola-s-maduro-says-he.md)

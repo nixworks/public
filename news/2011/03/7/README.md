@@ -81,7 +81,7 @@ _Context: Libya, civil war_
 
 ##### New York Times
 ### [The "New York Times" reports that French luxury group LVMH will take control of Italy's Bulgari in an all-share deal. ](/news/2011/03/7/the-new-york-times-reports-that-french-luxury-group-lvmh-will-take-control-of-italy-s-bulgari-in-an-all-share-deal.md)
-_Context: Bulgari, French, Italy, LVMH, New York Times_
+_Context: Bulgari, France, Italy, LVMH, New York Times_
 
 ##### Warner Bros. Television
 ### [Warner Bros. Television sacks actor Charlie Sheen from the cast of television show "Two and a Half Men". ](/news/2011/03/7/warner-bros-television-sacks-actor-charlie-sheen-from-the-cast-of-television-show-two-and-a-half-men.md)

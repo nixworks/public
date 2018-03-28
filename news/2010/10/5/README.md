@@ -43,7 +43,7 @@ The judge in the first civilian case against an ex-Guantanamo inmate bars a key 
 ### [Steven Hayes is found guilty of murdering three women of the same family in Connecticut during a home invasion in 2007, now he is facing the death sentence or life imprisonment.](/news/2010/10/5/steven-hayes-is-found-guilty-of-murdering-three-women-of-the-same-family-in-connecticut-during-a-home-invasion-in-2007-now-he-is-facing-the.md)
 A paroled burglar was found guilty Tuesday of murdering a mother and her two daughters in a 2007 home invasion in an affluent Connecticut town. The killer, Steven Hayes, one of two men charged in the murders, now could be sentenced to death.
 
-##### French
+##### France
 ### [French police arrest twelve alleged al-Qaeda terrorists in Marseilles and Bordeaux including three suspects allegedly found with bomb making kits. ](/news/2010/10/5/french-police-arrest-twelve-alleged-al-qaeda-terrorists-in-marseilles-and-bordeaux-including-three-suspects-allegedly-found-with-bomb-making.md)
 Twelve people are detained in two raids targeting groups linked to armed fighters as country remains on high alert.
 

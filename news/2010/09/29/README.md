@@ -35,13 +35,13 @@ _Context: Hossein Derakhshan, Iran, propaganda_
 ### [Ten prisoners die in a fight between rival gangs at a prison in Aragua, Venezuela. ](/news/2010/09/29/ten-prisoners-die-in-a-fight-between-rival-gangs-at-a-prison-in-aragua-venezuela.md)
 At least 10 Venezuelan prisoners die as rival criminal gangs use guns and grenades in a battle for control of a jail.
 
-##### Turkish
+##### Turkey
 ### [Turkey's ambassador refuses visas to Australian and New Zealand archaeologists to conduct a survey of Gallipoli Campaign battlesites over concerns about a statue built by Sydney's Assyrian community commemorating the Assyrian Genocide in World War I. ](/news/2010/09/29/turkey-s-ambassador-refuses-visas-to-australian-and-new-zealand-archaeologists-to-conduct-a-survey-of-gallipoli-campaign-battlesites-over-co.md)
 The Federal Government says it is hoping to resolve a dispute that is threatening a planned survey of Gallilopi battlefields in Turkey.
 
 ##### European Commission
 ### [The European Commission issues a statement saying it will take legal action against France unless it complies with European Union rules on freedom of movement in relation to recent expulsion of Romani within the next two weeks. ](/news/2010/09/29/the-european-commission-issues-a-statement-saying-it-will-take-legal-action-against-france-unless-it-complies-with-european-union-rules-on-f.md)
-_Context: EU, European Commission, French, Roma, freedom of movement_
+_Context: EU, European Commission, France, Roma, freedom of movement_
 
 ##### South Korea
 ### [South Korea says that it has reached an agreement with North Korea to hold working-level military talks for the first time in two years. ](/news/2010/09/29/south-korea-says-that-it-has-reached-an-agreement-with-north-korea-to-hold-working-level-military-talks-for-the-first-time-in-two-years.md)

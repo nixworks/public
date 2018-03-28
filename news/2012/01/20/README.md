@@ -29,7 +29,7 @@ _Context: 2011-2012 Yemeni uprising, Ali Abdullah Saleh, President, Yemen_
 
 ##### Assassination of Hrant Dink
 ### [Marking five years since the assassination of Hrant Dink, Turks protest.](/news/2012/01/20/marking-five-years-since-the-assassination-of-hrant-dink-turks-protest.md)
-_Context: Turkish, assassination of Hrant Dink_
+_Context: Turkey, assassination of Hrant Dink_
 
 ##### China
 ### [China warns Iran against developing nuclear weapons. ](/news/2012/01/20/china-warns-iran-against-developing-nuclear-weapons.md)

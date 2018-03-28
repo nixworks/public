@@ -5,7 +5,7 @@ Formats: [HTML](2018/02/15/index.html)  [JSON](2018/02/15/index.json)  [XML](201
 
 ##### Discoveries of exoplanets
 ### [NASA's Kepler space telescope has discovered 95 new exoplanets. ](/news/2018/02/15/nasa-s-kepler-space-telescope-has-discovered-95-new-exoplanets.md)
-_Context: Discoveries of exoplanets, Kepler, NASA, exoplanet, space telescope_
+_Context: Discoveries of exoplanets, Kepler Space Telescope, NASA, exoplanet, space telescope_
 
 ##### Politics of South Africa
 ### [Cyril Ramaphosa is elected by the National Assembly as President of South Africa. ](/news/2018/02/15/cyril-ramaphosa-is-elected-by-the-national-assembly-as-president-of-south-africa.md)

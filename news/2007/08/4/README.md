@@ -61,7 +61,7 @@ _Context: England, Surrey, foot-and-mouth disease, livestock, outbreak of 2007_
 
 ##### Natural gas
 ### [ A natural gas pipeline between Turkey and Greece is completed allowing gas to be sent from the Middle East to Europe. ](/news/2007/08/4/a-natural-gas-pipeline-between-turkey-and-greece-is-completed-allowing-gas-to-be-sent-from-the-middle-east-to-europe.md)
-_Context: Europe, Greece, Middle East, Turkish, natural gas_
+_Context: Europe, Greece, Middle East, Turkey, natural gas_
 
 ## [Previous Day...](/news/2007/08/3/index.md)
 

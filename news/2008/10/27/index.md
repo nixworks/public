@@ -33,7 +33,7 @@ _Context: Washington Metro, Washington, D.C._
 
 ##### Alaska
 ### [ Alaskan Senator Ted Stevens is found guilty on all seven counts of lying on United States Senate financial documents. ](/news/2008/10/27/alaskan-senator-ted-stevens-is-found-guilty-on-all-seven-counts-of-lying-on-united-states-senate-financial-documents.md)
-_Context: Alaska, Senate, Ted Stevens, United States_
+_Context: Alaska, Ted Stevens, US Senators, United States_
 
 ## [Previous Day...](/news/2008/10/26/index.md)
 

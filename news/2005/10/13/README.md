@@ -13,7 +13,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Bird flu
 ### [ The presence of the dangerous H5N1 avian influenza virus is confirmed in dead birds found in Turkey, marking the first cases of the disease in Europe. ](/news/2005/10/13/the-presence-of-the-dangerous-h5n1-avian-influenza-virus-is-confirmed-in-dead-birds-found-in-turkey-marking-the-first-cases-of-the-disease.md)
-_Context: Europe, Turkish, avian influenza, bird flu, virus_
+_Context: Europe, Turkey, avian influenza, bird flu, virus_
 
 ##### Chechen
 ### [ Scores of suspected Chechen separatist rebels attack the southern Russian city of Nalchik in a coordinated operation against Russian security forces, killing dozens of people. ](/news/2005/10/13/scores-of-suspected-chechen-separatist-rebels-attack-the-southern-russian-city-of-nalchik-in-a-coordinated-operation-against-russian-securi.md)

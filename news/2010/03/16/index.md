@@ -27,9 +27,9 @@ The discovery of shrimp (lyssianasid amphipod) under the Antarctic ice could mea
 ### [French national railway SNCF, as part of a rapid response training, causes a media scare by mistakenly placing a statement on its website stating that more than 100 people died in a train explosion in Mcon, Burgundy. ](/news/2010/03/16/french-national-railway-sncf-as-part-of-a-rapid-response-training-causes-a-media-scare-by-mistakenly-placing-a-statement-on-its-website-st.md)
 France&#039;s rail operator SNCF caused panic when it wrongly announced on its website that 102 passengers had died in a train explosion.
 
-##### French
+##### France
 ### [France sends military aid to Wallis and Futuna, which suffered extensive damage from Cyclone Tomas. ](/news/2010/03/16/france-sends-military-aid-to-wallis-and-futuna-which-suffered-extensive-damage-from-cyclone-tomas.md)
-_Context: Cyclone Tomas, French, Wallis and Futuna_
+_Context: Cyclone Tomas, France, Wallis and Futuna_
 
 ##### Thailand
 ### [Thai redshirts spill blood at the gates of the government in their third day of protests. ](/news/2010/03/16/thai-redshirts-spill-blood-at-the-gates-of-the-government-in-their-third-day-of-protests.md)

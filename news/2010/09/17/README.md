@@ -43,9 +43,9 @@ Gov. Bob McDonnell issued a statement Friday regarding the scheduled execution o
 ### [The Indonesian Air Force announces plans to buy six more Sukhoi fighter aircraft. ](/news/2010/09/17/the-indonesian-air-force-announces-plans-to-buy-six-more-sukhoi-fighter-aircraft.md)
 _Context: Indonesian Air Force, Sukhoi, fighter aircraft_
 
-##### Poland
+##### Polish
 ### [Poland arrests exiled Chechen rebel leader Akhmed Zakayev. ](/news/2010/09/17/poland-arrests-exiled-chechen-rebel-leader-akhmed-zakayev.md)
-_Context: Akhmed Zakayev, Chechen, Poland_
+_Context: Akhmed Zakayev, Chechen, Polish_
 
 ##### United States
 ### [The United States charges 2 married former nuclear contractors with trying to give away the country's nuclear secrets to Venezuela. ](/news/2010/09/17/the-united-states-charges-2-married-former-nuclear-contractors-with-trying-to-give-away-the-country-s-nuclear-secrets-to-venezuela.md)

@@ -9,7 +9,7 @@ _Context: 2015 Burundian unrest, Burundi, Burundian presidential election, 2015,
 
 ##### Patriot Act
 ### [Key sections of the Patriot Act expire at midnight (Eastern Daylight Time) due to failure of the United States Senate to agree to an extension. It is highly likely that USA Freedom Act will be passed soon, but the bulk collection of domestic telephone data by the National Security Agency is expected to end. ](/news/2015/05/31/key-sections-of-the-patriot-act-expire-at-midnight-eastern-daylight-time-due-to-failure-of-the-united-states-senate-to-agree-to-an-extensi.md)
-_Context: Eastern Daylight Time, National Security Agency, Patriot Act, Senate, USA Freedom Act_
+_Context: Eastern Daylight Time, National Security Agency, Patriot Act, US Senators, USA Freedom Act_
 
 ##### Singapore
 ### [One man is dead and two are detained after an incident at Singapore's Shangri-La Hotel which is currently hosting a high-level international dialogue over the South China Sea. ](/news/2015/05/31/one-man-is-dead-and-two-are-detained-after-an-incident-at-singapore-s-shangri-la-hotel-which-is-currently-hosting-a-high-level-international.md)

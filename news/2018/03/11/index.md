@@ -13,7 +13,7 @@ Billionaire Sebastian Pinera has been inaugurated as Chile&#039;s president, his
 
 ##### 2018 National People's Congress
 ### [China's National People's Congress approves the removal of presidential term limits, in a move that allows current president Xi Jinping to remain president for life. ](/news/2018/03/11/china-s-national-people-s-congress-approves-the-removal-of-presidential-term-limits-in-a-move-that-allows-current-president-xi-jinping-to-r.md)
-_Context: 2018 National People's Congress, China, National People's Congress, Xi Jinping, president, president for life_
+_Context: 2018 National People's Congress, China, Chinese President, National People's Congress, Xi Jinping, president for life_
 
 ##### 2018 Vienna embassy stabbing
 ### [An Austrian soldier was stabbed and injured in front of the Iranian embassy in Vienna. The attacker, which had Islamist sympathies according to the authorities, was shot dead.](/news/2018/03/11/an-austrian-soldier-was-stabbed-and-injured-in-front-of-the-iranian-embassy-in-vienna-the-attacker-which-had-islamist-sympathies-according.md)

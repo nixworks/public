@@ -5,7 +5,7 @@ Formats: [HTML](2007/06/7/index.html)  [JSON](2007/06/7/index.json)  [XML](2007/
 
 ##### Cloture
 ### [ Cloture votes fail in the United States Senate on the Comprehensive Immigration Reform Act of 2007, potentially killing the bill. ](/news/2007/06/7/cloture-votes-fail-in-the-united-states-senate-on-the-comprehensive-immigration-reform-act-of-2007-potentially-killing-the-bill.md)
-_Context: Cloture, Comprehensive Immigration Reform Act of 2007, Senate_
+_Context: Cloture, Comprehensive Immigration Reform Act of 2007, US Senators_
 
 ##### United States
 ### [ American scientists identify a new strain of potentially lethal bacteria called "Bartonella rochalimae". ](/news/2007/06/7/american-scientists-identify-a-new-strain-of-potentially-lethal-bacteria-called-bartonella-rochalimae.md)

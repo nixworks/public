@@ -5,7 +5,7 @@ Formats: [HTML](2007/02/12/index.html)  [JSON](2007/02/12/index.json)  [XML](200
 
 ##### Australia
 ### [ Australian Prime Minister John Howard criticizes U.S. Senator Barack Obama (D-IL) for his stance on Iraq, saying that al-Qaeda in Iraq should be praying for Obama to win the election. The opposition Australian Labor Party says that Howard's statement imperiled the relationship Australia might have with the United States under a Democratic administration. ](/news/2007/02/12/australian-prime-minister-john-howard-criticizes-u-s-senator-barack-obama-d-il-for-his-stance-on-iraq-saying-that-al-qaeda-in-iraq-shou.md)
-_Context: 2008, Australia, Australian Labor Party, Barack Obama, Democrat, Illinois, Iraq, John Howard, Prime Minister, Senate, United States, al-Qaeda in Iraq, opposition party, relationship_
+_Context: 2008, Australia, Australian Labor Party, Barack Obama, Democrat, Illinois, Iraq, John Howard, Prime Minister, US Senators, United States, al-Qaeda in Iraq, opposition party, relationship_
 
 ##### Israel
 ### [ Israel has carried out a successful test of its Arrow missile, the defence ministry says. ](/news/2007/02/12/israel-has-carried-out-a-successful-test-of-its-arrow-missile-the-defence-ministry-says.md)
@@ -57,7 +57,7 @@ _Context: Iran, Mahmoud Ahmadinejad, President, United States_
 
 ##### Virginia Supreme Court
 ### [ A suspicious brown substance is found in envelope at the Virginia Supreme Court building in Richmond, Virginia, United States, on the same day that Senator John McCain (R-AZ) speaks at the Jefferson Hotel. ](/news/2007/02/12/a-suspicious-brown-substance-is-found-in-envelope-at-the-virginia-supreme-court-building-in-richmond-virginia-united-states-on-the-same.md)
-_Context: Arizona, Jefferson Hotel, John McCain, Republican, Richmond, Virginia, Senate, United States, Virginia Supreme Court_
+_Context: Arizona, Jefferson Hotel, John McCain, Republican, Richmond, Virginia, US Senators, United States, Virginia Supreme Court_
 
 ##### Mozambique
 ### [ Approximately 60,000 people in Mozambique are evacuated in the Zambezi River valley due to floods caused by three weeks of heavy rain. ](/news/2007/02/12/approximately-60-000-people-in-mozambique-are-evacuated-in-the-zambezi-river-valley-due-to-floods-caused-by-three-weeks-of-heavy-rain.md)

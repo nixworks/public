@@ -5,7 +5,7 @@ Formats: [HTML](2005/08/14/index.html)  [JSON](2005/08/14/index.json)  [XML](200
 
 ##### Liberia
 ### [ Liberian football hero George Weah has been given the go-ahead to contest the country's presidency. Liberia's election commission dismissed a complaint that his French citizenship barred him from standing.](/news/2005/08/14/liberian-football-hero-george-weah-has-been-given-the-go-ahead-to-contest-the-country-s-presidency-liberia-s-election-commission-dismissed.md)
-_Context: French, George Weah, Liberia, citizenship, contest the country's presidency_
+_Context: France, George Weah, Liberia, citizenship, contest the country's presidency_
 
 ##### Uganda
 ### [ Ugandan journalist Andrew Mwenda has been charged with sedition after a radio debate speculating on the death of Sudan's vice-president John Garang.](/news/2005/08/14/ugandan-journalist-andrew-mwenda-has-been-charged-with-sedition-after-a-radio-debate-speculating-on-the-death-of-sudan-s-vice-president-joh.md)

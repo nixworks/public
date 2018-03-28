@@ -33,7 +33,7 @@ _Context: Egypt, Sudan, avian influenza, bird flu_
 
 ##### Hu Jintao
 ### [ Hu Jintao arrives in Seattle, Washington, on his first visit to the United States since becoming President of the People's Republic of China in 2003. ](/news/2006/04/18/hu-jintao-arrives-in-seattle-washington-on-his-first-visit-to-the-united-states-since-becoming-president-of-the-people-s-republic-of-chin.md)
-_Context: Hu Jintao, Seattle, president_
+_Context: Chinese President, Hu Jintao, Seattle_
 
 ## [Previous Day...](/news/2006/04/17/index.md)
 

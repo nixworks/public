@@ -23,7 +23,7 @@ _Context: India, Maoist, Naxalite_
 ### [ Wallace Souza, the former Brazilian state legislator and host of "Canal Livre" who faces accusations of drug trafficking and murder, surrenders to police after being a fugitive for four days. ](/news/2009/10/9/wallace-souza-the-former-brazilian-state-legislator-and-host-of-canal-livre-who-faces-accusations-of-drug-trafficking-and-murder-surren.md)
 _Context: Brazil, Canal Livre, Wallace Souza_
 
-##### French
+##### France
 ### [ French police arrest a researcher at the European Organization for Nuclear Research (CERN) for suspected links to Al-Qaeda. ](/news/2009/10/9/french-police-arrest-a-researcher-at-the-european-organization-for-nuclear-research-cern-for-suspected-links-to-al-qaeda.md)
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 
@@ -43,7 +43,7 @@ The Nobel Peace Prize, which President Obama described as a â€œcall to action,â€
 ### [ Aung San Suu Kyi is permitted to meet international diplomats to discuss international sanctions against Burma. ](/news/2009/10/9/aung-san-suu-kyi-is-permitted-to-meet-international-diplomats-to-discuss-international-sanctions-against-burma.md)
 _Context: Aung San Suu Kyi, Burma_
 
-##### Poland
+##### Polish
 ### [ A statement on Polish President Lech Kaczynski's website says a signing ceremony of the treaty will take place on Saturday at 1000 GMT. ](/news/2009/10/9/a-statement-on-polish-president-lech-kaczyaski-s-website-says-a-signing-ceremony-of-the-treaty-will-take-place-on-saturday-at-1000-gmt.md)
 Czech President Vaclav Klaus wants an opt-out on the Charter of Fundamental Rights attached to the Lisbon Treaty as a condition to his signing it.
 

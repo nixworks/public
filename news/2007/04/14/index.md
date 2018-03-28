@@ -17,7 +17,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Secularist
 ### [ At least 300,000 secularist Turks march in Ankara to warn the Islamist Prime Minister of Turkey Recep Tayyip Erdogan and his party against seeking the presidency. ](/news/2007/04/14/at-least-300-000-secularist-turks-march-in-ankara-to-warn-the-islamist-prime-minister-of-turkey-recep-tayyip-erdoaan-and-his-party-against.md)
-_Context: Ankara, Islamist, Recep Tayyip Erdogan, Turkish, Turkish President, Turkish Prime Minister, ruling party, secularist, third mass rally_
+_Context: Ankara, Islamist, Recep Tayyip Erdogan, Turkey, Turkish President, Turkish Prime Minister, ruling party, secularist, third mass rally_
 
 ##### Garry Kasparov
 ### [ Garry Kasparov, Russian chess champion and opposition activist, is arrested with over 100 others while attempting to hold a protest march in Moscow. ](/news/2007/04/14/garry-kasparov-russian-chess-champion-and-opposition-activist-is-arrested-with-over-100-others-while-attempting-to-hold-a-protest-march-i.md)
@@ -25,7 +25,7 @@ _Context: Garry Kasparov, Moscow, Russia, chess_
 
 ##### Bus
 ### [ A bus carrying primary school students crashes with a truck on the Aksaray-Konya highway in central Turkey, resulting in the death of 32 people. ](/news/2007/04/14/a-bus-carrying-primary-school-students-crashes-with-a-truck-on-the-aksaray-konya-highway-in-central-turkey-resulting-in-the-death-of-32-pe.md)
-_Context: Aksaray, Konya, Turkish, bus, primary school_
+_Context: Aksaray, Konya, Turkey, bus, primary school_
 
 ##### Suicide bomber
 ### [ A suicide bomber kills 8 people in the Khost Province of Afghanistan. ](/news/2007/04/14/a-suicide-bomber-kills-8-people-in-the-khost-province-of-afghanistan.md)

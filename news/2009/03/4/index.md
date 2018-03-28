@@ -41,7 +41,7 @@ _Context: China, military budget_
 
 ##### President of France
 ### [ President Nicolas Sarkozy and eight other top French politicians receive death threats. ](/news/2009/03/4/president-nicolas-sarkozy-and-eight-other-top-french-politicians-receive-death-threats.md)
-_Context: French, Nicolas Sarkozy, President of France, death threat, politician_
+_Context: France, Nicolas Sarkozy, President of France, death threat, politician_
 
 ##### Gordon Brown
 ### [ Gordon Brown becomes the United Kingdom's fifth Prime Minister to address a joint session of the U.S. Congress. ](/news/2009/03/4/gordon-brown-becomes-the-united-kingdom-s-fifth-prime-minister-to-address-a-joint-session-of-the-u-s-congress.md)

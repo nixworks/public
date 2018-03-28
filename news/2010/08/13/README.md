@@ -67,7 +67,7 @@ President Barack Obama signs into law a bill to increase security along the US-M
 ### [Sun Sea, a cargo ship carrying around 490 Tamil migrants, refugees and suspected human smugglers and Tamil Tigers as well as reports of tuberculosis outbreaks is scheduled to arrive in Esquimalt, British Columbia. The Royal Canadian Mounted Police and Canadian Navy are escorting and boarding the ship, and the ship's captain is suspected by the Sri Lankan Government of being a gun runner. ](/news/2010/08/13/sun-sea-a-cargo-ship-carrying-around-490-tamil-migrants-refugees-and-suspected-human-smugglers-and-tamil-tigers-as-well-as-reports-of-tube.md)
 _Context: British Columbia, Canadian Navy, Esquimalt, Royal Canadian Mounted Police, Sri Lankan Government, Tamil Tigers, Tamil migrant, gun runner, human smuggler, refugee, tuberculosis_
 
-##### French
+##### France
 ### [France condemns the actions of a senior soldier after a YouTube video of him threatening a Togolese journalist in Lome is released. ](/news/2010/08/13/france-condemns-the-actions-of-a-senior-soldier-after-a-youtube-video-of-him-threatening-a-togolese-journalist-in-loma-c-is-released.md)
 French officials lambast a senior army officer who was filmed on YouTube ordering a Togolese journalist to delete images of a protest.
 

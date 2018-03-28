@@ -43,9 +43,9 @@ _Context: Japan, North Korea, United Nations Security Council, sanctions_
 ### [ The board of General Motors authorises Chief Executive Officer Rick Wagoner to explore an alliance with Nissan and Renault. ](/news/2006/07/7/the-board-of-general-motors-authorises-chief-executive-officer-rick-wagoner-to-explore-an-alliance-with-nissan-and-renault.md)
 _Context: General Motors, Nissan, Renault, Rick Wagoner_
 
-##### Poland
+##### Polish
 ### [ Polish Prime Minister Kazimierz Marcinkiewicz has resigned. His party Law and Justice has recommended the post be taken over by its chairman Jaroslaw Kaczynski, who is the identical twin brother of President Lech Kaczynski. ](/news/2006/07/7/polish-prime-minister-kazimierz-marcinkiewicz-has-resigned-his-party-law-and-justice-has-recommended-the-post-be-taken-over-by-its-chairma.md)
-_Context: Jaroslaw Kaczynski, Kazimierz Marcinkiewicz, Law and Justice, Lech Kaczynski, Poland, Prime Minister_
+_Context: Jaroslaw Kaczynski, Kazimierz Marcinkiewicz, Law and Justice, Lech Kaczynski, Polish, Prime Minister_
 
 ##### Ayman al Zawahri
 ### [ Ayman al Zawahri, deputy of al-Qaeda claims that two of the London bombers trained with al-Qaeda on a video posted on a website. The two men he identified as training with them are Shehzad Tanweer and Mohammad Sidique Khan. ](/news/2006/07/7/ayman-al-zawahri-deputy-of-al-qaeda-claims-that-two-of-the-london-bombers-trained-with-al-qaeda-on-a-video-posted-on-a-website-the-two-me.md)

@@ -11,7 +11,7 @@ _Context: aerosol, animal testing, laboratory mice, prion, scrapie_
 ### [South Korea buries 1.4 million domestic pigs alive after an outbreak of foot-and-mouth disease. ](/news/2011/01/13/south-korea-buries-1-4-million-domestic-pigs-alive-after-an-outbreak-of-foot-and-mouth-disease.md)
 _Context: South Korea, an outbreak of foot-and-mouth disease, domestic pig_
 
-##### Senate
+##### US Senators
 ### [U.S. Senator Kay Bailey Hutchison, a Republican from Texas, announces she will not seek re-election in 2012. ](/news/2011/01/13/u-s-senator-kay-bailey-hutchison-a-republican-from-texas-announces-she-will-not-seek-re-election-in-2012.md)
 Republican U.S. Sen. Kay Bailey Hutchison has announced that she will retire after her current term expires.
 

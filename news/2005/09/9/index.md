@@ -25,7 +25,7 @@ _Context: Providence, Rhode Island, Rhode Island, Richard Hatch, Survivor: Pulau
 
 ##### China
 ### [ People's Republic of China President Hu Jintao meets with Canadian Prime Minister Paul Martin in Ottawa. The event is met with protesters and supporters of the Chinese government. Martin and Hu agree on a new "Strategic Partnership", and sign a series of agreements on transportation, food inspection, and scientific research. Hu also meets with Governor General Adrienne Clarkson. ](/news/2005/09/9/people-s-republic-of-china-president-hu-jintao-meets-with-canadian-prime-minister-paul-martin-in-ottawa-the-event-is-met-with-protesters-a.md)
-_Context: Adrienne Clarkson, Canada, China, Governor General of Canada, Hu Jintao, Paul Martin, Prime Minister of Canada, president_
+_Context: Adrienne Clarkson, Canada, China, Chinese President, Governor General of Canada, Hu Jintao, Paul Martin, Prime Minister of Canada_
 
 ##### Belgian Air Force
 ### [ During a military exercise, a Belgian Air Force F-16 fighter jet crashes in the Wadden Sea (Waddenzee), near the Dutch island of Vlieland. The pilot failed to eject, and died in the crash. ](/news/2005/09/9/during-a-military-exercise-a-belgian-air-force-f-16-fighter-jet-crashes-in-the-wadden-sea-waddenzee-near-the-dutch-island-of-vlieland.md)

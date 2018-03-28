@@ -25,7 +25,7 @@ _Context: Scaled Composites, Scaled Composites SpaceShipTwo, Virgin Galactic's, 
 
 ##### Miroslawiec
 ### [ 20 people are killed in a military transport plane crash near Miroslawiec, northern Poland; senior Polish Air Force officers are among the victims. ](/news/2008/01/23/20-people-are-killed-in-a-military-transport-plane-crash-near-mirosaawiec-northern-poland-senior-polish-air-force-officers-are-among-the.md)
-_Context: Miroslawiec, Poland, Polish Air Force_
+_Context: Miroslawiec, Polish, Polish Air Force_
 
 ## [Previous Day...](/news/2008/01/22/index.md)
 

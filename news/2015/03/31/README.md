@@ -31,9 +31,9 @@ _Context: Columbia University Medical School, Nature Neuroscience, correlates_
 ### [Germanwings' owner Lufthansa officially acknowledges that it knew there were mental health issues with Andreas Lubitz before the crash. ](/news/2015/03/31/germanwings-owner-lufthansa-officially-acknowledges-that-it-knew-there-were-mental-health-issues-with-andreas-lubitz-before-the-crash.md)
 The company said Andreas Lubitz, thought to have intentionally crashed a Germanwings flight, had informed it of his depressive episodes in 2009 after a break in training.
 
-##### Turkish
+##### Turkey
 ### [Large parts of Turkey experience a power outage affecting public services and infrastructure including air traffic control, trams, and subways in Istanbul. As much as 65% of the country is without power. ](/news/2015/03/31/large-parts-of-turkey-experience-a-power-outage-affecting-public-services-and-infrastructure-including-air-traffic-control-trams-and-subwa.md)
-_Context: Istanbul, Turkish, air traffic control, power outage_
+_Context: Istanbul, Turkey, air traffic control, power outage_
 
 ##### India
 ### [Landslides in India's Jammu and Kashmir state kill at least six people and leave sixteen others missing. ](/news/2015/03/31/landslides-in-india-s-jammu-and-kashmir-state-kill-at-least-six-people-and-leave-sixteen-others-missing.md)

@@ -29,7 +29,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ##### Ukraine
 ### [ Countries across Europe report reductions in gas supplies after Russia disconnected supplies to Ukraine yesterday. Russia accuses Ukraine of stealing 100 million cubic metres of gas yesterday from pipelines transiting the country; Ukraine denies this but has previously claimed the right to 15% of the gas as a transit toll. Hungary reports supplies are down by 40%, France and Italy by 30%, and Poland by 14%. Germany, Russia's principal customer, also reports reductions. Russian supplier Gazprom says that it will increase supplies and return them to normal by Tuesday night. ](/news/2006/01/2/countries-across-europe-report-reductions-in-gas-supplies-after-russia-disconnected-supplies-to-ukraine-yesterday-russia-accuses-ukraine-o.md)
-_Context: Gazprom, Hungary, Poland, Ukraine_
+_Context: Gazprom, Hungary, Polish, Ukraine_
 
 ##### Exploits
 ### [ Several exploits of a severe Windows security vulnerability are spreading over the Internet, permitting compromise of any Windows computer merely by viewing a maliciously crafted image on a website or in e-mail or instant messaging. No patch from Microsoft is available, however an unofficial patch exists ](/news/2006/01/2/several-exploits-of-a-severe-windows-security-vulnerability-are-spreading-over-the-internet-permitting-compromise-of-any-windows-computer.md)

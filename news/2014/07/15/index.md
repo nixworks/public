@@ -35,7 +35,7 @@ Thousands are preparing to evacuate Philippines coastal areas as Typhoon Rammasu
 ### [Nineteen immigrants drown as a boat carrying 80 people capsizes off the coast of Malaysia's Tanjung Piai cape. ](/news/2014/07/15/nineteen-immigrants-drown-as-a-boat-carrying-80-people-capsizes-off-the-coast-of-malaysia-s-tanjung-piai-cape.md)
 _Context: Malaysia, Tanjung Piai_
 
-##### UK
+##### British
 ### [A UK regulatory agency, the Financial Conduct Authority announces plans to cap the interest rates that can be set by payday lenders, as well as their default charges. ](/news/2014/07/15/a-uk-regulatory-agency-the-financial-conduct-authority-announces-plans-to-cap-the-interest-rates-that-can-be-set-by-payday-lenders-as-well.md)
 Plans for a cap on interest rates on payday loans from January 2015 are announced by UK regulator the Financial Conduct Authority.
 

@@ -9,7 +9,7 @@ Formats: [HTML](2017/02/16/index.html)  [JSON](2017/02/16/index.json)  [XML](201
 
 ##### Political appointments of Donald Trump
 ### [The U.S. Senate confirms, 51-49, Congressman Mick Mulvaney to head the Office of Management and Budget. ](/news/2017/02/16/the-u-s-senate-confirms-51-49-congressman-mick-mulvaney-to-head-the-office-of-management-and-budget.md)
-_Context: Mick Mulvaney, Office of Management and Budget, Political appointments of Donald Trump, Senate_
+_Context: Mick Mulvaney, Office of Management and Budget, Political appointments of Donald Trump, US Senators_
 
 ##### Formation of Donald Trump's cabinet
 ### [U.S. President Donald Trump names Florida International University College of Law Dean and former National Labor Relations Board member Alexander Acosta to be Secretary of Labor. The President's initial nominee, Andy Puzder, withdrew his nomination yesterday. ](/news/2017/02/16/u-s-president-donald-trump-names-florida-international-university-college-of-law-dean-and-former-national-labor-relations-board-member-alex.md)

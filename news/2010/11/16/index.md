@@ -9,7 +9,7 @@ Get the latest science news and technology news, read tech reviews and more at A
 
 ##### Republican
 ### [U.S. Republican Party Senators adopt a ban on earmarking, or setting aside money in bills for specific purposes specified by legislators. ](/news/2010/11/16/u-s-republican-party-senators-adopt-a-ban-on-earmarking-or-setting-aside-money-in-bills-for-specific-purposes-specified-by-legislators.md)
-_Context: Republican, Senate, earmarking_
+_Context: Republican, US Senators, earmarking_
 
 ##### President
 ### [The President of the United States Barack Obama presents a Medal of Honor, the highest United States military decoration to Staff Sgt Salvatore Giunta at the White House. ](/news/2010/11/16/the-president-of-the-united-states-barack-obama-presents-a-medal-of-honor-the-highest-united-states-military-decoration-to-staff-sgt-salvat.md)
@@ -73,7 +73,7 @@ Archbishop Timothy M. Dolan of New York will lead the United States Conference o
 
 ##### UNESCO
 ### [UNESCO adds traditional dishes of France and Mexico to the Representative List of the Intangible Cultural Heritage of Humanity at a committee meeting in Nairobi, the first time cuisine is added to the list. ](/news/2010/11/16/unesco-adds-traditional-dishes-of-france-and-mexico-to-the-representative-list-of-the-intangible-cultural-heritage-of-humanity-at-a-committe.md)
-_Context: French, Mexico, Nairobi, Representative List of the Intangible Cultural Heritage of Humanity, UNESCO_
+_Context: France, Mexico, Nairobi, Representative List of the Intangible Cultural Heritage of Humanity, UNESCO_
 
 ##### The Beatles
 ### [The Beatles release their back catalogue on iTunes. ](/news/2010/11/16/the-beatles-release-their-back-catalogue-on-itunes.md)

@@ -61,7 +61,7 @@ U.S. Secretary of State Condoleezza Rice and Defense Secretary Robert Gates head
 
 ##### FBI
 ### [ Agents from the Federal Bureau of Investigation and Internal Revenue Service search the house of Senator Ted Stevens in Girdwood, Alaska. ](/news/2007/07/30/agents-from-the-federal-bureau-of-investigation-and-internal-revenue-service-search-the-house-of-senator-ted-stevens-in-girdwood-alaska.md)
-_Context: FBI, Girdwood, Alaska, Internal Revenue Service, Senate, Ted Stevens_
+_Context: FBI, Girdwood, Alaska, Internal Revenue Service, Ted Stevens, US Senators_
 
 ##### Juan Manuel Santos
 ### [ Juan Manuel Santos, the Defense Minister of Colombia, claims that the military has been infiltrated by FARC and drug gangs. ](/news/2007/07/30/juan-manuel-santos-the-defense-minister-of-colombia-claims-that-the-military-has-been-infiltrated-by-farc-and-drug-gangs.md)

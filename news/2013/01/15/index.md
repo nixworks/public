@@ -21,7 +21,7 @@ An Egyptian human rights lawyer is sentenced to five years in jail and 300 lashe
 
 ##### 2013 horse meat contamination in burgers scandal
 ### [2013 horse meat contamination in burgers scandal: The Republic of Ireland's Food Safety Authority says that horse DNA has been found in some beefburgers on sale in UK and Irish supermarkets. ](/news/2013/01/15/2013-horse-meat-contamination-in-burgers-scandal-the-republic-of-ireland-s-food-safety-authority-says-that-horse-dna-has-been-found-in-some.md)
-_Context: 2013 horse meat contamination in burgers scandal, DNA, Irish, UK, beefburger, horse, supermarket_
+_Context: 2013 horse meat contamination in burgers scandal, British, DNA, Irish, beefburger, horse, supermarket_
 
 ##### Crash
 ### [2013 Saltsjobanan train crash: A Saltsjobanan commuter train crashes into a residential building in the upscale Stockholm suburb of Saltsjobaden seriously injuring one person. ](/news/2013/01/15/2013-saltsjapbanan-train-crash-a-saltsjapbanan-commuter-train-crashes-into-a-residential-building-in-the-upscale-stockholm-suburb-of-saltsj.md)
@@ -39,7 +39,7 @@ Indian troops killed a Pakistani soldier in the disputed territory of Kashmir la
 ### [A suicide bomber kills a Sunni MP and six others in Fallujah, two days after Finance Minister Rafi al-Issawi survived an assassination attempt in the same city. The parliamentarian, Ifan Saadoun al-Issawi, was an important member of the Sahwadate=July 2013 committee in Fallujah and part of the opposition to Prime Minister Nouri al-Maliki. ](/news/2013/01/15/a-suicide-bomber-kills-a-sunni-mp-and-six-others-in-fallujah-two-days-after-finance-minister-rafi-al-issawi-survived-an-assassination-attem.md)
 Ayfan Sadoun al-Essawi and six others killed in suicide attack in Fallujah, officials say.
 
-##### French
+##### France
 ### [African troops are to be deployed in Mali to fight alongside French and Malian soldiers within a week. ](/news/2013/01/15/african-troops-are-to-be-deployed-in-mali-to-fight-alongside-french-and-malian-soldiers-within-a-week.md)
 Announcement comes as Hollande says France will end intervention only when stability returns to West African country.
 

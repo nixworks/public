@@ -3,7 +3,7 @@ Formats: [HTML](2005/07/10/index.html)  [JSON](2005/07/10/index.json)  [XML](200
 
 ## [2005-07-10](/news/2005/07/10/index.md)
 
-##### Turkish
+##### Turkey
 ### [ In Turkey, bomb in Cesme injures 22. Group called the Kurdish Liberation Hawks takes responsibility ](/news/2005/07/10/in-turkey-bomb-in-cesme-injures-22-group-called-the-kurdish-liberation-hawks-takes-responsibility.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 

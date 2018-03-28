@@ -13,7 +13,7 @@ _Context: Investigative Committee of Russia, Kyrgyzstan, Moscow, President of Ru
 
 ##### Kurdish-Turkish conflict (2015-present)
 ### [Suspected Kurdish militants fire rockets at Diyarbakir Airport in Diyarbakir, Turkey. ](/news/2016/08/27/suspected-kurdish-militants-fire-rockets-at-diyarbaka-r-airport-in-diyarbaka-r-turkey.md)
-_Context: Diyarbakir, Diyarbakir Airport, Kurdish-Turkish conflict (2015-present), Kurds, Turkish_
+_Context: Diyarbakir, Diyarbakir Airport, Kurdish-Turkish conflict (2015-present), Kurds, Turkey_
 
 ##### Paraguayan People's Army insurgency
 ### [At least eight Paraguayan Army soldiers are killed in an ambush by suspected Paraguayan People's Army (EPP) insurgents, near the village of Arroyito, in northern Paraguay. ](/news/2016/08/27/at-least-eight-paraguayan-army-soldiers-are-killed-in-an-ambush-by-suspected-paraguayan-people-s-army-epp-insurgents-near-the-village-of.md)

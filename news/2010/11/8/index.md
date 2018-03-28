@@ -87,7 +87,7 @@ Australian airline Qantas says it is keeping its Airbus A380s grounded for furth
 ### [Global Green Growth conference ends in Copenhagen. ](/news/2010/11/8/global-green-growth-conference-ends-in-copenhagen.md)
 _Context: Copenhagen, Global Green Growth_
 
-##### French
+##### France
 ### [French novelist Michel Houellebecq wins the Prix Goncourt for his book "La Carte et le Territoire" ("The Map and the Territory"). ](/news/2010/11/8/french-novelist-michel-houellebecq-wins-the-prix-goncourt-for-his-book-la-carte-et-le-territoire-the-map-and-the-territory.md)
 Michel Houellebecq, France&#039;s best-known novelist, has finally won the country&#039;s most prestigious literary award after a series of high profile snubs for previous works.
 

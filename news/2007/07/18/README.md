@@ -27,9 +27,9 @@ Michael Vick has been indicted by a federal grand jury in connection with the do
 ### [ Florida Governor Charlie Crist ends the state's temporary voluntary moratorium on the death penalty by signing the death warrant of Mark Dean Schwab, convicted in 1992 of kidnapping, raping and murdering an 11-year-old boy in Cocoa, Florida. He is scheduled to die on November 15, 2007. ](/news/2007/07/18/florida-governor-charlie-crist-ends-the-state-s-temporary-voluntary-moratorium-on-the-death-penalty-by-signing-the-death-warrant-of-mark-de.md)
 _Context: 1992, Charlie Crist, Cocoa, Florida, Florida, Florida Governor, Mark Dean Schwab, capital punishment, death warrant, moratorium_
 
-##### ''Nature''
+##### Nature Astronomy
 ### [ A study in "Nature" confirms that the island of Britain was severed from continental Europe by a giant flood that cut away the Weald-Artois Anticline about 200,000 years ago. ](/news/2007/07/18/a-study-in-nature-confirms-that-the-island-of-britain-was-severed-from-continental-europe-by-a-giant-flood-that-cut-away-the-weald-artois.md)
-_Context: ''Nature'', Europe, Great Britain, Weald-Artois Anticline, flood, island_
+_Context: Europe, Great Britain, Nature Astronomy, Weald-Artois Anticline, flood, island_
 
 ##### Steam pipe explodes
 ### [ A steam pipe explodes in Midtown New York City outside Grand Central Terminal; killing 1 person, injuring 44 and causing evacuations and delays throughout the area. ](/news/2007/07/18/a-steam-pipe-explodes-in-midtown-new-york-city-outside-grand-central-terminal-killing-1-person-injuring-44-and-causing-evacuations-and-de.md)

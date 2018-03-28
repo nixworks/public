@@ -21,7 +21,7 @@ _Context: Omar Hassan al-Bashir, President of Sudan, Sudan People's Liberation M
 
 ##### 2007 Turkish offensive on Iraqi territories against Kurdish rebels
 ### [ 2007 Turkish offensive on Iraqi territories against Kurdish rebels: The Turkish Grand National Assembly approves a government request for their troops to cross the Iraqi border to attack Kurdish rebels. ](/news/2007/10/17/2007-turkish-offensive-on-iraqi-territories-against-kurdish-rebels-the-turkish-grand-national-assembly-approves-a-government-request-for-t.md)
-_Context: 2007 Turkish offensive on Iraqi territories against Kurdish rebels, Iraq, Iraqi Kurd, MP, Turkish_
+_Context: 2007 Turkish offensive on Iraqi territories against Kurdish rebels, Iraq, Iraqi Kurd, MP, Turkey_
 
 ##### Burma
 ### [ Burmese activist and Nobel laureate Aung San Suu Kyi is granted honorary citizenship by Canada. ](/news/2007/10/17/burmese-activist-and-nobel-laureate-aung-san-suu-kyi-is-granted-honorary-citizenship-by-canada.md)
@@ -31,9 +31,9 @@ _Context: Aung San Suu Kyi, Burma, Canada, Honorary Canadian citizenship_
 ### [ John Fahey, former Premier of New South Wales, is appointed as the President of the World Anti-Doping Agency. ](/news/2007/10/17/john-fahey-former-premier-of-new-south-wales-is-appointed-as-the-president-of-the-world-anti-doping-agency.md)
 _Context: John Fahey, Premier, World Anti-Doping Agency_
 
-##### French
+##### France
 ### [ French public transport workers hold a 24-hour strike protesting at changes to pensions. ](/news/2007/10/17/french-public-transport-workers-hold-a-24-hour-strike-protesting-at-changes-to-pensions.md)
-_Context: French, pension, public transport_
+_Context: France, pension, public transport_
 
 ## [Previous Day...](/news/2007/10/16/index.md)
 

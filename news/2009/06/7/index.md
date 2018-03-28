@@ -13,7 +13,7 @@ _Context: Mogadishu, Somalia, declares_
 
 ##### Dalai Lama
 ### [ Dalai Lama Tenzin Gyatso is granted honorary citizenship in Paris, France. ](/news/2009/06/7/dalai-lama-tenzin-gyatso-is-granted-honorary-citizenship-in-paris-france.md)
-_Context: 14th Dalai Lama, Dalai Lama, French, Paris, honorary citizenship_
+_Context: 14th Dalai Lama, Dalai Lama, France, Paris, honorary citizenship_
 
 ##### United Kingdom
 ### [ Former United Kingdom Cabinet Ministers Hazel Blears, James Purnell, John Hutton, and Caroline Flint coordinated their resignations to compel Prime Minister Gordon Brown to also resign. ](/news/2009/06/7/former-united-kingdom-cabinet-ministers-hazel-blears-james-purnell-john-hutton-and-caroline-flint-coordinated-their-resignations-to-comp.md)

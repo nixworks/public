@@ -19,7 +19,7 @@ Hundreds of thousands of people march in the Brazilian city of Sao Paulo, in wha
 ### [ Dan Wheldon won the 89th running of the Indianapolis 500, beating rookie Danica Patrick, who led the race three times and came in an impressive fourth place ](/news/2005/05/29/dan-wheldon-won-the-89th-running-of-the-indianapolis-500-beating-rookie-danica-patrick-who-led-the-race-three-times-and-came-in-an-impres.md)
 _Context: Dan Wheldon, Danica Patrick, Indianapolis 500_
 
-##### French
+##### France
 ### [ The French electorate reject the Treaty establishing a Constitution for Europe by approximately 55% to 45%, igniting a political crisis in the union and dealing a sharp blow to French President Jacques Chirac. All 25 EU member states must ratify the treaty for it to come into effect - 9 have done so to date, but only Spain has previously held a referendum. ](/news/2005/05/29/the-french-electorate-reject-the-treaty-establishing-a-constitution-for-europe-by-approximately-55-to-45-igniting-a-political-crisis-in.md)
 French voters rejected a proposed European Union constitution Sunday, igniting a political crisis in the alliance and dealing a sharp blow to French President Jacques Chirac.With nearly all ballots...
 

@@ -53,7 +53,7 @@ _Context: Iraq, Iraq War (2014-present)_
 
 ##### Islamic State in Iraq and the Levant
 ### [Turkey launches its first air strikes against ISIL in Syria. ](/news/2015/08/29/turkey-launches-its-first-air-strikes-against-isil-in-syria.md)
-_Context: Islamic State in Iraq and the Levant, Syria, Turkish_
+_Context: Islamic State in Iraq and the Levant, Syria, Turkey_
 
 ##### South Sudanese Civil War
 ### [A ceasefire starts between the forces of President Salva Kiir and rebel forces with claims of breaches already being made. ](/news/2015/08/29/a-ceasefire-starts-between-the-forces-of-president-salva-kiir-and-rebel-forces-with-claims-of-breaches-already-being-made.md)

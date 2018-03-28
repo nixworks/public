@@ -11,7 +11,7 @@ _Context: memory, sleep_
 ### [Scientist find a rare dinosaur egg with the remaining fossil of an embryo in China. ](/news/2013/04/11/scientist-find-a-rare-dinosaur-egg-with-the-remaining-fossil-of-an-embryo-in-china.md)
 Fast-growing bones point to SUPER-SHORT incubation period
 
-##### French
+##### France
 ### [France's top rabbi, Gilles Bernheim resigns after admitting he does not hold a philosophy degree as claimed and had engaged in plagiarism. ](/news/2013/04/11/france-s-top-rabbi-gilles-bernheim-resigns-after-admitting-he-does-not-hold-a-philosophy-degree-as-claimed-and-had-engaged-in-plagiarism.md)
 After admitting to plagiarism and deception in his academic credentials Rabbi Bernheim decides do step down.
 

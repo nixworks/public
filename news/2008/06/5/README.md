@@ -11,9 +11,9 @@ Myanmar has detained a top activist comedian involved in a private aid effort fo
 ### [ Prime Minister of Israel Ehud Olmert says that "the end of Iran's nuclear program is near". ](/news/2008/06/5/prime-minister-of-israel-ehud-olmert-says-that-the-end-of-iran-s-nuclear-program-is-near.md)
 _Context: Ehud Olmert, Iran's nuclear program, Prime Minister_
 
-##### Turkish
+##### Turkey
 ### [ Turkey's Constitutional Court reinstates a ban on the hijab in universities, citing the constitution's secular principles. ](/news/2008/06/5/turkey-s-constitutional-court-reinstates-a-ban-on-the-hijab-in-universities-citing-the-constitution-s-secular-principles.md)
-_Context: Constitutional Court of Turkey, Turkish, hijab, reinstates a ban, secular foundation_
+_Context: Constitutional Court of Turkey, Turkey, hijab, reinstates a ban, secular foundation_
 
 ##### ''Rdhuset'' court house
 ### [ A fire destroys major parts of the "Rdhuset" court house in Stockholm, the architectural landmark designed by Carl Westman. ](/news/2008/06/5/a-fire-destroys-major-parts-of-the-radhuset-court-house-in-stockholm-the-architectural-landmark-designed-by-carl-westman.md)

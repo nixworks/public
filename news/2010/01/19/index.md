@@ -57,7 +57,7 @@ _Context: Black Panther Party, Mumia Abu-Jamal, Philadelphia, United States, Uni
 
 ##### Massachusetts
 ### [Massachusetts voters elect Republican Scott Brown to fill the vacant United States Senate seat previously held by Ted Kennedy. ](/news/2010/01/19/massachusetts-voters-elect-republican-scott-brown-to-fill-the-vacant-united-states-senate-seat-previously-held-by-ted-kennedy.md)
-_Context: Massachusetts, Republican, Scott Brown, Senate, Ted Kennedy, elect_
+_Context: Massachusetts, Republican, Scott Brown, Ted Kennedy, US Senators, elect_
 
 ##### Iran
 ### [Iran rejects a deal offered by the International Atomic Energy Agency to exchange low-enriched uranium for nuclear fuel. ](/news/2010/01/19/iran-rejects-a-deal-offered-by-the-international-atomic-energy-agency-to-exchange-low-enriched-uranium-for-nuclear-fuel.md)

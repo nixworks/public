@@ -13,7 +13,7 @@ Barack Obama won a commanding victory in the North Carolina primary but fell sho
 
 ##### China
 ### [ Chinese President Hu Jintao begins a landmark five-day state visit to Japan. ](/news/2008/05/6/chinese-president-hu-jintao-begins-a-landmark-five-day-state-visit-to-japan.md)
-_Context: China, Hu Jintao, Japan, president, state visit_
+_Context: China, Chinese President, Hu Jintao, Japan, state visit_
 
 ##### Cyclone Nargis
 ### [ Myanmar state government reports that the death toll from the cyclone has reached 22,000, with 41,000 people missing. ](/news/2008/05/6/myanmar-state-government-reports-that-the-death-toll-from-the-cyclone-has-reached-22-000-with-41-000-people-missing.md)

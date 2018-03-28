@@ -21,7 +21,7 @@ Benazir Bhutto left open the possibility that her party would resign from Parlia
 
 ##### Edward Pietrzyk
 ### [ Edward Pietrzyk, the Polish ambassador to Iraq, is hurt and his bodyguard is killed by a bomb attack in Baghdad. ](/news/2007/10/3/edward-pietrzyk-the-polish-ambassador-to-iraq-is-hurt-and-his-bodyguard-is-killed-by-a-bomb-attack-in-baghdad.md)
-_Context: Baghdad, Edward Pietrzyk, IED, Iraq, Poland, ambassador, bodyguard_
+_Context: Baghdad, Edward Pietrzyk, IED, Iraq, Polish, ambassador, bodyguard_
 
 ##### United States
 ### [ United States President George W. Bush vetoes an expansion of the State Children's Health Insurance Program. ](/news/2007/10/3/united-states-president-george-w-bush-vetoes-an-expansion-of-the-state-children-s-health-insurance-program.md)

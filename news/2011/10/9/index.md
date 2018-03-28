@@ -11,9 +11,9 @@ _Context: Canada, London, Occupy Wall Street, The Hague, United States, corrupti
 ### [The French Socialist Party holds a nationwide primary election to choose its candidate for the 2012 presidential election, with over 1 million voters participating and Francois Hollande and Martine Aubry entering a run-off election. ](/news/2011/10/9/the-french-socialist-party-holds-a-nationwide-primary-election-to-choose-its-candidate-for-the-2012-presidential-election-with-over-1-milli.md)
 France&#x2019;s&#x20;Socialists&#x20;held&#x20;their&#x20;first-ever&#x20;US-style&#x20;primary&#x20;Sunday&#x20;to&#x20;choose&#x20;their&#x20;candidate&#x20;to&#x20;take&#x20;on&#x20;Nicolas&#x20;Sarkozy&#x20;in&#x20;2012&#x20;presidential&#x20;elections.&#x20;The&#x20;party&#x20;reached&#x20;thei...
 
-##### Poland
+##### Polish
 ### [Voters in Poland go to the polls for a parliamentary election, with Prime Minister Donald Tusk's Civic Platform - Polish People's Party coalition becoming the first government to be reelected since Poland transitioned to democracy in 1989. ](/news/2011/10/9/voters-in-poland-go-to-the-polls-for-a-parliamentary-election-with-prime-minister-donald-tusk-s-civic-platform-a-polish-people-s-party-co.md)
-_Context: Civic Platform, Donald Tusk, Poland, Polish People's Party, Prime Minister, parliamentary election, transitioned to democracy_
+_Context: Civic Platform, Donald Tusk, Polish, Polish People's Party, Prime Minister, parliamentary election, transitioned to democracy_
 
 ##### Cameroon
 ### [Voters in Cameroon go to the polls for a presidential election, with incumbent President Paul Biya likely to be re-elected. ](/news/2011/10/9/voters-in-cameroon-go-to-the-polls-for-a-presidential-election-with-incumbent-president-paul-biya-likely-to-be-re-elected.md)

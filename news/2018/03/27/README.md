@@ -4,32 +4,36 @@ Formats: [HTML](2018/03/27/index.html)  [JSON](2018/03/27/index.json)  [XML](201
 ## [2018-03-27](/news/2018/03/27/index.md)
 
 ##### Discoveries of exoplanets
-### [NASA's Kepler Space Telescope reports observations of what may be a new exoplanet named K2-229b, whose attributes may resemble Mercury (hot, metallic, and dense). ](/news/2018/03/27/nasa-s-kepler-space-telescope-reports-observations-of-what-may-be-a-new-exoplanet-named-k2-229b-whose-attributes-may-resemble-mercury-hot.md)
+### [Led overall by researchers at Aix-Marseille Universite in France using NASA's "Kepler Space Telescope", "Nature Astronomy" publishes observations of what may be a new exoplanet named K2-229b, whose attributes may resemble the planet of Mercury (hot, metallic, and dense). ](/news/2018/03/27/led-overall-by-researchers-at-aix-marseille-universita-c-in-france-using-nasa-s-kepler-space-telescope-nature-astronomy-publishes-observ.md)
 The US National Aeronautics and Space Administration, NASA, revealed on Monday the discovery of an exoplanet resembling Mercury. The new finding made by the NASA Kepler Space Telescope will help to…
 
 ##### Egyptian presidential election, 2018
 ### [Voting enters the second day. ](/news/2018/03/27/voting-enters-the-second-day.md)
 Egyptian authorities pressed for a high turnout on Tuesday on the second day of a presidential election expected to give President Abdel Fattah al-Sisi a sweeping victory in the absence of real competition, in a contest dismissed by critics as sham.
 
+##### FBI
+### [The FBI arrests Everett, Washington 43-year-old Thanh Cong Phan on suspicion of sending 12 package bombs to the CIA as well as multiple military and government facilities in the Washington, D.C. area. Those bombs did not blow up. The alleged perpetrator was already under government scrutiny for previous mental health issues. ](/news/2018/03/27/the-fbi-arrests-everett-washington-43-year-old-thanh-cong-phan-on-suspicion-of-sending-12-package-bombs-to-the-cia-as-well-as-multiple-mili.md)
+Less than a week after the man suspected of mailing package bombs in Austin, Texas, blew himself up, the FBI announced Tuesday that an Everett man has been arrested on suspicion of sending package bombs to the CIA as well as multiple military and government facilities in the Washington, D.C. area. T...
+
 ##### Censorship in Spain
-### [A court issues an order shutting down a website that uses extracts from "Don Quixote" to recreate the book "Farina". "Farina", an investigation of drug trafficking, is the subject of a freedom of speech debate after a court halted sales ahead of a libel case. ](/news/2018/03/27/a-court-issues-an-order-shutting-down-a-website-that-uses-extracts-from-don-quixote-to-recreate-the-book-farina-farina-an-investigat.md)
+### [A court{{which?}} issues an order shutting down a website that uses extracts from "Don Quixote" to recreate the book "Farina". "Farina", an investigation of drug trafficking, is the subject of a freedom of speech debate after a court halted sales ahead of a libel case. ](/news/2018/03/27/a-court-which-issues-an-order-shutting-down-a-website-that-uses-extracts-from-don-quixote-to-recreate-the-book-farina-farina-an.md)
 When Miguel de Cervantes wrote &ldquo;Don Quixote&rdquo; in the 17th century, he couldn&rsquo;t have imagined that the novel would be used as a weapon in a modern battle over freedom of speech in Spain.
 
 ##### Manchester Arena bombing
-### [A report reveals firefighters were prevented from attending the scene of the bombing for two hours. The report makes more than 50 recommendations. ](/news/2018/03/27/a-report-reveals-firefighters-were-prevented-from-attending-the-scene-of-the-bombing-for-two-hours-the-report-makes-more-than-50-recommenda.md)
-_Context: Manchester Arena bombing, firefighters_
+### [A United Kingdom panel, chaired by the former head of the Home civil service, Lord Bob Kerslake, issues a report which concludes that firefighters were prevented from attending the scene of the bombing for two hours. The report makes more than 50 recommendations. ](/news/2018/03/27/a-united-kingdom-panel-chaired-by-the-former-head-of-the-home-civil-service-lord-bob-kerslake-issues-a-report-which-concludes-that-firefi.md)
+_Context: Bob Kerslake, Manchester Arena bombing, United Kingdom, firefighters, head of the Home civil service_
 
 ##### The Netherlands
-### [The Netherlands recalls a diplomat from Turkey after local newspapers accused him of spying. ](/news/2018/03/27/the-netherlands-recalls-a-diplomat-from-turkey-after-local-newspapers-accused-him-of-spying.md)
+### [The government of The Netherlands recalls a diplomat from the country of Turkey after local newspapers accused him of spying. ](/news/2018/03/27/the-government-of-the-netherlands-recalls-a-diplomat-from-the-country-of-turkey-after-local-newspapers-accused-him-of-spying.md)
 The Dutch diplomat outed as a spy in Turkish newspapers has been brought back to the Netherlands for his own...
 
 ##### Reactions to the poisoning of Sergei and Yulia Skripal
-### [NATO and Australia expel Russian diplomats. ](/news/2018/03/27/nato-and-australia-expel-russian-diplomats.md)
+### [NATO and the government of Australia expel Russian diplomats. ](/news/2018/03/27/nato-and-the-government-of-australia-expel-russian-diplomats.md)
 Australia has become the latest country to expel Russian diplomats following the nerve agent attack on ex-spy Sergei Skripal in Salisbury earlier this month in a gesture of solidarity with Britain.
 
 ##### China-North Korea relations
-### [A train carrying a North Korean diplomatic delegation leaves Beijing station. Reports suggest that it included supreme leader Kim Jong-un, on what would be his first known travel outside North Korea since assuming office in 2011. ](/news/2018/03/27/a-train-carrying-a-north-korean-diplomatic-delegation-leaves-beijing-station-reports-suggest-that-it-included-supreme-leader-kim-jong-un-o.md)
-_Context: Beijing station, China-North Korea relations, Kim Jong-un, North Korea_
+### [North Korean Supreme leader Kim Jong-un meets with with Chinese President Xi Jinping in Beijing, on what is his first known travel outside North Korea since assuming office in 2011. ](/news/2018/03/27/north-korean-supreme-leader-kim-jong-un-meets-with-with-chinese-president-xi-jinping-in-beijing-on-what-is-his-first-known-travel-outside-n.md)
+China said on Wednesday North Korean leader Kim Jong Un pledged to denuclearize the Korean peninsula during an historic meeting in Beijing with President Xi Jinping, who promised China would uphold its friendship with its isolated neighbor.
 
 ##### South Korea
 ### [The South Korean Aviation and Railway Accident Investigation Board issues its final report on a near-collision between an Airbus A310 and a Boeing 737 on a runway in Cheongju. The Board blames the crew who misunderstood a runway instruction. ](/news/2018/03/27/the-south-korean-aviation-and-railway-accident-investigation-board-issues-its-final-report-on-a-near-collision-between-an-airbus-a310-and-a.md)
@@ -56,8 +60,8 @@ A container ship and a merchant ship collided in the Great Belt strait between t
 At least 64 people - 41 of them children - died in a shopping mall fire and many are feared missing.
 
 ##### History of autonomous cars
-### [The governor of Arizona suspends all testing of Uber self-driving cars following a fatal accident last week. ](/news/2018/03/27/the-governor-of-arizona-suspends-all-testing-of-uber-self-driving-cars-following-a-fatal-accident-last-week.md)
-_Context: Arizona, History of autonomous cars, Uber, self-driving car_
+### [The governor of Arizona suspends all statewide-testing of Uber autonomous cars following the March 19 fatal accident involving Uber self-driving car research. ](/news/2018/03/27/the-governor-of-arizona-suspends-all-statewide-testing-of-uber-autonomous-cars-following-the-march-19-fatal-accident-involving-uber-self-dri.md)
+_Context: Arizona, History of autonomous cars, Uber, Uber self-driving car research, autonomous car_
 
 ##### Turkey
 ### [The government of Turkey states that eleven Kurdish militants have been killed near its Syrian border, and two soldiers were killed by an explosion in Syria. ](/news/2018/03/27/the-government-of-turkey-states-that-eleven-kurdish-militants-have-been-killed-near-its-syrian-border-and-two-soldiers-were-killed-by-an-ex.md)

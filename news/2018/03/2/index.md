@@ -45,7 +45,7 @@ _Context: East Coast, another storm_
 
 ##### 2017-18 European windstorm season
 ### [An avalanche near Entraunes in southeastern France, kills at least four people and leaves another one missing. ](/news/2018/03/2/an-avalanche-near-entraunes-in-southeastern-france-kills-at-least-four-people-and-leaves-another-one-missing.md)
-_Context: 2017-18 European windstorm season, Entraunes, French_
+_Context: 2017-18 European windstorm season, Entraunes, France_
 
 ##### War in Afghanistan (2001-present)
 ### [A suicide car bomber kills one person and injures fourteen others near the Australian embassy in Kabul, Afghanistan. ](/news/2018/03/2/a-suicide-car-bomber-kills-one-person-and-injures-fourteen-others-near-the-australian-embassy-in-kabul-afghanistan.md)

@@ -43,7 +43,7 @@ _Context: 9/11 attacks, Australia, Belgium, Israel, Mahmoud Ahmadinejad, Preside
 ### [Iran withdraws its bid for a seat on the International Atomic Energy Agency board due to lack of support for its candidacy. ](/news/2010/09/23/iran-withdraws-its-bid-for-a-seat-on-the-international-atomic-energy-agency-board-due-to-lack-of-support-for-its-candidacy.md)
 _Context: IAEA, Iran_
 
-##### French
+##### France
 ### [French authorities seek to make contact with Al-Qaeda in the Islamic Maghreb over the kidnapping of five French nationals and two others in Niger, now believed to have been taken to northern Mali. ](/news/2010/09/23/french-authorities-seek-to-make-contact-with-al-qaeda-in-the-islamic-maghreb-over-the-kidnapping-of-five-french-nationals-and-two-others-in.md)
 France wants to contact the al-Qaeda group which abducted five of its citizens in Niger, its defence minister says.
 

@@ -27,7 +27,7 @@ SALEM, North Carolina (Reuters) - A university in Greensboro, North Carolina, li
 ### [In Taiwan, 600 people are evacuated from a high-speed train en route to Zuoying from Taipei after timed explosives are found in a restroom. ](/news/2013/04/12/in-taiwan-600-people-are-evacuated-from-a-high-speed-train-en-route-to-zuoying-from-taipei-after-timed-explosives-are-found-in-a-restroom.md)
 _Context: Taipei, Taiwan, Zuoying, bullet train, restroom, timed explosives_
 
-##### French
+##### France
 ### [The French Senate approves same-sex marriage in France putting the bill on track to become law by summer. ](/news/2013/04/12/the-french-senate-approves-same-sex-marriage-in-france-putting-the-bill-on-track-to-become-law-by-summer.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 

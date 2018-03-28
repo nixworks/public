@@ -19,9 +19,9 @@ _Context: Martina Navratilova, breast cancer_
 ### [FC Barcelona's Lionel Messi is widely hailed as the best footballer in the world after scoring four goals for the first time in his career in one UEFA Champions League game, including his fourth hat-trick of 2010. ](/news/2010/04/7/fc-barcelona-s-lionel-messi-is-widely-hailed-as-the-best-footballer-in-the-world-after-scoring-four-goals-for-the-first-time-in-his-career-i.md)
 The legend at the Nou Camp reads &#034;mes que un club&#034; (more than a club) which has also now met its embodiment.
 
-##### Turkish
+##### Turkey
 ### [Turkey's Prime Minister, Recep Tayyip Erdogan, describes Israel as the "main threat to peace" in the Middle East. ](/news/2010/04/7/turkey-s-prime-minister-recep-tayyip-erdoaan-describes-israel-as-the-main-threat-to-peace-in-the-middle-east.md)
-_Context: Israel, Middle East, Prime Minister, Recep Tayyip Erdogan, Turkish_
+_Context: Israel, Middle East, Prime Minister, Recep Tayyip Erdogan, Turkey_
 
 ##### Grey Seal
 ### [A starving Grey Seal claiming to be from London Zoo is found in Skerries, Ireland. The Irish Seal Sanctuary asks the UK and Europe for help identifying it. ](/news/2010/04/7/a-starving-grey-seal-claiming-to-be-from-london-zoo-is-found-in-skerries-ireland-the-irish-seal-sanctuary-asks-the-uk-and-europe-for-help.md)

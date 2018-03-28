@@ -23,9 +23,9 @@ _Context: Livedoor, Takafumi Horie_
 ### [ Airbus workers in Germany, France and Spain hold protest meetings and strikes in response to plans to cut 10,000 jobs and close six plants. ](/news/2007/03/16/airbus-workers-in-germany-france-and-spain-hold-protest-meetings-and-strikes-in-response-to-plans-to-cut-10-000-jobs-and-close-six-plants.md)
 Find the latest business news on Wall Street, jobs and the economy, the housing market, personal finance and money investments and much more on ABC News
 
-##### UK
+##### British
 ### [ British coroner Andrew Walker finds that the death of soldier Matty Hull in the 190th Fighter Squadron, Blues and Royals "friendly fire" incident was "unlawful and criminal". ](/news/2007/03/16/british-coroner-andrew-walker-finds-that-the-death-of-soldier-matty-hull-in-the-190th-fighter-squadron-blues-and-royals-friendly-fire-in.md)
-_Context: 190th Fighter Squadron, Blues and Royals, Andrew Walker, Matty Hull, UK, coroner, friendly fire, soldier_
+_Context: 190th Fighter Squadron, Blues and Royals, Andrew Walker, British, Matty Hull, coroner, friendly fire, soldier_
 
 ##### New York Police Department
 ### [ Three officers of the New York Police Department are indicted on charges related to the death of a black man, Sean Bell, on his wedding day. ](/news/2007/03/16/three-officers-of-the-new-york-police-department-are-indicted-on-charges-related-to-the-death-of-a-black-man-sean-bell-on-his-wedding-day.md)

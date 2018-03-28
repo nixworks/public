@@ -27,7 +27,7 @@ _Context: AIDS, Nigeria, Olusegun Obasanjo, blood transfusion_
 ### [ The European Court of Human Rights rules that Turkey's 1999 trial of Kurdish leader Abdullah calan was not fair. ](/news/2005/05/12/the-european-court-of-human-rights-rules-that-turkey-s-1999-trial-of-kurdish-leader-abdullah-ocalan-was-not-fair.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
-##### Senate
+##### US Senators
 ### [ A United States Senate probe releases evidence showing two prominent British and French politicians received vouchers for millions of barrels of Iraqi oil in exchange for their support of Saddam Hussein's regime. George Galloway is accused of using the Mariam Appeal, the children's leukemia charity he founded, to conceal the transfer of 3 million barrels of oil, although he denies any wrongdoing. ](/news/2005/05/12/a-united-states-senate-probe-releases-evidence-showing-two-prominent-british-and-french-politicians-received-vouchers-for-millions-of-barre.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 

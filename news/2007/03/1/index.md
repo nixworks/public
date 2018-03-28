@@ -9,7 +9,7 @@ _Context: Dion, Greece, Hera, Mount Olympus_
 
 ##### International Polar Year
 ### [ The fourth International Polar Year, a $1.5 billion research program to study both the North Pole and South Pole is launched in Paris, France. ](/news/2007/03/1/the-fourth-international-polar-year-a-1-5-billion-research-program-to-study-both-the-north-pole-and-south-pole-is-launched-in-paris-fran.md)
-_Context: French, International Polar Year, North Pole, Paris, South Pole_
+_Context: France, International Polar Year, North Pole, Paris, South Pole_
 
 ##### NSW
 ### [ A New South Wales coroner issues a warrant for the arrest of Indonesian politician Yunus Yosfiah for failure to appear to give evidence in the coronial inquest into the death of the Balibo Five in Balibo, East Timor in 1975. ](/news/2007/03/1/a-new-south-wales-coroner-issues-a-warrant-for-the-arrest-of-indonesian-politician-yunus-yosfiah-for-failure-to-appear-to-give-evidence-in.md)
@@ -47,9 +47,9 @@ U.S. Coast Guard searches for 44 missing people from a vessel, which caught fire
 ### [ The Spanish Government moves hungerstriking ETA prisoner Iaki de Juana Chaos from a cell in Madrid to one in the Basque Country. ](/news/2007/03/1/the-spanish-government-moves-hungerstriking-eta-prisoner-inaki-de-juana-chaos-from-a-cell-in-madrid-to-one-in-the-basque-country.md)
 _Context: Basque, ETA, Iaki de Juana Chaos, Madrid, hunger strike_
 
-##### French
+##### France
 ### [ Ten French tourists are kidnapped in northern Ethiopia. ](/news/2007/03/1/ten-french-tourists-are-kidnapped-in-northern-ethiopia.md)
-_Context: Ethiopia, French, tourist_
+_Context: Ethiopia, France, tourist_
 
 ##### India
 ### [ India requests the extradition of Italian businessman Ottavio Quattrocchi from Argentina in relation to the Bofors scandal. ](/news/2007/03/1/india-requests-the-extradition-of-italian-businessman-ottavio-quattrocchi-from-argentina-in-relation-to-the-bofors-scandal.md)

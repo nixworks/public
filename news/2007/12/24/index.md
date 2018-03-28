@@ -5,7 +5,7 @@ Formats: [HTML](2007/12/24/index.html)  [JSON](2007/12/24/index.json)  [XML](200
 
 ##### Sebastian Kawa
 ### [ Sebastian Kawa of Poland is FAI World GP Gliding Champion after 5 intensive competition days in Omarama, New Zealand. ](/news/2007/12/24/sebastian-kawa-of-poland-is-fai-world-gp-gliding-champion-after-5-intensive-competition-days-in-omarama-new-zealand.md)
-_Context: GP Gliding, New Zealand, Omarama, Poland, Sebastian Kawa_
+_Context: GP Gliding, New Zealand, Omarama, Polish, Sebastian Kawa_
 
 ##### Alexandria, Egypt
 ### [ At least 12 people are dead and 15 others missing after portions of a building collapse in Alexandria, Egypt. ](/news/2007/12/24/at-least-12-people-are-dead-and-15-others-missing-after-portions-of-a-building-collapse-in-alexandria-egypt.md)

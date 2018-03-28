@@ -27,7 +27,7 @@ _Context: Japan, Typhoon Wipha_
 ### [Lao Airlines Flight 301 crashes in the Mekong River near Pakse International Airport, killing 44 passengers and 5 crew members. ](/news/2013/10/16/lao-airlines-flight-301-crashes-in-the-mekong-river-near-pakse-international-airport-killing-44-passengers-and-5-crew-members.md)
 Dozens of people including foreign nationals are killed in Laos as a plane crashes into the Mekong River in bad weather.
 
-##### Senate
+##### US Senators
 ### [The United States Senate reaches a bipartisan deal to avoid default and end the 16-day US government shutdown. The House passes the legislation by 285&ndash;144. The bill now goes to the president, who is expected to sign it. ](/news/2013/10/16/the-united-states-senate-reaches-a-bipartisan-deal-to-avoid-default-and-end-the-16-day-us-government-shutdown-the-house-passes-the-legislat.md)
 Republican and Democratic leaders in the US Senate have struck an agreement to end a fiscal impasse, hours before Washington hits its debt limit, a senator says.
 

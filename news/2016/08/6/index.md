@@ -17,7 +17,7 @@ _Context: 2016 Atlantic hurricane season, Earl's, Mexico, Veracruz_
 
 ##### 2016 Rouen fire
 ### [A fire kills at least 13 people in a bar in the French city of Rouen. ](/news/2016/08/6/a-fire-kills-at-least-13-people-in-a-bar-in-the-french-city-of-rouen.md)
-_Context: 2016 Rouen fire, French, Rouen_
+_Context: 2016 Rouen fire, France, Rouen_
 
 ##### Reuters
 ### [Reuters reports, based on sources "familiar with the matter," that Nissan is talking with Panasonic Corp. about the sale of Nissan's car battery manufacturing operation. ](/news/2016/08/6/reuters-reports-based-on-sources-familiar-with-the-matter-that-nissan-is-talking-with-panasonic-corp-about-the-sale-of-nissan-s-car-bat.md)

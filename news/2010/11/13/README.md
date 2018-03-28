@@ -3,9 +3,9 @@ Formats: [HTML](2010/11/13/index.html)  [JSON](2010/11/13/index.json)  [XML](201
 
 ## [2010-11-13](/news/2010/11/13/index.md)
 
-##### French
+##### France
 ### [The French Cabinet led by Prime Minister Francois Fillon resigns ahead of a reshuffle by President Nicolas Sarkozy. ](/news/2010/11/13/the-french-cabinet-led-by-prime-minister-franassois-fillon-resigns-ahead-of-a-reshuffle-by-president-nicolas-sarkozy.md)
-_Context: Francois Fillon, French, French Prime Minister, Nicolas Sarkozy, President of France_
+_Context: France, Francois Fillon, French Prime Minister, Nicolas Sarkozy, President of France_
 
 ##### Bangladesh
 ### [Police and protesters clash in the Bangladeshi capital Dhaka over the authorities' bid to evict opposition leader Khaleda Zia from her home. ](/news/2010/11/13/police-and-protesters-clash-in-the-bangladeshi-capital-dhaka-over-the-authorities-bid-to-evict-opposition-leader-khaleda-zia-from-her-home.md)

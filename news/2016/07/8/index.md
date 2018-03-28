@@ -21,7 +21,7 @@ Officials say Terminal High-Altitude Area Defence will be quickly deployed to co
 
 ##### 2016 Warsaw summit
 ### [NATO members gather in Warsaw, Poland, for a two-day summit. Much of the focus will be on Russia and NATO's commitments in bolstering its presence in Eastern Europe. Other issues to be discussed will include Europe's migrant crises, ISIL extremists, and the United Kingdom's withdrawal from the European Union. ](/news/2016/07/8/nato-members-gather-in-warsaw-poland-for-a-two-day-summit-much-of-the-focus-will-be-on-russia-and-nato-s-commitments-in-bolstering-its-pr.md)
-_Context: 2016 Warsaw summit, Aftermath of the United Kingdom European Union membership referendum, 2016, Eastern Europe, ISIL, NATO, Poland, Russia, Warsaw, refugee immigration to Germany_
+_Context: 2016 Warsaw summit, Aftermath of the United Kingdom European Union membership referendum, 2016, Eastern Europe, ISIL, NATO, Polish, Russia, Warsaw, refugee immigration to Germany_
 
 ##### Abdul Sattar Edhi
 ### [Abdul Sattar Edhi, Pakistani philanthropist and Chairman of the Edhi Foundation, passes away in Karachi at Sindh Institute of Urology and Transplantation. ](/news/2016/07/8/abdul-sattar-edhi-pakistani-philanthropist-and-chairman-of-the-edhi-foundation-passes-away-in-karachi-at-sindh-institute-of-urology-and-tr.md)
@@ -41,7 +41,7 @@ _Context: Juba, President, Riek Machar, Salva Kiir Mayardit, South Sudanese Civi
 
 ##### Syrian Civil War
 ### [Airstrikes hit Darkush in Idlib Province near the Turkish border, killing at least 23 people, according to the Syrian Observatory for Human Rights. At least 25 died when rebels shelled government-held areas of Aleppo. Friday is the last day of a 72-hour Syrian Army-sponsored ceasefire. ](/news/2016/07/8/airstrikes-hit-darkush-in-idlib-province-near-the-turkish-border-killing-at-least-23-people-according-to-the-syrian-observatory-for-human.md)
-_Context: Aleppo, Darkush, Idlib Governorate, Syrian Army, Syrian Civil War, Syrian Observatory for Human Rights, Turkish_
+_Context: Aleppo, Darkush, Idlib Governorate, Syrian Army, Syrian Civil War, Syrian Observatory for Human Rights, Turkey_
 
 ##### Boko Haram insurgency
 ### [According to a Nigerian Army spokesman, a Boko Haram suicide bomber kills six people inside a mosque in the town of Damboa, Borno State. A second suicide bomber attempted to enter the same mosque but failed to gain entry and detonated his belt, killing only himself. ](/news/2016/07/8/according-to-a-nigerian-army-spokesman-a-boko-haram-suicide-bomber-kills-six-people-inside-a-mosque-in-the-town-of-damboa-borno-state-a-s.md)

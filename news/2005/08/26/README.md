@@ -21,7 +21,7 @@ _Context: Australian, High Court of Fiji, sodomy laws_
 
 ##### Jean Michel Jarre
 ### [ 120,000 people are expected at the Jean Michel Jarre's concert "Space of Freedom" in Gdansk Shipyard in Poland commemorating 25th anniversary of the creation of "Solidarity" trade union; live at 20:00 CET at ](/news/2005/08/26/120-000-people-are-expected-at-the-jean-michel-jarre-s-concert-space-of-freedom-in-gdaask-shipyard-in-poland-commemorating-25th-annivers.md)
-_Context: Gdansk Shipyard, Jean Michel Jarre, Poland, Solidarity, Space of Freedom_
+_Context: Gdansk Shipyard, Jean Michel Jarre, Polish, Solidarity, Space of Freedom_
 
 ## [Previous Day...](/news/2005/08/25/index.md)
 

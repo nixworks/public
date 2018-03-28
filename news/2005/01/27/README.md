@@ -37,7 +37,7 @@ _Context: Cahors, SNCF, Toulouse_
 
 ##### Holocaust
 ### [ Holocaust survivors, former Red Army soldiers, leaders of more than 40 countries, and other people gather in Oswiecim, Poland for the 60th anniversary of the liberation of the Auschwitz concentration camp where more than 1 million people were killed. ](/news/2005/01/27/holocaust-survivors-former-red-army-soldiers-leaders-of-more-than-40-countries-and-other-people-gather-in-oawiacim-poland-for-the-60t.md)
-_Context: Auschwitz, Holocaust, Oswiecim, Poland, Red Army_
+_Context: Auschwitz, Holocaust, Oswiecim, Polish, Red Army_
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: At least 11 people are known to have died in Iraq today, including at least one United States Marine. ](/news/2005/01/27/conflict-in-iraq-at-least-11-people-are-known-to-have-died-in-iraq-today-including-at-least-one-united-states-marine.md)

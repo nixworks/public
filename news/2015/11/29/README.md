@@ -37,7 +37,7 @@ Francis tells people he is ‘pilgrim of peace’ and schedules trip to PK5, kno
 
 ##### 2015 downing
 ### [Turkish Prime Minister Ahmet Davutoglu says the body of the pilot from the Sukhoi Su-24 jet downed this past Tuesday will be handed over to Russia. The body is being treated in accordance with the Orthodox tradition. Russia's military attache is going to Hatay in southern Turkey as part of the procedures to recover the remains. Turkish officials refused to comment on how they came to be in possession of the body. ](/news/2015/11/29/turkish-prime-minister-ahmet-davutoalu-says-the-body-of-the-pilot-from-the-sukhoi-su-24-jet-downed-this-past-tuesday-will-be-handed-over-to.md)
-_Context: 2015 downing, Ahmet Davutoglu, Hatay Province, Russia, Russian, Sukhoi Su-24, Turkish, Turkish Prime Minister_
+_Context: 2015 downing, Ahmet Davutoglu, Hatay Province, Russia, Russian, Sukhoi Su-24, Turkey, Turkish Prime Minister_
 
 ##### South Africa
 ### [A fire in the South African city of Cape Town leaves two people dead and four thousand people homeless. ](/news/2015/11/29/a-fire-in-the-south-african-city-of-cape-town-leaves-two-people-dead-and-four-thousand-people-homeless.md)

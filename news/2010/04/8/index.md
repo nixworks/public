@@ -49,7 +49,7 @@ _Context: Palestinian_
 
 ##### Israel
 ### [Israeli Prime Minister Benjamin Netanyahu will send deputy prime-minister to a summit on nuclear weapons in the United States over concerns that Egypt and Turkey might shift the focus away from preventing militants from obtaining nuclear weapons by insisting that Israel sign the Nuclear Non-Proliferation Treaty (NPT). ](/news/2010/04/8/israeli-prime-minister-benjamin-netanyahu-will-send-deputy-prime-minister-to-a-summit-on-nuclear-weapons-in-the-united-states-over-concerns.md)
-_Context: Benjamin Netanyahu, Egypt, Israel, Nuclear Non-Proliferation Treaty, Prime Minister, Turkish, United States_
+_Context: Benjamin Netanyahu, Egypt, Israel, Nuclear Non-Proliferation Treaty, Prime Minister, Turkey, United States_
 
 ##### United States
 ### [United States President Barack Obama and Russian President Dmitry Medvedev sign a new arms reduction treaty that will cut both countries' arsenals by a third. ](/news/2010/04/8/united-states-president-barack-obama-and-russian-president-dmitry-medvedev-sign-a-new-arms-reduction-treaty-that-will-cut-both-countries-ar.md)

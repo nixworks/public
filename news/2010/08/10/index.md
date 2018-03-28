@@ -61,7 +61,7 @@ State Department says Larry Palmer remains nominee for US ambassador to Caracas.
 
 ##### De Havilland Canada DHC-3 Otter
 ### [A de Havilland Canada DHC-3 Otter seaplane crashes near Aleknagik, Alaska, killing five people, including former U.S. Senator Ted Stevens. Former NASA Administrator Sean O'Keefe and O'Keefe's son were aboard the plane, but survived. ](/news/2010/08/10/a-de-havilland-canada-dhc-3-otter-seaplane-crashes-near-aleknagik-alaska-killing-five-people-including-former-u-s-senator-ted-stevens-f.md)
-_Context: Administrator, Aleknagik, NASA, Sean O'Keefe, Senate, Ted Stevens, crashes, de Havilland Canada DHC-3 Otter, seaplane_
+_Context: Administrator, Aleknagik, NASA, Sean O'Keefe, Ted Stevens, US Senators, crashes, de Havilland Canada DHC-3 Otter, seaplane_
 
 ##### China
 ### [Rescuers in China's Gansu province continue to search for 1,100 missing people in a recent landslide, as the death toll rises to 702. ](/news/2010/08/10/rescuers-in-china-s-gansu-province-continue-to-search-for-1-100-missing-people-in-a-recent-landslide-as-the-death-toll-rises-to-702.md)

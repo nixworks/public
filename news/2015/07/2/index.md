@@ -9,7 +9,7 @@ Brain-eating amoeba are blamed in the death of a 21-year-old California woman. H
 
 ##### 2016 U.S. election
 ### [Former Senator Jim Webb announces that he will seek the Democratic Party nomination. ](/news/2015/07/2/former-senator-jim-webb-announces-that-he-will-seek-the-democratic-party-nomination.md)
-_Context: 2016 U.S. election, Democrat, Jim Webb, Senate_
+_Context: 2016 U.S. election, Democrat, Jim Webb, US Senators_
 
 ##### Collapses under a Pakistan Army train
 ### [A bridge collapses under a Pakistan Army train at Gujranwala, killing nineteen and injuring over 100.](/news/2015/07/2/a-bridge-collapses-under-a-pakistan-army-train-at-gujranwala-killing-nineteen-and-injuring-over-100.md)

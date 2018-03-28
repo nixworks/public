@@ -9,7 +9,7 @@ _Context: September 11, 2001 attacks, U.S. News and World Report, United States,
 
 ##### Lech Kaczynski
 ### [ Lech Kaczynski was sworn in as President of the Republic of Poland. ](/news/2005/12/23/lech-kaczyaski-was-sworn-in-as-president-of-the-republic-of-poland.md)
-_Context: Lech Kaczynski, Poland, Polish President_
+_Context: Lech Kaczynski, Polish, Polish President_
 
 ##### Moon
 ### [ Astronomers have discovered new moons and rings around Uranus using the Hubble Space Telescope. ](/news/2005/12/23/astronomers-have-discovered-new-moons-and-rings-around-uranus-using-the-hubble-space-telescope.md)

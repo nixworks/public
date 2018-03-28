@@ -33,7 +33,7 @@ _Context: MOA-2007-BLG-192-L b, Mount John University Observatory, extrasolar pl
 
 ##### SNCF
 ### [ A SNCF train runs into a school bus at a level crossing at Mesinges, near the town of Allinges in the mountainous Haute Savoie area of France with at least six people killed. ](/news/2008/06/2/a-sncf-train-runs-into-a-school-bus-at-a-level-crossing-at-mesinges-near-the-town-of-allinges-in-the-mountainous-haute-savoie-area-of-fran.md)
-_Context: Allinges, French, Haute Savoie, SNCF, level crossing_
+_Context: Allinges, France, Haute Savoie, SNCF, level crossing_
 
 ## [Previous Day...](/news/2008/06/1/index.md)
 

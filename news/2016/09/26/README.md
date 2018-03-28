@@ -3,7 +3,7 @@ Formats: [HTML](2016/09/26/index.html)  [JSON](2016/09/26/index.json)  [XML](201
 
 ## [2016-09-26](/news/2016/09/26/index.md)
 
-##### ''Nature''
+##### Nature Astronomy
 ### [A study published in Nature finds the Earth's surface is warmer than it has been in about 120,000 years, and is locked into eventually hitting its hottest mark in more than 2 million years. ](/news/2016/09/26/a-study-published-in-nature-finds-the-earth-s-surface-is-warmer-than-it-has-been-in-about-120-000-years-and-is-locked-into-eventually-hitti.md)
 A new study paints a picture of an Earth that is warmer than it has been in about 120,000 years, and is locked into eventually hitting its hottest mark in more than 2 million years.
 

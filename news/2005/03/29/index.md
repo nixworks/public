@@ -27,9 +27,9 @@ _Context: Frank Evans, bullfighting_
 ### [ Dam bursts in South-eastern Afghanistan near the city of Ghazni. At least 6 people dead. ](/news/2005/03/29/dam-bursts-in-south-eastern-afghanistan-near-the-city-of-ghazni-at-least-6-people-dead.md)
 _Context: Afghanistan, Dam, Ghazni_
 
-##### French
+##### France
 ### [ France intends to change law that allows girls to marry at the age of 15 ](/news/2005/03/29/france-intends-to-change-law-that-allows-girls-to-marry-at-the-age-of-15.md)
-_Context: French, marriage_
+_Context: France, marriage_
 
 ##### Uganda
 ### [ In Uganda, thousands of Muslims demonstrate in the capital Kampala against the Domestic Relations Bill that would, among other things, limit polygamy. ](/news/2005/03/29/in-uganda-thousands-of-muslims-demonstrate-in-the-capital-kampala-against-the-domestic-relations-bill-that-would-among-other-things-limi.md)

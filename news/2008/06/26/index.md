@@ -15,7 +15,7 @@ _Context: District of Columbia v. Heller, Second Amendment, Supreme Court of the
 ### [ Irish and British transport ministers agree to a mutual driver disqualification scheme. ](/news/2008/06/26/irish-and-british-transport-ministers-agree-to-a-mutual-driver-disqualification-scheme.md)
 A deal to keep disqualified drivers off the roads in the whole of Ireland and Britain has been signed by transport ministers.
 
-##### ''Nature''
+##### Nature Astronomy
 ### [ A report published in the journal "Nature" says a 365 million-year-old fossil of a four-legged fish found in Latvia sheds new light on the process of evolution. The creature, named "Ventastega curonica", had a fish-like body but the head of an animal more suited to land than water. ](/news/2008/06/26/a-report-published-in-the-journal-nature-says-a-365-million-year-old-fossil-of-a-four-legged-fish-found-in-latvia-sheds-new-light-on-the.md)
 Latest environmental news, features and updates. Pictures, video and more. 
 

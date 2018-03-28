@@ -25,7 +25,7 @@ _Context: Ethiopia, Islamic Courts Union, Meles Zenawi, Somali Civil War, Somali
 
 ##### Lech Kaczynski
 ### [ Lech Kaczynski, the President of Poland, announces three days of national mourning for the twenty-three victims of the mining disaster at the Halemba mine in Ruda Slaska, Poland. ](/news/2006/11/23/lech-kaczyaski-the-president-of-poland-announces-three-days-of-national-mourning-for-the-twenty-three-victims-of-the-mining-disaster-at.md)
-_Context: Halemba, Lech Kaczynski, Poland, Polish President, Ruda Slaska_
+_Context: Halemba, Lech Kaczynski, Polish, Polish President, Ruda Slaska_
 
 ##### Sectarian war in Iraq
 ### [ Sectarian war in Iraq: A series of car bombs and mortar attacks in the predominantly Shi'a Sadr City area of Baghdad kills at least 202 people and wounds another 257. The incidents comprise the deadliest coordinated attack since the Iraq War started. ](/news/2006/11/23/sectarian-war-in-iraq-a-series-of-car-bombs-and-mortar-attacks-in-the-predominantly-shi-a-sadr-city-area-of-baghdad-kills-at-least-202-peo.md)

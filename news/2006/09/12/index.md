@@ -13,7 +13,7 @@ _Context: Hisahito, Japan_
 
 ##### Diyarbakir
 ### [ An explosion in Diyarbakir in the mainly Kurdish southeast of Turkey kills at least seven people, five of whom were children, and injures 14. ](/news/2006/09/12/an-explosion-in-diyarbakir-in-the-mainly-kurdish-southeast-of-turkey-kills-at-least-seven-people-five-of-whom-were-children-and-injures-1.md)
-_Context: Diyarbakir, Kurd, Turkish_
+_Context: Diyarbakir, Kurd, Turkey_
 
 ##### Norwegian
 ### [ Norwegian politician Erik Solheim announces that the Government of Sri Lanka and the Tamil Tigers have agreed to hold "unconditional peace talks" in October in Oslo. The Sri Lankan government denies ever agreeing to talks without conditions, and criticizes the Government of Norway for violating Sri Lankan sovereignty. ](/news/2006/09/12/norwegian-politician-erik-solheim-announces-that-the-government-of-sri-lanka-and-the-tamil-tigers-have-agreed-to-hold-unconditional-peace.md)

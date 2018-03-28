@@ -17,7 +17,7 @@ While city officials acknowledged that they can&#x27;t legally stop Trump from t
 
 ##### Chinese state television
 ### [Chinese state television reports Guo Youming, former deputy governor of Hubei province, is found guilty of taking bribes totaling more than 23.8 million yuan ($3.70 million). Guo is the latest to be convicted as a result of President Xi Jinping's anti-corruption campaign that started when Xi took office three years ago. ](/news/2015/12/9/chinese-state-television-reports-guo-youming-former-deputy-governor-of-hubei-province-is-found-guilty-of-taking-bribes-totaling-more-than.md)
-_Context: Anti-corruption campaign in China, Chinese state television, Guo Youming, Hubei, Xi Jinping, bribes, president, yuan_
+_Context: Anti-corruption campaign in China, Chinese President, Chinese state television, Guo Youming, Hubei, Xi Jinping, bribes, yuan_
 
 ##### Australian Federal Police
 ### [The Australian Federal Police raid the Sydney home of Craig Steven Wright &ndash; whom media today claimed was suspected to be Satoshi Nakamoto, the founder of Bitcoin &ndash; in relation to possible tax offences. ](/news/2015/12/9/the-australian-federal-police-raid-the-sydney-home-of-craig-steven-wright-ndash-whom-media-today-claimed-was-suspected-to-be-satoshi-nakam.md)
@@ -41,7 +41,7 @@ _Context: Angela Merkel, Time, Time Person of the Year_
 
 ##### Iraqi Civil War (2014-present)
 ### [Turkey calls on all its citizens to leave all areas of Iraq except Iraqi Kurdistan, due to "increased security risks". ](/news/2015/12/9/turkey-calls-on-all-its-citizens-to-leave-all-areas-of-iraq-except-iraqi-kurdistan-due-to-increased-security-risks.md)
-_Context: Iraq, Iraqi Civil War (2014-present), Kurdistan Region, Turkish_
+_Context: Iraq, Iraqi Civil War (2014-present), Kurdistan Region, Turkey_
 
 ##### Nagorno-Karabakh conflict
 ### [Azeri tanks on the front line shell military positions in the breakaway Nagorno-Karabakh Republic for the first time since a Russian-brokered ceasefire ended fighting in 1994. At least one Nagorno-Karabakh Defense Army soldier is killed. ](/news/2015/12/9/azeri-tanks-on-the-front-line-shell-military-positions-in-the-breakaway-nagorno-karabakh-republic-for-the-first-time-since-a-russian-brokere.md)

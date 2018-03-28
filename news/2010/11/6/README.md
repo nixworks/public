@@ -77,7 +77,7 @@ _Context: Haiti cholera outbreak_
 
 ##### Christ the King
 ### [Christ the King, the world's biggest statue of Jesus, is completed in Swiebodzin, Poland ](/news/2010/11/6/christ-the-king-the-world-s-biggest-statue-of-jesus-is-completed-in-awiebodzin-poland.md)
-_Context: Christ the King, Poland, Swiebodzin, biggest statue of Jesus_
+_Context: Christ the King, Polish, Swiebodzin, biggest statue of Jesus_
 
 ##### China
 ### [Chinese artist Ai Weiwei claims that he has been placed under house arrest to stop him organising a demolition party to observe the destruction of his studio. ](/news/2010/11/6/chinese-artist-ai-weiwei-claims-that-he-has-been-placed-under-house-arrest-to-stop-him-organising-a-demolition-party-to-observe-the-destruct.md)

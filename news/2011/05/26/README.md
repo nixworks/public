@@ -25,7 +25,7 @@ A Rwandan genocide suspect, Bernard Munyagishari, is arrested in eastern DR of C
 
 ##### Group of Eight
 ### [Leaders of the Group of Eight countries meet in Deauville, France, for the 37th G8 summit. ](/news/2011/05/26/leaders-of-the-group-of-eight-countries-meet-in-deauville-france-for-the-37th-g8-summit.md)
-_Context: 37th G8 summit, Deauville, French, Group of Eight_
+_Context: 37th G8 summit, Deauville, France, Group of Eight_
 
 ##### United States
 ### [The United States announces the removal of a number of troops from Pakistan, following a request from the Pakistani government. ](/news/2011/05/26/the-united-states-announces-the-removal-of-a-number-of-troops-from-pakistan-following-a-request-from-the-pakistani-government.md)
@@ -69,7 +69,7 @@ Salva Kiir calls on Khartoum to withdraw its troops from the oil-rich region to 
 
 ##### Turkish police
 ### [The General Directorate of Security reports an explosion in Istanbul, Turkey, most likely caused by a bomb, with a number of people injured. ](/news/2011/05/26/the-general-directorate-of-security-reports-an-explosion-in-istanbul-turkey-most-likely-caused-by-a-bomb-with-a-number-of-people-injured.md)
-_Context: Istanbul, Turkish, Turkish police_
+_Context: Istanbul, Turkey, Turkish police_
 
 ##### Yemen
 ### [Large explosions are reported in the Yemeni capital of Sana'a in the midst of ongoing protests against President Ali Abdullah Saleh; opposition forces claim that the violence threatens to escalate into a civil war. ](/news/2011/05/26/large-explosions-are-reported-in-the-yemeni-capital-of-sana-a-in-the-midst-of-ongoing-protests-against-president-ali-abdullah-saleh-opposit.md)

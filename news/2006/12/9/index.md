@@ -23,7 +23,7 @@ _Context: Discovery, STS-116_
 ### [ A fire at a Russian drug treatment hospital kills 45 people with arson suspected. ](/news/2006/12/9/a-fire-at-a-russian-drug-treatment-hospital-kills-45-people-with-arson-suspected.md)
 _Context: Russia, arson, kills 45 people_
 
-##### Senate
+##### US Senators
 ### [ The United States Senate passes legislation normalising trade with Vietnam, renewing tax cuts and opening the Gulf of Mexico to new drilling for oil and gas fields. The legislation had earlier been passed by the United States House of Representatives and will now go to President of the United States George W. Bush for approval. ](/news/2006/12/9/the-united-states-senate-passes-legislation-normalising-trade-with-vietnam-renewing-tax-cuts-and-opening-the-gulf-of-mexico-to-new-drillin.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 

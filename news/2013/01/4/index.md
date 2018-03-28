@@ -41,7 +41,7 @@ British supermodel Naomi Campbell has been injured in an attempted mugging in Pa
 
 ##### Nepal
 ### [Former Nepalese Colonel Kumar Lama is charged with torture in the UK stemming from allegations of human rights abuses during the Nepalese Civil War. ](/news/2013/01/4/former-nepalese-colonel-kumar-lama-is-charged-with-torture-in-the-uk-stemming-from-allegations-of-human-rights-abuses-during-the-nepalese-ci.md)
-_Context: Colonel Kumar Lama, Nepal, Nepalese Civil War, UK, human rights_
+_Context: British, Colonel Kumar Lama, Nepal, Nepalese Civil War, human rights_
 
 ##### Nigerian police
 ### [The Nigerian police announces that Hyundai has paid a ransom of GBP118,000 ($190,000) to free 6 kidnapped workers in the Niger Delta region. ](/news/2013/01/4/the-nigerian-police-announces-that-hyundai-has-paid-a-ransom-of-agbp118-000-190-000-to-free-6-kidnapped-workers-in-the-niger-delta-region.md)

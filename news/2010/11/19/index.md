@@ -51,7 +51,7 @@ Nato members meet in Lisbon for a crucial summit, with a timetable for handing s
 ### [India summons the Iranian charge d'affaires to protest against remarks by Supreme Leader Ayatollah Ali Khamenei regarding Kashmir. It also abstains on a vote on Iranian human rights for the first time. ](/news/2010/11/19/india-summons-the-iranian-charga-c-d-affaires-to-protest-against-remarks-by-supreme-leader-ayatollah-ali-khamenei-regarding-kashmir-it-also.md)
 Angry at the critical statements by Iranian supreme leader Ayatollah Ali Khamenei on Kashmir, India on Friday summoned the charge d&rsquo;affaires of the Iranian embassy on Friday to lodge a formal protest.
 
-##### French
+##### France
 ### [France rejects a demand by Al-Qaeda in the Islamic Maghreb to leave Afghanistan in return for the freeing of French and African hostages kidnapped in Niger. ](/news/2010/11/19/france-rejects-a-demand-by-al-qaeda-in-the-islamic-maghreb-to-leave-afghanistan-in-return-for-the-freeing-of-french-and-african-hostages-kid.md)
 Paris says its foreign policy will not be dictated by others after al-Qaeda demanded that its troops leave Afghanistan.
 

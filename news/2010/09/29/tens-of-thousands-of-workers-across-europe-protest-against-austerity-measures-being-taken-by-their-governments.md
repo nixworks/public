@@ -33,7 +33,7 @@ Tens of thousands take to the streets of Brussels and other European cities in a
 
 ### Related:
 
-1. [China launches an oil futures market on the Shanghai International Energy Exchange in a bid to compete with oil benchmarks from Europe and the United States. ](/news/2018/03/26/china-launches-an-oil-futures-market-on-the-shanghai-international-energy-exchange-in-a-bid-to-compete-with-oil-benchmarks-from-europe-and-t.md) _Context: Europe_
+1. [China launches an oil futures market in a bid to compete with oil benchmarks from the United States and Europe. ](/news/2018/03/26/china-launches-an-oil-futures-market-in-a-bid-to-compete-with-oil-benchmarks-from-the-united-states-and-europe.md) _Context: Europe_
 2. [Qantas Airways Flight QF9 becomes the first ever regularly scheduled non-stop flight between Australia and Europe after making the 17-hour journey from Perth to London. ](/news/2018/03/25/qantas-airways-flight-qf9-becomes-the-first-ever-regularly-scheduled-non-stop-flight-between-australia-and-europe-after-making-the-17-hour-j.md) _Context: Europe_
 3. [Saudi authorities arrest 11 princes in Riyadh for staging a protest against Saudi Arabia's austerity measures. ](/news/2018/01/6/saudi-authorities-arrest-11-princes-in-riyadh-for-staging-a-protest-against-saudi-arabia-s-austerity-measures.md) _Context: austerity_
 4. [In a speech in Munich, Angela Merkel says that Europe must not rely on its former allies. ](/news/2017/05/28/in-a-speech-in-munich-angela-merkel-says-that-europe-must-not-rely-on-its-former-allies.md) _Context: Europe_

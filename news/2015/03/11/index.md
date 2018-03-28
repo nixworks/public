@@ -9,7 +9,7 @@ An appeals panel has upheld the deportation order of a former El Salvadorean def
 
 ##### Burgundy
 ### [At least 15 armed assailants ambush two vans on a highway in Burgundy, France carrying millions of euros worth of jewels. It was the latest in a string of big jewel heists in France. ](/news/2015/03/11/at-least-15-armed-assailants-ambush-two-vans-on-a-highway-in-burgundy-france-carrying-millions-of-euros-worth-of-jewels-it-was-the-latest.md)
-_Context: Burgundy, French, jewels_
+_Context: Burgundy, France, jewels_
 
 ##### Boris Nemtsov's assassination
 ### [The Kremlin's Rights Council states that they believe that Zaur Dadayev, a former Chechen police officer, who confessed to being part of the murder of Boris Nemtsov did so after being tortured. ](/news/2015/03/11/the-kremlin-s-rights-council-states-that-they-believe-that-zaur-dadayev-a-former-chechen-police-officer-who-confessed-to-being-part-of-the.md)

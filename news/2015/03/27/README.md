@@ -9,7 +9,7 @@ A Russian Soyuz spacecraft with three crew on board successfully docked at the I
 
 ##### Senate Majority Leader
 ### [U.S. Senate Minority Leader Harry Reid (D-Nevada) announces he will not seek re-election to the United States Senate and intends to retire at the end of his term in January 2017. ](/news/2015/03/27/u-s-senate-minority-leader-harry-reid-d-nevada-announces-he-will-not-seek-re-election-to-the-united-states-senate-and-intends-to-retire-a.md)
-_Context: Democrat, Harry Reid, Nevada, Senate, Senate Majority Leader_
+_Context: Democrat, Harry Reid, Nevada, Senate Majority Leader, US Senators_
 
 ##### Amanda Knox
 ### [Italy's highest court acquits American Amanda Knox and Italian Raffaele Sollecito of the murder of Briton Meredith Kercher. ](/news/2015/03/27/italy-s-highest-court-acquits-american-amanda-knox-and-italian-raffaele-sollecito-of-the-murder-of-briton-meredith-kercher.md)

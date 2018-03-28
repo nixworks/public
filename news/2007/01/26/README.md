@@ -7,9 +7,9 @@ Formats: [HTML](2007/01/26/index.html)  [JSON](2007/01/26/index.json)  [XML](200
 ### [ An argument has erupted between Adam Air and the Indonesian government over who bears the cost of recovering the black box of the crashed plane Adam Air Flight 574. ](/news/2007/01/26/an-argument-has-erupted-between-adam-air-and-the-indonesian-government-over-who-bears-the-cost-of-recovering-the-black-box-of-the-crashed-p.md)
 _Context: Adam Air, Flight 574, Indonesian government_
 
-##### UK
+##### British
 ### [ UK retail giant Tesco opens its first own-brand supermarket branch in China, in the capital, Beijing. ](/news/2007/01/26/uk-retail-giant-tesco-opens-its-first-own-brand-supermarket-branch-in-china-in-the-capital-beijing.md)
-_Context: Beijing, China, Tesco, UK, retail, supermarket_
+_Context: Beijing, British, China, Tesco, retail, supermarket_
 
 ##### Tobacco smoking
 ### [ Scientists find connection between tobacco smoking addiction and the insula, a region of the brain's cerebral cortex linked to emotion. ](/news/2007/01/26/scientists-find-connection-between-tobacco-smoking-addiction-and-the-insula-a-region-of-the-brain-s-cerebral-cortex-linked-to-emotion.md)

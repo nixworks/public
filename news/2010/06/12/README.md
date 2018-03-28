@@ -7,9 +7,9 @@ Formats: [HTML](2010/06/12/index.html)  [JSON](2010/06/12/index.json)  [XML](201
 ### [Pilots for the American low-cost carrier Spirit Airlines go on strike. ](/news/2010/06/12/pilots-for-the-american-low-cost-carrier-spirit-airlines-go-on-strike.md)
 _Context: Pilots, Spirit Airlines, United States, low-cost carrier, strike_
 
-##### French
+##### France
 ### [A French fishing boat rescues US teenage sailor Abby Sunderland in the Southern Ocean. ](/news/2010/06/12/a-french-fishing-boat-rescues-us-teenage-sailor-abby-sunderland-in-the-southern-ocean.md)
-_Context: Abby Sunderland, French, Southern Ocean, United States, fishing boat, sailor, teenage_
+_Context: Abby Sunderland, France, Southern Ocean, United States, fishing boat, sailor, teenage_
 
 ##### United Kingdom
 ### [UK Prime Minister David Cameron and U.S. President Barack Obama discuss America's oil spill problem over a telephone call. ](/news/2010/06/12/uk-prime-minister-david-cameron-and-u-s-president-barack-obama-discuss-america-s-oil-spill-problem-over-a-telephone-call.md)
@@ -39,7 +39,7 @@ The Cuban government is releasing an ailing political prisoner and transferring 
 ### [Al Jazeera Sports, which has exclusive broadcasting rights for the 2010 FIFA World Cup in the Middle East and North Africa, says its Nilesat and Arabsat signals are being sabotaged in an "act of piracy", as criticism mounts across the affected regions and on the internet. ](/news/2010/06/12/al-jazeera-sports-which-has-exclusive-broadcasting-rights-for-the-2010-fifa-world-cup-in-the-middle-east-and-north-africa-says-its-nilesat.md)
 Al Jazeera Sport vows legal action over disruption of World Cup opening game telecast.
 
-##### Poland
+##### Polish
 ### [Poland detains a wanted man it says is the Israeli Mossad spy who used a German passport in the assassination of Mahmoud al-Mabhouh, while Germany seeks his extradition. ](/news/2010/06/12/poland-detains-a-wanted-man-it-says-is-the-israeli-mossad-spy-who-used-a-german-passport-in-the-assassination-of-mahmoud-al-mabhouh-while-g.md)
 Man allegedly helped Mabhouh killers obtain fake German passport.
 

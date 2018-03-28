@@ -11,7 +11,7 @@ At least 88 people have died in flooding caused by torrential rain in southern C
 ### [Parliamentary elections take place, with 18 seats at stake in the Parliament of Nauru. The President is elected to serve a 3-year term. ](/news/2010/06/19/parliamentary-elections-take-place-with-18-seats-at-stake-in-the-parliament-of-nauru-the-president-is-elected-to-serve-a-3-year-term.md)
 _Context: Parliament, Parliamentary elections_
 
-##### Turkish
+##### Turkey
 ### [8 Turkish troops are killed in an attack by Kurdish rebels in southeastern Turkey. In response, Kurdish positions are targeted by Turkish airstrikes in Northern Iraq. Twelve Kurdish rebels are killed. ](/news/2010/06/19/8-turkish-troops-are-killed-in-an-attack-by-kurdish-rebels-in-southeastern-turkey-in-response-kurdish-positions-are-targeted-by-turkish-ai.md)
 Ten Turkish soldiers have been killed in an attack by Kurdish rebels near the Iraqi border, reports say.
 
@@ -21,7 +21,7 @@ _Context: Istanbul_
 
 ##### Turkish Army
 ### [10 Turkish soldiers are killed during clashes with Kurdish rebels on the border of Turkey and Iraq, in Semdinli township of Hakkari province and in the Gediktepe-Tekeli region. ](/news/2010/06/19/10-turkish-soldiers-are-killed-during-clashes-with-kurdish-rebels-on-the-border-of-turkey-and-iraq-in-aemdinli-township-of-hakkac-ri-provin.md)
-_Context: Gediktepe-Tekeli, Hakkari province, Iraq, Kurdish, Semdinli, Turkish, Turkish Army_
+_Context: Gediktepe-Tekeli, Hakkari province, Iraq, Kurdish, Semdinli, Turkey, Turkish Army_
 
 ##### Crown Princess Victoria
 ### [Sweden's Crown Princess Victoria marries Daniel Westling; Westling becomes Duke of Vastergotland. ](/news/2010/06/19/sweden-s-crown-princess-victoria-marries-daniel-westling-westling-becomes-duke-of-va-stergaptland.md)

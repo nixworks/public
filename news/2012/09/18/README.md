@@ -41,7 +41,7 @@ _Context: Petroleos Mexicanos, Reynosa, Tamaulipas_
 
 ##### Bingol
 ### [At least ten soldiers are killed and more than 70 are injured in a rocket attack by Kurdish militants in Bingol, Turkey. ](/news/2012/09/18/at-least-ten-soldiers-are-killed-and-more-than-70-are-injured-in-a-rocket-attack-by-kurdish-militants-in-bingol-turkey.md)
-_Context: Bingol, Turkish_
+_Context: Bingol, Turkey_
 
 ##### Mexican Drug War
 ### [Mexican Drug War: 132 inmates escape from a prison in the city of Piedras Negras, Coahuila, directly across the U.S-Mexico border with Eagle Pass, Texas, by digging a tunnel underground. The authorities have yet to determine which drug gang was responsible for the jailbreak. ](/news/2012/09/18/mexican-drug-war-132-inmates-escape-from-a-prison-in-the-city-of-piedras-negras-coahuila-directly-across-the-u-s-mexico-border-with-eagle.md)

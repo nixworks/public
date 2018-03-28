@@ -19,7 +19,7 @@ _Context: Armenia, Vayots Dzor, world's oldest leather shoe_
 ### [Researchers find that many species of snakes are in decline. The causes are unknown.](/news/2010/06/9/researchers-find-that-many-species-of-snakes-are-in-decline-the-causes-are-unknown.md)
 Long-term studies have revealed population declines in fishes, amphibians, reptiles, birds and mammals. In birds, and particularly amphibians, these declines are a global phenomenon whose causes are often unclear. Among reptiles, snakes are top predators and therefore a decline in their numbers may ...
 
-##### ''Nature''
+##### Nature Astronomy
 ### [A new in-depth genetic study on Jewish history is published in "Nature": researchers analysed genetic samples from 14 international Jewish communities and 69 international non-Jewish communities. ](/news/2010/06/9/a-new-in-depth-genetic-study-on-jewish-history-is-published-in-nature-researchers-analysed-genetic-samples-from-14-international-jewish-c.md)
 Scientists shed light on Jewish heritage with an in-depth genetic study from communities across the world.
 

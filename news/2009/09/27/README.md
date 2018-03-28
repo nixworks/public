@@ -67,7 +67,7 @@ Angela Merkel appears to have swept to victory in the German elections, with exi
 ### [ Prime Minister of the United Kingdom Gordon Brown denies rumours concerning his health as the British Labour Party gathers for its conference in Brighton, expressing his amazement with Andrew Marr of the BBC for questioning him live on television. ](/news/2009/09/27/prime-minister-of-the-united-kingdom-gordon-brown-denies-rumours-concerning-his-health-as-the-british-labour-party-gathers-for-its-conferen.md)
 Downing Street was involved in a heated row with the BBC last night over the corporation&rsquo;s &ldquo;astonishing&rdquo; questioning of Gordon Brown&#039;s health.
 
-##### Turkish
+##### Turkey
 ### [ Turkey announces it is to establish formal diplomatic relations with Armenia on October 10. ](/news/2009/09/27/turkey-announces-it-is-to-establish-formal-diplomatic-relations-with-armenia-on-october-10.md)
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews
 

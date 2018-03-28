@@ -13,7 +13,7 @@ _Context: Ontario Superior Court, Same-sex marriage in Canada_
 
 ##### Tal Afar
 ### [ The United States lifts its siege of the northern Iraqi city of Tal Afar after Turkey threatens to end all cooperation with the U.S. in Iraq if the attacks, which had killed many civilians in the largely Turkmen city, continue. ](/news/2004/09/14/the-united-states-lifts-its-siege-of-the-northern-iraqi-city-of-tal-afar-after-turkey-threatens-to-end-all-cooperation-with-the-u-s-in-ira.md)
-_Context: Tal Afar, Turkish, Turkmen_
+_Context: Tal Afar, Turkey, Turkmen_
 
 ##### Car bomb
 ### [ At least 45 people are killed and over 100 others are injured when a car bomb explodes in central Baghdad, Iraq. The blast leaves a three-meter (10&nbsp;ft) crater in the road in a busy shopping area; many of the dead are Iraqi job-seekers who were queuing up outside a nearby police station. ](/news/2004/09/14/at-least-45-people-are-killed-and-over-100-others-are-injured-when-a-car-bomb-explodes-in-central-baghdad-iraq-the-blast-leaves-a-three-m.md)

@@ -11,9 +11,9 @@ _Context: U.S. Senate, U.S. Senate Committee on the Judiciary, United States Hou
 ### [ In Egypt, referendum favours constitutional changes for presidential elections with 83% in favour ](/news/2005/05/26/in-egypt-referendum-favours-constitutional-changes-for-presidential-elections-with-83-in-favour.md)
 _Context: Egypt, constitution, referendum_
 
-##### French
+##### France
 ### [ French authorities arrest Chechen named Bislan Ismailov suspected for complicity in the murder of Theo van Gogh ](/news/2005/05/26/french-authorities-arrest-chechen-named-bislan-ismailov-suspected-for-complicity-in-the-murder-of-theo-van-gogh.md)
-_Context: Bislan Ismailov, Chechen, French, Theo van Gogh_
+_Context: Bislan Ismailov, Chechen, France, Theo van Gogh_
 
 ##### Spanish
 ### [ Spanish court imprisons Arnaldo Otegi, head of Herri Batasuna party in the Basque region for having links to ETA. Batasuna claims that the move undermines peace efforts. Otegi is in prison pending ?400.000 bail. ](/news/2005/05/26/spanish-court-imprisons-arnaldo-otegi-head-of-herri-batasuna-party-in-the-basque-region-for-having-links-to-eta-batasuna-claims-that-the.md)
@@ -31,9 +31,9 @@ _Context: India, Pakistan, Siachen glacier_
 ### [ Australia observes the National Sorry Day as a way to remember the Stolen Generation of Indigenous Australians. ](/news/2005/05/26/australia-observes-the-national-sorry-day-as-a-way-to-remember-the-stolen-generation-of-indigenous-australians.md)
 _Context: Australia, Indigenous, National Sorry Day, Stolen Generation_
 
-##### French
+##### France
 ### [ French official Pascal Lamy, former trade commissioner for European Union, is expected to be appointed as ahead of the World Trade Organisation. He will assume the post in September. ](/news/2005/05/26/french-official-pascal-lamy-former-trade-commissioner-for-european-union-is-expected-to-be-appointed-as-ahead-of-the-world-trade-organisa.md)
-_Context: EU, French, Pascal Lamy, World Trade Organisation_
+_Context: EU, France, Pascal Lamy, World Trade Organisation_
 
 ##### Flash flood
 ### [ A flash flood strikes So Paulo, Brazil. ](/news/2005/05/26/a-flash-flood-strikes-sao-paulo-brazil.md)

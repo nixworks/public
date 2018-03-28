@@ -5,7 +5,7 @@ Formats: [HTML](2015/05/10/index.html)  [JSON](2015/05/10/index.json)  [XML](201
 
 ##### Polish presidential election, 2015
 ### [Voters in Poland go to the polls for a presidential election with a second round of voting scheduled with Andrzej Duda of the Law and Justice Party challenging incumbent President Bronislaw Komorowski. ](/news/2015/05/10/voters-in-poland-go-to-the-polls-for-a-presidential-election-with-a-second-round-of-voting-scheduled-with-andrzej-duda-of-the-law-and-justic.md)
-_Context: Andrzej Duda, Bronislaw Komorowski, Law and Justice Party, Poland, Polish President, Polish presidential election, 2015_
+_Context: Andrzej Duda, Bronislaw Komorowski, Law and Justice Party, Polish, Polish President, Polish presidential election, 2015_
 
 ##### Several people have been shot dead
 ### [Several people have been shot dead in the Swiss town of Wurenlingen in Aargau canton northwest of Zurich. ](/news/2015/05/10/several-people-have-been-shot-dead-in-the-swiss-town-of-wa1-4renlingen-in-aargau-canton-northwest-of-zurich.md)

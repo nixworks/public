@@ -33,7 +33,7 @@ _Context: China_
 
 ##### North Carolina
 ### [The North Carolina trial of former U.S. Senator and presidential hopeful John Edwards, concerning the use of illegal campaign donations to cover up an affair with a mistress, begins. ](/news/2012/04/23/the-north-carolina-trial-of-former-u-s-senator-and-presidential-hopeful-john-edwards-concerning-the-use-of-illegal-campaign-donations-to-c.md)
-_Context: John Edwards, North Carolina, Senate, an affair_
+_Context: John Edwards, North Carolina, US Senators, an affair_
 
 ##### Florida
 ### [Officials in Florida refuse to allow Bill Lee, the police chief who did not arrest George Zimmerman after he shot and killed unarmed black teenager Trayvon Martin, to resign. George Zimmerman, now facing a murder charge, is released on bail and taken to a secret location. ](/news/2012/04/23/officials-in-florida-refuse-to-allow-bill-lee-the-police-chief-who-did-not-arrest-george-zimmerman-after-he-shot-and-killed-unarmed-black-t.md)

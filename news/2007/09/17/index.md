@@ -53,7 +53,7 @@ _Context: Bernard Kouchner, Minister of Foreign Affairs, nuclear program_
 
 ##### Apprehended by five police officers
 ### [ Andrew Meyer, a 21-year-old fourth-year undergraduate, is apprehended by five police officers and tasered while allegedly having interrupted a speech by U.S. Senator John Kerry.](/news/2007/09/17/andrew-meyer-a-21-year-old-fourth-year-undergraduate-is-apprehended-by-five-police-officers-and-tasered-while-allegedly-having-interrupte.md)
-_Context: John Kerry, Senate, apprehended by five police officers, tasered_
+_Context: John Kerry, US Senators, apprehended by five police officers, tasered_
 
 ## [Previous Day...](/news/2007/09/16/index.md)
 

@@ -47,7 +47,7 @@ Families of 33 trapped miners get a glimpse of the rescue capsule meant to bring
 ### [The People's Republic of China reports an outbreak of the plague in Tibet, with 5 people infected and 1 fatality. ](/news/2010/09/26/the-people-s-republic-of-china-reports-an-outbreak-of-the-plague-in-tibet-with-5-people-infected-and-1-fatality.md)
 China issued a health alert in its southwestern region of Tibet after five people were diagnosed with the plague, an often fatal infectious disease.
 
-##### Poland
+##### Polish
 ### [A tourist bus from Poland hits a bridge pillar on a highway at Schoenefelder Kreuz in Brandenburg, killing at least 12 people and injuring 40. ](/news/2010/09/26/a-tourist-bus-from-poland-hits-a-bridge-pillar-on-a-highway-at-schoenefelder-kreuz-in-brandenburg-killing-at-least-12-people-and-injuring-4.md)
 Twelve people were killed Sunday and six were in a critical condition after a Polish coach crashed into a bridge on a wet motorway south of Berlin, emergency services said.
 

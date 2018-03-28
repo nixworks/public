@@ -25,7 +25,7 @@ _Context: Fiji, Peter Thomson, President of the United Nations General Assembly,
 
 ##### Secretary General of NATO
 ### [The Secretary General of NATO Jens Stoltenberg says that the military alliance plans on sending four multinational battalions to Estonia, Latvia, Lithuania and Poland in order to boost their defense. However, Stoltenberg said that the battalions will only be deployed on a rotational basis instead of being based permanently. ](/news/2016/06/13/the-secretary-general-of-nato-jens-stoltenberg-says-that-the-military-alliance-plans-on-sending-four-multinational-battalions-to-estonia-la.md)
-_Context: Estonia, Jens Stoltenberg, Latvia, Lithuania, Poland, Secretary General of NATO_
+_Context: Estonia, Jens Stoltenberg, Latvia, Lithuania, Polish, Secretary General of NATO_
 
 ##### Germany-Turkey relations
 ### [Eleven Turkish-German members of Germany's Parliament, the Bundestag, who voted in support of declaring the Ottoman Turks slaughter of Armenians in 1915 a genocide, are under police protection. The legislators have faced heavy criticism from Turkish officials, as well as from Turkish Germans. ](/news/2016/06/13/eleven-turkish-german-members-of-germany-s-parliament-the-bundestag-who-voted-in-support-of-declaring-the-ottoman-turks-slaughter-of-armen.md)

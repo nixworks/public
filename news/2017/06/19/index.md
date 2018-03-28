@@ -37,7 +37,7 @@ An American aircraft shot down a Syrian air force fighter jet Sunday, prompting 
 
 ##### June 2017 Champs-Elysees car ramming attack
 ### [A car carrying firearms and gas bottles deliberately rammed a police vehicle on the Champs-Elysees in Paris, France, subsequently bursting into flames. The driver, who was on a security watchlist, was shot dead. ](/news/2017/06/19/a-car-carrying-firearms-and-gas-bottles-deliberately-rammed-a-police-vehicle-on-the-champs-alysa-c-es-in-paris-france-subsequently-bursting.md)
-_Context: Champs-Elysees, French, June 2017 Champs-Elysees car ramming attack, Paris_
+_Context: Champs-Elysees, France, June 2017 Champs-Elysees car ramming attack, Paris_
 
 ##### 2017 Finsbury Park attack
 ### [At least one person has been killed and ten injured after a van runs over pedestrians outside the Finsbury Park Mosque in the north London suburb of Finsbury Park. Police are investigating the act as a terrorist incident. ](/news/2017/06/19/at-least-one-person-has-been-killed-and-ten-injured-after-a-van-runs-over-pedestrians-outside-the-finsbury-park-mosque-in-the-north-london-s.md)
