@@ -11,6 +11,10 @@ Using microlensing technique, astronomers have found a new giant planet orbiting
 ### [The Egyptian electorate vote in their presidential election, with incumbent President Abdel-Fattah el-Sissi facing only one opponent. ](/news/2018/03/26/the-egyptian-electorate-vote-in-their-presidential-election-with-incumbent-president-abdel-fattah-el-sissi-facing-only-one-opponent.md)
 Egyptians began voting Monday in an election that virtually guaranteed another term for President Abdel-Fattah el-Sissi, who faced only a token opponent in balloting that resembled the referendums held by autocrats for decades before the Arab Spring briefly raised hopes of democratic change.
 
+##### Carcassonne and Trebes attack
+### [Attacker Radouane Lakdim's teenage girlfriend is arrested. ](/news/2018/03/26/attacker-radouane-lakdim-s-teenage-girlfriend-is-arrested.md)
+Police investigating 18-year-old, known as Marine, who had been on a terrorism watchlist
+
 ##### Carbanak
 ### [Spanish police in Alicante arrest the suspected leader of a bank hacking scheme believed to have stolen over EUR1 billion. ](/news/2018/03/26/spanish-police-in-alicante-arrest-the-suspected-leader-of-a-bank-hacking-scheme-believed-to-have-stolen-over-a-1-billion.md)
 _Context: Alicante, Carbanak, EUR, Spanish, hack_

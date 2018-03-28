@@ -3,6 +3,10 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/03/28/index.md)
 
+##### Oraefajokull
+### [The seismic activity at the Oraefajokull volcano continues. ](/news/2018/03/28/the-seismic-activity-at-the-ara-fajapkull-volcano-continues.md)
+Seismic activity in Öræfajökull volcano continues. This month, fourteen earthquakes measuring over 1.2 have been detected. 
+
 ##### Australian Aboriginal languages
 ### [The linguistics journal "Diachronica" publishes Australian research implying that a tracement of the country's indigenous languages can be made back to a single, common language known as Proto-Australian, which was spoken around 10,000-years ago. ](/news/2018/03/28/the-linguistics-journal-diachronica-publishes-australian-research-implying-that-a-tracement-of-the-country-s-indigenous-languages-can-be-m.md)
 All indigenous languages can be traced to a mother tongue dubbed Proto-Australian, researchers say.
@@ -20,7 +24,7 @@ Greek Police are examining the remnants of a bomb which detonated on Saturday in
 Clara Ponsatí’s lawyer says she will fight attempt to return her to Spain to face rebellion charge
 
 ##### English
-### [An English hospice is fined over a fire in which three residents died. ](/news/2018/03/28/an-english-hospice-is-fined-over-a-fire-in-which-three-residents-died.md)
+### [English Judge Christine Henson fines St. Michael's Hospice in St. Leonards, at East Sussex, over the July 2015 fire in which three residents died. ](/news/2018/03/28/english-judge-christine-henson-fines-st-michael-s-hospice-in-st-leonards-at-east-sussex-over-the-july-2015-fire-in-which-three-residents.md)
 St Michaels Hospice, where three people died, had &quot;woefully inadequate&quot; safety measures, a judge says.
 
 ##### Catania
@@ -28,8 +32,16 @@ St Michaels Hospice, where three people died, had &quot;woefully inadequate&quot
 An Italian judge in Catania upheld Tuesday the seizure of Proactiva Open Arms ship, but dropped the most serious charges against the Spanish NGO that operates the ship, which is involvement in the smuggling of migrants. The Italian News Agency ANSA reported that the judge ruled that the Proactiva Op...
 
 ##### China-North Korea relations
-### [China and North Korea both confirm that North Korean leader Kim Jong-un met with Chinese President Xi Jinping in Beijing during the past four days. China states that North Korea is "committed to denuclearization" and willing to hold a summit with the United States. ](/news/2018/03/28/china-and-north-korea-both-confirm-that-north-korean-leader-kim-jong-un-met-with-chinese-president-xi-jinping-in-beijing-during-the-past-fou.md)
+### [The governments of China and North Korea both confirm that North Korean leader Kim Jong-un met with Chinese President Xi Jinping in Beijing during the past four days. China states that North Korea is "committed to denuclearization" and willing to hold a summit with the United States. ](/news/2018/03/28/the-governments-of-china-and-north-korea-both-confirm-that-north-korean-leader-kim-jong-un-met-with-chinese-president-xi-jinping-in-beijing.md)
 North Korean leader Kim Jong Un has pledged to denuclearize and meet U.S. officials, China said on Wednesday after an historic meeting with President Xi Jinping, who promised China would uphold its friendship with its isolated neighbor.
+
+##### Terrorism in Italy
+### [Italian counterterror police arrest Elmahdi Halili on suspicion of planning attacks with knives and lorries, attempting to recruit terrorist attackers, and creating the first piece of ISIS literature in Italian. ](/news/2018/03/28/italian-counterterror-police-arrest-elmahdi-halili-on-suspicion-of-planning-attacks-with-knives-and-lorries-attempting-to-recruit-terrorist.md)
+Anti-terrorism police carried out searches across Italy on Wednesday morning, arresting a man in Turin who is accused of plotting attacks for the violent Islamist group Isis.
+
+##### Terrorism in the United Kingdom
+### [The Sentencing Council for England and Wales issues new guidelines increasing the penalties for terrorist offending. ](/news/2018/03/28/the-sentencing-council-for-england-and-wales-issues-new-guidelines-increasing-the-penalties-for-terrorist-offending.md)
+Watchdog concludes that it is not always appropriate to ask detailed religious questions of detainees
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -126,6 +138,10 @@ Using microlensing technique, astronomers have found a new giant planet orbiting
 ##### Egyptian presidential election, 2018
 ### [The Egyptian electorate vote in their presidential election, with incumbent President Abdel-Fattah el-Sissi facing only one opponent. ](/news/2018/03/26/the-egyptian-electorate-vote-in-their-presidential-election-with-incumbent-president-abdel-fattah-el-sissi-facing-only-one-opponent.md)
 Egyptians began voting Monday in an election that virtually guaranteed another term for President Abdel-Fattah el-Sissi, who faced only a token opponent in balloting that resembled the referendums held by autocrats for decades before the Arab Spring briefly raised hopes of democratic change.
+
+##### Carcassonne and Trebes attack
+### [Attacker Radouane Lakdim's teenage girlfriend is arrested. ](/news/2018/03/26/attacker-radouane-lakdim-s-teenage-girlfriend-is-arrested.md)
+Police investigating 18-year-old, known as Marine, who had been on a terrorism watchlist
 
 ##### Carbanak
 ### [Spanish police in Alicante arrest the suspected leader of a bank hacking scheme believed to have stolen over EUR1 billion. ](/news/2018/03/26/spanish-police-in-alicante-arrest-the-suspected-leader-of-a-bank-hacking-scheme-believed-to-have-stolen-over-a-1-billion.md)
