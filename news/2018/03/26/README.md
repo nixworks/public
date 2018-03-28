@@ -55,7 +55,7 @@ Shaheen has been undergoing treatment at the hospital for the past nine days.
 ### [Witnesses and Russia's Investigative Committee say the Winter Cherry complex's exits were blocked and there were no alarms during the disaster. ](/news/2018/03/26/witnesses-and-russia-s-investigative-committee-say-the-winter-cherry-complex-s-exits-were-blocked-and-there-were-no-alarms-during-the-disast.md)
 Many of the 64 people killed in the leisure complex fire in Siberia were children.
 
-##### China
+##### Chinese
 ### [China launches an oil futures market in a bid to compete with oil benchmarks from the United States and Europe. ](/news/2018/03/26/china-launches-an-oil-futures-market-in-a-bid-to-compete-with-oil-benchmarks-from-the-united-states-and-europe.md)
 China’s yuan-denominated crude-oil futures close more than 3% higher on their first day of trading, as Beijing hopes the new market will eventually give the country an oil benchmark to rival those in the U.S. and Europe.
 
