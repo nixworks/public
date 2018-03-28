@@ -3,8 +3,8 @@ Formats: [HTML](2018/03/28/index.html)  [JSON](2018/03/28/index.json)  [XML](201
 
 ## [2018-03-28](/news/2018/03/28/index.md)
 
-##### Oraefajokull
-### [The seismic activity at the Oraefajokull volcano continues. ](/news/2018/03/28/the-seismic-activity-at-the-ara-fajapkull-volcano-continues.md)
+##### Geophysicist
+### [Geophysicists continue to monitor the increased seismic activity at the Oraefajokull volcano at Vatnajokull National Park, Iceland. ](/news/2018/03/28/geophysicists-continue-to-monitor-the-increased-seismic-activity-at-the-ara-fajapkull-volcano-at-vatnajapkull-national-park-iceland.md)
 Seismic activity in Öræfajökull volcano continues. This month, fourteen earthquakes measuring over 1.2 have been detected. 
 
 ##### Australian Aboriginal languages
@@ -23,6 +23,10 @@ Greek Police are examining the remnants of a bomb which detonated on Saturday in
 ### [Clara Ponsati i Obiols, fugitive ex-Minister of Education of Catalonia, hands herself over to Police Scotland. She appears before court and is released on bail. ](/news/2018/03/28/clara-ponsata-i-obiols-fugitive-ex-minister-of-education-of-catalonia-hands-herself-over-to-police-scotland-she-appears-before-court-and.md)
 Clara Ponsatí’s lawyer says she will fight attempt to return her to Spain to face rebellion charge
 
+##### Uber
+### [Claims emerge that Uber disabled on board Volvo XC90 collision avoidance technology in a self-driving car involved in a fatal accident in Arizona. ](/news/2018/03/28/claims-emerge-that-uber-disabled-on-board-volvo-xc90-collision-avoidance-technology-in-a-self-driving-car-involved-in-a-fatal-accident-in-ar.md)
+Uber Technologies Inc. disabled the standard collision-avoidance technology in the Volvo SUV that struck and killed a woman in Arizona last week, according to the auto-parts maker that supplied the vehicle’s radar and camera.
+
 ##### English
 ### [English Judge Christine Henson fines St. Michael's Hospice in St. Leonards, at East Sussex, over the July 2015 fire in which three residents died. ](/news/2018/03/28/english-judge-christine-henson-fines-st-michael-s-hospice-in-st-leonards-at-east-sussex-over-the-july-2015-fire-in-which-three-residents.md)
 St Michaels Hospice, where three people died, had &quot;woefully inadequate&quot; safety measures, a judge says.
@@ -35,12 +39,20 @@ An Italian judge in Catania upheld Tuesday the seizure of Proactiva Open Arms sh
 ### [The governments of China and North Korea both confirm that North Korean leader Kim Jong-un met with Chinese President Xi Jinping in Beijing during the past four days. China states that North Korea is "committed to denuclearization" and willing to hold a summit with the United States. ](/news/2018/03/28/the-governments-of-china-and-north-korea-both-confirm-that-north-korean-leader-kim-jong-un-met-with-chinese-president-xi-jinping-in-beijing.md)
 North Korean leader Kim Jong Un has pledged to denuclearize and meet U.S. officials, China said on Wednesday after an historic meeting with President Xi Jinping, who promised China would uphold its friendship with its isolated neighbor.
 
+##### Durban
+### [A partially-constructed building collapses onto a truck in Jacobs, Durban, South Africa, killing three people. Six more are hospitalised and search and rescue dogs are looking for further victims. ](/news/2018/03/28/a-partially-constructed-building-collapses-onto-a-truck-in-jacobs-durban-south-africa-killing-three-people-six-more-are-hospitalised-and.md)
+Two people have died after being trapped under a building that collapsed on a truck in the Wentworth area, south of Durban, paramedic services have said.
+
+##### Wine Rack
+### [Conviviality PLC, owner of Wine Rack and Bargain Booze, announces it has been refused investment to stave off bankruptcy and will likely enter administration. ](/news/2018/03/28/conviviality-plc-owner-of-wine-rack-and-bargain-booze-announces-it-has-been-refused-investment-to-stave-off-bankruptcy-and-will-likely-ent.md)
+2,600 jobs at risk and pubs including the JD Wetherspoon chain face supply issues
+
 ##### Terrorism in Italy
-### [Italian counterterror police arrest Elmahdi Halili on suspicion of planning attacks with knives and lorries, attempting to recruit terrorist attackers, and creating the first piece of ISIS literature in Italian. ](/news/2018/03/28/italian-counterterror-police-arrest-elmahdi-halili-on-suspicion-of-planning-attacks-with-knives-and-lorries-attempting-to-recruit-terrorist.md)
+### [Italian counterterror police arrest Elmahdi Halili on suspicion of planning attacks with knives and lorries, attempting to recruit terrorist attackers, and creating the first piece of ISIL literature in Italian. ](/news/2018/03/28/italian-counterterror-police-arrest-elmahdi-halili-on-suspicion-of-planning-attacks-with-knives-and-lorries-attempting-to-recruit-terrorist.md)
 Anti-terrorism police carried out searches across Italy on Wednesday morning, arresting a man in Turin who is accused of plotting attacks for the violent Islamist group Isis.
 
 ##### Terrorism in the United Kingdom
-### [The Sentencing Council for England and Wales issues new guidelines increasing the penalties for terrorist offending. ](/news/2018/03/28/the-sentencing-council-for-england-and-wales-issues-new-guidelines-increasing-the-penalties-for-terrorist-offending.md)
+### [The Sentencing Council for England and Wales issues new guidelines increasing the penalties for terrorist offences. ](/news/2018/03/28/the-sentencing-council-for-england-and-wales-issues-new-guidelines-increasing-the-penalties-for-terrorist-offences.md)
 Watchdog concludes that it is not always appropriate to ask detailed religious questions of detainees
 
 ## [Previous Day...](/news/2018/03/27/index.md)

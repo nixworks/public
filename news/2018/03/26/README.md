@@ -12,7 +12,7 @@ Using microlensing technique, astronomers have found a new giant planet orbiting
 Egyptians began voting Monday in an election that virtually guaranteed another term for President Abdel-Fattah el-Sissi, who faced only a token opponent in balloting that resembled the referendums held by autocrats for decades before the Arab Spring briefly raised hopes of democratic change.
 
 ##### Carcassonne and Trebes attack
-### [Attacker Radouane Lakdim's teenage girlfriend is arrested. ](/news/2018/03/26/attacker-radouane-lakdim-s-teenage-girlfriend-is-arrested.md)
+### [In regards to the March 23 attack that killed four people, French state prosecutor Francois Molins charges attacker Radouane Lakdim's 18-year-old girlfriend with terrorist conspiracy. ](/news/2018/03/26/in-regards-to-the-march-23-attack-that-killed-four-people-french-state-prosecutor-franassois-molins-charges-attacker-radouane-lakdim-s-18-ye.md)
 Police investigating 18-year-old, known as Marine, who had been on a terrorism watchlist
 
 ##### Carbanak
