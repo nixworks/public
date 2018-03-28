@@ -3,6 +3,10 @@ Formats: [HTML](2018/03/28/index.html)  [JSON](2018/03/28/index.json)  [XML](201
 
 ## [2018-03-28](/news/2018/03/28/index.md)
 
+##### The Earth
+### [New research suggests the Earth may have had water earlier than thought, and that terrestrial water could have survived the impact that created the Moon, the event which was previously hypothesised to be responsible for our planet's water. ](/news/2018/03/28/new-research-suggests-the-earth-may-have-had-water-earlier-than-thought-and-that-terrestrial-water-could-have-survived-the-impact-that-crea.md)
+Comparing moon rocks to volcanic ones from the ocean floor shows that Earth’s water may have stuck around even through the giant impact that formed the moon
+
 ##### Geophysicist
 ### [Geophysicists continue to monitor the increased seismic activity at the Oraefajokull volcano at Vatnajokull National Park, Iceland. ](/news/2018/03/28/geophysicists-continue-to-monitor-the-increased-seismic-activity-at-the-ara-fajapkull-volcano-at-vatnajapkull-national-park-iceland.md)
 Seismic activity in Öræfajökull volcano continues. This month, fourteen earthquakes measuring over 1.2 have been detected. 
@@ -38,6 +42,10 @@ An Italian judge in Catania upheld Tuesday the seizure of Proactiva Open Arms sh
 ##### China-North Korea relations
 ### [The governments of China and North Korea both confirm that North Korean leader Kim Jong-un met with Chinese President Xi Jinping in Beijing during the past four days. China states that North Korea is "committed to denuclearization" and willing to hold a summit with the United States. ](/news/2018/03/28/the-governments-of-china-and-north-korea-both-confirm-that-north-korean-leader-kim-jong-un-met-with-chinese-president-xi-jinping-in-beijing.md)
 North Korean leader Kim Jong Un has pledged to denuclearize and meet U.S. officials, China said on Wednesday after an historic meeting with President Xi Jinping, who promised China would uphold its friendship with its isolated neighbor.
+
+##### Ethyl acetate
+### [An ethyl acetate tank explodes in a port in Livorno, Italy, killing two. ](/news/2018/03/28/an-ethyl-acetate-tank-explodes-in-a-port-in-livorno-italy-killing-two.md)
+_Context: Italy, Livorno, ethyl acetate_
 
 ##### Durban
 ### [A partially-constructed building collapses onto a truck in Jacobs, Durban, South Africa, killing three people. Six more are hospitalised and search and rescue dogs are looking for further victims. ](/news/2018/03/28/a-partially-constructed-building-collapses-onto-a-truck-in-jacobs-durban-south-africa-killing-three-people-six-more-are-hospitalised-and.md)
