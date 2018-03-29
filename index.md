@@ -111,10 +111,6 @@ _Context: Caribbean Airlines, Caribbean Airlines Flight 523, Guyana, Hartford, C
 ### [California Highway Patrol search and rescue operations continue off the Californian coast for three children missing following a crash which killed five of their relatives. Their car drove out of a seaside unbarricaded parking lot and off of a 75-foot cliff into the sea on March 26. ](/news/2018/03/28/california-highway-patrol-search-and-rescue-operations-continue-off-the-californian-coast-for-three-children-missing-following-a-crash-which.md)
 It&#39;s not clear if the children were in the SUV crash that left five other family members dead, but a search is on as part of the ongoing investigation.
 
-##### Germania
-### [A Germania Boeing 737 and an El Al Boeing 767 collide as they prepare for takeoff at Ben-Gurion Airport in Israel. All passengers disembark safely. ](/news/2018/03/28/a-germania-boeing-737-and-an-el-al-boeing-767-collide-as-they-prepare-for-takeoff-at-ben-gurion-airport-in-israel-all-passengers-disembark.md)
-_Context: Ben-Gurion Airport, Boeing 737, Boeing 767, El Al, Germania, Israel_
-
 ##### Ethyl acetate
 ### [A tank containing ethyl acetate explodes in a port in Livorno, Italy, killing two people. ](/news/2018/03/28/a-tank-containing-ethyl-acetate-explodes-in-a-port-in-livorno-italy-killing-two-people.md)
 _Context: Italy, Livorno, ethyl acetate_
