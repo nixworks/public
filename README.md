@@ -99,6 +99,10 @@ Viktor Yushchenko, himself poisoned in 2004, says expelling diplomats is a start
 ### [The governments of China and North Korea both confirm that North Korean leader Kim Jong-un met with Chinese President Xi Jinping in Beijing during the past four days. China states that North Korea is "committed to denuclearization" and willing to hold a summit with the United States. ](/news/2018/03/28/the-governments-of-china-and-north-korea-both-confirm-that-north-korean-leader-kim-jong-un-met-with-chinese-president-xi-jinping-in-beijing.md)
 North Korean leader Kim Jong Un has pledged to denuclearize and meet U.S. officials, China said on Wednesday after an historic meeting with President Xi Jinping, who promised China would uphold its friendship with its isolated neighbor.
 
+##### 
+### [Uber settlement. ](/news/2018/03/28/uber-settlement.md)
+The family of the woman killed by an Uber Technologies Inc [UBER.UL] self-driving vehicle in Arizona has reached a settlement with the ride services company, ending a potential legal battle over the first fatality caused by an autonomous vehicle.
+
 ##### New Zealand
 ### [A New Zealand light aircraft pilot Rod Vaughan claims that his plane was brought down at Waihi after colliding with a drone. If true, it would be the first such incident in the country. ](/news/2018/03/28/a-new-zealand-light-aircraft-pilot-rod-vaughan-claims-that-his-plane-was-brought-down-at-waihi-after-colliding-with-a-drone-if-true-it-wou.md)
 _Context: New Zealand, Waihi, drone_
