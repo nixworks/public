@@ -1,0 +1,24 @@
+
+Formats: [HTML](/news/2018/03/28/research-published-in-the-nature-journal-implies-the-existence-of-a-galaxy-that-appears-to-contain-no-dark-matter-dubbed-ngc1052-df2-if.html)  [JSON](/news/2018/03/28/research-published-in-the-nature-journal-implies-the-existence-of-a-galaxy-that-appears-to-contain-no-dark-matter-dubbed-ngc1052-df2-if.json)  [XML](/news/2018/03/28/research-published-in-the-nature-journal-implies-the-existence-of-a-galaxy-that-appears-to-contain-no-dark-matter-dubbed-ngc1052-df2-if.xml)  
+
+### [2018-03-28](/news/2018/03/28/index.md)
+
+##### Galaxy formation and evolution
+# Research published in the "Nature" journal implies the existence of a galaxy that appears to contain no dark matter, dubbed NGC1052-DF2. If confirmed it would be the first such galaxy discovered. 
+
+Scientists have imaged a &quot;transparent&quot; galaxy that may have no dark matter.
+
+
+### Sources:
+
+1. [BBC](http://www.bbc.co.uk/news/science-environment-43543195)
+2. [Nature](https://www.nature.com/articles/nature25767)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/branded_news/2448/production/_100588290_227bf2e7-6001-4cf5-b48b-23f19b37eb61.png)
+
+### Related:
+
+1. [Led overall by researchers at Aix-Marseille Universite in France using NASA's "Kepler Space Telescope", "Nature Astronomy" publishes observations of what may be a new exoplanet named K2-229b, whose attributes may resemble the planet of Mercury (hot, metallic, and dense). ](/news/2018/03/27/led-overall-by-researchers-at-aix-marseille-universita-c-in-france-using-nasa-s-kepler-space-telescope-nature-astronomy-publishes-observ.md) _Context: ''Nature''_
+2. ["Nature" publishes research from The Institute of Astrophysics of Andalusia at the Glorieta de la Astronomia of Granada, Spain, describing the discovery that a ring system orbits the trans-Neptunian dwarf planet Haumea. ](/news/2017/10/11/nature-publishes-research-from-the-institute-of-astrophysics-of-andalusia-at-the-glorieta-de-la-astronomaa-of-granada-spain-describing.md) _Context: ''Nature''_
+3. [ A research team led by an evolutionary biologist at the University of Arizona publishes a paper in "Nature" on the genetic history of HIV proving that Gaetan Dugas, the Canadian flight attendant who had been identified for years as "Patient Zero" of the AIDS epidemic in the U.S., did not spread the virus to the country. The study indicates that HIV first spread to the U.S. from the Caribbean around 1970. ](/news/2016/10/26/a-research-team-led-by-an-evolutionary-biologist-at-the-university-of-arizona-publishes-a-paper-in-nature-on-the-genetic-history-of-hiv-p.md) _Context: ''Nature''_
+4. [A study published in Nature finds the Earth's surface is warmer than it has been in about 120,000 years, and is locked into eventually hitting its hottest mark in more than 2 million years. ](/news/2016/09/26/a-study-published-in-nature-finds-the-earth-s-surface-is-warmer-than-it-has-been-in-about-120-000-years-and-is-locked-into-eventually-hitti.md) _Context: ''Nature''_
+5. [A newly-discovered galaxy known as Dragonfly 44 appears to be made up mostly of dark matter. ](/news/2016/08/26/a-newly-discovered-galaxy-known-as-dragonfly-44-appears-to-be-made-up-mostly-of-dark-matter.md) _Context: dark matter_

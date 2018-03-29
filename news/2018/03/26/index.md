@@ -45,7 +45,7 @@ John Fisher is missing after falling overboard off the tip of South America duri
 
 ##### 2018 New York City Eurocopter AS350 crash
 ### [The US National Transportation Safety Board releases a preliminary investigative report containing new information on the accident, in which five passengers drowned when they were trapped in the wreckage. ](/news/2018/03/26/the-us-national-transportation-safety-board-releases-a-preliminary-investigative-report-containing-new-information-on-the-accident-in-which.md)
-_Context: 2018 New York City Eurocopter AS350 crash, National Transportation Safety Board, US_
+_Context: 2018 New York City Eurocopter AS350 crash, National Transportation Safety Board, United States_
 
 ##### US-Bangla Airlines Flight 211
 ### [The death toll rises to 52 people as a survivor dies in hospital. ](/news/2018/03/26/the-death-toll-rises-to-52-people-as-a-survivor-dies-in-hospital.md)
@@ -56,7 +56,7 @@ Shaheen has been undergoing treatment at the hospital for the past nine days.
 Many of the 64 people killed in the leisure complex fire in Siberia were children.
 
 ##### Chinese
-### [China launches an oil futures market in a bid to compete with oil benchmarks from the United States and Europe. ](/news/2018/03/26/china-launches-an-oil-futures-market-in-a-bid-to-compete-with-oil-benchmarks-from-the-united-states-and-europe.md)
+### [China launches an oil futures market, with contracts denominated in yuan, in a bid to compete with oil benchmarks from the United States and Europe. ](/news/2018/03/26/china-launches-an-oil-futures-market-with-contracts-denominated-in-yuan-in-a-bid-to-compete-with-oil-benchmarks-from-the-united-states-and.md)
 China’s yuan-denominated crude-oil futures close more than 3% higher on their first day of trading, as Beijing hopes the new market will eventually give the country an oil benchmark to rival those in the U.S. and Europe.
 
 ##### Economy of the United States

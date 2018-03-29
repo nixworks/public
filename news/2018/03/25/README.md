@@ -61,11 +61,11 @@ Yemen&rsquo;s Shiite rebels fired a barrage of ballistic missiles targeting Saud
 
 ##### Iraqi Civil War (2014-present)
 ### [ISIL releases a statement claiming responsibility for killing or wounding 103 Iraqi soldiers within one month. The group also claims to have abducted 13 more soldiers, and destroyed 12 armoured vehicles. ](/news/2018/03/25/isil-releases-a-statement-claiming-responsibility-for-killing-or-wounding-103-iraqi-soldiers-within-one-month-the-group-also-claims-to-have.md)
-_Context: ISIL, Iraq, Iraqi Civil War (2014-present)_
+_Context: Iraq, Iraqi Civil War (2014-present), Islamic State_
 
 ##### War in Afghanistan (2001-present)
 ### [Two suicide bombers strike a Shi'ite mosque in Herat, Afghanistan, killing one person and wounding seven others. Security forces kill one bomber while the device kills the other. ISIL claims responsibility. ](/news/2018/03/25/two-suicide-bombers-strike-a-shi-ite-mosque-in-herat-afghanistan-killing-one-person-and-wounding-seven-others-security-forces-kill-one-bo.md)
-_Context: Afghanistan, Herat, ISIL, Shi'ite, War in Afghanistan (2001-present), suicide bomb_
+_Context: Afghanistan, Herat, Islamic State, Shi'ite, War in Afghanistan (2001-present), suicide bomb_
 
 ##### Somali Civil War (2009-present)
 ### [A car bomb claimed by Al-Shabab kills five people including the driver and wounds around ten others outside Somalia's Parliament, Interior Ministry, and Presidential Palace buildings in Mogadishu. ](/news/2018/03/25/a-car-bomb-claimed-by-al-shabab-kills-five-people-including-the-driver-and-wounds-around-ten-others-outside-somalia-s-parliament-interior-m.md)

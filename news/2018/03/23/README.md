@@ -81,7 +81,7 @@ Residents startled awake by loud noise and smoke signaled for help with lit mobi
 
 ##### Economy of Denmark
 ### [Boeing loses a case in Copenhagen city court against the Danish Ministry of Defense over access to documents used in the purchase of Lockheed Martin F-35 Lightning II fighters in preference over Boeing F-A 18 Super Hornets. Boeing argued the evaluation process used in the purchase had been "flawed". ](/news/2018/03/23/boeing-loses-a-case-in-copenhagen-city-court-against-the-danish-ministry-of-defense-over-access-to-documents-used-in-the-purchase-of-lockhee.md)
-_Context: Copenhagen, Economy of Denmark, Lockheed Martin, Ministry of Defense, The Boeing Company, city court, evaluation_
+_Context: Boeing, Copenhagen, Economy of Denmark, Lockheed Martin, Ministry of Defense, city court, evaluation_
 
 ##### Northern Mali conflict
 ### [Malian Prime Minister Soumeylou Boubeye Maiga visits seperatist rebel stronghold Kidal. ](/news/2018/03/23/malian-prime-minister-soumeylou-boubeye-maiga-visits-seperatist-rebel-stronghold-kidal.md)

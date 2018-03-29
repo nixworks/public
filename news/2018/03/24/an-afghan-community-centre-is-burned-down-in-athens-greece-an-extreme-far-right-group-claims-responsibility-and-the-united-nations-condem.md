@@ -20,7 +20,7 @@ A little-known extreme right-wing group has claimed responsibility for an arson 
 
 ### Related:
 
-1. [An anarchist group claims responsibility for a bombing outside a courthouse in Athens, Greece, on 24 March. ](/news/2018/03/28/an-anarchist-group-claims-responsibility-for-a-bombing-outside-a-courthouse-in-athens-greece-on-24-march.md) _Context: Athens, Greece, Terrorism in Greece_
+1. [An anarchist group claims responsibility for a bombing outside a courthouse in Athens, Greece, on March 24. ](/news/2018/03/28/an-anarchist-group-claims-responsibility-for-a-bombing-outside-a-courthouse-in-athens-greece-on-march-24.md) _Context: Athens, Greece, Terrorism in Greece_
 2. [The United Nations report that in 2017, more than 10,000 Afghan civilians were killed or wounded in the war. ](/news/2018/02/15/the-united-nations-report-that-in-2017-more-than-10-000-afghan-civilians-were-killed-or-wounded-in-the-war.md) _Context: Afghanistan, United Nations_
 3. [Flash floods on the outskirts of the Greek capital Athens kill at least 16 people and injure dozens more after a severe thunderstorm. ](/news/2017/11/15/flash-floods-on-the-outskirts-of-the-greek-capital-athens-kill-at-least-16-people-and-injure-dozens-more-after-a-severe-thunderstorm.md) _Context: Athens, Greece_
 4. [Greece claims that Macedonia has closed its borders to migrants from Afghanistan. ](/news/2016/02/21/greece-claims-that-macedonia-has-closed-its-borders-to-migrants-from-afghanistan.md) _Context: Afghanistan, Greece_
