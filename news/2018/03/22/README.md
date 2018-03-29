@@ -53,7 +53,7 @@ Two security officers killed in gunbattle during arrest. Suspect also wounded in
 
 ##### Cow vigilante violence in India since 2014
 ### [An Indian court convicts eleven Hindus of murdering a Muslim man they discovered transporting beef, sentencing them to life. It is the first successful prosecution of cow vigilantism violence in India. ](/news/2018/03/22/an-indian-court-convicts-eleven-hindus-of-murdering-a-muslim-man-they-discovered-transporting-beef-sentencing-them-to-life-it-is-the-first.md)
-_Context: Cow vigilante violence in India since 2014, Hindus, India, Muslim_
+_Context: Cow vigilante violence in India since 2014, Hindus, India, Muslims_
 
 ##### Crime in Brazil
 ### [An open letter from international politicians, activists, journalists, and academics demands an independent commission be formed to investigate the assassination of Brazilian human rights activist Marielle Franco and her driver. ](/news/2018/03/22/an-open-letter-from-international-politicians-activists-journalists-and-academics-demands-an-independent-commission-be-formed-to-investig.md)

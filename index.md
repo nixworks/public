@@ -11,10 +11,6 @@ Boeing has been hit by the WannaCry computer virus. Some airplane production may
 ### [New research suggests the Earth may have had water earlier than thought, and that terrestrial water could have survived the impact that created the Moon, the event which was previously hypothesised to be responsible for our planet's water. ](/news/2018/03/28/new-research-suggests-the-earth-may-have-had-water-earlier-than-thought-and-that-terrestrial-water-could-have-survived-the-impact-that-crea.md)
 Comparing moon rocks to volcanic ones from the ocean floor shows that Earth’s water may have stuck around even through the giant impact that formed the moon
 
-##### Geophysicist
-### [Geophysicists continue to monitor the increased seismic activity at the Oraefajokull volcano at Vatnajokull National Park, Iceland. ](/news/2018/03/28/geophysicists-continue-to-monitor-the-increased-seismic-activity-at-the-ara-fajapkull-volcano-at-vatnajapkull-national-park-iceland.md)
-Seismic activity in Öræfajökull volcano continues. This month, fourteen earthquakes measuring over 1.2 have been detected. 
-
 ##### Australian Aboriginal languages
 ### [The linguistics journal "Diachronica" publishes Australian research implying that a tracement of the country's indigenous languages can be made back to a single, common language known as Proto-Australian, which was spoken around 10,000-years ago. ](/news/2018/03/28/the-linguistics-journal-diachronica-publishes-australian-research-implying-that-a-tracement-of-the-country-s-indigenous-languages-can-be-m.md)
 All indigenous languages can be traced to a mother tongue dubbed Proto-Australian, researchers say.
@@ -28,7 +24,7 @@ _Context: Cabinet of Donald Trump, David Shulkin, Donald Trump, President's Phys
 Egypt&#8217;s National Election Authority (NEA) said on Wednesday that it would work to enforce the provisions of the law to impose a fine of LE500 on eligible voters who abstained from casting their votes in the presidential election. The NEA called on all eligible voters to cast their votes and pr...
 
 ##### Terrorism in Greece
-### [An anarchist group claims responsibility for a bombing outside a courthouse in Athens, Greece on 24 March. ](/news/2018/03/28/an-anarchist-group-claims-responsibility-for-a-bombing-outside-a-courthouse-in-athens-greece-on-24-march.md)
+### [An anarchist group claims responsibility for a bombing outside a courthouse in Athens, Greece, on 24 March. ](/news/2018/03/28/an-anarchist-group-claims-responsibility-for-a-bombing-outside-a-courthouse-in-athens-greece-on-24-march.md)
 Greek Police are examining the remnants of a bomb which detonated on Saturday in a sentry-box near the Athens Evelpidon court complex after learning about it from an online claim of responsibility by new guerrilla group.
 
 ##### 2017-18 Spanish constitutional crisis
@@ -36,7 +32,7 @@ Greek Police are examining the remnants of a bomb which detonated on Saturday in
 Clara Ponsatí’s lawyer says she will fight attempt to return her to Spain to face rebellion charge
 
 ##### Terrorism in the United States
-### [The trial of Noor Salman, widow of Pulse nightclub shooter Omar Mateen, hears closing arguments. Jurors begin deliberations. ](/news/2018/03/28/the-trial-of-noor-salman-widow-of-pulse-nightclub-shooter-omar-mateen-hears-closing-arguments-jurors-begin-deliberations.md)
+### [The trial of Noor Salman, widow of Pulse nightclub shooter Omar Mateen, hears closing arguments. Jurors begin deliberations. During the trail it was revealed that both the terrorist and his father were registered FBI informants. ](/news/2018/03/28/the-trial-of-noor-salman-widow-of-pulse-nightclub-shooter-omar-mateen-hears-closing-arguments-jurors-begin-deliberations-during-the-trai.md)
 _Context: Omar Mateen, Pulse nightclub shooter, Terrorism in the United States_
 
 ##### Chinese
@@ -60,7 +56,7 @@ Uber Technologies Inc. disabled the standard collision-avoidance technology in t
 St Michaels Hospice, where three people died, had &quot;woefully inadequate&quot; safety measures, a judge says.
 
 ##### Catania
-### [A judge in Catania, Italy upholds the seizure of a Proactiva Open Arms ship that brought migrants to Sicily after refusing to hand them over to the Libyan Coast Guard. ](/news/2018/03/28/a-judge-in-catania-italy-upholds-the-seizure-of-a-proactiva-open-arms-ship-that-brought-migrants-to-sicily-after-refusing-to-hand-them-over.md)
+### [A judge in Catania, Italy, upholds the seizure of a Proactiva Open Arms ship that brought migrants to Sicily after refusing to hand them over to the Libyan Coast Guard. ](/news/2018/03/28/a-judge-in-catania-italy-upholds-the-seizure-of-a-proactiva-open-arms-ship-that-brought-migrants-to-sicily-after-refusing-to-hand-them-ove.md)
 An Italian judge in Catania upheld Tuesday the seizure of Proactiva Open Arms ship, but dropped the most serious charges against the Spanish NGO that operates the ship, which is involvement in the smuggling of migrants. The Italian News Agency ANSA reported that the judge ruled that the Proactiva Op...
 
 ##### Poisoning of Sergei and Yulia Skripal
@@ -91,8 +87,8 @@ Two people have died after being trapped under a building that collapsed on a tr
 ### [Iraqi authorities announce the arrest of alleged senior Islamic State member Saab Abdullah al-Issawi in a military-supported airdrop in Anbar. ](/news/2018/03/28/iraqi-authorities-announce-the-arrest-of-alleged-senior-islamic-state-member-saab-abdullah-al-issawi-in-a-military-supported-airdrop-in-anba.md)
 _Context: Anbar, Iraq, Islamic State_
 
-##### United States Africa Command
-### [United States Africa Command announces an airstrike in Ubari, Libya on Saturday killed Musa Abu Dawud, a wanted alleged senior member of al-Qaida. ](/news/2018/03/28/united-states-africa-command-announces-an-airstrike-in-ubari-libya-on-saturday-killed-musa-abu-dawud-a-wanted-alleged-senior-member-of-al.md)
+##### Libyan Crisis (2011-present)
+### [United States Africa Command announces an airstrike in Ubari, Libya, on Saturday killed Musa Abu Dawud, a wanted alleged senior member of al-Qaida. ](/news/2018/03/28/united-states-africa-command-announces-an-airstrike-in-ubari-libya-on-saturday-killed-musa-abu-dawud-a-wanted-alleged-senior-member-of-al.md)
 A high-ranking al-Qaida leader was killed Saturday in an American airstrike against the terrorist organization&rsquo;s North Africa affiliate in the desert of southwest Libya, U.S. Africa Command announced Wednesday.
 
 ##### Terrorism in Italy
@@ -119,15 +115,11 @@ The US National Aeronautics and Space Administration, NASA, revealed on Monday t
 ### [Voting enters the second day. ](/news/2018/03/27/voting-enters-the-second-day.md)
 Egyptian authorities pressed for a high turnout on Tuesday on the second day of a presidential election expected to give President Abdel Fattah al-Sisi a sweeping victory in the absence of real competition, in a contest dismissed by critics as sham.
 
-##### Dutch
+##### Law enforcement in the Netherlands
 ### [A Dutch court rules police are liable for a mass shooting at a shopping centre that killed 6 and wounded 16 because the gunman should not have been issued a firearms licence. ](/news/2018/03/27/a-dutch-court-rules-police-are-liable-for-a-mass-shooting-at-a-shopping-centre-that-killed-6-and-wounded-16-because-the-gunman-should-not-ha.md)
 A court orders police to compensate the families of those killed and injured when a gunman opened fire in a shopping mall in 2011.
 
-##### Kent County, Michigan
-### [Kent County, Michigan special prosecutor Bill Forsyth charges William Strampel, the former dean of the Michigan State University College of Osteopathic Medicine, in the United States District Court for the Western District of Michigan in East Lansing, Michigan, with misconduct in office, fourth-degree criminal sexual conduct, and two counts of willful neglect of duty in connection with the Larry Nassar sex abuse scandal. ](/news/2018/03/27/kent-county-michigan-special-prosecutor-bill-forsyth-charges-william-strampel-the-former-dean-of-the-michigan-state-university-college-of.md)
-_Context: East Lansing, Michigan, Kent County, Michigan, Larry Nassar, Michigan State University College of Osteopathic Medicine, United States District Court for the Western District of Michigan, sex abuse scandal_
-
-##### FBI
+##### Crime in the United States
 ### [The FBI arrests Everett, Washington, 43-year-old Thanh Cong Phan on suspicion of charges of illegally shipping explosive materials by sending 12 package bombs to the CIA as well as multiple military and government facilities in the Washington, D.C. area. Those devices did notexplode. ](/news/2018/03/27/the-fbi-arrests-everett-washington-43-year-old-thanh-cong-phan-on-suspicion-of-charges-of-illegally-shipping-explosive-materials-by-sendin.md)
 Less than a week after the man suspected of mailing package bombs in Austin, Texas, blew himself up, the FBI announced Tuesday that an Everett man has been arrested on suspicion of sending package bombs to the CIA as well as multiple military and government facilities in the Washington, D.C. area. T...
 
@@ -179,13 +171,17 @@ At least 64 people - 41 of them children - died in a shopping mall fire and many
 ### [U.S. graphics processing unit producer Nvidia suspends all its tests of self-driving cars. ](/news/2018/03/27/u-s-graphics-processing-unit-producer-nvidia-suspends-all-its-tests-of-self-driving-cars.md)
 _Context: History of autonomous cars, Nvidia, graphics processing unit_
 
-##### Turkey
+##### Turkish involvement in the Syrian Civil War
 ### [The government of Turkey states that eleven Kurdish militants have been killed near its Syrian border, and two soldiers were killed by an explosion in Syria. ](/news/2018/03/27/the-government-of-turkey-states-that-eleven-kurdish-militants-have-been-killed-near-its-syrian-border-and-two-soldiers-were-killed-by-an-ex.md)
-_Context: Kurdish, Syria, Turkey_
+_Context: Kurdish, Syria, Turkey, Turkish involvement in the Syrian Civil War_
 
-##### NATO
+##### War in Afghanistan (2001-present)
 ### [NATO says the Afghan Air Force dropped its first laser-guided bomb on a Taliban compound on March 22. NATO have trained the Afghans in use of the equipment. ](/news/2018/03/27/nato-says-the-afghan-air-force-dropped-its-first-laser-guided-bomb-on-a-taliban-compound-on-march-22-nato-have-trained-the-afghans-in-use-o.md)
 NATO says the Afghan air force dropped its first laser-guided bomb during combat after completing training on how to use the sophisticated weapons system. A NATO statement on Tuesday says the bomb was dropped on a Taliban compound in a &quot;direct hit&quot; in the western Farah province last...
+
+##### Islamophobic incidents in the United Kingdom
+### [Justice Michael Alexander Soole sentences Paul Moore to lifetime incarceration with a minimum imprisonment of 20 years for using his car to attack Muslims following a string of terror attacks in 2017 linked to Islamic extremism. ](/news/2018/03/27/justice-michael-alexander-soole-sentences-paul-moore-to-lifetime-incarceration-with-a-minimum-imprisonment-of-20-years-for-using-his-car-to.md)
+_Context: Islamic extremism, Islamophobic incidents in the United Kingdom, Muslims_
 
 ##### Terrorism in the United Kingdom
 ### [Old Bailey Justice Charles Haddon-Cave sentences convicted terrorist Umar Haque, who indoctrinated children he was teaching in London so that he could use them to commit attacks, to lifetime incarceration with parole eligibility only after 25 years. ](/news/2018/03/27/old-bailey-justice-charles-haddon-cave-sentences-convicted-terrorist-umar-haque-who-indoctrinated-children-he-was-teaching-in-london-so-tha.md)

@@ -11,10 +11,6 @@ Boeing has been hit by the WannaCry computer virus. Some airplane production may
 ### [New research suggests the Earth may have had water earlier than thought, and that terrestrial water could have survived the impact that created the Moon, the event which was previously hypothesised to be responsible for our planet's water. ](/news/2018/03/28/new-research-suggests-the-earth-may-have-had-water-earlier-than-thought-and-that-terrestrial-water-could-have-survived-the-impact-that-crea.md)
 Comparing moon rocks to volcanic ones from the ocean floor shows that Earth’s water may have stuck around even through the giant impact that formed the moon
 
-##### Geophysicist
-### [Geophysicists continue to monitor the increased seismic activity at the Oraefajokull volcano at Vatnajokull National Park, Iceland. ](/news/2018/03/28/geophysicists-continue-to-monitor-the-increased-seismic-activity-at-the-ara-fajapkull-volcano-at-vatnajapkull-national-park-iceland.md)
-Seismic activity in Öræfajökull volcano continues. This month, fourteen earthquakes measuring over 1.2 have been detected. 
-
 ##### Australian Aboriginal languages
 ### [The linguistics journal "Diachronica" publishes Australian research implying that a tracement of the country's indigenous languages can be made back to a single, common language known as Proto-Australian, which was spoken around 10,000-years ago. ](/news/2018/03/28/the-linguistics-journal-diachronica-publishes-australian-research-implying-that-a-tracement-of-the-country-s-indigenous-languages-can-be-m.md)
 All indigenous languages can be traced to a mother tongue dubbed Proto-Australian, researchers say.
@@ -28,7 +24,7 @@ _Context: Cabinet of Donald Trump, David Shulkin, Donald Trump, President's Phys
 Egypt&#8217;s National Election Authority (NEA) said on Wednesday that it would work to enforce the provisions of the law to impose a fine of LE500 on eligible voters who abstained from casting their votes in the presidential election. The NEA called on all eligible voters to cast their votes and pr...
 
 ##### Terrorism in Greece
-### [An anarchist group claims responsibility for a bombing outside a courthouse in Athens, Greece on 24 March. ](/news/2018/03/28/an-anarchist-group-claims-responsibility-for-a-bombing-outside-a-courthouse-in-athens-greece-on-24-march.md)
+### [An anarchist group claims responsibility for a bombing outside a courthouse in Athens, Greece, on 24 March. ](/news/2018/03/28/an-anarchist-group-claims-responsibility-for-a-bombing-outside-a-courthouse-in-athens-greece-on-24-march.md)
 Greek Police are examining the remnants of a bomb which detonated on Saturday in a sentry-box near the Athens Evelpidon court complex after learning about it from an online claim of responsibility by new guerrilla group.
 
 ##### 2017-18 Spanish constitutional crisis
@@ -36,7 +32,7 @@ Greek Police are examining the remnants of a bomb which detonated on Saturday in
 Clara Ponsatí’s lawyer says she will fight attempt to return her to Spain to face rebellion charge
 
 ##### Terrorism in the United States
-### [The trial of Noor Salman, widow of Pulse nightclub shooter Omar Mateen, hears closing arguments. Jurors begin deliberations. ](/news/2018/03/28/the-trial-of-noor-salman-widow-of-pulse-nightclub-shooter-omar-mateen-hears-closing-arguments-jurors-begin-deliberations.md)
+### [The trial of Noor Salman, widow of Pulse nightclub shooter Omar Mateen, hears closing arguments. Jurors begin deliberations. During the trail it was revealed that both the terrorist and his father were registered FBI informants. ](/news/2018/03/28/the-trial-of-noor-salman-widow-of-pulse-nightclub-shooter-omar-mateen-hears-closing-arguments-jurors-begin-deliberations-during-the-trai.md)
 _Context: Omar Mateen, Pulse nightclub shooter, Terrorism in the United States_
 
 ##### Chinese
@@ -60,7 +56,7 @@ Uber Technologies Inc. disabled the standard collision-avoidance technology in t
 St Michaels Hospice, where three people died, had &quot;woefully inadequate&quot; safety measures, a judge says.
 
 ##### Catania
-### [A judge in Catania, Italy upholds the seizure of a Proactiva Open Arms ship that brought migrants to Sicily after refusing to hand them over to the Libyan Coast Guard. ](/news/2018/03/28/a-judge-in-catania-italy-upholds-the-seizure-of-a-proactiva-open-arms-ship-that-brought-migrants-to-sicily-after-refusing-to-hand-them-over.md)
+### [A judge in Catania, Italy, upholds the seizure of a Proactiva Open Arms ship that brought migrants to Sicily after refusing to hand them over to the Libyan Coast Guard. ](/news/2018/03/28/a-judge-in-catania-italy-upholds-the-seizure-of-a-proactiva-open-arms-ship-that-brought-migrants-to-sicily-after-refusing-to-hand-them-ove.md)
 An Italian judge in Catania upheld Tuesday the seizure of Proactiva Open Arms ship, but dropped the most serious charges against the Spanish NGO that operates the ship, which is involvement in the smuggling of migrants. The Italian News Agency ANSA reported that the judge ruled that the Proactiva Op...
 
 ##### Poisoning of Sergei and Yulia Skripal
@@ -91,8 +87,8 @@ Two people have died after being trapped under a building that collapsed on a tr
 ### [Iraqi authorities announce the arrest of alleged senior Islamic State member Saab Abdullah al-Issawi in a military-supported airdrop in Anbar. ](/news/2018/03/28/iraqi-authorities-announce-the-arrest-of-alleged-senior-islamic-state-member-saab-abdullah-al-issawi-in-a-military-supported-airdrop-in-anba.md)
 _Context: Anbar, Iraq, Islamic State_
 
-##### United States Africa Command
-### [United States Africa Command announces an airstrike in Ubari, Libya on Saturday killed Musa Abu Dawud, a wanted alleged senior member of al-Qaida. ](/news/2018/03/28/united-states-africa-command-announces-an-airstrike-in-ubari-libya-on-saturday-killed-musa-abu-dawud-a-wanted-alleged-senior-member-of-al.md)
+##### Libyan Crisis (2011-present)
+### [United States Africa Command announces an airstrike in Ubari, Libya, on Saturday killed Musa Abu Dawud, a wanted alleged senior member of al-Qaida. ](/news/2018/03/28/united-states-africa-command-announces-an-airstrike-in-ubari-libya-on-saturday-killed-musa-abu-dawud-a-wanted-alleged-senior-member-of-al.md)
 A high-ranking al-Qaida leader was killed Saturday in an American airstrike against the terrorist organization&rsquo;s North Africa affiliate in the desert of southwest Libya, U.S. Africa Command announced Wednesday.
 
 ##### Terrorism in Italy

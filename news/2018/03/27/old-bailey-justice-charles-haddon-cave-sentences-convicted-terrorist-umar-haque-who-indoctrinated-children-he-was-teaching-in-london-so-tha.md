@@ -12,8 +12,7 @@ Formats: [HTML](/news/2018/03/27/old-bailey-justice-charles-haddon-cave-sentence
 ### Sources:
 
 1. [The Evening Standard](https://www.standard.co.uk/news/crime/umar-haque-jailed-isis-fanatic-who-trained-army-of-children-to-for-terror-attacks-in-london-a3800411.html)
-2. [The Guardian](https://www.theguardian.com/uk-news/2018/mar/27/man-jailed-life-running-over-muslim-woman-leicester-paul-moore-zaynab-hussein)
-2. [Cover Image](https://i.guim.co.uk/img/media/f756a4049191f55aa2377b27380c92a91e3a54c1/0_1113_2886_1731/master/2886.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxOC8wMS8zMS9mYWNlYm9va19kZWZhdWx0LnBuZw&amp;s=3b54268e020a2def8efc414252582432)
+1. [Cover Image](https://www.standard.co.uk/s3fs-public/thumbnails/image/2018/03/27/16/omarhaquejpg.jpg)
 
 ### Related:
 

@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/28/an-anarchist-group-claims-responsibility-for-a-
 ### [2018-03-28](/news/2018/03/28/index.md)
 
 ##### Terrorism in Greece
-# An anarchist group claims responsibility for a bombing outside a courthouse in Athens, Greece on 24 March. 
+# An anarchist group claims responsibility for a bombing outside a courthouse in Athens, Greece, on 24 March. 
 
 Greek Police are examining the remnants of a bomb which detonated on Saturday in a sentry-box near the Athens Evelpidon court complex after learning about it from an online claim of responsibility by new guerrilla group.
 
@@ -17,7 +17,7 @@ Greek Police are examining the remnants of a bomb which detonated on Saturday in
 ### Changes:
 
 1. [An anarchist group claims responsibility for a bombing outside a courthouse in Athens, Greece. ](/news/2018/03/28/an-anarchist-group-claims-responsibility-for-a-bombing-outside-a-courthouse-in-athens-greece.md) _2018-03-28 20:30:12 (First version)_
-1. [An anarchist group claims responsibility for a bombing outside a courthouse in Athens, Greece on 24 March. ](/news/2018/03/28/an-anarchist-group-claims-responsibility-for-a-bombing-outside-a-courthouse-in-athens-greece-on-24-march.md) _(Current version)_
+1. [An anarchist group claims responsibility for a bombing outside a courthouse in Athens, Greece, on 24 March. ](/news/2018/03/28/an-anarchist-group-claims-responsibility-for-a-bombing-outside-a-courthouse-in-athens-greece-on-24-march.md) _(Current version)_
 
 ### Related:
 

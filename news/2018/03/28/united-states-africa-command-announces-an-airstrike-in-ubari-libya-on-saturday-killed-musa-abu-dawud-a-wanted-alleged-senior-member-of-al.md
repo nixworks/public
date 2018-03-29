@@ -3,8 +3,8 @@ Formats: [HTML](/news/2018/03/28/united-states-africa-command-announces-an-airst
 
 ### [2018-03-28](/news/2018/03/28/index.md)
 
-##### United States Africa Command
-# United States Africa Command announces an airstrike in Ubari, Libya on Saturday killed Musa Abu Dawud, a wanted alleged senior member of al-Qaida. 
+##### Libyan Crisis (2011-present)
+# United States Africa Command announces an airstrike in Ubari, Libya, on Saturday killed Musa Abu Dawud, a wanted alleged senior member of al-Qaida. 
 
 A high-ranking al-Qaida leader was killed Saturday in an American airstrike against the terrorist organization&rsquo;s North Africa affiliate in the desert of southwest Libya, U.S. Africa Command announced Wednesday.
 
@@ -16,8 +16,8 @@ A high-ranking al-Qaida leader was killed Saturday in an American airstrike agai
 
 ### Related:
 
-1. [In a statement to French investigating magistrates, ex-President Nicolas Sarkozy refutes corruption charges relating to alleged receipt of funding from the then President of Libya, Muammar Gaddafi, in 2007. ](/news/2018/03/22/in-a-statement-to-french-investigating-magistrates-ex-president-nicolas-sarkozy-refutes-corruption-charges-relating-to-alleged-receipt-of-f.md) _Context: Libya_
-2. [Former President of France Nicolas Sarkozy is preliminarily charged with illegal funding of his 2007 presidential campaign, passive corruption and receiving money from Libyan embezzlement. ](/news/2018/03/21/former-president-of-france-nicolas-sarkozy-is-preliminarily-charged-with-illegal-funding-of-his-2007-presidential-campaign-passive-corrupti.md) _Context: Libya_
-3. [A double car bombing in Benghazi, Libya, kills at least 33 people and wounds "dozens" of others. The victims include both military personnel and civilians, according to local officials. ](/news/2018/01/23/a-double-car-bombing-in-benghazi-libya-kills-at-least-33-people-and-wounds-dozens-of-others-the-victims-include-both-military-personnel.md) _Context: Libya_
-4. [The Hellenic Coast Guard seizes the Tanzanian-flagged cargo ship "Andromeda" - allegedly bound for Libya, loaded with 410 tonnes of explosives - in Heraklion, Greece. 102 safety deficiencies are found, and 8 crew members are arrested. ](/news/2018/01/10/the-hellenic-coast-guard-seizes-the-tanzanian-flagged-cargo-ship-andromeda-a-allegedly-bound-for-libya-loaded-with-410-tonnes-of-explos.md) _Context: Libya_
-5. [Gunmen shoot dead the Mayor of Misurata, Libya, Mohamed Eshtewi, and wound his brother, after they chase down his car. ](/news/2017/12/17/gunmen-shoot-dead-the-mayor-of-misurata-libya-mohamed-eshtewi-and-wound-his-brother-after-they-chase-down-his-car.md) _Context: Libya_
+1. [The Tunisian Army kills five suspected ISIL militants near the town of Ben Gardane after they infiltrated across the border from neighboring Libya. ](/news/2016/03/2/the-tunisian-army-kills-five-suspected-isil-militants-near-the-town-of-ben-gardane-after-they-infiltrated-across-the-border-from-neighboring.md) _Context: Libya, Libyan Crisis (2011-present)_
+2. [The United Kingdom is to send troops to Tunisia to help the Tunisian Army prevent ISIL militants from moving into the country from Libya. ](/news/2016/03/1/the-united-kingdom-is-to-send-troops-to-tunisia-to-help-the-tunisian-army-prevent-isil-militants-from-moving-into-the-country-from-libya.md) _Context: Libya, Libyan Crisis (2011-present)_
+3. [The New General National Congress (Libya Dawn) which controls the capital Tripoli, and much of western Libya, threatens to send 'hundreds of thousands' of refugees to Europe unless the European Union recognizes the Islamist-led government. ](/news/2015/11/3/the-new-general-national-congress-libya-dawn-which-controls-the-capital-tripoli-and-much-of-western-libya-threatens-to-send-hundreds-of.md) _Context: Libya, Libyan Crisis (2011-present)_
+4. [At least nine people are killed and dozens injured in the eastern Libyan city of Benghazi after several mortar shells hit a protest against a UN proposal for a unity government to end the four-year long crisis in the country. ](/news/2015/10/23/at-least-nine-people-are-killed-and-dozens-injured-in-the-eastern-libyan-city-of-benghazi-after-several-mortar-shells-hit-a-protest-against.md) _Context: Libya, Libyan Crisis (2011-present)_
+5. [In a statement to French investigating magistrates, ex-President Nicolas Sarkozy refutes corruption charges relating to alleged receipt of funding from the then President of Libya, Muammar Gaddafi, in 2007. ](/news/2018/03/22/in-a-statement-to-french-investigating-magistrates-ex-president-nicolas-sarkozy-refutes-corruption-charges-relating-to-alleged-receipt-of-f.md) _Context: Libya_
