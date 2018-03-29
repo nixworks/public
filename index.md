@@ -112,8 +112,8 @@ _Context: Caribbean Airlines, Caribbean Airlines Flight 523, Guyana, Hartford, C
 It&#39;s not clear if the children were in the SUV crash that left five other family members dead, but a search is on as part of the ongoing investigation.
 
 ##### Germania
-### [A Germania Boeing 737 and an El Al Boeing 767 collide as they prepare for takeoff at Ben-Gurion Airport. All passengers disembark safely. ](/news/2018/03/28/a-germania-boeing-737-and-an-el-al-boeing-767-collide-as-they-prepare-for-takeoff-at-ben-gurion-airport-all-passengers-disembark-safely.md)
-_Context: Ben-Gurion Airport, Boeing 737, Boeing 767, El Al, Germania_
+### [A Germania Boeing 737 and an El Al Boeing 767 collide as they prepare for takeoff at Ben-Gurion Airport in Israel. All passengers disembark safely. ](/news/2018/03/28/a-germania-boeing-737-and-an-el-al-boeing-767-collide-as-they-prepare-for-takeoff-at-ben-gurion-airport-in-israel-all-passengers-disembark.md)
+_Context: Ben-Gurion Airport, Boeing 737, Boeing 767, El Al, Germania, Israel_
 
 ##### Ethyl acetate
 ### [A tank containing ethyl acetate explodes in a port in Livorno, Italy, killing two people. ](/news/2018/03/28/a-tank-containing-ethyl-acetate-explodes-in-a-port-in-livorno-italy-killing-two-people.md)
