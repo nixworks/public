@@ -40,7 +40,7 @@ Clara Ponsatí’s lawyer says she will fight attempt to return her to Spain to 
 Boeing has been hit by the WannaCry computer virus. Some airplane production may be affected
 
 ##### Orlando nightclub shooting
-### [The trial of Noor Salman, widow of Pulse nightclub shooter Omar Mateen, hears closing arguments. Jurors begin deliberations. During the trial it was revealed that both the terrorist and his father were registered FBI informants. ](/news/2018/03/28/the-trial-of-noor-salman-widow-of-pulse-nightclub-shooter-omar-mateen-hears-closing-arguments-jurors-begin-deliberations-during-the-tria.md)
+### [The trial of Noor Salman, widow of Pulse nightclub shooter Omar Mateen, hears closing arguments. Jurors begin deliberations. During the trial it was revealed that Mateen's father was an FBI informant. ](/news/2018/03/28/the-trial-of-noor-salman-widow-of-pulse-nightclub-shooter-omar-mateen-hears-closing-arguments-jurors-begin-deliberations-during-the-tria.md)
 _Context: Omar Mateen, Orlando nightclub shooting, Pulse nightclub_
 
 ##### Crime in China
@@ -59,6 +59,10 @@ And other stories from the stranger side of life
 ### [Claims emerge that Uber had disabled Volvo's collision avoidance technology in the self-driving car involved in a fatal accident in Arizona. ](/news/2018/03/28/claims-emerge-that-uber-had-disabled-volvo-s-collision-avoidance-technology-in-the-self-driving-car-involved-in-a-fatal-accident-in-arizona.md)
 Uber Technologies Inc. disabled the standard collision-avoidance technology in the Volvo SUV that struck and killed a woman in Arizona last week, according to the auto-parts maker that supplied the vehicle’s radar and camera.
 
+##### Poisoning of Sergei and Yulia Skripal
+### [Police investigating the attack say they believe the Skripals were poisoned at Sergei Skripal's home. ](/news/2018/03/28/police-investigating-the-attack-say-they-believe-the-skripals-were-poisoned-at-sergei-skripal-s-home.md)
+The highest concentration of novichok was found on their front door in Salisbury, but police stress the risk to neighbours is low.
+
 ##### Crime in the United Kingdom
 ### [English judge Christine Henson fines St. Michael's Hospice in St. Leonards, at East Sussex, over the July 2015 fire in which three residents died. ](/news/2018/03/28/english-judge-christine-henson-fines-st-michael-s-hospice-in-st-leonards-at-east-sussex-over-the-july-2015-fire-in-which-three-residents.md)
 St Michaels Hospice, where three people died, had &quot;woefully inadequate&quot; safety measures, a judge says.
@@ -75,17 +79,21 @@ _Context: Bialowieza Forest, European Court of Justice, European Union, Henryk K
 ### [Poland signs a deal with the United States to buy a US$4.75 billion Patriot missile system. ](/news/2018/03/28/poland-signs-a-deal-with-the-united-states-to-buy-a-us-4-75-billion-patriot-missile-system.md)
 _Context: Patriot missile, Poland-United States relations, Polish, US$, United States_
 
-##### Poisoning of Sergei and Yulia Skripal
-### [Police investigating the attack say they believe the Skripals were poisoned at Sergei Skripal's home. ](/news/2018/03/28/police-investigating-the-attack-say-they-believe-the-skripals-were-poisoned-at-sergei-skripal-s-home.md)
-The highest concentration of novichok was found on their front door in Salisbury, but police stress the risk to neighbours is low.
+##### Reactions to the poisoning of Sergei and Yulia Skripal
+### [Former Ukrainian President Viktor Yushchenko, himself the victim of the September 2004 poisoning, calls for military action to be considered against Russia. ](/news/2018/03/28/former-ukrainian-president-viktor-yushchenko-himself-the-victim-of-the-september-2004-poisoning-calls-for-military-action-to-be-considered.md)
+Viktor Yushchenko, himself poisoned in 2004, says expelling diplomats is a start but military action against Russia may be needed.
 
 ##### China-North Korea relations
 ### [The governments of China and North Korea both confirm that North Korean leader Kim Jong-un met with Chinese President Xi Jinping in Beijing during the past four days. China states that North Korea is "committed to denuclearization" and willing to hold a summit with the United States. ](/news/2018/03/28/the-governments-of-china-and-north-korea-both-confirm-that-north-korean-leader-kim-jong-un-met-with-chinese-president-xi-jinping-in-beijing.md)
 North Korean leader Kim Jong Un has pledged to denuclearize and meet U.S. officials, China said on Wednesday after an historic meeting with President Xi Jinping, who promised China would uphold its friendship with its isolated neighbor.
 
 ##### New Zealand
-### [A New Zealand light aircraft pilot Rod Vaughan claims that his plane was brought down after colliding with a drone. If true, it would be the first such incident in the country. ](/news/2018/03/28/a-new-zealand-light-aircraft-pilot-rod-vaughan-claims-that-his-plane-was-brought-down-after-colliding-with-a-drone-if-true-it-would-be-the.md)
-_Context: New Zealand, drone_
+### [A New Zealand light aircraft pilot Rod Vaughan claims that his plane was brought down at Waihi after colliding with a drone. If true, it would be the first such incident in the country. ](/news/2018/03/28/a-new-zealand-light-aircraft-pilot-rod-vaughan-claims-that-his-plane-was-brought-down-at-waihi-after-colliding-with-a-drone-if-true-it-wou.md)
+_Context: New Zealand, Waihi, drone_
+
+##### Caribbean Airlines Flight 523
+### [U.S. Federal Judge Michael P. Shea of the U.S. District Court for the District of Connecticut in Hartford, Connecticut awards an injured passenger US$272,000 against Caribbean Airlines over the July 2011 airliner crash in Guyana. ](/news/2018/03/28/u-s-federal-judge-michael-p-shea-of-the-u-s-district-court-for-the-district-of-connecticut-in-hartford-connecticut-awards-an-injured-pas.md)
+_Context: Caribbean Airlines, Caribbean Airlines Flight 523, Guyana, Hartford, Connecticut, Michael P. Shea, U.S. District Court for the District of Connecticut, US$_
 
 ##### California Highway Patrol
 ### [California Highway Patrol search and rescue operations continue off the Californian coast for three children missing following a crash which killed five of their relatives. Their car drove out of a seaside unbarricaded parking lot and off of a 75-foot cliff into the sea on March 26. ](/news/2018/03/28/california-highway-patrol-search-and-rescue-operations-continue-off-the-californian-coast-for-three-children-missing-following-a-crash-which.md)
@@ -102,10 +110,6 @@ _Context: Italy, Livorno, ethyl acetate_
 ##### Durban
 ### [A partially-constructed building collapses onto a truck in Jacobs, Durban, South Africa, killing at least three people and hospitalising six more. ](/news/2018/03/28/a-partially-constructed-building-collapses-onto-a-truck-in-jacobs-durban-south-africa-killing-at-least-three-people-and-hospitalising-six.md)
 Two people have died after being trapped under a building that collapsed on a truck in the Wentworth area, south of Durban, paramedic services have said.
-
-##### Caribbean Airlines Flight 523
-### [U.S. Federal Judge Michael P. Shea of the U.S. District Court for the District of Connecticut in Hartford, Connecticut awards an injured passenger US$272,000 against Caribbean Airlines over the July 2011 airliner crash in Guyana. ](/news/2018/03/28/u-s-federal-judge-michael-p-shea-of-the-u-s-district-court-for-the-district-of-connecticut-in-hartford-connecticut-awards-an-injured-pas.md)
-_Context: Caribbean Airlines, Caribbean Airlines Flight 523, Guyana, Hartford, Connecticut, Michael P. Shea, U.S. District Court for the District of Connecticut, US$_
 
 ##### United Arab Emirates
 ### [The United Arab Emirates, with help from Korea Electric Power Corp., completes construction of the first reactor complex at the Barakah nuclear power plant 50 km west of Ruwais. The complex is the first Arab nuclear power plant. ](/news/2018/03/28/the-united-arab-emirates-with-help-from-korea-electric-power-corp-completes-construction-of-the-first-reactor-complex-at-the-barakah-nucl.md)

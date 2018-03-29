@@ -11,7 +11,7 @@ A high-ranking al-Qaida leader was killed Saturday in an American airstrike agai
 
 ### Sources:
 
-1. [Stripes](https://www.stripes.com/news/africom-us-strike-in-libya-killed-wanted-senior-al-qaida-terrorist-1.519223)
+1. [Stars and Stripes](https://www.stripes.com/news/africom-us-strike-in-libya-killed-wanted-senior-al-qaida-terrorist-1.519223)
 1. [Cover Image](https://www.stripes.com/polopoly_fs/1.498883.1511290640!/image/image.png_gen/derivatives/landscape_490/image.png)
 
 ### Changes:

@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/28/the-trial-of-noor-salman-widow-of-pulse-nightcl
 ### [2018-03-28](/news/2018/03/28/index.md)
 
 ##### Orlando nightclub shooting
-# The trial of Noor Salman, widow of Pulse nightclub shooter Omar Mateen, hears closing arguments. Jurors begin deliberations. During the trial it was revealed that both the terrorist and his father were registered FBI informants. 
+# The trial of Noor Salman, widow of Pulse nightclub shooter Omar Mateen, hears closing arguments. Jurors begin deliberations. During the trial it was revealed that Mateen's father was an FBI informant. 
 
 
 
@@ -18,7 +18,7 @@ Formats: [HTML](/news/2018/03/28/the-trial-of-noor-salman-widow-of-pulse-nightcl
 1. [The trial of Noor Salman, widow of gay club shooter Omar Mateen, hears closing arguments. Jurors begin deliberations. ](/news/2018/03/28/the-trial-of-noor-salman-widow-of-gay-club-shooter-omar-mateen-hears-closing-arguments-jurors-begin-deliberations.md) _2018-03-28 22:30:12 (First version)_
 2. [The trial of Noor Salman, widow of Pulse nightclub shooter Omar Mateen, hears closing arguments. Jurors begin deliberations. ](/news/2018/03/28/the-trial-of-noor-salman-widow-of-pulse-nightclub-shooter-omar-mateen-hears-closing-arguments-jurors-begin-deliberations.md) _2018-03-28 23:30:13 (Update)_
 3. [The trial of Noor Salman, widow of Pulse nightclub shooter Omar Mateen, hears closing arguments. Jurors begin deliberations. During the trail it was revealed that both the terrorist and his father were registered FBI informants. ](/news/2018/03/28/the-trial-of-noor-salman-widow-of-pulse-nightclub-shooter-omar-mateen-hears-closing-arguments-jurors-begin-deliberations-during-the-trai.md) _2018-03-29 00:30:11 (Update)_
-3. [The trial of Noor Salman, widow of Pulse nightclub shooter Omar Mateen, hears closing arguments. Jurors begin deliberations. During the trial it was revealed that both the terrorist and his father were registered FBI informants. ](/news/2018/03/28/the-trial-of-noor-salman-widow-of-pulse-nightclub-shooter-omar-mateen-hears-closing-arguments-jurors-begin-deliberations-during-the-tria.md) _(Current version)_
+3. [The trial of Noor Salman, widow of Pulse nightclub shooter Omar Mateen, hears closing arguments. Jurors begin deliberations. During the trial it was revealed that Mateen's father was an FBI informant. ](/news/2018/03/28/the-trial-of-noor-salman-widow-of-pulse-nightclub-shooter-omar-mateen-hears-closing-arguments-jurors-begin-deliberations-during-the-tria.md) _(Current version)_
 
 ### Related:
 
