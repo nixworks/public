@@ -19,7 +19,7 @@ Allegations of money laundering and tax evasion against king&#x27;s daughter are
 ### [Rail links to South West England are cut off by the storms. ](/news/2014/02/8/rail-links-to-south-west-england-are-cut-off-by-the-storms.md)
 Gusts as high as 80mph hit southern and western parts of the UK as all rail routes to south-west England are cut off.
 
-##### England
+##### English
 ### [Large areas of England and Wales are under flood warnings as another storm arrives. The Somerset Levels are the worst affected area. ](/news/2014/02/8/large-areas-of-england-and-wales-are-under-flood-warnings-as-another-storm-arrives-the-somerset-levels-are-the-worst-affected-area.md)
 LARGE swathes of England and Wales are on flood alert as yet another storm with winds of up to 112km/h arrives to batter Britain.
 

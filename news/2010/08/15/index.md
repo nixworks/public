@@ -65,7 +65,7 @@ Zsa Zsa Gabor&#039;s publicist says the 93-year-old actress is in an extremely s
 
 ##### Holly Walsh
 ### [Children's TV presenter Holly Walsh breaks bones and dislocates a shoulder whilst leaping from a pier during a festival in Worthing, West Sussex, England, UK; the festival is briefly halted. ](/news/2010/08/15/children-s-tv-presenter-holly-walsh-breaks-bones-and-dislocates-a-shoulder-whilst-leaping-from-a-pier-during-a-festival-in-worthing-west-su.md)
-_Context: England, Holly Walsh, West Sussex, Worthing_
+_Context: English, Holly Walsh, West Sussex, Worthing_
 
 ##### Baghdad
 ### [In Baghdad, Iraq multiple suicide bombings go off during mid-day rush hour, killing 4 and injuring about 16, another strike at 7:15am hits a mini-bus heading from Sadr City into downtown Baghdad, killing 3 including a police officer, and 9 others are wounded. Also, three other bombs go off simultaneously in a business district killing 1 and injuring 7. ](/news/2010/08/15/in-baghdad-iraq-multiple-suicide-bombings-go-off-during-mid-day-rush-hour-killing-4-and-injuring-about-16-another-strike-at-7-15am-hits-a.md)

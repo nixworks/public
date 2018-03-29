@@ -9,7 +9,7 @@ Electoral commission to rule of presidential bid by Wyclef Jean and others on Fr
 
 ##### David Paterson
 ### [David Paterson, Governor of the U.S. state of New York, is to discuss relocating the controversial Park51 Islamic community centre and mosque near World Trade Center site in New York City. ](/news/2010/08/18/david-paterson-governor-of-the-u-s-state-of-new-york-is-to-discuss-relocating-the-controversial-park51-islamic-community-centre-and-mosqu.md)
-_Context: David Paterson, Ground Zero, Muslim, New York, New York City, New York Governor, Park51, U.S. state, mosque_
+_Context: David Paterson, Ground Zero, Muslims, New York, New York City, New York Governor, Park51, U.S. state, mosque_
 
 ##### Brazil
 ### [Candidates commence daily broadcasts in Brazil ahead of general and presidential elections on 3 October. ](/news/2010/08/18/candidates-commence-daily-broadcasts-in-brazil-ahead-of-general-and-presidential-elections-on-3-october.md)

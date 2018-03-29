@@ -33,7 +33,7 @@ _Context: Central African Republic, Dembia_
 
 ##### Gunbattle
 ### [5 insurgents and 2 soldiers die in a "'gunbattle"' between Islamic rebels and Indian security forces in Kashmir. ](/news/2010/05/7/5-insurgents-and-2-soldiers-die-in-a-gunbattle-between-islamic-rebels-and-indian-security-forces-in-kashmir.md)
-_Context: India, Kashmir, Muslim, gunbattle_
+_Context: India, Kashmir, Muslims, gunbattle_
 
 ##### Nigeria
 ### [Lobbying for the role of Nigeria's new vice-president begins after Goodluck Jonathan's inauguration and Umaru Yar'Adua's death. ](/news/2010/05/7/lobbying-for-the-role-of-nigeria-s-new-vice-president-begins-after-goodluck-jonathan-s-inauguration-and-umaru-yar-adua-s-death.md)

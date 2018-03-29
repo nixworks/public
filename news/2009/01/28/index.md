@@ -7,9 +7,9 @@ Formats: [HTML](2009/01/28/index.html)  [JSON](2009/01/28/index.json)  [XML](200
 ### [ Lithuanian flag carrier FlyLAL declares bankruptcy. ](/news/2009/01/28/lithuanian-flag-carrier-flylal-declares-bankruptcy.md)
 _Context: FlyLAL, Lithuania, bankruptcy, flag carrier_
 
-##### Boeing
+##### The Boeing Company
 ### [ Boeing announces it will cut 10,000 jobs. ](/news/2009/01/28/boeing-announces-it-will-cut-10-000-jobs.md)
-_Context: Boeing, cut_
+_Context: The Boeing Company, cut_
 
 ##### United States
 ### [ The U.S. National Transportation Safety Board prepares its final report on the 2007 collision between two news helicopters in Phoenix, Arizona. ](/news/2009/01/28/the-u-s-national-transportation-safety-board-prepares-its-final-report-on-the-2007-collision-between-two-news-helicopters-in-phoenix-ariz.md)

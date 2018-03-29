@@ -17,7 +17,7 @@ The judge reversed an order issued this week that the 9-month-old girl be remove
 
 ##### China-Indonesia relations
 ### [ Indonesia announces that it is planning to take China to court over the Natuna Islands. ](/news/2015/11/14/indonesia-announces-that-it-is-planning-to-take-china-to-court-over-the-natuna-islands.md)
-_Context: China, China-Indonesia relations, Indonesia, Natuna, tensions in the region_
+_Context: China-Indonesia relations, Chinese, Indonesia, Natuna, tensions in the region_
 
 ##### Light aircraft
 ### [Four people are killed after a light aircraft crashes near the village of Churchstanton in Somerset. ](/news/2015/11/14/four-people-are-killed-after-a-light-aircraft-crashes-near-the-village-of-churchstanton-in-somerset.md)

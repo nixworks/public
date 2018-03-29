@@ -37,7 +37,7 @@ _Context: George W. Bush, President, U.S. Navy, U.S. federal court, judge, sonar
 
 ##### Congress of France
 ### [ The Versailles Assembly, bringing together both the French Senate and the Chamber of Deputies, votes 560 to 181 in favour of amending the constitution to allow adoption of the EU Lisbon Treaty. ](/news/2008/02/4/the-versailles-assembly-bringing-together-both-the-french-senate-and-the-chamber-of-deputies-votes-560-to-181-in-favour-of-amending-the-c.md)
-_Context: Congress of France, Constitution of France, EU, France, National Assembly, Senate, Treaty of Lisbon_
+_Context: Congress of France, Constitution of France, European Union, France, National Assembly, Senate, Treaty of Lisbon_
 
 ## [Previous Day...](/news/2008/02/3/index.md)
 

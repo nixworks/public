@@ -5,7 +5,7 @@ Formats: [HTML](2007/06/4/index.html)  [JSON](2007/06/4/index.json)  [XML](2007/
 
 ##### London Organising Committee for the Olympic Games
 ### [ The London Organising Committee for the Olympic Games unveils the official logo for the 2012 Summer Olympics and 2012 Paralympics, to be held in London, England. ](/news/2007/06/4/the-london-organising-committee-for-the-olympic-games-unveils-the-official-logo-for-the-2012-summer-olympics-and-2012-paralympics-to-be-he.md)
-_Context: 2012 Paralympics, 2012 Summer Olympics, England, London, London Organising Committee for the Olympic Games, logo_
+_Context: 2012 Paralympics, 2012 Summer Olympics, English, London, London Organising Committee for the Olympic Games, logo_
 
 ##### War crimes
 ### [ The war crimes trial of former President of Liberia Charles G. Taylor at the UN-backed Special Court for Sierra Leone begins at The Hague. ](/news/2007/06/4/the-war-crimes-trial-of-former-president-of-liberia-charles-g-taylor-at-the-un-backed-special-court-for-sierra-leone-begins-at-the-hague.md)
@@ -15,9 +15,9 @@ _Context: Charles G. Taylor, President of Liberia, Special Court for Sierra Leon
 ### [ Two Red Cross aid workers are found dead after being detained for questioning by unknown men claiming to be police. ](/news/2007/06/4/two-red-cross-aid-workers-are-found-dead-after-being-detained-for-questioning-by-unknown-men-claiming-to-be-police.md)
 _Context: Red Cross, aid workers are found dead_
 
-##### China
+##### Chinese
 ### [ China publishes its first National Action Plan on Climate Change, expected to cut national carbon emissions by up to 1.5 million metric tons annually by 2010. ](/news/2007/06/4/china-publishes-its-first-national-action-plan-on-climate-change-expected-to-cut-national-carbon-emissions-by-up-to-1-5-million-metric-ton.md)
-_Context: China, National Action Plan on Climate Change, carbon emissions_
+_Context: Chinese, National Action Plan on Climate Change, carbon emissions_
 
 ##### Russian President
 ### [ Russian President Vladimir Putin announces that Russia may consider targeting new sites across Europe with nuclear weapons if part of the United States' nuclear capability is introduced into Europe. ](/news/2007/06/4/russian-president-vladimir-putin-announces-that-russia-may-consider-targeting-new-sites-across-europe-with-nuclear-weapons-if-part-of-the-u.md)

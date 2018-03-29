@@ -11,9 +11,9 @@ _Context: Anders Fogh Rasmussen, Prime Minister of Denmark, early parliamentary 
 ### [ The Pakistan Peoples Party claims that its leader, former Prime Minister of Pakistan Benazir Bhutto, has been forbidden to leave the country. ](/news/2007/10/24/the-pakistan-peoples-party-claims-that-its-leader-former-prime-minister-of-pakistan-benazir-bhutto-has-been-forbidden-to-leave-the-countr.md)
 _Context: Benazir Bhutto, Pakistan Peoples Party, Prime Minister_
 
-##### China
+##### Chinese
 ### [ China launches its first lunar orbiter, Chang'e 1, on an exploration mission to the moon. ](/news/2007/10/24/china-launches-its-first-lunar-orbiter-chang-e-1-on-an-exploration-mission-to-the-moon.md)
-_Context: Chang'e 1, China_
+_Context: Chang'e 1, Chinese_
 
 ##### Turkey-PKK conflict
 ### [ Reuters reports that Turkish forces launched an attack on Kurdistan Workers Party (PKK) positions in northern Iraq earlier in the week killing 34 PKK fighters. ](/news/2007/10/24/reuters-reports-that-turkish-forces-launched-an-attack-on-kurdistan-workers-party-pkk-positions-in-northern-iraq-earlier-in-the-week-kill.md)

@@ -11,9 +11,9 @@ _Context: European Patent Convention, London Agreement on translation of Europea
 ### [ Aden Hashi Farah "Eyrow", a leader of Al-Shabaab in Somalia, is reported as being killed in a U.S. airstrike. ](/news/2008/05/1/aden-hashi-farah-eyrow-a-leader-of-al-shabaab-in-somalia-is-reported-as-being-killed-in-a-u-s-airstrike.md)
 _Context: Aden Hashi Farah "Eyrow", Al-Shabaab, Somalia, airstrike_
 
-##### England
+##### English
 ### [ Voters in England and Wales go to the polls for the United Kingdom local elections, 2008. Early results showed the opposition Conservative Party performing strongly with 44 per cent of the vote while the governing Labour Party was performing poorly with 24 per cent of the vote.](/news/2008/05/1/voters-in-england-and-wales-go-to-the-polls-for-the-united-kingdom-local-elections-2008-early-results-showed-the-opposition-conservative.md)
-_Context: Conservative Party, England, Labour Party, Wales, local elections_
+_Context: Conservative Party, English, Labour Party, Wales, local elections_
 
 ##### Australia
 ### [ In Australia, a collision between a fishing boat and a runabout on Sydney Harbour kills five people. ](/news/2008/05/1/in-australia-a-collision-between-a-fishing-boat-and-a-runabout-on-sydney-harbour-kills-five-people.md)

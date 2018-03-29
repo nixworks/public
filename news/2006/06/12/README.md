@@ -17,7 +17,7 @@ _Context: North Korea, Taepodong-2, United States, intercontinental ballistic mi
 
 ##### Albania
 ### [ Albania signs a Stabilisation and Association Agreement, a first step toward joining the European Union. ](/news/2006/06/12/albania-signs-a-stabilisation-and-association-agreement-a-first-step-toward-joining-the-european-union.md)
-_Context: Albania, Association Agreement, EU, European Union candidacy, signs_
+_Context: Albania, Association Agreement, European Union, European Union candidacy, signs_
 
 ##### Tropical Storm Alberto
 ### [ Tropical Storm Alberto threatens to hit the Northwest coast of Florida, United States. Hurricane warnings are issued and Gov. Jeb Bush declares a state of emergency. Mandatory evacuations are ordered for low-lying areas. ](/news/2006/06/12/tropical-storm-alberto-threatens-to-hit-the-northwest-coast-of-florida-united-states-hurricane-warnings-are-issued-and-gov-jeb-bush-decl.md)

@@ -17,7 +17,7 @@ _Context: Bangladesh, Calcutta, Dhaka, India, train_
 
 ##### Nabucco
 ### [ Nabucco Pipeline: Turkmenistan agrees to supply 10 billion cubic metres of natural gas to the European Union per annum, to reduce the bloc's dependence on gas from Russia. ](/news/2008/04/14/nabucco-pipeline-turkmenistan-agrees-to-supply-10-billion-cubic-metres-of-natural-gas-to-the-european-union-per-annum-to-reduce-the-bloc.md)
-_Context: EU, Nabucco, Russia, Turkmenistan, natural gas_
+_Context: European Union, Nabucco, Russia, Turkmenistan, natural gas_
 
 ##### Silvio Berlusconi
 ### [ Silvio Berlusconi is re-elected for the third time as the Prime Minister of Italy. ](/news/2008/04/14/silvio-berlusconi-is-re-elected-for-the-third-time-as-the-prime-minister-of-italy.md)

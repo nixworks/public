@@ -15,9 +15,9 @@ _Context: Florida, Miami, United States, shooting_
 ### [ The center-right Citizens for European Development of Bulgaria party wins big in the Bulgarian parliamentary elections ](/news/2009/07/6/the-center-right-citizens-for-european-development-of-bulgaria-party-wins-big-in-the-bulgarian-parliamentary-elections.md)
 _Context: Bulgarian parliamentary elections, GERB_
 
-##### EU
+##### European Union
 ### [ European Union foreign policy chief Javier Solana says he will not seek another term in office. ](/news/2009/07/6/european-union-foreign-policy-chief-javier-solana-says-he-will-not-seek-another-term-in-office.md)
-_Context: EU, Javier Solana_
+_Context: European Union, Javier Solana_
 
 ##### Bolivia
 ### [ Bolivian drug enforcement officials raid what they call the biggest cocaine laboratory ever found in their country. ](/news/2009/07/6/bolivian-drug-enforcement-officials-raid-what-they-call-the-biggest-cocaine-laboratory-ever-found-in-their-country.md)

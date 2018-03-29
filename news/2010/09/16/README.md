@@ -25,7 +25,7 @@ _Context: Burma, general elections_
 
 ##### Imran Farooq
 ### [Dr Imran Farooq, an exiled leader of Pakistan's Muttahida Qaumi Movement (MQM) is murdered in the North London suburb of Edgware, England leading to schools and shops being closed in Farooq's home city of Karachi. ](/news/2010/09/16/dr-imran-farooq-an-exiled-leader-of-pakistan-s-muttahida-qaumi-movement-mqm-is-murdered-in-the-north-london-suburb-of-edgware-england-le.md)
-_Context: Edgware, England, Imran Farooq, Karachi, London, Muttahida Qaumi Movement, Pakistan_
+_Context: Edgware, English, Imran Farooq, Karachi, London, Muttahida Qaumi Movement, Pakistan_
 
 ##### United Nations
 ### [The United Nations-backed Extraordinary Chambers in the Courts of Cambodia indict four Khmer Rouge leaders for genocide, war crimes and crimes against humanity for their role in the regime in the late 1970s, including Pol Pot's deputy Nuon Chea, former Foreign Minister Ieng Sary, Social Affairs minister Ieng Thirith and head of state Khieu Samphan. ](/news/2010/09/16/the-united-nations-backed-extraordinary-chambers-in-the-courts-of-cambodia-indict-four-khmer-rouge-leaders-for-genocide-war-crimes-and-crim.md)

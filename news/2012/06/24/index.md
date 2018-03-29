@@ -7,7 +7,7 @@ Formats: [HTML](2012/06/24/index.html)  [JSON](2012/06/24/index.json)  [XML](201
 ### [Lonesome George, the last known Pinta Island Tortoise, is found dead in the Galapagos Islands. ](/news/2012/06/24/lonesome-george-the-last-known-pinta-island-tortoise-is-found-dead-in-the-galapagos-islands.md)
 Lonesome George, a giant tortoise which became an icon for conservation on the Galapagos islands, has died, making its subspecies extinct.
 
-##### China
+##### Chinese
 ### [China successfully carries out its first manual docking of a spacecraft between the Shenzhou 9 capsule and Tiangong-1 station. ](/news/2012/06/24/china-successfully-carries-out-its-first-manual-docking-of-a-spacecraft-between-the-shenzhou-9-capsule-and-tiangong-1-station.md)
 China successfully carries out its first ever manual docking of a spacecraft, the Shenzhou-9, with another space module.
 
@@ -33,7 +33,7 @@ Turkish media reports that plane wreckage was found in Syrian waters, as NATO sc
 
 ##### Antonis Samaras
 ### [Antonis Samaras, the Prime Minister of Greece, is to miss a European Union summit as he recovers from an eye operation. ](/news/2012/06/24/antonis-samaras-the-prime-minister-of-greece-is-to-miss-a-european-union-summit-as-he-recovers-from-an-eye-operation.md)
-_Context: Antonis Samaras, EU, Greek Prime Minister_
+_Context: Antonis Samaras, European Union, Greek Prime Minister_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI chooses Fox News reporter and Opus Dei member Greg Burke to take a strategic communication role in the Vatican's most important government department, the secretariat of state. ](/news/2012/06/24/pope-benedict-xvi-chooses-fox-news-reporter-and-opus-dei-member-greg-burke-to-take-a-strategic-communication-role-in-the-vatican-s-most-impo.md)

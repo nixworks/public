@@ -45,7 +45,7 @@ _Context: Argentina, Germany, Jorge Rafael Videla, Nuremberg, arrest warrant_
 
 ##### United States
 ### [Former U.S. Air Force lieutenant colonel James Fondren is sentenced to three years in prison for providing classified documents to Chinese spy Tai Shen Kuo. ](/news/2010/01/22/former-u-s-air-force-lieutenant-colonel-james-fondren-is-sentenced-to-three-years-in-prison-for-providing-classified-documents-to-chinese-s.md)
-_Context: China, James Fondren, Tai Shen Kuo, U.S. Air Force, United States, classified document, espionage, lieutenant colonel, prison_
+_Context: Chinese, James Fondren, Tai Shen Kuo, U.S. Air Force, United States, classified document, espionage, lieutenant colonel, prison_
 
 ##### United States
 ### [A U.S. Justice Department task force recommends 47 Guantanamo Bay detainees should be held indefinitely without charge. ](/news/2010/01/22/a-u-s-justice-department-task-force-recommends-47-guantanamo-bay-detainees-should-be-held-indefinitely-without-charge.md)

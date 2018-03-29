@@ -17,7 +17,7 @@ Palestinian president condemns PLO criticism as factions prepare to meet Egyptia
 
 ##### Heavy snow
 ### [ Heavy snow across England closes London City Airport and one runway of Heathrow Airport and shuts down all public transport in London. ](/news/2009/02/2/heavy-snow-across-england-closes-london-city-airport-and-one-runway-of-heathrow-airport-and-shuts-down-all-public-transport-in-london.md)
-_Context: England, Heavy snow, London, London City Airport, London Heathrow Airport, public transport_
+_Context: English, Heavy snow, London, London City Airport, London Heathrow Airport, public transport_
 
 ##### Japan
 ### [ Japan's Mount Asama erupts. ](/news/2009/02/2/japan-s-mount-asama-erupts.md)

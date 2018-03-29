@@ -11,7 +11,7 @@ _Context: Commission on Human Rights, Philippines, kill_
 ### [ Austrian right-wing politician and Governor of Carinthia Jorg Haider is killed in an automobile accident near Klagenfurt in Carinthia, his political stronghold. ](/news/2008/10/11/austrian-right-wing-politician-and-governor-of-carinthia-japrg-haider-is-killed-in-an-automobile-accident-near-klagenfurt-in-carinthia-his.md)
 _Context: Austria, Carinthia, Governor, Jorg Haider, Klagenfurt_
 
-##### EU
+##### European Union
 ### [ European Union monitors in Georgia confirm that Russia has met the withdrawal deadline. ](/news/2008/10/11/european-union-monitors-in-georgia-confirm-that-russia-has-met-the-withdrawal-deadline.md)
 EU MONITORS in Georgia have confirmed that Russian forces have dismantled 17 checkpoints, one signals post and one military base&hellip;
 

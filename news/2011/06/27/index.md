@@ -31,7 +31,7 @@ _Context: Afghan, Blackwater Worldwide, involuntary manslaughter_
 ### [A jury convicts former Governor of the US state of Illinois Rod Blagojevich on seventeen charges of corruption. ](/news/2011/06/27/a-jury-convicts-former-governor-of-the-us-state-of-illinois-rod-blagojevich-on-seventeen-charges-of-corruption.md)
 A federal jury Monday convicted Rod Blagojevich of sweeping corruption, putting an end to a tragicomic legal and political drama that brought downIllinois’ showy and would-be populist former governor.
 
-##### EU
+##### European Union
 ### [Police clash with local residents who object to Italian government plans to build a European Union-funded rail link with France near their homes in the Italian Alps. The police intervention follows a peaceful candlelight nighttime prayer vigil featuring thousands of people. ](/news/2011/06/27/police-clash-with-local-residents-who-object-to-italian-government-plans-to-build-a-european-union-funded-rail-link-with-france-near-their-h.md)
 Police break down barricades erected by opponents of a new tunnel being bored through the Italian Alps for a high-speed rail link with France.
 
@@ -67,7 +67,7 @@ The Sudanese president was scheduled to arrive in China on Monday, but the visit
 ### [The United States Government publishes the Trafficking In Persons report, naming those countries that are not meeting minimum standards against human trafficking and slavery, and which may be subject to US sanctions as a result. ](/news/2011/06/27/the-united-states-government-publishes-the-trafficking-in-persons-report-naming-those-countries-that-are-not-meeting-minimum-standards-agai.md)
 _Context: Trafficking In Persons, U.S. government, human trafficking, sanctions, slavery_
 
-##### England
+##### English
 ### [Trains in England are cancelled due to extreme heat. ](/news/2011/06/27/trains-in-england-are-cancelled-due-to-extreme-heat.md)
 Overheated power lines continue to cause train delays and cancellations between London Liverpool Street and most parts of the East.
 

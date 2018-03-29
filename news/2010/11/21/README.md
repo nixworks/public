@@ -53,7 +53,7 @@ Rescue operations are taking place in south-west China to try to reach 28 miners
 
 ##### Yushe
 ### [A chemical factory explodes in Yushe county, North China's Shanxi province, killing at least three. ](/news/2010/11/21/a-chemical-factory-explodes-in-yushe-county-north-china-s-shanxi-province-killing-at-least-three.md)
-_Context: North China, Shanxi province, Yushe_
+_Context: North China, Shanxi, Yushe_
 
 ##### Financial crisis
 ### [Minister for Finance Brian Lenihan, Jnr applies for an international bailout to deal with the Irish financial crisis. ](/news/2010/11/21/minister-for-finance-brian-lenihan-jnr-applies-for-an-international-bailout-to-deal-with-the-irish-financial-crisis.md)

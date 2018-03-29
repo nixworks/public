@@ -37,7 +37,7 @@ Polls have opened in the third round of India&#039;s month-long elections, with 
 
 ##### Attacked
 ### [ Seven people are killed and 17 injured at a Queen's Day parade in Apeldoorn, Netherlands. ](/news/2009/04/30/seven-people-are-killed-and-17-injured-at-a-queen-s-day-parade-in-apeldoorn-netherlands.md)
-_Context: Apeldoorn, Dutch, Queen's Day, attacked, parade_
+_Context: Apeldoorn, Netherlands, Queen's Day, attacked, parade_
 
 ##### Chrysler
 ### [ Chrysler declares bankruptcy under Chapter 11 of the United States Code. ](/news/2009/04/30/chrysler-declares-bankruptcy-under-chapter-11-of-the-united-states-code.md)

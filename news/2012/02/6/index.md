@@ -33,7 +33,7 @@ _Context: 2012 Negros Oriental earthquake, Guihulngan, Negros Island, Philippine
 
 ##### Greek government debt crisis
 ### [Greek government debt crisis: The government of Greece fails to reach agreement over the terms of a new bailout from the European Union, but retracts the deadline they had given themselves to do so, 30 minutes before the deadline would have passed. ](/news/2012/02/6/greek-government-debt-crisis-the-government-of-greece-fails-to-reach-agreement-over-the-terms-of-a-new-bailout-from-the-european-union-but.md)
-_Context: EU, Greek government debt crisis, government of Greece_
+_Context: European Union, Greek government debt crisis, government of Greece_
 
 ##### Spanish politicians
 ### [Spanish artist Antoni Tapies, a pioneer of abstract art, dies in Barcelona at the age of 88. ](/news/2012/02/6/spanish-artist-antoni-ta-pies-a-pioneer-of-abstract-art-dies-in-barcelona-at-the-age-of-88.md)

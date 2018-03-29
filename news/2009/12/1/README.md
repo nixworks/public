@@ -3,9 +3,9 @@ Formats: [HTML](2009/12/1/index.html)  [JSON](2009/12/1/index.json)  [XML](2009/
 
 ## [2009-12-1](/news/2009/12/1/index.md)
 
-##### EU
+##### European Union
 ### [ The European Union now has legal personality and has acquired the competences previously conferred on the European Community. Community law therefore becomes European Union law. ](/news/2009/12/1/the-european-union-now-has-legal-personality-and-has-acquired-the-competences-previously-conferred-on-the-european-community-community-law.md)
-_Context: EU, European Community_
+_Context: European Community, European Union_
 
 ##### Tony Abbott
 ### [ Tony Abbott becomes the leader of the Federal Liberal Party of Australia and Leader of the Opposition defeating Malcolm Turnbull by 42 votes to 41 following a party revolt over its position on the Rudd government's Carbon Pollution Reduction Scheme. ](/news/2009/12/1/tony-abbott-becomes-the-leader-of-the-federal-liberal-party-of-australia-and-leader-of-the-opposition-defeating-malcolm-turnbull-by-42-vote.md)

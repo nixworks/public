@@ -59,13 +59,13 @@ _Context: Parliament of Slovakia, eurozone_
 ### [The Senate of the United States passes the Currency Exchange Rate Oversight Reform Act of 2011 designed to press the People's Republic of China to raise the value of the Renminbi. ](/news/2011/10/11/the-senate-of-the-united-states-passes-the-currency-exchange-rate-oversight-reform-act-of-2011-designed-to-press-the-people-s-republic-of-ch.md)
 The U.S. Senate on Tuesdayvoted to pass legislation designed to press China to let itsyuan currency rise in value, sending the bill to the House ofRepresentatives, whose leaders have criticized the measure.
 
-##### EU
+##### European Union
 ### [The EU imposes further sanctions on Belarus, Iran, and Syria, expresses support for Libya's National Transitional Council, and reiterates call for Syria's President Bashar al-Assad to step down. ](/news/2011/10/11/the-eu-imposes-further-sanctions-on-belarus-iran-and-syria-expresses-support-for-libya-s-national-transitional-council-and-reiterates-ca.md)
-_Context: Bashar al-Assad, Belarus, EU, Iran, Libya, National Transitional Council, President, Syria_
+_Context: Bashar al-Assad, Belarus, European Union, Iran, Libya, National Transitional Council, President, Syria_
 
-##### China
+##### Chinese
 ### [China follows Russian admonishment of the Syrian government while the opposition Syrian National Council gains support in Egypt and is recognized by Libya. ](/news/2011/10/11/china-follows-russian-admonishment-of-the-syrian-government-while-the-opposition-syrian-national-council-gains-support-in-egypt-and-is-recog.md)
-_Context: China, Egypt, Libya, Russia, Syrian, Syrian National Council_
+_Context: Chinese, Egypt, Libya, Russia, Syrian, Syrian National Council_
 
 ## [Previous Day...](/news/2011/10/10/index.md)
 

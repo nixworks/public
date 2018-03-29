@@ -43,9 +43,9 @@ Australia&#39;s News Limited has sold the Fiji Times for an undisclosed sum to F
 ### [Japan intervenes in the foreign exchange market for the first time in six years to reduce the exchange rate for the yen in order to stimulate the Japanese economy. ](/news/2010/09/15/japan-intervenes-in-the-foreign-exchange-market-for-the-first-time-in-six-years-to-reduce-the-exchange-rate-for-the-yen-in-order-to-stimulat.md)
 _Context: Economy of Japan, Japan, exchange rate, foreign exchange market, yen_
 
-##### China
+##### Chinese
 ### [A Chinese survey shows that 91 percent of the population oppose raising retirement age. The retirement age in China is generally set at 60 for men and 50-55 for women. ](/news/2010/09/15/a-chinese-survey-shows-that-91-percent-of-the-population-oppose-raising-retirement-age-the-retirement-age-in-china-is-generally-set-at-60-f.md)
-_Context: China, retirement_
+_Context: Chinese, retirement_
 
 ##### United States
 ### [United States cartoonist Molly Norris of Seattle, Washington, who developed Everybody Draw Mohammed Day, goes into hiding following a death threat from an Islamist radical. ](/news/2010/09/15/united-states-cartoonist-molly-norris-of-seattle-washington-who-developed-everybody-draw-mohammed-day-goes-into-hiding-following-a-death.md)

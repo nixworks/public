@@ -17,7 +17,7 @@ The conservative Republican&#x27;s days in office could be numbered as the state
 
 ##### Neil Gorsuch Supreme Court nomination
 ### [President Donald Trump's pick for the U.S. Supreme Court, Neil Gorsuch, is sworn in at the White House. ](/news/2017/04/10/president-donald-trump-s-pick-for-the-u-s-supreme-court-neil-gorsuch-is-sworn-in-at-the-white-house.md)
-_Context: Neil Gorsuch, Neil Gorsuch Supreme Court nomination, Trump, U.S. Supreme Court, White House_
+_Context: Donald Trump, Neil Gorsuch, Neil Gorsuch Supreme Court nomination, U.S. Supreme Court, White House_
 
 ##### Pakistan
 ### [ Pakistan sentences former Indian Navy officer Kulbhushan Yadav to death for espionage and sabotage. ](/news/2017/04/10/pakistan-sentences-former-indian-navy-officer-kulbhushan-yadav-to-death-for-espionage-and-sabotage.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/28/iraqi-authorities-announce-the-arrest-of-allege
 
 ### [2018-03-28](/news/2018/03/28/index.md)
 
-##### Iraq
+##### Iraqi Civil War (2014-present)
 # Iraqi authorities announce the arrest of alleged senior Islamic State member Saab Abdullah al-Issawi in a military-supported airdrop in Anbar. 
 
 
@@ -15,8 +15,8 @@ Formats: [HTML](/news/2018/03/28/iraqi-authorities-announce-the-arrest-of-allege
 
 ### Related:
 
-1. [ISIL releases a statement claiming responsibility for killing or wounding 103 Iraqi soldiers within one month. The group also claims to have abducted 13 more soldiers, and destroyed 12 armoured vehicles. ](/news/2018/03/25/isil-releases-a-statement-claiming-responsibility-for-killing-or-wounding-103-iraqi-soldiers-within-one-month-the-group-also-claims-to-have.md) _Context: Iraq_
-2. [Indian external affairs minister Sushma Swaraj tells Parliament DNA testing on remains in a mass grave in Iraq confirms 39 Indian nationals believed to have been kidnapped by ISIL have been killed. ](/news/2018/03/20/indian-external-affairs-minister-sushma-swaraj-tells-parliament-dna-testing-on-remains-in-a-mass-grave-in-iraq-confirms-39-indian-nationals.md) _Context: Iraq_
-3. [A U.S. Air Force HH-60 Pave Hawk helicopter crashes near Al-Qa'im in Iraq's western Al Anbar Governorate, killing all seven people on board. ](/news/2018/03/15/a-u-s-air-force-hh-60-pave-hawk-helicopter-crashes-near-al-qa-im-in-iraq-s-western-al-anbar-governorate-killing-all-seven-people-on-board.md) _Context: Iraq_
-4. [An Iraqi court sentences 15 Turkish women to death by hanging after they were found guilty of joining the ISIS group as brides. ](/news/2018/02/25/an-iraqi-court-sentences-15-turkish-women-to-death-by-hanging-after-they-were-found-guilty-of-joining-the-isis-group-as-brides.md) _Context: Iraq_
-5. [President of Turkey Recep Tayyip Erdogan says the Afrin offensive, as announced, is now to turn east, towards Manbij and the border with Iraq. ](/news/2018/01/26/president-of-turkey-recep-tayyip-erdoaan-says-the-afrin-offensive-as-announced-is-now-to-turn-east-towards-manbij-and-the-border-with-ir.md) _Context: Iraq_
+1. [ISIL releases a statement claiming responsibility for killing or wounding 103 Iraqi soldiers within one month. The group also claims to have abducted 13 more soldiers, and destroyed 12 armoured vehicles. ](/news/2018/03/25/isil-releases-a-statement-claiming-responsibility-for-killing-or-wounding-103-iraqi-soldiers-within-one-month-the-group-also-claims-to-have.md) _Context: Iraq, Iraqi Civil War (2014-present)_
+2. [A double suicide bombing kills at least 35 people and injures over 90 in Baghdad, Iraq. ](/news/2018/01/15/a-double-suicide-bombing-kills-at-least-35-people-and-injures-over-90-in-baghdad-iraq.md) _Context: Iraq, Iraqi Civil War (2014-present)_
+3. [The Iraqi Armed Forces enter the town of Al-Qa'im, close to the border with Syria. Al-Qa'im is one of the last towns in Iraq still held by ISIL. ](/news/2017/11/3/the-iraqi-armed-forces-enter-the-town-of-al-qa-im-close-to-the-border-with-syria-al-qa-im-is-one-of-the-last-towns-in-iraq-still-held-by-i.md) _Context: Iraq, Iraqi Civil War (2014-present)_
+4. [The pro-government Popular Mobilization Forces militia takes control of the mostly destroyed ancient city of Hatra in Iraq's Nineveh Governorate, following clashes with ISIL, who seized the ruins in 2014. ](/news/2017/04/26/the-pro-government-popular-mobilization-forces-militia-takes-control-of-the-mostly-destroyed-ancient-city-of-hatra-in-iraq-s-nineveh-governo.md) _Context: Iraq, Iraqi Civil War (2014-present)_
+5. [Suicide bombers strike in the cities of Tikrit and Samarra in Iraq, killing at least 21. ](/news/2016/11/6/suicide-bombers-strike-in-the-cities-of-tikrit-and-samarra-in-iraq-killing-at-least-21.md) _Context: Iraq, Iraqi Civil War (2014-present)_

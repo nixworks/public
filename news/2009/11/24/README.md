@@ -33,7 +33,7 @@ _Context: Iraq War, United Kingdom, inquiry opens_
 
 ##### European Parliament
 ### [ The European Parliament approves a major overhaul of telecommunications systems in the European Union aimed at boosting the rights of mobile and internet users. ](/news/2009/11/24/the-european-parliament-approves-a-major-overhaul-of-telecommunications-systems-in-the-european-union-aimed-at-boosting-the-rights-of-mobil.md)
-_Context: EU, European Parliament_
+_Context: European Parliament, European Union_
 
 ##### Russia
 ### [ Russian President Dmitry Medvedev orders an investigation into the death of an anti-corruption lawyer Sergei Magnitsky who died in prison while awaiting trial on charges of tax evasion. ](/news/2009/11/24/russian-president-dmitry-medvedev-orders-an-investigation-into-the-death-of-an-anti-corruption-lawyer-sergei-magnitsky-who-died-in-prison-w.md)

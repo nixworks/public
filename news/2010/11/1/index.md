@@ -49,7 +49,7 @@ Shareholders of Washington Mutual Inc are &quot;highly unlikely&quot; to recover
 
 ##### India
 ### [India and China help boost Asian shares outside Japan by 1.7%. ](/news/2010/11/1/india-and-china-help-boost-asian-shares-outside-japan-by-1-7.md)
-_Context: China, India, Japan_
+_Context: Chinese, India, Japan_
 
 ##### China
 ### [The People's Republic of China begins its first census in ten years. ](/news/2010/11/1/the-people-s-republic-of-china-begins-its-first-census-in-ten-years.md)

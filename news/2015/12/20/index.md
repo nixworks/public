@@ -29,7 +29,7 @@ _Context: Arctic, Longyearbyen, Norges Geotekniske Institutt, Norwegian, Svalbar
 
 ##### 2015 Shenzhen landslide
 ### [Thirty-three buildings collapse after a landslide hit an industrial park in Shenzhen, China, leaving at least 91 people missing. ](/news/2015/12/20/thirty-three-buildings-collapse-after-a-landslide-hit-an-industrial-park-in-shenzhen-china-leaving-at-least-91-people-missing.md)
-_Context: 2015 Shenzhen landslide, China, Shenzhen_
+_Context: 2015 Shenzhen landslide, Chinese, Shenzhen_
 
 ##### Knottingley
 ### [Thousands, including families, children, and miners from around the country, march from Knottingley to North Yorkshire to mark the end of deep coal mining in the United Kingdom. The last facility, Kellingley Colliery in Beal, North Yorkshire, closed down, Friday, 18 December 2015. The march was organized by two miners' wives to pay tribute to this industry. ](/news/2015/12/20/thousands-including-families-children-and-miners-from-around-the-country-march-from-knottingley-to-north-yorkshire-to-mark-the-end-of-de.md)
@@ -49,7 +49,7 @@ _Context: Free Syrian Army, Hezbollah, Israel, Jaramana, Lebanese, National Defe
 
 ##### Tensions in the region
 ### [Vietnam is reported to be preparing for a possible military conflict with China over territorial claims in the South China Sea. ](/news/2015/12/20/vietnam-is-reported-to-be-preparing-for-a-possible-military-conflict-with-china-over-territorial-claims-in-the-south-china-sea.md)
-_Context: China, China-Vietnam relations, South China Sea, Vietnam, tensions in the region_
+_Context: China-Vietnam relations, Chinese, South China Sea, Vietnam, tensions in the region_
 
 ##### Paris
 ### [Air France Flight 463 en-route to Paris from Mauritius makes an emergency landing in Mombasa, Kenya, after a package, suspected to be a bomb is found in the toilet. Later, Air France CEO Frederic Gagey says it was a false alarm; the package contained a mixture of cardboard, sheets of paper, and a timer. ](/news/2015/12/20/air-france-flight-463-en-route-to-paris-from-mauritius-makes-an-emergency-landing-in-mombasa-kenya-after-a-package-suspected-to-be-a-bomb.md)

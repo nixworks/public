@@ -53,7 +53,7 @@ _Context: Bashkortostan, Republic, Russia, Sterlitamak_
 
 ##### Wythenshawe Hall
 ### [A fire severely damages the 16th century Wythenshawe Hall, near Manchester, England. ](/news/2016/03/15/a-fire-severely-damages-the-16th-century-wythenshawe-hall-near-manchester-england.md)
-_Context: England, Manchester, Wythenshawe Hall_
+_Context: English, Manchester, Wythenshawe Hall_
 
 ##### Metro system
 ### [The entire Washington D.C. Metro system will shut down for 29 hours beginning at midnight Wednesday for an emergency investigation after an electric cable caught fire on Monday. ](/news/2016/03/15/the-entire-washington-d-c-metro-system-will-shut-down-for-29-hours-beginning-at-midnight-wednesday-for-an-emergency-investigation-after-an.md)

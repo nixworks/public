@@ -31,9 +31,9 @@ _Context: President of Zimbabwe, Robert Mugabe, Zimbabwe, commuter_
 ### [ In the Western Districts of Nepal, nearly 50 people are killed in clashes between Nepalese troops and Maoist rebels. ](/news/2004/12/16/in-the-western-districts-of-nepal-nearly-50-people-are-killed-in-clashes-between-nepalese-troops-and-maoist-rebels.md)
 _Context: Maoist, Nepal, Western Districts_
 
-##### EU
+##### European Union
 ### [ Leaders of the European Union, meeting in Brussels, agree to invite Turkey to begin negotiations to join the EU from 3 October 2005, about 36 years after they first applied to join. ](/news/2004/12/16/leaders-of-the-european-union-meeting-in-brussels-agree-to-invite-turkey-to-begin-negotiations-to-join-the-eu-from-3-october-2005-about.md)
-_Context: Accession of Turkey to the European Union, Brussels, EU, Turkey_
+_Context: Accession of Turkey to the European Union, Brussels, European Union, Turkey_
 
 ##### Marc Dutroux
 ### [ Belgian child killer Marc Dutroux loses an appeal against his life sentence. ](/news/2004/12/16/belgian-child-killer-marc-dutroux-loses-an-appeal-against-his-life-sentence.md)

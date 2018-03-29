@@ -53,7 +53,7 @@ _Context: Pitcairn Island, Pitcairn sexual assault trial of 2004, Steve Christia
 
 ##### Microsoft
 ### [ Microsoft announces it will pay Novell USD $536 million to settle its ten-year-long antitrust suit and will pay legal costs incurred by the Computer and Communications Industry Association (CCIA). In return, CCIA will not pursue its arguments in favor of the European Union's antitrust suit. ](/news/2004/11/7/microsoft-announces-it-will-pay-novell-usd-536-million-to-settle-its-ten-year-long-antitrust-suit-and-will-pay-legal-costs-incurred-by-the.md)
-_Context: CCIA, EU, Microsoft, Novell, USD, antitrust_
+_Context: CCIA, European Union, Microsoft, Novell, USD, antitrust_
 
 ##### James Robertson 
 ### [ U.S. Federal District Judge James Robertson rules that the system of tribunals set up by the United States military to try and sentence prisoners being held at Guantanamo Bay is illegal. ](/news/2004/11/7/u-s-federal-district-judge-james-robertson-rules-that-the-system-of-tribunals-set-up-by-the-united-states-military-to-try-and-sentence-pri.md)

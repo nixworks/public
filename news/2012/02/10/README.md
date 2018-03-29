@@ -91,9 +91,9 @@ _Context: Afghanistan, Leon Panetta, Marine, Nazi, Schutzstaffel, United States 
 ### [Secessionists battle with forces from Somaliland near the border with Puntland in northern Somalia. ](/news/2012/02/10/secessionists-battle-with-forces-from-somaliland-near-the-border-with-puntland-in-northern-somalia.md)
 _Context: Puntland, Somalia, Somaliland_
 
-##### England
+##### English
 ### [In England, three men who distributed and posted through letterboxes leaflets calling for the execution of gay people are jailed. ](/news/2012/02/10/in-england-three-men-who-distributed-and-posted-through-letterboxes-leaflets-calling-for-the-execution-of-gay-people-are-jailed.md)
-_Context: England, gay_
+_Context: English, gay_
 
 ##### Qatif
 ### [A protester is shot dead by security forces in Qatif, eastern Saudi Arabia, amid a demonstration calling for the release of Shia prisoners and democratic reforms. ](/news/2012/02/10/a-protester-is-shot-dead-by-security-forces-in-qatif-eastern-saudi-arabia-amid-a-demonstration-calling-for-the-release-of-shia-prisoners-a.md)

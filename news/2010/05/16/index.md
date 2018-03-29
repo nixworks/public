@@ -5,7 +5,7 @@ Formats: [HTML](2010/05/16/index.html)  [JSON](2010/05/16/index.json)  [XML](201
 
 ##### David Triesman, Baron Triesman
 ### [David Triesman, Baron Triesman resigns as chairman of The Football Association as well as England's 2018 FIFA World Cup bid after his "entrapment" by "The Mail on Sunday" in which he suggested Spain could drop its bid if Russia bribed referees at the 2010 FIFA World Cup next month. ](/news/2010/05/16/david-triesman-baron-triesman-resigns-as-chairman-of-the-football-association-as-well-as-england-s-2018-fifa-world-cup-bid-after-his-entra.md)
-_Context: 2010 FIFA World Cup, 2018 FIFA World Cup, David Triesman, Baron Triesman, England, Russia, Spanish, The Football Association, The Mail on Sunday_
+_Context: 2010 FIFA World Cup, 2018 FIFA World Cup, David Triesman, Baron Triesman, English, Russia, Spanish, The Football Association, The Mail on Sunday_
 
 ##### Ireland
 ### [Airspace in Ireland is closed down again due to the Icelandic volcanic eruptions. ](/news/2010/05/16/airspace-in-ireland-is-closed-down-again-due-to-the-icelandic-volcanic-eruptions.md)

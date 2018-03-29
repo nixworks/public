@@ -3,9 +3,9 @@ Formats: [HTML](2012/06/29/index.html)  [JSON](2012/06/29/index.json)  [XML](201
 
 ## [2012-06-29](/news/2012/06/29/index.md)
 
-##### China
+##### Chinese
 ### [The Chinese Shenzhou 9 space capsule lands safely with all three astronauts aboard. ](/news/2012/06/29/the-chinese-shenzhou-9-space-capsule-lands-safely-with-all-three-astronauts-aboard.md)
-_Context: China, Shenzhou 9_
+_Context: Chinese, Shenzhou 9_
 
 ##### Japan
 ### [Over 15000 Japanese protest against nuclear power. ](/news/2012/06/29/over-15000-japanese-protest-against-nuclear-power.md)
@@ -39,7 +39,7 @@ _Context: Fernando Lugo, Mercosur, Paraguay, South America, trade bloc_
 ### [A fast-moving line of storms knocks out power to nearly four million people in the Mid-Atlantic states of the US and kills one person in Springfield, Virginia. ](/news/2012/06/29/a-fast-moving-line-of-storms-knocks-out-power-to-nearly-four-million-people-in-the-mid-atlantic-states-of-the-us-and-kills-one-person-in-spr.md)
 A fast-moving line of dangerous storms knocked out power to more than 1.5 million customers in the D.C. area Friday night.
 
-##### EU
+##### European Union
 ### [European Union leaders agree to use a bailout fund to recapitalise struggling banks and to work on a plan for tighter budgetary and political union. ](/news/2012/06/29/european-union-leaders-agree-to-use-a-bailout-fund-to-recapitalise-struggling-banks-and-to-work-on-a-plan-for-tighter-budgetary-and-politica.md)
 Leaders also agreed to recapitalize struggling banks without making governments back the debt.
 

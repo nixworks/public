@@ -27,9 +27,9 @@ The Trans-Pacific Partnership, negotiated in secret between 12 Pacific Rim natio
 ### [Kevin Rudd announces his retirement from Australian politics. ](/news/2013/11/13/kevin-rudd-announces-his-retirement-from-australian-politics.md)
 _Context: Australia, Kevin Rudd, Politics of Australia_
 
-##### China
+##### Chinese
 ### [China, Russia, Cuba, Saudi Arabia, Vietnam, and Algeria are elected to the United Nations Human Rights Council. ](/news/2013/11/13/china-russia-cuba-saudi-arabia-vietnam-and-algeria-are-elected-to-the-united-nations-human-rights-council.md)
-_Context: Algeria, China, Cuba, Human Rights Council, Russia, Saudi Arabia, United Nations, Vietnam_
+_Context: Algeria, Chinese, Cuba, Human Rights Council, Russia, Saudi Arabia, United Nations, Vietnam_
 
 ##### State Department
 ### [The United States State Department designates Boko Haram as a "terrorist" group. ](/news/2013/11/13/the-united-states-state-department-designates-boko-haram-as-a-terrorist-group.md)

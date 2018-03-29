@@ -65,7 +65,7 @@ HOUSTON (AP) — A small plane crashed into a car Thursday in a parking lot near
 
 ##### Northrop F-5
 ### [A Northrop F-5 of the Swiss Air Force crashes during an air show at the Leeuwarden Air Base in the Netherlands. ](/news/2016/06/9/a-northrop-f-5-of-the-swiss-air-force-crashes-during-an-air-show-at-the-leeuwarden-air-base-in-the-netherlands.md)
-_Context: Dutch, Leeuwarden Air Base, Northrop F-5, Swiss Air Force, air show_
+_Context: Leeuwarden Air Base, Netherlands, Northrop F-5, Swiss Air Force, air show_
 
 ##### Ravine
 ### [A bus plunges over a ravine in Brazil's SGBPo Paulo state, resulting in at least 18 people killed and 28 injured. ](/news/2016/06/9/a-bus-plunges-over-a-ravine-in-brazil-s-sagbpo-paulo-state-resulting-in-at-least-18-people-killed-and-28-injured.md)

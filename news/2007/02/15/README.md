@@ -3,9 +3,9 @@ Formats: [HTML](2007/02/15/index.html)  [JSON](2007/02/15/index.json)  [XML](200
 
 ## [2007-02-15](/news/2007/02/15/index.md)
 
-##### EU
+##### European Union
 ### [ The European Union plans to set up a single hotline for parents to report missing children. ](/news/2007/02/15/the-european-union-plans-to-set-up-a-single-hotline-for-parents-to-report-missing-children.md)
-_Context: EU, hotline_
+_Context: European Union, hotline_
 
 ##### 2004 Madrid train bombings
 ### [ The trial of 29 suspects in relation to the 2004 Madrid train bombings begins in Madrid, Spain. ](/news/2007/02/15/the-trial-of-29-suspects-in-relation-to-the-2004-madrid-train-bombings-begins-in-madrid-spain.md)

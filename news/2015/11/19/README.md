@@ -105,7 +105,7 @@ Abdelhamid Abaaoud was killed during a violent police raid conducted by Paris au
 
 ##### Killing of captives by ISIL
 ### [China vows to "bring to justice" those responsible for executing one of its citizens after the Islamic State of Iraq and the Levant said it had killed a Chinese hostage. China's Foreign Ministry also confirms the hostage's identity for the first time, naming him as Fan Jinghui. ](/news/2015/11/19/china-vows-to-bring-to-justice-those-responsible-for-executing-one-of-its-citizens-after-the-islamic-state-of-iraq-and-the-levant-said-it.md)
-_Context: China, Chinese Foreign Ministry spokesperson, Fan Jinghui, ISIL, Killing of captives by ISIL_
+_Context: Chinese, Chinese Foreign Ministry spokesperson, Fan Jinghui, ISIL, Killing of captives by ISIL_
 
 ## [Previous Day...](/news/2015/11/18/index.md)
 

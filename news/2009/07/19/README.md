@@ -11,9 +11,9 @@ _Context: Giant jellyfish, Sea of Japan_
 ### [ The last British Embassy worker being held in Iran after the disputed re-election of president Mahmoud Ahmadinejad and the ensuing street protests is released. ](/news/2009/07/19/the-last-british-embassy-worker-being-held-in-iran-after-the-disputed-re-election-of-president-mahmoud-ahmadinejad-and-the-ensuing-street-p.md)
 _Context: British Embassy, Iran, Mahmoud Ahmadinejad, protests against the regime_
 
-##### Dutch
+##### Netherlands
 ### [ A preserved barracks in the Netherlands that was used by Nazi Germany to process Jews and others on their way to concentration camps, known to have been occupied at one point by Anne Frank, is destroyed by fire. ](/news/2009/07/19/a-preserved-barracks-in-the-netherlands-that-was-used-by-nazi-germany-to-process-jews-and-others-on-their-way-to-concentration-camps-known.md)
-_Context: Anne Frank, Dutch, Jew, Nazi, Nazi concentration camp, fire_
+_Context: Anne Frank, Jew, Nazi, Nazi concentration camp, Netherlands, fire_
 
 ##### Killed through electrocution, drowning and collapsing roofs
 ### [ 26 people are killed through electrocution, drowning and collapsing roofs in Karachi, Pakistan. ](/news/2009/07/19/26-people-are-killed-through-electrocution-drowning-and-collapsing-roofs-in-karachi-pakistan.md)

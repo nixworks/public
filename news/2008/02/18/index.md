@@ -3,9 +3,9 @@ Formats: [HTML](2008/02/18/index.html)  [JSON](2008/02/18/index.json)  [XML](200
 
 ## [2008-02-18](/news/2008/02/18/index.md)
 
-##### China
+##### Chinese
 ### [ In China, the trial of human rights activist Yang Chunlin commenced in the city of Jiamusi. Yang helped organise a petition entitled, "We want human rights, not the Olympics", and is accused of "inciting subversion of state power". ](/news/2008/02/18/in-china-the-trial-of-human-rights-activist-yang-chunlin-commenced-in-the-city-of-jiamusi-yang-helped-organise-a-petition-entitled-we-w.md)
-_Context: China, Jiamusi, Yang Chunlin_
+_Context: Chinese, Jiamusi, Yang Chunlin_
 
 ##### Suicide bombing
 ### [ A suicide bombing targeting a Canadian military convoy kills at least 37 Afghan civilians and injures three Canadian soldiers in Spin Boldak, Afghanistan. ](/news/2008/02/18/a-suicide-bombing-targeting-a-canadian-military-convoy-kills-at-least-37-afghan-civilians-and-injures-three-canadian-soldiers-in-spin-bolda.md)

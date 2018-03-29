@@ -9,7 +9,7 @@ _Context: Canada, Justin Trudeau, Liberal Party's, Pierre Trudeau, Prime Ministe
 
 ##### Croatia
 ### [In Croatia, people go to the polls to elect the first ever European MPs of the country, anticipating the formal entry of Croatia in the European Union, in July. ](/news/2013/04/14/in-croatia-people-go-to-the-polls-to-elect-the-first-ever-european-mps-of-the-country-anticipating-the-formal-entry-of-croatia-in-the-euro.md)
-_Context: Croatia, EU, European Parliament, MP, country's first ever vote, formal entry of Croatia_
+_Context: Croatia, European Parliament, European Union, MP, country's first ever vote, formal entry of Croatia_
 
 ##### Venezuela
 ### [Voters in Venezuela go to the polls for a snap presidential election, which was called after the death of President Hugo Chavez on March 5. ](/news/2013/04/14/voters-in-venezuela-go-to-the-polls-for-a-snap-presidential-election-which-was-called-after-the-death-of-president-hugo-cha-vez-on-march-5.md)

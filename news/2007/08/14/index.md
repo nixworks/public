@@ -129,11 +129,11 @@ _Context: Italy, Lampedusa, coast guard, illegal immigrant_
 
 ##### Fire
 ### [ A fire breaks out at the Shanghai World Financial Center in China. ](/news/2007/08/14/a-fire-breaks-out-at-the-shanghai-world-financial-center-in-china.md)
-_Context: China, Shanghai World Financial Center, fire_
+_Context: Chinese, Shanghai World Financial Center, fire_
 
 ##### Bridge
 ### [ A bridge under construction completely collapses in Fenghuang County, Hunan Province, China, killing at least 47 people. 21 workers are injured, 13 are still missing.](/news/2007/08/14/a-bridge-under-construction-completely-collapses-in-fenghuang-county-hunan-province-china-killing-at-least-47-people-21-workers-are-inj.md)
-_Context: China, Fenghuang, Hunan, bridge_
+_Context: Chinese, Fenghuang, Hunan, bridge_
 
 ## [Previous Day...](/news/2007/08/13/index.md)
 

@@ -19,7 +19,7 @@ _Context: Alejandro Toledo, Brazil, Odebrecht, Peru, President, US$, bribes_
 ### [Aboard Air Force One, President Trump tells reporters he is considering issuing a revised policy banning citizens of certain countries traveling to the United States. ](/news/2017/02/10/aboard-air-force-one-president-trump-tells-reporters-he-is-considering-issuing-a-revised-policy-banning-citizens-of-certain-countries-trave.md)
  U.S. President Donald Trump is considering issuing a new executive order banning citizens of certain countries traveling to the United States after his initial
 
-##### EU
+##### European Union
 ### [The European Union pledges to give the Gambia EUR225 million in aid to assist the country following the departure of former president Yahya Jammeh, whose 22 years of misrule left the country "virtually bankrupt". ](/news/2017/02/10/the-european-union-pledges-to-give-the-gambia-a-225-million-in-aid-to-assist-the-country-following-the-departure-of-former-president-yahya.md)
 Major funding commitment to help ‘virtually bankrupt’ country shake off legacy of dictatorship, as President Adama Barrow promises better life for Gambians
 

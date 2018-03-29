@@ -45,7 +45,7 @@ Sinking ship summons Israeli, American, French forces; three rescued, four still
 
 ##### Iran
 ### [ 400 Iranian volunteers sign up to sacrifice their lives in "occupied Islamic countries", particularly Israel, after being inspired by a fatwa from a top hardline cleric giving religious backing to suicide missions. ](/news/2005/04/21/400-iranian-volunteers-sign-up-to-sacrifice-their-lives-in-occupied-islamic-countries-particularly-israel-after-being-inspired-by-a-fat.md)
-_Context: Iran, Israel, Muslim, cleric, fatwa, suicide bombings_
+_Context: Iran, Israel, Muslims, cleric, fatwa, suicide bombings_
 
 ## [Previous Day...](/news/2005/04/20/index.md)
 

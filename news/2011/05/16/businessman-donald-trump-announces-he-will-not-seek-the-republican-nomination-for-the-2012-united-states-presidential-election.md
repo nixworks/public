@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/16/businessman-donald-trump-announces-he-will-not-
 
 ### [2011-05-16](/news/2011/05/16/index.md)
 
-##### Trump
+##### Donald Trump
 # Businessman Donald Trump announces he will not seek the Republican nomination for the 2012 United States presidential election. 
 
 

@@ -45,7 +45,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Flash flood
 ### [ Ninety-two people, almost all children, have died after a flash flood hit a school in Shalan, Heilongjiang province, China. ](/news/2005/06/13/ninety-two-people-almost-all-children-have-died-after-a-flash-flood-hit-a-school-in-shalan-heilongjiang-province-china.md)
-_Context: China, Heilongjiang, Shalan, flash flood_
+_Context: Chinese, Heilongjiang, Shalan, flash flood_
 
 ##### Sweden
 ### [ Swedish diplomat Jan Eliasson is unanimously elected President of the United Nations General Assembly. He will take over the presidency on September 20, 2005. ](/news/2005/06/13/swedish-diplomat-jan-eliasson-is-unanimously-elected-president-of-the-united-nations-general-assembly-he-will-take-over-the-presidency-on.md)

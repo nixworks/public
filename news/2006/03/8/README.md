@@ -7,9 +7,9 @@ Formats: [HTML](2006/03/8/index.html)  [JSON](2006/03/8/index.json)  [XML](2006/
 ### [ An Argentine military aircraft crashes after take off from El Alto International Airport in La Paz, Bolivia, killing all six people on board. The aircraft was a Learjet 35A. ](/news/2006/03/8/an-argentine-military-aircraft-crashes-after-take-off-from-el-alto-international-airport-in-la-paz-bolivia-killing-all-six-people-on-boar.md)
 _Context: 35A, Argentina, El Alto International Airport, La Paz, Bolivia, Learjet_
 
-##### EU
+##### European Union
 ### [ The European Union announces that it has lifted a worldwide ban on the export of British beef introduced in 1996 to prevent the spread of BSE (Mad Cow Disease). ](/news/2006/03/8/the-european-union-announces-that-it-has-lifted-a-worldwide-ban-on-the-export-of-british-beef-introduced-in-1996-to-prevent-the-spread-of-b.md)
-_Context: EU, beef, mad cow disease_
+_Context: European Union, beef, mad cow disease_
 
 ##### Iran
 ### [ Iran threatens 'harm and pain' against the United States for its role in putting Iran before the United Nations Security Council. ](/news/2006/03/8/iran-threatens-harm-and-pain-against-the-united-states-for-its-role-in-putting-iran-before-the-united-nations-security-council.md)

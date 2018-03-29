@@ -29,7 +29,7 @@ _Context: Newfoundland, oil spill_
 
 ##### Iran's nuclear program
 ### [ Iran's nuclear program: Iran declares that it will suspend its uranium enrichment programme to comply with a European Union-brokered deadline. Iran will review its decision in three months. The EU seeks to have the suspension made permanent and is willing to provide economic and political incentives. ](/news/2004/11/22/iran-s-nuclear-program-iran-declares-that-it-will-suspend-its-uranium-enrichment-programme-to-comply-with-a-european-union-brokered-deadli.md)
-_Context: EU, Iran, Iran's nuclear program, uranium enrichment_
+_Context: European Union, Iran, Iran's nuclear program, uranium enrichment_
 
 ##### European Parliament
 ### [ European Parliament lawmakers urge European Commission president Jos Manuel Barroso to suspend Transport Commissioner Jacques Barrot, after it was revealed that Barrot was involved in a party funding scandal in 2000. ](/news/2004/11/22/european-parliament-lawmakers-urge-european-commission-president-jose-manuel-barroso-to-suspend-transport-commissioner-jacques-barrot-afte.md)

@@ -15,9 +15,9 @@ _Context: Turkey, abortion_
 ### [Police in Japan arrest Naoko Kikuchi, a member of the Aum Shinrikyo cult and one of the two fugitives still at large wanted over the deadly sarin gas attacks on the Tokyo subway in March 1995. ](/news/2012/06/3/police-in-japan-arrest-naoko-kikuchi-a-member-of-the-aum-shinrikyo-cult-and-one-of-the-two-fugitives-still-at-large-wanted-over-the-deadly.md)
 A woman who may be a Japanese cult member wanted for the 1995 gas attacks on the Tokyo subway has been arrested, Japanese media say.
 
-##### China
+##### Chinese
 ### [Police in China crack down on political activists marking the 23rd anniversary of the 1989 Tiananmen Square protests. ](/news/2012/06/3/police-in-china-crack-down-on-political-activists-marking-the-23rd-anniversary-of-the-1989-tiananmen-square-protests.md)
-_Context: 1989 Tiananmen Square protests, China_
+_Context: 1989 Tiananmen Square protests, Chinese_
 
 ##### United States Secretary of Defense
 ### [United States Secretary of Defense Leon Panetta visits a former U.S. base in Cam Ranh Bay, the first visit by an American official of cabinet rank to Vietnam since the Vietnam War. ](/news/2012/06/3/united-states-secretary-of-defense-leon-panetta-visits-a-former-u-s-base-in-cam-ranh-bay-the-first-visit-by-an-american-official-of-cabine.md)

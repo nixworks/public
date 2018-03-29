@@ -33,7 +33,7 @@ _Context: Darfur, International Criminal Court, Luis Moreno-Ocampo, Omar al-Bash
 
 ##### Etihad Airways
 ### [ Etihad Airways from the United Arab Emirates buys 100 fuel-efficient aircraft from Airbus and Boeing. ](/news/2008/07/14/etihad-airways-from-the-united-arab-emirates-buys-100-fuel-efficient-aircraft-from-airbus-and-boeing.md)
-_Context: Airbus, Boeing, Etihad Airways, United Arab Emirates_
+_Context: Airbus, Etihad Airways, The Boeing Company, United Arab Emirates_
 
 ##### United States
 ### [ United States President George W. Bush lifts a ban on offshore oil drilling. ](/news/2008/07/14/united-states-president-george-w-bush-lifts-a-ban-on-offshore-oil-drilling.md)

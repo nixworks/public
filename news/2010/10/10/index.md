@@ -33,7 +33,7 @@ _Context: Omar al-Bashir, Southern Sudan, Southern Sudanese Independence Referen
 
 ##### Bonaire
 ### [Bonaire, Saba and Sint Eustatius become special municipalities of the Netherlands. ](/news/2010/10/10/bonaire-saba-and-sint-eustatius-become-special-municipalities-of-the-netherlands.md)
-_Context: Bonaire, Dutch, Saba, Sint Eustatius_
+_Context: Bonaire, Netherlands, Saba, Sint Eustatius_
 
 ##### Vstberga helicopter robbery
 ### [The men found guilty of the Vstberga helicopter robbery in Sweden are sentenced to lengthy prison terms. ](/news/2010/10/10/the-men-found-guilty-of-the-vastberga-helicopter-robbery-in-sweden-are-sentenced-to-lengthy-prison-terms.md)

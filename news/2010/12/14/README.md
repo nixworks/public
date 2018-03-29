@@ -61,7 +61,7 @@ At least 25 killed and over 100 injured as fire sweeps through garment factory n
 
 ##### Ireland
 ### [Ireland's parliament approved a controversial budget package at the behest of the International Monetary Fund, aimed at shoring up Ireland's banks while getting the country's budget deficit within European Union limits. ](/news/2010/12/14/ireland-s-parliament-approved-a-controversial-budget-package-at-the-behest-of-the-international-monetary-fund-aimed-at-shoring-up-ireland-s.md)
-_Context: EU, International Monetary Fund, Ireland_
+_Context: European Union, International Monetary Fund, Ireland_
 
 ##### Pike River Mine
 ### [Receivers of the Pike River Mine on the South Island of New Zealand lay off 114 workers following the closure of the mine after the Pike River Mine disaster. ](/news/2010/12/14/receivers-of-the-pike-river-mine-on-the-south-island-of-new-zealand-lay-off-114-workers-following-the-closure-of-the-mine-after-the-pike-riv.md)

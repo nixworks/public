@@ -33,11 +33,11 @@ _Context: Sicily, Stromboli, lava, volcano_
 
 ##### Train
 ### [ Strong wind blows a passenger train off the tracks near Turpan, Xinjiang, China, killing four and injuring 30 more. ](/news/2007/02/28/strong-wind-blows-a-passenger-train-off-the-tracks-near-turpan-xinjiang-china-killing-four-and-injuring-30-more.md)
-_Context: China, Turpan, Xinjiang, train_
+_Context: Chinese, Turpan, Xinjiang, train_
 
-##### EU
+##### European Union
 ### [ The European Union announces plans to make significant cuts to the European Union Force in Bosnia-Herzegovina. ](/news/2007/02/28/the-european-union-announces-plans-to-make-significant-cuts-to-the-european-union-force-in-bosnia-herzegovina.md)
-_Context: Bosnia-Herzegovina, EU, European Union Force_
+_Context: Bosnia-Herzegovina, European Union, European Union Force_
 
 ##### Airbus
 ### [ Airbus announces plans to cut 10,000 jobs across Europe in the next four years. ](/news/2007/02/28/airbus-announces-plans-to-cut-10-000-jobs-across-europe-in-the-next-four-years.md)

@@ -25,7 +25,7 @@ _Context: Taiwan, conscription_
 
 ##### United States
 ### [The governments of the United States, Australia, New Zealand and the Netherlands protest the start of Japan's whaling season off the coast of Antarctica. ](/news/2011/12/14/the-governments-of-the-united-states-australia-new-zealand-and-the-netherlands-protest-the-start-of-japan-s-whaling-season-off-the-coast-o.md)
-_Context: Antarctica, Australia, Dutch, Japan, New Zealand, United States, whaling_
+_Context: Antarctica, Australia, Japan, Netherlands, New Zealand, United States, whaling_
 
 ##### Alcohol
 ### [Toxic illegal alcohol kills 166 people in West Bengal, India. ](/news/2011/12/14/toxic-illegal-alcohol-kills-166-people-in-west-bengal-india.md)

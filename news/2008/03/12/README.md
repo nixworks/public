@@ -21,7 +21,7 @@ _Context: China, Lhasa, Tibet Autonomous Region, free Tibet_
 
 ##### France
 ### [ French Minister of Foreign Affairs Bernard Kouchner and his Swedish counterpart Carl Bildt pronounce their support for Serbian membership of the European Union. ](/news/2008/03/12/french-minister-of-foreign-affairs-bernard-kouchner-and-his-swedish-counterpart-carl-bildt-pronounce-their-support-for-serbian-membership-o.md)
-_Context: Bernard Kouchner, Carl Bildt, EU, France, Minister of Foreign Affairs, Serbia, Sweden_
+_Context: Bernard Kouchner, Carl Bildt, European Union, France, Minister of Foreign Affairs, Serbia, Sweden_
 
 ##### France
 ### [ The last French veteran of World War I, Lazare Ponticelli, an Italian immigrant who lied about his age to join the French Foreign Legion and fight in the trenches, dies at 110. ](/news/2008/03/12/the-last-french-veteran-of-world-war-i-lazare-ponticelli-an-italian-immigrant-who-lied-about-his-age-to-join-the-french-foreign-legion-an.md)

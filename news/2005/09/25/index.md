@@ -21,7 +21,7 @@ _Context: Baghdad, Mahdi Army, Muslim, Sadr City, Shia, US soldiers, United Stat
 
 ##### Switzerland
 ### [ Swiss voters approve a referendum by 56% to 44% to allow citizens from the 10 newest European Union member countries to travel and work in Switzerland. Quotas will be applied until 2011 on the number of people allowed to settle. ](/news/2005/09/25/swiss-voters-approve-a-referendum-by-56-to-44-to-allow-citizens-from-the-10-newest-european-union-member-countries-to-travel-and-work-in.md)
-_Context: 2011, EU, Switzerland, referendum_
+_Context: 2011, European Union, Switzerland, referendum_
 
 ##### Polish parliamentary election, 2005
 ### [ Polish parliamentary election, 2005: As predicted by polls, support for Prime Minister Marek Belka's post-communist Alliance of the Democratic Left drops sharply to about 11%, while center-right opposition parties Law and Justice and Civic Platform will obtain about 28% and 26%, respectively. ](/news/2005/09/25/polish-parliamentary-election-2005-as-predicted-by-polls-support-for-prime-minister-marek-belka-s-post-communist-alliance-of-the-democra.md)

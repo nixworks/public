@@ -9,7 +9,7 @@ _Context: Hebrew University of Jerusalem, Herod the Great, Herodium_
 
 ##### Scotland
 ### [ Scotland's John Higgins beats England's Mark Selby in the World Snooker Championship 2007 final by 18-13 frames. ](/news/2007/05/8/scotland-s-john-higgins-beats-england-s-mark-selby-in-the-world-snooker-championship-2007-final-by-18-13-frames.md)
-_Context: England, John Higgins, Mark Selby, Scotland, World Snooker Championship 2007, frames_
+_Context: English, John Higgins, Mark Selby, Scotland, World Snooker Championship 2007, frames_
 
 ##### Prime Minister
 ### [ Former Prime Minister of Australia Gough Whitlam gives evidence to the coronial inquest into the death of the Balibo Five in Balibo, East Timor in October 1975. ](/news/2007/05/8/former-prime-minister-of-australia-gough-whitlam-gives-evidence-to-the-coronial-inquest-into-the-death-of-the-balibo-five-in-balibo-east-t.md)

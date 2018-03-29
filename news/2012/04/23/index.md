@@ -27,9 +27,9 @@ _Context: Beatrix, Mark Rutte, Prime Minister_
 ### [Three men appear in court in the town of Newry in Northern Ireland to face charges of threatening to kill, INLA membership and blackmail. ](/news/2012/04/23/three-men-appear-in-court-in-the-town-of-newry-in-northern-ireland-to-face-charges-of-threatening-to-kill-inla-membership-and-blackmail.md)
 Three men appear in court in Newry charged with involvement in terrorist activity.
 
-##### China
+##### Chinese
 ### [Around 45 people are detained across China in a tainted capsule medicine scandal. ](/news/2012/04/23/around-45-people-are-detained-across-china-in-a-tainted-capsule-medicine-scandal.md)
-_Context: China_
+_Context: Chinese_
 
 ##### North Carolina
 ### [The North Carolina trial of former U.S. Senator and presidential hopeful John Edwards, concerning the use of illegal campaign donations to cover up an affair with a mistress, begins. ](/news/2012/04/23/the-north-carolina-trial-of-former-u-s-senator-and-presidential-hopeful-john-edwards-concerning-the-use-of-illegal-campaign-donations-to-c.md)
@@ -51,17 +51,17 @@ The sister of an MI6 officer - whose body was found in a padlocked bag - tells t
 ### [Former Icelandic prime minister Geir Haarde is found not guilty of negligence over the island's 2008 economic meltdown. He is to face no punishment and his legal expenses are to be paid. ](/news/2012/04/23/former-icelandic-prime-minister-geir-haarde-is-found-not-guilty-of-negligence-over-the-island-s-2008-economic-meltdown-he-is-to-face-no-pun.md)
 Former Icelandic PM Geir Haarde is cleared of the main charge of negligence over the 2008 financial crisis, but is found guilty on a lesser charge
 
-##### China
+##### Chinese
 ### [In accordance with a request from the South Korean government, China stops the deportation of North Korean defectors who escape to China. ](/news/2012/04/23/in-accordance-with-a-request-from-the-south-korean-government-china-stops-the-deportation-of-north-korean-defectors-who-escape-to-china.md)
-_Context: China, defects_
+_Context: Chinese, defects_
 
 ##### North Korea
 ### [North Korea threatens to reduce South Korea to "ashes" after the failed North Korean rocket launch. ](/news/2012/04/23/north-korea-threatens-to-reduce-south-korea-to-ashes-after-the-failed-north-korean-rocket-launch.md)
 _Context: North Korea, South Korea, failed North Korean rocket launch_
 
-##### EU
+##### European Union
 ### [The European Union suspends most trade sanctions against Myanmar for a year but leaves an arms embargo in place. ](/news/2012/04/23/the-european-union-suspends-most-trade-sanctions-against-myanmar-for-a-year-but-leaves-an-arms-embargo-in-place.md)
-_Context: EU, Myanmar_
+_Context: European Union, Myanmar_
 
 ##### Kazakhstan
 ### [Kazakhstan issues an official 'thank you' to Sacha Baron Cohen for his comedy character Borat Sagdiyev despite an initial ban. ](/news/2012/04/23/kazakhstan-issues-an-official-athank-youa-to-sacha-baron-cohen-for-his-comedy-character-borat-sagdiyev-despite-an-initial-ban.md)

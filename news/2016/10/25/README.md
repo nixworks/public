@@ -23,7 +23,7 @@ POLICE have confirmed the devastating theme park accident that killed four peopl
 ### [A fire breaks out in the ICU ward and Maternity ward of Hospital Sultanah Aminah, Johor, Malaysia, killing six patients and injured two others. All of the patients killed were dependent on ventilators in the ICU ward. ](/news/2016/10/25/a-fire-breaks-out-in-the-icu-ward-and-maternity-ward-of-hospital-sultanah-aminah-johor-malaysia-killing-six-patients-and-injured-two-othe.md)
 Six patients - four women and two men - were killed in a fire at the Intensive Care Unit (ICU) of the Sultanah Aminah Hospital in Johor Bahru. 
 
-##### China
+##### Chinese
 ### [Illegally stored explosives cause an explosion in a house in northwestern China that kills at least 14 people and injures 147 others in the town of Xinmin in Shaanxi province. ](/news/2016/10/25/illegally-stored-explosives-cause-an-explosion-in-a-house-in-northwestern-china-that-kills-at-least-14-people-and-injures-147-others-in-the.md)
 A powerful blast at a prefabricated house in northwestern China on Monday killed at least 14 people and injured 147, state news agency Xinhua said.
 

@@ -23,9 +23,9 @@ A British woman suffering from multiple sclerosis has won what her lawyers descr
 ### [ 8 people are killed and 10 are injured in a bomb attack on the offices of a Sunni political party, Kitab Sultan, in Diyala Governorate. ](/news/2009/07/30/8-people-are-killed-and-10-are-injured-in-a-bomb-attack-on-the-offices-of-a-sunni-political-party-kitab-sultan-in-diyala-governorate.md)
 _Context: Diyala Governorate, Kitab Sultan_
 
-##### Muslim
+##### Muslims
 ### [ Islamist militants kill at least 15 Algerian soldiers and injure 20 others in an ambush outside Tipaza. ](/news/2009/07/30/islamist-militants-kill-at-least-15-algerian-soldiers-and-injure-20-others-in-an-ambush-outside-tipaza.md)
-_Context: Algeria, Muslim, Tipaza_
+_Context: Algeria, Muslims, Tipaza_
 
 ##### Referendum Commission
 ### [ Referendum Commission research indicates a significant increase in the level of understanding of the Treaty of Lisbon among Irish voters. ](/news/2009/07/30/referendum-commission-research-indicates-a-significant-increase-in-the-level-of-understanding-of-the-treaty-of-lisbon-among-irish-voters.md)

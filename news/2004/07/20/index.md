@@ -3,9 +3,9 @@ Formats: [HTML](2004/07/20/index.html)  [JSON](2004/07/20/index.json)  [XML](200
 
 ## [2004-07-20](/news/2004/07/20/index.md)
 
-##### EU
+##### European Union
 ### [ The European Union approves a 50-50 merger between BMG and Sony. ](/news/2004/07/20/the-european-union-approves-a-50-50-merger-between-bmg-and-sony.md)
-_Context: BMG, EU, Sony_
+_Context: BMG, European Union, Sony_
 
 ##### Ahmed Qurei
 ### [ Ahmed Qurei, Prime Minister of the Palestinian Authority, agrees to withdraw his resignation, three days after tendering it. Qurei is maintaining a threat to quit "because he has no powers". ](/news/2004/07/20/ahmed-qurei-prime-minister-of-the-palestinian-authority-agrees-to-withdraw-his-resignation-three-days-after-tendering-it-qurei-is-maint.md)

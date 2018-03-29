@@ -55,9 +55,9 @@ The trial starts of eight officers charged with the murder of prominent human ri
 ### [The Supreme Court of the United States refuses to rescind the country's ban on openly gay soldiers. ](/news/2010/11/12/the-supreme-court-of-the-united-states-refuses-to-rescind-the-country-s-ban-on-openly-gay-soldiers.md)
 Supreme court rejects request to rescind ban on openly gay soldiers, while Obama pushes Senate to repeal it.
 
-##### EU
+##### European Union
 ### [The European Union agrees to meet with Iran to discuss its nuclear program. ](/news/2010/11/12/the-european-union-agrees-to-meet-with-iran-to-discuss-its-nuclear-program.md)
-_Context: EU, Iran, nuclear program_
+_Context: European Union, Iran, nuclear program_
 
 ##### Russia
 ### [The leaders of Russia and Japan are to meet to discuss the disputed Kuril Islands. ](/news/2010/11/12/the-leaders-of-russia-and-japan-are-to-meet-to-discuss-the-disputed-kuril-islands.md)

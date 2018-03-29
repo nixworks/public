@@ -27,7 +27,7 @@ _Context: Chad, ChevronTexaco, Exxon Mobil, Idriss Dby, Malaysia, Petronas, Unit
 ### [ The Andover Inn Hotel in Liverpool was hit by a mystery fire in the early hours which led to 100 guests being evacuated. ](/news/2006/08/26/the-andover-inn-hotel-in-liverpool-was-hit-by-a-mystery-fire-in-the-early-hours-which-led-to-100-guests-being-evacuated.md)
 _Context: Andover Inn, Liverpool, fire_
 
-##### EU
+##### European Union
 ### [ EU officials caution that the peacekeeping force in Lebanon will not disarm Hezbollah. Disarming Hezbollah is the responsibility of the Lebanese government and army. ](/news/2006/08/26/eu-officials-caution-that-the-peacekeeping-force-in-lebanon-will-not-disarm-hezbollah-disarming-hezbollah-is-the-responsibility-of-the-leb.md)
 Officials cautioned that the peacekeeping force would not be used to disarm Hezbollah. 
 

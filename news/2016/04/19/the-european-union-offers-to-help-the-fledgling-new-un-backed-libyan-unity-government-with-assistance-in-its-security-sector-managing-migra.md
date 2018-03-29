@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/04/19/the-european-union-offers-to-help-the-fledgling
 
 ### [2016-04-19](/news/2016/04/19/index.md)
 
-##### EU
+##### European Union
 # The European Union offers to help the fledgling new UN-backed Libyan unity government with assistance in its security sector, managing migration, border management and police capacity building. This comes after Libyan Prime Minister Fayez al-Sarraj appealed to foreign governments for help in fighting ISIL and aid to rebuild the country. 
 
 Government to get assistance with border and security forces as Fayez al-Sarraj appeals for aid to fight Isis and rebuild country

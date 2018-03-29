@@ -25,7 +25,7 @@ _Context: Kenilworth, Royal Leamington Spa, Stratford-upon-Avon, Warwick_
 
 ##### M6 motorway
 ### [ 12 people are wounded in a seven-vehicle pile-up on the M6 motorway near Rugby in Warwickshire, England. ](/news/2010/04/1/12-people-are-wounded-in-a-seven-vehicle-pile-up-on-the-m6-motorway-near-rugby-in-warwickshire-england.md)
-_Context: England, M6 motorway, Rugby, Warwickshire_
+_Context: English, M6 motorway, Rugby, Warwickshire_
 
 ##### Nigeria
 ### [ The Nigerian government asks that criminal charges against Nuhu Ribadu be withdrawn. ](/news/2010/04/1/the-nigerian-government-asks-that-criminal-charges-against-nuhu-ribadu-be-withdrawn.md)

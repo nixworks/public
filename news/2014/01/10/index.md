@@ -7,7 +7,7 @@ Formats: [HTML](2014/01/10/index.html)  [JSON](2014/01/10/index.json)  [XML](201
 ### [Devyani Khobragade, an Indian diplomat whose arrest sparked an international incident involving India and the United States, is indicted for allegedly lying to obtain a work visa for her housekeeper, and is asked to leave the United States under the rules of diplomatic immunity. ](/news/2014/01/10/devyani-khobragade-an-indian-diplomat-whose-arrest-sparked-an-international-incident-involving-india-and-the-united-states-is-indicted-for.md)
 An Indian diplomat at the centre of a row between the US and India is charged by the American authorities with visa fraud.
 
-##### China
+##### Chinese
 ### [China imposes a "fishing permit" rule in the South China Sea, much to the chagrin of the United States, the Philippines, and Vietnam. ](/news/2014/01/10/china-imposes-a-fishing-permit-rule-in-the-south-china-sea-much-to-the-chagrin-of-the-united-states-the-philippines-and-vietnam.md)
 The Chinese are demanding foreign crews get permits before fishing the South China Sea, upsetting neighbouring countries
 

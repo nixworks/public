@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/10/11/the-eu-imposes-further-sanctions-on-belarus-ira
 
 ### [2011-10-11](/news/2011/10/11/index.md)
 
-##### EU
+##### European Union
 # The EU imposes further sanctions on Belarus, Iran, and Syria, expresses support for Libya's National Transitional Council, and reiterates call for Syria's President Bashar al-Assad to step down. 
 
 

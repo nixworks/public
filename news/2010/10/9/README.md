@@ -21,7 +21,7 @@ _Context: Ecuador, protested against being stripped of their bonuses_
 
 ##### United States
 ### [The United States leads a group of non-EU developed countries in attempts to thoroughly revamp the Kyoto Protocol, blocking any possible progress in the climate negotiations currently under way in Tianjin, according to negotiator Sui Wei. ](/news/2010/10/9/the-united-states-leads-a-group-of-non-eu-developed-countries-in-attempts-to-thoroughly-revamp-the-kyoto-protocol-blocking-any-possible-pro.md)
-_Context: EU, Kyoto Protocol, Sui Wei, Tianjin, United States_
+_Context: European Union, Kyoto Protocol, Sui Wei, Tianjin, United States_
 
 ##### Baltic Sea
 ### [More than 200 passengers are rescued, 20 of whom sustain injuries, from Baltic Sea ferry "Lisco Gloria", en route from Kiel to Klaipeda, after it ignites near Fehmarn off the eastern coast of Schleswig-Holstein. There are reports of an explosion on board. ](/news/2010/10/9/more-than-200-passengers-are-rescued-20-of-whom-sustain-injuries-from-baltic-sea-ferry-lisco-gloria-en-route-from-kiel-to-klaipada-af.md)
@@ -59,7 +59,7 @@ Armed men in southwestern border area set fire to nearly 30 tankers carrying fue
 ### [The death of Linda Norgrove occurs during a botched rescue attempt by the United States in Afghanistan. ](/news/2010/10/9/the-death-of-linda-norgrove-occurs-during-a-botched-rescue-attempt-by-the-united-states-in-afghanistan.md)
 David Cameron defends a failed rescue attempt by US forces in Afghanistan during which a British hostage was killed by her captors.
 
-##### England
+##### English
 ### [Riot police and dogs clash with protesters as demonstrations lead to violence in England. There are injuries and 5 men are arrested in the country's largest police operation for a quarter of a century (25 years). ](/news/2010/10/9/riot-police-and-dogs-clash-with-protesters-as-demonstrations-lead-to-violence-in-england-there-are-injuries-and-5-men-are-arrested-in-the-c.md)
 Thirteen men are arrested as demonstrators stage two protests in Leicester, sparking the biggest police operation in the county for 25 years.
 

@@ -19,9 +19,9 @@ _Context: Barack Obama, David Cameron, Deepwater Horizon oil spill, Prime Minist
 ### [Chinese Buddhist monks and archaeologists revealed what they believe to be a part of the skull of Siddartha Gautama, the founder of Buddhism, in east China's Jiangsu Province. ](/news/2010/06/12/chinese-buddhist-monks-and-archaeologists-revealed-what-they-believe-to-be-a-part-of-the-skull-of-siddartha-gautama-the-founder-of-buddhism.md)
 _Context: Buddhist monks, Buddhists, Gautama Buddha, Jiangsu Province_
 
-##### EU
+##### European Union
 ### [The European Union promises EUR500 million towards the 2010-11 budget of Kenya, the largest economy in East Africa. ](/news/2010/06/12/the-european-union-promises-a-500-million-towards-the-2010-11-budget-of-kenya-the-largest-economy-in-east-africa.md)
-_Context: EU, East Africa, Kenya_
+_Context: East Africa, European Union, Kenya_
 
 ##### Teacher
 ### [A school teacher who stabbed 16 young pupils and a teacher in a knife rampage in south China in April is sentenced to death. ](/news/2010/06/12/a-school-teacher-who-stabbed-16-young-pupils-and-a-teacher-in-a-knife-rampage-in-south-china-in-april-is-sentenced-to-death.md)

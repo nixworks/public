@@ -7,7 +7,7 @@ Formats: [HTML](2009/06/15/index.html)  [JSON](2009/06/15/index.json)  [XML](200
 ### [ Five Cubans convicted of spying for Cuba are denied an appeal for a new trial by the United States Supreme Court. ](/news/2009/06/15/five-cubans-convicted-of-spying-for-cuba-are-denied-an-appeal-for-a-new-trial-by-the-united-states-supreme-court.md)
 _Context: Cuba, Cuban Five, United States, United States Supreme Court, trial_
 
-##### EU
+##### European Union
 ### [ The European Union announces it will help resettle detainees released from the Guantanamo Bay detention camp. ](/news/2009/06/15/the-european-union-announces-it-will-help-resettle-detainees-released-from-the-guantanamo-bay-detention-camp.md)
 European Union member states are ready to help resettle detainees freed from the U.S. detention center at Guantanamo Bay in Cuba, the EU said on Monday.
 

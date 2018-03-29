@@ -25,7 +25,7 @@ _Context: Iraq, Jos Luis Rodrguez Zapatero, Prime Minister_
 
 ##### Omar Bakri Muhammad
 ### [ Sheikh Omar Bakri Muhammad says the "life of an unbeliever has no value, it has no sanctity" and states that several Islamic militant groups are planning a terrorist attack on London, making such an attack inevitable. ](/news/2004/04/18/sheikh-omar-bakri-muhammad-says-the-life-of-an-unbeliever-has-no-value-it-has-no-sanctity-and-states-that-several-islamic-militant-group.md)
-_Context: Muslim, Omar Bakri Muhammad, militant, terrorist_
+_Context: Muslims, Omar Bakri Muhammad, militant, terrorist_
 
 ##### Iran
 ### [ The Iranian Vice Speaker of Parliament, Behzad Nabavi, resigns over "violation of public rights". ](/news/2004/04/18/the-iranian-vice-speaker-of-parliament-behzad-nabavi-resigns-over-violation-of-public-rights.md)

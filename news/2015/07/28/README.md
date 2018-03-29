@@ -39,9 +39,9 @@ _Context: Florida_
 ### [Rescuers find 13 dead migrants in a boat off the Libyan coast. ](/news/2015/07/28/rescuers-find-13-dead-migrants-in-a-boat-off-the-libyan-coast.md)
 _Context: Libya_
 
-##### Dutch
+##### Netherlands
 ### [Dutch aerospace company Fokker Technologies is acquired by the British multinational GKN. ](/news/2015/07/28/dutch-aerospace-company-fokker-technologies-is-acquired-by-the-british-multinational-gkn.md)
-_Context: Dutch, Fokker Technologies, GKN, aerospace, multinational_
+_Context: Fokker Technologies, GKN, Netherlands, aerospace, multinational_
 
 ##### Boko Haram
 ### [Boko Haram attacks in multiple northern Nigerian villages leaves at least 29 dead. ](/news/2015/07/28/boko-haram-attacks-in-multiple-northern-nigerian-villages-leaves-at-least-29-dead.md)

@@ -11,9 +11,9 @@ _Context: Gazprom, line, natural gas_
 ### [ Irish Taoiseach Bertie Ahern has said in the Dil that he believes the British security forces colluded with loyalist paramilitaries in the planning of Belfast solicitor Pat Finucane's murder in 1989. ](/news/2006/03/21/irish-taoiseach-bertie-ahern-has-said-in-the-dail-that-he-believes-the-british-security-forces-colluded-with-loyalist-paramilitaries-in-the.md)
 _Context: Belfast, Bertie Ahern, Dil, Pat Finucane, Taoiseach, loyalist paramilitaries_
 
-##### Metropolitan Police
+##### Police
 ### [ In the United Kingdom, Metropolitan Police confirm they are to investigate claims the ruling Labour Party broke the Honours (Prevention of Abuses) Act 1925 in the ongoing controversy over "cash for Peerages" row. ](/news/2006/03/21/in-the-united-kingdom-metropolitan-police-confirm-they-are-to-investigate-claims-the-ruling-labour-party-broke-the-honours-prevention-of.md)
-_Context: Honours (Prevention of Abuses) Act 1925, Labour Party, Metropolitan Police, cash for honours_
+_Context: Honours (Prevention of Abuses) Act 1925, Labour Party, Police, cash for honours_
 
 ##### Chadian military
 ### [ Over 150 Chadian soldiers are killed in eastern Chad by members of the rebel UFDC. The growing rebel movement seeks to overthrow Chadian president Idriss Deby. ](/news/2006/03/21/over-150-chadian-soldiers-are-killed-in-eastern-chad-by-members-of-the-rebel-ufdc-the-growing-rebel-movement-seeks-to-overthrow-chadian-pr.md)

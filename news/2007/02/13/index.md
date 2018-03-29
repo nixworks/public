@@ -39,9 +39,9 @@ _Context: 2008, Massachusetts governor, Mitt Romney, President, Republican_
 ### [ Iranian President Mahmoud Ahmadinejad says his administration is open to negotiations regarding its nuclear program. ](/news/2007/02/13/iranian-president-mahmoud-ahmadinejad-says-his-administration-is-open-to-negotiations-regarding-its-nuclear-program.md)
 _Context: Iran, Iranian government, Mahmoud Ahmadinejad, President, nuclear program_
 
-##### Dutch
+##### Netherlands
 ### [ Dutch oil-trading company Trafigura agrees to pay the Cte d'Ivoire government $198 million to clean up a 2006 toxic waste spill which led to the deaths of 10 people. ](/news/2007/02/13/dutch-oil-trading-company-trafigura-agrees-to-pay-the-cote-d-ivoire-government-198-million-to-clean-up-a-2006-toxic-waste-spill-which-led.md)
-_Context: 2006 toxic waste spill, Cte d'Ivoire, Dutch, Trafigura, USD, government, oil_
+_Context: 2006 toxic waste spill, Cte d'Ivoire, Netherlands, Trafigura, USD, government, oil_
 
 ##### Suicide attack
 ### [ A suicide truck bomb kills at least 15 people in Baghdad. ](/news/2007/02/13/a-suicide-truck-bomb-kills-at-least-15-people-in-baghdad.md)

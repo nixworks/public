@@ -9,7 +9,7 @@ _Context: Hanyang, Universities of Texas, University of British Columbia's, Woll
 
 ##### Parliament of Slovakia
 ### [The Parliament of Slovakia passes a law providing for a parliamentary election on March 10, as part of a deal to allow the passage of the European Union's European Financial Stability Fund. ](/news/2011/10/13/the-parliament-of-slovakia-passes-a-law-providing-for-a-parliamentary-election-on-march-10-as-part-of-a-deal-to-allow-the-passage-of-the-eu.md)
-_Context: EU, European Financial Stability Fund, Parliament of Slovakia, Slovakian parliamentary election_
+_Context: European Financial Stability Fund, European Union, Parliament of Slovakia, Slovakian parliamentary election_
 
 ##### Liberian presidential election
 ### [The first results of the Liberian general election are due to be announced, with a runoff election likely in the presidential race between incumbent President and Nobel Peace Prize laureate Ellen Johnson Sirleaf and ex-diplomat Winston Tubman. ](/news/2011/10/13/the-first-results-of-the-liberian-general-election-are-due-to-be-announced-with-a-runoff-election-likely-in-the-presidential-race-between-i.md)

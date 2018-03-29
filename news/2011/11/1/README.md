@@ -3,9 +3,9 @@ Formats: [HTML](2011/11/1/index.html)  [JSON](2011/11/1/index.json)  [XML](2011/
 
 ## [2011-11-1](/news/2011/11/1/index.md)
 
-##### China
+##### Chinese
 ### [China launches the unmanned Shenzhou 8 spacecraft, intending to robotically dock it with the orbiting Tiangong 1 space station module. If successful, the mission will mark China's first orbital docking, and will be a major milestone in its efforts to construct a full-scale space station. ](/news/2011/11/1/china-launches-the-unmanned-shenzhou-8-spacecraft-intending-to-robotically-dock-it-with-the-orbiting-tiangong-1-space-station-module-if-su.md)
-_Context: China, Shenzhou 8, Tiangong 1, full-scale space station, space station_
+_Context: Chinese, Shenzhou 8, Tiangong 1, full-scale space station, space station_
 
 ##### City of London Corporation
 ### [The City of London Corporation pauses its legal action against Occupy London protesters outside St Paul's Cathedral after the church halted its own action and expressed a wish to enter into dialogue with the demonstrators. ](/news/2011/11/1/the-city-of-london-corporation-pauses-its-legal-action-against-occupy-london-protesters-outside-st-paul-s-cathedral-after-the-church-halted.md)

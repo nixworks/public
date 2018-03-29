@@ -27,13 +27,13 @@ _Context: Convention on Biological Diversity, United Nations, geoengineering_
 ### [Foreign Ministers from Japan and China meet to try to resolve soured relations over a maritime territorial dispute. ](/news/2010/10/29/foreign-ministers-from-japan-and-china-meet-to-try-to-resolve-soured-relations-over-a-maritime-territorial-dispute.md)
 A diplomatic spat between China and Japan over a group of disputed islands flares up again, hours after an apparently friendly bilateral meeting.
 
-##### EU
+##### European Union
 ### [European Union leaders agree to reform of the Treaty of Lisbon to keep member states budget deficits in line at a two-day summit in Brussels, Belgium. ](/news/2010/10/29/european-union-leaders-agree-to-reform-of-the-treaty-of-lisbon-to-keep-member-states-budget-deficits-in-line-at-a-two-day-summit-in-brussels.md)
-_Context: Belgium, Brussels, EU, Treaty of Lisbon, budget deficit_
+_Context: Belgium, Brussels, European Union, Treaty of Lisbon, budget deficit_
 
 ##### Iran
 ### [Iran says it is ready to resume international talks over its nuclear program "in a place and on a date convenient to both sides", says a letter to the European Union. ](/news/2010/10/29/iran-says-it-is-ready-to-resume-international-talks-over-its-nuclear-program-in-a-place-and-on-a-date-convenient-to-both-sides-says-a-let.md)
-_Context: EU, Iran, nuclear program_
+_Context: European Union, Iran, nuclear program_
 
 ##### 2010 Atlantic hurricane season
 ### [2010 Atlantic hurricane season: Tropical Storm Shary strengthens and nears Bermuda, while Tropical Storm Tomas forms and approaches the Caribbean Sea. ](/news/2010/10/29/2010-atlantic-hurricane-season-tropical-storm-shary-strengthens-and-nears-bermuda-while-tropical-storm-tomas-forms-and-approaches-the-cari.md)

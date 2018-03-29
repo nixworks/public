@@ -23,9 +23,9 @@ _Context: Benjamin Netanyahu, Congress, Prime Minister, joint session of Congres
 ### [Slovenia becomes the 11th EU member state and the first post-communist state to legalize same-sex marriage and adoption of children by same-sex couples, after a parliamentary vote of 51&ndash;28. ](/news/2015/03/3/slovenia-becomes-the-11th-eu-member-state-and-the-first-post-communist-state-to-legalize-same-sex-marriage-and-adoption-of-children-by-same.md)
 Slovenia joined a growing number of European countries that allow same-sex marriages late on Tuesday, almost three years after a similar law was rejected in a national referendum.
 
-##### China
+##### Chinese
 ### [China detains Jing Chunhua, a senior official from Hebei province of China, for investigation by the Communist Party's anti-graft agency for violating party discipline and breaking the law. Jing is the second provincial-ranked official from Hebei province to undergo investigation since the wider anti-corruption campaign began in 2013. ](/news/2015/03/3/china-detains-jing-chunhua-a-senior-official-from-hebei-province-of-china-for-investigation-by-the-communist-party-s-anti-graft-agency-for.md)
-_Context: Central Commission for Discipline Inspection, China, Hebei, Jing Chunhua_
+_Context: Central Commission for Discipline Inspection, Chinese, Hebei, Jing Chunhua_
 
 ##### Turkey
 ### [A Turkish court orders President Recep Tayyip Erdogan to pay 10,000 lira ($4,000) in compensation for the mental anguish caused to artist Mehmet Aksoy for having called his sculpture "Monument to Humanity" -- meant to promote reconciliation between Turkey and Armenia -- a "monstrosity" in 2011. ](/news/2015/03/3/a-turkish-court-orders-president-recep-tayyip-erdoaan-to-pay-10-000-lira-4-000-in-compensation-for-the-mental-anguish-caused-to-artist-m.md)

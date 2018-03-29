@@ -19,9 +19,9 @@ _Context: Indiana, Indianapolis_
 ### [U.S. Bankruptcy Court Judge Robert Drain orders the baker's union and Hostess Brands to negotiate through mediation, which was skipped when the company gave its ultimatum to shut down and release its employees and the strike continued. This halts the shutdown process and the moves by other companies to acquire it, for now. ](/news/2012/11/19/u-s-bankruptcy-court-judge-robert-drain-orders-the-baker-s-union-and-hostess-brands-to-negotiate-through-mediation-which-was-skipped-when.md)
 The execution of the Twinkies brand hasn&#39;t been called off, but it has been delayed.&#160;Hostess Brands Inc. and its second largest union will go
 
-##### Dutch
+##### Netherlands
 ### [In the Netherlands a 45-year-old man is arrested following a DNA profiling match in connection with a high-profile rape and murder case of a sixteen-year-old girl on May 1, 1999. ](/news/2012/11/19/in-the-netherlands-a-45-year-old-man-is-arrested-following-a-dna-profiling-match-in-connection-with-a-high-profile-rape-and-murder-case-of-a.md)
-_Context: DNA profiling, Dutch_
+_Context: DNA profiling, Netherlands_
 
 ##### Barack Obama
 ### [Barack Obama becomes the first sitting US President to visit Burma, meeting both Burmese President Thein Sein and National League for Democracy leader Aung San Suu Kyi. ](/news/2012/11/19/barack-obama-becomes-the-first-sitting-us-president-to-visit-burma-meeting-both-burmese-president-thein-sein-and-national-league-for-democr.md)

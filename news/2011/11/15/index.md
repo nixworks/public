@@ -19,7 +19,7 @@ _Context: Freddie Pitcher, Nauru, President of Nauru, Sprent Dabwido, vote of no
 ### [The first Gas Summit of the Gas Exporting Countries Forum opens in Doha. ](/news/2011/11/15/the-first-gas-summit-of-the-gas-exporting-countries-forum-opens-in-doha.md)
 Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar and provide the latest information on weather, currency rates, Prayer in addition to the latest developments in the political events, economic, sporting, cultural and artistic locally and internationally, and much much mor...
 
-##### England
+##### English
 ### [Police in the English city of Birmingham arrest four men in the Sparkhill district in a major anti-terrorism operation. ](/news/2011/11/15/police-in-the-english-city-of-birmingham-arrest-four-men-in-the-sparkhill-district-in-a-major-anti-terrorism-operation.md)
 Four men are arrested in a major counter terrorism operation in the Sparkhill area of Birmingham, police say.
 

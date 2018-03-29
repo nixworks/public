@@ -45,7 +45,7 @@ _Context: Russia, Strategic Arms Reduction Treaty, United States, negotiation_
 
 ##### LTTE
 ### [ Pro-Tamil Tigers protesters and the Metropolitan Police Service battle, injuring 16 people, in London, England. ](/news/2009/05/19/pro-tamil-tigers-protesters-and-the-metropolitan-police-service-battle-injuring-16-people-in-london-england.md)
-_Context: England, LTTE, London, Metropolitan Police Service, protest_
+_Context: English, LTTE, London, Metropolitan Police Service, protest_
 
 ##### Uzbekistan
 ### [ Uzbekistan's government leases Navoiy Airport to the North Atlantic Treaty Organization. ](/news/2009/05/19/uzbekistan-s-government-leases-navoiy-airport-to-the-north-atlantic-treaty-organization.md)

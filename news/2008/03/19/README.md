@@ -21,7 +21,7 @@ _Context: Early elections, Kuwait, Sabah Al-Ahmad Al-Jaber Al-Sabah_
 
 ##### Al-Qaeda
 ### [ An audio tape with a voice believed to be Al-Qaeda leader Osama bin Laden's is released, criticizing the European Union for allowing publication of cartoons that he claims insulted the Prophet Mohammed and threatening a strong reaction. ](/news/2008/03/19/an-audio-tape-with-a-voice-believed-to-be-al-qaeda-leader-osama-bin-laden-s-is-released-criticizing-the-european-union-for-allowing-public.md)
-_Context: EU, Mohammed, Osama bin Laden, al-Qaeda_
+_Context: European Union, Mohammed, Osama bin Laden, al-Qaeda_
 
 ## [Previous Day...](/news/2008/03/18/index.md)
 

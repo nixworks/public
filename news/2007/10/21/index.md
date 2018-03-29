@@ -45,7 +45,7 @@ Boston charged to its third straight win, completing yet another October comebac
 
 ##### Factory
 ### [ A fire in an illegal shoe factory kills at least 34 people in Putian in Fujian province, China. ](/news/2007/10/21/a-fire-in-an-illegal-shoe-factory-kills-at-least-34-people-in-putian-in-fujian-province-china.md)
-_Context: China, Fujian, Putian, factory_
+_Context: Chinese, Fujian, Putian, factory_
 
 ##### Washington Institute for Near East Policy
 ### [ Speaking at the Washington Institute for Near East Policy, United States Vice President Dick Cheney states: "The United States joins other nations in sending a clear message - we will not allow Iran to have a nuclear weapon." ](/news/2007/10/21/speaking-at-the-washington-institute-for-near-east-policy-united-states-vice-president-dick-cheney-states-the-united-states-joins-other.md)

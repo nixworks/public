@@ -35,13 +35,13 @@ A former Israeli soldier admits leaking secret military information to a newspap
 ### [Spanish police remove more than 100 rowdy Belgian students from an aeroplane. ](/news/2011/02/6/spanish-police-remove-more-than-100-rowdy-belgian-students-from-an-aeroplane.md)
 _Context: Belgium, Spanish police_
 
-##### EU
+##### European Union
 ### [The European Union's foreign policy chief Catherine Ashton expresses what she believes is the even more crucial need for progress in peace talks between the Israelis and the Palestinians due to events in Egypt and other countries. ](/news/2011/02/6/the-european-union-s-foreign-policy-chief-catherine-ashton-expresses-what-she-believes-is-the-even-more-crucial-need-for-progress-in-peace-t.md)
 European Union foreign policy chief Catherine Ashton said yesterday that events in Egypt and other Mideast countries make progress in peace talks between Israel and the Palestinians eve
 
 ##### Middle East Quartet
 ### [Palestinian leaders express disappointment at the refusal of the Middle East Quartet &mdash; United States, United Nations, European Union and Russia &mdash; to hear their call for unilateral statehood and failure to take a strong stance on Israel's settlement construction at its February 5 meeting in Munich. ](/news/2011/02/6/palestinian-leaders-express-disappointment-at-the-refusal-of-the-middle-east-quartet-mdash-united-states-united-nations-european-union-a.md)
-_Context: EU, Israel, Middle East Quartet, Munich, Russia, United Nations, United States_
+_Context: European Union, Israel, Middle East Quartet, Munich, Russia, United Nations, United States_
 
 ##### Power outage
 ### [Widespread blackout in eight Brazilian states. ](/news/2011/02/6/widespread-blackout-in-eight-brazilian-states.md)

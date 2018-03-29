@@ -33,7 +33,7 @@ _Context: Naxalite-Maoist insurgency_
 
 ##### Death toll in Wangjialing coal mine's flood
 ### [114 miners trapped in a flooded mine for more than a week in Shanxi, China, are rescued. ](/news/2010/04/4/114-miners-trapped-in-a-flooded-mine-for-more-than-a-week-in-shanxi-china-are-rescued.md)
-_Context: China, Shanxi province, death toll in Wangjialing coal mine's flood_
+_Context: China, Shanxi, death toll in Wangjialing coal mine's flood_
 
 ## [Previous Day...](/news/2010/04/3/index.md)
 

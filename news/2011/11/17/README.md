@@ -3,9 +3,9 @@ Formats: [HTML](2011/11/17/index.html)  [JSON](2011/11/17/index.json)  [XML](201
 
 ## [2011-11-17](/news/2011/11/17/index.md)
 
-##### China
+##### Chinese
 ### [China's unmanned Shenzhou 8 spacecraft successfully returns to Earth, landing in the Inner Mongolia autonomous region after docking twice with the Tiangong-1 orbital laboratory module. ](/news/2011/11/17/china-s-unmanned-shenzhou-8-spacecraft-successfully-returns-to-earth-landing-in-the-inner-mongolia-autonomous-region-after-docking-twice-wi.md)
-_Context: China, Inner Mongolia, Shenzhou 8, Tiangong-1_
+_Context: Chinese, Inner Mongolia, Shenzhou 8, Tiangong-1_
 
 ##### Daniel Ortega
 ### [Daniel Ortega, the President of Nicaragua, is declared the winner of the recent Presidential election, but opponents protest the results. ](/news/2011/11/17/daniel-ortega-the-president-of-nicaragua-is-declared-the-winner-of-the-recent-presidential-election-but-opponents-protest-the-results.md)

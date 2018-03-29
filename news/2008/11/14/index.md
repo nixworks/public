@@ -29,7 +29,7 @@ _Context: Ann E. Dunwoody, General, United States soldier, first female four-sta
 
 ##### Nice
 ### [ At a summit in Nice, France, the European Union and Russia agree to refrain from deploying missiles or missile defense systems at least before mid-2009, when a pan-European security framework is discussed between Russia, the United States and the EU. ](/news/2008/11/14/at-a-summit-in-nice-france-the-european-union-and-russia-agree-to-refrain-from-deploying-missiles-or-missile-defense-systems-at-least-bef.md)
-_Context: EU, France, Nice, Russia, United States, missile, missile defense_
+_Context: European Union, France, Nice, Russia, United States, missile, missile defense_
 
 ## [Previous Day...](/news/2008/11/13/index.md)
 

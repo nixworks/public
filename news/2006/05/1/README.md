@@ -5,7 +5,7 @@ Formats: [HTML](2006/05/1/index.html)  [JSON](2006/05/1/index.json)  [XML](2006/
 
 ##### Last year's toxic chemical spill
 ### [ A second wave of pollutants from last year's toxic chemical spill in Jilin City, China, trapped in the frozen Amur and Songhua Rivers during the winter, is now being released by the spring thaw, affecting Khabarovsk and other settlements in the Russian Far East. ](/news/2006/05/1/a-second-wave-of-pollutants-from-last-year-s-toxic-chemical-spill-in-jilin-city-china-trapped-in-the-frozen-amur-and-songhua-rivers-durin.md)
-_Context: Amur, China, Far East, Jilin City, Khabarovsk, Songhua River, last year's toxic chemical spill_
+_Context: Amur, Chinese, Far East, Jilin City, Khabarovsk, Songhua River, last year's toxic chemical spill_
 
 ##### Batticaloa
 ### [ Over 10 rebels are killed and many injured in Batticaloa as the Tamil Tigers attack a breakaway faction led by Col. Karuna Amman. ](/news/2006/05/1/over-10-rebels-are-killed-and-many-injured-in-batticaloa-as-the-tamil-tigers-attack-a-breakaway-faction-led-by-col-karuna-amman.md)
@@ -37,7 +37,7 @@ _Context: Bolivian Gas War, Bolivian military, Evo Morales, President of Bolivia
 
 ##### Spanish
 ### [ Spain, Portugal, Finland and Greece join the United Kingdom, Republic of Ireland and Sweden in allowing workers from the ten countries which joined the European Union two years ago free access to their labour markets. ](/news/2006/05/1/spain-portugal-finland-and-greece-join-the-united-kingdom-republic-of-ireland-and-sweden-in-allowing-workers-from-the-ten-countries-whic.md)
-_Context: EU, Finland, Greece, Irish, Portugal, Spanish, Sweden, United Kingdom_
+_Context: European Union, Finland, Greece, Irish, Portugal, Spanish, Sweden, United Kingdom_
 
 ##### President of Chad
 ### [ President of Chad Idriss Dby refuses to delay upcoming presidential elections despite pressure from U.S. diplomat Donald Yamamoto, high ranking Chadian Christian officials, and the head of the Chadian human rights league. However, he announced the Chadian government is negotiating with the United Front for Democratic Change rebel group to avoid violence. ](/news/2006/05/1/president-of-chad-idriss-deby-refuses-to-delay-upcoming-presidential-elections-despite-pressure-from-u-s-diplomat-donald-yamamoto-high-ra.md)

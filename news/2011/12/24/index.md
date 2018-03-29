@@ -23,9 +23,9 @@ _Context: Kim Jong-il, Kim Jong-un, Korean People's Army, Media of North Korea, 
 ### [A former official of the central bank of the People's Republic of China states that the People's Bank of China could lower the country's reserve requirements in 2012. ](/news/2011/12/24/a-former-official-of-the-central-bank-of-the-people-s-republic-of-china-states-that-the-people-s-bank-of-china-could-lower-the-country-s-res.md)
 _Context: China, People's Bank of China, reserve requirements_
 
-##### Dutch
+##### Netherlands
 ### [Dutch actor and singer Johannes Heesters, the world's oldest performer, dies at the age of 108. ](/news/2011/12/24/dutch-actor-and-singer-johannes-heesters-the-world-s-oldest-performer-dies-at-the-age-of-108.md)
-_Context: Dutch, Johannes Heesters_
+_Context: Johannes Heesters, Netherlands_
 
 ##### Fo Guang Shan
 ### [The Buddha Memorial Center of Fo Guang Shan in Kaohsiung, Taiwan, housing a tooth relic of Gautama Buddha, is consecrated. ](/news/2011/12/24/the-buddha-memorial-center-of-fo-guang-shan-in-kaohsiung-taiwan-housing-a-tooth-relic-of-gautama-buddha-is-consecrated.md)

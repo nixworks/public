@@ -39,9 +39,9 @@ _Context: Belgrade, Bosnian Serb, Stojan Zupljanin, the Hague, war crimes_
 ### [ Sheikh Hasina, a former Prime Minister of Bangladesh detained on corruption charges, is released to seek treatment in the United States. ](/news/2008/06/11/sheikh-hasina-a-former-prime-minister-of-bangladesh-detained-on-corruption-charges-is-released-to-seek-treatment-in-the-united-states.md)
 _Context: Prime Minister, Sheikh Hasina, United States, corruption_
 
-##### Metropolitan Police
+##### Police
 ### [ The Metropolitan Police launches an inquiry after top secret British government intelligence on al-Qaeda is found on a train going from Waterloo Station to Surrey. ](/news/2008/06/11/the-metropolitan-police-launches-an-inquiry-after-top-secret-british-government-intelligence-on-al-qaeda-is-found-on-a-train-going-from-wat.md)
-_Context: His Majesty's Government, Metropolitan Police, Surrey, Waterloo Station, al-Qaeda_
+_Context: His Majesty's Government, Police, Surrey, Waterloo Station, al-Qaeda_
 
 ##### King of Nepal
 ### [ The last King of Nepal Gyanendra of Nepal departs from Narayanhiti Palace for the last time after Nepal is declared to be a republic. ](/news/2008/06/11/the-last-king-of-nepal-gyanendra-of-nepal-departs-from-narayanhiti-palace-for-the-last-time-after-nepal-is-declared-to-be-a-republic.md)

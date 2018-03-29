@@ -15,7 +15,7 @@ Spain&#x27;s King Felipe VI has issued a decree stripping his sister Princess Cr
 ### [A court in the American city of Cleveland, Ohio, finds probable cause that Cleveland Police Department officer Timothy Loehmann should face murder charges in relation to the shooting of Tamar Rice. ](/news/2015/06/11/a-court-in-the-american-city-of-cleveland-ohio-finds-probable-cause-that-cleveland-police-department-officer-timothy-loehmann-should-face.md)
 The opinion was released Thursday after a group of local clergy and activists filed affidavits asking the municipal court to find probable cause to arrest Timothy Loehmann and Frank Garmback on aggravated murder and other charges.
 
-##### China
+##### Chinese
 ### [China's former security chief Zhou Yongkang is given a life sentence for bribery, leaking state secrets and abuse of power. ](/news/2015/06/11/china-s-former-security-chief-zhou-yongkang-is-given-a-life-sentence-for-bribery-leaking-state-secrets-and-abuse-of-power.md)
 China&#039;s former domestic security chief is sentenced to life in jail after being found guilty of bribery and corruption.
 

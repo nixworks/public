@@ -29,7 +29,7 @@ _Context: China, Pope Benedict XVI, state-backed church_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI urges Pakistani authorities to release Aasia Bibi, a Christian woman facing a death sentence on a charge of blasphemy against Islam. ](/news/2010/11/20/pope-benedict-xvi-urges-pakistani-authorities-to-release-aasia-bibi-a-christian-woman-facing-a-death-sentence-on-a-charge-of-blasphemy-agai.md)
-_Context: Aasia Bibi, Christian, Muslim, Pakistan, Pope Benedict XVI, blasphemy_
+_Context: Aasia Bibi, Christian, Muslims, Pakistan, Pope Benedict XVI, blasphemy_
 
 ##### Indian Air Force
 ### [All 12 people aboard an Indian Air Force Mil Mi-17 transport helicopter are found dead following a crash in Arunachal Pradesh near the Chinese border. ](/news/2010/11/20/all-12-people-aboard-an-indian-air-force-mil-mi-17-transport-helicopter-are-found-dead-following-a-crash-in-arunachal-pradesh-near-the-chine.md)

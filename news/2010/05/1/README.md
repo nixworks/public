@@ -17,7 +17,7 @@ Rising rates of obesity among young Americans could pose a risk to the future of
 
 ##### Taiwan
 ### [Taiwan employs capital punishment for the first time since 2005, executing four men for "grave offences such as fatal kidnappings and murders". ](/news/2010/05/1/taiwan-employs-capital-punishment-for-the-first-time-since-2005-executing-four-men-for-grave-offences-such-as-fatal-kidnappings-and-murder.md)
-_Context: Taiwan, capital punishment, the first time since 2005_
+_Context: Taiwan, death, the first time since 2005_
 
 ##### Albania
 ### [Albania becomes the 37th member of the European Patent Organisation. ](/news/2010/05/1/albania-becomes-the-37th-member-of-the-european-patent-organisation.md)

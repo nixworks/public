@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/15/a-small-bomb-explodes-in-the-offices-of-a-moder
 
 ### [2011-03-15](/news/2011/03/15/index.md)
 
-##### Muslim
+##### Muslims
 # A small bomb explodes in the offices of a moderate Islamic group in the Indonesian capital Jakarta, injuring four people. 
 
 

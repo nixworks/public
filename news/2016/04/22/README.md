@@ -29,7 +29,7 @@ Amnesty International calls for investigation into death of Abubakar Hassan duri
 
 ##### 2016 Macedonian protests
 ### [The European Union announces it is considering imposing sanctions on Macedonia's leaders for reneging on an agreement last year to investigate corruption in the ruling class and issuing an amnesty instead to those involved. ](/news/2016/04/22/the-european-union-announces-it-is-considering-imposing-sanctions-on-macedonia-s-leaders-for-reneging-on-an-agreement-last-year-to-investiga.md)
-_Context: 2016 Macedonian protests, EU, Republic of Macedonia_
+_Context: 2016 Macedonian protests, European Union, Republic of Macedonia_
 
 ##### Felony disenfranchisement
 ### [In the United States, Virginia Governor Terry McAuliffe signs an executive order restoring the rights of an estimated 200,000 convicted felons to vote and run for office. ](/news/2016/04/22/in-the-united-states-virginia-governor-terry-mcauliffe-signs-an-executive-order-restoring-the-rights-of-an-estimated-200-000-convicted-felo.md)
@@ -65,7 +65,7 @@ The US House of Representatives’ Foreign Affairs Committee on Wednesday unanim
 
 ##### United Kingdom withdrawal from the European Union
 ### [Mayor of London and cabinet member Boris Johnson says that U.S. President Barack Obama is "inconsistent and hypocritical" in persuading the British people to remain in the European Union. ](/news/2016/04/22/mayor-of-london-and-cabinet-member-boris-johnson-says-that-u-s-president-barack-obama-is-inconsistent-and-hypocritical-in-persuading-the.md)
-_Context: Barack Obama, Boris Johnson, EU, Mayor of London, United Kingdom withdrawal from the European Union, United States_
+_Context: Barack Obama, Boris Johnson, European Union, Mayor of London, United Kingdom withdrawal from the European Union, United States_
 
 ##### Petroleos Mexicanos
 ### [State oil company Petroleos Mexicanos reports the death toll has risen to 28 from Wednesday's explosion at Petroquimica Mexicana de Vinilo's Clorados 3 petrochemical plant in the Gulf port city of Coatzacoalcos, Veracruz. Some workers are still missing while 18 others remain hospitalized. Officials say the explosion came from an unspecified leak. The plant produces the hazardous industrial chemical vinyl chloride. ](/news/2016/04/22/state-oil-company-petroleos-mexicanos-reports-the-death-toll-has-risen-to-28-from-wednesday-s-explosion-at-petroquimica-mexicana-de-vinilo-s.md)

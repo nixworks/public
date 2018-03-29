@@ -39,7 +39,7 @@ London, Dec 10 (DPA) WikiLeaks founder Julian Assange, who is being held in extr
 ### [For the first time since World War II, German troops are stationed in France. ](/news/2010/12/10/for-the-first-time-since-world-war-ii-german-troops-are-stationed-in-france.md)
 _Context: France, Germany, World War II_
 
-##### 250,000 documents
+##### United States diplomatic cables leak
 ### [United States diplomatic cables leak: ](/news/2010/12/10/united-states-diplomatic-cables-leak.md)
 The British government has trained a paramilitary force accused of hundreds of killings in Bangladesh, according to leaked U.S. embassy cables. 
 
@@ -47,7 +47,7 @@ The British government has trained a paramilitary force accused of hundreds of k
 ### [A ceremony is held in Norway to award the Nobel Peace Prize to Chinese dissident Liu Xiaobo "in absentia". ](/news/2010/12/10/a-ceremony-is-held-in-norway-to-award-the-nobel-peace-prize-to-chinese-dissident-liu-xiaobo-in-absentia.md)
 Jailed Chinese dissident Liu Xiaobo was awarded the Nobel Peace Prize in a ceremony where he was represented by an empty chair and he dedicated it from prison to the &quot;lost souls&quot; of the 1989 Tiananmen Square crackdown.
 
-##### EU
+##### European Union
 ### [A group of 26 ex-EU leaders has urged the union to impose sanctions on Israel for continuing to build settlements on occupied Palestinian territory. ](/news/2010/12/10/a-group-of-26-ex-eu-leaders-has-urged-the-union-to-impose-sanctions-on-israel-for-continuing-to-build-settlements-on-occupied-palestinian-te.md)
 A group of 26 former EU leaders urges Brussels to impose sanctions on Israel for continuing to build settlements on occupied Palestinian territory.
 

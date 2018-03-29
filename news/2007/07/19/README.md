@@ -41,7 +41,7 @@ _Context: Mortar, Somalia_
 
 ##### Viking
 ### [ The largest Viking treasure discovery in the United Kingdom since the nineteenth century made near Harrogate in northern England is announced. ](/news/2007/07/19/the-largest-viking-treasure-discovery-in-the-united-kingdom-since-the-nineteenth-century-made-near-harrogate-in-northern-england-is-announc.md)
-_Context: England, Harrogate, United Kingdom, Viking_
+_Context: English, Harrogate, United Kingdom, Viking_
 
 ##### Dow Jones Industrial Average
 ### [ The Dow Jones Industrial Average closes above 14,000 points for the first time in history, partly as a result of a good earnings report from IBM. ](/news/2007/07/19/the-dow-jones-industrial-average-closes-above-14-000-points-for-the-first-time-in-history-partly-as-a-result-of-a-good-earnings-report-fro.md)

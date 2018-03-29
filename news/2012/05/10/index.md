@@ -17,7 +17,7 @@ Inquiry looking into press standards told ex-editor of News of the World tabloid
 
 ##### London
 ### [London's Metropolitan Police launches its 14th investigation into alleged police racism in six weeks. ](/news/2012/05/10/london-s-metropolitan-police-launches-its-14th-investigation-into-alleged-police-racism-in-six-weeks.md)
-_Context: London, Metropolitan Police_
+_Context: London, Police_
 
 ##### Australian Federal Police
 ### [A dozen members of the Australian Federal Police are expelled from Vanuatu, following a diplomatic row over the arrest of the Prime Minister of Vanuatu's private secretary in Australia last month. ](/news/2012/05/10/a-dozen-members-of-the-australian-federal-police-are-expelled-from-vanuatu-following-a-diplomatic-row-over-the-arrest-of-the-prime-minister.md)

@@ -45,7 +45,7 @@ The European Union and Cuba on Monday signed a deal to normalise ties that had b
 
 ##### China-Mexico relations
 ### [Representatives from China and Mexico pledge to deepen ties between their countries as a reaction to Donald Trump's positions on trade. ](/news/2016/12/12/representatives-from-china-and-mexico-pledge-to-deepen-ties-between-their-countries-as-a-reaction-to-donald-trump-s-positions-on-trade.md)
-_Context: China, China-Mexico relations, Donald Trump's positions on trade, Mexico_
+_Context: China-Mexico relations, Chinese, Donald Trump's positions on trade, Mexico_
 
 ##### One-China policy
 ### [President-elect Donald Trump says he sees no reason why the U.S. should continue to abide by the One China policy unless a bargain is reached with Beijing involving trade. ](/news/2016/12/12/president-elect-donald-trump-says-he-sees-no-reason-why-the-u-s-should-continue-to-abide-by-the-one-china-policy-unless-a-bargain-is-reache.md)

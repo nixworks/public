@@ -79,9 +79,9 @@ A gas tanker explodes on a highway in the Mexico City suburb of Ecatepec, killin
 ### [Mayon Volcano erupts in the Philippines killing four mountain climbers and requiring four other climbers trapped near the summit to be rescued. ](/news/2013/05/7/mayon-volcano-erupts-in-the-philippines-killing-four-mountain-climbers-and-requiring-four-other-climbers-trapped-near-the-summit-to-be-rescu.md)
 Volcano in Philippines erupts into life, killing four climbers and trapping others near the crater.
 
-##### China
+##### Chinese
 ### [China's April import and export figures beat expectations, potentially easing concerns that its economy is lagging. ](/news/2013/05/7/china-s-april-import-and-export-figures-beat-expectations-potentially-easing-concerns-that-its-economy-is-lagging.md)
-_Context: China, export, import_
+_Context: Chinese, export, import_
 
 ##### Dow Jones Industrial Average
 ### [The Dow Jones Industrial Average closes above the 15,000 mark for the first time, setting a record. The S&P 500, up 0.5%, sets a record high as well. ](/news/2013/05/7/the-dow-jones-industrial-average-closes-above-the-15-000-mark-for-the-first-time-setting-a-record-the-s-p-500-up-0-5-sets-a-record-high.md)

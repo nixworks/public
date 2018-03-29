@@ -19,7 +19,7 @@ _Context: Dalia Grybauskaite, Lithuania_
 ### [Voters go to the polls to elect the members of the federal and regional parliaments, simultaneously with the European election. The country faces protracted negotiations on forming a federal government as Flemish nationalist N-VA wins in Flanders while the Socialist Party of Prime Minister Di Rupo remains the largest in Wallonia.](/news/2014/05/25/voters-go-to-the-polls-to-elect-the-members-of-the-federal-and-regional-parliaments-simultaneously-with-the-european-election-the-country.md)
 On May 25 Belgium will hold its regional, federal and European elections. Like in 2010, the centre-right and Flemish nationalist New Flemish Alliance (Nieuw-Vlaamse Alliantie or N-VA) is expected to be…
 
-##### EU
+##### European Union
 ### [Voters in 21 member states of the European Union go to the polls on the final day of voting. Far right, hard leftdate=June 2014 and Eurosceptic parties have performed strongly aided by a weak turnout. ](/news/2014/05/25/voters-in-21-member-states-of-the-european-union-go-to-the-polls-on-the-final-day-of-voting-far-right-hard-leftdate-june-2014-and-euroscep.md)
 By Luke Baker and Paul Taylor BRUSSELS (Reuters) - Marine Le Pen&#x27;s far right National Front scored a stunning first victory in European Parliament elections in France on Sunday as critics of the European Union registered a continent-wide protest vote against austerity and mass unemployment. Wit...
 

@@ -13,7 +13,7 @@ MANILA, Philippines - The Department of Justice on Tuesday recommended the filin
 
 ##### Iran
 ### [The Italian Embassy in Iran is attacked by protesters unhappy with Italy's decision to scale back economic dealings and push for tighter sanctions and protests are also held outside French and Dutch embassies. ](/news/2010/02/9/the-italian-embassy-in-iran-is-attacked-by-protesters-unhappy-with-italy-s-decision-to-scale-back-economic-dealings-and-push-for-tighter-san.md)
-_Context: France, Iran, Italy, The Netherlands, sanctions_
+_Context: Dutch, France, Iran, Italy, sanctions_
 
 ##### President of Sri Lanka
 ### [The recently-elected President of Sri Lanka Mahinda Rajapaksa dissolves his country's parliament one day after the arrest of Sarath Fonseka. ](/news/2010/02/9/the-recently-elected-president-of-sri-lanka-mahinda-rajapaksa-dissolves-his-country-s-parliament-one-day-after-the-arrest-of-sarath-fonseka.md)

@@ -13,7 +13,7 @@ _Context: 2007 Pakistani state of emergency, Benazir Bhutto, Pakistan Peoples Pa
 
 ##### 2007 North Sea flood
 ### [ 2007 North Sea flood: The Environment Agency of England and Wales issues eight severe flood warnings for eastern England with residents ordered to evacuate from 7,500 homes in Great Yarmouth. ](/news/2007/11/9/2007-north-sea-flood-the-environment-agency-of-england-and-wales-issues-eight-severe-flood-warnings-for-eastern-england-with-residents-ord.md)
-_Context: 2007 North Sea flood, England, Environment Agency, Great Yarmouth, Wales, flood_
+_Context: 2007 North Sea flood, English, Environment Agency, Great Yarmouth, Wales, flood_
 
 ##### Iraqi insurgency
 ### [ Iraqi insurgency: The United States Army releases five Iranian suspects who had been arrested in Iraq. ](/news/2007/11/9/iraqi-insurgency-the-united-states-army-releases-five-iranian-suspects-who-had-been-arrested-in-iraq.md)
@@ -33,7 +33,7 @@ _Context: Arnold Schwarzenegger, Governor of California, San Francisco Bay, San 
 
 ##### China
 ### [ The People's Republic of China suspends the export of toys covered in a toxic chemical 1,4-butanediol that have been recalled in both the United States and China. ](/news/2007/11/9/the-people-s-republic-of-china-suspends-the-export-of-toys-covered-in-a-toxic-chemical-1-4-butanediol-that-have-been-recalled-in-both-the-u.md)
-_Context: 1,4-butanediol, China, China, United States, toy_
+_Context: 1,4-butanediol, China, Chinese, United States, toy_
 
 ##### Constitutional amendments
 ### [ Student protests against the 2007 Venezuelan constitutional referendum continue. Five people are wounded in Mrida in a clash between rival student groups. ](/news/2007/11/9/student-protests-against-the-2007-venezuelan-constitutional-referendum-continue-five-people-are-wounded-in-merida-in-a-clash-between-rival.md)

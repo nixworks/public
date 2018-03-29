@@ -9,7 +9,7 @@ _Context: Giorgio Napolitano, President, elected_
 
 ##### Estonian parliament
 ### [ The Estonian parliament ratifies the European constitution, making Estonia the fifteenth EU country to do so. ](/news/2006/05/9/the-estonian-parliament-ratifies-the-european-constitution-making-estonia-the-fifteenth-eu-country-to-do-so.md)
-_Context: EU, Estonia, Estonian parliament, European constitution, country_
+_Context: Estonia, Estonian parliament, European Union, European constitution, country_
 
 ##### Australia
 ### [ Two Australian miners are rescued after 14 days trapped in the Beaconsfield mine collapse. ](/news/2006/05/9/two-australian-miners-are-rescued-after-14-days-trapped-in-the-beaconsfield-mine-collapse.md)

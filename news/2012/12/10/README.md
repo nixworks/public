@@ -35,9 +35,9 @@ _Context: Baghdadi Mahmudi, Libyan Prime Minister, Libyans, Muammar Gaddafi, Tri
 ### [John Hickenlooper, the Governor of the US state of Colorado, issues a proclamation allowing the personal use of marijuana following the passage of an amendment to the state constitution last month. ](/news/2012/12/10/john-hickenlooper-the-governor-of-the-us-state-of-colorado-issues-a-proclamation-allowing-the-personal-use-of-marijuana-following-the-pass.md)
 _Context: Colorado, Governor, John Hickenlooper, US, marijuana, state constitution_
 
-##### EU
+##### European Union
 ### [Leaders of the European Union accept the 2012 Nobel Peace Prize in Oslo, Norway. ](/news/2012/12/10/leaders-of-the-european-union-accept-the-2012-nobel-peace-prize-in-oslo-norway.md)
-_Context: 2012, EU, Nobel Peace Prize, Norwegian, Oslo_
+_Context: 2012, European Union, Nobel Peace Prize, Norwegian, Oslo_
 
 ##### Japan
 ### [Japan goes on full alert as North Korea announces it has delayed its launch of a long range Unha rocket until 29 December. ](/news/2012/12/10/japan-goes-on-full-alert-as-north-korea-announces-it-has-delayed-its-launch-of-a-long-range-unha-rocket-until-29-december.md)
@@ -49,7 +49,7 @@ _Context: Colombia, Tolima department_
 
 ##### Minquan County
 ### [Eleven people are killed and 23 injured in Minquan County, Henan province, China, after a passenger bus swerves off the road and falls in a roadside pond. ](/news/2012/12/10/eleven-people-are-killed-and-23-injured-in-minquan-county-henan-province-china-after-a-passenger-bus-swerves-off-the-road-and-falls-in-a.md)
-_Context: China, Henan province, Minquan County, bus, pond_
+_Context: Chinese, Henan province, Minquan County, bus, pond_
 
 ##### New Zealand
 ### [A New Zealand Royal Commission finds that the CTV Building that collapsed during the 2011 Christchurch earthquake killing 115 people was poorly designed and built and should not have received a building permit. ](/news/2012/12/10/a-new-zealand-royal-commission-finds-that-the-ctv-building-that-collapsed-during-the-2011-christchurch-earthquake-killing-115-people-was-poo.md)

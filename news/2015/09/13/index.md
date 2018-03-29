@@ -33,9 +33,9 @@ The fast-moving Valley Fire that started burning in Lake County yesterday has ex
 ### [Thirty-four refugees, including four babies and 11 children, drown in the Aegean Sea when their wooden boat sinks off the Greek island of Farmakonissi, close to Turkey's coast. ](/news/2015/09/13/thirty-four-refugees-including-four-babies-and-11-children-drown-in-the-aegean-sea-when-their-wooden-boat-sinks-off-the-greek-island-of-fa.md)
 Thirty-four refugees, almost half of them babies and children, drowned when their boat sank off a Greek island on Sunday, almost certainly the largest death toll in those waters since the migrant crisis began, the coastguard said.
 
-##### Muslim
+##### Muslims
 ### [An Islamic school in the Nigerian town of Bukuru collapses with at least four students killed and 40 injured. ](/news/2015/09/13/an-islamic-school-in-the-nigerian-town-of-bukuru-collapses-with-at-least-four-students-killed-and-40-injured.md)
-_Context: Bukuru, Muslim, Nigeria_
+_Context: Bukuru, Muslims, Nigeria_
 
 ##### Pakistan
 ### [An explosion in the Pakistan city of Multan kills at least eleven people and injures 79. ](/news/2015/09/13/an-explosion-in-the-pakistan-city-of-multan-kills-at-least-eleven-people-and-injures-79.md)

@@ -19,9 +19,9 @@ _Context: President of Zimbabwe, Robert Mugabe, Zimbabwe_
 ### [ In Senegal, President Abdoulaye Wade signs a peace deal with separatist rebels in the Casamance region. The war has lasted 22 years. ](/news/2004/12/30/in-senegal-president-abdoulaye-wade-signs-a-peace-deal-with-separatist-rebels-in-the-casamance-region-the-war-has-lasted-22-years.md)
 _Context: Abdoulaye Wade, Casamance, Senegal, separatist_
 
-##### Dutch
+##### Netherlands
 ### [ A Dutch court hands down the country's first fines to spammers. ](/news/2004/12/30/a-dutch-court-hands-down-the-country-s-first-fines-to-spammers.md)
-_Context: Dutch, fine, spam_
+_Context: Netherlands, fine, spam_
 
 ##### Basque
 ### [ In Spain, parliament of the Basque regions favors increasing autonomy and eventual negotiated independence ](/news/2004/12/30/in-spain-parliament-of-the-basque-regions-favors-increasing-autonomy-and-eventual-negotiated-independence.md)

@@ -9,7 +9,7 @@ Russia’s space agency has confirmed that an unmanned cargo ship launched on Th
 
 ##### Presidential transition of Donald Trump
 ### [President-elect Donald Trump names retired United States Marine Corps general James Mattis as United States Secretary of Defense. ](/news/2016/12/1/president-elect-donald-trump-names-retired-united-states-marine-corps-general-james-mattis-as-united-states-secretary-of-defense.md)
-_Context: James Mattis, Marine, Presidential transition of Donald Trump, Trump, United States Secretary of Defense_
+_Context: Donald Trump, James Mattis, Marine, Presidential transition of Donald Trump, United States Secretary of Defense_
 
 ##### Last month's presidential election
 ### [Francois Hollande, the President of France, announces that he will not run in next year's presidential election. This leaves the selection of a candidate for the French Socialist Party wide open. ](/news/2016/12/1/franassois-hollande-the-president-of-france-announces-that-he-will-not-run-in-next-year-s-presidential-election-this-leaves-the-selection.md)

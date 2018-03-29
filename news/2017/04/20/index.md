@@ -3,9 +3,9 @@ Formats: [HTML](2017/04/20/index.html)  [JSON](2017/04/20/index.json)  [XML](201
 
 ## [2017-04-20](/news/2017/04/20/index.md)
 
-##### China
+##### Chinese
 ### [China launches its first cargo spacecraft, the Tianzhou 1, carried by a Long March 7 rocket. ](/news/2017/04/20/china-launches-its-first-cargo-spacecraft-the-tianzhou-1-carried-by-a-long-march-7-rocket.md)
-_Context: China, Long March 7, Tianzhou 1, cargo spacecraft_
+_Context: Chinese, Long March 7, Tianzhou 1, cargo spacecraft_
 
 ##### 2014-17 Venezuelan protests
 ### [Venezuelans continue their march against President Nicolas Maduro with thousands flocking into the streets of Caracas for a second day. ](/news/2017/04/20/venezuelans-continue-their-march-against-president-nicola-s-maduro-with-thousands-flocking-into-the-streets-of-caracas-for-a-second-day.md)

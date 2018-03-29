@@ -41,7 +41,7 @@ A German court has sentenced an 88-year-old former SS member to life in prison f
 
 ##### Libya
 ### [Libya releases 214 Islamist inmates in what is described as "a historic event". ](/news/2010/03/23/libya-releases-214-islamist-inmates-in-what-is-described-as-a-historic-event.md)
-_Context: Libya, Muslim_
+_Context: Libya, Muslims_
 
 ##### Sudan
 ### [Sudan's President Omar al-Bashir threatens to expel international observers for the first general elections in the country in 21 years, after they called for a delay to deal with "logistical" problems. ](/news/2010/03/23/sudan-s-president-omar-al-bashir-threatens-to-expel-international-observers-for-the-first-general-elections-in-the-country-in-21-years-afte.md)

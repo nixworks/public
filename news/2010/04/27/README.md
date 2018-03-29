@@ -19,9 +19,9 @@ _Context: Keelung, Taiwan_
 ### [The Israeli military disciplines four officers involved in two clashes with West Bank protesters in which four Palestinian civilians were killed. ](/news/2010/04/27/the-israeli-military-disciplines-four-officers-involved-in-two-clashes-with-west-bank-protesters-in-which-four-palestinian-civilians-were-ki.md)
 _Context: Israeli military, Palestinian, West Bank, civilians_
 
-##### Metropolitan Police
+##### Police
 ### [The Metropolitan Police in London publish a long suppressed report on the 1979 death of Blair Peach which concludes that a police officer was probably responsible for his killing. ](/news/2010/04/27/the-metropolitan-police-in-london-publish-a-long-suppressed-report-on-the-1979-death-of-blair-peach-which-concludes-that-a-police-officer-wa.md)
-_Context: Blair Peach, Metropolitan Police_
+_Context: Blair Peach, Police_
 
 ##### Haiti
 ### [Haiti drops kidnapping charges against U.S. missionaries detained for trying to take children out of the country after the January earthquake. ](/news/2010/04/27/haiti-drops-kidnapping-charges-against-u-s-missionaries-detained-for-trying-to-take-children-out-of-the-country-after-the-january-earthquak.md)
@@ -65,7 +65,7 @@ Madhuri Gupta, a second secretary in the Indian High Commission in Islamabad, ha
 
 ##### Standard & Poor's
 ### [Standard & Poor's downgrades Greece's sovereign credit rating to junk, four days after the country's government requests the activation of a EUR45-billion EU-IMF bailout. ](/news/2010/04/27/standard-poor-s-downgrades-greece-s-sovereign-credit-rating-to-junk-four-days-after-the-country-s-government-requests-the-activation-of-a.md)
-_Context: EU, EUR, Greece, International Monetary Fund, Standard & Poor's, bailout, downgrades, junk, sovereign credit rating_
+_Context: EUR, European Union, Greece, International Monetary Fund, Standard & Poor's, bailout, downgrades, junk, sovereign credit rating_
 
 ## [Previous Day...](/news/2010/04/26/index.md)
 

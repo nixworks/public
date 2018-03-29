@@ -5,7 +5,7 @@ Formats: [HTML](2006/08/27/index.html)  [JSON](2006/08/27/index.json)  [XML](200
 
 ##### Fox News
 ### [ Two Fox News Channel journalists are released after being held hostage for two weeks in the Gaza Strip. Steve Centanni and Olaf Wiig were earlier claimed to have been forced by their captors to convert to Islam. ](/news/2006/08/27/two-fox-news-channel-journalists-are-released-after-being-held-hostage-for-two-weeks-in-the-gaza-strip-steve-centanni-and-olaf-wiig-were-e.md)
-_Context: Fox News, Gaza Strip, Muslim, Olaf Wiig, Steve Centanni_
+_Context: Fox News, Gaza Strip, Muslims, Olaf Wiig, Steve Centanni_
 
 ##### Pakistan
 ### [ Pakistan increases security in Balochistan as rioting follows the killing of rebel leader Nawab Akbar Bugti.](/news/2006/08/27/pakistan-increases-security-in-balochistan-as-rioting-follows-the-killing-of-rebel-leader-nawab-akbar-bugti.md)

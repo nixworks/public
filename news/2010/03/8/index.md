@@ -61,7 +61,7 @@ _Context: Federal Minister of Justice, Germany, Holy See, Sabine Leutheusser-Sch
 
 ##### French naval
 ### [The French Navy, supported by European Union aircraft and vessels, seizes 35 suspected pirates in 4 mother ships and 6 little boats off the coast of Somalia in the EU's most successful mission. ](/news/2010/03/8/the-french-navy-supported-by-european-union-aircraft-and-vessels-seizes-35-suspected-pirates-in-4-mother-ships-and-6-little-boats-off-the.md)
-_Context: EU, French naval, Somalia_
+_Context: European Union, French naval, Somalia_
 
 ##### Interpol
 ### [Interpol issues "red notices" for 16 more individuals in connection with the assassination of Mahmoud al-Mabhouh, bringing to 27 the number of people wanted for the assassination. ](/news/2010/03/8/interpol-issues-red-notices-for-16-more-individuals-in-connection-with-the-assassination-of-mahmoud-al-mabhouh-bringing-to-27-the-number.md)

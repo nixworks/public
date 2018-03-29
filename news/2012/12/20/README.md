@@ -19,7 +19,7 @@ A US Marine is reduced in ranks and forfeits $500 pay after admitting urinating 
 ### [Dozens of Michigan schools close early for holidays, sending home 80,000 students, due to rumors related to the Mayan doomsday and the Connecticut shooting. ](/news/2012/12/20/dozens-of-michigan-schools-close-early-for-holidays-sending-home-80-000-students-due-to-rumors-related-to-the-mayan-doomsday-and-the-conne.md)
 The Mayan prediction that the world will end on Friday has caused rumors of violence in schools, including shootings or bomb threats, and a few districts have canceled classes.
 
-##### China
+##### Chinese
 ### [Police in China arrest almost 1,000 people belonging to the doomsday Almighty God Christian cult for spreading rumours about the end of the world. ](/news/2012/12/20/police-in-china-arrest-almost-1-000-people-belonging-to-the-doomsday-almighty-god-christian-cult-for-spreading-rumours-about-the-end-of-the.md)
 Police in China have arrested almost 1,000 members of a doomsday cult for spreading rumours about the imminent end of the world.
 

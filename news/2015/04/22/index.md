@@ -31,9 +31,9 @@ The body of an 86-year-old woman has been recovered from the floodwaters into wh
 ### [Google announces a new wireless network in the United States called Project Fi with a pay as you go data rate. ](/news/2015/04/22/google-announces-a-new-wireless-network-in-the-united-states-called-project-fi-with-a-pay-as-you-go-data-rate.md)
 Google becomes a mobile virtual network operator, selling cellular service that runs on T-Mobile and Sprint infrastructure.
 
-##### EU
+##### European Union
 ### [The European Union opens an antitrust case against Russian gas giant Gazprom which supplies most of Central and eastern Europe with supplies of natural gas. ](/news/2015/04/22/the-european-union-opens-an-antitrust-case-against-russian-gas-giant-gazprom-which-supplies-most-of-central-and-eastern-europe-with-supplies.md)
-_Context: Central, EU, Gazprom, Russia, antitrust, eastern Europe, natural gas_
+_Context: Central, European Union, Gazprom, Russia, antitrust, eastern Europe, natural gas_
 
 ##### Syrian Civil War
 ### [The Syrian Observatory for Human Rights estimates that Syrian government air strikes on areas controlled by Islamic State in Iraq and the Levant kills 32 people. The air strikes hit a hospital in Dayr Hafir killing at least 21 people. ](/news/2015/04/22/the-syrian-observatory-for-human-rights-estimates-that-syrian-government-air-strikes-on-areas-controlled-by-islamic-state-in-iraq-and-the-le.md)

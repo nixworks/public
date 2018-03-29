@@ -119,7 +119,7 @@ _Context: South Sudan_
 ### [Opposition forces in Libya make gains amid NATO bombing, reportedly operating out of the capital Tripoli. ](/news/2011/05/10/opposition-forces-in-libya-make-gains-amid-nato-bombing-reportedly-operating-out-of-the-capital-tripoli.md)
 _Context: Libya, NATO, Tripoli, civil war_
 
-##### EU
+##### European Union
 ### [The European Union imposes sanctions on 13 Syrian officials in response to a violent crackdown on protests in the country. ](/news/2011/05/10/the-european-union-imposes-sanctions-on-13-syrian-officials-in-response-to-a-violent-crackdown-on-protests-in-the-country.md)
 EU names 13 Syrian officials on sanctions list, including a brother and influential cousin of president Bashar al-Assad.
 

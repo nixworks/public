@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/27/a-low-flying-boeing-vc-25-air-force-one-causes-
 
 ### [2009-04-27](/news/2009/04/27/index.md)
 
-##### Boeing
+##### The Boeing Company
 #  A low-flying Boeing VC-25, "Air Force One", causes momentary panic in New York City, New York, United States. 
 
 

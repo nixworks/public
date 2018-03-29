@@ -11,7 +11,7 @@ _Context: Egypt, Mohammed Mursi_
 ### [Chinese author Mo Yan, famous for working in the style of writing known as hallucinatory realism, wins the Nobel Prize in Literature. ](/news/2012/10/11/chinese-author-mo-yan-famous-for-working-in-the-style-of-writing-known-as-hallucinatory-realism-wins-the-nobel-prize-in-literature.md)
 _Context: Mo Yan, Nobel Prize in Literature, hallucinatory realism_
 
-##### England
+##### English
 ### [Englishman Barry Thew is sentenced to four months in jail after a t-shirt he wore is deemed to offend public morality. ](/news/2012/10/11/englishman-barry-thew-is-sentenced-to-four-months-in-jail-after-a-t-shirt-he-wore-is-deemed-to-offend-public-morality.md)
 A man who wore a T-shirt with offensive comments referring to the killing of two police officers in Greater Manchester is jailed.
 

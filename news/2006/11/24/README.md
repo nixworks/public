@@ -15,7 +15,7 @@ _Context: Kurmanbek Bakiyev, constitution, president_
 ### [ The Cole Inquiry delivers its report to the Australian Government to be tabled in the Parliament of Australia on Monday. It was inquiring whether Australian companies notably AWB Limited paid bribes to the Government of Saddam Hussein in order to sell wheat to Iraq. ](/news/2006/11/24/the-cole-inquiry-delivers-its-report-to-the-australian-government-to-be-tabled-in-the-parliament-of-australia-on-monday-it-was-inquiring-w.md)
 _Context: AWB Limited, Australia, Cole Inquiry, Iraq, Parliament of Australia, Saddam Hussein_
 
-##### EU
+##### European Union
 ### [ The European Union (EU) hosts the President of Russia Vladimir Putin in a summit. Poland has vetoed the launch of EU-Russia partnership talks. ](/news/2006/11/24/the-european-union-eu-hosts-the-president-of-russia-vladimir-putin-in-a-summit-poland-has-vetoed-the-launch-of-eu-russia-partnership-tal.md)
 The Age 404 Page
 

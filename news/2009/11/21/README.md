@@ -3,9 +3,9 @@ Formats: [HTML](2009/11/21/index.html)  [JSON](2009/11/21/index.json)  [XML](200
 
 ## [2009-11-21](/news/2009/11/21/index.md)
 
-##### Dutch
+##### Netherlands
 ### [ The Netherlands win the Junior Eurovision Song Contest 2009 with the song "Click Clack" by Ralf Mackenbach. ](/news/2009/11/21/the-netherlands-win-the-junior-eurovision-song-contest-2009-with-the-song-click-clack-by-ralf-mackenbach.md)
-_Context: Dutch, Junior Eurovision Song Contest 2009, Ralf Mackenbach_
+_Context: Junior Eurovision Song Contest 2009, Netherlands, Ralf Mackenbach_
 
 ##### Heilongjiang
 ### [ A gas blast at a coal mine in Heilongjiang province, northeastern China, kills 42 people and traps 66. ](/news/2009/11/21/a-gas-blast-at-a-coal-mine-in-heilongjiang-province-northeastern-china-kills-42-people-and-traps-66.md)

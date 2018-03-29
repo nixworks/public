@@ -11,9 +11,9 @@ The 2015 Nobel Prize in Chemistry is awarded for discoveries in DNA repair.
 ### [Brazil's Federal Accounts Court (TCU), in a unanimous 8-0 decision, rules that President Dilma Rousseff's government manipulated its accounts in 2014 to disguise a widening fiscal deficit. The ruling, while not legally binding, is expected to be used by opposition lawmakers who are calling for impeachment proceedings. ](/news/2015/10/7/brazil-s-federal-accounts-court-tcu-in-a-unanimous-8-0-decision-rules-that-president-dilma-rousseff-s-government-manipulated-its-account.md)
 _Context: Brazil, Dilma Rousseff, Federal Accounts Court, impeachment, president_
 
-##### China
+##### Chinese
 ### [China's Central Commission for Discipline Inspection announces their investigation of Fujian governor Su Shulin, the former chairman of China Petroleum and Chemical Corporation, on suspicion of serious disciplinary violations, the "euphemism for corruption." This follows the massive anti-corruption drive Communist Party general secretary Xi Jinping launched when he came to power more than three years ago. Su is the first sitting governor investigated since the campaign began. ](/news/2015/10/7/china-s-central-commission-for-discipline-inspection-announces-their-investigation-of-fujian-governor-su-shulin-the-former-chairman-of-chin.md)
-_Context: Anti-corruption campaign in China, Central Commission for Discipline Inspection, China, China Petroleum and Chemical Corporation, Fujian, General Secretary of the Communist Party of China, Su Shulin, Xi Jinping_
+_Context: Anti-corruption campaign in China, Central Commission for Discipline Inspection, China Petroleum and Chemical Corporation, Chinese, Fujian, General Secretary of the Communist Party of China, Su Shulin, Xi Jinping_
 
 ##### High Court of Australia
 ### [The High Court of Australia rules that the breast cancer gene BRCA-1 cannot be patented and the patent claimed by Myriad Genetics is invalid. ](/news/2015/10/7/the-high-court-of-australia-rules-that-the-breast-cancer-gene-brca-1-cannot-be-patented-and-the-patent-claimed-by-myriad-genetics-is-invalid.md)

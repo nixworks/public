@@ -29,7 +29,7 @@ _Context: China, H1N1, confirms its first case, swine flu_
 
 ##### Elevator
 ### [ Six people are injured as an elevator collapses inside Tower Bridge in London, England. ](/news/2009/05/11/six-people-are-injured-as-an-elevator-collapses-inside-tower-bridge-in-london-england.md)
-_Context: England, London, Tower Bridge, elevator_
+_Context: English, London, Tower Bridge, elevator_
 
 ## [Previous Day...](/news/2009/05/10/index.md)
 

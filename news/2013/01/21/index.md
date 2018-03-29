@@ -47,7 +47,7 @@ _Context: Brazil, So Paulo_
 ### [2013 Vienna train collision: Two trains packed with morning commuters collide in Vienna suburb, Austria, leaving 41 people injured, five of them seriously. ](/news/2013/01/21/2013-vienna-train-collision-two-trains-packed-with-morning-commuters-collide-in-vienna-suburb-austria-leaving-41-people-injured-five-of.md)
 Dozens of people are injured in a head-on collision between two commuter trains that were on the same railway track in Vienna.
 
-##### EU
+##### European Union
 ### [The finance ministers of the European Union are ready to give their needed approval to those countries within the EU that want to establish a Tobin tax, that is, a tax in financial transactions. ](/news/2013/01/21/the-finance-ministers-of-the-european-union-are-ready-to-give-their-needed-approval-to-those-countries-within-the-eu-that-want-to-establish.md)
 Germany, France and nine other euro zone countries will get the go-ahead on Tuesday to start work on a financial transactions tax, a measure likely to unsettle banks and trading houses but which will please voters and could raise much-needed revenue.
 

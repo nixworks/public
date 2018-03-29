@@ -29,7 +29,7 @@ PARIS (AP) — The head of the French national rail service says that train mars
 
 ##### Japan-Philippines relations
 ### [A Japanese Navy submarine makes a port call in the Philippines, the first in fifteen years, in a show of growing military cooperation amid tension triggered by China's growing assertiveness in the South China Sea. It was escorted into the former U.S. Naval Base at Subic Bay by two Japanese destroyers on a tour of Southeast Asia. ](/news/2016/04/3/a-japanese-navy-submarine-makes-a-port-call-in-the-philippines-the-first-in-fifteen-years-in-a-show-of-growing-military-cooperation-amid-t.md)
-_Context: China, Japan-Philippines relations, Japanese Navy, Philippines, South China Sea, Subic Bay, former U.S. Naval Base_
+_Context: Chinese, Japan-Philippines relations, Japanese Navy, Philippines, South China Sea, Subic Bay, former U.S. Naval Base_
 
 ##### Refugee immigration to Germany
 ### [Czech Minister of the Interior Milan Chovanec says that authorities in Prague will send a group of 25 Iraqi Christians back to Iraq after they tried to move to Germany rather than staying in the Czech Republic. The refugees were on their way to Germany via bus before being stopped at the border. Czech authorities agreed to a request by the German police to take the people back. Chovanec said the 25 Iraqis abused Czech generosity and should go back to Iraq within seven days. ](/news/2016/04/3/czech-minister-of-the-interior-milan-chovanec-says-that-authorities-in-prague-will-send-a-group-of-25-iraqi-christians-back-to-iraq-after-th.md)

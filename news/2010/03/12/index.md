@@ -61,7 +61,7 @@ A top aide to former US president George W Bush has defended the use of harsh in
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI is "distraught" by news alleged of child sexual abuse in Catholic dioceses in Germany, according to Archbishop Robert Zollitsch, as the church also faces paedophilia scandals in Ireland, Austria, and the Netherlands, while Pope Benedict defends clerical celibacy, calling it a symbol of "full devotion" and of "giving oneself to God and to others." ](/news/2010/03/12/pope-benedict-xvi-is-distraught-by-news-alleged-of-child-sexual-abuse-in-catholic-dioceses-in-germany-according-to-archbishop-robert-zoll.md)
-_Context: Austria, Dutch, Germany, Irish, Pope Benedict XVI, Robert Zollitsch, celibacy, paedophilia, sexual abuse_
+_Context: Austria, Germany, Irish, Netherlands, Pope Benedict XVI, Robert Zollitsch, celibacy, paedophilia, sexual abuse_
 
 ##### Israel
 ### [Israel fires its first missiles into Gaza this month injuring several civilians, following a rocket attack on a kibbutz in southern Israel which causes damage but no injuries.](/news/2010/03/12/israel-fires-its-first-missiles-into-gaza-this-month-injuring-several-civilians-following-a-rocket-attack-on-a-kibbutz-in-southern-israel-w.md)

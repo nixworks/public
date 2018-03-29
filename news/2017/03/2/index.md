@@ -5,7 +5,7 @@ Formats: [HTML](2017/03/2/index.html)  [JSON](2017/03/2/index.json)  [XML](2017/
 
 ##### Political appointments of Donald Trump
 ### [The U.S. Senate confirms Donald Trump's appointment of his former opponents in the presidential primaries, neurosurgeon Ben Carson and Governor of Texas Rick Perry, as Secretaries of Housing and Urban Development and Energy respectively, with the support of all Republicans and some Democrats. ](/news/2017/03/2/the-u-s-senate-confirms-donald-trump-s-appointment-of-his-former-opponents-in-the-presidential-primaries-neurosurgeon-ben-carson-and-gover.md)
-_Context: Ben Carson, Democrat, Energy, Housing and Urban Development, Political appointments of Donald Trump, Republican, Rick Perry, Trump, US Senators, presidential primaries_
+_Context: Ben Carson, Democrat, Donald Trump, Energy, Housing and Urban Development, Political appointments of Donald Trump, Republican, Rick Perry, US Senators, presidential primaries_
 
 ##### Sweden
 ### [The government of Sweden submits a bill to the Riksdag to reintroduce conscription this summer in response to new global security challenges. ](/news/2017/03/2/the-government-of-sweden-submits-a-bill-to-the-riksdag-to-reintroduce-conscription-this-summer-in-response-to-new-global-security-challenges.md)

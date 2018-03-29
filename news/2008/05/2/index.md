@@ -25,7 +25,7 @@ _Context: Dominic Dim Deng, Southern Sudan_
 
 ##### Foreign minister
 ### [ The foreign ministers of the United Kingdom, United States, Germany, France, Russia and China agree to make a new offer to Iran over its nuclear program. ](/news/2008/05/2/the-foreign-ministers-of-the-united-kingdom-united-states-germany-france-russia-and-china-agree-to-make-a-new-offer-to-iran-over-its-nu.md)
-_Context: China, France, Germany, Iran, Russia, United Kingdom, United States, foreign minister, nuclear program_
+_Context: Chinese, France, Germany, Iran, Russia, United Kingdom, United States, foreign minister, nuclear program_
 
 ##### Run-off presidential election
 ### [ The opposition Movement for Democratic Change proposes a power sharing arrangement with the President of Zimbabwe Robert Mugabe's party, the Zimbabwe African National Union, but not involving Mugabe. ](/news/2008/05/2/the-opposition-movement-for-democratic-change-proposes-a-power-sharing-arrangement-with-the-president-of-zimbabwe-robert-mugabe-s-party-th.md)

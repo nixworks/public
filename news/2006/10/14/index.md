@@ -9,7 +9,7 @@ _Context: Cabinet of Fredrik Reinfeldt, Maria Borelius, Sweden_
 
 ##### Battle of Hastings
 ### [ A re-enactment of the Battle of Hastings takes place in Sussex, UK to mark the 940th anniversary of the event which saw William of Normandy's forces defeat the Saxon army of King Harold II, and began the Norman conquest of England. ](/news/2006/10/14/a-re-enactment-of-the-battle-of-hastings-takes-place-in-sussex-uk-to-mark-the-940th-anniversary-of-the-event-which-saw-william-of-normandy.md)
-_Context: Anglo-Saxon, Battle of Hastings, British, England, King Harold II, Norman conquest, Normandy, Sussex, William_
+_Context: Anglo-Saxon, Battle of Hastings, British, English, King Harold II, Norman conquest, Normandy, Sussex, William_
 
 ##### United Nations Security Council
 ### [ The United Nations Security Council adopts Resolution 1718, imposing sanctions on North Korea in response to its recent nuclear test. ](/news/2006/10/14/the-united-nations-security-council-adopts-resolution-1718-imposing-sanctions-on-north-korea-in-response-to-its-recent-nuclear-test.md)

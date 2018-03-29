@@ -17,7 +17,7 @@ South Sudanese President Salva Kiir reappointed rebel leader Riek Machar as his 
 
 ##### Stuart Robert
 ### [Stuart Robert representing the Liberal Party, Australia's Minister for Veterans' Affairs and for Human Services, resigns for breaching ministerial standards during his 2014 business trip to China while Assistant Minister for Defence. ](/news/2016/02/12/stuart-robert-representing-the-liberal-party-australia-s-minister-for-veterans-affairs-and-for-human-services-resigns-for-breaching-minis.md)
-_Context: Assistant Minister for Defence, China, Human Services, Liberals, Minister for Veterans' Affairs, Stuart Robert_
+_Context: Assistant Minister for Defence, Chinese, Human Services, Liberals, Minister for Veterans' Affairs, Stuart Robert_
 
 ##### Cairo
 ### [In Cairo, thousands of doctors protest against police impunity following the assault, allegedly by Egyptian police officers, of two doctors in a hospital last week. Protests here are rare since enactment of a law limiting demonstrations to those with prior police approval. Another protest is planned across all hospitals for February 20. ](/news/2016/02/12/in-cairo-thousands-of-doctors-protest-against-police-impunity-following-the-assault-allegedly-by-egyptian-police-officers-of-two-doctors.md)

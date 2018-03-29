@@ -13,7 +13,7 @@ _Context: Apple Inc, iOS 6, iPhone 5_
 
 ##### General election in the Netherlands
 ### [Dutch general election of 2012, voters in the Netherlands elect new representation in the House of Representatives. The final prognosis shows 41 (+10) seats for incumbent Prime Minister Mark Rutte's People's Party for Freedom and Democracy (VVD) and 40 seats (+10) for PvdA, Diederik Samsom's Labour Party, out of a total 150 seats. Four other parties get between 12 and 15 seats: SP 15 (0), PVV 13 (-11), CDA 13 (-8), and D66 12 (+2) The remainder, 16 seats, are divided among five more parties. The final televised debate is cancelled. ](/news/2012/09/12/dutch-general-election-of-2012-voters-in-the-netherlands-elect-new-representation-in-the-house-of-representatives-the-final-prognosis-show.md)
-_Context: Diederik Samsom, Dutch, House of Representatives, Labour Party, Mark Rutte, Prime Minister, VVD, general election in the Netherlands_
+_Context: Diederik Samsom, House of Representatives, Labour Party, Mark Rutte, Netherlands, Prime Minister, VVD, general election in the Netherlands_
 
 ##### Hillsborough disaster
 ### [Previously unseen files relating to the 1989 Hillsborough disaster are released to the public. They show police failings, and attempts to shift the blame for the tragedy onto football fans. British Prime Minister David Cameron says he is "profoundly sorry" for what happened. ](/news/2012/09/12/previously-unseen-files-relating-to-the-1989-hillsborough-disaster-are-released-to-the-public-they-show-police-failings-and-attempts-to-sh.md)

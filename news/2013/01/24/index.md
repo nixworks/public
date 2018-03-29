@@ -5,7 +5,7 @@ Formats: [HTML](2013/01/24/index.html)  [JSON](2013/01/24/index.json)  [XML](201
 
 ##### European Bioinformatics Institute
 ### [Scientists from the European Bioinformatics Institute in Hinxton, England, successfully use DNA as a means of data storage. ](/news/2013/01/24/scientists-from-the-european-bioinformatics-institute-in-hinxton-england-successfully-use-dna-as-a-means-of-data-storage.md)
-_Context: DNA, England, European Bioinformatics Institute, Hinxton, data storage_
+_Context: DNA, English, European Bioinformatics Institute, Hinxton, data storage_
 
 ##### Polish Prime Minister
 ### [Prime Minister of Poland Donald Tusk is hospitalized with an acute infection of the respiratory tract. ](/news/2013/01/24/prime-minister-of-poland-donald-tusk-is-hospitalized-with-an-acute-infection-of-the-respiratory-tract.md)

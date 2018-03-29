@@ -11,7 +11,7 @@ Federal funding for embryonic stem cell studies in the U.S. is again under attac
 ### [A dismissed police inspector hijacks a coach belonging to Hong Thai Travel and its 25 Hong Kong tourists in Manila, the capital of the Philippines in order to demand his reinstatement. He is later shot dead by the police. At least 7 hostages are killed and 2 others severely injured.](/news/2010/08/23/a-dismissed-police-inspector-hijacks-a-coach-belonging-to-hong-thai-travel-and-its-25-hong-kong-tourists-in-manila-the-capital-of-the-phili.md)
 Eight Hong Kong tourists killed in 11-hour standoff in the Philippine capital.
 
-##### Muslim
+##### Muslims
 ### [25 prisoners, including Islamic militants, escape from a prison in Dushanbe, Tajikistan. ](/news/2010/08/23/25-prisoners-including-islamic-militants-escape-from-a-prison-in-dushanbe-tajikistan.md)
 Twenty-five prisoners, including several Islamic militants, have escaped from a prison in the Central Asian state of Tajikistan, reports say.
 

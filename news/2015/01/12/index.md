@@ -19,9 +19,9 @@ _Context: Albuquerque Police Department, Albuquerque, New Mexico, James Boyd_
 ### [A serviceman stationed at the Russian 102nd Military Base, Valeri Permyakov, kills six members of an Armenian family, including a two-year-old child, and, in addition, wounds a six-month-old child, in Gyumri, Armenia, initiating a manhunt by the Armenian security services until his capture. ](/news/2015/01/12/a-serviceman-stationed-at-the-russian-102nd-military-base-valeri-permyakov-kills-six-members-of-an-armenian-family-including-a-two-year-o.md)
 _Context: Armenia, Gyumri, Russian 102nd Military Base, kills six members_
 
-##### China
+##### Chinese
 ### [Chinese police kill six attacking militants wearing explosive devices in Xinjiang. ](/news/2015/01/12/chinese-police-kill-six-attacking-militants-wearing-explosive-devices-in-xinjiang.md)
-_Context: China, Xinjiang_
+_Context: Chinese, Xinjiang_
 
 ##### Rovinari
 ### [In Rovinari, Romania, a father and 6 siblings, aged from 6 months to 7 years, die after a gas water boiler emits carbon monoxide.](/news/2015/01/12/in-rovinari-romania-a-father-and-6-siblings-aged-from-6-months-to-7-years-die-after-a-gas-water-boiler-emits-carbon-monoxide.md)

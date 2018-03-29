@@ -21,7 +21,7 @@ _Context: President of Vietnam, Tran Dai Quang_
 
 ##### 2016 U.S. election
 ### [The Republican National Committeeman for North Dakota, Curly Haugland, says that the likelihood for outsiders such as Donald Trump to get state electoral votes are slim as the party honor its own elders. ](/news/2016/04/2/the-republican-national-committeeman-for-north-dakota-curly-haugland-says-that-the-likelihood-for-outsiders-such-as-donald-trump-to-get-st.md)
-_Context: 2016 U.S. election, Curly Haugland, Republican National Committee, Republican Party presidential candidates, 2016, Trump_
+_Context: 2016 U.S. election, Curly Haugland, Donald Trump, Republican National Committee, Republican Party presidential candidates, 2016_
 
 ##### India
 ### [Indian women's rights activists are barred by angry villagers and local authorities from entering Shani Shingnapur temple despite a court ruling guaranteeing access. Breaking with a centuries-old tradition, the high court in Mumbai ruled women have a fundamental right to enter Hindu temples across the state of Maharashtra, and the government has the responsibility to protect their rights. Bhumata Ranragini Brigade leader Trupti Desai and 25 other supporters were detained by police. All India Mahila Congress President Shobha Oza and Delhi Commission for Women chairwoman Swati Maliwal called the actions of locals and authorities "completely shameful." ](/news/2016/04/2/indian-women-s-rights-activists-are-barred-by-angry-villagers-and-local-authorities-from-entering-shani-shingnapur-temple-despite-a-court-ru.md)
@@ -33,7 +33,7 @@ International Monetary Fund Managing Director Christine Lagarde denied on Sunday
 
 ##### NATO-Russia relations
 ### [The United States Air Force sends 12 F-15C Eagles and 350 personnel to Iceland and the Netherlands to deter further Russian aggression in Europe. ](/news/2016/04/2/the-united-states-air-force-sends-12-f-15c-eagles-and-350-personnel-to-iceland-and-the-netherlands-to-deter-further-russian-aggression-in-eu.md)
-_Context:  F-15C Eagle, Dutch, Europe, Iceland, NATO-Russia relations, Russia, U.S. Air Force_
+_Context:  F-15C Eagle, Europe, Iceland, NATO-Russia relations, Netherlands, Russia, U.S. Air Force_
 
 ##### Burundian unrest (2015-present)
 ### [The United Nations Security Council unanimously adopts a resolution setting the stage for the deployment of UN Police to Burundi, where political unrest that has lasted nearly a year killed over 400 people and displaced tens of thousands. The resolution asks Secretary-General Ban Ki-moon to present options within 15 days for the deployment of UN police in order to monitor the security situation, promote respect for human rights and advance the rule of law. ](/news/2016/04/2/the-united-nations-security-council-unanimously-adopts-a-resolution-setting-the-stage-for-the-deployment-of-un-police-to-burundi-where-poli.md)

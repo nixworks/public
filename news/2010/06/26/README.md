@@ -69,7 +69,7 @@ Somaliland, a relatively peaceful, organized piece of the Somali puzzle, hopes t
 
 ##### President
 ### [President of Zambia Rupiah Banda says his country did not ask for health and road aid which has now been frozen by The Global Fund to Fight AIDS, Tuberculosis and Malaria and the European Union before an upcoming election and says "We must not allow donors to feel they can interfere in the internal affairs of this country because it is a sovereign and independent state". ](/news/2010/06/26/president-of-zambia-rupiah-banda-says-his-country-did-not-ask-for-health-and-road-aid-which-has-now-been-frozen-by-the-global-fund-to-fight.md)
-_Context: EU, President, Rupiah Banda, The Global Fund to Fight AIDS, Tuberculosis and Malaria_
+_Context: European Union, President, Rupiah Banda, The Global Fund to Fight AIDS, Tuberculosis and Malaria_
 
 ##### G-20
 ### [The leaders of the world's twenty largest economies meet in Canada at the 2010 G-20 Toronto summit. ](/news/2010/06/26/the-leaders-of-the-world-s-twenty-largest-economies-meet-in-canada-at-the-2010-g-20-toronto-summit.md)

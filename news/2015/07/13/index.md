@@ -7,7 +7,7 @@ Formats: [HTML](2015/07/13/index.html)  [JSON](2015/07/13/index.json)  [XML](201
 ### [Scott Walker, the Governor of Wisconsin, announces that he will be seeking the Republican Party nomination. ](/news/2015/07/13/scott-walker-the-governor-of-wisconsin-announces-that-he-will-be-seeking-the-republican-party-nomination.md)
 Wisconsin Gov. Scott Walker made his long-expected White House run official Monday morning, tweeting that he will seek the GOP nomination for president.
 
-##### Dutch
+##### Netherlands
 ### [Dutch Finance Minister Jeroen Dijsselbloem was re-elected president of the Eurogroup for a second term. ](/news/2015/07/13/dutch-finance-minister-jeroen-dijsselbloem-was-re-elected-president-of-the-eurogroup-for-a-second-term.md)
 Dutch Finance Minister Jeroen Dijsselbloem was re-elected on Monday as president of the Eurogroup of euro zone finance ministers, EU officials said in a statement.
 

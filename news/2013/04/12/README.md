@@ -37,7 +37,7 @@ _Context: Devinder Pal Singh Bhullar, India, Khalistan Liberation Force, Sikh, S
 
 ##### Vietnam
 ### [A representative from the Vietnamese Foreign Ministry's National Boundary Commission hands over a diplomatic note to a representative of the Chinese Embassy in Hanoi to protest China's recent plan to bring tourists to the disputed Paracel archipelago. ](/news/2013/04/12/a-representative-from-the-vietnamese-foreign-ministryas-national-boundary-commission-hands-over-a-diplomatic-note-to-a-representative-of-t.md)
-_Context: China, Chinese Embassy, Foreign Ministry, Hanoi, Paracel Islands, Vietnam, archipelago, tourists_
+_Context: Chinese, Chinese Embassy, Foreign Ministry, Hanoi, Paracel Islands, Vietnam, archipelago, tourists_
 
 ##### United States
 ### [The United States imposes sanctions on 18 "Magnitsky list" Russians accused of human rights violations. Russia threatens to retaliate. ](/news/2013/04/12/the-united-states-imposes-sanctions-on-18-magnitsky-list-russians-accused-of-human-rights-violations-russia-threatens-to-retaliate.md)
@@ -75,7 +75,7 @@ A judge says the retailer can at least temporarily sell housewares designed by M
 ### [Australian company Woodside Petroleum shelves its controversial $45 billion Browse LNG project planned for James Price Point on Western Australia's Dampier Peninsula. ](/news/2013/04/12/australian-company-woodside-petroleum-shelves-its-controversial-45-billion-browse-lng-project-planned-for-james-price-point-on-western-aust.md)
 Woodside is looking at other options after shelving its $45 billion Browse LNG development near Broome.
 
-##### EU
+##### European Union
 ### [European Union finance ministers and central bank governors begin a two-day meeting at Dublin Castle to talk about austerity, the collapse of the Cypriot economy and the creation of a federal bank. ](/news/2013/04/12/european-union-finance-ministers-and-central-bank-governors-begin-a-two-day-meeting-at-dublin-castle-to-talk-about-austerity-the-collapse-o.md)
 Eurozone and Ecofin finance ministers have agreed to extend the repayment of bailout loans for Ireland and Portugal by seven years.
 

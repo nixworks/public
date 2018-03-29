@@ -29,7 +29,7 @@ _Context: Berlin, Germany, NATO, civil war_
 
 ##### Brazil
 ### [Leaders of Brazil, Russia, India, China and South Africa attend a BRICS summit in Sanya in China's Hainan Province. ](/news/2011/04/14/leaders-of-brazil-russia-india-china-and-south-africa-attend-a-brics-summit-in-sanya-in-china-s-hainan-province.md)
-_Context: Brazil, Brazil, Russia, India, China, and South Africa, China, Hainan Province, India, Russia, Sanya, South Africa_
+_Context: Brazil, Brazil, Russia, India, China, and South Africa, Chinese, Hainan Province, India, Russia, Sanya, South Africa_
 
 ##### North Korea
 ### [North Korea confirms that it has detained a United States citizen Jun Young Su and is preparing to charge him with "committing a crime" against the country. ](/news/2011/04/14/north-korea-confirms-that-it-has-detained-a-united-states-citizen-jun-young-su-and-is-preparing-to-charge-him-with-committing-a-crime-agai.md)

@@ -31,7 +31,7 @@ A Philippines human rights body will probe claims by President Duterte that he k
 ### [As many as 80 inmates take over a section of HM Prison Swaleside on the Isle of Sheppey, Kent. ](/news/2016/12/22/as-many-as-80-inmates-take-over-a-section-of-hm-prison-swaleside-on-the-isle-of-sheppey-kent.md)
 Specialist teams are sent into a prison in Kent, after 60 inmates take control of part of a wing.
 
-##### Trump
+##### Donald Trump
 ### [U.S. president-elect Donald Trump calls President Abdel Fattah el-Sisi of Egypt, who then agrees to postpone a United Nations resolution regarding Israel. ](/news/2016/12/22/u-s-president-elect-donald-trump-calls-president-abdel-fattah-el-sisi-of-egypt-who-then-agrees-to-postpone-a-united-nations-resolution-reg.md)
 Egypt confirms Security Council resolution against Israeli settlement activity was withdrawn after Trump called Sisi.
 

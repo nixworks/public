@@ -29,7 +29,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ##### Philippines
 ### [The Philippines asks the International Court of Arbitration at The Hague to invalidate China's claims to virtually all of the South China Sea. The hearing was attended by observers from Indonesia, Japan, Malaysia, Thailand, and Vietnam. ](/news/2015/07/9/the-philippines-asks-the-international-court-of-arbitration-at-the-hague-to-invalidate-china-s-claims-to-virtually-all-of-the-south-china-se.md)
-_Context: China, Indonesia, International Court of Arbitration, Japan, Malaysia, Philippines, South China Sea, Thailand, The Hague, Vietnam_
+_Context: Chinese, Indonesia, International Court of Arbitration, Japan, Malaysia, Philippines, South China Sea, Thailand, The Hague, Vietnam_
 
 ##### 2015 Pacific typhoon season
 ### [Hong Kong starts closing schools as Typhoon Linfa approaches. ](/news/2015/07/9/hong-kong-starts-closing-schools-as-typhoon-linfa-approaches.md)

@@ -15,7 +15,7 @@ Millions of Americans are ineligible for law&rsquo;s tax subsidies, Appeals Cour
 ### [South Korean police advise that they have positively identified a body found on June 12 as Yoo Byung-eun wanted for his alleged role in the sinking of the MV "Sewol". ](/news/2014/07/22/south-korean-police-advise-that-they-have-positively-identified-a-body-found-on-june-12-as-yoo-byung-eun-wanted-for-his-alleged-role-in-the.md)
 Yoo Byung-eun was a church leader and businessman whom prosecutors had hoped to arrest in connection with the ferry disaster that killed more than 300 people.
 
-##### EU
+##### European Union
 ### [The European Union agrees to impose new sanctions on Russia, expanding a list of Russian entities and individuals subject to asset freezes and travel bans and threatens to target vast sectors of the Russian economy if Moscow does not act swiftly to rein in rebels believed to have shot down a Malaysia Airlines plane over eastern Ukraine. ](/news/2014/07/22/the-european-union-agrees-to-impose-new-sanctions-on-russia-expanding-a-list-of-russian-entities-and-individuals-subject-to-asset-freezes-a.md)
 Britain leads a bloc pressing for strong measures over the downing of a Malaysia Airlines plane.
 
@@ -29,7 +29,7 @@ _Context: Moscow Metro_
 
 ##### Taiwan
 ### [Typhoon Matmo (Henry) is expected to make landfall over Taiwan en route to eastern China later in the week. ](/news/2014/07/22/typhoon-matmo-henry-is-expected-to-make-landfall-over-taiwan-en-route-to-eastern-china-later-in-the-week.md)
-_Context: China, Taiwan_
+_Context: Chinese, Taiwan_
 
 ##### Suicide bombing
 ### [A suicide bombing in Baghdad kills at least 21 people. ](/news/2014/07/22/a-suicide-bombing-in-baghdad-kills-at-least-21-people.md)

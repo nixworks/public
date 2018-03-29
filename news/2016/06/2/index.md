@@ -9,7 +9,7 @@ The United States Supreme Court will next week consider a petition from five Ame
 
 ##### Paul Ryan
 ### [U.S. House Speaker Paul Ryan endorses Donald Trump for President of the United States. ](/news/2016/06/2/u-s-house-speaker-paul-ryan-endorses-donald-trump-for-president-of-the-united-states.md)
-_Context: Paul Ryan, Trump_
+_Context: Donald Trump, Paul Ryan_
 
 ##### 
 ### [ In Ottawa, Canada Marc Leduc is found guilty first-degree murder in the killings of two women found dead in 2008 and 2011 involved in drugs and sex trade. His DNA was matched after he was arrested in a 2012 sex assault with a knife. ](/news/2016/06/2/in-ottawa-canada-marc-leduc-is-found-guilty-first-degree-murder-in-the-killings-of-two-women-found-dead-in-2008-and-2011-involved-in-drugs.md)
@@ -17,7 +17,7 @@ Marc Leduc has been found guilty of first-degree murder in the deaths of Pamela 
 
 ##### Breaks out in a rally
 ### [Violence breaks out in a rally supporting Donald Trump in San Jose, California. An officer and several demonstrators were assaulted, and a few people were arrested. ](/news/2016/06/2/violence-breaks-out-in-a-rally-supporting-donald-trump-in-san-jose-california-an-officer-and-several-demonstrators-were-assaulted-and-a-f.md)
-_Context: San Jose, California, Trump, breaks out in a rally_
+_Context: Donald Trump, San Jose, California, breaks out in a rally_
 
 ##### 2016 Mathura clash
 ### [24 people are killed and 368 arrested in the Indian city of Mathura as police attempt to clear members of a squatter group from land they are occupying. ](/news/2016/06/2/24-people-are-killed-and-368-arrested-in-the-indian-city-of-mathura-as-police-attempt-to-clear-members-of-a-squatter-group-from-land-they-ar.md)

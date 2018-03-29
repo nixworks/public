@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/02/10/the-european-union-pledges-to-give-the-gambia-a
 
 ### [2017-02-10](/news/2017/02/10/index.md)
 
-##### EU
+##### European Union
 # The European Union pledges to give the Gambia EUR225 million in aid to assist the country following the departure of former president Yahya Jammeh, whose 22 years of misrule left the country "virtually bankrupt". 
 
 Major funding commitment to help ‘virtually bankrupt’ country shake off legacy of dictatorship, as President Adama Barrow promises better life for Gambians
@@ -24,6 +24,6 @@ Major funding commitment to help ‘virtually bankrupt’ country shake off lega
 
 1. [Voters in the Gambia go to the polls for an election, the country's first legislative election since longtime President Yahya Jammeh resigned and left the country. ](/news/2017/04/6/voters-in-the-gambia-go-to-the-polls-for-an-election-the-country-s-first-legislative-election-since-longtime-president-yahya-jammeh-resigne.md) _Context: Yahya Jammeh, the Gambia_
 2. [This week, the Gambia and Tanzania outlawed child marriages. Friday, the Tanzanian High Court -- in a case filed by the "Msichana Initiative", a lobbying group that advocates for girls' right to education -- ruled in favor of protecting girls from the harms of early marriage. And during a feast ending the Muslim holy month of Ramadan on Wednesday, The Gambian President Yahya Jammeh announced that child and forced marriages are banned. Jammeh called on the National Assembly to quickly take up the issue. ](/news/2016/07/9/this-week-the-gambia-and-tanzania-outlawed-child-marriages-friday-the-tanzanian-high-court-a-in-a-case-filed-by-the-msichana-initiativ.md) _Context: Yahya Jammeh, the Gambia_
-3. [Standard & Poor's downgrades Greece's sovereign credit rating to junk, four days after the country's government requests the activation of a EUR45-billion EU-IMF bailout. ](/news/2010/04/27/standard-poor-s-downgrades-greece-s-sovereign-credit-rating-to-junk-four-days-after-the-country-s-government-requests-the-activation-of-a.md) _Context: EU, EUR_
-4. [ The European Union proposes a EUR200 billion stimulus package that will include already-spent money ](/news/2008/11/26/the-european-union-proposes-a-a-200-billion-stimulus-package-that-will-include-already-spent-money.md) _Context: EU, EUR_
-5. [Euro banknotes and coins become legal tender in 12 member states of the European Union.](/news/2002/01/1/euro-banknotes-and-coins-become-legal-tender-in-12-member-states-of-the-european-union.md) _Context: EU, EUR_
+3. [Standard & Poor's downgrades Greece's sovereign credit rating to junk, four days after the country's government requests the activation of a EUR45-billion EU-IMF bailout. ](/news/2010/04/27/standard-poor-s-downgrades-greece-s-sovereign-credit-rating-to-junk-four-days-after-the-country-s-government-requests-the-activation-of-a.md) _Context: EUR, European Union_
+4. [ The European Union proposes a EUR200 billion stimulus package that will include already-spent money ](/news/2008/11/26/the-european-union-proposes-a-a-200-billion-stimulus-package-that-will-include-already-spent-money.md) _Context: EUR, European Union_
+5. [Euro banknotes and coins become legal tender in 12 member states of the European Union.](/news/2002/01/1/euro-banknotes-and-coins-become-legal-tender-in-12-member-states-of-the-european-union.md) _Context: EUR, European Union_

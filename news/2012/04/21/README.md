@@ -9,7 +9,7 @@ _Context: Philippines, species_
 
 ##### Rutte cabinet
 ### [The Rutte cabinet, the minority cabinet of the Netherlands, collapses after partner Party for Freedom suspends its support. ](/news/2012/04/21/the-rutte-cabinet-the-minority-cabinet-of-the-netherlands-collapses-after-partner-party-for-freedom-suspends-its-support.md)
-_Context: Dutch, Party for Freedom, Rutte cabinet_
+_Context: Netherlands, Party for Freedom, Rutte cabinet_
 
 ##### Kenya
 ### [Rangers in Kenya shoot dead five poachers in a clash in the Great Rift Valley. ](/news/2012/04/21/rangers-in-kenya-shoot-dead-five-poachers-in-a-clash-in-the-great-rift-valley.md)
@@ -25,7 +25,7 @@ Japan agrees to write off more than $3.7bn (£2.29bn) of debt to Burma as its pr
 
 ##### Head-on collision
 ### [Two trains are involved in a head-on collision near Sloterdijk, west of Amsterdam, the Netherlands, injuring at least 117, with 56 serious injuries. ](/news/2012/04/21/two-trains-are-involved-in-a-head-on-collision-near-sloterdijk-west-of-amsterdam-the-netherlands-injuring-at-least-117-with-56-serious-i.md)
-_Context: Amsterdam, Dutch, Sloterdijk, head-on collision_
+_Context: Amsterdam, Netherlands, Sloterdijk, head-on collision_
 
 ##### 2011-2012 Bahraini uprising
 ### [Bahraini uprising:Demonstrators against the regime flood a main highway in a march stretching for miles as Bahrain's rulers struggle to contain opposition anger ahead of the Formula 1 Grand Prix. ](/news/2012/04/21/bahraini-uprising-demonstrators-against-the-regime-flood-a-main-highway-in-a-march-stretching-for-miles-as-bahrain-s-rulers-struggle-to-cont.md)

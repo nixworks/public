@@ -7,7 +7,7 @@ Formats: [HTML](2011/12/20/index.html)  [JSON](2011/12/20/index.json)  [XML](201
 ### [Two Earth-sized planets, Kepler-20e and Kepler-20d, are found orbiting a star 950 light-years away from Earth. ](/news/2011/12/20/two-earth-sized-planets-kepler-20e-and-kepler-20d-are-found-orbiting-a-star-950-light-years-away-from-earth.md)
 _Context: Earth, Kepler-20e and Kepler-20d_
 
-##### Dutch
+##### Netherlands
 ### [Worldwide controversy erupts over a plan by Dutch scientists to publish findings relating to the development of a mutated strain of H5N1, that could potentially cause a worldwide pandemic that could kill millions. Bioterrorism watchdogs also express immense concern over the development of the virus (which is presently stored in Erasmus MC, Rotterdam). ](/news/2011/12/20/worldwide-controversy-erupts-over-a-plan-by-dutch-scientists-to-publish-findings-relating-to-the-development-of-a-mutated-strain-of-h5n1-th.md)
 A man-made virus that could wipe out half humanity has been deemed a terrorist threat. And while the scientists behind the Frankenstein-flu hoped their research would help find a cure, critics fear they have developed the ultimate bio-weapon.
 
@@ -31,7 +31,7 @@ Son and assumed heir of Kim Jong-il pays respects as South Korea sends condolenc
 ### [Former "Daily Mirror" editor Piers Morgan appears before the Leveson Inquiry via videolink from the United States to deny knowledge of hacking at the paper. ](/news/2011/12/20/former-daily-mirror-editor-piers-morgan-appears-before-the-leveson-inquiry-via-videolink-from-the-united-states-to-deny-knowledge-of-hacki.md)
 Former Daily Mirror editor Piers Morgan tells the Leveson Inquiry he does not believe phone hacking took place at the paper while he was in charge.
 
-##### EU
+##### European Union
 ### [Diplomats from the European Union, Non-aligned Movement and the Arab States Group on the UN Security Council criticise Israeli settlement activities in the West Bank and East Jerusalem. ](/news/2011/12/20/diplomats-from-the-european-union-non-aligned-movement-and-the-arab-states-group-on-the-un-security-council-criticise-israeli-settlement-ac.md)
 All the regional groupings on the UN Security Council condemn Israeli settlement activities in occupied Palestinian territories, in a surprise move.
 

@@ -33,7 +33,7 @@ _Context: Iran, Iran's parliamentary elections, Shargh, Yas-e-no_
 
 ##### European Commission
 ### [ European Commission President Romano Prodi vows stronger action to combat anti-Semitism in Europe. Prodi states that some criticism of Israel was inspired by "what amounts to anti-Semitic sentiments and prejudice." Youths from the large Arab immigrant communities in France, Belgium and other European countries are blamed for the rise in attacks against Jews in Europe. The European Union's ](/news/2004/02/19/european-commission-president-romano-prodi-vows-stronger-action-to-combat-anti-semitism-in-europe-prodi-states-that-some-criticism-of-isra.md)
-_Context: Arab, EU, European Commission, Israel, Romano Prodi, anti-Semitism_
+_Context: Arab, European Commission, European Union, Israel, Romano Prodi, anti-Semitism_
 
 ##### Gurgen Markarian
 ### [ Lt. Gurgen Markarian, an Armenian military officer attending a NATO Partnership for Peace program, is hacked to death with an axe and a knife by Lt. Ramil Safarov, an Azerbaijani participant. The officers were attending an English language course at the Hungarian Military University within the framework of the Partnership for Peace program, which is aimed at increasing cooperation between neutral and former Soviet bloc nations and NATO in peacekeeping and other areas. ](/news/2004/02/19/lt-gurgen-markarian-an-armenian-military-officer-attending-a-nato-partnership-for-peace-program-is-hacked-to-death-with-an-axe-and-a-kni.md)

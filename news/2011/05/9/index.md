@@ -79,9 +79,9 @@ _Context: China, Guilin, Luojiang, landslide, quarry_
 ### [At least 36 people are killed after several boats capsize during a storm on Lake Togo in southeastern Togo. ](/news/2011/05/9/at-least-36-people-are-killed-after-several-boats-capsize-during-a-storm-on-lake-togo-in-southeastern-togo.md)
 Seven boats have capsized in a storm in the west African nation of Togo, leaving at least 36 people dead, a police sources says, as authorities search for more victims. 
 
-##### EU
+##### European Union
 ### [Officials in the European Union acknowledge that Greece will need a second bailout program soon, and American ratings agency Standard & Poor's downgrades Greek bonds to junk status. ](/news/2011/05/9/officials-in-the-european-union-acknowledge-that-greece-will-need-a-second-bailout-program-soon-and-american-ratings-agency-standard-poor.md)
-_Context: EU, Greece, Standard & Poor's_
+_Context: European Union, Greece, Standard & Poor's_
 
 ##### Ivory Coast
 ### [The Ivory Coast, the world's largest cocoa producer, makes its first shipment since January, after the cocoa industry was disrupted by the 2010-2011 Ivorian crisis. ](/news/2011/05/9/the-ivory-coast-the-world-s-largest-cocoa-producer-makes-its-first-shipment-since-january-after-the-cocoa-industry-was-disrupted-by-the-2.md)
@@ -99,9 +99,9 @@ _Context: United States, United States housing bubble_
 ### [Chubu Electric Power considers a call by the Prime Minister of Japan Naoto Kan to close down the Hamaoka Nuclear Power Plant due to its vulnerability to a large earthquake. ](/news/2011/05/9/chubu-electric-power-considers-a-call-by-the-prime-minister-of-japan-naoto-kan-to-close-down-the-hamaoka-nuclear-power-plant-due-to-its-vuln.md)
 Japanese power firm Chubu Electric on Monday agreed to shut a nuclear plant until it can be better defended against the type of massive tsunami that in March triggered the worst atomic crisis in 25 years.
 
-##### China
+##### Chinese
 ### [China's yuan reaches a record level against the United States dollar. ](/news/2011/05/9/china-s-yuan-reaches-a-record-level-against-the-united-states-dollar.md)
-_Context: China, US$, yuan_
+_Context: Chinese, US$, yuan_
 
 ##### Civil war
 ### [2011 Libyan civil war: Five explosions rock Tripoli in Libya following the heaviest NATO bombing offensive in a week. ](/news/2011/05/9/2011-libyan-civil-war-five-explosions-rock-tripoli-in-libya-following-the-heaviest-nato-bombing-offensive-in-a-week.md)
@@ -109,7 +109,7 @@ _Context: Libya, NATO, Tripoli, civil war_
 
 ##### Ali Gomaa
 ### [Ali Gomaa, the Islamic Grand Mufti of Egypt, warns of the potential of civil war because of "outlaws who want to defy the authority of the state". ](/news/2011/05/9/ali-gomaa-the-islamic-grand-mufti-of-egypt-warns-of-the-potential-of-civil-war-because-of-outlaws-who-want-to-defy-the-authority-of-the-s.md)
-_Context: Ali Gomaa, Egypt, Grand Mufti, Muslim_
+_Context: Ali Gomaa, Egypt, Grand Mufti, Muslims_
 
 ##### Russia
 ### [Russian President Dmitry Medvedev presides over the Victory Day Parade on Moscow's Red Square. ](/news/2011/05/9/russian-president-dmitry-medvedev-presides-over-the-victory-day-parade-on-moscow-s-red-square.md)

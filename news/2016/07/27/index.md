@@ -79,9 +79,9 @@ Coca-Cola share prices fall after the Dow component cut its organic revenue fore
 ### [Facebook beats earnings expectations. ](/news/2016/07/27/facebook-beats-earnings-expectations.md)
 Facebook posted quarterly earnings and revenue that blew away analyst estimates as its ad business flourished.
 
-##### China
+##### Chinese
 ### [China claims to have discovered the largest undersea hole dubbed "The Dragon's Hole" in the disputed Paracel Islands. ](/news/2016/07/27/china-claims-to-have-discovered-the-largest-undersea-hole-dubbed-the-dragon-s-hole-in-the-disputed-paracel-islands.md)
-_Context: China, Paracel Islands, The Dragon's Hole_
+_Context: Chinese, Paracel Islands, The Dragon's Hole_
 
 ##### Philip Hammond
 ### [British Chancellor Philip Hammond reports that the British economy grew in the last quarter immediately before Brexit, though economists warn that the economy is probably shrinking. ](/news/2016/07/27/british-chancellor-philip-hammond-reports-that-the-british-economy-grew-in-the-last-quarter-immediately-before-brexit-though-economists-war.md)

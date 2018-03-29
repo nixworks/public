@@ -29,11 +29,11 @@ Scotland Yard contacts Australian police over the apparent suicide of a nurse fr
 
 ##### Tibet
 ### [A Tibetan monk is arrested by Chinese authorities, accused of inciting self-immolation protests against Chinese rule. ](/news/2012/12/9/a-tibetan-monk-is-arrested-by-chinese-authorities-accused-of-inciting-self-immolation-protests-against-chinese-rule.md)
-_Context: China, Tibet, protest, self-immolation_
+_Context: Chinese, Tibet, protest, self-immolation_
 
 ##### Vietnam
 ### [Police in Vietnam break up anti-China protests over gas and oil claims in the South China Sea. ](/news/2012/12/9/police-in-vietnam-break-up-anti-china-protests-over-gas-and-oil-claims-in-the-south-china-sea.md)
-_Context: China, South China Sea, Vietnam_
+_Context: Chinese, South China Sea, Vietnam_
 
 ##### Bus
 ### [Six people are killed and 41 others injured on the spot when a bus skids off the road and plunges into a 30-meter deep gorge in Chimaltenango, Guatemala. ](/news/2012/12/9/six-people-are-killed-and-41-others-injured-on-the-spot-when-a-bus-skids-off-the-road-and-plunges-into-a-30-meter-deep-gorge-in-chimaltenang.md)

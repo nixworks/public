@@ -17,7 +17,7 @@ _Context: China, Sichuan_
 
 ##### Deadly landslide
 ### [ A mudslide caused by an illegal mine in Shanxi province in China kills 254 people. ](/news/2008/09/13/a-mudslide-caused-by-an-illegal-mine-in-shanxi-province-in-china-kills-254-people.md)
-_Context: China, Shanxi province, deadly landslide_
+_Context: China, Shanxi, deadly landslide_
 
 ##### Lowgar Province
 ### [ Abullah Wardak, the Governor of the Lowgar Province of Afghanistan, is assassinated in a car bomb. ](/news/2008/09/13/abullah-wardak-the-governor-of-the-lowgar-province-of-afghanistan-is-assassinated-in-a-car-bomb.md)

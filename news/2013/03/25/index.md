@@ -23,7 +23,7 @@ A 16-year-old Tennessee girl on spring break was stabbed Monday inside a downtow
 ### [Hundreds of people gather outside "Daily Mail" headquarters to hold a vigil after the possible hounding to death of a primary school teacher Lucy Meadows by the British media. ](/news/2013/03/25/hundreds-of-people-gather-outside-daily-mail-headquarters-to-hold-a-vigil-after-the-possible-hounding-to-death-of-a-primary-school-teacher.md)
 _Context: British media, Daily Mail, Lucy Meadows, primary school, teacher_
 
-##### EU
+##### European Union
 ### [The European Union and Japan say that they will begin talks to restart free trade between the two entities beginning in April. ](/news/2013/03/25/the-european-union-and-japan-say-that-they-will-begin-talks-to-restart-free-trade-between-the-two-entities-beginning-in-april.md)
 Japan and the European Union announced they will start free trade talks in April, as Japanese Prime Minister Shinzo Abe pushes for deregulation in a bid to revive the world’s third-largest economy.
 
@@ -31,13 +31,13 @@ Japan and the European Union announced they will start free trade talks in April
 ### [United States Secretary of State John Kerry meets with the President of Afghanistan Hamid Karzai to talk about the two countries' strained relations. ](/news/2013/03/25/united-states-secretary-of-state-john-kerry-meets-with-the-president-of-afghanistan-hamid-karzai-to-talk-about-the-two-countries-strained-r.md)
 _Context: Afghan President, Hamid Karzai, John Kerry, Secretary of State, strained relations_
 
-##### EU
+##### European Union
 ### [The European Union suspends sanctions against 81 officials and eight firms in Zimbabwe, but those against President Robert Mugabe and his top aides remain in place. ](/news/2013/03/25/the-european-union-suspends-sanctions-against-81-officials-and-eight-firms-in-zimbabwe-but-those-against-president-robert-mugabe-and-his-to.md)
 The European Union suspends sanctions against 81 officials and eight firms in Zimbabwe following what it called a &quot;successful&quot; constitutional referendum.
 
-##### China
+##### Chinese
 ### [China's President Xi Jinping vows to intensify ties with Africa, as he addresses leaders in Dar es Salaam, Tanzania, on his first trip to the continent. ](/news/2013/03/25/china-s-president-xi-jinping-vows-to-intensify-ties-with-africa-as-he-addresses-leaders-in-dar-es-salaam-tanzania-on-his-first-trip-to-th.md)
-_Context: Africa, China, Chinese President, Dar es Salaam, Tanzania, Xi Jinping_
+_Context: Africa, Chinese, Chinese President, Dar es Salaam, Tanzania, Xi Jinping_
 
 ##### South Korea
 ### [South Korea signs a new military plan with the United States to counter a possible incursion or a limited attack from North Korea. ](/news/2013/03/25/south-korea-signs-a-new-military-plan-with-the-united-states-to-counter-a-possible-incursion-or-a-limited-attack-from-north-korea.md)

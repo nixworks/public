@@ -17,7 +17,7 @@ _Context: Kenya_
 
 ##### Conservative Party
 ### [The British Conservative Party publishes a draft European Union (Referendum) Bill aimed at holding a referendum on Britain's membership of the European Union by 2017. ](/news/2013/05/14/the-british-conservative-party-publishes-a-draft-european-union-referendum-bill-aimed-at-holding-a-referendum-on-britain-s-membership-of-t.md)
-_Context: Conservative Party, EU, United Kingdom withdrawal from the European Union_
+_Context: Conservative Party, European Union, United Kingdom withdrawal from the European Union_
 
 ##### Philippine President
 ### [Former President of the Philippines Joseph Estrada is declared as the winner of the mayoral election in the capital Manila. ](/news/2013/05/14/former-president-of-the-philippines-joseph-estrada-is-declared-as-the-winner-of-the-mayoral-election-in-the-capital-manila.md)

@@ -13,7 +13,7 @@ _Context: Gabrielle Giffords, Mark Kelly, NASA, Space Shuttle ''Endeavour'', Uni
 
 ##### Prime Minister of Italy
 ### [Prime Minister of Italy Silvio Berlusconi ignores his recent sex scandals to claim to the media at a summit in Brussels that he is the most popular national leader in the European Union. ](/news/2011/02/4/prime-minister-of-italy-silvio-berlusconi-ignores-his-recent-sex-scandals-to-claim-to-the-media-at-a-summit-in-brussels-that-he-is-the-most.md)
-_Context: Brussels, EU, Prime Minister of Italy, Silvio Berlusconi_
+_Context: Brussels, European Union, Prime Minister of Italy, Silvio Berlusconi_
 
 ##### President
 ### [President of Kazakhstan Nursultan Nazarbayev calls an early election for April 3, rejecting a plan for a referendum intended to allow him to rule for another decade. ](/news/2011/02/4/president-of-kazakhstan-nursultan-nazarbayev-calls-an-early-election-for-april-3-rejecting-a-plan-for-a-referendum-intended-to-allow-him-to.md)

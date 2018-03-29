@@ -11,9 +11,9 @@ _Context: Andrew Lloyd Webber, prostate cancer_
 ### [ Inspectors from the United Nations' nuclear watchdog, the International Atomic Energy Agency (IAEA), arrive in Iran to inspect a newly disclosed nuclear facility near the city of Qom. ](/news/2009/10/25/inspectors-from-the-united-nations-nuclear-watchdog-the-international-atomic-energy-agency-iaea-arrive-in-iran-to-inspect-a-newly-disc.md)
 _Context: IAEA, Iran, Qom, United Nations_
 
-##### Dutch
+##### Netherlands
 ### [ Buildings across the Netherlands&mdash;St. Martin's Cathedral, Utrecht, Rotterdam's Euromast and Groningen's Martinitoren&mdash;dim their lights as clocks go back in Europe. ](/news/2009/10/25/buildings-across-the-netherlands-mdash-st-martin-s-cathedral-utrecht-rotterdam-s-euromast-and-groningen-s-martinitoren-mdash-dim-their-l.md)
-_Context: Dutch, Euromast, Europe, Groningen, Martinitoren, Rotterdam, St. Martin's Cathedral, Utrecht_
+_Context: Euromast, Europe, Groningen, Martinitoren, Netherlands, Rotterdam, St. Martin's Cathedral, Utrecht_
 
 ##### Oil refinery fire
 ### [ The oil refinery fire continues to burn out of control in Catao, Puerto Rico, two days after the initial explosion. ](/news/2009/10/25/the-oil-refinery-fire-continues-to-burn-out-of-control-in-catano-puerto-rico-two-days-after-the-initial-explosion.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/29/the-chinese-shenzhou-9-space-capsule-lands-safe
 
 ### [2012-06-29](/news/2012/06/29/index.md)
 
-##### China
+##### Chinese
 # The Chinese Shenzhou 9 space capsule lands safely with all three astronauts aboard. 
 
 
@@ -15,8 +15,8 @@ Formats: [HTML](/news/2012/06/29/the-chinese-shenzhou-9-space-capsule-lands-safe
 
 ### Related:
 
-1. [China successfully carries out its first manual docking of a spacecraft between the Shenzhou 9 capsule and Tiangong-1 station. ](/news/2012/06/24/china-successfully-carries-out-its-first-manual-docking-of-a-spacecraft-between-the-shenzhou-9-capsule-and-tiangong-1-station.md) _Context: China, Shenzhou 9_
-2. [China successfully launches its Shenzhou 9 spacecraft, carrying three astronauts &ndash; including the first female Chinese astronaut, Liu Yang &ndash; to the Tiangong-1 orbital module. ](/news/2012/06/16/china-successfully-launches-its-shenzhou-9-spacecraft-carrying-three-astronauts-ndash-including-the-first-female-chinese-astronaut-liu-y.md) _Context: China, Shenzhou 9_
-3. [The USS "Carl Vinson" enters Vietnam's Da Nang Port, becoming the first U.S. aircraft carrier to visit a Vietnamese port since the Vietnam War in 1975. The visit comes amid tensions in the region with China. ](/news/2018/03/5/the-uss-carl-vinson-enters-vietnam-s-da-nang-port-becoming-the-first-u-s-aircraft-carrier-to-visit-a-vietnamese-port-since-the-vietnam-w.md) _Context: China_
-4. [A senior Chinese diplomat says that China does not want a trade war with the United States after U.S. President Donald Trump announced a plan to put tariffs on steel and aluminium imports. ](/news/2018/03/4/a-senior-chinese-diplomat-says-that-china-does-not-want-a-trade-war-with-the-united-states-after-u-s-president-donald-trump-announced-a-pla.md) _Context: China_
-5. [China launches an oil futures market in a bid to compete with oil benchmarks from the United States and Europe. ](/news/2018/03/26/china-launches-an-oil-futures-market-in-a-bid-to-compete-with-oil-benchmarks-from-the-united-states-and-europe.md) _Context: China_
+1. [China successfully carries out its first manual docking of a spacecraft between the Shenzhou 9 capsule and Tiangong-1 station. ](/news/2012/06/24/china-successfully-carries-out-its-first-manual-docking-of-a-spacecraft-between-the-shenzhou-9-capsule-and-tiangong-1-station.md) _Context: Chinese, Shenzhou 9_
+2. [China successfully launches its Shenzhou 9 spacecraft, carrying three astronauts &ndash; including the first female Chinese astronaut, Liu Yang &ndash; to the Tiangong-1 orbital module. ](/news/2012/06/16/china-successfully-launches-its-shenzhou-9-spacecraft-carrying-three-astronauts-ndash-including-the-first-female-chinese-astronaut-liu-y.md) _Context: Chinese, Shenzhou 9_
+3. [The USS "Carl Vinson" enters Vietnam's Da Nang Port, becoming the first U.S. aircraft carrier to visit a Vietnamese port since the Vietnam War in 1975. The visit comes amid tensions in the region with China. ](/news/2018/03/5/the-uss-carl-vinson-enters-vietnam-s-da-nang-port-becoming-the-first-u-s-aircraft-carrier-to-visit-a-vietnamese-port-since-the-vietnam-w.md) _Context: Chinese_
+4. [A senior Chinese diplomat says that China does not want a trade war with the United States after U.S. President Donald Trump announced a plan to put tariffs on steel and aluminium imports. ](/news/2018/03/4/a-senior-chinese-diplomat-says-that-china-does-not-want-a-trade-war-with-the-united-states-after-u-s-president-donald-trump-announced-a-pla.md) _Context: Chinese_
+5. [The governments of China and North Korea both confirm that North Korean leader Kim Jong-un met with Chinese President Xi Jinping in Beijing during the past four days. China states that North Korea is "committed to denuclearization" and willing to hold a summit with the United States. ](/news/2018/03/28/the-governments-of-china-and-north-korea-both-confirm-that-north-korean-leader-kim-jong-un-met-with-chinese-president-xi-jinping-in-beijing.md) _Context: Chinese_

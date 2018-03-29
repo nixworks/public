@@ -23,7 +23,7 @@ Rick Santorum is charging into the Louisiana primary Saturday holding onto a hea
 ### [Voters in the Australian state of Queensland go to the polls for a state election, with the Liberal National Party led by Campbell Newman winning government in a landslide. ](/news/2012/03/24/voters-in-the-australian-state-of-queensland-go-to-the-polls-for-a-state-election-with-the-liberal-national-party-led-by-campbell-newman-wi.md)
 Get the latest on the results of the state election with our live blog Poll Call.
 
-##### China
+##### Chinese
 ### [China announces phase-out practice of taking and selling organs from executed prisoners. ](/news/2012/03/24/china-announces-phase-out-practice-of-taking-and-selling-organs-from-executed-prisoners.md)
 A top Chinese health official says China will phase out the practice of taking organs from executed prisoners.
 

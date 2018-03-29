@@ -57,7 +57,7 @@ _Context: Colorado, Denver, Colorado, flood_
 
 ##### Enschede
 ### [In Enschede the Netherlands part of the roof of the stadium of football club FC Twente "De Grolsch Veste" collapses leaving persons dead and a dozen injured. ](/news/2011/07/7/in-enschede-the-netherlands-part-of-the-roof-of-the-stadium-of-football-club-fc-twente-de-grolsch-veste-collapses-leaving-persons-dead-and.md)
-_Context: De Grolsch Veste, Dutch, Enschede, FC Twente_
+_Context: De Grolsch Veste, Enschede, FC Twente, Netherlands_
 
 ##### Uttar Pradesh
 ### [At least thirty people are feared dead after a collision between a passenger train and a bus in Uttar Pradesh, India. ](/news/2011/07/7/at-least-thirty-people-are-feared-dead-after-a-collision-between-a-passenger-train-and-a-bus-in-uttar-pradesh-india.md)

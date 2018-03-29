@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/27/two-ships-collide-in-the-great-belt-strait-betw
 
 ### [2018-03-27](/news/2018/03/27/index.md)
 
-##### Great Belt
+##### Maritime incidents in 2018
 # Two ships collide in the Great Belt strait between Funen and Zealand, near Romso, Denmark. One catches fire. 
 
 A container ship and a merchant ship collided in the Great Belt strait between the Danish islands of Funen and Zealand on Tuesday morning.
@@ -12,7 +12,8 @@ A container ship and a merchant ship collided in the Great Belt strait between t
 ### Sources:
 
 1. [The Local](https://www.thelocal.dk/20180327/fire-after-collision-between-ships-in-danish-strait)
-1. [Cover Image](https://www.thelocal.dk/userdata/images/article/540ed27a182f8fd99817f6efe6e19bf15af29a195dcdb6c5a27a0cfbf3bb5c7f.jpg)
+2. [The Malay Mail](http://www.themalaymailonline.com/malaysia/article/search-area-expanded-for-capsized-sand-dredger)
+2. [Cover Image](https://www.thelocal.dk/userdata/images/article/540ed27a182f8fd99817f6efe6e19bf15af29a195dcdb6c5a27a0cfbf3bb5c7f.jpg)
 
 ### Related:
 

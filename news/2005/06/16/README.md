@@ -39,9 +39,9 @@ _Context: Conflict in Iraq, Iraq, Ramadi, U.S. Marine_
 ### [ 26 of 60 tank cars carrying fuel oil derail near Rzhev, Russia (about 200 km - 125 miles northwest of Moscow), sending a very large amount of oil into the ground contaminating Moscow's water supply and the Volga River after flowing down the Vazuza River from the accident site. It is not yet known if this incident is related to the bomb that was exploded on June 12 that derailed a passenger train. ](/news/2005/06/16/26-of-60-tank-cars-carrying-fuel-oil-derail-near-rzhev-russia-about-200-km-125-miles-northwest-of-moscow-sending-a-very-large-amount.md)
 _Context: Moscow, Rzhev, Vazuza River, Volga River, oil, passenger train, tank car_
 
-##### Metropolitan Police
+##### Police
 ### [ A report by the Metropolitan Police in the UK states that children are being trafficked into the UK from Africa to be used as 'human sacrifices'. ](/news/2005/06/16/a-report-by-the-metropolitan-police-in-the-uk-states-that-children-are-being-trafficked-into-the-uk-from-africa-to-be-used-as-human-sacrif.md)
-_Context: Metropolitan Police, human sacrifice_
+_Context: Police, human sacrifice_
 
 ## [Previous Day...](/news/2005/06/15/index.md)
 

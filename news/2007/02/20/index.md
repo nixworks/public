@@ -15,9 +15,9 @@ _Context: Dick Cheney, Iraq, Japan, U.S. Vice President_
 ### [ NATO troops in Bosnia-Herzegovina carry out early morning raids on the houses of the children of convicted war criminal Radovan Karadzic. ](/news/2007/02/20/nato-troops-in-bosnia-herzegovina-carry-out-early-morning-raids-on-the-houses-of-the-children-of-convicted-war-criminal-radovan-karada3-4ia.md)
 _Context: Bosnia-Herzegovina, NATO, Radovan Karadzic, war criminal_
 
-##### Volvo AB
+##### Volvo
 ### [ Volvo AB agrees to buy truckmaker Nissan Diesel for $1.1 billion. ](/news/2007/02/20/volvo-ab-agrees-to-buy-truckmaker-nissan-diesel-for-1-1-billion.md)
-_Context: Nissan Diesel, USD, Volvo AB_
+_Context: Nissan Diesel, USD, Volvo_
 
 ##### Earthquake
 ### [ A powerful earthquake in northeastern Indonesia sparks a tsunami warning. ](/news/2007/02/20/a-powerful-earthquake-in-northeastern-indonesia-sparks-a-tsunami-warning.md)

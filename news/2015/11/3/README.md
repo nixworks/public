@@ -25,7 +25,7 @@ _Context: Cabinet of Japan, Coast Guard, Japan, Japan-Vietnam relations, South C
 
 ##### Libyan Crisis (2011-present)
 ### [The New General National Congress (Libya Dawn) which controls the capital Tripoli, and much of western Libya, threatens to send 'hundreds of thousands' of refugees to Europe unless the European Union recognizes the Islamist-led government. ](/news/2015/11/3/the-new-general-national-congress-libya-dawn-which-controls-the-capital-tripoli-and-much-of-western-libya-threatens-to-send-hundreds-of.md)
-_Context: EU, Europe, General National Congress, Islamists, Libya, Libyan Crisis (2011-present), Tripoli_
+_Context: Europe, European Union, General National Congress, Islamists, Libya, Libyan Crisis (2011-present), Tripoli_
 
 ##### China-United States relations
 ### [In a Peking University speech in Beijing, US Pacific Command commander, Admiral Harry Harris, says the U.S. Navy's freedom-of-navigation patrols in the South China Sea are routine operations intended to demonstrate respect for international law principles. Harris reiterated they should not be construed as a threat to any country while emphasizing America's common ground with China. ](/news/2015/11/3/in-a-peking-university-speech-in-beijing-us-pacific-command-commander-admiral-harry-harris-says-the-u-s-navyas-freedom-of-navigation-p.md)

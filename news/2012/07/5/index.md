@@ -27,7 +27,7 @@ _Context: Bureau of Investigation and Analysis, France, crash of Air France Flig
 ### [Torrential rain in Northern Ireland causes flooding in the towns of Newry and Newcastle in County Down. ](/news/2012/07/5/torrential-rain-in-northern-ireland-causes-flooding-in-the-towns-of-newry-and-newcastle-in-county-down.md)
 _Context: County Down, Newcastle, Newry, Northern Ireland_
 
-##### EU
+##### European Union
 ### [The central banks of the European Union, Great Britain, and the People's Republic of China, in what appears to be a co-ordinated action, each loosen their respective monetary systems. ](/news/2012/07/5/the-central-banks-of-the-european-union-great-britain-and-the-people-s-republic-of-china-in-what-appears-to-be-a-co-ordinated-action-eac.md)
 China, the euro zone and Britain loosened monetary policy in the space of less than an hour on Thursday, signaling a growing level of alarm about the world economy, although suggestions of coordinated action were played down.
 

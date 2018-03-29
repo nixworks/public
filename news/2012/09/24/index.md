@@ -41,7 +41,7 @@ It supplies the world&#039;s technology giants, including Apple, but Foxconn has
 
 ##### Wang Lijun
 ### [Wang Lijun, the former police chief and vice-mayor of Chongqing, China, is sentenced to 15 years in prison for corruption-related charges and defection. ](/news/2012/09/24/wang-lijun-the-former-police-chief-and-vice-mayor-of-chongqing-china-is-sentenced-to-15-years-in-prison-for-corruption-related-charges-an.md)
-_Context: China, Chongqing, Wang Lijun_
+_Context: Chinese, Chongqing, Wang Lijun_
 
 ##### Jewish
 ### [Jewish Democrats ask Prime Minister of Israel Benjamin Netanyahu to stop bringing "daylight" into Israel-United States relations. ](/news/2012/09/24/jewish-democrats-ask-prime-minister-of-israel-benjamin-netanyahu-to-stop-bringing-daylight-into-israelaunited-states-relations.md)
@@ -49,7 +49,7 @@ Israeli Prime Minister Benjamin Netanyahu is on the defensive after facing accus
 
 ##### Taiwan
 ### [Dozens of Taiwanese fishing boats set sail for the disputed Senkaku Islands which are also claimed by China and Japan. ](/news/2012/09/24/dozens-of-taiwanese-fishing-boats-set-sail-for-the-disputed-senkaku-islands-which-are-also-claimed-by-china-and-japan.md)
-_Context: China, Japan, Senkaku Islands, Taiwan_
+_Context: Chinese, Japan, Senkaku Islands, Taiwan_
 
 ##### Building collapse
 ### [A building collapse in the Indian city of Pune kills at least six people. ](/news/2012/09/24/a-building-collapse-in-the-indian-city-of-pune-kills-at-least-six-people.md)

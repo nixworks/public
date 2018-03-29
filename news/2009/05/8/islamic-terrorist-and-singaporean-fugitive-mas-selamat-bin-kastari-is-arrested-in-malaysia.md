@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/8/islamic-terrorist-and-singaporean-fugitive-mas-s
 
 ### [2009-05-8](/news/2009/05/8/index.md)
 
-##### Muslim
+##### Muslims
 #  Islamic terrorist and Singaporean fugitive Mas Selamat bin Kastari is arrested in Malaysia. 
 
 

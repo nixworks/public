@@ -65,7 +65,7 @@ Critics of the Bush administration say that the focus on the Iraq war has jeopar
 
 ##### United States
 ### [ Trade officials from the United States, European Union, India and Brazil meet in New Delhi, India, to revive the World Trade Organization's Doha round of negotiations. ](/news/2007/04/11/trade-officials-from-the-united-states-european-union-india-and-brazil-meet-in-new-delhi-india-to-revive-the-world-trade-organization-s.md)
-_Context: Brazil, Doha round of negotiations, EU, India, New Delhi, United States, World Trade Organization_
+_Context: Brazil, Doha round of negotiations, European Union, India, New Delhi, United States, World Trade Organization_
 
 ## [Previous Day...](/news/2007/04/10/index.md)
 

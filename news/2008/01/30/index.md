@@ -13,7 +13,7 @@ _Context: Israel, Lebanese_
 
 ##### 2008 Chinese winter storms
 ### [ As snowstorms continue to worsen in China, Premier Wen Jiabao offers an apology to the public while visiting Changsha train station in Hunan as millions are stranded in train stations waiting to go home during Chinese New Year. ](/news/2008/01/30/as-snowstorms-continue-to-worsen-in-china-premier-wen-jiabao-offers-an-apology-to-the-public-while-visiting-changsha-train-station-in-huna.md)
-_Context: 2008 Chinese winter storms, Changsha, China, Chinese New Year, Hunan, Wen Jiabao, stranded in train stations_
+_Context: 2008 Chinese winter storms, Changsha, Chinese, Chinese New Year, Hunan, Wen Jiabao, stranded in train stations_
 
 ##### North Carolina
 ### [ Former North Carolina Senator John Edwards withdraws his candidacy. ](/news/2008/01/30/former-north-carolina-senator-john-edwards-withdraws-his-candidacy.md)

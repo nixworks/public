@@ -23,9 +23,9 @@ At least six foreigners have been killed and the death toll has gone up to 101 i
 ### [ U.S. President-elect Barack Obama announces that he will create a new "economic recovery board," headed by Paul Volcker, designed to provide "fresh perspective" on the current economic issues ](/news/2008/11/26/u-s-president-elect-barack-obama-announces-that-he-will-create-a-new-economic-recovery-board-headed-by-paul-volcker-designed-to-provid.md)
 _Context: Barack Obama, Paul Volcker, President-elect, U.S._
 
-##### EU
+##### European Union
 ### [ The European Union proposes a EUR200 billion stimulus package that will include already-spent money ](/news/2008/11/26/the-european-union-proposes-a-a-200-billion-stimulus-package-that-will-include-already-spent-money.md)
-_Context: EU, EUR_
+_Context: EUR, European Union_
 
 ##### Woolworths Group PLC
 ### [ Woolworths Group PLC agrees to put its chain of 815 stores in the United Kingdom and DVD distribution businesses into administration with 30,000 jobs at risk. ](/news/2008/11/26/woolworths-group-plc-agrees-to-put-its-chain-of-815-stores-in-the-united-kingdom-and-dvd-distribution-businesses-into-administration-with-3.md)

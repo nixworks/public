@@ -23,9 +23,9 @@ _Context: Congress_
 ### [ Israeli-Palestinian conflict: The commander of the Israeli Defense Force, Moshe Yaalon, orders an investigation "to reach the truth" of claims by the Yediot Ahronot newspaper that IDF troops abused Palestinian corpses. ](/news/2004/11/19/israeli-palestinian-conflict-the-commander-of-the-israeli-defense-force-moshe-yaalon-orders-an-investigation-to-reach-the-truth-of-cla.md)
 _Context: Israeli soldier, Israeli-Palestinian conflict, Moshe Yaalon, Palestinian, Yediot Ahronot_
 
-##### Dutch
+##### Netherlands
 ### [ Dutch lawmaker Geert Wilders, one of the most controversial Dutch politicians, advocates a five-year halt to non-Western immigration in the wake of the murder of Theo van Gogh stating: "The Netherlands has been too tolerant to intolerant people for too long, we should not import a retarded political Islamic society to our country". ](/news/2004/11/19/dutch-lawmaker-geert-wilders-one-of-the-most-controversial-dutch-politicians-advocates-a-five-year-halt-to-non-western-immigration-in-the.md)
-_Context: Dutch, Geert Wilders, Theo van Gogh, immigration_
+_Context: Geert Wilders, Netherlands, Theo van Gogh, immigration_
 
 ##### Sino-Japanese relations
 ### [ Sino-Japanese relations: Taiwan President Chen Shui-bian says information provided by his government helped Japan locate a Chinese nuclear submarine in Japanese waters a week ago. The PRC expressed "regret" after the incident. ](/news/2004/11/19/sino-japanese-relations-taiwan-president-chen-shui-bian-says-information-provided-by-his-government-helped-japan-locate-a-chinese-nuclear.md)

@@ -15,9 +15,9 @@ _Context: Pussy Riot, Russia_
 ### [Sudan confirms an oil agreement with neighbouring South Sudan. ](/news/2012/08/4/sudan-confirms-an-oil-agreement-with-neighbouring-south-sudan.md)
 _Context: South Sudan, Sudan_
 
-##### Muslim
+##### Muslims
 ### [Jailed Islamist cleric Abu Bakar Bashir threatens to wage war in Burma following alleged abuses by Buddhists against the country's Rohingya people by the Tatmadaw, in a letter to Burmese president Thein Sein. ](/news/2012/08/4/jailed-islamist-cleric-abu-bakar-bashir-threatens-to-wage-war-in-burma-following-alleged-abuses-by-buddhists-against-the-country-s-rohingya.md)
-_Context: Abu Bakar Bashir, Burma, Muslim, Rohingya, Thein Sein, security forces_
+_Context: Abu Bakar Bashir, Burma, Muslims, Rohingya, Thein Sein, security forces_
 
 ##### India
 ### [Heavy rains in the Indian state of Uttarakhand causes the loss of at least six lives in floods and landslides. ](/news/2012/08/4/heavy-rains-in-the-indian-state-of-uttarakhand-causes-the-loss-of-at-least-six-lives-in-floods-and-landslides.md)

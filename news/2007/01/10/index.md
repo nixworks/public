@@ -21,7 +21,7 @@ _Context: 2006 general election, Daniel Ortega, Enrique Bolanos, Nicaraguan Pres
 
 ##### European Commission
 ### [ The European Commission announces proposals for the EU to cut carbon dioxide emissions by 20% by 2020 and 60% by 2050 in order to mitigate global warming. ](/news/2007/01/10/the-european-commission-announces-proposals-for-the-eu-to-cut-carbon-dioxide-emissions-by-20-by-2020-and-60-by-2050-in-order-to-mitigate.md)
-_Context: EU, European Commission, carbon dioxide emissions, mitigate global warming_
+_Context: European Commission, European Union, carbon dioxide emissions, mitigate global warming_
 
 ##### India
 ### [ India launches four satellites at a time with their PSLV-C7 rocket, including the SRE-1 test article, which will return to Earth in a test for a future Indian manned spaceflight program. ](/news/2007/01/10/india-launches-four-satellites-at-a-time-with-their-pslv-c7-rocket-including-the-sre-1-test-article-which-will-return-to-earth-in-a-test.md)

@@ -75,7 +75,7 @@ Farmers in Argentina are halting wheat, maize and soy sales for seven days in pr
 ### [TV channel Headlines Today alleges that some "Indian-sounding names" feature in Swiss Bank secret accounts data retrieved from a former Swiss banker by Julian Assange, spokesperson for the WikiLeaks website. ](/news/2011/01/18/tv-channel-headlines-today-alleges-that-some-indian-sounding-names-feature-in-swiss-bank-secret-accounts-data-retrieved-from-a-former-swis.md)
 A television channel on Tuesday claimed that some Indian-sounding names figure in the Swiss Bank secret accounts data which were handed over to WikiLeaks founder Julian Assange by a former Swiss banker. 
 
-##### EU
+##### European Union
 ### [European Union finance ministers agree to more stringent methodology to "stress test" the same 91 European banks tested in 2010. This is due to happen in May. ](/news/2011/01/18/european-union-finance-ministers-agree-to-more-stringent-methodology-to-stress-test-the-same-91-european-banks-tested-in-2010-this-is-due.md)
 EU finance ministers agree to more stringent methodology to test if European banks can indeed weather financial crisis.
 

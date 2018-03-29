@@ -23,7 +23,7 @@ Thousands of leftwing demonstrators are expected to protest in Cologne, with fea
 ### [The campaign period officially ends. French citizens living overseas begin voting a day ahead of when the polls open in France. Final opinion polling gives Emmanuel Macron a slight lead over Marine Le Pen. Francois Fillon and Jean-Luc Melenchon are close behind. ](/news/2017/04/22/the-campaign-period-officially-ends-french-citizens-living-overseas-begin-voting-a-day-ahead-of-when-the-polls-open-in-france-final-opinio.md)
 The final hours of campaigning for the French presidential elections have been overshadowed by the shooting of police in central Paris. A tightly-contested first round is expected among the four main candidates.
 
-##### Dutch
+##### Netherlands
 ### [Dutch businessman Guus Kouwenhoven is found guilty of war crimes and arms trafficking for using his lumber business to sell weapons to Liberia's former president Charles Taylor during the country's civil war between 2000 and 2003 and is sentenced to 19 years in prison. ](/news/2017/04/22/dutch-businessman-guus-kouwenhoven-is-found-guilty-of-war-crimes-and-arms-trafficking-for-using-his-lumber-business-to-sell-weapons-to-liber.md)
 Guus Kouwenhoven convicted of selling weapons to ex-president Charles Taylor during wars that involved mass atrocities
 

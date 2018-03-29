@@ -25,7 +25,7 @@ _Context: Burma, Internal conflict in Burma, Karen, Karen state, Myanmar Army, R
 
 ##### Palau
 ### [ Palau agrees to accept up to 17 Chinese Uighurs from Guantanamo Bay detention camp. ](/news/2009/06/10/palau-agrees-to-accept-up-to-17-chinese-uighurs-from-guantanamo-bay-detention-camp.md)
-_Context: China, Guantanamo Bay detention camp, Palau, Uyghur_
+_Context: Chinese, Guantanamo Bay detention camp, Palau, Uyghur_
 
 ##### United Nations Security Council
 ### [ The United Nations Security Council, along with Japan and South Korea, agrees a draft resolution following North Korea's recent nuclear and missile tests. ](/news/2009/06/10/the-united-nations-security-council-along-with-japan-and-south-korea-agrees-a-draft-resolution-following-north-korea-s-recent-nuclear-and.md)

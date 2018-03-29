@@ -17,7 +17,7 @@ _Context: Asia, Pope Francis, Sri Lanka_
 
 ##### Ebola virus epidemic in West Africa
 ### [China sends an additional 232 People's Liberation Army medical workers to West Africa to combat the outbreak (in addition to the 78 that had previously been stationed). ](/news/2015/01/13/china-sends-an-additional-232-people-s-liberation-army-medical-workers-to-west-africa-to-combat-the-outbreak-in-addition-to-the-78-that-had.md)
-_Context: China, Ebola virus epidemic in West Africa, People's Liberation Army, West Africa_
+_Context: Chinese, Ebola virus epidemic in West Africa, People's Liberation Army, West Africa_
 
 ##### World Health Organization
 ### [The World Health Organization monitors an avian flu outbreak in Taiwan, as H5N8 avian flu virus infects nine farms. ](/news/2015/01/13/the-world-health-organization-monitors-an-avian-flu-outbreak-in-taiwan-as-h5n8-avian-flu-virus-infects-nine-farms.md)
@@ -33,7 +33,7 @@ Indonesian Navy confirms the cockpit voice recorder from the AirAsia plane that 
 
 ##### Rob Wainwright
 ### [Rob Wainwright, the Director of Europol, tells a British parliamentary committee that up to 5000 European Union citizens have joined jihadist groups in the Middle East. ](/news/2015/01/13/rob-wainwright-the-director-of-europol-tells-a-british-parliamentary-committee-that-up-to-5000-european-union-citizens-have-joined-jihadis.md)
-_Context: EU, Europol, Middle East, Parliament, Rob Wainwright, jihadist_
+_Context: European Union, Europol, Middle East, Parliament, Rob Wainwright, jihadist_
 
 ##### Military intervention in Ukraine
 ### [A passenger bus comes under heavy fire near a check point in eastern Ukraine leading to at least ten civilians killed and many others injured. ](/news/2015/01/13/a-passenger-bus-comes-under-heavy-fire-near-a-check-point-in-eastern-ukraine-leading-to-at-least-ten-civilians-killed-and-many-others-injure.md)

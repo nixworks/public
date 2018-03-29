@@ -25,7 +25,7 @@ Gov. Jerry Brown must now decide whether to sign into law a bill that would requ
 
 ##### Supreme Court of the United States
 ### [The Supreme Court of the United States upholds the use of capital punishment by lethal injection involving midazolam. ](/news/2015/06/29/the-supreme-court-of-the-united-states-upholds-the-use-of-capital-punishment-by-lethal-injection-involving-midazolam.md)
-_Context: Supreme Court of the United States, capital punishment, lethal injection, midazolam_
+_Context: Supreme Court of the United States, death, lethal injection, midazolam_
 
 ##### United States
 ### [The United States Office of Personnel Management closes down its system for employee background checks following the theft of millions of records in a computer hacking incident suspected to be conducted by Chinese hackers. ](/news/2015/06/29/the-united-states-office-of-personnel-management-closes-down-its-system-for-employee-background-checks-following-the-theft-of-millions-of-re.md)
@@ -59,7 +59,7 @@ Police say security forces arrested Palestinian woman who approached checkpoint 
 ### [Four Israelis were shot and injured in a drive-by shooting attack near Shilo, as a manhunt begins for the suspects. ](/news/2015/06/29/four-israelis-were-shot-and-injured-in-a-drive-by-shooting-attack-near-shilo-as-a-manhunt-begins-for-the-suspects.md)
 One seriously wounded, three suffer moderate wounds after coming under fire at the Shvut Rachel Junction in the Binyamin region; this is 6th terror attack in 10 days of Ramadan.
 
-##### Opposition
+##### Turkish involvement in the Syrian Civil War
 ### [The Turkish military is reportedly preparing for an imminent invasion of northern Syria following a National Security Council meeting. The aim is to establish a buffer zone for refugees and drive back Islamic State militants. The Kurdish militia group YPG have said they will oppose any Turkish intervention in Syria. Turkey has for decades fought against Kurdish separatist movements such as the PKK ](/news/2015/06/29/the-turkish-military-is-reportedly-preparing-for-an-imminent-invasion-of-northern-syria-following-a-national-security-council-meeting-the-a.md)
 National Security Council meets to discuss plan to send in troops to set up buffer zone and prevent formation of Kurdish state
 

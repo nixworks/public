@@ -97,7 +97,7 @@ Loss-making coal mines across the EU will have to close over the next four years
 
 ##### Prime Minister
 ### [Prime Minister of Hungary Viktor Orban says his government would only talk about their 2011 budget with the European Union, not the International Monetary Fund. ](/news/2010/07/21/prime-minister-of-hungary-viktor-orba-n-says-his-government-would-only-talk-about-their-2011-budget-with-the-european-union-not-the-interna.md)
-_Context: EU, International Monetary Fund, Prime Minister, Viktor Orban_
+_Context: European Union, International Monetary Fund, Prime Minister, Viktor Orban_
 
 ##### BP
 ### [Energy company BP announces it is to sell billions worth of assets in Canada, Egypt, Pakistan, United States and Vietnam to part-fund the clean-up cost of the Deepwater Horizon oil spill in the Gulf of Mexico. ](/news/2010/07/21/energy-company-bp-announces-it-is-to-sell-billions-worth-of-assets-in-canada-egypt-pakistan-united-states-and-vietnam-to-part-fund-the-cl.md)

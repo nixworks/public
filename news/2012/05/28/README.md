@@ -11,9 +11,9 @@ The first votes were cast in Ireland&rsquo;s referendum on the European Union&rs
 ### [Political parties in Nepal fail to agree on a new constitution, leaving the country with no constitution and no sitting national Legislature. ](/news/2012/05/28/political-parties-in-nepal-fail-to-agree-on-a-new-constitution-leaving-the-country-with-no-constitution-and-no-sitting-national-legislature.md)
 _Context: Nepal, no sitting national Legislature_
 
-##### China
+##### Chinese
 ### [The Chinese Communist Party expels the former railways minister, Liu Zhijun, over corruption. ](/news/2012/05/28/the-chinese-communist-party-expels-the-former-railways-minister-liu-zhijun-over-corruption.md)
-_Context: China, Communist Party of China, Liu Zhijun_
+_Context: Chinese, Communist Party of China, Liu Zhijun_
 
 ##### 1989 Tiananmen Square protests
 ### [The father of a victim of the 1989 Tiananmen Square protests commits suicide in Beijing after failing attempts for government redress. ](/news/2012/05/28/the-father-of-a-victim-of-the-1989-tiananmen-square-protests-commits-suicide-in-beijing-after-failing-attempts-for-government-redress.md)

@@ -29,9 +29,9 @@ Police in France have arrested 19 suspected Islamists and seized weapons in a se
 ### [Indian police introduce a curfew in the city of Sangareddi in Andhra Pradesh due to an outbreak of communal violence. ](/news/2012/03/30/indian-police-introduce-a-curfew-in-the-city-of-sangareddi-in-andhra-pradesh-due-to-an-outbreak-of-communal-violence.md)
 _Context: Andhra Pradesh, Indian police, Sangareddi, curfew_
 
-##### Metropolitan Police
+##### Police
 ### [London's Metropolitan Police is embroiled in a racism scandal after a black man used his mobile phone to record police officers subjecting him to a tirade of abuse in which he was told: "The problem with you is you will always be a nigger". ](/news/2012/03/30/london-s-metropolitan-police-is-embroiled-in-a-racism-scandal-after-a-black-man-used-his-mobile-phone-to-record-police-officers-subjecting-h.md)
-_Context: Metropolitan Police, nigger_
+_Context: Police, nigger_
 
 ##### Malaysia
 ### [Malaysia expels 173 Indonesian workers for various legal violations. ](/news/2012/03/30/malaysia-expels-173-indonesian-workers-for-various-legal-violations.md)

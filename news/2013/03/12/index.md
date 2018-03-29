@@ -87,9 +87,9 @@ Google has agreed to pay a record fine for collecting wi-fi data as part of its 
 ### [The Better Business Bureau expels the Los Angeles chapter, the nation's largest chapter, over a pay-to-play scheme. ](/news/2013/03/12/the-better-business-bureau-expels-the-los-angeles-chapter-the-nation-s-largest-chapter-over-a-pay-to-play-scheme.md)
 The Better Business Bureau chapter that predominantly served the Los Angeles area is no more. 
 
-##### England
+##### English
 ### [English singer and lyricist Morrissey is diagnosed with severe pneumonia and hospitalised in San Francisco on his U.S. tour. ](/news/2013/03/12/english-singer-and-lyricist-morrissey-is-diagnosed-with-severe-pneumonia-and-hospitalised-in-san-francisco-on-his-u-s-tour.md)
-_Context: England, Morrissey, San Francisco, United States, pneumonia_
+_Context: English, Morrissey, San Francisco, United States, pneumonia_
 
 ##### Palestinian
 ### [A Palestinian protestor is killed by Israeli forces after hurling stones and incendiary bottles in the West Bank. ](/news/2013/03/12/a-palestinian-protestor-is-killed-by-israeli-forces-after-hurling-stones-and-incendiary-bottles-in-the-west-bank.md)

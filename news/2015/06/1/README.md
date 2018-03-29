@@ -21,7 +21,7 @@ _Context: Central Bank of Nigeria, Nigeria_
 
 ##### Illegal immigration from Africa to Europe
 ### [A European Union mission rescues more than 5,000 migrants over three days. ](/news/2015/06/1/a-european-union-mission-rescues-more-than-5-000-migrants-over-three-days.md)
-_Context: EU, Illegal immigration from Africa to Europe_
+_Context: European Union, Illegal immigration from Africa to Europe_
 
 ##### A ship
 ### [A ship carrying 458 people capsizes on Yangtze River in China's Hubei province. So far, just seven have been rescued. ](/news/2015/06/1/a-ship-carrying-458-people-capsizes-on-yangtze-river-in-china-s-hubei-province-so-far-just-seven-have-been-rescued.md)

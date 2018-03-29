@@ -25,7 +25,7 @@ At least five holidaymakers were crushed to death when part of a cliff collapsed
 
 ##### Clashes
 ### [ 20 people are killed and 40 injured after clashes between pro-government and Islamist forces in Mogadishu, Somalia. ](/news/2009/08/21/20-people-are-killed-and-40-injured-after-clashes-between-pro-government-and-islamist-forces-in-mogadishu-somalia.md)
-_Context: Mogadishu, Muslim, Somalia, clashes_
+_Context: Mogadishu, Muslims, Somalia, clashes_
 
 ##### North Korea
 ### [ A North Korean delegation arrives in South Korea to mourn the death of former South Korean President Kim Dae-jung. ](/news/2009/08/21/a-north-korean-delegation-arrives-in-south-korea-to-mourn-the-death-of-former-south-korean-president-kim-dae-jung.md)

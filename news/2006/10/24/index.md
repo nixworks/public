@@ -19,9 +19,9 @@ _Context: Associated Press, Palestinian_
 ### [ Iranian President Mahmoud Ahmadinejad opposes a bill in Iranian parliament that would require the fingerprinting of any citizens of the United States that are visiting Iran, stating, "We do not have a problem with American people. We oppose only the U.S. government." ](/news/2006/10/24/iranian-president-mahmoud-ahmadinejad-opposes-a-bill-in-iranian-parliament-that-would-require-the-fingerprinting-of-any-citizens-of-the-uni.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-##### EU
+##### European Union
 ### [ The European Union announces it plans to assist Kazakhstan in developing nuclear power for "peaceful purposes." ](/news/2006/10/24/the-european-union-announces-it-plans-to-assist-kazakhstan-in-developing-nuclear-power-for-peaceful-purposes.md)
-_Context: EU, Kazakhstan_
+_Context: European Union, Kazakhstan_
 
 ##### Solomon Islands Prime Minister
 ### [ Solomon Islands Prime Minister Manasseh Sogavare formally proposes reducing the role of Australia in the Regional Assistance Mission to the Solomon Islands (RAMSI) in his country at a Pacific leaders forum in Fiji. ](/news/2006/10/24/solomon-islands-prime-minister-manasseh-sogavare-formally-proposes-reducing-the-role-of-australia-in-the-regional-assistance-mission-to-the.md)

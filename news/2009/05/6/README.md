@@ -33,7 +33,7 @@ _Context: American Express, JPMorgan Chase, Troubled Asset Relief Program, Unite
 
 ##### European Parliament
 ### [ The European Parliament delays its planned reform of the European Union's telecommunications policy. ](/news/2009/05/6/the-european-parliament-delays-its-planned-reform-of-the-european-union-s-telecommunications-policy.md)
-_Context: EU, European Parliament, reform, telecom_
+_Context: European Parliament, European Union, reform, telecom_
 
 ## [Previous Day...](/news/2009/05/5/index.md)
 

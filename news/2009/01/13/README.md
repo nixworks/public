@@ -25,7 +25,7 @@ _Context: Gaza, Hamas, Israel, Israeli Army, fire, militant, urban warfare_
 
 ##### Russia-Ukraine gas disputes
 ### [ Despite an agreement to resume delivery of natural gas from Russia to Europe, the European Union says that "very limited" amounts were transmitted. ](/news/2009/01/13/despite-an-agreement-to-resume-delivery-of-natural-gas-from-russia-to-europe-the-european-union-says-that-very-limited-amounts-were-tran.md)
-_Context: EU, Europe, Russia, Russia-Ukraine gas disputes, natural gas_
+_Context: Europe, European Union, Russia, Russia-Ukraine gas disputes, natural gas_
 
 ## [Previous Day...](/news/2009/01/12/index.md)
 

@@ -15,9 +15,9 @@ _Context: Ukraine, Viktor Yushchenko_
 ### [ According to AIDS study of United Nations Council of Foreign Relations, most of the HIV strains in Asia originate from Myanmar (Burma). Study used genetic fingerprinting to find spread of the virus strains ](/news/2005/07/18/according-to-aids-study-of-united-nations-council-of-foreign-relations-most-of-the-hiv-strains-in-asia-originate-from-myanmar-burma-stu.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-##### EU
+##### European Union
 ### [ The European Union is planning an operation to monitor peace process in Aceh ](/news/2005/07/18/the-european-union-is-planning-an-operation-to-monitor-peace-process-in-aceh.md)
-_Context: Aceh, EU_
+_Context: Aceh, European Union_
 
 ##### Morocco
 ### [ In Morocco, Ali Salem Tamek, human rights activist and supporter of independence of Western Sahara, is arrested when he returns from Europe. Government accuses him of fomenting riots ](/news/2005/07/18/in-morocco-ali-salem-tamek-human-rights-activist-and-supporter-of-independence-of-western-sahara-is-arrested-when-he-returns-from-europe.md)

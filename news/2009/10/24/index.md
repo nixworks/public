@@ -13,7 +13,7 @@ _Context: National Movement for the Development of Society, Niger, parliamentary
 
 ##### London
 ### [ Thousands of people protest in London, England, demanding the withdrawal of British troops from Afghanistan. ](/news/2009/10/24/thousands-of-people-protest-in-london-england-demanding-the-withdrawal-of-british-troops-from-afghanistan.md)
-_Context: Afghanistan, England, London, United Kingdom_
+_Context: Afghanistan, English, London, United Kingdom_
 
 ##### Earthquake
 ### [ A magnitude 7.0 undersea earthquake strikes off the coast of eastern Indonesia. ](/news/2009/10/24/a-magnitude-7-0-undersea-earthquake-strikes-off-the-coast-of-eastern-indonesia.md)

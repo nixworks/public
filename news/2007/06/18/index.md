@@ -35,9 +35,9 @@ _Context: British, sexual relations_
 ### [ Hamas leader Mahmoud al-Zahar issues an ultimatum to the Palestinian Army of Islam to free kidnapped BBC journalist Alan Johnston or face military action. ](/news/2007/06/18/hamas-leader-mahmoud-al-zahar-issues-an-ultimatum-to-the-palestinian-army-of-islam-to-free-kidnapped-bbc-journalist-alan-johnston-or-face-m.md)
 _Context: Alan Johnston, BBC, Hamas, Mahmoud al-Zahar, Palestinian Army of Islam_
 
-##### EU
+##### European Union
 ### [ The European Union and United States restore foreign aid to the Palestinian Authority. ](/news/2007/06/18/the-european-union-and-united-states-restore-foreign-aid-to-the-palestinian-authority.md)
-_Context: EU, Palestinian Authority, United States, foreign aid_
+_Context: European Union, Palestinian Authority, United States, foreign aid_
 
 ##### Flood
 ### [ Floods kill four people in north Texas. ](/news/2007/06/18/floods-kill-four-people-in-north-texas.md)

@@ -17,7 +17,7 @@ _Context: Boeing 747, July 25, Qantas Flight 30, oxygen_
 
 ##### Grand Pier
 ### [ A fire destroys the Grand Pier at Weston-super-Mare, Somerset, England. ](/news/2008/07/28/a-fire-destroys-the-grand-pier-at-weston-super-mare-somerset-england.md)
-_Context: England, Grand Pier, Somerset, Weston-super-Mare_
+_Context: English, Grand Pier, Somerset, Weston-super-Mare_
 
 ##### Human Rights Watch
 ### [ Human Rights Watch has called for military aid to Kenya to be halted until an inquiry is held into a crackdown in the west of the country. ](/news/2008/07/28/human-rights-watch-has-called-for-military-aid-to-kenya-to-be-halted-until-an-inquiry-is-held-into-a-crackdown-in-the-west-of-the-country.md)

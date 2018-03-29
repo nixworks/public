@@ -37,7 +37,7 @@ The man, given refuge in the UK, was one of two exposed to a &quot;substance&quo
 
 ##### United States-Vietnam relations
 ### [The USS "Carl Vinson" enters Vietnam's Da Nang Port, becoming the first U.S. aircraft carrier to visit a Vietnamese port since the Vietnam War in 1975. The visit comes amid tensions in the region with China. ](/news/2018/03/5/the-uss-carl-vinson-enters-vietnam-s-da-nang-port-becoming-the-first-u-s-aircraft-carrier-to-visit-a-vietnamese-port-since-the-vietnam-w.md)
-_Context: 1975, China, Da Nang Port, USS ''Carl Vinson'', United States-Vietnam relations, Vietnam, Vietnam War, tensions in the region_
+_Context: 1975, Chinese, Da Nang Port, USS ''Carl Vinson'', United States-Vietnam relations, Vietnam, Vietnam War, tensions in the region_
 
 ##### Egypt-Saudi Arabia relations
 ### [Saudi Arabian Prince Mohammad bin Salman meets Pope Tawadros II at Saint Mark's Coptic Orthodox Cathedral. ](/news/2018/03/5/saudi-arabian-prince-mohammad-bin-salman-meets-pope-tawadros-ii-at-saint-mark-s-coptic-orthodox-cathedral.md)

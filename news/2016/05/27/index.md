@@ -3,7 +3,7 @@ Formats: [HTML](2016/05/27/index.html)  [JSON](2016/05/27/index.json)  [XML](201
 
 ## [2016-05-27](/news/2016/05/27/index.md)
 
-##### Trump
+##### Donald Trump
 ### [Republican candidate for U.S. President Donald Trump urges U.S. senator Marco Rubio to run for re-election after Rubio stated he would speak on Trump's behalf at the Republican Convention, if asked. ](/news/2016/05/27/republican-candidate-for-u-s-president-donald-trump-urges-u-s-senator-marco-rubio-to-run-for-re-election-after-rubio-stated-he-would-speak.md)
 &quot;Important to keep the MAJORITY.&quot;
 

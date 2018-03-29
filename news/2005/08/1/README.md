@@ -19,9 +19,9 @@ _Context: United Self-Defence Forces of Colombia_
 ### [ In Egypt, opposition party al-Wafd (Delegation Party) announces that it will endorse its leader Numan Gumaa as a candidate in presidential election next September ](/news/2005/08/1/in-egypt-opposition-party-al-wafd-delegation-party-announces-that-it-will-endorse-its-leader-numan-gumaa-as-a-candidate-in-presidential.md)
 _Context: Delegation Party, Egypt, Numan Gumaa, al-Wafd_
 
-##### EU
+##### European Union
 ### [ New European Union directive banning tobacco advertising comes into effect ](/news/2005/08/1/new-european-union-directive-banning-tobacco-advertising-comes-into-effect.md)
-_Context: EU, tobacco advertising_
+_Context: European Union, tobacco advertising_
 
 ##### King Fahd
 ### [ King Fahd of Saudi Arabia has died in a hospital at the age of 83. It was believed that he was in poor health and entered the hospital on May 27 with acute pneumonia. Crown Prince Abdullah, who had been effective regent for years, accedes to the throne. Defence Minister Prince Sultan will be the new Crown Prince. (Wikinews) ](/news/2005/08/1/king-fahd-of-saudi-arabia-has-died-in-a-hospital-at-the-age-of-83-it-was-believed-that-he-was-in-poor-health-and-entered-the-hospital-on-m.md)

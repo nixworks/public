@@ -13,7 +13,7 @@ _Context: Bosnia and Herzegovina, Bosnian War_
 
 ##### Communist Party of China
 ### [Luo Huining leaves his position as party chief of Qinghai and becomes party chief of Shanxi province, replacing Wang Rulin. ](/news/2016/06/30/luo-huining-leaves-his-position-as-party-chief-of-qinghai-and-becomes-party-chief-of-shanxi-province-replacing-wang-rulin.md)
-_Context: Communist Party of China, Luo Huining, Qinghai, Shanxi province, Wang Rulin_
+_Context: Communist Party of China, Luo Huining, Qinghai, Shanxi, Wang Rulin_
 
 ##### Cabinet
 ### [Rodrigo Duterte is inaugurated as President of the Philippines and Leni Robredo as Vice President. ](/news/2016/06/30/rodrigo-duterte-is-inaugurated-as-president-of-the-philippines-and-leni-robredo-as-vice-president.md)

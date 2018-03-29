@@ -3,9 +3,9 @@ Formats: [HTML](2017/10/17/index.html)  [JSON](2017/10/17/index.json)  [XML](201
 
 ## [2017-10-17](/news/2017/10/17/index.md)
 
-##### Trump
+##### Donald Trump
 ### [A federal judge in Hawaii blocks enforcement of the latest version of President Donald Trump's travel ban. ](/news/2017/10/17/a-federal-judge-in-hawaii-blocks-enforcement-of-the-latest-version-of-president-donald-trump-s-travel-ban.md)
-_Context: Trump_
+_Context: Donald Trump_
 
 ##### Ukrainian crisis
 ### [Three protestors and one police officer are injured in clashes between anti-corruption demonstrators and Ukrainian police in front of the parliament building in Kiev, Ukraine. ](/news/2017/10/17/three-protestors-and-one-police-officer-are-injured-in-clashes-between-anti-corruption-demonstrators-and-ukrainian-police-in-front-of-the-pa.md)

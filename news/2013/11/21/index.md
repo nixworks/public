@@ -33,7 +33,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Pakistan
 ### [Pakistani officials claim that an American drone strike on an Islamic seminary has killed six people, including two Afghan Taliban leaders and a leader of the Haqqani network. ](/news/2013/11/21/pakistani-officials-claim-that-an-american-drone-strike-on-an-islamic-seminary-has-killed-six-people-including-two-afghan-taliban-leaders-a.md)
-_Context: Haqqani network, Muslim, Pakistan, Taliban, drone, seminary_
+_Context: Haqqani network, Muslims, Pakistan, Taliban, drone, seminary_
 
 ## [Previous Day...](/news/2013/11/20/index.md)
 

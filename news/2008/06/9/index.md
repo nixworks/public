@@ -65,7 +65,7 @@ A stalled storm system poured heavy rain on parts of the Midwest, setting off se
 
 ##### France
 ### [ French foreign minister Bernard Kouchner warns Ireland, saying the Irish would be the "first victim" if they reject the EU Treaty of Lisbon. ](/news/2008/06/9/french-foreign-minister-bernard-kouchner-warns-ireland-saying-the-irish-would-be-the-first-victim-if-they-reject-the-eu-treaty-of-lisbon.md)
-_Context: Bernard Kouchner, EU, France, Ireland, Treaty of Lisbon, the second Irish referendum_
+_Context: Bernard Kouchner, European Union, France, Ireland, Treaty of Lisbon, the second Irish referendum_
 
 ## [Previous Day...](/news/2008/06/8/index.md)
 

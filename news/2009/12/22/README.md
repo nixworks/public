@@ -21,7 +21,7 @@ _Context: County Sligo, Gerry Adams_
 
 ##### Serbia
 ### [ Serbia formally submits its application to join the European Union. ](/news/2009/12/22/serbia-formally-submits-its-application-to-join-the-european-union.md)
-_Context: EU, Serbia_
+_Context: European Union, Serbia_
 
 ##### Eurostar
 ### [ Eurostar finally resumes services after three days of continent-wide weather-related outages. ](/news/2009/12/22/eurostar-finally-resumes-services-after-three-days-of-continent-wide-weather-related-outages.md)

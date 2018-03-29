@@ -15,9 +15,9 @@ _Context: IBM, Lenovo, PC, computer, mainland China_
 ### [ Malaysian Deputy Home Affairs Minister Tan Chai Ho announces that once an extended amnesty sought by Indonesia comes to an end later that year, illegal immigrants will face up to five years in prison and a whipping; their employers will also be punished. More than 18,000 undocumented migrants have already been whipped since the 2002 amendment to the Malaysian Immigration Act. ](/news/2004/12/8/malaysian-deputy-home-affairs-minister-tan-chai-ho-announces-that-once-an-extended-amnesty-sought-by-indonesia-comes-to-an-end-later-that-y.md)
 Channel NewsAsia - Breaking News, Asia-Pacific news coverage from Channel NewsAsia featuring Business, World, Sport, Entertainment, Technology, Health, Lifestyle and Live Streaming.
 
-##### EU
+##### European Union
 ### [ The European Union says it is not ready to lift its 15-year-old arms embargo on the People's Republic of China, set after the Tiananmen Square protests of 1989. ](/news/2004/12/8/the-european-union-says-it-is-not-ready-to-lift-its-15-year-old-arms-embargo-on-the-people-s-republic-of-china-set-after-the-tiananmen-squ.md)
-_Context: EU, Tiananmen Square protests of 1989_
+_Context: European Union, Tiananmen Square protests of 1989_
 
 ##### US Senators
 ### [ The United States Senate follows the U.S. House of Representatives in approving a complete overhaul of government intelligence services, creating the post of United States Director of National Intelligence. ](/news/2004/12/8/the-united-states-senate-follows-the-u-s-house-of-representatives-in-approving-a-complete-overhaul-of-government-intelligence-services-cr.md)
@@ -25,7 +25,7 @@ _Context: U.S. National Intelligence Director, US Senators, United States House 
 
 ##### White House
 ### [ The White House affirms that, despite reports to the contrary, John Snow will remain Treasury Secretary during President George W. Bush's second term of office. Meanwhile, Secretary of Veterans Affairs Anthony Principi announces his expected resignation. ](/news/2004/12/8/the-white-house-affirms-that-despite-reports-to-the-contrary-john-snow-will-remain-treasury-secretary-during-president-george-w-bush-s-s.md)
-_Context: Anthony Principi, George W. Bush, John W. Snow, President, U.S. Secretary of Veterans Affairs, United States Secretary of the Treasury, White House, second term_
+_Context: Anthony Principi, George W. Bush, John W. Snow, President, Secretary of Veterans Affairs, United States Secretary of the Treasury, White House, second term_
 
 ##### Civil Unions and Relationships Acts
 ### [ Civil unions in New Zealand: Parliament passes civil union legislation by 65 votes to 55. The new law provides a way for "de facto" couples, including same-sex couples, to gain legal recognition of their relationships, but stops short of same-sex marriage. ](/news/2004/12/8/civil-unions-in-new-zealand-parliament-passes-civil-union-legislation-by-65-votes-to-55-the-new-law-provides-a-way-for-de-facto-couples.md)
@@ -37,7 +37,7 @@ _Context: Israel_
 
 ##### Cuzco
 ### [ Delegates from twelve South American countries meeting in Cuzco, Peru, sign a deal creating the South American Community of Nations, a bloc modelled on the European Union. ](/news/2004/12/8/delegates-from-twelve-south-american-countries-meeting-in-cuzco-peru-sign-a-deal-creating-the-south-american-community-of-nations-a-bloc.md)
-_Context: Cuzco, EU, South American Community of Nations_
+_Context: Cuzco, European Union, South American Community of Nations_
 
 ## [Previous Day...](/news/2004/12/7/index.md)
 

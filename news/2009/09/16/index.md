@@ -29,7 +29,7 @@ _Context: Mexico_
 
 ##### Somalia
 ### [ The Somalian Islamist group Al-Shabaab call for reinforcements after a U.S. raid killed its leader Saleh Ali Saleh Nabhan. ](/news/2009/09/16/the-somalian-islamist-group-al-shabaab-call-for-reinforcements-after-a-u-s-raid-killed-its-leader-saleh-ali-saleh-nabhan.md)
-_Context: Al-Shabaab, Muslim, Saleh Ali Saleh Nabhan, Somalia, United States_
+_Context: Al-Shabaab, Muslims, Saleh Ali Saleh Nabhan, Somalia, United States_
 
 ##### China
 ### [ China says it has foiled a possible terrorist attack in Xinjiang, detaining six people. ](/news/2009/09/16/china-says-it-has-foiled-a-possible-terrorist-attack-in-xinjiang-detaining-six-people.md)
@@ -39,7 +39,7 @@ _Context: China, Xinjiang_
 ### [ The World Meteorological Organisation says the hole in the Ozone layer is smaller than in 2008. ](/news/2009/09/16/the-world-meteorological-organisation-says-the-hole-in-the-ozone-layer-is-smaller-than-in-2008.md)
 _Context: Ozone depletion, Ozone layer, World Meteorological Organisation_
 
-##### EU
+##### European Union
 ### [ The European Union casts doubt on last month's election results showing Afghan President Hamid Karzai winning the presidential election outright in the first round. ](/news/2009/09/16/the-european-union-casts-doubt-on-last-month-s-election-results-showing-afghan-president-hamid-karzai-winning-the-presidential-election-out.md)
 Afghan President Hamid Karzai won the presidential vote outright in the first round, election officials said on Wednesday, but the European Union said more than a third of his votes might be suspect because of fraud.
 

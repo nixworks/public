@@ -31,7 +31,7 @@ _Context: Los Alamos National Laboratory, United States, Venezuela_
 ### [The Somali Police Force raid an address in Mogadishu and confiscate weapons. ](/news/2010/09/17/the-somali-police-force-raid-an-address-in-mogadishu-and-confiscate-weapons.md)
 _Context: Mogadishu, police_
 
-##### Metropolitan Police
+##### Police
 ### [The Metropolitan Police arrest 6 people in London in connection to an alleged potential threat to the visit of Pope Benedict XVI to the United Kingdom. ](/news/2010/09/17/the-metropolitan-police-arrest-6-people-in-london-in-connection-to-an-alleged-potential-threat-to-the-visit-of-pope-benedict-xvi-to-the-unit.md)
 Six men are now being questioned by police in London following reports of a threat to Pope Benedict XVI.
 

@@ -57,7 +57,7 @@ State leaders mourned former Nepal prime minister Girija Prasad Koirala, and rec
 
 ##### Sandstorm
 ### [A series of severe sandstorms hit north China, affecting the regions of Xinjiang and Inner Mongolia and the provinces of Shanxi, Shaanxi and Hebei. ](/news/2010/03/20/a-series-of-severe-sandstorms-hit-north-china-affecting-the-regions-of-xinjiang-and-inner-mongolia-and-the-provinces-of-shanxi-shaanxi-and.md)
-_Context: Hebei, Inner Mongolia, Shaanxi, Shanxi province, Xinjiang, north China, sandstorm_
+_Context: Hebei, Inner Mongolia, Shaanxi, Shanxi, Xinjiang, north China, sandstorm_
 
 ## [Previous Day...](/news/2010/03/19/index.md)
 

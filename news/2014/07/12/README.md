@@ -7,9 +7,9 @@ Formats: [HTML](2014/07/12/index.html)  [JSON](2014/07/12/index.json)  [XML](201
 ### [The disputed Afghan presidential election is to be recounted in full following an agreement between the two leading candidates Abdullah Abdullah and Ashraf Ghani. ](/news/2014/07/12/the-disputed-afghan-presidential-election-is-to-be-recounted-in-full-following-an-agreement-between-the-two-leading-candidates-abdullah-abdu.md)
 _Context: Abdullah Abdullah, Ashraf Ghani_
 
-##### EU
+##### European Union
 ### [The European Union imposes sanctions on Aleksandr Borodai and ten other pro-Russian leaders including travel bans and asset freezes. ](/news/2014/07/12/the-european-union-imposes-sanctions-on-aleksandr-borodai-and-ten-other-pro-russian-leaders-including-travel-bans-and-asset-freezes.md)
-_Context: Aleksandr Borodai, EU_
+_Context: Aleksandr Borodai, European Union_
 
 ##### Istanbul
 ### [An explosion in a shop in Istanbul, Turkey's largest city, leaves many injured. ](/news/2014/07/12/an-explosion-in-a-shop-in-istanbul-turkey-s-largest-city-leaves-many-injured.md)

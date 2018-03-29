@@ -17,7 +17,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Superbug
 ### [ A superbug, "Clostridium difficile", is said to have killed at least 49 people at hospitals in Leicester, England, according to a National Health Service investigation. Another 29 similar cases are being investigated by coroners. ](/news/2006/10/1/a-superbug-clostridium-difficile-is-said-to-have-killed-at-least-49-people-at-hospitals-in-leicester-england-according-to-a-national.md)
-_Context: Clostridium difficile, England, Leicester, National Health Service, coroner, superbug_
+_Context: Clostridium difficile, English, Leicester, National Health Service, coroner, superbug_
 
 ##### Surayud Chulanont
 ### [ General Surayud Chulanont is appointed interim prime minister of Thailand by the ruling military regime, following the recent coup. ](/news/2006/10/1/general-surayud-chulanont-is-appointed-interim-prime-minister-of-thailand-by-the-ruling-military-regime-following-the-recent-coup.md)

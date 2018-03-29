@@ -49,7 +49,7 @@ At least 19 people are killed after a train hits a truck carrying farm workers a
 
 ##### Federal Aviation Administration
 ### [The Federal Aviation Administration fines Boeing $13.5 million for failing to provide fuel tank flammability instructions by designated deadline. ](/news/2012/07/13/the-federal-aviation-administration-fines-boeing-13-5-million-for-failing-to-provide-fuel-tank-flammability-instructions-by-designated-dead.md)
-_Context: Boeing, Federal Aviation Administration_
+_Context: Federal Aviation Administration, The Boeing Company_
 
 ##### Economic growth
 ### [The economic growth rate for the People's Republic of China falls to 7.6 per cent, its lowest level in three years. ](/news/2012/07/13/the-economic-growth-rate-for-the-people-s-republic-of-china-falls-to-7-6-per-cent-its-lowest-level-in-three-years.md)

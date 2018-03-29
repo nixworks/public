@@ -41,7 +41,7 @@ _Context: African Union, Darfur, Sudan, United Nations_
 
 ##### Coal
 ### [ At least 33 coal miners are trapped in a mine in Baofeng county, Henan province, China. ](/news/2007/04/16/at-least-33-coal-miners-are-trapped-in-a-mine-in-baofeng-county-henan-province-china.md)
-_Context: Baofeng, China, Henan, coal, miner_
+_Context: Baofeng, Chinese, Henan, coal, miner_
 
 ##### Ekmeleddin Ihsanoglu
 ### [ Ekmeleddin Ihsanoglu, the Secretary-General of the Organisation of the Islamic Conference, calls for an end of fighting between the Philippines government and the Moro National Liberation Front, which has killed at least 12 people over the past few days. ](/news/2007/04/16/ekmeleddin-adeghsanoalu-the-secretary-general-of-the-organisation-of-the-islamic-conference-calls-for-an-end-of-fighting-between-the-phili.md)

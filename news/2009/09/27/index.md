@@ -37,7 +37,7 @@ _Context: General, International Security Assistance Force, Stanley McChrystal, 
 
 ##### Switzerland
 ### [ The Swiss multinational Nestle is buying milk from a farm seized from its white owners and now owned by the wife of Zimbabwe's President Robert Mugabe, according to England's "The Sunday Telegraph". ](/news/2009/09/27/the-swiss-multinational-nestla-c-is-buying-milk-from-a-farm-seized-from-its-white-owners-and-now-owned-by-the-wife-of-zimbabwe-s-president-r.md)
-_Context: England, Nestle, President, Robert Mugabe, Switzerland, The Sunday Telegraph, Zimbabwe_
+_Context: English, Nestle, President, Robert Mugabe, Switzerland, The Sunday Telegraph, Zimbabwe_
 
 ##### Tropical Storm Ketsana
 ### [ The death toll from Tropical Storm Ketsana rises to 73, with more than 300,000 people displaced. ](/news/2009/09/27/the-death-toll-from-tropical-storm-ketsana-rises-to-73-with-more-than-300-000-people-displaced.md)

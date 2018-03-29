@@ -13,7 +13,7 @@ Physicists have created a fluid with &quot;negative mass&quot;, which accelerate
 
 ##### Georgia's 6th congressional district special election, 2017
 ### [Local Republican candidate Karen Handel says she wants Donald Trump to campaign for her in the district. ](/news/2017/04/19/local-republican-candidate-karen-handel-says-she-wants-donald-trump-to-campaign-for-her-in-the-district.md)
-_Context: Georgia's 6th congressional district special election, 2017, Karen Handel, Trump_
+_Context: Donald Trump, Georgia's 6th congressional district special election, 2017, Karen Handel_
 
 ##### United States House of Representatives elections, 2018
 ### [Utah representative Jason Chaffetz, chairman of the House Oversight Committee, announces that he will not run for re-election next year. ](/news/2017/04/19/utah-representative-jason-chaffetz-chairman-of-the-house-oversight-committee-announces-that-he-will-not-run-for-re-election-next-year.md)

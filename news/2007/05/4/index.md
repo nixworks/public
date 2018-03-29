@@ -13,7 +13,7 @@ _Context: Egypt, International Compact for Iraq, Iraq, Middle East_
 
 ##### Intergovernmental Panel on Climate Change
 ### [ International delegates reach agreement at the Intergovernmental Panel on Climate Change on the summary report on mitigating climate change despite some concerns raised by China. ](/news/2007/05/4/international-delegates-reach-agreement-at-the-intergovernmental-panel-on-climate-change-on-the-summary-report-on-mitigating-climate-change.md)
-_Context: China, Intergovernmental Panel on Climate Change, summary report on mitigating climate change_
+_Context: Chinese, Intergovernmental Panel on Climate Change, summary report on mitigating climate change_
 
 ##### Terrorist
 ### [ Convicted terrorist Carlos the Jackal will face charges in France relating to alleged involvement in deadly bombings in 1982 and 1983. ](/news/2007/05/4/convicted-terrorist-carlos-the-jackal-will-face-charges-in-france-relating-to-alleged-involvement-in-deadly-bombings-in-1982-and-1983.md)

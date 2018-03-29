@@ -59,9 +59,9 @@ Three Spanish savings banks - Ibercaja, Liberbank and Caja3 - approve a merger t
 ### [Four of Wall Street's market makers involved in Facebook's botched IPO are expecting losses from technical glitches to be around US$115&nbsp;million. ](/news/2012/05/29/four-of-wall-street-s-market-makers-involved-in-facebook-s-botched-ipo-are-expecting-losses-from-technical-glitches-to-be-around-us-115-nbsp.md)
 _Context: Facebook, IPO, Wall Street_
 
-##### China
+##### Chinese
 ### [China's best-known microblogging site Sina Weibo introduces new restrictions on the content its 300 million users can post. ](/news/2012/05/29/china-s-best-known-microblogging-site-sina-weibo-introduces-new-restrictions-on-the-content-its-300-million-users-can-post.md)
-_Context: China, Sina Weibo, microblog_
+_Context: Chinese, Sina Weibo, microblog_
 
 ##### Brett Murray
 ### [The gallery which exhibited Brett Murray's controversial painting "The Spear" agrees to take down an image of the artwork from its website as thousands of people march in protest through the streets of Johannesburg. ](/news/2012/05/29/the-gallery-which-exhibited-brett-murray-s-controversial-painting-the-spear-agrees-to-take-down-an-image-of-the-artwork-from-its-website-a.md)

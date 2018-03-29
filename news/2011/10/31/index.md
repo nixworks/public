@@ -9,7 +9,7 @@ It took only a dozen years for humanity to add another billion people to the pla
 
 ##### Greek Prime Minister
 ### [The Prime Minister of Greece George Papandreou calls a referendum on the new European Union debt deal. ](/news/2011/10/31/the-prime-minister-of-greece-george-papandreou-calls-a-referendum-on-the-new-european-union-debt-deal.md)
-_Context: EU, George Papandreou, Greek Prime Minister, referendum_
+_Context: European Union, George Papandreou, Greek Prime Minister, referendum_
 
 ##### Abdurrahim El-Keib
 ### [Abdurrahim El-Keib is named as the new interim Prime Minister of Libya by the country's National Transitional Council. ](/news/2011/10/31/abdurrahim-el-keib-is-named-as-the-new-interim-prime-minister-of-libya-by-the-country-s-national-transitional-council.md)

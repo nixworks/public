@@ -19,7 +19,7 @@ The CIA condemns Wikileaks over publication of documents from a private email ac
 ### [St. Louis' police chief announces officers are stepping up patrols following fires at six predominantly African-American churches in the past two weeks. No one has been injured in any of the fires. The reward for information leading to an arrest is now $4,000; the St. Louis Police Officers' Association will match the $2,000 reward being offered by the St. Louis Regional Crime Stoppers and the ATF. The American Civil Liberties Union of Missouri and the Anti-Defamation League suggest the fires may be arson sparked by racist motivations. ](/news/2015/10/21/st-louis-police-chief-announces-officers-are-stepping-up-patrols-following-fires-at-six-predominantly-african-american-churches-in-the-pas.md)
 Fires have been set at the front doors of six churches in St. Louis and Jennings since Oct. 8.
 
-##### China
+##### Chinese
 ### [Two Chinese consulate staff are killed and a consul general injured after a gunman opened fire on a restaurant in the city of Cebu, the "second city" of the Philippines. Various reports named the gunman as Chinese national Li Qingliang. ](/news/2015/10/21/two-chinese-consulate-staff-are-killed-and-a-consul-general-injured-after-a-gunman-opened-fire-on-a-restaurant-in-the-city-of-cebu-the-sec.md)
 Chinese diplomat injured and two consulate staff shot at an upmarket Philippine restaurant
 
@@ -33,7 +33,7 @@ The Vatican denied an Italian newspaper report on Wednesday that Pope Francis ha
 
 ##### Supreme Leader
 ### [Iran's Supreme Leader Ayatollah Ali Khamenei approves the nuclear deal between Tehran and world powers, and orders it to be implemented subject to certain conditions. The letter states the United States and European Union should clearly announce the elimination of sanctions against Iran. The imposition of sanctions at any level and under any pretext from any of the negotiating countries would violate the JCPOA. ](/news/2015/10/21/iran-s-supreme-leader-ayatollah-ali-khamenei-approves-the-nuclear-deal-between-tehran-and-world-powers-and-orders-it-to-be-implemented-subj.md)
-_Context: Ali Khamenei, EU, Iranian government, Joint Comprehensive Plan of Action, Supreme Leader, United States, sanctions against Iran_
+_Context: Ali Khamenei, European Union, Iranian government, Joint Comprehensive Plan of Action, Supreme Leader, United States, sanctions against Iran_
 
 ##### Syrian Civil War
 ### [The President of Syria Bashar al-Assad visits Moscow for talks with the President of Russia Vladimir Putin in an unannounced visit. ](/news/2015/10/21/the-president-of-syria-bashar-al-assad-visits-moscow-for-talks-with-the-president-of-russia-vladimir-putin-in-an-unannounced-visit.md)

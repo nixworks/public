@@ -9,7 +9,7 @@ Scientists at the Large Hadron Collider have announced the discovery of a new pa
 
 ##### Northumbria University
 ### [Scientists at Northumbria University in northeast England develop a computerized statistical model of the Sun's solar cycle (a measurement of the number of sunspots and solar flares, in this case between 1976 and 2008, and their intensity and activity). While preliminary, and not yet peer-reviewed, the data predicts irregularities in the cycle: the Northern Hemisphere could experience a slight lowering in temperatures in the 2030s. ](/news/2015/07/14/scientists-at-northumbria-university-in-northeast-england-develop-a-computerized-statistical-model-of-the-sun-s-solar-cycle-a-measurement-o.md)
-_Context: England, Northumbria University, Sun, solar cycle_
+_Context: English, Northumbria University, Sun, solar cycle_
 
 ##### NASA
 ### [NASA's "New Horizons" spacecraft completes a historic flyby of the dwarf planet Pluto and its five moons. Measurements, along with many high-quality photos and reams of data, were taken, including conclusive information regarding the diameter of Pluto and its moons.](/news/2015/07/14/nasa-s-new-horizons-spacecraft-completes-a-historic-flyby-of-the-dwarf-planet-pluto-and-its-five-moons-measurements-along-with-many-high.md)

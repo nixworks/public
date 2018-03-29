@@ -21,7 +21,7 @@ _Context: East Timor, East Timorese parliamentary election, 2017, National Parli
 
 ##### Law of Poland
 ### [Poles march against a bill that critics say might decrease judicial independence in Poland. Hungary has supported the bill while the European Union has opposed it. The protesters hope that the President Andrzej Duda would intervene against the proposed law. ](/news/2017/07/22/poles-march-against-a-bill-that-critics-say-might-decrease-judicial-independence-in-poland-hungary-has-supported-the-bill-while-the-europea.md)
-_Context: Andrzej Duda, EU, Hungary, Law of Poland, Poles, Polish, Polish President_
+_Context: Andrzej Duda, European Union, Hungary, Law of Poland, Poles, Polish, Polish President_
 
 ##### Russia-United States relations
 ### [Russian Ambassador to the United States Sergey Kislyak, who was cited in "Washington Post" reports yesterday that American intelligence overheard him telling Moscow about his election-related discussions with a Trump campaign official, ends his nine-year assignment and leaves the United States. In May 2017, Russian Deputy Foreign Minister Anatoly Antonov was approved as the next ambassador. ](/news/2017/07/22/russian-ambassador-to-the-united-states-sergey-kislyak-who-was-cited-in-washington-post-reports-yesterday-that-american-intelligence-over.md)

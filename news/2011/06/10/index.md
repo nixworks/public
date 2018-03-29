@@ -25,7 +25,7 @@ _Context: Hamas, Iran, Taliban, terrorist_
 
 ##### Environment Agency
 ### [The British Environment Agency declares drought in five English counties &ndash; Lincolnshire, Cambridgeshire, parts of Bedfordshire, Northamptonshire and Norfolk &ndash; following a dry spring. ](/news/2011/06/10/the-british-environment-agency-declares-drought-in-five-english-counties-ndash-lincolnshire-cambridgeshire-parts-of-bedfordshire-northa.md)
-_Context: Bedfordshire, Cambridgeshire, England, Environment Agency, Lincolnshire, Norfolk, Northamptonshire, counties, drought_
+_Context: Bedfordshire, Cambridgeshire, English, Environment Agency, Lincolnshire, Norfolk, Northamptonshire, counties, drought_
 
 ##### Cesium
 ### [Radioactive cesium above Japanese legal limits is found in tea from the Shizuoka Prefecture, located 300 kilometres from the earthquake-damaged Fukushima Daiichi Nuclear Power Plant. ](/news/2011/06/10/radioactive-cesium-above-japanese-legal-limits-is-found-in-tea-from-the-shizuoka-prefecture-located-300-kilometres-from-the-earthquake-dama.md)

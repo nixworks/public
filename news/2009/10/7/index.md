@@ -55,7 +55,7 @@ _Context: Somalia, Uganda_
 ### [ The discovery of a new ring around Saturn is announced. ](/news/2009/10/7/the-discovery-of-a-new-ring-around-saturn-is-announced.md)
 _Context: Saturn, new ring_
 
-##### EU
+##### European Union
 ### [ European Union leaders again warn the Czech Republic of the costs which will be imposed by the further delaying of the Lisbon Treaty. ](/news/2009/10/7/european-union-leaders-again-warn-the-czech-republic-of-the-costs-which-will-be-imposed-by-the-further-delaying-of-the-lisbon-treaty.md)
 EU leaders have warned the Czech Republic of the costs of further delaying the Lisbon Treaty.
 

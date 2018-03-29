@@ -29,7 +29,7 @@ _Context: Al Qaeda, New Jersey, Republican, September 11, 2001 attacks, Thomas H
 
 ##### Iran
 ### [ Iran asks EU members (France, Britain, and Germany) to stand by their commitments within the framework of the nuclear Non-Proliferation Treaty (NPT) and the Tehran Declaration. ](/news/2004/04/4/iran-asks-eu-members-france-britain-and-germany-to-stand-by-their-commitments-within-the-framework-of-the-nuclear-non-proliferation-tre.md)
-_Context: EU, Iran, Tehran Declaration, nuclear Non-Proliferation Treaty_
+_Context: European Union, Iran, Tehran Declaration, nuclear Non-Proliferation Treaty_
 
 ## [Previous Day...](/news/2004/04/3/index.md)
 

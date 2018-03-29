@@ -13,7 +13,7 @@ HARGEISA - Voters across Somaliland went to the polls on Monday, November 13th, 
 
 ##### Cabinet of Donald Trump
 ### [U.S. President Donald Trump selects Eli Lilly's American division president and former HHS deputy secretary Alex Azar to be Secretary of Health and Human Services, replacing Tom Price who resigned on September 29. ](/news/2017/11/13/u-s-president-donald-trump-selects-eli-lilly-s-american-division-president-and-former-hhs-deputy-secretary-alex-azar-to-be-secretary-of-hea.md)
-_Context: Alex Azar, Cabinet of Donald Trump, Eli Lilly's, HHS deputy secretary, Secretary of Health and Human Services, Tom Price, Trump_
+_Context: Alex Azar, Cabinet of Donald Trump, Donald Trump, Eli Lilly's, HHS deputy secretary, Secretary of Health and Human Services, Tom Price_
 
 ##### Russia-United States relations
 ### [RT America registers with the U.S. Department of Justice as a foreign agent in the United States. ](/news/2017/11/13/rt-america-registers-with-the-u-s-department-of-justice-as-a-foreign-agent-in-the-united-states.md)
@@ -25,7 +25,7 @@ Months after the former guerrilla group formed a political party, the European U
 
 ##### Military of the European Union
 ### [Twenty-three European Union countries sign a defence integration pact known as the Permanent Structured Cooperation. NATO members Denmark, Portugal and the United Kingdom (withdrawal from EU underway), and non-NATO members Malta and Ireland, opt out. ](/news/2017/11/13/twenty-three-european-union-countries-sign-a-defence-integration-pact-known-as-the-permanent-structured-cooperation-nato-members-denmark-p.md)
-_Context: Brexit negotiations, Denmark, EU, Ireland, Malta, Military of the European Union, NATO, Permanent Structured Cooperation, Portugal, United Kingdom, defence_
+_Context: Brexit negotiations, Denmark, European Union, Ireland, Malta, Military of the European Union, NATO, Permanent Structured Cooperation, Portugal, United Kingdom, defence_
 
 ##### 2017 Iran-Iraq earthquake
 ### [The death toll from the earthquake in Iraq and Iran exceeds 400 with over 7,000 injured. The death toll is expected to rise further in coming days. ](/news/2017/11/13/the-death-toll-from-the-earthquake-in-iraq-and-iran-exceeds-400-with-over-7-000-injured-the-death-toll-is-expected-to-rise-further-in-comin.md)

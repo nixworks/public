@@ -3,9 +3,9 @@ Formats: [HTML](2005/03/16/index.html)  [JSON](2005/03/16/index.json)  [XML](200
 
 ## [2005-03-16](/news/2005/03/16/index.md)
 
-##### China
+##### Chinese
 ### [ In China, smth, the biggest BBS in Chinese campus, announced that IP outside the Tsinghua University would be blocked off. ](/news/2005/03/16/in-china-smth-the-biggest-bbs-in-chinese-campus-announced-that-ip-outside-the-tsinghua-university-would-be-blocked-off.md)
-_Context: China, Tsinghua University, smth_
+_Context: Chinese, Tsinghua University, smth_
 
 ##### Japan
 ### [ In Japan, Hitachi unveils two examples of its wheeled robot Emiew. ](/news/2005/03/16/in-japan-hitachi-unveils-two-examples-of-its-wheeled-robot-emiew.md)
@@ -27,9 +27,9 @@ _Context: Frederick Chiluba, Zambia, anti-corruption_
 ### [ A plane crash in Russia kills 28, some of them employees of Lukoil oil company. ](/news/2005/03/16/a-plane-crash-in-russia-kills-28-some-of-them-employees-of-lukoil-oil-company.md)
 _Context: Lukoil, Russia, plane crash_
 
-##### EU
+##### European Union
 ### [ European Union postpones negotiations for Croatia's possible membership. Delegates state that Zagreb has not cooperated with the International Criminal Tribunal for the Former Yugoslavia in trying to arrest suspected war criminal Ante Golovina. ](/news/2005/03/16/european-union-postpones-negotiations-for-croatia-s-possible-membership-delegates-state-that-zagreb-has-not-cooperated-with-the-internatio.md)
-_Context: Ante Golovina, Croatia, EU, International Criminal Tribunal for the Former Yugoslavia, Zagreb_
+_Context: Ante Golovina, Croatia, European Union, International Criminal Tribunal for the Former Yugoslavia, Zagreb_
 
 ##### Supreme Court
 ### [ In the Supreme Court of British Columbia today, Ripudaman Singh Malik and Ajaib Singh Bagri were found not guilty in their trial for the bombing of Air India Flight 182. ](/news/2005/03/16/in-the-supreme-court-of-british-columbia-today-ripudaman-singh-malik-and-ajaib-singh-bagri-were-found-not-guilty-in-their-trial-for-the-bo.md)

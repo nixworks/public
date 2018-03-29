@@ -21,7 +21,7 @@ _Context: Adama Barrow, Gambian presidential election, 2016, President of Gambia
 
 ##### Presidential transition of Donald Trump
 ### [ Donald Trump requests Gary Cohn, chief operating officer of investment bank Goldman Sachs, to join his administration as chair of the White House National Economic Council. ](/news/2016/12/9/donald-trump-requests-gary-cohn-chief-operating-officer-of-investment-bank-goldman-sachs-to-join-his-administration-as-chair-of-the-white.md)
-_Context: Gary Cohn, Goldman Sachs, Presidential transition of Donald Trump, Trump, White House National Economic Council_
+_Context: Donald Trump, Gary Cohn, Goldman Sachs, Presidential transition of Donald Trump, White House National Economic Council_
 
 ##### Beijing
 ### [Pro-Beijing Hong Kong leader CY Leung says he will quit after his term ends. ](/news/2016/12/9/pro-beijing-hong-kong-leader-cy-leung-says-he-will-quit-after-his-term-ends.md)
@@ -43,7 +43,7 @@ Court declines to sentence Dutch far-right leader over comments that were ‘dem
 ### [Sam Rainsy, the Cambodian opposition leader, is tried yet again in absentia. ](/news/2016/12/9/sam-rainsy-the-cambodian-opposition-leader-is-tried-yet-again-in-absentia.md)
 _Context: Cambodia, Sam Rainsy, in absentia_
 
-##### EU
+##### European Union
 ### [The European Union grants visa-free travel for Georgia and Ukraine. ](/news/2016/12/9/the-european-union-grants-visa-free-travel-for-georgia-and-ukraine.md)
 The European Union will let Ukrainians and Georgians visit the bloc freely after diplomats and lawmakers agreed on Thursday on an emergency brake to suspend visa waivers, ending an EU dispute holding this up.
 

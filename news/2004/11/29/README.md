@@ -33,7 +33,7 @@ _Context: Aung San Suu Kyi, Myanmar, National League for Democracy, house arrest
 
 ##### Iran
 ### [ Iranian-born Dutch national Seyed Mahmoud Namini is being detained by the Canadian government as a potential security threat. He was arrested a month ago when 30 books related to Kurdish revolts in Iran were found in his bag. ](/news/2004/11/29/iranian-born-dutch-national-seyed-mahmoud-namini-is-being-detained-by-the-canadian-government-as-a-potential-security-threat-he-was-arrest.md)
-_Context: Dutch, Iran, Kurdish, Seyed Mahmoud Namini, detain, national_
+_Context: Iran, Kurdish, Netherlands, Seyed Mahmoud Namini, detain, national_
 
 ##### President
 ### [ U.S. President George W. Bush nominates Kellogg Company CEO Carlos Gutierrez to be the next Secretary of Commerce. ](/news/2004/11/29/u-s-president-george-w-bush-nominates-kellogg-company-ceo-carlos-gutierrez-to-be-the-next-secretary-of-commerce.md)

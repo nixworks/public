@@ -35,9 +35,9 @@ _Context: Bausch & Lomb, US$, Valeant Pharmaceuticals_
 ### [Romania unfurls the world's largest flag ever made, according to Guinness World Records. ](/news/2013/05/27/romania-unfurls-the-world-s-largest-flag-ever-made-according-to-guinness-world-records.md)
 _Context: Guinness World Records, Romania, flag_
 
-##### EU
+##### European Union
 ### [The European Union lifts its ban against arming Syrian rebels as full consensus among its 27 member states to extend the current embargo could not be reached. ](/news/2013/05/27/the-european-union-lifts-its-ban-against-arming-syrian-rebels-as-full-consensus-among-its-27-member-states-to-extend-the-current-embargo-cou.md)
-_Context: EU_
+_Context: European Union_
 
 ##### Shi'ite
 ### [At least 75 people are killed and over 200 injured in a wave of bombings in Shi'ite neighbourhoods across Baghdad as sectarian violence in Iraq continues to increase. ](/news/2013/05/27/at-least-75-people-are-killed-and-over-200-injured-in-a-wave-of-bombings-in-shi-ite-neighbourhoods-across-baghdad-as-sectarian-violence-in-i.md)

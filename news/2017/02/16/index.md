@@ -13,7 +13,7 @@ _Context: Mick Mulvaney, Office of Management and Budget, Political appointments
 
 ##### Formation of Donald Trump's cabinet
 ### [U.S. President Donald Trump names Florida International University College of Law Dean and former National Labor Relations Board member Alexander Acosta to be Secretary of Labor. The President's initial nominee, Andy Puzder, withdrew his nomination yesterday. ](/news/2017/02/16/u-s-president-donald-trump-names-florida-international-university-college-of-law-dean-and-former-national-labor-relations-board-member-alex.md)
-_Context: Alexander Acosta, Andy Puzder, Florida International University College of Law, Formation of Donald Trump's cabinet, National Labor Relations Board, President, Trump, United States Secretary of Labor_
+_Context: Alexander Acosta, Andy Puzder, Donald Trump, Florida International University College of Law, Formation of Donald Trump's cabinet, National Labor Relations Board, President, United States Secretary of Labor_
 
 ##### United Nations
 ### [United Nations officials announce the creation of a new team in Geneva to investigate possible war crimes, crimes against humanity and genocide during the Syrian Civil War in order to prepare for future prosecutions of those responsible. ](/news/2017/02/16/united-nations-officials-announce-the-creation-of-a-new-team-in-geneva-to-investigate-possible-war-crimes-crimes-against-humanity-and-genoc.md)

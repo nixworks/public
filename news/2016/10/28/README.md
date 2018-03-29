@@ -17,7 +17,7 @@ _Context: Bernard Madoff, Irving Picard, Ponzi scheme, Stanley Chais_
 
 ##### Convention for the Conservation of Antarctic Marine Living Resources
 ### [At an annual meeting of the Convention for the Conservation of Antarctic Marine Living Resources in Hobart, Australia, twenty-four countries and the European Union agree to create the world's largest marine park in Antarctica's Ross Sea. The marine park will cover more than 12 percent of the Southern Ocean, and will be protected from commercial fishing for 35 years. ](/news/2016/10/28/at-an-annual-meeting-of-the-convention-for-the-conservation-of-antarctic-marine-living-resources-in-hobart-australia-twenty-four-countries.md)
-_Context: Antarctica, Australia, Convention for the Conservation of Antarctic Marine Living Resources, EU, Hobart, Ross Sea, Southern Ocean_
+_Context: Antarctica, Australia, Convention for the Conservation of Antarctic Marine Living Resources, European Union, Hobart, Ross Sea, Southern Ocean_
 
 ##### Royal Clarence Hotel
 ### [A fire destroys the historic Royal Clarence Hotel in Exeter, Devon, which is described as the oldest hotel in England. ](/news/2016/10/28/a-fire-destroys-the-historic-royal-clarence-hotel-in-exeter-devon-which-is-described-as-the-oldest-hotel-in-england.md)

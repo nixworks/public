@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/08/26/eu-officials-caution-that-the-peacekeeping-forc
 
 ### [2006-08-26](/news/2006/08/26/index.md)
 
-##### EU
+##### European Union
 #  EU officials caution that the peacekeeping force in Lebanon will not disarm Hezbollah. Disarming Hezbollah is the responsibility of the Lebanese government and army. 
 
 Officials cautioned that the peacekeeping force would not be used to disarm Hezbollah. 

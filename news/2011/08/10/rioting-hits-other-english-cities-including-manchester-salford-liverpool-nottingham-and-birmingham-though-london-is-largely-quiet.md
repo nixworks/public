@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/10/rioting-hits-other-english-cities-including-man
 
 ### [2011-08-10](/news/2011/08/10/index.md)
 
-##### England
+##### English
 # Rioting hits other English cities including Manchester, Salford, Liverpool, Nottingham and Birmingham, though London is largely quiet. 
 
 Rioting spreads to a number of cities with unrest in Manchester and Liverpool, while three men said to be protecting their community have been run over and killed in Birmingham.
@@ -25,8 +25,8 @@ Rioting spreads to a number of cities with unrest in Manchester and Liverpool, w
 
 ### Related:
 
-1. [Rioting continues in London with lawlessness spreading to other English cities such as Liverpool, Manchester, Bristol and Birmingham. ](/news/2011/08/9/rioting-continues-in-london-with-lawlessness-spreading-to-other-english-cities-such-as-liverpool-manchester-bristol-and-birmingham.md) _Context: Birmingham, England, Liverpool, London, Manchester_
+1. [Rioting continues in London with lawlessness spreading to other English cities such as Liverpool, Manchester, Bristol and Birmingham. ](/news/2011/08/9/rioting-continues-in-london-with-lawlessness-spreading-to-other-english-cities-such-as-liverpool-manchester-bristol-and-birmingham.md) _Context: Birmingham, English, Liverpool, London, Manchester_
 2. [British activists with the Black Lives Matter movement from America block the road to Heathrow Airport and to streets in Manchester, Birmingham, and Nottingham, marking the fifth anniversary of the deadly police shooting of Mark Duggan in north London. Ten protestors are arrested. ](/news/2016/08/5/british-activists-with-the-black-lives-matter-movement-from-america-block-the-road-to-heathrow-airport-and-to-streets-in-manchester-birming.md) _Context: Birmingham, London, Manchester, Nottingham_
-3. [A fire consumes a multi-story parking garage in Liverpool, England, destroying about 1,400 cars parked there, most for an international horse show in the adjacent Liverpool Echo Arena. No injuries are reported, and all horses and pet dogs were moved to safety. ](/news/2017/12/31/a-fire-consumes-a-multi-story-parking-garage-in-liverpool-england-destroying-about-1-400-cars-parked-there-most-for-an-international-hors.md) _Context: England, Liverpool_
-4. [Six people are killed in a multiple-vehicle collision in Birmingham, England. ](/news/2017/12/17/six-people-are-killed-in-a-multiple-vehicle-collision-in-birmingham-england.md) _Context: Birmingham, England_
-5. [The charity concert organized by Ariana Grande in the wake of the 2017 Manchester Arena bombing is held in Manchester, England. ](/news/2017/06/4/the-charity-concert-organized-by-ariana-grande-in-the-wake-of-the-2017-manchester-arena-bombing-is-held-in-manchester-england.md) _Context: England, Manchester_
+3. [A fire consumes a multi-story parking garage in Liverpool, England, destroying about 1,400 cars parked there, most for an international horse show in the adjacent Liverpool Echo Arena. No injuries are reported, and all horses and pet dogs were moved to safety. ](/news/2017/12/31/a-fire-consumes-a-multi-story-parking-garage-in-liverpool-england-destroying-about-1-400-cars-parked-there-most-for-an-international-hors.md) _Context: English, Liverpool_
+4. [Six people are killed in a multiple-vehicle collision in Birmingham, England. ](/news/2017/12/17/six-people-are-killed-in-a-multiple-vehicle-collision-in-birmingham-england.md) _Context: Birmingham, English_
+5. [The charity concert organized by Ariana Grande in the wake of the 2017 Manchester Arena bombing is held in Manchester, England. ](/news/2017/06/4/the-charity-concert-organized-by-ariana-grande-in-the-wake-of-the-2017-manchester-arena-bombing-is-held-in-manchester-england.md) _Context: English, Manchester_

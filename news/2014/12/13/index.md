@@ -17,7 +17,7 @@ _Context: India and Russia_
 
 ##### Vietnam
 ### [Vietnam files an intervention in the arbitration case about the South China Sea with Vietnam rejecting China's claims. ](/news/2014/12/13/vietnam-files-an-intervention-in-the-arbitration-case-about-the-south-china-sea-with-vietnam-rejecting-china-s-claims.md)
-_Context: China, South China Sea, Vietnam_
+_Context: Chinese, South China Sea, Vietnam_
 
 ##### Landslide
 ### [Landslides caused by heavy rain in Java, Indonesia, kill at least 17 people with a hundred still unaccounted for. ](/news/2014/12/13/landslides-caused-by-heavy-rain-in-java-indonesia-kill-at-least-17-people-with-a-hundred-still-unaccounted-for.md)

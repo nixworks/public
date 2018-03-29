@@ -47,9 +47,9 @@ _Context: India, Orissa State, diarrhoea_
 ### [ The Pakistani Army claims to have killed at least 20 suspected militants in clashes across north-west Pakistan. ](/news/2009/09/1/the-pakistani-army-claims-to-have-killed-at-least-20-suspected-militants-in-clashes-across-north-west-pakistan.md)
 _Context: Pakistan, Pakistani troops_
 
-##### EU
+##### European Union
 ### [ The European Union bans the manufacture or import of 100 watt incandescent light bulbs, beginning a phase-out in favour of energy-saving compact fluorescent lamps. ](/news/2009/09/1/the-european-union-bans-the-manufacture-or-import-of-100-watt-incandescent-light-bulbs-beginning-a-phase-out-in-favour-of-energy-saving-co.md)
-_Context: EU, bans the manufacture or import, compact fluorescent lamp, incandescent light bulb_
+_Context: European Union, bans the manufacture or import, compact fluorescent lamp, incandescent light bulb_
 
 ##### Chile
 ### [ Chile's government sets aside 4 billion pesos for the purchase of more fuel-efficient trucks for citizens through its "Cambia tu Camion" ("Change your Truck") program. ](/news/2009/09/1/chile-s-government-sets-aside-4-billion-pesos-for-the-purchase-of-more-fuel-efficient-trucks-for-citizens-through-its-acambia-tu-camia3na.md)

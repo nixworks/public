@@ -5,7 +5,7 @@ Formats: [HTML](2017/10/9/index.html)  [JSON](2017/10/9/index.json)  [XML](2017/
 
 ##### Bosnian War
 ### [The presiding judge Saban Maksumic of the Sarajevo, Bosnian war crimes court acquits former Bosnian military officer Naser Oric of the charge of killing three Bosnian Serb prisoners of war during the Bosnian War. In July 2008, the Appeals Chamber of the International Criminal Tribunal for the former Yugoslavia in the Netherlands acquitted Oric for failing to prevent the deaths of five Bosnian Serb detainees and the mistreatment of eleven other detainees from late 1992 to early 1993. ](/news/2017/10/9/the-presiding-judge-a-aban-maksumia-of-the-sarajevo-bosnian-war-crimes-court-acquits-former-bosnian-military-officer-naser-oria-of-the-ch.md)
-_Context: Bosnian, Bosnian Serb, Bosnian War, Dutch, International Criminal Tribunal for the former Yugoslavia, Naser Oric, Sarajevo, prisoners of war_
+_Context: Bosnian, Bosnian Serb, Bosnian War, International Criminal Tribunal for the former Yugoslavia, Naser Oric, Netherlands, Sarajevo, prisoners of war_
 
 ##### October 2017 Northern California wildfires
 ### [More than a dozen wildfires around Mendocino, Napa, Sonoma, and Yuba counties in California, kill at least ten people, destroy at least 1500 homes and businesses, and force 20 thousand people to evacuate. The Governor of California, Jerry Brown, declares a state of emergency. ](/news/2017/10/9/more-than-a-dozen-wildfires-around-mendocino-napa-sonoma-and-yuba-counties-in-california-kill-at-least-ten-people-destroy-at-least-1500.md)

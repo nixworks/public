@@ -5,7 +5,7 @@ Formats: [HTML](2005/06/29/index.html)  [JSON](2005/06/29/index.json)  [XML](200
 
 ##### Sudoku
 ### [ Giant sudoku puzzle appears near Bristol, England ](/news/2005/06/29/giant-sudoku-puzzle-appears-near-bristol-england.md)
-_Context: Bristol, England, sudoku_
+_Context: Bristol, English, sudoku_
 
 ##### Liberia
 ### [ In Liberia, Gyude Bryant, president of transitional government, states that he is going to use death penalty against those who commit gboyo human sacrifice, especially presidential candidates trying to boost their chances ](/news/2005/06/29/in-liberia-gyude-bryant-president-of-transitional-government-states-that-he-is-going-to-use-death-penalty-against-those-who-commit-gboyo.md)

@@ -33,7 +33,7 @@ _Context: Australia, Indigenous, National Sorry Day, Stolen Generation_
 
 ##### France
 ### [ French official Pascal Lamy, former trade commissioner for European Union, is expected to be appointed as ahead of the World Trade Organisation. He will assume the post in September. ](/news/2005/05/26/french-official-pascal-lamy-former-trade-commissioner-for-european-union-is-expected-to-be-appointed-as-ahead-of-the-world-trade-organisa.md)
-_Context: EU, France, Pascal Lamy, World Trade Organisation_
+_Context: European Union, France, Pascal Lamy, World Trade Organisation_
 
 ##### Flash flood
 ### [ A flash flood strikes So Paulo, Brazil. ](/news/2005/05/26/a-flash-flood-strikes-sao-paulo-brazil.md)
@@ -45,7 +45,7 @@ _Context: 2004, Somchai Visetsingha, Thailand, United Kingdom, backpackers_
 
 ##### United Kingdom
 ### [ British Foreign Minister Jack Straw announces that Iran has renewed its promise to refrain from developing nuclear weapons, and talks on its atomic program will continue following a meeting between Iranian nuclear officials and European Union ministers in Geneva. ](/news/2005/05/26/british-foreign-minister-jack-straw-announces-that-iran-has-renewed-its-promise-to-refrain-from-developing-nuclear-weapons-and-talks-on-it.md)
-_Context: EU, Foreign Secretary, Geneva, Iran, Jack Straw, United Kingdom, atom, nuclear weapon_
+_Context: European Union, Foreign Secretary, Geneva, Iran, Jack Straw, United Kingdom, atom, nuclear weapon_
 
 ##### United Kingdom
 ### [ British Liberal Democrat leader Charles Kennedy calls for a reform of the UK voting system after Labour took the majority of the seats in the UK election with just 35% of the votes. ](/news/2005/05/26/british-liberal-democrat-leader-charles-kennedy-calls-for-a-reform-of-the-uk-voting-system-after-labour-took-the-majority-of-the-seats-in-t.md)

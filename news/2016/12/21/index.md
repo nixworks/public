@@ -9,7 +9,7 @@ _Context: Sahara_
 
 ##### Presidential transition of Donald Trump
 ### [President-elect Donald Trump names Carl Icahn as the Special Advisor to the President on Regulatory Reform. ](/news/2016/12/21/president-elect-donald-trump-names-carl-icahn-as-the-special-advisor-to-the-president-on-regulatory-reform.md)
-_Context: Carl Icahn, President-elect, Presidential transition of Donald Trump, Trump_
+_Context: Carl Icahn, Donald Trump, President-elect, Presidential transition of Donald Trump_
 
 ##### Gambian presidential election, 2016
 ### [Gambia's Chief Justice sets January 10, 2017, for the hearing by the Supreme Court, made up of judges from Nigeria and Sierra Leone, of President Yahya Jammeh's ruling party's legal challenge of the December 1 election results. ](/news/2016/12/21/gambia-s-chief-justice-sets-january-10-2017-for-the-hearing-by-the-supreme-court-made-up-of-judges-from-nigeria-and-sierra-leone-of-pres.md)

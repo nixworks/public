@@ -17,7 +17,7 @@ Chan Han Choi, 59, from Sydney, was arrested and charged with breaching sanction
 
 ##### 2017 St. Petersburg raid
 ### [Russian President Vladimir Putin thanks U.S. President Donald Trump for sharing intelligence from the Central Intelligence Agency which they say helped prevent a terrorist attack in Saint Petersburg. ](/news/2017/12/17/russian-president-vladimir-putin-thanks-u-s-president-donald-trump-for-sharing-intelligence-from-the-central-intelligence-agency-which-they.md)
-_Context: 2017 St. Petersburg raid, CIA, Saint Petersburg, Trump, Vladimir Putin_
+_Context: 2017 St. Petersburg raid, CIA, Donald Trump, Saint Petersburg, Vladimir Putin_
 
 ##### China-Russia relations
 ### [The Russian Ministry of Defense says that Russia and China concluded a five-day computer-generated air defense drill in Beijing. ](/news/2017/12/17/the-russian-ministry-of-defense-says-that-russia-and-china-concluded-a-five-day-computer-generated-air-defense-drill-in-beijing.md)

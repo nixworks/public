@@ -55,7 +55,7 @@ About 150,000 people leave their homes in Sindh as flood defences are threatened
 ### [5,000 people are evacuated in North Korea after the Yalu River on the border with China floods; 94,000 in China are also evacuated. ](/news/2010/08/22/5-000-people-are-evacuated-in-north-korea-after-the-yalu-river-on-the-border-with-china-floods-94-000-in-china-are-also-evacuated.md)
 China and North Korea evacuate thousands of people from their homes after heavy rains flood villages on both sides of the border.
 
-##### Muslim
+##### Muslims
 ### [Hundreds of people rally in relation to an Islamic cultural centre proposed for New York City, United States; opponents to the building blare Bruce Springsteen's "Born in the U.S.A." over loudspeakers. ](/news/2010/08/22/hundreds-of-people-rally-in-relation-to-an-islamic-cultural-centre-proposed-for-new-york-city-united-states-opponents-to-the-building-blar.md)
 Pro and anti-rallies staged in New York over the proposed Islamic centre.
 

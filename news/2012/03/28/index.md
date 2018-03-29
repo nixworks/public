@@ -3,9 +3,9 @@ Formats: [HTML](2012/03/28/index.html)  [JSON](2012/03/28/index.json)  [XML](201
 
 ## [2012-03-28](/news/2012/03/28/index.md)
 
-##### China
+##### Chinese
 ### [Detained Chinese rights lawyer Gao Zhisheng is allowed a visit from family, for the first time in two years. ](/news/2012/03/28/detained-chinese-rights-lawyer-gao-zhisheng-is-allowed-a-visit-from-family-for-the-first-time-in-two-years.md)
-_Context: China, Gao Zhisheng_
+_Context: Chinese, Gao Zhisheng_
 
 ##### Annastacia Palaszczuk
 ### [Annastacia Palaszczuk becomes the Opposition Leader of the Queensland Australian Labor Party, following the party's landslide defeat in last Saturday's election. ](/news/2012/03/28/annastacia-palaszczuk-becomes-the-opposition-leader-of-the-queensland-australian-labor-party-following-the-party-s-landslide-defeat-in-last.md)

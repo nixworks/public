@@ -3,7 +3,7 @@ Formats: [HTML](2012/04/29/index.html)  [JSON](2012/04/29/index.json)  [XML](201
 
 ## [2012-04-29](/news/2012/04/29/index.md)
 
-##### China
+##### Chinese
 ### [Chinese authorities begin to round-up associates of human rights activist Chen Guangcheng in light of his escape from house arrest. ](/news/2012/04/29/chinese-authorities-begin-to-round-up-associates-of-human-rights-activist-chen-guangcheng-in-light-of-his-escape-from-house-arrest.md)
 Concern is growing in China for relatives and friends of blind activist Chen Guangcheng, who escaped from house arrest last week.
 

@@ -37,7 +37,7 @@ _Context: IPO, Twitter Inc._
 
 ##### Antitrust
 ### [The antitrust chief of the European Union, Joaquin Almunia, discusses coming charges against Gazprom, the Russian natural gas monopolist. ](/news/2013/10/3/the-antitrust-chief-of-the-european-union-joaquin-almunia-discusses-coming-charges-against-gazprom-the-russian-natural-gas-monopolist.md)
-_Context: EU, Gazprom, Joaquin Almunia, Russia, antitrust_
+_Context: European Union, Gazprom, Joaquin Almunia, Russia, antitrust_
 
 ##### Tehrik-i-Taliban Pakistan
 ### [The Tehrik-i-Taliban Pakistan attacks a compound belonging to former Tehrik-i-Taliban Pakistan commander Nabi Hanfi leaving 15 dead near the border of North Waziristan. ](/news/2013/10/3/the-tehrik-i-taliban-pakistan-attacks-a-compound-belonging-to-former-tehrik-i-taliban-pakistan-commander-nabi-hanfi-leaving-15-dead-near-the.md)

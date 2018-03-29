@@ -21,7 +21,7 @@ One of Britain&#39;s biggest mobile phone companies has admitted to a major cybe
 
 ##### Japan-United States relations
 ### [Japanese Prime Minister Shinzo Abe becomes the first foreign head of government to meet President-elect of the United States Donald Trump since his election as President on November 8. ](/news/2016/11/17/japanese-prime-minister-shinza-abe-becomes-the-first-foreign-head-of-government-to-meet-president-elect-of-the-united-states-donald-trump-s.md)
-_Context: 2016 U.S. election, Japan-United States relations, Japanese Prime Minister, President-elect, Shinzo Abe, Trump_
+_Context: 2016 U.S. election, Donald Trump, Japan-United States relations, Japanese Prime Minister, President-elect, Shinzo Abe_
 
 ##### Refugee immigration to Germany
 ### [Around 100 people are feared to have drowned in the Mediterranean Sea off the coast of Libya. So far this week, 18 people are confirmed dead and 340 missing attempting to migrate to Europe. ](/news/2016/11/17/around-100-people-are-feared-to-have-drowned-in-the-mediterranean-sea-off-the-coast-of-libya-so-far-this-week-18-people-are-confirmed-dead.md)

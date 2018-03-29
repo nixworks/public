@@ -3,7 +3,7 @@ Formats: [HTML](2007/09/19/index.html)  [JSON](2007/09/19/index.json)  [XML](200
 
 ## [2007-09-19](/news/2007/09/19/index.md)
 
-##### China
+##### Chinese
 ### [ Typhoon Wipha (Goring) makes landfall in eastern China before weakening to a Category 2 typhoon as it heads inland. ](/news/2007/09/19/typhoon-wipha-goring-makes-landfall-in-eastern-china-before-weakening-to-a-category-2-typhoon-as-it-heads-inland.md)
 Typhoon Wipha lost strength after crossing the eastern coast of China on Wednesday but downpours have still taken a heavy toll in two provinces.
 
@@ -69,7 +69,7 @@ _Context: 2007 Pacific hurricane season, Baja California_
 
 ##### France
 ### [ France calls for a joint force of United Nations and European Union peacekeepers in parts of Chad and the Central African Republic bordering the Darfur region of Sudan. ](/news/2007/09/19/france-calls-for-a-joint-force-of-united-nations-and-european-union-peacekeepers-in-parts-of-chad-and-the-central-african-republic-borderin.md)
-_Context: Central African Republic, Chad, Darfur, EU, France, Sudan, United Nations_
+_Context: Central African Republic, Chad, Darfur, European Union, France, Sudan, United Nations_
 
 ## [Previous Day...](/news/2007/09/18/index.md)
 

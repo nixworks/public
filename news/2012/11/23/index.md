@@ -9,7 +9,7 @@ _Context:  Tokyo, JR Tokai, L0 train, Nagoya, maglev_
 
 ##### United Kingdom
 ### [Britain's top GCHQ code-breakers say they are stumped by a secret code found on the leg of a dead pigeon that was found in a chimney in Surrey, England, with a message from World War II attached. ](/news/2012/11/23/britain-s-top-gchq-code-breakers-say-they-are-stumped-by-a-secret-code-found-on-the-leg-of-a-dead-pigeon-that-was-found-in-a-chimney-in-surr.md)
-_Context: England, GCHQ, Surrey, United Kingdom, World War II, chimney, pigeon, secret code_
+_Context: English, GCHQ, Surrey, United Kingdom, World War II, chimney, pigeon, secret code_
 
 ##### Egypt
 ### [Opposition leaders in Egypt call for large protests after President of Egypt Mohamed Morsi passed a decree giving himself sweeping new powers. Protests for and against his decision are taking place in Cairo, and violence has occurred throughout Egypt. ](/news/2012/11/23/opposition-leaders-in-egypt-call-for-large-protests-after-president-of-egypt-mohamed-morsi-passed-a-decree-giving-himself-sweeping-new-power.md)

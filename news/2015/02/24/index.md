@@ -3,9 +3,9 @@ Formats: [HTML](2015/02/24/index.html)  [JSON](2015/02/24/index.json)  [XML](201
 
 ## [2015-02-24](/news/2015/02/24/index.md)
 
-##### U.S. Secretary of Veterans Affairs
+##### Secretary of Veterans Affairs
 ### [U.S. Secretary of Veterans Affairs Robert A. McDonald admits that he lied when he claimed that he served in the U.S. Army Special Forces. ](/news/2015/02/24/u-s-secretary-of-veterans-affairs-robert-a-mcdonald-admits-that-he-lied-when-he-claimed-that-he-served-in-the-u-s-army-special-forces.md)
-_Context: Robert A. McDonald, Special Forces, U.S. Secretary of Veterans Affairs_
+_Context: Robert A. McDonald, Secretary of Veterans Affairs, Special Forces_
 
 ##### Malcolm Rifkind
 ### [Former U.K. Foreign Secretary Malcolm Rifkind steps down as chair of a parliamentary intelligence committee and said he won't run for re-election as a Conservative member of parliament after becoming embroiled in an embarrassing cash-for-access sting. ](/news/2015/02/24/former-u-k-foreign-secretary-malcolm-rifkind-steps-down-as-chair-of-a-parliamentary-intelligence-committee-and-said-he-wonat-run-for-re-e.md)

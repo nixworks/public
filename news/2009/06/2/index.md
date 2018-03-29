@@ -27,9 +27,9 @@ The Chinese government is trying to block access to social media, photo-sharing 
 ### [ Oxfam International describes the humanitarian crisis in Somalia as "very dire". ](/news/2009/06/2/oxfam-international-describes-the-humanitarian-crisis-in-somalia-as-very-dire.md)
 _Context: Oxfam, Somalia, humanitarian crisis_
 
-##### Dutch
+##### Netherlands
 ### [ Dutch research verifies space headache as a real medical condition. ](/news/2009/06/2/dutch-research-verifies-space-headache-as-a-real-medical-condition.md)
-_Context: Dutch, headache, research, space_
+_Context: Netherlands, headache, research, space_
 
 ##### Inuit Ataqatigiit
 ### [ The Community of the People wins Greenland's parliamentary election. ](/news/2009/06/2/the-community-of-the-people-wins-greenland-s-parliamentary-election.md)

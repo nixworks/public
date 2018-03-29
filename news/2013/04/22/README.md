@@ -19,13 +19,13 @@ Google has been fined €145,000 by a German privacy regulator for the systemati
 ### [Clothing retailer Ralph Lauren agrees to pay $1.6 million for claims of bribery to public officials in Argentina from 2005 to 2009. ](/news/2013/04/22/clothing-retailer-ralph-lauren-agrees-to-pay-1-6-million-for-claims-of-bribery-to-public-officials-in-argentina-from-2005-to-2009.md)
 Ralph Lauren Corp., the retailer of its namesake brand clothing, will pay about $1.6 million to resolve U.S. regulatory and criminal claims that a subsidiary paid bribes to officials in Argentina from 2005 to 2009.
 
-##### EU
+##### European Union
 ### [The European Union lifts all sanctions and trade embargoes on Myanmar excluding arms trade and other trade of equipment that could be used for internal repression, citing the improvement of political freedoms. ](/news/2013/04/22/the-european-union-lifts-all-sanctions-and-trade-embargoes-on-myanmar-excluding-arms-trade-and-other-trade-of-equipment-that-could-be-used-f.md)
-_Context: EU, Myanmar, embargo_
+_Context: European Union, Myanmar, embargo_
 
-##### EU
+##### European Union
 ### [The European Union lifts an oil trade embargo it imposed on Syria during the early stages of the civil war to help the finances of the opposition. ](/news/2013/04/22/the-european-union-lifts-an-oil-trade-embargo-it-imposed-on-syria-during-the-early-stages-of-the-civil-war-to-help-the-finances-of-the-oppos.md)
-_Context: EU, Syria, Syrian civil war, embargo_
+_Context: European Union, Syria, Syrian civil war, embargo_
 
 ##### News Corporation
 ### [News Corporation agrees to pay $139 million to American shareholders due to the phone hacking scandal. ](/news/2013/04/22/news-corporation-agrees-to-pay-139-million-to-american-shareholders-due-to-the-phone-hacking-scandal.md)

@@ -43,7 +43,7 @@ Days of heavy rain caused houses and shanties in the capital to collapse.
 ### [A massive wildfire burning in the US state of Arizona already covering almost 500 square miles remains completely uncontained and is sending dense smoke billowing across several other states; evacuations have been ordered for several communities. ](/news/2011/06/7/a-massive-wildfire-burning-in-the-us-state-of-arizona-already-covering-almost-500-square-miles-remains-completely-uncontained-and-is-sending.md)
 Dry, windy conditions whipped flames and spread smoke across several states as a massive Arizona wildfire threatened mountain communities.
 
-##### EU
+##### European Union
 ### [European Union Agriculture Ministers meet in Luxembourg to discuss the continuing 2011 E. coli O104:H4 outbreak that has so far killed 23 and for which no cause has yet been found; a 150 million euro compensation fund is proposed, but no Europe-wide bans on produce. ](/news/2011/06/7/european-union-agriculture-ministers-meet-in-luxembourg-to-discuss-the-continuing-2011-e-coli-o104-h4-outbreak-that-has-so-far-killed-23-an.md)
 The EU health commissioner says the E. coli outbreak that has killed 22 is limited geographically and does not need Europe-wide controls.
 

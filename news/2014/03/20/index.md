@@ -19,9 +19,9 @@ At least nine people are killed and five injured after a passenger train crashes
 ### [The Prime Minister of Australia, Tony Abbott, advises the Parliament that two objects possibly related to the search for Malaysia Airlines Flight 370 have been located in the southern Indian Ocean. ](/news/2014/03/20/the-prime-minister-of-australia-tony-abbott-advises-the-parliament-that-two-objects-possibly-related-to-the-search-for-malaysia-airlines-f.md)
 Sky News Australia has the top stories in news online from Australia and the rest of the World.
 
-##### EU
+##### European Union
 ### [European Union member states and European Parliament negotiators reach a deal on a new regulatory system for banks. ](/news/2014/03/20/european-union-member-states-and-european-parliament-negotiators-reach-a-deal-on-a-new-regulatory-system-for-banks.md)
-_Context: EU, European Parliament_
+_Context: European Parliament, European Union_
 
 ##### Syrian
 ### [Syrian troops capture the 1,000-year-old Krak des Chevaliers crusader castle from rebels after laying siege to the fortress since January. ](/news/2014/03/20/syrian-troops-capture-the-1-000-year-old-krak-des-chevaliers-crusader-castle-from-rebels-after-laying-siege-to-the-fortress-since-january.md)

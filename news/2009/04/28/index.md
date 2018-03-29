@@ -9,7 +9,7 @@ A Russian navy ship boarded a suspected Somali pirate vessel Tuesday night, deta
 
 ##### Magnitude
 ### [ A 3.7-magnitude earthquake strikes Ulverston, Cumbria, England. ](/news/2009/04/28/a-3-7-magnitude-earthquake-strikes-ulverston-cumbria-england.md)
-_Context: Cumbria, England, Ulverston, earthquake, magnitude_
+_Context: Cumbria, English, Ulverston, earthquake, magnitude_
 
 ##### Sri Lanka
 ### [ Sri Lanka's government denies Swedish Foreign Minister Carl Bildt a visa. ](/news/2009/04/28/sri-lanka-s-government-denies-swedish-foreign-minister-carl-bildt-a-visa.md)

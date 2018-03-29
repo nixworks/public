@@ -13,7 +13,7 @@ _Context: Bosphorus, Turkey, petroleum_
 
 ##### Muslim
 ### [ Muslim religious scholars in Pakistan announce a fatwa that decrees that heroin use is un-Islamic. The "fatwa" is pronounced in a seminar in Baluchistan. ](/news/2005/03/13/muslim-religious-scholars-in-pakistan-announce-a-fatwa-that-decrees-that-heroin-use-is-un-islamic-the-fatwa-is-pronounced-in-a-seminar-i.md)
-_Context: Balochistan, Muslim, Muslim, Pakistan, fatwa, heroin_
+_Context: Balochistan, Muslim, Muslims, Pakistan, fatwa, heroin_
 
 ##### Roll Back Malaria (RBM) Partnership
 ### [ Roll Back Malaria (RBM) Partnership charity concert "Africa Live" begins in Dakar, Senegal, to collect funds to fight against malaria and to buy mosquito nets. Local musician Youssou N'Dour organized the concert and it features major African artists. ](/news/2005/03/13/roll-back-malaria-rbm-partnership-charity-concert-africa-live-begins-in-dakar-senegal-to-collect-funds-to-fight-against-malaria-and-t.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2008/05/11/index.html)  [JSON](2008/05/11/index.json)  [XML](200
 
 ##### Serbia
 ### [ Serbian voters go to the polls in the Serbian parliamentary election, 2008. A pro-Europe coalition associated with the President of Serbia Boris Tadic wins the most votes. ](/news/2008/05/11/serbian-voters-go-to-the-polls-in-the-serbian-parliamentary-election-2008-a-pro-europe-coalition-associated-with-the-president-of-serbia.md)
-_Context: Boris Tadic, EU, President of Serbia, Serbia, parliamentary election_
+_Context: Boris Tadic, European Union, President of Serbia, Serbia, parliamentary election_
 
 ##### Run-off presidential election
 ### [ Run-offs in the Zimbabwean presidential election, according to George Chiweshe, the elections commissioner, must be delayed past the time allotted by law, up to a year, until funding can be found. ](/news/2008/05/11/run-offs-in-the-zimbabwean-presidential-election-according-to-george-chiweshe-the-elections-commissioner-must-be-delayed-past-the-time-a.md)

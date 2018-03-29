@@ -11,9 +11,9 @@ NASA launched the space shuttle Endeavour on its last flight, the STS-134 missio
 ### [Queen Silvia of Sweden orders an investigation into her father Walther Sommerlath's alleged ties with the German Nazi Party. ](/news/2011/05/16/queen-silvia-of-sweden-orders-an-investigation-into-her-father-walther-sommerlath-s-alleged-ties-with-the-german-nazi-party.md)
 Sweden&#039;s Queen Silvia is investigating her late father&#039;s activities in Germany and Brazil during World War II to clarify reports about possible ties to Nazis.
 
-##### Trump
+##### Donald Trump
 ### [Businessman Donald Trump announces he will not seek the Republican nomination for the 2012 United States presidential election. ](/news/2011/05/16/businessman-donald-trump-announces-he-will-not-seek-the-republican-nomination-for-the-2012-united-states-presidential-election.md)
-_Context: Trump, United States presidential election, 2012, nomination_
+_Context: Donald Trump, United States presidential election, 2012, nomination_
 
 ##### Rahm Emanuel
 ### [Rahm Emanuel is sworn in as the Mayor of Chicago, Illinois. ](/news/2011/05/16/rahm-emanuel-is-sworn-in-as-the-mayor-of-chicago-illinois.md)
@@ -63,7 +63,7 @@ Nasdaq OMX Group Inc and IntercontinentalExchange withdrew their hostile $11.3 b
 ### [The International Monetary Fund approves another US$2 billion loan to Ireland. ](/news/2011/05/16/the-international-monetary-fund-approves-another-us-2-billion-loan-to-ireland.md)
 _Context: International Monetary Fund, Ireland_
 
-##### EU
+##### European Union
 ### [European Union finance ministers approve a 78 billion euro bailout package for Portugal ](/news/2011/05/16/european-union-finance-ministers-approve-a-78-billion-euro-bailout-package-for-portugal.md)
 European Union finance ministers cleared the way for Portugal to receive 78 billion euros ($110.8 billion) in aid, making it the third euro-area country to fall back on official loans.
 

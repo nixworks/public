@@ -29,7 +29,7 @@ _Context: Apple Inc., CEO, Steve Jobs, leave of absence_
 
 ##### United Kingdom
 ### [ United Kingdom Opposition Leader David Cameron pledges to hold a referendum on the European Union's Lisbon Treaty if his Conservative Party is elected later this year. ](/news/2009/01/14/united-kingdom-opposition-leader-david-cameron-pledges-to-hold-a-referendum-on-the-european-union-s-lisbon-treaty-if-his-conservative-party.md)
-_Context: Conservative Party, David Cameron, EU, Leader, Opposition, Treaty of Lisbon, United Kingdom, referendum_
+_Context: Conservative Party, David Cameron, European Union, Leader, Opposition, Treaty of Lisbon, United Kingdom, referendum_
 
 ## [Previous Day...](/news/2009/01/13/index.md)
 

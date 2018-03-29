@@ -11,7 +11,7 @@ _Context: Austria, Austrian People's Party, Michael Spindelegger, Reinhold Mitte
 ### [Klaus Wowereit makes it official that he will resign as the mayor of Berlin on 11 December, after having held the post for nearly 14 years, making him Germany's current longest-serving head of a state government. ](/news/2014/08/26/klaus-wowereit-makes-it-official-that-he-will-resign-as-the-mayor-of-berlin-on-11-december-after-having-held-the-post-for-nearly-14-years.md)
 _Context: Germany, Klaus Wowereit, mayor of Berlin_
 
-##### Shanxi province
+##### Shanxi
 ### [Two high-ranking officials in China's Shanxi province, Chen Chuanping and Nie Chunyu, are placed under a corruption investigation by Chinese Communist Party authorities. Chen Chuanping was the CPC party chief of Taiyuan, the provincial capital. The president of China Resources Power, Wang Yujun, is also detained. ](/news/2014/08/26/two-high-ranking-officials-in-china-s-shanxi-province-chen-chuanping-and-nie-chunyu-are-placed-under-a-corruption-investigation-by-chinese.md)
 China’s anti-graft watchdog said it’s investigating two top officials in the northern province of Shanxi, broadening a campaign in the coal-rich region that’s snared the brother of an aide to former President Hu Jintao.
 

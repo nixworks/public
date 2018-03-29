@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/30/islamic-militants-occupy-a-shrine-in-a-tribal-a
 
 ### [2007-07-30](/news/2007/07/30/index.md)
 
-##### Muslim
+##### Muslims
 #  Islamic militants occupy a shrine in a tribal area of Pakistan and name it after the Lal Masjid in Islamabad recently stormed by the Pakistan army. 
 
 

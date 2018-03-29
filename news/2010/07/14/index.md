@@ -19,7 +19,7 @@ The Iroquois national lacrosse team received permission on Wednesday from the St
 ### [Researchers find that the Vatican Radio transmitters increase the risk of tumours and leukaemia in children who live nearby. ](/news/2010/07/14/researchers-find-that-the-vatican-radio-transmitters-increase-the-risk-of-tumours-and-leukaemia-in-children-who-live-nearby.md)
 Italian cancer experts say there is a connection between radiation from Vatican Radio transmitters and a high number of child cancer cases.
 
-##### Boeing
+##### The Boeing Company
 ### [Boeing unveils Phantom Eye, its unmanned hydrogen-powered spy plane capable of flying for up to four consecutive days. ](/news/2010/07/14/boeing-unveils-phantom-eye-its-unmanned-hydrogen-powered-spy-plane-capable-of-flying-for-up-to-four-consecutive-days.md)
 Boeing unveils an unmanned hydrogen-powered spy plane, the Phantom Eye, which is capable of flying non-stop for four days.
 

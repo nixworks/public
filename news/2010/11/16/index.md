@@ -25,7 +25,7 @@ The Government is close to finalising its four-year fiscal plan and pending appr
 
 ##### Herman Van Rompuy
 ### [President Herman Van Rompuy predicts the possible collapse of the European Union but then says "I'm very confident we will overcome this". ](/news/2010/11/16/president-herman-van-rompuy-predicts-the-possible-collapse-of-the-european-union-but-then-says-i-m-very-confident-we-will-overcome-this.md)
-_Context: EU, Herman Van Rompuy_
+_Context: European Union, Herman Van Rompuy_
 
 ##### Government
 ### [The UK Government is to pay millions of pounds in compensation to around a dozen British citizens who were held in detention overseas, including the camp at Guantanamo Bay, and who say British security services colluded in their torture. ](/news/2010/11/16/the-uk-government-is-to-pay-millions-of-pounds-in-compensation-to-around-a-dozen-british-citizens-who-were-held-in-detention-overseas-inclu.md)

@@ -27,9 +27,9 @@ Two officials in Burma have been sentenced to death for leaking information, in 
 ### [Two people are arrested over a bomb plot in New York City last year. ](/news/2010/01/8/two-people-are-arrested-over-a-bomb-plot-in-new-york-city-last-year.md)
 _Context: New York City_
 
-##### England
+##### English
 ### [Police in England respond to a security alert on a Dubai-bound flight from London Heathrow Airport. ](/news/2010/01/8/police-in-england-respond-to-a-security-alert-on-a-dubai-bound-flight-from-london-heathrow-airport.md)
-_Context: Dubai, England, London Heathrow Airport_
+_Context: Dubai, English, London Heathrow Airport_
 
 ##### George Galloway
 ### [British MP George Galloway is deported from Egypt. ](/news/2010/01/8/british-mp-george-galloway-is-deported-from-egypt.md)

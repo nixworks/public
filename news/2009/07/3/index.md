@@ -21,7 +21,7 @@ _Context: 2008, Alaska, Governor, Sarah Palin, U.S. Vice President, United State
 
 ##### Killed after a fire
 ### [ Six people, including three children, are killed after a fire in a high rise residential tower block in Camberwell, south London, England. ](/news/2009/07/3/six-people-including-three-children-are-killed-after-a-fire-in-a-high-rise-residential-tower-block-in-camberwell-south-london-england.md)
-_Context: Camberwell, England, London, killed after a fire_
+_Context: Camberwell, English, London, killed after a fire_
 
 ##### Viareggio
 ### [ Two more people die in Viareggio, Italy, following the train explosion, bringing the death toll to 21. ](/news/2009/07/3/two-more-people-die-in-viareggio-italy-following-the-train-explosion-bringing-the-death-toll-to-21.md)

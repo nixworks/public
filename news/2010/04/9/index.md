@@ -71,7 +71,7 @@ Australia has suspended processing new claims for asylum from Afghans and Sri La
 ### [Thousands of Iraqis protest in the city of Najaf to mark the seventh anniversary of the occupation of Iraq by the USA. ](/news/2010/04/9/thousands-of-iraqis-protest-in-the-city-of-najaf-to-mark-the-seventh-anniversary-of-the-occupation-of-iraq-by-the-usa.md)
 Thousands protest presence of foreign forces, seven years after the US-led invasion.
 
-##### Shanxi province
+##### Shanxi
 ### [The death toll in Shanxi's flooded Wangjialing coal mine reaches 25. ](/news/2010/04/9/the-death-toll-in-shanxi-s-flooded-wangjialing-coal-mine-reaches-25.md)
 Beijing says 28 workers confirmed dead as hopes to find missing begin to fade.
 

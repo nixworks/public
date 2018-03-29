@@ -19,7 +19,7 @@ _Context: Danish general election, 2015, Folketing, Pia Kjaersgaard, speaker of 
 ### [Jeffrey Webb, a former Vice President of FIFA and President of CONCACAF, is reportedly charged with healthcare fraud in his native Cayman Islands. ](/news/2015/07/3/jeffrey-webb-a-former-vice-president-of-fifa-and-president-of-concacaf-is-reportedly-charged-with-healthcare-fraud-in-his-native-cayman-is.md)
 _Context: CONCACAF, Cayman Islands, FIFA, Jeffrey Webb_
 
-##### Dutch police
+##### Law enforcement in the Netherlands
 ### [Dutch police detain 200 young people in The Hague for not following curfew as violence continues in the Schilderswijk district for a fourth night. ](/news/2015/07/3/dutch-police-detain-200-young-people-in-the-hague-for-not-following-curfew-as-violence-continues-in-the-schilderswijk-district-for-a-fourth.md)
 Police in The Hague said Friday they had detained more than 200 people overnight for violating terms of a curfew, as unrest in the city continued for a fourth night.
 

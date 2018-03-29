@@ -39,7 +39,7 @@ _Context: Sarath Fonseka, Sri Lanka_
 ### [The European Parliament rejects an agreement that would have granted the United States Terrorist Finance Tracking Program unlimited access to the SWIFT bank transactions database. ](/news/2010/02/11/the-european-parliament-rejects-an-agreement-that-would-have-granted-the-united-states-terrorist-finance-tracking-program-unlimited-access-t.md)
 _Context: European Parliament, Society for Worldwide Interbank Financial Telecommunication, Terrorist Finance Tracking Program, United States_
 
-##### EU
+##### European Union
 ### [A European Union summit takes place to discuss a possible bailout for Greece's economy. ](/news/2010/02/11/a-european-union-summit-takes-place-to-discuss-a-possible-bailout-for-greece-s-economy.md)
 European leaders sought to prop up Greece with words of support at a summit on Thursday but failed to offer concrete proposals to help the country tackle its debt crisis, prompting a negative market reaction.
 

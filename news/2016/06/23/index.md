@@ -17,7 +17,7 @@ The Colombian government and leftist Farc rebels sign a ceasefire deal to end fi
 
 ##### European Union membership referendum
 ### [Voters in the United Kingdom go to the polls to vote in a referendum on whether the UK should leave the European Union. ](/news/2016/06/23/voters-in-the-united-kingdom-go-to-the-polls-to-vote-in-a-referendum-on-whether-the-uk-should-leave-the-european-union.md)
-_Context: EU, European Union membership referendum, United Kingdom_
+_Context: European Union, European Union membership referendum, United Kingdom_
 
 ##### Viernheim shooting
 ### [An unidentified man who had been reported to have fired shots inside a theater has been shot dead by police in Viernheim, Germany. No other fatalities were reported. ](/news/2016/06/23/an-unidentified-man-who-had-been-reported-to-have-fired-shots-inside-a-theater-has-been-shot-dead-by-police-in-viernheim-germany-no-other.md)

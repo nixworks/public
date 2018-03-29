@@ -21,7 +21,7 @@ The United States on Monday launched the first salvo in the renegotiation of the
 
 ##### Vijfhuizen
 ### [In Vijfhuizen, the Netherlands, exactly three years after the Malaysia Airlines Flight 17 (MH17) disaster, the National Memorial for the victims is opened in the presence of King Willem-Alexander, Queen Maxima and Prime Minister Mark Rutte. ](/news/2017/07/17/in-vijfhuizen-the-netherlands-exactly-three-years-after-the-malaysia-airlines-flight-17-mh17-disaster-the-national-memorial-for-the-vic.md)
-_Context: Dutch, King, Malaysia Airlines Flight 17, Mark Rutte, Prime Minister, Queen Maxima, Vijfhuizen, Willem-Alexander_
+_Context: King, Malaysia Airlines Flight 17, Mark Rutte, Netherlands, Prime Minister, Queen Maxima, Vijfhuizen, Willem-Alexander_
 
 ##### Sinai insurgency
 ### [A two stage attack targeting police kills 5 officers and wounds 11 in the city of el-Arish. A later roadside bomb south of the city wounds a further 6 officers. ](/news/2017/07/17/a-two-stage-attack-targeting-police-kills-5-officers-and-wounds-11-in-the-city-of-el-arish-a-later-roadside-bomb-south-of-the-city-wounds-a.md)

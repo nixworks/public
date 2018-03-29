@@ -5,7 +5,7 @@ Formats: [HTML](2016/02/6/index.html)  [JSON](2016/02/6/index.json)  [XML](2016/
 
 ##### Opposition to immigration
 ### [Protesters rally against Islam and immigration in several European cities amid growing tensions over the massive influx of asylum-seekers to the continent. ](/news/2016/02/6/protesters-rally-against-islam-and-immigration-in-several-european-cities-amid-growing-tensions-over-the-massive-influx-of-asylum-seekers-to.md)
-_Context: Anti-Islamism, Muslim, Opposition to immigration, refugee immigration to Germany_
+_Context: Anti-Islamism, Muslims, Opposition to immigration, refugee immigration to Germany_
 
 ##### Vatican commission on sexual abuse
 ### [The Vatican commission on sexual abuse announces that Peter Saunders, a sexual abuse survivor from the U.K., is suspended from commission proceedings. "I am not leaving my position," Saunders said, adding only the person who appointed him, the Pope, can dismiss him. ](/news/2016/02/6/the-vatican-commission-on-sexual-abuse-announces-that-peter-saunders-a-sexual-abuse-survivor-from-the-u-k-is-suspended-from-commission-pr.md)

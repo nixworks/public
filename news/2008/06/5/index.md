@@ -41,7 +41,7 @@ _Context: Zimbabwe, are detained_
 
 ##### Ireland
 ### [ An Irish opinion poll shows the EU Treaty of Lisbon heading for defeat. ](/news/2008/06/5/an-irish-opinion-poll-shows-the-eu-treaty-of-lisbon-heading-for-defeat.md)
-_Context: EU, Ireland, Treaty of Lisbon, opinion poll_
+_Context: European Union, Ireland, Treaty of Lisbon, opinion poll_
 
 ## [Previous Day...](/news/2008/06/4/index.md)
 

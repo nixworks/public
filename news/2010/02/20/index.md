@@ -15,7 +15,7 @@ _Context: ''Bal'', 60th Berlin International Film Festival, Golden Bear_
 ### [Lunar Tet New Year holiday road accidents killed almost 300, injured 400 people in Vietnam. Most of the crashes involved alcohol. ](/news/2010/02/20/lunar-tet-new-year-holiday-road-accidents-killed-almost-300-injured-400-people-in-vietnam-most-of-the-crashes-involved-alcohol.md)
 _Context: Lunar Tet New Year holiday, Vietnam_
 
-##### Dutch
+##### Netherlands
 ### [The Dutch cabinet Balkenende IV collapses after a dispute on extending the mandate of Task Force Uruzgan in Afghanistan. ](/news/2010/02/20/the-dutch-cabinet-balkenende-iv-collapses-after-a-dispute-on-extending-the-mandate-of-task-force-uruzgan-in-afghanistan.md)
 Government collapses following disagreement on date for withdrawing troops.
 

@@ -59,7 +59,7 @@ _Context: Hyderabad_
 ### [A report by Human Rights Watch calls on Britain, France and Germany to stop using intelligence obtained through illegal torture in third-party countries, saying that it contradicts the European Union's anti-torture guidelines and is self-defeating in the "fight against terrorism". ](/news/2010/06/29/a-report-by-human-rights-watch-calls-on-britain-france-and-germany-to-stop-using-intelligence-obtained-through-illegal-torture-in-third-par.md)
 UK, France and Germany urged not to use information gained by torture in other countries.
 
-##### China
+##### Chinese
 ### [China and Taiwan sign a trade deal in the southern mainland city of Chongqing. ](/news/2010/06/29/china-and-taiwan-sign-a-trade-deal-in-the-southern-mainland-city-of-chongqing.md)
 China can maintain its grip on Tibet &quot;forever&quot;, a senior official said on Tuesday, but conceded that a heavy security presence was still needed to ensure order in Lhasa two years after deadly riots.
 

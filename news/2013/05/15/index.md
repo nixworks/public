@@ -29,7 +29,7 @@ Breakthrough sets up showdown with induced adult lines.
 
 ##### United Kingdom
 ### [In the United Kingdom House of Commons, an amendment to last Wednesday's Queen's Speech expressing regret that it did not contain legislation for a referendum on EU membership is defeated 277&ndash;131. ](/news/2013/05/15/in-the-united-kingdom-house-of-commons-an-amendment-to-last-wednesday-s-queen-s-speech-expressing-regret-that-it-did-not-contain-legislatio.md)
-_Context: EU, House of Commons, Queen's Speech, United Kingdom_
+_Context: European Union, House of Commons, Queen's Speech, United Kingdom_
 
 ##### U.S.
 ### [Steven Miller, the acting commissioner of the U.S. Internal Revenue Service, resigns amidst pressure from the fallout surrounding the agency's targeting of Tea Party groups. ](/news/2013/05/15/steven-miller-the-acting-commissioner-of-the-u-s-internal-revenue-service-resigns-amidst-pressure-from-the-fallout-surrounding-the-agency.md)
@@ -39,7 +39,7 @@ WASHINGTON &ndash; President Obama announced the resignation Wednesday evening o
 ### [The United Nations General Assembly passes a resolution condemning the Syrian government for human rights violations. ](/news/2013/05/15/the-united-nations-general-assembly-passes-a-resolution-condemning-the-syrian-government-for-human-rights-violations.md)
 General Assembly approves Qatari-drafted measure condemning alleged rights abuses by government amid continued violence.
 
-##### China
+##### Chinese
 ### [China, India, and four other nations join the Arctic Council with observer status. ](/news/2013/05/15/china-india-and-four-other-nations-join-the-arctic-council-with-observer-status.md)
 Deposits of oil, gas and minerals in the region have set off a global competition for influence and economic opportunities.
 

@@ -89,7 +89,7 @@ Warner Bros. has just fired Charlie Sheen from &quot;Two and a Half Men.&quot;Wa
 
 ##### Picasso
 ### [Pablo Picasso's "Nude, Green Leaves and Bust", the most expensive painting ever sold at auction, goes on public exhibition at the Tate Gallery in London, England. ](/news/2011/03/7/pablo-picasso-s-nude-green-leaves-and-bust-the-most-expensive-painting-ever-sold-at-auction-goes-on-public-exhibition-at-the-tate-galle.md)
-_Context: England, London, Nude, Green Leaves and Bust, Picasso, Tate Gallery_
+_Context: English, London, Nude, Green Leaves and Bust, Picasso, Tate Gallery_
 
 ##### Kidnapping
 ### [Twenty-three oil workers are kidnapped in eastern Colombia with FARC rebels the most likely suspects. ](/news/2011/03/7/twenty-three-oil-workers-are-kidnapped-in-eastern-colombia-with-farc-rebels-the-most-likely-suspects.md)

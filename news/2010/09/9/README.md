@@ -63,9 +63,9 @@ _Context: Battle of Mogadishu (2010), Mogadishu Airport, Somalia_
 ### [At least 16 people are killed and 98 injured in an apparent suicide bombing in the Russian Caucasus city of Vladikavkaz. ](/news/2010/09/9/at-least-16-people-are-killed-and-98-injured-in-an-apparent-suicide-bombing-in-the-russian-caucasus-city-of-vladikavkaz.md)
 _Context: 2010 Vladikavkaz bombing, Caucasus, Russia, Vladikavkaz, suicide bombing_
 
-##### Muslim
+##### Muslims
 ### [Islamist militant group Boko Haram raid a prison in Bauchi, northern Nigeria, freeing 721 inmates. ](/news/2010/09/9/islamist-militant-group-boko-haram-raid-a-prison-in-bauchi-northern-nigeria-freeing-721-inmates.md)
-_Context: Bauchi, Boko Haram, Muslim, Nigeria_
+_Context: Bauchi, Boko Haram, Muslims, Nigeria_
 
 ## [Previous Day...](/news/2010/09/8/index.md)
 

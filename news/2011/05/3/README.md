@@ -35,9 +35,9 @@ Five men are being held under the Terrorism Act after being arrested close to th
 ### [A Tibetan parliament-in-exile delegation appeals to foreign embassies in New Delhi, India, for help to release three monks from the Kirti monastery in northeastern Tibet detained by Chinese authorities and to address additional human rights violations in Tibet by China. ](/news/2011/05/3/a-tibetan-parliament-in-exile-delegation-appeals-to-foreign-embassies-in-new-delhi-india-for-help-to-release-three-monks-from-the-kirti-mo.md)
 _Context: India, Kirti monastery, New Delhi, Tibet, exiled Tibetan parliament, repressive policies in Tibet_
 
-##### EU
+##### European Union
 ### [European Union Foreign Affairs head, Catherine Ashton, condemns Iran for its ongoing executions of juvenile offenders following the public execution of two juveniles in Bandar Abbas, Iran. ](/news/2011/05/3/european-union-foreign-affairs-head-catherine-ashton-condemns-iran-for-its-ongoing-executions-of-juvenile-offenders-following-the-public-e.md)
-_Context: Bandar Abbas, Catherine Ashton, EU, Iran_
+_Context: Bandar Abbas, Catherine Ashton, European Union, Iran_
 
 ##### Prime Minister
 ### [Israeli Prime Minister Netanyahu calls on Palestinian Authority President Abbas to choose peace with Israel and not Hamas, saying that the Fatah-Hamas unity government deal would jeopardize the already-stalled peace process because Hamas opposes the existence of Israel; Abbas rejects the call as "unacceptable interference". ](/news/2011/05/3/israeli-prime-minister-netanyahu-calls-on-palestinian-authority-president-abbas-to-choose-peace-with-israel-and-not-hamas-saying-that-the-f.md)

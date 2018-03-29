@@ -53,7 +53,7 @@ _Context: ATU, New York City, Occupy Wall Street, labor union, union_
 
 ##### NYSE Euronext
 ### [NYSE Euronext and Deutsche Boerse AG, two exchange operating concerns planning a merger, receive a statement of objections to that merger from the European Union's business regulators. ](/news/2011/10/5/nyse-euronext-and-deutsche-boerse-ag-two-exchange-operating-concerns-planning-a-merger-receive-a-statement-of-objections-to-that-merger-fr.md)
-_Context: Deutsche Boerse AG, EU, NYSE Euronext_
+_Context: Deutsche Boerse AG, European Union, NYSE Euronext_
 
 ##### Yemeni Army
 ### [At least three people are killed and 22 injured after Yemeni Army troops shell opposition forces in the southern province of Taiz. ](/news/2011/10/5/at-least-three-people-are-killed-and-22-injured-after-yemeni-army-troops-shell-opposition-forces-in-the-southern-province-of-taiz.md)

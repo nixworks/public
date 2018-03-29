@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/11/european-union-officials-send-a-letter-to-u-s-a
 
 ### [2013-06-11](/news/2013/06/11/index.md)
 
-##### EU
+##### European Union
 # European Union officials send a letter to U.S. attorney general Eric Holder with seven detailed questions requesting concrete explanations about the country's data snooping programs and how it affects EU citizens ahead of a meeting in Dublin this Friday. 
 
 The European Commission says it will ask the US for assurances about the legality of its data harvesting this week.
@@ -19,8 +19,8 @@ The European Commission says it will ask the US for assurances about the legalit
 
 ### Related:
 
-1. [Bank of America chooses Dublin as its European hub. ](/news/2017/07/22/bank-of-america-chooses-dublin-as-its-european-hub.md) _Context: Dublin, EU_
-2. [Thousands of people are expected to demonstrate in Dublin against European Union - International Monetary Fund budget cuts. ](/news/2011/07/16/thousands-of-people-are-expected-to-demonstrate-in-dublin-against-european-union-international-monetary-fund-budget-cuts.md) _Context: Dublin, EU_
-3. [Officials from the International Monetary Fund, the European Central Bank and the European Union arrive in Dublin to discuss the Irish debt crisis with the Irish Government. ](/news/2010/11/18/officials-from-the-international-monetary-fund-the-european-central-bank-and-the-european-union-arrive-in-dublin-to-discuss-the-irish-debt.md) _Context: Dublin, EU_
-4. [In a message on Twitter, U.S. President Donald Trump says the U.S. will apply a tax on cars made in the European Union if the E.U. "further" increases tariffs. ](/news/2018/03/3/in-a-message-on-twitter-u-s-president-donald-trump-says-the-u-s-will-apply-a-tax-on-cars-made-in-the-european-union-if-the-e-u-further.md) _Context: EU_
-5. [EU diplomatic chief Federica Mogherini holds crisis talks with Markus Ederer, the bloc's recalled ambassador to Russia. ](/news/2018/03/25/eu-diplomatic-chief-federica-mogherini-holds-crisis-talks-with-markus-ederer-the-bloc-s-recalled-ambassador-to-russia.md) _Context: EU_
+1. [Bank of America chooses Dublin as its European hub. ](/news/2017/07/22/bank-of-america-chooses-dublin-as-its-european-hub.md) _Context: Dublin, European Union_
+2. [Thousands of people are expected to demonstrate in Dublin against European Union - International Monetary Fund budget cuts. ](/news/2011/07/16/thousands-of-people-are-expected-to-demonstrate-in-dublin-against-european-union-international-monetary-fund-budget-cuts.md) _Context: Dublin, European Union_
+3. [Officials from the International Monetary Fund, the European Central Bank and the European Union arrive in Dublin to discuss the Irish debt crisis with the Irish Government. ](/news/2010/11/18/officials-from-the-international-monetary-fund-the-european-central-bank-and-the-european-union-arrive-in-dublin-to-discuss-the-irish-debt.md) _Context: Dublin, European Union_
+4. [In a message on Twitter, U.S. President Donald Trump says the U.S. will apply a tax on cars made in the European Union if the E.U. "further" increases tariffs. ](/news/2018/03/3/in-a-message-on-twitter-u-s-president-donald-trump-says-the-u-s-will-apply-a-tax-on-cars-made-in-the-european-union-if-the-e-u-further.md) _Context: European Union_
+5. [Polish environment minister Henryk Kowalczyk says Poland alone should decide the fate of the protected Bialowieza Forest, ahead of a European Court of Justice ruling on whether additional logging allowed by the Polish government at the UNESCO world heritage site breaches European Union rules. ](/news/2018/03/28/polish-environment-minister-henryk-kowalczyk-says-poland-alone-should-decide-the-fate-of-the-protected-biaaowiea1-4a-forest-ahead-of-a-europ.md) _Context: European Union_

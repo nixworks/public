@@ -23,7 +23,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Related:
 
-1. [The South Korean Aviation and Railway Accident Investigation Board issues its final report on a near-collision between an Airbus A310 and a Boeing 737 on a runway in Cheongju. The Board blames the crew who misunderstood a runway instruction. ](/news/2018/03/27/the-south-korean-aviation-and-railway-accident-investigation-board-issues-its-final-report-on-a-near-collision-between-an-airbus-a310-and-a.md) _Context: Boeing 737_
+1. [A Germania Boeing 737 and an El Al Boeing 767 collide as they prepare for takeoff at Ben-Gurion Airport. All passengers disembark safely. ](/news/2018/03/28/a-germania-boeing-737-and-an-el-al-boeing-767-collide-as-they-prepare-for-takeoff-at-ben-gurion-airport-all-passengers-disembark-safely.md) _Context: Boeing 737_
 2. [Peruvian ex-President Pedro Pablo Kuczynski's homes are raided by police investigating Operation Car Wash. A judge orders him to remain in Peru. ](/news/2018/03/24/peruvian-ex-president-pedro-pablo-kuczynski-s-homes-are-raided-by-police-investigating-operation-car-wash-a-judge-orders-him-to-remain-in-p.md) _Context: Peru_
 3. [A coach transiting the Pan-American Highway plunges off the road in Arequipa, Peru, killing 44 people. ](/news/2018/02/21/a-coach-transiting-the-pan-american-highway-plunges-off-the-road-in-arequipa-peru-killing-44-people.md) _Context: Peru_
 4. [A coach bus plunges off a cliff on a coastal road in Peru, killing at least 48 people. ](/news/2018/01/2/a-coach-bus-plunges-off-a-cliff-on-a-coastal-road-in-peru-killing-at-least-48-people.md) _Context: Peru_

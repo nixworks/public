@@ -21,7 +21,7 @@ Still short 2 million tents, it must also rebuild homes and jobs for 5 million.
 
 ##### Tsutomu Miyazaki
 ### [ Tsutomu Miyazaki, known as "The Otaku Murderer", is executed by hanging in Tokyo for the murders and cannibalization of four young girls in 1988 and 1989. He was hanged with two others, each convicted in separate, unrelated murders. ](/news/2008/06/17/tsutomu-miyazaki-known-as-the-otaku-murderer-is-executed-by-hanging-in-tokyo-for-the-murders-and-cannibalization-of-four-young-girls-in.md)
-_Context: 1988, 1989, Otaku, Tokyo, Tsutomu Miyazaki, cannibal, capital punishment, hanging, murder_
+_Context: 1988, 1989, Otaku, Tokyo, Tsutomu Miyazaki, cannibal, death, hanging, murder_
 
 ##### UNHCR
 ### [ In its annual report, the UNHCR says the number of refugees in the world rose to 11.4 million in 2007 from 9.9m in 2006. ](/news/2008/06/17/in-its-annual-report-the-unhcr-says-the-number-of-refugees-in-the-world-rose-to-11-4-million-in-2007-from-9-9m-in-2006.md)

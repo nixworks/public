@@ -7,7 +7,7 @@ Formats: [HTML](2011/08/10/index.html)  [JSON](2011/08/10/index.json)  [XML](201
 ### [Former "News of the World" news editor Greg Miskiw is arrested, then later bailed as the investigation into phone-hacking continues. ](/news/2011/08/10/former-news-of-the-world-news-editor-greg-miskiw-is-arrested-then-later-bailed-as-the-investigation-into-phone-hacking-continues.md)
 A 61-year-old man, believed to be former News of the World news editor Greg Miskiw, has been released on bail after he was arrested in the phone-hacking probe, Scotland Yard says.
 
-##### England
+##### English
 ### [Rioting hits other English cities including Manchester, Salford, Liverpool, Nottingham and Birmingham, though London is largely quiet. ](/news/2011/08/10/rioting-hits-other-english-cities-including-manchester-salford-liverpool-nottingham-and-birmingham-though-london-is-largely-quiet.md)
 Rioting spreads to a number of cities with unrest in Manchester and Liverpool, while three men said to be protecting their community have been run over and killed in Birmingham.
 

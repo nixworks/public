@@ -5,7 +5,7 @@ Formats: [HTML](2013/10/15/index.html)  [JSON](2013/10/15/index.json)  [XML](201
 
 ##### 2013 Beijing Capital International Airport bombing
 ### [The perpetrator of the 2013 Beijing Capital International Airport bombing Ji Zhongxing is sentenced to 6 years imprisonment by a Chinese court. ](/news/2013/10/15/the-perpetrator-of-the-2013-beijing-capital-international-airport-bombing-ji-zhongxing-is-sentenced-to-6-years-imprisonment-by-a-chinese-cou.md)
-_Context: 2013 Beijing Capital International Airport bombing, China_
+_Context: 2013 Beijing Capital International Airport bombing, Chinese_
 
 ##### President of Liberia
 ### [The former Liberian President Charles Taylor arrives in the United Kingdom to serve the remainder of a 50-year sentence after becoming the first head of state to be convicted of war crimes since World War II. ](/news/2013/10/15/the-former-liberian-president-charles-taylor-arrives-in-the-united-kingdom-to-serve-the-remainder-of-a-50-year-sentence-after-becoming-the-f.md)

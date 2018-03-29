@@ -11,9 +11,9 @@ _Context: Eyak, Marie Smith Jones, Na-Dene_
 ### [ Former Liberian warlord Joshua Milton Blahyi confesses that he is responsible for at least 20,000 deaths during the First Liberian Civil War. ](/news/2008/01/21/former-liberian-warlord-joshua-milton-blahyi-confesses-that-he-is-responsible-for-at-least-20-000-deaths-during-the-first-liberian-civil-wa.md)
 _Context: First Liberian Civil War, Joshua Milton Blahyi, Liberia, warlord_
 
-##### Shanxi province
+##### Shanxi
 ### [ A gas explosion at an illegal mine in Shanxi, China kills at least 20. ](/news/2008/01/21/a-gas-explosion-at-an-illegal-mine-in-shanxi-china-kills-at-least-20.md)
-_Context: China, Shanxi province_
+_Context: Chinese, Shanxi_
 
 ##### Stock market
 ### [ Stock markets around the world plunge amid growing fears of a U.S. recession, fueled by the 2007 subprime mortgage financial crisis. ](/news/2008/01/21/stock-markets-around-the-world-plunge-amid-growing-fears-of-a-u-s-recession-fueled-by-the-2007-subprime-mortgage-financial-crisis.md)

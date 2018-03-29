@@ -63,9 +63,9 @@ State Department says Larry Palmer remains nominee for US ambassador to Caracas.
 ### [A de Havilland Canada DHC-3 Otter seaplane crashes near Aleknagik, Alaska, killing five people, including former U.S. Senator Ted Stevens. Former NASA Administrator Sean O'Keefe and O'Keefe's son were aboard the plane, but survived. ](/news/2010/08/10/a-de-havilland-canada-dhc-3-otter-seaplane-crashes-near-aleknagik-alaska-killing-five-people-including-former-u-s-senator-ted-stevens-f.md)
 _Context: Administrator, Aleknagik, NASA, Sean O'Keefe, Ted Stevens, US Senators, crashes, de Havilland Canada DHC-3 Otter, seaplane_
 
-##### China
+##### Chinese
 ### [Rescuers in China's Gansu province continue to search for 1,100 missing people in a recent landslide, as the death toll rises to 702. ](/news/2010/08/10/rescuers-in-china-s-gansu-province-continue-to-search-for-1-100-missing-people-in-a-recent-landslide-as-the-death-toll-rises-to-702.md)
-_Context: China, Gansu province, landslide_
+_Context: Chinese, Gansu province, landslide_
 
 ##### Earthquake
 ### [A 7.6 magnitude earthquake and small tsunami hits the Pacific Ocean nation of Vanuatu. ](/news/2010/08/10/a-7-6-magnitude-earthquake-and-small-tsunami-hits-the-pacific-ocean-nation-of-vanuatu.md)

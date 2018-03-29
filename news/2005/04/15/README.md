@@ -3,9 +3,9 @@ Formats: [HTML](2005/04/15/index.html)  [JSON](2005/04/15/index.json)  [XML](200
 
 ## [2005-04-15](/news/2005/04/15/index.md)
 
-##### EU
+##### European Union
 ### [ The European Union denies ruling out lifting an EU arms embargo on the People's Republic of China before June. ](/news/2005/04/15/the-european-union-denies-ruling-out-lifting-an-eu-arms-embargo-on-the-people-s-republic-of-china-before-june.md)
-_Context: China, EU_
+_Context: China, European Union_
 
 ##### France
 ### [ France plans to introduce biometric ID cards in 2007. ](/news/2005/04/15/france-plans-to-introduce-biometric-id-cards-in-2007.md)
@@ -13,7 +13,7 @@ _Context: France, biometric_
 
 ##### Green Party
 ### [ Green Party of England and Wales unveil radical manifesto aiming at measures against climate change. ](/news/2005/04/15/green-party-of-england-and-wales-unveil-radical-manifesto-aiming-at-measures-against-climate-change.md)
-_Context: England, Green Party, Wales, climate change_
+_Context: English, Green Party, Wales, climate change_
 
 ##### United Kingdom
 ### [ UK passport applicants must give fingerprints. Preparation for ID cards goes ahead without parliament. ](/news/2005/04/15/uk-passport-applicants-must-give-fingerprints-preparation-for-id-cards-goes-ahead-without-parliament.md)
@@ -37,7 +37,7 @@ _Context: Monaco, Prince Rainier, buried_
 
 ##### Human Rights Watch
 ### [ A Human Rights Watch report states that the United States, Britain, the Netherlands and Canada rely on "flimsy" diplomacy in attempts to send foreign terror suspects back to countries that routinely use torture against their Prisoners. ](/news/2005/04/15/a-human-rights-watch-report-states-that-the-united-states-britain-the-netherlands-and-canada-rely-on-flimsy-diplomacy-in-attempts-to-se.md)
-_Context: Canada, Dutch, Human Rights Watch, United States, diplomatic, jail, torture_
+_Context: Canada, Human Rights Watch, Netherlands, United States, diplomatic, jail, torture_
 
 ##### Palestinian
 ### [ A Palestinian Fatah gunman infiltrates the Golan Heights from Syria and attacks an IDF outpost near the border. The outpost commander manages to disarm the gunman and arrest him. The IDF will investigate how the 21-year-old man, draped in a Palestinian flag, managed to penetrate so deep without being detected earlier. ](/news/2005/04/15/a-palestinian-fatah-gunman-infiltrates-the-golan-heights-from-syria-and-attacks-an-idf-outpost-near-the-border-the-outpost-commander-manag.md)

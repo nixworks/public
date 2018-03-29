@@ -55,7 +55,7 @@ Visit to survivors of recent typhoon risks triggering angry reaction from Beijin
 ### [ South African President Jacob Zuma is to visit Zimbabwe for talks on the power-sharing government. ](/news/2009/08/27/south-african-president-jacob-zuma-is-to-visit-zimbabwe-for-talks-on-the-power-sharing-government.md)
 _Context: Jacob Zuma, President, South Africa, Zimbabwe_
 
-##### England
+##### English
 ### [ English youth Michael Perham, aged 17 years, 5 months, becomes the youngest person to complete a solo circumnavigation of the world by sailboat, breaking the previous record by two months. ](/news/2009/08/27/english-youth-michael-perham-aged-17-years-5-months-becomes-the-youngest-person-to-complete-a-solo-circumnavigation-of-the-world-by-sail.md)
 A 17-year-old Briton became the youngest person to sail round the globe single-handed on Thursday after nine months at sea.
 

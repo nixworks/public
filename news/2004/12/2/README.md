@@ -23,9 +23,9 @@ _Context: Aung San Suu Kyi, George W. Bush, Myanmar, house arrest, opposition pa
 ### [The Inter-American Court of Human Rights upholds Peru's conviction and continued imprisonment of U.S. citizen Lori Berenson on terrorism charges. ](/news/2004/12/2/the-inter-american-court-of-human-rights-upholds-peru-s-conviction-and-continued-imprisonment-of-u-s-citizen-lori-berenson-on-terrorism-cha.md)
 _Context: Inter-American Court of Human Rights, Lori Berenson, terrorism_
 
-##### EU
+##### European Union
 ### [ The European Union takes over from NATO in peacekeeping operations in Bosnia and Herzegovina, largely replacing the NATO-led SFOR with a new Eufor. ](/news/2004/12/2/the-european-union-takes-over-from-nato-in-peacekeeping-operations-in-bosnia-and-herzegovina-largely-replacing-the-nato-led-sfor-with-a-ne.md)
-_Context: Bosnia and Herzegovina, EU, Eufor, NATO, SFOR, peacekeeping_
+_Context: Bosnia and Herzegovina, Eufor, European Union, NATO, SFOR, peacekeeping_
 
 ##### Nuclear program
 ### [ United Nations inspectors wishing to inspect the Parchin military complex southeast of Tehran and Lavizan&nbsp;II in northeastern Tehran lack the legal authority according to United Nations diplomats. ](/news/2004/12/2/united-nations-inspectors-wishing-to-inspect-the-parchin-military-complex-southeast-of-tehran-and-lavizan-nbsp-ii-in-northeastern-tehran-la.md)

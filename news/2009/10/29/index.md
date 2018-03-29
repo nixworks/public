@@ -51,9 +51,9 @@ Consumer spending leads recovery, but treasury secretary admits many face hardsh
 ### [ India's Prime Minister Manmohan Singh announces a "new chapter" in the Jammu and Kashmir peace process, and withdraws some troops from the region. ](/news/2009/10/29/india-s-prime-minister-manmohan-singh-announces-a-new-chapter-in-the-jammu-and-kashmir-peace-process-and-withdraws-some-troops-from-the.md)
 _Context: India, Indian Prime Minister, Jammu and Kashmir, Manmohan Singh_
 
-##### England
+##### English
 ### [ English Premier League footballer Marlon King is convicted of sexual assault, imprisoned and sacked by his club Wigan Athletic F.C. ](/news/2009/10/29/english-premier-league-footballer-marlon-king-is-convicted-of-sexual-assault-imprisoned-and-sacked-by-his-club-wigan-athletic-f-c.md)
-_Context: England, English Premier League, Marlon King, Wigan Athletic F.C., football, sexual assault_
+_Context: English, English Premier League, Marlon King, Wigan Athletic F.C., football, sexual assault_
 
 ##### Political crisis in the country
 ### [ The "de facto" regime in Honduras files suit with the International Court of Justice over Brazil's continued harbouring of exiled president Manuel Zelaya in its Tegucigalpa embassy. ](/news/2009/10/29/the-de-facto-regime-in-honduras-files-suit-with-the-international-court-of-justice-over-brazil-s-continued-harbouring-of-exiled-president.md)

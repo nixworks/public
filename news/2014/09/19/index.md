@@ -15,7 +15,7 @@ _Context: Miro Cerar, Slovenia_
 ### [Scotland votes "No" to Scottish independence. ](/news/2014/09/19/scotland-votes-no-to-scottish-independence.md)
 Turnout in the referendum on Scottish independence hit a record high for any election held in the United Kingdom since the introduction of universal suffrage in 1918. 
 
-##### China
+##### Chinese
 ### [China fines Glaxosmithkline US$490 million for its alleged involvement in a bribery scandal. ](/news/2014/09/19/china-fines-glaxosmithkline-us-490-million-for-its-alleged-involvement-in-a-bribery-scandal.md)
 China fines UK pharmaceuticals firm GlaxoSmithKline $490m (£297m) for bribery and its former head of Chinese operations is given a suspended jail sentence.
 

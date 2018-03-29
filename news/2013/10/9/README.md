@@ -29,9 +29,9 @@ _Context: Wheeling Federal Building, Wheeling, West Virginia_
 ### [Andrea Sanderlin, the Scarsdale "Pot Mom", admits to running a multimillion dollar marijuana operation. ](/news/2013/10/9/andrea-sanderlin-the-scarsdale-pot-mom-admits-to-running-a-multimillion-dollar-marijuana-operation.md)
 _Context: Scarsdale, marijuana_
 
-##### China
+##### Chinese
 ### [The People's Republic of China arrests 139 people in Xinjiang for allegedly calling for jihad. ](/news/2013/10/9/the-people-s-republic-of-china-arrests-139-people-in-xinjiang-for-allegedly-calling-for-jihad.md)
-_Context: China, Xinjiang, jihad_
+_Context: Chinese, Xinjiang, jihad_
 
 ##### Association of Southeast Asian Nations
 ### [The 25th Association of Southeast Asian Nations summit and 8th East Asia Summit are held in Brunei. ](/news/2013/10/9/the-25th-association-of-southeast-asian-nations-summit-and-8th-east-asia-summit-are-held-in-brunei.md)

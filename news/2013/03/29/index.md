@@ -53,7 +53,7 @@ _Context: Gulf of Riga, Latvia, ice floes_
 
 ##### 2013 Gyama Mine landslide
 ### [2013 Gyama Mine landslide: A large landslide buries 83 gold miners in China's Tibetan Autonomous Region near Lhasa. ](/news/2013/03/29/2013-gyama-mine-landslide-a-large-landslide-buries-83-gold-miners-in-china-s-tibetan-autonomous-region-near-lhasa.md)
-_Context: 2013 Gyama Mine landslide, China, Lhasa, Tibet, landslide_
+_Context: 2013 Gyama Mine landslide, Chinese, Lhasa, Tibet, landslide_
 
 ##### Dar es Salaam building collapse
 ### [Dar es Salaam building collapse: At least 36 are killed and around 25 more are trapped when a 16-floor building collapses in the commercial capital Dar es Salaam, Tanzania. ](/news/2013/03/29/dar-es-salaam-building-collapse-at-least-36-are-killed-and-around-25-more-are-trapped-when-a-16-floor-building-collapses-in-the-commercial.md)
@@ -69,7 +69,7 @@ _Context: America's Most Wanted, TV show_
 
 ##### Electronic music
 ### [The electronic music band Kraftwerk is not allowed to perform at a music festival in China due to unspecified "political reasons". ](/news/2013/03/29/the-electronic-music-band-kraftwerk-is-not-allowed-to-perform-at-a-music-festival-in-china-due-to-unspecified-political-reasons.md)
-_Context: China, Kraftwerk, electronic music_
+_Context: Chinese, Kraftwerk, electronic music_
 
 ##### Shiite
 ### [Coordinated car bombings against five Shiite mosques in Baghdad and Kirkuk kill 23 worshipers. ](/news/2013/03/29/coordinated-car-bombings-against-five-shiite-mosques-in-baghdad-and-kirkuk-kill-23-worshipers.md)

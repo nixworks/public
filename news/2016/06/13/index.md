@@ -15,7 +15,7 @@ The U.S. Supreme Court rejected Puerto Rico’s bid to let its public utilities 
 ### [South African Paralympic sprinting medalist Oscar Pistorius's sentencing hearing begins. He faces a minimum 15-year jail term since his original manslaughter charge for the 2013 killing of Reeva Steenkamp has been upgraded to murder. The hearing is set to last for five days. ](/news/2016/06/13/south-african-paralympic-sprinting-medalist-oscar-pistorius-s-sentencing-hearing-begins-he-faces-a-minimum-15-year-jail-term-since-his-orig.md)
 Oscar Pistorius is a &quot;broken&quot; man who should not be jailed for the murder of his girlfriend Reeva Steenkamp, a psychologist told a court in South Africa on Monday, while a prosecutor said he has shown no remorse.
 
-##### Dutch
+##### Netherlands
 ### [A 22-year-old Dutch woman held in Qatar for nearly three months after telling police she had been raped is released following the court ruling of a one-year suspended prison sentence. The Associated Press reports it isn't clear "[...] what sentence was given to the man she accused of rape." ](/news/2016/06/13/a-22-year-old-dutch-woman-held-in-qatar-for-nearly-three-months-after-telling-police-she-had-been-raped-is-released-following-the-court-ruli.md)
 DUBAI, United Arab Emirates (AP) — A Dutch woman held in Qatar for nearly three months after telling police she had been raped there was released on Monday after receiving a one-year suspended prison sentence, a Dutch…
 

@@ -59,9 +59,9 @@ Drivers distracted by talking or texting on cell phones killed an estimated 16,0
 ### [2010 Atlantic hurricane season: Tropical Storm Matthew forms in the western Caribbean Sea with predictions that it could hit Central America on Friday or Saturday. ](/news/2010/09/23/2010-atlantic-hurricane-season-tropical-storm-matthew-forms-in-the-western-caribbean-sea-with-predictions-that-it-could-hit-central-america.md)
 _Context: 2010 Atlantic hurricane season, Caribbean, Central America_
 
-##### China
+##### Chinese
 ### [The death toll in China from Typhoon Fanapi reaches 54 with dozens more people missing. ](/news/2010/09/23/the-death-toll-in-china-from-typhoon-fanapi-reaches-54-with-dozens-more-people-missing.md)
-_Context: China, Typhoon Fanapi_
+_Context: Chinese, Typhoon Fanapi_
 
 ##### Kayanza Province
 ### [At least six people die in a mine collapse in Kayanza Province, northern Burundi. ](/news/2010/09/23/at-least-six-people-die-in-a-mine-collapse-in-kayanza-province-northern-burundi.md)

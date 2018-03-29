@@ -39,9 +39,9 @@ _Context: Abdullahi Yusuf, Somalia, assassination_
 ### [ A suicide bomber has killed at least four Canadians in an attack on a NATO patrol in the southern Afghan province of Kandahar, Canada's military says. ](/news/2006/09/18/a-suicide-bomber-has-killed-at-least-four-canadians-in-an-attack-on-a-nato-patrol-in-the-southern-afghan-province-of-kandahar-canada-s-mil.md)
 _Context: Canada, Kandahar, NATO_
 
-##### England
+##### English
 ### [ New laws come into force across England, Wales and Scotland making the use of child seats in cars compulsory for all children under the age of 12 who are less than 4ft 5in (135cm) tall. ](/news/2006/09/18/new-laws-come-into-force-across-england-wales-and-scotland-making-the-use-of-child-seats-in-cars-compulsory-for-all-children-under-the-age.md)
-_Context: England, Scotland, Wales, child seats_
+_Context: English, Scotland, Wales, child seats_
 
 ## [Previous Day...](/news/2006/09/17/index.md)
 

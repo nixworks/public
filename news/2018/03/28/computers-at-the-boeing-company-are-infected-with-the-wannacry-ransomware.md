@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/28/computers-at-the-boeing-company-are-infected-wi
 
 ### [2018-03-28](/news/2018/03/28/index.md)
 
-##### The Boeing Company
+##### Cyberattacks
 # Computers at The Boeing Company are infected with the WannaCry ransomware. 
 
 Boeing has been hit by the WannaCry computer virus. Some airplane production may be affected

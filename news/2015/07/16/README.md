@@ -31,9 +31,9 @@ _Context: Babullah Airport, Gamalama, Indonesia, Raung, Ternate_
 ### [Sixty-five thousand people in the Indian state of Assam are affected by floods and heavy rainfall. ](/news/2015/07/16/sixty-five-thousand-people-in-the-indian-state-of-assam-are-affected-by-floods-and-heavy-rainfall.md)
 65,000 people in over 155 villages have been affected due to the incessant rains and floods in the state.
 
-##### EU
+##### European Union
 ### [The European Union launches an antitrust action against American semiconductor company Qualcomm, for possible abuse of a dominant market position, on the one hand, and predatory pricing, on the other hand. ](/news/2015/07/16/the-european-union-launches-an-antitrust-action-against-american-semiconductor-company-qualcomm-for-possible-abuse-of-a-dominant-market-pos.md)
-_Context: EU, Qualcomm, abuse of a dominant market position, antitrust, predatory pricing, semiconductor_
+_Context: European Union, Qualcomm, abuse of a dominant market position, antitrust, predatory pricing, semiconductor_
 
 ##### 67th Primetime Emmy Awards
 ### [Nominations for the 67th Primetime Emmy Awards are announced with "Game of Thrones" receiving 24 nominations. ](/news/2015/07/16/nominations-for-the-67th-primetime-emmy-awards-are-announced-with-game-of-thrones-receiving-24-nominations.md)

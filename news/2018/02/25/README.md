@@ -21,7 +21,7 @@ In response, the White House did not rule out direct talks.
 
 ##### Leicester
 ### [An explosion destroys a store and a house, causing at least five deaths on Hinckley Road in Leicester, England. The cause of the explosion and subsequent fire is unknown. ](/news/2018/02/25/an-explosion-destroys-a-store-and-a-house-causing-at-least-five-deaths-on-hinckley-road-in-leicester-england-the-cause-of-the-explosion-a.md)
-_Context: England, Leicester_
+_Context: English, Leicester_
 
 ##### 2018 Papua New Guinea earthquake
 ### [A magnitude 7.5 earthquake occurs at the western Southern Highlands Province in Papua New Guinea, killing at least 31 people and injuring more than 300 others. ](/news/2018/02/25/a-magnitude-7-5-earthquake-occurs-at-the-western-southern-highlands-province-in-papua-new-guinea-killing-at-least-31-people-and-injuring-mo.md)

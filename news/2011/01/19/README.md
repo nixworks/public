@@ -67,7 +67,7 @@ _Context: Brazil, the recent floods and landslides in Rio de Janeiro state_
 ### [A 7.2 magnitude earthquake hits Pakistan with an epicentre 50 kilometres west of the town of Dalbandin. ](/news/2011/01/19/a-7-2-magnitude-earthquake-hits-pakistan-with-an-epicentre-50-kilometres-west-of-the-town-of-dalbandin.md)
 A powerful earthquake hit southwest Pakistan on Wednesday, geologists said, but there were no immediate reports of casualties.
 
-##### Boeing
+##### The Boeing Company
 ### [China and the United States sign a $45 billion export deal, including 200 Boeing airplanes. ](/news/2011/01/19/china-and-the-united-states-sign-a-45-billion-export-deal-including-200-boeing-airplanes.md)
 China and the US sign a trade deal that includes the $19bn purchase of 200 Boeing aircraft according to a US official.
 

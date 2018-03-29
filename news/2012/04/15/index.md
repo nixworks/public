@@ -27,7 +27,7 @@ _Context: 6th Summit of the Americas, Barack Obama, Cartagena, U.S. Secret Servi
 ### [Across Europe, hundreds of activists are prevented by authorities from boarding flights bound for Tel Aviv as part of the Welcome to Palestine campaign. Hundreds of Israeli police officers are deployed at Israel's main airport to arrest any activists who manage to fly in. ](/news/2012/04/15/across-europe-hundreds-of-activists-are-prevented-by-authorities-from-boarding-flights-bound-for-tel-aviv-as-part-of-the-welcome-to-palesti.md)
 Police beef up airport presence in anticipation of pro-Palestinians&#8217; arrival; official letter wishes them a pleasant journey home
 
-##### China
+##### Chinese
 ### [China loosens controls on the yuan, allowing it to fluctuate up to 1% in trading against the United States dollar, up from 0.5%. ](/news/2012/04/15/china-loosens-controls-on-the-yuan-allowing-it-to-fluctuate-up-to-1-in-trading-against-the-united-states-dollar-up-from-0-5.md)
 China loosens its currency controls in a move that may spur gains in the value of the yuan.
 

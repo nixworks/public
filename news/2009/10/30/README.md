@@ -51,9 +51,9 @@ _Context: Internet Corporation for Assigned Names and Numbers, Latin_
 ### [ Typhoon Mirinae makes landfall in the Philippines. ](/news/2009/10/30/typhoon-mirinae-makes-landfall-in-the-philippines.md)
 Manila prepares for the worst as fourth storm in last two months makes landfall.
 
-##### EU
+##### European Union
 ### [ European Union leaders agree a climate aid deal to help developing countries adapt to global warming. ](/news/2009/10/30/european-union-leaders-agree-a-climate-aid-deal-to-help-developing-countries-adapt-to-global-warming.md)
-_Context: EU, developing countries, global warming_
+_Context: European Union, developing countries, global warming_
 
 ## [Previous Day...](/news/2009/10/29/index.md)
 

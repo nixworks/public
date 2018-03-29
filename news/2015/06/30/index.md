@@ -33,7 +33,7 @@ _Context: Towers Watson, Willis Group, reinsurance_
 
 ##### Greek government-debt crisis
 ### [The Greek bailout program by the European Union ends today with Greece failing to make a payment to the International Monetary Fund. ](/news/2015/06/30/the-greek-bailout-program-by-the-european-union-ends-today-with-greece-failing-to-make-a-payment-to-the-international-monetary-fund.md)
-_Context: EU, Greece, Greek government-debt crisis, International Monetary Fund_
+_Context: European Union, Greece, Greek government-debt crisis, International Monetary Fund_
 
 ##### Asian Infrastructure Investment Bank
 ### [Seven out of 57 countries defer joining the China-dominated bank. While most of them cite temporary procedural constraints at home, political reasons are involved with the case of the Philippines amid a territorial dispute with China in South China Sea. ](/news/2015/06/30/seven-out-of-57-countries-defer-joining-the-china-dominated-bank-while-most-of-them-cite-temporary-procedural-constraints-at-home-politica.md)

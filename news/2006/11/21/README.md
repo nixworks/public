@@ -49,7 +49,7 @@ _Context: Beirut, Lebanese, Maronite Christian, Pierre Amine Gemayel, assassinat
 
 ##### North Sea
 ### [ A helicopter with 13 passengers and 4 crewmembers makes an emergency landing in the North Sea between Texel and Den Helder, The Netherlands. One passenger is taken to hospital with hypothermia. The passengers were being evacuated from an offshore oil rig after a power outage. ](/news/2006/11/21/a-helicopter-with-13-passengers-and-4-crewmembers-makes-an-emergency-landing-in-the-north-sea-between-texel-and-den-helder-the-netherlands.md)
-_Context: Den Helder, North Sea, Texel, The Netherlands, hypothermia, offshore oil platform, power outage_
+_Context: Den Helder, Dutch, North Sea, Texel, hypothermia, offshore oil platform, power outage_
 
 ##### Sweden
 ### [ Police in Sweden announce that they may have found the weapon used in the unsolved murder of prime minister Olof Palme in 1986. ](/news/2006/11/21/police-in-sweden-announce-that-they-may-have-found-the-weapon-used-in-the-unsolved-murder-of-prime-minister-olof-palme-in-1986.md)

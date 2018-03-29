@@ -5,11 +5,11 @@ Formats: [HTML](2008/04/29/index.html)  [JSON](2008/04/29/index.json)  [XML](200
 
 ##### Lithuania
 ### [ Lithuania blocked the beginning of talks on a strategic deal between the European Union and Russia because of ongoing disputes with Moscow ](/news/2008/04/29/lithuania-blocked-the-beginning-of-talks-on-a-strategic-deal-between-the-european-union-and-russia-because-of-ongoing-disputes-with-moscow.md)
-_Context: EU, Lithuania, Moscow, Russia_
+_Context: European Union, Lithuania, Moscow, Russia_
 
-##### EU
+##### European Union
 ### [ The European Union signs the Stabilisation and Association Agreement with Serbia prior to the decisive elections on 11 May 2008, but makes ratification conditional on full cooperation with the ICTY. ](/news/2008/04/29/the-european-union-signs-the-stabilisation-and-association-agreement-with-serbia-prior-to-the-decisive-elections-on-11-may-2008-but-makes.md)
-_Context: EU, ICTY, Serbia, Stabilisation and Association Agreement, parliamentary election_
+_Context: European Union, ICTY, Serbia, Stabilisation and Association Agreement, parliamentary election_
 
 ##### Nangarhar Province
 ### [ An explosion in the Nangarhar Province of Afghanistan kills at least 15 Afghans with another 25 injured. ](/news/2008/04/29/an-explosion-in-the-nangarhar-province-of-afghanistan-kills-at-least-15-afghans-with-another-25-injured.md)

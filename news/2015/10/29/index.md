@@ -41,9 +41,9 @@ _Context: Lockheed Martin, National Press Club, South Korea, South Korean Defens
 
 ##### Tensions in the region
 ### [As a result of talks between U.S. Chief of Naval Operations Admiral John Richardson and Chinese Commander of the People's Liberation Army Navy Admiral Wu Shengli about a U.S. warship's transit with 12 nautical miles of China's man-made islands in the South China Sea, the United States and China agree to maintain dialogue and follow Code for Unplanned Encounters at Sea protocols, according to a U.S. official. ](/news/2015/10/29/as-a-result-of-talks-between-u-s-chief-of-naval-operations-admiral-john-richardson-and-chinese-commander-of-the-people-s-liberation-army-na.md)
-_Context: Admiral John M. Richardson, Admiral Wu Shengli, China, China-United States relations, Code for Unplanned Encounters at Sea, People's Liberation Army Navy, South China Sea, United States, United States Chief of Naval Operations, man-made islands, tensions in the region_
+_Context: Admiral John M. Richardson, Admiral Wu Shengli, China-United States relations, Chinese, Code for Unplanned Encounters at Sea, People's Liberation Army Navy, South China Sea, United States, United States Chief of Naval Operations, man-made islands, tensions in the region_
 
-##### EU
+##### European Union
 ### [The European Union narrowly votes (285-281) to recommend that its 28 member nations drop criminal charges against Edward Snowden and protect him from U.S. extradition and to recognize him as a defender of human rights because of his revelations regarding U.S. and British spying. ](/news/2015/10/29/the-european-union-narrowly-votes-285a281-to-recommend-that-its-28-member-nations-drop-criminal-charges-against-edward-snowden-and-prote.md)
 Edward Snowden might set up residence in any of nearly 30 European nations after their governing body passed a resolution to protect the whistleblower.
 
@@ -79,13 +79,13 @@ SAN FRACISCO (AFP) Google will next year step up testing of its Internet-beaming
 ### [Sony announces $278.2 million in net profits for the quarter ending Sept. 30, beating market expectations. ](/news/2015/10/29/sony-announces-278-2-million-in-net-profits-for-the-quarter-ending-sept-30-beating-market-expectations.md)
 Sony swung to a fiscal second-quarter profit from a year-earlier loss on solid sales of its PlayStation 4 videogame console and image sensors.
 
-##### EU
+##### European Union
 ### [The largest lender in Europe's most robust economy, Deutsche Bank AG, will cut 35k jobs in an effort to counter falling profits. ](/news/2015/10/29/the-largest-lender-in-europeas-most-robust-economy-deutsche-bank-ag-will-cut-35k-jobs-in-an-effort-to-counter-falling-profits.md)
 Deutsche Bank announced plans to eliminate 35,000 jobs from its payroll over the next two years as part of a sweeping overhaul under new co-Chief Executive John Cryan.
 
 ##### Saudi Arabia
 ### [Saudi Arabian blogger Raif Badawi, who has been sentenced to 1,000 lashes and 10 years in jail for insulting Islam and for cyber crime, wins the European Union's prestigious Sakharov Prize for Freedom of Thought. The Sakharov award ceremony will be held in Strasbourg, France on December 16, 2015 while the laureate remains imprisoned. ](/news/2015/10/29/saudi-arabian-blogger-raif-badawi-who-has-been-sentenced-to-1-000-lashes-and-10-years-in-jail-for-insulting-islam-and-for-cyber-crime-wins.md)
-_Context: EU, France, Raif Badawi, Sakharov Prize, Saudi Arabia, Strasbourg_
+_Context: European Union, France, Raif Badawi, Sakharov Prize, Saudi Arabia, Strasbourg_
 
 ##### Adele
 ### [Adele's "Hello" beats Miley Cyrus's "Wrecking Ball" as the fastest video on Vevo to reach 100 million views and is also certified as the official Vevo Record holder. ](/news/2015/10/29/adele-s-hello-beats-miley-cyrus-s-wrecking-ball-as-the-fastest-video-on-vevo-to-reach-100-million-views-and-is-also-certified-as-the-off.md)

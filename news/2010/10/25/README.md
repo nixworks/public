@@ -31,7 +31,7 @@ Lib Dem deputy leader Simon Hughes threatens a backbench rebellion over planned 
 ### [The trial of the alleged killer of Chandra Levy, Ingmar Guandique of El Salvador, begins in Washington D.C. ](/news/2010/10/25/the-trial-of-the-alleged-killer-of-chandra-levy-ingmar-guandique-of-el-salvador-begins-in-washington-d-c.md)
 _Context: Chandra Levy, El Salvador, Washington D.C_
 
-##### EU
+##### European Union
 ### [The EU activates its Rapid Border Intervention Teams for the first time since its creation in 2007 to stem illegal immigration at the Greek border. ](/news/2010/10/25/the-eu-activates-its-rapid-border-intervention-teams-for-the-first-time-since-its-creation-in-2007-to-stem-illegal-immigration-at-the-greek.md)
 The EU is for the first time sending border guards to help Greece stem an influx of migrants entering across the land border with Turkey.
 
@@ -103,9 +103,9 @@ _Context: National Council of Structural Engineers Associations, Shanghai, Shang
 ### [Lhasa invests 90 million yuan in 23 tourist facilities. The tourist facilities include Lhasa Tourist Service Center, Namtso Scenic Spot, Potala Palace- Jokhang Temple- Norbu Linka Cultural Heritage tourist attractions, etc. ](/news/2010/10/25/lhasa-invests-90-million-yuan-in-23-tourist-facilities-the-tourist-facilities-include-lhasa-tourist-service-center-namtso-scenic-spot-pot.md)
 _Context: Jokhang, Lhasa, Lhasa Tourist Service Center, Namtso Scenic Spot, Potala Palace_
 
-##### China
+##### Chinese
 ### [China and Africa celebrated the tenth anniversary of the Forum on China-Africa Cooperation (FOCAC) in Beijing. Jia Qinglin, chairman of the National Committee of the Chinese People's Political Consultative Conference, addressed the reception commemorating. ](/news/2010/10/25/china-and-africa-celebrated-the-tenth-anniversary-of-the-forum-on-china-africa-cooperation-focac-in-beijing-jia-qinglin-chairman-of-the.md)
-_Context: Africa, Beijing, China, Forum on China-Africa Cooperation, Jia Qinglin, National Committee of the Chinese People's Political Consultative Conference_
+_Context: Africa, Beijing, Chinese, Forum on China-Africa Cooperation, Jia Qinglin, National Committee of the Chinese People's Political Consultative Conference_
 
 ##### Sahrawi
 ### [A Sahrawi boy was killed and five other injured by the Moroccan Army near a protest camp in Western Sahara. ](/news/2010/10/25/a-sahrawi-boy-was-killed-and-five-other-injured-by-the-moroccan-army-near-a-protest-camp-in-western-sahara.md)

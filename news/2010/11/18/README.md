@@ -81,7 +81,7 @@ _Context: A380, Qantas Flight 32, Rolls-Royce Trent 900, engine failure_
 
 ##### International Monetary Fund
 ### [Officials from the International Monetary Fund, the European Central Bank and the European Union arrive in Dublin to discuss the Irish debt crisis with the Irish Government. ](/news/2010/11/18/officials-from-the-international-monetary-fund-the-european-central-bank-and-the-european-union-arrive-in-dublin-to-discuss-the-irish-debt.md)
-_Context: Dublin, EU, European Central Bank, Government of Ireland, International Monetary Fund, falls back into recession_
+_Context: Dublin, European Central Bank, European Union, Government of Ireland, International Monetary Fund, falls back into recession_
 
 ##### George Clooney
 ### [American actor, George Clooney, is awarded the 2010 Ripple of Hope award at the Robert F. Kennedy Center for Justice and Human Rights, in recognition of his humanitarian work in Darfur and Haiti. ](/news/2010/11/18/american-actor-george-clooney-is-awarded-the-2010-ripple-of-hope-award-at-the-robert-f-kennedy-center-for-justice-and-human-rights-in-re.md)

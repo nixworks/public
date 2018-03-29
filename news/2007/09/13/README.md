@@ -21,7 +21,7 @@ _Context: Sheikh Sittar_
 
 ##### Rita Verdonk
 ### [ Rita Verdonk, a controversial and popular Dutch politician, is expelled from the VVD. ](/news/2007/09/13/rita-verdonk-a-controversial-and-popular-dutch-politician-is-expelled-from-the-vvd.md)
-_Context: Dutch, Rita Verdonk, VVD_
+_Context: Netherlands, Rita Verdonk, VVD_
 
 ##### Alexis Debat
 ### [ Alexis Debat, a consultant for ABC News and writer at "The National Interest", alleged expert on terrorism, is forced to resign after "Rue 89" revealed that he made two bogus interviews, one with Barack Obama and another with Alan Greenspan. ](/news/2007/09/13/alexis-debat-a-consultant-for-abc-news-and-writer-at-the-national-interest-alleged-expert-on-terrorism-is-forced-to-resign-after-rue.md)

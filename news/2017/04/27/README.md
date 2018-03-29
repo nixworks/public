@@ -25,15 +25,15 @@ Sky sources say the 27-year-old man, who was carrying a rucksack containing kniv
 
 ##### South Korea-United States relations
 ### [A South Korean adviser says it is "impossible" for South Korea to purchase the THAAD missile complex since control of its operation would remain with the United States. The remarks come after United States president Donald Trump suggested that South Korea pay for the $1 billion system. ](/news/2017/04/27/a-south-korean-adviser-says-it-is-impossible-for-south-korea-to-purchase-the-thaad-missile-complex-since-control-of-its-operation-would-re.md)
-_Context: South Korea, South Korea-United States relations, Trump, U.S. Terminal High Altitude Area Defense (THAAD) system launchers, United States_
+_Context: Donald Trump, South Korea, South Korea-United States relations, U.S. Terminal High Altitude Area Defense (THAAD) system launchers, United States_
 
 ##### Russian Navy spy ship
 ### [A Russian Navy spy ship sinks off the coast of Turkey after colliding with a Togo-flagged freighter. All 78 crew aboard the ship were safely evacuated, according to Turkish officials. ](/news/2017/04/27/a-russian-navy-spy-ship-sinks-off-the-coast-of-turkey-after-colliding-with-a-togo-flagged-freighter-all-78-crew-aboard-the-ship-were-safely.md)
 All 78 personnel aboard the Black Sea Fleet ship were rescued, the Turkish coastal authority says.
 
-##### Trump
+##### Donald Trump
 ### [U.S. President Donald Trump announces that he intends to renegotiate the North American Free Trade Agreement, softening earlier claims that he would terminate the trade bloc. ](/news/2017/04/27/u-s-president-donald-trump-announces-that-he-intends-to-renegotiate-the-north-american-free-trade-agreement-softening-earlier-claims-that.md)
-_Context: NAFTA, Trump, trade bloc_
+_Context: Donald Trump, NAFTA, trade bloc_
 
 ##### Muslim cleric
 ### [A congress of female Islamic clerics in Cirebon, Indonesia, issues several fatwas, one of which opposes child marriage. ](/news/2017/04/27/a-congress-of-female-islamic-clerics-in-cirebon-indonesia-issues-several-fatwas-one-of-which-opposes-child-marriage.md)

@@ -3,7 +3,7 @@ Formats: [HTML](2009/09/3/index.html)  [JSON](2009/09/3/index.json)  [XML](2009/
 
 ## [2009-09-3](/news/2009/09/3/index.md)
 
-##### England
+##### English
 ### [ English Premier League football club Chelsea F.C. are barred from purchasing players on transfer until January 2011 by FIFA for inducing Gal Kakuta to illegally break his contract with French Ligue 1 club RC Lens in 2007. ](/news/2009/09/3/english-premier-league-football-club-chelsea-f-c-are-barred-from-purchasing-players-on-transfer-until-january-2011-by-fifa-for-inducing-ga.md)
 Fifa have banned Chelsea from registering any new players until 2011 following their signing of French youngster Gael Kakuta from Lens.
 

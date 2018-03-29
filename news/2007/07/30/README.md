@@ -9,13 +9,13 @@ _Context: Ivory Coast, Laurent Gbagbo_
 
 ##### Miner
 ### [ Sixty-nine miners are trapped in a flooded coal mine in Henan province in central China. ](/news/2007/07/30/sixty-nine-miners-are-trapped-in-a-flooded-coal-mine-in-henan-province-in-central-china.md)
-_Context: China, Henan, coal mine, flood, miner_
+_Context: Chinese, Henan, coal mine, flood, miner_
 
 ##### Victoria
 ### [ Victoria's Labor caucus elects John Brumby as Premier and Rob Hulls as his deputy. ](/news/2007/07/30/victoria-s-labor-caucus-elects-john-brumby-as-premier-and-rob-hulls-as-his-deputy.md)
 A meeting of Victoria&#039;s Labor Caucus has named John Brumby as the state&#039;s premier-elect, with Rob Hulls elected as his deputy.
 
-##### China
+##### Chinese
 ### [ Deaths in China from floods, lightning and landslides during the summer approach 700. ](/news/2007/07/30/deaths-in-china-from-floods-lightning-and-landslides-during-the-summer-approach-700.md)
 Deaths from floods, lightning and landslides across China this summer have reached nearly 700, state media said on Monday, with experts warning that global warming is likely to fuel more violent weather.
 
@@ -31,9 +31,9 @@ An Afghan governor pleaded Monday with the Taliban to extend a deadline for the 
 ### [ A 15th village in the Czech Republic rejects by referendum the US plan to place anti-ballistic missiles at a nearby military base. The vote was 97% against the plan, however, the vote is non-binding on the national government. ](/news/2007/07/30/a-15th-village-in-the-czech-republic-rejects-by-referendum-the-us-plan-to-place-anti-ballistic-missiles-at-a-nearby-military-base-the-vote.md)
 _Context: Czech Republic, US, ballistic missile_
 
-##### Muslim
+##### Muslims
 ### [ Islamic militants occupy a shrine in a tribal area of Pakistan and name it after the Lal Masjid in Islamabad recently stormed by the Pakistan army. ](/news/2007/07/30/islamic-militants-occupy-a-shrine-in-a-tribal-area-of-pakistan-and-name-it-after-the-lal-masjid-in-islamabad-recently-stormed-by-the-pakist.md)
-_Context: Islamabad, Lal Masjid, Muslim, Pakistan, shrine, tribal area_
+_Context: Islamabad, Lal Masjid, Muslims, Pakistan, shrine, tribal area_
 
 ##### President
 ### [ The President of the United States George W. Bush and the Prime Minister of the United Kingdom Gordon Brown pledge to continue close relations in their first meeting. ](/news/2007/07/30/the-president-of-the-united-states-george-w-bush-and-the-prime-minister-of-the-united-kingdom-gordon-brown-pledge-to-continue-close-relati.md)

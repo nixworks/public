@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/04/20/european-union-representatives-cancel-meeting-w
 
 ### [2005-04-20](/news/2005/04/20/index.md)
 
-##### EU
+##### European Union
 #  European Union representatives cancel meeting with a Pakistan delegation because of the inclusion of hardliner Maulana Sami ul-Haq, who allegedly has links to the Taliban. 
 
 

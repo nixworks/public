@@ -13,7 +13,7 @@ SpaceX will launch a crewed mission beyond the moon for two private customers, a
 
 ##### Armenia-European Union relations
 ### [Armenia and the European Union agree on a new pact to boost ties between the two. It is expected to be signed later this year. This comes after Armenia rejected an Association Agreement in 2013. ](/news/2017/02/27/armenia-and-the-european-union-agree-on-a-new-pact-to-boost-ties-between-the-two-it-is-expected-to-be-signed-later-this-year-this-comes-af.md)
-_Context: Armenia, Armenia-European Union relations, Association Agreement, EU_
+_Context: Armenia, Armenia-European Union relations, Association Agreement, European Union_
 
 ##### War in Somalia (2009-present)
 ### [A car bomb explodes near a checkpoint outside Mogadishu, wounding at least four Somali soldiers. ](/news/2017/02/27/a-car-bomb-explodes-near-a-checkpoint-outside-mogadishu-wounding-at-least-four-somali-soldiers.md)

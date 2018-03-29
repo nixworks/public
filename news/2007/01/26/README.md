@@ -9,7 +9,7 @@ _Context: Adam Air, Flight 574, Indonesian government_
 
 ##### British
 ### [ UK retail giant Tesco opens its first own-brand supermarket branch in China, in the capital, Beijing. ](/news/2007/01/26/uk-retail-giant-tesco-opens-its-first-own-brand-supermarket-branch-in-china-in-the-capital-beijing.md)
-_Context: Beijing, British, China, Tesco, retail, supermarket_
+_Context: Beijing, British, Chinese, Tesco, retail, supermarket_
 
 ##### Tobacco smoking
 ### [ Scientists find connection between tobacco smoking addiction and the insula, a region of the brain's cerebral cortex linked to emotion. ](/news/2007/01/26/scientists-find-connection-between-tobacco-smoking-addiction-and-the-insula-a-region-of-the-brain-s-cerebral-cortex-linked-to-emotion.md)

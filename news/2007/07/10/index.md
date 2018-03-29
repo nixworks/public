@@ -7,7 +7,7 @@ Formats: [HTML](2007/07/10/index.html)  [JSON](2007/07/10/index.json)  [XML](200
 ### [ A Tamil man from Sydney is charged with multiple terrorism charges over alleged links with the Tamil Tigers. ](/news/2007/07/10/a-tamil-man-from-sydney-is-charged-with-multiple-terrorism-charges-over-alleged-links-with-the-tamil-tigers.md)
 _Context: Sri Lankan Tamil, Sydney, Tamil Tigers, terrorism_
 
-##### China
+##### Chinese
 ### [ China executes the former head of the State Food and Drug Association Zheng Xiaoyu for corruption. ](/news/2007/07/10/china-executes-the-former-head-of-the-state-food-and-drug-association-zheng-xiaoyu-for-corruption.md)
 China executed the former head of its State Food and Drug Administration on Tuesday, the official Xinhua News Agency reported.
 
@@ -55,9 +55,9 @@ _Context: Amy St. Eve, Conrad Black, fraud_
 ### [ All 24 police officers missing after a fight between police and Maoist insurgents in Chhattisgarh central India have been found dead. ](/news/2007/07/10/all-24-police-officers-missing-after-a-fight-between-police-and-maoist-insurgents-in-chhattisgarh-central-india-have-been-found-dead.md)
 _Context: Chhattisgarh, India, Maoist_
 
-##### EU
+##### European Union
 ### [ The European Union chooses Dominique Strauss-Kahn as its nominee to head the International Monetary Fund, making him the frontrunner to fill the position in October. ](/news/2007/07/10/the-european-union-chooses-dominique-strauss-kahn-as-its-nominee-to-head-the-international-monetary-fund-making-him-the-frontrunner-to-fil.md)
-_Context: Dominique Strauss-Kahn, EU, International Monetary Fund_
+_Context: Dominique Strauss-Kahn, European Union, International Monetary Fund_
 
 ##### Muammar al-Gaddafi
 ### [ The Gadhafi Foundation announces a deal has been reached with families of more than 400 children infected with HIV in the case of five Bulgarian nurses and a Palestinian doctor. ](/news/2007/07/10/the-gadhafi-foundation-announces-a-deal-has-been-reached-with-families-of-more-than-400-children-infected-with-hiv-in-the-case-of-five-bulg.md)

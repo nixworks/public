@@ -7,7 +7,7 @@ Formats: [HTML](2010/04/28/index.html)  [JSON](2010/04/28/index.json)  [XML](201
 ### [UK Prime Minister Gordon Brown is described as "mortified" after an open-mic incident during general election campaigning recorded him describing a Rochdale voter as a "bigoted woman". ](/news/2010/04/28/uk-prime-minister-gordon-brown-is-described-as-mortified-after-an-open-mic-incident-during-general-election-campaigning-recorded-him-descr.md)
 _Context: 2010 general election, Gordon Brown, Rochdale, UK Prime Minister, open-mic incident_
 
-##### China
+##### Chinese
 ### [Team China is stripped of a 2000 Olympics bronze medal in women's gymnastics after it is revealed that one member of the team was underage. ](/news/2010/04/28/team-china-is-stripped-of-a-2000-olympics-bronze-medal-in-women-s-gymnastics-after-it-is-revealed-that-one-member-of-the-team-was-underage.md)
 The U.S. will be awarded the bronze medal after a female gymnast was found to be under-age at the 2000 Games.
 

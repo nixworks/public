@@ -57,7 +57,7 @@ Attempts to build a multicultural society in Germany have &quot;utterly failed&q
 
 ##### Racial profiling
 ### [An international report finds its most noticeable example of racial profiling is that black people are 26 times more likely than white people to be searched by police in England and Wales;  U.S. civil rights activist Jesse Jackson describes it as "astonishing". ](/news/2010/10/17/an-international-report-finds-its-most-noticeable-example-of-racial-profiling-is-that-black-people-are-26-times-more-likely-than-white-peopl.md)
-_Context: England, Jesse Jackson, Wales, racial profiling_
+_Context: English, Jesse Jackson, Wales, racial profiling_
 
 ##### Benjamin Netanyahu
 ### [A planned summit between Israeli Prime Minister Benjamin Netanyahu, Palestinian president Mahmoud Abbas, and Egyptian President Hosni Mubarak scheduled for October 21 in Paris is postponed amidst Palestinian ojections to a decision by Israel to construct 240 housing units in east Jerusalem](/news/2010/10/17/a-planned-summit-betweena-israeli-prime-minister-benjamin-netanyahu-palestinian-president-mahmoud-abbas-and-egyptian-president-hosni-mubar.md)

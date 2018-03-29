@@ -9,7 +9,7 @@ _Context: Canada, Prime Minister of Canada, Stephen Harper, elected, new Cabinet
 
 ##### East Devon
 ### [ A freak hailstorm hits East Devon, England, causing flooding in and around Ottery St Mary and Honiton. ](/news/2008/10/30/a-freak-hailstorm-hits-east-devon-england-causing-flooding-in-and-around-ottery-st-mary-and-honiton.md)
-_Context: East Devon, England, Honiton, Ottery St Mary_
+_Context: East Devon, English, Honiton, Ottery St Mary_
 
 ##### Series of bomb blasts
 ### [ A series of bomb blasts in Assam, India, kills at least 66 people and injures more than 470. ](/news/2008/10/30/a-series-of-bomb-blasts-in-assam-india-kills-at-least-66-people-and-injures-more-than-470.md)

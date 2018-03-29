@@ -65,7 +65,7 @@ NATO has reopened informal talks with Russia for the first time in nearly two ye
 
 ##### Ukraine-European Union relations
 ### [The European Union proposes offering Ukraine visa-free travel to its members. However, it is still unclear how fast the liberalization process will be dealt with in the European Parliament and European Council, where some EU member states might want to slow down the process. ](/news/2016/04/20/the-european-union-proposes-offering-ukraine-visa-free-travel-to-its-members-however-it-is-still-unclear-how-fast-the-liberalization-proce.md)
-_Context: EU, European Council, European Parliament, Ukraine, Ukraine-European Union relations, member states_
+_Context: European Council, European Parliament, European Union, Ukraine, Ukraine-European Union relations, member states_
 
 ##### Yemeni Crisis
 ### [The Gulf Cooperation Council (GCC) and the United States agree to carry out joint naval patrols to prevent Iranian arms shipments reaching Yemen, the Gulf bloc's secretary general Abdullatif bin Rashid Al Zayani said on Wednesday, following a meeting with United States Secretary of Defense Ash Carter. Iran denies it supplies weapons to the Houthis in Yemen. ](/news/2016/04/20/the-gulf-cooperation-council-gcc-and-the-united-states-agree-to-carry-out-joint-naval-patrols-to-prevent-iranian-arms-shipments-reaching-y.md)
@@ -95,7 +95,7 @@ QUITO, Ecuador (AP) — President Rafael Correa announced Wednesday night that h
 ### [Volkswagen and United States officials agree in principle on a deal where the automaker could buy back up to 500,000 diesel cars. ](/news/2016/04/20/volkswagen-and-united-states-officials-agree-in-principle-on-a-deal-where-the-automaker-could-buy-back-up-to-500-000-diesel-cars.md)
  Volkswagen AG and U.S. officials have reached a framework deal under which the automaker would offer to buy back almost 500,000 diesel cars that used sophistic
 
-##### EU
+##### European Union
 ### [The European Union accuses Google of abusing the dominance of its Android by preloading its own apps. ](/news/2016/04/20/the-european-union-accuses-google-of-abusing-the-dominance-of-its-android-by-preloading-its-own-apps.md)
 Google has 12 weeks to respond to charge and could face European Commission fine 
 

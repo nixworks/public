@@ -33,7 +33,7 @@ _Context: Alexander Litvinenko, Ireland, Moscow, Prime Minister of Russia, Yegor
 
 ##### Al-Qaida in Iraq
 ### [ Al-Qaida in Iraq condemns Pope Benedict XVI's visit to Turkey as being part of a "Crusader campaign" against Islam. Vatican officials respond by saying that the comments illustrate the need for religions to fight "violence in the name of God". ](/news/2006/11/29/al-qaida-in-iraq-condemns-pope-benedict-xvi-s-visit-to-turkey-as-being-part-of-a-crusader-campaign-against-islam-vatican-officials-respo.md)
-_Context: Al-Qaida in Iraq, Crusader, God, Holy See, Muslim, Pope Benedict XVI, Turkey_
+_Context: Al-Qaida in Iraq, Crusader, God, Holy See, Muslims, Pope Benedict XVI, Turkey_
 
 ##### Brandon Mayfield
 ### [ Brandon Mayfield, wrongly arrested after the 11 March, 2004 Madrid attacks settles a lawsuit against the Federal Bureau of Investigation for $2 million. ](/news/2006/11/29/brandon-mayfield-wrongly-arrested-after-the-11-march-2004-madrid-attacks-settles-a-lawsuit-against-the-federal-bureau-of-investigation-fo.md)

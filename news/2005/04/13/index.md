@@ -37,7 +37,7 @@ _Context: 1957, 1969, Asian flu, Canada, College of American Pathologists, World
 
 ##### Japan
 ### [ Japan increases the already boiling tension with China as Japan's Ministry of Economy, Trade and Industry begins allowing Japanese companies rights to drill for oil in a part of the East China Sea claimed by both nations. ](/news/2005/04/13/japan-increases-the-already-boiling-tension-with-china-as-japan-s-ministry-of-economy-trade-and-industry-begins-allowing-japanese-companie.md)
-_Context: China, East China Sea, Japan, Politics of Japan, oil_
+_Context: Chinese, East China Sea, Japan, Politics of Japan, oil_
 
 ##### Iraq
 ### [ At least nine Iraqi police have been killed by insurgents in Kirkuk. The police were defusing a decoy bomb, when another nearby bomb detonated and killed them. ](/news/2005/04/13/at-least-nine-iraqi-police-have-been-killed-by-insurgents-in-kirkuk-the-police-were-defusing-a-decoy-bomb-when-another-nearby-bomb-detona.md)
@@ -45,7 +45,7 @@ _Context: Iraq, Iraqi insurgency, Kirkuk, decoy, police_
 
 ##### European Parliament
 ### [ The European Parliament votes to allow Bulgaria and Romania to join the European Union in 2007. ](/news/2005/04/13/the-european-parliament-votes-to-allow-bulgaria-and-romania-to-join-the-european-union-in-2007.md)
-_Context: 2007, Bulgaria, EU, European Parliament, Romania_
+_Context: 2007, Bulgaria, European Parliament, European Union, Romania_
 
 ##### Omar Karami
 ### [ Omar Karami resigns his position as the Prime Minister of Lebanon after he fails to form a government. Without a government to call them, no elections can take place in Lebanon. Elections are due this May. ](/news/2005/04/13/omar-karami-resigns-his-position-as-the-prime-minister-of-lebanon-after-he-fails-to-form-a-government-without-a-government-to-call-them-n.md)

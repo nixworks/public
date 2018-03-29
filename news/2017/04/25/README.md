@@ -5,7 +5,7 @@ Formats: [HTML](2017/04/25/index.html)  [JSON](2017/04/25/index.json)  [XML](201
 
 ##### Immigration policy of Donald Trump
 ### [U.S. District Court Judge William Orrick rules that President Donald Trump's executive order withholding federal funds from sanctuary cities is unconstitutional. ](/news/2017/04/25/u-s-district-court-judge-william-orrick-rules-that-president-donald-trump-s-executive-order-withholding-federal-funds-from-sanctuary-cities.md)
-_Context: Immigration policy of Donald Trump, Trump, William Orrick, executive order, sanctuary cities_
+_Context: Donald Trump, Immigration policy of Donald Trump, William Orrick, executive order, sanctuary cities_
 
 ##### Gun politics in the United States
 ### [An affiliate of the NRA sues California for alleged discrimination. ](/news/2017/04/25/an-affiliate-of-the-nra-sues-california-for-alleged-discrimination.md)
@@ -37,7 +37,7 @@ Saudi Arabia is elected to the UN Commission on the Status of Women, despite the
 
 ##### Ryan Zinke
 ### [United States Secretary of the Interior Ryan Zinke says that Donald Trump plans to review U.S. national monuments. ](/news/2017/04/25/united-states-secretary-of-the-interior-ryan-zinke-says-that-donald-trump-plans-to-review-u-s-national-monuments.md)
-_Context: Ryan Zinke, Trump, U.S. national monument_
+_Context: Donald Trump, Ryan Zinke, U.S. national monument_
 
 ##### Jimmy Wales
 ### [Wikipedia co-founder Jimmy Wales announces plans for a crowdfunded news website, "Wikitribune", that will publish stories by journalists, with contributions, including fact checking, by volunteers to, among other goals, counter the recent spread of so-called "fake news". ](/news/2017/04/25/wikipedia-co-founder-jimmy-wales-announces-plans-for-a-crowdfunded-news-website-wikitribune-that-will-publish-stories-by-journalists-wi.md)

@@ -25,7 +25,7 @@ _Context: Karachi, Mawlid al-Nabi, suicide attack_
 
 ##### Essen
 ### [ The city of Essen, Germany, is selected to be the European Capital of Culture of 2010 by the EU jury. ](/news/2006/04/11/the-city-of-essen-germany-is-selected-to-be-the-european-capital-of-culture-of-2010-by-the-eu-jury.md)
-_Context: EU, Essen, European Capital of Culture_
+_Context: Essen, European Capital of Culture, European Union_
 
 ## [Previous Day...](/news/2006/04/10/index.md)
 

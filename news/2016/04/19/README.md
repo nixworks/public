@@ -39,7 +39,7 @@ In a case that may have national implications, the Richmond-based 4th U.S. Circu
 ### [Lutz Bachmann, the leader of the German far-right and anti-Islam Pegida movement, goes on trial in Dresden on charges of hate speech. ](/news/2016/04/19/lutz-bachmann-the-leader-of-the-german-far-right-and-anti-islam-pegida-movement-goes-on-trial-in-dresden-on-charges-of-hate-speech.md)
 _Context: Dresden, Germany, Lutz Bachmann, Pegida_
 
-##### China
+##### Chinese
 ### [Authorities in China sentence Huang Yu, a computer technician from Sichuan who worked for a government department which handled state secrets, to death for leaking more than 150,000 classified documents to an unidentified foreign power. The documents in question covered secrets ranging from the ruling Communist Party to military and financial issues. ](/news/2016/04/19/authorities-in-china-sentence-huang-yu-a-computer-technician-from-sichuan-who-worked-for-a-government-department-which-handled-state-secret.md)
 Huang Yu convicted of leaking state secrets to unidentified foreign power, state television said on Tuesday
 
@@ -47,7 +47,7 @@ Huang Yu convicted of leaking state secrets to unidentified foreign power, state
 ### [In response to an ongoing Supreme Court case regarding the ownership of the Koh-i-Noor diamond, the government of India said it should not try to reclaim it from the United Kingdom. The government argues that the diamond was given to the British as a gift and was not stolen. However, the Supreme Court says it will continue with the case. ](/news/2016/04/19/in-response-to-an-ongoing-supreme-court-case-regarding-the-ownership-of-the-koh-i-noor-diamond-the-government-of-india-said-it-should-not-t.md)
 The Indian government tells the Supreme Court that the country should not try to reclaim the priceless Koh-i-Noor diamond from Britain.
 
-##### EU
+##### European Union
 ### [The European Union offers to help the fledgling new UN-backed Libyan unity government with assistance in its security sector, managing migration, border management and police capacity building. This comes after Libyan Prime Minister Fayez al-Sarraj appealed to foreign governments for help in fighting ISIL and aid to rebuild the country. ](/news/2016/04/19/the-european-union-offers-to-help-the-fledgling-new-un-backed-libyan-unity-government-with-assistance-in-its-security-sector-managing-migra.md)
 Government to get assistance with border and security forces as Fayez al-Sarraj appeals for aid to fight Isis and rebuild country
 

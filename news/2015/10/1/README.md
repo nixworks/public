@@ -35,7 +35,7 @@ Victims identified as Eitam and Naama Henkin; their 4 children were in the car, 
 ### [A mass shooting at Umpqua Community College in Roseburg, Oregon kills nine people and leaves seven wounded. The shooter commits suicide when confronted by the police. The man's motives are unknown. ](/news/2015/10/1/a-mass-shooting-at-umpqua-community-college-in-roseburg-oregon-kills-nine-people-and-leaves-seven-wounded-the-shooter-commits-suicide-when.md)
 A gunman opened fire at a community college in southern Oregon on Thursday, killing 13 people and wounding some 20 others before he was shot to death by police, state and county officials said, in the latest mass killing to rock a U.S. school.
 
-##### China
+##### Chinese
 ### [Chinese authorities arrest a suspect in yesterday's 17 Liucheng County mail bomb explosions that killed at least seven people and wounded more than 50. The suspect is identified as 33-year-old quarry-worker, Wei Yinyong, from Dapu township also in Guangxi Province. There is another explosion this morning. While it's not clear if it is connected, authorities reportedly located 60 packages yesterday which were being examined by a bomb squad. ](/news/2015/10/1/chinese-authorities-arrest-a-suspect-in-yesterday-s-17-liucheng-county-mail-bomb-explosions-that-killed-at-least-seven-people-and-wounded-mo.md)
 As the authorities sought to calm fears in Liucheng County, the site of 17 blasts that killed at least seven people, another explosion occurred there.
 

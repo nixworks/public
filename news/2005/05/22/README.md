@@ -13,7 +13,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Nepal
 ### [ In Nepal, thousands of opposition supporters demonstrate against the rule of King Gyanendra and demand restoration of parliament. Royalist government is dismayed by EU and Indian demands to return to democracy ](/news/2005/05/22/in-nepal-thousands-of-opposition-supporters-demonstrate-against-the-rule-of-king-gyanendra-and-demand-restoration-of-parliament-royalist.md)
-_Context: EU, Gyanendra of Nepal, India, Nepal, democratic_
+_Context: European Union, Gyanendra of Nepal, India, Nepal, democratic_
 
 ##### Elections in Mongolia
 ### [ Elections in Mongolia: Former Prime Minister of Mongolia Nambaryn Enkhbayar wins presidential election. ](/news/2005/05/22/elections-in-mongolia-former-prime-minister-of-mongolia-nambaryn-enkhbayar-wins-presidential-election.md)
@@ -41,7 +41,7 @@ _Context: Ariel Sharon, Gaza Strip, Israel, Jew, Prime Minister, United States_
 
 ##### Shenzhen
 ### [ In Shenzhen, China, what is believed to be the largest urban demolition blast in China uses 1,500 lb (680&nbsp;kg) of explosives to simultaneously topple 16 tower blocks. Because of misplaced charges, one tower does not topple, but is reduced from 14 stories to 12, and will have to be demolished manually. ](/news/2005/05/22/in-shenzhen-china-what-is-believed-to-be-the-largest-urban-demolition-blast-in-china-uses-1-500-lb-680-nbsp-kg-of-explosives-to-simulta.md)
-_Context: China, Shenzhen_
+_Context: Chinese, Shenzhen_
 
 ## [Previous Day...](/news/2005/05/21/index.md)
 

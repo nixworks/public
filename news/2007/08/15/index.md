@@ -99,7 +99,7 @@ Powerful earthquake registering 7.7 magnitude strikes near Lima, Peru, according
 ### [ The trial of the President of Zambia Frederick Chiluba for stealing public money resumes today. ](/news/2007/08/15/the-trial-of-the-president-of-zambia-frederick-chiluba-for-stealing-public-money-resumes-today.md)
 _Context: Frederick Chiluba, President_
 
-##### China
+##### Chinese
 ### [ China will send officials to the United States to discuss food and product safety following a spate of product recalls in recent months. ](/news/2007/08/15/china-will-send-officials-to-the-united-states-to-discuss-food-and-product-safety-following-a-spate-of-product-recalls-in-recent-months.md)
 China will send delegations to the United States in August and September to discuss food and product safety following a spate of product recalls, a Chinese Embassy official said on Wednesday.
 

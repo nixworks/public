@@ -5,7 +5,7 @@ Formats: [HTML](2005/05/27/index.html)  [JSON](2005/05/27/index.json)  [XML](200
 
 ##### 2005 elections
 ### [ Ethiopian general elections: European Union observers report that the National Elections Board of Ethiopia (NEBE) may be losing control of the vote counting for the recent May 15 election, potentially marring the most open election in Ethiopian history. Meanwhile the NEBE has postponed announcement of the election's provisional results until June 8, due to the volume of complaints of election irregularities. ](/news/2005/05/27/ethiopian-general-elections-european-union-observers-report-that-the-national-elections-board-of-ethiopia-nebe-may-be-losing-control-of.md)
-_Context: 2005 elections, EU, June 8, May 15_
+_Context: 2005 elections, European Union, June 8, May 15_
 
 ##### Islamabad
 ### [ 14 people die as a bomb explodes near a shrine in Islamabad, Pakistan. ](/news/2005/05/27/14-people-die-as-a-bomb-explodes-near-a-shrine-in-islamabad-pakistan.md)
@@ -21,7 +21,7 @@ _Context: Basque, Basque, ETA, Madrid, Spanish, abstain_
 
 ##### World Trade Organization
 ### [ The 148 members of the World Trade Organization officially appoint the former European Union Trade Commissioner, Pascal Lamy, as its 5th Director-General. ](/news/2005/05/27/the-148-members-of-the-world-trade-organization-officially-appoint-the-former-european-union-trade-commissioner-pascal-lamy-as-its-5th-di.md)
-_Context: Director-General, EU, Pascal Lamy, World Trade Organization_
+_Context: Director-General, European Union, Pascal Lamy, World Trade Organization_
 
 ##### Federal Court of Australia
 ### [ The Federal Court of Australia rejects an attempt from ](/news/2005/05/27/the-federal-court-of-australia-rejects-an-attempt-from.md)

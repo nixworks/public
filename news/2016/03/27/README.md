@@ -9,7 +9,7 @@ with Brussels reporting by James Franey Riot police in Brussels on Sunday deploy
 
 ##### 2015-16 protests in Moldova
 ### [Thousands of people rally in the streets of Chisinau, the capital of Moldova, demanding reunification with Romania. The rally is meant to mark the 98th anniversary since the former Romanian province of Bessarabia was unified with the Kingdom of Romania on March 27, 1918. The protesters say unification with Romania is the way for corruption-ridden Moldova to move forward and join the European Union. ](/news/2016/03/27/thousands-of-people-rally-in-the-streets-of-chieinau-the-capital-of-moldova-demanding-reunification-with-romania-the-rally-is-meant-to.md)
-_Context: 2015-16 protests in Moldova, Bessarabia, Chisinau, EU, Kingdom of Romania, Moldova, Romania, reunification_
+_Context: 2015-16 protests in Moldova, Bessarabia, Chisinau, European Union, Kingdom of Romania, Moldova, Romania, reunification_
 
 ##### 2014-16 Venezuelan protests
 ### [According to a new poll, two-thirds of Venezuelans think President Nicolas Maduro should end his presidency this year or be removed via a recall referendum amid a worsening economic crisis. In the event of a referendum, 52.1 percent of Venezuelans would vote to remove him from office, up from 44.5 percent in January, according to the poll. ](/news/2016/03/27/according-to-a-new-poll-two-thirds-of-venezuelans-think-president-nicola-s-maduro-should-end-his-presidency-this-year-or-be-removed-via-a-r.md)

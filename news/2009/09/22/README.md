@@ -33,7 +33,7 @@ _Context: 2009 Pacific Mini Games, Cook Islands, Rarotonga_
 
 ##### President Hu Jintao
 ### [ Chinese President Hu Jintao tells a U.N. summit on climate change that China will reduce greenhouse gas emissions and increase reliance on clean energy sources in coming years. ](/news/2009/09/22/chinese-president-hu-jintao-tells-a-u-n-summit-on-climate-change-that-china-will-reduce-greenhouse-gas-emissions-and-increase-reliance-on.md)
-_Context: China, President Hu Jintao, U.N., climate change, greenhouse gas emissions_
+_Context: Chinese, President Hu Jintao, U.N., climate change, greenhouse gas emissions_
 
 ##### Murder
 ### [ Official government figures indicate the murder rate in South Africa has fallen, though robberies and sexual offences are on the increase. ](/news/2009/09/22/official-government-figures-indicate-the-murder-rate-in-south-africa-has-fallen-though-robberies-and-sexual-offences-are-on-the-increase.md)

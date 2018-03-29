@@ -17,7 +17,7 @@ _Context: London_
 
 ##### Death toll in Wangjialing coal mine's flood
 ### [The death toll in Wangjialing coal mine's flood in Shanxi rises to 28 after the recovery of another corpse. ](/news/2010/04/10/the-death-toll-in-wangjialing-coal-mine-s-flood-in-shanxi-rises-to-28-after-the-recovery-of-another-corpse.md)
-_Context: Shanxi province, death toll in Wangjialing coal mine's flood_
+_Context: Shanxi, death toll in Wangjialing coal mine's flood_
 
 ##### Kyrgyzstan
 ### [Thousands of people attend funeral events in Kyrgyzstan for people killed during recent events. ](/news/2010/04/10/thousands-of-people-attend-funeral-events-in-kyrgyzstan-for-people-killed-during-recent-events.md)

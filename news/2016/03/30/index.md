@@ -21,7 +21,7 @@ _Context: Aung San Suu Kyi, Htin Kyaw, Mahn Win Khaing Than, Myanmar, Myanmar ge
 
 ##### National Border Patrol Council
 ### [The National Border Patrol Council (NBPC), which organizes some 16,500 border patrol agents, endorses Donald Trump for President of the United States, NBPC's first-ever endorsement in a presidential election. ](/news/2016/03/30/the-national-border-patrol-council-nbpc-which-organizes-some-16-500-border-patrol-agents-endorses-donald-trump-for-president-of-the-unit.md)
-_Context: National Border Patrol Council, Trump_
+_Context: Donald Trump, National Border Patrol Council_
 
 ##### EgyptAir Flight 181
 ### [A Larnaca, Cyprus, court orders that 59-year-old Seif Eddin Mustafa, who was arrested by Cypriot police yesterday, remain in local police custody for eight days to assist Cyprus's own investigation. Mustafa faces charges of hijacking, illegal possession of explosives, kidnapping, and threats to commit violence. It's unclear if Mustafa had any explosives; the bomb belt he wore was fake, and officials are waiting for testing results on unidentified liquids found among his possessions. ](/news/2016/03/30/a-larnaca-cyprus-court-orders-that-59-year-old-seif-eddin-mustafa-who-was-arrested-by-cypriot-police-yesterday-remain-in-local-police-cu.md)

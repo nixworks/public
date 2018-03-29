@@ -7,9 +7,9 @@ Formats: [HTML](2011/09/1/index.html)  [JSON](2011/09/1/index.json)  [XML](2011/
 ### [Louisiana Governor Bobby Jindal declares a state of emergency after Tropical Storm Lee forms in the northern Gulf of Mexico. ](/news/2011/09/1/louisiana-governor-bobby-jindal-declares-a-state-of-emergency-after-tropical-storm-lee-forms-in-the-northern-gulf-of-mexico.md)
 Oil companies evacuated workers from offshore wells, New Orleans prepared for possible flooding and Louisiana Gov. Bobby Jindal declared a state of emergency as a tropical depression formed Thursday in the Gulf of Mexico.
 
-##### Dutch
+##### Netherlands
 ### [Former Dutch Minister of Economic Affairs and Minister of Education, Culture and Science, Maria van der Hoeven, takes office as Executive Director of the International Energy Agency. ](/news/2011/09/1/former-dutch-minister-of-economic-affairs-and-minister-of-education-culture-and-science-maria-van-der-hoeven-takes-office-as-executive-di.md)
-_Context: Dutch, International Energy Agency, Maria van der Hoeven, Minister of Economic Affairs, Minister of Education, Culture and Science_
+_Context: International Energy Agency, Maria van der Hoeven, Minister of Economic Affairs, Minister of Education, Culture and Science, Netherlands_
 
 ##### Nestle
 ### [The world's largest food group, Nestle SA, opens a new production unit in Konolfingen, Switzerland, and its CEO affirms that the company is committed to its home country, despite problems created by the unusually strong Swiss franc against the euro. ](/news/2011/09/1/the-world-s-largest-food-group-nestla-c-sa-opens-a-new-production-unit-in-konolfingen-switzerland-and-its-ceo-affirms-that-the-company-is.md)

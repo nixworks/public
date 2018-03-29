@@ -27,9 +27,9 @@ _Context: Yangtse River Dolphin, extinct_
 ### [ The Reserve Bank of Australia raises interest rates to 6.5%, the highest level in Australia since 1996. ](/news/2007/08/8/the-reserve-bank-of-australia-raises-interest-rates-to-6-5-the-highest-level-in-australia-since-1996.md)
 _Context: 1996, Australia, Reserve Bank of Australia, interest rates_
 
-##### China
+##### Chinese
 ### [ China sends investigators to investigate illegally-built government offices in 30 provinces. ](/news/2007/08/8/china-sends-investigators-to-investigate-illegally-built-government-offices-in-30-provinces.md)
-_Context: China_
+_Context: Chinese_
 
 ##### Inner Mongolia
 ### [ China's Inner Mongolia Autonomous Region celebrates its 60th Anniversary. Chinese Vice-President Zeng Qinghong visits its capital, Hohhot, and participates in a series of large celebration events. ](/news/2007/08/8/china-s-inner-mongolia-autonomous-region-celebrates-its-60th-anniversary-chinese-vice-president-zeng-qinghong-visits-its-capital-hohhot.md)
@@ -57,7 +57,7 @@ _Context: Brooklyn, New York, New York City, tornado_
 
 ##### Foot and mouth disease
 ### [ A third outbreak of foot and mouth disease has been discovered in southern England but a ban of sending animals to slaughter is lifted in most of the country. ](/news/2007/08/8/a-third-outbreak-of-foot-and-mouth-disease-has-been-discovered-in-southern-england-but-a-ban-of-sending-animals-to-slaughter-is-lifted-in-m.md)
-_Context: England, foot and mouth disease_
+_Context: English, foot and mouth disease_
 
 ##### United States
 ### [ A United States raid and air strike on a Shiite militant base in Sadr City results in 32 deaths. ](/news/2007/08/8/a-united-states-raid-and-air-strike-on-a-shiite-militant-base-in-sadr-city-results-in-32-deaths.md)

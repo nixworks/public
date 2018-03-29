@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/28/mubarak-al-ajji-named-on-a-qatari-official-list
 
 ### [2018-03-28](/news/2018/03/28/index.md)
 
-##### Qatar
+##### Crime in Qatar
 # Mubarak al-Ajji, named on a Qatari official list of wanted terrorists, wins second place at a government-sponsored triathlon and is photographed at the medal ceremony. 
 
 And other stories from the stranger side of life

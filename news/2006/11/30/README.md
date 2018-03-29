@@ -27,9 +27,9 @@ _Context: Sudan, clashes_
 ### [ The U.S. Institute of Peace announces that the Iraq Study Group report will be released to the public December 6, 2006. The group, charged with conducting a forward-looking assessment of the situation in Iraq, is expected to present their findings to President George W. Bush on that day. The report will be available for download on USIP's ](/news/2006/11/30/the-u-s-institute-of-peace-announces-that-the-iraq-study-group-report-will-be-released-to-the-public-december-6-2006-the-group-charged.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-##### Nature Astronomy
+##### Nature
 ### [ The science journal "Nature" publishes a new reconstruction of the Antikythera mechanism based on high resolution X-ray tomography. The Antikythera mechanism is an ancient Greek mechanical analog computer designed to calculate astronomical positions. ](/news/2006/11/30/the-science-journal-nature-publishes-a-new-reconstruction-of-the-antikythera-mechanism-based-on-high-resolution-x-ray-tomography-the-ant.md)
-_Context: Antikythera mechanism, Nature Astronomy_
+_Context: Antikythera mechanism, Nature_
 
 ##### 2004-2007 Bush War
 ### [ Central African Republic Bush War: French fighter planes have fired at rebels in northern Central African Republic (CAR) where thousands have fled fighting in recent weeks. ](/news/2006/11/30/central-african-republic-bush-war-french-fighter-planes-have-fired-at-rebels-in-northern-central-african-republic-car-where-thousands-ha.md)

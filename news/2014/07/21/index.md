@@ -13,7 +13,7 @@ _Context: Kashmir, Pakistan, ravine_
 
 ##### 2014 Pacific typhoon season
 ### [The death toll from Typhoon Rammasun rises to 26 in southern China and 11 in northern Vietnam. ](/news/2014/07/21/the-death-toll-from-typhoon-rammasun-rises-to-26-in-southern-china-and-11-in-northern-vietnam.md)
-_Context: 2014 Pacific typhoon season, China, Typhoon Rammasun (Glenda), Vietnam_
+_Context: 2014 Pacific typhoon season, Chinese, Typhoon Rammasun (Glenda), Vietnam_
 
 ##### Russia
 ### [Russian company Severstal sells two steel works in the US to AK Steel and Steel Dynamics for US$2.3 billion. ](/news/2014/07/21/russian-company-severstal-sells-two-steel-works-in-the-us-to-ak-steel-and-steel-dynamics-for-us-2-3-billion.md)

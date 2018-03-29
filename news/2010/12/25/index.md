@@ -19,9 +19,9 @@ Prominent opposition candidates of disputed 2009 vote, are barred from leaving c
 ### [A dead female body is found near a golf course in North Somerset during a police search in Bristol for missing UK woman Joanna Yeates. ](/news/2010/12/25/a-dead-female-body-is-found-near-a-golf-course-in-north-somerset-during-a-police-search-in-bristol-for-missing-uk-woman-joanna-yeates.md)
 _Context: Bristol, Joanna Yeates, North Somerset, golf course_
 
-##### Dutch police
+##### Law enforcement in the Netherlands
 ### [Dutch police arrest 12 Somalis on suspicion of plotting an imminent terrorist attack in the Netherlands. ](/news/2010/12/25/dutch-police-arrest-12-somalis-on-suspicion-of-plotting-an-imminent-terrorist-attack-in-the-netherlands.md)
-_Context: Dutch, Dutch police, Somalis, terrorist_
+_Context: Law enforcement in the Netherlands, Netherlands, Somalis, terrorist_
 
 ##### Darfur
 ### [The director of an aid group working in Darfur is sentenced to one year in prison and fined on embezzlement charges after having been acquitted on the same charges earlier, in what as seen as an effort by the Sudanese government to silence Darfur human rights defenders and activists. ](/news/2010/12/25/the-director-of-an-aid-group-working-in-darfur-is-sentenced-to-one-year-in-prison-and-fined-on-embezzlement-charges-after-having-been-acquit.md)

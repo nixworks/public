@@ -20,5 +20,5 @@ Formats: [HTML](/news/2015/06/11/spain-gives-the-late-writer-miguel-de-cervantes
 
 ### Related:
 
-1. [A court{{which?}} issues an order shutting down a website that uses extracts from "Don Quixote" to recreate the book "Farina". "Farina", an investigation of drug trafficking, is the subject of a freedom of speech debate after a court halted sales ahead of a libel case. ](/news/2018/03/27/a-court-which-issues-an-order-shutting-down-a-website-that-uses-extracts-from-don-quixote-to-recreate-the-book-farina-farina-an.md) _Context: Don Quixote_
+1. [A Madrid court issues an order shutting down a website that uses extracts from "Don Quixote" to recreate the book "Farina". "Farina", an investigation of drug trafficking, is the subject of a freedom of speech debate after a court halted sales ahead of a libel case. ](/news/2018/03/27/a-madrid-court-issues-an-order-shutting-down-a-website-that-uses-extracts-from-don-quixote-to-recreate-the-book-farina-farina-an-inv.md) _Context: Don Quixote_
 2. [Spain commemorates the 400th anniversary of the death of its most famous author Miguel de Cervantes. ](/news/2016/04/23/spain-commemorates-the-400th-anniversary-of-the-death-of-its-most-famous-author-miguel-de-cervantes.md) _Context: Miguel de Cervantes_

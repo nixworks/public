@@ -23,9 +23,9 @@ _Context: France, Grenoble_
 ### [Customs officers at Kuala Lumpur International Airport discover 400 rare tortoises, more than 40 rare tomato frogs and an unidentified number of chameleons bound with masking tape and stuffed into socks allegedly smuggled from Madagascar in the luggage of two women. ](/news/2010/07/18/customs-officers-at-kuala-lumpur-international-airport-discover-400-rare-tortoises-more-than-40-rare-tomato-frogs-and-an-unidentified-numbe.md)
 Customs officers at Kuala Lumpur airport recover more than 400 rare tortoises and frogs smuggled from Madagascar.
 
-##### EU
+##### European Union
 ### [Health experts condemn tobacco companies for openly flouting European Union laws against advertising by using glitzy sales teams and techniques to promote cigarette brands at young people on Facebook and at music festivals. ](/news/2010/07/18/health-experts-condemn-tobacco-companies-for-openly-flouting-european-union-laws-against-advertising-by-using-glitzy-sales-teams-and-techniq.md)
-_Context: EU, Facebook_
+_Context: European Union, Facebook_
 
 ##### Pakistan
 ### [Women rights groups in Pakistan say the life of a woman convicted of adultery is now in grave danger; she faces death by stoning as her man has abandoned her to the courts. ](/news/2010/07/18/women-rights-groups-in-pakistan-say-the-life-of-a-woman-convicted-of-adultery-is-now-in-grave-danger-she-faces-death-by-stoning-as-her-man.md)
@@ -51,13 +51,13 @@ _Context: Guantanamo Bay, Omar Deghayes_
 ### [An Israeli religious group plans to build flats in Ajami, Jaffa. ](/news/2010/07/18/an-israeli-religious-group-plans-to-build-flats-in-ajami-jaffa.md)
 _Context: Ajami, Israel, Jaffa_
 
-##### EU
+##### European Union
 ### [European Union foreign policy chief Catherine Ashton says that Israel must go beyond easing its blockade of Gaza and throw open its long-closed border. ](/news/2010/07/18/european-union-foreign-policy-chief-catherine-ashton-says-that-israel-must-go-beyond-easing-its-blockade-of-gaza-and-throw-open-its-long-clo.md)
 Israel must go beyond easing its blockade of Gaza and throw open its border, EU foreign policy chief Catherine Ashton has said.
 
 ##### United Kingdom
 ### [The United Kingdom plans to reduce or eliminate international aid to countries such as the "powerhouses" of Russia and China, as well as South American and eastern European countries. The government plans aid increases to some poorer nations including a 40% increase to Afghanistan. ](/news/2010/07/18/the-united-kingdom-plans-to-reduce-or-eliminate-international-aid-to-countries-such-as-the-powerhouses-of-russia-and-china-as-well-as-sou.md)
-_Context: China, Russia, South America, United Kingdom, eastern Europe, international aid_
+_Context: Chinese, Russia, South America, United Kingdom, eastern Europe, international aid_
 
 ##### Prime Minister
 ### [A 2001 film, depicting Prime Minister of Israel Benjamin Netanyahu discussing methods of undermining the Oslo Accords and saying the United States is "easy" to manipulate, is aired on Israel's Channel 10. ](/news/2010/07/18/a-2001-film-depicting-prime-minister-of-israel-benjamin-netanyahu-discussing-methods-of-undermining-the-oslo-accords-and-saying-the-united.md)
@@ -89,7 +89,7 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 
 ##### Bus
 ### [A bus falls off a cliff in the Garze Tibetan Autonomous Prefecture in southwestern China resulting in the death of 23 people. ](/news/2010/07/18/a-bus-falls-off-a-cliff-in-the-garzaa-tibetan-autonomous-prefecture-in-southwestern-china-resulting-in-the-death-of-23-people.md)
-_Context: China, Tibetan Autonomous Prefecture of Garze, bus, cliff_
+_Context: Chinese, Tibetan Autonomous Prefecture of Garze, bus, cliff_
 
 ##### Puke
 ### [At least 14 people are killed and at least 12 others sustain wounds after a bus plummets off a cliff in Puke, Albania; a national day of mourning is declared. ](/news/2010/07/18/at-least-14-people-are-killed-and-at-least-12-others-sustain-wounds-after-a-bus-plummets-off-a-cliff-in-puka-albania-a-national-day-of-mo.md)

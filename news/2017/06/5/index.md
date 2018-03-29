@@ -17,7 +17,7 @@ Indian Space Research Organisation on Monday successfully launched its most powe
 
 ##### Plan to leave
 ### [The "charge d'affaires" of the U.S. Embassy in Beijing, China, resigns following President Donald Trump's announcement he will withdraw the United States from the 2015 international Paris Agreement on climate change mitigation. ](/news/2017/06/5/the-charga-c-d-affaires-of-the-u-s-embassy-in-beijing-china-resigns-following-president-donald-trump-s-announcement-he-will-withdraw-the.md)
-_Context: China, Paris Agreement, charge d'affaires, climate change mitigation, plan to leave_
+_Context: Chinese, Paris Agreement, charge d'affaires, climate change mitigation, plan to leave_
 
 ##### 2016-17 Turkish purges
 ### [The Turkish interior ministry announces that 130 people, living outside the country and suspected of militant links, will lose their citizenship unless they return to Turkey within three months and meet government standards. Named suspects include U.S.-based cleric Fethullah Gulen, and Peoples' Democratic Party leaders Faysal Sariyildiz, Tugba Hezer, and Ozdal Ucer. ](/news/2017/06/5/the-turkish-interior-ministry-announces-that-130-people-living-outside-the-country-and-suspected-of-militant-links-will-lose-their-citizen.md)

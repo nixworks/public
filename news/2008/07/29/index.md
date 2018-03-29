@@ -9,7 +9,7 @@ _Context: asylum seeker, detention of children and family groups, government of 
 
 ##### President
 ### [ President of the United States George W. Bush approves the execution of Army Private Ronald A. Gray, who was convicted in 1988 of multiple rapes and murders. It is the first American military execution approved since 1961. Further appeals are expected before he is executed. ](/news/2008/07/29/president-of-the-united-states-george-w-bush-approves-the-execution-of-army-private-ronald-a-gray-who-was-convicted-in-1988-of-multiple.md)
-_Context: George W. Bush, President, Ronald A. Gray, United States soldier, capital punishment, military execution, murder, rape_
+_Context: George W. Bush, President, Ronald A. Gray, United States soldier, death, military execution, murder, rape_
 
 ##### 5.4 magnitude earthquake
 ### [ A 5.4 magnitude earthquake occurs in the Los Angeles, California, area, about two miles (3 km) southwest of Chino Hills. The earthquake is felt from Los Angeles to San Diego and more slightly in Las Vegas, Nevada. ](/news/2008/07/29/a-5-4-magnitude-earthquake-occurs-in-the-los-angeles-california-area-about-two-miles-3-km-southwest-of-chino-hills-the-earthquake-is.md)

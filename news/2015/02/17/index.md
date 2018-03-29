@@ -7,9 +7,9 @@ Formats: [HTML](2015/02/17/index.html)  [JSON](2015/02/17/index.json)  [XML](201
 ### [Chinese authorities also announce the indictment of former Guangdong official Zhu Mingguo, former Jinan CPC party chief Wang Min, and former Taiyuan party chief Chen Chuanping, all on charges of corruption. ](/news/2015/02/17/chinese-authorities-also-announce-the-indictment-of-former-guangdong-official-zhu-mingguo-former-jinan-cpc-party-chief-wang-min-and-former.md)
 _Context: CPC party chief, Chen Chuanping, Guangdong, Jinan, Taiyuan, Wang Min, Zhu Mingguo_
 
-##### China
+##### Chinese
 ### [Chinese prosecutors say that they are investigating former top Communist Party official Su Rong for alleged corruption. ](/news/2015/02/17/chinese-prosecutors-say-that-they-are-investigating-former-top-communist-party-official-su-rong-for-alleged-corruption.md)
-_Context: China, Communist Party of China, Su Rong_
+_Context: Chinese, Communist Party of China, Su Rong_
 
 ##### North Korea
 ### [North Korea says that it will respond "very strongly" to a conference held in Washington, D.C. about human rights abuses. ](/news/2015/02/17/north-korea-says-that-it-will-respond-very-strongly-to-a-conference-held-in-washington-d-c-about-human-rights-abuses.md)

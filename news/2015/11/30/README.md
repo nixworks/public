@@ -49,7 +49,7 @@ _Context: 2015 United Nations Climate Change Conference, Paris, greenhouse gas_
 
 ##### South Korea
 ### [South Korea's parliament approves a free trade pact with China after opposition lawmakers, concerned that deal that would hurt agriculture and fisheries, secured a $1.4 billion relief package for farmers. ](/news/2015/11/30/south-korea-s-parliament-approves-a-free-trade-pact-with-china-after-opposition-lawmakers-concerned-that-deal-that-would-hurt-agriculture-a.md)
-_Context: China, South Korea, agriculture, fisheries, free trade, parliamentary review_
+_Context: Chinese, South Korea, agriculture, fisheries, free trade, parliamentary review_
 
 ##### Martyrs' Day (United Arab Emirates)
 ### [Martyrs' Day (United Arab Emirates) is being observed in United Arab Emirates as Commemoration Day this year on November 30, 2015, recognising the sacrifices and dedication of Emirati martyrs who have given their life in the UAE and abroad in the field of civil, military and humanitarian service. ](/news/2015/11/30/martyrs-day-united-arab-emirates-is-being-observed-in-united-arab-emirates-as-commemoration-day-this-year-on-november-30-2015-recognisi.md)
@@ -59,7 +59,7 @@ _Context: Emirati martyrs, Martyrs' Day (United Arab Emirates), United Arab Emir
 ### [A UNICEF report finds AIDS is now the leading cause of death for African teenagers and the second most common killer for adolescents across the globe. While the Asia Pacific region has seen a 31 percent drop in new HIV infections, and 28 percent decline in AIDS-related deaths, the estimated number of adolescents dying of AIDS in the region has more than doubled since 2005. Tomorrow is World Aids Day. ](/news/2015/11/30/a-unicef-report-finds-aids-is-now-the-leading-cause-of-death-for-african-teenagers-and-the-second-most-common-killer-for-adolescents-across.md)
 By Alisa TangBANGKOK (Thomson Reuters Foundation) - The estimated number of adolescents dying of AIDS in the Asia Pacific region has more than double
 
-##### China
+##### Chinese
 ### [The capitals of the world's two most populous nations, China and India, are blanketed in hazardous, choking smog. Beijing, on the second-highest pollution alert, is closing highways, halting or suspending construction while warning residents to stay indoors. The U.S. New Delhi embassy's monitoring station recorded an air quality index of 372, putting air pollution levels into "hazardous" territory. No action by the New Delhi government. ](/news/2015/11/30/the-capitals-of-the-worldas-two-most-populous-nations-china-and-india-are-blanketed-in-hazardous-choking-smog-beijing-on-the-second-h.md)
 The capitals of the world&rsquo;s two most populous nations, China and India, were blanketed in hazardous, choking smog on Monday as climate change talks began in Paris, where...
 

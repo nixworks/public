@@ -11,9 +11,9 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 ### [ Spanish officials state that they are "concerned" about an apparent disappearance of Severo Moto, leader of an opposition political movement in Equatorial Guinea, who has lived in Spain in exile. His wife reported him missing. ](/news/2005/04/20/spanish-officials-state-that-they-are-concerned-about-an-apparent-disappearance-of-severo-moto-leader-of-an-opposition-political-movemen.md)
 _Context: Equatorial Guinea, Severo Moto, Spanish_
 
-##### EU
+##### European Union
 ### [ European Union representatives cancel meeting with a Pakistan delegation because of the inclusion of hardliner Maulana Sami ul-Haq, who allegedly has links to the Taliban. ](/news/2005/04/20/european-union-representatives-cancel-meeting-with-a-pakistan-delegation-because-of-the-inclusion-of-hardliner-maulana-sami-ul-haq-who-all.md)
-_Context: EU, Maulana Sami ul-Haq, Pakistan, Taliban_
+_Context: European Union, Maulana Sami ul-Haq, Pakistan, Taliban_
 
 ##### Maurice Strong
 ### [ Maurice Strong, Canadian United Nations representative, steps down due to allegations of involvement with Tongsun Park and oil for food scandal. ](/news/2005/04/20/maurice-strong-canadian-united-nations-representative-steps-down-due-to-allegations-of-involvement-with-tongsun-park-and-oil-for-food-sca.md)

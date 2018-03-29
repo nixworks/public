@@ -25,7 +25,7 @@ France on Monday said that Russia had to use its influence on the Syrian governm
 
 ##### United States-Mexico relations
 ### [Mexican President Enrique Pena Nieto cancels a scheduled trip to the United States after a heated phone call with U.S. President Donald Trump, in which Trump refused to publicly back down from his pledge of having Mexico pay for the U.S.-Mexico border wall. ](/news/2018/02/26/mexican-president-enrique-pea-a-nieto-cancels-a-scheduled-trip-to-the-united-states-after-a-heated-phone-call-with-u-s-president-donald-tru.md)
-_Context: Enrique Pena Nieto, Mexican President, Mexico, President, Trump, U.S.-Mexico border wall, United States, United States-Mexico relations_
+_Context: Donald Trump, Enrique Pena Nieto, Mexican President, Mexico, President, U.S.-Mexico border wall, United States, United States-Mexico relations_
 
 ##### Women's rights in Saudi Arabia
 ### [Saudi Arabia opens applications for women to join its armed forces for the first time. ](/news/2018/02/26/saudi-arabia-opens-applications-for-women-to-join-its-armed-forces-for-the-first-time.md)

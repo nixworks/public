@@ -13,7 +13,7 @@ _Context: Arrow missile, Israel, defence ministry_
 
 ##### Taiwan
 ### [ Four state-owned enterprises of the Republic of China (Taiwan)--Chunghwa Post, the Chinese Petroleum Corporation, the China Shipbuilding Corporation, and the Central Bank of China--change their names to remove "China" from their titles at the request of President Chen Shui-bian. The decision is condemned by the Pan-Blue Coalition, the United States and People's Republic of China as a move towards Taiwan independence. ](/news/2007/02/12/four-state-owned-enterprises-of-the-republic-of-china-taiwan-achunghwa-post-the-chinese-petroleum-corporation-the-china-shipbuilding-c.md)
-_Context: Central Bank of China, Chen Shui-bian, China, China, China Shipbuilding Corporation, Chinese Petroleum Corporation, Chunghwa Post, President, Taiwan, Taiwan, United States, coalition allies, independence_
+_Context: Central Bank of China, Chen Shui-bian, China, China Shipbuilding Corporation, Chinese, Chinese Petroleum Corporation, Chunghwa Post, President, Taiwan, Taiwan, United States, coalition allies, independence_
 
 ##### Sea Shepherd
 ### [ The Sea Shepherd Conservation Society claims that one of its ships has collided with a Japanese whaling vessel in the Ross Sea, leading to the Japanese vessel lodging a distress call. ](/news/2007/02/12/the-sea-shepherd-conservation-society-claims-that-one-of-its-ships-has-collided-with-a-japanese-whaling-vessel-in-the-ross-sea-leading-to.md)

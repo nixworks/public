@@ -3,9 +3,9 @@ Formats: [HTML](2008/03/9/index.html)  [JSON](2008/03/9/index.json)  [XML](2008/
 
 ## [2008-03-9](/news/2008/03/9/index.md)
 
-##### China
+##### Chinese
 ### [ An official reports that last week a flight crew prevented an apparent attempt to crash a Chinese jetliner. ](/news/2008/03/9/an-official-reports-that-last-week-a-flight-crew-prevented-an-apparent-attempt-to-crash-a-chinese-jetliner.md)
-_Context: China_
+_Context: Chinese_
 
 ##### Argentina
 ### [ An Argentine train headed for Mar del Plata from Buenos Aires slams into a bus at a rural rail crossing near Dolores, killing 26 people and leaving at least 60 others injured. ](/news/2008/03/9/an-argentine-train-headed-for-mar-del-plata-from-buenos-aires-slams-into-a-bus-at-a-rural-rail-crossing-near-dolores-killing-26-people-and.md)
@@ -33,7 +33,7 @@ _Context: Albanian, English, Hashim Thai, Kosovo, Prime Minister, Serbia, Serbia
 
 ##### Sweden
 ### [ Swedish Minister for Foreign Affairs Carl Bildt says that Kosovo may become a European Union member state even if it is not a member of the United Nations. ](/news/2008/03/9/swedish-minister-for-foreign-affairs-carl-bildt-says-that-kosovo-may-become-a-european-union-member-state-even-if-it-is-not-a-member-of-the.md)
-_Context: Carl Bildt, EU, Foreign Minister, Kosovo, Sweden, United Nations_
+_Context: Carl Bildt, European Union, Foreign Minister, Kosovo, Sweden, United Nations_
 
 ## [Previous Day...](/news/2008/03/8/index.md)
 

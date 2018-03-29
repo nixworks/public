@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/02/20/the-dutch-cabinet-balkenende-iv-collapses-after
 
 ### [2010-02-20](/news/2010/02/20/index.md)
 
-##### Dutch
+##### Netherlands
 # The Dutch cabinet Balkenende IV collapses after a dispute on extending the mandate of Task Force Uruzgan in Afghanistan. 
 
 Government collapses following disagreement on date for withdrawing troops.
@@ -18,8 +18,8 @@ Government collapses following disagreement on date for withdrawing troops.
 
 ### Related:
 
-1. [Netherlands pulls out of Afghanistan. ](/news/2010/08/1/netherlands-pulls-out-of-afghanistan.md) _Context: Afghanistan, Dutch_
+1. [Netherlands pulls out of Afghanistan. ](/news/2010/08/1/netherlands-pulls-out-of-afghanistan.md) _Context: Afghanistan, Netherlands_
 2. [Prime Minister of the Netherlands Jan Peter Balkenende says the country will begin pulling out of Afghanistan in August and be gone by the end of the year following the collapse of Balkenende-4 over the issue. ](/news/2010/02/21/prime-minister-of-the-netherlands-jan-peter-balkenende-says-the-country-will-begin-pulling-out-of-afghanistan-in-august-and-be-gone-by-the-e.md) _Context: Afghanistan, the collapse of Balkenende-4_
-3. [ Georgia and Slovakia offer to send troops to support the Australian-Dutch taskforce in the south of the Afghanistan as the Dutch government is under pressure to reduce troops. ](/news/2007/10/22/georgia-and-slovakia-offer-to-send-troops-to-support-the-australian-dutch-taskforce-in-the-south-of-the-afghanistan-as-the-dutch-government.md) _Context: Afghanistan, Dutch_
-4. [ The United States Secretary of Defense Robert M. Gates meets with the Defense Ministers of the United Kingdom, Australia, Canada, the Netherlands and Denmark as well as officials from Estonia and Romania to discuss progress in Afghanistan in expectation of a Taliban offensive. Two Canadian soldiers are killed when a roadside bomb explodes. ](/news/2007/04/11/the-united-states-secretary-of-defense-robert-m-gates-meets-with-the-defense-ministers-of-the-united-kingdom-australia-canada-the-nethe.md) _Context: Afghanistan, Dutch_
-5. [Two suicide bombers strike a Shi'ite mosque in Herat, Afghanistan, killing one person and wounding seven others. Security forces kill one bomber while the device kills the other. ISIL claims responsibility. ](/news/2018/03/25/two-suicide-bombers-strike-a-shi-ite-mosque-in-herat-afghanistan-killing-one-person-and-wounding-seven-others-security-forces-kill-one-bo.md) _Context: Afghanistan_
+3. [ Georgia and Slovakia offer to send troops to support the Australian-Dutch taskforce in the south of the Afghanistan as the Dutch government is under pressure to reduce troops. ](/news/2007/10/22/georgia-and-slovakia-offer-to-send-troops-to-support-the-australian-dutch-taskforce-in-the-south-of-the-afghanistan-as-the-dutch-government.md) _Context: Afghanistan, Netherlands_
+4. [ The United States Secretary of Defense Robert M. Gates meets with the Defense Ministers of the United Kingdom, Australia, Canada, the Netherlands and Denmark as well as officials from Estonia and Romania to discuss progress in Afghanistan in expectation of a Taliban offensive. Two Canadian soldiers are killed when a roadside bomb explodes. ](/news/2007/04/11/the-united-states-secretary-of-defense-robert-m-gates-meets-with-the-defense-ministers-of-the-united-kingdom-australia-canada-the-nethe.md) _Context: Afghanistan, Netherlands_
+5. [The government of the Netherlands recalls a diplomat from Turkey after local newspapers accused him of spying. ](/news/2018/03/27/the-government-of-the-netherlands-recalls-a-diplomat-from-turkey-after-local-newspapers-accused-him-of-spying.md) _Context: Netherlands_

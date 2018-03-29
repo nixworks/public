@@ -31,9 +31,9 @@ _Context: General Motors, Pontiac, brand_
 ### [ Mexico reports 149 deaths from the outbreak of swine influenza. ](/news/2009/04/27/mexico-reports-149-deaths-from-the-outbreak-of-swine-influenza.md)
 _Context: Mexico, current outbreak, swine flu_
 
-##### Boeing
+##### The Boeing Company
 ### [ A low-flying Boeing VC-25, "Air Force One", causes momentary panic in New York City, New York, United States. ](/news/2009/04/27/a-low-flying-boeing-vc-25-air-force-one-causes-momentary-panic-in-new-york-city-new-york-united-states.md)
-_Context: Air Force One, Boeing, New York, New York City, United States, VC-25, panic_
+_Context: Air Force One, New York, New York City, The Boeing Company, United States, VC-25, panic_
 
 ## [Previous Day...](/news/2009/04/26/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2014/09/23/index.html)  [JSON](2014/09/23/index.json)  [XML](201
 
 ##### President of Russia
 ### [President of Russia Vladimir Putin warns in a letter to his Ukrainian counterpart Petro Poroshenko that Moscow will restrict Ukraine's access to Russian markets if Kiev implements any part of a trade agreement with the European Union. ](/news/2014/09/23/president-of-russia-vladimir-putin-warns-in-a-letter-to-his-ukrainian-counterpart-petro-poroshenko-that-moscow-will-restrict-ukraine-s-acces.md)
-_Context: EU, Petro Poroshenko, President of Russia, Ukrainian President, Vladimir Putin_
+_Context: European Union, Petro Poroshenko, President of Russia, Ukrainian President, Vladimir Putin_
 
 ##### Ebola virus epidemic in West Africa
 ### [The World Health Organisation and the Government of Liberia introduce a controversial program to move infected people out of their homes and into "de facto" shelters. ](/news/2014/09/23/the-world-health-organisation-and-the-government-of-liberia-introduce-a-controversial-program-to-move-infected-people-out-of-their-homes-and.md)

@@ -65,7 +65,7 @@ _Context: Deutsche Bank Building, Ground Zero, New York City, firefighter_
 
 ##### Bridge
 ### [ The death toll of a bridge collapse in Fenghuang, China rises to 64. ](/news/2007/08/18/the-death-toll-of-a-bridge-collapse-in-fenghuang-china-rises-to-64.md)
-_Context: China, Fenghuang, bridge_
+_Context: Chinese, Fenghuang, bridge_
 
 ##### Crandall Canyon mine
 ### [ Rescuers say that a fourth hole in the Crandall Canyon mine near Huntington, Utah shows no sign of six trapped miners. ](/news/2007/08/18/rescuers-say-that-a-fourth-hole-in-the-crandall-canyon-mine-near-huntington-utah-shows-no-sign-of-six-trapped-miners.md)

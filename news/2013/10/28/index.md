@@ -19,7 +19,7 @@ _Context: Conrad Murray, Los Angeles, Michael Jackson, death, involuntary mansla
 ### [Three Chinese anti-graft activists go on trial in Xinyu in west-central Jiangxi province. ](/news/2013/10/28/three-chinese-anti-graft-activists-go-on-trial-in-xinyu-in-west-central-jiangxi-province.md)
 Three Chinese anti-graft activists who agitated for officials to disclose their assets went on trial on Monday in the first case of its kind, underscoring the limits of government tolerance of challenges to its authority.
 
-##### England
+##### English
 ### [The storm hits England and Wales, causing at least one death with flights and train services cancelled. ](/news/2013/10/28/the-storm-hits-england-and-wales-causing-at-least-one-death-with-flights-and-train-services-cancelled.md)
 So-called St. Jude storm lashes the U.K. with heavy rains and high winds; people urged to say away from seashore
 

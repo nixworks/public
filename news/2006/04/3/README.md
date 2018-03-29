@@ -13,7 +13,7 @@ _Context: C-5 Galaxy, Delaware, Dover Air Force Base, U.S. state, air force_
 
 ##### Zacarias Moussaoui
 ### [ The jury in the first phase of the trial of Zacarias Moussaoui has decided that he is eligible for the death penalty. ](/news/2006/04/3/the-jury-in-the-first-phase-of-the-trial-of-zacarias-moussaoui-has-decided-that-he-is-eligible-for-the-death-penalty.md)
-_Context: Zacarias Moussaoui, capital punishment_
+_Context: Zacarias Moussaoui, death_
 
 ## [Previous Day...](/news/2006/04/2/index.md)
 

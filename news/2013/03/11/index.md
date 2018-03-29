@@ -79,7 +79,7 @@ Five Americans from the Nato-led foreign forces in Afghanistan die in a helicopt
 ### [Italian stocks lose value after Fitch Ratings downgrades the country's creditworthiness. ](/news/2013/03/11/italian-stocks-lose-value-after-fitch-ratings-downgrades-the-country-s-creditworthiness.md)
 _Context: Fitch Ratings, Italy, creditworthiness, stock_
 
-##### EU
+##### European Union
 ### [The European Union bans the sale of cosmetics developed through animal testing. ](/news/2013/03/11/the-european-union-bans-the-sale-of-cosmetics-developed-through-animal-testing.md)
 A complete ban on the sale of cosmetics developed through animal testing is now in force in the EU.
 

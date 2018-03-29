@@ -25,7 +25,7 @@ A TransAsia Airways Corp. turboprop plane crashed into a river near Taipei momen
 
 ##### Mao Xiaofeng
 ### [Under investigation for corruption, Mao Xiaofeng resigns as the President of Minsheng Banking Corporation. China's Communist Party anti-graft agency links him and disgraced Chinese official Ling Jihua. ](/news/2015/02/4/under-investigation-for-corruption-mao-xiaofeng-resigns-as-the-president-of-minsheng-banking-corporation-china-s-communist-party-anti-graf.md)
-_Context: China, Ling Jihua, Mao Xiaofeng, Minsheng Banking Corporation_
+_Context: Chinese, Ling Jihua, Mao Xiaofeng, Minsheng Banking Corporation_
 
 ##### Anthem
 ### [Anthem Inc. discloses that criminal hackers have broken into its servers and potentially stolen over 80 million records that contain personally identifiable information from its servers. According to Anthem, the data breach extends into multiple brands Anthem uses to market its healthcare plans, including, Anthem Blue Cross, Anthem Blue Cross and Blue Shield, Blue Cross and Blue Shield of Georgia, Empire Blue Cross and Blue Shield, Amerigroup, Caremore, Unicare, Healthlink, and DeCare. Anthem says the medical information and financial data was not compromised. ](/news/2015/02/4/anthem-inc-discloses-that-criminal-hackers-have-broken-into-its-servers-and-potentially-stolen-over-80-million-records-that-contain-persona.md)

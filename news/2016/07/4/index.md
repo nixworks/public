@@ -35,7 +35,7 @@ Turkey said on Monday it wanted to cooperate with Moscow in combating Islamic St
 ### [A Turkish ship carrying humanitarian aid for the Gaza Strip docks at the Israeli port city of Ashdod, the first warming move between the two countries since relations began to improve. Relations between Turkey and Israel were tense since the 2010 Gaza flotilla raid but ended last week when Turkey agreed to normalize ties in a diplomatic treaty. ](/news/2016/07/4/a-turkish-ship-carrying-humanitarian-aid-for-the-gaza-strip-docks-at-the-israeli-port-city-of-ashdod-the-first-warming-move-between-the-two.md)
 The Lady Leyla docks in Ashdod more than six years after Israeli commandos stormed Turkish aid convoy and killed activists
 
-##### China
+##### Chinese
 ### [Flooding caused by torrential rain in China kills at least 180 people, mostly along the Yangtze river. ](/news/2016/07/4/flooding-caused-by-torrential-rain-in-china-kills-at-least-180-people-mostly-along-the-yangtze-river.md)
 More than 180 people are killed in flooding along the Yangtze River, following torrential rain in central and southern China.
 

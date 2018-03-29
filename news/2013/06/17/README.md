@@ -23,7 +23,7 @@ _Context: Michael Applebaum, Montreal, Quebec_
 ### [Former BBC broadcaster Stuart Hall is sentenced to 15 months in jail for sexually abusing girls. ](/news/2013/06/17/former-bbc-broadcaster-stuart-hall-is-sentenced-to-15-months-in-jail-for-sexually-abusing-girls.md)
 BBC broadcaster Stuart Hall, 83, is jailed for 15 months for sexually abusing girls as it emerges some of his victims plan to sue.
 
-##### Dutch
+##### Netherlands
 ### [A court in the Netherlands finds a 50-year-old man and six teenagers guilty of kicking a volunteer linesman to death in Almere in December 2012. ](/news/2013/06/17/a-court-in-the-netherlands-finds-a-50-year-old-man-and-six-teenagers-guilty-of-kicking-a-volunteer-linesman-to-death-in-almere-in-december-2.md)
 Six teenagers and the father of one of them are found guilty of kicking a volunteer linesman to death in the Netherlands.
 

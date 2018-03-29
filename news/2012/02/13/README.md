@@ -21,7 +21,7 @@ _Context: Gurbanguli Berdymukhamedov, Turkmenistan, wins a new five-year term_
 
 ##### Abu Qatada
 ### [Abu Qatada, accused of being one of the United Kingdom's most dangerous preachers of Islamic extremism, is released from prison following a ruling from the European Court of Human Rights last week. ](/news/2012/02/13/abu-qatada-accused-of-being-one-of-the-united-kingdom-s-most-dangerous-preachers-of-islamic-extremism-is-released-from-prison-following-a.md)
-_Context: Abu Qatada, European Court of Human Rights, Islamic extremist group, United Kingdom_
+_Context: Abu Qatada, European Court of Human Rights, Islamic extremism, United Kingdom_
 
 ##### Prime Minister
 ### [The Prime Minister of Pakistan Yousuf Raza Gilani appears before the Supreme Court of Pakistan to face contempt of court charges. ](/news/2012/02/13/the-prime-minister-of-pakistan-yousuf-raza-gilani-appears-before-the-supreme-court-of-pakistan-to-face-contempt-of-court-charges.md)
@@ -39,9 +39,9 @@ _Context: Northern California, United States Geological Survey, Weitchpec, magni
 ### [Moody's Investors Service downgrades the credit ratings of several European Union members including Italy, Malta, Portugal, Slovakia, Slovenia and Spain and issues a negative outlook for the ratings of Austria, France and the United Kingdom. ](/news/2012/02/13/moody-s-investors-service-downgrades-the-credit-ratings-of-several-european-union-members-including-italy-malta-portugal-slovakia-sloven.md)
 continues to be well supported by a large, diversified and highly competitive economy, a particularly flexible labour market, and a banking sector that
 
-##### EU
+##### European Union
 ### [The European Union and United States approve Google's $12.5 billion acquisition of smartphone maker Motorola. ](/news/2012/02/13/the-european-union-and-united-states-approve-google-s-12-5-billion-acquisition-of-smartphone-maker-motorola.md)
-_Context: EU, Google, Motorola Mobility, United States, smartphone_
+_Context: European Union, Google, Motorola Mobility, United States, smartphone_
 
 ##### Rangers F.C.
 ### [Rangers F.C. announces an intent to enter administration. ](/news/2012/02/13/rangers-f-c-announces-an-intent-to-enter-administration.md)

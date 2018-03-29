@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/11/15/police-in-the-english-city-of-birmingham-arrest
 
 ### [2011-11-15](/news/2011/11/15/index.md)
 
-##### England
+##### English
 # Police in the English city of Birmingham arrest four men in the Sparkhill district in a major anti-terrorism operation. 
 
 Four men are arrested in a major counter terrorism operation in the Sparkhill area of Birmingham, police say.
@@ -16,8 +16,8 @@ Four men are arrested in a major counter terrorism operation in the Sparkhill ar
 
 ### Related:
 
-1. [Six people are killed in a multiple-vehicle collision in Birmingham, England. ](/news/2017/12/17/six-people-are-killed-in-a-multiple-vehicle-collision-in-birmingham-england.md) _Context: Birmingham, England_
-2. [At least five workers are killed after a wall collapses on them at a recycling plant in Birmingham, England. ](/news/2016/07/7/at-least-five-workers-are-killed-after-a-wall-collapses-on-them-at-a-recycling-plant-in-birmingham-england.md) _Context: Birmingham, England_
-3. [Four men, including a police officer, are stabbed at a mosque in Birmingham, England. ](/news/2013/06/16/four-men-including-a-police-officer-are-stabbed-at-a-mosque-in-birmingham-england.md) _Context: Birmingham, England_
-4. [Rioting continues in London with lawlessness spreading to other English cities such as Liverpool, Manchester, Bristol and Birmingham. ](/news/2011/08/9/rioting-continues-in-london-with-lawlessness-spreading-to-other-english-cities-such-as-liverpool-manchester-bristol-and-birmingham.md) _Context: Birmingham, England_
-5. [Rioting hits other English cities including Manchester, Salford, Liverpool, Nottingham and Birmingham, though London is largely quiet. ](/news/2011/08/10/rioting-hits-other-english-cities-including-manchester-salford-liverpool-nottingham-and-birmingham-though-london-is-largely-quiet.md) _Context: Birmingham, England_
+1. [Six people are killed in a multiple-vehicle collision in Birmingham, England. ](/news/2017/12/17/six-people-are-killed-in-a-multiple-vehicle-collision-in-birmingham-england.md) _Context: Birmingham, English_
+2. [At least five workers are killed after a wall collapses on them at a recycling plant in Birmingham, England. ](/news/2016/07/7/at-least-five-workers-are-killed-after-a-wall-collapses-on-them-at-a-recycling-plant-in-birmingham-england.md) _Context: Birmingham, English_
+3. [Four men, including a police officer, are stabbed at a mosque in Birmingham, England. ](/news/2013/06/16/four-men-including-a-police-officer-are-stabbed-at-a-mosque-in-birmingham-england.md) _Context: Birmingham, English_
+4. [Rioting continues in London with lawlessness spreading to other English cities such as Liverpool, Manchester, Bristol and Birmingham. ](/news/2011/08/9/rioting-continues-in-london-with-lawlessness-spreading-to-other-english-cities-such-as-liverpool-manchester-bristol-and-birmingham.md) _Context: Birmingham, English_
+5. [Rioting hits other English cities including Manchester, Salford, Liverpool, Nottingham and Birmingham, though London is largely quiet. ](/news/2011/08/10/rioting-hits-other-english-cities-including-manchester-salford-liverpool-nottingham-and-birmingham-though-london-is-largely-quiet.md) _Context: Birmingham, English_

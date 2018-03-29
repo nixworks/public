@@ -9,7 +9,7 @@ _Context: Easter Island, rapamycin_
 
 ##### The Guardian
 ### [ "The Guardian" claims that rival English newspaper, the Rupert Murdoch-owned "News of the World" tabloid, paid GBP1 million in court costs after its journalists were accused of involvement in phone tapping celebrities and politicians. ](/news/2009/07/8/the-guardian-claims-that-rival-english-newspaper-the-rupert-murdoch-owned-news-of-the-world-tabloid-paid-agbp1-million-in-court-costs.md)
-_Context: England, News of the World, Rupert Murdoch, The Guardian, tabloid_
+_Context: English, News of the World, Rupert Murdoch, The Guardian, tabloid_
 
 ##### United States
 ### [ Undercover investigators smuggle bomb-making materials into government buildings in the United States, assembling bombs within, on ten occasions. ](/news/2009/07/8/undercover-investigators-smuggle-bomb-making-materials-into-government-buildings-in-the-united-states-assembling-bombs-within-on-ten-occa.md)

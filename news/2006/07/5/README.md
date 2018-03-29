@@ -27,7 +27,7 @@ _Context: Enron, Kenneth Lay, heart attack_
 ### [ Light Sweet Crude futures close at an all-time high at $75.19-barrel, with an intraday all-time high of $75.40-barrel in New York. Analysts have downplayed the effect of North Korea's missile launch. ](/news/2006/07/5/light-sweet-crude-futures-close-at-an-all-time-high-at-75-19-barrel-with-an-intraday-all-time-high-of-75-40-barrel-in-new-york-analysts.md)
 _Context: New York City, North Korea, crude oil_
 
-##### China
+##### Chinese
 ### [ China and Russia resist efforts by the United States and Japan to move a motion in the United Nations Security Council to impose sanctions on North Korea over its missile tests. ](/news/2006/07/5/china-and-russia-resist-efforts-by-the-united-states-and-japan-to-move-a-motion-in-the-united-nations-security-council-to-impose-sanctions.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 

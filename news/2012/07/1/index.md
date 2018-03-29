@@ -9,7 +9,7 @@ Read the latest World and International news headlines from Sky News Australia. 
 
 ##### The Sunday Telegraph
 ### [Writing in "The Sunday Telegraph" British Prime Minister David Cameron says he is prepared to consider a referendum on the UK's relationship with the European Union, but only when the time is right. ](/news/2012/07/1/writing-in-the-sunday-telegraph-british-prime-minister-david-cameron-says-he-is-prepared-to-consider-a-referendum-on-the-uk-s-relationship.md)
-_Context: David Cameron, EU, The Sunday Telegraph_
+_Context: David Cameron, European Union, The Sunday Telegraph_
 
 ##### Hong Kong
 ### [Protesters throng the streets of Hong Kong, hours after President Hu Jintao of China swore in Leung Chun-ying as new Chief Executive and the Executive Council for the territory.](/news/2012/07/1/protesters-throng-the-streets-of-hong-kong-hours-after-president-hu-jintao-of-china-swore-in-leung-chun-ying-as-new-chief-executive-and-the.md)

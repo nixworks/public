@@ -31,17 +31,17 @@ _Context: California, Christian Gerhartsreiter, German, San Marino_
 ### [Former US mafia leader Joey Merlino of the Scarfo crime family is released from prison in Indiana and is sent to a halfway house in Florida. ](/news/2011/03/15/former-us-mafia-leader-joey-merlino-of-the-scarfo-crime-family-is-released-from-prison-in-indiana-and-is-sent-to-a-halfway-house-in-florida.md)
 _Context: Florida, Indiana, Joey Merlino, Scarfo crime family, halfway house, mafia_
 
-##### Metropolitan Police
+##### Police
 ### [The Metropolitan Police in London, England launch an investigation into the death of reggae musician Smiley Culture in a police raid in Surrey. ](/news/2011/03/15/the-metropolitan-police-in-london-england-launch-an-investigation-into-the-death-of-reggae-musician-smiley-culture-in-a-police-raid-in-surr.md)
-_Context: England, London, Metropolitan Police, Smiley Culture, Surrey, reggae_
+_Context: English, London, Police, Smiley Culture, Surrey, reggae_
 
 ##### Egypt
 ### [Egypt dissolves State Security Investigations Service, its former internal security and spying agency. ](/news/2011/03/15/egypt-dissolves-state-security-investigations-service-its-former-internal-security-and-spying-agency.md)
 _Context: Egypt, security personnel_
 
-##### EU
+##### European Union
 ### [The European Union holds talks with Aung San Suu Kyi and other Burmese opposition figures over the lifting of international sanctions. ](/news/2011/03/15/the-european-union-holds-talks-with-aung-san-suu-kyi-and-other-burmese-opposition-figures-over-the-lifting-of-international-sanctions.md)
-_Context: Aung San Suu Kyi, Burma, EU_
+_Context: Aung San Suu Kyi, Burma, European Union_
 
 ##### First World War
 ### [The passing of the United States generation that fought in World War I is marked by the funeral of "'Frank Buckles"', who died on 27 February 2011, aged 110, and was buried with full military honors at Arlington National Cemetery. ](/news/2011/03/15/the-passing-of-the-united-states-generation-that-fought-in-world-war-i-is-marked-by-the-funeral-of-frank-buckles-who-died-on-27-februar.md)
@@ -59,9 +59,9 @@ _Context: Deutsche Boerse, NYSE Euronext, Nasdaq OMX Group_
 ### [The Israeli Navy intercepts the cargo ship "Victoria" which was carrying a long list of advanced weapons that were smuggled from Iran and were allegedly bound for the militant organizations operating in the Gaza Strip. ](/news/2011/03/15/the-israeli-navy-intercepts-the-cargo-ship-victoria-which-was-carrying-a-long-list-of-advanced-weapons-that-were-smuggled-from-iran-and-we.md)
 Iran, Syria change usual smuggling route due to close surveillance by Israel, US
 
-##### Muslim
+##### Muslims
 ### [A small bomb explodes in the offices of a moderate Islamic group in the Indonesian capital Jakarta, injuring four people. ](/news/2011/03/15/a-small-bomb-explodes-in-the-offices-of-a-moderate-islamic-group-in-the-indonesian-capital-jakarta-injuring-four-people.md)
-_Context: Indonesia, Jakarta, Muslim_
+_Context: Indonesia, Jakarta, Muslims_
 
 ##### 2010-2011 Ivorian crisis
 ### [2010-2011 Ivorian crisis: Gunmen shoot four people dead at a roadblock run by supporters of disputed Cote d'Ivoire President Laurent Gbagbo. ](/news/2011/03/15/2010a2011-ivorian-crisis-gunmen-shoot-four-people-dead-at-a-roadblock-run-by-supporters-of-disputed-ca-te-d-ivoire-president-laurent-gbag.md)

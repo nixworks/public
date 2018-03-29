@@ -3,7 +3,7 @@ Formats: [HTML](2007/08/26/index.html)  [JSON](2007/08/26/index.json)  [XML](200
 
 ## [2007-08-26](/news/2007/08/26/index.md)
 
-##### EU
+##### European Union
 ### [ European Union countries send firefighters and equipment to help fight hundreds of fires.](/news/2007/08/26/european-union-countries-send-firefighters-and-equipment-to-help-fight-hundreds-of-fires.md)
 Several European Union countries are sending firefighters and equipment to Greece to help fight hundreds of forest fires that have killed at least 49 people.
 

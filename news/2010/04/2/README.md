@@ -27,9 +27,9 @@ _Context: Baikonur Cosmodrome, Expedition 23, International Space Station, Soyuz
 ### [Brazilian land reform activist Pedro Alcantara de Souza is fatally shot five times in the head by two men on motorcycles as he tries to ride his own bicycle in Par. ](/news/2010/04/2/brazilian-land-reform-activist-pedro-alcantara-de-souza-is-fatally-shot-five-times-in-the-head-by-two-men-on-motorcycles-as-he-tries-to-ride.md)
 _Context: Brazil, Par, Pedro Alcantara de Souza_
 
-##### Shanxi province
+##### Shanxi
 ### [Rescue teams attempting to reach 153 miners trapped in a flooded coal pit in Shanxi report "signs of life", including "tapping", "banging" and "shouts", as relatives allege an official cover-up of the incident. ](/news/2010/04/2/rescue-teams-attempting-to-reach-153-miners-trapped-in-a-flooded-coal-pit-in-shanxi-report-signs-of-life-including-tapping-banging-a.md)
-_Context: Shanxi province_
+_Context: Shanxi_
 
 ##### Bishop of Down and Connor
 ### [Bishop of Down and Connor Noel Treanor says at St Peter's Cathedral, Belfast in Northern Ireland that the "crimes and sins of abuse of children and minors by clergy and religious" are "faith-shaking". ](/news/2010/04/2/bishop-of-down-and-connor-noel-treanor-says-at-st-peter-s-cathedral-belfast-in-northern-ireland-that-the-crimes-and-sins-of-abuse-of-child.md)

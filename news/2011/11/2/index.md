@@ -3,13 +3,13 @@ Formats: [HTML](2011/11/2/index.html)  [JSON](2011/11/2/index.json)  [XML](2011/
 
 ## [2011-11-2](/news/2011/11/2/index.md)
 
-##### China
+##### Chinese
 ### [China's unmanned Shenzhou 8 spacecraft successfully docks with the orbiting Tiangong 1 space station module, marking China's first orbital docking. ](/news/2011/11/2/china-s-unmanned-shenzhou-8-spacecraft-successfully-docks-with-the-orbiting-tiangong-1-space-station-module-marking-china-s-first-orbital-d.md)
-_Context: China, Shenzhou 8, Tiangong 1, space station_
+_Context: Chinese, Shenzhou 8, Tiangong 1, space station_
 
 ##### Greece
 ### [The Greek Cabinet unanimously supports plans by Prime Minister George Papandreou to hold a referendum on the European Union's proposed economic rescue plan. ](/news/2011/11/2/the-greek-cabinet-unanimously-supports-plans-by-prime-minister-george-papandreou-to-hold-a-referendum-on-the-european-union-s-proposed-econo.md)
-_Context: EU, George Papandreou, Greece, Greek Prime Minister, referendum_
+_Context: European Union, George Papandreou, Greece, Greek Prime Minister, referendum_
 
 ##### Russia
 ### [Russia and Georgia strike a deal that will allow Russia to enter the World Trade Organization. ](/news/2011/11/2/russia-and-georgia-strike-a-deal-that-will-allow-russia-to-enter-the-world-trade-organization.md)

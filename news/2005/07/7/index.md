@@ -33,7 +33,7 @@ _Context: Gloria Arroyo, Philippines_
 
 ##### Malta
 ### [ Malta becomes the 12th European Union member to ratify the EU constitution and the first to do so unanimously. ](/news/2005/07/7/malta-becomes-the-12th-european-union-member-to-ratify-the-eu-constitution-and-the-first-to-do-so-unanimously.md)
-_Context: EU, EU constitution, Malta_
+_Context: EU constitution, European Union, Malta_
 
 ## [Previous Day...](/news/2005/07/6/index.md)
 

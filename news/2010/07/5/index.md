@@ -79,9 +79,9 @@ _Context: Afghanistan, Helmand, International Security Assistance Force, narcoti
 ### [Iran accuses Germany, United Arab Emirates and United Kingdom of refusing to provide fuel to its passenger planes. ](/news/2010/07/5/iran-accuses-germany-united-arab-emirates-and-united-kingdom-of-refusing-to-provide-fuel-to-its-passenger-planes.md)
 Iran accuses the UK, Germany and the UAE of refusing to refuel its passenger jets, days after tough new US sanctions.
 
-##### EU
+##### European Union
 ### [The European Union withdraws a trade concessions deal with Sri Lanka after the former accused the latter of not improving its human rights record. ](/news/2010/07/5/the-european-union-withdraws-a-trade-concessions-deal-with-sri-lanka-after-the-former-accused-the-latter-of-not-improving-its-human-rights-r.md)
-_Context: EU, Sri Lanka, human rights record_
+_Context: European Union, Sri Lanka, human rights record_
 
 ##### Hijab
 ### [Anti-government demonstrators, including women dressed in full hijabs brandishing AK-47 automatic rifles, march in Somalia's capital Mogadishu, protesting killings by the African Union Mission in Somalia. ](/news/2010/07/5/anti-government-demonstrators-including-women-dressed-in-full-hijabs-brandishing-ak-47-automatic-rifles-march-in-somalia-s-capital-mogadis.md)

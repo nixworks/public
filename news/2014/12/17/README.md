@@ -15,7 +15,7 @@ _Context: Framingham, Mass., New England Compounding Center, fungal meningitis, 
 ### [The Chinese Communist Party, through the Supreme People's Procuratorate, indicts former Nanjing mayor Ji Jianye on bribery and corruption. ](/news/2014/12/17/the-chinese-communist-party-through-the-supreme-people-s-procuratorate-indicts-former-nanjing-mayor-ji-jianye-on-bribery-and-corruption.md)
 _Context: Communist Party of China, Ji Jianye, Nanjing, Supreme People's Procuratorate_
 
-##### EU
+##### European Union
 ### [The European Union removes Hamas from its list of terrorist organizations. ](/news/2014/12/17/the-european-union-removes-hamas-from-its-list-of-terrorist-organizations.md)
 The EU General Court has ordered that the Palestinian militant group Hamas be removed from the bloc’s terror blacklist. The move comes over four years after Hamas appealed its terror designation before the EU.
 

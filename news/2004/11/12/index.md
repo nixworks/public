@@ -17,7 +17,7 @@ _Context: George W. Bush, Margaret Spellings, Rod Paige, United States Secretary
 
 ##### Iran
 ### [ Iran is reportedly concluding a deal with the European Union which would spare it from possible United Nations sanctions over its nuclear arms programme. ](/news/2004/11/12/iran-is-reportedly-concluding-a-deal-with-the-european-union-which-would-spare-it-from-possible-united-nations-sanctions-over-its-nuclear-a.md)
-_Context: EU, Iran, Iran's nuclear program, United Nations_
+_Context: European Union, Iran, Iran's nuclear program, United Nations_
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: Hundreds of US Troops are diverted from Falluja as insurgents appear to take control of the northeastern city of Mosul. ](/news/2004/11/12/conflict-in-iraq-hundreds-of-us-troops-are-diverted-from-falluja-as-insurgents-appear-to-take-control-of-the-northeastern-city-of-mosul.md)

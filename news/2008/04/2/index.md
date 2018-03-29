@@ -13,7 +13,7 @@ _Context: Morgan Tsvangirai, Movement for Democratic Change, Robert Mugabe, ZANU
 ### [ The President of the United States George W. Bush supports the bids by Georgia and Ukraine to become members of the North Atlantic Treaty Organization. ](/news/2008/04/2/the-president-of-the-united-states-george-w-bush-supports-the-bids-by-georgia-and-ukraine-to-become-members-of-the-north-atlantic-treaty-o.md)
 _Context:  Georgian, George W. Bush, NATO, President, Ukraine_
 
-##### EU
+##### European Union
 ### [ The European Union announces an investigation into the bailout of the Northern Rock bank in the United Kingdom. ](/news/2008/04/2/the-european-union-announces-an-investigation-into-the-bailout-of-the-northern-rock-bank-in-the-united-kingdom.md)
 The European Commission on Wednesdayopened an in-depth investigation of British plans torestructure troubled mortgage lender Northern Rock, saying itneeded to look at potential distortion to the market.
 
@@ -39,7 +39,7 @@ _Context: AIDS, Africa, US$, United States House of Representatives, malaria, tu
 
 ##### Human
 ### [ A cross human-cow embryo survives a third straight day after being fertilized at Newcastle University, England. A director for embryonic stem cell laboratories at the Australian Stem Cell Centre said that the "99 per cent human" embryo could improve research within the field of human diseases. The Catholic Church in England however said that the creation was "monstrous" and says that the later destruction of it is unethical. ](/news/2008/04/2/a-cross-human-cow-embryo-survives-a-third-straight-day-after-being-fertilized-at-newcastle-university-england-a-director-for-embryonic-st.md)
-_Context: Australian Stem Cell Centre, England, Newcastle University, Roman Catholic Church, cow, diseases, embryo, embryonic stem cell, human_
+_Context: Australian Stem Cell Centre, English, Newcastle University, Roman Catholic Church, cow, diseases, embryo, embryonic stem cell, human_
 
 ##### Leader of the House of Commons
 ### [ Leader of the House of Commons Harriet Harman becomes the first Labour woman ever to answer Prime Minister's Questions. ](/news/2008/04/2/leader-of-the-house-of-commons-harriet-harman-becomes-the-first-labour-woman-ever-to-answer-prime-minister-s-questions.md)

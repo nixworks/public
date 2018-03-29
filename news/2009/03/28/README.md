@@ -37,7 +37,7 @@ _Context: 2010 FIFA World Cup, Belfast, Northern Ireland, Poland, fans, police, 
 
 ##### Demonstration
 ### [ Demonstrators in London, England, demand that the G20 combat poverty, climate change, and unemployment. ](/news/2009/03/28/demonstrators-in-london-england-demand-that-the-g20-combat-poverty-climate-change-and-unemployment.md)
-_Context: England, G-20, London, announces, climate change, demonstration, poverty, unemployment_
+_Context: English, G-20, London, announces, climate change, demonstration, poverty, unemployment_
 
 ##### Earth Hour
 ### [ Millions of people worldwide recognize Earth Hour by deactivating unnecessary lighting. ](/news/2009/03/28/millions-of-people-worldwide-recognize-earth-hour-by-deactivating-unnecessary-lighting.md)

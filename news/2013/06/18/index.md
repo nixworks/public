@@ -79,7 +79,7 @@ _Context: Chrysler, Jeep_
 ### [The Indian Rupee falls to a new record low against the US dollar. ](/news/2013/06/18/the-indian-rupee-falls-to-a-new-record-low-against-the-us-dollar.md)
 Outcome of US Fed meet on quantitative easing eyed
 
-##### Boeing
+##### The Boeing Company
 ### [Boeing launches the biggest version of its Dreamliner plane, the 787-10, at the Paris Air Show with over 100 orders worth about US$30 billion. ](/news/2013/06/18/boeing-launches-the-biggest-version-of-its-dreamliner-plane-the-787-10-at-the-paris-air-show-with-over-100-orders-worth-about-us-30-billio.md)
 Boeing has launched the biggest version of its Dreamliner at the Paris Air Show with over 100 orders worth about $30bn.
 

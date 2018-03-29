@@ -9,7 +9,7 @@ An FBI investigation finds no evidence of criminality in the latest batch of Hil
 
 ##### Hong Kong
 ### [In Hong Kong, police clash with protesters after more than 10,000 locals march against the Chinese government interpretation of the Basic Law in the Legislative Council oath-taking controversy. ](/news/2016/11/6/in-hong-kong-police-clash-with-protesters-after-more-than-10-000-locals-march-against-the-chinese-government-interpretation-of-the-basic-la.md)
-_Context: Basic Law, China, Hong Kong, oath-taking controversy_
+_Context: Basic Law, Chinese, Hong Kong, oath-taking controversy_
 
 ##### Nicaraguan general election, 2016
 ### [Voters in Nicaragua go to the polls for a general election with polls suggesting that the President of Nicaragua Daniel Ortega will be elected for a third successive term. Ortega's wife Rosario Murillo is running to be the Vice President of Nicaragua.](/news/2016/11/6/voters-in-nicaragua-go-to-the-polls-for-a-general-election-with-polls-suggesting-that-the-president-of-nicaragua-daniel-ortega-will-be-elect.md)
@@ -35,7 +35,7 @@ Six people have died and eight have been pulled from under the rubble of a two-s
 ### [Buildings in Cushing, Oklahoma, U.S., sustain damage from a moderate 5.0-magnitude earthquake. ](/news/2016/11/6/buildings-in-cushing-oklahoma-u-s-sustain-damage-from-a-moderate-5-0-magnitude-earthquake.md)
 An earthquake rattled central Oklahoma tonight, reportedly damaging multiple buildings in Cushing, about 50 miles northeast of Oklahoma City, and was felt as far away as Arkansas, Kansas and Missouri. According to the U.S. Geological Survey, the quake hit at 7:44 p.m. The USGS initially measured...
 
-##### Trump
+##### Donald Trump
 ### [In an apparent rebuke against United States Republican Party presidential candidate Donald Trump, Pope Francis speaks a sermon in Spanish warning against "fear" and the "walls" that divide. ](/news/2016/11/6/in-an-apparent-rebuke-against-united-states-republican-party-presidential-candidate-donald-trump-pope-francis-speaks-a-sermon-in-spanish-wa.md)
 &ldquo;No tyranny can be sustained without exploiting our fears,&rdquo; the pope said.
 

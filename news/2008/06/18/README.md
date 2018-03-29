@@ -41,7 +41,7 @@ _Context: Banjara, Gujjar, Other Backward Class, Rabari, Rajasthan, reservations
 
 ##### Srebrenica massacre
 ### [ Relatives of Srebrenica massacre victims open a case in a Dutch court against the United Nations and the Netherlands for the failure of the Dutchbat force to prevent the killings. ](/news/2008/06/18/relatives-of-srebrenica-massacre-victims-open-a-case-in-a-dutch-court-against-the-united-nations-and-the-netherlands-for-the-failure-of-the.md)
-_Context: Dutch, Dutchbat, Srebrenica massacre, United Nations_
+_Context: Dutchbat, Netherlands, Srebrenica massacre, United Nations_
 
 ##### China
 ### [ China and Japan agree to joint development of the Chunxiao gas field in a disputed area of the East China Sea. ](/news/2008/06/18/china-and-japan-agree-to-joint-development-of-the-chunxiao-gas-field-in-a-disputed-area-of-the-east-china-sea.md)
@@ -61,7 +61,7 @@ _Context: Mexico_
 
 ##### United States
 ### [ The United States and China agree to negotiate an investment treaty and to cooperate more closely on energy security and global pollution. ](/news/2008/06/18/the-united-states-and-china-agree-to-negotiate-an-investment-treaty-and-to-cooperate-more-closely-on-energy-security-and-global-pollution.md)
-_Context: China, United States, energy security_
+_Context: Chinese, United States, energy security_
 
 ##### Parliament
 ### [ The Parliament of the United Kingdom ratifies the Treaty of Lisbon. ](/news/2008/06/18/the-parliament-of-the-united-kingdom-ratifies-the-treaty-of-lisbon.md)

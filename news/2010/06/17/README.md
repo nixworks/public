@@ -27,7 +27,7 @@ _Context: Kenya, Mwai Kibaki, Wilfred Machage, president_
 ### [Powerful Austrian publisher and household name Hans Dichand, who greatly influenced Austrian politics, dies aged 89. ](/news/2010/06/17/powerful-austrian-publisher-and-household-name-hans-dichand-who-greatly-influenced-austrian-politics-dies-aged-89.md)
 _Context: Austria, Austrian politics, Hans Dichand_
 
-##### EU
+##### European Union
 ### [European Union leaders approve sanctions in Brussels, including bans on investments and oil-gas technology transfers, against Iran, harsher than recent sanctions imposed by the United Nations. Russia calls these and sanctions by the United States "unacceptable". ](/news/2010/06/17/european-union-leaders-approve-sanctions-in-brussels-including-bans-on-investments-and-oil-gas-technology-transfers-against-iran-harsher.md)
 European Union leaders approve new sanctions on Iran that are tougher than recent measures adopted by the UN Security Council.
 
@@ -83,7 +83,7 @@ _Context: Anhui, Anhui Province, Bagongshan, Huainan_
 ### [16 people are killed and around 70 others are trapped after a blast at the San Fernando mine in Amaga, Antioquia, in Colombia. ](/news/2010/06/17/16-people-are-killed-and-around-70-others-are-trapped-after-a-blast-at-the-san-fernando-mine-in-amaga-antioquia-in-colombia.md)
 An explosion at a coalmine in Colombia kills at least 16 workers with about 70 still trapped, officials say.
 
-##### Dutch
+##### Netherlands
 ### [Dutch novelist Gerbrand Bakker wins the 2010 International IMPAC Dublin Literary Award for his novel "The Twin". ](/news/2010/06/17/dutch-novelist-gerbrand-bakker-wins-the-2010-international-impac-dublin-literary-award-for-his-novel-the-twin.md)
 A novel that Dutch publishers saw as having only a cult appeal has taken this year&rsquo;s International Impac Dublin Literary Award&hellip;
 

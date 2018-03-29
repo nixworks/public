@@ -89,7 +89,7 @@ The U.S. and South Korea delayed exercises until after the Olympics.
 
 ##### China-South Korea relations
 ### [Japan, China, and South Korea agree in principle to hold a trilateral summit in May. ](/news/2018/03/20/japan-china-and-south-korea-agree-in-principle-to-hold-a-trilateral-summit-in-may.md)
-_Context: China, China-South Korea relations, Japan, Japan-South Korea relations, South Korea_
+_Context: China-South Korea relations, Chinese, Japan, Japan-South Korea relations, South Korea_
 
 ##### 2017-18 North Korea crisis
 ### [Delegations from North Korea, South Korea, and the United States meet in the outskirts of Helsinki, Finland. ](/news/2018/03/20/delegations-from-north-korea-south-korea-and-the-united-states-meet-in-the-outskirts-of-helsinki-finland.md)

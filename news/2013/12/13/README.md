@@ -3,7 +3,7 @@ Formats: [HTML](2013/12/13/index.html)  [JSON](2013/12/13/index.json)  [XML](201
 
 ## [2013-12-13](/news/2013/12/13/index.md)
 
-##### China
+##### Chinese
 ### [China's mission begins the descent phase to the moon that will likely make it one of only three countries to reach it. The landing is estimated to occur at 8:40 a.m. EST, December 14. ](/news/2013/12/13/china-s-mission-begins-the-descent-phase-to-the-moon-that-will-likely-make-it-one-of-only-three-countries-to-reach-it-the-landing-is-estima.md)
 All systems appear to be “GO” for the world’s first attempt to soft land a space probe on the Moon in nearly four decades. China’s maiden moon landing prob
 
@@ -33,7 +33,7 @@ Prince Harry and his fellow adventurers in the Walking With The Wounded expediti
 
 ##### United States
 ### [Warships of the United States and China confront each other in international waters within the South China Sea. ](/news/2013/12/13/warships-of-the-united-states-and-china-confront-each-other-in-international-waters-within-the-south-china-sea.md)
-_Context: China, South China Sea, United States, international waters_
+_Context: Chinese, South China Sea, United States, international waters_
 
 ##### Gunman critically wounds a student in a shooting
 ### [A gunman critically wounds a student in a shooting at Arapahoe High School, Centennial, Colorado, United States. ](/news/2013/12/13/a-gunman-critically-wounds-a-student-in-a-shooting-at-arapahoe-high-school-centennial-colorado-united-states.md)
@@ -47,7 +47,7 @@ Authorities said Friday they foiled a suicide bombing plot to blow up the Mid-Co
 ### [15 Iranians and 3 Iraqis were killed in a pipeline attack in the north-east of Baghdad. ](/news/2013/12/13/15-iranians-and-3-iraqis-were-killed-in-a-pipeline-attack-in-the-north-east-of-baghdad.md)
 Eighteen gas pipeline workers, most of them Iranians, have been shot dead in an attack north-east of Baghdad, officials say.
 
-##### EU
+##### European Union
 ### [The European Union is criticized by Amnesty International for meager assistance of Syrian refugees. ](/news/2013/12/13/the-european-union-is-criticized-by-amnesty-international-for-meager-assistance-of-syrian-refugees.md)
 LONDON — Europe has failed miserably to do its part to assuage Syria’s desperate refugee crisis, accepting a shamefully small number of people fleeing the civil war there and maltreating those who try to get in, Amnesty International said Friday.
 

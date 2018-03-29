@@ -25,7 +25,7 @@ _Context: Chicago, Federal District Judge, Illinois, President, Richard Posner, 
 
 ##### South Korea-United States relations
 ### [South Korean President Moon Jae-in and U.S. President Donald Trump agree to revise the South Korea Ballistic Missile Range Guidelines which caps South Korea's missile development. ](/news/2017/09/1/south-korean-president-moon-jae-in-and-u-s-president-donald-trump-agree-to-revise-the-south-korea-ballistic-missile-range-guidelines-which.md)
-_Context: 2017 North Korea crisis, Moon Jae-in, South Korea, South Korea Ballistic Missile Range Guidelines, South Korea-United States relations, Trump_
+_Context: 2017 North Korea crisis, Donald Trump, Moon Jae-in, South Korea, South Korea Ballistic Missile Range Guidelines, South Korea-United States relations_
 
 ##### Environmental Science & Technology
 ### [Researchers report, in the "Environmental Science & Technology" journal, the discovery of antidepressant concentrations in 10 kinds of fish in the Niagara River, which links to the Great Lakes via Lakes Erie and Ontario. Speculated causes include inadequate treatment of water re-introduced into said bodies of water. ](/news/2017/09/1/researchers-report-in-the-environmental-science-technology-journal-the-discovery-of-antidepressant-concentrations-in-10-kinds-of-fish.md)

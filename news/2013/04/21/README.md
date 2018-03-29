@@ -45,7 +45,7 @@ _Context: Mississippi River, Missouri, St. Louis, United States, crest, flooding
 
 ##### Mining accident
 ### [A mining accident in China's Jilin Province kills at least 18 people and injures 12 others. ](/news/2013/04/21/a-mining-accident-in-china-s-jilin-province-kills-at-least-18-people-and-injures-12-others.md)
-_Context: China, Jilin Province, mining accident_
+_Context: Chinese, Jilin Province, mining accident_
 
 ##### Australians
 ### [Australian rock singer Chrissy Amphlett (Divinyls - "I Touch Myself"), dies at the age of 53 from breast cancer and multiple sclerosis. ](/news/2013/04/21/australian-rock-singer-chrissy-amphlett-divinyls-a-i-touch-myself-dies-at-the-age-of-53-from-breast-cancer-and-multiple-sclerosis.md)

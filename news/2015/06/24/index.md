@@ -19,7 +19,7 @@ The thousands of tons of meat have an estimated value of more than $480 million 
 ### [Dzhokhar Tsarnaev is formally sentenced to death in a federal court. He confirms his guilt and apologizes to the victims. ](/news/2015/06/24/dzhokhar-tsarnaev-is-formally-sentenced-to-death-in-a-federal-court-he-confirms-his-guilt-and-apologizes-to-the-victims.md)
 Since the federal government reinstated the death penalty in 1988, only three men have been executed.
 
-##### Dutch
+##### Netherlands
 ### [A Dutch court orders the Netherlands to reduce its carbon emissions by at least 25% by 2020. ](/news/2015/06/24/a-dutch-court-orders-the-netherlands-to-reduce-its-carbon-emissions-by-at-least-25-by-2020.md)
 A court in the Netherlands orders the government to cut greenhouse gas emissions by at least 25% by 2020, in a class action suit launched by activists.
 
@@ -35,7 +35,7 @@ _Context: Friday prayers, Gaza Strip, Israel, Jerusalem, Palestinian_
 ### [The President of France Francois Hollande warns that France "will not tolerate" acts that threaten its security following claims by Wikileaks that the United States spied on him and his two predecessors Nicolas Sarkozy and Jacques Chirac between 2006 and 2012. ](/news/2015/06/24/the-president-of-france-franassois-hollande-warns-that-france-will-not-tolerate-acts-that-threaten-its-security-following-claims-by-wikilea.md)
 President Obama tells his French counterpart, Francois Hollande, that the US is no longer spying on France after the latest Wikileaks revelations.
 
-##### China
+##### Chinese
 ### [The People's Republic of China claims that the Golden Triangle regions of Laos, Myanmar and Thailand are the source of most of its imports of heroin and methamphetamine. The region has been known for drug cultivation for centuries. ](/news/2015/06/24/the-people-s-republic-of-china-claims-that-the-golden-triangle-regions-of-laos-myanmar-and-thailand-are-the-source-of-most-of-its-imports-o.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 

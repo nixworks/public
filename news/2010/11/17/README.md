@@ -59,7 +59,7 @@ The number of U.S. mortgage applications dropped last week by the most this year
 ### [A United States bankruptcy judge orders Bank of America to return $500 million it seized from the bank accounts of the defunct Lehman Brothers trading firm a few weeks before Lehman declared bankruptcy in 2008. ](/news/2010/11/17/a-united-states-bankruptcy-judge-orders-bank-of-america-to-return-500-million-it-seized-from-the-bank-accounts-of-the-defunct-lehman-brothe.md)
 Barclays Plc said disputes over an $11 billion profit it allegedly made buying bankrupt Lehman Brothers Holdings Inc.’s brokerage may not all be resolved in a current trial and might need “further adjudication.”
 
-##### EU
+##### European Union
 ### [EU finance ministers downplay the importance of talks on a potential bailout for Ireland, claiming that no detailed discussions were held on the issue ](/news/2010/11/17/eu-finance-ministers-downplay-the-importance-of-talks-on-a-potential-bailout-for-ireland-claiming-that-no-detailed-discussions-were-held-on.md)
 European finance ministers say they did not hold detailed discussions on a potential bail-out for the Irish Republic at a meeting in Brussels.
 

@@ -9,7 +9,7 @@ A group of Danish rocket enthusiasts trying to launch a dummy 30km into the sky 
 
 ##### United Kingdom
 ### [The five contenders to be leader of the United Kingdom Labour Party hold a debate in Norwich, England. ](/news/2010/09/5/the-five-contenders-to-be-leader-of-the-united-kingdom-labour-party-hold-a-debate-in-norwich-england.md)
-_Context: England, Labour Party, Norwich, United Kingdom_
+_Context: English, Labour Party, Norwich, United Kingdom_
 
 ##### Moldova
 ### [Voters in Moldova go to the polls in a referendum on whether the country's President should be directly elected. ](/news/2010/09/5/voters-in-moldova-go-to-the-polls-in-a-referendum-on-whether-the-country-s-president-should-be-directly-elected.md)

@@ -7,7 +7,7 @@ Formats: [HTML](2009/08/13/index.html)  [JSON](2009/08/13/index.json)  [XML](200
 ### [ A rare signed copy of Adolf Hitler's "Mein Kampf" sells at the Mullock's auction at Ludlow Racecourse, Shropshire, for GBP21,000 (EUR24,400). ](/news/2009/08/13/a-rare-signed-copy-of-adolf-hitleras-mein-kampf-sells-at-the-mullockas-auction-at-ludlow-racecourse-shropshire-for-agbp21-000-a-2.md)
 The collector who sold a rare signed copy of Hitler&rsquo;s Mein Kampf at auction in England yesterday for &pound;21,000 (&euro;24,400) is from&hellip;
 
-##### EU
+##### European Union
 ### [ The European Union will extend its sanctions on Burma to cover members of the judiciary responsible for the verdict in the trial of opposition leader Aung San Suu Kyi. ](/news/2009/08/13/the-european-union-will-extend-its-sanctions-on-burma-to-cover-members-of-the-judiciary-responsible-for-the-verdict-in-the-trial-of-opposit.md)
 The European Union on Thursday said it was extending its sanctions on Myanmar to cover members of the judiciary responsible for the verdict in the trial of opposition leader Aung San Suu Kyi.
 
@@ -23,9 +23,9 @@ _Context: Dadis Must Stay, Guinea, Moussa Dadis Camara, President_
 ### [ Former Afghan President Burhanuddin Rabbani survives an ambush by the Taliban in the Ali Abad District of Kunduz province, Afghanistan. ](/news/2009/08/13/former-afghan-president-burhanuddin-rabbani-survives-an-ambush-by-the-taliban-in-the-ali-abad-district-of-kunduz-province-afghanistan.md)
 _Context: Afghan President, Afghanistan, Ali Abad District, Burhanuddin Rabbani, Kunduz province, Taliban, ambush_
 
-##### Muslim
+##### Muslims
 ### [ At least 23 government soldiers and more than 20 Muslim extremists are killed in a day-long clash in the southern Philippines. ](/news/2009/08/13/at-least-23-government-soldiers-and-more-than-20-muslim-extremists-are-killed-in-a-day-long-clash-in-the-southern-philippines.md)
-_Context: Muslim, Philippines_
+_Context: Muslims, Philippines_
 
 ##### Russia
 ### [ Eleven people, including four policemen, are killed in several separate insurgent attacks in Russia's Republic of Dagestan. ](/news/2009/08/13/eleven-people-including-four-policemen-are-killed-in-several-separate-insurgent-attacks-in-russia-s-republic-of-dagestan.md)

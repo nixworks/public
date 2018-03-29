@@ -21,7 +21,7 @@ _Context: Australia, Victoria, recent bushfires_
 
 ##### Switzerland
 ### [ Switzerland votes on a referendum to make permanent freedom of movement for workers from the European Union. ](/news/2009/02/8/switzerland-votes-on-a-referendum-to-make-permanent-freedom-of-movement-for-workers-from-the-european-union.md)
-_Context: EU, Switzerland, freedom of movement for workers, referendum_
+_Context: European Union, Switzerland, freedom of movement for workers, referendum_
 
 ##### Palestinian
 ### [ Palestinian militants fire two rockets from the Gaza Strip into Israel. ](/news/2009/02/8/palestinian-militants-fire-two-rockets-from-the-gaza-strip-into-israel.md)

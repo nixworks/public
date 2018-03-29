@@ -29,7 +29,7 @@ NASA&#039;s space shuttle fleet began setting records with its first launch on A
 
 ##### General elections
 ### [ Early elections in November are announced in the Netherlands. ](/news/2006/07/1/early-elections-in-november-are-announced-in-the-netherlands.md)
-_Context: Dutch, General elections_
+_Context: General elections, Netherlands_
 
 ## [Previous Day...](/news/2006/06/30/index.md)
 

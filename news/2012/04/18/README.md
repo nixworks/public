@@ -7,7 +7,7 @@ Formats: [HTML](2012/04/18/index.html)  [JSON](2012/04/18/index.json)  [XML](201
 ### [In a rare move for courts in the United Kingdom, television cameras are allowed into the High Court in Edinburgh to film the sentencing of David Gilroy for the murder of Suzanne Pilley. ](/news/2012/04/18/in-a-rare-move-for-courts-in-the-united-kingdom-television-cameras-are-allowed-into-the-high-court-in-edinburgh-to-film-the-sentencing-of-d.md)
 _Context: murder of Suzanne Pilley, the High Court in Edinburgh_
 
-##### China
+##### Chinese
 ### [China pledges an investigation into the death of British businessman Neil Haywood, and the alleged role of former politician Bo Xilai and his wife. ](/news/2012/04/18/china-pledges-an-investigation-into-the-death-of-british-businessman-neil-haywood-and-the-alleged-role-of-former-politician-bo-xilai-and-hi.md)
 China promises a &quot;thorough&quot; investigation into a top politician linked to the death of a UK businessman, after PM David Cameron holds talks with envoy.
 

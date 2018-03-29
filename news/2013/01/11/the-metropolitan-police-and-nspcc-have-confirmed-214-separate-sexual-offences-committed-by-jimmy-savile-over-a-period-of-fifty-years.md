@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/11/the-metropolitan-police-and-nspcc-have-confirme
 
 ### [2013-01-11](/news/2013/01/11/index.md)
 
-##### Metropolitan Police
+##### Police
 # The Metropolitan Police and NSPCC have confirmed 214 separate sexual offences committed by Jimmy Savile over a period of fifty years. 
 
 

@@ -63,29 +63,29 @@ Ireland&#39;s most senior Cardinal, Dr Cahal Daly, is seriously ill in Belfast C
 ### [ Iran declares martial law in Najafabad following a week of protest and 2 days of violence. ](/news/2009/12/28/iran-declares-martial-law-in-najafabad-following-a-week-of-protest-and-2-days-of-violence.md)
 _Context: Najafabad, martial law, recent demonstrations_
 
-##### Muslim
+##### Muslims
 ### [ Clashes between joint military-police forces and an Islamic sect in Bauchi, Nigeria, result in at least 35 deaths. ](/news/2009/12/28/clashes-between-joint-military-police-forces-and-an-islamic-sect-in-bauchi-nigeria-result-in-at-least-35-deaths.md)
-_Context: Bauchi, Muslim, Nigeria_
+_Context: Bauchi, Muslims, Nigeria_
 
 ##### Guangdong
 ### [ Authorities in Guangdong, China shut down a battery factory and commence health checks of all children in the region after it is discovered that dozens of poisoned children had high levels of lead in their blood. ](/news/2009/12/28/authorities-in-guangdong-china-shut-down-a-battery-factory-and-commence-health-checks-of-all-children-in-the-region-after-it-is-discovered.md)
-_Context: China, Guangdong_
+_Context: Chinese, Guangdong_
 
-##### China
+##### Chinese
 ### [ Construction begins on China's largest civil aircraft final assembly base in Shanghai. ](/news/2009/12/28/construction-begins-on-china-s-largest-civil-aircraft-final-assembly-base-in-shanghai.md)
-_Context: China, Shanghai_
+_Context: Chinese, Shanghai_
 
-##### China
+##### Chinese
 ### [ China donates 1.1 million dollars to an irrigation project in Guantanamo Province, Cuba. ](/news/2009/12/28/china-donates-1-1-million-dollars-to-an-irrigation-project-in-guanta-namo-province-cuba.md)
-_Context: China, Cuba, Guantanamo Province_
+_Context: Chinese, Cuba, Guantanamo Province_
 
 ##### Shuangbai County
 ### [ A mine explosion in Shuangbai County, Yunnan causes more deaths to add to those from a similar incident in Jiexiu, Shanxi yesterday, bringing the total deaths for the two incidents to 17, with six other people still trapped. ](/news/2009/12/28/a-mine-explosion-in-shuangbai-county-yunnan-causes-more-deaths-to-add-to-those-from-a-similar-incident-in-jiexiu-shanxi-yesterday-bringi.md)
-_Context: Jiexiu, Shanxi province, Shuangbai County, Yunnan_
+_Context: Jiexiu, Shanxi, Shuangbai County, Yunnan_
 
 ##### Xinhua
 ### [ Xinhua News Agency says China has rescued 25 sailors and the "De Xin Hai", the hijacked Chinese cargo ship, two months after they were seized off Somalia. ](/news/2009/12/28/xinhua-news-agency-says-china-has-rescued-25-sailors-and-the-de-xin-hai-the-hijacked-chinese-cargo-ship-two-months-after-they-were-seiz.md)
-_Context: China, China, De Xin Hai, Somalia, Xinhua_
+_Context: China, Chinese, De Xin Hai, Somalia, Xinhua_
 
 ##### Argentine
 ### [ Two Argentine men become the first gay couple to legally marry in Latin America at a civil ceremony. ](/news/2009/12/28/two-argentine-men-become-the-first-gay-couple-to-legally-marry-in-latin-america-at-a-civil-ceremony.md)

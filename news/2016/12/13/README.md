@@ -21,7 +21,7 @@ The Sultan of Kelantan, Sultan Muhammad V is set to become the 15th Yang di-Pert
 
 ##### Large protests
 ### [Jakarta Governor Basuki Tjahaja Purnama (Ahok) pleads not guilty to charges of blaspheming Islam during a September 27 campaign speech. Ahok is an ethnic Chinese Christian. ](/news/2016/12/13/jakarta-governor-basuki-tjahaja-purnama-ahok-pleads-not-guilty-to-charges-of-blaspheming-islam-during-a-september-27-campaign-speech-ahok.md)
-_Context: Basuki Tjahaja Purnama, Muslim, ethnic Chinese Christian, gubernatorial, large protests_
+_Context: Basuki Tjahaja Purnama, Muslims, ethnic Chinese Christian, gubernatorial, large protests_
 
 ##### Saudi Arabia-United States relations
 ### [The United States is to limit military support to Saudi Arabia's military intervention in Yemen amid concerns over rising civilian casualties. ](/news/2016/12/13/the-united-states-is-to-limit-military-support-to-saudi-arabia-s-military-intervention-in-yemen-amid-concerns-over-rising-civilian-casualtie.md)

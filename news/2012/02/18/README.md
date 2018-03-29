@@ -29,7 +29,7 @@ _Context: China, Yunnan province_
 
 ##### Government
 ### [The Greek Cabinet approves additional austerity measures demanded by the European Union and International Monetary Fund. ](/news/2012/02/18/the-greek-cabinet-approves-additional-austerity-measures-demanded-by-the-european-union-and-international-monetary-fund.md)
-_Context: EU, International Monetary Fund, government_
+_Context: European Union, International Monetary Fund, government_
 
 ##### Italian
 ### [The Italian film "Caesar Must Die" wins the Golden Bear at the 62nd Berlin International Film Festival. ](/news/2012/02/18/the-italian-film-caesar-must-die-wins-the-golden-bear-at-the-62nd-berlin-international-film-festival.md)

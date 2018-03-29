@@ -31,9 +31,9 @@ _Context: Belgrade, Bosnia and Herzegovina, Sarejevo, Serbia_
 ### [ Chinese President Hu Jintao opens the Kazakhstan-China oil pipeline connecting central Asia to China. ](/news/2009/12/13/chinese-president-hu-jintao-opens-the-kazakhstanachina-oil-pipeline-connecting-central-asia-to-china.md)
 _Context: China, Hu Jintao, Kazakhstan-China oil pipeline_
 
-##### Muslim
+##### Muslims
 ### [ Over 100 suspected Islamic militants break into a prison in the Philippine city of Isabela, freeing at least 31 inmates and killing two, including a prison guard. ](/news/2009/12/13/over-100-suspected-islamic-militants-break-into-a-prison-in-the-philippine-city-of-isabela-freeing-at-least-31-inmates-and-killing-two-in.md)
-_Context: Isabela City, Muslim, Philippines_
+_Context: Isabela City, Muslims, Philippines_
 
 ##### Chile
 ### [ Voters in Chile go to the polls in presidential and parliamentary elections. ](/news/2009/12/13/voters-in-chile-go-to-the-polls-in-presidential-and-parliamentary-elections.md)

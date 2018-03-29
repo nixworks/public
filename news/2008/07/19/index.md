@@ -17,7 +17,7 @@ _Context: Cambodia, Prasat Preah Vihear, Thailand, exchange gunfire_
 
 ##### Iran
 ### [ Iran advises a high-level meeting between it, the United States and European Union in Geneva over its nuclear program saying that it will not suspend production of enriched uranium. ](/news/2008/07/19/iran-advises-a-high-level-meeting-between-it-the-united-states-and-european-union-in-geneva-over-its-nuclear-program-saying-that-it-will-n.md)
-_Context: EU, Iran, United States, enriched uranium, nuclear program_
+_Context: European Union, Iran, United States, enriched uranium, nuclear program_
 
 ##### Jammu and Kashmir
 ### [ In Jammu and Kashmir 10 Indian army soldiers are killed in land mine attack claimed by Hizbul Mujahideen ](/news/2008/07/19/in-jammu-and-kashmir-10-indian-army-soldiers-are-killed-in-land-mine-attack-claimed-by-hizbul-mujahideen.md)

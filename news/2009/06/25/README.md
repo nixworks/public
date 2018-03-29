@@ -9,7 +9,7 @@ _Context: Cristiano Ronaldo, Manchester United, Real Madrid_
 
 ##### Qantas Airways
 ### [ Qantas Airways cancelled half of a 30-plan order for 787 Dreamliners from Boeing Co., a cancellation that may amount to a $3.1 billion hit for Boeing. ](/news/2009/06/25/qantas-airways-cancelled-half-of-a-30-plan-order-for-787-dreamliners-from-boeing-co-a-cancellation-that-may-amount-to-a-3-1-billion-hit.md)
-_Context: Boeing, Boeing 787, Qantas Airways_
+_Context: Boeing 787, Qantas Airways, The Boeing Company_
 
 ##### Honduras
 ### [ Honduran President Manuel Zelaya fires his armed forces chief after he refuses to give logistical support for a referendum on constitutional change. The Supreme Court then orders that he be returned to his job immediately. ](/news/2009/06/25/honduran-president-manuel-zelaya-fires-his-armed-forces-chief-after-he-refuses-to-give-logistical-support-for-a-referendum-on-constitutiona.md)

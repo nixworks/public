@@ -11,9 +11,9 @@ _Context: Alliance of Free Democrats, Hungarian Socialist Party, Hungary, Pter M
 ### [ Shares of stock in Google, Inc. begin trading on the NASDAQ stock exchange at around $100 per share in one of the most highly anticipated initial public offerings of the year. It is estimated that the IPO raised a total of $1.66 billion, the third highest ever for an IPO. ](/news/2004/08/19/shares-of-stock-in-google-inc-begin-trading-on-the-nasdaq-stock-exchange-at-around-100-per-share-in-one-of-the-most-highly-anticipated-i.md)
 _Context: Google, NASDAQ, initial public offering, stock, stock exchange_
 
-##### Nature Astronomy
+##### Nature
 ### [ "Nature" magazine reveals that five new satellites and a further candidate moon have been discovered orbiting Neptune, bringing its tally to 13. ](/news/2004/08/19/nature-magazine-reveals-that-five-new-satellites-and-a-further-candidate-moon-have-been-discovered-orbiting-neptune-bringing-its-tally-t.md)
-_Context: Nature Astronomy, Neptune, moon_
+_Context: Nature, Neptune, moon_
 
 ##### Israel
 ### [ Israel's prime minister, Ariel Sharon, vows to press on with his disengagement plan, despite it receiving another rejection from his Likud party. ](/news/2004/08/19/israel-s-prime-minister-ariel-sharon-vows-to-press-on-with-his-disengagement-plan-despite-it-receiving-another-rejection-from-his-likud.md)

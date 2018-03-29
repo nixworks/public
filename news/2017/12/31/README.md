@@ -5,7 +5,7 @@ Formats: [HTML](2017/12/31/index.html)  [JSON](2017/12/31/index.json)  [XML](201
 
 ##### Palestine-United States relations
 ### [Palestine recalls their envoy to the United States for "consultations," following President Trump's recognition of Jerusalem as the capital of Israel. Palestine President Mahmoud Abbas says they will not accept any U.S. peace plan in the wake of Trump's move. ](/news/2017/12/31/palestine-recalls-their-envoy-to-the-united-states-for-consultations-following-president-trump-s-recognition-of-jerusalem-as-the-capital.md)
-_Context: Jerusalem, Mahmoud Abbas, Palestine-United States relations, President, President of the State of Palestine, Trump, peace plan_
+_Context: Donald Trump, Jerusalem, Mahmoud Abbas, Palestine-United States relations, President, President of the State of Palestine, peace plan_
 
 ##### 2017 Iranian protests
 ### [Iran blocks access to Telegram and Instagram as the largest anti-government protests since 2009 continue. ](/news/2017/12/31/iran-blocks-access-to-telegram-and-instagram-as-the-largest-anti-government-protests-since-2009-continue.md)

@@ -11,9 +11,9 @@ _Context: Pakistan Air Force, Punjab Province, suicide bomber_
 ### [ Flash floods in central Vietnam kill at least 13 people and injure 31 with 14,000 homes submerged in QuGBPng Tri, QuGBPng Binh and QuGBPng Nam provinces. ](/news/2007/11/1/flash-floods-in-central-vietnam-kill-at-least-13-people-and-injure-31-with-14-000-homes-submerged-in-quaogbpng-tra-quaogbpng-ba-nh-and-q.md)
 Flash floods killed at least 13 people and injured 31 in central Vietnam this week and more heavy rain over the next few days could add to the damage, the government said on Thursday. About 14,000 homes were submerged in Quang Tri, Quang Binh, Quang Nam provinces, it said. A tropical pressure system...
 
-##### Metropolitan Police
+##### Police
 ### [ The London Metropolitan Police is found guilty of violations of Health and Safety law over the shooting of Jean Charles de Menezes on the London Underground in July 2005, and is fined GBP175,000 and ordered to pay GBP385,000 in legal costs. ](/news/2007/11/1/the-london-metropolitan-police-is-found-guilty-of-violations-of-health-and-safety-law-over-the-shooting-of-jean-charles-de-menezes-on-the-l.md)
-_Context: Health and Safety law, Jean Charles de Menezes, London Underground, Metropolitan Police_
+_Context: Health and Safety law, Jean Charles de Menezes, London Underground, Police_
 
 ##### 2007 Tabasco flood
 ### [ 2007 Tabasco flood: Massive flooding hits the Mexican state of Tabasco, with Governor Andres Granier estimating that 80% of its 25,000 km2 surface area is underwater. ](/news/2007/11/1/2007-tabasco-flood-massive-flooding-hits-the-mexican-state-of-tabasco-with-governor-andra-c-s-granier-estimating-that-80-of-its-25-000-kma.md)

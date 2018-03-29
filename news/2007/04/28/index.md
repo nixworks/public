@@ -13,7 +13,7 @@ _Context: 29th Dil, Irish, Irish general election, Mary McAleese, President_
 
 ##### An earthquake
 ### [ An earthquake of magnitude 4.3 on the Richter scale strikes Kent, England. ](/news/2007/04/28/an-earthquake-of-magnitude-4-3-on-the-richter-scale-strikes-kent-england.md)
-_Context: An earthquake, England, Kent, Richter scale_
+_Context: An earthquake, English, Kent, Richter scale_
 
 ##### Turkey
 ### [ Turkey's army warns against questioning the country's secular system after a disputed first-round presidential vote in parliament. ](/news/2007/04/28/turkey-s-army-warns-against-questioning-the-country-s-secular-system-after-a-disputed-first-round-presidential-vote-in-parliament.md)

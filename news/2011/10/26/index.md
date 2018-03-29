@@ -31,7 +31,7 @@ Col Muammar Gaddafi&#039;s fugitive son and his intelligence chief are trying to
 ### [Former Goldman Sachs and Procter and Gamble director Rajat Gupta pleads not guilty to the charge of leaking confidential information to convicted fraudster Raj Rajaratnam. ](/news/2011/10/26/former-goldman-sachs-and-procter-and-gamble-director-rajat-gupta-pleads-not-guilty-to-the-charge-of-leaking-confidential-information-to-conv.md)
 _Context: Goldman Sachs, Procter and Gamble, Raj Rajaratnam, Rajat Gupta_
 
-##### EU
+##### European Union
 ### [European Union leaders hold an emergency meeting to discuss the European sovereign debt crisis. ](/news/2011/10/26/european-union-leaders-hold-an-emergency-meeting-to-discuss-the-european-sovereign-debt-crisis.md)
 Eurozone leaders holding a summit on the debt crisis find agreement on recapitalising banks, but late-night talks on a comprehensive deal are still continuing.
 

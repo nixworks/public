@@ -57,7 +57,7 @@ _Context: bacteria, genetic material, synthetic life_
 
 ##### TAAG-Angola Airlines
 ### [ A TAAG-Angola Airlines Boeing 737 crashes in northern Angola, resulting in the death of at least five passengers on the same day the European Union bans the airline from European airspace. ](/news/2007/06/28/a-taag-angola-airlines-boeing-737-crashes-in-northern-angola-resulting-in-the-death-of-at-least-five-passengers-on-the-same-day-the-europe.md)
-_Context: Angola, Boeing 737, EU, Europe, TAAG-Angola Airlines, airline, airspace_
+_Context: Angola, Boeing 737, Europe, European Union, TAAG-Angola Airlines, airline, airspace_
 
 ##### Russia
 ### [ Russia successfully test fires a sea-based ballistic missile, the Bulava. ](/news/2007/06/28/russia-successfully-test-fires-a-sea-based-ballistic-missile-the-bulava.md)

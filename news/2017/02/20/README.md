@@ -5,7 +5,7 @@ Formats: [HTML](2017/02/20/index.html)  [JSON](2017/02/20/index.json)  [XML](201
 
 ##### Formation of Donald Trump's cabinet
 ### [President Donald Trump names United States Army Lt. General H. R. McMaster as National Security Advisor and says that U.S. Lt. Gen. Keith Kellogg, who has been the acting NSA, will remain as the NSC's Chief of Staff. ](/news/2017/02/20/president-donald-trump-names-united-states-army-lt-general-h-r-mcmaster-as-national-security-advisor-and-says-that-u-s-lt-gen-keith-ke.md)
-_Context: Formation of Donald Trump's cabinet, H. R. McMaster, Keith Kellogg, President, Trump, US National Security Advisor, United States soldier_
+_Context: Donald Trump, Formation of Donald Trump's cabinet, H. R. McMaster, Keith Kellogg, President, US National Security Advisor, United States soldier_
 
 ##### Russia
 ### [Russia's Permanent Representative to the United Nations Vitaly Churkin dies suddenly in New York City. He would have turned 65 on Tuesday. ](/news/2017/02/20/russia-s-permanent-representative-to-the-united-nations-vitaly-churkin-dies-suddenly-in-new-york-city-he-would-have-turned-65-on-tuesday.md)

@@ -45,7 +45,7 @@ _Context: Hong Kong_
 
 ##### Hamas
 ### [ Hamas police claim to have killed Abdel-Latif Moussa, head of the Islamic group Jund Ansar Allah in a shootout. ](/news/2009/08/15/hamas-police-claim-to-have-killed-abdel-latif-moussa-head-of-the-islamic-group-jund-ansar-allah-in-a-shootout.md)
-_Context: Abdel-Latif Moussa, Hamas, Jund Ansar Allah, Muslim, shootout_
+_Context: Abdel-Latif Moussa, Hamas, Jund Ansar Allah, Muslims, shootout_
 
 ## [Previous Day...](/news/2009/08/14/index.md)
 

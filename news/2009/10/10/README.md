@@ -11,9 +11,9 @@ _Context: Gazprom, Russia, St Petersburg_
 ### [ The Argentine Senate passes a controversial media bill regarding the ownership of media outlets in the country. ](/news/2009/10/10/the-argentine-senate-passes-a-controversial-media-bill-regarding-the-ownership-of-media-outlets-in-the-country.md)
 More than 200 modifications
 
-##### Muslim
+##### Muslims
 ### [ More than 40 people are arrested after clashes between anti-Islamic and anti-racist demonstrations in Manchester, England. ](/news/2009/10/10/more-than-40-people-are-arrested-after-clashes-between-anti-islamic-and-anti-racist-demonstrations-in-manchester-england.md)
-_Context: England, Manchester, Muslim, racial bias_
+_Context: English, Manchester, Muslims, racial bias_
 
 ##### United States
 ### [ United States President Barack Obama announces he will end the "Don't ask, don't tell" policy against homosexuals serving in the U.S. military. ](/news/2009/10/10/united-states-president-barack-obama-announces-he-will-end-the-don-t-ask-don-t-tell-policy-against-homosexuals-serving-in-the-u-s-milit.md)

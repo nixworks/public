@@ -9,7 +9,7 @@ _Context: Kim Jong-il, North Korea_
 
 ##### Anti-Counterfeiting Trade Agreement
 ### [ACTA loses further support in Europe as Bulgaria and the Netherlands join Poland and Germany in declining to ratify it due to privacy and human rights concerns. ](/news/2012/02/15/acta-loses-further-support-in-europe-as-bulgaria-and-the-netherlands-join-poland-and-germany-in-declining-to-ratify-it-due-to-privacy-and-hu.md)
-_Context: Anti-Counterfeiting Trade Agreement, Bulgaria, Dutch, Europe, Germany, Polish_
+_Context: Anti-Counterfeiting Trade Agreement, Bulgaria, Europe, Germany, Netherlands, Polish_
 
 ##### Texas Christian University
 ### [Seventeen students at Texas Christian University in the U.S., including four members of the school's football team, are arrested on drug charges. An arrest warrant for one of the players alleges that drug use was rampant on the team and that at least three of the players were dealing drugs. ](/news/2012/02/15/seventeen-students-at-texas-christian-university-in-the-u-s-including-four-members-of-the-school-s-football-team-are-arrested-on-drug-cha.md)

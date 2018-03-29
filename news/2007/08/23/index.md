@@ -17,7 +17,7 @@ _Context: Ford, Victoria, industrial dispute_
 
 ##### Liverpool
 ### [ Two youths aged 18 and 14 are arrested in Liverpool, England on suspicion of shooting dead an 11-year-old boy in Croxteth. ](/news/2007/08/23/two-youths-aged-18-and-14-are-arrested-in-liverpool-england-on-suspicion-of-shooting-dead-an-11-year-old-boy-in-croxteth.md)
-_Context: Croxteth, England, Liverpool_
+_Context: Croxteth, English, Liverpool_
 
 ##### Hurricane Dean
 ### [ Hurricane Dean is downgraded to a tropical depression over Mexico after killing 20 people in the Caribbean. ](/news/2007/08/23/hurricane-dean-is-downgraded-to-a-tropical-depression-over-mexico-after-killing-20-people-in-the-caribbean.md)
@@ -35,7 +35,7 @@ _Context: Al Qaeda in Iraq, Baquba, Iraq, Sunni, mosque_
 ### [ MySpace and MTV join forces to let candidates in the 2008 United States presidential election hold online webcasts with young people. ](/news/2007/08/23/myspace-and-mtv-join-forces-to-let-candidates-in-the-2008-united-states-presidential-election-hold-online-webcasts-with-young-people.md)
 The Age 404 Page
 
-##### EU
+##### European Union
 ### [ The European Union lifts a ban on the export of British livestock, meat and dairy products imposed after a recent foot and mouth disease outbreak in Surrey. ](/news/2007/08/23/the-european-union-lifts-a-ban-on-the-export-of-british-livestock-meat-and-dairy-products-imposed-after-a-recent-foot-and-mouth-disease-ou.md)
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 

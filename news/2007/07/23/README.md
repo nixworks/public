@@ -7,7 +7,7 @@ Formats: [HTML](2007/07/23/index.html)  [JSON](2007/07/23/index.json)  [XML](200
 ### [ Comedian Drew Carey will replace Bob Barker as host of "The Price Is Right". ](/news/2007/07/23/comedian-drew-carey-will-replace-bob-barker-as-host-of-the-price-is-right.md)
 _Context: Bob Barker, Drew Carey, The Price Is Right_
 
-##### China
+##### Chinese
 ### [ Storms continue in China with floods and landslides with 150 deaths occurring last week in the country due to storms. ](/news/2007/07/23/storms-continue-in-china-with-floods-and-landslides-with-150-deaths-occurring-last-week-in-the-country-due-to-storms.md)
 Storms are expected to batter large swathes of China again on Monday after floods, landslides and lightning killed more than 150 people last week alone, state media said.
 

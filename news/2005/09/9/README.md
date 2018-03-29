@@ -29,7 +29,7 @@ _Context: Adrienne Clarkson, Canada, China, Chinese President, Governor General 
 
 ##### Belgian Air Force
 ### [ During a military exercise, a Belgian Air Force F-16 fighter jet crashes in the Wadden Sea (Waddenzee), near the Dutch island of Vlieland. The pilot failed to eject, and died in the crash. ](/news/2005/09/9/during-a-military-exercise-a-belgian-air-force-f-16-fighter-jet-crashes-in-the-wadden-sea-waddenzee-near-the-dutch-island-of-vlieland.md)
-_Context: Belgian Air Force, Dutch, F-16, Vlieland, Wadden Sea, ejected_
+_Context: Belgian Air Force, F-16, Netherlands, Vlieland, Wadden Sea, ejected_
 
 ##### Department of Homeland Security
 ### [ United States Department of Homeland Security Secretary Michael Chertoff appoints Vice Admiral Thad W. Allen, chief of staff of the United States Coast Guard, to direct Hurricane Katrina relief efforts in New Orleans, in place of Federal Emergency Management Agency director Michael D. Brown, who returns to Washington to direct planning for future disaster relief. ](/news/2005/09/9/united-states-department-of-homeland-security-secretary-michael-chertoff-appoints-vice-admiral-thad-w-allen-chief-of-staff-of-the-united.md)

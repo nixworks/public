@@ -127,9 +127,9 @@ _Context: MTV, The Buggles, Video Killed the Radio Star_
 ### [Pope Benedict XVI refuses the resignations of Irish bishops Eamonn Walsh and Raymond Field, who resigned at Christmas over criticism in the Murphy Report into child sexual abuse. ](/news/2010/08/11/pope-benedict-xvi-refuses-the-resignations-of-irish-bishops-eamonn-walsh-and-raymond-field-who-resigned-at-christmas-over-criticism-in-the.md)
 Pope Benedict XVI declines to accept the resignations of two Irish bishops who stood down at Christmas.
 
-##### Muslim
+##### Muslims
 ### [Millions of Muslims begin the holy month of Ramadan in which they are required to fast between sunrise and sunset. ](/news/2010/08/11/millions-of-muslims-begin-the-holy-month-of-ramadan-in-which-they-are-required-to-fast-between-sunrise-and-sunset.md)
-_Context: Muslim, Ramadan, fast, rises, sunset_
+_Context: Muslims, Ramadan, fast, rises, sunset_
 
 ##### Iraq
 ### [8 Iraqi soldiers are killed and 4 others are wounded by an explosion at a house in Diyala. ](/news/2010/08/11/8-iraqi-soldiers-are-killed-and-4-others-are-wounded-by-an-explosion-at-a-house-in-diyala.md)

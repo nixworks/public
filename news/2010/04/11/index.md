@@ -45,7 +45,7 @@ _Context: Kurmanbek Bakiyev, Kyrgyzstan, president, the recent unrest_
 
 ##### Democratic Front for the Liberation of Palestine
 ### [The Democratic Front for the Liberation of Palestine (DFLP) asks China to pressure Israel to have its nuclear sites inspected during the forthcoming international nuclear conference, saying "world silence on the issue of the Israeli nuclear capabilities is creating tension in the region, especially with the relentless international focus on Iran and North Korea". ](/news/2010/04/11/the-democratic-front-for-the-liberation-of-palestine-dflp-asks-china-to-pressure-israel-to-have-its-nuclear-sites-inspected-during-the-for.md)
-_Context: China, Democratic Front for the Liberation of Palestine, Iran, Israel, North Korea_
+_Context: Chinese, Democratic Front for the Liberation of Palestine, Iran, Israel, North Korea_
 
 ##### Israel
 ### [Israel is set to impose a military order, which ten human rights groups fear could see thousands of Palestinians deported from the West Bank if they do not have a residency permit. ](/news/2010/04/11/israel-is-set-to-impose-a-military-order-which-ten-human-rights-groups-fear-could-see-thousands-of-palestinians-deported-from-the-west-bank.md)

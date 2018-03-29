@@ -5,7 +5,7 @@ Formats: [HTML](2009/08/7/index.html)  [JSON](2009/08/7/index.json)  [XML](2009/
 
 ##### Shia
 ### [ Bomb attacks on a Shia mosque and pilgrims at Shreikhan village near Mosul kill at least 36 people as Iraq's largest Muslim community marks one of its biggest feasts, gathering in Karbala to mark the birth of Muhammad al-Mahdi. ](/news/2009/08/7/bomb-attacks-on-a-shia-mosque-and-pilgrims-at-shreikhan-village-near-mosul-kill-at-least-36-people-as-iraq-s-largest-muslim-community-marks.md)
-_Context: Iraq, Karbala, Mosul, Muhammad al-Mahdi, Muslim, Shia, Shreikhan_
+_Context: Iraq, Karbala, Mosul, Muhammad al-Mahdi, Muslims, Shia, Shreikhan_
 
 ##### Ronnie Biggs
 ### [ Ronnie Biggs, one of the participants of the Great Train Robbery, is freed on medical grounds. ](/news/2009/08/7/ronnie-biggs-one-of-the-participants-of-the-great-train-robbery-is-freed-on-medical-grounds.md)

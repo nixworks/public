@@ -19,9 +19,9 @@ _Context: Romanian President, Traian Basescu, presidential impeachment referendu
 ### [Multi-platinum recording artists and American girl-group Fifth Harmony were put together on this very day on the The X Factor USA. ](/news/2012/07/27/multi-platinum-recording-artists-and-american-girl-group-fifth-harmony-were-put-together-on-this-very-day-on-the-the-x-factor-usa.md)
 _Context: Fifth Harmony, The X Factor USA_
 
-##### China
+##### Chinese
 ### [Lawyers for imprisoned disabled Chinese rights activist Ni Yulan challenge her convictions for fraud and "picking quarrels" in court. ](/news/2012/07/27/lawyers-for-imprisoned-disabled-chinese-rights-activist-ni-yulan-challenge-her-convictions-for-fraud-and-picking-quarrels-in-court.md)
-_Context: China, Ni Yulan, picking quarrels_
+_Context: Chinese, Ni Yulan, picking quarrels_
 
 ##### United Nations
 ### [United Nations Secretary-General Ban Ki-moon urges countries to bridge differences ahead of a deadline for a draft of a new global agreement to control international arms sales. Despite this, no agreement is reached. ](/news/2012/07/27/united-nations-secretary-general-ban-ki-moon-urges-countries-to-bridge-differences-ahead-of-a-deadline-for-a-draft-of-a-new-global-agreement.md)

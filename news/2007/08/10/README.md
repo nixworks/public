@@ -5,11 +5,11 @@ Formats: [HTML](2007/08/10/index.html)  [JSON](2007/08/10/index.json)  [XML](200
 
 ##### United Kingdom
 ### [ Britain's Chief Veterinary Officer Debby Reynolds raises concern about another possible outbreak of foot-and-mouth disease in England. ](/news/2007/08/10/britain-s-chief-veterinary-officer-debby-reynolds-raises-concern-about-another-possible-outbreak-of-foot-and-mouth-disease-in-england.md)
-_Context: Debby Reynolds, England, United Kingdom, outbreak of 2007_
+_Context: Debby Reynolds, English, United Kingdom, outbreak of 2007_
 
 ##### United States
 ### [ Envoys from the United States, European Union and Russia visit Serbia and Kosovo seeking a solution to the Kosovo issue. ](/news/2007/08/10/envoys-from-the-united-states-european-union-and-russia-visit-serbia-and-kosovo-seeking-a-solution-to-the-kosovo-issue.md)
-_Context: EU, Kosovo, Russia, Serbia, United States_
+_Context: European Union, Kosovo, Russia, Serbia, United States_
 
 ##### East Timor
 ### [ East Timor faces a humanitarian crisis as hundreds of houses are burnt down near Viqueque and affected villagers flee to the mountains. ](/news/2007/08/10/east-timor-faces-a-humanitarian-crisis-as-hundreds-of-houses-are-burnt-down-near-viqueque-and-affected-villagers-flee-to-the-mountains.md)

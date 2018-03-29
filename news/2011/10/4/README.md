@@ -21,7 +21,7 @@ _Context: Democrat, Earl Ray Tomblin, Governor of West Virginia, US state, West 
 
 ##### European Court of Justice
 ### [The European Court of Justice rules against "the imposition of national borders to sell broadcasting rights on a territory-by-territory basis", as this is in contravention of EU laws on free trade. It would allow members of the public to seek cheaper providers of Premier League football, whilst finding against a landlady who used Greek television to show live football in her public house. ](/news/2011/10/4/the-european-court-of-justice-rules-against-the-imposition-of-national-borders-to-sell-broadcasting-rights-on-a-territory-by-territory-basi.md)
-_Context: EU, English Premier League, European Court of Justice, public house_
+_Context: English Premier League, European Court of Justice, European Union, public house_
 
 ##### Russia
 ### [Russia and the People's Republic of China veto a United Nations Security Council resolution condemning Syria for a crackdown on political protestors. ](/news/2011/10/4/russia-and-the-people-s-republic-of-china-veto-a-united-nations-security-council-resolution-condemning-syria-for-a-crackdown-on-political-pr.md)
@@ -47,7 +47,7 @@ _Context: Cambodia, Mekong River, flash flood_
 ### [Technology company Apple Inc. announces its much-anticipated iPhone 4S at Apple's Cupertino campus. ](/news/2011/10/4/technology-company-apple-inc-announces-its-much-anticipated-iphone-4s-at-apple-s-cupertino-campus.md)
 New phone offers faster processing and downloads, a greatly improved camera and voice-activated assistance. Heading to Sprint for first time.
 
-##### EU
+##### European Union
 ### [Regulators in the European Union are close to making a formal announcement that they object to a proposed merger of NYSE Euronext with Deutsche Boerse AG, according to an anonymous source cited by Reuters. ](/news/2011/10/4/regulators-in-the-european-union-are-close-to-making-a-formal-announcement-that-they-object-to-a-proposed-merger-of-nyse-euronext-with-deuts.md)
 EU regulators are set toformally object to the proposed merger of Deutsche Boerse(DB1Gn.DE) and NYSE Euronext this week, a source withknowledge of the case said on Tuesday.
 

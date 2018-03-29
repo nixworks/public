@@ -5,7 +5,7 @@ Formats: [HTML](2004/04/1/index.html)  [JSON](2004/04/1/index.json)  [XML](2004/
 
 ##### Neil H. Shubin
 ### [ Neil H. Shubin of the University of Chicago reports in the journal "Nature" the discovery of a 365-million-year-old forelimb in Pennsylvania, representing the evolution of fish to land-dwelling animals. ](/news/2004/04/1/neil-h-shubin-of-the-university-of-chicago-reports-in-the-journal-nature-the-discovery-of-a-365-million-year-old-forelimb-in-pennsylvani.md)
-_Context: Nature Astronomy, Neil H. Shubin, Pennsylvania, University of Chicago_
+_Context: Nature, Neil H. Shubin, Pennsylvania, University of Chicago_
 
 ##### Same-sex marriage in Canada
 ### [ Same-sex marriage in Canada: Michael Hendricks and Ren Leboeuf become the first same-sex couple to legally wed in Quebec. ](/news/2004/04/1/same-sex-marriage-in-canada-michael-hendricks-and-rene-leboeuf-become-the-first-same-sex-couple-to-legally-wed-in-quebec.md)

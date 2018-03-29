@@ -27,8 +27,8 @@ A book about Spain&rsquo;s drug-smuggling underworld banned last week by a Madri
 ### [A United Kingdom panel, chaired by the former head of the Home civil service, Lord Bob Kerslake, issues a report which concludes that firefighters were prevented from attending the scene of the bombing for two hours. The report makes more than 50 recommendations. ](/news/2018/03/27/a-united-kingdom-panel-chaired-by-the-former-head-of-the-home-civil-service-lord-bob-kerslake-issues-a-report-which-concludes-that-firefi.md)
 _Context: Bob Kerslake, Manchester Arena bombing, United Kingdom, firefighters, head of the Home civil service_
 
-##### Dutch
-### [The government of The Netherlands recalls a diplomat from the country of Turkey after local newspapers accused him of spying. ](/news/2018/03/27/the-government-of-the-netherlands-recalls-a-diplomat-from-the-country-of-turkey-after-local-newspapers-accused-him-of-spying.md)
+##### Netherlands-Turkey relations
+### [The government of the Netherlands recalls a diplomat from Turkey after local newspapers accused him of spying. ](/news/2018/03/27/the-government-of-the-netherlands-recalls-a-diplomat-from-turkey-after-local-newspapers-accused-him-of-spying.md)
 The Dutch diplomat outed as a spy in Turkish newspapers has been brought back to the Netherlands for his own...
 
 ##### Reactions to the poisoning of Sergei and Yulia Skripal
@@ -39,29 +39,25 @@ Australia has become the latest country to expel Russian diplomats following the
 ### [North Korean Supreme leader Kim Jong-un meets with with Chinese President Xi Jinping in Beijing, on what is his first known travel outside North Korea since assuming office in 2011. ](/news/2018/03/27/north-korean-supreme-leader-kim-jong-un-meets-with-with-chinese-president-xi-jinping-in-beijing-on-what-is-his-first-known-travel-outside-n.md)
 China said on Wednesday North Korean leader Kim Jong Un pledged to denuclearize the Korean peninsula during an historic meeting in Beijing with President Xi Jinping, who promised China would uphold its friendship with its isolated neighbor.
 
-##### Aviation and Railway Accident Investigation Board
+##### 2018 in aviation
 ### [The South Korean Aviation and Railway Accident Investigation Board issues its final report on a near-collision between a China Southern Airbus A319 and a Korean Air Boeing 737-800 on a runway in Cheongju, South Korea. The Board reports the Airbus crew misunderstood the full meaning of the specific ground control runway instruction. ](/news/2018/03/27/the-south-korean-aviation-and-railway-accident-investigation-board-issues-its-final-report-on-a-near-collision-between-a-china-southern-airb.md)
-_Context: Airbus A319, Aviation and Railway Accident Investigation Board, Boeing 737-800, Cheongju, China Southern, Korean Air, South Korea_
-
-##### United States
-### [The United States National Transportation Safety Board (NTSB) launches a probe into a Tesla electric car crash and fire in California. The NTSB says it will investigate issues firefighters had trying to determine how to respond. ](/news/2018/03/27/the-united-states-national-transportation-safety-board-ntsb-launches-a-probe-into-a-tesla-electric-car-crash-and-fire-in-california-the-n.md)
-The U.S. National Transportation Safety Board is sending two investigators to examine issues raised by a Tesla Inc. crash in California.
-
-##### Malaysian Maritime Enforcement Agency
-### [Malaysian Maritime Enforcement Agency (MMEA) expands the search area to 560 square nautical miles for nine crewmen missing since March 21 from a capsized sand dredger off the coast of Malaysia. MMEA requests for the Indonesian National Search and Rescue Agency to assist in the operation. ](/news/2018/03/27/malaysian-maritime-enforcement-agency-mmea-expands-the-search-area-to-560-square-nautical-miles-for-nine-crewmen-missing-since-march-21-fr.md)
- JOHOR BAHRU, March 27&nbsp;—&nbsp;The search and rescue (SAR) operation to look for nine missing crew members of the capsized sand-dredging vessel, JBB Rong Chang 8, was expanded today. Malaysian Maritime Enforcement Agency (MMEA) Southern Region deputy
+_Context: 2018 in aviation, Airbus A319, Aviation and Railway Accident Investigation Board, Boeing 737-800, Cheongju, China Southern, Korean Air, South Korea_
 
 ##### 2017-18 Volvo Ocean Race
 ### [Chilean search and rescue authorities declare that a crewman who fell overboard from a competitor vessel is lost at sea. ](/news/2018/03/27/chilean-search-and-rescue-authorities-declare-that-a-crewman-who-fell-overboard-from-a-competitor-vessel-is-lost-at-sea.md)
 A British sailor competing in the Volvo Ocean Race who fell overboard on Monday has now been declared &ldquo;lost at sea&rdquo;.
 
-##### Great Belt
+##### Maritime incidents in 2018
 ### [Two ships collide in the Great Belt strait between Funen and Zealand, near Romso, Denmark. One catches fire. ](/news/2018/03/27/two-ships-collide-in-the-great-belt-strait-between-funen-and-zealand-near-romsa-denmark-one-catches-fire.md)
 A container ship and a merchant ship collided in the Great Belt strait between the Danish islands of Funen and Zealand on Tuesday morning.
 
 ##### 2018 Kemerovo fire
 ### [President Vladimir Putin visits the scene and declares "criminal negligence" responsible for the high death toll. ](/news/2018/03/27/president-vladimir-putin-visits-the-scene-and-declares-criminal-negligence-responsible-for-the-high-death-toll.md)
 At least 64 people - 41 of them children - died in a shopping mall fire and many are feared missing.
+
+##### United States
+### [The United States National Transportation Safety Board (NTSB) launches a probe into a Tesla electric car crash and fire in California. The NTSB says it will investigate issues firefighters had trying to determine how to respond. ](/news/2018/03/27/the-united-states-national-transportation-safety-board-ntsb-launches-a-probe-into-a-tesla-electric-car-crash-and-fire-in-california-the-n.md)
+The U.S. National Transportation Safety Board is sending two investigators to examine issues raised by a Tesla Inc. crash in California.
 
 ##### History of autonomous cars
 ### [U.S. graphics processing unit producer Nvidia suspends all its tests of self-driving cars. ](/news/2018/03/27/u-s-graphics-processing-unit-producer-nvidia-suspends-all-its-tests-of-self-driving-cars.md)

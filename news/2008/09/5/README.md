@@ -7,13 +7,13 @@ Formats: [HTML](2008/09/5/index.html)  [JSON](2008/09/5/index.json)  [XML](2008/
 ### [ Quentin Bryce is sworn in as the first female Governor-General of Australia. ](/news/2008/09/5/quentin-bryce-is-sworn-in-as-the-first-female-governor-general-of-australia.md)
 _Context: Governor-General of Australia, Quentin Bryce_
 
-##### EU
+##### European Union
 ### [ The European Union's "Rosetta" spacecraft performs a flyby of the asteroid 2867 Steins. ](/news/2008/09/5/the-european-union-s-rosetta-spacecraft-performs-a-flyby-of-the-asteroid-2867-a-teins.md)
-_Context: ''Rosetta'' space probe, 2867 Steins, EU, asteroid_
+_Context: ''Rosetta'' space probe, 2867 Steins, European Union, asteroid_
 
 ##### La Princesse
 ### [ La Princesse, a giant mechanical spider, starts to roam the streets of Liverpool, England, as part of the 2008 European City of Culture celebrations. ](/news/2008/09/5/la-princesse-a-giant-mechanical-spider-starts-to-roam-the-streets-of-liverpool-england-as-part-of-the-2008-european-city-of-culture-cel.md)
-_Context: England, European City of Culture, La Princesse, Liverpool_
+_Context: English, European City of Culture, La Princesse, Liverpool_
 
 ##### Unemployment
 ### [ The unemployment rate in the United States rises to its highest level since December 2003 after the US economy loses 84,000 jobs in August 2008. ](/news/2008/09/5/the-unemployment-rate-in-the-united-states-rises-to-its-highest-level-since-december-2003-after-the-us-economy-loses-84-000-jobs-in-august.md)

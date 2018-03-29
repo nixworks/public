@@ -5,7 +5,7 @@ Formats: [HTML](2010/04/3/index.html)  [JSON](2010/04/3/index.json)  [XML](2010/
 
 ##### Cambridge Boat Club
 ### [Cambridge Boat Club defeats Oxford Boat Club to win the 156th University Boat Race in London, England. ](/news/2010/04/3/cambridge-boat-club-defeats-oxford-boat-club-to-win-the-156th-university-boat-race-in-london-england.md)
-_Context: 156th University Boat Race, Cambridge Boat Club, England, London, Oxford Boat Club_
+_Context: 156th University Boat Race, Cambridge Boat Club, English, London, Oxford Boat Club_
 
 ##### Red shirt
 ### [Thousands of "red shirt" anti-government protesters rally in the Thai capital Bangkok demanding new elections. ](/news/2010/04/3/thousands-of-red-shirt-anti-government-protesters-rally-in-the-thai-capital-bangkok-demanding-new-elections.md)
@@ -19,9 +19,9 @@ _Context: African Renaissance Monument, Dakar, Senegal, Statue of Liberty_
 ### [Eight people are missing and one dies as a fishing boat sinks while searching for the South Korean "Cheonan" warship that sank last week near the Northern Limit Line border with North Korea. ](/news/2010/04/3/eight-people-are-missing-and-one-dies-as-a-fishing-boat-sinks-while-searching-for-the-south-korean-cheonan-warship-that-sank-last-week-nea.md)
 _Context: North Korea, Northern Limit Line, ROKS ''Cheonan'', South Korea, sinking_
 
-##### Shanxi province
+##### Shanxi
 ### [Rescuers enter a flooded mine in Shanxi, China to help over 153 workers trapped there for over a week. ](/news/2010/04/3/rescuers-enter-a-flooded-mine-in-shanxi-china-to-help-over-153-workers-trapped-there-for-over-a-week.md)
-_Context: China, Shanxi province_
+_Context: China, Shanxi_
 
 ##### Australia
 ### [Australian Prime Minister Kevin Rudd appoints the country's first population minister, Tony Burke, as part of a strategy for managing population growth. ](/news/2010/04/3/australian-prime-minister-kevin-rudd-appoints-the-country-s-first-population-minister-tony-burke-as-part-of-a-strategy-for-managing-popula.md)

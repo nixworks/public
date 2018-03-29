@@ -19,9 +19,9 @@ Aaron Swartz, a celebrated internet freedom activist and early developer of the 
 ### [Three people are injured after a hostage situation takes place in a Nordstrom Rack chain in the neighborhood of Westchester in Los Angeles, California. ](/news/2013/01/11/three-people-are-injured-after-a-hostage-situation-takes-place-in-a-nordstrom-rack-chain-in-the-neighborhood-of-westchester-in-los-angeles.md)
 The first 911 call came at 11:08 p.m. A panicked man told an operator the barest of details: Nordstrom Rack in Westchester. Two armed men. Robbery. Police rushed to the sprawling Promenade at Howard...
 
-##### Metropolitan Police
+##### Police
 ### [The Metropolitan Police and NSPCC have confirmed 214 separate sexual offences committed by Jimmy Savile over a period of fifty years. ](/news/2013/01/11/the-metropolitan-police-and-nspcc-have-confirmed-214-separate-sexual-offences-committed-by-jimmy-savile-over-a-period-of-fifty-years.md)
-_Context: Jimmy Savile, Jimmy Savile sexual abuse scandal, Metropolitan Police, NSPCC_
+_Context: Jimmy Savile, Jimmy Savile sexual abuse scandal, NSPCC, Police_
 
 ##### Fire
 ### [A fire sweeps through a complex containing housing for foreign workers in Manama, Bahrain, leaving 13 foreign nationals dead. ](/news/2013/01/11/a-fire-sweeps-through-a-complex-containing-housing-for-foreign-workers-in-manama-bahrain-leaving-13-foreign-nationals-dead.md)
@@ -33,7 +33,7 @@ _Context: Doti, Nepal, bus_
 
 ##### Landslide
 ### [18 people die after a landslide buries a village in the Yunnan province of China, while 40 people are feared to be buried. ](/news/2013/01/11/18-people-die-after-a-landslide-buries-a-village-in-the-yunnan-province-of-china-while-40-people-are-feared-to-be-buried.md)
-_Context: China, Yunnan, landslide_
+_Context: Chinese, Yunnan, landslide_
 
 ##### Official portrait
 ### [The first official portrait of the Duchess of Cambridge, painted by Paul Emsley, is unveiled to a mixed reception from critics. ](/news/2013/01/11/the-first-official-portrait-of-the-duchess-of-cambridge-painted-by-paul-emsley-is-unveiled-to-a-mixed-reception-from-critics.md)

@@ -25,7 +25,7 @@ _Context: Bermuda, Chinese, David Miliband, Foreign Secretary, Guantanamo Bay, W
 
 ##### Pakistan
 ### [ Prominent Pakistani anti-Taliban cleric Sarfraz Naeemi is killed in a suspected suicide bomb attack at his Islamic religious school in Lahore. ](/news/2009/06/11/prominent-pakistani-anti-taliban-cleric-sarfraz-naeemi-is-killed-in-a-suspected-suicide-bomb-attack-at-his-islamic-religious-school-in-laho.md)
-_Context: Lahore, Muslim, Pakistan, Sarfraz Naeemi, Taliban, suicide bomb_
+_Context: Lahore, Muslims, Pakistan, Sarfraz Naeemi, Taliban, suicide bomb_
 
 ##### United Nations Security Council
 ### [ The United Nations Security Council unanimously votes to impose further sanctions on North Korea, following recent nuclear and missile tests. ](/news/2009/06/11/the-united-nations-security-council-unanimously-votes-to-impose-further-sanctions-on-north-korea-following-recent-nuclear-and-missile-test.md)
@@ -75,9 +75,9 @@ French President Nicolas Sarkozy has said he would be prepared to travel to Irel
 ### [ Campaigning in Iran's presidential election ends after three weeks of mass rallies and political rhetoric. ](/news/2009/06/11/campaigning-in-iran-s-presidential-election-ends-after-three-weeks-of-mass-rallies-and-political-rhetoric.md)
 _Context: Iran, re-election_
 
-##### China
+##### Chinese
 ### [ Four Chinese Uighurs from the Guantanamo Bay detention camp are resettled in Bermuda. ](/news/2009/06/11/four-chinese-uighurs-from-the-guantanamo-bay-detention-camp-are-resettled-in-bermuda.md)
-_Context: Bermuda, China, Guantanamo Bay detention camp, Uyghur_
+_Context: Bermuda, Chinese, Guantanamo Bay detention camp, Uyghur_
 
 ##### RTE
 ### [ RTE, Ireland's public service broadcaster, denies it is facing bankruptcy. ](/news/2009/06/11/rta-ireland-s-public-service-broadcaster-denies-it-is-facing-bankruptcy.md)

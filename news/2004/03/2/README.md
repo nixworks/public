@@ -7,9 +7,9 @@ Formats: [HTML](2004/03/2/index.html)  [JSON](2004/03/2/index.json)  [XML](2004/
 ### [ The European Space Agency's Rosetta space probe is successfully launched aboard an Ariane 5 rocket on a mission to investigate the comet 67P-Churyumov-Gerasimenko. ](/news/2004/03/2/the-european-space-agency-s-rosetta-space-probe-is-successfully-launched-aboard-an-ariane-5-rocket-on-a-mission-to-investigate-the-comet-67.md)
 _Context: 67P/Churyumov-Gerasimenko, Ariane 5, European Space Agency, Rosetta space probe, comet_
 
-##### EU
+##### European Union
 ### [ The European Union imposes additional 5% tariffs on a wide range of goods imported from the United States, such as honey, paper, and nuclear reactors. The tariffs were sanctioned by the World Trade Organization in 2002 as punitive measures after a ruling declaring that United States tax law unfairly favors U.S.-based companies. ](/news/2004/03/2/the-european-union-imposes-additional-5-tariffs-on-a-wide-range-of-goods-imported-from-the-united-states-such-as-honey-paper-and-nuclea.md)
-_Context: EU, World Trade Organization, honey, nuclear reactor, paper, tariff, tax_
+_Context: European Union, World Trade Organization, honey, nuclear reactor, paper, tariff, tax_
 
 ##### Haiti
 ### [ The U.S. declares its 2,000-man force to have leadership over all foreign military forces in Haiti. President Bush chose not to wait for the UN Security Council but, instead, to intervene immediately to "restore order" in the Western Hemisphere's poorest country. ](/news/2004/03/2/the-u-s-declares-its-2-000-man-force-to-have-leadership-over-all-foreign-military-forces-in-haiti-president-bush-chose-not-to-wait-for-th.md)

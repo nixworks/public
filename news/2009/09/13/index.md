@@ -5,7 +5,7 @@ Formats: [HTML](2009/09/13/index.html)  [JSON](2009/09/13/index.json)  [XML](200
 
 ##### Hyena
 ### [ Teeth and bones from a range of animals, including hyenas, deer and rhinos, are discovered by archaeologists inside a cave in Devon, England. ](/news/2009/09/13/teeth-and-bones-from-a-range-of-animals-including-hyenas-deer-and-rhinos-are-discovered-by-archaeologists-inside-a-cave-in-devon-englan.md)
-_Context: Archaeologists, Devon, England, deer, hyena, rhino_
+_Context: Archaeologists, Devon, English, deer, hyena, rhino_
 
 ##### Bermuda Triangle
 ### [ Two of the so-called Bermuda Triangle's most mysterious disappearances in the late 1940s may have been solved. ](/news/2009/09/13/two-of-the-so-called-bermuda-triangle-s-most-mysterious-disappearances-in-the-late-1940s-may-have-been-solved.md)

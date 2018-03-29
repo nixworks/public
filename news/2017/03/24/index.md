@@ -17,7 +17,7 @@ _Context: 2017 Patient Protection and Affordable Care Act replacement proposals,
 
 ##### United States
 ### [United States President Donald Trump approves the controversial Keystone XL pipeline. ](/news/2017/03/24/united-states-president-donald-trump-approves-the-controversial-keystone-xl-pipeline.md)
-_Context: Keystone XL, Trump, United States_
+_Context: Donald Trump, Keystone XL, United States_
 
 ##### Warlord
 ### [Imprisoned former Congolese warlord Germain Katanga is ordered by the International Criminal Court to pay reparations to some of his victims in the first such ruling by the court. ](/news/2017/03/24/imprisoned-former-congolese-warlord-germain-katanga-is-ordered-by-the-international-criminal-court-to-pay-reparations-to-some-of-his-victims.md)
@@ -33,7 +33,7 @@ _Context: Cairo, Egypt, Hosni Mubarak_
 
 ##### France-Russia relations
 ### [French National Front presidential candidate Marine Le Pen meets with Russian president Vladimir Putin and afterwards urges that European Union sanctions on Russia be lifted. ](/news/2017/03/24/french-national-front-presidential-candidate-marine-le-pen-meets-with-russian-president-vladimir-putin-and-afterwards-urges-that-european-un.md)
-_Context: EU, France-Russia relations, Marine Le Pen, National Front, Russia, Vladimir Putin_
+_Context: European Union, France-Russia relations, Marine Le Pen, National Front, Russia, Vladimir Putin_
 
 ##### 
 ### [Proactiva notes the finding of five corpses the Libyan coast; these were floating near two capsized boats which could each hold more than 100 people. ](/news/2017/03/24/proactiva-notes-the-finding-of-five-corpses-the-libyan-coast-these-were-floating-near-two-capsized-boats-which-could-each-hold-more-than-10.md)

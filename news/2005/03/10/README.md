@@ -3,9 +3,9 @@ Formats: [HTML](2005/03/10/index.html)  [JSON](2005/03/10/index.json)  [XML](200
 
 ## [2005-03-10](/news/2005/03/10/index.md)
 
-##### Muslim
+##### Muslims
 ### [ The Islamic Commission of Spain, that country's largest Muslim group, issues a fatwa against al-Qaeda leader Osama Bin Ladin, ruling that his actions have made him an apostate, that he should not be regarded as a Muslim, and that his claim that the Qur'an justifies his terrorist actions constitutes istihlal, the sin of making up one's own law. It is claimed to be the first fatwa to be pronounced against Bin Ladin, and to have the tacit support of Muslim leaders in several Islamic countries. ](/news/2005/03/10/the-islamic-commission-of-spain-that-country-s-largest-muslim-group-issues-a-fatwa-against-al-qaeda-leader-osama-bin-ladin-ruling-that-h.md)
-_Context: Muslim, Osama Bin Ladin, Qur'an, al-Qaeda, apostate, fatwa, istihlal, terrorism_
+_Context: Muslims, Osama Bin Ladin, Qur'an, al-Qaeda, apostate, fatwa, istihlal, terrorism_
 
 ##### Half-mast
 ### [ Flags across the nation fly at half-mast as the largest police memorial in Canadian history is held in Edmonton, to honour the four Royal Canadian Mounted Police (RCMP) victims of the Mayerthorpe Incident. Attending were about 10,000 officers from North America, Canadian dignitaries and entertainers with songs of reflection and sorrow. ](/news/2005/03/10/flags-across-the-nation-fly-at-half-mast-as-the-largest-police-memorial-in-canadian-history-is-held-in-edmonton-to-honour-the-four-royal-c.md)
@@ -15,9 +15,9 @@ _Context: Canadian, Edmonton, Mayerthorpe Incident, Royal Canadian Mounted Polic
 ### [ A senior United Nations envoy has said far more people have died in Darfur during the two-year conflict than previously admitted.](/news/2005/03/10/a-senior-united-nations-envoy-has-said-far-more-people-have-died-in-darfur-during-the-two-year-conflict-than-previously-admitted.md)
 _Context: Darfur, United Nations_
 
-##### Shanxi province
+##### Shanxi
 ### [ 16 people die following an explosion in a mine in the Shanxi province of China. ](/news/2005/03/10/16-people-die-following-an-explosion-in-a-mine-in-the-shanxi-province-of-china.md)
-_Context: Shanxi province_
+_Context: Shanxi_
 
 ##### Chief Executive
 ### [ The Chief Executive of Hong Kong, Tung Chee Hwa, announces he is to resign. He blames his poor health for the decision, while some believe that he may have been dismissed by the Chinese government. ](/news/2005/03/10/the-chief-executive-of-hong-kong-tung-chee-hwa-announces-he-is-to-resign-he-blames-his-poor-health-for-the-decision-while-some-believe.md)

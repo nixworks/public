@@ -25,7 +25,7 @@ _Context: Andry Rajoelina, Antananarivo, Madagascar, Marc Ravalomanana, Mayor, P
 
 ##### G-20
 ### [ The G20 meets in Horsham, West Sussex, England, to discuss the global financial crisis. ](/news/2009/03/14/the-g20-meets-in-horsham-west-sussex-england-to-discuss-the-global-financial-crisis.md)
-_Context: 4th quarter of 2007 and the second quarter of 2009, England, G-20, Horsham, West Sussex_
+_Context: 4th quarter of 2007 and the second quarter of 2009, English, G-20, Horsham, West Sussex_
 
 ## [Previous Day...](/news/2009/03/13/index.md)
 

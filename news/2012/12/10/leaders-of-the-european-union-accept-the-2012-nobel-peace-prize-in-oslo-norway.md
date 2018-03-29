@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/10/leaders-of-the-european-union-accept-the-2012-n
 
 ### [2012-12-10](/news/2012/12/10/index.md)
 
-##### EU
+##### European Union
 # Leaders of the European Union accept the 2012 Nobel Peace Prize in Oslo, Norway. 
 
 

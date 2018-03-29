@@ -77,7 +77,7 @@ _Context: Adolf Hitler, Berlin, German, Germany_
 
 ##### G4S
 ### [MPs called for a "wide-ranging and independent inquiry" after G4S agents restrain and suffocate Jimmy Mubenga during his deportation from England. ](/news/2010/10/15/mps-called-for-a-wide-ranging-and-independent-inquiry-after-g4s-agents-restrain-and-suffocate-jimmy-mubenga-during-his-deportation-from-en.md)
-_Context: England, G4S, Jimmy Mubenga_
+_Context: English, G4S, Jimmy Mubenga_
 
 ##### United States soldier
 ### [A United States Army soldier from 5th Stryker Brigade Combat Team is to face a court martial on murder and other charges related to the deaths of civilians in Afghanistan. ](/news/2010/10/15/a-united-states-army-soldier-from-5th-stryker-brigade-combat-team-is-to-face-a-court-martial-on-murder-and-other-charges-related-to-the-deat.md)

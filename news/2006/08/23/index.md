@@ -21,7 +21,7 @@ _Context: Israel, Ramat Rachel, ancient Persia_
 
 ##### Northwest Airlines
 ### [ Northwest Airlines Flight 42 from Amsterdam to Mumbai (Bombay) was escorted by two Dutch Air Force F-16s back to Amsterdam after a request from the pilot. Twelve people have been detained. ](/news/2006/08/23/northwest-airlines-flight-42-from-amsterdam-to-mumbai-bombay-was-escorted-by-two-dutch-air-force-f-16s-back-to-amsterdam-after-a-request.md)
-_Context: Air Force, Amsterdam, Dutch, F-16, Flight 42, Mumbai, Northwest Airlines_
+_Context: Air Force, Amsterdam, F-16, Flight 42, Mumbai, Netherlands, Northwest Airlines_
 
 ##### United States
 ### [ The United States says that Iran's proposal to the United Nations about its nuclear program "falls short of the conditions set by the Security Council." ](/news/2006/08/23/the-united-states-says-that-iran-s-proposal-to-the-united-nations-about-its-nuclear-program-falls-short-of-the-conditions-set-by-the-secur.md)

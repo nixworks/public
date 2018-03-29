@@ -7,7 +7,7 @@ Formats: [HTML](2012/04/28/index.html)  [JSON](2012/04/28/index.json)  [XML](201
 ### [Malaysian police use tear gas and water cannon to disperse thousands of protesters gathered in Kuala Lumpur calling for free and fair elections. ](/news/2012/04/28/malaysian-police-use-tear-gas-and-water-cannon-to-disperse-thousands-of-protesters-gathered-in-kuala-lumpur-calling-for-free-and-fair-electi.md)
 At least 25,000 activists took to the streets on Saturday to call for free and fair elections, and were met by police who fired tear gas at some demonstrators who broke through barriers.
 
-##### China
+##### Chinese
 ### [Blind Chinese human rights activist Chen Guangcheng &ndash; who fled from house arrest &ndash; reportedly takes refuge in the U.S. embassy in Beijing. ](/news/2012/04/28/blind-chinese-human-rights-activist-chen-guangcheng-ndash-who-fled-from-house-arrest-ndash-reportedly-takes-refuge-in-the-u-s-embassy-i.md)
 Supporters of blind legal advocate Chen Guangcheng believe he is in the US embassy after escape from home imprisonment.
 
@@ -15,7 +15,7 @@ Supporters of blind legal advocate Chen Guangcheng believe he is in the US embas
 ### [Mali's ruling junta rejects a West African regional plan to extend the life of an interim civilian government. ](/news/2012/04/28/mali-s-ruling-junta-rejects-a-west-african-regional-plan-to-extend-the-life-of-an-interim-civilian-government.md)
 _Context: Mali, West Africa_
 
-##### EU
+##### European Union
 ### [The European Union opens an office in Burma in recognition of recent democratic reforms. ](/news/2012/04/28/the-european-union-opens-an-office-in-burma-in-recognition-of-recent-democratic-reforms.md)
 The European Union opened an office in Yangon on Saturday in recognition of the democratic progress made in Myanmar and to offer support for further reforms. Catherine Ashton, the EU’s foreign policy
 

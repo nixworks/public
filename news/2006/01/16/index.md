@@ -33,7 +33,7 @@ _Context: Al Gore, George W. Bush, President, U.S. Vice President, United States
 
 ##### Dockworker
 ### [ A dockworkers' strike in Europe has thousands of workers off the job in protest over proposed liberalization of European Union rules on port services. A demonstration outside the European Parliament in Strasbourg leaves twelve French police officers injured. ](/news/2006/01/16/a-dockworkers-strike-in-europe-has-thousands-of-workers-off-the-job-in-protest-over-proposed-liberalization-of-european-union-rules-on-por.md)
-_Context: EU, European Parliament, Strasbourg, dockworker, strike_
+_Context: European Parliament, European Union, Strasbourg, dockworker, strike_
 
 ##### United Nations
 ### [ The United Nations appeals for US$240 million of food aid for West Africa to feed at least 10 million people affected by the food crisis, with Niger being the worst-affected country. ](/news/2006/01/16/the-united-nations-appeals-for-us-240-million-of-food-aid-for-west-africa-to-feed-at-least-10-million-people-affected-by-the-food-crisis-w.md)

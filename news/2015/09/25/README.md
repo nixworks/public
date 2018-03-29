@@ -43,7 +43,7 @@ Saudi Arabia&#039;s King orders an investigation into a stampede at the annual H
 ### [Ukraine selectively bans certain Russian airlines such as Aeroflot and Transaero from flying to and through Ukraine. ](/news/2015/09/25/ukraine-selectively-bans-certain-russian-airlines-such-as-aeroflot-and-transaero-from-flying-to-and-through-ukraine.md)
 _Context: Aeroflot, Russia, Transaero, Ukraine_
 
-##### China
+##### Chinese
 ### [The People's Republic of China will launch a cap and trade policy creating a carbon market in 2017. ](/news/2015/09/25/the-people-s-republic-of-china-will-launch-a-cap-and-trade-policy-creating-a-carbon-market-in-2017.md)
 White House officials announce deal, which will make China the world’s biggest carbon market, on eve of summit between Barack Obama and Xi Jinping
 

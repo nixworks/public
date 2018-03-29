@@ -21,7 +21,7 @@ _Context: Ford Open Prison, West Sussex, prison riot_
 
 ##### Hungary
 ### [Hungary takes over the presidency of the European Union. ](/news/2011/01/1/hungary-takes-over-the-presidency-of-the-european-union.md)
-_Context: EU, Hungary, the Council of_
+_Context: European Union, Hungary, the Council of_
 
 ##### Canadian counterpart
 ### [Canada's Foreign Minister, Lawrence Cannon, urges Iran to improve the country's human rights record and denounces Iran for imposing "draconian death sentences and unfair jail terms," while expressing particular concern for the fate of two Canadians of dual nationality imprisoned in Iran. ](/news/2011/01/1/canada-s-foreign-minister-lawrence-cannon-urges-iran-to-improve-the-country-s-human-rights-record-and-denounces-iran-for-imposing-draconi.md)

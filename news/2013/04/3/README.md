@@ -51,7 +51,7 @@ _Context: Mount Hagen, Papua New Guinea, bus, tribesmen_
 ### [Construction work near Berlin's main train station reveals a 100-kilogram Soviet bomb from World War II. It was successfully removed several hours after it was found. ](/news/2013/04/3/construction-work-near-berlin-s-main-train-station-reveals-a-100-kilogram-soviet-bomb-from-world-war-ii-it-was-successfully-removed-several.md)
 _Context: Berlin, Soviet, World War II_
 
-##### China
+##### Chinese
 ### [A third man dies in China from the H7N9 strain of bird flu. ](/news/2013/04/3/a-third-man-dies-in-china-from-the-h7n9-strain-of-bird-flu.md)
 A third man dies in China after catching a strain of bird flu not previously known in humans
 

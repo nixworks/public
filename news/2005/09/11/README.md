@@ -9,7 +9,7 @@ _Context: 2005 election, Jens Stoltenberg, Kjell Magne Bondevik, Norwegian Labou
 
 ##### Zhejiang
 ### [ Over 800,000 people in the Zhejiang province of China are evacuating as the province is hit by Typhoon Khanun which has a packing center winds of 144 kilometers per hour. ](/news/2005/09/11/over-800-000-people-in-the-zhejiang-province-of-china-are-evacuating-as-the-province-is-hit-by-typhoon-khanun-which-has-a-packing-center-wi.md)
-_Context: China, Typhoon Khanun, Zhejiang_
+_Context: Chinese, Typhoon Khanun, Zhejiang_
 
 ##### Death toll
 ### [ The death toll of the Japanese Encephalitis outbreak in Uttar Pradesh has reached an official number of 650, with estimates of aid agencies about double this number. ](/news/2005/09/11/the-death-toll-of-the-japanese-encephalitis-outbreak-in-uttar-pradesh-has-reached-an-official-number-of-650-with-estimates-of-aid-agencies.md)

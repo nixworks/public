@@ -3,7 +3,7 @@ Formats: [HTML](2009/10/5/index.html)  [JSON](2009/10/5/index.json)  [XML](2009/
 
 ## [2009-10-5](/news/2009/10/5/index.md)
 
-##### China
+##### Chinese
 ### [ China pledges to strengthen bonds with isolated North Korea, nudging it to improve its economy. ](/news/2009/10/5/china-pledges-to-strengthen-bonds-with-isolated-north-korea-nudging-it-to-improve-its-economy.md)
 North Korea said on Tuesday it was ready to return to international talks on ending its nuclear weapons program but demanded negotiations first with the United States.
 

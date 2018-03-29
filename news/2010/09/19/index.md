@@ -13,7 +13,7 @@ _Context: California, El Salvador, Jesus, Palmdale, United States, cult_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI beatifies Cardinal John Henry Newman in an outdoor mass in Birmingham, England, on the final day of his visit to the UK. ](/news/2010/09/19/pope-benedict-xvi-beatifies-cardinal-john-henry-newman-in-an-outdoor-mass-in-birmingham-england-on-the-final-day-of-his-visit-to-the-uk.md)
-_Context: Birmingham, Cardinal, England, John Henry Newman, Pope Benedict XVI, beatified, visit of Pope Benedict XVI_
+_Context: Birmingham, Cardinal, English, John Henry Newman, Pope Benedict XVI, beatified, visit of Pope Benedict XVI_
 
 ##### Raul Castro
 ### [Raul Castro, the President of Cuba, sacks Yadira Garcia Vera as Minister for Basic Industry for "weak control over resources set aside for investment and production.". ](/news/2010/09/19/raul-castro-the-president-of-cuba-sacks-yadira-garcaa-vera-as-minister-for-basic-industry-for-weak-control-over-resources-set-aside-for.md)
@@ -35,9 +35,9 @@ Copac outreach meetings in Harare were Sunday abandoned after violence and chaos
 ### [Eight Mexican police officers from the state of Guerrero are found dead. ](/news/2010/09/19/eight-mexican-police-officers-from-the-state-of-guerrero-are-found-dead.md)
 _Context: Guerrero, Mexican_
 
-##### Metropolitan Police
+##### Police
 ### [The Metropolitan Police release six men arrested on suspicion of being terrorists during Pope Benedict XVI's visit to the United Kingdom without charge. ](/news/2010/09/19/the-metropolitan-police-release-six-men-arrested-on-suspicion-of-being-terrorists-during-pope-benedict-xvi-s-visit-to-the-united-kingdom-wit.md)
-_Context: Metropolitan Police, Pope Benedict XVI, terrorism, visit of Pope Benedict XVI_
+_Context: Police, Pope Benedict XVI, terrorism, visit of Pope Benedict XVI_
 
 ##### Police
 ### [At least four people are killed and a police officer seriously wounded in a shooting incident at a hospital in Lorrach, Germany. ](/news/2010/09/19/at-least-four-people-are-killed-and-a-police-officer-seriously-wounded-in-a-shooting-incident-at-a-hospital-in-laprrach-germany.md)

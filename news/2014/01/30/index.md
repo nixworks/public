@@ -7,9 +7,9 @@ Formats: [HTML](2014/01/30/index.html)  [JSON](2014/01/30/index.json)  [XML](201
 ### [Scientists warn that penguin populations may be declining due to extreme environmental conditions related to climate change ](/news/2014/01/30/scientists-warn-that-penguin-populations-may-be-declining-due-to-extreme-environmental-conditions-related-to-climate-change.md)
 Heatwaves killing Magellanic penguin chicks in Argentina, and Adelie penguins in Antarctica are finding it harder to feed
 
-##### Dutch
+##### Netherlands
 ### [In the Netherlands, State Secretary of Finance Frans Weekers resigns after opposition parties give fierce criticism about his performance. ](/news/2014/01/30/in-the-netherlands-state-secretary-of-finance-frans-weekers-resigns-after-opposition-parties-give-fierce-criticism-about-his-performance.md)
-_Context: Dutch, Finance, Frans Weekers, State Secretary_
+_Context: Finance, Frans Weekers, Netherlands, State Secretary_
 
 ##### Mohammad-Ali Najafi
 ### [Mohammad-Ali Najafi resigns as Head of Iran's Cultural Heritage, Handcrafts and Tourism Organization, marking the first change in President Rouhani's cabinet. ](/news/2014/01/30/mohammad-ali-najafi-resigns-as-head-of-iran-s-cultural-heritage-handcrafts-and-tourism-organization-marking-the-first-change-in-president.md)

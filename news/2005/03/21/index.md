@@ -7,9 +7,9 @@ Formats: [HTML](2005/03/21/index.html)  [JSON](2005/03/21/index.json)  [XML](200
 ### [ In Estonia, prime minister Juhan Parts announces his resignation after vote of no confidence against justice minister Ken-Marti Vaher. That also means his government is dissolved ](/news/2005/03/21/in-estonia-prime-minister-juhan-parts-announces-his-resignation-after-vote-of-no-confidence-against-justice-minister-ken-marti-vaher-that.md)
 _Context: Estonia, Juhan Parts, Ken-Marti Vaher, vote of no confidence_
 
-##### Dutch
+##### Netherlands
 ### [ Dutch lumber merchant Guus van Kouwenhoven is charged with war crimes and arms smuggling to then-president Charles Taylor during civil war in Liberia ](/news/2005/03/21/dutch-lumber-merchant-guus-van-kouwenhoven-is-charged-with-war-crimes-and-arms-smuggling-to-then-president-charles-taylor-during-civil-war.md)
-_Context: Charles G. Taylor, Dutch, Guus van Kouwenhoven, Liberia, war crime_
+_Context: Charles G. Taylor, Guus van Kouwenhoven, Liberia, Netherlands, war crime_
 
 ##### Warsaw
 ### [ Russia criticises Polish decision to name a square in Warsaw after dead Chechen separatist leader Djokhar Dudayev ](/news/2005/03/21/russia-criticises-polish-decision-to-name-a-square-in-warsaw-after-dead-chechen-separatist-leader-djokhar-dudayev.md)

@@ -21,7 +21,7 @@ They were calling for an investigation into the alleged torture of gay people in
 
 ##### Triple Talaq in India
 ### [The Supreme Court of India begins hearings on whether oral divorce is a fundamental right of Islam. ](/news/2017/05/11/the-supreme-court-of-india-begins-hearings-on-whether-oral-divorce-is-a-fundamental-right-of-islam.md)
-_Context: Muslim, Supreme Court of India, Triple Talaq in India, oral divorce_
+_Context: Muslims, Supreme Court of India, Triple Talaq in India, oral divorce_
 
 ##### Arctic Council
 ### [Representatives of the Arctic Council, a group of eight countries that border the Arctic Circle, meet in Alaska to discuss oil drilling. ](/news/2017/05/11/representatives-of-the-arctic-council-a-group-of-eight-countries-that-border-the-arctic-circle-meet-in-alaska-to-discuss-oil-drilling.md)

@@ -35,9 +35,9 @@ _Context: Free Trade Agreement_
 ### [According to University of Toronto researchers Donald Branch and Stephen McCarthy, a combination of three HIV drugs--lamivudine, AZT, and tenofovir--shows some promise fighting at least a lab-modified version (which could not infect humans) of Ebola. ](/news/2015/05/5/according-to-university-of-toronto-researchers-donald-branch-and-stephen-mccarthy-a-combination-of-three-hiv-drugsalamivudine-azt-and-t.md)
 _Context: AZT, Ebola, University of Toronto, lamivudine, tenofovir_
 
-##### England
+##### English
 ### [Catriona Finlayson-Wilkins, 41, of England, becomes the first diabetic (she has Type I diabetes) to give birth naturally after using an artificial pancreas throughout her pregnancy. ](/news/2015/05/5/catriona-finlayson-wilkins-41-of-england-becomes-the-first-diabetic-she-has-type-i-diabetes-to-give-birth-naturally-after-using-an-arti.md)
-_Context: England, Type I diabetes, artificial pancreas, pregnancy_
+_Context: English, Type I diabetes, artificial pancreas, pregnancy_
 
 ##### Tsunami
 ### [A local tsunami warning is issued after a magnitude 7.4 earthquake occurs in the Pacific Ocean near the island of New Britain in Papua New Guinea. There is a small tsunami and some property damage. ](/news/2015/05/5/a-local-tsunami-warning-is-issued-after-a-magnitude-7-4-earthquake-occurs-in-the-pacific-ocean-near-the-island-of-new-britain-in-papua-new-g.md)

@@ -135,7 +135,7 @@ Hedge funds and private equity firms had an easier time raising capital in the l
 ### [At least 4 groups of Chinese private investors are interested in acquiring American International Assurance (AIA), the Asian division of insurance giant American International Group (AIG). ](/news/2010/07/13/at-least-4-groups-of-chinese-private-investors-are-interested-in-acquiring-american-international-assurance-aia-the-asian-division-of-ins.md)
 _Context: AIG, American International Assurance_
 
-##### EU
+##### European Union
 ### [The EU announces that Estonia is to become the seventeenth member of the euro on 1 January 2011. ](/news/2010/07/13/the-eu-announces-that-estonia-is-to-become-the-seventeenth-member-of-the-euro-on-1-january-2011.md)
 European Union finance ministers gave the final approval today to Estonia joining the euro zone from the start of 2011 and set&hellip;
 

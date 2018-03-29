@@ -51,9 +51,9 @@ The Government should set up a statutory investigation into allegations of tortu
 ### [The "People's Daily", a Chinese stated-owned newspaper, accuses Internet search engine giant Google of becoming a "political tool" after it claimed that computer hacking aimed at it came from China. ](/news/2011/06/6/the-people-s-daily-a-chinese-stated-owned-newspaper-accuses-internet-search-engine-giant-google-of-becoming-a-political-tool-after-it.md)
 _Context: Google, Internet, People's Daily, hacker, search engine_
 
-##### EU
+##### European Union
 ### [A European Union delegation visits North Korea to investigate claims of food shortages. ](/news/2011/06/6/a-european-union-delegation-visits-north-korea-to-investigate-claims-of-food-shortages.md)
-_Context: EU, North Korea_
+_Context: European Union, North Korea_
 
 ##### Banjarmasin
 ### [At least seventeen people are dead and another 15 remain missing after a speedboat sinks in Banjarmasin, the capital of the Indonesian province of South Kalimantan. ](/news/2011/06/6/at-least-seventeen-people-are-dead-and-another-15-remain-missing-after-a-speedboat-sinks-in-banjarmasin-the-capital-of-the-indonesian-provi.md)

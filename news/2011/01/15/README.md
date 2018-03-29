@@ -17,7 +17,7 @@ Huge turnout in south Sudan referendum expected to back secession from the north
 
 ##### Iran
 ### [A group of international diplomats begins a two-day tour given by Iran as a gesture of goodwill and transparency in response to foreign concerns over its nuclear program. The European Union, Russia, and the People's Republic of China refuses its invitation. ](/news/2011/01/15/a-group-of-international-diplomats-begins-a-two-day-tour-given-by-iran-as-a-gesture-of-goodwill-and-transparency-in-response-to-foreign-conc.md)
-_Context: China, EU, Iran, Russia, nuclear program_
+_Context: China, European Union, Iran, Russia, nuclear program_
 
 ##### Labour Party
 ### [Veteran Labour Party TD Michael D. Higgins writes to the Irish Department of Justice regarding the activities of undercover British police officer Mark Kennedy, who infiltrated protest movements across Europe, including several on Republic of Ireland territory. He describes it as "of grave concern" and that "this type of activity undermines respect for the law and it is very sinister in that it can damage good causes." ](/news/2011/01/15/veteran-labour-party-td-michael-d-higgins-writes-to-the-irish-department-of-justice-regarding-the-activities-of-undercover-british-police-o.md)
@@ -49,7 +49,7 @@ _Context: Catholic Church, Church of England, Westminster Cathedral_
 
 ##### Freedom of communication and expression
 ### [Advocates of free speech march through the streets of Sydney in support of WikiLeaks spokesperson Julian Assange, who is in England battling attempts by Sweden to have him extradited. Greens MP David Shoebridge addresses the crowd and calls for support from the Australian government. ](/news/2011/01/15/advocates-of-free-speech-march-through-the-streets-of-sydney-in-support-of-wikileaks-spokesperson-julian-assange-who-is-in-england-battling.md)
-_Context: Australian Greens, David Shoebridge, England, Julian Assange, Sweden, Sydney, WikiLeaks, freedom of communication and expression_
+_Context: Australian Greens, David Shoebridge, English, Julian Assange, Sweden, Sydney, WikiLeaks, freedom of communication and expression_
 
 ##### Encyclopedia
 ### [The online encyclopedia Wikipedia celebrates the tenth anniversary of its founding. ](/news/2011/01/15/the-online-encyclopedia-wikipedia-celebrates-the-tenth-anniversary-of-its-founding.md)

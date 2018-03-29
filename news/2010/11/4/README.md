@@ -13,7 +13,7 @@ _Context: Government of Cambodia, Phnom Penh_
 
 ##### Moorlands
 ### [More than fifty inmates at the Moorlands Young Offenders Institution in South Yorkshire, England, riot for the second successive night. ](/news/2010/11/4/more-than-fifty-inmates-at-the-moorlands-young-offenders-institution-in-south-yorkshire-england-riot-for-the-second-successive-night.md)
-_Context: England, Moorlands, South Yorkshire, Young Offenders Institution_
+_Context: English, Moorlands, South Yorkshire, Young Offenders Institution_
 
 ##### Denial-of-service
 ### [An ongoing denial-of-service cyber attack knocks Burma off the internet, days ahead of the general election. ](/news/2010/11/4/an-ongoing-denial-of-service-cyber-attack-knocks-burma-off-the-internet-days-ahead-of-the-general-election.md)

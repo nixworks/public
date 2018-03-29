@@ -27,7 +27,7 @@ _Context: China, Health Department, Hong Kong, Margaret Chan, World Health Organ
 ### [ The Associated Press declares Democrat Jim Webb as the winner of the 2006 Senate elections in Virginia. This would give the Democratic Party of the United States an effective majority if Independents Joe Lieberman and Bernie Sanders caucus with the Democrats.](/news/2006/11/8/the-associated-press-declares-democrat-jim-webb-as-the-winner-of-the-2006-senate-elections-in-virginia-this-would-give-the-democratic-part.md)
 Democrat Amy Klobuchar sailed to an easy victory in the U.S. Senate race Tuesday, capitalizing on voter anger over the Iraq war to become Minnesota&#039;s first elected female senator. 
 
-##### China
+##### Chinese
 ### [ China has a record high surplus in its balance of trade of $23.8 billion as exports rise and imports fall. ](/news/2006/11/8/china-has-a-record-high-surplus-in-its-balance-of-trade-of-23-8-billion-as-exports-rise-and-imports-fall.md)
 China said Wednesday its politically sensitive trade surplus hit a record high in October as exports soared and import growth fell amid government efforts to rein in an investment boom.
 

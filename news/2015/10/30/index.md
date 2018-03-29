@@ -21,7 +21,7 @@ _Context: Austria, Iran, Syria, Syria peace talks in Vienna, Syrian Civil War, V
 
 ##### Tensions in the region
 ### [The European Union sides with the United States over Tuesday's U.S.-Chinese patrolling incident in the South China Sea. ](/news/2015/10/30/the-european-union-sides-with-the-united-states-over-tuesday-s-u-s-chinese-patrolling-incident-in-the-south-china-sea.md)
-_Context: China, EU, South China Sea, United States, tensions in the region_
+_Context: Chinese, European Union, South China Sea, United States, tensions in the region_
 
 ##### Shaker Aamer
 ### [Shaker Aamer, the last British resident held at the Guantanamo Bay detention camp, is released. Aamer faces no charges in Britain; Scotland Yard detectives questioned him for three days during his detention. ](/news/2015/10/30/shaker-aamer-the-last-british-resident-held-at-the-guantanamo-bay-detention-camp-is-released-aamer-faces-no-charges-in-britain-scotland.md)
@@ -33,7 +33,7 @@ A Virginia school bus overturned Friday after a traffic collision, injuring 28 s
 
 ##### Henan
 ### [A building collapse in Henan province in central China leaves 17 workers dead and 23 injured. ](/news/2015/10/30/a-building-collapse-in-henan-province-in-central-china-leaves-17-workers-dead-and-23-injured.md)
-_Context: China, Henan_
+_Context: Chinese, Henan_
 
 ##### Texas
 ### [Storms hit the American state of Texas causing at least two deaths with one person reported missing. Rivers overflowed as more than a foot of rain fell in some areas while tornadoes ripped through buildings outside San Antonio. ](/news/2015/10/30/storms-hit-the-american-state-of-texas-causing-at-least-two-deaths-with-one-person-reported-missing-rivers-overflowed-as-more-than-a-foot-o.md)

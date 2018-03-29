@@ -5,7 +5,7 @@ Formats: [HTML](2009/10/18/index.html)  [JSON](2009/10/18/index.json)  [XML](200
 
 ##### Iceland
 ### [ The Icelandic government says it has come to a new agreement with the governments of the Netherlands and the UK over the repaying of $5bn. ](/news/2009/10/18/the-icelandic-government-says-it-has-come-to-a-new-agreement-with-the-governments-of-the-netherlands-and-the-uk-over-the-repaying-of-5bn.md)
-_Context: British, Dutch, Iceland_
+_Context: British, Iceland, Netherlands_
 
 ##### Australian Maritime Safety Authority
 ### [ The Australian Maritime Safety Authority (AMSA) assists Indonesian and Malaysian agencies with two distressed boats. ](/news/2009/10/18/the-australian-maritime-safety-authority-amsa-assists-indonesian-and-malaysian-agencies-with-two-distressed-boats.md)

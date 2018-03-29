@@ -37,7 +37,7 @@ An albino is elected as an MP for the first time in Tanzania, telling the BBC it
 
 ##### Yemen
 ### [Yemen charges militant Islamic cleric Anwar al-Awlaki with incitement to kill foreigners. ](/news/2010/11/2/yemen-charges-militant-islamic-cleric-anwar-al-awlaki-with-incitement-to-kill-foreigners.md)
-_Context: Anwar al-Awlaki, Muslim, Yemen_
+_Context: Anwar al-Awlaki, Muslims, Yemen_
 
 ##### Zambia
 ### [A court in Zambia grants bail to two Chinese managers accused of attempted murder for shooting and injuring 11 coal miners during a protest over pay and working conditions. ](/news/2010/11/2/a-court-in-zambia-grants-bail-to-two-chinese-managers-accused-of-attempted-murder-for-shooting-and-injuring-11-coal-miners-during-a-protest.md)

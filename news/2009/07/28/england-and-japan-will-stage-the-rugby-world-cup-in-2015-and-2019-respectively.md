@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/28/england-and-japan-will-stage-the-rugby-world-cu
 
 ### [2009-07-28](/news/2009/07/28/index.md)
 
-##### England
+##### English
 #  England and Japan will stage the Rugby World Cup in 2015 and 2019 respectively. 
 
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
@@ -20,7 +20,7 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 ### Related:
 
 1. [Two connected stabbings occurred in Vienna, Austria: three people were seriously injured outside a Japanese restaurant, and one man in a later stabbing. The perpetrator was arrested. ](/news/2018/03/7/two-connected-stabbings-occurred-in-vienna-austria-three-people-were-seriously-injured-outside-a-japanese-restaurant-and-one-man-in-a-lat.md) _Context: Japan_
-2. [The Kofu District Public Prosecutor's Office in Japan announces nobody will be prosecuted over the collapse of the Sasago Tunnel, which killed nine and injured three. Officials say the collapse would have been difficult to predict. ](/news/2018/03/24/the-kofu-district-public-prosecutoras-office-in-japan-announces-nobody-will-be-prosecuted-over-the-collapse-of-the-sasago-tunnel-which-ki.md) _Context: Japan_
-3. [Two lorry drivers receive prison terms, one of 14 years, for killing eight people when their vehicles collided with a bus on the M1 in Buckinghamshire, England, in 2017. ](/news/2018/03/23/two-lorry-drivers-receive-prison-terms-one-of-14-years-for-killing-eight-people-when-their-vehicles-collided-with-a-bus-on-the-m1-in-bucki.md) _Context: England_
-4. [The Crown Prosecution Service charges pilot Andrew Hill with 11 counts of manslaughter by gross negligence and one count of endangering an aircraft over an accident at Shoreham Airshow in England. ](/news/2018/03/21/the-crown-prosecution-service-charges-pilot-andrew-hill-with-11-counts-of-manslaughter-by-gross-negligence-and-one-count-of-endangering-an-a.md) _Context: England_
-5. [Japan, China, and South Korea agree in principle to hold a trilateral summit in May. ](/news/2018/03/20/japan-china-and-south-korea-agree-in-principle-to-hold-a-trilateral-summit-in-may.md) _Context: Japan_
+2. [English judge Christine Henson fines St. Michael's Hospice in St. Leonards, at East Sussex, over the July 2015 fire in which three residents died. ](/news/2018/03/28/english-judge-christine-henson-fines-st-michael-s-hospice-in-st-leonards-at-east-sussex-over-the-july-2015-fire-in-which-three-residents.md) _Context: English_
+3. [The Kofu District Public Prosecutor's Office in Japan announces nobody will be prosecuted over the collapse of the Sasago Tunnel, which killed nine and injured three. Officials say the collapse would have been difficult to predict. ](/news/2018/03/24/the-kofu-district-public-prosecutoras-office-in-japan-announces-nobody-will-be-prosecuted-over-the-collapse-of-the-sasago-tunnel-which-ki.md) _Context: Japan_
+4. [Two lorry drivers receive prison terms, one of 14 years, for killing eight people when their vehicles collided with a bus on the M1 in Buckinghamshire, England, in 2017. ](/news/2018/03/23/two-lorry-drivers-receive-prison-terms-one-of-14-years-for-killing-eight-people-when-their-vehicles-collided-with-a-bus-on-the-m1-in-bucki.md) _Context: English_
+5. [The Crown Prosecution Service charges pilot Andrew Hill with 11 counts of manslaughter by gross negligence and one count of endangering an aircraft over an accident at Shoreham Airshow in England. ](/news/2018/03/21/the-crown-prosecution-service-charges-pilot-andrew-hill-with-11-counts-of-manslaughter-by-gross-negligence-and-one-count-of-endangering-an-a.md) _Context: English_

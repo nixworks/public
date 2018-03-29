@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/16/the-european-union-casts-doubt-on-last-month-s-
 
 ### [2009-09-16](/news/2009/09/16/index.md)
 
-##### EU
+##### European Union
 #  The European Union casts doubt on last month's election results showing Afghan President Hamid Karzai winning the presidential election outright in the first round. 
 
 Afghan President Hamid Karzai won the presidential vote outright in the first round, election officials said on Wednesday, but the European Union said more than a third of his votes might be suspect because of fraud.

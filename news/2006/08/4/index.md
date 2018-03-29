@@ -21,7 +21,7 @@ _Context: Lord's Resistance Army, Uganda, Vincent Otti_
 
 ##### Domesday Book
 ### [ The Domesday Book, the 920-year-old census record of England under William the Conqueror, goes online. ](/news/2006/08/4/the-domesday-book-the-920-year-old-census-record-of-england-under-william-the-conqueror-goes-online.md)
-_Context: Domesday Book, England, William, census_
+_Context: Domesday Book, English, William, census_
 
 ## [Previous Day...](/news/2006/08/3/index.md)
 

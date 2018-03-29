@@ -41,7 +41,7 @@ The Federal Government says it is hoping to resolve a dispute that is threatenin
 
 ##### European Commission
 ### [The European Commission issues a statement saying it will take legal action against France unless it complies with European Union rules on freedom of movement in relation to recent expulsion of Romani within the next two weeks. ](/news/2010/09/29/the-european-commission-issues-a-statement-saying-it-will-take-legal-action-against-france-unless-it-complies-with-european-union-rules-on-f.md)
-_Context: EU, European Commission, France, Roma, freedom of movement_
+_Context: European Commission, European Union, France, Roma, freedom of movement_
 
 ##### South Korea
 ### [South Korea says that it has reached an agreement with North Korea to hold working-level military talks for the first time in two years. ](/news/2010/09/29/south-korea-says-that-it-has-reached-an-agreement-with-north-korea-to-hold-working-level-military-talks-for-the-first-time-in-two-years.md)

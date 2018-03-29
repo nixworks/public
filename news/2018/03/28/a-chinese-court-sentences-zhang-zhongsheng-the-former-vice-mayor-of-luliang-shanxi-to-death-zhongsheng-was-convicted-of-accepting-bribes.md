@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/28/a-chinese-court-sentences-zhang-zhongsheng-the-
 
 ### [2018-03-28](/news/2018/03/28/index.md)
 
-##### Chinese
+##### Crime in China
 # A Chinese court sentences Zhang Zhongsheng, the former Vice Mayor of Luliang, Shanxi, to death. Zhongsheng was convicted of accepting bribes totaling 1.04 billion yuan (US$160 million). 
 
 

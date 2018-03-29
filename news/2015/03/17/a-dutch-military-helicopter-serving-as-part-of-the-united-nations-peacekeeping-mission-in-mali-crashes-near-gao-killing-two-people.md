@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/03/17/a-dutch-military-helicopter-serving-as-part-of-
 
 ### [2015-03-17](/news/2015/03/17/index.md)
 
-##### Dutch
+##### Netherlands
 # A Dutch military helicopter serving as part of the United Nations peacekeeping mission in Mali crashes near Gao, killing two people. 
 
 A Dutch UN peacekeeping helicopter crashes near Gao in northern Mali, killing two crew members, the Dutch defence ministry says.

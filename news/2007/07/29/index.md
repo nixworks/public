@@ -13,7 +13,7 @@ _Context: An-12, Domodedovo International Airport, Moscow, cargo plane_
 
 ##### Human rights
 ### [ A human rights group claims that four Roman Catholic priests are in detention in China. ](/news/2007/07/29/a-human-rights-group-claims-that-four-roman-catholic-priests-are-in-detention-in-china.md)
-_Context: China, Roman Catholic Church, human rights_
+_Context: Chinese, Roman Catholic Church, human rights_
 
 ##### Association of South East Asian Nations
 ### [ Association of South East Asian Nations foreign ministers adopt a plan to strengthen the South East Asian Nuclear Weapons Free Zone. ](/news/2007/07/29/association-of-south-east-asian-nations-foreign-ministers-adopt-a-plan-to-strengthen-the-south-east-asian-nuclear-weapons-free-zone.md)

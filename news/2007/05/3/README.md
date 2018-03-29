@@ -21,7 +21,7 @@ Republican presidential candidates gave a qualified endorsement Thursday night t
 
 ##### Elizabeth II
 ### [ Queen Elizabeth II of the United Kingdom begins a tour of Virginia with a speech to the General Assembly of Virginia in Richmond in honour of the 400th anniversary of the first permanent English settlement in Jamestown, Virginia. She also meets with victims of the Virginia Tech Massacre before departing for Colonial Williamsburg. ](/news/2007/05/3/queen-elizabeth-ii-of-the-united-kingdom-begins-a-tour-of-virginia-with-a-speech-to-the-general-assembly-of-virginia-in-richmond-in-honour.md)
-_Context: 400th anniversary, Colonial Williamsburg, Elizabeth II, England, General Assembly of Virginia, Jamestown, Virginia, Richmond, Virginia, Virginia, massacre_
+_Context: 400th anniversary, Colonial Williamsburg, Elizabeth II, English, General Assembly of Virginia, Jamestown, Virginia, Richmond, Virginia, Virginia, massacre_
 
 ##### Israel
 ### [ Tens of thousands of Israeli protesters at Rabin Square in Tel Aviv call for Prime Minister Ehud Olmert and his government to resign over their mishandling of the 2006 Lebanon war. ](/news/2007/05/3/tens-of-thousands-of-israeli-protesters-at-rabin-square-in-tel-aviv-call-for-prime-minister-ehud-olmert-and-his-government-to-resign-over-t.md)

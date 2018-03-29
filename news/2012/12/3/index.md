@@ -19,7 +19,7 @@ NASA&#039;s Mars rover Curiosity has found some complex chemistry on Mars, but n
 ### [Mykola Azarov, the Prime Minister of Ukraine, and his government resign en masse following controversial elections. ](/news/2012/12/3/mykola-azarov-the-prime-minister-of-ukraine-and-his-government-resign-en-masse-following-controversial-elections.md)
 _Context: Mykola Azarov, Prime Minister of Ukraine, elections, en masse, government_
 
-##### Dutch
+##### Netherlands
 ### [Dutch linesman Richard Nieuwenhuizen dies in hospital after he was kicked and punched by three teenage players of a club from Nieuw Sloten, Amsterdam, while officiating at a match on Sunday. ](/news/2012/12/3/dutch-linesman-richard-nieuwenhuizen-dies-in-hospital-after-he-was-kicked-and-punched-by-three-teenage-players-of-a-club-from-nieuw-sloten.md)
 A Dutch man has died after being kicked and punched by three teenage football players for whom he acted as linesman during their league match.
 

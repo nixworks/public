@@ -33,7 +33,7 @@ _Context: Andry Rajoelina, Antananarivo, Madagascan Army, Madagascar, Marc Raval
 
 ##### Luxembourg
 ### [ Luxembourg becomes the European Union's third country to legalize euthanasia. ](/news/2009/03/17/luxembourg-becomes-the-european-union-s-third-country-to-legalize-euthanasia.md)
-_Context: EU, Luxembourg, euthanasia_
+_Context: European Union, Luxembourg, euthanasia_
 
 ##### New Jersey Devils
 ### [ The New Jersey Devils' Martin Brodeur passes Patrick Roy to becomes the National Hockey League's winningest goaltender. ](/news/2009/03/17/the-new-jersey-devils-martin-brodeur-passes-patrick-roy-to-becomes-the-national-hockey-league-s-winningest-goaltender.md)

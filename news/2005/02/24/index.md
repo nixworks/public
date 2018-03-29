@@ -15,9 +15,9 @@ _Context: Kyrgyzstan, Opposition_
 ### [ The parliament of Turkey grants amnesty to 677,000 people who have been expelled from university in recent years ](/news/2005/02/24/the-parliament-of-turkey-grants-amnesty-to-677-000-people-who-have-been-expelled-from-university-in-recent-years.md)
 _Context: Turkey, university_
 
-##### EU
+##### European Union
 ### [ New EU laws declare lottery scams illegal ](/news/2005/02/24/new-eu-laws-declare-lottery-scams-illegal.md)
-_Context: EU, lottery scam_
+_Context: European Union, lottery scam_
 
 ##### Diego Maradona
 ### [ Italian court orders Diego Maradona to pay 30 million euros of back taxes (equal to US$39.6 million) ](/news/2005/02/24/italian-court-orders-diego-maradona-to-pay-30-million-euros-of-back-taxes-equal-to-us-39-6-million.md)

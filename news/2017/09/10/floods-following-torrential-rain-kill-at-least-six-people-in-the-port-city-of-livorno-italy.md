@@ -16,4 +16,5 @@ The mayor of Livorno lamented that the forecast underestimated the intensity of 
 
 ### Related:
 
-1. [A woman is diagnosed with Creutzfeldt-Jakob disease ("human mad cow disease") in Milan then hospitalised in Livorno, only the second case in Italy's history and the first since Sicily 2002. ](/news/2010/07/22/a-woman-is-diagnosed-with-creutzfeldtajakob-disease-human-mad-cow-disease-in-milan-then-hospitalised-in-livorno-only-the-second-case.md) _Context: Livorno_
+1. [An ethyl acetate tank explodes in a port in Livorno, Italy, killing two. ](/news/2018/03/28/an-ethyl-acetate-tank-explodes-in-a-port-in-livorno-italy-killing-two.md) _Context: Livorno_
+2. [A woman is diagnosed with Creutzfeldt-Jakob disease ("human mad cow disease") in Milan then hospitalised in Livorno, only the second case in Italy's history and the first since Sicily 2002. ](/news/2010/07/22/a-woman-is-diagnosed-with-creutzfeldtajakob-disease-human-mad-cow-disease-in-milan-then-hospitalised-in-livorno-only-the-second-case.md) _Context: Livorno_

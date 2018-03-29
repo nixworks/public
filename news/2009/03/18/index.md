@@ -13,7 +13,7 @@ _Context: Ben Bernanke, Chairman of the Federal Reserve, Federal Reserve System,
 
 ##### Governor
 ### [ Governor Bill Richardson signs House Bill 285, repealing capital punishment in New Mexico. ](/news/2009/03/18/governor-bill-richardson-signs-house-bill-285-repealing-capital-punishment-in-new-mexico.md)
-_Context: Bill Richardson, Governor, House, New Mexico, bill into law, capital punishment_
+_Context: Bill Richardson, Governor, House, New Mexico, bill into law, death_
 
 ##### Madagascar
 ### [ Madagascar's constitutional court supports the installation of Andry Rajoelina as President. ](/news/2009/03/18/madagascar-s-constitutional-court-supports-the-installation-of-andry-rajoelina-as-president.md)

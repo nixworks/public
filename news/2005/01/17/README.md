@@ -7,9 +7,9 @@ Formats: [HTML](2005/01/17/index.html)  [JSON](2005/01/17/index.json)  [XML](200
 ### [ In Kobe, Japan, people remember the victims of the 1995 Kobe earthquake. At the same time, there is a large disaster conference in the city. ](/news/2005/01/17/in-kobe-japan-people-remember-the-victims-of-the-1995-kobe-earthquake-at-the-same-time-there-is-a-large-disaster-conference-in-the-city.md)
 The Asahi Shimbun is widely regarded for its journalism as the most respected daily newspaper in Japan. The English version offers selected articles from the vernacular Asahi Shimbun, as well as extensive coverage of cool Japan,focusing on manga, travel and other timely news
 
-##### Metropolitan Police
+##### Police
 ### [ Two people sue the Metropolitan Police in London, which detained them after the May Day riots in 2001. ](/news/2005/01/17/two-people-sue-the-metropolitan-police-in-london-which-detained-them-after-the-may-day-riots-in-2001.md)
-_Context: 2001, London, Metropolitan Police_
+_Context: 2001, London, Police_
 
 ##### Venezuela
 ### [ Venezuela has rejected the suggestion of Colombia to hold a regional summit to resolve the dispute over the capture of FARC leader Rodrigo Granda. Hugo Chvez states that he is willing to discuss the matter personally with lvaro Uribe. ](/news/2005/01/17/venezuela-has-rejected-the-suggestion-of-colombia-to-hold-a-regional-summit-to-resolve-the-dispute-over-the-capture-of-farc-leader-rodrigo.md)

@@ -73,7 +73,7 @@ _Context: Advanced Micro Devices, European Commission, Intel Corporation, anti-c
 
 ##### Yakub Memon
 ### [ Yakub Memon, one of the masterminds behind the 1993 Bombay bombings, is sentenced to death in India. ](/news/2007/07/27/yakub-memon-one-of-the-masterminds-behind-the-1993-bombay-bombings-is-sentenced-to-death-in-india.md)
-_Context: 1993 Bombay bombings, India, Yakub Memon, capital punishment_
+_Context: 1993 Bombay bombings, India, Yakub Memon, death_
 
 ##### United Nations Educational, Scientific and Cultural Organisation
 ### [ The United Nations Educational, Scientific and Cultural Organisation dispatches a team to investigate the shooting of four mountain gorillas in the Virunga National Park in the Democratic Republic of the Congo. ](/news/2007/07/27/the-united-nations-educational-scientific-and-cultural-organisation-dispatches-a-team-to-investigate-the-shooting-of-four-mountain-gorilla.md)

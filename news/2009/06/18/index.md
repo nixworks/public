@@ -15,7 +15,7 @@ In 1660, New France had six male settlers for every female settler. The Filles d
 ### [ Loyalist paramilitary organisations in Northern Ireland begin to decommission their weapons. ](/news/2009/06/18/loyalist-paramilitary-organisations-in-northern-ireland-begin-to-decommission-their-weapons.md)
 The Taoiseach has welcomed reports that loyalist paramilitary organisations have begun to decommission their weapons.
 
-##### Muslim
+##### Muslims
 ### [ Islamic militants allied to Al-Qaeda launch an attack on a convoy escorting Chinese workers in Mansoura, Algeria, killing 24 policemen. ](/news/2009/06/18/islamic-militants-allied-to-al-qaeda-launch-an-attack-on-a-convoy-escorting-chinese-workers-in-mansoura-algeria-killing-24-policemen.md)
 Insurgents killed 24 Algerian paramilitary police in an ambush on their convoy late today, a local newspaper reported today.
 

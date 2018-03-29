@@ -35,9 +35,9 @@ _Context: Honduras, Olancho_
 ### [6 die and 33 are injured in five co-ordinated bombings targeting militia leader Sheikh Turki Hamad Mikhlif in Qaim, Iraq. ](/news/2010/03/28/6-die-and-33-are-injured-in-five-co-ordinated-bombings-targeting-militia-leader-sheikh-turki-hamad-mikhlif-in-qaim-iraq.md)
 Six people were killed and 15 others wounded in a roadside bomb attack in the Iraqi city of Qaim.
 
-##### Shanxi province
+##### Shanxi
 ### [At least 152 coal miners are trapped after a pit floods in Shanxi, while 109 others escape. ](/news/2010/03/28/at-least-152-coal-miners-are-trapped-after-a-pit-floods-in-shanxi-while-109-others-escape.md)
-_Context: Shanxi province_
+_Context: Shanxi_
 
 ##### Patissia
 ### [One male is killed and two other people are injured in the Patissia area of the Greek capital Athens after a bomb explodes outside a public building. It is the first fatal bombing in Greece for many years. ](/news/2010/03/28/one-male-is-killed-and-two-other-people-are-injured-in-the-patissia-area-of-the-greek-capital-athens-after-a-bomb-explodes-outside-a-public.md)

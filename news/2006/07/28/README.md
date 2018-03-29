@@ -25,7 +25,7 @@ _Context:  Georgian, 2006 Kodori crisis, Abkhazia_
 
 ##### Fluorine
 ### [ An explosion at a fluorine plant in China's Jiangsu Province kills 12 people and leads to the evacuation of 7,000 people. ](/news/2006/07/28/an-explosion-at-a-fluorine-plant-in-china-s-jiangsu-province-kills-12-people-and-leads-to-the-evacuation-of-7-000-people.md)
-_Context: China, Jiangsu Province, fluorine_
+_Context: Chinese, Jiangsu Province, fluorine_
 
 ##### WorldCom
 ### [ A U.S. federal appeals court upholds the conviction and 25 year sentence of former WorldCom CEO Bernard Ebbers for fraud. ](/news/2006/07/28/a-u-s-federal-appeals-court-upholds-the-conviction-and-25-year-sentence-of-former-worldcom-ceo-bernard-ebbers-for-fraud.md)

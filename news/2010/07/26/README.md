@@ -37,7 +37,7 @@ The southern Iraqi city of Karbala is hit by a double car bombing leaving at lea
 
 ##### United States
 ### [The United States, European Union and United Nations pledge additional resources to the African Union's AMISOM peacekeeping force in Somalia. ](/news/2010/07/26/the-united-states-european-union-and-united-nations-pledge-additional-resources-to-the-african-union-s-amisom-peacekeeping-force-in-somalia.md)
-_Context: AMISOM, African Union, EU, Somalia, United Nations, United States, peacekeeping force_
+_Context: AMISOM, African Union, European Union, Somalia, United Nations, United States, peacekeeping force_
 
 ##### President of France
 ### [The President of France Nicolas Sarkozy confirms that Al-Qaeda Organization in the Islamic Maghreb has executed Michel Germaneau, a French hostage taken in Mali. ](/news/2010/07/26/the-president-of-france-nicolas-sarkozy-confirms-that-al-qaeda-organization-in-the-islamic-maghreb-has-executed-michel-germaneau-a-french-h.md)

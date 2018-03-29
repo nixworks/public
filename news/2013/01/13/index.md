@@ -13,7 +13,7 @@ _Context: Chief Justice, President of Sri Lanka, Rajapaksa, Shirani Bandaranayak
 
 ##### Neelie Kroes
 ### [Neelie Kroes, the European Commissioner for Digital Agenda, said in an interview with the "Financial Times" of London that the European Union is planning regulatory moves later in the year that will facilitate consolidation of the telecommunications market across national borders. ](/news/2013/01/13/neelie-kroes-the-european-commissioner-for-digital-agenda-said-in-an-interview-with-the-financial-times-of-london-that-the-european-unio.md)
-_Context: EU, European Commissioner for Digital Agenda, Financial Times, Neelie Kroes, telecommunication_
+_Context: European Commissioner for Digital Agenda, European Union, Financial Times, Neelie Kroes, telecommunication_
 
 ##### Time Warner Inc.
 ### [Time Warner Inc. film "Argo" wins awards for best drama and best director at the 70th Golden Globe Awards. ](/news/2013/01/13/time-warner-inc-film-argo-wins-awards-for-best-drama-and-best-director-at-the-70th-golden-globe-awards.md)

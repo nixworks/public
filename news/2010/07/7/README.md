@@ -7,9 +7,9 @@ Formats: [HTML](2010/07/7/index.html)  [JSON](2010/07/7/index.json)  [XML](2010/
 ### [Spain defeats Germany 1-0 to win its semi-final and for its first time, along with Netherlands make the 2010 FIFA World Cup Final. ](/news/2010/07/7/spain-defeats-germany-1-0-to-win-its-semi-final-and-for-its-first-time-along-with-netherlands-make-the-2010-fifa-world-cup-final.md)
 _Context: 2010 FIFA World Cup Final, FIFA World Cup 2010, Germany, Netherlands, Spain, third_
 
-##### EU
+##### European Union
 ### [The European Union reveals its list of 91 stress test banks. ](/news/2010/07/7/the-european-union-reveals-its-list-of-91-stress-test-banks.md)
-_Context: EU_
+_Context: European Union_
 
 ##### Blizzard Entertainment
 ### [Blizzard Entertainment announces it is to force people playing its World of Warcraft game to post under their real name. ](/news/2010/07/7/blizzard-entertainment-announces-it-is-to-force-people-playing-its-world-of-warcraft-game-to-post-under-their-real-name.md)
@@ -65,7 +65,7 @@ An Israeli allegedly linked to the killing of a Hamas operative in Dubai can be 
 
 ##### Constitutional Court of Turkey
 ### [The Constitutional Court of Turkey annuls key parts of government-backed constitutional reforms designed for possible European Union membership, rejecting opposition calls for the rest to be rejected as well and permitting the rest to be put to a national referendum in September. ](/news/2010/07/7/the-constitutional-court-of-turkey-annuls-key-parts-of-government-backed-constitutional-reforms-designed-for-possible-european-union-members.md)
-_Context: Constitutional Court of Turkey, EU, referendum_
+_Context: Constitutional Court of Turkey, European Union, referendum_
 
 ##### Paris
 ### [A Paris court sentences former Panamanian dictator Manuel Noriega to seven years in jail for money laundering in France for the Medellin drug cartel in the 1980s. ](/news/2010/07/7/a-paris-court-sentences-former-panamanian-dictator-manuel-noriega-to-seven-years-in-jail-for-money-laundering-in-france-for-the-medellin-dru.md)
@@ -115,7 +115,7 @@ The scene inside Con Ed’s command center showed the urgency of the utility’s
 ### [A study shows that a married person's risk of encountering marriage troubles increases by up to 75% if a co-worker, friend, or a family member gets a divorce. ](/news/2010/07/7/a-study-shows-that-a-married-person-s-risk-of-encountering-marriage-troubles-increases-by-up-to-75-if-a-co-worker-friend-or-a-family-memb.md)
 _Context: divorce_
 
-##### Nature Astronomy
+##### Nature
 ### [Researchers publish in "Nature" their discovery of stone tools in Norfolk suggesting that humans landed there almost a million years ago. ](/news/2010/07/7/researchers-publish-in-nature-their-discovery-of-stone-tools-in-norfolk-suggesting-that-humans-landed-there-almost-a-million-years-ago.md)
 Researchers discover stone tools in Norfolk that suggest humans arrived in Britain nearly a million years ago.
 

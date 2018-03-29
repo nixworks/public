@@ -15,9 +15,9 @@ Canadian Prime Minister Stephen Harper says his country will not be sending extr
 ### [ At least 66 Israeli troops are wounded when a Qassam rocket from Gaza Strip hits an Israeli Defence Forces training base in Southern Israel. ](/news/2007/09/11/at-least-66-israeli-troops-are-wounded-when-a-qassam-rocket-from-gaza-strip-hits-an-israeli-defence-forces-training-base-in-southern-israel.md)
 _Context: Gaza Strip, Israel, Israeli Defence Forces, Qassam rocket, southern Israel_
 
-##### EU
+##### European Union
 ### [ The European Union decides the United Kingdom can continue to use imperial measurements for the foreseeable future. ](/news/2007/09/11/the-european-union-decides-the-united-kingdom-can-continue-to-use-imperial-measurements-for-the-foreseeable-future.md)
-_Context: EU, United Kingdom, imperial measurement_
+_Context: European Union, United Kingdom, imperial measurement_
 
 ##### Philippines
 ### [ Police in the Philippines arrest seven militants suspected of plotting to bomb tourist and shopping locations in the southern Philippines. ](/news/2007/09/11/police-in-the-philippines-arrest-seven-militants-suspected-of-plotting-to-bomb-tourist-and-shopping-locations-in-the-southern-philippines.md)
@@ -71,9 +71,9 @@ _Context: Madeleine McCann's disappearance, Portugal_
 ### [ Burger King announces that it would limit advertising to children younger than 12 to foods that meet strict nutritional guidelines. ](/news/2007/09/11/burger-king-announces-that-it-would-limit-advertising-to-children-younger-than-12-to-foods-that-meet-strict-nutritional-guidelines.md)
 Fast-food chain Burger King Holdings Inc said on Tuesday that, beginning late next year, it will limit advertising aimed at children younger than 12 to food and drinks that meet strict nutritional guidelines.
 
-##### China
+##### Chinese
 ### [ Chinese and US safety officials sign an agreement banning the export of toys with lead paint to the United States. ](/news/2007/09/11/chinese-and-us-safety-officials-sign-an-agreement-banning-the-export-of-toys-with-lead-paint-to-the-united-states.md)
-_Context: China, United States, lead paint, toy_
+_Context: Chinese, United States, lead paint, toy_
 
 ##### Bruce Golding
 ### [ Bruce Golding is sworn in as Prime Minister of Jamaica following the victory of his Jamaica Labour Party in the parliamentary elections. ](/news/2007/09/11/bruce-golding-is-sworn-in-as-prime-minister-of-jamaica-following-the-victory-of-his-jamaica-labour-party-in-the-parliamentary-elections.md)

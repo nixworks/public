@@ -15,9 +15,9 @@ _Context: Mozambique, World Food Program, flooding_
 ### [ A bus belonging to Iran's Islamic Revolutionary Guards Corps has been hit by a car bomb in Zahedan killing 18 people. ](/news/2007/02/14/a-bus-belonging-to-iran-s-islamic-revolutionary-guards-corps-has-been-hit-by-a-car-bomb-in-zahedan-killing-18-people.md)
 _Context: Iran, Islamic Revolutionary Guards Corps, Zahedan, car bomb_
 
-##### China
+##### Chinese
 ### [ The foreign ministers of China, India and Russia meet in New Delhi, India to discuss greater cooperation between the three Asian countries on issues including terrorism, drug trafficking and Afghanistan. ](/news/2007/02/14/the-foreign-ministers-of-china-india-and-russia-meet-in-new-delhi-india-to-discuss-greater-cooperation-between-the-three-asian-countries.md)
-_Context: Afghanistan, Asia, China, India, New Delhi, India, Russia, drug trafficking, terrorism_
+_Context: Afghanistan, Asia, Chinese, India, New Delhi, India, Russia, drug trafficking, terrorism_
 
 ##### Gurbanguly Berdimuhamedow
 ### [ Gurbanguly Berdimuhamedow is sworn in as President of Turkmenistan. ](/news/2007/02/14/gurbanguly-berdimuhamedow-is-sworn-in-as-president-of-turkmenistan.md)

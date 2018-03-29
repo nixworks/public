@@ -3,13 +3,13 @@ Formats: [HTML](2007/08/17/index.html)  [JSON](2007/08/17/index.json)  [XML](200
 
 ## [2007-08-17](/news/2007/08/17/index.md)
 
-##### Muslim
+##### Muslims
 ### [ Six Islamic militants involved in planning the 2002 Bali bombings have their sentences reduced by five months due to good behaviour. ](/news/2007/08/17/six-islamic-militants-involved-in-planning-the-2002-bali-bombings-have-their-sentences-reduced-by-five-months-due-to-good-behaviour.md)
-_Context: 2002 Bali bombings, Muslim_
+_Context: 2002 Bali bombings, Muslims_
 
 ##### 2007 Pacific typhoon season
 ### [ 2007 Pacific typhoon season: Southeast China and Taiwan prepare for typhoon Sepat. ](/news/2007/08/17/2007-pacific-typhoon-season-southeast-china-and-taiwan-prepare-for-typhoon-sepat.md)
-_Context: 2007 Pacific typhoon season, China, Taiwan, Typhoon Sepat_
+_Context: 2007 Pacific typhoon season, Chinese, Taiwan, Typhoon Sepat_
 
 ##### Parliament of Australia
 ### [ The Parliament of Australia passes the "Northern Territory Indigenous Bill" making changes to the Australian welfare system and land rights. ](/news/2007/08/17/the-parliament-of-australia-passes-the-northern-territory-indigenous-bill-making-changes-to-the-australian-welfare-system-and-land-rights.md)
@@ -59,9 +59,9 @@ Rescuers are trying to reach 172 miners trapped in a flooded coal mine in east C
 ### [ A Nile boat sinks off the northern Egyptian town of Beni Suef with dozens feared missing. ](/news/2007/08/17/a-nile-boat-sinks-off-the-northern-egyptian-town-of-beni-suef-with-dozens-feared-missing.md)
 A Nile boat has sunk off the south Egyptian town of Beni Suef and police sources say they believe dozens of people could be missing.
 
-##### China
+##### Chinese
 ### [ Russia, China and four Central Asian members of the Shanghai Cooperation Organisation conduct war games in the southern Ural Mountains area of Russia with Vladimir Putin, the President of Russia, proposing that they be held regularly. ](/news/2007/08/17/russia-china-and-four-central-asian-members-of-the-shanghai-cooperation-organisation-conduct-war-games-in-the-southern-ural-mountains-area.md)
-_Context: Central Asia, China, President of Russia, Russia, Shanghai Cooperation Organisation, Ural Mountains, Vladimir Putin, war games_
+_Context: Central Asia, Chinese, President of Russia, Russia, Shanghai Cooperation Organisation, Ural Mountains, Vladimir Putin, war games_
 
 ##### Texas
 ### [ Texas oil executive David B. Chalmers, Jr pleads guilty to wire fraud connected with the United Nations oil-for-food program associated with the United Nations. ](/news/2007/08/17/texas-oil-executive-david-b-chalmers-jr-pleads-guilty-to-wire-fraud-connected-with-the-united-nations-oil-for-food-program-associated-wit.md)

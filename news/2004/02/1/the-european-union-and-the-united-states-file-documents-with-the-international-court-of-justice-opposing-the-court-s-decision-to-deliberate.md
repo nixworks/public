@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/02/1/the-european-union-and-the-united-states-file-do
 
 ### [2004-02-1](/news/2004/02/1/index.md)
 
-##### EU
+##### European Union
 #  The European Union and the United States file documents with the International Court of Justice opposing the court's decision to deliberate on the Israeli West Bank barrier.
 
 

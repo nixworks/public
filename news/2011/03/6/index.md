@@ -63,9 +63,9 @@ Nine people are killed and 11 more injured after a fire breaks out in a bar in t
 ### [A 6.2 magnitude earthquake shakes northern Chile and southern Peru. ](/news/2011/03/6/a-6-2-magnitude-earthquake-shakes-northern-chile-and-southern-peru.md)
 _Context: Chile, Peru_
 
-##### England
+##### English
 ### [English singer and musician Phil Collins announces his retirement due to health concerns. ](/news/2011/03/6/english-singer-and-musician-phil-collins-announces-his-retirement-due-to-health-concerns.md)
-_Context: England, Phil Collins_
+_Context: English, Phil Collins_
 
 ##### King James Bible
 ### [A rare original King James Bible is found in a church in Wiltshire, England in the United Kingdom. ](/news/2011/03/6/a-rare-original-king-james-bible-is-found-in-a-church-in-wiltshire-england-in-the-united-kingdom.md)

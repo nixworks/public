@@ -15,7 +15,7 @@ Former Pope Benedict returns to a new home in the Vatican, two months after beco
 ### [Voting also gets underway in the South Shields by-election to fill the parliamentary seat vacated by former Foreign Secretary David Miliband. ](/news/2013/05/2/voting-also-gets-underway-in-the-south-shields-by-election-to-fill-the-parliamentary-seat-vacated-by-former-foreign-secretary-david-miliband.md)
 _Context: David Miliband, Foreign Secretary, South Shields by-election_
 
-##### England
+##### English
 ### [Voters in England and the Isle of Anglesey in Wales go to the polls for local elections. ](/news/2013/05/2/voters-in-england-and-the-isle-of-anglesey-in-wales-go-to-the-polls-for-local-elections.md)
 Voters across England, and in Anglesey, are going to the polls to decide the outcome of council elections and a by-election in the Westminster seat of South Shields.
 
@@ -25,7 +25,7 @@ A limited cabinet reshuffle will see six ministers replaced in Egypt, state news
 
 ##### Kindergarten
 ### [Two kindergarteners are poisoned to death by the owner of a rival school in northern China. ](/news/2013/05/2/two-kindergarteners-are-poisoned-to-death-by-the-owner-of-a-rival-school-in-northern-china.md)
-_Context: China, kindergarten_
+_Context: Chinese, kindergarten_
 
 ##### U.S.
 ### [The U.S. state of Rhode Island becomes the tenth state to legalize same-sex marriage. ](/news/2013/05/2/the-u-s-state-of-rhode-island-becomes-the-tenth-state-to-legalize-same-sex-marriage.md)
@@ -49,7 +49,7 @@ _Context: Osama bin Laden, September 11, 2001 terrorist attacks, U.S. Court of A
 
 ##### Maryland
 ### [The U.S. state of Maryland abolishes capital punishment for future offenders. ](/news/2013/05/2/the-u-s-state-of-maryland-abolishes-capital-punishment-for-future-offenders.md)
-_Context: Maryland, capital punishment_
+_Context: Maryland, death_
 
 ##### Bush Intercontinental Airport
 ### [A man fires two shots into the ceiling of Bush Intercontinental Airport in Houston, Texas, United States with a rifle before killing himself. ](/news/2013/05/2/a-man-fires-two-shots-into-the-ceiling-of-bush-intercontinental-airport-in-houston-texas-united-states-with-a-rifle-before-killing-himself.md)

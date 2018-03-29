@@ -45,7 +45,7 @@ With his pledge to create a morally irreproachable republic in tatters over a mi
 
 ##### Japan
 ### [Japan and Taiwan sign an agreement over fishing rights around the Senkaku Islands. China voices "extreme concerns" over the deal. ](/news/2013/04/10/japan-and-taiwan-sign-an-agreement-over-fishing-rights-around-the-senkaku-islands-china-voices-extreme-concerns-over-the-deal.md)
-_Context: China, Japan, Senkaku Islands, Taiwan, fishing_
+_Context: Chinese, Japan, Senkaku Islands, Taiwan, fishing_
 
 ##### North Korea
 ### [North Korea shuts down tourism from China as nuclear tensions mount, but business travel is allowed to continue. ](/news/2013/04/10/north-korea-shuts-down-tourism-from-china-as-nuclear-tensions-mount-but-business-travel-is-allowed-to-continue.md)

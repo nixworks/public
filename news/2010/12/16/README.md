@@ -79,9 +79,9 @@ _Context: Delicious, Yahoo!_
 ### [The International Monetary Fund approves a 22.5bn euro loan to the Republic of Ireland. ](/news/2010/12/16/the-international-monetary-fund-approves-a-22-5bn-euro-loan-to-the-republic-of-ireland.md)
 The International Monetary Fund approves a 22.5bn-euro three-year loan for the Republic of Ireland.
 
-##### EU
+##### European Union
 ### [European Union leaders agree to change the constitution to establish a mechanism to tackle sovereign debt problems. ](/news/2010/12/16/european-union-leaders-agree-to-change-the-constitution-to-establish-a-mechanism-to-tackle-sovereign-debt-problems.md)
-_Context: EU, constitution, sovereign debt_
+_Context: European Union, constitution, sovereign debt_
 
 ##### U.S.
 ### [A U.S. missile strike kills seven militants in the Spin Drand area of Khyber, Pakistan. ](/news/2010/12/16/a-u-s-missile-strike-kills-seven-militants-in-the-spin-drand-area-of-khyber-pakistan.md)

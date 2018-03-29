@@ -27,9 +27,9 @@ A Colombian governor kidnapped by leftist rebels had been killed shortly after h
 ### [ Shia insurgency in Yemen led to the deaths of 73 Saudi soldiers, while more than 100 Houthis have been killed in recent days. ](/news/2009/12/23/shia-insurgency-in-yemen-led-to-the-deaths-of-73-saudi-soldiers-while-more-than-100-houthis-have-been-killed-in-recent-days.md)
 Refugees in northern Yemen say that their villages were bombed in an escalating conflict with Houthi rebels. The population of the largest refugee camps doubled in the past month, prompting UNHCR to open a third one Dec. 17.
 
-##### Dutch
+##### Netherlands
 ### [ A Dutch court hears a case taken by Kurdish survivors of poison gas attacks in Halabja against businessman Frans van Anraat, who sold chemicals to Saddam Hussein during the 1980s. ](/news/2009/12/23/a-dutch-court-hears-a-case-taken-by-kurdish-survivors-of-poison-gas-attacks-in-halabja-against-businessman-frans-van-anraat-who-sold-chemi.md)
-_Context: Dutch, Frans van Anraat, Halabja, Kurdish, Saddam Hussein_
+_Context: Frans van Anraat, Halabja, Kurdish, Netherlands, Saddam Hussein_
 
 ##### China
 ### [ The trial of Chinese dissident Liu Xiaobo on charges of subversion begins. ](/news/2009/12/23/the-trial-of-chinese-dissident-liu-xiaobo-on-charges-of-subversion-begins.md)

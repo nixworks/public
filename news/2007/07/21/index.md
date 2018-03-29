@@ -41,7 +41,7 @@ _Context: Mars Exploration Rover, Martian dust storm, NASA_
 
 ##### Flood
 ### [ The death toll of recent floods in China rises to 40. ](/news/2007/07/21/the-death-toll-of-recent-floods-in-china-rises-to-40.md)
-_Context: China, flood_
+_Context: Chinese, flood_
 
 ##### British
 ### [ In the UK, the Royal Air Force has one of its busiest weekends in peacetime rescuing hundreds of people from flooding after days of heavy rain lead to widespread flooding. ](/news/2007/07/21/in-the-uk-the-royal-air-force-has-one-of-its-busiest-weekends-in-peacetime-rescuing-hundreds-of-people-from-flooding-after-days-of-heavy-r.md)

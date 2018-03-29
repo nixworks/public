@@ -53,7 +53,7 @@ _Context: Beijing, China, Chinese President, Hu Jintao, Politburo Standing Commi
 
 ##### Yunnan
 ### [ A magnitude 5.7 earthquake strikes Yunnan province of China, killing one person and destroying over 10,000 homes. ](/news/2009/07/9/a-magnitude-5-7-earthquake-strikes-yunnan-province-of-china-killing-one-person-and-destroying-over-10-000-homes.md)
-_Context: China, Yunnan_
+_Context: Chinese, Yunnan_
 
 ## [Previous Day...](/news/2009/07/8/index.md)
 

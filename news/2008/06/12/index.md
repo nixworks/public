@@ -17,7 +17,7 @@ The Supreme Court rejected the Bush administration’s argument that the Guantá
 
 ##### Ireland
 ### [ Irish voters go to the polls for the Twenty-eighth Amendment of the Constitution of Ireland to enable ratification of the Treaty of Lisbon of the European Union. ](/news/2008/06/12/irish-voters-go-to-the-polls-for-the-twenty-eighth-amendment-of-the-constitution-of-ireland-to-enable-ratification-of-the-treaty-of-lisbon.md)
-_Context: EU, Ireland, Treaty of Lisbon, ratification, the second Irish referendum_
+_Context: European Union, Ireland, Treaty of Lisbon, ratification, the second Irish referendum_
 
 ##### China
 ### [ The People's Republic of China and Taiwan begin their first formal talks in a decade on improving cross-strait relations. ](/news/2008/06/12/the-people-s-republic-of-china-and-taiwan-begin-their-first-formal-talks-in-a-decade-on-improving-cross-strait-relations.md)

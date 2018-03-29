@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/27/the-south-korean-aviation-and-railway-accident-
 
 ### [2018-03-27](/news/2018/03/27/index.md)
 
-##### Aviation and Railway Accident Investigation Board
+##### 2018 in aviation
 # The South Korean Aviation and Railway Accident Investigation Board issues its final report on a near-collision between a China Southern Airbus A319 and a Korean Air Boeing 737-800 on a runway in Cheongju, South Korea. The Board reports the Airbus crew misunderstood the full meaning of the specific ground control runway instruction. 
 
 

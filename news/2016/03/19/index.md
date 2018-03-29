@@ -5,7 +5,7 @@ Formats: [HTML](2016/03/19/index.html)  [JSON](2016/03/19/index.json)  [XML](201
 
 ##### Republican Party presidential candidates, 2016
 ### [Two dozen protesters park their cars in the middle of Shea Boulevard, and block the main road to the Phoenix suburb of Fountain Hills, Arizona, where Donald Trump's campaign rally with former Arizona Governor Jan Brewer, and controversial sheriff Joe Arpaio was held. For hours, traffic was backed up for miles. The road was eventually cleared. Three protesters were arrested and two cars were towed from the boulevard. ](/news/2016/03/19/two-dozen-protesters-park-their-cars-in-the-middle-of-shea-boulevard-and-block-the-main-road-to-the-phoenix-suburb-of-fountain-hills-arizo.md)
-_Context: Arizona Governor, Fountain Hills, Arizona, Jan Brewer, Joe Arpaio, Phoenix, Arizona, Republican Party presidential candidates, 2016, Trump, sheriff_
+_Context: Arizona Governor, Donald Trump, Fountain Hills, Arizona, Jan Brewer, Joe Arpaio, Phoenix, Arizona, Republican Party presidential candidates, 2016, sheriff_
 
 ##### 2015-16 protests in Brazil
 ### [A survey conducted by Datafolha shows a majority of Brazilians now favor the impeachment or resignation of President Dilma Rousseff. The poll showed 68 percent of respondents favor Rousseff's impeachment by Congress, while 65 percent think the president should resign. The president's approval ratings have been hammered by Brazil's worst recession in decades and its biggest ever corruption probe. ](/news/2016/03/19/a-survey-conducted-by-datafolha-shows-a-majority-of-brazilians-now-favor-the-impeachment-or-resignation-of-president-dilma-rousseff-the-pol.md)

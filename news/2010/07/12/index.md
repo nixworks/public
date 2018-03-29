@@ -43,9 +43,9 @@ Official say woman facing death for adultery has received temporary stay of exec
 ### [The U.S.internet search company Google agrees to submit to official Chinese censorship of "law-breaking content". ](/news/2010/07/12/the-u-s-internet-search-company-google-agrees-to-submit-to-official-chinese-censorship-of-law-breaking-content.md)
 _Context: Google_
 
-##### EU
+##### European Union
 ### [The EU agree to impose tougher sanctions against member countries that violate the Stability and Growth Pact. ](/news/2010/07/12/the-eu-agree-to-impose-tougher-sanctions-against-member-countries-that-violate-the-stability-and-growth-pact.md)
-_Context: EU, Stability and Growth Pact_
+_Context: European Union, Stability and Growth Pact_
 
 ##### United Kingdom
 ### [The United Kingdom Secretary of State for Health Andrew Lansley outlines a radical proposal to reform the country's National Health Service, including the privatisation of hospitals. ](/news/2010/07/12/the-united-kingdom-secretary-of-state-for-health-andrew-lansley-outlines-a-radical-proposal-to-reform-the-country-s-national-health-service.md)

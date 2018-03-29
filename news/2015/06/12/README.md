@@ -21,7 +21,7 @@ French court clears former International Monetary Fund chief of ‘aggravated pi
 
 ##### Associated Press
 ### [The Associated Press reports that hackers linked to the People's Republic of China appear to have gained access to sensitive background material about people seeking security clearances from the United States government. ](/news/2015/06/12/the-associated-press-reports-that-hackers-linked-to-the-people-s-republic-of-china-appear-to-have-gained-access-to-sensitive-background-mate.md)
-_Context: Associated Press, China, United States government, hacker_
+_Context: Associated Press, Chinese, United States government, hacker_
 
 ##### Russian
 ### [Two Russian citizens are arrested for entering a Latvian military base as the Baltic nation was participating in US-led military exercises. ](/news/2015/06/12/two-russian-citizens-are-arrested-for-entering-a-latvian-military-base-as-the-baltic-nation-was-participating-in-us-led-military-exercises.md)

@@ -33,7 +33,7 @@ _Context: Hawr Rajab, Hawr Rajab Awakening Council, Iraq, al-Qaeda, militant, so
 
 ##### EMCDDA
 ### [ A report by the EMCDDA says the number of cocaine users in the European Union has increased by one million in one year. ](/news/2007/11/22/a-report-by-the-emcdda-says-the-number-of-cocaine-users-in-the-european-union-has-increased-by-one-million-in-one-year.md)
-_Context: EMCDDA, EU, cocaine_
+_Context: EMCDDA, European Union, cocaine_
 
 ##### IAEA
 ### [ The head of IAEA, Mohamed ElBaradei, says the agency cannot be sure "about the absence of undeclared nuclear material and activities" in Iran. ](/news/2007/11/22/the-head-of-iaea-mohamed-elbaradei-says-the-agency-cannot-be-sure-about-the-absence-of-undeclared-nuclear-material-and-activities-in-ir.md)

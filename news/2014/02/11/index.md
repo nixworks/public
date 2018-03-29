@@ -31,15 +31,15 @@ _Context: North Korea, United States_
 ### [Under pressure to extract natural gas reserves, talks occur over the Cyprus dispute. ](/news/2014/02/11/under-pressure-to-extract-natural-gas-reserves-talks-occur-over-the-cyprus-dispute.md)
 _Context: Cyprus dispute_
 
-##### China
+##### Chinese
 ### [The first governmental meetings occur between the People's Republic of China (China) and the Republic of China (Taiwan) after a 65-year hiatus. ](/news/2014/02/11/the-first-governmental-meetings-occur-between-the-people-s-republic-of-china-china-and-the-republic-of-china-taiwan-after-a-65-year-hiat.md)
-_Context: China, Taiwan_
+_Context: Chinese, Taiwan_
 
 ##### Military transport plane has crashed
 ### [A military transport plane has crashed in a mountainous area of Oum El Bouaghi Province in eastern Algeria, killing 77 people. ](/news/2014/02/11/a-military-transport-plane-has-crashed-in-a-mountainous-area-of-oum-el-bouaghi-province-in-eastern-algeria-killing-77-people.md)
 A military transport plane carrying members of the Algerian armed forces and their relatives crashed into a mountain on Tuesday, killing 77 people, the worst air disaster in the North African country in a decade.
 
-##### England
+##### English
 ### [The British Geological Society warns that 1.6 million properties in England and Wales are at risk from groundwater flooding with flood risks likely to be high until at least May. ](/news/2014/02/11/the-british-geological-society-warns-that-1-6-million-properties-in-england-and-wales-are-at-risk-from-groundwater-flooding-with-flood-risks.md)
 Some 1.6 million properties across Britain are now at risk of groundwater flooding and there is no end in sight, an expert says.
 

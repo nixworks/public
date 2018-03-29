@@ -25,7 +25,7 @@ U.S. and Iraqi officials on Tuesday said bodies believed to be those of two miss
 
 ##### The Washington Post
 ### [ "The Washington Post", under the Freedom of Information Act, obtains the transcript of an investigative interview with Donald Rumsfeld. The U.S. Secretary of Defense cited poor memory, loose office procedures, and preoccupation with "the wars" as the reasons he did not know how his department nearly squandered $30 billion leasing several hundred tanker aircraft from Boeing. ](/news/2006/06/20/the-washington-post-under-the-freedom-of-information-act-obtains-the-transcript-of-an-investigative-interview-with-donald-rumsfeld-the.md)
-_Context: Boeing, Donald Rumsfeld, Freedom of Information Act, Secretary of Defense, The Washington Post_
+_Context: Donald Rumsfeld, Freedom of Information Act, Secretary of Defense, The Boeing Company, The Washington Post_
 
 ## [Previous Day...](/news/2006/06/19/index.md)
 

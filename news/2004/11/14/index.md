@@ -49,7 +49,7 @@ _Context: Vlaams Belang, Vlaams Blok, political party_
 
 ##### Iran
 ### [ Iran has agreed to curb most of its uranium enrichment with three EU countries, France, Germany and the UK. ](/news/2004/11/14/iran-has-agreed-to-curb-most-of-its-uranium-enrichment-with-three-eu-countries-france-germany-and-the-uk.md)
-_Context: EU, Iran, uranium enrichment_
+_Context: European Union, Iran, uranium enrichment_
 
 ## [Previous Day...](/news/2004/11/13/index.md)
 

@@ -57,7 +57,7 @@ _Context: China Energy Conservation and Environmental Protection Group, Liaoning
 
 ##### Thanet Wind Farm
 ### [The Thanet Wind Farm, the world's largest offshore wind farm, opens off the southeast coast of Thanet district in Kent, England. ](/news/2010/09/24/the-thanet-wind-farm-the-world-s-largest-offshore-wind-farm-opens-off-the-southeast-coast-of-thanet-district-in-kent-england.md)
-_Context: England, Kent, Thanet, Thanet Wind Farm, offshore wind farm, the world's largest_
+_Context: English, Kent, Thanet, Thanet Wind Farm, offshore wind farm, the world's largest_
 
 ##### Share
 ### [In the world's largest share offer, Brazilian semi-public energy company Petrobras raises US$67 billion. ](/news/2010/09/24/in-the-world-s-largest-share-offer-brazilian-semi-public-energy-company-petrobras-raises-us-67-billion.md)

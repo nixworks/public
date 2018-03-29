@@ -23,7 +23,7 @@ The 21-year-old white man suspected of shooting dead nine people at a black chur
 ### [Vietnam accuses China of attacking Vietnamese fishermen in three separate incidents in the South China Sea. ](/news/2015/06/17/vietnam-accuses-china-of-attacking-vietnamese-fishermen-in-three-separate-incidents-in-the-south-china-sea.md)
 _Context: South China Sea, Vietnam_
 
-##### China
+##### Chinese
 ### [The People's Republic of China and Australia sign a free trade agreement in Canberra as Andrew Robb, Australia's Minister for Trade and Investment, warns that the United States Congress only has weeks to approve the Trans-Pacific Partnership. ](/news/2015/06/17/the-people-s-republic-of-china-and-australia-sign-a-free-trade-agreement-in-canberra-as-andrew-robb-australia-s-minister-for-trade-and-inve.md)
 “#BREAKING China, Australia sign free trade agreement in Canberra”
 

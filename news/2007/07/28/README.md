@@ -5,7 +5,7 @@ Formats: [HTML](2007/07/28/index.html)  [JSON](2007/07/28/index.json)  [XML](200
 
 ##### Rwanda
 ### [ Rwanda abolishes capital punishment. ](/news/2007/07/28/rwanda-abolishes-capital-punishment.md)
-_Context: Rwanda, capital punishment_
+_Context: Rwanda, death_
 
 ##### Bernard Kouchner
 ### [ Bernard Kouchner, the French Foreign Minister, arrives in Lebanon to reduce tensions between the Prime Minister of Lebanon Fouad Siniora and the pro-Syrian opposition. ](/news/2007/07/28/bernard-kouchner-the-french-foreign-minister-arrives-in-lebanon-to-reduce-tensions-between-the-prime-minister-of-lebanon-fouad-siniora-an.md)

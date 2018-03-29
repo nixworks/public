@@ -41,7 +41,7 @@ Defense Secretary Ash Carter and Malaysian Defense Minister Hishammuddin Hussein
 
 ##### South Korea
 ### [South Korea and China agree to establish an emergency navy and military hotline. ](/news/2015/11/4/south-korea-and-china-agree-to-establish-an-emergency-navy-and-military-hotline.md)
-_Context: China, South Korea, hotline_
+_Context: Chinese, South Korea, hotline_
 
 ##### Association of Southeast Asian Nations
 ### [An Association of Southeast Asian Nations (ASEAN) meeting in Malaysia fails to agree on a joint communique following disagreement between China and other nations over the South China Sea. ](/news/2015/11/4/an-association-of-southeast-asian-nations-asean-meeting-in-malaysia-fails-to-agree-on-a-joint-communique-following-disagreement-between-ch.md)

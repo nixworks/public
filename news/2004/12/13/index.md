@@ -41,7 +41,7 @@ _Context: Conseil d'tat, Hizbullah, al-Manar, antisemitism, race_
 
 ##### Cannibal
 ### [ Self-confessed cannibal Yoo Young-Chul, convicted of killing 20 people, mostly prostitutes, is sentenced to death in Seoul, South Korea. ](/news/2004/12/13/self-confessed-cannibal-yoo-young-chul-convicted-of-killing-20-people-mostly-prostitutes-is-sentenced-to-death-in-seoul-south-korea.md)
-_Context: Seoul, Yoo Young-Chul, cannibal, capital punishment_
+_Context: Seoul, Yoo Young-Chul, cannibal, death_
 
 ## [Previous Day...](/news/2004/12/12/index.md)
 

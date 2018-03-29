@@ -11,7 +11,7 @@ _Context: Everybody Draw Mohammed Day, Facebook, Pakistan_
 ### [Six Turkish soldiers are killed in a rocket attack on a navy base by suspected Kurdish rebels in the south of the country. ](/news/2010/05/31/six-turkish-soldiers-are-killed-in-a-rocket-attack-on-a-navy-base-by-suspected-kurdish-rebels-in-the-south-of-the-country.md)
 State media blames Kurdish fighters for attack that killed six soldiers and wounded seven.
 
-##### EU
+##### European Union
 ### [The 25th EU-Russia summit begins in Rostov-on-Don with talks on industrial and trade links, human rights and a visa-free regime. ](/news/2010/05/31/the-25th-eu-russia-summit-begins-in-rostov-on-don-with-talks-on-industrial-and-trade-links-human-rights-and-a-visa-free-regime.md)
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews
 

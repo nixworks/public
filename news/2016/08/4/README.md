@@ -3,9 +3,9 @@ Formats: [HTML](2016/08/4/index.html)  [JSON](2016/08/4/index.json)  [XML](2016/
 
 ## [2016-08-4](/news/2016/08/4/index.md)
 
-##### China
+##### Chinese
 ### [China's unmanned lunar rover Yutu shuts down after exploring the Moon for 31 months. ](/news/2016/08/4/china-s-unmanned-lunar-rover-yutu-shuts-down-after-exploring-the-moon-for-31-months.md)
-_Context: China, Moon, Yutu, lunar rover_
+_Context: Chinese, Moon, Yutu, lunar rover_
 
 ##### Nepal
 ### [In Nepal, Pushpa Kamal Dahal takes the oath of office and secrecy as Prime Minister. ](/news/2016/08/4/in-nepal-pushpa-kamal-dahal-takes-the-oath-of-office-and-secrecy-as-prime-minister.md)
@@ -23,7 +23,7 @@ Manila Standard | Defining The News
 ### [China is blocking Taiwan's efforts to join the International Civil Aviation Organization despite 58 million air passengers passing over Taiwan's flight information region annually, citing the One-China principle. ](/news/2016/08/4/china-is-blocking-taiwan-s-efforts-to-join-the-international-civil-aviation-organization-despite-58-million-air-passengers-passing-over-taiw.md)
 The Mainland Affairs Council (MAC) yesterday urged the Chinese government to demonstrate goodwill toward Taiwan’s application to attend this year’s International Civil Aviation Organization (ICAO) Assembly, which it said would be filed under an “appropriate name.”
 
-##### China
+##### Chinese
 ### [China bans K-pop stars and South Korean actors from attending promotional events in retaliation for Seoul's deployment of the U.S. THAAD anti-ballistic missile system. ](/news/2016/08/4/china-bans-k-pop-stars-and-south-korean-actors-from-attending-promotional-events-in-retaliation-for-seoul-s-deployment-of-the-u-s-thaad-ant.md)
 Share prices of South Korea’s talent agencies have plummeted, and tears have been shed by forlorn fans as Beijing has quietly blocked some of South Korea’s K-pop stars and actors from attending promotional events.
 

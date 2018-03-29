@@ -27,7 +27,7 @@ _Context: NSW, burqa_
 ### [25-year-old navy medic Michael Lyons is found guilty in Plymouth of refusing to attend rifle training; Lyons says he developed a moral objection to the war in Afghanistan due to revelations made public by WikiLeaks. ](/news/2011/07/5/25-year-old-navy-medic-michael-lyons-is-found-guilty-in-plymouth-of-refusing-to-attend-rifle-training-lyons-says-he-developed-a-moral-objec.md)
 _Context: Plymouth, War in Afghanistan (2001-present), WikiLeaks_
 
-##### Dutch
+##### Netherlands
 ### [The Netherlands is held responsible for the deaths of three Bosniaks during the Srebrenica massacre in Bosnia, according to a court ruling in The Hague. ](/news/2011/07/5/the-netherlands-is-held-responsible-for-the-deaths-of-three-bosniaks-during-the-srebrenica-massacre-in-bosnia-according-to-a-court-ruling-i.md)
 The Dutch state was responsible for the deaths of three Bosniaks in the 1995 Srebrenica massacre, a court rules, opening the way for more claims.
 
@@ -75,9 +75,9 @@ Oil prices rose to their highest in two weeks on Tuesday, aided by a broad rush 
 ### [Trainmaker Bombardier Transportation cuts 1,400 jobs from its United Kingdom factory in the English city of Derby after missing out on the GBP1.4bn Thameslink project. ](/news/2011/07/5/trainmaker-bombardier-transportation-cuts-1-400-jobs-from-its-united-kingdom-factory-in-the-english-city-of-derby-after-missing-out-on-the-a.md)
 Train maker Bombardier, which missed out on the £1.4bn Thameslink contract, says it will cut more than 1,400 jobs at its Derby plant.
 
-##### EU
+##### European Union
 ### [Bailouts for Greece's financial system are challenged in a German court amid concerns that the result may rock the European Union. ](/news/2011/07/5/bailouts-for-greece-s-financial-system-are-challenged-in-a-german-court-amid-concerns-that-the-result-may-rock-the-european-union.md)
-_Context: EU_
+_Context: European Union_
 
 ##### Christine Lagarde
 ### [Christine Lagarde officially starts as managing director of the International Monetary Fund (IMF). ](/news/2011/07/5/christine-lagarde-officially-starts-as-managing-director-of-the-international-monetary-fund-imf.md)

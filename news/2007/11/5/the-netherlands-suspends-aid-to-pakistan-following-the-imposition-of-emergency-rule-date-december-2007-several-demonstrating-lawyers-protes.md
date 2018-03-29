@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/5/the-netherlands-suspends-aid-to-pakistan-followi
 
 ### [2007-11-5](/news/2007/11/5/index.md)
 
-##### Dutch
+##### Netherlands
 #  The Netherlands suspends aid to Pakistan following the imposition of emergency rule.date=December 2007 Several demonstrating lawyers protesting outside the Sindh High Court are arrested.date=December 2007 President of the United States George W. Bush calls on the President of Pakistan Pervez Musharraf to end the state of emergency and restore civilian rule. 
 
 

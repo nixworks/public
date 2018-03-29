@@ -23,9 +23,9 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 ### [ Momcilo Perisic, former Yugoslavian army general, hands himself in to the United Nations war crimes tribunal in The Hague. He is charged with complicity of Serbian separatist war crimes in Bosnia and Croatia during the Yugoslav Wars. ](/news/2005/03/7/momailo-peria-ia-former-yugoslavian-army-general-hands-himself-in-to-the-united-nations-war-crimes-tribunal-in-the-hague-he-is-charged.md)
 _Context: Bosnia and Herzegovina, Croatia, Momcilo Perisic, Serbia, The Hague, United Nations, Yugoslav Wars, Yugoslavia, separatist, war crime_
 
-##### EU
+##### European Union
 ### [ Representatives of European Union meet with those of Turkey, a prospective new member. They also criticize Turkish police for violent handling of a demonstration that marked the International Women's Day in Istanbul. Turkish officials promise to investigate the case ](/news/2005/03/7/representatives-of-european-union-meet-with-those-of-turkey-a-prospective-new-member-they-also-criticize-turkish-police-for-violent-handl.md)
-_Context: EU, International Women's Day, Istanbul, Turkey, demonstration_
+_Context: European Union, International Women's Day, Istanbul, Turkey, demonstration_
 
 ##### Malaysia
 ### [ Malaysia and Indonesia agree to talks about the border dispute in Borneo over oil resources. Indonesia has deployed military units to the area ](/news/2005/03/7/malaysia-and-indonesia-agree-to-talks-about-the-border-dispute-in-borneo-over-oil-resources-indonesia-has-deployed-military-units-to-the-a.md)

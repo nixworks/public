@@ -57,7 +57,7 @@ _Context: Arab, stateless_
 ### [Protesters take to the streets of Hofuf and al-Ahsa in the east of the country. ](/news/2011/03/11/protesters-take-to-the-streets-of-hofuf-and-al-ahsa-in-the-east-of-the-country.md)
 _Context: Hofuf_
 
-##### EU
+##### European Union
 ### [European Union leaders gather in Brussels for an urgent summit. ](/news/2011/03/11/european-union-leaders-gather-in-brussels-for-an-urgent-summit.md)
 Rebel fighters hold only isolated pockets of oil town after forces loyal to Libyan leader attack by air, land and sea.
 

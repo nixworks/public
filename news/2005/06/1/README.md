@@ -15,9 +15,9 @@ _Context: Jimmy Wales, June 6, TIME Magazine, Wikipedia_
 ### [ In Bolivia, continuing protests against privatisation of basic utilities force congress to abandon a key session in the capital La Paz ](/news/2005/06/1/in-bolivia-continuing-protests-against-privatisation-of-basic-utilities-force-congress-to-abandon-a-key-session-in-the-capital-la-paz.md)
 _Context: Bolivia, La Paz, privatisation_
 
-##### Dutch
+##### Netherlands
 ### [ In the Netherlands, a national referendum on ratification of the European Constitution results in its rejection by a substantial margin. ](/news/2005/06/1/in-the-netherlands-a-national-referendum-on-ratification-of-the-european-constitution-results-in-its-rejection-by-a-substantial-margin.md)
-_Context: Dutch, EU Constitution, national referendum on ratification_
+_Context: EU Constitution, Netherlands, national referendum on ratification_
 
 ##### Australia
 ### [ In Australia, embassy of Indonesia was closed after it received a package containing suspected "biological agent". The case is probably related to the sentence of Schapelle Corby ](/news/2005/06/1/in-australia-embassy-of-indonesia-was-closed-after-it-received-a-package-containing-suspected-biological-agent-the-case-is-probably-rel.md)

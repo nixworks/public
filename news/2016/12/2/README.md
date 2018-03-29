@@ -39,9 +39,9 @@ The president-elect spoke by phone with the president of Taiwan in the first suc
 ### [At least nine people are killed and 40 are missing in a warehouse fire in Oakland, California. ](/news/2016/12/2/at-least-nine-people-are-killed-and-40-are-missing-in-a-warehouse-fire-in-oakland-california.md)
 Police say they are preparing for as many as 40 deaths after a fire breaks out at a rave in Oakland.
 
-##### China
+##### Chinese
 ### [The bodies of 21 coal miners are retrieved from an unlicensed coal mine in the Chinese city of Qitaihe in the province of Heilongjiang. Four people have been arrested including the owner of the mine and three managers. ](/news/2016/12/2/the-bodies-of-21-coal-miners-are-retrieved-from-an-unlicensed-coal-mine-in-the-chinese-city-of-qitaihe-in-the-province-of-heilongjiang-four.md)
-_Context: China, Heilongjiang, Qitaihe_
+_Context: Chinese, Heilongjiang, Qitaihe_
 
 ##### 2016 Southeastern United States wildfires
 ### [The death toll from the wildfire that hit the U.S. town of Gatlinburg, Tennessee, rises to 13. ](/news/2016/12/2/the-death-toll-from-the-wildfire-that-hit-the-u-s-town-of-gatlinburg-tennessee-rises-to-13.md)
@@ -49,13 +49,13 @@ _Context: 2016 Southeastern United States wildfires, Gatlinburg, Tennessee_
 
 ##### Hubei
 ### [At least 18 people die and two more are injured in a bus accident in Hubei, China. ](/news/2016/12/2/at-least-18-people-die-and-two-more-are-injured-in-a-bus-accident-in-hubei-china.md)
-_Context: China, Hubei_
+_Context: Chinese, Hubei_
 
 ##### President
 ### [United States President Barack Obama blocks China's Fujian Grand Chip Investment Fund's acquisition of the U.S. semiconductor business of German-based Aixtron because of national security concerns. The German Economy Ministry withdrew its approval in October. ](/news/2016/12/2/united-states-president-barack-obama-blocks-china-s-fujian-grand-chip-investment-fund-s-acquisition-of-the-u-s-semiconductor-business-of-ge.md)
 (This December 2 story corrects to show the 2 billion rubles is combined amount stolen from accounts in central bank and commercial banks, not from central bank alone; clarifies that the figures are total stolen in cyberattacks for the year to date)
 
-##### EU
+##### European Union
 ### [Ministers of the European Union have given the EU president a mandate to lower charges that mobile phone services can impose on one another for keeping each others' customers connected as the customers "roam," that is, travel about Europe. ](/news/2016/12/2/ministers-of-the-european-union-have-given-the-eu-president-a-mandate-to-lower-charges-that-mobile-phone-services-can-impose-on-one-another.md)
 European Union ministers on Friday backed lowering the caps for how much mobile telecoms operators can charge each other to keep their customers connected while abroad, although they are likely to be cut further in subsequent negotiations.
 

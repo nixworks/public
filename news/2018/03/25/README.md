@@ -3,7 +3,7 @@ Formats: [HTML](2018/03/25/index.html)  [JSON](2018/03/25/index.json)  [XML](201
 
 ## [2018-03-25](/news/2018/03/25/index.md)
 
-##### Sahara
+##### Climate of Europe
 ### [An anomalous weather event caused due to dust from a sandstorm in the Sahara, leads to an orange snow blanketing several Eastern European countries, including Ukraine, Bulgaria, Romania and Russia. This weather event happens roughly every five years; a similar event occured in Siberia in 2007. ](/news/2018/03/25/an-anomalous-weather-event-caused-due-to-dust-from-a-sandstorm-in-the-sahara-leads-to-an-orange-snow-blanketing-several-eastern-european-co.md)
 Dust and sand from storms in northern Africa carpet ski resorts in Russia and Romania
 
@@ -33,7 +33,7 @@ Qatar&#39;s Sheikh Tamim is in Moscow to meet Russian President Vladimir Putin t
 
 ##### Russia-European Union relations
 ### [EU diplomatic chief Federica Mogherini holds crisis talks with Markus Ederer, the bloc's recalled ambassador to Russia. ](/news/2018/03/25/eu-diplomatic-chief-federica-mogherini-holds-crisis-talks-with-markus-ederer-the-bloc-s-recalled-ambassador-to-russia.md)
-_Context: EU, Federica Mogherini, Reactions to the poisoning of Sergei and Yulia Skripal, Russia, Russia-European Union relations_
+_Context: European Union, Federica Mogherini, Reactions to the poisoning of Sergei and Yulia Skripal, Russia, Russia-European Union relations_
 
 ##### Trump tariffs
 ### [South Korea and the United States reach agreements on trade and steel tariffs. ](/news/2018/03/25/south-korea-and-the-united-states-reach-agreements-on-trade-and-steel-tariffs.md)
@@ -52,7 +52,7 @@ MOKPO, South Korea: South Korea&#039;s coast guard said it rescued all 163 peopl
 Video on social media shows panic as rescue teams evacuate the building in southern Russia.
 
 ##### Modern flat Earth societies
-### [ Mike Hughes, a daredevil, limo driver, and Flat Earth believer, launches his homemade rocket 2000 feet in the air. ](/news/2018/03/25/mike-hughes-a-daredevil-limo-driver-and-flat-earth-believer-launches-his-homemade-rocket-2000-feet-in-the-air.md)
+### [Mike Hughes, a daredevil, limo driver, and Flat Earth believer, launches his homemade rocket 2000 feet in the air. ](/news/2018/03/25/mike-hughes-a-daredevil-limo-driver-and-flat-earth-believer-launches-his-homemade-rocket-2000-feet-in-the-air.md)
 Mike Hughes, a 61-year-old limousine driver and rocket-maker, propelled himself about 1,875 feet above the Mojave Desert on Saturday.
 
 ##### Yemeni Crisis (2011-present)

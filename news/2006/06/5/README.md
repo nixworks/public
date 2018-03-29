@@ -21,7 +21,7 @@ _Context: Alliance for the Restoration of Peace and Counterterrorism, Islamic Co
 
 ##### Javier Solana
 ### [ Javier Solana, foreign policy chief of the European Union, arrives in Tehran to talk with the Iranian Government about its plans to develop uranium enrichment facilities. ](/news/2006/06/5/javier-solana-foreign-policy-chief-of-the-european-union-arrives-in-tehran-to-talk-with-the-iranian-government-about-its-plans-to-develop.md)
-_Context: EU, Iran, Javier Solana, Tehran_
+_Context: European Union, Iran, Javier Solana, Tehran_
 
 ## [Previous Day...](/news/2006/06/4/index.md)
 

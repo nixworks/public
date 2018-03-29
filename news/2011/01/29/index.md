@@ -67,9 +67,9 @@ _Context: Afghanistan, Kandahar Province_
 ### [Investigators in Russia say they have discovered the identities of those responsible for the bombing at Domodedovo International Airport in Moscow. ](/news/2011/01/29/investigators-in-russia-say-they-have-discovered-the-identities-of-those-responsible-for-the-bombing-at-domodedovo-international-airport-in.md)
 _Context: Domodedovo International Airport, Moscow, Russia, bombing_
 
-##### England
+##### English
 ### [2011 English protests: Thousands of protesters demonstrate against cuts and increases in tuition fees in England; police escort student leader Aaron Porter away in Manchester amid calls from protesters for his resignation. ](/news/2011/01/29/2011-english-protests-thousands-of-protesters-demonstrate-against-cuts-and-increases-in-tuition-fees-in-england-police-escort-student-lead.md)
-_Context: Aaron Porter, England, Manchester, student leader_
+_Context: Aaron Porter, English, Manchester, student leader_
 
 ##### 2011 Yemeni protests
 ### [2011 Yemeni protests: Clashes take place outside the Egyptian embassy between supporters of President Ali Abdullah Saleh's government and opposition supporters expressing sympathy with the situation in Egypt. ](/news/2011/01/29/2011-yemeni-protests-clashes-take-place-outside-the-egyptian-embassy-between-supporters-of-president-ali-abdullah-saleh-s-government-and-op.md)

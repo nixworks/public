@@ -27,9 +27,9 @@ President to return home in next two days following surgery in Germany, paper sa
 ### [India test fires two short range missiles, the Dhanush and Prithvi II. ](/news/2010/03/27/india-test-fires-two-short-range-missiles-the-dhanush-and-prithvi-ii.md)
 _Context: Dhanush, India, Prithvi II, ballistic missile_
 
-##### EU
+##### European Union
 ### [The European Union and Libya lift visa bans on each other. ](/news/2010/03/27/the-european-union-and-libya-lift-visa-bans-on-each-other.md)
-_Context: EU, Libya_
+_Context: European Union, Libya_
 
 ##### RAI Television
 ### [Three deaf men who allege they were sodomised and abused by priests as children appear on RAI Television to confront the diocese of Verona. ](/news/2010/03/27/three-deaf-men-who-allege-they-were-sodomised-and-abused-by-priests-as-children-appear-on-rai-television-to-confront-the-diocese-of-verona.md)

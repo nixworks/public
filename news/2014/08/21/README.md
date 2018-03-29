@@ -25,7 +25,7 @@ The Ministry of Justice’s Investigation Bureau yesterday said allegations brou
 
 ##### Romania
 ### [The governments of Romania and Hungary sign a framework agreement for opening 20 cross-border roads, strengthening traffic links with the entire European Union. ](/news/2014/08/21/the-governments-of-romania-and-hungary-sign-a-framework-agreement-for-opening-20-cross-border-roads-strengthening-traffic-links-with-the-en.md)
-_Context: EU, Hungary, Romania_
+_Context: European Union, Hungary, Romania_
 
 ##### Hiroshima
 ### [36 people are killed by landslides in Hiroshima, Japan, after a night of heavy rain. ](/news/2014/08/21/36-people-are-killed-by-landslides-in-hiroshima-japan-after-a-night-of-heavy-rain.md)

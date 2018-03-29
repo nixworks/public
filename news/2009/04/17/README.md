@@ -25,7 +25,7 @@ _Context: Botswana, real diamond_
 
 ##### Czech Republic
 ### [ The Czech Republic invites Belarussian President Alexander Lukashenko to a European Union summit in May. ](/news/2009/04/17/the-czech-republic-invites-belarussian-president-alexander-lukashenko-to-a-european-union-summit-in-may.md)
-_Context: Alexander Lukashenko, Belarus, Belarussian President, Czech Republic, EU, summit_
+_Context: Alexander Lukashenko, Belarus, Belarussian President, Czech Republic, European Union, summit_
 
 ##### Serbia
 ### [ Serbian President Boris Tadic visits Kosovo. ](/news/2009/04/17/serbian-president-boris-tadia-visits-kosovo.md)

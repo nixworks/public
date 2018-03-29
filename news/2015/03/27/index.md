@@ -25,7 +25,7 @@ _Context: Germanwings Flight 9525_
 
 ##### Amsterdam
 ### [Power returns to Amsterdam after a 5-hour blackout that caused the closure of Amsterdam Airport Schiphol and disrupted public transport networks throughout the Netherlands. ](/news/2015/03/27/power-returns-to-amsterdam-after-a-5-hour-blackout-that-caused-the-closure-of-amsterdam-airport-schiphol-and-disrupted-public-transport-netw.md)
-_Context: Amsterdam, Amsterdam Airport Schiphol, Dutch, power outage_
+_Context: Amsterdam, Amsterdam Airport Schiphol, Netherlands, power outage_
 
 ##### Stampede
 ### [A stampede at a Hindu festival in Langalbandh, Bangladesh, kills at least ten people with dozens more injured. ](/news/2015/03/27/a-stampede-at-a-hindu-festival-in-langalbandh-bangladesh-kills-at-least-ten-people-with-dozens-more-injured.md)

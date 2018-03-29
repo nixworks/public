@@ -15,7 +15,7 @@ A group of 32 hospitals will pay a total of $28 million to settle allegations th
 ### [NATO allies agree to send aircraft and ships to strengthen Turkey's Syrian border air defenses and avoid incidents similar to November's downing of a Russian jet. ](/news/2015/12/18/nato-allies-agree-to-send-aircraft-and-ships-to-strengthen-turkey-s-syrian-border-air-defenses-and-avoid-incidents-similar-to-november-s-dow.md)
 Resolution signals rare show of unity from 15-nation council, although future of president Bashar al-Assad is not mentioned
 
-##### EU
+##### European Union
 ### [The European Union warns Thailand that the country needs to quickly address the human rights and slavery issues in its seafood industry if it wants to avoid an EU import ban. ](/news/2015/12/18/the-european-union-warns-thailand-that-the-country-needs-to-quickly-address-the-human-rights-and-slavery-issues-in-its-seafood-industry-if-i.md)
 (AP) — For the past year, The Associated Press has investigated slave labor in Thailand&#8217;s $7 billion seafood export industry, resulting in the freeing of more than 2,000 fishermen. This week, the AP came out with another investigation looking at slavery in shrimp processing sheds in Thailand...
 

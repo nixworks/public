@@ -19,7 +19,7 @@ _Context: Chang'e 5-T1, China National Space Administration, spaceflight mission
 ### [Voters in Botswana go to the polls for a general election with the ruling Botswana Democratic Party of President Ian Khama winning 33 of 57 seats. ](/news/2014/10/24/voters-in-botswana-go-to-the-polls-for-a-general-election-with-the-ruling-botswana-democratic-party-of-president-ian-khama-winning-33-of-57.md)
 _Context: Botswana, Botswana Democratic Party, Botswana election, Ian Khama, President_
 
-##### EU
+##### European Union
 ### [The European Union reaches a landmark climate deal to cut emissions by 40 percent by 2030. ](/news/2014/10/24/the-european-union-reaches-a-landmark-climate-deal-to-cut-emissions-by-40-percent-by-2030.md)
 EU leaders reach a landmark climate deal, including a target to cut carbon emissions by 40 per cent by 2030.
 

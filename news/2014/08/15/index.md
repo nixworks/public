@@ -13,7 +13,7 @@ _Context: Bangsamoro, Moro Islamic Liberation Front, Philippines_
 
 ##### Japanese
 ### [Two Japanese cabinet ministers Keiji Furuya and Yoshitaka Shindo visit the Yasukuni Shrine to mark the 69th anniversary of Japan's surrender at the end of World War II. This visit upsets China and South Korea as the shrine contains the graves of war criminals. ](/news/2014/08/15/two-japanese-cabinet-ministers-keiji-furuya-and-yoshitaka-shindo-visit-the-yasukuni-shrine-to-mark-the-69th-anniversary-of-japan-s-surrender.md)
-_Context: China, Japan, Japanese, Keiji Furuya, South Korea, World War II, Yasukuni Shrine, Yoshitaka Shindo, surrender_
+_Context: Chinese, Japan, Japanese, Keiji Furuya, South Korea, World War II, Yasukuni Shrine, Yoshitaka Shindo, surrender_
 
 ##### Governor of Texas
 ### [Texas Governor Rick Perry is indicted on felony charges for abuse of power. He is accused of coercing a District Attorney who had been convicted of drunk driving to resign by threatening to veto funding for state public corruption prosecutors. ](/news/2014/08/15/texas-governor-rick-perry-is-indicted-on-felony-charges-for-abuse-of-power-he-is-accused-of-coercing-a-district-attorney-who-had-been-convi.md)

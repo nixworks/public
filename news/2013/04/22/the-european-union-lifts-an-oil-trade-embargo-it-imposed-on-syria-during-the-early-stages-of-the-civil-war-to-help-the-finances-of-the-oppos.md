@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/22/the-european-union-lifts-an-oil-trade-embargo-i
 
 ### [2013-04-22](/news/2013/04/22/index.md)
 
-##### EU
+##### European Union
 # The European Union lifts an oil trade embargo it imposed on Syria during the early stages of the civil war to help the finances of the opposition. 
 
 

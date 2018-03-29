@@ -33,7 +33,7 @@ Security forces seized control of a violent slum, claiming victory in a weeklong
 
 ##### Sudan
 ### [Sudanese President Omar al-Bashir is to boycott an African Union-European Union meeting in the Libyan capital Tripoli to "avoid embarrassment to Libya". ](/news/2010/11/28/sudanese-president-omar-al-bashir-is-to-boycott-an-african-union-european-union-meeting-in-the-libyan-capital-tripoli-to-avoid-embarrassmen.md)
-_Context: African Union, EU, Libya, Omar al-Bashir, Sudan, Tripoli_
+_Context: African Union, European Union, Libya, Omar al-Bashir, Sudan, Tripoli_
 
 ##### Uganda
 ### [Ugandan President Yoweri Museveni becomes the first foreign leader to visit the Somali capital Mogadishu in 20 years. ](/news/2010/11/28/ugandan-president-yoweri-museveni-becomes-the-first-foreign-leader-to-visit-the-somali-capital-mogadishu-in-20-years.md)
@@ -55,7 +55,7 @@ Plane crashed in navy housing colony minutes after taking off; 11 dead.
 ### [Fire damages Turkey's historic Haydarpasa Terminal in Istanbul. ](/news/2010/11/28/fire-damages-turkey-s-historic-haydarpaaa-terminal-in-istanbul.md)
 _Context: Haydarpasa Terminal, Istanbul, Turkey_
 
-##### EU
+##### European Union
 ### [European Union finance ministers meet to work out the details for rescuing the Irish economy, and to outline an agreement for a fund to rescue other economically troubled euro-zone nations. ](/news/2010/11/28/european-union-finance-ministers-meet-to-work-out-the-details-for-rescuing-the-irish-economy-and-to-outline-an-agreement-for-a-fund-to-resc.md)
 Europe’s finance ministers approved an 85 billion euro bailout and agreed on a fund to rescue indebted nations.
 

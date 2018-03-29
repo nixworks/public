@@ -9,7 +9,7 @@ _Context: City Council, Cradle of Liberty Council_
 
 ##### Malaysian Federal Court
 ### [ The Malaysian Federal Court rejects the appeal of Christian convert Lina Joy to have the word "Islam" removed from her identity card. ](/news/2007/05/31/the-malaysian-federal-court-rejects-the-appeal-of-christian-convert-lina-joy-to-have-the-word-islam-removed-from-her-identity-card.md)
-_Context: Christian, Lina Joy, Malaysian Federal Court, Muslim, convert, identity card_
+_Context: Christian, Lina Joy, Malaysian Federal Court, Muslims, convert, identity card_
 
 ##### Taliban
 ### [ Approximately 100 pro-Taliban insurgents attack the home of a government official in northwest Pakistan, killing 13 people. ](/news/2007/05/31/approximately-100-pro-taliban-insurgents-attack-the-home-of-a-government-official-in-northwest-pakistan-killing-13-people.md)

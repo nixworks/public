@@ -25,13 +25,13 @@ _Context: Baghdad, Ban Ki-Moon, Iraqi Prime Minister, Nouri Maliki, Secretary Ge
 
 ##### Police
 ### [ Police arrest three men in England in relation to the 7 July 2005 London bombings. ](/news/2007/03/22/police-arrest-three-men-in-england-in-relation-to-the-7-july-2005-london-bombings.md)
-_Context: 7 July, England, Police_
+_Context: 7 July, English, Police_
 
 ##### U.S. federal court
 ### [ A senior U.S. District Judge, Lowell Reed Jr., strikes down the Child Online Protection Act, which made it an offence for commercial website operators to allow minors to access "harmful" material. ](/news/2007/03/22/a-senior-u-s-district-judge-lowell-reed-jr-strikes-down-the-child-online-protection-act-which-made-it-an-offence-for-commercial-websit.md)
 _Context: Child Online Protection Act, Lowell Reed Jr., U.S. federal court, minors, website_
 
-##### EU
+##### European Union
 ### [ The European Union agrees to open the trans-Atlantic air market to greater competition. ](/news/2007/03/22/the-european-union-agrees-to-open-the-trans-atlantic-air-market-to-greater-competition.md)
 European Union governments backed a deal with the United States that would open restricted airline routes to new rivals.
 

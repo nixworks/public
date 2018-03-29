@@ -13,7 +13,7 @@ The vote sets the stage for a showdown with the country’s secular elite over I
 
 ##### Camden Market
 ### [ A fire at Camden Market in London, England forces the evacuation of residents. The London Ambulance Service reports no casualties. ](/news/2008/02/9/a-fire-at-camden-market-in-london-england-forces-the-evacuation-of-residents-the-london-ambulance-service-reports-no-casualties.md)
-_Context: Camden Market, England, London, London Ambulance Service_
+_Context: Camden Market, English, London, London Ambulance Service_
 
 ##### Suicide bomber
 ### [ A suicide bomber kills 20 people at an opposition rally in Pakistan. ](/news/2008/02/9/a-suicide-bomber-kills-20-people-at-an-opposition-rally-in-pakistan.md)

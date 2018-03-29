@@ -21,7 +21,7 @@ The two officials were executed in early August for disobeying leader Kim Jong U
 
 ##### Rodrigo Duterte
 ### [Philippines president Rodrigo Duterte says he would not press on for China to abide by the South China Sea ruling but he might do so in the future. ](/news/2016/08/30/philippines-president-rodrigo-duterte-says-he-would-not-press-on-for-china-to-abide-by-the-south-china-sea-ruling-but-he-might-do-so-in-the.md)
-_Context: China, Rodrigo Duterte, tensions in the region_
+_Context: Chinese, Rodrigo Duterte, tensions in the region_
 
 ##### 2015-16 Zika virus epidemic
 ### [Australia, South Korea and Taiwan issue travel advisories concerning Singapore after cases of Zika virus infection in the city-state passes 50. ](/news/2016/08/30/australia-south-korea-and-taiwan-issue-travel-advisories-concerning-singapore-after-cases-of-zika-virus-infection-in-the-city-state-passes.md)
@@ -31,7 +31,7 @@ Confirmed cases of Zika virus in Singapore rose to 82 on Tuesday, as the United 
 ### [Numerous tremors rock the Katla volcano in Iceland prompting the government to raise the alarm level. ](/news/2016/08/30/numerous-tremors-rock-the-katla-volcano-in-iceland-prompting-the-government-to-raise-the-alarm-level.md)
 Iceland raised the alarm after its largest volcano was hit by the biggest tremors since 1977.
 
-##### EU
+##### European Union
 ### [The European Union orders Apple to pay up to 13 billion euros in back taxes to Ireland. A three-year investigation by the EU's competition commissioner concludes that Apple received "illegal state aid" from Ireland, the EU order that Apple pay 13 billion euros ($14.5 billion), and, in addition, also interest and unpaid taxes. ](/news/2016/08/30/the-european-union-orders-apple-to-pay-up-to-13-billion-euros-in-back-taxes-to-ireland-a-three-year-investigation-by-the-eu-s-competition-c.md)
 The European Commission ordered Apple Inc to pay Ireland unpaid taxes of up to 13 billion euros ($14.5 billion) on Tuesday as it ruled the firm had received illegal state aid.
 

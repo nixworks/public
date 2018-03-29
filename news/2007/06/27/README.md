@@ -7,9 +7,9 @@ Formats: [HTML](2007/06/27/index.html)  [JSON](2007/06/27/index.json)  [XML](200
 ### [ Jamaican-born Floridian Barrington Irving becomes the youngest person&mdash;and the first black person&mdash;to fly solo around the world. ](/news/2007/06/27/jamaican-born-floridian-barrington-irving-becomes-the-youngest-person-mdash-and-the-first-black-person-mdash-to-fly-solo-around-the-world.md)
 _Context: Barrington Irving, Florida, Jamaica, black person, circumnavigation_
 
-##### Capital punishment
+##### Death
 ### [ The Government of Kyrgyzstan abolishes capital punishment. ](/news/2007/06/27/the-government-of-kyrgyzstan-abolishes-capital-punishment.md)
-_Context: capital punishment_
+_Context: death_
 
 ##### PMTair Flight U4 241
 ### [ The wreckage of PMTair Flight U4 241 is discovered in Kampot Province, Cambodia; all 22 people on board are killed in the crash. ](/news/2007/06/27/the-wreckage-of-pmtair-flight-u4-241-is-discovered-in-kampot-province-cambodia-all-22-people-on-board-are-killed-in-the-crash.md)

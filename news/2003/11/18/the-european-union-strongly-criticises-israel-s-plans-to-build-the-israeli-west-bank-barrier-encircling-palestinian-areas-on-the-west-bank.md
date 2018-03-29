@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/11/18/the-european-union-strongly-criticises-israel-s
 
 ### [2003-11-18](/news/2003/11/18/index.md)
 
-##### EU
+##### European Union
 #  The European Union strongly criticises Israel's plans to build the Israeli West Bank barrier encircling Palestinian areas on the West Bank. It also criticises the intensification of suicide attacks by Palestinians and describes Israel's building of settlements in the West Bank as an "obstacle to peace".
 
 

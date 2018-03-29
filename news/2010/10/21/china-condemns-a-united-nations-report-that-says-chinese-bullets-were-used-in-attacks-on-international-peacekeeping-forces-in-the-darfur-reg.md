@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/21/china-condemns-a-united-nations-report-that-say
 
 ### [2010-10-21](/news/2010/10/21/index.md)
 
-##### China
+##### Chinese
 # China condemns a United Nations report that says Chinese bullets were used in attacks on international peacekeeping forces in the Darfur region of Sudan. 
 
 

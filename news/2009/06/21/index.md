@@ -43,13 +43,13 @@ _Context: Somalia, declares, states of emergency_
 ### [ A new pro-Treaty of Lisbon group led by Pat Cox is launched in Ireland. ](/news/2009/06/21/a-new-pro-treaty-of-lisbon-group-led-by-pat-cox-is-launched-in-ireland.md)
 The Taoiseach has said a Yes vote on Lisbon would provide Ireland with a better means of dealing with the current economic crisis.
 
-##### England
+##### English
 ### [ England defeats New Zealand in the 2009 ICC Women's World Twenty20. ](/news/2009/06/21/england-defeats-new-zealand-in-the-2009-icc-women-s-world-twenty20.md)
 England have beaten New Zealand twice in World Cup finals in a span of three months but according to captain Charlotte Edwards, triumph in the Twenty20 World Cup at home was special.
 
 ##### Pakistan
 ### [ The Pakistan Cricket Team wins the 2009 ICC World Twenty20 world cup after a hard match against Sri Lanka at Lord's Cricket Ground in London, England. ](/news/2009/06/21/the-pakistan-cricket-team-wins-the-2009-icc-world-twenty20-world-cup-after-a-hard-match-against-sri-lanka-at-lord-s-cricket-ground-in-londo.md)
-_Context: 2009 ICC World Twenty20, England, London, Lord's Cricket Ground, Pakistan, Sri Lanka_
+_Context: 2009 ICC World Twenty20, English, London, Lord's Cricket Ground, Pakistan, Sri Lanka_
 
 ##### Archaeologist
 ### [ Archaeologists find evidence showing that the manioc plant was a staple food of the Maya. ](/news/2009/06/21/archaeologists-find-evidence-showing-that-the-manioc-plant-was-a-staple-food-of-the-maya.md)

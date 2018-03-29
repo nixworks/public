@@ -21,7 +21,7 @@ Puerto Rican Gov. Anibal Acevedo Vila and 12 political associates in the Caribbe
 
 ##### Geert Wilders
 ### [ Geert Wilders releases his controversial anti-Islam film, "Fitna". ](/news/2008/03/27/geert-wilders-releases-his-controversial-anti-islam-film-fitna.md)
-_Context: Fitna, Geert Wilders, Muslim_
+_Context: Fitna, Geert Wilders, Muslims_
 
 ##### 2008 Mahdi Army revolt
 ### [ 2008 Mahdi Army revolt: Iraqi authorities impose a curfew until Sunday in a bid to stop clashes with Shiite militants. ](/news/2008/03/27/2008-mahdi-army-revolt-iraqi-authorities-impose-a-curfew-until-sunday-in-a-bid-to-stop-clashes-with-shiite-militants.md)

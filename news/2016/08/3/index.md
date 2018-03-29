@@ -41,7 +41,7 @@ A British-era bridge across the Savitri River on the Mumbai-Goa highway collapse
 
 ##### European Banking Authority
 ### [The European Banking Authority supports retaining a 3% leverage ratio for most banks within the European Union. ](/news/2016/08/3/the-european-banking-authority-supports-retaining-a-3-leverage-ratio-for-most-banks-within-the-european-union.md)
-_Context: EU, European Banking Authority_
+_Context: European Banking Authority, European Union_
 
 ## [Previous Day...](/news/2016/08/2/index.md)
 

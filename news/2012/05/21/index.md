@@ -41,7 +41,7 @@ First IAEA head to visit Tehran since 2009 is expected to seek inspection deal o
 
 ##### Canada
 ### [Four climbers from Canada, China, Germany and South Korea die whilst returning from the summit of Mount Everest; a Nepalese guide is missing. ](/news/2012/05/21/four-climbers-from-canada-china-germany-and-south-korea-die-whilst-returning-from-the-summit-of-mount-everest-a-nepalese-guide-is-missing.md)
-_Context: Canada, China, Germany, Mount Everest, Nepal, South Korea_
+_Context: Canada, Chinese, Germany, Mount Everest, Nepal, South Korea_
 
 ##### A bus plunges 80|m|ft off a cliff
 ### [At least 13 people &ndash; most of them students &ndash; are killed and 22 others are injured after a bus plunges 80 m off a cliff in Albania. ](/news/2012/05/21/at-least-13-people-ndash-most-of-them-students-ndash-are-killed-and-22-others-are-injured-after-a-bus-plunges-80-m-off-a-cliff-in-albani.md)

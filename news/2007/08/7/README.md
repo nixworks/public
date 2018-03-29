@@ -15,9 +15,9 @@ _Context: Japan, Okinawa, earthquake_
 ### [ Paul Calvert announces his resignation as President of the Australian Senate and as a Senator for Tasmania effective from next week. ](/news/2007/08/7/paul-calvert-announces-his-resignation-as-president-of-the-australian-senate-and-as-a-senator-for-tasmania-effective-from-next-week.md)
 _Context: Paul Calvert, President of the Australian Senate, Senator, Tasmania_
 
-##### China
+##### Chinese
 ### [ Chinese police arrest six protesters calling for a free Tibet by unfurling banners on the Great Wall of China. ](/news/2007/08/7/chinese-police-arrest-six-protesters-calling-for-a-free-tibet-by-unfurling-banners-on-the-great-wall-of-china.md)
-_Context: China, Great Wall of China, Tibet_
+_Context: Chinese, Great Wall of China, Tibet_
 
 ##### Bangladesh
 ### [ Bangladesh security officials arrest 24 suspected militants at Zia International Airport en route to Kabul, Afghanistan. ](/news/2007/08/7/bangladesh-security-officials-arrest-24-suspected-militants-at-zia-international-airport-en-route-to-kabul-afghanistan.md)

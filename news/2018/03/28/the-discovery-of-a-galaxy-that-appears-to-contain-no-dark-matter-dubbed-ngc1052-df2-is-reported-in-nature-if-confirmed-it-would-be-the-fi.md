@@ -3,11 +3,16 @@ Formats: [HTML](/news/2018/03/28/the-discovery-of-a-galaxy-that-appears-to-conta
 
 ### [2018-03-28](/news/2018/03/28/index.md)
 
-##### Dark matter
-# The discovery of a galaxy that appears to contain no dark matter, dubbed NGC1052-DF2, is reported in Nature. If confirmed it would be the first such galaxy discovered. [www.bbc.co.uk-news-science-environment-43543195 (BBC)]
+##### Galaxy formation and evolution
+# The discovery of a galaxy that appears to contain no dark matter, dubbed NGC1052-DF2, is reported in Nature. If confirmed it would be the first such galaxy discovered. 
+
+Scientists have imaged a &quot;transparent&quot; galaxy that may have no dark matter.
 
 
+### Sources:
 
+1. [BBC](http://www.bbc.co.uk/news/science-environment-43543195)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/branded_news/2448/production/_100588290_227bf2e7-6001-4cf5-b48b-23f19b37eb61.png)
 
 ### Related:
 

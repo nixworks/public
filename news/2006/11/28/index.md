@@ -9,7 +9,7 @@ _Context: Laisenia Qarase, New Zealand, Prime Minister, Voreqe Bainimarama, coup
 
 ##### North Korea
 ### [ Nuclear envoys from North Korea, China and the United States meet to discuss North Korea's nuclear program. ](/news/2006/11/28/nuclear-envoys-from-north-korea-china-and-the-united-states-meet-to-discuss-north-korea-s-nuclear-program.md)
-_Context: China, North Korea, United States_
+_Context: Chinese, North Korea, United States_
 
 ##### Thailand
 ### [ The Thai Government lifts martial law in 41 of the country's 76 provinces as recommended by coup leader Sonthi Boonyaratglin. ](/news/2006/11/28/the-thai-government-lifts-martial-law-in-41-of-the-country-s-76-provinces-as-recommended-by-coup-leader-sonthi-boonyaratglin.md)

@@ -37,7 +37,7 @@ _Context: Afghanistan, George W. Bush, Iraq, President, United States_
 
 ##### Flood
 ### [ Twenty people die and 9 are missing after a flood in a coal mine in Fushun, a city in the province of Shenyang in China. ](/news/2007/03/10/twenty-people-die-and-9-are-missing-after-a-flood-in-a-coal-mine-in-fushun-a-city-in-the-province-of-shenyang-in-china.md)
-_Context: China, Fushun, Shenyang, coal mine, flood, province_
+_Context: Chinese, Fushun, Shenyang, coal mine, flood, province_
 
 ##### Flood
 ### [ Five people drown in heavy flooding around the town of Labasa on the island of Vanua Levu in Fiji. ](/news/2007/03/10/five-people-drown-in-heavy-flooding-around-the-town-of-labasa-on-the-island-of-vanua-levu-in-fiji.md)

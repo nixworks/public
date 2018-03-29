@@ -17,7 +17,7 @@ _Context: Chris Christie, New Jersey, Politics of New Jersey, budget crisis_
 
 ##### Presidency of Donald Trump
 ### [Numerous U.S. states, including California, Mississippi, Kentucky and New York, reject requests for voter registration data from President Donald Trump's voter fraud commission. ](/news/2017/07/1/numerous-u-s-states-including-california-mississippi-kentucky-and-new-york-reject-requests-for-voter-registration-data-from-president-d.md)
-_Context: California, Kentucky, Mississippi, New York, Presidency of Donald Trump, President, Trump, U.S. state, voter fraud_
+_Context: California, Donald Trump, Kentucky, Mississippi, New York, Presidency of Donald Trump, President, U.S. state, voter fraud_
 
 ##### Politics of Hong Kong
 ### [Carrie Lam is sworn in as the first female Chief Executive of Hong Kong by President Xi Jinping amid protests against the 20th anniversary of the transfer of sovereignty to China. ](/news/2017/07/1/carrie-lam-is-sworn-in-as-the-first-female-chief-executive-of-hong-kong-by-president-xi-jinping-amid-protests-against-the-20th-anniversary-o.md)
@@ -37,7 +37,7 @@ Those taking part in the rally had to show identity cards to prove they were cit
 
 ##### Bhutan-China relations
 ### [Amid growing tensions between China and India and Bhutan, China releases a map detailing pieces of land claimed by Bhutan and India as belonging to China. China claims, via the map, that territory up until Gipmochi belongs to China and claims it's supported by the 1890 Convention of Calcutta. ](/news/2017/07/1/amid-growing-tensions-between-china-and-india-and-bhutan-china-releases-a-map-detailing-pieces-of-land-claimed-by-bhutan-and-india-as-belon.md)
-_Context: Bhutan, Bhutan-China relations, China, China-India relations, Convention of Calcutta, Doklam tri-junction, Gipmochi, India_
+_Context: Bhutan, Bhutan-China relations, China-India relations, Chinese, Convention of Calcutta, Doklam tri-junction, Gipmochi, India_
 
 ##### Marawi crisis
 ### [More than 400,000 people displaced by the conflict are affected by disease outbreaks and psychological trauma. ](/news/2017/07/1/more-than-400-000-people-displaced-by-the-conflict-are-affected-by-disease-outbreaks-and-psychological-trauma.md)

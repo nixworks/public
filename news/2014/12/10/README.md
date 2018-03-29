@@ -23,7 +23,7 @@ Liu Tienan, a former top economic official, is jailed for life in China for taki
 ### [Amnesty International notes that torture still occurs in some countries. ](/news/2014/12/10/amnesty-international-notes-that-torture-still-occurs-in-some-countries.md)
 Poland&apos;s former president confirms that he allowed a CIA black site to operate in the country.
 
-##### Nature Astronomy
+##### Nature
 ### ["Nature" publishes research by the University of Toronto announcing the discovery of a new class of stem cells called F-class stem cells that have the potential to be better and safer to use in medical research. ](/news/2014/12/10/nature-publishes-research-by-the-university-of-toronto-announcing-the-discovery-of-a-new-class-of-stem-cells-called-f-class-stem-cells-tha.md)
 Canadian researchers have discovered a new class of stem cells they say could be safer and better to use in medical research.
 

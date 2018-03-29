@@ -15,9 +15,9 @@ _Context: Menu Foods, North America, Veterinarian, aminopterin, pet food, recall
 ### [ At least three people die after an accident involving four cars and three trucks causes a fire in the Burnley Tunnel in Melbourne, Australia. Both the Burnley tunnel and nearby Domain Tunnel are evacuated. ](/news/2007/03/23/at-least-three-people-die-after-an-accident-involving-four-cars-and-three-trucks-causes-a-fire-in-the-burnley-tunnel-in-melbourne-australi.md)
 _Context: Australia, Burnley Tunnel, Domain Tunnel, Melbourne_
 
-##### EU
+##### European Union
 ### [ Celebrations to mark the 50th birthday of the European Union begin. ](/news/2007/03/23/celebrations-to-mark-the-50th-birthday-of-the-european-union-begin.md)
-_Context: EU_
+_Context: European Union_
 
 ##### Democratic Republic of Congo
 ### [ Democratic Republic of Congo's chief prosecutor issues an arrest warrant for Senator Jean-Pierre Bemba who has sought refuge in the South African embassy as fighting continues in Kinshasa. ](/news/2007/03/23/democratic-republic-of-congo-s-chief-prosecutor-issues-an-arrest-warrant-for-senator-jean-pierre-bemba-who-has-sought-refuge-in-the-south-a.md)

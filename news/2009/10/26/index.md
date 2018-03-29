@@ -5,7 +5,7 @@ Formats: [HTML](2009/10/26/index.html)  [JSON](2009/10/26/index.json)  [XML](200
 
 ##### Liverpool
 ### [ A police officer in Liverpool, England is hospitalised in a life threatening condition after undergoing a homophobic attack by a gang of twenty youths. ](/news/2009/10/26/a-police-officer-in-liverpool-england-is-hospitalised-in-a-life-threatening-condition-after-undergoing-a-homophobic-attack-by-a-gang-of-tw.md)
-_Context: England, Liverpool, anti-gay_
+_Context: English, Liverpool, anti-gay_
 
 ##### Australia
 ### [ Australian authorities offer a Aus$1 million reward in their search for a man suspected of ordering the murder of a vampire. ](/news/2009/10/26/australian-authorities-offer-a-aus-1-million-reward-in-their-search-for-a-man-suspected-of-ordering-the-murder-of-a-vampire.md)

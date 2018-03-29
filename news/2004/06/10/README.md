@@ -29,7 +29,7 @@ _Context: Clay Mathematics Institute, Louis de Branges de Bourcia, Mathematics, 
 
 ##### European Parliament election
 ### [ Voting begins in the four-day-long European Parliament election; the United Kingdom and the Netherlands vote today. The Dutch authorities, in breach of an EU-wide reporting embargo, release their results in the early evening. ](/news/2004/06/10/voting-begins-in-the-four-day-long-european-parliament-election-the-united-kingdom-and-the-netherlands-vote-today-the-dutch-authorities.md)
-_Context: Dutch, EU, European Parliament election_
+_Context: European Parliament election, European Union, Netherlands_
 
 ##### Super Thursday
 ### [ Votes are counted on Super Thursday in the UK as elections are held for the European Parliament, local council elections and for Mayor of London and the London Assembly. The local council elections show major losses for the Labour Party, attributed by Labour to protest voting over the 2003 invasion of Iraq. ](/news/2004/06/10/votes-are-counted-on-super-thursday-in-the-uk-as-elections-are-held-for-the-european-parliament-local-council-elections-and-for-mayor-of-l.md)

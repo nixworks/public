@@ -21,7 +21,7 @@ The body of six-year-old Zainab, who was raped and strangled, was found in a rub
 
 ##### Nepal-United States relations
 ### [Nepalese authorities state that they are "discussing their response" to Trump's recent comment which referred to their country (among others) as a "shithole". Botswana summoned their U.S. ambassador, asking for clarification and expressed their concerns. ](/news/2018/01/12/nepalese-authorities-state-that-they-are-discussing-their-response-to-trump-s-recent-comment-which-referred-to-their-country-among-others.md)
-_Context: Botswana, Botswana-United States relations, Nepal-United States relations, Trump_
+_Context: Botswana, Botswana-United States relations, Donald Trump, Nepal-United States relations_
 
 ##### United Kingdom-United States relations
 ### [United States President Donald Trump cancels his scheduled trip to the United Kingdom next month. ](/news/2018/01/12/united-states-president-donald-trump-cancels-his-scheduled-trip-to-the-united-kingdom-next-month.md)

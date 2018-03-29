@@ -15,9 +15,9 @@ _Context: 2008 Orissa violence, Government of Orissa, house_
 ### [ Japanese Prime Minister Yasuo Fukuda abruptly resigns less than a year after taking office, triggering a leadership election. ](/news/2008/09/1/japanese-prime-minister-yasuo-fukuda-abruptly-resigns-less-than-a-year-after-taking-office-triggering-a-leadership-election.md)
 _Context: Japan, Liberal Democratic Party (Japan) leadership election, 2008, Yasuo Fukuda_
 
-##### EU
+##### European Union
 ### [ The European Union suspends talks on a new partnership agreement with Moscow until Russian troops have withdrawn from Georgia. ](/news/2008/09/1/the-european-union-suspends-talks-on-a-new-partnership-agreement-with-moscow-until-russian-troops-have-withdrawn-from-georgia.md)
-_Context:  Georgian, EU, Moscow_
+_Context:  Georgian, European Union, Moscow_
 
 ##### Tropical Storm Hanna
 ### [ Tropical Storm Hanna becomes Hurricane Hanna (2008) with hurricane warnings issued for the Bahamas and the Turks and Caicos. ](/news/2008/09/1/tropical-storm-hanna-becomes-hurricane-hanna-2008-with-hurricane-warnings-issued-for-the-bahamas-and-the-turks-and-caicos.md)

@@ -15,9 +15,9 @@ _Context: Baath Party, Baghdad, Dujail, Iraq, Taha Yassin Ramadan, Vice Presiden
 ### [ At least 63 people die in a fire in a home for elderly and disabled people in a village in Russia's Krasnodar Krai. ](/news/2007/03/20/at-least-63-people-die-in-a-fire-in-a-home-for-elderly-and-disabled-people-in-a-village-in-russia-s-krasnodar-krai.md)
 _Context: Krasnodar region, Russia, fire, nursing home_
 
-##### EU
+##### European Union
 ### [ European Union High Representative for the Common Foreign and Security Policy Javier Solana says that the EU is doing all it can to find Alan Johnston, the BBC Gaza correspondent who has been missing for 8 days. ](/news/2007/03/20/european-union-high-representative-for-the-common-foreign-and-security-policy-javier-solana-says-that-the-eu-is-doing-all-it-can-to-find-al.md)
-_Context: Alan Johnston, BBC, EU, Gaza Strip, High Representative for the Common Foreign and Security Policy, Javier Solana_
+_Context: Alan Johnston, BBC, European Union, Gaza Strip, High Representative for the Common Foreign and Security Policy, Javier Solana_
 
 ##### France
 ### [ France signs an extradition treaty with the People's Republic of China but will only extradite people in death penalty cases when China agrees that the person will not receive a death penalty. ](/news/2007/03/20/france-signs-an-extradition-treaty-with-the-people-s-republic-of-china-but-will-only-extradite-people-in-death-penalty-cases-when-china-agr.md)

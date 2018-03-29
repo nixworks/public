@@ -35,7 +35,7 @@ _Context: Appomattox, Christopher Speight, United States, Virginia, Virginia Sta
 ### [The Nigerian Army regains control of the city of Jos after religious violence killed more than 200 people. ](/news/2010/01/20/the-nigerian-army-regains-control-of-the-city-of-jos-after-religious-violence-killed-more-than-200-people.md)
 Up to 300 feared dead after fighting between Muslim and Christian communities.
 
-##### Dutch
+##### Netherlands
 ### [Dutch politician Geert Wilders goes on trial for allegedly inciting racial hatred against Muslims. ](/news/2010/01/20/dutch-politician-geert-wilders-goes-on-trial-for-allegedly-inciting-racial-hatred-against-muslims.md)
 Geert Wilders&#8217; testimony will take so long to be heard at his trial for inciting hatred and discrimination, that he...
 

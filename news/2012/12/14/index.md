@@ -27,7 +27,7 @@ A knife-wielding man injured 22 children and one adult outside a primary school 
 ### [A shooting at Sandy Hook Elementary School in Newtown, Connecticut, United States, leaves 28 people dead, including 20 children, 6 teachers, the shooter, and his mother. ](/news/2012/12/14/a-shooting-at-sandy-hook-elementary-school-in-newtown-connecticut-united-states-leaves-28-people-dead-including-20-children-6-teachers.md)
 A gunman kills 20 children and six adults at a primary school in Connecticut - in one of the deadliest mass shootings in recent US history.
 
-##### England
+##### English
 ### [Thirteen areas of south-west England and Wales have been warned of possible floods as the United Kingdom prepares for heavy rain. ](/news/2012/12/14/thirteen-areas-of-south-west-england-and-wales-have-been-warned-of-possible-floods-as-the-united-kingdom-prepares-for-heavy-rain.md)
 Britain is again on flood alert today as high winds and heavy rainfall begin to sweep in from the South West. The Environment Agency has warned residents who have recently recovered from last month&amp;#39;s widespread flooding to prepare for a combination of heavy rain and storm surges. 
 

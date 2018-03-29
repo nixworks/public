@@ -35,7 +35,7 @@ _Context: Bush Administration, FBI, Obama administration, Roger Vinson, The Guar
 ### [North Korea restores the Red Cross link with South Korea used for government-to-government communications. ](/news/2013/06/6/north-korea-restores-the-red-cross-link-with-south-korea-used-for-government-to-government-communications.md)
 South Korea uses hotline to counterpropose talks at Panmunjom truce village after North invitation to Kaesong talks.
 
-##### England
+##### English
 ### [Delegates, among them billionaire businessmen, royalty and elected politicians, arrive in England for the 61st summit of the annual Bilderberg Group at The Grove, Watford. ](/news/2013/06/6/delegates-among-them-billionaire-businessmen-royalty-and-elected-politicians-arrive-in-england-for-the-61st-summit-of-the-annual-bilderbe.md)
 Leading politicians and business people among some 130 attending conference 
 

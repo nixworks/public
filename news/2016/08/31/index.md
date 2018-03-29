@@ -41,7 +41,7 @@ _Context: Chris Brown, US$_
 
 ##### Mexico-United States relations
 ### [U.S. Republican presidential nominee Donald Trump meets with Mexican President Enrique Pena Nieto in Mexico City after accepting an invitation from him. ](/news/2016/08/31/u-s-republican-presidential-nominee-donald-trump-meets-with-mexican-president-enrique-pea-a-nieto-in-mexico-city-after-accepting-an-invitat.md)
-_Context: 2016 U.S. election, Enrique Pena Nieto, Mexican President, Mexico City, Mexico-United States relations, Republican, Trump_
+_Context: 2016 U.S. election, Donald Trump, Enrique Pena Nieto, Mexican President, Mexico City, Mexico-United States relations, Republican_
 
 ##### Philippines
 ### [The Philippines says it won't have bilateral talks with China until the Chinese stop all provocations in the South China Sea. ](/news/2016/08/31/the-philippines-says-it-won-t-have-bilateral-talks-with-china-until-the-chinese-stop-all-provocations-in-the-south-china-sea.md)

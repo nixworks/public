@@ -9,7 +9,7 @@ PODGORICA, Montenegro (AP) — Incumbent Filip Vujanovic has won Montenegro&#x27
 
 ##### Bangladesh
 ### [Bangladesh Prime Minister Sheikh Hasina rejects demands by Islamists for a new anti-blasphemy law to punish those who defame Islam and Prophet Muhammad. ](/news/2013/04/8/bangladesh-prime-minister-sheikh-hasina-rejects-demands-by-islamists-for-a-new-anti-blasphemy-law-to-punish-those-who-defame-islam-and-proph.md)
-_Context: Bangladesh, Islamists, Muslim, Prime Minister, Prophet Muhammad, Sheikh Hasina, blasphemy_
+_Context: Bangladesh, Islamists, Muslims, Prime Minister, Prophet Muhammad, Sheikh Hasina, blasphemy_
 
 ##### Margaret Thatcher
 ### [Margaret Thatcher, former British Prime Minister, dies of a stroke at the age of 87 in London. ](/news/2013/04/8/margaret-thatcher-former-british-prime-minister-dies-of-a-stroke-at-the-age-of-87-in-london.md)
@@ -27,7 +27,7 @@ Forensic experts in Chile are exhuming the remains of poet Pablo Neruda to deter
 ### [Lindsay Sandiford loses her appeal against the death penalty in Indonesia for a charge of drug smuggling. ](/news/2013/04/8/lindsay-sandiford-loses-her-appeal-against-the-death-penalty-in-indonesia-for-a-charge-of-drug-smuggling.md)
 Briton Lindsay Sandiford loses her appeal against her death sentence in Bali for drug trafficking, a Bali High Court spokesman says.
 
-##### Dutch
+##### Netherlands
 ### [A Dutch tourist, Richard de Wit, allegedly confesses to killing Sarah Groves, a British fitness instructor from Guernsey, who was found dead with multiple stab wounds on a houseboat in Jammu and Kashmir, India. ](/news/2013/04/8/a-dutch-tourist-richard-de-wit-allegedly-confesses-to-killing-sarah-groves-a-british-fitness-instructor-from-guernsey-who-was-found-dead.md)
 A Dutch tourist has confessed to killing a British fitness instructor on a Kashmir houseboat, Indian police claimed on Sunday.
 
@@ -53,11 +53,11 @@ _Context: Caribou Coffee, Chicago_
 
 ##### Australia
 ### [Australian Prime Minister Julia Gillard, on a trip to Shanghai, China, announces that the Australian dollar is set to trade directly with the Chinese yuan, becoming the third currency to do so. ](/news/2013/04/8/australian-prime-minister-julia-gillard-on-a-trip-to-shanghai-china-announces-that-the-australian-dollar-is-set-to-trade-directly-with-th.md)
-_Context: A$, Australia, Australia-China relations, China, Julia Gillard, Prime Minister, Shanghai, currency, yuan_
+_Context: A$, Australia, Australia-China relations, Chinese, Julia Gillard, Prime Minister, Shanghai, currency, yuan_
 
-##### China
+##### Chinese
 ### [Chinese President Xi Jinping opens the Boao Forum for Asia in Boao, Hainan, by calling on entrepreneurs to form a united voice and vision for the common development of Asia. ](/news/2013/04/8/chinese-president-xi-jinping-opens-the-boao-forum-for-asia-in-boao-hainan-by-calling-on-entrepreneurs-to-form-a-united-voice-and-vision-fo.md)
-_Context: Asia, Boao, Boao Forum for Asia, China, Chinese President, Hainan, Xi Jinping, entrepreneur_
+_Context: Asia, Boao, Boao Forum for Asia, Chinese, Chinese President, Hainan, Xi Jinping, entrepreneur_
 
 ##### Spanish
 ### [Spanish actress and singer Sara Montiel dies in her Madrid residence at the age of 85. ](/news/2013/04/8/spanish-actress-and-singer-sara-montiel-dies-in-her-madrid-residence-at-the-age-of-85.md)

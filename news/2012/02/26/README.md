@@ -35,9 +35,9 @@ _Context: American, Cairo, Egypt, Government of Egypt, United States, non-govern
 ### [A train derails in Burlington, Ontario, Canada killing at least three people and injuring 45.](/news/2012/02/26/a-train-derails-in-burlington-ontario-canada-killing-at-least-three-people-and-injuring-45.md)
 Via Rail has confirmed that three of its employees, all in the locomotive section, died in a train derailment in the southern Ontario city of Burlington on Sunday afternoon.
 
-##### Shanxi province
+##### Shanxi
 ### [A bus plunges off a cliff in Shanxi, China, killing 15 tourists. ](/news/2012/02/26/a-bus-plunges-off-a-cliff-in-shanxi-china-killing-15-tourists.md)
-_Context: Shanxi province_
+_Context: Shanxi_
 
 ##### Rupert Murdoch
 ### [Rupert Murdoch's News Corporation launches the "The Sun on Sunday" to replace the "News of the World", which closed due to a phone hacking controversy. ](/news/2012/02/26/rupert-murdoch-s-news-corporation-launches-the-the-sun-on-sunday-to-replace-the-news-of-the-world-which-closed-due-to-a-phone-hacking-c.md)

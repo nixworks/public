@@ -3,9 +3,9 @@ Formats: [HTML](2004/05/10/index.html)  [JSON](2004/05/10/index.json)  [XML](200
 
 ## [2004-05-10](/news/2004/05/10/index.md)
 
-##### Dutch
+##### Netherlands
 ### [ The first Dutch soldier dies in the occupation of Iraq. ](/news/2004/05/10/the-first-dutch-soldier-dies-in-the-occupation-of-iraq.md)
-_Context: Dutch, Occupation of Iraq_
+_Context: Netherlands, Occupation of Iraq_
 
 ##### Marathon elections
 ### [ Voting concludes in the marathon elections in India. ](/news/2004/05/10/voting-concludes-in-the-marathon-elections-in-india.md)

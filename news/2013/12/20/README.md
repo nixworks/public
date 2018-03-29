@@ -3,7 +3,7 @@ Formats: [HTML](2013/12/20/index.html)  [JSON](2013/12/20/index.json)  [XML](201
 
 ## [2013-12-20](/news/2013/12/20/index.md)
 
-##### China
+##### Chinese
 ### [China successfully launches the Bolivian Tupac Katari from the Xichang Satellite Launch Center. ](/news/2013/12/20/china-successfully-launches-the-bolivian-taopac-katari-from-the-xichang-satellite-launch-center.md)
 BNamericas is the business intelligence tool for Latin America with data, news, analysis and events to identify job opportunities, projects, companies and contacts
 

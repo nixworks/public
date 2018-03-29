@@ -25,7 +25,7 @@ _Context: Burma, State Peace and Development Council, general elections_
 
 ##### Biocontrol
 ### [The first use of a biocontrol agent against a weed in the European Union is approved -- the Japanese insect "Aphalara itadori" will be released at trial sites in England to combat invasive Japanese knotweed. ](/news/2010/03/9/the-first-use-of-a-biocontrol-agent-against-a-weed-in-the-european-union-is-approved-a-the-japanese-insect-aphalara-itadori-will-be-rele.md)
-_Context: Aphalara itadori, EU, Japanese knotweed, biocontrol, invasive_
+_Context: Aphalara itadori, European Union, Japanese knotweed, biocontrol, invasive_
 
 ##### Dublin
 ### [A national strike by taxi drivers causes disruption across Ireland, stopping work at the country's three main airports, closing Dublin's O'Connell Street completely and blocking other streets as the High Court orders protesters to leave their sit-in at Commission for Taxi Regulation headquarters. ](/news/2010/03/9/a-national-strike-by-taxi-drivers-causes-disruption-across-ireland-stopping-work-at-the-country-s-three-main-airports-closing-dublin-s-o-c.md)
@@ -73,7 +73,7 @@ Prince Ernst August of Hanover, he husband of Princess Caroline of Monaco, has b
 
 ##### Sexual abuse
 ### [Roman Catholic child sexual abuse investigation: The Dutch Catholic Church apologises and the country's religious leaders request an independent inquiry. A monastery head in Salzburg admits abuse of a boy more than four decades ago. The brother of Pope Benedict XVI admits physically disciplining students at a school in Germany before corporal punishment was banned in 1980. ](/news/2010/03/9/roman-catholic-child-sexual-abuse-investigation-the-dutch-catholic-church-apologises-and-the-country-s-religious-leaders-request-an-indepen.md)
-_Context: Dutch, Germany, Pope Benedict XVI, Salzburg, sexual abuse_
+_Context: Germany, Netherlands, Pope Benedict XVI, Salzburg, sexual abuse_
 
 ##### State Department
 ### [The United States Department of State issues an apology for Department spokesman P.J. Crowley's personal comments, which described Libyan leader Muammar al-Gaddafi's comments on the minaret controversy in Switzerland as "lots of words, not necessarily a lot of sense". ](/news/2010/03/9/the-united-states-department-of-state-issues-an-apology-for-department-spokesman-p-j-crowley-s-personal-comments-which-described-libyan-le.md)

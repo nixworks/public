@@ -35,9 +35,9 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### [ In Bosnia and Herzegovina, tens of thousands of people gather in Potocari to commemorate the Srebrenica massacre and rebury 610 victims ](/news/2005/07/11/in-bosnia-and-herzegovina-tens-of-thousands-of-people-gather-in-potocari-to-commemorate-the-srebrenica-massacre-and-rebury-610-victims.md)
 _Context: Bosnia and Herzegovina, Potocari, Srebrenica massacre_
 
-##### Dutch
+##### Netherlands
 ### [ In the Netherlands, Mohammed Bouyeri, suspected killer of filmmaker Theo van Gogh, goes on trial ](/news/2005/07/11/in-the-netherlands-mohammed-bouyeri-suspected-killer-of-filmmaker-theo-van-gogh-goes-on-trial.md)
-_Context: Dutch, Mohammed Bouyeri, Theo van Gogh_
+_Context: Mohammed Bouyeri, Netherlands, Theo van Gogh_
 
 ##### Roman Catholic Church
 ### [ The Roman Catholic Church defrocks six New York priests accused of sexual abuse, returning them to lay status. ](/news/2005/07/11/the-roman-catholic-church-defrocks-six-new-york-priests-accused-of-sexual-abuse-returning-them-to-lay-status.md)

@@ -11,7 +11,7 @@ Even before the Philae landing probe approaches the surface of Comet 67P/Churyum
 ### [Protesters attack the State Congress building in Mexico's Guerrero state setting alight five vehicles. ](/news/2014/11/12/protesters-attack-the-state-congress-building-in-mexico-s-guerrero-state-setting-alight-five-vehicles.md)
 Demonstrators attack the Guerrero state congress building in south-west Mexico, in new protests over the case of 43 missing students.
 
-##### China
+##### Chinese
 ### [Chinese leader Xi Jinping and President of the United States Barack Obama reach a deal to limit greenhouse gases. ](/news/2014/11/12/chinese-leader-xi-jinping-and-president-of-the-united-states-barack-obama-reach-a-deal-to-limit-greenhouse-gases.md)
 The two countries together account for about 45 percent of the world&rsquo;s greenhouse-gas emissions, and their agreement is likely to energize international climate negotiations.
 

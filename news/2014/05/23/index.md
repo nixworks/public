@@ -15,9 +15,9 @@ _Context: Barack Obama, Julian Castro, Mayor of San Antonio, Secretary of Housin
 ### [Royal Thai Army chief and coup leader General Prayuth Chan-ocha detains former Prime Minister of Thailand Yingluck Shinawatra after summoning her for talks a day after the coup. ](/news/2014/05/23/royal-thai-army-chief-and-coup-leader-general-prayuth-chan-ocha-detains-former-prime-minister-of-thailand-yingluck-shinawatra-after-summonin.md)
 By Amy Sawitta Lefevre and Pracha Hariraksapitak BANGKOK (Reuters) - Thailand&#x27;s military rulers detained former Prime Minister Yingluck Shinawatra on Friday, a senior officer said, after summoning her for talks a day after the army overthrew her caretaker government in a coup. As the army moved
 
-##### EU
+##### European Union
 ### [Voters in the European Union go to the polls for a multi-day European Parliamentary election. Voters in Ireland and the Czech Republic vote today. ](/news/2014/05/23/voters-in-the-european-union-go-to-the-polls-for-a-multi-day-european-parliamentary-election-voters-in-ireland-and-the-czech-republic-vote.md)
-_Context: Czech Republic, EU, Ireland, newly elected_
+_Context: Czech Republic, European Union, Ireland, newly elected_
 
 ##### 2014 Isla Vista shootings
 ### [2014 Isla Vista shootings. Seven people have been killed and seven injured in a series of drive-by shootings in a student enclave next to the University of California campus in the American city of Santa Barbara, California. ](/news/2014/05/23/2014-isla-vista-shootings-seven-people-have-been-killed-and-seven-injured-in-a-series-of-drive-by-shootings-in-a-student-enclave-next-to-th.md)
@@ -25,11 +25,11 @@ _Context: 2014 Isla Vista shootings, Santa Barbara, California, University of Ca
 
 ##### Hubei
 ### [A Hubei court finds Chinese tycoon Liu Han, the former head of the conglomerate Hanlong Group, guilty of "organising and leading mafia-style crime and murder" and "obtain[ing] financial gains via illegal activities", sentencing him to death. ](/news/2014/05/23/a-hubei-court-finds-chinese-tycoon-liu-han-the-former-head-of-the-conglomerate-hanlong-group-guilty-of-organising-and-leading-mafia-style.md)
-_Context: China, Hanlong Group, Hubei, sentencing him to death_
+_Context: Chinese, Hanlong Group, Hubei, sentencing him to death_
 
 ##### Russia
 ### [Russia and China veto a U.N. Security Council resolution that would have asked the International Criminal Court to investigate war crimes in Syria. ](/news/2014/05/23/russia-and-china-veto-a-u-n-security-council-resolution-that-would-have-asked-the-international-criminal-court-to-investigate-war-crimes-in.md)
-_Context: China, International Criminal Court, Russia, United Nations Security Council, mass murders of thousands of political prisoner_
+_Context: Chinese, International Criminal Court, Russia, United Nations Security Council, mass murders of thousands of political prisoner_
 
 ##### Syrian Civil War
 ### [Syrian TV reports that 39 people have been killed and 205 injured as a result of a mortar attack on a pro-Assad rally. ](/news/2014/05/23/syrian-tv-reports-that-39-people-have-been-killed-and-205-injured-as-a-result-of-a-mortar-attack-on-a-pro-assad-rally.md)

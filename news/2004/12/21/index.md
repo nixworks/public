@@ -25,7 +25,7 @@ _Context: Abu Dhabi, Marawah, United Arab Emirates_
 
 ##### Nigeria
 ### [ A court in Nigeria upholds the election of Nigerian president Olusegun Obasanjo. Opposition parties, led by Muhammadu Buhari, have challenged the result, and the EU and U.S. question the election's validity. ](/news/2004/12/21/a-court-in-nigeria-upholds-the-election-of-nigerian-president-olusegun-obasanjo-opposition-parties-led-by-muhammadu-buhari-have-challeng.md)
-_Context: EU, Muhammadu Buhari, Nigeria, Olusegun Obasanjo_
+_Context: European Union, Muhammadu Buhari, Nigeria, Olusegun Obasanjo_
 
 ##### Chile
 ### [ A court in Chile upholds the indictment and house arrest of Augusto Pinochet. Prosecution lawyers claim that his hospitalization for a heart condition was a political ploy. Pinochet's lawyers intend to appeal. ](/news/2004/12/21/a-court-in-chile-upholds-the-indictment-and-house-arrest-of-augusto-pinochet-prosecution-lawyers-claim-that-his-hospitalization-for-a-hear.md)
@@ -75,9 +75,9 @@ _Context: Iraq, Mosul_
 ### [ The Boeing Delta 4 Heavy rocket launches successfully for the first time. ](/news/2004/12/21/the-boeing-delta-4-heavy-rocket-launches-successfully-for-the-first-time.md)
 Space.com: After a series of delays, Boeing&#39;s newest rocket shoots into space&#160; carrying two small satellites and a large mock payload during a test mission for the U.S. Air Force.
 
-##### EU
+##### European Union
 ### [ European Union ministers postpone a controversial vote on the proposed Directive on the patentability of computer-implemented inventions in the EU after Poland asks for more time to think about it. ](/news/2004/12/21/european-union-ministers-postpone-a-controversial-vote-on-the-proposed-directive-on-the-patentability-of-computer-implemented-inventions-in.md)
-_Context: Directive on the patentability of computer-implemented inventions, EU_
+_Context: Directive on the patentability of computer-implemented inventions, European Union_
 
 ## [Previous Day...](/news/2004/12/20/index.md)
 

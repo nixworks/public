@@ -13,7 +13,7 @@ Turnout of less than 50% means Romanian President Traian Basescu survives a stro
 
 ##### Hong Kong
 ### [Thousands of people protest against plans to introduce national patriotism lessons in Hong Kong schools, calling it Chinese propaganda. ](/news/2012/07/29/thousands-of-people-protest-against-plans-to-introduce-national-patriotism-lessons-in-hong-kong-schools-calling-it-chinese-propaganda.md)
-_Context: China, Hong Kong_
+_Context: Chinese, Hong Kong_
 
 ##### Japan
 ### [Thousands of anti-nuclear protesters form a human chain around the Japanese parliament in Tokyo. ](/news/2012/07/29/thousands-of-anti-nuclear-protesters-form-a-human-chain-around-the-japanese-parliament-in-tokyo.md)

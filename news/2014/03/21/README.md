@@ -17,7 +17,7 @@ _Context: Bernard A. Friedman, Michigan, U.S. District Judge for the Eastern Dis
 
 ##### Ukraine
 ### [Ukraine signs an association accord with the European Union in defiance of Russia. ](/news/2014/03/21/ukraine-signs-an-association-accord-with-the-european-union-in-defiance-of-russia.md)
-_Context: EU, Russia, Ukraine_
+_Context: European Union, Russia, Ukraine_
 
 ##### Russia
 ### [The Russian Federation Council, the upper house of the Federal Assembly, approves the annexation of Crimea. ](/news/2014/03/21/the-russian-federation-council-the-upper-house-of-the-federal-assembly-approves-the-annexation-of-crimea.md)

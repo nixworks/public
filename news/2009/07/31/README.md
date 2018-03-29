@@ -55,9 +55,9 @@ _Context: British Airways_
 ### [ Patrizia D'Addario, the escort at the centre of Italian Prime Minister Silvio Berlusconi's sex scandal, claims he and his party offered her a seat in the European Parliament until his wife complained. ](/news/2009/07/31/patrizia-d-addario-the-escort-at-the-centre-of-italian-prime-minister-silvio-berlusconi-s-sex-scandal-claims-he-and-his-party-offered-her.md)
 _Context: European Parliament, Italy, Prime Minister of Italy, Silvio Berlusconi_
 
-##### Dutch
+##### Netherlands
 ### [ Eight Dutch tourists are killed and 42 people are injured in a bus crash near Barcelona. ](/news/2009/07/31/eight-dutch-tourists-are-killed-and-42-people-are-injured-in-a-bus-crash-near-barcelona.md)
-_Context: Barcelona, Dutch, bus crash_
+_Context: Barcelona, Netherlands, bus crash_
 
 ##### Norwegian
 ### [ A Norwegian cargo vessel with a crew of six sinks after a storm in Swedish waters near Stromstad. ](/news/2009/07/31/a-norwegian-cargo-vessel-with-a-crew-of-six-sinks-after-a-storm-in-swedish-waters-near-strapmstad.md)

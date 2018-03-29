@@ -15,7 +15,7 @@ Formats: [HTML](/news/2011/03/22/bob-buckhorn-is-elected-as-the-mayor-of-the-us-
 
 ### Changes:
 
-1. [Sly James is elected as the Mayor of the US city of Kansas City, Missouri. ](/news/2011/03/22/sly-james-is-elected-as-the-mayor-of-the-us-city-of-kansas-city-missouri.md) _2018-03-27 03:41:19 (First version)_
+1. [Sly James is elected as the Mayor of the US city of Kansas City, Missouri. ](/news/2011/03/22/sly-james-is-elected-as-the-mayor-of-the-us-city-of-kansas-city-missouri.md) _2018-03-28 03:40:31 (First version)_
 1. [Bob Buckhorn is elected as the mayor of the US city of Tampa, Florida. ](/news/2011/03/22/bob-buckhorn-is-elected-as-the-mayor-of-the-us-city-of-tampa-florida.md) _(Current version)_
 
 ### Related:

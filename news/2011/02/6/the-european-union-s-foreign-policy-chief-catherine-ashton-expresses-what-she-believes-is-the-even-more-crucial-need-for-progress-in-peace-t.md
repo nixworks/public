@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/6/the-european-union-s-foreign-policy-chief-cather
 
 ### [2011-02-6](/news/2011/02/6/index.md)
 
-##### EU
+##### European Union
 # The European Union's foreign policy chief Catherine Ashton expresses what she believes is the even more crucial need for progress in peace talks between the Israelis and the Palestinians due to events in Egypt and other countries. 
 
 European Union foreign policy chief Catherine Ashton said yesterday that events in Egypt and other Mideast countries make progress in peace talks between Israel and the Palestinians eve
@@ -16,8 +16,8 @@ European Union foreign policy chief Catherine Ashton said yesterday that events 
 
 ### Related:
 
-1. [European Union Foreign Affairs head, Catherine Ashton, condemns Iran for its ongoing executions of juvenile offenders following the public execution of two juveniles in Bandar Abbas, Iran. ](/news/2011/05/3/european-union-foreign-affairs-head-catherine-ashton-condemns-iran-for-its-ongoing-executions-of-juvenile-offenders-following-the-public-e.md) _Context: Catherine Ashton, EU_
-2. [European Union foreign policy chief Catherine Ashton says that Israel must go beyond easing its blockade of Gaza and throw open its long-closed border. ](/news/2010/07/18/european-union-foreign-policy-chief-catherine-ashton-says-that-israel-must-go-beyond-easing-its-blockade-of-gaza-and-throw-open-its-long-clo.md) _Context: Catherine Ashton, EU_
-3. [Israel grants permission to United Nations Secretary-General Ban Ki-moon and European Union High Representative Catherine Ashton to visit Gaza after denying permission to other international politicians. ](/news/2010/03/9/israel-grants-permission-to-united-nations-secretary-general-ban-ki-moon-and-european-union-high-representative-catherine-ashton-to-visit-ga.md) _Context: Catherine Ashton, EU_
-4. [In a message on Twitter, U.S. President Donald Trump says the U.S. will apply a tax on cars made in the European Union if the E.U. "further" increases tariffs. ](/news/2018/03/3/in-a-message-on-twitter-u-s-president-donald-trump-says-the-u-s-will-apply-a-tax-on-cars-made-in-the-european-union-if-the-e-u-further.md) _Context: EU_
-5. [EU diplomatic chief Federica Mogherini holds crisis talks with Markus Ederer, the bloc's recalled ambassador to Russia. ](/news/2018/03/25/eu-diplomatic-chief-federica-mogherini-holds-crisis-talks-with-markus-ederer-the-bloc-s-recalled-ambassador-to-russia.md) _Context: EU_
+1. [European Union Foreign Affairs head, Catherine Ashton, condemns Iran for its ongoing executions of juvenile offenders following the public execution of two juveniles in Bandar Abbas, Iran. ](/news/2011/05/3/european-union-foreign-affairs-head-catherine-ashton-condemns-iran-for-its-ongoing-executions-of-juvenile-offenders-following-the-public-e.md) _Context: Catherine Ashton, European Union_
+2. [European Union foreign policy chief Catherine Ashton says that Israel must go beyond easing its blockade of Gaza and throw open its long-closed border. ](/news/2010/07/18/european-union-foreign-policy-chief-catherine-ashton-says-that-israel-must-go-beyond-easing-its-blockade-of-gaza-and-throw-open-its-long-clo.md) _Context: Catherine Ashton, European Union_
+3. [Israel grants permission to United Nations Secretary-General Ban Ki-moon and European Union High Representative Catherine Ashton to visit Gaza after denying permission to other international politicians. ](/news/2010/03/9/israel-grants-permission-to-united-nations-secretary-general-ban-ki-moon-and-european-union-high-representative-catherine-ashton-to-visit-ga.md) _Context: Catherine Ashton, European Union_
+4. [In a message on Twitter, U.S. President Donald Trump says the U.S. will apply a tax on cars made in the European Union if the E.U. "further" increases tariffs. ](/news/2018/03/3/in-a-message-on-twitter-u-s-president-donald-trump-says-the-u-s-will-apply-a-tax-on-cars-made-in-the-european-union-if-the-e-u-further.md) _Context: European Union_
+5. [Polish environment minister Henryk Kowalczyk says Poland alone should decide the fate of the protected Bialowieza Forest, ahead of a European Court of Justice ruling on whether additional logging allowed by the Polish government at the UNESCO world heritage site breaches European Union rules. ](/news/2018/03/28/polish-environment-minister-henryk-kowalczyk-says-poland-alone-should-decide-the-fate-of-the-protected-biaaowiea1-4a-forest-ahead-of-a-europ.md) _Context: European Union_

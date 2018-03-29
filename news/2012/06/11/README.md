@@ -43,9 +43,9 @@ The US temporarily pulls out of talks with Pakistan over re-opening vital supply
 ### [Al-Shabaab offers a reward of 10 camels for information about the whereabouts of Barack Obama and chickens for information on Hillary Clinton in response to the U.S. announcement of rewards of $3-7 million for various militant commanders. ](/news/2012/06/11/al-shabaab-offers-a-reward-of-10-camels-for-information-about-the-whereabouts-of-barack-obama-and-chickens-for-information-on-hillary-clinto.md)
 The US threatens sanctions on Somalis who block a UN-supervised roadmap for peace, after a rare visit to Somalia by a top US envoy.
 
-##### England
+##### English
 ### [Flooding hits large parts of England and Wales. ](/news/2012/06/11/flooding-hits-large-parts-of-england-and-wales.md)
-_Context: England, Wales_
+_Context: English, Wales_
 
 ##### South-western
 ### [More than 170,000 houses are left without power in south-western Western Australia after winds up to 140 km-h batter the region. ](/news/2012/06/11/more-than-170-000-houses-are-left-without-power-in-south-western-western-australia-after-winds-up-to-140-km-h-batter-the-region.md)

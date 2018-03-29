@@ -7,7 +7,7 @@ Formats: [HTML](2010/09/30/index.html)  [JSON](2010/09/30/index.json)  [XML](201
 ### [China's state-run Xinhua News Agency reports that the computer worm Stuxnet has affected 6&nbsp;million computers and almost 1,000 enterprises in the country. ](/news/2010/09/30/china-s-state-run-xinhua-news-agency-reports-that-the-computer-worm-stuxnet-has-affected-6-nbsp-million-computers-and-almost-1-000-enterpris.md)
 The Stuxnet computer worm has wreaked havoc in China, infecting millions of computers around the country, state media reported this week.
 
-##### Dutch
+##### Netherlands
 ### [The new right wing coalition in the Netherlands have agreed to ban full Islamic veils, such as the Burqa and Niqab ](/news/2010/09/30/the-new-right-wing-coalition-in-the-netherlands-have-agreed-to-ban-full-islamic-veils-such-as-the-burqa-and-niqab.md)
 A ban on wearing the full Islamic veil in the Netherlands will be proposed if a pact to form a minority coalition government goes ahead, leaders say.
 

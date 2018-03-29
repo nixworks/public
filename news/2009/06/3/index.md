@@ -5,7 +5,7 @@ Formats: [HTML](2009/06/3/index.html)  [JSON](2009/06/3/index.json)  [XML](2009/
 
 ##### Al-Qaeda
 ### [ The al-Qaeda Organization in the Islamic Maghreb executes British hostage Edwin Dwyer in the Sahara. ](/news/2009/06/3/the-al-qaeda-organization-in-the-islamic-maghreb-executes-british-hostage-edwin-dwyer-in-the-sahara.md)
-_Context: Al Qaeda in the Islamic Maghreb, Insurgency in the Maghreb (2002-present), Maghreb, Muslim, Sahara, United Kingdom, al-Qaeda, hostage_
+_Context: Al Qaeda in the Islamic Maghreb, Insurgency in the Maghreb (2002-present), Maghreb, Muslims, Sahara, United Kingdom, al-Qaeda, hostage_
 
 ##### U.S. state
 ### [ The U.S. state of New Hampshire legalizes same-sex marriage. ](/news/2009/06/3/the-u-s-state-of-new-hampshire-legalizes-same-sex-marriage.md)

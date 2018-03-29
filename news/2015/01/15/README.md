@@ -17,7 +17,7 @@ Take a look at the latest and archived public health news releases published by 
 
 ##### Yangtze River
 ### [A newly manufactured tug boat capsizes during a test run in the Yangtze River in east China's Jiangsu Province leaving at least 20 people missing. ](/news/2015/01/15/a-newly-manufactured-tug-boat-capsizes-during-a-test-run-in-the-yangtze-river-in-east-china-s-jiangsu-province-leaving-at-least-20-people-mi.md)
-_Context: China, Jiangsu Province, Yangtze River_
+_Context: Chinese, Jiangsu Province, Yangtze River_
 
 ##### North-South Expressway
 ### [A tour bus overturns and catches fire on the North-South Expressway in the Malaysian town of Tapah leaving at least eight people killed and 21 others injured. ](/news/2015/01/15/a-tour-bus-overturns-and-catches-fire-on-the-north-south-expressway-in-the-malaysian-town-of-tapah-leaving-at-least-eight-people-killed-and.md)

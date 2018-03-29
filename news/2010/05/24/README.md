@@ -29,7 +29,7 @@ _Context: Andrew Wakefield, General Medical Council, MMR vaccine, autism_
 
 ##### Huddersfield
 ### [The people of Huddersfield in the Metropolitan Borough of Kirklees of West Yorkshire in England are ordered to remain indoors and several schools are shut down after a huge fire engulfs a chemical plant in the area. ](/news/2010/05/24/the-people-of-huddersfield-in-the-metropolitan-borough-of-kirklees-of-west-yorkshire-in-england-are-ordered-to-remain-indoors-and-several-sc.md)
-_Context: England, Huddersfield, Metropolitan Borough of Kirklees, West Yorkshire_
+_Context: English, Huddersfield, Metropolitan Borough of Kirklees, West Yorkshire_
 
 ##### Plane Stupid
 ### [Plane Stupid protesters break into Manchester Airport and lock arms around an aircraft. Flights are suspended. ](/news/2010/05/24/plane-stupid-protesters-break-into-manchester-airport-and-lock-arms-around-an-aircraft-flights-are-suspended.md)

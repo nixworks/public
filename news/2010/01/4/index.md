@@ -17,7 +17,7 @@ _Context: Jacob Zuma, South Africa_
 
 ##### Johan Ferrier
 ### [Johan Ferrier, first President of Suriname and the world's oldest living former head of state, dies in the Netherlands at the age of 99. ](/news/2010/01/4/johan-ferrier-first-president-of-suriname-and-the-world-s-oldest-living-former-head-of-state-dies-in-the-netherlands-at-the-age-of-99.md)
-_Context: Dutch, Johan Ferrier, President of Suriname, Suriname, oldest living former head of state_
+_Context: Johan Ferrier, Netherlands, President of Suriname, Suriname, oldest living former head of state_
 
 ##### Newark Liberty International Airport
 ### [Police search for a mystery man who goes missing after sparking a security alert at Newark Liberty International Airport in the United States, causing the airport to be completely locked down. ](/news/2010/01/4/police-search-for-a-mystery-man-who-goes-missing-after-sparking-a-security-alert-at-newark-liberty-international-airport-in-the-united-state.md)
@@ -25,7 +25,7 @@ _Context: Newark Liberty International Airport, United States_
 
 ##### Malaysia
 ### [52 unmarried couples in Malaysia face charges of sexual misconduct and possible imprisonment after being caught alone in hotel rooms by the country's Islamic morality police. ](/news/2010/01/4/52-unmarried-couples-in-malaysia-face-charges-of-sexual-misconduct-and-possible-imprisonment-after-being-caught-alone-in-hotel-rooms-by-the.md)
-_Context: Malaysia, Muslim_
+_Context: Malaysia, Muslims_
 
 ##### Government of Serbia
 ### [The Government of Serbia sues Croatia for genocide before the International Court of Justice with historical account of the Holocaust. ](/news/2010/01/4/the-government-of-serbia-sues-croatia-for-genocide-before-the-international-court-of-justice-with-historical-account-of-the-holocaust.md)

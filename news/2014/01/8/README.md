@@ -9,7 +9,7 @@ _Context: Barack Obama, Robert Gates, War in Afghanistan_
 
 ##### High Court, London
 ### [A jury at the High Court, London returns an 8-2 majority verdict of lawful killing at the inquest into the death of Mark Duggan, whose death at the hands of Trident Gang Crime Command Metropolitan Police firearms officers in August 2011 sparked the 2011 England Riots. This verdict was reached despite the fact the jury also found that Mark Duggan was not holding a gun when he was shot by the police, sparking protests outside the court and in Tottenham. ](/news/2014/01/8/a-jury-at-the-high-court-london-returns-an-8-2-majority-verdict-of-lawful-killing-at-the-inquest-into-the-death-of-mark-duggan-whose-death.md)
-_Context: 2011 England Riots, High Court, London, Metropolitan Police, Tottenham, Trident Gang Crime Command, death of Mark Duggan, firearms officers, inquest_
+_Context: 2011 England Riots, High Court, London, Police, Tottenham, Trident Gang Crime Command, death of Mark Duggan, firearms officers, inquest_
 
 ##### U.S. Department of the Treasury
 ### [The U.S. Department of the Treasury sanctions the Sinaloa Cartel enforcer El Chino ntrax under the Foreign Narcotics Kingpin Designation Act, which virtually prohibits U.S. citizens from conducting any financial deal with the drug lord and freezes his assets. ](/news/2014/01/8/the-u-s-department-of-the-treasury-sanctions-the-sinaloa-cartel-enforcer-el-chino-antrax-under-the-foreign-narcotics-kingpin-designation-ac.md)

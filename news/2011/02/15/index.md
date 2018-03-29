@@ -35,9 +35,9 @@ _Context: death of Linda Norgrove_
 ### [The Prime Minister of Italy Silvio Berlusconi is indicted on charges of paying for sex with an underaged girl and abuse of power in the so-called Rubygate scandal. ](/news/2011/02/15/the-prime-minister-of-italy-silvio-berlusconi-is-indicted-on-charges-of-paying-for-sex-with-an-underaged-girl-and-abuse-of-power-in-the-so-c.md)
 Italian PM Silvio Berlusconi is indicted to stand trial on charges of paying for sex with an under-age prostitute and abuse of power.
 
-##### Muslim
+##### Muslims
 ### [Islamic morality police arrest over 80 Muslims in Malaysia to prevent them from celebrating Valentine's Day. ](/news/2011/02/15/islamic-morality-police-arrest-over-80-muslims-in-malaysia-to-prevent-them-from-celebrating-valentine-s-day.md)
-_Context: Malaysia, Muslim, Muslim, Valentine's Day_
+_Context: Malaysia, Muslim, Muslims, Valentine's Day_
 
 ##### UNASUR Constitutive Treaty
 ### [The UNASUR Constitutive Treaty of the Union of South American Nations will come into force on March 11th, following the deposit of its ninth instrument of ratification, by the Uruguayan government. ](/news/2011/02/15/the-unasur-constitutive-treaty-of-the-union-of-south-american-nations-will-come-into-force-on-march-11th-following-the-deposit-of-its-ninth.md)

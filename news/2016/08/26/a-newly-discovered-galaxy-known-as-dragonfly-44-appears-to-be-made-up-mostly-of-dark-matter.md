@@ -16,4 +16,5 @@ Astronomers have found a galaxy whose mass is similar to the Milky Way, but Drag
 
 ### Related:
 
-1. [NASA announces that the Alpha Magnetic Spectrometer module on board the International Space Station has found possible evidence of dark matter. ](/news/2013/04/3/nasa-announces-that-the-alpha-magnetic-spectrometer-module-on-board-the-international-space-station-has-found-possible-evidence-of-dark-matt.md) _Context: dark matter_
+1. [The discovery of a galaxy that appears to contain no dark matter, dubbed NGC1052-DF2, is reported in Nature. If confirmed it would be the first such galaxy discovered. ](/news/2018/03/28/the-discovery-of-a-galaxy-that-appears-to-contain-no-dark-matter-dubbed-ngc1052-df2-is-reported-in-nature-if-confirmed-it-would-be-the-fi.md) _Context: dark matter_
+2. [NASA announces that the Alpha Magnetic Spectrometer module on board the International Space Station has found possible evidence of dark matter. ](/news/2013/04/3/nasa-announces-that-the-alpha-magnetic-spectrometer-module-on-board-the-international-space-station-has-found-possible-evidence-of-dark-matt.md) _Context: dark matter_

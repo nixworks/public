@@ -15,9 +15,9 @@ A NZ court orders Pike River Coal to pay nearly $3m in compensation over the 201
 ### [Bolivian president Evo Morales calls the Eurozone for a violation of international law and threatens to close down the U.S. embassy in Bolivia after the episode of having his official airplane being refused to land "en route" to Vienna, amid suspicions of having former NSA employee Edward Snowden on board. Ambassadors of France, Italy, Spain and Portugal are summoned to give full explanations.](/news/2013/07/5/bolivian-president-evo-morales-calls-the-eurozone-for-a-violation-of-international-law-and-threatens-to-close-down-the-u-s-embassy-in-boliv.md)
 _Context: Bolivia, Edward Snowden, Eurozone, Evo Morales, France, Italy, Portugal, Spanish, U.S. embassy in Bolivia, Vienna_
 
-##### China
+##### Chinese
 ### [The People's Republic of China and Russia begin joint naval exercises in the Sea of Japan. ](/news/2013/07/5/the-people-s-republic-of-china-and-russia-begin-joint-naval-exercises-in-the-sea-of-japan.md)
-_Context: China, Russia, Sea of Japan_
+_Context: Chinese, Russia, Sea of Japan_
 
 ##### Wisconsin
 ### [In three states--Wisconsin, Minnesota (where an elderly person's death was reported), and Illinois--in the United States, Whole Foods Market Inc. is recalling three types of the Crave Brothers (based in Waterloo, Wisconsin) Les Freres cheese, sold in 30 states and in Washington, D.C., due to concerns that it may be contaminated with "Listeria monocytogenes", which causes listeriosis, dangerous especially to the immunocompromised and pregnant women. ](/news/2013/07/5/in-three-statesawisconsin-minnesota-where-an-elderly-person-s-death-was-reported-and-illinoisain-the-united-states-whole-foods-mark.md)

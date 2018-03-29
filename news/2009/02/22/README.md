@@ -25,7 +25,7 @@ _Context: Australia, Victoria, national day of mourning, recent bushfires_
 
 ##### Miner
 ### [ At least 73 miners die following an explosion in a coal mine in Gujiao, Shanxi, China. ](/news/2009/02/22/at-least-73-miners-die-following-an-explosion-in-a-coal-mine-in-gujiao-shanxi-china.md)
-_Context: China, Gujiao, Shanxi province, coal mine, explosion, miner_
+_Context: China, Gujiao, Shanxi, coal mine, explosion, miner_
 
 ##### Vietnam
 ### [ Vietnamese Prime Minister Nguyen TCNYn Dung inaugurates the country's first oil refinery. ](/news/2009/02/22/vietnamese-prime-minister-nguya-n-taocnyn-da-c-ng-inaugurates-the-country-s-first-oil-refinery.md)

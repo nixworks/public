@@ -33,7 +33,7 @@ Opponents see bill as an erosion of judicial independence under populist Law and
 
 ##### Brexit negotiations
 ### [The European Union and the United Kingdom reach agreement on the first stage of Brexit including the status of the border between the U.K. and Ireland. ](/news/2017/12/8/the-european-union-and-the-united-kingdom-reach-agreement-on-the-first-stage-of-brexit-including-the-status-of-the-border-between-the-u-k-a.md)
-_Context: Brexit negotiations, EU, Irish, United Kingdom_
+_Context: Brexit negotiations, European Union, Irish, United Kingdom_
 
 ##### Recognize Jerusalem as Israel's capital
 ### [Russia's Minister of Foreign Affairs Sergei Lavrov says that the recognition of Jerusalem as Israel's capital by the United States "runs counter to common sense." ](/news/2017/12/8/russia-s-minister-of-foreign-affairs-sergei-lavrov-says-that-the-recognition-of-jerusalem-as-israel-s-capital-by-the-united-states-runs-cou.md)
@@ -45,7 +45,7 @@ President Trump approved California’s request for an emergency declaration Fri
 
 ##### Japan-European Union relations
 ### [The European Union and Japan announce that they concluded negotiations on a trade deal. ](/news/2017/12/8/the-european-union-and-japan-announce-that-they-concluded-negotiations-on-a-trade-deal.md)
-_Context: EU, Japan, Japan-European Union relations_
+_Context: European Union, Japan, Japan-European Union relations_
 
 ##### 2017 Semuliki attack
 ### [Suspected Allied Democratic Forces militants in North Kivu, DR Congo, kill at least 15 United Nations peacekeepers, mostly Tanzanian, and five Congolese soldiers, and wound 53 other people. An unknown number of the rebels are killed. Over 90 peacekeepers have been killed since the mission started in 1999. ](/news/2017/12/8/suspected-allied-democratic-forces-militants-in-north-kivu-dr-congo-kill-at-least-15-united-nations-peacekeepers-mostly-tanzanian-and-fi.md)

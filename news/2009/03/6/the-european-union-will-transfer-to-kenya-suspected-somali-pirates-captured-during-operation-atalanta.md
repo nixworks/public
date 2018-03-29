@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/03/6/the-european-union-will-transfer-to-kenya-suspec
 
 ### [2009-03-6](/news/2009/03/6/index.md)
 
-##### EU
+##### European Union
 #  The European Union will transfer to Kenya suspected Somali pirates captured during Operation Atalanta. 
 
 

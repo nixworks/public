@@ -16,4 +16,5 @@ Between 300 and 400 members of far-right groups, including La Meute and Storm Al
 
 ### Related:
 
-1. [Quebec police shoot and kill a 19-year-old suspect following a stabbing spree in the village of Akulivik which left three people dead and two others critically injured. ](/news/2017/06/10/quebec-police-shoot-and-kill-a-19-year-old-suspect-following-a-stabbing-spree-in-the-village-of-akulivik-which-left-three-people-dead-and-tw.md) _Context: Crime in Canada_
+1. [A court in Quebec City accepts guilty pleas to six murders and six attempted murders tendered by Alexandre Bissonnette on Monday and lifts restrictions on reporting the pleas after he passes a psychiatric evaluation. The charges relate to a 2017 Islamophobic shooting at a mosque that Justin Trudeau described as a terrorist attack. ](/news/2018/03/28/a-court-in-quebec-city-accepts-guilty-pleas-to-six-murders-and-six-attempted-murders-tendered-by-alexandre-bissonnette-on-monday-and-lifts-r.md) _Context: Crime in Canada_
+2. [Quebec police shoot and kill a 19-year-old suspect following a stabbing spree in the village of Akulivik which left three people dead and two others critically injured. ](/news/2017/06/10/quebec-police-shoot-and-kill-a-19-year-old-suspect-following-a-stabbing-spree-in-the-village-of-akulivik-which-left-three-people-dead-and-tw.md) _Context: Crime in Canada_

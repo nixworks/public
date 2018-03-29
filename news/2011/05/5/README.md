@@ -65,7 +65,7 @@ Foreign Secretary William Hague ordered the expulsion of two more Libyan diploma
 
 ##### South Korea
 ### [The South Korean National Assembly ratifies a free trade agreement with the European Union. ](/news/2011/05/5/the-south-korean-national-assembly-ratifies-a-free-trade-agreement-with-the-european-union.md)
-_Context: EU, National Assembly of South Korea, South Korea, free trade agreement_
+_Context: European Union, National Assembly of South Korea, South Korea, free trade agreement_
 
 ##### Sudanese cabinet
 ### [The Sudanese cabinet approves a bill to add two new states to Darfur's existing three, in what rebels have condemned as plan to strengthen the central government's control over the region. ](/news/2011/05/5/the-sudanese-cabinet-approves-a-bill-to-add-two-new-states-to-darfur-s-existing-three-in-what-rebels-have-condemned-as-plan-to-strengthen-t.md)

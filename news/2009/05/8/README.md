@@ -15,9 +15,9 @@ _Context: Guinea, Siguiri, cave-in, disappear, gold mine, kills_
 ### [ At least 45,000 people evacuate as war between the government and the Taliban continues in Swat, Pakistan. ](/news/2009/05/8/at-least-45-000-people-evacuate-as-war-between-the-government-and-the-taliban-continues-in-swat-pakistan.md)
 _Context: Pakistan, Swat, Pakistan, Taliban, War in North-West Pakistan, evacuation centers, government_
 
-##### Muslim
+##### Muslims
 ### [ Islamic terrorist and Singaporean fugitive Mas Selamat bin Kastari is arrested in Malaysia. ](/news/2009/05/8/islamic-terrorist-and-singaporean-fugitive-mas-selamat-bin-kastari-is-arrested-in-malaysia.md)
-_Context: Islamic terrorism, Malaysia, Mas Selamat bin Kastari, Muslim, Singapore, fugitive_
+_Context: Islamic terrorism, Malaysia, Mas Selamat bin Kastari, Muslims, Singapore, fugitive_
 
 ##### Wildfires
 ### [ Wildfires cause at least 30,000 people to evacuate Santa Barbara, California, United States. ](/news/2009/05/8/wildfires-cause-at-least-30-000-people-to-evacuate-santa-barbara-california-united-states.md)

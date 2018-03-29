@@ -17,7 +17,7 @@ _Context: Lithuania, Lithuanian parliamentary election, 2016, parliament_
 
 ##### United States presidential election debates, 2016
 ### [Hillary Clinton and Donald Trump hold the second presidential debate of the 2016 U.S. presidential election at Washington University in St. Louis, Missouri, in a "town meeting" format. ](/news/2016/10/9/hillary-clinton-and-donald-trump-hold-the-second-presidential-debate-of-the-2016-u-s-presidential-election-at-washington-university-in-st.md)
-_Context: 2016 U.S. election, Hillary Clinton, Missouri, Trump, United States presidential election debates, 2016, Washington University in St. Louis_
+_Context: 2016 U.S. election, Donald Trump, Hillary Clinton, Missouri, United States presidential election debates, 2016, Washington University in St. Louis_
 
 ##### 2016 Ethiopian protests
 ### [Ethiopia's government declares a six-month state of emergency amid continuing protests, especially in the restive Oromia Region. ](/news/2016/10/9/ethiopia-s-government-declares-a-six-month-state-of-emergency-amid-continuing-protests-especially-in-the-restive-oromia-region.md)

@@ -37,7 +37,7 @@ Saudi Arabia has received U.S. State Department approval for the $11.25 billion 
 
 ##### Refugee immigration to Germany
 ### [European Union members agree to provide 291 border guards to Greece and Italy to help identify and register migrants. ](/news/2015/10/20/european-union-members-agree-to-provide-291-border-guards-to-greece-and-italy-to-help-identify-and-register-migrants.md)
-_Context: EU, Greece, Italy, border guard, refugee immigration to Germany_
+_Context: European Union, Greece, Italy, border guard, refugee immigration to Germany_
 
 ##### Brazil
 ### [Brazil pulls out of an electoral mission to observe crucial legislative elections in Venezuela over what it says are a lack of guarantees by the government of Venezuela and its veto of the choice to head the delegation. ](/news/2015/10/20/brazil-pulls-out-of-an-electoral-mission-to-observe-crucial-legislative-elections-in-venezuela-over-what-it-says-are-a-lack-of-guarantees-by.md)
